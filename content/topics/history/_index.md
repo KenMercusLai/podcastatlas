@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1667
+topic_total_pages: 1668
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2822,6 +2822,9 @@ topic_entities:
   - key: "ZhuJiaLu"
     title: "朱家 / Zhu Jia (Lu)"
     url: "/wiki/entities/zhujialu/"
+  - key: "ZhuXuWesternHan"
+    title: "朱徐 / Zhu Xu (Western Han)"
+    url: "/wiki/entities/zhuxuwesternhan/"
   - key: "ZhuYingWarringStates"
     title: "朱英 / Zhu Ying (Warring States)"
     url: "/wiki/entities/zhuyingwarringstates/"

@@ -16984,3 +16984,11 @@ Added source note for the Yuanshou 2 / 1 BCE Han Aidi episode on the Xiongnu cha
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
+
+Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

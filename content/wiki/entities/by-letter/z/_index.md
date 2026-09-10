@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9537
+wiki_total_pages: 9538
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -995,6 +995,9 @@ wiki_pages:
   - key: "ZhuJiaLu"
     title: "朱家 / Zhu Jia (Lu)"
     url: "/wiki/entities/zhujialu/"
+  - key: "ZhuXuWesternHan"
+    title: "朱徐 / Zhu Xu (Western Han)"
+    url: "/wiki/entities/zhuxuwesternhan/"
   - key: "ZhuXiaodongSportsRights"
     title: "朱晓东 / Zhu Xiaodong"
     url: "/wiki/entities/zhuxiaodongsportsrights/"

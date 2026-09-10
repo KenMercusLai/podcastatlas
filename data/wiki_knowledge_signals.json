@@ -20902,9 +20902,9 @@
       "url": "/wiki/entities/dongxilatehan/"
     },
     "DongXian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -20919,6 +20919,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪 [llaDjFBiXQzHXJurJS1z8ZTSa1ST].md",
+          "key": "zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st/"
         }
       ],
       "updated": "2026-09-10",
@@ -44556,9 +44563,9 @@
       "url": "/wiki/entities/kongfeneasternhan/"
     },
     "KongGuangWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
@@ -44580,6 +44587,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪 [llaDjFBiXQzHXJurJS1z8ZTSa1ST].md",
+          "key": "zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st/"
         }
       ],
       "updated": "2026-09-10",
@@ -62251,9 +62265,9 @@
       "url": "/wiki/concepts/persistentcloudagents/"
     },
     "PersonaShieldedPoliticalPurge": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
@@ -62261,6 +62275,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪 [llaDjFBiXQzHXJurJS1z8ZTSa1ST].md",
+          "key": "zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st/"
         }
       ],
       "updated": "2026-09-10",
@@ -95690,6 +95711,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/zhuxiaohu/"
+    },
+    "ZhuXuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪 [llaDjFBiXQzHXJurJS1z8ZTSa1ST].md",
+          "key": "zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/zhuxuwesternhan/"
     },
     "ZhuYuLateHan": {
       "episode_count": 3,
