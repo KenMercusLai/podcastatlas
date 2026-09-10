@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2316
+topic_total_pages: 2318
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3703,6 +3703,12 @@ topic_concepts:
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"
+  - key: "CriminalLawAfterLivelihoodCollapse"
+    title: "民困之后的刑法失灵 / Criminal Law After Livelihood Collapse"
+    url: "/wiki/concepts/criminallawafterlivelihoodcollapse/"
+  - key: "PopularSufferingGovernanceDiagnostic"
+    title: "民困治理诊断 / Popular Suffering Governance Diagnostic"
+    url: "/wiki/concepts/popularsufferinggovernancediagnostic/"
   - key: "TalentSummonsRulerSelfExamination"
     title: "求贤中的君主自省 / Talent Summons Ruler Self-Examination"
     url: "/wiki/concepts/talentsummonsrulerselfexamination/"

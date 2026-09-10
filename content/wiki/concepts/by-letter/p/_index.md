@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6953
+wiki_total_pages: 6955
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1853,6 +1853,9 @@ wiki_pages:
   - key: "PunishmentConvertedToCampaignCommand"
     title: "死罪转军功式任用 / Punishment Converted to Campaign Command"
     url: "/wiki/concepts/punishmentconvertedtocampaigncommand/"
+  - key: "PopularSufferingGovernanceDiagnostic"
+    title: "民困治理诊断 / Popular Suffering Governance Diagnostic"
+    url: "/wiki/concepts/popularsufferinggovernancediagnostic/"
   - key: "PeiCountyUprisingMobilization"
     title: "沛县起义动员 / Pei County Uprising Mobilization"
     url: "/wiki/concepts/peicountyuprisingmobilization/"

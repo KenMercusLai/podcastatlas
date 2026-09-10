@@ -10,6 +10,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 Added Huberman Lab source page for Jeff Cavaliere's function-first strength episode, created Jeff Cavaliere plus five training concepts, and linked the episode to existing exercise longevity, load management, joint-protection, nutrition, and sustainable optimization frames.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？
+
+Ingested the 2026-05-24 芮淇讲透资治通鉴 episode on Bao Xuan's Jianping 4 / 3 BCE memorial to Han Aidi. Added source `zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv`; created `PopularSufferingGovernanceDiagnostic` and `CriminalLawAfterLivelihoodCollapse`; updated `BaoXuanWesternHan`, `HanAidi`, `DongXian`, `FuXiWesternHan`, `index`, and `overview`. No settled contradiction found; the full memorial wording, minor named actors, and balanced Aidi reign evaluation remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》594丨你身边有以自我为中心的人吗？
 
 Ingested the 2026-05-25 芮淇讲透资治通鉴 episode on Du Ye's Yuanshou 1 / 2 BCE omen-coded remonstrance to Han Aidi. Added source `zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2`; updated `DuYeWesternHan`, `HanAidi`, `KongGuangWesternHan`, `CorrectiveAdviceNonconversion`, `index`, and `overview`. No settled contradiction found; the two Da Sima identities, original memorial wording, Aidi's private response, and Kong Guang's actual eclipse answer remain source-scoped.
@@ -17124,6 +17128,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | Advice Line with Kip Tindell of The Container Store
 
 Added source note for the How I Built This Advice Line episode with Kip Tindell on The Container Store, service-led retail, capacity-matched growth, Kula Wand's demonstration-led discovery, Hazel Grove Customs' independent-retailer wholesale path, and Kaomi Sleep's viral-product-to-brand transition. Added focused entity pages for Kip Tindell, The Container Store, Sharon Tindell, Garrett Boone, Kula Wand, Juliette Bruce, Hazel Grove Customs, David Hyam, Kaomi Sleep, and Caitlin Kale; added CapacityMatchedGrowth, IndependentRetailDiscovery, and ViralProductToBrandTransition.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

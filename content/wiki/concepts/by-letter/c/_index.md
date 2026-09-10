@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6953
+wiki_total_pages: 6955
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -2195,6 +2195,9 @@ wiki_pages:
   - key: "CoercedNormality"
     title: "正常性强制 / Coerced Normality"
     url: "/wiki/concepts/coercednormality/"
+  - key: "CriminalLawAfterLivelihoodCollapse"
+    title: "民困之后的刑法失灵 / Criminal Law After Livelihood Collapse"
+    url: "/wiki/concepts/criminallawafterlivelihoodcollapse/"
   - key: "CleanOfficialCapacityGap"
     title: "清官能吏能力差 / Clean Official Capacity Gap"
     url: "/wiki/concepts/cleanofficialcapacitygap/"

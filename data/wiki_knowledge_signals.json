@@ -8287,9 +8287,9 @@
       "url": "/wiki/entities/baosi/"
     },
     "BaoXuanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
@@ -8297,6 +8297,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？ [lovZ7EPf8Qs0AtyR3njy2kvblqPv].md",
+          "key": "zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
         }
       ],
       "updated": "2026-09-10",
@@ -17451,6 +17458,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/crimestatisticscomparability/"
     },
+    "CriminalLawAfterLivelihoodCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？ [lovZ7EPf8Qs0AtyR3njy2kvblqPv].md",
+          "key": "zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/criminallawafterlivelihoodcollapse/"
+    },
     "CrisisComposureCoverStory": {
       "episode_count": 2,
       "show_count": 1,
@@ -21168,9 +21191,9 @@
       "url": "/wiki/entities/dongxilatehan/"
     },
     "DongXian": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -21241,6 +21264,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》595丨王莽杀子，揭露权力的残酷",
           "url": "/wiki/sources/zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？ [lovZ7EPf8Qs0AtyR3njy2kvblqPv].md",
+          "key": "zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
         }
       ],
       "updated": "2026-09-10",
@@ -31556,9 +31586,9 @@
       "url": "/wiki/entities/futaihouwesternhan/"
     },
     "FuXiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？ [ltwscYyiOBC1ocVGTI3Fd-deAJrU].md",
@@ -31566,6 +31596,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？ [lovZ7EPf8Qs0AtyR3njy2kvblqPv].md",
+          "key": "zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
         }
       ],
       "updated": "2026-09-10",
@@ -35958,9 +35995,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanAidi": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 2,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -36045,6 +36082,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》594丨你身边有以自我为中心的人吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？ [lovZ7EPf8Qs0AtyR3njy2kvblqPv].md",
+          "key": "zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
         }
       ],
       "updated": "2026-09-10",
@@ -64598,6 +64642,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/popeyes/"
+    },
+    "PopularSufferingGovernanceDiagnostic": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？ [lovZ7EPf8Qs0AtyR3njy2kvblqPv].md",
+          "key": "zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》588丨老板不称职，下属能有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/popularsufferinggovernancediagnostic/"
     },
     "PopularisPolitics": {
       "episode_count": 2,
