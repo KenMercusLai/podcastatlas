@@ -9,16 +9,19 @@ sources:
   - zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0
   - zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq
   - zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5
+  - zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs
 last_updated: 2026-09-10
 ---
 
 ## Overview
 
-王嘉 / Wang Jia is synthesized as a late [[WesternHanDynasty|Western Han]] chancellor whose case shows how direct court correction could become lethal under [[HanAidi|汉哀帝]], but also how dangerous advice can be sequenced to improve its chance of being heard. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] shows Wang Jia praising Aidi before listing Dong Xian's public-resource abuses and reframing restraint as protection for [[DongXian|董贤]]. [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] then completes the arc begun in Hanji 597 and [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]]: Wang Jia does not disappear through private suicide, but lives long enough to answer the Tingwei case, defend [[LiangXiangWesternHan|梁相]]'s group, accuse Dong Xian's father-son network, and die in prison.
+王嘉 / Wang Jia is synthesized as a late [[WesternHanDynasty|Western Han]] chancellor whose case shows how direct court correction could become lethal under [[HanAidi|汉哀帝]], but also how dangerous advice can be sequenced to improve its chance of being heard. [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|Hanji 586]] now adds an earlier procedural layer: Wang Jia and [[JiaYanWesternHan|贾延]] object to formal [[DongXian|董贤]] enfeoffment by asking Aidi to publish the case record and let court officials and scholars examine whether the merit claim is real. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] then shows Wang Jia praising Aidi before listing Dong Xian's public-resource abuses and reframing restraint as protection for Dong Xian. [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] completes the arc begun in Hanji 597 and [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]]: Wang Jia does not disappear through private suicide, but lives long enough to answer the Tingwei case, defend [[LiangXiangWesternHan|梁相]]'s group, accuse Dong Xian's father-son network, and die in prison.
 
 ## Current Profile
 
-Wang Jia's profile is built around high-risk remonstrance inside a suspicious court. [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] now supplies the earliest current layer: after Aidi responds to a solar eclipse by inviting criticism, Wang Jia confidentially praises Han Yuan, Han Cheng, and early Aidi for thrift, receptivity to criticism, restraint toward favorites, and concern for public burden. The praise is not treated as a finished verdict; it creates a precedent-based runway for the sharper Dong Xian warning in Hanji 593.
+Wang Jia's profile is built around high-risk remonstrance inside a suspicious court. Hanji 586 now supplies the earliest current Dong Xian-specific layer: when Aidi wants to move from Guannei Hou status toward formal marquisate for Dong Xian, Wang Jia and Jia Yan warn that public rumor already sees Dong Xian as honored because of favor. Their remedy is procedural rather than only moral: publish the original memorials, let senior officials and scholars examine the old case, and make any reward rest on a public record rather than on private imperial insistence.
+
+[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] supplies the next current layer: after Aidi responds to a solar eclipse by inviting criticism, Wang Jia confidentially praises Han Yuan, Han Cheng, and early Aidi for thrift, receptivity to criticism, restraint toward favorites, and concern for public burden. The praise is not treated as a finished verdict; it creates a precedent-based runway for the sharper Dong Xian warning in Hanji 593.
 
 Hanji 593 then shows Wang Jia moving from praise of Aidi into concrete evidence that Dong Xian's favor has crossed from private affection into mansion construction, official household provisioning, market intimidation, servant rewards, land grants, public rumor, and disaster pressure. His strongest move is rhetorical: he argues that excessive love will harm Dong Xian, giving Aidi a way to accept restraint as protection rather than humiliation.
 
@@ -33,7 +36,7 @@ The outcome is partial and unstable correction. Aidi restores Kong Guang and He 
 ## Key Characteristics
 
 - Late Western Han chancellor and New Fu marquis exposed under Han Aidi.
-- Senior official who packages dangerous criticism through praise of imperial precedent, role duty, concrete evidence, historical precedent, and favorite-protection language.
+- Senior official who packages dangerous criticism through public examination demands, praise of imperial precedent, role duty, concrete evidence, historical precedent, and favorite-protection language.
 - Senior official who tries to re-legitimate Liang Xiang's group after their dismissal.
 - Remonstrant whose talent-preservation argument is interpreted as imperial defiance.
 - Official whose Dong Xian-related resistance becomes part of Aidi's anger.
@@ -42,6 +45,8 @@ The outcome is partial and unstable correction. Aidi restores Kong Guang and He 
 
 ## Evidence
 
+- Early procedural objection: [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|Hanji 586]] says Wang Jia and Jia Yan warn that Dong Xian's Guannei Hou status is already seen as favor-based and ask for public examination before further reward.
+- Responsibility-sharing logic: [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|Hanji 586]] says Wang Jia and Jia Yan frame open procedure as a way to avoid Aidi bearing public resentment alone.
 - Praise prelude: [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] says Wang Jia praises Han Yuan, Han Cheng, and early Aidi inside an eclipse-prompted criticism window.
 - Advice sequencing: [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] says Wang Jia moves from praise into hard criticism about Dong Xian's privileges.
 - Public-resource catalog: [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] lists Dong Xian's mansion, garden, utensils, family provisioning, market escort, servant rewards, and land grants as evidence of overfavor.
@@ -61,11 +66,11 @@ The outcome is partial and unstable correction. Aidi restores Kong Guang and He 
 
 ## Qualifications
 
-The current wiki evidence is source-scoped to Hanji 592, Hanji 593, Hanji 597, Hanji 598, and Hanji 599. The page still does not cover Wang Jia's full earlier career or the full legal record behind Aidi's accusation. Hanji 592 and Hanji 593 preserve a podcast reading of Wang Jia's rhetoric rather than the complete original memorial context. Hanji 592 also withholds the final purpose until the next episode, so its praise claims should be read as rhetorical setup. Hanji 597 frames the edict return through Wang Jia's own memorial logic, so the authenticity of Fu Taihou's instruction, the complete reward procedure, and Wang Jia's inner motive remain source-scoped. Hanji 598 and Hanji 599 frame Wang Jia sympathetically, but his prior participation in criticizing Liang Xiang's group and his final praise of Kong Guang, later qualified by the Bao Xuan case, prevent a simple loyal-versus-disloyal or worthy-versus-unworthy reading.
+The current wiki evidence is source-scoped to Hanji 586, Hanji 592, Hanji 593, Hanji 597, Hanji 598, and Hanji 599. The page still does not cover Wang Jia's full earlier career or the full legal record behind Aidi's accusation. Hanji 586 preserves the episode's reconstruction of a procedural objection to Dong Xian's fabricated or contested merit, not the complete Dongping case file. Hanji 592 and Hanji 593 preserve a podcast reading of Wang Jia's rhetoric rather than the complete original memorial context. Hanji 592 also withholds the final purpose until the next episode, so its praise claims should be read as rhetorical setup. Hanji 597 frames the edict return through Wang Jia's own memorial logic, so the authenticity of Fu Taihou's instruction, the complete reward procedure, and Wang Jia's inner motive remain source-scoped. Hanji 598 and Hanji 599 frame Wang Jia sympathetically, but his prior participation in criticizing Liang Xiang's group and his final praise of Kong Guang, later qualified by the Bao Xuan case, prevent a simple loyal-versus-disloyal or worthy-versus-unworthy reading.
 
 ## What Changed
 
-- Added Hanji 592 as the earliest current layer: Wang Jia's praise of Yuan, Cheng, and early Aidi as a precedent-based prelude to later warning.
+- Added Hanji 586 as the earliest current Dong Xian-specific layer: Wang Jia and Jia Yan ask for public examination before Aidi turns contested merit into formal reward.
 - Preserved Hanji 593 as the first Dong Xian criticism layer: Wang Jia's advice sequencing and protective reframing of restraint toward Dong Xian.
 - Preserved Hanji 597 as the sealed-edict confrontation: Wang Jia's return of the Dong Xian reward edict and his rank-land-Heaven remonstrance.
 - Preserved Hanji 598 as the escalation from edict refusal and talent-preservation advice into Tingwei danger.
@@ -78,6 +83,7 @@ The current wiki evidence is source-scoped to Hanji 592, Hanji 593, Hanji 597, H
 - [[HanChengdi|汉成帝]] - earlier emperor whose tolerance of criticism and limited favorite protection Wang Jia uses as precedent.
 - [[LiangXiangWesternHan|梁相]] - official whose review request Wang Jia later defends.
 - [[DongXian|董贤]] - favorite whose fief-enlargement issue helps expose Wang Jia.
+- [[JiaYanWesternHan|贾延]] - Yushi Dafu who joins Wang Jia's early procedural objection to Dong Xian's enfeoffment.
 - [[FuTaihouWesternHan|傅太后]] - deceased empress dowager whose claimed instruction supplies the formal reward channel Wang Jia rejects.
 - [[KongGuangWesternHan|孔光]] - senior official who supports sending Wang Jia to Tingwei in this source.
 - [[HeWuWesternHan|何武]] - official Wang Jia names as a worthy figure who should have been restored.

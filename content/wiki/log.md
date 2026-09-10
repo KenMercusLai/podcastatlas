@@ -10,6 +10,10 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
 Ingested the 2026-05-23 芮淇讲透资治通鉴 episode on Han Aidi and Dong Xian's "断袖" origin layer. Added source `zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa`; created `ZhengChongWesternHan` and `ZhaoChangWesternHan`; updated `HanAidi`, `DongXian`, `SunBaoWesternHan`, and `index`. No settled contradiction found; Aidi's psychology, Dong-family relative careers, Zhao Chang's accusation record, and Sun Bao's legal procedure remain source-scoped.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》586丨为了爱情，古代皇帝有多冲动？
+
+Ingested the 2026-05-23 芮淇讲透资治通鉴 episode on Han Aidi fabricating merit for Dong Xian through the Dongping king Liu Yun case record, Fu Jia's record-alteration proposal, Wang Jia and Jia Yan's procedural remonstrance, Dong Xian's Gaoan Hou enfeoffment, and Xi Fu Gong's feared accusation channel. Added source `zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs`; updated `HanAidi`, `DongXian`, `WangJiaWesternHan`, `FuJiaWesternHan`, `JiaYanWesternHan`, `XiFuGongWesternHan`, and `index`. No settled contradiction found; the full Liu Yun case record, documentary alteration mechanics, Sun Chong's identity, and later careers of all rewarded actors remain source-scoped.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果
 
 Ingested the 2026-05-24 芮淇讲透资治通鉴 episode on Han Aidi's near-refusal of a Xiongnu chanyu visit for fiscal reasons and Yang Xiong's warning that the saving could damage frontier trust. Added source `zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d`; created `DiplomaticCostRiskAccounting`; linked the episode to Han-Xiongnu heqin, frontier recognition credibility, and Xiongnu threat-history pages. No settled contradiction found; reception-cost figures, the chanyu's likely reaction, and the fuller explanation of Xiongnu's special danger remain source-scoped.
@@ -17168,6 +17172,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
