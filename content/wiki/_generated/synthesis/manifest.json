@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-10",
   "corpus": {
-    "episode_count": 2133,
-    "source_count": 2133
+    "episode_count": 2134,
+    "source_count": 2134
   },
   "generated": true,
   "global": {
@@ -16,15 +16,15 @@
     "output_digest": "1dce959696aa35725acf91c4b423a9760e9235f0e5bfdd395a954ca409310450",
     "overview_commit": "0d4197c15470f9c76e754f1f6ee27fcf1c1fe7b5",
     "overview_digest": "9aab3c269270acd72fc226e445861e3bc56c04d335b1d7c370bf3e97cfdacf46",
-    "pending_ingests": 2,
+    "pending_ingests": 3,
     "pending_topics": [
       "governance-and-institutions",
       "history-and-geopolitics",
       "work-education-and-society"
     ]
   },
-  "overview_commit": "585d207efffc932ce6d91356be0ee506357a973c",
-  "overview_digest": "2444da457e4cf6f1895d5028035afe294fe69c0fb200f76a9167b5ace71a3e70",
+  "overview_commit": "6771bc0ce9c17b9dea4cdd293a3261e65c21266d",
+  "overview_digest": "dc10bf69b150686744fdffd32fcde2cfba66fbee0756271dd2ce6a354bd05ab5",
   "paragraph_count": 605,
   "schema_version": 1,
   "topics": {

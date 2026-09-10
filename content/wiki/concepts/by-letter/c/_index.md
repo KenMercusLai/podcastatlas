@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6942
+wiki_total_pages: 6947
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -1613,6 +1613,9 @@ wiki_pages:
   - key: "CorrectableLeadershipError"
     title: "Correctable Leadership Error / 犯错能改的领导力"
     url: "/wiki/concepts/correctableleadershiperror/"
+  - key: "CorrectiveWeakLinkTraining"
+    title: "Corrective Weak-Link Training"
+    url: "/wiki/concepts/correctiveweaklinktraining/"
   - key: "CorticostriatalThalamicLoop"
     title: "Corticostriatal-Thalamic Loop"
     url: "/wiki/concepts/corticostriatalthalamicloop/"

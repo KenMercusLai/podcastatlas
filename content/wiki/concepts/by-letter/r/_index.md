@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6942
+wiki_total_pages: 6947
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "RootCausePublicHealthResearch"
     title: "Root-Cause Public Health Research"
     url: "/wiki/concepts/rootcausepublichealthresearch/"
+  - key: "RotatorCuffExternalRotation"
+    title: "Rotator Cuff External Rotation"
+    url: "/wiki/concepts/rotatorcuffexternalrotation/"
   - key: "RotomoldedCoolerCategory"
     title: "Rotomolded Cooler Category"
     url: "/wiki/concepts/rotomoldedcoolercategory/"

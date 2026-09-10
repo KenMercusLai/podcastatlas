@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6942
+wiki_total_pages: 6947
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1100,6 +1100,9 @@ wiki_pages:
   - key: "FunctionalFoodRegulatoryIdentity"
     title: "Functional Food Regulatory Identity / 功能食品监管身份"
     url: "/wiki/concepts/functionalfoodregulatoryidentity/"
+  - key: "FunctionalLongevityTraining"
+    title: "Functional Longevity Training"
+    url: "/wiki/concepts/functionallongevitytraining/"
   - key: "FundAdvisoryFeeTransparency"
     title: "Fund Advisory Fee Transparency / 基金投顾费率透明"
     url: "/wiki/concepts/fundadvisoryfeetransparency/"

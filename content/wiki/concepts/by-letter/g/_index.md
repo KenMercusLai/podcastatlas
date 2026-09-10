@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6942
+wiki_total_pages: 6947
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "GLP1BodyCompositionStack"
     title: "GLP-1 Body Composition Stack"
     url: "/wiki/concepts/glp1bodycompositionstack/"
+  - key: "GluteMediusPelvicControl"
+    title: "Glute Medius Pelvic Control"
+    url: "/wiki/concepts/glutemediuspelviccontrol/"
   - key: "GlycationSkinAnxiety"
     title: "Glycation Skin Anxiety / 糖化皮肤焦虑"
     url: "/wiki/concepts/glycationskinanxiety/"

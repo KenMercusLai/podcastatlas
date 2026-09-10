@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere](sources/build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319.md) — Huberman Lab episode with Jeff Cavaliere on function-first strength, weak-link corrective work, glute medius and rotator cuff control, pain-aware training, cardio, nutrition, and sustainable programming.
 - [《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？](sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5.md) — Late-Western-Han court-politics episode setting up Wang Jia's later Dong Xian remonstrance through praise of Han Yuan's thrift, Han Cheng's tolerance of criticism, and early Han Aidi's learning, frugality, and public-burden concern.
 - [《资治通鉴·汉纪》593丨真正厉害的人这样说话](sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq.md) — Late-Western-Han court-politics episode on Wang Jia's hierarchy-aware remonstrance against Han Aidi's overfavoring of Dong Xian through mansion works, household provisioning, market intimidation, land grants, disaster-rumor pressure, and the warning that wrong love harms the favorite.
 - [《资治通鉴·汉纪》594丨你身边有以自我为中心的人吗？](sources/zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2.md) — Late-Western-Han court-politics episode on Du Ye's omen-coded remonstrance to Han Aidi about disasters, filial limits, dowager deference, outer-relative offices, and selective advice reception.
@@ -2141,6 +2142,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Jeff Cavaliere](entities/JeffCavaliere.md) — Physical therapist and strength coach featured on Huberman Lab explaining function-first strength, corrective weak-link programming, and pain-aware training continuity.
 - [Alexander Liss](entities/AlexanderLiss.md) — Denver-based data and AI scientist discussing enterprise AI reward signals, attention fine-tuning, and the Experience Orchestrator in Data Science With Sam EP41.
 - [谢金 / Xie Jin](entities/XieJinPhilosopher.md) — Fudan philosophy associate professor in 史蒂夫说 episode 464, translating feminism, epistemic injustice, embodied vulnerability, public-space hierarchy, and happy-together good life into everyday examples.
 - [褒姒 / Bao Si](entities/BaoSi.md) — Western Zhou consort remembered through the "一笑亡国" and beacon-fire legends, with her supernatural birth story kept source-scoped.
@@ -11702,6 +11704,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Functional Longevity Training](concepts/FunctionalLongevityTraining.md) — Training frame for preserving usable strength, balance, joint control, cardio capacity, and daily movement quality with age.
+- [Corrective Weak-Link Training](concepts/CorrectiveWeakLinkTraining.md) — Short targeted programming for muscles, positions, or control patterns that limit safe long-term strength training.
+- [Glute Medius Pelvic Control](concepts/GluteMediusPelvicControl.md) — Lateral hip and pelvis-control frame connecting glute medius strength to low-back mechanics, balance, gait, and single-leg training.
+- [Rotator Cuff External Rotation](concepts/RotatorCuffExternalRotation.md) — Shoulder-control frame for training external rotation to balance internal-rotation dominance and support pressing or overhead movement.
+- [Pain-Aware Training Continuity](concepts/PainAwareTrainingContinuity.md) — Practice of modifying exercises, ranges, loads, or equipment around aches rather than reflexively stopping all training.
 - [Attention Fine-Tuning](concepts/AttentionFineTuning.md) — Post-training framework using model attention dynamics as a mathematical reward signal.
 - [Contextual Bandit Personalization](concepts/ContextualBanditPersonalization.md) — Marketing and personalization pattern where variants learn from observed user action in context.
 - [Dynamic Blindness](concepts/DynamicBlindness.md) — LLM failure mode where locally plausible outputs miss downstream system consequences.
