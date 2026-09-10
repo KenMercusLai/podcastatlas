@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9540
+wiki_total_pages: 9543
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -857,6 +857,9 @@ wiki_pages:
   - key: "GongsunHongLangyaWesternHan"
     title: "公孙洪 / Gongsun Hong (Langya, Western Han)"
     url: "/wiki/entities/gongsunhonglangyawesternhan/"
+  - key: "GongsunLuWesternHan"
+    title: "公孙禄 / Gongsun Lu (Western Han)"
+    url: "/wiki/entities/gongsunluwesternhan/"
   - key: "GongsunLuXinOfficial"
     title: "公孙禄 / Gongsun Lu (Xin official)"
     url: "/wiki/entities/gongsunluxinofficial/"

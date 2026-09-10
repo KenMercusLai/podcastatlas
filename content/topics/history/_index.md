@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1673
+topic_total_pages: 1676
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2195,6 +2195,9 @@ topic_entities:
   - key: "HeSenbao"
     title: "何森堡 / He Senbao"
     url: "/wiki/entities/hesenbao/"
+  - key: "HeWuWesternHan"
+    title: "何武 / He Wu (Western Han)"
+    url: "/wiki/entities/hewuwesternhan/"
   - key: "XiaLei"
     title: "侠累 / Xia Lei"
     url: "/wiki/entities/xialei/"
@@ -2213,6 +2216,9 @@ topic_entities:
   - key: "XiuyuBattle"
     title: "修鱼之战 / Battle of Xiuyu"
     url: "/wiki/entities/xiuyubattle/"
+  - key: "FuXiWesternHan"
+    title: "傅喜 / Fu Xi (Western Han)"
+    url: "/wiki/entities/fuxiwesternhan/"
   - key: "FuTaihouWesternHan"
     title: "傅太后 / Fu Taihou (Western Han)"
     url: "/wiki/entities/futaihouwesternhan/"
@@ -2252,6 +2258,9 @@ topic_entities:
   - key: "GongsunHongLangyaWesternHan"
     title: "公孙洪 / Gongsun Hong (Langya, Western Han)"
     url: "/wiki/entities/gongsunhonglangyawesternhan/"
+  - key: "GongsunLuWesternHan"
+    title: "公孙禄 / Gongsun Lu (Western Han)"
+    url: "/wiki/entities/gongsunluwesternhan/"
   - key: "GongsunJia"
     title: "公孙贾 / Gongsun Jia"
     url: "/wiki/entities/gongsunjia/"

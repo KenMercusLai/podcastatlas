@@ -22403,6 +22403,10 @@
     "title": "伏完 / Fu Wan (late Han)",
     "url": "/wiki/entities/fuwanlatehan/"
   },
+  "FuXiWesternHan": {
+    "title": "傅喜 / Fu Xi (Western Han)",
+    "url": "/wiki/entities/fuxiwesternhan/"
+  },
   "FuXie": {
     "title": "傅燮 / Fu Xie",
     "url": "/wiki/entities/fuxie/"
@@ -23967,6 +23971,10 @@
     "title": "公孙龙 / Gongsun Long",
     "url": "/wiki/entities/gongsunlong/"
   },
+  "GongsunLuWesternHan": {
+    "title": "公孙禄 / Gongsun Lu (Western Han)",
+    "url": "/wiki/entities/gongsunluwesternhan/"
+  },
   "GongsunLuXinOfficial": {
     "title": "公孙禄 / Gongsun Lu (Xin official)",
     "url": "/wiki/entities/gongsunluxinofficial/"
@@ -24050,6 +24058,10 @@
   "GoodCompanyGoodStock": {
     "title": "Good Company Vs Good Stock",
     "url": "/wiki/concepts/goodcompanygoodstock/"
+  },
+  "GoodDeathPoliticalSurvival": {
+    "title": "乱局善终 / Good Death Political Survival",
+    "url": "/wiki/concepts/gooddeathpoliticalsurvival/"
   },
   "GoodFriendsFilm": {
     "title": "Good Friends / 好朋友们",
@@ -25858,6 +25870,10 @@
   "HeTao": {
     "title": "He Tao",
     "url": "/wiki/entities/hetao/"
+  },
+  "HeWuWesternHan": {
+    "title": "何武 / He Wu (Western Han)",
+    "url": "/wiki/entities/hewuwesternhan/"
   },
   "HeXiaopeng": {
     "title": "He Xiaopeng / 何小鹏",
@@ -42754,6 +42770,10 @@
   "OuterRelativeCourtPower": {
     "title": "外戚专权与清算 / Outer-Relative Court Power",
     "url": "/wiki/concepts/outerrelativecourtpower/"
+  },
+  "OuterRelativeOfficeContest": {
+    "title": "外戚重职任命制衡 / Outer-Relative Office Contest",
+    "url": "/wiki/concepts/outerrelativeofficecontest/"
   },
   "OuterRelativePreventiveRestraint": {
     "title": "外戚预防性约束 / Outer-Relative Preventive Restraint",
@@ -71822,6 +71842,10 @@
   "zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj": {
     "title": "《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜",
     "url": "/wiki/sources/zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj/"
+  },
+  "zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru": {
+    "title": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru/"
   },
   "zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st": {
     "title": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪",

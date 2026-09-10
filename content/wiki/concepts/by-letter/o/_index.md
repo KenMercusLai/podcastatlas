@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6919
+wiki_total_pages: 6921
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "OuterRelativeRecurrence"
     title: "外戚轮回 / Outer-Relative Recurrence"
     url: "/wiki/concepts/outerrelativerecurrence/"
+  - key: "OuterRelativeOfficeContest"
+    title: "外戚重职任命制衡 / Outer-Relative Office Contest"
+    url: "/wiki/concepts/outerrelativeofficecontest/"
   - key: "OuterRelativePreventiveRestraint"
     title: "外戚预防性约束 / Outer-Relative Preventive Restraint"
     url: "/wiki/concepts/outerrelativepreventiverestraint/"

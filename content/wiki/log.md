@@ -16737,6 +16737,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？
+
+Added source note for the Yuanshou 2 / 1 BCE post-Aidi transition episode on Wang Mang's Da Sima return, He Wu and Gongsun Lu's failed outer-relative balancing attempt, Wang Shun's heir-transfer role, Zhao/Fu/Ding cleanup, and Fu Xi's cautious good end. Added FuXiWesternHan, HeWuWesternHan, GongsunLuWesternHan, OuterRelativeOfficeContest, and GoodDeathPoliticalSurvival; updated WangShunXinTaishi and SuccessionLegitimacyPurge.
+
 ## [2026-09-10] ingest | 674. The First World War: The Spy Who Took on the Germans (Part 4)
 
 Added source note for the The Rest Is History episode on Edith Cavell. Key claims: Cavell's Brussels nursing clinic became part of an occupied-Belgium escape network; her trial and execution combined real military-law exposure with political disaster; and Allied propaganda turned her death into a martyr symbol while simplifying details.
@@ -16992,6 +16996,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

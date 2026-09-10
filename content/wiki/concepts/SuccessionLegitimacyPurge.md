@@ -4,13 +4,14 @@ type: concept
 knowledge_schema: synthesis-v1
 tags: [succession, legitimacy, purge, court-politics, qin-dynasty, late-han]
 sources:
+  - zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru
   - zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt
   - zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu
   - zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew
   - zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh
   - zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s
   - zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj
-last_updated: 2026-08-29
+last_updated: 2026-09-10
 ---
 
 ## Definition
@@ -19,7 +20,7 @@ Succession legitimacy purge / 继位合法性清洗 is the mechanism where an in
 
 ## Current Synthesis
 
-The concept now has five source shapes. [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] grounds the ruler-fear version: [[QinErshi|Hu Hai]] is persuaded by [[ZhaoGao|Zhao Gao]] that pleasure must wait until rival princes, senior ministers, and witnesses to the [[ShaqiuCrisis|Shaqiu]] transition are destroyed or replaced.
+The concept now has six source shapes. [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] supplies a Western Han pre-usurpation version: after [[HanAidi|汉哀帝]] dies, the Da Sima office and new heir selection give [[WangMang|王莽]] leverage to demote Zhao Feiyan, remove Fu and Ding officeholders, and distinguish [[FuXiWesternHan|傅喜]] as a survivable exception. [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] grounds the ruler-fear version: [[QinErshi|Hu Hai]] is persuaded by [[ZhaoGao|Zhao Gao]] that pleasure must wait until rival princes, senior ministers, and witnesses to the [[ShaqiuCrisis|Shaqiu]] transition are destroyed or replaced.
 
 The Yan-backed pre-restoration version is visible in [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]]. After [[EmperorAnOfHan|Emperor An]] dies, [[EmpressDowagerYanLateHan|Yan Taihou]] and [[YanXianLateHan|Yan Xian]] exclude [[EmperorShunOfHan|Liu Bao]], install [[LiuYiBeixiangHouLateHan|Beixiang Hou]], and then purge old An-era networks. [[GengBaoGrandGeneralLateHan|Geng Bao]]'s Grand General prestige, [[FanFengEunuchLateHan|Fan Feng]]'s old palace position, and [[WangShengPalaceActorLateHan|Wang Sheng]]'s household exposure become dangerous because the Yan succession settlement needs rival influence removed.
 
@@ -29,7 +30,7 @@ The 189 CE late-Han case broadens the mechanism to winning-camp consolidation. A
 
 ## Key Claims
 
-- A weak or suspect succession can keep producing coercion before and after the throne has been formally obtained.
+- A weak or suspect succession can keep producing coercion before and after the throne has been formally obtained, including pre-usurpation transitions where top-office control enables cleanup of the previous ruler's consort and favorite networks.
 - The mechanism can be driven by the enthroned ruler, an adviser, a dowager, an outer-relative house, or the winning accession camp rather than by one actor alone.
 - Rival heirs, old ministers, palace actors, and prior allies become dangerous when their continued existence makes the succession look contestable.
 - Legal, administrative, or ritual language can make a purge legible without making it substantively just.
@@ -39,6 +40,8 @@ The 189 CE late-Han case broadens the mechanism to winning-camp consolidation. A
 
 ## Evidence
 
+- Western Han transition cleanup: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Wang Mang becomes Da Sima after Aidi's death, helps arrange Liu Jizi's arrival as heir, and then begins demoting Zhao Feiyan and removing Fu/Ding officeholders.
+- Exception management: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Fu Xi survives because Wang Zhengjun treats his earlier refusal to follow Fu Taihou as evidence that he is not part of the punished faction.
 - Ruler-fear purge: [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] shows Zhao Gao telling Qin Ershi that princes and ministers may suspect the Shaqiu transition, then recommending destruction of great ministers and royal kin plus replacement with low and dependent followers.
 - Legal hollowing: [[zizhi-tongjian-qinji-128-1-buxiang-cuanwei-de-taijian-bushi-ge-hao-jianchen-lh23xj9qxvubj5rlfa9fxmddgbiu|Qinji 128-1]] shows Ying Jianglu unable to obtain a clear charge before suicide and Ying Gao using a death petition to avoid implicating his household.
 - Yan-backed first purge: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] shows Yan Taihou and Yan Xian installing Beixiang Hou after excluding Liu Bao, then moving against Geng Bao, Fan Feng, Wang Sheng, and other old networks.
@@ -51,11 +54,12 @@ The 189 CE late-Han case broadens the mechanism to winning-camp consolidation. A
 
 ## Counterevidence & Qualifications
 
-The source cases should not be flattened into one motive or one level of violence. Qin Ershi's case centers on ruler fear and Zhao Gao's manipulation; Hanji 802 centers on Yan-family monopolization after installing Beixiang Hou; Hanji 803 centers on a race to control death news, gates, messengers, troops, and seal surrender before the new order is secure; Hanji 804 and Hanji 805 center on Shun's restoration cleanup plus the need to protect dowager ritual status; Hanji 943 centers on outer-relative and dowager camp consolidation. Hanji 805 does not prove Yan Taihou's true cause of death, and it should not be used as evidence that every post-succession purge included hidden killing.
+The source cases should not be flattened into one motive or one level of violence. Hanji 604 centers on Wang Mang's return to office, heir transfer, and removal of the prior consort-family networks, while preserving Fu Xi as an exception. Qin Ershi's case centers on ruler fear and Zhao Gao's manipulation; Hanji 802 centers on Yan-family monopolization after installing Beixiang Hou; Hanji 803 centers on a race to control death news, gates, messengers, troops, and seal surrender before the new order is secure; Hanji 804 and Hanji 805 center on Shun's restoration cleanup plus the need to protect dowager ritual status; Hanji 943 centers on outer-relative and dowager camp consolidation. Hanji 805 does not prove Yan Taihou's true cause of death, and it should not be used as evidence that every post-succession purge included hidden killing.
 
 ## What Changed
 
-- Added Hanji 802 as the Yan-backed first purge after Emperor An's death: Liu Bao exclusion, Beixiang Hou accession, Geng Bao removal, Fan Feng execution, and Wang Sheng exile.
+- Added Hanji 604 as the Western Han transition cleanup layer: Wang Mang's Da Sima return, heir-transfer control, Zhao/Fu/Ding cleanup, and Fu Xi exception management.
+- Preserved Hanji 802 as the Yan-backed first purge after Emperor An's death: Liu Bao exclusion, Beixiang Hou accession, Geng Bao removal, Fan Feng execution, and Wang Sheng exile.
 - Reframed the Shun crisis as competing purge waves: Yan consolidation first, then Sun Cheng/Shun restoration cleanup.
 - Preserved Hanji 803-805 as death-concealment conflict, palace-symbol victory, violent cleanup, and ritual restraint around Yan Taihou.
 - Kept Qinji 128-1 and Hanji 943 as broader ruler-fear and winning-camp consolidation variants.
@@ -69,3 +73,4 @@ The source cases should not be flattened into one motive or one level of violenc
 - [[ImperialDeathConcealment|秘不发丧式过渡控制]] - upstream death-news control pattern that can force rival camps into a succession race before purge settlement.
 - [[PowerMonopolyBackfire|一家独大式权力反噬]] - adjacent failure mode where a winning faction's purge of old allies creates counter-mobilization risk.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - institutional field because maternal families often drive or suffer succession purges.
+- [[OuterRelativeOfficeContest|外戚重职任命制衡]] - upstream office contest whose failure gives Wang Mang the position from which Hanji 604's cleanup begins.

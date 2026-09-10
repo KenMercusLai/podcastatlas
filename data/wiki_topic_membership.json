@@ -26486,6 +26486,13 @@
       "url": "/topics/history/"
     }
   ],
+  "FuXiWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "FuYu": [
     {
       "key": "economics",
@@ -28210,6 +28217,13 @@
     }
   ],
   "GongsunLong": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "GongsunLuWesternHan": [
     {
       "key": "history",
       "label": "History",
@@ -30189,6 +30203,13 @@
     }
   ],
   "HeShiBi": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "HeWuWesternHan": [
     {
       "key": "history",
       "label": "History",
