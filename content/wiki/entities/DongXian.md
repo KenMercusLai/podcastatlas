@@ -8,19 +8,20 @@ sources:
   - zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st
   - zizhi-tongjian-hanji-603-aidi-sihou-wangmang-ruhe-miaosu-duoquan-lvp-ywlvxiwrqdoj-4b-sx9486ol
   - zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d
+  - zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy
 last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Dong Xian / 董贤 is synthesized as [[HanAidi|汉哀帝]]'s highly visible favorite and a weak political operator at the late [[WesternHanDynasty|Western Han]] succession hinge. Hanji 598 adds an upstream political-risk layer: before Aidi's death, Dong Xian's fief-enlargement issue helps make [[WangJiaWesternHan|王嘉]] vulnerable, showing that Dong-centered favor could shape what was punishable even before Wang Mang's cleanup.
+Dong Xian / 董贤 is synthesized as [[HanAidi|汉哀帝]]'s highly visible favorite and a weak political operator at the late [[WesternHanDynasty|Western Han]] succession hinge. Hanji 597 and Hanji 598 add an upstream political-risk layer: before Aidi's death, Dong Xian's fief-enlargement issue helps make [[WangJiaWesternHan|王嘉]] vulnerable, showing that Dong-centered favor could turn public rank, finance, remonstrance, and punishment around a favorite's interests before Wang Mang's cleanup.
 
 ## Current Profile
 
 Dong Xian's visibility layer comes from the Yuanshou 2 chanyu visit. A foreign ruler notices a young high official among the Han ministers, and Aidi has him identified as grand marshal, young but worthy. The scene shows conspicuous elevation more than competence.
 
-Hanji 598 adds the court-speech risk around Dong Xian. Wang Jia's handling of an edict increasing Dong Xian's fief angers Aidi, and Aidi then uses the older Liang Xiang recommendation to attack Wang Jia. Dong Xian therefore matters not only as a favorite after Aidi's death but as a living pressure point that makes senior officials' speech dangerous.
+Hanji 597 and Hanji 598 add the court-speech risk around Dong Xian. In Hanji 597, Aidi seeks another two thousand households for Dong Xian through a dowager edict, and Wang Jia's sealed return argues that Dong Xian already has excessive wealth and public resentment. In Hanji 598, Wang Jia's handling of that favor issue has angered Aidi, and Aidi then uses the older Liang Xiang recommendation to attack Wang Jia. Dong Xian therefore matters not only as a favorite after Aidi's death but as a living pressure point that makes senior officials' speech dangerous.
 
 Dong Xian's succession-failure layer turns on symbolic access without organizational control. The Xiangrui source says Aidi entrusted him with the imperial seal before death, but Dong Xian blocked information without taking effective action. Hanji 603 makes that failure operational: Dong Xian cannot answer Wang Zhengjun's funeral-procedure questions, loses palace access through Wang Mang's impeachment move, has his Da Sima seal and ribbon recovered, and dies with his wife the same day.
 
@@ -30,16 +31,18 @@ Hanji 605 supplies the posthumous exposure layer. Wang Mang prosecutes the Dong 
 
 - Highly visible favorite of Han Aidi whose youth and appearance draw notice in a diplomatic court scene.
 - Holder of very high office in Aidi's reign, presented by the court as worthy despite youth.
+- Reward recipient whose additional fief request makes private favor a public-rank and public-finance dispute.
 - Political pressure point whose fief benefits make speech by senior officials risky.
 - Possessor of palace and symbolic access at Aidi's death.
 - Failed succession operator whose proximity did not become funeral, palace, or command control.
-- Immediate purge target whose loss of palace access, seal, ribbon, and life lets Wang Mang reenter the center.
-- Posthumous cleanup target whose family, appointees, and property are punished after Aidi's death.
+- Immediate purge and posthumous cleanup target whose loss of palace access, seal, ribbon, life, family safety, appointees, and property lets Wang Mang reenter the center.
 
 ## Evidence
 
 - Court visibility: [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|Hanji 602]] says the Xiongnu chanyu notices Dong Xian among Han ministers and asks who he is.
 - High office and official explanation: [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|Hanji 602]] says Aidi has Dong Xian identified as grand marshal and explains that he is young but worthy.
+- Additional-households request: [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]] says Aidi asks for Dong Xian to receive another two thousand households through a dowager edict.
+- Public resentment and excess: [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]] says Wang Jia warns that Dong Xian is already over-enriched and widely resented.
 - Fief-related court danger: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Wang Jia's handling of an edict increasing Dong Xian's fief helps trigger Aidi's anger.
 - Symbolic access: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Aidi entrusted Dong Xian with the imperial seal before death.
 - Succession failure: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Dong Xian blocked information but failed to take effective political action.
@@ -49,11 +52,12 @@ Hanji 605 supplies the posthumous exposure layer. Wang Mang prosecutes the Dong 
 
 ## Qualifications
 
-The current page is not a full biography of Dong Xian. Hanji 598 supports his role as a court-risk pressure point but does not narrate the full fief edict. Hanji 602 supports public visibility and rank in one diplomatic scene. The Xiangrui source and Hanji 603 support succession failure, but Aidi's exact death circumstances, Dong Xian's inner state, and the legal details of his removal remain source-scoped. Hanji 605 supports family confiscation, appointee removal, relocation, and fragile favorite-dependent wealth, but the complete kin list and legal basis for each punishment remain source-scoped.
+The current page is not a full biography of Dong Xian. Hanji 597 narrates Wang Jia's view of the fief-edict problem, while Hanji 598 supports his role as a court-risk pressure point. Hanji 602 supports public visibility and rank in one diplomatic scene. The Xiangrui source and Hanji 603 support succession failure, but Aidi's exact death circumstances, Dong Xian's inner state, and the legal details of his removal remain source-scoped. Hanji 605 supports family confiscation, appointee removal, relocation, and fragile favorite-dependent wealth, but the complete kin list and legal basis for each punishment remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 598's upstream layer: Dong Xian's fief-related favor helps make Wang Jia's speech and procedure politically dangerous before Aidi's death.
+- Added Hanji 597's fief-reward layer: Dong Xian's additional-households request becomes a public-rank, finance, and resentment problem in Wang Jia's memorial.
+- Preserved Hanji 598's upstream layer: Dong Xian's fief-related favor helps make Wang Jia's speech and procedure politically dangerous before Aidi's death.
 - Preserved Hanji 603's immediate crisis layer and Hanji 605's posthumous cleanup layer.
 
 ## Relationships
