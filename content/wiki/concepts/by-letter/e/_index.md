@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 6933
+wiki_total_pages: 6937
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "EmbodiedTrainingAgainstFear"
     title: "Embodied Training Against Fear / 反本能身体训练"
     url: "/wiki/concepts/embodiedtrainingagainstfear/"
+  - key: "EmbodiedVulnerabilityPublicDesign"
+    title: "Embodied Vulnerability Public Design / 身体脆弱性与公共设计"
+    url: "/wiki/concepts/embodiedvulnerabilitypublicdesign/"
   - key: "EmergencyCashAssistance"
     title: "Emergency Cash Assistance / 紧急现金援助"
     url: "/wiki/concepts/emergencycashassistance/"
@@ -563,12 +566,18 @@ wiki_pages:
   - key: "EpinephrineAlertnessToolkit"
     title: "Epinephrine Alertness Toolkit"
     url: "/wiki/concepts/epinephrinealertnesstoolkit/"
+  - key: "EpistemicInjusticeExperienceSilencing"
+    title: "Epistemic Injustice Experience Silencing / 认知不公正与经验失语"
+    url: "/wiki/concepts/epistemicinjusticeexperiencesilencing/"
   - key: "EpistemologicalWarfare"
     title: "Epistemological Warfare"
     url: "/wiki/concepts/epistemologicalwarfare/"
   - key: "EpistolaryFriendship"
     title: "Epistolary Friendship / 书信友谊"
     url: "/wiki/concepts/epistolaryfriendship/"
+  - key: "EqualityParadoxPublicSpace"
+    title: "Equality Paradox Public Space / 平等悖论与公共空间"
+    url: "/wiki/concepts/equalityparadoxpublicspace/"
   - key: "EquityCompensationUpside"
     title: "Equity Compensation Upside"
     url: "/wiki/concepts/equitycompensationupside/"

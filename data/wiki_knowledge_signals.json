@@ -23726,6 +23726,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/embodiedtrainingagainstfear/"
     },
+    "EmbodiedVulnerabilityPublicDesign": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/embodiedvulnerabilitypublicdesign/"
+    },
     "EmergencyCashAssistance": {
       "episode_count": 1,
       "show_count": 1,
@@ -26052,6 +26068,38 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/epinephrinealertnesstoolkit/"
+    },
+    "EpistemicInjusticeExperienceSilencing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/epistemicinjusticeexperiencesilencing/"
+    },
+    "EqualityParadoxPublicSpace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/equalityparadoxpublicspace/"
     },
     "EquityRetirementAssetBinding": {
       "episode_count": 2,
@@ -34012,6 +34060,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/goodfriendsfilm/"
+    },
+    "GoodLifeAsHappyTogether": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/goodlifeashappytogether/"
     },
     "GoogleAIOverviews": {
       "episode_count": 2,
@@ -53561,9 +53625,9 @@
       "url": "/wiki/concepts/makeroperatingsystem/"
     },
     "MaleEmotionalIntimacyNeed": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lmQ6ET15-mLUqYUUav7Z4jpx4hcb [lmQ6ET15-mLUqYUUav7Z4jpx4hcb].md",
@@ -53578,9 +53642,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了",
           "url": "/wiki/sources/shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg/"
+        },
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/maleemotionalintimacyneed/"
     },
     "MaleHormoneHealthPhenotyping": {
@@ -73713,9 +73784,9 @@
       "url": "/wiki/entities/shidanwesternhan/"
     },
     "ShiDiFuShuo": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -73758,9 +73829,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界",
           "url": "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
+        },
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/shidifushuo/"
     },
     "ShiHuanLateHan": {
@@ -76489,9 +76567,9 @@
       "url": "/wiki/entities/stevebernard/"
     },
     "SteveShiDiFuShuoHost": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "lqW9H_JQfzrsRveagfsLnakHcGJH [lqW9H_JQfzrsRveagfsLnakHcGJH].md",
@@ -76534,9 +76612,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界",
           "url": "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
+        },
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/steveshidifushuohost/"
     },
     "SteveYoungMelanomaPatient": {
@@ -84526,9 +84611,9 @@
       "url": "/wiki/entities/volkswagengroup/"
     },
     "VulnerabilityAsLoveSource": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "ltoECVLtSlYfJFLqAnu2lVO7yqqG [ltoECVLtSlYfJFLqAnu2lVO7yqqG].md",
@@ -84536,9 +84621,16 @@
           "show": "史蒂夫说",
           "title": "史蒂夫说467期 - Joan姐 - 看清自我后，就没人能阻挡你活出自我了",
           "url": "/wiki/sources/shi-di-fu-shuo-467-joanjie-kanqing-ziwo-hou-jiu-meiren-neng-zudang-ni-huochu-ziwo-le-ltoecvltslyfjflqanu2lvo7yqqg/"
+        },
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-10",
       "url": "/wiki/concepts/vulnerabilityaslovesource/"
     },
     "WIPLimitPersonalProductivity": {
@@ -89316,6 +89408,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xiehaoqinghelatehan/"
+    },
+    "XieJinPhilosopher": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lsYpOsseeWaQIMMSv6Q2lyGsOCSw [lsYpOsseeWaQIMMSv6Q2lyGsOCSw].md",
+          "key": "shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw",
+          "show": "史蒂夫说",
+          "title": "史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活",
+          "url": "/wiki/sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsyposseewaqimmsv6q2lygsocsw/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/xiejinphilosopher/"
     },
     "XieYunLateHan": {
       "episode_count": 3,

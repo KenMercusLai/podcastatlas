@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 6933
+wiki_total_pages: 6937
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -281,6 +281,9 @@ wiki_pages:
   - key: "GoodJobsForNonCollegeWorkers"
     title: "Good Jobs For Non-College Workers"
     url: "/wiki/concepts/goodjobsfornoncollegeworkers/"
+  - key: "GoodLifeAsHappyTogether"
+    title: "Good Life As Happy Together / 好的生活是 happy together"
+    url: "/wiki/concepts/goodlifeashappytogether/"
   - key: "GoodRoadsMovement"
     title: "Good Roads Movement"
     url: "/wiki/concepts/goodroadsmovement/"

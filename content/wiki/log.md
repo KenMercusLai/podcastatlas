@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活
+
+Added source note for the 史蒂夫说 interview with Xie Jin on feminism, epistemic injustice, gendered emotional labor, public-space hierarchy, embodied vulnerability, male emotional restriction, and good life as happy together. Updated ShiDiFuShuo, SteveShiDiFuShuoHost, VulnerabilityAsLoveSource, and MaleEmotionalIntimacyNeed; added XieJinPhilosopher, EpistemicInjusticeExperienceSilencing, EqualityParadoxPublicSpace, EmbodiedVulnerabilityPublicDesign, and GoodLifeAsHappyTogether.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》601-1丨除了宇辉，他的文化水平也能改命！
 
 Ingested the 2026-05-26 芮淇讲透资治通鉴 short episode on Xiao Xian reading "云止其中" as abdication-coded appointment language, refusing a Dong-family marriage tie, and Wang Hong blocking Han Aidi's drunken Yao-Shun abdication remark about Dong Xian. Added source `zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n`; created `XiaoXianWesternHan`, `WangHongWesternHan`, `ClassicalAllusionPoliticalRiskReading`, and `ImperialAbdicationLanguageBoundary`; updated `HanAidi`, `DongXian`, `ImperialPrivateDesireGovernanceRisk`, `index`, and `overview`. No settled contradiction found; phrase intent, Dong-family motives, Wang Hong's full memorial, and Bao Si analogy remain source-scoped.
@@ -17020,6 +17024,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

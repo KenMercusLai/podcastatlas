@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9553
+wiki_total_pages: 9554
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "XieGongEasternHan"
     title: "谢躬 / Xie Gong (Eastern Han)"
     url: "/wiki/entities/xiegongeasternhan/"
+  - key: "XieJinPhilosopher"
+    title: "谢金 / Xie Jin"
+    url: "/wiki/entities/xiejinphilosopher/"
   - key: "XiangCommandery"
     title: "象郡 / Xiang Commandery"
     url: "/wiki/entities/xiangcommandery/"
