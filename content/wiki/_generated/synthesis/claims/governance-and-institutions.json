@@ -2,6 +2,25 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "wang-jia-praise-uses-precedent-to-open-remonstrance-channel",
+      "qualifications": [
+        "The episode withholds Wang Jia's final purpose until Hanji 593, so the praise is treated as rhetorical setup rather than a full evaluation of Yuan, Cheng, or Aidi.",
+        "The complete original memorial wording, named officeholders in the opening notice, and balanced reign assessments remain source-scoped.",
+        "The claim applies to court feedback and remonstrance framing, not to all uses of praise in hierarchy."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] adds a late-Western-Han governance case where [[WangJiaWesternHan|王嘉]] uses praise as institutional precedent: [[HanYuandi|汉元帝]] models fiscal restraint, [[HanChengdi|汉成帝]] models tolerance of criticism and limited favorite protection, and early [[HanAidi|汉哀帝]] models learning and frugality before the later Dong Xian warning in [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]].",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+        "WangJiaWesternHan",
+        "HanYuandi",
+        "HanChengdi",
+        "HanAidi",
+        "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "brexit-post-imperial-identity-turns-economic-drag-into-boundary-politics",
       "qualifications": [
         "The claim is grounded in one Shengdong Jixi episode plus existing Brexit synthesis and should not be treated as a complete economic or polling account of Britain.",

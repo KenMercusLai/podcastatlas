@@ -4,8 +4,8 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-10
-as_of_overview_commit: 8a49c0cec8428a8a0074c2321544c3b16f81789f
-input_digest: ad7eccc5ab14955ddb4957321f987a0cd1f09502720b896edf84ad9a8466acab
+as_of_overview_commit: c6251e1ff43812db67e7e3c6e1dbaa582328c43c
+input_digest: 0ee2905dbf43380d79de151a2b0817b767a60655c28959de6a5bb7b153110cdc
 ---
 
 # Work, Education, and Society
@@ -15,6 +15,18 @@ input_digest: ad7eccc5ab14955ddb4957321f987a0cd1f09502720b896edf84ad9a8466acab
 Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, and human judgment rather than labels alone. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems.
 
 ## Cross-source Findings
+
+### Wang Jia Hierarchy Speech Uses Praise Before Correction
+
+[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] adds a work-and-society edge to [[WangJiaWesternHan|王嘉]]'s court speech: inside hierarchy, praise of [[HanYuandi|汉元帝]], [[HanChengdi|汉成帝]], and early [[HanAidi|汉哀帝]] creates a shared standard before dangerous correction, which [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] later develops into the Dong Xian warning.
+
+**Evidence:** [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5]], [[WangJiaWesternHan]], [[HanYuandi]], [[HanChengdi]], [[HanAidi]], [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq]]
+
+**Qualifications:**
+
+- This is a bounded historical analogy for hierarchy-aware speech, not modern workplace advice.
+- The source preserves the praise as a setup whose full purpose is explained in the next episode.
+- The claim should not be generalized into endorsing dishonest praise; the value is in using shared standards before hard correction.
 
 ### Luo Panel Emotional Stability And Public Expression Are Social Behavior Tools
 

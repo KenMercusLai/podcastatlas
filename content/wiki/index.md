@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？](sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5.md) — Late-Western-Han court-politics episode setting up Wang Jia's later Dong Xian remonstrance through praise of Han Yuan's thrift, Han Cheng's tolerance of criticism, and early Han Aidi's learning, frugality, and public-burden concern.
 - [《资治通鉴·汉纪》593丨真正厉害的人这样说话](sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq.md) — Late-Western-Han court-politics episode on Wang Jia's hierarchy-aware remonstrance against Han Aidi's overfavoring of Dong Xian through mansion works, household provisioning, market intimidation, land grants, disaster-rumor pressure, and the warning that wrong love harms the favorite.
 - [EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built](sources/ep-41-the-reward-signal-the-missing-ingredient-in-every-ai-system-youve-built.md) — Data Science With Sam episode with Alexander Liss on enterprise AI reward signals, contextual bandits, dynamic blindness, attention fine-tuning, Experience Orchestrator, and governed agentic AI.
 - [史蒂夫说464期 - 谢晶 - 我们支持平等，但却默认不同的人配得不同的生活](sources/shi-di-fu-shuo-464-xiejin-women-zhichi-pingdeng-dan-moren-butongderen-peide-butongdeshenghuo-lsYpOsseeWaQIMMSv6Q2lyGsOCSw.md) — 史蒂夫说 interview with Xie Jin on feminist philosophy, epistemic injustice, gendered emotional labor, public-space hierarchy, embodied vulnerability, male emotional restriction, and good life as happy together.
@@ -2153,7 +2154,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
 - [彭宣 / Peng Xuan (Western Han)](entities/PengXuanWesternHan.md) — Western Han Da Sikong whose illness-framed resignation under Wang Mang shows timely retreat and symbolic punishment through withheld retirement gifts.
 - [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han senior official whose formal authority spans Wang Jia's Tingwei transfer, Wang Mang's accusation channels, fearful withdrawal, and 5 CE death.
-- [王嘉 / Wang Jia (Western Han)](entities/WangJiaWesternHan.md) — Late Western Han chancellor whose Liang Xiang recommendation and Dong Xian-related resistance lead to a Tingwei summons and refusal of poison-suicide.
+- [王嘉 / Wang Jia (Western Han)](entities/WangJiaWesternHan.md) — Late Western Han chancellor whose praise-framed warning, Liang Xiang recommendation, and Dong Xian-related resistance lead toward Tingwei danger and refusal of poison-suicide.
 - [杜邺 / Du Ye (Western Han)](entities/DuYeWesternHan.md) — Former Liangzhou inspector previewed as another late-Aidi critic of Dong-family overfavor.
 - [梁相 / Liang Xiang (Western Han)](entities/LiangXiangWesternHan.md) — Western Han Tingwei whose procedural request to review the Liu Yun rebellion case becomes suspect delay under Han Aidi.
 - [王洪 / Wang Hong (Western Han)](entities/WangHongWesternHan.md) — Late Western Han palace-adjacent official who avoids a Dong-family marriage tie and blocks Han Aidi's Yao-Shun abdication remark about Dong Xian.
@@ -2252,7 +2253,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王宗 / Wang Zong (Xin prince)](entities/WangZongXinPrince.md) — Wang Mang grandson whose private imperial imagery and seals become a lethal late-Xin household scandal.
 - [王芳 / Wang Fang (Xin princess)](entities/WangFangXinPrincess.md) — Wang-family woman in Hanji 654 accused of curses and maid killing before suicide with Wang Xing.
 - [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer used in Hanji 654 as Yang Xiong's admired literary model and comparison point.
-- [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor who summons Yang Xiong in Hanji 654's career background.
+- [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor used by Wang Jia as a memorial precedent for thrift, fiscal reserve, and restraint in visible favoritism.
+- [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor used both as Yang Xiong career background and as Wang Jia's precedent for tolerating criticism and limiting favorite protection.
 - [范生 / Fan Sheng (Xin official)](entities/FanShengXinOfficial.md) — Late-Xin official whose indirect petition diagnoses domestic grievance while failing to reach policy effect.
 - [韩伯 / Han Bo (Xin official)](entities/HanBoXinOfficial.md) — Late-Xin official whose giant-prodigy satire against Wang Mang is decoded and punished lethally.
 - [稻草人旅行 / Daocaoren Travel](entities/DaocaorenTravel.md) — Small-group travel operator discussed through route development, leader matching, National Day capacity, and holiday backup systems.
@@ -8413,7 +8415,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's mother and paired target with Fu Taihou in Wang Mang's 5 CE tomb-demotion campaign.
 - [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han official retroactively restored after Wang Mang recodes earlier opposition to Fu Taihou as correct.
 - [马公 / Ma Gong (Western Han)](entities/MaGongWesternHan.md) — Western Han official protected by ties to Wang Mang but removed from top offices after the Fu Taihou title case is reopened.
-- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose profile now spans contested reputation, suspicious court governance, Dong Xian-linked speech risk, succession rupture, and delayed-burial imperial停灵.
+- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose profile now spans contested early reputation, suspicious court governance, Dong Xian-linked speech risk, succession rupture, and delayed-burial imperial停灵.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose court visibility, succession failure, and posthumous family cleanup show the gap between status, symbols, control, and safety.
 - [朱徐 / Zhu Xu (Western Han)](entities/ZhuXuWesternHan.md) — Western Han figure whose burial of Dong Xian after Dong-family collapse turns private gratitude into political exposure.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated and isolated by Wang Mang, whose maternal-family exclusion, empress-selection procedure, adoptive-heir status, illness, and death preceded Wang Mang's acting-emperor status.

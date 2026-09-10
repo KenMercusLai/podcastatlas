@@ -3,9 +3,9 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-09
-as_of_overview_commit: d063a971926e9febf566f786534965bbb87be195
-input_digest: 5e621e32ec5af6fc07300b7103e4a75ffa6d9fe846706db95fdc005067af78c2
+last_updated: 2026-09-10
+as_of_overview_commit: c6251e1ff43812db67e7e3c6e1dbaa582328c43c
+input_digest: 510b1ae85f94fde2fed6216ea5984af4ded06711e35d6c1d9227c2ec598ab4cc
 ---
 
 # History and Geopolitics
@@ -15,6 +15,18 @@ input_digest: 5e621e32ec5af6fc07300b7103e4a75ffa6d9fe846706db95fdc005067af78c2
 The U.S. anthem source adds a national-symbol history layer: Fort McHenry, the War of 1812, a borrowed English melody, escaped enslaved people in British service, and later protest all show how battle memory becomes a contested patriotic archive rather than a simple origin story. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.
 
 ## Cross-source Findings
+
+### Western Han Wang Jia Prelude Turns Reign Memory Into Warning
+
+[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] backfills the [[WangJiaWesternHan|王嘉]] sequence by showing how late-Han reign memory becomes political warning: [[HanYuandi|汉元帝]]'s thrift, [[HanChengdi|汉成帝]]'s criticism tolerance, and early [[HanAidi|汉哀帝]]'s frugality are selected as precedents before [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] turns the praise toward Dong Xian-centered favor.
+
+**Evidence:** [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5]], [[WangJiaWesternHan]], [[HanYuandi]], [[HanChengdi]], [[HanAidi]], [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq]]
+
+**Qualifications:**
+
+- This is a source-scoped historical-rhetorical claim from one short Hanji episode.
+- The praise of Yuan, Cheng, and early Aidi is Wang Jia's memorial strategy, not a complete reign synthesis.
+- The episode explicitly leaves the full purpose to Hanji 593.
 
 ### Guandu Bridge Turns Scale Into Command Logistics Test
 

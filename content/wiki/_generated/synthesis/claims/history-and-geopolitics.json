@@ -1,6 +1,25 @@
 {
   "claims": [
     {
+      "global_candidate": false,
+      "id": "western-han-wang-jia-prelude-turns-reign-memory-into-warning",
+      "qualifications": [
+        "This is a source-scoped historical-rhetorical claim from one short Hanji episode.",
+        "The praise of Yuan, Cheng, and early Aidi is Wang Jia's memorial strategy, not a complete reign synthesis.",
+        "The episode explicitly leaves the full purpose to Hanji 593."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] backfills the [[WangJiaWesternHan|王嘉]] sequence by showing how late-Han reign memory becomes political warning: [[HanYuandi|汉元帝]]'s thrift, [[HanChengdi|汉成帝]]'s criticism tolerance, and early [[HanAidi|汉哀帝]]'s frugality are selected as precedents before [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] turns the praise toward Dong Xian-centered favor.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+        "WangJiaWesternHan",
+        "HanYuandi",
+        "HanChengdi",
+        "HanAidi",
+        "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq"
+      ]
+    },
+    {
       "global_candidate": true,
       "id": "guandu-bridge-turns-scale-into-command-logistics-test",
       "qualifications": [

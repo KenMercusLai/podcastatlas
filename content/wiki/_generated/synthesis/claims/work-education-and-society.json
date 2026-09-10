@@ -2,6 +2,25 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "wang-jia-hierarchy-speech-uses-praise-before-correction",
+      "qualifications": [
+        "This is a bounded historical analogy for hierarchy-aware speech, not modern workplace advice.",
+        "The source preserves the praise as a setup whose full purpose is explained in the next episode.",
+        "The claim should not be generalized into endorsing dishonest praise; the value is in using shared standards before hard correction."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] adds a work-and-society edge to [[WangJiaWesternHan|王嘉]]'s court speech: inside hierarchy, praise of [[HanYuandi|汉元帝]], [[HanChengdi|汉成帝]], and early [[HanAidi|汉哀帝]] creates a shared standard before dangerous correction, which [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] later develops into the Dong Xian warning.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+        "WangJiaWesternHan",
+        "HanYuandi",
+        "HanChengdi",
+        "HanAidi",
+        "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "luo-panel-emotional-stability-and-public-expression-are-social-behavior-tools",
       "qualifications": [
         "This is a comedy-panel and public-expression claim, not clinical, legal, workplace, or conflict-safety advice.",

@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？
+
+Added source note for the Yuanshou 1 / 2 BCE Wang Jia memorial prelude: an eclipse-prompted criticism window, praise of Han Yuan's thrift, Han Cheng's remonstrance tolerance, and early Han Aidi's learning and frugality before the later Dong Xian warning. Created `HanYuandi`; updated `WangJiaWesternHan`, `HanChengdi`, `HanAidi`, `index`, and `overview`. No settled contradiction found; the full memorial wording, named officeholders in the notice, and the praise claims remain source-scoped.
+
 ## [2026-09-10] ingest | EP 41: The Reward Signal: The Missing Ingredient in Every AI System You've Built
 
 Added Data Science With Sam source note with Alexander Liss on enterprise AI reward signals, contextual bandits, dynamic blindness, attention fine-tuning, the Experience Orchestrator, and governed agentic AI. Created `AlexanderLiss`, `AttentionFineTuning`, `ExperienceOrchestrator`, `DynamicBlindness`, and `ContextualBanditPersonalization`; updated `ScenarioLevelRewardSignal` and `index`. No settled contradiction found; external report, framework, and incident references remain source-scoped pending direct corroboration.
@@ -17032,6 +17036,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

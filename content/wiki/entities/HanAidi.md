@@ -12,17 +12,18 @@ sources:
   - zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0
   - zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n
   - zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq
+  - zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5
 last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Emperor Ai of Han / 汉哀帝 is synthesized as a late [[WesternHanDynasty|Western Han]] emperor whose current wiki role spans political reputation, favorite-driven reward risk, suspicious court governance, partial correction, abdication-language danger, diplomatic ritual, succession rupture, and posthumous burial timing. The Xiangrui source rereads him as more active than the damaged later image centered on [[DongXian|董贤]], while [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]], [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]], [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]], [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]], and [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] add a harsher pre-crisis layer: Aidi's Dong Xian-centered favor makes public construction, household supply, market order, land reward, legal review, talent-preservation advice, dynastic succession speech, and even mourning Wang Jia politically dangerous.
+Emperor Ai of Han / 汉哀帝 is synthesized as a late [[WesternHanDynasty|Western Han]] emperor whose current wiki role spans political reputation, early self-image, favorite-driven reward risk, suspicious court governance, partial correction, abdication-language danger, diplomatic ritual, succession rupture, and posthumous burial timing. The Xiangrui source rereads him as more active than the damaged later image centered on [[DongXian|董贤]], while [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] preserves the early image [[WangJiaWesternHan|王嘉]] uses rhetorically: Aidi as learned, frugal, and attentive to public burden before the later Dong Xian crisis. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]], [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]], [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]], [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]], and [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] add a harsher pre-crisis layer: Aidi's Dong Xian-centered favor makes public construction, household supply, market order, land reward, legal review, talent-preservation advice, dynastic succession speech, and even mourning Wang Jia politically dangerous.
 
 ## Current Profile
 
-The Xiangrui source says Aidi tried to constrain the Wang consort family, reduce imperial expenses, attend to government, and consider limits on land and enslaved dependents. That reading keeps his reputation contested rather than reducing him to Dong Xian's patron.
+The Xiangrui source says Aidi tried to constrain the Wang consort family, reduce imperial expenses, attend to government, and consider limits on land and enslaved dependents. Hanji 592 adds the source-scoped version of the same contested-reputation problem from inside Wang Jia's memorial: Wang Jia says Aidi as Dingtao king loved the classics, entered Chang'an with public hope attached to him, began rule with visible austerity, and delayed Gonghuang temple construction out of concern for expense and commoner burden. That praise is strategic rather than neutral biography, but it keeps Aidi's early image from being collapsed into his later Dong Xian favoritism.
 
 Hanji 593 adds the strongest current evidence for why the Dong Xian-centered image was politically damaging. Wang Jia's memorial says Aidi directs extraordinary attention and public resources toward Dong Xian's house: mansion and garden works, utensils, food and ritual provisioning for Dong Xian's mother, guest and wedding expenses, market escorts, servant rewards, and large land grants. Aidi's displeasure after reading the memorial shows that even carefully sequenced criticism of this private favor still threatens the feedback channel.
 
@@ -40,7 +41,7 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 
 ## Key Characteristics
 
-- Aidi's wiki profile is not limited to the later Dong Xian-centered reputation.
+- Aidi's wiki profile is not limited to the later Dong Xian-centered reputation; Wang Jia's memorial preserves an early self-image of learning, frugality, and public-care expectation that later favorite politics undercuts.
 - His conflict with Wang-family power makes Wang Mang's later return politically contingent.
 - His Dong Xian favoritism makes private favor visible as a public-construction, public-finance, market-order, land, and succession-boundary problem.
 - His Dong Xian-centered suspicion can convert legal caution, personnel advice, direct correction, and even dissenting sympathy into disloyalty.
@@ -52,6 +53,8 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 
 - Political reappraisal: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Aidi constrained Wang-family relatives, cut expenses, attended to government, and considered limits on land and enslaved dependents.
 - Reputation problem: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] treats Aidi's damaged later image as potentially shaped by the political aftermath of Wang Mang's rise.
+- Early praise frame: [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] says Wang Jia praises Aidi's Dingtao-era learning and early-reign austerity before later warning him.
+- Public-burden concern: [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] says Wang Jia presents the delayed Gonghuang temple construction as Aidi sacrificing private feeling for public expense.
 - Public-resource overfavor: [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] says Wang Jia identifies Dong Xian's mansion, household support, market escorts, servant rewards, and land grants as evidence that Aidi's private favor has become public burden.
 - Displeasure at correction: [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] says Aidi becomes unhappy after Wang Jia's memorial, despite Wang Jia framing restraint as a way to protect Dong Xian.
 - Dong Xian reward pressure: [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]] says Aidi seeks additional households for Dong Xian and fiefs for several marquises through a dowager edict based on a claimed Fu Taihou instruction.
@@ -71,20 +74,20 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 
 ## Qualifications
 
-The wiki does not yet have a full reign narrative for Han Aidi. The Xiangrui source is interpretive and focused on Wang Mang's legitimacy problem; Hanji 593 and Hanji 597 are focused on Wang Jia's memorials against Dong Xian-centered overfavor and reward; Hanji 598 is focused on Wang Jia, Liang Xiang, and Dong Xian-related court danger; Hanji 599 is focused on Wang Jia's interrogation, death, and immediate personnel aftermath; Hanji 601-1 is focused on abdication-coded language, Wang Hong's intervention, and Dong Xian's office risk; Hanji 602 is a short bridge from a court notice to Tai Sui belief; Hanji 603 is focused on the immediate succession crisis; and Hanji 610-2 is focused on funerary timing. Aidi's exact cause of death, full policy record, full Dong Xian relationship, and full succession process remain source-scoped.
+The wiki does not yet have a full reign narrative for Han Aidi. The Xiangrui source is interpretive and focused on Wang Mang's legitimacy problem; Hanji 592 preserves Wang Jia's strategic praise rather than a neutral reign assessment; Hanji 593 and Hanji 597 are focused on Wang Jia's memorials against Dong Xian-centered overfavor and reward; Hanji 598 is focused on Wang Jia, Liang Xiang, and Dong Xian-related court danger; Hanji 599 is focused on Wang Jia's interrogation, death, and immediate personnel aftermath; Hanji 601-1 is focused on abdication-coded language, Wang Hong's intervention, and Dong Xian's office risk; Hanji 602 is a short bridge from a court notice to Tai Sui belief; Hanji 603 is focused on the immediate succession crisis; and Hanji 610-2 is focused on funerary timing. Aidi's exact cause of death, full policy record, full Dong Xian relationship, and full succession process remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 593's public-burden layer: Aidi's Dong Xian favor turns construction, household supply, market order, land reward, disaster-rumor pressure, and protected criticism into one governance problem.
+- Added Hanji 592's early-image layer before Hanji 593's public-burden layer: Wang Jia uses Aidi's learning, frugality, and public-burden concern as a strategic precedent before criticizing Dong Xian favor.
 - Preserved Hanji 598's pre-succession court-danger layer: legal review and talent-preservation advice can become disloyalty under Aidi's suspicion.
 - Added Hanji 599's partial-correction layer: Aidi restores some officials after Wang Jia's death but keeps punishing pro-Wang-Jia sympathy.
 - Added Hanji 601-1's succession-language layer: Aidi's Yao-Shun remark around Dong Xian turns private favor into a dynastic-boundary problem.
-- Reframed Aidi's profile as spanning contested reputation, favorite-driven reward risk, court feedback danger, diplomatic ritual, succession rupture, and funerary timing.
 
 ## Relationships
 
 - [[DongXian|董贤]] - favorite whose elevation and interests shape Aidi's late court.
 - [[WangJiaWesternHan|王嘉]] - chancellor punished after direct correction and personnel recommendation.
+- [[HanYuandi|汉元帝]] and [[HanChengdi|汉成帝]] - earlier emperors Wang Jia uses as comparative pressure in Hanji 592.
 - [[FuJiaWesternHan|傅嘉]] - attendant removed in Aidi's partial post-Wang-Jia correction.
 - [[DingMingWesternHan|丁明]] - high official removed after grieving Wang Jia.
 - [[WangHongWesternHan|王洪]] - official punished after blocking Aidi's abdication remark about Dong Xian.

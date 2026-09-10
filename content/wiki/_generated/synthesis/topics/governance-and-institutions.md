@@ -4,8 +4,8 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-10
-as_of_overview_commit: 0d4197c15470f9c76e754f1f6ee27fcf1c1fe7b5
-input_digest: b68bc1fc3a39d786df43210dd836054839969b5189ae03ee2664b1381653ebd0
+as_of_overview_commit: c6251e1ff43812db67e7e3c6e1dbaa582328c43c
+input_digest: d8d5ab6779eb6fbd845be1a0b2ec34062520fdd8bfa818fe3325492a517e37d1
 ---
 
 # Governance and Institutions
@@ -15,6 +15,18 @@ input_digest: b68bc1fc3a39d786df43210dd836054839969b5189ae03ee2664b1381653ebd0
 Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 601-1 adds a source-scoped Western Han boundary case: classical appointment wording and banquet speech turn Dong Xian's favorite status into a dynastic-succession and public-office problem.
 
 ## Cross-source Findings
+
+### Wang Jia Praise Uses Precedent To Open Remonstrance Channel
+
+[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] adds a late-Western-Han governance case where [[WangJiaWesternHan|王嘉]] uses praise as institutional precedent: [[HanYuandi|汉元帝]] models fiscal restraint, [[HanChengdi|汉成帝]] models tolerance of criticism and limited favorite protection, and early [[HanAidi|汉哀帝]] models learning and frugality before the later Dong Xian warning in [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]].
+
+**Evidence:** [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5]], [[WangJiaWesternHan]], [[HanYuandi]], [[HanChengdi]], [[HanAidi]], [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq]]
+
+**Qualifications:**
+
+- The episode withholds Wang Jia's final purpose until Hanji 593, so the praise is treated as rhetorical setup rather than a full evaluation of Yuan, Cheng, or Aidi.
+- The complete original memorial wording, named officeholders in the opening notice, and balanced reign assessments remain source-scoped.
+- The claim applies to court feedback and remonstrance framing, not to all uses of praise in hierarchy.
 
 ### Brexit Post Imperial Identity Turns Economic Drag Into Boundary Politics
 

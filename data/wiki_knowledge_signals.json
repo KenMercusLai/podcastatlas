@@ -35811,9 +35811,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanAidi": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -35877,6 +35877,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
           "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
+          "key": "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5/"
         }
       ],
       "updated": "2026-09-10",
@@ -35929,9 +35936,9 @@
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanChengdi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -35939,9 +35946,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生",
           "url": "/wiki/sources/zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
+          "key": "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-10",
       "url": "/wiki/entities/hanchengdi/"
     },
     "HanFanLateHan": {
@@ -36370,6 +36384,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/hanyandirector/"
+    },
+    "HanYuandi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
+          "key": "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/hanyuandi/"
     },
     "HanZhongLiaodongLateHan": {
       "episode_count": 1,
@@ -85319,9 +85349,9 @@
       "url": "/wiki/entities/wangjiashuscholar/"
     },
     "WangJiaWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？ [luOF_1bXoMTCSRKcvmUPLPuGAw4D].md",
@@ -85350,6 +85380,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
           "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
+          "key": "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5/"
         }
       ],
       "updated": "2026-09-10",

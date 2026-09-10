@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "edbba806f5fd3c38c55e73e79a35d18e256cb2f82fbd0a4383af42648b91d19b",
       "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
       "489509ad56cf743fca8d325ff258412a46a4080bb903e734749918e9f3a1a5fa",
       "b3a1fb5dcbfe007e927799ab368dd77078b976ee40ff1fffbdec30b13fd46761",
@@ -606,11 +607,34 @@
       "af3804b43668f1c501baa164dc3ef5b56251105ae8d2f04d8cb43e40c831154e",
       "d9bf4ab06ad3987d6fa76a87be74dce0826d56d3cbacee90b65bd1aba882ed8b"
     ],
-    "paragraph_count": 604
+    "paragraph_count": 605
   },
-  "overview_commit": "31ff169671313a3dec53f38824319da256fafa71",
-  "overview_digest": "9aab3c269270acd72fc226e445861e3bc56c04d335b1d7c370bf3e97cfdacf46",
+  "overview_commit": "c6251e1ff43812db67e7e3c6e1dbaa582328c43c",
+  "overview_digest": "d019d4054d92f026170ab635edf6e6d832875fa952ac7820b0e497059bbf0153",
   "paragraphs": [
+    {
+      "id": "edbba806f5fd3c38c55e73e79a35d18e256cb2f82fbd0a4383af42648b91d19b",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the rhetorical prelude to [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]]. It adds [[HanYuandi|汉元帝]] and extends [[WangJiaWesternHan|王嘉]], [[HanChengdi|汉成帝]], and [[HanAidi|汉哀帝]]. Its core synthesis is that Wang Jia's praise of Han Yuan's thrift, Han Cheng's criticism tolerance, and early Aidi's learning and frugality is not neutral flattery but precedent-building before a dangerous warning about favorite politics. No settled contradiction is recorded; the episode withholds the final purpose until Hanji 593, so the praise claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "HanAidi",
+        "HanChengdi",
+        "HanYuandi",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangJiaWesternHan",
+        "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+        "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq"
+      ]
+    },
     {
       "id": "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
       "primary_topic": "business-and-markets",

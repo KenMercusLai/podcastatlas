@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9556
+wiki_total_pages: 9557
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "HanWudi"
     title: "Emperor Wu of Han / 汉武帝"
     url: "/wiki/entities/hanwudi/"
+  - key: "HanYuandi"
+    title: "Emperor Yuan of Han / 汉元帝"
+    url: "/wiki/entities/hanyuandi/"
   - key: "Huaxizi"
     title: "Florasis / 花西子"
     url: "/wiki/entities/huaxizi/"
