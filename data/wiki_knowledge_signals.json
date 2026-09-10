@@ -3670,9 +3670,9 @@
       "url": "/wiki/concepts/adversitysilencediscipline/"
     },
     "AdviceFramingUnderHierarchy": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？ [loG-Wy2ZVPdJOPbdyexb0IJQmph4].md",
@@ -3715,6 +3715,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》809丨为什么劝你不要乱拍马屁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》593丨真正厉害的人这样说话 [luiGZfYQ6rTuA0nEcI9jQi8YBxQQ].md",
+          "key": "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
         }
       ],
       "updated": "2026-08-29",
@@ -21090,9 +21097,9 @@
       "url": "/wiki/entities/dongxilatehan/"
     },
     "DongXian": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -21149,6 +21156,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》601-1丨除了宇辉，他的文化水平也能改命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》593丨真正厉害的人这样说话 [luiGZfYQ6rTuA0nEcI9jQi8YBxQQ].md",
+          "key": "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
         }
       ],
       "updated": "2026-09-10",
@@ -22275,6 +22289,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/duxilatehan/"
+    },
+    "DuYeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》593丨真正厉害的人这样说话 [luiGZfYQ6rTuA0nEcI9jQi8YBxQQ].md",
+          "key": "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/duyewesternhan/"
     },
     "DuZhongLateHan": {
       "episode_count": 1,
@@ -35781,9 +35811,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanAidi": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 2,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -35840,6 +35870,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》601-1丨除了宇辉，他的文化水平也能改命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》593丨真正厉害的人这样说话 [luiGZfYQ6rTuA0nEcI9jQi8YBxQQ].md",
+          "key": "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
         }
       ],
       "updated": "2026-09-10",
@@ -40912,9 +40949,9 @@
       "url": "/wiki/concepts/imperialpreferencespeechrisk/"
     },
     "ImperialPrivateDesireGovernanceRisk": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
@@ -40936,6 +40973,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》601-1丨除了宇辉，他的文化水平也能改命！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》593丨真正厉害的人这样说话 [luiGZfYQ6rTuA0nEcI9jQi8YBxQQ].md",
+          "key": "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
         }
       ],
       "updated": "2026-09-10",
@@ -85275,9 +85319,9 @@
       "url": "/wiki/entities/wangjiashuscholar/"
     },
     "WangJiaWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？ [luOF_1bXoMTCSRKcvmUPLPuGAw4D].md",
@@ -85299,6 +85343,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》593丨真正厉害的人这样说话 [luiGZfYQ6rTuA0nEcI9jQi8YBxQQ].md",
+          "key": "zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》593丨真正厉害的人这样说话",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq/"
         }
       ],
       "updated": "2026-09-10",

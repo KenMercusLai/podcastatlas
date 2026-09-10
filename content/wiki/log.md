@@ -16749,6 +16749,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》593丨真正厉害的人这样说话
+
+Added source note for Wang Jia's structured remonstrance against Han Aidi's overfavoring of Dong Xian. Key claims: private favor had expanded into public construction, household provisioning, market intimidation, and land grants; Wang Jia used praise, chancellor-duty language, disaster-rumor pressure, and historical precedent to reframe restraint as protection for Dong Xian.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？
 
 Added source note for the Yuanshou 1 / 2 BCE Wang Jia continuation: Wang Jia refuses the suicide convention, faces Tingwei interrogation alive, defends Liang Xiang's group, accuses Dong Xian's father-son network, dies in prison, and triggers partial personnel correction. Updated WangJiaWesternHan, HanAidi, DongXian, KongGuangWesternHan, HeWuWesternHan, PengXuanWesternHan, and CourtSummonsAsDeathSentence; added BaoXuanWesternHan, DingMingWesternHan, FuJiaWesternHan, JiaYanWesternHan, and LawEnforcementAgainstElitePrivilege.
@@ -17028,6 +17032,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

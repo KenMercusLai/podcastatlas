@@ -20965,6 +20965,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "DuYeWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "DuZiChun": [
     {
       "key": "culture",

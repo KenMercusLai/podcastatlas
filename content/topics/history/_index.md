@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1687
+topic_total_pages: 1688
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2894,6 +2894,9 @@ topic_entities:
   - key: "LiTan"
     title: "李谈 / Li Tan"
     url: "/wiki/entities/litan/"
+  - key: "DuYeWesternHan"
+    title: "杜邺 / Du Ye (Western Han)"
+    url: "/wiki/entities/duyewesternhan/"
   - key: "YangXiHan"
     title: "杨喜 / Yang Xi (Han)"
     url: "/wiki/entities/yangxihan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9555
+wiki_total_pages: 9556
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1088,6 +1088,9 @@ wiki_pages:
   - key: "DuShiEasternHan"
     title: "杜诗 / Du Shi (Eastern Han)"
     url: "/wiki/entities/dushieasternhan/"
+  - key: "DuYeWesternHan"
+    title: "杜邺 / Du Ye (Western Han)"
+    url: "/wiki/entities/duyewesternhan/"
   - key: "DuanNongyu"
     title: "段农裕 / Duan Nongyu"
     url: "/wiki/entities/duannongyu/"
