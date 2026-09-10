@@ -13,13 +13,14 @@ sources:
   - zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n
   - zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq
   - zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5
+  - zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq
 last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Emperor Ai of Han / 汉哀帝 is synthesized as a late [[WesternHanDynasty|Western Han]] emperor whose current wiki role spans political reputation, early self-image, favorite-driven reward risk, suspicious court governance, partial correction, abdication-language danger, diplomatic ritual, succession rupture, and posthumous burial timing. The Xiangrui source rereads him as more active than the damaged later image centered on [[DongXian|董贤]], while [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] preserves the early image [[WangJiaWesternHan|王嘉]] uses rhetorically: Aidi as learned, frugal, and attentive to public burden before the later Dong Xian crisis. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]], [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]], [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]], [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]], and [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] add a harsher pre-crisis layer: Aidi's Dong Xian-centered favor makes public construction, household supply, market order, land reward, legal review, talent-preservation advice, dynastic succession speech, and even mourning Wang Jia politically dangerous.
+Emperor Ai of Han / 汉哀帝 is synthesized as a late [[WesternHanDynasty|Western Han]] emperor whose current wiki role spans political reputation, early self-image, favorite-driven reward risk, suspicious court governance, partial correction, abdication-language danger, diplomatic ritual, succession rupture, and posthumous burial timing. The Xiangrui source rereads him as more active than the damaged later image centered on [[DongXian|董贤]], while [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] preserves the early image [[WangJiaWesternHan|王嘉]] uses rhetorically: Aidi as learned, frugal, and attentive to public burden before the later Dong Xian crisis. [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] adds a Wang-family return layer: Aidi recalls [[WangMang|王莽]] and Wang Ren to serve [[WangZhengjun|王政君]] after petition pressure for Wang Mang. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]], [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]], [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]], [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]], and [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] add a harsher pre-crisis layer: Aidi's Dong Xian-centered favor makes public construction, household supply, market order, land reward, legal review, talent-preservation advice, dynastic succession speech, and even mourning Wang Jia politically dangerous.
 
 ## Current Profile
 
@@ -34,6 +35,8 @@ Hanji 599 shows Aidi's limited capacity to correct after damage is done. He is a
 Hanji 601-1 makes the succession-language danger explicit before Aidi's death. After Xiao Xian reads Dong-family appointment language as Yao-Shun abdication-coded, Aidi later says at a Qilin Hall banquet that he intends to imitate Yao by yielding to Dong Xian. [[WangHongWesternHan|王洪]] interrupts with a dynastic objection, and Aidi punishes him by removing palace access before later recalling him.
 
 Hanji 602 adds a court-ritual and diplomacy layer from Yuanshou 2 / 1 BCE. Aidi receives a Xiongnu chanyu in Chang'an, has Dong Xian identified as a young but highly placed grand marshal, and lodges the chanyu in Shanglinyuan's Putao Palace because of a Tai Sui rationale.
+
+Hanji 595 adds a court-balance layer immediately before the later Dong Xian crisis. After Wang Mang's fief retreat and reputation recovery, Aidi recalls Wang Mang and Wang Ren to Chang'an to serve Wang Zhengjun. The same source shows Aidi accepting Dong Xian's eclipse-framed accusation against Fu Yan and Xifu Gong, so Wang-family rehabilitation and Dong Xian's anti-Fu influence coexist in the same late-reign field.
 
 Hanji 603 adds the immediate succession-rupture layer. Aidi dies in the sixth month of Yuanshou 2 / 1 BCE at Weiyang Palace, age twenty-five, after finalizing a three-excellency arrangement with Dong Xian as Da Sima Wei General, Kong Guang as Da Situ, and Peng Xuan as Da Sikong. His lack of a son lets [[WangZhengjun|王政君]] seize the imperial seal and command channels while [[WangMang|王莽]] removes Dong Xian.
 
@@ -53,6 +56,8 @@ Hanji 610-2 adds a ritual-body layer: Aidi dies in the sixth month but is buried
 
 - Political reappraisal: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Aidi constrained Wang-family relatives, cut expenses, attended to government, and considered limits on land and enslaved dependents.
 - Reputation problem: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] treats Aidi's damaged later image as potentially shaped by the political aftermath of Wang Mang's rise.
+- Wang-family recall: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] says Aidi recalls Wang Mang and Wang Ren to Chang'an to serve Wang Zhengjun after petition pressure.
+- Dong Xian anti-Fu influence: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] says Aidi accepts Dong Xian's eclipse explanation against Fu Yan and Xifu Gong, removing Fu Yan from office.
 - Early praise frame: [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] says Wang Jia praises Aidi's Dingtao-era learning and early-reign austerity before later warning him.
 - Public-burden concern: [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] says Wang Jia presents the delayed Gonghuang temple construction as Aidi sacrificing private feeling for public expense.
 - Public-resource overfavor: [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] says Wang Jia identifies Dong Xian's mansion, household support, market escorts, servant rewards, and land grants as evidence that Aidi's private favor has become public burden.
@@ -78,7 +83,7 @@ The wiki does not yet have a full reign narrative for Han Aidi. The Xiangrui sou
 
 ## What Changed
 
-- Added Hanji 592's early-image layer before Hanji 593's public-burden layer: Wang Jia uses Aidi's learning, frugality, and public-burden concern as a strategic precedent before criticizing Dong Xian favor.
+- Added Hanji 595's Wang-family recall and Dong Xian anti-Fu influence layer before the Hanji 597-603 succession-crisis sequence.
 - Preserved Hanji 598's pre-succession court-danger layer: legal review and talent-preservation advice can become disloyalty under Aidi's suspicion.
 - Added Hanji 599's partial-correction layer: Aidi restores some officials after Wang Jia's death but keeps punishing pro-Wang-Jia sympathy.
 - Added Hanji 601-1's succession-language layer: Aidi's Yao-Shun remark around Dong Xian turns private favor into a dynastic-boundary problem.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 6941
+wiki_total_pages: 6942
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "KimiDeltaAttention"
     title: "Kimi Delta Attention / KDA"
     url: "/wiki/concepts/kimideltaattention/"
+  - key: "KinSacrificeReputationPerformance"
+    title: "Kin Sacrifice Reputation Performance / 亲属牺牲式声望表演"
+    url: "/wiki/concepts/kinsacrificereputationperformance/"
   - key: "KinshipLegitimacyDiplomacy"
     title: "Kinship Legitimacy Diplomacy / 同源合法性外交"
     url: "/wiki/concepts/kinshiplegitimacydiplomacy/"

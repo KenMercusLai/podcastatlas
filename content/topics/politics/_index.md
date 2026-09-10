@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2313
+topic_total_pages: 2314
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1684,6 +1684,9 @@ topic_concepts:
   - key: "KeyPersonInsurance"
     title: "Key Person Insurance"
     url: "/wiki/concepts/keypersoninsurance/"
+  - key: "KinSacrificeReputationPerformance"
+    title: "Kin Sacrifice Reputation Performance / 亲属牺牲式声望表演"
+    url: "/wiki/concepts/kinsacrificereputationperformance/"
   - key: "KinshipLegitimacyDiplomacy"
     title: "Kinship Legitimacy Diplomacy / 同源合法性外交"
     url: "/wiki/concepts/kinshiplegitimacydiplomacy/"

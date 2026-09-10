@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1688
+topic_total_pages: 1689
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -547,6 +547,9 @@ topic_concepts:
   - key: "JudicialDuel"
     title: "Judicial Duel / 司法决斗"
     url: "/wiki/concepts/judicialduel/"
+  - key: "KinSacrificeReputationPerformance"
+    title: "Kin Sacrifice Reputation Performance / 亲属牺牲式声望表演"
+    url: "/wiki/concepts/kinsacrificereputationperformance/"
   - key: "KinshipLegitimacyDiplomacy"
     title: "Kinship Legitimacy Diplomacy / 同源合法性外交"
     url: "/wiki/concepts/kinshiplegitimacydiplomacy/"
