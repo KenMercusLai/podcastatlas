@@ -16737,6 +16737,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》603丨哀帝死后，王莽如何秒速夺权？
+
+Added source note for the immediate Yuanshou 2 / 1 BCE succession shock after Han Aidi's death: Wang Zhengjun seizes the seal and command channels, Dong Xian fails as crisis operator, and Wang Mang uses palace access and impeachment procedure to remove Dong Xian before the formal Da Sima contest. Updated HanAidi, DongXian, and WangZhengjun.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？
 
 Added source note for the Yuanshou 2 / 1 BCE post-Aidi transition episode on Wang Mang's Da Sima return, He Wu and Gongsun Lu's failed outer-relative balancing attempt, Wang Shun's heir-transfer role, Zhao/Fu/Ding cleanup, and Fu Xi's cautious good end. Added FuXiWesternHan, HeWuWesternHan, GongsunLuWesternHan, OuterRelativeOfficeContest, and GoodDeathPoliticalSurvival; updated WangShunXinTaishi and SuccessionLegitimacyPurge.
@@ -16996,6 +17000,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 
