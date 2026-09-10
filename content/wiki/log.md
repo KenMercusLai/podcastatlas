@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | Working through it: the AI jobs boom dawns
+
+Added source note for The Intelligence episode on AI labor-market data, data-center infrastructure labor demand, China's cabbage-formaldehyde food-safety scandal, and queen-ant smuggling from Kenya. Added focused pages for Alex Domash, Burning Glass Institute, Kangbao, Carla Superana, AntsCanada, AIJobCreationCounterweight, AIInfrastructureLaborDemand, ChinaFoodSafetyFragmentation, and QueenAntTraffickingEcology.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》584丨西汉“瓠山立石谋反事件”始末
 
 Ingested the 2026-05-23 芮淇讲透资治通鉴 episode on Han Aidi's illness and ritual anxiety, the Hu Mountain standing-stone treason case, the West Queen Mother token panic, and Zheng Chong's objection to Fu Shang's enfeoffment. Added source `zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo`; created Liu Yun, Dongping queen Liu Ye, Fu Shang, Sun Chong, and two concept pages; updated Xi Fu Gong, Zheng Chong, Wuyan County, and `index`. No settled contradiction found; the anomalies' physical cause, Liu Ye's confession reliability, and the panic's organizer remain source-scoped.
@@ -17184,6 +17188,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？
 
 Added source note for the late-Western-Han chanyu illness-delay debate, covering Fu Yan and Xi Fu Gong's Wusun-linked escalation proposal, Gongsun Lu's trust-preserving diplomatic objection, and Wang Jia's rejection of disaster-omen war logic and arbitrary killing. Added focused entity pages for Fu Yan, Xi Fu Gong, and Wusun; updated Gongsun Lu with the pre-death diplomatic-remonstrance layer.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

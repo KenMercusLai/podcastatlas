@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9582
+wiki_total_pages: 9587
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "KandakeQueens"
     title: "Kandake Queens"
     url: "/wiki/entities/kandakequeens/"
+  - key: "Kangbao"
+    title: "Kangbao"
+    url: "/wiki/entities/kangbao/"
   - key: "KanyeWest"
     title: "Kanye West"
     url: "/wiki/entities/kanyewest/"

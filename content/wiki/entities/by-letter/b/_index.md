@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9582
+wiki_total_pages: 9587
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -836,6 +836,9 @@ wiki_pages:
   - key: "BurkeAndHare"
     title: "Burke and Hare / 伯克与黑尔"
     url: "/wiki/entities/burkeandhare/"
+  - key: "BurningGlassInstitute"
+    title: "Burning Glass Institute"
+    url: "/wiki/entities/burningglassinstitute/"
   - key: "BurntolletBridgeAttack"
     title: "Burntollet Bridge Attack"
     url: "/wiki/entities/burntolletbridgeattack/"

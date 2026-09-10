@@ -2005,6 +2005,38 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/aiinevitabilityresponsibilityevasion/"
     },
+    "AIInfrastructureLaborDemand": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/aiinfrastructurelabordemand/"
+    },
+    "AIJobCreationCounterweight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/aijobcreationcounterweight/"
+    },
     "AIJobSecurityAnxiety": {
       "episode_count": 7,
       "show_count": 6,
@@ -4451,6 +4483,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/alberta/"
     },
+    "AlexDomash": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/alexdomash/"
+    },
     "AlexTheatre": {
       "episode_count": 1,
       "show_count": 1,
@@ -5915,6 +5963,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/antoniodamasio/"
+    },
+    "AntsCanada": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/antscanada/"
     },
     "AnxietyDecomposition": {
       "episode_count": 1,
@@ -10598,6 +10662,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/buqiaoqiangleader/"
     },
+    "BurningGlassInstitute": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/burningglassinstitute/"
+    },
     "BushezheShuo": {
       "episode_count": 1,
       "show_count": 1,
@@ -11965,6 +12045,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/careerpositioningthroughfit/"
+    },
+    "CarlaSuperana": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/carlasuperana/"
     },
     "CarlosStartupEmbassy": {
       "episode_count": 1,
@@ -13755,6 +13851,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/chinaenterpriseaisystemdebt/"
+    },
+    "ChinaFoodSafetyFragmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/chinafoodsafetyfragmentation/"
     },
     "ChinaHomeSharingSupplyMotivation": {
       "episode_count": 1,
@@ -45108,6 +45220,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/kandakequeens/"
     },
+    "Kangbao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/kangbao/"
+    },
     "KaomiSleep": {
       "episode_count": 1,
       "show_count": 1,
@@ -68342,6 +68470,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/quantilebalancing/"
+    },
+    "QueenAntTraffickingEcology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+          "key": "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8",
+          "show": "Economist Podcasts",
+          "title": "Working through it: the AI jobs boom dawns",
+          "url": "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/queenanttraffickingecology/"
     },
     "QueenNjinga": {
       "episode_count": 1,

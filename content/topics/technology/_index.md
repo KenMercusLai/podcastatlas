@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2879
+topic_total_pages: 2884
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -523,6 +523,9 @@ topic_concepts:
   - key: "AIInfrastructureFullStackMoat"
     title: "AI Infrastructure Full-Stack Moat"
     url: "/wiki/concepts/aiinfrastructurefullstackmoat/"
+  - key: "AIInfrastructureLaborDemand"
+    title: "AI Infrastructure Labor Demand"
+    url: "/wiki/concepts/aiinfrastructurelabordemand/"
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
@@ -550,6 +553,9 @@ topic_concepts:
   - key: "AIIPOValuation"
     title: "AI IPO Valuation"
     url: "/wiki/concepts/aiipovaluation/"
+  - key: "AIJobCreationCounterweight"
+    title: "AI Job Creation Counterweight"
+    url: "/wiki/concepts/aijobcreationcounterweight/"
   - key: "AIJobSecurityAnxiety"
     title: "AI Job Security Anxiety"
     url: "/wiki/concepts/aijobsecurityanxiety/"
@@ -4112,6 +4118,9 @@ topic_entities:
   - key: "AlexGMICloud"
     title: "Alex (GMI Cloud)"
     url: "/wiki/entities/alexgmicloud/"
+  - key: "AlexDomash"
+    title: "Alex Domash"
+    url: "/wiki/entities/alexdomash/"
   - key: "AlexKarp"
     title: "Alex Karp"
     url: "/wiki/entities/alexkarp/"
@@ -4436,6 +4445,9 @@ topic_entities:
   - key: "BruceSchneier"
     title: "Bruce Schneier"
     url: "/wiki/entities/bruceschneier/"
+  - key: "BurningGlassInstitute"
+    title: "Burning Glass Institute"
+    url: "/wiki/entities/burningglassinstitute/"
   - key: "BuzzFeed"
     title: "BuzzFeed"
     url: "/wiki/entities/buzzfeed/"
@@ -8409,6 +8421,9 @@ topic_sources:
   - key: "tech-20260820-tech-pod-128-tech-20260820-tech-pod-128"
     title: "Why the Trump administration plans to boost funding for subsea cables"
     url: "/wiki/sources/tech-20260820-tech-pod-128-tech-20260820-tech-pod-128/"
+  - key: "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8"
+    title: "Working through it: the AI jobs boom dawns"
+    url: "/wiki/sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545"
     title: "World's First Trillionaire, Anthropic Fable Banned, The New Oligarchs, Iran Peace Deal"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-worlds-first-trillionaire-anthropic-fable-banned-the-new-oligarchs-iran-peace-deal-41706545/"

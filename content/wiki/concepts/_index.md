@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6968
+wiki_total_pages: 6972
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -902,6 +902,9 @@ wiki_pages:
   - key: "AIInfrastructureFullStackMoat"
     title: "AI Infrastructure Full-Stack Moat"
     url: "/wiki/concepts/aiinfrastructurefullstackmoat/"
+  - key: "AIInfrastructureLaborDemand"
+    title: "AI Infrastructure Labor Demand"
+    url: "/wiki/concepts/aiinfrastructurelabordemand/"
   - key: "AIInfrastructureSupplyChainBullwhip"
     title: "AI Infrastructure Supply-Chain Bullwhip / AI 基建供应链牛鞭效应"
     url: "/wiki/concepts/aiinfrastructuresupplychainbullwhip/"
@@ -932,6 +935,9 @@ wiki_pages:
   - key: "AIIPOValuation"
     title: "AI IPO Valuation"
     url: "/wiki/concepts/aiipovaluation/"
+  - key: "AIJobCreationCounterweight"
+    title: "AI Job Creation Counterweight"
+    url: "/wiki/concepts/aijobcreationcounterweight/"
   - key: "AIJobSecurityAnxiety"
     title: "AI Job Security Anxiety"
     url: "/wiki/concepts/aijobsecurityanxiety/"

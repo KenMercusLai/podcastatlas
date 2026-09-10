@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6968
+wiki_total_pages: 6972
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "ChinaFiscalExpansionChannels"
     title: "China Fiscal Expansion Channels"
     url: "/wiki/concepts/chinafiscalexpansionchannels/"
+  - key: "ChinaFoodSafetyFragmentation"
+    title: "China Food Safety Fragmentation"
+    url: "/wiki/concepts/chinafoodsafetyfragmentation/"
   - key: "ChinaHandsetSupplyChain"
     title: "China Handset Supply Chain"
     url: "/wiki/concepts/chinahandsetsupplychain/"

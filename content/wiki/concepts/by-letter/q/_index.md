@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 6968
+wiki_total_pages: 6972
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "QuasiRoyalQinHegemony"
     title: "Quasi-Royal Qin Hegemony / 准天子式秦霸权"
     url: "/wiki/concepts/quasiroyalqinhegemony/"
+  - key: "QueenAntTraffickingEcology"
+    title: "Queen Ant Trafficking Ecology"
+    url: "/wiki/concepts/queenanttraffickingecology/"
   - key: "QueenMotherRegency"
     title: "Queen-Mother Regency / 太后摄政"
     url: "/wiki/concepts/queenmotherregency/"

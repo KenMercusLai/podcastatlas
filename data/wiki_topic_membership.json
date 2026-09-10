@@ -3842,6 +3842,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIInfrastructureLaborDemand": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIInfrastructureSupplyChainBullwhip": [
     {
       "key": "technology",
@@ -3923,6 +3930,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AIJobCreationCounterweight": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "AIJobSecurityAnxiety": [
@@ -6551,6 +6565,18 @@
       "url": "/topics/science/"
     }
   ],
+  "AlexDomash": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "AlexGMICloud": [
     {
       "key": "technology",
@@ -8143,6 +8169,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "AntsCanada": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "Antwerp": [
@@ -12246,6 +12279,13 @@
       "url": "/topics/history/"
     }
   ],
+  "BurningGlassInstitute": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "BushezheShuo": [
     {
       "key": "technology",
@@ -14407,6 +14447,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ChinaFoodSafetyFragmentation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ChinaInsuranceFundsEquityAllocation": [
@@ -80447,6 +80494,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "would-you-trust-an-economist-with-your-economy": [

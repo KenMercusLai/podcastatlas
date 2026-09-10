@@ -323,8 +323,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
-      "source_note_count": 69,
-      "topic_matched_source_note_count": 65,
+      "source_note_count": 70,
+      "topic_matched_source_note_count": 66,
       "topics": [
         {
           "key": "politics",
@@ -336,7 +336,7 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 24
+          "source_note_count": 25
         },
         {
           "key": "culture",
@@ -411,9 +411,9 @@
       ],
       "start_here_episode_files": [
         "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
-        "Bargaining chips： Nvidia is the bank of AI [6a9a86ffe7a9fe2478c4fc41].md",
+        "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
         "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
-        "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md"
+        "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md"
       ]
     },
     "How I Built This with Guy Raz": {

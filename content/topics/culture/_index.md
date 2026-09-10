@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2628
+topic_total_pages: 2629
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3029,6 +3029,9 @@ topic_entities:
   - key: "AntoineDeSaintExupery"
     title: "Antoine de Saint-Exupery / 圣埃克苏佩里"
     url: "/wiki/entities/antoinedesaintexupery/"
+  - key: "AntsCanada"
+    title: "AntsCanada"
+    url: "/wiki/entities/antscanada/"
   - key: "AnywayFM"
     title: "Anyway.FM 设计杂谈"
     url: "/wiki/entities/anywayfm/"

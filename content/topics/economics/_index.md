@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1988
+topic_total_pages: 1989
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3011,6 +3011,9 @@ topic_entities:
   - key: "Alerta"
     title: "Alerta"
     url: "/wiki/entities/alerta/"
+  - key: "AlexDomash"
+    title: "Alex Domash"
+    url: "/wiki/entities/alexdomash/"
   - key: "AlexRosenberg"
     title: "Alex Rosenberg"
     url: "/wiki/entities/alexrosenberg/"

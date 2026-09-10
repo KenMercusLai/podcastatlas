@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9582
+wiki_total_pages: 9587
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -182,6 +182,9 @@ wiki_pages:
   - key: "CarlaSugirana"
     title: "Carla Sugirana"
     url: "/wiki/entities/carlasugirana/"
+  - key: "CarlaSuperana"
+    title: "Carla Superana"
+    url: "/wiki/entities/carlasuperana/"
   - key: "CarloCollodi"
     title: "Carlo Collodi / 卡洛·科洛迪"
     url: "/wiki/entities/carlocollodi/"

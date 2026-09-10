@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9582
+wiki_total_pages: 9587
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "AlexCheung"
     title: "Alex Cheung"
     url: "/wiki/entities/alexcheung/"
+  - key: "AlexDomash"
+    title: "Alex Domash"
+    url: "/wiki/entities/alexdomash/"
   - key: "AlexGoldman"
     title: "Alex Goldman"
     url: "/wiki/entities/alexgoldman/"
@@ -1049,6 +1052,9 @@ wiki_pages:
   - key: "AntonioMaysJr"
     title: "Antonio Mays Jr."
     url: "/wiki/entities/antoniomaysjr/"
+  - key: "AntsCanada"
+    title: "AntsCanada"
+    url: "/wiki/entities/antscanada/"
   - key: "Antwerp"
     title: "Antwerp"
     url: "/wiki/entities/antwerp/"

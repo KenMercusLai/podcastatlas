@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Working through it: the AI jobs boom dawns](sources/working-through-it-the-ai-jobs-boom-dawns-6aa27a3fa6e9aef4cc7741b8.md) — The Intelligence episode on AI job creation counterweights, data-center labor demand, China's fragmented food-safety enforcement, and queen-ant trafficking from Kenya.
 - [《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？](sources/zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs.md) — Late-Western-Han personnel episode on Wang Jia's argument that capable officials with small or past faults can be restored when local authority, tenure stability, and crisis response require usable talent.
 - [《资治通鉴·汉纪》584丨西汉“瓠山立石谋反事件”始末](sources/zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo.md) — Late-Western-Han court-politics episode on Han Aidi's illness and ritual anxiety, the Hu Mountain standing-stone treason case against Dongping king Liu Yun, West Queen Mother token panic, and Zheng Chong's objection to Fu Shang's enfeoffment.
 - [《资治通鉴·汉纪》585丨他与他的爱情，可以多复杂？](sources/zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa.md) — Late-Western-Han court-politics episode on Han Aidi and Dong Xian's "断袖" origin layer, extreme favorite rewards, Dong-family advancement, Zheng Chong's fatal remonstrance risk, Zhao Chang's accusation, and Sun Bao's failed defense.
@@ -2155,6 +2156,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Alex Domash](entities/AlexDomash.md) — Labor-market source voice in The Intelligence's AI jobs segment, qualifying job-loss panic with infrastructure and professional-job evidence.
+- [Burning Glass Institute](entities/BurningGlassInstitute.md) — Labor-market organization cited for the estimate that about 1% of U.S. professional jobs are AI jobs.
+- [Kangbao](entities/Kangbao.md) — Chinese county used as the cabbage-formaldehyde food-safety scandal case in The Intelligence.
+- [Carla Superana](entities/CarlaSuperana.md) — Source voice explaining queen-ant smuggling from Kenya, collector demand, and ecological risk.
+- [AntsCanada](entities/AntsCanada.md) — YouTube ant-keeping channel cited as an example of social-media demand around ant colonies.
 - [东平王刘云 / Liu Yun, Dongping King (Western Han)](entities/LiuYunDongpingKingWesternHan.md) — Western Han royal kinsman whose worship of the Hu Mountain standing stone is prosecuted as treason under Han Aidi.
 - [东平王后刘烨 / Liu Ye, Dongping Queen (Western Han)](entities/LiuYeDongpingQueenWesternHan.md) — Dongping queen whose reported confession becomes decisive in Liu Yun's standing-stone treason case.
 - [傅商 / Fu Shang (Western Han)](entities/FuShangWesternHan.md) — Fu-family relative whose enfeoffment triggers Zheng Chong's omen-coded institutional remonstrance.
@@ -11741,6 +11747,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [AI Job Creation Counterweight](concepts/AIJobCreationCounterweight.md) — Source-scoped claim that AI-related investment can create infrastructure and professional jobs that complicate simple displacement narratives.
+- [AI Infrastructure Labor Demand](concepts/AIInfrastructureLaborDemand.md) — Employment demand created by building, powering, cooling, operating, and maintaining AI data-center infrastructure.
+- [China Food Safety Fragmentation](concepts/ChinaFoodSafetyFragmentation.md) — Governance problem created by many small producers, transporters, traders, markets, and restaurants in China's food system.
+- [Queen Ant Trafficking Ecology](concepts/QueenAntTraffickingEcology.md) — Ecological risk from rare-pet demand targeting reproductive queen ants and future colony formation.
 - [Disaster-Omen Treason Accusation / 灾异谋反指控](concepts/DisasterOmenTreasonAccusation.md) — Pattern where an anomalous sign becomes prosecutorial evidence against a politically sensitive target.
 - [Folk Religious Panic Transmission / 民间宗教恐慌传播](concepts/FolkReligiousPanicTransmission.md) — Spread of fear through sacred tokens, rumor, ritual movement, and coercive participation, opened through the West Queen Mother tally panic.
 - [外交成本风险核算 / Diplomatic Cost-Risk Accounting](concepts/DiplomaticCostRiskAccounting.md) — statecraft pattern where diplomatic spending is weighed against the larger trust, security, and war-risk costs created by cutting it.

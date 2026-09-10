@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2326
+topic_total_pages: 2327
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -499,6 +499,9 @@ topic_concepts:
   - key: "ChinaDivorceRestrictions"
     title: "China Divorce Restrictions"
     url: "/wiki/concepts/chinadivorcerestrictions/"
+  - key: "ChinaFoodSafetyFragmentation"
+    title: "China Food Safety Fragmentation"
+    url: "/wiki/concepts/chinafoodsafetyfragmentation/"
   - key: "ChinaInsuranceFundsEquityAllocation"
     title: "China Insurance Funds Equity Allocation / 中国险资入市"
     url: "/wiki/concepts/chinainsurancefundsequityallocation/"
