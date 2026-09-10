@@ -9367,6 +9367,10 @@
     "title": "Caitlin Gorback",
     "url": "/wiki/entities/caitlingorback/"
   },
+  "CaitlinKale": {
+    "title": "Caitlin Kale",
+    "url": "/wiki/entities/caitlinkale/"
+  },
   "CaitlinTalbot": {
     "title": "Caitlin Talbot",
     "url": "/wiki/entities/caitlintalbot/"
@@ -9754,6 +9758,10 @@
   "CapacityBoundFrontierCommitment": {
     "title": "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺",
     "url": "/wiki/concepts/capacityboundfrontiercommitment/"
+  },
+  "CapacityMatchedGrowth": {
+    "title": "Capacity-Matched Growth",
+    "url": "/wiki/concepts/capacitymatchedgrowth/"
   },
   "CapeCanaveral": {
     "title": "Cape Canaveral",
@@ -15422,6 +15430,10 @@
   "DavidHume": {
     "title": "David Hume",
     "url": "/wiki/entities/davidhume/"
+  },
+  "DavidHyam": {
+    "title": "David Hyam",
+    "url": "/wiki/entities/davidhyam/"
   },
   "DavidKirkpatrick": {
     "title": "David Kirkpatrick",
@@ -23095,6 +23107,10 @@
     "title": "Garmin",
     "url": "/wiki/entities/garmin/"
   },
+  "GarrettBoone": {
+    "title": "Garrett Boone",
+    "url": "/wiki/entities/garrettboone/"
+  },
   "GarrettJohnson": {
     "title": "Garrett Johnson",
     "url": "/wiki/entities/garrettjohnson/"
@@ -25907,6 +25923,10 @@
     "title": "林优里 / Hayashi Yuri",
     "url": "/wiki/entities/hayashiyuri/"
   },
+  "HazelGroveCustoms": {
+    "title": "Hazel Grove Customs",
+    "url": "/wiki/entities/hazelgrovecustoms/"
+  },
   "HeBingWesternHan": {
     "title": "何病 / He Bing (Western Han)",
     "url": "/wiki/entities/hebingwesternhan/"
@@ -28546,6 +28566,10 @@
   "IndependentPodcastSustainability": {
     "title": "Independent Podcast Sustainability / 独立播客可持续性",
     "url": "/wiki/concepts/independentpodcastsustainability/"
+  },
+  "IndependentRetailDiscovery": {
+    "title": "Independent Retail Discovery",
+    "url": "/wiki/concepts/independentretaildiscovery/"
   },
   "IndexFundAutomaticExposure": {
     "title": "Index Fund Automatic Exposure",
@@ -31583,6 +31607,10 @@
     "title": "Julien Sorel / 于连·索雷尔",
     "url": "/wiki/entities/juliensorel/"
   },
+  "JulietteBruce": {
+    "title": "Juliette Bruce",
+    "url": "/wiki/entities/juliettebruce/"
+  },
   "JuliusCaesar": {
     "title": "Julius Caesar / 尤利乌斯·恺撒",
     "url": "/wiki/entities/juliuscaesar/"
@@ -31866,6 +31894,10 @@
   "Kaolin": {
     "title": "Kaolin / 高岭土",
     "url": "/wiki/concepts/kaolin/"
+  },
+  "KaomiSleep": {
+    "title": "Kaomi Sleep",
+    "url": "/wiki/entities/kaomisleep/"
   },
   "KappaAkutagawa": {
     "title": "《河童》 / Kappa",
@@ -32323,6 +32355,10 @@
     "title": "Kinship Resource State-Building / 姻亲资源建构",
     "url": "/wiki/concepts/kinshipresourcestatebuilding/"
   },
+  "KipTindell": {
+    "title": "Kip Tindell",
+    "url": "/wiki/entities/kiptindell/"
+  },
   "KiraHuyu": {
     "title": "Kira Huyu",
     "url": "/wiki/entities/kirahuyu/"
@@ -32634,6 +32670,10 @@
   "KuitouXianbei": {
     "title": "魁头 / Kuitou (Xianbei)",
     "url": "/wiki/entities/kuitouxianbei/"
+  },
+  "KulaWand": {
+    "title": "Kula Wand",
+    "url": "/wiki/entities/kulawand/"
   },
   "KulvirTaggar": {
     "title": "Kulvir Taggar",
@@ -51923,6 +51963,10 @@
     "title": "Sharon Price John",
     "url": "/wiki/entities/sharonpricejohn/"
   },
+  "SharonTindell": {
+    "title": "Sharon Tindell",
+    "url": "/wiki/entities/sharontindell/"
+  },
   "ShashankJoshi": {
     "title": "Shashank Joshi",
     "url": "/wiki/entities/shashankjoshi/"
@@ -56963,6 +57007,10 @@
     "title": "The Century Trilogy / 世纪三部曲",
     "url": "/wiki/entities/thecenturytrilogy/"
   },
+  "TheContainerStore": {
+    "title": "The Container Store",
+    "url": "/wiki/entities/thecontainerstore/"
+  },
   "TheContinental": {
     "title": "The Continental",
     "url": "/wiki/entities/thecontinental/"
@@ -60062,6 +60110,10 @@
   "Vipshop": {
     "title": "唯品会 / Vipshop",
     "url": "/wiki/entities/vipshop/"
+  },
+  "ViralProductToBrandTransition": {
+    "title": "Viral Product to Brand Transition",
+    "url": "/wiki/concepts/viralproducttobrandtransition/"
   },
   "ViralToySupplyChain": {
     "title": "Viral Toy Supply Chain",
@@ -67514,6 +67566,10 @@
   "advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88": {
     "title": "Advice Line with Kenneth Cole",
     "url": "/wiki/sources/advice-line-with-kenneth-cole-83717cb6-e000-4cde-898d-792249545f88/"
+  },
+  "advice-line-with-kip-tindell-of-the-container-store-93508940-11b5-4b29-ba7b-eb077edee062": {
+    "title": "Advice Line with Kip Tindell of The Container Store",
+    "url": "/wiki/sources/advice-line-with-kip-tindell-of-the-container-store-93508940-11b5-4b29-ba7b-eb077edee062/"
   },
   "advice-line-with-ronnen-harary-of-spin-master-paw-patrol-3894a69a-a4de-4bd8-b5f5-d3bc195994d5": {
     "title": "Advice Line with Ronnen Harary of Spin Master/PAW Patrol",

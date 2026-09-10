@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9560
+wiki_total_pages: 9570
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "HayaoMiyazaki"
     title: "Hayao Miyazaki / 宫崎骏"
     url: "/wiki/entities/hayaomiyazaki/"
+  - key: "HazelGroveCustoms"
+    title: "Hazel Grove Customs"
+    url: "/wiki/entities/hazelgrovecustoms/"
   - key: "HBO"
     title: "HBO"
     url: "/wiki/entities/hbo/"

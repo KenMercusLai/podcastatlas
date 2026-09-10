@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9560
+wiki_total_pages: 9570
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "TheCenturyTrilogy"
     title: "The Century Trilogy / 世纪三部曲"
     url: "/wiki/entities/thecenturytrilogy/"
+  - key: "TheContainerStore"
+    title: "The Container Store"
+    url: "/wiki/entities/thecontainerstore/"
   - key: "TheContinental"
     title: "The Continental"
     url: "/wiki/entities/thecontinental/"

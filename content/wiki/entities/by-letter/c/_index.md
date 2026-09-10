@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9560
+wiki_total_pages: 9570
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "CaitlinGorback"
     title: "Caitlin Gorback"
     url: "/wiki/entities/caitlingorback/"
+  - key: "CaitlinKale"
+    title: "Caitlin Kale"
+    url: "/wiki/entities/caitlinkale/"
   - key: "CaitlinTalbot"
     title: "Caitlin Talbot"
     url: "/wiki/entities/caitlintalbot/"

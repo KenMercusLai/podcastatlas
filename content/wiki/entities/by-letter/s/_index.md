@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9560
+wiki_total_pages: 9570
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -557,6 +557,9 @@ wiki_pages:
   - key: "SharonPriceJohn"
     title: "Sharon Price John"
     url: "/wiki/entities/sharonpricejohn/"
+  - key: "SharonTindell"
+    title: "Sharon Tindell"
+    url: "/wiki/entities/sharontindell/"
   - key: "ShashankJoshi"
     title: "Shashank Joshi"
     url: "/wiki/entities/shashankjoshi/"

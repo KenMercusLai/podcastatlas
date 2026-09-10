@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9560
+wiki_total_pages: 9570
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -80,6 +80,9 @@ wiki_pages:
   - key: "KaoHsinchuPrecisionCleaningCenter"
     title: "Kao Hsinchu Precision Cleaning Center / 花王新竹精密洗净中心"
     url: "/wiki/entities/kaohsinchuprecisioncleaningcenter/"
+  - key: "KaomiSleep"
+    title: "Kaomi Sleep"
+    url: "/wiki/entities/kaomisleep/"
   - key: "KaraDyer"
     title: "Kara Dyer"
     url: "/wiki/entities/karadyer/"
@@ -341,6 +344,9 @@ wiki_pages:
   - key: "KinoLoy"
     title: "Kino Loy"
     url: "/wiki/entities/kinoloy/"
+  - key: "KipTindell"
+    title: "Kip Tindell"
+    url: "/wiki/entities/kiptindell/"
   - key: "KiraHuyu"
     title: "Kira Huyu"
     url: "/wiki/entities/kirahuyu/"
@@ -464,6 +470,9 @@ wiki_pages:
   - key: "KuaishouLite"
     title: "Kuaishou Lite"
     url: "/wiki/entities/kuaishoulite/"
+  - key: "KulaWand"
+    title: "Kula Wand"
+    url: "/wiki/entities/kulawand/"
   - key: "KulvirTaggar"
     title: "Kulvir Taggar"
     url: "/wiki/entities/kulvirtaggar/"

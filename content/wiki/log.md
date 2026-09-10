@@ -17120,3 +17120,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-10] ingest | Advice Line with Kip Tindell of The Container Store
+
+Added source note for the How I Built This Advice Line episode with Kip Tindell on The Container Store, service-led retail, capacity-matched growth, Kula Wand's demonstration-led discovery, Hazel Grove Customs' independent-retailer wholesale path, and Kaomi Sleep's viral-product-to-brand transition. Added focused entity pages for Kip Tindell, The Container Store, Sharon Tindell, Garrett Boone, Kula Wand, Juliette Bruce, Hazel Grove Customs, David Hyam, Kaomi Sleep, and Caitlin Kale; added CapacityMatchedGrowth, IndependentRetailDiscovery, and ViralProductToBrandTransition.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

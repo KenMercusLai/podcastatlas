@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 9560
+wiki_total_pages: 9570
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -884,6 +884,9 @@ wiki_pages:
   - key: "JulienSorel"
     title: "Julien Sorel / 于连·索雷尔"
     url: "/wiki/entities/juliensorel/"
+  - key: "JulietteBruce"
+    title: "Juliette Bruce"
+    url: "/wiki/entities/juliettebruce/"
   - key: "JuliusCaesarPlay"
     title: "Julius Caesar / 《尤里乌斯·恺撒》"
     url: "/wiki/entities/juliuscaesarplay/"

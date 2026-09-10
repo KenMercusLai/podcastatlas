@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9560
+wiki_total_pages: 9570
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "Garmin"
     title: "Garmin"
     url: "/wiki/entities/garmin/"
+  - key: "GarrettBoone"
+    title: "Garrett Boone"
+    url: "/wiki/entities/garrettboone/"
   - key: "GarrettJohnson"
     title: "Garrett Johnson"
     url: "/wiki/entities/garrettjohnson/"

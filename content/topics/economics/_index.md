@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1987
+topic_total_pages: 1988
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -472,6 +472,9 @@ topic_concepts:
   - key: "CapTableLiteracy"
     title: "Cap Table Literacy"
     url: "/wiki/concepts/captableliteracy/"
+  - key: "CapacityMatchedGrowth"
+    title: "Capacity-Matched Growth"
+    url: "/wiki/concepts/capacitymatchedgrowth/"
   - key: "CAPERatioValuationSignal"
     title: "CAPE Ratio Valuation Signal"
     url: "/wiki/concepts/caperatiovaluationsignal/"

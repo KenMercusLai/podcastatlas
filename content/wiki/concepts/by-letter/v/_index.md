@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 6950
+wiki_total_pages: 6953
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "ViolenceReductionPublicHealthModel"
     title: "Violence Reduction Public-Health Model"
     url: "/wiki/concepts/violencereductionpublichealthmodel/"
+  - key: "ViralProductToBrandTransition"
+    title: "Viral Product to Brand Transition"
+    url: "/wiki/concepts/viralproducttobrandtransition/"
   - key: "ViralToySupplyChain"
     title: "Viral Toy Supply Chain"
     url: "/wiki/concepts/viraltoysupplychain/"

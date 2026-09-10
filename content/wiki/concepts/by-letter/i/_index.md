@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6950
+wiki_total_pages: 6953
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "IndependentPodcastSustainability"
     title: "Independent Podcast Sustainability / 独立播客可持续性"
     url: "/wiki/concepts/independentpodcastsustainability/"
+  - key: "IndependentRetailDiscovery"
+    title: "Independent Retail Discovery"
+    url: "/wiki/concepts/independentretaildiscovery/"
   - key: "IndexFundAutomaticExposure"
     title: "Index Fund Automatic Exposure"
     url: "/wiki/concepts/indexfundautomaticexposure/"

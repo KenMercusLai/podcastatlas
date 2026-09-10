@@ -12863,6 +12863,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CapacityMatchedGrowth": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CapeCanaveral": [
     {
       "key": "science",

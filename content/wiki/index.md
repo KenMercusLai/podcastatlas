@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Advice Line with Kip Tindell of The Container Store](sources/advice-line-with-kip-tindell-of-the-container-store-93508940-11b5-4b29-ba7b-eb077edee062.md) — How I Built This Advice Line episode with Kip Tindell on The Container Store, service-led retail, patient capacity-matched growth, Kula Wand discovery, Hazel Grove Customs wholesale, and Kaomi Sleep's viral-product-to-brand challenge.
 - [Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere](sources/build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319.md) — Huberman Lab episode with Jeff Cavaliere on function-first strength, weak-link corrective work, glute medius and rotator cuff control, pain-aware training, cardio, nutrition, and sustainable programming.
 - [《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？](sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5.md) — Late-Western-Han court-politics episode setting up Wang Jia's later Dong Xian remonstrance through praise of Han Yuan's thrift, Han Cheng's tolerance of criticism, and early Han Aidi's learning, frugality, and public-burden concern.
 - [《资治通鉴·汉纪》593丨真正厉害的人这样说话](sources/zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq.md) — Late-Western-Han court-politics episode on Wang Jia's hierarchy-aware remonstrance against Han Aidi's overfavoring of Dong Xian through mansion works, household provisioning, market intimidation, land grants, disaster-rumor pressure, and the warning that wrong love harms the favorite.
@@ -2143,6 +2144,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 
 ## Entities
+- [Kip Tindell](entities/KipTindell.md) — The Container Store co-founder and Advice Line guest emphasizing service-led retail, patience, humility, and capacity-matched growth.
+- [The Container Store](entities/TheContainerStore.md) — Specialty retailer used in Kip Tindell's Advice Line episode as a case for expert service, founder succession, and disciplined growth pace.
+- [Sharon Tindell](entities/SharonTindell.md) — The Container Store co-builder and Kip Tindell's spouse, used in the episode's founder-life and retirement discussion.
+- [Garrett Boone](entities/GarrettBoone.md) — The Container Store founding-team figure named in Kip Tindell's closing reflection.
+- [Kula Wand](entities/KulaWand.md) — Children's cooling-wand product whose Advice Line challenge is low-budget discovery through demonstration, safety clarity, and independent retail.
+- [Juliette Bruce](entities/JulietteBruce.md) — Kula Wand founder advised to use repeated product demonstrations, parent micro-influencers, and patient independent-retail discovery.
+- [Hazel Grove Customs](entities/HazelGroveCustoms.md) — Personalized-gift business advised to deepen independent-retailer wholesale and corporate-gifting service before larger-account expansion.
+- [David Hyam](entities/DavidHyam.md) — Hazel Grove Customs owner whose Advice Line question centers on prioritizing wholesale, reps, corporate gifting, and existing customer signals.
+- [Kaomi Sleep](entities/KaomiSleep.md) — Sleep-product company behind the Sherpa Nest, used as a case for converting viral attention into a broader security-and-comfort brand.
+- [Caitlin Kale](entities/CaitlinKale.md) — Kaomi Sleep founder facing virality, copycats, IP steps, and the move from flagship product to durable sleep brand.
 - [RMS Lusitania](entities/RMSLusitania.md) — Cunard passenger liner whose 1915 sinking anchors the wiki's submarine-warfare, propaganda, and U.S. neutrality-memory branch.
 - [Woodrow Wilson](entities/WoodrowWilson.md) — U.S. president represented through the Lusitania-era neutrality dilemma and protest-note response.
 - [Jeff Cavaliere](entities/JeffCavaliere.md) — Physical therapist and strength coach featured on Huberman Lab explaining function-first strength, corrective weak-link programming, and pain-aware training continuity.
@@ -11707,6 +11718,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [Capacity-Matched Growth](concepts/CapacityMatchedGrowth.md) — Growth discipline that sets expansion speed by the company's absorbable operating, service, people, and founder-attention capacity.
+- [Independent Retail Discovery](concepts/IndependentRetailDiscovery.md) — Channel strategy where smaller specialty or independent stores educate, validate, and create discovery before larger retail accounts.
+- [Viral Product to Brand Transition](concepts/ViralProductToBrandTransition.md) — Shift from one-time viral attention around a flagship product to a durable brand territory, product roadmap, and customer relationship.
 - [Functional Longevity Training](concepts/FunctionalLongevityTraining.md) — Training frame for preserving usable strength, balance, joint control, cardio capacity, and daily movement quality with age.
 - [Corrective Weak-Link Training](concepts/CorrectiveWeakLinkTraining.md) — Short targeted programming for muscles, positions, or control patterns that limit safe long-term strength training.
 - [Glute Medius Pelvic Control](concepts/GluteMediusPelvicControl.md) — Lateral hip and pelvis-control frame connecting glute medius strength to low-back mechanics, balance, gait, and single-leg training.

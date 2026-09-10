@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6950
+wiki_total_pages: 6953
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "CapacityBoundFrontierCommitment"
     title: "Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺"
     url: "/wiki/concepts/capacityboundfrontiercommitment/"
+  - key: "CapacityMatchedGrowth"
+    title: "Capacity-Matched Growth"
+    url: "/wiki/concepts/capacitymatchedgrowth/"
   - key: "CAPERatioValuationSignal"
     title: "CAPE Ratio Valuation Signal"
     url: "/wiki/concepts/caperatiovaluationsignal/"
