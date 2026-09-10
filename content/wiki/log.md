@@ -16977,3 +16977,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-10] ingest | 《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜
+
+Added source note for the Yuanshou 2 / 1 BCE Han Aidi episode on the Xiongnu chanyu visit, Dong Xian's court visibility, Tai Sui lodging avoidance, and the host's turn from 2024 犯太岁 remedies toward low-profile, gentle self-command. Updated HanAidi and DongXian and added TaiSuiBelief.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

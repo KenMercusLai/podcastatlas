@@ -5,13 +5,14 @@ tags: [history, china, politics]
 sources:
   - 126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780
   - zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz
+  - zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj
 last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Emperor Ai of Han / 汉哀帝 is synthesized as a late [[WesternHanDynasty|Western Han]] emperor whose current wiki role spans both political reputation and posthumous ritual timing. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] rereads him as more complicated than the damaged later image centered on [[DongXian|董贤]], while [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] uses his sixth-month death and tenth-month burial at Yiling to explain long imperial停灵 and [[ImperialFuneraryPreservation|帝王停灵防腐]].
+Emperor Ai of Han / 汉哀帝 is synthesized as a late [[WesternHanDynasty|Western Han]] emperor whose current wiki role spans political reputation, diplomatic ritual, and posthumous burial timing. [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] rereads him as more complicated than the damaged later image centered on [[DongXian|董贤]], [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|Hanji 602]] shows his court using Tai Sui avoidance in a Xiongnu lodging decision, and [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] uses his sixth-month death and tenth-month burial at Yiling to explain long imperial停灵 and [[ImperialFuneraryPreservation|帝王停灵防腐]].
 
 ## Current Profile
 
@@ -19,11 +20,14 @@ The Xiangrui source says Han Aidi tried to constrain the Wang consort family, re
 
 Hanji 610-2 adds a narrower ritual-body layer. The episode is less about Aidi's reign than about the chronological puzzle that he died in the sixth month but was not buried until the tenth month. The host uses that delay to explain that imperial funerals had longer ceremonial cycles than common three-day or seven-day mourning practices and therefore required body-preservation measures before burial.
 
+Hanji 602 adds a court-ritual and diplomacy layer from Yuanshou 2 / 1 BCE. The episode says Aidi receives a Xiongnu chanyu in Chang'an, has Dong Xian identified as a young but highly placed grand marshal, and lodges the chanyu in Shanglinyuan's Putao Palace because "太岁在申，厌伏南方." The court publicly frames the arrangement as respect, but the disclosed astrological rationale later offends the guest. Aidi's profile therefore now includes a small but concrete example of elite astrological avoidance intersecting with diplomatic dignity.
+
 ## Key Characteristics
 
 - Aidi's wiki profile is not limited to the later Dong Xian-centered reputation.
 - His conflict with Wang-family power makes Wang Mang's later return and rise more politically contingent.
 - His death creates a succession and legitimacy field in which Wang Zhengjun and Wang Mang become decisive.
+- His court could let astrological-ritual avoidance shape diplomatic hosting while disguising that motive as honor.
 - His burial chronology gives the wiki a concrete example of extended imperial停灵.
 - His posthumous treatment now links political memory to imperial funerary procedure.
 
@@ -32,21 +36,25 @@ Hanji 610-2 adds a narrower ritual-body layer. The episode is less about Aidi's 
 - Political reappraisal: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] says Aidi constrained Wang-family relatives, cut expenses, attended to government, and considered limits on land and enslaved dependents.
 - Reputation problem: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] treats Aidi's damaged later image as potentially shaped by the political aftermath of Wang Mang's rise.
 - Succession network: [[126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780]] links Aidi's death to Dong Xian's failure, Wang Zhengjun's seniority, and Wang Mang's opportunity to return.
+- Diplomatic ritual: [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|Hanji 602]] says Aidi's court lodges the Xiongnu chanyu at Shanglinyuan's Putao Palace because of the Tai Sui phrase "太岁在申，厌伏南方."
+- Favorite visibility: [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|Hanji 602]] says the chanyu asks about Dong Xian, and Aidi has him described as young, worthy, and holding high office.
 - Burial timing: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] says Aidi died in the sixth month and was buried in the tenth month at Yiling.
 - Funerary explanation: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] uses Aidi's delayed burial to explain imperial preservation and extended court funeral procedure.
 
 ## Qualifications
 
-The wiki does not yet have a full reign narrative for Han Aidi. The Xiangrui source is interpretive and focused on Wang Mang's legitimacy problem, while Hanji 610-2 is a short popular explainer focused on funerary timing rather than Aidi's politics. Dong Xian's exact conduct, Aidi's policy record, the detailed succession process, Yiling's archaeology, and the precise preservation procedure for Aidi's own body remain source-scoped.
+The wiki does not yet have a full reign narrative for Han Aidi. The Xiangrui source is interpretive and focused on Wang Mang's legitimacy problem, Hanji 602 is a short popular-history bridge from a court notice to Tai Sui belief, and Hanji 610-2 is a short popular explainer focused on funerary timing rather than Aidi's politics. Dong Xian's exact conduct, Aidi's policy record, the detailed succession process, the full diplomatic protocol for the chanyu visit, Yiling's archaeology, and the precise preservation procedure for Aidi's own body remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 610-2 as a burial-timing and imperial停灵 source.
-- Upgraded the page into the synthesis-v1 entity schema.
+- Added Hanji 602's diplomatic Tai Sui lodging case.
+- Reframed Aidi's page as spanning political reputation, diplomatic ritual, and funerary timing.
 
 ## Relationships
 
 - [[DongXian|董贤]] - close favorite whose failure at Aidi's death is part of the later succession crisis.
+- [[TaiSuiBelief|太岁与犯太岁信仰]] - astrological-folk belief whose earlier elite ritual trace appears in Aidi's chanyu lodging case.
+- [[Xiongnu|匈奴]] - diplomatic counterpart in the Yuanshou 2 chanyu visit.
 - [[WangZhengjun|王政君]] - senior dowager whose authority becomes decisive after Aidi.
 - [[WangMang|王莽]] - later usurper whose return depends partly on the post-Aidi succession field.
 - [[WesternHanDynasty|西汉]] - dynasty whose late legitimacy crisis frames Aidi's profile.

@@ -20901,6 +20901,29 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/dongxilatehan/"
     },
+    "DongXian": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜 [lvRwNPANiICGjPF43CBmvEigTXqj].md",
+          "key": "zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/dongxian/"
+    },
     "DongXianEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -35352,9 +35375,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanAidi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -35369,6 +35392,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》610-2丨从一颗夜明珠到宫中神秘防腐法：古代皇帝驾崩后如何下葬？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜 [lvRwNPANiICGjPF43CBmvEigTXqj].md",
+          "key": "zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj/"
         }
       ],
       "updated": "2026-09-10",
@@ -78504,6 +78534,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/tadunlatehan/"
+    },
+    "TaiSuiBelief": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜 [lvRwNPANiICGjPF43CBmvEigTXqj].md",
+          "key": "zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/taisuibelief/"
     },
     "Taishan": {
       "episode_count": 3,

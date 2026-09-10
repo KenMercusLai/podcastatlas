@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6916
+wiki_total_pages: 6917
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -830,6 +830,9 @@ wiki_pages:
   - key: "TaixueCollectivePetition"
     title: "太学集体请命 / Taixue Collective Petition"
     url: "/wiki/concepts/taixuecollectivepetition/"
+  - key: "TaiSuiBelief"
+    title: "太岁与犯太岁信仰 / Tai Sui Belief"
+    url: "/wiki/concepts/taisuibelief/"
   - key: "TitleSuccessionPublicDuty"
     title: "封爵继承公共责任 / Title Succession Public Duty"
     url: "/wiki/concepts/titlesuccessionpublicduty/"

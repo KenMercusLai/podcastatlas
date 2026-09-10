@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜](sources/zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj.md) — Yuanshou 2 / 1 BCE Han Aidi episode on a Xiongnu chanyu visit, Dong Xian's court visibility, Tai Sui lodging avoidance, 2024 犯太岁 folk practice, and the turn from external remedies toward low-profile self-command.
 - [704. Roman Civil War: Master of the Republic (Part 4)](sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656.md) — The Rest Is History episode on Sulla's return, Cinna's mutiny death, Marius Younger, Pompey and Crassus, the Samnites at Colline Gate, proscriptions, dictatorship, reforms, abdication, and legacy.
 - [Essentials: The Science & Process of Healing from Grief](sources/essentials-the-science-process-of-healing-from-grief-scim9466548315.md) — Huberman Lab Essentials episode on grief as attachment remapping through space, time, closeness, yearning, structured grieving, physiology, sleep, cortisol, NSDR, and support.
 - [OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权](sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958.md) — 声动早咖啡 daily scan on OpenAI's contested Navier-Stokes claim, DeepSeek API price cuts, Alibaba B2B integration, Moutai channel pricing, Tesla promotions, luxury price pressure, HYROX's reported control sale, and snack-retail weighing disputes.
@@ -8382,8 +8383,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's mother and paired target with Fu Taihou in Wang Mang's 5 CE tomb-demotion campaign.
 - [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han official retroactively restored after Wang Mang recodes earlier opposition to Fu Taihou as correct.
 - [马公 / Ma Gong (Western Han)](entities/MaGongWesternHan.md) — Western Han official protected by ties to Wang Mang but removed from top offices after the Fu Taihou title case is reopened.
-- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose current profile covers political reputation, Wang-family succession context, and Hanji 610-2's delayed-burial example for imperial停灵.
-- [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose failure during the succession crisis opened the way for Wang Zhengjun and Wang Mang.
+- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose current profile covers political reputation, Tai Sui-shaped diplomatic hosting, and delayed-burial imperial停灵.
+- [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose court visibility and later succession failure show the gap between status, symbols, and control.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated and isolated by Wang Mang, whose maternal-family exclusion, empress-selection procedure, adoptive-heir status, illness, and death preceded Wang Mang's acting-emperor status.
 - [Liu Bang / 刘邦](entities/LiuBang.md) — Western Han founder whose branch now spans anti-Qin rise, Chu-Han victory, reward settlement, frontier suspicion, and court ritual repair.
 - [Liu Xiu / 刘秀](entities/LiuXiu.md) — Eastern Han founder synthesized through Taixue formation, Kunyang initiative, Handan letter-burning trust repair, Shunshui defeat recovery, restoration warfare, early demobilization and amnesty, eclipse remonstrance, merit settlement, frontier settlement, chenwei reliance and control, illness and succession anxiety, and Guangwu ritual memory.
@@ -16889,6 +16890,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overseas Identity Reset](concepts/OverseasIdentityReset.md) — Pattern where working abroad lets a person loosen domestic labels and names, while remaining tied to risk and loneliness.
 - [Unprotected Overseas Work](concepts/UnprotectedOverseasWork.md) — Overseas-work pattern where autonomy comes without the representative office, HR, colleagues, or emergency support of a large organization.
 - [Chinese Folk Religion Layering](concepts/ChineseFolkReligionLayering.md) — Multi-source folk-religion pattern where ritual, Daoist registers, Buddhist afterlife ideas, local cults, literature, oral variants, and EP249's Minnan mediumship practice coexist without one standard doctrine.
+- [太岁与犯太岁信仰 / Tai Sui Belief](concepts/TaiSuiBelief.md) — Folk-belief pattern linking year, zodiac, direction, ritual remedies, and self-command, grounded by Hanji 602's court-lodging and 2024 犯太岁 discussion.
 - [Underworld Bureaucracy](concepts/UnderworldBureaucracy.md) — Afterlife model of offices, seals, reports, judges, local gods, and procedures, developed through episode 136's Chinese ghost-and-deity map.
 - [Afterlife Moral Accounting](concepts/AfterlifeMoralAccounting.md) — Supernatural ledger of ordinary conduct, punishments, clean-official judgment, and social order in episode 136's hell stories.
 - [Local Deity Governance](concepts/LocalDeityGovernance.md) — Folk-religion pattern where local gods act as territorial administrators, moral record-keepers, arbitration authorities, and sometimes temple-governance resource centers.
