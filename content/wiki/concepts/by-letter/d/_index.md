@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6966
+wiki_total_pages: 6968
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -602,6 +602,9 @@ wiki_pages:
   - key: "DisasterExploitingConquestTiming"
     title: "Disaster-Exploiting Conquest Timing / 趁灾进攻时机"
     url: "/wiki/concepts/disasterexploitingconquesttiming/"
+  - key: "DisasterOmenTreasonAccusation"
+    title: "Disaster-Omen Treason Accusation / 灾异谋反指控"
+    url: "/wiki/concepts/disasteromentreasonaccusation/"
   - key: "DisciplinarySelfProtectionAfterHarm"
     title: "Disciplinary Self-Protection After Harm"
     url: "/wiki/concepts/disciplinaryselfprotectionafterharm/"

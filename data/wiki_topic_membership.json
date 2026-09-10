@@ -20210,6 +20210,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DisasterOmenTreasonAccusation": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "DisasterReliefCorruption": [
     {
       "key": "politics",
@@ -25390,6 +25397,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "FolkReligiousPanicTransmission": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "FolkTaleMysteryRewriting": [
     {
       "key": "culture",
@@ -26622,6 +26636,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FuShangWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "FuTaihouWesternHan": [
@@ -39553,6 +39574,13 @@
       "url": "/topics/science/"
     }
   ],
+  "LiuYeDongpingQueenWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "LiuYiSanlian": [
     {
       "key": "politics",
@@ -39575,6 +39603,13 @@
     }
   ],
   "LiuYingWangLinWife": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "LiuYunDongpingKingWesternHan": [
     {
       "key": "history",
       "label": "History",
@@ -62063,6 +62098,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "SunChongWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SunChuanfang": [

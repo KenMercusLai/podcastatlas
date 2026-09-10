@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》584丨西汉“瓠山立石谋反事件”始末](sources/zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo.md) — Late-Western-Han court-politics episode on Han Aidi's illness and ritual anxiety, the Hu Mountain standing-stone treason case against Dongping king Liu Yun, West Queen Mother token panic, and Zheng Chong's objection to Fu Shang's enfeoffment.
 - [《资治通鉴·汉纪》585丨他与他的爱情，可以多复杂？](sources/zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa.md) — Late-Western-Han court-politics episode on Han Aidi and Dong Xian's "断袖" origin layer, extreme favorite rewards, Dong-family advancement, Zheng Chong's fatal remonstrance risk, Zhao Chang's accusation, and Sun Bao's failed defense.
 - [《资治通鉴·汉纪》586丨为了爱情，古代皇帝有多冲动？](sources/zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs.md) — Late-Western-Han court-politics episode on Han Aidi fabricating Dong Xian's merit, Fu Jia's record-alteration proposal, Wang Jia and Jia Yan's procedural remonstrance, Dong Xian's Gaoan Hou enfeoffment, and Xi Fu Gong's feared accusation channel.
 - [《资治通鉴·汉纪》587丨谁会把武器当礼物送给爱人？](sources/zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t.md) — Late-Western-Han court-politics episode on Han Aidi giving Dong Xian armory weapons, Wu Jianglong's public-private fiscal remonstrance, Fu Taihou's underpriced official-slave purchase, and the punishment boundary around correction.
@@ -2153,6 +2154,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [东平王刘云 / Liu Yun, Dongping King (Western Han)](entities/LiuYunDongpingKingWesternHan.md) — Western Han royal kinsman whose worship of the Hu Mountain standing stone is prosecuted as treason under Han Aidi.
+- [东平王后刘烨 / Liu Ye, Dongping Queen (Western Han)](entities/LiuYeDongpingQueenWesternHan.md) — Dongping queen whose reported confession becomes decisive in Liu Yun's standing-stone treason case.
+- [傅商 / Fu Shang (Western Han)](entities/FuShangWesternHan.md) — Fu-family relative whose enfeoffment triggers Zheng Chong's omen-coded institutional remonstrance.
+- [孙宠 / Sun Chong (Western Han)](entities/SunChongWesternHan.md) — Chang'an co-accuser and reward beneficiary in the Dongping king Liu Yun case.
 - [Oded Rechavi](entities/OdedRechavi.md) — Scientist and Huberman Lab guest explaining RNA, worm acquired-trait inheritance evidence, and mammal/human caution boundaries.
 - [Kip Tindell](entities/KipTindell.md) — The Container Store co-founder and Advice Line guest emphasizing service-led retail, patience, humility, and capacity-matched growth.
 - [The Container Store](entities/TheContainerStore.md) — Specialty retailer used in Kip Tindell's Advice Line episode as a case for expert service, founder succession, and disciplined growth pace.
@@ -11735,6 +11740,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Disaster-Omen Treason Accusation / 灾异谋反指控](concepts/DisasterOmenTreasonAccusation.md) — Pattern where an anomalous sign becomes prosecutorial evidence against a politically sensitive target.
+- [Folk Religious Panic Transmission / 民间宗教恐慌传播](concepts/FolkReligiousPanicTransmission.md) — Spread of fear through sacred tokens, rumor, ritual movement, and coercive participation, opened through the West Queen Mother tally panic.
 - [外交成本风险核算 / Diplomatic Cost-Risk Accounting](concepts/DiplomaticCostRiskAccounting.md) — statecraft pattern where diplomatic spending is weighed against the larger trust, security, and war-risk costs created by cutting it.
 - [Acquired-Trait Inheritance Boundary](concepts/AcquiredTraitInheritanceBoundary.md) — Boundary separating ordinary genetic inheritance from learned memories, muscle gain, and other acquired states that usually do not become hereditary.
 - [Weismann Barrier](concepts/WeismannBarrier.md) — Soma-germline separation that usually prevents acquired body or brain information from entering descendants.

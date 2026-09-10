@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9578
+wiki_total_pages: 9582
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -818,9 +818,15 @@ wiki_pages:
   - key: "LadyDingCaoCao"
     title: "丁夫人 / Lady Ding (Cao Cao)"
     url: "/wiki/entities/ladydingcaocao/"
+  - key: "LiuYunDongpingKingWesternHan"
+    title: "东平王刘云 / Liu Yun, Dongping King (Western Han)"
+    url: "/wiki/entities/liuyundongpingkingwesternhan/"
   - key: "LiuCangDongpingKing"
     title: "东平王刘苍 / Liu Cang, Dongping King"
     url: "/wiki/entities/liucangdongpingking/"
+  - key: "LiuYeDongpingQueenWesternHan"
+    title: "东平王后刘烨 / Liu Ye, Dongping Queen (Western Han)"
+    url: "/wiki/entities/liuyedongpingqueenwesternhan/"
   - key: "LiuQiangDonghaiKing"
     title: "东海恭王刘强 / Liu Qiang, Donghai King"
     url: "/wiki/entities/liuqiangdonghaiking/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9578
+wiki_total_pages: 9582
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1775,6 +1775,9 @@ wiki_pages:
   - key: "SunBaoWesternHan"
     title: "孙宝 / Sun Bao (Western Han)"
     url: "/wiki/entities/sunbaowesternhan/"
+  - key: "SunChongWesternHan"
+    title: "孙宠 / Sun Chong (Western Han)"
+    url: "/wiki/entities/sunchongwesternhan/"
   - key: "SunShouLateHan"
     title: "孙寿 / Sun Shou (late Han)"
     url: "/wiki/entities/sunshoulatehan/"

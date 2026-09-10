@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6966
+wiki_total_pages: 6968
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "FolkReligionDisasterPolitics"
     title: "Folk Religion Disaster Politics"
     url: "/wiki/concepts/folkreligiondisasterpolitics/"
+  - key: "FolkReligiousPanicTransmission"
+    title: "Folk Religious Panic Transmission / 民间宗教恐慌传播"
+    url: "/wiki/concepts/folkreligiouspanictransmission/"
   - key: "FolkloreTraumaEncoding"
     title: "Folklore Trauma Encoding"
     url: "/wiki/concepts/folkloretraumaencoding/"
