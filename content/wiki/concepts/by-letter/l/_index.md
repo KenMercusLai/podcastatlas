@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 6930
+wiki_total_pages: 6931
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "LoyalRefusalLegitimacySignal"
     title: "忠臣拒降合法性信号 / Loyal Refusal Legitimacy Signal"
     url: "/wiki/concepts/loyalrefusallegitimacysignal/"
+  - key: "LawEnforcementAgainstElitePrivilege"
+    title: "执法碰撞权贵特权 / Law Enforcement Against Elite Privilege"
+    url: "/wiki/concepts/lawenforcementagainsteliteprivilege/"
   - key: "LiteraryTravelAsCareerStrategy"
     title: "文人漫游作为仕途策略 / Literary Travel As Career Strategy"
     url: "/wiki/concepts/literarytravelascareerstrategy/"

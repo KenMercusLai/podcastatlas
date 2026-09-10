@@ -7035,6 +7035,10 @@
     "title": "鲍信 / Bao Xin",
     "url": "/wiki/entities/baoxin/"
   },
+  "BaoXuanWesternHan": {
+    "title": "鲍宣 / Bao Xuan (Western Han)",
+    "url": "/wiki/entities/baoxuanwesternhan/"
+  },
   "BaoYanHuiwangShu": {
     "title": "《报燕惠王书》 / Letter in Reply to King Hui of Yan",
     "url": "/wiki/entities/baoyanhuiwangshu/"
@@ -16351,6 +16355,10 @@
     "title": "丁姬 / Ding Ji (Western Han)",
     "url": "/wiki/entities/dingjiwesternhan/"
   },
+  "DingMingWesternHan": {
+    "title": "丁明 / Ding Ming (Western Han)",
+    "url": "/wiki/entities/dingmingwesternhan/"
+  },
   "DingShumiao": {
     "title": "Ding Shumiao / 丁书苗",
     "url": "/wiki/entities/dingshumiao/"
@@ -22390,6 +22398,10 @@
   "FuGan": {
     "title": "傅干 / Fu Gan",
     "url": "/wiki/entities/fugan/"
+  },
+  "FuJiaWesternHan": {
+    "title": "傅嘉 / Fu Jia (Western Han)",
+    "url": "/wiki/entities/fujiawesternhan/"
   },
   "FuLongEasternHan": {
     "title": "伏隆 / Fu Long (Eastern Han)",
@@ -30359,6 +30371,10 @@
     "title": "贾诩 / Jia Xu",
     "url": "/wiki/entities/jiaxu/"
   },
+  "JiaYanWesternHan": {
+    "title": "贾延 / Jia Yan (Western Han)",
+    "url": "/wiki/entities/jiayanwesternhan/"
+  },
   "JiaYangqing": {
     "title": "Jia Yangqing / 贾扬清",
     "url": "/wiki/entities/jiayangqing/"
@@ -33198,6 +33214,10 @@
   "Lavod": {
     "title": "Lavod",
     "url": "/wiki/entities/lavod/"
+  },
+  "LawEnforcementAgainstElitePrivilege": {
+    "title": "执法碰撞权贵特权 / Law Enforcement Against Elite Privilege",
+    "url": "/wiki/concepts/lawenforcementagainsteliteprivilege/"
   },
   "LawEnforcementCultureAccountability": {
     "title": "Law Enforcement Culture Accountability",
@@ -71898,6 +71918,10 @@
   "zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d": {
     "title": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d/"
+  },
+  "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0": {
+    "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
   },
   "zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd": {
     "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",

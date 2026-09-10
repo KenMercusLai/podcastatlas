@@ -10021,6 +10021,13 @@
       "url": "/topics/history/"
     }
   ],
+  "BaoXuanWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "BaoYanHuiwangShu": [
     {
       "key": "history",
@@ -19953,6 +19960,13 @@
       "url": "/topics/history/"
     }
   ],
+  "DingMingWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "DingShumiao": [
     {
       "key": "economics",
@@ -26487,6 +26501,13 @@
     }
   ],
   "FuChen": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "FuJiaWesternHan": [
     {
       "key": "history",
       "label": "History",
@@ -35209,6 +35230,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "JiaYanWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "JiaYangqing": [
     {
       "key": "technology",
@@ -37915,6 +37943,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "LawEnforcementAgainstElitePrivilege": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "LawMoralityBoundary": [

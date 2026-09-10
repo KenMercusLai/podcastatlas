@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9547
+wiki_total_pages: 9551
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "DingWenjiang"
     title: "丁文江"
     url: "/wiki/entities/dingwenjiang/"
+  - key: "DingMingWesternHan"
+    title: "丁明 / Ding Ming (Western Han)"
+    url: "/wiki/entities/dingmingwesternhan/"
   - key: "DingxiangDoctor"
     title: "丁香医生"
     url: "/wiki/entities/dingxiangdoctor/"

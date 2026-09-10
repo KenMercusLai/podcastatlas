@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1679
+topic_total_pages: 1684
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1408,6 +1408,9 @@ topic_concepts:
   - key: "BattlefieldVictoryToFoundingOrder"
     title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
     url: "/wiki/concepts/battlefieldvictorytofoundingorder/"
+  - key: "LawEnforcementAgainstElitePrivilege"
+    title: "执法碰撞权贵特权 / Law Enforcement Against Elite Privilege"
+    url: "/wiki/concepts/lawenforcementagainsteliteprivilege/"
   - key: "HistoricalComplexityAgainstLabels"
     title: "拒绝历史人物标签 / Historical Complexity Against Labels"
     url: "/wiki/concepts/historicalcomplexityagainstlabels/"
@@ -2081,6 +2084,9 @@ topic_entities:
   - key: "DingJiWesternHan"
     title: "丁姬 / Ding Ji (Western Han)"
     url: "/wiki/entities/dingjiwesternhan/"
+  - key: "DingMingWesternHan"
+    title: "丁明 / Ding Ming (Western Han)"
+    url: "/wiki/entities/dingmingwesternhan/"
   - key: "ThreeKingdomsPeriod"
     title: "三国时代 / Three Kingdoms Period"
     url: "/wiki/entities/threekingdomsperiod/"
@@ -2222,6 +2228,9 @@ topic_entities:
   - key: "FuXiWesternHan"
     title: "傅喜 / Fu Xi (Western Han)"
     url: "/wiki/entities/fuxiwesternhan/"
+  - key: "FuJiaWesternHan"
+    title: "傅嘉 / Fu Jia (Western Han)"
+    url: "/wiki/entities/fujiawesternhan/"
   - key: "FuTaihouWesternHan"
     title: "傅太后 / Fu Taihou (Western Han)"
     url: "/wiki/entities/futaihouwesternhan/"
@@ -3506,6 +3515,9 @@ topic_entities:
   - key: "FushuCity"
     title: "负黍 / Fushu"
     url: "/wiki/entities/fushucity/"
+  - key: "JiaYanWesternHan"
+    title: "贾延 / Jia Yan (Western Han)"
+    url: "/wiki/entities/jiayanwesternhan/"
   - key: "JiaYi"
     title: "贾谊 / Jia Yi"
     url: "/wiki/entities/jiayi/"
@@ -3947,6 +3959,9 @@ topic_entities:
   - key: "LuMugong"
     title: "鲁穆公 / Duke Mu of Lu"
     url: "/wiki/entities/lumugong/"
+  - key: "BaoXuanWesternHan"
+    title: "鲍宣 / Bao Xuan (Western Han)"
+    url: "/wiki/entities/baoxuanwesternhan/"
   - key: "HonggouSettlement"
     title: "鸿沟议和 / Honggou Settlement"
     url: "/wiki/entities/honggousettlement/"

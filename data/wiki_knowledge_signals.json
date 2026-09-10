@@ -8247,6 +8247,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/baosi/"
     },
+    "BaoXuanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/baoxuanwesternhan/"
+    },
     "BaoYongEasternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -16982,9 +16998,9 @@
       "url": "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
     },
     "CourtSummonsAsDeathSentence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？ [luOF_1bXoMTCSRKcvmUPLPuGAw4D].md",
@@ -16992,6 +17008,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
         }
       ],
       "updated": "2026-09-10",
@@ -20407,6 +20430,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/dingjiwesternhan/"
     },
+    "DingMingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/dingmingwesternhan/"
+    },
     "DingdongMaicai": {
       "episode_count": 2,
       "show_count": 1,
@@ -20987,9 +21026,9 @@
       "url": "/wiki/entities/dongxilatehan/"
     },
     "DongXian": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -21032,6 +21071,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》597丨太皇太后王政君的诏令，为何被拒收？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
         }
       ],
       "updated": "2026-09-10",
@@ -31158,6 +31204,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/fugan/"
     },
+    "FuJiaWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/fujiawesternhan/"
+    },
     "FuLongEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -35552,9 +35614,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanAidi": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 2,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -35597,6 +35659,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》597丨太皇太后王政君的诏令，为何被拒收？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
         }
       ],
       "updated": "2026-09-10",
@@ -36477,9 +36546,9 @@
       "url": "/wiki/entities/hesongeasternhan/"
     },
     "HeWuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？ [ltwscYyiOBC1ocVGTI3Fd-deAJrU].md",
@@ -36487,6 +36556,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
         }
       ],
       "updated": "2026-09-10",
@@ -42914,6 +42990,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jiaxu/"
     },
+    "JiaYanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/jiayanwesternhan/"
+    },
     "JianLangEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -44777,9 +44869,9 @@
       "url": "/wiki/entities/kongfeneasternhan/"
     },
     "KongGuangWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
@@ -44815,6 +44907,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
         }
       ],
       "updated": "2026-09-10",
@@ -45854,6 +45953,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/latentrivalrecognition/"
+    },
+    "LawEnforcementAgainstElitePrivilege": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/lawenforcementagainsteliteprivilege/"
     },
     "LayneNorton": {
       "episode_count": 1,
@@ -62231,9 +62346,9 @@
       "url": "/wiki/entities/pengleihuawei/"
     },
     "PengXuanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
@@ -62241,6 +62356,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
         }
       ],
       "updated": "2026-09-10",
@@ -84905,9 +85027,9 @@
       "url": "/wiki/entities/wangjiashuscholar/"
     },
     "WangJiaWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？ [luOF_1bXoMTCSRKcvmUPLPuGAw4D].md",
@@ -84922,6 +85044,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》597丨太皇太后王政君的诏令，为何被拒收？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？ [lpPTx-fZLS9xBaKW52B8N1N6xow0].md",
+          "key": "zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
         }
       ],
       "updated": "2026-09-10",

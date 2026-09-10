@@ -6,18 +6,23 @@ tags: [history, china, western-han, court-politics, remonstrance]
 sources:
   - zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d
   - zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy
+  - zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0
 last_updated: 2026-09-10
 ---
 
 ## Overview
 
-王嘉 / Wang Jia is synthesized as a late [[WesternHanDynasty|Western Han]] chancellor whose case shows how direct court correction could become lethal under [[HanAidi|汉哀帝]]. [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] presents him as a senior official trying to preserve capable ministers after the [[LiangXiangWesternHan|梁相]] review dispute, then as a target once Aidi links that recommendation to his anger over [[DongXian|董贤]].
+王嘉 / Wang Jia is synthesized as a late [[WesternHanDynasty|Western Han]] chancellor whose case shows how direct court correction could become lethal under [[HanAidi|汉哀帝]]. [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] completes the arc begun in Hanji 597 and [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]]: Wang Jia does not disappear through private suicide, but lives long enough to answer the Tingwei case, defend [[LiangXiangWesternHan|梁相]]'s group, accuse [[DongXian|董贤]]'s father-son network, and die in prison.
 
 ## Current Profile
 
 Wang Jia's profile is built around high-risk remonstrance inside a suspicious court. Hanji 597 supplies the first current layer: when Aidi uses a claimed Fu Taihou instruction to increase Dong Xian's fief and supply several marquises with fiefs, Wang Jia reseals and returns the edict. His memorial argues that rank, salary, and land are Heaven-linked public instruments, not private rewards for a favorite; he also links Dong Xian's overfavor to public resentment, disasters, Aidi's illness, and the lack of an heir.
 
 Hanji 598 then shows the danger after Wang Jia's refusal to accommodate the Dong Xian favor package. After Liang Xiang is removed for asking to reexamine the Dongping king Liu Yun case, Wang Jia recommends Liang's group again and argues that the ruler should remember service and ability rather than only past fault. Aidi does not attack only the fief-edict incident; he reopens the older Liang Xiang recommendation and asks why Wang Jia first joined criticism and later praised the same officials. When [[KongGuangWesternHan|孔光]] and others recommend sending Wang Jia to the Tingwei prison, Wang Jia's staff understands the summons as an expected suicide signal. Wang Jia refuses poison, breaks the cup, dresses formally, receives the edict, and submits to custody.
+
+Hanji 599 makes the refusal consequential. Aidi is angry because Wang Jia has arrived alive, and the interrogation treats guilt as already assumed. Wang Jia nevertheless argues that Liang Xiang's group sought fuller court review of Liu Yun's case rather than rebellion or attachment to Liu Yun. In prison he says he failed in two directions: he did not restore Kong Guang and [[HeWuWesternHan|何武]] to useful office, and he did not remove Dong Xian's disruptive father-son network. He dies after more than twenty days in prison, and his final words are sent to Aidi.
+
+The outcome is partial and unstable correction. Aidi restores Kong Guang and He Wu and removes [[FuJiaWesternHan|傅嘉]], but he also removes [[DingMingWesternHan|丁明]] for grieving Wang Jia and soon turns again toward Dong Xian. Wang Jia's case therefore does not show successful reform; it shows a remonstrant forcing a momentary personnel reckoning without breaking the favorite-driven court pattern.
 
 ## Key Characteristics
 
@@ -26,7 +31,8 @@ Hanji 598 then shows the danger after Wang Jia's refusal to accommodate the Dong
 - Senior official who tries to re-legitimate Liang Xiang's group after their dismissal.
 - Remonstrant whose talent-preservation argument is interpreted as imperial defiance.
 - Official whose Dong Xian-related resistance becomes part of Aidi's anger.
-- Target of a Tingwei summons understood by his household as a death signal.
+- Target of a Tingwei summons understood by his household as a death signal, who refuses private suicide and faces interrogation alive.
+- Prison remonstrant whose final personnel judgment produces partial but unstable correction after his death.
 
 ## Evidence
 
@@ -38,15 +44,20 @@ Hanji 598 then shows the danger after Wang Jia's refusal to accommodate the Dong
 - Dong Xian trigger: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says the confrontation follows Wang Jia's handling of an edict increasing Dong Xian's fief.
 - Tingwei death signal: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Wang Jia's officials prepare poison when the Tingwei summons arrives.
 - Refusal of suicide script: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Wang Jia breaks the poison cup and says he should die publicly if death is required.
+- Live interrogation: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Wang Jia angers Aidi by reaching the Tingwei alive and is interrogated by senior officials.
+- Liang Xiang defense: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Wang Jia denies seeing proof that Liang Xiang's group rebelled or attached themselves to Liu Yun.
+- Prison accusation: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Wang Jia identifies Kong Guang and He Wu as worthy men and Dong Xian's family as court-disordering actors.
+- Death and effect: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Wang Jia dies after more than twenty days in prison and that Aidi later restores Kong Guang and He Wu while dismissing Fu Jia.
 
 ## Qualifications
 
-The current wiki evidence is source-scoped to Hanji 597 and Hanji 598. The page still does not cover Wang Jia's full career, the later outcome after his arrest, or the full legal record behind Aidi's accusation. Hanji 597 frames the edict return through Wang Jia's own memorial logic, so the authenticity of Fu Taihou's instruction, the complete reward procedure, and Wang Jia's inner motive remain source-scoped. Hanji 598 frames Wang Jia sympathetically, but his prior participation in criticizing Liang Xiang's group remains a qualification on any simple loyal-versus-disloyal reading.
+The current wiki evidence is source-scoped to Hanji 597, Hanji 598, and Hanji 599. The page still does not cover Wang Jia's full earlier career or the full legal record behind Aidi's accusation. Hanji 597 frames the edict return through Wang Jia's own memorial logic, so the authenticity of Fu Taihou's instruction, the complete reward procedure, and Wang Jia's inner motive remain source-scoped. Hanji 598 and Hanji 599 frame Wang Jia sympathetically, but his prior participation in criticizing Liang Xiang's group and his final praise of Kong Guang, later qualified by the Bao Xuan case, prevent a simple loyal-versus-disloyal or worthy-versus-unworthy reading.
 
 ## What Changed
 
 - Added Hanji 597 as the missing first confrontation: Wang Jia's sealed return of the Dong Xian reward edict and his rank-land-Heaven remonstrance.
 - Preserved Hanji 598 as the escalation from edict refusal and talent-preservation advice into Tingwei danger.
+- Added Hanji 599 as the completion of the arrest arc: live interrogation, prison accusation, death, and partial personnel correction.
 
 ## Relationships
 
@@ -55,6 +66,9 @@ The current wiki evidence is source-scoped to Hanji 597 and Hanji 598. The page 
 - [[DongXian|董贤]] - favorite whose fief-enlargement issue helps expose Wang Jia.
 - [[FuTaihouWesternHan|傅太后]] - deceased empress dowager whose claimed instruction supplies the formal reward channel Wang Jia rejects.
 - [[KongGuangWesternHan|孔光]] - senior official who supports sending Wang Jia to Tingwei in this source.
+- [[HeWuWesternHan|何武]] - official Wang Jia names as a worthy figure who should have been restored.
+- [[FuJiaWesternHan|傅嘉]] - dismissed after Wang Jia's death as one source of false accusations against worthy officials.
+- [[DingMingWesternHan|丁明]] - official punished for grieving Wang Jia.
 - [[CourtSummonsAsDeathSentence|廷尉传召即赴死]] - court norm Wang Jia refuses to obey privately.
 - [[DirectRemonstranceCriminalization|直谏入罪]] - broader pattern his case extends.
 - [[WesternHanDynasty|西汉]] - dynastic setting.

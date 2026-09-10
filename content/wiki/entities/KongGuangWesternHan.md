@@ -9,16 +9,19 @@ sources:
   - zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd
   - zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st
   - zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d
+  - zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0
 last_updated: 2026-09-10
 ---
 
 ## Overview
 
-孔光 / Kong Guang is synthesized as a Western Han senior official whose late-career posture shows formal authority repeatedly serving harder power. Hanji 598 adds the pre-Wang-Mang layer: Kong Guang appears among officials who support sending [[WangJiaWesternHan|王嘉]] to Tingwei custody under [[HanAidi|汉哀帝]]. Later sources show Wang Mang cultivating and using Kong Guang's prestige as an accusation channel before Kong Guang tries to withdraw.
+孔光 / Kong Guang is synthesized as a Western Han senior official whose late-career posture shows formal authority repeatedly serving harder power and whose "worthy official" image is qualified by elite retaliation. Hanji 598 adds the pre-Wang-Mang layer: Kong Guang appears among officials who support sending [[WangJiaWesternHan|王嘉]] to Tingwei custody under [[HanAidi|汉哀帝]]. Hanji 599 shows Aidi restoring Kong Guang after Wang Jia's death, but also portrays Kong Guang as implicated in the punishment of [[BaoXuanWesternHan|鲍宣]] after Bao enforces road rules against his entourage.
 
 ## Current Profile
 
 Hanji 598 places Kong Guang inside Aidi's punitive court before Wang Mang's return. In the Wang Jia case, Kong Guang and others judge Wang Jia's inconsistent handling of the Liang Xiang matter as grave enough to send him to Tingwei prison. The episode treats that recommendation as practically near-lethal because a senior minister summoned to Tingwei is expected to self-kill.
+
+Hanji 599 gives Kong Guang two opposed meanings. Wang Jia names him as a worthy former chancellor whom he failed to restore, and Aidi responds by appointing Kong Guang Yushi Dafu, then chancellor, while restoring his Bo Shan Hou status. The same episode then undercuts a simple virtuous reading: when Bao Xuan arrests Kong Guang's entourage for using the emperor's central roadway, Bao is later punished for humiliating the chancellor and violating etiquette.
 
 Hanji 605 and Hanji 606 give Kong Guang a later and more compromised role. Wang Mang honors him publicly, promotes Kong Guang's son-in-law [[ZhenHanXinOfficial|甄邯]], and uses Zhen Han to pass drafted impeachment material. Kong Guang then becomes the formal channel against [[WangLiWesternHan|王立]], allowing Wang Mang to remove an uncle without direct self-exposure.
 
@@ -27,16 +30,18 @@ Hanji 621 says Kong Guang later has already tried unsuccessfully to resign, and 
 ## Key Characteristics
 
 - Western Han senior official active across the Aidi-to-Wang-Mang transition.
-- Earlier participant in the recommendation that sends Wang Jia toward Tingwei custody.
+- Earlier participant in Wang Jia's Tingwei transfer, then restored after Wang Jia's death as Yushi Dafu and chancellor.
+- "Worthy official" whose later treatment of Bao Xuan qualifies that label.
 - Reputation-bearing senior official whose name can legitimate Wang Mang's drafted accusations.
 - Formal impeachment proxy used in Wang Mang's removal of Wang Li.
-- Senior official who becomes aware that continued service means instrumentalization by Wang Mang.
-- Senior official whose illness-based withdrawal reflects fear under Wang Mang's praise-heavy power environment.
+- Senior official whose awareness of instrumentalization later becomes illness-based fearful withdrawal.
 - Receives unusually grand funeral treatment after death.
 
 ## Evidence
 
 - Wang Jia case: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Kong Guang and others recommend sending Wang Jia to the Tingwei prison.
+- Restoration: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Wang Jia names Kong Guang as a worthy official and Aidi later appoints Kong Guang Yushi Dafu, then chancellor.
+- Bao Xuan qualification: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Bao Xuan is punished after enforcing roadway rules against Kong Guang's entourage.
 - Prestige channel: [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]] says Wang Mang treats Kong Guang with conspicuous respect because Kong has senior Confucian prestige and public trust.
 - Drafted accusation channel: [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]] says Wang Mang writes impeachment drafts, has Zhen Han deliver them to Kong Guang, and hints that they reflect dowager intent.
 - Impeachment proxy: [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]] says Kong Guang impeaches Wang Li before Wang Mang personally reframes the matter to Wang Zhengjun.
@@ -46,16 +51,18 @@ Hanji 621 says Kong Guang later has already tried unsuccessfully to resign, and 
 
 ## Qualifications
 
-The sources do not provide Kong Guang's full earlier career or a direct statement of his private motives. Hanji 598 supports his role in Wang Jia's Tingwei transfer but not his full reasoning. Hanji 605 supports the drafted-accusation channel and Zhen Han's intermediary role, but Kong Guang's degree of awareness in each case remains source-scoped. Hanji 606 supports his Wang Li impeachment role and the episode's puppet-like interpretation. Hanji 621 supports fear, illness-based withdrawal, and reduced attendance. Hanji 624 supports death, funeral scale, and succession by Ma Gong.
+The sources do not provide Kong Guang's full earlier career or a direct statement of his private motives. Hanji 598 supports his role in Wang Jia's Tingwei transfer but not his full reasoning. Hanji 599 supports both his restoration and the Bao Xuan qualification, but the legal details of Bao Xuan's punishment and Kong Guang's exact role remain source-scoped. Hanji 605 supports the drafted-accusation channel and Zhen Han's intermediary role, but Kong Guang's degree of awareness in each case remains source-scoped. Hanji 606 supports his Wang Li impeachment role and the episode's puppet-like interpretation. Hanji 621 supports fear, illness-based withdrawal, and reduced attendance. Hanji 624 supports death, funeral scale, and succession by Ma Gong.
 
 ## What Changed
 
 - Added Hanji 598 as the earlier Aidi-court layer before Kong Guang's Wang Mang-era proxy roles.
+- Added Hanji 599's restoration and Bao Xuan countercase, qualifying Kong Guang's "worthy" label.
 - Reframed Kong Guang as a senior formal authority repeatedly enlisted by harder political actors.
 
 ## Relationships
 
 - [[WangJiaWesternHan|王嘉]] - earlier target whom Kong Guang helps send toward Tingwei custody.
+- [[BaoXuanWesternHan|鲍宣]] - law-enforcing official punished after acting against Kong Guang's entourage.
 - [[HanAidi|汉哀帝]] - ruler in the Wang Jia case.
 - [[MaGongWesternHan|马公]] - successor to Kong Guang as Taishi.
 - [[HanPingdi|汉平帝]] - reigning emperor during Kong Guang's death notice.
