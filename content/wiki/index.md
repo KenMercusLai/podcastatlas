@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？](sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut.md) — 1 BCE Wang Mang backfill on Wang Li's indirect removal through Kong Guang, Wang Zhengjun's coerced public-order approval, persona-protected purge procedure, Zhao/Fu empress deaths, Peng Xuan's retreat, and Kong Guang's puppet-risk awareness.
 - [《资治通鉴·汉纪》608丨揭秘西汉奥斯卡最佳“演员”：王莽](sources/zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk.md) — 1 CE Wang Mang reward-refusal loop where staged humility, illness, ministerial pressure, Wang Zhengjun's endorsement, and welfare language turn nonacceptance into Taifu/Anhan Gong status inflation.
 - [《资治通鉴·汉纪》607丨揭秘王莽的权力博弈](sources/zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78.md) — 1 CE Wang Mang-era backfill on Han Pingdi's child accession, Wang Zhengjun's regency, emperor-household control, staged Yuechang white-pheasant tribute, Zhougong precedent, and Anhan Gong title expansion.
 - [《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争](sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq.md) — 1-2 CE Wang Mang-era backfill on Shentu Gang's outer-relative safeguard memorial, punishment of unscripted candor, Confucian honors, female-prisoner release, agricultural exhortation, and Huangzhi rhinoceros tribute theater.
@@ -2127,6 +2128,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [严徐 / Yan Xu (Western Han)](entities/YanXuWesternHan.md) — Western Han Yingchuan governor used by Hanji 619 to explain the "父母官" ideal through filial reputation, restraint, and grief for local people's safety.
 - [何病 / He Bing (Western Han)](entities/HeBingWesternHan.md) — Western Han official whose harsh succession after Yan Xu in Yingchuan serves as Hanji 619's contrast case for local governance as protection or fear.
 - [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
+- [彭宣 / Peng Xuan (Western Han)](entities/PengXuanWesternHan.md) — Western Han Da Sikong whose illness-framed resignation under Wang Mang shows timely retreat and symbolic punishment through withheld retirement gifts.
 - [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han Taishi whose fearful withdrawal under Wang Mang's praise atmosphere precedes his 5 CE death and Ma Gong's appointment.
 - [曾涵 / Zeng Han, Xin-aligned official](entities/ZengHanXinOfficial.md) — Right general who reports Wang Mang's refusal language to Wang Zhengjun before the Nine Bestowments order.
 - [Han Shu / 《汉书》](entities/HanShu.md) — Source-criticism node for Hanji 627-1's comparison of illness-centered Pingdi death records with the Zizhi Tongjian poisoning narrative.
@@ -8356,6 +8358,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《中国龙的发明：近现代中国形象的域外变迁》](entities/TheInventionOfChineseDragon.md) — Shi Aidong book recommended by episode 127 for the modern invention and image circulation of the Chinese dragon.
 - [闻一多 / Wen Yiduo](entities/WenYiduo.md) — Scholar whose dragon-totem argument gives episode 127 a key case of nationalist scholarship under modern pressure.
 - [《龙的传人》 / Descendants of the Dragon](entities/DescendantsOfTheDragon.md) — Popular song and phrase that helped fix "dragon = China" and "Chinese people = dragon descendants" as ordinary identity language.
+- [王立 / Wang Li (Western Han)](entities/WangLiWesternHan.md) — Western Han Hongyang Hou and Wang Zhengjun's brother whose dowager access makes him an early obstacle Wang Mang removes through proxy impeachment.
 - [Wang Mang / 王莽](entities/WangMang.md) — Xin founder whose rise through imperial marriage, bride-price redistribution, adoptive-lineage doctrine, petition-backed status inflation, sacred legitimacy, moral reputation, rebel-suppression terror, omen politics, and reform overcontrol collapses through rumor suppression, scapegoating, bureaucratic paralysis, spectacle, extraction, frontier overreach, ignored warnings, Kunyang, and Jian Terrace killing.
 - [刘快 / Liu Kuai (Xin rebel)](entities/LiuKuaiXinRebel.md) — Liu-line Quxiang marquis whose failed 9 CE rising against Wang Mang tests early Xin local control.
 - [刘音 / Liu Yin (Fuchong Duke)](entities/LiuYinFuchongDuke.md) — Former Jiaodong king and Fuchong Duke whose refusal to join Liu Kuai shows compliant Liu-kin survival under early Xin.
@@ -11658,6 +11661,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Emotional Stability As Social Norm / 情绪稳定作为社会规范](concepts/EmotionalStabilityAsSocialNorm.md) — separating adult composure, inner emotional fluctuation, scene discipline, and social pressure.
 - [Happiness-Based De-escalation / 幸福者退让原则](concepts/HappinessBasedDeescalation.md) — conflict-retreat frame that treats yielding as preserving one's own state while remaining morally contested.
 - [Public Expression Against Trolls / 面对喷子的公共表达](concepts/PublicExpressionAgainstTrolls.md) — continuing to speak in hostile online spaces so loud antagonistic voices do not define perceived mainstream opinion.
+- [Persona-Shielded Political Purge / 人设护盾式政治清除](concepts/PersonaShieldedPoliticalPurge.md) — Pattern where a dominant actor removes an obstacle through proxy accusation, public-order language, and staged restraint to preserve moral persona.
 - [帝王停灵防腐 / Imperial Funerary Preservation](concepts/ImperialFuneraryPreservation.md) — Ritual-and-material pattern where extended imperial停灵 requires washing, disinfection, fragrant bathing, aromatics, drying agents, grave goods, and coffin sealing before burial.
 - [强制边疆震慑 / Coercive Frontier Deterrence](concepts/CoerciveFrontierDeterrence.md) — Frontier-control pattern where extradition, public execution before dependent rulers, and anti-harboring rules convert a flight case into deterrence with trust costs.
 - [经典据依式改名治理 / Classics-Based Naming Governance](concepts/ClassicsBasedNamingGovernance.md) — Hanji 614 concept for turning classical claims about proper names into compulsory naming policy and diplomatic submission theater.

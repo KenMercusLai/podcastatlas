@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？
+
+Added source note for the 1 BCE Wang Mang obstacle-clearing episode. Key claims: Wang Li's family access to Wang Zhengjun made him dangerous despite lack of office; Kong Guang supplied the impeachment channel; Wang Mang converted kinship removal into public-order rhetoric; Peng Xuan retreated by resignation and was denied normal honors; and Kong Guang's later danger is foreshadowed by his role as Wang Mang's instrument.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》607丨揭秘王莽的权力博弈
 
 Ingested the 2026-05-28 芮淇讲透资治通鉴 episode backfilling 1 CE Wang Mang regency politics through Han Pingdi's child accession, Wang Zhengjun's formal regency, Wang Mang's control of court affairs and emperor-household appointments, Han Aidi's burial, and the staged Yuechang white-pheasant tribute. Added source `zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78`; updated `WangMang`, `WangZhengjun`, `HanPingdi`, `ZhouGong`, `AuspiciousOmenPolitics`, and `ClassicCitationLegitimationCapture`. No settled contradiction found; unnamed senior official identity, Yuechang geography, local instruction mechanics, ministerial coordination, and Wang Mang's inner motive remain source-scoped.
@@ -16906,6 +16910,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》612丨揭秘古代“营销大咖”：王莽！
 
 Added source note for the 2 CE Wang Mang disaster-relief and image-management episode. Key claims: drought and locust displacement become a stage for imperial austerity, Wang Mang's donation and elite emulation, refugee housing, auspicious recovery reports, publicized vegetarian restraint, honorable handling of Gong Sheng and Bing Han's resignation requests, and bandit resettlement.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

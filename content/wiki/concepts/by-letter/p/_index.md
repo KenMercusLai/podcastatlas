@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6908
+wiki_total_pages: 6909
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "PersonDependentGovernanceFragility"
     title: "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性"
     url: "/wiki/concepts/persondependentgovernancefragility/"
+  - key: "PersonaShieldedPoliticalPurge"
+    title: "Persona-Shielded Political Purge / 人设护盾式政治清除"
+    url: "/wiki/concepts/personashieldedpoliticalpurge/"
   - key: "PersonalAIMemory"
     title: "Personal AI Memory"
     url: "/wiki/concepts/personalaimemory/"

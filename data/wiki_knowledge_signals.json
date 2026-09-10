@@ -44381,10 +44381,17 @@
       "url": "/wiki/entities/kongfeneasternhan/"
     },
     "KongGuangWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
+          "key": "zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》621丨帝王心术：攻心最重要！ [lgO01RnXbY9YnyyzANljhtRawjcK].md",
           "key": "zizhi-tongjian-hanji-621-diwang-xinshu-gongxin-zui-zhongyao-lgo01rnxby9ynyyzanljhtrawjck",
@@ -61604,6 +61611,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/pengleihuawei/"
     },
+    "PengXuanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
+          "key": "zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/pengxuanwesternhan/"
+    },
     "Pennsylvania": {
       "episode_count": 1,
       "show_count": 1,
@@ -61938,6 +61961,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/persistentcloudagents/"
+    },
+    "PersonaShieldedPoliticalPurge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
+          "key": "zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/personashieldedpoliticalpurge/"
     },
     "PersonalGuardAttackSurface": {
       "episode_count": 3,
@@ -84227,6 +84266,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/wanglanghebeiclaimant/"
+    },
+    "WangLiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
+          "key": "zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/wangliwesternhan/"
     },
     "WangLiangEasternHan": {
       "episode_count": 3,

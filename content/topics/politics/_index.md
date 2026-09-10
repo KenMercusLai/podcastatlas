@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2307
+topic_total_pages: 2308
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2194,6 +2194,9 @@ topic_concepts:
   - key: "PersonDependentGovernanceFragility"
     title: "Person-Dependent Governance Fragility / 人亡政息式治理脆弱性"
     url: "/wiki/concepts/persondependentgovernancefragility/"
+  - key: "PersonaShieldedPoliticalPurge"
+    title: "Persona-Shielded Political Purge / 人设护盾式政治清除"
+    url: "/wiki/concepts/personashieldedpoliticalpurge/"
   - key: "PersonalRevengeThroughStatePower"
     title: "Personal Revenge Through State Power / 以国力行私仇"
     url: "/wiki/concepts/personalrevengethroughstatepower/"

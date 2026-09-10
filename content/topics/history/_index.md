@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1663
+topic_total_pages: 1665
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2717,6 +2717,9 @@ topic_entities:
   - key: "PengchengBattle"
     title: "彭城之战 / Battle of Pengcheng"
     url: "/wiki/entities/pengchengbattle/"
+  - key: "PengXuanWesternHan"
+    title: "彭宣 / Peng Xuan (Western Han)"
+    url: "/wiki/entities/pengxuanwesternhan/"
   - key: "PengYue"
     title: "彭越 / Peng Yue"
     url: "/wiki/entities/pengyue/"
@@ -3101,6 +3104,9 @@ topic_entities:
   - key: "WangJiQin"
     title: "王稽 / Wang Ji (Qin envoy)"
     url: "/wiki/entities/wangjiqin/"
+  - key: "WangLiWesternHan"
+    title: "王立 / Wang Li (Western Han)"
+    url: "/wiki/entities/wangliwesternhan/"
   - key: "WangChuo"
     title: "王绰 / Wang Chuo"
     url: "/wiki/entities/wangchuo/"
