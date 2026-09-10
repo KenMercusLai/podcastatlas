@@ -16737,6 +16737,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？
+
+Added source note for the late-Western-Han Wang Jia and Liang Xiang court-politics episode. Key claims: Liang Xiang's request to review the Liu Yun case is read by Han Aidi as disloyal delay; Wang Jia's later recommendation of Liang's group and Dong Xian-related resistance expose him to old-case retaliation; Kong Guang supports sending Wang Jia to Tingwei; and Wang Jia refuses the expected poison-suicide script, creating the new CourtSummonsAsDeathSentence concept.
+
 ## [2026-09-10] ingest | No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？
 
 Added source note for the 三五环 interview with RayNeo CEO Li Hongwei on AI glasses as real-world augmentation, first-person Live Log memory, tiered on-device sensing, optical-display friction, staged X/V/R/GT product lines, and a source-scoped 2027 "iPhone moment" platform forecast. Added RayNeo, LiHongwei, AI-glasses platform, first-person memory, tiered sensing, wearable optical display, AR, VR, MR, and spatial-computing pages; updated AIGlassesProductFit and ConsumerAIHardwareProductFit.
@@ -17004,6 +17008,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

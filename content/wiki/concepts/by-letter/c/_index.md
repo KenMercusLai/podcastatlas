@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 6929
+wiki_total_pages: 6930
 wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
@@ -2135,6 +2135,9 @@ wiki_pages:
   - key: "ClothCladAngerPersuasion"
     title: "布衣之怒 / Cloth-Clad Anger Persuasion"
     url: "/wiki/concepts/clothcladangerpersuasion/"
+  - key: "CourtSummonsAsDeathSentence"
+    title: "廷尉传召即赴死 / Court Summons as Death Sentence"
+    url: "/wiki/concepts/courtsummonsasdeathsentence/"
   - key: "CoerciveFrontierDeterrence"
     title: "强制边疆震慑 / Coercive Frontier Deterrence"
     url: "/wiki/concepts/coercivefrontierdeterrence/"

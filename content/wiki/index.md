@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？](sources/zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d.md) — Late-Western-Han court-politics episode on Liang Xiang's contested case review, Han Aidi's suspicion, Wang Jia's Dong Xian-linked exposure, Kong Guang's Tingwei recommendation, and Wang Jia's refusal of the expected poison-suicide script.
 - [《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？](sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd.md) — 芮淇讲透资治通鉴 short episode on Bao Si's dragon-saliva birth legend, the beacon-fire story, the "四大妖姬" blame frame, and the need to treat her supernatural biography as mythic reception rather than firm history.
 - [《资治通鉴·汉纪》602丨探寻国学智慧，破解2024年犯太岁之谜](sources/zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj.md) — Yuanshou 2 / 1 BCE Han Aidi episode on a Xiongnu chanyu visit, Dong Xian's court visibility, Tai Sui lodging avoidance, 2024 犯太岁 folk practice, and the turn from external remedies toward low-profile self-command.
 - [《资治通鉴·汉纪》603丨哀帝死后，王莽如何秒速夺权？](sources/zizhi-tongjian-hanji-603-aidi-sihou-wangmang-ruhe-miaosu-duoquan-lvp-ywlvxiwrqdoj-4b-sx9486ol.md) — Yuanshou 2 / 1 BCE succession-shock episode on Han Aidi's death, Wang Zhengjun's seal and command-channel seizure, Dong Xian's incapacity, and Wang Mang's rapid removal of Dong Xian as the entry point to regained power.
@@ -2143,7 +2144,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [何病 / He Bing (Western Han)](entities/HeBingWesternHan.md) — Western Han official whose harsh succession after Yan Xu in Yingchuan serves as Hanji 619's contrast case for local governance as protection or fear.
 - [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
 - [彭宣 / Peng Xuan (Western Han)](entities/PengXuanWesternHan.md) — Western Han Da Sikong whose illness-framed resignation under Wang Mang shows timely retreat and symbolic punishment through withheld retirement gifts.
-- [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han Taishi whose prestige is used as Wang Mang's accusation channel before fearful withdrawal, 5 CE death, and Ma Gong's appointment.
+- [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han senior official whose formal authority spans Wang Jia's Tingwei transfer, Wang Mang's accusation channels, fearful withdrawal, and 5 CE death.
+- [王嘉 / Wang Jia (Western Han)](entities/WangJiaWesternHan.md) — Late Western Han chancellor whose Liang Xiang recommendation and Dong Xian-related resistance lead to a Tingwei summons and refusal of poison-suicide.
+- [梁相 / Liang Xiang (Western Han)](entities/LiangXiangWesternHan.md) — Western Han Tingwei whose procedural request to review the Liu Yun rebellion case becomes suspect delay under Han Aidi.
 - [曾涵 / Zeng Han, Xin-aligned official](entities/ZengHanXinOfficial.md) — Right general who reports Wang Mang's refusal language to Wang Zhengjun before the Nine Bestowments order.
 - [Han Shu / 《汉书》](entities/HanShu.md) — Source-criticism node for Hanji 627-1's comparison of illness-centered Pingdi death records with the Zizhi Tongjian poisoning narrative.
 - [Ziwudao / 子午道](entities/Ziwudao.md) — Western Han route whose 5 CE opening is framed by Wang Mang through Empress Wang's "子孙瑞."
@@ -8395,7 +8398,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's mother and paired target with Fu Taihou in Wang Mang's 5 CE tomb-demotion campaign.
 - [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han official retroactively restored after Wang Mang recodes earlier opposition to Fu Taihou as correct.
 - [马公 / Ma Gong (Western Han)](entities/MaGongWesternHan.md) — Western Han official protected by ties to Wang Mang but removed from top offices after the Fu Taihou title case is reopened.
-- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose current profile covers political reputation, Tai Sui-shaped diplomatic hosting, and delayed-burial imperial停灵.
+- [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose profile now spans contested reputation, suspicious court governance, Dong Xian-linked speech risk, succession rupture, and delayed-burial imperial停灵.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose court visibility, succession failure, and posthumous family cleanup show the gap between status, symbols, control, and safety.
 - [朱徐 / Zhu Xu (Western Han)](entities/ZhuXuWesternHan.md) — Western Han figure whose burial of Dong Xian after Dong-family collapse turns private gratitude into political exposure.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated and isolated by Wang Mang, whose maternal-family exclusion, empress-selection procedure, adoptive-heir status, illness, and death preceded Wang Mang's acting-emperor status.
@@ -11680,6 +11683,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 
 ## Concepts
+- [廷尉传召即赴死 / Court Summons as Death Sentence](concepts/CourtSummonsAsDeathSentence.md) — Court-politics pattern where formal transfer to judicial custody carries an unofficial expectation that a senior minister will self-kill before trial.
 - [女性亡国归咎叙事 / Women Blamed for Dynastic Collapse](concepts/WomenBlamedForDynasticCollapse.md) — Historiographical pattern that condenses ruler failure and regime collapse into a moralized dangerous-woman story.
 - [神话化身世的史料边界 / Mythic Biography Source Caution](concepts/MythicBiographySourceCaution.md) — Source-critical rule for preserving legendary birth stories as reception evidence without treating them as verified biography.
 - [Grief Attachment Remapping](concepts/GriefAttachmentRemapping.md) — Grief model where closeness remains while the brain relearns space-time expectations after loss.

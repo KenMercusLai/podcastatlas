@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2309
+topic_total_pages: 2310
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -5978,6 +5978,9 @@ topic_entities:
   - key: "QiaoXuanLateHan"
     title: "桥玄 / Qiao Xuan (late Han)"
     url: "/wiki/entities/qiaoxuanlatehan/"
+  - key: "LiangXiangWesternHan"
+    title: "梁相 / Liang Xiang (Western Han)"
+    url: "/wiki/entities/liangxiangwesternhan/"
   - key: "LiangTongEasternHan"
     title: "梁统 / Liang Tong (Eastern Han)"
     url: "/wiki/entities/liangtongeasternhan/"

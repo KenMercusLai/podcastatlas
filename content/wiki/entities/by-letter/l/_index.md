@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9545
+wiki_total_pages: 9547
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1667,6 +1667,9 @@ wiki_pages:
   - key: "LiuChangLiangKing"
     title: "梁王刘畅 / Liu Chang (King of Liang)"
     url: "/wiki/entities/liuchangliangking/"
+  - key: "LiangXiangWesternHan"
+    title: "梁相 / Liang Xiang (Western Han)"
+    url: "/wiki/entities/liangxiangwesternhan/"
   - key: "LiangTongEasternHan"
     title: "梁统 / Liang Tong (Eastern Han)"
     url: "/wiki/entities/liangtongeasternhan/"
