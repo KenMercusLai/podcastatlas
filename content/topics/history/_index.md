@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1698
+topic_total_pages: 1700
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3587,6 +3587,9 @@ topic_entities:
   - key: "ZhaoKuo"
     title: "赵括 / Zhao Kuo"
     url: "/wiki/entities/zhaokuo/"
+  - key: "ZhaoChangWesternHan"
+    title: "赵昌 / Zhao Chang (Western Han)"
+    url: "/wiki/entities/zhaochangwesternhan/"
   - key: "ZhaoWuhou"
     title: "赵武侯 / Marquis Wu of Zhao"
     url: "/wiki/entities/zhaowuhou/"
@@ -3674,6 +3677,9 @@ topic_entities:
   - key: "ZhengAnping"
     title: "郑安平 / Zheng Anping"
     url: "/wiki/entities/zhenganping/"
+  - key: "ZhengChongWesternHan"
+    title: "郑崇 / Zheng Chong (Western Han)"
+    url: "/wiki/entities/zhengchongwesternhan/"
   - key: "ZhengChangHanKing"
     title: "郑昌 / Zheng Chang (Han King)"
     url: "/wiki/entities/zhengchanghanking/"

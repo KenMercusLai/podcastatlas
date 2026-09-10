@@ -73418,6 +73418,13 @@
       "url": "/topics/history/"
     }
   ],
+  "ZhaoChangWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ZhaoChengWarringStates": [
     {
       "key": "history",
@@ -73714,6 +73721,13 @@
     }
   ],
   "ZhengChangHanKing": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ZhengChongWesternHan": [
     {
       "key": "history",
       "label": "History",

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》585丨他与他的爱情，可以多复杂？](sources/zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa.md) — Late-Western-Han court-politics episode on Han Aidi and Dong Xian's "断袖" origin layer, extreme favorite rewards, Dong-family advancement, Zheng Chong's fatal remonstrance risk, Zhao Chang's accusation, and Sun Bao's failed defense.
 - [Essentials: Genes & the Inheritance of Memories Across Generations | Dr. Oded Rechavi](sources/essentials-genes-inheritance-memories-across-generations-dr-oded-rechavi-scim1624813352.md) — Huberman Lab Essentials episode with Oded Rechavi on DNA, RNA, the Weismann barrier, epigenetic reprogramming, C. elegans, RNA interference, small-RNA inheritance, and why human inherited-memory claims remain unsettled.
 - [Advice Line with Kip Tindell of The Container Store](sources/advice-line-with-kip-tindell-of-the-container-store-93508940-11b5-4b29-ba7b-eb077edee062.md) — How I Built This Advice Line episode with Kip Tindell on The Container Store, service-led retail, patient capacity-matched growth, Kula Wand discovery, Hazel Grove Customs wholesale, and Kaomi Sleep's viral-product-to-brand challenge.
 - [Build Muscle, Great Posture & Resilience to Injury | Jeff Cavaliere](sources/build-muscle-great-posture-resilience-to-injury-jeff-cavaliere-scim4318497319.md) — Huberman Lab episode with Jeff Cavaliere on function-first strength, weak-link corrective work, glute medius and rotator cuff control, pain-aware training, cardio, nutrition, and sustainable programming.
@@ -2172,6 +2173,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高涵 / Gao Han](entities/GaoHanStandup.md) — stand-up-related panel participant whose emotional-stability role centers on low retaliation, sleep, and creator misreading.
 - [小块 / Xiao Kuai](entities/XiaoKuaiStandup.md) — stand-up-related panel participant whose role centers on dissent contact, anti-cocoon online hygiene, and happiness-based conflict retreat.
 - [Pope Leo XIV](entities/PopeLeoXIV.md) — Religious-institutional voice in the All-In AI-governance discussion, summarized as treating AI as a morally non-neutral control problem.
+- [郑崇 / Zheng Chong (Western Han)](entities/ZhengChongWesternHan.md) — Late-Western-Han official whose criticism of Han Aidi's Dong Xian overfavor leads to accusation, imprisonment, and death.
+- [赵昌 / Zhao Chang (Western Han)](entities/ZhaoChangWesternHan.md) — Late-Western-Han Shangshu Ling who turns resentment against Zheng Chong into an accusation after Aidi turns hostile.
 - [孙宝 / Sun Bao (Western Han)](entities/SunBaoWesternHan.md) — Western Han Grand Minister of Agriculture whose Hanji 611 remonstrance rejects yellow-dragon praise of Wang Mang and is followed by procedural removal.
 - [甄邯 / Zhen Han](entities/ZhenHanXinOfficial.md) — Wang Mang-aligned court actor who stops the yellow-dragon praise discussion after Sun Bao's public objection.
 - [严徐 / Yan Xu (Western Han)](entities/YanXuWesternHan.md) — Western Han Yingchuan governor used by Hanji 619 to explain the "父母官" ideal through filial reputation, restraint, and grief for local people's safety.

@@ -14,17 +14,22 @@ sources:
   - zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq
   - zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq
   - zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv
+  - zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa
 last_updated: 2026-09-10
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Dong Xian / 董贤 is synthesized as [[HanAidi|汉哀帝]]'s highly visible favorite and a weak political operator at the late [[WesternHanDynasty|Western Han]] succession hinge. [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] adds an early public-contrast layer: [[BaoXuanWesternHan|鲍宣]] sets Dong Xian's rewarded household and servant network against commoners facing seven harms and seven deaths. [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] adds an anti-Fu influence layer: Dong Xian uses a solar-eclipse explanation to blame Fu Yan and Xifu Gong, and Aidi follows him despite Fu Yan's outer-relative ties. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]], Hanji 597, Hanji 598, [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]], and [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] add an upstream political-risk layer: before Aidi's death, Dong Xian's mansion, household provisioning, market escorts, land grants, fief-enlargement issue, father-son network, marriage-alliance pull, high office, and abdication-coded language help make [[WangJiaWesternHan|王嘉]], [[XiaoXianWesternHan|萧贤]], and [[WangHongWesternHan|王洪]] treat Dong-centered favor as a public rank, finance, succession, and court-speech problem before Wang Mang's cleanup.
+Dong Xian / 董贤 is synthesized as [[HanAidi|汉哀帝]]'s highly visible favorite and a weak political operator at the late [[WesternHanDynasty|Western Han]] succession hinge. [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|Hanji 585]] adds his origin and first overfavor layer: palace proximity and appearance make him visible to Aidi, the "断袖" anecdote marks intimate attachment, and favor expands into family palace access, offices, mansion works, treasure precedence, funerary goods, and a tomb complex beside Aidi's own burial space. [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] adds an early public-contrast layer: [[BaoXuanWesternHan|鲍宣]] sets Dong Xian's rewarded household and servant network against commoners facing seven harms and seven deaths. [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] adds an anti-Fu influence layer: Dong Xian uses a solar-eclipse explanation to blame Fu Yan and Xifu Gong, and Aidi follows him despite Fu Yan's outer-relative ties. [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]], Hanji 597, Hanji 598, [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]], and [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] add an upstream political-risk layer: before Aidi's death, Dong Xian's mansion, household provisioning, market escorts, land grants, fief-enlargement issue, father-son network, marriage-alliance pull, high office, and abdication-coded language help make [[ZhengChongWesternHan|郑崇]], [[WangJiaWesternHan|王嘉]], [[XiaoXianWesternHan|萧贤]], and [[WangHongWesternHan|王洪]] treat Dong-centered favor as a public rank, finance, succession, and court-speech problem before Wang Mang's cleanup.
 
 ## Current Profile
 
-Hanji 588 gives the earliest current source layer for Dong Xian as a public-burden contrast. Bao Xuan's memorial says commoners face disaster, extraction, official violence, hunger, and disease while outer relatives and Dong Xian's circle receive money, guests, servants, and luxury support. This does not yet make Dong Xian the succession danger of later notes, but it makes his favor part of a people-versus-privilege diagnosis.
+Hanji 585 gives the earliest current source layer for Dong Xian's rise. He begins as a handsome Yuyang man and former crown-prince attendant who becomes a郎官 after Aidi's accession; after Aidi notices him in palace service, he is promoted and becomes a bed-and-carriage companion. The "断袖" anecdote makes intimacy the mnemonic center, but the source's political point is broader: Aidi converts closeness into office, household privilege, family advancement, and above-rank material treatment.
+
+That first layer also shows how Dong Xian's favor becomes public danger. Aidi brings Dong Xian's wife into the palace, elevates his sister to Zhaoyi, promotes Dong Xian's father, father-in-law, and in-law network, orders a grand mansion near the palace, gives access to royal treasure and funerary goods, and builds a tomb complex beside Aidi's own. Zheng Chong's warning against this overfavor leads to ruler hostility, accusation by [[ZhaoChangWesternHan|赵昌]], failed defense by [[SunBaoWesternHan|孙宝]], and Zheng Chong's prison death.
+
+Hanji 588 gives the next public-burden contrast. Bao Xuan's memorial says commoners face disaster, extraction, official violence, hunger, and disease while outer relatives and Dong Xian's circle receive money, guests, servants, and luxury support. This does not yet make Dong Xian the succession danger of later notes, but it makes his favor part of a people-versus-privilege diagnosis.
 
 Hanji 593 gives Dong Xian's overfavor layer before the later court-visibility and succession scenes. Wang Jia's memorial names an unusual mansion and garden arrangement, imperial attention to utensils, official support for Dong-family illness, guest and wedding expenses, servant rewards, market escorts that frighten merchants, and more than two thousand qing of land. The episode's synthesis is that Dong Xian's protection is already becoming exposure because private favor is visible in public resources.
 
@@ -44,16 +49,21 @@ Hanji 605 supplies the posthumous exposure layer. Wang Mang prosecutes the Dong 
 
 ## Key Characteristics
 
-- Highly visible favorite of Han Aidi whose youth, appearance, and high office draw notice in a diplomatic court scene.
+- Highly visible favorite of Han Aidi whose appearance, palace proximity, intimacy, youth, and high office draw notice across court scenes.
 - Early public-burden contrast figure whose rewards are set against commoner suffering in Bao Xuan's memorial.
 - Favorite whose accusation can remove Fu-family figures by attaching disaster meaning to court conflict.
-- Reward recipient and father-son influence node whose benefits make private favor a public-rank, land, finance, market-order, and court-speech problem.
+- Reward recipient and family influence node whose benefits make private favor a public-rank, household, land, finance, market-order, funerary, and court-speech problem.
 - Marriage-alliance and abdication-language risk node whose family rise makes succession-coded wording politically dangerous.
 - Possessor of palace and symbolic access at Aidi's death whose proximity did not become funeral, palace, or command control.
 - Immediate purge and posthumous cleanup target whose loss of palace access, seal, ribbon, life, family safety, appointees, and property lets Wang Mang reenter the center.
 
 ## Evidence
 
+- Palace-origin layer: [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|Hanji 585]] says Dong Xian is noticed by Aidi during palace service and then promoted into closer access.
+- Intimacy marker: [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|Hanji 585]] records the "断袖" story as the relationship's famous anecdotal origin.
+- Family advancement: [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|Hanji 585]] says Dong Xian's wife enters the palace, his sister becomes Zhaoyi, and his father and in-law network receive offices.
+- Above-rank material favor: [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|Hanji 585]] says Aidi gives Dong Xian mansion, treasure-selection, imperial burial-goods, and tomb-complex privileges.
+- Early speech risk: [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|Hanji 585]] says Zheng Chong is imprisoned and dies after criticizing Dong Xian's overfavor, while Sun Bao is removed for defending him.
 - Public-suffering contrast: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] says Bao Xuan contrasts starving commoners with outer relatives, Dong Xian, servants, and servant networks receiving money and luxury support.
 - Public-resource exposure: [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] says Wang Jia lists Dong Xian's mansion, garden, utensils, family provisioning, market escort, servant rewards, and land grants as excessive favor.
 - Market fear and rumor: [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] says imperial emissaries accompanying Dong-family purchases frighten merchants and draw public comment.
@@ -77,19 +87,20 @@ Hanji 605 supplies the posthumous exposure layer. Wang Mang prosecutes the Dong 
 
 ## Qualifications
 
-The current page is not a full biography of Dong Xian. Hanji 588 gives Bao Xuan's hostile public-suffering contrast; Hanji 593 and Hanji 597 narrate Wang Jia's hostile view of the public-resource and fief-edict problem; Hanji 598 supports his role as a court-risk pressure point; Hanji 599 gives Wang Jia's hostile prison judgment of Dong Xian's father-son network; and Hanji 601-1 gives Xiao Xian's and Wang Hong's hostile readings of Dong-family danger. Hanji 602 supports public visibility and rank in one diplomatic scene. The Xiangrui source and Hanji 603 support succession failure, but Aidi's exact death circumstances, Dong Xian's inner state, and the legal details of his removal remain source-scoped. Hanji 605 supports family confiscation, appointee removal, relocation, and fragile favorite-dependent wealth, but the complete kin list and legal basis for each punishment remain source-scoped.
+The current page is not a full biography of Dong Xian. Hanji 585 gives the host's relationship-origin and overfavor reading but does not settle Dong Xian's inner motives, sexuality beyond the source narrative, full family genealogy, or the legal basis of each reward. Hanji 588 gives Bao Xuan's hostile public-suffering contrast; Hanji 593 and Hanji 597 narrate Wang Jia's hostile view of the public-resource and fief-edict problem; Hanji 598 supports his role as a court-risk pressure point; Hanji 599 gives Wang Jia's hostile prison judgment of Dong Xian's father-son network; and Hanji 601-1 gives Xiao Xian's and Wang Hong's hostile readings of Dong-family danger. Hanji 602 supports public visibility and rank in one diplomatic scene. The Xiangrui source and Hanji 603 support succession failure, but Aidi's exact death circumstances, Dong Xian's inner state, and the legal details of his removal remain source-scoped. Hanji 605 supports family confiscation, appointee removal, relocation, and fragile favorite-dependent wealth, but the complete kin list and legal basis for each punishment remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 588's public-suffering contrast: Bao Xuan places Dong Xian's rewards beside commoner distress before the later Wang Jia and succession-risk layers.
-- Added Hanji 595's solar-eclipse accusation layer: Dong Xian can attach disaster meaning to Fu-family rivals and remove Fu Yan through Aidi's trust.
-- Preserved Hanji 597's fief-reward layer: Dong Xian's additional-households request becomes a public-rank, finance, and resentment problem in Wang Jia's memorial.
-- Added Hanji 599's prison-accusation layer: Wang Jia names Dong Xian's father-son network as disordering the court, while Aidi's private favor continues.
-- Added Hanji 601-1's abdication-language layer: Dong-family marriage alliance, appointment wording, Aidi's Yao-Shun remark, and Wang Hong's memorial make succession-coded favor explicit.
+- Added Hanji 585's origin layer: Dong Xian's visibility begins with palace proximity and the "断袖" memory before expanding into family advancement and over-rank material treatment.
+- Added Hanji 585's early speech-risk layer: Zheng Chong's criticism and Sun Bao's defense show Dong Xian-centered favor becoming dangerous before the later Wang Jia sequence.
+- Preserved the later Bao Xuan, Wang Jia, Xiao Xian, Wang Hong, chanyu-visibility, succession-failure, and Wang Mang cleanup layers as downstream consequences or parallels.
 
 ## Relationships
 
 - [[HanAidi|汉哀帝]] - ruler whose favor elevated Dong Xian and whose death exposed Dong Xian's weakness.
+- [[ZhengChongWesternHan|郑崇]] - early critic punished after objecting to Dong Xian's overfavor.
+- [[ZhaoChangWesternHan|赵昌]] - accuser whose report helps punish Zheng Chong in the Dong Xian favor field.
+- [[SunBaoWesternHan|孙宝]] - investigator removed after defending Zheng Chong.
 - [[BaoXuanWesternHan|鲍宣]] - remonstrant who turns Dong Xian's favor into part of a public-suffering diagnosis.
 - [[WangJiaWesternHan|王嘉]] - senior official exposed after resisting or complicating Dong Xian-related favor.
 - [[XiaoXianWesternHan|萧贤]] - official who refuses a Dong-family marriage after reading appointment language as dangerous.
