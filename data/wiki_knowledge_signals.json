@@ -29212,9 +29212,9 @@
       "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FirstWorldWar": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -29236,6 +29236,13 @@
           "show": "The Rest Is History",
           "title": "675. The First World War: Slaughter at Gallipoli (Part 5)",
           "url": "/wiki/sources/675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715/"
+        },
+        {
+          "episode_file": "GLT3632974949 [GLT3632974949].md",
+          "key": "673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949",
+          "show": "The Rest Is History",
+          "title": "673. The First World War: The Submarine Strikes (Part 3)",
+          "url": "/wiki/sources/673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949/"
         }
       ],
       "updated": "2026-09-10",
@@ -58381,6 +58388,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/neuroplasticity/"
     },
+    "NeutralityToInterventionMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3632974949 [GLT3632974949].md",
+          "key": "673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949",
+          "show": "The Rest Is History",
+          "title": "673. The First World War: The Submarine Strikes (Part 3)",
+          "url": "/wiki/sources/673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/neutralitytointerventionmemory/"
+    },
     "NewGoldenAgeScienceAgenda": {
       "episode_count": 2,
       "show_count": 1,
@@ -62370,6 +62393,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/passengeraviationexperienceradius/"
+    },
+    "PassengerLinerAtrocityPropaganda": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3632974949 [GLT3632974949].md",
+          "key": "673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949",
+          "show": "The Rest Is History",
+          "title": "673. The First World War: The Submarine Strikes (Part 3)",
+          "url": "/wiki/sources/673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/passengerlineratrocitypropaganda/"
     },
     "PassionDiscoveryThroughEngagement": {
       "episode_count": 1,
@@ -67845,6 +67884,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/rememotionalmemoryseparation/"
+    },
+    "RMSLusitania": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3632974949 [GLT3632974949].md",
+          "key": "673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949",
+          "show": "The Rest Is History",
+          "title": "673. The First World War: The Submarine Strikes (Part 3)",
+          "url": "/wiki/sources/673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/rmslusitania/"
     },
     "RP1Robot": {
       "episode_count": 1,
@@ -83856,6 +83911,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/unlearningexamexpression/"
     },
+    "UnrestrictedSubmarineWarfare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3632974949 [GLT3632974949].md",
+          "key": "673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949",
+          "show": "The Rest Is History",
+          "title": "673. The First World War: The Submarine Strikes (Part 3)",
+          "url": "/wiki/sources/673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/concepts/unrestrictedsubmarinewarfare/"
+    },
     "UnrighteousMeritReward": {
       "episode_count": 1,
       "show_count": 1,
@@ -88222,6 +88293,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/wongjing/"
+    },
+    "WoodrowWilson": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3632974949 [GLT3632974949].md",
+          "key": "673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949",
+          "show": "The Rest Is History",
+          "title": "673. The First World War: The Submarine Strikes (Part 3)",
+          "url": "/wiki/sources/673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949/"
+        }
+      ],
+      "updated": "2026-09-10",
+      "url": "/wiki/entities/woodrowwilson/"
     },
     "WorkSelfWorthBoundary": {
       "episode_count": 5,

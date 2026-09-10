@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6947
+wiki_total_pages: 6950
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "NeutralInternetExchange"
     title: "Neutral Internet Exchange"
     url: "/wiki/concepts/neutralinternetexchange/"
+  - key: "NeutralityToInterventionMemory"
+    title: "Neutrality-to-Intervention Memory"
+    url: "/wiki/concepts/neutralitytointerventionmemory/"
   - key: "NewEngineeringEducation"
     title: "New Engineering Education / 新工科教育"
     url: "/wiki/concepts/newengineeringeducation/"

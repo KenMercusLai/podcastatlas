@@ -1806,6 +1806,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052": [
     {
       "key": "history",
@@ -45500,6 +45507,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "NeutralityToInterventionMemory": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Nevada": [
     {
       "key": "politics",
@@ -48419,6 +48433,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "PassengerLinerAtrocityPropaganda": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PassionAgainstSelfControl": [
@@ -70123,6 +70144,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WoodrowWilson": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "WoodsHoleOceanographicInstitution": [

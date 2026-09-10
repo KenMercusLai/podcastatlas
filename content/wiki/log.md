@@ -16761,6 +16761,10 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-10] ingest | 673. The First World War: The Submarine Strikes (Part 3)
+
+Added source note for The Rest Is History episode on RMS Lusitania, Germany's 1915 U-boat campaign, cruiser-rule breakdown, civilian deaths, propaganda, Wilson's neutrality dilemma, and later U.S. intervention memory. Updated FirstWorldWar and added RMSLusitania, WoodrowWilson, UnrestrictedSubmarineWarfare, PassengerLinerAtrocityPropaganda, and NeutralityToInterventionMemory.
+
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》595丨王莽杀子，揭露权力的残酷
 
 Added source note for the late-Western-Han court episode on Wang Mang's forced son-suicide reputation performance, petition-backed return to Chang'an, Dong Xian's eclipse accusation against Fu-family figures, and Fu Taihou's death as later ritual-political leverage. Updated WangMang, HanAidi, DongXian, FuTaihouWesternHan, and added KinSacrificeReputationPerformance.
@@ -17048,6 +17052,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪
 
 Added source note for the Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family cleanup, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as Wang Mang's accusation channel, and old-case purge politics. Updated DongXian, KongGuangWesternHan, and PersonaShieldedPoliticalPurge; added ZhuXuWesternHan.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
 

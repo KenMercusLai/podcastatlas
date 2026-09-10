@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2627
+topic_total_pages: 2628
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1804,6 +1804,9 @@ topic_concepts:
   - key: "ParticipationDataMoat"
     title: "Participation Data Moat / 参赛数据护城河"
     url: "/wiki/concepts/participationdatamoat/"
+  - key: "PassengerLinerAtrocityPropaganda"
+    title: "Passenger-Liner Atrocity Propaganda"
+    url: "/wiki/concepts/passengerlineratrocitypropaganda/"
   - key: "PassionAgainstSelfControl"
     title: "Passion Against Self-Control / 激情与自我控制"
     url: "/wiki/concepts/passionagainstselfcontrol/"

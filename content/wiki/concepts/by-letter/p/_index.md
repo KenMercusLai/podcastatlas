@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6947
+wiki_total_pages: 6950
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -173,6 +173,9 @@ wiki_pages:
   - key: "PassengerComplaintHandling"
     title: "Passenger Complaint Handling"
     url: "/wiki/concepts/passengercomplainthandling/"
+  - key: "PassengerLinerAtrocityPropaganda"
+    title: "Passenger-Liner Atrocity Propaganda"
+    url: "/wiki/concepts/passengerlineratrocitypropaganda/"
   - key: "PassionAgainstSelfControl"
     title: "Passion Against Self-Control / 激情与自我控制"
     url: "/wiki/concepts/passionagainstselfcontrol/"

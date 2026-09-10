@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1689
+topic_total_pages: 1690
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4104,6 +4104,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949"
+    title: "673. The First World War: The Submarine Strikes (Part 3)"
+    url: "/wiki/sources/673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949/"
   - key: "674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052"
     title: "674. The First World War: The Spy Who Took on the Germans (Part 4)"
     url: "/wiki/sources/674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052/"

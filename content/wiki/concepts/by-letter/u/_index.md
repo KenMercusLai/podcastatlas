@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "u"
-wiki_total_pages: 6947
+wiki_total_pages: 6950
 wiki_pages:
   - key: "US2025ExpectationGaps"
     title: "U.S. 2025 Expectation Gaps"
@@ -161,6 +161,9 @@ wiki_pages:
   - key: "UnreliablePraiseNarration"
     title: "Unreliable Praise Narration / 赞美式不可靠叙述"
     url: "/wiki/concepts/unreliablepraisenarration/"
+  - key: "UnrestrictedSubmarineWarfare"
+    title: "Unrestricted Submarine Warfare"
+    url: "/wiki/concepts/unrestrictedsubmarinewarfare/"
   - key: "UnrulyWomenInFolktales"
     title: "Unruly Women In Folktales / 民间故事中的悍妇"
     url: "/wiki/concepts/unrulywomeninfolktales/"

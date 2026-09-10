@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2314
+topic_total_pages: 2316
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1993,6 +1993,9 @@ topic_concepts:
   - key: "NatureLawLegalJustice"
     title: "Nature-Law / Legal-Justice Conflict / 自然法则与法律正义冲突"
     url: "/wiki/concepts/naturelawlegaljustice/"
+  - key: "NeutralityToInterventionMemory"
+    title: "Neutrality-to-Intervention Memory"
+    url: "/wiki/concepts/neutralitytointerventionmemory/"
   - key: "NewOrderAssetPricing"
     title: "New Order Asset Pricing"
     url: "/wiki/concepts/neworderassetpricing/"
@@ -5777,6 +5780,9 @@ topic_entities:
   - key: "WinstonChurchill"
     title: "Winston Churchill"
     url: "/wiki/entities/winstonchurchill/"
+  - key: "WoodrowWilson"
+    title: "Woodrow Wilson"
+    url: "/wiki/entities/woodrowwilson/"
   - key: "WorldLibertyFinancial"
     title: "World Liberty Financial"
     url: "/wiki/entities/worldlibertyfinancial/"
