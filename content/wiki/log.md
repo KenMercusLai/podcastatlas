@@ -17309,6 +17309,10 @@ Added source. Key claims: the White Ship disaster turns Henry I's succession int
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？
+
+Added source. Key claims: 荧惑守心 puts omen responsibility on Han Chengdi; Chengdi redirects the danger toward chancellor Zhai Fangjin; Li Xun warns Zhai about substitution logic; Zhai's strict enforcement style leaves him isolated when officials aggregate blame; Sima Guang criticizes the coerced death as either deceiving Heaven or deceiving the people.
+
 ## [2026-09-11] ingest | 咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？
 
 Added source. Key claims: titanium cups became popular through outdoor and camping lifestyle demand, titanium's aerospace/medical/electronics premium aura, consumer willingness to pay for material upgrades, falling titanium costs, and Yongkang manufacturing maturity; the same supply expansion is creating homogeneous products and low-price inventory clearing.
@@ -17440,6 +17444,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？
 
 Added source. Key claims: Jia Rang ranks Yellow River flood-control policies as retreat from floodplain land, canal-and-sluice diversion, and old-levee repair; Warring States levee competition transfers risk across river boundaries; the episode uses Qian Mu's five-hundred-year tree story to frame expensive long-horizon solutions as potentially wiser than quick visible fixes.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

@@ -21679,9 +21679,9 @@
       "url": "/wiki/entities/diretasja/"
     },
     "DisasterOmenCrisisRedirection": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》781丨“愚善”，才是人对己最大的恶 [luvAw93hNNXcbgFnwGSjb7X0hlqZ].md",
@@ -21696,9 +21696,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》657丨王莽废太子，有多儿戏？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？ [lu3CkUXWUjdBj4zdOQHvO2cG1rs0].md",
+          "key": "zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/disasteromencrisisredirection/"
     },
     "DisasterOmenPersonnelAttack": {
@@ -37727,9 +37734,9 @@
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanChengdi": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -37772,6 +37779,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》572丨历史上这男人真够狠",
           "url": "/wiki/sources/zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？ [lu3CkUXWUjdBj4zdOQHvO2cG1rs0].md",
+          "key": "zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0/"
         }
       ],
       "updated": "2026-09-11",
@@ -49712,9 +49726,9 @@
       "url": "/wiki/entities/lixielatehan/"
     },
     "LiXunWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》581丨汉哀帝在鬼神之道有多愚蠢？ [ltOK7KbZMUF-OS84SPsEwW0QJBRm].md",
@@ -49729,6 +49743,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》579丨走近科学 鼓妖是妖吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？ [lu3CkUXWUjdBj4zdOQHvO2cG1rs0].md",
+          "key": "zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0/"
         }
       ],
       "updated": "2026-09-11",
@@ -97488,9 +97509,9 @@
       "url": "/wiki/entities/zhaichaolatehan/"
     },
     "ZhaiFangjinWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -97498,6 +97519,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？ [lu3CkUXWUjdBj4zdOQHvO2cG1rs0].md",
+          "key": "zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0/"
         }
       ],
       "updated": "2026-09-11",
