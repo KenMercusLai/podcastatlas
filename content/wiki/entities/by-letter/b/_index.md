@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9753
+wiki_total_pages: 9756
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -917,6 +917,9 @@ wiki_pages:
   - key: "BingMeigui"
     title: "《病玫瑰》"
     url: "/wiki/entities/bingmeigui/"
+  - key: "BlindMountainFilm"
+    title: "《盲山》 / Blind Mountain"
+    url: "/wiki/entities/blindmountainfilm/"
   - key: "BijingJi"
     title: "《闭经记》"
     url: "/wiki/entities/bijingji/"

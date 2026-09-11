@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1791
+topic_total_pages: 1792
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2048,6 +2048,9 @@ topic_entities:
   - key: "DongguanHanji"
     title: "《东观汉记》 / Dongguan Hanji"
     url: "/wiki/entities/dongguanhanji/"
+  - key: "ErNianLuLing"
+    title: "《二年律令》 / Er Nian Lu Ling"
+    url: "/wiki/entities/ernianluling/"
   - key: "Wudu"
     title: "《五蠹》 / Wu Du"
     url: "/wiki/entities/wudu/"

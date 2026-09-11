@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 9753
+wiki_total_pages: 9756
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -524,6 +524,9 @@ wiki_pages:
   - key: "EzraPound"
     title: "Ezra Pound"
     url: "/wiki/entities/ezrapound/"
+  - key: "ErNianLuLing"
+    title: "《二年律令》 / Er Nian Lu Ling"
+    url: "/wiki/entities/ernianluling/"
   - key: "ExcellentSheep"
     title: "《优秀的绵羊》 / Excellent Sheep"
     url: "/wiki/entities/excellentsheep/"

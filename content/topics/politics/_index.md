@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2388
+topic_total_pages: 2392
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3748,6 +3748,9 @@ topic_concepts:
   - key: "RiskBearingReliefGovernance"
     title: "担责开仓式救民 / Risk-Bearing Relief Governance"
     url: "/wiki/concepts/riskbearingreliefgovernance/"
+  - key: "DemandSideTraffickingLiability"
+    title: "拐卖需求端责任 / Demand-Side Trafficking Liability"
+    url: "/wiki/concepts/demandsidetraffickingliability/"
   - key: "PerMuLandTaxation"
     title: "按亩征税 / Per-Mu Land Taxation"
     url: "/wiki/concepts/permulandtaxation/"
@@ -3814,6 +3817,9 @@ topic_concepts:
   - key: "TalentSummonsRulerSelfExamination"
     title: "求贤中的君主自省 / Talent Summons Ruler Self-Examination"
     url: "/wiki/concepts/talentsummonsrulerselfexamination/"
+  - key: "HanTraffickingLawDeterrence"
+    title: "汉代拐卖惩治 / Han Trafficking Law Deterrence"
+    url: "/wiki/concepts/hantraffickinglawdeterrence/"
   - key: "BianquHydraulicGovernance"
     title: "汴渠水利治理 / Bianqu Hydraulic Governance"
     url: "/wiki/concepts/bianquhydraulicgovernance/"
@@ -5957,6 +5963,9 @@ topic_entities:
   - key: "DongbeiBoyi"
     title: "《东北博弈》"
     url: "/wiki/entities/dongbeiboyi/"
+  - key: "ErNianLuLing"
+    title: "《二年律令》 / Er Nian Lu Ling"
+    url: "/wiki/entities/ernianluling/"
   - key: "Andor"
     title: "《安多》 / Andor"
     url: "/wiki/entities/andor/"
@@ -7020,6 +7029,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p"
+    title: "《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p/"
   - key: "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3"
     title: "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？"
     url: "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"

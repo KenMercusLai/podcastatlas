@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2652
+topic_total_pages: 2653
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5831,6 +5831,9 @@ topic_entities:
   - key: "ShengshiDeBengta"
     title: "《盛世的崩塌》"
     url: "/wiki/entities/shengshidebengta/"
+  - key: "BlindMountainFilm"
+    title: "《盲山》 / Blind Mountain"
+    url: "/wiki/entities/blindmountainfilm/"
   - key: "DuanGeShiWoBeishangDeWanju"
     title: "《短歌是我悲伤的玩具》"
     url: "/wiki/entities/duangeshiwobeishangdewanju/"

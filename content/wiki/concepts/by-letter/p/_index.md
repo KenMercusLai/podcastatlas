@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7087
+wiki_total_pages: 7091
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1826,6 +1826,9 @@ wiki_pages:
   - key: "ParticipatoryHistoricalReading"
     title: "参与式读史 / Participatory Historical Reading"
     url: "/wiki/concepts/participatoryhistoricalreading/"
+  - key: "PublicAttentionAgainstTrafficking"
+    title: "反拐公共关注 / Public Attention Against Trafficking"
+    url: "/wiki/concepts/publicattentionagainsttrafficking/"
   - key: "PunishmentAsMoralCredential"
     title: "受罚作为名节凭据 / Punishment as Moral Credential"
     url: "/wiki/concepts/punishmentasmoralcredential/"

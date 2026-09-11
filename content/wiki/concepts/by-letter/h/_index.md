@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7087
+wiki_total_pages: 7091
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -719,6 +719,9 @@ wiki_pages:
   - key: "HyperscalerAIGatekeeping"
     title: "Hyperscaler AI Gatekeeping"
     url: "/wiki/concepts/hyperscaleraigatekeeping/"
+  - key: "HumanTraffickingFamilyTrauma"
+    title: "人口拐卖家庭创伤 / Human Trafficking Family Trauma"
+    url: "/wiki/concepts/humantraffickingfamilytrauma/"
   - key: "HumaneLocalGovernance"
     title: "仁厚地方治理 / Humane Local Governance"
     url: "/wiki/concepts/humanelocalgovernance/"
@@ -764,6 +767,9 @@ wiki_pages:
   - key: "HonkakuMystery"
     title: "本格推理 / Honkaku Mystery"
     url: "/wiki/concepts/honkakumystery/"
+  - key: "HanTraffickingLawDeterrence"
+    title: "汉代拐卖惩治 / Han Trafficking Law Deterrence"
+    url: "/wiki/concepts/hantraffickinglawdeterrence/"
   - key: "HanRestorationPublicSentiment"
     title: "汉室人心回归 / Han Restoration Public Sentiment"
     url: "/wiki/concepts/hanrestorationpublicsentiment/"

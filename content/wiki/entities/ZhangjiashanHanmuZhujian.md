@@ -2,25 +2,44 @@
 title: "张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips"
 type: entity
 tags: [text, bamboo-slips, excavated-texts, chinese-history, qin-han]
-sources: [zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy]
-last_updated: 2026-08-22
+sources:
+  - zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy
+  - zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p
+last_updated: 2026-09-12
+knowledge_schema: synthesis-v1
 ---
 
 # 张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips
 
-张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips enter the wiki through [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy|Qinji 138]] as excavated evidence for Qin-Han institutional vocabulary. The episode uses the slips to argue that "宦" can mean service in the ruler's inner court or registration for palace access, not necessarily castration.
+## Overview
+张家山汉墓竹简 / Zhangjiashan Han Tomb Bamboo Slips are used in the wiki as excavated Qin-Han material that can correct inherited historical and legal assumptions. [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy|Qinji 138]] uses them for Qin-Han institutional vocabulary around [[ZhaoGao|赵高]], while [[zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p|Hanji 527-2]] uses them as the archaeological context for [[ErNianLuLing|《二年律令》]] and early Han trafficking punishment.
 
-The same source also uses Zhangjiashan material to clarify "隐官" as a status or workplace for sentence-completed skilled people. In the episode's reasoning, this matters because inherited readings of [[ZhaoGao|赵高]] turn both "宦籍" and "隐宫/隐官" into sexual-body claims when they may instead describe access, office, and low-status legal history.
+## Current Profile
+Across the current sources, Zhangjiashan functions less as a standalone archaeological topic than as an evidence base that changes what the podcast can responsibly claim. One branch supports [[ExcavatedTextLexicalCorrection|出土文献词义校正]] by distinguishing "宦" and "隐官" from later assumptions about castration. The newer branch supports [[HanTraffickingLawDeterrence|汉代拐卖惩治]] by locating anti-trafficking punishment in an excavated Han legal-text setting.
 
-## Key Claims
-- The source uses Zhangjiashan slips as evidence for [[ExcavatedTextLexicalCorrection|出土文献词义校正]].
-- "宦人" and "宦籍" are read as palace-service and access-register terms in the episode.
-- "隐官" is read as a legal-status/workplace term rather than a synonym for palace castration.
-- The material is used to revise Zhao Gao's received image without excusing his later political violence.
+## Key Characteristics
+- It is treated as excavated Qin-Han evidence rather than received literary tradition alone.
+- It supports vocabulary correction around "宦," "宦籍," and "隐官" in the Zhao Gao discussion.
+- It provides the material setting for [[ErNianLuLing|《二年律令》]] in the trafficking-punishment discussion.
+- Its wiki role is evidentiary: the slips let episodes make narrower claims about law, status, and institutional language.
+- The sources use Zhangjiashan material to limit overconfident inherited readings, but they do not make the page a full manuscript catalog.
 
-## Connections
-- [[ZhaoGao|赵高]] - person whose identity is re-read through the vocabulary.
-- [[EarlyEunuchTerminologyMisreading|早期宦官词义误读]] - "宦" and "宦籍" correction.
-- [[YinguanStatusMisreading|隐官身份误读]] - hidden-office correction.
-- [[Shiji|《史记》]], [[SimaQian|司马迁]], and [[HistoricalDetectiveReasoning]] - received source and evidence-handling context.
-- [[ShuihudiQinJian|睡虎地秦简]] - companion excavated-text reference in the episode.
+## Evidence
+- Vocabulary correction: [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy]] uses Zhangjiashan to support reading "宦人" and "宦籍" as palace-service or access terms, not automatic proof of castration.
+- Hidden-office status: [[zizhi-tongjian-qinji-138-wudu-qiannian-de-lishi-zhenxiang-zhaogao-bushi-taijian-1-ljw5nzd-ap1a4hkdczxun3t0-vwy]] pairs Zhangjiashan with [[ShuihudiQinJian|睡虎地秦简]] to read "隐官" as legal/work status rather than palace castration.
+- Legal-text context: [[zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p]] identifies Zhangjiashan as the excavated context in which [[ErNianLuLing|《二年律令》]] is found.
+- Trafficking-law evidence: [[zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p]] uses that legal material to discuss punishments for abductors and buyers in trafficking cases.
+
+## Qualifications
+The current wiki evidence comes through podcast summaries, not direct manuscript editions. Claims about exact legal wording, manuscript dating, and philological alternatives should remain source-scoped unless specialist sources are added.
+
+## What Changed
+- Added the Hanji 527-2 trafficking-law branch.
+- Migrated the page to synthesis-v1 while preserving the original Qinji 138 evidence inventory and adding the new source once.
+
+## Relationships
+- [[ErNianLuLing|《二年律令》]] - Han legal text introduced through the Zhangjiashan context.
+- [[ZhaoGao|赵高]] - figure whose inherited identity is re-read through Zhangjiashan vocabulary evidence.
+- [[ShuihudiQinJian|睡虎地秦简]] - companion excavated source for hidden-office status correction.
+- [[ExcavatedTextLexicalCorrection|出土文献词义校正]] - method supported by the Qinji 138 use of the slips.
+- [[HanTraffickingLawDeterrence|汉代拐卖惩治]] - legal-deterrence concept supported by the Hanji 527-2 use of the slips.

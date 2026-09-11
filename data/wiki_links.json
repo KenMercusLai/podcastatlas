@@ -8231,6 +8231,10 @@
     "title": "Blanket Tariff Limit",
     "url": "/wiki/concepts/blankettarifflimit/"
   },
+  "BlindMountainFilm": {
+    "title": "《盲山》 / Blind Mountain",
+    "url": "/wiki/entities/blindmountainfilm/"
+  },
   "BlindnessMemoryArtIdeal": {
     "title": "Blindness-Memory Art Ideal",
     "url": "/wiki/concepts/blindnessmemoryartideal/"
@@ -16087,6 +16091,10 @@
     "title": "Demand-Side Oil Market Power",
     "url": "/wiki/concepts/demandsideoilmarketpower/"
   },
+  "DemandSideTraffickingLiability": {
+    "title": "拐卖需求端责任 / Demand-Side Trafficking Liability",
+    "url": "/wiki/concepts/demandsidetraffickingliability/"
+  },
   "DemandSupplyChainControlFrame": {
     "title": "Demand-Supply Chain Control Frame / 需求-供应链控制框架",
     "url": "/wiki/concepts/demandsupplychaincontrolframe/"
@@ -19474,6 +19482,10 @@
   "EquityRetirementAssetBinding": {
     "title": "Equity Retirement Asset Binding",
     "url": "/wiki/concepts/equityretirementassetbinding/"
+  },
+  "ErNianLuLing": {
+    "title": "《二年律令》 / Er Nian Lu Ling",
+    "url": "/wiki/entities/ernianluling/"
   },
   "EraTailwindInInvesting": {
     "title": "Era Tailwind In Investing / 投资时代红利",
@@ -25963,6 +25975,10 @@
     "title": "韩通 / Han Tong",
     "url": "/wiki/entities/hantong/"
   },
+  "HanTraffickingLawDeterrence": {
+    "title": "汉代拐卖惩治 / Han Trafficking Law Deterrence",
+    "url": "/wiki/concepts/hantraffickinglawdeterrence/"
+  },
   "HanWangXin": {
     "title": "韩王信 / Han Wang Xin",
     "url": "/wiki/entities/hanwangxin/"
@@ -28402,6 +28418,10 @@
   "HumanTasteAsAITrainingSignal": {
     "title": "Human Taste as AI Training Signal / 人的品味作为AI训练信号",
     "url": "/wiki/concepts/humantasteasaitrainingsignal/"
+  },
+  "HumanTraffickingFamilyTrauma": {
+    "title": "人口拐卖家庭创伤 / Human Trafficking Family Trauma",
+    "url": "/wiki/concepts/humantraffickingfamilytrauma/"
   },
   "HumanValueAIDeployment": {
     "title": "Human-Value AI Deployment / 提高人的价值以部署 AI",
@@ -47447,6 +47467,10 @@
     "title": "武库公器私赏边界 / Public Armory Private Favor Boundary",
     "url": "/wiki/concepts/publicarmoryprivatefavorboundary/"
   },
+  "PublicAttentionAgainstTrafficking": {
+    "title": "反拐公共关注 / Public Attention Against Trafficking",
+    "url": "/wiki/concepts/publicattentionagainsttrafficking/"
+  },
   "PublicBenefitPrivateValueCapture": {
     "title": "Public-Benefit Private Value Capture",
     "url": "/wiki/concepts/publicbenefitprivatevaluecapture/"
@@ -66227,6 +66251,10 @@
     "title": "于贵人 / Yu Guiren (late Han)",
     "url": "/wiki/entities/yuguirenlatehan/"
   },
+  "YuHuayingCase": {
+    "title": "于华英案 / Yu Huaying Case",
+    "url": "/wiki/entities/yuhuayingcase/"
+  },
   "YuJi": {
     "title": "虞姬 / Yu Ji",
     "url": "/wiki/entities/yuji/"
@@ -73462,6 +73490,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p": {
+    "title": "《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p/"
   },
   "zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge": {
     "title": "《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！",

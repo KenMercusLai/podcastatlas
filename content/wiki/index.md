@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！](sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p.md) — 芮淇讲透资治通鉴 short episode linking the Yu Huaying trafficking case, family trauma, Zhangjiashan's 《二年律令》, Han buyer liability, 《盲山》, and public refusal of social blindness.
 - [《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！](sources/zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge.md) — 芮淇讲透资治通鉴 episode on Ban Jieyu's carriage refusal, Wang Zhengjun's Fan Ji comparison, Li Ping recommendation, and restrained favor as palace/workplace relationship wisdom.
 - [《资治通鉴·汉纪》529丨美艳姐妹花！西汉最大的“祸水”登场！](sources/zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop.md) — 芮淇讲透资治通鉴 episode on Zhao Feiyan's abandoned-child origin stories, Yang'a Princess household dance training, Chengdi's banquet encounter, and first jieyu promotion.
 - [《资治通鉴·汉纪》530丨赵飞燕艳冠后宫，成帝为何更宠妹妹？](sources/zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j.md) — 芮淇讲透资治通鉴 episode on Zhao Hede entering Chengdi's palace, Zhao Feiyan's jealousy management, Empress Xu's wugu accusation, and Ban Jieyu's calm defense and retreat.
@@ -2236,6 +2237,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [《二年律令》 / Er Nian Lu Ling](entities/ErNianLuLing.md) — Excavated Han legal text used in Hanji 527-2 to discuss punishment for abducting, selling, and buying trafficked people.
+- [《盲山》 / Blind Mountain](entities/BlindMountainFilm.md) — Film example used in Hanji 527-2 to connect modern forced marriage, captivity, and public imagination around trafficking.
+- [于华英案 / Yu Huaying Case](entities/YuHuayingCase.md) — Contemporary child-trafficking case used in Hanji 527-2 to foreground family trauma and legal stakes.
 - [广汉郑公起义 / Guanghan Zheng Gong Uprising](entities/GuanghanZhengGongUprising.md) — Hongjia-era Western Han uprising framed as survival pressure under official abuse and livelihood collapse.
 - [李勋 / Li Xun (Western Han flood-control adviser)](entities/LiXunFloodControlWesternHan.md) — Pingling adviser whose Yellow River proposal favors observing the breach before forced repair.
 - [赵护 / Zhao Hu (Western Han)](entities/ZhaoHuWesternHan.md) — Official appointed to Guanghan and rewarded after the suppression of Zheng Gong's uprising.
@@ -11993,6 +11997,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [反拐公共关注 / Public Attention Against Trafficking](concepts/PublicAttentionAgainstTrafficking.md) — Civic refusal to treat trafficking as invisible, distant, or already solved.
+- [汉代拐卖惩治 / Han Trafficking Law Deterrence](concepts/HanTraffickingLawDeterrence.md) — Early Han legal-punishment frame that makes abduction, resale, and buyer participation punishable.
+- [拐卖需求端责任 / Demand-Side Trafficking Liability](concepts/DemandSideTraffickingLiability.md) — Accountability frame for purchasers and receiving households inside trafficking markets.
+- [人口拐卖家庭创伤 / Human Trafficking Family Trauma](concepts/HumanTraffickingFamilyTrauma.md) — Long-term family and relational harm produced by abduction, sale, forced marriage, and unresolved disappearance.
 - [生存压力型起义 / Survival Pressure Rebellion](concepts/SurvivalPressureRebellion.md) — Pattern where official pressure and livelihood collapse make armed local revolt legible as survival action.
 - [真诚共治式冲突降温 / Sincere Power-Sharing De-escalation](concepts/SincerePowerSharingDeescalation.md) — Conflict pattern where rivals with overlapping authority reduce factional competition through sincere consultation and shared institutional interest.
 - [Effective Confusion In The Odyssey Period / 有效迷茫](concepts/EffectiveConfusionOdysseyPeriod.md) — Frame for treating young-adult迷茫 as a self-discovery process involving false confusion, existential meaning, practice, embodiment, and support.
