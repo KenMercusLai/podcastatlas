@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7033
+wiki_total_pages: 7046
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -23,6 +23,9 @@ wiki_pages:
   - key: "RadiochemistryImagingTracers"
     title: "Radiochemistry Imaging Tracers"
     url: "/wiki/concepts/radiochemistryimagingtracers/"
+  - key: "RadiographerClinicalResponsibility"
+    title: "Radiographer Clinical Responsibility / 放射师临床责任"
+    url: "/wiki/concepts/radiographerclinicalresponsibility/"
   - key: "RadiopharmaceuticalDrugConjugates"
     title: "Radiopharmaceutical Drug Conjugates / RDC"
     url: "/wiki/concepts/radiopharmaceuticaldrugconjugates/"
@@ -239,6 +242,9 @@ wiki_pages:
   - key: "RegionalAdministrativeFragmentation"
     title: "Regional Administrative Fragmentation"
     url: "/wiki/concepts/regionaladministrativefragmentation/"
+  - key: "RegionalESIMConstraint"
+    title: "Regional eSIM Constraint"
+    url: "/wiki/concepts/regionalesimconstraint/"
   - key: "RegionalFlavorTransfer"
     title: "Regional Flavor Transfer / 地方风味迁移"
     url: "/wiki/concepts/regionalflavortransfer/"
@@ -974,6 +980,9 @@ wiki_pages:
   - key: "RitualAmbushCountercoup"
     title: "宗庙仪式反制政变 / Ritual Ambush Countercoup"
     url: "/wiki/concepts/ritualambushcountercoup/"
+  - key: "RespectBasedConflictDeescalation"
+    title: "尊重式冲突降温 / Respect-Based Conflict De-escalation"
+    url: "/wiki/concepts/respectbasedconflictdeescalation/"
   - key: "RetaliatoryPoliticalTerror"
     title: "报复性政治恐怖 / Retaliatory Political Terror"
     url: "/wiki/concepts/retaliatorypoliticalterror/"

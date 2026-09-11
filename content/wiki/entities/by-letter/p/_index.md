@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9677
+wiki_total_pages: 9688
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -107,6 +107,9 @@ wiki_pages:
   - key: "Patagonia"
     title: "Patagonia"
     url: "/wiki/entities/patagonia/"
+  - key: "PatagoniaRegion"
+    title: "Patagonia Region"
+    url: "/wiki/entities/patagoniaregion/"
   - key: "PatekPhilippe"
     title: "Patek Philippe"
     url: "/wiki/entities/patekphilippe/"

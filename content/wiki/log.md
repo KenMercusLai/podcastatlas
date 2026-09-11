@@ -6,6 +6,14 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差
+
+Added source. Key claims: Australian healthcare access is severity- and channel-triaged through GP referral, public hospitals, private care, and urgent-care clinics; radiographers perform clinical request review, image-quality judgment, urgent finding recognition, and escalation; patient-facing imaging communication must balance reassurance with privacy, professional scope, formal reporting, and follow-up.
+
+## [2026-09-11] ingest | 免费的权威，付费的体验
+
+Ingested the 2026-09-11 读报teleread episode on romance slump, premium cinema experience, and epistemic authority. Added source `mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4`; created `ModernRomanceSlump`, `PremiumCinemaExperienceEconomy`, `DigitalPublicSphereEpistemicAuthority`, and `CognitiveTrustAllocation`; updated `DuBaoTeleread`, `IMAX`, `overview`, and `index`. No settled contradiction found; dating, box-office, format, and authority-paper claims remain source-scoped to the episode.
+
 ## [2026-09-11] ingest | 董建華逝世：「愛國者元老」的香港人生
 
 Added source. Key claims: Tung Chee-hwa's path from shipping-family heir to first Hong Kong chief executive is tied to Orient Overseas' debt crisis, Beijing-backed business-elite selection, Tung-era governance shocks, Article 23, right-of-abode interpretation, mainland integration, land and public-resource privatization, and later establishment organization. No settled contradiction found.
@@ -2035,6 +2043,7 @@ Added source note for the 9 CE Wang Mang accession-consolidation backfill on fiv
 Added source note for the Duanwen episode on Taiwan nightjar livestream outrage, introduced common and white-vented mynas, native/alien/invasive species boundaries, driver-versus-passenger causality, and humane differentiated management. Created Xu Zhengfu, Feng Mengjie, Taiwan myna species pages, Taiwan Nighthawk, Invasive Species Moralization, Native-Alien Species Boundary, Driver-Passenger Invasion Model, and Taiwan Myna Management; updated Duanwen and Invasive Species Management. No settled contradiction found; Taiwan myna population impacts, livestream egg causality, and intervention efficacy remain source-scoped.
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-09-09] ingest | AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 Added source note for the What's Next episode with Song Le on AI for Science, GenBio AI, virtual-cell world models, biological harness engineering, data information value, active learning, protein language models, graph neural networks, and the boundary between automatable scientific labor and creative scientific discovery. No settled contradiction recorded; funding figures, model-performance claims, GenBio AI timelines, and AlphaFold-like maturity comparisons remain source-scoped.
@@ -17321,6 +17330,10 @@ Added source. Key claims: Li Xun turns earthquake, lunar eclipse, flood, and oth
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！
+
+Added source. Key claims: Zhai Fangjin answers Hu Chang's jealous public belittlement with visible respect for Hu's scholarship; recognition can defuse status-driven hostility when the other side remains capable of shame and reciprocity; the episode links conflict reduction to disciplined speech and caution against rash judgment.
+
 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》562丨汉哀帝即位时有多憋屈？
 
@@ -17509,6 +17522,49 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！
 
 Added source. Key claims: Han Aidi's early Yuefu abolition is framed as a new-leader first-move authority signal; disciplined first moves need target fit, justification, manageable resistance, and public-cost awareness; prestige-driven image projects can become face-project governance.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE before Hanji 558. Created pages for Chunyu Zhang and Empress Xu; updated Wang Mang, Wang Gen, Wang Li, Han Chengdi, Zhai Fangjin, Role Attachment and Power Exit, Persona-Shielded Political Purge, and Case-Expansion Political Purge. No settled contradiction found; Chunyu Zhang's full legal dossier, Wang Mang's inner motive, Wang Li's knowing exchange, Empress Xu's full biography, and Zhai Fangjin's private motive remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | AI safety concerns grow as insiders issue urgent warnings
+
+Added Marketplace Tech source on mainstreamed AI-doom concern, independent incident review, congressional pause politics, international coordination, Patagonia and Finland data-center siting, and Amazon Prime Video AI lip-sync dubbing. Updated Maria Curi, Mandatory AI Incident Investigation, Advanced AI Development Pause, Frontier AI Compute Monitoring, AI Dubbing, AI Data Center Site Selection, and Patagonia Region. No settled contradiction found; the OpenAI-Hugging Face incident details, Patagonia projects, Finland investment terms, and Amazon lip-sync economics remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yuanyan 1 / 12 BCE under Han Chengdi. Created Zhu Yun, Zhang Yu, and Xin Qingji pages; updated Han Chengdi with the broken-balustrade direct-speech clemency layer. No settled contradiction found; the episode supports Chengdi's remonstrance-tolerance precedent while remaining qualified by later Zhai Fangjin responsibility-evasion material.
+
+## [2026-09-11] ingest | Vol. 174 iPhone Duo买不买？苹果26秋季发布会
+
+Added Fengyan Fengyu source on Apple's 2026 fall event, iPhone Duo, foldable app adaptation, eSIM regional constraints, photo capture provenance, AirPods live translation, and Apple Watch health insights. Created iPhone Duo, Regional eSIM Constraint, Foldable App Adaptation, Photo Capture Provenance, and Wearable Health Insight pages. No settled contradiction found; specs, prices, eSIM rules, benchmark scores, and feature naming remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

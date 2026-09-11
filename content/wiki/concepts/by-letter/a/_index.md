@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7033
+wiki_total_pages: 7046
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -698,6 +698,9 @@ wiki_pages:
   - key: "AIDataCenterMemoryHierarchy"
     title: "AI Data Center Memory Hierarchy"
     url: "/wiki/concepts/aidatacentermemoryhierarchy/"
+  - key: "AIDataCenterSiteSelection"
+    title: "AI Data Center Site Selection"
+    url: "/wiki/concepts/aidatacentersiteselection/"
   - key: "AIDataFlywheel"
     title: "AI Data Flywheel / AI数据飞轮"
     url: "/wiki/concepts/aidataflywheel/"
@@ -2087,6 +2090,9 @@ wiki_pages:
   - key: "Austerity"
     title: "Austerity"
     url: "/wiki/concepts/austerity/"
+  - key: "AustralianHealthcareAccessTriage"
+    title: "Australian Healthcare Access Triage / 澳洲医疗可及性分诊"
+    url: "/wiki/concepts/australianhealthcareaccesstriage/"
   - key: "AustroHungarianDualMonarchy"
     title: "Austro-Hungarian Dual Monarchy"
     url: "/wiki/concepts/austrohungariandualmonarchy/"

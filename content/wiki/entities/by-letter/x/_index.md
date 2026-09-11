@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9677
+wiki_total_pages: 9688
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "XinDynasty"
     title: "Xin dynasty / 新朝"
     url: "/wiki/entities/xindynasty/"
+  - key: "XinQingjiWesternHan"
+    title: "Xin Qingji / 辛庆忌"
+    url: "/wiki/entities/xinqingjiwesternhan/"
   - key: "Xingbugudi"
     title: "Xingbugudi"
     url: "/wiki/entities/xingbugudi/"
@@ -503,6 +506,9 @@ wiki_pages:
   - key: "XueLanLateHan"
     title: "薛兰 / Xue Lan (late Han)"
     url: "/wiki/entities/xuelanlatehan/"
+  - key: "XueDoctorZheBing"
+    title: "薛医生 / Xue Doctor (这病说来话长)"
+    url: "/wiki/entities/xuedoctorzhebing/"
   - key: "XueWarringStates"
     title: "薛地 / Xue"
     url: "/wiki/entities/xuewarringstates/"

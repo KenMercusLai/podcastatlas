@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9677
+wiki_total_pages: 9688
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1313,6 +1313,9 @@ wiki_pages:
   - key: "CivilizationModernizationValueInvestmentChina"
     title: "《文明、现代化、价值投资与中国》"
     url: "/wiki/entities/civilizationmodernizationvalueinvestmentchina/"
+  - key: "Chunqiu"
+    title: "《春秋》 / Chunqiu"
+    url: "/wiki/entities/chunqiu/"
   - key: "CaoYinAndKangxi"
     title: "《曹寅与康熙》 / Ts'ao Yin and the K'ang-hsi Emperor"
     url: "/wiki/entities/caoyinandkangxi/"
@@ -1658,6 +1661,9 @@ wiki_pages:
   - key: "ChunyuYue"
     title: "淳于越 / Chunyu Yue"
     url: "/wiki/entities/chunyuyue/"
+  - key: "ChunyuZhangWesternHan"
+    title: "淳于长 / Chunyu Zhang (Western Han)"
+    url: "/wiki/entities/chunyuzhangwesternhan/"
   - key: "ChunyuKun"
     title: "淳于髡 / Chunyu Kun"
     url: "/wiki/entities/chunyukun/"

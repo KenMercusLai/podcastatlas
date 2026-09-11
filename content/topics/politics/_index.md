@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2370
+topic_total_pages: 2371
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -103,6 +103,9 @@ topic_concepts:
   - key: "AICyberDefenseUtility"
     title: "AI Cyber-Defense Utility"
     url: "/wiki/concepts/aicyberdefenseutility/"
+  - key: "AIDataCenterSiteSelection"
+    title: "AI Data Center Site Selection"
+    url: "/wiki/concepts/aidatacentersiteselection/"
   - key: "AIDeepfakeParodyBoundary"
     title: "AI Deepfake Parody Boundary"
     url: "/wiki/concepts/aideepfakeparodyboundary/"

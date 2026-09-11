@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1749
+topic_total_pages: 1753
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2813,6 +2813,9 @@ topic_entities:
   - key: "Feiqiu"
     title: "废丘 / Feiqiu"
     url: "/wiki/entities/feiqiu/"
+  - key: "EmpressXuWesternHan"
+    title: "废后许氏 / Empress Xu (Western Han)"
+    url: "/wiki/entities/empressxuwesternhan/"
   - key: "LianPo"
     title: "廉颇 / Lian Po"
     url: "/wiki/entities/lianpo/"
@@ -3185,6 +3188,9 @@ topic_entities:
   - key: "Huaiyin"
     title: "淮阴 / Huaiyin"
     url: "/wiki/entities/huaiyin/"
+  - key: "ChunyuZhangWesternHan"
+    title: "淳于长 / Chunyu Zhang (Western Han)"
+    url: "/wiki/entities/chunyuzhangwesternhan/"
   - key: "ChunyuKun"
     title: "淳于髡 / Chunyu Kun"
     url: "/wiki/entities/chunyukun/"
@@ -3500,6 +3506,9 @@ topic_entities:
   - key: "HuYanQiMinister"
     title: "胡衍 / Hu Yan (Qi Minister)"
     url: "/wiki/entities/huyanqiminister/"
+  - key: "HuChangWesternHan"
+    title: "胡长 / Hu Chang (Western Han)"
+    url: "/wiki/entities/huchangwesternhan/"
   - key: "ZangTu"
     title: "臧荼 / Zang Tu"
     url: "/wiki/entities/zangtu/"
@@ -4974,6 +4983,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx"
+    title: "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量"
+    url: "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
   - key: "zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9"
     title: "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？"
     url: "/wiki/sources/zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7033
+wiki_total_pages: 7046
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "MedicalDogmaTrustRepair"
     title: "Medical Dogma Trust Repair"
     url: "/wiki/concepts/medicaldogmatrustrepair/"
+  - key: "MedicalImagingCommunicationBoundary"
+    title: "Medical Imaging Communication Boundary / 影像检查沟通边界"
+    url: "/wiki/concepts/medicalimagingcommunicationboundary/"
   - key: "MedicalKnowledgeBoundary"
     title: "Medical Knowledge Boundary"
     url: "/wiki/concepts/medicalknowledgeboundary/"
@@ -866,6 +869,9 @@ wiki_pages:
   - key: "ModernPrometheusReading"
     title: "Modern Prometheus Reading / 现代普罗米修斯读法"
     url: "/wiki/concepts/modernprometheusreading/"
+  - key: "ModernRomanceSlump"
+    title: "Modern Romance Slump / 现代浪漫衰退"
+    url: "/wiki/concepts/modernromanceslump/"
   - key: "ModernTimeDiscipline"
     title: "Modern Time Discipline"
     url: "/wiki/concepts/moderntimediscipline/"

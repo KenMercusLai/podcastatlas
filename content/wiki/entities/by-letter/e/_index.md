@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 9677
+wiki_total_pages: 9688
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -554,6 +554,9 @@ wiki_pages:
   - key: "EmpressSongLateHan"
     title: "宋皇后 / Empress Song (late Han)"
     url: "/wiki/entities/empresssonglatehan/"
+  - key: "EmpressXuWesternHan"
+    title: "废后许氏 / Empress Xu (Western Han)"
+    url: "/wiki/entities/empressxuwesternhan/"
   - key: "EvergrandeFootballSchool"
     title: "恒大足校 / Evergrande Football School"
     url: "/wiki/entities/evergrandefootballschool/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7033
+wiki_total_pages: 7046
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1064,6 +1064,9 @@ wiki_pages:
   - key: "CognitiveSurrender"
     title: "Cognitive Surrender"
     url: "/wiki/concepts/cognitivesurrender/"
+  - key: "CognitiveTrustAllocation"
+    title: "Cognitive Trust Allocation / 认知信任分配"
+    url: "/wiki/concepts/cognitivetrustallocation/"
   - key: "CoinRetirementEconomics"
     title: "Coin Retirement Economics"
     url: "/wiki/concepts/coinretirementeconomics/"

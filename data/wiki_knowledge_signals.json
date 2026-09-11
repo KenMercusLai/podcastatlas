@@ -1461,6 +1461,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aidatabrokerdemand/"
     },
+    "AIDataCenterSiteSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260911_TECH_pod_128 [tech_20260911_TECH_pod_128].md",
+          "key": "tech-20260911-tech-pod-128-tech-20260911-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI safety concerns grow as insiders issue urgent warnings",
+          "url": "/wiki/sources/tech-20260911-tech-pod-128-tech-20260911-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/aidatacentersiteselection/"
+    },
     "AIDataReadiness": {
       "episode_count": 5,
       "show_count": 1,
@@ -1573,6 +1589,29 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/aidrivencreatormarketing/"
+    },
+    "AIDubbing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由 [b2be7093-3366-4ee2-8a7a-625f06206ae5].md",
+          "key": "e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5",
+          "show": "硅谷101",
+          "title": "E234｜未来实拍电影还存在吗？与导演陆川聊聊AI给影视人的恐惧与自由",
+          "url": "/wiki/sources/e234-weilai-shipai-dianying-hai-cunzai-ma-yu-daoyan-luchuan-liaoliao-ai-gei-yingshiren-de-kongju-yu-ziyou-b2be7093-3366-4ee2-8a7a-625f06206ae5/"
+        },
+        {
+          "episode_file": "tech_20260911_TECH_pod_128 [tech_20260911_TECH_pod_128].md",
+          "key": "tech-20260911-tech-pod-128-tech-20260911-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI safety concerns grow as insiders issue urgent warnings",
+          "url": "/wiki/sources/tech-20260911-tech-pod-128-tech-20260911-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/aidubbing/"
     },
     "AIEcommerceInfringementGovernance": {
       "episode_count": 1,
@@ -3728,9 +3767,9 @@
       "url": "/wiki/concepts/advancenewstradingexperiment/"
     },
     "AdvancedAIDevelopmentPause": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md",
@@ -3738,9 +3777,16 @@
           "show": "Marketplace Tech",
           "title": "What's so concerning about the Hugging Face hack?",
           "url": "/wiki/sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260911_TECH_pod_128 [tech_20260911_TECH_pod_128].md",
+          "key": "tech-20260911-tech-pod-128-tech-20260911-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI safety concerns grow as insiders issue urgent warnings",
+          "url": "/wiki/sources/tech-20260911-tech-pod-128-tech-20260911-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/advancedaidevelopmentpause/"
     },
     "AdvancedAgricultureInnovation": {
@@ -7465,6 +7511,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/australia/"
+    },
+    "AustralianHealthcareAccessTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liNOKNJP5Z9XAfma8_dKOGjUEqVb [liNOKNJP5Z9XAfma8_dKOGjUEqVb].md",
+          "key": "vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb",
+          "show": "这病说来话长",
+          "title": "VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差",
+          "url": "/wiki/sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/australianhealthcareaccesstriage/"
     },
     "AustriaHungary": {
       "episode_count": 3,
@@ -12504,9 +12566,9 @@
       "url": "/wiki/concepts/carrierbagnarrative/"
     },
     "CaseExpansionPoliticalPurge": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末 [lqVZEJFM1Sd8k0AmPorgI_mQHSrd].md",
@@ -12514,9 +12576,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/caseexpansionpoliticalpurge/"
     },
     "CaseReadyIntakeAI": {
@@ -15333,6 +15402,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/chuantouxushi/"
     },
+    "Chunqiu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！ [FqgUT61bpIhhdiT1D2I7tDO2RiDP].md",
+          "key": "zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/chunqiu/"
+    },
     "ChunyuQiong": {
       "episode_count": 3,
       "show_count": 1,
@@ -15362,6 +15447,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/chunyuqiong/"
+    },
+    "ChunyuZhangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/chunyuzhangwesternhan/"
     },
     "Circe": {
       "episode_count": 1,
@@ -16319,6 +16420,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/cognitiveresilience/"
+    },
+    "CognitiveTrustAllocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
+          "key": "mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4",
+          "show": "读报teleread",
+          "title": "免费的权威，付费的体验",
+          "url": "/wiki/sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/cognitivetrustallocation/"
     },
     "ColonelMadanEverestPilot": {
       "episode_count": 1,
@@ -21452,6 +21569,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/digitalmemorydefault/"
     },
+    "DigitalPublicSphereEpistemicAuthority": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
+          "key": "mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4",
+          "show": "读报teleread",
+          "title": "免费的权威，付费的体验",
+          "url": "/wiki/sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/digitalpublicsphereepistemicauthority/"
+    },
     "DigitalSovereignty": {
       "episode_count": 2,
       "show_count": 2,
@@ -23088,9 +23221,9 @@
       "url": "/wiki/concepts/dryeyechronicmanagement/"
     },
     "DuBaoTeleread": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
@@ -23105,9 +23238,16 @@
           "show": "读报teleread",
           "title": "总第069期 五周年台庆特辑 | 大主播vs小播客【上】：播客到底有啥好做的",
           "url": "/wiki/sources/zong-di-069-qi-wu-zhounian-taiqing-teji-da-zhubo-vs-xiao-boke-shang-boke-daodi-you-sha-hao-zuo-de-cmsprzpsb3a8701z6ha7w867u/"
+        },
+        {
+          "episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
+          "key": "mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4",
+          "show": "读报teleread",
+          "title": "免费的权威，付费的体验",
+          "url": "/wiki/sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "url": "/wiki/entities/dubaoteleread/"
     },
     "DuChongProtectorOfXiongnu": {
@@ -26811,6 +26951,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/empressxiaomuxin/"
+    },
+    "EmpressXuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/empressxuwesternhan/"
     },
     "EmpressYinHeLateHan": {
       "episode_count": 2,
@@ -30792,6 +30948,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/flywheelwordpresshosting/"
     },
+    "FoldableAppAdaptation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
+          "key": "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1",
+          "show": "枫言枫语",
+          "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
+          "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/foldableappadaptation/"
+    },
     "FolkMakerArtInterpretation": {
       "episode_count": 1,
       "show_count": 1,
@@ -32417,9 +32589,9 @@
       "url": "/wiki/entities/frontwave2documentary/"
     },
     "FrontierAIComputeMonitoring": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md",
@@ -32427,9 +32599,16 @@
           "show": "Marketplace Tech",
           "title": "What's so concerning about the Hugging Face hack?",
           "url": "/wiki/sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260911_TECH_pod_128 [tech_20260911_TECH_pod_128].md",
+          "key": "tech-20260911-tech-pod-128-tech-20260911-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI safety concerns grow as insiders issue urgent warnings",
+          "url": "/wiki/sources/tech-20260911-tech-pod-128-tech-20260911-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/frontieraicomputemonitoring/"
     },
     "FrontierCommandCollapse": {
@@ -37863,9 +38042,9 @@
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanChengdi": {
-      "episode_count": 8,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
@@ -37922,6 +38101,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》561丨惨惨惨！揭秘吃催情药死的皇帝NO.1！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
+          "key": "zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
         }
       ],
       "updated": "2026-09-11",
@@ -40943,6 +41136,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/howardhughesholdings/"
     },
+    "HuChangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！ [FqgUT61bpIhhdiT1D2I7tDO2RiDP].md",
+          "key": "zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/huchangwesternhan/"
+    },
     "HuFangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -42608,9 +42817,9 @@
       "url": "/wiki/entities/ikea/"
     },
     "IMAX": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《奥德赛》把爆米花装进特洛伊木马，好莱坞大片为何扎堆定制爆米花桶？ [1004599628].md",
@@ -42625,9 +42834,16 @@
           "show": "电影巨辩",
           "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
           "url": "/wiki/sources/dang-xila-lishi-meiguo-zhengzhi-nuolan-meixue-zai-aodesai-li-da-qilai-gkwrijiov2xkbtdknqthj-ue/"
+        },
+        {
+          "episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
+          "key": "mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4",
+          "show": "读报teleread",
+          "title": "免费的权威，付费的体验",
+          "url": "/wiki/sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-11",
       "url": "/wiki/entities/imax/"
     },
     "IMAXAuthenticityAesthetic": {
@@ -42675,6 +42891,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/imagentinterfaces/"
+    },
+    "IPhoneDuo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
+          "key": "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1",
+          "show": "枫言枫语",
+          "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
+          "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/iphoneduo/"
     },
     "IanHamiltonGallipoli": {
       "episode_count": 1,
@@ -50931,6 +51163,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/lihuaspeechtherapist/"
     },
+    "LilyRadiographer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liNOKNJP5Z9XAfma8_dKOGjUEqVb [liNOKNJP5Z9XAfma8_dKOGjUEqVb].md",
+          "key": "vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb",
+          "show": "这病说来话长",
+          "title": "VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差",
+          "url": "/wiki/sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/lilyradiographer/"
+    },
     "LiminalSleepTransitionPractice": {
       "episode_count": 1,
       "show_count": 1,
@@ -56705,9 +56953,9 @@
       "url": "/wiki/concepts/managedserviceautomationlayer/"
     },
     "MandatoryAIIncidentInvestigation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md",
@@ -56715,9 +56963,16 @@
           "show": "Marketplace Tech",
           "title": "What's so concerning about the Hugging Face hack?",
           "url": "/wiki/sources/tech-20260910-tech-pod-128-tech-20260910-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260911_TECH_pod_128 [tech_20260911_TECH_pod_128].md",
+          "key": "tech-20260911-tech-pod-128-tech-20260911-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI safety concerns grow as insiders issue urgent warnings",
+          "url": "/wiki/sources/tech-20260911-tech-pod-128-tech-20260911-tech-pod-128/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/mandatoryaiincidentinvestigation/"
     },
     "Mangshi": {
@@ -56957,6 +57212,64 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/marcusliviusdrusus/"
+    },
+    "MariaCurie": {
+      "episode_count": 7,
+      "show_count": 1,
+      "source_note_count": 7,
+      "sources": [
+        {
+          "episode_file": "tech_20260814_TECH_pod_128 [tech_20260814_TECH_pod_128].md",
+          "key": "tech-20260814-tech-pod-128-tech-20260814-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "States rush to police AI deepfakes ahead of midterm elections",
+          "url": "/wiki/sources/tech-20260814-tech-pod-128-tech-20260814-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260109_0109_MP_TECH_pod_128 [tech_20260109_0109_MP_TECH_pod_128].md",
+          "key": "tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - New year, new state AI laws, new showdown with Trump admin.",
+          "url": "/wiki/sources/tech-20260109-0109-mp-tech-pod-128-tech-20260109-0109-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260417_0417_MP_TECH_pod_128 [tech_20260417_0417_MP_TECH_pod_128].md",
+          "key": "tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - AI companies divided over proposed state law, Amazon buys Globalstar, and Spotify to sell physical books",
+          "url": "/wiki/sources/tech-20260417-0417-mp-tech-pod-128-tech-20260417-0417-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260710_TECH_pod_128 [tech_20260710_TECH_pod_128].md",
+          "key": "tech-20260710-tech-pod-128-tech-20260710-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "OpenAI's GPT-5.6 release raises questions about White House control over new models",
+          "url": "/wiki/sources/tech-20260710-tech-pod-128-tech-20260710-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260327_0327_MP_TECH_pod_128 [tech_20260327_0327_MP_TECH_pod_128].md",
+          "key": "tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Meta, YouTube's social media addiction case, a new AI literacy course, and Kalshi's prediction market self-regulation",
+          "url": "/wiki/sources/tech-20260327-0327-mp-tech-pod-128-tech-20260327-0327-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260227_0227_MP_TECH_pod_128 [tech_20260227_0227_MP_TECH_pod_128].md",
+          "key": "tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic and the Pentagon face off, OpenAI teams up with consulting firms and Mac Mini moves to the U.S.",
+          "url": "/wiki/sources/tech-20260227-0227-mp-tech-pod-128-tech-20260227-0227-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "tech_20260911_TECH_pod_128 [tech_20260911_TECH_pod_128].md",
+          "key": "tech-20260911-tech-pod-128-tech-20260911-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI safety concerns grow as insiders issue urgent warnings",
+          "url": "/wiki/sources/tech-20260911-tech-pod-128-tech-20260911-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/mariacurie/"
     },
     "MariaLeopoldina": {
       "episode_count": 1,
@@ -57685,6 +57998,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/medicaldogmatrustrepair/"
+    },
+    "MedicalImagingCommunicationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liNOKNJP5Z9XAfma8_dKOGjUEqVb [liNOKNJP5Z9XAfma8_dKOGjUEqVb].md",
+          "key": "vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb",
+          "show": "这病说来话长",
+          "title": "VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差",
+          "url": "/wiki/sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/medicalimagingcommunicationboundary/"
     },
     "MedicationSelfCombinationRisk": {
       "episode_count": 1,
@@ -59716,6 +60045,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/modernpoliticalwritingposture/"
+    },
+    "ModernRomanceSlump": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
+          "key": "mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4",
+          "show": "读报teleread",
+          "title": "免费的权威，付费的体验",
+          "url": "/wiki/sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/modernromanceslump/"
     },
     "Moderna": {
       "episode_count": 5,
@@ -65450,6 +65795,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/patgelsinger/"
     },
+    "PatagoniaRegion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "tech_20260911_TECH_pod_128 [tech_20260911_TECH_pod_128].md",
+          "key": "tech-20260911-tech-pod-128-tech-20260911-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "AI safety concerns grow as insiders issue urgent warnings",
+          "url": "/wiki/sources/tech-20260911-tech-pod-128-tech-20260911-tech-pod-128/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/patagoniaregion/"
+    },
     "PaternalLocalOfficeEthic": {
       "episode_count": 1,
       "show_count": 1,
@@ -66151,9 +66512,9 @@
       "url": "/wiki/concepts/persistentcloudagents/"
     },
     "PersonaShieldedPoliticalPurge": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
@@ -66168,9 +66529,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪",
           "url": "/wiki/sources/zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/personashieldedpoliticalpurge/"
     },
     "PersonalGuardAttackSurface": {
@@ -66452,6 +66820,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/philippines/"
+    },
+    "PhotoCaptureProvenance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
+          "key": "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1",
+          "show": "枫言枫语",
+          "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
+          "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/photocaptureprovenance/"
     },
     "PhysicalAIHardTakeoff": {
       "episode_count": 1,
@@ -68555,6 +68939,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/concepts/pregnancyurinalysistriage/"
+    },
+    "PremiumCinemaExperienceEconomy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
+          "key": "mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4",
+          "show": "读报teleread",
+          "title": "免费的权威，付费的体验",
+          "url": "/wiki/sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/premiumcinemaexperienceeconomy/"
     },
     "PreoperativeAnesthesiaAssessment": {
       "episode_count": 1,
@@ -71138,6 +71538,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/radicalacceptancechronicstress/"
     },
+    "RadiographerClinicalResponsibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liNOKNJP5Z9XAfma8_dKOGjUEqVb [liNOKNJP5Z9XAfma8_dKOGjUEqVb].md",
+          "key": "vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb",
+          "show": "这病说来话长",
+          "title": "VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差",
+          "url": "/wiki/sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/radiographerclinicalresponsibility/"
+    },
     "RadiopharmaceuticalDrugConjugates": {
       "episode_count": 2,
       "show_count": 2,
@@ -72017,6 +72433,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/regimesymbolcontinuity/"
     },
+    "RegionalESIMConstraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
+          "key": "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1",
+          "show": "枫言枫语",
+          "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
+          "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/regionalesimconstraint/"
+    },
     "RegionalSelfPreservationAlliance": {
       "episode_count": 1,
       "show_count": 1,
@@ -72890,6 +73322,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/resourceasymmetryattrition/"
+    },
+    "RespectBasedConflictDeescalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！ [FqgUT61bpIhhdiT1D2I7tDO2RiDP].md",
+          "key": "zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/respectbasedconflictdeescalation/"
     },
     "RestaurantDeliveryExtension": {
       "episode_count": 1,
@@ -74065,9 +74513,9 @@
       "url": "/wiki/entities/rogermortimer/"
     },
     "RoleAttachmentPowerExit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -74075,6 +74523,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
         }
       ],
       "updated": "2026-09-11",
@@ -89279,9 +89734,9 @@
       "url": "/wiki/entities/wangfulatehan/"
     },
     "WangGenWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -89289,6 +89744,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
         }
       ],
       "updated": "2026-09-11",
@@ -89702,9 +90164,9 @@
       "url": "/wiki/entities/wanglanghebeiclaimant/"
     },
     "WangLiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
@@ -89712,6 +90174,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
         }
       ],
       "updated": "2026-09-10",
@@ -89780,9 +90249,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 33,
+      "episode_count": 34,
       "show_count": 2,
-      "source_note_count": 33,
+      "source_note_count": 34,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -90014,6 +90483,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问",
           "url": "/wiki/sources/zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
         }
       ],
       "updated": "2026-09-11",
@@ -90878,6 +91354,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
+    },
+    "WearableHealthInsight": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
+          "key": "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1",
+          "show": "枫言枫语",
+          "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
+          "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/wearablehealthinsight/"
     },
     "WearableOpticalDisplayFriction": {
       "episode_count": 1,
@@ -94266,6 +94758,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/xinpinmu/"
     },
+    "XinQingjiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
+          "key": "zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/xinqingjiwesternhan/"
+    },
     "XinYuanYangHuDieMeng": {
       "episode_count": 2,
       "show_count": 2,
@@ -95023,6 +95531,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/xuanzongstandup/"
+    },
+    "XueDoctorZheBing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liNOKNJP5Z9XAfma8_dKOGjUEqVb [liNOKNJP5Z9XAfma8_dKOGjUEqVb].md",
+          "key": "vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb",
+          "show": "这病说来话长",
+          "title": "VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差",
+          "url": "/wiki/sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/xuedoctorzhebing/"
     },
     "XueFangXinRecluse": {
       "episode_count": 1,
@@ -97998,9 +98522,9 @@
       "url": "/wiki/entities/zhaichaolatehan/"
     },
     "ZhaiFangjinWesternHan": {
-      "episode_count": 2,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -98015,6 +98539,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！ [FqgUT61bpIhhdiT1D2I7tDO2RiDP].md",
+          "key": "zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
+          "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
         }
       ],
       "updated": "2026-09-11",
@@ -99202,6 +99740,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhangyueasternhan/"
+    },
+    "ZhangYuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
+          "key": "zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/zhangyuwesternhan/"
     },
     "ZhangZhaoLateHan": {
       "episode_count": 3,
@@ -101466,6 +102020,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/zhuyulatehan/"
+    },
+    "ZhuYunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
+          "key": "zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/zhuyunwesternhan/"
     },
     "ZhuYunde": {
       "episode_count": 1,

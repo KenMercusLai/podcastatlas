@@ -6,7 +6,8 @@ tags: [politics, court-politics, power, deception]
 sources:
   - zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut
   - zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st
-last_updated: 2026-09-10
+  - zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx
+last_updated: 2026-09-11
 ---
 
 ## Definition
@@ -15,7 +16,7 @@ Persona-shielded political purge / 人设护盾式政治清除 is the mechanism 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]] and [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]] create the source case through [[WangMang|王莽]]'s early cleanup politics. Hanji 605 shows him using [[KongGuangWesternHan|孔光]]'s prestige and caution as a legitimacy channel: accusation drafts can be prepared by Wang Mang's side, delivered through [[ZhenHanXinOfficial|甄邯]], and made to look like high-level court procedure rather than personal selection of targets. Hanji 606 sharpens the mechanism through Wang Mang's removal of [[WangLiWesternHan|王立]]. Because Wang Li is Wang Mang's uncle and [[WangZhengjun|王政君]]'s brother, Wang Mang cannot openly attack him without damaging the persona of upright kinship, humility, and public-minded rectitude that supports his power.
+[[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]], [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]], and [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]] create the source case through [[WangMang|王莽]]'s cleanup politics. Hanji 557 supplies the earlier seed form: Wang Mang attacks [[ChunyuZhangWesternHan|淳于长]] through [[WangGenWesternHan|王根]]'s sickbed, [[WangZhengjun|王政君]]'s dowager channel, and [[HanChengdi|汉成帝]]'s final authority rather than as a naked personal contest. Hanji 605 shows him using [[KongGuangWesternHan|孔光]]'s prestige and caution as a legitimacy channel: accusation drafts can be prepared by Wang Mang's side, delivered through [[ZhenHanXinOfficial|甄邯]], and made to look like high-level court procedure rather than personal selection of targets. Hanji 606 sharpens the mechanism through Wang Mang's removal of [[WangLiWesternHan|王立]]. Because Wang Li is Wang Mang's uncle and Wang Zhengjun's brother, Wang Mang cannot openly attack him without damaging the persona of upright kinship, humility, and public-minded rectitude that supports his power.
 
 The solution is procedural indirection. [[KongGuangWesternHan|孔光]] supplies the formal impeachment, using old accusations and an heir-proposal danger. When Wang Zhengjun resists, Wang Mang reframes the issue as a fragile succession problem and warns that dowager private feeling could corrupt ministers. The personal threat is thus converted into a public-order question.
 
@@ -41,14 +42,15 @@ The sources extend the pattern beyond Wang Li. In Hanji 605, older cases and old
 - Operator network: [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]] lists trusted figures controlling judicial, document, secretarial, and military functions.
 - Performance layer: [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]] says Wang Mang could hint, let allies memorialize, then kneel, cry, and refuse as if uninvolved.
 - Proxy backlash: [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]] says Kong Guang realizes he has become a puppet-like tool under Wang Mang.
+- Seed form: [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] says Wang Mang first reports Chunyu Zhang to the ill Wang Gen, then carries the charge through Wang Zhengjun to Chengdi.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove Wang Mang's private psychology beyond source-backed actions and the host's interpretation. It also does not say every indirect impeachment is a purge; the pattern requires a mismatch between the public procedure and the private power interest being protected. Hanji 605's claims about old resentment, Kong Guang's awareness, and the exact legality of each target's punishment remain source-scoped. Wang Li's full culpability, Kong Guang's degree of consent, and Wang Zhengjun's inner judgment remain source-scoped.
+The concept does not prove Wang Mang's private psychology beyond source-backed actions and the host's interpretation. It also does not say every indirect impeachment is a purge; the pattern requires a mismatch between the public procedure and the private power interest being protected. Hanji 557 supports an earlier family-channel accusation, but not whether Wang Mang foresaw every later case escalation. Hanji 605's claims about old resentment, Kong Guang's awareness, and the exact legality of each target's punishment remain source-scoped. Wang Li's full culpability, Kong Guang's degree of consent, and Wang Zhengjun's inner judgment remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 605's drafted-accusation and respected-intermediary layer before Hanji 606's Wang Li removal case.
+- Added Hanji 557's earlier sickbed-and-dowager accusation channel against Chunyu Zhang as a seed form before the later Kong Guang proxy cases.
 
 ## Related Concepts
 

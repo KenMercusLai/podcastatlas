@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7033
+wiki_total_pages: 7046
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "PhilosophyWorkplaceSatire"
     title: "Philosophy Workplace Satire"
     url: "/wiki/concepts/philosophyworkplacesatire/"
+  - key: "PhotoCaptureProvenance"
+    title: "Photo Capture Provenance"
+    url: "/wiki/concepts/photocaptureprovenance/"
   - key: "PhotolithographyBottleneck"
     title: "Photolithography Bottleneck"
     url: "/wiki/concepts/photolithographybottleneck/"
@@ -1142,6 +1145,9 @@ wiki_pages:
   - key: "PremiumBottledWaterEconomics"
     title: "Premium Bottled Water Economics"
     url: "/wiki/concepts/premiumbottledwatereconomics/"
+  - key: "PremiumCinemaExperienceEconomy"
+    title: "Premium Cinema Experience Economy / 影院体验经济"
+    url: "/wiki/concepts/premiumcinemaexperienceeconomy/"
   - key: "PremiumHaircareMarket"
     title: "Premium Haircare Market / 高端洗护市场"
     url: "/wiki/concepts/premiumhaircaremarket/"

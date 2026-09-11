@@ -4,15 +4,15 @@ generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
 last_updated: 2026-09-11
-as_of_overview_commit: dc4f99b603b28618ba37f6d767f100574b7ed86b
-input_digest: 38a7ed096ca5a3758bea65dd369182e89c91975e8e2538ad19ae3544f5faac5b
+as_of_overview_commit: e17050be33fef52a3ad7147c7f6657ffafb83cf7
+input_digest: 7337eeb31bda211a2c75f0f7c18fd35f885be05717428324f103a9b884de7d52
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 601-1 adds a source-scoped Western Han boundary case: classical appointment wording and banquet speech turn Dong Xian's favorite status into a dynastic-succession and public-office problem. Hanji 575 adds a Western Han secrecy-and-ritual case: a confidential memorial leak lets opponents convert principled correction over Dingtao-line status into punishable disrespect.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, and administrative information flow repeatedly determine outcomes. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's wider cleanup.
 
 ## Cross-source Findings
 
@@ -2177,3 +2177,15 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 **Qualifications:**
 
 - The claim is bounded to Hanji 601-1; the source does not prove a completed abdication plan or the exact intention behind the appointment phrase.
+
+### Chunyu Zhang Case Expansion Turns Dismissal Into Purge
+
+[[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] adds a Western Han governance case where limited dismissal becomes lethal case expansion: [[WangMang|王莽]] routes accusation against [[ChunyuZhangWesternHan|淳于长]] through [[WangGenWesternHan|王根]] and [[HanChengdi|汉成帝]], Chunyu's restoration attempt through [[WangLiWesternHan|王立]] reopens investigation, and [[EmpressXuWesternHan|废后许氏]] scandal plus [[ZhaiFangjinWesternHan|翟方进]]'s wider impeachment turn factional exposure into broader cleanup.
+
+**Evidence:** [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx]], [[WangMang]], [[ChunyuZhangWesternHan]], [[WangGenWesternHan]], [[HanChengdi]], [[WangLiWesternHan]], [[EmpressXuWesternHan]], [[ZhaiFangjinWesternHan]], [[RoleAttachmentPowerExit]], [[PersonaShieldedPoliticalPurge]], [[CaseExpansionPoliticalPurge]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one Hanji 557 summary and does not reconstruct the complete legal dossier against Chunyu Zhang.
+- Wang Mang's inner motive, Wang Li's degree of knowing exchange, Empress Xu's full biography, and Zhai Fangjin's private motive remain source-scoped.
+- The source supports case expansion and role-exit failure, not a general rule that every demotion can safely become a purge.

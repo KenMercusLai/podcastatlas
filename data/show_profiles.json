@@ -590,7 +590,7 @@
       "earliest_episode_date": "2025-12-08",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "tech_20260911_TECH_pod_128 [tech_20260911_TECH_pod_128].md",
-      "source_note_count": 143,
+      "source_note_count": 144,
       "topic_matched_source_note_count": 112,
       "topics": [
         {
@@ -2360,20 +2360,26 @@
       "earliest_episode_date": "2026-02-01",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
-      "source_note_count": 12,
-      "topic_matched_source_note_count": 12,
+      "source_note_count": 13,
+      "topic_matched_source_note_count": 13,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 12
+          "source_note_count": 13
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
           "source_note_count": 2
+        },
+        {
+          "key": "science",
+          "label": "Science",
+          "url": "/topics/science/",
+          "source_note_count": 1
         }
       ],
       "entities": [
@@ -2421,8 +2427,8 @@
         }
       ],
       "start_here_episode_files": [
-        "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
         "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
+        "Vol. 173 苹果换帅，Claude 5.1 发布，GLM 低价偷家，英伟达要买 Hugging Face 等 (1) [6689-1].md",
         "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
         "Vol. 171 假如我们有无限 Token (1) [6682-1].md"
       ]
@@ -2928,14 +2934,14 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
-      "source_note_count": 825,
-      "topic_matched_source_note_count": 323,
+      "source_note_count": 828,
+      "topic_matched_source_note_count": 324,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 275
+          "source_note_count": 276
         },
         {
           "key": "politics",
@@ -3199,7 +3205,7 @@
       "earliest_episode_date": "2026-08-12",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
-      "source_note_count": 2,
+      "source_note_count": 3,
       "topic_matched_source_note_count": 2,
       "topics": [
         {
@@ -3325,7 +3331,7 @@
       "earliest_episode_date": "2022-12-15",
       "latest_episode_date": "2026-09-08",
       "latest_episode_file": "lneMOgQ8gB9o3E2835jvtFX3EMiy [lneMOgQ8gB9o3E2835jvtFX3EMiy].md",
-      "source_note_count": 23,
+      "source_note_count": 24,
       "topic_matched_source_note_count": 3,
       "topics": [
         {

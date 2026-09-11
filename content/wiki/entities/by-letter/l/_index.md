@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9677
+wiki_total_pages: 9688
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -383,6 +383,9 @@ wiki_pages:
   - key: "LilyKanter"
     title: "Lily Kanter"
     url: "/wiki/entities/lilykanter/"
+  - key: "LilyRadiographer"
+    title: "Lily Radiographer / 澳洲放射师 Lily"
+    url: "/wiki/entities/lilyradiographer/"
   - key: "Limitless"
     title: "Limitless"
     url: "/wiki/entities/limitless/"

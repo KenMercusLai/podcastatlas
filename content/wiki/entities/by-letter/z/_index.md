@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9677
+wiki_total_pages: 9688
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -98,6 +98,9 @@ wiki_pages:
   - key: "ZhangYiming"
     title: "Zhang Yiming"
     url: "/wiki/entities/zhangyiming/"
+  - key: "ZhangYuWesternHan"
+    title: "Zhang Yu / 张瑜 (Western Han)"
+    url: "/wiki/entities/zhangyuwesternhan/"
   - key: "ZhangZiqiang"
     title: "Zhang Ziqiang / 张子强"
     url: "/wiki/entities/zhangziqiang/"
@@ -179,6 +182,9 @@ wiki_pages:
   - key: "ZhuXiaodongYunsheng"
     title: "Zhu Xiaodong / 竺晓冬 (Yunsheng)"
     url: "/wiki/entities/zhuxiaodongyunsheng/"
+  - key: "ZhuYunWesternHan"
+    title: "Zhu Yun / 朱云 (Western Han)"
+    url: "/wiki/entities/zhuyunwesternhan/"
   - key: "ZhuYunde"
     title: "Zhu Yunde / 竺韵德"
     url: "/wiki/entities/zhuyunde/"

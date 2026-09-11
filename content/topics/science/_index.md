@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 996
+topic_total_pages: 999
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1690,6 +1690,9 @@ topic_concepts:
   - key: "WeakSignalDetection"
     title: "Weak Signal Detection / 微弱信号探测"
     url: "/wiki/concepts/weaksignaldetection/"
+  - key: "WearableHealthInsight"
+    title: "Wearable Health Insight"
+    url: "/wiki/concepts/wearablehealthinsight/"
   - key: "WeismannBarrier"
     title: "Weismann Barrier"
     url: "/wiki/concepts/weismannbarrier/"
@@ -1723,6 +1726,9 @@ topic_concepts:
   - key: "ShouzhuoDecisiveRestraint"
     title: "守拙式临事决断 / Shouzhuo Decisive Restraint"
     url: "/wiki/concepts/shouzhuodecisiverestraint/"
+  - key: "RespectBasedConflictDeescalation"
+    title: "尊重式冲突降温 / Respect-Based Conflict De-escalation"
+    url: "/wiki/concepts/respectbasedconflictdeescalation/"
   - key: "ImperialDeathCauseInference"
     title: "帝王死因史料推断 / Imperial Death-Cause Inference"
     url: "/wiki/concepts/imperialdeathcauseinference/"
@@ -2934,6 +2940,9 @@ topic_sources:
   - key: "using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040"
     title: "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li"
     url: "/wiki/sources/using-ai-to-increase-your-intelligence-enrich-humanity-dr-fei-fei-li-scim5701398040/"
+  - key: "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1"
+    title: "Vol. 174 iPhone Duo买不买？苹果26秋季发布会"
+    url: "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
   - key: "vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz"
     title: "VOL.214 为什么越优秀的人，越容易在职场被PUA到怀疑自己？从《铁拳教育》聊到“铁拳职场”"
     url: "/wiki/sources/vol-214-weishenme-yue-youxiu-de-ren-yue-rongyi-zai-zhichang-bei-pua-dao-huaiyi-ziji-cong-tiequan-jiaoyu-liaodao-tiequan-zhichang-lmx4ewrw7kvcqpyh-q3bur35ybgz/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 9677
+wiki_total_pages: 9688
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "IPhone"
     title: "iPhone"
     url: "/wiki/entities/iphone/"
+  - key: "IPhoneDuo"
+    title: "iPhone Duo"
+    url: "/wiki/entities/iphoneduo/"
   - key: "IPod"
     title: "iPod"
     url: "/wiki/entities/ipod/"

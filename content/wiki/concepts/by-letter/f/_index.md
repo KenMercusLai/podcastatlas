@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7033
+wiki_total_pages: 7046
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -563,6 +563,9 @@ wiki_pages:
   - key: "FoieGrasWelfareTradeoff"
     title: "Foie Gras Welfare Tradeoff / 鹅肝福利权衡"
     url: "/wiki/concepts/foiegraswelfaretradeoff/"
+  - key: "FoldableAppAdaptation"
+    title: "Foldable App Adaptation"
+    url: "/wiki/concepts/foldableappadaptation/"
   - key: "FoldablePhoneProductivity"
     title: "Foldable Phone Productivity"
     url: "/wiki/concepts/foldablephoneproductivity/"
