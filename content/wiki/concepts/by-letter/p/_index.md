@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7068
+wiki_total_pages: 7069
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1478,6 +1478,9 @@ wiki_pages:
   - key: "PromotionPositionFit"
     title: "Promotion Position Fit / 升职位置匹配"
     url: "/wiki/concepts/promotionpositionfit/"
+  - key: "PromotionStatusRelationshipRupture"
+    title: "Promotion-Status Relationship Rupture / 升职后的关系破裂"
+    url: "/wiki/concepts/promotionstatusrelationshiprupture/"
   - key: "PromptAsIntentTransmission"
     title: "Prompt As Intent Transmission"
     url: "/wiki/concepts/promptasintenttransmission/"

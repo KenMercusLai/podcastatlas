@@ -13716,6 +13716,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/chentangwesternhan/"
     },
+    "ChenXianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？ [lu_aJSIUsjOJPwlwlroehw7jebGM].md",
+          "key": "zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/chenxianwesternhan/"
+    },
     "ChenXianXinOfficial": {
       "episode_count": 1,
       "show_count": 1,
@@ -30353,6 +30369,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/fengxiaogang/"
+    },
+    "FengXinWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？ [lu_aJSIUsjOJPwlwlroehw7jebGM].md",
+          "key": "zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/fengxinwesternhan/"
     },
     "FengYanEasternHan": {
       "episode_count": 2,
@@ -70531,6 +70563,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/promotionpositionfit/"
     },
+    "PromotionStatusRelationshipRupture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？ [lu_aJSIUsjOJPwlwlroehw7jebGM].md",
+          "key": "zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/promotionstatusrelationshiprupture/"
+    },
     "ProphecyTriggeredPolicy": {
       "episode_count": 6,
       "show_count": 1,
@@ -99849,9 +99897,9 @@
       "url": "/wiki/entities/zhaichaolatehan/"
     },
     "ZhaiFangjinWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -99887,6 +99935,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》540丨太后的葬礼",
           "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？ [lu_aJSIUsjOJPwlwlroehw7jebGM].md",
+          "key": "zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm/"
         }
       ],
       "updated": "2026-09-12",

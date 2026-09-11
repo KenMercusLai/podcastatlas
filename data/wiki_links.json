@@ -11143,6 +11143,10 @@
     "title": "陈豨之乱 / Chen Xi Rebellion",
     "url": "/wiki/entities/chenxirebellion/"
   },
+  "ChenXianWesternHan": {
+    "title": "陈贤 / Chen Xian (Western Han)",
+    "url": "/wiki/entities/chenxianwesternhan/"
+  },
   "ChenXianXinOfficial": {
     "title": "陈贤 / Chen Xian (Xin-era official)",
     "url": "/wiki/entities/chenxianxinofficial/"
@@ -21002,6 +21006,10 @@
   "FengXiaogang": {
     "title": "Feng Xiaogang / 冯小刚",
     "url": "/wiki/entities/fengxiaogang/"
+  },
+  "FengXinWesternHan": {
+    "title": "冯信 / Feng Xin (Western Han)",
+    "url": "/wiki/entities/fengxinwesternhan/"
   },
   "FengXuLateHan": {
     "title": "封谞 / Feng Xu (late Han)",
@@ -47074,6 +47082,10 @@
   "PromotionPositionFit": {
     "title": "Promotion Position Fit / 升职位置匹配",
     "url": "/wiki/concepts/promotionpositionfit/"
+  },
+  "PromotionStatusRelationshipRupture": {
+    "title": "Promotion-Status Relationship Rupture / 升职后的关系破裂",
+    "url": "/wiki/concepts/promotionstatusrelationshiprupture/"
   },
   "PromptAsIntentTransmission": {
     "title": "Prompt As Intent Transmission",
@@ -73274,6 +73286,10 @@
   "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd": {
     "title": "《资治通鉴·汉纪》540丨太后的葬礼",
     "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+  },
+  "zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm": {
+    "title": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm/"
   },
   "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2": {
     "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9726
+wiki_total_pages: 9728
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "FengTing"
     title: "冯亭 / Feng Ting"
     url: "/wiki/entities/fengting/"
+  - key: "FengXinWesternHan"
+    title: "冯信 / Feng Xin (Western Han)"
+    url: "/wiki/entities/fengxinwesternhan/"
   - key: "FengJieQin"
     title: "冯劫 / 冯杰 / Feng Jie (Qin)"
     url: "/wiki/entities/fengjieqin/"

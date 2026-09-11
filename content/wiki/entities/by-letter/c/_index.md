@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9726
+wiki_total_pages: 9728
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1997,6 +1997,9 @@ wiki_pages:
   - key: "ChenXiRebellion"
     title: "陈豨之乱 / Chen Xi Rebellion"
     url: "/wiki/entities/chenxirebellion/"
+  - key: "ChenXianWesternHan"
+    title: "陈贤 / Chen Xian (Western Han)"
+    url: "/wiki/entities/chenxianwesternhan/"
   - key: "ChenXianXinOfficial"
     title: "陈贤 / Chen Xian (Xin-era official)"
     url: "/wiki/entities/chenxianxinofficial/"

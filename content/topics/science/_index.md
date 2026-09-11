@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1008
+topic_total_pages: 1009
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1225,6 +1225,9 @@ topic_concepts:
   - key: "ProjectBasedScienceLearning"
     title: "Project-Based Science Learning / 项目式科学学习"
     url: "/wiki/concepts/projectbasedsciencelearning/"
+  - key: "PromotionStatusRelationshipRupture"
+    title: "Promotion-Status Relationship Rupture / 升职后的关系破裂"
+    url: "/wiki/concepts/promotionstatusrelationshiprupture/"
   - key: "ProteinLanguageModels"
     title: "Protein Language Models"
     url: "/wiki/concepts/proteinlanguagemodels/"
