@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1783
+topic_total_pages: 1785
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1375,6 +1375,9 @@ topic_concepts:
   - key: "HistoricalPrecedentCrisisPlanning"
     title: "历史先例式危机规划 / Historical Precedent Crisis Planning"
     url: "/wiki/concepts/historicalprecedentcrisisplanning/"
+  - key: "HistoricalFemaleRoleModelCaution"
+    title: "历史女性榜样化警惕 / Historical Female Role-Model Caution"
+    url: "/wiki/concepts/historicalfemalerolemodelcaution/"
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"
@@ -5070,6 +5073,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll"
+    title: "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
   - key: "zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id"
     title: "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？"
     url: "/wiki/sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id/"

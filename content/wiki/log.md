@@ -17656,6 +17656,10 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongsh
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？
+
+Added source note for Hanji 536-2, created Shangguan Wan'er and Historical Female Role-Model Caution, and migrated Wu Zetian to synthesis-v1 with a new court-power branch. No settled contradiction found; Shangguan Wan'er's later Zhongzong, Empress Wei, Princess Taiping, and death-related politics remain outside this source.
+
 ## [2026-09-12] ingest | No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？
 
 Added source note for 三五环 No.233, created DeviceFormFactorFragmentation, migrated and extended FoldablePhoneProductivity, and updated iPhone Duo and FoldableAppAdaptation around old-experience evaluation, Apple ecosystem advantage, China-market app adaptation, and foldable-phone non-replacement.
@@ -17778,6 +17782,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

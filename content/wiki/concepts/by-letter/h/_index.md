@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7080
+wiki_total_pages: 7081
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -728,6 +728,9 @@ wiki_pages:
   - key: "HistoricalPrecedentCrisisPlanning"
     title: "历史先例式危机规划 / Historical Precedent Crisis Planning"
     url: "/wiki/concepts/historicalprecedentcrisisplanning/"
+  - key: "HistoricalFemaleRoleModelCaution"
+    title: "历史女性榜样化警惕 / Historical Female Role-Model Caution"
+    url: "/wiki/concepts/historicalfemalerolemodelcaution/"
   - key: "HistoricalReportingAIHallucination"
     title: "历史报道中的AI幻觉 / Historical Reporting AI Hallucination"
     url: "/wiki/concepts/historicalreportingaihallucination/"

@@ -40761,6 +40761,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/historicalcritiquetolerance/"
     },
+    "HistoricalFemaleRoleModelCaution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？ [lpWfOyDuhWjAbnVpi6ZVodkbk5LL].md",
+          "key": "zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/historicalfemalerolemodelcaution/"
+    },
     "HistoricalPrecedentCrisisPlanning": {
       "episode_count": 1,
       "show_count": 1,
@@ -78665,6 +78681,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/shangxiabanchang/"
     },
+    "ShangguanWaner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？ [lpWfOyDuhWjAbnVpi6ZVodkbk5LL].md",
+          "key": "zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/shangguanwaner/"
+    },
     "ShanghaiArtDecoArchitecture": {
       "episode_count": 1,
       "show_count": 1,
@@ -95051,6 +95083,29 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/wuyoulatehan/"
+    },
+    "WuZetian": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "90.酉阳杂俎：血滴子和武则天手指上的黑毛 [712539933].md",
+          "key": "90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933",
+          "show": "蜜獾吃书",
+          "title": "90.酉阳杂俎：血滴子和武则天手指上的黑毛",
+          "url": "/wiki/sources/90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？ [lpWfOyDuhWjAbnVpi6ZVodkbk5LL].md",
+          "key": "zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wuzetian/"
     },
     "WuZhangWesternHan": {
       "episode_count": 1,

@@ -1,19 +1,52 @@
 ---
 title: "武则天 / Wu Zetian"
 type: entity
+knowledge_schema: synthesis-v1
 tags: [person, ruler, tang-dynasty, china]
-sources: [90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933]
-last_updated: 2026-07-18
+sources:
+  - 90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933
+  - zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll
+last_updated: 2026-09-12
 ---
 
-# 武则天 / Wu Zetian
+## Overview
 
-武则天 / Wu Zetian appears in [[90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933]] through the episode's title and its early example of [[YouyangZazu|《酉阳杂俎》]] preserving court rumor: the hosts mention a report that her right middle finger had black hair. The page is source-scoped; it does not attempt a full biography of Wu Zetian.
+Wu Zetian is currently represented by two source-scoped branches: a Tang miscellany/court-rumor appearance in [[90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933|90. 酉阳杂俎]] and a court-power case in [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]]. The page is still not a full biography, but it now has a substantive role in explaining how ruler power, talent selection, risk tolerance, and later memory gather around Wu Zetian.
 
-In this ingest, Wu Zetian's function is to mark the range of [[YouyangZazu|《酉阳杂俎》]]. The book can preserve imperial anecdote beside monsters, plants, Buddhist hells, Daoist practices, and folk tales. That range is why the source reads it through [[TangMiscellanyArchiveValue]] rather than only through志怪 entertainment.
+## Current Profile
 
-## Connections
-- [[YouyangZazu|《酉阳杂俎》]] - text preserving the anecdote as presented by the episode.
-- [[90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933]] - source episode.
-- [[TangMiscellanyArchiveValue]] - frame for court rumor as part of a broader miscellany archive.
-- [[ClassicReadingComplexity]] - caution against treating odd anecdote as the whole historical figure.
+In the miscellany source, Wu Zetian functions as an example of imperial anecdote preserved inside [[YouyangZazu|《酉阳杂俎》]], where court rumor sits beside strange tales, Buddhist and Daoist material, plants, animals, poetry, and social cruelty. In Hanji 536-2, she becomes the ruler whose rise to power destroys the Shangguan family, but who later recognizes [[ShangguanWaner|上官婉儿]]'s literary talent and brings her into palace edict work.
+
+The current synthesis is that Wu Zetian is being used by the wiki less as a settled biographical subject than as a node where rumor, charisma, cruelty, administrative talent selection, and female power are debated. Hanji 536-2 gives her a double edge: she is ruthless enough to benefit from Shangguan Yi's destruction, yet politically confident enough to employ the surviving descendant of that family when her skill is useful.
+
+## Key Characteristics
+
+- Appears in Tang miscellany memory through court rumor rather than full political biography.
+- Functions as a ruler whose authority can destroy opponents and later absorb talent from defeated families.
+- Uses literary ability and interpretive skill as a route into palace administration.
+- In Hanji 536-2, shows high tolerance for risk by trusting Shangguan Wan'er despite family enmity.
+- Serves as a comparative female-power figure whose memory combines admiration, fear, legend, and moral judgment.
+
+## Evidence
+
+- Court-rumor memory: [[90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933|90. 酉阳杂俎]] mentions a report about black hair on Wu Zetian's finger as part of the episode's demonstration that [[YouyangZazu|《酉阳杂俎》]] preserves court anecdote alongside other strange material.
+- Miscellany range: [[90-youyang-zazu-xuedizi-he-wuzetian-shouzhishang-de-heimao-712539933|90. 酉阳杂俎]] uses Wu Zetian source-scopingly to support [[TangMiscellanyArchiveValue]] rather than to make a broad claim about her reign.
+- Shangguan-family destruction: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] says Shangguan Yi and his family are destroyed after Tang Gaozong's abandoned plan to depose Wu Zetian is exposed.
+- Talent absorption: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] says Wu Zetian tests the young Shangguan Wan'er, removes her slave status, and entrusts her with palace edicts.
+
+## Qualifications
+
+The current page remains source-scoped. It does not adjudicate Wu Zetian's whole reign, religious policy, succession politics, or later historical evaluation. Hanji 536-2's praise for her breadth and courage in employing Shangguan Wan'er should be read alongside the same source's reminder that her rise is entangled with family execution and palace coercion.
+
+## What Changed
+
+- Migrated the page to the `synthesis-v1` entity structure.
+- Added Hanji 536-2 as the first substantive court-power source beyond the earlier miscellany-rumor branch.
+
+## Relationships
+
+- [[ShangguanWaner|上官婉儿]] - talented court woman whose family suffered under Wu Zetian and whose rise depended on Wu Zetian's patronage.
+- [[HistoricalFemaleRoleModelCaution|历史女性榜样化警惕]] - adjacent interpretive warning against converting dangerous court positions into simple inspiration labels.
+- [[TangMiscellanyArchiveValue]] - frame for the earlier `Youyang Zazu` rumor branch.
+- [[YouyangZazu|《酉阳杂俎》]] - Tang miscellany source context for the court-rumor appearance.
+- [[TangDynasty|唐朝]] - dynasty context for both sources.
