@@ -14147,6 +14147,10 @@
     "title": "宫廷需求驱动造纸 / Court-Demand-Driven Papermaking",
     "url": "/wiki/concepts/courtdemanddrivenpapermaking/"
   },
+  "CourtFactionalSurvival": {
+    "title": "宫廷派系生存 / Court Factional Survival",
+    "url": "/wiki/concepts/courtfactionalsurvival/"
+  },
   "CourtFeedbackCollapse": {
     "title": "Court Feedback Collapse / 君臣反馈失灵",
     "url": "/wiki/concepts/courtfeedbackcollapse/"
@@ -14590,6 +14594,10 @@
   "CrownPrinceCommandRisk": {
     "title": "Crown-Prince Command Risk / 太子挂帅风险",
     "url": "/wiki/concepts/crownprincecommandrisk/"
+  },
+  "CrownPrinceLiXianTang": {
+    "title": "李贤 / Crown Prince Li Xian",
+    "url": "/wiki/entities/crownprincelixiantang/"
   },
   "CrownPrinceRudolf": {
     "title": "Crown Prince Rudolf",
@@ -19138,6 +19146,10 @@
   "EmpressWangPingdi": {
     "title": "王皇后（汉平帝皇后） / Empress Wang of Han Pingdi",
     "url": "/wiki/entities/empresswangpingdi/"
+  },
+  "EmpressWeiTang": {
+    "title": "韦后 / Empress Wei",
+    "url": "/wiki/entities/empressweitang/"
   },
   "EmpressXiaomuXin": {
     "title": "Empress Xiaomu of Xin / 孝睦皇后",
@@ -34407,6 +34419,10 @@
     "title": "李重进 / Li Chongjin",
     "url": "/wiki/entities/lichongjin/"
   },
+  "LiChongjunTang": {
+    "title": "李重俊 / Li Chongjun",
+    "url": "/wiki/entities/lichongjuntang/"
+  },
   "LiChuang": {
     "title": "李闯 / Li Chuang",
     "url": "/wiki/entities/lichuang/"
@@ -34418,6 +34434,10 @@
   "LiDan": {
     "title": "李诞",
     "url": "/wiki/entities/lidan/"
+  },
+  "LiDanTang": {
+    "title": "李旦 / Li Dan",
+    "url": "/wiki/entities/lidantang/"
   },
   "LiDeyu": {
     "title": "李德裕",
@@ -34550,6 +34570,10 @@
   "LiLiangZhaoGeneral": {
     "title": "李良 / Li Liang (Zhao General)",
     "url": "/wiki/entities/liliangzhaogeneral/"
+  },
+  "LiLongjiTang": {
+    "title": "李隆基 / Li Longji",
+    "url": "/wiki/entities/lilongjitang/"
   },
   "LiLu": {
     "title": "Li Lu / 李璐",
@@ -46699,6 +46723,10 @@
     "title": "Princess Stephanie of Belgium",
     "url": "/wiki/entities/princessstephanieofbelgium/"
   },
+  "PrincessTaiping": {
+    "title": "太平公主 / Princess Taiping",
+    "url": "/wiki/entities/princesstaiping/"
+  },
   "PrincetonUniversity": {
     "title": "Princeton University",
     "url": "/wiki/entities/princetonuniversity/"
@@ -52987,6 +53015,10 @@
     "title": "生数科技 / Shengshu Technology",
     "url": "/wiki/entities/shengshutechnology/"
   },
+  "ShenlongCoup": {
+    "title": "神龙政变 / Shenlong Coup",
+    "url": "/wiki/concepts/shenlongcoup/"
+  },
   "ShentinglingBattle": {
     "title": "神亭岭之战 / Shentingling Battle",
     "url": "/wiki/entities/shentinglingbattle/"
@@ -57175,6 +57207,10 @@
     "title": "边塞诗的实地经验 / Tang Frontier Poetry Field Experience",
     "url": "/wiki/concepts/tangfrontierpoetryfieldexperience/"
   },
+  "TangGaozong": {
+    "title": "唐高宗 / Tang Gaozong",
+    "url": "/wiki/entities/tanggaozong/"
+  },
   "TangHaocheng": {
     "title": "Tang Haocheng",
     "url": "/wiki/entities/tanghaocheng/"
@@ -57263,6 +57299,10 @@
     "title": "唐珍 / Tang Zhen (late Han)",
     "url": "/wiki/entities/tangzhenlatehan/"
   },
+  "TangZhongzong": {
+    "title": "李显 / Tang Zhongzong",
+    "url": "/wiki/entities/tangzhongzong/"
+  },
   "TangZhouLateHan": {
     "title": "唐周 / Tang Zhou (late Han)",
     "url": "/wiki/entities/tangzhoulatehan/"
@@ -57274,6 +57314,10 @@
   "TangdouRuoqiangKing": {
     "title": "若羌去胡来王唐斗 / Tangdou",
     "url": "/wiki/entities/tangdouruoqiangking/"
+  },
+  "TanglongCoup": {
+    "title": "唐隆之变 / Tanglong Coup",
+    "url": "/wiki/concepts/tanglongcoup/"
   },
   "TangmuYi": {
     "title": "汤沐邑 / Tangmu Yi",
@@ -63667,6 +63711,10 @@
     "title": "吴芮 / Wu Rui",
     "url": "/wiki/entities/wurui/"
   },
+  "WuSansi": {
+    "title": "武三思 / Wu Sansi",
+    "url": "/wiki/entities/wusansi/"
+  },
   "WuShe": {
     "title": "武涉 / Wu She",
     "url": "/wiki/entities/wushe/"
@@ -66734,6 +66782,10 @@
   "ZhangChangNanyangLateHan": {
     "title": "张厂 / Zhang Chang (Nanyang, late Han)",
     "url": "/wiki/entities/zhangchangnanyanglatehan/"
+  },
+  "ZhangChangzong": {
+    "title": "张昌宗 / Zhang Changzong",
+    "url": "/wiki/entities/zhangchangzong/"
   },
   "ZhangChaoLateHan": {
     "title": "张超 / Zhang Chao (Late Han)",
@@ -73402,6 +73454,10 @@
   "zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll": {
     "title": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
+  },
+  "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm": {
+    "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
   },
   "zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u": {
     "title": "《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连",

@@ -18321,6 +18321,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/courtdemanddrivenpapermaking/"
     },
+    "CourtFactionalSurvival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/courtfactionalsurvival/"
+    },
     "CourtLegitimacyOverPatronLoyalty": {
       "episode_count": 2,
       "show_count": 1,
@@ -18937,6 +18953,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/crossingvulnerabilitystrike/"
+    },
+    "CrownPrinceLiXianTang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/crownprincelixiantang/"
     },
     "CrownPrinceRudolf": {
       "episode_count": 2,
@@ -27326,6 +27358,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/empresswangpingdi/"
+    },
+    "EmpressWeiTang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/empressweitang/"
     },
     "EmpressXiaomuXin": {
       "episode_count": 2,
@@ -40762,9 +40810,9 @@
       "url": "/wiki/concepts/historicalcritiquetolerance/"
     },
     "HistoricalFemaleRoleModelCaution": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？ [lpWfOyDuhWjAbnVpi6ZVodkbk5LL].md",
@@ -40772,6 +40820,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
         }
       ],
       "updated": "2026-09-12",
@@ -50707,6 +50762,38 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/lichongxinprotector/"
     },
+    "LiChongjunTang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/lichongjuntang/"
+    },
+    "LiDanTang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/lidantang/"
+    },
     "LiDian": {
       "episode_count": 1,
       "show_count": 1,
@@ -50994,6 +51081,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/lijunrongfootballhistorian/"
+    },
+    "LiLongjiTang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/lilongjitang/"
     },
     "LiNieEasternHan": {
       "episode_count": 1,
@@ -70465,6 +70568,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/princessstephanieofbelgium/"
     },
+    "PrincessTaiping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/princesstaiping/"
+    },
     "PrincipledOfficeRefusal": {
       "episode_count": 4,
       "show_count": 1,
@@ -78682,9 +78801,9 @@
       "url": "/wiki/entities/shangxiabanchang/"
     },
     "ShangguanWaner": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？ [lpWfOyDuhWjAbnVpi6ZVodkbk5LL].md",
@@ -78692,6 +78811,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
         }
       ],
       "updated": "2026-09-12",
@@ -79377,6 +79503,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/shengdongjixi/"
+    },
+    "ShenlongCoup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/shenlongcoup/"
     },
     "ShentuGangEasternHan": {
       "episode_count": 2,
@@ -85613,6 +85755,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/tansitong/"
     },
+    "TangGaozong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/tanggaozong/"
+    },
     "TangHengLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -85753,6 +85911,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/tangyongsociologist/"
     },
+    "TangZhongzong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/tangzhongzong/"
+    },
     "TangZunXinOfficial": {
       "episode_count": 2,
       "show_count": 1,
@@ -85791,6 +85965,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/tangdouruoqiangking/"
+    },
+    "TanglongCoup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/tanglongcoup/"
     },
     "TanshihuaiXianbei": {
       "episode_count": 5,
@@ -95045,6 +95235,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/wuqiuzunwesternhan/"
     },
+    "WuSansi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wusansi/"
+    },
     "WuShuWanMagistrateLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -95085,9 +95291,9 @@
       "url": "/wiki/entities/wuyoulatehan/"
     },
     "WuZetian": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "90.酉阳杂俎：血滴子和武则天手指上的黑毛 [712539933].md",
@@ -95102,6 +95308,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
         }
       ],
       "updated": "2026-09-12",
@@ -100813,6 +101026,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangchangnanyanglatehan/"
+    },
+    "ZhangChangzong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们 [lqj7RPwWFLloGrxrBav-XQwwnnNM].md",
+          "key": "zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhangchangzong/"
     },
     "ZhangChengAstrologerLateHan": {
       "episode_count": 1,

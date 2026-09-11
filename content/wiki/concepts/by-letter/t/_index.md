@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7081
+wiki_total_pages: 7084
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -833,6 +833,9 @@ wiki_pages:
   - key: "TangPoetryCulturalGeography"
     title: "唐诗文化地理 / Tang Poetry Cultural Geography"
     url: "/wiki/concepts/tangpoetryculturalgeography/"
+  - key: "TanglongCoup"
+    title: "唐隆之变 / Tanglong Coup"
+    url: "/wiki/concepts/tanglongcoup/"
   - key: "TuqiongBijian"
     title: "图穷匕见 / Tuqiong Bijian"
     url: "/wiki/concepts/tuqiongbijian/"

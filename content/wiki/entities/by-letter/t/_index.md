@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9739
+wiki_total_pages: 9749
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1202,6 +1202,9 @@ wiki_pages:
   - key: "TangJuEnvoy"
     title: "唐雎 / Tang Ju (Anling envoy)"
     url: "/wiki/entities/tangjuenvoy/"
+  - key: "TangGaozong"
+    title: "唐高宗 / Tang Gaozong"
+    url: "/wiki/entities/tanggaozong/"
   - key: "Tudigong"
     title: "土地"
     url: "/wiki/entities/tudigong/"
@@ -1271,6 +1274,9 @@ wiki_pages:
   - key: "ThinkReasonLtd"
     title: "思考理性有限公司 / Think Reason Ltd."
     url: "/wiki/entities/thinkreasonltd/"
+  - key: "TangZhongzong"
+    title: "李显 / Tang Zhongzong"
+    url: "/wiki/entities/tangzhongzong/"
   - key: "TiaozhiKingdom"
     title: "条支国 / Tiaozhi Kingdom"
     url: "/wiki/entities/tiaozhikingdom/"

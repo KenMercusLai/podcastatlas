@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7081
+wiki_total_pages: 7084
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2036,6 +2036,9 @@ wiki_pages:
   - key: "ShenGuPhysiognomy"
     title: "神骨相法 / Spirit-Bone Physiognomy"
     url: "/wiki/concepts/shenguphysiognomy/"
+  - key: "ShenlongCoup"
+    title: "神龙政变 / Shenlong Coup"
+    url: "/wiki/concepts/shenlongcoup/"
   - key: "ShishosetsuAutobiographicalReading"
     title: "私小说式自传阅读 / Shishosetsu Autobiographical Reading"
     url: "/wiki/concepts/shishosetsuautobiographicalreading/"

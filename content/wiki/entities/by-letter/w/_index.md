@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9739
+wiki_total_pages: 9749
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -977,6 +977,9 @@ wiki_pages:
   - key: "WeiyangPalace"
     title: "未央宫 / Weiyang Palace"
     url: "/wiki/entities/weiyangpalace/"
+  - key: "WuSansi"
+    title: "武三思 / Wu Sansi"
+    url: "/wiki/entities/wusansi/"
   - key: "Wuguan"
     title: "武关 / Wuguan"
     url: "/wiki/entities/wuguan/"

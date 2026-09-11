@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7081
+wiki_total_pages: 7084
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2171,6 +2171,9 @@ wiki_pages:
   - key: "CourtWomenHistoriography"
     title: "宫廷女性史学 / Court Women Historiography"
     url: "/wiki/concepts/courtwomenhistoriography/"
+  - key: "CourtFactionalSurvival"
+    title: "宫廷派系生存 / Court Factional Survival"
+    url: "/wiki/concepts/courtfactionalsurvival/"
   - key: "CourtDemandDrivenPapermaking"
     title: "宫廷需求驱动造纸 / Court-Demand-Driven Papermaking"
     url: "/wiki/concepts/courtdemanddrivenpapermaking/"

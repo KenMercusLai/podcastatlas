@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9739
+wiki_total_pages: 9749
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1469,6 +1469,9 @@ wiki_pages:
   - key: "LiNi"
     title: "李旎 / Li Ni"
     url: "/wiki/entities/lini/"
+  - key: "LiDanTang"
+    title: "李旦 / Li Dan"
+    url: "/wiki/entities/lidantang/"
   - key: "LiHaoLateHan"
     title: "李昊 / Li Hao (late Han)"
     url: "/wiki/entities/lihaolatehan/"
@@ -1601,12 +1604,18 @@ wiki_pages:
   - key: "LiHeEasternHan"
     title: "李郃 / Li He (Eastern Han)"
     url: "/wiki/entities/liheeasternhan/"
+  - key: "LiChongjunTang"
+    title: "李重俊 / Li Chongjun"
+    url: "/wiki/entities/lichongjuntang/"
   - key: "LiChongjin"
     title: "李重进 / Li Chongjin"
     url: "/wiki/entities/lichongjin/"
   - key: "LiChuang"
     title: "李闯 / Li Chuang"
     url: "/wiki/entities/lichuang/"
+  - key: "LiLongjiTang"
+    title: "李隆基 / Li Longji"
+    url: "/wiki/entities/lilongjitang/"
   - key: "LiXueqin"
     title: "李雪琴 / Li Xueqin"
     url: "/wiki/entities/lixueqin/"
