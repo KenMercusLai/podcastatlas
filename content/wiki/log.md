@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 董建華逝世：「愛國者元老」的香港人生
+
+Added source. Key claims: Tung Chee-hwa's path from shipping-family heir to first Hong Kong chief executive is tied to Orient Overseas' debt crisis, Beijing-backed business-elite selection, Tung-era governance shocks, Article 23, right-of-abode interpretation, mainland integration, land and public-resource privatization, and later establishment organization. No settled contradiction found.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》561丨惨惨惨！揭秘吃催情药死的皇帝NO.1！
 
 Ingested the 2026-05-19 芮淇讲透资治通鉴 episode backfilling Suihe 2 / 7 BCE under Han Chengdi. Added source `zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo`; updated `HanChengdi`, `ZhaoHedeWesternHan`, `GenderedConsortScapegoating`, and `index`. No settled contradiction found; the aphrodisiac-pill explanation, pill-refining details, pill count, and exact medical cause of Chengdi's death remain source-scoped while the political blame-transfer logic is integrated.
@@ -17460,6 +17464,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？
 
 Added source. Key claims: Jia Rang ranks Yellow River flood-control policies as retreat from floodplain land, canal-and-sluice diversion, and old-levee repair; Warring States levee competition transfers risk across river boundaries; the episode uses Qian Mu's five-hundred-year tree story to frame expensive long-horizon solutions as potentially wiser than quick visible fixes.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

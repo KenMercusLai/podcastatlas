@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9665
+wiki_total_pages: 9677
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -329,6 +329,9 @@ wiki_pages:
   - key: "HenryFagot"
     title: "Henry Fagot"
     url: "/wiki/entities/henryfagot/"
+  - key: "HenryFok"
+    title: "Henry Fok / 霍英東"
+    url: "/wiki/entities/henryfok/"
   - key: "HenryFordII"
     title: "Henry Ford II"
     url: "/wiki/entities/henryfordii/"
@@ -524,6 +527,12 @@ wiki_pages:
   - key: "HongKong"
     title: "Hong Kong / 香港"
     url: "/wiki/entities/hongkong/"
+  - key: "HongKongChiefExecutive"
+    title: "Hong Kong Chief Executive / 香港行政長官"
+    url: "/wiki/entities/hongkongchiefexecutive/"
+  - key: "HongKongCoalition"
+    title: "Hong Kong Coalition / 香港再出發大聯盟"
+    url: "/wiki/entities/hongkongcoalition/"
   - key: "HongKongExchangesAndClearing"
     title: "Hong Kong Exchanges and Clearing"
     url: "/wiki/entities/hongkongexchangesandclearing/"

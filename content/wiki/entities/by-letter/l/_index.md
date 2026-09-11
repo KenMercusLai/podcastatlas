@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9665
+wiki_total_pages: 9677
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -407,6 +407,9 @@ wiki_pages:
   - key: "LingxiInteractiveEntertainment"
     title: "Lingxi Interactive Entertainment / 灵犀互娱"
     url: "/wiki/entities/lingxiinteractiveentertainment/"
+  - key: "LinkREIT"
+    title: "Link REIT / 領展"
+    url: "/wiki/entities/linkreit/"
   - key: "LinkedIn"
     title: "LinkedIn"
     url: "/wiki/entities/linkedin/"
@@ -773,6 +776,9 @@ wiki_pages:
   - key: "Lynx"
     title: "Lynx / 猞猁"
     url: "/wiki/entities/lynx/"
+  - key: "LiTzarKai"
+    title: "Richard Li Tzar-kai / 李澤楷"
+    url: "/wiki/entities/litzarkai/"
   - key: "LiaofanSixun"
     title: "《了凡四训》 / Liaofan Sixun"
     url: "/wiki/entities/liaofansixun/"

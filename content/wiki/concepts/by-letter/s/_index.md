@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7024
+wiki_total_pages: 7032
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -827,6 +827,9 @@ wiki_pages:
   - key: "SmallTrustBuildsLargeTrust"
     title: "Small Trust Builds Large Trust / 小信诚则大信立"
     url: "/wiki/concepts/smalltrustbuildslargetrust/"
+  - key: "SmallCircleElectionLegitimacy"
+    title: "Small-Circle Election Legitimacy / 小圈子選舉認受性"
+    url: "/wiki/concepts/smallcircleelectionlegitimacy/"
   - key: "SmallIInnovation"
     title: "Small-I Innovation"
     url: "/wiki/concepts/smalliinnovation/"

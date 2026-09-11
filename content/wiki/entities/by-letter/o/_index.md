@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "o"
-wiki_total_pages: 9665
+wiki_total_pages: 9677
 wiki_pages:
   - key: "OneX"
     title: "1X"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "Orienspace"
     title: "Orienspace / 东方空间"
     url: "/wiki/entities/orienspace/"
+  - key: "OrientOverseas"
+    title: "Orient Overseas / 東方海外"
+    url: "/wiki/entities/orientoverseas/"
   - key: "OrientalLeaf"
     title: "Oriental Leaf / 东方树叶"
     url: "/wiki/entities/orientalleaf/"
@@ -281,6 +284,9 @@ wiki_pages:
   - key: "OttomanEmpire"
     title: "Ottoman Empire / 奥斯曼帝国"
     url: "/wiki/entities/ottomanempire/"
+  - key: "OurHongKongFoundation"
+    title: "Our Hong Kong Foundation / 團結香港基金"
+    url: "/wiki/entities/ourhongkongfoundation/"
   - key: "OuraRing"
     title: "Oura Ring"
     url: "/wiki/entities/ouraring/"

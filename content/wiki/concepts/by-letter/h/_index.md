@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7024
+wiki_total_pages: 7032
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -389,6 +389,12 @@ wiki_pages:
   - key: "HongKongAnimalSolidarity"
     title: "Hong Kong Animal Solidarity / 香港动物保护声援"
     url: "/wiki/concepts/hongkonganimalsolidarity/"
+  - key: "HongKongArticle23Crisis"
+    title: "Hong Kong Article 23 Crisis / 香港二十三條危機"
+    url: "/wiki/concepts/hongkongarticle23crisis/"
+  - key: "HongKongChiefExecutiveLegitimacy"
+    title: "Hong Kong Chief Executive Legitimacy / 香港特首認受性"
+    url: "/wiki/concepts/hongkongchiefexecutivelegitimacy/"
   - key: "HongKongDollarHotMoneyCycle"
     title: "Hong Kong Dollar Hot-Money Cycle / 港元热钱周期"
     url: "/wiki/concepts/hongkongdollarhotmoneycycle/"
@@ -416,6 +422,9 @@ wiki_pages:
   - key: "HongKongPennyStockRisk"
     title: "Hong Kong Penny Stock Risk"
     url: "/wiki/concepts/hongkongpennystockrisk/"
+  - key: "HongKongPublicResourcePrivatization"
+    title: "Hong Kong Public-Resource Privatization / 香港公共資源私有化"
+    url: "/wiki/concepts/hongkongpublicresourceprivatization/"
   - key: "HongKongRetailInvestorSurvival"
     title: "Hong Kong Retail Investor Survival"
     url: "/wiki/concepts/hongkongretailinvestorsurvival/"
@@ -428,6 +437,9 @@ wiki_pages:
   - key: "HongKongTripleRerating"
     title: "Hong Kong Triple Rerating"
     url: "/wiki/concepts/hongkongtriplererating/"
+  - key: "HongKongMainlandIntegrationLegacy"
+    title: "Hong Kong-Mainland Integration Legacy / 中港融合遺產"
+    url: "/wiki/concepts/hongkongmainlandintegrationlegacy/"
   - key: "HongkongLandDairyFarmTakeover"
     title: "Hongkong Land-Dairy Farm Takeover / 置地饮牛奶"
     url: "/wiki/concepts/hongkonglanddairyfarmtakeover/"

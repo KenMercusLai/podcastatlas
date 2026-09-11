@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2901
+topic_total_pages: 2904
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4715,6 +4715,9 @@ topic_entities:
   - key: "CyberAvengers"
     title: "Cyber Avengers"
     url: "/wiki/entities/cyberavengers/"
+  - key: "Cyberport"
+    title: "Cyberport / 數碼港"
+    url: "/wiki/entities/cyberport/"
   - key: "DaVinciSurgicalSystem"
     title: "Da Vinci Surgical System"
     url: "/wiki/entities/davincisurgicalsystem/"
@@ -5861,6 +5864,9 @@ topic_entities:
   - key: "MPEG"
     title: "MPEG / Moving Pictures Experts Group"
     url: "/wiki/entities/mpeg/"
+  - key: "MTRCorporation"
+    title: "MTR Corporation / 香港地鐵"
+    url: "/wiki/entities/mtrcorporation/"
   - key: "MuhammadAtalla"
     title: "Muhammad Atalla"
     url: "/wiki/entities/muhammadatalla/"
@@ -6233,6 +6239,9 @@ topic_entities:
   - key: "RhondaConger"
     title: "Rhonda Conger"
     url: "/wiki/entities/rhondaconger/"
+  - key: "LiTzarKai"
+    title: "Richard Li Tzar-kai / 李澤楷"
+    url: "/wiki/entities/litzarkai/"
   - key: "RichardSutton"
     title: "Richard Sutton"
     url: "/wiki/entities/richardsutton/"

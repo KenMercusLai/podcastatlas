@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [董建華逝世：「愛國者元老」的香港人生](sources/dong-jianhua-shishi-aiguozhe-yuanlao-de-xianggang-rensheng-7d743a8515cf65334add1a55cd20148e.md) — 端聞 obituary-explainer on Tung Chee-hwa's shipping-family background, Beijing-backed chief-executive selection, Tung-era crises, Article 23, right-of-abode interpretation, mainland integration, public-resource privatization, and post-tenure establishment role.
 - [咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？](sources/kafeidou-cong-feiji-qianting-zoujin-richang-shenghuo-tai-weishenme-chengle-shuibei-remen-cailiao-1013725042.md) — 声动早咖啡 coffee-bean explainer on titanium cups, outdoor lifestyle demand, premium material storytelling, Yongkang manufacturing, and titanium-cup homogenization.
 - [《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？](sources/zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9.md) — 芮淇讲透资治通鉴 episode on Wang Mang's early Da Sima appointment, austerity-and-scholar reputation building, the刺史-to-州牧 reform, Liu Xiang's礼乐/太学 proposal, and role-exit awareness.
 - [《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？](sources/zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0.md) — 芮淇讲透资治通鉴 episode on 荧惑守心, Han Chengdi shifting omen responsibility onto chancellor Zhai Fangjin, Li Xun's substitution warning, and Sima Guang's critique of scapegoat death.
@@ -2190,6 +2191,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 
 ## Entities
+- [Tung Chee-hwa / 董建華](entities/TungCheeHwa.md) — Hong Kong's first chief executive, synthesized through the Tung obituary as a shipping-family heir, Beijing-backed leader, crisis administrator, and later establishment elder.
+- [Hong Kong Chief Executive / 香港行政長官](entities/HongKongChiefExecutive.md) — Post-1997 office whose early legitimacy limits are examined through Tung Chee-hwa's tenure.
+- [Tung Chao-yung / 董浩雲](entities/TungChaoYung.md) — Shipping magnate father of Tung Chee-hwa and background figure behind the Tung-family business origin.
+- [Orient Overseas / 東方海外](entities/OrientOverseas.md) — Tung-family shipping company whose 1985 debt crisis is treated as a political turning point.
+- [Henry Fok / 霍英東](entities/HenryFok.md) — Hong Kong business figure named in the Orient Overseas rescue account.
+- [Richard Li Tzar-kai / 李澤楷](entities/LiTzarKai.md) — Business figure associated with the Cyberport non-tender controversy in the Tung source.
+- [Cyberport / 數碼港](entities/Cyberport.md) — Tung-era technology-development project remembered in the source as an official-business collusion controversy.
+- [MTR Corporation / 香港地鐵](entities/MTRCorporation.md) — Hong Kong transit infrastructure body used in the Tung source's public-resource privatization frame.
+- [Link REIT / 領展](entities/LinkREIT.md) — Estate-mall privatization node in the Tung source's public-resource legacy.
+- [China-United States Exchange Foundation / 中美交流基金會](entities/ChinaUnitedStatesExchangeFoundation.md) — Tung-founded second-track diplomacy organization named in his post-tenure role.
+- [Our Hong Kong Foundation / 團結香港基金](entities/OurHongKongFoundation.md) — Tung-linked post-tenure establishment organization founded during the Umbrella Movement period.
+- [Hong Kong Coalition / 香港再出發大聯盟](entities/HongKongCoalition.md) — Tung-linked pro-establishment organization launched during the anti-extradition movement period.
 - [Inditex](entities/Inditex.md) — Zara parent company mentioned through a source-scoped update on margin pressure, flagship stores, and lower-priced brand expansion.
 - [London](entities/London.md) — United Kingdom capital used as the setting node for the Shire Folk rally scene.
 - [Snow Peak](entities/SnowPeak.md) — Japanese outdoor brand used as a bridge from titanium camping gear to lifestyle consumption.
@@ -11859,6 +11872,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
 
 ## Concepts
+- [Post-Handover Hong Kong Governance / 回歸後香港管治](concepts/PostHandoverHongKongGovernance.md) — Tung-era frame connecting executive-led rule, Beijing selection, business elites, legal interpretation, Article 23, integration, and public-resource policy.
+- [Hong Kong Chief Executive Legitimacy / 香港特首認受性](concepts/HongKongChiefExecutiveLegitimacy.md) — Legitimacy gap between formal chief-executive authority and public recognition in the Tung source.
+- [Small-Circle Election Legitimacy / 小圈子選舉認受性](concepts/SmallCircleElectionLegitimacy.md) — Narrow-electorate selection problem highlighted by Tung Chee-hwa's 1996 chief-executive win.
+- [Business-Elite Rule in Hong Kong / 商界治港](concepts/BusinessEliteRuleHongKong.md) — Governing-through-business-elites critique used to explain Tung's selection and policy trust deficits.
+- [Hong Kong Article 23 Crisis / 香港二十三條危機](concepts/HongKongArticle23Crisis.md) — 2003 national-security legislation crisis framed as the collapse point of Tung Chee-hwa's governing credibility.
+- [Right-of-Abode Interpretation Precedent / 居港權釋法先例](concepts/RightOfAbodeInterpretationPrecedent.md) — 1999 right-of-abode interpretation framed as a legal-political precedent in Hong Kong-mainland relations.
+- [Hong Kong-Mainland Integration Legacy / 中港融合遺產](concepts/HongKongMainlandIntegrationLegacy.md) — Ambivalent Tung-era integration frame covering CEPA, individual visits, legal interpretation, and later tensions.
+- [Hong Kong Public-Resource Privatization / 香港公共資源私有化](concepts/HongKongPublicResourcePrivatization.md) — Land, MTR, and estate-mall policy legacy linked to later Hong Kong livelihood grievances.
 - [Titanium As Consumer Material / 钛作为消费材料](concepts/TitaniumAsConsumerMaterial.md) — How titanium's performance properties and industrial prestige become consumer-product premium signals.
 - [Titanium Cups / 钛杯](concepts/TitaniumCups.md) — Consumer drinkware category shaped by outdoor lifestyle demand, material-premium pricing, and Chinese supply-chain maturation.
 - [Role Attachment and Power Exit / 权力角色依附与退场](concepts/RoleAttachmentPowerExit.md) — Pattern where a temporary office or attention role becomes dangerous when treated as a permanent identity after the power setting changes.

@@ -12374,6 +12374,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "BusinessEliteRuleHongKong": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BusinessHistoryPodcast": [
     {
       "key": "economics",
@@ -14666,6 +14678,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ChinaUnitedStatesExchangeFoundation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "ChineseAstrologicalPolitics": [
@@ -18315,6 +18334,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Cyberport": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "CybersecurityAISupervision": [
@@ -30925,6 +30951,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "HenryFok": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HenryGoddard": [
     {
       "key": "science",
@@ -31577,6 +31615,34 @@
       "url": "/topics/economics/"
     }
   ],
+  "HongKongArticle23Crisis": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "HongKongChiefExecutive": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "HongKongChiefExecutiveLegitimacy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "HongKongCoalition": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HongKongDollarHotMoneyCycle": [
     {
       "key": "economics",
@@ -31662,6 +31728,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "HongKongMainlandIntegrationLegacy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HongKongMarketStructure": [
@@ -39205,6 +39283,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "LiTzarKai": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "LiWeiSanlian": [
     {
       "key": "technology",
@@ -41324,6 +41414,13 @@
     }
   ],
   "MSPChannelDistribution": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "MTRCorporation": [
     {
       "key": "technology",
       "label": "Technology",
@@ -48250,6 +48347,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "OurHongKongFoundation": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OurSymphonyWithAnimals": [
     {
       "key": "culture",
@@ -51178,6 +51282,13 @@
     }
   ],
   "PostDisasterTruthAndResponsibility": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PostHandoverHongKongGovernance": [
     {
       "key": "politics",
       "label": "Politics",
@@ -55402,6 +55513,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "RightOfAbodeInterpretationPrecedent": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "RightWingMediaInfrastructure": [
@@ -59708,6 +59826,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SmallCircleElectionLegitimacy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SmallOpenEconomyVulnerability": [
@@ -67101,6 +67226,25 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "TungChaoYung": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
+  "TungCheeHwa": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TuoguReformPolitics": [
@@ -76374,6 +76518,13 @@
     }
   ],
   "do-prediction-market-bettors-make-anything-better": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "dong-jianhua-shishi-aiguozhe-yuanlao-de-xianggang-rensheng-7d743a8515cf65334add1a55cd20148e": [
     {
       "key": "politics",
       "label": "Politics",

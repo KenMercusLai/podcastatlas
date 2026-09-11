@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9665
+wiki_total_pages: 9677
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -902,6 +902,12 @@ wiki_pages:
   - key: "Tudor"
     title: "Tudor"
     url: "/wiki/entities/tudor/"
+  - key: "TungChaoYung"
+    title: "Tung Chao-yung / 董浩雲"
+    url: "/wiki/entities/tungchaoyung/"
+  - key: "TungCheeHwa"
+    title: "Tung Chee-hwa / 董建華"
+    url: "/wiki/entities/tungcheehwa/"
   - key: "Turkey"
     title: "Turkey"
     url: "/wiki/entities/turkey/"

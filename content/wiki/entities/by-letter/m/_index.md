@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9665
+wiki_total_pages: 9677
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1214,6 +1214,9 @@ wiki_pages:
   - key: "MtGox"
     title: "Mt. Gox"
     url: "/wiki/entities/mtgox/"
+  - key: "MTRCorporation"
+    title: "MTR Corporation / 香港地鐵"
+    url: "/wiki/entities/mtrcorporation/"
   - key: "MuhammadAtalla"
     title: "Muhammad Atalla"
     url: "/wiki/entities/muhammadatalla/"

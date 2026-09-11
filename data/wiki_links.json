@@ -9119,6 +9119,10 @@
     "title": "Busia, Kenya",
     "url": "/wiki/entities/busiakenya/"
   },
+  "BusinessEliteRuleHongKong": {
+    "title": "Business-Elite Rule in Hong Kong / 商界治港",
+    "url": "/wiki/concepts/businesseliterulehongkong/"
+  },
   "BusinessFluentDesign": {
     "title": "Business Fluent Design",
     "url": "/wiki/concepts/businessfluentdesign/"
@@ -11686,6 +11690,10 @@
   "ChinaUnicom": {
     "title": "China Unicom",
     "url": "/wiki/entities/chinaunicom/"
+  },
+  "ChinaUnitedStatesExchangeFoundation": {
+    "title": "China-United States Exchange Foundation / 中美交流基金會",
+    "url": "/wiki/entities/chinaunitedstatesexchangefoundation/"
   },
   "ChinaWeightManagementPolicy": {
     "title": "China Weight-Management Policy / 中国体重管理政策",
@@ -14822,6 +14830,10 @@
   "CyberneticMachineSatire": {
     "title": "Cybernetic Machine Satire",
     "url": "/wiki/concepts/cyberneticmachinesatire/"
+  },
+  "Cyberport": {
+    "title": "Cyberport / 數碼港",
+    "url": "/wiki/entities/cyberport/"
   },
   "CybersecurityAISupervision": {
     "title": "Cybersecurity AI Supervision",
@@ -26563,6 +26575,10 @@
     "title": "Henry Fagot",
     "url": "/wiki/entities/henryfagot/"
   },
+  "HenryFok": {
+    "title": "Henry Fok / 霍英東",
+    "url": "/wiki/entities/henryfok/"
+  },
   "HenryFordII": {
     "title": "Henry Ford II",
     "url": "/wiki/entities/henryfordii/"
@@ -27143,6 +27159,22 @@
     "title": "Hong Kong Animal Solidarity / 香港动物保护声援",
     "url": "/wiki/concepts/hongkonganimalsolidarity/"
   },
+  "HongKongArticle23Crisis": {
+    "title": "Hong Kong Article 23 Crisis / 香港二十三條危機",
+    "url": "/wiki/concepts/hongkongarticle23crisis/"
+  },
+  "HongKongChiefExecutive": {
+    "title": "Hong Kong Chief Executive / 香港行政長官",
+    "url": "/wiki/entities/hongkongchiefexecutive/"
+  },
+  "HongKongChiefExecutiveLegitimacy": {
+    "title": "Hong Kong Chief Executive Legitimacy / 香港特首認受性",
+    "url": "/wiki/concepts/hongkongchiefexecutivelegitimacy/"
+  },
+  "HongKongCoalition": {
+    "title": "Hong Kong Coalition / 香港再出發大聯盟",
+    "url": "/wiki/entities/hongkongcoalition/"
+  },
   "HongKongDollarHotMoneyCycle": {
     "title": "Hong Kong Dollar Hot-Money Cycle / 港元热钱周期",
     "url": "/wiki/concepts/hongkongdollarhotmoneycycle/"
@@ -27195,6 +27227,10 @@
     "title": "Hong Kong Liquidity Exit Risk",
     "url": "/wiki/concepts/hongkongliquidityexitrisk/"
   },
+  "HongKongMainlandIntegrationLegacy": {
+    "title": "Hong Kong-Mainland Integration Legacy / 中港融合遺產",
+    "url": "/wiki/concepts/hongkongmainlandintegrationlegacy/"
+  },
   "HongKongMarketStructure": {
     "title": "Hong Kong Market Structure",
     "url": "/wiki/concepts/hongkongmarketstructure/"
@@ -27202,6 +27238,10 @@
   "HongKongPennyStockRisk": {
     "title": "Hong Kong Penny Stock Risk",
     "url": "/wiki/concepts/hongkongpennystockrisk/"
+  },
+  "HongKongPublicResourcePrivatization": {
+    "title": "Hong Kong Public-Resource Privatization / 香港公共資源私有化",
+    "url": "/wiki/concepts/hongkongpublicresourceprivatization/"
   },
   "HongKongRetailInvestorSurvival": {
     "title": "Hong Kong Retail Investor Survival",
@@ -34439,6 +34479,10 @@
     "title": "李通 / Li Tong (late Han)",
     "url": "/wiki/entities/litonglatehan/"
   },
+  "LiTzarKai": {
+    "title": "Richard Li Tzar-kai / 李澤楷",
+    "url": "/wiki/entities/litzarkai/"
+  },
   "LiWeiQingOfficial": {
     "title": "李卫 / Li Wei",
     "url": "/wiki/entities/liweiqingofficial/"
@@ -35010,6 +35054,10 @@
   "LinjinWarringStates": {
     "title": "临晋 / Linjin (Warring States)",
     "url": "/wiki/entities/linjinwarringstates/"
+  },
+  "LinkREIT": {
+    "title": "Link REIT / 領展",
+    "url": "/wiki/entities/linkreit/"
   },
   "LinkedIn": {
     "title": "LinkedIn",
@@ -36910,6 +36958,10 @@
   "MStand": {
     "title": "M Stand",
     "url": "/wiki/entities/mstand/"
+  },
+  "MTRCorporation": {
+    "title": "MTR Corporation / 香港地鐵",
+    "url": "/wiki/entities/mtrcorporation/"
   },
   "MVPInvestmentFramework": {
     "title": "MVP Investment Framework / 宏观-估值-政策框架",
@@ -43219,6 +43271,10 @@
     "title": "Orienspace / 东方空间",
     "url": "/wiki/entities/orienspace/"
   },
+  "OrientOverseas": {
+    "title": "Orient Overseas / 東方海外",
+    "url": "/wiki/entities/orientoverseas/"
+  },
   "OrientalLeaf": {
     "title": "Oriental Leaf / 东方树叶",
     "url": "/wiki/entities/orientalleaf/"
@@ -43302,6 +43358,10 @@
   "OttomanMiniaturePainting": {
     "title": "Ottoman Miniature Painting",
     "url": "/wiki/concepts/ottomanminiaturepainting/"
+  },
+  "OurHongKongFoundation": {
+    "title": "Our Hong Kong Foundation / 團結香港基金",
+    "url": "/wiki/entities/ourhongkongfoundation/"
   },
   "OurSymphonyWithAnimals": {
     "title": "《伴生》 / Our Symphony with Animals",
@@ -45862,6 +45922,10 @@
   "PostDisasterTruthAndResponsibility": {
     "title": "Post-Disaster Truth And Responsibility",
     "url": "/wiki/concepts/postdisastertruthandresponsibility/"
+  },
+  "PostHandoverHongKongGovernance": {
+    "title": "Post-Handover Hong Kong Governance / 回歸後香港管治",
+    "url": "/wiki/concepts/posthandoverhongkonggovernance/"
   },
   "PostHarmFoodRegulation": {
     "title": "Post-Harm Food Regulation",
@@ -49683,6 +49747,10 @@
     "title": "Ridolfi Plot",
     "url": "/wiki/entities/ridolfiplot/"
   },
+  "RightOfAbodeInterpretationPrecedent": {
+    "title": "Right-of-Abode Interpretation Precedent / 居港權釋法先例",
+    "url": "/wiki/concepts/rightofabodeinterpretationprecedent/"
+  },
   "RightWingMediaInfrastructure": {
     "title": "Right-Wing Media Infrastructure",
     "url": "/wiki/concepts/rightwingmediainfrastructure/"
@@ -53494,6 +53562,10 @@
   "SmallBusinessFinancingGap": {
     "title": "Small Business Financing Gap",
     "url": "/wiki/concepts/smallbusinessfinancinggap/"
+  },
+  "SmallCircleElectionLegitimacy": {
+    "title": "Small-Circle Election Legitimacy / 小圈子選舉認受性",
+    "url": "/wiki/concepts/smallcircleelectionlegitimacy/"
   },
   "SmallIInnovation": {
     "title": "Small-I Innovation",
@@ -59366,6 +59438,14 @@
   "TumorMicroenvironment": {
     "title": "Tumor Microenvironment",
     "url": "/wiki/concepts/tumormicroenvironment/"
+  },
+  "TungChaoYung": {
+    "title": "Tung Chao-yung / 董浩雲",
+    "url": "/wiki/entities/tungchaoyung/"
+  },
+  "TungCheeHwa": {
+    "title": "Tung Chee-hwa / 董建華",
+    "url": "/wiki/entities/tungcheehwa/"
   },
   "TuntianProximitySecurityDilemma": {
     "title": "屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma",
@@ -68882,6 +68962,10 @@
   "do-prediction-market-bettors-make-anything-better": {
     "title": "Do prediction market bettors make anything better?",
     "url": "/wiki/sources/do-prediction-market-bettors-make-anything-better/"
+  },
+  "dong-jianhua-shishi-aiguozhe-yuanlao-de-xianggang-rensheng-7d743a8515cf65334add1a55cd20148e": {
+    "title": "董建華逝世：「愛國者元老」的香港人生",
+    "url": "/wiki/sources/dong-jianhua-shishi-aiguozhe-yuanlao-de-xianggang-rensheng-7d743a8515cf65334add1a55cd20148e/"
   },
   "dont-hate-the-replicator-hate-the-game": {
     "title": "Don't hate the replicator, hate the game",

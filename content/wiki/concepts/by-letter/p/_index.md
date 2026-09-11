@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7024
+wiki_total_pages: 7032
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -944,6 +944,9 @@ wiki_pages:
   - key: "PostDisasterTruthAndResponsibility"
     title: "Post-Disaster Truth And Responsibility"
     url: "/wiki/concepts/postdisastertruthandresponsibility/"
+  - key: "PostHandoverHongKongGovernance"
+    title: "Post-Handover Hong Kong Governance / 回歸後香港管治"
+    url: "/wiki/concepts/posthandoverhongkonggovernance/"
   - key: "PostHarmFoodRegulation"
     title: "Post-Harm Food Regulation"
     url: "/wiki/concepts/postharmfoodregulation/"

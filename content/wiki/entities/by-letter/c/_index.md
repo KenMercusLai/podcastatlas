@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9665
+wiki_total_pages: 9677
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -659,6 +659,9 @@ wiki_pages:
   - key: "ChinaLaosRailway"
     title: "China-Laos Railway / 中老铁路"
     url: "/wiki/entities/chinalaosrailway/"
+  - key: "ChinaUnitedStatesExchangeFoundation"
+    title: "China-United States Exchange Foundation / 中美交流基金會"
+    url: "/wiki/entities/chinaunitedstatesexchangefoundation/"
   - key: "ChinachemGroup"
     title: "Chinachem Group / 华懋"
     url: "/wiki/entities/chinachemgroup/"
@@ -1271,6 +1274,9 @@ wiki_pages:
   - key: "CyberCab"
     title: "CyberCab"
     url: "/wiki/entities/cybercab/"
+  - key: "Cyberport"
+    title: "Cyberport / 數碼港"
+    url: "/wiki/entities/cyberport/"
   - key: "Cyclospora"
     title: "Cyclospora"
     url: "/wiki/entities/cyclospora/"

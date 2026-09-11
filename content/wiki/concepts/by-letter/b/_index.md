@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7024
+wiki_total_pages: 7032
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -686,6 +686,9 @@ wiki_pages:
   - key: "BusinessTransactionObservability"
     title: "Business Transaction Observability"
     url: "/wiki/concepts/businesstransactionobservability/"
+  - key: "BusinessEliteRuleHongKong"
+    title: "Business-Elite Rule in Hong Kong / 商界治港"
+    url: "/wiki/concepts/businesseliterulehongkong/"
   - key: "BusinessLedAITransformation"
     title: "Business-Led AI Transformation"
     url: "/wiki/concepts/businessledaitransformation/"
