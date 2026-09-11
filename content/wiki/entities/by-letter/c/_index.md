@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -566,6 +566,9 @@ wiki_pages:
   - key: "ChenZhi"
     title: "Chen Zhi"
     url: "/wiki/entities/chenzhi/"
+  - key: "ChendaiTown"
+    title: "Chendai Town / 陈埭镇"
+    url: "/wiki/entities/chendaitown/"
   - key: "Chengdu"
     title: "Chengdu / 成都"
     url: "/wiki/entities/chengdu/"
@@ -1814,6 +1817,9 @@ wiki_pages:
   - key: "ChangguangCommanderyLateHan"
     title: "长广郡 / Changguang Commandery (late Han)"
     url: "/wiki/entities/changguangcommanderylatehan/"
+  - key: "ChangyangPalace"
+    title: "长杨宫 / Changyang Palace"
+    url: "/wiki/entities/changyangpalace/"
   - key: "ChangjiangBusinessSchool"
     title: "长江商学院 / Cheung Kong Graduate School of Business"
     url: "/wiki/entities/changjiangbusinessschool/"

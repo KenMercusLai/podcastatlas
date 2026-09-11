@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "8f9d80e5dfd0b2cf05c45c3812f18fc015279efc7a905daf7ed7929012aab77d",
       "feef603f3c7a9d391e9d2369a93f67d5d89e86ec593af71ed8bf2914163a54e9",
       "291d15beef045042289843161eecd8de36591632c4f11cac9bc3553797427abc",
       "6ac9f984ffcc669b00cd24650dbda026ecdf63d0831e46bc8af5a291c8b840f6",
@@ -612,11 +613,34 @@
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108"
     ],
-    "paragraph_count": 610
+    "paragraph_count": 611
   },
-  "overview_commit": "a65eee66516bacae03e55066a0435dfec74a7a4f",
-  "overview_digest": "c8c3b219d259eb8719a45e7042d19b68ce5b8048e779baf14df8fd985c499c73",
+  "overview_commit": "c58ac8b89f08bb8f94e7ee19874e07666533fba0",
+  "overview_digest": "1ab15a3922d56fc83234be05872e9f99de01fa0ba86b7677a8112cb51f437685",
   "paragraphs": [
+    {
+      "id": "8f9d80e5dfd0b2cf05c45c3812f18fc015279efc7a905daf7ed7929012aab77d",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|《资治通鉴·汉纪》553丨职场中如何识别明升暗降？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Suihe 1 / 8 BCE between [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]] and [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]]. It adds [[KongJiWesternHan|孔吉]], while extending [[HanChengdi|汉成帝]], [[WangGenWesternHan|王根]], [[HeWuWesternHan|何武]], and [[OfficeSequencePowerReallocation|官职序列重组式权力再分配]]. Its core synthesis is that \"明升暗降\" can be built into institutional reform: Chengdi restores the Three Excellencies balance and gives Wang Gen formal Da Sima status, but the same move removes Wang Gen's Piaoji Jiangjun command and dilutes one-person decision power through peer rank, shared process, and visible honor. No settled contradiction is recorded; Kong-family genealogy, the full Three Excellencies institutional history, and Liu Xing's death context remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "HanChengdi",
+        "HeWuWesternHan",
+        "KongJiWesternHan",
+        "OfficeSequencePowerReallocation",
+        "RuiqiJiangtouZizhiTongjian",
+        "WangGenWesternHan",
+        "zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw",
+        "zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi",
+        "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn"
+      ]
+    },
     {
       "id": "feef603f3c7a9d391e9d2369a93f67d5d89e86ec593af71ed8bf2914163a54e9",
       "primary_topic": "governance-and-institutions",

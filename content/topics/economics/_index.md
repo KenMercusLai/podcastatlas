@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2000
+topic_total_pages: 2001
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1672,6 +1672,9 @@ topic_concepts:
   - key: "KeyPersonInsurance"
     title: "Key Person Insurance"
     url: "/wiki/concepts/keypersoninsurance/"
+  - key: "KinshipBasedTownshipEnterpriseFinance"
+    title: "Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资"
+    url: "/wiki/concepts/kinshipbasedtownshipenterprisefinance/"
   - key: "KnowingEnough"
     title: "Knowing Enough"
     url: "/wiki/concepts/knowingenough/"

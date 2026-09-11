@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1514,6 +1514,9 @@ wiki_pages:
   - key: "AnhuiXiaoMujiang"
     title: "安徽小木匠 / Anhui Xiao Mujiang"
     url: "/wiki/entities/anhuixiaomujiang/"
+  - key: "AnlimiWusun"
+    title: "安犁靡 / Anlimi"
+    url: "/wiki/entities/anlimiwusun/"
   - key: "AnQi"
     title: "安琪"
     url: "/wiki/entities/anqi/"

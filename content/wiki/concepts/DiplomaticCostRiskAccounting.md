@@ -6,7 +6,8 @@ tags: [diplomacy, frontier, fiscal-policy, statecraft, xiongnu, western-han]
 sources:
   - zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d
   - zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a
-last_updated: 2026-09-10
+  - zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn
+last_updated: 2026-09-11
 ---
 
 ## Definition
@@ -23,6 +24,8 @@ Hanji 590 sharpens the prevention side of the same argument. Yang Xiong ranks Xi
 
 The concept is narrower than generic generosity. It applies when refusing an expense can signal contempt, withdraw recognition, or create suspicion in a counterpart that still has coercive capacity. In that situation, the cheap option may be only locally cheap: it saves the visible outlay while increasing the probability of a much larger military or diplomatic loss.
 
+Hanji 554 adds the inverse case: a seemingly cheap diplomatic gain can also be expensive. Asking Xiongnu to cede useful land through a deniable envoy probe looks low-cost if the court counts only the chance of success and the ability to blame [[XiahouFanWesternHan|夏侯藩]] if it fails. The downstream costs are diplomatic embarrassment, clarified Xiongnu refusal, and the need for [[HanChengdi|汉成帝]] to disavow his envoy. The concept therefore covers both undercounted savings and undercounted opportunism.
+
 ## Key Claims
 
 - Diplomatic expenses should be compared with the plausible cost of damaged trust, renewed hostility, and lost credibility, not only with the treasury line item.
@@ -31,6 +34,7 @@ The concept is narrower than generic generosity. It applies when refusing an exp
 - Historical memory can make cost accounting more accurate by revealing what renewed conflict has cost before.
 - Prevention is part of the accounting: a modest ritual or reception cost may avert a rupture that becomes much harder to repair once mistrust is explicit.
 - The pattern does not prove every diplomatic expense is justified; it requires a concrete risk channel from saving to instability.
+- Opportunistic demands also require cost-risk accounting: the visible cost may be small, but refusal, humiliation, and blame transfer can create diplomatic loss.
 
 ## Evidence
 
@@ -40,14 +44,16 @@ The concept is narrower than generic generosity. It applies when refusing an exp
 - Maintenance-cost logic: [[zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d|Hanji 589]] presents heqin, equal guest treatment, and continued gifts after submission as part of keeping Xiongnu from becoming an enemy again.
 - Threat ranking and prevention: [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] says Yang Xiong treats Xiongnu as Han's special opponent and argues that preventing suspicion before it forms avoids later war and persuasion costs.
 - Western Regions cost context: [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] frames Cheshi, institutions, and Western Regions order as part of constraining Xiongnu, making the chanyu reception decision a system-level risk rather than a ceremony alone.
+- Opportunistic-demand risk: [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] shows that a deniable land demand can produce embarrassment and blame transfer when the counterpart rejects and reports it.
 
 ## Counterevidence & Qualifications
 
-This concept does not reject thrift or public-spending restraint. Hanji 589 argues against "mindless saving," not against all budget discipline. The evidence does not quantify the reception cost or prove exactly how the chanyu would have reacted if refused. Hanji 590 adds a stronger strategic rationale but still works through Yang Xiong's memorial as mediated by the episode. The current claim remains bounded: in a high-risk frontier relationship, some visible expenses may be cheaper than the instability created by refusing them.
+This concept does not reject thrift or public-spending restraint. Hanji 589 argues against "mindless saving," not against all budget discipline. Hanji 554 also does not reject all bargaining or probing; it warns that an apparently cheap demand can carry hidden face, credibility, and repair costs. The evidence does not quantify the reception cost or prove exactly how the chanyu would have reacted if refused. Hanji 590 adds a stronger strategic rationale but still works through Yang Xiong's memorial as mediated by the episode. The current claim remains bounded: in a high-risk frontier relationship, some visible expenses may be cheaper than the instability created by refusing them, and some visible opportunities may be costlier than they appear.
 
 ## What Changed
 
-- Added Hanji 590's continuation: Yang Xiong's Xiongnu threat ranking, Western Regions containment logic, and prevention-before-rupture maxim sharpen the original cost-risk account.
+- Added Hanji 554's inverse case: opportunistic land demands also need downstream risk accounting because failed probes can create embarrassment and blame transfer.
+- Preserved Hanji 590's continuation: Yang Xiong's Xiongnu threat ranking, Western Regions containment logic, and prevention-before-rupture maxim sharpen the original cost-risk account.
 
 ## Related Concepts
 
@@ -56,6 +62,7 @@ This concept does not reject thrift or public-spending restraint. Hanji 589 argu
 - [[WesternRegionsProtectorate|西域都护府]] - strategic infrastructure that Hanji 590 ties to Xiongnu containment and the cost of losing accumulated frontier leverage.
 - [[CapacityBoundFrontierCommitment|能力约束型边疆承诺]] - related because diplomatic spending must match what the state can credibly support.
 - [[StrategicForbearanceGovernance|退让留余地式治理]] - related because restraint can preserve future freedom of action better than maximal pressure.
+- [[DiplomaticScapegoatBlameTransfer|外交替罪式责任转移]] - related because undercounted diplomatic risk may later be absorbed by a subordinate.
 - [[Xiongnu|匈奴]] - frontier counterpart whose coercive capacity makes the cost-risk calculation serious.
 - [[HanAidi|汉哀帝]] - ruler whose attempted saving supplies the source case.
 - [[YangXiong|扬雄]] - remonstrant who reframes the budget question as a frontier-risk question.

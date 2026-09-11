@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -791,6 +791,9 @@ wiki_pages:
   - key: "InnerCourtAccessBrokerageRisk"
     title: "内廷通道攀附风险 / Inner-Court Access Brokerage Risk"
     url: "/wiki/concepts/innercourtaccessbrokeragerisk/"
+  - key: "InstitutionalLoyaltyOverPersonalLoyalty"
+    title: "制度忠诚胜于个人依附 / Institutional Loyalty Over Personal Loyalty"
+    url: "/wiki/concepts/institutionalloyaltyoverpersonalloyalty/"
   - key: "InstitutionalMemoryConcealment"
     title: "制度记忆隐匿保存 / Institutional Memory Concealment"
     url: "/wiki/concepts/institutionalmemoryconcealment/"

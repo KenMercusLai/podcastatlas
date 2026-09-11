@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq
   - zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi
   - zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2
-last_updated: 2026-09-02
+  - zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2
+last_updated: 2026-09-12
 ---
 
 ## Definition
@@ -18,6 +19,8 @@ last_updated: 2026-09-02
 纳谏转政策式治理 / receptive remonstrance governance is the leadership pattern where a ruler or senior decision-maker does more than allow advice to be spoken: advice is heard, tested, and converted into concrete policy, personnel, legal, or burden-relief changes.
 
 ## Current Synthesis
+
+The earlier Western Han warning branch is not a clean success case. [[MeiFuWesternHan|梅福]] tells [[HanChengdi|汉成帝]] that after [[WangZhangWesternHan|王章]] is killed for criticizing [[WangFengWesternHan|王凤]], the court has begun treating speech itself as dangerous. The episode therefore sharpens the concept's negative threshold: advice-taking must include protection for speakers and conversion into actual restraint, or remonstrance becomes a slogan while feedback collapses.
 
 Hanji 685 now adds the earliest current Guangwu-era branch. [[SongHongEasternHan|宋弘]] first rebukes [[HuanTanEasternHan|桓谭]] for winning [[LiuXiu|Liu Xiu]]'s attention through music, then uses self-blame before the emperor to say his recommendation should have produced loyal and righteous assistance rather than court pleasure. Liu Xiu accepts the correction and apologizes, making the case a compact example of remonstrance becoming ruler self-correction without open confrontation.
 
@@ -36,16 +39,18 @@ The combined synthesis is that receptive remonstrance is not a ruler's fixed per
 ## Key Claims
 
 - Listening becomes governance only when advice changes actual rules, punishments, releases, appointments, timing, construction burdens, or public costs.
+- Protecting speakers is part of the conversion mechanism: if direct critics are killed or intimidated, later advice will not reach the ruler in usable form.
 - Self-blame and recommendation accountability can make criticism acceptable without hiding the substance of the correction.
 - Receptive remonstrance can appear as proactive self-criticism after an omen or as delayed correction after severe coercive expansion.
 - Evidence-backed remonstrance is stronger than moral complaint alone because it gives the ruler a path to reverse without pure humiliation.
 - Lower-ranking or newly appointed officials can produce meaningful correction when the ruler treats rule-bound refusal as public service rather than personal offense.
-- Indirect framing can help a ruler accept redress, as Bao Yu's drought answer later shows under Zhangdi.
 - The pattern depends on both sides: advisers must make actionable claims, and the ruler must be willing to convert correction into decisions.
 
 ## Evidence
 
 - Court-pleasure correction under Guangwu: [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|Hanji 685]] says Song Hong rebukes Huan Tan for pleasing Liu Xiu through music and then accepts blame for having recommended him.
+- Western Han warning branch: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] says Mei Fu warns Chengdi that Wang Zhang's death has made court speech dangerous.
+- Protected speech as talent channel: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] says Mei Fu connects open remonstrance with attracting capable people and maintaining correction capacity.
 - Accepted self-blame remonstrance: [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|Hanji 685]] says Liu Xiu is ashamed and apologizes after Song frames the problem as failure to guide the ruler toward loyal and righteous assistance.
 - Gate remonstrance under Guangwu: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Zhi Yun refuses to open Shangdong Gate without clear identification, criticizes Liu Xiu's hunting the next day, and receives reward.
 - Protocol signal: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Liu Xiu demotes the Dongzhong Gate officer who opened another gate, converting the criticism into an enforcement signal.
@@ -62,11 +67,11 @@ The combined synthesis is that receptive remonstrance is not a ruler's fixed per
 
 ## Counterevidence & Qualifications
 
-This concept should not become generic praise of being agreeable. Hanji 685 works because Song Hong's face-preserving self-blame still corrects real ruler behavior; it is not flattery. Hanji 714 itself contrasts principled noncompliance with mere harmony: Zhi Yun and Ren Ting are valuable because they refuse easy accommodation, not because they are pleasant. Hanji 735 shows a strong conversion case in the halted North Palace works but also a boundary case where sincere leniency advice is protected rather than implemented. Hanji 737 supports a public feedback and self-blame form more clearly than a measurable reform package. Hanji 740 is evidence that a ruler can accept correction only after enormous harm, and Hanji 746 includes disagreement among ministers rather than automatic deference to every adviser. The sources also do not prove that every accepted measure had durable implementation; they support the narrower claim that advice altered official direction or feedback circulation in specific legal, policy, burden-relief, construction, and criticism-publication decisions.
+This concept should not become generic praise of being agreeable. Hanji 544 is a warning rather than a successful conversion case: Mei Fu's memorial is strong, but the source frames Chengdi as failing to act decisively. Hanji 685 works because Song Hong's face-preserving self-blame still corrects real ruler behavior; it is not flattery. Hanji 714 itself contrasts principled noncompliance with mere harmony: Zhi Yun and Ren Ting are valuable because they refuse easy accommodation, not because they are pleasant. Hanji 735 shows a strong conversion case in the halted North Palace works but also a boundary case where sincere leniency advice is protected rather than implemented. Hanji 737 supports a public feedback and self-blame form more clearly than a measurable reform package. Hanji 740 is evidence that a ruler can accept correction only after enormous harm, and Hanji 746 includes disagreement among ministers rather than automatic deference to every adviser. The sources also do not prove that every accepted measure had durable implementation; they support the narrower claim that advice altered official direction or feedback circulation in specific legal, policy, burden-relief, construction, and criticism-publication decisions.
 
 ## What Changed
 
-- Added Hanji 685 as the earliest current Guangwu branch: Song Hong's self-blame correction of Liu Xiu's music-favor drift around Huan Tan.
+- Added Hanji 544 as the Western Han negative threshold: Mei Fu shows that remonstrance fails when punished speakers make the court afraid to talk.
 - Preserved Hanji 714 as the later Guangwu branch: rewarded Zhi Yun gate/hunting remonstrance and accepted Ren Ting law-bound correction.
 - Preserved Hanji 735 and Hanji 737 as Mingdi-era implemented/protected advice and proactive self-criticism layers.
 - Kept Hanji 740's Mingdi layer as delayed, partial receptivity after coercive overreach.
@@ -84,6 +89,8 @@ This concept should not become generic praise of being agreeable. Hanji 685 work
 - [[RootCauseRemonstrance|根源诊断式进谏]] - adjacent diagnosis pattern where advice identifies the cause layer and remedy rather than only voicing dissatisfaction.
 - [[StrategicForbearanceGovernance|退让留余地式治理]] - neighboring Zhangdi-era restraint pattern where accepted counsel preserves credibility, cooperation, and speech.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - failure contrast because receptive remonstrance keeps correction channels from collapsing.
+- [[MeiFuWesternHan|梅福]] - Western Han memorialist who names protected speech as a governance condition.
+- [[InstitutionalLoyaltyOverPersonalLoyalty|制度忠诚胜于个人依附]] - adjacent management pattern because advice must serve the institution rather than private comfort.
 - [[CoerciveImplicationCascade]] - failure mode that Hanji 740's remonstrance and review partially repair.
 - [[PalaceAccusationVerification]] - related evidence discipline because accusation review can make remonstrance actionable.
 - [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - broader advice-taking principle that tests corrective content before rejecting advice on motive or discomfort.

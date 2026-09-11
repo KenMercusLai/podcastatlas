@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "ShareholderPrimacy"
     title: "Shareholder Primacy"
     url: "/wiki/concepts/shareholderprimacy/"
+  - key: "ShellShock"
+    title: "Shell Shock"
+    url: "/wiki/concepts/shellshock/"
   - key: "ShiJianqiaoRevengeCase"
     title: "Shi Jianqiao Revenge Case"
     url: "/wiki/concepts/shijianqiaorevengecase/"
@@ -947,6 +950,9 @@ wiki_pages:
   - key: "SocialMediaProductLiability"
     title: "Social Media Product Liability"
     url: "/wiki/concepts/socialmediaproductliability/"
+  - key: "SocialMisprediction"
+    title: "Social Misprediction"
+    url: "/wiki/concepts/socialmisprediction/"
   - key: "SocialProductionOfBeauty"
     title: "Social Production Of Beauty / 美的社会生产"
     url: "/wiki/concepts/socialproductionofbeauty/"
@@ -1235,6 +1241,9 @@ wiki_pages:
   - key: "SportswearInventoryCycle"
     title: "Sportswear Inventory Cycle"
     url: "/wiki/concepts/sportswearinventorycycle/"
+  - key: "SportswearMultiBrandPortfolio"
+    title: "Sportswear Multi-Brand Portfolio / 运动品牌集团化组合"
+    url: "/wiki/concepts/sportswearmultibrandportfolio/"
   - key: "SpouseCoFounderDynamics"
     title: "Spouse Co-Founder Dynamics"
     url: "/wiki/concepts/spousecofounderdynamics/"
@@ -2000,6 +2009,9 @@ wiki_pages:
   - key: "SuppressedRootCauseReporting"
     title: "根因上报压制 / Suppressed Root-Cause Reporting"
     url: "/wiki/concepts/suppressedrootcausereporting/"
+  - key: "SunkCostEntrapment"
+    title: "沉没成本困局 / Sunk Cost Entrapment"
+    url: "/wiki/concepts/sunkcostentrapment/"
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"

@@ -1107,6 +1107,10 @@
     "title": "50.开膛手杰克结案报告：女法医的争议之作",
     "url": "/wiki/sources/50-kaitangshou-jieke-jiean-baogao-nvfayi-de-zhengyi-zhizuo-630666604/"
   },
+  "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2": {
+    "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+    "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+  },
   "51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320": {
     "title": "51.厌世？反人类？童话故事？…格列佛游记可深了去了",
     "url": "/wiki/sources/51-yanshi-fanrenlei-tonghua-gushi-geliefu-youji-ke-shen-le-qu-le-632315320/"
@@ -1178,6 +1182,10 @@
   "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556": {
     "title": "67.美狄亚：古希腊秦香莲的复仇及其现代性",
     "url": "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"
+  },
+  "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565": {
+    "title": "671. The First World War: Blood in the Trenches (Part 1)",
+    "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
   },
   "672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829": {
     "title": "672. The First World War: Italy's Doomed Campaign (Part 2)",
@@ -2110,6 +2118,10 @@
   "AIGeneratedHoaxEvidence": {
     "title": "AI-Generated Hoax Evidence",
     "url": "/wiki/concepts/aigeneratedhoaxevidence/"
+  },
+  "AIGeneratedProofGovernance": {
+    "title": "AI-Generated Proof Governance",
+    "url": "/wiki/concepts/aigeneratedproofgovernance/"
   },
   "AIGlassesComputingPlatform": {
     "title": "AI Glasses Computing Platform / AI眼镜计算平台",
@@ -5287,6 +5299,10 @@
     "title": "《安乐死现场》",
     "url": "/wiki/entities/anlesixianchang/"
   },
+  "AnlimiWusun": {
+    "title": "安犁靡 / Anlimi",
+    "url": "/wiki/entities/anlimiwusun/"
+  },
   "AnlingJun": {
     "title": "安陵君 / Lord Anling",
     "url": "/wiki/entities/anlingjun/"
@@ -7282,6 +7298,10 @@
   "BattleOfCrete": {
     "title": "Battle of Crete",
     "url": "/wiki/entities/battleofcrete/"
+  },
+  "BattleOfLoos": {
+    "title": "Battle of Loos",
+    "url": "/wiki/entities/battleofloos/"
   },
   "BattleOfTheBogside": {
     "title": "Battle of the Bogside",
@@ -10651,6 +10671,10 @@
     "title": "长盛基金 / Changsheng Fund",
     "url": "/wiki/entities/changshengfund/"
   },
+  "ChangyangPalace": {
+    "title": "长杨宫 / Changyang Palace",
+    "url": "/wiki/entities/changyangpalace/"
+  },
   "Changzhou": {
     "title": "Changzhou / 常州",
     "url": "/wiki/entities/changzhou/"
@@ -11182,6 +11206,10 @@
   "ChenZhuangWarringStates": {
     "title": "陈庄 / Chen Zhuang (Warring States)",
     "url": "/wiki/entities/chenzhuangwarringstates/"
+  },
+  "ChendaiTown": {
+    "title": "Chendai Town / 陈埭镇",
+    "url": "/wiki/entities/chendaitown/"
   },
   "ChengDexuan": {
     "title": "程德玄 / Cheng Dexuan",
@@ -14059,6 +14087,10 @@
     "title": "Counterintelligence Rumor Wedge / 反间流言楔入",
     "url": "/wiki/concepts/counterintelligencerumorwedge/"
   },
+  "CounterterrorismPowersRepurposing": {
+    "title": "Counterterrorism Powers Repurposing",
+    "url": "/wiki/concepts/counterterrorismpowersrepurposing/"
+  },
   "CountertransferenceBoundaryRisk": {
     "title": "Countertransference Boundary Risk",
     "url": "/wiki/concepts/countertransferenceboundaryrisk/"
@@ -16371,6 +16403,10 @@
     "title": "Diabetic Retinopathy Screening / 糖尿病眼底筛查",
     "url": "/wiki/concepts/diabeticretinopathyscreening/"
   },
+  "DiagnosisPersonhoodBoundary": {
+    "title": "Diagnosis Personhood Boundary",
+    "url": "/wiki/concepts/diagnosispersonhoodboundary/"
+  },
   "DiagnosticSafetyNetting": {
     "title": "Diagnostic Safety Netting / 诊断安全网",
     "url": "/wiki/concepts/diagnosticsafetynetting/"
@@ -16615,6 +16651,10 @@
     "title": "丁明 / Ding Ming (Western Han)",
     "url": "/wiki/entities/dingmingwesternhan/"
   },
+  "DingShizhong": {
+    "title": "丁世忠 / Ding Shizhong",
+    "url": "/wiki/entities/dingshizhong/"
+  },
   "DingShumiao": {
     "title": "Ding Shumiao / 丁书苗",
     "url": "/wiki/entities/dingshumiao/"
@@ -16790,6 +16830,10 @@
   "DisasterOmenCrisisRedirection": {
     "title": "Disaster Omen Crisis Redirection / 灾异压力转移",
     "url": "/wiki/concepts/disasteromencrisisredirection/"
+  },
+  "DisasterOmenInterpretiveSkepticism": {
+    "title": "Disaster-Omen Interpretive Skepticism / 灾异解释怀疑",
+    "url": "/wiki/concepts/disasteromeninterpretiveskepticism/"
   },
   "DisasterOmenPersonnelAttack": {
     "title": "Disaster-Omen Personnel Attack / 灾异人事攻防",
@@ -17730,6 +17774,10 @@
   "DuanGuiLateHan": {
     "title": "段珪 / Duan Gui (late Han)",
     "url": "/wiki/entities/duanguilatehan/"
+  },
+  "DuanHuizongWesternHan": {
+    "title": "段会宗 / Duan Huizong",
+    "url": "/wiki/entities/duanhuizongwesternhan/"
   },
   "DuanJiongLateHan": {
     "title": "段熲 / Duan Jiong (late Han)",
@@ -19475,6 +19523,10 @@
     "title": "Ernest Hemingway / 海明威",
     "url": "/wiki/entities/ernesthemingway/"
   },
+  "ErnstJunger": {
+    "title": "Ernst Junger",
+    "url": "/wiki/entities/ernstjunger/"
+  },
   "EscalationOfCommitment": {
     "title": "Escalation Of Commitment / 非理性投入升级",
     "url": "/wiki/concepts/escalationofcommitment/"
@@ -19702,6 +19754,10 @@
   "EverydayHumanitarianismInWarFilm": {
     "title": "Everyday Humanitarianism In War Film / 战争片世俗人道主义",
     "url": "/wiki/concepts/everydayhumanitarianisminwarfilm/"
+  },
+  "EverydaySocialConnection": {
+    "title": "Everyday Social Connection",
+    "url": "/wiki/concepts/everydaysocialconnection/"
   },
   "EverydayWeirdness": {
     "title": "Everyday Weirdness",
@@ -20487,6 +20543,10 @@
     "title": "番茄小说 / Fanqie Novel",
     "url": "/wiki/entities/fanqienovel/"
   },
+  "FanqiuWusun": {
+    "title": "番丘 / Fanqiu",
+    "url": "/wiki/entities/fanqiuwusun/"
+  },
   "FantagraphicsBooks": {
     "title": "Fantagraphics Books",
     "url": "/wiki/entities/fantagraphicsbooks/"
@@ -21159,6 +21219,10 @@
     "title": "Figure AI",
     "url": "/wiki/entities/figureai/"
   },
+  "Fila": {
+    "title": "Fila",
+    "url": "/wiki/entities/fila/"
+  },
   "FilialMourningAccessCredential": {
     "title": "守陵孝行进身凭证 / Filial Mourning Access Credential",
     "url": "/wiki/concepts/filialmourningaccesscredential/"
@@ -21414,6 +21478,10 @@
   "FirstWorldWar": {
     "title": "First World War",
     "url": "/wiki/concepts/firstworldwar/"
+  },
+  "FirstWorldWarGasWarfare": {
+    "title": "First World War Gas Warfare",
+    "url": "/wiki/concepts/firstworldwargaswarfare/"
   },
   "FiscalExtractionRebellionSpiral": {
     "title": "财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral",
@@ -22950,6 +23018,10 @@
   "FundraisingScenarioModeling": {
     "title": "Fundraising Scenario Modeling",
     "url": "/wiki/concepts/fundraisingscenariomodeling/"
+  },
+  "FuneralRitualAccountability": {
+    "title": "丧葬礼制责任 / Funeral Ritual Accountability",
+    "url": "/wiki/concepts/funeralritualaccountability/"
   },
   "FuneraryDefianceUnderPoliticalTerror": {
     "title": "Funerary Defiance Under Political Terror / 恐怖政治下的丧葬抗命",
@@ -25011,6 +25083,10 @@
     "title": "谷永 / Gu Yong (late Han)",
     "url": "/wiki/entities/guyonglatehan/"
   },
+  "GuYongWesternHan": {
+    "title": "谷永 / Gu Yong (Western Han)",
+    "url": "/wiki/entities/guyongwesternhan/"
+  },
   "GuYongqiang": {
     "title": "古永锵 / Gu Yongqiang",
     "url": "/wiki/entities/guyongqiang/"
@@ -25299,6 +25375,10 @@
     "title": "郭开 / Guo Kai",
     "url": "/wiki/entities/guokai/"
   },
+  "GuoLanying": {
+    "title": "Guo Lanying",
+    "url": "/wiki/entities/guolanying/"
+  },
   "GuoLiangLiGuStudent": {
     "title": "郭亮 / Guo Liang (Li Gu student)",
     "url": "/wiki/entities/guoliangligustudent/"
@@ -25346,6 +25426,10 @@
   "GuoShengtong": {
     "title": "郭圣通 / Guo Shengtong",
     "url": "/wiki/entities/guoshengtong/"
+  },
+  "GuoShunWesternHan": {
+    "title": "郭舜 / Guo Shun",
+    "url": "/wiki/entities/guoshunwesternhan/"
   },
   "GuoSiLateHan": {
     "title": "郭汜 / Guo Si (late Han)",
@@ -29323,6 +29407,10 @@
     "title": "Institutional Knowledge Transfer",
     "url": "/wiki/concepts/institutionalknowledgetransfer/"
   },
+  "InstitutionalLoyaltyOverPersonalLoyalty": {
+    "title": "制度忠诚胜于个人依附 / Institutional Loyalty Over Personal Loyalty",
+    "url": "/wiki/concepts/institutionalloyaltyoverpersonalloyalty/"
+  },
   "InstitutionalMechanismSatire": {
     "title": "Institutional Mechanism Satire",
     "url": "/wiki/concepts/institutionalmechanismsatire/"
@@ -30559,6 +30647,10 @@
     "title": "Jealousy as Political Violence / 嫉妒转化为政治杀机",
     "url": "/wiki/concepts/jealousyaspoliticalviolence/"
   },
+  "JealousyDeescalationByRivalProtection": {
+    "title": "Jealousy De-escalation by Rival Protection / 以护对手化解嫉妒",
+    "url": "/wiki/concepts/jealousydeescalationbyrivalprotection/"
+  },
   "JeanClaudeBiver": {
     "title": "Jean-Claude Biver",
     "url": "/wiki/entities/jeanclaudebiver/"
@@ -31363,6 +31455,10 @@
     "title": "Jinjiang Hotels / 锦江酒店",
     "url": "/wiki/entities/jinjianghotels/"
   },
+  "JinjiangModel": {
+    "title": "Jinjiang Model / 晋江模式",
+    "url": "/wiki/concepts/jinjiangmodel/"
+  },
   "JinriToutiao": {
     "title": "Jinri Toutiao",
     "url": "/wiki/entities/jinritoutiao/"
@@ -31622,6 +31718,10 @@
   "JohnKennethGalbraith": {
     "title": "John Kenneth Galbraith",
     "url": "/wiki/entities/johnkennethgalbraith/"
+  },
+  "JohnKipling": {
+    "title": "John Kipling",
+    "url": "/wiki/entities/johnkipling/"
   },
   "JohnLasseter": {
     "title": "John Lasseter",
@@ -32287,6 +32387,10 @@
     "title": "Kangbao",
     "url": "/wiki/entities/kangbao/"
   },
+  "Kangju": {
+    "title": "康居 / Kangju",
+    "url": "/wiki/entities/kangju/"
+  },
   "KangxiEmperor": {
     "title": "康熙 / Kangxi Emperor",
     "url": "/wiki/entities/kangxiemperor/"
@@ -32759,6 +32863,10 @@
     "title": "Kino Loy",
     "url": "/wiki/entities/kinoloy/"
   },
+  "KinshipBasedTownshipEnterpriseFinance": {
+    "title": "Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资",
+    "url": "/wiki/concepts/kinshipbasedtownshipenterprisefinance/"
+  },
   "KinshipLegitimacyDiplomacy": {
     "title": "Kinship Legitimacy Diplomacy / 同源合法性外交",
     "url": "/wiki/concepts/kinshiplegitimacydiplomacy/"
@@ -32942,6 +33050,10 @@
   "KongGuangWesternHan": {
     "title": "孔光 / Kong Guang (Western Han)",
     "url": "/wiki/entities/kongguangwesternhan/"
+  },
+  "KongJiWesternHan": {
+    "title": "孔吉 / Kong Ji (Western Han)",
+    "url": "/wiki/entities/kongjiwesternhan/"
   },
   "KongRong": {
     "title": "孔融 / Kong Rong",
@@ -33835,6 +33947,10 @@
     "title": "乐视体育 / LeSports",
     "url": "/wiki/entities/lesports/"
   },
+  "LeVanElgindi": {
+    "title": "Le Van Elgindi",
+    "url": "/wiki/entities/levanelgindi/"
+  },
   "LeXian": {
     "title": "乐贤 / Le Xian",
     "url": "/wiki/entities/lexian/"
@@ -34310,6 +34426,10 @@
   "LiHeEasternHan": {
     "title": "李郃 / Li He (Eastern Han)",
     "url": "/wiki/entities/liheeasternhan/"
+  },
+  "LiHonggu": {
+    "title": "李洪谷 / Li Honggu",
+    "url": "/wiki/entities/lihonggu/"
   },
   "LiHongjun": {
     "title": "李洪军 / Li Hongjun",
@@ -35419,6 +35539,10 @@
     "title": "刘恺 / Liu Kai (Eastern Han)",
     "url": "/wiki/entities/liukaieasternhan/"
   },
+  "LiuKangDingtaoKingWesternHan": {
+    "title": "刘康 / Liu Kang, Dingtao King (Western Han)",
+    "url": "/wiki/entities/liukangdingtaokingwesternhan/"
+  },
   "LiuKefan": {
     "title": "刘可凡 / Liu Kefan",
     "url": "/wiki/entities/liukefan/"
@@ -35558,6 +35682,10 @@
   "LiuXinWesternHan": {
     "title": "刘歆 / Liu Xin (Western Han)",
     "url": "/wiki/entities/liuxinwesternhan/"
+  },
+  "LiuXingZhongshanKingWesternHan": {
+    "title": "刘兴 / Liu Xing, Zhongshan King (Western Han)",
+    "url": "/wiki/entities/liuxingzhongshankingwesternhan/"
   },
   "LiuXiu": {
     "title": "Liu Xiu / 刘秀",
@@ -38627,6 +38755,10 @@
     "title": "Mehmet Simsek",
     "url": "/wiki/entities/mehmetsimsek/"
   },
+  "MeiFuWesternHan": {
+    "title": "梅福 / Mei Fu (Western Han)",
+    "url": "/wiki/entities/meifuwesternhan/"
+  },
   "MeiJuan": {
     "title": "梅鋗 / Mei Juan",
     "url": "/wiki/entities/meijuan/"
@@ -40475,6 +40607,10 @@
     "title": "Moxt",
     "url": "/wiki/entities/moxt/"
   },
+  "MozhenjiangWusun": {
+    "title": "末振将 / Mozhenjiang",
+    "url": "/wiki/entities/mozhenjiangwusun/"
+  },
   "Mozi": {
     "title": "墨子 / Mozi",
     "url": "/wiki/entities/mozi/"
@@ -40682,6 +40818,10 @@
   "MyFirstHalfLife": {
     "title": "《我的前半生》 / My First Half Life",
     "url": "/wiki/entities/myfirsthalflife/"
+  },
+  "MyMotherlandSong": {
+    "title": "My Motherland",
+    "url": "/wiki/entities/mymotherlandsong/"
   },
   "MyNameIsRed": {
     "title": "《我的名字叫红》 / My Name Is Red",
@@ -41674,6 +41814,10 @@
   "NickCullinan": {
     "title": "Nick Cullinan",
     "url": "/wiki/entities/nickcullinan/"
+  },
+  "NickEpley": {
+    "title": "Nick Epley",
+    "url": "/wiki/entities/nickepley/"
   },
   "NickFountain": {
     "title": "Nick Fountain",
@@ -43791,6 +43935,10 @@
     "title": "Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性",
     "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
   },
+  "PalaceInformationDiscipline": {
+    "title": "宫廷信息纪律 / Palace Information Discipline",
+    "url": "/wiki/concepts/palaceinformationdiscipline/"
+  },
   "PalaceMarketTheater": {
     "title": "宫市游乐式权力错位 / Palace Market Theater",
     "url": "/wiki/concepts/palacemarkettheater/"
@@ -44558,6 +44706,10 @@
   "PennyStockBoilerRoomFraud": {
     "title": "Penny Stock Boiler Room Fraud",
     "url": "/wiki/concepts/pennystockboilerroomfraud/"
+  },
+  "PeopleArtistStateHonor": {
+    "title": "People's Artist State Honor",
+    "url": "/wiki/concepts/peopleartiststatehonor/"
   },
   "PeopleBasedPoliticalSecurity": {
     "title": "People-Based Political Security / 民心型政治安全",
@@ -45938,6 +46090,10 @@
   "PositiveStressBreathwork": {
     "title": "Positive Stress Breathwork",
     "url": "/wiki/concepts/positivestressbreathwork/"
+  },
+  "Post911CounterterrorismArchitecture": {
+    "title": "Post-9/11 Counterterrorism Architecture",
+    "url": "/wiki/concepts/post911counterterrorismarchitecture/"
   },
   "PostAcquisitionFounderIdentity": {
     "title": "Post-Acquisition Founder Identity",
@@ -47999,6 +48155,10 @@
     "title": "琼琼 / Qiongqiong",
     "url": "/wiki/entities/qiongqiong/"
   },
+  "QiongchengTaihouWesternHan": {
+    "title": "邛成太后 / Qiongcheng Taihou (Western Han)",
+    "url": "/wiki/entities/qiongchengtaihouwesternhan/"
+  },
   "QiqiaoRitualPractice": {
     "title": "Qiqiao Ritual Practice",
     "url": "/wiki/concepts/qiqiaoritualpractice/"
@@ -48634,6 +48794,10 @@
   "RealEstateInvestmentTrust": {
     "title": "Real Estate Investment Trust",
     "url": "/wiki/concepts/realestateinvestmenttrust/"
+  },
+  "RealExposureSocialAnxiety": {
+    "title": "Real Exposure for Social Anxiety",
+    "url": "/wiki/concepts/realexposuresocialanxiety/"
   },
   "RealRobotDataStrategy": {
     "title": "Real Robot Data Strategy",
@@ -49679,6 +49843,10 @@
     "title": "Revolutionary Military Slavery Contradiction",
     "url": "/wiki/concepts/revolutionarymilitaryslaverycontradiction/"
   },
+  "RevolutionaryOperaCulturalMemory": {
+    "title": "Revolutionary Opera Cultural Memory",
+    "url": "/wiki/concepts/revolutionaryoperaculturalmemory/"
+  },
   "RevolutionaryTerrorPolitics": {
     "title": "Revolutionary Terror Politics / 革命恐怖政治",
     "url": "/wiki/concepts/revolutionaryterrorpolitics/"
@@ -50034,6 +50202,10 @@
   "RobertForsythe": {
     "title": "Robert Forsythe",
     "url": "/wiki/entities/robertforsythe/"
+  },
+  "RobertGraves": {
+    "title": "Robert Graves",
+    "url": "/wiki/entities/robertgraves/"
   },
   "RobertGuest": {
     "title": "Robert Guest",
@@ -50595,6 +50767,10 @@
     "title": "Rudy Giuliani",
     "url": "/wiki/entities/rudygiuliani/"
   },
+  "RudyardKipling": {
+    "title": "Rudyard Kipling",
+    "url": "/wiki/entities/rudyardkipling/"
+  },
   "RugbyWorldCup1995": {
     "title": "1995 Rugby World Cup",
     "url": "/wiki/entities/rugbyworldcup1995/"
@@ -51086,6 +51262,10 @@
   "SamBankmanFried": {
     "title": "Sam Bankman-Fried",
     "url": "/wiki/entities/sambankmanfried/"
+  },
+  "SamBeale": {
+    "title": "Sam Beale",
+    "url": "/wiki/entities/sambeale/"
   },
   "SamDataScienceWithSam": {
     "title": "Sam (Data Science With Sam)",
@@ -52643,6 +52823,10 @@
     "title": "Shell",
     "url": "/wiki/entities/shell/"
   },
+  "ShellShock": {
+    "title": "Shell Shock",
+    "url": "/wiki/concepts/shellshock/"
+  },
   "ShenBuhai": {
     "title": "申不害 / Shen Buhai",
     "url": "/wiki/entities/shenbuhai/"
@@ -53891,6 +54075,10 @@
     "title": "Social Media Product Liability",
     "url": "/wiki/concepts/socialmediaproductliability/"
   },
+  "SocialMisprediction": {
+    "title": "Social Misprediction",
+    "url": "/wiki/concepts/socialmisprediction/"
+  },
   "SocialProductionOfBeauty": {
     "title": "Social Production Of Beauty / 美的社会生产",
     "url": "/wiki/concepts/socialproductionofbeauty/"
@@ -54654,6 +54842,10 @@
   "SportswearInventoryCycle": {
     "title": "Sportswear Inventory Cycle",
     "url": "/wiki/concepts/sportswearinventorycycle/"
+  },
+  "SportswearMultiBrandPortfolio": {
+    "title": "Sportswear Multi-Brand Portfolio / 运动品牌集团化组合",
+    "url": "/wiki/concepts/sportswearmultibrandportfolio/"
   },
   "SpotRobot": {
     "title": "Spot Robot",
@@ -56142,6 +56334,10 @@
   "Suning": {
     "title": "苏宁 / Suning",
     "url": "/wiki/entities/suning/"
+  },
+  "SunkCostEntrapment": {
+    "title": "沉没成本困局 / Sunk Cost Entrapment",
+    "url": "/wiki/concepts/sunkcostentrapment/"
   },
   "SunnyBalwani": {
     "title": "Sunny Balwani",
@@ -58007,6 +58203,10 @@
     "title": "The Walt Disney Company",
     "url": "/wiki/entities/thewaltdisneycompany/"
   },
+  "TheWhiteHairedGirl": {
+    "title": "The White-Haired Girl",
+    "url": "/wiki/entities/thewhitehairedgirl/"
+  },
   "TheWitchesSalem1692": {
     "title": "The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》",
     "url": "/wiki/entities/thewitchessalem1692/"
@@ -59271,6 +59471,10 @@
     "title": "Tree Protection Ordinances",
     "url": "/wiki/concepts/treeprotectionordinances/"
   },
+  "TrenchLifeWesternFront": {
+    "title": "Trench Life on the Western Front",
+    "url": "/wiki/concepts/trenchlifewesternfront/"
+  },
   "TrenchSanitationDiseaseBurden": {
     "title": "Trench Sanitation Disease Burden",
     "url": "/wiki/concepts/trenchsanitationdiseaseburden/"
@@ -59330,6 +59534,10 @@
   "Tristan": {
     "title": "Tristan",
     "url": "/wiki/entities/tristan/"
+  },
+  "TristanBuckmaster": {
+    "title": "Tristan Buckmaster",
+    "url": "/wiki/entities/tristanbuckmaster/"
   },
   "TrofimLysenko": {
     "title": "Trofim Lysenko / 李森科",
@@ -60971,6 +61179,10 @@
     "title": "Voice Agent Infrastructure",
     "url": "/wiki/concepts/voiceagentinfrastructure/"
   },
+  "VoiceHumanization": {
+    "title": "Voice Humanization",
+    "url": "/wiki/concepts/voicehumanization/"
+  },
   "VoiceInteraction": {
     "title": "Voice Interaction",
     "url": "/wiki/concepts/voiceinteraction/"
@@ -61254,6 +61466,10 @@
   "WangFenLateHan": {
     "title": "王芬 / Wang Fen (late Han)",
     "url": "/wiki/entities/wangfenlatehan/"
+  },
+  "WangFengWesternHan": {
+    "title": "王凤 / Wang Feng (Western Han)",
+    "url": "/wiki/entities/wangfengwesternhan/"
   },
   "WangFuDongChengPlot": {
     "title": "王服 / Wang Fu (Dong Cheng plot)",
@@ -61678,6 +61894,10 @@
   "WangYunLateHan": {
     "title": "王允 / Wang Yun (late Han)",
     "url": "/wiki/entities/wangyunlatehan/"
+  },
+  "WangZhangWesternHan": {
+    "title": "王章 / Wang Zhang (Western Han)",
+    "url": "/wiki/entities/wangzhangwesternhan/"
   },
   "WangZhenghua": {
     "title": "Wang Zhenghua / 王正华",
@@ -62458,6 +62678,10 @@
   "WesternDigital": {
     "title": "Western Digital",
     "url": "/wiki/entities/westerndigital/"
+  },
+  "WesternFrontFirstWorldWar": {
+    "title": "Western Front (First World War)",
+    "url": "/wiki/entities/westernfrontfirstworldwar/"
   },
   "WesternHanDynasty": {
     "title": "Western Han dynasty / 西汉",
@@ -63623,6 +63847,10 @@
     "title": "乌骓马 / Wuzhui Horse",
     "url": "/wiki/entities/wuzhuihorse/"
   },
+  "WuzhuliuChanyu": {
+    "title": "乌珠留单于 / Wuzhuliu Chanyu",
+    "url": "/wiki/entities/wuzhuliuchanyu/"
+  },
   "Wuzi": {
     "title": "《吴子》 / Wuzi",
     "url": "/wiki/entities/wuzi/"
@@ -63742,6 +63970,10 @@
   "XiahouDun": {
     "title": "夏侯惇 / Xiahou Dun",
     "url": "/wiki/entities/xiahoudun/"
+  },
+  "XiahouFanWesternHan": {
+    "title": "夏侯藩 / Xiahou Fan (Western Han)",
+    "url": "/wiki/entities/xiahoufanwesternhan/"
   },
   "XiahouYing": {
     "title": "夏侯婴 / Xiahou Ying",
@@ -64054,6 +64286,10 @@
   "XieAnXiapiLateHan": {
     "title": "谢安 / Xie An (Xiapi, late Han)",
     "url": "/wiki/entities/xieanxiapilatehan/"
+  },
+  "XieBangBook": {
+    "title": "《鞋邦：中国运动品牌四十年》",
+    "url": "/wiki/entities/xiebangbook/"
   },
   "XieBiLateHan": {
     "title": "谢弼 / Xie Bi (late Han)",
@@ -64411,6 +64647,10 @@
     "title": "徐美人 / Xu Meiren (Western Han)",
     "url": "/wiki/entities/xumeirenwesternhan/"
   },
+  "XuPingjunWesternHan": {
+    "title": "许平君 / Xu Pingjun (Western Han)",
+    "url": "/wiki/entities/xupingjunwesternhan/"
+  },
   "XuQiuGuanglingLateHan": {
     "title": "徐秋 / Xu Qiu (Guangling late Han)",
     "url": "/wiki/entities/xuqiuguanglinglatehan/"
@@ -64590,6 +64830,10 @@
   "XueXiaofan": {
     "title": "薛小凡 / Xue Xiaofan",
     "url": "/wiki/entities/xuexiaofan/"
+  },
+  "XueXuanWesternHan": {
+    "title": "薛宣 / Xue Xuan (Western Han)",
+    "url": "/wiki/entities/xuexuanwesternhan/"
   },
   "XueZhenzhuMyFirstHalfLife": {
     "title": "薛珍珠 / Xue Zhenzhu (《我的前半生》)",
@@ -64774,6 +65018,10 @@
   "YanChangLateHan": {
     "title": "阎昌 / Yan Chang (late Han)",
     "url": "/wiki/entities/yanchanglatehan/"
+  },
+  "YanCongWesternHan": {
+    "title": "严从 / Yan Cong (Western Han)",
+    "url": "/wiki/entities/yancongwesternhan/"
   },
   "YanDuLateHan": {
     "title": "延笃 / Yan Du (late Han)",
@@ -70003,6 +70251,10 @@
     "title": "How to make a BOOK into a bestseller",
     "url": "/wiki/sources/how-to-make-a-book-into-a-bestseller/"
   },
+  "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132": {
+    "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
+    "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+  },
   "how-to-win-a-penalty-shootout-with-game-theory": {
     "title": "How to win a penalty shootout (with game theory)",
     "url": "/wiki/sources/how-to-win-a-penalty-shootout-with-game-theory/"
@@ -70470,6 +70722,10 @@
   "our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour": {
     "title": "Our mission: Find the world's best economic ideas (Summer School World Tour)",
     "url": "/wiki/sources/our-mission-find-the-worlds-best-economic-ideas-summer-school-world-tour/"
+  },
+  "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb": {
+    "title": "Out-numbered: AI's contentious maths milestone",
+    "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
   },
   "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132": {
     "title": "Outsider chance: ending Sudan's proxy war",
@@ -73015,9 +73271,49 @@
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
   },
+  "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd": {
+    "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+  },
+  "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2": {
+    "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+  },
+  "zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf": {
+    "title": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf/"
+  },
   "zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si": {
     "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
+  },
+  "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto": {
+    "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+  },
+  "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v": {
+    "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
+  },
+  "zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw": {
+    "title": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw/"
+  },
+  "zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi": {
+    "title": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi/"
+  },
+  "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn": {
+    "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
+  },
+  "zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv": {
+    "title": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv/"
+  },
+  "zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id": {
+    "title": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id/"
   },
   "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx": {
     "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",

@@ -27,7 +27,8 @@ sources:
   - 318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008
   - 317-african-amazons-glt5973082485
   - 316-the-first-abolitionist-glt2136062721
-last_updated: 2026-09-05
+  - 671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565
+last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -35,11 +36,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]], a comparative African female-power branch, and an early Quaker abolitionist activism branch.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]], a comparative African female-power branch, and an early Quaker abolitionist activism branch.
 
 ## Current Profile
 
-The current wiki profile now includes an early abolitionist activism branch. [[BenjaminLay]]'s episode connects [[Quakers|Quaker]] inward equality, [[Barbados]] plantation slavery, [[SlaveProducedGoodsBoycott|boycott of slave-produced goods]], and [[AbolitionistPublicWitness|public witness]] to explain how moral protest could become theatrical, embodied, and socially disruptive before abolitionism became mainstream. The branch also keeps the title qualified: Lay is an early activist, not literally the first person to oppose slavery.
+The current wiki profile now includes the opening Western Front entry in the show's 1915 First World War sequence. [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] uses [[RobertGraves]], [[ErnstJunger]], [[ShellShock]], [[FirstWorldWarGasWarfare|gas warfare]], and the [[BattleOfLoos|Battle of Loos]] to make trench life a mixed social and psychological world rather than a flat image of mud or glory.
+
+The profile also includes an early abolitionist activism branch. [[BenjaminLay]]'s episode connects [[Quakers|Quaker]] inward equality, [[Barbados]] plantation slavery, [[SlaveProducedGoodsBoycott|boycott of slave-produced goods]], and [[AbolitionistPublicWitness|public witness]] to explain how moral protest could become theatrical, embodied, and socially disruptive before abolitionism became mainstream. The branch also keeps the title qualified: Lay is an early activist, not literally the first person to oppose slavery.
 
 The African comparative branch uses [[Kush]], [[KandakeQueens]], [[QueenNjinga]], [[AsanteQueenMothers]], [[RanavalonaI]], [[Dahomey]], and the [[Agojie]] to show how women could hold military, royal, or counterpart authority through institutions rather than only through individual exception. It also adds a stronger source-critical and moral frame: [[EuropeanAmazonProjection]] cautions against accepting outsider fascination as neutral description, while [[HeroicResistanceViolenceAmbiguity]] keeps slavery, executions, coercion, and harsh rule visible even when the central actors resist European pressure.
 
@@ -49,7 +52,7 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 ## Key Characteristics
 
-- The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, and contingency.
+- The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part war sequences such as 1915.
 - Its abolitionist branch uses Benjamin Lay to connect Quaker equality, plantation slavery, ethical consumption, public stunts, and institutional discipline.
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branch treats the Hundred Years' War as a multi-causal origin problem rather than a simple throne dispute.
@@ -59,6 +62,7 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 ## Evidence
 
+- First World War branch: [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] introduces the Western Front through Graves, Junger, trench routine, shell shock, gas, Loos, and the Kipling family; [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]], [[673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949]], [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]], [[675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715]], and [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] extend the sequence through Italy, Lusitania, Edith Cavell, and Gallipoli.
 - Abolitionist activism branch: [[316-the-first-abolitionist-glt2136062721]] follows [[BenjaminLay]] and [[SarahLay]] from Colchester to [[Barbados]] and Pennsylvania, connecting [[Quakers|Quaker]] inward equality, plantation brutality, boycott, public stunts, [[BenjaminFranklin]]'s printing connection, and late Philadelphia Friends discipline against slaveholding.
 - Hundred Years' War branch: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] follows the build-up to 1337 through French power, English continental loss, Gascony homage, Capetian succession rupture, Scottish alliance pressure, Aquitaine's confiscation, and Edward III's manifesto.
 - African female-power branch: [[317-african-amazons-glt5973082485]] moves from [[TheWomanKing]] and the "African Amazons" frame through [[Kush]], [[KandakeQueens]], [[Amanirenas]], [[QueenNjinga]], [[AsanteQueenMothers]], [[YaaAsantewaa]], [[WarOfTheGoldenStool]], [[RanavalonaI]], [[Dahomey]], [[Agojie]], and [[Ghezo]] to compare female authority, military institutions, source bias, slavery, and violent rule.
@@ -78,11 +82,20 @@ This page summarizes only the episodes currently ingested into the wiki. The sho
 
 ## What Changed
 
-- Added the Benjamin Lay abolitionist activism branch, connecting Quakers, Barbados plantation slavery, ethical-consumption boycott, public witness, and early anti-slavery discipline.
-- Added the African female-power branch through Kush, Njinga, Asante queen mothers, Ranavalona I, Dahomey, the Agojie, source criticism, and resistance-violence ambiguity.
+- Added the opening Western Front episode in the 1915 First World War branch, connecting trench life, shell shock, gas warfare, Loos, Graves, Junger, and the Kipling family.
 
 ## Relationships
 
+- [[FirstWorldWar]] - 1915 war branch represented by the Western Front, Italy, Lusitania, Cavell, and Gallipoli episodes.
+- [[WesternFrontFirstWorldWar]] - battlefield setting introduced by episode 671.
+- [[TrenchLifeWesternFront]] - soldier-experience concept grounded by episode 671.
+- [[ShellShock]] - psychological-injury concept introduced through the Western Front episode.
+- [[FirstWorldWarGasWarfare]] - gas-war branch introduced through Ypres and Loos.
+- [[BattleOfLoos]] - failed gas-assisted offensive and Kipling-family grief case.
+- [[RobertGraves]] - British soldier-writer voice for the trench branch.
+- [[ErnstJunger]] - German soldier-writer counterpoint for combat intensity.
+- [[RudyardKipling]] - public patriotism and private bereavement figure in the Loos ending.
+- [[JohnKipling]] - Loos casualty anchoring the family-grief case.
 - [[BenjaminLay]] - central figure for the early abolitionist activism branch.
 - [[SarahLay]] - household and Barbados witness connected to Lay's moral transformation.
 - [[Quakers]] - religious community whose equality ideals and institutional inconsistency structure the branch.

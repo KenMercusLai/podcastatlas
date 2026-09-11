@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "EverydayHumanitarianismInWarFilm"
     title: "Everyday Humanitarianism In War Film / 战争片世俗人道主义"
     url: "/wiki/concepts/everydayhumanitarianisminwarfilm/"
+  - key: "EverydaySocialConnection"
+    title: "Everyday Social Connection"
+    url: "/wiki/concepts/everydaysocialconnection/"
   - key: "EverydayWeirdness"
     title: "Everyday Weirdness"
     url: "/wiki/concepts/everydayweirdness/"

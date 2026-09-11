@@ -15,12 +15,13 @@ sources:
   - zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk
   - zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a
   - zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n
+  - zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v
 last_updated: 2026-09-11
 ---
 
 ## Overview
 
-扬雄 / Yang Xiong is synthesized as a late [[WesternHanDynasty|Western Han]] writer-scholar whose wiki role now has four sides. Earlier source notes mostly cite him through [[Fayan|《法言》]] as a severe moral evaluator of persuaders, assassins, ministers, generals, and ritual technicians. [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] makes him the subject rather than only a later authority: a poor, stuttering, learned, low-key writer whose fu and [[Fangyan|《方言》]] made his cultural afterlife exceed his official rank. [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] adds the active frontier remonstrant: a palace official who reads Xiongnu diplomacy through long-range risk prevention rather than reception cost. [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] adds the court personnel remonstrant: he uses the "鼓妖" anomaly to argue that [[ZhuBoWesternHan|朱博]] is temperamentally fit for military command but not chancellorship.
+扬雄 / Yang Xiong is synthesized as a late [[WesternHanDynasty|Western Han]] writer-scholar whose wiki role now has five sides. Earlier source notes mostly cite him through [[Fayan|《法言》]] as a severe moral evaluator of persuaders, assassins, ministers, generals, and ritual technicians. [[zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v|Hanji 551]] adds the Changyang Palace occasion for 《长杨赋》, placing him inside [[HanChengdi|汉成帝]]'s spectacle politics before later biographical treatment. [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] makes him the subject rather than only a later authority: a poor, stuttering, learned, low-key writer whose fu and [[Fangyan|《方言》]] made his cultural afterlife exceed his official rank. [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] adds the active frontier remonstrant: a palace official who reads Xiongnu diplomacy through long-range risk prevention rather than reception cost. [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] adds the court personnel remonstrant: he uses the "鼓妖" anomaly to argue that [[ZhuBoWesternHan|朱博]] is temperamentally fit for military command but not chancellorship.
 
 ## Current Profile
 
@@ -41,7 +42,7 @@ Hanji 579 adds Yang Xiong's omen-coded personnel voice. Asked about the palace s
 - Late Western Han writer-scholar whose conventional page title keeps 扬雄 while source transcripts sometimes write 杨雄, and whose judgments often test talent by public moral direction rather than success alone.
 - Severe judge of persuasive, military, assassination, loyal-service, and ritual expertise when ability is detached from righteousness or public consequence.
 - Poor, stuttering, learned, and underpromoted figure whose cultural work outlasts low visible status.
-- Fu writer positioned beside [[SimaXiangru|司马相如]] through admiration, imitation, and later pairing.
+- Fu writer positioned beside [[SimaXiangru|司马相如]] through admiration, imitation, later pairing, and the Chengdi-era Changyang spectacle occasion for 《长杨赋》.
 - Scholar of language whose [[Fangyan|《方言》]] and delayed reception give him a durable place in Chinese linguistic and cultural history.
 - Frontier remonstrant who frames Xiongnu reception through prevention, credibility, and strategic cost-risk rather than immediate expense.
 - Omen-coded personnel remonstrant who uses the "鼓妖" event to distinguish military suitability from chancellorship suitability.
@@ -56,6 +57,7 @@ Hanji 579 adds Yang Xiong's omen-coded personnel voice. Asked about the palace s
 - Anti-fatalistic political judgment: [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] cites Yang Xiong to reject Xiang Yu's Heaven-based excuse by emphasizing people-use and counsel.
 - Ritual-technician critique: [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] cites Fayan to question Shusun Tong's adaptation to rulerly awe and court usability.
 - Biography and scholarship: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Yang Xiong was stuttering, learned, frank, poor without self-deception, linked to Sima Xiangru's fu tradition, and author of Fangyan.
+- Changyang fu occasion: [[zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v|Hanji 551]] says Yang Xiong accompanied Chengdi to the shooting-bear spectacle and later composed 《长杨赋》.
 - Frontier-risk remonstrance: [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] says Yang Xiong persuaded Han Aidi to receive the Xiongnu chanyu by ranking Xiongnu as Han's special strategic opponent and warning that mistrust would be difficult to repair.
 - Delayed reception: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Huan Tan predicted Yang Xiong's works would be transmitted because people often miss important things near at hand.
 - Drum-omen personnel critique: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] says Yang Xiong reads the palace sound as a warning that Zhu Bo is not suited to be chancellor.

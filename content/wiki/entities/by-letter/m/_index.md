@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1262,6 +1262,9 @@ wiki_pages:
   - key: "MyChemicalRomance"
     title: "My Chemical Romance"
     url: "/wiki/entities/mychemicalromance/"
+  - key: "MyMotherlandSong"
+    title: "My Motherland"
+    url: "/wiki/entities/mymotherlandsong/"
   - key: "Myanmar"
     title: "Myanmar"
     url: "/wiki/entities/myanmar/"
@@ -1412,9 +1415,15 @@ wiki_pages:
   - key: "Mannisen"
     title: "曼妮森"
     url: "/wiki/entities/mannisen/"
+  - key: "MozhenjiangWusun"
+    title: "末振将 / Mozhenjiang"
+    url: "/wiki/entities/mozhenjiangwusun/"
   - key: "MeiLanfang"
     title: "梅兰芳 / Mei Lanfang"
     url: "/wiki/entities/meilanfang/"
+  - key: "MeiFuWesternHan"
+    title: "梅福 / Mei Fu (Western Han)"
+    url: "/wiki/entities/meifuwesternhan/"
   - key: "MeiJuan"
     title: "梅鋗 / Mei Juan"
     url: "/wiki/entities/meijuan/"

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2910
+topic_total_pages: 2913
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -976,6 +976,9 @@ topic_concepts:
   - key: "AIGeneratedHoaxEvidence"
     title: "AI-Generated Hoax Evidence"
     url: "/wiki/concepts/aigeneratedhoaxevidence/"
+  - key: "AIGeneratedProofGovernance"
+    title: "AI-Generated Proof Governance"
+    url: "/wiki/concepts/aigeneratedproofgovernance/"
   - key: "AINativeInvestingWorkflow"
     title: "AI-Native Investing Workflow"
     url: "/wiki/concepts/ainativeinvestingworkflow/"
@@ -5558,6 +5561,9 @@ topic_entities:
   - key: "Lavod"
     title: "Lavod"
     url: "/wiki/entities/lavod/"
+  - key: "LeVanElgindi"
+    title: "Le Van Elgindi"
+    url: "/wiki/entities/levanelgindi/"
   - key: "LeeLockwood"
     title: "Lee Lockwood"
     url: "/wiki/entities/leelockwood/"
@@ -8289,6 +8295,9 @@ topic_sources:
   - key: "tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128"
     title: "Opening the curtain of AI business integration"
     url: "/wiki/sources/tech-20260803-0803-mp-tech-pod-128-tech-20260803-0803-mp-tech-pod-128/"
+  - key: "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb"
+    title: "Out-numbered: AI's contentious maths milestone"
+    url: "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
   - key: "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132"
     title: "Outsider chance: ending Sudan's proxy war"
     url: "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"

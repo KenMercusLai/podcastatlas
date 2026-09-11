@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -479,6 +479,9 @@ wiki_pages:
   - key: "FirstWorldWar"
     title: "First World War"
     url: "/wiki/concepts/firstworldwar/"
+  - key: "FirstWorldWarGasWarfare"
+    title: "First World War Gas Warfare"
+    url: "/wiki/concepts/firstworldwargaswarfare/"
   - key: "FirstAidTriageAndEscalation"
     title: "First-Aid Triage and Escalation / 急救判断与升级"
     url: "/wiki/concepts/firstaidtriageandescalation/"
@@ -1169,6 +1172,9 @@ wiki_pages:
   - key: "FuneraryPrivilegeAbuse"
     title: "丧葬名分僭越 / Funerary Privilege Abuse"
     url: "/wiki/concepts/funeraryprivilegeabuse/"
+  - key: "FuneralRitualAccountability"
+    title: "丧葬礼制责任 / Funeral Ritual Accountability"
+    url: "/wiki/concepts/funeralritualaccountability/"
   - key: "FiveDynastiesTenKingdomsConceptFormation"
     title: "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation"
     url: "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"

@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "hanji-553-office-restoration-masks-command-removal",
+      "qualifications": [
+        "This is a source-scoped late-Western-Han institutional reading from one short episode note.",
+        "The full Three Excellencies institutional history, Kong-family genealogy, and Liu Xing death context remain outside this claim.",
+        "The workplace analogy is preserved as source framing rather than independent evidence about modern organizations."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|Hanji 553]] backfills the late-Chengdi sequence between Hanji 552 and Hanji 554: [[HanChengdi|汉成帝]] accepts [[HeWuWesternHan|何武]]'s Three Excellencies reform, formalizes [[WangGenWesternHan|王根]] as Da Sima, and removes Wang Gen's Piaoji Jiangjun command, making [[OfficeSequencePowerReallocation|office-sequence reallocation]] a case where visible promotion can mask practical command loss.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi",
+        "HanChengdi",
+        "HeWuWesternHan",
+        "WangGenWesternHan",
+        "OfficeSequencePowerReallocation",
+        "zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw",
+        "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-575-dingtao-lineage-secrecy-precedes-title-settlement",
       "qualifications": [
         "This is a historical backfill claim from one episode note, not a complete reign narrative for Han Aidi.",

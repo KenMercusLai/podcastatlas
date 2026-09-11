@@ -1730,6 +1730,29 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/aiexpressionbaseline/"
     },
+    "AIForMath": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
+          "key": "137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的",
+          "url": "/wiki/sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb/"
+        },
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/aiformath/"
+    },
     "AIGeneratedContentQualityGap": {
       "episode_count": 3,
       "show_count": 3,
@@ -1759,6 +1782,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/aigeneratedcontentqualitygap/"
+    },
+    "AIGeneratedProofGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/aigeneratedproofgovernance/"
     },
     "AIGlassesComputingPlatform": {
       "episode_count": 1,
@@ -2188,6 +2227,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/concepts/aimasterylearningmodel/"
+    },
+    "AIMathematician": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的 [lha_FAiWxTGet0QMbcOSts3cb5Vb].md",
+          "key": "137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb",
+          "show": "张小珺Jùn｜商业访谈录",
+          "title": "137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的",
+          "url": "/wiki/sources/137-dui-hong-letong-de-4-xiaoshi-fangtan-ai-for-math-ba-shuxue-biancheng-lean-shuxue-tianshu-zhong-de-zhengming-zhijue-bei-chuangzao-yu-bei-faxian-de-lha-faiwxtget0qmbcosts3cb5vb/"
+        },
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/aimathematician/"
     },
     "AIModelBiasGovernance": {
       "episode_count": 5,
@@ -3689,9 +3751,9 @@
       "url": "/wiki/concepts/adolescentschoolrefusalmentalhealth/"
     },
     "AdoptiveLineageRitualPolitics": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》618丨王莽为何是夺权的头号玩家？ [lqcAOli6r7LbDZQY7EMW8SbZS0Wq].md",
@@ -3706,9 +3768,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？ [lq3KKKmk9nH4yhxuOVMY_uKtALrV].md",
+          "key": "zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/adoptivelineageritualpolitics/"
     },
     "AdultProductsRelationshipSupport": {
@@ -5997,6 +6066,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/anitaramaswamy/"
     },
+    "AnlimiWusun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
+          "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/anlimiwusun/"
+    },
     "AnnetteGordonReed": {
       "episode_count": 1,
       "show_count": 1,
@@ -6037,9 +6122,9 @@
       "url": "/wiki/concepts/anonymousslanderretaliation/"
     },
     "AntaSports": {
-      "episode_count": 3,
-      "show_count": 3,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP255 厂二代的“继承之战”：年轻人接班会重塑企业吗？ [likvzmPGwXneTPaeZxCLsX4s_HkW].md",
@@ -6061,9 +6146,16 @@
           "show": "声动早咖啡",
           "title": "怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房",
           "url": "/wiki/sources/yibao-chunjingshui-fene-xiahua-anta-qixia-yujiafu-pinpai-kaishe-jianshenfang-1012409578/"
+        },
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-11",
       "url": "/wiki/entities/antasports/"
     },
     "AntarcticClimateServices": {
@@ -8857,6 +8949,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/basicresearchbreakthroughlatency/"
+    },
+    "BattleOfLoos": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/battleofloos/"
     },
     "BattlefieldFeintAndLure": {
       "episode_count": 6,
@@ -12121,9 +12229,9 @@
       "url": "/wiki/entities/caozonglatehan/"
     },
     "CapacityBackedDiplomaticHierarchy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？ [lu59asTeDslJoEFNL6yR9d4iLIrh].md",
@@ -12131,9 +12239,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/capacitybackeddiplomatichierarchy/"
     },
     "CapacityBoundFrontierCommitment": {
@@ -12930,6 +13045,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/changpengzhao/"
     },
+    "ChangyangPalace": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
+          "key": "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/changyangpalace/"
+    },
     "ChannelLengthRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -13699,6 +13830,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/chenzhonglatehan/"
+    },
+    "ChendaiTown": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/chendaitown/"
     },
     "ChengHongningYuzhouEBike": {
       "episode_count": 1,
@@ -15449,10 +15596,17 @@
       "url": "/wiki/entities/chunyuqiong/"
     },
     "ChunyuZhangWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？ [liCvtKYvOh-P3ucoBoWldj6G--iD].md",
+          "key": "zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
           "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
@@ -16234,9 +16388,9 @@
       "url": "/wiki/concepts/coercedtalentlegitimacy/"
     },
     "CoerciveFrontierDeterrence": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
@@ -16244,9 +16398,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕",
           "url": "/wiki/sources/zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
+          "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/coercivefrontierdeterrence/"
     },
     "CoerciveFrontierRelocationBackfire": {
@@ -17913,6 +18074,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/counterinsurgencylegitimacytrap/"
+    },
+    "CounterterrorismPowersRepurposing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/counterterrorismpowersrepurposing/"
     },
     "CountessLarish": {
       "episode_count": 2,
@@ -21235,9 +21412,9 @@
       "url": "/wiki/concepts/desirabledifficulty/"
     },
     "DesireCapacityFit": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "时代症候 与 安定此心 [lpHAw0Qek8iBR0Jt44yYGoU6akql].md",
@@ -21245,9 +21422,16 @@
           "show": "面基",
           "title": "时代症候，与安定此心",
           "url": "/wiki/sources/shidai-zhenghou-yu-anding-cixin-lphaw0qek8ibr0jt44yygou6akql/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/desirecapacityfit/"
     },
     "DesireDrivenCommandExposure": {
@@ -21375,6 +21559,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/diabeticretinopathyscreening/"
+    },
+    "DiagnosisPersonhoodBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7834121132 [SCIM7834121132].md",
+          "key": "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
+          "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/diagnosispersonhoodboundary/"
     },
     "DiagnosticSafetyNetting": {
       "episode_count": 1,
@@ -21632,10 +21832,17 @@
       "url": "/wiki/entities/dinghongeasternhan/"
     },
     "DingJiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？ [lq3KKKmk9nH4yhxuOVMY_uKtALrV].md",
+          "key": "zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
           "key": "zizhi-tongjian-hanji-626-waren-fenmu-wangmang-jing-ruci-sangxinbingkuang-lotwk6rbtl5pvbrnlfrysu5ol6rz",
@@ -21651,7 +21858,7 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/dingjiwesternhan/"
     },
     "DingMingWesternHan": {
@@ -21676,6 +21883,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/dingmingwesternhan/"
+    },
+    "DingShizhong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/dingshizhong/"
     },
     "DingdongMaicai": {
       "episode_count": 2,
@@ -21717,9 +21940,9 @@
       "url": "/wiki/entities/dingdongxiaoqu/"
     },
     "DiplomaticCostRiskAccounting": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》589丨揭秘无脑省钱的可怕后果 [ln7ZzXy9DYdeBCE_b3bomkcR872D].md",
@@ -21734,9 +21957,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/diplomaticcostriskaccounting/"
     },
     "DiplomaticPersonaAsStrategicAsset": {
@@ -21779,9 +22009,9 @@
       "url": "/wiki/concepts/diplomaticritualdignity/"
     },
     "DiplomaticScapegoatBlameTransfer": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》649丨官场里的人情世故有多现实？ [ljcWDS5N_-xDxJO-EWt2aRrgf9Ib].md",
@@ -21789,9 +22019,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》649丨官场里的人情世故有多现实？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-649-guanchang-li-de-renqing-shigu-you-duo-xianshi-ljcwds5n-xdxjo-ewt2arrgf9ib/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/diplomaticscapegoatblametransfer/"
     },
     "DirectRemonstranceCriminalization": {
@@ -21904,6 +22141,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/disasteromencrisisredirection/"
+    },
+    "DisasterOmenInterpretiveSkepticism": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！ [liOK6_A2Hef5p8-KYdup8wK8PhVf].md",
+          "key": "zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/disasteromeninterpretiveskepticism/"
     },
     "DisasterOmenPersonnelAttack": {
       "episode_count": 1,
@@ -23663,6 +23916,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/duanguilatehan/"
+    },
+    "DuanHuizongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
+          "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/duanhuizongwesternhan/"
     },
     "DuanJiongLateHan": {
       "episode_count": 16,
@@ -26953,10 +27222,17 @@
       "url": "/wiki/entities/empressxiaomuxin/"
     },
     "EmpressXuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？ [liCvtKYvOh-P3ucoBoWldj6G--iD].md",
+          "key": "zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量 [lnVMnizx0mHRLn-g1P1a8U_9kGnx].md",
           "key": "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
@@ -27631,6 +27907,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/ericweinstein/"
     },
+    "ErnstJunger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/ernstjunger/"
+    },
     "EspressoCodeEditor": {
       "episode_count": 1,
       "show_count": 1,
@@ -27915,6 +28207,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/everydayhumanitarianisminwarfilm/"
+    },
+    "EverydaySocialConnection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7834121132 [SCIM7834121132].md",
+          "key": "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
+          "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/everydaysocialconnection/"
     },
     "EvolutionaryMisrecognition": {
       "episode_count": 1,
@@ -29178,6 +29486,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/fangyan/"
     },
+    "FanqiuWusun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
+          "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/fanqiuwusun/"
+    },
     "FarRightNormalization": {
       "episode_count": 4,
       "show_count": 1,
@@ -30429,6 +30753,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/fifthzhonglatehan/"
     },
+    "Fila": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/fila/"
+    },
     "FilibusterMinorityRights": {
       "episode_count": 1,
       "show_count": 1,
@@ -30611,9 +30951,9 @@
       "url": "/wiki/entities/firstsouthwestbank/"
     },
     "FirstWorldWar": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "GLT1889262052 [GLT1889262052].md",
@@ -30649,10 +30989,33 @@
           "show": "The Rest Is History",
           "title": "672. The First World War: Italy's Doomed Campaign (Part 2)",
           "url": "/wiki/sources/672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829/"
+        },
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/firstworldwar/"
+    },
+    "FirstWorldWarGasWarfare": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/firstworldwargaswarfare/"
     },
     "FiscalExtractionRebellionSpiral": {
       "episode_count": 2,
@@ -33126,9 +33489,9 @@
       "url": "/wiki/entities/fushangwesternhan/"
     },
     "FuTaihouWesternHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
@@ -33199,6 +33562,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问",
           "url": "/wiki/sources/zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
+          "key": "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
         }
       ],
       "updated": "2026-09-11",
@@ -33474,6 +33844,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/functionallongevitytraining/"
+    },
+    "FuneralRitualAccountability": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
+          "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/funeralritualaccountability/"
     },
     "FuneraryDefianceUnderPoliticalTerror": {
       "episode_count": 1,
@@ -36752,6 +37138,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/growthwitnessing/"
     },
+    "GuYongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
+          "key": "zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/guyongwesternhan/"
+    },
     "GuanBaLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -37314,6 +37716,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/guojia/"
     },
+    "GuoLanying": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/guolanying/"
+    },
     "GuoLiangLiGuStudent": {
       "episode_count": 1,
       "show_count": 1,
@@ -37444,6 +37862,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/guoshengtong/"
+    },
+    "GuoShunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
+          "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/guoshunwesternhan/"
     },
     "GuoTaiLateHan": {
       "episode_count": 7,
@@ -37840,9 +38274,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanAidi": {
-      "episode_count": 21,
+      "episode_count": 22,
       "show_count": 2,
-      "source_note_count": 21,
+      "source_note_count": 22,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -37990,6 +38424,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问",
           "url": "/wiki/sources/zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
+          "key": "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
         }
       ],
       "updated": "2026-09-11",
@@ -38042,10 +38483,24 @@
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanChengdi": {
-      "episode_count": 10,
+      "episode_count": 16,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 16,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
+          "key": "zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
+          "key": "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》654丨揭秘西汉扬雄的传奇人生 [lq3O_13h2iN89qWH0dVcHCzLvRqk].md",
           "key": "zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk",
@@ -38115,9 +38570,37 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？ [lrXip_DeGAGyO5vhEk5PDXnuBPsi].md",
+          "key": "zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
+          "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
+          "key": "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/hanchengdi/"
     },
     "HanFanLateHan": {
@@ -38972,9 +39455,9 @@
       "url": "/wiki/entities/hesongeasternhan/"
     },
     "HeWuWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学 [ljD2OJjmsla46No-9M2q802SyxLP].md",
@@ -38996,6 +39479,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？ [lrXip_DeGAGyO5vhEk5PDXnuBPsi].md",
+          "key": "zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi/"
         }
       ],
       "updated": "2026-09-11",
@@ -41651,6 +42141,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/huangyunlatehan/"
     },
+    "HuangZiyiManufacturingReporter": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？ [lqYrioPtGgnBb8hl_Llej0_5OW0V].md",
+          "key": "ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v",
+          "show": "Talk三联",
+          "title": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？",
+          "url": "/wiki/sources/ep271-tanfang-rouxing-zhizao-gongchang-shi-shui-rang-ni-xiangyao-jiu-neng-maidao-lqyrioptggnbb8hl-llej0-5ow0v/"
+        },
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/huangziyimanufacturingreporter/"
+    },
     "HuangZu": {
       "episode_count": 4,
       "show_count": 1,
@@ -44026,6 +44539,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/instinctpersonalai/"
     },
+    "InstitutionalLoyaltyOverPersonalLoyalty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
+          "key": "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/institutionalloyaltyoverpersonalloyalty/"
+    },
     "InstitutionalMemoryConcealment": {
       "episode_count": 1,
       "show_count": 1,
@@ -45492,6 +46021,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/jealousyaspoliticalviolence/"
     },
+    "JealousyDeescalationByRivalProtection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！ [liOK6_A2Hef5p8-KYdup8wK8PhVf].md",
+          "key": "zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/jealousydeescalationbyrivalprotection/"
+    },
     "JeffCavaliere": {
       "episode_count": 1,
       "show_count": 1,
@@ -46412,6 +46957,45 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/jingwuprincesswesternhan/"
     },
+    "Jinjiang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "No.207 闽南往事：众神人间办事处，涨海声中万国商 [992579918].md",
+          "key": "no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918",
+          "show": "半拿铁 | 商业沉浮录",
+          "title": "No.207 闽南往事：众神人间办事处，涨海声中万国商",
+          "url": "/wiki/sources/no-207-minnan-wangshi-zhongshen-renjian-banshichu-zhanghai-shengzhong-wanguo-shang-992579918/"
+        },
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/jinjiang/"
+    },
+    "JinjiangModel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/jinjiangmodel/"
+    },
     "JiuXiRitualPromotion": {
       "episode_count": 2,
       "show_count": 1,
@@ -46730,6 +47314,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/johnjumper/"
+    },
+    "JohnKipling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/johnkipling/"
     },
     "JohnMcCarthy": {
       "episode_count": 1,
@@ -47282,6 +47882,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/kangbao/"
     },
+    "Kangju": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
+          "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/kangju/"
+    },
     "KaomiSleep": {
       "episode_count": 1,
       "show_count": 1,
@@ -47760,6 +48376,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/kinderhymne/"
     },
+    "KinshipBasedTownshipEnterpriseFinance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/kinshipbasedtownshipenterprisefinance/"
+    },
     "KinshipProtocolBoundary": {
       "episode_count": 3,
       "show_count": 1,
@@ -47926,10 +48558,17 @@
       "url": "/wiki/entities/kongfeneasternhan/"
     },
     "KongGuangWesternHan": {
-      "episode_count": 8,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 10,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
+          "key": "zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
           "key": "zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut",
@@ -47985,10 +48624,33 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
+          "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/kongguangwesternhan/"
+    },
+    "KongJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？ [lrXip_DeGAGyO5vhEk5PDXnuBPsi].md",
+          "key": "zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi/"
         }
       ],
       "updated": "2026-09-11",
-      "url": "/wiki/entities/kongguangwesternhan/"
+      "url": "/wiki/entities/kongjiwesternhan/"
     },
     "KongRong": {
       "episode_count": 7,
@@ -49128,6 +49790,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/lehuieasternhan/"
     },
+    "LeVanElgindi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/levanelgindi/"
+    },
     "LeaderPersonalExposure": {
       "episode_count": 3,
       "show_count": 1,
@@ -49908,6 +50586,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/liheeasternhan/"
+    },
+    "LiHonggu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/lihonggu/"
     },
     "LiHongwei": {
       "episode_count": 1,
@@ -52165,6 +52859,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/liukaieasternhan/"
     },
+    "LiuKangDingtaoKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
+          "key": "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/liukangdingtaokingwesternhan/"
+    },
     "LiuKuaiXinRebel": {
       "episode_count": 1,
       "show_count": 1,
@@ -52749,6 +53459,29 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/liuxinwesternhan/"
+    },
+    "LiuXingZhongshanKingWesternHan": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
+          "key": "zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
+          "key": "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/liuxingzhongshankingwesternhan/"
     },
     "LiuXiu": {
       "episode_count": 35,
@@ -58079,6 +58812,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/meghirschberg/"
     },
+    "MeiFuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
+          "key": "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/meifuwesternhan/"
+    },
     "Memex": {
       "episode_count": 1,
       "show_count": 1,
@@ -60517,6 +61266,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/movementpracticeasawareness/"
     },
+    "MozhenjiangWusun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
+          "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/mozhenjiangwusun/"
+    },
     "MultiTeacherDistillation": {
       "episode_count": 2,
       "show_count": 2,
@@ -60773,6 +61538,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/myfirsthalflife/"
+    },
+    "MyMotherlandSong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/mymotherlandsong/"
     },
     "MyopiaSurgeryRiskBoundary": {
       "episode_count": 1,
@@ -61294,9 +62075,9 @@
       "url": "/wiki/concepts/naturelawlegaljustice/"
     },
     "NavierStokesEquations": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权 [1013261958].md",
@@ -61304,9 +62085,16 @@
           "show": "声动早咖啡",
           "title": "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权",
           "url": "/wiki/sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958/"
+        },
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/navierstokesequations/"
     },
     "Ndongo": {
@@ -61811,6 +62599,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/nickcullinan/"
+    },
+    "NickEpley": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7834121132 [SCIM7834121132].md",
+          "key": "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
+          "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/nickepley/"
     },
     "NicolasMaduro": {
       "episode_count": 4,
@@ -63159,9 +63963,9 @@
       "url": "/wiki/entities/officeofscienceandtechnologypolicy/"
     },
     "OfficeSequencePowerReallocation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！ [lnnRRBGgaJJfulsKbig4KmgNIF5S].md",
@@ -63176,6 +63980,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？ [lrXip_DeGAGyO5vhEk5PDXnuBPsi].md",
+          "key": "zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi/"
         }
       ],
       "updated": "2026-09-11",
@@ -63624,9 +64435,9 @@
       "url": "/wiki/concepts/omencodedremonstrance/"
     },
     "OmenSkepticismRemonstrance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！ [lrI1zyiq8210yMQJAKzNyP3v4K6x].md",
@@ -63634,9 +64445,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！ [liOK6_A2Hef5p8-KYdup8wK8PhVf].md",
+          "key": "zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/omenskepticismremonstrance/"
     },
     "OmerKhan": {
@@ -64605,9 +65423,9 @@
       "url": "/wiki/concepts/outerrelativeofficecontest/"
     },
     "OuterRelativePreventiveRestraint": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！ [luqVnlD4wBDgC3NRDUmyHFHSCs4Z].md",
@@ -64650,9 +65468,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》562丨汉哀帝即位时有多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
+          "key": "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/outerrelativepreventiverestraint/"
     },
     "OuterRelativeRecurrence": {
@@ -65111,6 +65936,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/palacefavoriteprotectionfragility/"
+    },
+    "PalaceInformationDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
+          "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/palaceinformationdiscipline/"
     },
     "PalaceMarriageFamilyMobility": {
       "episode_count": 1,
@@ -66207,6 +67048,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/pennsylvaniaaiinfrastructureboom/"
+    },
+    "PeopleArtistStateHonor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/peopleartiststatehonor/"
     },
     "PeptideEvidenceHierarchy": {
       "episode_count": 1,
@@ -68171,6 +69028,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/positivestressbreathwork/"
+    },
+    "Post911CounterterrorismArchitecture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/post911counterterrorismarchitecture/"
     },
     "PostAnesthesiaRecoverySafety": {
       "episode_count": 1,
@@ -71089,6 +71962,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/qinshuiprincesseasternhan/"
     },
+    "QiongchengTaihouWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
+          "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/qiongchengtaihouwesternhan/"
+    },
     "QiuXiangLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -71818,6 +72707,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/realestatehighturnoverleverage/"
     },
+    "RealExposureSocialAnxiety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7834121132 [SCIM7834121132].md",
+          "key": "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
+          "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/realexposuresocialanxiety/"
+    },
     "RealRobotDataStrategy": {
       "episode_count": 9,
       "show_count": 5,
@@ -72036,9 +72941,9 @@
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
     },
     "ReceptiveRemonstranceGovernance": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -72081,9 +72986,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》685丨东汉大臣宋弘，为何不肯做光武帝姐夫？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
+          "key": "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/receptiveremonstrancegovernance/"
     },
     "ReclusionAuthenticityAssessment": {
@@ -73742,6 +74654,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/revolutionarymilitaryslaverycontradiction/"
     },
+    "RevolutionaryOperaCulturalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/revolutionaryoperaculturalmemory/"
+    },
     "RewardPredictionErrorLearning": {
       "episode_count": 1,
       "show_count": 1,
@@ -74227,6 +75155,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/robbenisland/"
+    },
+    "RobertGraves": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/robertgraves/"
     },
     "RobertMacfarlane": {
       "episode_count": 1,
@@ -74929,6 +75873,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/royalusurpationspeechtaboo/"
     },
+    "RudyardKipling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/rudyardkipling/"
+    },
     "RugbyWorldCup1995": {
       "episode_count": 1,
       "show_count": 1,
@@ -75366,6 +76326,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/concepts/saltrevenueagriculturalrecovery/"
+    },
+    "SamBeale": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/sambeale/"
     },
     "SamHarris": {
       "episode_count": 1,
@@ -77264,6 +78240,29 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/shanghaishenhua/"
     },
+    "Shangshu": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！ [ljnhWcoUQu35RmvB-CNRZYzj2J6L].md",
+          "key": "zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》124｜焚书坑儒？！我在B站为秦始皇平反！",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-124-fenshu-kengru-wo-zai-bzhan-wei-qinshihuang-pingfan-ljnhwcouqu35rmvb-cnrzyzj2j6l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
+          "key": "zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/shangshu/"
+    },
     "ShangshuTaiImperialAccess": {
       "episode_count": 3,
       "show_count": 1,
@@ -77622,6 +78621,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/shekharnatarajan/"
+    },
+    "ShellShock": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/shellshock/"
     },
     "ShenJingLateHan": {
       "episode_count": 1,
@@ -79586,6 +80601,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/socialmediaproductliability/"
     },
+    "SocialMisprediction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7834121132 [SCIM7834121132].md",
+          "key": "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
+          "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/socialmisprediction/"
+    },
     "SocialRoboticsElderCare": {
       "episode_count": 1,
       "show_count": 1,
@@ -80577,6 +81608,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/sportswearinventorycycle/"
+    },
+    "SportswearMultiBrandPortfolio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/sportswearmultibrandportfolio/"
     },
     "SpotRobot": {
       "episode_count": 1,
@@ -82917,6 +83964,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/sunyutao/"
     },
+    "SunkCostEntrapment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？ [liCvtKYvOh-P3ucoBoWldj6G--iD].md",
+          "key": "zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/sunkcostentrapment/"
+    },
     "SuoBanLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -85061,9 +86124,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 24,
+      "episode_count": 25,
       "show_count": 1,
-      "source_note_count": 24,
+      "source_note_count": 25,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -85232,9 +86295,16 @@
           "show": "The Rest Is History",
           "title": "316: The First Abolitionist",
           "url": "/wiki/sources/316-the-first-abolitionist-glt2136062721/"
+        },
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/therestishistory/"
     },
     "TheSaaSPodcast": {
@@ -85366,6 +86436,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/thetroubles/"
+    },
+    "TheWhiteHairedGirl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/thewhitehairedgirl/"
     },
     "TheWomanKing": {
       "episode_count": 1,
@@ -86985,6 +88071,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/treatyofparis1783/"
     },
+    "TrenchLifeWesternFront": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/trenchlifewesternfront/"
+    },
     "TrenchSanitationDiseaseBurden": {
       "episode_count": 1,
       "show_count": 1,
@@ -87037,6 +88139,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/trialsizeproduct/"
+    },
+    "TristanBuckmaster": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
+          "key": "out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb",
+          "show": "Economist Podcasts",
+          "title": "Out-numbered: AI's contentious maths milestone",
+          "url": "/wiki/sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/tristanbuckmaster/"
     },
     "TrojanHorse": {
       "episode_count": 1,
@@ -89182,6 +90300,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/voiceagentinfrastructure/"
     },
+    "VoiceHumanization": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7834121132 [SCIM7834121132].md",
+          "key": "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132",
+          "show": "Huberman Lab",
+          "title": "How to Overcome Social Anxiety | Dr. Nick Epley",
+          "url": "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/voicehumanization/"
+    },
     "VoiceInteraction": {
       "episode_count": 9,
       "show_count": 5,
@@ -89603,6 +90737,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangfangxinprincess/"
     },
+    "WangFengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
+          "key": "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangfengwesternhan/"
+    },
     "WangFuDongChengPlot": {
       "episode_count": 1,
       "show_count": 1,
@@ -89734,9 +90884,9 @@
       "url": "/wiki/entities/wangfulatehan/"
     },
     "WangGenWesternHan": {
-      "episode_count": 2,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -89751,6 +90901,34 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
           "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！ [liOK6_A2Hef5p8-KYdup8wK8PhVf].md",
+          "key": "zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
+          "key": "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？ [lrXip_DeGAGyO5vhEk5PDXnuBPsi].md",
+          "key": "zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi/"
         }
       ],
       "updated": "2026-09-11",
@@ -90904,6 +92082,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/wangyuanweixiaoretainer/"
     },
+    "WangZhangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
+          "key": "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangzhangwesternhan/"
+    },
     "WangZhengjun": {
       "episode_count": 15,
       "show_count": 2,
@@ -92025,6 +93219,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/westgermany/"
+    },
+    "WesternFrontFirstWorldWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2309179565 [GLT2309179565].md",
+          "key": "671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565",
+          "show": "The Rest Is History",
+          "title": "671. The First World War: Blood in the Trenches (Part 1)",
+          "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/westernfrontfirstworldwar/"
     },
     "WesternHanLimitLandAndSlaves": {
       "episode_count": 1,
@@ -93684,9 +94894,9 @@
       "url": "/wiki/entities/wusisouthernxiongnu/"
     },
     "Wusun": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
@@ -93694,9 +94904,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
+          "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/entities/wusun/"
     },
     "WuyanCounty": {
@@ -93753,6 +94970,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/wuzhucoinrestoration/"
+    },
+    "WuzhuliuChanyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/wuzhuliuchanyu/"
     },
     "XiFuGongWesternHan": {
       "episode_count": 3,
@@ -93914,6 +95147,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/xiahoudun/"
+    },
+    "XiahouFanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/xiahoufanwesternhan/"
     },
     "XiahouYuan": {
       "episode_count": 1,
@@ -94363,6 +95612,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xieanxiapilatehan/"
+    },
+    "XieBangBook": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
+          "key": "500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2",
+          "show": "忽左忽右",
+          "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+          "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/entities/xiebangbook/"
     },
     "XieBiLateHan": {
       "episode_count": 1,
@@ -94837,9 +96102,9 @@
       "url": "/wiki/entities/xinyelatehan/"
     },
     "Xiongnu": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -94966,9 +96231,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》590丨古代中国的生死仇敌，是它？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望 [lo3brDUFkIaKS3mfsQsrUXPrQdCn].md",
+          "key": "zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/entities/xiongnu/"
     },
     "XiuliChanyu": {
@@ -95246,6 +96518,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/xumeirenwesternhan/"
+    },
+    "XuPingjunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
+          "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/xupingjunwesternhan/"
     },
     "XuQiuGuanglingLateHan": {
       "episode_count": 1,
@@ -95580,6 +96868,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/xuexiaofan/"
     },
+    "XueXuanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
+          "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/xuexuanwesternhan/"
+    },
     "XueZhenzhuMyFirstHalfLife": {
       "episode_count": 1,
       "show_count": 1,
@@ -95913,6 +97217,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/yanchanglatehan/"
+    },
+    "YanCongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？ [lq3KKKmk9nH4yhxuOVMY_uKtALrV].md",
+          "key": "zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yancongwesternhan/"
     },
     "YanDuLateHan": {
       "episode_count": 1,
@@ -96589,9 +97909,9 @@
       "url": "/wiki/entities/yangtianzhen/"
     },
     "YangXiong": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度 [loeoQCcRfWbMtR634ukYAU9xYkqy].md",
@@ -96669,6 +97989,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》579丨走近科学 鼓妖是妖吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
+          "key": "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
         }
       ],
       "updated": "2026-09-11",
@@ -98522,9 +99849,9 @@
       "url": "/wiki/entities/zhaichaolatehan/"
     },
     "ZhaiFangjinWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -98553,9 +99880,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
           "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
+          "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》540丨太后的葬礼",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/zhaifangjinwesternhan/"
     },
     "ZhaiGuiLateHan": {
@@ -99742,9 +101076,9 @@
       "url": "/wiki/entities/zhangyueasternhan/"
     },
     "ZhangYuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
@@ -99752,6 +101086,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！ [liOK6_A2Hef5p8-KYdup8wK8PhVf].md",
+          "key": "zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf/"
         }
       ],
       "updated": "2026-09-11",
@@ -100213,10 +101554,17 @@
       "url": "/wiki/entities/zhaoxulatehan/"
     },
     "ZhaoXuanWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？ [lq3KKKmk9nH4yhxuOVMY_uKtALrV].md",
+          "key": "zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？ [liid3tymhoJMaJkyeqOq6VRyPRHz].md",
           "key": "zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz",
@@ -100232,7 +101580,7 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/zhaoxuanwesternhan/"
     },
     "ZhaoYanLateHan": {

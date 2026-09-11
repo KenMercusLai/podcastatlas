@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -839,6 +839,9 @@ wiki_pages:
   - key: "DescendantsOfTheDragon"
     title: "《龙的传人》 / Descendants of the Dragon"
     url: "/wiki/entities/descendantsofthedragon/"
+  - key: "DingShizhong"
+    title: "丁世忠 / Ding Shizhong"
+    url: "/wiki/entities/dingshizhong/"
   - key: "DingErLihun"
     title: "丁二（《离婚》） / Ding Er"
     url: "/wiki/entities/dingerlihun/"
@@ -1103,6 +1106,9 @@ wiki_pages:
   - key: "DuYeWesternHan"
     title: "杜邺 / Du Ye (Western Han)"
     url: "/wiki/entities/duyewesternhan/"
+  - key: "DuanHuizongWesternHan"
+    title: "段会宗 / Duan Huizong"
+    url: "/wiki/entities/duanhuizongwesternhan/"
   - key: "DuanNongyu"
     title: "段农裕 / Duan Nongyu"
     url: "/wiki/entities/duannongyu/"

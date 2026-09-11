@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "TheWaltDisneyCompany"
     title: "The Walt Disney Company"
     url: "/wiki/entities/thewaltdisneycompany/"
+  - key: "TheWhiteHairedGirl"
+    title: "The White-Haired Girl"
+    url: "/wiki/entities/thewhitehairedgirl/"
   - key: "TheWitchesSalem1692"
     title: "The Witches: Salem, 1692 / 《猎巫：塞勒姆1692》"
     url: "/wiki/entities/thewitchessalem1692/"
@@ -851,6 +854,9 @@ wiki_pages:
   - key: "Tristan"
     title: "Tristan"
     url: "/wiki/entities/tristan/"
+  - key: "TristanBuckmaster"
+    title: "Tristan Buckmaster"
+    url: "/wiki/entities/tristanbuckmaster/"
   - key: "TRMLabs"
     title: "TRM Labs"
     url: "/wiki/entities/trmlabs/"

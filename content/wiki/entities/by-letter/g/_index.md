@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -725,6 +725,9 @@ wiki_pages:
   - key: "Gumroad"
     title: "Gumroad"
     url: "/wiki/entities/gumroad/"
+  - key: "GuoLanying"
+    title: "Guo Lanying"
+    url: "/wiki/entities/guolanying/"
   - key: "GuoPu"
     title: "Guo Pu / 郭璞"
     url: "/wiki/entities/guopu/"
@@ -1124,6 +1127,9 @@ wiki_pages:
   - key: "GuYongLateHan"
     title: "谷永 / Gu Yong (late Han)"
     url: "/wiki/entities/guyonglatehan/"
+  - key: "GuYongWesternHan"
+    title: "谷永 / Gu Yong (Western Han)"
+    url: "/wiki/entities/guyongwesternhan/"
   - key: "GuanYouLateHan"
     title: "贯友 / Guan You (late Han)"
     url: "/wiki/entities/guanyoulatehan/"
@@ -1208,6 +1214,9 @@ wiki_pages:
   - key: "GuoShengLateHan"
     title: "郭胜 / Guo Sheng (late Han)"
     url: "/wiki/entities/guoshenglatehan/"
+  - key: "GuoShunWesternHan"
+    title: "郭舜 / Guo Shun"
+    url: "/wiki/entities/guoshunwesternhan/"
   - key: "GuoMeng"
     title: "郭蒙 / Guo Meng"
     url: "/wiki/entities/guomeng/"

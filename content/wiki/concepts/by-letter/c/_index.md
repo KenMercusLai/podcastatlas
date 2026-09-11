@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1664,6 +1664,9 @@ wiki_pages:
   - key: "CounterintelligenceRumorWedge"
     title: "Counterintelligence Rumor Wedge / 反间流言楔入"
     url: "/wiki/concepts/counterintelligencerumorwedge/"
+  - key: "CounterterrorismPowersRepurposing"
+    title: "Counterterrorism Powers Repurposing"
+    url: "/wiki/concepts/counterterrorismpowersrepurposing/"
   - key: "CountertransferenceBoundaryRisk"
     title: "Countertransference Boundary Risk"
     url: "/wiki/concepts/countertransferenceboundaryrisk/"

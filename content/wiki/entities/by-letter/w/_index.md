@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -314,6 +314,9 @@ wiki_pages:
   - key: "WesternDigital"
     title: "Western Digital"
     url: "/wiki/entities/westerndigital/"
+  - key: "WesternFrontFirstWorldWar"
+    title: "Western Front (First World War)"
+    url: "/wiki/entities/westernfrontfirstworldwar/"
   - key: "WesternHanDynasty"
     title: "Western Han dynasty / 西汉"
     url: "/wiki/entities/westernhandynasty/"
@@ -719,6 +722,9 @@ wiki_pages:
   - key: "WuhuManJiaozhi"
     title: "乌浒蛮 / Wuhu Man (Jiaozhi)"
     url: "/wiki/entities/wuhumanjiaozhi/"
+  - key: "WuzhuliuChanyu"
+    title: "乌珠留单于 / Wuzhuliu Chanyu"
+    url: "/wiki/entities/wuzhuliuchanyu/"
   - key: "WuzhuiHorse"
     title: "乌骓马 / Wuzhui Horse"
     url: "/wiki/entities/wuzhuihorse/"
@@ -1064,6 +1070,9 @@ wiki_pages:
   - key: "WangMian"
     title: "王冕"
     url: "/wiki/entities/wangmian/"
+  - key: "WangFengWesternHan"
+    title: "王凤 / Wang Feng (Western Han)"
+    url: "/wiki/entities/wangfengwesternhan/"
   - key: "WangKuangLateHan"
     title: "王匡 / Wang Kuang (late Han)"
     url: "/wiki/entities/wangkuanglatehan/"
@@ -1259,6 +1268,9 @@ wiki_pages:
   - key: "WangLixin"
     title: "王立新 / Wang Lixin"
     url: "/wiki/entities/wanglixin/"
+  - key: "WangZhangWesternHan"
+    title: "王章 / Wang Zhang (Western Han)"
+    url: "/wiki/entities/wangzhangwesternhan/"
   - key: "WangJien"
     title: "王继恩 / Wang Jien"
     url: "/wiki/entities/wangjien/"

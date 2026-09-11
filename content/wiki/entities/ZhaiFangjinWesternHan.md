@@ -8,14 +8,17 @@ sources:
   - zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0
   - zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp
   - zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd
+last_updated: 2026-09-12
 ---
 
 ## Overview
 
-翟方进 / Zhai Fangjin is synthesized as a Western Han chancellor whose wiki profile now has four connected faces: in [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] he shifts from former [[ChunyuZhangWesternHan|淳于长]] associate to wider impeacher after Chunyu's fall, in [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] he joins [[HeWuWesternHan|何武]] in advocating the abolition of刺史 and creation of higher-ranked州牧 under [[HanChengdi|汉成帝]], in [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]] he becomes the chancellor sacrificed after an 荧惑守心 omen, and in [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] he appears in an earlier interpersonal register as a classics lecturer who de-escalates [[HuChangWesternHan|胡长]]'s jealousy through visible respect.
+翟方进 / Zhai Fangjin is synthesized as a Western Han chancellor whose wiki profile now has five connected faces: in [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] he is punished after [[QiongchengTaihouWesternHan|邛成太后]]'s rushed funeral but then promoted to replace [[XueXuanWesternHan|薛宣]] as chancellor, in [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] he shifts from former [[ChunyuZhangWesternHan|淳于长]] associate to wider impeacher after Chunyu's fall, in [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] he joins [[HeWuWesternHan|何武]] in advocating the abolition of刺史 and creation of higher-ranked州牧 under [[HanChengdi|汉成帝]], in [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]] he becomes the chancellor sacrificed after an 荧惑守心 omen, and in [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] he appears in an earlier interpersonal register as a classics lecturer who de-escalates [[HuChangWesternHan|胡长]]'s jealousy through visible respect.
 
 ## Current Profile
+
+[[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] gives Zhai his earliest current chancellorship-entry layer. As Yushi Dafu, he is held responsible alongside chancellor Xue Xuan when Chengdi condemns Qiongcheng Taihou's hurried funeral. Yet the next personnel move favors rather than buries him: Chengdi promotes Zhai to chancellor and enfeoffs him as Gaoling Hou. The episode therefore makes Zhai a case where punishment, usefulness, and promotion can coexist inside one court settlement.
 
 [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] presents Zhai Fangjin as part of a senior-office reform voice. His argument is framed through hierarchy and古制: a low-ranking inspector supervising two-thousand-stone commandery officials looks institutionally improper, so the court should replace刺史 with州牧.
 
@@ -29,7 +32,7 @@ Hanji 557 adds that Zhai can also pivot with the court wind. He had associated w
 
 ## Key Characteristics
 
-- Zhai Fangjin acts as a chancellor-level advocate for office-rank reform, using hierarchy and ancient precedent to address provincial oversight tension.
+- Zhai Fangjin rises to chancellor after a funeral-accountability punishment, then acts as a chancellor-level advocate for office-rank reform through hierarchy and ancient precedent.
 - His reform becomes unstable in later Aidi-era politics, where the same office design is judged differently.
 - His classics-teaching episode shows a capacity for indirect conflict management through visible respect.
 - His strict enforcement and many impeachments create broad resentment among officials.
@@ -41,6 +44,9 @@ Hanji 557 adds that Zhai can also pivot with the court wind. He had associated w
 
 Office-rank reform:
 - [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] records Zhai Fangjin and He Wu's proposal to abolish刺史 and establish州牧 with two-thousand-stone rank.
+
+Funeral accountability and promotion:
+- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Zhai Fangjin is demoted after Qiongcheng Taihou's rushed funeral, then promoted to chancellor and enfeoffed as Gaoling Hou.
 
 Instability of institutional design:
 - [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] supplies the pro-州牧 layer and notes the later reversal as part of the episode's historical framing.
@@ -63,11 +69,12 @@ Case-expansion pivot:
 
 ## Qualifications
 
-This page is bounded to Hanji 557, Hanji 558, Hanji 559, and Hanji 560. It does not reconstruct Zhai Fangjin's full biography, the independent legal truth of every charge, the complete astrology tradition behind 荧惑守心, the full list of officials removed after Chunyu Zhang's case, or the wider textual history of the Zhai-Hu anecdote.
+This page is bounded to Hanji 540, Hanji 557, Hanji 558, Hanji 559, and Hanji 560. It does not reconstruct Zhai Fangjin's full biography, the independent legal truth of every charge, the complete astrology tradition behind 荧惑守心, the full list of officials removed after Chunyu Zhang's case, or the wider textual history of the Zhai-Hu anecdote.
 
 ## What Changed
 
 - Added Hanji 557's case-expansion layer: Zhai Fangjin moves from Chunyu Zhang contact to self-protection and wider impeachment.
+- Added Hanji 540's chancellorship-entry layer: Zhai is punished in the funeral case but then promoted after Xue Xuan's dismissal.
 
 ## Relationships
 
@@ -75,6 +82,8 @@ This page is bounded to Hanji 557, Hanji 558, Hanji 559, and Hanji 560. It does 
 - [[ChunyuZhangWesternHan]] - former powerful contact whose fall triggers Zhai's self-protective pivot.
 - [[DuYeWesternHan]] - opponent whom Zhai attacks during the widened case.
 - [[HanChengdi]] - emperor who approves the reform and later forces Zhai's death under omen pressure.
+- [[XueXuanWesternHan|薛宣]] - predecessor dismissed in the funeral case before Zhai's promotion.
+- [[FuneralRitualAccountability|丧葬礼制责任]] - ritual-duty concept that frames Zhai's punishment and promotion sequence.
 - [[HuChangWesternHan]] - jealous classics counterpart whom Zhai disarms through respectful conduct.
 - [[LiXunWesternHan]] - adviser who warns Zhai of the omen danger and suggests substitution.
 - [[SimaGuang]] - historian whose judgment frames Zhai's death as Chengdi's ethical failure.

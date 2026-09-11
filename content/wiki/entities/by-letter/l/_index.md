@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -170,6 +170,9 @@ wiki_pages:
   - key: "Lazada"
     title: "Lazada"
     url: "/wiki/entities/lazada/"
+  - key: "LeVanElgindi"
+    title: "Le Van Elgindi"
+    url: "/wiki/entities/levanelgindi/"
   - key: "LeanTheoremProver"
     title: "Lean Theorem Prover"
     url: "/wiki/entities/leantheoremprover/"
@@ -932,6 +935,9 @@ wiki_pages:
   - key: "LiuGongEasternHan"
     title: "刘公 / Liu Gong (Eastern Han)"
     url: "/wiki/entities/liugongeasternhan/"
+  - key: "LiuXingZhongshanKingWesternHan"
+    title: "刘兴 / Liu Xing, Zhongshan King (Western Han)"
+    url: "/wiki/entities/liuxingzhongshankingwesternhan/"
   - key: "LiuGangEasternHan"
     title: "刘刚 / Liu Gang (Eastern Han)"
     url: "/wiki/entities/liugangeasternhan/"
@@ -1001,6 +1007,9 @@ wiki_pages:
   - key: "LiuDuLateHan"
     title: "刘度 / Liu Du (late Han)"
     url: "/wiki/entities/liudulatehan/"
+  - key: "LiuKangDingtaoKingWesternHan"
+    title: "刘康 / Liu Kang, Dingtao King (Western Han)"
+    url: "/wiki/entities/liukangdingtaokingwesternhan/"
   - key: "LiuYanDongCommandery"
     title: "刘延 / Liu Yan (Dong Commandery)"
     url: "/wiki/entities/liuyandongcommandery/"
@@ -1475,6 +1484,9 @@ wiki_pages:
   - key: "LiHongjun"
     title: "李洪军 / Li Hongjun"
     url: "/wiki/entities/lihongjun/"
+  - key: "LiHonggu"
+    title: "李洪谷 / Li Honggu"
+    url: "/wiki/entities/lihonggu/"
   - key: "LiNieEasternHan"
     title: "李涅 / Li Nie"
     url: "/wiki/entities/linieeasternhan/"

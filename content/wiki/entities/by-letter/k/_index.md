@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -608,6 +608,9 @@ wiki_pages:
   - key: "KongGuangWesternHan"
     title: "孔光 / Kong Guang (Western Han)"
     url: "/wiki/entities/kongguangwesternhan/"
+  - key: "KongJiWesternHan"
+    title: "孔吉 / Kong Ji (Western Han)"
+    url: "/wiki/entities/kongjiwesternhan/"
   - key: "KongFenEasternHan"
     title: "孔奋 / Kong Fen (Eastern Han)"
     url: "/wiki/entities/kongfeneasternhan/"
@@ -665,6 +668,9 @@ wiki_pages:
   - key: "KangHongwen"
     title: "康宏文 Henry"
     url: "/wiki/entities/kanghongwen/"
+  - key: "Kangju"
+    title: "康居 / Kangju"
+    url: "/wiki/entities/kangju/"
   - key: "KonstantinMariupolGenealogist"
     title: "康斯坦丁 / Konstantin (Mariupol genealogist)"
     url: "/wiki/entities/konstantinmariupolgenealogist/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "KinshipResourceStateBuilding"
     title: "Kinship Resource State-Building / 姻亲资源建构"
     url: "/wiki/concepts/kinshipresourcestatebuilding/"
+  - key: "KinshipBasedTownshipEnterpriseFinance"
+    title: "Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资"
+    url: "/wiki/concepts/kinshipbasedtownshipenterprisefinance/"
   - key: "KitschAsWasteDenial"
     title: "Kitsch As Waste Denial / 媚俗作为排泄否认"
     url: "/wiki/concepts/kitschaswastedenial/"

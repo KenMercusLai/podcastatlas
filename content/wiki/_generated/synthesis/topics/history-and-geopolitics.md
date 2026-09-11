@@ -4,8 +4,8 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-11
-as_of_overview_commit: dc4f99b603b28618ba37f6d767f100574b7ed86b
-input_digest: 34c777273e147ab38bc672ff29b94a9a4a5846de19837e7a26b551b31eb86782
+as_of_overview_commit: 35c61bd71985945e9f5ba674b0665880f2cafa1d
+input_digest: f2945ee512d946d95e3d4796b0002ae54246b454ed9b5f6bb36c6abf984dee8c
 ---
 
 # History and Geopolitics
@@ -15,6 +15,18 @@ input_digest: 34c777273e147ab38bc672ff29b94a9a4a5846de19837e7a26b551b31eb86782
 The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time. Hanji 575 adds the preceding Jianping 1 layer before the later Ding/Fu settlement, showing how succession lineage, court secrecy, and ministerial punishment shaped late Western Han factional chronology.
 
 ## Cross-source Findings
+
+### Hanji 553 Office Restoration Masks Command Removal
+
+[[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|Hanji 553]] backfills the late-Chengdi sequence between Hanji 552 and Hanji 554: [[HanChengdi|汉成帝]] accepts [[HeWuWesternHan|何武]]'s Three Excellencies reform, formalizes [[WangGenWesternHan|王根]] as Da Sima, and removes Wang Gen's Piaoji Jiangjun command, making [[OfficeSequencePowerReallocation|office-sequence reallocation]] a case where visible promotion can mask practical command loss.
+
+**Evidence:** [[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi]], [[HanChengdi]], [[HeWuWesternHan]], [[WangGenWesternHan]], [[OfficeSequencePowerReallocation]], [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw]], [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn]]
+
+**Qualifications:**
+
+- This is a source-scoped late-Western-Han institutional reading from one short episode note.
+- The full Three Excellencies institutional history, Kong-family genealogy, and Liu Xing death context remain outside this claim.
+- The workplace analogy is preserved as source framing rather than independent evidence about modern organizations.
 
 ### Hanji 575 Dingtao Lineage Secrecy Precedes Title Settlement
 

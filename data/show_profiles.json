@@ -323,8 +323,8 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
-      "source_note_count": 71,
-      "topic_matched_source_note_count": 67,
+      "source_note_count": 72,
+      "topic_matched_source_note_count": 68,
       "topics": [
         {
           "key": "politics",
@@ -336,13 +336,13 @@
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 25
+          "source_note_count": 26
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 23
+          "source_note_count": 24
         },
         {
           "key": "science",
@@ -411,9 +411,9 @@
       ],
       "start_here_episode_files": [
         "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
-        "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
+        "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
         "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
-        "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md"
+        "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md"
       ]
     },
     "How I Built This with Guy Raz": {
@@ -478,14 +478,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "SCIM1624813352 [SCIM1624813352].md",
-      "source_note_count": 35,
-      "topic_matched_source_note_count": 26,
+      "source_note_count": 36,
+      "topic_matched_source_note_count": 27,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 24
+          "source_note_count": 25
         },
         {
           "key": "culture",
@@ -884,14 +884,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-09",
       "latest_episode_file": "GLT9669112656 [GLT9669112656].md",
-      "source_note_count": 40,
-      "topic_matched_source_note_count": 40,
+      "source_note_count": 41,
+      "topic_matched_source_note_count": 41,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 38
+          "source_note_count": 39
         },
         {
           "key": "culture",
@@ -2099,7 +2099,7 @@
       "earliest_episode_date": "2026-08-21",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "lswTPlOVdBo4Pl52YOXu6rgZyAL2 [lswTPlOVdBo4Pl52YOXu6rgZyAL2].md",
-      "source_note_count": 5,
+      "source_note_count": 6,
       "topic_matched_source_note_count": 4,
       "topics": [
         {
@@ -2934,26 +2934,26 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
-      "source_note_count": 828,
-      "topic_matched_source_note_count": 324,
+      "source_note_count": 838,
+      "topic_matched_source_note_count": 329,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 276
+          "source_note_count": 277
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 100
+          "source_note_count": 103
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 14
+          "source_note_count": 15
         },
         {
           "key": "economics",

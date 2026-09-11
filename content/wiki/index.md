@@ -6,7 +6,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》540丨太后的葬礼](sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd.md) — 芮淇讲透资治通鉴 episode on Qiongcheng Taihou's rushed funeral, Xue Xuan's dismissal, Zhai Fangjin's promotion after punishment, and Kong Guang's palace-information discipline.
+- [《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？](sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2.md) — 芮淇讲透资治通鉴 episode on Mei Fu's warning after Wang Zhang's death, Wang Feng's outer-relative power, blocked remonstrance, and institutional loyalty over personal dependence.
+- [How to Overcome Social Anxiety | Dr. Nick Epley](sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132.md) — Huberman Lab episode with Nick Epley on social connection, mind reading, voice, strangers, social anxiety, adoption, Down syndrome, and everyday habits that test pessimistic social forecasts.
+- [《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？](sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto.md) — 芮淇讲透资治通鉴 episode on Duan Huizong's small-force punishment of Fanqiu in Wusun, Han precedent-backed deterrence, Kangju protocol disputes, and Liu Xiang's Minshan disaster omen.
+- [500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌](sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2.md) — 忽左忽右 episode with Huang Ziyi and Li Honggu on 《鞋邦》, Jinjiang/Chendai shoe clustering, diaspora and kinship finance, Nike process learning, Anta/Li-Ning divergence, inventory reform, and sportswear multi-brand strategy.
+- [《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？](sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id.md) — 芮淇讲透资治通鉴 episode on Chunyu Zhang's access-based rise, bribery, exploitation of Empress Xu through restoration promises, sunk-cost entrapment, and Wang Mang's coming attack.
+- [《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？](sources/zizhi-tongjian-hanji-555-ta-weile-dang-huangdi-weisha-yao-xisheng-qindie-lq3kkkmk9nh4yhxuovmy_uktalrv.md) — 芮淇讲透资治通鉴 episode on Liu Xin's thank-you memorial, Yan Cong and Zhao Xuan's opposed advice, Chengdi's birth-line severance logic, and Fu Taihou/Ding Ji access boundaries.
+- [《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望](sources/zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn.md) — 芮淇讲透资治通鉴 episode on Wang Gen's reputation-driven Xiongnu land probe, Xiahou Fan's mishandled imperial claim, Wuzhuliu Chanyu's refusal, and "知足知止" as desire-capacity restraint.
+- [《资治通鉴·汉纪》553丨职场中如何识别明升暗降？](sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi.md) — 芮淇讲透资治通鉴 episode on He Wu's Three Excellencies proposal, Han Chengdi's top-office balancing, and Wang Gen's Da Sima title gain paired with loss of military command.
+- [《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！](sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf.md) — 芮淇讲透资治通鉴 episode on Zhang Yu defusing Wang Gen's jealousy, disaster-omen skepticism, and turning workplace envy from factional hostility toward self-awareness.
 - [《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？](sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si.md) — 芮淇讲透资治通鉴 episode on Zhu Yun's broken-balustrade remonstrance, Zhang Yu as the named target, Xin Qingji's intercession, and Chengdi's preserved-railing clemency.
+- [《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜](sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v.md) — 芮淇讲透资治通鉴 episode on Chengdi's Changyang Palace spectacle, Yang Xiong's 《长杨赋》 context, Dingtao king Liu Xin's succession performance, Zhongshan king Liu Xing's possible self-protective incompetence, and Fu Taihou's lobbying network.
+- [《资治通鉴·汉纪》552丨通透人性的人，职场平步青云](sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw.md) — 芮淇讲透资治通鉴 episode on Gu Yong's patronage stigma, Chengdi's Dingtao-line heir decision, Kong Guang's Shangshu-backed dissent, and demotion as possible succession-risk exit.
 - [《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量](sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx.md) — 芮淇讲透资治通鉴 episode on Wang Mang's sickbed accusation against Chunyu Zhang, Chunyu's failed restoration bid through Wang Li, Empress Xu's poisoning, and Zhai Fangjin's widened cleanup.
 - [VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差](sources/vol-206-aozhou-jizhen-deng-8-xiaoshi-meiren-li-zhongao-yiliao-duitan-jizhi-neijuan-yu-zhundian-xiaban-de-juda-cenci-linoknjp5z9xafma8-dkogjueqvb.md) — 这病说来话长 episode comparing Australian and Chinese healthcare through public/private access, emergency triage, imaging waits, radiographer responsibility, and report-communication boundaries.
 - [免费的权威，付费的体验](sources/mianfei-de-quanwei-fufei-de-tiyan-cmtwkgbmq01wt01tp3mgj78e4.md) — 读报teleread episode connecting modern romance difficulty, premium cinema experience, and digital epistemic authority through the shared burden of individual judgment and trust allocation.
@@ -25,6 +37,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Empress Matilda: Civil War and the Fight for the Throne](sources/empress-matilda-civil-war-and-the-fight-for-the-throne-glt3399401666.md) — The Rest Is History episode on Empress Matilda, Henry I's White Ship succession shock, Stephen's first-mover coronation, the Anarchy, and the gendered constraints on medieval female sovereignty.
 - [《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学](sources/zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp.md) — 芮淇讲透资治通鉴 episode on He Wu's symbolic sword-inheritance judgment, Han Wudi's temple-retention debate, He Wu's removal, and Shi Dan's early warnings to Han Aidi.
 - [《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！](sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l.md) — 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chen Tang and Gan Yanshou's Zhizhi Chanyu merit, proportional treatment of flawed heroes, and hero memory as political credibility.
+- [671. The First World War: Blood in the Trenches (Part 1)](sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565.md) — The Rest Is History episode on the 1915 Western Front, trench life, Robert Graves, Ernst Junger, shell shock, gas warfare, Loos, and the Kipling family.
 - [672. The First World War: Italy's Doomed Campaign (Part 2)](sources/672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829.md) — The Rest Is History episode on Italy's 1915 intervention, D'Annunzio's nationalist rhetoric, Salandra's bargaining, Cadorna's Isonzo offensives, and war resentment feeding fascist politics.
 - [郑执×罗永浩！总是赶末班车的人，可以改进时间管理......也可以拥有一辆属于自己的车](sources/zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0.md) — 罗永浩的十字路口 interview with Zheng Zhi on 《身中有林》, Northeast literature, film adaptation, casting, editing, AI-era production cost, debt, family memory, and writer-director career timing.
 - [Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang](sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420.md) — Huberman Lab Essentials episode with Eddie Chang on speech versus language, vocal-tract speech production, locked-in syndrome, BRAVO speech neuroprosthetics, augmentation ethics, avatars, and stuttering as speech coordination.
@@ -2197,8 +2210,27 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Essentials: The Science of Eating for Health, Fat Loss & Lean Muscle | Dr. Layne Norton](sources/essentials-the-science-of-eating-for-health-fat-loss-lean-muscle-dr-layne-norton-scim7693897484.md) — Huberman Lab Essentials episode with Layne Norton on energy balance, protein, ultra-processed foods, sweeteners, seed oils, creatine, and training consistency.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
+- [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [邛成太后 / Qiongcheng Taihou (Western Han)](entities/QiongchengTaihouWesternHan.md) — Western Han dowager whose rushed funeral in 15 BCE triggers high-office accountability under Han Chengdi.
+- [许平君 / Xu Pingjun (Western Han)](entities/XuPingjunWesternHan.md) — Western Han empress whose poisoning created the foster-empress context for Qiongcheng Taihou raising Liu Shi.
+- [薛宣 / Xue Xuan (Western Han)](entities/XueXuanWesternHan.md) — Western Han chancellor dismissed after Qiongcheng Taihou's rushed funeral.
+- [Nick Epley](entities/NickEpley.md) — Behavioral scientist and Huberman Lab guest explaining social connection, mind perception, voice, social misprediction, social anxiety exposure, and family personhood beyond diagnosis.
+- [段会宗 / Duan Huizong](entities/DuanHuizongWesternHan.md) — Western Han envoy-commander who stabilizes Wusun through small-force punishment, remembered imperial threat, and face-saving withdrawal.
+- [郭舜 / Guo Shun](entities/GuoShunWesternHan.md) — Western Han protectorate official who reads Kangju protocol as evidence of unreliable submission and recommends diplomatic rupture.
+- [康居 / Kangju](entities/Kangju.md) — Western Regions/Central Asian polity whose prince-hostage mission and protocol disputes test Han engagement versus status defense.
+- [末振将 / Mozhenjiang](entities/MozhenjiangWusun.md) — Wusun small kunmi installed with Han backing who destabilizes the two-kunmi balance by killing the large kunmi Cilim.
+- [番丘 / Fanqiu](entities/FanqiuWusun.md) — Mozhenjiang's son and punitive target killed by Duan Huizong in Hanji 550.
+- [安犁靡 / Anlimi](entities/AnlimiWusun.md) — Wusun small kunmi whose armed encirclement of Duan Huizong ends after a threat-and-face-saving exchange.
+- [Chendai Town / 陈埭镇](entities/ChendaiTown.md) — Jinjiang footwear-cluster town shaped by diaspora resources, clan trust, township enterprise formation, Nike-linked process learning, and later sportswear brands.
+- [Ding Shizhong / 丁世忠](entities/DingShizhong.md) — Anta founder figure whose early Beijing sales experience, partner ethic, retail reform, and portfolio strategy ground the Jinjiang sportswear source.
+- [Fila](entities/Fila.md) — Anta-operated sports-fashion brand used as the source's acquired-brand proof point for separated team, DTC retail, and multi-brand operation.
+- [Li Honggu / 李洪谷](entities/LiHonggu.md) — Sanlian editor and co-discussant framing the Li-Ning/Anta comparison and keeping Nike/Adidas visible as global coordinates.
+- [《鞋邦：中国运动品牌四十年》](entities/XieBangBook.md) — Huang Ziyi's book on Jinjiang, Chendai, and four decades of Chinese sportswear brand formation.
+- [孔吉 / Kong Ji (Western Han)](entities/KongJiWesternHan.md) — Confucius-family figure elevated by Han Chengdi as a ritual successor to the Shang-Tang line in Hanji 553.
+- [夏侯藩 / Xiahou Fan (Western Han)](entities/XiahouFanWesternHan.md) — Western Han envoy whose deniable Xiongnu land probe becomes an emperor-backed demand and then a blame-transfer embarrassment.
+- [乌珠留单于 / Wuzhuliu Chanyu](entities/WuzhuliuChanyu.md) — Xiongnu ruler who tests, delays, rejects, and reports Xiahou Fan's Western Han land demand.
 - [iPhone Duo](entities/IPhoneDuo.md) — Apple's foldable iPhone product from Vol. 174, framed as a new phone-tablet category with price, weight, eSIM, and app-adaptation tradeoffs.
 - [Lily Radiographer / 澳洲放射师 Lily](entities/LilyRadiographer.md) — Australian radiographer explaining public/private imaging workflow, radiographer scope, urgent image recognition, and patient-result boundaries.
 - [薛医生 / Xue Doctor (这病说来话长)](entities/XueDoctorZheBing.md) — China-side clinician voice comparing domestic imaging, emergency, ultrasound, and outpatient workload patterns with Lily's Australian account.
@@ -2218,9 +2250,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [London](entities/London.md) — United Kingdom capital used as the setting node for the Shire Folk rally scene.
 - [Snow Peak](entities/SnowPeak.md) — Japanese outdoor brand used as a bridge from titanium camping gear to lifestyle consumption.
 - [Yongkang / 永康](entities/Yongkang.md) — Zhejiang hardware and cup manufacturing cluster behind titanium-cup supply growth.
-- [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose failed attempt to regain office through Wang Li turns Wang Mang's accusation into a fatal palace-scandal case.
-- [废后许氏 / Empress Xu (Western Han)](entities/EmpressXuWesternHan.md) — Former Chengdi empress whose cold-palace survival ends after Chunyu Zhang's confession makes her a liability in the court case.
-- [王根 / Wang Gen (Western Han)](entities/WangGenWesternHan.md) — Wang-family senior officeholder whose recommendation helps Wang Mang succeed him as Da Sima in 8 BCE.
+- [淳于长 / Chunyu Zhang (Western Han)](entities/ChunyuZhangWesternHan.md) — Chengdi-era favorite whose access-based extraction, exploitation of Empress Xu, and failed restoration bid through Wang Li turn Wang Mang's accusation into a fatal palace-scandal case.
+- [废后许氏 / Empress Xu (Western Han)](entities/EmpressXuWesternHan.md) — Former Chengdi empress whose isolated restoration effort through Chunyu Zhang becomes a fatal liability in the court case.
+- [王根 / Wang Gen (Western Han)](entities/WangGenWesternHan.md) — Wang-family senior officeholder whose jealousy toward Zhang Yu is de-escalated before his later recommendation helps Wang Mang succeed him as Da Sima.
 - [翟方进 / Zhai Fangjin (Western Han)](entities/ZhaiFangjinWesternHan.md) — Western Han chancellor linked to the Chengdi-era刺史-to-州牧 reform and later coerced suicide after 荧惑守心.
 - [胡长 / Hu Chang (Western Han)](entities/HuChangWesternHan.md) — Western Han classics figure whose jealousy of Zhai Fangjin is de-escalated by Zhai's visible scholarly respect.
 - [刘歆 / Liu Xin (Western Han)](entities/LiuXinWesternHan.md) — Western Han scholar-official who completes Liu Xiang's collation project and compiles Qilue.
@@ -2232,6 +2264,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gabriele D'Annunzio](entities/GabrieleDAnnunzio.md) — Poet-nationalist whose pro-war rhetoric and Fiume precedent connect Italian interventionism to later fascist style.
 - [Luigi Cadorna](entities/LuigiCadorna.md) — Italian commander whose frontal-attack doctrine shaped the early Isonzo disasters.
 - [Isonzo Front](entities/IsonzoFront.md) — Italian-Austro-Hungarian mountain front where Italy's intervention aims became attritional warfare.
+- [Western Front (First World War)](entities/WesternFrontFirstWorldWar.md) — First World War battlefield system anchoring the wiki's 1915 trench-life, shell-shock, gas, and soldier-experience branch.
+- [Battle of Loos](entities/BattleOfLoos.md) — 1915 Western Front battle used as a failed British gas offensive and Kipling-family grief case.
+- [Robert Graves](entities/RobertGraves.md) — British soldier-writer whose testimony grounds the Western Front trench-life branch.
+- [Ernst Junger](entities/ErnstJunger.md) — German soldier-writer used as a counterpoint on fear, boredom, and combat intensity.
+- [Rudyard Kipling](entities/RudyardKipling.md) — Patriotic writer whose influence and grief frame John Kipling's Loos death.
+- [John Kipling](entities/JohnKipling.md) — Young Irish Guards officer whose disappearance at Loos anchors the episode's private-cost ending.
 - [Eddie Chang](entities/EddieChang.md) — neurosurgeon and speech-neuroscience guest explaining speech production, speech neuroprosthetics, BRAVO, augmentation limits, and stuttering.
 - [BRAVO Trial](entities/BRAVOTrial.md) — speech-neuroprosthetics clinical trial case decoding attempted speech from implanted cortical electrodes for communication restoration.
 - [赵合德 / Zhao Hede (Western Han)](entities/ZhaoHedeWesternHan.md) — Western Han favored consort whose Chengdi death-room exposure, suicide, and heir-killing suspicion combine Hanji 561's blame context, Hanji 571's Cao Gong case, Hanji 572's Xu Meiren branch, and Hanji 573's evidentiary caution.
@@ -2251,6 +2289,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Driver AI Agency](entities/DriverAIAgency.md) — company behind Case Ready Intake AI.
 - [杨宣 / Yang Xuan (Western Han)](entities/YangXuanWesternHan.md) — Western Han remonstrant whose secret memorial uses Chengdi's succession choice and Wang Zhengjun's status to limit the anti-Wang-family purge.
 - [赵璇 / Zhao Xuan (Western Han)](entities/ZhaoXuanWesternHan.md) — Western Han Yushi Dafu who joins Zhu Bo's failed request to strip Wang Mang's title and fief.
+- [严从 / Yan Cong (Western Han)](entities/YanCongWesternHan.md) — Western Han crown-prince shaofu who reads Liu Xin's thank-you memorial as a breach of adoptive succession status.
 - [陈勇 / Chen Yong](entities/ChenYongFootballReporter.md) — Football reporter guest used for Chinese professional-football league policy, expansion, calendar, and finance analysis.
 - [中国足球协会 / Chinese Football Association](entities/ChineseFootballAssociation.md) — Governance actor referenced around Chinese professional-football calendar and league-policy research.
 - [中足联 / Chinese Professional Football League](entities/ChineseProfessionalFootballLeague.md) — Professional-league governance body referenced around calendar research and financial-monitoring proposals.
@@ -2322,6 +2361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [梁王刘丽 / Liu Li, King of Liang](entities/LiuLiWesternHan.md) — Western Han Liu-line king stripped and exiled after an accusation involving Pingdi's Wei-family remnants.
 - [彭宣 / Peng Xuan (Western Han)](entities/PengXuanWesternHan.md) — Western Han Da Sikong whose illness-framed resignation under Wang Mang shows timely retreat and symbolic punishment through withheld retirement gifts.
 - [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han senior official whose formal authority spans Aidi's rewarded eclipse consultation, Wang Jia's Tingwei transfer, Wang Mang's accusation channels, fearful withdrawal, and 5 CE death.
+- [谷永 / Gu Yong (Western Han)](entities/GuYongWesternHan.md) — Chengdi-era Western Han official whose Wang-family-backed advancement and unwelcome memorials become a patronage-stigma case.
 - [王嘉 / Wang Jia (Western Han)](entities/WangJiaWesternHan.md) — Late Western Han chancellor whose Dong Xian merit-procedure objection, praise-framed warning, Liang Xiang recommendation, and Dong Xian-related resistance lead toward Tingwei danger and refusal of poison-suicide.
 - [杜邺 / Du Ye (Western Han)](entities/DuYeWesternHan.md) — Former Liangzhou inspector whose omen-coded memorial criticizes Han Aidi's dowager deference and outer-relative office concentration.
 - [梁相 / Liang Xiang (Western Han)](entities/LiangXiangWesternHan.md) — Western Han Tingwei whose procedural request to review the Liu Yun rebellion case becomes suspect delay under Han Aidi.
@@ -2424,8 +2464,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《春秋》 / Chunqiu](entities/Chunqiu.md) — Classical text route for Hanji 560's Zhai Fangjin and Hu Chang court-teaching conflict.
 - [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor used by Wang Jia as a memorial precedent for thrift, fiscal reserve, and restraint in visible favoritism.
 - [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor whose profile spans Yang Xiong career background, Wang Jia's favorable precedent, Zhai Fangjin's coerced death, sudden-death blame management, Geng Yu's succession defense, and contested missing-son accusations.
+- [梅福 / Mei Fu (Western Han)](entities/MeiFuWesternHan.md) — Chengdi-era memorialist warning that punished criticism and outer-relative power destroy the court's correction channel.
+- [王凤 / Wang Feng (Western Han)](entities/WangFengWesternHan.md) — Western Han Wang-family outer relative whose power field makes Wang Zhang's criticism lethal in Hanji 544.
+- [王章 / Wang Zhang (Western Han)](entities/WangZhangWesternHan.md) — Plain and upright Jingzhao Yin whose death after criticizing Wang Feng becomes Mei Fu's remonstrance-suppression warning.
 - [Zhu Yun / 朱云 (Western Han)](entities/ZhuYunWesternHan.md) — Former Huaili magistrate whose broken-balustrade remonstrance makes death-facing direct speech a Chengdi-era precedent.
-- [Zhang Yu / 张瑜 (Western Han)](entities/ZhangYuWesternHan.md) — Han Chengdi's teacher and the protected target named in Zhu Yun's Hanji 549 accusation.
+- [Zhang Yu / 张瑜 (Western Han)](entities/ZhangYuWesternHan.md) — Han Chengdi's teacher who defuses Wang Gen's resentment in Hanji 548 and later becomes the protected target named in Zhu Yun's Hanji 549 accusation.
 - [Xin Qingji / 辛庆忌](entities/XinQingjiWesternHan.md) — Western Han left general who saves Zhu Yun through bloody intercession and carries frontier prestige.
 - [范生 / Fan Sheng (Xin official)](entities/FanShengXinOfficial.md) — Late-Xin official whose indirect petition diagnoses domestic grievance while failing to reach policy effect.
 - [韩伯 / Han Bo (Xin official)](entities/HanBoXinOfficial.md) — Late-Xin official whose giant-prodigy satire against Wang Mang is decoded and punished lethally.
@@ -8597,12 +8640,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [公孙禄 / Gongsun Lu (Western Han)](entities/GongsunLuWesternHan.md) — Western Han left general who first objects to deceptive Xiongnu escalation and later joins He Wu's post-Aidi office-balancing attempt.
 - [息夫躬 / Xi Fu Gong (Western Han)](entities/XiFuGongWesternHan.md) — Late-Aidi adviser rewarded in the Dongping case, later feared as an accuser, whose false-envoy and punitive-border proposal turns a chanyu illness delay into a crisis narrative.
 - [乌孙 / Wusun](entities/Wusun.md) — Western Regions polity used in Hanji 591-1 as the vulnerable hinge in Xi Fu Gong's Xiongnu threat model.
-- [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's mother and paired target with Fu Taihou in Wang Mang's 5 CE tomb-demotion campaign.
+- [丁姬 / Ding Ji (Western Han)](entities/DingJiWesternHan.md) — Han Aidi's birth mother whose access is blocked before later Dingtao burial and Wang Mang's 5 CE tomb-demotion campaign.
 - [董宏 / Dong Hong (Western Han)](entities/DongHongWesternHan.md) — Western Han Gaochang Hou whose Qin-precedent proposal for Fu Taihou's title triggers Wang Mang and Shi Dan's early ritual-order resistance.
 - [施丹 / Shi Dan (Western Han)](entities/ShiDanWesternHan.md) — Western Han elder official whose profile spans early Aidi restraint advice, Dingtao-line ritual opposition, leak exposure, punishment, and later retrospective restoration.
 - [马公 / Ma Gong (Western Han)](entities/MaGongWesternHan.md) — Western Han official protected by ties to Wang Mang but removed from top offices after the Fu Taihou title case is reopened.
 - [Emperor Ai of Han / 汉哀帝](entities/HanAidi.md) — Late Western Han emperor whose profile now spans contested early reputation, illness-driven renewed-mandate reversal, fabricated Dong Xian merit, Bao Xuan's livelihood critique, succession rupture, and delayed-burial imperial停灵.
 - [Dong Xian / 董贤](entities/DongXian.md) — Emperor Ai's favorite whose fabricated merit, rewards, public-suffering contrast, court visibility, succession failure, and posthumous family cleanup expose the fragility of favor.
+- [刘兴 / Liu Xing, Zhongshan King (Western Han)](entities/LiuXingZhongshanKingWesternHan.md) — Western Han royal kinsman and Chengdi's younger brother whose visible incompetence, possible self-protective withdrawal, and Kong Guang-backed claim make him the Dingtao-line alternative.
+- [刘康 / Liu Kang, Dingtao King (Western Han)](entities/LiuKangDingtaoKingWesternHan.md) — Western Han Dingtao king whose relationship with Chengdi helps explain why Liu Xin's nephew-line succession could beat Liu Xing's brother-line claim.
+- [长杨宫 / Changyang Palace](entities/ChangyangPalace.md) — Western Han palace setting for Chengdi's shooting-bear spectacle and Yang Xiong's 《长杨赋》 occasion.
 - [武将龙 / Wu Jianglong (Western Han)](entities/WuJianglongWesternHan.md) — Western Han Zhijinwu whose remonstrance against Han Aidi's armory gifts to Dong Xian and Fu Taihou's underpriced official-slave purchase defends public-private resource boundaries.
 - [朱徐 / Zhu Xu (Western Han)](entities/ZhuXuWesternHan.md) — Western Han figure whose burial of Dong Xian after Dong-family collapse turns private gratitude into political exposure.
 - [Emperor Ping of Han / 汉平帝](entities/HanPingdi.md) — Child emperor elevated and isolated by Wang Mang, whose maternal-family exclusion, empress-selection procedure, adoptive-heir status, illness, and death preceded Wang Mang's acting-emperor status.
@@ -11889,8 +11935,27 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sage Ox](entities/SageOx.md) — Source-scoped company or product that turns team meeting recordings into agent-usable memory.
 - [小 A / Xiao A](entities/XiaoA.md) — AI product practitioner describing heavy AI coding use, harness bottlenecks, proactive agents, team memory, and verification-first workflow.
 - [二十四史 / Twenty-Four Histories](entities/TwentyFourHistories.md) — Broad dynastic official-history corpus used in Hanji 591-2 as the macro-map for locating Zizhi Tongjian within Chinese historiography.
+- [Sam Beale](entities/SamBeale.md) — The Intelligence correspondent explaining post-9/11 counterterrorism powers and reform pressure.
+- [Tristan Buckmaster](entities/TristanBuckmaster.md) — Mathematician named in the Navier-Stokes priority dispute around OpenAI's claimed AI-generated result.
+- [Le Van Elgindi](entities/LeVanElgindi.md) — Anthropic-linked mathematician named in the episode's Navier-Stokes overlap and attribution dispute.
+- [Guo Lanying](entities/GuoLanying.md) — Chinese opera singer whose legacy connects revolutionary opera, "My Motherland," and state cultural honor.
+- [The White-Haired Girl](entities/TheWhiteHairedGirl.md) — Revolutionary opera central to Guo Lanying's artistic and political identity in the source.
+- [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [丧葬礼制责任 / Funeral Ritual Accountability](concepts/FuneralRitualAccountability.md) — pattern where royal funeral handling becomes a test of office duty, ritual respect, public resources, and dynastic memory.
+- [宫廷信息纪律 / Palace Information Discipline](concepts/PalaceInformationDiscipline.md) — pattern where officials treat even small palace details as politically sensitive access information.
+- [Everyday Social Connection](concepts/EverydaySocialConnection.md) — Small repeated greetings, compliments, questions, and conversations as low-pressure well-being practice.
+- [Social Misprediction](concepts/SocialMisprediction.md) — Error pattern where people misforecast others' interest, warmth, intelligence, or willingness to help.
+- [Voice Humanization](concepts/VoiceHumanization.md) — Communication frame where hearing voice makes active thought and personhood more perceptible than text alone.
+- [Real Exposure for Social Anxiety](concepts/RealExposureSocialAnxiety.md) — Social-anxiety practice frame where safe real interaction updates false rejection forecasts.
+- [Diagnosis Personhood Boundary](concepts/DiagnosisPersonhoodBoundary.md) — Disability and parenting caution against letting diagnosis replace attention to the actual person.
+- [Jinjiang Model / 晋江模式](concepts/JinjiangModel.md) — Reform-era regional industrial pattern mixing diaspora resources, kinship finance, township enterprise forms, local tolerance, subcontracting learning, and sportswear branding.
+- [Kinship-Based Township Enterprise Finance / 宗族熟人乡镇企业融资](concepts/KinshipBasedTownshipEnterpriseFinance.md) — Early enterprise-finance mechanism where relatives, villagers, clan networks, and acquaintance trust pool capital, labor, space, and risk.
+- [Sportswear Multi-Brand Portfolio / 运动品牌集团化组合](concepts/SportswearMultiBrandPortfolio.md) — Sportswear strategy of operating distinct mass, fashion, running, outdoor, and lifestyle brands while sharing selected group back-end capabilities.
+- [沉没成本困局 / Sunk Cost Entrapment](concepts/SunkCostEntrapment.md) — Decision trap in which prior investment makes exit from a losing relationship or strategy feel costlier than continued loss.
+- [Jealousy De-escalation by Rival Protection / 以护对手化解嫉妒](concepts/JealousyDeescalationByRivalProtection.md) — Conflict-management pattern where protecting a threatened rival changes jealousy into shame, gratitude, or reduced hostility.
+- [Disaster-Omen Interpretive Skepticism / 灾异解释怀疑](concepts/DisasterOmenInterpretiveSkepticism.md) — Court-speech pattern resisting shallow disaster readings that turn anomalies into immediate factional blame.
 - [Regional eSIM Constraint](concepts/RegionalESIMConstraint.md) — smartphone purchase friction when eSIM-only hardware meets region-specific carrier and regulatory support.
 - [Foldable App Adaptation](concepts/FoldableAppAdaptation.md) — software and layout work needed for apps to feel native across folded and unfolded phone states.
 - [Photo Capture Provenance](concepts/PhotoCaptureProvenance.md) — device-side proof that an image was captured by a real camera rather than generated by AI.
@@ -12047,7 +12112,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unrestricted Submarine Warfare](concepts/UnrestrictedSubmarineWarfare.md) — First World War naval strategy where submarine attacks on merchant shipping collided with cruiser rules, civilian passengers, and neutral rights.
 - [Passenger-Liner Atrocity Propaganda](concepts/PassengerLinerAtrocityPropaganda.md) — Pattern for how a civilian ship sinking becomes a contested wartime symbol through suffering, censorship, justification, and conspiracy.
 - [Neutrality-to-Intervention Memory](concepts/NeutralityToInterventionMemory.md) — Pattern where a shock that does not immediately end neutrality later becomes evidence for intervention.
-- [First World War](concepts/FirstWorldWar.md) — Seed concept grounded in Lusitania, Cavell's occupied-Belgium case, and Gallipoli's offensive, political, disease, and memory layers.
+- [First World War](concepts/FirstWorldWar.md) — Seed concept grounded in the Western Front, Lusitania, Cavell's occupied-Belgium case, Gallipoli, and Italy's Isonzo intervention.
+- [Trench Life on the Western Front](concepts/TrenchLifeWesternFront.md) — Soldier-experience pattern where mud, dugouts, vermin, boredom, food, comradeship, shellfire, and gas fear coexist.
+- [Shell Shock](concepts/ShellShock.md) — First World War psychological injury category framed as breakdown under shelling and harrowing front-line experience.
+- [First World War Gas Warfare](concepts/FirstWorldWarGasWarfare.md) — Chemical-weapons branch where gas becomes a terrifying but tactically limited shortcut attempt against trench stalemate.
 - [Trench Sanitation Disease Burden](concepts/TrenchSanitationDiseaseBurden.md) — War burden from trench sanitation failure, dysentery, bodies, flies, weather, and daily degradation.
 - [Wartime Coalition Accountability](concepts/WartimeCoalitionAccountability.md) — Political pattern where war failure, press scandal, ministerial conflict, and coalition formation reassign blame while operations continue.
 - [Financial Stress Cognitive Tax](concepts/FinancialStressCognitiveTax.md) — Mental load created when households must constantly calculate small cost-saving choices under price and income pressure.
@@ -12674,6 +12742,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [刑讯攀引扩大 / Coercive Implication Cascade](concepts/CoerciveImplicationCascade.md) — Failure mode where treason fear, suicide pressure, torture, and loyalty signaling turn one accusation into a widening chain of named accomplices.
 - [原则性职场不站队 / Principled Workplace Nonalignment](concepts/PrincipledWorkplaceNonalignment.md) — Career-survival frame where independent judgment, fair conduct, broad relationships, and principle boundaries matter more than reflexive factional siding.
 - [纳谏转政策式治理 / Receptive Remonstrance Governance](concepts/ReceptiveRemonstranceGovernance.md) — Leadership pattern where advice matters because it is heard, tested, protected, circulated, rewarded, corrected through self-blame, or converted into concrete legal, personnel, policy, burden-relief, construction, or feedback change.
+- [制度忠诚胜于个人依附 / Institutional Loyalty Over Personal Loyalty](concepts/InstitutionalLoyaltyOverPersonalLoyalty.md) — Governance pattern where durable organizations ask loyalty to attach to mission, rules, culture, process, and supervised authority rather than private favorites or personal worship.
 - [使命驱动的边疆责任 / Mission-Driven Frontier Responsibility](concepts/MissionDrivenFrontierResponsibility.md) — Frontier-duty pattern where formal exit is judged against concrete security collapse among dependent local allies.
 - [抚育胜于生育的母德评价 / Motherhood Beyond Childbirth](concepts/MotherhoodBeyondChildbirth.md) — Maternal-legitimacy pattern where raising, care, education, virtue, household formation, and public recognition can outweigh biological birth in political evaluation.
 - [宫廷女性史学 / Court Women Historiography](concepts/CourtWomenHistoriography.md) — Pattern where elite court women shape dynastic memory through palace records, editing, teaching, continuation, or source transmission.
@@ -12875,7 +12944,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Light-Touch Frontier Governance / 宽简边疆治理](concepts/LightTouchFrontierGovernance.md) — Frontier governance pattern where delegated routine, simple rules, tolerance of small faults, and big-picture stability preserve fragile order better than performative command pressure.
 - [皇后册立礼法合法性 / Empress Selection Ritual Legitimacy](concepts/EmpressSelectionRitualLegitimacy.md) — Hanji 811 concept for why empress selection is framed as ritual-political legitimacy rather than lottery, whim, or private favor.
 - [皇后聘礼礼制政治 / Imperial Bride-Price Ritual Politics](concepts/ImperialBridePriceRitualPolitics.md) — Hanji 615 concept for how empress bride-price, selection rites, refusal, and redistribution turn imperial marriage wealth into dynastic legitimacy, humility performance, and kinship capital.
-- [过继宗法礼制政治 / Adoptive Lineage Ritual Politics](concepts/AdoptiveLineageRitualPolitics.md) — Hanji 618 concept for how adoptive-heir doctrine, collateral succession, ancestral sacrifice, and court punishment turn lineage interpretation into political legitimacy.
+- [过继宗法礼制政治 / Adoptive Lineage Ritual Politics](concepts/AdoptiveLineageRitualPolitics.md) — Western Han concept for how adoptive-heir doctrine turns birth-family attachment, ancestral sacrifice, and lineage interpretation into political legitimacy.
 - [仁厚地方治理 / Humane Local Governance](concepts/HumaneLocalGovernance.md) — Local-administration pattern where burden reduction, voluntary cooperation, public reward, dispute mediation, trusted enforcement, restraint, diagnosis, settlement follow-through, open complaint access, and motive-sensitive mercy build order before coercion.
 - [Moral Mentorship as Talent Cultivation / 人师型人才成全](concepts/MoralMentorshipTalentCultivation.md) — Teacher model where ordinary conduct reading, recognition, character testing, corrective trust, encouragement, and self-limitation form people rather than only transmit knowledge.
 - [Moral Presence Without Office / 不仕而为道德镜鉴](concepts/MoralPresenceWithoutOffice.md) — Reputation pattern where a person shapes others' self-judgment without major office, preserved writings, or policy action, grounded by Huang Xian.
@@ -18937,5 +19006,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Creatine Monohydrate Evidence](concepts/CreatineMonohydrateEvidence.md) — Supplement-evidence frame for creatine monohydrate, dosing, healthy-person safety, tolerance, and cost hierarchy.
 - [Agent Command Center](concepts/AgentCommandCenter.md) — Agent-first coding interface where sessions, instructions, diffs, and review loops replace file-tree-first navigation as the primary surface.
 - [Team Agent Memory](concepts/TeamAgentMemory.md) — Shared memory layer for teams whose humans and agents need access to decisions, meetings, repositories, and coworker-agent context.
+- [AI-Generated Proof Governance](concepts/AIGeneratedProofGovernance.md) — Acceptance, explanation, priority, and authorship problem for AI-produced mathematical proofs.
+- [Post-9/11 Counterterrorism Architecture](concepts/Post911CounterterrorismArchitecture.md) — Durable U.S. security, surveillance, war-power, and financing-law system created after 9/11.
+- [Counterterrorism Powers Repurposing](concepts/CounterterrorismPowersRepurposing.md) — Risk that terrorism-law tools are applied to new criminal, political, or domestic targets.
+- [Revolutionary Opera Cultural Memory](concepts/RevolutionaryOperaCulturalMemory.md) — How revolutionary performance and songs preserve political memory through artistic biography.
+- [People's Artist State Honor](concepts/PeopleArtistStateHonor.md) — State-honor frame for turning a performer into an official cultural symbol.
 
 ## Syntheses

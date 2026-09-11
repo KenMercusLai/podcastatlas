@@ -2044,6 +2044,14 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》553丨职场中如何识别明升暗降？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Updated Wang Gen, He Wu, Han Chengdi, and Office Sequence Power Reallocation with the Three Excellencies restoration, Wang Gen's Da Sima formalization, and the "明升暗降" title-resource swap reading. No settled contradiction found; the full Three Excellencies institutional history, Kong Ji genealogy, and Liu Xing death context remain source-scoped.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Zhang Yu's de-escalation of Wang Gen's jealousy before Hanji 549. Created Jealousy De-escalation by Rival Protection and Disaster-Omen Interpretive Skepticism; updated Wang Gen, Zhang Yu, and Omen Skepticism Remonstrance. No settled contradiction found; Zhang Yu's 张瑜/张禹 character form and the illustrative Cao Pi/Cao Zhi and Zhou Yu/Zhuge Liang examples remain source-scoped.
+
 ## [2026-09-09] ingest | AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 Added source note for the What's Next episode with Song Le on AI for Science, GenBio AI, virtual-cell world models, biological harness engineering, data information value, active learning, protein language models, graph neural networks, and the boundary between automatable scientific labor and creative scientific discovery. No settled contradiction recorded; funding figures, model-performance claims, GenBio AI timelines, and AlphaFold-like maturity comparisons remain source-scoped.
@@ -17330,6 +17338,18 @@ Added source. Key claims: Li Xun turns earthquake, lunar eclipse, flood, and oth
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yuanyan 2-3 / 11-10 BCE under Han Chengdi. Created Duan Huizong, Guo Shun, Kangju, Mozhenjiang, Fanqiu, and Anlimi pages; updated Wusun and Coercive Frontier Deterrence with the small-force Wusun punishment and precedent-backed threat layer. No settled contradiction found; name normalization, Wusun genealogy, Kangju intent, Dayuan precedent, and Liu Xiang's disaster-omen causality remain source-scoped.
+
+## [2026-09-11] ingest | 500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
+
+Added source page for a 忽左忽右 episode with Huang Ziyi and Li Honggu on 《鞋邦：中国运动品牌四十年》, Jinjiang/Chendai sportswear clustering, diaspora and kinship finance, Nike process learning, Anta/Li-Ning path divergence, inventory reform, and multi-brand portfolio strategy. Created Chendai Town, Ding Shizhong, Fila, Li Honggu, 《鞋邦》, Jinjiang Model, Kinship-Based Township Enterprise Finance, and Sportswear Multi-Brand Portfolio; updated Jinjiang, Anta Sports, Huang Ziyi Manufacturing Reporter, overview, and index. No settled contradiction found; Huang Ziyi title/body spelling variance, Nike timing, Fila store counts, GDP-threshold claims, and acquisition anecdotes remain source-scoped.
+
+## [2026-09-11] ingest | Out-numbered: AI's contentious maths milestone
+
+Added The Intelligence source on OpenAI's contested Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy. Created Sam Beale, Tristan Buckmaster, Le Van Elgindi, Guo Lanying, The White-Haired Girl, My Motherland, AI-Generated Proof Governance, Post-9/11 Counterterrorism Architecture, Counterterrorism Powers Repurposing, Revolutionary Opera Cultural Memory, and People's Artist State Honor; updated AI For Math, AI Mathematician, and Navier-Stokes Equations. No settled contradiction found; the claimed proof, priority dispute, agent-swarm details, terrorism-law examples, and Guo biographical details remain source-scoped.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》560丨职场不被坑，教你这招不战而胜！
 
 Added source. Key claims: Zhai Fangjin answers Hu Chang's jealous public belittlement with visible respect for Hu's scholarship; recognition can defuse status-driven hostility when the other side remains capable of shame and reciprocity; the episode links conflict reduction to disciplined speech and caution against rash judgment.
@@ -17567,5 +17587,91 @@ Added Fengyan Fengyu source on Apple's 2026 fall event, iPhone Duo, foldable app
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》552丨通透人性的人，职场平步青云
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Created Gu Yong (Western Han); updated Kong Guang, Han Chengdi, and Shangshu with the Dingtao-line succession meeting, Kong Guang's Shangshu-backed dissent, and the source's "demotion as exit" reading. No settled contradiction found; the source transcript's "古勇" and "定逃王" forms are normalized to 谷永 and 定陶王刘欣 / Han Aidi with source-scoped caution.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》554丨成年人的顶级自律：克制欲望
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Created Xiahou Fan and Wuzhuliu Chanyu; updated Wang Gen, Han Chengdi, Xiongnu, Desire-Capacity Fit, Diplomatic Scapegoat Blame Transfer, Diplomatic Cost-Risk Accounting, and Capacity-Backed Diplomatic Hierarchy. No settled contradiction found; the tract geography, Wang Gen's full motive, Xiahou Fan's intent, Wuzhuliu Chanyu's broader reign, and the complete Han-Xiongnu diplomatic record remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？
+
+Added source. Key claims: Chunyu Zhang's pre-fall power rests on outer-relative identity, Chengdi access, bribery networks, and exploitation of Empress Xu through false restoration promises; Empress Xu's continued payments are read through sunk-cost entrapment and cold-palace isolation; Wang Mang's monitoring sets up Hanji 557's sickbed accusation. Updated Chunyu Zhang and Empress Xu; created Sunk Cost Entrapment. No settled contradiction found.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-11] ingest | 《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-12] ingest | 《资治通鉴·汉纪》555丨他为了当皇帝，为啥要牺牲亲爹？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Liu Xin's post-designation crown-prince status under Han Chengdi. Created Yan Cong; updated Zhao Xuan, Ding Ji, and Adoptive Lineage Ritual Politics with the thank-you memorial, birth-line severance, and Fu Taihou/Ding Ji access distinction. No settled contradiction found; Liu Jing, Yan Cong's full career, Zhao Xuan's office sequence, and the exact memorial wording remain source-scoped.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-12] ingest | 《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 3 / 14 BCE under Han Chengdi. Created Mei Fu, Wang Feng, Wang Zhang, and Institutional Loyalty Over Personal Loyalty; updated Han Chengdi, Receptive Remonstrance Governance, Outer-Relative Preventive Restraint, overview, and index. No settled contradiction found; Su Ling, Yan Xin, the full Shanyang revolt, Wang Feng's full power base, and the exact text of Mei Fu's memorial remain source-scoped.
+
+## [2026-09-12] ingest | 《资治通鉴·汉纪》540丨太后的葬礼
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 2 / 15 BCE under Han Chengdi. Created Qiongcheng Taihou, Xue Xuan, Xu Pingjun, Funeral Ritual Accountability, and Palace Information Discipline; updated Han Chengdi, Zhai Fangjin, Kong Guang, overview, and index. No settled contradiction found; the transcript's 穷城/邛成 wording, Xue Xuan's full legal record, Zhai Fangjin's private motive, Kong Guang's full early career, and the closing Yongcheng-sacrifice notice remain source-scoped.
+
+## [2026-09-12] ingest | 671. The First World War: Blood in the Trenches (Part 1)
+
+Added The Rest Is History source page for the opening 1915 Western Front episode. Created Western Front (First World War), Trench Life on the Western Front, Shell Shock, First World War Gas Warfare, Battle of Loos, Robert Graves, Ernst Junger, Rudyard Kipling, and John Kipling; updated First World War and The Rest Is History. No settled contradiction found; casualty rates, national comparisons, gas effectiveness, and Kipling-family details remain source-scoped.
+
+## [2026-09-12] ingest | How to Overcome Social Anxiety | Dr. Nick Epley
+
+Added Huberman Lab source on Nick Epley's social-connection research, mind reading, voice, underestimating strangers' interest, real exposure for social anxiety, adoption, Down syndrome, and modeled social habits. Created Nick Epley, Everyday Social Connection, Social Misprediction, Voice Humanization, Real Exposure for Social Anxiety, and Diagnosis Personhood Boundary. No settled contradiction found; clinical, family, disability, AI-voice, and loneliness physiology claims remain source-scoped.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "JealousyAsPoliticalViolence"
     title: "Jealousy as Political Violence / 嫉妒转化为政治杀机"
     url: "/wiki/concepts/jealousyaspoliticalviolence/"
+  - key: "JealousyDeescalationByRivalProtection"
+    title: "Jealousy De-escalation by Rival Protection / 以护对手化解嫉妒"
+    url: "/wiki/concepts/jealousydeescalationbyrivalprotection/"
   - key: "JeffersonianLibertyContradiction"
     title: "Jeffersonian Liberty Contradiction"
     url: "/wiki/concepts/jeffersonianlibertycontradiction/"
@@ -170,6 +173,9 @@ wiki_pages:
   - key: "JingpiaoCreativeCeramicEcology"
     title: "Jingpiao Creative Ceramic Ecology / 景漂创意陶瓷生态"
     url: "/wiki/concepts/jingpiaocreativeceramicecology/"
+  - key: "JinjiangModel"
+    title: "Jinjiang Model / 晋江模式"
+    url: "/wiki/concepts/jinjiangmodel/"
   - key: "JitongSpiritMedium"
     title: "Jitong Spirit Medium / 鸡童（乩童）"
     url: "/wiki/concepts/jitongspiritmedium/"

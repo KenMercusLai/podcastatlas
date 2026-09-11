@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "RealEstateInvestmentTrust"
     title: "Real Estate Investment Trust"
     url: "/wiki/concepts/realestateinvestmenttrust/"
+  - key: "RealExposureSocialAnxiety"
+    title: "Real Exposure for Social Anxiety"
+    url: "/wiki/concepts/realexposuresocialanxiety/"
   - key: "RealRobotDataStrategy"
     title: "Real Robot Data Strategy"
     url: "/wiki/concepts/realrobotdatastrategy/"
@@ -638,6 +641,9 @@ wiki_pages:
   - key: "RevolutionaryMilitarySlaveryContradiction"
     title: "Revolutionary Military Slavery Contradiction"
     url: "/wiki/concepts/revolutionarymilitaryslaverycontradiction/"
+  - key: "RevolutionaryOperaCulturalMemory"
+    title: "Revolutionary Opera Cultural Memory"
+    url: "/wiki/concepts/revolutionaryoperaculturalmemory/"
   - key: "RevolutionaryTerrorPolitics"
     title: "Revolutionary Terror Politics / 革命恐怖政治"
     url: "/wiki/concepts/revolutionaryterrorpolitics/"

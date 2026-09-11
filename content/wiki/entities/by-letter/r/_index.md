@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -428,6 +428,9 @@ wiki_pages:
   - key: "RobertForsythe"
     title: "Robert Forsythe"
     url: "/wiki/entities/robertforsythe/"
+  - key: "RobertGraves"
+    title: "Robert Graves"
+    url: "/wiki/entities/robertgraves/"
   - key: "RobertGuest"
     title: "Robert Guest"
     url: "/wiki/entities/robertguest/"
@@ -674,6 +677,9 @@ wiki_pages:
   - key: "RudyGiuliani"
     title: "Rudy Giuliani"
     url: "/wiki/entities/rudygiuliani/"
+  - key: "RudyardKipling"
+    title: "Rudyard Kipling"
+    url: "/wiki/entities/rudyardkipling/"
   - key: "RuhollahKhomeini"
     title: "Ruhollah Khomeini"
     url: "/wiki/entities/ruhollahkhomeini/"

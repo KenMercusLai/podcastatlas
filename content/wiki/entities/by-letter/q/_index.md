@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "QingdaoKuaima"
     title: "轻刀快马 / Qingdao Kuaima"
     url: "/wiki/entities/qingdaokuaima/"
+  - key: "QiongchengTaihouWesternHan"
+    title: "邛成太后 / Qiongcheng Taihou (Western Han)"
+    url: "/wiki/entities/qiongchengtaihouwesternhan/"
   - key: "QiuLian"
     title: "邱连 / Qiu Lian"
     url: "/wiki/entities/qiulian/"

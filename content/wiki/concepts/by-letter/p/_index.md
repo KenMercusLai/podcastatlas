@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -308,6 +308,9 @@ wiki_pages:
   - key: "PeopleVersusPlacesRecovery"
     title: "People Versus Places Recovery"
     url: "/wiki/concepts/peopleversusplacesrecovery/"
+  - key: "PeopleArtistStateHonor"
+    title: "People's Artist State Honor"
+    url: "/wiki/concepts/peopleartiststatehonor/"
   - key: "PeopleBasedPoliticalSecurity"
     title: "People-Based Political Security / 民心型政治安全"
     url: "/wiki/concepts/peoplebasedpoliticalsecurity/"
@@ -911,6 +914,9 @@ wiki_pages:
   - key: "PostOwnership"
     title: "Post Ownership"
     url: "/wiki/concepts/postownership/"
+  - key: "Post911CounterterrorismArchitecture"
+    title: "Post-9/11 Counterterrorism Architecture"
+    url: "/wiki/concepts/post911counterterrorismarchitecture/"
   - key: "PostAcquisitionFounderIdentity"
     title: "Post-Acquisition Founder Identity"
     url: "/wiki/concepts/postacquisitionfounderidentity/"
@@ -1826,6 +1832,9 @@ wiki_pages:
   - key: "PalaceMarketTheater"
     title: "宫市游乐式权力错位 / Palace Market Theater"
     url: "/wiki/concepts/palacemarkettheater/"
+  - key: "PalaceInformationDiscipline"
+    title: "宫廷信息纪律 / Palace Information Discipline"
+    url: "/wiki/concepts/palaceinformationdiscipline/"
   - key: "PalaceCoupSymbolControl"
     title: "宫廷政变中的符印与门户控制 / Palace Coup Symbol Control"
     url: "/wiki/concepts/palacecoupsymbolcontrol/"

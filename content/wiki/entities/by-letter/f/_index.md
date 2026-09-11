@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -227,6 +227,9 @@ wiki_pages:
   - key: "FigureAI"
     title: "Figure AI"
     url: "/wiki/entities/figureai/"
+  - key: "Fila"
+    title: "Fila"
+    url: "/wiki/entities/fila/"
   - key: "FilipAmtislavski"
     title: "Filip Amtislavski"
     url: "/wiki/entities/filipamtislavski/"
@@ -887,6 +890,9 @@ wiki_pages:
   - key: "FenJingyuan"
     title: "焚景源"
     url: "/wiki/entities/fenjingyuan/"
+  - key: "FanqiuWusun"
+    title: "番丘 / Fanqiu"
+    url: "/wiki/entities/fanqiuwusun/"
   - key: "FanqieNovel"
     title: "番茄小说 / Fanqie Novel"
     url: "/wiki/entities/fanqienovel/"

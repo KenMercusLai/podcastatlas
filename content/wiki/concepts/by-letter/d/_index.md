@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -440,6 +440,9 @@ wiki_pages:
   - key: "DiabeticRetinopathyScreening"
     title: "Diabetic Retinopathy Screening / 糖尿病眼底筛查"
     url: "/wiki/concepts/diabeticretinopathyscreening/"
+  - key: "DiagnosisPersonhoodBoundary"
+    title: "Diagnosis Personhood Boundary"
+    url: "/wiki/concepts/diagnosispersonhoodboundary/"
   - key: "DiagnosticSafetyNetting"
     title: "Diagnostic Safety Netting / 诊断安全网"
     url: "/wiki/concepts/diagnosticsafetynetting/"
@@ -611,6 +614,9 @@ wiki_pages:
   - key: "DisasterExploitingConquestTiming"
     title: "Disaster-Exploiting Conquest Timing / 趁灾进攻时机"
     url: "/wiki/concepts/disasterexploitingconquesttiming/"
+  - key: "DisasterOmenInterpretiveSkepticism"
+    title: "Disaster-Omen Interpretive Skepticism / 灾异解释怀疑"
+    url: "/wiki/concepts/disasteromeninterpretiveskepticism/"
   - key: "DisasterOmenPersonnelAttack"
     title: "Disaster-Omen Personnel Attack / 灾异人事攻防"
     url: "/wiki/concepts/disasteromenpersonnelattack/"

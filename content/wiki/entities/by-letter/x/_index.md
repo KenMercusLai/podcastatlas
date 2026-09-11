@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9688
+wiki_total_pages: 9726
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -155,6 +155,9 @@ wiki_pages:
   - key: "XunXieshu"
     title: "《讯蟹书》"
     url: "/wiki/entities/xunxieshu/"
+  - key: "XieBangBook"
+    title: "《鞋邦：中国运动品牌四十年》"
+    url: "/wiki/entities/xiebangbook/"
   - key: "XiangJiXuanZhi"
     title: "《项脊轩志》"
     url: "/wiki/entities/xiangjixuanzhi/"
@@ -212,6 +215,9 @@ wiki_pages:
   - key: "XiahouYuan"
     title: "夏侯渊 / Xiahou Yuan"
     url: "/wiki/entities/xiahouyuan/"
+  - key: "XiahouFanWesternHan"
+    title: "夏侯藩 / Xiahou Fan (Western Han)"
+    url: "/wiki/entities/xiahoufanwesternhan/"
   - key: "XiaTaihou"
     title: "夏姬 / 夏太后 / Lady Xia"
     url: "/wiki/entities/xiataihou/"
@@ -515,6 +521,9 @@ wiki_pages:
   - key: "XueBaochai"
     title: "薛宝钗 / Xue Baochai"
     url: "/wiki/entities/xuebaochai/"
+  - key: "XueXuanWesternHan"
+    title: "薛宣 / Xue Xuan (Western Han)"
+    url: "/wiki/entities/xuexuanwesternhan/"
   - key: "XueXiaofan"
     title: "薛小凡 / Xue Xiaofan"
     url: "/wiki/entities/xuexiaofan/"
@@ -578,6 +587,9 @@ wiki_pages:
   - key: "XuLiWarringStates"
     title: "许历 / Xu Li"
     url: "/wiki/entities/xuliwarringstates/"
+  - key: "XuPingjunWesternHan"
+    title: "许平君 / Xu Pingjun (Western Han)"
+    url: "/wiki/entities/xupingjunwesternhan/"
   - key: "XuYueAutismScholar"
     title: "许悦 / Xu Yue"
     url: "/wiki/entities/xuyueautismscholar/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7046
+wiki_total_pages: 7068
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "TreeProtectionOrdinances"
     title: "Tree Protection Ordinances"
     url: "/wiki/concepts/treeprotectionordinances/"
+  - key: "TrenchLifeWesternFront"
+    title: "Trench Life on the Western Front"
+    url: "/wiki/concepts/trenchlifewesternfront/"
   - key: "TrenchSanitationDiseaseBurden"
     title: "Trench Sanitation Disease Burden"
     url: "/wiki/concepts/trenchsanitationdiseaseburden/"

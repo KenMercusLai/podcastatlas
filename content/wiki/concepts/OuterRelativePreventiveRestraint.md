@@ -10,7 +10,8 @@ sources:
   - zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh
   - zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets
   - zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2
+last_updated: 2026-09-12
 ---
 
 ## Definition
@@ -18,6 +19,8 @@ last_updated: 2026-09-11
 Outer-relative preventive restraint is the court-governance pattern of blocking or warning against a ruler's maternal or in-law relatives turning kinship into palace proximity, fief, office, title, guest networks, spending privilege, marriage leverage, or legal exemption before they become an entrenched power bloc.
 
 ## Current Synthesis
+
+The earlier Chengdi-era warning behind the later accession and Wang Mang cases comes after [[WangZhangWesternHan|王章]] is killed for criticizing [[WangFengWesternHan|王凤]]. [[MeiFuWesternHan|梅福]] warns [[HanChengdi|汉成帝]] that outer relatives should be restrained precisely because they are close kin. The source emphasizes prevention before hard capture: educate and limit relatives early, because once their power outruns the ruler, correction comes too late.
 
 Hanji 562 supplies an earlier Western Han prevention moment at [[HanAidi|汉哀帝]]'s accession. [[KongGuangWesternHan|孔光]] warns that [[FuTaihouWesternHan|傅太后]] should not be placed where she can easily interfere in government, because she has raised Aidi, helped his succession, and is known as forceful and politically skillful. [[HeWuWesternHan|何武]] gives the accommodating answer, and the North Palace placement immediately lets Fu Taihou press title and relative-promotion demands. The episode makes residence design part of prevention: access can become power before office capture is visible.
 
@@ -35,7 +38,7 @@ The restraint is active rather than symbolic. It can appear as Yin Shi's refusal
 
 ## Key Claims
 
-- Outer-relative danger can be reduced before formal capture by limiting palace proximity and refusing fief, title, office, spending, marriage leverage, and legal exemptions for natal kin.
+- Outer-relative danger can be reduced before formal capture by limiting palace proximity and refusing fief, title, office, spending, marriage leverage, and legal exemptions for natal kin, especially when closeness makes overreach harder to name early.
 - Prevention can come from the beneficiary household itself as well as from ministers or the ruler's spouse.
 - Even merit-grounded reward may need restraint when family proximity makes the reward look like public power for private kinship.
 - Historical precedent matters because earlier consort-family disasters can turn kin reward into a dynastic-risk signal or be weaponized to isolate a young ruler from maternal protectors.
@@ -46,6 +49,8 @@ The restraint is active rather than symbolic. It can appear as Yin Shi's refusal
 ## Evidence
 
 - Residence warning: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] says Kong Guang recommends separate lodging for Fu Taihou because her temperament, political skill, and role in Aidi's upbringing make interference likely.
+- Chengdi-era warning: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] says Mei Fu warns Chengdi to restrain close relatives and prevent Wang-family power from becoming uncorrectable.
+- Precedent chain: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] says Mei Fu invokes Lu, Huo, and Shangguan outer-relative crises to make early restraint a dynastic-protection measure.
 - Accommodation failure: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] says He Wu recommends North Palace, after which Fu Taihou uses daily access to demand title and relative promotion.
 - Wang Mang's exclusionary use: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] says Wang Mang cites Ding and Fu outer-relative disorder to keep Pingdi's Wei maternal relatives in Zhongshan despite granting them honors.
 - Yin Shi reward optics: [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] says Yin Shi refuses added fief because as Yin Lihua's brother he would struggle to face the realm's war heroes if his reward were enlarged.
@@ -60,11 +65,11 @@ The restraint is active rather than symbolic. It can appear as Yin Shi's refusal
 
 ## Counterevidence & Qualifications
 
-The source set proves a prevention-and-warning pattern, not a permanent solution. Hanji 562 shows Kong Guang's warning as retrospectively sound in the source's reading, but it does not prove He Wu intended to enable Fu Taihou or settle the exact architecture of the North Palace access route. Hanji 609 is a warning example rather than a model case: Wang Mang's argument names a real historical risk but serves his own monopoly over Pingdi. Hanji 683 and Hanji 709 show unusually self-limiting Yin-family beneficiaries, not proof that all favored households will restrain themselves. Hanji 745 is a ministerial warning about appointment and guest-network risk, not proof that the Ma brothers have already captured policy. Later Hanji 749-752 material shows that Ma-family command, title, and post-Empress-Ma overexposure still became problems, so preventive restraint needs succession and continuity beyond one disciplined patron. The drought argument is preserved as a court claim in Hanji 748, but the wiki treats Empress Ma's skepticism as the source's controlling interpretation rather than endorsing or falsifying omen causation independently.
+The source set proves a prevention-and-warning pattern, not a permanent solution. Hanji 544 supports Mei Fu's diagnosis of Wang-family danger but does not by itself reconstruct Wang Feng's full power base or prove which remedy would have worked. Hanji 562 shows Kong Guang's warning as retrospectively sound in the source's reading, but it does not prove He Wu intended to enable Fu Taihou or settle the exact architecture of the North Palace access route. Hanji 609 is a warning example rather than a model case: Wang Mang's argument names a real historical risk but serves his own monopoly over Pingdi. Hanji 683 and Hanji 709 show unusually self-limiting Yin-family beneficiaries, not proof that all favored households will restrain themselves. Hanji 745 is a ministerial warning about appointment and guest-network risk, not proof that the Ma brothers have already captured policy. Later Hanji 749-752 material shows that Ma-family command, title, and post-Empress-Ma overexposure still became problems, so preventive restraint needs succession and continuity beyond one disciplined patron. The drought argument is preserved as a court claim in Hanji 748, but the wiki treats Empress Ma's skepticism as the source's controlling interpretation rather than endorsing or falsifying omen causation independently.
 
 ## What Changed
 
-- Added Hanji 562 as a residence-access prevention case: Kong Guang warns against Fu Taihou's close palace placement before the later title fight hardens.
+- Added Hanji 544 as the Chengdi-era warning case: Mei Fu argues that close relatives need early restraint after Wang Feng's power makes criticism dangerous.
 - Reframed prevention to include palace proximity and merit-grounded reward that become risky when family proximity changes their public meaning.
 - Preserved Hanji 609 as a warning that outer-relative prevention can be weaponized to isolate a young ruler's maternal family.
 - Preserved Hanji 709 as the Yin Xing refusal and household-advice layer.
@@ -73,6 +78,8 @@ The source set proves a prevention-and-warning pattern, not a permanent solution
 ## Related Concepts
 
 - [[OuterRelativeCourtPower|外戚专权与清算]] - downstream danger this concept tries to prevent before kinship power becomes entrenched.
+- [[MeiFuWesternHan|梅福]] - Western Han warning actor who argues for early kinship restraint.
+- [[WangFengWesternHan|王凤]] - Chengdi-era Wang-family example behind Mei Fu's warning.
 - [[FuTaihouWesternHan|傅太后]] - accession-era Western Han case where residence proximity becomes title and kinship pressure.
 - [[KongGuangWesternHan|孔光]] - official whose separate-palace advice supplies the residence-access prevention case.
 - [[OuterRelativeCommandAppointmentRisk|外戚任重职风险]] - narrower later appointment risk when relatives receive major military or administrative roles.
