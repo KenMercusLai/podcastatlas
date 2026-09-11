@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2653
+topic_total_pages: 2654
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -3095,6 +3095,9 @@ topic_entities:
   - key: "BaillieCollege"
     title: "Baillie College / 贝利学院"
     url: "/wiki/entities/bailliecollege/"
+  - key: "BaltimoreBanner"
+    title: "Baltimore Banner"
+    url: "/wiki/entities/baltimorebanner/"
   - key: "BAMTech"
     title: "BAMTech"
     url: "/wiki/entities/bamtech/"

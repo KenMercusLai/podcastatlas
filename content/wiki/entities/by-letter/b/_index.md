@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9773
+wiki_total_pages: 9780
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -68,6 +68,9 @@ wiki_pages:
   - key: "BalticSea"
     title: "Baltic Sea"
     url: "/wiki/entities/balticsea/"
+  - key: "BaltimoreBanner"
+    title: "Baltimore Banner"
+    url: "/wiki/entities/baltimorebanner/"
   - key: "BambuLab"
     title: "Bambu Lab / 拓竹科技"
     url: "/wiki/entities/bambulab/"
@@ -305,6 +308,9 @@ wiki_pages:
   - key: "BenjaminAlarie"
     title: "Benjamin Alarie"
     url: "/wiki/entities/benjaminalarie/"
+  - key: "BenjaminEidlis"
+    title: "Benjamin Eidlis"
+    url: "/wiki/entities/benjamineidlis/"
   - key: "BenjaminFranklin"
     title: "Benjamin Franklin"
     url: "/wiki/entities/benjaminfranklin/"

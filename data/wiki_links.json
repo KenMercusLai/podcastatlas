@@ -6955,6 +6955,10 @@
     "title": "Baltic Sea",
     "url": "/wiki/entities/balticsea/"
   },
+  "BaltimoreBanner": {
+    "title": "Baltimore Banner",
+    "url": "/wiki/entities/baltimorebanner/"
+  },
   "BambuLab": {
     "title": "Bambu Lab / 拓竹科技",
     "url": "/wiki/entities/bambulab/"
@@ -7654,6 +7658,10 @@
   "BenjaminAlarie": {
     "title": "Benjamin Alarie",
     "url": "/wiki/entities/benjaminalarie/"
+  },
+  "BenjaminEidlis": {
+    "title": "Benjamin Eidlis",
+    "url": "/wiki/entities/benjamineidlis/"
   },
   "BenjaminFranklin": {
     "title": "Benjamin Franklin",
@@ -15003,6 +15011,10 @@
     "title": "DPC/DRG Payment Reform",
     "url": "/wiki/concepts/dpcdrgpaymentreform/"
   },
+  "DSCRLoans": {
+    "title": "DSCR Loans",
+    "url": "/wiki/concepts/dscrloans/"
+  },
   "DVD": {
     "title": "DVD",
     "url": "/wiki/entities/dvd/"
@@ -18731,6 +18743,10 @@
     "title": "Elie Wiesel",
     "url": "/wiki/entities/eliewiesel/"
   },
+  "EliezerGold": {
+    "title": "Eliezer Gold",
+    "url": "/wiki/entities/eliezergold/"
+  },
   "ElisabethMarieOfAustria": {
     "title": "Elisabeth Marie of Austria",
     "url": "/wiki/entities/elisabethmarieofaustria/"
@@ -19526,6 +19542,10 @@
   "ErasmusProgramme": {
     "title": "Erasmus Programme / 伊拉斯莫计划",
     "url": "/wiki/entities/erasmusprogramme/"
+  },
+  "EricAbramovich": {
+    "title": "Eric Abramovich",
+    "url": "/wiki/entities/ericabramovich/"
   },
   "EricFeishu": {
     "title": "Eric (Feishu source)",
@@ -25811,6 +25831,10 @@
     "title": "Hallidon Hill",
     "url": "/wiki/entities/hallidonhill/"
   },
+  "HallieMiller": {
+    "title": "Hallie Miller",
+    "url": "/wiki/entities/halliemiller/"
+  },
   "HaloProductStrategy": {
     "title": "Halo Product Strategy",
     "url": "/wiki/concepts/haloproductstrategy/"
@@ -29299,6 +29323,10 @@
     "title": "Infinity Venture Studio",
     "url": "/wiki/entities/infinityventurestudio/"
   },
+  "InflatedPropertyTransactionFraudRisk": {
+    "title": "Inflated Property Transaction Fraud Risk",
+    "url": "/wiki/concepts/inflatedpropertytransactionfraudrisk/"
+  },
   "InflationBias": {
     "title": "Inflation Bias",
     "url": "/wiki/concepts/inflationbias/"
@@ -29994,6 +30022,10 @@
   "InvestorEducation": {
     "title": "Investor Education",
     "url": "/wiki/concepts/investoreducation/"
+  },
+  "InvestorForeclosureSpillover": {
+    "title": "Investor Foreclosure Spillover",
+    "url": "/wiki/concepts/investorforeclosurespillover/"
   },
   "InvestorIdolRisk": {
     "title": "Investor Idol Risk / 投资偶像风险",
@@ -50575,6 +50607,10 @@
     "title": "Robustness Checks",
     "url": "/wiki/concepts/robustnesschecks/"
   },
+  "Roc360": {
+    "title": "Roc360",
+    "url": "/wiki/entities/roc360/"
+  },
   "Roche": {
     "title": "Roche / 罗氏",
     "url": "/wiki/entities/roche/"
@@ -51334,6 +51370,10 @@
   "SahaUllsvig": {
     "title": "Saha Ullsvig",
     "url": "/wiki/entities/sahaullsvig/"
+  },
+  "SahanaJayaraman": {
+    "title": "Sahana Jayaraman",
+    "url": "/wiki/entities/sahanajayaraman/"
   },
   "SahilLavingia": {
     "title": "Sahil Lavingia",
@@ -61534,6 +61574,10 @@
   "WallStreetJournal": {
     "title": "Wall Street Journal",
     "url": "/wiki/entities/wallstreetjournal/"
+  },
+  "WallStreetPrivateMortgageCapital": {
+    "title": "Wall Street Private Mortgage Capital",
+    "url": "/wiki/concepts/wallstreetprivatemortgagecapital/"
   },
   "WallaceFastFood": {
     "title": "Wallace / 华莱士",
@@ -72058,6 +72102,10 @@
   "the-little-pet-fish-that-saved-a-town-in-the-amazon": {
     "title": "The little pet fish that saved a town in the Amazon",
     "url": "/wiki/sources/the-little-pet-fish-that-saved-a-town-in-the-amazon/"
+  },
+  "the-loan-at-the-heart-of-a-new-foreclosure-crisis": {
+    "title": "The loan at the heart of a new foreclosure crisis",
+    "url": "/wiki/sources/the-loan-at-the-heart-of-a-new-foreclosure-crisis/"
   },
   "the-mental-frame-specific-daily-actions-to-succeed-andy-stumpf-scim2498586099": {
     "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",

@@ -9940,6 +9940,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BaltimoreBanner": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "BambuLab": [
     {
       "key": "technology",
@@ -18526,6 +18533,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "DSCRLoans": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "DVD": [
     {
       "key": "technology",
@@ -23433,6 +23447,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "EricAbramovich": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "EricGarcetti": [
@@ -34125,6 +34146,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "InflatedPropertyTransactionFraudRisk": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "InflationBias": [
@@ -56453,6 +56481,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "Roc360": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "RockClimbingFailurePractice": [
     {
       "key": "science",
@@ -69560,6 +69595,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "WallStreetPrivateMortgageCapital": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "WallyFunk": [
     {
       "key": "science",
@@ -80932,6 +80974,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "the-loan-at-the-heart-of-a-new-foreclosure-crisis": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "the-mourning-show-the-politics-of-khameneis-funeral-6a4b75084955fc4dc12ffcc7": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7097
+wiki_total_pages: 7101
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "DryEyeChronicManagement"
     title: "Dry Eye Chronic Management / 干眼慢性管理"
     url: "/wiki/concepts/dryeyechronicmanagement/"
+  - key: "DSCRLoans"
+    title: "DSCR Loans"
+    url: "/wiki/concepts/dscrloans/"
   - key: "DualExecutivePowerRisk"
     title: "Dual Executive Power Risk / 双首长权力风险"
     url: "/wiki/concepts/dualexecutivepowerrisk/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9773
+wiki_total_pages: 9780
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "HallidonHill"
     title: "Hallidon Hill"
     url: "/wiki/entities/hallidonhill/"
+  - key: "HallieMiller"
+    title: "Hallie Miller"
+    url: "/wiki/entities/halliemiller/"
   - key: "Hamas"
     title: "Hamas"
     url: "/wiki/entities/hamas/"

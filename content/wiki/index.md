@@ -1798,6 +1798,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Strait and narrowing: the Iran deal crumbles](sources/strait-and-narrowing-the-iran-deal-crumbles-6a57608bf821a8210984481f.md) — The Intelligence episode on the U.S.-Iran memorandum collapse over Strait of Hormuz safe passage, Indian government website failures, and adult summer camps as paid offline social infrastructure.
 - [Momenta IPO后再访曹旭东：就是想做没有尽头的AI](sources/momenta-ipo-hou-zai-fang-cao-xu-dong-jiu-shi-xiang-zuo-mei-you-jin-tou-de-ai-1-172-1.md) — LateTalk interview with Cao Xudong on Momenta's IPO-era autonomous-driving strategy, city NOA competition, data flywheel, physical AI, robot expansion, and low-cost short-cycle organization method.
 - [Building things and breaking things in China (Summer School World Tour)](sources/building-things-and-breaking-things-in-china-summer-school-world-tour.md) — Planet Money Summer School episode with Dan Wang on China as an engineering state, real-estate debt, infrastructure malinvestment, youth unemployment, low redistribution, and the U.S. lesson to build with regulation.
+- [The loan at the heart of a new foreclosure crisis](sources/the-loan-at-the-heart-of-a-new-foreclosure-crisis.md) — Planet Money episode on DSCR landlord loans, Wall Street-backed private mortgage capital, Baltimore investor foreclosures, suspected inflated transactions, and row-home neighborhood spillovers.
 - [如何「兜住」一颗火箭？｜ S10E21](sources/ruhe-douzhu-yike-huojian-s10e21-b66fdf0f-d428-4f0c-8412-b0c7581132d0.md) — What's Next episode with Jerry/太空僧 on Long March 10B sea-net recovery, recovery ship control, reusable-rocket route choice, and the gap between first recovery and economical reuse.
 - [173.当缅怀高善文博士时，我们究竟在怀念什么？](sources/173-dang-mianhuai-gaoshanwen-boshi-shi-women-jiujing-zai-huainian-shenme-lruwsn-me-sheuddobz13rmhwhfe.md) — 起朱楼宴宾客 episode on 高善文, asset revaluation theory, balance-sheet macro analysis, sell-side macro research, falling capital returns, and the public-expression environment for evidence-backed economic speech.
 - [Two indicators for lowering the rent](sources/two-indicators-for-lowering-the-rent.md) — Planet Money episode on corporate single-family landlords, build-to-rent supply, SRO disappearance, homelessness, and why housing restrictions can backfire when they remove cheap or new rental supply.
@@ -3013,6 +3014,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Corps of Colonial Marines](entities/ColonialMarines.md) — British-organized War of 1812 unit of escaped enslaved men central to the U.S. anthem's slavery controversy.
 - [The Anacreontic Song](entities/AnacreonticSong.md) — English melody reused for Key's poem and inherited by The Star-Spangled Banner.
 - [Mary Pickersgill](entities/MaryPickersgill.md) — Baltimore flag maker whose large Fort McHenry flag became central to the U.S. anthem image.
+- [Baltimore Banner](entities/BaltimoreBanner.md) — Local newsroom whose reporters investigated Baltimore row-home foreclosures tied to DSCR loans.
+- [Hallie Miller](entities/HallieMiller.md) — Baltimore Banner journalist investigating the DSCR-loan foreclosure portfolio.
+- [Sahana Jayaraman](entities/SahanaJayaraman.md) — Baltimore Banner journalist named in the published series on Baltimore investor foreclosures.
+- [Eliezer Gold](entities/EliezerGold.md) — Real estate investor whose LLCs bought more than 500 Baltimore homes in the DSCR-loan case.
+- [Benjamin Eidlis](entities/BenjaminEidlis.md) — Real estate figure who reportedly sold more than 100 Baltimore homes to Eliezer Gold.
+- [Roc360](entities/Roc360.md) — Private real estate lending company connected to the episode's DSCR-loan and Wall Street capital story.
+- [Eric Abramovich](entities/EricAbramovich.md) — Roc360 co-founder explaining and defending private DSCR lending.
 - [George Armistead](entities/GeorgeArmistead.md) — Fort McHenry commander associated with ordering and raising the large garrison flag.
 - [God Save the King / Queen](entities/GodSaveTheKing.md) — British anthem whose uncertain origin, Jacobite-Hanoverian repurposing, and sporting use make it a flexible monarchy symbol.
 - [Scotland](entities/Scotland.md) — UK constituent-nation sporting identity case and medieval ally of France in the Hundred Years' War origin branch.
@@ -17099,6 +17107,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Capital Return Rate Decline](concepts/CapitalReturnRateDecline.md) — Long-cycle macro judgment that falling capital returns can pull China's interest-rate center lower and reshape investment expectations.
 - [Macro Research Public Expression](concepts/MacroResearchPublicExpression.md) — Public-speech frame where data-grounded macro research needs room for debate, falsification, and uncomfortable policy implications.
 - [Institutional Single-Family Rental](concepts/InstitutionalSingleFamilyRental.md) — Investor-backed ownership of rental houses, central to the episode's corporate-landlord scale debate.
+- [DSCR Loans](concepts/DSCRLoans.md) — Landlord mortgage product underwritten around expected rental cash flow rather than personal income verification.
+- [Wall Street Private Mortgage Capital](concepts/WallStreetPrivateMortgageCapital.md) — Institutional capital channel that helped private landlord and fix-and-flip lending scale.
+- [Investor Foreclosure Spillover](concepts/InvestorForeclosureSpillover.md) — Neighborhood harm from failed investor-owned housing portfolios becoming vacant or abandoned.
+- [Inflated Property Transaction Fraud Risk](concepts/InflatedPropertyTransactionFraudRisk.md) — Risk that connected parties inflate sale prices to support larger property-backed loans.
 - [Corporate Landlord Tradeoffs](concepts/CorporateLandlordTradeoffs.md) — Mixed frame for corporate landlords raising some local concerns while adding rental supply, repair capacity, and build-to-rent housing.
 - [Build-To-Rent Housing](concepts/BuildToRentHousing.md) — New houses built specifically for rental, treated as a supply channel that broad corporate-ownership bans could chill.
 - [Housing Affordability Supply Mechanics](concepts/HousingAffordabilitySupplyMechanics.md) — Source frame that explains rent and price pressure through construction, rates, finance, and housing-form availability.

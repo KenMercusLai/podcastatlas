@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9773
+wiki_total_pages: 9780
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -485,6 +485,9 @@ wiki_pages:
   - key: "Roborock"
     title: "Roborock / 石头科技"
     url: "/wiki/entities/roborock/"
+  - key: "Roc360"
+    title: "Roc360"
+    url: "/wiki/entities/roc360/"
   - key: "Roche"
     title: "Roche / 罗氏"
     url: "/wiki/entities/roche/"

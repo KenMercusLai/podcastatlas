@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7097
+wiki_total_pages: 7101
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "InferioritySuperiorityDynamic"
     title: "Inferiority-Superiority Dynamic"
     url: "/wiki/concepts/inferioritysuperioritydynamic/"
+  - key: "InflatedPropertyTransactionFraudRisk"
+    title: "Inflated Property Transaction Fraud Risk"
+    url: "/wiki/concepts/inflatedpropertytransactionfraudrisk/"
   - key: "InflationBias"
     title: "Inflation Bias"
     url: "/wiki/concepts/inflationbias/"
@@ -701,6 +704,9 @@ wiki_pages:
   - key: "InvestorEducation"
     title: "Investor Education"
     url: "/wiki/concepts/investoreducation/"
+  - key: "InvestorForeclosureSpillover"
+    title: "Investor Foreclosure Spillover"
+    url: "/wiki/concepts/investorforeclosurespillover/"
   - key: "InvestorIdolRisk"
     title: "Investor Idol Risk / 投资偶像风险"
     url: "/wiki/concepts/investoridolrisk/"

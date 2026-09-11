@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 9773
+wiki_total_pages: 9780
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "ElieWiesel"
     title: "Elie Wiesel"
     url: "/wiki/entities/eliewiesel/"
+  - key: "EliezerGold"
+    title: "Eliezer Gold"
+    url: "/wiki/entities/eliezergold/"
   - key: "ElisabethMarieOfAustria"
     title: "Elisabeth Marie of Austria"
     url: "/wiki/entities/elisabethmarieofaustria/"
@@ -350,6 +353,9 @@ wiki_pages:
   - key: "EricFeishu"
     title: "Eric (Feishu source)"
     url: "/wiki/entities/ericfeishu/"
+  - key: "EricAbramovich"
+    title: "Eric Abramovich"
+    url: "/wiki/entities/ericabramovich/"
   - key: "EricGarcetti"
     title: "Eric Garcetti"
     url: "/wiki/entities/ericgarcetti/"
