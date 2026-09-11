@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-12",
   "corpus": {
-    "episode_count": 2224,
-    "source_count": 2224
+    "episode_count": 2225,
+    "source_count": 2225
   },
   "generated": true,
   "global": {
@@ -21,7 +21,7 @@
       "history-and-geopolitics"
     ]
   },
-  "overview_commit": "112d0eae8e05b69e6d805c777d2be674f78db1aa",
+  "overview_commit": "f03bcc30200876e41b5b3f54fe35b11c9fa497ca",
   "overview_digest": "5703673d12d969f9ec3b47f130668679fc4221a7c13697c2ce85046b56d3c01e",
   "paragraph_count": 611,
   "schema_version": 1,
