@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9737
+wiki_total_pages: 9738
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1154,6 +1154,9 @@ wiki_pages:
   - key: "LiuJia"
     title: "刘贾 / Liu Jia"
     url: "/wiki/entities/liujia/"
+  - key: "LiuFuWesternHan"
+    title: "刘辅 / Liu Fu (Western Han remonstrant)"
+    url: "/wiki/entities/liufuwesternhan/"
   - key: "LiuPiRunanLateHan"
     title: "刘辟 / Liu Pi (Runan late Han)"
     url: "/wiki/entities/liupirunanlatehan/"

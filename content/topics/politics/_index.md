@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2386
+topic_total_pages: 2387
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -7017,6 +7017,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3"
+    title: "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
   - key: "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2"
     title: "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？"
     url: "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"

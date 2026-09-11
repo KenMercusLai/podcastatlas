@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 7078
+wiki_total_pages: 7079
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -395,6 +395,9 @@ wiki_pages:
   - key: "WorkplaceRelationshipBoundaries"
     title: "Workplace Relationship Boundaries"
     url: "/wiki/concepts/workplacerelationshipboundaries/"
+  - key: "WorkplaceRoleClarityBoundary"
+    title: "Workplace Role Clarity Boundary / 职场角色清醒边界"
+    url: "/wiki/concepts/workplaceroleclarityboundary/"
   - key: "WorldActionModels"
     title: "World Action Models"
     url: "/wiki/concepts/worldactionmodels/"

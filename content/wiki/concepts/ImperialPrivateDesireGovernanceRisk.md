@@ -8,17 +8,20 @@ sources:
   - zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n
   - zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq
   - zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t
-last_updated: 2026-09-10
+  - zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3
+last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
 
 ## Definition
 
-帝王私欲治理风险 / imperial private desire governance risk is the pattern where a ruler's private appetite, affection, companionship, or prestige desire becomes a public political problem because it consumes state resources, distorts reward order, or changes who can shape daily decisions.
+帝王私欲治理风险 / imperial private desire governance risk is the pattern where a ruler's private appetite, affection, companionship, or prestige desire becomes a public political problem because it consumes state resources, distorts reward order, changes who can shape daily decisions, or punishes correction that touches the ruler's private face.
 
 ## Current Synthesis
 
 [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] creates the concept from Emperor Huan's first post-Liang freedom. The source does not treat palace women as mere anecdote; it connects desire to concrete governance pathways. Harem scale becomes fiscal burden, favor-based marquisates damage merit and title order, and old friendship with [[DengWanshiLateHan|邓万世]] changes palace access and ruler-minister distance.
+
+The earlier Chengdi-Zhao Feiyan branch shows status conversion and feedback danger. [[HanChengdi|汉成帝]] wants [[ZhaoFeiyanWesternHan|赵飞燕]] as empress despite [[WangZhengjun|王政君]]'s origin objection, [[ChunyuZhangWesternHan|淳于长]] mediates the approval, Zhao Lin is ennobled to repair public status, and [[LiuFuWesternHan|刘辅]] is secretly imprisoned after criticizing the indulgence and reward disorder.
 
 [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]], [[zizhi-tongjian-hanji-597-taihuangtaihou-wangzhengjun-de-zhaoling-weihe-bei-jushou-lramivd9ej_mnpjmx2kihh2p8cvy|Hanji 597]], and [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] extend the concept backward to [[HanAidi|汉哀帝]] and [[DongXian|董贤]]. Here the private-desire mechanism is not harem scale but favorite reward and household privilege: Aidi directs public construction, official provisioning, market escorts, servant rewards, land grants, extra households, fiefs, and armory weapons toward Dong Xian, while [[WangJiaWesternHan|王嘉]] and [[WuJianglongWesternHan|武将龙]] argue from different angles that rank, land, salary, state resources, and military stores are public instruments rather than private affection goods.
 
@@ -28,7 +31,7 @@ The concept is useful because it links private conduct to public mechanisms with
 
 ## Key Claims
 
-- Ruler desire becomes governance risk when it draws money, labor, food, land, status, or decision attention away from public repair.
+- Ruler desire becomes governance risk when it draws money, labor, food, land, status, or decision attention away from public repair, or when it requires public status engineering to make a favored person acceptable.
 - Harem scale is politically relevant when palace consumption is paid through public resources and service labor.
 - Private affection or old friendship can distort reward order by making title and food revenue follow closeness rather than merit.
 - Favorite-centered construction, land, office, military resources, family, market access, and succession language can turn personal attachment into a public-authority crisis when rank, tax base, public resources, weapons, and dynastic transfer appear privatized.
@@ -50,14 +53,16 @@ The concept is useful because it links private conduct to public mechanisms with
 - Non-merit reward: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Chen Fan invokes the Han standard that marquisate should follow great merit when criticizing Huan's honors.
 - Partial correction: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Huan releases more than five hundred palace women but still grants favored rewards.
 - Companion-choice risk: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Yuan Hong criticizes Deng Wanshi's excessive intimacy and argues that worthy or flattering companions shape the ruler's daily moral direction.
+- Empress status conversion: [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Chengdi's wish to elevate Zhao Feiyan requires Chunyu Zhang's mediation and Zhao Lin's enfeoffment before Wang Zhengjun accepts the elevation.
+- Feedback punishment: [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Liu Fu is secretly imprisoned after criticizing Chengdi's indulgence and Zhao-sister favor, showing private desire damaging the correction channel.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in five source notes for now. It does not prove that all Huan-era disorder came from personal desire, nor does it turn every palace relationship or favorite reward into a governance failure. Hanji 587 preserves Wu Jianglong's remonstrance frame rather than a full armory law code; Hanji 593 and Hanji 597 preserve Wang Jia's remonstrance frame rather than independently proving every fiscal or popular-feeling claim; and Hanji 601-1 preserves Xiao Xian's and Wang Hong's interpretation of Aidi's Dong Xian danger rather than proving a completed transfer plan. Hanji 852 records partial responsiveness: Huan releases some palace women and promotes Yuan Hong after a blunt criticism. The remaining risk is that private favor and companion access survive those limited corrections.
+This concept is grounded in six source notes for now. It does not prove that all Huan-era disorder came from personal desire, nor does it turn every palace relationship or favorite reward into a governance failure. Hanji 534 preserves the host's management reading of Chengdi and a modern anecdote, so the workplace analogy remains source-scoped. Hanji 587 preserves Wu Jianglong's remonstrance frame rather than a full armory law code; Hanji 593 and Hanji 597 preserve Wang Jia's remonstrance frame rather than independently proving every fiscal or popular-feeling claim; and Hanji 601-1 preserves Xiao Xian's and Wang Hong's interpretation of Aidi's Dong Xian danger rather than proving a completed transfer plan. Hanji 852 records partial responsiveness: Huan releases some palace women and promotes Yuan Hong after a blunt criticism. The remaining risk is that private favor and companion access survive those limited corrections.
 
 ## What Changed
 
-- Added Hanji 587 as the public-armory branch where Dong Xian's favor turns private attachment into military-resource and public-finance boundary risk.
+- Added Hanji 534 as the Chengdi-Zhao Feiyan branch where private preference becomes status engineering and feedback punishment.
 - Preserved Hanji 593 as the public-resource branch where Dong Xian's favor turns private attachment into mansion, household, market, servant-reward, land, and public-rumor risk.
 - Preserved Hanji 601-1 as the succession-language branch where Dong Xian's favor turns private attachment into marriage, office, military, family-reward, and abdication-boundary risk.
 - Preserved Hanji 597 as the favorite-reward branch where Dong Xian's fief enlargement turns private affection into public rank, land, and finance risk.
@@ -75,3 +80,4 @@ This concept is grounded in five source notes for now. It does not prove that al
 - [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]] - later Huan-era pattern where private favor does not reliably protect the favorite after the patron weakens or dies.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - feedback failure that occurs when private access outcompetes public correction.
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - remonstrance strategy needed when correcting a ruler's private desire.
+- [[WorkplaceRoleClarityBoundary|职场角色清醒边界]] - modern management translation of private-desire boundary risk from Hanji 534.

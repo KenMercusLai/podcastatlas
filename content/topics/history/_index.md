@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1782
+topic_total_pages: 1783
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2468,6 +2468,9 @@ topic_entities:
   - key: "LiuJia"
     title: "刘贾 / Liu Jia"
     url: "/wiki/entities/liujia/"
+  - key: "LiuFuWesternHan"
+    title: "刘辅 / Liu Fu (Western Han remonstrant)"
+    url: "/wiki/entities/liufuwesternhan/"
   - key: "LiuYinFuchongDuke"
     title: "刘音 / Liu Yin (Fuchong Duke)"
     url: "/wiki/entities/liuyinfuchongduke/"

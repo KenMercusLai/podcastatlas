@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id
   - zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx
   - zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu
+  - zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-淳于长 / Chunyu Zhang is synthesized as a Chengdi-era favorite whose Wang-family access and imperial proximity first make him rewardable for private service, then enable private extraction, and finally make his fall politically useful to [[WangMang|王莽]]. [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] supplies the pre-collapse layer: Chunyu Zhang builds wealth through bribery and exploits [[EmpressXuWesternHan|废后许氏]] with paid promises of restoration. [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] then supplies the collapse sequence: Wang Mang denounces him through Wang-family channels, Chengdi first dismisses him, but Chunyu Zhang's attempt to regain office through [[WangLiWesternHan|王立]] leads to renewed investigation and death in prison. [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] adds the earlier reward layer: [[HanChengdi|汉成帝]] publicly attaches Chunyu's Guan'nei Hou reward to the proposal to stop Changling works, while the host reads the real motive as gratitude for helping [[ZhaoFeiyanWesternHan|赵飞燕]] become empress.
+淳于长 / Chunyu Zhang is synthesized as a Chengdi-era favorite whose Wang-family access and imperial proximity first make him useful in palace mediation, then rewardable for private service, then vulnerable to private extraction and political attack. [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] supplies the earliest current layer: Chunyu moves between [[WangZhengjun|王政君]] and [[HanChengdi|汉成帝]] for more than a year to help secure [[ZhaoFeiyanWesternHan|赵飞燕]]'s elevation. [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] then shows Chengdi publicly attaching Chunyu's Guan'nei Hou reward to the proposal to stop Changling works, while the host reads the real motive as gratitude for that Zhao Feiyan-related help. [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] supplies the pre-collapse extraction layer, and [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] supplies the fall through [[WangMang|王莽]]'s accusation, failed office recovery, renewed investigation, and death in prison.
 
 ## Current Profile
 
-Hanji 556 presents Chunyu Zhang as a man whose court value comes from access rather than demonstrated statecraft. As a relative in [[WangZhengjun|王政君]]'s wider outer-relative field and a trusted attendant around [[HanChengdi|汉成帝]], he can collect gifts from officials and aristocrats while selling the image of influence. That same proximity lets him become credible to Empress Xu, who is confined away from Chengdi and cannot verify his claims.
+Hanji 534 presents Chunyu Zhang's access as useful before it becomes visibly corrupt. As Wang Zhengjun's sister's son and an attendant near Chengdi, he can mediate a family-political impasse that ordinary officials cannot easily touch: Chengdi wants Zhao Feiyan as empress, while Wang Zhengjun resists the status implications. Chunyu's repeated movement between the palace centers makes him a translator of private desire into public approval.
+
+Hanji 556 presents Chunyu Zhang as a man whose later court value comes from access rather than demonstrated statecraft. As a relative in Wang Zhengjun's wider outer-relative field and a trusted attendant around Chengdi, he can collect gifts from officials and aristocrats while selling the image of influence. That same proximity lets him become credible to Empress Xu, who is confined away from Chengdi and cannot verify his claims.
 
 Hanji 541 shows the reward side of the same proximity. The source says Chunyu had helped with Zhao Feiyan's elevation, so when he proposes halting Changling palace-city works, Chengdi can use that public contribution as a reward handle. [[PingDangWesternHan|平当]] objects from the formal merit standard and is demoted, showing that Chunyu's reward is bound to [[PublicReasonPrivateMotive|public reason/private motive mismatch]].
 
@@ -30,8 +33,8 @@ Third, Chunyu Zhang fails the exit test. Before returning to his fief, he gives 
 
 ## Key Characteristics
 
-- Chengdi-era favorite and court actor whose fall precedes Wang Mang's Da Sima appointment.
-- Rewarded in Hanji 541 through a public Changling-cancellation rationale that the host reads as private repayment for Zhao Feiyan-related help.
+- Chengdi-era favorite and court actor whose useful access begins with mediating Zhao Feiyan's elevation and later precedes Wang Mang's Da Sima appointment.
+- Rewarded in Hanji 541 through a public Changling-cancellation rationale that the host reads as private repayment for the Zhao Feiyan-related service made concrete in Hanji 534.
 - Converts Wang-family identity, imperial trust, and proximity to Chengdi into private extraction.
 - Exploits Empress Xu's cold-palace vulnerability through paid restoration promises.
 - Initially survives with dismissal rather than execution.
@@ -41,6 +44,7 @@ Third, Chunyu Zhang fails the exit test. Before returning to his fief, he gives 
 ## Evidence
 
 Access and extraction:
+- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Chunyu Zhang mediates between Chengdi and Wang Zhengjun for more than a year until Zhao Feiyan's elevation is approved.
 - [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] says Chunyu Zhang rises through outer-relative identity, Wang-family backing, and Chengdi's trust, then receives gifts from officials and aristocrats.
 - [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] says Chengdi rewards Chunyu Zhang after the Changling cancellation proposal, while the host connects the reward to Chunyu's earlier help with Zhao Feiyan's elevation.
 
@@ -62,12 +66,13 @@ Fatal scandal:
 
 ## Qualifications
 
-This page is bounded to Hanji 556, Hanji 557, and Hanji 541. It does not reconstruct Chunyu Zhang's full earlier career, the independent truth of every accusation, the legal details of "大逆," Xu Mi's full biography, or his private motive beyond the episodes' accounts. Hanji 541's private-gratitude reading and Hanji 556's reading of his promises as empty and manipulative are treated as the host's interpretations of political incentives, not as independently proven inner intent. The Hanji 541 source form "淳于常" is routed here as the canonical Chengdi-era Chunyu Zhang node.
+This page is bounded to Hanji 534, Hanji 541, Hanji 556, and Hanji 557. It does not reconstruct Chunyu Zhang's full earlier career, the independent truth of every accusation, the legal details of "大逆," Xu Mi's full biography, or his private motive beyond the episodes' accounts. Hanji 541's private-gratitude reading and Hanji 556's reading of his promises as empty and manipulative are treated as the host's interpretations of political incentives, not as independently proven inner intent. The Hanji 534 and Hanji 541 source form "淳于常" is routed here as the canonical Chengdi-era Chunyu Zhang node.
 
 ## What Changed
 
-- Added the pre-collapse exploitation layer: Chunyu Zhang's access-based enrichment and long manipulation of Empress Xu now explain why the Hanji 557 confession becomes politically explosive.
-- Added Hanji 541's earlier reward layer: Chunyu Zhang is rewarded through a Changling-cancellation public rationale that the host reads as repayment for Zhao Feiyan-related service.
+- Added Hanji 534 as the earliest current useful-access layer: Chunyu Zhang mediates Zhao Feiyan's elevation before later reward and collapse.
+- Preserved the pre-collapse exploitation layer: Chunyu Zhang's access-based enrichment and long manipulation of Empress Xu explain why the Hanji 557 confession becomes politically explosive.
+- Preserved Hanji 541's reward layer as public Changling rationale plus private Zhao Feiyan-related repayment.
 
 ## Relationships
 

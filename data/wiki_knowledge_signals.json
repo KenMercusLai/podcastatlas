@@ -15663,9 +15663,9 @@
       "url": "/wiki/entities/chunyuqiong/"
     },
     "ChunyuZhangWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？ [liCvtKYvOh-P3ucoBoWldj6G--iD].md",
@@ -15687,6 +15687,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》541丨他是民族英雄，最后为何因贪入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？ [lpaUP86hlS0kp7HC3Vd2MSJFuyw3].md",
+          "key": "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
         }
       ],
       "updated": "2026-09-12",
@@ -44204,9 +44211,9 @@
       "url": "/wiki/concepts/imperialpreferencespeechrisk/"
     },
     "ImperialPrivateDesireGovernanceRisk": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？ [luml30yTbc-aWPVK-7_23eHZBQPx].md",
@@ -44242,9 +44249,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》587丨谁会把武器当礼物送给爱人？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？ [lpaUP86hlS0kp7HC3Vd2MSJFuyw3].md",
+          "key": "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/imperialprivatedesiregovernancerisk/"
     },
     "ImperialRetinueDiscipline": {
@@ -44741,9 +44755,9 @@
       "url": "/wiki/entities/instinctpersonalai/"
     },
     "InstitutionalLoyaltyOverPersonalLoyalty": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
@@ -44751,6 +44765,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？ [lpaUP86hlS0kp7HC3Vd2MSJFuyw3].md",
+          "key": "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
         }
       ],
       "updated": "2026-09-12",
@@ -52868,6 +52889,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/liufupeikingeasternhan/"
+    },
+    "LiuFuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？ [lpaUP86hlS0kp7HC3Vd2MSJFuyw3].md",
+          "key": "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/liufuwesternhan/"
     },
     "LiuGangEasternHan": {
       "episode_count": 1,
@@ -73328,9 +73365,9 @@
       "url": "/wiki/concepts/rebellionjustifiedpowerexpansion/"
     },
     "ReceptiveRemonstranceGovernance": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》746丨什么样的领导，值得被死心塌追随？ [lvHBdgfbC69T6sdw92K4dIpII_RX].md",
@@ -73380,6 +73417,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？ [lpaUP86hlS0kp7HC3Vd2MSJFuyw3].md",
+          "key": "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
         }
       ],
       "updated": "2026-09-12",
@@ -94580,6 +94624,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/workplacerelationshipboundaries/"
     },
+    "WorkplaceRoleClarityBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？ [lpaUP86hlS0kp7HC3Vd2MSJFuyw3].md",
+          "key": "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/workplaceroleclarityboundary/"
+    },
     "WorkshopInternalComms": {
       "episode_count": 1,
       "show_count": 1,
@@ -101852,9 +101912,9 @@
       "url": "/wiki/entities/zhaodulatehan/"
     },
     "ZhaoFeiyanWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？ [lkaCfnDVI8t1opeP67XmqUyzR_wW].md",
@@ -101890,6 +101950,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？ [lpaUP86hlS0kp7HC3Vd2MSJFuyw3].md",
+          "key": "zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
         }
       ],
       "updated": "2026-09-12",

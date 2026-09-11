@@ -17771,3 +17771,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
+
+Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
