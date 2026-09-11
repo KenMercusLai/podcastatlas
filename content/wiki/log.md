@@ -17656,6 +17656,10 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongsh
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》535丨白痴还是野心家？“心机男”王莽登场！
+
+Added source note for Hanji 535 and extended Wang Mang's synthesis around fatherless weak-position origins, filial and scholarly reputation building, Wang Feng's sickbed endorsement, elite praise, generosity, and crisis-to-reputation self-management before the later Chunyu Zhang and Da Sima layers.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们
 
 Added source page for Hanji 536-3, extended Shangguan Wan'er from early Wu Zetian service into later relationships, Wu Sansi and Empress Wei alliance, Li-Tang fallback planning, and death during the Tanglong Coup. Created pages for Tang Gaozong, Crown Prince Li Xian, Zhang Changzong, Wu Sansi, Tang Zhongzong, Empress Wei, Li Chongjun, Princess Taiping, Li Dan, Li Longji, Shenlong Coup, Tanglong Coup, and Court Factional Survival; updated Wu Zetian and Historical Female Role-Model Caution. No settled contradiction found; red-plum makeup, exact edict wording, relationship historicity, and Li Longji's full motive remain source-scoped.
@@ -17786,6 +17790,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

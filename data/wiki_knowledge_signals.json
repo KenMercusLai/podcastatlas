@@ -92207,9 +92207,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 34,
+      "episode_count": 35,
       "show_count": 2,
-      "source_note_count": 34,
+      "source_note_count": 35,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -92448,9 +92448,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
           "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》535丨白痴还是野心家？“心机男”王莽登场！ [ltzjnOZI6imc5Y9yE0_ZmAYkvoPC].md",
+          "key": "zizhi-tongjian-hanji-535-baichi-haishi-yexinjia-xinji-nan-wangmang-dengchang-ltzjnozi6imc5y9ye0_zmaykvopc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》535丨白痴还是野心家？“心机男”王莽登场！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-535-baichi-haishi-yexinjia-xinji-nan-wangmang-dengchang-ltzjnozi6imc5y9ye0_zmaykvopc/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/wangmang/"
     },
     "WangMangReforms": {
