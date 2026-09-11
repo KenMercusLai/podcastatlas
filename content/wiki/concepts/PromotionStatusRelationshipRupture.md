@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [workplace, psychology, status, relationships, court-politics]
 sources:
   - zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm
+  - zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv
 last_updated: 2026-09-12
 ---
 
@@ -18,6 +19,8 @@ Hanji 542 creates the pattern through [[ZhaiFangjinWesternHan|翟方进]], [[Che
 
 The destructive sequence matters. First, the old equilibrium breaks when Zhai wins the Yushi Dafu post over older-ranking peers. Second, resentment stays hidden because the new hierarchy makes open complaint costly. Third, a procedural crisis gives the disappointed peer a chance to convert grievance into action. Fourth, once the promoted person survives, all sides anticipate retaliation, so self-protection turns the conflict into a mutual attack cycle.
 
+Hanji 546 adds the relapse stage after an apparent personnel settlement. Chen Xian's removal does not end the relationship problem because Wang Li's 方正 recommendation makes Chen powerful again. Zhai Fangjin's immediate attack shows that when an old rival reenters the field, the earlier injury can become a gatekeeping reflex: the promoted actor no longer only retaliates for the past, but blocks future access that could reopen the threat.
+
 ## Key Claims
 
 - Close peers can be more threatening comparison targets than strangers because their success rewrites a shared status baseline.
@@ -25,6 +28,7 @@ The destructive sequence matters. First, the old equilibrium breaks when Zhai wi
 - Hidden resentment can survive under surface politeness until a procedural opening makes attack seem useful or justified.
 - The promoted person may misread old friendship if they treat their advancement as purely merit-based and ignore the other side's loss of status.
 - After betrayal or perceived betrayal, self-protection can make both sides keep escalating because each expects the other to strike first.
+- Reappointment can reactivate a settled-looking conflict because the old rival's return restores the practical danger attached to the emotional injury.
 - The pattern is not a universal law of friendship; it is strongest where scarce office, public ranking, and future retaliation are all present.
 
 ## Evidence
@@ -42,13 +46,17 @@ Procedural opening:
 Mutual attack cycle:
 - [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]] says Zhai, after surviving and feeling betrayed, uses the Chen Tang case to remove Chen Xian and Feng Xin.
 
+Relapse after reappointment:
+- [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]] says Wang Li's 方正 recommendation brings Chen Xian back into court as Guanglu Dafu and Jishi Zhong.
+- [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]] says Zhai immediately blocks Chen's restoration and also attacks Wang Li's recommendation.
+
 ## Counterevidence & Qualifications
 
-The concept should not be used to imply that every promoted person will be rejected or that every disappointed peer is malicious. The source is a political-court and workplace-psychology reading with scarce posts, visible hierarchy, and high retaliation risk. Its strongest claims concern relational dynamics under competition, not ordinary friendships with low stakes or transparent promotion processes.
+The concept should not be used to imply that every promoted person will be rejected or that every disappointed peer is malicious. The sources are political-court and workplace-psychology readings with scarce posts, visible hierarchy, patronage channels, and high retaliation risk. Their strongest claims concern relational dynamics under competition, not ordinary friendships with low stakes or transparent promotion processes.
 
 ## What Changed
 
-- Created the concept from Hanji 542's Zhai Fangjin, Chen Xian, and Feng Xin relationship-rupture case.
+- Added Hanji 546's relapse layer: Chen Xian's reappointment through Wang Li reactivates Zhai Fangjin's old hostility and gatekeeping.
 
 ## Related Concepts
 
@@ -58,3 +66,4 @@ The concept should not be used to imply that every promoted person will be rejec
 - [[RespectBasedConflictDeescalation]] - contrast where recognition lowers status threat instead of letting resentment accumulate.
 - [[CaseExpansionPoliticalPurge]] - escalation channel when a broader case becomes a vehicle for settling old relationships.
 - [[PersonalRevengeThroughStatePower]] - broader pattern where private injury is routed through public authority.
+- [[PersonalTrustPoliticalFragility]] - broader political-friendship pattern in which intimacy fails once interests and security conditions change.

@@ -13740,9 +13740,9 @@
       "url": "/wiki/entities/chentangwesternhan/"
     },
     "ChenXianWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？ [lu_aJSIUsjOJPwlwlroehw7jebGM].md",
@@ -13750,6 +13750,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？ [lrTYPxHDqVZkme_rGEsxWoIv1ASV].md",
+          "key": "zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv/"
         }
       ],
       "updated": "2026-09-12",
@@ -37201,9 +37208,9 @@
       "url": "/wiki/concepts/growthwitnessing/"
     },
     "GuYongWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -37225,6 +37232,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连",
           "url": "/wiki/sources/zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？ [lrTYPxHDqVZkme_rGEsxWoIv1ASV].md",
+          "key": "zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv/"
         }
       ],
       "updated": "2026-09-12",
@@ -53522,6 +53536,29 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/liuxianlatehan/"
+    },
+    "LiuXiang": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙” [lh-H-geZpQtFvnyq40zLQac8s-5e].md",
+          "key": "zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙”",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？ [lrTYPxHDqVZkme_rGEsxWoIv1ASV].md",
+          "key": "zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/liuxiang/"
     },
     "LiuXiaoLateHan": {
       "episode_count": 1,
@@ -70682,9 +70719,9 @@
       "url": "/wiki/concepts/promotionpositionfit/"
     },
     "PromotionStatusRelationshipRupture": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？ [lu_aJSIUsjOJPwlwlroehw7jebGM].md",
@@ -70692,6 +70729,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？ [lrTYPxHDqVZkme_rGEsxWoIv1ASV].md",
+          "key": "zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv/"
         }
       ],
       "updated": "2026-09-12",
@@ -91524,9 +91568,9 @@
       "url": "/wiki/entities/wanglanghebeiclaimant/"
     },
     "WangLiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？ [lsWUMMZFG74d-_Dm_K4vc7fG8EuT].md",
@@ -91541,6 +91585,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
           "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？ [lrTYPxHDqVZkme_rGEsxWoIv1ASV].md",
+          "key": "zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv/"
         }
       ],
       "updated": "2026-09-10",
@@ -100077,9 +100128,9 @@
       "url": "/wiki/entities/zhaichaolatehan/"
     },
     "ZhaiFangjinWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -100129,6 +100180,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
           "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？ [lrTYPxHDqVZkme_rGEsxWoIv1ASV].md",
+          "key": "zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv/"
         }
       ],
       "updated": "2026-09-12",
