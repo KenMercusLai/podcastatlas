@@ -17321,6 +17321,7 @@ Added source. Key claims: Li Xun turns earthquake, lunar eclipse, flood, and oth
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》562丨汉哀帝即位时有多憋屈？
 
 Added source. Key claims: Han Aidi's accession begins with thrift and personal government but is immediately constrained by Fu Taihou's North Palace proximity, title pressure, and kinship demands; Dong Hong's Qin-precedent proposal is temporarily blocked by Wang Mang and Shi Dan; the eventual Fu/Ding/Zhao rewards make filial honor, title order, and outer-relative risk visible at the start of Aidi's reign.
@@ -17500,6 +17501,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！
+
+Added source. Key claims: Han Aidi's early Yuefu abolition is framed as a new-leader first-move authority signal; disciplined first moves need target fit, justification, manageable resistance, and public-cost awareness; prestige-driven image projects can become face-project governance.
 
 ## [2026-09-11] lint | Wiki health check
 

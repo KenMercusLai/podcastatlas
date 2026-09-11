@@ -28398,9 +28398,9 @@
       "url": "/wiki/entities/fable5/"
     },
     "FaceProjectGovernance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》622丨官员如何做面子功夫？ [lutgirH7WoAfK3NZJZA4O_TLmF7j].md",
@@ -28415,9 +28415,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》623丨马屁还是真心？职场人如何在夸奖与谄媚间找平衡！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！ [lgk64Bf0b_jb38uTth-KpaaIP_4c].md",
+          "key": "zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/concepts/faceprojectgovernance/"
     },
     "FaceSavingSubmissionFailure": {
@@ -61209,6 +61216,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/newgoldenagescienceagenda/"
+    },
+    "NewLeaderFirstMoveAuthoritySignal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！ [lgk64Bf0b_jb38uTth-KpaaIP_4c].md",
+          "key": "zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
     },
     "NewYorkCityPublicSchools": {
       "episode_count": 2,

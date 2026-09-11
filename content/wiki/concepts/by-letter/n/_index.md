@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7032
+wiki_total_pages: 7033
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "NewYorkTimesBestsellerList"
     title: "New York Times Bestseller List"
     url: "/wiki/concepts/newyorktimesbestsellerlist/"
+  - key: "NewLeaderFirstMoveAuthoritySignal"
+    title: "New-Leader First-Move Authority Signal / 新领导第一把火式权力宣示"
+    url: "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
   - key: "NewsAsTradingPosition"
     title: "News As Trading Position"
     url: "/wiki/concepts/newsastradingposition/"

@@ -46160,6 +46160,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "NewLeaderFirstMoveAuthoritySignal": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "NewMexico": [
     {
       "key": "politics",
@@ -82080,6 +82087,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww": [

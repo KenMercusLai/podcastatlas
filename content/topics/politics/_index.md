@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2368
+topic_total_pages: 2370
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2056,6 +2056,9 @@ topic_concepts:
   - key: "NewRulerReformSignaling"
     title: "New Ruler Reform Signaling / 新君改革铺垫信号"
     url: "/wiki/concepts/newrulerreformsignaling/"
+  - key: "NewLeaderFirstMoveAuthoritySignal"
+    title: "New-Leader First-Move Authority Signal / 新领导第一把火式权力宣示"
+    url: "/wiki/concepts/newleaderfirstmoveauthoritysignal/"
   - key: "NightlifeMayor"
     title: "Nightlife Mayor"
     url: "/wiki/concepts/nightlifemayor/"
@@ -6975,6 +6978,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c"
+    title: "《资治通鉴·汉纪》563丨古人告诉你，新领导切忌引火烧身！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c/"
   - key: "zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs"
     title: "《资治通鉴·汉纪》583丨都知道他有问题，为什么还提拔？"
     url: "/wiki/sources/zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs/"
