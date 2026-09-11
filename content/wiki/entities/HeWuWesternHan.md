@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru
   - zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0
   - zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x
+last_updated: 2026-09-12
 ---
 
 ## Overview
 
-何武 / He Wu is synthesized as a Western Han senior official whose wiki profile now has four linked layers: a late-Chengdi Three Excellencies reform proposal, a humane but contested inheritance judgment, an Aidi-era removal over filial-duty optics, and a later failed effort to block another outer-relative monopoly after [[HanAidi|汉哀帝]] dies. [[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|Hanji 553]] supplies the institutional layer, where He Wu argues that overloaded government should not depend on one chancellor and pushes restoration of a top-office balance. [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] supplies the "断剑" layer, where He Wu reads a sword bequest as evidence of the father's intent to restore a son as household successor. Hanji 599 then shows [[WangJiaWesternHan|王嘉]] identifying him as worthy and Aidi briefly restoring him, while Hanji 604 shows He Wu and [[GongsunLuWesternHan|公孙禄]] failing to prevent [[WangMang|王莽]] from taking the Da Sima position.
+何武 / He Wu is synthesized as a Western Han senior official whose wiki profile now has five linked layers: an early Jingzhao Yin reputation for lawful local governance, a late-Chengdi Three Excellencies reform proposal, a humane but contested inheritance judgment, an Aidi-era removal over filial-duty optics, and a later failed effort to block another outer-relative monopoly after [[HanAidi|汉哀帝]] dies. [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] supplies the early local-office layer, where Chengdi appoints He Wu Jingzhao Yin and the source praises his law-abiding governance. [[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|Hanji 553]] supplies the institutional layer, where He Wu argues that overloaded government should not depend on one chancellor and pushes restoration of a top-office balance. [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] supplies the "断剑" layer, where He Wu reads a sword bequest as evidence of the father's intent to restore a son as household successor. Hanji 599 then shows [[WangJiaWesternHan|王嘉]] identifying him as worthy and Aidi briefly restoring him, while Hanji 604 shows He Wu and [[GongsunLuWesternHan|公孙禄]] failing to prevent [[WangMang|王莽]] from taking the Da Sima position.
 
 ## Current Profile
 
-Hanji 553 gives the earliest current institutional layer. While still associated with Tingwei experience in the source account, He Wu argues that late-dynasty government has too many affairs for one chancellor of ordinary talent to handle alone. Chengdi accepts the advice by restoring a Three Excellencies arrangement: [[WangGenWesternHan|王根]] receives the Da Sima seal, He Wu becomes Da Sikong and a marquis, and Da Sima, Da Sikong, and chancellor are placed on comparable salary/status footing. The episode's reading makes He Wu's proposal part of a balancing mechanism that dilutes one officeholder's practical control while presenting the change as institutional restoration.
+Hanji 545 gives the earliest current local-governance layer. Chengdi appoints He Wu, then Sili Xiaowei and a Shu Commandery man, as Jingzhao Yin. The source says He Wu acts according to public law, draws good people toward him, punishes many harmful actors, and is remembered by local people more strongly after leaving office than while serving.
+
+Hanji 553 gives the later institutional layer. While still associated with Tingwei experience in the source account, He Wu argues that late-dynasty government has too many affairs for one chancellor of ordinary talent to handle alone. Chengdi accepts the advice by restoring a Three Excellencies arrangement: [[WangGenWesternHan|王根]] receives the Da Sima seal, He Wu becomes Da Sikong and a marquis, and Da Sima, Da Sikong, and chancellor are placed on comparable salary/status footing. The episode's reading makes He Wu's proposal part of a balancing mechanism that dilutes one officeholder's practical control while presenting the change as institutional restoration.
 
 Hanji 568 adds the better-known legal layer. In the "何武断剑" case, a wealthy father leaves his property to daughters and only a sword to his young son, with the sword to be handed over when the son turns fifteen. When the daughters seize even the sword and expel the son, He Wu interprets the sword as a symbol of decisional authority, reasons that the father intended the son to return as adult household head, and orders the family estate restored after the daughters and sons-in-law have enjoyed it for fifteen years. The episode treats this as [[SpringAutumnIntentAdjudication|春秋决狱式意图裁判]]: morally perceptive and humane, but not cleanly compatible with a modern text-bound fairness expectation.
 
@@ -32,6 +35,7 @@ The source does not portray the plan as foolish. It fails because the final deci
 ## Key Characteristics
 
 - Western Han senior official whom Wang Jia identifies as worthy before dying.
+- Earlier Jingzhao Yin praised for law-abiding local governance and remembered after leaving office.
 - Proposer and beneficiary of Chengdi's restored Three Excellencies balance, becoming Da Sikong and a marquis.
 - Judge in the "断剑" inheritance case, where symbolic intent overrides literal will wording.
 - Da Sikong removed under Aidi after a filial-duty accusation involving his stepmother's travel.
@@ -40,6 +44,8 @@ The source does not portray the plan as foolish. It fails because the final deci
 
 ## Evidence
 
+- Jingzhao Yin appointment: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] says Chengdi appoints He Wu as Jingzhao Yin in Yongshi 4.
+- Local reputation: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] says He Wu governs by public law, gathers good people, punishes harmful actors, and is missed after leaving.
 - Three Excellencies proposal: [[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|Hanji 553]] says He Wu argues that a single chancellor cannot bear all government affairs and recommends restoring the old top-office structure.
 - Da Sikong appointment: [[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|Hanji 553]] says Chengdi appoints He Wu Da Sikong, enfeoffs him as Sixiang Hou, and places Da Sikong status alongside Da Sima and chancellor.
 - Intent-based inheritance judgment: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] says He Wu reads the father's delayed sword bequest as a sign that the son should receive decisional authority and recover the household estate at fifteen.
@@ -54,13 +60,11 @@ The source does not portray the plan as foolish. It fails because the final deci
 
 ## Qualifications
 
-This page is not a full He Wu biography. Hanji 553 supports the Three Excellencies proposal and Da Sikong appointment, but not the complete institutional history of those offices or He Wu's private calculus. Hanji 568 supports the断剑 anecdote, Aidi-era Da Sikong removal, and the host's modern-law qualification, but not the full case record, statutory inheritance rules, the daughters' legal defense, or He Wu's private motive. Hanji 599 supports his restoration and transfer after Wang Jia's death, while Hanji 604 supports his office-contest role and anti-outer-relative reasoning. His full career, exact legal exposure, private motive, and later fate remain source-scoped.
+This page is not a full He Wu biography. Hanji 545 supports the Jingzhao Yin appointment and local reputation, but not a full local-administration record. Hanji 553 supports the Three Excellencies proposal and Da Sikong appointment, but not the complete institutional history of those offices or He Wu's private calculus. Hanji 568 supports the断剑 anecdote, Aidi-era Da Sikong removal, and the host's modern-law qualification, but not the full case record, statutory inheritance rules, the daughters' legal defense, or He Wu's private motive. Hanji 599 supports his restoration and transfer after Wang Jia's death, while Hanji 604 supports his office-contest role and anti-outer-relative reasoning. His full career, exact legal exposure, private motive, and later fate remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 553's late-Chengdi institutional layer: He Wu proposes restoring the Three Excellencies and becomes Da Sikong.
-- Added Hanji 568's断剑 inheritance judgment, modern-law qualification, and Da Sikong removal over stepmother-care optics.
-- Preserved Hanji 599's restoration layer and Hanji 604's post-Aidi Da Sima recommendation contest.
+- Added Hanji 545's early Jingzhao Yin layer and local reputation for law-abiding governance.
 
 ## Relationships
 

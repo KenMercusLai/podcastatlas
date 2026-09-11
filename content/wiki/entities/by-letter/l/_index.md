@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9732
+wiki_total_pages: 9733
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -944,6 +944,9 @@ wiki_pages:
   - key: "LiuXunLateHan"
     title: "刘勋 / Liu Xun (late Han)"
     url: "/wiki/entities/liuxunlatehan/"
+  - key: "LiuYuanziWesternHan"
+    title: "刘原子 / Liu Yuanzi (Western Han)"
+    url: "/wiki/entities/liuyuanziwesternhan/"
   - key: "LiuKefan"
     title: "刘可凡 / Liu Kefan"
     url: "/wiki/entities/liukefan/"
@@ -1700,12 +1703,12 @@ wiki_pages:
   - key: "LiangYuEasternHan"
     title: "梁玉 / Liang Yu (Eastern Han)"
     url: "/wiki/entities/liangyueasternhan/"
-  - key: "LiuLiWesternHan"
-    title: "梁王刘丽 / Liu Li, King of Liang"
-    url: "/wiki/entities/liuliwesternhan/"
   - key: "LiuChangLiangKing"
     title: "梁王刘畅 / Liu Chang (King of Liang)"
     url: "/wiki/entities/liuchangliangking/"
+  - key: "LiuLiWesternHan"
+    title: "梁王刘立 / Liu Li, King of Liang"
+    url: "/wiki/entities/liuliwesternhan/"
   - key: "LiangXiangWesternHan"
     title: "梁相 / Liang Xiang (Western Han)"
     url: "/wiki/entities/liangxiangwesternhan/"

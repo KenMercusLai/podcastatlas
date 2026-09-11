@@ -37208,9 +37208,9 @@
       "url": "/wiki/concepts/growthwitnessing/"
     },
     "GuYongWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -37239,6 +37239,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！ [lvDpLEBJDtlAv7KYwaXvevMBtX6X].md",
+          "key": "zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
         }
       ],
       "updated": "2026-09-12",
@@ -39573,9 +39580,9 @@
       "url": "/wiki/entities/hesongeasternhan/"
     },
     "HeWuWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学 [ljD2OJjmsla46No-9M2q802SyxLP].md",
@@ -39604,9 +39611,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！ [lvDpLEBJDtlAv7KYwaXvevMBtX6X].md",
+          "key": "zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/hewuwesternhan/"
     },
     "HeYongLateHan": {
@@ -53109,9 +53123,9 @@
       "url": "/wiki/entities/liulishouguangmarquiseasternhan/"
     },
     "LiuLiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？ [lpAvIclTc7NducBxiqGPR6T7Iczd].md",
@@ -53119,9 +53133,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》624丨读历史，悟幸福：你是人生赢家，还是“庸人自扰”代表？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！ [lvDpLEBJDtlAv7KYwaXvevMBtX6X].md",
+          "key": "zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/liuliwesternhan/"
     },
     "LiuMaoLateHan": {
@@ -54459,6 +54480,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/liuyuastrologerlatehan/"
+    },
+    "LiuYuanziWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！ [lvDpLEBJDtlAv7KYwaXvevMBtX6X].md",
+          "key": "zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/liuyuanziwesternhan/"
     },
     "LiuYunDongpingKingWesternHan": {
       "episode_count": 1,
@@ -76060,6 +76097,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/royalkintreasonlawboundary/"
     },
+    "RoyalKinshipScandalAdjudication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！ [lvDpLEBJDtlAv7KYwaXvevMBtX6X].md",
+          "key": "zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/royalkinshipscandaladjudication/"
+    },
     "RoyalSociety": {
       "episode_count": 2,
       "show_count": 2,
@@ -92020,9 +92073,9 @@
       "url": "/wiki/entities/wangqingbuheshiyi/"
     },
     "WangShangWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连 [lmDphgGOd_t9uk7Uu5z_53rjkJ7U].md",
@@ -92037,6 +92090,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》541丨他是民族英雄，最后为何因贪入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！ [lvDpLEBJDtlAv7KYwaXvevMBtX6X].md",
+          "key": "zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
         }
       ],
       "updated": "2026-09-12",
