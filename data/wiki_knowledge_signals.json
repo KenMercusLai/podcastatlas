@@ -21488,9 +21488,9 @@
       "url": "/wiki/entities/dengzunlatehan/"
     },
     "DeniablePatronageSignaling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？ [ll_S8BakpEpBp-1W4G9OHZFgKSbo].md",
@@ -21498,6 +21498,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？ [lmxkFLBc1avsT9k2ZH06N02NoONR].md",
+          "key": "zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr/"
         }
       ],
       "updated": "2026-09-12",
@@ -42321,6 +42328,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/hulanlatehan/"
+    },
+    "HuSanxing": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？ [lvtY1pdnIBvQpk0m16kkXzW4T_Ck].md",
+          "key": "zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》103-1｜司马迁看中的信陵君算是小人吗？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-103-1-simaqian-kanzhong-de-xinlingjun-suan-shi-xiaoren-ma-lvty1pdnibvqpk0m16kkxzw4t-ck/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？ [lmxkFLBc1avsT9k2ZH06N02NoONR].md",
+          "key": "zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/husanxing/"
     },
     "HuShuangLateHan": {
       "episode_count": 1,
@@ -98332,6 +98362,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/xuefangxinrecluse/"
     },
+    "XueHuiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？ [lmxkFLBc1avsT9k2ZH06N02NoONR].md",
+          "key": "zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/xuehuiwesternhan/"
+    },
     "XueXiaofan": {
       "episode_count": 1,
       "show_count": 1,
@@ -98349,9 +98395,9 @@
       "url": "/wiki/entities/xuexiaofan/"
     },
     "XueXuanWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
@@ -98373,6 +98419,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？ [lmxkFLBc1avsT9k2ZH06N02NoONR].md",
+          "key": "zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr/"
         }
       ],
       "updated": "2026-09-12",

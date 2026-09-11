@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？
+
+Added source `zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr`; created `XueHuiWesternHan`; updated `XueXuanWesternHan`, `HuSanxing`, `DeniablePatronageSignaling`, and `index`. No settled contradiction found; Xue Xuan's private coaching of Xue Hui, the effect of his words on Pengcheng officials, and the host's hidden-care reading remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？
 
 Added source `zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw`; updated `HanChengdi`, `WangYinWesternHan`, `ZhangFangWesternHan`, `ZhangYuWesternHan`, `XueXuanWesternHan`, `index`, and `overview`. No settled contradiction found; Chengdi's disguised outings, Zhang Fang household cover, Zhang Yu's privileged retirement, Xue Xuan's rise, and Wang Yin's pheasant-omen remonstrance remain source-scoped where the episode leaves uncertainty.
@@ -17842,6 +17846,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

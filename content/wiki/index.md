@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？](sources/zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr.md) — 芮淇讲透资治通鉴 episode on Xue Xuan's public non-instruction of his son Xue Hui, law-as-teacher rhetoric, Hu Sanxing's caution, and deniable bureaucratic patronage signaling.
 - [《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？](sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo.md) — 芮淇讲透资治通鉴 episode on Wang Yin's Yushi Dafu appointment, Wang-family patronage and reputation networks, Liu Xiang's secret memorial, and preventive restraint against outer-relative dynastic transfer.
 - [《资治通鉴·汉纪》523丨古代农民起义总失败？没理想or见识短？](sources/zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup.md) — 芮淇讲透资治通鉴 episode on the 22 BCE Yingchuan iron-office convict uprising, peasant-rebel organization limits, and Wang Feng's deathbed recommendation of Wang Yin over Wang Tan.
 - [《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？](sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz.md) — 芮淇讲透资治通鉴 episode on Chengdi's constrained Wang-family balancing, Yu Yong and Wang Jun personnel background, Duan Huizong's quiet Western Regions governance, and effect-based official selection.
@@ -2263,7 +2264,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [班伯 / Ban Bo (Western Han)](entities/BanBoWesternHan.md) — Chengdi court remonstrant who uses the Shang Zhou image to warn against wine and disorder.
 - [邛成太后 / Qiongcheng Taihou (Western Han)](entities/QiongchengTaihouWesternHan.md) — Western Han dowager whose rushed funeral in 15 BCE triggers high-office accountability under Han Chengdi.
 - [许平君 / Xu Pingjun (Western Han)](entities/XuPingjunWesternHan.md) — Western Han empress whose poisoning created the foster-empress context for Qiongcheng Taihou raising Liu Shi.
-- [薛宣 / Xue Xuan (Western Han)](entities/XueXuanWesternHan.md) — Western Han chancellor dismissed after Qiongcheng Taihou's rushed funeral.
+- [薛宣 / Xue Xuan (Western Han)](entities/XueXuanWesternHan.md) — Western Han high official whose public lawfulness, family-adjacent distancing, promotion, and dismissal show the ambiguity of role discipline.
+- [薛惠 / Xue Hui (Western Han)](entities/XueHuiWesternHan.md) — Xue Xuan's son and Pengcheng magistrate in the Hanji 521 patronage-signaling scene.
 - [Nick Epley](entities/NickEpley.md) — Behavioral scientist and Huberman Lab guest explaining social connection, mind perception, voice, social misprediction, social anxiety exposure, and family personhood beyond diagnosis.
 - [段会宗 / Duan Huizong](entities/DuanHuizongWesternHan.md) — Western Han envoy-commander who stabilizes Wusun through small-force punishment, remembered imperial threat, and face-saving withdrawal.
 - [郭舜 / Guo Shun](entities/GuoShunWesternHan.md) — Western Han protectorate official who reads Kangju protocol as evidence of unreliable submission and recommends diplomatic rupture.
@@ -5508,7 +5510,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [管城 / Guancheng (Warring States)](entities/GuanchengWarringStates.md) — Qin-held city near Xingze whose attack turns Xinlingjun's post-victory campaign into an ethical crisis.
 - [荥泽 / Xingze](entities/Xingze.md) — Water-control point near Guancheng that makes Daliang vulnerable in Qinji 103-1.
 - [荥阳 / Yingyang](entities/YingyangWarringStates.md) — Qin-held Sanchuan point that later becomes Liu Bang's post-Pengcheng defensive concentration point and part of Li Shiqi's Yingyang-Chenggao-Aocang logistics argument.
-- [胡三省 / Hu Sanxing](entities/HuSanxing.md) — Zizhi Tongjian commentator whose Guancheng annotation criticizes Su Gao, Anling Jun, and Xinlingjun from a state-responsibility angle.
+- [胡三省 / Hu Sanxing](entities/HuSanxing.md) — Zizhi Tongjian commentator whose annotations press readers beyond face-value moral readings in the Guancheng and Xue Xuan scenes.
 - [后胜 / Hou Sheng](entities/HouSheng.md) — Qi chancellor whose Qin-funded non-intervention advice helps explain late Qi isolation and why Qi did not absorb Lu in the Qinji 102-2 source.
 - [江东 / Jiangdong (Warring States)](entities/JiangdongWarringStates.md) — Former Wu-region Chu fief requested by Chunshenjun, framed by Qinji 102-2 as safer than the Huai north border because of distance from Qin and the Yangtze barrier.
 - [周文王 / King Wen of Zhou](entities/ZhouWenwang.md) — Zhou ruler who recognizes Jiang Taigong, links the episode to Zhouyi systematization, and grounds the late-blooming talent branch.
@@ -12009,7 +12011,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
-- [隐形站台式关系背书 / Deniable Patronage Signaling](concepts/DeniablePatronageSignaling.md) — Relationship-power pattern where inferred backing, kinship hints, and reputation networks move benefits without explicit orders.
+- [隐形站台式关系背书 / Deniable Patronage Signaling](concepts/DeniablePatronageSignaling.md) — Relationship-power pattern where inferred backing, kinship hints, visible restraint, and reputation networks move benefits without explicit orders.
 - [治未病式边疆治理 / Preventive Frontier Governance](concepts/PreventiveFrontierGovernance.md) — Frontier-administration pattern where success appears as prevented crisis, created from Duan Huizong's quiet Western Regions tenure.
 - [实效考察式用人 / Effect-Measured Personnel Selection](concepts/EffectMeasuredPersonnelSelection.md) — Personnel-selection principle that tests actual administrative effect rather than relying only on reputation, family, or moral image.
 - [待刑谢罪式政治表演 / Awaiting-Punishment Performance](concepts/AwaitingPunishmentPerformance.md) — Pattern where exaggerated submission and execution imagery turn threatened punishment into a politically costly mercy test.

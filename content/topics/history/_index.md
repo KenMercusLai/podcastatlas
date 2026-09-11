@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1792
+topic_total_pages: 1793
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3707,6 +3707,9 @@ topic_entities:
   - key: "XueXuanWesternHan"
     title: "薛宣 / Xue Xuan (Western Han)"
     url: "/wiki/entities/xuexuanwesternhan/"
+  - key: "XueHuiWesternHan"
+    title: "薛惠 / Xue Hui (Western Han)"
+    url: "/wiki/entities/xuehuiwesternhan/"
   - key: "XueFangXinRecluse"
     title: "薛方 / Xue Fang (Xin-era recluse)"
     url: "/wiki/entities/xuefangxinrecluse/"
