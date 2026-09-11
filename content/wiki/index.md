@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连](sources/zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u.md) — 芮淇讲透资治通鉴 episode on Gu Yong's disaster-omen remonstrance against Han Chengdi, Wang-family backing, Wang Shang's warning, and bounded pursuit after imperial anger.
 - [《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛](sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m.md) — 芮淇讲透资治通鉴 episode on Han Chengdi and Zhang Fang's intimate favorite relationship, Ban Bo's wine-warning remonstrance, Wang Zhengjun's pressure, and Xue Xuan's politically self-protective impeachment.
 - [《资治通鉴·汉纪》540丨太后的葬礼](sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd.md) — 芮淇讲透资治通鉴 episode on Qiongcheng Taihou's rushed funeral, Xue Xuan's dismissal, Zhai Fangjin's promotion after punishment, and Kong Guang's palace-information discipline.
 - [《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？](sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm.md) — 芮淇讲透资治通鉴 episode on Zhai Fangjin, Chen Xian, and Feng Xin's promotion-driven friendship rupture, funeral-inquiry pressure, and retaliatory removal through the Chen Tang case.
@@ -2216,6 +2217,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Wang Shang / 王商 (Western Han)](entities/WangShangWesternHan.md) — Wei Jiangjun and Wang-family protector who warns Gu Yong to flee after Chengdi's arrest order in Hanji 538.
 - [张放 / Zhang Fang (Western Han)](entities/ZhangFangWesternHan.md) — Chengdi favorite whose palace access, kinship backing, and exile show the fragility of favorite protection under dowager and ministerial pressure.
 - [班伯 / Ban Bo (Western Han)](entities/BanBoWesternHan.md) — Chengdi court remonstrant who uses the Shang Zhou image to warn against wine and disorder.
 - [邛成太后 / Qiongcheng Taihou (Western Han)](entities/QiongchengTaihouWesternHan.md) — Western Han dowager whose rushed funeral in 15 BCE triggers high-office accountability under Han Chengdi.
