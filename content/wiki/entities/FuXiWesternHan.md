@@ -8,16 +8,19 @@ sources:
   - zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv
   - zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp
   - zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu
+  - zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq
 last_updated: 2026-09-11
 ---
 
 ## Overview
 
-傅喜 / Fu Xi is synthesized as a Western Han Fu-family figure whose profile now has title-resistance, attack, corrective-candidate, and post-collapse survival layers. [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] supplies the title-resistance layer: Fu Xi refuses [[FuTaihouWesternHan|傅太后]]'s demand for a title comparable to [[WangZhengjun|王政君]]'s even after [[ShiDanWesternHan|施丹]] is removed. [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] adds the immediate vulnerability layer: Fu Taihou remains angry after Fu Xi has already been dismissed and returned to his fief, and [[ZhuBoWesternHan|朱博]] tries to strip his marquisate through a bundled impeachment. [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] names him in [[BaoXuanWesternHan|鲍宣]]'s personnel remedy as the figure who should lead or discipline the outer-relative field under [[HanAidi|汉哀帝]]. [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] later presents him as the Fu-clan survivor after [[WangMang|王莽]]'s first cleanup of the Fu and Ding networks.
+傅喜 / Fu Xi is synthesized as a Western Han Fu-family figure whose profile now has early sidelining, title-resistance, attack, corrective-candidate, and post-collapse survival layers. [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] supplies the earliest current political-trust layer: after [[WangMang|王莽]] retires, many at court want Fu Xi to replace him, but [[FuTaihouWesternHan|傅太后]] blocks the kinsman because his learning, virtue, and earlier admonitions do not make him "one of her people." [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] supplies the later title-resistance layer: Fu Xi refuses Fu Taihou's demand for a title comparable to [[WangZhengjun|王政君]]'s even after [[ShiDanWesternHan|施丹]] is removed. [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] adds the immediate vulnerability layer: Fu Taihou remains angry after Fu Xi has already been dismissed and returned to his fief, and [[ZhuBoWesternHan|朱博]] tries to strip his marquisate through a bundled impeachment. [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] names him in [[BaoXuanWesternHan|鲍宣]]'s personnel remedy as the figure who should lead or discipline the outer-relative field under [[HanAidi|汉哀帝]]. [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] later presents him as the Fu-clan survivor after Wang Mang's first cleanup of the Fu and Ding networks.
 
 ## Current Profile
 
-Hanji 577 shows the cause of Fu Xi's early exposure. As Fu Taihou presses for a higher title, Kong Guang, Shi Dan, and Fu Xi resist; Aidi removes Shi Dan first, but Fu Xi still does not yield. The episode reads that refusal as the clean-official side of [[BureaucraticAdverseSelection|官场逆淘汰]]: principled opposition is recoded by others as obstruction, faction, or failure to help government.
+Hanji 565 gives Fu Xi's nonalignment an earlier visibility than the later title dispute. When Wang Mang leaves active office after the banquet-seat conflict, Fu Xi appears to many officials as a learned and virtuous replacement candidate. Fu Taihou refuses him because he had not joined the outer-relative reward line and had repeatedly admonished her when she interfered in government. Aidi therefore appoints Shi Dan as Da Sima and keeps Fu Xi at home as Guanglu Dafu after reclaiming his Right General seal.
+
+Hanji 577 shows the later cause of Fu Xi's deeper exposure. As Fu Taihou presses for a higher title, Kong Guang, Shi Dan, and Fu Xi resist; Aidi removes Shi Dan first, but Fu Xi still does not yield. The episode reads that refusal as the clean-official side of [[BureaucraticAdverseSelection|官场逆淘汰]]: principled opposition is recoded by others as obstruction, faction, or failure to help government.
 
 Hanji 582 shows Fu Xi as already punished but not yet safe. His dismissal and return to his fief do not satisfy Fu Taihou. Zhu Bo and Zhao Xuan memorialize against Fu Xi and He Wu together, asking that both be reduced to commoner status. The tactic fails because Aidi suspects Fu Taihou's resentment behind the memorial, but the episode still shows how Fu Xi's nonalignment leaves him exposed to retaliation before it becomes a survival credential.
 
@@ -31,7 +34,7 @@ Fu Xi's later return to his fief and old-age death make him the episode's "善�
 
 ## Key Characteristics
 
-- Fu-family figure distinguished from the Fu/Ding faction after Aidi's death.
+- Fu-family figure distinguished from the Fu/Ding faction after Aidi's death, with early sidelining showing that kinship with Fu Taihou does not overcome her distrust of his principled admonitions.
 - Title-dispute resister who refuses Fu Taihou's status demand even after Shi Dan is removed.
 - Target of Fu Taihou's continued anger before the later Wang Mang cleanup.
 - Named by Bao Xuan before the succession crisis as a corrective figure for outer-relative management.
@@ -41,6 +44,8 @@ Fu Xi's later return to his fief and old-age death make him the episode's "善�
 
 ## Evidence
 
+- Early sidelining: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says many officials hope Fu Xi will replace Wang Mang, but Fu Taihou prevents it because he did not join her line and often admonished her.
+- Office loss: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Fu Xi loses the Right General seal, while Peng Xuan takes the office and Fu Xi remains at home as Guanglu Dafu.
 - Title opposition: [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] says Fu Xi joins Kong Guang and Shi Dan in opposing Fu Taihou's title demand.
 - Continued refusal: [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] says Fu Xi still refuses to agree after Shi Dan is removed.
 - Accusation target: [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] says Zhu Bo and Fu Yan accuse Fu Xi of associating with officials and forming a faction rather than helping court government.
@@ -57,11 +62,11 @@ Fu Xi's later return to his fief and old-age death make him the episode's "善�
 
 ## Qualifications
 
-This page is source-scoped to Hanji 577, Hanji 582, Hanji 588, and Hanji 604. Hanji 577 supports Fu Xi's opposition to Fu Taihou's title demand and his accusation exposure, but not the exact text of his argument or complete office procedure. Hanji 582 supports Fu Xi's vulnerability to Fu Taihou's continued anger and Zhu Bo's bundled impeachment, but not Fu Xi's own words in the case. Hanji 588 supports Bao Xuan's recommendation of Fu Xi but not the exact office mechanics or Fu Xi's own response. Hanji 604 supports Fu Xi's nonalignment, recall, fear, and good-end role, but not a full biography, exact dates, complete offices, or his private motives beyond the episode's interpretation of his conduct.
+This page is source-scoped to Hanji 565, Hanji 577, Hanji 582, Hanji 588, and Hanji 604. Hanji 565 supports Fu Xi's early candidacy, Fu Taihou's distrust, and his Right General removal, but not his full earlier admonitions or private motives. Hanji 577 supports Fu Xi's opposition to Fu Taihou's title demand and his accusation exposure, but not the exact text of his argument or complete office procedure. Hanji 582 supports Fu Xi's vulnerability to Fu Taihou's continued anger and Zhu Bo's bundled impeachment, but not Fu Xi's own words in the case. Hanji 588 supports Bao Xuan's recommendation of Fu Xi but not the exact office mechanics or Fu Xi's own response. Hanji 604 supports Fu Xi's nonalignment, recall, fear, and good-end role, but not a full biography, exact dates, complete offices, or his private motives beyond the episode's interpretation of his conduct.
 
 ## What Changed
 
-- Added Hanji 577's title-resistance layer, making Fu Xi's nonalignment visible before the later failed attack and post-Aidi survival.
+- Added Hanji 565's early sidelining layer, making Fu Xi's nonalignment visible before the later title-resistance, failed attack, and post-Aidi survival.
 - Reframed Fu Xi as part of [[BureaucraticAdverseSelection|官场逆淘汰]]: his refusal becomes vulnerable to accusation even before it becomes a survival credential.
 - Preserved Hanji 582's failed attack on Fu Xi, making his nonalignment both a source of danger before Aidi's death and a survival credential after it.
 - Preserved Hanji 588's Bao Xuan recommendation layer and Hanji 604's account of Fu Xi as the Fu-family exception and good-end survival case.
@@ -69,6 +74,7 @@ This page is source-scoped to Hanji 577, Hanji 582, Hanji 588, and Hanji 604. Ha
 ## Relationships
 
 - [[FuTaihouWesternHan|傅太后]] - kinswoman whose political line Fu Xi refuses to follow and whose anger targets him.
+- [[ShiDanWesternHan|施丹]] - alternative appointee as Da Sima when Fu Xi is blocked in Hanji 565.
 - [[ZhuBoWesternHan|朱博]] - chancellor who attempts to strip Fu Xi's marquisate.
 - [[FuYanWesternHan|傅晏]] - Fu-family actor whose accusation channel targets Fu Xi in the title dispute.
 - [[BureaucraticAdverseSelection|官场逆淘汰]] - personnel-ecology concept that Hanji 577 grounds partly through Fu Xi's exposure.

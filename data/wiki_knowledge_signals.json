@@ -8601,6 +8601,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/banditmutualreportingpacification/"
     },
+    "BanquetSeatingStatusPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问 [ljEyBels0ExMBtpzmnpXGXgX2lFQ].md",
+          "key": "zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/banquetseatingstatuspolitics/"
+    },
     "BaoJunEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -32876,9 +32892,9 @@
       "url": "/wiki/entities/fushangwesternhan/"
     },
     "FuTaihouWesternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》626丨挖人坟墓！王莽竟如此丧心病狂？ [loTWK6rbTl5PvBrnLFrysU5Ol6rz].md",
@@ -32942,15 +32958,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》562丨汉哀帝即位时有多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问 [ljEyBels0ExMBtpzmnpXGXgX2lFQ].md",
+          "key": "zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq/"
         }
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/futaihouwesternhan/"
     },
     "FuXiWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？ [ltwscYyiOBC1ocVGTI3Fd-deAJrU].md",
@@ -32979,6 +33002,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》577丨官场逆淘汰：为什么庸官升得更快？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问 [ljEyBels0ExMBtpzmnpXGXgX2lFQ].md",
+          "key": "zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq/"
         }
       ],
       "updated": "2026-09-11",
@@ -37569,9 +37599,9 @@
       "url": "/wiki/concepts/hamiltonianeconomicnationalism/"
     },
     "HanAidi": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 2,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -37712,6 +37742,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》562丨汉哀帝即位时有多憋屈？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问 [ljEyBels0ExMBtpzmnpXGXgX2lFQ].md",
+          "key": "zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq/"
         }
       ],
       "updated": "2026-09-11",
@@ -89349,9 +89386,9 @@
       "url": "/wiki/entities/wanglingxinprince/"
     },
     "WangMang": {
-      "episode_count": 32,
+      "episode_count": 33,
       "show_count": 2,
-      "source_note_count": 32,
+      "source_note_count": 33,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -89576,9 +89613,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问 [ljEyBels0ExMBtpzmnpXGXgX2lFQ].md",
+          "key": "zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》565丨芮淇和你聊聊小饭局里的大学问",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-11",
       "url": "/wiki/entities/wangmang/"
     },
     "WangMangReforms": {

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7022
+wiki_total_pages: 7023
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -710,6 +710,9 @@ wiki_pages:
   - key: "BureaucraticAdverseSelection"
     title: "官场逆淘汰 / Bureaucratic Adverse Selection"
     url: "/wiki/concepts/bureaucraticadverseselection/"
+  - key: "BanquetSeatingStatusPolitics"
+    title: "宴席座次名分政治 / Banquet Seating Status Politics"
+    url: "/wiki/concepts/banquetseatingstatuspolitics/"
   - key: "BattlefieldVictoryToFoundingOrder"
     title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
     url: "/wiki/concepts/battlefieldvictorytofoundingorder/"
