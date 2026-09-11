@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？](sources/zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso.md) — 芮淇讲透资治通鉴 episode on Wang Feng's post-Wang Zhang power field, Feng Yewang's impeachment, Du Qing's procedural warning, and remonstrance-channel repair as legitimacy work.
 - [2026秋季篇E02 空气有毒！四日市公害事件始末](sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky.md) — 日谈物语 E02 opening that follows up on the Unification Church and frames the Yokkaichi pollution incident as a transcript-limited "serial murder case without a killer."
 - [《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？](sources/zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr.md) — 芮淇讲透资治通鉴 episode on Xue Xuan's public non-instruction of his son Xue Hui, law-as-teacher rhetoric, Hu Sanxing's caution, and deniable bureaucratic patronage signaling.
 - [《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？](sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo.md) — 芮淇讲透资治通鉴 episode on Wang Yin's Yushi Dafu appointment, Wang-family patronage and reputation networks, Liu Xiang's secret memorial, and preventive restraint against outer-relative dynastic transfer.
@@ -2245,6 +2246,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [杜清 / Du Qing (Western Han)](entities/DuQingWesternHan.md) — Western Han adviser who turns Feng Yewang's impeachment and Wang Zhang's secret charges into warnings about legal credibility and open remonstrance.
+- [冯野王 / Feng Yewang (Western Han)](entities/FengYewangWesternHan.md) — Western Han official whose sick-leave impeachment becomes a procedural test after Wang Zhang's death.
 - [Unification Church / 统一教会](entities/UnificationChurch.md) — Religion-and-politics entity appearing in the 日谈物语 E02 legal follow-up around Han Hak-ja.
 - [Han Hak-ja / 韩鹤子](entities/HanHakJa.md) — Unification Church figure discussed in the 日谈物语 E02 legal follow-up.
 - [Sun Myung Moon / 文鲜明](entities/SunMyungMoon.md) — Unification Church founder figure named as background in the 日谈物语 E02 follow-up.
@@ -12016,6 +12019,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [名分合法性叙事攻击 / Legitimacy Narrative Attack](concepts/LegitimacyNarrativeAttack.md) — Conflict strategy where actors weaken an opponent's moral or procedural standing before coercion, with credibility risk when punishment looks retaliatory.
 - [隐形站台式关系背书 / Deniable Patronage Signaling](concepts/DeniablePatronageSignaling.md) — Relationship-power pattern where inferred backing, kinship hints, visible restraint, and reputation networks move benefits without explicit orders.
 - [治未病式边疆治理 / Preventive Frontier Governance](concepts/PreventiveFrontierGovernance.md) — Frontier-administration pattern where success appears as prevented crisis, created from Duan Huizong's quiet Western Regions tenure.
 - [实效考察式用人 / Effect-Measured Personnel Selection](concepts/EffectMeasuredPersonnelSelection.md) — Personnel-selection principle that tests actual administrative effect rather than relying only on reputation, family, or moral image.

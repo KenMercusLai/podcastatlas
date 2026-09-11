@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？
+
+Added source note for Hanji 520 and updated the Wang Feng / Wang Zhang remonstrance-suppression branch. Key claims: legitimacy work precedes coercion; Feng Yewang's impeachment tests procedural credibility; Du Qing treats open speech as reputational repair after Wang Zhang's secret-charge case.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？
 
 Added source `zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr`; created `XueHuiWesternHan`; updated `XueXuanWesternHan`, `HuSanxing`, `DeniablePatronageSignaling`, and `index`. No settled contradiction found; Xue Xuan's private coaching of Xue Hui, the effect of his words on Pengcheng officials, and the host's hidden-care reading remain source-scoped.
@@ -17850,6 +17854,10 @@ Added source note for 日谈物语 E02, created Unification Church, Han Hak-ja, 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

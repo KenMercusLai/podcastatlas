@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7096
+wiki_total_pages: 7097
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -779,6 +779,9 @@ wiki_pages:
   - key: "LyuBuFactionalBalance"
     title: "Lü Bu Factional Balance / 吕布集团派系平衡"
     url: "/wiki/concepts/lyubufactionalbalance/"
+  - key: "LegitimacyNarrativeAttack"
+    title: "名分合法性叙事攻击 / Legitimacy Narrative Attack"
+    url: "/wiki/concepts/legitimacynarrativeattack/"
   - key: "LuxuryStatusSignalEfficiency"
     title: "奢侈品身份信号效率 / Luxury Status Signal Efficiency"
     url: "/wiki/concepts/luxurystatussignalefficiency/"

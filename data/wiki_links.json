@@ -17723,6 +17723,10 @@
     "title": "杜乔 / Du Qiao (late Han)",
     "url": "/wiki/entities/duqiaolatehan/"
   },
+  "DuQingWesternHan": {
+    "title": "杜清 / Du Qing (Western Han)",
+    "url": "/wiki/entities/duqingwesternhan/"
+  },
   "DuRuo": {
     "title": "杜若 / Du Ruo",
     "url": "/wiki/entities/duruo/"
@@ -21074,6 +21078,10 @@
   "FengYanEasternHan": {
     "title": "冯衍 / Feng Yan (Eastern Han)",
     "url": "/wiki/entities/fengyaneasternhan/"
+  },
+  "FengYewangWesternHan": {
+    "title": "冯野王 / Feng Yewang (Western Han)",
+    "url": "/wiki/entities/fengyewangwesternhan/"
   },
   "FengYiEasternHan": {
     "title": "冯异 / Feng Yi (Eastern Han)",
@@ -34238,6 +34246,10 @@
   "LegitimacyIndictmentWarfare": {
     "title": "Legitimacy Indictment Warfare / 正当性控诉战",
     "url": "/wiki/concepts/legitimacyindictmentwarfare/"
+  },
+  "LegitimacyNarrativeAttack": {
+    "title": "名分合法性叙事攻击 / Legitimacy Narrative Attack",
+    "url": "/wiki/concepts/legitimacynarrativeattack/"
   },
   "LegitimacyWindowSeizure": {
     "title": "Legitimacy Window Seizure / 合法性窗口抢占",
@@ -73558,6 +73570,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso": {
+    "title": "《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso/"
   },
   "zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr": {
     "title": "《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？",
