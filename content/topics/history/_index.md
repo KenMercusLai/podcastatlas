@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1777
+topic_total_pages: 1779
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2894,6 +2894,9 @@ topic_entities:
   - key: "ZhangZhihao"
     title: "张志浩"
     url: "/wiki/entities/zhangzhihao/"
+  - key: "ZhangFangWesternHan"
+    title: "张放 / Zhang Fang (Western Han)"
+    url: "/wiki/entities/zhangfangwesternhan/"
   - key: "ZhangAo"
     title: "张敖 / Zhang Ao"
     url: "/wiki/entities/zhangao/"
@@ -3365,6 +3368,9 @@ topic_entities:
   - key: "WangHe"
     title: "王龁 / Wang He"
     url: "/wiki/entities/wanghe/"
+  - key: "BanBoWesternHan"
+    title: "班伯 / Ban Bo (Western Han)"
+    url: "/wiki/entities/banbowesternhan/"
   - key: "BanGuEasternHan"
     title: "班固 / Ban Gu (Eastern Han)"
     url: "/wiki/entities/bangueasternhan/"

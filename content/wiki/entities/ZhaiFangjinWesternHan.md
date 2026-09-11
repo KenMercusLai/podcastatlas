@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx
   - zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd
   - zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm
+  - zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-翟方进 / Zhai Fangjin is synthesized as a Western Han chancellor whose wiki profile now has six connected faces: in [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] he is punished after [[QiongchengTaihouWesternHan|邛成太后]]'s rushed funeral but then promoted to replace [[XueXuanWesternHan|薛宣]] as chancellor, in [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]] his Yushi Dafu rise breaks old peer friendships with [[ChenXianWesternHan|陈贤]] and [[FengXinWesternHan|冯信]], in [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] he shifts from former [[ChunyuZhangWesternHan|淳于长]] associate to wider impeacher after Chunyu's fall, in [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] he joins [[HeWuWesternHan|何武]] in advocating the abolition of刺史 and creation of higher-ranked州牧 under [[HanChengdi|汉成帝]], in [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]] he becomes the chancellor sacrificed after an 荧惑守心 omen, and in [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] he appears in an earlier interpersonal register as a classics lecturer who de-escalates [[HuChangWesternHan|胡长]]'s jealousy through visible respect.
+翟方进 / Zhai Fangjin is synthesized as a Western Han chancellor whose wiki profile now has seven connected faces: in [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] he joins [[XueXuanWesternHan|薛宣]] in impeaching [[ZhangFangWesternHan|张放]], in [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] he is punished after [[QiongchengTaihouWesternHan|邛成太后]]'s rushed funeral but then promoted to replace Xue Xuan as chancellor, in [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]] his Yushi Dafu rise breaks old peer friendships with [[ChenXianWesternHan|陈贤]] and [[FengXinWesternHan|冯信]], in [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] he shifts from former [[ChunyuZhangWesternHan|淳于长]] associate to wider impeacher after Chunyu's fall, in [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] he joins [[HeWuWesternHan|何武]] in advocating the abolition of刺史 and creation of higher-ranked州牧 under [[HanChengdi|汉成帝]], in [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]] he becomes the chancellor sacrificed after an 荧惑守心 omen, and in [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] he appears in an earlier interpersonal register as a classics lecturer who de-escalates [[HuChangWesternHan|胡长]]'s jealousy through visible respect.
 
 ## Current Profile
 
 [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] gives Zhai his earliest current chancellorship-entry layer. As Yushi Dafu, he is held responsible alongside chancellor Xue Xuan when Chengdi condemns Qiongcheng Taihou's hurried funeral. Yet the next personnel move favors rather than buries him: Chengdi promotes Zhai to chancellor and enfeoffs him as Gaoling Hou. The episode therefore makes Zhai a case where punishment, usefulness, and promotion can coexist inside one court settlement.
+
+Hanji 539 gives the immediately preceding enforcement layer. Under Wang Zhengjun's pressure, Xue Xuan and Zhai submit the impeachment that turns Zhang Fang from Chengdi's intimate favorite into an official target. Zhai's role here is source-scoped but consistent with his wider profile: he appears as a censorial actor willing to participate when a private favorite becomes politically exposed.
 
 Zhai's earlier Yushi Dafu rise also has a relationship cost in [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]]. Chen Xian and Feng Xin had seniority and old closeness with Zhai, so Zhai's appointment turns old peers into injured comparison figures. During the funeral inquiry, Chen and Feng do not protect him; after Zhai survives, their prior pressure makes retaliation predictable. Zhai's later attack uses the Chen Tang case to remove them, showing the harsher side of his interpersonal repertoire: when trust collapses, he can convert personal betrayal into a public accusation channel.
 
@@ -35,7 +38,7 @@ Zhai can also pivot with the court wind in Hanji 557. He had associated with Chu
 
 ## Key Characteristics
 
-- Zhai Fangjin rises to chancellor after a funeral-accountability punishment, then acts as a chancellor-level advocate for office-rank reform through hierarchy and ancient precedent.
+- Zhai Fangjin helps impeach Zhang Fang before later rising to chancellor after a funeral-accountability punishment and advocating office-rank reform through hierarchy and ancient precedent.
 - His reform becomes unstable in later Aidi-era politics, where the same office design is judged differently.
 - His classics-teaching episode shows a capacity for indirect conflict management through visible respect.
 - His Yushi Dafu promotion shows that old friendships can become unstable when close peers experience his rise as a loss of status and opportunity.
@@ -50,6 +53,9 @@ Office-rank reform:
 
 Funeral accountability and promotion:
 - [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Zhai Fangjin is demoted after Qiongcheng Taihou's rushed funeral, then promoted to chancellor and enfeoffed as Gaoling Hou.
+
+Favorite impeachment:
+- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Zhai Fangjin and Xue Xuan jointly impeach Zhang Fang after dowager pressure.
 
 Instability of institutional design:
 - [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] supplies the pro-州牧 layer and notes the later reversal as part of the episode's historical framing.
@@ -77,13 +83,13 @@ Case-expansion pivot:
 
 ## Qualifications
 
-This page is bounded to Hanji 540, Hanji 542, Hanji 557, Hanji 558, Hanji 559, and Hanji 560. It does not reconstruct Zhai Fangjin's full biography, the independent legal truth of every charge, the complete astrology tradition behind 荧惑守心, the full list of officials removed after Chunyu Zhang's or Chen Tang's cases, or the wider textual history of the Zhai-Hu anecdote. Hanji 542's account of Chen Xian and Feng Xin's motives remains source-scoped psychological interpretation.
+This page is bounded to Hanji 539, Hanji 540, Hanji 542, Hanji 557, Hanji 558, Hanji 559, and Hanji 560. It does not reconstruct Zhai Fangjin's full biography, the independent legal truth of every charge, the complete astrology tradition behind 荧惑守心, the full list of officials removed after Chunyu Zhang's, Zhang Fang's, or Chen Tang's cases, or the wider textual history of the Zhai-Hu anecdote. Hanji 542's account of Chen Xian and Feng Xin's motives remains source-scoped psychological interpretation.
 
 ## What Changed
 
 - Added Hanji 557's case-expansion layer: Zhai Fangjin moves from Chunyu Zhang contact to self-protection and wider impeachment.
 - Added Hanji 540's chancellorship-entry layer: Zhai is punished in the funeral case but then promoted after Xue Xuan's dismissal.
-- Added Hanji 542's promotion-rupture layer: Zhai's rise destabilizes old friendships with Chen Xian and Feng Xin and later becomes retaliatory removal.
+- Added Hanji 539's Zhang Fang layer: Zhai participates in the favorite's impeachment immediately before the funeral-accountability sequence.
 
 ## Relationships
 
@@ -92,6 +98,7 @@ This page is bounded to Hanji 540, Hanji 542, Hanji 557, Hanji 558, Hanji 559, a
 - [[DuYeWesternHan]] - opponent whom Zhai attacks during the widened case.
 - [[HanChengdi]] - emperor who approves the reform and later forces Zhai's death under omen pressure.
 - [[XueXuanWesternHan|薛宣]] - predecessor dismissed in the funeral case before Zhai's promotion.
+- [[ZhangFangWesternHan|张放]] - favorite whom Zhai helps impeach.
 - [[ChenXianWesternHan|陈贤]] - former friend and promotion rival later removed through Zhai's accusation.
 - [[FengXinWesternHan|冯信]] - former friend grouped with Chen Xian in the retaliation sequence.
 - [[ChenTangWesternHan|陈汤]] - larger personnel case whose recommendation network becomes usable against Chen Xian and Feng Xin.

@@ -9952,6 +9952,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "BanBoWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "BanChaoEasternHan": [
     {
       "key": "politics",
@@ -74354,6 +74361,13 @@
     }
   ],
   "ZhangEr": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ZhangFangWesternHan": [
     {
       "key": "history",
       "label": "History",

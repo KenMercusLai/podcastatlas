@@ -8417,6 +8417,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/banbiaoeasternhan/"
     },
+    "BanBoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛 [lk_Wzo4H-c-xKIPFFhgikroNRK3m].md",
+          "key": "zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/banbowesternhan/"
+    },
     "BanChaoEasternHan": {
       "episode_count": 19,
       "show_count": 1,
@@ -38515,9 +38531,9 @@
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanChengdi": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -38630,6 +38646,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛 [lk_Wzo4H-c-xKIPFFhgikroNRK3m].md",
+          "key": "zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
         }
       ],
       "updated": "2026-09-12",
@@ -46974,9 +46997,9 @@
       "url": "/wiki/entities/jingjuekingdom/"
     },
     "JingwuPrincessWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末 [lqVZEJFM1Sd8k0AmPorgI_mQHSrd].md",
@@ -46984,9 +47007,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末",
           "url": "/wiki/sources/zizhi-tongjian-hanji-617-wangmang-dusha-gongzhu-lishi-shimo-lqvzejfm1sd8k0amporgi_mqhsrd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛 [lk_Wzo4H-c-xKIPFFhgikroNRK3m].md",
+          "key": "zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/jingwuprincesswesternhan/"
     },
     "Jinjiang": {
@@ -48423,6 +48453,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/kinshipbasedtownshipenterprisefinance/"
+    },
+    "KinshipPoliticalCutting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛 [lk_Wzo4H-c-xKIPFFhgikroNRK3m].md",
+          "key": "zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/kinshippoliticalcutting/"
     },
     "KinshipProtocolBoundary": {
       "episode_count": 3,
@@ -96917,9 +96963,9 @@
       "url": "/wiki/entities/xuexiaofan/"
     },
     "XueXuanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
@@ -96927,6 +96973,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》540丨太后的葬礼",
           "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛 [lk_Wzo4H-c-xKIPFFhgikroNRK3m].md",
+          "key": "zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
         }
       ],
       "updated": "2026-09-12",
@@ -99897,9 +99950,9 @@
       "url": "/wiki/entities/zhaichaolatehan/"
     },
     "ZhaiFangjinWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -99942,6 +99995,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛 [lk_Wzo4H-c-xKIPFFhgikroNRK3m].md",
+          "key": "zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
         }
       ],
       "updated": "2026-09-12",
@@ -100261,6 +100321,36 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhangfangeunuchlatehan/"
+    },
+    "ZhangFangWesternHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
+          "key": "zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
+          "key": "zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛 [lk_Wzo4H-c-xKIPFFhgikroNRK3m].md",
+          "key": "zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhangfangwesternhan/"
     },
     "ZhangFengZhuoEasternHan": {
       "episode_count": 1,

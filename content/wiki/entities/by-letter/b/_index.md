@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9728
+wiki_total_pages: 9730
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -1043,6 +1043,9 @@ wiki_pages:
   - key: "BohaiCommanderyLateHan"
     title: "渤海郡 / Bohai Commandery (late Han)"
     url: "/wiki/entities/bohaicommanderylatehan/"
+  - key: "BanBoWesternHan"
+    title: "班伯 / Ban Bo (Western Han)"
+    url: "/wiki/entities/banbowesternhan/"
   - key: "BanYongLateHan"
     title: "班勇 / Ban Yong (late Han)"
     url: "/wiki/entities/banyonglatehan/"

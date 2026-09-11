@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 7069
+wiki_total_pages: 7070
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -104,6 +104,9 @@ wiki_pages:
   - key: "KinshipProtocolBoundary"
     title: "亲情名分边界 / Kinship Protocol Boundary"
     url: "/wiki/concepts/kinshipprotocolboundary/"
+  - key: "KinshipPoliticalCutting"
+    title: "亲缘政治切割 / Kinship Political Cutting"
+    url: "/wiki/concepts/kinshippoliticalcutting/"
   - key: "KuaijiCommanderyCoup"
     title: "会稽郡守府夺权 / Kuaiji Commandery Coup"
     url: "/wiki/concepts/kuaijicommanderycoup/"

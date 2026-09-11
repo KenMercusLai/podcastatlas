@@ -6959,6 +6959,10 @@
     "title": "班彪 / Ban Biao (Eastern Han)",
     "url": "/wiki/entities/banbiaoeasternhan/"
   },
+  "BanBoWesternHan": {
+    "title": "班伯 / Ban Bo (Western Han)",
+    "url": "/wiki/entities/banbowesternhan/"
+  },
   "BanChaoEasternHan": {
     "title": "班超 / Ban Chao (Eastern Han)",
     "url": "/wiki/entities/banchaoeasternhan/"
@@ -32878,6 +32882,10 @@
   "KinshipLegitimacyDiplomacy": {
     "title": "Kinship Legitimacy Diplomacy / 同源合法性外交",
     "url": "/wiki/concepts/kinshiplegitimacydiplomacy/"
+  },
+  "KinshipPoliticalCutting": {
+    "title": "亲缘政治切割 / Kinship Political Cutting",
+    "url": "/wiki/concepts/kinshippoliticalcutting/"
   },
   "KinshipPowerDistinction": {
     "title": "Kinship Power Distinction",
@@ -66719,6 +66727,10 @@
     "title": "张防 / Zhang Fang (eunuch, late Han)",
     "url": "/wiki/entities/zhangfangeunuchlatehan/"
   },
+  "ZhangFangWesternHan": {
+    "title": "张放 / Zhang Fang (Western Han)",
+    "url": "/wiki/entities/zhangfangwesternhan/"
+  },
   "ZhangFei": {
     "title": "张飞 / Zhang Fei",
     "url": "/wiki/entities/zhangfei/"
@@ -73282,6 +73294,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m": {
+    "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
   },
   "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd": {
     "title": "《资治通鉴·汉纪》540丨太后的葬礼",

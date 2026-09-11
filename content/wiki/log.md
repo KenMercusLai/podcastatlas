@@ -17644,6 +17644,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 2 / 15 BCE under Han Chengdi. Created Zhang Fang (Western Han), Ban Bo, and Kinship Political Cutting; updated Han Chengdi, Xue Xuan, Zhai Fangjin, Jingwu Princess, overview, and index. No settled contradiction found; the full Chengdi-Zhang Fang relationship, exact impeachment text, legal truth of the Zhang Fang charges, and Jingwu Princess marital chronology remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》542丨职场心理学：升职后为何更容易造排挤？
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling the Zhai Fangjin, Chen Xian, and Feng Xin relationship rupture around the Yushi Dafu competition and funeral inquiry. Created Chen Xian (Western Han), Feng Xin, and Promotion-Status Relationship Rupture; updated Zhai Fangjin, overview, and index. No settled contradiction found; Chen Xian and Feng Xin's motives, the full procedural record, and the Chen Tang-linked accusation remain source-scoped.
@@ -17663,6 +17667,10 @@ Added The Rest Is History source page for the opening 1915 Western Front episode
 ## [2026-09-12] ingest | How to Overcome Social Anxiety | Dr. Nick Epley
 
 Added Huberman Lab source on Nick Epley's social-connection research, mind reading, voice, underestimating strangers' interest, real exposure for social anxiety, adoption, Down syndrome, and modeled social habits. Created Nick Epley, Everyday Social Connection, Social Misprediction, Voice Humanization, Real Exposure for Social Anxiety, and Diagnosis Personhood Boundary. No settled contradiction found; clinical, family, disability, AI-voice, and loneliness physiology claims remain source-scoped.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
