@@ -91163,9 +91163,9 @@
       "url": "/wiki/entities/wangfulatehan/"
     },
     "WangGenWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -91208,9 +91208,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》553丨职场中如何识别明升暗降？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》547丨官场中，男人的嫉妒心有多可怕？ [luBTGhZ7gq89fu8qhlw06rcNClcU].md",
+          "key": "zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》547丨官场中，男人的嫉妒心有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/wanggenwesternhan/"
     },
     "WangGongTaiweiLateHan": {
@@ -101466,9 +101473,9 @@
       "url": "/wiki/entities/zhangyueasternhan/"
     },
     "ZhangYuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
@@ -101483,9 +101490,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》547丨官场中，男人的嫉妒心有多可怕？ [luBTGhZ7gq89fu8qhlw06rcNClcU].md",
+          "key": "zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》547丨官场中，男人的嫉妒心有多可怕？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/zhangyuwesternhan/"
     },
     "ZhangZhaoLateHan": {

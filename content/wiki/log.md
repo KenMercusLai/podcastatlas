@@ -17652,6 +17652,10 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongsh
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》547丨官场中，男人的嫉妒心有多可怕？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling the jealousy trigger before Hanji 548. Updated Wang Gen and Zhang Yu with Wang Li's blocked office path, Chengdi's contested land grant to Zhang Yu, Wang Gen's slander backfiring, and Zhang Yu's imperial-teacher honor layer. No settled contradiction found; transcript names 王庚/张渝 are normalized to the established Wang Gen/Zhang Yu routes, and land geography, Wang Li's legal case, and Zhang Yu's full scholarly career remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yuan延 1 / 12 BCE under Han Chengdi. Updated Gu Yong, Liu Xiang, Chen Xian, Zhai Fangjin, Wang Li, Promotion-Status Relationship Rupture, overview, and index with the disaster-remonstrance layer and Chen Xian's Wang Li-backed reappointment blocked by Zhai Fangjin. No settled contradiction found; Gu Yong and Liu Xiang's full memorial texts, Chen Xian's legal record, Wang Li's motive, and Zhai's private motive remain source-scoped.
@@ -17687,6 +17691,10 @@ Added The Rest Is History source page for the opening 1915 Western Front episode
 ## [2026-09-12] ingest | How to Overcome Social Anxiety | Dr. Nick Epley
 
 Added Huberman Lab source on Nick Epley's social-connection research, mind reading, voice, underestimating strangers' interest, real exposure for social anxiety, adoption, Down syndrome, and modeled social habits. Created Nick Epley, Everyday Social Connection, Social Misprediction, Voice Humanization, Real Exposure for Social Anxiety, and Diagnosis Personhood Boundary. No settled contradiction found; clinical, family, disability, AI-voice, and loneliness physiology claims remain source-scoped.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
