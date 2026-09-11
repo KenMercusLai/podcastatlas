@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7071
+wiki_total_pages: 7072
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1712,6 +1712,9 @@ wiki_pages:
   - key: "PublicOpinionLitigationStrategy"
     title: "Public Opinion Litigation Strategy"
     url: "/wiki/concepts/publicopinionlitigationstrategy/"
+  - key: "PublicReasonPrivateMotive"
+    title: "Public Reason / Private Motive Mismatch / 公开理由与私下动机错位"
+    url: "/wiki/concepts/publicreasonprivatemotive/"
   - key: "PublicRelevanceAlgorithms"
     title: "Public Relevance Algorithms / 公共相关性的算法"
     url: "/wiki/concepts/publicrelevancealgorithms/"

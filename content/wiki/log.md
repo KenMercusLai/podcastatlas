@@ -2044,6 +2044,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》541丨他是民族英雄，最后为何因贪入狱？
+
+Added source page for a 芮淇讲透资治通鉴 episode backfilling the Changling case between Hanji 540 and Hanji 542. Created `XieWannianWesternHan` and `PublicReasonPrivateMotive`; updated `ChenTangWesternHan`, `WangShangWesternHan`, `PingDangWesternHan`, `ChunyuZhangWesternHan`, `HanChengdi`, and `index`. No settled contradiction found; Chen Tang's exact corruption evidence, Wang Shang's full motive, Wang Hong's identity, the full Changling case file, and the transcript's "淳于常" name form remain source-scoped.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》553丨职场中如何识别明升暗降？
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Updated Wang Gen, He Wu, Han Chengdi, and Office Sequence Power Reallocation with the Three Excellencies restoration, Wang Gen's Da Sima formalization, and the "明升暗降" title-resource swap reading. No settled contradiction found; the full Three Excellencies institutional history, Kong Ji genealogy, and Liu Xing death context remain source-scoped.
@@ -17675,6 +17679,10 @@ Added The Rest Is History source page for the opening 1915 Western Front episode
 ## [2026-09-12] ingest | How to Overcome Social Anxiety | Dr. Nick Epley
 
 Added Huberman Lab source on Nick Epley's social-connection research, mind reading, voice, underestimating strangers' interest, real exposure for social anxiety, adoption, Down syndrome, and modeled social habits. Created Nick Epley, Everyday Social Connection, Social Misprediction, Voice Humanization, Real Exposure for Social Anxiety, and Diagnosis Personhood Boundary. No settled contradiction found; clinical, family, disability, AI-voice, and loneliness physiology claims remain source-scoped.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

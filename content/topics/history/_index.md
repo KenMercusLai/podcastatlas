@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1780
+topic_total_pages: 1781
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3734,6 +3734,9 @@ topic_entities:
   - key: "XuPingjunWesternHan"
     title: "许平君 / Xu Pingjun (Western Han)"
     url: "/wiki/entities/xupingjunwesternhan/"
+  - key: "XieWannianWesternHan"
+    title: "谢万年 / Xie Wannian (Western Han)"
+    url: "/wiki/entities/xiewannianwesternhan/"
   - key: "MiuLiu"
     title: "谬刘 / Miu Liu"
     url: "/wiki/entities/miuliu/"
