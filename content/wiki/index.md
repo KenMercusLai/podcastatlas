@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》530丨赵飞燕艳冠后宫，成帝为何更宠妹妹？](sources/zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j.md) — 芮淇讲透资治通鉴 episode on Zhao Hede entering Chengdi's palace, Zhao Feiyan's jealousy management, Empress Xu's wugu accusation, and Ban Jieyu's calm defense and retreat.
 - [《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！](sources/zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh.md) — 芮淇讲透资治通鉴 episode on Ban Jieyu answering a wugu accusation through motive-based defense, with Zhao Feiyan's preventive rivalry and modern slander-response lessons.
 - [《资治通鉴·汉纪》532丨西汉最大的农民起义，领导者是他？](sources/zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z.md) — 芮淇讲透资治通鉴 episode on Zheng Gong's Guanghan uprising, survival-pressure rebellion, Zhao Hu's suppression campaign, and Li Xun's observation-first Yellow River flood advice.
 - [《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？](sources/zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7.md) — 芮淇讲透资治通鉴 episode on Chengdi empowering Wang Shang to check Wang Yin, Du Ye's mediation, and sincere consultation defeating internal Wang-family balancing.

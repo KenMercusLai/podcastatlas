@@ -10,14 +10,17 @@ sources:
   - zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo
   - zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n
   - zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm
+  - zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-赵合德 / Zhao Hede enters this wiki through [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] as [[HanChengdi|汉成帝]]'s favored consort and the central named target in accusations that Chengdi and Hede repeatedly killed imperial sons. [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] adds the earlier favor-and-protection layer: Zhao Hede receives the lavish Zhaoyang Palace, defends [[ZhaoFeiyanWesternHan|赵飞燕]] against adultery reports, and shares the childlessness insecurity that makes other pregnancies politically dangerous. [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] supplies the [[CaoGongWesternHan|曹宫]] case narrative, while [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] supplies the [[XuMeirenWesternHan|徐美人]] sealed-box case. [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] adds the immediate death-room and investigation context: Zhao Hede is beside Chengdi when he suddenly collapses, then kills herself after Wang Zhengjun orders a formal inquiry. [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] adds the reception layer: the Zhao sisters' later sexualized notoriety may reveal gendered blame and literary moral performance as much as stable fact. The received suspicion is historically important but remains evidentially unstable in the wiki.
+赵合德 / Zhao Hede now enters this wiki through [[zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j|Hanji 530]] as [[ZhaoFeiyanWesternHan|赵飞燕]]'s younger sister whose beauty makes [[HanChengdi|汉成帝]] manage Zhao Feiyan's jealousy and bring her into the palace. [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] later makes her Chengdi's favored consort and the central named target in accusations that Chengdi and Hede repeatedly killed imperial sons. [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] adds the later favor-and-protection layer: Zhao Hede receives the lavish Zhaoyang Palace, defends Zhao Feiyan against adultery reports, and shares the childlessness insecurity that makes other pregnancies politically dangerous. [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] supplies the [[CaoGongWesternHan|曹宫]] case narrative, while [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] supplies the [[XuMeirenWesternHan|徐美人]] sealed-box case. [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] adds the immediate death-room and investigation context: Zhao Hede is beside Chengdi when he suddenly collapses, then kills herself after Wang Zhengjun orders a formal inquiry. [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] adds the reception layer: the Zhao sisters' later sexualized notoriety may reveal gendered blame and literary moral performance as much as stable fact. The received suspicion is historically important but remains evidentially unstable in the wiki.
 
 ## Current Profile
+
+Hanji 530 makes Zhao Hede's first palace function relational and destabilizing. She initially declines Chengdi's summons by pointing to Zhao Feiyan's exclusive favor, which the host reads as awareness of sisterly jealousy. Chengdi answers by rewarding Zhao Feiyan and improving her palace arrangements before bringing Zhao Hede in. The same source presents Zhao Hede's beauty as even more compelling than Zhao Feiyan's and makes her arrival the start of a concentrated Zhao-sister favor field that displaces Empress Xu and Ban Jieyu.
 
 Hanji 536-1 makes Zhao Hede active before the later missing-child cases. The source says Chengdi gives her the unusually ornate Zhaoyang Palace and favors her more than Zhao Feiyan. When Chengdi hints that he has heard reports about Zhao Feiyan's hidden men, Zhao Hede cries, frames the reports as slander, and wins Chengdi's promise not to believe them; afterward, informers are reportedly executed. The episode then says Zhao Feiyan rewards Zhao Hede with a male favorite and that the sisters' shared childlessness drives fear of rival pregnancies.
 
@@ -35,7 +38,7 @@ The profile therefore remains qualified. Zhao Hede is neither exonerated nor tre
 
 ## Key Characteristics
 
-- Western Han favored consort whose lavish palace and practical favor exceed Zhao Feiyan's formal-empress advantage.
+- Western Han favored consort whose palace entry is mediated through Chengdi's management of Zhao Feiyan's jealousy and whose later lavish palace and practical favor exceed Zhao Feiyan's formal-empress advantage.
 - Active shield for Zhao Feiyan in Hanji 536-1, turning adultery reports into slander in Chengdi's eyes.
 - Source-scoped suspect in the `Han Shu` and `Zizhi Tongjian` tradition, not a fully adjudicated actor in this wiki.
 - Present at Chengdi's sudden morning collapse and then exposed as the immediate target of post-death rumor and investigation.
@@ -46,6 +49,8 @@ The profile therefore remains qualified. Zhao Hede is neither exonerated nor tre
 ## Evidence
 
 - Received suspicion: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says `Han Shu` and `Zizhi Tongjian` both imply Chengdi and Zhao Hede killed imperial sons.
+- Palace entry: [[zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j|Hanji 530]] says Zhao Hede first resists entering because Zhao Feiyan is already the exclusive favorite, then enters after Chengdi rewards and reassures Zhao Feiyan.
+- Beauty and preference: [[zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j|Hanji 530]] presents Zhao Hede as more captivating than Zhao Feiyan and as the reason Chengdi's favor shifts toward the younger sister.
 - Death rumor and suicide: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says popular rumor blamed Zhao Hede for Chengdi's sudden death and that she killed herself after Wang Zhengjun ordered investigation.
 - Death-room exposure: [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] says Zhao Hede was beside Chengdi when his morning dressing collapse occurred.
 - Political blame pressure: [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] argues that Zhao Hede's weak protection and scandalous proximity made her a convenient answer after a death the court could not explain publicly as sexual-drug disgrace.
@@ -62,12 +67,12 @@ The profile therefore remains qualified. Zhao Hede is neither exonerated nor tre
 
 ## Qualifications
 
-This page is bounded to Hanji 571, Hanji 572, Hanji 573, Hanji 561, and Hanji 536-1. Hanji 536-1 supplies an early scandal-and-favor layer; Hanji 571-572 supply grave accusation narratives; Hanji 561 supplies the death-room and political-blame context; and Hanji 573 warns against treating the combined narrative as fully settled. The page does not settle Zhao Hede's guilt, the full legal record, Chengdi's exact death cause, or the medical explanation for the deaths of Chengdi's children. Hanji 536-1's fertility-drug and reproductive-interference claims, Hanji 561's aphrodisiac-pill tradition, and Hanji 573's family-health argument all remain source-scoped rather than proof.
+This page is bounded to Hanji 530, Hanji 571, Hanji 572, Hanji 573, Hanji 561, and Hanji 536-1. Hanji 530 supplies the palace-entry and favor-shift layer; Hanji 536-1 supplies an early scandal-and-favor layer; Hanji 571-572 supply grave accusation narratives; Hanji 561 supplies the death-room and political-blame context; and Hanji 573 warns against treating the combined narrative as fully settled. The page does not settle Zhao Hede's guilt, the full legal record, Chengdi's exact death cause, or the medical explanation for the deaths of Chengdi's children. Hanji 530's beauty and psychology claims, Hanji 536-1's fertility-drug and reproductive-interference claims, Hanji 561's aphrodisiac-pill tradition, and Hanji 573's family-health argument all remain source-scoped rather than proof.
 
 ## What Changed
 
-- Added Hanji 536-4's reception layer: Zhao Hede is now explicitly treated as part of the Zhao sisters' gendered literary-memory problem.
-- Preserved Hanji 536-1's earlier practical-favor and sister-protection layer: Zhao Hede's palace luxury, emotional defense of Zhao Feiyan, and shared childlessness precede the later accusation field.
+- Added Hanji 530's palace-entry layer: Zhao Hede's arrival depends on Chengdi's jealousy management and immediately shifts favor pressure onto the existing consorts.
+- Preserved Hanji 536-4's reception layer: Zhao Hede is explicitly treated as part of the Zhao sisters' gendered literary-memory problem.
 - Preserved Hanji 573's caution against letting scandal narration become a complete explanation for Chengdi's heir failure.
 
 ## Relationships

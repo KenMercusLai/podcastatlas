@@ -2048,6 +2048,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》530丨赵飞燕艳冠后宫，成帝为何更宠妹妹？
+
+Added source. Key claims: Zhao Hede's entry into Chengdi's palace required managing Zhao Feiyan's jealousy; Chengdi's concentrated favor displaced Empress Xu and Ban Jieyu; Xu Ye's ritual prayer became a wugu-style accusation against Empress Xu; Ban Jieyu survived by motive-based reasoning and then retreated to Changxin Palace.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》541丨他是民族英雄，最后为何因贪入狱？
 
 Added source page for a 芮淇讲透资治通鉴 episode backfilling the Changling case between Hanji 540 and Hanji 542. Created `XieWannianWesternHan` and `PublicReasonPrivateMotive`; updated `ChenTangWesternHan`, `WangShangWesternHan`, `PingDangWesternHan`, `ChunyuZhangWesternHan`, `HanChengdi`, and `index`. No settled contradiction found; Chen Tang's exact corruption evidence, Wang Shang's full motive, Wang Hong's identity, the full Changling case file, and the transcript's "淳于常" name form remain source-scoped.
@@ -17802,6 +17806,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

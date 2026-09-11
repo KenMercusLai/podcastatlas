@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1011
+topic_total_pages: 1012
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -2997,6 +2997,9 @@ topic_sources:
   - key: "your-top-health-questions-answered-scim2882548864"
     title: "Your Top Health Questions Answered"
     url: "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+  - key: "zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j"
+    title: "《资治通鉴·汉纪》530丨赵飞燕艳冠后宫，成帝为何更宠妹妹？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j/"
   - key: "zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt"
     title: "《资治通鉴·汉纪》627-1丨【女性必听】独特视角：经期隐喻背后的历史智慧"
     url: "/wiki/sources/zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt/"
