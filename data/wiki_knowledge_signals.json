@@ -24139,9 +24139,9 @@
       "url": "/wiki/entities/duanguilatehan/"
     },
     "DuanHuizongWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
@@ -24149,9 +24149,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
+          "key": "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/duanhuizongwesternhan/"
     },
     "DuanJiongLateHan": {
@@ -25067,6 +25074,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/edwardtheconfessor/"
+    },
+    "EffectMeasuredPersonnelSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
+          "key": "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/effectmeasuredpersonnelselection/"
     },
     "EffectiveConfusionOdysseyPeriod": {
       "episode_count": 1,
@@ -70750,6 +70773,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"
     },
+    "PreventiveFrontierGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
+          "key": "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/preventivefrontiergovernance/"
+    },
     "PreventiveHealthScreening": {
       "episode_count": 5,
       "show_count": 4,
@@ -92185,6 +92224,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wanghuoxinprince/"
     },
+    "WangJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
+          "key": "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangjiwesternhan/"
+    },
     "WangJiaShuScholar": {
       "episode_count": 1,
       "show_count": 1,
@@ -92320,6 +92375,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangjiye/"
+    },
+    "WangJunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
+          "key": "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangjunwesternhan/"
     },
     "WangJunXinGeneral": {
       "episode_count": 2,
@@ -94459,9 +94530,9 @@
       "url": "/wiki/concepts/westernhanlimitlandandslaves/"
     },
     "WesternRegionsProtectorate": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -94476,9 +94547,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》652丨王莽的外科手术",
           "url": "/wiki/sources/zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
+          "key": "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/westernregionsprotectorate/"
     },
     "Westlaw": {
@@ -100334,6 +100412,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/yuchunorthernxiongnu/"
     },
+    "YuDingguoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
+          "key": "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yudingguowesternhan/"
+    },
     "YuFan": {
       "episode_count": 3,
       "show_count": 1,
@@ -100517,6 +100611,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/yuyaneasternhan/"
+    },
+    "YuYongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
+          "key": "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yuyongwesternhan/"
     },
     "YuanAnEasternHan": {
       "episode_count": 7,

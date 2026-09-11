@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？](sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz.md) — 芮淇讲透资治通鉴 episode on Chengdi's constrained Wang-family balancing, Yu Yong and Wang Jun personnel background, Duan Huizong's quiet Western Regions governance, and effect-based official selection.
 - [《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？](sources/zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw.md) — 芮淇讲透资治通鉴 episode on Han Chengdi's disguised outings, Zhang Fang household cover, Zhang Yu's privileged retirement, Wang Yin's pheasant-omen remonstrance, and no-heir pressure.
 - [《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？](sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub.md) — 芮淇讲透资治通鉴 episode on Western Han mausoleum counties, Guandong elite relocation, Chen Tang's Changlingyi memorial, and the public/private logic of capital-region household status.
 - [《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！](sources/zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn.md) — 芮淇讲透资治通鉴 short episode on Wang-family luxury, Chengdi's Bo Zhao warning, and staged awaiting-punishment repentance.
@@ -2240,6 +2241,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [于定国 / Yu Dingguo](entities/YuDingguoWesternHan.md) — Western Han senior official used by Hanji 524 as Yu Yong's chancellor-family background.
+- [于永 / Yu Yong (Western Han)](entities/YuYongWesternHan.md) — Chengdi-era official whose family prestige, later self-cultivation, Yushi Dafu appointment, and death before chancellorship frame personnel selection in Hanji 524.
+- [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose advice record under Liu He becomes Wang Jun's family-reputation background.
+- [王骏 / Wang Jun (Western Han)](entities/WangJunWesternHan.md) — Jingzhao Yin appointed by Han Chengdi and framed through practical office reputation and Wang Ji's remonstrance tradition.
 - [《二年律令》 / Er Nian Lu Ling](entities/ErNianLuLing.md) — Excavated Han legal text used in Hanji 527-2 to discuss punishment for abducting, selling, and buying trafficked people.
 - [《盲山》 / Blind Mountain](entities/BlindMountainFilm.md) — Film example used in Hanji 527-2 to connect modern forced marriage, captivity, and public imagination around trafficking.
 - [于华英案 / Yu Huaying Case](entities/YuHuayingCase.md) — Contemporary child-trafficking case used in Hanji 527-2 to foreground family trauma and legal stakes.
@@ -12000,6 +12005,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [治未病式边疆治理 / Preventive Frontier Governance](concepts/PreventiveFrontierGovernance.md) — Frontier-administration pattern where success appears as prevented crisis, created from Duan Huizong's quiet Western Regions tenure.
+- [实效考察式用人 / Effect-Measured Personnel Selection](concepts/EffectMeasuredPersonnelSelection.md) — Personnel-selection principle that tests actual administrative effect rather than relying only on reputation, family, or moral image.
 - [待刑谢罪式政治表演 / Awaiting-Punishment Performance](concepts/AwaitingPunishmentPerformance.md) — Pattern where exaggerated submission and execution imagery turn threatened punishment into a politically costly mercy test.
 - [反拐公共关注 / Public Attention Against Trafficking](concepts/PublicAttentionAgainstTrafficking.md) — Civic refusal to treat trafficking as invisible, distant, or already solved.
 - [汉代拐卖惩治 / Han Trafficking Law Deterrence](concepts/HanTraffickingLawDeterrence.md) — Early Han legal-punishment frame that makes abduction, resale, and buyer participation punishable.

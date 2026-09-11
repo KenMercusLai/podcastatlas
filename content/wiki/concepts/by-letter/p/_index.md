@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7093
+wiki_total_pages: 7095
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1910,6 +1910,9 @@ wiki_pages:
   - key: "PalaceCoupUnderPolicingPretext"
     title: "治安名义政变 / Palace Coup Under Policing Pretext"
     url: "/wiki/concepts/palacecoupunderpolicingpretext/"
+  - key: "PreventiveFrontierGovernance"
+    title: "治未病式边疆治理 / Preventive Frontier Governance"
+    url: "/wiki/concepts/preventivefrontiergovernance/"
   - key: "PaternalLocalOfficeEthic"
     title: "父母官式地方官伦理 / Paternal Local Office Ethic"
     url: "/wiki/concepts/paternallocalofficeethic/"

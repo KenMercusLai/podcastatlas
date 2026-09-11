@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9756
+wiki_total_pages: 9760
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -365,12 +365,18 @@ wiki_pages:
   - key: "YuHuayingCase"
     title: "于华英案 / Yu Huaying Case"
     url: "/wiki/entities/yuhuayingcase/"
+  - key: "YuDingguoWesternHan"
+    title: "于定国 / Yu Dingguo"
+    url: "/wiki/entities/yudingguowesternhan/"
   - key: "YufuluoChanyu"
     title: "于扶罗 / Yufuluo Chanyu"
     url: "/wiki/entities/yufuluochanyu/"
   - key: "YuDuLateHan"
     title: "于毒 / Yu Du (Late Han)"
     url: "/wiki/entities/yudulatehan/"
+  - key: "YuYongWesternHan"
+    title: "于永 / Yu Yong (Western Han)"
+    url: "/wiki/entities/yuyongwesternhan/"
   - key: "YuJin"
     title: "于禁 / Yu Jin"
     url: "/wiki/entities/yujin/"

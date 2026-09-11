@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2393
+topic_total_pages: 2395
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3688,6 +3688,9 @@ topic_concepts:
   - key: "ImperialClassicsConsensusBuilding"
     title: "官方经学定议 / Imperial Classics Consensus Building"
     url: "/wiki/concepts/imperialclassicsconsensusbuilding/"
+  - key: "EffectMeasuredPersonnelSelection"
+    title: "实效考察式用人 / Effect-Measured Personnel Selection"
+    url: "/wiki/concepts/effectmeasuredpersonnelselection/"
   - key: "CourtBackchannelSurvival"
     title: "宫廷后门自救 / Court Backchannel Survival"
     url: "/wiki/concepts/courtbackchannelsurvival/"
@@ -3826,6 +3829,9 @@ topic_concepts:
   - key: "BianquHydraulicGovernance"
     title: "汴渠水利治理 / Bianqu Hydraulic Governance"
     url: "/wiki/concepts/bianquhydraulicgovernance/"
+  - key: "PreventiveFrontierGovernance"
+    title: "治未病式边疆治理 / Preventive Frontier Governance"
+    url: "/wiki/concepts/preventivefrontiergovernance/"
   - key: "FactionalAlignmentExitCapital"
     title: "派系站队退出资本 / Factional Alignment Exit Capital"
     url: "/wiki/concepts/factionalalignmentexitcapital/"

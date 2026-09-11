@@ -18487,6 +18487,10 @@
     "title": "Eel Seed Price Volatility / 鳗苗价格波动",
     "url": "/wiki/concepts/eelseedpricevolatility/"
   },
+  "EffectMeasuredPersonnelSelection": {
+    "title": "实效考察式用人 / Effect-Measured Personnel Selection",
+    "url": "/wiki/concepts/effectmeasuredpersonnelselection/"
+  },
   "EffectiveAltruism": {
     "title": "Effective Altruism",
     "url": "/wiki/concepts/effectivealtruism/"
@@ -46675,6 +46679,10 @@
     "title": "Preventive Care Cost-Savings Uncertainty / 预防医疗控费不确定性",
     "url": "/wiki/concepts/preventivecarecostsavingsuncertainty/"
   },
+  "PreventiveFrontierGovernance": {
+    "title": "治未病式边疆治理 / Preventive Frontier Governance",
+    "url": "/wiki/concepts/preventivefrontiergovernance/"
+  },
   "PreventiveHealthScreening": {
     "title": "Preventive Health Screening",
     "url": "/wiki/concepts/preventivehealthscreening/"
@@ -61731,6 +61739,10 @@
     "title": "王稽 / Wang Ji (Qin envoy)",
     "url": "/wiki/entities/wangjiqin/"
   },
+  "WangJiWesternHan": {
+    "title": "王吉 / Wang Ji (Western Han)",
+    "url": "/wiki/entities/wangjiwesternhan/"
+  },
   "WangJiaShuScholar": {
     "title": "王家 / Wang Jia (Shu Scholar)",
     "url": "/wiki/entities/wangjiashuscholar/"
@@ -61766,6 +61778,10 @@
   "WangJiye": {
     "title": "王季叶 / Wang Jiye",
     "url": "/wiki/entities/wangjiye/"
+  },
+  "WangJunWesternHan": {
+    "title": "王骏 / Wang Jun (Western Han)",
+    "url": "/wiki/entities/wangjunwesternhan/"
   },
   "WangJunXinGeneral": {
     "title": "王骏 / Wang Jun (Xin general)",
@@ -66243,6 +66259,10 @@
     "title": "于除 / 俞厨 / Yu Chu (Northern Xiongnu)",
     "url": "/wiki/entities/yuchunorthernxiongnu/"
   },
+  "YuDingguoWesternHan": {
+    "title": "于定国 / Yu Dingguo",
+    "url": "/wiki/entities/yudingguowesternhan/"
+  },
   "YuDuLateHan": {
     "title": "于毒 / Yu Du (Late Han)",
     "url": "/wiki/entities/yudulatehan/"
@@ -66334,6 +66354,10 @@
   "YuYingshi": {
     "title": "余英时 / Yu Yingshi",
     "url": "/wiki/entities/yuyingshi/"
+  },
+  "YuYongWesternHan": {
+    "title": "于永 / Yu Yong (Western Han)",
+    "url": "/wiki/entities/yuyongwesternhan/"
   },
   "YuanAnEasternHan": {
     "title": "袁安 / Yuan An (Eastern Han)",
@@ -73498,6 +73522,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz": {
+    "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
   },
   "zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw": {
     "title": "《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？",

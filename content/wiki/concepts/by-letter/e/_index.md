@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7093
+wiki_total_pages: 7095
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -920,6 +920,9 @@ wiki_pages:
   - key: "EliteEndorsementReputationMaking"
     title: "名士背书式造势 / Elite-Endorsement Reputation Making"
     url: "/wiki/concepts/eliteendorsementreputationmaking/"
+  - key: "EffectMeasuredPersonnelSelection"
+    title: "实效考察式用人 / Effect-Measured Personnel Selection"
+    url: "/wiki/concepts/effectmeasuredpersonnelselection/"
   - key: "EarlyChineseBuddhismCourtTransmission"
     title: "早期中国佛教宫廷传播 / Early Chinese Buddhism Court Transmission"
     url: "/wiki/concepts/earlychinesebuddhismcourttransmission/"

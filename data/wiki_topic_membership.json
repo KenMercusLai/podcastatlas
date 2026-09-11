@@ -22238,6 +22238,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "EffectMeasuredPersonnelSelection": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EffectiveConfusionOdysseyPeriod": [
     {
       "key": "science",
@@ -52148,6 +52155,13 @@
       "label": "Economics",
       "url": "/topics/economics/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "PreventiveFrontierGovernance": [
     {
       "key": "politics",
       "label": "Politics",
