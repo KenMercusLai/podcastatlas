@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9760
+wiki_total_pages: 9762
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -1013,6 +1013,9 @@ wiki_pages:
   - key: "YingchuanCommandery"
     title: "颍川郡 / Yingchuan Commandery"
     url: "/wiki/entities/yingchuancommandery/"
+  - key: "YingchuanIronOfficeUprising"
+    title: "颍川铁官徒起义 / Yingchuan Iron-Office Uprising"
+    url: "/wiki/entities/yingchuanironofficeuprising/"
   - key: "YanHui"
     title: "颜回 / Yan Hui"
     url: "/wiki/entities/yanhui/"

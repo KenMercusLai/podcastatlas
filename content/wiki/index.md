@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》523丨古代农民起义总失败？没理想or见识短？](sources/zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup.md) — 芮淇讲透资治通鉴 episode on the 22 BCE Yingchuan iron-office convict uprising, peasant-rebel organization limits, and Wang Feng's deathbed recommendation of Wang Yin over Wang Tan.
 - [《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？](sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz.md) — 芮淇讲透资治通鉴 episode on Chengdi's constrained Wang-family balancing, Yu Yong and Wang Jun personnel background, Duan Huizong's quiet Western Regions governance, and effect-based official selection.
 - [《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？](sources/zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw.md) — 芮淇讲透资治通鉴 episode on Han Chengdi's disguised outings, Zhang Fang household cover, Zhang Yu's privileged retirement, Wang Yin's pheasant-omen remonstrance, and no-heir pressure.
 - [《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？](sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub.md) — 芮淇讲透资治通鉴 episode on Western Han mausoleum counties, Guandong elite relocation, Chen Tang's Changlingyi memorial, and the public/private logic of capital-region household status.
@@ -2248,6 +2249,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《二年律令》 / Er Nian Lu Ling](entities/ErNianLuLing.md) — Excavated Han legal text used in Hanji 527-2 to discuss punishment for abducting, selling, and buying trafficked people.
 - [《盲山》 / Blind Mountain](entities/BlindMountainFilm.md) — Film example used in Hanji 527-2 to connect modern forced marriage, captivity, and public imagination around trafficking.
 - [于华英案 / Yu Huaying Case](entities/YuHuayingCase.md) — Contemporary child-trafficking case used in Hanji 527-2 to foreground family trauma and legal stakes.
+- [颍川铁官徒起义 / Yingchuan Iron-Office Uprising](entities/YingchuanIronOfficeUprising.md) — Yangshuo 3 / 22 BCE Western Han coercive-labor uprising led by Shentu Sheng from an iron-office site.
+- [申屠圣 / Shentu Sheng (Western Han)](entities/ShentuShengWesternHan.md) — Leader of the 22 BCE Yingchuan iron-office convict uprising.
 - [广汉郑公起义 / Guanghan Zheng Gong Uprising](entities/GuanghanZhengGongUprising.md) — Hongjia-era Western Han uprising framed as survival pressure under official abuse and livelihood collapse.
 - [李勋 / Li Xun (Western Han flood-control adviser)](entities/LiXunFloodControlWesternHan.md) — Pingling adviser whose Yellow River proposal favors observing the breach before forced repair.
 - [赵护 / Zhao Hu (Western Han)](entities/ZhaoHuWesternHan.md) — Official appointed to Guanghan and rewarded after the suppression of Zheng Gong's uprising.
@@ -12012,7 +12015,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [汉代拐卖惩治 / Han Trafficking Law Deterrence](concepts/HanTraffickingLawDeterrence.md) — Early Han legal-punishment frame that makes abduction, resale, and buyer participation punishable.
 - [拐卖需求端责任 / Demand-Side Trafficking Liability](concepts/DemandSideTraffickingLiability.md) — Accountability frame for purchasers and receiving households inside trafficking markets.
 - [人口拐卖家庭创伤 / Human Trafficking Family Trauma](concepts/HumanTraffickingFamilyTrauma.md) — Long-term family and relational harm produced by abduction, sale, forced marriage, and unresolved disappearance.
-- [生存压力型起义 / Survival Pressure Rebellion](concepts/SurvivalPressureRebellion.md) — Pattern where official pressure and livelihood collapse make armed local revolt legible as survival action.
+- [生存压力型起义 / Survival Pressure Rebellion](concepts/SurvivalPressureRebellion.md) — Pattern where official pressure, coercive labor, and livelihood collapse make armed local revolt legible as survival action.
 - [真诚共治式冲突降温 / Sincere Power-Sharing De-escalation](concepts/SincerePowerSharingDeescalation.md) — Conflict pattern where rivals with overlapping authority reduce factional competition through sincere consultation and shared institutional interest.
 - [Effective Confusion In The Odyssey Period / 有效迷茫](concepts/EffectiveConfusionOdysseyPeriod.md) — Frame for treating young-adult迷茫 as a self-discovery process involving false confusion, existential meaning, practice, embodiment, and support.
 - [亲缘政治切割 / Kinship Political Cutting](concepts/KinshipPoliticalCutting.md) — Pattern where a court actor publicly distances from risky family-adjacent ties for political self-protection.

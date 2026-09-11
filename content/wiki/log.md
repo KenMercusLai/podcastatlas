@@ -17680,6 +17680,10 @@ Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Await
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》523丨古代农民起义总失败？没理想or见识短？
+
+Ingested source note, added Yingchuan iron-office uprising and Shentu Sheng pages, and updated Wang-family and survival-pressure synthesis pages.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》529丨美艳姐妹花！西汉最大的“祸水”登场！
 
 Added source note for Hanji 529, created YangAPrincessWesternHan and PalacePerformerFavorMobility, and extended Zhao Feiyan, Zhao Hede, Han Chengdi, and gendered consort scapegoating synthesis around the Zhao sisters' origin stories, Yang'a household performance route, and source-scoped "祸水" framing.
@@ -17834,6 +17838,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
