@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9769
+wiki_total_pages: 9772
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "ZhangshuiAlliance"
     title: "漳水之盟 / Zhangshui Alliance"
     url: "/wiki/entities/zhangshuialliance/"
+  - key: "ZhangkeCommanderyWesternHan"
+    title: "牂柯郡 / Zhangke Commandery"
+    url: "/wiki/entities/zhangkecommanderywesternhan/"
   - key: "ZhuBajie"
     title: "猪八戒"
     url: "/wiki/entities/zhubajie/"

@@ -23992,9 +23992,9 @@
       "url": "/wiki/entities/duqiaolatehan/"
     },
     "DuQingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？ [lh1iBhc9xsihTrH6mHZznqQ9IoSO].md",
@@ -24002,6 +24002,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
+          "key": "zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb/"
         }
       ],
       "updated": "2026-09-12",
@@ -70912,9 +70919,9 @@
       "url": "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"
     },
     "PreventiveFrontierGovernance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
@@ -70922,6 +70929,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
+          "key": "zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb/"
         }
       ],
       "updated": "2026-09-12",
@@ -100061,6 +100075,38 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/yelumureka/"
     },
+    "YelangKingXingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
+          "key": "zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yelangkingxingwesternhan/"
+    },
+    "YelangStateWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
+          "key": "zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yelangstatewesternhan/"
+    },
     "YellowRiver": {
       "episode_count": 3,
       "show_count": 1,
@@ -103042,6 +103088,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhangjiashanhanmuzhujian/"
+    },
+    "ZhangkeCommanderyWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！ [lufpmcdwb20dHX2QXFjwS7-QDPKb].md",
+          "key": "zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhangkecommanderywesternhan/"
     },
     "ZhankaiJiangjiang": {
       "episode_count": 1,

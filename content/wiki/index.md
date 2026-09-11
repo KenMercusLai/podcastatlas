@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！](sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb.md) — 芮淇讲透资治通鉴 episode on Ye Lang King Xing, Zhangke Commandery risk, Du Qing's preventive frontier advice, and appointment fit before the transcript reaches Chen Li's execution sequence.
 - [《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？](sources/zizhi-tongjian-hanji-520-daji-duishou-weishenme-yao-xian-faqi-yulunzhan-lh1ibhc9xsihtrh6mhzznqq9ioso.md) — 芮淇讲透资治通鉴 episode on Wang Feng's post-Wang Zhang power field, Feng Yewang's impeachment, Du Qing's procedural warning, and remonstrance-channel repair as legitimacy work.
 - [2026秋季篇E02 空气有毒！四日市公害事件始末](sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky.md) — 日谈物语 E02 opening that follows up on the Unification Church and frames the Yokkaichi pollution incident as a transcript-limited "serial murder case without a killer."
 - [《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？](sources/zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr.md) — 芮淇讲透资治通鉴 episode on Xue Xuan's public non-instruction of his son Xue Hui, law-as-teacher rhetoric, Hu Sanxing's caution, and deniable bureaucratic patronage signaling.
@@ -2246,6 +2247,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [夜郎 / Ye Lang (Western Han)](entities/YelangStateWesternHan.md) — Southwestern polity whose conflict and ruler's provocation drive the Hanji 512 frontier crisis.
+- [夜郎王兴 / Ye Lang King Xing](entities/YelangKingXingWesternHan.md) — Ye Lang ruler who rejects Han mediation and becomes Du Qing's example of a consolidating frontier threat.
+- [牂柯郡 / Zhangke Commandery](entities/ZhangkeCommanderyWesternHan.md) — Western Han southwestern commandery threatened by Ye Lang-centered conflict and used as the case for distance, supply, and appointment fit.
 - [杜清 / Du Qing (Western Han)](entities/DuQingWesternHan.md) — Western Han adviser who turns Feng Yewang's impeachment and Wang Zhang's secret charges into warnings about legal credibility and open remonstrance.
 - [冯野王 / Feng Yewang (Western Han)](entities/FengYewangWesternHan.md) — Western Han official whose sick-leave impeachment becomes a procedural test after Wang Zhang's death.
 - [Unification Church / 统一教会](entities/UnificationChurch.md) — Religion-and-politics entity appearing in the 日谈物语 E02 legal follow-up around Han Hak-ja.

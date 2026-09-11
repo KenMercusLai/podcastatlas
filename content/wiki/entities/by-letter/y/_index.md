@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9769
+wiki_total_pages: 9772
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -467,6 +467,12 @@ wiki_pages:
   - key: "Yuanyong"
     title: "垣雍 / Yuanyong"
     url: "/wiki/entities/yuanyong/"
+  - key: "YelangStateWesternHan"
+    title: "夜郎 / Ye Lang (Western Han)"
+    url: "/wiki/entities/yelangstatewesternhan/"
+  - key: "YelangKingXingWesternHan"
+    title: "夜郎王兴 / Ye Lang King Xing"
+    url: "/wiki/entities/yelangkingxingwesternhan/"
   - key: "YuTheGreat"
     title: "大禹 / Yu the Great"
     url: "/wiki/entities/yuthegreat/"
