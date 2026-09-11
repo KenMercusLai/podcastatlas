@@ -17434,6 +17434,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/consentlessfacialsearch/"
     },
+    "ConsortHeirSecuritySpiral": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？ [llxo0MY5NGP-mNBvJbL92YoD1x2n].md",
+          "key": "zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/consortheirsecurityspiral/"
+    },
     "ConsortioGroupFinancing": {
       "episode_count": 1,
       "show_count": 1,
@@ -53596,9 +53612,9 @@
       "url": "/wiki/entities/liuxianlatehan/"
     },
     "LiuXiang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙” [lh-H-geZpQtFvnyq40zLQac8s-5e].md",
@@ -53613,6 +53629,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？ [llxo0MY5NGP-mNBvJbL92YoD1x2n].md",
+          "key": "zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
         }
       ],
       "updated": "2026-09-12",
@@ -58682,6 +58705,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/maternalstatussuccessionleverage/"
+    },
+    "MausoleumFrugalityRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？ [llxo0MY5NGP-mNBvJbL92YoD1x2n].md",
+          "key": "zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/mausoleumfrugalityremonstrance/"
     },
     "MavisDuanReporter": {
       "episode_count": 1,
@@ -101758,9 +101797,9 @@
       "url": "/wiki/entities/zhaodulatehan/"
     },
     "ZhaoFeiyanWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？ [lkaCfnDVI8t1opeP67XmqUyzR_wW].md",
@@ -101789,15 +101828,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？ [llxo0MY5NGP-mNBvJbL92YoD1x2n].md",
+          "key": "zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
         }
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhaofeiyanwesternhan/"
     },
     "ZhaoHedeWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？ [lkaCfnDVI8t1opeP67XmqUyzR_wW].md",
@@ -101826,9 +101872,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》561丨惨惨惨！揭秘吃催情药死的皇帝NO.1！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？ [llxo0MY5NGP-mNBvJbL92YoD1x2n].md",
+          "key": "zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/zhaohedewesternhan/"
     },
     "ZhaoJinLateHan": {

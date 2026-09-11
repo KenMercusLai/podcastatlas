@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7075
+wiki_total_pages: 7077
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1394,6 +1394,9 @@ wiki_pages:
   - key: "ConsiderTheOppositeBiasCorrection"
     title: "Consider-The-Opposite Bias Correction / 反向设想偏见校正"
     url: "/wiki/concepts/considertheoppositebiascorrection/"
+  - key: "ConsortHeirSecuritySpiral"
+    title: "Consort Heir Security Spiral / 后宫子嗣安全螺旋"
+    url: "/wiki/concepts/consortheirsecurityspiral/"
   - key: "ConsortioGroupFinancing"
     title: "Consortio Group Financing"
     url: "/wiki/concepts/consortiogroupfinancing/"
