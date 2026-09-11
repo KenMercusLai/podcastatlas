@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2392
+topic_total_pages: 2393
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3730,6 +3730,9 @@ topic_concepts:
   - key: "CoerciveFrontierDeterrence"
     title: "强制边疆震慑 / Coercive Frontier Deterrence"
     url: "/wiki/concepts/coercivefrontierdeterrence/"
+  - key: "AwaitingPunishmentPerformance"
+    title: "待刑谢罪式政治表演 / Awaiting-Punishment Performance"
+    url: "/wiki/concepts/awaitingpunishmentperformance/"
   - key: "XuzhouMutualKingship"
     title: "徐州相王 / Xuzhou Mutual Kingship"
     url: "/wiki/concepts/xuzhoumutualkingship/"

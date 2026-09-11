@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7091
+wiki_total_pages: 7092
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"

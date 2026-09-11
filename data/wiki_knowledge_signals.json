@@ -8052,6 +8052,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/aviationinfrastructureurbandevelopment/"
     },
+    "AwaitingPunishmentPerformance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！ [lioH59YBAjVtCM3aYZpLFoywSWSn].md",
+          "key": "zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/awaitingpunishmentperformance/"
+    },
     "AwarenessMeditationStoryDropping": {
       "episode_count": 2,
       "show_count": 1,
@@ -38854,9 +38870,9 @@
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanChengdi": {
-      "episode_count": 22,
+      "episode_count": 23,
       "show_count": 1,
-      "source_note_count": 22,
+      "source_note_count": 23,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -39011,6 +39027,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》529丨美艳姐妹花！西汉最大的“祸水”登场！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！ [lioH59YBAjVtCM3aYZpLFoywSWSn].md",
+          "key": "zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn/"
         }
       ],
       "updated": "2026-09-12",
@@ -91857,9 +91880,9 @@
       "url": "/wiki/entities/wangfulatehan/"
     },
     "WangGenWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？ [llvrlct7lAoHoo54S3LhZGWvSfC9].md",
@@ -91909,6 +91932,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》547丨官场中，男人的嫉妒心有多可怕？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！ [lioH59YBAjVtCM3aYZpLFoywSWSn].md",
+          "key": "zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn/"
         }
       ],
       "updated": "2026-09-12",
@@ -92781,9 +92811,9 @@
       "url": "/wiki/entities/wangqingbuheshiyi/"
     },
     "WangShangWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连 [lmDphgGOd_t9uk7Uu5z_53rjkJ7U].md",
@@ -92812,6 +92842,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！ [lioH59YBAjVtCM3aYZpLFoywSWSn].md",
+          "key": "zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn/"
         }
       ],
       "updated": "2026-09-12",

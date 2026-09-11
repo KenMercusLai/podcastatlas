@@ -11,16 +11,19 @@ sources:
   - zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v
   - zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi
   - zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu
+  - zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-王根 / Wang Gen is synthesized as the Wang-family elder whose resentment toward [[ZhangYuWesternHan|张瑜 / 张禹]], formal Da Sima recognition paired with loss of military command, reputation temptation in a Xiongnu land-demand probe, reception of [[FuTaihouWesternHan|傅太后]]'s Dingtao-line gifts, later illness, anger at [[ChunyuZhangWesternHan|淳于长]], and retirement make him a recurring hinge between outer-relative power, imperial favor, personal desire, succession positioning, and [[WangMang|王莽]]'s office ascent.
+王根 / Wang Gen is synthesized as the Wang-family elder whose White Tiger Hall imitation, resentment toward [[ZhangYuWesternHan|张瑜 / 张禹]], formal Da Sima recognition paired with loss of military command, reputation temptation in a Xiongnu land-demand probe, reception of [[FuTaihouWesternHan|傅太后]]'s Dingtao-line gifts, later illness, anger at [[ChunyuZhangWesternHan|淳于长]], and retirement make him a recurring hinge between outer-relative power, imperial favor, personal desire, succession positioning, symbolic overreach, and [[WangMang|王莽]]'s office ascent.
 
 ## Current Profile
 
 Wang Gen first appears in this bounded synthesis as a Wang-family powerholder sensitive to visible shifts in [[HanChengdi|汉成帝]]'s favor. [[zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu|Hanji 547]] makes the trigger clearer: after Wang Li is blocked from the expected office path, Chengdi relies on Wang Gen, but then rejects Wang Gen's objection and grants disputed Pingling-area land to Zhang Yu. Wang Gen reads the decision as a status signal that Zhang Yu is more favored and potentially dangerous to the Wang-family outer-relative position, so his repeated denunciations of Zhang Yu become both jealousy and political attack. Zhang Yu later refuses to use earthquake and eclipse accusations against the Wang side, which makes Wang Gen ashamed and turns resentment into friendship.
+
+[[zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn|Hanji 527-1]] backfills an earlier visible-overreach layer. Chengdi sees that Wang Gen has built residence features modeled on Weiyang Palace's White Tiger Hall, making Wang-family luxury a claim on imperial symbolic space rather than mere private enjoyment. Wang Gen then joins the appeal to Wang Zhengjun and the staged awaiting-punishment response after Chengdi invokes the Bo Zhao precedent.
 
 The frontier-probe layer shows a different temptation from the same late-Chengdi field. Wang Gen hears that a Xiongnu-held tract near Zhangye is useful for wood, arrows, and feathers, and that obtaining it while a new chanyu is unsettled could bring him enduring fame. He and Chengdi keep the attempt deniable by sending [[XiahouFanWesternHan|夏侯藩]] to test [[WuzhuliuChanyu|乌珠留单于]] in Xiahou Fan's own name. [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] treats Wang Gen's vulnerability here as reputation hunger: the problem is not simply wanting useful land, but being moved by "青史留名" before capacity, risk, and diplomatic boundary are clear.
 
@@ -32,7 +35,7 @@ Hanji 551 adds a succession-network role. As Chengdi weighs the Dingtao and Zhon
 
 ## Key Characteristics
 
-- Wang Gen is a Wang-family senior officeholder whose status can be threatened by imperial favor outside the Wang side, first shown when Chengdi grants Zhang Yu contested land despite Wang Gen's objection and then when Zhang Yu's later protection of the Wang side de-escalates Wang Gen's resentment.
+- Wang Gen is a Wang-family senior officeholder whose White Tiger Hall imitation triggers Chengdi's anger and whose later status can be threatened by imperial favor outside the Wang side, as when Zhang Yu's protection of the Wang side eventually de-escalates Wang Gen's resentment.
 - His Da Sima status can be formalized in a way that also removes his Piaoji Jiangjun military command.
 - His desire for lasting reputation makes him receptive to a risky, deniable Xiongnu land-demand probe.
 - His position near Chengdi makes him useful to Fu Taihou's pre-accession Dingtao-line lobbying.
@@ -43,6 +46,8 @@ Hanji 551 adds a succession-network role. As Chengdi weighs the Dingtao and Zhon
 ## Evidence
 
 Jealousy and de-escalation:
+- [[zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn|Hanji 527-1]] says Wang Gen builds residence features modeled on Weiyang Palace's White Tiger Hall, provoking Chengdi's anger at Wang-family overreach.
+- [[zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn|Hanji 527-1]] says Wang Gen joins Wang Shang in crying to Wang Zhengjun and performing repentance after Chengdi invokes the Bo Zhao warning.
 - [[zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu|Hanji 547]] says Wang Gen opposes Chengdi granting Zhang Yu land near Pingling and Qin temple route space, then becomes angry when Chengdi still favors Zhang Yu.
 - [[zizhi-tongjian-hanji-547-guanchang-zhong-nanren-de-jidu-xin-you-duo-kepa-lubtghz7gq89fu8qhlw06rcnclcu|Hanji 547]] says Wang Gen repeatedly slanders Zhang Yu, but Chengdi responds by treating Zhang Yu even more generously.
 - [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says Wang Gen resents Chengdi's land decision in favor of Zhang Yu, then softens after Zhang Yu speaks against blaming the Wang outer relatives for disasters.
@@ -67,12 +72,12 @@ Reputation-to-office conversion:
 
 ## Qualifications
 
-This page is bounded to Hanji 547, Hanji 548, Hanji 551, Hanji 553, Hanji 554, Hanji 557, and Hanji 558. It does not reconstruct Wang Gen's full career, relation details within the Wang clan, complete illness context, or later political evaluation beyond these resentment, office-reallocation, succession-network, frontier-probe, accusation, and office-transfer roles. Hanji 547's transcript uses 王庚; this page follows the established Wang Gen route used by Hanji 548 and related pages.
+This page is bounded to Hanji 547, Hanji 548, Hanji 551, Hanji 553, Hanji 554, Hanji 557, Hanji 558, and Hanji 527-1. It does not reconstruct Wang Gen's full career, relation details within the Wang clan, complete illness context, or later political evaluation beyond these symbolic-overreach, resentment, office-reallocation, succession-network, frontier-probe, accusation, and office-transfer roles. Hanji 547's transcript uses 王庚; this page follows the established Wang Gen route used by Hanji 548 and related pages.
 
 ## What Changed
 
-- Added Hanji 547's pre-resolution jealousy trigger: Wang Gen's opposition to Zhang Yu's land grant fails, and his denunciations backfire by increasing Chengdi's favor toward Zhang Yu.
-- Preserved Hanji 548's repair layer, where Zhang Yu's later protection of the Wang side changes Wang Gen's resentment.
+- Added Hanji 527-1's symbolic-overreach layer: Wang Gen's White Tiger Hall imitation triggers Chengdi's anger and leads into the Wang-family staged awaiting-punishment response.
+- Preserved Hanji 547's pre-resolution jealousy trigger and Hanji 548's repair layer, where Zhang Yu's later protection of the Wang side changes Wang Gen's resentment.
 
 ## Relationships
 
@@ -81,6 +86,7 @@ This page is bounded to Hanji 547, Hanji 548, Hanji 551, Hanji 553, Hanji 554, H
 - [[JealousyDeescalationByRivalProtection]] - concept illustrated by Wang Gen's resentment turning into friendship.
 - [[ChunyuZhangWesternHan]] - accusation target whose case begins from Wang Gen's sickbed in the source account.
 - [[HanChengdi]] - ruler whose favor and appointment decisions shape Wang Gen's position.
+- [[AwaitingPunishmentPerformance]] - staged submission pattern Wang Gen helps illustrate after Chengdi's Bo Zhao warning.
 - [[MoralReputationPoliticalCapital]] - Wang Mang's reputation becomes office capital through Wang Gen's recommendation.
 - [[XiahouFanWesternHan]] - envoy whom Wang Gen uses for the deniable Xiongnu land probe.
 - [[DesireCapacityFit]] - concept illustrated by Wang Gen's reputation desire outrunning risk and capacity judgment.

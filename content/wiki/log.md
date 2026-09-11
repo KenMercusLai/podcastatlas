@@ -17664,6 +17664,10 @@ Ran lint. See lint-report.md for details.
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 4 / 13 BCE and Yuan延 1 / 12 BCE under Han Chengdi. Created Liu Yuanzi and Royal Kinship Scandal Adjudication; updated Liu Li, Gu Yong, Wang Shang, He Wu, overview, and index with Wang Shang's disaster-pressure removal/restoration, Liu Li's Liang king scandal, Gu Yong's procedural defense, and He Wu's Jingzhao Yin reputation. No settled contradiction found; 刘丽 is normalized to 刘立 for the Liang king page, while the truth of the "禽兽行" accusation, Wang Shang's illness, Gu Yong's full memorial, and the Zhao-sisters preview remain source-scoped.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！
+
+Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Awaiting-Punishment Performance.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -17818,6 +17822,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

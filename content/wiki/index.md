@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！](sources/zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn.md) — 芮淇讲透资治通鉴 short episode on Wang-family luxury, Chengdi's Bo Zhao warning, and staged awaiting-punishment repentance.
 - [《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！](sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p.md) — 芮淇讲透资治通鉴 short episode linking the Yu Huaying trafficking case, family trauma, Zhangjiashan's 《二年律令》, Han buyer liability, 《盲山》, and public refusal of social blindness.
 - [《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！](sources/zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge.md) — 芮淇讲透资治通鉴 episode on Ban Jieyu's carriage refusal, Wang Zhengjun's Fan Ji comparison, Li Ping recommendation, and restrained favor as palace/workplace relationship wisdom.
 - [《资治通鉴·汉纪》529丨美艳姐妹花！西汉最大的“祸水”登场！](sources/zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop.md) — 芮淇讲透资治通鉴 episode on Zhao Feiyan's abandoned-child origin stories, Yang'a Princess household dance training, Chengdi's banquet encounter, and first jieyu promotion.
@@ -11997,6 +11998,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [待刑谢罪式政治表演 / Awaiting-Punishment Performance](concepts/AwaitingPunishmentPerformance.md) — Pattern where exaggerated submission and execution imagery turn threatened punishment into a politically costly mercy test.
 - [反拐公共关注 / Public Attention Against Trafficking](concepts/PublicAttentionAgainstTrafficking.md) — Civic refusal to treat trafficking as invisible, distant, or already solved.
 - [汉代拐卖惩治 / Han Trafficking Law Deterrence](concepts/HanTraffickingLawDeterrence.md) — Early Han legal-punishment frame that makes abduction, resale, and buyer participation punishable.
 - [拐卖需求端责任 / Demand-Side Trafficking Liability](concepts/DemandSideTraffickingLiability.md) — Accountability frame for purchasers and receiving households inside trafficking markets.
