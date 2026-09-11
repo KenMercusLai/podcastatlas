@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1787
+topic_total_pages: 1789
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2672,6 +2672,9 @@ topic_entities:
   - key: "XiahouFanWesternHan"
     title: "夏侯藩 / Xiahou Fan (Western Han)"
     url: "/wiki/entities/xiahoufanwesternhan/"
+  - key: "XiaJiSpringAutumn"
+    title: "夏姬 / Xia Ji (Spring and Autumn)"
+    url: "/wiki/entities/xiajispringautumn/"
   - key: "XiaTaihou"
     title: "夏姬 / 夏太后 / Lady Xia"
     url: "/wiki/entities/xiataihou/"
@@ -5082,6 +5085,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll"
     title: "《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？"
     url: "/wiki/sources/zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll/"
+  - key: "zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm"
+    title: "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云"
+    url: "/wiki/sources/zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm/"
   - key: "zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id"
     title: "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？"
     url: "/wiki/sources/zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id/"

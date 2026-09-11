@@ -35099,9 +35099,9 @@
       "url": "/wiki/concepts/genderedaimarketing/"
     },
     "GenderedConsortScapegoating": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？ [lkaCfnDVI8t1opeP67XmqUyzR_wW].md",
@@ -35130,9 +35130,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》561丨惨惨惨！揭秘吃催情药死的皇帝NO.1！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云 [lo557jbQ9ni-xiSsPLyBtCUrAElm].md",
+          "key": "zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/genderedconsortscapegoating/"
     },
     "GenderedOfficeHierarchy": {
@@ -94723,9 +94730,9 @@
       "url": "/wiki/entities/wolfwarrior2/"
     },
     "WomenBlamedForDynasticCollapse": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？ [lkiRbrVOnA0YIaoUSoblcDu0Gs5U].md",
@@ -94733,9 +94740,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》601-2丨烽火戏诸侯：一笑天下亡，褒姒是何方“妖孽”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云 [lo557jbQ9ni-xiSsPLyBtCUrAElm].md",
+          "key": "zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/womenblamedfordynasticcollapse/"
     },
     "WomenWorkplaceProgressStall": {
@@ -96028,6 +96042,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/xiaheliangwesternhan/"
+    },
+    "XiaJiSpringAutumn": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云 [lo557jbQ9ni-xiSsPLyBtCUrAElm].md",
+          "key": "zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/xiajispringautumn/"
     },
     "XiaYuLateHan": {
       "episode_count": 2,
@@ -102332,9 +102362,9 @@
       "url": "/wiki/entities/zhaodulatehan/"
     },
     "ZhaoFeiyanWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？ [lkaCfnDVI8t1opeP67XmqUyzR_wW].md",
@@ -102377,15 +102407,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云 [lo557jbQ9ni-xiSsPLyBtCUrAElm].md",
+          "key": "zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm/"
         }
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhaofeiyanwesternhan/"
     },
     "ZhaoHedeWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？ [lkaCfnDVI8t1opeP67XmqUyzR_wW].md",
@@ -102421,6 +102458,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云 [lo557jbQ9ni-xiSsPLyBtCUrAElm].md",
+          "key": "zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm/"
         }
       ],
       "updated": "2026-09-12",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9751
+wiki_total_pages: 9752
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -218,6 +218,9 @@ wiki_pages:
   - key: "XiahouFanWesternHan"
     title: "夏侯藩 / Xiahou Fan (Western Han)"
     url: "/wiki/entities/xiahoufanwesternhan/"
+  - key: "XiaJiSpringAutumn"
+    title: "夏姬 / Xia Ji (Spring and Autumn)"
+    url: "/wiki/entities/xiajispringautumn/"
   - key: "XiaTaihou"
     title: "夏姬 / 夏太后 / Lady Xia"
     url: "/wiki/entities/xiataihou/"

@@ -8,7 +8,8 @@ sources:
   - zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh
   - zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c
   - zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm
+last_updated: 2026-09-12
 ---
 
 ## Definition
@@ -19,13 +20,15 @@ last_updated: 2026-09-11
 
 Hanji 573 creates the concept through [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]]. Hanji 571-572 now supply the severe accusation material that makes the pattern hard to flatten into simple exoneration: [[CaoGongWesternHan|曹宫]] accuses the Zhao sisters before dying, a Zhao Zhaoyi-linked messenger appears in the chain around her son's disappearance, and Zhao Hede is reported as pressuring Chengdi after [[XuMeirenWesternHan|徐美人]] gives birth. Hanji 561 adds the earlier public-answer problem: Chengdi's sudden death, Zhao Hede's presence, and the shame attached to later aphrodisiac-pill traditions make a favored consort politically useful as the visible bearer of blame. Hanji 573 then argues that the sisters' received image as causes of [[HanChengdi|汉成帝]]'s no-heir disaster may still hide a more complicated evidence and power problem: Chengdi's children had died young before the Zhao sisters' involvement, the Liu imperial line shows broader fragility in the source's reading, and the later investigation is politically useful to [[HanAidi|汉哀帝]] and anti-Zhao actors.
 
+Hanji 536-4 makes the literary-memory mechanism more explicit. It compares the Zhao sisters with [[XiaJiSpringAutumn|夏姬]], [[BaoSi|褒姒]], and [[HelenOfTroy|海伦]], arguing that beautiful women can become memorable blame surfaces for male desire, ruler misconduct, state crisis, or writerly moral performance. This widens the concept from late-Western-Han succession scandal into a broader historiographical pattern.
+
 The concept is not a claim that favored women are never politically active or never dangerous. It is a warning about narrative compression. A palace scandal can become easier to remember and retell when structural succession weakness, ruler health, shame management, factional rivalry, and evidentiary uncertainty are personified as a beautiful woman's destructive power.
 
 ## Key Claims
 
 - Gendered blame can turn succession and institutional problems into a simpler morality tale about beauty destroying rule.
 - Scapegoating is especially likely when sudden death, heir failure, or shameful ruler conduct demands a substitute public explanation.
-- Literary repetition can stabilize a gendered image even when the underlying case remains evidentially uncertain.
+- Literary repetition and moral condemnation can stabilize a gendered image, especially when writers perform virtue while also desiring, envying, or fearing proximity to power.
 - The pattern should be distinguished from exoneration: a consort may remain suspicious while still being overused as an explanation.
 - Direct accusation against a consort network can coexist with caution against making favored women the whole causal explanation.
 - Emotional-consort pressure in a source can be historically important without becoming a complete account of dynastic heir failure.
@@ -42,6 +45,8 @@ The concept is not a claim that favored women are never politically active or ne
 - Political target formation: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says Aidi had reason to attack Zhao outer-relatives and that many people resented the Zhao sisters.
 - Evidence uncertainty: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says the investigation lacks expected physical evidence.
 - Literary afterlife: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says Zhao Feiyan stories remain durable partly because later writers repeatedly adapt them.
+- Comparative case layer: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] uses [[XiaJiSpringAutumn|夏姬]] to show how male rulers and ministers can make consequential choices while later memory condenses scandal into a woman's sexualized reputation.
+- Moral-performance layer: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] says some writers publicly condemn beautiful women in a posture that may mix desire, envy, and moral self-display.
 
 ## Counterevidence & Qualifications
 
@@ -49,7 +54,8 @@ The source set does not erase the received suspicion around Zhao Hede and Zhao F
 
 ## What Changed
 
-- Added Hanji 561's sudden-death and shame-management layer, explaining why Zhao Hede could become a public answer even while the drug-death tradition remains source-scoped.
+- Added Hanji 536-4's explicit literary-memory layer, broadening the concept from the Zhao-sister case into a cross-case pattern involving Xia Ji, Bao Si, and Helen.
+- Preserved Hanji 561's sudden-death and shame-management layer, explaining why Zhao Hede could become a public answer even while the drug-death tradition remains source-scoped.
 
 ## Related Concepts
 
@@ -59,3 +65,4 @@ The source set does not erase the received suspicion around Zhao Hede and Zhao F
 - [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]] - contrast concept because recognizing women's agency should not collapse into automatic blame.
 - [[DynasticLegitimacyBackfire|王朝合法性回旋镖]] - succession and no-heir anxiety field that makes scapegoats politically useful.
 - [[PalaceAccusationVerification|宫廷指控核验]] - procedural neighbor for testing accusations before narrative blame hardens.
+- [[WomenBlamedForDynasticCollapse|女性亡国归咎叙事]] - broader collapse-memory version of the same gendered explanatory shortcut.

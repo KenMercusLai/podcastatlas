@@ -10,12 +10,13 @@ sources:
   - zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh
   - zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n
   - zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3
+  - zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-赵飞燕 / Zhao Feiyan is synthesized as a Western Han palace figure whose political meaning shifts by source layer. [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] gives an earlier advancement layer: after [[EmpressXuWesternHan|废后许氏]] is deposed, Zhao Feiyan still moves against [[BanJieyuWesternHan|班婕妤]] because Ban Jieyu remains a plausible rival for higher palace status. [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] supplies the formal elevation layer: [[HanChengdi|汉成帝]] wants to make Zhao Feiyan empress, [[WangZhengjun|王政君]] resists her low origin, [[ChunyuZhangWesternHan|淳于长]] mediates the approval, and Zhao Lin's enfeoffment repairs the public status problem. [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] then gives the scandal-and-insecurity layer: Zhao Feiyan becomes empress but remains childless, allegedly hides men in palace rooms to seek a child, and benefits from Chengdi's refusal to pursue informers. [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] later challenges the simple "red-beauty disaster" explanation for Chengdi's heir failure, while [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]] shows how [[GengYuWesternHan|耿育]]'s memorial lets [[HanAidi|汉哀帝]] stop further investigation without appearing to suppress truth for private gratitude.
+赵飞燕 / Zhao Feiyan is synthesized as a Western Han palace figure whose political meaning shifts by source layer. [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] gives an earlier advancement layer: after [[EmpressXuWesternHan|废后许氏]] is deposed, Zhao Feiyan still moves against [[BanJieyuWesternHan|班婕妤]] because Ban Jieyu remains a plausible rival for higher palace status. [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] supplies the formal elevation layer: [[HanChengdi|汉成帝]] wants to make Zhao Feiyan empress, [[WangZhengjun|王政君]] resists her low origin, [[ChunyuZhangWesternHan|淳于长]] mediates the approval, and Zhao Lin's enfeoffment repairs the public status problem. [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] then gives the scandal-and-insecurity layer: Zhao Feiyan becomes empress but remains childless, allegedly hides men in palace rooms to seek a child, and benefits from Chengdi's refusal to pursue informers. [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] later challenges the simple "red-beauty disaster" explanation for Chengdi's heir failure, while [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] makes that reputation question explicit by comparing Zhao Feiyan's later "千古荡妇" image with older beauty-blame cases. [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]] shows how [[GengYuWesternHan|耿育]]'s memorial lets [[HanAidi|汉哀帝]] stop further investigation without appearing to suppress truth for private gratitude.
 
 ## Current Profile
 
@@ -29,6 +30,8 @@ Hanji 571 does not add a direct action by Zhao Feiyan in the [[CaoGongWesternHan
 
 Hanji 573 presents Zhao Feiyan and [[ZhaoHedeWesternHan|赵合德]] as accused favorites whose guilt story deserves skepticism rather than automatic acceptance. The episode stresses that Chengdi had children who died young before the Zhao sisters explain the pattern, that the investigation is testimony-heavy, and that [[WangZhengjun|王政君]] and the Wang family had strong reasons to monitor heir production. Zhao Feiyan is therefore treated as a plausible target of [[GenderedConsortScapegoating|红颜祸水式替罪叙事]], not as a cleared innocent or settled culprit.
 
+Hanji 536-4 adds an explicit literary-memory layer. The episode says Zhao Feiyan's received image as a uniquely licentious woman may be less secure than later moralizing makes it appear, and it compares her reputation with [[XiaJiSpringAutumn|夏姬]], [[BaoSi|褒姒]], and [[HelenOfTroy|海伦]]. This does not erase the earlier scandal layer; it explains how scandal becomes durable public memory through gendered blame and moral performance.
+
 Hanji 574 presents Zhao Feiyan as a politically sensitive beneficiary-protector figure for Aidi. When Aidi was selected as crown prince, Zhao Feiyan is said to have helped him; [[FuTaihouWesternHan|傅太后]] was grateful to her and maintained a friendly relationship with her. Geng Yu's memorial changes the frame around the case from palace jealousy and favored-woman crime to Chengdi's posthumous reputation and succession legitimacy.
 
 ## Key Characteristics
@@ -38,7 +41,7 @@ Hanji 574 presents Zhao Feiyan as a politically sensitive beneficiary-protector 
 - Accused in Hanji 536-1 of hiding men in palace rooms to seek pregnancy.
 - Paired with Zhao Hede as an accused favorite in Chengdi's heir-loss narrative.
 - Connected to Cao Gong through palace literary instruction before Cao Gong's infant becomes the reported missing-son case.
-- Possible object of gendered scapegoating rather than a settled single-cause explanation for Chengdi's no-heir outcome.
+- Possible object of gendered scapegoating whose "red-beauty disaster" reputation is explicitly questioned rather than treated as a settled single-cause explanation.
 - Helped Aidi's earlier designation as crown prince according to Hanji 574.
 
 ## Evidence
@@ -59,6 +62,8 @@ Hanji 574 presents Zhao Feiyan as a politically sensitive beneficiary-protector 
 - Fu Taihou connection: [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]] says Fu Taihou was grateful to Zhao Feiyan and got along with her.
 - Investigation closure: [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]] says Aidi stops pursuing the accusation details after reading Geng Yu's memorial.
 - Wang-family reaction: [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]] says Wang Zhengjun and the Wang family resent Aidi after the decision.
+- Reputation challenge: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] says Zhao Feiyan's "千古荡妇" image should be tested rather than accepted as self-evident historical fact.
+- Comparative blame frame: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] compares Zhao Feiyan's reputation with Xia Ji, Bao Si, and Helen to show how beauty can become a convenient explanatory burden.
 
 ## Qualifications
 
@@ -66,9 +71,8 @@ This page does not reconstruct Zhao Feiyan's full life, legal case record, or ev
 
 ## What Changed
 
-- Added Hanji 534's formal elevation layer: Chengdi's preference requires Wang Zhengjun's approval, Chunyu Zhang's mediation, and Zhao Lin's status repair.
-- Preserved Hanji 536-1's post-elevation vulnerability layer: Zhao Feiyan has the empress title but no child, faces comparison with the more favored Zhao Hede, and is accused of using hidden male favorites as a pregnancy strategy.
-- Preserved Hanji 573's later evidentiary caution so the scandal layer does not become a settled explanation for every Chengdi heir-loss claim.
+- Added Hanji 536-4's explicit reputation-history layer: Zhao Feiyan's later "red-beauty disaster" image is now framed as a gendered memory problem, not only as a palace accusation file.
+- Preserved Hanji 536-1's post-elevation vulnerability layer and Hanji 573's evidentiary caution so the scandal layer does not become a settled explanation for every Chengdi heir-loss claim.
 
 ## Relationships
 
@@ -84,6 +88,7 @@ This page does not reconstruct Zhao Feiyan's full life, legal case record, or ev
 - [[FuTaihouWesternHan|傅太后]] - dowager figure grateful to Zhao Feiyan.
 - [[WangZhengjun|王政君]] - senior dowager whose family resents the closure decision.
 - [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - concept created from the episode's warning against overconcentrating dynastic blame on favored women.
+- [[XiaJiSpringAutumn|夏姬]] - comparative case used by Hanji 536-4 for blame displaced onto a beautiful woman.
 - [[PoliticalCaseEvidenceSkepticism|政治案件证据怀疑]] - evidentiary concept sharpened by the Zhao-sisters case.
 - [[SecretImperialInfantSuppression|秘密皇子压制]] - alleged suppression mechanism tied to Cao Gong's infant.
 - [[WesternHanDynasty|西汉]] - dynasty whose late court politics make palace scandal a public legitimacy problem.
