@@ -17843,9 +17843,17 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-12] ingest | 2026秋季篇E02 空气有毒！四日市公害事件始末
+
+Added source note for 日谈物语 E02, created Unification Church, Han Hak-ja, Sun Myung Moon, and Yokkaichi Pollution Incident pages, and extended 日谈物语 host and social-history case-framing synthesis around transcript-limited environmental diffuse harm.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

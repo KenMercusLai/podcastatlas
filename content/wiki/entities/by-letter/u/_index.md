@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "u"
-wiki_total_pages: 9763
+wiki_total_pages: 9767
 wiki_pages:
   - key: "UDropInn"
     title: "U Drop Inn"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "UnitedNationsChildrenFund"
     title: "UNICEF"
     url: "/wiki/entities/unitednationschildrenfund/"
+  - key: "UnificationChurch"
+    title: "Unification Church / 统一教会"
+    url: "/wiki/entities/unificationchurch/"
   - key: "Unilever"
     title: "Unilever"
     url: "/wiki/entities/unilever/"

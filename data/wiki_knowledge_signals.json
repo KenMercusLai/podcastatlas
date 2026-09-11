@@ -39138,6 +39138,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/hanfanlatehan/"
     },
+    "HanHakJa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FvjwRv4nJ6JPmhnCoCpbWY7l9qKy [FvjwRv4nJ6JPmhnCoCpbWY7l9qKy].md",
+          "key": "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky",
+          "show": "日谈物语",
+          "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+          "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/hanhakja/"
+    },
     "HanHengLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -60485,9 +60501,9 @@
       "url": "/wiki/entities/miaoguanglatehan/"
     },
     "MiaoShuNittanWuyu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -60495,9 +60511,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E01 血液之灾！日本艾滋血液药剂事件",
           "url": "/wiki/sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj/"
+        },
+        {
+          "episode_file": "FvjwRv4nJ6JPmhnCoCpbWY7l9qKy [FvjwRv4nJ6JPmhnCoCpbWY7l9qKy].md",
+          "key": "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky",
+          "show": "日谈物语",
+          "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+          "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/miaoshunittanwuyu/"
     },
     "MichaelKratsios": {
@@ -63777,9 +63800,9 @@
       "url": "/wiki/entities/ningbozhoushanport/"
     },
     "NittanWuyu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -63787,9 +63810,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E01 血液之灾！日本艾滋血液药剂事件",
           "url": "/wiki/sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj/"
+        },
+        {
+          "episode_file": "FvjwRv4nJ6JPmhnCoCpbWY7l9qKy [FvjwRv4nJ6JPmhnCoCpbWY7l9qKy].md",
+          "key": "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky",
+          "show": "日谈物语",
+          "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+          "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/nittanwuyu/"
     },
     "NiuTechnologies": {
@@ -81452,9 +81482,9 @@
       "url": "/wiki/concepts/socialemotioninferencelimits/"
     },
     "SocialHistoryCaseFraming": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -81462,9 +81492,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E01 血液之灾！日本艾滋血液药剂事件",
           "url": "/wiki/sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj/"
+        },
+        {
+          "episode_file": "FvjwRv4nJ6JPmhnCoCpbWY7l9qKy [FvjwRv4nJ6JPmhnCoCpbWY7l9qKy].md",
+          "key": "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky",
+          "show": "日谈物语",
+          "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+          "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/socialhistorycaseframing/"
     },
     "SocialMediaAgeBans": {
@@ -84904,6 +84941,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/sunjianxingeneral/"
+    },
+    "SunMyungMoon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FvjwRv4nJ6JPmhnCoCpbWY7l9qKy [FvjwRv4nJ6JPmhnCoCpbWY7l9qKy].md",
+          "key": "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky",
+          "show": "日谈物语",
+          "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+          "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/sunmyungmoon/"
     },
     "SunQuan": {
       "episode_count": 7,
@@ -90181,6 +90234,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/unicorneconomy/"
+    },
+    "UnificationChurch": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FvjwRv4nJ6JPmhnCoCpbWY7l9qKy [FvjwRv4nJ6JPmhnCoCpbWY7l9qKy].md",
+          "key": "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky",
+          "show": "日谈物语",
+          "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+          "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/unificationchurch/"
     },
     "UnitedArabEmirates": {
       "episode_count": 6,
@@ -96927,9 +96996,9 @@
       "url": "/wiki/entities/xiaoa/"
     },
     "XiaoHuoziNittanWuyu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Fv_j4CvvJ0tnHfHDinJtCmuDcIRj [Fv_j4CvvJ0tnHfHDinJtCmuDcIRj].md",
@@ -96937,9 +97006,16 @@
           "show": "日谈物语",
           "title": "2026秋季篇E01 血液之灾！日本艾滋血液药剂事件",
           "url": "/wiki/sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj/"
+        },
+        {
+          "episode_file": "FvjwRv4nJ6JPmhnCoCpbWY7l9qKy [FvjwRv4nJ6JPmhnCoCpbWY7l9qKy].md",
+          "key": "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky",
+          "show": "日谈物语",
+          "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+          "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/xiaohuozinittanwuyu/"
     },
     "XiaoKuaiStandup": {
@@ -100419,6 +100495,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/yizhoupacificationbyleniency/"
+    },
+    "YokkaichiPollutionIncident": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FvjwRv4nJ6JPmhnCoCpbWY7l9qKy [FvjwRv4nJ6JPmhnCoCpbWY7l9qKy].md",
+          "key": "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky",
+          "show": "日谈物语",
+          "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+          "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yokkaichipollutionincident/"
     },
     "Yongkang": {
       "episode_count": 1,

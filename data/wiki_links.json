@@ -819,6 +819,10 @@
     "title": "2026秋季篇E01 血液之灾！日本艾滋血液药剂事件",
     "url": "/wiki/sources/2026-qiuji-pian-e01-xueye-zhi-zai-riben-aizi-xueye-yaoji-shijian-fv-j4cvvj0tnhfhdinjtcmudcirj/"
   },
+  "2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky": {
+    "title": "2026秋季篇E02 空气有毒！四日市公害事件始末",
+    "url": "/wiki/sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky/"
+  },
   "20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer": {
     "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
     "url": "/wiki/sources/20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer-20260721-pmoney-new-npr-series-we-keep-us-safe-from-the-embedded-podcast-trailer/"
@@ -25886,6 +25890,10 @@
   "HanGui": {
     "title": "韩廆 / Han Gui",
     "url": "/wiki/entities/hangui/"
+  },
+  "HanHakJa": {
+    "title": "Han Hak-ja / 韩鹤子",
+    "url": "/wiki/entities/hanhakja/"
   },
   "HanHengLateHan": {
     "title": "韩恒 / Han Heng (late Han)",
@@ -56443,6 +56451,10 @@
     "title": "孙静 / Sun Jing (late Han)",
     "url": "/wiki/entities/sunjinglatehan/"
   },
+  "SunMyungMoon": {
+    "title": "Sun Myung Moon / 文鲜明",
+    "url": "/wiki/entities/sunmyungmoon/"
+  },
   "SunQuan": {
     "title": "孙权 / Sun Quan",
     "url": "/wiki/entities/sunquan/"
@@ -60406,6 +60418,10 @@
   "UnicornEconomy": {
     "title": "Unicorn Economy",
     "url": "/wiki/concepts/unicorneconomy/"
+  },
+  "UnificationChurch": {
+    "title": "Unification Church / 统一教会",
+    "url": "/wiki/entities/unificationchurch/"
   },
   "UnifiedAdPlatform": {
     "title": "Unified Ad Platform",
@@ -66066,6 +66082,10 @@
   "YokaiMystery": {
     "title": "妖怪推理 / Yokai Mystery",
     "url": "/wiki/concepts/yokaimystery/"
+  },
+  "YokkaichiPollutionIncident": {
+    "title": "Yokkaichi Pollution Incident / 四日市公害事件",
+    "url": "/wiki/entities/yokkaichipollutionincident/"
   },
   "Yokohama": {
     "title": "Yokohama / 横滨",

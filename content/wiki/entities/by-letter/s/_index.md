@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9763
+wiki_total_pages: 9767
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1388,6 +1388,9 @@ wiki_pages:
   - key: "SunJian"
     title: "Sun Jian"
     url: "/wiki/entities/sunjian/"
+  - key: "SunMyungMoon"
+    title: "Sun Myung Moon / 文鲜明"
+    url: "/wiki/entities/sunmyungmoon/"
   - key: "SunYutao"
     title: "Sun Yutao / 孙宇涛"
     url: "/wiki/entities/sunyutao/"

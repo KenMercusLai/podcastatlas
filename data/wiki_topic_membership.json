@@ -30389,6 +30389,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HanHakJa": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HanHuanhuiwang": [
     {
       "key": "history",
@@ -63250,6 +63257,13 @@
       "url": "/topics/history/"
     }
   ],
+  "SunMyungMoon": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "SunRuoxi": [
     {
       "key": "culture",
@@ -68279,6 +68293,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "UnificationChurch": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "UnifiedRobotModels": [

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [2026秋季篇E02 空气有毒！四日市公害事件始末](sources/2026-qiuji-pian-e02-kongqi-youdu-sirishi-gonghai-shijian-shimo-fvjwrv4nj6jpmhncocpbwy7l9qky.md) — 日谈物语 E02 opening that follows up on the Unification Church and frames the Yokkaichi pollution incident as a transcript-limited "serial murder case without a killer."
 - [《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？](sources/zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr.md) — 芮淇讲透资治通鉴 episode on Xue Xuan's public non-instruction of his son Xue Hui, law-as-teacher rhetoric, Hu Sanxing's caution, and deniable bureaucratic patronage signaling.
 - [《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？](sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo.md) — 芮淇讲透资治通鉴 episode on Wang Yin's Yushi Dafu appointment, Wang-family patronage and reputation networks, Liu Xiang's secret memorial, and preventive restraint against outer-relative dynastic transfer.
 - [《资治通鉴·汉纪》523丨古代农民起义总失败？没理想or见识短？](sources/zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup.md) — 芮淇讲透资治通鉴 episode on the 22 BCE Yingchuan iron-office convict uprising, peasant-rebel organization limits, and Wang Feng's deathbed recommendation of Wang Yin over Wang Tan.
@@ -2244,6 +2245,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Unification Church / 统一教会](entities/UnificationChurch.md) — Religion-and-politics entity appearing in the 日谈物语 E02 legal follow-up around Han Hak-ja.
+- [Han Hak-ja / 韩鹤子](entities/HanHakJa.md) — Unification Church figure discussed in the 日谈物语 E02 legal follow-up.
+- [Sun Myung Moon / 文鲜明](entities/SunMyungMoon.md) — Unification Church founder figure named as background in the 日谈物语 E02 follow-up.
+- [Yokkaichi Pollution Incident / 四日市公害事件](entities/YokkaichiPollutionIncident.md) — Announced environmental public-health case in 日谈物语 E02, currently source-limited to the title and "no killer" setup.
 - [于定国 / Yu Dingguo](entities/YuDingguoWesternHan.md) — Western Han senior official used by Hanji 524 as Yu Yong's chancellor-family background.
 - [于永 / Yu Yong (Western Han)](entities/YuYongWesternHan.md) — Chengdi-era official whose family prestige, later self-cultivation, Yushi Dafu appointment, and death before chancellorship frame personnel selection in Hanji 524.
 - [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose advice record under Liu He becomes Wang Jun's family-reputation background.

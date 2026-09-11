@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2395
+topic_total_pages: 2398
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4724,6 +4724,9 @@ topic_entities:
   - key: "HamiltonBurrDuel"
     title: "Hamilton-Burr Duel"
     url: "/wiki/entities/hamiltonburrduel/"
+  - key: "HanHakJa"
+    title: "Han Hak-ja / 韩鹤子"
+    url: "/wiki/entities/hanhakja/"
   - key: "HansWilsdorfFoundation"
     title: "Hans Wilsdorf Foundation"
     url: "/wiki/entities/hanswilsdorffoundation/"
@@ -5663,6 +5666,9 @@ topic_entities:
   - key: "Sudan"
     title: "Sudan"
     url: "/wiki/entities/sudan/"
+  - key: "SunMyungMoon"
+    title: "Sun Myung Moon / 文鲜明"
+    url: "/wiki/entities/sunmyungmoon/"
   - key: "SupremeCourt"
     title: "Supreme Court"
     url: "/wiki/entities/supremecourt/"
@@ -5819,6 +5825,9 @@ topic_entities:
   - key: "UlrichSiegmund"
     title: "Ulrich Siegmund"
     url: "/wiki/entities/ulrichsiegmund/"
+  - key: "UnificationChurch"
+    title: "Unification Church / 统一教会"
+    url: "/wiki/entities/unificationchurch/"
   - key: "UnitedArabEmirates"
     title: "United Arab Emirates"
     url: "/wiki/entities/unitedarabemirates/"
