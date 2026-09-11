@@ -2048,6 +2048,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！
+
+Added source note for Hanji 528, extended Ban Jieyu with the carriage-refusal and Li Ping recommendation layer, and created Palace Favor Self-Restraint for the episode's restrained-favor and bounded-rivalry synthesis.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》530丨赵飞燕艳冠后宫，成帝为何更宠妹妹？
 
 Added source. Key claims: Zhao Hede's entry into Chengdi's palace required managing Zhao Feiyan's jealousy; Chengdi's concentrated favor displaced Empress Xu and Ban Jieyu; Xu Ye's ritual prayer became a wugu-style accusation against Empress Xu; Ban Jieyu survived by motive-based reasoning and then retreated to Changxin Palace.
@@ -17810,6 +17814,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

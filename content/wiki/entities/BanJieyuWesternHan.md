@@ -7,16 +7,21 @@ sources:
   - zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm
   - zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh
   - zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j
+  - zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-班婕妤 / Ban Jieyu is now synthesized as both a Western Han court actor and a later Ban-family female exemplar. [[zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j|Hanji 530]] gives the immediate palace-crisis layer: after [[HanChengdi|汉成帝]] turns toward the Zhao sisters and [[EmpressXuWesternHan|废后许氏]] is accused through Xu Ye's ritual prayer, Ban Jieyu answers the same danger field with calm motive-based reasoning and then asks to serve at Changxin Palace. [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] gives the deeper rivalry layer: after Empress Xu is removed, [[ZhaoFeiyanWesternHan|赵飞燕]] treats Ban Jieyu as a remaining obstacle because of seniority, origin, reputation, and palace skill. [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] later preserves her as the admired ancestor-aunt behind [[BanZhaoLateHan|班昭]]'s family instruction in `Nujie`.
+班婕妤 / Ban Jieyu is now synthesized as both a Western Han court actor and a later Ban-family female exemplar. [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] gives the positive-reputation layer before the Zhao-sister crisis: Ban Jieyu refuses to ride with [[HanChengdi|汉成帝]], is praised by [[WangZhengjun|王政君]] as a present-day Fan Ji, and recommends Li Ping to the emperor. [[zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j|Hanji 530]] gives the immediate palace-crisis layer: after Chengdi turns toward the Zhao sisters and [[EmpressXuWesternHan|废后许氏]] is accused through Xu Ye's ritual prayer, Ban Jieyu answers the same danger field with calm motive-based reasoning and then asks to serve at Changxin Palace. [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] gives the deeper rivalry layer: after Empress Xu is removed, [[ZhaoFeiyanWesternHan|赵飞燕]] treats Ban Jieyu as a remaining obstacle because of seniority, origin, reputation, and palace skill. [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] later preserves her as the admired ancestor-aunt behind [[BanZhaoLateHan|班昭]]'s family instruction in `Nujie`.
 
 ## Current Profile
 
-Hanji 530 shows Ban Jieyu first as a displaced but composed consort. Chengdi's preference for Zhao Feiyan and Zhao Hede pushes both Empress Xu and Ban Jieyu out of favor, but Ban Jieyu does not answer exposure with complaint. When the wugu-style investigation reaches her, she argues that cursing the ruler would be useless if spirits do not exist and morally self-defeating if they do. After surviving, she asks to move to Changxin Palace to serve the dowager, turning retreat into risk management rather than confession.
+Hanji 528 shows Ban Jieyu first as a favored but self-restraining consort. Chengdi invites her to share his carriage after a palace outing, but she refuses by invoking the contrast between sage-kings accompanied by ministers and doomed rulers accompanied by favored women. In the host's reading, the refusal protects both her own reputation and Chengdi's public image. Wang Zhengjun's comparison of Ban Jieyu to Fan Ji makes the behavior court-legible as counsel rather than coldness.
+
+The same episode adds a non-jealous favor-management layer. Ban Jieyu recommends attendant Li Ping to Chengdi, after which Li Ping is favored, granted jieyu rank, and given the Wei surname. The host reads this as [[PalaceFavorSelfRestraint|宫廷宠幸自持]]: Ban Jieyu makes herself valuable beyond beauty, avoids possessive rivalry, and shows senior observers that favor has not made her arrogant or zero-sum.
+
+Hanji 530 then shows Ban Jieyu as a displaced but composed consort. Chengdi's preference for Zhao Feiyan and Zhao Hede pushes both Empress Xu and Ban Jieyu out of favor, but Ban Jieyu does not answer exposure with complaint. When the wugu-style investigation reaches her, she argues that cursing the ruler would be useless if spirits do not exist and morally self-defeating if they do. After surviving, she asks to move to Changxin Palace to serve the dowager, turning retreat into risk management rather than confession.
 
 Hanji 531 presents Ban Jieyu as dangerous to Zhao Feiyan not because she is the current favorite, but because she remains institutionally and reputationally credible. The host highlights her long earlier favor under Chengdi, her respectable background, her public virtue image, and her unusual willingness to recommend other women to the emperor. That behavior is read as wisdom: it makes Chengdi respect her and may also create palace allies rather than isolating her.
 
@@ -27,14 +32,17 @@ Hanji 705-6 adds the afterlife of that reputation. In the episode's account, Ban
 ## Key Characteristics
 
 - Western Han palace woman with enough seniority, origin, and reputation to remain a potential rival after Empress Xu's deposition.
+- Favored consort whose early reputation rests on refusing excessive intimacy signals, giving ruler-correcting counsel, and being praised by Wang Zhengjun.
 - Court actor whose self-presentation includes recommending other women to Chengdi, read by the source as both virtue and palace relationship skill.
 - Accused in a wugu-style charge and defended herself by denying motive, benefit, and value compatibility rather than trying to prove a negative.
 - Chooses Changxin Palace service after exoneration, using physical and institutional distance as self-protection.
 - Later Ban-family exemplar remembered by Ban Zhao as a model for family women.
-- Bridge between direct Western Han palace politics and Eastern Han female literary-memory transmission.
 
 ## Evidence
 
+- Self-restraint under favor: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Ban Jieyu refuses to ride with Chengdi by using sage-king versus fallen-ruler imagery.
+- Court recognition: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Wang Zhengjun praises her as a present-day Fan Ji.
+- Non-jealous recommendation: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Ban Jieyu recommends Li Ping to Chengdi and Li Ping becomes a favored jieyu.
 - Rival status: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] says Zhao Feiyan still needed to deal with Ban Jieyu because seniority, family standing, and reputation could make her a post-Empress-Xu competitor.
 - Palace relationship skill: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] says Ban Jieyu recommended other women to Chengdi, which the host reads as creating respect and possible allies.
 - False-accusation defense: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] presents her answer to the wugu accusation as an argument from motive, values, and rational benefit.
@@ -44,20 +52,22 @@ Hanji 705-6 adds the afterlife of that reputation. In the episode's account, Ban
 
 ## Qualifications
 
-The current page remains source-bounded to Hanji 530, Hanji 531, and Hanji 705-6. Hanji 530 and Hanji 531 give host interpretations of Ban Jieyu's palace wisdom and defensive strategy, not a complete biography or legal case file. Hanji 705-6 shows her later remembered role in Ban Zhao's family instruction, but that later memory should not be treated as neutral access to every detail of her Western Han life.
+The current page remains source-bounded to Hanji 528, Hanji 530, Hanji 531, and Hanji 705-6. Hanji 528 gives a positive conduct-and-management reading of Ban Jieyu, not a complete biography of her early favor, Li Ping, or Fan Ji. Hanji 530 and Hanji 531 give host interpretations of Ban Jieyu's palace wisdom and defensive strategy, not a complete biography or legal case file. Hanji 705-6 shows her later remembered role in Ban Zhao's family instruction, but that later memory should not be treated as neutral access to every detail of her Western Han life.
 
 ## What Changed
 
-- Added Hanji 530's setup layer: Ban Jieyu survives the initial wugu investigation through two-sided reasoning and retreats to Changxin Palace.
-- Preserved Hanji 531's deeper rivalry layer: Ban Jieyu as Zhao Feiyan's remaining rival and as the speaker of a motive-based defense against wugu accusation.
+- Added Hanji 528's pre-crisis reputation layer: carriage refusal, Wang Zhengjun's Fan Ji comparison, and Li Ping recommendation as self-restrained palace favor management.
+- Integrated Hanji 528 with Hanji 530-531 so Ban Jieyu's later defensive credibility is grounded in an earlier positive reputation, not only in crisis response.
 
 ## Relationships
 
 - [[HanChengdi|汉成帝]] - emperor whose favor, palace order, and accusation setting shape Ban Jieyu's direct court role.
+- [[WangZhengjun|王政君]] - senior dowager who praises Ban Jieyu by comparing her to Fan Ji.
 - [[ZhaoFeiyanWesternHan|赵飞燕]] - rival palace figure who the source says moves against Ban Jieyu after Empress Xu's fall.
 - [[EmpressXuWesternHan|废后许氏]] - deposed empress whose removal creates the competitive opening in Hanji 531.
 - [[ZhaoHedeWesternHan|赵合德]] - favored Zhao sister whose arrival helps trigger Ban Jieyu's displacement and retreat.
 - [[BanZhaoLateHan|班昭]] - descendant writer whose `Nujie` is explained through admiration for Ban Jieyu.
 - [[MotiveBasedFalseAccusationDefense|动机反证式辩诬]] - defensive pattern abstracted from Ban Jieyu's response to the wugu charge.
+- [[PalaceFavorSelfRestraint|宫廷宠幸自持]] - positive self-restraint pattern abstracted from Ban Jieyu's carriage refusal and Li Ping recommendation.
 - [[NujieGenderNormTransmission|《女诫》性别规范传承]] - conduct-literature legacy that uses Ban Jieyu as its source-described family model.
 - [[WuguPoliticalPanic|巫蛊政治恐慌]] - hidden-curse accusation field in which Ban Jieyu's defense operates.

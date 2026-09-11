@@ -8606,9 +8606,9 @@
       "url": "/wiki/entities/bangueasternhan/"
     },
     "BanJieyuWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1 [lpNPrZWQH6c7jQcY7CXPggANIbmM].md",
@@ -8630,6 +8630,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》530丨赵飞燕艳冠后宫，成帝为何更宠妹妹？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-530-zhaofeiyan-yanguan-hougong-chengdi-weihe-gengchong-meimei-lra2oyg6pl3gmcn_khkby9kuuk0j/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！ [li_zockGVXTjooPWi0IzWknexugE].md",
+          "key": "zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge/"
         }
       ],
       "updated": "2026-09-12",
@@ -66533,6 +66540,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/palaceenvoylocalextraction/"
+    },
+    "PalaceFavorSelfRestraint": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！ [li_zockGVXTjooPWi0IzWknexugE].md",
+          "key": "zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/palacefavorselfrestraint/"
     },
     "PalaceFavoriteProtectionFragility": {
       "episode_count": 2,

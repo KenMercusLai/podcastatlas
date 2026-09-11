@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7086
+wiki_total_pages: 7087
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1841,6 +1841,9 @@ wiki_pages:
   - key: "PalaceInformationDiscipline"
     title: "宫廷信息纪律 / Palace Information Discipline"
     url: "/wiki/concepts/palaceinformationdiscipline/"
+  - key: "PalaceFavorSelfRestraint"
+    title: "宫廷宠幸自持 / Palace Favor Self-Restraint"
+    url: "/wiki/concepts/palacefavorselfrestraint/"
   - key: "PalaceCoupSymbolControl"
     title: "宫廷政变中的符印与门户控制 / Palace Coup Symbol Control"
     url: "/wiki/concepts/palacecoupsymbolcontrol/"
