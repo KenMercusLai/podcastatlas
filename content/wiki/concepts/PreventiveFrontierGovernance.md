@@ -6,6 +6,7 @@ tags: [frontier, governance, western-han, diplomacy]
 sources:
   - zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz
   - zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb
+  - zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo
 last_updated: 2026-09-12
 ---
 
@@ -23,6 +24,8 @@ The same concept also explains why Duan remains valuable later. After returning 
 
 The [[YelangKingXingWesternHan|Ye Lang King Xing]] crisis supplies the more active edge of the concept through [[DuQingWesternHan|杜清]]'s advice. Prevention does not mean continuing conciliation forever. Because Xing rejects mediation, insults Han authority, and may use distance from Chang'an to absorb nearby polities before attacking [[ZhangkeCommanderyWesternHan|牂柯郡]], Du Qing recommends quiet readiness, advance grain supply, and a fitted governor before the frontier problem becomes a larger campaign.
 
+[[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] gives that recommendation an operational test through [[ChenLiWesternHan|陈立]]. Chen Li does not wait indefinitely for authorization once the frontier timing problem is visible. He uses an inspection pretext to reach Xing, kills the key leader before the coalition can organize, and then suppresses residual resistance by cutting food, seizing water, and breaking cohesion. The preventive pattern therefore includes selected force, logistics, and discretion, not only quiet diplomacy.
+
 ## Key Claims
 
 - Frontier offices can be judged by crisis prevention, not only by visible victories.
@@ -30,8 +33,8 @@ The [[YelangKingXingWesternHan|Ye Lang King Xing]] crisis supplies the more acti
 - Preventive governance requires discretion because distance from the court makes many decisions time-sensitive.
 - Prevention can require early preparation for force when mediation gives an opponent time to consolidate.
 - Supply preparation and appointment fit are part of prevention, not administrative afterthoughts.
+- The preventive official must sometimes act under delayed central authorization, so judgment, cover, and follow-through become part of the office.
 - Personal credibility can become institutional capacity when local polities request a proven official's return.
-- The pattern is bounded by capacity: prevention works only when the official can also deter force and handle emergencies.
 
 ## Evidence
 
@@ -42,14 +45,17 @@ The [[YelangKingXingWesternHan|Ye Lang King Xing]] crisis supplies the more acti
 - Requested return: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Western Regions states ask for Duan to return when later disorder exceeds the sitting protector's ability.
 - Consolidation warning: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] says Du Qing warns that Ye Lang King Xing can exploit distance and delay to annex nearby small polities and attack Zhangke.
 - Prepared response: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] says Du Qing recommends quiet war readiness, pre-positioned grain, and selection of a suitable Zhangke governor.
+- Operational execution: [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] says Chen Li stops waiting for a delayed court reply, enters Xing's territory under inspection cover, and kills Xing before the wider force can organize.
+- Follow-through: [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] says Chen Li later uses food-route interdiction, spies, counterintelligence, and water-source control against Wengzhi and Yewu.
 
 ## Counterevidence & Qualifications
 
-The concept should not treat every uneventful frontier tenure as successful; quietness may also reflect missing evidence, suppressed reporting, or temporary luck. Hanji 524 gives a positive interpretation because later requests for Duan and later stabilization make the quiet period more credible. Hanji 512 adds the opposite caution: "preventive" is not the same as passive appeasement, because a defiant opponent can use delay to make later intervention more expensive.
+The concept should not treat every uneventful frontier tenure as successful; quietness may also reflect missing evidence, suppressed reporting, or temporary luck. Hanji 524 gives a positive interpretation because later requests for Duan and later stabilization make the quiet period more credible. Hanji 512 adds the opposite caution: "preventive" is not the same as passive appeasement, because a defiant opponent can use delay to make later intervention more expensive. Hanji 513 adds an ethical and administrative boundary: targeted killing can prevent wider war in the source's telling, but the page should not generalize that method beyond a case where the source frames Xing as the identified instigator and Chen Li as a fitted crisis governor.
 
 ## What Changed
 
 - Added Hanji 512 as an active-preparation variant through Du Qing's Ye Lang advice.
+- Added Hanji 513 as the operational continuation: Chen Li tests preventive advice through targeted action and logistics-based pacification.
 - Preserved Hanji 524's "no famous achievement" reading of Duan Huizong's Western Regions administration.
 
 ## Related Concepts
@@ -57,5 +63,6 @@ The concept should not treat every uneventful frontier tenure as successful; qui
 - [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]] - preventive governance still depends on whether the center can sustain commitments.
 - [[CapacityBackedDiplomaticHierarchy|实力支撑的外交名分]] - Duan's quiet order requires credible backing, not title alone.
 - [[CoerciveFrontierDeterrence|强制边疆震慑]] - later Duan material shows the coercive edge that can support preventive order.
+- [[ChenLiWesternHan|陈立]] - frontier official who turns preparation logic into a timed Zhangke action.
 - [[EffectMeasuredPersonnelSelection|实效考察式用人]] - both concepts judge officials by actual problem-solving rather than surface reputation.
 - [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - frontier prevention can depend on fitting the right governor to a vulnerable post.

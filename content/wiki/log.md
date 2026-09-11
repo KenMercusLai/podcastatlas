@@ -17692,6 +17692,10 @@ Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Await
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》513丨勇闯夺命岛！汉臣陈立诛杀夜郎国王！
+
+Ingested the Hanji 513 Ye Lang continuation from Podcast Atlas. Created the source note and Chen Li entity; updated Ye Lang, Ye Lang King Xing, Zhangke Commandery, Preventive Frontier Governance, and Coercive Frontier Deterrence with Chen Li's targeted killing of Xing and logistics-based suppression of Wengzhi/Yewu residual resistance. No settled contradiction was found; side figures and local names remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！
 
 Added source. Key claims: Ye Lang King Xing's conflict with Gouding and Louwo threatens Zhangke Commandery; Han mediation fails after Xing symbolically insults Han authority; Du Qing recommends preventive preparation, grain supply, and appointment fit before the transcript reaches Chen Li's execution sequence.
@@ -17858,6 +17862,10 @@ Added source note for 日谈物语 E02, created Unification Church, Han Hak-ja, 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

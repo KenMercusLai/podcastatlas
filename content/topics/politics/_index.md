@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2398
+topic_total_pages: 2399
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6353,6 +6353,9 @@ topic_entities:
   - key: "ChenZhongLateHan"
     title: "陈忠 / Chen Zhong (late Han)"
     url: "/wiki/entities/chenzhonglatehan/"
+  - key: "ChenLiWesternHan"
+    title: "陈立 / Chen Li (Western Han)"
+    url: "/wiki/entities/chenliwesternhan/"
   - key: "ChenBaoLateHan"
     title: "陈鲍 / Chen Bao (late Han)"
     url: "/wiki/entities/chenbaolatehan/"

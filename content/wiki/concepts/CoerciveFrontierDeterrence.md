@@ -6,7 +6,8 @@ tags: [frontier, diplomacy, coercion, western-han, xiongnu, western-regions]
 sources:
   - zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd
   - zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo
+last_updated: 2026-09-12
 ---
 
 ## Definition
@@ -21,7 +22,9 @@ The Han court does not treat the chanyu's report or plea for leniency as enough.
 
 An earlier, more tactical variant appears through [[DuanHuizongWesternHan|段会宗]] in [[Wusun|乌孙]]. Duan kills [[FanqiuWusun|番丘]] with a small selected party because a large punitive army would warn the target. When [[AnlimiWusun|安犁靡]] surrounds him with thousands of riders, Duan invokes Han's prior punishments of a Dayuan king and [[ZhizhiChanyu|郅支单于]], then gives Anlimi a face-saving reason to withdraw.
 
-The concept stays qualified because deterrence has a trust cost and depends on audience interpretation. Hanji 613 says Wang Mang-era punishment makes Western Regions states dissatisfied and afraid. Hanji 550 shows the opposite short-term outcome: a threat works because Duan pairs it with an exit ramp. Neither source proves durable allegiance; both show coercion as a fragile instrument inside frontier order.
+The southwestern Zhangke variant runs through [[ChenLiWesternHan|陈立]] in [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]]. Chen Li kills [[YelangKingXingWesternHan|夜郎王兴]] inside Xing's own territory, then has the head shown to surrounding rulers and troops. The immediate effect is collapse of the assembled military display and material submission by Gouding and Louwo. Yet deterrence is incomplete until Chen Li also defeats Wengzhi and Yewu through grain, water, and counterintelligence pressure, so this case ties coercive shock to follow-on pacification.
+
+The concept stays qualified because deterrence has a trust cost and depends on audience interpretation. Hanji 613 says Wang Mang-era punishment makes Western Regions states dissatisfied and afraid. Hanji 550 shows the opposite short-term outcome: a threat works because Duan pairs it with an exit ramp. Hanji 513 shows still another limit: killing the key leader shocks bystanders, but kin-based remnants can keep resisting. None of the sources prove durable allegiance; together they show coercion as a fragile instrument inside frontier order.
 
 ## Key Claims
 
@@ -30,6 +33,7 @@ The concept stays qualified because deterrence has a trust cost and depends on a
 - Executing dependent rulers before assembled peers makes punishment communicative, not only retributive.
 - Anti-harboring rules convert individual flight into a general border-control regime.
 - A small-force punitive mission can work when the target is isolated, but it creates immediate retaliation risk.
+- A leader-decapitation strike can shock surrounding troops into surrender, but residual resistance may still require logistics and intelligence.
 - The same policy can deter flight or retaliation while damaging dependent-polity trust if no face-saving exit remains.
 
 ## Evidence
@@ -42,14 +46,17 @@ The concept stays qualified because deterrence has a trust cost and depends on a
 - Targeted killing: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Duan Huizong selects about thirty armed men, summons Fanqiu, and has him killed after listing the offenses.
 - Remembered imperial threat: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Duan invokes the earlier display of a Dayuan king's head and Zhizhi Chanyu's head in Chang'an.
 - Exit-ramp management: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Duan explains why he could not notify Anlimi beforehand, letting Anlimi withdraw without openly protecting Fanqiu.
+- Leader decapitation: [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] says Chen Li summons Xing to Qietong Pavilion, has prepared axemen kill him, and displays his head to surrounding rulers and soldiers.
+- Follow-on limit: [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] says Wengzhi and Yewu continue resistance after Xing's death until Chen Li breaks food, water, and internal cohesion.
 
 ## Counterevidence & Qualifications
 
-The concept should not be used for ordinary frontier law enforcement, military victory, or symbolic demotion alone. Hanji 613 supports the extradition, public-execution, and anti-harboring-rule variant; Hanji 550 supports the small-force targeted-punishment and remembered-precedent variant. Neither source proves long-run deterrence success. The concept should stay attentive to trust damage, audience fear, face-saving exits, and the possibility that coercion may produce later rupture, as in [[SymbolicStatusDowngradeBackfire|象征性名分降格反噬]] or [[UnsupportedFrontierIntervention|无支撑边疆干预]].
+The concept should not be used for ordinary frontier law enforcement, military victory, or symbolic demotion alone. Hanji 613 supports the extradition, public-execution, and anti-harboring-rule variant; Hanji 550 supports the small-force targeted-punishment and remembered-precedent variant; Hanji 513 supports leader decapitation followed by logistical pacification. None proves long-run deterrence success. The concept should stay attentive to trust damage, audience fear, face-saving exits, surviving kin factions, and the possibility that coercion may produce later rupture, as in [[SymbolicStatusDowngradeBackfire|象征性名分降格反噬]] or [[UnsupportedFrontierIntervention|无支撑边疆干预]].
 
 ## What Changed
 
 - Added Hanji 550 as a small-force, precedent-backed variant through Duan Huizong's killing of Fanqiu and survival of Anlimi's encirclement.
+- Added Hanji 513 as a Zhangke/Yelang leader-decapitation variant whose success still requires follow-on logistical pacification.
 - Preserved Hanji 613 as the rule-making and public-execution variant while making the concept less dependent on extradition alone.
 
 ## Related Concepts
@@ -60,5 +67,7 @@ The concept should not be used for ordinary frontier law enforcement, military v
 - [[CapacityBackedDiplomaticHierarchy|实力支撑的外交名分]] - related because diplomatic rank claims require enough force or credibility to make counterparts comply.
 - [[Xiongnu|匈奴]] - counterpart whose acceptance and surrender of fugitives grounds the source case.
 - [[DuanHuizongWesternHan|段会宗]] - actor who adds the small-force Wusun variant.
+- [[ChenLiWesternHan|陈立]] - actor who adds the Zhangke/Yelang leader-decapitation variant.
+- [[YelangKingXingWesternHan|夜郎王兴]] - frontier ruler whose killing creates the source's deterrent shock.
 - [[Wusun|乌孙]] - frontier polity where targeted punishment creates immediate encirclement risk.
 - [[DiplomaticRitualDignity|使节礼节国威]] - adjacent because coercive threats and ritual-status signals both depend on how frontier audiences read Han authority.
