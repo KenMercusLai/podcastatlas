@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？](sources/zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw.md) — 芮淇讲透资治通鉴 episode on Han Chengdi's disguised outings, Zhang Fang household cover, Zhang Yu's privileged retirement, Wang Yin's pheasant-omen remonstrance, and no-heir pressure.
 - [《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？](sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub.md) — 芮淇讲透资治通鉴 episode on Western Han mausoleum counties, Guandong elite relocation, Chen Tang's Changlingyi memorial, and the public/private logic of capital-region household status.
 - [《资治通鉴·汉纪》527-1丨汉成帝杀舅记：装可怜虽然可耻，但是有用！](sources/zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn.md) — 芮淇讲透资治通鉴 short episode on Wang-family luxury, Chengdi's Bo Zhao warning, and staged awaiting-punishment repentance.
 - [《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！](sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p.md) — 芮淇讲透资治通鉴 short episode linking the Yu Huaying trafficking case, family trauma, Zhangjiashan's 《二年律令》, Han buyer liability, 《盲山》, and public refusal of social blindness.

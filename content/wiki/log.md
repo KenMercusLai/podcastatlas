@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？
+
+Added source `zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw`; updated `HanChengdi`, `WangYinWesternHan`, `ZhangFangWesternHan`, `ZhangYuWesternHan`, `XueXuanWesternHan`, `index`, and `overview`. No settled contradiction found; Chengdi's disguised outings, Zhang Fang household cover, Zhang Yu's privileged retirement, Xue Xuan's rise, and Wang Yin's pheasant-omen remonstrance remain source-scoped where the episode leaves uncertainty.
+
 ## [2026-09-12] ingest | 史蒂夫说463期 - 既然迷茫不可避免，如何区分假性迷茫？如何有效迷茫？
 
 Added source `shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb`; created `EffectiveConfusionOdysseyPeriod`; updated `SteveShiDiFuShuoHost`, `SelfUnderstandingAsVitality`, `BodyBasedSelfTrust`, `BoxingAsEmbodiedAgency`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source distinguishes self-alienation-driven false confusion from existential true confusion while keeping its advice source-scoped public psychology rather than individualized therapy, diagnosis, career advice, or crisis guidance.
@@ -17826,6 +17830,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

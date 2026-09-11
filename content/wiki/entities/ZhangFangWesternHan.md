@@ -7,16 +7,19 @@ sources:
   - zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5
   - zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si
   - zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m
+  - zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-张放 / Zhang Fang enters the wiki through [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] as one of the favorites [[WangJiaWesternHan|王嘉]] later cites when praising [[HanChengdi|汉成帝]] for not permanently shielding intimate companions from consequence. [[zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si|Hanji 549]] adds a later notice that [[WangZhengjun|王政君]] again blocks Chengdi from keeping Zhang Fang close. [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] now supplies the full source-scoped favorite case.
+张放 / Zhang Fang enters the wiki through [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] as one of the favorites [[WangJiaWesternHan|王嘉]] later cites when praising [[HanChengdi|汉成帝]] for not permanently shielding intimate companions from consequence. [[zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si|Hanji 549]] adds a later notice that [[WangZhengjun|王政君]] again blocks Chengdi from keeping Zhang Fang close. [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] now supplies the full source-scoped favorite case. [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] backfills why Zhang Fang's name could function as cover for Chengdi's disguised outings: his Zhang Anshi descent, Jingwu Princess connection, court offices, and Empress Xu marriage tie made the Fuping Hou household a plausible identity shield.
 
 ## Current Profile
 
 Hanji 539 presents Zhang Fang as Chengdi's intimate male favorite, drinking and traveling companion, and pleasure-world facilitator. His power is not only emotional: he is tied to the Zhang Tang line, belongs to the imperial kin network, marries into the Xu empress's family, and is the son of [[JingwuPrincessWesternHan|靖武公主]]. Those ties help explain why his conduct becomes a political issue rather than only private scandal.
+
+Hanji 525 shows the same access before the later removal case. Chengdi's private outings are hidden behind a claim that he is from the Fuping Hou household, and the episode identifies that household with Zhang Fang. Zhang Fang therefore functions not only as a later favorite but as a socially credible mask for Chengdi's effort to step outside imperial visibility.
 
 The immediate case begins during a palace outing. [[BanBoWesternHan|班伯]] answers Chengdi's question about a Shang Zhou and Daji image by shifting blame away from women and toward wine, disorder, and reversed day-night conduct. Zhang Fang reacts with visible displeasure and leaves. Palace reporting carries the incident to Wang Zhengjun, who presses Chengdi to send Zhang Fang away.
 
@@ -25,7 +28,7 @@ Zhang Fang's protection is real but limited. Chengdi resists losing him, continu
 ## Key Characteristics
 
 - Western Han favorite closely attached to Han Chengdi.
-- Presented as a drinking, travel, and pleasure companion whose intimacy becomes politically visible.
+- Presented as a drinking, travel, and pleasure companion whose intimacy becomes politically visible, including as the household cover identity Chengdi uses during disguised outings.
 - Protected by royal kinship, marriage ties, Zhang-family status, and Chengdi's affection.
 - Exposed when Ban Bo's indirect remonstrance and Wang Zhengjun's intervention turn private indulgence into court business.
 - Impeached by Xue Xuan and Zhai Fangjin for arrogance, dissolute conduct, noncooperation, and abusive followers.
@@ -39,10 +42,12 @@ Favorite consequence:
 - [[zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si|Hanji 549]] says Zhang Fang is again sent away after Wang Zhengjun objects to Chengdi bringing him back.
 
 Favorite role and exposure:
+- [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] says Chengdi often claims to be from the Fuping Hou household during disguised outings, and identifies that line with Zhang Fang.
 - [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] presents Zhang Fang as Chengdi's favored companion in drinking, travel, and pleasure.
 - [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Zhang Fang reacts angrily to Ban Bo's wine-warning analogy and leaves the scene.
 
 Kinship and impeachment:
+- [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] says Zhang Fang is a fourth-generation descendant of Zhang Anshi through Zhang Lin, son of Jingwu Princess, a near-attendant official, and married to Empress Xu's younger sister.
 - [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Zhang Fang is Jingwu Princess's son, linked to the Zhang Tang line, and married to Empress Xu's niece.
 - [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Xue Xuan and Zhai Fangjin impeach Zhang Fang after dowager and outer-relative pressure.
 
@@ -52,11 +57,12 @@ Exile and continuing affection:
 
 ## Qualifications
 
-This page distinguishes Zhang Fang from [[ZhangFangEunuchLateHan|张防]], the late-Han eunuch in Emperor Shun's court. It is bounded to Hanji 539, Hanji 549, and Hanji 592; it does not settle the full historical or sexual nature of the Chengdi-Zhang Fang relationship, the truth of every impeachment charge, Zhang Fang's complete offices, or his full family genealogy.
+This page distinguishes Zhang Fang from [[ZhangFangEunuchLateHan|张防]], the late-Han eunuch in Emperor Shun's court. It is bounded to Hanji 525, Hanji 539, Hanji 549, and Hanji 592; it does not settle the full historical or sexual nature of the Chengdi-Zhang Fang relationship, the truth of every impeachment charge, Zhang Fang's complete offices, or his full family genealogy. Hanji 525 and Hanji 539 differ in the exact Xu-family marriage description; this page keeps both as source-scoped rather than harmonizing beyond the episode notes.
 
 ## What Changed
 
 - Created Zhang Fang as a Western Han page distinct from the late-Han eunuch Zhang Fang/Zhang Fang route.
+- Added Hanji 525's earlier household-cover layer for Chengdi's disguised outings.
 - Added Hanji 539's full Chengdi-favorite, dowager-pressure, and ministerial-impeachment account.
 - Preserved Hanji 549 and Hanji 592 as later and retrospective evidence that Zhang Fang's removal became part of Chengdi's remonstrance-tolerance reputation.
 
