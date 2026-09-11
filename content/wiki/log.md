@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | 史蒂夫说463期 - 既然迷茫不可避免，如何区分假性迷茫？如何有效迷茫？
+
+Added source `shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb`; created `EffectiveConfusionOdysseyPeriod`; updated `SteveShiDiFuShuoHost`, `SelfUnderstandingAsVitality`, `BodyBasedSelfTrust`, `BoxingAsEmbodiedAgency`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source distinguishes self-alienation-driven false confusion from existential true confusion while keeping its advice source-scoped public psychology rather than individualized therapy, diagnosis, career advice, or crisis guidance.
+
 ## [2026-09-11] ingest | VOL.206 澳洲急诊等8小时没人理？中澳医疗对谈：极致内卷与准点下班的巨大参差
 
 Added source. Key claims: Australian healthcare access is severity- and channel-triaged through GP referral, public hospitals, private care, and urgent-care clinics; radiographers perform clinical request review, image-quality judgment, urgent finding recognition, and escalation; patient-facing imaging communication must balance reassurance with privacy, professional scope, formal reporting, and follow-up.
@@ -17691,6 +17695,10 @@ Added The Rest Is History source page for the opening 1915 Western Front episode
 ## [2026-09-12] ingest | How to Overcome Social Anxiety | Dr. Nick Epley
 
 Added Huberman Lab source on Nick Epley's social-connection research, mind reading, voice, underestimating strangers' interest, real exposure for social anxiety, adoption, Down syndrome, and modeled social habits. Created Nick Epley, Everyday Social Connection, Social Misprediction, Voice Humanization, Real Exposure for Social Anxiety, and Diagnosis Personhood Boundary. No settled contradiction found; clinical, family, disability, AI-voice, and loneliness physiology claims remain source-scoped.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

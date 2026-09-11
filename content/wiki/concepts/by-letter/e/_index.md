@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7073
+wiki_total_pages: 7074
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -146,6 +146,9 @@ wiki_pages:
   - key: "EffectiveAltruism"
     title: "Effective Altruism"
     url: "/wiki/concepts/effectivealtruism/"
+  - key: "EffectiveConfusionOdysseyPeriod"
+    title: "Effective Confusion In The Odyssey Period / 有效迷茫"
+    url: "/wiki/concepts/effectiveconfusionodysseyperiod/"
   - key: "EffectiveTariffRateShock"
     title: "Effective Tariff Rate Shock"
     url: "/wiki/concepts/effectivetariffrateshock/"

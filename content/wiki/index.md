@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [史蒂夫说463期 - 既然迷茫不可避免，如何区分假性迷茫？如何有效迷茫？](sources/shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb.md) — 史蒂夫说 crossover on the Odyssey period, false versus true confusion, self-alienation, meaning creation, embodied exploration, AI reflection boundaries, and healthy迷茫.
 - [《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连](sources/zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u.md) — 芮淇讲透资治通鉴 episode on Gu Yong's disaster-omen remonstrance against Han Chengdi, Wang-family backing, Wang Shang's warning, and bounded pursuit after imperial anger.
 - [《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛](sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m.md) — 芮淇讲透资治通鉴 episode on Han Chengdi and Zhang Fang's intimate favorite relationship, Ban Bo's wine-warning remonstrance, Wang Zhengjun's pressure, and Xue Xuan's politically self-protective impeachment.
 - [《资治通鉴·汉纪》540丨太后的葬礼](sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd.md) — 芮淇讲透资治通鉴 episode on Qiongcheng Taihou's rushed funeral, Xue Xuan's dismissal, Zhai Fangjin's promotion after punishment, and Kong Guang's palace-information discipline.
@@ -11958,6 +11959,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Effective Confusion In The Odyssey Period / 有效迷茫](concepts/EffectiveConfusionOdysseyPeriod.md) — Frame for treating young-adult迷茫 as a self-discovery process involving false confusion, existential meaning, practice, embodiment, and support.
 - [亲缘政治切割 / Kinship Political Cutting](concepts/KinshipPoliticalCutting.md) — Pattern where a court actor publicly distances from risky family-adjacent ties for political self-protection.
 - [丧葬礼制责任 / Funeral Ritual Accountability](concepts/FuneralRitualAccountability.md) — pattern where royal funeral handling becomes a test of office duty, ritual respect, public resources, and dynastic memory.
 - [宫廷信息纪律 / Palace Information Discipline](concepts/PalaceInformationDiscipline.md) — pattern where officials treat even small palace details as politically sensitive access information.

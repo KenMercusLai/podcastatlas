@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1009
+topic_total_pages: 1011
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -454,6 +454,9 @@ topic_concepts:
   - key: "EEGBrainReading"
     title: "EEG Brain Reading"
     url: "/wiki/concepts/eegbrainreading/"
+  - key: "EffectiveConfusionOdysseyPeriod"
+    title: "Effective Confusion In The Odyssey Period / 有效迷茫"
+    url: "/wiki/concepts/effectiveconfusionodysseyperiod/"
   - key: "EffortAsReward"
     title: "Effort As Reward"
     url: "/wiki/concepts/effortasreward/"
@@ -3012,6 +3015,9 @@ topic_sources:
   - key: "zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae"
     title: "中年三账户：现金流、肌肉、睡眠"
     url: "/wiki/sources/zhongnian-san-zhanghu-xianjinliu-jirou-shuimian-lnyomru5v2yzo1-otuyw2mdj-vae/"
+  - key: "shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb"
+    title: "史蒂夫说463期 - 既然迷茫不可避免，如何区分假性迷茫？如何有效迷茫？"
+    url: "/wiki/sources/shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb/"
   - key: "shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhLhohpUHBpofcWXtzOuxDIvRber"
     title: "史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界"
     url: "/wiki/sources/shi-di-fu-shuo-465-liangyi-cong-zigong-zouxiang-xianshi-lhlhohpuhbpofcwxtzouxdivrber/"
