@@ -8606,9 +8606,9 @@
       "url": "/wiki/entities/bangueasternhan/"
     },
     "BanJieyuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1 [lpNPrZWQH6c7jQcY7CXPggANIbmM].md",
@@ -8616,9 +8616,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-6丨班昭：三次一鸣惊人，闺蜜干政NO.1",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！ [lsi7k-67UeL46ea024kAuBJ2L_qh].md",
+          "key": "zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/banjieyuwesternhan/"
     },
     "BanShiLateHan": {
@@ -61419,6 +61426,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/motivationrewardeffortcalculation/"
     },
+    "MotiveBasedFalseAccusationDefense": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！ [lsi7k-67UeL46ea024kAuBJ2L_qh].md",
+          "key": "zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/motivebasedfalseaccusationdefense/"
+    },
     "MouDestructionStrike": {
       "episode_count": 1,
       "show_count": 1,
@@ -101735,9 +101758,9 @@
       "url": "/wiki/entities/zhaodulatehan/"
     },
     "ZhaoFeiyanWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？ [lkaCfnDVI8t1opeP67XmqUyzR_wW].md",
@@ -101759,9 +101782,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》571丨汉成帝亲手杀子，是真是假？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！ [lsi7k-67UeL46ea024kAuBJ2L_qh].md",
+          "key": "zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/zhaofeiyanwesternhan/"
     },
     "ZhaoHedeWesternHan": {

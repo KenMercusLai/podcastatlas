@@ -2,45 +2,56 @@
 title: "班婕妤 / Ban Jieyu (Western Han)"
 type: entity
 knowledge_schema: synthesis-v1
-tags: [person, western-han, court, women, literary-memory, gender]
+tags: [person, western-han, court, women, literary-memory, gender, reputation]
 sources:
   - zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh
+last_updated: 2026-09-12
 ---
 
 ## Overview
 
-班婕妤 / Ban Jieyu appears in the current wiki as the Western Han family exemplar through whom [[BanZhaoLateHan|Ban Zhao]] explains the intended household teaching behind `Nujie`. The source does not build a full biography; it uses Ban Jieyu as an honored Ban-family woman whose perceived virtue becomes a model for later female conduct instruction.
+班婕妤 / Ban Jieyu is now synthesized as both a Western Han court actor and a later Ban-family female exemplar. [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] gives the direct court layer: after [[EmpressXuWesternHan|废后许氏]] is removed, [[ZhaoFeiyanWesternHan|赵飞燕]] treats Ban Jieyu as a remaining obstacle because of seniority, origin, reputation, and palace skill. [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] later preserves her as the admired ancestor-aunt behind [[BanZhaoLateHan|班昭]]'s family instruction in `Nujie`.
 
 ## Current Profile
 
-Hanji 705-6 introduces Ban Jieyu indirectly. In the episode's account, Ban Zhao writes `Nujie` in her final years for women in her own family, and the emotional model behind that instruction is her ancestor-aunt Ban Jieyu. Ban Jieyu is described as a family pride and as the kind of woman Ban Zhao wants younger Ban-family women to learn from.
+Hanji 531 presents Ban Jieyu as dangerous to Zhao Feiyan not because she is the current favorite, but because she remains institutionally and reputationally credible. The host highlights her long earlier favor under Chengdi, her respectable background, her public virtue image, and her unusual willingness to recommend other women to the emperor. That behavior is read as wisdom: it makes Chengdi respect her and may also create palace allies rather than isolating her.
 
-The page therefore treats Ban Jieyu as a memory figure in this bounded source rather than as a reconstructed court actor. Her importance here lies in transmission: Ban Zhao's admiration for her turns an inherited family example into prescriptive writing, which later becomes the contested [[NujieGenderNormTransmission|`Nujie` gender-norm legacy]].
+The same episode centers on Ban Jieyu's answer to an accusation that she used wugu-style cursing against Chengdi. Her defense does not try to prove every nonexistent act. Instead, she argues from motive and value: righteous conduct may not bring reward, but unrighteous conduct is even less rational; if spirits are real, they will not accept a disloyal appeal, and if they are not, cursing is pointless. The episode treats this as [[MotiveBasedFalseAccusationDefense|动机反证式辩诬]].
+
+Hanji 705-6 adds the afterlife of that reputation. In the episode's account, Ban Zhao writes `Nujie` for women in her own family and takes Ban Jieyu as an admired family model. The wiki therefore treats Ban Jieyu's legacy as double: a court survivor whose rhetorical defense matters in Western Han palace politics, and a remembered virtue figure whose image later feeds gendered conduct instruction.
 
 ## Key Characteristics
 
-- Ban-family female exemplar preserved through later Eastern Han memory rather than direct action in this source.
-- Model of virtue used to explain Ban Zhao's purpose in writing `Nujie` for family women.
-- Source-scoped link between female literary memory and later conduct instruction.
-- Figure whose current wiki evidence is derivative: she is known here through Ban Zhao's reported admiration.
+- Western Han palace woman with enough seniority, origin, and reputation to remain a potential rival after Empress Xu's deposition.
+- Court actor whose self-presentation includes recommending other women to Chengdi, read by the source as both virtue and palace relationship skill.
+- Accused in a wugu-style charge and defended herself by denying motive, benefit, and value compatibility rather than trying to prove a negative.
+- Later Ban-family exemplar remembered by Ban Zhao as a model for family women.
+- Bridge between direct Western Han palace politics and Eastern Han female literary-memory transmission.
 
 ## Evidence
 
-- Family exemplar: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao's `Nujie` reflections drew on Ban Jieyu's life story and treated Ban Jieyu as Ban-family pride.
+- Rival status: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] says Zhao Feiyan still needed to deal with Ban Jieyu because seniority, family standing, and reputation could make her a post-Empress-Xu competitor.
+- Palace relationship skill: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] says Ban Jieyu recommended other women to Chengdi, which the host reads as creating respect and possible allies.
+- False-accusation defense: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] presents her answer to the wugu accusation as an argument from motive, values, and rational benefit.
+- Family exemplar: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao's `Nujie` reflections drew on Ban Jieyu's life story and treated her as Ban-family pride.
 - Instructional model: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao wanted family daughters to learn Ban Jieyu-like virtues.
-- Legacy channel: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] connects that family model to the later disputed reception of `Nujie`.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 705-6. It does not reconstruct Ban Jieyu's historical biography, court career, poetry, or Western Han political setting. The current evidence only supports her role as Ban Zhao's remembered family exemplar behind `Nujie`.
+The current page remains source-bounded to Hanji 531 and Hanji 705-6. Hanji 531 gives a host interpretation of Ban Jieyu's palace wisdom and defensive strategy, not a complete biography or legal case file. Hanji 705-6 shows her later remembered role in Ban Zhao's family instruction, but that later memory should not be treated as neutral access to every detail of her Western Han life.
 
 ## What Changed
 
-- Created from Hanji 705-6 as the Ban-family female exemplar used to explain Ban Zhao's `Nujie` motivation.
+- Added Hanji 531's direct Western Han layer: Ban Jieyu as Zhao Feiyan's remaining rival and as the speaker of a motive-based defense against wugu accusation.
+- Reframed the older Hanji 705-6 evidence as later memory rather than the whole profile.
 
 ## Relationships
 
+- [[HanChengdi|汉成帝]] - emperor whose favor, palace order, and accusation setting shape Ban Jieyu's direct court role.
+- [[ZhaoFeiyanWesternHan|赵飞燕]] - rival palace figure who the source says moves against Ban Jieyu after Empress Xu's fall.
+- [[EmpressXuWesternHan|废后许氏]] - deposed empress whose removal creates the competitive opening in Hanji 531.
 - [[BanZhaoLateHan|班昭]] - descendant writer whose `Nujie` is explained through admiration for Ban Jieyu.
+- [[MotiveBasedFalseAccusationDefense|动机反证式辩诬]] - defensive pattern abstracted from Ban Jieyu's response to the wugu charge.
 - [[NujieGenderNormTransmission|《女诫》性别规范传承]] - conduct-literature legacy that uses Ban Jieyu as its source-described family model.
-- [[FemaleCourtEducationEasternHan|东汉宫廷女性教育]] - adjacent female-learning context, though Ban Jieyu herself is not evidence for the Eastern Han court school.
+- [[WuguPoliticalPanic|巫蛊政治恐慌]] - hidden-curse accusation field in which Ban Jieyu's defense operates.
