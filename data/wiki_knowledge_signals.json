@@ -37187,9 +37187,9 @@
       "url": "/wiki/concepts/growthwitnessing/"
     },
     "GuYongWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -37197,9 +37197,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云",
           "url": "/wiki/sources/zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！ [lm9_0R8mnWCrpqUKMSMOxWndZwY0].md",
+          "key": "zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/guyongwesternhan/"
     },
     "GuanBaLateHan": {
@@ -38531,9 +38538,9 @@
       "url": "/wiki/concepts/hancavalryformation/"
     },
     "HanChengdi": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -38653,6 +38660,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》539丨汉成帝与张放的情感纠葛",
           "url": "/wiki/sources/zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！ [lm9_0R8mnWCrpqUKMSMOxWndZwY0].md",
+          "key": "zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0/"
         }
       ],
       "updated": "2026-09-12",
@@ -63961,6 +63975,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/concepts/officeagentharnessdesign/"
+    },
+    "OfficeBasedLocalEliteIncorporation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！ [lm9_0R8mnWCrpqUKMSMOxWndZwY0].md",
+          "key": "zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/officebasedlocaleliteincorporation/"
     },
     "OfficeBasedRebelIncorporation": {
       "episode_count": 2,
@@ -103067,9 +103097,9 @@
       "url": "/wiki/entities/zhuboeasternhan/"
     },
     "ZhuBoWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命 [ljIunEoWN6Ah1yx5G_uChPB5ESCp].md",
@@ -103105,9 +103135,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》577丨官场逆淘汰：为什么庸官升得更快？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！ [lm9_0R8mnWCrpqUKMSMOxWndZwY0].md",
+          "key": "zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》543丨刺头员工太难管？用好这招，轻松让他服软！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/zhubowesternhan/"
     },
     "ZhuChangLateHan": {

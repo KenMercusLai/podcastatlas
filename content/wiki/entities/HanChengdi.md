@@ -21,6 +21,7 @@ sources:
   - zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd
   - zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2
   - zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m
+  - zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0
 last_updated: 2026-09-12
 ---
 
@@ -34,6 +35,8 @@ The immediately preceding favorite-removal layer shows Chengdi receiving [[BanBo
 
 The next 14 BCE warning layer shows [[MeiFuWesternHan|梅福]] telling Chengdi that after [[WangZhangWesternHan|王章]] is killed for criticizing [[WangFengWesternHan|王凤]], a court afraid to speak cannot correct outer-relative danger. The episode makes Chengdi a ruler who can hear the argument for open remonstrance and institutional restraint, but does not convert it into effective action.
 
+Hanji 543 adds the intervening ritual-anxiety layer. After a solar eclipse and destructive wind at Ganquan, [[LiuXiang|刘向]] persuades Chengdi that abandoning major sacrifices may offend the sacred order. Chengdi restores Ganquan, Fenyin Houtu, Yongdi/Wudi, Chenbao, and related rites; because he is childless and receptive to spirits and fangshu, petitioners increase. [[GuYongWesternHan|谷永]] then gives the counterweight, warning that claims about immortals, elixirs, and gold-making are deception rather than proper governance.
+
 ## Current Profile
 
 The sources' use of Emperor Cheng remains narrow. Hanji 654 says Yang Xiong receives a summons in the Chengdi period and serves as a palace gentleman, but despite passing through several reigns his career does not rise much.
@@ -41,6 +44,8 @@ The sources' use of Emperor Cheng remains narrow. Hanji 654 says Yang Xiong rece
 An earlier administrative-ritual case shows Chengdi angered by Qiongcheng Taihou's hurried funeral and holding the chancellor and Yushi Dafu responsible. Xue Xuan loses the chancellorship, while Zhai Fangjin is demoted but then promoted to chancellor and enfeoffed; Chengdi also promotes Kong Guang to Yushi Dafu. This makes Chengdi's responsibility style look procedural and uneven: ritual neglect is punished, but the court still reuses a penalized official whose strict enforcement it values.
 
 Another early late-Chengdi responsibility problem comes through Mei Fu's memorial, which asks Chengdi to reopen the speech channel after Wang Zhang's death and to prevent Wang-family outer-relative power from hardening. In the source's reading, Chengdi understands many governing principles but lacks the decisive will to act on them, so the warning remains sharper than the ruler response.
+
+Hanji 543 places Chengdi's childlessness inside ritual policy. The episode says an eclipse and violent wind frighten Chengdi after earlier sacrifice-reduction advice, and Liu Xiang's warning helps turn that fear into restoration of costly sacrifices. Gu Yong's memorial then shows Chengdi capable of approving skeptical anti-fangshu reasoning in principle, even as the court environment remains open to ritual specialists because imperial fertility and omen anxiety are unresolved.
 
 Hanji 592 uses Cheng differently, as one part of Wang Jia's praise-before-warning memorial. In that frame, Cheng is praised for accepting severe warnings about private conduct and for eventually allowing favorites such as Chunyu Zhang, Zhang Fang, and Shi Yu to face demotion, exile, or prison consequences. Hanji 549 supplies an earlier example that makes the praise less abstract: Cheng initially treats Zhu Yun's accusation against Zhang Yu as a capital insult, but Xin Qingji's plea lets him cool down, spare Zhu Yun, and later keep the broken railing as an emblem of tolerated direct speech.
 
@@ -68,7 +73,7 @@ Chengdi therefore now functions as Yang Xiong career background, Wang Jia's rule
 
 ## Key Characteristics
 
-- Western Han emperor who combines Ban Bo's indirect remonstrance over Zhang Fang, ritual-accountability punishment, Mei Fu's unconverted warning after Wang Zhang's death, literary patronage background for Yang Xiong, and later use by Wang Jia as a precedent for tolerating direct criticism.
+- Western Han emperor who combines Ban Bo's indirect remonstrance over Zhang Fang, ritual-accountability punishment, sacrifice-restoration under omen and childlessness pressure, Mei Fu's unconverted warning after Wang Zhang's death, literary patronage background for Yang Xiong, and later use by Wang Jia as a precedent for tolerating direct criticism.
 - Shown as redirecting omen responsibility onto a chancellor and later making the Dingtao-line succession decision after candidate performance, Fu Taihou's lobbying network, and Kong Guang's classical objection all enter the field.
 - Uses office restoration and rank balancing to formalize Wang Gen as Da Sima while removing his Piaoji Jiangjun command.
 - Handles the Chunyu Zhang case first with limited dismissal, then with lethal escalation once attempted restoration and Empress Xu scandal surface.
@@ -112,6 +117,8 @@ Chengdi therefore now functions as Yang Xiong career background, Wang Jia's rule
 - Diplomatic blame transfer: [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn|Hanji 554]] says Chengdi later replies that Xiahou Fan falsely invoked imperial command and moves him away from Xiongnu-facing duty.
 - Funeral accountability: [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Chengdi blames Xue Xuan and Zhai Fangjin after Qiongcheng Taihou's rushed funeral.
 - Personnel reuse: [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Chengdi dismisses Xue Xuan but then promotes the punished Zhai Fangjin to chancellor and Kong Guang to Yushi Dafu.
+- Sacrifice restoration: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] says Chengdi restores major sacrifices after an eclipse, Ganquan wind damage, and Liu Xiang's warning about abandoned rites.
+- Fangshu vulnerability and skepticism: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] says Chengdi's childlessness and spirit belief attract fangshu petitions, while Gu Yong's memorial rejects immortal and alchemical claims as fraud.
 - Ban Bo warning: [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Chengdi welcomes Ban Bo's explanation that the Shang Zhou image warns against wine and disorder.
 - Zhang Fang removal: [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Chengdi reluctantly sends Zhang Fang out under dowager, outer-relative, and ministerial pressure while continuing to care for him.
 - Mei Fu remonstrance warning: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] says Mei Fu warns Chengdi that Wang Zhang's death has made speech dangerous and that outer-relative power needs early restraint.
@@ -119,15 +126,11 @@ Chengdi therefore now functions as Yang Xiong career background, Wang Jia's rule
 
 ## Qualifications
 
-This page does not synthesize Emperor Cheng's reign, consort politics, or wider Western Han decline. Hanji 539 uses him in a favorite-removal and indirect-remonstrance case; Hanji 540 uses him in a funeral-accountability and personnel-reuse case; Hanji 544 uses him as the ruler warned by Mei Fu after Wang Zhang's death; Hanji 654 uses him as Yang Xiong career background; Hanji 551 uses him as the ruler staging Changyang spectacle and comparing two succession candidates; Hanji 592 uses him as Wang Jia's rhetorical precedent; Hanji 549 supplies one concrete direct-speech clemency case; Hanji 557 uses him as the ruler handling Chunyu Zhang and Empress Xu; Hanji 553 uses him as the ruler adopting a Three Excellencies restoration and command-removal balance; Hanji 554 uses him as the ruler behind a deniable Xiongnu land probe and later blame-transfer answer; Hanji 559 uses him as a responsibility-evasion actor in Zhai Fangjin's death; Hanji 552 uses him as the ruler making the Dingtao-line heir choice after a contested court discussion; Hanji 561 uses him as a sudden-death and posthumous-blame case with legendary drug details; Hanji 574 uses him as the deceased ruler whose succession choice and reputation are defended by Geng Yu; Hanji 573 uses him as the center of a contested no-heir and sudden-death narrative; and Hanji 571-572 supply two reported missing-son cases within that narrative. The Zhang Fang case in Hanji 539, funeral case in Hanji 540, Mei Fu warning in Hanji 544, praise in Hanji 592, clemency in Hanji 549, institutional balancing in Hanji 553, Xiongnu probe in Hanji 554, criticism in Hanji 559, succession accounts in Hanji 551-552, death account in Hanji 561, defense in Hanji 574, accusation narrative in Hanji 571-572, and skepticism in Hanji 573 are source frames, not complete balanced evaluations of Chengdi's rule, medical cause of death, institutional policy, diplomatic policy, private relationships, or final legal findings.
+This page does not synthesize Emperor Cheng's reign, consort politics, or wider Western Han decline. Hanji 539 uses him in a favorite-removal and indirect-remonstrance case; Hanji 540 uses him in a funeral-accountability and personnel-reuse case; Hanji 543 uses him in a sacrifice-restoration and anti-fangshu warning case; Hanji 544 uses him as the ruler warned by Mei Fu after Wang Zhang's death; Hanji 654 uses him as Yang Xiong career background; Hanji 551 uses him as the ruler staging Changyang spectacle and comparing two succession candidates; Hanji 592 uses him as Wang Jia's rhetorical precedent; Hanji 549 supplies one concrete direct-speech clemency case; Hanji 557 uses him as the ruler handling Chunyu Zhang and Empress Xu; Hanji 553 uses him as the ruler adopting a Three Excellencies restoration and command-removal balance; Hanji 554 uses him as the ruler behind a deniable Xiongnu land probe and later blame-transfer answer; Hanji 559 uses him as a responsibility-evasion actor in Zhai Fangjin's death; Hanji 552 uses him as the ruler making the Dingtao-line heir choice after a contested court discussion; Hanji 561 uses him as a sudden-death and posthumous-blame case with legendary drug details; Hanji 574 uses him as the deceased ruler whose succession choice and reputation are defended by Geng Yu; Hanji 573 uses him as the center of a contested no-heir and sudden-death narrative; and Hanji 571-572 supply two reported missing-son cases within that narrative. The Zhang Fang case in Hanji 539, funeral case in Hanji 540, sacrifice-restoration and fangshu case in Hanji 543, Mei Fu warning in Hanji 544, praise in Hanji 592, clemency in Hanji 549, institutional balancing in Hanji 553, Xiongnu probe in Hanji 554, criticism in Hanji 559, succession accounts in Hanji 551-552, death account in Hanji 561, defense in Hanji 574, accusation narrative in Hanji 571-572, and skepticism in Hanji 573 are source frames, not complete balanced evaluations of Chengdi's rule, medical cause of death, ritual policy, institutional policy, diplomatic policy, private relationships, or final legal findings.
 
 ## What Changed
 
-- Added Hanji 544's warning layer: Chengdi hears Mei Fu's argument that Wang Zhang's death, blocked speech, and Wang-family outer-relative power require active correction.
-- Preserved Hanji 552's succession-meeting layer: Chengdi chooses the Dingtao king after rejecting Kong Guang's Zhongshan argument, then compensates the Zhongshan side.
-- Added Hanji 553's top-office balancing layer: Chengdi restores the Three Excellencies structure and pairs Wang Gen's Da Sima formalization with command removal.
-- Preserved Hanji 554's Xiongnu land-demand layer: Chengdi authorizes a deniable probe, then shifts blame to Xiahou Fan after the chanyu reports the demand.
-- Added Hanji 539's favorite-removal layer: Chengdi receives Ban Bo's warning but must send Zhang Fang away under dowager and ministerial pressure.
+- Added Hanji 543's ritual-anxiety layer: Chengdi restores major sacrifices after eclipse and Ganquan wind damage, while Gu Yong's memorial supplies an anti-fangshu counterweight.
 
 ## Relationships
 
@@ -161,9 +164,13 @@ This page does not synthesize Emperor Cheng's reign, consort politics, or wider 
 - [[ZhangFangWesternHan|张放]] - favorite whom Chengdi cannot keep near the palace after dowager and ministerial pressure.
 - [[BanBoWesternHan|班伯]] - official whose indirect remonstrance Chengdi receives positively.
 - [[MeiFuWesternHan|梅福]] - memorialist who warns Chengdi after Wang Zhang's death.
+- [[GuYongWesternHan|谷永]] - official whose memorial warns Chengdi against fangshi deception.
+- [[LiuXiang|刘向]] - adviser whose ritual warning helps Chengdi restore sacrifices.
 - [[WangFengWesternHan|王凤]] - outer-relative powerholder whose criticism field Mei Fu asks Chengdi to restrain.
 - [[WangZhangWesternHan|王章]] - killed critic whose death makes Chengdi's court afraid to speak.
 - [[FuneralRitualAccountability|丧葬礼制责任]] - ritual-duty concept grounded by Chengdi's response to the funeral.
+- [[FangshiFraudAndAuthority|方士骗术与权威]] - anti-fraud field connected to Gu Yong's warning under Chengdi.
+- [[ImmortalityQuestPolitics|求仙政治]] - anxiety-and-specialist field sharpened by Chengdi's childlessness and restored rites.
 - [[PoliticalCaseEvidenceSkepticism|政治案件证据怀疑]] - concept created from doubts about the later palace-case evidence.
 - [[SecretImperialInfantSuppression|秘密皇子压制]] - suppression mechanism made visible by the reported Cao Gong case.
 - [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - concept created from the episode's warning against collapsing heir failure into favored-woman blame.

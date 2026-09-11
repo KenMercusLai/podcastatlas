@@ -1,8 +1,8 @@
 {
   "content_date": "2026-09-12",
   "corpus": {
-    "episode_count": 2207,
-    "source_count": 2207
+    "episode_count": 2208,
+    "source_count": 2208
   },
   "generated": true,
   "global": {
@@ -16,13 +16,13 @@
     "output_digest": "090c5553939ac3273bb9a80eaaaa29ab5e6aa5ed740ec1a76a89ded347b6fd29",
     "overview_commit": "b40b005b0cd931fcef54fbd63bbb695aeec31312",
     "overview_digest": "f527fa12b2b7dd9526639097426af3e19c2937bad13121662a76f6a418f97d8d",
-    "pending_ingests": 11,
+    "pending_ingests": 12,
     "pending_topics": [
       "history-and-geopolitics"
     ]
   },
-  "overview_commit": "b961b332872fa6e68eb7db62de148315d3e1320f",
-  "overview_digest": "b6e3b39a63ec5bb81e32efc91daac6c377d7cbc9a7aacc2f47d1ea33e24fc49d",
+  "overview_commit": "1df870928ff975eacc39030b7a19adeb636a9f1c",
+  "overview_digest": "2b82f0e0b88c367cd836c7cde1ccc94bb15c8bd4b06d6b56006eba506c0d8012",
   "paragraph_count": 611,
   "schema_version": 1,
   "topics": {

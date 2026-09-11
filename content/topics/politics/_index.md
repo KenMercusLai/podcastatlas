@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2385
+topic_total_pages: 2386
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3754,6 +3754,9 @@ topic_concepts:
   - key: "HistoricalCritiqueTolerance"
     title: "据史批评容忍 / Historical Critique Tolerance"
     url: "/wiki/concepts/historicalcritiquetolerance/"
+  - key: "OfficeBasedLocalEliteIncorporation"
+    title: "授官式地方豪强整合 / Office-Based Local Elite Incorporation"
+    url: "/wiki/concepts/officebasedlocaleliteincorporation/"
   - key: "ChuaimoTechnique"
     title: "揣摩 / Chuaimo Technique"
     url: "/wiki/concepts/chuaimotechnique/"

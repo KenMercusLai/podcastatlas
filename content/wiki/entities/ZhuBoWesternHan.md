@@ -9,14 +9,19 @@ sources:
   - zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz
   - zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n
   - zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0
+last_updated: 2026-09-12
 ---
 
 ## Overview
 
-朱博 / Zhu Bo is synthesized as a late [[WesternHanDynasty|Western Han]] official whose rise and fall both turn office procedure into power politics. [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] now supplies the earliest title-service layer: after becoming Jingzhao Yin, Zhu Bo works with [[FuYanWesternHan|傅晏]] to push [[FuTaihouWesternHan|傅太后]]'s title demand and attack [[KongGuangWesternHan|孔光]] and [[FuXiWesternHan|傅喜]] as self-protective or factional. [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] shows him as Da Sikong proposing restoration of the Yushi Dafu office, giving [[HanAidi|汉哀帝]] an institutional way to reset promotion sequence and place [[DingMingWesternHan|丁明]] in the Da Sima field. [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] shows the next stage: Zhu Bo becomes chancellor, is immediately attacked through "鼓妖" omen interpretation as too forceful for that office, completes Fu Taihou's title settlement, and joins [[ZhaoXuanWesternHan|赵璇]] in punishing [[ShiDanWesternHan|施丹]]. [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]] adds two follow-ups: Zhu Bo and Zhao Xuan try unsuccessfully to strip [[WangMang|王莽]] of title and fief, and Zhu Bo then persuades Aidi to abolish州牧 and restore刺史 because high provincial rank has weakened oversight incentives. [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] then shows him as chancellor caught between formal court responsibility and Fu Taihou's private anger at Fu Xi, where tactical cleverness fails once an impeachment memorial is legible as patron-driven revenge.
+朱博 / Zhu Bo is synthesized as a late [[WesternHanDynasty|Western Han]] official whose career joins local strongman management, office procedure, and power politics. [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] now supplies the earliest local-administration layer: as Langya commandery administrator, Zhu Bo brings local strongmen into office, binds their influence to territorial responsibility, rewards useful order, and punishes failure or hidden plotting. [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] supplies the later title-service layer: after becoming Jingzhao Yin, Zhu Bo works with [[FuYanWesternHan|傅晏]] to push [[FuTaihouWesternHan|傅太后]]'s title demand and attack [[KongGuangWesternHan|孔光]] and [[FuXiWesternHan|傅喜]] as self-protective or factional. [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] shows him as Da Sikong proposing restoration of the Yushi Dafu office, giving [[HanAidi|汉哀帝]] an institutional way to reset promotion sequence and place [[DingMingWesternHan|丁明]] in the Da Sima field. [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] shows the next stage: Zhu Bo becomes chancellor, is immediately attacked through "鼓妖" omen interpretation as too forceful for that office, completes Fu Taihou's title settlement, and joins [[ZhaoXuanWesternHan|赵璇]] in punishing [[ShiDanWesternHan|施丹]]. [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]] adds two follow-ups: Zhu Bo and Zhao Xuan try unsuccessfully to strip [[WangMang|王莽]] of title and fief, and Zhu Bo then persuades Aidi to abolish州牧 and restore刺史 because high provincial rank has weakened oversight incentives. [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] then shows him as chancellor caught between formal court responsibility and Fu Taihou's private anger at Fu Xi, where tactical cleverness fails once an impeachment memorial is legible as patron-driven revenge.
 
 ## Current Profile
+
+Hanji 543 adds an earlier Zhu Bo before the Aidi court sequence. As an outside official in Langya, he does not pretend local strongmen can simply be ignored. He gives them county-level official roles according to ability, then makes them responsible for the places where their influence is already real. The episode reads this as a management technique: pull the difficult actor inside the order, make the responsibility visible, reward results, and punish failure or disloyalty.
+
+This local layer clarifies the later Zhu Bo profile. His tactical gift is not only denunciation or office redesign; it is the ability to convert informal power into formal administrative leverage. The same strength also has a danger: an official who is good at using office as a control device can later overtrust procedural packaging when serving a patron's private resentment.
 
 Hanji 577 gives Zhu Bo's first current Aidi-era personnel role. After becoming Jingzhao Yin, he cooperates with Fu Yan and repeatedly speaks to Aidi about Fu Taihou's title demand. Their accusation channel is tactically useful: Kong Guang is described as only trying to preserve himself, while Fu Xi is described as forming a faction and failing to help government. The page therefore now treats Zhu Bo as part of [[BureaucraticAdverseSelection|官场逆淘汰]] before his later office-design and chancellorship episodes.
 
@@ -38,16 +43,18 @@ The strategy fails because Aidi already knows Fu Taihou's resentment. Zhao Xuan 
 
 ## Key Characteristics
 
-- Western Han senior official who moves from Da Sikong to restored Yushi Dafu and then chancellor under Han Aidi.
+- Western Han official whose profile begins with commandery-level strongman incorporation and later moves from Da Sikong to restored Yushi Dafu and then chancellor under Han Aidi.
+- Uses office assignment, bounded responsibility, reward, and punishment to turn local strongmen into accountable administrative agents.
 - Early title-service actor who works with Fu Yan to accuse Kong Guang and Fu Xi while advancing Fu Taihou's demand.
 - Uses office-restoration argument to define a promotion route toward chancellorship, then becomes the target of a "鼓妖" critique that his forceful temperament is poorly suited to that office.
 - Helps complete Fu Taihou's Dingtao-line title settlement, participates in the personnel pressure against Kong Guang, and attacks Shi Dan for earlier opposition.
 - Fails to strip Wang Mang's title and fief because Wang Zhengjun's patronage limits the purge, then reverses the州牧 reform by arguing that high provincial rank weakens inspection incentives.
 - Agrees to pursue Fu Taihou's demand for harsher punishment of Fu Xi and uses He Wu as a bundled comparison target, but misjudges Aidi's ability to infer the backchannel.
-- Becomes the most severe casualty of the Fu Xi case, committing suicide when summoned for trial.
 
 ## Evidence
 
+- Local strongman incorporation: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] says Zhu Bo assigns local strongmen to official roles, makes them responsible for local order, rewards effective service, and punishes disorder or hidden plotting.
+- Institutional backing: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] says Zhu Bo's outsider status is offset by the court name and office he represents.
 - Title-service channel: [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] says Zhu Bo works with Fu Yan to push Fu Taihou's title demand.
 - Accusation against resisters: [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] says Zhu Bo and Fu Yan attack Kong Guang as self-protective and Fu Xi as faction-forming and unhelpful.
 - Office-restoration proposal: [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] says Zhu Bo proposes restoring Yushi Dafu after arguing that the prior abolition blurred responsibilities.
@@ -69,19 +76,17 @@ The strategy fails because Aidi already knows Fu Taihou's resentment. Zhao Xuan 
 
 ## Qualifications
 
-The page is bounded to Hanji 577, Hanji 578, Hanji 579, Hanji 580, and Hanji 582. Hanji 577 supports Zhu Bo's cooperation with Fu Yan, title-service role, and accusations against Kong Guang and Fu Xi, but not his private motive or complete Jingzhao Yin tenure. Hanji 578 supports Zhu Bo's office-restoration proposal and participation in Kong Guang's removal, but not a full San Gong institutional history or Zhu Bo's private motive. Hanji 579 supports his chancellorship, omen-coded criticism, title-settlement role, and Shi Dan attack, but not the physical cause of the palace sound or Dong Hong's full original proposal. Hanji 580 supports the failed Wang Mang attack and州牧-to-刺史 reversal, but not the full provincial-office history or Zhao Xuan's wider role. Hanji 582 supports Zhu Bo's role in the Fu Xi impeachment attempt, his bundling tactic, and his suicide, but not a full biography, Zhao Xuan's full confession text, or the precise legal formula behind the charges.
+The page is bounded to Hanji 577, Hanji 578, Hanji 579, Hanji 580, Hanji 582, and Hanji 543. Hanji 543 supports Zhu Bo's local strongman incorporation method, but not his full Langya tenure, exact legal powers, or the complete local-gentry network. Hanji 577 supports Zhu Bo's cooperation with Fu Yan, title-service role, and accusations against Kong Guang and Fu Xi, but not his private motive or complete Jingzhao Yin tenure. Hanji 578 supports Zhu Bo's office-restoration proposal and participation in Kong Guang's removal, but not a full San Gong institutional history or Zhu Bo's private motive. Hanji 579 supports his chancellorship, omen-coded criticism, title-settlement role, and Shi Dan attack, but not the physical cause of the palace sound or Dong Hong's full original proposal. Hanji 580 supports the failed Wang Mang attack and州牧-to-刺史 reversal, but not the full provincial-office history or Zhao Xuan's wider role. Hanji 582 supports Zhu Bo's role in the Fu Xi impeachment attempt, his bundling tactic, and his suicide, but not a full biography, Zhao Xuan's full confession text, or the precise legal formula behind the charges.
 
 ## What Changed
 
-- Added Hanji 577's earlier title-service and accusation layer before Zhu Bo's formal office-design role.
-- Connected Zhu Bo to [[BureaucraticAdverseSelection|官场逆淘汰]] because his accusations make resistance to Fu Taihou look like selfishness or faction.
-- Added Hanji 580's failed anti-Wang-Mang memorial and州牧-to-刺史 reversal between Hanji 578 and Hanji 582.
-- Added Hanji 579's chancellorship, "鼓妖" critique, title-settlement, and Shi Dan punishment layers.
-- Reframed Zhu Bo as a figure whose tactical use of formal procedure and patron service advances him, lets him reshape oversight incentives, and later destroys him.
+- Added Hanji 543's earlier Langya layer, where Zhu Bo incorporates local strongmen through office, responsibility, reward, and punishment.
+- Reframed Zhu Bo's tactical skill as converting informal or procedural leverage into usable authority, a strength that later becomes dangerous when attached to patron resentment.
 
 ## Relationships
 
 - [[HanAidi|汉哀帝]] - ruler who detects the political intent behind Zhu Bo's memorial.
+- [[OfficeBasedLocalEliteIncorporation|授官式地方豪强整合]] - concept opened from Zhu Bo's Langya method of binding strongmen to official responsibility.
 - [[FuTaihouWesternHan|傅太后]] - senior patron whose anger Zhu Bo attempts to serve.
 - [[FuYanWesternHan|傅晏]] - collaborator in turning Fu Taihou's title demand into accusation against resisters.
 - [[LiXunWesternHan|李寻]] and [[YangXiong|扬雄]] - omen interpreters who criticize Zhu Bo's chancellorship.

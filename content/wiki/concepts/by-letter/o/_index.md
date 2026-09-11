@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7070
+wiki_total_pages: 7071
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "OfficeSequencePowerReallocation"
     title: "官职序列重组式权力再分配 / Office Sequence Power Reallocation"
     url: "/wiki/concepts/officesequencepowerreallocation/"
+  - key: "OfficeBasedLocalEliteIncorporation"
+    title: "授官式地方豪强整合 / Office-Based Local Elite Incorporation"
+    url: "/wiki/concepts/officebasedlocaleliteincorporation/"
   - key: "OfficeBasedRebelIncorporation"
     title: "授官式招安 / Office-Based Rebel Incorporation"
     url: "/wiki/concepts/officebasedrebelincorporation/"
