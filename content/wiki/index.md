@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！](sources/zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh.md) — 芮淇讲透资治通鉴 episode on Ban Jieyu answering a wugu accusation through motive-based defense, with Zhao Feiyan's preventive rivalry and modern slander-response lessons.
 - [《资治通鉴·汉纪》532丨西汉最大的农民起义，领导者是他？](sources/zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z.md) — 芮淇讲透资治通鉴 episode on Zheng Gong's Guanghan uprising, survival-pressure rebellion, Zhao Hu's suppression campaign, and Li Xun's observation-first Yellow River flood advice.
+- [《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？](sources/zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7.md) — 芮淇讲透资治通鉴 episode on Chengdi empowering Wang Shang to check Wang Yin, Du Ye's mediation, and sincere consultation defeating internal Wang-family balancing.
 - [《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？](sources/zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3.md) — 芮淇讲透资治通鉴 episode on Chengdi elevating Zhao Feiyan, Chunyu Zhang's mediation, Liu Fu's punished remonstrance, and role-clarity boundaries in workplace governance.
 - [《资治通鉴·汉纪》535丨白痴还是野心家？“心机男”王莽登场！](sources/zizhi-tongjian-hanji-535-baichi-haishi-yexinjia-xinji-nan-wangmang-dengchang-ltzjnozi6imc5y9ye0_zmaykvopc.md) — 芮淇讲透资治通鉴 episode on Wang Mang's weak position inside the Wang clan, filial and scholarly reputation building, Wang Feng's endorsement, and crisis-to-reputation self-management.
 - [《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？](sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n.md) — 芮淇讲透资治通鉴 episode on Zhao Feiyan's childlessness and alleged palace adultery, Zhao Hede's protective favor, Chengdi's informer suppression, and Liu Xiang's Changling remonstrance.
@@ -2234,7 +2235,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [李勋 / Li Xun (Western Han flood-control adviser)](entities/LiXunFloodControlWesternHan.md) — Pingling adviser whose Yellow River proposal favors observing the breach before forced repair.
 - [赵护 / Zhao Hu (Western Han)](entities/ZhaoHuWesternHan.md) — Official appointed to Guanghan and rewarded after the suppression of Zheng Gong's uprising.
 - [郑公 / Zheng Gong (Western Han)](entities/ZhengGongWesternHan.md) — Guanghan uprising leader who calls himself "山君" in Hanji 532.
-- [Wang Shang / 王商 (Western Han)](entities/WangShangWesternHan.md) — Wei Jiangjun and Wang-family protector who warns Gu Yong to flee after Chengdi's arrest order in Hanji 538.
+- [Wang Shang / 王商 (Western Han)](entities/WangShangWesternHan.md) — Wang-family figure used as Chengdi's counterweight to Wang Yin, later Gu Yong protector, Chen Tang accuser, and disaster-pressure officeholder.
+- [Wang Yin / 王音 (Western Han)](entities/WangYinWesternHan.md) — Cautious Wang-family powerholder whose potential rivalry with Wang Shang is defused through Du Ye's sincere-consultation advice.
+- [Wang Tan / 王谭 (Western Han)](entities/WangTanWesternHan.md) — Ping'a Hou whose death leads Chengdi to empower Wang Shang as a renewed internal Wang-family counterweight.
 - [张放 / Zhang Fang (Western Han)](entities/ZhangFangWesternHan.md) — Chengdi favorite whose palace access, kinship backing, and exile show the fragility of favorite protection under dowager and ministerial pressure.
 - [班伯 / Ban Bo (Western Han)](entities/BanBoWesternHan.md) — Chengdi court remonstrant who uses the Shang Zhou image to warn against wine and disorder.
 - [邛成太后 / Qiongcheng Taihou (Western Han)](entities/QiongchengTaihouWesternHan.md) — Western Han dowager whose rushed funeral in 15 BCE triggers high-office accountability under Han Chengdi.
@@ -2391,7 +2394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [孔光 / Kong Guang (Western Han)](entities/KongGuangWesternHan.md) — Western Han senior official whose formal authority spans Aidi's rewarded eclipse consultation, Wang Jia's Tingwei transfer, Wang Mang's accusation channels, fearful withdrawal, and 5 CE death.
 - [谷永 / Gu Yong (Western Han)](entities/GuYongWesternHan.md) — Chengdi-era Western Han official whose page joins patronage-stigma warnings with anti-fangshu skepticism.
 - [王嘉 / Wang Jia (Western Han)](entities/WangJiaWesternHan.md) — Late Western Han chancellor whose Dong Xian merit-procedure objection, praise-framed warning, Liang Xiang recommendation, and Dong Xian-related resistance lead toward Tingwei danger and refusal of poison-suicide.
-- [杜邺 / Du Ye (Western Han)](entities/DuYeWesternHan.md) — Former Liangzhou inspector whose omen-coded memorial criticizes Han Aidi's dowager deference and outer-relative office concentration.
+- [杜邺 / Du Ye (Western Han)](entities/DuYeWesternHan.md) — Western Han adviser whose profile spans Wang-family private mediation and later omen-coded remonstrance against Han Aidi's outer-relative offices.
 - [梁相 / Liang Xiang (Western Han)](entities/LiangXiangWesternHan.md) — Western Han Tingwei whose procedural request to review the Liu Yun rebellion case becomes suspect delay under Han Aidi.
 - [王洪 / Wang Hong (Western Han)](entities/WangHongWesternHan.md) — Late Western Han palace-adjacent official who avoids a Dong-family marriage tie and blocks Han Aidi's Yao-Shun abdication remark about Dong Xian.
 - [萧贤 / Xiao Xian (Western Han)](entities/XiaoXianWesternHan.md) — Late Western Han official whose reading of abdication-coded appointment wording makes classical literacy a family-survival tool.
@@ -11984,6 +11987,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [生存压力型起义 / Survival Pressure Rebellion](concepts/SurvivalPressureRebellion.md) — Pattern where official pressure and livelihood collapse make armed local revolt legible as survival action.
+- [真诚共治式冲突降温 / Sincere Power-Sharing De-escalation](concepts/SincerePowerSharingDeescalation.md) — Conflict pattern where rivals with overlapping authority reduce factional competition through sincere consultation and shared institutional interest.
 - [Effective Confusion In The Odyssey Period / 有效迷茫](concepts/EffectiveConfusionOdysseyPeriod.md) — Frame for treating young-adult迷茫 as a self-discovery process involving false confusion, existential meaning, practice, embodiment, and support.
 - [亲缘政治切割 / Kinship Political Cutting](concepts/KinshipPoliticalCutting.md) — Pattern where a court actor publicly distances from risky family-adjacent ties for political self-protection.
 - [丧葬礼制责任 / Funeral Ritual Accountability](concepts/FuneralRitualAccountability.md) — pattern where royal funeral handling becomes a test of office duty, ritual respect, public resources, and dynastic memory.

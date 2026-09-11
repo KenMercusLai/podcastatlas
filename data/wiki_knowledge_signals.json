@@ -23985,9 +23985,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuYeWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》593丨真正厉害的人这样说话 [luiGZfYQ6rTuA0nEcI9jQi8YBxQQ].md",
@@ -24002,9 +24002,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》594丨你身边有以自我为中心的人吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-594-ni-shenbian-you-yi-ziwo-wei-zhongxin-de-ren-ma-lo27wnfpchgxpzvstea4azmxsga2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？ [lv64fxua_aVw1ToXW_E88ty1xru7].md",
+          "key": "zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/duyewesternhan/"
     },
     "DuZhongLateHan": {
@@ -80306,6 +80313,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/sincereemotionalsupport/"
     },
+    "SincerePowerSharingDeescalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？ [lv64fxua_aVw1ToXW_E88ty1xru7].md",
+          "key": "zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/sincerepowersharingdeescalation/"
+    },
     "SingleAuthorInstitutionalCodification": {
       "episode_count": 1,
       "show_count": 1,
@@ -92574,9 +92597,9 @@
       "url": "/wiki/entities/wangqingbuheshiyi/"
     },
     "WangShangWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连 [lmDphgGOd_t9uk7Uu5z_53rjkJ7U].md",
@@ -92598,6 +92621,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？ [lv64fxua_aVw1ToXW_E88ty1xru7].md",
+          "key": "zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7/"
         }
       ],
       "updated": "2026-09-12",
@@ -92741,6 +92771,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangsunqingxinrebel/"
     },
+    "WangTanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？ [lv64fxua_aVw1ToXW_E88ty1xru7].md",
+          "key": "zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangtanwesternhan/"
+    },
     "WangTiaoLiGuStudent": {
       "episode_count": 1,
       "show_count": 1,
@@ -92859,6 +92905,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/wangyixingeneral/"
+    },
+    "WangYinWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？ [lv64fxua_aVw1ToXW_E88ty1xru7].md",
+          "key": "zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangyinwesternhan/"
     },
     "WangYuXinPrince": {
       "episode_count": 2,

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1785
+topic_total_pages: 1787
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1970,12 +1970,18 @@ topic_entities:
   - key: "WangShengXinFourGeneral"
     title: "Wang Sheng / 王盛 (Xin Four General)"
     url: "/wiki/entities/wangshengxinfourgeneral/"
+  - key: "WangTanWesternHan"
+    title: "Wang Tan / 王谭 (Western Han)"
+    url: "/wiki/entities/wangtanwesternhan/"
   - key: "WangXingXinFourGeneral"
     title: "Wang Xing / 王兴 (Xin Four General)"
     url: "/wiki/entities/wangxingxinfourgeneral/"
   - key: "WangXingXinPrince"
     title: "Wang Xing / 王兴 (Xin prince)"
     url: "/wiki/entities/wangxingxinprince/"
+  - key: "WangYinWesternHan"
+    title: "Wang Yin / 王音 (Western Han)"
+    url: "/wiki/entities/wangyinwesternhan/"
   - key: "WangYuXinPrince"
     title: "Wang Yu / 王宇 (Xin prince)"
     url: "/wiki/entities/wangyuxinprince/"

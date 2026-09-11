@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9749
+wiki_total_pages: 9751
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -116,6 +116,9 @@ wiki_pages:
   - key: "WangShengli"
     title: "Wang Shengli"
     url: "/wiki/entities/wangshengli/"
+  - key: "WangTanWesternHan"
+    title: "Wang Tan / 王谭 (Western Han)"
+    url: "/wiki/entities/wangtanwesternhan/"
   - key: "WangTao"
     title: "Wang Tao / 汪滔"
     url: "/wiki/entities/wangtao/"
@@ -131,6 +134,9 @@ wiki_pages:
   - key: "WangXingxing"
     title: "Wang Xingxing / 王兴兴"
     url: "/wiki/entities/wangxingxing/"
+  - key: "WangYinWesternHan"
+    title: "Wang Yin / 王音 (Western Han)"
+    url: "/wiki/entities/wangyinwesternhan/"
   - key: "WangYong"
     title: "Wang Yong"
     url: "/wiki/entities/wangyong/"

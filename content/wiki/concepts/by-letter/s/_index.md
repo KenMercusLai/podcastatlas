@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7084
+wiki_total_pages: 7085
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2033,6 +2033,9 @@ wiki_pages:
   - key: "ShieldCrossbowAntiCavalry"
     title: "盾弩反骑兵战术 / Shield-Crossbow Anti-Cavalry"
     url: "/wiki/concepts/shieldcrossbowanticavalry/"
+  - key: "SincerePowerSharingDeescalation"
+    title: "真诚共治式冲突降温 / Sincere Power-Sharing De-escalation"
+    url: "/wiki/concepts/sincerepowersharingdeescalation/"
   - key: "ShenGuPhysiognomy"
     title: "神骨相法 / Spirit-Bone Physiognomy"
     url: "/wiki/concepts/shenguphysiognomy/"

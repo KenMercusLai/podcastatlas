@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2387
+topic_total_pages: 2388
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3865,6 +3865,9 @@ topic_concepts:
   - key: "PhysiognomicInvestmentJudgment"
     title: "看相式政治投资 / Physiognomic Investment Judgment"
     url: "/wiki/concepts/physiognomicinvestmentjudgment/"
+  - key: "SincerePowerSharingDeescalation"
+    title: "真诚共治式冲突降温 / Sincere Power-Sharing De-escalation"
+    url: "/wiki/concepts/sincerepowersharingdeescalation/"
   - key: "ReclusionAuthenticityAssessment"
     title: "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment"
     url: "/wiki/concepts/reclusionauthenticityassessment/"
