@@ -17660,6 +17660,10 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongsh
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》529丨美艳姐妹花！西汉最大的“祸水”登场！
+
+Added source note for Hanji 529, created YangAPrincessWesternHan and PalacePerformerFavorMobility, and extended Zhao Feiyan, Zhao Hede, Han Chengdi, and gendered consort scapegoating synthesis around the Zhao sisters' origin stories, Yang'a household performance route, and source-scoped "祸水" framing.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云
 
 Added source note for Hanji 536-4, created XiaJiSpringAutumn, and extended Zhao Feiyan, Zhao Hede, GenderedConsortScapegoating, and WomenBlamedForDynasticCollapse with a literary-memory layer around gendered blame and "红颜祸水" reputation.
@@ -17806,6 +17810,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
