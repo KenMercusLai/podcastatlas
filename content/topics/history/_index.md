@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1747
+topic_total_pages: 1748
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3572,6 +3572,9 @@ topic_entities:
   - key: "DongGongXincheng"
     title: "董公 / Dong Gong (Xincheng)"
     url: "/wiki/entities/donggongxincheng/"
+  - key: "DongHongWesternHan"
+    title: "董宏 / Dong Hong (Western Han)"
+    url: "/wiki/entities/donghongwesternhan/"
   - key: "JiangXuXinOfficial"
     title: "蒋诩 / Jiang Xu (Xin-era official)"
     url: "/wiki/entities/jiangxuxinofficial/"

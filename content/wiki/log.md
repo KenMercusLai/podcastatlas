@@ -17309,6 +17309,10 @@ Added source. Key claims: the White Ship disaster turns Henry I's succession int
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》562丨汉哀帝即位时有多憋屈？
+
+Added source. Key claims: Han Aidi's accession begins with thrift and personal government but is immediately constrained by Fu Taihou's North Palace proximity, title pressure, and kinship demands; Dong Hong's Qin-precedent proposal is temporarily blocked by Wang Mang and Shi Dan; the eventual Fu/Ding/Zhao rewards make filial honor, title order, and outer-relative risk visible at the start of Aidi's reign.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？
 
 Added source. Key claims: 荧惑守心 puts omen responsibility on Han Chengdi; Chengdi redirects the danger toward chancellor Zhai Fangjin; Li Xun warns Zhai about substitution logic; Zhai's strict enforcement style leaves him isolated when officials aggregate blame; Sima Guang criticizes the coerced death as either deceiving Heaven or deceiving the people.
@@ -17444,6 +17448,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？
 
 Added source. Key claims: Jia Rang ranks Yellow River flood-control policies as retreat from floodplain land, canal-and-sluice diversion, and old-levee repair; Warring States levee competition transfers risk across river boundaries; the episode uses Qian Mu's five-hundred-year tree story to frame expensive long-horizon solutions as potentially wiser than quick visible fixes.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
