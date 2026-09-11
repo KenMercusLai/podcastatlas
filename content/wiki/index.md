@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？](sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo.md) — 芮淇讲透资治通鉴 episode on Wang Yin's Yushi Dafu appointment, Wang-family patronage and reputation networks, Liu Xiang's secret memorial, and preventive restraint against outer-relative dynastic transfer.
 - [《资治通鉴·汉纪》523丨古代农民起义总失败？没理想or见识短？](sources/zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup.md) — 芮淇讲透资治通鉴 episode on the 22 BCE Yingchuan iron-office convict uprising, peasant-rebel organization limits, and Wang Feng's deathbed recommendation of Wang Yin over Wang Tan.
 - [《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？](sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz.md) — 芮淇讲透资治通鉴 episode on Chengdi's constrained Wang-family balancing, Yu Yong and Wang Jun personnel background, Duan Huizong's quiet Western Regions governance, and effect-based official selection.
 - [《资治通鉴·汉纪》525丨汉成帝微服私访，为啥遭“天谴”？](sources/zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw.md) — 芮淇讲透资治通鉴 episode on Han Chengdi's disguised outings, Zhang Fang household cover, Zhang Yu's privileged retirement, Wang Yin's pheasant-omen remonstrance, and no-heir pressure.
@@ -12008,6 +12009,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [隐形站台式关系背书 / Deniable Patronage Signaling](concepts/DeniablePatronageSignaling.md) — Relationship-power pattern where inferred backing, kinship hints, and reputation networks move benefits without explicit orders.
 - [治未病式边疆治理 / Preventive Frontier Governance](concepts/PreventiveFrontierGovernance.md) — Frontier-administration pattern where success appears as prevented crisis, created from Duan Huizong's quiet Western Regions tenure.
 - [实效考察式用人 / Effect-Measured Personnel Selection](concepts/EffectMeasuredPersonnelSelection.md) — Personnel-selection principle that tests actual administrative effect rather than relying only on reputation, family, or moral image.
 - [待刑谢罪式政治表演 / Awaiting-Punishment Performance](concepts/AwaitingPunishmentPerformance.md) — Pattern where exaggerated submission and execution imagery turn threatened punishment into a politically costly mercy test.

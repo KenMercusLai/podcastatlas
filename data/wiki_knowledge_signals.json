@@ -21487,6 +21487,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/dengzunlatehan/"
     },
+    "DeniablePatronageSignaling": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？ [ll_S8BakpEpBp-1W4G9OHZFgKSbo].md",
+          "key": "zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/deniablepatronagesignaling/"
+    },
     "DeodoroDaFonseca": {
       "episode_count": 1,
       "show_count": 1,
@@ -54116,9 +54132,9 @@
       "url": "/wiki/entities/liuxianlatehan/"
     },
     "LiuXiang": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙” [lh-H-geZpQtFvnyq40zLQac8s-5e].md",
@@ -54140,6 +54156,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？ [ll_S8BakpEpBp-1W4G9OHZFgKSbo].md",
+          "key": "zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo/"
         }
       ],
       "updated": "2026-09-12",
@@ -66252,9 +66275,9 @@
       "url": "/wiki/concepts/outerrelativeofficecontest/"
     },
     "OuterRelativePreventiveRestraint": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》748丨老祖宗的忠告： 亲戚不共财，共财两无来！ [luqVnlD4wBDgC3NRDUmyHFHSCs4Z].md",
@@ -66304,6 +66327,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？ [ll_S8BakpEpBp-1W4G9OHZFgKSbo].md",
+          "key": "zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo/"
         }
       ],
       "updated": "2026-09-12",
@@ -93335,9 +93365,9 @@
       "url": "/wiki/entities/wangyixingeneral/"
     },
     "WangYinWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？ [lv64fxua_aVw1ToXW_E88ty1xru7].md",
@@ -93359,6 +93389,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》523丨古代农民起义总失败？没理想or见识短？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？ [ll_S8BakpEpBp-1W4G9OHZFgKSbo].md",
+          "key": "zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo/"
         }
       ],
       "updated": "2026-09-12",

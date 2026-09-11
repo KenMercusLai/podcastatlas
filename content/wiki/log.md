@@ -2052,6 +2052,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？
+
+Added source note for Hanji 522, created DeniablePatronageSignaling, and extended Liu Xiang, Wang Yin, and outer-relative preventive restraint around Wang-family appointment networks, Liu-kin exclusion, and Liu Xiang's unadopted secret memorial.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？
 
 Added a source note for Hanji 526, created MausoleumCountyEliteRelocation, migrated and extended GuanzhongEliteRelocation, StrongTrunkWeakBranchCentralization, and HouseholdOccupationControl, and updated ChenTangWesternHan and XieWannianWesternHan with the Changlingyi prequel and household-registration motive. No settled contradictions found.
@@ -17838,6 +17842,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
