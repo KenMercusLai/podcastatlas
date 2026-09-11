@@ -6,6 +6,34 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？
+
+Ingested the 2026-05-19 芮淇讲透资治通鉴 episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Added source `zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9`; created `WangGenWesternHan`, `ZhaiFangjinWesternHan`, and `RoleAttachmentPowerExit`; linked the episode to Wang Mang's early reputation construction, the刺史-to-州牧 reform, Liu Xiang's礼乐/太学 proposal, and role-exit awareness. No settled contradiction found; Wang Mang's sincerity versus performance, the practical case for州牧, ancient chime-stone provenance, and Taixue policy reversal remain source-scoped.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！
+
+Ingested the 2026-05-20 芮淇讲透资治通鉴 episode on Geng Yu's memorial defending Chen Tang and Gan Yanshou after the Zhizhi Chanyu campaign. Added source `zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l`; created `ChenTangWesternHan`, `GanYanshouWesternHan`, `ZhizhiChanyu`, `KuangHengWesternHan`, and `HeroMemoryPoliticalCredibility`; updated `GengYuWesternHan`, `MeritShieldedAccountability`, and `index`. No settled contradiction found; the full campaign chronology, Changling case record, exact reward grading, and Chen Tang's legal culpability remain source-scoped.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》571丨汉成帝亲手杀子，是真是假？
+
+Ingested the 2026-05-20 芮淇讲透资治通鉴 episode opening the Han Chengdi heir-killing accusation through Xie Guang's report on Cao Gong's newborn son. Added source `zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh`; created `CaoGongWesternHan`, `XieGuangWesternHan`, and `SecretImperialInfantSuppression`; updated `HanChengdi`, `ZhaoHedeWesternHan`, `ZhaoFeiyanWesternHan`, `PoliticalCaseEvidenceSkepticism`, `GenderedConsortScapegoating`, and `index`. No settled contradiction found; Chengdi's exact responsibility, Zhao Hede's role, the infant's final fate, and witness reliability remain source-scoped.
+
+## [2026-09-11] ingest | 郑执×罗永浩！总是赶末班车的人，可以改进时间管理......也可以拥有一辆属于自己的车
+
+Added source. Key claims: Zheng Zhi's 《身中有林》 becomes a case for balancing author expression, Northeast local memory, and theatrical film constraints; his career crosses youth writing, market writing, literary recognition, screenwriting, and directing; the interview frames AI as a possible film-cost reducer while preserving creator judgment; "last train" anxiety links Zheng's timing to receding literary and film industry cycles.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》579丨走近科学 鼓妖是妖吗？
+
+Ingested the 2026-05-22 芮淇讲透资治通鉴 episode backfilling Jianping 2 / 5 BCE under Han Aidi. Added source `zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n`; created `DisasterOmenPersonnelAttack`; updated `ZhuBoWesternHan`, `ZhaoXuanWesternHan`, `FuTaihouWesternHan`, `LiXunWesternHan`, `YangXiong`, `ShiDanWesternHan`, and `index`. No settled contradiction found; the physical cause of the palace sound, full Hongfan omen background, Zhao Xuan's name form, and Dong Hong/Shi Dan memorial details remain source-scoped.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命
+
+Ingested the 2026-05-22 芮淇讲透资治通鉴 episode backfilling Jianping 2-3 / 5-4 BCE under Han Aidi. Added source `zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp`; created `ZhuBoWesternHan` and `PingDangWesternHan`; updated `FuTaihouWesternHan`, `FuXiWesternHan`, `GoodDeathPoliticalSurvival`, `HighStatusCautionSelfProtection`, and `index`. No settled contradiction found; Kongxiang Hou's identity, Zhao Xuan's full confession, legal charge wording, and the frontier hostage details remain source-scoped.
+
+## [2026-09-10] ingest | TRAILER: Shire folk
+
+Added source note for the Economist Podcasts trailer introducing Georgia Banjo's Shire/Shia Folk investigation into Tommy Robinson. Key claims: Robinson is framed as a British media-excluded activist promoting a radical-Islam threat narrative; Elon Musk's London rally appearance supplies civil-war threat rhetoric; and the series asks how Robinson became a warning-symbol figure for some powerful Americans. Added `TommyRobinson`, `ShireFolk`, `CivilWarThreatRhetoric`, `BritishMediaExclusionOnlineAmplification`, and `AmericanRightBritainWarningNarrative`; updated `GeorgiaBanjo`, `FarRightNormalization`, and `index`. No settled contradiction found; crowd size, exact rally timing, American influence map, and Shire/Shia spelling remain source-scoped.
+
 ## [2026-09-10] ingest | #404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目
 
 Ingested the 2026-09-10 声东击西 tenth-anniversary interview with Shao Yang on Fremont local government, school-board politics, Chinese American representation, conservative parental-rights conflicts, homelessness-service siting, 2020 public-safety response, California nonpartisan candidacy, and Chinese American elected officials under U.S.-China tension. Added source `404-shaoyang-yiwei-huaren-shiyiyuan-qinlide-meiguo-difang-zhengzhi-f96bdc7a-c667-4594-8719-2070d24f8231`; created `ShaoYang`, `FremontCalifornia`, `FremontUnifiedSchoolDistrict`, `AlexLeeCalifornia`, `AileenWangArcadia`, `ImmigrantLocalOfficeRepresentation`, `SchoolParentalRightsConflict`, `MunicipalTransparencyCompromise`, `NonpartisanCandidatePartySystemConstraint`, and `DiasporaOfficialGeopoliticalExposure`. No settled contradiction found; claims about curriculum, unions, protests, election dynamics, and foreign-agent legal exposure remain source-scoped.
@@ -16793,9 +16821,29 @@ Added source note for the 1 CE Wang Mang reward-refusal episode. Key claims: Wan
 
 Added source note for Wang Jia's Jianping 3 / 4 BCE personnel memorial under Han Aidi, covering flawed-but-useful official restoration, local official tenure stability, two-thousand-shi authority, excessive inspection, Su Ling's rebellion, and talent cultivation before crisis. Updated WangJiaWesternHan, MeritShieldedAccountability, and LocalOfficialTenureStability.
 
+## [2026-09-10] ingest | Founder-Led Sales to $1M ARR With Just 10 Customers
+
+Added source note for The SaaS Podcast episode with Felix Hoffman on Seven Learnings, consulting-first data access, retail pricing and decision optimization, founder-led enterprise sales, paid pilots, A/B tests, and explainable ML versus LLM fit. Added FelixHoffman, SevenLearnings, Kearney, Zalando, PredictiveDecisionAutomation, RetailPricingOptimization, and PaidPilotValueProof; migrated FounderLedSales to synthesis-v1 and added the Seven Learnings case.
+
+## [2026-09-11] ingest | EP 40: Governance First: The Architecture Framework That Makes AI Auditable, Defensible, and 99% Cheaper
+
+Added source. Key claims: Case Ready Intake AI is framed as a bounded legal intake product that produces narrative, timeline, and evidence rather than legal advice; governance is implemented through a charter, documented decisions, deployment tests, deterministic Python checks, runtime QA, and human review; UPL risk and prompt-injection-style requests are handled through hard workflow boundaries; pre-flight checks can reduce unnecessary LLM cost by stopping out-of-scope cases early.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》573丨赵飞燕姐妹是红颜祸水，还是替罪羔羊？
+
+Added source. Key claims: the Chengdi death and heir-loss investigation is testimony-heavy and missing expected evidence; Wang Zhengjun and the Wang family had strong incentive to monitor imperial heirs; Chengdi's child deaths predate the Zhao sisters as a complete explanation; Zhao Feiyan and Zhao Hede may function as politically and literarily useful scapegoats rather than settled sole causes.
+
 ## [2026-09-10] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-10] ingest | What's so concerning about the Hugging Face hack?
+
+Added Marketplace Tech source on Nate Soares, the reported OpenAI-Hugging Face agent-swarm incident, mandatory AI incident investigation, advanced AI development pauses, and frontier AI compute monitoring. Updated the sandbox escape, benchmark gaming, voluntary safety, safety coordination, and government pace-setting governance concepts.
+
+## [2026-09-10] ingest | SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?
+
+Added source note for the All-In episode with Gavin Baker on recursive AI, AI backlash, frontier oversight, SpaceX platform and compute-leasing claims, orbital compute timing, Nvidia fundamentals and GPU financing, bond stress, and U.S.-China chip strategy. Updated SpaceBasedAIInfrastructure, OrbitalDataCenterEconomics, and GPUComputeAssetBackedFinancing with source-scoped evidence around terrestrial compute leasing, orbital GPU forecasts, and older-GPU useful-life assumptions.
 
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》587丨谁会把武器当礼物送给爱人？
 
@@ -17230,5 +17278,181 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-10] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》572丨历史上这男人真够狠
+
+Added source. Key claims: Xie Guang's report continues from Cao Gong into Xu Meiren's child; Zhao Hede's pressure frames the birth as betrayal and succession threat; Chengdi's letter, heavy box, sealed burial, Ji Wu's witness role, and Wu Qiuzun's fear-filled testimony deepen the accusation while the host flags the odd disclosure to Ji Wu as an evidentiary puzzle.
+
+## [2026-09-11] ingest | Empress Matilda: Civil War and the Fight for the Throne
+
+Added source. Key claims: the White Ship disaster turns Henry I's succession into a dynastic heir-loss shock; Matilda has hereditary and oath legitimacy but loses the first practical and sacred legitimacy threshold to Stephen; the Anarchy exposes the order-making expectations attached to kingship; Matilda's claim succeeds through Henry II rather than her own coronation.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？
+
+Added source. Key claims: titanium cups became popular through outdoor and camping lifestyle demand, titanium's aerospace/medical/electronics premium aura, consumer willingness to pay for material upgrades, falling titanium costs, and Yongkang manufacturing maturity; the same supply expansion is creating homogeneous products and low-price inventory clearing.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》564丨古代学术大佬，比想象得更牛！
+
+Added source. Key claims: Liu Xin completes Liu Xiang's imperial collation work and submits Qilue; the Qilue nine-schools account treats rival traditions as partial but usable under a Six Classics-centered order; Han Aidi's court approves limits on land and enslaved dependents, but the policy is suspended after powerful property holders resist.
+
+## [2026-09-11] ingest | Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang
+
+Added source. Key claims: Chang separates speech from broader language; speech production depends on breath, laryngeal voicing, and vocal-tract shaping; locked-in syndrome motivates speech neuroprosthetics; the BRAVO trial decodes attempted speech from implanted cortical activity with machine learning and context correction; augmentation and stuttering claims remain technically and clinically bounded.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》574丨古代的满分作文是什么样子？
+
+Added source. Key claims: Geng Yu uses Zhou succession precedent to defend Chengdi's choice of Aidi as foresight rather than scandal; the memorial reframes further Zhao Feiyan investigation as damage to Chengdi's reputation and Aidi's filial duty; Aidi stops pursuing the accusation details; Wang Zhengjun and the Wang family resent the closure.
+
+## [2026-09-11] ingest | 672. The First World War: Italy's Doomed Campaign (Part 2)
+
+Added source. Key claims: Italy's 1915 intervention is framed as voluntary and acquisitive rather than defensive; Salandra used neutrality and "sacred egoism" to bargain for Adriatic and Alpine gains; D'Annunzio's pro-war crowds helped turn anti-war politics into alleged betrayal; Cadorna's frontal doctrine, weak mobilization, and Isonzo terrain produced high-casualty attrition; the war's losses and partial postwar settlement fed resentment later available to Italian fascism.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？
+
+Added source. Key claims: Wang Mang survives Zhu Bo and Zhao Xuan's request to strip title and fief because Wang Zhengjun remains his backing; Yang Xuan's secret memorial reframes leniency toward the Wang family as Aidi's Chengdi-linked filial duty; Zhu Bo's州牧-to-刺史 proposal treats lower rank as sharper oversight incentive; Ding Taihou's Dingtao burial shows Aidi's personal-filial ritual concern.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》581丨汉哀帝在鬼神之道有多愚蠢？
+
+Added source. Key claims: Gan Zhongke packages Chengdi's no-heir anxiety as a renewed-mandate problem but is blocked by Liu Xiang; Xia Heliang reactivates the Taipingjing method under the ill Han Aidi; Aidi's reign-title, imperial-style, and water-clock changes fail and are mostly revoked; the episode frames the reversal as sacred-legitimacy damage and shows fangshi counsel shifting toward proposed personnel redistribution through Li Xun and Jie Guang.
+
+## [2026-09-11] ingest | Vol.226 中超扩军与跨年制：联赛下一步该怎么走？ ft.陈永
+
+Added source. Key claims: Chinese Super League expansion should be announced in advance and linked to China League One; expansion must be paired with stricter tax, wage, debt, and admission controls; cross-year calendar reform remains a research topic while current-season scheduling repair is more urgent; "register six, play five" is framed as a squad-depth foreign-player rule rather than a spending restart.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》576丨挡熊救皇帝的她，为何被情敌逼死？
+
+Added source. Key claims: Zhang You's self-protective false report becomes usable because Fu Taihou has old jealousy toward Feng Yuan; Shi Li converts the accusation into coercive treason framing and Feng-family deaths; Feng Yuan reads the bear-rescue reference as proof of palace-directed revenge and dies by suicide; Sun Bao, Tang Lin, Fu Xi, and Gong Sheng win only a limited release-and-restoration outcome for Sun Bao.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》578丨权力交锋时人事变动最敏感！
+
+Added source. Key claims: Zhu Bo's Yushi Dafu restoration proposal turns office sequence into promotion and authority design; Aidi's linked appointment of Ding Ming shows personnel reset as power consolidation; Fu Taihou's pressure removes Fu Xi from access and helps expose Kong Guang; Kong Guang's earlier succession advice and anti-Fu conflict become liabilities when office power shifts.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》577丨官场逆淘汰：为什么庸官升得更快？
+
+Added source. Key claims: Fu Taihou's title demand turns ritual status into outer-relative pressure; Shi Dan and Fu Xi are removed or exposed for resisting; Fu Yan and Zhu Bo package flattery as filial-political service and accuse opponents as self-protective or factional; the episode frames the case as bureaucratic reverse selection.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？
+
+Added source. Key claims: Shi Dan opposes Dingtao-line elevation by arguing that imperial supremacy cannot have two centers; Aidi's anger and Shi Dan's currency-advice reversal make him vulnerable; a leaked confidential memorial is escalated into "great irreverence"; Tang Lin's plea changes the final outcome only to guannei marquis status.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学
+
+Added source. Key claims: He Wu's断剑 ruling reads a sword bequest as symbolic household authority and illustrates Spring-Autumn-style intent adjudication; Han Wudi's temple survives because Wang Shun and Liu Xin argue that meritorious "zong" temples are exceptions to ordinary removal; Aidi removes He Wu on stepmother-care optics; Shi Dan warns Aidi that early reign kinship, personnel, and policy changes are too rushed.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] ingest | 《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？
+
+Added source. Key claims: Jia Rang ranks Yellow River flood-control policies as retreat from floodplain land, canal-and-sluice diversion, and old-levee repair; Warring States levee competition transfers risk across river boundaries; the episode uses Qian Mu's five-hundred-year tree story to frame expensive long-horizon solutions as potentially wiser than quick visible fixes.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

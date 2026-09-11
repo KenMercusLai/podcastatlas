@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -83,6 +83,9 @@ wiki_pages:
   - key: "DanDreyfus"
     title: "Dan Dreyfus"
     url: "/wiki/entities/dandreyfus/"
+  - key: "DanDriver"
+    title: "Dan Driver"
+    url: "/wiki/entities/dandriver/"
   - key: "DanLevine"
     title: "Dan Levine"
     url: "/wiki/entities/danlevine/"
@@ -728,6 +731,9 @@ wiki_pages:
   - key: "DriveToSurvive"
     title: "Drive to Survive"
     url: "/wiki/entities/drivetosurvive/"
+  - key: "DriverAIAgency"
+    title: "Driver AI Agency"
+    url: "/wiki/entities/driveraiagency/"
   - key: "Dropbox"
     title: "Dropbox"
     url: "/wiki/entities/dropbox/"
@@ -983,6 +989,9 @@ wiki_pages:
   - key: "DaLaoshiCultureLimited"
     title: "大老师（文化有限）"
     url: "/wiki/entities/dalaoshiculturelimited/"
+  - key: "DalianYingbo"
+    title: "大连英博 / Dalian Yingbo"
+    url: "/wiki/entities/dalianyingbo/"
   - key: "Daxiong"
     title: "大雄"
     url: "/wiki/entities/daxiong/"

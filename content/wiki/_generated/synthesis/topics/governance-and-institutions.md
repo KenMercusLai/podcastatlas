@@ -3,18 +3,30 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-10
-as_of_overview_commit: e6e380518ac7d913806f8433fd35d2df09839d9d
-input_digest: a2b8b2328d3c107af31d74ab74f8ae5782e83fc89db4b4d0ec47d346eba47b0b
+last_updated: 2026-09-11
+as_of_overview_commit: dc4f99b603b28618ba37f6d767f100574b7ed86b
+input_digest: 38a7ed096ca5a3758bea65dd369182e89c91975e8e2538ad19ae3544f5faac5b
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 601-1 adds a source-scoped Western Han boundary case: classical appointment wording and banquet speech turn Dong Xian's favorite status into a dynastic-succession and public-office problem.
+Governance synthesis now spans youth platform policy, electoral legitimacy, institutional capacity, public symbols, regulation, infrastructure, political-theory method, boundary-setting, and swing-state Senate cooperation across historical and contemporary cases. The new U.S. anthem update adds a public-symbol governance case: official ceremony remains fragile when adoption, performance rules, slavery memory, authorial legitimacy, and racial-justice protest compete over who can speak for the nation. Existing child-safety, Machiavelli, Saxony-Anhalt, Brexit, AI governance, surveillance, public-health, sports, and historical court cases still reinforce the broad finding that usable authority depends less on nominal power than on procedures, incentives, capacity, evidence, and public legitimacy. Hanji 601-1 adds a source-scoped Western Han boundary case: classical appointment wording and banquet speech turn Dong Xian's favorite status into a dynastic-succession and public-office problem. Hanji 575 adds a Western Han secrecy-and-ritual case: a confidential memorial leak lets opponents convert principled correction over Dingtao-line status into punishable disrespect.
 
 ## Cross-source Findings
+
+### Confidential Remonstrance Leakage Turns Ritual Correction Into Punishment
+
+[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] adds a governance case where [[ShiDanWesternHan]]'s ritual correction of [[HanAidi]] over Dingtao-line status becomes punishable after [[ConfidentialRemonstranceLeakage]] exposes a sealed memorial; [[AdoptiveLineageRitualPolitics]] and [[ImperialConsortPosthumousTitleSystem]] show that role order, information control, and factional opportunity interact rather than operating as separate problems.
+
+**Evidence:** [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[AdoptiveLineageRitualPolitics]], [[ImperialConsortPosthumousTitleSystem]], [[FuTaihouWesternHan]], [[KongGuangWesternHan]], [[FuXiWesternHan]]
+
+**Qualifications:**
+
+- The claim is source-scoped to one Hanji 575 summary and does not reconstruct the full legal text of the leak case or Dingtao title debate.
+- The episode supports a mechanism of secrecy failure and factional use, not a general rule that every confidential memorial leak was punished as great irreverence.
+- Tang Lin, Shen Xian, Que Qin, Dong Hong, and the complete Ding/Fu accusation network remain source-scoped.
 
 ### Fault Tolerant Appointment Preserves Local Authority
 

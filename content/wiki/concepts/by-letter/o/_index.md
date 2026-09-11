@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -611,6 +611,9 @@ wiki_pages:
   - key: "OfficialSalaryExtractionRisk"
     title: "官吏俸禄不足抽取风险 / Official Salary Extraction Risk"
     url: "/wiki/concepts/officialsalaryextractionrisk/"
+  - key: "OfficeSequencePowerReallocation"
+    title: "官职序列重组式权力再分配 / Office Sequence Power Reallocation"
+    url: "/wiki/concepts/officesequencepowerreallocation/"
   - key: "OfficeBasedRebelIncorporation"
     title: "授官式招安 / Office-Based Rebel Incorporation"
     url: "/wiki/concepts/officebasedrebelincorporation/"

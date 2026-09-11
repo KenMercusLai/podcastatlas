@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "FangshiFraudAndAuthority"
     title: "Fangshi Fraud And Authority / 方士骗术与权威"
     url: "/wiki/concepts/fangshifraudandauthority/"
+  - key: "FangshiPowerRedistribution"
+    title: "Fangshi Power Redistribution / 方士话语推动权力再分配"
+    url: "/wiki/concepts/fangshipowerredistribution/"
   - key: "FangshuSystematization"
     title: "Fangshu Systematization / 方术系统化"
     url: "/wiki/concepts/fangshusystematization/"
@@ -1025,6 +1028,9 @@ wiki_pages:
   - key: "FrontPackConversionEducation"
     title: "Front-Pack Conversion Education"
     url: "/wiki/concepts/frontpackconversioneducation/"
+  - key: "FrontierAIComputeMonitoring"
+    title: "Frontier AI Compute Monitoring"
+    url: "/wiki/concepts/frontieraicomputemonitoring/"
   - key: "FrontierAuxiliarySupplyFailure"
     title: "Frontier Auxiliary Supply Failure / 边兵粮饷供应失灵"
     url: "/wiki/concepts/frontierauxiliarysupplyfailure/"
@@ -1220,6 +1226,9 @@ wiki_pages:
   - key: "FolkTaleMysteryRewriting"
     title: "民间故事推理改写 / Folk-Tale Mystery Rewriting"
     url: "/wiki/concepts/folktalemysteryrewriting/"
+  - key: "FloodplainRetreatGovernance"
+    title: "洪泛区退让治理 / Floodplain Retreat Governance"
+    url: "/wiki/concepts/floodplainretreatgovernance/"
   - key: "FactionalAlignmentExitCapital"
     title: "派系站队退出资本 / Factional Alignment Exit Capital"
     url: "/wiki/concepts/factionalalignmentexitcapital/"

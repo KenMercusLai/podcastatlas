@@ -5,7 +5,8 @@ tags: [governance, accountability, merit, late-han]
 sources:
   - zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk
   - zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs
-last_updated: 2026-09-10
+  - zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l
+last_updated: 2026-09-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -15,9 +16,11 @@ Merit-Shielded Accountability / 因功免责 is the pattern in which an official
 
 ## Current Synthesis
 
-The concept now has two layers. [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] supplies the normative Western Han argument through [[WangJiaWesternHan|王嘉]]: officials with past offenses or small defects can still be restored if they have real governing capacity, especially when two-thousand-shi local officers are rare and crisis response depends on respected authority. Wang Jia's examples of Wei Shang, Han Anguo, and Zhang Chang make leniency a talent-preservation and state-capacity claim rather than simple favoritism.
+The concept now has three layers. [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] supplies the normative Western Han argument through [[WangJiaWesternHan|王嘉]]: officials with past offenses or small defects can still be restored if they have real governing capacity, especially when two-thousand-shi local officers are rare and crisis response depends on respected authority. Wang Jia's examples of Wei Shang, Han Anguo, and Zhang Chang make leniency a talent-preservation and state-capacity claim rather than simple favoritism.
 
 [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] supplies the harder late-Han test case through [[DuShangLateHan|Du Shang]]. Du Shang successfully suppresses [[ZhuGaiLateHan|Zhu Gai]] and [[HuLanLateHan|Hu Lan]], then falsely memorializes that Cangwu bandits entered Jingzhou to avoid blame. When [[ZhangPanLateHan|Zhang Pan]] exposes the false accusation, the court still spares Du Shang because his anti-rebellion merit and continuing usefulness outweigh ordinary punishment.
+
+The hero-memory version runs through [[ChenTangWesternHan|陈汤]]. His later Changling-related offense and corruption problem remain part of the case, but [[GengYuWesternHan|耿育]] argues that the court cannot let later fault, slander, or factional resentment erase the extraordinary campaign merit shared with [[GanYanshouWesternHan|甘延寿]] against [[ZhizhiChanyu|郅支单于]]. This pushes the concept beyond administrative usefulness into future morale: if rare service ends in disgrace, later people may not risk themselves for the state.
 
 ## Key Claims
 
@@ -25,6 +28,7 @@ The concept now has two layers. [[zizhi-tongjian-hanji-583-douzhidao-ta-you-went
 - The shield is strongest when the state believes the actor remains useful for crisis management or local governance.
 - Wang Jia's version requires distinguishing small or past faults from disqualifying wrongdoing; it does not abolish accountability.
 - Du Shang's version shows the danger: real service can mute sanction even after damaging legal truth.
+- Chen Tang's version adds a proportional-memory claim: real later fault can be named while still refusing to erase extraordinary earlier service.
 - The pattern differs from simple corruption because the official's public service is real and acknowledged.
 - The pattern also differs from general pardon because leniency is tied to usable achievement rather than blanket mercy.
 
@@ -36,16 +40,20 @@ The concept now has two layers. [[zizhi-tongjian-hanji-583-douzhidao-ta-you-went
 - Real service: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] records Du Shang's defeat of Zhu Gai and Hu Lan and restoration as Jingzhou inspector.
 - Proven misconduct: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] reports that Du Shang falsely accuses Zhang Pan and cannot defend the charge when confronted.
 - Lenient outcome: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] explains that Du Shang is spared because the court values his pacification merit and continuing usefulness.
+- Heroic-service case: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says Chen Tang and Gan Yanshou killed Zhizhi Chanyu and restored Han prestige, making their merit unusually weighty.
+- Fault retained: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says Chen Tang later had Changling-related political conflict and corruption fault, so the defense does not depend on innocence in every respect.
+- Morale effect: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says Geng Yu warns that crushing a great contributor will make later capable people fear offering plans or dying for Han.
 
 ## Counterevidence & Qualifications
 
-The concept should not be used for every case of promotion, reward, or pardon. Hanji 583 is an argument for tolerating small or past faults among useful officials, not evidence that every serious crime should be excused. Hanji 867 is more troubling because a false accusation is exposed yet softened. Together the sources show both the administrative need for fault tolerance and the accountability risk when usefulness overwhelms legal truth.
+The concept should not be used for every case of promotion, reward, or pardon. Hanji 583 is an argument for tolerating small or past faults among useful officials, not evidence that every serious crime should be excused. Hanji 867 is more troubling because a false accusation is exposed yet softened. Hanji 570 adds that heroic public memory can itself become part of the accountability calculation, but it also preserves Chen Tang's fault. Together the sources show both the administrative need for fault tolerance and the accountability risk when usefulness, reputation, or morale overwhelms legal truth.
 
 ## What Changed
 
-- Added Hanji 583 as the Western Han normative argument for restoring flawed but useful officials.
+- Added Hanji 570 as a proportional hero-memory case where Chen Tang's later fault is acknowledged but not allowed to erase the Zhizhi campaign.
+- Preserved Hanji 583 as the Western Han normative argument for restoring flawed but useful officials.
 - Preserved Hanji 867 as the harder misconduct case where proven false accusation is softened by pacification merit.
-- Narrowed the concept boundary around small-fault tolerance versus serious accountability erosion.
+- Narrowed the concept boundary around fault tolerance, serious accountability erosion, and morale-based reputation repair.
 
 ## Related Concepts
 - [[MeritBasedRewardPunishment]] - broader reward-and-punishment framework that this concept narrows to misconduct softened by achievement.
@@ -54,3 +62,4 @@ The concept should not be used for every case of promotion, reward, or pardon. H
 - [[MoralDesertPoliticalOutcomeGap]] - semantic neighbor where political results diverge from moral deserving.
 - [[CourtFeedbackCollapse]] - possible systemic consequence when useful actors learn that performance can mute sanctions.
 - [[LocalOfficialTenureStability|地方官任期稳定]] - paired institution in Hanji 583 because stable authority makes useful officials politically valuable.
+- [[HeroMemoryPoliticalCredibility|英雄记忆与政治信用]] - related Hanji 570 concept where honoring service affects future willingness to sacrifice.

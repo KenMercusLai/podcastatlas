@@ -3,18 +3,30 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-10
-as_of_overview_commit: e6e380518ac7d913806f8433fd35d2df09839d9d
-input_digest: 881d579345d15531624da00d48ebf6865bd1e7fe0a24dec9f39bc5aedd3c5346
+last_updated: 2026-09-11
+as_of_overview_commit: dc4f99b603b28618ba37f6d767f100574b7ed86b
+input_digest: 34c777273e147ab38bc672ff29b94a9a4a5846de19837e7a26b551b31eb86782
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.
+The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time. Hanji 575 adds the preceding Jianping 1 layer before the later Ding/Fu settlement, showing how succession lineage, court secrecy, and ministerial punishment shaped late Western Han factional chronology.
 
 ## Cross-source Findings
+
+### Hanji 575 Dingtao Lineage Secrecy Precedes Title Settlement
+
+[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] backfills the late-Western-Han chronology before the later Ding/Fu settlement: [[ShiDanWesternHan]] opposes [[HanAidi]]'s Dingtao birth-parent elevation through [[AdoptiveLineageRitualPolitics]], then a copied sealed memorial and currency-advice reversal make his removal part of the broader [[FuTaihouWesternHan]] title-pressure sequence.
+
+**Evidence:** [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[AdoptiveLineageRitualPolitics]], [[FuTaihouWesternHan]], [[ConfidentialRemonstranceLeakage]], [[ImperialConsortPosthumousTitleSystem]]
+
+**Qualifications:**
+
+- This is a historical backfill claim from one episode note, not a complete reign narrative for Han Aidi.
+- The full memorial text, exact leak route, and Tang Lin's broader career remain source-scoped.
+- The later Ding/Fu title settlement and personnel sequence require adjacent Hanji source notes beyond this claim.
 
 ### Western Han Wang Jia Personnel Memorial Links Talent And Local Authority
 

@@ -5,7 +5,8 @@ tags: [state, empire, europe, monarchy, habsburg]
 sources:
   - 690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068
   - 689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702
-last_updated: 2026-08-28
+  - 672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829
+last_updated: 2026-09-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,11 +14,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Austria-Hungary is the Habsburg monarchy whose court and succession crisis frame the Mayerling episode.
+Austria-Hungary is the Habsburg monarchy whose court and succession crisis frame the Mayerling sequence and whose Italian frontier became the target of [[Italy]]'s 1915 intervention in the [[FirstWorldWar|First World War]].
 
 ## Current Profile
 
-The Mayerling sources now treat Austria-Hungary as both constitutional mosaic and court-crisis machine. The prehistory describes a multilingual empire held together by Habsburg loyalty, reshaped by the 1867 [[AustroHungarianDualMonarchy]], and strained by nationalism, antisemitism, army politics, and minority-rights disputes. Part 2 then shows the same state trying to preserve Catholic, dynastic, and public legitimacy after [[CrownPrinceRudolf]] and [[MaryVetsera]] die at Mayerling.
+Austria-Hungary appears as both constitutional mosaic and court-crisis machine. The Mayerling branch describes a multilingual empire held together by Habsburg loyalty, reshaped by the 1867 [[AustroHungarianDualMonarchy]], and strained by nationalism, antisemitism, army politics, and minority-rights disputes. The court then tries to preserve Catholic, dynastic, and public legitimacy after [[CrownPrinceRudolf]] and [[MaryVetsera]] die at Mayerling.
+
+The First World War branch shows the same multinational monarchy as an awkward ally turned target. Italian leaders used Austria's Serbia move and lack of consultation to justify neutrality in 1914, then bargained for territories under Habsburg rule. On the [[IsonzoFront|Isonzo front]], Austro-Hungarian defensive competence, mountain positions, and soldiers defending lands they regarded as their own helped turn Italian intervention into attrition.
 
 ## Key Characteristics
 
@@ -27,7 +30,7 @@ The Mayerling sources now treat Austria-Hungary as both constitutional mosaic an
 - Its heir is politically frustrated by Germany, Serbia, hostile press narratives about the Austrian army, and his lack of effective office.
 - The state response to Mayerling tries to separate Rudolf's official funeral from Mary's suppressed presence.
 - Succession becomes fragile once the emperor loses his direct male heir.
-- The episode links the monarchy to fin-de-siecle Vienna and Habsburg decline while warning against overbuilt political readings.
+- The Italian-front branch makes the empire both object of irredentist territorial claims and effective mountain-front defender.
 
 ## Evidence
 
@@ -38,15 +41,16 @@ The Mayerling sources now treat Austria-Hungary as both constitutional mosaic an
 - Political anxiety: [[689-a-murderous-affair-the-habsburgs-greatest-scandal-part-1-glt6194086702]] and [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] connect Rudolf's reform hopes, Wilhelm hostility, army insult, Berlin press attacks, and dangers gathering around Austria.
 - Public management: [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] records theatre closures, newspaper reports, Catholic burial management, and suppression of Mary's role.
 - Succession impact: [[690-a-murderous-affair-death-at-mayerling-part-2-glt7203783068]] says succession moves toward [[KarlLudwigOfAustria]] and then [[FranzFerdinand]].
+- Italian war target: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] explains Italy's neutrality argument, territorial demands against Habsburg lands, and May 1915 war declaration.
+- Isonzo defense: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] presents Austro-Hungarian forces under Svetozar Boroevic as well positioned and motivated on mountain terrain.
 
 ## Qualifications
 
-This page is source-scoped to the Mayerling sequence. It adds nationalities and constitutional context, but it should not be read as a full account of Austria-Hungary's institutions, foreign policy, or 1914 collapse.
+This page remains selective. The Mayerling sources add nationalities, constitutional context, and court legitimacy; the Italy source adds one wartime frontier. It should not be read as a full account of Austria-Hungary's institutions, foreign policy, or 1914-1918 military history.
 
 ## What Changed
 
-- Expanded Austria-Hungary from court-aftermath setting to multilingual dual-monarchy pressure field.
-- Preserved the court ritual, press control, Catholic legitimacy, and succession exposure created by Part 2.
+- Added the Italian-front branch, making Austria-Hungary the target of Italian irredentist demands and the defensive power on the Isonzo.
 
 ## Relationships
 
@@ -57,3 +61,6 @@ This page is source-scoped to the Mayerling sequence. It adds nationalities and 
 - [[CrownPrinceRudolf]] - heir whose death destabilizes succession.
 - [[GeorgVonSchonerer]] - nationalist antagonist to Habsburg multiculturalism and Rudolf's politics.
 - [[DynasticHeirLossShock]] - concept for the succession effect visible after Mayerling.
+- [[Italy]] - former ally and later attacker in the 1915 intervention branch.
+- [[IsonzoFront]] - mountain battlefield where Austro-Hungarian defense shaped Italian attrition.
+- [[ItalianIrredentism]] - nationalist claim directed at Habsburg-held territories.

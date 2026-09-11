@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -716,6 +716,9 @@ wiki_pages:
   - key: "Tommy"
     title: "Tommy"
     url: "/wiki/entities/tommy/"
+  - key: "TommyRobinson"
+    title: "Tommy Robinson"
+    url: "/wiki/entities/tommyrobinson/"
   - key: "TommyWood"
     title: "Tommy Wood"
     url: "/wiki/entities/tommywood/"
@@ -1004,6 +1007,9 @@ wiki_pages:
   - key: "Taipingnian"
     title: "《太平年》"
     url: "/wiki/entities/taipingnian/"
+  - key: "Taipingjing"
+    title: "《太平经》 / Taipingjing"
+    url: "/wiki/entities/taipingjing/"
   - key: "TwentyFourViewsOfMountFujiByHokusai"
     title: "《富岳二十四景》 / 24 Views of Mt. Fuji, by Hokusai"
     url: "/wiki/entities/twentyfourviewsofmountfujibyhokusai/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "AnacreonticSong"
     title: "The Anacreontic Song"
     url: "/wiki/entities/anacreonticsong/"
+  - key: "AnarchyEnglishCivilWar"
+    title: "The Anarchy"
+    url: "/wiki/entities/anarchyenglishcivilwar/"
   - key: "AStretchOfHighwayTwoLanesWide"
     title: "《一段双车道公路》"
     url: "/wiki/entities/astretchofhighwaytwolaneswide/"

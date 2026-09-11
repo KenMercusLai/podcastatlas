@@ -2,6 +2,26 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "hanji-575-dingtao-lineage-secrecy-precedes-title-settlement",
+      "qualifications": [
+        "This is a historical backfill claim from one episode note, not a complete reign narrative for Han Aidi.",
+        "The full memorial text, exact leak route, and Tang Lin's broader career remain source-scoped.",
+        "The later Ding/Fu title settlement and personnel sequence require adjacent Hanji source notes beyond this claim."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] backfills the late-Western-Han chronology before the later Ding/Fu settlement: [[ShiDanWesternHan]] opposes [[HanAidi]]'s Dingtao birth-parent elevation through [[AdoptiveLineageRitualPolitics]], then a copied sealed memorial and currency-advice reversal make his removal part of the broader [[FuTaihouWesternHan]] title-pressure sequence.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6",
+        "ShiDanWesternHan",
+        "HanAidi",
+        "AdoptiveLineageRitualPolitics",
+        "FuTaihouWesternHan",
+        "ConfidentialRemonstranceLeakage",
+        "ImperialConsortPosthumousTitleSystem"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "western-han-wang-jia-personnel-memorial-links-talent-and-local-authority",
       "qualifications": [
         "This is a source-scoped historical claim from one Hanji episode and should not be treated as Wang Jia's full biography.",
@@ -320,6 +340,6 @@
       ]
     }
   ],
-  "summary": "The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time.",
+  "summary": "The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time. Hanji 575 adds the preceding Jianping 1 layer before the later Ding/Fu settlement, showing how succession lineage, court secrecy, and ministerial punishment shaped late Western Han factional chronology.",
   "topic_id": "history-and-geopolitics"
 }

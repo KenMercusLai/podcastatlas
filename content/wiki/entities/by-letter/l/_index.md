@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -530,6 +530,9 @@ wiki_pages:
   - key: "Loki"
     title: "Loki / 洛基"
     url: "/wiki/entities/loki/"
+  - key: "London"
+    title: "London"
+    url: "/wiki/entities/london/"
   - key: "LondonCollegeOfCommunication"
     title: "London College of Communication"
     url: "/wiki/entities/londoncollegeofcommunication/"
@@ -713,6 +716,9 @@ wiki_pages:
   - key: "LuganoPlanB"
     title: "Lugano Plan B"
     url: "/wiki/entities/luganoplanb/"
+  - key: "LuigiCadorna"
+    title: "Luigi Cadorna"
+    url: "/wiki/entities/luigicadorna/"
   - key: "LuigiCaseSuspect"
     title: "Luigi Case Suspect"
     url: "/wiki/entities/luigicasesuspect/"
@@ -1028,6 +1034,9 @@ wiki_pages:
   - key: "LiuZhiChangchengEasternHan"
     title: "刘植 / Liu Zhi (Changcheng Eastern Han)"
     url: "/wiki/entities/liuzhichangchengeasternhan/"
+  - key: "LiuXinWesternHan"
+    title: "刘歆 / Liu Xin (Western Han)"
+    url: "/wiki/entities/liuxinwesternhan/"
   - key: "LiuYongEasternHan"
     title: "刘永 / Liu Yong (Eastern Han)"
     url: "/wiki/entities/liuyongeasternhan/"
@@ -1394,6 +1403,9 @@ wiki_pages:
   - key: "LiJiSlaysSnake"
     title: "李寄斩蛇 / Li Ji Slays the Snake"
     url: "/wiki/entities/lijislayssnake/"
+  - key: "LiXunWesternHan"
+    title: "李寻 / Li Xun (Western Han)"
+    url: "/wiki/entities/lixunwesternhan/"
   - key: "LiFengLateHan"
     title: "李封 / Li Feng (late Han)"
     url: "/wiki/entities/lifenglatehan/"

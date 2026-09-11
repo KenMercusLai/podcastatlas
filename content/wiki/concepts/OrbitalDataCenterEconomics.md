@@ -7,7 +7,8 @@ sources:
   - e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793
   - tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128
   - all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335
-last_updated: 2026-08-31
+  - all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150
+last_updated: 2026-09-10
 ---
 
 # Orbital Data Center Economics
@@ -16,7 +17,7 @@ last_updated: 2026-08-31
 Orbital data center economics is the total-cost test for whether AI compute in orbit can beat terrestrial data centers after launch, satellites, chips, cooling, communications, radiation tolerance, maintenance, reliability, and replacement cycles are counted.
 
 ## Current Synthesis
-The concept now has two complementary cost frames. E239 builds an orbital model from 100kW satellite units, launch counts, GPU capital cost, heat rejection, radiation tolerance, satellite lifetime, and inference-versus-training fit. Marketplace Tech adds a public-radio version focused on capital needs and repair difficulty. The new All-In source makes the terrestrial counterfactual more explicit: a one-gigawatt ground AI data center is described as roughly $35 billion in semiconductors plus $25 billion in power and cooling equipment, creating a very high ground-cost hurdle that reusable [[Starship]] launches might eventually compete with.
+The concept now has three complementary cost frames. E239 builds an orbital model from 100kW satellite units, launch counts, GPU capital cost, heat rejection, radiation tolerance, satellite lifetime, and inference-versus-training fit. Marketplace Tech adds a public-radio version focused on capital needs and repair difficulty. The All-In sources make the terrestrial counterfactual and launch-timing wager more explicit: one episode describes a one-gigawatt ground AI data center as roughly $35 billion in semiconductors plus $25 billion in power and cooling equipment, while the May 22 episode gives late-2028 to early-2030 as Gavin Baker's point estimate for orbital compute if reusable [[Starship]] and space-designed GPU assumptions hold.
 
 ## Key Claims
 - Launch cost is a gate, but not the only gate; satellite manufacturing, chip cost, heat rejection, communication, and replacement cycles can dominate the final answer.
@@ -24,6 +25,7 @@ The concept now has two complementary cost frames. E239 builds an orbital model 
 - Terrestrial data-center costs and power scarcity set the benchmark orbital compute must beat.
 - Orbital compute may fit inference or medium-sized distributed workloads before it fits dense frontier-model training.
 - Maintenance and component failure are not afterthoughts; repairability is part of whether orbital data centers can be more than a funding narrative.
+- Point forecasts for orbital compute are useful scenario markers, but they should be weighted below engineering constraints and observed deployment economics.
 
 ## Evidence
 - Full orbital model: [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] discusses a 1GW target through 100kW orbital compute units, roughly 10,000 satellites, and about 100 [[Starship]] launches if each launch carries about 100 units.
@@ -31,14 +33,14 @@ The concept now has two complementary cost frames. E239 builds an orbital model 
 - Repairability filter: [[tech-20260123-0123-mp-tech-pod-128-tech-20260123-0123-mp-tech-pod-128]] treats space data centers as a serious science experiment requiring large capital while emphasizing that servers and chips fail and are harder to repair in orbit.
 - New ground-cost baseline: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]] raises the ground-cost benchmark by separating semiconductor cost from power and cooling equipment for a one-gigawatt AI data center.
 - Workload-fit claim: [[all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335]] says distributed inference is more plausible than distributed training because training is more latency-sensitive.
+- Forecast and hardware branch: [[all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150]] adds Gavin Baker's late-2028 to early-2030 orbital-compute point estimate and a claim that a working [[Nvidia]] H100 is already in space with a space-designed version in development.
 
 ## Counterevidence & Qualifications
-The most favorable orbital case still depends on reusable-launch cost and reliability improvements that are not established in the source set. Ground data centers remain mature, serviceable, and networked. Even if launch becomes cheap, heat rejection, replacement cycles, radiation tolerance, and orbital operations can erase energy or siting advantages.
+The most favorable orbital case still depends on reusable-launch cost and reliability improvements that are not established in the source set. Ground data centers remain mature, serviceable, and networked. Even if launch becomes cheap, heat rejection, replacement cycles, radiation tolerance, and orbital operations can erase energy or siting advantages. The May 22 point estimate should be treated as an investor scenario, not as validated deployment evidence.
 
 ## What Changed
-- Migrated the page to the synthesis-first concept schema.
-- Added a new All-In terrestrial cost baseline for one-gigawatt AI data centers.
-- Added distributed inference versus distributed training as a workload-specific qualification.
+- Added the May 22 All-In orbital-compute timing and space-GPU branch.
+- Reframed point forecasts as scenario markers subordinate to launch, thermal, maintenance, and workload-fit constraints.
 
 ## Related Concepts
 - [[SpaceBasedAIInfrastructure]] - broader scenario this concept makes economically testable.

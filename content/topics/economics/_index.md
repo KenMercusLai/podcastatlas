@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 1989
+topic_total_pages: 1994
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -286,6 +286,9 @@ topic_concepts:
   - key: "AuditOpinionRisk"
     title: "Audit Opinion Risk"
     url: "/wiki/concepts/auditopinionrisk/"
+  - key: "AuthorCommercialFilmBalance"
+    title: "Author Commercial Film Balance / 作者表达与商业电影平衡"
+    url: "/wiki/concepts/authorcommercialfilmbalance/"
   - key: "AutoRepossession"
     title: "Auto Repossession"
     url: "/wiki/concepts/autorepossession/"
@@ -697,6 +700,9 @@ topic_concepts:
   - key: "CountercyclicalPublicWorks"
     title: "Countercyclical Public Works / 逆周期公共工程"
     url: "/wiki/concepts/countercyclicalpublicworks/"
+  - key: "CreatorLateCycleAnxiety"
+    title: "Creator Late-Cycle Anxiety / 创作者末班车感"
+    url: "/wiki/concepts/creatorlatecycleanxiety/"
   - key: "CreatorDrivenFinancialNarrative"
     title: "Creator-Driven Financial Narrative / 创作者驱动的财经叙事"
     url: "/wiki/concepts/creatordrivenfinancialnarrative/"
@@ -2932,6 +2938,9 @@ topic_concepts:
   - key: "ZouXikouMigration"
     title: "Zou Xikou Migration"
     url: "/wiki/concepts/zouxikoumigration/"
+  - key: "ChineseFootballFinancialDiscipline"
+    title: "中国足球财务纪律 / Chinese Football Financial Discipline"
+    url: "/wiki/concepts/chinesefootballfinancialdiscipline/"
   - key: "WuzhuCoinRestoration"
     title: "五铢钱恢复 / Wuzhu Coin Restoration"
     url: "/wiki/concepts/wuzhucoinrestoration/"
@@ -5760,6 +5769,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335"
     title: "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150"
+    title: "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150/"
   - key: "tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio"
     title: "Spenser Skates, Founder & CEO, Amplitude"
     url: "/wiki/sources/tsr-s5-spenserskates-v2audio-tsr-s5-spenserskates-v2audio/"
@@ -5943,6 +5955,9 @@ topic_sources:
   - key: "kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054"
     title: "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？"
     url: "/wiki/sources/kafeidou-he-niu-ziyou-cheng-zizhu-canting-maidian-guijia-guanghuan-cong-he-er-lai-1004978054/"
+  - key: "kafeidou-cong-feiji-qianting-zoujin-richang-shenghuo-tai-weishenme-chengle-shuibei-remen-cailiao-1013725042"
+    title: "咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？"
+    url: "/wiki/sources/kafeidou-cong-feiji-qianting-zoujin-richang-shenghuo-tai-weishenme-chengle-shuibei-remen-cailiao-1013725042/"
   - key: "shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716"
     title: "商业小样48 | 不要在财报中创造指标"
     url: "/wiki/sources/shangye-xiaoyang-48-buyao-zai-caibao-zhong-chuangzao-zhibiao-1009836716/"

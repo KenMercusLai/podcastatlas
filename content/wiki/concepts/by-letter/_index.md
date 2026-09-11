@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "AdvancedAgricultureInnovation"
     title: "Advanced Agriculture Innovation"
     url: "/wiki/concepts/advancedagricultureinnovation/"
+  - key: "AdvancedAIDevelopmentPause"
+    title: "Advanced AI Development Pause"
+    url: "/wiki/concepts/advancedaidevelopmentpause/"
   - key: "AdvancedCeramicsIndustrialUpgrade"
     title: "Advanced Ceramics Industrial Upgrade / 先进陶瓷产业升级"
     url: "/wiki/concepts/advancedceramicsindustrialupgrade/"
@@ -1583,6 +1586,9 @@ wiki_pages:
   - key: "AmericanProtectionistTradition"
     title: "American Protectionist Tradition"
     url: "/wiki/concepts/americanprotectionisttradition/"
+  - key: "AmericanRightBritainWarningNarrative"
+    title: "American Right Britain Warning Narrative"
+    url: "/wiki/concepts/americanrightbritainwarningnarrative/"
   - key: "AmericanSportsCapitalInEuropeanFootball"
     title: "American Sports Capital In European Football"
     url: "/wiki/concepts/americansportscapitalineuropeanfootball/"
@@ -1643,6 +1649,9 @@ wiki_pages:
   - key: "AngkorHydraulicEmpire"
     title: "Angkor Hydraulic Empire / 吴哥水利帝国"
     url: "/wiki/concepts/angkorhydraulicempire/"
+  - key: "AngloNormanSuccessionLegitimacy"
+    title: "Anglo-Norman Succession Legitimacy"
+    url: "/wiki/concepts/anglonormansuccessionlegitimacy/"
   - key: "AnimalAbuseViolenceLink"
     title: "Animal Abuse Violence Link"
     url: "/wiki/concepts/animalabuseviolencelink/"
@@ -2099,6 +2108,9 @@ wiki_pages:
   - key: "AuthorAsPoliticalSymbol"
     title: "Author As Political Symbol / 作者作为政治符号"
     url: "/wiki/concepts/authoraspoliticalsymbol/"
+  - key: "AuthorCommercialFilmBalance"
+    title: "Author Commercial Film Balance / 作者表达与商业电影平衡"
+    url: "/wiki/concepts/authorcommercialfilmbalance/"
   - key: "AuthorMythDeflation"
     title: "Author Myth Deflation"
     url: "/wiki/concepts/authormythdeflation/"

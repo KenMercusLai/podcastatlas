@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -1199,6 +1199,9 @@ wiki_pages:
   - key: "JiYun"
     title: "纪昀 / Ji Yun"
     url: "/wiki/entities/jiyun/"
+  - key: "JiWuWesternHan"
+    title: "纪武 / Ji Wu (Western Han)"
+    url: "/wiki/entities/jiwuwesternhan/"
   - key: "JiLing"
     title: "纪灵 / Ji Ling"
     url: "/wiki/entities/jiling/"
@@ -1253,6 +1256,9 @@ wiki_pages:
   - key: "Jianshouqing"
     title: "见手青 / Jianshouqing"
     url: "/wiki/entities/jianshouqing/"
+  - key: "JieGuangWesternHan"
+    title: "解光 / Jie Guang (Western Han)"
+    url: "/wiki/entities/jieguangwesternhan/"
   - key: "JorgeOfBurgos"
     title: "豪尔赫 / Jorge of Burgos"
     url: "/wiki/entities/jorgeofburgos/"
@@ -1289,6 +1295,9 @@ wiki_pages:
   - key: "JiaQiang"
     title: "贾蔷 / Jia Qiang"
     url: "/wiki/entities/jiaqiang/"
+  - key: "JiaRangWesternHan"
+    title: "贾让 / Jia Rang (Western Han)"
+    url: "/wiki/entities/jiarangwesternhan/"
   - key: "JiaXu"
     title: "贾诩 / Jia Xu"
     url: "/wiki/entities/jiaxu/"

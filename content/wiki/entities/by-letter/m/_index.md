@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "MacBook"
     title: "MacBook"
     url: "/wiki/entities/macbook/"
+  - key: "MachineIntelligenceResearchInstitute"
+    title: "Machine Intelligence Research Institute"
+    url: "/wiki/entities/machineintelligenceresearchinstitute/"
   - key: "MacRabbit"
     title: "MacRabbit"
     url: "/wiki/entities/macrabbit/"

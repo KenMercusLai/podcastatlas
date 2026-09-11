@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "BeverageCategoryConvergence"
     title: "Beverage Category Convergence"
     url: "/wiki/concepts/beveragecategoryconvergence/"
+  - key: "BibliographicClassificationAsStatecraft"
+    title: "Bibliographic Classification as Statecraft / 目录分类作为治国术"
+    url: "/wiki/concepts/bibliographicclassificationasstatecraft/"
   - key: "BicycleCapitalBubble"
     title: "Bicycle Capital Bubble"
     url: "/wiki/concepts/bicyclecapitalbubble/"
@@ -575,6 +578,9 @@ wiki_pages:
   - key: "BriggsVMullen"
     title: "Briggs v. Mullen"
     url: "/wiki/concepts/briggsvmullen/"
+  - key: "BritishMediaExclusionOnlineAmplification"
+    title: "British Media Exclusion Online Amplification"
+    url: "/wiki/concepts/britishmediaexclusiononlineamplification/"
   - key: "BroadcastCentralization"
     title: "Broadcast Centralization"
     url: "/wiki/concepts/broadcastcentralization/"
@@ -701,6 +707,9 @@ wiki_pages:
   - key: "BeneficialGovernanceDelivery"
     title: "善政实惠落地 / Beneficial Governance Delivery"
     url: "/wiki/concepts/beneficialgovernancedelivery/"
+  - key: "BureaucraticAdverseSelection"
+    title: "官场逆淘汰 / Bureaucratic Adverse Selection"
+    url: "/wiki/concepts/bureaucraticadverseselection/"
   - key: "BattlefieldVictoryToFoundingOrder"
     title: "战场胜利到建国秩序 / Battlefield Victory To Founding Order"
     url: "/wiki/concepts/battlefieldvictorytofoundingorder/"

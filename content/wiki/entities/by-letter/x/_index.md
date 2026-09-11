@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "XiaShuo"
     title: "夏说 / Xia Shuo"
     url: "/wiki/entities/xiashuo/"
+  - key: "XiaHeliangWesternHan"
+    title: "夏贺良 / Xia Heliang (Western Han)"
+    url: "/wiki/entities/xiaheliangwesternhan/"
   - key: "XiaYunLateHan"
     title: "夏韵 / Xia Yun (late Han)"
     url: "/wiki/entities/xiayunlatehan/"
@@ -377,6 +380,9 @@ wiki_pages:
   - key: "XuZhiLateHan"
     title: "徐稚 / Xu Zhi (late Han)"
     url: "/wiki/entities/xuzhilatehan/"
+  - key: "XuMeirenWesternHan"
+    title: "徐美人 / Xu Meiren (Western Han)"
+    url: "/wiki/entities/xumeirenwesternhan/"
   - key: "XuXiLateHan"
     title: "徐翕 / Xu Xi (late Han)"
     url: "/wiki/entities/xuxilatehan/"
@@ -611,6 +617,9 @@ wiki_pages:
   - key: "Xudu"
     title: "许都 / Xudu"
     url: "/wiki/entities/xudu/"
+  - key: "XieGuangWesternHan"
+    title: "谢光 / Xie Guang (Western Han)"
+    url: "/wiki/entities/xieguangwesternhan/"
   - key: "XieGong"
     title: "谢公 / Xie Gong"
     url: "/wiki/entities/xiegong/"

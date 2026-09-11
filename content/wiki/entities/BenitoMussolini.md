@@ -5,7 +5,8 @@ tags: [politics, fascism, italy, sports]
 sources:
   - i-robot-ai-and-consciousness-6a880840b0d5e24ea40c7015
   - the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007
-last_updated: 2026-09-01
+  - 672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829
+last_updated: 2026-09-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,11 +14,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Benito Mussolini is represented in the wiki as the Italian fascist ruler whose politics contaminate literary memory through [[EzraPound]] and whose regime used sport and the [[FIFAWorldCup|World Cup]] as state spectacle.
+Benito Mussolini is represented in the wiki as the Italian fascist ruler whose politics contaminate literary memory through [[EzraPound]], whose regime used sport and the [[FIFAWorldCup|World Cup]] as state spectacle, and whose pre-fascist interventionism drew on [[GabrieleDAnnunzio|Gabriele D'Annunzio]]'s nationalist style.
 
 ## Current Profile
 
-The current evidence gives Mussolini two source-scoped roles. In the Pound source, he is the fascist leader admired by a major poet, making [[IdeologicallyCompromisedArt]] morally unavoidable for [[MaryDeRachewiltz]]'s translation work. In the World Cup source, he is the dictator whose regime projected virility, discipline, modernity, and national unity through [[FascistSportPolicy]], the [[ItalyNationalFootballTeam]], and the 1934 and 1938 World Cups.
+The current evidence gives Mussolini three source-scoped roles. In the Pound source, he is the fascist leader admired by a major poet, making [[IdeologicallyCompromisedArt]] morally unavoidable for [[MaryDeRachewiltz]]'s translation work. In the World Cup source, he is the dictator whose regime projected virility, discipline, modernity, and national unity through [[FascistSportPolicy]], the [[ItalyNationalFootballTeam]], and the 1934 and 1938 World Cups. In the First World War Italy source, he appears earlier as a young journalist who moved from anti-war socialism to interventionism, admired D'Annunzio, fought on the Isonzo, and later drew on war bitterness.
 
 ## Key Characteristics
 
@@ -26,6 +27,7 @@ The current evidence gives Mussolini two source-scoped roles. In the Pound sourc
 - Brutal war-oriented dictator, not merely a comic or performative public figure.
 - Ruler whose regime pushed politics into leisure, youth, sport, media, language, and international spectacle.
 - Political beneficiary of real Italian football success, especially the [[FIFAWorldCup1934|1934]] and [[FIFAWorldCup1938|1938]] victories.
+- Interventionist political learner whose style and opportunity were shaped by D'Annunzio, Isonzo experience, and postwar resentment.
 - Figure whose sport propaganda should not be read as automatic proof of mass ideological conversion.
 
 ## Evidence
@@ -35,14 +37,15 @@ The current evidence gives Mussolini two source-scoped roles. In the Pound sourc
 - Regime brutality and war desire: [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] stresses that Mussolini's theatrical image should not obscure cruelty, brutality, and desire for war.
 - Sport policy: [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] connects Mussolini's regime to sports fields, army-trained instructors, youth and leisure organizations, football reorganization, media, and tournament staging.
 - World Cup prestige: [[the-fascist-world-cup-mussolinis-football-dictatorship-history-of-the-world-cup-glt5810592007]] presents the 1934 and 1938 Italian victories as both elite sporting success and propaganda assets.
+- Interventionist formation: [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]] places Mussolini in D'Annunzio's audience, notes his move from anti-war socialism to pro-war journalism, and links his later politics to Isonzo wounds and war resentment.
 
 ## Qualifications
 
-This page is not a full biography of Mussolini. The current wiki evidence covers a literary-obituary moral context and a sports-politics context; it does not independently narrate his rise, government, wars, racial laws, downfall, or the full history of Italian fascism.
+This page is not a full biography of Mussolini. The current wiki evidence covers a literary-obituary moral context, a sports-politics context, and one First World War prehistory context; it does not independently narrate his full rise, government, wars, racial laws, downfall, or the full history of Italian fascism.
 
 ## What Changed
 
-- Added the sport-politics profile connecting Mussolini to fascist leisure policy, football, and the 1934/1938 World Cups.
+- Added the First World War prehistory link connecting Mussolini to D'Annunzio's interventionist style, Isonzo experience, and postwar resentment.
 
 ## Relationships
 
@@ -54,3 +57,5 @@ This page is not a full biography of Mussolini. The current wiki evidence covers
 - [[AuthoritarianSportsPropaganda]] - broader concept exemplified by Mussolini's football use.
 - [[FIFAWorldCup1934]] - home tournament staged as fascist showcase.
 - [[FIFAWorldCup1938]] - repeat Italian victory claimed inside the same regime prestige story.
+- [[GabrieleDAnnunzio]] - nationalist performer whose style the episode says Mussolini admired and learned from.
+- [[IsonzoFront]] - battlefield where Mussolini fought and was wounded before fascism.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "VitalismLifePrincipleDebate"
     title: "Vitalism And Life-Principle Debate / 活力论与生命本质争论"
     url: "/wiki/concepts/vitalismlifeprincipledebate/"
+  - key: "VocalTractSpeechProduction"
+    title: "Vocal-Tract Speech Production"
+    url: "/wiki/concepts/vocaltractspeechproduction/"
   - key: "VocationalDegreeProgression"
     title: "Vocational Degree Progression / 职业教育升学通道"
     url: "/wiki/concepts/vocationaldegreeprogression/"

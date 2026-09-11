@@ -149,26 +149,26 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-04",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - GPT-6 Hits AGI？ Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal [42788250].md",
-      "source_note_count": 50,
-      "topic_matched_source_note_count": 46,
+      "source_note_count": 51,
+      "topic_matched_source_note_count": 47,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 36
+          "source_note_count": 37
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 20
+          "source_note_count": 21
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 17
+          "source_note_count": 18
         },
         {
           "key": "science",
@@ -274,14 +274,14 @@
       "earliest_episode_date": "2021-09-28",
       "latest_episode_date": "2026-08-20",
       "latest_episode_file": "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
-      "source_note_count": 26,
-      "topic_matched_source_note_count": 18,
+      "source_note_count": 27,
+      "topic_matched_source_note_count": 19,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 15
+          "source_note_count": 16
         },
         {
           "key": "science",
@@ -293,7 +293,7 @@
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 1
+          "source_note_count": 2
         },
         {
           "key": "culture",
@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
-      "source_note_count": 70,
-      "topic_matched_source_note_count": 66,
+      "source_note_count": 71,
+      "topic_matched_source_note_count": 67,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 50
+          "source_note_count": 51
         },
         {
           "key": "technology",
@@ -342,7 +342,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 22
+          "source_note_count": 23
         },
         {
           "key": "science",
@@ -410,10 +410,10 @@
         }
       ],
       "start_here_episode_files": [
-        "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+        "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
         "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md",
-        "After the flood： Nepal’s ongoing rescue [6a969d560cefab2730527078].md",
-        "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md"
+        "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
+        "Chainsaw sputtering： Milei’s experiment falters [6aa1299999455f9a93f7de9b].md"
       ]
     },
     "How I Built This with Guy Raz": {
@@ -478,14 +478,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "SCIM1624813352 [SCIM1624813352].md",
-      "source_note_count": 34,
-      "topic_matched_source_note_count": 25,
+      "source_note_count": 35,
+      "topic_matched_source_note_count": 26,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 23
+          "source_note_count": 24
         },
         {
           "key": "culture",
@@ -590,14 +590,14 @@
       "earliest_episode_date": "2025-12-08",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md",
-      "source_note_count": 142,
-      "topic_matched_source_note_count": 111,
+      "source_note_count": 143,
+      "topic_matched_source_note_count": 112,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 90
+          "source_note_count": 91
         },
         {
           "key": "politics",
@@ -677,10 +677,10 @@
         }
       ],
       "start_here_episode_files": [
-        "tech_20260904_0904_MP_TECH_pod_128 [tech_20260904_0904_MP_TECH_pod_128].md",
+        "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md",
         "tech_20260902_0902_MP_TECH_pod_128 [tech_20260902_0902_MP_TECH_pod_128].md",
-        "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md",
-        "tech_20260910_TECH_pod_128 [tech_20260910_TECH_pod_128].md"
+        "tech_20260904_0904_MP_TECH_pod_128 [tech_20260904_0904_MP_TECH_pod_128].md",
+        "tech_20260818_TECH_pod_128 [tech_20260818_TECH_pod_128].md"
       ]
     },
     "Planet Money": {
@@ -884,14 +884,14 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-09",
       "latest_episode_file": "GLT9669112656 [GLT9669112656].md",
-      "source_note_count": 38,
-      "topic_matched_source_note_count": 38,
+      "source_note_count": 40,
+      "topic_matched_source_note_count": 40,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 36
+          "source_note_count": 38
         },
         {
           "key": "culture",
@@ -976,14 +976,14 @@
       "earliest_episode_date": "2026-04-09",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "AHARO8420023047 [AHARO8420023047].md",
-      "source_note_count": 13,
-      "topic_matched_source_note_count": 5,
+      "source_note_count": 14,
+      "topic_matched_source_note_count": 6,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 5
+          "source_note_count": 6
         }
       ],
       "entities": [
@@ -996,10 +996,10 @@
         }
       ],
       "start_here_episode_files": [
-        "AHARO4500147412 [AHARO4500147412].md",
         "AHARO8420023047 [AHARO8420023047].md",
         "AHARO9780122001 [AHARO9780122001].md",
-        "AHARO9404248523 [AHARO9404248523].md"
+        "AHARO9404248523 [AHARO9404248523].md",
+        "AHARO4500147412 [AHARO4500147412].md"
       ]
     },
     "The Social Radars": {
@@ -1367,7 +1367,7 @@
       "earliest_episode_date": "2026-07-29",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "GKwRIMAOeF2YAdMp9QTVPacu [GKwRIMAOeF2YAdMp9QTVPacu].md",
-      "source_note_count": 3,
+      "source_note_count": 4,
       "topic_matched_source_note_count": 1,
       "topics": [
         {
@@ -1846,8 +1846,8 @@
       "earliest_episode_date": "2021-07-08",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？ [1013725042].md",
-      "source_note_count": 30,
-      "topic_matched_source_note_count": 18,
+      "source_note_count": 31,
+      "topic_matched_source_note_count": 19,
       "topics": [
         {
           "key": "technology",
@@ -1865,7 +1865,7 @@
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 2
+          "source_note_count": 3
         }
       ],
       "entities": [
@@ -1928,9 +1928,9 @@
       ],
       "start_here_episode_files": [
         "OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权 [1013261958].md",
-        "咖啡豆｜「和牛自由」成自助餐厅卖点，贵价光环从何而来？ [1004978054].md",
         "咖啡豆｜从飞机潜艇走进日常生活，钛为什么成了水杯的热门材料？ [1013725042].md",
-        "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？ [1012895922].md"
+        "猪肉价格经历漫长下跌，为什么「猪周期」不再遵循老节奏？ [1012895922].md",
+        "怡宝纯净水份额下滑，安踏旗下瑜伽服品牌开设健身房 [1012409578].md"
       ]
     },
     "大小电波": {
@@ -2877,14 +2877,14 @@
       "earliest_episode_date": "2025-08-19",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
-      "source_note_count": 9,
-      "topic_matched_source_note_count": 4,
+      "source_note_count": 10,
+      "topic_matched_source_note_count": 5,
       "topics": [
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 2
+          "source_note_count": 3
         },
         {
           "key": "technology",
@@ -2905,7 +2905,7 @@
           "title": "Luo Yonghao",
           "url": "/wiki/entities/luoyonghao/",
           "kind": "person",
-          "episode_count": 7
+          "episode_count": 8
         },
         {
           "key": "ShiLifen",
@@ -2927,14 +2927,14 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
-      "source_note_count": 802,
-      "topic_matched_source_note_count": 319,
+      "source_note_count": 819,
+      "topic_matched_source_note_count": 321,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 272
+          "source_note_count": 274
         },
         {
           "key": "politics",

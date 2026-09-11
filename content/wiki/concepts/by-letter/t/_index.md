@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -416,6 +416,12 @@ wiki_pages:
   - key: "TitForTatCooperation"
     title: "Tit-For-Tat Cooperation / 一报还一报合作"
     url: "/wiki/concepts/titfortatcooperation/"
+  - key: "TitaniumAsConsumerMaterial"
+    title: "Titanium As Consumer Material / 钛作为消费材料"
+    url: "/wiki/concepts/titaniumasconsumermaterial/"
+  - key: "TitaniumCups"
+    title: "Titanium Cups / 钛杯"
+    url: "/wiki/concepts/titaniumcups/"
   - key: "TitleRealityRestraint"
     title: "Title-Reality Restraint / 名实相符式名号节制"
     url: "/wiki/concepts/titlerealityrestraint/"

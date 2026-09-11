@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "EdSabol"
     title: "Ed Sabol"
     url: "/wiki/entities/edsabol/"
+  - key: "EddieChang"
+    title: "Eddie Chang"
+    url: "/wiki/entities/eddiechang/"
   - key: "EddieEspinosa"
     title: "Eddie Espinosa"
     url: "/wiki/entities/eddieespinosa/"
@@ -278,6 +281,9 @@ wiki_pages:
   - key: "EmpressDowagerWeiPingdi"
     title: "Empress Dowager Wei (Pingdi) / 卫太后"
     url: "/wiki/entities/empressdowagerweipingdi/"
+  - key: "EmpressMatilda"
+    title: "Empress Matilda"
+    url: "/wiki/entities/empressmatilda/"
   - key: "EmpressSisi"
     title: "Empress Sisi"
     url: "/wiki/entities/empresssisi/"

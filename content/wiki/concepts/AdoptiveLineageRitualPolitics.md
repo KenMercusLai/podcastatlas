@@ -5,7 +5,8 @@ knowledge_schema: synthesis-v1
 tags: [western-han, adoption, lineage, ritual-politics, succession, legitimacy]
 sources:
   - zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq
-last_updated: 2026-09-10
+  - zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6
+last_updated: 2026-09-11
 ---
 
 ## Definition
@@ -14,13 +15,16 @@ last_updated: 2026-09-10
 
 ## Current Synthesis
 
-The current evidence comes from [[zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq|Hanji 618]], where [[WangMang|王莽]] uses adoptive-heir doctrine to manage the political fallout from killing most of [[HanPingdi|汉平帝]]'s Wei birth relatives. By having Zongbo Feng lecture the court on "嗣子大义," Wang Mang makes Pingdi's status as [[HanAidi|汉哀帝]]'s heir a reason to subordinate birth-family attachment to dynastic-ritual duty.
+The current evidence now has a before-and-after shape around [[HanAidi|汉哀帝]]. [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] shows [[ShiDanWesternHan|施丹]] using the doctrine to restrain Aidi himself: because Aidi has inherited [[HanChengdi|汉成帝]]'s line and ancestral temple, Shi Dan argues that Aidi cannot separately elevate the Dingtao birth-parent line with officials, vehicles, garments, and a capital temple as if there were two supreme centers.
+
+[[zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq|Hanji 618]] gives the later coercive version, where [[WangMang|王莽]] uses adoptive-heir doctrine to manage the political fallout from killing most of [[HanPingdi|汉平帝]]'s Wei birth relatives. By having Zongbo Feng lecture the court on "嗣子大义," Wang Mang makes Pingdi's status as Aidi's heir a reason to subordinate birth-family attachment to dynastic-ritual duty.
 
 The Jin-family succession dispute makes the mechanism concrete. Jin Dang and Jin Qing hold inherited status through collateral lines, so Wang Mang can use their case as an analogy for Pingdi. Jin Qing's suggestion that Jin Dang should personally sacrifice to his birth father and grandfather undermines the analogy by restoring birth-lineage obligation inside an adoptive succession frame. Zhen Han's accusation and reward show how quickly an interpretive disagreement can become political offense when lineage doctrine protects a purge.
 
 ## Key Claims
 
 - Adoption and heir installation can preserve property, status, and ancestral sacrifice while also redefining public kinship obligation.
+- The same doctrine can restrain a reigning emperor's birth-parent honors as well as later restrain a child emperor's birth-family claims.
 - When a child ruler is installed as another emperor's heir, adoptive duty can be used to weaken claims from the ruler's birth family.
 - Court lectures on ritual can operate as political discipline when officials are made to hear and accept a sanctioned interpretation together.
 - Collateral title succession cases can be turned into analogies for imperial succession and court loyalty.
@@ -29,6 +33,8 @@ The Jin-family succession dispute makes the mechanism concrete. Jin Dang and Jin
 
 ## Evidence
 
+- Aidi succession constraint: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] says Shi Dan argues that Aidi's succession into Chengdi's line prevents him from treating the Dingtao parental line as a parallel supreme center.
+- Temple boundary: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] says Shi Dan opposes Aidi personally sacrificing to Dingtao Gonghuang or building a capital temple for him because the adoptive imperial line fixes the main ritual obligation.
 - Institutional background: [[zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq|Hanji 618]] explains over-adoption as a way for sonless households to continue inheritance, identity, and sacrifice.
 - Pingdi analogy: [[zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq|Hanji 618]] says Wang Mang frames Pingdi as Aidi's heir and therefore as someone who should not prioritize Wei birth-family feeling.
 - Public ritual instruction: [[zizhi-tongjian-hanji-618-wangmang-weihe-shi-duoquan-de-touhao-wanjia-lqcaoli6r7lbdzqy7emw8sbzs0wq|Hanji 618]] says the lecture is given before high officials, generals, palace attendants, and civil and military officers.
@@ -39,17 +45,19 @@ The Jin-family succession dispute makes the mechanism concrete. Jin Dang and Jin
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on one short Western Han episode note and should not be generalized to all adoption or lineage practice without more evidence. The source shows how Wang Mang weaponizes one doctrine in one court crisis; it does not prove that every adoptive succession had the same political meaning. Zongbo Feng, Zhen Han, the Jin-family genealogy, exact ritual wording, and Wang Mang's inner motives remain source-scoped.
+The concept still rests on short Western Han episode notes and should not be generalized to all adoption or lineage practice without more evidence. Hanji 575 shows principled ritual resistance to Aidi's birth-parent honors but does not settle every legal detail of Dingtao titles or temple practice. Hanji 618 shows how Wang Mang weaponizes one doctrine in one court crisis; it does not prove that every adoptive succession had the same political meaning. Zongbo Feng, Zhen Han, the Jin-family genealogy, exact ritual wording, and Wang Mang's inner motives remain source-scoped.
 
 ## What Changed
 
-- Created the concept from Hanji 618's Wang Mang, Pingdi, Wei-clan, and Jin-family succession sequence.
-- Linked adoptive-heir doctrine to public ritual instruction, purge justification, and court punishment.
-- Added a qualification limiting the concept to politically weaponized lineage interpretation, not adoption practice as a whole.
+- Added Hanji 575's earlier Aidi/Chengdi/Dingtao branch, where adoptive-lineage doctrine restrains birth-parent honor.
+- Preserved Hanji 618's later Wang Mang/Pingdi branch as the coercive and punitive version of the same doctrine.
+- Refined the concept so it covers both ritual boundary maintenance and weaponized purge justification.
 
 ## Related Concepts
 
 - [[LiAsPoliticalOrder]] - adoptive lineage is treated as enforceable ritual order rather than private family feeling.
+- [[ShiDanWesternHan]] - official who applies the doctrine against Aidi's Dingtao birth-parent elevation.
+- [[HanAidi]] - ruler whose own succession status becomes the earlier test case.
 - [[MingqiLegitimacy]] - inherited titles and heir names become politically dangerous when their ritual meaning is disputed.
 - [[SuccessionAuthorityConsolidation]] - lineage interpretation helps consolidate authority around a chosen succession reading.
 - [[CourtLegitimacyOverPatronLoyalty]] - public court legitimacy is made to outrank private kin or patron attachment.

@@ -1,24 +1,32 @@
-# Wiki Lint Report — 2026-08-27
+# Wiki Lint Report — 2026-09-11
 
-Scanned 14905 pages.
+Scanned 18853 pages.
 
 ## Structural Issues
 
 ### Orphan Pages (no inbound links)
 - `wiki/entities/BobosOatBars.md`
 
+### Broken Wikilinks
+- `wiki/concepts/CivilWarThreatRhetoric.md` links to `[[London]]` — not found
+- `wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b.md` links to `[[London]]` — not found
+- `wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b.md` links to `[[London]]` — not found
+- `wiki/entities/TommyRobinson.md` links to `[[London]]` — not found
+- `wiki/entities/ShireFolk.md` links to `[[London]]` — not found
+
+### Missing Entity Pages (mentioned 3+ times but no page)
+> [!warning] Action Required
+> Run `python3 tools/heal.py` to automatically materialize these missing entity pages.
+- `[[London]]`
+
 ## Graph-Aware Issues
 
 ### Hub Pages with Insufficient Content (0 pages)
 No hub stubs detected — all high-degree nodes have sufficient content.
 
-### Fragile Bridges (5 community pairs)
+### Fragile Bridges (1 community pairs)
 These community connections rely on a single edge — one broken link isolates them:
-- Community 0 ↔ Community 2 via `concepts/SocialEngineeringFraud` → `entities/Cambodia`
-- Community 2 ↔ Community 8 via `concepts/FangshiFraudAndAuthority` → `concepts/SocialEngineeringFraud`
-- Community 4 ↔ Community 12 via `entities/LongNow` → `concepts/CriticalMineralsGeopolitics`
-- Community 8 ↔ Community 15 via `concepts/ValuesFirstTalent` → `concepts/TalentVirtueDistinction`
-- Community 13 ↔ Community 15 via `concepts/EconomicWayOfThinking` → `concepts/ComparativeAdvantage`
+- Community 5 ↔ Community 8 via `entities/CatholicChurch` → `concepts/ReligiousControlledSubstanceExemption`
 
 ### Isolated Communities (0 communities)
 No isolated communities — all clusters have external connections.

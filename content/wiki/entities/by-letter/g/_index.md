@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -20,6 +20,9 @@ wiki_pages:
   - key: "GabrielGarciaMarquez"
     title: "Gabriel Garcia Marquez / 加西亚·马尔克斯"
     url: "/wiki/entities/gabrielgarciamarquez/"
+  - key: "GabrieleDAnnunzio"
+    title: "Gabriele D'Annunzio"
+    url: "/wiki/entities/gabrieledannunzio/"
   - key: "GabrielleSantos"
     title: "Gabrielle Santos"
     url: "/wiki/entities/gabriellesantos/"
@@ -1016,6 +1019,12 @@ wiki_pages:
   - key: "GanNing"
     title: "甘宁 / Gan Ning"
     url: "/wiki/entities/ganning/"
+  - key: "GanYanshouWesternHan"
+    title: "甘延寿 / Gan Yanshou (Western Han)"
+    url: "/wiki/entities/ganyanshouwesternhan/"
+  - key: "GanZhongkeWesternHan"
+    title: "甘忠可 / Gan Zhongke (Western Han)"
+    url: "/wiki/entities/ganzhongkewesternhan/"
   - key: "GanquanPalace"
     title: "甘泉宫 / Ganquan Palace"
     url: "/wiki/entities/ganquanpalace/"
@@ -1088,6 +1097,9 @@ wiki_pages:
   - key: "GengChunEasternHan"
     title: "耿纯 / Geng Chun (Eastern Han)"
     url: "/wiki/entities/gengchuneasternhan/"
+  - key: "GengYuWesternHan"
+    title: "耿育 / Geng Yu (Western Han)"
+    url: "/wiki/entities/gengyuwesternhan/"
   - key: "GengShuEasternHan"
     title: "耿舒 / Geng Shu (Eastern Han)"
     url: "/wiki/entities/gengshueasternhan/"

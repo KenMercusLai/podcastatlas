@@ -1,6 +1,8 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "feef603f3c7a9d391e9d2369a93f67d5d89e86ec593af71ed8bf2914163a54e9",
+      "291d15beef045042289843161eecd8de36591632c4f11cac9bc3553797427abc",
       "6ac9f984ffcc669b00cd24650dbda026ecdf63d0831e46bc8af5a291c8b840f6",
       "edbba806f5fd3c38c55e73e79a35d18e256cb2f82fbd0a4383af42648b91d19b",
       "bdae292c892008ecc50154b7bc182e1b7cb90407dce00c4401dda9ba0ca99f0c",
@@ -609,11 +611,67 @@
       "d9bf4ab06ad3987d6fa76a87be74dce0826d56d3cbacee90b65bd1aba882ed8b",
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4"
     ],
-    "paragraph_count": 607
+    "paragraph_count": 609
   },
-  "overview_commit": "7af1e96f8413fccbd8f4bab6890bb41348b90779",
-  "overview_digest": "70c74ca1e8b342fe9ebea6ff203045a587e7af6f434fafd4561ff573fc8128e7",
+  "overview_commit": "ec738a94d4be1f86b5d5dd853e1703299abcc1e0",
+  "overview_digest": "4a6c5a1bdbf3fc36a31feea3765d95167517f7d10b95134f0e332e5107ee1215",
   "paragraphs": [
+    {
+      "id": "feef603f3c7a9d391e9d2369a93f67d5d89e86ec593af71ed8bf2914163a54e9",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Jianping 1 / 6 BCE under [[HanAidi|汉哀帝]]. It extends [[ShiDanWesternHan|施丹]], [[ConfidentialRemonstranceLeakage|密奏泄露风险]], [[AdoptiveLineageRitualPolitics|过继宗法礼制政治]], and [[ImperialConsortPosthumousTitleSystem|皇后谥号制度]], while connecting [[FuTaihouWesternHan|傅太后]], [[DingJiWesternHan|丁姬]], [[KongGuangWesternHan|孔光]], and [[FuXiWesternHan|傅喜]]. Its core synthesis is that secrecy, ritual rank, and factional opportunity converge: Shi Dan's argument that imperial supremacy cannot have two centers blocks Aidi's Dingtao birth-parent elevation, but a copied sealed memorial and inconsistent currency advice let opponents convert principled remonstrance into \"great irreverence\" and removal. No settled contradiction is recorded; Shi Dan's full memorial text, the exact leak route, Tang Lin's broader career, and the complete Ding/Fu accusation network remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "AdoptiveLineageRitualPolitics",
+        "ConfidentialRemonstranceLeakage",
+        "DingJiWesternHan",
+        "FuTaihouWesternHan",
+        "FuXiWesternHan",
+        "HanAidi",
+        "ImperialConsortPosthumousTitleSystem",
+        "KongGuangWesternHan",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiDanWesternHan",
+        "zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6"
+      ]
+    },
+    {
+      "id": "291d15beef045042289843161eecd8de36591632c4f11cac9bc3553797427abc",
+      "primary_topic": "business-and-markets",
+      "secondary_topics": [
+        "ai-and-technology",
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047|Founder-Led Sales to $1M ARR With Just 10 Customers]], a [[TheSaaSPodcast]] episode with [[FelixHoffman]] on [[SevenLearnings]], retail [[PredictiveDecisionAutomation]], and founder-led enterprise sales. It adds [[FelixHoffman]], [[SevenLearnings]], [[Kearney]], [[Zalando]], [[PredictiveDecisionAutomation]], [[RetailPricingOptimization]], and [[PaidPilotValueProof]], while extending [[FounderLedSales]], [[CustomerValueBasedPricing]], and [[ABTestingForMarketers]]. Its core synthesis is that high-stakes retail decision automation needs data access, explainable forecasts, optimization, paid value proof, customer references, and founder trust before it can scale: Seven Learnings starts from consulting data access, survives a failed first pricing upload, proves profit uplift through A/B tests, and argues that deterministic ML is often a better core fit than LLM wrappers for pricing and marketing optimization. No settled contradiction is recorded; ARR, customer count, headcount, uplift, and technology-fit claims remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 2,
+        "business-and-markets": 4,
+        "culture-and-media": 1,
+        "psychology-and-personal-development": 2
+      },
+      "wikilinks": [
+        "ABTestingForMarketers",
+        "CustomerValueBasedPricing",
+        "FelixHoffman",
+        "FounderLedSales",
+        "Kearney",
+        "PaidPilotValueProof",
+        "PredictiveDecisionAutomation",
+        "RetailPricingOptimization",
+        "SevenLearnings",
+        "TheSaaSPodcast",
+        "Zalando",
+        "founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047"
+      ]
+    },
     {
       "id": "6ac9f984ffcc669b00cd24650dbda026ecdf63d0831e46bc8af5a291c8b840f6",
       "primary_topic": "governance-and-institutions",

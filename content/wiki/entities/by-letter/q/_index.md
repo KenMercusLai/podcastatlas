@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "QixiBook"
     title: "《七夕》 / Qixi"
     url: "/wiki/entities/qixibook/"
+  - key: "Qilue"
+    title: "《七略》 / Qilue"
+    url: "/wiki/entities/qilue/"
   - key: "QuanYuanMingZhenTan"
     title: "《全员名侦探》"
     url: "/wiki/entities/quanyuanmingzhentan/"
@@ -380,6 +383,9 @@ wiki_pages:
   - key: "QianLiqun"
     title: "钱理群"
     url: "/wiki/entities/qianliqun/"
+  - key: "QianMu"
+    title: "钱穆 / Qian Mu"
+    url: "/wiki/entities/qianmu/"
   - key: "QianliangHutongFM"
     title: "钱粮胡同FM"
     url: "/wiki/entities/qianlianghutongfm/"

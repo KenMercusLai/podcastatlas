@@ -3,18 +3,30 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-10
-as_of_overview_commit: c6251e1ff43812db67e7e3c6e1dbaa582328c43c
-input_digest: 0ee2905dbf43380d79de151a2b0817b767a60655c28959de6a5bb7b153110cdc
+last_updated: 2026-09-11
+as_of_overview_commit: dc4f99b603b28618ba37f6d767f100574b7ed86b
+input_digest: 86b633526cdb868de3c1f6da45ab4a9851760eab106325a7bc99d5849a6d45a1
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, and human judgment rather than labels alone. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, and human judgment rather than labels alone. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems. Hanji 575 adds a hierarchy-and-workplace-adjacent historical analogy: correct advice can still fail when status pressure, inconsistent follow-up, and confidential-channel handling expose the speaker.
 
 ## Cross-source Findings
+
+### Hierarchy Advice Needs Channel Protection And Consistent Conduct
+
+[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] enters work-and-society as a bounded historical hierarchy analogy: [[ShiDanWesternHan]] gives principled advice to [[HanAidi]], but anger from above, inconsistent currency advice, and [[ConfidentialRemonstranceLeakage]] show that correct speech still depends on channel protection, follow-through, and the political meaning assigned to process failure.
+
+**Evidence:** [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[CourtFeedbackCollapse]], [[AdoptiveLineageRitualPolitics]]
+
+**Qualifications:**
+
+- This is a secondary work-and-society analogy from a historical source, not modern workplace, legal, confidentiality, or career advice.
+- The primary evidence belongs to Western Han court politics; the work relevance is limited to hierarchy, protected channels, consistency, and process risk.
+- The source does not prove Shi Dan was flawless or settle the legal mechanics of the leaked memorial case.
 
 ### Wang Jia Hierarchy Speech Uses Praise Before Correction
 

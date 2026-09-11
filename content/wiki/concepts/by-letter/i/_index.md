@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -773,6 +773,9 @@ wiki_pages:
   - key: "ItadakimasuEverydayRitual"
     title: "Itadakimasu Everyday Ritual / いただきます日常仪式"
     url: "/wiki/concepts/itadakimasueverydayritual/"
+  - key: "ItalianIrredentism"
+    title: "Italian Irredentism"
+    url: "/wiki/concepts/italianirredentism/"
   - key: "IvyLeagueMeritocracy"
     title: "Ivy League Meritocracy"
     url: "/wiki/concepts/ivyleaguemeritocracy/"

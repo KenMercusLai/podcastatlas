@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "HumorousConservationWriting"
     title: "Humorous Conservation Writing"
     url: "/wiki/concepts/humorousconservationwriting/"
+  - key: "HundredSchoolsSynthesis"
+    title: "Hundred Schools Synthesis / 诸子九流综合观"
+    url: "/wiki/concepts/hundredschoolssynthesis/"
   - key: "HydraulicSiegeWarfare"
     title: "Hydraulic Siege Warfare / 水攻围城"
     url: "/wiki/concepts/hydraulicsiegewarfare/"
@@ -758,6 +761,9 @@ wiki_pages:
   - key: "HufuQishe"
     title: "胡服骑射 / Hu Fu Qi She"
     url: "/wiki/concepts/hufuqishe/"
+  - key: "HeroMemoryPoliticalCredibility"
+    title: "英雄记忆与政治信用 / Hero Memory Political Credibility"
+    url: "/wiki/concepts/heromemorypoliticalcredibility/"
   - key: "HongKongFootballCommercialClubGovernance"
     title: "香港商业球队治理 / Hong Kong Commercial Football Club Governance"
     url: "/wiki/concepts/hongkongfootballcommercialclubgovernance/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -128,6 +128,9 @@ wiki_pages:
   - key: "MandateOfHeavenLegitimacy"
     title: "Mandate of Heaven Legitimacy / 天命合法性"
     url: "/wiki/concepts/mandateofheavenlegitimacy/"
+  - key: "MandatoryAIIncidentInvestigation"
+    title: "Mandatory AI Incident Investigation"
+    url: "/wiki/concepts/mandatoryaiincidentinvestigation/"
   - key: "MandatoryRetirementPolicy"
     title: "Mandatory Retirement Policy"
     url: "/wiki/concepts/mandatoryretirementpolicy/"
@@ -404,6 +407,9 @@ wiki_pages:
   - key: "MedicineAsWaySeeking"
     title: "Medicine As Way-Seeking / 以医入道"
     url: "/wiki/concepts/medicineaswayseeking/"
+  - key: "MedievalFemaleSovereigntyConstraint"
+    title: "Medieval Female Sovereignty Constraint"
+    url: "/wiki/concepts/medievalfemalesovereigntyconstraint/"
   - key: "MedievalUrbanMarginality"
     title: "Medieval Urban Marginality"
     url: "/wiki/concepts/medievalurbanmarginality/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -344,6 +344,9 @@ wiki_pages:
   - key: "RenalFindingTriage"
     title: "Renal Finding Triage / 肾脏发现分层处理"
     url: "/wiki/concepts/renalfindingtriage/"
+  - key: "RenewedMandateRitualReversal"
+    title: "Renewed Mandate Ritual Reversal / 再受命改制合法性反噬"
+    url: "/wiki/concepts/renewedmandateritualreversal/"
   - key: "RenhePoliticalPower"
     title: "Renhe Political Power / 人和政治力量"
     url: "/wiki/concepts/renhepoliticalpower/"
@@ -542,6 +545,9 @@ wiki_pages:
   - key: "RetailPricePointProductScoping"
     title: "Retail Price-Point Product Scoping"
     url: "/wiki/concepts/retailpricepointproductscoping/"
+  - key: "RetailPricingOptimization"
+    title: "Retail Pricing Optimization"
+    url: "/wiki/concepts/retailpricingoptimization/"
   - key: "RetailPrivateMarketAccess"
     title: "Retail Private-Market Access"
     url: "/wiki/concepts/retailprivatemarketaccess/"
@@ -821,6 +827,9 @@ wiki_pages:
   - key: "RocketRecoveryRouteChoice"
     title: "Rocket Recovery Route Choice"
     url: "/wiki/concepts/rocketrecoveryroutechoice/"
+  - key: "RoleAttachmentPowerExit"
+    title: "Role Attachment and Power Exit / 权力角色依附与退场"
+    url: "/wiki/concepts/roleattachmentpowerexit/"
   - key: "RoleLifeCollapse"
     title: "Role-Life Collapse"
     url: "/wiki/concepts/rolelifecollapse/"

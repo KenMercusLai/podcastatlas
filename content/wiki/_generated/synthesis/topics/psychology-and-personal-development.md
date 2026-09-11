@@ -4,15 +4,15 @@ generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
 last_updated: 2026-09-10
-as_of_overview_commit: 25321c7de6e6733c26dfd19b2f68a76854e0f7e4
-input_digest: a15441f47029459c33d4044fd522d038bf7589231c852a124a0ac8ea792e4a5a
+as_of_overview_commit: 3ebdb3b665291d75edc91737b11db65484e92c78
+input_digest: 65924a69873f1fbcd4c9cd07082eb1305f80a9b9261f2adc8c51173038ca5d44
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The Steve Says cluster now spans counselor letters, sex education, anxiety interviews, and Steve's own biography: psychological language can become self-punitive when it is detached from body and care, while self-understanding, vulnerability, and being seen can restore vitality when they remain bounded by consent, context, and clinical humility. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability. The Luo Yonghao/Sixiao Comedy flaw panel adds a source-scoped boundary case: ADHD and compulsive-order labels can make flaws socially narratable, but diagnosis, medication, family pressure, and safety claims remain outside comedy evidence. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The same ingest adds a relationship-psychology case: friend lending requires explicit boundaries around trust, capacity, repayment expectations, public visibility, and directness. Hanji 590 enters only as a secondary historical judgment case: Yang Xiong's memorial treats restraint as proactive risk recognition, so the psychology relevance is bounded to advice uptake and prevention-before-rupture judgment rather than clinical or self-help guidance.
+Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The Steve Says cluster now spans counselor letters, sex education, anxiety interviews, and Steve's own biography: psychological language can become self-punitive when it is detached from body and care, while self-understanding, vulnerability, and being seen can restore vitality when they remain bounded by consent, context, and clinical humility. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability. The Luo Yonghao/Sixiao Comedy flaw panel adds a source-scoped boundary case: ADHD and compulsive-order labels can make flaws socially narratable, but diagnosis, medication, family pressure, and safety claims remain outside comedy evidence. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The same ingest adds a relationship-psychology case: friend lending requires explicit boundaries around trust, capacity, repayment expectations, public visibility, and directness. Hanji 590 enters only as a secondary historical judgment case: Yang Xiong's memorial treats restraint as proactive risk recognition, so the psychology relevance is bounded to advice uptake and prevention-before-rupture judgment rather than clinical or self-help guidance. The Seven Learnings paragraph enters this topic only narrowly as founder judgment under uncertainty: founder-led sales, customer trust, and learning from a failed first upload are business-psychology edges rather than clinical or self-help evidence.
 
 ## Cross-source Findings
 
@@ -908,3 +908,14 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 - This belongs primarily to history-and-geopolitics; the psychology relevance is limited to judgment, advice uptake, and restraint under risk.
 - It is not a clinical, therapeutic, or general personal-development rule.
+
+### Founder Led Sales Is Source Scoped Judgment Under Uncertainty
+
+[[founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047|The Seven Learnings episode]] enters psychology-and-personal-development only as a narrow founder-judgment case: [[FelixHoffman]] and [[FounderLedSales]] show trust-building, learning from a failed first upload, and persistence through enterprise proof design, while the main evidence belongs to business and technology synthesis.
+
+**Evidence:** [[founder-led-sales-to-1m-arr-with-just-10-customers-aharo8420023047]], [[FelixHoffman]], [[FounderLedSales]], [[SevenLearnings]], [[PaidPilotValueProof]]
+
+**Qualifications:**
+
+- This is not clinical, therapeutic, or general personal-development evidence.
+- The founder-judgment reading should remain secondary to the episode's business and technology claims.

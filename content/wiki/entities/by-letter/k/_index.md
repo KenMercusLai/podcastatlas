@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "KayKamen"
     title: "Kay Kamen"
     url: "/wiki/entities/kaykamen/"
+  - key: "Kearney"
+    title: "Kearney"
+    url: "/wiki/entities/kearney/"
   - key: "KedaibiaoLizheng"
     title: "Kedaibiao Lizheng"
     url: "/wiki/entities/kedaibiaolizheng/"
@@ -587,6 +590,9 @@ wiki_pages:
   - key: "KanaTomoko"
     title: "加纳朋子 / Kana Tomoko"
     url: "/wiki/entities/kanatomoko/"
+  - key: "KuangHengWesternHan"
+    title: "匡衡 / Kuang Heng (Western Han)"
+    url: "/wiki/entities/kuanghengwesternhan/"
   - key: "KakaGugu"
     title: "卡卡姑姑 / Kaka Gugu"
     url: "/wiki/entities/kakagugu/"

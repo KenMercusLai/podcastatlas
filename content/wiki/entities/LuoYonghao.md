@@ -11,7 +11,8 @@ sources:
   - lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg
   - ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur
   - luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a
-last_updated: 2026-09-10
+  - zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0
+last_updated: 2026-09-11
 knowledge_schema: synthesis-v1
 ---
 
@@ -37,10 +38,12 @@ The relationship-technology panel adds Luo's counterfactual pressure-test role. 
 
 The emotional-stability panel adds Luo's most explicit public-conflict layer. [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] has him separate internal anger from outward composure, describe online argument as an energy-giving activity, revisit [[Smartisan]] as commercially failed but harder to judge as a value-choice mistake, and defend continued public expression against trolls because silence can let hostile voices appear more representative than they are.
 
+The Zheng Zhi interview adds a film-author version of Luo's interviewer role. [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] has Luo move from promotion questions about [[ShenzhongYoulinFilm|《身中有林》]] into title choice, casting, runtime, roadshow pressure, AI-era film cost, Northeast dialect, debt, family memory, and the "last train" mood around literary and film careers.
+
 ## Key Characteristics
 - Founder and public presenter whose smartphone-era role was tied to [[Smartisan]] design, launch rhetoric, and fan attention.
 - Case for the limits of founder taste when hardware, supply chain, manufacturing, and delivery execution do not match public expectation.
-- Long-form interviewer who uses product, craft, and cultural categories to clarify a guest's work rather than only reciting biography.
+- Long-form interviewer who uses product, craft, film-production, and cultural categories to clarify a guest's work rather than only reciting biography.
 - Taste-driven explainer who can make interface design, handwork pricing, material choice, and art interpretation legible to broad audiences.
 - Panel moderator who can turn comedic conflict into theories of class, status display, debt, friendship, moral triage, workplace power, and consumption symbols.
 - Public figure who can use his own ADHD, baldness, delivery pressure, review-response habits, relationship thought-experiment answers, emotional stability, blocking, and public expression as material for discussing responsibility, agency, authenticity, and public rebuttal.
@@ -58,7 +61,8 @@ The emotional-stability panel adds Luo's most explicit public-conflict layer. [[
 - Relationship technology and opportunity cost: [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] has Luo make age, current partner quality, future years, AI authenticity, betrayal memory, and pain distribution explicit in the panel's choices.
 - Emotional stability and expression: [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] has Luo distinguish composure from inner fluctuation, characterize online argument as energizing for him, combine blocking with searching criticism, and argue that public expression can keep hostile voices from seeming like the whole mainstream.
 - Smartisan failure distinction: [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] has Luo say Smartisan was commercially failed while leaving the moral and product-principle judgment more complicated.
-- Source scope: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]], [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], and [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] focus on specific roles and do not provide a complete biography of Luo's English-teaching, livestreaming operations, or broader media career.
+- Film-author interviewing: [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] shows Luo asking Zheng Zhi about adaptation, casting, editing, AI production cost, literary timing, dialect, debt, and family memory.
+- Source scope: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]], [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]], and [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] focus on specific roles and do not provide a complete biography of Luo's English-teaching, livestreaming operations, or broader media career.
 
 ## Qualifications
 The current page should not generalize Luo's whole career from eight sources. One source is a smartphone-history episode, one is a creator interview, and six are comedy-panel discussions; all are interpretive rather than comprehensive biography. Debt amounts, repayment timing, friend-loan recovery rates, consumption-market claims, ADHD medication comments, hair-loss treatment details, relationship hypotheticals, emotional-stability claims, road-conflict accounts, and public-rebuttal judgments remain source-scoped personal accounts.
@@ -89,3 +93,5 @@ The current page should not generalize Luo's whole career from eight sources. On
 - [[RelationshipTechnologyEthics]], [[AICompanionAuthenticityBoundary]], [[SharedPainTechnologyBoundary]], [[MemoryDeletionEthics]], and [[AlgorithmicRomanticCompatibility]] - concepts Luo helps articulate through the relationship thought experiments.
 - [[GaoHanStandup|高涵]], [[XiaoKuaiStandup|小块]], [[SunShuhengStandup|孙舒恒]], and [[WangJiye|季夜]] - panelists whose emotional-stability and expression choices Luo tests.
 - [[EmotionalStabilityAsSocialNorm]], [[PublicExpressionAgainstTrolls]], [[BlockAndDissentHygiene]], and [[HappinessBasedDeescalation]] - concepts Luo helps articulate through the emotional-stability panel.
+- [[ZhengZhiWriter|郑执]] and [[ShenzhongYoulinFilm|《身中有林》]] - guest and film case through which Luo explores writer-director authorship.
+- [[AuthorCommercialFilmBalance]], [[NortheastLiteraryFilmAuthorship]], and [[CreatorLateCycleAnxiety]] - concepts Luo helps surface through the Zheng Zhi interview.

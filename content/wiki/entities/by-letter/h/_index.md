@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -338,6 +338,12 @@ wiki_pages:
   - key: "HenryHarteveldt"
     title: "Henry Harteveldt"
     url: "/wiki/entities/henryharteveldt/"
+  - key: "HenryIOfEngland"
+    title: "Henry I of England"
+    url: "/wiki/entities/henryiofengland/"
+  - key: "HenryIIOfEngland"
+    title: "Henry II of England"
+    url: "/wiki/entities/henryiiofengland/"
   - key: "HenryIIOfFrance"
     title: "Henry II of France / 亨利二世"
     url: "/wiki/entities/henryiioffrance/"
@@ -1034,6 +1040,9 @@ wiki_pages:
   - key: "HenanSmartSupercomputingCenter"
     title: "河南智能超算中心 / Henan Smart Supercomputing Center"
     url: "/wiki/entities/henansmartsupercomputingcenter/"
+  - key: "HenanFC"
+    title: "河南足球俱乐部 / Henan FC"
+    url: "/wiki/entities/henanfc/"
   - key: "HenanCommanderyChuHan"
     title: "河南郡 / Henan Commandery (Chu-Han)"
     url: "/wiki/entities/henancommanderychuhan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -194,6 +194,9 @@ wiki_pages:
   - key: "WesternChinaMisreading"
     title: "Western China Misreading / 西方对中国的误读"
     url: "/wiki/concepts/westernchinamisreading/"
+  - key: "WesternHanLimitLandAndSlaves"
+    title: "Western Han Land and Slave Caps / 西汉限田限奴改革"
+    url: "/wiki/concepts/westernhanlimitlandandslaves/"
   - key: "WetStateHumanAgency"
     title: "Wet-State Human Agency"
     url: "/wiki/concepts/wetstatehumanagency/"

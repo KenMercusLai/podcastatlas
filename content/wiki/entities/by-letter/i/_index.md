@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "i"
-wiki_total_pages: 9592
+wiki_total_pages: 9664
 wiki_pages:
   - key: "ILibertine"
     title: "I, Libertine"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "IndianaWesleyanUniversity"
     title: "Indiana Wesleyan University"
     url: "/wiki/entities/indianawesleyanuniversity/"
+  - key: "Inditex"
+    title: "Inditex"
+    url: "/wiki/entities/inditex/"
   - key: "Indonesia"
     title: "Indonesia"
     url: "/wiki/entities/indonesia/"
@@ -305,6 +308,9 @@ wiki_pages:
   - key: "IslandBeeCompany"
     title: "Island Bee Company"
     url: "/wiki/entities/islandbeecompany/"
+  - key: "IsonzoFront"
+    title: "Isonzo Front"
+    url: "/wiki/entities/isonzofront/"
   - key: "Israel"
     title: "Israel"
     url: "/wiki/entities/israel/"
@@ -320,6 +326,9 @@ wiki_pages:
   - key: "ItalianFascism"
     title: "Italian Fascism / 意大利法西斯主义"
     url: "/wiki/entities/italianfascism/"
+  - key: "Italy"
+    title: "Italy"
+    url: "/wiki/entities/italy/"
   - key: "ItalyNationalFootballTeam"
     title: "Italy National Football Team"
     url: "/wiki/entities/italynationalfootballteam/"

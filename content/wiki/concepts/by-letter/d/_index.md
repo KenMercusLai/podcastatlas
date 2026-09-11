@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -404,6 +404,9 @@ wiki_pages:
   - key: "DeterministicDataAgentValidation"
     title: "Deterministic Data Agent Validation"
     url: "/wiki/concepts/deterministicdataagentvalidation/"
+  - key: "DeterministicLegalAIControls"
+    title: "Deterministic Legal AI Controls"
+    url: "/wiki/concepts/deterministiclegalaicontrols/"
   - key: "DeveloperHiddenDebtStack"
     title: "Developer Hidden Debt Stack / 房企隐性债务堆叠"
     url: "/wiki/concepts/developerhiddendebtstack/"
@@ -605,6 +608,9 @@ wiki_pages:
   - key: "DisasterExploitingConquestTiming"
     title: "Disaster-Exploiting Conquest Timing / 趁灾进攻时机"
     url: "/wiki/concepts/disasterexploitingconquesttiming/"
+  - key: "DisasterOmenPersonnelAttack"
+    title: "Disaster-Omen Personnel Attack / 灾异人事攻防"
+    url: "/wiki/concepts/disasteromenpersonnelattack/"
   - key: "DisasterOmenTreasonAccusation"
     title: "Disaster-Omen Treason Accusation / 灾异谋反指控"
     url: "/wiki/concepts/disasteromentreasonaccusation/"

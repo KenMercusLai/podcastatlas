@@ -2,6 +2,25 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "hierarchy-advice-needs-channel-protection-and-consistent-conduct",
+      "qualifications": [
+        "This is a secondary work-and-society analogy from a historical source, not modern workplace, legal, confidentiality, or career advice.",
+        "The primary evidence belongs to Western Han court politics; the work relevance is limited to hierarchy, protected channels, consistency, and process risk.",
+        "The source does not prove Shi Dan was flawless or settle the legal mechanics of the leaked memorial case."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] enters work-and-society as a bounded historical hierarchy analogy: [[ShiDanWesternHan]] gives principled advice to [[HanAidi]], but anger from above, inconsistent currency advice, and [[ConfidentialRemonstranceLeakage]] show that correct speech still depends on channel protection, follow-through, and the political meaning assigned to process failure.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6",
+        "ShiDanWesternHan",
+        "HanAidi",
+        "ConfidentialRemonstranceLeakage",
+        "CourtFeedbackCollapse",
+        "AdoptiveLineageRitualPolitics"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "wang-jia-hierarchy-speech-uses-praise-before-correction",
       "qualifications": [
         "This is a bounded historical analogy for hierarchy-aware speech, not modern workplace advice.",
@@ -1386,7 +1405,7 @@
     }
   ],
   "input_digest": "a5937864c534d1daf42c86ca6bbcd743b5194bd0251f020587f9149aab90f888",
-  "summary": "Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, and human judgment rather than labels alone. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems.",
+  "summary": "Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, and human judgment rather than labels alone. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems. Hanji 575 adds a hierarchy-and-workplace-adjacent historical analogy: correct advice can still fail when status pressure, inconsistent follow-up, and confidential-channel handling expose the speaker.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }

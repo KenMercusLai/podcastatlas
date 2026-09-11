@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "NationalistAtlantisMythmaking"
     title: "Nationalist Atlantis Mythmaking"
     url: "/wiki/concepts/nationalistatlantismythmaking/"
+  - key: "NationalistStreetMobilization"
+    title: "Nationalist Street Mobilization"
+    url: "/wiki/concepts/nationaliststreetmobilization/"
   - key: "NativeAmericanOralLiterature"
     title: "Native American Oral Literature / 美洲原住民口头文学"
     url: "/wiki/concepts/nativeamericanoralliterature/"
@@ -350,6 +353,9 @@ wiki_pages:
   - key: "NortheastAsMemoryStructure"
     title: "Northeast As Memory Structure / 东北作为记忆结构"
     url: "/wiki/concepts/northeastasmemorystructure/"
+  - key: "NortheastLiteraryFilmAuthorship"
+    title: "Northeast Literary Film Authorship / 东北文学影视作者性"
+    url: "/wiki/concepts/northeastliteraryfilmauthorship/"
   - key: "NortheastWomenFamilyAgency"
     title: "Northeast Women Family Agency / 东北女性的家庭行动力"
     url: "/wiki/concepts/northeastwomenfamilyagency/"

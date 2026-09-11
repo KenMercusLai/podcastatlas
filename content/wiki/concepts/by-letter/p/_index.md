@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 6977
+wiki_total_pages: 7022
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -41,6 +41,9 @@ wiki_pages:
   - key: "PaidListeningServices"
     title: "Paid Listening Services / 付费树洞与倾听师"
     url: "/wiki/concepts/paidlisteningservices/"
+  - key: "PaidPilotValueProof"
+    title: "Paid Pilot Value Proof"
+    url: "/wiki/concepts/paidpilotvalueproof/"
   - key: "PaidVacationAsLaborRight"
     title: "Paid Vacation As Labor Right"
     url: "/wiki/concepts/paidvacationaslaborright/"
@@ -1103,6 +1106,9 @@ wiki_pages:
   - key: "PredictionMarketTraderAlpha"
     title: "Prediction Market Trader Alpha"
     url: "/wiki/concepts/predictionmarkettraderalpha/"
+  - key: "PredictiveDecisionAutomation"
+    title: "Predictive Decision Automation"
+    url: "/wiki/concepts/predictivedecisionautomation/"
   - key: "PredictiveModelValidation"
     title: "Predictive Model Validation"
     url: "/wiki/concepts/predictivemodelvalidation/"
@@ -1847,6 +1853,9 @@ wiki_pages:
   - key: "PressureReleaseInfightingStrategy"
     title: "撤压诱发内斗 / Pressure-Release Infighting Strategy"
     url: "/wiki/concepts/pressurereleaseinfightingstrategy/"
+  - key: "PoliticalCaseEvidenceSkepticism"
+    title: "政治案件证据怀疑 / Political Case Evidence Skepticism"
+    url: "/wiki/concepts/politicalcaseevidenceskepticism/"
   - key: "PowerCenterProximityAdvantage"
     title: "权力中心接近优势 / Power Center Proximity Advantage"
     url: "/wiki/concepts/powercenterproximityadvantage/"
