@@ -25187,6 +25187,10 @@
     "title": "《光棍危机》",
     "url": "/wiki/entities/guanggunweiji/"
   },
+  "GuanghanZhengGongUprising": {
+    "title": "广汉郑公起义 / Guanghan Zheng Gong Uprising",
+    "url": "/wiki/entities/guanghanzhenggonguprising/"
+  },
   "GuanglingCommandery": {
     "title": "广陵 / Guangling Commandery",
     "url": "/wiki/entities/guanglingcommandery/"
@@ -34730,6 +34734,10 @@
   "LiXueqin": {
     "title": "李雪琴 / Li Xueqin",
     "url": "/wiki/entities/lixueqin/"
+  },
+  "LiXunFloodControlWesternHan": {
+    "title": "李勋 / Li Xun (Western Han flood-control adviser)",
+    "url": "/wiki/entities/lixunfloodcontrolwesternhan/"
   },
   "LiXunWesternHan": {
     "title": "李寻 / Li Xun (Western Han)",
@@ -56575,6 +56583,10 @@
     "title": "Survey Mode Effects",
     "url": "/wiki/concepts/surveymodeeffects/"
   },
+  "SurvivalPressureRebellion": {
+    "title": "生存压力型起义 / Survival Pressure Rebellion",
+    "url": "/wiki/concepts/survivalpressurerebellion/"
+  },
   "SusanDell": {
     "title": "Susan Dell",
     "url": "/wiki/entities/susandell/"
@@ -67391,6 +67403,10 @@
     "title": "赵弘 / Zhao Hong (late Han)",
     "url": "/wiki/entities/zhaohonglatehan/"
   },
+  "ZhaoHuWesternHan": {
+    "title": "赵护 / Zhao Hu (Western Han)",
+    "url": "/wiki/entities/zhaohuwesternhan/"
+  },
   "ZhaoHuanzi": {
     "title": "赵桓子 / Zhao Huanzi",
     "url": "/wiki/entities/zhaohuanzi/"
@@ -67682,6 +67698,10 @@
   "ZhengErJiaozhi": {
     "title": "征贰 / Zheng Er (Jiaozhi)",
     "url": "/wiki/entities/zhengerjiaozhi/"
+  },
+  "ZhengGongWesternHan": {
+    "title": "郑公 / Zheng Gong (Western Han)",
+    "url": "/wiki/entities/zhenggongwesternhan/"
   },
   "ZhengGuoCanal": {
     "title": "郑国渠 / Zhengguo Canal",
@@ -73342,6 +73362,10 @@
   "zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh": {
     "title": "《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！",
     "url": "/wiki/sources/zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh/"
+  },
+  "zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z": {
+    "title": "《资治通鉴·汉纪》532丨西汉最大的农民起义，领导者是他？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z/"
   },
   "zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n": {
     "title": "《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？",

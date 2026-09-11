@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》531丨面对造黄谣，她的办法值得你学习！](sources/zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh.md) — 芮淇讲透资治通鉴 episode on Ban Jieyu answering a wugu accusation through motive-based defense, with Zhao Feiyan's preventive rivalry and modern slander-response lessons.
+- [《资治通鉴·汉纪》532丨西汉最大的农民起义，领导者是他？](sources/zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z.md) — 芮淇讲透资治通鉴 episode on Zheng Gong's Guanghan uprising, survival-pressure rebellion, Zhao Hu's suppression campaign, and Li Xun's observation-first Yellow River flood advice.
 - [《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？](sources/zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n.md) — 芮淇讲透资治通鉴 episode on Zhao Feiyan's childlessness and alleged palace adultery, Zhao Hede's protective favor, Chengdi's informer suppression, and Liu Xiang's Changling remonstrance.
 - [史蒂夫说463期 - 既然迷茫不可避免，如何区分假性迷茫？如何有效迷茫？](sources/shi-di-fu-shuo-463-jiran-mimang-bukebimian-ruhe-qufen-jiaxing-mimang-ruhe-youxiao-mimang-lhhbpnetzqjegv6y1v2x9maiqrtb.md) — 史蒂夫说 crossover on the Odyssey period, false versus true confusion, self-alienation, meaning creation, embodied exploration, AI reflection boundaries, and healthy迷茫.
 - [《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连](sources/zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u.md) — 芮淇讲透资治通鉴 episode on Gu Yong's disaster-omen remonstrance against Han Chengdi, Wang-family backing, Wang Shang's warning, and bounded pursuit after imperial anger.
@@ -2224,6 +2225,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [广汉郑公起义 / Guanghan Zheng Gong Uprising](entities/GuanghanZhengGongUprising.md) — Hongjia-era Western Han uprising framed as survival pressure under official abuse and livelihood collapse.
+- [李勋 / Li Xun (Western Han flood-control adviser)](entities/LiXunFloodControlWesternHan.md) — Pingling adviser whose Yellow River proposal favors observing the breach before forced repair.
+- [赵护 / Zhao Hu (Western Han)](entities/ZhaoHuWesternHan.md) — Official appointed to Guanghan and rewarded after the suppression of Zheng Gong's uprising.
+- [郑公 / Zheng Gong (Western Han)](entities/ZhengGongWesternHan.md) — Guanghan uprising leader who calls himself "山君" in Hanji 532.
 - [Wang Shang / 王商 (Western Han)](entities/WangShangWesternHan.md) — Wei Jiangjun and Wang-family protector who warns Gu Yong to flee after Chengdi's arrest order in Hanji 538.
 - [张放 / Zhang Fang (Western Han)](entities/ZhangFangWesternHan.md) — Chengdi favorite whose palace access, kinship backing, and exile show the fragility of favorite protection under dowager and ministerial pressure.
 - [班伯 / Ban Bo (Western Han)](entities/BanBoWesternHan.md) — Chengdi court remonstrant who uses the Shang Zhou image to warn against wine and disorder.
@@ -11961,6 +11966,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [生存压力型起义 / Survival Pressure Rebellion](concepts/SurvivalPressureRebellion.md) — Pattern where official pressure and livelihood collapse make armed local revolt legible as survival action.
 - [Effective Confusion In The Odyssey Period / 有效迷茫](concepts/EffectiveConfusionOdysseyPeriod.md) — Frame for treating young-adult迷茫 as a self-discovery process involving false confusion, existential meaning, practice, embodiment, and support.
 - [亲缘政治切割 / Kinship Political Cutting](concepts/KinshipPoliticalCutting.md) — Pattern where a court actor publicly distances from risky family-adjacent ties for political self-protection.
 - [丧葬礼制责任 / Funeral Ritual Accountability](concepts/FuneralRitualAccountability.md) — pattern where royal funeral handling becomes a test of office duty, ritual respect, public resources, and dynastic memory.

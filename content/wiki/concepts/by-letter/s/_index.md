@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7077
+wiki_total_pages: 7078
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2015,6 +2015,9 @@ wiki_pages:
   - key: "SuspicionDrivenEliteAlienation"
     title: "猜疑驱动的士族离心 / Suspicion-Driven Elite Alienation"
     url: "/wiki/concepts/suspiciondrivenelitealienation/"
+  - key: "SurvivalPressureRebellion"
+    title: "生存压力型起义 / Survival Pressure Rebellion"
+    url: "/wiki/concepts/survivalpressurerebellion/"
   - key: "SuspicionGeneratedRebellion"
     title: "疑心自生式叛乱 / Suspicion-Generated Rebellion"
     url: "/wiki/concepts/suspiciongeneratedrebellion/"

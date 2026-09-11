@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9733
+wiki_total_pages: 9737
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "GuangwuChuHan"
     title: "广武 / Guangwu (Chu-Han)"
     url: "/wiki/entities/guangwuchuhan/"
+  - key: "GuanghanZhengGongUprising"
+    title: "广汉郑公起义 / Guanghan Zheng Gong Uprising"
+    url: "/wiki/entities/guanghanzhenggonguprising/"
   - key: "GuanglingCommandery"
     title: "广陵 / Guangling Commandery"
     url: "/wiki/entities/guanglingcommandery/"

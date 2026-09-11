@@ -17656,6 +17656,10 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongsh
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》532丨西汉最大的农民起义，领导者是他？
+
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Hongjia 3-4 / 18-17 BCE under Han Chengdi. Created Zheng Gong, Guanghan Zheng Gong Uprising, Zhao Hu, Li Xun (flood-control adviser), and Survival Pressure Rebellion; updated Yellow River, overview, and index. No settled contradiction found; Zheng Gong's full biography, rebel composition, campaign details, Li Xun's full memorial, and the non-repair policy's effects remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 1 / 16 BCE. Created Consort Heir Security Spiral and Mausoleum Frugality Remonstrance; updated Zhao Feiyan, Zhao Hede, Liu Xiang, and index. No settled contradiction found; Zhao-sister adultery, fertility-drug, and reproductive-interference claims remain source-scoped and qualified by later Hanji 571-573 evidence skepticism.
@@ -17703,6 +17707,10 @@ Added The Rest Is History source page for the opening 1915 Western Front episode
 ## [2026-09-12] ingest | How to Overcome Social Anxiety | Dr. Nick Epley
 
 Added Huberman Lab source on Nick Epley's social-connection research, mind reading, voice, underestimating strangers' interest, real exposure for social anxiety, adoption, Down syndrome, and modeled social habits. Created Nick Epley, Everyday Social Connection, Social Misprediction, Voice Humanization, Real Exposure for Social Anxiety, and Diagnosis Personhood Boundary. No settled contradiction found; clinical, family, disability, AI-voice, and loneliness physiology claims remain source-scoped.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

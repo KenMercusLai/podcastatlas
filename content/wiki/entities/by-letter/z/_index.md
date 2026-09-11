@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9733
+wiki_total_pages: 9737
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1331,6 +1331,9 @@ wiki_pages:
   - key: "ZhaoJianLateHan"
     title: "赵戬 / Zhao Jian (late Han)"
     url: "/wiki/entities/zhaojianlatehan/"
+  - key: "ZhaoHuWesternHan"
+    title: "赵护 / Zhao Hu (Western Han)"
+    url: "/wiki/entities/zhaohuwesternhan/"
   - key: "ZhaoKuo"
     title: "赵括 / Zhao Kuo"
     url: "/wiki/entities/zhaokuo/"
@@ -1484,6 +1487,9 @@ wiki_pages:
   - key: "ZhengZhongFrontierEasternHan"
     title: "郑众 / Zheng Zhong (Eastern Han frontier commander)"
     url: "/wiki/entities/zhengzhongfrontiereasternhan/"
+  - key: "ZhengGongWesternHan"
+    title: "郑公 / Zheng Gong (Western Han)"
+    url: "/wiki/entities/zhenggongwesternhan/"
   - key: "ZhengXingEasternHan"
     title: "郑兴 / Zheng Xing (Eastern Han)"
     url: "/wiki/entities/zhengxingeasternhan/"

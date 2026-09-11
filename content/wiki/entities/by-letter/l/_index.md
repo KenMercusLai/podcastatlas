@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9733
+wiki_total_pages: 9737
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1379,6 +1379,9 @@ wiki_pages:
   - key: "LiLiLateHan"
     title: "李利 / Li Li (late Han)"
     url: "/wiki/entities/lililatehan/"
+  - key: "LiXunFloodControlWesternHan"
+    title: "李勋 / Li Xun (Western Han flood-control adviser)"
+    url: "/wiki/entities/lixunfloodcontrolwesternhan/"
   - key: "LiWeiQingOfficial"
     title: "李卫 / Li Wei"
     url: "/wiki/entities/liweiqingofficial/"
