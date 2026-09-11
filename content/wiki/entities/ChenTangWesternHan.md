@@ -6,16 +6,19 @@ tags: [history, china, western-han, military, frontier, merit]
 sources:
   - zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l
   - zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu
+  - zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-陈汤 / Chen Tang enters the wiki through [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] and [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] as a Western Han frontier commander whose later Changling punishment has to be held beside his earlier campaign merit. Hanji 541 gives the punishment mechanics: [[WangShangWesternHan|王商]] impeaches him, [[HanChengdi|汉成帝]] spares his life because of old merit, but reduces him to commoner and moves him toward the frontier. Hanji 570 later gives [[GengYuWesternHan|耿育]]'s memorial defending Chen Tang and [[GanYanshouWesternHan|甘延寿]] for the distant campaign that killed [[ZhizhiChanyu|郅支单于]].
+陈汤 / Chen Tang enters the wiki through [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] and [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] as a Western Han frontier commander whose later Changling punishment has to be held beside his earlier campaign merit. [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] now supplies the pre-punishment policy and household-interest layer: Chen Tang supports reviving [[MausoleumCountyEliteRelocation|陵县式豪强迁徙]] at Changling partly to strengthen the capital and check Guandong magnates, but also to secure a durable capital-region household future for his wife and children. Hanji 541 gives the punishment mechanics: [[WangShangWesternHan|王商]] impeaches him, [[HanChengdi|汉成帝]] spares his life because of old merit, but reduces him to commoner and moves him toward the frontier. Hanji 570 later gives [[GengYuWesternHan|耿育]]'s memorial defending Chen Tang and [[GanYanshouWesternHan|甘延寿]] for the distant campaign that killed [[ZhizhiChanyu|郅支单于]].
 
 ## Current Profile
 
-The sources present Chen Tang as a person whose merit and fault must be held together. Hanji 541 shows how his fall occurs: the formal charge concerns reporting and disrespectful words toward Chengdi, but the host reads the deeper cause as Changling relocation politics. Chen Tang had proposed moving powerful Guandong households to Changling, a policy read as [[StrongTrunkWeakBranchCentralization|strong-trunk weak-branch]] centralization. That proposal threatened local elites and their court relationships, while Chen Tang's loose handling of money made corruption suspicion politically usable even though the episode does not prove a specific illicit gain.
+The sources present Chen Tang as a person whose merit and fault must be held together. Hanji 526 shows why his Changling proposal is not reducible to either civic reform or private corruption. Under strict household registration, his children could live in Chang'an while he held office but still lack permanent capital status; a new mausoleum county would give his family residence, land, and identity security. The same memorial also points to real public problems: land concentration, fiscal weakness, and powerful Guandong households outside easy central control.
+
+Hanji 541 shows how that policy becomes dangerous after the fact: the formal charge concerns reporting and disrespectful words toward Chengdi, but the host reads the deeper cause as Changling relocation politics. Chen Tang had proposed moving powerful Guandong households to Changling, a policy read as [[StrongTrunkWeakBranchCentralization|strong-trunk weak-branch]] centralization. That proposal threatened local elites and their court relationships, while Chen Tang's loose handling of money made corruption suspicion politically usable even though the episode does not prove a specific illicit gain.
 
 His great service remains the victory over Zhizhi Chanyu, framed in Hanji 570 as a restoration of Han prestige and deterrence after long conflict with [[Xiongnu|匈奴]]. Geng Yu's memorial argues that the court had once celebrated this achievement but failed to reward it proportionately, leaving Chen Tang and Gan Yanshou treated as lesser men after an extraordinary act.
 
@@ -25,12 +28,15 @@ The sources also refuse a clean heroic varnish. Chen Tang's later Changling role
 
 - Western Han commander whose wiki role is now split between Changling punishment and Zhizhi Chanyu campaign memory.
 - Paired with Gan Yanshou as the military actor whose distant victory becomes a court-memory dispute.
+- Uses a Changlingyi proposal to join public centralization arguments with private household-status benefits for his family.
 - Treated by Geng Yu as a rare talent still useful to a state that should remember danger while secure.
 - Has a qualified record: the sources acknowledge Changling-related political offense, elite backlash, and corruption suspicion rather than portraying him as flawless.
 - Becomes an example of how disproportionate punishment or slander against a great contributor can chill future service.
 
 ## Evidence
 
+- Household motive: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Chen Tang's wife and children lived in Chang'an but did not hold permanent capital household status, making Changlingyi attractive as a family solution.
+- Public rationale: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Chen Tang argues for moving wealthy Guandong households to strengthen the capital, weaken local powers, and respond to land concentration.
 - Changling impeachment: [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] says Wang Shang impeaches Chen Tang for false reporting and disrespectful language, and Chengdi demotes him to commoner while sparing his life because of past merit.
 - Relocation-policy backlash: [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] says Chen Tang proposed moving Guandong powerful households to Changling, creating interest-based opposition from those households and their court ties.
 - Corruption qualification: [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] says Chen Tang had greedy habits but does not prove whether he made a large illicit profit from Changling demolition.
@@ -42,12 +48,12 @@ The sources also refuse a clean heroic varnish. Chen Tang's later Changling role
 
 ## Qualifications
 
-This page is source-bounded. Hanji 541 gives the Changling punishment and interest-conflict frame, but not the full case file, exact legal guilt, or corruption evidence. Hanji 570 gives Chen Tang's merit-vindication frame, not a complete biography, full military record, or independent legal assessment. The combined value is proportional judgment under political memory and interest-conflict pressure.
+This page is source-bounded. Hanji 526 gives Chen Tang's Changlingyi proposal and household-status motive, but not his full family record or the complete administrative law of capital registration. Hanji 541 gives the Changling punishment and interest-conflict frame, but not the full case file, exact legal guilt, or corruption evidence. Hanji 570 gives Chen Tang's merit-vindication frame, not a complete biography, full military record, or independent legal assessment. The combined value is proportional judgment under political memory and interest-conflict pressure.
 
 ## What Changed
 
-- Added Hanji 541's direct Changling punishment layer before Hanji 570's later merit-vindication memorial.
-- Clarified that Chen Tang's corruption remains a qualified suspicion in this source, while his Guandong relocation proposal supplies the deeper interest-conflict context.
+- Added Hanji 526's prequel: Chen Tang's Changlingyi proposal now includes both public centralization/fiscal rationale and private family household-status benefit.
+- Preserved Hanji 541's later punishment layer and Hanji 570's merit-vindication layer as separate parts of the same proportional-judgment profile.
 
 ## Relationships
 
@@ -56,6 +62,8 @@ This page is source-bounded. Hanji 541 gives the Changling punishment and intere
 - [[GengYuWesternHan|耿育]] - memorialist who argues Chen Tang's service should not be erased.
 - [[WangShangWesternHan|王商]] - impeacher who brings the Changling-era accusation against Chen Tang.
 - [[HanChengdi|汉成帝]] - ruler who spares Chen Tang's life but removes his status.
+- [[XieWannianWesternHan|谢万年]] - friend and project official who encourages Chen Tang to support a mausoleum-county revival.
+- [[MausoleumCountyEliteRelocation|陵县式豪强迁徙]] - policy mechanism Chen Tang tries to revive at Changling.
 - [[HanAidi|汉哀帝]] - ruler who recalls Chen Tang to Chang'an after Geng Yu's memorial.
 - [[KuangHengWesternHan|匡衡]] - earlier chancellor blamed by Geng Yu for obstructing proportionate reward.
 - [[MeritShieldedAccountability|因功免责]] - concept linking Chen Tang's service and fault to proportional accountability.

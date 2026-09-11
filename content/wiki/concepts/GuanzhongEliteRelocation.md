@@ -1,31 +1,52 @@
 ---
 title: "关中豪强迁徙 / Guanzhong Elite Relocation"
 type: concept
+knowledge_schema: synthesis-v1
 tags: [statecraft, western-han, migration, guanzhong, frontier, elite-control]
-sources: [zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k]
-last_updated: 2026-08-23
+sources:
+  - zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k
+  - zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub
+last_updated: 2026-09-12
 ---
 
-# 关中豪强迁徙 / Guanzhong Elite Relocation
+## Definition
 
-关中豪强迁徙 / Guanzhong elite relocation enters the wiki through [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] as [[LouJing|刘敬 / 楼敬]]'s proposal after returning from the [[Xiongnu|匈奴]] mission. Liu Jing argues that some Xiongnu groups can reach [[GuanzhongRegion|关中]] quickly by light cavalry, while the capital region remains underpopulated after war.
+关中豪强迁徙 / Guanzhong elite relocation is the early Western Han practice of moving powerful eastern households, six-state descendants, and locally influential families into the capital region. The sources present it as both capital-base strengthening and elite-control policy.
 
-The policy is not ordinary migration relief. Liu Jing proposes moving six-state royal descendants, famous local figures, and powerful families into Guanzhong. That increases the capital region's population and defensive capacity, but it also removes eastern elites from their old local bases and places them near the Han court.
+## Current Synthesis
 
-The source therefore treats relocation as both frontier statecraft and internal political control. In peace, the moved population can help sustain the capital and defend against northern pressure; if vassal kingdoms become unstable, their old aristocratic and local-power networks are less able to serve as independent opposition.
+The early version is tied to [[LouJing|刘敬 / 楼敬]] after the [[Xiongnu|匈奴]] mission. [[GuanzhongRegion|关中]] is strategically exposed to fast cavalry raids and underpopulated after war, so the capital base needs people; moving six-state descendants, famous figures, and powerful families also pulls potential eastern opposition away from inherited local networks.
 
-This differs from [[StrategicCapitalRelocation|战略性迁都]], which chooses the dynasty's center of rule, and from [[FrontierVassalContainment|边境迁封式牵制]], which assigns a specific vassal king to a risky border region. Guanzhong elite relocation moves people into the capital base so that geography, population, and elite supervision reinforce each other.
+The later institutional branch appears in mausoleum counties: [[MausoleumCountyEliteRelocation|陵县式豪强迁徙]] moves wealthy Guandong families and senior officials' households around imperial tombs near the capital. The policy can make the capital region prosperous and better supervised, but it also coerces families away from ancestral graves and local livelihoods.
 
 ## Key Claims
-- Population policy can be a military policy when the capital region is exposed to fast frontier raids.
-- Forced elite migration can weaken old regional bases while increasing the center's manpower and surveillance capacity.
-- Liu Jing's advice extends the logic of choosing Guanzhong as capital: a defensible basin still needs people and controlled elites to work as a base.
-- The episode presents the policy as a long-term Western Han practice, but the precise institutional development remains source-scoped here.
 
-## Connections
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] - source page.
-- [[LouJing|刘敬 / 楼敬]] - proposer.
-- [[LiuBang|刘邦]] and [[WesternHanDynasty|西汉]] - ruler and state that adopt the policy.
-- [[GuanzhongRegion|关中]], [[ChangAnHanCapital|长安]], and [[StrategicCapitalRelocation|战略性迁都]] - capital-base geography.
-- [[Xiongnu|匈奴]], [[HanXiongnuHeqinPolicy|汉匈和亲政策]], and [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - frontier threat that makes the policy urgent.
-- [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] and [[FrontierVassalContainment|边境迁封式牵制]] - adjacent early Han control problems.
+- Forced elite migration joins military geography with domestic control: it strengthens the capital base while weakening eastern elite networks.
+- The policy targets households and social ties rather than only labor supply.
+- Western Han's mausoleum-county practice is a later institutionalized branch of the same capital-concentration logic.
+- The benefits are double-edged: central manpower, surveillance, and prosperity rise, while coerced relocation damages family continuity, property security, and elite consent.
+- The exact duration, implementation details, and household-selection rules remain source-scoped unless later sources supply fuller institutional history.
+
+## Evidence
+
+- Capital and frontier logic: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says Liu Jing links Xiongnu raiding reach and Guanzhong population weakness to the need to move people into the capital region.
+- Elite-control logic: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says the moved groups include six-state royal descendants, powerful local families, and famous figures whose old regional bases are thereby weakened.
+- Mausoleum-county development: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says early Western Han continues the policy by moving Guandong wealthy households and senior officials' families around imperial mausoleums.
+- Consent cost: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Yuan-era objections stress distance from ancestral graves, broken livelihoods, classical-norm concerns, and elite unease.
+
+## Counterevidence & Qualifications
+
+The sources explain the policy from podcast summaries rather than a full institutional archive. Hanji 180's claim that the practice lasted more than 150 years remains source-scoped. Hanji 526 describes seven late-Western-Han mausoleum counties and Chengdi-era revival, but does not settle exact county-by-county chronology or demographic totals.
+
+## What Changed
+
+- Migrated the page to `synthesis-v1`.
+- Added Hanji 526's mausoleum-county branch and coercion-cost qualification.
+
+## Related Concepts
+
+- [[MausoleumCountyEliteRelocation|陵县式豪强迁徙]] - later institutional branch of capital-region elite relocation.
+- [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]] - broader centralization logic that the relocation helps implement.
+- [[EliteRelocationControl|豪杰迁徙控制]] - Qin analogue for moving powerful households to weaken regional networks.
+- [[StrategicCapitalRelocation|战略性迁都]] - complementary decision about where the capital itself should sit.
+- [[HouseholdOccupationControl|户籍与职业管控]] - administrative legibility mechanism that makes residence status politically meaningful.

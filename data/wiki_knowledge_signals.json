@@ -13784,9 +13784,9 @@
       "url": "/wiki/entities/chenshoutaishilinglatehan/"
     },
     "ChenTangWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -13801,6 +13801,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》541丨他是民族英雄，最后为何因贪入狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？ [lkHT_jO0Z7jE4GbYK10cKUXv4cuB].md",
+          "key": "zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub/"
         }
       ],
       "updated": "2026-09-12",
@@ -37866,6 +37873,29 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/guanlongancientroad/"
     },
+    "GuanzhongEliteRelocation": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
+          "key": "zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？ [lkHT_jO0Z7jE4GbYK10cKUXv4cuB].md",
+          "key": "zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/guanzhongeliterelocation/"
+    },
     "GuaranteedHomeDeliveryCrisis": {
       "episode_count": 1,
       "show_count": 1,
@@ -42052,6 +42082,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/householdmisconductpoliticalliability/"
+    },
+    "HouseholdOccupationControl": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·周纪》75-2丨“穷奢极侈”的祖师爷管仲 [lo8ueI2u1qWJ9TSZftEL1b4lSWOA].md",
+          "key": "zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·周纪》75-2丨“穷奢极侈”的祖师爷管仲",
+          "url": "/wiki/sources/zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？ [lkHT_jO0Z7jE4GbYK10cKUXv4cuB].md",
+          "key": "zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/householdoccupationcontrol/"
     },
     "HousingPresaleFinancingRisk": {
       "episode_count": 2,
@@ -59126,6 +59179,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/maternalstatussuccessionleverage/"
+    },
+    "MausoleumCountyEliteRelocation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？ [lkHT_jO0Z7jE4GbYK10cKUXv4cuB].md",
+          "key": "zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/mausoleumcountyeliterelocation/"
     },
     "MausoleumFrugalityRemonstrance": {
       "episode_count": 1,
@@ -83693,6 +83762,29 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/stripe/"
     },
+    "StrongTrunkWeakBranchCentralization": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？ [lg7M3vFdBCWEb4jOXe4jVhXjX6y8].md",
+          "key": "zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》123-1｜神之预言：“亡秦者胡”竟是指…？",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？ [lkHT_jO0Z7jE4GbYK10cKUXv4cuB].md",
+          "key": "zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/strongtrunkweakbranchcentralization/"
+    },
     "StructuralPowerImbalance": {
       "episode_count": 2,
       "show_count": 2,
@@ -96909,9 +97001,9 @@
       "url": "/wiki/entities/xiejinphilosopher/"
     },
     "XieWannianWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》541丨他是民族英雄，最后为何因贪入狱？ [llCKtoCPMXXIB1PJCKbOLDLzGXdu].md",
@@ -96926,6 +97018,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》537丨他为何拥有两座陵墓？芮淇带你揭露真相",
           "url": "/wiki/sources/zizhi-tongjian-hanji-537-ta-weihe-yongyou-liangzuo-lingmu-ruiqi-daini-jielu-zhenxiang-lsfaatftrg7jay3mxyskl7k0u1at/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？ [lkHT_jO0Z7jE4GbYK10cKUXv4cuB].md",
+          "key": "zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub/"
         }
       ],
       "updated": "2026-09-12",
