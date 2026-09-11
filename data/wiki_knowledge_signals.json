@@ -49800,9 +49800,9 @@
       "url": "/wiki/entities/lixielatehan/"
     },
     "LiXunWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》581丨汉哀帝在鬼神之道有多愚蠢？ [ltOK7KbZMUF-OS84SPsEwW0QJBRm].md",
@@ -49824,6 +49824,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》559丨明明无罪，为何天下人都想他死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？ [lkuKbE4Hu71Ti_lmASCA-mPBFFxj].md",
+          "key": "zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj/"
         }
       ],
       "updated": "2026-09-11",
@@ -66361,9 +66368,9 @@
       "url": "/wiki/entities/pinduoduo/"
     },
     "PingDangWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命 [ljIunEoWN6Ah1yx5G_uChPB5ESCp].md",
@@ -66371,6 +66378,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》582丨女人的嗔恨心，最夺男人命",
           "url": "/wiki/sources/zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？ [lkuKbE4Hu71Ti_lmASCA-mPBFFxj].md",
+          "key": "zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj/"
         }
       ],
       "updated": "2026-09-11",
@@ -85023,6 +85037,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/tianfenglatehan/"
     },
+    "TianGouShiYueCulturalResponse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？ [lkuKbE4Hu71Ti_lmASCA-mPBFFxj].md",
+          "key": "zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj/"
+        }
+      ],
+      "updated": "2026-09-11",
+      "url": "/wiki/concepts/tiangoushiyueculturalresponse/"
+    },
     "TianKaiLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -96116,9 +96146,9 @@
       "url": "/wiki/entities/yelumureka/"
     },
     "YellowRiver": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？ [lsqTDJxamRPM2Zit0t3fFgqPbItk].md",
@@ -96126,6 +96156,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？ [lkuKbE4Hu71Ti_lmASCA-mPBFFxj].md",
+          "key": "zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj/"
         }
       ],
       "updated": "2026-09-11",

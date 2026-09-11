@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7023
+wiki_total_pages: 7024
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "TianFamilyReplacementOfQi"
     title: "Tian Family Replacement of Qi / 田氏代齐"
     url: "/wiki/concepts/tianfamilyreplacementofqi/"
+  - key: "TianGouShiYueCulturalResponse"
+    title: "Tian Gou Shi Yue Cultural Response / 天狗食月文化应对"
+    url: "/wiki/concepts/tiangoushiyueculturalresponse/"
   - key: "TianJiHorseRacing"
     title: "Tian Ji Horse Racing / 田忌赛马"
     url: "/wiki/concepts/tianjihorseracing/"

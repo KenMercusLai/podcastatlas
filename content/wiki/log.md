@@ -17305,6 +17305,10 @@ Added source. Key claims: Xie Guang's report continues from Cao Gong into Xu Mei
 
 Added source. Key claims: the White Ship disaster turns Henry I's succession into a dynastic heir-loss shock; Matilda has hereditary and oath legitimacy but loses the first practical and sacred legitimacy threshold to Stephen; the Anarchy exposes the order-making expectations attached to kingship; Matilda's claim succeeds through Henry II rather than her own coronation.
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》566丨不祥降临！为何古人畏惧“天狗食月”？
+
+Added source. Key claims: Li Xun turns earthquake, lunar eclipse, flood, and other disasters into advice about imperial will, law, inner-court influence, outer relatives, and minister quality; Ping Dang shifts the crisis toward Yellow River technical governance by calling for skilled river-control talent; the episode distinguishes folk "天狗食月" ritual response from modern eclipse mechanics.
+
 ## [2026-09-11] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -17452,6 +17456,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？
 
 Added source. Key claims: Jia Rang ranks Yellow River flood-control policies as retreat from floodplain land, canal-and-sluice diversion, and old-levee repair; Warring States levee competition transfers risk across river boundaries; the episode uses Qian Mu's five-hundred-year tree story to frame expensive long-horizon solutions as potentially wiser than quick visible fixes.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 
