@@ -7,12 +7,13 @@ sources:
   - zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww
   - zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh
   - zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c
+  - zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo
 last_updated: 2026-09-11
 ---
 
 ## Overview
 
-赵合德 / Zhao Hede enters this wiki through [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] as [[HanChengdi|汉成帝]]'s favored consort and the central named target in accusations that Chengdi and Hede repeatedly killed imperial sons. [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] supplies the [[CaoGongWesternHan|曹宫]] case narrative, while [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] supplies the [[XuMeirenWesternHan|徐美人]] sealed-box case. The received suspicion is historically important but remains evidentially unstable in the wiki.
+赵合德 / Zhao Hede enters this wiki through [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] as [[HanChengdi|汉成帝]]'s favored consort and the central named target in accusations that Chengdi and Hede repeatedly killed imperial sons. [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] supplies the [[CaoGongWesternHan|曹宫]] case narrative, while [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] supplies the [[XuMeirenWesternHan|徐美人]] sealed-box case. [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] now adds the immediate death-room and investigation context: Zhao Hede is beside Chengdi when he suddenly collapses, then kills herself after Wang Zhengjun orders a formal inquiry. The received suspicion is historically important but remains evidentially unstable in the wiki.
 
 ## Current Profile
 
@@ -22,13 +23,15 @@ Hanji 572 adds a second concrete branch. Zhao Hede confronts Chengdi over Xu Mei
 
 Hanji 573 then treats that received narrative critically rather than erasing it. It focuses on how Zhao Hede becomes the figure onto whom Chengdi's sudden death, repeated child loss, and late Western Han succession anxiety can be concentrated. The source acknowledges that the received texts make her suspicious, then presses against the case by asking whether the evidence is too testimony-dependent and whether [[WangZhengjun|王政君]]'s political interests make unchecked heir-killing implausible.
 
-The profile therefore remains qualified. Zhao Hede is neither exonerated nor treated as the sole cause of Chengdi's no-heir outcome. She is a case where palace intimacy, accusation, missing evidence, and later "red-beauty disaster" narration overlap.
+Hanji 561 sharpens why the post-death blame could harden so quickly. Zhao Hede is the person physically present at Chengdi's sudden morning collapse, and the court investigation asks about Chengdi's daily conduct and death circumstances. The episode also recounts the aphrodisiac-pill tradition around Chengdi's death, but marks those details as rumor or non-standard-history material. Its political reading is clearer than its medical one: a court needing a public explanation for a shameful sudden death can make the politically weak favorite bear the burden.
+
+The profile therefore remains qualified. Zhao Hede is neither exonerated nor treated as the sole cause of Chengdi's death or no-heir outcome. She is a case where palace intimacy, accusation, missing evidence, political explanation, and later "red-beauty disaster" narration overlap.
 
 ## Key Characteristics
 
 - Western Han favored consort tied to the most serious allegations around Chengdi's dead or missing heirs.
 - Source-scoped suspect in the `Han Shu` and `Zizhi Tongjian` tradition, not a fully adjudicated actor in this wiki.
-- Immediate target of post-Chengdi-death rumor in Hanji 571, followed by suicide after Wang Zhengjun orders investigation.
+- Present at Chengdi's sudden morning collapse and then exposed as the immediate target of post-death rumor and investigation.
 - Accused through reported palace chains involving Cao Gong's missing infant and Xu Meiren's sealed box.
 - Convenient blame target after Chengdi's sudden death and Han Aidi's anti-Zhao-family incentives.
 - Paired with Zhao Feiyan in later gendered and literary memory.
@@ -38,6 +41,8 @@ The profile therefore remains qualified. Zhao Hede is neither exonerated nor tre
 
 - Received suspicion: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says `Han Shu` and `Zizhi Tongjian` both imply Chengdi and Zhao Hede killed imperial sons.
 - Death rumor and suicide: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says popular rumor blamed Zhao Hede for Chengdi's sudden death and that she killed herself after Wang Zhengjun ordered investigation.
+- Death-room exposure: [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] says Zhao Hede was beside Chengdi when his morning dressing collapse occurred.
+- Political blame pressure: [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] argues that Zhao Hede's weak protection and scandalous proximity made her a convenient answer after a death the court could not explain publicly as sexual-drug disgrace.
 - Cao Gong case: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] reports a Zhao Zhaoyi-linked messenger asking whether Cao Gong's infant had died, delivering pills to Cao Gong, and pressuring the attendants toward death.
 - Xu Meiren case: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] reports Zhao Hede challenging Chengdi over Xu Meiren's child before the sealed-box burial chain.
 - Palace control claim: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Wu Qiuzun told Ji Wu that Yeting officials were Zhao Hede's people and that women who bore Chengdi children had been killed.
@@ -47,11 +52,11 @@ The profile therefore remains qualified. Zhao Hede is neither exonerated nor tre
 
 ## Qualifications
 
-This page is bounded to Hanji 571, Hanji 572, and Hanji 573. Hanji 571-572 supply grave accusation narratives, while Hanji 573 warns against treating the combined narrative as fully settled. The page does not settle Zhao Hede's guilt, the full legal record, Chengdi's exact death cause, or the medical explanation for the deaths of Chengdi's children. Hanji 573's family-health argument remains a hypothesis from historical pattern rather than proof.
+This page is bounded to Hanji 571, Hanji 572, Hanji 573, and Hanji 561. Hanji 571-572 supply grave accusation narratives, Hanji 561 supplies the death-room and political-blame context, while Hanji 573 warns against treating the combined narrative as fully settled. The page does not settle Zhao Hede's guilt, the full legal record, Chengdi's exact death cause, or the medical explanation for the deaths of Chengdi's children. Hanji 561's aphrodisiac-pill tradition and Hanji 573's family-health argument both remain source-scoped rather than proof.
 
 ## What Changed
 
-- Added Hanji 572's Xu Meiren sealed-box branch and Yeting-control allegation beside Hanji 571's Cao Gong case, while preserving Hanji 573's evidentiary caution.
+- Added Hanji 561's death-room, suicide, and public-blame context while keeping the aphrodisiac-pill explanation source-scoped.
 
 ## Relationships
 

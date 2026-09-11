@@ -2928,14 +2928,14 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
-      "source_note_count": 823,
-      "topic_matched_source_note_count": 321,
+      "source_note_count": 824,
+      "topic_matched_source_note_count": 322,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 274
+          "source_note_count": 275
         },
         {
           "key": "politics",

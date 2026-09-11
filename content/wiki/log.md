@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-11] ingest | 《资治通鉴·汉纪》561丨惨惨惨！揭秘吃催情药死的皇帝NO.1！
+
+Ingested the 2026-05-19 芮淇讲透资治通鉴 episode backfilling Suihe 2 / 7 BCE under Han Chengdi. Added source `zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo`; updated `HanChengdi`, `ZhaoHedeWesternHan`, `GenderedConsortScapegoating`, and `index`. No settled contradiction found; the aphrodisiac-pill explanation, pill-refining details, pill count, and exact medical cause of Chengdi's death remain source-scoped while the political blame-transfer logic is integrated.
+
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》558丨爱“装”才会赢！王莽有多会隐忍？
 
 Ingested the 2026-05-19 芮淇讲透资治通鉴 episode backfilling Suihe 1 / 8 BCE under Han Chengdi. Added source `zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9`; created `WangGenWesternHan`, `ZhaiFangjinWesternHan`, and `RoleAttachmentPowerExit`; linked the episode to Wang Mang's early reputation construction, the刺史-to-州牧 reform, Liu Xiang's礼乐/太学 proposal, and role-exit awareness. No settled contradiction found; Wang Mang's sincerity versus performance, the practical case for州牧, ancient chime-stone provenance, and Taixue policy reversal remain source-scoped.
@@ -17456,6 +17460,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》567丨它究竟是母亲河，还是一场悲哀？
 
 Added source. Key claims: Jia Rang ranks Yellow River flood-control policies as retreat from floodplain land, canal-and-sluice diversion, and old-levee repair; Warring States levee competition transfers risk across river boundaries; the episode uses Qian Mu's five-hundred-year tree story to frame expensive long-horizon solutions as potentially wiser than quick visible fixes.
+
+## [2026-09-11] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-11] lint | Wiki health check
 

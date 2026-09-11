@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww
   - zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh
   - zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c
+  - zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo
 last_updated: 2026-09-11
 ---
 
@@ -16,14 +17,14 @@ last_updated: 2026-09-11
 
 ## Current Synthesis
 
-Hanji 573 creates the concept through [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]]. Hanji 571-572 now supply the severe accusation material that makes the pattern hard to flatten into simple exoneration: [[CaoGongWesternHan|曹宫]] accuses the Zhao sisters before dying, a Zhao Zhaoyi-linked messenger appears in the chain around her son's disappearance, and Zhao Hede is reported as pressuring Chengdi after [[XuMeirenWesternHan|徐美人]] gives birth. Hanji 573 then argues that the sisters' received image as causes of [[HanChengdi|汉成帝]]'s no-heir disaster may still hide a more complicated evidence and power problem: Chengdi's children had died young before the Zhao sisters' involvement, the Liu imperial line shows broader fragility in the source's reading, and the later investigation is politically useful to [[HanAidi|汉哀帝]] and anti-Zhao actors.
+Hanji 573 creates the concept through [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]]. Hanji 571-572 now supply the severe accusation material that makes the pattern hard to flatten into simple exoneration: [[CaoGongWesternHan|曹宫]] accuses the Zhao sisters before dying, a Zhao Zhaoyi-linked messenger appears in the chain around her son's disappearance, and Zhao Hede is reported as pressuring Chengdi after [[XuMeirenWesternHan|徐美人]] gives birth. Hanji 561 adds the earlier public-answer problem: Chengdi's sudden death, Zhao Hede's presence, and the shame attached to later aphrodisiac-pill traditions make a favored consort politically useful as the visible bearer of blame. Hanji 573 then argues that the sisters' received image as causes of [[HanChengdi|汉成帝]]'s no-heir disaster may still hide a more complicated evidence and power problem: Chengdi's children had died young before the Zhao sisters' involvement, the Liu imperial line shows broader fragility in the source's reading, and the later investigation is politically useful to [[HanAidi|汉哀帝]] and anti-Zhao actors.
 
-The concept is not a claim that favored women are never politically active or never dangerous. It is a warning about narrative compression. A palace scandal can become easier to remember and retell when structural succession weakness, ruler health, factional rivalry, and evidentiary uncertainty are personified as a beautiful woman's destructive power.
+The concept is not a claim that favored women are never politically active or never dangerous. It is a warning about narrative compression. A palace scandal can become easier to remember and retell when structural succession weakness, ruler health, shame management, factional rivalry, and evidentiary uncertainty are personified as a beautiful woman's destructive power.
 
 ## Key Claims
 
 - Gendered blame can turn succession and institutional problems into a simpler morality tale about beauty destroying rule.
-- Scapegoating is especially likely when a sudden death or heir failure demands a culprit.
+- Scapegoating is especially likely when sudden death, heir failure, or shameful ruler conduct demands a substitute public explanation.
 - Literary repetition can stabilize a gendered image even when the underlying case remains evidentially uncertain.
 - The pattern should be distinguished from exoneration: a consort may remain suspicious while still being overused as an explanation.
 - Direct accusation against a consort network can coexist with caution against making favored women the whole causal explanation.
@@ -33,6 +34,8 @@ The concept is not a claim that favored women are never politically active or ne
 ## Evidence
 
 - Severe accusation layer: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Cao Gong accused the Zhao sisters before dying and links a Zhao Zhaoyi messenger to the pressure around the infant.
+- Sudden-death blame layer: [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] says Zhao Hede was present at Chengdi's sudden collapse and killed herself after the court investigation began.
+- Shame-management layer: [[zizhi-tongjian-hanji-561-cancancan-jiemi-chi-cuiqingyao-si-de-huangdi-no-1-ljwoku7zvutdfitvtb3n0-9bvneo|Hanji 561]] argues that the court could not openly center a sexual-drug death explanation, making Zhao Hede and the Zhao sisters convenient blame targets.
 - Xu Meiren pressure layer: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Zhao Hede challenged Chengdi over Xu Meiren's child, with fear of Xu-family revival mixed into the emotional accusation.
 - Broader palace-control allegation: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Wu Qiuzun claimed Yeting officials were Zhao Hede's people and that women who bore imperial children had been killed.
 - Pre-Zhao child loss: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says Chengdi had children by Xu family women and Ban Jieyu who died young before the Zhao sisters explain the problem.
@@ -42,11 +45,11 @@ The concept is not a claim that favored women are never politically active or ne
 
 ## Counterevidence & Qualifications
 
-The source set does not erase the received suspicion around Zhao Hede and Zhao Feiyan. Hanji 571-572 record damaging accusation chains, and `Han Shu` and `Zizhi Tongjian` still matter as the tradition being challenged. The concept should therefore be used where the issue is narrative overconcentration of blame, not as a blanket defense of all court favorites.
+The source set does not erase the received suspicion around Zhao Hede and Zhao Feiyan. Hanji 571-572 record damaging accusation chains, Hanji 561 places Zhao Hede at the death scene, and `Han Shu` and `Zizhi Tongjian` still matter as the tradition being challenged. Hanji 561's aphrodisiac-pill story is itself qualified as legendary or non-standard-history detail. The concept should therefore be used where the issue is narrative overconcentration of blame, not as a blanket defense of all court favorites.
 
 ## What Changed
 
-- Added Hanji 572's Xu Meiren and Yeting-control accusation layers while preserving Hanji 573's warning against narrative overconcentration of blame.
+- Added Hanji 561's sudden-death and shame-management layer, explaining why Zhao Hede could become a public answer even while the drug-death tradition remains source-scoped.
 
 ## Related Concepts
 
