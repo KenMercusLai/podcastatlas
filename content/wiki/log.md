@@ -17656,6 +17656,10 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongsh
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？
+
+Added source note for 三五环 No.233, created DeviceFormFactorFragmentation, migrated and extended FoldablePhoneProductivity, and updated iPhone Duo and FoldableAppAdaptation around old-experience evaluation, Apple ecosystem advantage, China-market app adaptation, and foldable-phone non-replacement.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》532丨西汉最大的农民起义，领导者是他？
 
 Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Hongjia 3-4 / 18-17 BCE under Han Chengdi. Created Zheng Gong, Guanghan Zheng Gong Uprising, Zhao Hu, Li Xun (flood-control adviser), and Survival Pressure Rebellion; updated Yellow River, overview, and index. No settled contradiction found; Zheng Gong's full biography, rebel composition, campaign details, Li Xun's full memorial, and the non-repair policy's effects remain source-scoped.
@@ -17774,6 +17778,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

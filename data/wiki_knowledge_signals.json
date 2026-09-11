@@ -21641,6 +21641,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/developerhiddendebtstack/"
     },
+    "DeviceFormFactorFragmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIaIOeeKuAj5mWgTV2L0u [GKwRIaIOeeKuAj5mWgTV2L0u].md",
+          "key": "no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u",
+          "show": "三五环",
+          "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
+          "url": "/wiki/sources/no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/deviceformfactorfragmentation/"
+    },
     "DiabeticRetinopathyScreening": {
       "episode_count": 1,
       "show_count": 1,
@@ -31441,9 +31457,9 @@
       "url": "/wiki/entities/flywheelwordpresshosting/"
     },
     "FoldableAppAdaptation": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
@@ -31451,10 +31467,54 @@
           "show": "枫言枫语",
           "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
           "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+        },
+        {
+          "episode_file": "GKwRIaIOeeKuAj5mWgTV2L0u [GKwRIaIOeeKuAj5mWgTV2L0u].md",
+          "key": "no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u",
+          "show": "三五环",
+          "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
+          "url": "/wiki/sources/no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/foldableappadaptation/"
+    },
+    "FoldablePhoneProductivity": {
+      "episode_count": 4,
+      "show_count": 4,
+      "source_note_count": 4,
+      "sources": [
+        {
+          "episode_file": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回 [1008396395].md",
+          "key": "qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395",
+          "show": "声动早咖啡",
+          "title": "汽水音乐冲击腾讯、网易，特斯拉等车企在国内开展大规模召回",
+          "url": "/wiki/sources/qishui-yinyue-chongji-tengxun-wangyi-tesila-deng-cheqi-zai-guonei-kaizhan-daguimo-zhaohui-1008396395/"
+        },
+        {
+          "episode_file": "AI 时代的超级入口还是手机吗？｜ S10E17 [523a0d42-4c16-4dd6-a2ab-9277fec1a731].md",
+          "key": "ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731",
+          "show": "What's Next｜科技早知道",
+          "title": "AI 时代的超级入口还是手机吗？｜ S10E17",
+          "url": "/wiki/sources/ai-shidai-de-chaoji-rukou-haishi-shouji-ma-s10e17-523a0d42-4c16-4dd6-a2ab-9277fec1a731/"
+        },
+        {
+          "episode_file": "268.AI时代，个人工作台会重新回到手机吗？ [lgPRs5jUHHrJyKBzASAqvdLZx8fs].md",
+          "key": "268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs",
+          "show": "乱翻书",
+          "title": "268. AI时代，个人工作台会重新回到手机吗？",
+          "url": "/wiki/sources/268-ai-shidai-geren-gongzuotai-hui-zhongxin-huidao-shouji-ma-lgprs5juhhrjykbzasaqvdlzx8fs/"
+        },
+        {
+          "episode_file": "GKwRIaIOeeKuAj5mWgTV2L0u [GKwRIaIOeeKuAj5mWgTV2L0u].md",
+          "key": "no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u",
+          "show": "三五环",
+          "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
+          "url": "/wiki/sources/no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/foldablephoneproductivity/"
     },
     "FolkMakerArtInterpretation": {
       "episode_count": 1,
@@ -43614,9 +43674,9 @@
       "url": "/wiki/concepts/imagentinterfaces/"
     },
     "IPhoneDuo": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会 (1) [6695-1].md",
@@ -43624,9 +43684,16 @@
           "show": "枫言枫语",
           "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
           "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+        },
+        {
+          "episode_file": "GKwRIaIOeeKuAj5mWgTV2L0u [GKwRIaIOeeKuAj5mWgTV2L0u].md",
+          "key": "no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u",
+          "show": "三五环",
+          "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
+          "url": "/wiki/sources/no-233-dankou-shouji-weishenme-yaozhedie-apple-weishenme-yao-genfeng-gkwriaioeekuaj5mwgtv2l0u/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/iphoneduo/"
     },
     "IanHamiltonGallipoli": {
