@@ -3195,10 +3195,10 @@
       ]
     },
     "读报teleread": {
-      "episode_count": 2,
+      "episode_count": 3,
       "earliest_episode_date": "2026-08-12",
-      "latest_episode_date": "2026-08-17",
-      "latest_episode_file": "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
+      "latest_episode_date": "2026-09-11",
+      "latest_episode_file": "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md",
       "source_note_count": 2,
       "topic_matched_source_note_count": 2,
       "topics": [
@@ -3218,7 +3218,8 @@
       "entities": [],
       "start_here_episode_files": [
         "cmswlihjk12g601zlfjov42ht [cmswlihjk12g601zlfjov42ht].md",
-        "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md"
+        "cmsprzpsb3a8701z6ha7w867u [cmsprzpsb3a8701z6ha7w867u].md",
+        "cmtwkgbmq01wt01tp3mgj78e4 [cmtwkgbmq01wt01tp3mgj78e4].md"
       ]
     },
     "起朱楼宴宾客": {
