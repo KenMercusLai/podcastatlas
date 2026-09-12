@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7
   - zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn
   - zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu
+  - zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-Wang Shang / 王商 (Western Han) enters the wiki through [[zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u|Hanji 538]] as the Wei Jiangjun and Wang-family figure who secretly warns [[GuYongWesternHan|谷永]] to flee after [[HanChengdi|汉成帝]] orders Gu Yong arrested for an extremely harsh disaster-omen remonstrance. [[zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu|Hanji 514]] backfills his Heping 4 / 25 BCE entry into the top civil office: after [[KuangHengWesternHan|匡衡]] is reduced to commoner, Chengdi appoints Wang Shang chancellor while the episode previews his later conflict with [[WangFengWesternHan|王凤]]. [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] adds a harsher role: Wang Shang impeaches [[ChenTangWesternHan|陈汤]] in the Changling case. [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] then adds an omen-politics personnel layer: Wang Shang is removed during a cluster of disasters in Yongshi 4, then restored after new Yuan延 1 anomalies make the earlier blame look politically contingent. [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] backfills an earlier counterweight role: after [[WangTanWesternHan|王谭]] dies, Chengdi empowers Wang Shang with staff and recommendation authority, apparently hoping he will counter [[WangYinWesternHan|王音]], but [[DuYeWesternHan|杜邺]] helps turn that rivalry into sincere consultation. [[zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn|Hanji 527-1]] adds the luxury-overreach layer: Wang Shang first thinks of using Chengdi's Mingguang Palace while ill, then cuts through Chang'an's wall to bring water into an extravagant household landscape.
+Wang Shang / 王商 (Western Han) enters the wiki through [[zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u|Hanji 538]] as the Wei Jiangjun and Wang-family figure who secretly warns [[GuYongWesternHan|谷永]] to flee after [[HanChengdi|汉成帝]] orders Gu Yong arrested for an extremely harsh disaster-omen remonstrance. [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] backfills an earlier crisis-judgment layer: Wang Shang rejects the Chang'an flood panic as rumor and warns that ordering people onto city walls would amplify fear. [[zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu|Hanji 514]] backfills his Heping 4 / 25 BCE entry into the top civil office: after [[KuangHengWesternHan|匡衡]] is reduced to commoner, Chengdi appoints Wang Shang chancellor while the episode previews his later conflict with [[WangFengWesternHan|王凤]]. [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] adds a harsher role: Wang Shang impeaches [[ChenTangWesternHan|陈汤]] in the Changling case. [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] then adds an omen-politics personnel layer: Wang Shang is removed during a cluster of disasters in Yongshi 4, then restored after new Yuan延 1 anomalies make the earlier blame look politically contingent. [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] backfills an earlier counterweight role: after [[WangTanWesternHan|王谭]] dies, Chengdi empowers Wang Shang with staff and recommendation authority, apparently hoping he will counter [[WangYinWesternHan|王音]], but [[DuYeWesternHan|杜邺]] helps turn that rivalry into sincere consultation. [[zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn|Hanji 527-1]] adds the luxury-overreach layer: Wang Shang first thinks of using Chengdi's Mingguang Palace while ill, then cuts through Chang'an's wall to bring water into an extravagant household landscape.
 
 ## Current Profile
 
 The sources use Wang Shang across several roles, beginning in Hanji 514 as a newly appointed chancellor and named half of the coming Wang-Wang conflict. That early notice matters because later episodes show him not as a single fixed type but as a Wang-family officeholder whose role shifts with court need. In Hanji 538, he is evidence that Gu Yong's speech was not an isolated act of personal boldness. [[WangZhengjun|王政君]] and imperial uncles are presented as worried about Chengdi's indulgence but unable to criticize him directly, so Gu Yong becomes their front-facing speaker. When Chengdi reacts in anger, Wang Shang's warning gives Gu Yong time to escape the immediate arrest effort.
+
+Hanji 505 adds the pre-chancellorship contrast with Wang Feng. In the flood-rumor panic, Wang Shang is the official who refuses crowd-confirming action: he argues that even bad weather does not justify turning rumor into a state order. This makes him a [[CrisisRumorDeamplification|crisis rumor de-amplification]] figure and explains why Chengdi's appreciation of his steadiness could become politically costly for Wang Feng's face.
 
 Hanji 541 changes the profile from one-note protection to selective court action. Wang Shang is not only a warning intermediary; in the Chen Tang case he becomes the accusing official whose memorial gives Chengdi a formal path to punish a politically exposed implementer. The episode says he disliked Chen Tang, but also reads the timing through the larger Changling interest conflict.
 
@@ -31,7 +34,7 @@ Hanji 527-1 gives a more bodily image of the same Wang-family power problem. Wan
 
 ## Key Characteristics
 
-- Western Han Wang-family figure described as Wei Jiangjun in later sources and appointed chancellor in Heping 4 / 25 BCE after Kuang Heng's demotion.
+- Western Han Wang-family figure described as Wei Jiangjun in later sources and appointed chancellor in Heping 4 / 25 BCE after Kuang Heng's demotion, with earlier crisis judgment in the Chang'an flood-rumor case.
 - Hidden supporter or protector around Gu Yong's criticism of Chengdi.
 - Secretly warns Gu Yong after Chengdi orders arrest.
 - Functions as part of the Wang Zhengjun and imperial-uncle backing network behind dangerous remonstrance.
@@ -54,14 +57,17 @@ Hanji 527-1 gives a more bodily image of the same Wang-family power problem. Wan
 - Staged submission: [[zizhi-tongjian-hanji-527-1-hanchengdi-shajiuji-zhuangkelian-suiran-kechi-danshi-youyong-lioh59ybajvtcm3ayzplfoywswsn|Hanji 527-1]] says Wang Shang joins the Wang-family appeal through Wang Zhengjun and performs readiness for punishment after Chengdi invokes the Bo Zhao precedent.
 - Chancellor appointment: [[zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu|Hanji 514]] says Chengdi appoints Wang Shang chancellor after Kuang Heng is reduced to commoner for excess land.
 - Conflict preview: [[zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu|Hanji 514]] frames Wang Shang's later conflict with Wang Feng as a destructive escalation of resentment and retaliation, but does not yet narrate the full clash.
+- Flood-rumor judgment: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] says Wang Shang identifies the Chang'an flood panic as rumor and warns that wall-climbing orders would worsen public fear.
+- Face-cost to Wang Feng: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] says Chengdi appreciates Wang Shang's calm handling while Wang Feng is embarrassed by his earlier proposal.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 538, Hanji 541, Hanji 545, Hanji 533, Hanji 527-1, and Hanji 514 and does not reconstruct Wang Shang's full identity, office history, kinship line, health, or later career. Hanji 514 gives his chancellorship notice and previews conflict with Wang Feng without narrating the full struggle; Hanji 538 uses him as the messenger-protector who makes Gu Yong's severe remonstrance survivable; Hanji 541 uses him as the accuser who helps convert Chen Tang's vulnerability into punishment; Hanji 545 uses his removal and restoration to show how disaster responsibility can attach to and detach from a senior official; Hanji 533 uses him as a counterweight candidate whose conflict with Wang Yin is defused by sincere consultation; Hanji 527-1 uses him as a luxury-transgression and staged-repentance actor.
+This page is source-scoped to Hanji 538, Hanji 541, Hanji 545, Hanji 533, Hanji 527-1, Hanji 514, and Hanji 505 and does not reconstruct Wang Shang's full identity, office history, kinship line, health, or later career. Hanji 505 shows an early crisis-judgment case and title-setting conflict with Wang Feng; Hanji 514 gives his chancellorship notice and previews conflict with Wang Feng without narrating the full struggle; Hanji 538 uses him as the messenger-protector who makes Gu Yong's severe remonstrance survivable; Hanji 541 uses him as the accuser who helps convert Chen Tang's vulnerability into punishment; Hanji 545 uses his removal and restoration to show how disaster responsibility can attach to and detach from a senior official; Hanji 533 uses him as a counterweight candidate whose conflict with Wang Yin is defused by sincere consultation; Hanji 527-1 uses him as a luxury-transgression and staged-repentance actor.
 
 ## What Changed
 
 - Added Hanji 514's Heping 4 layer: Wang Shang becomes chancellor after Kuang Heng's demotion, while the source previews but does not yet narrate his conflict with Wang Feng.
+- Added Hanji 505's flood-rumor layer: Wang Shang gains political credit by preventing official action from amplifying Chang'an panic.
 
 ## Relationships
 
@@ -69,6 +75,7 @@ This page is source-scoped to Hanji 538, Hanji 541, Hanji 545, Hanji 533, Hanji 
 - [[ChenTangWesternHan|陈汤]] - Changling actor whom Wang Shang impeaches.
 - [[HanChengdi|汉成帝]] - ruler whose arrest order creates the danger.
 - [[WangFengWesternHan|王凤]] - powerholder previewed as Wang Shang's later conflict counterpart.
+- [[CrisisRumorDeamplification|危机谣言降幅治理]] - crisis-governance pattern Wang Shang illustrates in the Chang'an flood-rumor case.
 - [[KuangHengWesternHan|匡衡]] - prior chancellor whose demotion opens Wang Shang's Hanji 514 appointment.
 - [[WangYinWesternHan|王音]] - Wang-family counterpart whose sincere consultation prevents internal rivalry from escalating.
 - [[WangTanWesternHan|王谭]] - deceased Wang-family figure after whom Chengdi reuses Wang Shang as a counterweight.

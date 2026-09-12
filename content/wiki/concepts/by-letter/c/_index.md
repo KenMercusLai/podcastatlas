@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7111
+wiki_total_pages: 7113
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2153,9 +2153,15 @@ wiki_pages:
   - key: "CrisisPriorityMisalignment"
     title: "危机优先级错置 / Crisis Priority Misalignment"
     url: "/wiki/concepts/crisisprioritymisalignment/"
+  - key: "CrisisRumorDeamplification"
+    title: "危机谣言降幅治理 / Crisis Rumor De-amplification"
+    url: "/wiki/concepts/crisisrumordeamplification/"
   - key: "ChronicleBiographicalHistoryForms"
     title: "史书体例意识 / Chronicle and Biographical History Forms"
     url: "/wiki/concepts/chroniclebiographicalhistoryforms/"
+  - key: "ConsortOmenBlameTransfer"
+    title: "后宫灾异归咎转移 / Consort Omen Blame Transfer"
+    url: "/wiki/concepts/consortomenblametransfer/"
   - key: "ChineseMysteryPublishingEcology"
     title: "国产推理出版生态 / Chinese Mystery Publishing Ecology"
     url: "/wiki/concepts/chinesemysterypublishingecology/"

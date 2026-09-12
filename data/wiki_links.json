@@ -13655,6 +13655,10 @@
     "title": "Consort Heir Security Spiral / 后宫子嗣安全螺旋",
     "url": "/wiki/concepts/consortheirsecurityspiral/"
   },
+  "ConsortOmenBlameTransfer": {
+    "title": "后宫灾异归咎转移 / Consort Omen Blame Transfer",
+    "url": "/wiki/concepts/consortomenblametransfer/"
+  },
   "ConsortioGroupFinancing": {
     "title": "Consortio Group Financing",
     "url": "/wiki/concepts/consortiogroupfinancing/"
@@ -14498,6 +14502,10 @@
   "CrisisPriorityMisalignment": {
     "title": "危机优先级错置 / Crisis Priority Misalignment",
     "url": "/wiki/concepts/crisisprioritymisalignment/"
+  },
+  "CrisisRumorDeamplification": {
+    "title": "危机谣言降幅治理 / Crisis Rumor De-amplification",
+    "url": "/wiki/concepts/crisisrumordeamplification/"
   },
   "CrisisStakeholderLeadership": {
     "title": "Crisis Stakeholder Leadership",
@@ -17774,6 +17782,10 @@
   "DuQiaoLateHan": {
     "title": "杜乔 / Du Qiao (late Han)",
     "url": "/wiki/entities/duqiaolatehan/"
+  },
+  "DuQinWesternHan": {
+    "title": "杜钦 / Du Qin (Western Han)",
+    "url": "/wiki/entities/duqinwesternhan/"
   },
   "DuQingWesternHan": {
     "title": "杜清 / Du Qing (Western Han)",
@@ -73738,6 +73750,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5": {
+    "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
   },
   "zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb": {
     "title": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！",

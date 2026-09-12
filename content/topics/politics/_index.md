@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2400
+topic_total_pages: 2401
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3616,6 +3616,9 @@ topic_concepts:
   - key: "CrisisPriorityMisalignment"
     title: "危机优先级错置 / Crisis Priority Misalignment"
     url: "/wiki/concepts/crisisprioritymisalignment/"
+  - key: "CrisisRumorDeamplification"
+    title: "危机谣言降幅治理 / Crisis Rumor De-amplification"
+    url: "/wiki/concepts/crisisrumordeamplification/"
   - key: "AppointedGovernorSecessionRisk"
     title: "受任地方长官割据风险 / Appointed Governor Secession Risk"
     url: "/wiki/concepts/appointedgovernorsecessionrisk/"

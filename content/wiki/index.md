@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？](sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5.md) — 芮淇讲透资治通鉴 episode on the Chang'an flood rumor, Wang Shang's refusal to amplify panic, Wang Feng's face-loss, harem-focused disaster-omen blame transfer, and Kuang Heng's demotion.
 - [EP 39: Why the Future of AI Belongs to Divergent Thinkers](sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers.md) — Data Science With Sam episode with Mark Stiltner on ADHD, neurodiversity, AI-supported hyperfocus, outcome-driven work, education, and solo AI RPGs.
 - [Essentials: Understanding & Controlling Aggression](sources/essentials-understanding-controlling-aggression-scim4757138073.md) — Huberman Lab Essentials episode on aggression categories, VMH circuitry, testosterone-to-estrogen aromatization, day length, stress state, light, heat, and supplement-bounded pressure reduction.
 - [《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！](sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb.md) — 芮淇讲透资治通鉴 episode on Ye Lang King Xing, Zhangke Commandery risk, Du Qing's preventive frontier advice, and appointment fit before the transcript reaches Chen Li's execution sequence.
@@ -2253,6 +2254,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [杜钦 / Du Qin (Western Han)](entities/DuQinWesternHan.md) — Western Han adviser who helps shift Chengdi-era eclipse-earthquake interpretation toward harem favoritism and heir risk.
 - [Mark Stiltner](entities/MarkStiltner.md) — Rapid marketing leader interviewed about ADHD, neurodiversity, and AI-supported work.
 - [Rapid](entities/Rapid.md) — company context for Mark Stiltner's Data Science With Sam EP39 interview.
 - [Dai Yu Lin](entities/DaiYuLin.md) — Neuroscience researcher named in the Huberman Lab aggression episode for optogenetic VMH estrogen-receptor neuron experiments.
@@ -12050,6 +12052,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [危机谣言降幅治理 / Crisis Rumor De-amplification](concepts/CrisisRumorDeamplification.md) — Crisis-governance pattern where officials avoid turning unverified public panic into an official command that validates fear.
+- [后宫灾异归咎转移 / Consort Omen Blame Transfer](concepts/ConsortOmenBlameTransfer.md) — Omen-politics pattern redirecting disaster responsibility from outer relatives or rulers toward harem favoritism, jealousy, and heir anxiety.
 - [Battle of Marathon](concepts/BattleOfMarathon.md) — 490 BC battle treated as Athenian containment, cavalry-window attack, tactical risk, city-saving return march, and later memory object.
 - [Athenian Democracy](concepts/AthenianDemocracy.md) — Marathon-contingency concept for Athens' fragile democratic and cultural future under Persian and tyrant-restoration threat.
 - [Greco-Persian War Memory](concepts/GrecoPersianWarMemory.md) — Later interpretation of Marathon and related conflicts as freedom-versus-despotism memory, qualified by source and empire context.

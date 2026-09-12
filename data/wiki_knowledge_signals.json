@@ -17675,6 +17675,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/consortheirsecurityspiral/"
     },
+    "ConsortOmenBlameTransfer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
+          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/consortomenblametransfer/"
+    },
     "ConsortioGroupFinancing": {
       "episode_count": 1,
       "show_count": 1,
@@ -19024,6 +19040,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/crisisprioritymisalignment/"
+    },
+    "CrisisRumorDeamplification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
+          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/crisisrumordeamplification/"
     },
     "CrisisWithdrawalSelfProtection": {
       "episode_count": 5,
@@ -24210,6 +24242,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/duqiaolatehan/"
+    },
+    "DuQinWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
+          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/duqinwesternhan/"
     },
     "DuQingWesternHan": {
       "episode_count": 2,
@@ -37842,9 +37890,9 @@
       "url": "/wiki/concepts/growthwitnessing/"
     },
     "GuYongWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -37880,6 +37928,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》545丨西汉皇族惊天大瓜！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
+          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
         }
       ],
       "updated": "2026-09-12",
@@ -50089,9 +50144,9 @@
       "url": "/wiki/entities/kuaishou/"
     },
     "KuangHengWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -50099,9 +50154,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
+          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/kuanghengwesternhan/"
     },
     "KulaWand": {
@@ -92695,9 +92757,9 @@
       "url": "/wiki/entities/wangfangxinprincess/"
     },
     "WangFengWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
@@ -92726,6 +92788,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
+          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
         }
       ],
       "updated": "2026-09-12",
@@ -93825,9 +93894,9 @@
       "url": "/wiki/entities/wangqingbuheshiyi/"
     },
     "WangShangWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》538丨骂汉成帝，为何没被株连 [lmDphgGOd_t9uk7Uu5z_53rjkJ7U].md",
@@ -93870,6 +93939,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
+          "key": "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
         }
       ],
       "updated": "2026-09-12",
