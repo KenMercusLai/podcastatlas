@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7240
+wiki_total_pages: 7243
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2315,6 +2315,9 @@ wiki_pages:
   - key: "CharismaticPoliticalPerformance"
     title: "造势型政治表演 / Charismatic Political Performance"
     url: "/wiki/concepts/charismaticpoliticalperformance/"
+  - key: "ChangpingGranarySystem"
+    title: "长平仓制度 / Changping Granary System"
+    url: "/wiki/concepts/changpinggranarysystem/"
   - key: "CapturedOpponentTalentIncorporation"
     title: "降敌任用式立威 / Captured Opponent Talent Incorporation"
     url: "/wiki/concepts/capturedopponenttalentincorporation/"

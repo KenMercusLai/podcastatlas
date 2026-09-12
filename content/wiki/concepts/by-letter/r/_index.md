@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7240
+wiki_total_pages: 7243
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "RoyalKinshipScandalAdjudication"
     title: "宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication"
     url: "/wiki/concepts/royalkinshipscandaladjudication/"
+  - key: "RoyalWitchcraftSuccessionDelusion"
+    title: "宗室巫术夺位幻想 / Royal Witchcraft Succession Delusion"
+    url: "/wiki/concepts/royalwitchcraftsuccessiondelusion/"
   - key: "RoyalKinTreasonLawBoundary"
     title: "宗室谋逆法度边界 / Royal Kin Treason Law Boundary"
     url: "/wiki/concepts/royalkintreasonlawboundary/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子](sources/zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5.md) — 芮淇讲透资治通鉴 episode on Guangling king Liu Xu's curse-based succession fantasy, Huhanye's submission note, and Geng Shouchang's grain transport and Changping granary reforms.
 - [《资治通鉴·汉纪》456-5｜修行人是如何看待西游的？](sources/zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through wounded compassion, 朱刚烈 as desire, 段小姐 as 情缘, 孙悟空 as ideal, and the critique of formalized cultivation.
 - [《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？](sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm.md) — 芮淇讲透资治通鉴 episode on Yang Yun's fall, Sun Huizong's warning letter, a resentful reply becoming court evidence, Emperor Xuan's severe punishment, and reading history as survival judgment.
 - [《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔](sources/zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through love, compassion, heart-demon symbolism, Sun Wukong, Duan Miss, and the "一心三藏" frame.
@@ -2333,6 +2334,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [广陵王刘须 / Liu Xu, Guangling King (Western Han)](entities/LiuXuGuanglingKingWesternHan.md) — Han Wudi's son and Guangling king whose throne ambition becomes repeated curse-based succession fantasy and ends in exposure, witness killing, and suicide.
+- [耿寿昌 / Geng Shouchang (Western Han)](entities/GengShouchangWesternHan.md) — Western Han grain official whose proposals combine nearer capital provisioning with Changping granaries for public price stabilization.
 - [杨恽 / Yang Yun](entities/YangYunWesternHan.md) — Western Han official and Sima Qian descendant whose resentful speech and letter after disgrace lead to execution under Emperor Xuan.
 - [孙会宗 / Sun Huizong](entities/SunHuizongWesternHan.md) — Western Han correspondent who warns Yang Yun to perform fear and repentance after disgrace.
 - [杨潭 / Yang Tan](entities/YangTanWesternHan.md) — Yang Yun's nephew and Anping marquis, demoted after warning Yang Yun that future restoration might still be possible.
@@ -12247,6 +12250,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [宗室巫术夺位幻想 / Royal Witchcraft Succession Delusion](concepts/RoyalWitchcraftSuccessionDelusion.md) — Royal-kin pattern where occult harm substitutes for open succession action and coincidence is misread as political efficacy.
+- [长平仓制度 / Changping Granary System](concepts/ChangpingGranarySystem.md) — Public grain-reserve policy that buys when grain is cheap and sells when grain is dear to buffer farmers, consumers, and scarcity risk.
+- [国家粮价平准 / State Grain Price Stabilization](concepts/StateGrainPriceStabilization.md) — Governance logic of using public procurement, storage, and release of staple grain to smooth harmful price swings.
 - [读史处世智慧 / Historical Reading as Survival Wisdom](concepts/HistoricalReadingAsSurvivalWisdom.md) — Reading-history concept where historical knowledge becomes practical judgment about power, risk, speech, and consequence.
 - [政治诛杀过度 / Political Execution Overreach](concepts/PoliticalExecutionOverreach.md) — Court-politics concept where severe execution damages legitimacy by exceeding public or moral proportionality.
 - [心魔象征式解读 / Inner-Demon Symbolic Reading](concepts/InnerDemonSymbolicReading.md) — Interpretive method reading monsters, companions, battles, and props as projections or functions of a protagonist's inner conflict.

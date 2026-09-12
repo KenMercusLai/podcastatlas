@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子
+
+Added source note plus Liu Xu, Geng Shouchang, royal witchcraft succession delusion, Changping granary system, and state grain price stabilization pages. Key claims: Liu Xu's hidden curse strategy turns throne ambition into self-destroying superstition and evidence suppression; Huhanye's submission marks late-Xuan frontier pressure easing; Geng Shouchang's reforms join grain logistics, public reserves, and price smoothing.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事
 
 Added source `zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t`; updated `GongYuWesternHan` with the early "贡禹弹冠" and thrift-remonstrance layer, and `WangJiWesternHan` with the Yuan-era summons layer. No settled contradiction found; Wang Ji's full career, Gong Yu's memorial wording, and Yuan's reform implementation remain source-scoped.
@@ -18619,6 +18623,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？
 
 Added source note plus Zhang Chang, Xu Shun, and Five-Day Jingzhao synthesis updates. Key claims: Zhang Chang's anti-bandit administrative ability coexists with anger-driven legal abuse; Xu Shun's loose speech turns rumored dismissal into fatal exposure; Five-Day Jingzhao is an idiom about premature authority discounting and short-term office behavior.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

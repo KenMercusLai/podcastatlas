@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9910
+wiki_total_pages: 9912
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1328,6 +1328,9 @@ wiki_pages:
   - key: "LiuJingGuanglingKingEasternHan"
     title: "广陵王刘荆 / Liu Jing, Guangling King (Eastern Han)"
     url: "/wiki/entities/liujingguanglingkingeasternhan/"
+  - key: "LiuXuGuanglingKingWesternHan"
+    title: "广陵王刘须 / Liu Xu, Guangling King (Western Han)"
+    url: "/wiki/entities/liuxuguanglingkingwesternhan/"
   - key: "LujiangCommandery"
     title: "庐江郡 / Lujiang Commandery"
     url: "/wiki/entities/lujiangcommandery/"
