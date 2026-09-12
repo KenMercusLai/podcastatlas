@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事](sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's Chuyuan 1 relief-and-austerity context, Wang Ji and Gong Yu's summons, the "贡禹弹冠" idiom, and Gong Yu's palace-thrift remonstrance.
 - [《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？](sources/zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw.md) — 芮淇讲透资治通鉴 episode on early Han Yuandi factional politics, Xiao Wangzhi's anti-Zhongshu-eunuch memorial, Shi Gao and eunuch alignment, and Zheng Peng's first attachment to Xiao's side.
 - [《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场](sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho.md) — 芮淇讲透资治通鉴 episode on Zheng Peng's betrayal of Xiao Wangzhi, the Tingwei custody trap, Han Yuandi's face-saving pardon, and the setup for Xiao's fatal vindication conflict.
 - [蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实](sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1.md) — 罗永浩的十字路口 interview with Cai Kangyong on Kangxi Laile, aging, AI creativity, grief ritual, death normalization, written art, and life meaning.
@@ -2363,7 +2364,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [五鹿充宗 / Wulu Chongzong (Western Han)](entities/WuluChongzongWesternHan.md) — Favored court figure in Jing Fang's diagnosis of anti-kaogong interests.
 - [贾捐之 / Jia Juanzhi (Western Han)](entities/JiaJuanzhiWesternHan.md) — Western Han writer-official who first argues for abandoning Zhuya and later collapses politically through praise-backed office bargaining around Shi Xian.
 - [杨兴 / Yang Xing (Western Han)](entities/YangXingWesternHan.md) — Jia Juanzhi's friend and co-schemer in the failed Shi Xian praise and Jingzhao Yin recommendation case.
-- [贡禹 / Gong Yu (Western Han)](entities/GongYuWesternHan.md) — Respected Confucian scholar whose reputation Shi Xian courts after Xiao Wangzhi's death.
+- [贡禹 / Gong Yu (Western Han)](entities/GongYuWesternHan.md) — Respected Confucian scholar whose profile spans "贡禹弹冠", thrift remonstrance, practical mission caution, and later criticism for evasive advice.
 - [诸葛丰 / Zhuge Feng (Western Han)](entities/ZhugeFengWesternHan.md) — Western Han official whose reversal from praise to denunciation becomes a warning about unreliable political speech.
 - [郑朋 / Zheng Peng (Western Han)](entities/ZhengPengWesternHan.md) — Western Han court actor whose rewarded attachment to Xiao Wangzhi's side later turns into resentment-driven accusation through Shi Gao's side.
 - [史高 / Shi Gao (Western Han)](entities/ShiGaoWesternHan.md) — Western Han outer-relative actor whose regent-side influence is challenged by Xiao Wangzhi's bloc before he channels disaster-blame and Zheng Peng's accusations.
@@ -2416,7 +2417,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yokkaichi Pollution Incident / 四日市公害事件](entities/YokkaichiPollutionIncident.md) — Announced environmental public-health case in 日谈物语 E02, currently source-limited to the title and "no killer" setup.
 - [于定国 / Yu Dingguo](entities/YuDingguoWesternHan.md) — Western Han senior official who supports Jia Juanzhi's Zhuya-abandonment proposal and later exits through disaster-accountability resignation.
 - [于永 / Yu Yong (Western Han)](entities/YuYongWesternHan.md) — Chengdi-era official whose family prestige, later self-cultivation, Yushi Dafu appointment, and death before chancellorship frame personnel selection in Hanji 524.
-- [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose advice record under Liu He becomes Wang Jun's family-reputation background.
+- [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose Liu He advice record and Han Yuandi-era summons anchor both Wang Jun's family reputation and "贡禹弹冠".
 - [王骏 / Wang Jun (Western Han)](entities/WangJunWesternHan.md) — Jingzhao Yin appointed by Han Chengdi and framed through practical office reputation and Wang Ji's remonstrance tradition.
 - [《二年律令》 / Er Nian Lu Ling](entities/ErNianLuLing.md) — Excavated Han legal text used in Hanji 527-2 to discuss punishment for abducting, selling, and buying trafficked people.
 - [《盲山》 / Blind Mountain](entities/BlindMountainFilm.md) — Film example used in Hanji 527-2 to connect modern forced marriage, captivity, and public imagination around trafficking.

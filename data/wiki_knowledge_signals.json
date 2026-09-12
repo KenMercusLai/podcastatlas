@@ -38538,9 +38538,9 @@
       "url": "/wiki/entities/gongshengxinscholar/"
     },
     "GongYuWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
@@ -38569,6 +38569,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事 [lo54ac1v8PLQft5ZxMorLK4_VX0t].md",
+          "key": "zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t/"
         }
       ],
       "updated": "2026-09-13",
@@ -97303,9 +97310,9 @@
       "url": "/wiki/entities/wanghuoxinprince/"
     },
     "WangJiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
@@ -97313,9 +97320,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事 [lo54ac1v8PLQft5ZxMorLK4_VX0t].md",
+          "key": "zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/wangjiwesternhan/"
     },
     "WangJiaShuScholar": {
