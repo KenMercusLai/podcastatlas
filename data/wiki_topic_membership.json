@@ -1811,6 +1811,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260": [
     {
       "key": "history",
@@ -5598,6 +5605,13 @@
     }
   ],
   "AchaemenidEmpire": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "AchaemenidImperialOrderIdeology": [
     {
       "key": "history",
       "label": "History",
@@ -18588,6 +18602,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CyrusTheGreat": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "CzechRepublic": [
@@ -58064,6 +58085,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "Sardis": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "SashaNauta": [

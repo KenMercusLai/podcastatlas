@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9838
+wiki_total_pages: 9843
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1283,6 +1283,9 @@ wiki_pages:
   - key: "Cyclospora"
     title: "Cyclospora"
     url: "/wiki/entities/cyclospora/"
+  - key: "CyrusTheGreat"
+    title: "Cyrus the Great"
+    url: "/wiki/entities/cyrusthegreat/"
   - key: "CzechRepublic"
     title: "Czech Republic / 捷克"
     url: "/wiki/entities/czechrepublic/"

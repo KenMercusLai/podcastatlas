@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9838
+wiki_total_pages: 9843
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -221,6 +221,9 @@ wiki_pages:
   - key: "SarahsGlutenFreeGoods"
     title: "Sarah's Gluten-Free Goods"
     url: "/wiki/entities/sarahsglutenfreegoods/"
+  - key: "Sardis"
+    title: "Sardis"
+    url: "/wiki/entities/sardis/"
   - key: "Saronic"
     title: "Saronic"
     url: "/wiki/entities/saronic/"

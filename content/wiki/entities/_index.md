@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9838
+wiki_total_pages: 9843
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -1178,6 +1178,9 @@ wiki_pages:
   - key: "ArinDube"
     title: "Arin Dube / Arindrajit Dube"
     url: "/wiki/entities/arindube/"
+  - key: "Aristagoras"
+    title: "Aristagoras"
+    url: "/wiki/entities/aristagoras/"
   - key: "AristionAthens"
     title: "Aristion of Athens / 雅典的阿里斯提昂"
     url: "/wiki/entities/aristionathens/"

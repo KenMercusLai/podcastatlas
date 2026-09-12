@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [668. Greece vs Persia: The Rise of the First Superpower (Part 1)](sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182.md) — The Rest Is History episode on Cyrus, Darius, Achaemenid imperial order, the Ionian Revolt, Sardis, Miletus, Athenian intervention, and the road to Marathon.
 - [Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita](sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751.md) — Huberman Lab episode with Kentaro Fujita on self-control beyond willpower, marshmallow-test context, psychological distance, strategy fit, abstinence versus moderation, intrinsic motivation, and goal disengagement.
 - [VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！](sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng.md) — 这病说来话长 episode with 子涵医生 on hantavirus subtype risk, rodent-borne transmission, pulmonary and renal syndrome red flags, cleanup prevention, vaccination scope, and official-information triage.
 - [李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活](sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp.md) — 罗永浩的十字路口 interview with Li Auto founder Li Xiang on agents in production, L9 LEVIUS, the M100 chip, autonomous driving, robotics, embodied intelligence, organization design, and overseas strategy.
@@ -8882,6 +8883,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Herodotus](entities/Herodotus.md) — Greek historian whose account makes Marathon unusually recoverable while leaving Persian perspective asymmetrical.
 - [Miltiades](entities/Miltiades.md) — Athenian commander whose road-blocking strategy and cavalry-window attack plan anchor the Marathon reconstruction.
 - [Darius I](entities/DariusI.md) — Persian king whose revenge motive frames the punitive expedition against Eretria and Athens before Marathon.
+- [Cyrus the Great](entities/CyrusTheGreat.md) — Persian founder figure whose conquests of Lydia, Sardis, and Babylon create the imperial inheritance behind Darius's Marathon prehistory.
+- [Aristagoras](entities/Aristagoras.md) — Miletian ruler whose failed Naxos expedition and tactical democratic turn help launch the Ionian Revolt.
+- [Histias](entities/Histias.md) — Miletian tyrant and Persian client whose loyalty, court removal, and suspected intrigue shape the Ionian Revolt branch.
+- [Miletus](entities/Miletus.md) — Ionian city whose instability launches the revolt and whose destruction warns Athens about Persian punishment.
+- [Sardis](entities/Sardis.md) — Former Lydian and Persian satrapal center whose burning by Ionians, Athenians, and Eretrians provokes Darius's revenge.
 - [Hippias / Athenian Tyrant](entities/HippiasAthenianTyrant.md) — Exiled Athenian tyrant whose presence with the Persians makes Marathon a restored-tyranny threat.
 - [Pheidippides](entities/Pheidippides.md) — Athenian runner whose Sparta mission, Pan encounter, and later victory-run legend show Marathon source layering.
 - [Pan / Greek God](entities/PanGreekGod.md) — Greek god linked to Pheidippides, panic, and Marathon's religious-memory layer.
@@ -12171,6 +12177,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Battle of Marathon](concepts/BattleOfMarathon.md) — 490 BC battle treated as Athenian containment, cavalry-window attack, tactical risk, city-saving return march, and later memory object.
 - [Athenian Democracy](concepts/AthenianDemocracy.md) — Marathon-contingency concept for Athens' fragile democratic and cultural future under Persian and tyrant-restoration threat.
 - [Greco-Persian War Memory](concepts/GrecoPersianWarMemory.md) — Later interpretation of Marathon and related conflicts as freedom-versus-despotism memory, qualified by source and empire context.
+- [Ionian Revolt](concepts/IonianRevolt.md) — Pre-Marathon revolt linking Miletian elite politics, Athenian intervention, Sardis, Miletus, and Darius's retaliation.
+- [Achaemenid Imperial Order Ideology](concepts/AchaemenidImperialOrderIdeology.md) — Persian order-versus-lie frame used by the episode to explain Darius's imperial legitimacy and punishment logic.
 - [Neurodivergent AI Augmentation](concepts/NeurodivergentAIAugmentation.md) — AI use that reduces friction between atypical cognitive strengths and conventional work demands.
 - [ADHD Hyperfocus AI Workflow](concepts/ADHDHyperfocusAIWorkflow.md) — AI-supported workflow for entering, sustaining, and converting ADHD hyperfocus into output.
 - [Outcome-Driven AI Workflow](concepts/OutcomeDrivenAIWorkflow.md) — work-design pattern that judges AI use by useful results rather than prescribed process.

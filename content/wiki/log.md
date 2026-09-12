@@ -2089,7 +2089,6 @@ Added source note for the 9 CE Wang Mang accession-consolidation backfill on fiv
 Added source note for the Duanwen episode on Taiwan nightjar livestream outrage, introduced common and white-vented mynas, native/alien/invasive species boundaries, driver-versus-passenger causality, and humane differentiated management. Created Xu Zhengfu, Feng Mengjie, Taiwan myna species pages, Taiwan Nighthawk, Invasive Species Moralization, Native-Alien Species Boundary, Driver-Passenger Invasion Model, and Taiwan Myna Management; updated Duanwen and Invasive Species Management. No settled contradiction found; Taiwan myna population impacts, livestream egg causality, and intervention efficacy remain source-scoped.
 
 Ran lint. See lint-report.md for details.
-
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会
 
 Added source note, updated Du Qin, and created Harem Succession Risk Control plus Western Han Huhanye, Fuzhulei Ruodi Chanyu, and Wang Zhaojun pages.
@@ -17751,6 +17750,7 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
 ## [2026-09-12] ingest | VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！
 
 Added source page for a 这病说来话长 episode with 子涵医生 on hantavirus outbreak risk, subtype differences, rodent reservoirs, transmission routes, pulmonary and renal syndrome red flags, cleanup prevention, vaccination scope, and public-health information triage. Created Zihan Doctor, Hantavirus Public Risk Triage, Rodent-Borne Infection Prevention, Hemorrhagic Fever With Renal Syndrome Escalation, Hantavirus Pulmonary Syndrome Escalation, and Public Health Information Triage pages; updated index and overview. No settled contradiction found; outbreak numbers, WHO-event details, vaccine targeting, cleaning specifics, and symptom examples remain source-scoped public medical education.
@@ -18263,6 +18263,16 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-12] ingest | 668. Greece vs Persia: The Rise of the First Superpower (Part 1)
+
+- Added source note for the road to Marathon: Cyrus, Darius, Achaemenid imperial order, the Ionian Revolt, Sardis, Miletus, Athenian intervention, Eretria, and the 490 BC campaign setup.
+- Updated Achaemenid Empire, Darius I, Miltiades, Athens, Battle of Marathon, Athenian Democracy, and Greco-Persian War Memory.
+- Added Cyrus the Great, Aristagoras, Histias, Miletus, Sardis, Ionian Revolt, and Achaemenid Imperial Order Ideology.
 
 ## [2026-09-12] lint | Wiki health check
 

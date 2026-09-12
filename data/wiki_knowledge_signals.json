@@ -3507,9 +3507,9 @@
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
     "AchaemenidEmpire": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -3517,10 +3517,33 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
         }
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/achaemenidempire/"
+    },
+    "AchaemenidImperialOrderIdeology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/achaemenidimperialorderideology/"
     },
     "AcquiredTraitInheritanceBoundary": {
       "episode_count": 1,
@@ -6968,6 +6991,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/argentina/"
     },
+    "Aristagoras": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/aristagoras/"
+    },
     "AristionAthens": {
       "episode_count": 1,
       "show_count": 1,
@@ -7305,9 +7344,9 @@
       "url": "/wiki/entities/athena/"
     },
     "AthenianDemocracy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -7315,15 +7354,22 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
         }
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/atheniandemocracy/"
     },
     "Athens": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT3125075511 [GLT3125075511].md",
@@ -7338,6 +7384,13 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
         }
       ],
       "updated": "2026-09-12",
@@ -9249,9 +9302,9 @@
       "url": "/wiki/entities/battleofloos/"
     },
     "BattleOfMarathon": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -9259,6 +9312,13 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
         }
       ],
       "updated": "2026-09-12",
@@ -19997,6 +20057,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/cyberport/"
     },
+    "CyrusTheGreat": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/cyrusthegreat/"
+    },
     "DCFValuationAsNarrative": {
       "episode_count": 1,
       "show_count": 1,
@@ -20426,9 +20502,9 @@
       "url": "/wiki/concepts/dardanellesstrategicshortcut/"
     },
     "DariusI": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -20436,6 +20512,13 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
         }
       ],
       "updated": "2026-09-12",
@@ -38442,9 +38525,9 @@
       "url": "/wiki/concepts/greaterbayareacinema/"
     },
     "GrecoPersianWarMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -38452,6 +38535,13 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
         }
       ],
       "updated": "2026-09-12",
@@ -42254,6 +42344,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/hippiasatheniantyrant/"
+    },
+    "Histias": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/histias/"
     },
     "HistoricalAmbiguityInMainstreamCinema": {
       "episode_count": 1,
@@ -47514,6 +47620,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/inwardlookingselfcultivation/"
+    },
+    "IonianRevolt": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/ionianrevolt/"
     },
     "IranSanctions": {
       "episode_count": 4,
@@ -62679,6 +62801,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/mileswilliams/"
     },
+    "Miletus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/miletus/"
+    },
     "MilitarizedAITechnologyBlocRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -62816,9 +62954,9 @@
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
     },
     "Miltiades": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT2696648260 [GLT2696648260].md",
@@ -62826,6 +62964,13 @@
           "show": "The Rest Is History",
           "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
           "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        },
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
         }
       ],
       "updated": "2026-09-12",
@@ -80058,6 +80203,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/sarchimoryunnancoffee/"
+    },
+    "Sardis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT8965800182 [GLT8965800182].md",
+          "key": "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182",
+          "show": "The Rest Is History",
+          "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
+          "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/sardis/"
     },
     "SaturnBird": {
       "episode_count": 1,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7154
+wiki_total_pages: 7156
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -95,6 +95,9 @@ wiki_pages:
   - key: "AcetylcholineFocusSupport"
     title: "Acetylcholine Focus Support"
     url: "/wiki/concepts/acetylcholinefocussupport/"
+  - key: "AchaemenidImperialOrderIdeology"
+    title: "Achaemenid Imperial Order Ideology"
+    url: "/wiki/concepts/achaemenidimperialorderideology/"
   - key: "AchievementPressureMentalHealth"
     title: "Achievement Pressure Mental Health"
     url: "/wiki/concepts/achievementpressurementalhealth/"

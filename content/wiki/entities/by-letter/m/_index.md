@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9838
+wiki_total_pages: 9843
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "MilesWilliams"
     title: "Miles Williams"
     url: "/wiki/entities/mileswilliams/"
+  - key: "Miletus"
+    title: "Miletus"
+    url: "/wiki/entities/miletus/"
   - key: "MilkBar"
     title: "Milk Bar"
     url: "/wiki/entities/milkbar/"
