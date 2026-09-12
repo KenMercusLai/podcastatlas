@@ -6,22 +6,26 @@ tags: [history, western-han, officials]
 sources:
   - zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho
   - zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb
+  - zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-张敞 / Zhang Chang enters the wiki through [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] as a Western Han official proposed by [[ZhengPengWesternHan|郑朋]] as a possible crown-prince teacher under [[HanYuandi|汉元帝]]. [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] backfills the earlier career problem behind that judgment: Zhang is a highly effective Jingzhao Yin and anti-bandit official, but he also executes [[XuShunWesternHan|徐顺]] after Xu's [[FiveDayJingzhao|五日京兆]] remark, exposing how his public authority can be captured by private anger.
+张敞 / Zhang Chang enters the wiki through [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] as a Western Han official proposed by [[ZhengPengWesternHan|郑朋]] as a possible crown-prince teacher under [[HanYuandi|汉元帝]]. [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] backfills the earlier career problem behind that judgment: Zhang is a highly effective Jingzhao Yin and anti-bandit official, but he also executes [[XuShunWesternHan|徐顺]] after Xu's [[FiveDayJingzhao|五日京兆]] remark, exposing how his public authority can be captured by private anger. [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] adds a different side of Zhang: he uses [[HuangBaWesternHan|黄霸]]'s mistaken heque omen to warn [[EmperorXuanOfHan|汉宣帝]] against false performance signals and local omen fabrication.
 
 ## Current Profile
 
-The combined source set now makes Zhang a talent-virtue boundary case rather than only a colorful informal official. Hanji 458 presents him as a serious public-order administrator under [[EmperorXuanOfHan|汉宣帝]]: he cleans up capital crime, attacks powerful protected networks, and later pacifies Jizhou and Taiyuan after his dismissal. Xuan's decision to recall him after the Xu Shun case shows that Zhang's practical value remains real even after a grave legal-political failure.
+The combined source set now makes Zhang a talent-virtue boundary case rather than only a colorful informal official. Hanji 454 presents him as an irreverent but useful corrector: he keeps heque birds at home, recognizes Huang Ba's mistaken "divine bird" as a political embarrassment, and writes a memorial arguing that the chancellor's evaluation preferences could encourage local officials to package fake moral achievements. The source therefore adds administrative skepticism and incentive awareness to his profile before the later anger-driven punishment case.
+
+Hanji 458 presents him as a serious public-order administrator under [[EmperorXuanOfHan|汉宣帝]]: he cleans up capital crime, attacks powerful protected networks, and later pacifies Jizhou and Taiyuan after his dismissal. Xuan's decision to recall him after the Xu Shun case shows that Zhang's practical value remains real even after a grave legal-political failure.
 
 The same source also makes his moral risk explicit. After the Yang Yun / 杨恽 case creates rumors that Zhang will be removed, Xu Shun refuses an assignment and says Zhang is only a five-day Jingzhao. Zhang imprisons, tortures, taunts, and executes Xu before seasonal execution limits can intervene. His later memorial admits that he used law to vent anger, even while presenting Xu as an ungrateful subordinate. Hanji 469 then becomes easier to read: Xiao Wangzhi acknowledges Zhang's ability in difficult affairs, but judges him insufficiently learned and dignified for crown-prince instruction. The host's eyebrow-painting anecdote still portrays Zhang as self-possessed under social judgment, but Hanji 458 prevents that composure from becoming a full moral vindication.
 
 ## Key Characteristics
 
 - Capable Western Han official whose practical strength lies in public-order administration, difficult local governance, and breaking protected criminal networks.
+- Irreverent court critic who turns Huang Ba's heque mistake into a warning about distorted local reporting incentives.
 - Jingzhao Yin who becomes entangled in the Yang Yun aftermath and enemy efforts to remove him.
 - Superior who kills Xu Shun after a contemptuous "five-day Jingzhao" remark, admitting afterward that he used law to vent anger.
 - Flawed but reusable crisis official whom Emperor Xuan dismisses for abuse and later recalls for Jizhou disorder.
@@ -31,6 +35,9 @@ The same source also makes his moral risk explicit. After the Yang Yun / 杨恽 
 ## Evidence
 
 Capability and appointment:
+- [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] says Zhang Chang recognizes that Huang Ba is searching for auspicious signs and uses the heque incident to expose the risk.
+- [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] says his memorial warns that Huang Ba's questions lead local officials to supply exemplary moral indicators.
+- [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] says Zhang argues that governance should remain grounded in state law rather than improvised local displays.
 - [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] says Zhang serves nine years as Jingzhao Yin, quickly improves capital security, and attacks powerful criminal networks without being framed as merely negligent or lazy.
 - [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] says Emperor Xuan does not want to remove Zhang after the Yang Yun case because Zhang is useful at governing thieves and powerful households.
 - [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] says Xuan recalls Zhang after renewed disorder, sends him to Jizhou as inspector, and Zhang suppresses protected bandit networks before later clearing Taiyuan.
@@ -47,10 +54,11 @@ Self-possession:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 469 and Hanji 458. It does not reconstruct Zhang Chang's full offices, legal record, every administrative achievement, or the historical development of the eyebrow-painting anecdote. Hanji 458's moral judgment is deliberately mixed: Xu Shun's contempt is foolish and exposed, but Zhang's execution of him remains an anger-driven abuse of public punishment rather than a clean discipline case.
+This page is source-scoped to Hanji 469, Hanji 458, and Hanji 454. It does not reconstruct Zhang Chang's full offices, legal record, every administrative achievement, full memorial text, or the historical development of the eyebrow-painting anecdote. Hanji 454 shows useful institutional warning; Hanji 458's moral judgment is deliberately mixed: Xu Shun's contempt is foolish and exposed, but Zhang's execution of him remains an anger-driven abuse of public punishment rather than a clean discipline case.
 
 ## What Changed
 
+- Added Hanji 454's heque memorial layer: Zhang exposes Huang Ba's omen mistake and criticizes distorted local-performance incentives.
 - Added Hanji 458's earlier career layer: Jingzhao Yin effectiveness, Xu Shun's "five-day Jingzhao" remark, anger-driven execution, dismissal, and later recall for Jizhou and Taiyuan disorder.
 - Reframed Zhang from simply competent-but-informal into a clearer talent-virtue distinction case.
 
@@ -58,6 +66,8 @@ This page is source-scoped to Hanji 469 and Hanji 458. It does not reconstruct Z
 
 - [[HanYuandi|汉元帝]] - ruler who consults Xiao Wangzhi and summons Zhang toward office.
 - [[EmperorXuanOfHan|汉宣帝]] - ruler who dismisses Zhang for the Xu Shun case and later recalls him for disorder suppression.
+- [[HuangBaWesternHan|黄霸]] - chancellor whose heque mistake Zhang turns into a governance warning.
+- [[LocalAuspiciousOmenFabrication|地方祥瑞造作]] - omen-reporting distortion Zhang resists in Hanji 454.
 - [[XiaoWangzhiWesternHan|萧望之]] - evaluator who distinguishes Zhang's practical ability from crown-prince-teacher suitability.
 - [[ZhengPengWesternHan|郑朋]] - recommender who brings Zhang into the episode's court discussion.
 - [[XuShunWesternHan|徐顺]] - subordinate whose contemptuous remark Zhang punishes lethally.

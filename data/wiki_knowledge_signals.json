@@ -10170,6 +10170,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/binarybiotechplatformoptionality/"
     },
+    "BingJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？ [lrJgft-S8Oi3YT3LRNsh0_M20Sxj].md",
+          "key": "zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/bingjiwesternhan/"
+    },
     "BingZunLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -45843,9 +45859,9 @@
       "url": "/wiki/entities/huanyueasternhan/"
     },
     "HuangBaWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场 [lhaztu17UlZaartaA6y0eHAqvnzx].md",
@@ -45853,6 +45869,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场",
           "url": "/wiki/sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？ [lrJgft-S8Oi3YT3LRNsh0_M20Sxj].md",
+          "key": "zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj/"
         }
       ],
       "updated": "2026-09-13",
@@ -59752,9 +59775,9 @@
       "url": "/wiki/concepts/localaiworkstation/"
     },
     "LocalAuspiciousOmenFabrication": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅 [lvEvnahCxShGBz5zYqBAF36PA7Nk].md",
@@ -59762,9 +59785,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》878丨不受约束的权力，害人不浅",
           "url": "/wiki/sources/zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？ [lrJgft-S8Oi3YT3LRNsh0_M20Sxj].md",
+          "key": "zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/localauspiciousomenfabrication/"
     },
     "LocalFaultAttributionPacification": {
@@ -108891,9 +108921,9 @@
       "url": "/wiki/entities/zhangchangnanyanglatehan/"
     },
     "ZhangChangWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
@@ -108908,6 +108938,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？ [lrJgft-S8Oi3YT3LRNsh0_M20Sxj].md",
+          "key": "zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj/"
         }
       ],
       "updated": "2026-09-13",

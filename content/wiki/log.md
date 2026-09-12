@@ -18506,6 +18506,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？
+
+Added source note plus Bing Ji, Huang Ba, Zhang Chang, and local auspicious-omen fabrication updates. Key claims: Huang Ba's chancellor-role insecurity turns an ordinary heque bird into possible divine evidence, Zhang Chang warns that visible evaluation preferences can induce false local performance reporting, and Bing Ji's quiet merit frames the contrast.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场
 
 Added source note plus Huang Ba, Du Yannian, Shi Gao, and Sensitive Personnel Recommendation Boundary updates. Key claims: Huang Ba's recommendation of Shi Gao for taiwei crosses Xuan's appointment and military-authority boundary; Shi Gao's trusted outer-relative position makes the advice politically sensitive; delayed non-punishment functions as a warning.
@@ -18647,6 +18651,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧
 
 Added source note plus Laozi, Confucius, Daodejing, and Daoist cultivation concept updates. Key claims: Laozi critiques forced renyi as potentially disturbing nature, teaches natural wuwei and observing sameness, and reframes life/death, right/wrong, noble/low, and honor/disgrace as changing states within the Way.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

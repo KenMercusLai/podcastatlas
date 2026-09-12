@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？](sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj.md) — 芮淇讲透资治通鉴 episode on Huang Ba mistaking Zhang Chang's heque bird for a divine omen, Zhang's warning about false local performance signals, and Bing Ji as a quiet-merit contrast.
 - [《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场](sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx.md) — 芮淇讲透资治通鉴 episode on Huang Ba recommending Shi Gao for taiwei, Han Xuan's rebuke over personnel and military authority, and the workplace boundary around sensitive appointment advice.
 - [《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子](sources/zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5.md) — 芮淇讲透资治通鉴 episode on Guangling king Liu Xu's curse-based succession fantasy, Huhanye's submission note, and Geng Shouchang's grain transport and Changping granary reforms.
 - [《资治通鉴·汉纪》456-2｜这两位圣人的论道，藏着人类的终极秘密](sources/zizhi-tongjian-hanji-456-2-zhe-liangwei-shengren-de-lundao-cangzhe-renlei-de-zhongji-mimi-lsjl6awahc0gyhtwh3tagh1utqx4.md) — 芮淇讲透资治通鉴 episode on Confucius's first visit to Laozi, axial-age framing, natural wuwei, water virtue, non-contention, and removing pride and desire.
@@ -2337,7 +2338,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
-- [Huang Ba (Western Han)](entities/HuangBaWesternHan.md) — Western Han chancellor whose failed recommendation of Shi Gao for taiwei illustrates sensitive personnel-boundary overreach.
+- [Huang Ba (Western Han)](entities/HuangBaWesternHan.md) — Western Han chancellor whose bird-omen embarrassment and failed Shi Gao recommendation illustrate reputation pressure, false performance signals, and sensitive personnel-boundary overreach.
+- [丙吉 / Bing Ji (Western Han)](entities/BingJiWesternHan.md) — Western Han chancellor used by Hanji 454 as a quiet-merit contrast to Huang Ba's reputation-driven omen mistake.
 - [Du Yannian (Western Han)](entities/DuYannianWesternHan.md) — Western Han official appointed yushi dafu by Emperor Xuan in the Hanji 455 closing notice.
 - [广陵王刘须 / Liu Xu, Guangling King (Western Han)](entities/LiuXuGuanglingKingWesternHan.md) — Han Wudi's son and Guangling king whose throne ambition becomes repeated curse-based succession fantasy and ends in exposure, witness killing, and suicide.
 - [耿寿昌 / Geng Shouchang (Western Han)](entities/GengShouchangWesternHan.md) — Western Han grain official whose proposals combine nearer capital provisioning with Changping granaries for public price stabilization.
@@ -13605,7 +13607,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Coerced Imperial Marriage / 强制赐婚](concepts/CoercedImperialMarriage.md) — Pattern where imperial marriage interest becomes coercive command pressure, grounded in Emperor Huan's fatal pressure on Yang Qiao and qualified by Liu Xiu's accepted Song Hong refusal.
 - [Imperial Marriage Inspection / 皇室婚前身体检视](concepts/ImperialMarriageInspection.md) — Huan-era marriage-selection procedure where Liang Ying's body, appearance, gait, odor, and voice become court-assessed eligibility criteria.
 - [Military Reward Eunuch Gatekeeping / 宦官门槛下的军功赏罚](concepts/MilitaryRewardEunuchGatekeeping.md) — Late-Han pattern where frontier merit is solicited, reduced, or reformatted because eunuch-side access shapes the reward channel.
-- [Local Auspicious Omen Fabrication / 地方祥瑞造作](concepts/LocalAuspiciousOmenFabrication.md) — Pattern where local reporting channels turn rumor, joke, or anomaly into an auspicious-omen report for upward political value.
+- [Local Auspicious Omen Fabrication / 地方祥瑞造作](concepts/LocalAuspiciousOmenFabrication.md) — Pattern where local reporting channels or superior preferences turn rumor, joke, ordinary anomaly, or surface achievement into auspicious evidence for upward political value.
 - [颂圣不合群风险 / Coerced Praise Conformity Risk](concepts/CoercedPraiseConformityRisk.md) — Pattern where direct contradiction, silence, skepticism, or distress reporting becomes politically actionable inside rewarded praise and auspicious-reporting environments.
 - [Controllable Child Accession / 可控幼主继位](concepts/ControllableChildAccession.md) — Late-Han succession pattern where Yan, Liang, and Dou powerholders prefer young legitimate rulers because age makes behind-the-throne control easier.
 - [Palace Favorite Protection Fragility / 宫廷宠幸保护脆弱性](concepts/PalaceFavoriteProtectionFragility.md) — Huan harem pattern where favor, formal title, and institutional protection split, leaving palace victories fragile before and after the patron's death.
