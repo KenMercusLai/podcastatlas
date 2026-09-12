@@ -7451,6 +7451,10 @@
     "title": "战场胜利到建国秩序 / Battlefield Victory To Founding Order",
     "url": "/wiki/concepts/battlefieldvictorytofoundingorder/"
   },
+  "Bayer": {
+    "title": "Bayer",
+    "url": "/wiki/entities/bayer/"
+  },
   "BayeuxTapestry": {
     "title": "Bayeux Tapestry",
     "url": "/wiki/entities/bayeuxtapestry/"
@@ -11514,6 +11518,10 @@
   "Chevron": {
     "title": "Chevron",
     "url": "/wiki/entities/chevron/"
+  },
+  "ChevronDoctrine": {
+    "title": "Chevron Doctrine",
+    "url": "/wiki/concepts/chevrondoctrine/"
   },
   "Chewy": {
     "title": "Chewy",
@@ -23494,6 +23502,10 @@
   "GPT4": {
     "title": "GPT-4",
     "url": "/wiki/entities/gpt4/"
+  },
+  "GPT55Cyber": {
+    "title": "GPT 5.5 Cyber",
+    "url": "/wiki/entities/gpt55cyber/"
   },
   "GPT56": {
     "title": "GPT-5.6",
@@ -40959,6 +40971,10 @@
     "title": "Monrovia",
     "url": "/wiki/entities/monrovia/"
   },
+  "Monsanto": {
+    "title": "Monsanto",
+    "url": "/wiki/entities/monsanto/"
+  },
   "MonsoonSeasonalSocialOrder": {
     "title": "Monsoon Seasonal Social Order / 季风季节性社会秩序",
     "url": "/wiki/concepts/monsoonseasonalsocialorder/"
@@ -43766,6 +43782,10 @@
   "OpenAIFrontier": {
     "title": "OpenAI Frontier",
     "url": "/wiki/entities/openaifrontier/"
+  },
+  "OpenAINonprofitConversionDispute": {
+    "title": "OpenAI Nonprofit Conversion Dispute",
+    "url": "/wiki/concepts/openainonprofitconversiondispute/"
   },
   "OpenBionics": {
     "title": "Open Bionics",
@@ -47623,6 +47643,10 @@
     "title": "Product Led Willingness To Pay",
     "url": "/wiki/concepts/productledwillingnesstopay/"
   },
+  "ProductLiabilityFederalPreemption": {
+    "title": "Product Liability Federal Preemption",
+    "url": "/wiki/concepts/productliabilityfederalpreemption/"
+  },
   "ProductNamingAsPositioning": {
     "title": "Product Naming As Positioning",
     "url": "/wiki/concepts/productnamingaspositioning/"
@@ -50487,6 +50511,10 @@
     "title": "报复性政治恐怖 / Retaliatory Political Terror",
     "url": "/wiki/concepts/retaliatorypoliticalterror/"
   },
+  "Retatrutide": {
+    "title": "Retatrutide",
+    "url": "/wiki/concepts/retatrutide/"
+  },
   "RetirementCashFlowSecurity": {
     "title": "Retirement Cash-Flow Security",
     "url": "/wiki/concepts/retirementcashflowsecurity/"
@@ -51410,6 +51438,10 @@
   "RotomoldedCoolerCategory": {
     "title": "Rotomolded Cooler Category",
     "url": "/wiki/concepts/rotomoldedcoolercategory/"
+  },
+  "Roundup": {
+    "title": "Roundup",
+    "url": "/wiki/entities/roundup/"
   },
   "Route66": {
     "title": "Route 66",
@@ -69950,6 +69982,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105": {
     "title": "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215": {
+    "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats-42416310": {
     "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",

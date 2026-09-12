@@ -17,7 +17,8 @@ sources:
   - e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793
   - guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f
   - all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400
-last_updated: 2026-08-29
+  - all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215
+last_updated: 2026-09-12
 ---
 
 # Data Center Power Bottleneck
@@ -26,7 +27,7 @@ last_updated: 2026-08-29
 The data center power bottleneck is the constraint that AI and cloud infrastructure cannot scale on GPUs, capital, or demand alone; it also needs energizable sites, grid interconnection, generation, transmission, cooling, equipment, labor, financing, local consent, and continuity planning.
 
 ## Current Synthesis
-Across the bounded sources, power is one of the most durable limits on AI deployment. The constraint appears at several levels at once: companies need sites with enough electricity, utilities need generation and grid capacity, communities contest cost and environmental burdens, financiers need credible utilization and customer demand, and states worry about strategic resilience. The new All-In episode adds a national-competitiveness version of the claim: energy availability can cap AI overbuild, grid reliability becomes a White House-level issue, and Taiwan's energy reserve risk makes semiconductor and AI continuity inseparable.
+Across the bounded sources, power is one of the most durable limits on AI deployment. The constraint appears at several levels at once: companies need sites with enough electricity, utilities need generation and grid capacity, communities contest cost and environmental burdens, financiers need credible utilization and customer demand, and states worry about strategic resilience. The newer All-In sources add two related forms: energy availability can cap AI overbuild, and the gap between announced data centers and actually energizable projects can shift bargaining power toward hyperscalers with operating infrastructure.
 
 ## Key Claims
 - AI infrastructure is constrained by energizable capacity, not only by chips or model demand; power, land, interconnection, turbines, cooling, fiber, skilled labor, and permitting all shape build speed.
@@ -35,6 +36,7 @@ Across the bounded sources, power is one of the most durable limits on AI deploy
 - Electricity affordability and community consent are social-license constraints; households, utilities, local governments, and politicians may resist data centers if costs, water, jobs, noise, or tax incentives look unfair.
 - Power bottlenecks are geopolitical and strategic because U.S. grid growth, domestic chip production, Taiwan energy reserves, export-control choices, and Chinese supernode economics all affect AI resilience.
 - Orbital or space-based compute is an exploratory response to terrestrial power limits, but launch cost, thermal management, radiation, chip hardening, bandwidth, and demand keep it speculative.
+- Power scarcity can make model-company underperformance ambiguous because weak growth may reflect insufficient deliverable tokens rather than only weak demand.
 
 ## Evidence
 - Physical capacity limits: [[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]], [[all-in-with-chamath-jason-sacks-friedberg-the-future-of-everything-what-ceos-of-circle-crowdstrike-more-see-coming-in-2026-39870920]], and [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] frame data centers as physical infrastructure projects limited by land, heat, turbines, workers, grid constraints, and power supply.
@@ -42,6 +44,7 @@ Across the bounded sources, power is one of the most durable limits on AI deploy
 - Market and financing implications: [[all-in-with-chamath-jason-sacks-friedberg-more-trillion-dollar-ipos-anthropic-3t-zucks-price-war-china-ends-open-source-trump-accounts-42041390]], [[all-in-with-chamath-jason-sacks-friedberg-anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback-42442555]], [[e230-1-wan-yi-shouru-yuqi-beihou-yingweida-de-dianfeng-yu-ruanlei-d97446f1-d6e3-4894-89d1-dca0a362b10b]], and [[all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400]] connect power to AI token demand, Nvidia financing, dark-GPU overbuild risk, AI valuation corrections, and cost-per-token economics.
 - Cost shifting and local consent: [[tech-20260116-0116-mp-tech-pod-128-tech-20260116-0116-mp-tech-pod-128]], [[indicators-of-2025-and-what-to-watch-in-2026]], [[xingbake-huiying-mixue-bingcheng-daigong-deng-chuanwen-li-ning-fouren-yu-mubapei-qianyue-1006054195]], and [[all-in-with-chamath-jason-sacks-friedberg-inside-americas-ai-strategy-infrastructure-regulation-and-global-competition-39846955]] show electricity affordability, Microsoft cost pledges, canceled projects, data-center hiring, household bills, tax incentives, and local backlash.
 - Materials, grid, and semiconductor-system constraints: [[all-in-with-chamath-jason-sacks-friedberg-dan-dreyfus-americas-critical-minerals-crisis-is-here-41594225]], [[guochan-ai-suanli-neng-ping-chaojiedian-wandao-chaoche-ma-waic-shendu-guancha-s10e23-a6c6ab3e-72b2-470b-aefd-04b19679d37f]], and [[all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400]] tie AI power needs to copper, grid equipment, domestic supernodes, rack power, cooling, U.S. energy growth, and Taiwan semiconductor continuity.
+- Construction and equipment delays: [[all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215]] adds turbines, transformers, grid infrastructure, supply-chain delays, permitting, and the difference between announced and actually under-construction data centers.
 - Orbital alternative: [[e239-spacex-yao-rang-taikong-suanli-cong-kehuan-zouxiang-xianshi-dan-ta-huasuan-ma-259291f5-2715-4dde-bcfe-b5beb4df5793]] and [[all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400]] discuss space-based compute, orbital solar access, thermal radiation, launch economics, radiation, bit flips, chip hardening, and whether orbital inference or training can compete with terrestrial sites.
 
 ## Counterevidence & Qualifications
@@ -52,6 +55,7 @@ Power is not the only AI bottleneck. Model demand, customer willingness to pay, 
 - Added Gelsinger's argument that energy capacity is a natural ceiling on AI overbuild and token-economics improvement.
 - Added White House grid reliability and Taiwan energy-reserve risk as national and geopolitical forms of the power bottleneck.
 - Added the new source's orbital data-center discussion as a speculative extension of the existing space-compute branch.
+- Added the missed-targets episode's argument that power scarcity can advantage hyperscalers and obscure whether model-company shortfalls are demand or supply problems.
 
 ## Related Concepts
 - [[AIEnergyBottleneck]] - broader energy constraint that includes model training, inference, and power-generation capacity.

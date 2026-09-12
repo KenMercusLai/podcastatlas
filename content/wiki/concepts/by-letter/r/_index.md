@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7189
+wiki_total_pages: 7193
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -590,6 +590,9 @@ wiki_pages:
   - key: "RetainerRiskConversion"
     title: "Retainer Risk Conversion / 门客风险转化"
     url: "/wiki/concepts/retainerriskconversion/"
+  - key: "Retatrutide"
+    title: "Retatrutide"
+    url: "/wiki/concepts/retatrutide/"
   - key: "RetirementCashFlowSecurity"
     title: "Retirement Cash-Flow Security"
     url: "/wiki/concepts/retirementcashflowsecurity/"

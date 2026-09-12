@@ -17763,6 +17763,10 @@ Added source on Han Yuandi's Yongguang 3-4 court, fiscal retrenchment, Zhou Kan 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215`; created `GPT55Cyber`, `OpenAINonprofitConversionDispute`, `Retatrutide`, `Bayer`, `Monsanto`, `Roundup`, `ProductLiabilityFederalPreemption`, and `ChevronDoctrine`; updated `OpenAIComputeStrategy`, `Codex`, `DataCenterPowerBottleneck`, `GLP1Agonists`, `GLP1BodyCompositionStack`, `EliLilly`, `VibeCoding`, `index`, and `overview`. No settled contradiction found; OpenAI targets, model claims, capex figures, clinical data, approval timing, and Supreme Court outcomes remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩”
 
 Added source note for the layered Jianghu reading across court politics, literati release, commercial exit, and marginal survival. Created Layered Jianghu Social Fields; updated Historical Jianghu Space, Street Jianghu Society, Informal Jianghu Order, Jianghu Scam Craft, and Jianghu Survival Anxiety with the source's observation, speech, hunger, and exit-judgment themes.
@@ -18344,6 +18348,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

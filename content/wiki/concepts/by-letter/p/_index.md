@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7189
+wiki_total_pages: 7193
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1382,6 +1382,9 @@ wiki_pages:
   - key: "ProductLedWillingnessToPay"
     title: "Product Led Willingness To Pay"
     url: "/wiki/concepts/productledwillingnesstopay/"
+  - key: "ProductLiabilityFederalPreemption"
+    title: "Product Liability Federal Preemption"
+    url: "/wiki/concepts/productliabilityfederalpreemption/"
   - key: "ProductNamingAsPositioning"
     title: "Product Naming As Positioning"
     url: "/wiki/concepts/productnamingaspositioning/"

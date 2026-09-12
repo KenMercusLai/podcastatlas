@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9863
+wiki_total_pages: 9867
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -179,6 +179,9 @@ wiki_pages:
   - key: "Battlecode"
     title: "Battlecode"
     url: "/wiki/entities/battlecode/"
+  - key: "Bayer"
+    title: "Bayer"
+    url: "/wiki/entities/bayer/"
   - key: "BayeuxTapestry"
     title: "Bayeux Tapestry"
     url: "/wiki/entities/bayeuxtapestry/"

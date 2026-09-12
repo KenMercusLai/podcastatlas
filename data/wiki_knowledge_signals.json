@@ -9478,6 +9478,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/battlefieldfeintandlure/"
     },
+    "Bayer": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/bayer/"
+    },
     "BayeuxTapestry": {
       "episode_count": 1,
       "show_count": 1,
@@ -14951,6 +14967,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/chesterwilliams/"
     },
+    "ChevronDoctrine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/chevrondoctrine/"
+    },
     "ChhatralRinpoche": {
       "episode_count": 1,
       "show_count": 1,
@@ -16873,9 +16905,9 @@
       "url": "/wiki/entities/coatue/"
     },
     "Codex": {
-      "episode_count": 16,
-      "show_count": 6,
-      "source_note_count": 16,
+      "episode_count": 17,
+      "show_count": 7,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "Vol. 172 Codex 卖重置套餐，DeepSeek 峰谷调价，苹果重回 5 万亿等 (1) [6685-1].md",
@@ -16988,9 +17020,16 @@
           "show": "捕蛇者说",
           "title": "Ep 59. 2026 Agent 编程新趋势",
           "url": "/wiki/sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/codex/"
     },
     "CodingDemocratization": {
@@ -20968,9 +21007,9 @@
       "url": "/wiki/concepts/datacenteronsitepower/"
     },
     "DataCenterPowerBottleneck": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 6,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback [42442555].md",
@@ -21062,9 +21101,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/datacenterpowerbottleneck/"
     },
     "DataEngineerAgentSupervision": {
@@ -26392,6 +26438,57 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/elevenlabs/"
+    },
+    "EliLilly": {
+      "episode_count": 6,
+      "show_count": 4,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
+          "key": "wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744",
+          "show": "Economist Podcasts",
+          "title": "Wake-up haul: an Ozempic moment for the brain",
+          "url": "/wiki/sources/wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744/"
+        },
+        {
+          "episode_file": "156.生物医药的2026：当市场不再为BD躁动，中国药企的星辰大海才刚刚展开 [liL-UGrzQ8uVzVIq3f8i-wm9ilUP].md",
+          "key": "156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup",
+          "show": "起朱楼宴宾客",
+          "title": "156.生物医药的2026：当市场不再为BD躁动，中国药企的星辰大海才刚刚展开",
+          "url": "/wiki/sources/156-shengwu-yiyao-de-2026-dang-shichang-bu-zai-wei-bd-zaodong-zhongguo-yaoqi-de-xingchen-dahai-cai-ganggang-zhankai-lil-ugrzq8uvzviq3f8i-wm9ilup/"
+        },
+        {
+          "episode_file": "130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工 [lnau0sacX1jm1t_2LOCDc5NSZAKH].md",
+          "key": "130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh",
+          "show": "起朱楼宴宾客",
+          "title": "130. 谁才是生物医药行业发展的核心驱动力？兼谈创新药产业链的角色分工",
+          "url": "/wiki/sources/130-shui-cai-shi-shengwu-yiyao-hangye-fazhan-de-hexin-qudongli-jiantan-chuangxinyao-chanyelian-de-jiaose-fengong-lnau0sacx1jm1t-2locdc5nszakh/"
+        },
+        {
+          "episode_file": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？ [f14f8686-a6e2-47ea-92c1-ca7e71199f67].md",
+          "key": "e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67",
+          "show": "硅谷101",
+          "title": "E227｜美国医疗市场AI争夺战：巨头押注，创业公司能赢吗？",
+          "url": "/wiki/sources/e227-meiguo-yiliao-shichang-ai-zhengduozhan-jutou-yazhu-chuangye-gongsi-neng-ying-ma-f14f8686-a6e2-47ea-92c1-ca7e71199f67/"
+        },
+        {
+          "episode_file": "vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位 [lmhral0RMq6tohiQdwsGmFapnyN7].md",
+          "key": "vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7",
+          "show": "起朱楼宴宾客",
+          "title": "vol.117.生物医药的2025：抄底中国、研发焦虑和新王继位",
+          "url": "/wiki/sources/vol-117-shengwu-yiyao-de-2025-chaodi-zhongguo-yanfa-jiaolv-he-xinwang-jiwei-lmhral0rmq6tohiqdwsgmfapnyn7/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/elililly/"
     },
     "EliezerGold": {
       "episode_count": 1,
@@ -35831,9 +35928,9 @@
       "url": "/wiki/entities/glm53flash/"
     },
     "GLP1Agonists": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 8,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -35925,15 +36022,22 @@
           "show": "Huberman Lab",
           "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
           "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/glp1agonists/"
     },
     "GLP1BodyCompositionStack": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8380331046 [SCIM8380331046].md",
@@ -35941,10 +36045,33 @@
           "show": "Huberman Lab",
           "title": "Peptides: The Science, Uses & Safety | Dr. Abud Bakri",
           "url": "/wiki/sources/peptides-the-science-uses-safety-dr-abud-bakri-scim8380331046/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/glp1bodycompositionstack/"
+    },
+    "GPT55Cyber": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/gpt55cyber/"
     },
     "GPUComputeAssetBackedFinancing": {
       "episode_count": 4,
@@ -64660,6 +64787,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/monalisafameformation/"
     },
+    "Monsanto": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/monsanto/"
+    },
     "Monticello": {
       "episode_count": 1,
       "show_count": 1,
@@ -68537,9 +68680,9 @@
       "url": "/wiki/concepts/onlineageverification/"
     },
     "OpenAIComputeStrategy": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI CFO Sarah Friar： IPO, AI Rivalries, New Device, and Spending $100B+ on Compute [41508105].md",
@@ -68547,10 +68690,33 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/openaicomputestrategy/"
+    },
+    "OpenAINonprofitConversionDispute": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/openainonprofitconversiondispute/"
     },
     "OpenClosedAIMarketStructure": {
       "episode_count": 1,
@@ -74585,6 +74751,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/productcategoryvelocity/"
     },
+    "ProductLiabilityFederalPreemption": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/productliabilityfederalpreemption/"
+    },
     "ProductVariableJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -78774,6 +78956,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/retaliatorypoliticalterror/"
     },
+    "Retatrutide": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/retatrutide/"
+    },
     "RetirementCashFlowSecurity": {
       "episode_count": 3,
       "show_count": 2,
@@ -80086,6 +80284,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/rotatorcuffexternalrotation/"
+    },
+    "Roundup": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/roundup/"
     },
     "RoyalExecutionLegitimacy": {
       "episode_count": 2,
@@ -94849,9 +95063,9 @@
       "url": "/wiki/concepts/vernacularfemalereligiouswriting/"
     },
     "VibeCoding": {
-      "episode_count": 20,
+      "episode_count": 21,
       "show_count": 9,
-      "source_note_count": 20,
+      "source_note_count": 21,
       "sources": [
         {
           "episode_file": "Vol. 171 假如我们有无限 Token (1) [6682-1].md",
@@ -94992,9 +95206,16 @@
           "show": "All-In with Chamath, Jason, Sacks & Friedberg",
           "title": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
           "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-former-intel-ceo-on-what-went-wrong-whats-next-lovable-ceo-on-the-real-promise-of-vibe-coding-42106400/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze [41123215].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/vibecoding/"
     },
     "VictimForgivenessAgency": {

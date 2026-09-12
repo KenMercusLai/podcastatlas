@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2425
+topic_total_pages: 2429
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -517,6 +517,9 @@ topic_concepts:
   - key: "ChenweiPolitics"
     title: "Chenwei Politics / 谶纬政治"
     url: "/wiki/concepts/chenweipolitics/"
+  - key: "ChevronDoctrine"
+    title: "Chevron Doctrine"
+    url: "/wiki/concepts/chevrondoctrine/"
   - key: "ChildrensMediaValuesDebate"
     title: "Children's Media Values Debate"
     url: "/wiki/concepts/childrensmediavaluesdebate/"
@@ -2176,6 +2179,9 @@ topic_concepts:
   - key: "OpenAIBoardCrisis"
     title: "OpenAI Board Crisis"
     url: "/wiki/concepts/openaiboardcrisis/"
+  - key: "OpenAINonprofitConversionDispute"
+    title: "OpenAI Nonprofit Conversion Dispute"
+    url: "/wiki/concepts/openainonprofitconversiondispute/"
   - key: "OpportunityGeneratingDecentralization"
     title: "Opportunity-Generating Decentralization / 创造机会的去中心化"
     url: "/wiki/concepts/opportunitygeneratingdecentralization/"
@@ -2611,6 +2617,9 @@ topic_concepts:
   - key: "ProceduralizedViolence"
     title: "Proceduralized Violence / 程序化暴力"
     url: "/wiki/concepts/proceduralizedviolence/"
+  - key: "ProductLiabilityFederalPreemption"
+    title: "Product Liability Federal Preemption"
+    url: "/wiki/concepts/productliabilityfederalpreemption/"
   - key: "ProofOfLifeDiplomacy"
     title: "Proof of Life Diplomacy"
     url: "/wiki/concepts/proofoflifediplomacy/"
@@ -6750,6 +6759,9 @@ topic_sources:
   - key: "omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb"
     title: "Omission accomplished: why the Iran-war cycle spins on"
     url: "/wiki/sources/omission-accomplished-why-the-iran-war-cycle-spins-on-6a6c7475aa1642a30f17f1cb/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215"
+    title: "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
   - key: "outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132"
     title: "Outsider chance: ending Sudan's proxy war"
     url: "/wiki/sources/outsider-chance-ending-sudans-proxy-war-6a75b3695d765781a2b1b132/"

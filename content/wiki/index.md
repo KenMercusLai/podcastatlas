@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze](sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215.md) — All-In episode on OpenAI missed targets, Codex versus Claude Code, AI cyber models, hyperscaler capex, retatrutide, and Monsanto/Roundup preemption.
 - [Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti](sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958.md) — Huberman Lab episode with Paul Conti on What's Going Right?, strength-first self-examination, compassionate curiosity, observing self, intentional agency, generative drive, intrusive thoughts, trauma, and happiness without escape.
 - [667. The Mystery of the Mona Lisa](sources/667-the-mystery-of-the-mona-lisa-glt1735270133.md) — The Rest Is History episode on Leonardo da Vinci, Lisa Gherardini, the Mona Lisa's sitter evidence, visual ambiguity, reproduction, the 1911 theft, parody, the Louvre, and museum tourism.
 - [245. 怒江春日，秘境初探](sources/245-nujiang-chunri-mijing-chutan-8221838951-646453.md) — 博物志 episode on a Songtsam Nujiang Gorge route, Three Parallel Rivers geography, minority-region travel ethics, road access, Bingzhongluo religion, Baoshan coffee, and Yunnan travel logistics.
@@ -2301,6 +2302,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Bayer](entities/Bayer.md) — Pharmaceutical and agriculture company exposed to Monsanto/Roundup litigation in the All-In source.
+- [GPT 5.5 Cyber](entities/GPT55Cyber.md) — OpenAI cyber model discussed as a specialist vulnerability-discovery and simulation capability.
+- [Monsanto](entities/Monsanto.md) — Legacy agricultural company connected to Roundup and pesticide-label preemption litigation.
+- [Roundup](entities/Roundup.md) — Pesticide product at the center of Monsanto/Bayer failure-to-warn litigation.
 - [Paul Conti](entities/PaulConti.md) — Psychiatrist and Huberman Lab guest framing mental health through what's going right, compassionate curiosity, observing self, and intentional agency.
 - [What's Going Right?](entities/WhatsGoingRight.md) — Paul Conti book used as the strength-first organizing frame for a Huberman Lab mental-health conversation.
 - [Mona Lisa](entities/MonaLisa.md) — Leonardo portrait of Lisa Gherardini whose fame accumulated through ambiguity, reproduction, theft, parody, and Louvre tourism.
@@ -12168,6 +12173,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Chevron Doctrine](concepts/ChevronDoctrine.md) — Administrative-law deference doctrine referenced in the Roundup preemption discussion.
+- [OpenAI Nonprofit Conversion Dispute](concepts/OpenAINonprofitConversionDispute.md) — Governance and litigation dispute over OpenAI's nonprofit origins and for-profit conversion.
+- [Product Liability Federal Preemption](concepts/ProductLiabilityFederalPreemption.md) — Legal frame for when federal regulatory approval blocks state failure-to-warn claims.
+- [Retatrutide](concepts/Retatrutide.md) — Eli Lilly GLP-1/GIP/glucagon triple-agonist candidate discussed as a next-generation metabolic drug.
 - [Strength-First Self-Examination](concepts/StrengthFirstSelfExamination.md) — Mental-health reflection frame that begins with what is functioning before investigating problems or pain.
 - [Compassionate Curiosity](concepts/CompassionateCuriosity.md) — Self-inquiry stance for examining patterns, trauma, self-talk, and choices without self-attack.
 - [Observing Self Continuity](concepts/ObservingSelfContinuity.md) — Capacity to notice state-dependent versions of the self while holding them in one coherent identity.

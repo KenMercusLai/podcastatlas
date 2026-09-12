@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9863
+wiki_total_pages: 9867
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1133,6 +1133,9 @@ wiki_pages:
   - key: "Monrovia"
     title: "Monrovia"
     url: "/wiki/entities/monrovia/"
+  - key: "Monsanto"
+    title: "Monsanto"
+    url: "/wiki/entities/monsanto/"
   - key: "MonsterBeverage"
     title: "Monster Beverage"
     url: "/wiki/entities/monsterbeverage/"

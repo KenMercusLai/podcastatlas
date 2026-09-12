@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7189
+wiki_total_pages: 7193
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "OpenAIComputeStrategy"
     title: "OpenAI Compute Strategy"
     url: "/wiki/concepts/openaicomputestrategy/"
+  - key: "OpenAINonprofitConversionDispute"
+    title: "OpenAI Nonprofit Conversion Dispute"
+    url: "/wiki/concepts/openainonprofitconversiondispute/"
   - key: "OpenClawForTeams"
     title: "OpenClaw For Teams"
     url: "/wiki/concepts/openclawforteams/"

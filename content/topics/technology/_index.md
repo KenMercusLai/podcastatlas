@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2943
+topic_total_pages: 2946
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2968,6 +2968,9 @@ topic_concepts:
   - key: "OpenAIComputeStrategy"
     title: "OpenAI Compute Strategy"
     url: "/wiki/concepts/openaicomputestrategy/"
+  - key: "OpenAINonprofitConversionDispute"
+    title: "OpenAI Nonprofit Conversion Dispute"
+    url: "/wiki/concepts/openainonprofitconversiondispute/"
   - key: "OperationalDataCapture"
     title: "Operational Data Capture"
     url: "/wiki/concepts/operationaldatacapture/"
@@ -5183,6 +5186,9 @@ topic_entities:
   - key: "GordonMoore"
     title: "Gordon Moore"
     url: "/wiki/entities/gordonmoore/"
+  - key: "GPT55Cyber"
+    title: "GPT 5.5 Cyber"
+    url: "/wiki/entities/gpt55cyber/"
   - key: "GPTWork"
     title: "GPT Work"
     url: "/wiki/entities/gptwork/"
@@ -8364,6 +8370,9 @@ topic_sources:
   - key: "all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105"
     title: "OpenAI CFO Sarah Friar: IPO, AI Rivalries, New Device, and Spending $100B+ on Compute"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-cfo-sarah-friar-ipo-ai-rivalries-new-device-and-spending-100b-on-compute-41508105/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215"
+    title: "OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215/"
   - key: "tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128"
     title: "OpenAI model unintentionally hacks another company's system"
     url: "/wiki/sources/tech-20260724-0724-mp-tech-pod-128-tech-20260724-0724-mp-tech-pod-128/"

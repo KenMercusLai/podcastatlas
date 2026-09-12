@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7189
+wiki_total_pages: 7193
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "ChestPainEmergencyEscalation"
     title: "Chest Pain Emergency Escalation / 胸痛急症升级"
     url: "/wiki/concepts/chestpainemergencyescalation/"
+  - key: "ChevronDoctrine"
+    title: "Chevron Doctrine"
+    url: "/wiki/concepts/chevrondoctrine/"
   - key: "ChildAnimalCrueltyLifeEducation"
     title: "Child Animal Cruelty Life Education / 未成年人虐待动物与生命教育"
     url: "/wiki/concepts/childanimalcrueltylifeeducation/"
