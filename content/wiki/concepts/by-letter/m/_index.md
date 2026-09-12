@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7128
+wiki_total_pages: 7129
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1187,6 +1187,9 @@ wiki_pages:
   - key: "MissionaryMapKnowledgeProduction"
     title: "传教士地图知识生产 / Missionary Map Knowledge Production"
     url: "/wiki/concepts/missionarymapknowledgeproduction/"
+  - key: "MessageRelayPoliticalPower"
+    title: "传话式信息权力 / Message Relay Political Power"
+    url: "/wiki/concepts/messagerelaypoliticalpower/"
   - key: "MissionDrivenFrontierResponsibility"
     title: "使命驱动的边疆责任 / Mission-Driven Frontier Responsibility"
     url: "/wiki/concepts/missiondrivenfrontierresponsibility/"

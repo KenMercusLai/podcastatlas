@@ -4,6 +4,7 @@ type: entity
 knowledge_schema: synthesis-v1
 tags: [history, china, western-han, court-politics, merit]
 sources:
+  - zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra
   - zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l
   - zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5
   - zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze
@@ -13,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-匡衡 / Kuang Heng enters the wiki through [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] as the earlier chancellor whom [[GengYuWesternHan|耿育]] blames for blocking fuller recognition of [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] after the [[ZhizhiChanyu|郅支单于]] campaign. [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] now backfills his early [[HanChengdi|汉成帝]] position: after [[ShiXianWesternHan|石显]] falls, Kuang Heng benefits from the new court but is impeached by [[WangZunWesternHan|王尊]] for past accommodation and for language that appears to shift blame toward [[HanYuandi|汉元帝]]. [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] adds a more direct Chen Tang conflict: Kuang Heng impeaches Chen Tang for taking confiscated [[Kangju|康居]] property and abusing distance from the court. [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] backfills his own downfall under Chengdi: the host contrasts Kuang Heng's poor-origin "cutting the wall for light" reputation with accusations of excess land and misappropriated property that reduce him to commoner status.
+匡衡 / Kuang Heng enters the wiki through [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] as the earlier chancellor whom [[GengYuWesternHan|耿育]] blames for blocking fuller recognition of [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] after the [[ZhizhiChanyu|郅支单于]] campaign. [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] and [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] backfill his early [[HanChengdi|汉成帝]] position: after [[ShiXianWesternHan|石显]] loses [[HanYuandi|汉元帝]]'s backing and Chengdi moves him out of the inner channel, Kuang Heng joins [[ZhangTanWesternHan|张谭]] in impeaching Shi Xian, but is later attacked by [[WangZunWesternHan|王尊]] for past accommodation and for language that appears to shift blame toward Yuan. [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] adds a more direct Chen Tang conflict: Kuang Heng impeaches Chen Tang for taking confiscated [[Kangju|康居]] property and abusing distance from the court. [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] backfills his own downfall under Chengdi: the host contrasts Kuang Heng's poor-origin "cutting the wall for light" reputation with accusations of excess land and misappropriated property that reduce him to commoner status.
 
 ## Current Profile
 
@@ -23,16 +24,16 @@ Kuang Heng's significance here lies in the downstream effect of under-recognitio
 
 Hanji 505 adds a moral-career arc rather than a reward-politics arc. The episode begins with the advice that successful people must know how to lower their heads and remain restrained, then uses Kuang Heng as the caution: a poor scholar rises to the chancellorship but is later reported for occupying excess fief land and misappropriating managed property. The host reads the fall as political and moral return to the starting point, not merely as an isolated legal notice.
 
-Hanji 502 adds the survival logic behind Kuang Heng's early Chengdi position. He is vulnerable because his anti-Shi-Xian posture comes after a period of accommodation, and because blaming officials' fear of Shi Xian can be heard as making Emperor Yuan bear the black pot. His response is not counterattack but visible fear, shame, and seal-returning submission. Chengdi's refusal to remove him leaves Kuang Heng as a retained senior minister who can stabilize offices and absorb future disaster responsibility.
+Hanji 500 and Hanji 502 add the survival logic behind Kuang Heng's early Chengdi position. Hanji 500 presents the timing advantage: Kuang Heng attacks after Shi Xian loses Yuan, is moved out of Zhongshu access, and no longer looks equally protected. Hanji 502 then shows the vulnerability that follows success: his anti-Shi-Xian posture comes after a period of accommodation, and blaming officials' fear of Shi Xian can be heard as making Emperor Yuan bear the black pot. His response is not counterattack but visible fear, shame, and seal-returning submission. Chengdi's refusal to remove him leaves Kuang Heng as a retained senior minister who can stabilize offices and absorb future disaster responsibility.
 
 ## Key Characteristics
 
 - Western Han chancellor figure currently known in this wiki from one Chen Tang vindication source.
 - Blamed by Geng Yu for obstructing proportionate reward after the Zhizhi Chanyu campaign.
 - Directly impeaches Chen Tang for Kangju-property misconduct in Hanji 507.
+- Times the Shi Xian impeachment after Chengdi moves Shi Xian away from the inner access channel.
 - Survives Wang Zun's early-Chengdi impeachment by using submissive resignation gestures rather than escalating the dispute.
-- Functions as a negative example of bureaucratic reward narrowing.
-- Also functions as a negative example of successful officeholder misconduct and loss of restraint after rising from poverty.
+- Functions as a negative example of both bureaucratic reward narrowing and loss of restraint after rising from poverty.
 - Reduced to commoner status in Hanji 505 after excess-land and property accusations.
 
 ## Evidence
@@ -41,6 +42,7 @@ Hanji 502 adds the survival logic behind Kuang Heng's early Chengdi position. He
 - Obstruction claim: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says Geng Yu accuses Kuang Heng of blocking the grading of Chen Tang and Gan Yanshou's merit.
 - Reduced reward: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says the result was only several hundred households, which the memorial treats as chillingly insufficient.
 - Institutional effect: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] links this treatment to later fear among people who might otherwise risk themselves for Han.
+- Shi Xian timing: [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] says Kuang Heng and Zhang Tan impeach Shi Xian after Chengdi's accession, Shi Xian's transfer, and the loss of Yuan's backing.
 - Wang Zun impeachment: [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says Wang Zun accuses Kuang Heng and Zhang Tan of failing to report and punish Shi Xian while he was powerful.
 - Dangerous wording: [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says Wang Zun objects that Kuang Heng's later accusation makes officials' fear of Shi Xian greater than fear of the emperor, thereby dishonoring the ruler.
 - Submission and retention: [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says Kuang Heng is terrified, ashamed, returns his chancellor and marquis seals, and is still reassured and retained by Chengdi.
@@ -49,11 +51,11 @@ Hanji 502 adds the survival logic behind Kuang Heng's early Chengdi position. He
 
 ## Qualifications
 
-This page is source-bounded to Hanji 570, Hanji 505, Hanji 507, and Hanji 502. It records Kuang Heng's Chen Tang impeachment, Geng Yu's accusation about the reward dispute, Hanji 505's account of Kuang Heng's demotion, and Hanji 502's early-Chengdi impeachment-survival case; it does not reconstruct Kuang Heng's full career, motives, office record, exact land measurement, property case file, original Shi Xian-era conduct, or the legal basis for the original Chen Tang and Gan Yanshou reward.
+This page is source-bounded to Hanji 500, Hanji 570, Hanji 505, Hanji 507, and Hanji 502. It records Kuang Heng's Shi Xian impeachment timing, Chen Tang impeachment, Geng Yu's accusation about the reward dispute, Hanji 505's account of Kuang Heng's demotion, and Hanji 502's early-Chengdi impeachment-survival case; it does not reconstruct Kuang Heng's full career, motives, office record, exact land measurement, property case file, original Shi Xian-era conduct, or the legal basis for the original Chen Tang and Gan Yanshou reward.
 
 ## What Changed
 
-- Added Hanji 502's early-Chengdi impeachment survival layer, clarifying why Kuang Heng can be both politically vulnerable and useful to the new ruler.
+- Added Hanji 500's timing layer before Hanji 502: Kuang Heng's attack on Shi Xian follows Chengdi's accession and Shi Xian's loss of inner-channel protection.
 - Preserved the Chen Tang, Geng Yu, and demotion layers as later consequences rather than replacing them.
 
 ## Relationships

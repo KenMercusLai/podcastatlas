@@ -18744,10 +18744,17 @@
       "url": "/wiki/concepts/courtsummonsasdeathsentence/"
     },
     "CourtTransitionBlameManagement": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
+          "key": "zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
           "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",
@@ -40263,9 +40270,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -40273,6 +40280,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
+          "key": "zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra/"
         },
         {
           "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
@@ -50534,10 +50548,17 @@
       "url": "/wiki/entities/kuaishou/"
     },
     "KuangHengWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
+          "key": "zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
           "key": "zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l",
@@ -61122,6 +61143,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/meritshieldedaccountability/"
+    },
+    "MessageRelayPoliticalPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
+          "key": "zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/messagerelaypoliticalpower/"
     },
     "MetabolicPsychiatry": {
       "episode_count": 1,
@@ -81434,10 +81471,17 @@
       "url": "/wiki/entities/shilifen/"
     },
     "ShiXianWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
+          "key": "zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
           "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",
@@ -90667,10 +90711,17 @@
       "url": "/wiki/concepts/trustbasedcommonsgovernance/"
     },
     "TrustedEunuchPowerFormation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
+          "key": "zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》767丨聪明人，都擅长“演戏” [lq3ol7Y-JDh7dnNFKmtFDG4ibRyq].md",
           "key": "zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq",
@@ -90686,7 +90737,7 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/trustedeunuchpowerformation/"
     },
     "TruthSeekingDebateNorm": {
@@ -104192,10 +104243,17 @@
       "url": "/wiki/entities/zhangsongxinpetitioner/"
     },
     "ZhangTanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
+          "key": "zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
           "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",

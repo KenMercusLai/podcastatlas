@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨
+
+Added source `zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra`; created `MessageRelayPoliticalPower`; updated `ShiXianWesternHan`, `HanYuandi`, `KuangHengWesternHan`, `ZhangTanWesternHan`, `TrustedEunuchPowerFormation`, `CourtTransitionBlameManagement`, and `index`. No settled contradiction found; Shi Xian's exact legal record, psychology, full party network, and institutional office details remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》507 plus丨2024年女性成长宝典，简单七步，把握九紫离火大运
 
 Added source note and created Nine Purple Fire Luck Action Frame. No settled contradictions; the 九紫离火运 premise remains source-scoped.
@@ -18045,6 +18049,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
