@@ -7,23 +7,24 @@ sources:
   - zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l
   - zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp
   - zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol
+  - zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-甘延寿 / Gan Yanshou enters the wiki through [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] as the Western Han commander paired with [[ChenTangWesternHan|陈汤]] in the distant campaign against [[ZhizhiChanyu|郅支单于]]. [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] adds the pre-reward dispute: after the victory, Gan Yanshou is targeted with Chen Tang for false imperial-order mobilization, while [[ShiXianWesternHan|石显]]'s old resentment over a refused marriage alliance helps color the opposition. [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]] backfills the reward outcome: [[LiuXiang|刘向]] defends both men, [[HanYuandi|汉元帝]] pardons them, and Gan Yanshou is made Yicheng Hou with a three-hundred-household grant.
+甘延寿 / Gan Yanshou enters the wiki through [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] as the Western Han commander paired with [[ChenTangWesternHan|陈汤]] in the distant campaign against [[ZhizhiChanyu|郅支单于]]. [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|Hanji 491]] adds the immediate victory-publication layer: Gan Yanshou and Chen Tang send Zhizhi Chanyu's head to Chang'an, ask that it be displayed as a warning, and receive first public title recognition. [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] adds the pre-reward dispute: after the victory, Gan Yanshou is targeted with Chen Tang for false imperial-order mobilization, while [[ShiXianWesternHan|石显]]'s old resentment over a refused marriage alliance helps color the opposition. [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]] backfills the reward outcome: [[LiuXiang|刘向]] defends both men, [[HanYuandi|汉元帝]] pardons them, and Gan Yanshou is made Yicheng Hou with a three-hundred-household grant.
 
 ## Current Profile
 
 The sources do not give Gan Yanshou an independent biography. His role is paired and memorialized: he and Chen Tang are presented as having fought far away from the Han center, killed a defiant Xiongnu ruler, and created a prestige and security effect that court actors used in reward, pardon, and later vindication arguments.
 
-Gan Yanshou's importance in this wiki is therefore evidentiary and comparative. Hanji 496 shows the contested precondition of the first reward decision: great achievement is immediately filtered through legal procedure and court grievance. Hanji 497 then makes him part of the first proportional-reward outcome, including Yuan's pardon, title, and reduced household grant after opposition from Shi Xian and Kuang Heng. Hanji 570 later lets Geng Yu argue that the original recognition was already too small, while Chen Tang's later disgrace shows how an inadequate reward settlement can turn into a broader lesson about whether great service will be honored.
+Gan Yanshou's importance in this wiki is therefore evidentiary and comparative. Hanji 491 shows the public version of the service: his joint memorial turns the campaign into a Chang'an display and deterrence statement. Hanji 496 shows the contested precondition of the first reward decision: great achievement is immediately filtered through legal procedure and court grievance. Hanji 497 then makes him part of the first proportional-reward outcome, including Yuan's pardon, title, and reduced household grant after opposition from Shi Xian and Kuang Heng. Hanji 570 later lets Geng Yu argue that the original recognition was already too small, while Chen Tang's later disgrace shows how an inadequate reward settlement can turn into a broader lesson about whether great service will be honored.
 
 ## Key Characteristics
 
 - Western Han frontier commander currently known here through a Yuan-era reward source and a later Aidi-era merit-vindication source.
-- Paired with Chen Tang in the campaign that killed Zhizhi Chanyu.
+- Paired with Chen Tang in the campaign that killed Zhizhi Chanyu and in the victory-publication memorial asking Han to display the head as deterrence.
 - Targeted in the first reward dispute because the campaign was launched through false imperial order.
 - Serves as part of Geng Yu's evidence that the Han court had a duty to remember extraordinary service.
 - Receives initial pardon and title recognition under Han Yuandi after Liu Xiang's defense.
@@ -36,6 +37,8 @@ Gan Yanshou's importance in this wiki is therefore evidentiary and comparative. 
 - Political resentment: [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] says Shi Xian had earlier tried to marry his sister to Gan Yanshou and was refused.
 - Original pardon: [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]] says Liu Xiang defends Gan Yanshou and Chen Tang, leading Yuan to pardon faults and forbid further accusation.
 - Initial reward: [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]] says Gan Yanshou is made Yicheng Hou, receives three hundred households, and is given gold.
+- Victory display request: [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|Hanji 491]] says Gan Yanshou and Chen Tang ask to display Zhizhi Chanyu's head between Chang'an's street and the barbarian guest quarters.
+- First public title notice: [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|Hanji 491]] says Yuan makes Gan Yanshou Yicheng Hou after the victory celebration.
 - Opposition motive: [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]] says Shi Xian's hostility is tied to Gan Yanshou's refusal to join Shi's family network through marriage.
 - Shared campaign: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says Gan Yanshou and Chen Tang fought far away and killed Zhizhi Chanyu.
 - Public prestige: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says the earlier court publicized the victory as a restoration of Han honor.
@@ -43,11 +46,12 @@ Gan Yanshou's importance in this wiki is therefore evidentiary and comparative. 
 
 ## Qualifications
 
-This page is source-bounded. Hanji 496, Hanji 497, and Hanji 570 treat Gan Yanshou mainly through the shared victory, reward dispute, reward decision, and later memory dispute, so his office history, personal decisions, campaign command hierarchy, full marriage-network context, and later life remain outside the current evidence.
+This page is source-bounded. Hanji 491, Hanji 496, Hanji 497, and Hanji 570 treat Gan Yanshou mainly through the shared victory, public display request, reward dispute, reward decision, and later memory dispute, so his office history, personal decisions, campaign command hierarchy, full marriage-network context, and later life remain outside the current evidence.
 
 ## What Changed
 
 - Added Hanji 496's pre-reward accusation layer, including false-order mobilization and Shi Xian's earlier failed marriage alliance.
+- Added Hanji 491's immediate public-victory layer, including the head-display request and first title notice.
 - Preserved Hanji 497's original pardon and reward layer, including Liu Xiang's defense and Yuan's title grant.
 
 ## Relationships

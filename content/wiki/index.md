@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？](sources/zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk.md) — 芮淇讲透资治通鉴 episode on Chen Tang and Gan Yanshou's Zhizhi Chanyu victory display, the "犯我强汉者，虽远必诛" posture, Yuan's first reward ceremony, Liu Ao's mourning misstep, and Wang Zhaojun setup.
 - [《资治通鉴·汉纪》495丨西汉名将PK阉人宠臣，硬碰硬谁能赢？](sources/zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo.md) — 芮淇讲透资治通鉴 episode on Shi Xian blocking Feng Yewang's Yushi Dafu promotion by reframing a merit appointment as consort-kin favoritism risk for Han Yuandi.
 - [《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！](sources/zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's polite refusal to outsource frontier defense, the host's core-control management lesson, Zuo Yizizhi's trust rupture, Wang Zhaojun's son, and Liu Ao's capping rite.
 - [《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！](sources/zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's request to remove Han frontier defenses, Hou Yin's ten-part objection, and the modern partnership-boundary lesson.

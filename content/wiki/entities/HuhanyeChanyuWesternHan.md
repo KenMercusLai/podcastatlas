@@ -7,22 +7,24 @@ sources:
   - zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6
   - zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g
   - zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc
+  - zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-呼韩邪单于 / Huhanye Chanyu enters the wiki's Western Han Xiongnu branch through [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|Hanji 504]] as the chanyu whose late-life succession arrangement turns consort status, son age, and political stability into one problem. [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] adds an earlier diplomacy-and-frontier layer: after receiving [[WangZhaojun|王昭君]], Huhanye offers to guard the Han border and asks [[HanYuandi|汉元帝]] to remove frontier defenses, prompting [[HouYinWesternHan|侯胤]]'s objection. [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] adds the follow-through: Yuan refuses politely, Huhanye apologizes for not seeing the larger plan, and suspicion around [[ZuoYizizhi|左伊秩訾]] shows the fragility of his advisory trust.
+呼韩邪单于 / Huhanye Chanyu enters the wiki's Western Han Xiongnu branch through [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|Hanji 504]] as the chanyu whose late-life succession arrangement turns consort status, son age, and political stability into one problem. [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|Hanji 491]] supplies the post-Zhizhi setup: after [[ZhizhiChanyu|郅支单于]] is killed, Huhanye is both glad and frightened, asks to come to Han court, and becomes the immediate diplomatic context for [[WangZhaojun|王昭君]]'s coming appearance. [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] adds a later diplomacy-and-frontier layer: after receiving Wang Zhaojun, Huhanye offers to guard the Han border and asks [[HanYuandi|汉元帝]] to remove frontier defenses, prompting [[HouYinWesternHan|侯胤]]'s objection. [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] adds the follow-through: Yuan refuses politely, Huhanye apologizes for not seeing the larger plan, and suspicion around [[ZuoYizizhi|左伊秩訾]] shows the fragility of his advisory trust.
 
 ## Current Profile
 
-The source set presents Huhanye as a submitted but still strategically consequential Xiongnu ruler. Hanji 493 shows him using the Wang Zhaojun marriage context and his loyalty posture to ask for Han frontier demilitarization; the wiki treats this as a claim that Han must evaluate by future leverage, not only present trust. Hanji 494 shows the diplomatic management of that request: Yuan preserves Huhanye's face while refusing to hand over Han's defensive responsibility, and Huhanye responds by apologizing rather than escalating.
+The source set presents Huhanye as a submitted but still strategically consequential Xiongnu ruler. Hanji 491 shows his submission becoming more urgent after Zhizhi Chanyu's death: joy and fear combine into a request to come to court, while Han's expected generosity sets up the Wang Zhaojun marriage branch. Hanji 493 shows him using the Wang Zhaojun marriage context and his loyalty posture to ask for Han frontier demilitarization; the wiki treats this as a claim that Han must evaluate by future leverage, not only present trust. Hanji 494 shows the diplomatic management of that request: Yuan preserves Huhanye's face while refusing to hand over Han's defensive responsibility, and Huhanye responds by apologizing rather than escalating.
 
 Hanji 494 also adds Huhanye's internal trust problem. Zuo Yizizhi had supported submission to Han, but slander makes Huhanye suspicious enough that Zuo defects with more than one thousand followers. Even when Huhanye later apologizes, Zuo refuses to return. Hanji 504 then shows Huhanye at the end of his life, after Xiongnu disorder has recently been calmed with Han support. He loves Qiemo Che, the son of the higher-status Zhuanqu Yanzhi, but she argues that the people fear renewed war and that the younger son may not command confidence. Huhanye ultimately appoints Diaotao Mogao, son of another yanzhi, while arranging future transfer to Qiemo Che.
 
 ## Key Characteristics
 
 - Western Han Xiongnu ruler in a succession-stabilization scene.
+- Submitted ruler whose fear after Zhizhi Chanyu's death leads him to ask to attend Han court.
 - Submitted chanyu whose protection offer tests Han's willingness to trade defenses for present trust.
 - Diplomatic counterpart whose request is refused in a way that preserves face and keeps the relationship stable.
 - Ruler whose suspicion toward Zuo Yizizhi turns a useful adviser into a Han defector.
@@ -32,6 +34,8 @@ Hanji 494 also adds Huhanye's internal trust problem. Zuo Yizizhi had supported 
 ## Evidence
 
 - Frontier withdrawal request: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Huhanye offers to guard the Han frontier and asks Yuan to remove border defenses.
+- Post-Zhizhi reaction: [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|Hanji 491]] says Huhanye is both happy and afraid after Zhizhi Chanyu is killed, then asks to come to Han court.
+- Wang Zhaojun setup: [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|Hanji 491]] says Yuan is about to send a beauty when Huhanye comes to court, setting up Wang Zhaojun's appearance.
 - Trust-risk objection: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Hou Yin warns that Huhanye's current gratitude and weakness should not be treated as a permanent security guarantee.
 - Diplomatic refusal: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] says Yuan praises Huhanye's intention but refuses to remove the frontier troops and defenses.
 - Advisory trust rupture: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] says Huhanye's suspicion after slander leads Zuo Yizizhi to defect, and a later apology does not bring him back.
@@ -41,11 +45,12 @@ Hanji 494 also adds Huhanye's internal trust problem. Zuo Yizizhi had supported 
 
 ## Qualifications
 
-This page remains bounded to compact podcast sources and does not reconstruct Huhanye's full biography, his submission to Han, his earlier wars, the complete defensive-facility debate, the full Zuo Yizizhi chronology, or the complete Xiongnu succession sequence. It is disambiguated from [[HuhanyeChanyuBi|呼韩邪单于比]], an Eastern Han Southern Xiongnu claimant.
+This page remains bounded to compact podcast sources and does not reconstruct Huhanye's full biography, his submission to Han, his earlier wars, the complete defensive-facility debate, the full Zuo Yizizhi chronology, or the complete Xiongnu succession sequence. Hanji 491 supplies the post-Zhizhi diplomatic setup rather than the complete Wang Zhaojun story. It is disambiguated from [[HuhanyeChanyuBi|呼韩邪单于比]], an Eastern Han Southern Xiongnu claimant.
 
 ## What Changed
 
 - Added Hanji 494's polite-refusal aftermath and Zuo Yizizhi trust-rupture branch, making Huhanye a case in both external diplomatic trust and internal advisory suspicion.
+- Added Hanji 491's post-Zhizhi layer, making Huhanye's court request and Wang Zhaojun setup visible before the later border-defense and succession layers.
 
 ## Relationships
 
