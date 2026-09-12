@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！](sources/zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt.md) — 芮淇讲透资治通鉴 episode on Wang Zhaojun's voluntary Xiongnu marriage choice, Huhanye Chanyu's court request, Han Yuandi's regret, and beauty as a resource requiring judgment.
 - [《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？](sources/zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk.md) — 芮淇讲透资治通鉴 episode on Chen Tang and Gan Yanshou's Zhizhi Chanyu victory display, the "犯我强汉者，虽远必诛" posture, Yuan's first reward ceremony, Liu Ao's mourning misstep, and Wang Zhaojun setup.
 - [《资治通鉴·汉纪》495丨西汉名将PK阉人宠臣，硬碰硬谁能赢？](sources/zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo.md) — 芮淇讲透资治通鉴 episode on Shi Xian blocking Feng Yewang's Yushi Dafu promotion by reframing a merit appointment as consort-kin favoritism risk for Han Yuandi.
 - [《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！](sources/zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's polite refusal to outsource frontier defense, the host's core-control management lesson, Zuo Yizizhi's trust rupture, Wang Zhaojun's son, and Liu Ao's capping rite.
@@ -2286,7 +2287,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huhanye Chanyu (Western Han)](entities/HuhanyeChanyuWesternHan.md) — Western Han Xiongnu ruler whose profile now spans a Hanji 493 border-defense withdrawal request and a Hanji 504 succession settlement.
 - [侯胤 / Hou Yin (Western Han)](entities/HouYinWesternHan.md) — Western Han official whose ten-part objection to withdrawing frontier defenses links Xiongnu submission, future leverage, border governance, and accumulated strategic infrastructure.
 - [Fuzhulei Ruodi Chanyu](entities/FuzhuleiRuodiChanyu.md) — Xiongnu successor Diaotao Mogao, chosen by Huhanye and later married to Wang Zhaojun in Hanji 504.
-- [Wang Zhaojun](entities/WangZhaojun.md) — Han woman whose Hanji 504 notice concerns remarriage to Fuzhulei Ruodi Chanyu and daughters in the Xiongnu household.
+- [Wang Zhaojun](entities/WangZhaojun.md) — Han woman whose source set now spans palace invisibility, voluntary marriage to Huhanye, Huhanye-side child notice, and later remarriage to Fuzhulei Ruodi Chanyu.
 - [公乘兴 / Gongcheng Xing (Western Han)](entities/GongchengXingWesternHan.md) — Memorialist who defends Wang Zun by asking the court to review both the accused official and the accusers.
 - [张忠 / Zhang Zhong (Western Han)](entities/ZhangZhongWesternHan.md) — Yushi Dafu whose impeachment removes Wang Zun before Gongcheng Xing challenges the accusation.
 - [杨辅 / Yang Fu (Western Han)](entities/YangFuWesternHan.md) — Yushi Cheng named as the privately resentful source of charges against Wang Zun.
@@ -13837,7 +13838,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Heavy Agriculture and Light Commerce Policy / 重农轻商政策](concepts/HeavyAgricultureLightCommercePolicy.md) — Early Han policy preference that lowers merchant status while the source argues commerce persists through adaptation and official-merchant channels.
 - [诸侯王羞辱触发谋刺 / Vassal Humiliation Conspiracy](concepts/VassalHumiliationConspiracy.md) — Pattern where insult to a dependent king makes ministers radicalize into private assassination planning.
 - [Encirclement Release Calculus / 围困开口式风险权衡](concepts/EncirclementReleaseCalculus.md) — Hanji 178 pattern where the side holding an encirclement opens a passage because allied uncertainty, reinforcements, occupation cost, and limited aims make total destruction risky.
-- [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — ruling-house marriage and old-relation diplomacy used or attempted as bounded frontier restraint after direct war or raiding pressure proves costly.
+- [Han-Xiongnu Heqin Policy / 汉匈和亲政策](concepts/HanXiongnuHeqinPolicy.md) — ruling-house marriage and old-relation diplomacy used or attempted as bounded frontier restraint, including Wang Zhaojun's favorable-moment marriage case.
 - [Seasonal War Logistics / 战争季节后勤](concepts/SeasonalWarLogistics.md) — Strategy frame for how harvests, winter stores, horse condition, and reproduction calendars shape campaign timing.
 - [Reproductive Attrition Strategy / 繁衍打击战略](concepts/ReproductiveAttritionStrategy.md) — Source-scoped war strategy frame for attacking a rival's future population and livestock capacity rather than only current fighters.
 - [绝对服从式指挥训练 / Absolute Command Obedience](concepts/AbsoluteCommandObedience.md) — Hanji 175 pattern where Modu's whistling-arrow drills turn lethal signal-following into command reliability.
@@ -16629,7 +16630,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [努力叙事追问 / Effort Narrative Interrogation](concepts/EffortNarrativeInterrogation.md) — Asking why effort became morally mandatory without replacing effort with slackness as a new unquestioned template.
 - [相信自己的感受 / Self-Feeling Trust](concepts/SelfFeelingTrust.md) — Agency practice of treating felt response as valid evidence instead of always seeking a standard answer key.
 - [女性美貌自我监控 / Female Beauty Self-Surveillance](concepts/FemaleBeautySelfSurveillance.md) — Gendered beauty pressure where social gaze becomes an internal camera around charm, display, shame, and visibility.
-- [Beauty Economics / 美貌经济学](concepts/BeautyEconomics.md) — Episode 155 frame for discussing beauty as a labor-market and social-opportunity variable without endorsing appearance discrimination.
+- [Beauty Economics / 美貌经济学](concepts/BeautyEconomics.md) — Appearance as a real but risky social resource whose value depends on context, perception, self-command, and durable capability.
 - [Attractiveness Labor-Market Premium / 外貌劳动力市场溢价](concepts/AttractivenessLaborMarketPremium.md) — Source-scoped claim that perceived attractiveness can affect wages, confidence, and workplace perception.
 - [体面税 / Respectability Tax](concepts/RespectabilityTax.md) — Money, taste, bodily work, and social reading required to appear naturally proper inside a high-status field.
 - [Objective Deception](concepts/ObjectiveDeception.md) — Complex-search failure mode where an objective or proxy metric creates a false gradient and hides useful stepping stones.

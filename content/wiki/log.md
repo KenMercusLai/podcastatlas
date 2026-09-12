@@ -17732,6 +17732,8 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？
 
 Added source. Key claims: Zhizhi Chanyu's head display and the "犯我强汉者，虽远必诛" posture turn Chen Tang and Gan Yanshou's victory into public deterrence; Chen Tang's greed and captured valuables create later vulnerability; Liu Ao's mourning misstep and Shi Dan's rescue foreshadow the later succession-stability branch; Huhanye's renewed court request sets up Wang Zhaojun.
@@ -18085,6 +18087,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

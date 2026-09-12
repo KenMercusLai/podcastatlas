@@ -9301,6 +9301,29 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/beautyaccessorization/"
     },
+    "BeautyEconomics": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "155.美貌能当饭吃吗？想赚钱该做点啥？拮据时应避免什么行为？经济学思维有什么用？ [920167210].md",
+          "key": "155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210",
+          "show": "蜜獾吃书",
+          "title": "155.美貌能当饭吃吗?想赚钱该做点啥?拮据时应避免什么行为?经济学思维有什么用？",
+          "url": "/wiki/sources/155-meimao-neng-dang-fan-chi-ma-xiang-zhuanqian-gai-zuo-dian-sha-jieju-shi-ying-bimian-shenme-xingwei-jingjixue-siwei-you-shenme-yong-920167210/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！ [ltXLIPLJ2L-kvMey3ImGKlzGM1jt].md",
+          "key": "zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/beautyeconomics/"
+    },
     "BeautyRetailNetworkReallocation": {
       "episode_count": 1,
       "show_count": 1,
@@ -40364,9 +40387,9 @@
       "url": "/wiki/entities/hanxinsitueasternhan/"
     },
     "HanXiongnuHeqinPolicy": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1） [li5U-DMsMB1Lp4NY3rk02Kaiyu4K].md",
@@ -40409,9 +40432,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！ [ltXLIPLJ2L-kvMey3ImGKlzGM1jt].md",
+          "key": "zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/hanxiongnuheqinpolicy/"
     },
     "HanYanDirector": {
@@ -95349,9 +95379,9 @@
       "url": "/wiki/entities/wangzhangwesternhan/"
     },
     "WangZhaojun": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
@@ -95373,6 +95403,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！ [ltXLIPLJ2L-kvMey3ImGKlzGM1jt].md",
+          "key": "zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt/"
         }
       ],
       "updated": "2026-09-12",
