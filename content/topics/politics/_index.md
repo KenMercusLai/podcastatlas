@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2422
+topic_total_pages: 2423
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -844,6 +844,9 @@ topic_concepts:
   - key: "DecentralizedAIControl"
     title: "Decentralized AI Control"
     url: "/wiki/concepts/decentralizedaicontrol/"
+  - key: "DecisiveResourceCommitment"
+    title: "Decisive Resource Commitment / 决断型资源投入"
+    url: "/wiki/concepts/decisiveresourcecommitment/"
   - key: "DeepCanvassing"
     title: "Deep Canvassing / 深度说服"
     url: "/wiki/concepts/deepcanvassing/"

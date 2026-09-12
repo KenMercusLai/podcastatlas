@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7184
+wiki_total_pages: 7185
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "DeceptiveSurrenderLull"
     title: "Deceptive Surrender Lull / 诈降麻痹"
     url: "/wiki/concepts/deceptivesurrenderlull/"
+  - key: "DecisiveResourceCommitment"
+    title: "Decisive Resource Commitment / 决断型资源投入"
+    url: "/wiki/concepts/decisiveresourcecommitment/"
   - key: "DecreasingStovesDeception"
     title: "Decreasing Stoves Deception / 减灶诱敌"
     url: "/wiki/concepts/decreasingstovesdeception/"

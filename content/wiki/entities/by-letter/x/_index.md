@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9859
+wiki_total_pages: 9861
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "XiangCommandery"
     title: "象郡 / Xiang Commandery"
     url: "/wiki/entities/xiangcommandery/"
+  - key: "XianjieQiangWesternHan"
+    title: "贤解羌 / Xianjie Qiang (Western Han)"
+    url: "/wiki/entities/xianjieqiangwesternhan/"
   - key: "XinZengLateHan"
     title: "辛曾 / Xin Zeng (late Han)"
     url: "/wiki/entities/xinzenglatehan/"

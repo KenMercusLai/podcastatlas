@@ -21480,6 +21480,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deceptivesurrenderlull/"
     },
+    "DecisiveResourceCommitment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
+          "key": "zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/decisiveresourcecommitment/"
+    },
     "DecisiveTerrainPreemption": {
       "episode_count": 1,
       "show_count": 1,
@@ -31478,6 +31494,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/fengchanlatehan/"
     },
+    "FengFengshiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
+          "key": "zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/fengfengshiwesternhan/"
+    },
     "FengGunLateHan": {
       "episode_count": 5,
       "show_count": 1,
@@ -41144,9 +41176,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -41210,6 +41242,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
+          "key": "zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue/"
         }
       ],
       "updated": "2026-09-12",
@@ -100643,6 +100682,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/xiangkailatehan/"
+    },
+    "XianjieQiangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
+          "key": "zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/xianjieqiangwesternhan/"
     },
     "XianlingQiang": {
       "episode_count": 7,

@@ -2089,6 +2089,10 @@ Added source note for the 9 CE Wang Mang accession-consolidation backfill on fiv
 Added source note for the Duanwen episode on Taiwan nightjar livestream outrage, introduced common and white-vented mynas, native/alien/invasive species boundaries, driver-versus-passenger causality, and humane differentiated management. Created Xu Zhengfu, Feng Mengjie, Taiwan myna species pages, Taiwan Nighthawk, Invasive Species Moralization, Native-Alien Species Boundary, Driver-Passenger Invasion Model, and Taiwan Myna Management; updated Duanwen and Invasive Species Management. No settled contradiction found; Taiwan myna population impacts, livestream egg causality, and intervention efficacy remain source-scoped.
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-12] ingest | 《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！
+
+Added source note for Feng Fengshi's 42 BCE Longxi Qiang crisis: court hesitation, force-size dispute, initial undercommitment, early defeat, and later reinforcement. Created Feng Fengshi, Xianjie Qiang, and Decisive Resource Commitment; updated Han Yuandi with the bounded frontier-decision layer.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会
 
 Added source note, updated Du Qin, and created Harem Succession Risk Control plus Western Han Huhanye, Fuzhulei Ruodi Chanyu, and Wang Zhaojun pages.
@@ -18324,6 +18328,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
