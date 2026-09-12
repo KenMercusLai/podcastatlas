@@ -2129,6 +2129,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主
+
+Added source `zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv`; created `XieyouPrincessWesternHan`, `NimiWusun`, and `HeqinPrincessSuccessionEntrapment`; updated `Wusun` and `HuhanyeChanyuWesternHan` with the Wusun succession/remarriage crisis and the 53 BCE Xiongnu submission-and-hostage layer. No settled contradiction found; Xieyou's exact age, Wusun genealogy, Han authorization for the plot, and Chigu City resolution remain source-scoped.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场
 
 - Added source note for Jia Juanzhi and Yang Xing's failed praise-for-promotion scheme around Shi Xian and Han Yuandi.
@@ -18538,6 +18542,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？
 
 Added source. Key claims: early Han Yuandi politics splits among outer relatives, Confucian teacher-ministers, and Zhongshu eunuchs; Xiao Wangzhi's anti-eunuch memorial openly targets Hong Gong and Shi Xian's institutional base; Zheng Peng first gains encouragement by attacking Shi Gao's side, setting up the later Hanji 469 betrayal sequence.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

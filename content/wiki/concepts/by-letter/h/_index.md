@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7223
+wiki_total_pages: 7224
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -197,6 +197,9 @@ wiki_pages:
   - key: "HeptapodB"
     title: "Heptapod B"
     url: "/wiki/concepts/heptapodb/"
+  - key: "HeqinPrincessSuccessionEntrapment"
+    title: "Heqin Princess Succession Entrapment / 和亲公主继承困局"
+    url: "/wiki/concepts/heqinprincesssuccessionentrapment/"
   - key: "HerbalSupplementLiverToxicity"
     title: "Herbal Supplement Liver Toxicity"
     url: "/wiki/concepts/herbalsupplementlivertoxicity/"

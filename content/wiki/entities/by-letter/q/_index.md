@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 9895
+wiki_total_pages: 9897
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"

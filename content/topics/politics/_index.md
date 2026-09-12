@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2445
+topic_total_pages: 2446
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -1483,6 +1483,9 @@ topic_concepts:
   - key: "HealthcareImpossibleTriangle"
     title: "Healthcare Impossible Triangle / 医疗不可能三角"
     url: "/wiki/concepts/healthcareimpossibletriangle/"
+  - key: "HeqinPrincessSuccessionEntrapment"
+    title: "Heqin Princess Succession Entrapment / 和亲公主继承困局"
+    url: "/wiki/concepts/heqinprincesssuccessionentrapment/"
   - key: "HighCrimesAndMisdemeanors"
     title: "High Crimes And Misdemeanors"
     url: "/wiki/concepts/highcrimesandmisdemeanors/"

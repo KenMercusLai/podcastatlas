@@ -43007,6 +43007,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/henryvplay/"
     },
+    "HeqinPrincessSuccessionEntrapment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主 [lntrASDEvRAz8u4K8TlcKm3On1JV].md",
+          "key": "zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/heqinprincesssuccessionentrapment/"
+    },
     "HerFilm": {
       "episode_count": 1,
       "show_count": 1,
@@ -45962,9 +45978,9 @@
       "url": "/wiki/entities/huhanyechanyubi/"
     },
     "HuhanyeChanyuWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
@@ -46000,6 +46016,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主 [lntrASDEvRAz8u4K8TlcKm3On1JV].md",
+          "key": "zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv/"
         }
       ],
       "updated": "2026-09-13",
@@ -67479,6 +67502,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/nikebranddrift/"
+    },
+    "NimiWusun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主 [lntrASDEvRAz8u4K8TlcKm3On1JV].md",
+          "key": "zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/nimiwusun/"
     },
     "NinePurpleFireLuckActionFrame": {
       "episode_count": 1,
@@ -101852,9 +101891,9 @@
       "url": "/wiki/entities/wusisouthernxiongnu/"
     },
     "Wusun": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
@@ -101869,9 +101908,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主 [lntrASDEvRAz8u4K8TlcKm3On1JV].md",
+          "key": "zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/wusun/"
     },
     "WuyanCounty": {
@@ -102855,6 +102901,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/xieyinmelody/"
+    },
+    "XieyouPrincessWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主 [lntrASDEvRAz8u4K8TlcKm3On1JV].md",
+          "key": "zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/xieyouprincesswesternhan/"
     },
     "XihaiExileAdministrativeBurden": {
       "episode_count": 2,
