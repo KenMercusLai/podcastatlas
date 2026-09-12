@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1020
+topic_total_pages: 1021
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1774,6 +1774,9 @@ topic_concepts:
   - key: "SunkCostEntrapment"
     title: "沉没成本困局 / Sunk Cost Entrapment"
     url: "/wiki/concepts/sunkcostentrapment/"
+  - key: "PovertyMemoryCorruptionExcuse"
+    title: "贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse"
+    url: "/wiki/concepts/povertymemorycorruptionexcuse/"
   - key: "StatusDrivenCommandFailure"
     title: "面子驱动的指挥失误 / Status-Driven Command Failure"
     url: "/wiki/concepts/statusdrivencommandfailure/"

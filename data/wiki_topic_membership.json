@@ -52071,6 +52071,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "PovertyMemoryCorruptionExcuse": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PowerBackedGrainHoarding": [
     {
       "key": "history",
@@ -83167,6 +83179,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol": [
     {
       "key": "politics",
       "label": "Politics",

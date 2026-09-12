@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？](sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's late succession crisis, Liu Ao's threatened crown-prince position, Liu Kang and Fu Zhaoyi's bedside advantage, and Shi Dan's institutional remonstrance.
 - [《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？](sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp.md) — 芮淇讲透资治通鉴 episode on Liu Xiang's defense of Chen Tang and Gan Yanshou, Han Yuandi's pardon and reward, Shi Xian/Kuang Heng's opposition, and gamble-like frontier merit.
+- [《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因](sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol.md) — 芮淇讲透资治通鉴 episode on poverty as corruption excuse versus public responsibility, Chen Tang and Gan Yanshou's pre-reward accusation, Liu Xiang's proportional defense, and credible reward-punishment management.
 - [《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！](sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's death, Confucian learning without practical statecraft, Shi Xian's eunuch-power warning, Chengdi's accession, Wang-family entry, and Kuang Heng's ruler-bearing advice.
 - [《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨](sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra.md) — 芮淇讲透资治通鉴 episode on Shi Xian's Western Han eunuch-power formation, Chengdi-era transfer and impeachment, message-relay information power, and ruler-dependent collapse.
 - [《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？](sources/zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g.md) — 芮淇讲透资治通鉴 episode on Shi Xian building Han Yuandi's trust through emotional support, reliability, controlled confession, Xiao Wangzhi's fall, and Chengdi's later refusal to be captured.
@@ -2269,6 +2270,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [高德荣 / Gao Derong](entities/GaoDerong.md) — Contemporary public-service contrast case where poverty memory becomes poverty-alleviation responsibility.
+- [高福波 / Gao Fubo](entities/GaoFubo.md) — Contemporary corruption example used to reject "穷怕了" as an excuse.
 - [石显 / Shi Xian (Western Han)](entities/ShiXianWesternHan.md) — Yuan-era eunuch power holder whose trust formation, reward opposition, and collapse create early Chengdi cleanup, office vacancy, and predecessor-blame problems.
 - [张谭 / Zhang Tan (Western Han)](entities/ZhangTanWesternHan.md) — Yushi Dafu paired with Kuang Heng in Wang Zun's early-Chengdi impeachment after Shi Xian's fall.
 - [萧望之 / Xiao Wangzhi (Western Han)](entities/XiaoWangzhiWesternHan.md) — Han Yuandi's teacher and early anti-Shi-Xian opponent whose fall removes a key restraint in Hanji 501.
@@ -12090,6 +12093,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse](concepts/PovertyMemoryCorruptionExcuse.md) — Pattern where poverty memory is invoked to excuse corruption but can also become empathy and public responsibility.
 - [临终废储阻断 / Deathbed Heir Replacement Resistance](concepts/DeathbedHeirReplacementResistance.md) — Succession-stability pattern where ministers block a dying ruler's late heir change by stressing established designation and public court risk.
 - [Confucian-Legalist Governance Balance / 儒法互补治理](concepts/ConfucianLegalistGovernanceBalance.md) — Governance frame for combining Confucian moral legitimacy with practical administrative control, created from Hanji 499's Yuan-versus-Xuan contrast.
 - [新君清算中的责任安排 / Court Transition Blame Management](concepts/CourtTransitionBlameManagement.md) — New-ruler pattern for limiting accountability claims when cleanup threatens court stability, predecessor dignity, senior-office continuity, or future blame absorption.

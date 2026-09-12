@@ -17724,6 +17724,10 @@ Added source page for the Yuan-era Chen Tang and Gan Yanshou pardon/reward decis
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因
+
+Added source note, created Gao Fubo, Gao Derong, and Poverty Memory as Corruption Excuse, and updated Chen Tang, Gan Yanshou, Liu Xiang, Zhizhi Chanyu, and Merit-Shielded Accountability.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？
 
 Added source. Key claims: Han Yuandi nearly considers replacing Liu Ao with Liu Kang under illness-bed and favored-consort pressure; Shi Dan blocks the change by reframing it as an institutional succession crisis; Fu Zhaoyi and Liu Kang's proximity becomes a bounded evidence layer rather than a settled full biography.
@@ -18065,6 +18069,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

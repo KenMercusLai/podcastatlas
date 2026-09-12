@@ -4,17 +4,29 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-12
-as_of_overview_commit: 0d8f0f32ea86af4b793f4a8864892b57cbc3f74e
-input_digest: 295de04e9332763ba5e8239b4e4f6350fe9bef053887e5a621360eb48c7db825
+as_of_overview_commit: 32e7c348b9d3f667ad5561242d3fefbd49870334
+input_digest: 849c6800ea6601c4981448e3dd3cd4ae5a70d614caae167562ea260ad9a01ea7
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 510 adds a late-Western-Han backfill where Chengdi's legal-simplification edict stalls against workload and official-discretion incentives, while Gu Yong and Du Qin refuse a Xiongnu envoy's defection to preserve frontier trust. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, late-Xin, and late-Western-Han diplomacy branches keep emphasizing that geography, legitimacy, military capacity, public memory, legal process, and institutional afterlives interact across time.
+Hanji 496 adds a Western Han pre-reward dispute: poverty memory is separated from corruption excuse, and Chen Tang/Gan Yanshou merit is judged only after procedural and property faults are named. Hanji 510 adds a late-Western-Han backfill where Chengdi's legal-simplification edict stalls against workload and official-discretion incentives, while Gu Yong and Du Qin refuse a Xiongnu envoy's defection to preserve frontier trust. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, late-Xin, and late-Western-Han diplomacy branches keep emphasizing that geography, legitimacy, military capacity, public memory, legal process, and institutional afterlives interact across time.
 
 ## Cross-source Findings
+
+### Hanji 496 Poverty Memory And Merit Fault Preward Dispute
+
+[[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] backfills the pre-reward dispute before Hanji 497: [[LiuXiang|刘向]] uses [[ZhizhiChanyu|郅支单于]]'s defeat to argue that [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] should not have major frontier merit erased by false-order mobilization and captured-valuables fault, extending [[MeritShieldedAccountability|merit-shielded accountability]].
+
+**Evidence:** [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol]], [[LiuXiang]], [[ZhizhiChanyu]], [[ChenTangWesternHan]], [[GanYanshouWesternHan]], [[MeritShieldedAccountability]]
+
+**Qualifications:**
+
+- This is a source-scoped Western Han backfill from one podcast episode note.
+- The full Liu Xiang memorial, captured-valuables inventory, and legal threshold between pardonable fault and punishable misconduct remain outside the claim.
+- The poverty-memory opening is linked to the same episode but is not a complete theory of corruption causation.
 
 ### Hanji 510 Legal Simplification And Xiongnu Defection Restraint
 

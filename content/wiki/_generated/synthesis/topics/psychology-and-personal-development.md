@@ -3,18 +3,30 @@
 generated: true
 topic_id: psychology-and-personal-development
 title: "Psychology and Personal Development"
-last_updated: 2026-09-10
-as_of_overview_commit: 3ebdb3b665291d75edc91737b11db65484e92c78
-input_digest: 65924a69873f1fbcd4c9cd07082eb1305f80a9b9261f2adc8c51173038ca5d44
+last_updated: 2026-09-12
+as_of_overview_commit: 32e7c348b9d3f667ad5561242d3fefbd49870334
+input_digest: e03233de437543065211aa8be64aa14942efe5300638f31fb39b4b40714302d2
 ---
 
 # Psychology and Personal Development
 
 ## Current State
 
-Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The Steve Says cluster now spans counselor letters, sex education, anxiety interviews, and Steve's own biography: psychological language can become self-punitive when it is detached from body and care, while self-understanding, vulnerability, and being seen can restore vitality when they remain bounded by consent, context, and clinical humility. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability. The Luo Yonghao/Sixiao Comedy flaw panel adds a source-scoped boundary case: ADHD and compulsive-order labels can make flaws socially narratable, but diagnosis, medication, family pressure, and safety claims remain outside comedy evidence. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The same ingest adds a relationship-psychology case: friend lending requires explicit boundaries around trust, capacity, repayment expectations, public visibility, and directness. Hanji 590 enters only as a secondary historical judgment case: Yang Xiong's memorial treats restraint as proactive risk recognition, so the psychology relevance is bounded to advice uptake and prevention-before-rupture judgment rather than clinical or self-help guidance. The Seven Learnings paragraph enters this topic only narrowly as founder judgment under uncertainty: founder-led sales, customer trust, and learning from a failed first upload are business-psychology edges rather than clinical or self-help evidence.
+Hanji 496 adds a moral-psychology boundary around poverty memory: deprivation can shape fear and desire but does not excuse public corruption, because the same memory can also become empathy and responsibility. Psychology and personal development sources converge on a practical synthesis: emotional health depends less on abstract insight alone than on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation. The Steve Says cluster now spans counselor letters, sex education, anxiety interviews, and Steve's own biography: psychological language can become self-punitive when it is detached from body and care, while self-understanding, vulnerability, and being seen can restore vitality when they remain bounded by consent, context, and clinical humility. Across the topic, body contact, emotional granularity, relational support, proportional responsibility, and concrete grounding practices help move pain from defective identity toward workable information. The Tong Li episode adds a sex-psychology branch: life-course sex education, nonjudgmental counseling boundaries, embodied self-knowledge, and relationship-context sexual function extend the same pattern into intimacy, shame, pleasure, responsibility, and male vulnerability. The Luo Yonghao/Sixiao Comedy flaw panel adds a source-scoped boundary case: ADHD and compulsive-order labels can make flaws socially narratable, but diagnosis, medication, family pressure, and safety claims remain outside comedy evidence. The AHA Creator paragraph remains a secondary work-judgment case: stronger AI can automate repeated workflow steps, but founders and customers still need field exposure, budget judgment, and final approval responsibility. The same ingest adds a relationship-psychology case: friend lending requires explicit boundaries around trust, capacity, repayment expectations, public visibility, and directness. Hanji 590 enters only as a secondary historical judgment case: Yang Xiong's memorial treats restraint as proactive risk recognition, so the psychology relevance is bounded to advice uptake and prevention-before-rupture judgment rather than clinical or self-help guidance. The Seven Learnings paragraph enters this topic only narrowly as founder judgment under uncertainty: founder-led sales, customer trust, and learning from a failed first upload are business-psychology edges rather than clinical or self-help evidence.
 
 ## Cross-source Findings
+
+### Poverty Memory Diverges Between Corruption Excuse And Responsibility
+
+[[PovertyMemoryCorruptionExcuse|Poverty Memory as Corruption Excuse]] adds that hardship memory is morally underdetermined: [[GaoFubo|高福波]] anchors the "穷怕了" corruption-excuse rhetoric, while [[GaoDerong|高德荣]] anchors the counterexample where poverty memory becomes public responsibility.
+
+**Evidence:** [[PovertyMemoryCorruptionExcuse]], [[GaoFubo]], [[GaoDerong]], [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol]]
+
+**Qualifications:**
+
+- This is a source-scoped moral-psychology claim from one historical podcast episode, not a criminology model.
+- The claim distinguishes explanation from excuse; it does not deny that deprivation can shape later anxiety, desire, or self-story.
+- The modern examples are used as episode framing and are not independently verified legal or biographical profiles here.
 
 ### Psychological Knowledge Needs Care Boundaries
 

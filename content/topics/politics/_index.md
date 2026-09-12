@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2411
+topic_total_pages: 2413
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3979,6 +3979,9 @@ topic_concepts:
   - key: "FiscalExtractionRebellionSpiral"
     title: "财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral"
     url: "/wiki/concepts/fiscalextractionrebellionspiral/"
+  - key: "PovertyMemoryCorruptionExcuse"
+    title: "贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse"
+    url: "/wiki/concepts/povertymemorycorruptionexcuse/"
   - key: "LowStatusRegistry"
     title: "贱籍身份 / Low-Status Registry"
     url: "/wiki/concepts/lowstatusregistry/"
@@ -7083,6 +7086,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol"
+    title: "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因"
+    url: "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
   - key: "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4"
     title: "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？"
     url: "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"

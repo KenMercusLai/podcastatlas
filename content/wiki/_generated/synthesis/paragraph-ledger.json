@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "4aa2133b5eae87e53b2004dc853fcf9afb2bea0445d3e74a785fdbf0c749012a",
       "9d6372895427c4963d44e56cda4e1aa55cbe0de8e67e9d65d5e2d6970db86e5e",
       "8f9d80e5dfd0b2cf05c45c3812f18fc015279efc7a905daf7ed7929012aab77d",
       "feef603f3c7a9d391e9d2369a93f67d5d89e86ec593af71ed8bf2914163a54e9",
@@ -614,11 +615,36 @@
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108"
     ],
-    "paragraph_count": 612
+    "paragraph_count": 613
   },
-  "overview_commit": "d5153ec518970cdad2a222db15274b6248db97d7",
-  "overview_digest": "9f73b0d7938f6d1e13bab8fd93f2053887c32b3faa616750a18791478d68635d",
+  "overview_commit": "32e7c348b9d3f667ad5561242d3fefbd49870334",
+  "overview_digest": "a2752aecc5cc2c44bc31df4181fe3271a84e019753992b1ea7d010b705afb3b4",
   "paragraphs": [
+    {
+      "id": "4aa2133b5eae87e53b2004dc853fcf9afb2bea0445d3e74a785fdbf0c749012a",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [
+        "psychology-and-personal-development"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the pre-reward dispute before [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]]. It adds [[PovertyMemoryCorruptionExcuse|贫穷记忆贪腐借口]], [[GaoFubo|高福波]], and [[GaoDerong|高德荣]], while extending [[ChenTangWesternHan|陈汤]], [[GanYanshouWesternHan|甘延寿]], [[LiuXiang|刘向]], [[ZhizhiChanyu|郅支单于]], and [[MeritShieldedAccountability|因功免责]]. Its core synthesis is that poverty memory can become either corrupt self-justification or public responsibility, and that Chen Tang's great frontier merit enters court judgment only after real procedural and property faults are named. No settled contradiction is recorded; the modern corruption examples, full Liu Xiang memorial, captured valuables, and exact legal boundary between pardonable fault and punishment remain source-scoped.",
+      "topic_scores": {
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "ChenTangWesternHan",
+        "GanYanshouWesternHan",
+        "GaoDerong",
+        "GaoFubo",
+        "LiuXiang",
+        "MeritShieldedAccountability",
+        "PovertyMemoryCorruptionExcuse",
+        "RuiqiJiangtouZizhiTongjian",
+        "ZhizhiChanyu",
+        "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+        "zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp"
+      ]
+    },
     {
       "id": "9d6372895427c4963d44e56cda4e1aa55cbe0de8e67e9d65d5e2d6970db86e5e",
       "primary_topic": "history-and-geopolitics",

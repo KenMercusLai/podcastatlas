@@ -14031,9 +14031,9 @@
       "url": "/wiki/entities/chenshoutaishilinglatehan/"
     },
     "ChenTangWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -14069,6 +14069,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因 [lnSKBCQvjHtPFi4IKQ44KPbBfNoL].md",
+          "key": "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
         }
       ],
       "updated": "2026-09-12",
@@ -35395,9 +35402,9 @@
       "url": "/wiki/concepts/gamespiritorganization/"
     },
     "GanYanshouWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -35412,6 +35419,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因 [lnSKBCQvjHtPFi4IKQ44KPbBfNoL].md",
+          "key": "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
         }
       ],
       "updated": "2026-09-12",
@@ -35488,6 +35502,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/gansu/"
     },
+    "GaoDerong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因 [lnSKBCQvjHtPFi4IKQ44KPbBfNoL].md",
+          "key": "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/gaoderong/"
+    },
     "GaoErji": {
       "episode_count": 1,
       "show_count": 1,
@@ -35526,6 +35556,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/gaofanlatehan/"
+    },
+    "GaoFubo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因 [lnSKBCQvjHtPFi4IKQ44KPbBfNoL].md",
+          "key": "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/gaofubo/"
     },
     "GaoGanLateHan": {
       "episode_count": 2,
@@ -55220,9 +55266,9 @@
       "url": "/wiki/entities/liuxianlatehan/"
     },
     "LiuXiang": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙” [lh-H-geZpQtFvnyq40zLQac8s-5e].md",
@@ -55265,6 +55311,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因 [lnSKBCQvjHtPFi4IKQ44KPbBfNoL].md",
+          "key": "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
         }
       ],
       "updated": "2026-09-12",
@@ -61219,9 +61272,9 @@
       "url": "/wiki/entities/merck/"
     },
     "MeritShieldedAccountability": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
@@ -61257,6 +61310,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因 [lnSKBCQvjHtPFi4IKQ44KPbBfNoL].md",
+          "key": "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
         }
       ],
       "updated": "2026-09-12",
@@ -71559,6 +71619,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/concepts/postwaradministrativeretrenchment/"
+    },
+    "PovertyMemoryCorruptionExcuse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因 [lnSKBCQvjHtPFi4IKQ44KPbBfNoL].md",
+          "key": "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/povertymemorycorruptionexcuse/"
     },
     "PowerCenterProximityAdvantage": {
       "episode_count": 1,
@@ -106046,9 +106122,9 @@
       "url": "/wiki/entities/zhiyuanrobotics/"
     },
     "ZhizhiChanyu": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -106056,9 +106132,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因 [lnSKBCQvjHtPFi4IKQ44KPbBfNoL].md",
+          "key": "zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/zhizhichanyu/"
     },
     "ZhongChuxi": {

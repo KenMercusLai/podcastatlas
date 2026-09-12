@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-12
-as_of_overview_commit: 0d8f0f32ea86af4b793f4a8864892b57cbc3f74e
-summary: "Podcast Atlas maps durable capability through institutions, media forms, workflows, infrastructure, embodied practice, and judgment."
-episode_count: 2250
-source_count: 2250
-paragraph_count: 612
+as_of_overview_commit: 32e7c348b9d3f667ad5561242d3fefbd49870334
+summary: "Podcast Atlas maps durable capability through institutions, media forms, workflows, infrastructure, embodied practice, health literacy, and judgment."
+episode_count: 2262
+source_count: 2262
+paragraph_count: 613
 topic_count: 8
 ---
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9817
+wiki_total_pages: 9819
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -1301,6 +1301,9 @@ wiki_pages:
   - key: "GaoGanLateHan"
     title: "高干 / Gao Gan (late Han)"
     url: "/wiki/entities/gaoganlatehan/"
+  - key: "GaoDerong"
+    title: "高德荣 / Gao Derong"
+    url: "/wiki/entities/gaoderong/"
   - key: "GaoRouLateHan"
     title: "高柔 / Gao Rou (Late Han)"
     url: "/wiki/entities/gaoroulatehan/"
@@ -1316,6 +1319,9 @@ wiki_pages:
   - key: "GaoJianli"
     title: "高渐离 / Gao Jianli"
     url: "/wiki/entities/gaojianli/"
+  - key: "GaoFubo"
+    title: "高福波 / Gao Fubo"
+    url: "/wiki/entities/gaofubo/"
   - key: "GaoXiangLateHan"
     title: "高翔 / Gao Xiang (late Han)"
     url: "/wiki/entities/gaoxianglatehan/"
