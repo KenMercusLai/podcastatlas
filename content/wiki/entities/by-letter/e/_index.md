@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "e"
-wiki_total_pages: 9831
+wiki_total_pages: 9833
 wiki_pages:
   - key: "ETF7709HK"
     title: "7709.HK / Two-Times Long SK Hynix ETF"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "EnglandNationalFootballTeam"
     title: "England National Football Team"
     url: "/wiki/entities/englandnationalfootballteam/"
+  - key: "EnglishDefenceLeague"
+    title: "English Defence League"
+    url: "/wiki/entities/englishdefenceleague/"
   - key: "EnglishHeritage"
     title: "English Heritage"
     url: "/wiki/entities/englishheritage/"

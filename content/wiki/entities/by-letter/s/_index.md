@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9831
+wiki_total_pages: 9833
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -648,7 +648,7 @@ wiki_pages:
     title: "Shira Ovide"
     url: "/wiki/entities/shiraovide/"
   - key: "ShireFolk"
-    title: "Shire/Shia Folk"
+    title: "Shire folk"
     url: "/wiki/entities/shirefolk/"
   - key: "ShireenTippett"
     title: "Shireen Tippett"

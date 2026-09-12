@@ -17732,6 +17732,12 @@ Added source page for the Yuan-era Chen Tang and Gan Yanshou pardon/reward decis
 
 Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunuch Power Formation; created Feng Xun, Feng Zhaoyi, Li Yanshou, and Zhao Xinchen.
 
+## [2026-09-12] ingest | The Weekend Intelligence: Shire folk
+
+- Source: wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc.md
+- Added: wiki/entities/Luton.md, wiki/entities/EnglishDefenceLeague.md, wiki/concepts/SelectiveThreatNarrativeEditing.md
+- Updated: wiki/entities/TommyRobinson.md, wiki/entities/ShireFolk.md, wiki/concepts/AmericanRightBritainWarningNarrative.md, wiki/index.md
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18218,6 +18224,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？
 
 Added source note for Hanji 484. Key claims: Han Yuandi's favor toward Fu Zhaoyi and Liu Kang makes household intimacy a succession-order risk; Kuang Heng uses ancestral continuity, ruler self-correction,嫡庶 distinction, and empress-consort hierarchy to warn against private preference becoming public disorder; the episode extends the family hexagram into a broader household-ethics frame.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

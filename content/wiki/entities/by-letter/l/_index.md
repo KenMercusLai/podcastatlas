@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9831
+wiki_total_pages: 9833
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -770,6 +770,9 @@ wiki_pages:
   - key: "LutherOklahoma"
     title: "Luther, Oklahoma"
     url: "/wiki/entities/lutheroklahoma/"
+  - key: "Luton"
+    title: "Luton"
+    url: "/wiki/entities/luton/"
   - key: "Luxeed"
     title: "Luxeed / 智界"
     url: "/wiki/entities/luxeed/"

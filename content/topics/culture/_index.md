@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2654
+topic_total_pages: 2655
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2170,6 +2170,9 @@ topic_concepts:
   - key: "SelectiveMotionSmoothing"
     title: "Selective Motion Smoothing"
     url: "/wiki/concepts/selectivemotionsmoothing/"
+  - key: "SelectiveThreatNarrativeEditing"
+    title: "Selective Threat Narrative Editing"
+    url: "/wiki/concepts/selectivethreatnarrativeediting/"
   - key: "SelfDiscoveryAgainstMassConformity"
     title: "Self Discovery Against Mass Conformity / 抵抗从众的自我追寻"
     url: "/wiki/concepts/selfdiscoveryagainstmassconformity/"
@@ -4653,7 +4656,7 @@ topic_entities:
     title: "Shira Ovide"
     url: "/wiki/entities/shiraovide/"
   - key: "ShireFolk"
-    title: "Shire/Shia Folk"
+    title: "Shire folk"
     url: "/wiki/entities/shirefolk/"
   - key: "ShizilukouCrossing"
     title: "Shizilukou Crossing"

@@ -5416,9 +5416,9 @@
       "url": "/wiki/entities/americanrevolution/"
     },
     "AmericanRightBritainWarningNarrative": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -5426,9 +5426,16 @@
           "show": "Economist Podcasts",
           "title": "TRAILER: Shire folk",
           "url": "/wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b/"
+        },
+        {
+          "episode_file": "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
+          "key": "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc",
+          "show": "Economist Podcasts",
+          "title": "The Weekend Intelligence: Shire folk",
+          "url": "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/americanrightbritainwarningnarrative/"
     },
     "AmnestyExploitationCrime": {
@@ -28342,6 +28349,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/england/"
+    },
+    "EnglishDefenceLeague": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
+          "key": "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc",
+          "show": "Economist Podcasts",
+          "title": "The Weekend Intelligence: Shire folk",
+          "url": "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/englishdefenceleague/"
     },
     "EnochSontonga": {
       "episode_count": 1,
@@ -58600,6 +58623,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/lureenemyoutofposition/"
     },
+    "Luton": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
+          "key": "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc",
+          "show": "Economist Podcasts",
+          "title": "The Weekend Intelligence: Shire folk",
+          "url": "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/luton/"
+    },
     "Luxeed": {
       "episode_count": 2,
       "show_count": 2,
@@ -80379,6 +80418,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/selectiveanthemcanonization/"
     },
+    "SelectiveThreatNarrativeEditing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
+          "key": "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc",
+          "show": "Economist Podcasts",
+          "title": "The Weekend Intelligence: Shire folk",
+          "url": "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/selectivethreatnarrativeediting/"
+    },
     "SelectiveWhiteRefugeeException": {
       "episode_count": 1,
       "show_count": 1,
@@ -82197,9 +82252,9 @@
       "url": "/wiki/entities/shiraovide/"
     },
     "ShireFolk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -82207,9 +82262,16 @@
           "show": "Economist Podcasts",
           "title": "TRAILER: Shire folk",
           "url": "/wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b/"
+        },
+        {
+          "episode_file": "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
+          "key": "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc",
+          "show": "Economist Podcasts",
+          "title": "The Weekend Intelligence: Shire folk",
+          "url": "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/shirefolk/"
     },
     "ShiziChanyu": {
@@ -90703,9 +90765,9 @@
       "url": "/wiki/concepts/tombdesecrationpoliticalviolence/"
     },
     "TommyRobinson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
@@ -90713,9 +90775,16 @@
           "show": "Economist Podcasts",
           "title": "TRAILER: Shire folk",
           "url": "/wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b/"
+        },
+        {
+          "episode_file": "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
+          "key": "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc",
+          "show": "Economist Podcasts",
+          "title": "The Weekend Intelligence: Shire folk",
+          "url": "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/tommyrobinson/"
     },
     "TommyWood": {

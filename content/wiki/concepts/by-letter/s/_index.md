@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7134
+wiki_total_pages: 7135
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -377,6 +377,9 @@ wiki_pages:
   - key: "SelectiveMotionSmoothing"
     title: "Selective Motion Smoothing"
     url: "/wiki/concepts/selectivemotionsmoothing/"
+  - key: "SelectiveThreatNarrativeEditing"
+    title: "Selective Threat Narrative Editing"
+    url: "/wiki/concepts/selectivethreatnarrativeediting/"
   - key: "SelectiveWhiteRefugeeException"
     title: "Selective White Refugee Exception"
     url: "/wiki/concepts/selectivewhiterefugeeexception/"

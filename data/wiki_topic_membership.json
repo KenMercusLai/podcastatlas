@@ -23237,6 +23237,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "EnglishDefenceLeague": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "EnglishHeritage": [
     {
       "key": "culture",
@@ -41858,6 +41865,13 @@
       "url": "/topics/history/"
     }
   ],
+  "Luton": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "LuxuryBrandAsSportsTeam": [
     {
       "key": "culture",
@@ -58717,6 +58731,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "SelectiveThreatNarrativeEditing": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     },
     {
       "key": "culture",
@@ -81474,6 +81500,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "theres-no-business-like-dough-business": [

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [The Weekend Intelligence: Shire folk](sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc.md) — Economist Podcasts first full Shire folk episode on Tommy Robinson's Luton origins, the English Defence League, Brent Money's American warning narrative, and selective editing of real local grievances into anti-Muslim politics.
 - [《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？](sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's favor toward Fu Zhaoyi and Liu Kang, Kuang Heng's household-order remonstrance, and the family-hexagram link between household ethics and political stability.
 - [《资治通鉴·汉纪》485丨以身挡熊救皇帝！古代最勇妃子竟是她？](sources/zizhi-tongjian-hanji-485-yi-shen-dang-xiong-jiu-huangdi-gudai-zui-yong-feizi-jing-shi-ta-lqn6f6h7zuvdr62ja3mgufy0anty.md) — 芮淇讲透资治通鉴 episode on Feng Yuan shielding Han Yuandi from a black bear, her promotion to Zhaoyi, Fu Zhaoyi's jealousy, and Tunshi River hydrological background.
 - [《资治通鉴·汉纪》486丨揭秘易学大师京房的官场传奇](sources/zizhi-tongjian-hanji-486-jiemi-yixue-dashi-jingfang-de-guanchang-chuanqi-lk_gg7uparsjgxlt4wquibcm5fpr.md) — 芮淇讲透资治通鉴 episode opening Jing Fang's court story through Yi-learning lineage, Han Yuandi's trust, kaogong debate, disaster-omen warning, and the indirect identification of Shi Xian as the trusted insider behind disorder.
@@ -11077,8 +11078,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [United Arab Emirates](entities/UnitedArabEmirates.md) — Gulf state connected to business-hub resilience, oil coordination, Sudan and Syria diplomacy, and Iran sanctions compliance channels.
 - [Bahrain](entities/Bahrain.md) — Gulf state presented as more exposed after the Iran war because of debt, limited reserves, and dependence on outside support.
 - [Economist Podcasts](entities/EconomistPodcasts.md) — Economist audio context for Tocqueville Road Trip and The Intelligence branches on Latin America investment, Gulf stability, Brexit, and adjacent Economist podcast sources.
-- [Shire/Shia Folk](entities/ShireFolk.md) — Economist audio investigation introduced as Georgia Banjo's series on Tommy Robinson's influence, media exclusion, and American right-wing warning narratives about Britain.
-- [Tommy Robinson](entities/TommyRobinson.md) — British activist framed by the Shire/Shia Folk trailer as a media-excluded anti-Islam political figure with transatlantic symbolic influence.
+- [Shire folk](entities/ShireFolk.md) — Economist audio investigation on Tommy Robinson's Luton origins, media exclusion, EDL formation, and American right-wing warning narratives about Britain.
+- [Tommy Robinson](entities/TommyRobinson.md) — British activist framed through Luton, the English Defence League, anti-Islam politics, media exclusion, and transatlantic symbolic influence.
+- [Luton](entities/Luton.md) — English town used by Shire folk to trace Robinson's origin story through multicultural coexistence, industrial decline, gangs, Islamist fringe activity, and selective political storytelling.
+- [English Defence League](entities/EnglishDefenceLeague.md) — Anti-Islam street movement tied by the episode to Robinson, Kevin Carroll, Luton, and early social-media organized marches.
 - [Tocqueville Road Trip](entities/TocquevilleRoadTrip.md) — Economist podcast series retracing Tocqueville's U.S. journey to ask whether Democracy in America still explains the country.
 - [Alexis de Tocqueville](entities/AlexisDeTocqueville.md) — French observer whose 1831 U.S. journey and Democracy in America provide the trailer's interpretive lens.
 - [John Prideaux](entities/JohnPrideaux.md) — Economist host using Tocqueville's route to interview Americans about whether the national democratic idea still holds.
@@ -12811,6 +12814,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Civil-War Threat Rhetoric](concepts/CivilWarThreatRhetoric.md) — Political language that casts conflict as imminent, unavoidable, and existential in order to mobilize a fight-back response.
 - [British Media Exclusion Online Amplification](concepts/BritishMediaExclusionOnlineAmplification.md) — Pattern where a figure kept off mainstream British media still gains reach through internet channels, rallies, and foreign validation.
 - [American Right Britain Warning Narrative](concepts/AmericanRightBritainWarningNarrative.md) — Use of Britain by some American right-wing actors as a cautionary tale about civilizational decline, migration, Islam, speech, or the West.
+- [Selective Threat Narrative Editing](concepts/SelectiveThreatNarrativeEditing.md) — Process of turning real local dangers or grievances into a narrower political story that makes one group stand for the whole threat.
 - [Remigration Politics](concepts/RemigrationPolitics.md) — Removal-oriented immigration politics used by AfD in the Saxony-Anhalt branch.
 - [Public-Service Data Platform Trade-Off](concepts/PublicServiceDataPlatformTradeoff.md) — Tradeoff between joining fragmented public-service data and creating governance, privacy, and legitimacy risks.
 - [Public-Sector Vendor Dependence](concepts/PublicSectorVendorDependence.md) — Risk that public agencies become reliant on hard-to-replace technology suppliers.

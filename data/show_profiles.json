@@ -323,14 +323,14 @@
       "earliest_episode_date": "2026-02-09",
       "latest_episode_date": "2026-09-12",
       "latest_episode_file": "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
-      "source_note_count": 72,
-      "topic_matched_source_note_count": 68,
+      "source_note_count": 73,
+      "topic_matched_source_note_count": 69,
       "topics": [
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 51
+          "source_note_count": 52
         },
         {
           "key": "technology",
@@ -410,10 +410,10 @@
         }
       ],
       "start_here_episode_files": [
-        "TRAILER： Shire folk [6aa271d1a6e9aef4cc74ef3b].md",
+        "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md",
         "Out-numbered： AI’s contentious maths milestone [6aa3ce622e8bb8424c920cfb].md",
         "All right on the night： AfD’s victory [6a9e8573fe3b7e34fd2d258f].md",
-        "The Weekend Intelligence： Shire folk [6aa44797a6e9aef4ccfde9bc].md"
+        "Working through it： the AI jobs boom dawns [6aa27a3fa6e9aef4cc7741b8].md"
       ]
     },
     "How I Built This with Guy Raz": {

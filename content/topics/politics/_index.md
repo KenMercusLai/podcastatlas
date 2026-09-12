@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2415
+topic_total_pages: 2419
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2923,6 +2923,9 @@ topic_concepts:
   - key: "SecurityFirstSupplyChainLogic"
     title: "Security-First Supply Chain Logic / 安全优先供应链逻辑"
     url: "/wiki/concepts/securityfirstsupplychainlogic/"
+  - key: "SelectiveThreatNarrativeEditing"
+    title: "Selective Threat Narrative Editing"
+    url: "/wiki/concepts/selectivethreatnarrativeediting/"
   - key: "SelfPreservationAsStateStrategy"
     title: "Self-Preservation as State Strategy / 以自保包装国策"
     url: "/wiki/concepts/selfpreservationasstatestrategy/"
@@ -4532,6 +4535,9 @@ topic_entities:
   - key: "HanPingdi"
     title: "Emperor Ping of Han / 汉平帝"
     url: "/wiki/entities/hanpingdi/"
+  - key: "EnglishDefenceLeague"
+    title: "English Defence League"
+    url: "/wiki/entities/englishdefenceleague/"
   - key: "EnvironmentalProtectionAgency"
     title: "Environmental Protection Agency"
     url: "/wiki/entities/environmentalprotectionagency/"
@@ -5120,6 +5126,9 @@ topic_entities:
   - key: "LuigiCaseSuspect"
     title: "Luigi Case Suspect"
     url: "/wiki/entities/luigicasesuspect/"
+  - key: "Luton"
+    title: "Luton"
+    url: "/wiki/entities/luton/"
   - key: "LyndonBJohnson"
     title: "Lyndon B. Johnson"
     url: "/wiki/entities/lyndonbjohnson/"
@@ -5646,7 +5655,7 @@ topic_entities:
     title: "Shi Jianqiao / 施剑翘"
     url: "/wiki/entities/shijianqiao/"
   - key: "ShireFolk"
-    title: "Shire/Shia Folk"
+    title: "Shire folk"
     url: "/wiki/entities/shirefolk/"
   - key: "Singapore"
     title: "Singapore"
@@ -6831,6 +6840,9 @@ topic_sources:
   - key: "the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what"
     title: "The Supreme Court struck down a bunch of Trump's tariffs. Now what?"
     url: "/wiki/sources/the-supreme-court-struck-down-a-bunch-of-trumps-tariffs-now-what/"
+  - key: "the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc"
+    title: "The Weekend Intelligence: Shire folk"
+    url: "/wiki/sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc/"
   - key: "trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b"
     title: "TRAILER: Shire folk"
     url: "/wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b/"
