@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？](sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's favor toward Fu Zhaoyi and Liu Kang, Kuang Heng's household-order remonstrance, and the family-hexagram link between household ethics and political stability.
 - [《资治通鉴·汉纪》485丨以身挡熊救皇帝！古代最勇妃子竟是她？](sources/zizhi-tongjian-hanji-485-yi-shen-dang-xiong-jiu-huangdi-gudai-zui-yong-feizi-jing-shi-ta-lqn6f6h7zuvdr62ja3mgufy0anty.md) — 芮淇讲透资治通鉴 episode on Feng Yuan shielding Han Yuandi from a black bear, her promotion to Zhaoyi, Fu Zhaoyi's jealousy, and Tunshi River hydrological background.
 - [《资治通鉴·汉纪》486丨揭秘易学大师京房的官场传奇](sources/zizhi-tongjian-hanji-486-jiemi-yixue-dashi-jingfang-de-guanchang-chuanqi-lk_gg7uparsjgxlt4wquibcm5fpr.md) — 芮淇讲透资治通鉴 episode opening Jing Fang's court story through Yi-learning lineage, Han Yuandi's trust, kaogong debate, disaster-omen warning, and the indirect identification of Shi Xian as the trusted insider behind disorder.
 - [《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！](sources/zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet.md) — 芮淇讲透资治通鉴 episode on Jing Fang's kaogong setup, Shi Xian's transfer of him away from the capital, cancelled return-reporting channel, and power-center proximity as workplace and court survival logic.

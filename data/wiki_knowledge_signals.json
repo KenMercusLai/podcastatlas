@@ -21088,9 +21088,9 @@
       "url": "/wiki/concepts/deathgroundtacticalpreconditions/"
     },
     "DeathbedHeirReplacementResistance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？ [lnnUW3H3C8Tqlf5YSTX58gI7vVJO].md",
@@ -21098,6 +21098,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？ [lv7yFmyMwHQdejvR0HxntjSZLQWE].md",
+          "key": "zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
         }
       ],
       "updated": "2026-09-12",
@@ -34772,9 +34779,9 @@
       "url": "/wiki/entities/fuzhaneasternhan/"
     },
     "FuZhaoyiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》485丨以身挡熊救皇帝！古代最勇妃子竟是她？ [lqn6f6h7zuvDr62ja3MGuFY0antY].md",
@@ -34789,6 +34796,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？ [lv7yFmyMwHQdejvR0HxntjSZLQWE].md",
+          "key": "zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
         }
       ],
       "updated": "2026-09-12",
@@ -40526,9 +40540,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -40585,6 +40599,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？ [lv7yFmyMwHQdejvR0HxntjSZLQWE].md",
+          "key": "zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
         }
       ],
       "updated": "2026-09-12",
@@ -40852,9 +40873,9 @@
       "url": "/wiki/concepts/haremfiscaldiscipline/"
     },
     "HaremSuccessionRiskControl": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
@@ -40862,6 +40883,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
           "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？ [lv7yFmyMwHQdejvR0HxntjSZLQWE].md",
+          "key": "zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
         }
       ],
       "updated": "2026-09-12",
@@ -50950,9 +50978,9 @@
       "url": "/wiki/entities/kuaishou/"
     },
     "KuangHengWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -51002,6 +51030,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？ [lv7yFmyMwHQdejvR0HxntjSZLQWE].md",
+          "key": "zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
         }
       ],
       "updated": "2026-09-12",
@@ -55004,9 +55039,9 @@
       "url": "/wiki/entities/liukaieasternhan/"
     },
     "LiuKangDingtaoKingWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
@@ -55021,6 +55056,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？ [lv7yFmyMwHQdejvR0HxntjSZLQWE].md",
+          "key": "zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
         }
       ],
       "updated": "2026-09-12",
@@ -95592,9 +95634,9 @@
       "url": "/wiki/entities/wangzhaojun/"
     },
     "WangZhengjun": {
-      "episode_count": 15,
+      "episode_count": 16,
       "show_count": 2,
-      "source_note_count": 15,
+      "source_note_count": 16,
       "sources": [
         {
           "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
@@ -95700,9 +95742,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》580丨回顾四周，谁是你的靠山？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？ [lv7yFmyMwHQdejvR0HxntjSZLQWE].md",
+          "key": "zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/wangzhengjun/"
     },
     "WangZhongLateHan": {
