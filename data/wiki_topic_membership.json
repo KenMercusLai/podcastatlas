@@ -24034,6 +24034,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EstablishedHeirReplacementRisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "Estraven": [
     {
       "key": "politics",

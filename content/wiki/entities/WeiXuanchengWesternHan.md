@@ -6,20 +6,22 @@ tags: [person, western-han, official]
 sources:
   - zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah
   - zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz
+last_updated: 2026-09-13
 ---
 
 ## Overview
 
-韦玄成 / Wei Xuancheng enters the wiki through [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] as the chancellor figure whom [[JingFang|京房]] criticizes for failing to produce practical benefit for the people. [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] adds an earlier office layer: after [[XueGuangdeWesternHan|薛广德]]'s resignation, Wei Xuancheng is appointed Yushi Dafu.
+韦玄成 / Wei Xuancheng enters the wiki through [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] as the chancellor figure whom [[JingFang|京房]] criticizes for failing to produce practical benefit for the people. [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] adds an earlier office layer: after [[XueGuangdeWesternHan|薛广德]]'s resignation, Wei Xuancheng is appointed Yushi Dafu. [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] adds a still earlier symbolic appointment layer: [[EmperorXuanOfHan|汉宣帝]] appoints him Huaiyang zhongwei after abandoning the idea of replacing crown prince [[HanYuandi|刘奭 / 汉元帝]] with [[LiuQinHuaiyangKingWesternHan|刘钦]].
 
 ## Current Profile
 
-Wei Xuancheng's role remains source-scoped rather than biographical. Hanji 476 places him in a formal personnel sequence as the new Yushi Dafu after disaster-era resignations. Hanji 488 later places him as an incumbent target: Jing Fang's complaint groups him with [[ShiXianWesternHan|石显]] and [[WuluChongzongWesternHan|五鹿充宗]] as part of a court environment resistant to [[KaogongfaReformBacklash|kaogong]] assessment. The broader point is the political risk of converting dissatisfaction with incumbent performance into a proposed removal.
+Wei Xuancheng's role remains source-scoped rather than biographical. Hanji 459 uses his reputation for yielding his own title to an elder brother as a moral signal: sending him to Huaiyang is read as Xuan's way of teaching Liu Qin to accept his place rather than compete for succession. Hanji 476 later places Wei in a formal personnel sequence as the new Yushi Dafu after disaster-era resignations. Hanji 488 then places him as an incumbent target: Jing Fang's complaint groups him with [[ShiXianWesternHan|石显]] and [[WuluChongzongWesternHan|五鹿充宗]] as part of a court environment resistant to [[KaogongfaReformBacklash|kaogong]] assessment.
 
 ## Key Characteristics
 
 - Western Han senior official named in Jing Fang's criticism.
+- Appointed Huaiyang zhongwei in Hanji 459 as a restraint-and-instruction signal to Liu Qin.
 - Appointed Yushi Dafu after Xue Guangde resigns in the Yongguang 1 disaster sequence.
 - Represents the incumbent-performance side of Hanji 488's reform conflict.
 - His possible removal makes Jing Fang's proposal concrete rather than merely moralistic.
@@ -27,6 +29,7 @@ Wei Xuancheng's role remains source-scoped rather than biographical. Hanji 476 p
 ## Evidence
 
 Office appointment:
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Xuan appoints Wei Xuancheng Huaiyang zhongwei after abandoning Liu Qin's replacement path.
 - [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Wei Xuancheng is appointed Yushi Dafu after Xue Guangde's resignation.
 
 Incumbent-performance criticism:
@@ -35,16 +38,18 @@ Incumbent-performance criticism:
 
 ## Qualifications
 
-This page is limited to Hanji 476 and Hanji 488 and does not assess Wei Xuancheng's whole career, policy record, or historical reputation. It records how the episodes use him in a personnel-appointment sequence and in Jing Fang's reform-risk sequence.
+This page is limited to Hanji 459, Hanji 476, and Hanji 488 and does not assess Wei Xuancheng's whole career, policy record, or historical reputation. It records how the episodes use him in a succession-instruction appointment, a personnel-appointment sequence, and Jing Fang's reform-risk sequence.
 
 ## What Changed
 
 - Added Hanji 476's Yushi Dafu appointment layer to the prior Jing Fang incumbent-target profile.
+- Added Hanji 459's Huaiyang appointment layer as a symbolic restraint signal to Liu Qin.
 
 ## Relationships
 
 - [[JingFang|京房]] - critic whose proposed reform threatens Wei's position.
 - [[HanYuandi|汉元帝]] - ruler whose acceptance would be needed for any personnel change.
+- [[EmperorXuanOfHan|汉宣帝]], [[LiuQinHuaiyangKingWesternHan|淮阳王刘钦]], and [[EstablishedHeirReplacementRisk|既定太子改立风险]] - Hanji 459 succession-instruction context.
 - [[XueGuangdeWesternHan|薛广德]] - predecessor whose resignation opens the Yushi Dafu appointment.
 - [[ShiXianWesternHan|石显]] - paired target in Jing Fang's proposed removal sequence.
 - [[KaogongfaReformBacklash|考功法改革反噬]] - reform context in which Wei appears.

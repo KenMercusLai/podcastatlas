@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2453
+topic_total_pages: 2454
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3856,6 +3856,9 @@ topic_concepts:
   - key: "UnsupportedFrontierIntervention"
     title: "无支撑边疆干预 / Unsupported Frontier Intervention"
     url: "/wiki/concepts/unsupportedfrontierintervention/"
+  - key: "EstablishedHeirReplacementRisk"
+    title: "既定太子改立风险 / Established Heir Replacement Risk"
+    url: "/wiki/concepts/establishedheirreplacementrisk/"
   - key: "SeasonalRitualConsumptionRestraint"
     title: "时令礼法式饮食约束 / Seasonal Ritual Consumption Restraint"
     url: "/wiki/concepts/seasonalritualconsumptionrestraint/"

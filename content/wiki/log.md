@@ -18498,6 +18498,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？
+
+Added source note plus Xuan, Yuan, Xu Pingjun, Wei Xuancheng, Liu Qin, Confucian-Legalist governance balance, deathbed heir-replacement resistance, and established-heir replacement risk updates. Key claims: Xuan sees Liu Shi's Confucian softness and poor timing as a future governing danger; Han statecraft is framed as 王霸并用 rather than pure moral rule; and Xuan preserves Liu Shi despite Liu Qin's appeal because嫡长 status, Xu Pingjun's memory, and succession-conflict risk outweigh the replacement impulse.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-5｜修行人是如何看待西游的？
 
 Added source note plus updates for 《西游降魔篇》, Chen Xuanzang, Duan Miss, Sun Wukong, Zhu Bajie, Sha Wujing, inner-demon symbolic reading, and love-compassion integration. Created Formalized Cultivation Critique. Key claims: the film is read as one practitioner's inner pilgrimage; seeing through illusion is not yet subduing desire; Duan Miss is hard-to-cut 情缘; the goose-leg lesson criticizes outward practice without inner release.
@@ -18615,6 +18619,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？
 
 Added source note plus Zhang Chang, Xu Shun, and Five-Day Jingzhao synthesis updates. Key claims: Zhang Chang's anti-bandit administrative ability coexists with anger-driven legal abuse; Xu Shun's loose speech turns rumored dismissal into fatal exposure; Five-Day Jingzhao is an idiom about premature authority discounting and short-term office behavior.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

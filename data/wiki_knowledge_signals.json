@@ -18418,9 +18418,9 @@
       "url": "/wiki/concepts/confidentialremonstranceleakage/"
     },
     "ConfucianLegalistGovernanceBalance": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！ [lnDFgJeHpE7QC36HejxBA3ZnlZ0P].md",
@@ -18428,9 +18428,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？ [lsnB6MEsDPeGWhIHmXX06Fy8fAwz].md",
+          "key": "zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/confucianlegalistgovernancebalance/"
     },
     "ConscienceThroughDuty": {
@@ -21818,9 +21825,9 @@
       "url": "/wiki/concepts/deathnormalizationpractice/"
     },
     "DeathbedHeirReplacementResistance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？ [lnnUW3H3C8Tqlf5YSTX58gI7vVJO].md",
@@ -21835,9 +21842,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？ [lsnB6MEsDPeGWhIHmXX06Fy8fAwz].md",
+          "key": "zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/deathbedheirreplacementresistance/"
     },
     "DeathsOfDespairCounterfeitPillRisk": {
@@ -28195,9 +28209,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -28233,6 +28247,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？ [lsnB6MEsDPeGWhIHmXX06Fy8fAwz].md",
+          "key": "zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
         }
       ],
       "updated": "2026-09-13",
@@ -29886,6 +29907,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/espressocodeeditor/"
+    },
+    "EstablishedHeirReplacementRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？ [lsnB6MEsDPeGWhIHmXX06Fy8fAwz].md",
+          "key": "zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/establishedheirreplacementrisk/"
     },
     "EthicalMinorityTravel": {
       "episode_count": 1,
@@ -41992,9 +42029,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 18,
+      "episode_count": 19,
       "show_count": 1,
-      "source_note_count": 18,
+      "source_note_count": 19,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -42121,6 +42158,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？ [lsnB6MEsDPeGWhIHmXX06Fy8fAwz].md",
+          "key": "zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
         }
       ],
       "updated": "2026-09-13",
@@ -57787,6 +57831,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/liuqiangdonghaiking/"
+    },
+    "LiuQinHuaiyangKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？ [lsnB6MEsDPeGWhIHmXX06Fy8fAwz].md",
+          "key": "zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/liuqinhuaiyangkingwesternhan/"
     },
     "LiuQingHuaiyangKingWesternHan": {
       "episode_count": 1,
@@ -100303,9 +100363,9 @@
       "url": "/wiki/entities/weixuanwesternhan/"
     },
     "WeiXuanchengWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
@@ -100320,9 +100380,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
           "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？ [lsnB6MEsDPeGWhIHmXX06Fy8fAwz].md",
+          "key": "zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/weixuanchengwesternhan/"
     },
     "WeiXunEasternHan": {
@@ -104323,9 +104390,9 @@
       "url": "/wiki/entities/xumeirenwesternhan/"
     },
     "XuPingjunWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
@@ -104333,9 +104400,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》540丨太后的葬礼",
           "url": "/wiki/sources/zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？ [lsnB6MEsDPeGWhIHmXX06Fy8fAwz].md",
+          "key": "zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/xupingjunwesternhan/"
     },
     "XuQiuGuanglingLateHan": {

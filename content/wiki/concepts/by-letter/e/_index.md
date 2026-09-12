@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7239
+wiki_total_pages: 7240
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "EffectMeasuredPersonnelSelection"
     title: "实效考察式用人 / Effect-Measured Personnel Selection"
     url: "/wiki/concepts/effectmeasuredpersonnelselection/"
+  - key: "EstablishedHeirReplacementRisk"
+    title: "既定太子改立风险 / Established Heir Replacement Risk"
+    url: "/wiki/concepts/establishedheirreplacementrisk/"
   - key: "EarlyChineseBuddhismCourtTransmission"
     title: "早期中国佛教宫廷传播 / Early Chinese Buddhism Court Transmission"
     url: "/wiki/concepts/earlychinesebuddhismcourttransmission/"
