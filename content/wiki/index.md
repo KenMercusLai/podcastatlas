@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze](sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215.md) — All-In episode on OpenAI missed targets, Codex versus Claude Code, AI cyber models, hyperscaler capex, retatrutide, and Monsanto/Roundup preemption.
+- [《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场](sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el.md) — 芮淇讲透资治通鉴 episode on Jia Juanzhi and Yang Xing's failed praise-for-promotion scheme around Shi Xian, Han Yuandi's personnel authority, and the danger of bargaining over senior appointments.
 - [Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti](sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958.md) — Huberman Lab episode with Paul Conti on What's Going Right?, strength-first self-examination, compassionate curiosity, observing self, intentional agency, generative drive, intrusive thoughts, trauma, and happiness without escape.
 - [667. The Mystery of the Mona Lisa](sources/667-the-mystery-of-the-mona-lisa-glt1735270133.md) — The Rest Is History episode on Leonardo da Vinci, Lisa Gherardini, the Mona Lisa's sitter evidence, visual ambiguity, reproduction, the 1911 theft, parody, the Louvre, and museum tourism.
 - [245. 怒江春日，秘境初探](sources/245-nujiang-chunri-mijing-chutan-8221838951-646453.md) — 博物志 episode on a Songtsam Nujiang Gorge route, Three Parallel Rivers geography, minority-region travel ethics, road access, Bingzhongluo religion, Baoshan coffee, and Yunnan travel logistics.
@@ -2329,6 +2330,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郑弘 / Zheng Hong (Western Han)](entities/ZhengHongWesternHan.md) — Western Han official named in Jing Fang's replacement slate and demoted after the case.
 - [韦玄成 / Wei Xuancheng (Western Han)](entities/WeiXuanchengWesternHan.md) — Senior Western Han incumbent criticized by Jing Fang for nonperformance.
 - [五鹿充宗 / Wulu Chongzong (Western Han)](entities/WuluChongzongWesternHan.md) — Favored court figure in Jing Fang's diagnosis of anti-kaogong interests.
+- [贾捐之 / Jia Juanzhi (Western Han)](entities/JiaJuanzhiWesternHan.md) — Western Han court actor whose reversal from anti-Shi-Xian criticism to praise-backed office bargaining leads to execution.
+- [杨兴 / Yang Xing (Western Han)](entities/YangXingWesternHan.md) — Jia Juanzhi's friend and co-schemer in the failed Shi Xian praise and Jingzhao Yin recommendation case.
 - [贡禹 / Gong Yu (Western Han)](entities/GongYuWesternHan.md) — Respected Confucian scholar whose reputation Shi Xian courts after Xiao Wangzhi's death.
 - [冯奉世 / Feng Fengshi (Western Han)](entities/FengFengshiWesternHan.md) — Western Han right general whose Longxi Qiang proposal and victory link troop scale, deterrence, logistics, quick resolution, and managerial decisiveness.
 - [贤解羌 / Xianjie Qiang (Western Han)](entities/XianjieQiangWesternHan.md) — Qiang rebel actor in the 42 BCE Longxi crisis that tests Han Yuandi's force-size decision.
@@ -12256,6 +12259,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [隐形站台式关系背书 / Deniable Patronage Signaling](concepts/DeniablePatronageSignaling.md) — Relationship-power pattern where inferred backing, kinship hints, visible restraint, and reputation networks move benefits without explicit orders.
 - [治未病式边疆治理 / Preventive Frontier Governance](concepts/PreventiveFrontierGovernance.md) — Frontier-administration pattern where success appears as prevented crisis, created from Duan Huizong's quiet Western Regions tenure.
 - [实效考察式用人 / Effect-Measured Personnel Selection](concepts/EffectMeasuredPersonnelSelection.md) — Personnel-selection principle that tests actual administrative effect rather than relying only on reputation, family, or moral image.
+- [高层任命越权交易 / High Appointment Bargaining Overreach](concepts/HighAppointmentBargainingOverreach.md) — Personnel-boundary failure where actors without authority trade praise, recommendations, or access as if they can allocate senior posts.
 - [待刑谢罪式政治表演 / Awaiting-Punishment Performance](concepts/AwaitingPunishmentPerformance.md) — Pattern where exaggerated submission and execution imagery turn threatened punishment into a politically costly mercy test.
 - [反拐公共关注 / Public Attention Against Trafficking](concepts/PublicAttentionAgainstTrafficking.md) — Civic refusal to treat trafficking as invisible, distant, or already solved.
 - [汉代拐卖惩治 / Han Trafficking Law Deterrence](concepts/HanTraffickingLawDeterrence.md) — Early Han legal-punishment frame that makes abduction, resale, and buyer participation punishable.

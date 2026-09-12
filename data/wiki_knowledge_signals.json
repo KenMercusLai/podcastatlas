@@ -41365,9 +41365,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -41445,6 +41445,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》480丨课本不敢提！揭开“凿壁偷光”的黑暗后续",
           "url": "/wiki/sources/zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场 [lpsOPBJ1DtFTNsN_kJjEyfTsT7EL].md",
+          "key": "zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el/"
         }
       ],
       "updated": "2026-09-12",
@@ -42681,6 +42688,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/higashinokeigo/"
+    },
+    "HighAppointmentBargainingOverreach": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场 [lpsOPBJ1DtFTNsN_kJjEyfTsT7EL].md",
+          "key": "zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/highappointmentbargainingoverreach/"
     },
     "HighBandwidthMemory": {
       "episode_count": 8,
@@ -49249,6 +49272,22 @@
       ],
       "updated": "2026-09-03",
       "url": "/wiki/entities/jiafueasternhan/"
+    },
+    "JiaJuanzhiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场 [lpsOPBJ1DtFTNsN_kJjEyfTsT7EL].md",
+          "key": "zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/jiajuanzhiwesternhan/"
     },
     "JiaKuiEasternHan": {
       "episode_count": 2,
@@ -83875,9 +83914,9 @@
       "url": "/wiki/entities/shilifen/"
     },
     "ShiXianWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -83920,6 +83959,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》495丨西汉名将PK阉人宠臣，硬碰硬谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场 [lpsOPBJ1DtFTNsN_kJjEyfTsT7EL].md",
+          "key": "zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el/"
         }
       ],
       "updated": "2026-09-12",
@@ -103879,6 +103925,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/yangtianzhen/"
+    },
+    "YangXingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场 [lpsOPBJ1DtFTNsN_kJjEyfTsT7EL].md",
+          "key": "zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yangxingwesternhan/"
     },
     "YangXiong": {
       "episode_count": 12,

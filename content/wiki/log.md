@@ -2090,6 +2090,12 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场
+
+- Added source note for Jia Juanzhi and Yang Xing's failed praise-for-promotion scheme around Shi Xian and Han Yuandi.
+- Created Jia Juanzhi, Yang Xing, and High Appointment Bargaining Overreach.
+- Updated Han Yuandi and Shi Xian with the personnel-authority and self-protection layers.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！
 
 Added source note for Feng Fengshi's 42 BCE Longxi Qiang crisis: court hesitation, force-size dispute, initial undercommitment, early defeat, and later reinforcement. Created Feng Fengshi, Xianjie Qiang, and Decisive Resource Commitment; updated Han Yuandi with the bounded frontier-decision layer.
@@ -18348,6 +18354,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

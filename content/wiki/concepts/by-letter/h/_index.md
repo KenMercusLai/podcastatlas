@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7193
+wiki_total_pages: 7194
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "HighStatusCautionSelfProtection"
     title: "高位谨慎自保 / High-Status Caution Self-Protection"
     url: "/wiki/concepts/highstatuscautionselfprotection/"
+  - key: "HighAppointmentBargainingOverreach"
+    title: "高层任命越权交易 / High Appointment Bargaining Overreach"
+    url: "/wiki/concepts/highappointmentbargainingoverreach/"
   - key: "HongduMenxue"
     title: "鸿都门学 / Hongdu Menxue"
     url: "/wiki/concepts/hongdumenxue/"
