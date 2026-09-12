@@ -17728,6 +17728,10 @@ Added source page for the Yuan-era Chen Tang and Gan Yanshou pardon/reward decis
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！
+
+Added source note for Hanji 494. Key claims: Han Yuandi preserves face while refusing to outsource frontier defense to Huhanye Chanyu; the host maps that refusal onto core control over people, money, and authority in business; Zuo Yizizhi's defection shows trust rupture after suspicion; Wang Zhaojun's Huhanye-side child and Liu Ao's capping rite extend the Xiongnu and responsibility branches.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因
 
 Added source note, created Gao Fubo, Gao Derong, and Poverty Memory as Corruption Excuse, and updated Chen Tang, Gan Yanshou, Liu Xiang, Zhizhi Chanyu, and Merit-Shielded Accountability.
@@ -18073,6 +18077,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！](sources/zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's polite refusal to outsource frontier defense, the host's core-control management lesson, Zuo Yizizhi's trust rupture, Wang Zhaojun's son, and Liu Ao's capping rite.
 - [《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！](sources/zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's request to remove Han frontier defenses, Hou Yin's ten-part objection, and the modern partnership-boundary lesson.
 - [《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？](sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's late succession crisis, Liu Ao's threatened crown-prince position, Liu Kang and Fu Zhaoyi's bedside advantage, and Shi Dan's institutional remonstrance.
 - [《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？](sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp.md) — 芮淇讲透资治通鉴 episode on Liu Xiang's defense of Chen Tang and Gan Yanshou, Han Yuandi's pardon and reward, Shi Xian/Kuang Heng's opposition, and gamble-like frontier merit.
@@ -2587,6 +2588,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《春秋》 / Chunqiu](entities/Chunqiu.md) — Classical text route for Hanji 560's Zhai Fangjin and Hu Chang court-teaching conflict.
 - [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor used by Wang Jia as a memorial precedent for thrift, fiscal reserve, and restraint in visible favoritism.
 - [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor whose profile spans Yang Xiong career background, Wang Jia's favorable precedent, Zhai Fangjin's coerced death, sudden-death blame management, Geng Yu's succession defense, and contested missing-son accusations.
+- [左伊秩訾 / Zuo Yizizhi](entities/ZuoYizizhi.md) — Xiongnu adviser who defects to Han after suspicion breaks trust with Huhanye Chanyu, then refuses to return after apology.
 - [梅福 / Mei Fu (Western Han)](entities/MeiFuWesternHan.md) — Chengdi-era memorialist warning that punished criticism and outer-relative power destroy the court's correction channel.
 - [王凤 / Wang Feng (Western Han)](entities/WangFengWesternHan.md) — Western Han Wang-family outer relative whose power field makes Wang Zhang's criticism lethal in Hanji 544.
 - [王章 / Wang Zhang (Western Han)](entities/WangZhangWesternHan.md) — Plain and upright Jingzhao Yin whose death after criticizing Wang Feng becomes Mei Fu's remonstrance-suppression warning.

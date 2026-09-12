@@ -44223,9 +44223,9 @@
       "url": "/wiki/entities/huhanyechanyubi/"
     },
     "HuhanyeChanyuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
@@ -44240,6 +44240,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！ [ltSk3rUl1E3hwxArIQrDjWHetNOc].md",
+          "key": "zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc/"
         }
       ],
       "updated": "2026-09-12",
@@ -68745,9 +68752,9 @@
       "url": "/wiki/concepts/partisanshipaselectoralgravity/"
     },
     "PartnershipBoundaryRisk": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！ [llQuknhihdMs-6JYJbTFdFHvWv4G].md",
@@ -68755,6 +68762,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！ [ltSk3rUl1E3hwxArIQrDjWHetNOc].md",
+          "key": "zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc/"
         }
       ],
       "updated": "2026-09-12",
@@ -95231,9 +95245,9 @@
       "url": "/wiki/entities/wangzhangwesternhan/"
     },
     "WangZhaojun": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
@@ -95241,6 +95255,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
           "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！ [ltSk3rUl1E3hwxArIQrDjWHetNOc].md",
+          "key": "zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc/"
         }
       ],
       "updated": "2026-09-12",
@@ -107660,6 +107681,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zuoxionglatehan/"
+    },
+    "ZuoYizizhi": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！ [ltSk3rUl1E3hwxArIQrDjWHetNOc].md",
+          "key": "zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zuoyizizhi/"
     },
     "ZuoYuanLateHan": {
       "episode_count": 1,
