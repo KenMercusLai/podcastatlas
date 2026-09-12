@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场
+
+Added source `zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho`; created Hua Long, Xu Zhang, and Zhang Chang; updated Xiao Wangzhi, Han Yuandi, Hong Gong, Zheng Peng, Zhou Kan, and Court Summons as Death Sentence. No settled contradiction found; Zheng Peng's exact accusations, Hua Long's full career, Yuan's private understanding of Tingwei procedure, and the episode's modern "不较劲" lesson remain source-scoped.
+
 ## [2026-09-13] ingest | 蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实
 
 Added 罗永浩的十字路口 source on Cai Kangyong, Kangxi Laile, public aging, AI creativity and simulation, grief ritual, wills, funerals, friendship, and life meaning.
@@ -18487,6 +18491,10 @@ Ran lint. See lint-report.md for details.
 Added All-In source on Steve Hilton's California governor campaign, affordability platform, CalDOGE, housing-cost capture, energy permitting, schools, crime, homelessness, and 2026 top-two electoral strategy.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1835
+topic_total_pages: 1838
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2552,6 +2552,9 @@ topic_entities:
   - key: "HuayangFuren"
     title: "华阳夫人 / Lady Huayang"
     url: "/wiki/entities/huayangfuren/"
+  - key: "HuaLongWesternHan"
+    title: "华龙 / Hua Long (Western Han)"
+    url: "/wiki/entities/hualongwesternhan/"
   - key: "NanshanBanditsWesternHan"
     title: "南山盗匪 / Nanshan Bandits (Western Han)"
     url: "/wiki/entities/nanshanbanditswesternhan/"
@@ -2981,6 +2984,9 @@ topic_entities:
   - key: "ZhangAo"
     title: "张敖 / Zhang Ao"
     url: "/wiki/entities/zhangao/"
+  - key: "ZhangChangWesternHan"
+    title: "张敞 / Zhang Chang (Western Han)"
+    url: "/wiki/entities/zhangchangwesternhan/"
   - key: "ZhangMengWesternHan"
     title: "张猛 / 张萌 / Zhang Meng (Western Han)"
     url: "/wiki/entities/zhangmengwesternhan/"
@@ -3863,6 +3869,9 @@ topic_entities:
   - key: "XuPingjunWesternHan"
     title: "许平君 / Xu Pingjun (Western Han)"
     url: "/wiki/entities/xupingjunwesternhan/"
+  - key: "XuZhangWesternHan"
+    title: "许章 / Xu Zhang (Western Han)"
+    url: "/wiki/entities/xuzhangwesternhan/"
   - key: "XieWannianWesternHan"
     title: "谢万年 / Xie Wannian (Western Han)"
     url: "/wiki/entities/xiewannianwesternhan/"

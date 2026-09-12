@@ -33190,6 +33190,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HuaLongWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "Huainanzi": [
     {
       "key": "culture",
@@ -74017,6 +74024,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "XuZhangWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "XuZhe": [
     {
       "key": "economics",
@@ -75591,6 +75605,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ZhangChangWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ZhangChengAstrologerLateHan": [

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场](sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho.md) — 芮淇讲透资治通鉴 episode on Zheng Peng's betrayal of Xiao Wangzhi, the Tingwei custody trap, Han Yuandi's face-saving pardon, and the setup for Xiao's fatal vindication conflict.
 - [蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实](sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1.md) — 罗永浩的十字路口 interview with Cai Kangyong on Kangxi Laile, aging, AI creativity, grief ritual, death normalization, written art, and life meaning.
 - [CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win](sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000.md) — All-In interview with Steve Hilton on his California governor campaign, affordability tax plan, CalDOGE, housing costs, energy permitting, schools, crime, homelessness, and blue-state Republican electoral math.
 - [《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！](sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe.md) — 芮淇讲透资治通鉴 episode on Xiao Wangzhi's suicide after Xiao Ji's vindication petition, Hong Gong and Shi Xian's arrest trap, Han Yuandi's weak grief, and reputation-first political failure.
@@ -2316,6 +2317,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [华龙 / Hua Long (Western Han)](entities/HuaLongWesternHan.md) — Western Han accuser who joins Zheng Peng in the first Xiao Wangzhi case.
+- [许章 / Xu Zhang (Western Han)](entities/XuZhangWesternHan.md) — Western Han court actor on Shi Gao's side of Zheng Peng's accusation reversal.
+- [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han official presented as capable but too informal for crown-prince instruction in Hanji 469.
 - [蔡康永 / Cai Kangyong](entities/CaiKangyong.md) — Host, writer, and Kangxi Laile figure whose interview adds aging, grief, AI-era creativity, and death-facing practice.
 - [CalDOGE](entities/CalDOGE.md) — Steve Hilton's campaign-branded California government-efficiency project for spending audits and waste claims.
 - [Herb Morgan](entities/HerbMorgan.md) — California controller candidate Hilton presents as the audit and payment-control partner for CalDOGE.

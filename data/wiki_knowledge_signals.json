@@ -19385,9 +19385,9 @@
       "url": "/wiki/concepts/courtlegitimacyoverpatronloyalty/"
     },
     "CourtSummonsAsDeathSentence": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》598丨古代朝堂的斗争有多残酷？ [luOF_1bXoMTCSRKcvmUPLPuGAw4D].md",
@@ -19402,9 +19402,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》599丨敢对潜规则说不！丞相王嘉有多勇？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/courtsummonsasdeathsentence/"
     },
     "CourtTransitionBlameManagement": {
@@ -41700,9 +41707,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -41815,6 +41822,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
         }
       ],
       "updated": "2026-09-13",
@@ -43780,9 +43794,9 @@
       "url": "/wiki/entities/honeycrisp/"
     },
     "HongGongWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！ [lof1c5NCtAli_Zsy0hotQyoCjgoE].md",
@@ -43790,6 +43804,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
         }
       ],
       "updated": "2026-09-13",
@@ -44915,6 +44936,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/huwutaiyuanlatehan/"
+    },
+    "HuaLongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/hualongwesternhan/"
     },
     "HuaMengLateHan": {
       "episode_count": 1,
@@ -102273,9 +102310,9 @@
       "url": "/wiki/entities/xiaosiye/"
     },
     "XiaoWangzhiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？ [lmL1Qwuw3iUjoBNltBjYMEyOjd4g].md",
@@ -102290,6 +102327,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
         }
       ],
       "updated": "2026-09-13",
@@ -103540,6 +103584,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/xuyueautismscholar/"
+    },
+    "XuZhangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/xuzhangwesternhan/"
     },
     "XuZhaoLateHan": {
       "episode_count": 1,
@@ -107271,6 +107331,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangchangnanyanglatehan/"
     },
+    "ZhangChangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/zhangchangwesternhan/"
+    },
     "ZhangChangzong": {
       "episode_count": 1,
       "show_count": 1,
@@ -109499,9 +109575,9 @@
       "url": "/wiki/entities/zhengjuneasternhan/"
     },
     "ZhengPengWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
@@ -109509,9 +109585,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/zhengpengwesternhan/"
     },
     "ZhengSaLateHan": {
@@ -110286,9 +110369,9 @@
       "url": "/wiki/entities/zhoujulatehan/"
     },
     "ZhouKanWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
@@ -110310,9 +110393,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
           "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
+          "key": "zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/zhoukanwesternhan/"
     },
     "ZhouRongEasternHan": {
