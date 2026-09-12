@@ -30167,6 +30167,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "GuJiWesternHan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "GuJiegang": [
     {
       "key": "history",
@@ -83902,6 +83909,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by": [
     {
       "key": "politics",
       "label": "Politics",

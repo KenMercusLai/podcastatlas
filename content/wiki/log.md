@@ -18471,6 +18471,12 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

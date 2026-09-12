@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7207
+wiki_total_pages: 7209
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "ReciprocalTariffFormula"
     title: "Reciprocal Tariff Formula"
     url: "/wiki/concepts/reciprocaltariffformula/"
+  - key: "RecklessCourageDecisionRisk"
+    title: "Reckless Courage Decision Risk / 有勇无谋决策风险"
+    url: "/wiki/concepts/recklesscouragedecisionrisk/"
   - key: "RecognitionAsHumiliation"
     title: "Recognition As Humiliation"
     url: "/wiki/concepts/recognitionashumiliation/"

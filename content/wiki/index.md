@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！](sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe.md) — 芮淇讲透资治通鉴 episode on Xiao Wangzhi's suicide after Xiao Ji's vindication petition, Hong Gong and Shi Xian's arrest trap, Han Yuandi's weak grief, and reputation-first political failure.
 - [《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？](sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l.md) — 芮淇讲透资治通鉴 episode on Jia Juanzhi's "弃珠崖议", Zhuya and Dan'er suppression costs, Yu Dingguo's support for abandonment, and the host's modern territorial-security counterweight.
 - [《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史](sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp.md) — 芮淇讲透资治通鉴 episode on Han Yuandi abolishing Zhuya Commandery under famine and fiscal pressure, Hainan's looser post-abolition attachment, and Yuan-era thrift, Confucian education, and legal simplification.
+- [《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？](sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by.md) — 芮淇讲透资治通鉴 episode on Gu Ji's fatal escort mission to Zhizhi Chanyu, reckless courage, Kangju's dangerous ally invitation, and crisis opportunity after outside-force disorder.
 - [665. Britain in the 70s: The Bailout from Hell (Part 4)](sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819.md) — The Rest Is History episode on Jim Callaghan, Denis Healey, Britain's 1976 IMF crisis, Labour's economic split, and the Sex Pistols as punk-era crisis symbolism.
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
 - [《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘](sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc.md) — 芮淇讲透资治通鉴 episode on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations, and the risk of turning symbolic capital into factional court exposure.
@@ -2312,6 +2313,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [谷吉 / Gu Ji (Western Han)](entities/GuJiWesternHan.md) — Western Han envoy killed after insisting on escorting Zhizhi Chanyu's hostage son to the chanyu's court despite warnings.
 - [弘恭 / Hong Gong (Western Han)](entities/HongGongWesternHan.md) — Yuan-era eunuch favorite paired with Shi Xian in Xiao Wangzhi's death case.
 - [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
 - [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after repeated unrest, Jia Juanzhi's cost argument, and famine pressure made direct rule too costly.
@@ -12197,6 +12199,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [有勇无谋决策风险 / Reckless Courage Decision Risk](concepts/RecklessCourageDecisionRisk.md) — Failure mode where willingness to face danger outruns planning, timing, and realistic task completion.
+- [引强援反噬风险 / Dangerous Ally Invitation Risk](concepts/DangerousAllyInvitationRisk.md) — Alliance risk where inviting a powerful outsider against one enemy imports a larger uncontrollable threat.
 - [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, IMF, austerity, and Labour cabinet crisis treated as a turning point in British economic governance.
 - [Postwar Keynesian Retreat](concepts/PostwarKeynesianRetreat.md) — Political move away from the assumption that governments could simply spend their way out of recession.
 - [Siege Economy Strategy](concepts/SiegeEconomyStrategy.md) — Labour-left crisis strategy built around controls, protectionism, nationalisation, and pressure on allies.

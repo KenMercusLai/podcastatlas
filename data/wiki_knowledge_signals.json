@@ -20710,6 +20710,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/danpashman/"
     },
+    "DangerousAllyInvitationRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
+          "key": "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/dangerousallyinvitationrisk/"
+    },
     "DangerousGuestReleaseRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -38357,10 +38373,17 @@
       "url": "/wiki/entities/gongshengxinscholar/"
     },
     "GongYuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
+          "key": "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
           "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
@@ -38376,7 +38399,7 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/gongyuwesternhan/"
     },
     "GongchengXingWesternHan": {
@@ -39389,6 +39412,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/growthwitnessing/"
+    },
+    "GuJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
+          "key": "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/gujiwesternhan/"
     },
     "GuYongWesternHan": {
       "episode_count": 9,
@@ -51234,10 +51273,17 @@
       "url": "/wiki/entities/kangbao/"
     },
     "Kangju": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
+          "key": "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
           "key": "zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto",
@@ -51260,7 +51306,7 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/kangju/"
     },
     "KaogongfaReformBacklash": {
@@ -77798,6 +77844,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/receptiveremonstrancegovernance/"
+    },
+    "RecklessCourageDecisionRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
+          "key": "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/recklesscouragedecisionrisk/"
     },
     "ReclusionAuthenticityAssessment": {
       "episode_count": 3,
@@ -109475,10 +109537,17 @@
       "url": "/wiki/entities/zhiyuanrobotics/"
     },
     "ZhizhiChanyu": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
+          "key": "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
           "key": "zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l",
@@ -109515,7 +109584,7 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-489-weizao-shengzhi-shadi-hanjiang-chentang-you-duo-kuang-ligjvbvujg4nujinr1k39aiv28lz/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/zhizhichanyu/"
     },
     "ZhongChuxi": {

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2438
+topic_total_pages: 2440
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6383,6 +6383,9 @@ topic_entities:
   - key: "ZhuFangZhangChu"
     title: "诸坊 / Zhu Fang (Zhang Chu)"
     url: "/wiki/entities/zhufangzhangchu/"
+  - key: "GuJiWesternHan"
+    title: "谷吉 / Gu Ji (Western Han)"
+    url: "/wiki/entities/gujiwesternhan/"
   - key: "JiaBiaoLateHan"
     title: "贾彪 / Jia Biao (late Han)"
     url: "/wiki/entities/jiabiaolatehan/"
@@ -7158,6 +7161,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by"
+    title: "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by/"
   - key: "zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk"
     title: "《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？"
     url: "/wiki/sources/zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk/"

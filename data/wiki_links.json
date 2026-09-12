@@ -15427,6 +15427,10 @@
     "title": "当当 / Dangdang",
     "url": "/wiki/entities/dangdang/"
   },
+  "DangerousAllyInvitationRisk": {
+    "title": "Dangerous Ally Invitation Risk / 引强援反噬风险",
+    "url": "/wiki/concepts/dangerousallyinvitationrisk/"
+  },
   "DangerousGuestReleaseRisk": {
     "title": "Dangerous Guest Release Risk / 放虎归山式宾客释放风险",
     "url": "/wiki/concepts/dangerousguestreleaserisk/"
@@ -25498,6 +25502,10 @@
   "Gryphon": {
     "title": "Gryphon / 鹰头狮",
     "url": "/wiki/entities/gryphon/"
+  },
+  "GuJiWesternHan": {
+    "title": "谷吉 / Gu Ji (Western Han)",
+    "url": "/wiki/entities/gujiwesternhan/"
   },
   "GuJiegang": {
     "title": "顾颉刚",
@@ -49714,6 +49722,10 @@
   "ReciprocalTariffFormula": {
     "title": "Reciprocal Tariff Formula",
     "url": "/wiki/concepts/reciprocaltariffformula/"
+  },
+  "RecklessCourageDecisionRisk": {
+    "title": "Reckless Courage Decision Risk / 有勇无谋决策风险",
+    "url": "/wiki/concepts/recklesscouragedecisionrisk/"
   },
   "ReclusionAuthenticityAssessment": {
     "title": "真隐士与伪隐士辨别 / Reclusion Authenticity Assessment",
@@ -74554,6 +74566,10 @@
   "zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp": {
     "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
     "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
+  },
+  "zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by": {
+    "title": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by/"
   },
   "zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj": {
     "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
