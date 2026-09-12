@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1051
+topic_total_pages: 1053
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -532,6 +532,9 @@ topic_concepts:
   - key: "EnvironmentOverWillpower"
     title: "Environment Over Willpower"
     url: "/wiki/concepts/environmentoverwillpower/"
+  - key: "EnvironmentalExposureSignalDetection"
+    title: "Environmental Exposure Signal Detection"
+    url: "/wiki/concepts/environmentalexposuresignaldetection/"
   - key: "EnvironmentalRepairSocialCost"
     title: "Environmental Repair Social Cost"
     url: "/wiki/concepts/environmentalrepairsocialcost/"
@@ -2384,6 +2387,9 @@ topic_entities:
   - key: "PhilipZimbardo"
     title: "Philip Zimbardo / 菲利普·津巴多"
     url: "/wiki/entities/philipzimbardo/"
+  - key: "Picloram"
+    title: "Picloram"
+    url: "/wiki/entities/picloram/"
   - key: "PierreSimonLaplace"
     title: "Pierre-Simon Laplace / 拉普拉斯"
     url: "/wiki/entities/pierresimonlaplace/"

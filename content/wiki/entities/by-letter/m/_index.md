@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9917
+wiki_total_pages: 9921
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -614,6 +614,9 @@ wiki_pages:
   - key: "MDMA"
     title: "MDMA"
     url: "/wiki/entities/mdma/"
+  - key: "Medallia"
+    title: "Medallia"
+    url: "/wiki/entities/medallia/"
   - key: "MedallionFund"
     title: "Medallion Fund"
     url: "/wiki/entities/medallionfund/"

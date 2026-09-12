@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2022
+topic_total_pages: 2023
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4763,6 +4763,9 @@ topic_entities:
   - key: "ThirdPoint"
     title: "Third Point"
     url: "/wiki/entities/thirdpoint/"
+  - key: "ThomaBravo"
+    title: "Thoma Bravo"
+    url: "/wiki/entities/thomabravo/"
   - key: "ThomasJWatson"
     title: "Thomas J. Watson / 托马斯·沃森"
     url: "/wiki/entities/thomasjwatson/"

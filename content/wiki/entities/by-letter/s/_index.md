@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9917
+wiki_total_pages: 9921
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "SouthernOcean"
     title: "Southern Ocean"
     url: "/wiki/entities/southernocean/"
+  - key: "SouthernPovertyLawCenter"
+    title: "Southern Poverty Law Center"
+    url: "/wiki/entities/southernpovertylawcenter/"
   - key: "SovietUnion"
     title: "Soviet Union"
     url: "/wiki/entities/sovietunion/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7253
+wiki_total_pages: 7258
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "DeathsOfDespairCounterfeitPillRisk"
     title: "Deaths Of Despair Counterfeit Pill Risk"
     url: "/wiki/concepts/deathsofdespaircounterfeitpillrisk/"
+  - key: "DebtFinancedSaaSRollupRisk"
+    title: "Debt-Financed SaaS Rollup Risk"
+    url: "/wiki/concepts/debtfinancedsaasrolluprisk/"
   - key: "DecentLifeAsControl"
     title: "Decent Life As Control"
     url: "/wiki/concepts/decentlifeascontrol/"

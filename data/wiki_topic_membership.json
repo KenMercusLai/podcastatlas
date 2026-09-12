@@ -2972,6 +2972,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AICodingVerticalIntegration": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AICognitiveGym": [
     {
       "key": "technology",
@@ -19846,6 +19853,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "DebtFinancedSaaSRollupRisk": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "DecentLifeAsControl": [
     {
       "key": "culture",
@@ -23622,6 +23636,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "EnterpriseAgentControlLayer": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EnterpriseAgentGovernance": [
     {
       "key": "technology",
@@ -23729,6 +23750,18 @@
     }
   ],
   "EnvironmentOverWillpower": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "EnvironmentalExposureSignalDetection": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
     {
       "key": "science",
       "label": "Science",
@@ -51442,6 +51475,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "Picloram": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PiedPiperMedievalEurope": [
     {
       "key": "culture",
@@ -67182,6 +67222,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "ThomaBravo": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "ThomasHutchinson": [
     {
       "key": "politics",
@@ -77870,6 +77922,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike-41010525": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150": [

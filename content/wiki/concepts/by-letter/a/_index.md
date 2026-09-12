@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7253
+wiki_total_pages: 7258
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -629,6 +629,9 @@ wiki_pages:
   - key: "AICodingVerification"
     title: "AI Coding Verification"
     url: "/wiki/concepts/aicodingverification/"
+  - key: "AICodingVerticalIntegration"
+    title: "AI Coding Vertical Integration"
+    url: "/wiki/concepts/aicodingverticalintegration/"
   - key: "AICognitiveGym"
     title: "AI Cognitive Gym / 把 AI 当健身房"
     url: "/wiki/concepts/aicognitivegym/"

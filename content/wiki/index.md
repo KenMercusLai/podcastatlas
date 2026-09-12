@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike](sources/all-in-with-chamath-jason-sacks-friedberg-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike-41010525.md) — All-In episode on a reported SpaceX-Cursor-xAI coding deal, SaaS debt fragility, Apple succession, SPLC indictment allegations, and a picloram early-onset colorectal cancer signal.
 - [《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼](sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm.md) — 芮淇讲透资治通鉴 episode on the 57 BCE Xiongnu five-chanyu crisis, Xiao Wangzhi's advice against opportunistic war, and Han Xuan's choice of mourning, aid, and legitimacy-minded restraint.
 - [《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜](sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's death, Xiao Wangzhi's accusation, public affection for a capable local official, and the post-Huo-Guang political-security reading behind the case.
 - [《资治通鉴·汉纪》451｜儒者萧望之：谁优秀我就弄死谁!](sources/zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's death, Xiao Wangzhi's investigation and narrative reframing, Bing Ji's de-escalation attempt, and Emperor Xuan's punishment-severity blemish.
@@ -2343,6 +2344,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Medallia](entities/Medallia.md) — Customer-experience SaaS company used by All-In as a debt-backed software fragility case.
+- [Thoma Bravo](entities/ThomaBravo.md) — Software-focused private-equity firm discussed through the Medallia debt case.
+- [Southern Poverty Law Center](entities/SouthernPovertyLawCenter.md) — Nonprofit discussed through source-scoped indictment allegations and informant-accountability questions.
+- [Picloram](entities/Picloram.md) — Persistent herbicide flagged in an All-In science segment as a source-scoped early-onset colorectal cancer exposure signal.
 - [Huang Ba (Western Han)](entities/HuangBaWesternHan.md) — Western Han chancellor whose bird-omen embarrassment and failed Shi Gao recommendation illustrate reputation pressure, false performance signals, and sensitive personnel-boundary overreach.
 - [丙吉 / Bing Ji (Western Han)](entities/BingJiWesternHan.md) — Western Han chancellor used by Hanji 454 as a quiet-merit contrast to Huang Ba's reputation-driven omen mistake.
 - [Du Yannian (Western Han)](entities/DuYannianWesternHan.md) — Western Han official appointed yushi dafu by Emperor Xuan in the Hanji 455 closing notice.
@@ -12264,6 +12269,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [AI Coding Vertical Integration](concepts/AICodingVerticalIntegration.md) — Strategy of combining AI coding interface, enterprise workflow, training data, model capability, and compute supply.
+- [Enterprise Agent Control Layer](concepts/EnterpriseAgentControlLayer.md) — Enterprise environment for coordinating many AI agents, model choices, permissions, tasks, and review loops.
+- [Debt-Financed SaaS Rollup Risk](concepts/DebtFinancedSaaSRollupRisk.md) — Fragility when leveraged software deals depend on predictable SaaS cash flows that AI and retention pressure can weaken.
+- [Nonprofit Informant Accountability](concepts/NonprofitInformantAccountability.md) — Governance problem around auditing paid informants, donor money, tax status, and politically sensitive nonprofit monitoring.
+- [Environmental Exposure Signal Detection](concepts/EnvironmentalExposureSignalDetection.md) — Use of public datasets, geographic exposure estimates, molecular signatures, and disease patterns to flag chemicals for safety review.
 - [叙事改写式政治攻击 / Narrative Reframing as Political Attack](concepts/NarrativeReframingAsPoliticalAttack.md) — Court-politics tactic where a dispute is recategorized as obstruction, disloyalty, or threat before the ruler judges the evidence.
 - [关系性轻慢风险 / Relational Disrespect Power Risk](concepts/RelationalDisrespectPowerRisk.md) — Workplace and court-politics pattern where contempt toward one actor offends hidden relationship debts, status order, and a superior's dignity.
 - [积怨式默认怀疑 / Accumulated Enmity Default Suspicion](concepts/AccumulatedEnmityDefaultSuspicion.md) — Reputation-risk pattern where repeated sharpness and fault-exposure make someone the default suspected attacker when hidden accusation appears.

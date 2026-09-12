@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7253
+wiki_total_pages: 7258
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "EngineeringState"
     title: "Engineering State"
     url: "/wiki/concepts/engineeringstate/"
+  - key: "EnterpriseAgentControlLayer"
+    title: "Enterprise Agent Control Layer"
+    url: "/wiki/concepts/enterpriseagentcontrollayer/"
   - key: "EnterpriseAgentGovernance"
     title: "Enterprise Agent Governance"
     url: "/wiki/concepts/enterpriseagentgovernance/"
@@ -563,6 +566,9 @@ wiki_pages:
   - key: "EnvironmentBasedAgentBenchmarks"
     title: "Environment-Based Agent Benchmarks"
     url: "/wiki/concepts/environmentbasedagentbenchmarks/"
+  - key: "EnvironmentalExposureSignalDetection"
+    title: "Environmental Exposure Signal Detection"
+    url: "/wiki/concepts/environmentalexposuresignaldetection/"
   - key: "EnvironmentalRepairSocialCost"
     title: "Environmental Repair Social Cost"
     url: "/wiki/concepts/environmentalrepairsocialcost/"

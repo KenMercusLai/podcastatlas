@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9917
+wiki_total_pages: 9921
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -461,6 +461,9 @@ wiki_pages:
   - key: "Pickwing"
     title: "Pickwing"
     url: "/wiki/entities/pickwing/"
+  - key: "Picloram"
+    title: "Picloram"
+    url: "/wiki/entities/picloram/"
   - key: "PieroFerrari"
     title: "Piero Ferrari"
     url: "/wiki/entities/pieroferrari/"

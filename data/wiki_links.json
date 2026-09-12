@@ -1819,6 +1819,10 @@
     "title": "AI Coding Verification",
     "url": "/wiki/concepts/aicodingverification/"
   },
+  "AICodingVerticalIntegration": {
+    "title": "AI Coding Vertical Integration",
+    "url": "/wiki/concepts/aicodingverticalintegration/"
+  },
   "AICognitiveGym": {
     "title": "AI Cognitive Gym / 把 AI 当健身房",
     "url": "/wiki/concepts/aicognitivegym/"
@@ -16151,6 +16155,10 @@
     "title": "Deaths Of Despair Counterfeit Pill Risk",
     "url": "/wiki/concepts/deathsofdespaircounterfeitpillrisk/"
   },
+  "DebtFinancedSaaSRollupRisk": {
+    "title": "Debt-Financed SaaS Rollup Risk",
+    "url": "/wiki/concepts/debtfinancedsaasrolluprisk/"
+  },
   "DecentLifeAsControl": {
     "title": "Decent Life As Control",
     "url": "/wiki/concepts/decentlifeascontrol/"
@@ -19659,6 +19667,10 @@
     "title": "Enterprise AI ROI Audit",
     "url": "/wiki/concepts/enterpriseairoiaudit/"
   },
+  "EnterpriseAgentControlLayer": {
+    "title": "Enterprise Agent Control Layer",
+    "url": "/wiki/concepts/enterpriseagentcontrollayer/"
+  },
   "EnterpriseAgentGovernance": {
     "title": "Enterprise Agent Governance",
     "url": "/wiki/concepts/enterpriseagentgovernance/"
@@ -19778,6 +19790,10 @@
   "EnvironmentOverWillpower": {
     "title": "Environment Over Willpower",
     "url": "/wiki/concepts/environmentoverwillpower/"
+  },
+  "EnvironmentalExposureSignalDetection": {
+    "title": "Environmental Exposure Signal Detection",
+    "url": "/wiki/concepts/environmentalexposuresignaldetection/"
   },
   "EnvironmentalProtectionAgency": {
     "title": "Environmental Protection Agency",
@@ -39455,6 +39471,10 @@
     "title": "麦考林 / Mecox Lane",
     "url": "/wiki/entities/mecoxlane/"
   },
+  "Medallia": {
+    "title": "Medallia",
+    "url": "/wiki/entities/medallia/"
+  },
   "MedallionFund": {
     "title": "Medallion Fund",
     "url": "/wiki/entities/medallionfund/"
@@ -43159,6 +43179,10 @@
     "title": "Nonpartisan Candidate Party-System Constraint",
     "url": "/wiki/concepts/nonpartisancandidatepartysystemconstraint/"
   },
+  "NonprofitInformantAccountability": {
+    "title": "Nonprofit Informant Accountability",
+    "url": "/wiki/concepts/nonprofitinformantaccountability/"
+  },
   "NonprofitStartupDiscipline": {
     "title": "Nonprofit Startup Discipline",
     "url": "/wiki/concepts/nonprofitstartupdiscipline/"
@@ -46270,6 +46294,10 @@
   "Pickwing": {
     "title": "Pickwing",
     "url": "/wiki/entities/pickwing/"
+  },
+  "Picloram": {
+    "title": "Picloram",
+    "url": "/wiki/entities/picloram/"
   },
   "PiedPiperMedievalEurope": {
     "title": "《花衣魔笛手：传说背后的欧洲中世纪》",
@@ -55675,6 +55703,10 @@
     "title": "Southern Ocean",
     "url": "/wiki/entities/southernocean/"
   },
+  "SouthernPovertyLawCenter": {
+    "title": "Southern Poverty Law Center",
+    "url": "/wiki/entities/southernpovertylawcenter/"
+  },
   "SouthernTang": {
     "title": "南唐 / Southern Tang",
     "url": "/wiki/entities/southerntang/"
@@ -59574,6 +59606,10 @@
   "ThirtySixViewsOfMountFuji": {
     "title": "Thirty-six Views of Mount Fuji / 富岳三十六景",
     "url": "/wiki/entities/thirtysixviewsofmountfuji/"
+  },
+  "ThomaBravo": {
+    "title": "Thoma Bravo",
+    "url": "/wiki/entities/thomabravo/"
   },
   "ThomasAquinas": {
     "title": "Thomas Aquinas / 托马斯·阿奎那",
@@ -70454,6 +70490,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335": {
     "title": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-socialists-sweep-nyc-china-catches-up-in-coding-ai-memory-crunch-microns-blowout-quarter-41835335/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike-41010525": {
+    "title": "SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike-41010525/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-spacexs-2t-case-nvidias-shock-selloff-america-turns-on-ai-trump-pulls-ai-order-bond-crisis-41400150": {
     "title": "SpaceX's $2T Case, Nvidia's Shock Selloff, America Turns on AI, Trump Pulls AI Order, Bond Crisis?",

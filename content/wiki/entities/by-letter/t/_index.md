@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9917
+wiki_total_pages: 9921
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -491,6 +491,9 @@ wiki_pages:
   - key: "ThirtySixViewsOfMountFuji"
     title: "Thirty-six Views of Mount Fuji / 富岳三十六景"
     url: "/wiki/entities/thirtysixviewsofmountfuji/"
+  - key: "ThomaBravo"
+    title: "Thoma Bravo"
+    url: "/wiki/entities/thomabravo/"
   - key: "ThomasAquinas"
     title: "Thomas Aquinas / 托马斯·阿奎那"
     url: "/wiki/entities/thomasaquinas/"

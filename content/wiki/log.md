@@ -18518,6 +18518,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike
+
+Added source note plus Medallia, Thoma Bravo, Southern Poverty Law Center, Picloram, AI Coding Vertical Integration, Enterprise Agent Control Layer, Debt-Financed SaaS Rollup Risk, Nonprofit Informant Accountability, and Environmental Exposure Signal Detection pages. Key claims: coding AI may vertically integrate around tools, models, compute, and workflow data; debt-backed SaaS rollups are fragile when AI compresses pricing and retention; nonprofit informant programs require stronger audit boundaries; picloram is treated as a source-scoped exposure signal rather than causal proof.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了
 
 Added source `zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb`; created `DaiChangleWesternHan` and `AccumulatedEnmityDefaultSuspicion`; updated `YangYunWesternHan`, `index`, and `overview`. No settled contradiction found; Dai's original accuser, Dai's offense, Yu Dingguo's motive, and the legal force of omen language remain source-scoped.
@@ -18671,6 +18675,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧
 
 Added source note plus Laozi, Confucius, Daodejing, and Daoist cultivation concept updates. Key claims: Laozi critiques forced renyi as potentially disturbing nature, teaches natural wuwei and observing sameness, and reframes life/death, right/wrong, noble/low, and honor/disgrace as changing states within the Way.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
