@@ -17720,6 +17720,10 @@ Added source note for Hanji 511, updated Wang Zun with the impeachment-review br
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？
+
+Added source note, created Xiao Wangzhi, and updated Shi Xian, Han Yuandi, Trusted Eunuch Power Formation, and Message Relay Political Power.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！
 
 Added source note, created Confucian-Legalist Governance Balance, and updated Han Yuandi, Shi Xian, and Kuang Heng.
@@ -18053,6 +18057,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

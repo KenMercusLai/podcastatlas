@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1814
+topic_total_pages: 1815
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -3713,6 +3713,9 @@ topic_entities:
   - key: "XiaoCounty"
     title: "萧县 / Xiao County"
     url: "/wiki/entities/xiaocounty/"
+  - key: "XiaoWangzhiWesternHan"
+    title: "萧望之 / Xiao Wangzhi (Western Han)"
+    url: "/wiki/entities/xiaowangzhiwesternhan/"
   - key: "XiaoXianWesternHan"
     title: "萧贤 / Xiao Xian (Western Han)"
     url: "/wiki/entities/xiaoxianwesternhan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9815
+wiki_total_pages: 9816
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -500,6 +500,9 @@ wiki_pages:
   - key: "XiaoCounty"
     title: "萧县 / Xiao County"
     url: "/wiki/entities/xiaocounty/"
+  - key: "XiaoWangzhiWesternHan"
+    title: "萧望之 / Xiao Wangzhi (Western Han)"
+    url: "/wiki/entities/xiaowangzhiwesternhan/"
   - key: "XiaoChuzhou"
     title: "萧楚舟 / Xiao Chuzhou"
     url: "/wiki/entities/xiaochuzhou/"

@@ -7,27 +7,29 @@ sources:
   - zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra
   - zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq
   - zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc
+  - zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g
 last_updated: 2026-09-12
 ---
 
 ## Definition
 
-信任型宦官权力形成 / trusted eunuch power formation is the process by which eunuch influence begins through usefulness to the ruler, personal trust, reward or threat management, and routine inner-court access before it becomes an openly dominant political structure.
+信任型宦官权力形成 / trusted eunuch power formation is the process by which eunuch influence begins through usefulness to the ruler, emotional attunement, personal trust, reward or threat management, and routine inner-court access before it becomes an openly dominant political structure.
 
 ## Current Synthesis
 
-The earlier Western Han formation case comes through [[ShiXianWesternHan|石显]]. Shi Xian is not presented as merely flattering [[HanYuandi|汉元帝]]. His legal skill, cultural literacy, work capacity, and message-channel experience make him useful inside the ruler's information flow, so trust grows through competence and access before his later fall under [[HanChengdi|汉成帝]].
+The earlier Western Han formation case comes through [[ShiXianWesternHan|石显]]. Shi Xian is not presented as merely flattering [[HanYuandi|汉元帝]]. His legal skill, cultural literacy, work capacity, and message-channel experience make him useful inside the ruler's information flow, so trust grows through competence and access before his later fall under [[HanChengdi|汉成帝]]. [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] adds that this trust also has an affective path: Shi Xian supplies companionship, music-based emotional resonance, reliable follow-through, and controlled confession to a ruler the host interprets as emotionally needy and ill.
 
 The Eastern Han crisis-usefulness layer is clearer in [[EmperorHeOfHan|Emperor He]]'s anti-Dou planning. He cannot safely consult outer ministers under [[DouXianEasternHan|Dou Xian]]'s dominance, so he secretly plans with [[ZhengZhongEasternHan|Zheng Zhong]] and uses [[LiuQingQingheKing|Liu Qing]] to relay a request for historical precedents about punishing powerful maternal uncles.
 
 Post-victory trust consolidation follows the same logic. Emperor He rewards allies after removing the Dou family and promotes Zheng to da changqiu. Zheng refuses rewards and presents humility, which makes the emperor trust him and discuss government with him.
 
-The source set therefore widens the formation model. Trusted eunuch power can begin through ordinary administrative usefulness and information relay, as with Shi Xian, or through crisis planning and reward restraint, as with Zheng Zhong. In both cases the early stage is not open domination; it is the ruler's repeated reliance on a close palace actor who appears useful, safer than other blocs, or both.
+The source set therefore widens the formation model. Trusted eunuch power can begin through ordinary administrative usefulness, information relay, and emotional attunement, as with Shi Xian, or through crisis planning and reward restraint, as with Zheng Zhong. In both cases the early stage is not open domination; it is the ruler's repeated reliance on a close palace actor who appears useful, safer than other blocs, personally comforting, or all three.
 
 ## Key Claims
 
 - Eunuch power can begin as trusted usefulness before it hardens into structural monopoly.
 - Message-channel and document access can make a palace servant politically valuable even before crisis.
+- Emotional attunement and reliability performance can convert proximity into personal dependence.
 - Reward refusal may increase influence when the ruler interprets it as virtue and low threat.
 - Inner-court proximity matters because repeated consultation can become a governing channel.
 - Post-outer-relative consolidation can make palace servants look safer than natal-family or ministerial blocs.
@@ -38,6 +40,8 @@ The source set therefore widens the formation model. Trusted eunuch power can be
 Competence and information access:
 - [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] says Shi Xian had legal knowledge, cultural literacy, and strong work capacity.
 - [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] says palace message relay could shape what information reached the emperor and helped explain Shi Xian's rise.
+- [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] says Shi Xian builds Yuan's reliance through music, companionship during illness, reliable handling of affairs, and selective confession of small faults.
+- [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] says Shi Xian's trusted position helps him move against Xiao Wangzhi once Xiao opposes his favor.
 
 Crisis access:
 - [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says Emperor He cannot safely reach ministers and therefore plots with Zheng Zhong.
@@ -49,16 +53,16 @@ Trust consolidation:
 
 ## Counterevidence & Qualifications
 
-The page records source interpretations, not a complete institutional history of eunuch power. Hanji 500's Shi Xian case is morally negative and ends in collapse; Hanji 766-767's Zheng Zhong case is framed as crisis usefulness and humility after outer-relative danger. The concept should be used for early formation through usefulness, trust, and access, not as a synonym for all eunuch politics or a claim that every trusted eunuch created later domination.
+The page records source interpretations, not a complete institutional history of eunuch power. Hanji 500-501's Shi Xian case is morally negative and ends in collapse; Hanji 766-767's Zheng Zhong case is framed as crisis usefulness and humility after outer-relative danger. Hanji 501's psychological account of Yuan remains source-scoped. The concept should be used for early formation through usefulness, trust, affective access, and proximity, not as a synonym for all eunuch politics or a claim that every trusted eunuch created later domination.
 
 ## What Changed
 
-- Added Hanji 500 as an earlier Western Han formation layer based on competence, legal skill, message relay, and Emperor Yuan's trust.
-- Broadened the definition from crisis usefulness alone to usefulness plus trusted access, while preserving Hanji 766-767 as the crisis and reward-refusal branch.
+- Added Hanji 501's affective-access layer, distinguishing emotional attunement and reliability performance from the prior message-channel and crisis-planning mechanisms.
 
 ## Related Concepts
 
 - [[MessageRelayPoliticalPower|传话式信息权力]] - upstream mechanism added by Shi Xian's palace message-channel role.
+- [[XiaoWangzhiWesternHan|萧望之]] - early opponent whose removal shows trusted access becoming coercive court power.
 - [[HistoricalPrecedentCrisisPlanning|历史先例式危机规划]] - Zheng Zhong participates in the precedent-search channel before the anti-Dou operation.
 - [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]] - trusted eunuch access helps make the later palace operation possible.
 - [[PalaceAccessMonopoly|宫廷近身渠道垄断]] - later structural direction that trusted access can enable.
