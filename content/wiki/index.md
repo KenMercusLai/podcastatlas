@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？](sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's sincere but morally coercive dispute handling, his loyal-victim family entry into office, and Woyanqudi Chanyu's purge-driven Xiongnu fragmentation.
 - [SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike](sources/all-in-with-chamath-jason-sacks-friedberg-spacex-cursor-deal-saas-debt-bomb-new-apple-ceo-splc-indictment-colon-cancer-spike-41010525.md) — All-In episode on a reported SpaceX-Cursor-xAI coding deal, SaaS debt fragility, Apple succession, SPLC indictment allegations, and a picloram early-onset colorectal cancer signal.
 - [《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼](sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm.md) — 芮淇讲透资治通鉴 episode on the 57 BCE Xiongnu five-chanyu crisis, Xiao Wangzhi's advice against opportunistic war, and Han Xuan's choice of mourning, aid, and legitimacy-minded restraint.
 - [《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜](sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's death, Xiao Wangzhi's accusation, public affection for a capable local official, and the post-Huo-Guang political-security reading behind the case.
@@ -2371,7 +2372,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏征 / Wei Zheng (Tang)](entities/WeiZhengTang.md) — Tang direct-remonstrance contrast in Hanji 467.
 - [范仲淹 / Fan Zhongyan](entities/FanZhongyan.md) — Song official-conscience contrast in Hanji 467.
 - [唐太宗 / Emperor Taizong of Tang](entities/EmperorTaizongOfTang.md) — ruler-side condition for Wei Zheng's remonstrance in Hanji 467.
-- [韩延寿 / Han Yanshou (Western Han)](entities/HanYanshouWesternHan.md) — Western Han local-governance official whose real old-account exposure, public affection, and Xiao Wangzhi-shaped death case deepen Emperor Xuan's punishment-severity blemish.
+- [韩延寿 / Han Yanshou (Western Han)](entities/HanYanshouWesternHan.md) — Western Han local-governance official whose sincere moral governance, complaint-channel risks, real old-account exposure, public affection, and Xiao Wangzhi-shaped death case complicate his "good official" reputation.
 - [华龙 / Hua Long (Western Han)](entities/HuaLongWesternHan.md) — Western Han accuser who joins Zheng Peng in the first Xiao Wangzhi case.
 - [许章 / Xu Zhang (Western Han)](entities/XuZhangWesternHan.md) — Western Han court actor on Shi Gao's side of Zheng Peng's accusation reversal.
 - [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han public-order official whose strong anti-bandit ability is complicated by his anger-driven execution of Xu Shun and later teacher-suitability doubts.
@@ -12283,6 +12284,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [国家粮价平准 / State Grain Price Stabilization](concepts/StateGrainPriceStabilization.md) — Governance logic of using public procurement, storage, and release of staple grain to smooth harmful price swings.
 - [读史处世智慧 / Historical Reading as Survival Wisdom](concepts/HistoricalReadingAsSurvivalWisdom.md) — Reading-history concept where historical knowledge becomes practical judgment about power, risk, speech, and consequence.
 - [政治诛杀过度 / Political Execution Overreach](concepts/PoliticalExecutionOverreach.md) — Court-politics concept where severe execution damages legitimacy by exceeding public or moral proportionality.
+- [Moral Pressure Adjudication / 道德压力式审案](concepts/MoralPressureAdjudication.md) — Governance concept where official moral pressure resolves disputes by shame or hierarchy while risking suppressed complaints, weak fact-finding, and loss of legal remedy.
 - [心魔象征式解读 / Inner-Demon Symbolic Reading](concepts/InnerDemonSymbolicReading.md) — Interpretive method reading monsters, companions, battles, and props as projections or functions of a protagonist's inner conflict.
 - [小爱与大爱整合 / Love-Compassion Integration](concepts/LoveCompassionIntegration.md) — Film-reading concept where intimate love becomes part of broader compassion rather than merely an obstacle to it.
 - [形式化修行批判 / Formalized Cultivation Critique](concepts/FormalizedCultivationCritique.md) — Critique of outward practice signs when abstinence, purity, or moral language preserve hidden attachment rather than inner release.
@@ -16262,7 +16264,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unearned Reward Refusal / 非道所得不居](concepts/UnearnedRewardRefusal.md) — Late-Han title-discipline concept from Hanji 882 where officials refuse or are warned against rewards not grounded in proper merit or public legitimacy.
 - [Mencian Benevolent Government / 孟子仁政](concepts/MencianBenevolentGovernment.md) — Episode 30's governing program of livelihood, compassion, anti-starvation responsibility, and fuller reform beyond partial welfare gestures.
 - [王道 versus 霸道 / Kingly Way Over Hegemony](concepts/WangdaoVsBadao.md) — Episode 30 contrast between humane legitimacy and hegemonic domination, with the added risk that benevolent conquest still needs constraint.
-- [匈奴式继承碎裂 / Xiongnu Succession Fragmentation](concepts/XiongnuSuccessionFragmentation.md) — Western Han concept for the five-chanyu crisis, where suspicion, false accusation, title imitation, lineage claims, and external restraint shape frontier strategy.
+- [匈奴式继承碎裂 / Xiongnu Succession Fragmentation](concepts/XiongnuSuccessionFragmentation.md) — Western Han concept where coercive appointment, purge politics, suspicion, title imitation, lineage claims, and external restraint shape Xiongnu succession disorder.
 - [Constant Property, Constant Heart / 有恒产者有恒心](concepts/ConstantPropertyConstantHeart.md) — Mencian link between stable livelihood, property, moral steadiness, and political responsibility.
 - [Mencian People-Based Legitimacy / 孟子的民本合法性](concepts/MencianPeopleBasedLegitimacy.md) — Episode 30 synthesis of 民贵君轻, 暴君非君, and Heaven's will being read through the people's seeing and hearing.
 - [Mencian Idealism Limits / 孟子理想主义的限度](concepts/MencianIdealismLimits.md) — Episode 30 caution that Mencian moral politics can fail when war, institutions, incentives, and implementation do not match benevolent intent.

@@ -45937,6 +45937,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "MoralPressureAdjudication": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MoralReputationPoliticalCapital": [
     {
       "key": "politics",
@@ -84229,6 +84236,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr": [
     {
       "key": "politics",
       "label": "Politics",

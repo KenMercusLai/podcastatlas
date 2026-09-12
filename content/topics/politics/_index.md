@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2456
+topic_total_pages: 2458
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2062,6 +2062,9 @@ topic_concepts:
   - key: "MoralFaceUnderPowerCompetition"
     title: "Moral Face Under Power Competition / 权力竞争中的要脸"
     url: "/wiki/concepts/moralfaceunderpowercompetition/"
+  - key: "MoralPressureAdjudication"
+    title: "Moral Pressure Adjudication / 道德压力式审案"
+    url: "/wiki/concepts/moralpressureadjudication/"
   - key: "MoralReputationPoliticalCapital"
     title: "Moral Reputation as Political Capital / 道德名望政治资本"
     url: "/wiki/concepts/moralreputationpoliticalcapital/"
@@ -7200,6 +7203,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr"
+    title: "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr/"
   - key: "zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm"
     title: "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼"
     url: "/wiki/sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm/"

@@ -18518,6 +18518,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？
+
+Added source note plus Han Yanshou and Xiongnu succession-fragmentation updates, and created Moral Pressure Adjudication. Key claims: Han Yanshou's sincere moral governance can suppress complaint channels when it replaces facts and law; his official path is tied to his father's loyal death and Huo Guang's promotion; Woyanqudi Chanyu's purge and imposed appointments create an upstream Xiongnu fragmentation layer.
+
 ## [2026-09-13] ingest | SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer Spike
 
 Added source note plus Medallia, Thoma Bravo, Southern Poverty Law Center, Picloram, AI Coding Vertical Integration, Enterprise Agent Control Layer, Debt-Financed SaaS Rollup Risk, Nonprofit Informant Accountability, and Environmental Exposure Signal Detection pages. Key claims: coding AI may vertically integrate around tools, models, compute, and workflow data; debt-backed SaaS rollups are fragile when AI compresses pricing and retention; nonprofit informant programs require stronger audit boundaries; picloram is treated as a source-scoped exposure signal rather than causal proof.
@@ -18675,6 +18679,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧
 
 Added source note plus Laozi, Confucius, Daodejing, and Daoist cultivation concept updates. Key claims: Laozi critiques forced renyi as potentially disturbing nature, teaches natural wuwei and observing sameness, and reframes life/death, right/wrong, noble/low, and honor/disgrace as changing states within the Way.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

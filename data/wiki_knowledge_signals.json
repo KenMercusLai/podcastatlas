@@ -42483,9 +42483,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYanshouWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》451｜儒者萧望之：谁优秀我就弄死谁! [lo20q2_KdbmSw2ZFhehOAnCEo2OA].md",
@@ -42500,6 +42500,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？ [liAJVWsIMqt0nbvcN-3RkGBMTjkR].md",
+          "key": "zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr/"
         }
       ],
       "updated": "2026-09-13",
@@ -66729,6 +66736,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/moralpresencewithoutoffice/"
+    },
+    "MoralPressureAdjudication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？ [liAJVWsIMqt0nbvcN-3RkGBMTjkR].md",
+          "key": "zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/moralpressureadjudication/"
     },
     "MorningLightCircadianAnchoring": {
       "episode_count": 3,
@@ -104911,9 +104934,9 @@
       "url": "/wiki/entities/xiongnu/"
     },
     "XiongnuSuccessionFragmentation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼 [lo39-Mygg6xxo8cwCYvPQzCPZhRm].md",
@@ -104928,6 +104951,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
           "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？ [liAJVWsIMqt0nbvcN-3RkGBMTjkR].md",
+          "key": "zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr/"
         }
       ],
       "updated": "2026-09-13",

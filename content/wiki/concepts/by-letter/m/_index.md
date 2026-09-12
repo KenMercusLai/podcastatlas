@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7258
+wiki_total_pages: 7259
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -971,6 +971,9 @@ wiki_pages:
   - key: "MoralPresenceWithoutOffice"
     title: "Moral Presence Without Office / 不仕而为道德镜鉴"
     url: "/wiki/concepts/moralpresencewithoutoffice/"
+  - key: "MoralPressureAdjudication"
+    title: "Moral Pressure Adjudication / 道德压力式审案"
+    url: "/wiki/concepts/moralpressureadjudication/"
   - key: "MoralReputationPoliticalCapital"
     title: "Moral Reputation as Political Capital / 道德名望政治资本"
     url: "/wiki/concepts/moralreputationpoliticalcapital/"
