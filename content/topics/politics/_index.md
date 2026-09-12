@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2423
+topic_total_pages: 2425
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3565,6 +3565,9 @@ topic_concepts:
   - key: "DeathbedHeirReplacementResistance"
     title: "临终废储阻断 / Deathbed Heir Replacement Resistance"
     url: "/wiki/concepts/deathbedheirreplacementresistance/"
+  - key: "CapitalExemplarGovernance"
+    title: "京师示范治理 / Capital Exemplar Governance"
+    url: "/wiki/concepts/capitalexemplargovernance/"
   - key: "KinshipProtocolBoundary"
     title: "亲情名分边界 / Kinship Protocol Boundary"
     url: "/wiki/concepts/kinshipprotocolboundary/"
@@ -4000,6 +4003,9 @@ topic_concepts:
   - key: "LowStatusRegistry"
     title: "贱籍身份 / Low-Status Registry"
     url: "/wiki/concepts/lowstatusregistry/"
+  - key: "AmnestyCannotSubstituteGovernance"
+    title: "赦令不能替代治理 / Amnesty Cannot Substitute for Governance"
+    url: "/wiki/concepts/amnestycannotsubstitutegovernance/"
   - key: "DeathDefyingRemonstrance"
     title: "赴死式直谏 / Death-Defying Remonstrance"
     url: "/wiki/concepts/deathdefyingremonstrance/"

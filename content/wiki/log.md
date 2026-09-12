@@ -17759,6 +17759,10 @@ Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Song
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》480丨课本不敢提！揭开“凿壁偷光”的黑暗后续
+
+Added source note on Kuang Heng's disaster memorial, repeated-amnesty critique, Chang'an as customs model, and the poor-scholar-to-fallen-chancellor arc. Updated Kuang Heng, Han Yuandi, Omen-Coded Remonstrance, and Poverty Memory as Corruption Excuse; created Amnesty Cannot Substitute for Governance and Capital Exemplar Governance.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！
 
 Added source note for Hanji 482. Key claims: Feng Fengshi's assembled Han force defeats the Longxi Qiang rebellion after the Hanji 481 force-sizing debate; the host turns the case into a Buridan-effect management lesson about clarifying goals and chips, acting under incomplete information, and avoiding organizational paralysis.
@@ -18332,6 +18336,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

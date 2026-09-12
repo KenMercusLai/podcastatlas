@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7186
+wiki_total_pages: 7188
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2357,6 +2357,9 @@ wiki_pages:
   - key: "ActionBackedAntiCorruptionPersuasion"
     title: "行动托底式反腐劝诫 / Action-Backed Anti-Corruption Persuasion"
     url: "/wiki/concepts/actionbackedanticorruptionpersuasion/"
+  - key: "AmnestyCannotSubstituteGovernance"
+    title: "赦令不能替代治理 / Amnesty Cannot Substitute for Governance"
+    url: "/wiki/concepts/amnestycannotsubstitutegovernance/"
   - key: "AdoptiveLineageRitualPolitics"
     title: "过继宗法礼制政治 / Adoptive Lineage Ritual Politics"
     url: "/wiki/concepts/adoptivelineageritualpolitics/"

@@ -6,6 +6,7 @@ tags: [corruption, psychology, governance, public-service]
 sources:
   - zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol
   - zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina
+  - zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao
 last_updated: 2026-09-12
 ---
 
@@ -19,6 +20,8 @@ The current synthesis treats "穷怕了" as an explanation that may describe psy
 
 The Chen Tang branch adds the childhood version. [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|Hanji 490]] presents [[ChenTangWesternHan|陈汤]]'s poverty, begging, marginal conduct, reading, writing talent, and urge to rise as a real psychological background for boldness and greed. That background humanizes him without absolving him: the same deprivation that helps explain his ferocious initiative also foreshadows the money hunger and corner-cutting that later episodes make politically dangerous.
 
+The elite-success version comes through [[KuangHengWesternHan|匡衡]] in [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|Hanji 480]]. The episode does not deny the value of his poor-origin study story; it argues that poverty, learning, and office ascent do not protect a person from later self-interest. Kuang Heng's alleged acceptance of excess fief land turns hardship memory into a test of restraint after power arrives.
+
 The concept therefore names a diagnostic boundary. It does not deny that early deprivation can shape desire, anxiety, and risk perception. It denies the rhetorical move that turns deprivation into an excuse for stealing public resources, betraying office, or treating procedural violation as character destiny. In the episode's broader structure, this boundary prepares the later [[ChenTangWesternHan|陈汤]] discussion: real human weakness must be acknowledged, but governance still depends on proportional judgment, clean incentives, and credible public standards.
 
 ## Key Claims
@@ -27,6 +30,7 @@ The concept therefore names a diagnostic boundary. It does not deny that early d
 - "穷怕了" can explain a corrupt official's self-story without justifying corruption.
 - Anti-corruption judgment must distinguish background vulnerability from office-holder responsibility.
 - Childhood deprivation can help explain Chen Tang's ambition, risk appetite, and greed without turning those traits into inevitability.
+- Poor-origin learning and later office success do not guarantee public integrity once power and property incentives appear.
 - The episode's positive counterexample is not poverty itself but poverty converted into empathy and action for people still suffering.
 
 ## Evidence
@@ -43,14 +47,16 @@ Governance boundary:
 - [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] later links the moral boundary to reward, punishment, and integrity: without clean standards, leaders cannot make rules persuasive.
 - [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|Hanji 490]] says Chen Tang's childhood poverty, begging, survival behavior, study, eloquence, and boldness help explain both his upward mobility and the greed that later makes him vulnerable.
 - [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|Hanji 490]] presents Chen Tang as "怀赤子之心做小人之事," keeping vitality and moral ambiguity together rather than making hardship a clean excuse.
+- [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|Hanji 480]] says Kuang Heng's poverty and study are worth acknowledging, but his later excess-land case shows that hardship and learning can coexist with later loss of restraint.
 
 ## Counterevidence & Qualifications
 
-This is a source-scoped concept, not a general psychological law. The episodes do not provide a full criminology model of corruption, poverty trauma, scarcity cognition, or elite rent-seeking institutions. They use moral contrast and Chen Tang's biographical framing to reject exculpatory rhetoric while preserving the narrower insight that hardship can shape later fear, desire, and risk appetite.
+This is a source-scoped concept, not a general psychological law. The episodes do not provide a full criminology model of corruption, poverty trauma, scarcity cognition, or elite rent-seeking institutions. They use moral contrast, Chen Tang's biographical framing, and Kuang Heng's poor-scholar-to-chancellor contrast to reject exculpatory rhetoric while preserving the narrower insight that hardship can shape later fear, desire, ambition, and restraint tests.
 
 ## What Changed
 
 - Added Hanji 490's Chen Tang childhood layer, making deprivation, ambition, risk appetite, and greed vulnerability explicit without exonerating later misconduct.
+- Added Hanji 480's Kuang Heng layer, showing that poor-origin study and elite ascent can still end in property-related misconduct.
 - Preserved Hanji 496's contrast between poverty as corruption excuse and poverty as public-service motivation.
 
 ## Related Concepts

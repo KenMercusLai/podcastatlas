@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7186
+wiki_total_pages: 7188
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2132,6 +2132,9 @@ wiki_pages:
   - key: "CapitalPoetrySociality"
     title: "京城诗社交性 / Capital Poetry Sociality"
     url: "/wiki/concepts/capitalpoetrysociality/"
+  - key: "CapitalExemplarGovernance"
+    title: "京师示范治理 / Capital Exemplar Governance"
+    url: "/wiki/concepts/capitalexemplargovernance/"
   - key: "CareerPositioningThroughFit"
     title: "人生定位与适配 / Career Positioning Through Fit"
     url: "/wiki/concepts/careerpositioningthroughfit/"

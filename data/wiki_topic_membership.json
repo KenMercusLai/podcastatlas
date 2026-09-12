@@ -7622,6 +7622,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AmnestyCannotSubstituteGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "AmnestyExploitationCrime": [
     {
       "key": "politics",
@@ -13305,6 +13312,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "CapitalExemplarGovernance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CapitalIntensiveAICycle": [
