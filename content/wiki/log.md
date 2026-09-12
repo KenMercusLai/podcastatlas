@@ -17700,6 +17700,10 @@ Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Await
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》506丨汉皇帝为何衷情已婚妇女？
+
+Added source note, updated index, and refreshed Wang Feng, Gu Yong, and Consort Omen Blame Transfer.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？
 
 Added source note, created source-scoped Wang Zun/Feng Qu/Xu Shang/Yin Zhong/Nanshan Bandits and Preventive Flood Governance pages, and updated Chen Tang, Gu Yong, Kuang Heng, Kangju, and Merit-Shielded Accountability.
@@ -18021,6 +18025,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
