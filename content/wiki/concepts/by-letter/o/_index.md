@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7175
+wiki_total_pages: 7181
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "ObservationBeforeInference"
     title: "Observation Before Inference"
     url: "/wiki/concepts/observationbeforeinference/"
+  - key: "ObservingSelfContinuity"
+    title: "Observing Self Continuity"
+    url: "/wiki/concepts/observingselfcontinuity/"
   - key: "ObsessiveCompulsiveDisorder"
     title: "Obsessive-Compulsive Disorder"
     url: "/wiki/concepts/obsessivecompulsivedisorder/"

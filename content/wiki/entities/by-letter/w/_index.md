@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9857
+wiki_total_pages: 9859
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -356,6 +356,9 @@ wiki_pages:
   - key: "WhatIsOurProblem"
     title: "What Is Our Problem? / 我们究竟怎么了"
     url: "/wiki/entities/whatisourproblem/"
+  - key: "WhatsGoingRight"
+    title: "What's Going Right?"
+    url: "/wiki/entities/whatsgoingright/"
   - key: "WhatsNextKejiZaozhidao"
     title: "What's Next｜科技早知道"
     url: "/wiki/entities/whatsnextkejizaozhidao/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7175
+wiki_total_pages: 7181
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "IntentContext"
     title: "Intent Context"
     url: "/wiki/concepts/intentcontext/"
+  - key: "IntentionalLivingAgency"
+    title: "Intentional Living Agency"
+    url: "/wiki/concepts/intentionallivingagency/"
   - key: "InteractiveTheoremProving"
     title: "Interactive Theorem Proving"
     url: "/wiki/concepts/interactivetheoremproving/"
@@ -641,6 +644,9 @@ wiki_pages:
   - key: "IntracranialCircuitMapping"
     title: "Intracranial Circuit Mapping"
     url: "/wiki/concepts/intracranialcircuitmapping/"
+  - key: "IntrusiveThoughtMeaning"
+    title: "Intrusive Thought Meaning"
+    url: "/wiki/concepts/intrusivethoughtmeaning/"
   - key: "InvasiveSpeciesManagement"
     title: "Invasive Species Management"
     url: "/wiki/concepts/invasivespeciesmanagement/"

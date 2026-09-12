@@ -17755,6 +17755,10 @@ Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Song
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti
+
+Added Huberman Lab source note on Paul Conti and What's Going Right?, covering strength-first self-examination, compassionate curiosity, observing self continuity, intentional living agency, generative drive, intrusive thoughts, trauma, self-talk, social media, aloneness, and happiness. Created Paul Conti, What's Going Right?, and six mental-health concepts while linking the source into existing Huberman, trauma, emotion-regulation, self-understanding, and sustainable-health frames.
+
 ## [2026-09-12] ingest | EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局
 
 - Added Talk三联 source note on social jetlag, circadian light contrast, adolescent school schedules, meal and bowel timing, sleep tracking anxiety, caffeine, late exercise, and bedtime transition.
@@ -18316,6 +18320,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

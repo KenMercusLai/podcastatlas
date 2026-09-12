@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9857
+wiki_total_pages: 9859
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -164,6 +164,9 @@ wiki_pages:
   - key: "PaulBuchheit"
     title: "Paul Buchheit"
     url: "/wiki/entities/paulbuchheit/"
+  - key: "PaulConti"
+    title: "Paul Conti"
+    url: "/wiki/entities/paulconti/"
   - key: "PaulCrutzen"
     title: "Paul Crutzen"
     url: "/wiki/entities/paulcrutzen/"

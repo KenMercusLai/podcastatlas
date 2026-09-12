@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti](sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958.md) — Huberman Lab episode with Paul Conti on What's Going Right?, strength-first self-examination, compassionate curiosity, observing self, intentional agency, generative drive, intrusive thoughts, trauma, and happiness without escape.
 - [667. The Mystery of the Mona Lisa](sources/667-the-mystery-of-the-mona-lisa-glt1735270133.md) — The Rest Is History episode on Leonardo da Vinci, Lisa Gherardini, the Mona Lisa's sitter evidence, visual ambiguity, reproduction, the 1911 theft, parody, the Louvre, and museum tourism.
 - [245. 怒江春日，秘境初探](sources/245-nujiang-chunri-mijing-chutan-8221838951-646453.md) — 博物志 episode on a Songtsam Nujiang Gorge route, Three Parallel Rivers geography, minority-region travel ethics, road access, Bingzhongluo religion, Baoshan coffee, and Yunnan travel logistics.
 - [Elon's Anthropic Deal, The Next AI Monopoly?, "FDA for AI" Panic, Trading the AI Boom](sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285.md) — All-In episode on xAI capacity leasing to Anthropic, compute and power scarcity, Anthropic monopoly fears, rejection of an "FDA for AI," cyber-capable model controls, coding-agent competition, and AI ROI proof.
@@ -2294,6 +2295,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Paul Conti](entities/PaulConti.md) — Psychiatrist and Huberman Lab guest framing mental health through what's going right, compassionate curiosity, observing self, and intentional agency.
+- [What's Going Right?](entities/WhatsGoingRight.md) — Paul Conti book used as the strength-first organizing frame for a Huberman Lab mental-health conversation.
 - [Mona Lisa](entities/MonaLisa.md) — Leonardo portrait of Lisa Gherardini whose fame accumulated through ambiguity, reproduction, theft, parody, and Louvre tourism.
 - [Leonardo da Vinci](entities/LeonardoDaVinci.md) — Renaissance artist-engineer whose technique, reputation, and custody of the Mona Lisa anchor the episode's art-history branch.
 - [Lisa Gherardini](entities/LisaGherardini.md) — Florentine woman identified as the sitter for the Mona Lisa.
@@ -12155,6 +12158,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Strength-First Self-Examination](concepts/StrengthFirstSelfExamination.md) — Mental-health reflection frame that begins with what is functioning before investigating problems or pain.
+- [Compassionate Curiosity](concepts/CompassionateCuriosity.md) — Self-inquiry stance for examining patterns, trauma, self-talk, and choices without self-attack.
+- [Observing Self Continuity](concepts/ObservingSelfContinuity.md) — Capacity to notice state-dependent versions of the self while holding them in one coherent identity.
+- [Intentional Living Agency](concepts/IntentionalLivingAgency.md) — Behavior-change frame for distinguishing chosen action from habit, reactivity, and momentum.
+- [Generative Drive](concepts/GenerativeDrive.md) — Healthy productivity and contribution frame distinguished from compulsive busyness or avoidance.
+- [Intrusive Thought Meaning](concepts/IntrusiveThoughtMeaning.md) — Caution that repeated unwanted thoughts should be identified and understood before redirection, life change, therapy, or medication support.
 - [Mona Lisa Fame Formation](concepts/MonaLisaFameFormation.md) — Concept for how the Mona Lisa became a global icon through artistic, media, theft, parody, museum, and tourism layers.
 - [Renaissance Portrait Ambiguity](concepts/RenaissancePortraitAmbiguity.md) — Concept for the Mona Lisa's unstable expression, sfumato, plain presentation, and strange landscape as interpretive openness.
 - [Art Reproduction and Circulation](concepts/ArtReproductionAndCirculation.md) — Concept for how copies, photographs, tours, parody, and media circulation reshape an artwork's public meaning.

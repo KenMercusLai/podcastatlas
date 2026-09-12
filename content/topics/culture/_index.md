@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2662
+topic_total_pages: 2663
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5138,6 +5138,9 @@ topic_entities:
   - key: "WhatIsOurProblem"
     title: "What Is Our Problem? / 我们究竟怎么了"
     url: "/wiki/entities/whatisourproblem/"
+  - key: "WhatsGoingRight"
+    title: "What's Going Right?"
+    url: "/wiki/entities/whatsgoingright/"
   - key: "WhatsNextKejiZaozhidao"
     title: "What's Next｜科技早知道"
     url: "/wiki/entities/whatsnextkejizaozhidao/"

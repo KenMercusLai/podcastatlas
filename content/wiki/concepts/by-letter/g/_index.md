@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7175
+wiki_total_pages: 7181
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -140,6 +140,9 @@ wiki_pages:
   - key: "GenerativeBiology"
     title: "Generative Biology"
     url: "/wiki/concepts/generativebiology/"
+  - key: "GenerativeDrive"
+    title: "Generative Drive"
+    url: "/wiki/concepts/generativedrive/"
   - key: "GenerativeEngineOptimization"
     title: "Generative Engine Optimization"
     url: "/wiki/concepts/generativeengineoptimization/"
