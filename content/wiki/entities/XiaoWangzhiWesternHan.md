@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe
   - zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho
   - zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw
+  - zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-萧望之 / Xiao Wangzhi enters the wiki through [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] as [[HanYuandi|汉元帝]]'s teacher and an early opponent of Yuan's favor toward [[ShiXianWesternHan|石显]]. [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|Hanji 468]] adds the setup: Xiao, [[ZhouKanWesternHan|周堪]], [[LiuXiang|刘向 / 刘更生]], and Jin Chang form a Confucian adviser bloc; Xiao directly attacks Zhongshu eunuch power; and he initially encourages [[ZhengPengWesternHan|郑朋]] after Zheng accuses the Xu-Shi outer-relative side. [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] adds the first-stage fall: Xiao misjudges Zheng, cuts him off too late, and is pulled into a Tingwei-custody and pardon sequence that damages his reputation. [[zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe|Hanji 470]] then gives the fuller Chuyuan 2 death case: Xiao is restored to honor, but his son [[XiaoJiWesternHan|萧吉]] asks for vindication, [[HongGongWesternHan|弘恭]] and Shi Xian turn the request into a punitive arrest, and Xiao commits suicide after his residence is surrounded.
+萧望之 / Xiao Wangzhi enters the wiki through [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] as [[HanYuandi|汉元帝]]'s teacher and an early opponent of Yuan's favor toward [[ShiXianWesternHan|石显]]. [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] adds his transition-office baseline: [[EmperorXuanOfHan|汉宣帝]] appoints him as Qian Jiangjun Guanglu Xun and includes him among the entrusted deathbed officials. [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|Hanji 468]] adds the setup: Xiao, [[ZhouKanWesternHan|周堪]], [[LiuXiang|刘向 / 刘更生]], and Jin Chang form a Confucian adviser bloc; Xiao directly attacks Zhongshu eunuch power; and he initially encourages [[ZhengPengWesternHan|郑朋]] after Zheng accuses the Xu-Shi outer-relative side. [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] adds the first-stage fall: Xiao misjudges Zheng, cuts him off too late, and is pulled into a Tingwei-custody and pardon sequence that damages his reputation. [[zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe|Hanji 470]] then gives the fuller Chuyuan 2 death case: Xiao is restored to honor, but his son [[XiaoJiWesternHan|萧吉]] asks for vindication, [[HongGongWesternHan|弘恭]] and Shi Xian turn the request into a punitive arrest, and Xiao commits suicide after his residence is surrounded.
 
 ## Current Profile
 
@@ -34,6 +35,7 @@ The current source set makes Xiao's death a shared-failure case. Hong Gong and S
 ## Evidence
 
 Opposition to Shi Xian:
+- [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] says Han Xuan appoints Xiao Wangzhi as Qian Jiangjun Guanglu Xun and entrusts him with succession affairs.
 - [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|Hanji 468]] says Xiao Wangzhi, Zhou Kan, Liu Xiang, and Jin Chang advise Yuan through ancient institutions, and Xiao memorializes that Zhongshu is a state pivot that should not be staffed by eunuchs.
 - [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] says Xiao Wangzhi is the earliest figure to oppose Yuan's favoring of Shi Xian.
 - [[zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe|Hanji 470]] says Hong Gong, Shi Xian, and related court groups resent Xiao's side even after Yuan restores honor to Xiao.
@@ -52,11 +54,11 @@ Court consequence:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 501, Hanji 470, Hanji 469, and Hanji 468. It does not settle Xiao Wangzhi's complete career, exact legal case, factional network, responsibility distribution among Zheng Peng, Shi Xian, Hong Gong, Yuan, Zhu Yun, Xiao Ji, and Xiao himself, or the historical record behind the host's negative references to Xiao's earlier conduct toward Zhang Chang, Han Yanshou, and Bing Ji.
+This page is source-scoped to Hanji 501, Hanji 470, Hanji 469, Hanji 468, and Hanji 465. It does not settle Xiao Wangzhi's complete career, exact legal case, factional network, responsibility distribution among Zheng Peng, Shi Xian, Hong Gong, Yuan, Zhu Yun, Xiao Ji, and Xiao himself, or the historical record behind the host's negative references to Xiao's earlier conduct toward Zhang Chang, Han Yanshou, and Bing Ji.
 
 ## What Changed
 
-- Added Hanji 468's earlier setup: Xiao's anti-Zhongshu-eunuch memorial and encouragement of Zheng Peng's accusations explain why Xiao's circle is already exposed before Hanji 469's betrayal and Tingwei trap.
+- Added Hanji 465's transition-office baseline: Xiao is one of Xuan's entrusted deathbed officials before the later Yuan-era conflict.
 
 ## Relationships
 

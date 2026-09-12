@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？](sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt.md) — 芮淇讲透资治通鉴 episode on Han Xuan's final illness and death, Huhanye-Zhizhi Xiongnu split pressure, deathbed entrusted officials, Xuan's reign evaluation, and Han Yuan's accession.
 - [《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事](sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's Chuyuan 1 relief-and-austerity context, Wang Ji and Gong Yu's summons, the "贡禹弹冠" idiom, and Gong Yu's palace-thrift remonstrance.
 - [《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？](sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs.md) — 芮淇讲透资治通鉴 episode on Gong Yu's true-but-evasive thrift advice, Sima Guang's priority critique, and Wei Zheng/Fan Zhongyan as public-duty contrasts.
 - [《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？](sources/zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw.md) — 芮淇讲透资治通鉴 episode on early Han Yuandi factional politics, Xiao Wangzhi's anti-Zhongshu-eunuch memorial, Shi Gao and eunuch alignment, and Zheng Peng's first attachment to Xiao's side.
@@ -3238,7 +3239,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jingjue Kingdom / 精绝古国](entities/JingjueKingdom.md) — Western Regions oasis polity reconstructed through Niya evidence, Han protection, regional pressure, and ecological decline.
 - [Western Regions Protectorate / 西域都护府](entities/WesternRegionsProtectorate.md) — Han frontier institution used by Hanji 689-3 to frame Western Regions protection, diplomatic warning, and later capacity limits.
 - [Zhao Chongguo / 赵充国 (Western Han)](entities/ZhaoChongguoWesternHan.md) — Western Han general tied to the Southern Qiang campaign and the brocade's "讨南羌" interpretation.
-- [Emperor Xuan of Han / 汉宣帝](entities/EmperorXuanOfHan.md) — Western Han ruler associated with the five-star omen formula behind Zhao Chongguo's campaign setting.
+- [Emperor Xuan of Han / 汉宣帝](entities/EmperorXuanOfHan.md) — Western Han ruler whose page now combines the five-star omen campaign setting with Hanji 465's prison-to-emperor reign evaluation, Xiongnu/Western Regions achievements, deathbed entrustment, and succession turning point.
 - [田戎 / Tian Rong (Yiling, Eastern Han)](entities/TianRongYilingEasternHan.md) — Yiling regional power whose self-titled armed field later becomes a failed-surrender case through Xin Chen's theft, defection, suspicious letter, and divination.
 - [辛臣 / Xin Chen (Eastern Han)](entities/XinChenEasternHan.md) — Tian Rong's in-law and Yiling guard whose theft and defection to Cen Peng break the surrender channel.
 - [傅湛 / Fu Zhan (Eastern Han)](entities/FuZhanEasternHan.md) — Guangwu adviser whose remonstrance redirects Liu Xiu from distant Peng Chong toward nearer unsettled regions.

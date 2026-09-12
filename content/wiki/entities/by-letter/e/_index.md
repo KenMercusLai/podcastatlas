@@ -279,7 +279,7 @@ wiki_pages:
     title: "Emperor Naruhito"
     url: "/wiki/entities/emperornaruhito/"
   - key: "EmperorXuanOfHan"
-    title: "Emperor Xuan of Han / 汉宣帝"
+    title: "Emperor Xuan of Han / 汉宣帝 / 刘询 / 刘病已"
     url: "/wiki/entities/emperorxuanofhan/"
   - key: "EmpressDowagerWeiPingdi"
     title: "Empress Dowager Wei (Pingdi) / 卫太后"

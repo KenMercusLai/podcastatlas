@@ -8,12 +8,13 @@ sources:
   - zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h
   - zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp
   - zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho
+  - zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-周堪 / Zhou Kan enters the wiki through [[zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp|Hanji 472]], [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]], and [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]] as a Western Han official whose early promotion under [[HanYuandi|汉元帝]] precedes later exposure to disaster-omen blame, opportunistic denunciation, and [[ShiXianWesternHan|石显]]'s control of access to Yuan. [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] adds the earlier Zheng Peng layer: Zhou is close enough to Xiao Wangzhi's circle that Xiao warns him to avoid Zheng, and Zheng later names Zhou in his accusation reversal.
+周堪 / Zhou Kan enters the wiki through [[zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp|Hanji 472]], [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]], and [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]] as a Western Han official whose early promotion under [[HanYuandi|汉元帝]] precedes later exposure to disaster-omen blame, opportunistic denunciation, and [[ShiXianWesternHan|石显]]'s control of access to Yuan. [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] adds the earlier transition-office baseline: [[EmperorXuanOfHan|汉宣帝]] appoints Zhou as Guanglu Dafu and includes him among the entrusted deathbed officials. [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] adds the earlier Zheng Peng layer: Zhou is close enough to Xiao Wangzhi's circle that Xiao warns him to avoid Zheng, and Zheng later names Zhou in his accusation reversal.
 
 ## Current Profile
 
@@ -36,6 +37,7 @@ The source therefore makes Zhou Kan a compact example of failed reentry under an
 ## Evidence
 
 Disaster-blame reversal:
+- [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] says Han Xuan appoints Zhou Kan as Guanglu Dafu and entrusts him with succession affairs.
 - [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] says Zheng Peng first enters Xiao Wangzhi and Zhou Kan's circle and later blames Zhou Kan and Liu Gengsheng for earlier attacks on Shi Gao and Xu Zhang.
 - [[zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp|Hanji 472]] says Yuan promotes Zhou Kan to Guanglu Xun and promotes Zhou Kan's student Zhang Meng.
 - [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Shi Xian and Shi Gao blame Zhou Kan and Zhang Meng for abnormal cold and dim sun omens.
@@ -51,11 +53,11 @@ Final vulnerability:
 
 ## Qualifications
 
-This profile is source-scoped to Hanji 472, Hanji 478, Hanji 483-1, and Hanji 469. It does not settle Zhou Kan's full biography, exact offices beyond these episodes, original conflict with Shi Xian's group, medical condition, or the full historical record behind his death.
+This profile is source-scoped to Hanji 472, Hanji 478, Hanji 483-1, Hanji 469, and Hanji 465. It does not settle Zhou Kan's full biography, exact offices beyond these episodes, original conflict with Shi Xian's group, medical condition, or the full historical record behind his death.
 
 ## What Changed
 
-- Added Hanji 469's Zheng Peng prequel, showing Zhou's exposure to accusation before the later disaster-blame, denunciation, hollow recall, and death sequence.
+- Added Hanji 465's transition-office baseline: Zhou is one of Xuan's entrusted deathbed officials before the later disaster-blame, denunciation, hollow recall, and death sequence.
 
 ## Relationships
 
