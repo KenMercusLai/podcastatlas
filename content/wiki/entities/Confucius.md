@@ -2,62 +2,80 @@
 title: "孔子 / Confucius"
 type: entity
 tags: [person, philosopher, chinese-classics, spring-and-autumn]
-sources: [zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern, zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p, zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e, zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r, zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt, zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w, zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj, zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si, 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646, 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773, 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138, zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm, zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl, zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p, zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei]
-last_updated: 2026-08-22
+sources:
+  - zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern
+  - zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p
+  - zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e
+  - zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r
+  - zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt
+  - zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w
+  - zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj
+  - zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si
+  - 165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646
+  - 109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773
+  - 30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138
+  - zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm
+  - zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl
+  - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p
+  - zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei
+  - zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9
+knowledge_schema: synthesis-v1
+last_updated: 2026-09-13
 ---
 
 # 孔子 / Confucius
 
-孔子 / Confucius appears in [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] not primarily as a philosopher, but as a surprising athletic and elite-training figure. The episode pairs him with [[ShuliangHe|叔梁纥]] for strength and then turns him toward charioteering through the Six Arts background of "射" and "御."
+## Overview
+孔子 / Confucius is the wiki's Confucian classical authority node. Current sources use him as athletic elite-training figure, lineage figure, archive-linked editor, human-nature thinker, poetic and ritual-speech authority, renyi lineage source, political-action initiator, self-command model, and in [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] as a learner whose attachment to renyi, ritual transmission, fame, and distinction is loosened by [[Laozi|老子]].
 
-The source's point is not to replace Confucius's intellectual image with a sports image. It uses [[SportsAsHistoricalReadingFrame]] to make visible that Spring-Autumn aristocratic education joined ritual, music, archery, charioteering, writing, and calculation, and that physical skill could belong to elite moral and political formation rather than being separate from it.
+## Current Profile
+The page now synthesizes three broad Confucius roles. First, he is a classical and aristocratic formation figure: the Six Arts, Song lineage, Lu archival culture, poetry, ritual, and record authority make him legible as more than an abstract moralist. Second, he is an ethical-political source: later Mencian, Ye Gong, Guan Zhong, Zigong, ruler-centeredness, and temperance episodes use him to frame renyi, practice, speech, diplomacy, governance, and restraint. Third, Hanji 456-3 adds a self-cultivation reversal: Confucius himself becomes the one who must learn from Laozi that moral distinctions and ritual ambition can become attachments.
 
-[[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a later pre-Qin extension through [[Mengzi|孟子 / Mencius]]. In that episode, Confucius is the renyi path Mencius actively chooses and amplifies after exposure to the more plural thought world of the [[WarringStatesPeriod|战国时期]] and [[JixiaAcademy|稷下学宫]].
+## Key Characteristics
+- Embodied elite formation: Confucius is linked to strength, charioteering, archery, and the Six Arts rather than only book learning.
+- Genealogy and archives: sources connect him to Song ancestry, Lu's record environment, and the ability to compile or edit historical materials.
+- Formation ethics: "性相近，习相远" is used to explain habit, environment, and practice without reducing human nature to fixed good or evil.
+- Renyi and political action: Mencius, Ye Gong, Guan Zhong, and Zigong sources treat Confucian language as a resource for dignity, judgment, rescue diplomacy, and governance.
+- Ritual, poetry, and centeredness: Confucius is invoked for poetic speech competence, rulerly stillness, elder peace, and drinking self-command.
+- Learner before Laozi: Hanji 456-3 presents Confucius as able to be corrected and opened beyond his own renyi-and-ritual frame.
 
-[[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646]] adds Confucius to the [[RespectForEldersTradition]] branch through the cited ideal "老者安之，朋友信之，少者怀之." The episode reads that line as a humane social state where elders can settle, friends can trust, and children can be cared for, not only as an obedience formula.
+## Evidence
+Embodied elite formation:
+- [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773|Episode 109]] pairs Confucius with [[ShuliangHe|叔梁纥]] and the Six Arts to make physical training and charioteering part of elite moral-political formation.
 
-[[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm]] adds a genealogy note: the episode traces Confucius's ancestry through [[KongfuJia|孔父嘉]] and [[SongState|宋国]] nobility back toward [[WeiziQi|微子启]], making him part of the source's [[ShangRemnantStateLegitimacy]] branch.
+Genealogy and archives:
+- [[zizhi-tongjian-zhouji-07-liangqi-cisha-2-lhngst3xsnyjrmzh1cvheocvvsqm|Zhouji 07 part 2]] links Confucius's ancestry to [[SongState|宋国]] nobility through [[KongfuJia|孔父嘉]].
+- [[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r|Qinji 102-2]] connects Confucius's editing or compiling role to [[LuState|鲁国]]'s rich historical-record environment and [[HistoricalRecordAuthority|史官记录话语权]].
 
-[[zizhi-tongjian-zhouji-09-zhanguo-shidai-de-shijie-dazhan-losmum91vjpqfymywelj60o7-vbl]] adds Confucius through [[Zisi|子思]], whom the source identifies as his grandson. The episode uses that lineage less for family history than for a Confucian governance branch around remonstrance, talent judgment, and court correction.
+Formation ethics:
+- [[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w|Qinji 101-1]] and [[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt|Qinji 101-2]] use "性相近，习相远" for [[HumanNaturePlasticity|人性可变性]] and [[VirtuePracticeInternalization|修养内化]].
 
-[[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p]] adds Confucius through the saying "不学诗，无以言." The episode reads the line as a social and political competence claim: in pre-Qin elite settings, one needed [[Shijing|《诗经》]] fluency to communicate safely, indirectly, and precisely. That makes Confucius part of the source's [[PoetryAsElitePoliticalLanguage|poetry-as-political-language]] branch.
+Renyi and political action:
+- [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138|Mencius episode 30]] makes Confucius the chosen renyi lineage that [[Mengzi|孟子 / Mencius]] amplifies into resistance politics and people-based legitimacy.
+- [[zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e|Qinji 119-2]] uses Analects material to distinguish rigid trustworthiness from higher virtue governed by renyi.
+- [[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si|Zhouji 57]] shows Confucius sending [[Zigong|子贡 / 端木赐]] to rescue [[LuState|鲁国]] through interstate diplomacy.
+- [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj|Zhouji 75-1]] preserves Confucius's double judgment of [[GuanZhong|管仲]]: praise for preserving Hua-Xia order and criticism that his vessel remained small.
 
-[[zizhi-tongjian-zhouji-57-gudai-fa-dushi-haiyou-zhe-zuoyong-lj6wi61osaytowgmdp8dtkrwb-si]] adds Confucius as the initiator of [[Zigong|子贡 / 端木赐]]'s rescue diplomacy. When [[QiState|齐国]] threatens [[LuState|鲁国]], Confucius sends Zigong rather than treating moral cultivation as passive withdrawal; the episode uses the story to connect "君子强学而力行" to practical action.
+Ritual, poetry, and centeredness:
+- [[zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p|Zhouji 10 part 4]] uses "不学诗，无以言" to connect Confucius to [[PoetryAsElitePoliticalLanguage|poetry as elite political language]].
+- [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] uses the Analects North Star analogy for rulerly centeredness.
+- [[165-yinfa-chuanliu-yong-youmo-miandui-laonian-zanmen-lai-xie-dayoushi-944213646|Episode 165]] uses Confucius's elder-friend-young social ideal for humane elder respect.
+- [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]] uses "不为酒困" to connect Confucius to [[TemperateDrinkingSelfControl|节制饮酒与自我控制]].
 
-[[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] adds Confucius's double judgment of [[GuanZhong|管仲]]. The episode quotes him as praising Guan Zhong's help to [[QiHuanGong|齐桓公]] and the preservation of a Hua-Xia order, while also using "管仲之器小哉" to mark the limit between hegemonic achievement and a fuller ritual-political standard.
+Learner before Laozi:
+- [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] has Confucius approach Laozi first with text and renyi confidence, then later seek the Way more humbly and experience a loosening of fame, profit, ritual, body, and value distinctions.
 
-[[zizhi-tongjian-qinji-101-1-zhe-wei-daomei-junwang-dengji-santian-ji-cusi-lll-bcc7basaf6-nzwqtmcb5qw6w]] adds Confucius through the line "性相近，习相远." The episode treats the line as more careful than a direct claim that human nature is simply good or evil: people begin close enough that practice, habit, and environment can produce large later differences. This makes Confucius part of the source's [[VirtuePracticeInternalization|修养内化]] and human-plasticity branch.
+## Qualifications
+Confucius's page is a synthesis of source uses, not a full biography. The sources often invoke him through later reception, podcast analogy, or a single Analects phrase. Hanji 456-3's Laozi meetings are preserved as an instructive tradition and should not override the other sources' Confucian ethical and political uses.
 
-[[zizhi-tongjian-qinji-101-2-ruhe-kandai-xingbenshan-yu-xingbene-lmawsqkttjmitwkczhyfs7f7-mqt]] makes that same line the bridge between [[XingShanTheory|性善论]] and [[XingETheory|性恶论]]. The source reads "性相近，习相远" as a [[HumanNaturePlasticity|人性可变性]] claim: later environment, need, motive, law, ritual, and practice explain moral divergence better than a fixed original label alone.
+## What Changed
+- Migrated the page to `synthesis-v1`.
+- Added Hanji 456-3's distinctive image of Confucius as a learner before Laozi, not only as a transmitter of renyi, ritual, and classics.
 
-[[zizhi-tongjian-qinji-102-2-kongzi-zai-luguo-de-shenshi-zhimi-lphy12exg4u7f-30qkir96gv634r]] adds Confucius through [[LuState|鲁国]]'s archive and record-keeping environment. The episode says Confucius could edit or compile 《春秋》 and related historical material because Lu preserved rich records through its close relation to the [[ZhouRoyalHouse|周王室]]. The source does not develop a detailed family-biography mystery despite the title; its Confucius branch is mainly about [[HistoricalRecordAuthority|史官记录话语权]].
-
-[[zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e]] adds Confucius through the [[YeGong|叶公]] branch. The episode says the [[Analects|《论语》]] also records Ye Gong and uses "言必信，行必果" to distinguish rigid outward reliability from higher virtue. It also notes a political-philosophy contrast: Ye Gong is presented as emphasizing state law, while Confucius is presented as emphasizing kinship ethics.
-
-[[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] adds Confucius through the [[Analects|《论语》]] image of the ruler as the North Star. The episode uses that line to explain why an emperor's repeated absence from [[Xianyang|咸阳]] could look politically hazardous: the ruler is supposed to remain the still center around which officials and affairs turn.
-
-[[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei]] adds Confucius through the [[Analects|《论语》]] phrase "不为酒困." The host reads the line as a restraint standard: public service, family duty, careful mourning, and not being overcome by alcohol together show self-command. This makes Confucius part of the episode's [[TemperateDrinkingSelfControl|节制饮酒与自我控制]] branch rather than a generic anti-drinking authority.
-
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] adds a deliberately sharp comparison. The host says Confucius is a great scholar and teacher but not a successful politician in the same sense as [[ChenPing|陈平]], because Confucius does not open durable space inside real court struggle. The wiki records this as a source-scoped contrast supporting [[WorldlyPoliticalCultivation|入世政治修行]], not as a settled evaluation of Confucius's whole historical role.
-
-## Connections
-- [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
-- [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] - source episode's Mencian extension.
-- [[ShuliangHe|叔梁纥]] - father and paired strength case.
-- [[SpringAndAutumnPeriod|春秋时期]] - historical setting.
-- [[SportsAsHistoricalReadingFrame]] - source's athletic reinterpretation frame.
-- [[SpringAutumnWarfareRitual]] and [[HorseAsCivilizationalInfrastructure]] - chariot, elite education, and battle-skill context.
-- [[Mengzi|孟子 / Mencius]], [[MenciusText|《孟子》]], and [[EarlyConfucianResistancePolitics]] - later Confucian-political extension.
-- [[RespectForEldersTradition]] - elder-care and social-peace extension added by episode 165.
-- [[SongState|宋国]], [[KongfuJia|孔父嘉]], [[WeiziQi|微子启]], and [[ShangRemnantStateLegitimacy]] - genealogy extension added by the Ruiqi episode.
-- [[Zisi|子思]], [[UseStrengthsOverFaults]], and [[CourtFeedbackCollapse]] - grandson and governance branch added by Zhouji 09.
-- [[Shijing|《诗经》]] and [[PoetryAsElitePoliticalLanguage]] - Zhouji 10 part 4 reading of poetic literacy as elite speech competence.
-- [[Zigong|子贡 / 端木赐]], [[LuState|鲁国]], and [[InterstateCascadeDiplomacy|多国连锁外交]] - Zhouji 57 rescue-diplomacy branch.
-- [[GuanZhong|管仲]], [[QiHuanGong|齐桓公]], [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]], and [[ConfucianIdealGovernance|儒家理想治理]] - Zhouji 75-1 praise-and-limit branch.
-- [[VirtuePracticeInternalization|修养内化]], [[ZiShun|子顺]], [[LuZhonglian|鲁仲连]], and [[FixedHumanNaturePolitics]] - Qinji 101-1 human-nature caution and habit-formation branch.
-- [[XingShanTheory|性善论]], [[XingETheory|性恶论]], and [[HumanNaturePlasticity|人性可变性]] - Qinji 101-2 bridge between Mencian and Xunzian human-nature claims.
-- [[LuState|鲁国]], [[ZhouRoyalHouse|周王室]], and [[HistoricalRecordAuthority|史官记录话语权]] - Qinji 102-2 archive environment behind the source's Confucius title.
-- [[YeGong|叶公]], [[Analects|《论语》]], [[RenyiGroundedVirtue|仁义为本的信勇]], and [[SpeechAsMoralDiagnostic|言语作为德行信号]] - Qinji 119-2 speech, law, kinship, and virtue-evaluation branch.
-- [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]], [[QinShiHuang|嬴政 / 秦始皇]], [[Xianyang|咸阳]], and [[HighTempleRite|高庙礼]] - North Star analogy applied to imperial travel and political centeredness.
-- [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]], [[Analects|《论语》]], and [[TemperateDrinkingSelfControl|节制饮酒与自我控制]] - not-being-trapped-by-drink branch.
-- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]], [[ChenPing|陈平]], and [[WorldlyPoliticalCultivation|入世政治修行]] - source-scoped contrast between scholarly authority and successful political operation.
+## Relationships
+- [[Laozi|老子]] - teacher figure in Hanji 456-3 who challenges Confucius's attachment to renyi and ritual.
+- [[Mengzi|孟子 / Mencius]] - later thinker who amplifies Confucius's renyi path into Warring States political argument.
+- [[Analects|《论语》]] - text through which several sources invoke Confucius's sayings.
+- [[LuState|鲁国]] - archive and political homeland frame behind Confucius's historical-record role.
+- [[Zigong|子贡 / 端木赐]] - disciple sent into rescue diplomacy in Zhouji 57.
+- [[DaoistObservingSameness|观同入道]] - Laozi teaching in Hanji 456-3 that transforms Confucius's perspective.

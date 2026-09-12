@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子](sources/zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5.md) — 芮淇讲透资治通鉴 episode on Guangling king Liu Xu's curse-based succession fantasy, Huhanye's submission note, and Geng Shouchang's grain transport and Changping granary reforms.
+- [《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧](sources/zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9.md) — 芮淇讲透资治通鉴 episode on Confucius asking Laozi about renyi, natural wuwei, observing sameness, life-death and honor-disgrace equanimity, and inward cultivation.
 - [《资治通鉴·汉纪》456-5｜修行人是如何看待西游的？](sources/zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through wounded compassion, 朱刚烈 as desire, 段小姐 as 情缘, 孙悟空 as ideal, and the critique of formalized cultivation.
 - [《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？](sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm.md) — 芮淇讲透资治通鉴 episode on Yang Yun's fall, Sun Huizong's warning letter, a resentful reply becoming court evidence, Emperor Xuan's severe punishment, and reading history as survival judgment.
 - [《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔](sources/zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through love, compassion, heart-demon symbolism, Sun Wukong, Duan Miss, and the "一心三藏" frame.
@@ -5374,7 +5375,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [云谷禅师 / Yungu Chanshi](entities/YunguChanshi.md) — Buddhist teacher in Hanji 161 part 4 who redirects Yuan Liaofan from passive fate acceptance toward intention, virtue, and practice.
 - [袁了凡 / Yuan Liaofan](entities/YuanLiaofan.md) — Figure identified in Hanji 161 part 4 as the earlier fate-change seeker whose story anchors 《了凡四训》.
 - [释迦牟尼佛 / Shakyamuni Buddha](entities/ShakyamuniBuddha.md) — Buddhist figure invoked by Hanji 161 part 3 as the contrast for awakened perception versus ordinary appearance.
-- [《道德经》 / Daodejing](entities/Daodejing.md) — Daoist classic invoked by Hanji 161 part 3 for high-dimensional consciousness and by part 4 for the 上士/中士/下士 practice hierarchy.
+- [《道德经》 / Daodejing](entities/Daodejing.md) — Daoist classic invoked for source-scoped consciousness, hearing-the-Way practice hierarchy, quiet virtue, and the Laozi teaching frame around natural wuwei and observing sameness.
 - [《金刚经》 / Diamond Sutra](entities/JingangJing.md) — Buddhist scripture cited by Hanji 161 part 3 for the appearance-versus-reality branch of the episode's consciousness metaphor.
 - [《命自我利》 / Ming Zi Wo Li](entities/MingZiWoLi.md) — Source/transcript title variant from Hanji 161 part 1, later clarified by part 4 as the Yuan Liaofan / 《了凡四训》 story.
 - [朱清时 / Zhu Qingshi](entities/ZhuQingshi.md) — Scientist cited by Hanji 161 while linking quantum mechanics, consciousness, intention, and the episode's fate metaphor.
@@ -6145,7 +6146,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [周幽王 / King You of Zhou](entities/ZhouYouwang.md) — Western Zhou crisis ruler whose fall frames Qin Xiang Gong's service to Zhou.
 - [周平王 / King Ping of Zhou](entities/ZhouPingwang.md) — Zhou ruler who recognizes Qin Xiang Gong and grants Qin western land claims after the eastward move.
 - [秦文公 / Duke Wen of Qin](entities/QinWengong.md) — Qin ruler by whose generation the source says Qin drove out the Quanrong from its granted land.
-- [老子 / Laozi](entities/Laozi.md) — Thinker tentatively associated with Taishi Dan by the source, kept as a speculative comparison.
+- [老子 / Laozi](entities/Laozi.md) — Daoist thinker used as speculative archivist, ethical-restraint frame, adaptive-strategy metaphor, cosmological authority, and direct teacher of Confucius in Hanji 456-3.
 - [燕桓公 / Duke Huan of Yan](entities/YanHuanGong.md) — Yan ruler who succeeds Yan Xi Gong in 373 BCE and whose death opens Yan Wen Gong's 362 BCE accession.
 - [宋辟公 / Duke Pi of Song](entities/SongPigong.md) — Song ruler succeeding Song Xiugong in the 373 BCE notice.
 - [卫国 / Wey State](entities/WeyState.md) — Pre-Qin Wey polity added from Zhouji 10's 373 BCE attack on Qi and succession notice, disambiguated from Wei State.
@@ -9711,7 +9712,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高固](entities/GaoGu.md) — Qi warrior whose rock-throwing and "余勇可贾" story becomes episode 109's throwing-event case.
 - [养由基](entities/YangYouji.md) — Chu archer linked by episode 109 to "百发百中," "百步穿杨," and the one-arrow revenge story.
 - [叔梁纥](entities/ShuliangHe.md) — Lu strongman and Confucius's father, used by episode 109 for the weightlifting and city-gate strength case.
-- [孔子 / Confucius](entities/Confucius.md) — Philosopher recast source-scopingly by episode 109 through strength, charioteering, and Six Arts physical training.
+- [孔子 / Confucius](entities/Confucius.md) — Classical authority spanning Six Arts formation, Lu archival culture, renyi politics, human-nature practice, poetic speech, temperance, and Laozi-taught self-release.
 - [齐桓公](entities/QiHuanGong.md) — Qi ruler in episode 109's Cai Ji, Cai campaign, Chu diplomacy, and "风马牛不相及" discussion.
 - [晋文公](entities/JinWenGong.md) — Jin ruler used by episode 109 for rule-conscious warfare and the Wei Chou punishment-and-survival story.
 - [宋襄公](entities/SongXiangGong.md) — Song ruler used by episode 109 as the shorthand example for rule-conscious Spring-Autumn warfare.
@@ -16077,7 +16078,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Chinese Astrological Politics / 中国星占政治](concepts/ChineseAstrologicalPolitics.md) — Use of celestial phenomena, planetary movement, and sky-earth correspondences as political evidence about rulers, ministers, war, legitimacy, and state conduct.
 - [Daoist Alchemy / 道教炼丹](concepts/DaoistAlchemy.md) — Immortality-oriented elixir practice linking coded language, material transformation, cosmology, and textual authority.
 - [Daoist Nourishing-Life Techniques / 道教养生术](concepts/DaoistNourishingLifeTechniques.md) — Guarding the One, qi practices, fetal breathing, and daoyin as immortality-oriented body disciplines.
+- [Daoist Natural Wuwei / 道家自然无为](concepts/DaoistNaturalWuwei.md) — Laozi-centered non-forcing conduct that lets human nature and worldly processes follow natural arising rather than rigid moral display.
+- [Daoist Observing Sameness / 观同入道](concepts/DaoistObservingSameness.md) — Laozi teaching that looks past surface differences toward the shared root through which self, things, and right/wrong loosen into unity.
 - [Daoist Ritual Technology / 道教仪式技术](concepts/DaoistRitualTechnology.md) — Pacing the Dipper, talismans, spells, swords, mirrors, invisibility arts, and administrative command formulae as ritual technique.
+- [Daoist Value Equanimity / 道家价值齐观](concepts/DaoistValueEquanimity.md) — Daoist view that life/death, right/wrong, noble/low, and honor/disgrace are changing states within the Way rather than final identities.
 - [Portable Divination Systems / 便携占算系统](concepts/PortableDivinationSystems.md) — Simplified procedures that compress larger cosmologies into repeatable uncertainty-management tools.
 - [Feng Shui Vital-Energy Theory / 风水生气论](concepts/FengShuiVitalEnergyTheory.md) — Fengshui frame where qi, burial, wind, water, and landscape enclosure make place cosmologically active.
 - [Buddhist Miracle Politics / 佛教神通政治](concepts/BuddhistMiraclePolitics.md) — Use of miracle narratives to authorize Buddhist specialists in elite and courtly political settings.

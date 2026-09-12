@@ -2,24 +2,53 @@
 title: "《道德经》 / Daodejing"
 type: entity
 tags: [text, daoism, classic, consciousness]
-sources: [zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v, zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd, zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q]
-last_updated: 2026-08-25
+sources:
+  - zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v
+  - zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd
+  - zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q
+  - zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9
+knowledge_schema: synthesis-v1
+last_updated: 2026-09-13
 ---
 
 # 《道德经》 / Daodejing
 
-《道德经》 / Daodejing enters the wiki through [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]]. The host says Daoist classics, especially the Daodejing, also contain insight into the universe's source and the nature of quantum entanglement, then connects that reading to天人合一, high-dimensional consciousness, and leaving ordinary desire-bound perception.
+## Overview
+《道德经》 / Daodejing is the wiki's Daoist classic node for Ruiqi episodes that use the text as a source of cosmology, practice hierarchy, quiet virtue, and the wider Laozi teaching frame.
 
-The page keeps that use source-scoped. It does not claim the Daodejing is a physics text; in this episode it functions as the Daoist counterpart to [[JingangJing|《金刚经》]] inside [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]].
+## Current Profile
+The Daodejing currently functions as an invoked authority rather than a text being read chapter by chapter. [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] uses it for Daoist天人合一 inside a source-scoped consciousness synthesis. [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|part 4]] uses the hearing-the-Way hierarchy to stress practice. [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] uses non-display virtue for discreet help. [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] broadens the surrounding Laozi frame into natural wuwei, observing sameness, and value equanimity.
 
-[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] uses the Daodejing's 上士/中士/下士 hearing-the-Way hierarchy to close the fate-change sequence. In this source, the quotation supports [[FateChangeThroughVirtuePractice|积善修心式改命]] by distinguishing diligent practice from half-belief or dismissive laughter.
+## Key Characteristics
+- Cosmological authority: the text is invoked for Daoist unity and perception beyond ordinary appearances.
+- Practice hierarchy: the source uses the superior/middling/inferior hearer frame to separate action from mere hearing.
+- Quiet virtue: Daodejing language supports help that does not display itself as credit.
+- Laozi teaching context: Hanji 456-3 uses Laozi's instruction to make Daodejing-adjacent themes concrete through Confucius's learning.
 
-[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] uses the Daodejing's `上德不德` frame to support [[DiscreetBenefactionDignity|沉默施恩的尊严保护]]. The source reads non-display as part of virtue: help should not keep pointing back to itself as the giver's credit.
+## Evidence
+Cosmological authority:
+- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] links Daoist classics, especially the Daodejing, to天人合一 and [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]], with explicit source-scope caution around physics-like claims.
 
-## Connections
-- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] and [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|part 4]] - source episodes.
-- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] and [[DiscreetBenefactionDignity|沉默施恩的尊严保护]] - source-scoped non-display virtue branch.
-- [[Laozi|老子]] - figure associated with the text in the wiki.
-- [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]] and [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] - source-scoped concepts built from the episode's Daoist turn.
-- [[FateChangeThroughVirtuePractice|积善修心式改命]] - part 4 practice branch tied to hearing and acting on the Way.
-- [[DaoistNourishingLifeTechniques]], [[DaoistAlchemy]], and [[DaoistRitualTechnology]] - adjacent Daoist practice cluster already present in the wiki.
+Practice hierarchy:
+- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] uses the Daodejing's 上士/中士/下士 hearing-the-Way hierarchy to argue that insight must become diligent practice.
+
+Quiet virtue:
+- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] uses the Daodejing's `上德不德` frame to support [[DiscreetBenefactionDignity|沉默施恩的尊严保护]].
+
+Laozi teaching context:
+- [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] does not perform a chapter-by-chapter reading, but it adds a stronger Laozi teaching context around [[DaoistNaturalWuwei|道家自然无为]], [[DaoistObservingSameness|观同入道]], and [[DaoistValueEquanimity|道家价值齐观]].
+
+## Qualifications
+The page does not claim the Daodejing is a physics text or that every episode's use is philologically settled. It records how the podcast invokes the classic: cosmological metaphor, practice exhortation, relational ethics, and Laozi-centered self-cultivation.
+
+## What Changed
+- Migrated the page to `synthesis-v1`.
+- Added Hanji 456-3 as a broader Laozi-teaching context for the Daodejing cluster.
+
+## Relationships
+- [[Laozi|老子]] - associated thinker and teaching authority.
+- [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]] - source-scoped consciousness frame that invokes the Daodejing.
+- [[DiscreetBenefactionDignity|沉默施恩的尊严保护]] - quiet virtue application from Hanji 965.
+- [[DaoistNaturalWuwei|道家自然无为]] - Hanji 456-3 conduct branch adjacent to the text's Daoist authority.
+- [[DaoistObservingSameness|观同入道]] - Hanji 456-3 perception branch adjacent to the text's Daoist authority.
+- [[DaoistValueEquanimity|道家价值齐观]] - Hanji 456-3 value-pair branch adjacent to the text's Daoist authority.
