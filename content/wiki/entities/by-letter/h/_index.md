@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9786
+wiki_total_pages: 9793
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -416,6 +416,9 @@ wiki_pages:
   - key: "HermesAgent"
     title: "Hermes Agent"
     url: "/wiki/entities/hermesagent/"
+  - key: "Herodotus"
+    title: "Herodotus"
+    url: "/wiki/entities/herodotus/"
   - key: "Hershey"
     title: "Hershey"
     url: "/wiki/entities/hershey/"
@@ -476,6 +479,9 @@ wiki_pages:
   - key: "Hipmunk"
     title: "Hipmunk"
     url: "/wiki/entities/hipmunk/"
+  - key: "HippiasAthenianTyrant"
+    title: "Hippias / Athenian Tyrant"
+    url: "/wiki/entities/hippiasatheniantyrant/"
   - key: "HiSilicon"
     title: "HiSilicon"
     url: "/wiki/entities/hisilicon/"

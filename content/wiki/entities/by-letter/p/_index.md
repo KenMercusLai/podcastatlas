@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 9786
+wiki_total_pages: 9793
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -44,6 +44,9 @@ wiki_pages:
   - key: "PaloAltoDelivery"
     title: "PaloAltoDelivery"
     url: "/wiki/entities/paloaltodelivery/"
+  - key: "PanGreekGod"
+    title: "Pan / Greek God"
+    url: "/wiki/entities/pangreekgod/"
   - key: "PanAm"
     title: "Pan Am"
     url: "/wiki/entities/panam/"
@@ -398,6 +401,9 @@ wiki_pages:
   - key: "Phaeacians"
     title: "Phaeacians"
     url: "/wiki/entities/phaeacians/"
+  - key: "Pheidippides"
+    title: "Pheidippides"
+    url: "/wiki/entities/pheidippides/"
   - key: "PhiSilica"
     title: "Phi Silica"
     url: "/wiki/entities/phisilica/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7108
+wiki_total_pages: 7111
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -398,6 +398,9 @@ wiki_pages:
   - key: "GreaterBayAreaCinema"
     title: "Greater Bay Area Cinema / 大湾区电影"
     url: "/wiki/concepts/greaterbayareacinema/"
+  - key: "GrecoPersianWarMemory"
+    title: "Greco-Persian War Memory"
+    url: "/wiki/concepts/grecopersianwarmemory/"
   - key: "GreedPersonaSelfProtection"
     title: "Greed Persona Self-Protection / 贪财人设式自保"
     url: "/wiki/concepts/greedpersonaselfprotection/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7108
+wiki_total_pages: 7111
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "BatterySwapInfrastructure"
     title: "Battery Swap Infrastructure / 换电体系"
     url: "/wiki/concepts/batteryswapinfrastructure/"
+  - key: "BattleOfMarathon"
+    title: "Battle of Marathon"
+    url: "/wiki/concepts/battleofmarathon/"
   - key: "BattlefieldCommanderReplacementRisk"
     title: "Battlefield Commander Replacement Risk / 阵前换将风险"
     url: "/wiki/concepts/battlefieldcommanderreplacementrisk/"

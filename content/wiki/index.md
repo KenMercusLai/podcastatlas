@@ -127,6 +127,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》604丨西汉王莽夺权后，如何清洗权力格局？](sources/zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru.md) — Yuanshou 2 / 1 BCE transition episode on Wang Mang's Da Sima return, He Wu and Gongsun Lu's failed outer-relative balancing attempt, Wang Shun's heir-transfer mission, Zhao/Fu/Ding cleanup, and Fu Xi's cautious good end.
 - [《资治通鉴·汉纪》605丨董贤死后，他们留下了鳄鱼的眼泪](sources/zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st.md) — Yuanshou 2 / 1 BCE Han Aidi aftermath episode on Dong Xian family confiscation, Dong-linked appointee removal, Zhu Xu's burial loyalty, Kong Guang as accusation channel, and Wang Mang's old-case cleanup.
 - [704. Roman Civil War: Master of the Republic (Part 4)](sources/704-roman-civil-war-master-of-the-republic-part-4-glt9669112656.md) — The Rest Is History episode on Sulla's return, Cinna's mutiny death, Marius Younger, Pompey and Crassus, the Samnites at Colline Gate, proscriptions, dictatorship, reforms, abdication, and legacy.
+- [669. Greece vs. Persia: The Battle of Marathon (Part 2)](sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260.md) — The Rest Is History episode on Marathon as Athenian containment, Miltiades' cavalry-window attack, hoplite tactics, the race back to Athens, Herodotus, Persian perspective, and later freedom mythology.
 - [Essentials: The Science & Process of Healing from Grief](sources/essentials-the-science-process-of-healing-from-grief-scim9466548315.md) — Huberman Lab Essentials episode on grief as attachment remapping through space, time, closeness, yearning, structured grieving, physiology, sleep, cortisol, NSDR, and support.
 - [OpenAI 突破性数学成果陷入争议，LV 旗下基金牵头收购 Hyrox 控股权](sources/openai-tupoxing-shuxue-chengguo-xianru-zhengyi-lv-qixia-jijin-qiantou-shougou-hyrox-kongguquan-1013261958.md) — 声动早咖啡 daily scan on OpenAI's contested Navier-Stokes claim, DeepSeek API price cuts, Alibaba B2B integration, Moutai channel pricing, Tesla promotions, luxury price pressure, HYROX's reported control sale, and snack-retail weighing disputes.
 - [《资治通鉴·汉纪》606丨端掉亲叔叔！王莽的心机有多深？](sources/zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut.md) — 1 BCE Wang Mang backfill on Wang Li's indirect removal through Kong Guang, Wang Zhengjun's coerced public-order approval, persona-protected purge procedure, Zhao/Fu empress deaths, Peng Xuan's retreat, and Kong Guang's puppet-risk awareness.
@@ -8800,6 +8801,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gnaeus Octavius / 格奈乌斯·屋大维](entities/GnaeusOctaviusRomanConsul.md) — Conservative 87 BC consul whose conflict with Cinna over Italian enfranchisement ends with Cinna's outlawry and Octavius's murder in office.
 - [Aristion of Athens / 雅典的阿里斯提昂](entities/AristionAthens.md) — Athenian philosopher-politician who leads Athens into Mithridatic revolt before Sulla's siege, sack, and forced-poison execution.
 - [Athens / 雅典](entities/Athens.md) — Greek city whose anti-Roman revolt, starvation siege, sack, and loss of remaining independence connect Roman imperial pressure to the Sullan crisis.
+- [Achaemenid Empire / Persian Empire](entities/AchaemenidEmpire.md) — Persian imperial power whose Marathon expedition combines punishment, naval mobility, cavalry, exiled-client politics, and a source-asymmetry problem.
+- [Herodotus](entities/Herodotus.md) — Greek historian whose account makes Marathon unusually recoverable while leaving Persian perspective asymmetrical.
+- [Miltiades](entities/Miltiades.md) — Athenian commander whose road-blocking strategy and cavalry-window attack plan anchor the Marathon reconstruction.
+- [Darius I](entities/DariusI.md) — Persian king whose revenge motive frames the punitive expedition against Eretria and Athens before Marathon.
+- [Hippias / Athenian Tyrant](entities/HippiasAthenianTyrant.md) — Exiled Athenian tyrant whose presence with the Persians makes Marathon a restored-tyranny threat.
+- [Pheidippides](entities/Pheidippides.md) — Athenian runner whose Sparta mission, Pan encounter, and later victory-run legend show Marathon source layering.
+- [Pan / Greek God](entities/PanGreekGod.md) — Greek god linked to Pheidippides, panic, and Marathon's religious-memory layer.
 - [The Gracchi / 格拉古兄弟](entities/Gracchi.md) — Reforming brothers whose deaths and followers' executions make the tribunate dangerous before Marius.
 - [William Shakespeare / 威廉·莎士比亚](entities/WilliamShakespeare.md) — Dramatist tracked through literary ambiguity, public memory, Globe theatre practice, history plays, and cross-cultural adaptation.
 - [Julius Caesar / 《尤里乌斯·恺撒》](entities/JuliusCaesarPlay.md) — Shakespeare play used by episode 124 to show literary memory competing with ancient evidence.
@@ -12042,6 +12050,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Battle of Marathon](concepts/BattleOfMarathon.md) — 490 BC battle treated as Athenian containment, cavalry-window attack, tactical risk, city-saving return march, and later memory object.
+- [Athenian Democracy](concepts/AthenianDemocracy.md) — Marathon-contingency concept for Athens' fragile democratic and cultural future under Persian and tyrant-restoration threat.
+- [Greco-Persian War Memory](concepts/GrecoPersianWarMemory.md) — Later interpretation of Marathon and related conflicts as freedom-versus-despotism memory, qualified by source and empire context.
 - [Neurodivergent AI Augmentation](concepts/NeurodivergentAIAugmentation.md) — AI use that reduces friction between atypical cognitive strengths and conventional work demands.
 - [ADHD Hyperfocus AI Workflow](concepts/ADHDHyperfocusAIWorkflow.md) — AI-supported workflow for entering, sustaining, and converting ADHD hyperfocus into output.
 - [Outcome-Driven AI Workflow](concepts/OutcomeDrivenAIWorkflow.md) — work-design pattern that judges AI use by useful results rather than prescribed process.

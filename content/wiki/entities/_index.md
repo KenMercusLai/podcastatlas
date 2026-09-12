@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9786
+wiki_total_pages: 9793
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -131,6 +131,9 @@ wiki_pages:
   - key: "AcFun"
     title: "AcFun / A站"
     url: "/wiki/entities/acfun/"
+  - key: "AchaemenidEmpire"
+    title: "Achaemenid Empire / Persian Empire"
+    url: "/wiki/entities/achaemenidempire/"
   - key: "Achilles"
     title: "Achilles"
     url: "/wiki/entities/achilles/"

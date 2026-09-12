@@ -3410,6 +3410,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/acetylcholinefocussupport/"
     },
+    "AchaemenidEmpire": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/achaemenidempire/"
+    },
     "AcquiredTraitInheritanceBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -7178,10 +7194,26 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/athena/"
     },
-    "Athens": {
+    "AthenianDemocracy": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/atheniandemocracy/"
+    },
+    "Athens": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3125075511 [GLT3125075511].md",
@@ -7189,9 +7221,16 @@
           "show": "The Rest Is History",
           "title": "703. Roman Civil War: Marching on the Senate (Part 3)",
           "url": "/wiki/sources/703-roman-civil-war-marching-on-the-senate-part-3-glt3125075511/"
+        },
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/athens/"
     },
     "AtherosclerosisPreventionTargets": {
@@ -9082,6 +9121,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/battleofloos/"
+    },
+    "BattleOfMarathon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/battleofmarathon/"
     },
     "BattlefieldFeintAndLure": {
       "episode_count": 6,
@@ -20045,6 +20100,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/dardanellesstrategicshortcut/"
+    },
+    "DariusI": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/dariusi/"
     },
     "DarrenAlpert": {
       "episode_count": 1,
@@ -37651,6 +37722,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/greaterbayareacinema/"
     },
+    "GrecoPersianWarMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/grecopersianwarmemory/"
+    },
     "GriefAttachmentRemapping": {
       "episode_count": 1,
       "show_count": 1,
@@ -40850,6 +40937,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/heromemorypoliticalcredibility/"
     },
+    "Herodotus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/herodotus/"
+    },
     "HeroicResistanceViolenceAmbiguity": {
       "episode_count": 1,
       "show_count": 1,
@@ -41238,6 +41341,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/hindukushhimalaya/"
+    },
+    "HippiasAthenianTyrant": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/hippiasatheniantyrant/"
     },
     "HistoricalAmbiguityInMainstreamCinema": {
       "episode_count": 1,
@@ -61260,6 +61379,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/militaryrewardeunuchgatekeeping/"
     },
+    "Miltiades": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/miltiades/"
+    },
     "MinKanEasternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -67460,6 +67595,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/palm/"
     },
+    "PanGreekGod": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/pangreekgod/"
+    },
     "PanHongLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -68861,6 +69012,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/phaeacians/"
+    },
+    "Pheidippides": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/pheidippides/"
     },
     "PhilipHamilton": {
       "episode_count": 1,
@@ -87843,9 +88010,9 @@
       "url": "/wiki/entities/theprincipleofresponsibility/"
     },
     "TheRestIsHistory": {
-      "episode_count": 25,
+      "episode_count": 26,
       "show_count": 1,
-      "source_note_count": 25,
+      "source_note_count": 26,
       "sources": [
         {
           "episode_file": "GLT4665799025 [GLT4665799025].md",
@@ -88021,6 +88188,13 @@
           "show": "The Rest Is History",
           "title": "671. The First World War: Blood in the Trenches (Part 1)",
           "url": "/wiki/sources/671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565/"
+        },
+        {
+          "episode_file": "GLT2696648260 [GLT2696648260].md",
+          "key": "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260",
+          "show": "The Rest Is History",
+          "title": "669. Greece vs. Persia: The Battle of Marathon (Part 2)",
+          "url": "/wiki/sources/669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260/"
         }
       ],
       "updated": "2026-09-12",

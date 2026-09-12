@@ -28,6 +28,7 @@ sources:
   - 317-african-amazons-glt5973082485
   - 316-the-first-abolitionist-glt2136062721
   - 671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565
+  - 669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260
 last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
@@ -36,11 +37,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]], a comparative African female-power branch, and an early Quaker abolitionist activism branch.
+The Rest Is History is a narrative podcast represented in the wiki through selected multi-part historical branches, including ancient Greek war memory, a 1915 [[FirstWorldWar|First World War]] branch, national-symbol and sport-politics episodes, literary retellings, founding and Roman political-crisis branches, a medieval Anglo-French origin branch for the [[HundredYearsWar|Hundred Years' War]], a comparative African female-power branch, and an early Quaker abolitionist activism branch.
 
 ## Current Profile
 
-The current wiki profile now includes the opening Western Front entry in the show's 1915 First World War sequence. [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] uses [[RobertGraves]], [[ErnstJunger]], [[ShellShock]], [[FirstWorldWarGasWarfare|gas warfare]], and the [[BattleOfLoos|Battle of Loos]] to make trench life a mixed social and psychological world rather than a flat image of mud or glory.
+The current wiki profile now includes an ancient Greek war-memory branch through the show's Marathon episode. [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] uses [[BattleOfMarathon]], [[Athens]], [[Miltiades]], [[AchaemenidEmpire]], [[Herodotus]], [[Pheidippides]], and [[GrecoPersianWarMemory]] to reconstruct a battle as containment, tactical risk, civic survival, and later ideological afterlife rather than a simple freedom-versus-despotism tableau.
+
+The profile also includes the opening Western Front entry in the show's 1915 First World War sequence. [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] uses [[RobertGraves]], [[ErnstJunger]], [[ShellShock]], [[FirstWorldWarGasWarfare|gas warfare]], and the [[BattleOfLoos|Battle of Loos]] to make trench life a mixed social and psychological world rather than a flat image of mud or glory.
 
 The profile also includes an early abolitionist activism branch. [[BenjaminLay]]'s episode connects [[Quakers|Quaker]] inward equality, [[Barbados]] plantation slavery, [[SlaveProducedGoodsBoycott|boycott of slave-produced goods]], and [[AbolitionistPublicWitness|public witness]] to explain how moral protest could become theatrical, embodied, and socially disruptive before abolitionism became mainstream. The branch also keeps the title qualified: Lay is an early activist, not literally the first person to oppose slavery.
 
@@ -52,7 +55,7 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 ## Key Characteristics
 
-- The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part war sequences such as 1915.
+- The show is used as a source of chronological narrative history with emphasis on decisions, symbols, inherited constraints, contingency, and multi-part war sequences, from Marathon's tactical and memory problem to the 1915 war branch.
 - Its abolitionist branch uses Benjamin Lay to connect Quaker equality, plantation slavery, ethical consumption, public stunts, and institutional discipline.
 - Its African female-power branch treats women rulers, queen mothers, and warriors as institutional cases while preserving slavery, coercion, and source-bias qualifications.
 - Its medieval branch treats the Hundred Years' War as a multi-causal origin problem rather than a simple throne dispute.
@@ -62,6 +65,7 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 ## Evidence
 
+- Ancient Greek war-memory branch: [[669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260]] reconstructs Marathon through Athenian road-blocking, the cavalry window, hoplite tactics, the return to Athens, Herodotean source dependence, Pan/Pheidippides traditions, and later freedom-versus-despotism memory.
 - First World War branch: [[671-the-first-world-war-blood-in-the-trenches-part-1-glt2309179565]] introduces the Western Front through Graves, Junger, trench routine, shell shock, gas, Loos, and the Kipling family; [[672-the-first-world-war-italys-doomed-campaign-part-2-glt3383347829]], [[673-the-first-world-war-the-submarine-strikes-part-3-glt3632974949]], [[674-the-first-world-war-the-spy-who-took-on-the-germans-part-4-glt1889262052]], [[675-the-first-world-war-slaughter-at-gallipoli-part-5-glt4394132715]], and [[676-the-first-world-war-churchills-calamity-part-6-glt1275431911]] extend the sequence through Italy, Lusitania, Edith Cavell, and Gallipoli.
 - Abolitionist activism branch: [[316-the-first-abolitionist-glt2136062721]] follows [[BenjaminLay]] and [[SarahLay]] from Colchester to [[Barbados]] and Pennsylvania, connecting [[Quakers|Quaker]] inward equality, plantation brutality, boycott, public stunts, [[BenjaminFranklin]]'s printing connection, and late Philadelphia Friends discipline against slaveholding.
 - Hundred Years' War branch: [[318-hundred-years-war-a-game-of-thrones-part-1-glt5584156008]] follows the build-up to 1337 through French power, English continental loss, Gascony homage, Capetian succession rupture, Scottish alliance pressure, Aquitaine's confiscation, and Edward III's manifesto.
@@ -78,14 +82,20 @@ The national-symbol and sport branches use South Africa, Brazil, the Netherlands
 
 ## Qualifications
 
-This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts, so vivid claims about violence and gender performance remain source-scoped.
+This page summarizes only the episodes currently ingested into the wiki. The show should not be treated as endorsing one uniform theory of history or literature; the covered episodes mix narrative reconstruction, source uncertainty, moral interpretation, symbolic interpretation, and explicit cautions against overreading. The Marathon branch is especially dependent on surviving Greek literary evidence and later memory traditions, so Persian perspective, Pheidippides legends, and broad civilizational interpretations remain qualified. The Lay branch explicitly rejects the literal "first abolitionist" label and keeps the exact reach of his influence source-scoped. The African Amazons branch is especially dependent on mediated European, missionary, traveler, and popular-history accounts, so vivid claims about violence and gender performance remain source-scoped.
 
 ## What Changed
 
-- Added the opening Western Front episode in the 1915 First World War branch, connecting trench life, shell shock, gas warfare, Loos, Graves, Junger, and the Kipling family.
+- Added the Marathon episode as an ancient Greek war-memory branch, connecting battle tactics, Athens' survival, Persian source asymmetry, Herodotus, Pheidippides, Pan, and later freedom mythology.
 
 ## Relationships
 
+- [[BattleOfMarathon]] - ancient battle reconstructed as tactical gamble, civic survival, and memory object.
+- [[Athens]] - city whose Marathon survival and later Sullan humiliation both appear in the show's ancient-history coverage.
+- [[AchaemenidEmpire]] - Persian imperial opponent in the Marathon branch.
+- [[Miltiades]] - Athenian commander at the center of the Marathon tactical reconstruction.
+- [[Herodotus]] - source figure behind the battle's recoverability and source-asymmetry problem.
+- [[GrecoPersianWarMemory]] - later ideological afterlife of Marathon.
 - [[FirstWorldWar]] - 1915 war branch represented by the Western Front, Italy, Lusitania, Cavell, and Gallipoli episodes.
 - [[WesternFrontFirstWorldWar]] - battlefield setting introduced by episode 671.
 - [[TrenchLifeWesternFront]] - soldier-experience concept grounded by episode 671.

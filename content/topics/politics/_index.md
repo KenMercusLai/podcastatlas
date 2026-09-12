@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2399
+topic_total_pages: 2400
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -295,6 +295,9 @@ topic_concepts:
   - key: "AsymmetricInfrastructureAttack"
     title: "Asymmetric Infrastructure Attack"
     url: "/wiki/concepts/asymmetricinfrastructureattack/"
+  - key: "AthenianDemocracy"
+    title: "Athenian Democracy"
+    url: "/wiki/concepts/atheniandemocracy/"
   - key: "AthleteDataPrivacyGovernance"
     title: "Athlete Data Privacy Governance"
     url: "/wiki/concepts/athletedataprivacygovernance/"

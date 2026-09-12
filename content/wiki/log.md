@@ -17696,6 +17696,10 @@ Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Await
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 669. Greece vs. Persia: The Battle of Marathon (Part 2)
+
+Added source page for a The Rest Is History episode on the Battle of Marathon, covering Athenian road-blocking, Miltiades' cavalry-window attack, hoplite tactics, the race back to Athens, Herodotus, Pheidippides and Pan traditions, Persian imperial perspective, and later freedom-versus-despotism memory. Created pages for Battle of Marathon, Achaemenid Empire, Herodotus, Miltiades, Darius I, Hippias, Pheidippides, Pan, Athenian Democracy, and Greco-Persian War Memory; updated Athens, The Rest Is History, overview, and index. No settled contradiction found; the episode adds an ancient Greek war-memory branch while keeping Persian perspective, cavalry timing, Pheidippides traditions, and Marathon's decisiveness source-scoped.
+
 ## [2026-09-12] ingest | Essentials: Understanding & Controlling Aggression
 
 Added Huberman Lab Essentials source on aggression categories, VMH circuitry, testosterone-to-estrogen aromatization, day length, stress state, light/heat tools, and supplement-bounded pressure reduction. Created aggression-circuit, hormone-context, and pressure-reduction concepts plus supporting entity pages.
@@ -17878,6 +17882,10 @@ Added source note for 日谈物语 E02, created Unification Church, Han Hak-ja, 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

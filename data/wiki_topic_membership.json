@@ -1811,6 +1811,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "669-greece-vs-persia-the-battle-of-marathon-part-2-glt2696648260": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556": [
     {
       "key": "culture",
@@ -5533,6 +5540,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AchaemenidEmpire": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "AchievementPressureMentalHealth": [
     {
       "key": "culture",
@@ -9077,6 +9091,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AthenianDemocracy": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AthleteDataPrivacyGovernance": [
@@ -18843,6 +18864,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DariusI": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "DarkFiber": [
@@ -31308,6 +31336,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "Herodotus": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "HeroicResistanceViolenceAmbiguity": [
