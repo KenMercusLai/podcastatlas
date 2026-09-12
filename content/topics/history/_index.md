@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1811
+topic_total_pages: 1813
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2954,6 +2954,9 @@ topic_entities:
   - key: "ZhangLiang"
     title: "张良 / Zhang Liang"
     url: "/wiki/entities/zhangliang/"
+  - key: "ZhangTanWesternHan"
+    title: "张谭 / Zhang Tan (Western Han)"
+    url: "/wiki/entities/zhangtanwesternhan/"
   - key: "PengchengBattle"
     title: "彭城之战 / Battle of Pengcheng"
     url: "/wiki/entities/pengchengbattle/"
@@ -3554,6 +3557,9 @@ topic_entities:
   - key: "ShichengWarringStates"
     title: "石城 / Shicheng"
     url: "/wiki/entities/shichengwarringstates/"
+  - key: "ShiXianWesternHan"
+    title: "石显 / Shi Xian (Western Han)"
+    url: "/wiki/entities/shixianwesternhan/"
   - key: "ShimenBattle"
     title: "石门之战 / Battle of Shimen"
     url: "/wiki/entities/shimenbattle/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7127
+wiki_total_pages: 7128
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2219,6 +2219,9 @@ wiki_pages:
   - key: "ChroniclePolicyCompression"
     title: "政策制度记载压缩 / Chronicle Policy Compression"
     url: "/wiki/concepts/chroniclepolicycompression/"
+  - key: "CourtTransitionBlameManagement"
+    title: "新君清算中的责任安排 / Court Transition Blame Management"
+    url: "/wiki/concepts/courttransitionblamemanagement/"
   - key: "ChunDianArgot"
     title: "春点 / Chun Dian Argot"
     url: "/wiki/concepts/chundianargot/"

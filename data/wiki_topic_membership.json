@@ -59627,6 +59627,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ShiXianWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ShiXiangyun": [
     {
       "key": "culture",
@@ -75028,6 +75035,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "ZhangTanWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "ZhangWenhong": [

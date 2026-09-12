@@ -17716,6 +17716,10 @@ Added source note for Hanji 511, updated Wang Zun with the impeachment-review br
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！
+
+Added source note, updated Wang Zun, Kuang Heng, and Han Yuandi, and created Shi Xian, Zhang Tan, and Court Transition Blame Management.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》506丨汉皇帝为何衷情已婚妇女？
 
 Added source note, updated index, and refreshed Wang Feng, Gu Yong, and Consort Omen Blame Transfer.
@@ -18041,6 +18045,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -18743,6 +18743,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/courtsummonsasdeathsentence/"
     },
+    "CourtTransitionBlameManagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
+          "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/courttransitionblamemanagement/"
+    },
     "CourtWomenHistoriography": {
       "episode_count": 2,
       "show_count": 1,
@@ -40247,9 +40263,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -40257,9 +40273,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
+          "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/hanyuandi/"
     },
     "HanZhongLiaodongLateHan": {
@@ -50511,9 +50534,9 @@
       "url": "/wiki/entities/kuaishou/"
     },
     "KuangHengWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -50535,6 +50558,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
+          "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
         }
       ],
       "updated": "2026-09-12",
@@ -81403,6 +81433,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/shilifen/"
     },
+    "ShiXianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
+          "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/shixianwesternhan/"
+    },
     "ShiYanLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -95030,9 +95076,9 @@
       "url": "/wiki/entities/wangzongxinprince/"
     },
     "WangZunWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
@@ -95047,6 +95093,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》511丨“太后”天花板！她如何一天封五个弟弟为侯？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
+          "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
         }
       ],
       "updated": "2026-09-12",
@@ -104137,6 +104190,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/zhangsongxinpetitioner/"
+    },
+    "ZhangTanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！ [ls833sGrdJz9E1TupIiqiLLAgOhb].md",
+          "key": "zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhangtanwesternhan/"
     },
     "ZhangXiu": {
       "episode_count": 6,

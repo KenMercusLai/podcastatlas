@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9813
+wiki_total_pages: 9815
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2144,6 +2144,9 @@ wiki_pages:
   - key: "ShiJingtang"
     title: "石敬瑭 / Shi Jingtang"
     url: "/wiki/entities/shijingtang/"
+  - key: "ShiXianWesternHan"
+    title: "石显 / Shi Xian (Western Han)"
+    url: "/wiki/entities/shixianwesternhan/"
   - key: "ShimenBattle"
     title: "石门之战 / Battle of Shimen"
     url: "/wiki/entities/shimenbattle/"
