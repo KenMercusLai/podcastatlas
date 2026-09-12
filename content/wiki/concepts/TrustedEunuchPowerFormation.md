@@ -8,6 +8,7 @@ sources:
   - zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq
   - zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc
   - zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g
+  - zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo
 last_updated: 2026-09-12
 ---
 
@@ -17,7 +18,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-The earlier Western Han formation case comes through [[ShiXianWesternHan|石显]]. Shi Xian is not presented as merely flattering [[HanYuandi|汉元帝]]. His legal skill, cultural literacy, work capacity, and message-channel experience make him useful inside the ruler's information flow, so trust grows through competence and access before his later fall under [[HanChengdi|汉成帝]]. [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] adds that this trust also has an affective path: Shi Xian supplies companionship, music-based emotional resonance, reliable follow-through, and controlled confession to a ruler the host interprets as emotionally needy and ill.
+The earlier Western Han formation case comes through [[ShiXianWesternHan|石显]]. Shi Xian is not presented as merely flattering [[HanYuandi|汉元帝]]. His legal skill, cultural literacy, work capacity, and message-channel experience make him useful inside the ruler's information flow, so trust grows through competence and access before his later fall under [[HanChengdi|汉成帝]]. [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] adds that this trust also has an affective path: Shi Xian supplies companionship, music-based emotional resonance, reliable follow-through, and controlled confession to a ruler the host interprets as emotionally needy and ill. [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|Hanji 495]] adds an appointment-veto path: once trusted, Shi Xian can block a qualified opponent without direct rejection by translating the appointment into a reputation risk for Yuan.
 
 The Eastern Han crisis-usefulness layer is clearer in [[EmperorHeOfHan|Emperor He]]'s anti-Dou planning. He cannot safely consult outer ministers under [[DouXianEasternHan|Dou Xian]]'s dominance, so he secretly plans with [[ZhengZhongEasternHan|Zheng Zhong]] and uses [[LiuQingQingheKing|Liu Qing]] to relay a request for historical precedents about punishing powerful maternal uncles.
 
@@ -29,7 +30,7 @@ The source set therefore widens the formation model. Trusted eunuch power can be
 
 - Eunuch power can begin as trusted usefulness before it hardens into structural monopoly.
 - Message-channel and document access can make a palace servant politically valuable even before crisis.
-- Emotional attunement and reliability performance can convert proximity into personal dependence.
+- Emotional attunement, reliability performance, and appointment framing can convert proximity into personal dependence and make qualified rivals look politically risky.
 - Reward refusal may increase influence when the ruler interprets it as virtue and low threat.
 - Inner-court proximity matters because repeated consultation can become a governing channel.
 - Post-outer-relative consolidation can make palace servants look safer than natal-family or ministerial blocs.
@@ -42,6 +43,7 @@ Competence and information access:
 - [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] says palace message relay could shape what information reached the emperor and helped explain Shi Xian's rise.
 - [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] says Shi Xian builds Yuan's reliance through music, companionship during illness, reliable handling of affairs, and selective confession of small faults.
 - [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] says Shi Xian's trusted position helps him move against Xiao Wangzhi once Xiao opposes his favor.
+- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|Hanji 495]] says Shi Xian blocks Feng Yewang's Yushi Dafu appointment by praising Feng's merit while warning that Yuan would look as if he favored a consort's brother.
 
 Crisis access:
 - [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says Emperor He cannot safely reach ministers and therefore plots with Zheng Zhong.
@@ -53,16 +55,18 @@ Trust consolidation:
 
 ## Counterevidence & Qualifications
 
-The page records source interpretations, not a complete institutional history of eunuch power. Hanji 500-501's Shi Xian case is morally negative and ends in collapse; Hanji 766-767's Zheng Zhong case is framed as crisis usefulness and humility after outer-relative danger. Hanji 501's psychological account of Yuan remains source-scoped. The concept should be used for early formation through usefulness, trust, affective access, and proximity, not as a synonym for all eunuch politics or a claim that every trusted eunuch created later domination.
+The page records source interpretations, not a complete institutional history of eunuch power. Hanji 495 and Hanji 500-501's Shi Xian case is morally negative and ends in collapse; Hanji 766-767's Zheng Zhong case is framed as crisis usefulness and humility after outer-relative danger. Hanji 501's psychological account of Yuan and Hanji 495's reading of Yuan's reputation sensitivity remain source-scoped. The concept should be used for early formation through usefulness, trust, affective access, appointment framing, and proximity, not as a synonym for all eunuch politics or a claim that every trusted eunuch created later domination.
 
 ## What Changed
 
-- Added Hanji 501's affective-access layer, distinguishing emotional attunement and reliability performance from the prior message-channel and crisis-planning mechanisms.
+- Added Hanji 495's appointment-framing layer, where trusted access lets Shi Xian block Feng Yewang by shaping Yuan's perception of reputational risk.
+- Preserved Hanji 501's affective-access layer, distinguishing emotional attunement and reliability performance from the prior message-channel and crisis-planning mechanisms.
 
 ## Related Concepts
 
 - [[MessageRelayPoliticalPower|传话式信息权力]] - upstream mechanism added by Shi Xian's palace message-channel role.
 - [[XiaoWangzhiWesternHan|萧望之]] - early opponent whose removal shows trusted access becoming coercive court power.
+- [[LegitimacyNarrativeAttack|名分合法性叙事攻击]] - adjacent conflict method when access lets a favorite define an appointment's public meaning.
 - [[HistoricalPrecedentCrisisPlanning|历史先例式危机规划]] - Zheng Zhong participates in the precedent-search channel before the anti-Dou operation.
 - [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]] - trusted eunuch access helps make the later palace operation possible.
 - [[PalaceAccessMonopoly|宫廷近身渠道垄断]] - later structural direction that trusted access can enable.

@@ -25198,6 +25198,13 @@
       "url": "/topics/history/"
     }
   ],
+  "FengXunWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "FengYuanWesternHan": [
     {
       "key": "history",
@@ -25210,6 +25217,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "FengZhaoyiWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "FengkuangShiyanShi": [
@@ -39897,6 +39911,13 @@
     }
   ],
   "LiXunWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "LiYanshouWesternHan": [
     {
       "key": "history",
       "label": "History",
@@ -75521,6 +75542,13 @@
     }
   ],
   "ZhaoWulingwang": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "ZhaoXinchenWesternHan": [
     {
       "key": "history",
       "label": "History",

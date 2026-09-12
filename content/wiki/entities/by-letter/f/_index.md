@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9821
+wiki_total_pages: 9825
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -746,6 +746,9 @@ wiki_pages:
   - key: "FengJieQin"
     title: "冯劫 / 冯杰 / Feng Jie (Qin)"
     url: "/wiki/entities/fengjieqin/"
+  - key: "FengXunWesternHan"
+    title: "冯勋 / Feng Xun (Western Han)"
+    url: "/wiki/entities/fengxunwesternhan/"
   - key: "FengQuji"
     title: "冯去疾 / Feng Quji"
     url: "/wiki/entities/fengquji/"
@@ -767,6 +770,9 @@ wiki_pages:
   - key: "FengJingChuHan"
     title: "冯敬 / Feng Jing (Chu-Han)"
     url: "/wiki/entities/fengjingchuhan/"
+  - key: "FengZhaoyiWesternHan"
+    title: "冯昭仪 / Feng Zhaoyi (Western Han)"
+    url: "/wiki/entities/fengzhaoyiwesternhan/"
   - key: "FengHaoWarringStates"
     title: "冯浩 / Feng Hao (Warring States adviser)"
     url: "/wiki/entities/fenghaowarringstates/"

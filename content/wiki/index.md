@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》495丨西汉名将PK阉人宠臣，硬碰硬谁能赢？](sources/zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo.md) — 芮淇讲透资治通鉴 episode on Shi Xian blocking Feng Yewang's Yushi Dafu promotion by reframing a merit appointment as consort-kin favoritism risk for Han Yuandi.
 - [《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！](sources/zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's polite refusal to outsource frontier defense, the host's core-control management lesson, Zuo Yizizhi's trust rupture, Wang Zhaojun's son, and Liu Ao's capping rite.
 - [《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！](sources/zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's request to remove Han frontier defenses, Hou Yin's ten-part objection, and the modern partnership-boundary lesson.
 - [《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？](sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's late succession crisis, Liu Ao's threatened crown-prince position, Liu Kang and Fu Zhaoyi's bedside advantage, and Shi Dan's institutional remonstrance.
@@ -2272,6 +2273,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [冯勋 / Feng Xun (Western Han)](entities/FengXunWesternHan.md) — Feng-family figure whose warning to Han Yuandi about Shi Xian backfires.
+- [冯昭仪 / Feng Zhaoyi (Western Han)](entities/FengZhaoyiWesternHan.md) — Favored Han Yuandi consort whose sibling tie makes Feng Yewang's promotion vulnerable to favoritism optics.
+- [李延寿 / Li Yanshou (Western Han)](entities/LiYanshouWesternHan.md) — Yushi Dafu whose death opens the Hanji 495 appointment contest.
+- [召信臣 / Zhao Xinchen (Western Han)](entities/ZhaoXinchenWesternHan.md) — Western Han administrator appointed Shaofu after Zhang Tan's Yushi Dafu promotion, remembered as "Zhao Fu."
 - [高德荣 / Gao Derong](entities/GaoDerong.md) — Contemporary public-service contrast case where poverty memory becomes poverty-alleviation responsibility.
 - [高福波 / Gao Fubo](entities/GaoFubo.md) — Contemporary corruption example used to reject "穷怕了" as an excuse.
 - [石显 / Shi Xian (Western Han)](entities/ShiXianWesternHan.md) — Yuan-era eunuch power holder whose trust formation, reward opposition, and collapse create early Chengdi cleanup, office vacancy, and predecessor-blame problems.

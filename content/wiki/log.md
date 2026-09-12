@@ -17724,6 +17724,10 @@ Added source note for Hanji 511, updated Wang Zun with the impeachment-review br
 
 Added source page for the Yuan-era Chen Tang and Gan Yanshou pardon/reward decision. Updated ChenTangWesternHan, GanYanshouWesternHan, LiuXiang, KuangHengWesternHan, ShiXianWesternHan, and MeritShieldedAccountability to distinguish the original reward layer from later Kangju, Changling, and hero-memory cases.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》495丨西汉名将PK阉人宠臣，硬碰硬谁能赢？
+
+Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunuch Power Formation; created Feng Xun, Feng Zhaoyi, Li Yanshou, and Zhao Xinchen.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18077,6 +18081,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
