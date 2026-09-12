@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7170
+wiki_total_pages: 7174
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -353,6 +353,9 @@ wiki_pages:
   - key: "RemoteRoadAccessTransformation"
     title: "Remote Road Access Transformation / 偏远地区道路可达性转型"
     url: "/wiki/concepts/remoteroadaccesstransformation/"
+  - key: "RenaissancePortraitAmbiguity"
+    title: "Renaissance Portrait Ambiguity"
+    url: "/wiki/concepts/renaissanceportraitambiguity/"
   - key: "RenalFindingTriage"
     title: "Renal Finding Triage / 肾脏发现分层处理"
     url: "/wiki/concepts/renalfindingtriage/"

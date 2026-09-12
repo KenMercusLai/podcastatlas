@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7170
+wiki_total_pages: 7174
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -905,6 +905,9 @@ wiki_pages:
   - key: "MolecularFeatureEngineering"
     title: "Molecular Feature Engineering"
     url: "/wiki/concepts/molecularfeatureengineering/"
+  - key: "MonaLisaFameFormation"
+    title: "Mona Lisa Fame Formation"
+    url: "/wiki/concepts/monalisafameformation/"
   - key: "MonetaryPolicyLag"
     title: "Monetary Policy Lag"
     url: "/wiki/concepts/monetarypolicylag/"
@@ -1124,6 +1127,9 @@ wiki_pages:
   - key: "MuseumInterpretationLegibility"
     title: "Museum Interpretation Legibility / 博物馆阐释可读性"
     url: "/wiki/concepts/museuminterpretationlegibility/"
+  - key: "MuseumTourismIcon"
+    title: "Museum Tourism Icon"
+    url: "/wiki/concepts/museumtourismicon/"
   - key: "MusicIndustryAIResponse"
     title: "Music Industry AI Response"
     url: "/wiki/concepts/musicindustryairesponse/"

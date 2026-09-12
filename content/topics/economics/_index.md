@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2012
+topic_total_pages: 2013
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3668,6 +3668,9 @@ topic_entities:
   - key: "FoundersFund"
     title: "Founders Fund"
     url: "/wiki/entities/foundersfund/"
+  - key: "FrancescoDelGiocondo"
+    title: "Francesco del Giocondo"
+    url: "/wiki/entities/francescodelgiocondo/"
   - key: "FredWilson"
     title: "Fred Wilson"
     url: "/wiki/entities/fredwilson/"

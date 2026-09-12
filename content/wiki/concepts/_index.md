@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7170
+wiki_total_pages: 7174
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1949,6 +1949,9 @@ wiki_pages:
   - key: "ArtDignityUnderPoliticalPressure"
     title: "Art Dignity Under Political Pressure"
     url: "/wiki/concepts/artdignityunderpoliticalpressure/"
+  - key: "ArtReproductionAndCirculation"
+    title: "Art Reproduction and Circulation"
+    url: "/wiki/concepts/artreproductionandcirculation/"
   - key: "ArtificialCognition"
     title: "Artificial Cognition"
     url: "/wiki/concepts/artificialcognition/"

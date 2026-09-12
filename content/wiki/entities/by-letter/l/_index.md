@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9850
+wiki_total_pages: 9857
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -275,6 +275,9 @@ wiki_pages:
   - key: "LeonardoMPEG"
     title: "Leonardo (MPEG)"
     url: "/wiki/entities/leonardompeg/"
+  - key: "LeonardoDaVinci"
+    title: "Leonardo da Vinci"
+    url: "/wiki/entities/leonardodavinci/"
   - key: "LeonardoLins"
     title: "Leonardo Lins"
     url: "/wiki/entities/leonardolins/"
@@ -437,6 +440,9 @@ wiki_pages:
   - key: "LisaCook"
     title: "Lisa Cook"
     url: "/wiki/entities/lisacook/"
+  - key: "LisaGherardini"
+    title: "Lisa Gherardini"
+    url: "/wiki/entities/lisagherardini/"
   - key: "LisaKSolomon"
     title: "Lisa K. Solomon"
     url: "/wiki/entities/lisaksolomon/"
@@ -659,6 +665,9 @@ wiki_pages:
   - key: "LouisianaPurchase"
     title: "Louisiana Purchase"
     url: "/wiki/entities/louisianapurchase/"
+  - key: "Louvre"
+    title: "Louvre"
+    url: "/wiki/entities/louvre/"
   - key: "Lovable"
     title: "Lovable"
     url: "/wiki/entities/lovable/"

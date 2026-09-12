@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9850
+wiki_total_pages: 9857
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1118,6 +1118,9 @@ wiki_pages:
   - key: "MonaKhalil"
     title: "Mona Khalil"
     url: "/wiki/entities/monakhalil/"
+  - key: "MonaLisa"
+    title: "Mona Lisa"
+    url: "/wiki/entities/monalisa/"
   - key: "MondayNightFootball"
     title: "Monday Night Football"
     url: "/wiki/entities/mondaynightfootball/"

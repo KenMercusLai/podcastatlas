@@ -7119,6 +7119,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/artafterviolencememory/"
     },
+    "ArtReproductionAndCirculation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/artreproductionandcirculation/"
+    },
     "ArtificialEmotionalIntelligence": {
       "episode_count": 1,
       "show_count": 1,
@@ -34032,6 +34048,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/franceshaugen/"
     },
+    "FrancescoDelGiocondo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/francescodelgiocondo/"
+    },
     "FrancisScottKey": {
       "episode_count": 1,
       "show_count": 1,
@@ -37543,6 +37575,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/ginapoe/"
+    },
+    "GiorgioVasari": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/giorgiovasari/"
     },
     "GlobalProductLocalization": {
       "episode_count": 15,
@@ -53006,6 +53054,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/leovamaka/"
     },
+    "LeonardoDaVinci": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/leonardodavinci/"
+    },
     "LethalPlanLeakageRisk": {
       "episode_count": 5,
       "show_count": 1,
@@ -55066,6 +55130,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/liquidsugarrisk/"
+    },
+    "LisaGherardini": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/lisagherardini/"
     },
     "LisaMosconi": {
       "episode_count": 1,
@@ -58186,6 +58266,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/louisianapurchase/"
+    },
+    "Louvre": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/louvre/"
     },
     "Lovable": {
       "episode_count": 4,
@@ -64210,6 +64306,38 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/momotimeapp/"
     },
+    "MonaLisa": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/monalisa/"
+    },
+    "MonaLisaFameFormation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/monalisafameformation/"
+    },
     "Monticello": {
       "episode_count": 1,
       "show_count": 1,
@@ -64703,6 +64831,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/museuminterpretationlegibility/"
+    },
+    "MuseumTourismIcon": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/museumtourismicon/"
     },
     "MusicBasedEmotionRegulation": {
       "episode_count": 1,
@@ -77609,6 +77753,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/renzeping/"
+    },
+    "RenaissancePortraitAmbiguity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/renaissanceportraitambiguity/"
     },
     "RenalFindingTriage": {
       "episode_count": 1,
@@ -94507,6 +94667,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/viktormayerschonberger/"
+    },
+    "VincenzoPerugia": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1735270133 [GLT1735270133].md",
+          "key": "667-the-mystery-of-the-mona-lisa-glt1735270133",
+          "show": "The Rest Is History",
+          "title": "667. The Mystery of the Mona Lisa",
+          "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/vincenzoperugia/"
     },
     "ViolenceReductionPublicHealthModel": {
       "episode_count": 1,

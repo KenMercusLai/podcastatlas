@@ -8898,6 +8898,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "ArtReproductionAndCirculation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Artemis2": [
     {
       "key": "science",
@@ -26942,6 +26949,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "FrancescoDelGiocondo": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FrancisGalton": [
     {
       "key": "science",
@@ -41497,6 +41511,13 @@
       "url": "/topics/science/"
     }
   ],
+  "Louvre": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "Lovable": [
     {
       "key": "technology",
@@ -45390,6 +45411,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "MonaLisaFameFormation": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "MondayNightFootball": [
     {
       "key": "culture",
@@ -45932,6 +45960,13 @@
     }
   ],
   "MuseumInterpretationLegibility": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "MuseumTourismIcon": [
     {
       "key": "culture",
       "label": "Culture",

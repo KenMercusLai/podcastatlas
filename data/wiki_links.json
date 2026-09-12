@@ -1187,6 +1187,10 @@
     "title": "66.鱼翅与花椒：聊吃的我可就不困了",
     "url": "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
   },
+  "667-the-mystery-of-the-mona-lisa-glt1735270133": {
+    "title": "667. The Mystery of the Mona Lisa",
+    "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
+  },
   "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182": {
     "title": "668. Greece vs Persia: The Rise of the First Superpower (Part 1)",
     "url": "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"
@@ -6022,6 +6026,10 @@
   "ArtDignityUnderPoliticalPressure": {
     "title": "Art Dignity Under Political Pressure",
     "url": "/wiki/concepts/artdignityunderpoliticalpressure/"
+  },
+  "ArtReproductionAndCirculation": {
+    "title": "Art Reproduction and Circulation",
+    "url": "/wiki/concepts/artreproductionandcirculation/"
   },
   "ArtX": {
     "title": "ArtX",
@@ -22691,6 +22699,10 @@
     "title": "Francesco Baracca",
     "url": "/wiki/entities/francescobaracca/"
   },
+  "FrancescoDelGiocondo": {
+    "title": "Francesco del Giocondo",
+    "url": "/wiki/entities/francescodelgiocondo/"
+  },
   "FranchiseLedConsumerChainExpansion": {
     "title": "Franchise-Led Consumer Chain Expansion",
     "url": "/wiki/concepts/franchiseledconsumerchainexpansion/"
@@ -24474,6 +24486,10 @@
   "GiorgiaMeloni": {
     "title": "Giorgia Meloni",
     "url": "/wiki/entities/giorgiameloni/"
+  },
+  "GiorgioVasari": {
+    "title": "Giorgio Vasari",
+    "url": "/wiki/entities/giorgiovasari/"
   },
   "GiovanniAldini": {
     "title": "Giovanni Aldini / 乔瓦尼·阿尔迪尼",
@@ -34719,6 +34735,10 @@
     "title": "Leonard Cohen / 莱昂纳德·科恩",
     "url": "/wiki/entities/leonardcohen/"
   },
+  "LeonardoDaVinci": {
+    "title": "Leonardo da Vinci",
+    "url": "/wiki/entities/leonardodavinci/"
+  },
   "LeonardoLins": {
     "title": "Leonardo Lins",
     "url": "/wiki/entities/leonardolins/"
@@ -35762,6 +35782,10 @@
   "LisaCook": {
     "title": "Lisa Cook",
     "url": "/wiki/entities/lisacook/"
+  },
+  "LisaGherardini": {
+    "title": "Lisa Gherardini",
+    "url": "/wiki/entities/lisagherardini/"
   },
   "LisaKSolomon": {
     "title": "Lisa K. Solomon",
@@ -36926,6 +36950,10 @@
   "LouisianaPurchase": {
     "title": "Louisiana Purchase",
     "url": "/wiki/entities/louisianapurchase/"
+  },
+  "Louvre": {
+    "title": "Louvre",
+    "url": "/wiki/entities/louvre/"
   },
   "Lovable": {
     "title": "Lovable",
@@ -40823,6 +40851,14 @@
     "title": "Mona Khalil",
     "url": "/wiki/entities/monakhalil/"
   },
+  "MonaLisa": {
+    "title": "Mona Lisa",
+    "url": "/wiki/entities/monalisa/"
+  },
+  "MonaLisaFameFormation": {
+    "title": "Mona Lisa Fame Formation",
+    "url": "/wiki/concepts/monalisafameformation/"
+  },
   "MondayCom": {
     "title": "monday.com",
     "url": "/wiki/entities/mondaycom/"
@@ -41314,6 +41350,10 @@
   "MuseumInterpretationLegibility": {
     "title": "Museum Interpretation Legibility / 博物馆阐释可读性",
     "url": "/wiki/concepts/museuminterpretationlegibility/"
+  },
+  "MuseumTourismIcon": {
+    "title": "Museum Tourism Icon",
+    "url": "/wiki/concepts/museumtourismicon/"
   },
   "MusicBasedEmotionRegulation": {
     "title": "Music-Based Emotion Regulation",
@@ -49998,6 +50038,10 @@
   "RenZhengfei": {
     "title": "Ren Zhengfei",
     "url": "/wiki/entities/renzhengfei/"
+  },
+  "RenaissancePortraitAmbiguity": {
+    "title": "Renaissance Portrait Ambiguity",
+    "url": "/wiki/concepts/renaissanceportraitambiguity/"
   },
   "RenaissanceTechnologies": {
     "title": "Renaissance Technologies",
@@ -61778,6 +61822,10 @@
   "VinceGiudice": {
     "title": "Vince Giudice",
     "url": "/wiki/entities/vincegiudice/"
+  },
+  "VincenzoPerugia": {
+    "title": "Vincenzo Perugia",
+    "url": "/wiki/entities/vincenzoperugia/"
   },
   "VingeruMakandewiri": {
     "title": "Vingeru Makandewiri",

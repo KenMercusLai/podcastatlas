@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [667. The Mystery of the Mona Lisa](sources/667-the-mystery-of-the-mona-lisa-glt1735270133.md) — The Rest Is History episode on Leonardo da Vinci, Lisa Gherardini, the Mona Lisa's sitter evidence, visual ambiguity, reproduction, the 1911 theft, parody, the Louvre, and museum tourism.
 - [245. 怒江春日，秘境初探](sources/245-nujiang-chunri-mijing-chutan-8221838951-646453.md) — 博物志 episode on a Songtsam Nujiang Gorge route, Three Parallel Rivers geography, minority-region travel ethics, road access, Bingzhongluo religion, Baoshan coffee, and Yunnan travel logistics.
 - [Elon's Anthropic Deal, The Next AI Monopoly?, "FDA for AI" Panic, Trading the AI Boom](sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285.md) — All-In episode on xAI capacity leasing to Anthropic, compute and power scarcity, Anthropic monopoly fears, rejection of an "FDA for AI," cyber-capable model controls, coding-agent competition, and AI ROI proof.
 - [668. Greece vs Persia: The Rise of the First Superpower (Part 1)](sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182.md) — The Rest Is History episode on Cyrus, Darius, Achaemenid imperial order, the Ionian Revolt, Sardis, Miletus, Athenian intervention, and the road to Marathon.
@@ -2292,6 +2293,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Mona Lisa](entities/MonaLisa.md) — Leonardo portrait of Lisa Gherardini whose fame accumulated through ambiguity, reproduction, theft, parody, and Louvre tourism.
+- [Leonardo da Vinci](entities/LeonardoDaVinci.md) — Renaissance artist-engineer whose technique, reputation, and custody of the Mona Lisa anchor the episode's art-history branch.
+- [Lisa Gherardini](entities/LisaGherardini.md) — Florentine woman identified as the sitter for the Mona Lisa.
+- [Francesco del Giocondo](entities/FrancescoDelGiocondo.md) — Florentine businessman and Lisa Gherardini's husband, providing the likely commission context for the Mona Lisa.
+- [Giorgio Vasari](entities/GiorgioVasari.md) — Renaissance biographical witness whose Lisa del Giocondo identification is reinforced by the Heidelberg evidence.
+- [Louvre](entities/Louvre.md) — French museum setting where the Mona Lisa became a public object, theft spectacle, and mass-tourism icon.
+- [Vincenzo Perugia](entities/VincenzoPerugia.md) — Former Louvre worker whose 1911 theft of the Mona Lisa intensified its global fame.
 - [Songtsam / 松赞](entities/Songtsam.md) — Travel and hospitality operator framed as logistics, local interpretation, lodging, food, and driver infrastructure for a difficult Nujiang Gorge route.
 - [Nujiang Gorge / 怒江峡谷](entities/NujiangGorge.md) — Yunnan canyon route where river force, Highway 219, multi-ethnic life, religion, old transport memory, and travel ethics converge.
 - [Bingzhongluo / 丙中洛](entities/Bingzhongluo.md) — Nujiang village destination framed through terraced scenery, sacred mountains, Puhua Temple, Chongding Church, and multi-religion coexistence.
@@ -12146,6 +12154,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Mona Lisa Fame Formation](concepts/MonaLisaFameFormation.md) — Concept for how the Mona Lisa became a global icon through artistic, media, theft, parody, museum, and tourism layers.
+- [Renaissance Portrait Ambiguity](concepts/RenaissancePortraitAmbiguity.md) — Concept for the Mona Lisa's unstable expression, sfumato, plain presentation, and strange landscape as interpretive openness.
+- [Art Reproduction and Circulation](concepts/ArtReproductionAndCirculation.md) — Concept for how copies, photographs, tours, parody, and media circulation reshape an artwork's public meaning.
+- [Museum Tourism Icon](concepts/MuseumTourismIcon.md) — Concept for museum objects whose fame organizes visitor behavior and institutional display decisions.
 - [Three Parallel Rivers Landscape / 三江并流地景](concepts/ThreeParallelRiversLandscape.md) — Geography frame for Yunnan's compressed rivers, steep relief, biodiversity, road difficulty, and cultural density.
 - [Ethical Minority Travel / 少数民族地区旅行伦理](concepts/EthicalMinorityTravel.md) — Travel ethic for visiting living minority communities without exoticizing people, rituals, pain, or modernization.
 - [Remote Road Access Transformation / 偏远地区道路可达性转型](concepts/RemoteRoadAccessTransformation.md) — Infrastructure shift from isolation and survival transport toward roads, bridges, relocation, tourism, and changed remoteness.
