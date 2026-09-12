@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7218
+wiki_total_pages: 7219
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -878,6 +878,9 @@ wiki_pages:
   - key: "TangmuYi"
     title: "汤沐邑 / Tangmu Yi"
     url: "/wiki/concepts/tangmuyi/"
+  - key: "TrueButEvasiveRemonstrance"
+    title: "真实但避重就轻的进谏 / True But Evasive Remonstrance"
+    url: "/wiki/concepts/truebutevasiveremonstrance/"
   - key: "TaxationStabilityTradeoff"
     title: "税赋与地方稳定权衡 / Taxation-Stability Tradeoff"
     url: "/wiki/concepts/taxationstabilitytradeoff/"

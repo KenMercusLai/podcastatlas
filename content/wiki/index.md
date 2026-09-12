@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事](sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's Chuyuan 1 relief-and-austerity context, Wang Ji and Gong Yu's summons, the "贡禹弹冠" idiom, and Gong Yu's palace-thrift remonstrance.
+- [《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？](sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs.md) — 芮淇讲透资治通鉴 episode on Gong Yu's true-but-evasive thrift advice, Sima Guang's priority critique, and Wei Zheng/Fan Zhongyan as public-duty contrasts.
 - [《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？](sources/zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw.md) — 芮淇讲透资治通鉴 episode on early Han Yuandi factional politics, Xiao Wangzhi's anti-Zhongshu-eunuch memorial, Shi Gao and eunuch alignment, and Zheng Peng's first attachment to Xiao's side.
 - [《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场](sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho.md) — 芮淇讲透资治通鉴 episode on Zheng Peng's betrayal of Xiao Wangzhi, the Tingwei custody trap, Han Yuandi's face-saving pardon, and the setup for Xiao's fatal vindication conflict.
 - [蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实](sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1.md) — 罗永浩的十字路口 interview with Cai Kangyong on Kangxi Laile, aging, AI creativity, grief ritual, death normalization, written art, and life meaning.
@@ -2319,6 +2320,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [魏征 / Wei Zheng (Tang)](entities/WeiZhengTang.md) — Tang direct-remonstrance contrast in Hanji 467.
+- [范仲淹 / Fan Zhongyan](entities/FanZhongyan.md) — Song official-conscience contrast in Hanji 467.
+- [唐太宗 / Emperor Taizong of Tang](entities/EmperorTaizongOfTang.md) — ruler-side condition for Wei Zheng's remonstrance in Hanji 467.
 - [华龙 / Hua Long (Western Han)](entities/HuaLongWesternHan.md) — Western Han accuser who joins Zheng Peng in the first Xiao Wangzhi case.
 - [许章 / Xu Zhang (Western Han)](entities/XuZhangWesternHan.md) — Western Han court actor on Shi Gao's side of Zheng Peng's accusation reversal.
 - [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han official presented as capable but too informal for crown-prince instruction in Hanji 469.
@@ -12212,6 +12216,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [真实但避重就轻的进谏 / True But Evasive Remonstrance](concepts/TrueButEvasiveRemonstrance.md) — Truthful advice that avoids the urgent institutional problem.
 - [Conversation As Self-Revelation / 对话作为自我显现](concepts/ConversationAsSelfRevelation.md) — Interview ideal where conversation helps a speaker discover and articulate something they did not already know how to say.
 - [Death Normalization Practice / 死亡日常化练习](concepts/DeathNormalizationPractice.md) — Making death discussable through ordinary language, wills, last wishes, funerals, digital accounts, and farewell practice.
 - [Human Meaning Under AI / AI 下的人类意义](concepts/HumanMeaningUnderAI.md) — Question of how human value, relationship, and meaning survive when AI can imitate, augment, or outperform many outputs.

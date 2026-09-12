@@ -18490,6 +18490,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？
+
+Added source. Key claims: Gong Yu's thrift memorial was true and partially accepted but avoided Yuan's urgent problem of weak judgment, slanderers, and corrupt favorites; Sima Guang's criticism creates a true-but-evasive remonstrance frame; Wei Zheng and Fan Zhongyan serve as public-duty contrasts for dangerous direct speech.
+
 ## [2026-09-13] ingest | CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win
 
 Added All-In source on Steve Hilton's California governor campaign, affordability platform, CalDOGE, housing-cost capture, energy permitting, schools, crime, homelessness, and 2026 top-two electoral strategy.
@@ -18526,6 +18530,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？
 
 Added source. Key claims: early Han Yuandi politics splits among outer relatives, Confucian teacher-ministers, and Zhongshu eunuchs; Xiao Wangzhi's anti-eunuch memorial openly targets Hong Gong and Shi Xian's institutional base; Zheng Peng first gains encouragement by attacking Shi Gao's side, setting up the later Hanji 469 betrayal sequence.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

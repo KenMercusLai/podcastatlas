@@ -28054,6 +28054,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/emperorshunofhan/"
     },
+    "EmperorTaizongOfTang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？ [ls_ZlyQolVpFttspAh8wERY4e3Fs].md",
+          "key": "zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/emperortaizongoftang/"
+    },
     "EmperorXuanOfHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -31194,6 +31210,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/fanyinglatehan/"
+    },
+    "FanZhongyan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？ [ls_ZlyQolVpFttspAh8wERY4e3Fs].md",
+          "key": "zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/fanzhongyan/"
     },
     "FanZhunLateHan": {
       "episode_count": 2,
@@ -38538,9 +38570,9 @@
       "url": "/wiki/entities/gongshengxinscholar/"
     },
     "GongYuWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
@@ -38576,6 +38608,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事",
           "url": "/wiki/sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？ [ls_ZlyQolVpFttspAh8wERY4e3Fs].md",
+          "key": "zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs/"
         }
       ],
       "updated": "2026-09-13",
@@ -94195,6 +94234,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/trojanhorse/"
     },
+    "TrueButEvasiveRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？ [ls_ZlyQolVpFttspAh8wERY4e3Fs].md",
+          "key": "zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/truebutevasiveremonstrance/"
+    },
     "TrueEducationKDrama": {
       "episode_count": 1,
       "show_count": 1,
@@ -99535,6 +99590,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/weizhaolatehan/"
+    },
+    "WeiZhengTang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？ [ls_ZlyQolVpFttspAh8wERY4e3Fs].md",
+          "key": "zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/weizhengtang/"
     },
     "WeiZhongLateHan": {
       "episode_count": 1,

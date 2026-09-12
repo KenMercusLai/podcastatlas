@@ -19343,6 +19343,10 @@
     "title": "汉顺帝 / Emperor Shun of Han",
     "url": "/wiki/entities/emperorshunofhan/"
   },
+  "EmperorTaizongOfTang": {
+    "title": "唐太宗 / Emperor Taizong of Tang",
+    "url": "/wiki/entities/emperortaizongoftang/"
+  },
   "EmperorXianOfHan": {
     "title": "汉献帝 / Emperor Xian of Han",
     "url": "/wiki/entities/emperorxianofhan/"
@@ -20858,6 +20862,10 @@
   "FanZeng": {
     "title": "范增 / Fan Zeng",
     "url": "/wiki/entities/fanzeng/"
+  },
+  "FanZhongyan": {
+    "title": "范仲淹 / Fan Zhongyan",
+    "url": "/wiki/entities/fanzhongyan/"
   },
   "FanZhunLateHan": {
     "title": "樊准 / Fan Zhun (late Han)",
@@ -60583,6 +60591,10 @@
     "title": "Troupe Discipline As Identity Formation",
     "url": "/wiki/concepts/troupedisciplineasidentityformation/"
   },
+  "TrueButEvasiveRemonstrance": {
+    "title": "真实但避重就轻的进谏 / True But Evasive Remonstrance",
+    "url": "/wiki/concepts/truebutevasiveremonstrance/"
+  },
   "TrueEducationKDrama": {
     "title": "《铁拳教育》 / True Education",
     "url": "/wiki/entities/trueeducationkdrama/"
@@ -63590,6 +63602,10 @@
   "WeiZhaoyang": {
     "title": "魏昭阳 / Wei Zhaoyang",
     "url": "/wiki/entities/weizhaoyang/"
+  },
+  "WeiZhengTang": {
+    "title": "魏征 / Wei Zheng (Tang)",
+    "url": "/wiki/entities/weizhengtang/"
   },
   "WeiZhi": {
     "title": "魏挚 / Wei Zhi",
@@ -74630,6 +74646,10 @@
   "zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t": {
     "title": "《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事",
     "url": "/wiki/sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t/"
+  },
+  "zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs": {
+    "title": "《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs/"
   },
   "zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw": {
     "title": "《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？",
