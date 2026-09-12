@@ -5803,9 +5803,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 27,
+      "episode_count": 28,
       "show_count": 1,
-      "source_note_count": 27,
+      "source_note_count": 28,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -5995,6 +5995,13 @@
           "show": "Huberman Lab",
           "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
           "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        },
+        {
+          "episode_file": "SCIM2821501065 [SCIM2821501065].md",
+          "key": "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
         }
       ],
       "updated": "2026-09-12",
@@ -24151,9 +24158,9 @@
       "url": "/wiki/concepts/dopaminetooltiming/"
     },
     "DopamineWantingLoop": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "E46 我们从未看见彼此 [lmLikSaiWXAKmjBn_p2VoaaOENXH].md",
@@ -24175,9 +24182,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM2821501065 [SCIM2821501065].md",
+          "key": "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/dopaminewantingloop/"
     },
     "DouDuEasternHan": {
@@ -38046,6 +38060,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/concepts/glycationskinanxiety/"
     },
+    "GlycemicResponseToolBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2821501065 [SCIM2821501065].md",
+          "key": "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/glycemicresponsetoolboundary/"
+    },
     "GnaeusOctaviusRomanConsul": {
       "episode_count": 1,
       "show_count": 1,
@@ -45178,9 +45208,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 27,
+      "episode_count": 28,
       "show_count": 1,
-      "source_note_count": 27,
+      "source_note_count": 28,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -45370,6 +45400,13 @@
           "show": "Huberman Lab",
           "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
           "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        },
+        {
+          "episode_file": "SCIM2821501065 [SCIM2821501065].md",
+          "key": "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
         }
       ],
       "updated": "2026-09-12",
@@ -73893,9 +73930,9 @@
       "url": "/wiki/concepts/practicalbalancedeating/"
     },
     "PracticalSugarControl": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "ltb5LYaycaXOIJiKTBO4pXne2A5Z [ltb5LYaycaXOIJiKTBO4pXne2A5Z].md",
@@ -73910,9 +73947,16 @@
           "show": "这病说来话长",
           "title": "VOL.209 别为“功能性”上头，你以为的“精准养生”其实越补越糟！聊聊代餐粉、电解质等等",
           "url": "/wiki/sources/vol-209-bie-wei-gongnengxing-shangtou-ni-yiwei-de-jingzhun-yangsheng-qishi-yue-bu-yue-zao-liao-liao-daicanfen-dianjiezhi-dengdeng-ljlwqq2yhtcsa4r3nvnzaa6p5i9o/"
+        },
+        {
+          "episode_file": "SCIM2821501065 [SCIM2821501065].md",
+          "key": "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/practicalsugarcontrol/"
     },
     "PradmeshPatil": {
@@ -84838,9 +84882,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAsDailyHealthAccount": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 6,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -84904,6 +84948,13 @@
           "show": "Talk三联",
           "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
           "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
+        },
+        {
+          "episode_file": "SCIM2821501065 [SCIM2821501065].md",
+          "key": "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
         }
       ],
       "updated": "2026-09-12",
@@ -88426,6 +88477,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/sufferingbasedmoralsubjecthood/"
+    },
+    "SugarCravingNeuralControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM2821501065 [SCIM2821501065].md",
+          "key": "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065",
+          "show": "Huberman Lab",
+          "title": "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools",
+          "url": "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/sugarcravingneuralcontrol/"
     },
     "SuiYuEasternHan": {
       "episode_count": 1,

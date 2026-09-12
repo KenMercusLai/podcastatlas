@@ -12,6 +12,7 @@ sources:
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
   - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
+  - essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065
 last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
@@ -30,14 +31,16 @@ Sleep-stage architecture sharpens the internal model: sleep is made of stages wi
 
 A social-jetlag layer adds that sleep's daily account is held inside institutions and built environments. A person may not be failing at sleep so much as living through mismatched work hours, school starts, dim indoor days, bright nights, late meals, suppressed bowel routines, and late exercise. That makes body feedback important: the account is not improved by chasing a score if the score increases anxiety or if optimization routines ignore the body's timing signals.
 
+The metabolic-appetite layer keeps sleep inside sugar-control and eating-behavior context. Sleep stages can have distinct metabolic signatures, and disrupted or insufficient sleep is presented as a driver of appetite for sugary foods. This does not turn sleep into a standalone sugar-control intervention, but it strengthens the account metaphor: poor sleep can spend down next-day regulation through attention, mood, recovery, glucose handling, and craving pressure at once.
+
 ## Key Claims
 - Sleep is a daily account: missed or disrupted sleep affects next-day cognition, emotion, training recovery, immune repair, memory, and metabolic regulation.
 - Sleep supports learning because slow-wave, stage-two spindle, and REM processes are linked to memory transfer, schema formation, and synaptic change.
 - Practical sleep improvement works mainly through controllable inputs such as wake time, morning light, caffeine timing, temperature, darkness, alcohol or THC avoidance, screens, schedule consistency, and pre-sleep calming.
 - Sleep duration, regularity, quality, continuity, and stage architecture matter together; a single exact number should not become an anxiety trigger.
 - Measurement tools can help when they guide better conditions, but sleep scores can also intensify vigilance, especially when parents monitor children.
-- Sleep can function as a bodily boundary against continuous productivity and platform stimulation.
-- Sleep-stage physiology and social timing both matter: early-night and later-night windows support different functions, while work, school, light environments, meals, bowel routines, exercise timing, and monitoring culture shape whether those windows are protected.
+- Sleep can function as a bodily boundary against continuous productivity and platform stimulation, but that boundary is shaped by social timing, light environments, meals, bowel routines, exercise timing, and monitoring culture.
+- Sleep also belongs in appetite and sugar-metabolism regulation because poor sleep can increase sugary-food appetite and sleep stages can differ metabolically.
 
 ## Evidence
 - Learning and sleep cycles - [[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] links slow-wave sleep, REM sleep, hippocampal-cortical transfer, synaptic reinforcement, alcohol disruption, and body-temperature differences to memory-supportive sleep.
@@ -49,15 +52,17 @@ A social-jetlag layer adds that sleep's daily account is held inside institution
 - Sleep-toolkit practice layer - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] organizes morning sunlight, afternoon light, evening darkness, hot-then-cool temperature shifts, caffeine delay, alcohol/THC sleep-architecture caution, supplement hierarchy, melatonin caution, wake-time consistency, and [[TemperatureMinimumClockShifting]] into one 24-hour sleep routine.
 - Stage-architecture mechanism - [[essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982]] links early slow-wave sleep, spindles, REM sleep, growth hormone, brain cleanup, creativity, normal awakenings, tracker limits, and emotional-memory processing into a stage-specific model.
 - Social-jetlag layer - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] links poor sleep to social schedules, indoor light, screens, adolescent school starts, food timing, bowel routines, late exercise, and sleep-score anxiety.
+- Sugar-metabolism layer - [[essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065]] connects sleep stages, metabolic signatures, sleep quality, and appetite for sugary foods.
 
 ## Counterevidence & Qualifications
-The sources do not provide a universal prescription for sleep duration, sleep technology, bedroom temperature, caffeine cutoff, supplement choice, melatonin use, THC use, red-light exposure, jet-lag strategy, post-workout meal timing, growth-hormone optimization, sleep-stage tracking, school scheduling, bowel-health treatment, or trauma treatment. Sleep problems can reflect medical, psychiatric, medication, occupational, caregiving, menopause-related, pediatric, substance-related, trauma-related, institutional, or environmental factors that need context. Sleep tracking and sleep protocols should remain tools for changing conditions, not obligations to optimize every metric.
+The sources do not provide a universal prescription for sleep duration, sleep technology, bedroom temperature, caffeine cutoff, supplement choice, melatonin use, THC use, red-light exposure, jet-lag strategy, post-workout meal timing, growth-hormone optimization, sleep-stage tracking, school scheduling, bowel-health treatment, sugar-craving treatment, or trauma treatment. Sleep problems can reflect medical, psychiatric, medication, occupational, caregiving, menopause-related, pediatric, substance-related, trauma-related, institutional, or environmental factors that need context. Sleep tracking and sleep protocols should remain tools for changing conditions, not obligations to optimize every metric.
 
 ## What Changed
 - Added Gina Poe's stage-architecture source to the existing sleep account.
 - Integrated early slow-wave restoration, spindle-based memory movement, REM creativity, and emotional-memory processing into the current synthesis.
 - Clarified that normal awakenings and imperfect trackers should not turn sleep practice into sleep anxiety.
 - Added Talk三联's social-jetlag frame for work, school, light, meal, bowel, exercise, and metric pressures around sleep.
+- Added Huberman's sugar-metabolism layer connecting sleep disruption with sugary-food appetite.
 
 ## Related Concepts
 - [[MidlifeThreeAccounts]] - parent account framework for cash flow, muscle, and sleep.
@@ -76,3 +81,4 @@ The sources do not provide a universal prescription for sleep duration, sleep te
 - [[SleepAnxietyLoop]] - failure mode where sleep advice becomes sleep-disruptive worry.
 - [[SleepAsResistance]] - cultural frame where sleep remains a private bodily limit.
 - [[SocialJetlag]] - social-time mismatch that can drain the daily sleep account.
+- [[SugarCravingNeuralControl]] - appetite and sugar-seeking mechanism affected by sleep state.

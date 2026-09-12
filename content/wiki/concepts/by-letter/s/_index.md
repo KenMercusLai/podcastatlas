@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7200
+wiki_total_pages: 7202
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1787,6 +1787,9 @@ wiki_pages:
   - key: "SufiImageLegitimacy"
     title: "Sufi Image Legitimacy"
     url: "/wiki/concepts/sufiimagelegitimacy/"
+  - key: "SugarCravingNeuralControl"
+    title: "Sugar Craving Neural Control"
+    url: "/wiki/concepts/sugarcravingneuralcontrol/"
   - key: "SullanDictatorship"
     title: "Sullan Dictatorship / 苏拉独裁"
     url: "/wiki/concepts/sullandictatorship/"

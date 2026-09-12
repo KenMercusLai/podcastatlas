@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools
+
+Added source `essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065`; created `SugarCravingNeuralControl` and `GlycemicResponseToolBoundary`; updated `PracticalSugarControl`, `DopamineWantingLoop`, `SleepAsDailyHealthAccount`, `HubermanLab`, `AndrewHuberman`, `index`, and `overview`. No settled contradiction found; glutamine, lemon/lime juice, cinnamon, berberine, metformin, glibenclamide, sodium caprate, CGM self-experimentation, and sleep-metabolism claims remain source-scoped public education rather than individualized medical advice.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！
 
 Added source `zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h`; created `ZhugeFengWesternHan`, `ZhengPengWesternHan`, `ShiGaoWesternHan`, and `OpportunisticCourtAlignment`; updated `YangXingWesternHan`, `GongYuWesternHan`, `ZhouKanWesternHan`, `ZhangMengWesternHan`, and `index`. No settled contradiction found; Yang Xing's exact office trajectory, Zhuge Feng's accusation record, Zheng Peng's accusation details, Gong Yu's full memorial, and Yuan's private intent remain source-scoped.
@@ -18370,6 +18374,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -63952,6 +63952,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SugarCravingNeuralControl": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Sugon": [
     {
       "key": "technology",
@@ -79272,6 +79279,13 @@
     }
   ],
   "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065": [
     {
       "key": "science",
       "label": "Science",

@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1047
+topic_total_pages: 1049
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1681,6 +1681,9 @@ topic_concepts:
   - key: "SuccessfulAging"
     title: "Successful Aging"
     url: "/wiki/concepts/successfulaging/"
+  - key: "SugarCravingNeuralControl"
+    title: "Sugar Craving Neural Control"
+    url: "/wiki/concepts/sugarcravingneuralcontrol/"
   - key: "SupplementLabelAccuracy"
     title: "Supplement Label Accuracy"
     url: "/wiki/concepts/supplementlabelaccuracy/"
@@ -2943,6 +2946,9 @@ topic_sources:
   - key: "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622"
     title: "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern"
     url: "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+  - key: "essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065"
+    title: "Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools"
+    url: "/wiki/sources/essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065/"
   - key: "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379"
     title: "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being"
     url: "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
