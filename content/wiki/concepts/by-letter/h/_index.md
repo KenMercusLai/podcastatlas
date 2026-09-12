@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7198
+wiki_total_pages: 7200
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -815,6 +815,9 @@ wiki_pages:
   - key: "HorsehideBurialResolve"
     title: "马革裹尸式边将生死观 / Horsehide Burial Resolve"
     url: "/wiki/concepts/horsehideburialresolve/"
+  - key: "HighOfficeRefusalAsRiskAvoidance"
+    title: "高位拒受式避险 / High-Office Refusal as Risk Avoidance"
+    url: "/wiki/concepts/highofficerefusalasriskavoidance/"
   - key: "HighStatusCautionSelfProtection"
     title: "高位谨慎自保 / High-Status Caution Self-Protection"
     url: "/wiki/concepts/highstatuscautionselfprotection/"

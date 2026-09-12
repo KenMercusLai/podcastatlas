@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
+- [《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘](sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc.md) — 芮淇讲透资治通鉴 episode on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations, and the risk of turning symbolic capital into factional court exposure.
 - [《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？](sources/zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb.md) — 芮淇讲透资治通鉴 episode on Shi Xian's slander against Zhou Kan and Zhang Meng, Liu Xiang's Liu Gengsheng memorial, and slander-suspicion feedback collapse under Han Yuandi.
 - [《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！](sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h.md) — 芮淇讲透资治通鉴 episode on Yang Xing, Zhuge Feng, Zheng Peng, and Gong Yu as opportunistic court-alignment types around Han Yuandi, Zhou Kan, Zhang Meng, Shi Xian, and safe-but-evasive advice.
 - [OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze](sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215.md) — All-In episode on OpenAI missed targets, Codex versus Claude Code, AI cyber models, hyperscaler capex, retatrutide, and Monsanto/Roundup preemption.
@@ -2306,6 +2307,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [孔霸 / Kong Ba (Western Han)](entities/KongBaWesternHan.md) — Confucius-lineage scholar and Han Yuandi's former teacher who refuses high office to preserve Confucian standing and avoid factional court exposure.
+- [王接 / Wang Jie (Western Han)](entities/WangJieWesternHan.md) — Western Han official appointed Da Sima and Cheqi Jiangjun after the Yongguang 1 disaster-era senior resignations.
 - [薛广德 / Xue Guangde (Western Han)](entities/XueGuangdeWesternHan.md) — Western Han Yushi Dafu whose loyal but coercive remonstrance is contrasted with Zhang Meng's face-saving advice.
 - [Bayer](entities/Bayer.md) — Pharmaceutical and agriculture company exposed to Monsanto/Roundup litigation in the All-In source.
 - [GPT 5.5 Cyber](entities/GPT55Cyber.md) — OpenAI cyber model discussed as a specialist vulnerability-discovery and simulation capability.
@@ -12183,6 +12186,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [立身之本保全 / Core Standing-Ground Preservation](concepts/CoreStandingGroundPreservation.md) — Strategy for protecting the skill, income, reputation, lineage, or institutional identity that gives durable footing.
+- [高位拒受式避险 / High-Office Refusal as Risk Avoidance](concepts/HighOfficeRefusalAsRiskAvoidance.md) — Pattern where a prestigious office is refused because its factional, identity, or retaliation exposure outweighs rank benefits.
 - [留面子式进谏包装 / Face-Saving Remonstrance](concepts/FaceSavingRemonstrance.md) — corrective speech that preserves the listener's dignity while still delivering substantive advice.
 - [责任绑定风险回避 / Responsibility-Bound Risk Avoidance](concepts/ResponsibilityBoundRiskAvoidance.md) — risk principle that public responsibility reduces the amount of avoidable physical danger an actor should accept.
 - [投机型朝堂站队 / Opportunistic Court Alignment](concepts/OpportunisticCourtAlignment.md) — Pattern where praise, accusation, advice, or factional attachment shifts according to perceived advantage rather than principle, evidence, or role boundaries.

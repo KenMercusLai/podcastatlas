@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7198
+wiki_total_pages: 7200
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2270,6 +2270,9 @@ wiki_pages:
   - key: "CleanOfficialCapacityGap"
     title: "清官能吏能力差 / Clean Official Capacity Gap"
     url: "/wiki/concepts/cleanofficialcapacitygap/"
+  - key: "CoreStandingGroundPreservation"
+    title: "立身之本保全 / Core Standing-Ground Preservation"
+    url: "/wiki/concepts/corestandinggroundpreservation/"
   - key: "ClassicsBasedNamingGovernance"
     title: "经典据依式改名治理 / Classics-Based Naming Governance"
     url: "/wiki/concepts/classicsbasednaminggovernance/"

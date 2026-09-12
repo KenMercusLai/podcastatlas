@@ -17773,6 +17773,10 @@ Added source on Han Yuandi's Yongguang 3-4 court, fiscal retrenchment, Zhou Kan 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘
+
+Added Hanji 476 source on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations by Yu Dingguo, Shi Gao, and Xue Guangde, and Wang Jie/Wei Xuancheng personnel appointments. Created Kong Ba, Wang Jie, core standing-ground preservation, and high-office refusal as risk avoidance; extended Yu Dingguo, Shi Gao, Xue Guangde, and Wei Xuancheng.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？
 
 Added Hanji 477 source note on Shi Xian's slander against Zhou Kan and Zhang Meng, Liu Xiang's Liu Gengsheng memorial, and the court-harmony/disaster warning to Han Yuandi. Updated Shi Xian and Liu Xiang, and added Slander-Suspicion Feedback Collapse.
@@ -18366,6 +18370,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

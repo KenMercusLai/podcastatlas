@@ -14115,6 +14115,10 @@
     "title": "Core Competence Strategy / 核心竞争力战略",
     "url": "/wiki/concepts/corecompetencestrategy/"
   },
+  "CoreStandingGroundPreservation": {
+    "title": "立身之本保全 / Core Standing-Ground Preservation",
+    "url": "/wiki/concepts/corestandinggroundpreservation/"
+  },
   "CoreTribePositioning": {
     "title": "Core Tribe Positioning",
     "url": "/wiki/concepts/coretribepositioning/"
@@ -27399,6 +27403,10 @@
     "title": "High Merit Threat Management / 功高不震主",
     "url": "/wiki/concepts/highmeritthreatmanagement/"
   },
+  "HighOfficeRefusalAsRiskAvoidance": {
+    "title": "高位拒受式避险 / High-Office Refusal as Risk Avoidance",
+    "url": "/wiki/concepts/highofficerefusalasriskavoidance/"
+  },
   "HighRecallSafetyIntervention": {
     "title": "High-Recall Safety Intervention / 高召回安全干预",
     "url": "/wiki/concepts/highrecallsafetyintervention/"
@@ -33566,6 +33574,10 @@
   "KondratievCycle": {
     "title": "Kondratiev Cycle",
     "url": "/wiki/concepts/kondratievcycle/"
+  },
+  "KongBaWesternHan": {
+    "title": "孔霸 / Kong Ba (Western Han)",
+    "url": "/wiki/entities/kongbawesternhan/"
   },
   "KongBaoLateHan": {
     "title": "孔褒 / Kong Bao (late Han)",
@@ -62515,6 +62527,10 @@
     "title": "王翦 / Wang Jian (Qin)",
     "url": "/wiki/entities/wangjianqin/"
   },
+  "WangJieWesternHan": {
+    "title": "王接 / Wang Jie (Western Han)",
+    "url": "/wiki/entities/wangjiewesternhan/"
+  },
   "WangJien": {
     "title": "王继恩 / Wang Jien",
     "url": "/wiki/entities/wangjien/"
@@ -74470,6 +74486,10 @@
   "zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj": {
     "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
+  },
+  "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc": {
+    "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
   },
   "zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb": {
     "title": "《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？",

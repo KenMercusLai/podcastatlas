@@ -5,25 +5,30 @@ knowledge_schema: synthesis-v1
 tags: [person, western-han, outer-relatives, court-politics]
 sources:
   - zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h
+  - zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-史高 / Shi Gao enters the wiki through [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] as an outer-relative power actor aligned with [[ShiXianWesternHan|石显]] in blaming [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]] and in using [[ZhengPengWesternHan|郑朋]]'s accusations against [[XiaoWangzhiWesternHan|萧望之]]'s side.
+史高 / Shi Gao enters the wiki through [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] as an outer-relative power actor aligned with [[ShiXianWesternHan|石显]] in blaming [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]] and in using [[ZhengPengWesternHan|郑朋]]'s accusations against [[XiaoWangzhiWesternHan|萧望之]]'s side. [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] adds his immediately preceding exit as one of three senior officials who resign after Yongguang 1 disaster pressure.
 
 ## Current Profile
 
-The episode does not develop Shi Gao as a full biography. His role is structural: he is part of the power field that converts disaster omens, factional conflict, and informant material into attacks on rival officials. Through Shi Gao, Zheng Peng's private resentment gains an institutional channel.
+The sources do not develop Shi Gao as a full biography. Hanji 476 places him in the responsibility-taking resignation sequence after famine and displacement; Hanji 478 then shows him still structurally important as part of the power field that converts disaster omens, factional conflict, and informant material into attacks on rival officials. Through Shi Gao, Zheng Peng's private resentment gains an institutional channel.
 
 ## Key Characteristics
 
 - Western Han outer-relative actor in the episode's court-politics field.
+- Resigns in Yongguang 1 alongside Yu Dingguo and Xue Guangde after disaster pressure.
 - Aligned with Shi Xian in blaming Zhou Kan and Zhang Meng for disaster omens.
 - Receives or uses Zheng Peng's accusations against Xiao Wangzhi's side.
 - Functions as a factional channel rather than a deeply profiled individual in this source.
 
 ## Evidence
+
+Disaster resignation:
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Shi Gao resigns with Yu Dingguo and Xue Guangde after severe cold, ruined crops, famine, and displacement.
 
 Disaster blame:
 - [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Shi Xian and Shi Gao attribute abnormal cold and dim sun omens to Zhou Kan and Zhang Meng.
@@ -33,15 +38,16 @@ Accusation channel:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 478. It does not settle Shi Gao's full office history, family position, independent motives, or the complete relationship between Shi Gao and Shi Xian.
+This page is source-scoped to Hanji 476 and Hanji 478. It does not settle Shi Gao's full office history, family position, independent motives, or the complete relationship between Shi Gao and Shi Xian.
 
 ## What Changed
 
-- Created from Hanji 478 as the outer-relative accusation-channel actor in the Zhou Kan and Xiao Wangzhi field.
+- Added Hanji 476's disaster-resignation layer to the prior Hanji 478 accusation-channel profile.
 
 ## Relationships
 
 - [[ShiXianWesternHan|石显]] - aligned court power actor in disaster-blame politics.
+- [[YuDingguoWesternHan|于定国]] and [[XueGuangdeWesternHan|薛广德]] - fellow resigning officials in Hanji 476.
 - [[ZhengPengWesternHan|郑朋]] - informant whose grievance becomes useful through Shi Gao's side.
 - [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]] - officials blamed in the omen politics.
 - [[OpportunisticCourtAlignment|投机型朝堂站队]] - related concept because Shi Gao's side supplies the factional channel for opportunistic accusations.

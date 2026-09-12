@@ -18801,6 +18801,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/corecompetencestrategy/"
     },
+    "CoreStandingGroundPreservation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
+          "key": "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/corestandinggroundpreservation/"
+    },
     "CoreWeave": {
       "episode_count": 4,
       "show_count": 3,
@@ -42832,6 +42848,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/highmeritthreatmanagement/"
     },
+    "HighOfficeRefusalAsRiskAvoidance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
+          "key": "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/highofficerefusalasriskavoidance/"
+    },
     "HighRecallSafetyIntervention": {
       "episode_count": 1,
       "show_count": 1,
@@ -51730,6 +51762,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/knownmisconductnonpunishment/"
+    },
+    "KongBaWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
+          "key": "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/kongbawesternhan/"
     },
     "KongBaoLateHan": {
       "episode_count": 1,
@@ -83928,9 +83976,9 @@
       "url": "/wiki/entities/shidifushuo/"
     },
     "ShiGaoWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
@@ -83938,6 +83986,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
+          "key": "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
         }
       ],
       "updated": "2026-09-12",
@@ -96615,6 +96670,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/wangjiawesternhan/"
     },
+    "WangJieWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
+          "key": "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangjiewesternhan/"
+    },
     "WangJingBianquEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -98659,9 +98730,9 @@
       "url": "/wiki/entities/weixuanwesternhan/"
     },
     "WeiXuanchengWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
@@ -98669,6 +98740,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
+          "key": "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
         }
       ],
       "updated": "2026-09-12",
@@ -102903,9 +102981,9 @@
       "url": "/wiki/entities/xuefangxinrecluse/"
     },
     "XueGuangdeWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？ [lj9b1RAZ_RJhIJw17vxGsP6rAcuJ].md",
@@ -102913,6 +102991,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
+          "key": "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
         }
       ],
       "updated": "2026-09-12",
@@ -105266,9 +105351,9 @@
       "url": "/wiki/entities/yuchunorthernxiongnu/"
     },
     "YuDingguoWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
@@ -105276,6 +105361,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘 [ltjlhPHlRQNAZeqH2cC2HGsvrvwc].md",
+          "key": "zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc/"
         }
       ],
       "updated": "2026-09-12",
