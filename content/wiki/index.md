@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》486丨揭秘易学大师京房的官场传奇](sources/zizhi-tongjian-hanji-486-jiemi-yixue-dashi-jingfang-de-guanchang-chuanqi-lk_gg7uparsjgxlt4wquibcm5fpr.md) — 芮淇讲透资治通鉴 episode opening Jing Fang's court story through Yi-learning lineage, Han Yuandi's trust, kaogong debate, disaster-omen warning, and the indirect identification of Shi Xian as the trusted insider behind disorder.
 - [《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！](sources/zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet.md) — 芮淇讲透资治通鉴 episode on Jing Fang's kaogong setup, Shi Xian's transfer of him away from the capital, cancelled return-reporting channel, and power-center proximity as workplace and court survival logic.
 - [《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？](sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah.md) — 芮淇讲透资治通鉴 episode on Jing Fang's death, kaogong reform backlash, Zhang Bo's recorded private speech, Liu Qing's petition channel, and Shi Xian's trust-and-reputation tactics.
 - [《资治通鉴·汉纪》489丨伪造圣旨杀敌！汉将陈汤有多狂？](sources/zizhi-tongjian-hanji-489-weizao-shengzhi-shadi-hanjiang-chentang-you-duo-kuang-ligjvbvujg4nujinr1k39aiv28lz.md) — 芮淇讲透资治通鉴 episode on Chen Tang's pre-campaign forged-order decision, Gan Yanshou's caution, Zhizhi Chanyu's Kangju threat, and Western Regions risk timing.

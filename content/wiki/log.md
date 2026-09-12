@@ -18197,3 +18197,12 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-12] ingest | 《资治通鉴·汉纪》486丨揭秘易学大师京房的官场传奇
+
+- Source: wiki/sources/zizhi-tongjian-hanji-486-jiemi-yixue-dashi-jingfang-de-guanchang-chuanqi-lk_gg7uparsjgxlt4wquibcm5fpr.md
+- Updated: wiki/entities/JingFang.md, wiki/concepts/KaogongfaReformBacklash.md, wiki/index.md
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
