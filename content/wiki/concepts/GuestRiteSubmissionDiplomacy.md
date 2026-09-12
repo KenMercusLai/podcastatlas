@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [diplomacy, ritual, frontier, western-han, xiongnu]
 sources:
   - zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk
+  - zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm
 last_updated: 2026-09-13
 ---
 
@@ -14,7 +15,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk|Hanji 462]] grounds the concept through [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s first Chang'an audience under [[EmperorXuanOfHan|汉宣帝]]. The ministers' default answer is to treat Huhanye like a Han vassal king while ranking him below the kings. [[XiaoWangzhiWesternHan|萧望之]] objects that Xiongnu is not under Han's calendar and should not be handled as if it were already an ordinary internal dependency.
+[[zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm|Hanji 449]] supplies the prehistory of the concept: during Xiongnu's five-chanyu disorder, most Han officials want to attack, while [[XiaoWangzhiWesternHan|萧望之]] argues that mourning, comfort, and aid can turn a weakened rival toward grateful submission. [[zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk|Hanji 462]] then grounds the mature protocol through [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s first Chang'an audience under [[EmperorXuanOfHan|汉宣帝]]. The ministers' default answer is to treat Huhanye like a Han vassal king while ranking him below the kings. Xiao objects that Xiongnu is not under Han's calendar and should not be handled as if it were already an ordinary internal dependency.
 
 The concept depends on a deliberate paradox. Han is strong enough to receive submission, line the roads with cavalry, give lavish objects, assemble huge audiences, and display palace wealth. Yet Xiao's proposal avoids overclaiming: Huhanye can call himself subject in the ritual moment, but if later chanyus stop attending court, Han has not defined them as rebel ministers whose nonattendance would automatically expose Han prestige.
 
@@ -27,10 +28,13 @@ The episode also preserves a ritual-order critique through [[XunYue|荀悦]]. Fr
 - Guest treatment can preserve future flexibility by reducing the reputational cost if the submitted ruler's descendants later stop attending court.
 - The same protocol can be criticized from a ritual-order perspective because it may place an external ruler above internal kings.
 - The pattern is strongest when a rival polity is weakened enough to seek protection but still politically distinct enough that complete absorption would be an overclaim.
+- The policy seed can appear before formal submission, when restraint and aid are chosen over opportunistic attack to make future submission more likely.
 
 ## Evidence
 
 Protocol disagreement:
+- [[zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm|Hanji 449]] says most Han officials urge attacking Xiongnu during the five-chanyu civil war.
+- [[zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm|Hanji 449]] says Xiao Wangzhi recommends mourning and aid, arguing that Han benevolence can make a restored Xiongnu ruler submit.
 - [[zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk|Hanji 462]] says most ministers propose treating Huhanye like the feudal kings while ranking him below them.
 - [[zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk|Hanji 462]] says Xiao Wangzhi argues that Xiongnu does not follow Han's calendar and should be received as a matching state rather than an ordinary subject.
 
@@ -47,11 +51,12 @@ Ritual-order objection:
 
 ## Counterevidence & Qualifications
 
-The concept is source-bounded to Huhanye's Western Han audience and should not be generalized into a rule that submitted rulers should always receive higher rank. It depends on Han's evident capacity and on Xiongnu's still-distinct political status. Xun Yue's critique also remains live: ritual elevation can protect diplomatic flexibility while still creating tension with internal hierarchy.
+The concept is source-bounded to the Xiongnu civil-war response and Huhanye's Western Han audience, and should not be generalized into a rule that submitted rulers should always receive higher rank. It depends on Han's evident capacity and on Xiongnu's still-distinct political status. Hanji 449 does not prove that military attack would have failed; it only grounds Xiao's argument that restraint had long-term legitimacy value. Xun Yue's critique also remains live: ritual elevation can protect diplomatic flexibility while still creating tension with internal hierarchy.
 
 ## What Changed
 
 - Created the concept from Hanji 462's Huhanye reception protocol and Xiao Wangzhi-Xun Yue interpretive split.
+- Added Hanji 449 as the pre-submission restraint layer behind Xiao Wangzhi's later guest-rite protocol.
 
 ## Related Concepts
 
@@ -60,3 +65,4 @@ The concept is source-bounded to Huhanye's Western Han audience and should not b
 - [[SubmissionThroughStatusElevation|尊号式投降方案]] - contrast because that concept describes a weaker side offering status upward, while this one describes a stronger side granting status to manage submission.
 - [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - adjacent Han-Xiongnu accommodation repertoire involving status, gifts, kinship, and frontier security.
 - [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - related because recognition can stabilize one relationship while changing signals to other frontier actors.
+- [[XiongnuSuccessionFragmentation|匈奴式继承碎裂]] - upstream crisis that creates the opportunity for benevolent restraint and later status-managed submission.

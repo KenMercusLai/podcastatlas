@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼](sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm.md) — 芮淇讲透资治通鉴 episode on the 57 BCE Xiongnu five-chanyu crisis, Xiao Wangzhi's advice against opportunistic war, and Han Xuan's choice of mourning, aid, and legitimacy-minded restraint.
 - [《资治通鉴·汉纪》451｜儒者萧望之：谁优秀我就弄死谁!](sources/zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's death, Xiao Wangzhi's investigation and narrative reframing, Bing Ji's de-escalation attempt, and Emperor Xuan's punishment-severity blemish.
 - [《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？](sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj.md) — 芮淇讲透资治通鉴 episode on Huang Ba mistaking Zhang Chang's heque bird for a divine omen, Zhang's warning about false local performance signals, and Bing Ji as a quiet-merit contrast.
 - [《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场](sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx.md) — 芮淇讲透资治通鉴 episode on Huang Ba recommending Shi Gao for taiwei, Han Xuan's rebuke over personnel and military authority, and the workplace boundary around sensitive appointment advice.
@@ -16245,6 +16246,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Unearned Reward Refusal / 非道所得不居](concepts/UnearnedRewardRefusal.md) — Late-Han title-discipline concept from Hanji 882 where officials refuse or are warned against rewards not grounded in proper merit or public legitimacy.
 - [Mencian Benevolent Government / 孟子仁政](concepts/MencianBenevolentGovernment.md) — Episode 30's governing program of livelihood, compassion, anti-starvation responsibility, and fuller reform beyond partial welfare gestures.
 - [王道 versus 霸道 / Kingly Way Over Hegemony](concepts/WangdaoVsBadao.md) — Episode 30 contrast between humane legitimacy and hegemonic domination, with the added risk that benevolent conquest still needs constraint.
+- [匈奴式继承碎裂 / Xiongnu Succession Fragmentation](concepts/XiongnuSuccessionFragmentation.md) — Western Han concept for the five-chanyu crisis, where suspicion, false accusation, title imitation, lineage claims, and external restraint shape frontier strategy.
 - [Constant Property, Constant Heart / 有恒产者有恒心](concepts/ConstantPropertyConstantHeart.md) — Mencian link between stable livelihood, property, moral steadiness, and political responsibility.
 - [Mencian People-Based Legitimacy / 孟子的民本合法性](concepts/MencianPeopleBasedLegitimacy.md) — Episode 30 synthesis of 民贵君轻, 暴君非君, and Heaven's will being read through the people's seeing and hearing.
 - [Mencian Idealism Limits / 孟子理想主义的限度](concepts/MencianIdealismLimits.md) — Episode 30 caution that Mencian moral politics can fail when war, institutions, incentives, and implementation do not match benevolent intent.

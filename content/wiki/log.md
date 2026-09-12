@@ -2141,6 +2141,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼
+
+Added source note for Hanji 449 and updated the Xuan-era Xiongnu diplomacy branch. Key claims: Xiongnu's five-chanyu crisis shows succession fragmentation through arbitrary killing and title imitation; Xiao Wangzhi recommends mourning and aid rather than opportunistic attack; Han Xuan accepts restraint as a path toward prestige and future submission.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主
 
 Added source `zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv`; created `XieyouPrincessWesternHan`, `NimiWusun`, and `HeqinPrincessSuccessionEntrapment`; updated `Wusun` and `HuhanyeChanyuWesternHan` with the Wusun succession/remarriage crisis and the 53 BCE Xiongnu submission-and-hostage layer. No settled contradiction found; Xieyou's exact age, Wusun genealogy, Han authorization for the plot, and Chigu City resolution remain source-scoped.
@@ -18655,6 +18659,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧
 
 Added source note plus Laozi, Confucius, Daodejing, and Daoist cultivation concept updates. Key claims: Laozi critiques forced renyi as potentially disturbing nature, teaches natural wuwei and observing sameness, and reframes life/death, right/wrong, noble/low, and honor/disgrace as changing states within the Way.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

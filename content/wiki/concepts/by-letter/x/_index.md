@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "x"
-wiki_total_pages: 7250
+wiki_total_pages: 7251
 wiki_pages:
   - key: "XFFXFramework"
     title: "X/F/FX Framework"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "XinlingjunDeathSuspicion"
     title: "信陵君非正常死亡疑云 / Xinlingjun Death Suspicion"
     url: "/wiki/concepts/xinlingjundeathsuspicion/"
+  - key: "XiongnuSuccessionFragmentation"
+    title: "匈奴式继承碎裂 / Xiongnu Succession Fragmentation"
+    url: "/wiki/concepts/xiongnusuccessionfragmentation/"
   - key: "XuzhouMutualKingship"
     title: "徐州相王 / Xuzhou Mutual Kingship"
     url: "/wiki/concepts/xuzhoumutualkingship/"

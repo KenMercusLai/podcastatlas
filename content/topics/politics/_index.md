@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2455
+topic_total_pages: 2456
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -7200,6 +7200,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm"
+    title: "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼"
+    url: "/wiki/sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm/"
   - key: "zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq"
     title: "《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？"
     url: "/wiki/sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq/"

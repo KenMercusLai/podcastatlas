@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1842
+topic_total_pages: 1843
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1375,6 +1375,9 @@ topic_concepts:
   - key: "QianjuHougongReversal"
     title: "前倨后恭 / Qianju Hougong Reversal"
     url: "/wiki/concepts/qianjuhougongreversal/"
+  - key: "XiongnuSuccessionFragmentation"
+    title: "匈奴式继承碎裂 / Xiongnu Succession Fragmentation"
+    url: "/wiki/concepts/xiongnusuccessionfragmentation/"
   - key: "TwelveInsigniaPoliticalSymbolism"
     title: "十二华章政治象征 / Twelve Insignia Political Symbolism"
     url: "/wiki/concepts/twelveinsigniapoliticalsymbolism/"
