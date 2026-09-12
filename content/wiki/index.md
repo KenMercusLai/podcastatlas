@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！](sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe.md) — 芮淇讲透资治通鉴 episode on Xiao Wangzhi's suicide after Xiao Ji's vindication petition, Hong Gong and Shi Xian's arrest trap, Han Yuandi's weak grief, and reputation-first political failure.
+- [《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？](sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l.md) — 芮淇讲透资治通鉴 episode on Jia Juanzhi's "弃珠崖议", Zhuya and Dan'er suppression costs, Yu Dingguo's support for abandonment, and the host's modern territorial-security counterweight.
 - [《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史](sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp.md) — 芮淇讲透资治通鉴 episode on Han Yuandi abolishing Zhuya Commandery under famine and fiscal pressure, Hainan's looser post-abolition attachment, and Yuan-era thrift, Confucian education, and legal simplification.
 - [665. Britain in the 70s: The Bailout from Hell (Part 4)](sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819.md) — The Rest Is History episode on Jim Callaghan, Denis Healey, Britain's 1976 IMF crisis, Labour's economic split, and the Sex Pistols as punk-era crisis symbolism.
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
@@ -2313,7 +2314,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [弘恭 / Hong Gong (Western Han)](entities/HongGongWesternHan.md) — Yuan-era eunuch favorite paired with Shi Xian in Xiao Wangzhi's death case.
 - [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
-- [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after frontier unrest made direct rule too costly under famine and fiscal strain.
+- [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after repeated unrest, Jia Juanzhi's cost argument, and famine pressure made direct rule too costly.
 - [Denis Healey](entities/DenisHealey.md) — British chancellor who argued for spending cuts and IMF negotiations during the 1976 sterling crisis.
 - [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with the alternative economic strategy during Britain's 1976 IMF crisis.
 - [Sex Pistols](entities/SexPistols.md) — Punk band whose Bill Grundy television scandal becomes a symbol of Britain's 1976 crisis mood.
@@ -2347,7 +2348,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [郑弘 / Zheng Hong (Western Han)](entities/ZhengHongWesternHan.md) — Western Han official named in Jing Fang's replacement slate and demoted after the case.
 - [韦玄成 / Wei Xuancheng (Western Han)](entities/WeiXuanchengWesternHan.md) — Senior Western Han incumbent criticized by Jing Fang for nonperformance.
 - [五鹿充宗 / Wulu Chongzong (Western Han)](entities/WuluChongzongWesternHan.md) — Favored court figure in Jing Fang's diagnosis of anti-kaogong interests.
-- [贾捐之 / Jia Juanzhi (Western Han)](entities/JiaJuanzhiWesternHan.md) — Western Han court actor whose reversal from anti-Shi-Xian criticism to praise-backed office bargaining leads to execution.
+- [贾捐之 / Jia Juanzhi (Western Han)](entities/JiaJuanzhiWesternHan.md) — Western Han writer-official who first argues for abandoning Zhuya and later collapses politically through praise-backed office bargaining around Shi Xian.
 - [杨兴 / Yang Xing (Western Han)](entities/YangXingWesternHan.md) — Jia Juanzhi's friend and co-schemer in the failed Shi Xian praise and Jingzhao Yin recommendation case.
 - [贡禹 / Gong Yu (Western Han)](entities/GongYuWesternHan.md) — Respected Confucian scholar whose reputation Shi Xian courts after Xiao Wangzhi's death.
 - [诸葛丰 / Zhuge Feng (Western Han)](entities/ZhugeFengWesternHan.md) — Western Han official whose reversal from praise to denunciation becomes a warning about unreliable political speech.
@@ -2400,7 +2401,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Han Hak-ja / 韩鹤子](entities/HanHakJa.md) — Unification Church figure discussed in the 日谈物语 E02 legal follow-up.
 - [Sun Myung Moon / 文鲜明](entities/SunMyungMoon.md) — Unification Church founder figure named as background in the 日谈物语 E02 follow-up.
 - [Yokkaichi Pollution Incident / 四日市公害事件](entities/YokkaichiPollutionIncident.md) — Announced environmental public-health case in 日谈物语 E02, currently source-limited to the title and "no killer" setup.
-- [于定国 / Yu Dingguo](entities/YuDingguoWesternHan.md) — Western Han senior official used by Hanji 524 as Yu Yong's chancellor-family background.
+- [于定国 / Yu Dingguo](entities/YuDingguoWesternHan.md) — Western Han senior official who supports Jia Juanzhi's Zhuya-abandonment proposal and later exits through disaster-accountability resignation.
 - [于永 / Yu Yong (Western Han)](entities/YuYongWesternHan.md) — Chengdi-era official whose family prestige, later self-cultivation, Yushi Dafu appointment, and death before chancellorship frame personnel selection in Hanji 524.
 - [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose advice record under Liu He becomes Wang Jun's family-reputation background.
 - [王骏 / Wang Jun (Western Han)](entities/WangJunWesternHan.md) — Jingzhao Yin appointed by Han Chengdi and framed through practical office reputation and Wang Ji's remonstrance tradition.
@@ -2673,7 +2674,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王芳 / Wang Fang (Xin princess)](entities/WangFangXinPrincess.md) — Wang-family woman in Hanji 654 accused of curses and maid killing before suicide with Wang Xing.
 - [司马相如 / Sima Xiangru](entities/SimaXiangru.md) — Western Han fu writer used in Hanji 654 as Yang Xiong's admired literary model and comparison point.
 - [《春秋》 / Chunqiu](entities/Chunqiu.md) — Classical text route for Hanji 560's Zhai Fangjin and Hu Chang court-teaching conflict.
-- [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor used by Wang Jia as a memorial precedent for thrift, fiscal reserve, and restraint in visible favoritism.
+- [Emperor Yuan of Han / 汉元帝](entities/HanYuandi.md) — Western Han emperor whose profile spans thrift, Zhuya retrenchment, frontier force-sizing, remonstrance reception, Shi Xian trust, and succession vulnerability.
 - [Emperor Cheng of Han / 汉成帝](entities/HanChengdi.md) — Western Han emperor whose profile spans Yang Xiong career background, Wang Jia's favorable precedent, Zhai Fangjin's coerced death, sudden-death blame management, Geng Yu's succession defense, and contested missing-son accusations.
 - [左伊秩訾 / Zuo Yizizhi](entities/ZuoYizizhi.md) — Xiongnu adviser who defects to Han after suspicion breaks trust with Huhanye Chanyu, then refuses to return after apology.
 - [梅福 / Mei Fu (Western Han)](entities/MeiFuWesternHan.md) — Chengdi-era memorialist warning that punished criticism and outer-relative power destroy the court's correction channel.
@@ -13046,7 +13047,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Mission-Aligned Rescue Capital](concepts/MissionAlignedRescueCapital.md) — Emergency financing pattern where values-aligned investors, lenders, or connectors buy time for a credible strategic pivot.
 - [Key Person Insurance](concepts/KeyPersonInsurance.md) — Founder and debt-risk planning concept surfaced by Late July's loan default after Steve Bernard's death.
 - [Acquisition Contract Language](concepts/AcquisitionContractLanguage.md) — Governance concept where sale, merger, buyback, and change-of-control wording determine what founder rights actually survive later transactions.
-- [Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺](concepts/CapacityBoundFrontierCommitment.md) — Frontier-statecraft pattern where a court narrows, defers, or refuses protectorate and military commitments until it can actually supply envoys, troops, and credibility.
+- [Capacity-Bound Frontier Commitment / 能力约束下的边疆承诺](concepts/CapacityBoundFrontierCommitment.md) — Frontier-statecraft pattern where a court narrows, defers, or refuses direct rule, protectorates, or military commitments until it can actually supply logistics and credibility.
 - [Lineage Rules and Elite Durability / 家规型士族延续](concepts/LineageRuleDurability.md) — Elite-lineage pattern where family instructions and admonitions are treated as governance infrastructure for long-run official reproduction, with the Pei case still source-scoped.
 - [帝王偏好下的表达风险 / Imperial Preference Speech Risk](concepts/ImperialPreferenceSpeechRisk.md) — Court-communication risk where advice is judged by alignment with a ruler's preferred legitimacy frame rather than by evidence alone.
 - [Financial Report Operating Metric Integrity / 财报运营指标完整性](concepts/FinancialReportOperatingMetricIntegrity.md) — Disclosure-quality standard requiring operating metrics to be traceable, comparable, and verifiable from base data.

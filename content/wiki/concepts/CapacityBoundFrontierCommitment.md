@@ -9,7 +9,8 @@ sources:
   - zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix
   - zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i
   - zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp
-last_updated: 2026-09-12
+  - zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l
+last_updated: 2026-09-13
 ---
 
 ## Definition
@@ -18,7 +19,7 @@ Capacity-bound frontier commitment / 能力约束下的边疆承诺 is the state
 
 ## Current Synthesis
 
-The Western Han layer supplies a retrenchment precedent before the later Eastern Han Western Regions cases. [[HanYuandi|汉元帝]] abolishes [[ZhuyaCommandery|珠崖郡]] after repeated unrest because Guandong famine, empty stores, and hungry commoners make a distant prestige campaign hard to justify. [[zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp|Hanji 472]] is careful not to frame this as total severance: willing people may attach to the interior, and later Hainan may be treated as nominally connected through Hepu, but direct commandery control is sharply reduced.
+The Western Han layer supplies a retrenchment precedent before the later Eastern Han Western Regions cases. [[HanYuandi|汉元帝]] abolishes [[ZhuyaCommandery|珠崖郡]] after repeated unrest because Guandong famine, empty stores, and hungry commoners make a distant prestige campaign hard to justify. [[zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l|Hanji 471]] deepens the logic through [[JiaJuanzhiWesternHan|贾捐之]]'s "弃珠崖议": remote rule should be judged by whether troops, transport, climate, local acceptance, and famine-era opportunity cost can produce durable governance, not by conquest desire alone. [[zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp|Hanji 472]] is careful not to frame this as total severance: willing people may attach to the interior, and later Hainan may be treated as nominally connected through Hepu, but direct commandery control is sharply reduced.
 
 The Eastern Han branch begins with an outright deferral in [[zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i|Hanji 716]]. Western Regions states send tribute and ask Han to restore official management because [[Xiongnu|Xiongnu]] extraction has become burdensome, but [[LiuXiu|刘秀]] refuses because the central realm has only recently been pacified and the situation remains unstable.
 
@@ -33,7 +34,7 @@ The episode strengthens the logic through [[BanGuEasternHan|Ban Gu]]'s compariso
 ## Key Claims
 
 - Frontier requests and direct-control claims should be evaluated by whether the center can supply the implied envoys, troops, provisioning, administration, and long-term supervision.
-- Retrenchment can be capacity-bound when direct commandery rule would turn prestige maintenance into famine-era military and administrative burden.
+- Retrenchment can be capacity-bound when direct commandery rule would turn prestige maintenance into famine-era military, logistical, and administrative burden.
 - Eastern Han outright deferral appears when the center has just pacified the interior and cannot support restored frontier offices.
 - A court should correct overbroad recognition before the title package creates unsupported obligations.
 - A court can sometimes offer narrower symbolic deterrence, such as hostage retention, without accepting a full protectorate commitment.
@@ -52,15 +53,17 @@ The episode strengthens the logic through [[BanGuEasternHan|Ban Gu]]'s compariso
 - Consequence of deferral: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Shanshan and Cheshi then submit to Xiongnu.
 - Cost comparison: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] uses Ban Gu's discussion of Han Wudi's Western Regions expansion, Hexi commanderies, Yumen route, monopolies, currency measures, and taxes to show the fiscal side of frontier commitment.
 - Zhuya retrenchment: [[zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp|Hanji 472]] says Yuan abolishes Zhuya Commandery after weighing repeated unrest against Guandong famine, empty stores, and commoner hunger.
+- Zhuya argument: [[zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l|Hanji 471]] says Jia Juanzhi opposes a large punitive expedition by citing ancient limited-rule precedent, Qin and Han Wudi overextension, Guandong famine, troop attrition, and island logistics.
+- Court adoption: [[zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l|Hanji 471]] says Yu Dingguo supports Jia's recommendation while Cheng Wannian favors suppression, and Yuan chooses abandonment.
 - Nominal attachment limit: [[zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp|Hanji 472]] says later Hepu attachment is closer to remote nominal control than effective island administration after the county system disappears.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove that Liu Xiu's refusal or Yuan's Zhuya abolition was costless or universally optimal. Hanji 472 does not settle the full administrative geography of post-abolition Hainan, the local social field, or whether another form of low-cost administration could have worked. Hanji 716 does not list the Western Regions states in detail or quantify the immediate cost of refusal. Hanji 719's downgrade angers Shache King Xian, so narrowing one commitment can create resentment in the disappointed actor. Hanji 722's hostage-retention tactic depends on Shache believing the signal; it is not the same as actual Han protection. Hanji 723 records Shanshan and Cheshi attaching to Xiongnu after the later refusal, so capacity-bound restraint can concede immediate influence. The concept also does not deny that Han Wudi's earlier opening had strategic value against Xiongnu. The current claim is narrower: distant commitments need a supportable capacity base, and prestige without logistics can create brittle promises.
+The concept does not prove that Liu Xiu's refusal or Yuan's Zhuya abolition was costless or universally optimal. Hanji 471 itself preserves a modern host counterweight: territory, population, and strategic depth can be long-run state assets, so retrenchment must be argued rather than assumed. Hanji 472 does not settle the full administrative geography of post-abolition Hainan, the local social field, or whether another form of low-cost administration could have worked. Hanji 716 does not list the Western Regions states in detail or quantify the immediate cost of refusal. Hanji 719's downgrade angers Shache King Xian, so narrowing one commitment can create resentment in the disappointed actor. Hanji 722's hostage-retention tactic depends on Shache believing the signal; it is not the same as actual Han protection. Hanji 723 records Shanshan and Cheshi attaching to Xiongnu after the later refusal, so capacity-bound restraint can concede immediate influence. The concept also does not deny that Han Wudi's earlier opening had strategic value against Xiongnu. The current claim is narrower: distant commitments need a supportable capacity base, and prestige without logistics can create brittle promises.
 
 ## What Changed
 
-- Added Hanji 472 as the Western Han retrenchment precedent: Zhuya direct rule is abolished when famine, stores, and administrative burden make prestige maintenance unsupportable.
+- Added Hanji 471's argument layer to the Western Han retrenchment precedent: Jia Juanzhi makes Zhuya direct rule a question of famine opportunity cost, logistics, local acceptance, and durable administration.
 - Preserved Hanji 716 as the Eastern Han opening layer: Western Regions office restoration is refused while the center is newly pacified and unstable.
 - Reframed Hanji 719 as the next overcommitment-correction layer rather than the first capacity case.
 - Preserved Hanji 722 as the limited-commitment layer: hostage retention as deterrent signal without full protectorate restoration.
@@ -80,3 +83,4 @@ The concept does not prove that Liu Xiu's refusal or Yuan's Zhuya abolition was 
 - [[LightTouchFrontierGovernance|宽简边疆治理]] - later Western Regions indirect-rule pattern that only works when local balance and personnel fit can sustain it.
 - [[ZhuyaCommandery|珠崖郡]] - Western Han commandery whose abolition supplies the direct-rule retrenchment case.
 - [[HanYuandi|汉元帝]] - ruler whose Zhuya decision adds the famine-and-stores capacity logic.
+- [[JiaJuanzhiWesternHan|贾捐之]] - memorialist who gives the Zhuya retrenchment case its explicit cost-and-capacity argument.
