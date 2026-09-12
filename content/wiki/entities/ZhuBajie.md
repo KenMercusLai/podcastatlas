@@ -5,6 +5,7 @@ tags: [character, chinese-classics, mythology, comedy]
 sources:
   - 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182
   - zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3
+  - zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq
 last_updated: 2026-09-13
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-The classic-reading branch treats Zhu Bajie as more complicated than the face-saving story of a heavenly marshal accidentally reborn as a pig. He appears later in the取经 lineage and carries comic, religious, and bodily source layers. The [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] reading adds a symbolic layer by mapping 八戒 to [[ChenXuanzangConqueringDemons|陈玄奘]]'s desire and fixation inside the "一心三藏" frame.
+The classic-reading branch treats Zhu Bajie as more complicated than the face-saving story of a heavenly marshal accidentally reborn as a pig. He appears later in the取经 lineage and carries comic, religious, and bodily source layers. The [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] reading adds a symbolic layer by mapping 八戒 / 朱刚烈 to [[ChenXuanzangConqueringDemons|陈玄奘]]'s desire, fixation, and still-unsubdued attachment inside the "一心三藏" frame.
 
 ## Key Characteristics
 
@@ -25,6 +26,7 @@ The classic-reading branch treats Zhu Bajie as more complicated than the face-sa
 - He appears later in the取经 team lineage than some companion figures.
 - He carries comic demotion, body, desire, and religious-image layers.
 - In the film reading, he functions as desire and fixation within one mind.
+- The film reading distinguishes seeing through his seductive illusion from being able to subdue desire directly.
 
 ## Evidence
 
@@ -32,6 +34,7 @@ The classic-reading branch treats Zhu Bajie as more complicated than the face-sa
 - Later team lineage: [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] uses [[XiyouYaowuzhi|《西游妖物志》]] to place him later than [[SunWukong|孙悟空]], [[ShaWujing|沙和尚]], and the white horse in the取经 lineage.
 - Comic and religious layers: [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] links him to Yuan material, Marici-related pig imagery, and comic demotion.
 - Desire and fixation: [[zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3]] reads 八戒 as Chen Xuanzang's desire and attachment in the film's interior map.
+- Unsubdued desire: [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq]] reads the 高老庄 illusion, corpse-filled banquet, and uncontrolled wild-boar form as signs of desire that Chen can recognize but cannot yet master.
 
 ## Qualifications
 
@@ -40,7 +43,7 @@ The film's desire-symbol reading is an adaptation-specific interpretation. It sh
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added the film reading of 八戒 as desire and fixation within one mind.
+- Added Hanji 456-5's reading of 朱刚烈 as desire that can be seen through before it is subdued.
 
 ## Relationships
 

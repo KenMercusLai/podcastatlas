@@ -18498,6 +18498,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》456-5｜修行人是如何看待西游的？
+
+Added source note plus updates for 《西游降魔篇》, Chen Xuanzang, Duan Miss, Sun Wukong, Zhu Bajie, Sha Wujing, inner-demon symbolic reading, and love-compassion integration. Created Formalized Cultivation Critique. Key claims: the film is read as one practitioner's inner pilgrimage; seeing through illusion is not yet subduing desire; Duan Miss is hard-to-cut 情缘; the goose-leg lesson criticizes outward practice without inner release.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？
 
 Added source note plus Yang Yun, Sun Huizong, Yang Tan, political execution overreach, and historical reading as survival wisdom pages. Key claims: Yang Yun's post-disgrace resentment and reply letter become formal evidence; Sun Huizong and Yang Tan model two failed warning routes; Emperor Xuan's punishment remains a major severity blemish in Sima Guang's evaluation.
@@ -18611,6 +18615,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？
 
 Added source note plus Zhang Chang, Xu Shun, and Five-Day Jingzhao synthesis updates. Key claims: Zhang Chang's anti-bandit administrative ability coexists with anger-driven legal abuse; Xu Shun's loose speech turns rumored dismissal into fatal exposure; Five-Day Jingzhao is an idiom about premature authority discounting and short-term office behavior.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

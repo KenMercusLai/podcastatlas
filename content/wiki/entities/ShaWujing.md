@@ -5,6 +5,7 @@ tags: [character, chinese-classics, buddhism, mythology]
 sources:
   - 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182
   - zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3
+  - zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq
 last_updated: 2026-09-13
 knowledge_schema: synthesis-v1
 ---
@@ -17,7 +18,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-The classic-reading branch treats Sha Wujing as more than the silent team member of popular memory: deep-sand deity material, the Flowing-Sand River, nine skulls, cannibal violence, conversion, and ritual crossing make him a compact [[MythicSourceLayering]] case. The [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] reading adds a symbolic layer by mapping 沙僧 to [[ChenXuanzangConqueringDemons|陈玄奘]]'s compassion nature.
+The classic-reading branch treats Sha Wujing as more than the silent team member of popular memory: deep-sand deity material, the Flowing-Sand River, nine skulls, cannibal violence, conversion, and ritual crossing make him a compact [[MythicSourceLayering]] case. The [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] reading adds a symbolic layer by mapping 沙僧 to [[ChenXuanzangConqueringDemons|陈玄奘]]'s compassionate nature, especially compassion that persists after injustice and misunderstanding.
 
 ## Key Characteristics
 
@@ -25,6 +26,7 @@ The classic-reading branch treats Sha Wujing as more than the silent team member
 - The nine-skull motif connects him to karmic cycles around [[Xuanzang|玄奘]]'s取经 lives.
 - Popular memory can flatten him into silence, while source-layer reading restores religious and narrative density.
 - In the film reading, he functions as compassion within one mind.
+- His speechlessness in the film reading becomes a sign that basic compassionate nature does not need elaborate verbal display.
 
 ## Evidence
 
@@ -32,6 +34,7 @@ The classic-reading branch treats Sha Wujing as more than the silent team member
 - Nine-skull karmic motif: [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] connects the skulls to Xuanzang's previous取经 lives and a cycle of death and obstruction.
 - Flattened popular memory: [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] uses Sha Wujing as one case where returning to source history complicates familiar character memory.
 - Compassion symbolism: [[zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3]] reads 沙僧 as Chen Xuanzang's compassion nature in the film's "一心三藏" map.
+- Wounded compassion: [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq]] explains the water demon's origin as a rescuer wrongly killed by villagers, then reads his silence as compassion that does not require speech.
 
 ## Qualifications
 
@@ -40,7 +43,7 @@ The compassion-symbol reading belongs to the film interpretation and should not 
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added the film reading of 沙僧 as compassion within one mind.
+- Added Hanji 456-5's reading of the water demon as wounded compassion and silent basic nature.
 
 ## Relationships
 

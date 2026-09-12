@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7238
+wiki_total_pages: 7239
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1232,6 +1232,9 @@ wiki_pages:
   - key: "FlexibleFrontierMilitaryDiscretion"
     title: "弹性边防军法 / Flexible Frontier Military Discretion"
     url: "/wiki/concepts/flexiblefrontiermilitarydiscretion/"
+  - key: "FormalizedCultivationCritique"
+    title: "形式化修行批判 / Formalized Cultivation Critique"
+    url: "/wiki/concepts/formalizedcultivationcritique/"
   - key: "FormerEnemyLoyaltyReframing"
     title: "旧敌忠义重释 / Former Enemy Loyalty Reframing"
     url: "/wiki/concepts/formerenemyloyaltyreframing/"

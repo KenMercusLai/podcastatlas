@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》456-5｜修行人是如何看待西游的？](sources/zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through wounded compassion, 朱刚烈 as desire, 段小姐 as 情缘, 孙悟空 as ideal, and the critique of formalized cultivation.
 - [《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？](sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm.md) — 芮淇讲透资治通鉴 episode on Yang Yun's fall, Sun Huizong's warning letter, a resentful reply becoming court evidence, Emperor Xuan's severe punishment, and reading history as survival judgment.
 - [《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔](sources/zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through love, compassion, heart-demon symbolism, Sun Wukong, Duan Miss, and the "一心三藏" frame.
 - [Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](sources/male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841.md) — Huberman Lab episode with Scott Galloway on positive masculinity, young men, rejection, Big Tech, social media regulation, national service, alcohol, porn, male mentorship, and intergenerational economics.
@@ -12248,6 +12249,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [政治诛杀过度 / Political Execution Overreach](concepts/PoliticalExecutionOverreach.md) — Court-politics concept where severe execution damages legitimacy by exceeding public or moral proportionality.
 - [心魔象征式解读 / Inner-Demon Symbolic Reading](concepts/InnerDemonSymbolicReading.md) — Interpretive method reading monsters, companions, battles, and props as projections or functions of a protagonist's inner conflict.
 - [小爱与大爱整合 / Love-Compassion Integration](concepts/LoveCompassionIntegration.md) — Film-reading concept where intimate love becomes part of broader compassion rather than merely an obstacle to it.
+- [形式化修行批判 / Formalized Cultivation Critique](concepts/FormalizedCultivationCritique.md) — Critique of outward practice signs when abstinence, purity, or moral language preserve hidden attachment rather than inner release.
 - [Positive Masculinity Code](concepts/PositiveMasculinityCode.md) — Galloway's source-scoped provider, protector, procreator, service, and surplus-value frame for masculinity as responsibility.
 - [Young Men Offline Practice](concepts/YoungMenOfflinePractice.md) — phone-audit, exercise, outside-work, volunteering, and real-world social exposure bundle for isolated young men.
 - [Rejection Tolerance Practice](concepts/RejectionTolerancePractice.md) — practice of making respectful social and professional approaches where "no" is expected and survivable.

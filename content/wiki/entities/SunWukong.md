@@ -5,6 +5,7 @@ tags: [character, chinese-classics, mythology, folklore]
 sources:
   - 43-xiyouji-duo-ni-shi-shenme-yaojing-618154182
   - zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3
+  - zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq
 last_updated: 2026-09-13
 knowledge_schema: synthesis-v1
 ---
@@ -17,13 +18,14 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-In the classic-reading branch, 孙悟空 is a composite figure rather than a one-source borrowing: [[Hanuman|哈努曼]], [[Wuzhiqi|无支祁]], monkey-demon tales, Shi Pantuo, Hu/monkey wordplay, Daoist alchemical language, and drama traditions all remain possible layers. In the [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] branch, he is also read as [[ChenXuanzangConqueringDemons|陈玄奘]]'s ideal turned heart-demon, a force that exploits emotional disorder and must be restrained by the golden hoop.
+In the classic-reading branch, 孙悟空 is a composite figure rather than a one-source borrowing: [[Hanuman|哈努曼]], [[Wuzhiqi|无支祁]], monkey-demon tales, Shi Pantuo, Hu/monkey wordplay, Daoist alchemical language, and drama traditions all remain possible layers. In the [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] branch, he is also read as [[ChenXuanzangConqueringDemons|陈玄奘]]'s ideal and 心之所向 that can become a heart-demon, a force that exploits emotional disorder and must be restrained by the golden hoop.
 
 ## Key Characteristics
 
 - He is a composite character whose possible origins should not be reduced to one prototype.
 - The stone-monkey form and "金公" vocabulary are literary choices that shape interpretation.
 - Modern adaptation can recast him as heart-demon and blackened ideal rather than only heroic companion.
+- The film reading first introduces him as Chen Xuanzang's ideal and heart-direction before the later heart-demon battle.
 - His golden-hoop restraint can symbolize discipline over an inner force as well as narrative control over a demon.
 
 ## Evidence
@@ -31,6 +33,7 @@ In the classic-reading branch, 孙悟空 is a composite figure rather than a one
 - Composite origin: [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] places Sun Wukong inside [[MythicSourceLayering]] through Hanuman, Wuzhiqi, Shi Pantuo, monkey tales, and Daoist vocabulary.
 - Literary body and vocabulary: [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] treats the stone-monkey version and "金公" language as meaningful literary choices rather than flat zoology.
 - Heart-demon adaptation: [[zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3]] says Sun Wukong represents Chen Xuanzang's heart-demon in the final battle.
+- Ideal and heart-direction: [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq]] introduces Sun Wukong as Chen Xuanzang's ideal, 天马行空, and 心之所向 before the later crisis fully unfolds.
 - Golden-hoop restraint: [[zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3]] reads the ring turned golden hoop as a reminder to control the heart-demon with discipline.
 
 ## Qualifications
@@ -40,7 +43,7 @@ The heart-demon reading belongs to the film interpretation and should not replac
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added the [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] interpretation of Sun Wukong as ideal and heart-demon.
+- Added Hanji 456-5's earlier emphasis on Sun Wukong as ideal and 心之所向 before the heart-demon turn.
 
 ## Relationships
 
