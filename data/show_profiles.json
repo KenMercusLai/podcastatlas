@@ -478,14 +478,14 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "SCIM1624813352 [SCIM1624813352].md",
-      "source_note_count": 36,
-      "topic_matched_source_note_count": 27,
+      "source_note_count": 37,
+      "topic_matched_source_note_count": 28,
       "topics": [
         {
           "key": "science",
           "label": "Science",
           "url": "/topics/science/",
-          "source_note_count": 25
+          "source_note_count": 26
         },
         {
           "key": "culture",
@@ -513,6 +513,13 @@
           "url": "/wiki/entities/andrewhuberman/",
           "kind": "person",
           "episode_count": 26
+        },
+        {
+          "key": "DavidAnderson",
+          "title": "David Anderson",
+          "url": "/wiki/entities/davidanderson/",
+          "kind": "person",
+          "episode_count": 2
         },
         {
           "key": "UniversityOfCaliforniaSanFrancisco",

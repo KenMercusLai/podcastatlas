@@ -3911,6 +3911,14 @@
     "title": "Aggregate Indicators Lived Experience Gap",
     "url": "/wiki/concepts/aggregateindicatorslivedexperiencegap/"
   },
+  "AggressionCircuitBiology": {
+    "title": "Aggression Circuit Biology",
+    "url": "/wiki/concepts/aggressioncircuitbiology/"
+  },
+  "AggressionPressureReduction": {
+    "title": "Aggression Pressure Reduction",
+    "url": "/wiki/concepts/aggressionpressurereduction/"
+  },
   "AgileSprintPersonalWorkflow": {
     "title": "Agile Sprint Personal Workflow",
     "url": "/wiki/concepts/agilesprintpersonalworkflow/"
@@ -15098,6 +15106,10 @@
   "DaiYiJueMiLu": {
     "title": "《大义觉迷录》",
     "url": "/wiki/entities/daiyijuemilu/"
+  },
+  "DaiYuLin": {
+    "title": "Dai Yu Lin",
+    "url": "/wiki/entities/daiyulin/"
   },
   "DaiYuanLateHan": {
     "title": "戴员 / Dai Yuan (late Han)",
@@ -27603,6 +27615,10 @@
     "title": "Hormel",
     "url": "/wiki/entities/hormel/"
   },
+  "HormoneContextAggression": {
+    "title": "Hormone Context Aggression",
+    "url": "/wiki/concepts/hormonecontextaggression/"
+  },
   "HorrorHumorWeirdFiction": {
     "title": "Horror-Humor Weird Fiction",
     "url": "/wiki/concepts/horrorhumorweirdfiction/"
@@ -33234,6 +33250,10 @@
   "KonradAdenauer": {
     "title": "Konrad Adenauer",
     "url": "/wiki/entities/konradadenauer/"
+  },
+  "KonradLorenz": {
+    "title": "Konrad Lorenz",
+    "url": "/wiki/entities/konradlorenz/"
   },
   "KonstantinMariupolGenealogist": {
     "title": "康斯坦丁 / Konstantin (Mariupol genealogist)",
@@ -61059,6 +61079,10 @@
     "title": "Venmo",
     "url": "/wiki/entities/venmo/"
   },
+  "VentromedialHypothalamus": {
+    "title": "Ventromedial Hypothalamus",
+    "url": "/wiki/entities/ventromedialhypothalamus/"
+  },
   "VentureComputerScienceEdge": {
     "title": "Venture Computer-Science Edge",
     "url": "/wiki/concepts/venturecomputerscienceedge/"
@@ -61614,6 +61638,10 @@
   "WalterBenjamin": {
     "title": "Walter Benjamin / 本雅明",
     "url": "/wiki/entities/walterbenjamin/"
+  },
+  "WalterHess": {
+    "title": "Walter Hess",
+    "url": "/wiki/entities/walterhess/"
   },
   "WalterMMillerJr": {
     "title": "Walter M. Miller Jr.",
@@ -70434,6 +70462,10 @@
   "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415": {
     "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
     "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+  },
+  "essentials-understanding-controlling-aggression-scim4757138073": {
+    "title": "Essentials: Understanding & Controlling Aggression",
+    "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
   },
   "essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982": {
     "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",

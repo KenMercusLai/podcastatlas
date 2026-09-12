@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "v"
-wiki_total_pages: 9780
+wiki_total_pages: 9784
 wiki_pages:
   - key: "VacheronConstantin"
     title: "Vacheron Constantin"
@@ -86,6 +86,9 @@ wiki_pages:
   - key: "Venmo"
     title: "Venmo"
     url: "/wiki/entities/venmo/"
+  - key: "VentromedialHypothalamus"
+    title: "Ventromedial Hypothalamus"
+    url: "/wiki/entities/ventromedialhypothalamus/"
   - key: "VeraHill"
     title: "Vera Hill"
     url: "/wiki/entities/verahill/"

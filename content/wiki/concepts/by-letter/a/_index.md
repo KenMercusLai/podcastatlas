@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7101
+wiki_total_pages: 7104
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -443,6 +443,12 @@ wiki_pages:
   - key: "AggregateIndicatorsLivedExperienceGap"
     title: "Aggregate Indicators Lived Experience Gap"
     url: "/wiki/concepts/aggregateindicatorslivedexperiencegap/"
+  - key: "AggressionCircuitBiology"
+    title: "Aggression Circuit Biology"
+    url: "/wiki/concepts/aggressioncircuitbiology/"
+  - key: "AggressionPressureReduction"
+    title: "Aggression Pressure Reduction"
+    url: "/wiki/concepts/aggressionpressurereduction/"
   - key: "AGINarrative"
     title: "AGI Narrative"
     url: "/wiki/concepts/aginarrative/"

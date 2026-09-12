@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9780
+wiki_total_pages: 9784
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -437,6 +437,9 @@ wiki_pages:
   - key: "KonradAdenauer"
     title: "Konrad Adenauer"
     url: "/wiki/entities/konradadenauer/"
+  - key: "KonradLorenz"
+    title: "Konrad Lorenz"
+    url: "/wiki/entities/konradlorenz/"
   - key: "Kotex"
     title: "Kotex / 高洁丝"
     url: "/wiki/entities/kotex/"

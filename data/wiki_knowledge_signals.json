@@ -4315,6 +4315,38 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/agenticsystemofrecordmoat/"
     },
+    "AggressionCircuitBiology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/aggressioncircuitbiology/"
+    },
+    "AggressionPressureReduction": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/aggressionpressurereduction/"
+    },
     "AgileSprintPersonalWorkflow": {
       "episode_count": 1,
       "show_count": 1,
@@ -19769,6 +19801,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/daiwei/"
     },
+    "DaiYuLin": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/daiyulin/"
+    },
     "DaiYuanLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -20443,9 +20491,9 @@
       "url": "/wiki/entities/davemccormick/"
     },
     "DavidAnderson": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -20453,9 +20501,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/davidanderson/"
     },
     "DavidBrancaccio": {
@@ -41999,6 +42054,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/horatiogates/"
     },
+    "HormoneContextAggression": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/hormonecontextaggression/"
+    },
     "HorsehideBurialResolve": {
       "episode_count": 2,
       "show_count": 1,
@@ -49664,6 +49735,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/konradadenauer/"
+    },
+    "KonradLorenz": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/konradlorenz/"
     },
     "KouRongLateHan": {
       "episode_count": 2,
@@ -91430,6 +91517,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/venezuela/"
     },
+    "VentromedialHypothalamus": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/ventromedialhypothalamus/"
+    },
     "VernacularFemaleReligiousWriting": {
       "episode_count": 1,
       "show_count": 1,
@@ -92118,6 +92221,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/wallstreetprivatemortgagecapital/"
+    },
+    "WalterHess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM4757138073 [SCIM4757138073].md",
+          "key": "essentials-understanding-controlling-aggression-scim4757138073",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understanding & Controlling Aggression",
+          "url": "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/walterhess/"
     },
     "WalterOng": {
       "episode_count": 1,

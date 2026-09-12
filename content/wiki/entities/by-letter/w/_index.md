@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9780
+wiki_total_pages: 9784
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "WalterBenjamin"
     title: "Walter Benjamin / 本雅明"
     url: "/wiki/entities/walterbenjamin/"
+  - key: "WalterHess"
+    title: "Walter Hess"
+    url: "/wiki/entities/walterhess/"
   - key: "WalterMMillerJr"
     title: "Walter M. Miller Jr."
     url: "/wiki/entities/waltermmillerjr/"

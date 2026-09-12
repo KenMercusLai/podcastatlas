@@ -17692,6 +17692,10 @@ Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Await
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | Essentials: Understanding & Controlling Aggression
+
+Added Huberman Lab Essentials source on aggression categories, VMH circuitry, testosterone-to-estrogen aromatization, day length, stress state, light/heat tools, and supplement-bounded pressure reduction. Created aggression-circuit, hormone-context, and pressure-reduction concepts plus supporting entity pages.
+
 ## [2026-09-12] ingest | The loan at the heart of a new foreclosure crisis
 
 Added Planet Money source on DSCR landlord loans, Wall Street-backed private mortgage capital, Baltimore investor foreclosures, suspected inflated transaction patterns, and neighborhood spillovers from abandoned row homes.
@@ -17870,6 +17874,10 @@ Added source note for 日谈物语 E02, created Unification Church, Han Hak-ja, 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9780
+wiki_total_pages: 9784
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -26,6 +26,9 @@ wiki_pages:
   - key: "DahuaTechnology"
     title: "Dahua Technology / 大华"
     url: "/wiki/entities/dahuatechnology/"
+  - key: "DaiYuLin"
+    title: "Dai Yu Lin"
+    url: "/wiki/entities/daiyulin/"
   - key: "DaiYusen"
     title: "Dai Yusen / 戴雨森"
     url: "/wiki/entities/daiyusen/"

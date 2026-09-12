@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7101
+wiki_total_pages: 7104
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -455,6 +455,9 @@ wiki_pages:
   - key: "HonoursPatronageExchange"
     title: "Honours Patronage Exchange"
     url: "/wiki/concepts/honourspatronageexchange/"
+  - key: "HormoneContextAggression"
+    title: "Hormone Context Aggression"
+    url: "/wiki/concepts/hormonecontextaggression/"
   - key: "HorrorHumorWeirdFiction"
     title: "Horror-Humor Weird Fiction"
     url: "/wiki/concepts/horrorhumorweirdfiction/"

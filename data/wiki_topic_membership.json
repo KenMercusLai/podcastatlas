@@ -6347,6 +6347,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "AggressionCircuitBiology": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AgilityRobotics": [
     {
       "key": "technology",
@@ -18599,6 +18606,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "DaiYuLin": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DaiYusen": [
@@ -32168,6 +32182,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HormoneContextAggression": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "HorrorHumorWeirdFiction": [
@@ -68987,6 +69008,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "VentromedialHypothalamus": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "VentureComputerScienceEdge": [
     {
       "key": "economics",
@@ -69621,6 +69649,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WalterHess": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "WalterMMillerJr": [
@@ -78414,6 +78449,13 @@
     }
   ],
   "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-understanding-controlling-aggression-scim4757138073": [
     {
       "key": "science",
       "label": "Science",

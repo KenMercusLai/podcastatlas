@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Essentials: Understanding & Controlling Aggression](sources/essentials-understanding-controlling-aggression-scim4757138073.md) — Huberman Lab Essentials episode on aggression categories, VMH circuitry, testosterone-to-estrogen aromatization, day length, stress state, light, heat, and supplement-bounded pressure reduction.
 - [《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！](sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb.md) — 芮淇讲透资治通鉴 episode on Ye Lang King Xing, Zhangke Commandery risk, Du Qing's preventive frontier advice, and appointment fit before the transcript reaches Chen Li's execution sequence.
 - [《资治通鉴·汉纪》513丨勇闯夺命岛！汉臣陈立诛杀夜郎国王！](sources/zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo.md) — 芮淇讲透资治通鉴 episode on Chen Li's Zhangke appointment, targeted killing of Ye Lang King Xing, deterrent surrender shock, and logistics-based suppression of residual resistance.
 - [《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？](sources/zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu.md) — 芮淇讲透资治通鉴 episode on Liu Xiang's book-collation and disaster-omen warning, Wang Feng/Wang Shang setup, Yellow River repair labor, and Wang Shang's chancellorship.
@@ -2250,6 +2251,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Dai Yu Lin](entities/DaiYuLin.md) — Neuroscience researcher named in the Huberman Lab aggression episode for optogenetic VMH estrogen-receptor neuron experiments.
+- [Konrad Lorenz](entities/KonradLorenz.md) — Ethology reference in the Huberman Lab aggression episode for fixed action patterns, imprinting, and aggression pressure.
+- [Ventromedial Hypothalamus](entities/VentromedialHypothalamus.md) — Brain-region node foregrounded in the Huberman Lab aggression episode as central to VMH-linked aggression circuitry.
+- [Walter Hess](entities/WalterHess.md) — Neuroscientist cited in the Huberman Lab aggression episode for cat brain-stimulation experiments that evoked rage-like behavior.
 - [夜郎 / Ye Lang (Western Han)](entities/YelangStateWesternHan.md) — Southwestern polity whose Xing-led crisis is broken by Chen Li's targeted killing and follow-on suppression of residual resistance.
 - [夜郎王兴 / Ye Lang King Xing](entities/YelangKingXingWesternHan.md) — Ye Lang ruler who rejects Han mediation, provokes Han authority, and is killed by Chen Li in the Zhangke crisis.
 - [牂柯郡 / Zhangke Commandery](entities/ZhangkeCommanderyWesternHan.md) — Western Han southwestern commandery where distance, supply, appointment fit, and delegated governor judgment shape the Ye Lang response.
@@ -12034,6 +12039,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Aggression Circuit Biology](concepts/AggressionCircuitBiology.md) — Huberman Lab aggression concept treating aggression as context-dependent action patterns involving VMH and downstream circuits.
+- [Aggression Pressure Reduction](concepts/AggressionPressureReduction.md) — Practical frame for lowering stress, light, heat, supplement, and environment contributors to aggressive pressure without treating them as standalone cures.
+- [Hormone Context Aggression](concepts/HormoneContextAggression.md) — Concept qualifying testosterone-only aggression explanations through aromatization, estrogen-receptor VMH neurons, day length, cortisol, serotonin, and genetics.
 - [名分合法性叙事攻击 / Legitimacy Narrative Attack](concepts/LegitimacyNarrativeAttack.md) — Conflict strategy where actors weaken an opponent's moral or procedural standing before coercion, with credibility risk when punishment looks retaliatory.
 - [隐形站台式关系背书 / Deniable Patronage Signaling](concepts/DeniablePatronageSignaling.md) — Relationship-power pattern where inferred backing, kinship hints, visible restraint, and reputation networks move benefits without explicit orders.
 - [治未病式边疆治理 / Preventive Frontier Governance](concepts/PreventiveFrontierGovernance.md) — Frontier-administration pattern where success appears as prevented crisis, created from Duan Huizong's quiet Western Regions tenure.
