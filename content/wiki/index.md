@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Elon's Anthropic Deal, The Next AI Monopoly?, "FDA for AI" Panic, Trading the AI Boom](sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285.md) — All-In episode on xAI capacity leasing to Anthropic, compute and power scarcity, Anthropic monopoly fears, rejection of an "FDA for AI," cyber-capable model controls, coding-agent competition, and AI ROI proof.
 - [668. Greece vs Persia: The Rise of the First Superpower (Part 1)](sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182.md) — The Rest Is History episode on Cyrus, Darius, Achaemenid imperial order, the Ionian Revolt, Sardis, Miletus, Athenian intervention, and the road to Marathon.
 - [Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita](sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751.md) — Huberman Lab episode with Kentaro Fujita on self-control beyond willpower, marshmallow-test context, psychological distance, strategy fit, abstinence versus moderation, intrinsic motivation, and goal disengagement.
 - [VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！](sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng.md) — 这病说来话长 episode with 子涵医生 on hantavirus subtype risk, rodent-borne transmission, pulmonary and renal syndrome red flags, cleanup prevention, vaccination scope, and official-information triage.
@@ -12135,6 +12136,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [AI Coding Market Concentration](concepts/AICodingMarketConcentration.md) — Risk that coding-agent workflows concentrate revenue and developer habits around a few model providers.
+- [AI Model Approval Regime](concepts/AIModelApprovalRegime.md) — "FDA for AI" style pre-release model-review gate distinguished from narrower release governance.
+- [AI ROI Fork](concepts/AIROIFork.md) — Market test separating AI supplier revenue from downstream customer productivity, margin, and cost evidence.
+- [Anthropic Monopoly Thesis](concepts/AnthropicMonopolyThesis.md) — Warning scenario that Anthropic's coding and enterprise AI growth could compound into unusual market power.
+- [Cyber-Capable Model Controls](concepts/CyberCapableModelControls.md) — Targeted access, logging, hardening, and coordination safeguards for models with material cyber capability.
+- [Elon Compute Platform](concepts/ElonComputePlatform.md) — Treating Musk/xAI compute, power, and data-center capacity as sellable AI infrastructure.
 - [Self-Control Strategy Toolkit](concepts/SelfControlStrategyToolkit.md) — Self-control frame where attention, distance, meaning, environment, social framing, and strategy fit matter more than willpower alone.
 - [Psychological Distance Self-Control](concepts/PsychologicalDistanceSelfControl.md) — Self-control strategy using physical, temporal, social, or mental distance to make higher-order goals easier to act on.
 - [Marshmallow Test Context](concepts/MarshmallowTestContext.md) — Qualified reading of delayed-gratification experiments as shaped by trust, socioeconomic context, task setup, and learned strategy.

@@ -149,26 +149,26 @@
       "earliest_episode_date": "2026-01-08",
       "latest_episode_date": "2026-09-11",
       "latest_episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - AI Kills Everybody or Doomer Psyop？ OpenAI’s Math Breakthrough, Nike’s $200B Collapse [42880265].md",
-      "source_note_count": 52,
-      "topic_matched_source_note_count": 48,
+      "source_note_count": 53,
+      "topic_matched_source_note_count": 49,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 38
+          "source_note_count": 39
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 21
+          "source_note_count": 22
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "science",

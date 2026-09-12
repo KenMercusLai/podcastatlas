@@ -1791,6 +1791,10 @@
     "title": "AI Coding Guardrails",
     "url": "/wiki/concepts/aicodingguardrails/"
   },
+  "AICodingMarketConcentration": {
+    "title": "AI Coding Market Concentration",
+    "url": "/wiki/concepts/aicodingmarketconcentration/"
+  },
   "AICodingVerification": {
     "title": "AI Coding Verification",
     "url": "/wiki/concepts/aicodingverification/"
@@ -2375,6 +2379,10 @@
     "title": "AI Metabolic Infrastructure",
     "url": "/wiki/concepts/aimetabolicinfrastructure/"
   },
+  "AIModelApprovalRegime": {
+    "title": "AI Model Approval Regime",
+    "url": "/wiki/concepts/aimodelapprovalregime/"
+  },
   "AIModelBiasGovernance": {
     "title": "AI Model Bias Governance",
     "url": "/wiki/concepts/aimodelbiasgovernance/"
@@ -2590,6 +2598,10 @@
   "AIQuotaTrustErosion": {
     "title": "AI Quota Trust Erosion",
     "url": "/wiki/concepts/aiquotatrusterosion/"
+  },
+  "AIROIFork": {
+    "title": "AI ROI Fork",
+    "url": "/wiki/concepts/airoifork/"
   },
   "AIRankingReinforcement": {
     "title": "AI Ranking Reinforcement",
@@ -5482,6 +5494,10 @@
   "Anthropic": {
     "title": "Anthropic",
     "url": "/wiki/entities/anthropic/"
+  },
+  "AnthropicMonopolyThesis": {
+    "title": "Anthropic Monopoly Thesis",
+    "url": "/wiki/concepts/anthropicmonopolythesis/"
   },
   "AnthropologicalScienceFictionWorldbuilding": {
     "title": "Anthropological Science Fiction Worldbuilding / 人类学式科幻世界建构",
@@ -15007,6 +15023,10 @@
     "title": "CyberCab",
     "url": "/wiki/entities/cybercab/"
   },
+  "CyberCapableModelControls": {
+    "title": "Cyber-Capable Model Controls",
+    "url": "/wiki/concepts/cybercapablemodelcontrols/"
+  },
   "CyberDataTheftAndLeakOperations": {
     "title": "Cyber Data Theft and Leak Operations",
     "url": "/wiki/concepts/cyberdatatheftandleakoperations/"
@@ -18922,6 +18942,10 @@
   "EllisPark": {
     "title": "Ellis Park",
     "url": "/wiki/entities/ellispark/"
+  },
+  "ElonComputePlatform": {
+    "title": "Elon Compute Platform",
+    "url": "/wiki/concepts/eloncomputeplatform/"
   },
   "ElonMusk": {
     "title": "Elon Musk",
@@ -69650,6 +69674,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830": {
     "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up-42513830/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285": {
+    "title": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645": {
     "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",

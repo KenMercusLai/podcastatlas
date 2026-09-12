@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2007
+topic_total_pages: 2011
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -121,6 +121,9 @@ topic_concepts:
   - key: "AICapexReturnWindow"
     title: "AI Capex Return Window"
     url: "/wiki/concepts/aicapexreturnwindow/"
+  - key: "AICodingMarketConcentration"
+    title: "AI Coding Market Concentration"
+    url: "/wiki/concepts/aicodingmarketconcentration/"
   - key: "AICompressedValueCreation"
     title: "AI Compressed Value Creation"
     url: "/wiki/concepts/aicompressedvaluecreation/"
@@ -178,6 +181,9 @@ topic_concepts:
   - key: "AIRevenueLegibility"
     title: "AI Revenue Legibility"
     url: "/wiki/concepts/airevenuelegibility/"
+  - key: "AIROIFork"
+    title: "AI ROI Fork"
+    url: "/wiki/concepts/airoifork/"
   - key: "AIStartupUnitEconomics"
     title: "AI Startup Unit Economics"
     url: "/wiki/concepts/aistartupuniteconomics/"
@@ -229,6 +235,9 @@ topic_concepts:
   - key: "AnnualUpfrontSaaSCashFlow"
     title: "Annual Upfront SaaS Cash Flow"
     url: "/wiki/concepts/annualupfrontsaascashflow/"
+  - key: "AnthropicMonopolyThesis"
+    title: "Anthropic Monopoly Thesis"
+    url: "/wiki/concepts/anthropicmonopolythesis/"
   - key: "AntiMoneyLaundering"
     title: "Anti-Money Laundering"
     url: "/wiki/concepts/antimoneylaundering/"
@@ -5529,6 +5538,9 @@ topic_sources:
   - key: "elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db"
     title: "Elbows up, again: a US-Canada trade flare-up"
     url: "/wiki/sources/elbows-up-again-a-us-canada-trade-flare-up-6a8c0fa3a89d26398ee7a5db/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285"
+    title: "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"
   - key: "socialradarspod-emmettshear-v2"
     title: "Emmett Shear on YC, Kiko, Justin.tv, Twitch, and Founder Resilience"
     url: "/wiki/sources/socialradarspod-emmettshear-v2/"

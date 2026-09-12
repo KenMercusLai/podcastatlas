@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2419
+topic_total_pages: 2422
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -145,6 +145,9 @@ topic_concepts:
   - key: "AILiteracyAgainstWorship"
     title: "AI Literacy Against Worship"
     url: "/wiki/concepts/ailiteracyagainstworship/"
+  - key: "AIModelApprovalRegime"
+    title: "AI Model Approval Regime"
+    url: "/wiki/concepts/aimodelapprovalregime/"
   - key: "AIModelBiasGovernance"
     title: "AI Model Bias Governance"
     url: "/wiki/concepts/aimodelbiasgovernance/"
@@ -799,6 +802,9 @@ topic_concepts:
   - key: "CyberSabotage"
     title: "Cyber Sabotage"
     url: "/wiki/concepts/cybersabotage/"
+  - key: "CyberCapableModelControls"
+    title: "Cyber-Capable Model Controls"
+    url: "/wiki/concepts/cybercapablemodelcontrols/"
   - key: "DataAgentGovernance"
     title: "Data Agent Governance"
     url: "/wiki/concepts/dataagentgovernance/"
@@ -6633,6 +6639,9 @@ topic_sources:
   - key: "e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2"
     title: "E44 李晓波对话孟岩：这次，就这样吧？"
     url: "/wiki/sources/e44-li-xiaobo-duihua-mengyan-zheci-jiu-zheyang-ba-lpcrvfgnseaed-eambk9ofnvuq2/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285"
+    title: "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285/"
   - key: "ep-40-governance-first-the-architecture-framework-that-makes-ai-auditable-defensible-and-99-cheaper"
     title: "EP 40: Governance First: The Architecture Framework That Makes AI Auditable, Defensible, and 99% Cheaper"
     url: "/wiki/sources/ep-40-governance-first-the-architecture-framework-that-makes-ai-auditable-defensible-and-99-cheaper/"

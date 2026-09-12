@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7156
+wiki_total_pages: 7162
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2087,6 +2087,9 @@ wiki_pages:
   - key: "CyberSabotage"
     title: "Cyber Sabotage"
     url: "/wiki/concepts/cybersabotage/"
+  - key: "CyberCapableModelControls"
+    title: "Cyber-Capable Model Controls"
+    url: "/wiki/concepts/cybercapablemodelcontrols/"
   - key: "CyberneticMachineSatire"
     title: "Cybernetic Machine Satire"
     url: "/wiki/concepts/cyberneticmachinesatire/"

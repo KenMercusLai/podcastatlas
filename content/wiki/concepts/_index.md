@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7156
+wiki_total_pages: 7162
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -623,6 +623,9 @@ wiki_pages:
   - key: "AICodingGuardrails"
     title: "AI Coding Guardrails"
     url: "/wiki/concepts/aicodingguardrails/"
+  - key: "AICodingMarketConcentration"
+    title: "AI Coding Market Concentration"
+    url: "/wiki/concepts/aicodingmarketconcentration/"
   - key: "AICodingVerification"
     title: "AI Coding Verification"
     url: "/wiki/concepts/aicodingverification/"
@@ -1019,6 +1022,9 @@ wiki_pages:
   - key: "AIMetabolicInfrastructure"
     title: "AI Metabolic Infrastructure"
     url: "/wiki/concepts/aimetabolicinfrastructure/"
+  - key: "AIModelApprovalRegime"
+    title: "AI Model Approval Regime"
+    url: "/wiki/concepts/aimodelapprovalregime/"
   - key: "AIModelBiasGovernance"
     title: "AI Model Bias Governance"
     url: "/wiki/concepts/aimodelbiasgovernance/"
@@ -1190,6 +1196,9 @@ wiki_pages:
   - key: "AIRewriteDesk"
     title: "AI Rewrite Desk"
     url: "/wiki/concepts/airewritedesk/"
+  - key: "AIROIFork"
+    title: "AI ROI Fork"
+    url: "/wiki/concepts/airoifork/"
   - key: "AISafetyCoordination"
     title: "AI Safety Coordination"
     url: "/wiki/concepts/aisafetycoordination/"
@@ -1754,6 +1763,9 @@ wiki_pages:
   - key: "AntarcticClimateServices"
     title: "Antarctic Climate Services"
     url: "/wiki/concepts/antarcticclimateservices/"
+  - key: "AnthropicMonopolyThesis"
+    title: "Anthropic Monopoly Thesis"
+    url: "/wiki/concepts/anthropicmonopolythesis/"
   - key: "AnthropologicalScienceFictionWorldbuilding"
     title: "Anthropological Science Fiction Worldbuilding / 人类学式科幻世界建构"
     url: "/wiki/concepts/anthropologicalsciencefictionworldbuilding/"

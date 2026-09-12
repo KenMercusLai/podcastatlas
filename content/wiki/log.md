@@ -17751,6 +17751,11 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | Elon's Anthropic Deal, The Next AI Monopoly?, "FDA for AI" Panic, Trading the AI Boom
+
+- Added source note for the All-In episode on xAI capacity leasing to Anthropic, compute and power scarcity, Anthropic monopoly fears, model-approval panic, cyber-capable model controls, AI coding competition, and the market's ROI test.
+- Added Elon Compute Platform, Anthropic Monopoly Thesis, AI Model Approval Regime, Cyber-Capable Model Controls, AI Coding Market Concentration, and AI ROI Fork.
+
 ## [2026-09-12] ingest | VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！
 
 Added source page for a 这病说来话长 episode with 子涵医生 on hantavirus outbreak risk, subtype differences, rodent reservoirs, transmission routes, pulmonary and renal syndrome red flags, cleanup prevention, vaccination scope, and public-health information triage. Created Zihan Doctor, Hantavirus Public Risk Triage, Rodent-Borne Infection Prevention, Hemorrhagic Fever With Renal Syndrome Escalation, Hantavirus Pulmonary Syndrome Escalation, and Public Health Information Triage pages; updated index and overview. No settled contradiction found; outbreak numbers, WHO-event details, vaccine targeting, cleaning specifics, and symptom examples remain source-scoped public medical education.
@@ -18273,6 +18278,10 @@ Ran lint. See lint-report.md for details.
 - Added source note for the road to Marathon: Cyrus, Darius, Achaemenid imperial order, the Ionian Revolt, Sardis, Miletus, Athenian intervention, Eretria, and the 490 BC campaign setup.
 - Updated Achaemenid Empire, Darius I, Miltiades, Athens, Battle of Marathon, Athenian Democracy, and Greco-Persian War Memory.
 - Added Cyrus the Great, Aristagoras, Histias, Miletus, Sardis, Ionian Revolt, and Achaemenid Imperial Order Ideology.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
