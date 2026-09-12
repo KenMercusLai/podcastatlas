@@ -2,32 +2,53 @@
 title: "Historical Jianghu Space"
 type: concept
 tags: [wuxia, history, china, institutions, mobility, sociology]
-sources: [112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095, 102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]
-last_updated: 2026-07-24
+sources:
+  - 112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095
+  - 102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488
+  - zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw
+last_updated: 2026-09-12
+knowledge_schema: synthesis-v1
 ---
 
 # Historical Jianghu Space
 
-Historical Jianghu space is the source's claim that wuxia needs a historically plausible zone for unofficial movement, association, violence, reputation, and livelihood. In [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]], the hosts use [[JinYong|金庸]] to compare why Song settings support Jianghu stories and why Ming settings make them harder.
+## Definition
+Historical Jianghu space is the social room in which unofficial movement, association, reputation, livelihood, violence, and exit can operate outside fully settled formal order.
 
-The Song side of the argument emphasizes mobility. Cities, trade, night markets, looser travel controls, tattoo fashion, beggar organizations, guild-like associations, cooks, and commercial service work make people who move outside official careers narratively plausible. [[TianLongBaBu|《天龙八部》]] becomes the source's major case because its monks, beggars, ethnic crossings, martial sects, and high-skill outsiders fit this landscape.
+## Current Synthesis
+The concept began as a wuxia-historical question: why some dynastic settings make roaming侠客 feel plausible while others compress that freedom. Song commerce, cities, travel, nightlife, beggar groups, guild-like associations, and service work create more narrative room for [[JinYong|金庸]]'s Jianghu than Ming registration, surveillance, anti-idler rules, and suppression of unofficial associations, as argued in [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]].
 
-The Ming side emphasizes compression. The episode describes Zhu Yuanzhang's household registration, neighbor surveillance, anti-idler regulation, punishment of unofficial associations, and suppression of 明教 as conditions that narrow the space for free-roaming侠客. That contraction helps the hosts explain why later [[JinYong|金庸]] worlds feel increasingly governed by state power, conspiracy, firearms, and social control.
-
-[[102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]] adds the street-society counterpart through [[LianKuoru|连阔如]]'s [[JiangHuCongTan|《江湖丛谈》]]. Here Jianghu is not a fiction-enabling background but a real low-status social field of mobile trade, performance, scams, lodging, language, and reputation. This expands the concept from "what makes侠客 plausible" toward [[StreetJianghuSociety]]: the same mobility and weak formal supervision that support romance can also produce fraud, argot, guild-like rules, and fragile mutual aid.
+The less romantic street world grounds that space in mobile trade, performance, scams, lodging, argot, guards, thieves, and reputation mechanisms [[102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]]. The layered Hanji account broadens the frame again by treating court, literati withdrawal, merchant retreat, and marginal survival as different social fields of Jianghu [[zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw]]. The result is not one heroic zone, but a spectrum of unofficial or semi-official situations where people must read power, dependency, timing, hunger, and reputation.
 
 ## Key Claims
-- Jianghu is not just a fantasy mood; it depends on degrees of social mobility, weak supervision, and unofficial association.
-- Song urban and commercial life gives wuxia more room for beggars, cooks, tattooed fighters, travelers, and sect networks.
-- Stronger registration and surveillance regimes make the free侠客 less plausible, even if martial skill still exists.
-- Jin Yong's chronology can be read as a gradual contraction of Jianghu freedom from [[YueNvJian|《越女剑》]] toward later dynastic worlds.
-- Historical plausibility does not remove fictionality; it gives the fantasy enough institutional texture to feel inhabited.
-- The older street Jianghu adds a non-romantic layer: unofficial association also needs brokers, argot, lodging rules, trade spacing, and mechanisms for both deception and trust.
+- Jianghu depends on mobility, weak or uneven supervision, informal association, and practical knowledge of social risk.
+- Song-style urban and commercial life makes roaming figures, sect networks, itinerant labor, and outsider skill more plausible than tightly registered settings.
+- Stronger household registration, surveillance, and anti-association regimes shrink Jianghu freedom without eliminating conflict or martial ability.
+- Street Jianghu shows the non-romantic underside of the same space: craft, fraud, lodging, argot, mutual aid, and predation can coexist.
+- Court and merchant Jianghu add a vertical dimension: people near power or wealth also need exit judgment, not only combat or mobility.
+- Historical plausibility supports fiction, but it also reveals how real marginal workers and power-adjacent actors navigated informal rules.
 
-## Connections
-- [[JinYong|金庸]] - author whose fictional chronology anchors the concept.
-- [[TianLongBaBu|《天龙八部》]], [[XiaoAoJiangHu|《笑傲江湖》]], and [[YueNvJian|《越女剑》]] - works used to show expansion, politicization, and contraction.
-- [[JinYongPoliticalReading]] - adjacent frame for the political effects of shrinking Jianghu space.
-- [[StreetJianghuSociety]], [[ChunDianArgot]], and [[InformalJianghuOrder]] - street-social counterpart added by the Lian Kuoru source.
-- [[China]] - historical setting.
-- [[ClassicReadingComplexity]] - reading frame for keeping fiction and historical institution together.
+## Evidence
+### Mobility And Institutional Room
+- [[112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095]] contrasts Song mobility and commercial life with Ming registration and surveillance, using Jin Yong settings to show how institutions open or narrow Jianghu narrative space.
+
+### Street Infrastructure
+- [[102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]] describes Jianghu as a field of itinerant trade, performance, scams, lodging, language, reputation, and informal enforcement.
+
+### Layered Social Fields
+- [[zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw]] distinguishes the Jianghu of the court, literati, merchants, and marginal people, making Jianghu a general social condition rather than only a genre setting.
+
+## Counterevidence & Qualifications
+The concept should not make all unofficial association equivalent. Wuxia narrative space, Republican-era street livelihood, court politics, Daoist withdrawal, and merchant exit have different evidence bases and moral stakes. The Ming-compression claim comes from literary-historical commentary, while the layered Hanji 483-2 account is a short thematic reflection rather than detailed institutional history.
+
+## What Changed
+- Added Hanji 483-2's layered map of court, literati, merchant, and street Jianghu.
+- Migrated the page from a source-led legacy structure to synthesis-v1 while preserving the existing source order.
+
+## Related Concepts
+- [[LayeredJianghuSocialFields]] - generalizes Jianghu across court, literati, merchant, and marginal settings.
+- [[StreetJianghuSociety]] - non-romantic livelihood counterpart.
+- [[InformalJianghuOrder]] - informal rule and mediation system within mobile Jianghu life.
+- [[JianghuScamCraft]] - predatory and persuasive technique branch.
+- [[JinYongPoliticalReading]] - literary-political reading of shrinking Jianghu freedom.
+- [[ClassicReadingComplexity]] - reading frame for keeping fiction, institution, and allusion together.

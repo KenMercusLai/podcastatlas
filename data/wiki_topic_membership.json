@@ -39377,6 +39377,13 @@
       "url": "/topics/history/"
     }
   ],
+  "LayeredJianghuSocialFields": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "LayeredRobotArchitecture": [
     {
       "key": "technology",
@@ -83695,6 +83702,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl": [

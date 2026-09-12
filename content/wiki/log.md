@@ -17759,6 +17759,10 @@ Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Song
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩”
+
+Added source note for the layered Jianghu reading across court politics, literati release, commercial exit, and marginal survival. Created Layered Jianghu Social Fields; updated Historical Jianghu Space, Street Jianghu Society, Informal Jianghu Order, Jianghu Scam Craft, and Jianghu Survival Anxiety with the source's observation, speech, hunger, and exit-judgment themes.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》480丨课本不敢提！揭开“凿壁偷光”的黑暗后续
 
 Added source note on Kuang Heng's disaster memorial, repeated-amnesty critique, Chang'an as customs model, and the poor-scholar-to-fallen-chancellor arc. Updated Kuang Heng, Han Yuandi, Omen-Coded Remonstrance, and Poverty Memory as Corruption Excuse; created Amnesty Cannot Substitute for Governance and Capital Exemplar Governance.
@@ -18336,6 +18340,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -42928,6 +42928,36 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/historicalfemalerolemodelcaution/"
     },
+    "HistoricalJianghuSpace": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "112.闲聊金庸第一弹：明教竟然今天还存在？ [754593095].md",
+          "key": "112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095",
+          "show": "蜜獾吃书",
+          "title": "112. 闲聊金庸第一弹：明教竟然今天还存在？",
+          "url": "/wiki/sources/112-xianliao-jinyong-diyidan-mingjiao-jingran-jintian-hai-cunzai-754593095/"
+        },
+        {
+          "episode_file": "102.江湖丛谈：骗术、黑话和民间道义 [736516488].md",
+          "key": "102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488",
+          "show": "蜜獾吃书",
+          "title": "102.江湖丛谈：骗术、黑话和民间道义",
+          "url": "/wiki/sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩” [ltUkP3q2cg7P5EGxQtE7nUseeNaw].md",
+          "key": "zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/historicaljianghuspace/"
+    },
     "HistoricalPrecedentCrisisPlanning": {
       "episode_count": 1,
       "show_count": 1,
@@ -47108,6 +47138,29 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/inflationshapedconsumerhabits/"
     },
+    "InformalJianghuOrder": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "102.江湖丛谈：骗术、黑话和民间道义 [736516488].md",
+          "key": "102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488",
+          "show": "蜜獾吃书",
+          "title": "102.江湖丛谈：骗术、黑话和民间道义",
+          "url": "/wiki/sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩” [ltUkP3q2cg7P5EGxQtE7nUseeNaw].md",
+          "key": "zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/informaljianghuorder/"
+    },
     "InformationAsymmetricPacification": {
       "episode_count": 1,
       "show_count": 1,
@@ -49390,10 +49443,40 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jiangyuliangdoctor/"
     },
+    "JianghuScamCraft": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "102.江湖丛谈：骗术、黑话和民间道义 [736516488].md",
+          "key": "102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488",
+          "show": "蜜獾吃书",
+          "title": "102.江湖丛谈：骗术、黑话和民间道义",
+          "url": "/wiki/sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续） [704051997].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（未完待续）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩” [ltUkP3q2cg7P5EGxQtE7nUseeNaw].md",
+          "key": "zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/jianghuscamcraft/"
+    },
     "JianghuSurvivalAnxiety": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩” [lg6vR0avzvTqiREYs3Hhp7tRWRSl].md",
@@ -49401,6 +49484,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩” [ltUkP3q2cg7P5EGxQtE7nUseeNaw].md",
+          "key": "zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw/"
         }
       ],
       "updated": "2026-09-12",
@@ -52726,6 +52816,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/lawenforcementagainsteliteprivilege/"
+    },
+    "LayeredJianghuSocialFields": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩” [ltUkP3q2cg7P5EGxQtE7nUseeNaw].md",
+          "key": "zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/layeredjianghusocialfields/"
     },
     "LayneNorton": {
       "episode_count": 1,
@@ -87153,6 +87259,29 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/strategicpatronexitjudgment/"
+    },
+    "StreetJianghuSociety": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "102.江湖丛谈：骗术、黑话和民间道义 [736516488].md",
+          "key": "102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488",
+          "show": "蜜獾吃书",
+          "title": "102.江湖丛谈：骗术、黑话和民间道义",
+          "url": "/wiki/sources/102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩” [ltUkP3q2cg7P5EGxQtE7nUseeNaw].md",
+          "key": "zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-2丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/streetjianghusociety/"
     },
     "StrengthFirstSelfExamination": {
       "episode_count": 1,

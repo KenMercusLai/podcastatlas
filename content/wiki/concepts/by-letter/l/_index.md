@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7188
+wiki_total_pages: 7189
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -143,6 +143,9 @@ wiki_pages:
   - key: "LayeredFeintCentralBreakthrough"
     title: "Layered Feint Central Breakthrough / 多路佯动中央突破"
     url: "/wiki/concepts/layeredfeintcentralbreakthrough/"
+  - key: "LayeredJianghuSocialFields"
+    title: "Layered Jianghu Social Fields"
+    url: "/wiki/concepts/layeredjianghusocialfields/"
   - key: "LayeredRobotArchitecture"
     title: "Layered Robot Architecture"
     url: "/wiki/concepts/layeredrobotarchitecture/"
