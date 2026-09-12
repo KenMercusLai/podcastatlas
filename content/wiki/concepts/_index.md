@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7149
+wiki_total_pages: 7154
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -38,6 +38,9 @@ wiki_pages:
   - key: "AbraxasWholeGodSymbolism"
     title: "Abraxas Whole-God Symbolism / 阿布拉克萨斯完整神象征"
     url: "/wiki/concepts/abraxaswholegodsymbolism/"
+  - key: "AbstinenceModerationSelfControl"
+    title: "Abstinence Moderation Self-Control"
+    url: "/wiki/concepts/abstinencemoderationselfcontrol/"
   - key: "AbsurdRationality"
     title: "Absurd Rationality"
     url: "/wiki/concepts/absurdrationality/"

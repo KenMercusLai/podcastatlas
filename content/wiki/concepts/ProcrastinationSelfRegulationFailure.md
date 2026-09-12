@@ -6,8 +6,9 @@ sources:
   - wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744
   - how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656
   - leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288
+  - master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751
 knowledge_schema: synthesis-v1
-last_updated: 2026-09-05
+last_updated: 2026-09-12
 ---
 
 # Procrastination Self-Regulation Failure
@@ -20,6 +21,8 @@ The current evidence gives procrastination both a health-risk and a mechanism la
 
 The same problem now has a dopamine-state reset layer from [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]]. Procrastination can become a search for less painful substitute activity while baseline motivation is low or a dopamine trough is active. Rather than waiting for deadline anxiety, Huberman suggests a bounded [[SafeEffortProcrastinationReset]]: briefly do something harder than the stuck state, such as exercise, cold exposure, or difficult meditation, as long as it is physically and psychologically safe.
 
+The broader self-control-tool layer comes through [[KentaroFujita]] in [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]]. Procrastination is not always best answered by stronger suppression; it may require [[PsychologicalDistanceSelfControl]], a more meaningful "why," a different reward interpretation, an abstinence-or-moderation choice, or recognition that the current goal is no longer viable. This makes tool fit part of the procrastination synthesis.
+
 ## Key Claims
 - The source cites a 2013 study linking each one-point procrastination-scale increase with a $15,000 annual-earnings drop.
 - It cites a 2023 study connecting frequent procrastination with delayed medical treatment and debilitating pain.
@@ -27,7 +30,7 @@ The same problem now has a dopamine-state reset layer from [[leverage-dopamine-t
 - Working from home, smartphones, and delayed bedtime are presented as plausible modern contributors.
 - [[MentalContrastingImplementationIntentions]], [[ExerciseSelfMasteryForProcrastination]], and [[SafeEffortProcrastinationReset]] are stronger action candidates than diet correlations in this segment.
 - The motivation episode says lowering activation barriers, splitting tasks, planning ahead, and reframing reward can change task initiation.
-- The dopamine episode says doing a brief safe activity harder than the current stuck state can sometimes help move out of procrastination or amotivation.
+- Later Huberman episodes add state and strategy tools: safe effortful resets can move through some low-motivation states, while Fujita's self-control frame emphasizes psychological distance, meaningful whys, social support, role models, or goal-pattern changes.
 
 ## Evidence
 - Harm profile - [[wake-up-haul-an-ozempic-moment-for-the-brain-6a85798d1ad8716bb6078744]] links procrastination to income, delayed medical care, pain, self-esteem, and future depression.
@@ -36,12 +39,14 @@ The same problem now has a dopamine-state reset layer from [[leverage-dopamine-t
 - Attention and ADHD boundary - [[how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656]] says attention varies continuously, diagnosis is difficult, and motivation affects sustained attention because rewarding tasks are easier to attend to.
 - Dopamine-state account - [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] links procrastination, low baseline motivation, dopamine troughs, and less-painful substitute activities.
 - Safe effort reset - [[leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288]] recommends a short list of safe effortful activities that are harder than the current stuck state.
+- Self-control tool fit - [[master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751]] frames procrastination tools as context-dependent rather than universal willpower tests.
 
 ## Counterevidence & Qualifications
-The concept overlaps with [[PerfectionismAsAvoidance]] but is not the same: perfectionism treats delay as defense against visible failure, while this page treats delay as a broader self-regulation, effort-reward, and state-shift problem. The sources do not turn procrastination into a simple medical diagnosis, and the practical tools remain context-dependent rather than guaranteed protocols. Effortful resets should not involve harm, unsafe exertion, or avoidance of needed clinical care.
+The concept overlaps with [[PerfectionismAsAvoidance]] but is not the same: perfectionism treats delay as defense against visible failure, while this page treats delay as a broader self-regulation, effort-reward, state-shift, and strategy-fit problem. The sources do not turn procrastination into a simple medical diagnosis, and the practical tools remain context-dependent rather than guaranteed protocols. Effortful resets should not involve harm, unsafe exertion, or avoidance of needed clinical care. Fujita's goal-disengagement discussion also means nonaction must be sorted carefully: some stopping is adaptive, while some delay is avoidance.
 
 ## What Changed
 - Added Huberman's dopamine-trough and safe-effort reset account to the existing harm, intervention, reward-effort, and attention frames.
+- Added Fujita's self-control-tool fit account, including psychological distance, meaningful whys, abstinence/moderation fit, and goal disengagement.
 
 ## Related Concepts
 - [[MentalContrastingImplementationIntentions]] - intervention pattern with stronger evidence in the procrastination segment.
@@ -50,6 +55,9 @@ The concept overlaps with [[PerfectionismAsAvoidance]] but is not the same: perf
 - [[MotivationRewardEffortCalculation]] - mechanism explaining why some tasks fail to start.
 - [[DopaminePeakTroughBaseline]] - dopamine state branch explaining low-motivation troughs.
 - [[EffortAsReward]] - process-reward branch that can reduce outcome-only procrastination pressure.
+- [[SelfControlStrategyToolkit]] - broader strategy-fit frame for choosing procrastination tools.
+- [[PsychologicalDistanceSelfControl]] - distance-based strategy for moving attention from immediate friction to higher-order goals.
+- [[GoalDisengagementAndReengagement]] - boundary separating adaptive stopping from avoidance.
 - [[ApathyActionInitiation]] - neurological contrast showing why procrastination should not be collapsed into apathy.
 - [[PerfectionismAsAvoidance]] - adjacent delay mechanism based on fear of visible failure.
 - [[AttentionCapacitySelection]] - attention-control neighbor for distraction and sustained focus.

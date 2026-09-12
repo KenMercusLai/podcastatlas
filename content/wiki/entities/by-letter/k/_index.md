@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "k"
-wiki_total_pages: 9837
+wiki_total_pages: 9838
 wiki_pages:
   - key: "KunyangBattle"
     title: "Battle of Kunyang / 昆阳之战"
@@ -245,6 +245,9 @@ wiki_pages:
   - key: "KennyPoon"
     title: "Kenny Poon"
     url: "/wiki/entities/kennypoon/"
+  - key: "KentaroFujita"
+    title: "Kentaro Fujita"
+    url: "/wiki/entities/kentarofujita/"
   - key: "Kenya"
     title: "Kenya"
     url: "/wiki/entities/kenya/"

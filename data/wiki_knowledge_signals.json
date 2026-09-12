@@ -3403,6 +3403,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/absoluteguaranteetrap/"
     },
+    "AbstinenceModerationSelfControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/abstinencemoderationselfcontrol/"
+    },
     "AbudBakri": {
       "episode_count": 1,
       "show_count": 1,
@@ -5700,9 +5716,9 @@
       "url": "/wiki/entities/andingcommandery/"
     },
     "AndrewHuberman": {
-      "episode_count": 26,
+      "episode_count": 27,
       "show_count": 1,
-      "source_note_count": 26,
+      "source_note_count": 27,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -5885,9 +5901,16 @@
           "show": "Huberman Lab",
           "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
           "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        },
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/andrewhuberman/"
     },
     "AndrogenInterventionClinicalBoundary": {
@@ -37361,6 +37384,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/entities/gopro/"
     },
+    "GoalDisengagementAndReengagement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/goaldisengagementandreengagement/"
+    },
     "GoalkeeperEmbodiedJudgment": {
       "episode_count": 1,
       "show_count": 1,
@@ -44288,9 +44327,9 @@
       "url": "/wiki/entities/hubeihumanoidinnovationcenter/"
     },
     "HubermanLab": {
-      "episode_count": 26,
+      "episode_count": 27,
       "show_count": 1,
-      "source_note_count": 26,
+      "source_note_count": 27,
       "sources": [
         {
           "episode_file": "SCIM2465421786 [SCIM2465421786].md",
@@ -44473,9 +44512,16 @@
           "show": "Huberman Lab",
           "title": "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia",
           "url": "/wiki/sources/improve-vitality-emotional-physical-health-lifespan-dr-peter-attia-scim5907126956/"
+        },
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/hubermanlab/"
     },
     "HudecShanghaiArchitect": {
@@ -50185,6 +50231,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kenjiyamamoto/"
+    },
+    "KentaroFujita": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/kentarofujita/"
     },
     "KetogenicDietEpilepsyEvidence": {
       "episode_count": 1,
@@ -60784,6 +60846,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/marriagealliancewarexposure/"
     },
+    "MarshmallowTestContext": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/marshmallowtestcontext/"
+    },
     "MarthaWashington": {
       "episode_count": 1,
       "show_count": 1,
@@ -63848,9 +63926,9 @@
       "url": "/wiki/concepts/motherhoodbeyondchildbirth/"
     },
     "MotivationCrowdingOut": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "79.各位领导，但凡咱学点博弈论… … [690004262].md",
@@ -63865,15 +63943,22 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/motivationcrowdingout/"
     },
     "MotivationRewardEffortCalculation": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM3386045656 [SCIM3386045656].md",
@@ -63888,9 +63973,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/motivationrewardeffortcalculation/"
     },
     "MotiveBasedFalseAccusationDefense": {
@@ -73407,9 +73499,9 @@
       "url": "/wiki/concepts/processingspeedtrainingdementiasignal/"
     },
     "ProcrastinationSelfRegulationFailure": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "Wake-up haul： an Ozempic moment for the brain [6a85798d1ad8716bb6078744].md",
@@ -73431,9 +73523,16 @@
           "show": "Huberman Lab",
           "title": "Leverage Dopamine to Overcome Procrastination & Optimize Effort",
           "url": "/wiki/sources/leverage-dopamine-to-overcome-procrastination-optimize-effort-scim2602950288/"
+        },
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/procrastinationselfregulationfailure/"
     },
     "ProductBrandCompanyBrandSeparation": {
@@ -73979,6 +74078,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/psychologicalboundaryprotection/"
+    },
+    "PsychologicalDistanceSelfControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/psychologicaldistanceselfcontrol/"
     },
     "PsychologicalMythModernization": {
       "episode_count": 1,
@@ -80790,6 +80905,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/selfconceptplasticity/"
+    },
+    "SelfControlStrategyToolkit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM8156556751 [SCIM8156556751].md",
+          "key": "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751",
+          "show": "Huberman Lab",
+          "title": "Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita",
+          "url": "/wiki/sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/selfcontrolstrategytoolkit/"
     },
     "SelfDeprecatingPoliticalSurvival": {
       "episode_count": 1,

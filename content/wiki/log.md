@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita
+
+Added source `master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751`; created `KentaroFujita`, `SelfControlStrategyToolkit`, `PsychologicalDistanceSelfControl`, `MarshmallowTestContext`, `AbstinenceModerationSelfControl`, and `GoalDisengagementAndReengagement`; updated `ProcrastinationSelfRegulationFailure`, `MotivationRewardEffortCalculation`, `MotivationCrowdingOut`, `HubermanLab`, `AndrewHuberman`, `index`, and `overview`. No settled contradiction found; marshmallow-test prediction, ego depletion, music anchoring, Japanese cultural examples, and universal self-control tools remain source-scoped or qualified.
+
 ## [2026-09-12] ingest | 李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活
 
 - Added source note for Li Xiang's Li Auto strategy interview on agents, L9 LEVIUS, M100, autonomous driving, robots, organization design, and overseas expansion.
@@ -18239,6 +18243,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？
 
 Added source note for Hanji 484. Key claims: Han Yuandi's favor toward Fu Zhaoyi and Liu Kang makes household intimacy a succession-order risk; Kuang Heng uses ancestral continuity, ruler self-correction,嫡庶 distinction, and empress-consort hierarchy to warn against private preference becoming public disorder; the episode extends the family hexagram into a broader household-ethics frame.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

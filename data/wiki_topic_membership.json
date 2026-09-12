@@ -5473,6 +5473,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AbstinenceModerationSelfControl": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AbsurdRationality": [
     {
       "key": "culture",
@@ -28995,6 +29002,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "GoalDisengagementAndReengagement": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "GoldAsCurrencySpareTire": [
     {
       "key": "economics",
@@ -38020,6 +38034,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "KentaroFujita": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "Kenya": [
     {
       "key": "culture",
@@ -43020,6 +43041,13 @@
     }
   ],
   "Mars": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "MarshmallowTestContext": [
     {
       "key": "science",
       "label": "Science",
@@ -53396,6 +53424,13 @@
       "url": "/topics/science/"
     }
   ],
+  "PsychologicalDistanceSelfControl": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PsychologicalFlexibilityForDissent": [
     {
       "key": "science",
@@ -58821,6 +58856,13 @@
     }
   ],
   "SelfConceptPlasticity": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "SelfControlStrategyToolkit": [
     {
       "key": "science",
       "label": "Science",
@@ -79536,6 +79578,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "missing-peace-will-israel-imperil-iran-deal-6a3bae9fe1238e54b0e886c3": [

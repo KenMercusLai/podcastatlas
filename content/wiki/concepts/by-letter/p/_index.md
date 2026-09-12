@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7149
+wiki_total_pages: 7154
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1607,6 +1607,9 @@ wiki_pages:
   - key: "PsychologicalBoundaryProtection"
     title: "Psychological Boundary Protection / 心理边界保护"
     url: "/wiki/concepts/psychologicalboundaryprotection/"
+  - key: "PsychologicalDistanceSelfControl"
+    title: "Psychological Distance Self-Control"
+    url: "/wiki/concepts/psychologicaldistanceselfcontrol/"
   - key: "PsychologicalFlexibilityForDissent"
     title: "Psychological Flexibility For Dissent / 不服从中的心理灵活性"
     url: "/wiki/concepts/psychologicalflexibilityfordissent/"

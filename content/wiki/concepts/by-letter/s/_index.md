@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7149
+wiki_total_pages: 7154
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "SelfConceptPlasticity"
     title: "Self-Concept Plasticity"
     url: "/wiki/concepts/selfconceptplasticity/"
+  - key: "SelfControlStrategyToolkit"
+    title: "Self-Control Strategy Toolkit"
+    url: "/wiki/concepts/selfcontrolstrategytoolkit/"
   - key: "SelfDefeatingResourceDrainStrategy"
     title: "Self-Defeating Resource-Drain Strategy / 疲敌反强敌"
     url: "/wiki/concepts/selfdefeatingresourcedrainstrategy/"

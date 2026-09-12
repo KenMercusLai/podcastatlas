@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita](sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751.md) — Huberman Lab episode with Kentaro Fujita on self-control beyond willpower, marshmallow-test context, psychological distance, strategy fit, abstinence versus moderation, intrinsic motivation, and goal disengagement.
 - [VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！](sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng.md) — 这病说来话长 episode with 子涵医生 on hantavirus subtype risk, rodent-borne transmission, pulmonary and renal syndrome red flags, cleanup prevention, vaccination scope, and official-information triage.
 - [李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活](sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp.md) — 罗永浩的十字路口 interview with Li Auto founder Li Xiang on agents in production, L9 LEVIUS, the M100 chip, autonomous driving, robotics, embodied intelligence, organization design, and overseas strategy.
 - [《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”](sources/zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl.md) — 芮淇讲透资治通鉴 short episode on Jianghu as renqing, face, relationship, virtual kinship, narrow righteousness, violence, wealth, and survival anxiety rather than simple fighting.
@@ -2286,6 +2287,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Kentaro Fujita](entities/KentaroFujita.md) — Psychology researcher whose Huberman Lab interview frames self-control as a context-sensitive strategy toolkit rather than willpower alone.
 - [子涵医生 / Zihan Doctor](entities/ZihanDoctor.md) — source-scoped medical guest explaining hantavirus risk, rodent-borne transmission, syndrome differences, prevention, and public-health information judgment.
 - [Li Xiang / 李想 (Li Auto)](entities/LiXiangLiAuto.md) — Li Auto founder explaining the company's AI, chip, autonomous-driving, robotics, organization, and overseas strategy.
 - [Li Auto L9 LEVIUS / 理想 L9 LEVIUS](entities/LiAutoL9Levius.md) — flagship SUV positioned as Li Auto's bridge from family comfort toward high-compute physical AI.
@@ -12127,6 +12129,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Self-Control Strategy Toolkit](concepts/SelfControlStrategyToolkit.md) — Self-control frame where attention, distance, meaning, environment, social framing, and strategy fit matter more than willpower alone.
+- [Psychological Distance Self-Control](concepts/PsychologicalDistanceSelfControl.md) — Self-control strategy using physical, temporal, social, or mental distance to make higher-order goals easier to act on.
+- [Marshmallow Test Context](concepts/MarshmallowTestContext.md) — Qualified reading of delayed-gratification experiments as shaped by trust, socioeconomic context, task setup, and learned strategy.
+- [Abstinence Moderation Self-Control](concepts/AbstinenceModerationSelfControl.md) — Goal-management choice between strict no-lapse rules and planned flexible engagement.
+- [Goal Disengagement And Reengagement](concepts/GoalDisengagementAndReengagement.md) — Self-control boundary where letting go of impossible goals supports well-being and new goal pursuit.
 - [Hantavirus Public Risk Triage](concepts/HantavirusPublicRiskTriage.md) — frame for judging hantavirus news by subtype, outbreak setting, reservoir, transmission route, syndrome, and information source.
 - [Rodent-Borne Infection Prevention](concepts/RodentBorneInfectionPrevention.md) — prevention frame around rodent exclusion, contaminated dust, wet disinfection, cleanup sequence, and avoiding wild-rodent exposure.
 - [Hemorrhagic Fever With Renal Syndrome Escalation](concepts/HemorrhagicFeverRenalSyndromeEscalation.md) — China-relevant hantavirus warning-sign frame for fever, exposure history, three reds and three pains, bleeding points, shock, and kidney injury.

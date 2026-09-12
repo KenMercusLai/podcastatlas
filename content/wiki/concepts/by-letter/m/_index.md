@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7149
+wiki_total_pages: 7154
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -266,6 +266,9 @@ wiki_pages:
   - key: "MarriageRitualOrthodoxy"
     title: "Marriage Ritual Orthodoxy / 婚姻礼法正当性"
     url: "/wiki/concepts/marriageritualorthodoxy/"
+  - key: "MarshmallowTestContext"
+    title: "Marshmallow Test Context"
+    url: "/wiki/concepts/marshmallowtestcontext/"
   - key: "MartyrdomStaging"
     title: "Martyrdom Staging"
     url: "/wiki/concepts/martyrdomstaging/"
