@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！](sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe.md) — 芮淇讲透资治通鉴 episode on Xiao Wangzhi's suicide after Xiao Ji's vindication petition, Hong Gong and Shi Xian's arrest trap, Han Yuandi's weak grief, and reputation-first political failure.
 - [《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史](sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp.md) — 芮淇讲透资治通鉴 episode on Han Yuandi abolishing Zhuya Commandery under famine and fiscal pressure, Hainan's looser post-abolition attachment, and Yuan-era thrift, Confucian education, and legal simplification.
 - [665. Britain in the 70s: The Bailout from Hell (Part 4)](sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819.md) — The Rest Is History episode on Jim Callaghan, Denis Healey, Britain's 1976 IMF crisis, Labour's economic split, and the Sex Pistols as punk-era crisis symbolism.
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
@@ -2310,6 +2311,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [弘恭 / Hong Gong (Western Han)](entities/HongGongWesternHan.md) — Yuan-era eunuch favorite paired with Shi Xian in Xiao Wangzhi's death case.
+- [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
 - [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after frontier unrest made direct rule too costly under famine and fiscal strain.
 - [Denis Healey](entities/DenisHealey.md) — British chancellor who argued for spending cuts and IMF negotiations during the 1976 sterling crisis.
 - [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with the alternative economic strategy during Britain's 1976 IMF crisis.
@@ -2360,7 +2363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高福波 / Gao Fubo](entities/GaoFubo.md) — Contemporary corruption example used to reject "穷怕了" as an excuse.
 - [石显 / Shi Xian (Western Han)](entities/ShiXianWesternHan.md) — Yuan-era eunuch power holder whose slander, trust formation, reward opposition, and collapse create feedback, cleanup, office-vacancy, and predecessor-blame problems.
 - [张谭 / Zhang Tan (Western Han)](entities/ZhangTanWesternHan.md) — Yushi Dafu paired with Kuang Heng in Wang Zun's early-Chengdi impeachment after Shi Xian's fall.
-- [萧望之 / Xiao Wangzhi (Western Han)](entities/XiaoWangzhiWesternHan.md) — Han Yuandi's teacher and early anti-Shi-Xian opponent whose fall removes a key restraint in Hanji 501.
+- [萧望之 / Xiao Wangzhi (Western Han)](entities/XiaoWangzhiWesternHan.md) — Han Yuandi's teacher and early anti-Shi-Xian opponent whose suicide follows vindication politics, eunuch manipulation, and reputation-first judgment.
 - [Huhanye Chanyu (Western Han)](entities/HuhanyeChanyuWesternHan.md) — Western Han Xiongnu ruler whose profile now spans a Hanji 493 border-defense withdrawal request and a Hanji 504 succession settlement.
 - [侯胤 / Hou Yin (Western Han)](entities/HouYinWesternHan.md) — Western Han official whose ten-part objection to withdrawing frontier defenses links Xiongnu submission, future leverage, border governance, and accumulated strategic infrastructure.
 - [Fuzhulei Ruodi Chanyu](entities/FuzhuleiRuodiChanyu.md) — Xiongnu successor Diaotao Mogao, chosen by Huhanye and later married to Wang Zhaojun in Hanji 504.

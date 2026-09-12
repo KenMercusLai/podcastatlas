@@ -32354,6 +32354,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "HongGongWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "HongKong": [
     {
       "key": "economics",
@@ -73423,6 +73430,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "XiaoJiWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "XiaoKuaiStandup": [

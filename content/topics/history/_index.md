@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1833
+topic_total_pages: 1835
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2945,6 +2945,9 @@ topic_entities:
   - key: "QinZhuangxiangwang"
     title: "异人 / 子楚 / 秦庄襄王 / King Zhuangxiang of Qin"
     url: "/wiki/entities/qinzhuangxiangwang/"
+  - key: "HongGongWesternHan"
+    title: "弘恭 / Hong Gong (Western Han)"
+    url: "/wiki/entities/honggongwesternhan/"
   - key: "ZhangChou"
     title: "张丑 / Zhang Chou"
     url: "/wiki/entities/zhangchou/"
@@ -3746,6 +3749,9 @@ topic_entities:
   - key: "XiaoCounty"
     title: "萧县 / Xiao County"
     url: "/wiki/entities/xiaocounty/"
+  - key: "XiaoJiWesternHan"
+    title: "萧吉 / Xiao Ji (Western Han)"
+    url: "/wiki/entities/xiaojiwesternhan/"
   - key: "XiaoWangzhiWesternHan"
     title: "萧望之 / Xiao Wangzhi (Western Han)"
     url: "/wiki/entities/xiaowangzhiwesternhan/"

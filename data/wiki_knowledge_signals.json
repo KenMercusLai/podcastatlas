@@ -41489,9 +41489,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -41590,9 +41590,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
           "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！ [lof1c5NCtAli_Zsy0hotQyoCjgoE].md",
+          "key": "zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/hanyuandi/"
     },
     "HanZhongLiaodongLateHan": {
@@ -43537,6 +43544,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/honeycrisp/"
+    },
+    "HongGongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！ [lof1c5NCtAli_Zsy0hotQyoCjgoE].md",
+          "key": "zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/honggongwesternhan/"
     },
     "HongKong": {
       "episode_count": 7,
@@ -84254,9 +84277,9 @@
       "url": "/wiki/entities/shilifen/"
     },
     "ShiXianWesternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -84313,9 +84336,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！ [lof1c5NCtAli_Zsy0hotQyoCjgoE].md",
+          "key": "zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/shixianwesternhan/"
     },
     "ShiYanLateHan": {
@@ -93761,9 +93791,9 @@
       "url": "/wiki/concepts/trustbasedcommonsgovernance/"
     },
     "TrustedEunuchPowerFormation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -93799,9 +93829,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》495丨西汉名将PK阉人宠臣，硬碰硬谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！ [lof1c5NCtAli_Zsy0hotQyoCjgoE].md",
+          "key": "zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/trustedeunuchpowerformation/"
     },
     "TruthSeekingDebateNorm": {
@@ -101783,6 +101820,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/xiaohuozinittanwuyu/"
     },
+    "XiaoJiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！ [lof1c5NCtAli_Zsy0hotQyoCjgoE].md",
+          "key": "zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/xiaojiwesternhan/"
+    },
     "XiaoKuaiStandup": {
       "episode_count": 1,
       "show_count": 1,
@@ -101848,9 +101901,9 @@
       "url": "/wiki/entities/xiaosiye/"
     },
     "XiaoWangzhiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？ [lmL1Qwuw3iUjoBNltBjYMEyOjd4g].md",
@@ -101858,9 +101911,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！ [lof1c5NCtAli_Zsy0hotQyoCjgoE].md",
+          "key": "zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/xiaowangzhiwesternhan/"
     },
     "XiaoXianWesternHan": {
@@ -110509,9 +110569,9 @@
       "url": "/wiki/entities/zhuyulatehan/"
     },
     "ZhuYunWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？ [lsKFkw_UDnItdfZzg1LW8b1ch3SI].md",
@@ -110519,9 +110579,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》549丨如果有人骂鄙夫，你知道啥意思不？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-549-ruguo-youren-ma-bifu-ni-zhidao-sha-yisi-bu-lskfkw_udnitdfzzg1lw8b1ch3si/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！ [lof1c5NCtAli_Zsy0hotQyoCjgoE].md",
+          "key": "zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/zhuyunwesternhan/"
     },
     "ZhuYunde": {

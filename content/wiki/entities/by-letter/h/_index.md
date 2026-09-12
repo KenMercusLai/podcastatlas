@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9879
+wiki_total_pages: 9881
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "HansChristianAndersen"
     title: "安徒生 / Hans Christian Andersen"
     url: "/wiki/entities/hanschristianandersen/"
+  - key: "HongGongWesternHan"
+    title: "弘恭 / Hong Gong (Western Han)"
+    url: "/wiki/entities/honggongwesternhan/"
   - key: "HuzuoHuyou"
     title: "忽左忽右 / Huzuo Huyou"
     url: "/wiki/entities/huzuohuyou/"

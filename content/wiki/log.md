@@ -6,6 +6,12 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！
+
+- Added source note `wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe.md`.
+- Created `HongGongWesternHan` and `XiaoJiWesternHan` entity pages.
+- Updated Xiao Wangzhi, Shi Xian, Han Yuandi, Zhu Yun, and Trusted Eunuch Power Formation.
+
 ## [2026-09-12] ingest | Essentials: Control Sugar Cravings & Metabolism with Science-Based Tools
 
 Added source `essentials-control-sugar-cravings-metabolism-with-science-based-tools-scim2821501065`; created `SugarCravingNeuralControl` and `GlycemicResponseToolBoundary`; updated `PracticalSugarControl`, `DopamineWantingLoop`, `SleepAsDailyHealthAccount`, `HubermanLab`, `AndrewHuberman`, `index`, and `overview`. No settled contradiction found; glutamine, lemon/lime juice, cinnamon, berberine, metformin, glibenclamide, sodium caprate, CGM self-experimentation, and sleep-metabolism claims remain source-scoped public education rather than individualized medical advice.
@@ -18452,6 +18458,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
 
