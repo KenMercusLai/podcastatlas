@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9883
+wiki_total_pages: 9885
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -53,6 +53,9 @@ wiki_pages:
   - key: "CalculatingEmpires"
     title: "Calculating Empires"
     url: "/wiki/entities/calculatingempires/"
+  - key: "CalDOGE"
+    title: "CalDOGE"
+    url: "/wiki/entities/caldoge/"
   - key: "Calico"
     title: "Calico"
     url: "/wiki/entities/calico/"

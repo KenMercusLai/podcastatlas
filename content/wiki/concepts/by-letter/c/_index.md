@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7209
+wiki_total_pages: 7213
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -47,12 +47,24 @@ wiki_pages:
   - key: "CaliforniaAB1709"
     title: "California AB 1709"
     url: "/wiki/concepts/californiaab1709/"
+  - key: "CaliforniaAffordabilityGovernanceReset"
+    title: "California Affordability Governance Reset"
+    url: "/wiki/concepts/californiaaffordabilitygovernancereset/"
+  - key: "CaliforniaBuildingCostCapture"
+    title: "California Building Cost Capture"
+    url: "/wiki/concepts/californiabuildingcostcapture/"
   - key: "CaliforniaDeleteAct"
     title: "California Delete Act"
     url: "/wiki/concepts/californiadeleteact/"
+  - key: "CaliforniaEnergyPermittingPolitics"
+    title: "California Energy Permitting Politics"
+    url: "/wiki/concepts/californiaenergypermittingpolitics/"
   - key: "CaliforniaFiscalFragility"
     title: "California Fiscal Fragility"
     url: "/wiki/concepts/californiafiscalfragility/"
+  - key: "CaliforniaHomelessnessEnforcementTreatment"
+    title: "California Homelessness Enforcement Treatment"
+    url: "/wiki/concepts/californiahomelessnessenforcementtreatment/"
   - key: "CaliforniaPostFireRebuildingDelay"
     title: "California Post-Fire Rebuilding Delay"
     url: "/wiki/concepts/californiapostfirerebuildingdelay/"

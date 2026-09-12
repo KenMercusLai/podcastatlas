@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win](sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000.md) — All-In interview with Steve Hilton on his California governor campaign, affordability tax plan, CalDOGE, housing costs, energy permitting, schools, crime, homelessness, and blue-state Republican electoral math.
 - [《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！](sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe.md) — 芮淇讲透资治通鉴 episode on Xiao Wangzhi's suicide after Xiao Ji's vindication petition, Hong Gong and Shi Xian's arrest trap, Han Yuandi's weak grief, and reputation-first political failure.
 - [《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？](sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l.md) — 芮淇讲透资治通鉴 episode on Jia Juanzhi's "弃珠崖议", Zhuya and Dan'er suppression costs, Yu Dingguo's support for abandonment, and the host's modern territorial-security counterweight.
 - [《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史](sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp.md) — 芮淇讲透资治通鉴 episode on Han Yuandi abolishing Zhuya Commandery under famine and fiscal pressure, Hainan's looser post-abolition attachment, and Yuan-era thrift, Confucian education, and legal simplification.
@@ -2314,6 +2315,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [CalDOGE](entities/CalDOGE.md) — Steve Hilton's campaign-branded California government-efficiency project for spending audits and waste claims.
+- [Herb Morgan](entities/HerbMorgan.md) — California controller candidate Hilton presents as the audit and payment-control partner for CalDOGE.
 - [谷吉 / Gu Ji (Western Han)](entities/GuJiWesternHan.md) — Western Han envoy killed after insisting on escorting Zhizhi Chanyu's hostage son to the chanyu's court despite warnings.
 - [弘恭 / Hong Gong (Western Han)](entities/HongGongWesternHan.md) — Yuan-era eunuch favorite paired with Shi Xian in Xiao Wangzhi's death case.
 - [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
@@ -12201,6 +12204,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [California Affordability Governance Reset](concepts/CaliforniaAffordabilityGovernanceReset.md) — Hilton campaign frame connecting tax relief, spending restraint, audits, housing, energy, schools, crime, homelessness, and a change-election strategy.
+- [California Building Cost Capture](concepts/CaliforniaBuildingCostCapture.md) — Hilton's source-scoped claim that litigation, fees, labor rules, building mandates, and union influence inflate California housing costs.
+- [California Energy Permitting Politics](concepts/CaliforniaEnergyPermittingPolitics.md) — Hilton's argument that gubernatorial control over energy permitting could shift California oil production and household energy costs.
+- [California Homelessness Enforcement Treatment](concepts/CaliforniaHomelessnessEnforcementTreatment.md) — Hilton's statewide homelessness frame combining encampment enforcement, addiction treatment, mental-health capacity, sober-service rules, and jail fallback.
 - [有勇无谋决策风险 / Reckless Courage Decision Risk](concepts/RecklessCourageDecisionRisk.md) — Failure mode where willingness to face danger outruns planning, timing, and realistic task completion.
 - [引强援反噬风险 / Dangerous Ally Invitation Risk](concepts/DangerousAllyInvitationRisk.md) — Alliance risk where inviting a powerful outsider against one enemy imports a larger uncontrollable threat.
 - [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, IMF, austerity, and Labour cabinet crisis treated as a turning point in British economic governance.

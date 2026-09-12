@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1049
+topic_total_pages: 1050
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -223,6 +223,9 @@ topic_concepts:
   - key: "CaffeineAdenosineSleepTiming"
     title: "Caffeine-Adenosine Sleep Timing"
     url: "/wiki/concepts/caffeineadenosinesleeptiming/"
+  - key: "CaliforniaEnergyPermittingPolitics"
+    title: "California Energy Permitting Politics"
+    url: "/wiki/concepts/californiaenergypermittingpolitics/"
   - key: "CapabilityGapSelfDiagnosis"
     title: "Capability Gap Self-Diagnosis"
     url: "/wiki/concepts/capabilitygapselfdiagnosis/"

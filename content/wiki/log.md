@@ -18478,7 +18478,15 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win
+
+Added All-In source on Steve Hilton's California governor campaign, affordability platform, CalDOGE, housing-cost capture, energy permitting, schools, crime, homelessness, and 2026 top-two electoral strategy.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

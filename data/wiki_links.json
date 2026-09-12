@@ -9651,6 +9651,10 @@
     "title": "财新传媒 / Caixin Media",
     "url": "/wiki/entities/caixinmedia/"
   },
+  "CalDOGE": {
+    "title": "CalDOGE",
+    "url": "/wiki/entities/caldoge/"
+  },
   "CalculatedPublics": {
     "title": "Calculated Publics / 计算出的公众",
     "url": "/wiki/concepts/calculatedpublics/"
@@ -9679,6 +9683,14 @@
     "title": "California AB 1709",
     "url": "/wiki/concepts/californiaab1709/"
   },
+  "CaliforniaAffordabilityGovernanceReset": {
+    "title": "California Affordability Governance Reset",
+    "url": "/wiki/concepts/californiaaffordabilitygovernancereset/"
+  },
+  "CaliforniaBuildingCostCapture": {
+    "title": "California Building Cost Capture",
+    "url": "/wiki/concepts/californiabuildingcostcapture/"
+  },
   "CaliforniaCoastalCommission": {
     "title": "California Coastal Commission",
     "url": "/wiki/entities/californiacoastalcommission/"
@@ -9687,9 +9699,17 @@
     "title": "California Delete Act",
     "url": "/wiki/concepts/californiadeleteact/"
   },
+  "CaliforniaEnergyPermittingPolitics": {
+    "title": "California Energy Permitting Politics",
+    "url": "/wiki/concepts/californiaenergypermittingpolitics/"
+  },
   "CaliforniaFiscalFragility": {
     "title": "California Fiscal Fragility",
     "url": "/wiki/concepts/californiafiscalfragility/"
+  },
+  "CaliforniaHomelessnessEnforcementTreatment": {
+    "title": "California Homelessness Enforcement Treatment",
+    "url": "/wiki/concepts/californiahomelessnessenforcementtreatment/"
   },
   "CaliforniaPostFireRebuildingDelay": {
     "title": "California Post-Fire Rebuilding Delay",
@@ -27258,6 +27278,10 @@
   "Heraclitus": {
     "title": "Heraclitus / 赫拉克利特",
     "url": "/wiki/entities/heraclitus/"
+  },
+  "HerbMorgan": {
+    "title": "Herb Morgan",
+    "url": "/wiki/entities/herbmorgan/"
   },
   "HerbalSupplementLiverToxicity": {
     "title": "Herbal Supplement Liver Toxicity",
@@ -70014,6 +70038,10 @@
   "all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165": {
     "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
     "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-bryan-johnson-i-just-took-the-most-powerful-dose-of-dmt-in-the-world-heres-what-it-was-like-40626165/"
+  },
+  "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000": {
+    "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+    "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
   },
   "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305": {
     "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",

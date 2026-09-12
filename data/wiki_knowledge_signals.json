@@ -12099,6 +12099,54 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/caixinmedia/"
     },
+    "CalDOGE": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win [41057000].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/caldoge/"
+    },
+    "CaliforniaAffordabilityGovernanceReset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win [41057000].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/californiaaffordabilitygovernancereset/"
+    },
+    "CaliforniaBuildingCostCapture": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win [41057000].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/californiabuildingcostcapture/"
+    },
     "CaliforniaDeleteAct": {
       "episode_count": 2,
       "show_count": 1,
@@ -12122,6 +12170,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/concepts/californiadeleteact/"
     },
+    "CaliforniaEnergyPermittingPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win [41057000].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/californiaenergypermittingpolitics/"
+    },
     "CaliforniaFiscalFragility": {
       "episode_count": 1,
       "show_count": 1,
@@ -12137,6 +12201,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/californiafiscalfragility/"
+    },
+    "CaliforniaHomelessnessEnforcementTreatment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win [41057000].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/californiahomelessnessenforcementtreatment/"
     },
     "CaliforniaPrivacyProtectionAgency": {
       "episode_count": 1,
@@ -42756,6 +42836,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/herfilm/"
+    },
+    "HerbMorgan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win [41057000].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/herbmorgan/"
     },
     "HerbertSimon": {
       "episode_count": 1,
@@ -87474,6 +87570,29 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/stevebernard/"
+    },
+    "SteveHilton": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Adam Carolla on California’s Collapse： Fires, Failed Leadership, and Gyno-Fascism [39710360].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Adam Carolla on California's Collapse: Fires, Failed Leadership, and Gyno-Fascism",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-adam-carolla-on-californias-collapse-fires-failed-leadership-and-gyno-fascism-39710360/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win [41057000].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/stevehilton/"
     },
     "SteveShiDiFuShuoHost": {
       "episode_count": 8,

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2440
+topic_total_pages: 2445
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -463,6 +463,12 @@ topic_concepts:
   - key: "CableLandingPointSecurity"
     title: "Cable Landing Point Security"
     url: "/wiki/concepts/cablelandingpointsecurity/"
+  - key: "CaliforniaAffordabilityGovernanceReset"
+    title: "California Affordability Governance Reset"
+    url: "/wiki/concepts/californiaaffordabilitygovernancereset/"
+  - key: "CaliforniaBuildingCostCapture"
+    title: "California Building Cost Capture"
+    url: "/wiki/concepts/californiabuildingcostcapture/"
   - key: "CampaignSpendingArmsRace"
     title: "Campaign Spending Arms Race"
     url: "/wiki/concepts/campaignspendingarmsrace/"
@@ -4373,6 +4379,9 @@ topic_entities:
   - key: "BusinessRoundtable"
     title: "Business Roundtable"
     url: "/wiki/entities/businessroundtable/"
+  - key: "CalDOGE"
+    title: "CalDOGE"
+    url: "/wiki/entities/caldoge/"
   - key: "Carbon180"
     title: "Carbon180"
     url: "/wiki/entities/carbon180/"
@@ -4835,6 +4844,9 @@ topic_entities:
   - key: "HenryMcMaster"
     title: "Henry McMaster"
     url: "/wiki/entities/henrymcmaster/"
+  - key: "HerbMorgan"
+    title: "Herb Morgan"
+    url: "/wiki/entities/herbmorgan/"
   - key: "HeritageFoundation"
     title: "Heritage Foundation"
     url: "/wiki/entities/heritagefoundation/"
@@ -6645,6 +6657,9 @@ topic_sources:
   - key: "tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128"
     title: "Bytes: Week in Review - SpaceX's IPO, Iran threatens U.S. tech firms and California's new AI executive order"
     url: "/wiki/sources/tech-20260403-0403-mp-tech-pod-128-tech-20260403-0403-mp-tech-pod-128/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000"
+    title: "CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305"
     title: "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305/"

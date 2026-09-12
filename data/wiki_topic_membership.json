@@ -13063,6 +13063,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "CalDOGE": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CalculatingEmpires": [
     {
       "key": "technology",
@@ -13083,6 +13090,27 @@
     }
   ],
   "California": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "CaliforniaAffordabilityGovernanceReset": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "CaliforniaBuildingCostCapture": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "CaliforniaEnergyPermittingPolitics": [
     {
       "key": "science",
       "label": "Science",
@@ -31761,6 +31789,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "HerbMorgan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "HerbalSupplementLiverToxicity": [
@@ -77305,6 +77340,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters-42134305": [
