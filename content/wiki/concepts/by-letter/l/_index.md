@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7115
+wiki_total_pages: 7117
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "LiteraryTravelAsCareerStrategy"
     title: "文人漫游作为仕途策略 / Literary Travel As Career Strategy"
     url: "/wiki/concepts/literarytravelascareerstrategy/"
+  - key: "LegalComplexityDiscretionPower"
+    title: "法律繁密与裁量权力 / Legal Complexity Discretion Power"
+    url: "/wiki/concepts/legalcomplexitydiscretionpower/"
   - key: "LiveHumanFeeling"
     title: "活人感 / Live Human Feeling"
     url: "/wiki/concepts/livehumanfeeling/"

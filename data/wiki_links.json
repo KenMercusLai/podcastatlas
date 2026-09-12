@@ -28991,6 +28991,10 @@
     "title": "Imperial Deposition Coup Risk / 废立政变风险",
     "url": "/wiki/concepts/imperialdepositioncouprisk/"
   },
+  "ImperialEdictImplementationResistance": {
+    "title": "诏令执行阻抗 / Imperial Edict Implementation Resistance",
+    "url": "/wiki/concepts/imperialedictimplementationresistance/"
+  },
   "ImperialExaminationAsOnlyExit": {
     "title": "Imperial Examination As Only Exit",
     "url": "/wiki/concepts/imperialexaminationasonlyexit/"
@@ -34294,6 +34298,10 @@
   "LegalAgentOrchestration": {
     "title": "Legal Agent Orchestration",
     "url": "/wiki/concepts/legalagentorchestration/"
+  },
+  "LegalComplexityDiscretionPower": {
+    "title": "法律繁密与裁量权力 / Legal Complexity Discretion Power",
+    "url": "/wiki/concepts/legalcomplexitydiscretionpower/"
   },
   "LegalDataCompleteness": {
     "title": "Legal Data Completeness",
@@ -66031,6 +66039,10 @@
     "title": "《遗忘的世界：失智老人的照护图景》",
     "url": "/wiki/entities/yiwangdeshijiedementiacarebook/"
   },
+  "YiYanMoyan": {
+    "title": "一言莫衍 / Yi Yan Moyan",
+    "url": "/wiki/entities/yiyanmoyan/"
+  },
   "Yibin": {
     "title": "Yibin / 宜宾",
     "url": "/wiki/entities/yibin/"
@@ -73794,6 +73806,10 @@
   "zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3": {
     "title": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3/"
+  },
+  "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4": {
+    "title": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
   },
   "zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb": {
     "title": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！",

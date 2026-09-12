@@ -2064,6 +2064,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？
+
+Added source note, created Yi Yan Moyan, Legal Complexity Discretion Power, and Imperial Edict Implementation Resistance, and updated Gu Yong and Du Qin with the Xiongnu defection-restraint case.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？
 
 Added source note for Hanji 522, created DeniablePatronageSignaling, and extended Liu Xiang, Wang Yin, and outer-relative preventive restraint around Wang-family appointment networks, Liu-kin exclusion, and Liu Xiang's unadopted secret memorial.
@@ -18017,6 +18021,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

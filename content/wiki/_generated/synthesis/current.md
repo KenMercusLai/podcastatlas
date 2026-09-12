@@ -4,11 +4,11 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-12
-as_of_overview_commit: 6dd0c36177db0a47f7c063b83a616b1a174944ec
-summary: "Podcast Atlas maps how capability becomes durable through institutions, media forms, workflows, infrastructure, embodied practice, and judgment."
-episode_count: 2239
-source_count: 2239
-paragraph_count: 611
+as_of_overview_commit: 0d8f0f32ea86af4b793f4a8864892b57cbc3f74e
+summary: "Podcast Atlas maps durable capability through institutions, media forms, workflows, infrastructure, embodied practice, and judgment."
+episode_count: 2250
+source_count: 2250
+paragraph_count: 612
 topic_count: 8
 ---
 
@@ -57,7 +57,7 @@ Governance and institutions sources show that legitimacy, appointments, rituals,
 
 ### History and Geopolitics
 
-History and geopolitics sources connect routes, borders, logistics, military tempo, and material control to the practical limits of formal claims and strategic ambition.
+History and geopolitics sources connect routes, borders, logistics, legal process, military tempo, and material control to the practical limits of formal claims and strategic ambition.
 
 - [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone. Evidence: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]].
 - [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand. Evidence: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]], [[QinCollapseOverextension]], [[ChuHanWarDemythologizing]], [[EurasianMilitaryTechnologyExchange]], [[ZhangShiping]], [[ZhuluQinHanBook]], [[HanCavalryFormation]].

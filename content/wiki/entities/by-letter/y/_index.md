@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9799
+wiki_total_pages: 9800
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -323,6 +323,9 @@ wiki_pages:
   - key: "Yihaodian"
     title: "一号店 / Yihaodian"
     url: "/wiki/entities/yihaodian/"
+  - key: "YiYanMoyan"
+    title: "一言莫衍 / Yi Yan Moyan"
+    url: "/wiki/entities/yiyanmoyan/"
   - key: "YijianCiwo"
     title: "一间次卧 / Yijian Ciwo"
     url: "/wiki/entities/yijianciwo/"

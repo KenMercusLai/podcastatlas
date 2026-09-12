@@ -24251,9 +24251,9 @@
       "url": "/wiki/entities/duqiaolatehan/"
     },
     "DuQinWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
@@ -24261,6 +24261,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？ [ljxeBrOllq4YYDNMG8oToCCkmtH4].md",
+          "key": "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
         }
       ],
       "updated": "2026-09-12",
@@ -37920,9 +37927,9 @@
       "url": "/wiki/concepts/growthwitnessing/"
     },
     "GuYongWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -37972,6 +37979,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？ [ljxeBrOllq4YYDNMG8oToCCkmtH4].md",
+          "key": "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
         }
       ],
       "updated": "2026-09-12",
@@ -45051,6 +45065,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/imperialdeathconcealment/"
     },
+    "ImperialEdictImplementationResistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？ [ljxeBrOllq4YYDNMG8oToCCkmtH4].md",
+          "key": "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/imperialedictimplementationresistance/"
+    },
     "ImperialFuneraryPreservation": {
       "episode_count": 1,
       "show_count": 1,
@@ -51306,6 +51336,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/concepts/legalagentorchestration/"
+    },
+    "LegalComplexityDiscretionPower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？ [ljxeBrOllq4YYDNMG8oToCCkmtH4].md",
+          "key": "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/legalcomplexitydiscretionpower/"
     },
     "LegalDataCompleteness": {
       "episode_count": 1,
@@ -101047,6 +101093,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/yiwangdeshijiedementiacarebook/"
+    },
+    "YiYanMoyan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？ [ljxeBrOllq4YYDNMG8oToCCkmtH4].md",
+          "key": "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yiyanmoyan/"
     },
     "YidaiZhao": {
       "episode_count": 1,

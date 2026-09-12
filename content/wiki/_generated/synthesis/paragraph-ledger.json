@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "9d6372895427c4963d44e56cda4e1aa55cbe0de8e67e9d65d5e2d6970db86e5e",
       "8f9d80e5dfd0b2cf05c45c3812f18fc015279efc7a905daf7ed7929012aab77d",
       "feef603f3c7a9d391e9d2369a93f67d5d89e86ec593af71ed8bf2914163a54e9",
       "291d15beef045042289843161eecd8de36591632c4f11cac9bc3553797427abc",
@@ -613,11 +614,34 @@
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108"
     ],
-    "paragraph_count": 611
+    "paragraph_count": 612
   },
-  "overview_commit": "de5677782823d323630d02ed3578918b57232361",
-  "overview_digest": "67c98219713d7726c091be9a7f0482fce398f8237848e3a0b9696729497758ac",
+  "overview_commit": "0d8f0f32ea86af4b793f4a8864892b57cbc3f74e",
+  "overview_digest": "4c866e80804c293339739535f87f70b89c930fef160c5e21044a93fe32471b10",
   "paragraphs": [
+    {
+      "id": "9d6372895427c4963d44e56cda4e1aa55cbe0de8e67e9d65d5e2d6970db86e5e",
+      "primary_topic": "history-and-geopolitics",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling Heping 1-2 / 28-27 BCE under [[HanChengdi|汉成帝]]. It adds [[YiYanMoyan|一言莫衍]], [[LegalComplexityDiscretionPower|法律繁密与裁量权力]], and [[ImperialEdictImplementationResistance|诏令执行阻抗]], while extending [[GuYongWesternHan|谷永]], [[DuQinWesternHan|杜钦]], [[Xiongnu|匈奴]], and [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]]. Its core synthesis is that Chengdi's legal-simplification edict fails because technical workload and official discretion incentives can hollow out a ruler's command, while the Xiongnu defection case shows Gu Yong and Du Qin preserving frontier trust by refusing an apparently useful surrender. No settled contradiction is recorded; Chengdi's cultural achievements, the officials' exact motives, and Yi Yan Moyan's true intent remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 2,
+        "psychology-and-personal-development": 1
+      },
+      "wikilinks": [
+        "DuQinWesternHan",
+        "FrontierRecognitionCredibilityTradeoff",
+        "GuYongWesternHan",
+        "HanChengdi",
+        "ImperialEdictImplementationResistance",
+        "LegalComplexityDiscretionPower",
+        "RuiqiJiangtouZizhiTongjian",
+        "Xiongnu",
+        "YiYanMoyan",
+        "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4"
+      ]
+    },
     {
       "id": "8f9d80e5dfd0b2cf05c45c3812f18fc015279efc7a905daf7ed7929012aab77d",
       "primary_topic": "history-and-geopolitics",

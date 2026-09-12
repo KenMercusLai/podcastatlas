@@ -3,18 +3,30 @@
 generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
-last_updated: 2026-09-11
-as_of_overview_commit: 35c61bd71985945e9f5ba674b0665880f2cafa1d
-input_digest: f2945ee512d946d95e3d4796b0002ae54246b454ed9b5f6bb36c6abf984dee8c
+last_updated: 2026-09-12
+as_of_overview_commit: 0d8f0f32ea86af4b793f4a8864892b57cbc3f74e
+input_digest: 295de04e9332763ba5e8239b4e4f6350fe9bef053887e5a621360eb48c7db825
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-The Hanji 590 source adds a late-Western-Han frontier-diplomacy layer: Yang Xiong frames Xiongnu reception as credibility maintenance and prevention infrastructure, not ceremony or avoidable cost. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, and late-Xin branches keep emphasizing that geography, legitimacy, military capacity, public memory, and institutional afterlives interact across time. Hanji 575 adds the preceding Jianping 1 layer before the later Ding/Fu settlement, showing how succession lineage, court secrecy, and ministerial punishment shaped late Western Han factional chronology.
+Hanji 510 adds a late-Western-Han backfill where Chengdi's legal-simplification edict stalls against workload and official-discretion incentives, while Gu Yong and Du Qin refuse a Xiongnu envoy's defection to preserve frontier trust. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, late-Xin, and late-Western-Han diplomacy branches keep emphasizing that geography, legitimacy, military capacity, public memory, legal process, and institutional afterlives interact across time.
 
 ## Cross-source Findings
+
+### Hanji 510 Legal Simplification And Xiongnu Defection Restraint
+
+[[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] backfills Heping 1-2 under [[HanChengdi|汉成帝]]: Chengdi's law-simplification edict becomes a case of [[ImperialEdictImplementationResistance|edict implementation resistance]] and [[LegalComplexityDiscretionPower|legal complexity as official discretion]], while [[GuYongWesternHan|谷永]] and [[DuQinWesternHan|杜钦]] advise refusing [[YiYanMoyan|一言莫衍]]'s Xiongnu defection to protect wider [[Xiongnu|匈奴]] trust.
+
+**Evidence:** [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4]], [[HanChengdi]], [[ImperialEdictImplementationResistance]], [[LegalComplexityDiscretionPower]], [[GuYongWesternHan]], [[DuQinWesternHan]], [[YiYanMoyan]], [[Xiongnu]], [[FrontierRecognitionCredibilityTradeoff]]
+
+**Qualifications:**
+
+- This is a source-scoped late-Western-Han backfill from one podcast episode note.
+- Chengdi's cultural achievements, the exact legal-reform office process, and Yi Yan Moyan's true motive remain source-scoped.
+- The implementation-resistance explanation is the episode's institutional analysis rather than a complete bureaucratic record.
 
 ### Hanji 553 Office Restoration Masks Command Removal
 

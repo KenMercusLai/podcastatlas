@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2402
+topic_total_pages: 2406
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3838,6 +3838,9 @@ topic_concepts:
   - key: "PreventiveFrontierGovernance"
     title: "治未病式边疆治理 / Preventive Frontier Governance"
     url: "/wiki/concepts/preventivefrontiergovernance/"
+  - key: "LegalComplexityDiscretionPower"
+    title: "法律繁密与裁量权力 / Legal Complexity Discretion Power"
+    url: "/wiki/concepts/legalcomplexitydiscretionpower/"
   - key: "FactionalAlignmentExitCapital"
     title: "派系站队退出资本 / Factional Alignment Exit Capital"
     url: "/wiki/concepts/factionalalignmentexitcapital/"
@@ -3949,6 +3952,9 @@ topic_concepts:
   - key: "XihaiExileAdministrativeBurden"
     title: "西海郡流放和法令增殖 / Xihai Exile Administrative Burden"
     url: "/wiki/concepts/xihaiexileadministrativeburden/"
+  - key: "ImperialEdictImplementationResistance"
+    title: "诏令执行阻抗 / Imperial Edict Implementation Resistance"
+    url: "/wiki/concepts/imperialedictimplementationresistance/"
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"
@@ -6026,6 +6032,9 @@ topic_entities:
   - key: "TheLeftHandOfDarkness"
     title: "《黑暗的左手》 / The Left Hand of Darkness"
     url: "/wiki/entities/thelefthandofdarkness/"
+  - key: "YiYanMoyan"
+    title: "一言莫衍 / Yi Yan Moyan"
+    url: "/wiki/entities/yiyanmoyan/"
   - key: "SanlianLifeWeekly"
     title: "三联生活周刊 / Sanlian Life Weekly"
     url: "/wiki/entities/sanlianlifeweekly/"
@@ -7059,6 +7068,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4"
+    title: "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
   - key: "zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p"
     title: "《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！"
     url: "/wiki/sources/zizhi-tongjian-hanji-527-2-choujinbapi-gudai-de-renfanzi-zhen-huogai-ljfol4zmcqwewv5h4z4rby5vfw5p/"

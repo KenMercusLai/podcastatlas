@@ -33759,6 +33759,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ImperialEdictImplementationResistance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ImperialExaminationAsOnlyExit": [
     {
       "key": "culture",
@@ -39184,6 +39191,13 @@
       "label": "Technology",
       "url": "/topics/technology/"
     },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "LegalComplexityDiscretionPower": [
     {
       "key": "politics",
       "label": "Politics",
@@ -73843,6 +73857,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "YiYanMoyan": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "YieldCurveInversion": [
     {
       "key": "economics",
@@ -82967,6 +82988,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4": [
     {
       "key": "politics",
       "label": "Politics",
