@@ -11,7 +11,8 @@ sources:
   - your-top-health-questions-answered-scim2882548864
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982
-last_updated: 2026-09-05
+  - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
+last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -27,6 +28,8 @@ The practical synthesis is indirect control. A person cannot force sleep itself,
 
 Sleep-stage architecture sharpens the internal model: sleep is made of stages with different functions. Early slow-wave sleep supports restoration, growth hormone, energy rebuilding, cleanup, and memory transfer; stage-two spindles support memory movement and schema formation; later REM-rich sleep supports creativity and emotional-memory processing. This makes regularity meaningful, while still keeping normal nighttime waking and imperfect trackers from becoming anxiety triggers.
 
+A social-jetlag layer adds that sleep's daily account is held inside institutions and built environments. A person may not be failing at sleep so much as living through mismatched work hours, school starts, dim indoor days, bright nights, late meals, suppressed bowel routines, and late exercise. That makes body feedback important: the account is not improved by chasing a score if the score increases anxiety or if optimization routines ignore the body's timing signals.
+
 ## Key Claims
 - Sleep is a daily account: missed or disrupted sleep affects next-day cognition, emotion, training recovery, immune repair, memory, and metabolic regulation.
 - Sleep supports learning because slow-wave, stage-two spindle, and REM processes are linked to memory transfer, schema formation, and synaptic change.
@@ -34,7 +37,7 @@ Sleep-stage architecture sharpens the internal model: sleep is made of stages wi
 - Sleep duration, regularity, quality, continuity, and stage architecture matter together; a single exact number should not become an anxiety trigger.
 - Measurement tools can help when they guide better conditions, but sleep scores can also intensify vigilance, especially when parents monitor children.
 - Sleep can function as a bodily boundary against continuous productivity and platform stimulation.
-- Sleep-stage physiology adds that early-night and later-night windows may support different restoration, creativity, and emotional-processing functions.
+- Sleep-stage physiology and social timing both matter: early-night and later-night windows support different functions, while work, school, light environments, meals, bowel routines, exercise timing, and monitoring culture shape whether those windows are protected.
 
 ## Evidence
 - Learning and sleep cycles - [[yong-ai-rang-women-bianbenle-ma-s10e25-a6b360da-07f7-4d9e-ab1b-64a7130e9254]] links slow-wave sleep, REM sleep, hippocampal-cortical transfer, synaptic reinforcement, alcohol disruption, and body-temperature differences to memory-supportive sleep.
@@ -45,14 +48,16 @@ Sleep-stage architecture sharpens the internal model: sleep is made of stages wi
 - Q&A practice layer - [[your-top-health-questions-answered-scim2882548864]] reinforces morning light, caffeine avoidance near sleep, post-workout downshifting, long-exhale breathing, hot showers, and appropriate evening food as ways to support sleep under real constraints.
 - Sleep-toolkit practice layer - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] organizes morning sunlight, afternoon light, evening darkness, hot-then-cool temperature shifts, caffeine delay, alcohol/THC sleep-architecture caution, supplement hierarchy, melatonin caution, wake-time consistency, and [[TemperatureMinimumClockShifting]] into one 24-hour sleep routine.
 - Stage-architecture mechanism - [[essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982]] links early slow-wave sleep, spindles, REM sleep, growth hormone, brain cleanup, creativity, normal awakenings, tracker limits, and emotional-memory processing into a stage-specific model.
+- Social-jetlag layer - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] links poor sleep to social schedules, indoor light, screens, adolescent school starts, food timing, bowel routines, late exercise, and sleep-score anxiety.
 
 ## Counterevidence & Qualifications
-The sources do not provide a universal prescription for sleep duration, sleep technology, bedroom temperature, caffeine cutoff, supplement choice, melatonin use, THC use, red-light exposure, jet-lag strategy, post-workout meal timing, growth-hormone optimization, sleep-stage tracking, or trauma treatment. Sleep problems can reflect medical, psychiatric, medication, occupational, caregiving, menopause-related, pediatric, substance-related, trauma-related, or environmental factors that need context. Sleep tracking and sleep protocols should remain tools for changing conditions, not obligations to optimize every metric.
+The sources do not provide a universal prescription for sleep duration, sleep technology, bedroom temperature, caffeine cutoff, supplement choice, melatonin use, THC use, red-light exposure, jet-lag strategy, post-workout meal timing, growth-hormone optimization, sleep-stage tracking, school scheduling, bowel-health treatment, or trauma treatment. Sleep problems can reflect medical, psychiatric, medication, occupational, caregiving, menopause-related, pediatric, substance-related, trauma-related, institutional, or environmental factors that need context. Sleep tracking and sleep protocols should remain tools for changing conditions, not obligations to optimize every metric.
 
 ## What Changed
 - Added Gina Poe's stage-architecture source to the existing sleep account.
 - Integrated early slow-wave restoration, spindle-based memory movement, REM creativity, and emotional-memory processing into the current synthesis.
 - Clarified that normal awakenings and imperfect trackers should not turn sleep practice into sleep anxiety.
+- Added Talk三联's social-jetlag frame for work, school, light, meal, bowel, exercise, and metric pressures around sleep.
 
 ## Related Concepts
 - [[MidlifeThreeAccounts]] - parent account framework for cash flow, muscle, and sleep.
@@ -70,3 +75,4 @@ The sources do not provide a universal prescription for sleep duration, sleep te
 - [[TemperatureMinimumClockShifting]] - jet-lag, shift-work, and phase-shifting branch.
 - [[SleepAnxietyLoop]] - failure mode where sleep advice becomes sleep-disruptive worry.
 - [[SleepAsResistance]] - cultural frame where sleep remains a private bodily limit.
+- [[SocialJetlag]] - social-time mismatch that can drain the daily sleep account.

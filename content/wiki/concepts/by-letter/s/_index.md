@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7174
+wiki_total_pages: 7175
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -935,6 +935,9 @@ wiki_pages:
   - key: "SocialHospitalization"
     title: "Social Hospitalization / 社会性住院"
     url: "/wiki/concepts/socialhospitalization/"
+  - key: "SocialJetlag"
+    title: "Social Jetlag / 社会时差"
+    url: "/wiki/concepts/socialjetlag/"
   - key: "SocialMediaAbuseMask"
     title: "Social Media Abuse Mask / 社交媒体虐待遮蔽"
     url: "/wiki/concepts/socialmediaabusemask/"

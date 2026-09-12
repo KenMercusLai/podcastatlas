@@ -17755,6 +17755,12 @@ Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Song
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局
+
+- Added Talk三联 source note on social jetlag, circadian light contrast, adolescent school schedules, meal and bowel timing, sleep tracking anxiety, caffeine, late exercise, and bedtime transition.
+- Created [[SocialJetlag]].
+- Updated [[SleepWakeTimingToolkit]], [[SleepAsDailyHealthAccount]], [[MorningLightCircadianAnchoring]], [[CaffeineAdenosineSleepTiming]], [[WearableHealthDataAnxiety]], and [[HuangZiyiManufacturingReporter]].
+
 ## [2026-09-12] ingest | 667. The Mystery of the Mona Lisa
 
 Added source note for The Rest Is History episode on the Mona Lisa. Key claims: Lisa Gherardini is the best-supported sitter after the 2005 Heidelberg evidence; the painting's ambiguity comes from pose, sfumato, plain presentation, and landscape; its global fame accumulated through Leonardo's reputation, reproduction, the 1911 Louvre theft, parody, and museum tourism. Created Mona Lisa, Leonardo da Vinci, Lisa Gherardini, Francesco del Giocondo, Giorgio Vasari, Louvre, Vincenzo Perugia, and related art-fame concepts.
@@ -18310,6 +18316,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

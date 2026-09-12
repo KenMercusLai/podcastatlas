@@ -11875,9 +11875,9 @@
       "url": "/wiki/entities/cssedit/"
     },
     "CaffeineAdenosineSleepTiming": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -11892,9 +11892,16 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
+          "key": "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup",
+          "show": "Talk三联",
+          "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
+          "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/caffeineadenosinesleeptiming/"
     },
     "CaiLunLateHan": {
@@ -44508,9 +44515,9 @@
       "url": "/wiki/entities/huangyunlatehan/"
     },
     "HuangZiyiManufacturingReporter": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "EP271 探访“柔性制造”工厂：是谁让你“想要就能买到”？ [lqYrioPtGgnBb8hl_Llej0_5OW0V].md",
@@ -44525,9 +44532,16 @@
           "show": "忽左忽右",
           "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
           "url": "/wiki/sources/500-jinjiang-chendaizhen-wangshi-huangziyi-tan-gaikai-jincheng-zhong-de-zhongguo-yundong-pinpai-lswtplovdbo4pl52yoxu6rgzyal2/"
+        },
+        {
+          "episode_file": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
+          "key": "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup",
+          "show": "Talk三联",
+          "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
+          "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/huangziyimanufacturingreporter/"
     },
     "HuangZu": {
@@ -64424,9 +64438,9 @@
       "url": "/wiki/concepts/moralpresencewithoutoffice/"
     },
     "MorningLightCircadianAnchoring": {
-      "episode_count": 2,
-      "show_count": 1,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -64441,9 +64455,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
           "url": "/wiki/sources/essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468/"
+        },
+        {
+          "episode_file": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
+          "key": "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup",
+          "show": "Talk三联",
+          "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
+          "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
         }
       ],
-      "updated": "2026-09-02",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/morninglightcircadiananchoring/"
     },
     "Morocco": {
@@ -84033,9 +84054,9 @@
       "url": "/wiki/concepts/slaverynationalidentitycontradiction/"
     },
     "SleepAsDailyHealthAccount": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 6,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -84092,9 +84113,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
           "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        },
+        {
+          "episode_file": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
+          "key": "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup",
+          "show": "Talk三联",
+          "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
+          "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/sleepasdailyhealthaccount/"
     },
     "SleepImmuneRepair": {
@@ -84192,9 +84220,9 @@
       "url": "/wiki/concepts/sleeptemperaturetoolkit/"
     },
     "SleepWakeTimingToolkit": {
-      "episode_count": 3,
-      "show_count": 2,
-      "source_note_count": 3,
+      "episode_count": 4,
+      "show_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "SCIM6408620468 [SCIM6408620468].md",
@@ -84216,9 +84244,16 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
+          "key": "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup",
+          "show": "Talk三联",
+          "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
+          "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/sleepwaketimingtoolkit/"
     },
     "Slicy": {
@@ -84559,6 +84594,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/socialhistorycaseframing/"
+    },
+    "SocialJetlag": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
+          "key": "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup",
+          "show": "Talk三联",
+          "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
+          "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/socialjetlag/"
     },
     "SocialMediaAgeBans": {
       "episode_count": 3,
@@ -97411,9 +97462,9 @@
       "url": "/wiki/concepts/weapontechnologyduellethality/"
     },
     "WearableHealthDataAnxiety": {
-      "episode_count": 2,
-      "show_count": 2,
-      "source_note_count": 2,
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "lnXbxBAUsJXttxyBA-idbidq6kPd [lnXbxBAUsJXttxyBA-idbidq6kPd].md",
@@ -97428,9 +97479,16 @@
           "show": "三五环",
           "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
           "url": "/wiki/sources/no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil/"
+        },
+        {
+          "episode_file": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局 [ll_Bu3OZKKhfhksb7qOCUEQH1UUP].md",
+          "key": "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup",
+          "show": "Talk三联",
+          "title": "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局",
+          "url": "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/wearablehealthdataanxiety/"
     },
     "WearableHealthInsight": {

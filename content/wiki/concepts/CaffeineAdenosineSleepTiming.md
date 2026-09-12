@@ -5,7 +5,8 @@ tags: [sleep, caffeine, adenosine, circadian-rhythm, health]
 sources:
   - essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
-last_updated: 2026-09-07
+  - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
+last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,14 +22,16 @@ The sleep boundary matters more than the stimulant itself. Late-day caffeine can
 
 The 三五环 crossover adds a lived-productivity version. [[LiuFei|刘飞]] describes relying on two or three coffees during a high-pressure internet-company period, while [[ZhangHongliang|张弘亮 / 玉米]] recommends avoiding coffee after about 4 p.m. when it is not necessary. The source's key practical addition is that caffeine can damage sleep after onset even when a person can still fall asleep on schedule.
 
+The Talk三联 social-jetlag episode adds a simpler public-health cutoff: after lunch, strong tea and coffee should be reduced when the goal is circadian repair. Its point is not that caffeine is always bad, but that wakefulness support can hide rather than fix the timing conflict created by late work, dim days, and bright nights.
+
 ## Key Claims
 - Caffeine is optional and strongly dependent on individual tolerance.
 - The source frames caffeine as an adenosine antagonist that can reduce sleepiness.
 - Delaying caffeine 90-120 minutes after waking may reduce afternoon caffeine need for many people.
 - Late-day caffeine can impair sleep quality even when a person can still fall asleep.
 - The source recommends limiting caffeine after 4 p.m., with a low late-day ceiling when sleep is the goal.
-- Caffeine timing belongs inside the whole sleep-wake timing system, alongside light, temperature, movement, food, and consistency.
-- Caffeine dependence during high-pressure work can mask underlying sleep debt, and falling asleep after caffeine does not prove that sleep architecture or next-day recovery were unaffected.
+- Caffeine timing belongs inside the whole sleep-wake timing system, alongside light, temperature, movement, food, social rhythm, and consistency.
+- Caffeine dependence during high-pressure work, afternoon coffee, or strong tea can mask underlying sleep debt or [[SocialJetlag|social jetlag]], and falling asleep after caffeine does not prove that sleep architecture or next-day recovery were unaffected.
 
 ## Evidence
 - Mechanism - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] describes caffeine as an adenosine antagonist that limits sleepiness.
@@ -37,16 +40,19 @@ The 三五环 crossover adds a lived-productivity version. [[LiuFei|刘飞]] des
 - System fit - [[essentials-sleep-toolkit-for-optimizing-sleep-sleep-wake-timing-scim6408620468]] places caffeine among daily timing cues rather than treating it as an isolated productivity tool.
 - Work-pressure case - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] describes high coffee reliance during internet-company sleep disruption.
 - Sleep-quality boundary - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] says caffeine may not prevent sleep onset but can still reduce sleep quality after falling asleep.
+- Social-jetlag repair - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] recommends less strong tea and coffee after lunch as part of a broader rhythm-reset routine.
 
 ## Counterevidence & Qualifications
-The source does not settle a universal caffeine dose, cutoff time, genetic metabolizer adjustment, pregnancy guideline, anxiety boundary, cardiovascular boundary, medication interaction, or withdrawal protocol. People with sleep disorders, panic symptoms, heart conditions, pregnancy, medication interactions, or occupational demands need individualized guidance.
+The sources do not settle a universal caffeine dose, cutoff time, genetic metabolizer adjustment, pregnancy guideline, anxiety boundary, cardiovascular boundary, medication interaction, or withdrawal protocol. People with sleep disorders, panic symptoms, heart conditions, pregnancy, medication interactions, or occupational demands need individualized guidance.
 
 ## What Changed
 - Created a caffeine-specific sleep concept that distinguishes daytime alertness support from late-day sleep pressure disruption.
 - Added the 三五环 work-pressure and sleep-quality examples.
+- Added Talk三联's afternoon caffeine caution inside a social-jetlag repair frame.
 
 ## Related Concepts
 - [[SleepWakeTimingToolkit]] - parent timing toolkit where caffeine is one cue.
+- [[SocialJetlag]] - rhythm-mismatch frame where caffeine can mask rather than solve misalignment.
 - [[SleepAsDailyHealthAccount]] - broader sleep-health account affected by caffeine timing.
 - [[DopamineToolTiming]] - adjacent neuromodulator page where caffeine appears as a motivation and receptor-availability tool.
 - [[EpinephrineAlertnessToolkit]] - adjacent alertness page where caffeine appears as an arousal lever.

@@ -5,7 +5,8 @@ tags: [healthcare, wearable-data, anxiety, medical-literacy]
 sources:
   - vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd
   - no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil
-last_updated: 2026-09-07
+  - ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup
+last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -21,6 +22,8 @@ The wider lesson is that a health metric is a partial signal. A normal glucose l
 
 The 三五环 sleep episode adds a direct sleep-tracking case. [[LiuFei|刘飞]] and [[ZhangHongliang|张弘亮 / 玉米]] compare [[AppleWatch|Apple Watch]] and [[EightSleep|8Sleep]] scores, but warn that devices can misclassify waking, turning, or bathroom trips. They also cite a counseling-context warning that overattention to sleep scores can worsen sleep itself, so daytime energy and functional impairment remain important checks on the number.
 
+The Talk三联 social-jetlag episode adds a family-scale example of score pressure. A sleep watch can give useful broad feedback, but a person who worries about the score or how family members will read it may become more anxious before bed. The source also widens the pattern beyond sleep: strict diet, fitness, bowel, and body-management routines can turn complex biological processes into KPIs.
+
 ## Key Claims
 - Dense wearable data is most useful when tied to a clinical risk, a specific behavior question, or a follow-up decision.
 - Healthy users can overread normal variation when they monitor continuously without a clear intervention threshold.
@@ -28,7 +31,7 @@ The 三五环 sleep episode adds a direct sleep-tracking case. [[LiuFei|刘飞]]
 - Social comparison turns private data into performance pressure when users start judging whose curve, score, or body looks healthier.
 - Algorithmic feeds can amplify metric anxiety by repeatedly showing the same health, diet, and body-optimization signals.
 - Abnormal or worrying data should become a reason for qualified review, not an excuse for unsupervised diagnosis or treatment.
-- Sleep scores can be useful for patterns while still being too noisy or emotionally loaded to outweigh daytime energy, safety, or persistent symptoms.
+- Sleep and body metrics can be useful for patterns while still becoming too noisy or emotionally loaded when they turn sleep, eating, exercise, or bowel function into performance indicators instead of contextual signals.
 
 ## Evidence
 - Clinical usefulness and overuse boundary - [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] distinguishes diabetes hypoglycemia monitoring from healthy-person 24-hour curve watching.
@@ -37,14 +40,16 @@ The 三五环 sleep episode adds a direct sleep-tracking case. [[LiuFei|刘飞]]
 - Social-media amplification - [[vol-221-duihua-dabainiu-diao-jirou-yi-yiyu-tingyao-bi-fantan-sidiao-shenyao-lujing-lnxbxbausjxttxyba-idbidq6kpd]] links health-device data, body ideals, and information cocoons to anxious judgment.
 - Sleep-score caution - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] warns that devices may misread waking, turning, or trips out of bed and that score anxiety can worsen sleep problems.
 - Functional check - [[no-230-chuantai-wanwushengzhang-kafei-xuming-jiujing-zhumian-dangdairen-de-shuimian-shikong-yu-guanli-gkwrijiowpmzaipwcatimbil]] says daytime energy, yawning, attention, nap need, and coffee dependence are important sleep-quality signals.
+- Sleep-score anxiety - [[ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup]] describes a sleep-watch user becoming more anxious about visible sleep grades and a broader tendency to KPI-ize sleep, diet, exercise, and bowel function.
 
 ## Counterevidence & Qualifications
-The sources do not reject wearable devices, bed sensors, or personal health data. They preserve CGM value for diabetes patients, allow short-term self-observation for some healthy users, and treat sleep scores as useful pattern signals. The caution applies when continuous data is treated as a comprehensive health grade or used without clinical interpretation.
+The sources do not reject wearable devices, bed sensors, or personal health data. They preserve CGM value for diabetes patients, allow short-term self-observation for some healthy users, and treat sleep scores as useful pattern signals. The caution applies when continuous data is treated as a comprehensive health grade, an object of family comparison, or a substitute for clinical interpretation and body feedback.
 
 ## What Changed
 - Established a source-scoped concept separating useful health tracking from anxious metric chasing.
 - Connected CGM and sleep-tracker examples to the wiki's broader medical-literacy and personal-data boundaries.
 - Added the 三五环 sleep-score case and the daytime-function counterweight.
+- Added Talk三联's sleep-watch anxiety and broader body-KPI caution.
 
 ## Related Concepts
 - [[ContinuousGlucoseMonitoring]] - main device example for the concept.
@@ -57,3 +62,4 @@ The sources do not reject wearable devices, bed sensors, or personal health data
 - [[LifestyleWeightManagement]] - adjacent habit frame that resists single-number health judgment.
 - [[BedBasedSleepSensing]] - sensor branch that can create useful data or score anxiety.
 - [[EightSleep|8Sleep]] - product case that makes sleep-score interpretation concrete.
+- [[SocialJetlag]] - rhythm-mismatch frame that metrics may reveal or intensify.
