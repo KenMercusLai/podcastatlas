@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9849
+wiki_total_pages: 9850
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -263,6 +263,9 @@ wiki_pages:
   - key: "Casetext"
     title: "Casetext"
     url: "/wiki/entities/casetext/"
+  - key: "CaseyHalpern"
+    title: "Casey Halpern"
+    url: "/wiki/entities/caseyhalpern/"
   - key: "CaseyNewton"
     title: "Casey Newton"
     url: "/wiki/entities/caseynewton/"

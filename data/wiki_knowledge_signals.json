@@ -13249,6 +13249,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/casereadyintakeai/"
     },
+    "CaseyHalpern": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9347675622 [SCIM9347675622].md",
+          "key": "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622",
+          "show": "Huberman Lab",
+          "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+          "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/caseyhalpern/"
+    },
     "CathayPacific": {
       "episode_count": 1,
       "show_count": 1,
@@ -16306,9 +16322,9 @@
       "url": "/wiki/entities/circe/"
     },
     "CircuitBasedPsychiatry": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5296180263 [SCIM5296180263].md",
@@ -16316,9 +16332,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Psychedelics & Neurostimulation for Brain Rewiring | Dr. Nolan Williams",
           "url": "/wiki/sources/essentials-psychedelics-neurostimulation-for-brain-rewiring-dr-nolan-williams-scim5296180263/"
+        },
+        {
+          "episode_file": "SCIM9347675622 [SCIM9347675622].md",
+          "key": "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622",
+          "show": "Huberman Lab",
+          "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+          "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/circuitbasedpsychiatry/"
     },
     "Citgo": {
@@ -18759,9 +18782,9 @@
       "url": "/wiki/concepts/correctiveweaklinktraining/"
     },
     "CorticostriatalThalamicLoop": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -18769,9 +18792,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM9347675622 [SCIM9347675622].md",
+          "key": "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622",
+          "show": "Huberman Lab",
+          "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+          "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/corticostriatalthalamicloop/"
     },
     "CosmicCrisp": {
@@ -21449,6 +21479,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/declarationofindependence/"
+    },
+    "DeepBrainStimulationPsychiatry": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9347675622 [SCIM9347675622].md",
+          "key": "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622",
+          "show": "Huberman Lab",
+          "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+          "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/deepbrainstimulationpsychiatry/"
     },
     "DeepZ": {
       "episode_count": 2,
@@ -32771,6 +32817,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/flywheelwordpresshosting/"
+    },
+    "FocusedUltrasoundNeuromodulation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9347675622 [SCIM9347675622].md",
+          "key": "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622",
+          "show": "Huberman Lab",
+          "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+          "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/focusedultrasoundneuromodulation/"
     },
     "FoldableAppAdaptation": {
       "episode_count": 2,
@@ -47304,6 +47366,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/interrogationtortureconstraint/"
+    },
+    "IntracranialCircuitMapping": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9347675622 [SCIM9347675622].md",
+          "key": "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622",
+          "show": "Huberman Lab",
+          "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+          "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/intracranialcircuitmapping/"
     },
     "InvasiveSpeciesManagement": {
       "episode_count": 4,
@@ -67045,9 +67123,9 @@
       "url": "/wiki/concepts/obliqueremonstranceselfprotection/"
     },
     "ObsessiveCompulsiveDisorder": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM8423515647 [SCIM8423515647].md",
@@ -67055,9 +67133,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science & Treatment of Obsessive Compulsive Disorder (OCD)",
           "url": "/wiki/sources/essentials-the-science-treatment-of-obsessive-compulsive-disorder-ocd-scim8423515647/"
+        },
+        {
+          "episode_file": "SCIM9347675622 [SCIM9347675622].md",
+          "key": "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622",
+          "show": "Huberman Lab",
+          "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+          "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
         }
       ],
-      "updated": "2026-08-29",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/obsessivecompulsivedisorder/"
     },
     "OccultDecisionCapture": {
@@ -93710,6 +93795,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/ureyvirtualidol/"
+    },
+    "UrgeDespiteRiskCircuit": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM9347675622 [SCIM9347675622].md",
+          "key": "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622",
+          "show": "Huberman Lab",
+          "title": "Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern",
+          "url": "/wiki/sources/essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/urgedespiteriskcircuit/"
     },
     "UrinaryTractInfectionBehaviorBoundary": {
       "episode_count": 1,

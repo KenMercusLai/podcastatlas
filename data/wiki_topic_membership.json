@@ -13627,6 +13627,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CaseyHalpern": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "CassSunstein": [
     {
       "key": "politics",
@@ -19737,6 +19744,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DeepBrainStimulationPsychiatry": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "DeepCanvassing": [
@@ -26140,6 +26154,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "FocusedUltrasoundNeuromodulation": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "FoldableAppAdaptation": [
@@ -35262,6 +35283,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "IntracranialCircuitMapping": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "InventoryWriteDownRisk": [
@@ -69323,6 +69351,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "UrgeDespiteRiskCircuit": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "UseStrengthsOverFaults": [
     {
       "key": "history",
@@ -79018,6 +79053,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "essentials-compulsive-behaviors-deep-brain-stimulation-dr-casey-halpern-scim9347675622": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379": [

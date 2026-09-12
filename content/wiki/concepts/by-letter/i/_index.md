@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7166
+wiki_total_pages: 7170
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -638,6 +638,9 @@ wiki_pages:
   - key: "IntimateFrontierPacification"
     title: "Intimate Frontier Pacification / 亲密关系式边患安抚"
     url: "/wiki/concepts/intimatefrontierpacification/"
+  - key: "IntracranialCircuitMapping"
+    title: "Intracranial Circuit Mapping"
+    url: "/wiki/concepts/intracranialcircuitmapping/"
   - key: "InvasiveSpeciesManagement"
     title: "Invasive Species Management"
     url: "/wiki/concepts/invasivespeciesmanagement/"

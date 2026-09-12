@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7166
+wiki_total_pages: 7170
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "DecreasingStovesDeception"
     title: "Decreasing Stoves Deception / 减灶诱敌"
     url: "/wiki/concepts/decreasingstovesdeception/"
+  - key: "DeepBrainStimulationPsychiatry"
+    title: "Deep Brain Stimulation Psychiatry"
+    url: "/wiki/concepts/deepbrainstimulationpsychiatry/"
   - key: "DeepCanvassing"
     title: "Deep Canvassing / 深度说服"
     url: "/wiki/concepts/deepcanvassing/"
