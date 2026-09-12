@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2663
+topic_total_pages: 2666
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2035,6 +2035,9 @@ topic_concepts:
   - key: "PuerAeternus"
     title: "Puer Aeternus / 永恒少年"
     url: "/wiki/concepts/pueraeternus/"
+  - key: "PunkEconomicCrisisSymbolism"
+    title: "Punk Economic Crisis Symbolism"
+    url: "/wiki/concepts/punkeconomiccrisissymbolism/"
   - key: "PureRationalityTrap"
     title: "Pure Rationality Trap"
     url: "/wiki/concepts/purerationalitytrap/"
@@ -4658,6 +4661,9 @@ topic_entities:
   - key: "SetonHallUniversity"
     title: "Seton Hall University"
     url: "/wiki/entities/setonhalluniversity/"
+  - key: "SexPistols"
+    title: "Sex Pistols"
+    url: "/wiki/entities/sexpistols/"
   - key: "ShaQingqing"
     title: "Sha Qingqing / 沙青青"
     url: "/wiki/entities/shaqingqing/"
@@ -7485,6 +7491,9 @@ topic_sources:
   - key: "66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536"
     title: "66.鱼翅与花椒：聊吃的我可就不困了"
     url: "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
+  - key: "665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819"
+    title: "665. Britain in the 70s: The Bailout from Hell (Part 4)"
+    url: "/wiki/sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819/"
   - key: "67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556"
     title: "67.美狄亚：古希腊秦香莲的复仇及其现代性"
     url: "/wiki/sources/67-meidiya-gu-xila-qinxianglian-de-fuchou-ji-qi-xiandaixing-662400556/"

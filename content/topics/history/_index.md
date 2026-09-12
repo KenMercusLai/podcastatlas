@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1832
+topic_total_pages: 1833
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4476,6 +4476,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819"
+    title: "665. Britain in the 70s: The Bailout from Hell (Part 4)"
+    url: "/wiki/sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819/"
   - key: "666-wine-and-the-birth-of-civilisation-glt1414718476"
     title: "666. Wine and the Birth of Civilisation"
     url: "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"

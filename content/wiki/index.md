@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [665. Britain in the 70s: The Bailout from Hell (Part 4)](sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819.md) — The Rest Is History episode on Jim Callaghan, Denis Healey, Britain's 1976 IMF crisis, Labour's economic split, and the Sex Pistols as punk-era crisis symbolism.
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
 - [《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘](sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc.md) — 芮淇讲透资治通鉴 episode on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations, and the risk of turning symbolic capital into factional court exposure.
 - [《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？](sources/zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb.md) — 芮淇讲透资治通鉴 episode on Shi Xian's slander against Zhou Kan and Zhang Meng, Liu Xiang's Liu Gengsheng memorial, and slander-suspicion feedback collapse under Han Yuandi.
@@ -2308,6 +2309,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Denis Healey](entities/DenisHealey.md) — British chancellor who argued for spending cuts and IMF negotiations during the 1976 sterling crisis.
+- [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with the alternative economic strategy during Britain's 1976 IMF crisis.
+- [Sex Pistols](entities/SexPistols.md) — Punk band whose Bill Grundy television scandal becomes a symbol of Britain's 1976 crisis mood.
 - [孔霸 / Kong Ba (Western Han)](entities/KongBaWesternHan.md) — Confucius-lineage scholar and Han Yuandi's former teacher who refuses high office to preserve Confucian standing and avoid factional court exposure.
 - [王接 / Wang Jie (Western Han)](entities/WangJieWesternHan.md) — Western Han official appointed Da Sima and Cheqi Jiangjun after the Yongguang 1 disaster-era senior resignations.
 - [薛广德 / Xue Guangde (Western Han)](entities/XueGuangdeWesternHan.md) — Western Han Yushi Dafu whose loyal but coercive remonstrance is contrasted with Zhang Meng's face-saving advice.
@@ -12187,6 +12191,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, IMF, austerity, and Labour cabinet crisis treated as a turning point in British economic governance.
+- [Postwar Keynesian Retreat](concepts/PostwarKeynesianRetreat.md) — Political move away from the assumption that governments could simply spend their way out of recession.
+- [Siege Economy Strategy](concepts/SiegeEconomyStrategy.md) — Labour-left crisis strategy built around controls, protectionism, nationalisation, and pressure on allies.
+- [Cabinet Exhaustion Management](concepts/CabinetExhaustionManagement.md) — Crisis-leadership pattern where repeated cabinet argument is used to exhaust alternatives before a decision.
+- [Punk Economic Crisis Symbolism](concepts/PunkEconomicCrisisSymbolism.md) — Reading punk's 1976 media explosion as a cultural sign of unemployment, moral panic, and national decline.
 - [立身之本保全 / Core Standing-Ground Preservation](concepts/CoreStandingGroundPreservation.md) — Strategy for protecting the skill, income, reputation, lineage, or institutional identity that gives durable footing.
 - [高位拒受式避险 / High-Office Refusal as Risk Avoidance](concepts/HighOfficeRefusalAsRiskAvoidance.md) — Pattern where a prestigious office is refused because its factional, identity, or retaliation exposure outweighs rank benefits.
 - [留面子式进谏包装 / Face-Saving Remonstrance](concepts/FaceSavingRemonstrance.md) — corrective speech that preserves the listener's dignity while still delivering substantive advice.

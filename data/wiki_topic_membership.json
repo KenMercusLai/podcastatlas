@@ -1811,6 +1811,28 @@
       "url": "/topics/culture/"
     }
   ],
+  "665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "666-wine-and-the-birth-of-civilisation-glt1414718476": [
     {
       "key": "history",
@@ -12294,6 +12316,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "Britain1976IMFCrisis": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "BritishMediaExclusionOnlineAmplification": [
     {
       "key": "politics",
@@ -12900,6 +12934,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "CabinetExhaustionManagement": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "CableLandingPointSecurity": [
@@ -20218,6 +20259,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "DenisHealey": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "DenisJohnsonBicycle": [
@@ -52411,6 +52464,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "PostwarKeynesianRetreat": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "PostwarReconstructionFinance": [
     {
       "key": "economics",
@@ -54145,6 +54210,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "PunkEconomicCrisisSymbolism": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "PunkyDuck": [
@@ -59485,6 +59562,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "SexPistols": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "SexualAssaultEvidenceKit": [
     {
       "key": "politics",
@@ -60551,6 +60635,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "SiegeEconomyStrategy": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "SiemensEDA": [
@@ -67658,6 +67754,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "TonyBenn": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TonyContentEngineer": [

@@ -2,17 +2,43 @@
 title: "International Monetary Fund"
 type: entity
 tags: [institution, finance, development]
-sources: [hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]
-last_updated: 2026-08-07
+sources:
+  - hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5
+  - 665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819
+last_updated: 2026-09-12
+knowledge_schema: synthesis-v1
 ---
 
 # International Monetary Fund
 
-The International Monetary Fund appears in [[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]] as the external institution whose deal [[Lebanon]] needs before large-scale recovery can become credible. The episode says IMF-linked reforms have stalled partly because Lebanon has not resolved how to allocate roughly $80bn in banking-sector losses.
+## Overview
+The International Monetary Fund appears in the wiki as an external financing and credibility institution whose deals become politically charged when domestic states face deep fiscal, banking, currency, or reconstruction constraints.
 
-The source uses the IMF less as a technical lending body than as a credibility threshold. Without a deal, [[JosephAoun]]'s effort to rebuild state legitimacy against [[Hezbollah]] remains short of money, while foreign investment pitches risk looking disconnected from the country's unresolved financial system.
+## Current Profile
+Across current sources, the IMF is less a neutral background lender than a threshold of discipline and credibility. In [[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]], [[Lebanon]] needs an IMF deal to make reconstruction and state rebuilding plausible, but banking-loss allocation blocks reform. In [[665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819]], [[UnitedKingdom|Britain]] turns to the IMF during the 1976 sterling crisis, making public-spending cuts and foreign scrutiny into a national humiliation and a party crisis for [[LabourPartyUK|Labour]].
 
-## Connections
-- [[Lebanon]], [[JosephAoun]], [[NawafSalam]], and [[AmerBisat]] - source actors around the reform problem.
-- [[BankingLossAllocationPolitics]] - concept for why banking losses block a recovery bargain.
-- [[PostwarReconstructionFinance]] and [[StateCredibilityAgainstMilitia]] - broader recovery and state-capacity contexts.
+## Key Characteristics
+- It functions as a credibility gate when domestic financing, banking reform, or currency defense is not trusted.
+- Its role is politically sensitive because its support often implies external inspection and conditional reform.
+- It can become a symbol of national humiliation when a government frames sovereignty around autonomous economic choice.
+- IMF negotiations expose unresolved domestic distribution fights, such as spending cuts in Britain or banking losses in Lebanon.
+
+## Evidence
+- Lebanon credibility gate: [[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]] says Lebanon needs an IMF deal, but reform has stalled over roughly 80 billion dollars in banking-sector losses.
+- State-capacity link: [[hard-cedar-lebanon-seeks-trumps-help-6a5f41e97bddc0bea5542de5]] ties IMF reform to [[JosephAoun]]'s effort to rebuild state legitimacy against [[Hezbollah]].
+- British currency crisis: [[665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819]] says Britain applied for a large IMF loan after sterling weakness and pressure to defend the pound.
+- Conditionality politics: [[665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819]] presents the IMF-backed spending cuts as the heart of Labour's cabinet and party conflict.
+
+## Qualifications
+The page currently emphasizes political meaning rather than IMF technical mechanics. It does not yet synthesize the institution's formal lending facilities, governance structure, or broader global record.
+
+## What Changed
+- Added the 1976 Britain case, shifting the IMF profile from Lebanon-only reconstruction finance to a broader external-discipline and credibility role.
+- Migrated the page to synthesis-v1 while preserving the original Lebanon source first.
+
+## Relationships
+- [[Lebanon]] - reconstruction-finance case where IMF reform is blocked by banking-loss allocation.
+- [[Britain1976IMFCrisis]] - currency and austerity case where IMF support becomes a sovereignty and party crisis.
+- [[BankingLossAllocationPolitics]] - domestic distribution fight blocking a Lebanese IMF deal.
+- [[PostwarReconstructionFinance]] - broader recovery-finance context for the Lebanon case.
+- [[PostwarKeynesianRetreat]] - British policy shift intensified by IMF conditionality.

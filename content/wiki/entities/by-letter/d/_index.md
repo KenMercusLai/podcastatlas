@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9875
+wiki_total_pages: 9878
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -443,6 +443,9 @@ wiki_pages:
   - key: "Democritus"
     title: "Democritus / 德谟克利特"
     url: "/wiki/entities/democritus/"
+  - key: "DenisHealey"
+    title: "Denis Healey"
+    url: "/wiki/entities/denishealey/"
   - key: "DenisJohnsonBicycle"
     title: "Denis Johnson (Bicycle)"
     url: "/wiki/entities/denisjohnsonbicycle/"

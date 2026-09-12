@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7202
+wiki_total_pages: 7207
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -581,6 +581,9 @@ wiki_pages:
   - key: "BriggsVMullen"
     title: "Briggs v. Mullen"
     url: "/wiki/concepts/briggsvmullen/"
+  - key: "Britain1976IMFCrisis"
+    title: "Britain 1976 IMF Crisis"
+    url: "/wiki/concepts/britain1976imfcrisis/"
   - key: "BritishMediaExclusionOnlineAmplification"
     title: "British Media Exclusion Online Amplification"
     url: "/wiki/concepts/britishmediaexclusiononlineamplification/"

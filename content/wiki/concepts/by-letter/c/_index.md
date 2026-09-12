@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7202
+wiki_total_pages: 7207
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -14,6 +14,9 @@ wiki_pages:
   - key: "CabinCrewWork"
     title: "Cabin Crew Work"
     url: "/wiki/concepts/cabincrewwork/"
+  - key: "CabinetExhaustionManagement"
+    title: "Cabinet Exhaustion Management"
+    url: "/wiki/concepts/cabinetexhaustionmanagement/"
   - key: "CableLandingPointSecurity"
     title: "Cable Landing Point Security"
     url: "/wiki/concepts/cablelandingpointsecurity/"

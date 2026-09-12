@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7202
+wiki_total_pages: 7207
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1001,6 +1001,9 @@ wiki_pages:
   - key: "PosthumousNamePolitics"
     title: "Posthumous Name Politics / 谥号政治"
     url: "/wiki/concepts/posthumousnamepolitics/"
+  - key: "PostwarKeynesianRetreat"
+    title: "Postwar Keynesian Retreat"
+    url: "/wiki/concepts/postwarkeynesianretreat/"
   - key: "PostwarReconstructionFinance"
     title: "Postwar Reconstruction Finance"
     url: "/wiki/concepts/postwarreconstructionfinance/"
@@ -1793,6 +1796,9 @@ wiki_pages:
   - key: "PunitiveSurrenderDeterrence"
     title: "Punitive Surrender Deterrence / 杀降纳降反噬"
     url: "/wiki/concepts/punitivesurrenderdeterrence/"
+  - key: "PunkEconomicCrisisSymbolism"
+    title: "Punk Economic Crisis Symbolism"
+    url: "/wiki/concepts/punkeconomiccrisissymbolism/"
   - key: "PureRationalityTrap"
     title: "Pure Rationality Trap"
     url: "/wiki/concepts/purerationalitytrap/"

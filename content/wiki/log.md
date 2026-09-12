@@ -17773,6 +17773,10 @@ Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Song
 
 Added source on Han Yuandi's Yongguang 3-4 court, fiscal retrenchment, Zhou Kan and Zhang Meng's hollow recall, Shi Xian's memorial-channel control, and the workplace Jianghu lesson that access to decision makers can outweigh formal title.
 
+## [2026-09-12] ingest | 665. Britain in the 70s: The Bailout from Hell (Part 4)
+
+Added source. Key claims: Callaghan and Healey accepted IMF-backed cuts while keeping Labour's cabinet together; Benn and Crosland's siege-economy alternatives exposed Labour's internal split; the Sex Pistols' 1 December 1976 television scandal is read as cultural symbolism for the same national crisis.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18374,6 +18378,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

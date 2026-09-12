@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2014
+topic_total_pages: 2019
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -439,6 +439,9 @@ topic_concepts:
   - key: "BrexitEconomicFriction"
     title: "Brexit Economic Friction"
     url: "/wiki/concepts/brexiteconomicfriction/"
+  - key: "Britain1976IMFCrisis"
+    title: "Britain 1976 IMF Crisis"
+    url: "/wiki/concepts/britain1976imfcrisis/"
   - key: "BrokerageResearchReports"
     title: "Brokerage Research Reports"
     url: "/wiki/concepts/brokerageresearchreports/"
@@ -2173,6 +2176,9 @@ topic_concepts:
   - key: "PositiveExternality"
     title: "Positive Externality"
     url: "/wiki/concepts/positiveexternality/"
+  - key: "PostwarKeynesianRetreat"
+    title: "Postwar Keynesian Retreat"
+    url: "/wiki/concepts/postwarkeynesianretreat/"
   - key: "PostwarReconstructionFinance"
     title: "Postwar Reconstruction Finance"
     url: "/wiki/concepts/postwarreconstructionfinance/"
@@ -2482,6 +2488,9 @@ topic_concepts:
   - key: "ShroudedJobAttributes"
     title: "Shrouded Job Attributes"
     url: "/wiki/concepts/shroudedjobattributes/"
+  - key: "SiegeEconomyStrategy"
+    title: "Siege Economy Strategy"
+    url: "/wiki/concepts/siegeeconomystrategy/"
   - key: "SignalDesign"
     title: "Signal Design / 信号设计"
     url: "/wiki/concepts/signaldesign/"
@@ -3509,6 +3518,9 @@ topic_entities:
   - key: "DavidSacks"
     title: "David Sacks"
     url: "/wiki/entities/davidsacks/"
+  - key: "DenisHealey"
+    title: "Denis Healey"
+    url: "/wiki/entities/denishealey/"
   - key: "DenisJohnsonBicycle"
     title: "Denis Johnson (Bicycle)"
     url: "/wiki/entities/denisjohnsonbicycle/"
@@ -5394,6 +5406,9 @@ topic_sources:
   - key: "61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353"
     title: "61.自从拥有经济学的思维方式，人生都变简单了！"
     url: "/wiki/sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353/"
+  - key: "665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819"
+    title: "665. Britain in the 70s: The Bailout from Hell (Part 4)"
+    url: "/wiki/sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819/"
   - key: "7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52"
     title: "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？ | S10E12"
     url: "/wiki/sources/7000-yi-meiyuan-za-xiang-ai-zhe-shi-xiayidai-hulianwang-haishi-paomo-chongyan-s10e12-7af0955b-e3b5-4b40-9ccf-90ec061bbf52/"

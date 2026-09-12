@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9875
+wiki_total_pages: 9878
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "SewingMachineCombination"
     title: "Sewing Machine Combination"
     url: "/wiki/entities/sewingmachinecombination/"
+  - key: "SexPistols"
+    title: "Sex Pistols"
+    url: "/wiki/entities/sexpistols/"
   - key: "SexualAssaultEvidenceKit"
     title: "Sexual Assault Evidence Kit"
     url: "/wiki/entities/sexualassaultevidencekit/"
