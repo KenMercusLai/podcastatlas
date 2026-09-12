@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》456-2｜这两位圣人的论道，藏着人类的终极秘密
+
+Added source note plus axial-age civilizational awakening and Daoist water virtue pages. Key claims: Confucius's first visit to Laozi is framed through axial-age civilizational awakening, Laozi turns the Yellow River into a teaching on natural life and death, and water virtue becomes the practical image for non-contention, humility, softness, and removing pride.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子
 
 Added source note plus Liu Xu, Geng Shouchang, royal witchcraft succession delusion, Changping granary system, and state grain price stabilization pages. Key claims: Liu Xu's hidden curse strategy turns throne ambition into self-destroying superstition and evidence suppression; Huhanye's submission marks late-Xuan frontier pressure easing; Geng Shouchang's reforms join grain logistics, public reserves, and price smoothing.
@@ -18639,6 +18643,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧
 
 Added source note plus Laozi, Confucius, Daodejing, and Daoist cultivation concept updates. Key claims: Laozi critiques forced renyi as potentially disturbing nature, teaches natural wuwei and observing sameness, and reframes life/death, right/wrong, noble/low, and honor/disgrace as changing states within the Way.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

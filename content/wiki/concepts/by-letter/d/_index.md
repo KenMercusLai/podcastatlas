@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7246
+wiki_total_pages: 7248
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -50,6 +50,9 @@ wiki_pages:
   - key: "DaoistValueEquanimity"
     title: "Daoist Value Equanimity / 道家价值齐观"
     url: "/wiki/concepts/daoistvalueequanimity/"
+  - key: "DaoistWaterVirtue"
+    title: "Daoist Water Virtue / 道家水德"
+    url: "/wiki/concepts/daoistwatervirtue/"
   - key: "DardanellesStrategicShortcut"
     title: "Dardanelles Strategic Shortcut"
     url: "/wiki/concepts/dardanellesstrategicshortcut/"

@@ -19,6 +19,7 @@ sources:
   - zizhi-tongjian-zhouji-10-yi-jiazu-danwei-you-mayi-chi-daxiang-de-jingshen-4-lhjz-m12pedkfszxyzgqtjnpsn3p
   - zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei
   - zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9
+  - zizhi-tongjian-hanji-456-2-zhe-liangwei-shengren-de-lundao-cangzhe-renlei-de-zhongji-mimi-lsjl6awahc0gyhtwh3tagh1utqx4
 knowledge_schema: synthesis-v1
 last_updated: 2026-09-13
 ---
@@ -26,10 +27,10 @@ last_updated: 2026-09-13
 # 孔子 / Confucius
 
 ## Overview
-孔子 / Confucius is the wiki's Confucian classical authority node. Current sources use him as athletic elite-training figure, lineage figure, archive-linked editor, human-nature thinker, poetic and ritual-speech authority, renyi lineage source, political-action initiator, self-command model, and in [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] as a learner whose attachment to renyi, ritual transmission, fame, and distinction is loosened by [[Laozi|老子]].
+孔子 / Confucius is the wiki's Confucian classical authority node. Current sources use him as athletic elite-training figure, lineage figure, archive-linked editor, human-nature thinker, poetic and ritual-speech authority, renyi lineage source, political-action initiator, self-command model, and in the Hanji 456 Laozi sequence as a learner whose attachment to service, renyi, ritual transmission, fame, and distinction is corrected by [[Laozi|老子]].
 
 ## Current Profile
-The page now synthesizes three broad Confucius roles. First, he is a classical and aristocratic formation figure: the Six Arts, Song lineage, Lu archival culture, poetry, ritual, and record authority make him legible as more than an abstract moralist. Second, he is an ethical-political source: later Mencian, Ye Gong, Guan Zhong, Zigong, ruler-centeredness, and temperance episodes use him to frame renyi, practice, speech, diplomacy, governance, and restraint. Third, Hanji 456-3 adds a self-cultivation reversal: Confucius himself becomes the one who must learn from Laozi that moral distinctions and ritual ambition can become attachments.
+The page now synthesizes three broad Confucius roles. First, he is a classical and aristocratic formation figure: the Six Arts, Song lineage, Lu archival culture, poetry, ritual, and record authority make him legible as more than an abstract moralist. Second, he is an ethical-political source: later Mencian, Ye Gong, Guan Zhong, Zigong, ruler-centeredness, and temperance episodes use him to frame renyi, practice, speech, diplomacy, governance, and restraint. Third, Hanji 456-2 and 456-3 add a self-cultivation reversal: Confucius himself becomes the one who must learn from Laozi that public purpose, sharp judgment, moral distinctions, and ritual ambition can become attachments.
 
 ## Key Characteristics
 - Embodied elite formation: Confucius is linked to strength, charioteering, archery, and the Six Arts rather than only book learning.
@@ -37,7 +38,7 @@ The page now synthesizes three broad Confucius roles. First, he is a classical a
 - Formation ethics: "性相近，习相远" is used to explain habit, environment, and practice without reducing human nature to fixed good or evil.
 - Renyi and political action: Mencius, Ye Gong, Guan Zhong, and Zigong sources treat Confucian language as a resource for dignity, judgment, rescue diplomacy, and governance.
 - Ritual, poetry, and centeredness: Confucius is invoked for poetic speech competence, rulerly stillness, elder peace, and drinking self-command.
-- Learner before Laozi: Hanji 456-3 presents Confucius as able to be corrected and opened beyond his own renyi-and-ritual frame.
+- Learner before Laozi: Hanji 456-2 and 456-3 present Confucius as able to be corrected and opened beyond his own service, renyi, and ritual frame.
 
 ## Evidence
 Embodied elite formation:
@@ -63,14 +64,16 @@ Ritual, poetry, and centeredness:
 - [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]] uses "不为酒困" to connect Confucius to [[TemperateDrinkingSelfControl|节制饮酒与自我控制]].
 
 Learner before Laozi:
+- [[zizhi-tongjian-hanji-456-2-zhe-liangwei-shengren-de-lundao-cangzhe-renlei-de-zhongji-mimi-lsjl6awahc0gyhtwh3tagh1utqx4|Hanji 456-2]] shows Confucius first approaching Laozi as a teacher, receiving warnings about fault-attacking intelligence, learning [[DaoistWaterVirtue|道家水德]] at the Yellow River, and later calling Laozi dragon-like and hard to measure.
 - [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] has Confucius approach Laozi first with text and renyi confidence, then later seek the Way more humbly and experience a loosening of fame, profit, ritual, body, and value distinctions.
 
 ## Qualifications
-Confucius's page is a synthesis of source uses, not a full biography. The sources often invoke him through later reception, podcast analogy, or a single Analects phrase. Hanji 456-3's Laozi meetings are preserved as an instructive tradition and should not override the other sources' Confucian ethical and political uses.
+Confucius's page is a synthesis of source uses, not a full biography. The sources often invoke him through later reception, podcast analogy, or a single Analects phrase. Hanji 456-2 and 456-3's Laozi meetings are preserved as an instructive tradition and should not override the other sources' Confucian ethical and political uses.
 
 ## What Changed
 - Migrated the page to `synthesis-v1`.
-- Added Hanji 456-3's distinctive image of Confucius as a learner before Laozi, not only as a transmitter of renyi, ritual, and classics.
+- Added Hanji 456-2's first-meeting layer: Confucius receives Laozi's warnings about sharp judgment, water virtue, and pride before later calling Laozi dragon-like.
+- Kept the Hanji 456 sequence as an instructive tradition about Confucius learning before Laozi, not verified dialogue history.
 
 ## Relationships
 - [[Laozi|老子]] - teacher figure in Hanji 456-3 who challenges Confucius's attachment to renyi and ritual.
@@ -79,3 +82,4 @@ Confucius's page is a synthesis of source uses, not a full biography. The source
 - [[LuState|鲁国]] - archive and political homeland frame behind Confucius's historical-record role.
 - [[Zigong|子贡 / 端木赐]] - disciple sent into rescue diplomacy in Zhouji 57.
 - [[DaoistObservingSameness|观同入道]] - Laozi teaching in Hanji 456-3 that transforms Confucius's perspective.
+- [[DaoistWaterVirtue|道家水德]] - Laozi teaching in Hanji 456-2 that turns water into Confucius's model for humility and non-contention.

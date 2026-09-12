@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7246
+wiki_total_pages: 7248
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2315,6 +2315,9 @@ wiki_pages:
   - key: "AwarenessMeditationStoryDropping"
     title: "Awareness Meditation Story Dropping"
     url: "/wiki/concepts/awarenessmeditationstorydropping/"
+  - key: "AxialAgeCivilizationalAwakening"
+    title: "Axial Age Civilizational Awakening / 轴心时代文明觉醒"
+    url: "/wiki/concepts/axialagecivilizationalawakening/"
   - key: "AfterHoursPowerBoundary"
     title: "下班后权力边界 / After-Hours Power Boundary"
     url: "/wiki/concepts/afterhourspowerboundary/"
