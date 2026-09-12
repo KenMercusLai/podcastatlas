@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7251
+wiki_total_pages: 7252
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -998,6 +998,9 @@ wiki_pages:
   - key: "RespectabilityTax"
     title: "体面税 / Respectability Tax"
     url: "/wiki/concepts/respectabilitytax/"
+  - key: "RelationalDisrespectPowerRisk"
+    title: "关系性轻慢风险 / Relational Disrespect Power Risk"
+    url: "/wiki/concepts/relationaldisrespectpowerrisk/"
   - key: "ReputationConstrainedWarRestraint"
     title: "名声约束下的战争节制 / Reputation-Constrained War Restraint"
     url: "/wiki/concepts/reputationconstrainedwarrestraint/"

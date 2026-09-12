@@ -10171,9 +10171,9 @@
       "url": "/wiki/concepts/binarybiotechplatformoptionality/"
     },
     "BingJiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？ [lrJgft-S8Oi3YT3LRNsh0_M20Sxj].md",
@@ -10181,6 +10181,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗 [likMPw-97b-o3P5qaXGYyouRKldn].md",
+          "key": "zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
         }
       ],
       "updated": "2026-09-13",
@@ -28509,9 +28516,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -28575,6 +28582,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗 [likMPw-97b-o3P5qaXGYyouRKldn].md",
+          "key": "zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
         }
       ],
       "updated": "2026-09-13",
@@ -46626,9 +46640,9 @@
       "url": "/wiki/entities/huhanyechanyubi/"
     },
     "HuhanyeChanyuWesternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
@@ -46692,6 +46706,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼",
           "url": "/wiki/sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗 [likMPw-97b-o3P5qaXGYyouRKldn].md",
+          "key": "zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
         }
       ],
       "updated": "2026-09-13",
@@ -79847,6 +79868,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/rejectiontolerancepractice/"
     },
+    "RelationalDisrespectPowerRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗 [likMPw-97b-o3P5qaXGYyouRKldn].md",
+          "key": "zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/relationaldisrespectpowerrisk/"
+    },
     "RelationshipFourHorsemen": {
       "episode_count": 1,
       "show_count": 1,
@@ -103842,9 +103879,9 @@
       "url": "/wiki/entities/xiaosiye/"
     },
     "XiaoWangzhiWesternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？ [lmL1Qwuw3iUjoBNltBjYMEyOjd4g].md",
@@ -103908,6 +103945,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗 [likMPw-97b-o3P5qaXGYyouRKldn].md",
+          "key": "zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
         }
       ],
       "updated": "2026-09-13",
@@ -104691,9 +104735,9 @@
       "url": "/wiki/entities/xiongnu/"
     },
     "XiongnuSuccessionFragmentation": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼 [lo39-Mygg6xxo8cwCYvPQzCPZhRm].md",
@@ -104701,6 +104745,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼",
           "url": "/wiki/sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗 [likMPw-97b-o3P5qaXGYyouRKldn].md",
+          "key": "zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
         }
       ],
       "updated": "2026-09-13",
