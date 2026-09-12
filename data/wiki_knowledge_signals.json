@@ -6582,6 +6582,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/antiusurpationcoalitionpressure/"
     },
+    "AnticoagulationSelfMedicationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
+          "key": "vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan",
+          "show": "这病说来话长",
+          "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
+          "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/anticoagulationselfmedicationboundary/"
+    },
     "AntonOsika": {
       "episode_count": 1,
       "show_count": 1,
@@ -14051,6 +14067,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/chenanni/"
+    },
+    "ChenBinVascularSurgery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
+          "key": "vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan",
+          "show": "这病说来话长",
+          "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
+          "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/chenbinvascularsurgery/"
     },
     "ChenChongLateHan": {
       "episode_count": 2,
@@ -26267,6 +26299,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/economicupswingurbandramamemory/"
     },
+    "EconomyClassSyndromeTravelThrombosis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
+          "key": "vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan",
+          "show": "这病说来话长",
+          "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
+          "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/economyclasssyndrometravelthrombosis/"
+    },
     "EddieChang": {
       "episode_count": 1,
       "show_count": 1,
@@ -32330,6 +32378,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/fengyaneasternhan/"
+    },
+    "FengYanfeiVascularSurgery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
+          "key": "vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan",
+          "show": "这病说来话长",
+          "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
+          "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/fengyanfeivascularsurgery/"
     },
     "FengYewangWesternHan": {
       "episode_count": 2,
@@ -94099,6 +94163,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/travelagencyitineraryoperations/"
     },
+    "TravelThrombosisPrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
+          "key": "vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan",
+          "show": "这病说来话长",
+          "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
+          "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/travelthrombosisprevention/"
+    },
     "TravisKalanick": {
       "episode_count": 1,
       "show_count": 1,
@@ -96050,6 +96130,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/venezuela/"
+    },
+    "VenousThromboembolismTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
+          "key": "vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan",
+          "show": "这病说来话长",
+          "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
+          "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/venousthromboembolismtriage/"
     },
     "VentromedialHypothalamus": {
       "episode_count": 1,
@@ -109473,6 +109569,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/zhebingshuolaihuachang/"
+    },
+    "ZhejiangUniversitySecondAffiliatedHospital": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "liyNBGzpSRBbZH9gUP9Svln4adzx [liyNBGzpSRBbZH9gUP9Svln4adzx].md",
+          "key": "vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan",
+          "show": "这病说来话长",
+          "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
+          "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/zhejianguniversitysecondaffiliatedhospital/"
     },
     "ZhenFengXinOfficial": {
       "episode_count": 3,

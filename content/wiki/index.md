@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南](sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan.md) — 这病说来话长 episode with vascular surgeons Chen Bin and Feng Yanfei on travel-related venous thrombosis risk, leg-swelling red flags, compression stockings, anticoagulation boundaries, and emergency routing.
 - [《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？](sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt.md) — 芮淇讲透资治通鉴 episode on Han Xuan's final illness and death, Huhanye-Zhizhi Xiongnu split pressure, deathbed entrusted officials, Xuan's reign evaluation, and Han Yuan's accession.
 - [《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事](sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's Chuyuan 1 relief-and-austerity context, Wang Ji and Gong Yu's summons, the "贡禹弹冠" idiom, and Gong Yu's palace-thrift remonstrance.
 - [《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？](sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs.md) — 芮淇讲透资治通鉴 episode on Gong Yu's true-but-evasive thrift advice, Sima Guang's priority critique, and Wei Zheng/Fan Zhongyan as public-duty contrasts.
@@ -2321,6 +2322,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [陈斌 / Chen Bin (Vascular Surgery)](entities/ChenBinVascularSurgery.md) — Zhejiang University Second Affiliated Hospital vascular-surgery guest explaining economy-class syndrome, thrombosis risk, pulmonary embolism, emergency routing, and anticoagulation boundaries.
+- [冯燕飞 / Feng Yanfei (Vascular Surgery)](entities/FengYanfeiVascularSurgery.md) — Vascular-surgery guest explaining thrombosis risk factors, ordinary travel prevention, hydration, ankle-pump movement, and swelling-pattern distinctions.
+- [Zhejiang University School of Medicine Second Affiliated Hospital / 浙江大学医学院附属第二医院](entities/ZhejiangUniversitySecondAffiliatedHospital.md) — Hospital affiliation for the VOL.204 vascular-surgery guests on travel-related venous thrombosis.
 - [魏征 / Wei Zheng (Tang)](entities/WeiZhengTang.md) — Tang direct-remonstrance contrast in Hanji 467.
 - [范仲淹 / Fan Zhongyan](entities/FanZhongyan.md) — Song official-conscience contrast in Hanji 467.
 - [唐太宗 / Emperor Taizong of Tang](entities/EmperorTaizongOfTang.md) — ruler-side condition for Wei Zheng's remonstrance in Hanji 467.
@@ -12217,6 +12221,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Anticoagulation Self-Medication Boundary / 抗凝自行用药边界](concepts/AnticoagulationSelfMedicationBoundary.md) — Medication-safety boundary distinguishing aspirin, anticoagulation, fibrinolysis, thrombolysis, and clinician-directed prophylaxis.
+- [Economy-Class Syndrome Travel Thrombosis / 经济舱综合征旅行血栓](concepts/EconomyClassSyndromeTravelThrombosis.md) — Travel-health frame for lower-limb venous thrombosis risk from prolonged immobility, venous stasis, dehydration, and high-risk coagulation contexts.
+- [Travel Thrombosis Prevention / 旅行血栓预防](concepts/TravelThrombosisPrevention.md) — Prevention frame for long travel through movement, ankle-pump exercise, hydration, posture breaks, and compression-stocking boundaries.
+- [Venous Thromboembolism Triage / 静脉血栓栓塞分诊](concepts/VenousThromboembolismTriage.md) — Red-flag and emergency-routing concept for suspected lower-limb thrombosis or pulmonary embolism risk.
 - [真实但避重就轻的进谏 / True But Evasive Remonstrance](concepts/TrueButEvasiveRemonstrance.md) — Truthful advice that avoids the urgent institutional problem.
 - [Conversation As Self-Revelation / 对话作为自我显现](concepts/ConversationAsSelfRevelation.md) — Interview ideal where conversation helps a speaker discover and articulate something they did not already know how to say.
 - [Death Normalization Practice / 死亡日常化练习](concepts/DeathNormalizationPractice.md) — Making death discussable through ordinary language, wills, last wishes, funerals, digital accounts, and farewell practice.

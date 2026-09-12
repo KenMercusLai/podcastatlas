@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9892
+wiki_total_pages: 9895
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -137,6 +137,9 @@ wiki_pages:
   - key: "ZhejiangUniversity"
     title: "Zhejiang University / 浙江大学"
     url: "/wiki/entities/zhejianguniversity/"
+  - key: "ZhejiangUniversitySecondAffiliatedHospital"
+    title: "Zhejiang University School of Medicine Second Affiliated Hospital / 浙江大学医学院附属第二医院"
+    url: "/wiki/entities/zhejianguniversitysecondaffiliatedhospital/"
   - key: "ZhengkeFund"
     title: "ZhenFund"
     url: "/wiki/entities/zhengkefund/"

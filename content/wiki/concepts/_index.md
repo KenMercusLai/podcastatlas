@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7219
+wiki_total_pages: 7223
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -1802,6 +1802,9 @@ wiki_pages:
   - key: "AntiUsurpationCoalitionPressure"
     title: "Anti-Usurpation Coalition Pressure / 讨逆同盟压力"
     url: "/wiki/concepts/antiusurpationcoalitionpressure/"
+  - key: "AnticoagulationSelfMedicationBoundary"
+    title: "Anticoagulation Self-Medication Boundary / 抗凝自行用药边界"
+    url: "/wiki/concepts/anticoagulationselfmedicationboundary/"
   - key: "Antifragility"
     title: "Antifragility"
     url: "/wiki/concepts/antifragility/"

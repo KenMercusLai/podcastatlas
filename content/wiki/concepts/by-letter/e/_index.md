@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7219
+wiki_total_pages: 7223
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -101,6 +101,9 @@ wiki_pages:
   - key: "EconomistTrustCrisis"
     title: "Economist Trust Crisis"
     url: "/wiki/concepts/economisttrustcrisis/"
+  - key: "EconomyClassSyndromeTravelThrombosis"
+    title: "Economy-Class Syndrome Travel Thrombosis / 经济舱综合征旅行血栓"
+    url: "/wiki/concepts/economyclasssyndrometravelthrombosis/"
   - key: "ECTBipolarDepressionBoundary"
     title: "ECT Bipolar Depression Boundary"
     url: "/wiki/concepts/ectbipolardepressionboundary/"

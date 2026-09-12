@@ -17812,6 +17812,10 @@ Added source. Key claims: Callaghan and Healey accepted IMF-backed cuts while ke
 
 Added source note on Han Yuandi's abolition of Zhuya Commandery, Hainan's post-abolition nominal attachment, Ma Yuan-era restored contact, and Yuan-era thrift, Confucian education, and legal simplification. Created Zhuya Commandery and extended Han Yuandi, Zhou Kan, Zhang Meng, and Capacity-Bound Frontier Commitment.
 
+## [2026-09-13] ingest | VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南
+
+Added source. Key claims: economy-class syndrome is better understood as immobility-related lower-limb venous thrombosis risk across flights, trains, cars, and long sitting; prevention centers on movement, hydration, ankle-pump exercise, and appropriate compression stockings; sudden unilateral continuous swelling, pain, calf hardness, or severe whole-limb swelling should be routed to urgent evaluation with reduced walking or massage; aspirin and anticoagulants should not be used casually as travel hacks.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18534,6 +18538,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？
 
 Added source. Key claims: early Han Yuandi politics splits among outer relatives, Confucian teacher-ministers, and Zhongshu eunuchs; Xiao Wangzhi's anti-eunuch memorial openly targets Hong Gong and Shi Xian's institutional base; Zheng Peng first gains encouragement by attacking Shi Gao's side, setting up the later Hanji 469 betrayal sequence.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

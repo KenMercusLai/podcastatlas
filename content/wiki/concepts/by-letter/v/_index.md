@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "v"
-wiki_total_pages: 7219
+wiki_total_pages: 7223
 wiki_pages:
   - key: "VacationShame"
     title: "Vacation Shame / 休假羞耻感"
@@ -56,6 +56,9 @@ wiki_pages:
   - key: "VeilOfIgnorance"
     title: "Veil Of Ignorance"
     url: "/wiki/concepts/veilofignorance/"
+  - key: "VenousThromboembolismTriage"
+    title: "Venous Thromboembolism Triage / 静脉血栓栓塞分诊"
+    url: "/wiki/concepts/venousthromboembolismtriage/"
   - key: "VentureComputerScienceEdge"
     title: "Venture Computer-Science Edge"
     url: "/wiki/concepts/venturecomputerscienceedge/"

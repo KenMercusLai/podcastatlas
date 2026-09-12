@@ -5575,6 +5575,10 @@
     "title": "Anti-Usurpation Coalition Pressure / 讨逆同盟压力",
     "url": "/wiki/concepts/antiusurpationcoalitionpressure/"
   },
+  "AnticoagulationSelfMedicationBoundary": {
+    "title": "Anticoagulation Self-Medication Boundary / 抗凝自行用药边界",
+    "url": "/wiki/concepts/anticoagulationselfmedicationboundary/"
+  },
   "Antifragility": {
     "title": "Antifragility",
     "url": "/wiki/concepts/antifragility/"
@@ -11118,6 +11122,10 @@
   "ChenBaoLateHan": {
     "title": "陈鲍 / Chen Bao (late Han)",
     "url": "/wiki/entities/chenbaolatehan/"
+  },
+  "ChenBinVascularSurgery": {
+    "title": "陈斌 / Chen Bin (Vascular Surgery)",
+    "url": "/wiki/entities/chenbinvascularsurgery/"
   },
   "ChenCang": {
     "title": "陈仓 / Chen Cang",
@@ -18607,6 +18615,10 @@
     "title": "Economist Trust Crisis",
     "url": "/wiki/concepts/economisttrustcrisis/"
   },
+  "EconomyClassSyndromeTravelThrombosis": {
+    "title": "Economy-Class Syndrome Travel Thrombosis / 经济舱综合征旅行血栓",
+    "url": "/wiki/concepts/economyclasssyndrometravelthrombosis/"
+  },
   "Ecuador": {
     "title": "Ecuador",
     "url": "/wiki/entities/ecuador/"
@@ -21410,6 +21422,10 @@
   "FengYanEasternHan": {
     "title": "冯衍 / Feng Yan (Eastern Han)",
     "url": "/wiki/entities/fengyaneasternhan/"
+  },
+  "FengYanfeiVascularSurgery": {
+    "title": "冯燕飞 / Feng Yanfei (Vascular Surgery)",
+    "url": "/wiki/entities/fengyanfeivascularsurgery/"
   },
   "FengYewangWesternHan": {
     "title": "冯野王 / Feng Yewang (Western Han)",
@@ -60455,6 +60471,10 @@
     "title": "Travel Super App Convenience",
     "url": "/wiki/concepts/travelsuperappconvenience/"
   },
+  "TravelThrombosisPrevention": {
+    "title": "Travel Thrombosis Prevention / 旅行血栓预防",
+    "url": "/wiki/concepts/travelthrombosisprevention/"
+  },
   "TravisBickle": {
     "title": "Travis Bickle",
     "url": "/wiki/entities/travisbickle/"
@@ -61854,6 +61874,10 @@
   "Venmo": {
     "title": "Venmo",
     "url": "/wiki/entities/venmo/"
+  },
+  "VenousThromboembolismTriage": {
+    "title": "Venous Thromboembolism Triage / 静脉血栓栓塞分诊",
+    "url": "/wiki/concepts/venousthromboembolismtriage/"
   },
   "VentromedialHypothalamus": {
     "title": "Ventromedial Hypothalamus",
@@ -68827,6 +68851,10 @@
     "title": "Zhejiang University / 浙江大学",
     "url": "/wiki/entities/zhejianguniversity/"
   },
+  "ZhejiangUniversitySecondAffiliatedHospital": {
+    "title": "Zhejiang University School of Medicine Second Affiliated Hospital / 浙江大学医学院附属第二医院",
+    "url": "/wiki/entities/zhejianguniversitysecondaffiliatedhospital/"
+  },
   "ZhenFengXinOfficial": {
     "title": "甄丰 / Zhen Feng (Xin official)",
     "url": "/wiki/entities/zhenfengxinofficial/"
@@ -73570,6 +73598,10 @@
   "vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1": {
     "title": "Vol. 174 iPhone Duo买不买？苹果26秋季发布会",
     "url": "/wiki/sources/vol-174-iphone-duo-mai-bu-mai-pingguo-26-qiujifabuhui-1-6695-1/"
+  },
+  "vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan": {
+    "title": "VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南",
+    "url": "/wiki/sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan/"
   },
   "vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng": {
     "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",

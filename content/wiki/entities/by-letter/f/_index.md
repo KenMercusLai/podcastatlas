@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9892
+wiki_total_pages: 9895
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -785,6 +785,9 @@ wiki_pages:
   - key: "FengHuanLateHan"
     title: "冯焕 / Feng Huan (late Han)"
     url: "/wiki/entities/fenghuanlatehan/"
+  - key: "FengYanfeiVascularSurgery"
+    title: "冯燕飞 / Feng Yanfei (Vascular Surgery)"
+    url: "/wiki/entities/fengyanfeivascularsurgery/"
   - key: "FengShiFavoriteLateHan"
     title: "冯石 / Feng Shi (Emperor An favorite)"
     url: "/wiki/entities/fengshifavoritelatehan/"

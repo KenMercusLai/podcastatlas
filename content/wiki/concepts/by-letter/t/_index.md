@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7219
+wiki_total_pages: 7223
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -644,6 +644,9 @@ wiki_pages:
   - key: "TravelSuperAppConvenience"
     title: "Travel Super App Convenience"
     url: "/wiki/concepts/travelsuperappconvenience/"
+  - key: "TravelThrombosisPrevention"
+    title: "Travel Thrombosis Prevention / 旅行血栓预防"
+    url: "/wiki/concepts/travelthrombosisprevention/"
   - key: "TreasonAccusationTrap"
     title: "Treason Accusation Trap / 谋反指控陷阱"
     url: "/wiki/concepts/treasonaccusationtrap/"
