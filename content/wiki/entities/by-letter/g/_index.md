@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9802
+wiki_total_pages: 9810
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -812,6 +812,9 @@ wiki_pages:
   - key: "GongzhongHuan"
     title: "公中缓 / Gongzhong Huan"
     url: "/wiki/entities/gongzhonghuan/"
+  - key: "GongchengXingWesternHan"
+    title: "公乘兴 / Gongcheng Xing (Western Han)"
+    url: "/wiki/entities/gongchengxingwesternhan/"
   - key: "GongzhongHan"
     title: "公众 / Gongzhong of Han"
     url: "/wiki/entities/gongzhonghan/"
@@ -1115,9 +1118,15 @@ wiki_pages:
   - key: "GardenHotelShanghai"
     title: "花园饭店 / Garden Hotel Shanghai"
     url: "/wiki/entities/gardenhotelshanghai/"
+  - key: "GouCanWesternHan"
+    title: "苟参 / Gou Can (Western Han)"
+    url: "/wiki/entities/goucanwesternhan/"
   - key: "GouBian"
     title: "苟变 / Gou Bian"
     url: "/wiki/entities/goubian/"
+  - key: "GouBinWesternHan"
+    title: "苟宾 / Gou Bin (Western Han)"
+    url: "/wiki/entities/goubinwesternhan/"
   - key: "GeXunLateHan"
     title: "葛勋 / Ge Xun (late Han)"
     url: "/wiki/entities/gexunlatehan/"

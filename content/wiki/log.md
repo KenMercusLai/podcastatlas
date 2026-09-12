@@ -17700,6 +17700,10 @@ Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Await
 
 Added source note and new synthesis-first pages for AI doomerism, Anthropic IPO disclosure risk, AI data leakage/privacy, compute-leveraged science, Nike brand drift, athletic mastery branding, Jacob Coxon, and Evan Hubinger.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》511丨“太后”天花板！她如何一天封五个弟弟为侯？
+
+Added source note for Hanji 511, updated Wang Zun with the impeachment-review branch, and created Gongcheng Xing, Zhang Zhong, Yang Fu, Chengdi Five Marquises, Wang Feng / 王逢, Gou Can, Gou Bin, Wang Man, and Bureaucratic Impeachment Review.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18029,6 +18033,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

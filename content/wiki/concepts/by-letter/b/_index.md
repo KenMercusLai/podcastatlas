@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "b"
-wiki_total_pages: 7124
+wiki_total_pages: 7125
 wiki_pages:
   - key: "BTypeRVMotorhome"
     title: "B-Type RV Motorhome"
@@ -713,6 +713,9 @@ wiki_pages:
   - key: "BeneficialGovernanceDelivery"
     title: "善政实惠落地 / Beneficial Governance Delivery"
     url: "/wiki/concepts/beneficialgovernancedelivery/"
+  - key: "BureaucraticImpeachmentReview"
+    title: "官员弹劾公开复核 / Bureaucratic Impeachment Review"
+    url: "/wiki/concepts/bureaucraticimpeachmentreview/"
   - key: "BureaucraticAdverseSelection"
     title: "官场逆淘汰 / Bureaucratic Adverse Selection"
     url: "/wiki/concepts/bureaucraticadverseselection/"

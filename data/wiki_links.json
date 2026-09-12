@@ -9179,6 +9179,10 @@
     "title": "官场逆淘汰 / Bureaucratic Adverse Selection",
     "url": "/wiki/concepts/bureaucraticadverseselection/"
   },
+  "BureaucraticImpeachmentReview": {
+    "title": "官员弹劾公开复核 / Bureaucratic Impeachment Review",
+    "url": "/wiki/concepts/bureaucraticimpeachmentreview/"
+  },
   "BureaucraticRiskAvoidance": {
     "title": "Bureaucratic Risk Avoidance",
     "url": "/wiki/concepts/bureaucraticriskavoidance/"
@@ -11354,6 +11358,10 @@
   "ChengYu": {
     "title": "程昱 / Cheng Yu",
     "url": "/wiki/entities/chengyu/"
+  },
+  "ChengdiFiveMarquisesWesternHan": {
+    "title": "成帝五侯 / Chengdi Five Marquises (Western Han)",
+    "url": "/wiki/entities/chengdifivemarquiseswesternhan/"
   },
   "Chengdu": {
     "title": "Chengdu / 成都",
@@ -24595,6 +24603,10 @@
     "title": "龚自珍 / Gong Zizhen",
     "url": "/wiki/entities/gongzizhen/"
   },
+  "GongchengXingWesternHan": {
+    "title": "公乘兴 / Gongcheng Xing (Western Han)",
+    "url": "/wiki/entities/gongchengxingwesternhan/"
+  },
   "GongfuXiong": {
     "title": "功夫熊 / Gongfu Xiong",
     "url": "/wiki/entities/gongfuxiong/"
@@ -24882,6 +24894,14 @@
   "GouBian": {
     "title": "苟变 / Gou Bian",
     "url": "/wiki/entities/goubian/"
+  },
+  "GouBinWesternHan": {
+    "title": "苟宾 / Gou Bin (Western Han)",
+    "url": "/wiki/entities/goubinwesternhan/"
+  },
+  "GouCanWesternHan": {
+    "title": "苟参 / Gou Can (Western Han)",
+    "url": "/wiki/entities/goucanwesternhan/"
   },
   "GougouCheshiKing": {
     "title": "车师后王沽沟 / Gougou",
@@ -61895,6 +61915,10 @@
     "title": "王芬 / Wang Fen (late Han)",
     "url": "/wiki/entities/wangfenlatehan/"
   },
+  "WangFengMarquisWesternHan": {
+    "title": "王逢 / Wang Feng (Western Han marquis)",
+    "url": "/wiki/entities/wangfengmarquiswesternhan/"
+  },
   "WangFengWesternHan": {
     "title": "王凤 / Wang Feng (Western Han)",
     "url": "/wiki/entities/wangfengwesternhan/"
@@ -62110,6 +62134,10 @@
   "WangLixin": {
     "title": "王立新 / Wang Lixin",
     "url": "/wiki/entities/wanglixin/"
+  },
+  "WangManWesternHan": {
+    "title": "王曼 / Wang Man (Western Han)",
+    "url": "/wiki/entities/wangmanwesternhan/"
   },
   "WangMang": {
     "title": "Wang Mang / 王莽",
@@ -65691,6 +65719,10 @@
     "title": "杨阜 / Yang Fu (late Han)",
     "url": "/wiki/entities/yangfulatehan/"
   },
+  "YangFuWesternHan": {
+    "title": "杨辅 / Yang Fu (Western Han)",
+    "url": "/wiki/entities/yangfuwesternhan/"
+  },
   "YangGuangSui": {
     "title": "杨广 / Emperor Yang of Sui",
     "url": "/wiki/entities/yangguangsui/"
@@ -67670,6 +67702,10 @@
   "ZhangZhiqi": {
     "title": "张芝琪 / Zhang Zhiqi",
     "url": "/wiki/entities/zhangzhiqi/"
+  },
+  "ZhangZhongWesternHan": {
+    "title": "张忠 / Zhang Zhong (Western Han)",
+    "url": "/wiki/entities/zhangzhongwesternhan/"
   },
   "ZhangZhupo": {
     "title": "张竹坡 / Zhang Zhupo",
@@ -73854,6 +73890,10 @@
   "zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4": {
     "title": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
+  },
+  "zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht": {
+    "title": "《资治通鉴·汉纪》511丨“太后”天花板！她如何一天封五个弟弟为侯？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht/"
   },
   "zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb": {
     "title": "《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！",

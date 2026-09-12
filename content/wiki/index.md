@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》511丨“太后”天花板！她如何一天封五个弟弟为侯？](sources/zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht.md) — 芮淇讲透资治通鉴 episode on Wang Zhengjun's same-day enfeoffment of five Wang brothers, Gou Can's failed marquisate request, and Gongcheng Xing's defense of Wang Zun against a possibly private-grievance impeachment.
 - [AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse](sources/all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265.md) — All-In episode on AI doomerism, Anthropic IPO disclosure tension, open-source AI regulation risk, OpenAI's contested Navier-Stokes breakthrough, enterprise data leakage, and Nike brand drift.
 - [《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚](sources/zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut.md) — 芮淇讲透资治通鉴 episode on Chengdi's first-year Wang-family enfeoffments, yellow-fog criticism of outer relatives, Xue Xuan's governance memorial, early ritual reforms, tax reduction, Yanling, and Empress Xu's installation.
 - [《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？](sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3.md) — 芮淇讲透资治通鉴 episode on Chengdi cutting Empress Xu's harem expenses under eclipse, no-heir, and Wang-family pressure, framed through modern economic-independence commentary.
@@ -2260,6 +2261,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [公乘兴 / Gongcheng Xing (Western Han)](entities/GongchengXingWesternHan.md) — Memorialist who defends Wang Zun by asking the court to review both the accused official and the accusers.
+- [张忠 / Zhang Zhong (Western Han)](entities/ZhangZhongWesternHan.md) — Yushi Dafu whose impeachment removes Wang Zun before Gongcheng Xing challenges the accusation.
+- [杨辅 / Yang Fu (Western Han)](entities/YangFuWesternHan.md) — Yushi Cheng named as the privately resentful source of charges against Wang Zun.
+- [成帝五侯 / Chengdi Five Marquises (Western Han)](entities/ChengdiFiveMarquisesWesternHan.md) — Wang Zhengjun's five brothers enfeoffed by Chengdi on the same day in 27 BCE.
+- [王逢 / Wang Feng (Western Han marquis)](entities/WangFengMarquisWesternHan.md) — Disambiguated Wang-family brother who appears as one of Chengdi's same-day Five Marquises.
+- [苟参 / Gou Can (Western Han)](entities/GouCanWesternHan.md) — Wang Zhengjun's half-brother whose requested marquisate is refused while offices are granted.
+- [苟宾 / Gou Bin (Western Han)](entities/GouBinWesternHan.md) — Henei man whose marriage to Wang Zhengjun's mother creates Gou Can's half-sibling link.
+- [王曼 / Wang Man (Western Han)](entities/WangManWesternHan.md) — Wang Zhengjun's same-father brother whose earlier death marks the exception to the Five Marquises group.
 - [Evan Hubinger](entities/EvanHubinger.md) — Anthropic alignment-safety figure whose Coxon-related comments raise source-scoped AI disclosure-risk questions.
 - [Jacob Coxon](entities/JacobCoxon.md) — former OpenAI and Anthropic researcher whose resignation thread triggered the episode's AI doomerism debate.
 - [王尊 / Wang Zun (Western Han)](entities/WangZunWesternHan.md) — Chengdi-era local-security official who quickly suppresses the Peng Zong-led Nanshan bandits after earlier force fails.
@@ -12066,6 +12075,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [官员弹劾公开复核 / Bureaucratic Impeachment Review](concepts/BureaucraticImpeachmentReview.md) — Procedural pattern for testing impeachment against public record, private grievance, and accuser responsibility.
 - [AI Compute Brute-Force Science](concepts/AIComputeBruteForceScience.md) — use of large agent swarms, token budgets, and parallel search to compress scientific or mathematical work.
 - [AI Data Leakage](concepts/AIDataLeakage.md) — risk that prompts, logs, de-identified data, or usage patterns expose proprietary insight through hosted model systems.
 - [AI Data Privacy Law](concepts/AIDataPrivacyLaw.md) — legal-policy question of protecting AI chats, files, logs, and memories from weak access standards or disclosure.

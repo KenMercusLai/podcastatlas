@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9802
+wiki_total_pages: 9810
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1220,6 +1220,9 @@ wiki_pages:
   - key: "WongJing"
     title: "王晶 / Wong Jing"
     url: "/wiki/entities/wongjing/"
+  - key: "WangManWesternHan"
+    title: "王曼 / Wang Man (Western Han)"
+    url: "/wiki/entities/wangmanwesternhan/"
   - key: "WangFuDongChengPlot"
     title: "王服 / Wang Fu (Dong Cheng plot)"
     url: "/wiki/entities/wangfudongchengplot/"
@@ -1337,6 +1340,9 @@ wiki_pages:
   - key: "WangBenQin"
     title: "王贲 / Wang Ben (Qin)"
     url: "/wiki/entities/wangbenqin/"
+  - key: "WangFengMarquisWesternHan"
+    title: "王逢 / Wang Feng (Western Han marquis)"
+    url: "/wiki/entities/wangfengmarquiswesternhan/"
   - key: "WangYiHedongLateHan"
     title: "王邑 / Wang Yi (Hedong administrator)"
     url: "/wiki/entities/wangyihedonglatehan/"

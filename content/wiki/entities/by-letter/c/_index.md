@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9802
+wiki_total_pages: 9810
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1475,6 +1475,9 @@ wiki_pages:
   - key: "ChangzhouIndustrialVocationalTechnicalCollege"
     title: "常州工业职业技术学院 / Changzhou Industrial Vocational Technical College"
     url: "/wiki/entities/changzhouindustrialvocationaltechnicalcollege/"
+  - key: "ChengdiFiveMarquisesWesternHan"
+    title: "成帝五侯 / Chengdi Five Marquises (Western Han)"
+    url: "/wiki/entities/chengdifivemarquiseswesternhan/"
   - key: "ChengJinLateHan"
     title: "成瑨 / Cheng Jin (late Han)"
     url: "/wiki/entities/chengjinlatehan/"
