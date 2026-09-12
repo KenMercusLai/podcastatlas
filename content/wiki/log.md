@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！
+
+Added source note, created Hou Yin and Partnership Boundary Risk, and updated Han Yuandi, Huhanye Chanyu, and Strategic Frontier Abandonment with the border-defense withdrawal debate.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨
 
 Added source `zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra`; created `MessageRelayPoliticalPower`; updated `ShiXianWesternHan`, `HanYuandi`, `KuangHengWesternHan`, `ZhangTanWesternHan`, `TrustedEunuchPowerFormation`, `CourtTransitionBlameManagement`, and `index`. No settled contradiction found; Shi Xian's exact legal record, psychology, full party network, and institutional office details remain source-scoped.
@@ -18069,6 +18073,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

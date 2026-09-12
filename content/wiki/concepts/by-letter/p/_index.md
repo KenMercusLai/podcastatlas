@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7132
+wiki_total_pages: 7133
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1832,6 +1832,9 @@ wiki_pages:
   - key: "PunishmentAsMoralCredential"
     title: "受罚作为名节凭据 / Punishment as Moral Credential"
     url: "/wiki/concepts/punishmentasmoralcredential/"
+  - key: "PartnershipBoundaryRisk"
+    title: "合伙关系边界风险 / Partnership Boundary Risk"
+    url: "/wiki/concepts/partnershipboundaryrisk/"
   - key: "PatronageLossSelfProtection"
     title: "失去靠山后的低调自保 / Patronage-Loss Self-Protection"
     url: "/wiki/concepts/patronagelossselfprotection/"

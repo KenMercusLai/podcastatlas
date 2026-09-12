@@ -14,16 +14,19 @@ sources:
   - zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa
   - zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6
   - zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi
-last_updated: 2026-08-31
+  - zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g
+last_updated: 2026-09-12
 ---
 
 ## Definition
 
-Strategic Frontier Abandonment / 弃边失屏 is a pattern where a costly frontier, corridor, or buffer is treated as removable burden while its accumulated prior investment, shield, warning, alliance, population-protection, route-control, and future-defense-cost functions are undervalued.
+Strategic Frontier Abandonment / 弃边失屏 is a pattern where a costly frontier, corridor, buffer, or defensive screen is treated as removable burden while its accumulated prior investment, shield, warning, alliance, population-protection, route-control, bargaining-leverage, and future-defense-cost functions are undervalued.
 
 ## Current Synthesis
 
-Hanji 747 now supplies the earliest Western Regions micro-case. When the court abolishes Western Regions offices and recalls [[BanChaoEasternHan|Ban Chao]], local panic in [[ShuleKingdom|Shule]] and [[KhotanKingdomLateHan|Khotan]] shows that formal withdrawal is already destabilizing allied space. The same source's 77 CE [[YiwuGarrisonLateHan|Yiwu]] notice is even starker: Han withdraws the tuntian troops, and [[NorthernXiongnuLateHan|Northern Xiongnu]] immediately occupies the position again.
+[[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] now supplies the earliest current Western Han form of the concept. [[HuhanyeChanyuWesternHan|Huhanye Chanyu]] offers to guard the border for [[HanYuandi|Han Yuandi]] and asks Han to remove frontier defenses. [[HouYinWesternHan|Hou Yin]] objects that present submission does not erase future incentive change, that Yinshan and the forts are long-built screens, and that removing defenses would also weaken control over border populations, fugitives, Han-Qiang friction, and future bargaining leverage.
+
+Hanji 747 supplies the earliest Eastern Han Western Regions micro-case. When the court abolishes Western Regions offices and recalls [[BanChaoEasternHan|Ban Chao]], local panic in [[ShuleKingdom|Shule]] and [[KhotanKingdomLateHan|Khotan]] shows that formal withdrawal is already destabilizing allied space. The same source's 77 CE [[YiwuGarrisonLateHan|Yiwu]] notice is even starker: Han withdraws the tuntian troops, and [[NorthernXiongnuLateHan|Northern Xiongnu]] immediately occupies the position again.
 
 Hanji 779 supplies the later Western Regions abandonment mechanism. Ban Chao had held the region through local knowledge, light-touch rule, and pro-Han kingship arrangements such as [[QiuciKingdom|Qiuci]]'s Ba Ba. [[RenShangLateHan|Ren Shang]] inherits the office with military reputation but ignores Ban Chao's advice, governs harshly, triggers rebellion, and leaves the court paying for rescue through [[LiangJinLateHan|Liang Jin]] and [[DuanXiLateHan|Duan Xi]]. The final withdrawal is therefore not only a budget decision; it follows appointment failure that turns a low-support balancing system into an expensive garrison problem.
 
@@ -33,7 +36,7 @@ The Liangzhou cases add the domestic-frontier version. Hanji 782 records Pang Ca
 
 ## Key Claims
 
-- Frontier abandonment becomes tempting when transport, defense, garrison, and tax costs become visible before accumulated prior investment and shield benefits do.
+- Frontier abandonment becomes tempting when transport, defense, garrison, and tax costs become visible before accumulated prior investment, shield benefits, rebuild costs, and counterpart-leverage risks do.
 - Withdrawal can create immediate power vacuums, as the Yiwu garrison notice shows when Northern Xiongnu reoccupies the abandoned position.
 - The Western Regions case shows that personnel misfit can convert an inherited low-cost frontier system into an unaffordable crisis.
 - Humanitarian retrenchment and strategic abandonment can overlap, so the same proposal may reduce immediate suffering while raising future exposure.
@@ -43,6 +46,9 @@ The Liangzhou cases add the domestic-frontier version. Hanji 782 records Pang Ca
 
 ## Evidence
 
+- Western Han defensive-screen warning: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Hou Yin opposes removing border defenses after Huhanye offers to guard the frontier.
+- Future incentive change: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Hou Yin treats current Xiongnu submission as weakness-conditioned rather than permanent.
+- Governance and leverage costs: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says frontier defenses also manage dependent populations, fugitives, local abuse risk, and the chanyu's possible future reward demands.
 - Early recall and local panic: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] shows Shule and Khotan reacting to Ban Chao's recall as if Han withdrawal will collapse their security.
 - Early Yiwu withdrawal: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Zhangdi withdraws Yiwu Lu tuntian troops and Northern Xiongnu occupies the position again.
 - Immediate Western Regions mechanism: [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] links Ren Shang's harsh misgovernment, Western Regions rebellion, Liang Jin's rescue, and Duan Xi's failed handoff to the court's final withdrawal.
@@ -55,17 +61,20 @@ The Liangzhou cases add the domestic-frontier version. Hanji 782 records Pang Ca
 
 ## Counterevidence & Qualifications
 
-The concept should not imply that every frontier must be held indefinitely. Hanji 747 itself shows Ban Chao partially reversing one withdrawal crisis by returning to Shule, so the decision space includes selective re-commitment rather than all-or-nothing retention. Hanji 779, Hanji 780, and Hanji 782 give serious cost arguments: some positions may be so distant or expensive that continuing the same campaign destroys the population base and treasury the state claims to defend. The current judgment is conditional: abandonment is dangerous when decision-makers count immediate cost without pricing accumulated prior investment, shield function, route leverage, civilian protection, alliance effects, governance fit, and future reconquest expense.
+The concept should not imply that every frontier must be held indefinitely. Hanji 493 is a warning case rather than a full cost-benefit model for every border system, and the transcript summary does not fully reconstruct all ten of Hou Yin's reasons. Hanji 747 itself shows Ban Chao partially reversing one withdrawal crisis by returning to Shule, so the decision space includes selective re-commitment rather than all-or-nothing retention. Hanji 779, Hanji 780, and Hanji 782 give serious cost arguments: some positions may be so distant or expensive that continuing the same campaign destroys the population base and treasury the state claims to defend. The current judgment is conditional: abandonment is dangerous when decision-makers count immediate cost without pricing accumulated prior investment, shield function, route leverage, civilian protection, alliance effects, governance fit, bargaining dependency, and future reconquest expense.
 
 ## What Changed
 
-- Added Hanji 747 as the earliest current source layer, centered on recall panic and Yiwu reoccupation after withdrawal.
-- Reframed Yiwu as a concise garrison example of abandonment creating immediate enemy occupation.
+- Added Hanji 493 as the earliest current source layer, centered on Hou Yin's case against removing Western Han frontier defenses after Huhanye's protection offer.
+- Reframed the concept to include partner-substitution risk: promised protection by a submissive counterpart may create future leverage rather than replace a defensive screen.
+- Preserved Hanji 747 as the earliest Eastern Han Western Regions layer, centered on recall panic and Yiwu reoccupation after withdrawal.
 - Preserved Hanji 779 as the later Western Regions mechanism behind the withdrawal previously summarized by Hanji 780.
-- Reframed Western Regions abandonment as an interaction between appointment failure, local legitimacy loss, rescue cost, and fiscal pressure.
 
 ## Related Concepts
 
+- [[HouYinWesternHan|侯胤]] - Western Han official whose ten-part objection supplies the earliest current defense-retention case.
+- [[HuhanyeChanyuWesternHan|呼韩邪单于]] - counterpart whose protection offer tests whether trust can substitute for frontier infrastructure.
+- [[PartnershipBoundaryRisk|合伙关系边界风险]] - modern analogy because close cooperation may still need retained safeguards.
 - [[YiwuGarrisonLateHan|伊吾屯田]] - garrison node where withdrawal immediately becomes Northern Xiongnu occupation.
 - [[MissionDrivenFrontierResponsibility|使命驱动的边疆责任]] - counter-pattern where Ban Chao reads withdrawal's concrete local danger and returns to stabilize Shule.
 - [[AppointmentQualityAsStateCapacity]] - personnel fit can determine whether a frontier remains a low-cost balance system or becomes an expensive crisis.
