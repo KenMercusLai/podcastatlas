@@ -18171,3 +18171,12 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-12] ingest | 《资治通鉴·汉纪》489丨伪造圣旨杀敌！汉将陈汤有多狂？
+
+- Added source note for the pre-operation Zhizhi campaign setup.
+- Updated Chen Tang, Gan Yanshou, and Zhizhi Chanyu with the forged-command decision layer, Gan's caution, and Zhizhi's pre-battle threat profile.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
