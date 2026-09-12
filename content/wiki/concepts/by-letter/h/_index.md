@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7213
+wiki_total_pages: 7218
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -641,6 +641,9 @@ wiki_pages:
   - key: "HumanJudgmentUnderAI"
     title: "Human Judgment Under AI"
     url: "/wiki/concepts/humanjudgmentunderai/"
+  - key: "HumanMeaningUnderAI"
+    title: "Human Meaning Under AI / AI 下的人类意义"
+    url: "/wiki/concepts/humanmeaningunderai/"
   - key: "HumanNaturePlasticity"
     title: "Human Nature Plasticity / 人性可变性"
     url: "/wiki/concepts/humannatureplasticity/"

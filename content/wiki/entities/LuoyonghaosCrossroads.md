@@ -13,7 +13,8 @@ sources:
   - ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur
   - luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a
   - zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0
-last_updated: 2026-09-11
+  - caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1
+last_updated: 2026-09-13
 knowledge_schema: synthesis-v1
 ---
 
@@ -41,6 +42,8 @@ The show also has a film-history mode. Luo's questioning lets [[WongJing|王晶]
 
 The Zheng Zhi episode adds a film-author profile mode. [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] starts from [[ShenzhongYoulinFilm|《身中有林》]] promotion, then uses specific questions about title, casting, editing, spoilers, roadshows, dialect, debt, and AI-era production cost to build [[ZhengZhiWriter|郑执]] as a writer-director case.
 
+The Cai Kangyong episode adds a mortality-and-public-memory mode. [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] uses a long celebrity interview to move from [[KangxiLaile|《康熙来了》]] and hosting craft into aging, AI simulation, grief advice, written art, wills, funerals, long-lived loneliness, and whether meaning appears only while living.
+
 ## Key Characteristics
 - Long-form interview venue centered on biography, work methods, product judgment, and public interpretation.
 - Host-led conceptual framing that turns a guest's personal story into an analyzable operating problem.
@@ -48,7 +51,7 @@ The Zheng Zhi episode adds a film-author profile mode. [[zhengzhi-luoyonghao-she
 - Culture-facing format that can move between craft/art interpretation, industrial-company strategy, comedic social analysis, film-industry oral history, and film-author profiles.
 - Live-panel format can use jokes, ads, audience interaction, mutual teasing, and persona contrast to make sensitive money, status, and moral topics discussable.
 - Public-persona and counterfactual ethics format that can turn flaws, diagnoses, visible anxieties, review pressure, and speculative technology into social analysis without becoming formal clinical or relationship guidance.
-- Emotional-stability format that uses live disagreement to test public expression, online hygiene, conflict retreat, and the line between maturity and social pressure.
+- Emotional-stability and mortality-facing format that can use live disagreement or celebrity interview to test public expression, online hygiene, conflict retreat, aging, death planning, AI, grief ritual, and life meaning.
 
 ## Evidence
 - Long-form creator interview: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]] follows 手工耿 from childhood and manual work into self-media, business choices, tool use, safety incidents, and public evaluation.
@@ -63,7 +66,8 @@ The Zheng Zhi episode adds a film-author profile mode. [[zhengzhi-luoyonghao-she
 - Emotional-stability panel: [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] uses stance cards, argument, creator stories, road-conflict anecdotes, and closing self-definition to examine adult composure, online expression, and the companionship function of a long live podcast.
 - Film-industry oral history: [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]] uses Wang Jing's career to discuss TVB, Shaw Brothers, Win's Entertainment, Taiwan demand, gang pressure, piracy, and AI-era film work.
 - Film-author profile: [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] uses Zheng Zhi and 《身中有林》 to discuss adaptation, casting, runtime, creator debt, literary timing, and AI-era production cost.
-- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]], and [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] supply ten episodes and do not define the whole program catalog.
+- Mortality and public memory: [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] uses Cai Kangyong to connect hosting, variety-show memory, AI, aging, grief, written art, wills, funerals, and life meaning.
+- Source scope: [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[lingpao-qiche-zhujiangming-luoyonghao-lingpao-shinian-buhui-jiang-gushi-de-ren-ruhe-maicheng-diyi-lhei72y0mlqrh2xxbetnqdp-0stb]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[wangjing-luoyonghao-shui-hai-jide-da-daoyan-zhangche-chuyuan-wo-si-le-shenme-dou-bu-xuyao-liuxia-lrdssf4xu98bzvfcxk6q1okvm7np]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]], [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]], and [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] supply eleven episodes and do not define the whole program catalog.
 
 ## Qualifications
 This page should not infer the show's full editorial mission, release cadence, audience, or business model from nine episodes. The current evidence may overrepresent Luo's interest in product, craft, founder operating details, comedy-panel social analysis, money talk, moral dilemmas, relationship hypotheticals, emotional stability, online expression, consumption, and Hong Kong film history.
@@ -72,8 +76,8 @@ This page should not infer the show's full editorial mission, release cadence, a
 - Added the Sixiao Comedy live-panel episode as evidence that the show can use comedy format to discuss borrowing, debt, and money shame.
 - Expanded the show profile from product/craft/founder interviewing and status analysis into relationship-money discussion.
 - Added the Wang Jing interview as evidence that the show can use long-form biography to build entertainment-industry oral history.
-- Added the "势利" and flaw-themed live panels as evidence that the show can use comedy to handle moral, workplace, consumption, diagnosis-label, appearance, family-pressure, and creator-review questions.
-- Added the emotional-stability live panel as evidence that the show can turn argument, trolling, blocking, and conflict retreat into public social analysis.
+- Added the "势利," flaw-themed, and emotional-stability live panels as evidence that the show can use comedy to handle moral, workplace, consumption, diagnosis-label, appearance, family-pressure, creator-review, trolling, blocking, and conflict-retreat questions.
+- Added the Cai Kangyong interview as evidence that the show can turn celebrity conversation into aging, AI, grief, death, and life-meaning inquiry.
 
 ## Relationships
 - [[LuoYonghao]] - host and framing interviewer in the source.
@@ -100,3 +104,5 @@ This page should not infer the show's full editorial mission, release cadence, a
 - [[CreatorCulture]] - adjacent wiki theme around creators as value-producing subjects.
 - [[ZhengZhiWriter|郑执]] and [[ShenzhongYoulinFilm|《身中有林》]] - writer-director and film case in the new episode.
 - [[NortheastLiteraryFilmAuthorship]], [[AuthorCommercialFilmBalance]], and [[CreatorLateCycleAnxiety]] - analytic threads surfaced by the Zheng Zhi conversation.
+- [[CaiKangyong|蔡康永]] - guest whose interview expands the show into public aging, grief, AI, death, and farewell.
+- [[PublicAgingTimeEvidence]], [[DeathNormalizationPractice]], [[RitualizedGriefContinuation]], [[ConversationAsSelfRevelation]], and [[HumanMeaningUnderAI]] - analytic threads surfaced by the Cai Kangyong conversation.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7213
+wiki_total_pages: 7218
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1595,6 +1595,9 @@ wiki_pages:
   - key: "ControversialLaunchVirality"
     title: "Controversial Launch Virality"
     url: "/wiki/concepts/controversiallaunchvirality/"
+  - key: "ConversationAsSelfRevelation"
+    title: "Conversation As Self-Revelation / 对话作为自我显现"
+    url: "/wiki/concepts/conversationasselfrevelation/"
   - key: "ConversationalSearchInterface"
     title: "Conversational Search Interface"
     url: "/wiki/concepts/conversationalsearchinterface/"

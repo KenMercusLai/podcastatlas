@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实](sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1.md) — 罗永浩的十字路口 interview with Cai Kangyong on Kangxi Laile, aging, AI creativity, grief ritual, death normalization, written art, and life meaning.
 - [CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win](sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000.md) — All-In interview with Steve Hilton on his California governor campaign, affordability tax plan, CalDOGE, housing costs, energy permitting, schools, crime, homelessness, and blue-state Republican electoral math.
 - [《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！](sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe.md) — 芮淇讲透资治通鉴 episode on Xiao Wangzhi's suicide after Xiao Ji's vindication petition, Hong Gong and Shi Xian's arrest trap, Han Yuandi's weak grief, and reputation-first political failure.
 - [《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？](sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l.md) — 芮淇讲透资治通鉴 episode on Jia Juanzhi's "弃珠崖议", Zhuya and Dan'er suppression costs, Yu Dingguo's support for abandonment, and the host's modern territorial-security counterweight.
@@ -2315,6 +2316,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [蔡康永 / Cai Kangyong](entities/CaiKangyong.md) — Host, writer, and Kangxi Laile figure whose interview adds aging, grief, AI-era creativity, and death-facing practice.
 - [CalDOGE](entities/CalDOGE.md) — Steve Hilton's campaign-branded California government-efficiency project for spending audits and waste claims.
 - [Herb Morgan](entities/HerbMorgan.md) — California controller candidate Hilton presents as the audit and payment-control partner for CalDOGE.
 - [谷吉 / Gu Ji (Western Han)](entities/GuJiWesternHan.md) — Western Han envoy killed after insisting on escorting Zhizhi Chanyu's hostage son to the chanyu's court despite warnings.
@@ -12204,6 +12206,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Conversation As Self-Revelation / 对话作为自我显现](concepts/ConversationAsSelfRevelation.md) — Interview ideal where conversation helps a speaker discover and articulate something they did not already know how to say.
+- [Death Normalization Practice / 死亡日常化练习](concepts/DeathNormalizationPractice.md) — Making death discussable through ordinary language, wills, last wishes, funerals, digital accounts, and farewell practice.
+- [Human Meaning Under AI / AI 下的人类意义](concepts/HumanMeaningUnderAI.md) — Question of how human value, relationship, and meaning survive when AI can imitate, augment, or outperform many outputs.
+- [Public Aging Time Evidence / 公众老去作为时间证据](concepts/PublicAgingTimeEvidence.md) — Effect where familiar public figures' aging makes elapsed time visible to audiences and performers.
+- [Ritualized Grief Continuation / 仪式化延续悲伤](concepts/RitualizedGriefContinuation.md) — Personally meaningful ritual acts that carry a relationship with the dead while helping the living continue.
 - [California Affordability Governance Reset](concepts/CaliforniaAffordabilityGovernanceReset.md) — Hilton campaign frame connecting tax relief, spending restraint, audits, housing, energy, schools, crime, homelessness, and a change-election strategy.
 - [California Building Cost Capture](concepts/CaliforniaBuildingCostCapture.md) — Hilton's source-scoped claim that litigation, fees, labor rules, building mandates, and union influence inflate California housing costs.
 - [California Energy Permitting Politics](concepts/CaliforniaEnergyPermittingPolitics.md) — Hilton's argument that gubernatorial control over energy permitting could shift California oil production and household energy costs.

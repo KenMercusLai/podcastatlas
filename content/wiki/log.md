@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实
+
+Added 罗永浩的十字路口 source on Cai Kangyong, Kangxi Laile, public aging, AI creativity and simulation, grief ritual, wills, funerals, friendship, and life meaning.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》471｜《弃珠崖议》背后，汉朝为何会放弃征服欲？
 
 - Added source note `wiki/sources/zizhi-tongjian-hanji-471-qizhuya-yi-beihou-hanchao-weihe-fangqi-zhengfuyu-lqf0rzjmdzvcjvbtrnrrjmenoy6l.md`.
@@ -18483,6 +18487,10 @@ Ran lint. See lint-report.md for details.
 Added All-In source on Steve Hilton's California governor campaign, affordability platform, CalDOGE, housing-cost capture, energy permitting, schools, crime, homelessness, and 2026 top-two electoral strategy.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

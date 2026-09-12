@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2946
+topic_total_pages: 2948
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2242,6 +2242,9 @@ topic_concepts:
   - key: "HumanJudgmentUnderAI"
     title: "Human Judgment Under AI"
     url: "/wiki/concepts/humanjudgmentunderai/"
+  - key: "HumanMeaningUnderAI"
+    title: "Human Meaning Under AI / AI 下的人类意义"
+    url: "/wiki/concepts/humanmeaningunderai/"
   - key: "HumanResourceDeflationComputeInfrastructureInflation"
     title: "Human Resource Deflation Compute Infrastructure Inflation"
     url: "/wiki/concepts/humanresourcedeflationcomputeinfrastructureinflation/"
@@ -8823,6 +8826,9 @@ topic_sources:
   - key: "lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506"
     title: "蓝箭航天完成中国首次陆地火箭回收，宇树科技市值超过 3000 亿"
     url: "/wiki/sources/lanjian-hangtian-wancheng-zhongguo-shouci-ludi-huojian-huishou-yushu-keji-shizhi-chaoguo-3000-yi-1007302506/"
+  - key: "caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1"
+    title: "蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实"
+    url: "/wiki/sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1/"
   - key: "shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc"
     title: "说得好听EP56-当AI写歌不再是技术奇观，我们还要讨论什么？"
     url: "/wiki/sources/shuo-de-hao-ting-ep56-dang-ai-xiege-buzai-shi-jishu-qiguan-women-haiyao-taolun-shenme-6c1b89cdfc157b23f26fac509d36d7fc/"

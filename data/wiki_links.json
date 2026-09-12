@@ -9595,6 +9595,10 @@
     "title": "蔡姬",
     "url": "/wiki/entities/caiji/"
   },
+  "CaiKangyong": {
+    "title": "蔡康永 / Cai Kangyong",
+    "url": "/wiki/entities/caikangyong/"
+  },
   "CaiLunLateHan": {
     "title": "蔡伦 / Cai Lun (late Han)",
     "url": "/wiki/entities/cailunlatehan/"
@@ -14079,6 +14083,10 @@
     "title": "Convective Capital",
     "url": "/wiki/entities/convectivecapital/"
   },
+  "ConversationAsSelfRevelation": {
+    "title": "Conversation As Self-Revelation / 对话作为自我显现",
+    "url": "/wiki/concepts/conversationasselfrevelation/"
+  },
   "ConversationalSearchInterface": {
     "title": "Conversational Search Interface",
     "url": "/wiki/concepts/conversationalsearchinterface/"
@@ -16062,6 +16070,10 @@
   "DeathGroundTacticalPreconditions": {
     "title": "Death-Ground Tactical Preconditions / 死地战术前提",
     "url": "/wiki/concepts/deathgroundtacticalpreconditions/"
+  },
+  "DeathNormalizationPractice": {
+    "title": "Death Normalization Practice / 死亡日常化练习",
+    "url": "/wiki/concepts/deathnormalizationpractice/"
   },
   "DeathOfMaratPainting": {
     "title": "The Death of Marat / 《马拉之死》",
@@ -28870,6 +28882,10 @@
   "HumanMachineAmplification": {
     "title": "Human-Machine Amplification",
     "url": "/wiki/concepts/humanmachineamplification/"
+  },
+  "HumanMeaningUnderAI": {
+    "title": "Human Meaning Under AI / AI 下的人类意义",
+    "url": "/wiki/concepts/humanmeaningunderai/"
   },
   "HumanNaturePlasticity": {
     "title": "Human Nature Plasticity / 人性可变性",
@@ -48167,6 +48183,10 @@
     "title": "蒲阪 / Puban (Warring States)",
     "url": "/wiki/entities/pubanwarringstates/"
   },
+  "PublicAgingTimeEvidence": {
+    "title": "Public Aging Time Evidence / 公众老去作为时间证据",
+    "url": "/wiki/concepts/publicagingtimeevidence/"
+  },
   "PublicAgriculturalResearchCommercialization": {
     "title": "Public Agricultural Research Commercialization",
     "url": "/wiki/concepts/publicagriculturalresearchcommercialization/"
@@ -50994,6 +51014,10 @@
   "RitualizedCommandAppointment": {
     "title": "Ritualized Command Appointment / 仪式化拜将留才",
     "url": "/wiki/concepts/ritualizedcommandappointment/"
+  },
+  "RitualizedGriefContinuation": {
+    "title": "Ritualized Grief Continuation / 仪式化延续悲伤",
+    "url": "/wiki/concepts/ritualizedgriefcontinuation/"
   },
   "RitualizedMinisterHumiliation": {
     "title": "Ritualized Minister Humiliation / 礼节化臣属羞辱",
@@ -70362,6 +70386,10 @@
   "caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb": {
     "title": "财报的根 + 估值的茎 = 叙事的果实",
     "url": "/wiki/sources/caibao-de-gen-guzhi-de-jing-xushi-de-guoshi-lolxytqwzzxq9kzjbtkmfolafavb/"
+  },
+  "caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1": {
+    "title": "蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实",
+    "url": "/wiki/sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1/"
   },
   "can-computer-hackers-get-inside-your-mind": {
     "title": "Can computer hackers get inside your mind?",
