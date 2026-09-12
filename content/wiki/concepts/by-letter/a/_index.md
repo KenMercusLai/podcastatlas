@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7137
+wiki_total_pages: 7144
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -515,6 +515,9 @@ wiki_pages:
   - key: "AIAlignmentGovernance"
     title: "AI Alignment Governance"
     url: "/wiki/concepts/aialignmentgovernance/"
+  - key: "AIAmplifiesProfessionals"
+    title: "AI Amplifies Professionals"
+    url: "/wiki/concepts/aiamplifiesprofessionals/"
   - key: "AIAndRoboticElderCareLimits"
     title: "AI And Robotic Elder-Care Limits / AI与机器人养老边界"
     url: "/wiki/concepts/aiandroboticeldercarelimits/"

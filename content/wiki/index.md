@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活](sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp.md) — 罗永浩的十字路口 interview with Li Auto founder Li Xiang on agents in production, L9 LEVIUS, the M100 chip, autonomous driving, robotics, embodied intelligence, organization design, and overseas strategy.
 - [《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”](sources/zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl.md) — 芮淇讲透资治通鉴 short episode on Jianghu as renqing, face, relationship, virtual kinship, narrow righteousness, violence, wealth, and survival anxiety rather than simple fighting.
 - [The Weekend Intelligence: Shire folk](sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc.md) — Economist Podcasts first full Shire folk episode on Tommy Robinson's Luton origins, the English Defence League, Brent Money's American warning narrative, and selective editing of real local grievances into anti-Muslim politics.
 - [《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？](sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's favor toward Fu Zhaoyi and Liu Kang, Kuang Heng's household-order remonstrance, and the family-hexagram link between household ethics and political stability.
@@ -2284,6 +2285,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Li Xiang / 李想 (Li Auto)](entities/LiXiangLiAuto.md) — Li Auto founder explaining the company's AI, chip, autonomous-driving, robotics, organization, and overseas strategy.
+- [Li Auto L9 LEVIUS / 理想 L9 LEVIUS](entities/LiAutoL9Levius.md) — flagship SUV positioned as Li Auto's bridge from family comfort toward high-compute physical AI.
+- [Li Auto M100 Chip / 马赫 M100](entities/LiAutoM100Chip.md) — Li Auto inference chip tied to L9 LEVIUS compute and the company's embodied-intelligence moat thesis.
 - [张伯 / Zhang Bo (Western Han)](entities/ZhangBoWesternHan.md) — Western Han broker whose secret records of Jing Fang's private political speech become prosecution material.
 - [淮阳王刘清 / Liu Qing (Huaiyang King, Western Han)](entities/LiuQingHuaiyangKingWesternHan.md) — Royal-kin petition channel in Jing Fang's failed kaogong reform plan, distinct from modern Liu Qing.
 - [郑弘 / Zheng Hong (Western Han)](entities/ZhengHongWesternHan.md) — Western Han official named in Jing Fang's replacement slate and demoted after the case.
@@ -12121,6 +12125,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Enterprise Agent Production Environment](concepts/EnterpriseAgentProductionEnvironment.md) — organizational setting where agents access real workflows, data, tools, collaboration, and evaluation loops.
+- [AI Amplifies Professionals](concepts/AIAmplifiesProfessionals.md) — claim that AI magnifies domain experts rather than simply replacing expertise.
+- [Embodied Intelligence Vehicle Path](concepts/EmbodiedIntelligenceVehiclePath.md) — strategy that treats intelligent vehicles and autonomous driving as the first large physical-AI deployment scene.
+- [Robotic Handling Commercialization](concepts/RoboticHandlingCommercialization.md) — robotics wedge around loading, moving, picking, placing, and feeding materials into existing machines.
+- [Inference Chip as Embodied Moat](concepts/InferenceChipAsEmbodiedMoat.md) — thesis that physical-AI companies can gain advantage from controlling inference hardware and toolchains.
+- [System-Level Vehicle Agent Architecture](concepts/SystemLevelVehicleAgentArchitecture.md) — layered car-AI pattern separating agents, deterministic control, records, and personalization.
+- [China Automaker Overseas Interest Alliances](concepts/ChinaAutomakerOverseasInterestAlliances.md) — overseas strategy frame centered on local employment, dealers, finance, insurance, and stakeholder alignment.
 - [江湖虚拟血缘 / Jianghu Virtual Kinship](concepts/JianghuVirtualKinship.md) — Jianghu pattern where unrelated people create belonging, hierarchy, and obligation through brother, master, godfather, in-law, leader, and follower roles.
 - [江湖生存焦虑 / Jianghu Survival Anxiety](concepts/JianghuSurvivalAnxiety.md) — Source-scoped explanation of Jianghu violence, wealth-seeking, and post-victory purges as attempts to quiet insecurity through force, resources, and control.
 - [考功法改革反噬 / Kaogongfa Reform Backlash](concepts/KaogongfaReformBacklash.md) — Pattern where official-performance assessment threatens incumbents before the reformer has institutional protection.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9833
+wiki_total_pages: 9836
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -311,6 +311,12 @@ wiki_pages:
   - key: "LiAutoL9"
     title: "Li Auto L9 / 理想 L9"
     url: "/wiki/entities/liautol9/"
+  - key: "LiAutoL9Levius"
+    title: "Li Auto L9 LEVIUS / 理想 L9 LEVIUS"
+    url: "/wiki/entities/liautol9levius/"
+  - key: "LiAutoM100Chip"
+    title: "Li Auto M100 Chip / 马赫 M100"
+    url: "/wiki/entities/liautom100chip/"
   - key: "LiBeibin"
     title: "Li Beibin"
     url: "/wiki/entities/libeibin/"
@@ -332,6 +338,9 @@ wiki_pages:
   - key: "LiShufu"
     title: "Li Shufu / 李书福"
     url: "/wiki/entities/lishufu/"
+  - key: "LiXiangLiAuto"
+    title: "Li Xiang / 李想 (Li Auto)"
+    url: "/wiki/entities/lixiangliauto/"
   - key: "LiXiaobo"
     title: "Li Xiaobo / 李晓波"
     url: "/wiki/entities/lixiaobo/"

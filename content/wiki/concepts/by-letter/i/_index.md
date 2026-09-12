@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7137
+wiki_total_pages: 7144
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -317,6 +317,9 @@ wiki_pages:
   - key: "InferenceAsCashFlow"
     title: "Inference as Cash Flow"
     url: "/wiki/concepts/inferenceascashflow/"
+  - key: "InferenceChipAsEmbodiedMoat"
+    title: "Inference Chip as Embodied Moat"
+    url: "/wiki/concepts/inferencechipasembodiedmoat/"
   - key: "InferenceChipStartupNarrowing"
     title: "Inference Chip Startup Narrowing"
     url: "/wiki/concepts/inferencechipstartupnarrowing/"

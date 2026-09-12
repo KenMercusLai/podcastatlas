@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7137
+wiki_total_pages: 7144
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -284,6 +284,9 @@ wiki_pages:
   - key: "EmbodiedIntelligence"
     title: "Embodied Intelligence / 具身智能"
     url: "/wiki/concepts/embodiedintelligence/"
+  - key: "EmbodiedIntelligenceVehiclePath"
+    title: "Embodied Intelligence Vehicle Path"
+    url: "/wiki/concepts/embodiedintelligencevehiclepath/"
   - key: "EmbodiedJudgment"
     title: "Embodied Judgment"
     url: "/wiki/concepts/embodiedjudgment/"
@@ -464,6 +467,9 @@ wiki_pages:
   - key: "EnterpriseAgentMemory"
     title: "Enterprise Agent Memory"
     url: "/wiki/concepts/enterpriseagentmemory/"
+  - key: "EnterpriseAgentProductionEnvironment"
+    title: "Enterprise Agent Production Environment"
+    url: "/wiki/concepts/enterpriseagentproductionenvironment/"
   - key: "EnterpriseAgentStore"
     title: "Enterprise Agent Store"
     url: "/wiki/concepts/enterpriseagentstore/"

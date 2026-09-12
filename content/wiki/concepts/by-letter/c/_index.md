@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7137
+wiki_total_pages: 7144
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -476,6 +476,9 @@ wiki_pages:
   - key: "ChinaAsTrumpNarrativeEnemy"
     title: "China as Trump Narrative Enemy"
     url: "/wiki/concepts/chinaastrumpnarrativeenemy/"
+  - key: "ChinaAutomakerOverseasInterestAlliances"
+    title: "China Automaker Overseas Interest Alliances"
+    url: "/wiki/concepts/chinaautomakeroverseasinterestalliances/"
   - key: "ChinaBicycleShortageEconomy"
     title: "China Bicycle Shortage Economy"
     url: "/wiki/concepts/chinabicycleshortageeconomy/"

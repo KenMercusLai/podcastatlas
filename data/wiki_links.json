@@ -1623,6 +1623,10 @@
     "title": "AI Alignment Governance",
     "url": "/wiki/concepts/aialignmentgovernance/"
   },
+  "AIAmplifiesProfessionals": {
+    "title": "AI Amplifies Professionals",
+    "url": "/wiki/concepts/aiamplifiesprofessionals/"
+  },
   "AIAndDemocracyFoundation": {
     "title": "AI and Democracy Foundation",
     "url": "/wiki/entities/aianddemocracyfoundation/"
@@ -11567,6 +11571,10 @@
     "title": "China as Trump Narrative Enemy",
     "url": "/wiki/concepts/chinaastrumpnarrativeenemy/"
   },
+  "ChinaAutomakerOverseasInterestAlliances": {
+    "title": "China Automaker Overseas Interest Alliances",
+    "url": "/wiki/concepts/chinaautomakeroverseasinterestalliances/"
+  },
   "ChinaBankingAndInsuranceRegulatoryCommission": {
     "title": "China Banking and Insurance Regulatory Commission / 银保监会",
     "url": "/wiki/entities/chinabankingandinsuranceregulatorycommission/"
@@ -18955,6 +18963,10 @@
     "title": "Embodied Intelligence / 具身智能",
     "url": "/wiki/concepts/embodiedintelligence/"
   },
+  "EmbodiedIntelligenceVehiclePath": {
+    "title": "Embodied Intelligence Vehicle Path",
+    "url": "/wiki/concepts/embodiedintelligencevehiclepath/"
+  },
   "EmbodiedJudgment": {
     "title": "Embodied Judgment",
     "url": "/wiki/concepts/embodiedjudgment/"
@@ -19418,6 +19430,10 @@
   "EnterpriseAgentMemory": {
     "title": "Enterprise Agent Memory",
     "url": "/wiki/concepts/enterpriseagentmemory/"
+  },
+  "EnterpriseAgentProductionEnvironment": {
+    "title": "Enterprise Agent Production Environment",
+    "url": "/wiki/concepts/enterpriseagentproductionenvironment/"
   },
   "EnterpriseAgentStore": {
     "title": "Enterprise Agent Store",
@@ -29491,6 +29507,10 @@
     "title": "Inference as Cash Flow",
     "url": "/wiki/concepts/inferenceascashflow/"
   },
+  "InferenceChipAsEmbodiedMoat": {
+    "title": "Inference Chip as Embodied Moat",
+    "url": "/wiki/concepts/inferencechipasembodiedmoat/"
+  },
   "InferenceChipStartupNarrowing": {
     "title": "Inference Chip Startup Narrowing",
     "url": "/wiki/concepts/inferencechipstartupnarrowing/"
@@ -34675,6 +34695,14 @@
     "title": "Li Auto L9 / 理想 L9",
     "url": "/wiki/entities/liautol9/"
   },
+  "LiAutoL9Levius": {
+    "title": "Li Auto L9 LEVIUS / 理想 L9 LEVIUS",
+    "url": "/wiki/entities/liautol9levius/"
+  },
+  "LiAutoM100Chip": {
+    "title": "Li Auto M100 Chip / 马赫 M100",
+    "url": "/wiki/entities/liautom100chip/"
+  },
   "LiBai": {
     "title": "李白 / Li Bai",
     "url": "/wiki/entities/libai/"
@@ -35030,6 +35058,10 @@
   "LiXiang": {
     "title": "李翔 / Li Xiang",
     "url": "/wiki/entities/lixiang/"
+  },
+  "LiXiangLiAuto": {
+    "title": "Li Xiang / 李想 (Li Auto)",
+    "url": "/wiki/entities/lixiangliauto/"
   },
   "LiXiangruLateHan": {
     "title": "李相如 / Li Xiangru (late Han)",
@@ -50867,6 +50899,10 @@
     "title": "Robotaxi Platform Disintermediation / 自动驾驶出租车平台去中介化",
     "url": "/wiki/concepts/robotaxiplatformdisintermediation/"
   },
+  "RoboticHandlingCommercialization": {
+    "title": "Robotic Handling Commercialization",
+    "url": "/wiki/concepts/robotichandlingcommercialization/"
+  },
   "RoboticsRevenuePullForward": {
     "title": "Robotics Revenue Pull-Forward",
     "url": "/wiki/concepts/roboticsrevenuepullforward/"
@@ -57246,6 +57282,10 @@
   "SystemLevelSemiconductorOptimization": {
     "title": "System-Level Semiconductor Optimization",
     "url": "/wiki/concepts/systemlevelsemiconductoroptimization/"
+  },
+  "SystemLevelVehicleAgentArchitecture": {
+    "title": "System-Level Vehicle Agent Architecture",
+    "url": "/wiki/concepts/systemlevelvehicleagentarchitecture/"
   },
   "SystemicDegenerativeVolatility": {
     "title": "Systemic Degenerative Volatility",
@@ -71182,6 +71222,10 @@
   "live-anthropic-co-founder-on-ai-and-jobs": {
     "title": "Live: Anthropic co-founder on AI and jobs",
     "url": "/wiki/sources/live-anthropic-co-founder-on-ai-and-jobs/"
+  },
+  "lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp": {
+    "title": "李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活",
+    "url": "/wiki/sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp/"
   },
   "ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur": {
     "title": "罗永浩的X字路口！如果可以，你会删除伴侣出轨的记忆吗？",

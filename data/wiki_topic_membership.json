@@ -2527,6 +2527,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "AIAmplifiesProfessionals": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIAndDemocracyFoundation": [
     {
       "key": "technology",
@@ -22818,6 +22825,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "EmbodiedIntelligenceVehiclePath": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EmbodiedJudgment": [
     {
       "key": "science",
@@ -39896,6 +39910,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "LiXiangLiAuto": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LiXiaobo": [
     {
       "key": "economics",
@@ -56784,6 +56805,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "RoboticHandlingCommercialization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "RoboticsRevenuePullForward": [
     {
       "key": "technology",
@@ -64201,6 +64229,13 @@
     }
   ],
   "SystemLevelSemiconductorOptimization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "SystemLevelVehicleAgentArchitecture": [
     {
       "key": "technology",
       "label": "Technology",
@@ -79429,6 +79464,13 @@
     }
   ],
   "live-anthropic-co-founder-on-ai-and-jobs": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp": [
     {
       "key": "technology",
       "label": "Technology",

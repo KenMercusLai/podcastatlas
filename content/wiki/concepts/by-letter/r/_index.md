@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7137
+wiki_total_pages: 7144
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "RobotaxiPlatformDisintermediation"
     title: "Robotaxi Platform Disintermediation / 自动驾驶出租车平台去中介化"
     url: "/wiki/concepts/robotaxiplatformdisintermediation/"
+  - key: "RoboticHandlingCommercialization"
+    title: "Robotic Handling Commercialization"
+    url: "/wiki/concepts/robotichandlingcommercialization/"
   - key: "RoboticsRevenuePullForward"
     title: "Robotics Revenue Pull-Forward"
     url: "/wiki/concepts/roboticsrevenuepullforward/"
