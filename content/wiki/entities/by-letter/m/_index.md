@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9784
+wiki_total_pages: 9786
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -332,6 +332,9 @@ wiki_pages:
   - key: "MarkSpitznagel"
     title: "Mark Spitznagel"
     url: "/wiki/entities/markspitznagel/"
+  - key: "MarkStiltner"
+    title: "Mark Stiltner"
+    url: "/wiki/entities/markstiltner/"
   - key: "MarkTwain"
     title: "Mark Twain / 马克·吐温"
     url: "/wiki/entities/marktwain/"

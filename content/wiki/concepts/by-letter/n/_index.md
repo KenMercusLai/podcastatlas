@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7104
+wiki_total_pages: 7108
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -152,6 +152,9 @@ wiki_pages:
   - key: "NeurodegenerativeRiskLevers"
     title: "Neurodegenerative Risk Levers"
     url: "/wiki/concepts/neurodegenerativerisklevers/"
+  - key: "NeurodivergentAIAugmentation"
+    title: "Neurodivergent AI Augmentation"
+    url: "/wiki/concepts/neurodivergentaiaugmentation/"
   - key: "NeuromodulatorStateToolkit"
     title: "Neuromodulator State Toolkit"
     url: "/wiki/concepts/neuromodulatorstatetoolkit/"

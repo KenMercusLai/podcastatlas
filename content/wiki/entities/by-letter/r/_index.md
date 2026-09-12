@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "r"
-wiki_total_pages: 9784
+wiki_total_pages: 9786
 wiki_pages:
   - key: "RugbyWorldCup1995"
     title: "1995 Rugby World Cup"
@@ -65,6 +65,9 @@ wiki_pages:
   - key: "RAND"
     title: "RAND"
     url: "/wiki/entities/rand/"
+  - key: "Rapid"
+    title: "Rapid"
+    url: "/wiki/entities/rapid/"
   - key: "RapidSupportForces"
     title: "Rapid Support Forces"
     url: "/wiki/entities/rapidsupportforces/"

@@ -2355,6 +2355,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "ADHDHyperfocusAIWorkflow": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AFTRA": [
     {
       "key": "culture",
@@ -42576,6 +42583,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "MarkStiltner": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "MarkTwain": [
     {
       "key": "culture",
@@ -46457,6 +46471,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "NeurodivergentAIAugmentation": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "NeuromodulatorStateToolkit": [
     {
       "key": "science",
@@ -48796,6 +48817,13 @@
     }
   ],
   "OutcomeBasedAIPricing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "OutcomeDrivenAIWorkflow": [
     {
       "key": "technology",
       "label": "Technology",
@@ -54645,6 +54673,13 @@
     }
   ],
   "RansomwareBusinessContinuity": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "Rapid": [
     {
       "key": "technology",
       "label": "Technology",
@@ -60707,6 +60742,13 @@
     }
   ],
   "SolidStateBatteryCommercialization": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "SoloAIRPGs": [
     {
       "key": "technology",
       "label": "Technology",
@@ -77657,6 +77699,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": [

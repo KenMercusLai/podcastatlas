@@ -4,7 +4,8 @@ type: concept
 tags: [ai, enterprise-ai, diversity, organizational-design]
 sources:
   - ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success
-last_updated: 2026-08-31
+  - ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers
+last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -18,24 +19,30 @@ The EP43 source argues that cognitive diversity has adoption value when it chang
 
 The practical claim is that AI adoption fails when insiders design for users like themselves. Diverse perspectives, especially from people who have learned systems from the outside, can reveal missing workflow constraints, hidden authority, trust deficits, and metrics that do not match frontline work.
 
+EP39 adds a neurodivergence-specific branch. [[MarkStiltner]] argues that AI can make ADHD-style nonlinear work more executable by preserving context, supplying immediate feedback, and reducing the friction between ideas and output. His caution keeps the adoption principle broad: organizations should not optimize for one cognitive profile, but should design flexible, outcome-driven environments where different styles can prove themselves through results.
+
 ## Key Claims
 - Cognitive diversity must enter before success metrics and rollout definitions are fixed.
 - Late-stage panels or listening tours can become theater if they cannot change the plan.
 - Outsider perspectives help identify adoption barriers that insiders treat as invisible.
 - The value of diversity here is diagnostic and operational, not only symbolic representation.
 - Teams should test whether the people thriving with an AI tool are broader than the design group and people similar to them.
+- Neurodivergent workers may discover AI affordances earlier when the tool removes long-standing execution, context, or workflow friction.
+- Flexible, outcome-driven environments are safer than turning ADHD or any single cognitive profile into the new ideal worker template.
 
 ## Evidence
 - Planning timing: [[ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success]] says people who learned systems from the outside should help define what "working" means before success metrics are set.
 - Theater critique: [[ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success]] compares late diversity review to QA on a product that has already shipped.
 - Problem-solving claim: [[ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success]] cites a 2017 Harvard Business Review study as support for cognitively diverse teams solving complex problems faster.
 - Adoption boundary: [[ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success]] warns that if only designers or similar users thrive, the organization has built a club rather than broad adoption.
+- Neurodivergent execution: [[ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers]] has [[MarkStiltner]] describe AI as helping ADHD-style nonlinear thinking become finished work by maintaining context and sustaining focus.
+- Outcome-driven caution: [[ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers]] discusses [[AlexKarp]] and [[Palantir]] interest in ADHD talent, but Mark argues companies should optimize for results and flexible work environments rather than one cognitive style.
 
 ## Counterevidence & Qualifications
-The source references a study but does not supply its methods or operationalize cognitive diversity measurement. The wiki should preserve the claim as an adoption-design principle rather than a quantified rule. Diversity also needs decision authority; representation without power to change rollout criteria remains weak evidence.
+The sources include experiential and source-cited claims but do not establish a universal measurement model for cognitive diversity. The wiki should preserve the claim as an adoption-design principle rather than a quantified rule. Diversity also needs decision authority; representation without power to change rollout criteria remains weak evidence. Neurodivergent advantage claims should remain conditional because ADHD, autism, dyslexia, and other profiles are not interchangeable and AI may distract as well as support.
 
 ## What Changed
-- Initial synthesis created for the EP43 cognitive-diversity adoption frame.
+- Added EP39's neurodivergent AI augmentation branch and narrowed the recommendation toward flexible outcome design rather than single-profile optimization.
 
 ## Related Concepts
 - [[OutsiderExperienceDiagnosticSkill]] - specific source of diverse diagnostic perspective.
@@ -44,3 +51,5 @@ The source references a study but does not supply its methods or operationalize 
 - [[BusinessLedAITransformation]] - broader transformation frame that requires cross-functional ownership.
 - [[WorkplaceAIReadinessGap]] - readiness gap widened when planners miss user experience.
 - [[FrontlineAIEnablement]] - rollout practice that should include affected users before plans harden.
+- [[NeurodivergentAIAugmentation]] - ADHD and neurodiversity branch showing how AI can change execution friction.
+- [[OutcomeDrivenAIWorkflow]] - work-design pattern that lets different cognitive styles reach useful results through different paths.

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 39: Why the Future of AI Belongs to Divergent Thinkers](sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers.md) — Data Science With Sam episode with Mark Stiltner on ADHD, neurodiversity, AI-supported hyperfocus, outcome-driven work, education, and solo AI RPGs.
 - [Essentials: Understanding & Controlling Aggression](sources/essentials-understanding-controlling-aggression-scim4757138073.md) — Huberman Lab Essentials episode on aggression categories, VMH circuitry, testosterone-to-estrogen aromatization, day length, stress state, light, heat, and supplement-bounded pressure reduction.
 - [《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！](sources/zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb.md) — 芮淇讲透资治通鉴 episode on Ye Lang King Xing, Zhangke Commandery risk, Du Qing's preventive frontier advice, and appointment fit before the transcript reaches Chen Li's execution sequence.
 - [《资治通鉴·汉纪》513丨勇闯夺命岛！汉臣陈立诛杀夜郎国王！](sources/zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo.md) — 芮淇讲透资治通鉴 episode on Chen Li's Zhangke appointment, targeted killing of Ye Lang King Xing, deterrent surrender shock, and logistics-based suppression of residual resistance.
@@ -2251,6 +2252,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Mark Stiltner](entities/MarkStiltner.md) — Rapid marketing leader interviewed about ADHD, neurodiversity, and AI-supported work.
+- [Rapid](entities/Rapid.md) — company context for Mark Stiltner's Data Science With Sam EP39 interview.
 - [Dai Yu Lin](entities/DaiYuLin.md) — Neuroscience researcher named in the Huberman Lab aggression episode for optogenetic VMH estrogen-receptor neuron experiments.
 - [Konrad Lorenz](entities/KonradLorenz.md) — Ethology reference in the Huberman Lab aggression episode for fixed action patterns, imprinting, and aggression pressure.
 - [Ventromedial Hypothalamus](entities/VentromedialHypothalamus.md) — Brain-region node foregrounded in the Huberman Lab aggression episode as central to VMH-linked aggression circuitry.
@@ -12039,6 +12042,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Neurodivergent AI Augmentation](concepts/NeurodivergentAIAugmentation.md) — AI use that reduces friction between atypical cognitive strengths and conventional work demands.
+- [ADHD Hyperfocus AI Workflow](concepts/ADHDHyperfocusAIWorkflow.md) — AI-supported workflow for entering, sustaining, and converting ADHD hyperfocus into output.
+- [Outcome-Driven AI Workflow](concepts/OutcomeDrivenAIWorkflow.md) — work-design pattern that judges AI use by useful results rather than prescribed process.
+- [Solo AI RPGs](concepts/SoloAIRPGs.md) — AI-mediated interactive stories where the user becomes the protagonist.
 - [Aggression Circuit Biology](concepts/AggressionCircuitBiology.md) — Huberman Lab aggression concept treating aggression as context-dependent action patterns involving VMH and downstream circuits.
 - [Aggression Pressure Reduction](concepts/AggressionPressureReduction.md) — Practical frame for lowering stress, light, heat, supplement, and environment contributors to aggressive pressure without treating them as standalone cures.
 - [Hormone Context Aggression](concepts/HormoneContextAggression.md) — Concept qualifying testosterone-only aggression explanations through aromatization, estrogen-receptor VMH neurons, day length, cortisol, serotonin, and genetics.

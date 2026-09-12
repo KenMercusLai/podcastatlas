@@ -187,6 +187,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/acrcloud/"
     },
+    "ADHDHyperfocusAIWorkflow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128 [FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a83a629].md",
+          "key": "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers",
+          "show": "Data Science With Sam",
+          "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",
+          "url": "/wiki/sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/adhdhyperfocusaiworkflow/"
+    },
     "ADHDSelfDiagnosisBoundary": {
       "episode_count": 3,
       "show_count": 3,
@@ -16742,9 +16758,9 @@
       "url": "/wiki/concepts/cognitiveaging/"
     },
     "CognitiveDiversityAIAdoption": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128 [DB592327B53E82CF22F1878CE4F02EB6~8584399_2026-08-10-213439-8787-0-0-10.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a83ab1a].md",
@@ -16752,9 +16768,16 @@
           "show": "Data Science With Sam",
           "title": "EP 43: The Outsider's Advantage: How Diverse Perspectives Unlock Enterprise AI Success",
           "url": "/wiki/sources/ep-43-the-outsiders-advantage-how-diverse-perspectives-unlock-enterprise-ai-success/"
+        },
+        {
+          "episode_file": "FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128 [FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a83a629].md",
+          "key": "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers",
+          "show": "Data Science With Sam",
+          "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",
+          "url": "/wiki/sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/cognitivediversityaiadoption/"
     },
     "CognitiveReappraisalEarlyIntervention": {
@@ -59209,6 +59232,22 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/markluanfanshu/"
     },
+    "MarkStiltner": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128 [FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a83a629].md",
+          "key": "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers",
+          "show": "Data Science With Sam",
+          "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",
+          "url": "/wiki/sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/markstiltner/"
+    },
     "MarkedownApp": {
       "episode_count": 1,
       "show_count": 1,
@@ -63447,6 +63486,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/neurodegenerativerisklevers/"
     },
+    "NeurodivergentAIAugmentation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128 [FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a83a629].md",
+          "key": "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers",
+          "show": "Data Science With Sam",
+          "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",
+          "url": "/wiki/sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/neurodivergentaiaugmentation/"
+    },
     "NeuromodulatorStateToolkit": {
       "episode_count": 2,
       "show_count": 1,
@@ -66413,6 +66468,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/outboundprofittransmissionmechanism/"
+    },
+    "OutcomeDrivenAIWorkflow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128 [FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a83a629].md",
+          "key": "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers",
+          "show": "Data Science With Sam",
+          "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",
+          "url": "/wiki/sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/outcomedrivenaiworkflow/"
     },
     "OutdoorFlowState": {
       "episode_count": 2,
@@ -73925,6 +73996,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/ranksaledisasterfinance/"
+    },
+    "Rapid": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128 [FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a83a629].md",
+          "key": "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers",
+          "show": "Data Science With Sam",
+          "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",
+          "url": "/wiki/sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/rapid/"
     },
     "RareEarthPermanentMagnetManufacturing": {
       "episode_count": 1,
@@ -82202,6 +82289,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/softbudgetfootballclubs/"
+    },
+    "SoloAIRPGs": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128 [FEEDF8E466ABA3238916AD73907CD7F~8584405_2026-08-10-213805-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a83a629].md",
+          "key": "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers",
+          "show": "Data Science With Sam",
+          "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",
+          "url": "/wiki/sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/soloairpgs/"
     },
     "SomatizationAsBodyAlarm": {
       "episode_count": 1,

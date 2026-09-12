@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7104
+wiki_total_pages: 7108
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1022,6 +1022,9 @@ wiki_pages:
   - key: "SoloAgingPlanning"
     title: "Solo Aging Planning / 单身养老规划"
     url: "/wiki/concepts/soloagingplanning/"
+  - key: "SoloAIRPGs"
+    title: "Solo AI RPGs"
+    url: "/wiki/concepts/soloairpgs/"
   - key: "SoloDeathPreparedness"
     title: "Solo Death Preparedness / 独居死亡准备"
     url: "/wiki/concepts/solodeathpreparedness/"

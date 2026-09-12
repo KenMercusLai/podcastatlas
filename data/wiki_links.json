@@ -1523,6 +1523,10 @@
     "title": "ADC Engineering Optimization",
     "url": "/wiki/concepts/adcengineeringoptimization/"
   },
+  "ADHDHyperfocusAIWorkflow": {
+    "title": "ADHD Hyperfocus AI Workflow",
+    "url": "/wiki/concepts/adhdhyperfocusaiworkflow/"
+  },
   "ADHDSelfDiagnosisBoundary": {
     "title": "ADHD Self-Diagnosis Boundary / ADHD 自诊边界",
     "url": "/wiki/concepts/adhdselfdiagnosisboundary/"
@@ -38211,6 +38215,10 @@
     "title": "Mark Spitznagel",
     "url": "/wiki/entities/markspitznagel/"
   },
+  "MarkStiltner": {
+    "title": "Mark Stiltner",
+    "url": "/wiki/entities/markstiltner/"
+  },
   "MarkTwain": {
     "title": "Mark Twain / 马克·吐温",
     "url": "/wiki/entities/marktwain/"
@@ -41755,6 +41763,10 @@
     "title": "Neurodegenerative Risk Levers",
     "url": "/wiki/concepts/neurodegenerativerisklevers/"
   },
+  "NeurodivergentAIAugmentation": {
+    "title": "Neurodivergent AI Augmentation",
+    "url": "/wiki/concepts/neurodivergentaiaugmentation/"
+  },
   "NeuromodulatorStateToolkit": {
     "title": "Neuromodulator State Toolkit",
     "url": "/wiki/concepts/neuromodulatorstatetoolkit/"
@@ -43782,6 +43794,10 @@
   "OutcomeBasedAIPricing": {
     "title": "Outcome-Based AI Pricing",
     "url": "/wiki/concepts/outcomebasedaipricing/"
+  },
+  "OutcomeDrivenAIWorkflow": {
+    "title": "Outcome-Driven AI Workflow",
+    "url": "/wiki/concepts/outcomedrivenaiworkflow/"
   },
   "OutdoorBodyMindReintegration": {
     "title": "Outdoor Body-Mind Reintegration / 户外身心重新合场",
@@ -48882,6 +48898,10 @@
   "RansomwareBusinessContinuity": {
     "title": "Ransomware Business Continuity",
     "url": "/wiki/concepts/ransomwarebusinesscontinuity/"
+  },
+  "Rapid": {
+    "title": "Rapid",
+    "url": "/wiki/entities/rapid/"
   },
   "RapidSupportForces": {
     "title": "Rapid Support Forces",
@@ -54462,6 +54482,10 @@
   "SolidTumorCARTConstraints": {
     "title": "Solid Tumor CAR-T Constraints",
     "url": "/wiki/concepts/solidtumorcartconstraints/"
+  },
+  "SoloAIRPGs": {
+    "title": "Solo AI RPGs",
+    "url": "/wiki/concepts/soloairpgs/"
   },
   "SoloAgingPlanning": {
     "title": "Solo Aging Planning / 单身养老规划",
@@ -69934,6 +69958,10 @@
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
     "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
+  },
+  "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers": {
+    "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",
+    "url": "/wiki/sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers/"
   },
   "ep-4-a-i-talk-with-a-rocket-scientist-from-nasa": {
     "title": "EP 4: A.I. talk with a Rocket Scientist from NASA",

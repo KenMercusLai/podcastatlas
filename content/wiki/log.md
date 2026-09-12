@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | EP 39: Why the Future of AI Belongs to Divergent Thinkers
+
+Added source note for Data Science With Sam EP39 and created source-scoped pages for Mark Stiltner, Rapid, neurodivergent AI augmentation, ADHD hyperfocus AI workflow, outcome-driven AI workflow, and solo AI RPGs. Updated Cognitive Diversity in AI Adoption with the neurodivergent AI work-design branch. No direct contradiction found; dopamine and ADHD claims remain source-scoped rather than clinical guidance.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？
 
 Added source note for Hanji 520 and updated the Wang Feng / Wang Zhang remonstrance-suppression branch. Key claims: legitimacy work precedes coercion; Feng Yewang's impeachment tests procedural credibility; Du Qing treats open speech as reputational repair after Wang Zhang's secret-charge case.
@@ -17874,6 +17878,10 @@ Added source note for 日谈物语 E02, created Unification Church, Han Hak-ja, 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
 Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
