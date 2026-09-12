@@ -5,18 +5,19 @@ knowledge_schema: synthesis-v1
 tags: [governance, bureaucracy, personnel, court-politics, western-han]
 sources:
   - zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy
+last_updated: 2026-09-13
 ---
 
 ## Definition
 
-官场逆淘汰 / Bureaucratic adverse selection is the personnel failure in which a political organization removes or punishes principled officials while rewarding compliant, flattering, or accusation-skilled actors, so advancement signals adaptation to a corrupted power field rather than governing ability.
+官场逆淘汰 / Bureaucratic adverse selection is the personnel failure in which a political organization advances compliant, flattering, or accusation-skilled actors while punishing or exposing principled officials, so status signals adaptation to a corrupted power field rather than governing ability.
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] creates the concept through the late [[HanAidi|汉哀帝]] title dispute around [[FuTaihouWesternHan|傅太后]]. The substantive issue is ritual status: Fu Taihou wants a title as dignified as [[WangZhengjun|王政君]]'s, while [[KongGuangWesternHan|孔光]], [[ShiDanWesternHan|施丹]], and [[FuXiWesternHan|傅喜]] resist the demand.
+[[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] creates the concept through the late [[HanAidi|汉哀帝]] title dispute around [[FuTaihouWesternHan|傅太后]]. [[zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy|Hanji 473]] adds an earlier, less institutionalized version through [[ChenWannianWesternHan|陈万年]]: a mediocre official can rise not by formal accusation but by reading patron preferences and making superiors feel served.
 
-The selection failure appears when resistance to an improper demand becomes career danger. Aidi cannot easily reject Fu Taihou's pressure, Shi Dan is removed first, and Fu Xi remains exposed because he still refuses to yield. Meanwhile [[FuYanWesternHan|傅晏]] flatters Fu Taihou and works with [[ZhuBoWesternHan|朱博]], giving them a path to gain standing by serving the patron's desire.
+The selection failure can therefore appear in two registers. In Hanji 473, the system mistakes tailored deference for official reliability: Chen Wannian spends on Shi Gao, cares for Bing Ji during illness, and converts private favor into Yushi Dafu rank. In Hanji 577, the failure is sharper and more coercive: resistance to an improper demand becomes career danger. Aidi cannot easily reject Fu Taihou's pressure, Shi Dan is removed first, and Fu Xi remains exposed because he still refuses to yield. Meanwhile [[FuYanWesternHan|傅晏]] flatters Fu Taihou and works with [[ZhuBoWesternHan|朱博]], giving them a path to gain standing by serving the patron's desire.
 
 The mechanism is not simple incompetence. Zhu Bo and Fu Yan make the attack administratively legible by calling Kong Guang self-protective and Fu Xi factional or unhelpful to government. That recoding turns public-order resistance into a punishable personnel defect, which is why the episode treats reverse selection as ecological: officials learn that survival and promotion depend on anticipating power, packaging flattery as virtue, and making upright resistance look like disloyalty.
 
@@ -24,7 +25,7 @@ The mechanism is not simple incompetence. Zhu Bo and Fu Yan make the attack admi
 
 - Reverse selection begins when a court's real reward signal diverges from public office standards.
 - Principled resistance can become a liability when patron desire or kinship power controls the interpretation of loyalty.
-- Sycophancy is more dangerous when it is packaged as filial piety, public order, or administrative correction rather than presented as raw flattery.
+- Sycophancy is more dangerous when it is matched to each patron's preferred signal or packaged as filial piety, public order, or administrative correction rather than presented as raw flattery.
 - Accusation skill can become a promotion asset when actors learn to recode integrity as selfishness, faction, or noncooperation.
 - Reverse selection spreads because observers adapt: officials who see upright peers punished have reason to become more compliant, evasive, or patron-oriented.
 - The pattern overlaps with outer-relative and private-favor politics but is specifically about the personnel ecology that determines who rises and who is driven out.
@@ -38,14 +39,18 @@ The mechanism is not simple incompetence. Zhu Bo and Fu Yan make the attack admi
 - Accusation conversion: [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] says Zhu Bo and Fu Yan attack Kong Guang as self-protective and Fu Xi as faction-forming and unhelpful.
 - Generalized ecology: [[zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu|Hanji 577]] explicitly frames the case as an ecology that expels clean officials and pushes more officials toward crooked paths.
 
+Preference-matched flattery:
+- [[zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy|Hanji 473]] says Chen Wannian rises through flattery despite lacking notable achievement.
+- [[zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy|Hanji 473]] says Chen Wannian uses different methods for different patrons, including heavy spending toward Shi Gao and personal illness-time service toward Bing Ji.
+- [[zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy|Hanji 473]] contrasts Chen Wannian with Chen Xian and Gong Yu, making flattery-based rank look like a negative selection outcome rather than a stable mark of merit.
+
 ## Counterevidence & Qualifications
 
-This concept is currently grounded in one short interpretive episode. It should not be used to claim that every promoted official in Aidi's court was mediocre, that Fu Xi, Shi Dan, and Kong Guang were flawless, or that ritual-title opposition alone explains the full personnel sequence. The source supports a mechanism: when a patron's desire dominates office incentives, the system can reward compliance and slander while making upright resistance costly.
+This concept is grounded in two interpretive episodes and should not be used to claim that every promoted official in Aidi's or Yuan's court was mediocre, that Fu Xi, Shi Dan, Kong Guang, Chen Xian, or Gong Yu were flawless, or that one personnel mechanism explains a whole court. Hanji 473 supports the soft version where flattery and attentiveness substitute for visible merit; Hanji 577 supports the harder version where a patron's desire dominates office incentives, rewarding compliance and accusation while making upright resistance costly.
 
 ## What Changed
 
-- Created the concept from Hanji 577's title-dispute and "官场逆淘汰" frame.
-- Distinguished the concept from general corruption by focusing on who advances, who is removed, and what conduct the system teaches observers to imitate.
+- Added Hanji 473's earlier Chen Wannian case, broadening the concept from punitive title politics to preference-matched flattery as an advancement channel.
 
 ## Related Concepts
 
@@ -55,3 +60,4 @@ This concept is currently grounded in one short interpretive episode. It should 
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - feedback relationship because correction becomes punishable when the court rewards flattery or accusation.
 - [[PowerDesireSelfRestraint|权力欲自律]] - ethical relationship because unchecked status desire can distort office selection.
 - [[OfficeSequencePowerReallocation|官职序列重组式权力再分配]] - institutional relationship because promotion ladders can be redesigned or exploited after the reward ecology shifts.
+- [[OpportunisticCourtAlignment|投机型朝堂站队]] - adjacent behavior pattern where actors read power signals before evidence, principle, or role duty.

@@ -12,6 +12,13 @@ Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 - Updated Zhuya Commandery, Jia Juanzhi, Han Yuandi, Yu Dingguo, and Capacity-Bound Frontier Commitment with the "弃珠崖议" policy-argument layer.
 - No settled contradiction found; Cheng Wannian, Dan'er, and the modern territorial-security commentary remain source-scoped.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？
+
+- Added source note `wiki/sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy.md`.
+- Created `ChenWannianWesternHan`.
+- Updated `ChenXianXinOfficial`, `GongYuWesternHan`, and `BureaucraticAdverseSelection` with the Chen Wannian father-son contrast, Zhu Yun defense case, Gong Yu appointment layer, and flattery-based advancement mechanism.
+- No settled contradiction found; Shi Gao, Bing Ji, Zhu Bo's testimony procedure, and Chen Xian's complete legal record remain source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》470｜萧望之：杀死我的除了太监，还有我的迂腐！
 
 - Added source note `wiki/sources/zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe.md`.
@@ -18472,6 +18479,10 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

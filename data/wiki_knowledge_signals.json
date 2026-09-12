@@ -11747,9 +11747,9 @@
       "url": "/wiki/entities/buqiaoqiangleader/"
     },
     "BureaucraticAdverseSelection": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》577丨官场逆淘汰：为什么庸官升得更快？ [lopFOlHCHeqoHJAGb9gxT6cvSmtU].md",
@@ -11757,9 +11757,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》577丨官场逆淘汰：为什么庸官升得更快？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-577-guanchang-ni-taotai-weishenme-yongguan-sheng-de-gengkuai-lopfolhcheqohjagb9gxt6cvsmtu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？ [ljXAekTYbS1LvDdZUuQca-RpJwXY].md",
+          "key": "zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/bureaucraticadverseselection/"
     },
     "BureaucraticImpeachmentReview": {
@@ -14474,6 +14481,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/chentangwesternhan/"
     },
+    "ChenWannianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？ [ljXAekTYbS1LvDdZUuQca-RpJwXY].md",
+          "key": "zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/chenwannianwesternhan/"
+    },
     "ChenXianWesternHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -14498,9 +14521,9 @@
       "url": "/wiki/entities/chenxianwesternhan/"
     },
     "ChenXianXinOfficial": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？ [lvdqcaKza0ZqExTrhymPnPsWXyYj].md",
@@ -14508,9 +14531,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》645丨必读职场权谋：明哲保身or逆流而上？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？ [ljXAekTYbS1LvDdZUuQca-RpJwXY].md",
+          "key": "zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-13",
       "url": "/wiki/entities/chenxianxinofficial/"
     },
     "ChenYongFootballReporter": {
@@ -38373,9 +38403,9 @@
       "url": "/wiki/entities/gongshengxinscholar/"
     },
     "GongYuWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？ [lp-07zVAxR21DT2MtvA2Ndp6B9BY].md",
@@ -38397,6 +38427,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？ [ljXAekTYbS1LvDdZUuQca-RpJwXY].md",
+          "key": "zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy/"
         }
       ],
       "updated": "2026-09-13",

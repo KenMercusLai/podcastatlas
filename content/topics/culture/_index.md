@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2666
+topic_total_pages: 2667
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -7884,6 +7884,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy"
+    title: "《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy/"
   - key: "zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v"
     title: "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜"
     url: "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
