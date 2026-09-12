@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》490丨大汉战狼陈汤，伪造圣旨立奇功！](sources/zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina.md) — 芮淇讲透资治通鉴 episode on Chen Tang and Gan Yanshou's 36 BCE forged-command campaign, Western Regions march, Kangju intelligence, siege tactics, and killing of Zhizhi Chanyu.
 - [《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！](sources/zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt.md) — 芮淇讲透资治通鉴 episode on Wang Zhaojun's voluntary Xiongnu marriage choice, Huhanye Chanyu's court request, Han Yuandi's regret, and beauty as a resource requiring judgment.
 - [《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？](sources/zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk.md) — 芮淇讲透资治通鉴 episode on Chen Tang and Gan Yanshou's Zhizhi Chanyu victory display, the "犯我强汉者，虽远必诛" posture, Yuan's first reward ceremony, Liu Ao's mourning misstep, and Wang Zhaojun setup.
 - [《资治通鉴·汉纪》495丨西汉名将PK阉人宠臣，硬碰硬谁能赢？](sources/zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo.md) — 芮淇讲透资治通鉴 episode on Shi Xian blocking Feng Yewang's Yushi Dafu promotion by reframing a merit appointment as consort-kin favoritism risk for Han Yuandi.

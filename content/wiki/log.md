@@ -18163,3 +18163,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-12] ingest | 《资治通鉴·汉纪》490丨大汉战狼陈汤，伪造圣旨立奇功！
+
+- Added source note for the 36 BCE operational Zhizhi campaign layer.
+- Updated Chen Tang, Gan Yanshou, Zhizhi Chanyu, Kangju, Poverty Memory as Corruption Excuse, and Coercive Frontier Deterrence.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
