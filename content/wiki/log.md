@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜
+
+Added source `zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq`; updated Han Yanshou, Xiao Wangzhi, Emperor Xuan of Han, and Political Execution Overreach with the episode's post-Huo-Guang political-security reading of Han's death. No settled contradiction found; the claim that Huo-era association and popular affection drove Xuan's decision remains source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-2｜这两位圣人的论道，藏着人类的终极秘密
 
 Added source note plus axial-age civilizational awakening and Daoist water virtue pages. Key claims: Confucius's first visit to Laozi is framed through axial-age civilizational awakening, Laozi turns the Yellow River into a teaching on natural life and death, and water virtue becomes the practical image for non-contention, humility, softness, and removing pride.
@@ -18659,6 +18663,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧
 
 Added source note plus Laozi, Confucius, Daodejing, and Daoist cultivation concept updates. Key claims: Laozi critiques forced renyi as potentially disturbing nature, teaches natural wuwei and observing sameness, and reframes life/death, right/wrong, noble/low, and honor/disgrace as changing states within the Way.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

@@ -28509,9 +28509,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -28568,6 +28568,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼",
           "url": "/wiki/sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜 [lmdSplur02fN29qLLFhNZ3FhInKQ].md",
+          "key": "zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq/"
         }
       ],
       "updated": "2026-09-13",
@@ -42366,9 +42373,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYanshouWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》451｜儒者萧望之：谁优秀我就弄死谁! [lo20q2_KdbmSw2ZFhehOAnCEo2OA].md",
@@ -42376,6 +42383,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》451｜儒者萧望之：谁优秀我就弄死谁!",
           "url": "/wiki/sources/zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜 [lmdSplur02fN29qLLFhNZ3FhInKQ].md",
+          "key": "zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq/"
         }
       ],
       "updated": "2026-09-13",
@@ -74451,9 +74465,9 @@
       "url": "/wiki/concepts/politicalcaseevidenceskepticism/"
     },
     "PoliticalExecutionOverreach": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？ [lpCFRHEwqMmEXB3oFG18IqbDssLM].md",
@@ -74468,6 +74482,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》451｜儒者萧望之：谁优秀我就弄死谁!",
           "url": "/wiki/sources/zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜 [lmdSplur02fN29qLLFhNZ3FhInKQ].md",
+          "key": "zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq/"
         }
       ],
       "updated": "2026-09-13",
@@ -103821,9 +103842,9 @@
       "url": "/wiki/entities/xiaosiye/"
     },
     "XiaoWangzhiWesternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？ [lmL1Qwuw3iUjoBNltBjYMEyOjd4g].md",
@@ -103880,6 +103901,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼",
           "url": "/wiki/sources/zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜 [lmdSplur02fN29qLLFhNZ3FhInKQ].md",
+          "key": "zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq/"
         }
       ],
       "updated": "2026-09-13",
