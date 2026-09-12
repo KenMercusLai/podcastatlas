@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”](sources/zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl.md) — 芮淇讲透资治通鉴 short episode on Jianghu as renqing, face, relationship, virtual kinship, narrow righteousness, violence, wealth, and survival anxiety rather than simple fighting.
 - [The Weekend Intelligence: Shire folk](sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc.md) — Economist Podcasts first full Shire folk episode on Tommy Robinson's Luton origins, the English Defence League, Brent Money's American warning narrative, and selective editing of real local grievances into anti-Muslim politics.
 - [《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？](sources/zizhi-tongjian-hanji-484-gudai-huangdi-de-hunyin-shenghuo-you-duo-mafan-lv7yfmymwhqdejvr0hxntjszlqwe.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's favor toward Fu Zhaoyi and Liu Kang, Kuang Heng's household-order remonstrance, and the family-hexagram link between household ethics and political stability.
 - [《资治通鉴·汉纪》485丨以身挡熊救皇帝！古代最勇妃子竟是她？](sources/zizhi-tongjian-hanji-485-yi-shen-dang-xiong-jiu-huangdi-gudai-zui-yong-feizi-jing-shi-ta-lqn6f6h7zuvdr62ja3mgufy0anty.md) — 芮淇讲透资治通鉴 episode on Feng Yuan shielding Han Yuandi from a black bear, her promotion to Zhaoyi, Fu Zhaoyi's jealousy, and Tunshi River hydrological background.
@@ -12120,6 +12121,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [江湖虚拟血缘 / Jianghu Virtual Kinship](concepts/JianghuVirtualKinship.md) — Jianghu pattern where unrelated people create belonging, hierarchy, and obligation through brother, master, godfather, in-law, leader, and follower roles.
+- [江湖生存焦虑 / Jianghu Survival Anxiety](concepts/JianghuSurvivalAnxiety.md) — Source-scoped explanation of Jianghu violence, wealth-seeking, and post-victory purges as attempts to quiet insecurity through force, resources, and control.
 - [考功法改革反噬 / Kaogongfa Reform Backlash](concepts/KaogongfaReformBacklash.md) — Pattern where official-performance assessment threatens incumbents before the reformer has institutional protection.
 - [贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse](concepts/PovertyMemoryCorruptionExcuse.md) — Pattern where poverty memory is invoked to excuse corruption but can also become empathy and public responsibility.
 - [临终废储阻断 / Deathbed Heir Replacement Resistance](concepts/DeathbedHeirReplacementResistance.md) — Succession-stability pattern where ministers block a dying ruler's late heir change by stressing established designation and public court risk.

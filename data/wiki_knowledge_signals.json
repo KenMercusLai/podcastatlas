@@ -48543,6 +48543,38 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/jiangyuliangdoctor/"
     },
+    "JianghuSurvivalAnxiety": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩” [lg6vR0avzvTqiREYs3Hhp7tRWRSl].md",
+          "key": "zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/jianghusurvivalanxiety/"
+    },
+    "JianghuVirtualKinship": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩” [lg6vR0avzvTqiREYs3Hhp7tRWRSl].md",
+          "key": "zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/jianghuvirtualkinship/"
+    },
     "JiaoChuLateHan": {
       "episode_count": 1,
       "show_count": 1,

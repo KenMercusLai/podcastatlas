@@ -17742,6 +17742,12 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”
+
+- Added source note for Hanji 483-3.
+- Added Jianghu Virtual Kinship and Jianghu Survival Anxiety as source-scoped concept pages.
+- Linked the episode to existing Jianghu, renqing, and retainer-reciprocity concepts without rewriting their older bounded syntheses.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》485丨以身挡熊救皇帝！古代最勇妃子竟是她？
 
 - Added source note for Feng Yuan's bear rescue, promotion to Zhaoyi, Fu Zhaoyi's jealousy setup, and Tunshi River background.
@@ -18224,6 +18230,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？
 
 Added source note for Hanji 484. Key claims: Han Yuandi's favor toward Fu Zhaoyi and Liu Kang makes household intimacy a succession-order risk; Kuang Heng uses ancestral continuity, ruler self-correction,嫡庶 distinction, and empress-consort hierarchy to warn against private preference becoming public disorder; the episode extends the family hexagram into a broader household-ethics frame.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

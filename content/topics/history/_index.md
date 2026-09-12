@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1820
+topic_total_pages: 1821
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -5172,6 +5172,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl"
+    title: "《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”"
+    url: "/wiki/sources/zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl/"
   - key: "zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop"
     title: "《资治通鉴·汉纪》529丨美艳姐妹花！西汉最大的“祸水”登场！"
     url: "/wiki/sources/zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop/"

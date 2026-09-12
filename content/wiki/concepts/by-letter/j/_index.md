@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 7135
+wiki_total_pages: 7137
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -215,6 +215,12 @@ wiki_pages:
   - key: "JiuXiRitualPromotion"
     title: "九锡礼遇 / Nine Bestowments Ritual Promotion"
     url: "/wiki/concepts/jiuxiritualpromotion/"
+  - key: "JianghuSurvivalAnxiety"
+    title: "江湖生存焦虑 / Jianghu Survival Anxiety"
+    url: "/wiki/concepts/jianghusurvivalanxiety/"
+  - key: "JianghuVirtualKinship"
+    title: "江湖虚拟血缘 / Jianghu Virtual Kinship"
+    url: "/wiki/concepts/jianghuvirtualkinship/"
   - key: "JiFuBaoYang"
     title: "饥附饱扬 / Ji Fu Bao Yang"
     url: "/wiki/concepts/jifubaoyang/"
