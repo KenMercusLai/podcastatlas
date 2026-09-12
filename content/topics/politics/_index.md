@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2414
+topic_total_pages: 2415
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3961,6 +3961,9 @@ topic_concepts:
   - key: "QiangOfficialAbuseRebellionTrigger"
     title: "羌地官吏侵扰叛乱触发 / Qiang Official Abuse Rebellion Trigger"
     url: "/wiki/concepts/qiangofficialabuserebelliontrigger/"
+  - key: "KaogongfaReformBacklash"
+    title: "考功法改革反噬 / Kaogongfa Reform Backlash"
+    url: "/wiki/concepts/kaogongfareformbacklash/"
   - key: "FrugalImperialBurialRestraint"
     title: "节俭帝陵约束 / Frugal Imperial Burial Restraint"
     url: "/wiki/concepts/frugalimperialburialrestraint/"

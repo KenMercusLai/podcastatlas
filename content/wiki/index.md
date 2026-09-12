@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？](sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah.md) — 芮淇讲透资治通鉴 episode on Jing Fang's death, kaogong reform backlash, Zhang Bo's recorded private speech, Liu Qing's petition channel, and Shi Xian's trust-and-reputation tactics.
 - [《资治通鉴·汉纪》489丨伪造圣旨杀敌！汉将陈汤有多狂？](sources/zizhi-tongjian-hanji-489-weizao-shengzhi-shadi-hanjiang-chentang-you-duo-kuang-ligjvbvujg4nujinr1k39aiv28lz.md) — 芮淇讲透资治通鉴 episode on Chen Tang's pre-campaign forged-order decision, Gan Yanshou's caution, Zhizhi Chanyu's Kangju threat, and Western Regions risk timing.
 - [《资治通鉴·汉纪》490丨大汉战狼陈汤，伪造圣旨立奇功！](sources/zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina.md) — 芮淇讲透资治通鉴 episode on Chen Tang and Gan Yanshou's 36 BCE forged-command campaign, Western Regions march, Kangju intelligence, siege tactics, and killing of Zhizhi Chanyu.
 - [《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！](sources/zizhi-tongjian-hanji-492-fuhao-xihuan-shenme-nvren-qiaoqiao-wangzhaojun-ltxliplj2l-kvmey3imgklzgm1jt.md) — 芮淇讲透资治通鉴 episode on Wang Zhaojun's voluntary Xiongnu marriage choice, Huhanye Chanyu's court request, Han Yuandi's regret, and beauty as a resource requiring judgment.
@@ -2277,6 +2278,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [张伯 / Zhang Bo (Western Han)](entities/ZhangBoWesternHan.md) — Western Han broker whose secret records of Jing Fang's private political speech become prosecution material.
+- [淮阳王刘清 / Liu Qing (Huaiyang King, Western Han)](entities/LiuQingHuaiyangKingWesternHan.md) — Royal-kin petition channel in Jing Fang's failed kaogong reform plan, distinct from modern Liu Qing.
+- [郑弘 / Zheng Hong (Western Han)](entities/ZhengHongWesternHan.md) — Western Han official named in Jing Fang's replacement slate and demoted after the case.
+- [韦玄成 / Wei Xuancheng (Western Han)](entities/WeiXuanchengWesternHan.md) — Senior Western Han incumbent criticized by Jing Fang for nonperformance.
+- [五鹿充宗 / Wulu Chongzong (Western Han)](entities/WuluChongzongWesternHan.md) — Favored court figure in Jing Fang's diagnosis of anti-kaogong interests.
+- [贡禹 / Gong Yu (Western Han)](entities/GongYuWesternHan.md) — Respected Confucian scholar whose reputation Shi Xian courts after Xiao Wangzhi's death.
 - [冯勋 / Feng Xun (Western Han)](entities/FengXunWesternHan.md) — Feng-family figure whose warning to Han Yuandi about Shi Xian backfires.
 - [冯昭仪 / Feng Zhaoyi (Western Han)](entities/FengZhaoyiWesternHan.md) — Favored Han Yuandi consort whose sibling tie makes Feng Yewang's promotion vulnerable to favoritism optics.
 - [李延寿 / Li Yanshou (Western Han)](entities/LiYanshouWesternHan.md) — Yushi Dafu whose death opens the Hanji 495 appointment contest.
@@ -12106,6 +12113,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [考功法改革反噬 / Kaogongfa Reform Backlash](concepts/KaogongfaReformBacklash.md) — Pattern where official-performance assessment threatens incumbents before the reformer has institutional protection.
 - [贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse](concepts/PovertyMemoryCorruptionExcuse.md) — Pattern where poverty memory is invoked to excuse corruption but can also become empathy and public responsibility.
 - [临终废储阻断 / Deathbed Heir Replacement Resistance](concepts/DeathbedHeirReplacementResistance.md) — Succession-stability pattern where ministers block a dying ruler's late heir change by stressing established designation and public court risk.
 - [Confucian-Legalist Governance Balance / 儒法互补治理](concepts/ConfucianLegalistGovernanceBalance.md) — Governance frame for combining Confucian moral legitimacy with practical administrative control, created from Hanji 499's Yuan-versus-Xuan contrast.

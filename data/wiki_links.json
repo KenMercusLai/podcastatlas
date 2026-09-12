@@ -24635,6 +24635,10 @@
     "title": "龚宇",
     "url": "/wiki/entities/gongyu/"
   },
+  "GongYuWesternHan": {
+    "title": "贡禹 / Gong Yu (Western Han)",
+    "url": "/wiki/entities/gongyuwesternhan/"
+  },
   "GongZizhen": {
     "title": "龚自珍 / Gong Zizhen",
     "url": "/wiki/entities/gongzizhen/"
@@ -32715,6 +32719,10 @@
     "title": "Kao Hsinchu Precision Cleaning Center / 花王新竹精密洗净中心",
     "url": "/wiki/entities/kaohsinchuprecisioncleaningcenter/"
   },
+  "KaogongfaReformBacklash": {
+    "title": "考功法改革反噬 / Kaogongfa Reform Backlash",
+    "url": "/wiki/concepts/kaogongfareformbacklash/"
+  },
   "Kaolin": {
     "title": "Kaolin / 高岭土",
     "url": "/wiki/concepts/kaolin/"
@@ -35954,6 +35962,10 @@
   "LiuQing": {
     "title": "刘擎 / Liu Qing",
     "url": "/wiki/entities/liuqing/"
+  },
+  "LiuQingHuaiyangKingWesternHan": {
+    "title": "淮阳王刘清 / Liu Qing (Huaiyang King, Western Han)",
+    "url": "/wiki/entities/liuqinghuaiyangkingwesternhan/"
   },
   "LiuQingQingheKing": {
     "title": "清河王刘庆 / Liu Qing (Qinghe king)",
@@ -63023,6 +63035,10 @@
     "title": "Wei Xuan (Western Han) / 卫玄",
     "url": "/wiki/entities/weixuanwesternhan/"
   },
+  "WeiXuanchengWesternHan": {
+    "title": "韦玄成 / Wei Xuancheng (Western Han)",
+    "url": "/wiki/entities/weixuanchengwesternhan/"
+  },
   "WeiXunEasternHan": {
     "title": "隗恂 / Wei Xun (Eastern Han)",
     "url": "/wiki/entities/weixuneasternhan/"
@@ -64326,6 +64342,10 @@
   "WulingManLateHan": {
     "title": "武陵蛮 / Wuling Man (late Han)",
     "url": "/wiki/entities/wulingmanlatehan/"
+  },
+  "WuluChongzongWesternHan": {
+    "title": "五鹿充宗 / Wulu Chongzong (Western Han)",
+    "url": "/wiki/entities/wuluchongzongwesternhan/"
   },
   "WumingXianjing": {
     "title": "《污名陷阱》",
@@ -67259,6 +67279,10 @@
     "title": "Zhang Bo / 张博",
     "url": "/wiki/entities/zhangboanimallaw/"
   },
+  "ZhangBoWesternHan": {
+    "title": "张伯 / Zhang Bo (Western Han)",
+    "url": "/wiki/entities/zhangbowesternhan/"
+  },
   "ZhangBohouJerry": {
     "title": "张伯后 / Jerry",
     "url": "/wiki/entities/zhangbohoujerry/"
@@ -68290,6 +68314,10 @@
   "ZhengHongEasternHan": {
     "title": "郑洪 / Zheng Hong (Eastern Han)",
     "url": "/wiki/entities/zhenghongeasternhan/"
+  },
+  "ZhengHongWesternHan": {
+    "title": "郑弘 / Zheng Hong (Western Han)",
+    "url": "/wiki/entities/zhenghongwesternhan/"
   },
   "ZhengJunEasternHan": {
     "title": "郑均 / Zheng Jun (Eastern Han)",
@@ -73958,6 +73986,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah": {
+    "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
   },
   "zizhi-tongjian-hanji-489-weizao-shengzhi-shadi-hanjiang-chentang-you-duo-kuang-ligjvbvujg4nujinr1k39aiv28lz": {
     "title": "《资治通鉴·汉纪》489丨伪造圣旨杀敌！汉将陈汤有多狂？",

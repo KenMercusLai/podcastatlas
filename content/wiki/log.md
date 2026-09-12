@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？
+
+Added source note for Hanji 488 and updated Jing Fang into synthesis-v1. Created disambiguated Western Han pages for Zhang Bo, Liu Qing, Zheng Hong, Wei Xuancheng, Wulu Chongzong, and Gong Yu, plus the Kaogongfa Reform Backlash concept. No settled contradiction found.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！
 
 Added source note, created Hou Yin and Partnership Boundary Risk, and updated Han Yuandi, Huhanye Chanyu, and Strategic Frontier Abandonment with the border-defense withdrawal debate.
@@ -18176,6 +18180,10 @@ Ran lint. See lint-report.md for details.
 
 - Added source note for the pre-operation Zhizhi campaign setup.
 - Updated Chen Tang, Gan Yanshou, and Zhizhi Chanyu with the forged-command decision layer, Gan's caution, and Zhizhi's pre-battle threat profile.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

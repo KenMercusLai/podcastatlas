@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9825
+wiki_total_pages: 9831
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -605,6 +605,9 @@ wiki_pages:
   - key: "ZhangYiStrategist"
     title: "张仪 / Zhang Yi (Warring States strategist)"
     url: "/wiki/entities/zhangyistrategist/"
+  - key: "ZhangBoWesternHan"
+    title: "张伯 / Zhang Bo (Western Han)"
+    url: "/wiki/entities/zhangbowesternhan/"
   - key: "ZhangBohouJerry"
     title: "张伯后 / Jerry"
     url: "/wiki/entities/zhangbohoujerry/"
@@ -1538,6 +1541,9 @@ wiki_pages:
   - key: "ZhengKangGong"
     title: "郑康公 / Duke Kang of Zheng"
     url: "/wiki/entities/zhengkanggong/"
+  - key: "ZhengHongWesternHan"
+    title: "郑弘 / Zheng Hong (Western Han)"
+    url: "/wiki/entities/zhenghongwesternhan/"
   - key: "ZhengZhiWriter"
     title: "郑执 / Zheng Zhi"
     url: "/wiki/entities/zhengzhiwriter/"

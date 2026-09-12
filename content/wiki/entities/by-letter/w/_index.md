@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9825
+wiki_total_pages: 9831
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -749,6 +749,9 @@ wiki_pages:
   - key: "WuxiMan"
     title: "五溪蛮 / Wuxi Man"
     url: "/wiki/entities/wuximan/"
+  - key: "WuluChongzongWesternHan"
+    title: "五鹿充宗 / Wulu Chongzong (Western Han)"
+    url: "/wiki/entities/wuluchongzongwesternhan/"
   - key: "WuZixu"
     title: "伍子胥 / Wu Zixu"
     url: "/wiki/entities/wuzixu/"
@@ -1430,6 +1433,9 @@ wiki_pages:
   - key: "WeiBiaoEasternHan"
     title: "韦彪 / Wei Biao (Eastern Han)"
     url: "/wiki/entities/weibiaoeasternhan/"
+  - key: "WeiXuanchengWesternHan"
+    title: "韦玄成 / Wei Xuancheng (Western Han)"
+    url: "/wiki/entities/weixuanchengwesternhan/"
   - key: "WeiZhuLateHan"
     title: "韦著 / Wei Zhu (late Han)"
     url: "/wiki/entities/weizhulatehan/"

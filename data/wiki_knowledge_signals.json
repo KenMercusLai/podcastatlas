@@ -37386,6 +37386,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/gongshengxinscholar/"
     },
+    "GongYuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
+          "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/gongyuwesternhan/"
+    },
     "GongchengXingWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -48710,6 +48726,29 @@
       "updated": "2026-09-03",
       "url": "/wiki/entities/jingdaneasternhan/"
     },
+    "JingFang": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
+          "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/jingfang/"
+    },
     "JingHanEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -49742,6 +49781,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/kangju/"
+    },
+    "KaogongfaReformBacklash": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
+          "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/kaogongfareformbacklash/"
     },
     "KaomiSleep": {
       "episode_count": 1,
@@ -55216,6 +55271,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/liuqiangdonghaiking/"
+    },
+    "LiuQingHuaiyangKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
+          "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/liuqinghuaiyangkingwesternhan/"
     },
     "LiuQingQingheKing": {
       "episode_count": 4,
@@ -96337,6 +96408,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/weixuanwesternhan/"
     },
+    "WeiXuanchengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
+          "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/weixuanchengwesternhan/"
+    },
     "WeiXunEasternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -98260,6 +98347,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/wulingmanlatehan/"
+    },
+    "WuluChongzongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
+          "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wuluchongzongwesternhan/"
     },
     "WurenZhixiao": {
       "episode_count": 5,
@@ -103856,6 +103959,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/zhangboanimallaw/"
     },
+    "ZhangBoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
+          "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhangbowesternhan/"
+    },
     "ZhangBuEasternHan": {
       "episode_count": 7,
       "show_count": 1,
@@ -106080,6 +106199,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhenghongeasternhan/"
+    },
+    "ZhengHongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
+          "key": "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhenghongwesternhan/"
     },
     "ZhengJunEasternHan": {
       "episode_count": 2,
