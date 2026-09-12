@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？](sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3.md) — 芮淇讲透资治通鉴 episode on Chengdi cutting Empress Xu's harem expenses under eclipse, no-heir, and Wang-family pressure, framed through modern economic-independence commentary.
 - [《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？](sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5.md) — 芮淇讲透资治通鉴 episode on the Chang'an flood rumor, Wang Shang's refusal to amplify panic, Wang Feng's face-loss, harem-focused disaster-omen blame transfer, and Kuang Heng's demotion.
 - [EP 39: Why the Future of AI Belongs to Divergent Thinkers](sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers.md) — Data Science With Sam episode with Mark Stiltner on ADHD, neurodiversity, AI-supported hyperfocus, outcome-driven work, education, and solo AI RPGs.
 - [Essentials: Understanding & Controlling Aggression](sources/essentials-understanding-controlling-aggression-scim4757138073.md) — Huberman Lab Essentials episode on aggression categories, VMH circuitry, testosterone-to-estrogen aromatization, day length, stress state, light, heat, and supplement-bounded pressure reduction.
@@ -12054,6 +12055,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Concepts
 - [危机谣言降幅治理 / Crisis Rumor De-amplification](concepts/CrisisRumorDeamplification.md) — Crisis-governance pattern where officials avoid turning unverified public panic into an official command that validates fear.
 - [后宫灾异归咎转移 / Consort Omen Blame Transfer](concepts/ConsortOmenBlameTransfer.md) — Omen-politics pattern redirecting disaster responsibility from outer relatives or rulers toward harem favoritism, jealousy, and heir anxiety.
+- [Harem Fiscal Discipline](concepts/HaremFiscalDiscipline.md) — Court-finance pattern where harem spending cuts translate disaster, succession, and faction pressure into discipline of consort status and household agency.
 - [Battle of Marathon](concepts/BattleOfMarathon.md) — 490 BC battle treated as Athenian containment, cavalry-window attack, tactical risk, city-saving return march, and later memory object.
 - [Athenian Democracy](concepts/AthenianDemocracy.md) — Marathon-contingency concept for Athens' fragile democratic and cultural future under Persian and tyrant-restoration threat.
 - [Greco-Persian War Memory](concepts/GrecoPersianWarMemory.md) — Later interpretation of Marathon and related conflicts as freedom-versus-despotism memory, qualified by source and empire context.

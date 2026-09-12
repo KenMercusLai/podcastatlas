@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7113
+wiki_total_pages: 7114
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -749,6 +749,9 @@ wiki_pages:
   - key: "HezongAlliance"
     title: "合纵 / Hezong Alliance"
     url: "/wiki/concepts/hezongalliance/"
+  - key: "HaremFiscalDiscipline"
+    title: "后宫财政约束 / Harem Fiscal Discipline"
+    url: "/wiki/concepts/haremfiscaldiscipline/"
   - key: "HospiceCare"
     title: "安宁疗护 / Hospice Care"
     url: "/wiki/concepts/hospicecare/"

@@ -18000,3 +18000,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-12] ingest | 《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？
+
+Added source note, updated Empress Xu and Wang Feng, and created Harem Fiscal Discipline.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

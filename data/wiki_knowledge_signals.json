@@ -27828,10 +27828,17 @@
       "url": "/wiki/entities/empressxiaomuxin/"
     },
     "EmpressXuWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？ [lu9NgWdMqsETZSuvCe0Ccx4I7Z3-].md",
+          "key": "zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？ [liCvtKYvOh-P3ucoBoWldj6G--iD].md",
           "key": "zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id",
@@ -40226,6 +40233,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/hardtechfinancingdiscipline/"
+    },
+    "HaremFiscalDiscipline": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？ [lu9NgWdMqsETZSuvCe0Ccx4I7Z3-].md",
+          "key": "zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/haremfiscaldiscipline/"
     },
     "HaroldGodwinson": {
       "episode_count": 1,
@@ -92757,10 +92780,17 @@
       "url": "/wiki/entities/wangfangxinprincess/"
     },
     "WangFengWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？ [lu9NgWdMqsETZSuvCe0Ccx4I7Z3-].md",
+          "key": "zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》544丨员工越忠诚，老板越惶恐？ [lk52Zm46585z2noqXmtfn9kpwEK2].md",
           "key": "zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2",
