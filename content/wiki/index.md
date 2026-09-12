@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！](sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng.md) — 这病说来话长 episode with 子涵医生 on hantavirus subtype risk, rodent-borne transmission, pulmonary and renal syndrome red flags, cleanup prevention, vaccination scope, and official-information triage.
 - [李想×罗永浩！李想的理想：通过 AI 技术，让普通人也过上富豪的生活](sources/lixiang-luoyonghao-lixiang-de-lixiang-ai-jishu-fuhao-shenghuo-lify6z4xnd4-vt9qqvxv-pccs7fp.md) — 罗永浩的十字路口 interview with Li Auto founder Li Xiang on agents in production, L9 LEVIUS, the M100 chip, autonomous driving, robotics, embodied intelligence, organization design, and overseas strategy.
 - [《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”](sources/zizhi-tongjian-hanji-483-3-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lg6vr0avzvtqireys3hhp7trwrsl.md) — 芮淇讲透资治通鉴 short episode on Jianghu as renqing, face, relationship, virtual kinship, narrow righteousness, violence, wealth, and survival anxiety rather than simple fighting.
 - [The Weekend Intelligence: Shire folk](sources/the-weekend-intelligence-shire-folk-6aa44797a6e9aef4ccfde9bc.md) — Economist Podcasts first full Shire folk episode on Tommy Robinson's Luton origins, the English Defence League, Brent Money's American warning narrative, and selective editing of real local grievances into anti-Muslim politics.
@@ -2285,6 +2286,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [子涵医生 / Zihan Doctor](entities/ZihanDoctor.md) — source-scoped medical guest explaining hantavirus risk, rodent-borne transmission, syndrome differences, prevention, and public-health information judgment.
 - [Li Xiang / 李想 (Li Auto)](entities/LiXiangLiAuto.md) — Li Auto founder explaining the company's AI, chip, autonomous-driving, robotics, organization, and overseas strategy.
 - [Li Auto L9 LEVIUS / 理想 L9 LEVIUS](entities/LiAutoL9Levius.md) — flagship SUV positioned as Li Auto's bridge from family comfort toward high-compute physical AI.
 - [Li Auto M100 Chip / 马赫 M100](entities/LiAutoM100Chip.md) — Li Auto inference chip tied to L9 LEVIUS compute and the company's embodied-intelligence moat thesis.
@@ -12125,6 +12127,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Hantavirus Public Risk Triage](concepts/HantavirusPublicRiskTriage.md) — frame for judging hantavirus news by subtype, outbreak setting, reservoir, transmission route, syndrome, and information source.
+- [Rodent-Borne Infection Prevention](concepts/RodentBorneInfectionPrevention.md) — prevention frame around rodent exclusion, contaminated dust, wet disinfection, cleanup sequence, and avoiding wild-rodent exposure.
+- [Hemorrhagic Fever With Renal Syndrome Escalation](concepts/HemorrhagicFeverRenalSyndromeEscalation.md) — China-relevant hantavirus warning-sign frame for fever, exposure history, three reds and three pains, bleeding points, shock, and kidney injury.
+- [Hantavirus Pulmonary Syndrome Escalation](concepts/HantavirusPulmonarySyndromeEscalation.md) — Americas-associated hantavirus warning frame for flu-like onset, respiratory distress, pulmonary edema, hypoxia, and ICU-support timing.
+- [Public Health Information Triage](concepts/PublicHealthInformationTriage.md) — source-checking frame for outbreak claims, emotional headlines, provisional numbers, and proportionate public-health behavior.
 - [Enterprise Agent Production Environment](concepts/EnterpriseAgentProductionEnvironment.md) — organizational setting where agents access real workflows, data, tools, collaboration, and evaluation loops.
 - [AI Amplifies Professionals](concepts/AIAmplifiesProfessionals.md) — claim that AI magnifies domain experts rather than simply replacing expertise.
 - [Embodied Intelligence Vehicle Path](concepts/EmbodiedIntelligenceVehiclePath.md) — strategy that treats intelligent vehicles and autonomous driving as the first large physical-AI deployment scene.

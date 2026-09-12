@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7144
+wiki_total_pages: 7149
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -845,6 +845,9 @@ wiki_pages:
   - key: "RocketRecoveryRouteChoice"
     title: "Rocket Recovery Route Choice"
     url: "/wiki/concepts/rocketrecoveryroutechoice/"
+  - key: "RodentBorneInfectionPrevention"
+    title: "Rodent-Borne Infection Prevention"
+    url: "/wiki/concepts/rodentborneinfectionprevention/"
   - key: "RoleAttachmentPowerExit"
     title: "Role Attachment and Power Exit / 权力角色依附与退场"
     url: "/wiki/concepts/roleattachmentpowerexit/"

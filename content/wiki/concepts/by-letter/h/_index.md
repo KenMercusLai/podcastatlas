@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7144
+wiki_total_pages: 7149
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -59,6 +59,12 @@ wiki_pages:
   - key: "HandsetChipCoDesign"
     title: "Handset-Chip Co-Design"
     url: "/wiki/concepts/handsetchipcodesign/"
+  - key: "HantavirusPublicRiskTriage"
+    title: "Hantavirus Public Risk Triage"
+    url: "/wiki/concepts/hantaviruspublicrisktriage/"
+  - key: "HantavirusPulmonarySyndromeEscalation"
+    title: "Hantavirus Pulmonary Syndrome Escalation"
+    url: "/wiki/concepts/hantaviruspulmonarysyndromeescalation/"
   - key: "HanzhongDui"
     title: "Hanzhong Dui / 汉中对"
     url: "/wiki/concepts/hanzhongdui/"
@@ -182,6 +188,9 @@ wiki_pages:
   - key: "Hemophilia"
     title: "Hemophilia / 血友病"
     url: "/wiki/concepts/hemophilia/"
+  - key: "HemorrhagicFeverRenalSyndromeEscalation"
+    title: "Hemorrhagic Fever With Renal Syndrome Escalation"
+    url: "/wiki/concepts/hemorrhagicfeverrenalsyndromeescalation/"
   - key: "HengshanEconomicWarfare"
     title: "Hengshan Economic Warfare / 恒山之谋"
     url: "/wiki/concepts/hengshaneconomicwarfare/"

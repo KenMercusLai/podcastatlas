@@ -40801,6 +40801,38 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/hansjonas/"
     },
+    "HantavirusPublicRiskTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
+          "key": "vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng",
+          "show": "这病说来话长",
+          "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",
+          "url": "/wiki/sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/hantaviruspublicrisktriage/"
+    },
+    "HantavirusPulmonarySyndromeEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
+          "key": "vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng",
+          "show": "这病说来话长",
+          "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",
+          "url": "/wiki/sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/hantaviruspulmonarysyndromeescalation/"
+    },
     "HanyangCommanderyLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -41570,6 +41602,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/hemophilia/"
+    },
+    "HemorrhagicFeverRenalSyndromeEscalation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
+          "key": "vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng",
+          "show": "这病说来话长",
+          "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",
+          "url": "/wiki/sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/hemorrhagicfeverrenalsyndromeescalation/"
     },
     "HenanFC": {
       "episode_count": 1,
@@ -74118,6 +74166,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/publicexpressionagainsttrolls/"
     },
+    "PublicHealthInformationTriage": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
+          "key": "vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng",
+          "show": "这病说来话长",
+          "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",
+          "url": "/wiki/sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/publichealthinformationtriage/"
+    },
     "PublicReasonPrivateMotive": {
       "episode_count": 1,
       "show_count": 1,
@@ -78509,6 +78573,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/rockfishweatherwear/"
+    },
+    "RodentBorneInfectionPrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
+          "key": "vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng",
+          "show": "这病说来话长",
+          "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",
+          "url": "/wiki/sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/rodentborneinfectionprevention/"
     },
     "RogerLordOfTheFlies": {
       "episode_count": 1,
@@ -108188,6 +108268,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/zimieasternhan/"
+    },
+    "ZihanDoctor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "lhze9i64H8iFso_oN-1cMnSKXtng [lhze9i64H8iFso_oN-1cMnSKXtng].md",
+          "key": "vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng",
+          "show": "这病说来话长",
+          "title": "VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！",
+          "url": "/wiki/sources/vol-205-xiangbi-hantanbingdu-ni-genggai-liaojie-hantan-hancheng-yaxing-chuxian-zhege-zhengzhuang-yiding-like-qu-yiyuan-lhze9i64h8ifso_on-1cmnskxtng/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zihandoctor/"
     },
     "Ziwudao": {
       "episode_count": 1,

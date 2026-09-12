@@ -17747,6 +17747,9 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-12] ingest | VOL.205 相比汉坦病毒，你更该了解“汉滩”和“汉城”亚型，出现这个症状一定立刻去医院！
+
+Added source page for a 这病说来话长 episode with 子涵医生 on hantavirus outbreak risk, subtype differences, rodent reservoirs, transmission routes, pulmonary and renal syndrome red flags, cleanup prevention, vaccination scope, and public-health information triage. Created Zihan Doctor, Hantavirus Public Risk Triage, Rodent-Borne Infection Prevention, Hemorrhagic Fever With Renal Syndrome Escalation, Hantavirus Pulmonary Syndrome Escalation, and Public Health Information Triage pages; updated index and overview. No settled contradiction found; outbreak numbers, WHO-event details, vaccine targeting, cleaning specifics, and symptom examples remain source-scoped public medical education.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”
 
@@ -18236,6 +18239,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？
 
 Added source note for Hanji 484. Key claims: Han Yuandi's favor toward Fu Zhaoyi and Liu Kang makes household intimacy a succession-order risk; Kuang Heng uses ancestral continuity, ruler self-correction,嫡庶 distinction, and empress-consort hierarchy to warn against private preference becoming public disorder; the episode extends the family hexagram into a broader household-ethics frame.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

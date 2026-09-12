@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7144
+wiki_total_pages: 7149
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1667,6 +1667,9 @@ wiki_pages:
   - key: "PublicHealthGeopolitics"
     title: "Public Health Geopolitics"
     url: "/wiki/concepts/publichealthgeopolitics/"
+  - key: "PublicHealthInformationTriage"
+    title: "Public Health Information Triage"
+    url: "/wiki/concepts/publichealthinformationtriage/"
   - key: "PublicHealthInvisibility"
     title: "Public Health Invisibility"
     url: "/wiki/concepts/publichealthinvisibility/"

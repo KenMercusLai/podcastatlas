@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9836
+wiki_total_pages: 9837
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -509,6 +509,9 @@ wiki_pages:
   - key: "Zisi"
     title: "子思 / Zisi"
     url: "/wiki/entities/zisi/"
+  - key: "ZihanDoctor"
+    title: "子涵医生 / Zihan Doctor"
+    url: "/wiki/entities/zihandoctor/"
   - key: "ZiXiChu"
     title: "子西 / Zi Xi (Chu)"
     url: "/wiki/entities/zixichu/"
