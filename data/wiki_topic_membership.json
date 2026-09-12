@@ -19576,6 +19576,13 @@
       "url": "/topics/science/"
     }
   ],
+  "DeathbedHeirReplacementResistance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "DecentLifeAsControl": [
     {
       "key": "culture",
@@ -27338,6 +27345,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "FuZhaoyiWesternHan": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "FudanUniversity": [

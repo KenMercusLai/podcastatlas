@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？](sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's late succession crisis, Liu Ao's threatened crown-prince position, Liu Kang and Fu Zhaoyi's bedside advantage, and Shi Dan's institutional remonstrance.
 - [《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！](sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's death, Confucian learning without practical statecraft, Shi Xian's eunuch-power warning, Chengdi's accession, Wang-family entry, and Kuang Heng's ruler-bearing advice.
 - [《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨](sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra.md) — 芮淇讲透资治通鉴 episode on Shi Xian's Western Han eunuch-power formation, Chengdi-era transfer and impeachment, message-relay information power, and ruler-dependent collapse.
 - [《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？](sources/zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g.md) — 芮淇讲透资治通鉴 episode on Shi Xian building Han Yuandi's trust through emotional support, reliability, controlled confession, Xiao Wangzhi's fall, and Chengdi's later refusal to be captured.
@@ -8759,6 +8760,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose delegated routine authority, marriage approval, household environment, and grants helped Wang Mang's pre-usurpation ascent while her forced seal handover and late ritual resistance exposed Xin's break from Han memory.
 - [黄支国 / Huangzhi Kingdom](entities/HuangzhiKingdom.md) — Distant southern polity whose rhinoceros tribute is used in Hanji 610-1 as Wang Mang prestige theater after gift-backed diplomacy.
 - [傅喜 / Fu Xi (Western Han)](entities/FuXiWesternHan.md) — Fu-family figure whose refusal to follow Fu Taihou's title line first exposes him to removal, then helps distinguish him from the Fu/Ding cleanup.
+- [傅昭仪 / Fu Zhaoyi (Western Han)](entities/FuZhaoyiWesternHan.md) — Favored Han Yuandi consort whose bedside proximity with Liu Kang helps create Hanji 498's late succession pressure.
 - [傅太后 / Fu Taihou (Western Han)](entities/FuTaihouWesternHan.md) — Western Han consort-side power figure whose record spans jealousy-backed prosecution, title pressure, personnel retaliation, household privilege, death, and later tomb prosecution.
 - [傅晏 / Fu Yan (Western Han)](entities/FuYanWesternHan.md) — Late-Aidi court actor who flatters Fu Taihou in the title dispute and later joins Xi Fu Gong in merit-making security escalation.
 - [何武 / He Wu (Western Han)](entities/HeWuWesternHan.md) — Western Han official whose profile now spans the断剑 inheritance judgment, Aidi-era removal, Wang Jia-backed restoration, and failed anti-outer-relative recommendation.
@@ -12087,6 +12089,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [临终废储阻断 / Deathbed Heir Replacement Resistance](concepts/DeathbedHeirReplacementResistance.md) — Succession-stability pattern where ministers block a dying ruler's late heir change by stressing established designation and public court risk.
 - [Confucian-Legalist Governance Balance / 儒法互补治理](concepts/ConfucianLegalistGovernanceBalance.md) — Governance frame for combining Confucian moral legitimacy with practical administrative control, created from Hanji 499's Yuan-versus-Xuan contrast.
 - [新君清算中的责任安排 / Court Transition Blame Management](concepts/CourtTransitionBlameManagement.md) — New-ruler pattern for limiting accountability claims when cleanup threatens court stability, predecessor dignity, senior-office continuity, or future blame absorption.
 - [传话式信息权力 / Message Relay Political Power](concepts/MessageRelayPoliticalPower.md) — Inner-court information mechanism where relay work gains power by filtering what reaches the ruler and by pairing information access with private trust.

@@ -17720,6 +17720,10 @@ Added source note for Hanji 511, updated Wang Zun with the impeachment-review br
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？
+
+Added source. Key claims: Han Yuandi nearly considers replacing Liu Ao with Liu Kang under illness-bed and favored-consort pressure; Shi Dan blocks the change by reframing it as an institutional succession crisis; Fu Zhaoyi and Liu Kang's proximity becomes a bounded evidence layer rather than a settled full biography.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？
 
 Added source note, created Xiao Wangzhi, and updated Shi Xian, Han Yuandi, Trusted Eunuch Power Formation, and Message Relay Political Power.
@@ -18057,6 +18061,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

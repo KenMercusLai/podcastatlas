@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2410
+topic_total_pages: 2411
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3550,6 +3550,9 @@ topic_concepts:
   - key: "TemporaryFrontierRetrenchment"
     title: "临时边防收缩 / Temporary Frontier Retrenchment"
     url: "/wiki/concepts/temporaryfrontierretrenchment/"
+  - key: "DeathbedHeirReplacementResistance"
+    title: "临终废储阻断 / Deathbed Heir Replacement Resistance"
+    url: "/wiki/concepts/deathbedheirreplacementresistance/"
   - key: "KinshipProtocolBoundary"
     title: "亲情名分边界 / Kinship Protocol Boundary"
     url: "/wiki/concepts/kinshipprotocolboundary/"

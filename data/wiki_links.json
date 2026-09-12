@@ -15939,6 +15939,10 @@
     "title": "Death with Dignity",
     "url": "/wiki/entities/deathwithdignity/"
   },
+  "DeathbedHeirReplacementResistance": {
+    "title": "临终废储阻断 / Deathbed Heir Replacement Resistance",
+    "url": "/wiki/concepts/deathbedheirreplacementresistance/"
+  },
   "DeathsOfDespairCounterfeitPillRisk": {
     "title": "Deaths Of Despair Counterfeit Pill Risk",
     "url": "/wiki/concepts/deathsofdespaircounterfeitpillrisk/"
@@ -23074,6 +23078,10 @@
   "FuZhanEasternHan": {
     "title": "傅湛 / Fu Zhan (Eastern Han)",
     "url": "/wiki/entities/fuzhaneasternhan/"
+  },
+  "FuZhaoyiWesternHan": {
+    "title": "傅昭仪 / Fu Zhaoyi (Western Han)",
+    "url": "/wiki/entities/fuzhaoyiwesternhan/"
   },
   "FuZhiLateHan": {
     "title": "服直 / Fu Zhi (late Han)",
@@ -73910,6 +73918,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo": {
+    "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
   },
   "zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p": {
     "title": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！",

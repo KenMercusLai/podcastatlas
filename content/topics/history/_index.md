@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1815
+topic_total_pages: 1816
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2375,6 +2375,9 @@ topic_entities:
   - key: "FuTaihouWesternHan"
     title: "傅太后 / Fu Taihou (Western Han)"
     url: "/wiki/entities/futaihouwesternhan/"
+  - key: "FuZhaoyiWesternHan"
+    title: "傅昭仪 / Fu Zhaoyi (Western Han)"
+    url: "/wiki/entities/fuzhaoyiwesternhan/"
   - key: "FuYanWesternHan"
     title: "傅晏 / Fu Yan (Western Han)"
     url: "/wiki/entities/fuyanwesternhan/"

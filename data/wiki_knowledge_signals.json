@@ -21022,6 +21022,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/deathgroundtacticalpreconditions/"
     },
+    "DeathbedHeirReplacementResistance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？ [lnnUW3H3C8Tqlf5YSTX58gI7vVJO].md",
+          "key": "zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/deathbedheirreplacementresistance/"
+    },
     "DeathsOfDespairCounterfeitPillRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -34644,6 +34660,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/fuzhaneasternhan/"
     },
+    "FuZhaoyiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？ [lnnUW3H3C8Tqlf5YSTX58gI7vVJO].md",
+          "key": "zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/fuzhaoyiwesternhan/"
+    },
     "FuZhiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -40286,9 +40318,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -40324,6 +40356,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？ [lnnUW3H3C8Tqlf5YSTX58gI7vVJO].md",
+          "key": "zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
         }
       ],
       "updated": "2026-09-12",
@@ -54609,9 +54648,9 @@
       "url": "/wiki/entities/liukaieasternhan/"
     },
     "LiuKangDingtaoKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜 [lkEFo-pkG_n8LL57KDsOfCrpaD_v].md",
@@ -54619,9 +54658,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》551丨揭秘汉成帝的皇位传承之谜",
           "url": "/wiki/sources/zizhi-tongjian-hanji-551-jiemi-hanchengdi-de-huangwei-chuancheng-zhimi-lkefo-pkg_n8ll57kdsofcrpad_v/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？ [lnnUW3H3C8Tqlf5YSTX58gI7vVJO].md",
+          "key": "zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/liukangdingtaokingwesternhan/"
     },
     "LiuKuaiXinRebel": {
@@ -81358,9 +81404,9 @@
       "url": "/wiki/entities/shibilatehan/"
     },
     "ShiDanWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》568丨何武断剑！古代这起判决值得当代学一学 [ljD2OJjmsla46No-9M2q802SyxLP].md",
@@ -81396,9 +81442,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》575丨古代大臣泄密下场有多惨？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？ [lnnUW3H3C8Tqlf5YSTX58gI7vVJO].md",
+          "key": "zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/shidanwesternhan/"
     },
     "ShiDiFuShuo": {
