@@ -3,16 +3,16 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-11
-as_of_overview_commit: dc4f99b603b28618ba37f6d767f100574b7ed86b
-input_digest: 86b633526cdb868de3c1f6da45ab4a9851760eab106325a7bc99d5849a6d45a1
+last_updated: 2026-09-12
+as_of_overview_commit: 948774b7bb3b2c93f2d1ddbe8e25a7122d285ae7
+input_digest: 0a4b474098f0d8531e3ae15f23c42df559f29ddfb16fa1ff401239fda3b151d2
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, and human judgment rather than labels alone. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems. Hanji 575 adds a hierarchy-and-workplace-adjacent historical analogy: correct advice can still fail when status pressure, inconsistent follow-up, and confidential-channel handling expose the speaker.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 487 adds a bounded historical workplace analogy: Jing Fang's apparent local appointment becomes exposure when it removes him from decision-maker proximity and reporting protection. Recent additions span creator work, sex education, football academies, historical hierarchy analogies, consumer-health literacy, sleep and hearing boundaries, and Luo Yonghao panel formats where status, flaws, emotional stability, blocking, dissent exposure, and public expression become social behavior problems.
 
 ## Cross-source Findings
 
@@ -292,15 +292,14 @@ As a secondary work-and-society input, [[zizhi-tongjian-hanji-762-lishi-gaosu-ni
 
 ### Historical Office Value Depends On Power Center Proximity
 
-[[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] adds a historical work-and-career analogy through [[HuangXiangLateHan]] and [[PowerCenterProximityAdvantage]]: a role's value can come from proximity to decision makers, information, documents, and promotion visibility rather than rank alone. [[ShangshuTaiImperialAccess]] qualifies the case because Huang Xiang's retained shangshu ling post works where the office connects to central authority and source-grounded information flow.
+[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|Hanji 487]] and [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] add bounded historical work-and-career analogies through [[PowerCenterProximityAdvantage]]: a role's value can come from proximity to decision makers, information, documents, promotion visibility, and protection rather than rank alone. [[JingFang]] shows the risk side when an apparent local appointment cuts access to [[HanYuandi]], while [[HuangXiangLateHan]] shows the opportunity side by staying in a central document role grounded in [[ShangshuTaiImperialAccess]].
 
-**Evidence:** [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i]], [[HuangXiangLateHan]], [[PowerCenterProximityAdvantage]], [[ShangshuTaiImperialAccess]], [[EmperorHeOfHan]]
+**Evidence:** [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet]], [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i]], [[PowerCenterProximityAdvantage]], [[JingFang]], [[HanYuandi]], [[HuangXiangLateHan]], [[ShangshuTaiImperialAccess]]
 
 **Qualifications:**
 
-- This is a historical work-and-society analogy from Hanji 769, not modern career advice or a universal organization rule.
-- The source explicitly says local taishou authority is large, so the claim is about comparative role value under central-advancement conditions rather than a blanket preference for headquarters roles.
-- Huang Xiang's stated self-fit explanation and the host's rational-positioning interpretation should remain distinguishable.
+- These are source-scoped historical analogies, not a universal rule that headquarters roles are always better than local roles.
+- Hanji 487's workplace framing remains an interpretive translation of a Western Han court danger case.
 
 ### Palace Selection Turns Family Preparation Into Status Mobility
 

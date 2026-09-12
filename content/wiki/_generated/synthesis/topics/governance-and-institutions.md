@@ -3,16 +3,16 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-11
-as_of_overview_commit: e17050be33fef52a3ad7147c7f6657ffafb83cf7
-input_digest: 7337eeb31bda211a2c75f0f7c18fd35f885be05717428324f103a9b884de7d52
+last_updated: 2026-09-12
+as_of_overview_commit: 948774b7bb3b2c93f2d1ddbe8e25a7122d285ae7
+input_digest: 2628fe7032a41df7b8667c44dc899a84d1724c044ea35dc2641f9fa9d14c61ee
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, and administrative information flow repeatedly determine outcomes. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's wider cleanup.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, and protected access repeatedly determine outcomes. Hanji 487 adds a Western Han prelude where Jing Fang's kaogong reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field.
 
 ## Cross-source Findings
 
@@ -581,15 +581,14 @@ The GLM/Micron All-In source links AI-era legitimacy to electoral pressure: [[De
 
 ### Late Han 94 96 He Office Proximity And Reporting Integrity
 
-[[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] pushes the [[EmperorHeOfHan]] governance branch back to 94-96 CE before [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]]: [[HuangXiangLateHan]] refuses a nominally higher commandery appointment and remains shangshu ling, creating [[PowerCenterProximityAdvantage]] and extending [[ShangshuTaiImperialAccess]] because information, document routing, ruler proximity, and visibility can outweigh rank or jurisdiction. The same source adds [[ChenChongLateHan]] as a tingwei appointment that changes judicial temperament, while the [[SouthernXiongnu]] An Guo case extends [[UnauthorizedFrontierCommandIntervention]] by showing that blocked complaints and false reports to the emperor can be politically fatal even when field actors claim military success.
+[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|Hanji 487]] and [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] show that office value depends on access to authority and information, not rank alone: [[JingFang]] loses protection when [[ShiXianWesternHan]] moves him away from [[HanYuandi]] and return reporting is cancelled, while [[HuangXiangLateHan]] refuses a nominally higher commandery appointment to remain near Shangshu documents and imperial decision makers. The same Hanji 769 source adds [[ChenChongLateHan]] as a tingwei appointment that changes judicial temperament and extends [[UnauthorizedFrontierCommandIntervention]] through the Southern Xiongnu false-report chain.
 
-**Evidence:** [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i]], [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q]], [[EmperorHeOfHan]], [[HuangXiangLateHan]], [[PowerCenterProximityAdvantage]], [[ShangshuTaiImperialAccess]], [[ChenChongLateHan]], [[SouthernXiongnu]], [[UnauthorizedFrontierCommandIntervention]], [[DengHongHeEraLateHan]]
+**Evidence:** [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet]], [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i]], [[JingFang]], [[ShiXianWesternHan]], [[HanYuandi]], [[PowerCenterProximityAdvantage]], [[HuangXiangLateHan]], [[ShangshuTaiImperialAccess]], [[ChenChongLateHan]], [[UnauthorizedFrontierCommandIntervention]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 769 as a 94-96 CE backfill before Hanji 770; it adds an earlier Emperor He layer rather than replacing later maternal-redress, Gan Ying, Deng-regency, or Qiang-frontier claims.
-- The modern headquarters-versus-branch analogy and Qing-after-Yongzheng comparison are preserved as source-scoped interpretation, not a universal bureaucracy rule.
-- The He-era Deng Hong commander remains disambiguated from the existing later DengHongLateHan route unless a later bounded source connects them.
+- Hanji 487 is a Western Han access-loss case, while Hanji 769 is an Eastern Han office-choice case; the shared claim is comparative office value, not identical institutional context.
+- Ren Liang, Yao Ping, Wei Commandery procedure, and the full secret memorial text remain source-scoped.
 
 ### Late Han 772 773 He Exception Frontier And Harem Danger
 

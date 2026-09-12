@@ -48727,9 +48727,9 @@
       "url": "/wiki/entities/jingdaneasternhan/"
     },
     "JingFang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 2,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
@@ -48744,6 +48744,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！ [llYn3gEbws-gkMY8bAvLTcugRBEt].md",
+          "key": "zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet/"
         }
       ],
       "updated": "2026-09-12",
@@ -49783,9 +49790,9 @@
       "url": "/wiki/entities/kangju/"
     },
     "KaogongfaReformBacklash": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
@@ -49793,6 +49800,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！ [llYn3gEbws-gkMY8bAvLTcugRBEt].md",
+          "key": "zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet/"
         }
       ],
       "updated": "2026-09-12",
@@ -71930,9 +71944,9 @@
       "url": "/wiki/concepts/povertymemorycorruptionexcuse/"
     },
     "PowerCenterProximityAdvantage": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
@@ -71940,9 +71954,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你",
           "url": "/wiki/sources/zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！ [llYn3gEbws-gkMY8bAvLTcugRBEt].md",
+          "key": "zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/powercenterproximityadvantage/"
     },
     "PowerCompletionRetreat": {

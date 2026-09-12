@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "d6672e69f8e8d8fe52557b35f8c79e22079b9cb42b52b1c72071c0e1a9cf1ef6",
       "4aa2133b5eae87e53b2004dc853fcf9afb2bea0445d3e74a785fdbf0c749012a",
       "9d6372895427c4963d44e56cda4e1aa55cbe0de8e67e9d65d5e2d6970db86e5e",
       "8f9d80e5dfd0b2cf05c45c3812f18fc015279efc7a905daf7ed7929012aab77d",
@@ -615,11 +616,36 @@
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108"
     ],
-    "paragraph_count": 613
+    "paragraph_count": 614
   },
-  "overview_commit": "a919162ee76e6291cba1c0806cd94aff9d13508f",
-  "overview_digest": "5f577bad87e3a7686964b31481e2268e8df517e5b8c4462f0582aa85c5b21acf",
+  "overview_commit": "948774b7bb3b2c93f2d1ddbe8e25a7122d285ae7",
+  "overview_digest": "927004eb4e13c5507cf3c388937643661073f16e3b2ae0d27157c0ffe1419917",
   "paragraphs": [
+    {
+      "id": "d6672e69f8e8d8fe52557b35f8c79e22079b9cb42b52b1c72071c0e1a9cf1ef6",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "history-and-geopolitics",
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling the prelude to [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]]. It extends [[JingFang|京房]], [[KaogongfaReformBacklash|考功法改革反噬]], and [[PowerCenterProximityAdvantage|权力中心接近优势]] by showing how [[ShiXianWesternHan|石显]] first isolates Jing Fang from [[HanYuandi|汉元帝]] through a Wei Commandery appointment and then how the cancelled return-reporting channel turns reform danger into access loss. Its core synthesis is that court and workplace advancement are not only ability problems: reformers need protected proximity to decision makers, because a role that looks larger on paper can become exposure when it cuts information, sponsorship, and direct defense. No settled contradiction is recorded; Ren Liang, Yao Ping, Wei Commandery procedure, the full secret memorial text, and the modern workplace analogy remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "psychology-and-personal-development": 1,
+        "work-education-and-society": 1
+      },
+      "wikilinks": [
+        "HanYuandi",
+        "JingFang",
+        "KaogongfaReformBacklash",
+        "PowerCenterProximityAdvantage",
+        "RuiqiJiangtouZizhiTongjian",
+        "ShiXianWesternHan",
+        "zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet",
+        "zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah"
+      ]
+    },
     {
       "id": "4aa2133b5eae87e53b2004dc853fcf9afb2bea0445d3e74a785fdbf0c749012a",
       "primary_topic": "history-and-geopolitics",

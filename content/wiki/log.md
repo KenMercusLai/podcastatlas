@@ -17736,6 +17736,11 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！
+
+- Added source note for the Jing Fang kaogong setup before Hanji 488.
+- Updated Jing Fang, Kaogongfa Reform Backlash, and Power Center Proximity Advantage with the transfer-away-from-capital and cancelled reporting-channel layer.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》491丨中国外交最强硬的时刻，竟是在西汉？
@@ -18180,6 +18185,10 @@ Ran lint. See lint-report.md for details.
 
 - Added source note for the pre-operation Zhizhi campaign setup.
 - Updated Chen Tang, Gan Yanshou, and Zhizhi Chanyu with the forged-command decision layer, Gan's caution, and Zhizhi's pre-battle threat profile.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -4,17 +4,28 @@ generated: true
 topic_id: history-and-geopolitics
 title: "History and Geopolitics"
 last_updated: 2026-09-12
-as_of_overview_commit: 32e7c348b9d3f667ad5561242d3fefbd49870334
-input_digest: 849c6800ea6601c4981448e3dd3cd4ae5a70d614caae167562ea260ad9a01ea7
+as_of_overview_commit: 948774b7bb3b2c93f2d1ddbe8e25a7122d285ae7
+input_digest: 3745ec685719357c73defdda72ce9af15c8dc027f2fa863f1bb89e5b504f5606
 ---
 
 # History and Geopolitics
 
 ## Current State
 
-Hanji 496 adds a Western Han pre-reward dispute: poverty memory is separated from corruption excuse, and Chen Tang/Gan Yanshou merit is judged only after procedural and property faults are named. Hanji 510 adds a late-Western-Han backfill where Chengdi's legal-simplification edict stalls against workload and official-discretion incentives, while Gu Yong and Du Qin refuse a Xiongnu envoy's defection to preserve frontier trust. The topic otherwise continues to hold long historical arcs where states, cities, symbols, wars, borders, diasporas, and institutions are understood through concrete episodes rather than single-cause narratives. Existing Longshan, Qin-Han, late Roman, borderland, football, film-history, U.S. anthem, late-Xin, and late-Western-Han diplomacy branches keep emphasizing that geography, legitimacy, military capacity, public memory, legal process, and institutional afterlives interact across time.
+Hanji 487 adds the prelude to Jing Fang's death case: before the later private-speech leak and accusation, Shi Xian first isolates Jing Fang from Emperor Yuan by moving him out of the capital and cutting the return-reporting channel. Hanji 496 adds a Western Han pre-reward dispute: poverty memory is separated from corruption excuse, and Chen Tang/Gan Yanshou merit is judged only after procedural and property faults are named. Hanji 510 adds a late-Western-Han backfill where Chengdi's legal-simplification edict stalls against workload and official-discretion incentives, while Gu Yong and Du Qin refuse a Xiongnu envoy's defection to preserve frontier trust. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.
 
 ## Cross-source Findings
+
+### Hanji 487 Jingfang Access Loss Precedes Death Case
+
+[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|Hanji 487]] backfills the prelude to [[JingFang]]'s death before [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]]: [[ShiXianWesternHan]] reads [[KaogongfaReformBacklash]] as a threat to personnel interests, moves Jing Fang away from [[HanYuandi]] through a Wei Commandery appointment, and makes the cancelled return-reporting channel an early access-loss stage before the later private-speech case.
+
+**Evidence:** [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet]], [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah]], [[JingFang]], [[ShiXianWesternHan]], [[KaogongfaReformBacklash]], [[PowerCenterProximityAdvantage]], [[HanYuandi]]
+
+**Qualifications:**
+
+- The modern workplace analogy, Ren Liang and Yao Ping details, Wei Commandery procedure, and full memorial wording remain source-scoped.
+- Hanji 487 supplies setup, while Hanji 488 supplies the later recorded-speech and accusation sequence.
 
 ### Hanji 496 Poverty Memory And Merit Fault Preward Dispute
 

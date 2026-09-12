@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！](sources/zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet.md) — 芮淇讲透资治通鉴 episode on Jing Fang's kaogong setup, Shi Xian's transfer of him away from the capital, cancelled return-reporting channel, and power-center proximity as workplace and court survival logic.
 - [《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？](sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah.md) — 芮淇讲透资治通鉴 episode on Jing Fang's death, kaogong reform backlash, Zhang Bo's recorded private speech, Liu Qing's petition channel, and Shi Xian's trust-and-reputation tactics.
 - [《资治通鉴·汉纪》489丨伪造圣旨杀敌！汉将陈汤有多狂？](sources/zizhi-tongjian-hanji-489-weizao-shengzhi-shadi-hanjiang-chentang-you-duo-kuang-ligjvbvujg4nujinr1k39aiv28lz.md) — 芮淇讲透资治通鉴 episode on Chen Tang's pre-campaign forged-order decision, Gan Yanshou's caution, Zhizhi Chanyu's Kangju threat, and Western Regions risk timing.
 - [《资治通鉴·汉纪》490丨大汉战狼陈汤，伪造圣旨立奇功！](sources/zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina.md) — 芮淇讲透资治通鉴 episode on Chen Tang and Gan Yanshou's 36 BCE forged-command campaign, Western Regions march, Kangju intelligence, siege tactics, and killing of Zhizhi Chanyu.
@@ -7555,7 +7556,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huainanzi / 《淮南子》](entities/Huainanzi.md) — Western Han compilation used by episode 87 to connect philosophy, astronomy, technical knowledge, alchemy, and fangshu.
 - [Zou Yan / 邹衍](entities/ZouYan.md) — Warring States thinker anchoring episode 87's yin-yang and five-phases political-theory branch.
 - [Xu Fu / 徐福](entities/XuFu.md) — Qin fangshi attached to immortal-medicine sea voyages and later destination legends.
-- [Jing Fang / 京房](entities/JingFang.md) — Han star-omen figure connecting celestial interpretation, court criticism, and political diagnosis.
+- [Jing Fang / 京房](entities/JingFang.md) — Han star-omen and reform figure whose kaogong proposal, lost court access, and private-speech leak turn political diagnosis into fatal exposure.
 - [Fei Changfang / 费长房](entities/FeiChangfang.md) — Han immortal-arts figure whose stories link hidden worlds, tests, talismans, ghost control, and failed transcendence.
 - [Wei Boyang / 魏伯阳](entities/WeiBoyang.md) — Early Chinese alchemy figure attached to 《周易参同契》 and coded Daoist transformation language.
 - [Zhouyi Cantongqi / 《周易参同契》](entities/ZhouyiCantongqi.md) — Alchemical classic used by episode 87 to connect Yi learning, yin-yang, five phases, and material transformation.
@@ -13017,7 +13018,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Weak Authority Leadership / 弱势领导威信](concepts/WeakAuthorityLeadership.md) — Leadership failure pattern where nominal authority cannot defend useful work, reward competence, or punish obstruction strongly enough to make hierarchy operational.
 - [Royal Usurpation Speech Taboo / 宗室帝位言说禁忌](concepts/RoyalUsurpationSpeechTaboo.md) — Political sensitivity around royal kin speaking, praying, or being flattered as future emperors even without open rebellion.
 - [Jealousy as Political Violence / 嫉妒转化为政治杀机](concepts/JealousyAsPoliticalViolence.md) — Pattern where status anxiety or old humiliation turns another person's ability, favor, or popularity into a perceived threat and then into attempted elimination.
-- [权力中心接近优势 / Power Center Proximity Advantage](concepts/PowerCenterProximityAdvantage.md) — Bureaucratic and career pattern where proximity to real decision makers, information, documents, and promotion visibility can outweigh nominal rank or larger local jurisdiction.
+- [权力中心接近优势 / Power Center Proximity Advantage](concepts/PowerCenterProximityAdvantage.md) — Bureaucratic and career pattern where proximity to real decision makers, information, documents, promotion visibility, and protection can outweigh nominal rank or larger local jurisdiction.
 - [以直报怨式平反 / Straight Redress Without Revenge](concepts/StraightRedressWithoutRevenge.md) — Hanji 770 redress pattern where Emperor He restores Liang and Song maternal claims while refusing revenge-like erasure of Dou Taihou's adoptive-mother status.
 - [皇帝生母名分追认 / Imperial Birth-Mother Recognition](concepts/ImperialBirthMotherRecognition.md) — Ritual and political process linking hidden imperial maternity to posthumous title, burial, maternal-kin settlement, and bounded comparison cases.
 - [外戚轮回 / Outer-Relative Recurrence](concepts/OuterRelativeRecurrence.md) — Court-politics pattern where a justified maternal-clan redress can also seed a later outer-relative power problem.
