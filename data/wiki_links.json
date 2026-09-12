@@ -23271,6 +23271,10 @@
     "title": "福仔 / Fuzai AI Toy",
     "url": "/wiki/entities/fuzaiaitoy/"
   },
+  "FuzhuleiRuodiChanyu": {
+    "title": "复株累若鞮单于 / Fuzhulei Ruodi Chanyu",
+    "url": "/wiki/entities/fuzhuleiruodichanyu/"
+  },
   "GECAS": {
     "title": "GECAS",
     "url": "/wiki/entities/gecas/"
@@ -26459,6 +26463,10 @@
     "title": "后宫财政约束 / Harem Fiscal Discipline",
     "url": "/wiki/concepts/haremfiscaldiscipline/"
   },
+  "HaremSuccessionRiskControl": {
+    "title": "Harem Succession Risk Control / 后宫继承风险控制",
+    "url": "/wiki/concepts/haremsuccessionriskcontrol/"
+  },
   "HarjTaggar": {
     "title": "Harj Taggar",
     "url": "/wiki/entities/harjtaggar/"
@@ -28442,6 +28450,10 @@
   "HuhanyeChanyuBi": {
     "title": "呼韩邪单于比 / Huhanye Chanyu Bi",
     "url": "/wiki/entities/huhanyechanyubi/"
+  },
+  "HuhanyeChanyuWesternHan": {
+    "title": "呼韩邪单于 / Huhanye Chanyu (Western Han)",
+    "url": "/wiki/entities/huhanyechanyuwesternhan/"
   },
   "HuiQuLateHan": {
     "title": "惠衢 / Hui Qu (late Han)",
@@ -62375,6 +62387,10 @@
     "title": "王章 / Wang Zhang (Western Han)",
     "url": "/wiki/entities/wangzhangwesternhan/"
   },
+  "WangZhaojun": {
+    "title": "王昭君 / Wang Zhaojun",
+    "url": "/wiki/entities/wangzhaojun/"
+  },
   "WangZhenghua": {
     "title": "Wang Zhenghua / 王正华",
     "url": "/wiki/entities/wangzhenghua/"
@@ -73870,6 +73886,10 @@
   "zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut": {
     "title": "《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚",
     "url": "/wiki/sources/zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut/"
+  },
+  "zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6": {
+    "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
   },
   "zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5": {
     "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",

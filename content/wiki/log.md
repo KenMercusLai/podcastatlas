@@ -2064,6 +2064,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会
+
+Added source note, updated Du Qin, and created Harem Succession Risk Control plus Western Han Huhanye, Fuzhulei Ruodi Chanyu, and Wang Zhaojun pages.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？
 
 Added source note, created Yi Yan Moyan, Legal Complexity Discretion Power, and Imperial Edict Implementation Resistance, and updated Gu Yong and Du Qin with the Xiongnu defection-restraint case.
@@ -18033,6 +18037,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会](sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6.md) — 芮淇讲透资治通鉴 episode on Du Qin's nine-wives proposal to restrain Han Chengdi's harem, and Huhanye Chanyu's Xiongnu succession settlement before Wang Zhaojun's remarriage.
 - [《资治通鉴·汉纪》511丨“太后”天花板！她如何一天封五个弟弟为侯？](sources/zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht.md) — 芮淇讲透资治通鉴 episode on Wang Zhengjun's same-day enfeoffment of five Wang brothers, Gou Can's failed marquisate request, and Gongcheng Xing's defense of Wang Zun against a possibly private-grievance impeachment.
 - [AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse](sources/all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265.md) — All-In episode on AI doomerism, Anthropic IPO disclosure tension, open-source AI regulation risk, OpenAI's contested Navier-Stokes breakthrough, enterprise data leakage, and Nike brand drift.
 - [《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚](sources/zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut.md) — 芮淇讲透资治通鉴 episode on Chengdi's first-year Wang-family enfeoffments, yellow-fog criticism of outer relatives, Xue Xuan's governance memorial, early ritual reforms, tax reduction, Yanling, and Empress Xu's installation.
@@ -2261,6 +2262,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Huhanye Chanyu (Western Han)](entities/HuhanyeChanyuWesternHan.md) — Western Han Xiongnu ruler whose Hanji 504 succession settlement chooses Diaotao Mogao while promising future transfer to Qiemo Che.
+- [Fuzhulei Ruodi Chanyu](entities/FuzhuleiRuodiChanyu.md) — Xiongnu successor Diaotao Mogao, chosen by Huhanye and later married to Wang Zhaojun in Hanji 504.
+- [Wang Zhaojun](entities/WangZhaojun.md) — Han woman whose Hanji 504 notice concerns remarriage to Fuzhulei Ruodi Chanyu and daughters in the Xiongnu household.
 - [公乘兴 / Gongcheng Xing (Western Han)](entities/GongchengXingWesternHan.md) — Memorialist who defends Wang Zun by asking the court to review both the accused official and the accusers.
 - [张忠 / Zhang Zhong (Western Han)](entities/ZhangZhongWesternHan.md) — Yushi Dafu whose impeachment removes Wang Zun before Gongcheng Xing challenges the accusation.
 - [杨辅 / Yang Fu (Western Han)](entities/YangFuWesternHan.md) — Yushi Cheng named as the privately resentful source of charges against Wang Zun.
@@ -12075,6 +12079,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Harem Succession Risk Control](concepts/HaremSuccessionRiskControl.md) — Attempts to manage ruler desire, consort hierarchy, and heir production before harem politics becomes succession disorder.
 - [官员弹劾公开复核 / Bureaucratic Impeachment Review](concepts/BureaucraticImpeachmentReview.md) — Procedural pattern for testing impeachment against public record, private grievance, and accuser responsibility.
 - [AI Compute Brute-Force Science](concepts/AIComputeBruteForceScience.md) — use of large agent swarms, token budgets, and parallel search to compress scientific or mathematical work.
 - [AI Data Leakage](concepts/AIDataLeakage.md) — risk that prompts, logs, de-identified data, or usage patterns expose proprietary insight through hosted model systems.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7125
+wiki_total_pages: 7126
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -113,6 +113,9 @@ wiki_pages:
   - key: "HarediConscription"
     title: "Haredi Conscription"
     url: "/wiki/concepts/harediconscription/"
+  - key: "HaremSuccessionRiskControl"
+    title: "Harem Succession Risk Control / 后宫继承风险控制"
+    url: "/wiki/concepts/haremsuccessionriskcontrol/"
   - key: "HarnessEngineering"
     title: "Harness Engineering"
     url: "/wiki/concepts/harnessengineering/"

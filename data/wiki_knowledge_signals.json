@@ -24370,9 +24370,9 @@
       "url": "/wiki/entities/duqiaolatehan/"
     },
     "DuQinWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？ [ljUWccXx_aeXAsAfKPBL-y2RvOS5].md",
@@ -24387,6 +24387,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
+          "key": "zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
         }
       ],
       "updated": "2026-09-12",
@@ -34892,6 +34899,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/fuyoutiandi/"
     },
+    "FuzhuleiRuodiChanyu": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
+          "key": "zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/fuzhuleiruodichanyu/"
+    },
     "GECapital": {
       "episode_count": 1,
       "show_count": 1,
@@ -40500,6 +40523,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/haremfiscaldiscipline/"
     },
+    "HaremSuccessionRiskControl": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
+          "key": "zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/haremsuccessionriskcontrol/"
+    },
     "HaroldGodwinson": {
       "episode_count": 1,
       "show_count": 1,
@@ -43993,6 +44032,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/huhanyechanyubi/"
+    },
+    "HuhanyeChanyuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
+          "key": "zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/huhanyechanyuwesternhan/"
     },
     "HuiyinGaoliTemple": {
       "episode_count": 1,
@@ -94772,6 +94827,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/wangzhangwesternhan/"
+    },
+    "WangZhaojun": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会 [lsEvOH__1VxDtZqhLzQ6_aN3xdQ6].md",
+          "key": "zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangzhaojun/"
     },
     "WangZhengjun": {
       "episode_count": 15,

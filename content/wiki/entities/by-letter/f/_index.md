@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9810
+wiki_total_pages: 9813
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -806,6 +806,9 @@ wiki_pages:
   - key: "Fosun"
     title: "复星 / Fosun"
     url: "/wiki/entities/fosun/"
+  - key: "FuzhuleiRuodiChanyu"
+    title: "复株累若鞮单于 / Fuzhulei Ruodi Chanyu"
+    url: "/wiki/entities/fuzhuleiruodichanyu/"
   - key: "FoodRepublic"
     title: "大食代 / Food Republic"
     url: "/wiki/entities/foodrepublic/"
