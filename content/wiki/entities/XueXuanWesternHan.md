@@ -8,16 +8,17 @@ sources:
   - zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m
   - zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw
   - zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr
+  - zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-薛宣 / Xue Xuan enters the wiki through [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] as the Western Han chancellor dismissed by [[HanChengdi|汉成帝]] after [[QiongchengTaihouWesternHan|邛成太后]]'s rushed funeral. [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] adds a family-adjacent impeachment layer: Xue joins [[ZhaiFangjinWesternHan|翟方进]] in impeaching [[ZhangFangWesternHan|张放]], the son of Xue's wife [[JingwuPrincessWesternHan|靖武公主]] by an earlier marriage. [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] backfills his prior ascent, and [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]] adds an earlier public-lawfulness scene around his son [[XueHuiWesternHan|薛惠]].
+薛宣 / Xue Xuan enters the wiki through [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] as the Western Han chancellor dismissed by [[HanChengdi|汉成帝]] after [[QiongchengTaihouWesternHan|邛成太后]]'s rushed funeral. [[zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut|Hanji 503]] now backfills an earlier memorial layer: as Yushi Zhongcheng, Xue uses disaster language to diagnose harsh local administration, regional-inspector misconduct, and social-trust breakdown. [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] adds a family-adjacent impeachment layer: Xue joins [[ZhaiFangjinWesternHan|翟方进]] in impeaching [[ZhangFangWesternHan|张放]], the son of Xue's wife [[JingwuPrincessWesternHan|靖武公主]] by an earlier marriage. [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]] backfills his prior ascent, and [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]] adds an earlier public-lawfulness scene around his son [[XueHuiWesternHan|薛惠]].
 
 ## Current Profile
 
-The sources give Xue Xuan as a high official whose public actions are repeatedly legible as role discipline, but whose motives remain politically complex. Hanji 521 shows him refusing to discuss official business with his son Xue Hui in public, using the formula that officials should take law and ordinances as their teacher. The host reads that answer as both correct and strategic: it avoids visible nepotism, protects Xue from criticism, and may still let relationship signals operate through bystanders.
+The sources give Xue Xuan as a high official whose public actions are repeatedly legible as role discipline, but whose motives remain politically complex. Hanji 503 first shows him in a reforming memorial role: he praises Chengdi but argues that disasters persist because lower officials and regional inspectors fail to transmit good governance. The target is not palace favoritism alone but harsh administration, county interference, private profit, and a damaged social fabric. Hanji 521 later shows him refusing to discuss official business with his son Xue Hui in public, using the formula that officials should take law and ordinances as their teacher. The host reads that answer as both correct and strategic: it avoids visible nepotism, protects Xue from criticism, and may still let relationship signals operate through bystanders.
 
 Hanji 525 shows the upward side of the same Chengdi-era office path. Xue is appointed Yushi Dafu, then promoted to chancellor and enfeoffed as Gaoyang Hou. The later Zhang Fang and funeral cases therefore happen after the source-scoped page's earliest current evidence of his rise into top office.
 
@@ -28,6 +29,7 @@ Hanji 540 then supplies the hard accountability endpoint. Xue appears as the top
 ## Key Characteristics
 
 - Western Han high official under Han Chengdi, promoted from Yushi Dafu to chancellor and Gaoyang Hou.
+- Earlier memorialist who uses disaster language to connect failed inspection, harsh administration, and social trust breakdown.
 - Publicly refuses to instruct his son Xue Hui in local administration while invoking law as the teacher of officials.
 - Family-adjacent impeacher of Zhang Fang after dowager pressure.
 - Held accountable for rushed handling of Qiongcheng Taihou's burial.
@@ -35,6 +37,11 @@ Hanji 540 then supplies the hard accountability endpoint. Xue appears as the top
 - Serves as a repeated case where public role discipline may also protect reputation and household interest.
 
 ## Evidence
+
+Governance memorial:
+- [[zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut|Hanji 503]] says Xue Xuan submits a memorial after disasters, arguing that officials below the emperor are not fulfilling their roles.
+- [[zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut|Hanji 503]] says he criticizes harsh administration, regional inspectors who disturb counties, private profit, slander, and burdens placed on officials and commoners.
+- [[zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut|Hanji 503]] says Xue links administrative disorder to weakened hospitality, kinship feeling, relief practice, and the circulation of human relations.
 
 Public lawful restraint and son:
 - [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]] says Xue Xuan passes through Pengcheng while his son [[XueHuiWesternHan|薛惠]] is magistrate, knows his son's ability is limited, but does not publicly ask about official affairs.
@@ -53,12 +60,13 @@ Funeral responsibility and dismissal:
 
 ## Qualifications
 
-This page does not provide Xue Xuan's complete career or legal dossier. It preserves Hanji 521's public-lawfulness scene with Xue Hui, Hanji 525's promotion notices, Hanji 539's interpretation of his Zhang Fang impeachment as family-adjacent political cutting, and Hanji 540's source-scoped role in the Qiongcheng Taihou funeral accountability sequence. Xue's private intent, whether he privately coached Xue Hui, the actual downstream effect on Pengcheng officials, the exact legal basis of the charges against Zhang Fang, and his full marital chronology remain source-scoped.
+This page does not provide Xue Xuan's complete career or legal dossier. It preserves Hanji 503's early governance memorial, Hanji 521's public-lawfulness scene with Xue Hui, Hanji 525's promotion notices, Hanji 539's interpretation of his Zhang Fang impeachment as family-adjacent political cutting, and Hanji 540's source-scoped role in the Qiongcheng Taihou funeral accountability sequence. Xue's private intent, the full text and policy effect of the Hanji 503 memorial, whether he privately coached Xue Hui, the actual downstream effect on Pengcheng officials, the exact legal basis of the charges against Zhang Fang, and his full marital chronology remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 521's public-lawfulness layer: Xue's refusal to discuss office business with his son becomes evidence for deniable patronage signaling and reputation self-protection.
-- Kept Hanji 525's earlier promotion layer: Xue moves from Yushi Dafu to chancellor and Gaoyang Hou before the later accountability cases.
+- Added Hanji 503's early memorial layer: Xue turns disaster language toward inspection failure, harsh administration, and damaged social trust.
+- Preserved Hanji 521's public-lawfulness layer: Xue's refusal to discuss office business with his son becomes evidence for deniable patronage signaling and reputation self-protection.
+- Kept Hanji 525's promotion layer: Xue moves from Yushi Dafu to chancellor and Gaoyang Hou before the later accountability cases.
 - Kept Hanji 539's family-adjacent impeachment layer: Xue distances from Zhang Fang under dowager and court pressure.
 
 ## Relationships

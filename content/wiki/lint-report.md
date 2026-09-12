@@ -1,23 +1,11 @@
-# Wiki Lint Report — 2026-09-11
+# Wiki Lint Report — 2026-09-12
 
-Scanned 18853 pages.
+Scanned 19164 pages.
 
 ## Structural Issues
 
 ### Orphan Pages (no inbound links)
 - `wiki/entities/BobosOatBars.md`
-
-### Broken Wikilinks
-- `wiki/concepts/CivilWarThreatRhetoric.md` links to `[[London]]` — not found
-- `wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b.md` links to `[[London]]` — not found
-- `wiki/sources/trailer-shire-folk-6aa271d1a6e9aef4cc74ef3b.md` links to `[[London]]` — not found
-- `wiki/entities/TommyRobinson.md` links to `[[London]]` — not found
-- `wiki/entities/ShireFolk.md` links to `[[London]]` — not found
-
-### Missing Entity Pages (mentioned 3+ times but no page)
-> [!warning] Action Required
-> Run `python3 tools/heal.py` to automatically materialize these missing entity pages.
-- `[[London]]`
 
 ## Graph-Aware Issues
 

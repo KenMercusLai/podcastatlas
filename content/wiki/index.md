@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚](sources/zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut.md) — 芮淇讲透资治通鉴 episode on Chengdi's first-year Wang-family enfeoffments, yellow-fog criticism of outer relatives, Xue Xuan's governance memorial, early ritual reforms, tax reduction, Yanling, and Empress Xu's installation.
 - [《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？](sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3.md) — 芮淇讲透资治通鉴 episode on Chengdi cutting Empress Xu's harem expenses under eclipse, no-heir, and Wang-family pressure, framed through modern economic-independence commentary.
 - [《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？](sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze.md) — 芮淇讲透资治通鉴 episode on ignored Tunshi River flood-prevention advice, Yellow River relief and blame, Wang Zun's Nanshan bandit suppression, and Gu Yong's proportional defense of Chen Tang after Kangju-related misconduct.
 - [《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？](sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5.md) — 芮淇讲透资治通鉴 episode on the Chang'an flood rumor, Wang Shang's refusal to amplify panic, Wang Feng's face-loss, harem-focused disaster-omen blame transfer, and Kuang Heng's demotion.
