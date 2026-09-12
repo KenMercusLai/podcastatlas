@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [245. 怒江春日，秘境初探](sources/245-nujiang-chunri-mijing-chutan-8221838951-646453.md) — 博物志 episode on a Songtsam Nujiang Gorge route, Three Parallel Rivers geography, minority-region travel ethics, road access, Bingzhongluo religion, Baoshan coffee, and Yunnan travel logistics.
 - [Elon's Anthropic Deal, The Next AI Monopoly?, "FDA for AI" Panic, Trading the AI Boom](sources/all-in-with-chamath-jason-sacks-friedberg-elons-anthropic-deal-the-next-ai-monopoly-fda-for-ai-panic-trading-the-ai-boom-41231285.md) — All-In episode on xAI capacity leasing to Anthropic, compute and power scarcity, Anthropic monopoly fears, rejection of an "FDA for AI," cyber-capable model controls, coding-agent competition, and AI ROI proof.
 - [668. Greece vs Persia: The Rise of the First Superpower (Part 1)](sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182.md) — The Rest Is History episode on Cyrus, Darius, Achaemenid imperial order, the Ionian Revolt, Sardis, Miletus, Athenian intervention, and the road to Marathon.
 - [Master Self Control & Overcome Procrastination | Dr. Kentaro Fujita](sources/master-self-control-overcome-procrastination-dr-kentaro-fujita-scim8156556751.md) — Huberman Lab episode with Kentaro Fujita on self-control beyond willpower, marshmallow-test context, psychological distance, strategy fit, abstinence versus moderation, intrinsic motivation, and goal disengagement.
@@ -2289,6 +2290,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Songtsam / 松赞](entities/Songtsam.md) — Travel and hospitality operator framed as logistics, local interpretation, lodging, food, and driver infrastructure for a difficult Nujiang Gorge route.
+- [Nujiang Gorge / 怒江峡谷](entities/NujiangGorge.md) — Yunnan canyon route where river force, Highway 219, multi-ethnic life, religion, old transport memory, and travel ethics converge.
+- [Bingzhongluo / 丙中洛](entities/Bingzhongluo.md) — Nujiang village destination framed through terraced scenery, sacred mountains, Puhua Temple, Chongding Church, and multi-religion coexistence.
+- [Delamu / 《德拉姆》](entities/DelamuDocumentary.md) — Documentary used by the Nujiang episode to compare older Tea Horse Road mobility with current roads and modernization.
 - [Kentaro Fujita](entities/KentaroFujita.md) — Psychology researcher whose Huberman Lab interview frames self-control as a context-sensitive strategy toolkit rather than willpower alone.
 - [子涵医生 / Zihan Doctor](entities/ZihanDoctor.md) — source-scoped medical guest explaining hantavirus risk, rodent-borne transmission, syndrome differences, prevention, and public-health information judgment.
 - [Li Xiang / 李想 (Li Auto)](entities/LiXiangLiAuto.md) — Li Auto founder explaining the company's AI, chip, autonomous-driving, robotics, organization, and overseas strategy.
@@ -12136,6 +12141,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Three Parallel Rivers Landscape / 三江并流地景](concepts/ThreeParallelRiversLandscape.md) — Geography frame for Yunnan's compressed rivers, steep relief, biodiversity, road difficulty, and cultural density.
+- [Ethical Minority Travel / 少数民族地区旅行伦理](concepts/EthicalMinorityTravel.md) — Travel ethic for visiting living minority communities without exoticizing people, rituals, pain, or modernization.
+- [Remote Road Access Transformation / 偏远地区道路可达性转型](concepts/RemoteRoadAccessTransformation.md) — Infrastructure shift from isolation and survival transport toward roads, bridges, relocation, tourism, and changed remoteness.
 - [AI Coding Market Concentration](concepts/AICodingMarketConcentration.md) — Risk that coding-agent workflows concentrate revenue and developer habits around a few model providers.
 - [AI Model Approval Regime](concepts/AIModelApprovalRegime.md) — "FDA for AI" style pre-release model-review gate distinguished from narrower release governance.
 - [AI ROI Fork](concepts/AIROIFork.md) — Market test separating AI supplier revenue from downstream customer productivity, margin, and cost evidence.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 9843
+wiki_total_pages: 9847
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -593,6 +593,9 @@ wiki_pages:
   - key: "NuestraSenoraDeLaConcepcion"
     title: "Nuestra Senora de la Concepcion"
     url: "/wiki/entities/nuestrasenoradelaconcepcion/"
+  - key: "NujiangGorge"
+    title: "Nujiang Gorge / 怒江峡谷"
+    url: "/wiki/entities/nujianggorge/"
   - key: "Number10North"
     title: "Number 10 North"
     url: "/wiki/entities/number10north/"

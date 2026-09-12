@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7162
+wiki_total_pages: 7165
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -350,6 +350,9 @@ wiki_pages:
   - key: "RemoteReportingPresence"
     title: "Remote Reporting Presence / 远程采访现场感"
     url: "/wiki/concepts/remotereportingpresence/"
+  - key: "RemoteRoadAccessTransformation"
+    title: "Remote Road Access Transformation / 偏远地区道路可达性转型"
+    url: "/wiki/concepts/remoteroadaccesstransformation/"
   - key: "RenalFindingTriage"
     title: "Renal Finding Triage / 肾脏发现分层处理"
     url: "/wiki/concepts/renalfindingtriage/"

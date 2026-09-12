@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9843
+wiki_total_pages: 9847
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "Dehomag"
     title: "Dehomag / 德霍梅格"
     url: "/wiki/entities/dehomag/"
+  - key: "DelamuDocumentary"
+    title: "Delamu / 《德拉姆》"
+    url: "/wiki/entities/delamudocumentary/"
   - key: "DelcyRodriguez"
     title: "Delcy Rodriguez"
     url: "/wiki/entities/delcyrodriguez/"

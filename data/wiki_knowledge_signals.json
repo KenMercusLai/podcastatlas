@@ -9286,9 +9286,9 @@
       "url": "/wiki/entities/baoyueasternhan/"
     },
     "BaoshanYunnan": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
@@ -9296,9 +9296,16 @@
           "show": "大小电波",
           "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
           "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        },
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/baoshanyunnan/"
     },
     "Barbados": {
@@ -10091,6 +10098,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/bingzunlatehan/"
+    },
+    "Bingzhongluo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/bingzhongluo/"
     },
     "BioNTech": {
       "episode_count": 1,
@@ -17135,9 +17158,9 @@
       "url": "/wiki/concepts/coffeefarmerincomemechanics/"
     },
     "CoffeeProcessingTechnologyBoundary": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
@@ -17145,9 +17168,16 @@
           "show": "大小电波",
           "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
           "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        },
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/coffeeprocessingtechnologyboundary/"
     },
     "CoffeeSourcingWork": {
@@ -21490,6 +21520,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/dehong/"
+    },
+    "DelamuDocumentary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/delamudocumentary/"
     },
     "DelayedCanonicalRecognition": {
       "episode_count": 1,
@@ -29146,6 +29192,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/espressocodeeditor/"
+    },
+    "EthicalMinorityTravel": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/ethicalminoritytravel/"
     },
     "EthicalTriageUnderScarcity": {
       "episode_count": 1,
@@ -66688,6 +66750,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/novushomooutsiderpolitics/"
     },
+    "NujiangGorge": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/nujianggorge/"
+    },
     "NujieGenderNormTransmission": {
       "episode_count": 1,
       "show_count": 1,
@@ -77069,6 +77147,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/remigrationpolitics/"
     },
+    "RemoteRoadAccessTransformation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/remoteroadaccesstransformation/"
+    },
     "RemoteTributePrestigeTheater": {
       "episode_count": 1,
       "show_count": 1,
@@ -84658,6 +84752,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/songyoueasternhan/"
     },
+    "Songtsam": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/songtsam/"
+    },
     "SoobinKim": {
       "episode_count": 1,
       "show_count": 1,
@@ -90702,6 +90812,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/threeexcellenciesinnercourtjurisdiction/"
+    },
+    "ThreeParallelRiversLandscape": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/threeparallelriverslandscape/"
     },
     "ThreeQWar": {
       "episode_count": 1,
@@ -104371,9 +104497,9 @@
       "url": "/wiki/entities/yunchangwesternhan/"
     },
     "YunnanCoffeeOriginDevelopment": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIDoOY4eqAfaA_wTMhv8E [GKwRIDoOY4eqAfaA_wTMhv8E].md",
@@ -104381,9 +104507,16 @@
           "show": "大小电波",
           "title": "咖啡时间：跟着寻豆师，找到能代表中国云南的咖啡豆",
           "url": "/wiki/sources/kafei-shijian-genzhe-xundoushi-zhaodao-neng-daibiao-zhongguo-yunnan-de-kafeidou-gkwridooy4eqafaa-wtmhv8e/"
+        },
+        {
+          "episode_file": "8221838951_646453 [8221838951_646453].md",
+          "key": "245-nujiang-chunri-mijing-chutan-8221838951-646453",
+          "show": "博物志",
+          "title": "245. 怒江春日，秘境初探",
+          "url": "/wiki/sources/245-nujiang-chunri-mijing-chutan-8221838951-646453/"
         }
       ],
-      "updated": "2026-09-07",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/yunnancoffeeorigindevelopment/"
     },
     "YuvalNoahHarari": {

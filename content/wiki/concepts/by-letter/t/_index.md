@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7162
+wiki_total_pages: 7165
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -374,6 +374,9 @@ wiki_pages:
   - key: "ThreeJinVassalRecognition"
     title: "Three Jin Vassal Recognition / 三晋受封"
     url: "/wiki/concepts/threejinvassalrecognition/"
+  - key: "ThreeParallelRiversLandscape"
+    title: "Three Parallel Rivers Landscape / 三江并流地景"
+    url: "/wiki/concepts/threeparallelriverslandscape/"
   - key: "ThreeQinContainment"
     title: "Three Qin Containment / 三秦压制"
     url: "/wiki/concepts/threeqincontainment/"

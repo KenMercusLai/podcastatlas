@@ -17747,6 +17747,10 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 - Added: wiki/entities/Luton.md, wiki/entities/EnglishDefenceLeague.md, wiki/concepts/SelectiveThreatNarrativeEditing.md
 - Updated: wiki/entities/TommyRobinson.md, wiki/entities/ShireFolk.md, wiki/concepts/AmericanRightBritainWarningNarrative.md, wiki/index.md
 
+## [2026-09-12] ingest | 245. 怒江春日，秘境初探
+
+Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Songtsam's value is route orchestration and local interpretation on a difficult Highway 219 corridor; Nujiang's "secret place" appeal is inseparable from Three Parallel Rivers geography, multi-ethnic and multi-religious life, road modernization, and ethical viewing boundaries; Baoshan adds a traveler-facing Yunnan coffee estate layer through cupping, ripe-fruit selection, fermentation tanks, drying, and local city history.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18278,6 +18282,10 @@ Ran lint. See lint-report.md for details.
 - Added source note for the road to Marathon: Cyrus, Darius, Achaemenid imperial order, the Ionian Revolt, Sardis, Miletus, Athenian intervention, Eretria, and the 490 BC campaign setup.
 - Updated Achaemenid Empire, Darius I, Miltiades, Athens, Battle of Marathon, Athenian Democracy, and Greco-Persian War Memory.
 - Added Cyrus the Great, Aristagoras, Histias, Miletus, Sardis, Ionian Revolt, and Achaemenid Imperial Order Ideology.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

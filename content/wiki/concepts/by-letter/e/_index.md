@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "e"
-wiki_total_pages: 7162
+wiki_total_pages: 7165
 wiki_pages:
   - key: "EBikeValueChainShift"
     title: "E-Bike Value-Chain Shift"
@@ -632,6 +632,9 @@ wiki_pages:
   - key: "ETFWrapperExpansion"
     title: "ETF Wrapper Expansion / ETF 包装扩张"
     url: "/wiki/concepts/etfwrapperexpansion/"
+  - key: "EthicalMinorityTravel"
+    title: "Ethical Minority Travel / 少数民族地区旅行伦理"
+    url: "/wiki/concepts/ethicalminoritytravel/"
   - key: "EthnographicEverydayFriction"
     title: "Ethnographic Everyday Friction / 民族志日常摩擦"
     url: "/wiki/concepts/ethnographiceverydayfriction/"

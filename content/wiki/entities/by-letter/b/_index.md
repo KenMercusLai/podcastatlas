@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "b"
-wiki_total_pages: 9843
+wiki_total_pages: 9847
 wiki_pages:
   - key: "BecauseSong"
     title: "\"Because\" / Beatles Song"
@@ -464,6 +464,9 @@ wiki_pages:
   - key: "Binance"
     title: "Binance"
     url: "/wiki/entities/binance/"
+  - key: "Bingzhongluo"
+    title: "Bingzhongluo / 丙中洛"
+    url: "/wiki/entities/bingzhongluo/"
   - key: "BioNTech"
     title: "BioNTech"
     url: "/wiki/entities/biontech/"
