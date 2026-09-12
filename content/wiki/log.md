@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》507 plus丨2024年女性成长宝典，简单七步，把握九紫离火大运
+
+Added source note and created Nine Purple Fire Luck Action Frame. No settled contradictions; the 九紫离火运 premise remains source-scoped.
+
 ## [2026-09-12] ingest | EP 39: Why the Future of AI Belongs to Divergent Thinkers
 
 Added source note for Data Science With Sam EP39 and created source-scoped pages for Mark Stiltner, Rapid, neurodivergent AI augmentation, ADHD hyperfocus AI workflow, outcome-driven AI workflow, and solo AI RPGs. Updated Cognitive Diversity in AI Adoption with the neurodivergent AI work-design branch. No direct contradiction found; dopamine and ADHD claims remain source-scoped rather than clinical guidance.
@@ -18037,6 +18041,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》507 plus丨2024年女性成长宝典，简单七步，把握九紫离火大运](sources/zizhi-tongjian-hanji-507-plus-2024nian-nvxing-chengzhang-baodian-jiandan-qibu-bawo-jiuzi-lihuo-dayun-lnytzxkmnogu_o3zz46_hnkdbimm.md) — 芮淇讲透资治通鉴 plus episode turning 九紫离火运 into a seven-step women's self-growth frame around positioning, goals, practice, self-management, learning, relationships, and health.
 - [《资治通鉴·汉纪》504丨男人好色怎么办？可惜古人这招你学不会](sources/zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6.md) — 芮淇讲透资治通鉴 episode on Du Qin's nine-wives proposal to restrain Han Chengdi's harem, and Huhanye Chanyu's Xiongnu succession settlement before Wang Zhaojun's remarriage.
 - [《资治通鉴·汉纪》511丨“太后”天花板！她如何一天封五个弟弟为侯？](sources/zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht.md) — 芮淇讲透资治通鉴 episode on Wang Zhengjun's same-day enfeoffment of five Wang brothers, Gou Can's failed marquisate request, and Gongcheng Xing's defense of Wang Zun against a possibly private-grievance impeachment.
 - [AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse](sources/all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265.md) — All-In episode on AI doomerism, Anthropic IPO disclosure tension, open-source AI regulation risk, OpenAI's contested Navier-Stokes breakthrough, enterprise data leakage, and Nike brand drift.
@@ -12079,6 +12080,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Nine Purple Fire Luck Action Frame](concepts/NinePurpleFireLuckActionFrame.md) — source-scoped frame for converting 九紫离火运 language into women's self-positioning, deliberate practice, self-management, relationships, and health routines.
 - [Harem Succession Risk Control](concepts/HaremSuccessionRiskControl.md) — Attempts to manage ruler desire, consort hierarchy, and heir production before harem politics becomes succession disorder.
 - [官员弹劾公开复核 / Bureaucratic Impeachment Review](concepts/BureaucraticImpeachmentReview.md) — Procedural pattern for testing impeachment against public record, private grievance, and accuser responsibility.
 - [AI Compute Brute-Force Science](concepts/AIComputeBruteForceScience.md) — use of large agent swarms, token budgets, and parallel search to compress scientific or mathematical work.

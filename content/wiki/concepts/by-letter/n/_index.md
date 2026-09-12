@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7126
+wiki_total_pages: 7127
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "NikeBrandDrift"
     title: "Nike Brand Drift"
     url: "/wiki/concepts/nikebranddrift/"
+  - key: "NinePurpleFireLuckActionFrame"
+    title: "Nine Purple Fire Luck Action Frame / 九紫离火运行动框架"
+    url: "/wiki/concepts/ninepurplefireluckactionframe/"
   - key: "NingboBoardGameSupplyChain"
     title: "Ningbo Board Game Supply Chain / 宁波桌游供应链"
     url: "/wiki/concepts/ningboboardgamesupplychain/"
