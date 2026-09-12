@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
+- [《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？](sources/zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb.md) — 芮淇讲透资治通鉴 episode on Shi Xian's slander against Zhou Kan and Zhang Meng, Liu Xiang's Liu Gengsheng memorial, and slander-suspicion feedback collapse under Han Yuandi.
 - [《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！](sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h.md) — 芮淇讲透资治通鉴 episode on Yang Xing, Zhuge Feng, Zheng Peng, and Gong Yu as opportunistic court-alignment types around Han Yuandi, Zhou Kan, Zhang Meng, Shi Xian, and safe-but-evasive advice.
 - [OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze](sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215.md) — All-In episode on OpenAI missed targets, Codex versus Claude Code, AI cyber models, hyperscaler capex, retatrutide, and Monsanto/Roundup preemption.
 - [《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场](sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el.md) — 芮淇讲透资治通鉴 episode on Jia Juanzhi and Yang Xing's failed praise-for-promotion scheme around Shi Xian, Han Yuandi's personnel authority, and the danger of bargaining over senior appointments.
@@ -2347,7 +2348,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [召信臣 / Zhao Xinchen (Western Han)](entities/ZhaoXinchenWesternHan.md) — Western Han administrator appointed Shaofu after Zhang Tan's Yushi Dafu promotion, remembered as "Zhao Fu."
 - [高德荣 / Gao Derong](entities/GaoDerong.md) — Contemporary public-service contrast case where poverty memory becomes poverty-alleviation responsibility.
 - [高福波 / Gao Fubo](entities/GaoFubo.md) — Contemporary corruption example used to reject "穷怕了" as an excuse.
-- [石显 / Shi Xian (Western Han)](entities/ShiXianWesternHan.md) — Yuan-era eunuch power holder whose trust formation, reward opposition, and collapse create early Chengdi cleanup, office vacancy, and predecessor-blame problems.
+- [石显 / Shi Xian (Western Han)](entities/ShiXianWesternHan.md) — Yuan-era eunuch power holder whose slander, trust formation, reward opposition, and collapse create feedback, cleanup, office-vacancy, and predecessor-blame problems.
 - [张谭 / Zhang Tan (Western Han)](entities/ZhangTanWesternHan.md) — Yushi Dafu paired with Kuang Heng in Wang Zun's early-Chengdi impeachment after Shi Xian's fall.
 - [萧望之 / Xiao Wangzhi (Western Han)](entities/XiaoWangzhiWesternHan.md) — Han Yuandi's teacher and early anti-Shi-Xian opponent whose fall removes a key restraint in Hanji 501.
 - [Huhanye Chanyu (Western Han)](entities/HuhanyeChanyuWesternHan.md) — Western Han Xiongnu ruler whose profile now spans a Hanji 493 border-defense withdrawal request and a Hanji 504 succession settlement.
@@ -5552,7 +5553,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [楚惠王 / King Hui of Chu](entities/ChuHuiwang.md) — Chu ruler seized during Bai Gong Sheng's rebellion and restored by Ye Gong.
 - [子西 / Zi Xi (Chu)](entities/ZiXiChu.md) — Chu lingyin who recalls Bai Gong Sheng despite Ye Gong's warning and is killed in the resulting rebellion.
 - [管修 / Guan Xiu (Chu)](entities/GuanXiuChu.md) — Respected Chu figure whose killing helps Ye Gong infer Bai Gong Sheng lacks popular support.
-- [刘向 / Liu Xiang](entities/LiuXiang.md) — Western Han compiler and remonstrant tied to Chen Tang/Gan Yanshou's defense, Xinxu reception history, eclipse warnings, consort exempla, and Changling frugality critique.
+- [刘向 / Liu Xiang](entities/LiuXiang.md) — Western Han compiler and remonstrant tied to Liu Gengsheng's slander warning, Chen Tang/Gan Yanshou's defense, Xinxu reception history, eclipse warnings, consort exempla, and Changling frugality critique.
 - [《新序》 / Xin Xu](entities/XinXu.md) — Liu Xiang's story collection cited as the source layer for Ye Gong Hao Long.
 - [白公胜 / Bai Gong Sheng](entities/BaiGongSheng.md) — Chu figure whose apparent trust and courage collapse into revenge, armed court violence, and failed rebellion without renyi.
 - [叶公 / Ye Gong](entities/YeGong.md) — Chu judgment figure who warns against ungrounded 信/勇, suppresses Bai Gong Sheng's rebellion, and later retires from high office.
@@ -14499,6 +14500,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Early Warring States Interstate War / 战国早期诸侯混战](concepts/EarlyWarringStatesInterstateWar.md) — Frame for early Warring States conflict where opportunistic rescue, succession crises, Qin pressure, and battles like Guiling and Maling reshape state power.
 - [Use Strengths Over Faults / 用人取长弃短](concepts/UseStrengthsOverFaults.md) — Talent-selection lesson that wartime rulers should not waste scarce ability over lesser blemishes or ungrounded scandal.
 - [Court Feedback Collapse / 君臣反馈失灵](concepts/CourtFeedbackCollapse.md) — Governance failure where correction exists but is ignored, filtered, punished, driven away, or requires extreme death-facing speech to break through.
+- [谗言疑心式反馈失灵 / Slander-Suspicion Feedback Collapse](concepts/SlanderSuspicionFeedbackCollapse.md) — Court feedback failure where ruler suspicion and slander make worthy advice unstable and petty rumor politically actionable.
 - [Warring States Reform Backlash / 战国变法反噬](concepts/WarringStatesReformBacklash.md) — Pattern where state-strengthening reform creates concentrated resistance, from violent backlash to ritual-identity opposition and managed compliance.
 - [Legalist Ruler Technique / 法家君术](concepts/LegalistRulerTechnique.md) — Legalist governance frame extending from ruler control of ministers to Shang Yang's enforceable social redesign.
 - [Virtue Over Natural Barriers / 德胜地险](concepts/VirtueOverNaturalBarriers.md) — Wu Qi's warning that terrain helps only when political virtue, legitimacy, and internal alignment hold.

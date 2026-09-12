@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7197
+wiki_total_pages: 7198
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2090,6 +2090,9 @@ wiki_pages:
   - key: "SettingBasedMystery"
     title: "设定系推理 / Setting-Based Mystery"
     url: "/wiki/concepts/settingbasedmystery/"
+  - key: "SlanderSuspicionFeedbackCollapse"
+    title: "谗言疑心式反馈失灵 / Slander-Suspicion Feedback Collapse"
+    url: "/wiki/concepts/slandersuspicionfeedbackcollapse/"
   - key: "SymbolicStatusDowngradeBackfire"
     title: "象征性名分降格反噬 / Symbolic Status Downgrade Backfire"
     url: "/wiki/concepts/symbolicstatusdowngradebackfire/"

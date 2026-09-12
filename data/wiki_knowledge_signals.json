@@ -56996,9 +56996,9 @@
       "url": "/wiki/entities/liuxianlatehan/"
     },
     "LiuXiang": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙” [lh-H-geZpQtFvnyq40zLQac8s-5e].md",
@@ -57048,6 +57048,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因",
           "url": "/wiki/sources/zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？ [lq_tJdWTtaKVkciban4SPTyyhuhB].md",
+          "key": "zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb/"
         }
       ],
       "updated": "2026-09-12",
@@ -83992,9 +83999,9 @@
       "url": "/wiki/entities/shilifen/"
     },
     "ShiXianWesternHan": {
-      "episode_count": 7,
+      "episode_count": 8,
       "show_count": 1,
-      "source_note_count": 7,
+      "source_note_count": 8,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -84044,6 +84051,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场",
           "url": "/wiki/sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？ [lq_tJdWTtaKVkciban4SPTyyhuhB].md",
+          "key": "zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb/"
         }
       ],
       "updated": "2026-09-12",
@@ -84712,6 +84726,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/entities/sixiaocomedy/"
+    },
+    "SlanderSuspicionFeedbackCollapse": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？ [lq_tJdWTtaKVkciban4SPTyyhuhB].md",
+          "key": "zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/slandersuspicionfeedbackcollapse/"
     },
     "SlaveProducedGoodsBoycott": {
       "episode_count": 1,
