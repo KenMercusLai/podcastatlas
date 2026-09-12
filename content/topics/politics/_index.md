@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2406
+topic_total_pages: 2409
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -106,9 +106,15 @@ topic_concepts:
   - key: "AIDataCenterSiteSelection"
     title: "AI Data Center Site Selection"
     url: "/wiki/concepts/aidatacentersiteselection/"
+  - key: "AIDataPrivacyLaw"
+    title: "AI Data Privacy Law"
+    url: "/wiki/concepts/aidataprivacylaw/"
   - key: "AIDeepfakeParodyBoundary"
     title: "AI Deepfake Parody Boundary"
     url: "/wiki/concepts/aideepfakeparodyboundary/"
+  - key: "AIDoomerism"
+    title: "AI Doomerism"
+    url: "/wiki/concepts/aidoomerism/"
   - key: "AIElectionMisinformationRisk"
     title: "AI Election Misinformation Risk"
     url: "/wiki/concepts/aielectionmisinformationrisk/"
@@ -1300,6 +1306,9 @@ topic_concepts:
   - key: "FrontierAIComputeMonitoring"
     title: "Frontier AI Compute Monitoring"
     url: "/wiki/concepts/frontieraicomputemonitoring/"
+  - key: "FrontierAIIPODisclosureRisk"
+    title: "Frontier AI IPO Disclosure Risk"
+    url: "/wiki/concepts/frontieraiipodisclosurerisk/"
   - key: "FrontierCommandCollapse"
     title: "Frontier Command Collapse / 边郡军政崩盘"
     url: "/wiki/concepts/frontiercommandcollapse/"

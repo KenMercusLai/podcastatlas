@@ -3011,6 +3011,18 @@
       "url": "/topics/economics/"
     }
   ],
+  "AIComputeBruteForceScience": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AIComputeContinuity": [
     {
       "key": "technology",
@@ -3210,11 +3222,30 @@
       "url": "/topics/technology/"
     }
   ],
+  "AIDataLeakage": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AIDataMemoryInfrastructure": [
     {
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "AIDataPrivacyLaw": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AIDataReadiness": [
@@ -3298,6 +3329,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "AIDoomerism": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AIDrivenCreatorMarketing": [
@@ -23798,6 +23841,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "EvanHubinger": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "EvanMoore": [
     {
       "key": "economics",
@@ -27017,6 +27067,18 @@
     }
   ],
   "FrontierAIComputeMonitoring": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "FrontierAIIPODisclosureRisk": [
     {
       "key": "technology",
       "label": "Technology",
@@ -35579,6 +35641,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "JacobCoxon": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "JacobGoldstein": [
@@ -76342,6 +76411,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "all-in-with-chamath-jason-sacks-friedberg-ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie-41958585": [

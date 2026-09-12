@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7117
+wiki_total_pages: 7124
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -230,6 +230,9 @@ wiki_pages:
   - key: "NighttimeEconomyGovernance"
     title: "Nighttime Economy Governance"
     url: "/wiki/concepts/nighttimeeconomygovernance/"
+  - key: "NikeBrandDrift"
+    title: "Nike Brand Drift"
+    url: "/wiki/concepts/nikebranddrift/"
   - key: "NingboBoardGameSupplyChain"
     title: "Ningbo Board Game Supply Chain / 宁波桌游供应链"
     url: "/wiki/concepts/ningboboardgamesupplychain/"

@@ -17696,6 +17696,10 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongsh
 
 Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Awaiting-Punishment Performance.
 
+## [2026-09-12] ingest | AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse
+
+Added source note and new synthesis-first pages for AI doomerism, Anthropic IPO disclosure risk, AI data leakage/privacy, compute-leveraged science, Nike brand drift, athletic mastery branding, Jacob Coxon, and Evan Hubinger.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18025,6 +18029,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

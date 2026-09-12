@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse](sources/all-in-with-chamath-jason-sacks-friedberg-ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse-42880265.md) — All-In episode on AI doomerism, Anthropic IPO disclosure tension, open-source AI regulation risk, OpenAI's contested Navier-Stokes breakthrough, enterprise data leakage, and Nike brand drift.
 - [《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚](sources/zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut.md) — 芮淇讲透资治通鉴 episode on Chengdi's first-year Wang-family enfeoffments, yellow-fog criticism of outer relatives, Xue Xuan's governance memorial, early ritual reforms, tax reduction, Yanling, and Empress Xu's installation.
 - [《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？](sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3.md) — 芮淇讲透资治通鉴 episode on Chengdi cutting Empress Xu's harem expenses under eclipse, no-heir, and Wang-family pressure, framed through modern economic-independence commentary.
 - [《资治通鉴·汉纪》510丨汉成帝的这道圣旨，为何大臣敢阳奉阴违？](sources/zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4.md) — 芮淇讲透资治通鉴 episode on Chengdi's stalled legal-simplification edict, bureaucratic discretion incentives, and Gu Yong/Du Qin's refusal advice in a Xiongnu defection case.
@@ -2259,6 +2260,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Evan Hubinger](entities/EvanHubinger.md) — Anthropic alignment-safety figure whose Coxon-related comments raise source-scoped AI disclosure-risk questions.
+- [Jacob Coxon](entities/JacobCoxon.md) — former OpenAI and Anthropic researcher whose resignation thread triggered the episode's AI doomerism debate.
 - [王尊 / Wang Zun (Western Han)](entities/WangZunWesternHan.md) — Chengdi-era local-security official who quickly suppresses the Peng Zong-led Nanshan bandits after earlier force fails.
 - [冯屈 / Feng Qu (Western Han)](entities/FengQuWesternHan.md) — Qinghe commandery commandant whose Tunshi River dredging warning becomes Hanji 507's ignored flood-prevention signal.
 - [徐商 / Xu Shang (Western Han)](entities/XuShangWesternHan.md) — Western Han boshi whose cost-based review supports leaving the Tunshi River undredged before the later Yellow River breach.
@@ -12063,6 +12066,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [AI Compute Brute-Force Science](concepts/AIComputeBruteForceScience.md) — use of large agent swarms, token budgets, and parallel search to compress scientific or mathematical work.
+- [AI Data Leakage](concepts/AIDataLeakage.md) — risk that prompts, logs, de-identified data, or usage patterns expose proprietary insight through hosted model systems.
+- [AI Data Privacy Law](concepts/AIDataPrivacyLaw.md) — legal-policy question of protecting AI chats, files, logs, and memories from weak access standards or disclosure.
+- [AI Doomerism](concepts/AIDoomerism.md) — contested extinction-risk narrative around frontier AI and its political, safety, and open-source consequences.
+- [Athletic Mastery Branding](concepts/AthleticMasteryBranding.md) — sportswear brand strategy anchored in elite athletic excellence, product credibility, and aspiration.
+- [Frontier AI IPO Disclosure Risk](concepts/FrontierAIIPODisclosureRisk.md) — risk that frontier-lab safety claims, employee speech, and liability concerns complicate public-market filings and valuation.
+- [Nike Brand Drift](concepts/NikeBrandDrift.md) — source-scoped diagnosis that Nike weakened by drifting from performance, mastery, retail reach, and product credibility.
 - [预防性水患治理 / Preventive Flood Governance](concepts/PreventiveFloodGovernance.md) — Governance capacity for turning flood warnings, dredging, maintenance, fiscal allocation, and rescue planning into action before breach and blame.
 - [危机谣言降幅治理 / Crisis Rumor De-amplification](concepts/CrisisRumorDeamplification.md) — Crisis-governance pattern where officials avoid turning unverified public panic into an official command that validates fear.
 - [后宫灾异归咎转移 / Consort Omen Blame Transfer](concepts/ConsortOmenBlameTransfer.md) — Omen-politics pattern redirecting disaster responsibility from outer relatives or rulers toward harem favoritism, jealousy, and heir anxiety.

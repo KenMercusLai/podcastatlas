@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1018
+topic_total_pages: 1019
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -46,6 +46,9 @@ topic_concepts:
   - key: "AggressionCircuitBiology"
     title: "Aggression Circuit Biology"
     url: "/wiki/concepts/aggressioncircuitbiology/"
+  - key: "AIComputeBruteForceScience"
+    title: "AI Compute Brute-Force Science"
+    url: "/wiki/concepts/aicomputebruteforcescience/"
   - key: "AIConsciousnessBoundary"
     title: "AI Consciousness Boundary"
     url: "/wiki/concepts/aiconsciousnessboundary/"
