@@ -17716,6 +17716,10 @@ Added source note and new synthesis-first pages for AI doomerism, Anthropic IPO 
 
 Added source note for Hanji 511, updated Wang Zun with the impeachment-review branch, and created Gongcheng Xing, Zhang Zhong, Yang Fu, Chengdi Five Marquises, Wang Feng / 王逢, Gou Can, Gou Bin, Wang Man, and Bureaucratic Impeachment Review.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？
+
+Added source page for the Yuan-era Chen Tang and Gan Yanshou pardon/reward decision. Updated ChenTangWesternHan, GanYanshouWesternHan, LiuXiang, KuangHengWesternHan, ShiXianWesternHan, and MeritShieldedAccountability to distinguish the original reward layer from later Kangju, Changling, and hero-memory cases.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18061,6 +18065,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》503丨给王家长脸！揭秘西汉势力最大的外戚
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》498丨太子刘骜荒淫无度，汉元帝为何不废了他？](sources/zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's late succession crisis, Liu Ao's threatened crown-prince position, Liu Kang and Fu Zhaoyi's bedside advantage, and Shi Dan's institutional remonstrance.
+- [《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？](sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp.md) — 芮淇讲透资治通鉴 episode on Liu Xiang's defense of Chen Tang and Gan Yanshou, Han Yuandi's pardon and reward, Shi Xian/Kuang Heng's opposition, and gamble-like frontier merit.
 - [《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！](sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's death, Confucian learning without practical statecraft, Shi Xian's eunuch-power warning, Chengdi's accession, Wang-family entry, and Kuang Heng's ruler-bearing advice.
 - [《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨](sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra.md) — 芮淇讲透资治通鉴 episode on Shi Xian's Western Han eunuch-power formation, Chengdi-era transfer and impeachment, message-relay information power, and ruler-dependent collapse.
 - [《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？](sources/zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g.md) — 芮淇讲透资治通鉴 episode on Shi Xian building Han Yuandi's trust through emotional support, reliability, controlled confession, Xiao Wangzhi's fall, and Chengdi's later refusal to be captured.
@@ -2268,7 +2269,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
-- [石显 / Shi Xian (Western Han)](entities/ShiXianWesternHan.md) — Fallen Yuan-era power holder whose collapse creates early Chengdi cleanup, office vacancy, and predecessor-blame problems.
+- [石显 / Shi Xian (Western Han)](entities/ShiXianWesternHan.md) — Yuan-era eunuch power holder whose trust formation, reward opposition, and collapse create early Chengdi cleanup, office vacancy, and predecessor-blame problems.
 - [张谭 / Zhang Tan (Western Han)](entities/ZhangTanWesternHan.md) — Yushi Dafu paired with Kuang Heng in Wang Zun's early-Chengdi impeachment after Shi Xian's fall.
 - [萧望之 / Xiao Wangzhi (Western Han)](entities/XiaoWangzhiWesternHan.md) — Han Yuandi's teacher and early anti-Shi-Xian opponent whose fall removes a key restraint in Hanji 501.
 - [Huhanye Chanyu (Western Han)](entities/HuhanyeChanyuWesternHan.md) — Western Han Xiongnu ruler whose Hanji 504 succession settlement chooses Diaotao Mogao while promising future transfer to Qiemo Che.
@@ -2388,11 +2389,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [BRAVO Trial](entities/BRAVOTrial.md) — speech-neuroprosthetics clinical trial case decoding attempted speech from implanted cortical electrodes for communication restoration.
 - [赵合德 / Zhao Hede (Western Han)](entities/ZhaoHedeWesternHan.md) — Western Han favored consort whose practical favor, defense of Zhao Feiyan, Chengdi death-room exposure, suicide, and heir-killing suspicion remain balanced against evidentiary caution.
 - [阳阿公主 / Princess Yang'a (Western Han)](entities/YangAPrincessWesternHan.md) — Western Han princess whose household mediates Zhao Feiyan's dance performance into Chengdi's palace favor.
-- [陈汤 / Chen Tang (Western Han)](entities/ChenTangWesternHan.md) — Western Han frontier commander whose Changling punishment, elite-relocation backlash, Zhizhi Chanyu victory, and acknowledged faults ground a proportional hero-merit case.
+- [陈汤 / Chen Tang (Western Han)](entities/ChenTangWesternHan.md) — Western Han frontier commander whose Zhizhi Chanyu victory, forged-order reward, Kangju case, Changling punishment, and acknowledged faults ground proportional hero-merit judgment.
 - [谢万年 / Xie Wannian (Western Han)](entities/XieWannianWesternHan.md) — Western Han Changling works official punished with frontier relocation after the public-works reversal.
-- [甘延寿 / Gan Yanshou (Western Han)](entities/GanYanshouWesternHan.md) — Western Han commander paired with Chen Tang in the Zhizhi Chanyu campaign and Geng Yu's under-reward argument.
+- [甘延寿 / Gan Yanshou (Western Han)](entities/GanYanshouWesternHan.md) — Western Han commander paired with Chen Tang in the Zhizhi Chanyu campaign, Yuan-era pardon/reward decision, and Geng Yu's under-reward argument.
 - [郅支单于 / Zhizhi Chanyu](entities/ZhizhiChanyu.md) — Xiongnu ruler whose defeat by Chen Tang and Gan Yanshou anchors Hanji 570's military-merit memory dispute.
-- [匡衡 / Kuang Heng (Western Han)](entities/KuangHengWesternHan.md) — Western Han chancellor figure blamed by Geng Yu for obstructing proportionate recognition of Chen Tang and Gan Yanshou.
+- [匡衡 / Kuang Heng (Western Han)](entities/KuangHengWesternHan.md) — Western Han chancellor tied to Chengdi accession advice, Shi Xian cleanup, Chen Tang reward opposition/impeachment, and later demotion.
 - [耿育 / Geng Yu (Western Han)](entities/GengYuWesternHan.md) — Western Han memorialist whose current profile joins Chen Tang's merit defense with Chengdi succession-defense narrative repair.
 - [赵飞燕 / Zhao Feiyan (Western Han)](entities/ZhaoFeiyanWesternHan.md) — Western Han palace figure whose source-scoped profile links preventive rival removal, childless empress insecurity, alleged hidden favorites, Zhao-sister accusation, and Aidi-era case closure.
 - [曹宫 / Cao Gong (Western Han)](entities/CaoGongWesternHan.md) — Western Han palace woman whose newborn son by Han Chengdi becomes the core missing-infant case in Xie Guang's report.
@@ -5468,7 +5469,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [楚惠王 / King Hui of Chu](entities/ChuHuiwang.md) — Chu ruler seized during Bai Gong Sheng's rebellion and restored by Ye Gong.
 - [子西 / Zi Xi (Chu)](entities/ZiXiChu.md) — Chu lingyin who recalls Bai Gong Sheng despite Ye Gong's warning and is killed in the resulting rebellion.
 - [管修 / Guan Xiu (Chu)](entities/GuanXiuChu.md) — Respected Chu figure whose killing helps Ye Gong infer Bai Gong Sheng lacks popular support.
-- [刘向 / Liu Xiang](entities/LiuXiang.md) — Western Han compiler and Chengdi-era remonstrant tied to Xinxu reception history, eclipse warnings, consort exempla, and Changling frugality critique.
+- [刘向 / Liu Xiang](entities/LiuXiang.md) — Western Han compiler and remonstrant tied to Chen Tang/Gan Yanshou's defense, Xinxu reception history, eclipse warnings, consort exempla, and Changling frugality critique.
 - [《新序》 / Xin Xu](entities/XinXu.md) — Liu Xiang's story collection cited as the source layer for Ye Gong Hao Long.
 - [白公胜 / Bai Gong Sheng](entities/BaiGongSheng.md) — Chu figure whose apparent trust and courage collapse into revenge, armed court violence, and failed rebellion without renyi.
 - [叶公 / Ye Gong](entities/YeGong.md) — Chu judgment figure who warns against ungrounded 信/勇, suppresses Bai Gong Sheng's rebellion, and later retires from high office.
@@ -14291,7 +14292,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Audience-Versus-Meeting Diplomacy / 朝会之别](concepts/AudienceVsMeetingDiplomacy.md) — Diplomatic wording distinction where "会于京师" signals a lords' meeting at the Zhou capital without full royal audience.
 - [Zhou Hegemon Recognition / 周室霸权承认](concepts/ZhouHegemonRecognition.md) — Zhou court recognition of Qin Xiao Gong as senior lord or hegemon among the vassals.
 - [Merit-Based Reward and Punishment / 因功赏罚](concepts/MeritBasedRewardPunishment.md) — Han Zhaohou and Shen Buhai governance rule that offices and even small rewards must follow visible merit rather than private favor or ruler mood.
-- [Merit-Shielded Accountability / 因功免责](concepts/MeritShieldedAccountability.md) — Governance pattern where an official's proven misconduct is softened because prior service and continuing usefulness protect him from normal sanction.
+- [Merit-Shielded Accountability / 因功免责](concepts/MeritShieldedAccountability.md) — Governance pattern where fault is softened by extraordinary service, useful capacity, reward needs, or hero-memory credibility.
 - [Public Reason / Private Motive Mismatch / 公开理由与私下动机错位](concepts/PublicReasonPrivateMotive.md) — Court-politics pattern where formal reward or punishment reasons diverge from operative gratitude, factional, interest, or face-saving motives.
 - [Household Separation Law / 分居令](concepts/HouseholdSeparationLaw.md) — Shang Yang second-reform rule extending Qin state order into household room-sharing and gender/in-law separation.
 - [Qin Administrative Standardization / 秦国行政标准化](concepts/QinAdministrativeStandardization.md) — Shang Yang second-reform package consolidating counties, land boundaries, land allocation, and measurement standards.

@@ -9,12 +9,13 @@ sources:
   - zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n
   - zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo
   - zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu
+  - zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-刘向 / Liu Xiang is synthesized here through five source roles. [[zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e|Qinji 119-2]] presents him as the late Western Han compiler associated with [[XinXu|《新序》]], whose [[YeGongHaolong|叶公好龙]] anecdote shaped the later reputation of [[YeGong|叶公]]. [[zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu|Hanji 514]] backfills the scholarly base behind his Chengdi-era authority: Liu Xiang comes from Liu De's meritorious learned household, serves as Guanglu Dafu, collates imperial texts, and compiles disaster-anomaly material into `Hongfan Wuxing Zhuanlun` as a warning about Wang-family power. [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]] then shows a sharper secret-memorial version of the same concern: Liu Xiang privately tells [[ChenTangWesternHan|陈汤]] why he must speak, then urges [[HanChengdi|汉成帝]] to strengthen Liu kin, remove overmighty Wang relatives, and recover state authority. [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]] adds the later omen-remonstrance role: as Zhonglei Xiaowei, Liu Xiang uses repeated solar eclipses to tell Chengdi that disasters arise from human and imperial-family faults. [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] adds a broader Guanglu Dafu correction role, normalizing the transcript's "刘相" to Liu Xiang: he compiles consort examples from classical texts, repeatedly memorializes Chengdi, and attacks the Changling mausoleum works through frugality and afterlife logic.
+刘向 / Liu Xiang is synthesized here through six source roles. [[zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e|Qinji 119-2]] presents him as the late Western Han compiler associated with [[XinXu|《新序》]], whose [[YeGongHaolong|叶公好龙]] anecdote shaped the later reputation of [[YeGong|叶公]]. [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]] backfills an earlier court-defense role under [[HanYuandi|汉元帝]]: Liu Xiang uses classical and military precedent to defend [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]], leading Yuan to pardon and reward them after the Zhizhi Chanyu campaign. [[zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu|Hanji 514]] backfills the scholarly base behind his Chengdi-era authority: Liu Xiang comes from Liu De's meritorious learned household, serves as Guanglu Dafu, collates imperial texts, and compiles disaster-anomaly material into `Hongfan Wuxing Zhuanlun` as a warning about Wang-family power. [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]] then shows a sharper secret-memorial version of the same concern: Liu Xiang privately tells [[ChenTangWesternHan|陈汤]] why he must speak, then urges [[HanChengdi|汉成帝]] to strengthen Liu kin, remove overmighty Wang relatives, and recover state authority. [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]] adds the later omen-remonstrance role: as Zhonglei Xiaowei, Liu Xiang uses repeated solar eclipses to tell Chengdi that disasters arise from human and imperial-family faults. [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] adds a broader Guanglu Dafu correction role, normalizing the transcript's "刘相" to Liu Xiang: he compiles consort examples from classical texts, repeatedly memorializes Chengdi, and attacks the Changling mausoleum works through frugality and afterlife logic.
 
 ## Current Profile
 
@@ -24,14 +25,16 @@ Hanji 514, Hanji 522, and Hanji 546 give Liu Xiang a different register. Rather 
 
 Hanji 536-1 adds Liu Xiang as a court moralist and frugality remonstrant. The episode says he treats moral education as beginning inside the ruler's closest relationships, compiles examples of virtuous women and destructive favorites from the `Shijing` and `Shangshu` traditions, and memorializes Chengdi many times. His Changling advice extends the critique from inner-palace disorder to public works: extravagant burial burdens the living and fails under either assumption about whether the dead retain awareness.
 
+Hanji 497 adds an earlier proportional-judgment role under Yuan. Liu Xiang's defense of Chen Tang and Gan Yanshou is not omen-coded or outer-relative-focused; it argues that unauthorized action should be judged against necessity, result, and public military benefit. The episode therefore makes him a court defender of exceptional frontier merit before his later Chengdi-era remonstrance profile.
+
 ## Key Characteristics
 
-- Late Western Han compiler associated in the source with [[XinXu|《新序》]].
-- Connected to the reception history of [[YeGongHaolong|叶公好龙]], where a didactic anecdote reshapes Ye Gong's later image.
+- Late Western Han compiler associated with [[XinXu|《新序》]] and the reception history of [[YeGongHaolong|叶公好龙]], where a didactic anecdote reshapes Ye Gong's later image.
 - Chengdi-era Guanglu Dafu and imperial text-collation lead in Hanji 514; Zhonglei Xiaowei in Hanji 546.
 - Uses disasters, omens, classical precedent, and solar-eclipse frequency as evidence of outer-relative danger, political disorder, and imperial-family fault.
 - Frames natural calamity as human and moral failure rather than as isolated natural event.
 - Uses classical consort examples and mausoleum-frugality reasoning to criticize Chengdi's inner court and Changling works.
+- Uses classical and military precedent under Yuan to argue that extraordinary frontier merit can justify pardoning procedural fault.
 - His advice is recorded as respected or moving to Chengdi, but not fully converted into settled policy in these source notes.
 
 ## Evidence
@@ -40,7 +43,9 @@ Reception-history role:
 - [[zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e|Qinji 119-2]] says the Ye Gong loves dragons story comes from Liu Xiang's Xin Xu.
 - [[zizhi-tongjian-qinji-119-2-zanmen-dou-yuanwang-le-beifu-2000-duonian-heiguo-de-yegong-haolong-lh-h-gezpqtvnyq40zlqac8s-5e|Qinji 119-2]] treats the anecdote as reputation-distorting moralization rather than a full biography of Ye Gong.
 
-Chengdi remonstrance role:
+Court remonstrance role:
+- [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]] says Liu Xiang memorializes for Gan Yanshou and Chen Tang after the Zhizhi Chanyu campaign, using classical and military precedent to persuade Yuan.
+- [[zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp|Hanji 497]] says Yuan accepts Liu Xiang's argument, pardons the commanders' faults, gives them rewards, and forbids further accusation.
 - [[zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu|Hanji 514]] says Liu Xiang is tasked with collating classics, masters, and poetry after Chengdi orders a search for lost books.
 - [[zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu|Hanji 514]] says Liu Xiang compiles disaster and anomaly records into `Hongfan Wuxing Zhuanlun`, which Chengdi understands as criticism of Wang Feng's brothers and their excessive power.
 - [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]] says Liu Xiang privately tells Chen Tang that disasters and Wang-family power threaten Chengdi, and that his Liu-lineage status and old-minister role make silence irresponsible.
@@ -56,17 +61,19 @@ Chengdi remonstrance role:
 
 ## Qualifications
 
-This page is source-scoped to Qinji 119-2, Hanji 514, Hanji 546, Hanji 536-1, and Hanji 522. It does not reconstruct Liu Xiang's full bibliography, office history, complete memorial wording, standard-history biography, or the full textual transmission of Xin Xu. The Ye Gong branch records reception effects, while the Chengdi branches record book collation, outer-relative warning, omen, consort-morality, and mausoleum-frugality remonstrance episodes. Hanji 514's `Hongfan Wuxing` framing, Hanji 522's Wang ancestral-tomb omen, and Chengdi's inner reasons for non-adoption remain source-scoped political rhetoric rather than independently verified causation.
+This page is source-scoped to Qinji 119-2, Hanji 497, Hanji 514, Hanji 546, Hanji 536-1, and Hanji 522. It does not reconstruct Liu Xiang's full bibliography, office history, complete memorial wording, standard-history biography, or the full textual transmission of Xin Xu. The Ye Gong branch records reception effects; Hanji 497 records a Yuan-era proportional-merit defense; the Chengdi branches record book collation, outer-relative warning, omen, consort-morality, and mausoleum-frugality remonstrance episodes. Hanji 514's `Hongfan Wuxing` framing, Hanji 522's Wang ancestral-tomb omen, and Chengdi's inner reasons for non-adoption remain source-scoped political rhetoric rather than independently verified causation.
 
 ## What Changed
 
-- Added Hanji 514's earlier scholarly-authority layer: Liu Xiang's imperial text collation and `Hongfan Wuxing` disaster compilation become a veiled warning about Wang-family power before the later secret memorial.
+- Added Hanji 497's Yuan-era defense of Gan Yanshou and Chen Tang as an earlier proportional-merit role distinct from Liu Xiang's Chengdi-era omen and outer-relative warnings.
 
 ## Relationships
 
 - [[XinXu|《新序》]] - text compiled by Liu Xiang in the Qinji 119-2 account.
 - [[YeGongHaolong|叶公好龙]] and [[YeGong|叶公]] - idiom and historical figure affected by the Xin Xu anecdote.
 - [[HanChengdi|汉成帝]] - ruler addressed by Liu Xiang's eclipse warning.
+- [[HanYuandi|汉元帝]] - ruler persuaded by Liu Xiang's defense of Chen Tang and Gan Yanshou.
+- [[GanYanshouWesternHan|甘延寿]] - commander Liu Xiang defends after the Zhizhi campaign.
 - [[WangFengWesternHan|王凤]] - Wang-family powerholder whose brothers are the target of Liu Xiang's Hanji 514 warning.
 - [[ChenTangWesternHan|陈汤]] - old commander who hears Liu Xiang's private explanation before the secret memorial.
 - [[OuterRelativePreventiveRestraint|外戚预防性约束]] - prevention concept sharpened by Liu Xiang's proposal to remove Wang relatives from power before dynastic transfer.

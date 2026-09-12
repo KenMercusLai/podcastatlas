@@ -14031,9 +14031,9 @@
       "url": "/wiki/entities/chenshoutaishilinglatehan/"
     },
     "ChenTangWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -14062,6 +14062,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？ [liZ2SsrmIjHowEBL5HhX8_61yBmp].md",
+          "key": "zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
         }
       ],
       "updated": "2026-09-12",
@@ -35388,9 +35395,9 @@
       "url": "/wiki/concepts/gamespiritorganization/"
     },
     "GanYanshouWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -35398,9 +35405,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？ [liZ2SsrmIjHowEBL5HhX8_61yBmp].md",
+          "key": "zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/ganyanshouwesternhan/"
     },
     "GanYingEasternHan": {
@@ -50617,9 +50631,9 @@
       "url": "/wiki/entities/kuaishou/"
     },
     "KuangHengWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -50662,6 +50676,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？ [liZ2SsrmIjHowEBL5HhX8_61yBmp].md",
+          "key": "zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
         }
       ],
       "updated": "2026-09-12",
@@ -55199,9 +55220,9 @@
       "url": "/wiki/entities/liuxianlatehan/"
     },
     "LiuXiang": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·秦纪》119-2｜咱们都冤枉了背负2000多年黑锅的“叶公好龙” [lh-H-geZpQtFvnyq40zLQac8s-5e].md",
@@ -55237,6 +55258,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》514丨大小“王”对决，你猜谁能赢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-514-da-xiao-wang-duijue-ni-cai-shui-neng-ying-lnlvthkkqbp_zo2lfpp4bqmh5nsu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？ [liZ2SsrmIjHowEBL5HhX8_61yBmp].md",
+          "key": "zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
         }
       ],
       "updated": "2026-09-12",
@@ -61191,9 +61219,9 @@
       "url": "/wiki/entities/merck/"
     },
     "MeritShieldedAccountability": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
@@ -61222,6 +61250,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？ [liZ2SsrmIjHowEBL5HhX8_61yBmp].md",
+          "key": "zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
         }
       ],
       "updated": "2026-09-12",
@@ -81568,9 +81603,9 @@
       "url": "/wiki/entities/shilifen/"
     },
     "ShiXianWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -81599,6 +81634,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？ [liZ2SsrmIjHowEBL5HhX8_61yBmp].md",
+          "key": "zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-497-huangniba-diao-kudang-xihan-mingjiang-chentang-dangguan-you-duo-nan-liz2ssrmijhowebl5hhx8-61ybmp/"
         }
       ],
       "updated": "2026-09-12",
