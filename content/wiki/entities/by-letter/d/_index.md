@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9912
+wiki_total_pages: 9914
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1079,6 +1079,9 @@ wiki_pages:
   - key: "DuChongProtectorOfXiongnu"
     title: "杜崇 / Du Chong (Protector of Xiongnu)"
     url: "/wiki/entities/duchongprotectorofxiongnu/"
+  - key: "DuYannianWesternHan"
+    title: "杜延年 / Du Yannian (Western Han)"
+    url: "/wiki/entities/duyannianwesternhan/"
   - key: "DuGenLateHan"
     title: "杜根 / Du Gen (late Han)"
     url: "/wiki/entities/dugenlatehan/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7248
+wiki_total_pages: 7249
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2030,6 +2030,9 @@ wiki_pages:
   - key: "SchoolAreaMemoryEcology"
     title: "放学后记忆生态 / School-Area Memory Ecology"
     url: "/wiki/concepts/schoolareamemoryecology/"
+  - key: "SensitivePersonnelRecommendationBoundary"
+    title: "敏感人事建议边界 / Sensitive Personnel Recommendation Boundary"
+    url: "/wiki/concepts/sensitivepersonnelrecommendationboundary/"
   - key: "SeasonalRitualConsumptionRestraint"
     title: "时令礼法式饮食约束 / Seasonal Ritual Consumption Restraint"
     url: "/wiki/concepts/seasonalritualconsumptionrestraint/"

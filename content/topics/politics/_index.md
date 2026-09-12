@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2454
+topic_total_pages: 2455
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6281,6 +6281,9 @@ topic_entities:
   - key: "LiTongLateHan"
     title: "李通 / Li Tong (late Han)"
     url: "/wiki/entities/litonglatehan/"
+  - key: "DuYannianWesternHan"
+    title: "杜延年 / Du Yannian (Western Han)"
+    url: "/wiki/entities/duyannianwesternhan/"
   - key: "DuLinEasternHan"
     title: "杜琳 / Du Lin (Eastern Han)"
     url: "/wiki/entities/dulineasternhan/"

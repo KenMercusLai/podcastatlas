@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场](sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx.md) — 芮淇讲透资治通鉴 episode on Huang Ba recommending Shi Gao for taiwei, Han Xuan's rebuke over personnel and military authority, and the workplace boundary around sensitive appointment advice.
 - [《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子](sources/zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5.md) — 芮淇讲透资治通鉴 episode on Guangling king Liu Xu's curse-based succession fantasy, Huhanye's submission note, and Geng Shouchang's grain transport and Changping granary reforms.
 - [《资治通鉴·汉纪》456-2｜这两位圣人的论道，藏着人类的终极秘密](sources/zizhi-tongjian-hanji-456-2-zhe-liangwei-shengren-de-lundao-cangzhe-renlei-de-zhongji-mimi-lsjl6awahc0gyhtwh3tagh1utqx4.md) — 芮淇讲透资治通鉴 episode on Confucius's first visit to Laozi, axial-age framing, natural wuwei, water virtue, non-contention, and removing pride and desire.
 - [《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧](sources/zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9.md) — 芮淇讲透资治通鉴 episode on Confucius asking Laozi about renyi, natural wuwei, observing sameness, life-death and honor-disgrace equanimity, and inward cultivation.
@@ -2336,6 +2337,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Huang Ba (Western Han)](entities/HuangBaWesternHan.md) — Western Han chancellor whose failed recommendation of Shi Gao for taiwei illustrates sensitive personnel-boundary overreach.
+- [Du Yannian (Western Han)](entities/DuYannianWesternHan.md) — Western Han official appointed yushi dafu by Emperor Xuan in the Hanji 455 closing notice.
 - [广陵王刘须 / Liu Xu, Guangling King (Western Han)](entities/LiuXuGuanglingKingWesternHan.md) — Han Wudi's son and Guangling king whose throne ambition becomes repeated curse-based succession fantasy and ends in exposure, witness killing, and suicide.
 - [耿寿昌 / Geng Shouchang (Western Han)](entities/GengShouchangWesternHan.md) — Western Han grain official whose proposals combine nearer capital provisioning with Changping granaries for public price stabilization.
 - [杨恽 / Yang Yun](entities/YangYunWesternHan.md) — Western Han official and Sima Qian descendant whose resentful speech and letter after disgrace lead to execution under Emperor Xuan.
@@ -12252,6 +12255,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Sensitive Personnel Recommendation Boundary](concepts/SensitivePersonnelRecommendationBoundary.md) — authority boundary around unsolicited advice on high-level personnel appointments, especially military-linked or inner-circle posts.
 - [宗室巫术夺位幻想 / Royal Witchcraft Succession Delusion](concepts/RoyalWitchcraftSuccessionDelusion.md) — Royal-kin pattern where occult harm substitutes for open succession action and coincidence is misread as political efficacy.
 - [长平仓制度 / Changping Granary System](concepts/ChangpingGranarySystem.md) — Public grain-reserve policy that buys when grain is cheap and sells when grain is dear to buffer farmers, consumers, and scarcity risk.
 - [国家粮价平准 / State Grain Price Stabilization](concepts/StateGrainPriceStabilization.md) — Governance logic of using public procurement, storage, and release of staple grain to smooth harmful price swings.

@@ -18506,6 +18506,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场
+
+Added source note plus Huang Ba, Du Yannian, Shi Gao, and Sensitive Personnel Recommendation Boundary updates. Key claims: Huang Ba's recommendation of Shi Gao for taiwei crosses Xuan's appointment and military-authority boundary; Shi Gao's trusted outer-relative position makes the advice politically sensitive; delayed non-punishment functions as a warning.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？
 
 Added source note plus Xuan, Yuan, Xu Pingjun, Wei Xuancheng, Liu Qin, Confucian-Legalist governance balance, deathbed heir-replacement resistance, and established-heir replacement risk updates. Key claims: Xuan sees Liu Shi's Confucian softness and poor timing as a future governing danger; Han statecraft is framed as 王霸并用 rather than pure moral rule; and Xuan preserves Liu Shi despite Liu Qin's appeal because嫡长 status, Xu Pingjun's memory, and succession-conflict risk outweigh the replacement impulse.
@@ -18643,6 +18647,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧
 
 Added source note plus Laozi, Confucius, Daodejing, and Daoist cultivation concept updates. Key claims: Laozi critiques forced renyi as potentially disturbing nature, teaches natural wuwei and observing sameness, and reframes life/death, right/wrong, noble/low, and honor/disgrace as changing states within the Way.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

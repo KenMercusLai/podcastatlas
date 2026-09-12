@@ -25747,6 +25747,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/duxilatehan/"
     },
+    "DuYannianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场 [lhaztu17UlZaartaA6y0eHAqvnzx].md",
+          "key": "zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/duyannianwesternhan/"
+    },
     "DuYeWesternHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -45825,6 +45841,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/huanyueasternhan/"
+    },
+    "HuangBaWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场 [lhaztu17UlZaartaA6y0eHAqvnzx].md",
+          "key": "zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/huangbawesternhan/"
     },
     "HuangFuDonghaiLateHan": {
       "episode_count": 1,
@@ -84213,6 +84245,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/selfunderstandingasvitality/"
     },
+    "SensitivePersonnelRecommendationBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场 [lhaztu17UlZaartaA6y0eHAqvnzx].md",
+          "key": "zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/sensitivepersonnelrecommendationboundary/"
+    },
     "SeparatedCampMutualSupportRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -85730,9 +85778,9 @@
       "url": "/wiki/entities/shidifushuo/"
     },
     "ShiGaoWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
@@ -85761,6 +85809,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场 [lhaztu17UlZaartaA6y0eHAqvnzx].md",
+          "key": "zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx/"
         }
       ],
       "updated": "2026-09-13",
