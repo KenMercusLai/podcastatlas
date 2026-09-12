@@ -10,12 +10,13 @@ sources:
   - zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv
   - zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x
   - zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5
+  - zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-谷永 / Gu Yong (Western Han) enters the wiki through [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]] as a Chengdi-era official whose career is read through patronage stigma and ruler distrust. The source says he had been recommended through the Wang-family side, repeatedly memorialized against [[HanChengdi|汉成帝]] and his inner-palace conduct, then was allowed to retire during illness and died a few months later. [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] backfills an earlier alignment layer: Gu Yong and [[DuQinWesternHan|杜钦]] interpret Chengdi-era eclipse and earthquake signs as harem favoritism and heir-risk problems, shifting pressure away from Wang-family outer-relative power. [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] adds an earlier anti-fangshu layer: Gu Yong warns Chengdi that claims about immortals, elixirs, and gold-making are deceptive and costly when ritual anxiety is rising. [[zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u|Hanji 538]] adds the harsher Yongshi 2 remonstrance layer: Gu Yong uses Chengdi's omen inquiry to attack the ruler's women, drinking, fiscal burden, private outings, and indulgence, then survives because Wang-family backing and Chengdi's cooling anger keep the arrest order bounded. [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] adds a legal-procedure layer: Gu Yong defends [[LiuLiWesternHan|梁王刘立]] against a "禽兽行" charge by questioning case expansion, private evidence, emotional plausibility, and the damage done to royal-house trust by rash prosecution. [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]] adds a later Yuan延 1 disaster-warning layer, where Gu Yong ties repeated anomalies to dynastic danger, inner-court disorder, rebellion risk, and the need for Chengdi to restrain favorites, reduce burden, and settle the people.
+谷永 / Gu Yong (Western Han) enters the wiki through [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]] as a Chengdi-era official whose career is read through patronage stigma and ruler distrust. The source says he had been recommended through the Wang-family side, repeatedly memorialized against [[HanChengdi|汉成帝]] and his inner-palace conduct, then was allowed to retire during illness and died a few months later. [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] backfills an earlier alignment layer: Gu Yong and [[DuQinWesternHan|杜钦]] interpret Chengdi-era eclipse and earthquake signs as harem favoritism and heir-risk problems, shifting pressure away from Wang-family outer-relative power. [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] adds a proportional-merit defense layer: Gu Yong argues that [[ChenTangWesternHan|陈汤]] should not be executed for a Kangju hostage-report offense because his killing of [[ZhizhiChanyu|郅支单于]] had deterred frontier powers. [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] adds an earlier anti-fangshu layer: Gu Yong warns Chengdi that claims about immortals, elixirs, and gold-making are deceptive and costly when ritual anxiety is rising. [[zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u|Hanji 538]] adds the harsher Yongshi 2 remonstrance layer: Gu Yong uses Chengdi's omen inquiry to attack the ruler's women, drinking, fiscal burden, private outings, and indulgence, then survives because Wang-family backing and Chengdi's cooling anger keep the arrest order bounded. [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] adds a legal-procedure layer: Gu Yong defends [[LiuLiWesternHan|梁王刘立]] against a "禽兽行" charge by questioning case expansion, private evidence, emotional plausibility, and the damage done to royal-house trust by rash prosecution. [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]] adds a later Yuan延 1 disaster-warning layer, where Gu Yong ties repeated anomalies to dynastic danger, inner-court disorder, rebellion risk, and the need for Chengdi to restrain favorites, reduce burden, and settle the people.
 
 ## Current Profile
 
@@ -24,6 +25,8 @@ Hanji 552 uses Gu Yong as the opening example before the Kong Guang succession c
 The source also stresses reputation memory. It says later historians judge Gu Yong harshly because his earlier path upward involved attaching himself to [[WangFengWesternHan|王凤]] and reversing moral language for advancement. Gu Yong therefore functions less as a full biography here than as a caution about how early court alignment shapes later credibility.
 
 Hanji 505 supplies that early alignment in action. In the episode's reading, disaster signs could have been understood as pressure on Wang-family outer-relative power, but Gu Yong and Du Qin redirect the interpretation toward harem favoritism, jealousy, and the lack of an heir. The source reads this as Gu Yong choosing Wang Feng's side after the Xu family appears to be declining.
+
+Hanji 507 shows Gu Yong as a defender of proportional punishment rather than only an omen interpreter. Chen Tang's Kangju case is not framed as innocence: the episode accepts property-taking and false reporting as serious faults. Gu Yong's memorial instead argues that the state should remember a commander's extraordinary frontier service and avoid killing someone whose earlier victory had intimidated Xiongnu and other powers. Chengdi's outcome, release without restored title, makes Gu Yong's advice a limited success.
 
 Hanji 543 shows Gu Yong in a different advisory register. After Chengdi restores major sacrifices following an eclipse and violent wind at Ganquan, fangshu petitioners increase around the emperor's childlessness. Gu Yong's memorial rejects the authority of those who promise immortals, deathlessness, and transmutation, placing him beside [[FangshiFraudAndAuthority|方士骗术与权威]] as a court skeptic rather than only a patronage-stigma example.
 
@@ -37,8 +40,8 @@ Hanji 546 shows Gu Yong still working inside the disaster-remonstrance register 
 
 - Western Han official under [[HanChengdi|汉成帝]].
 - Recommended through Wang-family influence, making him suspect to Chengdi.
-- Memorializes repeatedly against Chengdi and palace conduct, which the source says Chengdi dislikes.
-- Uses disaster and omen warnings to redirect pressure toward harem favoritism and connect Chengdi's consort favoritism, revelry, spending, inner-court danger, rebellion risk, public burden, and dynastic survival.
+- Memorializes repeatedly against Chengdi and palace conduct, using disaster and omen warnings to redirect pressure toward harem favoritism and connect Chengdi's consort favoritism, revelry, spending, inner-court danger, rebellion risk, public burden, and dynastic survival.
+- Defends Chen Tang against execution by weighing extraordinary frontier merit against a serious but non-treason reporting offense.
 - Defends Liu Li by turning a royal incest scandal back into questions of evidence, plausibility, privacy, and proper review.
 - Warns Chengdi against fangshi claims about immortals, elixirs, and gold-making after sacrifice restoration increases ritual and specialist petitions.
 - Allowed to retire during illness and dies soon after, while the episodes also use him as a patronage and reputation case: backing can protect dangerous speech in the moment, but earlier attachment to power can make later criticism easier to dismiss.
@@ -59,10 +62,12 @@ Hanji 546 shows Gu Yong still working inside the disaster-remonstrance register 
 - Review advice: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] says Gu Yong recommends pardon if possible, or a Tingwei-led reexamination by respected officials if the case has already advanced.
 - Early harem-blame interpretation: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] says Gu Yong and Du Qin explain eclipse and earthquake through harem favoritism, jealousy, and heir danger.
 - Wang-side alignment: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] reads Gu Yong as attaching himself to Wang Feng by helping move disaster pressure away from Wang-family power.
+- Chen Tang defense: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Gu Yong argues that Chen Tang's killing of a Xiongnu ruler and frontier deterrence should prevent execution for the Kangju hostage-report case.
+- Limited success: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Chengdi releases Chen Tang but strips his title.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 552, Hanji 543, Hanji 538, Hanji 545, Hanji 546, and Hanji 505 and does not reconstruct Gu Yong's full biography, offices, memorial texts, or standard-history evaluation. The source transcripts write the name as "古勇" or "谷勇"; this page normalizes to 谷永 because the Chengdi-era official, Wang Feng association, anti-fangshu Chengdi memorial, Liang king defense, and disaster remonstrance fit the known Western Han figure. The existing [[GuYongLateHan|Gu Yong (late Han)]] page is a separate person and should not be merged.
+This page is source-scoped to Hanji 552, Hanji 543, Hanji 538, Hanji 545, Hanji 546, Hanji 505, and Hanji 507 and does not reconstruct Gu Yong's full biography, offices, memorial texts, or standard-history evaluation. The source transcripts write the name as "古勇" or "谷勇"; this page normalizes to 谷永 because the Chengdi-era official, Wang Feng association, anti-fangshu Chengdi memorial, Liang king defense, Chen Tang defense, and disaster remonstrance fit the known Western Han figure. The existing [[GuYongLateHan|Gu Yong (late Han)]] page is a separate person and should not be merged.
 
 ## What Changed
 
@@ -70,6 +75,7 @@ This page is source-scoped to Hanji 552, Hanji 543, Hanji 538, Hanji 545, Hanji 
 - Added Hanji 538's harsh omen-inquiry remonstrance layer, including Wang-family backing, Wang Shang's warning, and Chengdi's bounded pursuit.
 - Added Hanji 545's Liang king defense layer, showing Gu Yong as a procedural skeptic in a royal kinship scandal.
 - Added Hanji 505's early omen-blame-transfer layer, where Gu Yong helps route disaster pressure toward harem favoritism rather than Wang-family power.
+- Added Hanji 507's proportional-merit defense of Chen Tang, where Gu Yong wins release but not full restoration.
 
 ## Relationships
 
@@ -82,5 +88,7 @@ This page is source-scoped to Hanji 552, Hanji 543, Hanji 538, Hanji 545, Hanji 
 - [[WangFengWesternHan|王凤]] - earlier Wang-family patron figure whose association shapes Gu Yong's later reputation in the source.
 - [[DuQinWesternHan|杜钦]] - paired Hanji 505 interpreter in the harem-blame explanation.
 - [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - concept Gu Yong helps illustrate through the eclipse-earthquake answer.
+- [[ChenTangWesternHan|陈汤]] - frontier commander Gu Yong defends against execution in Hanji 507.
+- [[MeritShieldedAccountability|因功免责]] - accountability concept supported by Gu Yong's proportional-punishment argument.
 - [[KongGuangWesternHan|孔光]] - same source's central succession-dissent official, contrasted with Gu Yong as another case of court exposure.
 - [[WangZhengjun|王政君]] and [[WangMang|王莽]] - wider Wang-family power field around late Chengdi politics.

@@ -17696,6 +17696,10 @@ Ingested source note, updated Han Chengdi, Wang Shang, Wang Gen, and added Await
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？
+
+Added source note, created source-scoped Wang Zun/Feng Qu/Xu Shang/Yin Zhong/Nanshan Bandits and Preventive Flood Governance pages, and updated Chen Tang, Gu Yong, Kuang Heng, Kangju, and Merit-Shielded Accountability.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？
 
 ## [2026-09-12] ingest | 669. Greece vs. Persia: The Battle of Marathon (Part 2)
@@ -18004,6 +18008,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？
 
 Added source note, updated Empress Xu and Wang Feng, and created Harem Fiscal Discipline.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

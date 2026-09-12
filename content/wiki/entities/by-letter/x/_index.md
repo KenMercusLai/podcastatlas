@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9794
+wiki_total_pages: 9799
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -338,6 +338,9 @@ wiki_pages:
   - key: "XuFengBanditLateHan"
     title: "徐凤 / Xu Feng (bandit, late Han)"
     url: "/wiki/entities/xufengbanditlatehan/"
+  - key: "XuShangWesternHan"
+    title: "徐商 / Xu Shang (Western Han)"
+    url: "/wiki/entities/xushangwesternhan/"
   - key: "XuFuren"
     title: "徐夫人 / Xu Furen"
     url: "/wiki/entities/xufuren/"

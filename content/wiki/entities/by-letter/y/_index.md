@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9794
+wiki_total_pages: 9799
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -521,6 +521,9 @@ wiki_pages:
   - key: "YinXunLateHan"
     title: "尹勋 / Yin Xun (late Han)"
     url: "/wiki/entities/yinxunlatehan/"
+  - key: "YinZhongWesternHan"
+    title: "尹忠 / Yin Zhong (Western Han)"
+    url: "/wiki/entities/yinzhongwesternhan/"
   - key: "YinQiCheDundun"
     title: "尹琪 / Yin Qi (nature writer)"
     url: "/wiki/entities/yinqichedundun/"

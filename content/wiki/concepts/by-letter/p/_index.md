@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7114
+wiki_total_pages: 7115
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1949,6 +1949,9 @@ wiki_pages:
   - key: "ProphecyFulfillmentDisplacement"
     title: "预言兑现错位 / Prophecy Fulfillment Displacement"
     url: "/wiki/concepts/prophecyfulfillmentdisplacement/"
+  - key: "PreventiveFloodGovernance"
+    title: "预防性水患治理 / Preventive Flood Governance"
+    url: "/wiki/concepts/preventivefloodgovernance/"
   - key: "PunitiveHairRemovalHumiliation"
     title: "髡刑式身份羞辱 / Punitive Hair-Removal Humiliation"
     url: "/wiki/concepts/punitivehairremovalhumiliation/"

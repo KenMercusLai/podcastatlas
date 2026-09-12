@@ -6,16 +6,17 @@ tags: [history, china, western-han, court-politics, merit]
 sources:
   - zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l
   - zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5
+  - zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze
 last_updated: 2026-09-12
 ---
 
 ## Overview
 
-匡衡 / Kuang Heng enters the wiki through [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] as the earlier chancellor whom [[GengYuWesternHan|耿育]] blames for blocking fuller recognition of [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] after the [[ZhizhiChanyu|郅支单于]] campaign. [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] backfills his downfall under [[HanChengdi|汉成帝]]: the host contrasts Kuang Heng's poor-origin "cutting the wall for light" reputation with accusations of excess land and misappropriated property that reduce him to commoner status.
+匡衡 / Kuang Heng enters the wiki through [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] as the earlier chancellor whom [[GengYuWesternHan|耿育]] blames for blocking fuller recognition of [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] after the [[ZhizhiChanyu|郅支单于]] campaign. [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] adds a more direct Chen Tang conflict: Kuang Heng impeaches Chen Tang for taking confiscated [[Kangju|康居]] property and abusing distance from the court. [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] backfills his own downfall under [[HanChengdi|汉成帝]]: the host contrasts Kuang Heng's poor-origin "cutting the wall for light" reputation with accusations of excess land and misappropriated property that reduce him to commoner status.
 
 ## Current Profile
 
-The sources give Kuang Heng two negative but different roles. Hanji 570 uses him as the court actor whose obstruction lets Geng Yu show how a military achievement can be diminished inside bureaucratic reward politics.
+The sources give Kuang Heng several negative but different roles. Hanji 507 uses him as the chancellor who turns Chen Tang's Kangju-property conduct into formal impeachment. Hanji 570 later uses him as the court actor whose obstruction lets Geng Yu show how a military achievement can be diminished inside bureaucratic reward politics.
 
 Kuang Heng's significance here lies in the downstream effect of under-recognition. If the reward for extraordinary service becomes small and the later contributor is vulnerable to attack, then the state teaches future actors that battlefield risk can be converted into court disappointment.
 
@@ -25,12 +26,14 @@ Hanji 505 adds a moral-career arc rather than a reward-politics arc. The episode
 
 - Western Han chancellor figure currently known in this wiki from one Chen Tang vindication source.
 - Blamed by Geng Yu for obstructing proportionate reward after the Zhizhi Chanyu campaign.
+- Directly impeaches Chen Tang for Kangju-property misconduct in Hanji 507.
 - Functions as a negative example of bureaucratic reward narrowing.
 - Also functions as a negative example of successful officeholder misconduct and loss of restraint after rising from poverty.
 - Reduced to commoner status in Hanji 505 after excess-land and property accusations.
 
 ## Evidence
 
+- Chen Tang impeachment: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Kuang Heng accuses Chen Tang of taking confiscated Kangju property and treating distant Western Regions conduct as beyond court scrutiny.
 - Obstruction claim: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says Geng Yu accuses Kuang Heng of blocking the grading of Chen Tang and Gan Yanshou's merit.
 - Reduced reward: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] says the result was only several hundred households, which the memorial treats as chillingly insufficient.
 - Institutional effect: [[zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l|Hanji 570]] links this treatment to later fear among people who might otherwise risk themselves for Han.
@@ -39,11 +42,12 @@ Hanji 505 adds a moral-career arc rather than a reward-politics arc. The episode
 
 ## Qualifications
 
-This page is source-bounded to Hanji 570 and Hanji 505. It records Geng Yu's accusation about the reward dispute and Hanji 505's account of Kuang Heng's demotion; it does not reconstruct Kuang Heng's full career, motives, office record, exact land measurement, property case file, or the legal basis for the original Chen Tang and Gan Yanshou reward.
+This page is source-bounded to Hanji 570, Hanji 505, and Hanji 507. It records Kuang Heng's Chen Tang impeachment, Geng Yu's accusation about the reward dispute, and Hanji 505's account of Kuang Heng's demotion; it does not reconstruct Kuang Heng's full career, motives, office record, exact land measurement, property case file, or the legal basis for the original Chen Tang and Gan Yanshou reward.
 
 ## What Changed
 
-- Added Hanji 505's demotion layer, broadening Kuang Heng from reward-obstruction figure to a caution about post-success misconduct and loss of restraint.
+- Added Hanji 507's direct Chen Tang impeachment layer.
+- Preserved Hanji 505's demotion layer, broadening Kuang Heng from reward-obstruction figure to a caution about post-success misconduct and loss of restraint.
 
 ## Relationships
 

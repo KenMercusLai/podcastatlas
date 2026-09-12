@@ -5,12 +5,13 @@ knowledge_schema: synthesis-v1
 tags: [polity, western-regions, diplomacy, western-han, central-asia]
 sources:
   - zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto
-last_updated: 2026-09-11
+  - zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze
+last_updated: 2026-09-12
 ---
 
 ## Overview
 
-康居 / Kangju enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] as a Western Regions and Central Asian polity whose relation with [[WesternHanDynasty|Western Han]] is diplomatically ambiguous: it sends a prince-hostage and tribute, yet [[GuoShunWesternHan|郭舜]] argues that its ritual conduct shows contempt rather than submission.
+康居 / Kangju enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] as a Western Regions and Central Asian polity whose relation with [[WesternHanDynasty|Western Han]] is diplomatically ambiguous: it sends a prince-hostage and tribute, yet [[GuoShunWesternHan|郭舜]] argues that its ritual conduct shows contempt rather than submission. [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] adds an earlier Chen Tang case in which confiscated Kangju property and the authenticity of a Kangju hostage become evidence in Han court accountability.
 
 ## Current Profile
 
@@ -18,11 +19,14 @@ The source first places Kangju inside Wusun's wider crisis. After [[MozhenjiangW
 
 The second layer is diplomatic. Kangju sends a prince to serve in Chang'an and offers tribute, but Guo Shun says Kangju's king refuses proper obeisance to Han envoys, ranks Han protectorate officials below other envoys, and feeds Kangju elites before Han officials. The court still chooses continued engagement because this is Kangju's first such mission. Kangju therefore appears as a test case for whether hostage diplomacy should be read as submission, transaction, or strategic ambiguity.
 
+Hanji 507 adds the accountability side of the same diplomatic field. [[ChenTangWesternHan|陈汤]] is accused by [[KuangHengWesternHan|匡衡]] of taking confiscated Kangju property, then later reports that a Kangju hostage is not a true prince. Verification finds the hostage genuine, turning Kangju's hostage mission into the immediate trigger for Chen Tang's imprisonment and [[GuYongWesternHan|谷永]]'s proportional-merit defense.
+
 ## Key Characteristics
 
 - Western Regions/Central Asian polity adjacent to Wusun politics in Hanji 550.
 - Potential backing power for a Wusun fugitive faction.
 - Sends a prince-hostage and tribute to the Han court.
+- Its property and hostage mission become evidence in Chen Tang's earlier legal-political case.
 - Accused by Guo Shun of ritual disrespect toward Han envoys and protectorate officials.
 - Retained as a diplomatic partner by Han despite the hard-line recommendation to cut ties.
 
@@ -32,18 +36,22 @@ The second layer is diplomatic. Kangju sends a prince to serve in Chang'an and o
 - Hostage and tribute: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Kangju sends a prince to attend Han Chengdi and brings tribute.
 - Ritual-disrespect accusation: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Guo Shun criticizes Kangju's bowing, seating, and banquet protocol.
 - Continued accommodation: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says the court continues relations because this is Kangju's first prince-hostage mission.
+- Chen Tang property case: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Kuang Heng impeaches Chen Tang for taking confiscated Kangju property.
+- Hostage authenticity: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Chen Tang reports that a Kangju hostage is not a true prince, but verification finds the hostage genuine.
 
 ## Qualifications
 
-This is not a complete Kangju history. Earlier source notes mention Kangju in Eastern Han Ban Chao-related episodes without a canonical Kangju page; this page uses only Hanji 550 as its current bounded evidence. Kangju's actual intent, internal politics, precise geography, and later relations with Shule or Ban Chao remain source-scoped until those notes are intentionally integrated.
+This is not a complete Kangju history. Earlier source notes mention Kangju in Eastern Han Ban Chao-related episodes without a canonical Kangju page; this page uses only Hanji 550 and Hanji 507 as its current bounded evidence. Kangju's actual intent, internal politics, precise geography, hostage identity, confiscated-property details, and later relations with Shule or Ban Chao remain source-scoped until those notes are intentionally integrated.
 
 ## What Changed
 
-- Created the page from Hanji 550's Kangju hostage, protocol, and Wusun-adjacent diplomacy material.
+- Added Hanji 507's Chen Tang case, where Kangju property and hostage authenticity become Han court accountability evidence.
+- Preserved Hanji 550's Kangju hostage, protocol, and Wusun-adjacent diplomacy material.
 
 ## Relationships
 
 - [[GuoShunWesternHan|郭舜]] - official whose memorial defines Kangju's current wiki profile.
+- [[ChenTangWesternHan|陈汤]] - Han commander whose property-taking and hostage report involve Kangju.
 - [[Wusun|乌孙]] - neighboring polity whose fugitive faction seeks support near Kangju.
 - [[WesternHanDynasty|西汉]] - imperial counterpart that chooses continued engagement.
 - [[WesternRegionsProtectorate|西域都护府]] - institutional frame for Han officials' ritual standing in Kangju.

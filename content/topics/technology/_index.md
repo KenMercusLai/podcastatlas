@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2920
+topic_total_pages: 2921
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -4039,6 +4039,9 @@ topic_concepts:
   - key: "PrivateInterestDisasterNeglect"
     title: "私利优先的灾害搁置 / Private-Interest Disaster Neglect"
     url: "/wiki/concepts/privateinterestdisasterneglect/"
+  - key: "PreventiveFloodGovernance"
+    title: "预防性水患治理 / Preventive Flood Governance"
+    url: "/wiki/concepts/preventivefloodgovernance/"
 topic_entities:
   - key: "OneX"
     title: "1X"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 9794
+wiki_total_pages: 9799
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -680,6 +680,9 @@ wiki_pages:
   - key: "NangongChangwan"
     title: "南宫长万"
     url: "/wiki/entities/nangongchangwan/"
+  - key: "NanshanBanditsWesternHan"
+    title: "南山盗匪 / Nanshan Bandits (Western Han)"
+    url: "/wiki/entities/nanshanbanditswesternhan/"
   - key: "NanxiWanxiang"
     title: "南希 / Nanxi"
     url: "/wiki/entities/nanxiwanxiang/"

@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》509丨历史告诫：女人为什么要经济独立？](sources/zizhi-tongjian-hanji-509-lishi-gaojie-nvren-weishenme-yao-jingji-duli-lu9ngwdmqsetzuvce0ccx4i7z3.md) — 芮淇讲透资治通鉴 episode on Chengdi cutting Empress Xu's harem expenses under eclipse, no-heir, and Wang-family pressure, framed through modern economic-independence commentary.
+- [《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？](sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze.md) — 芮淇讲透资治通鉴 episode on ignored Tunshi River flood-prevention advice, Yellow River relief and blame, Wang Zun's Nanshan bandit suppression, and Gu Yong's proportional defense of Chen Tang after Kangju-related misconduct.
 - [《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？](sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5.md) — 芮淇讲透资治通鉴 episode on the Chang'an flood rumor, Wang Shang's refusal to amplify panic, Wang Feng's face-loss, harem-focused disaster-omen blame transfer, and Kuang Heng's demotion.
 - [EP 39: Why the Future of AI Belongs to Divergent Thinkers](sources/ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers.md) — Data Science With Sam episode with Mark Stiltner on ADHD, neurodiversity, AI-supported hyperfocus, outcome-driven work, education, and solo AI RPGs.
 - [Essentials: Understanding & Controlling Aggression](sources/essentials-understanding-controlling-aggression-scim4757138073.md) — Huberman Lab Essentials episode on aggression categories, VMH circuitry, testosterone-to-estrogen aromatization, day length, stress state, light, heat, and supplement-bounded pressure reduction.
@@ -2255,6 +2256,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [王尊 / Wang Zun (Western Han)](entities/WangZunWesternHan.md) — Chengdi-era local-security official who quickly suppresses the Peng Zong-led Nanshan bandits after earlier force fails.
+- [冯屈 / Feng Qu (Western Han)](entities/FengQuWesternHan.md) — Qinghe commandery commandant whose Tunshi River dredging warning becomes Hanji 507's ignored flood-prevention signal.
+- [徐商 / Xu Shang (Western Han)](entities/XuShangWesternHan.md) — Western Han boshi whose cost-based review supports leaving the Tunshi River undredged before the later Yellow River breach.
+- [尹忠 / Yin Zhong (Western Han)](entities/YinZhongWesternHan.md) — Yushi Dafu reprimanded for an impractical Yellow River flood rescue plan before killing himself.
+- [南山盗匪 / Nanshan Bandits (Western Han)](entities/NanshanBanditsWesternHan.md) — Peng Zong-led local-security problem near the capital region, suppressed rapidly by Wang Zun.
 - [杜钦 / Du Qin (Western Han)](entities/DuQinWesternHan.md) — Western Han adviser who helps shift Chengdi-era eclipse-earthquake interpretation toward harem favoritism and heir risk.
 - [Mark Stiltner](entities/MarkStiltner.md) — Rapid marketing leader interviewed about ADHD, neurodiversity, and AI-supported work.
 - [Rapid](entities/Rapid.md) — company context for Mark Stiltner's Data Science With Sam EP39 interview.
@@ -12053,6 +12059,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [预防性水患治理 / Preventive Flood Governance](concepts/PreventiveFloodGovernance.md) — Governance capacity for turning flood warnings, dredging, maintenance, fiscal allocation, and rescue planning into action before breach and blame.
 - [危机谣言降幅治理 / Crisis Rumor De-amplification](concepts/CrisisRumorDeamplification.md) — Crisis-governance pattern where officials avoid turning unverified public panic into an official command that validates fear.
 - [后宫灾异归咎转移 / Consort Omen Blame Transfer](concepts/ConsortOmenBlameTransfer.md) — Omen-politics pattern redirecting disaster responsibility from outer relatives or rulers toward harem favoritism, jealousy, and heir anxiety.
 - [Harem Fiscal Discipline](concepts/HaremFiscalDiscipline.md) — Court-finance pattern where harem spending cuts translate disaster, succession, and faction pressure into discipline of consort status and household agency.

@@ -13935,9 +13935,9 @@
       "url": "/wiki/entities/chenshoutaishilinglatehan/"
     },
     "ChenTangWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -13959,6 +13959,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
         }
       ],
       "updated": "2026-09-12",
@@ -30865,6 +30872,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/fengmengjie/"
     },
+    "FengQuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/fengquwesternhan/"
+    },
     "FengShiFavoriteLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -37897,9 +37920,9 @@
       "url": "/wiki/concepts/growthwitnessing/"
     },
     "GuYongWesternHan": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》552丨通透人性的人，职场平步青云 [lnNhR8E-67QdqWHzi1H0qav-ValW].md",
@@ -37942,6 +37965,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
         }
       ],
       "updated": "2026-09-12",
@@ -49042,9 +49072,9 @@
       "url": "/wiki/entities/kangbao/"
     },
     "Kangju": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？ [lvzHcJUTQnu4OR4ELDS_QG4S1GTo].md",
@@ -49052,9 +49082,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》550丨杀敌国太子，吓退几千追兵！他怎么做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/kangju/"
     },
     "KaomiSleep": {
@@ -50167,9 +50204,9 @@
       "url": "/wiki/entities/kuaishou/"
     },
     "KuangHengWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！ [lrrCbW5RruRytgJXASBp12buf82L].md",
@@ -50184,6 +50221,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》505丨西汉的毁城谣言，打了谁的脸？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
         }
       ],
       "updated": "2026-09-12",
@@ -60690,9 +60734,9 @@
       "url": "/wiki/entities/merck/"
     },
     "MeritShieldedAccountability": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击 [lqEnvOy7X8iC-Qn3_bf93QJ8tjVk].md",
@@ -60714,9 +60758,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》570丨信仰不可缺失！英雄不容诋毁！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-570-xinyang-buke-queshi-yingxiong-burong-dihui-lrrcbw5rrurytgjxasbp12buf82l/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/meritshieldedaccountability/"
     },
     "MetabolicPsychiatry": {
@@ -63232,6 +63283,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/nanpilatehan/"
+    },
+    "NanshanBanditsWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/nanshanbanditswesternhan/"
     },
     "NansunShi": {
       "episode_count": 1,
@@ -71485,6 +71552,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/prestigeconstrainedpoliticalprosecution/"
+    },
+    "PreventiveFloodGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/preventivefloodgovernance/"
     },
     "PreventiveFrontierGovernance": {
       "episode_count": 3,
@@ -94529,6 +94612,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/wangzongxinprince/"
     },
+    "WangZunWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wangzunwesternhan/"
+    },
     "WangmenTouzhi": {
       "episode_count": 2,
       "show_count": 1,
@@ -98942,6 +99041,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/entities/xuqiuguanglinglatehan/"
     },
+    "XuShangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/xushangwesternhan/"
+    },
     "XuTaLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -101176,6 +101291,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/yinxunlatehan/"
+    },
+    "YinZhongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？ [lhfkeJ7PqtIkX5ST73sLS-kwO_zE].md",
+          "key": "zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》507丨他斩杀匈奴单于，为何反被下狱？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/yinzhongwesternhan/"
     },
     "YingBo": {
       "episode_count": 1,
