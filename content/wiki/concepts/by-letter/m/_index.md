@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -89,6 +89,9 @@ wiki_pages:
   - key: "MaleMenopauseVisibility"
     title: "Male Menopause Visibility / 男性更年期可见性"
     url: "/wiki/concepts/malemenopausevisibility/"
+  - key: "MaleMentorshipResponsibility"
+    title: "Male Mentorship Responsibility"
+    url: "/wiki/concepts/malementorshipresponsibility/"
   - key: "MaleSurplusSecurityRisk"
     title: "Male Surplus Security Risk"
     url: "/wiki/concepts/malesurplussecurityrisk/"

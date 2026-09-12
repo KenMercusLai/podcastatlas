@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -809,6 +809,9 @@ wiki_pages:
   - key: "HeroMemoryPoliticalCredibility"
     title: "英雄记忆与政治信用 / Hero Memory Political Credibility"
     url: "/wiki/concepts/heromemorypoliticalcredibility/"
+  - key: "HistoricalReadingAsSurvivalWisdom"
+    title: "读史处世智慧 / Historical Reading as Survival Wisdom"
+    url: "/wiki/concepts/historicalreadingassurvivalwisdom/"
   - key: "HongKongFootballCommercialClubGovernance"
     title: "香港商业球队治理 / Hong Kong Commercial Football Club Governance"
     url: "/wiki/concepts/hongkongfootballcommercialclubgovernance/"

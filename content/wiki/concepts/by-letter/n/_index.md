@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -47,6 +47,9 @@ wiki_pages:
   - key: "NationalGoodsBranding"
     title: "National Goods Branding"
     url: "/wiki/concepts/nationalgoodsbranding/"
+  - key: "NationalServiceSocialIntegration"
+    title: "National Service Social Integration"
+    url: "/wiki/concepts/nationalservicesocialintegration/"
   - key: "NationalistAtlantisMythmaking"
     title: "Nationalist Atlantis Mythmaking"
     url: "/wiki/concepts/nationalistatlantismythmaking/"

@@ -18498,6 +18498,30 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？
+
+Added source note plus Yang Yun, Sun Huizong, Yang Tan, political execution overreach, and historical reading as survival wisdom pages. Key claims: Yang Yun's post-disgrace resentment and reply letter become formal evidence; Sun Huizong and Yang Tan model two failed warning routes; Emperor Xuan's punishment remains a major severity blemish in Sima Guang's evaluation.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔
+
+Added source note plus synthesis pages for 《西游降魔篇》, Stephen Chow, Chen Xuanzang, Duan Miss, inner-demon symbolic reading, and love-compassion integration. Migrated the relevant Journey to the West, Xuanzang, Sun Wukong, Zhu Bajie, and Sha Wujing pages to synthesis-v1 while adding the film's "一心三藏" symbolic interpretation.
+
+## [2026-09-13] ingest | Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway
+
+Added Huberman Lab source on Scott Galloway's positive masculinity frame, young men's offline practice, rejection tolerance, digital sexual substitute risk, male mentorship, national service, and intergenerational youth economic burden. No settled contradictions found; alcohol, porn, testosterone, social-media, Big Tech, and policy claims remain source-scoped.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？
+
+Added source. Key claims: Feng Liao's Western Regions reputation, document literacy, and Wusun marriage ties let Zheng Ji use her as mediator while Han force pressures Wujiutu; Nimi's death turns the Wusun crisis into a large-kunmi/small-kunmi settlement; Xieyou's post-siege humiliation shows the failed heqin crisis continuing even after rescue.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》462｜堪比大阅兵！“匈奴降汉”场面有多牛？
+
+Added source. Key claims: Huhanye Chanyu's first Chang'an audience is framed through Xiao Wangzhi's guest-rite protocol rather than ordinary vassal ranking; Han Xuan turns the submission into a cavalry, gift, crowd, and palace spectacle while preserving future diplomatic flexibility; Xun Yue's later critique keeps the ritual-order tension visible.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？
+
+Added source. Key claims: Han Xuan's Ganlu 3 high point combines Huhanye's protected settlement and provisioning, wider Western Regions obedience, Qilin Pavilion merit honors, selected Five Classics standardization, Xieyou's return and Feng Liao's Wusun mission, and the origin scene for Wang Zhengjun becoming Liu Ao's mother.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？
 
 Added source. Key claims: Han Xuan's death is presented as grave illness, deathbed entrustment, and death at Weiyang Palace rather than a specific medical cause; Huhanye's Han-backed position pressures Zhizhi westward; Xuan's prison-to-emperor biography, administrative repair, Xiongnu policy, and Western Regions achievements frame his death as a Western Han turning point before Han Yuandi's accession.
@@ -18550,6 +18574,43 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+## [2026-09-13] ingest | 664. Britain in the 70s: Scandal in Downing Street (Part 3)
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？
+
+Added source note plus Zhang Chang, Xu Shun, and Five-Day Jingzhao synthesis updates. Key claims: Zhang Chang's anti-bandit administrative ability coexists with anger-driven legal abuse; Xu Shun's loose speech turns rumored dismissal into fatal exposure; Five-Day Jingzhao is an idiom about premature authority discounting and short-term office behavior.
 
 ## [2026-09-13] lint | Wiki health check
 

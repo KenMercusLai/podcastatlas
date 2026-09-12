@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2019
+topic_total_pages: 2022
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1573,6 +1573,9 @@ topic_concepts:
   - key: "IntelligentFinance"
     title: "Intelligent Finance"
     url: "/wiki/concepts/intelligentfinance/"
+  - key: "IntergenerationalYouthEconomicBurden"
+    title: "Intergenerational Youth Economic Burden"
+    url: "/wiki/concepts/intergenerationalyoutheconomicburden/"
   - key: "IntermediarySpeechPressure"
     title: "Intermediary Speech Pressure"
     url: "/wiki/concepts/intermediaryspeechpressure/"
@@ -2350,6 +2353,9 @@ topic_concepts:
   - key: "RegulatedWorkflowWedge"
     title: "Regulated Workflow Wedge"
     url: "/wiki/concepts/regulatedworkflowwedge/"
+  - key: "RejectionTolerancePractice"
+    title: "Rejection Tolerance Practice"
+    url: "/wiki/concepts/rejectiontolerancepractice/"
   - key: "RelationshipLedSales"
     title: "Relationship-Led Sales"
     url: "/wiki/concepts/relationshipledsales/"
@@ -5406,6 +5412,9 @@ topic_sources:
   - key: "61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353"
     title: "61.自从拥有经济学的思维方式，人生都变简单了！"
     url: "/wiki/sources/61-zicong-yongyou-jingjixue-de-siwei-fangshi-rensheng-dou-bian-jiandan-le-650559353/"
+  - key: "664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865"
+    title: "664. Britain in the 70s: Scandal in Downing Street (Part 3)"
+    url: "/wiki/sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865/"
   - key: "665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819"
     title: "665. Britain in the 70s: The Bailout from Hell (Part 4)"
     url: "/wiki/sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819/"

@@ -478,7 +478,7 @@
       "earliest_episode_date": "2020-12-21",
       "latest_episode_date": "2026-09-10",
       "latest_episode_file": "SCIM1624813352 [SCIM1624813352].md",
-      "source_note_count": 41,
+      "source_note_count": 42,
       "topic_matched_source_note_count": 32,
       "topics": [
         {
@@ -891,32 +891,32 @@
       "earliest_episode_date": "2020-11-02",
       "latest_episode_date": "2026-09-09",
       "latest_episode_file": "GLT9669112656 [GLT9669112656].md",
-      "source_note_count": 46,
-      "topic_matched_source_note_count": 45,
+      "source_note_count": 47,
+      "topic_matched_source_note_count": 46,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 43
+          "source_note_count": 44
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 3
+          "source_note_count": 4
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 2
+          "source_note_count": 3
         },
         {
           "key": "economics",
           "label": "Economics",
           "url": "/topics/economics/",
-          "source_note_count": 1
+          "source_note_count": 2
         }
       ],
       "entities": [
@@ -2948,26 +2948,26 @@
       "earliest_episode_date": "2025-12-07",
       "latest_episode_date": "2026-09-05",
       "latest_episode_file": "《资治通鉴·汉纪》1070丨焦触歃血为盟，劝部下叛降曹操 [lqvyfglJ3QEfHYXYEbFvvDa8OM5O].md",
-      "source_note_count": 921,
-      "topic_matched_source_note_count": 344,
+      "source_note_count": 927,
+      "topic_matched_source_note_count": 348,
       "topics": [
         {
           "key": "history",
           "label": "History",
           "url": "/topics/history/",
-          "source_note_count": 283
+          "source_note_count": 284
         },
         {
           "key": "politics",
           "label": "Politics",
           "url": "/topics/politics/",
-          "source_note_count": 109
+          "source_note_count": 111
         },
         {
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 16
+          "source_note_count": 17
         },
         {
           "key": "economics",

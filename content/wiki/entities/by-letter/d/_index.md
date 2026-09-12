@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 9897
+wiki_total_pages: 9909
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1133,6 +1133,9 @@ wiki_pages:
   - key: "DuanSihe"
     title: "段四合 / Duan Sihe"
     url: "/wiki/entities/duansihe/"
+  - key: "DuanMissConqueringDemons"
+    title: "段小姐（《西游降魔篇》）"
+    url: "/wiki/entities/duanmissconqueringdemons/"
   - key: "DuanXiaolou"
     title: "段小楼 / Duan Xiaolou"
     url: "/wiki/entities/duanxiaolou/"

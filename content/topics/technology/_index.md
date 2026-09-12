@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2948
+topic_total_pages: 2949
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -1684,6 +1684,9 @@ topic_concepts:
   - key: "DigitalMusicLicensing"
     title: "Digital Music Licensing"
     url: "/wiki/concepts/digitalmusiclicensing/"
+  - key: "DigitalSexualSubstituteRisk"
+    title: "Digital Sexual Substitute Risk"
+    url: "/wiki/concepts/digitalsexualsubstituterisk/"
   - key: "DigitalSovereignty"
     title: "Digital Sovereignty"
     url: "/wiki/concepts/digitalsovereignty/"

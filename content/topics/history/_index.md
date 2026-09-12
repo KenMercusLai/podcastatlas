@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1838
+topic_total_pages: 1842
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1558,6 +1558,9 @@ topic_concepts:
   - key: "XingshiqingStrategicAssessment"
     title: "行势情战略评估 / Xingshiqing Strategic Assessment"
     url: "/wiki/concepts/xingshiqingstrategicassessment/"
+  - key: "HistoricalReadingAsSurvivalWisdom"
+    title: "读史处世智慧 / Historical Reading as Survival Wisdom"
+    url: "/wiki/concepts/historicalreadingassurvivalwisdom/"
   - key: "ChenweiEvidentiaryCritique"
     title: "谶纬证据批判 / Chenwei Evidentiary Critique"
     url: "/wiki/concepts/chenweievidentiarycritique/"
@@ -3176,6 +3179,9 @@ topic_entities:
   - key: "YangXuanWesternHan"
     title: "杨宣 / Yang Xuan (Western Han)"
     url: "/wiki/entities/yangxuanwesternhan/"
+  - key: "YangYunWesternHan"
+    title: "杨恽 / Yang Yun"
+    url: "/wiki/entities/yangyunwesternhan/"
   - key: "YangWuHanGeneral"
     title: "杨武 / Yang Wu (Han)"
     url: "/wiki/entities/yangwuhangeneral/"
@@ -4491,6 +4497,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865"
+    title: "664. Britain in the 70s: Scandal in Downing Street (Part 3)"
+    url: "/wiki/sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865/"
   - key: "665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819"
     title: "665. Britain in the 70s: The Bailout from Hell (Part 4)"
     url: "/wiki/sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819/"
@@ -5217,6 +5226,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm"
+    title: "《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm/"
   - key: "zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7"
     title: "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”"
     url: "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"

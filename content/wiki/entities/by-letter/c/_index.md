@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9897
+wiki_total_pages: 9909
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1961,6 +1961,9 @@ wiki_pages:
   - key: "ChenWenLateHan"
     title: "陈温 / Chen Wen (late Han)"
     url: "/wiki/entities/chenwenlatehan/"
+  - key: "ChenXuanzangConqueringDemons"
+    title: "陈玄奘（《西游降魔篇》）"
+    url: "/wiki/entities/chenxuanzangconqueringdemons/"
   - key: "ChenGui"
     title: "陈珪 / Chen Gui"
     url: "/wiki/entities/chengui/"

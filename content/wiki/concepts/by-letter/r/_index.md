@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -302,6 +302,9 @@ wiki_pages:
   - key: "RejectedCounselDefectionCascade"
     title: "Rejected Counsel Defection Cascade / 进言拒绝叛逃级联"
     url: "/wiki/concepts/rejectedcounseldefectioncascade/"
+  - key: "RejectionTolerancePractice"
+    title: "Rejection Tolerance Practice"
+    url: "/wiki/concepts/rejectiontolerancepractice/"
   - key: "RelationalFateNetwork"
     title: "Relational Fate Network / 关系命运网络"
     url: "/wiki/concepts/relationalfatenetwork/"

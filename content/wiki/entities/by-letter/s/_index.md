@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9897
+wiki_total_pages: 9909
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -299,6 +299,9 @@ wiki_pages:
   - key: "ScottBrennan"
     title: "Scott Brennan"
     url: "/wiki/entities/scottbrennan/"
+  - key: "ScottGalloway"
+    title: "Scott Galloway"
+    url: "/wiki/entities/scottgalloway/"
   - key: "ScottLake"
     title: "Scott Lake"
     url: "/wiki/entities/scottlake/"
@@ -1775,6 +1778,9 @@ wiki_pages:
   - key: "SimaFangLateHan"
     title: "司马防 / Sima Fang (late Han)"
     url: "/wiki/entities/simafanglatehan/"
+  - key: "StephenChow"
+    title: "周星驰 / Stephen Chow"
+    url: "/wiki/entities/stephenchow/"
   - key: "ShangyeJiushiZheyang"
     title: "商业就是这样"
     url: "/wiki/entities/shangyejiushizheyang/"
@@ -1808,6 +1814,9 @@ wiki_pages:
   - key: "SunZhongxu"
     title: "孙仲旭 / Sun Zhongxu"
     url: "/wiki/entities/sunzhongxu/"
+  - key: "SunHuizongWesternHan"
+    title: "孙会宗 / Sun Huizong"
+    url: "/wiki/entities/sunhuizongwesternhan/"
   - key: "SunYuanhua"
     title: "孙元化 / Sun Yuanhua"
     url: "/wiki/entities/sunyuanhua/"

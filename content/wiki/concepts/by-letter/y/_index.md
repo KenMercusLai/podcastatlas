@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -35,6 +35,9 @@ wiki_pages:
   - key: "YorubaTwinCosmology"
     title: "Yoruba Twin Cosmology"
     url: "/wiki/concepts/yorubatwincosmology/"
+  - key: "YoungMenOfflinePractice"
+    title: "Young Men Offline Practice"
+    url: "/wiki/concepts/youngmenofflinepractice/"
   - key: "YouthCriminalResponsibility"
     title: "Youth Criminal Responsibility"
     url: "/wiki/concepts/youthcriminalresponsibility/"

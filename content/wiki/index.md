@@ -6,9 +6,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？](sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm.md) — 芮淇讲透资治通鉴 episode on Yang Yun's fall, Sun Huizong's warning letter, a resentful reply becoming court evidence, Emperor Xuan's severe punishment, and reading history as survival judgment.
+- [《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔](sources/zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3.md) — 芮淇讲透资治通鉴 weekend episode rereading 《西游降魔篇》 through love, compassion, heart-demon symbolism, Sun Wukong, Duan Miss, and the "一心三藏" frame.
+- [Male Roles, Obligations and Options for Building a Fulfilling Life | Scott Galloway](sources/male-roles-obligations-options-for-building-a-fulfilling-life-scott-galloway-scim7501986841.md) — Huberman Lab episode with Scott Galloway on positive masculinity, young men, rejection, Big Tech, social media regulation, national service, alcohol, porn, male mentorship, and intergenerational economics.
+- [《资治通鉴·汉纪》458｜西汉宠妻达人张敞，犯死罪为何能活？](sources/zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb.md) — 芮淇讲透资治通鉴 episode on Zhang Chang, Xu Shun's "five-day Jingzhao" remark, anger-driven legal punishment, Emperor Xuan's dismissal and recall of a flawed but effective official, and talent-virtue judgment.
+- [《资治通鉴·汉纪》462｜堪比大阅兵！“匈奴降汉”场面有多牛？](sources/zizhi-tongjian-hanji-462-kanbi-dayuebing-xiongnu-xianghan-changmian-you-duo-niu-lnfkacjnat32wi-akpwdggvljkxk.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's first Chang'an audience, Xiao Wangzhi's guest-rite protocol, Han Xuan's spectacle of cavalry, gifts, crowds, and ritual flexibility, plus Ganlu 2 domestic notices.
+- [《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？](sources/zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq.md) — 芮淇讲透资治通鉴 episode on Feng Liao's Wusun mediation, Zheng Ji's Western Regions response, Nimi's death, Wujiutu's submission, and the large-kunmi/small-kunmi settlement.
 - [VOL.204 经济舱综合征：端午假期出行乘车乘机坐久了腿胀？鞋发紧？血管外科医生的硬核“排雷”指南](sources/vol-204-jingjicang-zonghezheng-duanwu-jiaqi-chuxing-chengche-chengji-zuojiu-le-tuizhang-xie-fajin-xueguan-waike-yisheng-de-yinghe-pailei-zhinan.md) — 这病说来话长 episode with vascular surgeons Chen Bin and Feng Yanfei on travel-related venous thrombosis risk, leg-swelling red flags, compression stockings, anticoagulation boundaries, and emergency routing.
 - [《资治通鉴·汉纪》465｜从囚徒到明君，汉宣帝刘病已是怎么死的？](sources/zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt.md) — 芮淇讲透资治通鉴 episode on Han Xuan's final illness and death, Huhanye-Zhizhi Xiongnu split pressure, deathbed entrusted officials, Xuan's reign evaluation, and Han Yuan's accession.
 - [《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主](sources/zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv.md) — 芮淇讲透资治通鉴 episode on Huhanye Chanyu's submission debate, Xieyou Princess's Wusun remarriage crisis, Nimi's failed banquet assassination, and the Chigu City siege setup.
+- [《资治通鉴·汉纪》463｜猜猜看，在汉宣帝眼中谁是最大功臣？](sources/zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292.md) — 芮淇讲透资治通鉴 episode on Huhanye's protected settlement, Western Regions obedience, Qilin Pavilion merit honors, Five Classics standardization, Xieyou's return, Feng Liao's Wusun mission, and Wang Zhengjun/Liu Ao's origin scene.
 - [《资治通鉴·汉纪》466｜“贡禹弹冠”背后：王吉和贡禹的故事](sources/zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's Chuyuan 1 relief-and-austerity context, Wang Ji and Gong Yu's summons, the "贡禹弹冠" idiom, and Gong Yu's palace-thrift remonstrance.
 - [《资治通鉴·汉纪》467｜官场里讲真话、说实话有多难？](sources/zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs.md) — 芮淇讲透资治通鉴 episode on Gong Yu's true-but-evasive thrift advice, Sima Guang's priority critique, and Wei Zheng/Fan Zhongyan as public-duty contrasts.
 - [《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？](sources/zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw.md) — 芮淇讲透资治通鉴 episode on early Han Yuandi factional politics, Xiao Wangzhi's anti-Zhongshu-eunuch memorial, Shi Gao and eunuch alignment, and Zheng Peng's first attachment to Xiao's side.
@@ -20,6 +27,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史](sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp.md) — 芮淇讲透资治通鉴 episode on Han Yuandi abolishing Zhuya Commandery under famine and fiscal pressure, Hainan's looser post-abolition attachment, and Yuan-era thrift, Confucian education, and legal simplification.
 - [《资治通鉴·汉纪》473丨西汉庸人陈万年，为何能被载入史册？](sources/zizhi-tongjian-hanji-473-xihan-yongren-chenwannian-weihe-neng-bei-zairu-shice-ljxaektybs1lvddzuuqca-rpjwxy.md) — 芮淇讲透资治通鉴 episode on Chen Wannian's flattery-based rise, Chen Xian's upright contrast, Zhu Yun's Shi Xian-linked case, and Gong Yu's Yushi Dafu appointment.
 - [《资治通鉴·汉纪》474丨谷吉慷慨赴死，我为何认为他愚蠢？](sources/zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by.md) — 芮淇讲透资治通鉴 episode on Gu Ji's fatal escort mission to Zhizhi Chanyu, reckless courage, Kangju's dangerous ally invitation, and crisis opportunity after outside-force disorder.
+- [664. Britain in the 70s: Scandal in Downing Street (Part 3)](sources/664-britain-in-the-70s-scandal-in-downing-street-part-3-glt9115516865.md) — The Rest Is History episode on Harold Wilson's resignation, Britain's 1975-1976 sterling pressure, Labour factionalism, the Lavender List scandal, and punk-era crisis mood.
 - [665. Britain in the 70s: The Bailout from Hell (Part 4)](sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819.md) — The Rest Is History episode on Jim Callaghan, Denis Healey, Britain's 1976 IMF crisis, Labour's economic split, and the Sex Pistols as punk-era crisis symbolism.
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
 - [《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘](sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc.md) — 芮淇讲透资治通鉴 episode on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations, and the risk of turning symbolic capital into factional court exposure.
@@ -2323,6 +2331,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [杨恽 / Yang Yun](entities/YangYunWesternHan.md) — Western Han official and Sima Qian descendant whose resentful speech and letter after disgrace lead to execution under Emperor Xuan.
+- [孙会宗 / Sun Huizong](entities/SunHuizongWesternHan.md) — Western Han correspondent who warns Yang Yun to perform fear and repentance after disgrace.
+- [杨潭 / Yang Tan](entities/YangTanWesternHan.md) — Yang Yun's nephew and Anping marquis, demoted after warning Yang Yun that future restoration might still be possible.
+- [《西游降魔篇》 / Journey to the West: Conquering the Demons](entities/JourneyToTheWestConqueringDemons.md) — Stephen Chow film adaptation read by Hanji 456-4 as a symbolic cultivation story about love, compassion, desire, and heart-demon restraint.
+- [周星驰 / Stephen Chow](entities/StephenChow.md) — Director associated here with 《西游降魔篇》 as tragic-comic Journey-to-the-West adaptation.
+- [陈玄奘（《西游降魔篇》）](entities/ChenXuanzangConqueringDemons.md) — Film protagonist whose universal-love language, romantic evasion, loss, and awakening organize Hanji 456-4's interpretation.
+- [段小姐（《西游降魔篇》）](entities/DuanMissConqueringDemons.md) — Film character whose love, ring, present-tense demand, and death force Chen Xuanzang's compassion test.
+- [Scott Galloway](entities/ScottGalloway.md) — Huberman Lab guest framing masculinity through provision, protection, service, rejection tolerance, platform critique, mentorship, and youth policy.
+- [冯嫽 / Feng Liao (Western Han)](entities/FengLiaoWesternHan.md) — Western Han Wusun-network diplomat whose mediation helps settle Wujiutu's crisis and whose old-age return supports Xingmi.
+- [郑吉 / Zheng Ji (Western Han)](entities/ZhengJiWesternHan.md) — Western Han Western Regions protector who relieves Chigu City and deploys Feng Liao as mediator in the Wusun crisis.
+- [王贺 / Wang He (Western Han)](entities/WangHeWesternHan.md) — Wang Zhengjun's grandfather and former embroidered-uniform censor whose lenient official service becomes Wang-family prehistory.
 - [陈斌 / Chen Bin (Vascular Surgery)](entities/ChenBinVascularSurgery.md) — Zhejiang University Second Affiliated Hospital vascular-surgery guest explaining economy-class syndrome, thrombosis risk, pulmonary embolism, emergency routing, and anticoagulation boundaries.
 - [冯燕飞 / Feng Yanfei (Vascular Surgery)](entities/FengYanfeiVascularSurgery.md) — Vascular-surgery guest explaining thrombosis risk factors, ordinary travel prevention, hydration, ankle-pump movement, and swelling-pattern distinctions.
 - [Zhejiang University School of Medicine Second Affiliated Hospital / 浙江大学医学院附属第二医院](entities/ZhejiangUniversitySecondAffiliatedHospital.md) — Hospital affiliation for the VOL.204 vascular-surgery guests on travel-related venous thrombosis.
@@ -2331,7 +2350,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [唐太宗 / Emperor Taizong of Tang](entities/EmperorTaizongOfTang.md) — ruler-side condition for Wei Zheng's remonstrance in Hanji 467.
 - [华龙 / Hua Long (Western Han)](entities/HuaLongWesternHan.md) — Western Han accuser who joins Zheng Peng in the first Xiao Wangzhi case.
 - [许章 / Xu Zhang (Western Han)](entities/XuZhangWesternHan.md) — Western Han court actor on Shi Gao's side of Zheng Peng's accusation reversal.
-- [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han official presented as capable but too informal for crown-prince instruction in Hanji 469.
+- [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han public-order official whose strong anti-bandit ability is complicated by his anger-driven execution of Xu Shun and later teacher-suitability doubts.
+- [徐顺 / Xu Shun (Western Han)](entities/XuShunWesternHan.md) — Zhang Chang subordinate whose "five-day Jingzhao" remark triggers a fatal punishment and idiom-origin case.
 - [蔡康永 / Cai Kangyong](entities/CaiKangyong.md) — Host, writer, and Kangxi Laile figure whose interview adds aging, grief, AI-era creativity, and death-facing practice.
 - [CalDOGE](entities/CalDOGE.md) — Steve Hilton's campaign-branded California government-efficiency project for spending audits and waste claims.
 - [Herb Morgan](entities/HerbMorgan.md) — California controller candidate Hilton presents as the audit and payment-control partner for CalDOGE.
@@ -2339,7 +2359,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [弘恭 / Hong Gong (Western Han)](entities/HongGongWesternHan.md) — Yuan-era eunuch favorite paired with Shi Xian in Xiao Wangzhi's death case.
 - [萧吉 / Xiao Ji (Western Han)](entities/XiaoJiWesternHan.md) — Xiao Wangzhi's son whose vindication petition triggers renewed pressure against his father.
 - [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after repeated unrest, Jia Juanzhi's cost argument, and famine pressure made direct rule too costly.
-- [Denis Healey](entities/DenisHealey.md) — British chancellor who argued for spending cuts and IMF negotiations during the 1976 sterling crisis.
+- [Denis Healey](entities/DenisHealey.md) — British chancellor who shifted toward cuts as sterling, borrowing, and inflation pressure mounted in 1975-1976.
 - [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with the alternative economic strategy during Britain's 1976 IMF crisis.
 - [Sex Pistols](entities/SexPistols.md) — Punk band whose Bill Grundy television scandal becomes a symbol of Britain's 1976 crisis mood.
 - [孔霸 / Kong Ba (Western Han)](entities/KongBaWesternHan.md) — Confucius-lineage scholar and Han Yuandi's former teacher who refuses high office to preserve Confucian standing and avoid factional court exposure.
@@ -4965,8 +4985,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gerry Fitt](entities/GerryFitt.md) — Civil-rights political figure beaten and arrested during the banned Derry march.
 - [John Hume](entities/JohnHume.md) — Civil-rights leader who later supported British troop deployment as protection during the 1969 crisis.
 - [Bernadette Devlin](entities/BernadetteDevlin.md) — People's Democracy activist and young Westminster MP tied to Burntollet and radical civil-rights politics.
-- [Harold Wilson](entities/HaroldWilson.md) — British prime minister whose government pressured Stormont and sent troops into Northern Ireland.
-- [Jim Callaghan](entities/JimCallaghan.md) — British home secretary who handled reform pressure and approved troop deployment.
+- [Harold Wilson](entities/HaroldWilson.md) — British prime minister shown across Northern Ireland intervention and the exhausted final months before his 1976 resignation.
+- [Jim Callaghan](entities/JimCallaghan.md) — British Labour crisis manager who moved from Northern Ireland intervention to inheriting Wilson's sterling and IMF crisis.
 - [William Craig](entities/WilliamCraig.md) — Northern Ireland home affairs minister who banned the Derry civil-rights march and warned concessions could provoke loyalists.
 - [James Chichester-Clark](entities/JamesChichesterClark.md) — O'Neill's successor who inherited the crisis and requested troops for Derry.
 - [Jack Lynch](entities/JackLynch.md) — Irish Taoiseach whose August 1969 statement intensified Catholic hopes and Protestant fears.
@@ -12224,6 +12244,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [读史处世智慧 / Historical Reading as Survival Wisdom](concepts/HistoricalReadingAsSurvivalWisdom.md) — Reading-history concept where historical knowledge becomes practical judgment about power, risk, speech, and consequence.
+- [政治诛杀过度 / Political Execution Overreach](concepts/PoliticalExecutionOverreach.md) — Court-politics concept where severe execution damages legitimacy by exceeding public or moral proportionality.
+- [心魔象征式解读 / Inner-Demon Symbolic Reading](concepts/InnerDemonSymbolicReading.md) — Interpretive method reading monsters, companions, battles, and props as projections or functions of a protagonist's inner conflict.
+- [小爱与大爱整合 / Love-Compassion Integration](concepts/LoveCompassionIntegration.md) — Film-reading concept where intimate love becomes part of broader compassion rather than merely an obstacle to it.
+- [Positive Masculinity Code](concepts/PositiveMasculinityCode.md) — Galloway's source-scoped provider, protector, procreator, service, and surplus-value frame for masculinity as responsibility.
+- [Young Men Offline Practice](concepts/YoungMenOfflinePractice.md) — phone-audit, exercise, outside-work, volunteering, and real-world social exposure bundle for isolated young men.
+- [Rejection Tolerance Practice](concepts/RejectionTolerancePractice.md) — practice of making respectful social and professional approaches where "no" is expected and survivable.
+- [Digital Sexual Substitute Risk](concepts/DigitalSexualSubstituteRisk.md) — concern that always-available digital sexual stimulation can displace real relationship learning and motivation.
+- [Male Mentorship Responsibility](concepts/MaleMentorshipResponsibility.md) — distributed adult-male obligation to provide ordinary presence and guidance to boys lacking role models.
+- [National Service Social Integration](concepts/NationalServiceSocialIntegration.md) — policy idea that military or civilian service can create structure, cross-class contact, and civic obligation.
+- [Intergenerational Youth Economic Burden](concepts/IntergenerationalYouthEconomicBurden.md) — claim that fiscal, health-care, education, and labor-market structures can shift costs onto younger cohorts.
+- [宾礼式臣服外交 / Guest-Rite Submission Diplomacy](concepts/GuestRiteSubmissionDiplomacy.md) — Protocol pattern where a strong court receives a submitted foreign ruler with elevated guest rites to display power while preserving diplomatic flexibility.
+- [麒麟阁功臣荣典 / Qilin Pavilion Merit Honors](concepts/QilinPavilionMeritHonors.md) — Western Han political-memory practice where Xuan turns meritorious service into a palace portrait honor roll.
 - [Anticoagulation Self-Medication Boundary / 抗凝自行用药边界](concepts/AnticoagulationSelfMedicationBoundary.md) — Medication-safety boundary distinguishing aspirin, anticoagulation, fibrinolysis, thrombolysis, and clinician-directed prophylaxis.
 - [Economy-Class Syndrome Travel Thrombosis / 经济舱综合征旅行血栓](concepts/EconomyClassSyndromeTravelThrombosis.md) — Travel-health frame for lower-limb venous thrombosis risk from prolonged immobility, venous stasis, dehydration, and high-risk coagulation contexts.
 - [Travel Thrombosis Prevention / 旅行血栓预防](concepts/TravelThrombosisPrevention.md) — Prevention frame for long travel through movement, ankle-pump exercise, hydration, posture breaks, and compression-stocking boundaries.
@@ -12240,11 +12273,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [California Homelessness Enforcement Treatment](concepts/CaliforniaHomelessnessEnforcementTreatment.md) — Hilton's statewide homelessness frame combining encampment enforcement, addiction treatment, mental-health capacity, sober-service rules, and jail fallback.
 - [有勇无谋决策风险 / Reckless Courage Decision Risk](concepts/RecklessCourageDecisionRisk.md) — Failure mode where willingness to face danger outruns planning, timing, and realistic task completion.
 - [引强援反噬风险 / Dangerous Ally Invitation Risk](concepts/DangerousAllyInvitationRisk.md) — Alliance risk where inviting a powerful outsider against one enemy imports a larger uncontrollable threat.
-- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, IMF, austerity, and Labour cabinet crisis treated as a turning point in British economic governance.
+- [Britain 1976 IMF Crisis](concepts/Britain1976IMFCrisis.md) — Sterling, inflation, IMF, austerity, Labour factionalism, and cabinet crisis treated as a British economic-governance turning point.
 - [Postwar Keynesian Retreat](concepts/PostwarKeynesianRetreat.md) — Political move away from the assumption that governments could simply spend their way out of recession.
 - [Siege Economy Strategy](concepts/SiegeEconomyStrategy.md) — Labour-left crisis strategy built around controls, protectionism, nationalisation, and pressure on allies.
 - [Cabinet Exhaustion Management](concepts/CabinetExhaustionManagement.md) — Crisis-leadership pattern where repeated cabinet argument is used to exhaust alternatives before a decision.
-- [Punk Economic Crisis Symbolism](concepts/PunkEconomicCrisisSymbolism.md) — Reading punk's 1976 media explosion as a cultural sign of unemployment, moral panic, and national decline.
+- [Punk Economic Crisis Symbolism](concepts/PunkEconomicCrisisSymbolism.md) — Reading punk and darker mid-1970s pop culture as signs of unemployment, moral panic, authoritarian anxiety, and national decline.
 - [立身之本保全 / Core Standing-Ground Preservation](concepts/CoreStandingGroundPreservation.md) — Strategy for protecting the skill, income, reputation, lineage, or institutional identity that gives durable footing.
 - [高位拒受式避险 / High-Office Refusal as Risk Avoidance](concepts/HighOfficeRefusalAsRiskAvoidance.md) — Pattern where a prestigious office is refused because its factional, identity, or retaliation exposure outweighs rank benefits.
 - [留面子式进谏包装 / Face-Saving Remonstrance](concepts/FaceSavingRemonstrance.md) — corrective speech that preserves the listener's dignity while still delivering substantive advice.
@@ -13757,6 +13790,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [巡查送礼关口 / Inspection Gift Gatekeeping](concepts/InspectionGiftGatekeeping.md) — Hanji 928 pattern where an inspector with ruler access can turn gift refusal and a slanted report into command-changing political risk.
 - [Gift Refusal As Authority / 拒礼立威](concepts/GiftRefusalAsAuthority.md) — Governance pattern where refusing interested gifts preserves clean distance, public trust, and bargaining authority, grounded in Yang Zhen's Four Knows refusal and Zhang Huan's Qiang case.
 - [对事不对人式公义 / Public Duty Over Private Grievance](concepts/PublicDutyOverPrivateGrievance.md) — Hanji 929 ethical frame where Gai Xun keeps private dislike and injury from deciding public law, office duty, and military rescue.
+- [五日京兆 / Five-Day Jingzhao](concepts/FiveDayJingzhao.md) — Hanji 458 idiom and office-risk pattern where rumored future dismissal is mistaken for present loss of authority.
 - [武库公器私赏边界 / Public Armory Private Favor Boundary](concepts/PublicArmoryPrivateFavorBoundary.md) — Hanji 587 boundary principle that state weapons and publicly funded military stores belong to public defense and command authority, not favorite gifts.
 - [可交换能力 / Exchangeable Capability](concepts/ExchangeableCapability.md) — Hanji 930 personal-development frame where relationships and patrons become useful only when backed by real skill, value, and judgment.
 - [征发信号价格垄断 / Procurement Signal Price Cornering](concepts/ProcurementSignalPriceCornering.md) — Hanji 920 pattern where state horse-procurement demand is captured by local strongmen who monopolize supply and inflate prices.

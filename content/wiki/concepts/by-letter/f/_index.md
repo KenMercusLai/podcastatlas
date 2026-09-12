@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "FiveDynastiesTenKingdomsConceptFormation"
     title: "五代十国概念形成 / Five Dynasties Ten Kingdoms Concept Formation"
     url: "/wiki/concepts/fivedynastiestenkingdomsconceptformation/"
+  - key: "FiveDayJingzhao"
+    title: "五日京兆 / Five-Day Jingzhao"
+    url: "/wiki/concepts/fivedayjingzhao/"
   - key: "FrontierProxyConquestStrategy"
     title: "以夷攻夷式边疆策略 / Frontier Proxy Conquest Strategy"
     url: "/wiki/concepts/frontierproxyconqueststrategy/"

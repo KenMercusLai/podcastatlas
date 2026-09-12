@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -908,6 +908,9 @@ wiki_pages:
   - key: "PositiveJournalism"
     title: "Positive Journalism"
     url: "/wiki/concepts/positivejournalism/"
+  - key: "PositiveMasculinityCode"
+    title: "Positive Masculinity Code"
+    url: "/wiki/concepts/positivemasculinitycode/"
   - key: "PositiveStressBreathwork"
     title: "Positive Stress Breathwork"
     url: "/wiki/concepts/positivestressbreathwork/"
@@ -1910,6 +1913,9 @@ wiki_pages:
   - key: "PoliticalCaseEvidenceSkepticism"
     title: "政治案件证据怀疑 / Political Case Evidence Skepticism"
     url: "/wiki/concepts/politicalcaseevidenceskepticism/"
+  - key: "PoliticalExecutionOverreach"
+    title: "政治诛杀过度 / Political Execution Overreach"
+    url: "/wiki/concepts/politicalexecutionoverreach/"
   - key: "PowerCenterProximityAdvantage"
     title: "权力中心接近优势 / Power Center Proximity Advantage"
     url: "/wiki/concepts/powercenterproximityadvantage/"

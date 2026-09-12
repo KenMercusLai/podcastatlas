@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9897
+wiki_total_pages: 9909
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1535,6 +1535,9 @@ wiki_pages:
   - key: "ZhengXingEasternHan"
     title: "郑兴 / Zheng Xing (Eastern Han)"
     url: "/wiki/entities/zhengxingeasternhan/"
+  - key: "ZhengJiWesternHan"
+    title: "郑吉 / Zheng Ji (Western Han)"
+    url: "/wiki/entities/zhengjiwesternhan/"
   - key: "ZhengGuoHydraulicEngineer"
     title: "郑国 / Zheng Guo (Hydraulic Engineer)"
     url: "/wiki/entities/zhengguohydraulicengineer/"

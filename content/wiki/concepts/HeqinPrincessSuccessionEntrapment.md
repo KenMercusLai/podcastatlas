@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [frontier, diplomacy, marriage, succession, western-han]
 sources:
   - zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv
+  - zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq
 last_updated: 2026-09-13
 ---
 
@@ -18,6 +19,8 @@ Heqin princess succession entrapment / 和亲公主继承困局 is the pattern i
 
 The entrapment is political as well as personal. Xieyou's body and household become part of the succession settlement, while her suffering under Nimi's violence becomes a motive for assassination. The failed banquet attack then endangers Han envoys and turns a marriage succession problem into a siege crisis. The concept therefore differs from a simple "marriage alliance" page: it captures what happens when the alliance instrument remains inside a changed local power order.
 
+The aftermath shows that rescue does not erase the trap's aftereffects. Xieyou is saved from Chigu City, but Han officials still interrogate and humiliate her while seeking responsibility for the failed plot. The eventual Wusun settlement comes through [[FengLiaoWesternHan|冯嫽]]'s mediation and Han force pressure, not through repairing Xieyou's marriage role. That contrast sharpens the concept: heqin can create exposure that later diplomacy must work around rather than simply restore.
+
 ## Key Claims
 
 - Heqin marriage can create long-lived exposure for the princess after the original diplomatic bargain changes.
@@ -26,6 +29,7 @@ The entrapment is political as well as personal. Xieyou's body and household bec
 - Household violence can become inseparable from frontier governance failure when the spouse is also ruler.
 - Resistance by the princess may take political or violent form when ordinary exit is unavailable.
 - Failed intervention can endanger envoys and deepen the crisis the marriage was meant to manage.
+- Even after military rescue, the princess may remain exposed to blame, interrogation, and dignity loss inside the sending state's own crisis management.
 
 ## Evidence
 
@@ -34,14 +38,17 @@ The entrapment is political as well as personal. Xieyou's body and household bec
 - Remarriage compulsion: [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] says Xieyou marries Nimi under Wusun custom.
 - Violence and agency: [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] links Nimi's abuse and poor rule to Xieyou's assassination plan.
 - Crisis escalation: [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]] says the failed attack leads to Chigu City being surrounded.
+- Aftermath exposure: [[zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq|Hanji 461]] says Zhang Weng humiliates Xieyou while questioning her about the failed plot, before Xuan executes him after her secret complaint.
+- Workaround settlement: [[zizhi-tongjian-hanji-461-lishi-shouwei-nvwaijiaojia-fengliao-ruhe-woxuan-xiyu-weiji-lpxkawzol3526yztjyxxmz26phcq|Hanji 461]] says Feng Liao's mediation, rather than Xieyou's marriage position, helps settle Wusun into large and small kunmi.
 
 ## Counterevidence & Qualifications
 
-This concept currently rests on one Wusun case. It should not be generalized to all heqin marriages as if each produced the same level of coercion, violence, or assassination risk. The episode does not settle how much Han officials authorized the plot, how Wusun actors understood the remarriage custom, or whether other exit routes were available.
+This concept currently rests on one Wusun case across two adjacent episodes. It should not be generalized to all heqin marriages as if each produced the same level of coercion, violence, assassination risk, or post-rescue humiliation. The episodes do not settle how much Han officials authorized the plot, how Wusun actors understood the remarriage custom, or whether other exit routes were available.
 
 ## What Changed
 
 - Created the concept from Hanji 460's Xieyou-Nimi Wusun crisis.
+- Added Hanji 461's aftermath layer: rescue does not eliminate blame exposure, and the eventual settlement routes through Feng Liao rather than Xieyou's marriage role.
 
 ## Related Concepts
 
@@ -51,4 +58,5 @@ This concept currently rests on one Wusun case. It should not be generalized to 
 - [[Wusun|乌孙]] - frontier polity whose succession rule creates the case.
 - [[XieyouPrincessWesternHan|解忧公主]] - central case of the concept.
 - [[NimiWusun|狂王泥靡]] - ruler whose installation and marriage to Xieyou make the trap acute.
+- [[FengLiaoWesternHan|冯嫽]] - later Wusun-network intermediary whose mission works around the failed heqin role.
 - [[WesternRegionsProtectorate|西域都护府]] - broader strategic setting where marriage, hostages, envoys, and local succession interact.

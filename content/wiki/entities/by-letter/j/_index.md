@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "j"
-wiki_total_pages: 9897
+wiki_total_pages: 9909
 wiki_pages:
   - key: "JinghuHighSpeedRail"
     title: "Beijing-Shanghai High-Speed Railway / 京沪高铁"
@@ -980,6 +980,9 @@ wiki_pages:
   - key: "JourneyToTheWest"
     title: "《西游记》"
     url: "/wiki/entities/journeytothewest/"
+  - key: "JourneyToTheWestConqueringDemons"
+    title: "《西游降魔篇》 / Journey to the West: Conquering the Demons"
+    url: "/wiki/entities/journeytothewestconqueringdemons/"
   - key: "JianZhuKeShu"
     title: "《谏逐客书》 / Jian Zhu Ke Shu"
     url: "/wiki/entities/jianzhukeshu/"

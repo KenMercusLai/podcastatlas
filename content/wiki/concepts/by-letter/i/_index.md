@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -548,6 +548,9 @@ wiki_pages:
   - key: "IntergenerationalPatternPause"
     title: "Intergenerational Pattern Pause / 代际模式暂停键"
     url: "/wiki/concepts/intergenerationalpatternpause/"
+  - key: "IntergenerationalYouthEconomicBurden"
+    title: "Intergenerational Youth Economic Burden"
+    url: "/wiki/concepts/intergenerationalyoutheconomicburden/"
   - key: "InterleavedThinking"
     title: "Interleaved Thinking"
     url: "/wiki/concepts/interleavedthinking/"
@@ -857,6 +860,9 @@ wiki_pages:
   - key: "ImperialSelfCriticismEdict"
     title: "帝王自责诏 / Imperial Self-Criticism Edict"
     url: "/wiki/concepts/imperialselfcriticismedict/"
+  - key: "InnerDemonSymbolicReading"
+    title: "心魔象征式解读 / Inner-Demon Symbolic Reading"
+    url: "/wiki/concepts/innerdemonsymbolicreading/"
   - key: "InstitutionalReconstructionFromPrecedent"
     title: "旧制文献恢复式制度重建 / Institutional Reconstruction From Precedent"
     url: "/wiki/concepts/institutionalreconstructionfromprecedent/"

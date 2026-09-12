@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9897
+wiki_total_pages: 9909
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -665,6 +665,9 @@ wiki_pages:
   - key: "YangBin"
     title: "杨彬 / Yang Bin"
     url: "/wiki/entities/yangbin/"
+  - key: "YangYunWesternHan"
+    title: "杨恽 / Yang Yun"
+    url: "/wiki/entities/yangyunwesternhan/"
   - key: "YangShen"
     title: "杨慎"
     url: "/wiki/entities/yangshen/"
@@ -683,6 +686,9 @@ wiki_pages:
   - key: "YangWuHanGeneral"
     title: "杨武 / Yang Wu (Han)"
     url: "/wiki/entities/yangwuhangeneral/"
+  - key: "YangTanWesternHan"
+    title: "杨潭 / Yang Tan"
+    url: "/wiki/entities/yangtanwesternhan/"
   - key: "YangXiongQinGeneral"
     title: "杨熊 / Yang Xiong (Qin General)"
     url: "/wiki/entities/yangxiongqingeneral/"

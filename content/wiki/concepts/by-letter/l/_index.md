@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7224
+wiki_total_pages: 7238
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -788,6 +788,9 @@ wiki_pages:
   - key: "LuxuryStatusSignalEfficiency"
     title: "奢侈品身份信号效率 / Luxury Status Signal Efficiency"
     url: "/wiki/concepts/luxurystatussignalefficiency/"
+  - key: "LoveCompassionIntegration"
+    title: "小爱与大爱整合 / Love-Compassion Integration"
+    url: "/wiki/concepts/lovecompassionintegration/"
   - key: "LocalFaultAttributionPacification"
     title: "归咎安抚式平叛 / Local Fault Attribution Pacification"
     url: "/wiki/concepts/localfaultattributionpacification/"
