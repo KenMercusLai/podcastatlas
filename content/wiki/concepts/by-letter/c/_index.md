@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7129
+wiki_total_pages: 7130
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1352,6 +1352,9 @@ wiki_pages:
   - key: "ConfucianMilitaryIdealismLimits"
     title: "Confucian Military Idealism Limits / 儒家军事理想的限度"
     url: "/wiki/concepts/confucianmilitaryidealismlimits/"
+  - key: "ConfucianLegalistGovernanceBalance"
+    title: "Confucian-Legalist Governance Balance / 儒法互补治理"
+    url: "/wiki/concepts/confucianlegalistgovernancebalance/"
   - key: "ConglomerateControlInColonialHongKong"
     title: "Conglomerate Control in Colonial Hong Kong / 殖民期香港财团控制"
     url: "/wiki/concepts/conglomeratecontrolincolonialhongkong/"

@@ -17746,6 +17746,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/confidentialremonstranceleakage/"
     },
+    "ConfucianLegalistGovernanceBalance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！ [lnDFgJeHpE7QC36HejxBA3ZnlZ0P].md",
+          "key": "zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/confucianlegalistgovernancebalance/"
+    },
     "ConscienceThroughDuty": {
       "episode_count": 1,
       "show_count": 1,
@@ -40270,9 +40286,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -40294,6 +40310,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！ [lnDFgJeHpE7QC36HejxBA3ZnlZ0P].md",
+          "key": "zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p/"
         }
       ],
       "updated": "2026-09-12",
@@ -50548,9 +50571,9 @@
       "url": "/wiki/entities/kuaishou/"
     },
     "KuangHengWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -50586,6 +50609,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！ [lnDFgJeHpE7QC36HejxBA3ZnlZ0P].md",
+          "key": "zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p/"
         }
       ],
       "updated": "2026-09-12",
@@ -81471,9 +81501,9 @@
       "url": "/wiki/entities/shilifen/"
     },
     "ShiXianWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -81488,6 +81518,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！ [lnDFgJeHpE7QC36HejxBA3ZnlZ0P].md",
+          "key": "zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p/"
         }
       ],
       "updated": "2026-09-12",

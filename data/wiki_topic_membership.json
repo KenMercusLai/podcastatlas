@@ -16877,6 +16877,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "ConfucianLegalistGovernanceBalance": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ConfucianLowOfficeReclusion": [
     {
       "key": "history",

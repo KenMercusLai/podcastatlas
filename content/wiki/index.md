@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！](sources/zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p.md) — 芮淇讲透资治通鉴 episode on Han Yuandi's death, Confucian learning without practical statecraft, Shi Xian's eunuch-power warning, Chengdi's accession, Wang-family entry, and Kuang Heng's ruler-bearing advice.
 - [《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨](sources/zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra.md) — 芮淇讲透资治通鉴 episode on Shi Xian's Western Han eunuch-power formation, Chengdi-era transfer and impeachment, message-relay information power, and ruler-dependent collapse.
 - [《资治通鉴·汉纪》502丨让老板被黑锅？是谁在找死！](sources/zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb.md) — 芮淇讲透资治通鉴 episode on Shi Xian's post-accession cleanup, Wang Zun's impeachment of Kuang Heng and Zhang Tan, Chengdi's stability calculus, and senior-minister blame absorption.
 - [《资治通鉴·汉纪》507 plus丨2024年女性成长宝典，简单七步，把握九紫离火大运](sources/zizhi-tongjian-hanji-507-plus-2024nian-nvxing-chengzhang-baodian-jiandan-qibu-bawo-jiuzi-lihuo-dayun-lnytzxkmnogu_o3zz46_hnkdbimm.md) — 芮淇讲透资治通鉴 plus episode turning 九紫离火运 into a seven-step women's self-growth frame around positioning, goals, practice, self-management, learning, relationships, and health.
@@ -12084,6 +12085,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Confucian-Legalist Governance Balance / 儒法互补治理](concepts/ConfucianLegalistGovernanceBalance.md) — Governance frame for combining Confucian moral legitimacy with practical administrative control, created from Hanji 499's Yuan-versus-Xuan contrast.
 - [新君清算中的责任安排 / Court Transition Blame Management](concepts/CourtTransitionBlameManagement.md) — New-ruler pattern for limiting accountability claims when cleanup threatens court stability, predecessor dignity, senior-office continuity, or future blame absorption.
 - [传话式信息权力 / Message Relay Political Power](concepts/MessageRelayPoliticalPower.md) — Inner-court information mechanism where seemingly minor relay work gains power by filtering what reaches the ruler and how it is framed.
 - [Nine Purple Fire Luck Action Frame](concepts/NinePurpleFireLuckActionFrame.md) — source-scoped frame for converting 九紫离火运 language into women's self-positioning, deliberate practice, self-management, relationships, and health routines.

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1813
+topic_total_pages: 1814
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -196,6 +196,9 @@ topic_concepts:
   - key: "ConfucianMilitaryIdealismLimits"
     title: "Confucian Military Idealism Limits / 儒家军事理想的限度"
     url: "/wiki/concepts/confucianmilitaryidealismlimits/"
+  - key: "ConfucianLegalistGovernanceBalance"
+    title: "Confucian-Legalist Governance Balance / 儒法互补治理"
+    url: "/wiki/concepts/confucianlegalistgovernancebalance/"
   - key: "ConquestCommanderyTransition"
     title: "Conquest Commandery Transition / 灭国后的郡县化过渡"
     url: "/wiki/concepts/conquestcommanderytransition/"

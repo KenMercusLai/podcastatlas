@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2409
+topic_total_pages: 2410
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -670,6 +670,9 @@ topic_concepts:
   - key: "ConfucianIdealGovernance"
     title: "Confucian Ideal Governance / 儒家理想治理"
     url: "/wiki/concepts/confucianidealgovernance/"
+  - key: "ConfucianLegalistGovernanceBalance"
+    title: "Confucian-Legalist Governance Balance / 儒法互补治理"
+    url: "/wiki/concepts/confucianlegalistgovernancebalance/"
   - key: "ConscienceOverFaction"
     title: "Conscience Over Faction / 良知高于党派"
     url: "/wiki/concepts/conscienceoverfaction/"
