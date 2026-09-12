@@ -1187,6 +1187,10 @@
     "title": "66.鱼翅与花椒：聊吃的我可就不困了",
     "url": "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
   },
+  "666-wine-and-the-birth-of-civilisation-glt1414718476": {
+    "title": "666. Wine and the Birth of Civilisation",
+    "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+  },
   "667-the-mystery-of-the-mona-lisa-glt1735270133": {
     "title": "667. The Mystery of the Mona Lisa",
     "url": "/wiki/sources/667-the-mystery-of-the-mona-lisa-glt1735270133/"
@@ -32518,6 +32522,10 @@
   "JuanchengLateHan": {
     "title": "鄄城 / Juancheng (Late Han)",
     "url": "/wiki/entities/juanchenglatehan/"
+  },
+  "JudgmentOfParisWine": {
+    "title": "Judgment of Paris Wine",
+    "url": "/wiki/concepts/judgmentofpariswine/"
   },
   "JudicialDuel": {
     "title": "Judicial Duel / 司法决斗",
@@ -64023,9 +64031,17 @@
     "title": "Wine As Agricultural Culture",
     "url": "/wiki/concepts/wineasagriculturalculture/"
   },
+  "WinePrestigeClassificationSystem": {
+    "title": "Wine Prestige Classification System",
+    "url": "/wiki/concepts/wineprestigeclassificationsystem/"
+  },
   "WineTerroir": {
     "title": "Wine Terroir / 葡萄酒风土",
     "url": "/wiki/concepts/wineterroir/"
+  },
+  "WineTradeCivilizationNetwork": {
+    "title": "Wine Trade Civilization Network",
+    "url": "/wiki/concepts/winetradecivilizationnetwork/"
   },
   "Wink": {
     "title": "Wink",

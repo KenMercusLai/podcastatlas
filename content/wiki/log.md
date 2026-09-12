@@ -17755,6 +17755,10 @@ Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Song
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 666. Wine and the Birth of Civilisation
+
+Added The Rest Is History source on wine's archaeology, Canaanite and Phoenician trade, Greek and Roman wine culture, Christian ritual survival, Islamic legal-poetic ambivalence, English bottle technology, French estate prestige, terroir, and the Judgment of Paris. Migrated and extended Wine, Wine As Agricultural Culture, and Wine Terroir; added Wine Trade Civilization Network, Wine Prestige Classification System, and Judgment of Paris Wine.
+
 ## [2026-09-12] ingest | Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti
 
 Added Huberman Lab source note on Paul Conti and What's Going Right?, covering strength-first self-examination, compassionate curiosity, observing self continuity, intentional living agency, generative drive, intrusive thoughts, trauma, self-talk, social media, aloneness, and happiness. Created Paul Conti, What's Going Right?, and six mental-health concepts while linking the source into existing Huberman, trauma, emotion-regulation, self-understanding, and sustainable-health frames.
@@ -18320,6 +18324,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

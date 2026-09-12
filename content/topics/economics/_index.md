@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2013
+topic_total_pages: 2014
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2932,6 +2932,9 @@ topic_concepts:
   - key: "WinRateStartupStrategy"
     title: "Win-Rate Startup Strategy / 优化胜率"
     url: "/wiki/concepts/winratestartupstrategy/"
+  - key: "WineTradeCivilizationNetwork"
+    title: "Wine Trade Civilization Network"
+    url: "/wiki/concepts/winetradecivilizationnetwork/"
   - key: "WinnerCurse"
     title: "Winner's Curse"
     url: "/wiki/concepts/winnercurse/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1825
+topic_total_pages: 1826
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4464,6 +4464,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "666-wine-and-the-birth-of-civilisation-glt1414718476"
+    title: "666. Wine and the Birth of Civilisation"
+    url: "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
   - key: "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182"
     title: "668. Greece vs Persia: The Rise of the First Superpower (Part 1)"
     url: "/wiki/sources/668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182/"

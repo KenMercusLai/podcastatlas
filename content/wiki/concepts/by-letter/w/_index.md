@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 7181
+wiki_total_pages: 7184
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -293,9 +293,15 @@ wiki_pages:
   - key: "WineAsAgriculturalCulture"
     title: "Wine As Agricultural Culture"
     url: "/wiki/concepts/wineasagriculturalculture/"
+  - key: "WinePrestigeClassificationSystem"
+    title: "Wine Prestige Classification System"
+    url: "/wiki/concepts/wineprestigeclassificationsystem/"
   - key: "WineTerroir"
     title: "Wine Terroir / 葡萄酒风土"
     url: "/wiki/concepts/wineterroir/"
+  - key: "WineTradeCivilizationNetwork"
+    title: "Wine Trade Civilization Network"
+    url: "/wiki/concepts/winetradecivilizationnetwork/"
   - key: "WinnerCurse"
     title: "Winner's Curse"
     url: "/wiki/concepts/winnercurse/"

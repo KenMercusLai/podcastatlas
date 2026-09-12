@@ -50336,6 +50336,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/juyuanlatehan/"
     },
+    "JudgmentOfParisWine": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1414718476 [GLT1414718476].md",
+          "key": "666-wine-and-the-birth-of-civilisation-glt1414718476",
+          "show": "The Rest Is History",
+          "title": "666. Wine and the Birth of Civilisation",
+          "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/judgmentofpariswine/"
+    },
     "Jugurtha": {
       "episode_count": 1,
       "show_count": 1,
@@ -98848,6 +98864,114 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/wimhof/"
+    },
+    "Wine": {
+      "episode_count": 3,
+      "show_count": 3,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
+          "key": "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156",
+          "show": "蜜獾吃书",
+          "title": "三联串台｜神赐给人葡萄，世界微醺了",
+          "url": "/wiki/sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156/"
+        },
+        {
+          "episode_file": "Advice Line with Susan Griffin-Black of EO Products [58096820-613c-40ad-9743-f1d642447c91].md",
+          "key": "advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91",
+          "show": "How I Built This with Guy Raz",
+          "title": "Advice Line with Susan Griffin-Black of EO Products",
+          "url": "/wiki/sources/advice-line-with-susan-griffin-black-of-eo-products-58096820-613c-40ad-9743-f1d642447c91/"
+        },
+        {
+          "episode_file": "GLT1414718476 [GLT1414718476].md",
+          "key": "666-wine-and-the-birth-of-civilisation-glt1414718476",
+          "show": "The Rest Is History",
+          "title": "666. Wine and the Birth of Civilisation",
+          "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/wine/"
+    },
+    "WineAsAgriculturalCulture": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
+          "key": "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156",
+          "show": "蜜獾吃书",
+          "title": "三联串台｜神赐给人葡萄，世界微醺了",
+          "url": "/wiki/sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156/"
+        },
+        {
+          "episode_file": "GLT1414718476 [GLT1414718476].md",
+          "key": "666-wine-and-the-birth-of-civilisation-glt1414718476",
+          "show": "The Rest Is History",
+          "title": "666. Wine and the Birth of Civilisation",
+          "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/wineasagriculturalculture/"
+    },
+    "WinePrestigeClassificationSystem": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1414718476 [GLT1414718476].md",
+          "key": "666-wine-and-the-birth-of-civilisation-glt1414718476",
+          "show": "The Rest Is History",
+          "title": "666. Wine and the Birth of Civilisation",
+          "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/wineprestigeclassificationsystem/"
+    },
+    "WineTerroir": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "三联串台｜神赐给人葡萄，世界微醺了 [585125156].md",
+          "key": "sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156",
+          "show": "蜜獾吃书",
+          "title": "三联串台｜神赐给人葡萄，世界微醺了",
+          "url": "/wiki/sources/sanlian-chuantai-shen-ci-gei-ren-putao-shijie-weixun-le-585125156/"
+        },
+        {
+          "episode_file": "GLT1414718476 [GLT1414718476].md",
+          "key": "666-wine-and-the-birth-of-civilisation-glt1414718476",
+          "show": "The Rest Is History",
+          "title": "666. Wine and the Birth of Civilisation",
+          "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/wineterroir/"
+    },
+    "WineTradeCivilizationNetwork": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1414718476 [GLT1414718476].md",
+          "key": "666-wine-and-the-birth-of-civilisation-glt1414718476",
+          "show": "The Rest Is History",
+          "title": "666. Wine and the Birth of Civilisation",
+          "url": "/wiki/sources/666-wine-and-the-birth-of-civilisation-glt1414718476/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/winetradecivilizationnetwork/"
     },
     "WinsEntertainment": {
       "episode_count": 1,

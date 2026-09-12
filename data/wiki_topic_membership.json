@@ -1811,6 +1811,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "666-wine-and-the-birth-of-civilisation-glt1414718476": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "668-greece-vs-persia-the-rise-of-the-first-superpower-part-1-glt8965800182": [
     {
       "key": "history",
@@ -72167,6 +72174,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "WineTradeCivilizationNetwork": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "WinnerCurse": [
