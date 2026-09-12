@@ -11723,6 +11723,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/bureaucraticimpeachmentreview/"
     },
+    "BuridanIndecisionEffect": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！ [ljUimsM_O4mGLmsNTYp8W5ru-DT8].md",
+          "key": "zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/buridanindecisioneffect/"
+    },
     "BurningGlassInstitute": {
       "episode_count": 1,
       "show_count": 1,
@@ -21481,9 +21497,9 @@
       "url": "/wiki/concepts/deceptivesurrenderlull/"
     },
     "DecisiveResourceCommitment": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
@@ -21491,6 +21507,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！ [ljUimsM_O4mGLmsNTYp8W5ru-DT8].md",
+          "key": "zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8/"
         }
       ],
       "updated": "2026-09-12",
@@ -31495,9 +31518,9 @@
       "url": "/wiki/entities/fengchanlatehan/"
     },
     "FengFengshiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！ [libgQZvQUEGLLma9SOJU57K_jXuE].md",
@@ -31505,6 +31528,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》481丨威风！西汉冯奉世一举灭敌国！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！ [ljUimsM_O4mGLmsNTYp8W5ru-DT8].md",
+          "key": "zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8/"
         }
       ],
       "updated": "2026-09-12",

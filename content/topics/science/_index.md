@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1046
+topic_total_pages: 1047
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -214,6 +214,9 @@ topic_concepts:
   - key: "BuffetBudgetLockIn"
     title: "Buffet Budget Lock-In / 自助餐预算锁定"
     url: "/wiki/concepts/buffetbudgetlockin/"
+  - key: "BuridanIndecisionEffect"
+    title: "Buridan Indecision Effect / 布利丹效应"
+    url: "/wiki/concepts/buridanindecisioneffect/"
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
     url: "/wiki/concepts/celegansmodelorganism/"

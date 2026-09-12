@@ -17759,6 +17759,10 @@ Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Song
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！
+
+Added source note for Hanji 482. Key claims: Feng Fengshi's assembled Han force defeats the Longxi Qiang rebellion after the Hanji 481 force-sizing debate; the host turns the case into a Buridan-effect management lesson about clarifying goals and chips, acting under incomplete information, and avoiding organizational paralysis.
+
 ## [2026-09-12] ingest | 666. Wine and the Birth of Civilisation
 
 Added The Rest Is History source on wine's archaeology, Canaanite and Phoenician trade, Greek and Roman wine culture, Christian ritual survival, Islamic legal-poetic ambivalence, English bottle technology, French estate prestige, terroir, and the Judgment of Paris. Migrated and extended Wine, Wine As Agricultural Culture, and Wine Terroir; added Wine Trade Civilization Network, Wine Prestige Classification System, and Judgment of Paris Wine.
@@ -18328,6 +18332,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

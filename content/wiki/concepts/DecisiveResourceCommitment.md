@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [decision-making, military-strategy, frontier, governance, resource-allocation]
 sources:
   - zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue
+  - zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8
 last_updated: 2026-09-12
 ---
 
@@ -16,9 +17,9 @@ Decisive resource commitment / 决断型资源投入 is the decision pattern whe
 
 ## Current Synthesis
 
-Hanji 481 creates the concept through [[FengFengshiWesternHan|冯奉世]]'s argument during the [[XianjieQiangWesternHan|Xianjie Qiang]] rebellion. Feng does not treat "decisive" as reckless speed. He asks first how large the opponent is, what weapons and morale conditions look like, how long the campaign should last, and what happens if a smaller force fails.
+Hanji 481 creates the concept through [[FengFengshiWesternHan|冯奉世]]'s argument during the [[XianjieQiangWesternHan|Xianjie Qiang]] rebellion. Feng does not treat "decisive" as reckless speed. He asks first how large the opponent is, what weapons and morale conditions look like, how long the campaign should last, and what happens if a smaller force fails. Hanji 482 adds the result side: once Han forces assemble in [[LongxiCommandery|陇西郡]] and advance together, the rebellion is broken, later emergency levies can be stood down, and only defensive/tuntian arrangements remain.
 
-The concept's core distinction is between visible first cost and hidden total cost. [[HanYuandi|汉元帝]] and ministers have reason to fear autumn conscription during hunger, but Feng argues that an underpowered expedition may lose, be unable to protect local people, signal weakness, and require a larger later mobilization. The episode's early defeat and later reinforcement make the half-measure risk concrete.
+The concept's core distinction is between visible first cost and hidden total cost. [[HanYuandi|汉元帝]] and ministers have reason to fear autumn conscription during hunger, but Feng argues that an underpowered expedition may lose, be unable to protect local people, signal weakness, and require a larger later mobilization. Hanji 481 makes the half-measure risk concrete through early defeat and reinforcement; Hanji 482 uses the subsequent victory to turn the military case into a management lesson against [[BuridanIndecisionEffect|Buridan-style indecision]].
 
 ## Key Claims
 
@@ -27,6 +28,7 @@ The concept's core distinction is between visible first cost and hidden total co
 - Deterrence is part of resource calculation: visible insufficiency can invite other actors to test the state.
 - The concept differs from overcommitment because it asks for enough resources to finish a bounded problem, not unlimited expansion.
 - Humanitarian and logistical costs matter together: a defensive stalemate may fail to relieve affected people while still consuming supplies.
+- Decisive commitment requires acting before complete clarity arrives, but the action should still be anchored in goals, available chips, and information triage.
 
 ## Evidence
 
@@ -34,14 +36,16 @@ The concept's core distinction is between visible first cost and hidden total co
 - One-campaign principle: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]] quotes Feng's argument that good command does not levy twice or transport grain three times for the same war.
 - Half-measure risk: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]] says Feng warns that ten thousand troops would not intimidate the rebels and would either lose in attack or fail to protect the people in defense.
 - Escalation proof: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]] says Han Chang's forward detachment is defeated and Yuan later sends a much larger reinforcement.
+- Result proof: [[zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8|Hanji 482]] says the assembled Han force advances together, defeats the rebels, and allows the court to suspend the new levy except for border defense and tuntian.
+- Management translation: [[zizhi-tongjian-hanji-482-renqing-bulidan-xiaoying-zhihao-nide-xuanze-kunnan-zheng-ljuimsm-o4mglmsntyp8w5ru-dt8|Hanji 482]] frames Feng's decisiveness as a lesson for managers who must act under incomplete information without falling into Buridan-style paralysis.
 
 ## Counterevidence & Qualifications
 
-The episode does not prove that Feng's requested forty thousand was the objectively optimal number, and the transcript stops before the final campaign result. Ministers' objections also have real force: hunger and autumn harvest work make large troop levies socially costly. The concept should therefore be read as a disciplined anti-half-measure pattern, not a rule that bigger allocations are always better.
+The source set does not prove that Feng's requested forty thousand was the objectively optimal number. Ministers' objections also have real force: hunger and autumn harvest work make large troop levies socially costly. Hanji 482's management analogy favors decisiveness more than process design, so the concept should be read as a disciplined anti-half-measure pattern, not a rule that bigger allocations or faster choices are always better.
 
 ## What Changed
 
-- Created the concept from Hanji 481's Qiang-rebellion force-size debate.
+- Added Hanji 482's campaign-result and management-analogy layer, connecting decisive commitment to Buridan-style indecision under incomplete information.
 
 ## Related Concepts
 
@@ -50,3 +54,4 @@ The episode does not prove that Feng's requested forty thousand was the objectiv
 - [[BudgetedFrontierSuppression|预算化边疆清剿]] - later frontier-war frame where commanders make force, time, and budget legible to court decision makers.
 - [[OverextendedFrontierExpedition|边境远征过度]] - contrast case where resource commitment outruns sustainable capacity.
 - [[FrontierStrategyCostTypology|边疆战略成本分型]] - adjacent framework for judging frontier policy by cost-to-objective ratio.
+- [[BuridanIndecisionEffect|布利丹效应]] - negative counterpart where unclear goals and resource awareness turn choice into paralysis.
