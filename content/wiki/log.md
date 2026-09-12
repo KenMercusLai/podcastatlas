@@ -17755,6 +17755,10 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 
 Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Songtsam's value is route orchestration and local interpretation on a difficult Highway 219 corridor; Nujiang's "secret place" appeal is inseparable from Three Parallel Rivers geography, multi-ethnic and multi-religious life, road modernization, and ethical viewing boundaries; Baoshan adds a traveler-facing Yunnan coffee estate layer through cupping, ripe-fruit selection, fermentation tanks, drying, and local city history.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”
+
+Added source on Han Yuandi's Yongguang 3-4 court, fiscal retrenchment, Zhou Kan and Zhang Meng's hollow recall, Shi Xian's memorial-channel control, and the workplace Jianghu lesson that access to decision makers can outweigh formal title.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18340,6 +18344,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | Essentials: Compulsive Behaviors & Deep Brain Stimulation | Dr. Casey Halpern
 
 Added Huberman Lab Essentials source on Casey Halpern, DBS, focused ultrasound, OCD, craving, binge eating, urge despite risk, and intracranial circuit mapping. Created Halpern plus neurosurgical/circuit concepts, and extended OCD, corticostriatal-thalamic loop, and circuit-based psychiatry with severe-refractory treatment boundaries.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

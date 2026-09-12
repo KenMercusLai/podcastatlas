@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9861
+wiki_total_pages: 9863
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "ZhouYebing"
     title: "周叶冰 / Zhou Yebing"
     url: "/wiki/entities/zhouyebing/"
+  - key: "ZhouKanWesternHan"
+    title: "周堪 / Zhou Kan (Western Han)"
+    url: "/wiki/entities/zhoukanwesternhan/"
   - key: "ZhouWeilieWang"
     title: "周威烈王 / King Weilie of Zhou"
     url: "/wiki/entities/zhouweiliewang/"
@@ -872,6 +875,9 @@ wiki_pages:
   - key: "ZhangFanLateHan"
     title: "张范 / Zhang Fan (late Han)"
     url: "/wiki/entities/zhangfanlatehan/"
+  - key: "ZhangMengWesternHan"
+    title: "张萌 / Zhang Meng (Western Han)"
+    url: "/wiki/entities/zhangmengwesternhan/"
   - key: "ZhangYanHedongLateHan"
     title: "张衍 / Zhang Yan (Hedong-Hongnong actor)"
     url: "/wiki/entities/zhangyanhedonglatehan/"

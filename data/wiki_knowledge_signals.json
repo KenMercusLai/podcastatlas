@@ -62905,9 +62905,9 @@
       "url": "/wiki/concepts/meritshieldedaccountability/"
     },
     "MessageRelayPoliticalPower": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》500丨太监石显之死：站得越高，死得越惨 [lvu7W8xa8mJN8_MbxeW7e4AfUpra].md",
@@ -62922,6 +62922,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》501丨汉元帝竟把太监当“父亲”？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
+          "key": "zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"
         }
       ],
       "updated": "2026-09-12",
@@ -73410,9 +73417,9 @@
       "url": "/wiki/concepts/povertymemorycorruptionexcuse/"
     },
     "PowerCenterProximityAdvantage": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》769丨公务员该怎么考？古人告诉你 [ltgXekMkpIOy11b2_q2KKJ93JA0i].md",
@@ -73427,6 +73434,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
+          "key": "zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"
         }
       ],
       "updated": "2026-09-12",
@@ -106690,6 +106704,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhanglufivepecks/"
     },
+    "ZhangMengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
+          "key": "zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhangmengwesternhan/"
+    },
     "ZhangMuLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -109010,6 +109040,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/zhoujulatehan/"
+    },
+    "ZhouKanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
+          "key": "zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhoukanwesternhan/"
     },
     "ZhouRongEasternHan": {
       "episode_count": 1,
