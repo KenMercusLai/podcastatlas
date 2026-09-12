@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9878
+wiki_total_pages: 9879
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "ZhuGe"
     title: "猪哥 / 猪场严选"
     url: "/wiki/entities/zhuge/"
+  - key: "ZhuyaCommandery"
+    title: "珠崖郡 / Zhuya Commandery"
+    url: "/wiki/entities/zhuyacommandery/"
   - key: "ZhenFengXinOfficial"
     title: "甄丰 / Zhen Feng (Xin official)"
     url: "/wiki/entities/zhenfengxinofficial/"

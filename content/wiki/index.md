@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史](sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp.md) — 芮淇讲透资治通鉴 episode on Han Yuandi abolishing Zhuya Commandery under famine and fiscal pressure, Hainan's looser post-abolition attachment, and Yuan-era thrift, Confucian education, and legal simplification.
 - [665. Britain in the 70s: The Bailout from Hell (Part 4)](sources/665-britain-in-the-70s-the-bailout-from-hell-part-4-glt9598017819.md) — The Rest Is History episode on Jim Callaghan, Denis Healey, Britain's 1976 IMF crisis, Labour's economic split, and the Sex Pistols as punk-era crisis symbolism.
 - [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
 - [《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘](sources/zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc.md) — 芮淇讲透资治通鉴 episode on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations, and the risk of turning symbolic capital into factional court exposure.
@@ -2309,6 +2310,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [珠崖郡 / Zhuya Commandery](entities/ZhuyaCommandery.md) — Western Han Hainan commandery abolished by Han Yuandi after frontier unrest made direct rule too costly under famine and fiscal strain.
 - [Denis Healey](entities/DenisHealey.md) — British chancellor who argued for spending cuts and IMF negotiations during the 1976 sterling crisis.
 - [Tony Benn](entities/TonyBenn.md) — Labour-left figure associated with the alternative economic strategy during Britain's 1976 IMF crisis.
 - [Sex Pistols](entities/SexPistols.md) — Punk band whose Bill Grundy television scandal becomes a symbol of Britain's 1976 crisis mood.

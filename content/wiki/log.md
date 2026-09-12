@@ -17777,6 +17777,10 @@ Added source on Han Yuandi's Yongguang 3-4 court, fiscal retrenchment, Zhou Kan 
 
 Added source. Key claims: Callaghan and Healey accepted IMF-backed cuts while keeping Labour's cabinet together; Benn and Crosland's siege-economy alternatives exposed Labour's internal split; the Sex Pistols' 1 December 1976 television scandal is read as cultural symbolism for the same national crisis.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史
+
+Added source note on Han Yuandi's abolition of Zhuya Commandery, Hainan's post-abolition nominal attachment, Ma Yuan-era restored contact, and Yuan-era thrift, Confucian education, and legal simplification. Created Zhuya Commandery and extended Han Yuandi, Zhou Kan, Zhang Meng, and Capacity-Bound Frontier Commitment.
+
 ## [2026-09-12] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18448,5 +18452,9 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

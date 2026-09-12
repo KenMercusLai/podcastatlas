@@ -12892,9 +12892,9 @@
       "url": "/wiki/concepts/capacitybackeddiplomatichierarchy/"
     },
     "CapacityBoundFrontierCommitment": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》723丨比孔家更牛的家族，凭啥是裴氏？ [lqTI3sTVdCW7UtGm6uzwv5GIazHj].md",
@@ -12923,9 +12923,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》716丨乱世之中，律法有多重要？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-716-luanshi-zhizhong-lvfa-you-duo-zhongyao-lqxuinbrl-rop8d9yxgwx9z4fr4i/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史 [lhVp37w_0Z8rEbKka6SquGFgLEDp].md",
+          "key": "zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-12",
       "url": "/wiki/concepts/capacityboundfrontiercommitment/"
     },
     "CapacityMatchedGrowth": {
@@ -41482,9 +41489,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -41576,6 +41583,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史 [lhVp37w_0Z8rEbKka6SquGFgLEDp].md",
+          "key": "zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
         }
       ],
       "updated": "2026-09-12",
@@ -107452,9 +107466,9 @@
       "url": "/wiki/entities/zhanglufivepecks/"
     },
     "ZhangMengWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
@@ -107476,6 +107490,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史 [lhVp37w_0Z8rEbKka6SquGFgLEDp].md",
+          "key": "zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
         }
       ],
       "updated": "2026-09-12",
@@ -109819,9 +109840,9 @@
       "url": "/wiki/entities/zhoujulatehan/"
     },
     "ZhouKanWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
@@ -109836,6 +109857,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史 [lhVp37w_0Z8rEbKka6SquGFgLEDp].md",
+          "key": "zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
         }
       ],
       "updated": "2026-09-12",
@@ -110607,6 +110635,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/zhuomaoeasternhan/"
+    },
+    "ZhuyaCommandery": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史 [lhVp37w_0Z8rEbKka6SquGFgLEDp].md",
+          "key": "zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》472｜从“弃置珠崖”到“再入版图”，揭秘海南历史",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-472-cong-qizhi-zhuya-dao-zairu-bantu-jiemi-hainan-lishi-lhvp37w_0z8rebkka6squgfgledp/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhuyacommandery/"
     },
     "ZiMiEasternHan": {
       "episode_count": 1,
