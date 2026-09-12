@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》485丨以身挡熊救皇帝！古代最勇妃子竟是她？](sources/zizhi-tongjian-hanji-485-yi-shen-dang-xiong-jiu-huangdi-gudai-zui-yong-feizi-jing-shi-ta-lqn6f6h7zuvdr62ja3mgufy0anty.md) — 芮淇讲透资治通鉴 episode on Feng Yuan shielding Han Yuandi from a black bear, her promotion to Zhaoyi, Fu Zhaoyi's jealousy, and Tunshi River hydrological background.
 - [《资治通鉴·汉纪》486丨揭秘易学大师京房的官场传奇](sources/zizhi-tongjian-hanji-486-jiemi-yixue-dashi-jingfang-de-guanchang-chuanqi-lk_gg7uparsjgxlt4wquibcm5fpr.md) — 芮淇讲透资治通鉴 episode opening Jing Fang's court story through Yi-learning lineage, Han Yuandi's trust, kaogong debate, disaster-omen warning, and the indirect identification of Shi Xian as the trusted insider behind disorder.
 - [《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！](sources/zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet.md) — 芮淇讲透资治通鉴 episode on Jing Fang's kaogong setup, Shi Xian's transfer of him away from the capital, cancelled return-reporting channel, and power-center proximity as workplace and court survival logic.
 - [《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？](sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah.md) — 芮淇讲透资治通鉴 episode on Jing Fang's death, kaogong reform backlash, Zhang Bo's recorded private speech, Liu Qing's petition channel, and Shi Xian's trust-and-reputation tactics.
@@ -2492,7 +2493,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Pope Leo XIV](entities/PopeLeoXIV.md) — Religious-institutional voice in the All-In AI-governance discussion, summarized as treating AI as a morally non-neutral control problem.
 - [郑崇 / Zheng Chong (Western Han)](entities/ZhengChongWesternHan.md) — Late-Western-Han official whose criticism of Han Aidi's Dong Xian overfavor leads to accusation, imprisonment, and death.
 - [赵昌 / Zhao Chang (Western Han)](entities/ZhaoChangWesternHan.md) — Late-Western-Han Shangshu Ling who turns resentment against Zheng Chong into an accusation after Aidi turns hostile.
-- [冯媛 / Feng Yuan (Western Han)](entities/FengYuanWesternHan.md) — Western Han consort and Zhongshan-king caretaker whose bear-rescue merit becomes the jealousy background for a fatal false-accusation case.
+- [冯媛 / 冯昭仪 / Feng Yuan (Western Han)](entities/FengYuanWesternHan.md) — Western Han consort whose bear-rescue merit brings promotion and favor before becoming the jealousy background for a fatal false-accusation case.
 - [张尤 / Zhang You (Western Han)](entities/ZhangYouWesternHan.md) — Western Han official whose self-protective false report against Feng Yuan opens the Hanji 576 palace prosecution.
 - [史立 / Shi Li (Western Han)](entities/ShiLiWesternHan.md) — Western Han investigator whose coercive inquiry turns Zhang You's report into treason framing, torture, and Feng-family deaths.
 - [孙宝 / Sun Bao (Western Han)](entities/SunBaoWesternHan.md) — Western Han official whose correction pattern spans Feng Yuan's case, Zheng Chong's case, and later refusal of yellow-dragon praise for Wang Mang.
@@ -8786,7 +8787,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Wang Zhengjun / 王政君](entities/WangZhengjun.md) — Western Han empress dowager whose delegated routine authority, marriage approval, household environment, and grants helped Wang Mang's pre-usurpation ascent while her forced seal handover and late ritual resistance exposed Xin's break from Han memory.
 - [黄支国 / Huangzhi Kingdom](entities/HuangzhiKingdom.md) — Distant southern polity whose rhinoceros tribute is used in Hanji 610-1 as Wang Mang prestige theater after gift-backed diplomacy.
 - [傅喜 / Fu Xi (Western Han)](entities/FuXiWesternHan.md) — Fu-family figure whose refusal to follow Fu Taihou's title line first exposes him to removal, then helps distinguish him from the Fu/Ding cleanup.
-- [傅昭仪 / Fu Zhaoyi (Western Han)](entities/FuZhaoyiWesternHan.md) — Favored Han Yuandi consort whose bedside proximity with Liu Kang helps create Hanji 498's late succession pressure.
+- [傅昭仪 / Fu Zhaoyi (Western Han)](entities/FuZhaoyiWesternHan.md) — Favored Han Yuandi consort whose profile spans jealousy after Feng Yuan's bear-rescue promotion and later bedside proximity with Liu Kang.
 - [傅太后 / Fu Taihou (Western Han)](entities/FuTaihouWesternHan.md) — Western Han consort-side power figure whose record spans jealousy-backed prosecution, title pressure, personnel retaliation, household privilege, death, and later tomb prosecution.
 - [傅晏 / Fu Yan (Western Han)](entities/FuYanWesternHan.md) — Late-Aidi court actor who flatters Fu Taihou in the title dispute and later joins Xi Fu Gong in merit-making security escalation.
 - [何武 / He Wu (Western Han)](entities/HeWuWesternHan.md) — Western Han official whose profile now spans the断剑 inheritance judgment, Aidi-era removal, Wang Jia-backed restoration, and failed anti-outer-relative recommendation.

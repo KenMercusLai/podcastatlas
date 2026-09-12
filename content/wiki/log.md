@@ -17736,6 +17736,11 @@ Added source note and updated Shi Xian, Feng Yewang, Zhang Tan, and Trusted Eunu
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | 《资治通鉴·汉纪》485丨以身挡熊救皇帝！古代最勇妃子竟是她？
+
+- Added source note for Feng Yuan's bear rescue, promotion to Zhaoyi, Fu Zhaoyi's jealousy setup, and Tunshi River background.
+- Updated Feng Yuan, Fu Zhaoyi, and Preventive Flood Governance.
+
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！
 
 - Added source note for the Jing Fang kaogong setup before Hanji 488.
@@ -18202,6 +18207,10 @@ Ran lint. See lint-report.md for details.
 
 - Source: wiki/sources/zizhi-tongjian-hanji-486-jiemi-yixue-dashi-jingfang-de-guanchang-chuanqi-lk_gg7uparsjgxlt4wquibcm5fpr.md
 - Updated: wiki/entities/JingFang.md, wiki/concepts/KaogongfaReformBacklash.md, wiki/index.md
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 
