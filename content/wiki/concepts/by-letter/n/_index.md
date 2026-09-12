@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7249
+wiki_total_pages: 7250
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -422,6 +422,9 @@ wiki_pages:
   - key: "NortheastModernityTestSite"
     title: "东北现代性试验场 / Northeast Modernity Test Site"
     url: "/wiki/concepts/northeastmodernitytestsite/"
+  - key: "NarrativeReframingAsPoliticalAttack"
+    title: "叙事改写式政治攻击 / Narrative Reframing as Political Attack"
+    url: "/wiki/concepts/narrativereframingaspoliticalattack/"
   - key: "NominalTitleInflation"
     title: "名义爵位通胀 / Nominal Title Inflation"
     url: "/wiki/concepts/nominaltitleinflation/"

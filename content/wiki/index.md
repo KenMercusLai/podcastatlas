@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》451｜儒者萧望之：谁优秀我就弄死谁!](sources/zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's death, Xiao Wangzhi's investigation and narrative reframing, Bing Ji's de-escalation attempt, and Emperor Xuan's punishment-severity blemish.
 - [《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？](sources/zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj.md) — 芮淇讲透资治通鉴 episode on Huang Ba mistaking Zhang Chang's heque bird for a divine omen, Zhang's warning about false local performance signals, and Bing Ji as a quiet-merit contrast.
 - [《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场](sources/zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx.md) — 芮淇讲透资治通鉴 episode on Huang Ba recommending Shi Gao for taiwei, Han Xuan's rebuke over personnel and military authority, and the workplace boundary around sensitive appointment advice.
 - [《资治通鉴·汉纪》456-1｜以命祭皇位！揭秘汉武帝最奇葩儿子](sources/zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5.md) — 芮淇讲透资治通鉴 episode on Guangling king Liu Xu's curse-based succession fantasy, Huhanye's submission note, and Geng Shouchang's grain transport and Changping granary reforms.
@@ -2360,6 +2361,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [魏征 / Wei Zheng (Tang)](entities/WeiZhengTang.md) — Tang direct-remonstrance contrast in Hanji 467.
 - [范仲淹 / Fan Zhongyan](entities/FanZhongyan.md) — Song official-conscience contrast in Hanji 467.
 - [唐太宗 / Emperor Taizong of Tang](entities/EmperorTaizongOfTang.md) — ruler-side condition for Wei Zheng's remonstrance in Hanji 467.
+- [韩延寿 / Han Yanshou (Western Han)](entities/HanYanshouWesternHan.md) — Western Han local-governance official whose real old-account exposure, public affection, and Xiao Wangzhi-shaped death case deepen Emperor Xuan's punishment-severity blemish.
 - [华龙 / Hua Long (Western Han)](entities/HuaLongWesternHan.md) — Western Han accuser who joins Zheng Peng in the first Xiao Wangzhi case.
 - [许章 / Xu Zhang (Western Han)](entities/XuZhangWesternHan.md) — Western Han court actor on Shi Gao's side of Zheng Peng's accusation reversal.
 - [张敞 / Zhang Chang (Western Han)](entities/ZhangChangWesternHan.md) — Western Han public-order official whose strong anti-bandit ability is complicated by his anger-driven execution of Xu Shun and later teacher-suitability doubts.
@@ -12257,6 +12259,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [叙事改写式政治攻击 / Narrative Reframing as Political Attack](concepts/NarrativeReframingAsPoliticalAttack.md) — Court-politics tactic where a dispute is recategorized as obstruction, disloyalty, or threat before the ruler judges the evidence.
 - [Sensitive Personnel Recommendation Boundary](concepts/SensitivePersonnelRecommendationBoundary.md) — authority boundary around unsolicited advice on high-level personnel appointments, especially military-linked or inner-circle posts.
 - [宗室巫术夺位幻想 / Royal Witchcraft Succession Delusion](concepts/RoyalWitchcraftSuccessionDelusion.md) — Royal-kin pattern where occult harm substitutes for open succession action and coincidence is misread as political efficacy.
 - [长平仓制度 / Changping Granary System](concepts/ChangpingGranarySystem.md) — Public grain-reserve policy that buys when grain is cheap and sells when grain is dear to buffer farmers, consumers, and scarcity risk.

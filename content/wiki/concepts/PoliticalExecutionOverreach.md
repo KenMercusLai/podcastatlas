@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [court-politics, punishment, legitimacy, western-han]
 sources:
   - zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm
+  - zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa
 last_updated: 2026-09-13
 ---
 
@@ -16,6 +17,8 @@ last_updated: 2026-09-13
 
 [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] grounds the concept through [[YangYunWesternHan|杨恽]]'s death under [[EmperorXuanOfHan|汉宣帝]]. The episode does not exonerate Yang Yun: it stresses his resentment, high-profile conduct, and dangerous letter after losing office. But it also follows [[SimaGuang|司马光]] in treating the execution as disproportionate and politically damaging.
 
+The Han Yanshou branch supplies a more detailed case behind one name in that Sima Guang critique. Han is not portrayed as spotless: his East Commandery spending violations are treated as real. The overreach concern comes from escalation: [[BingJiWesternHan|丙吉]] initially wants to stop under the amnesty, [[XiaoWangzhiWesternHan|萧望之]] presses forward and reframes Han's counteraccusation, and Xuan approves death despite public grief over a capable local official.
+
 The concept is therefore not the claim that punished officials are always innocent. Its core distinction is between guilt and death-worthiness. A ruler can be broadly effective and still create a stain when punishment turns imprudence, bluntness, or offense against superiors into irreversible public killing.
 
 ## Key Claims
@@ -25,6 +28,7 @@ The concept is therefore not the claim that punished officials are always innoce
 - Public conviction matters; punishment that people cannot accept weakens the moral force of law.
 - Capable or upright officials create especially costly cases because killing them can look like eliminating useful criticism.
 - The concept preserves both sides of Hanji 457: Yang Yun's imprudence and Xuan's punitive overreach.
+- The Han Yanshou case extends the concept from dangerous speech to administrative old-account exposure, failed counteraccusation, and discretionary escalation.
 
 ## Evidence
 
@@ -36,17 +40,25 @@ Sima Guang's critique:
 - [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] cites Sima Guang's view that killing Zhao Guanghan, Gai Kuangrao, Han Yanshou, and Yang Yun did not make public opinion submit.
 - [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Sima Guang treated those deaths as the largest blemish in Xuan's good government.
 
+Han Yanshou case:
+- [[zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa|Hanji 451]] says Han Yanshou had real East Commandery spending violations but also strong local reputation and public affection.
+- [[zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa|Hanji 451]] says Bing Ji tries to drop the case after the amnesty, making Xiao's continued pursuit a discretionary escalation.
+- [[zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa|Hanji 451]] says Xuan approves beheading after Han's false counteraccusation is combined with the old-account violations.
+
 ## Counterevidence & Qualifications
 
-This concept does not deny that Yang Yun's behavior was politically dangerous. The source explicitly presents his failure to heed warnings and his written mockery as real causes of exposure. The overreach judgment is a proportionality claim, not an innocence claim, and it remains source-scoped to Hanji 457 until more execution cases are integrated.
+This concept does not deny that Yang Yun's behavior was politically dangerous or that Han Yanshou had real old-account exposure. The sources explicitly present real causes of exposure in both cases. The overreach judgment is a proportionality claim, not an innocence claim, and the current page remains source-scoped to Hanji 457's Sima Guang frame plus Hanji 451's Han Yanshou case. Zhao Guanghan and Gai Kuangrao remain names in the critique until direct source notes are integrated.
 
 ## What Changed
 
+- Added Hanji 451's Han Yanshou case, extending the concept from Yang Yun's dangerous speech to a capable official's old-account case and politically shaped death sentence.
 - Created the concept from Hanji 457's Sima Guang-backed critique of Emperor Xuan's punishment severity.
 
 ## Related Concepts
 
 - [[CollateralPunishmentAndGuiltByAssociation]] - related because Yang Yun's family and associates are punished along with him.
+- [[HanYanshouWesternHan]] - case where real misconduct and local virtue coexist with discretionary capital punishment.
+- [[NarrativeReframingAsPoliticalAttack]] - upstream mechanism in Han Yanshou's case.
 - [[MeritBasedRewardPunishment]] - contrast concept because proportional reward and punishment can fail when anger or suspicion controls sentencing.
 - [[PrivateLetterPoliticalWeaponization]] - mechanism that supplies evidence for punishment in Yang Yun's case.
 - [[DirectRemonstranceCriminalization]] - adjacent pattern where speech against power becomes punishable offense.
