@@ -3515,6 +3515,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/accessiontimingcoalitionsignal/"
     },
+    "AccumulatedEnmityDefaultSuspicion": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了 [lnrmyJyeP_XheN3Lmzu2_yhtSuxb].md",
+          "key": "zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/accumulatedenmitydefaultsuspicion/"
+    },
     "AccusationQuotaRefusal": {
       "episode_count": 1,
       "show_count": 1,
@@ -20982,6 +20998,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/dahuatechnology/"
+    },
+    "DaiChangleWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了 [lnrmyJyeP_XheN3Lmzu2_yhtSuxb].md",
+          "key": "zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/daichanglewesternhan/"
     },
     "DaiLiangLateHan": {
       "episode_count": 1,
@@ -106764,9 +106796,9 @@
       "url": "/wiki/entities/yangyuanqunlatehan/"
     },
     "YangYunWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？ [lpCFRHEwqMmEXB3oFG18IqbDssLM].md",
@@ -106774,6 +106806,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》457｜汉宣帝心胸狭隘？《史记》功臣杨恽因何而死？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了 [lnrmyJyeP_XheN3Lmzu2_yhtSuxb].md",
+          "key": "zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb/"
         }
       ],
       "updated": "2026-09-13",

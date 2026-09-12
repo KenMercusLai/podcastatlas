@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9916
+wiki_total_pages: 9917
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"

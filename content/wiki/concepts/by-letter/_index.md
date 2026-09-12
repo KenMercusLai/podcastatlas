@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7252
+wiki_total_pages: 7253
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2345,6 +2345,9 @@ wiki_pages:
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"
+  - key: "AccumulatedEnmityDefaultSuspicion"
+    title: "积怨式默认怀疑 / Accumulated Enmity Default Suspicion"
+    url: "/wiki/concepts/accumulatedenmitydefaultsuspicion/"
   - key: "AccessionTimingCoalitionSignal"
     title: "称帝时机与拥戴信号 / Accession Timing Coalition Signal"
     url: "/wiki/concepts/accessiontimingcoalitionsignal/"

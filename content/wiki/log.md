@@ -18518,6 +18518,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》453｜官场启示录：同事捅你前，必然忍你很久了
+
+Added source `zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb`; created `DaiChangleWesternHan` and `AccumulatedEnmityDefaultSuspicion`; updated `YangYunWesternHan`, `index`, and `overview`. No settled contradiction found; Dai's original accuser, Dai's offense, Yu Dingguo's motive, and the legal force of omen language remain source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗
 
 Added source note, updated Xiao Wangzhi, Bing Ji, Emperor Xuan, Huhanye Chanyu, Xiongnu succession fragmentation, and created Relational Disrespect Power Risk.
@@ -18667,6 +18671,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》456-3｜让你处世更上一个境界！老子教你千古智慧
 
 Added source note plus Laozi, Confucius, Daodejing, and Daoist cultivation concept updates. Key claims: Laozi critiques forced renyi as potentially disturbing nature, teaches natural wuwei and observing sameness, and reframes life/death, right/wrong, noble/low, and honor/disgrace as changing states within the Way.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
