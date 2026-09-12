@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1831
+topic_total_pages: 1832
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -2978,15 +2978,15 @@ topic_entities:
   - key: "ZhangAo"
     title: "张敖 / Zhang Ao"
     url: "/wiki/entities/zhangao/"
+  - key: "ZhangMengWesternHan"
+    title: "张猛 / 张萌 / Zhang Meng (Western Han)"
+    url: "/wiki/entities/zhangmengwesternhan/"
   - key: "ZhangEr"
     title: "张耳 / Zhang Er"
     url: "/wiki/entities/zhanger/"
   - key: "ZhangLiang"
     title: "张良 / Zhang Liang"
     url: "/wiki/entities/zhangliang/"
-  - key: "ZhangMengWesternHan"
-    title: "张萌 / Zhang Meng (Western Han)"
-    url: "/wiki/entities/zhangmengwesternhan/"
   - key: "ZhangTanWesternHan"
     title: "张谭 / Zhang Tan (Western Han)"
     url: "/wiki/entities/zhangtanwesternhan/"
@@ -3803,6 +3803,9 @@ topic_entities:
   - key: "XueXuanWesternHan"
     title: "薛宣 / Xue Xuan (Western Han)"
     url: "/wiki/entities/xuexuanwesternhan/"
+  - key: "XueGuangdeWesternHan"
+    title: "薛广德 / Xue Guangde (Western Han)"
+    url: "/wiki/entities/xueguangdewesternhan/"
   - key: "XueHuiWesternHan"
     title: "薛惠 / Xue Hui (Western Han)"
     url: "/wiki/entities/xuehuiwesternhan/"

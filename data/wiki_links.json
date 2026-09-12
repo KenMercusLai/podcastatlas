@@ -20467,6 +20467,10 @@
     "title": "Face-Project Governance / 面子工程式治理",
     "url": "/wiki/concepts/faceprojectgovernance/"
   },
+  "FaceSavingRemonstrance": {
+    "title": "留面子式进谏包装 / Face-Saving Remonstrance",
+    "url": "/wiki/concepts/facesavingremonstrance/"
+  },
   "FaceSavingSubmissionFailure": {
     "title": "保面子式归降失败 / Face-Saving Submission Failure",
     "url": "/wiki/concepts/facesavingsubmissionfailure/"
@@ -50379,6 +50383,10 @@
     "title": "Responsibility-Avoidant Killing / 避责式杀害",
     "url": "/wiki/concepts/responsibilityavoidantkilling/"
   },
+  "ResponsibilityBoundRiskAvoidance": {
+    "title": "责任绑定风险回避 / Responsibility-Bound Risk Avoidance",
+    "url": "/wiki/concepts/responsibilityboundriskavoidance/"
+  },
   "ResponsibilityVsGuilt": {
     "title": "Responsibility Versus Guilt / 责任与罪行区分",
     "url": "/wiki/concepts/responsibilityvsguilt/"
@@ -65807,6 +65815,10 @@
     "title": "薛公 / Xue Gong (Han adviser)",
     "url": "/wiki/entities/xuegonghanadviser/"
   },
+  "XueGuangdeWesternHan": {
+    "title": "薛广德 / Xue Guangde (Western Han)",
+    "url": "/wiki/entities/xueguangdewesternhan/"
+  },
   "XueHuiWesternHan": {
     "title": "薛惠 / Xue Hui (Western Han)",
     "url": "/wiki/entities/xuehuiwesternhan/"
@@ -67952,7 +67964,7 @@
     "url": "/wiki/entities/zhangmanchenglatehan/"
   },
   "ZhangMengWesternHan": {
-    "title": "张萌 / Zhang Meng (Western Han)",
+    "title": "张猛 / 张萌 / Zhang Meng (Western Han)",
     "url": "/wiki/entities/zhangmengwesternhan/"
   },
   "ZhangMiaoLateHan": {
@@ -74450,6 +74462,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj": {
+    "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
   },
   "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h": {
     "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",

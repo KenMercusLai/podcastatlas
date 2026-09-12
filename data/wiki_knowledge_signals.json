@@ -30430,6 +30430,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/faceprojectgovernance/"
     },
+    "FaceSavingRemonstrance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？ [lj9b1RAZ_RJhIJw17vxGsP6rAcuJ].md",
+          "key": "zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/facesavingremonstrance/"
+    },
     "FaceSavingSubmissionFailure": {
       "episode_count": 3,
       "show_count": 1,
@@ -41372,9 +41388,9 @@
       "url": "/wiki/entities/hanyandirector/"
     },
     "HanYuandi": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》592丨汉代丞相是如何评价前BOSS的？ [lnCDT3L6lK1hFXuPUxtI_DsJh9u5].md",
@@ -41459,6 +41475,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场",
           "url": "/wiki/sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？ [lj9b1RAZ_RJhIJw17vxGsP6rAcuJ].md",
+          "key": "zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
         }
       ],
       "updated": "2026-09-12",
@@ -78778,6 +78801,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/respectbasedconflictdeescalation/"
     },
+    "ResponsibilityBoundRiskAvoidance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？ [lj9b1RAZ_RJhIJw17vxGsP6rAcuJ].md",
+          "key": "zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/responsibilityboundriskavoidance/"
+    },
     "RestaurantDeliveryExtension": {
       "episode_count": 1,
       "show_count": 1,
@@ -102833,6 +102872,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/entities/xuefangxinrecluse/"
     },
+    "XueGuangdeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？ [lj9b1RAZ_RJhIJw17vxGsP6rAcuJ].md",
+          "key": "zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/xueguangdewesternhan/"
+    },
     "XueHuiWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -107034,9 +107089,9 @@
       "url": "/wiki/entities/zhanglufivepecks/"
     },
     "ZhangMengWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
@@ -107051,6 +107106,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？ [lj9b1RAZ_RJhIJw17vxGsP6rAcuJ].md",
+          "key": "zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj/"
         }
       ],
       "updated": "2026-09-12",

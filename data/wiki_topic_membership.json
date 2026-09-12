@@ -56254,6 +56254,13 @@
       "url": "/topics/science/"
     }
   ],
+  "ResponsibilityBoundRiskAvoidance": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ResponsibilityVsGuilt": [
     {
       "key": "politics",
@@ -73859,6 +73866,13 @@
     }
   ],
   "XueGong": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
+  "XueGuangdeWesternHan": [
     {
       "key": "history",
       "label": "History",

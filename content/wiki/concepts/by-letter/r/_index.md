@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7195
+wiki_total_pages: 7197
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1055,6 +1055,9 @@ wiki_pages:
   - key: "RumorDrivenFrontierIntervention"
     title: "谣言驱动的边疆干预 / Rumor-Driven Frontier Intervention"
     url: "/wiki/concepts/rumordrivenfrontierintervention/"
+  - key: "ResponsibilityBoundRiskAvoidance"
+    title: "责任绑定风险回避 / Responsibility-Bound Risk Avoidance"
+    url: "/wiki/concepts/responsibilityboundriskavoidance/"
   - key: "RebelCoalitionSpoilsCrisis"
     title: "起义联军战利品危机 / Rebel Coalition Spoils Crisis"
     url: "/wiki/concepts/rebelcoalitionspoilscrisis/"

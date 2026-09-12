@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？](sources/zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj.md) — 芮淇讲透资治通鉴 episode on Xue Guangde's coercive remonstrance, Zhang Meng's face-saving correction, Han Yuandi's famine-era conduct, and responsibility-bound risk avoidance.
 - [《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！](sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h.md) — 芮淇讲透资治通鉴 episode on Yang Xing, Zhuge Feng, Zheng Peng, and Gong Yu as opportunistic court-alignment types around Han Yuandi, Zhou Kan, Zhang Meng, Shi Xian, and safe-but-evasive advice.
 - [OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze](sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215.md) — All-In episode on OpenAI missed targets, Codex versus Claude Code, AI cyber models, hyperscaler capex, retatrutide, and Monsanto/Roundup preemption.
 - [《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场](sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el.md) — 芮淇讲透资治通鉴 episode on Jia Juanzhi and Yang Xing's failed praise-for-promotion scheme around Shi Xian, Han Yuandi's personnel authority, and the danger of bargaining over senior appointments.
@@ -2304,6 +2305,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [薛广德 / Xue Guangde (Western Han)](entities/XueGuangdeWesternHan.md) — Western Han Yushi Dafu whose loyal but coercive remonstrance is contrasted with Zhang Meng's face-saving advice.
 - [Bayer](entities/Bayer.md) — Pharmaceutical and agriculture company exposed to Monsanto/Roundup litigation in the All-In source.
 - [GPT 5.5 Cyber](entities/GPT55Cyber.md) — OpenAI cyber model discussed as a specialist vulnerability-discovery and simulation capability.
 - [Monsanto](entities/Monsanto.md) — Legacy agricultural company connected to Roundup and pesticide-label preemption litigation.
@@ -3943,7 +3945,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [徐宣 / Xu Xuan (late Han magistrate)](entities/XuXuanLateHan.md) — Xiapi magistrate whose failed concubine demand escalates into household killing.
 - [周福 / Zhou Fu (late Han)](entities/ZhouFuLateHan.md) — Ganling teacher-official whose promotion after teaching Emperor Huan becomes one pole of an early party-line rivalry.
 - [周堪 / Zhou Kan (Western Han)](entities/ZhouKanWesternHan.md) — Western Han official recalled after disaster blame weakens, but neutralized because Shi Xian controls the memorial channel around Han Yuandi.
-- [张萌 / Zhang Meng (Western Han)](entities/ZhangMengWesternHan.md) — Western Han official recalled with Zhou Kan, then destroyed by Shi Xian's accusations despite restored rank.
+- [张猛 / 张萌 / Zhang Meng (Western Han)](entities/ZhangMengWesternHan.md) — Western Han official who reframes Xue Guangde's warning, later is recalled with Zhou Kan and destroyed by Shi Xian's accusations despite restored rank.
 - [房植 / Fang Zhi (late Han)](entities/FangZhiLateHan.md) — Ganling official whose reputation for standards becomes the rival pole to Zhou Fu's imperial-teacher advancement.
 - [宗资 / Zong Zi (late Han)](entities/ZongZiLateHan.md) — Late-Han official whose profile now joins Taishan bandit suppression with later Runan delegation to Fan Pang.
 - [成瑨 / Cheng Jin (late Han)](entities/ChengJinLateHan.md) — Nanyang administrator whose punishment of Zhang Fan rebounds into eunuch-backed imprisonment and later prison death.
@@ -12180,6 +12182,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [留面子式进谏包装 / Face-Saving Remonstrance](concepts/FaceSavingRemonstrance.md) — corrective speech that preserves the listener's dignity while still delivering substantive advice.
+- [责任绑定风险回避 / Responsibility-Bound Risk Avoidance](concepts/ResponsibilityBoundRiskAvoidance.md) — risk principle that public responsibility reduces the amount of avoidable physical danger an actor should accept.
 - [投机型朝堂站队 / Opportunistic Court Alignment](concepts/OpportunisticCourtAlignment.md) — Pattern where praise, accusation, advice, or factional attachment shifts according to perceived advantage rather than principle, evidence, or role boundaries.
 - [Chevron Doctrine](concepts/ChevronDoctrine.md) — Administrative-law deference doctrine referenced in the Roundup preemption discussion.
 - [OpenAI Nonprofit Conversion Dispute](concepts/OpenAINonprofitConversionDispute.md) — Governance and litigation dispute over OpenAI's nonprofit origins and for-profit conversion.

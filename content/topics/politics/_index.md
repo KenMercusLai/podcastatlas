@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2429
+topic_total_pages: 2430
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4006,6 +4006,9 @@ topic_concepts:
   - key: "FiscalExtractionRebellionSpiral"
     title: "财政压榨叛乱螺旋 / Fiscal Extraction Rebellion Spiral"
     url: "/wiki/concepts/fiscalextractionrebellionspiral/"
+  - key: "ResponsibilityBoundRiskAvoidance"
+    title: "责任绑定风险回避 / Responsibility-Bound Risk Avoidance"
+    url: "/wiki/concepts/responsibilityboundriskavoidance/"
   - key: "PovertyMemoryCorruptionExcuse"
     title: "贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse"
     url: "/wiki/concepts/povertymemorycorruptionexcuse/"

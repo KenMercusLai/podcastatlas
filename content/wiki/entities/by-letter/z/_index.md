@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9872
+wiki_total_pages: 9873
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -803,6 +803,9 @@ wiki_pages:
   - key: "ZhangMuLateHan"
     title: "张牧 / Zhang Mu (late Han)"
     url: "/wiki/entities/zhangmulatehan/"
+  - key: "ZhangMengWesternHan"
+    title: "张猛 / 张萌 / Zhang Meng (Western Han)"
+    url: "/wiki/entities/zhangmengwesternhan/"
   - key: "ZhangXianLateHan"
     title: "张献 / Zhang Xian (late Han)"
     url: "/wiki/entities/zhangxianlatehan/"
@@ -875,9 +878,6 @@ wiki_pages:
   - key: "ZhangFanLateHan"
     title: "张范 / Zhang Fan (late Han)"
     url: "/wiki/entities/zhangfanlatehan/"
-  - key: "ZhangMengWesternHan"
-    title: "张萌 / Zhang Meng (Western Han)"
-    url: "/wiki/entities/zhangmengwesternhan/"
   - key: "ZhangYanHedongLateHan"
     title: "张衍 / Zhang Yan (Hedong-Hongnong actor)"
     url: "/wiki/entities/zhangyanhedonglatehan/"
