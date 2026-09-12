@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？](sources/zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw.md) — 芮淇讲透资治通鉴 episode on early Han Yuandi factional politics, Xiao Wangzhi's anti-Zhongshu-eunuch memorial, Shi Gao and eunuch alignment, and Zheng Peng's first attachment to Xiao's side.
 - [《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场](sources/zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho.md) — 芮淇讲透资治通鉴 episode on Zheng Peng's betrayal of Xiao Wangzhi, the Tingwei custody trap, Han Yuandi's face-saving pardon, and the setup for Xiao's fatal vindication conflict.
 - [蔡康永×罗永浩！在残酷的世界寻找自在与和解、保持慈悲与真实](sources/caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1.md) — 罗永浩的十字路口 interview with Cai Kangyong on Kangxi Laile, aging, AI creativity, grief ritual, death normalization, written art, and life meaning.
 - [CA Governor Candidate Steve Hilton on Why California is Destroying Itself & How a Republican Can Win](sources/all-in-with-chamath-jason-sacks-friedberg-ca-governor-candidate-steve-hilton-on-why-california-is-destroying-itself-how-a-republican-can-win-41057000.md) — All-In interview with Steve Hilton on his California governor campaign, affordability tax plan, CalDOGE, housing costs, energy permitting, schools, crime, homelessness, and blue-state Republican electoral math.
@@ -2364,8 +2365,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [杨兴 / Yang Xing (Western Han)](entities/YangXingWesternHan.md) — Jia Juanzhi's friend and co-schemer in the failed Shi Xian praise and Jingzhao Yin recommendation case.
 - [贡禹 / Gong Yu (Western Han)](entities/GongYuWesternHan.md) — Respected Confucian scholar whose reputation Shi Xian courts after Xiao Wangzhi's death.
 - [诸葛丰 / Zhuge Feng (Western Han)](entities/ZhugeFengWesternHan.md) — Western Han official whose reversal from praise to denunciation becomes a warning about unreliable political speech.
-- [郑朋 / Zheng Peng (Western Han)](entities/ZhengPengWesternHan.md) — Western Han court actor whose rejected attachment to Xiao Wangzhi turns into resentment-driven accusation through Shi Gao's side.
-- [史高 / Shi Gao (Western Han)](entities/ShiGaoWesternHan.md) — Western Han outer-relative actor who channels disaster-blame and Zheng Peng's accusations against Xiao Wangzhi's side.
+- [郑朋 / Zheng Peng (Western Han)](entities/ZhengPengWesternHan.md) — Western Han court actor whose rewarded attachment to Xiao Wangzhi's side later turns into resentment-driven accusation through Shi Gao's side.
+- [史高 / Shi Gao (Western Han)](entities/ShiGaoWesternHan.md) — Western Han outer-relative actor whose regent-side influence is challenged by Xiao Wangzhi's bloc before he channels disaster-blame and Zheng Peng's accusations.
 - [冯奉世 / Feng Fengshi (Western Han)](entities/FengFengshiWesternHan.md) — Western Han right general whose Longxi Qiang proposal and victory link troop scale, deterrence, logistics, quick resolution, and managerial decisiveness.
 - [贤解羌 / Xianjie Qiang (Western Han)](entities/XianjieQiangWesternHan.md) — Qiang rebel actor in the 42 BCE Longxi crisis that tests Han Yuandi's force-size decision.
 - [冯勋 / Feng Xun (Western Han)](entities/FengXunWesternHan.md) — Feng-family figure whose warning to Han Yuandi about Shi Xian backfires.
@@ -2376,7 +2377,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [高福波 / Gao Fubo](entities/GaoFubo.md) — Contemporary corruption example used to reject "穷怕了" as an excuse.
 - [石显 / Shi Xian (Western Han)](entities/ShiXianWesternHan.md) — Yuan-era eunuch power holder whose slander, trust formation, reward opposition, and collapse create feedback, cleanup, office-vacancy, and predecessor-blame problems.
 - [张谭 / Zhang Tan (Western Han)](entities/ZhangTanWesternHan.md) — Yushi Dafu paired with Kuang Heng in Wang Zun's early-Chengdi impeachment after Shi Xian's fall.
-- [萧望之 / Xiao Wangzhi (Western Han)](entities/XiaoWangzhiWesternHan.md) — Han Yuandi's teacher and early anti-Shi-Xian opponent whose suicide follows vindication politics, eunuch manipulation, and reputation-first judgment.
+- [萧望之 / Xiao Wangzhi (Western Han)](entities/XiaoWangzhiWesternHan.md) — Han Yuandi's teacher and early anti-eunuch opponent whose anti-Zhongshu memorial, Zheng Peng misjudgment, and suicide show reputation-first political failure.
 - [Huhanye Chanyu (Western Han)](entities/HuhanyeChanyuWesternHan.md) — Western Han Xiongnu ruler whose profile now spans a Hanji 493 border-defense withdrawal request and a Hanji 504 succession settlement.
 - [侯胤 / Hou Yin (Western Han)](entities/HouYinWesternHan.md) — Western Han official whose ten-part objection to withdrawing frontier defenses links Xiongnu submission, future leverage, border governance, and accumulated strategic infrastructure.
 - [Fuzhulei Ruodi Chanyu](entities/FuzhuleiRuodiChanyu.md) — Xiongnu successor Diaotao Mogao, chosen by Huhanye and later married to Wang Zhaojun in Hanji 504.
