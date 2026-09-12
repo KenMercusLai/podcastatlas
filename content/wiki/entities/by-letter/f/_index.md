@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "f"
-wiki_total_pages: 9847
+wiki_total_pages: 9849
 wiki_pages:
   - key: "FIFAWorldCup1934"
     title: "1934 FIFA World Cup"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "FangWangGengshi"
     title: "方望 / Fang Wang (Gengshi)"
     url: "/wiki/entities/fangwanggengshi/"
+  - key: "FangYanWealth"
+    title: "方言 / Fang Yan"
+    url: "/wiki/entities/fangyanwealth/"
   - key: "FuZhiLateHan"
     title: "服直 / Fu Zhi (late Han)"
     url: "/wiki/entities/fuzhilatehan/"

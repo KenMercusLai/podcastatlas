@@ -14,14 +14,15 @@ sources:
   - no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht
   - no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni
   - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
-last_updated: 2026-09-09
+  - no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper
+last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
 
 # 三五环
 
 ## Overview
-三五环 is [[LiuFei|刘飞]]'s podcast context in the wiki, now represented as an ecosystem reference and a recurring venue for practitioner interviews about AI-era creation, internet expression, platform operations, original IP, productized business workflows, commerce rights, marketing science, technology communities, and niche media businesses.
+三五环 is [[LiuFei|刘飞]]'s podcast context in the wiki, now represented as an ecosystem reference and a recurring venue for practitioner interviews about AI-era creation, internet expression, platform operations, original IP, productized business workflows, commerce rights, marketing science, technology communities, niche media businesses, and wealth after success.
 
 ## Current Profile
 The earlier source only located 三五环 as Liu's adjacent show beside [[Banlatte|半拿铁]]. The Wu Hankun and Chouxiangzai episodes give it a concrete editorial surface for long-form conversations about product work, AI tools, creator identity, internet expression, and industry change through practitioner experience rather than news roundup alone.
@@ -42,6 +43,8 @@ The Cheng/Chen Hongning episode adds a founder-operator manufacturing branch thr
 
 The [[Sspai|少数派]] episode adds a technology-community history branch through [[LaoMaiSspai|老麦 / Michael]]. It moves the show backward from current AI and platform operations into Palm, [[WebOS|webOS]], [[ZhiJiWang|主机网]], early app recommendation, author incentives, paid content, product co-creation, offline spaces, and [[NicheCommunityValue|小众社区价值]].
 
+The [[SecondDayMoneyEvolution|《第二天金钱进化论》]] episode adds a wealth-after-success branch through [[FangYanWealth|方言]]. It keeps the show's practitioner-interview pattern but shifts from product and platform operations into [[SuddenWealthRepovertyRisk]], lifestyle inflation, wealth-circle pressure, family stability, and the idea that money should buy time rather than become identity.
+
 ## Key Characteristics
 - It is associated with [[LiuFei|刘飞]] as a host/creator context.
 - Its Wu Hankun episode treats AI through workflow detail rather than only capability hype.
@@ -49,7 +52,7 @@ The [[Sspai|少数派]] episode adds a technology-community history branch throu
 - Its 易小星/粉墨 and Hanqing episodes treat AI-native creative work through actual short-film production, original IP, personality systems, music/video workflow, and interaction risk.
 - Its Douyin ecommerce episode treats AI-enabled infringement as a platform operations, rights, authorization, and consumer-confusion problem.
 - Its Kuaishou episode treats content seeding as marketing science, user-path reconstruction, and brand-performance integration rather than only advertising jargon.
-- It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, hardware operations, community trust, and user responsibility.
+- It can use former internet-company and founder-operator context to explain platform safety, governance, customer workflow, marketing paths, hardware operations, community trust, user responsibility, and wealth-related life design.
 
 ## Evidence
 - Show association - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] names 三五环 as Liu Fei's other podcast context.
@@ -63,6 +66,7 @@ The [[Sspai|少数派]] episode adds a technology-community history branch throu
 - Marketing-science interview - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] is a 三五环 episode with Liu interviewing [[LiuXiaoweiMarketing|刘晓微]] on [[Kuaishou]], seeded audiences, search/store/live-room signals, and brand-performance integration.
 - Founder-operator manufacturing interview - [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] is a 三五环 episode with Liu interviewing [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] on [[YuzhouEBike|宇宙 E-Bike]], electric-assist bicycle strategy, investor-to-operator learning, and AI-native manufacturing.
 - Technology-community interview - [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]] is a 三五环 episode with Liu interviewing [[LaoMaiSspai|老麦 / Michael]] on [[Palm]], [[WebOS|webOS]], [[ZhiJiWang|主机网]], [[Sspai|少数派]], app recommendation, author incentives, product co-creation, and AI-era human experience.
+- Wealth-after-success interview - [[no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper]] is a 三五环 episode with Liu interviewing [[FangYanWealth|方言]] on [[SecondDayMoneyEvolution|《第二天金钱进化论》]], [[SuddenWealthRepovertyRisk]], value-investing life philosophy, lifestyle inflation, and time freedom.
 - Workflow focus - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]] uses concrete production details around [[PinkParadox|《粉色悖论》]] and [[PopulationAnomaly|《人口异常》]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]] uses concrete account, team, client, and short-drama workflow examples, and [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]] uses concrete model-orchestration, personality, music, image, and dialogue-risk examples.
 - Product-cultural bridge - [[no-232-wuhankun-ai-shidai-yanyuan-diyige-diufanwan-gkwriw4oa148aw4mzwtp-xj]], [[no-231-chouxiangzi-cong-hangpai-zhongguo-dao-xin-yuanyang-hudie-meng-zhongxin-yong-ai-xuexi-hulianwang-biaoda-gkwrijeoy3bqaz64eatmgx81]], [[no-225-duihua-yuri-youlidazaozhe-hanqing-ai-xuni-ouxiang-yuexiang-zhenren-yue-rongyi-tafang-gkwriueomqfbazcgtas5lerj]], [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]], [[no-228-duihua-didi-quxiaonan-pa-ni-juede-women-bu-anquan-geng-pa-ni-juede-women-juedui-anquan-gkwriueor0j1ayqkyatbzbpi]], [[no-226-ai-yueqiang-chuangyezhe-yueyao-huidao-yonghu-xianchang-gkwrijionp-cayktqgs6szvt]], [[no-224-yong-ai-tou-mingxing-shengyin-he-xingxiang-qinquan-maihuo-zhibojian-gai-zenme-guan-gkwrijioio1wawwtsasyzh1d]], and [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] connect tools, product thinking, platform behavior, human judgment, user responsibility, customer workflow, original IP, rights governance, community history, and hardware operations.
 
@@ -70,8 +74,7 @@ The [[Sspai|少数派]] episode adds a technology-community history branch throu
 The page remains source-limited. It does not claim a complete history, format taxonomy, audience profile, or release schedule for 三五环.
 
 ## What Changed
-- Added the No.227 易小星/粉墨 episode as a concrete AI short-film production workflow case.
-- Connected the new source to the show's existing AI-video creator interview branch.
+- Added the No.220 Fang Yan episode as a wealth-after-success and re-poverty-risk branch of the show's practitioner interview surface.
 
 ## Relationships
 - [[LiuFei|刘飞]] - host associated with the show across the source set.
@@ -89,6 +92,8 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[Kuaishou]] - platform case discussed in the show's marketing-science branch.
 - [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] - guest who grounds the show's investor-to-operator and manufacturing branch.
 - [[YuzhouEBike|宇宙 E-Bike]] - company case discussed in the show's electric-assist bicycle branch.
+- [[FangYanWealth|方言]] - guest who grounds the show's wealth-after-success branch.
+- [[SecondDayMoneyEvolution|《第二天金钱进化论》]] - book case discussed in the show's wealth branch.
 - [[XuXiaonan|徐晓楠 / 曲晓楠]] - guest who grounds the show's ride-hailing safety operations branch.
 - [[LaoMaiSspai|老麦 / Michael]] - guest who grounds the show's technology-community and 少数派 branch.
 - [[Sspai|少数派]] - media and community platform case discussed in the show.
@@ -109,3 +114,4 @@ The page remains source-limited. It does not claim a complete history, format ta
 - [[InvestorToOperatorLearning]] - founder learning branch surfaced by the Cheng/Chen Hongning episode.
 - [[ElectricAssistBicyclePremiumPositioning]] - premium hardware positioning branch surfaced by the Cheng/Chen Hongning episode.
 - [[AINativeManufacturingTransformation]] - manufacturing AI-organization branch surfaced by the Cheng/Chen Hongning episode.
+- [[SuddenWealthRepovertyRisk]] - wealth-after-success risk branch surfaced by the Fang Yan episode.

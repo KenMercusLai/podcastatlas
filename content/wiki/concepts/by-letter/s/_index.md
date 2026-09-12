@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7165
+wiki_total_pages: 7166
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1772,6 +1772,9 @@ wiki_pages:
   - key: "SuddenHearingChangeEscalation"
     title: "Sudden Hearing Change Escalation"
     url: "/wiki/concepts/suddenhearingchangeescalation/"
+  - key: "SuddenWealthRepovertyRisk"
+    title: "Sudden Wealth Re-Poverty Risk / 暴富返贫风险"
+    url: "/wiki/concepts/suddenwealthrepovertyrisk/"
   - key: "SufferingBasedMoralSubjecthood"
     title: "Suffering-Based Moral Subjecthood"
     url: "/wiki/concepts/sufferingbasedmoralsubjecthood/"

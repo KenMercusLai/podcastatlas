@@ -14,7 +14,8 @@ sources:
   - no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht
   - no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni
   - no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3
-last_updated: 2026-09-09
+  - no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper
+last_updated: 2026-09-12
 knowledge_schema: synthesis-v1
 ---
 
@@ -42,6 +43,8 @@ The [[YuzhouEBike|宇宙 E-Bike]] episode adds Liu's founder-operator and manufa
 
 The [[Sspai|少数派]] episode adds Liu's community-history questioning. With [[LaoMaiSspai|老麦 / Michael]], he reconstructs the path from Palm and [[WebOS|webOS]] tinkering through [[ZhiJiWang|主机网]], app recommendation, author compensation, paid courses, product co-creation, and AI-era content scarcity.
 
+The [[SecondDayMoneyEvolution|《第二天金钱进化论》]] episode adds Liu's wealth-and-life-design interview branch. With [[FangYanWealth|方言]], he frames "having money" as a second-stage problem involving luck, lifestyle inflation, business overreach, family strain, and whether assets can return time rather than become public identity.
+
 ## Key Characteristics
 - He connects internet product experience with long-form podcast interviewing.
 - He is associated with both [[Banlatte|半拿铁]] and [[SanWuHuan|三五环]] in the wiki's source set.
@@ -49,7 +52,7 @@ The [[Sspai|少数派]] episode adds Liu's community-history questioning. With [
 - He uses product and workflow questions to make AI's effect on creators concrete.
 - He often turns technical change back toward human purpose, audience expectation, and creator agency.
 - He can translate AI-enabled rights infringement into user-facing questions about consumer trust, authorization, and platform responsibility.
-- He can translate platform safety, AI commercialization, virtual-idol risk, marketing science, original-IP work, hardware entrepreneurship, and community history into user-facing questions about trust, workflow, demand, and responsibility.
+- He can translate platform safety, AI commercialization, virtual-idol risk, marketing science, original-IP work, hardware entrepreneurship, community history, and wealth-after-success risk into user-facing questions about trust, workflow, demand, responsibility, and life design.
 
 ## Evidence
 - Podcast-production role - [[fanwai-14-gen-lidan-liaoliao-boke-chuangzuo-ai-yu-zhongnian-972693552]] presents Liu with [[XiaoLei|肖磊]] and [[LiDan|李诞]] discussing 半拿铁's research, transcript, brand, and audience-trust choices.
@@ -65,13 +68,13 @@ The [[Sspai|少数派]] episode adds Liu's community-history questioning. With [
 - Marketing-science interviewing - [[no-223-dang-danchun-de-toufang-luoji-yijing-shixiao-women-ruhe-chongxin-lijie-zhongcao-gkwriw4ogwloabcxcqsvisna]] has Liu interview [[LiuXiaoweiMarketing|刘晓微]] about [[Kuaishou]], content seeding, R3 seeded audiences, search/store/live-room behavior, and brand-performance integration.
 - Founder-operator interviewing - [[no-222-chenghongning-cong-miaotang-zhishang-de-touziren-dao-zai-zhenshi-de-nidi-li-dagun-gkwriaiocsw0ax9-yqsqgmht]] has Liu interview [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] about [[YuzhouEBike|宇宙 E-Bike]], investment-to-operations learning, premium e-bike strategy, and AI-native manufacturing.
 - Technology-community interviewing - [[no-229-duihua-shaoshupai-laomai-cong-palm-webos-dao-ai-yingjian-yiran-buxiang-chengwei-duoshupai-gkwriw4otoppacbriatd2fni]] has Liu interview [[LaoMaiSspai|老麦 / Michael]] about [[Palm]], [[WebOS|webOS]], [[ZhiJiWang|主机网]], [[Sspai|少数派]], [[NicheCommunityValue|小众社区价值]], product co-creation, and AI-era human experience.
+- Wealth-after-success interviewing - [[no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper]] has Liu interview [[FangYanWealth|方言]] about [[SecondDayMoneyEvolution|《第二天金钱进化论》]], [[SuddenWealthRepovertyRisk]], lifestyle inflation, family stability, and wealth as time freedom.
 
 ## Qualifications
 The wiki profile is source-limited to podcast appearances and does not attempt a full biography. Liu Fei is distinct from [[LiuFeiQiKing|刘肥]], the historical Qi king page with a semantic suffix.
 
 ## What Changed
-- Added the No.227 AI-filmmaking episode, extending Liu's profile into AI short-film production, tool choice, creator anxiety, and human responsibility.
-- Connected the new source to his existing 三五环 AI-creator interview pattern.
+- Added the No.220 Fang Yan episode, extending Liu's profile from AI/product practitioner interviews into wealth-after-success, re-poverty risk, and life-design questioning.
 
 ## Relationships
 - [[Banlatte|半拿铁]] - cohost and business-storytelling context.
@@ -91,6 +94,8 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[Kuaishou]] - platform case in Liu's seeding-marketing interview.
 - [[ChengHongningYuzhouEBike|程泓宁 / 陈鸿宁]] - guest in Liu's investment-to-e-bike-founder interview.
 - [[YuzhouEBike|宇宙 E-Bike]] - hardware company case in Liu's founder-operator interview.
+- [[FangYanWealth|方言]] - guest in Liu's wealth-after-success interview.
+- [[SecondDayMoneyEvolution|《第二天金钱进化论》]] - book case in Liu's wealth and life-design interview.
 - [[XuXiaonan|徐晓楠 / 曲晓楠]] - guest in Liu's ride-hailing safety interview.
 - [[LaoMaiSspai|老麦 / Michael]] - guest in Liu's 少数派 and technology-community interview.
 - [[Sspai|少数派]] - media and community case in Liu's interview.
@@ -110,3 +115,4 @@ The wiki profile is source-limited to podcast appearances and does not attempt a
 - [[InvestorToOperatorLearning]] - founder learning concept Liu helps unpack in the Cheng/Chen Hongning episode.
 - [[ElectricAssistBicyclePremiumPositioning]] - premium e-bike positioning concept Liu helps unpack in the Cheng/Chen Hongning episode.
 - [[AINativeManufacturingTransformation]] - manufacturing AI transformation concept Liu helps unpack in the Cheng/Chen Hongning episode.
+- [[SuddenWealthRepovertyRisk]] - wealth-risk concept Liu helps unpack in the Fang Yan episode.

@@ -30708,6 +30708,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/fangwanggengshi/"
     },
+    "FangYanWealth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN0Rm_ApxkIASVNPEr [GKwRIDoN0Rm_ApxkIASVNPEr].md",
+          "key": "no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper",
+          "show": "三五环",
+          "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
+          "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/fangyanwealth/"
+    },
     "FangZhiLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -32187,6 +32203,71 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/findesiecleviennacrisisreading/"
+    },
+    "FinancialFreedomVsLifestyleFreedom": {
+      "episode_count": 8,
+      "show_count": 5,
+      "source_note_count": 8,
+      "sources": [
+        {
+          "episode_file": "山上山下皆人间，无事逍遥即神仙 [lhJIgUq74flhaTdXnBrnzhjg_ACP].md",
+          "key": "shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp",
+          "show": "面基",
+          "title": "山上山下皆人间，无事逍遥即神仙",
+          "url": "/wiki/sources/shan-shang-shan-xia-jie-renjian-wushi-xiaoyao-ji-shenxian-lhjiguq74flhatdxnbrnzhjg-acp/"
+        },
+        {
+          "episode_file": "162.财富的本质，以及自由的真正含义｜串台十分吸引 [loFYxFhIPrud7zVEkuFExsjHTust].md",
+          "key": "162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust",
+          "show": "起朱楼宴宾客",
+          "title": "162.财富的本质，以及自由的真正含义｜串台十分吸引",
+          "url": "/wiki/sources/162-caifu-de-benzhi-yiji-ziyou-de-zhenzheng-hanyi-chuantai-shifen-xiyin-lofyxfhiprud7zvekufexsjhtust/"
+        },
+        {
+          "episode_file": "EP43 对话素人博主，原来财务和自由是分开的 [ltDJX_nXbvJd7LskLr3vMTBc4l_P].md",
+          "key": "ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p",
+          "show": "一劳永逸",
+          "title": "EP43 对话素人博主，原来财务和自由是分开的",
+          "url": "/wiki/sources/ep43-duihua-suren-bozhu-yuanlai-caiwu-he-ziyou-shi-fenkai-de-ltdjx-nxbvjd7lsklr3vmtbc4l-p/"
+        },
+        {
+          "episode_file": "EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了 [lmJ5rMEBef8y8p0aYfpTQOqNHiu2].md",
+          "key": "ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2",
+          "show": "硬地骇客",
+          "title": "EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了",
+          "url": "/wiki/sources/ep119-duihua-xiao-sun-qixing-800-gongli-ba-ziji-jiuchu-shenyuan-ningyuan-meitian-gongzuo-22-xiaoshi-wo-ye-buxiang-zai-shangban-le-lmj5rmebef8y8p0ayfptqoqnhiu2/"
+        },
+        {
+          "episode_file": "EP35 降薪不降质？中产阶级最后的倔强 [lkYiK124V1nNB-4dGLyoRF7_Oc43].md",
+          "key": "ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43",
+          "show": "一劳永逸",
+          "title": "EP35 降薪不降质？中产阶级最后的倔强",
+          "url": "/wiki/sources/ep35-jiangxin-bujiangzhi-zhongchan-jieji-zuihou-de-juejiang-lkyik124v1nnb-4dglyorf7-oc43/"
+        },
+        {
+          "episode_file": "E161.脱离理性暴政，去尽情游戏吧！ [lppJQRfTyLxA6XUdZlHgBk1iYM6f].md",
+          "key": "e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f",
+          "show": "面基",
+          "title": "E161.脱离理性暴政，去尽情游戏吧！",
+          "url": "/wiki/sources/e161-tuoli-lixing-baozheng-qu-jinqing-youxi-ba-lppjqrftylxa6xudzlhgbk1iym6f/"
+        },
+        {
+          "episode_file": "EP122 拥有一辆房车是种什么样的体验？🤔 [lhpOSkCF-oTqHpPGHn1YJVPJGsrD].md",
+          "key": "ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd",
+          "show": "硬地骇客",
+          "title": "EP122 拥有一辆房车是种什么样的体验？🤔",
+          "url": "/wiki/sources/ep122-yongyou-yiliang-fangche-shi-zhong-shenme-yang-de-tiyan-lhposkcf-otqhppghn1yjvpjgsrd/"
+        },
+        {
+          "episode_file": "GKwRIDoN0Rm_ApxkIASVNPEr [GKwRIDoN0Rm_ApxkIASVNPEr].md",
+          "key": "no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper",
+          "show": "三五环",
+          "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
+          "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/financialfreedomvslifestylefreedom/"
     },
     "FinancialReportOperatingMetricIntegrity": {
       "episode_count": 1,
@@ -55287,9 +55368,9 @@
       "url": "/wiki/entities/liufanglatehan/"
     },
     "LiuFei": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -55367,9 +55448,16 @@
           "show": "三五环",
           "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
           "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        },
+        {
+          "episode_file": "GKwRIDoN0Rm_ApxkIASVNPEr [GKwRIDoN0Rm_ApxkIASVNPEr].md",
+          "key": "no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper",
+          "show": "三五环",
+          "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
+          "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/liufei/"
     },
     "LiuFuLateHan": {
@@ -80112,9 +80200,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SanWuHuan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 2,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "番外 14： 跟李诞聊聊播客、创作、AI 与中年 [972693552].md",
@@ -80192,9 +80280,16 @@
           "show": "三五环",
           "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
           "url": "/wiki/sources/no-227-duihua-jiaoshou-yixiaoxing-fenmo-renren-dou-neng-yong-ai-pai-dianying-le-gkwrimaoout3ayjciqs8g9g3/"
+        },
+        {
+          "episode_file": "GKwRIDoN0Rm_ApxkIASVNPEr [GKwRIDoN0Rm_ApxkIASVNPEr].md",
+          "key": "no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper",
+          "show": "三五环",
+          "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
+          "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-12",
       "url": "/wiki/entities/sanwuhuan/"
     },
     "Sanguozhi": {
@@ -80974,6 +81069,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/seasonalwarlogistics/"
+    },
+    "SecondDayMoneyEvolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN0Rm_ApxkIASVNPEr [GKwRIDoN0Rm_ApxkIASVNPEr].md",
+          "key": "no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper",
+          "show": "三五环",
+          "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
+          "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/seconddaymoneyevolution/"
     },
     "SecondOpinionStrategy": {
       "episode_count": 1,
@@ -87164,6 +87275,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/concepts/suddenhearingchangeescalation/"
+    },
+    "SuddenWealthRepovertyRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIDoN0Rm_ApxkIASVNPEr [GKwRIDoN0Rm_ApxkIASVNPEr].md",
+          "key": "no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper",
+          "show": "三五环",
+          "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
+          "url": "/wiki/sources/no-220-qian-weishenme-bushi-wannengliangyao-liaoliao-naxie-fanpin-de-gushi-gkwridon0rm-apxkiasvnper/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/suddenwealthrepovertyrisk/"
     },
     "SufferingBasedMoralSubjecthood": {
       "episode_count": 1,

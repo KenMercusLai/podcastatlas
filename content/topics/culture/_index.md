@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2655
+topic_total_pages: 2656
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5876,6 +5876,9 @@ topic_entities:
   - key: "XiaoAoJiangHu"
     title: "《笑傲江湖》"
     url: "/wiki/entities/xiaoaojianghu/"
+  - key: "SecondDayMoneyEvolution"
+    title: "《第二天金钱进化论》 / Second-Day Money Evolution"
+    url: "/wiki/entities/seconddaymoneyevolution/"
   - key: "GuanziText"
     title: "《管子》 / Guanzi"
     url: "/wiki/entities/guanzitext/"

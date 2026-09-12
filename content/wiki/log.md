@@ -17755,6 +17755,10 @@ Added source note for a 博物志 Nujiang Gorge travel episode. Key claims: Song
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-12] ingest | No.220 钱为什么不是万能良药？聊聊那些返贫的故事
+
+Added source note for the 三五环 Fang Yan episode on 《第二天金钱进化论》. Key claims: sudden or era-driven wealth can turn into re-poverty through lifestyle inflation, leverage, social hunting, and family instability; value-investing discipline is framed as a life philosophy; mature wealth is passive income and time freedom rather than public status.
+
 ## [2026-09-12] ingest | Elon's Anthropic Deal, The Next AI Monopoly?, "FDA for AI" Panic, Trading the AI Boom
 
 - Added source note for the All-In episode on xAI capacity leasing to Anthropic, compute and power scarcity, Anthropic monopoly fears, model-approval panic, cyber-capable model controls, AI coding competition, and the market's ROI test.
@@ -18282,6 +18286,10 @@ Ran lint. See lint-report.md for details.
 - Added source note for the road to Marathon: Cyrus, Darius, Achaemenid imperial order, the Ionian Revolt, Sardis, Miletus, Athenian intervention, Eretria, and the 490 BC campaign setup.
 - Updated Achaemenid Empire, Darius I, Miltiades, Athens, Battle of Marathon, Athenian Democracy, and Greco-Persian War Memory.
 - Added Cyrus the Great, Aristagoras, Histias, Miletus, Sardis, Ionian Revolt, and Achaemenid Imperial Order Ideology.
+
+## [2026-09-12] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] lint | Wiki health check
 

@@ -24809,6 +24809,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "FangYanWealth": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "FangshiFraudAndAuthority": [
     {
       "key": "politics",
@@ -58757,6 +58764,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "SecondDayMoneyEvolution": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "SecondInCommandRoleFit": [

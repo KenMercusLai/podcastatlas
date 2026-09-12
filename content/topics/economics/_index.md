@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2011
+topic_total_pages: 2012
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5117,6 +5117,9 @@ topic_entities:
   - key: "WenliLiangkaihua"
     title: "文力两开花 / Wenli Liangkaihua"
     url: "/wiki/entities/wenliliangkaihua/"
+  - key: "FangYanWealth"
+    title: "方言 / Fang Yan"
+    url: "/wiki/entities/fangyanwealth/"
   - key: "ShiLei"
     title: "时雷 / Shi Lei"
     url: "/wiki/entities/shilei/"

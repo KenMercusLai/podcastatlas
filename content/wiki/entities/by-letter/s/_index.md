@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9847
+wiki_total_pages: 9849
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1601,6 +1601,9 @@ wiki_pages:
   - key: "ShengshiDeBengta"
     title: "《盛世的崩塌》"
     url: "/wiki/entities/shengshidebengta/"
+  - key: "SecondDayMoneyEvolution"
+    title: "《第二天金钱进化论》 / Second-Day Money Evolution"
+    url: "/wiki/entities/seconddaymoneyevolution/"
   - key: "Solaris"
     title: "《索拉里斯星》 / Solaris"
     url: "/wiki/entities/solaris/"
