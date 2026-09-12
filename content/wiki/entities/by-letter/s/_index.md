@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9869
+wiki_total_pages: 9872
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1730,6 +1730,9 @@ wiki_pages:
   - key: "ShiDiFuShuo"
     title: "史蒂夫说"
     url: "/wiki/entities/shidifushuo/"
+  - key: "ShiGaoWesternHan"
+    title: "史高 / Shi Gao (Western Han)"
+    url: "/wiki/entities/shigaowesternhan/"
   - key: "SimaGuang"
     title: "司马光 / Sima Guang"
     url: "/wiki/entities/simaguang/"

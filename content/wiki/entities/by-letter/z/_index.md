@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9869
+wiki_total_pages: 9872
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1244,6 +1244,9 @@ wiki_pages:
   - key: "ZhuFangZhangChu"
     title: "诸坊 / Zhu Fang (Zhang Chu)"
     url: "/wiki/entities/zhufangzhangchu/"
+  - key: "ZhugeFengWesternHan"
+    title: "诸葛丰 / Zhuge Feng (Western Han)"
+    url: "/wiki/entities/zhugefengwesternhan/"
   - key: "ZhugeLiang"
     title: "诸葛亮 / Zhuge Liang"
     url: "/wiki/entities/zhugeliang/"
@@ -1565,6 +1568,9 @@ wiki_pages:
   - key: "ZhengChangHanKing"
     title: "郑昌 / Zheng Chang (Han King)"
     url: "/wiki/entities/zhengchanghanking/"
+  - key: "ZhengPengWesternHan"
+    title: "郑朋 / Zheng Peng (Western Han)"
+    url: "/wiki/entities/zhengpengwesternhan/"
   - key: "ZhengZhu"
     title: "郑朱 / Zheng Zhu"
     url: "/wiki/entities/zhengzhu/"

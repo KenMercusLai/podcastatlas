@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！](sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h.md) — 芮淇讲透资治通鉴 episode on Yang Xing, Zhuge Feng, Zheng Peng, and Gong Yu as opportunistic court-alignment types around Han Yuandi, Zhou Kan, Zhang Meng, Shi Xian, and safe-but-evasive advice.
 - [OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze](sources/all-in-with-chamath-jason-sacks-friedberg-openai-misses-targets-codex-vs-claude-elon-vs-sam-trial-big-hyperscaler-beats-peptide-craze-41123215.md) — All-In episode on OpenAI missed targets, Codex versus Claude Code, AI cyber models, hyperscaler capex, retatrutide, and Monsanto/Roundup preemption.
 - [《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场](sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el.md) — 芮淇讲透资治通鉴 episode on Jia Juanzhi and Yang Xing's failed praise-for-promotion scheme around Shi Xian, Han Yuandi's personnel authority, and the danger of bargaining over senior appointments.
 - [Tools to Bolster Your Mental Health & Confidence | Dr. Paul Conti](sources/tools-to-bolster-your-mental-health-confidence-dr-paul-conti-scim9301011958.md) — Huberman Lab episode with Paul Conti on What's Going Right?, strength-first self-examination, compassionate curiosity, observing self, intentional agency, generative drive, intrusive thoughts, trauma, and happiness without escape.
@@ -2333,6 +2334,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [贾捐之 / Jia Juanzhi (Western Han)](entities/JiaJuanzhiWesternHan.md) — Western Han court actor whose reversal from anti-Shi-Xian criticism to praise-backed office bargaining leads to execution.
 - [杨兴 / Yang Xing (Western Han)](entities/YangXingWesternHan.md) — Jia Juanzhi's friend and co-schemer in the failed Shi Xian praise and Jingzhao Yin recommendation case.
 - [贡禹 / Gong Yu (Western Han)](entities/GongYuWesternHan.md) — Respected Confucian scholar whose reputation Shi Xian courts after Xiao Wangzhi's death.
+- [诸葛丰 / Zhuge Feng (Western Han)](entities/ZhugeFengWesternHan.md) — Western Han official whose reversal from praise to denunciation becomes a warning about unreliable political speech.
+- [郑朋 / Zheng Peng (Western Han)](entities/ZhengPengWesternHan.md) — Western Han court actor whose rejected attachment to Xiao Wangzhi turns into resentment-driven accusation through Shi Gao's side.
+- [史高 / Shi Gao (Western Han)](entities/ShiGaoWesternHan.md) — Western Han outer-relative actor who channels disaster-blame and Zheng Peng's accusations against Xiao Wangzhi's side.
 - [冯奉世 / Feng Fengshi (Western Han)](entities/FengFengshiWesternHan.md) — Western Han right general whose Longxi Qiang proposal and victory link troop scale, deterrence, logistics, quick resolution, and managerial decisiveness.
 - [贤解羌 / Xianjie Qiang (Western Han)](entities/XianjieQiangWesternHan.md) — Qiang rebel actor in the 42 BCE Longxi crisis that tests Han Yuandi's force-size decision.
 - [冯勋 / Feng Xun (Western Han)](entities/FengXunWesternHan.md) — Feng-family figure whose warning to Han Yuandi about Shi Xian backfires.
@@ -12176,6 +12180,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [投机型朝堂站队 / Opportunistic Court Alignment](concepts/OpportunisticCourtAlignment.md) — Pattern where praise, accusation, advice, or factional attachment shifts according to perceived advantage rather than principle, evidence, or role boundaries.
 - [Chevron Doctrine](concepts/ChevronDoctrine.md) — Administrative-law deference doctrine referenced in the Roundup preemption discussion.
 - [OpenAI Nonprofit Conversion Dispute](concepts/OpenAINonprofitConversionDispute.md) — Governance and litigation dispute over OpenAI's nonprofit origins and for-profit conversion.
 - [Product Liability Federal Preemption](concepts/ProductLiabilityFederalPreemption.md) — Legal frame for when federal regulatory approval blocks state failure-to-warn claims.

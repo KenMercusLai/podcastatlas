@@ -38233,9 +38233,9 @@
       "url": "/wiki/entities/gongshengxinscholar/"
     },
     "GongYuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？ [llF_4YVk8URTkGIDNJ2qhVcA3Vah].md",
@@ -38243,6 +38243,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
+          "key": "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
         }
       ],
       "updated": "2026-09-12",
@@ -69026,6 +69033,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/oppenheimerfilm/"
     },
+    "OpportunisticCourtAlignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
+          "key": "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/concepts/opportunisticcourtalignment/"
+    },
     "OralContraceptiveInformedConsent": {
       "episode_count": 1,
       "show_count": 1,
@@ -83857,6 +83880,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/shidifushuo/"
+    },
+    "ShiGaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
+          "key": "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/shigaowesternhan/"
     },
     "ShiHuanLateHan": {
       "episode_count": 1,
@@ -103927,9 +103966,9 @@
       "url": "/wiki/entities/yangtianzhen/"
     },
     "YangXingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场 [lpsOPBJ1DtFTNsN_kJjEyfTsT7EL].md",
@@ -103937,6 +103976,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》479丨职场情商欠费？看看西汉贾捐之的下场",
           "url": "/wiki/sources/zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
+          "key": "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
         }
       ],
       "updated": "2026-09-12",
@@ -106988,9 +107034,9 @@
       "url": "/wiki/entities/zhanglufivepecks/"
     },
     "ZhangMengWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
@@ -106998,6 +107044,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
+          "key": "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
         }
       ],
       "updated": "2026-09-12",
@@ -108560,6 +108613,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/entities/zhengjuneasternhan/"
     },
+    "ZhengPengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
+          "key": "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhengpengwesternhan/"
+    },
     "ZhengSaLateHan": {
       "episode_count": 2,
       "show_count": 1,
@@ -109325,9 +109394,9 @@
       "url": "/wiki/entities/zhoujulatehan/"
     },
     "ZhouKanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩” [lgn4p7Pgqa8euXGRSpCwDGsuscE7].md",
@@ -109335,6 +109404,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》483-1丨历史揭秘：混职场的“江湖规矩”",
           "url": "/wiki/sources/zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
+          "key": "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
         }
       ],
       "updated": "2026-09-12",
@@ -110058,6 +110134,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/zhuangbiassocialsignaling/"
+    },
+    "ZhugeFengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！ [lq3Hhg58LOHdi-tbPmCUHWAjJo7H].md",
+          "key": "zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》478丨处世智慧：这种人太极端，遇到请远离！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h/"
+        }
+      ],
+      "updated": "2026-09-12",
+      "url": "/wiki/entities/zhugefengwesternhan/"
     },
     "ZhuluQinHanBook": {
       "episode_count": 1,
