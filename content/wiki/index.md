@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？](sources/zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog.md) — 芮淇讲透资治通鉴 episode on the pre-deposition planning around Liu He: ignored remonstrance, omen warning, Tian Yannian's Yi Yin precedent, Yang Chang's coerced alignment, and Huo Guang's Weiyang Palace pressure meeting.
 - [VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词](sources/vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c.md) — 这病说来话长 episode with Cui Jiabin and Nan Jihe on push-pull intimacy, shame, high-context miscommunication, Korean give-up-generation pressure, and translating one's own fear and needs.
 - [《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！](sources/zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug.md) — 芮淇讲透资治通鉴 episode on Huo Guang's procedurally staged deposition of Liu He through ministerial consensus, Shangguan Taihou authorization, Changyi-follower isolation, and ritual-legitimacy indictment.
 - [《资治通鉴·汉纪》409｜汉宣帝刘病已：从狱中走出来的传奇皇帝！](sources/zizhi-tongjian-hanji-409-hanxuandi-liubingyi-cong-yuzhong-zouchulai-de-chuanqi-huangdi-ljyxm9nd5rvheusna29wkxuraqux.md) — 芮淇讲透资治通鉴 episode bridging Huo Guang's deposition of Liu He with Liu Bingyi's prison survival under Bing Ji before his future accession as Han Xuan.

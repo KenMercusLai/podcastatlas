@@ -48521,9 +48521,9 @@
       "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
     },
     "HuoGuangWesternHan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
@@ -48587,6 +48587,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》410-1｜狱中长大的汉宣帝刘病己，如何成就霸业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？ [lpOB_9JkYOMZrbEQnbJEkQbpjEOg].md",
+          "key": "zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog/"
         }
       ],
       "updated": "2026-09-13",
@@ -59566,9 +59573,9 @@
       "url": "/wiki/entities/liuguilatehan/"
     },
     "LiuHeHaihunHou": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
@@ -59590,6 +59597,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？ [lpOB_9JkYOMZrbEQnbJEkQbpjEOg].md",
+          "key": "zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog/"
         }
       ],
       "updated": "2026-09-13",
@@ -97398,9 +97412,9 @@
       "url": "/wiki/entities/tianyanlatehan/"
     },
     "TianYannianWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落 [lsvRKe2Gbdpo-6HVJRlh36i5A0Cv].md",
@@ -97408,6 +97422,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落",
           "url": "/wiki/sources/zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？ [lpOB_9JkYOMZrbEQnbJEkQbpjEOg].md",
+          "key": "zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog/"
         }
       ],
       "updated": "2026-09-13",
@@ -106714,9 +106735,9 @@
       "url": "/wiki/entities/xiahoufanwesternhan/"
     },
     "XiahouShengWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
@@ -106738,6 +106759,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？ [lpOB_9JkYOMZrbEQnbJEkQbpjEOg].md",
+          "key": "zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog/"
         }
       ],
       "updated": "2026-09-13",
@@ -112444,9 +112472,9 @@
       "url": "/wiki/entities/zhanganggengshi/"
     },
     "ZhangAnshiWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
@@ -112475,6 +112503,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》410-1｜狱中长大的汉宣帝刘病己，如何成就霸业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？ [lpOB_9JkYOMZrbEQnbJEkQbpjEOg].md",
+          "key": "zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog/"
         }
       ],
       "updated": "2026-09-13",

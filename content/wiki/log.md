@@ -18562,6 +18562,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Added source note plus Chang Hui. Key claims: Xieyou Princess's early Wusun marriage to Wengguimi makes her an active Han-Wusun communication channel before later succession crisis; Xiongnu pressure grows from Wusun court rivalry as well as frontier strategy; Chang Hui's mission and the 72 BCE Han-Wusun strike connect Xieyou's appeal to Xiongnu weakening; and Feng Liao's later diplomatic authority begins in her language skill, Wusun marriage tie, and local reputation. Updated Xieyou Princess, Feng Liao, Wusun, and Heqin Princess Succession Entrapment. No settled contradiction found; Wengguimi, Yuanguimi, the unnamed Xiongnu princess, Wusun genealogy, casualty figures, and the full campaign sequence remain source-scoped.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？
+
+Added source `zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog`; updated Liu He, Huo Guang, Tian Yannian, Zhang Anshi, and Xiahou Sheng with the pre-deposition planning layer: ignored remonstrance, omen warning, Yi Yin precedent, Yang Chang household alignment, and the Weiyang Palace pressure meeting. No settled contradiction found; dream, weather, and Hongfan interpretation remain source-scoped.
+
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -19181,6 +19185,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词
 
 Added source `vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c`; created `CuiJiabin`, `LoveTranslationKDrama`, `PushPullIntimacyCommunication`, `SelfTranslationInIntimacy`, `HighContextIntimacyMiscommunication`, `RelationshipFeedbackLoop`, `KoreanGiveUpGenerationPressure`, and `RescuerMindsetInIntimacy`; updated `NanJiHe` with the intimacy, shame, and Korean youth-pressure branch. No settled contradiction found; personality-disorder language, dissociation, adolescent self-harm observations, and Korean social-pressure vocabulary remain source-scoped.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

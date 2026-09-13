@@ -5,16 +5,17 @@ knowledge_schema: synthesis-v1
 tags: [western-han, official, court-politics, corruption]
 sources:
   - zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv
+  - zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-田延年 / Tian Yannian enters the wiki through [[zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv|Hanji 412-1]] as a trusted [[HuoGuangWesternHan|霍光]] confidant whose rapid Western Han rise ends in suicide after a corruption case. The episode presents him as part of a Huo Guang, [[ZhangAnshiWesternHan|张安世]], and Tian Yannian governing triangle, but makes the decisive issue his denial to Huo Guang after evidence of embezzlement emerges.
+田延年 / Tian Yannian enters the wiki through [[zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv|Hanji 412-1]] as a trusted [[HuoGuangWesternHan|霍光]] confidant whose rapid Western Han rise ends in suicide after a corruption case. [[zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog|Hanji 407]] now backfills why that trust matters: Tian is already the subordinate Huo consults when deciding whether and how to depose [[LiuHeHaihunHou|刘贺]], and he supplies both the Yi Yin precedent and the Weiyang Palace coercive push. Hanji 412-1 then makes the decisive later issue his denial to Huo Guang after evidence of embezzlement emerges.
 
 ## Current Profile
 
-Tian Yannian's career is built on Huo Guang's confidence. The source says Huo Guang recruited capable young men into his府 team, promoted Tian from ordinary staffer to longshi, and later gave him a high-risk first local post as Hedong taishou. Tian's Hedong service is remembered as administratively effective but harsh: the episode says he selected capable people, punished local strongmen, and made wrongdoers afraid, while noting that Ban Gu placed him in the cruel-official tradition.
+Tian Yannian's career is built on Huo Guang's confidence. Hanji 407 shows him in the inner strategic position before the later office record: Huo asks him what to do about Liu He, Tian advises using the empress dowager to replace the ruler, and then frames Huo as a Han version of Yi Yin by citing Taijia's removal. The same source also shows Tian as an enforcer of consensus: at the Weiyang Palace meeting, he threatens to execute the last minister who refuses to respond. Hanji 412-1 then explains the career built on that trust: Huo Guang recruited capable young men into his府 team, promoted Tian from ordinary staffer to longshi, and later gave him a high-risk first local post as Hedong taishou. Tian's Hedong service is remembered as administratively effective but harsh: the episode says he selected capable people, punished local strongmen, and made wrongdoers afraid, while noting that Ban Gu placed him in the cruel-official tradition.
 
 His fall comes while serving as da sinong during Han Zhaodi's sudden death. The court lacks prepared mausoleum materials, merchants have stockpiled valuable funeral supplies, and Tian solves the immediate shortage by charging them with profiting from imperial death and confiscating the goods. The merchants then retaliate by exposing a more concrete fraud: Tian allegedly rents thirty thousand ox carts at one thousand cash each while reporting two thousand each to the court, pocketing about thirty million cash.
 
@@ -22,17 +23,21 @@ The episode's core judgment is that Tian's fatal mistake is relational as well a
 
 ## Key Characteristics
 
-- Huo Guang confidant whose rise depends on personal trust, staff proximity, and exceptional promotion.
+- Huo Guang confidant whose rise depends on personal trust, staff proximity, high-stakes political usefulness, and exceptional promotion.
+- Deposition-planning adviser who gives Huo Guang a Yi Yin precedent and helps force ministerial alignment.
 - Effective but harsh administrator, with the episode placing his Hedong service near the cruel-official tradition.
 - Fiscal official responsible for urgent funeral logistics after Han Zhaodi's sudden death.
 - Uses political accusation against merchants to solve a mausoleum-material shortage, creating enemies with motive to retaliate.
 - Falls through a concrete embezzlement allegation involving inflated cart-rental accounts.
 - Loses protection because he lies to Huo Guang when truthfulness to the patron matters most.
-- Functions as a case where prior service and political closeness do not cancel later misconduct.
 
 ## Evidence
 
 Rise through Huo Guang's trust:
+- [[zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog|Hanji 407]] says Huo Guang consults Tian Yannian privately after becoming disappointed with Liu He.
+- [[zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog|Hanji 407]] says Tian advises Huo to report to the empress dowager and install a worthier ruler.
+- [[zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog|Hanji 407]] says Tian cites Yi Yin's handling of Taijia as a precedent and that Huo rewards him by making him jishizhong.
+- [[zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog|Hanji 407]] says Tian grips his sword before the assembled ministers and threatens the last person who refuses to respond.
 - [[zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv|Hanji 412-1]] says Huo Guang selects Tian Yannian into the great-general府 staff and promotes him to longshi after judging him clever, careful, and useful.
 - [[zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv|Hanji 412-1]] says Tian becomes Hedong taishou without prior local administrative experience, and that Hedong is Huo Guang's home commandery.
 - [[zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv|Hanji 412-1]] says Tian later serves as da sinong and remains deferential to Huo Guang despite high office.
@@ -48,11 +53,12 @@ Corruption, denial, and suicide:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 412-1. It does not reconstruct Tian Yannian's full biography, exact dates of appointment, complete legal record, all primary-source wording, or the full institutional procedure after Tian Guangming verifies the case. The episode's interpretation that Tian might have lived had he confessed to Huo Guang is preserved as source judgment rather than independently proven counterfactual.
+This page is source-scoped to Hanji 407 and Hanji 412-1. It does not reconstruct Tian Yannian's full biography, exact dates of appointment, complete legal record, all primary-source wording, or the full institutional procedure after Tian Guangming verifies the case. Hanji 407's Yi Yin comparison is preserved as the episode's legitimacy frame for Huo Guang, and Hanji 412-1's interpretation that Tian might have lived had he confessed to Huo Guang is preserved as source judgment rather than independently proven counterfactual.
 
 ## What Changed
 
-- Created the page from Hanji 412-1's Tian Yannian career and downfall case.
+- Added Hanji 407's earlier deposition-planning role: Tian supplies precedent, receives promotion, and forces ministerial alignment before the formal removal.
+- Preserved Hanji 412-1's Tian Yannian career and downfall case.
 
 ## Relationships
 
