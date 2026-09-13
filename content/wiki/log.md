@@ -2185,6 +2185,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？
+
+Added source `zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr`; created `DingWairenWesternHan` and `LadyGouyiWesternHan`; updated `ShangguanTaihouWesternHan`, `ShangguanJieWesternHan`, `ShangguanAnWesternHan`, `GaiChanggongzhuWesternHan`, `HuoGuangWesternHan`, and `EmperorZhaoOfHan` with Shangguan Shi's six-year-old palace entry, Huo Guang's refusal, Ding Wairen's princess-access brokerage, and the early Huo-Shangguan rupture. No settled contradiction found; Ding Wairen's full career, Zhouyang Shi's identity, and the later empress-installation procedure remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》395-2｜三人背后的人性故事
 
 Added source `zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp`; created `OtherAsHell`; updated `JeanPaulSartre`, `NoExit`, and `Existentialism` with the episode's focused reading of Sartre's 《禁闭》, "他人就是地狱," damaged relations, external judgment dependence, and freedom through changed behavior. No settled contradiction found; the play-date claim and missing direct Hanji historical bridge remain source-scoped.
@@ -19385,6 +19389,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？
 
 Added source `zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui`; created `RewardedDenunciationFiscalEnforcement`; updated `HanWudi`, `StateCommercialMonopolyExtraction`, and `HeavyAgricultureLightCommercePolicy` with Han Wudi's profitable-goods monopoly, 算缗 assessment, 告缗 informant rewards, merchant insecurity, and the Wang Anshi-era anti-merchant comparison. No settled contradiction found; exact law, enforcement scope, commodity list, regional variation, and quantitative commercial decline remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

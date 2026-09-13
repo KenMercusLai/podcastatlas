@@ -6,22 +6,24 @@ tags: [western-han, court-politics, rebellion, outer-relatives]
 sources:
   - zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc
   - zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5
+  - zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr
 last_updated: 2026-09-14
 ---
 
 ## Overview
 
-上官桀 / Shangguan Jie enters the wiki through [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] as a high-ranking anti-[[HuoGuangWesternHan|霍光]] conspirator in the [[EmperorZhaoOfHan|汉昭帝刘弗陵]] regency field. [[zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5|Hanji 399]] now backfills the prelude: Shangguan Jie's resentment is tied to blocked requests for Ding Wairen and Shangguan kin, and he participates in the forged Yan king memorial against Huo before the later assassination plan.
+上官桀 / Shangguan Jie enters the wiki through [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] as a high-ranking anti-[[HuoGuangWesternHan|霍光]] conspirator in the [[EmperorZhaoOfHan|汉昭帝刘弗陵]] regency field. [[zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr|Hanji 396-1]] now supplies the earlier family-ambition layer: Shangguan Jie pushes his six-year-old granddaughter [[ShangguanTaihouWesternHan|上官氏]] toward the palace and bypasses Huo's refusal through [[DingWairenWesternHan|丁外人]] and [[GaiChanggongzhuWesternHan|鄂邑 / 盖长公主]]. [[zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5|Hanji 399]] backfills the grievance sequel: Shangguan Jie's resentment is tied to blocked requests for Ding Wairen and Shangguan kin, and he participates in the forged Yan king memorial against Huo before the later assassination plan.
 
 ## Current Profile
 
-The combined episodes present Shangguan Jie less as an independent strategist than as the senior name around whom a desperate faction organizes. Hanji 399 shows an initial slander-and-procedure strategy: use Liu Dan's name in a forged memorial, make Huo Guang look like a potential rebel, and wait for Han Zhao to order an investigation that would let court opponents strip Huo of power. After that fails, Hanji 400-1 shows Shangguan Jie, [[ShangguanAnWesternHan|上官安]], [[GaiChanggongzhuWesternHan|盖长公主]], [[SangHongyangWesternHan|桑弘羊]], and others moving toward a banquet assassination plan: kill Huo, depose Han Zhao, and initially use [[LiuDanYanKingWesternHan|燕王刘旦]] as the replacement claimant.
+The combined episodes present Shangguan Jie as a senior family-power actor before he becomes a desperate factional name. Hanji 396-1 shows the first move: convert a granddaughter's palace entry into Shangguan family leverage even over Huo Guang's objection. Hanji 399 then shows an initial slander-and-procedure strategy: use Liu Dan's name in a forged memorial, make Huo Guang look like a potential rebel, and wait for Han Zhao to order an investigation that would let court opponents strip Huo of power. After that fails, Hanji 400-1 shows Shangguan Jie, [[ShangguanAnWesternHan|上官安]], [[GaiChanggongzhuWesternHan|盖长公主]], [[SangHongyangWesternHan|桑弘羊]], and others moving toward a banquet assassination plan: kill Huo, depose Han Zhao, and initially use [[LiuDanYanKingWesternHan|燕王刘旦]] as the replacement claimant.
 
 His profile darkens because Shangguan An's later private plan would discard Liu Dan and install Shangguan Jie himself as emperor. The episode therefore frames Shangguan Jie as both a participant in anti-regent rebellion and the intended beneficiary of a second betrayal inside the conspiracy.
 
 ## Key Characteristics
 
 - Senior Western Han conspirator in the anti-Huo Guang rebellion under Han Zhao.
+- Family strategist who seeks palace status for his young granddaughter before the open anti-Huo alignment.
 - Father of Shangguan An and part of the Shangguan outer-relative network.
 - Participant in the forged memorial attempt to turn Han Zhao against Huo Guang.
 - Participant in a plan to use Gai Chang Gongzhu's banquet access to assassinate Huo Guang.
@@ -31,6 +33,8 @@ His profile darkens because Shangguan An's later private plan would discard Liu 
 ## Evidence
 
 Anti-Huo conspiracy:
+- [[zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr|Hanji 396-1]] says Shangguan Jie wants his granddaughter to become Han Zhao's palace consort despite Huo Guang's refusal.
+- [[zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr|Hanji 396-1]] says Shangguan Jie and Shangguan An turn to Ding Wairen after the Huo route fails.
 - [[zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5|Hanji 399]] says Shangguan Jie joins the forged Yan king memorial strategy after Huo blocks requests benefiting Ding Wairen and Shangguan relatives.
 - [[zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5|Hanji 399]] says Shangguan Jie asks Han Zhao not to pursue the memorial courier after the false accusation fails, revealing his exposure.
 - [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] names Shangguan Jie among those planning to have Gai Chang Gongzhu invite Huo Guang to a banquet and ambush him.
@@ -44,15 +48,17 @@ Destruction:
 
 ## Qualifications
 
-This page is bounded to Hanji 399 and Hanji 400-1. It does not reconstruct Shangguan Jie's complete offices, earlier career, full kinship network, or every prior failed anti-Huo episode except where the sources use them to explain the final conspiracy.
+This page is bounded to Hanji 396-1, Hanji 399, and Hanji 400-1. It does not reconstruct Shangguan Jie's complete offices, earlier career, full kinship network, or every prior failed anti-Huo episode except where the sources use them to explain the final conspiracy.
 
 ## What Changed
 
-- Added Hanji 399's forged-memorial prelude and office-request grievance before Hanji 400-1's assassination plan.
+- Added Hanji 396-1's granddaughter-palace-entry strategy before Hanji 399's forged-memorial prelude and Hanji 400-1's assassination plan.
 
 ## Relationships
 
 - [[ShangguanAnWesternHan]] - son whose escalation and private imperial plan place Shangguan Jie at the center of the coup.
+- [[ShangguanTaihouWesternHan]] - granddaughter whose palace entry gives the Shangguan branch early leverage.
+- [[DingWairenWesternHan]] - broker used after Huo Guang refuses the marriage route.
 - [[HuoGuangWesternHan]] - regent targeted for assassination.
 - [[LiuDanYanKingWesternHan]] - initial replacement claimant whom Shangguan An plans to discard.
 - [[GaiChanggongzhuWesternHan]] - banquet-access sponsor in the assassination plan.

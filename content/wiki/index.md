@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？](sources/zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr.md) — 芮淇讲透资治通鉴 episode on six-year-old Shangguan Shi's palace entry, Huo Guang's refusal, Ding Wairen's princess access, and the early Shangguan-Huo rupture.
 - [《资治通鉴·汉纪》395-2｜三人背后的人性故事](sources/zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp.md) — 芮淇讲透资治通鉴 short episode on Sartre's 《禁闭》, "他人就是地狱," damaged relations, external judgment dependence, and freedom through changed behavior.
 - [Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300.md) — All-In episode on Anthropic's restricted Mythos rollout, Project Glasswing, OpenClaw access and coding-agent platform power, Anthropic's reported $30B run-rate, AI value capture, Iran ceasefire politics, Israel's U.S. standing, and X auto-translation.
 - [EP87《稀缺》：如何设计一个让自己变聪明的系统](sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv.md) — 纵横四海 episode on scarcity mindset, tunneling tax, mental bandwidth, slack, payday/time borrowing loops, fire drills, and system design over willpower.
@@ -2465,6 +2466,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [上官桀 / Shangguan Jie (Western Han)](entities/ShangguanJieWesternHan.md) — Senior Shangguan conspirator targeted in Han Zhao's anti-Huo rebellion cleanup and intended beneficiary of Shangguan An's internal betrayal plan.
 - [上官安 / Shangguan An (Western Han)](entities/ShangguanAnWesternHan.md) — Shangguan-family conspirator who plans to use and then kill Liu Dan before installing Shangguan Jie.
 - [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
+- [丁外人 / Ding Wairen (Western Han)](entities/DingWairenWesternHan.md) — Princess-favorite and inner-court access broker who helps the Shangguan family bypass Huo Guang.
+- [钩弋夫人 / Lady Gouyi (Western Han)](entities/LadyGouyiWesternHan.md) — Han Zhao's mother, whose death helps explain the princess-caregiver setup around the child emperor.
 - [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han general whose anti-Xiongnu campaign anchors the Wuhuan relocation context in Hanji 402-2.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.

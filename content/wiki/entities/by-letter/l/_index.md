@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10032
+wiki_total_pages: 10034
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1958,6 +1958,9 @@ wiki_pages:
   - key: "LiuChangDuxiangHouEasternHan"
     title: "都乡侯刘畅 / Liu Chang (Duxiang marquis)"
     url: "/wiki/entities/liuchangduxianghoueasternhan/"
+  - key: "LadyGouyiWesternHan"
+    title: "钩弋夫人 / Lady Gouyi (Western Han)"
+    url: "/wiki/entities/ladygouyiwesternhan/"
   - key: "LiuYanFulingKingEasternHan"
     title: "阜陵王刘延 / Liu Yan (Fuling King, Eastern Han)"
     url: "/wiki/entities/liuyanfulingkingeasternhan/"
