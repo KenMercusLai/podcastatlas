@@ -18819,3 +18819,11 @@ Added source note plus Gai Kuanrao, Zheng Chang, Sili Xiaowei, and Classical All
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-13] ingest | 《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？
+
+- Added source note for the Hanji 440 backfill episode.
+- Updated Zhao Chongguo and Qiang official-abuse synthesis pages for Zhao's post-campaign truth-telling, Xin-family retaliation, Xin Tang's misconduct, and Zhao Ang's prison death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

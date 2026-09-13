@@ -7,13 +7,14 @@ sources:
   - zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq
   - zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz
   - zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3
+  - zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3
 last_updated: 2026-09-13
 ---
 
 # Zhao Chongguo / 赵充国 (Western Han)
 
 ## Overview
-Zhao Chongguo is synthesized as an elderly Western Han frontier commander whose value lies in strategic restraint backed by credible force and patient state-building. [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] uses him to connect the "讨南羌" brocade fragment with a 63 BCE campaign against Qiang-Xiongnu disruption of the Han-Western-Regions route. [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] adds his Xiongnu-facing method: a disciplined border deployment that deters attack and lets the opponent's succession crisis become the decisive opening. [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] adds the Qiang屯田 layer: Zhao refuses a premature attack, persuades court opinion, and turns farming, infrastructure, and surrender management into the path to settlement.
+Zhao Chongguo is synthesized as an elderly Western Han frontier commander whose value lies in strategic restraint backed by credible force, patient state-building, and costly truth-telling after victory. [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] uses him to connect the "讨南羌" brocade fragment with a 63 BCE campaign against Qiang-Xiongnu disruption of the Han-Western-Regions route. [[zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz|Hanji 443]] adds his Xiongnu-facing method: a disciplined border deployment that deters attack and lets the opponent's succession crisis become the decisive opening. [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] adds the Qiang屯田 layer: Zhao refuses a premature attack, persuades court opinion, and turns farming, infrastructure, and surrender management into the path to settlement. [[zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3|Hanji 440]] adds the aftermath: Zhao refuses to flatter rival commanders, warns against Xin Tang's Protector-of-Qiang appointment, and pays a family cost when Xin Wuxian's side turns resentment toward Zhao's son Zhao Ang.
 
 ## Current Profile
 The current evidence gives Zhao three connected late-life frontier roles. In Hanji 689-3, Zhao is already in his seventies when Qiang groups influenced by [[Xiongnu]] plan to attack Shanshan and Dunhuang and cut Han communications with the Western Regions. Under [[EmperorXuanOfHan]], he volunteers for the campaign, and the source links his operation to an omen-worded command formula that makes the [[FiveStarsOutOfTheEastBrocade]] intelligible as more than decorative text.
@@ -22,13 +23,14 @@ Hanji 443 makes the strategic style explicit. When a Xiongnu chanyu brings more 
 
 Hanji 439 fills in Zhao's managerial and administrative profile. Facing repeated questioning from Emperor Xuan and shifting court opinion, Zhao argues that the [[XianlingQiang|先零羌]] are already near collapse through hunger, cold, land loss, weak horses, family constraints, and defection. He rejects an attack that cannot certainly end the problem, because it would tire Han forces, fail to stop small raids, and cheapen state prestige. The same source makes his personal-risk ethic explicit: obeying an order could shield him from suspicion, but he treats that as disloyal if it harms the ruler and state. The accepted plan leaves more than ten thousand troops in the 河湟 field for屯田, pacification, road work, bridges, relay posts, and eventual surrender management.
 
+Hanji 440 shows the same public-duty ethic continuing after the campaign's apparent success. Zhao asks to withdraw屯田 forces only after reporting the scale of Qiang surrender, death, and remaining fugitives; then, when a friend urges him to attribute the achievement to Xin Wuxian and Xu Yanshou for self-protection, Zhao insists that military affairs require an honest record for the ruler and later generations. Xuan accepts Zhao's account, removes Xin Wuxian from the broken-Qiang command, restores Zhao as rear general, and later follows Zhao's initial warning that Xin Tang is unsuitable for Qiang affairs because of drunkenness and impulsiveness. The episode's darker layer is that correct advice does not dissolve resentment. Xin Tang eventually receives the post, abuses Qiang people while drunk, and helps trigger renewed rebellion; Xin Wuxian's side then secretly accuses Zhao's son Zhao Ang of leaking secrets, and Zhao Ang dies in prison. Zhao's profile therefore gains a family-vulnerability qualification: accurate frontier judgment and loyal reporting can still create enemies inside the court.
+
 ## Key Characteristics
 - Zhao is portrayed as an elderly but still active Western Han frontier commander.
-- His campaign answers a coordinated Qiang-Xiongnu threat to Han-Western-Regions communications.
-- The source connects his mission to Emperor Xuan's five-star omen formula.
-- His victory is the military background for the brocade's "讨南羌" reconstruction.
+- His Southern Qiang campaign answers a coordinated Qiang-Xiongnu threat to Han-Western-Regions communications and supplies the military background for the brocade's five-star and "讨南羌" interpretation.
 - Zhao's Xiongnu standoff emphasizes deterrence, patience, and refusal to turn every advantage into immediate attack.
 - His Qiang policy shows how withholding battle can be active command when paired with farming, infrastructure, surrender, and local order.
+- His post-campaign conduct shows that truthful reporting and personnel warnings can protect frontier order while damaging rival commanders' credit and appointment interests.
 - His case shows omen language, force posture, defection management, frontier institution-building, and public-duty risk-taking operating inside concrete security problems.
 
 ## Evidence
@@ -53,12 +55,21 @@ Qiang屯田 and public-duty command:
 - [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says the resulting 河湟 program keeps more than ten thousand troops for屯田, pacification, land opening, roads, more than seventy bridges, relay stations, and local order.
 - [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] contrasts other commanders' captures and killings with Zhao's surrender results, including more than thirty-one thousand later submitters and only four thousand escapees.
 
+Post-campaign truth-telling and family cost:
+- [[zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3|Hanji 440]] says Zhao asks to dismiss the屯田 troops only after judging that Qiang surrender and losses have made the remaining fugitives manageable.
+- [[zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3|Hanji 440]] says Zhao refuses a friend's advice to credit Xin Wuxian and Xu Yanshou, because avoiding the appearance of claiming merit would still mean deceiving the emperor about military affairs.
+- [[zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3|Hanji 440]] says Xuan restores Zhao's rear-general office and removes Xin Wuxian from the broken-Qiang command after accepting Zhao's account.
+- [[zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3|Hanji 440]] says Zhao warns that Xin Tang's drunken and impulsive temperament makes him unfit to manage Qiang affairs.
+- [[zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3|Hanji 440]] says Xin Tang later abuses Qiang people while drunk, Qiang groups rebel again, and Xin Wuxian secretly accuses Zhao's son Zhao Ang, who dies in prison.
+- [[zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3|Hanji 440]] uses the Zhao Kuan stele and Ma Yuan allusion to read Zhao's family as later rooted in the Hehuang frontier.
+
 ## Qualifications
-This page is still not a full biography of Zhao Chongguo. Hanji 689-3 is campaign-and-artifact centered, and the brocade-to-campaign connection remains plausible inside the episode's interpretation rather than proven. Hanji 443 reads Zhao's Xiongnu result as decisive strategic success, but the broader later history of Xiongnu conflict shows this was suppression, fracture, and frontier-order building rather than literal disappearance of the Xiongnu problem. Hanji 439 is management-lesson heavy; exact force figures, surrender counts, construction details, and received-text chronology remain source-scoped unless checked against primary histories.
+This page is still not a full biography of Zhao Chongguo. Hanji 689-3 is campaign-and-artifact centered, and the brocade-to-campaign connection remains plausible inside the episode's interpretation rather than proven. Hanji 443 reads Zhao's Xiongnu result as decisive strategic success, but the broader later history of Xiongnu conflict shows this was suppression, fracture, and frontier-order building rather than literal disappearance of the Xiongnu problem. Hanji 439 is management-lesson heavy; exact force figures, surrender counts, construction details, and received-text chronology remain source-scoped unless checked against primary histories. Hanji 440 adds a retaliation and family-tragedy layer, but Xin Wuxian's motive, Zhao Ang's legal record, Xin Tang's exact conduct, the Jincheng dependent-state structure, and the Zhao Kuan stele interpretation remain source-scoped.
 
 ## What Changed
 - Added Hanji 439's Qiang屯田 layer: Zhao as a commander who turns cautious non-attack into farming, infrastructure, pacification, and surrender management.
 - Added Zhao's public-duty argument that personal safety through obedience can still be disloyal when it damages state interests.
+- Added Hanji 440's aftermath layer: Zhao's truthful reporting harms rival interests, his warning against Xin Tang proves consequential, and Zhao Ang's prison death exposes family vulnerability after court retaliation.
 - Preserved Hanji 443's Xiongnu standoff layer: Zhao as a deterrent commander who wins by posture, patience, and political follow-through rather than pursuit.
 - Preserved Hanji 689-3's Southern Qiang and brocade-fragment interpretation as the older evidence layer.
 
@@ -74,4 +85,6 @@ This page is still not a full biography of Zhao Chongguo. Hanji 689-3 is campaig
 - [[AuspiciousOmenPolitics]] - concept explaining how auspicious signs become campaign authorization.
 - [[FrontierResourceIntegration]] - governance concept Zhao exemplifies through 河湟屯田, roads, bridges, relay posts, and pacification.
 - [[FrontierDefensivePatience]] - strategic neighbor because Zhao's caution refuses enemy-favorable or low-yield battle.
+- [[QiangOfficialAbuseRebellionTrigger]] - later frontier-failure concept sharpened by Xin Tang's abuse after Zhao's warning.
+- [[HorsehideBurialResolve]] - Eastern Han frontier ethos invoked through the episode's Ma Yuan comparison.
 - [[ZhuYiWesternHan]] - same-source public-service contrast around clean office and remembered merit.

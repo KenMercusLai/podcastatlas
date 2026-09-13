@@ -78362,9 +78362,9 @@
       "url": "/wiki/entities/qianghuaeasternhan/"
     },
     "QiangOfficialAbuseRebellionTrigger": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
@@ -78372,9 +78372,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？ [lmu7jhfcSLSDFTyZxmX5glVIOEE3].md",
+          "key": "zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/qiangofficialabuserebelliontrigger/"
     },
     "QianlingMountainMacaques": {
@@ -111034,9 +111041,9 @@
       "url": "/wiki/entities/zhaochonglatehan/"
     },
     "ZhaoChongguoWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -111058,6 +111065,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？ [lmu7jhfcSLSDFTyZxmX5glVIOEE3].md",
+          "key": "zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3/"
         }
       ],
       "updated": "2026-09-13",
