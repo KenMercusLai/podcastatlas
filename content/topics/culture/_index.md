@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2684
+topic_total_pages: 2688
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1228,6 +1228,9 @@ topic_concepts:
   - key: "GuangxiCuisineLegibility"
     title: "Guangxi Cuisine Legibility / 广西菜可识别化"
     url: "/wiki/concepts/guangxicuisinelegibility/"
+  - key: "HealthcareMediaAITrust"
+    title: "Healthcare Media AI Trust"
+    url: "/wiki/concepts/healthcaremediaaitrust/"
   - key: "HelicopterParenting"
     title: "Helicopter Parenting"
     url: "/wiki/concepts/helicopterparenting/"
@@ -1573,6 +1576,9 @@ topic_concepts:
   - key: "MediaAIRescueStrategy"
     title: "Media AI Rescue Strategy"
     url: "/wiki/concepts/mediaairescuestrategy/"
+  - key: "MediaAIWorkflowAcceleration"
+    title: "Media AI Workflow Acceleration"
+    url: "/wiki/concepts/mediaaiworkflowacceleration/"
   - key: "MediaFormConstraint"
     title: "Media Form Constraint"
     url: "/wiki/concepts/mediaformconstraint/"
@@ -3986,6 +3992,9 @@ topic_entities:
   - key: "KaraSwisher"
     title: "Kara Swisher"
     url: "/wiki/entities/karaswisher/"
+  - key: "KarimaSharifAli"
+    title: "Karima Sharif-Ali"
+    url: "/wiki/entities/karimasharifali/"
   - key: "KatherineMaher"
     title: "Katherine Maher"
     url: "/wiki/entities/katherinemaher/"
@@ -7656,6 +7665,9 @@ topic_sources:
   - key: "e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask"
     title: "E45 孟岩对话李继刚：人何以自处"
     url: "/wiki/sources/e45-mengyan-duihua-lijigang-ren-heyi-zichu-lva2mfxese7v0sfv3mfpfhbdask/"
+  - key: "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing"
+    title: "EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing"
+    url: "/wiki/sources/ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing/"
   - key: "ep-9-chatgpt-and-education-systems"
     title: "EP 9: ChatGPT and Education Systems"
     url: "/wiki/sources/ep-9-chatgpt-and-education-systems/"

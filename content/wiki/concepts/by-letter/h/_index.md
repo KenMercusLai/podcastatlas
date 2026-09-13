@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7271
+wiki_total_pages: 7273
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -158,6 +158,9 @@ wiki_pages:
   - key: "HealthcareImpossibleTriangle"
     title: "Healthcare Impossible Triangle / 医疗不可能三角"
     url: "/wiki/concepts/healthcareimpossibletriangle/"
+  - key: "HealthcareMediaAITrust"
+    title: "Healthcare Media AI Trust"
+    url: "/wiki/concepts/healthcaremediaaitrust/"
   - key: "HealthcareO2O"
     title: "Healthcare O2O"
     url: "/wiki/concepts/healthcareo2o/"

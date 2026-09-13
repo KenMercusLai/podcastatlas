@@ -27135,6 +27135,10 @@
     "title": "Healthcare Impossible Triangle / 医疗不可能三角",
     "url": "/wiki/concepts/healthcareimpossibletriangle/"
   },
+  "HealthcareMediaAITrust": {
+    "title": "Healthcare Media AI Trust",
+    "url": "/wiki/concepts/healthcaremediaaitrust/"
+  },
   "HealthcareO2O": {
     "title": "Healthcare O2O",
     "url": "/wiki/concepts/healthcareo2o/"
@@ -33270,6 +33274,10 @@
   "Karhide": {
     "title": "卡海德 / Karhide",
     "url": "/wiki/entities/karhide/"
+  },
+  "KarimaSharifAli": {
+    "title": "Karima Sharif-Ali",
+    "url": "/wiki/entities/karimasharifali/"
   },
   "KarlDrais": {
     "title": "Karl Drais / 卡尔·德莱斯",
@@ -39566,6 +39574,10 @@
   "MediaAIRescueStrategy": {
     "title": "Media AI Rescue Strategy",
     "url": "/wiki/concepts/mediaairescuestrategy/"
+  },
+  "MediaAIWorkflowAcceleration": {
+    "title": "Media AI Workflow Acceleration",
+    "url": "/wiki/concepts/mediaaiworkflowacceleration/"
   },
   "MediaFormConstraint": {
     "title": "Media Form Constraint",
@@ -71334,6 +71346,10 @@
   "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise": {
     "title": "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise",
     "url": "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
+  },
+  "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing": {
+    "title": "EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing",
+    "url": "/wiki/sources/ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing/"
   },
   "ep-5-implementation-of-data-science-in-cybersecurity": {
     "title": "EP 5: Implementation of Data Science in Cybersecurity",

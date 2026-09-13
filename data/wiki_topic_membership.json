@@ -31741,6 +31741,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "HealthcareMediaAITrust": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "HealthyBaby": [
     {
       "key": "science",
@@ -38368,6 +38380,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "KarimaSharifAli": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
   "KarlMarx": [
     {
       "key": "politics",
@@ -44081,6 +44105,18 @@
     }
   ],
   "MediaAIRescueStrategy": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    }
+  ],
+  "MediaAIWorkflowAcceleration": [
     {
       "key": "technology",
       "label": "Technology",
@@ -79292,6 +79328,18 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
     }
   ],
   "ep-5-implementation-of-data-science-in-cybersecurity": [

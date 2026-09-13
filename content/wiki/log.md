@@ -18530,6 +18530,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing
+
+Added source note plus Karima Sharif-Ali, Media AI Workflow Acceleration, and Healthcare Media AI Trust. Key claims: AI's near-term media value is speed in planning, RFPs, meetings, reporting, and optimization, while healthcare marketing still depends on human-led strategy, authenticity, provenance, bias governance, and trust guardrails.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》443｜霍去病没搞定的匈奴，赵充国怎么搞定的？
 
 Added source `zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz`; updated Zhao Chongguo, Zheng Ji, Western Regions Protectorate, and Xiongnu Succession Fragmentation with the deterrent standoff, Xiongnu succession rupture, Rizhu Wang defection, and protectorate-origin layer. No settled contradiction found; the "搞定匈奴" reading remains source-scoped strategic interpretation rather than literal elimination of later Xiongnu pressure.
@@ -18831,6 +18835,10 @@ Ran lint. See lint-report.md for details.
 
 - Added source note for the Hanji 440 backfill episode.
 - Updated Zhao Chongguo and Qiang official-abuse synthesis pages for Zhao's post-campaign truth-telling, Xin-family retaliation, Xin Tang's misconduct, and Zhao Ang's prison death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

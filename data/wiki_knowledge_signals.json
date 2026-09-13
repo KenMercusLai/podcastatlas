@@ -43487,6 +43487,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/healthinsurancedeathspiral/"
     },
+    "HealthcareMediaAITrust": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md",
+          "key": "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing",
+          "show": "Data Science With Sam",
+          "title": "EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing",
+          "url": "/wiki/sources/ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/healthcaremediaaitrust/"
+    },
     "HealthcareO2O": {
       "episode_count": 2,
       "show_count": 1,
@@ -52949,6 +52965,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/karennussbaum/"
+    },
+    "KarimaSharifAli": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md",
+          "key": "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing",
+          "show": "Data Science With Sam",
+          "title": "EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing",
+          "url": "/wiki/sources/ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/karimasharifali/"
     },
     "KarlLudwigOfAustria": {
       "episode_count": 1,
@@ -64555,6 +64587,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/medallia/"
+    },
+    "MediaAIWorkflowAcceleration": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md",
+          "key": "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing",
+          "show": "Data Science With Sam",
+          "title": "EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing",
+          "url": "/wiki/sources/ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/mediaaiworkflowacceleration/"
     },
     "MedicalAIRobotCollaborationBoundary": {
       "episode_count": 1,

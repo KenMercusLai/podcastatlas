@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2970
+topic_total_pages: 2974
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2176,6 +2176,9 @@ topic_concepts:
   - key: "HealthcareAIInfrastructure"
     title: "Healthcare AI Infrastructure"
     url: "/wiki/concepts/healthcareaiinfrastructure/"
+  - key: "HealthcareMediaAITrust"
+    title: "Healthcare Media AI Trust"
+    url: "/wiki/concepts/healthcaremediaaitrust/"
   - key: "HighBandwidthFlash"
     title: "High Bandwidth Flash"
     url: "/wiki/concepts/highbandwidthflash/"
@@ -2659,6 +2662,9 @@ topic_concepts:
   - key: "MediaAIRescueStrategy"
     title: "Media AI Rescue Strategy"
     url: "/wiki/concepts/mediaairescuestrategy/"
+  - key: "MediaAIWorkflowAcceleration"
+    title: "Media AI Workflow Acceleration"
+    url: "/wiki/concepts/mediaaiworkflowacceleration/"
   - key: "MediaInternetConvergence"
     title: "Media Internet Convergence"
     url: "/wiki/concepts/mediainternetconvergence/"
@@ -5561,6 +5567,9 @@ topic_entities:
   - key: "KaraSwisher"
     title: "Kara Swisher"
     url: "/wiki/entities/karaswisher/"
+  - key: "KarimaSharifAli"
+    title: "Karima Sharif-Ali"
+    url: "/wiki/entities/karimasharifali/"
   - key: "Kaseya"
     title: "Kaseya"
     url: "/wiki/entities/kaseya/"
@@ -8142,6 +8151,9 @@ topic_sources:
   - key: "ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise"
     title: "EP 48: From Pilots to Productivity: What It Actually Takes to Make AI Work in the Enterprise"
     url: "/wiki/sources/ep-48-from-pilots-to-productivity-what-it-actually-takes-to-make-ai-work-in-the-enterprise/"
+  - key: "ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing"
+    title: "EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing"
+    url: "/wiki/sources/ep-49-the-human-side-of-ai-in-media-speed-trust-whats-really-changing/"
   - key: "ep-5-implementation-of-data-science-in-cybersecurity"
     title: "EP 5: Implementation of Data Science in Cybersecurity"
     url: "/wiki/sources/ep-5-implementation-of-data-science-in-cybersecurity/"

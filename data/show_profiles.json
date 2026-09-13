@@ -274,14 +274,14 @@
       "earliest_episode_date": "2021-09-28",
       "latest_episode_date": "2026-09-13",
       "latest_episode_file": "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md",
-      "source_note_count": 29,
-      "topic_matched_source_note_count": 21,
+      "source_note_count": 30,
+      "topic_matched_source_note_count": 22,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 18
+          "source_note_count": 19
         },
         {
           "key": "science",
@@ -299,7 +299,7 @@
           "key": "culture",
           "label": "Culture",
           "url": "/topics/culture/",
-          "source_note_count": 1
+          "source_note_count": 2
         }
       ],
       "entities": [
@@ -312,10 +312,10 @@
         }
       ],
       "start_here_episode_files": [
-        "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+        "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md",
         "761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128 [761BEEA78D77239641201EADE216A504~8584442_2026-08-10-210742-8787-0-0-1.128.mp3？cdn_id=99&uuid=663bc931-456a-796d-5f73-91aa3fe5563e&wuuid=6a83834b].md",
-        "2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128 [2D9F56B455380537845C7BFE321174F4~8584437_2026-08-10-210237-8787-0-0-10.128.mp3？cdn_id=99&uuid=3c5eaff1-ea54-0c27-e9dc-018f1cbcdbe4&wuuid=6a8384b0].md",
-        "2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6 [2026_09_13_03_11_43_db418b53-9715-4001-a1dc-0f32b96bd3c6].md"
+        "9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128 [9389C8D8129058D299C60A4A7A643C6~8605835_2026-08-20-232235-8787-0-0-1.128.mp3？cdn_id=99&uuid=a07f8efa-15c7-ef48-fb69-9ef7dd58c617&wuuid=6a87a9bc].md",
+        "F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128 [F609485A348822F6AD11A4F104474DC9~8584395_2026-08-10-212835-8787-0-0-10.128.mp3？cdn_id=99&uuid=67e34be6-5b48-d742-2140-006d01478122&wuuid=6a83b0b2].md"
       ]
     },
     "Economist Podcasts": {
