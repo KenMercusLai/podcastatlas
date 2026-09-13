@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9977
+wiki_total_pages: 9980
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -1430,6 +1430,9 @@ wiki_pages:
   - key: "MunchausenBaron"
     title: "敏锡豪森男爵 / Baron Munchausen"
     url: "/wiki/entities/munchausenbaron/"
+  - key: "MingDynasty"
+    title: "明朝 / Ming Dynasty"
+    url: "/wiki/entities/mingdynasty/"
   - key: "Minghao"
     title: "明浩"
     url: "/wiki/entities/minghao/"

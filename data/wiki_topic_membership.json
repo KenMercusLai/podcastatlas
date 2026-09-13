@@ -45500,6 +45500,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "MingDynasty": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "MingQingHangzhouPublishingCulture": [
     {
       "key": "culture",
@@ -55425,6 +55437,18 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "QingDynasty": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "QingFemaleInheritanceConstraint": [
@@ -69063,6 +69087,25 @@
       "url": "/topics/science/"
     }
   ],
+  "TributaryStatusDiplomaticRigidity": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "TributeSystemEconomicIncentive": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "TrinityCollegeClimbingGuide": [
     {
       "key": "culture",
@@ -74019,6 +74062,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "XianfengEmperor": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "XiangBiao": [
@@ -84781,6 +84831,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1": [
     {
       "key": "politics",
       "label": "Politics",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 9977
+wiki_total_pages: 9980
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -248,6 +248,9 @@ wiki_pages:
   - key: "QinghuaJianXinian"
     title: "清华简《系年》 / Qinghua Bamboo Slips Xinian"
     url: "/wiki/entities/qinghuajianxinian/"
+  - key: "QingDynasty"
+    title: "清朝 / Qing Dynasty"
+    url: "/wiki/entities/qingdynasty/"
   - key: "QingheKingdomLateHan"
     title: "清河王国 / Qinghe Kingdom (late Han)"
     url: "/wiki/entities/qinghekingdomlatehan/"

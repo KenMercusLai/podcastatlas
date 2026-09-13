@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7306
+wiki_total_pages: 7308
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -869,6 +869,12 @@ wiki_pages:
   - key: "TerrorRuleBackfire"
     title: "恐怖治理反噬 / Terror Rule Backfire"
     url: "/wiki/concepts/terrorrulebackfire/"
+  - key: "TributeSystemEconomicIncentive"
+    title: "朝贡体系经济激励 / Tribute System Economic Incentive"
+    url: "/wiki/concepts/tributesystemeconomicincentive/"
+  - key: "TributaryStatusDiplomaticRigidity"
+    title: "朝贡身份秩序外交僵化 / Tributary Status Diplomatic Rigidity"
+    url: "/wiki/concepts/tributarystatusdiplomaticrigidity/"
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"

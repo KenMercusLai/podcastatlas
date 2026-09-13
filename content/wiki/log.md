@@ -18680,6 +18680,10 @@ Added All-In source on Steve Hilton's California governor campaign, affordabilit
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸
+
+Added source note plus Tribute System Economic Incentive, Tributary Status Diplomatic Rigidity, Ming Dynasty, Qing Dynasty, and Xianfeng Emperor. Key claims: tribute can be driven by rewards,回赐, above-market prices, hosted reception, and trade access rather than only fear or admiration; profitable tribute access can generate fraud and conflict; and late-Qing protection of kneeling hierarchy could override fiscal and diplomatic judgment.
+
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18986,6 +18990,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？
 
 Added source note plus Zhao Guanghan, Yin Wenggui, and Clean Official Power Boundary. Key claims: clean reputation and anti-corruption force do not excuse private retaliation through public authority; Zhao's escalation from Su Xian to Rong Xu to Wei Xiang shows information power becoming revenge; and Yin Wenggui supplies a stricter but more orderly contrast.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

@@ -66940,6 +66940,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/concepts/mindfuleatingcuecontrol/"
     },
+    "MingDynasty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
+          "key": "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/mingdynasty/"
+    },
     "MingQingHangzhouPublishingCulture": {
       "episode_count": 1,
       "show_count": 1,
@@ -79733,6 +79749,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/qinsi/"
     },
+    "QingDynasty": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
+          "key": "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/qingdynasty/"
+    },
     "QingheKingdomLateHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -81617,9 +81649,9 @@
       "url": "/wiki/concepts/remoteroadaccesstransformation/"
     },
     "RemoteTributePrestigeTheater": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争 [lplZ8F3WG1P0m5Kmlh-w32JwnlZq].md",
@@ -81627,9 +81659,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》610-1丨揭秘古代皇帝“娘家人”的权力斗争",
           "url": "/wiki/sources/zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
+          "key": "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
         }
       ],
-      "updated": "2026-09-10",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/remotetributeprestigetheater/"
     },
     "RenFangLateHan": {
@@ -96337,9 +96376,9 @@
       "url": "/wiki/entities/tianjingeneralhospital/"
     },
     "TianxiaChina": {
-      "episode_count": 1,
-      "show_count": 1,
-      "source_note_count": 1,
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "lrm9QbtnCvUh2uTckq7hogPOXhAY [lrm9QbtnCvUh2uTckq7hogPOXhAY].md",
@@ -96347,9 +96386,16 @@
           "show": "忽左忽右",
           "title": "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山",
           "url": "/wiki/sources/499-fanyue-longban-yanhaijun-tan-zuowei-gudai-zhongguo-dongxi-hudong-zhouxin-de-longshan-lrm9qbtncvuh2utckq7hogpoxhay/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
+          "key": "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
         }
       ],
-      "updated": "2026-09-08",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/tianxiachina/"
     },
     "TianzhenButianzhen": {
@@ -97457,6 +97503,38 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/trialsizeproduct/"
+    },
+    "TributaryStatusDiplomaticRigidity": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
+          "key": "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/tributarystatusdiplomaticrigidity/"
+    },
+    "TributeSystemEconomicIncentive": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
+          "key": "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/tributesystemeconomicincentive/"
     },
     "TristanBuckmaster": {
       "episode_count": 1,
@@ -105595,6 +105673,22 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/entities/xianbei/"
+    },
+    "XianfengEmperor": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸 [lr3erfvRoy4B_Ryu2Sfsdgd-e4m1].md",
+          "key": "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/xianfengemperor/"
     },
     "XiangBiao": {
       "episode_count": 1,

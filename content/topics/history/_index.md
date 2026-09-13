@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1846
+topic_total_pages: 1849
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1516,6 +1516,9 @@ topic_concepts:
   - key: "WangmenTouzhi"
     title: "望门投止 / Wangmen Touzhi"
     url: "/wiki/concepts/wangmentouzhi/"
+  - key: "TributeSystemEconomicIncentive"
+    title: "朝贡体系经济激励 / Tribute System Economic Incentive"
+    url: "/wiki/concepts/tributesystemeconomicincentive/"
   - key: "TerminalHezongFailure"
     title: "末次合纵失败 / Terminal Hezong Failure"
     url: "/wiki/concepts/terminalhezongfailure/"
@@ -3068,6 +3071,9 @@ topic_entities:
   - key: "EmpressMaMingdeEasternHan"
     title: "明德马皇后 / Empress Ma (Mingde, Eastern Han)"
     url: "/wiki/entities/empressmamingdeeasternhan/"
+  - key: "MingDynasty"
+    title: "明朝 / Ming Dynasty"
+    url: "/wiki/entities/mingdynasty/"
   - key: "Chunshenjun"
     title: "春申君 / 黄歇 / Lord Chunshen"
     url: "/wiki/entities/chunshenjun/"
@@ -3368,6 +3374,9 @@ topic_entities:
   - key: "QinghuaJianXinian"
     title: "清华简《系年》 / Qinghua Bamboo Slips Xinian"
     url: "/wiki/entities/qinghuajianxinian/"
+  - key: "QingDynasty"
+    title: "清朝 / Qing Dynasty"
+    url: "/wiki/entities/qingdynasty/"
   - key: "Mianchi"
     title: "渑池 / Mianchi"
     url: "/wiki/entities/mianchi/"

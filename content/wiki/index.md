@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸](sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1.md) — 芮淇讲透资治通鉴 short episode reframing tribute as prestige plus economic incentive, with Han/Ming subsidies, fake or rival tribute missions, Mongol tribute-trade pressure, and Xianfeng's treaty-era status rigidity.
 - [EP 37: Neurons: Future of AI Processing](sources/ep-37-neurons-future-of-ai-processing.md) — Data Science With Sam episode with Lena Curtis of FinalSpark on living human neurons as AI processors, remote neuro-platform access, biological processor energy efficiency, and biocomputing ethics.
 - [《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？](sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p.md) — 芮淇讲透资治通鉴 episode on the Huo family's post-Huo-Guang collapse, Huo Xian's household overreach, the failed coup plan, Huo Chengjun's deposition, Xu Fu's prevention warning, and Xuan's "芒刺在背" fear.
 - [《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？](sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu.md) — 芮淇讲透资治通鉴 episode on Sima Guang's split judgment of the Huo family purge, Emperor Xuan's delayed and excessive response, and Gong Sui's livelihood-first pacification of Bohai.
@@ -2377,6 +2378,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Ming Dynasty / 明朝](entities/MingDynasty.md) — Dynasty used by Hanji 422-2 as the institutionalized tribute-economy case around贡物 pricing,回赐, hosted reception, and tribute access conflict.
+- [Qing Dynasty / 清朝](entities/QingDynasty.md) — Dynasty used by Hanji 422-2 as the treaty-era case where inherited tribute hierarchy collides with resident-envoy diplomacy.
+- [Xianfeng Emperor / 咸丰帝](entities/XianfengEmperor.md) — Qing ruler whose resistance to resident foreign envoys grounds the wiki's tributary status diplomatic rigidity concept.
 - [Lena Curtis](entities/LenaCurtis.md) — Neuroscientist and FinalSpark strategic advisor explaining living-neuron processors in Data Science With Sam EP37.
 - [FinalSpark](entities/FinalSpark.md) — Swiss biocomputing startup offering remote access to living human neuron cultures for information-processing research.
 - [Fred Jordan](entities/FredJordan.md) — FinalSpark co-founder named in EP37's origin story for biological AI processors.
@@ -12358,6 +12362,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Tribute System Economic Incentive / 朝贡体系经济激励](concepts/TributeSystemEconomicIncentive.md) — Pattern where tribute participation is encouraged by rewards,回赐, high official prices, hosted reception, and controlled trade access.
+- [Tributary Status Diplomatic Rigidity / 朝贡身份秩序外交僵化](concepts/TributaryStatusDiplomaticRigidity.md) — Failure mode where a court protects tribute-hierarchy symbols even when equal diplomacy, fiscal limits, and military risk demand adaptation.
 - [Biocomputing AI Hardware](concepts/BiocomputingAIHardware.md) — AI-hardware frame for using living neural systems as specialized processors rather than biological power sources.
 - [Living Neuron Computing](concepts/LivingNeuronComputing.md) — Technical concept for stimulating, reading, and interpreting living neural cultures as dynamic information-processing systems.
 - [Neuro Platform Remote Access](concepts/NeuroPlatformRemoteAccess.md) — Research-infrastructure model where remote users code experiments against living neurons maintained in a lab.
