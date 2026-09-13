@@ -8,6 +8,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Sources
 - [《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！](sources/zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug.md) — 芮淇讲透资治通鉴 episode on Huo Guang's procedurally staged deposition of Liu He through ministerial consensus, Shangguan Taihou authorization, Changyi-follower isolation, and ritual-legitimacy indictment.
 - [《资治通鉴·汉纪》409｜汉宣帝刘病已：从狱中走出来的传奇皇帝！](sources/zizhi-tongjian-hanji-409-hanxuandi-liubingyi-cong-yuzhong-zouchulai-de-chuanqi-huangdi-ljyxm9nd5rvheusna29wkxuraqux.md) — 芮淇讲透资治通鉴 episode bridging Huo Guang's deposition of Liu He with Liu Bingyi's prison survival under Bing Ji before his future accession as Han Xuan.
+- [《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！](sources/zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype.md) — 芮淇讲透资治通鉴 episode on early Han Xuan surviving under Huo Guang's regency shadow through the old-sword empress signal, delayed Xu-family honor, refusal of premature returned authority, ritual boundary management, and Huang Ba's lenient-law contrast.
 - [661. Dawn of the Samurai: The Shogun Triumphant (Part 4)](sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375.md) — The Rest Is History episode on Tomoe, Yoshitsune's destruction of the Taira, Dan-no-ura, Yoritomo's political consolidation, and the birth of Kamakura samurai rule.
 - [《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落](sources/zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv.md) — 芮淇讲透资治通鉴 episode on Tian Yannian's Huo Guang-backed rise, mausoleum logistics corruption case, false denial, and suicide after losing patron protection.
 - [《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？](sources/zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi.md) — 芮淇讲透资治通鉴 episode on Xiahou Sheng's public cost-based criticism of Han Wudi's ritual honor, Huang Ba's refusal to join impeachment, and their prison Shangshu study.
@@ -2415,7 +2416,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [上官太后 / Empress Dowager Shangguan (Western Han)](entities/ShangguanTaihouWesternHan.md) — Empress dowager whose banquet authority is used as the planned cover in the Huo conspiracy.
 - [徐福 / Xu Fu (Western Han adviser)](entities/XuFuWesternHan.md) — Disambiguated Western Han adviser whose early warnings about Huo-family risk become the "曲突徙薪" prevention lesson.
 - [王成 / Wang Cheng (Western Han Jiaodong Xiang)](entities/WangChengWesternHan.md) — Western Han Jiaodong official whose fabricated performance report becomes a false-merit and feedback-failure case.
-- [徐广汉 / Xu Guanghan (Western Han)](entities/XuGuanghanWesternHan.md) — Han Xuan's father-in-law and Liu Shi's maternal grandfather whose crown-prince household request triggers Shu Guang's public-interest refusal.
+- [徐广汉 / Xu Guanghan (Western Han)](entities/XuGuanghanWesternHan.md) — Han Xuan's father-in-law and Liu Shi's maternal grandfather whose early honor is delayed by Huo Guang and whose later crown-prince household request triggers Shu Guang's public-interest refusal.
 - [路温舒 / Lu Wenshu (Western Han)](entities/LuWenshuWesternHan.md) — Western Han legal remonstrator whose 《尚德缓刑书》 criticizes harsh judicial officials, torture, and confession manufacturing.
 - [Keith Joseph](entities/KeithJoseph.md) — Conservative free-market voice whose damaged leadership prospects opened space for Thatcher's 1975 challenge.
 - [Airey Neave](entities/AireyNeave.md) — Conservative campaign organizer who helped turn Thatcher's underdog leadership bid into a first-ballot shock.
@@ -2606,7 +2607,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张放 / Zhang Fang (Western Han)](entities/ZhangFangWesternHan.md) — Chengdi favorite whose palace access, kinship backing, and exile show the fragility of favorite protection under dowager and ministerial pressure.
 - [班伯 / Ban Bo (Western Han)](entities/BanBoWesternHan.md) — Chengdi court remonstrant who uses the Shang Zhou image to warn against wine and disorder.
 - [邛成太后 / Qiongcheng Taihou (Western Han)](entities/QiongchengTaihouWesternHan.md) — Western Han dowager whose rushed funeral in 15 BCE triggers high-office accountability under Han Chengdi.
-- [许平君 / Xu Pingjun (Western Han)](entities/XuPingjunWesternHan.md) — Western Han empress remembered for frugality and whose poisoning created the foster-empress context for Qiongcheng Taihou raising Liu Shi.
+- [许平君 / Xu Pingjun (Western Han)](entities/XuPingjunWesternHan.md) — Western Han hardship wife elevated through Han Xuan's old-sword signal, remembered for frugality, and whose poisoning created the foster-empress context for Qiongcheng Taihou raising Liu Shi.
 - [淮阳王刘钦 / Liu Qin (Huaiyang King, Western Han)](entities/LiuQinHuaiyangKingWesternHan.md) — Xuan-era alternative heir whose appeal is contained by Liu Shi's established crown-prince status and Xu Pingjun's memory.
 - [薛宣 / Xue Xuan (Western Han)](entities/XueXuanWesternHan.md) — Western Han high official whose public lawfulness, family-adjacent distancing, promotion, and dismissal show the ambiguity of role discipline.
 - [薛惠 / Xue Hui (Western Han)](entities/XueHuiWesternHan.md) — Xue Xuan's son and Pengcheng magistrate in the Hanji 521 patronage-signaling scene.
@@ -12400,6 +12401,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Regent-Shadow Accession Survival / 权臣阴影下的即位生存](concepts/RegentShadowAccessionSurvival.md) — Early-ruler survival pattern where formal enthronement precedes practical power, requiring indirect signaling, waiting, and ritual boundary management under an overmighty regent.
 - [Dan-no-ura Battle](concepts/DanNoUraBattle.md) — 1185 naval battle that destroys Taira power and turns military victory into mass-death memory.
 - [Genpei War](concepts/GenpeiWar.md) — Minamoto-Taira civil war whose final phase produces both samurai legend and Kamakura warrior government.
 - [Kamakura Shogunate Formation](concepts/KamakuraShogunateFormation.md) — Yoritomo's conversion of Genpei War victory into a Kamakura-based military government.

@@ -82053,6 +82053,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/regencyundercompoundcrisis/"
     },
+    "RegentShadowAccessionSurvival": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！ [lks_pIA3LxWv_qao02Pm4MV-xYpE].md",
+          "key": "zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/regentshadowaccessionsurvival/"
+    },
     "RegimeSymbolContinuity": {
       "episode_count": 4,
       "show_count": 1,
@@ -107979,10 +107995,17 @@
       "url": "/wiki/entities/xugonglatehan/"
     },
     "XuGuanghanWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！ [lks_pIA3LxWv_qao02Pm4MV-xYpE].md",
+          "key": "zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？ [lim7JQyveStgOqB68pXHYuwIUhYd].md",
           "key": "zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd",
@@ -108124,10 +108147,17 @@
       "url": "/wiki/entities/xumeirenwesternhan/"
     },
     "XuPingjunWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！ [lks_pIA3LxWv_qao02Pm4MV-xYpE].md",
+          "key": "zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
           "key": "zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd",

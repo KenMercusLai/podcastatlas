@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7323
+wiki_total_pages: 7324
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -242,6 +242,9 @@ wiki_pages:
   - key: "RegencyUnderCompoundCrisis"
     title: "Regency Under Compound Crisis / 复合危机下的摄政"
     url: "/wiki/concepts/regencyundercompoundcrisis/"
+  - key: "RegentShadowAccessionSurvival"
+    title: "Regent-Shadow Accession Survival / 权臣阴影下的即位生存"
+    url: "/wiki/concepts/regentshadowaccessionsurvival/"
   - key: "RegimeBasicBaseStabilization"
     title: "Regime Basic-Base Stabilization / 政权基本盘稳定"
     url: "/wiki/concepts/regimebasicbasestabilization/"
