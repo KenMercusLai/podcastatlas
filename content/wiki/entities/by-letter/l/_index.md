@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10006
+wiki_total_pages: 10008
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1337,6 +1337,9 @@ wiki_pages:
   - key: "LiuChongAnzhongMarquis"
     title: "安众侯刘崇 / Liu Chong, Anzhong Marquis"
     url: "/wiki/entities/liuchonganzhongmarquis/"
+  - key: "LoulanKingAnguiWesternHan"
+    title: "安归 / Angui, King of Loulan (Western Han)"
+    url: "/wiki/entities/loulankinganguiwesternhan/"
   - key: "LiuLiShouguangMarquisEasternHan"
     title: "寿光侯刘李 / Liu Li, Shouguang Marquis (Eastern Han)"
     url: "/wiki/entities/liulishouguangmarquiseasternhan/"

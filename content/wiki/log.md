@@ -19206,6 +19206,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》403-2｜独剑斩楼兰，不该被遗忘的超级外交官：傅介子
+
+Added source `zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja`; created `LoulanKingAnguiWesternHan` and `WeiTuqiWesternHan`; updated `FuJieziWesternHan`, `LoulanKingdomWesternHan`, `CoerciveFrontierDeterrence`, `AssassinationAccessCredential`, and `FrontierProxyConquestStrategy` with Fu Jiezi's Loulan assassination, Angui head-display deterrence, Wei Tuqi hostage succession, Loulan/Shanshan renaming, Yixun屯田 support, and Sima Guang's trust-cost criticism. No settled contradiction found; Angui's motives, Yixun geography, Western Regions submission response, and the Fu Jiezi-to-Ban Chao influence frame remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！
 
 Added source `zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx`; created `FuJieziWesternHan` and `LoulanKingdomWesternHan`; updated `TianQianqiuWesternHan`, `QiuciKingdom`, and `CoerciveFrontierDeterrence` with Fu Jiezi's first Western Regions mission, Loulan and Qiuci rebukes, killing of Xiongnu envoys, and the low-cost second-mission setup under Huo Guang. No settled contradiction found; Qiuci spelling, Huo Guang motive inference, exact soldier counts, and the sequel Loulan-king assassination remain source-scoped.
@@ -19221,6 +19225,10 @@ Added source `zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguan
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？
 
 Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs`; updated `LiuHeHaihunHou`, `WangJiWesternHan`, `GongSuiWesternHan`, and `AccessionMourningLegibility` with the pre-summons Changyi layer: Huo Guang's controllability calculation, Liu He's indulgent habits, Wang Ji's educational remonstrance, and Gong Sui's failed companion-reform warning. No settled contradiction found; the strange dog omen remains source-scoped as episode remonstrance framing.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

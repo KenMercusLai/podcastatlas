@@ -5,57 +5,70 @@ knowledge_schema: synthesis-v1
 tags: [western-han, envoy, western-regions, diplomacy, frontier]
 sources:
   - zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx
+  - zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja
 last_updated: 2026-09-14
 ---
 
 ## Overview
 
-傅介子 / Fu Jiezi enters the wiki through [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] as a Western Han envoy-official who turns a low-ranking horse-administration career into a dangerous Western Regions mission under [[EmperorZhaoOfHan|汉昭帝刘弗陵]] and [[HuoGuangWesternHan|霍光]]'s regency shadow.
+傅介子 / Fu Jiezi enters the wiki through [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] and [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]] as a Western Han envoy-official whose small-party Western Regions missions move from rebuke and Xiongnu-envoy killing to the assassination of [[LoulanKingAnguiWesternHan|Loulan king Angui]] and installation of [[WeiTuqiWesternHan|Wei Tuqi]].
 
 ## Current Profile
 
-The source presents Fu Jiezi as an ambitious frontier actor whose personal desire for merit aligns with Han's need to restore credibility in the Western Regions. He begins as a Beidi man, a descendant of Fu Kuan, and a military officer promoted to commandery horse supervisor after service. When other officials avoid a risky Western Regions mission, Fu volunteers and is sent with a small group under the cover of retrieving Dayuan horses.
+The sources present Fu Jiezi as an ambitious frontier actor whose personal search for merit aligns with Han's need to restore credibility in the Western Regions. Hanji 403-1 begins with a modest Beidi and horse-administration background: Fu volunteers when others avoid danger, travels under the cover of retrieving Dayuan horses, rebukes [[LoulanKingdomWesternHan|Loulan]] and [[QiuciKingdom|Qiuci]], extracts intelligence about [[Xiongnu|Xiongnu]] envoys, and kills those envoys with a small party at a relay station. The action wins an immediate Loulan submission signal but does not permanently settle the region.
 
-Fu's first mission combines rebuke, intelligence gathering, and shock violence. He chastises [[LoulanKingdomWesternHan|Loulan]] for failing to report Xiongnu envoy movement, extracts intelligence about the envoys' route through [[QiuciKingdom|Qiuci / 丘辞]], rebukes Qiuci, waits for the returning envoys, and then kills them with a small party. The immediate result is Loulan's submission signal and Fu's promotion, but later disorder pushes him toward a second mission.
+Hanji 403-2 completes the second-mission cliffhanger. With [[HuoGuangWesternHan|Huo Guang]]'s support and [[EmperorZhaoOfHan|Han Zhao]]'s authority behind him, Fu carries valuables to Loulan, lets Angui believe he is missing out on Han gifts, isolates him through secret-audience language, and has two armed attendants kill him. Fu then turns the killing into coercive theater: he displays the head, threatens the nobles with Han destruction if they resist, announces Angui's offenses, and declares the hostage Wei Tuqi the new king as Loulan is renamed Shanshan.
 
-The page should preserve the episode's cliffhanger boundary. Fu's later killing of the Loulan king is previewed but not yet narrated here. What is already clear is the operating pattern: Fu argues that Western Regions control need not rely only on large expeditions; a small elite party, valuables, court backing, and carefully chosen violence can produce deterrence.
+Fu's profile is therefore not only heroic. The same second source records [[SimaGuang|Sima Guang]]'s criticism that using valuables to lure and kill a ruler who had already confessed resembles a thief's trick and can damage future submission credibility. Fu becomes a sharp case of small-force frontier effectiveness joined to tactical credibility cost.
 
 ## Key Characteristics
 
-- Western Han envoy-official whose first wiki layer is a high-risk Western Regions mission under Han Zhao.
+- Western Han envoy-official whose two current sources form one Western Regions coercive-diplomacy arc.
 - Ambitious lower-ranking military administrator seeking merit, promotion, and family restoration.
-- Uses cover mission, direct rebuke, local intelligence, and small-party violence rather than a large army.
-- Treats Xiongnu envoy movement through Loulan and Qiuci as an opportunity to restore Han deterrence.
-- Needs both Han Zhao's authorization and Huo Guang's support before attempting the larger second mission.
-- Source case for coercive frontier deterrence, with short-term success and unresolved durability.
+- Uses cover mission, direct rebuke, local intelligence, valuables, secret-audience language, and small-party violence rather than a large army.
+- Treats Xiongnu envoy movement and Loulan's wavering allegiance as opportunities to restore Han deterrence.
+- Converts targeted killing into political theater through head display, threat, succession announcement, and renaming.
+- Source case for both effective coercive frontier deterrence and Sima Guang's warning about trust-damaging tactics.
 
 ## Evidence
 
-Career and ambition:
+Career and first mission:
 - [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Fu is from Beidi, descends from Fu Kuan, joins the army, gains merit, and becomes commandery horse supervisor.
 - [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says he volunteers when other officials avoid the dangerous Western Regions mission.
-
-Mission method:
 - [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Han Zhao sends Fu under the pretext of retrieving Dayuan horses with roughly a dozen or two strong attendants.
-- [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Fu rebukes Loulan and Qiuci, receives intelligence about Xiongnu envoys, and then kills the envoys at a relay station.
 
-Political backing:
+Small-party coercion:
+- [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Fu rebukes Loulan and Qiuci, receives intelligence about Xiongnu envoys, and kills the envoys at a relay station.
+- [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]] says Fu returns west with valuables, lures Angui into renewed reception, and isolates him for a private conversation.
+- [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]] says two Han warriors stab Angui from behind and Fu displays the severed head to control the Loulan nobles.
+
+Political result and reward:
 - [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Fu is promoted after the first mission but remains unsatisfied because he wants higher hereditary merit.
-- [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Fu later courts Huo Guang's support and proposes a low-cost second mission using a few elite soldiers, gold, silver, and silk.
+- [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]] says Fu announces Angui's offenses, installs Wei Tuqi, and renames Loulan as Shanshan.
+- [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]] says Fu is made Yiyang Hou with seven hundred households, while the two warriors are promoted to palace attendant status.
+
+Normative controversy:
+- [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]] says Sima Guang argues Han should have openly punished Loulan if punishment was necessary, rather than using valuables and surprise killing after confession.
 
 ## Qualifications
 
-This page is bounded to Hanji 403-1. It does not yet narrate Fu Jiezi's later assassination of the Loulan king, his full office chronology, the primary-source legal framing of killing envoys, or the long-run effect of his actions in the Western Regions. Huo Guang's private motives in supporting a low-cost plan are treated as source interpretation rather than settled fact.
+This page is bounded to Hanji 403-1 and Hanji 403-2. It does not reconstruct Fu Jiezi's full office chronology, the primary-source legal framing of killing envoys or Angui, the exact number and identity of attendants, the full geography of Loulan/Shanshan/Yixun, or the long-run effect of the mission. The source's link from Fu Jiezi to [[BanChaoEasternHan|Ban Chao]] is preserved as heroic memory and influence language, not as proof of direct causality.
 
 ## What Changed
 
-- Created the page from Hanji 403-1 as an early Western Han small-party coercive diplomacy case.
+- Added Hanji 403-2 to complete the second-mission cliffhanger with Angui's assassination, Wei Tuqi's installation, Shanshan renaming, and Fu's marquisate.
+- Reframed Fu from first-mission shock envoy into a fuller small-party coercive diplomacy case.
+- Added Sima Guang's criticism as a standing qualification on the moral and trust cost of Fu's method.
 
 ## Relationships
 
-- [[EmperorZhaoOfHan]] - ruler who authorizes and rewards Fu's first mission.
-- [[HuoGuangWesternHan]] - regent whose support Fu seeks before the second mission.
-- [[LoulanKingdomWesternHan]] - first Western Regions target of Fu's rebuke and later cliffhanger target.
-- [[QiuciKingdom]] - polity where Fu obtains and acts on Xiongnu envoy intelligence.
-- [[Xiongnu]] - rival power whose envoys become Fu's immediate target.
+- [[EmperorZhaoOfHan]] - ruler who authorizes and rewards Fu's Western Regions missions.
+- [[HuoGuangWesternHan]] - regent whose support makes the second mission politically possible.
+- [[LoulanKingdomWesternHan]] - Western Regions target of Fu's rebuke, assassination operation, and succession reshaping.
+- [[LoulanKingAnguiWesternHan]] - ruler killed by Fu's second mission.
+- [[WeiTuqiWesternHan]] - hostage successor Fu announces after Angui's death.
+- [[QiuciKingdom]] - polity where Fu obtains and acts on Xiongnu envoy intelligence in the first mission.
+- [[Xiongnu]] - rival power whose envoys and influence become Fu's immediate targets.
 - [[CoerciveFrontierDeterrence]] - concept illustrated by Fu's small-party killing and threat strategy.
+- [[AssassinationAccessCredential]] - concept illustrated by valuables and secret-message access in the Angui killing.
+- [[TacticalCredibilityCost]] - concept connected to Sima Guang's criticism of trust-damaging诱杀.

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2498
+topic_total_pages: 2499
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -7299,6 +7299,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx"
     title: "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！"
     url: "/wiki/sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx/"
+  - key: "zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja"
+    title: "《资治通鉴·汉纪》403-2｜独剑斩楼兰，不该被遗忘的超级外交官：傅介子"
+    url: "/wiki/sources/zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja/"
   - key: "zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww"
     title: "《资治通鉴·汉纪》421｜西汉刑罚有多狠？官吏对囚犯想杀就能杀！"
     url: "/wiki/sources/zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww/"
