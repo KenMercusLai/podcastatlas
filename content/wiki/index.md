@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》442｜高段位职场人必读！揭秘古代帝王术](sources/zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd.md) — 芮淇讲透资治通鉴 episode on why rulers and bosses use morally compromised agents for dirty work, blame absorption, private needs, and stage-specific usefulness.
 - [663. Britain in the 70s: The Brexit That Never Was (Part 2)](sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377.md) — The Rest Is History episode on Harold Wilson, the 1975 European Community referendum, Labour's Europe split, Tony Benn's No campaign, and inflation-era crisis politics.
 - [《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？](sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r.md) — 芮淇讲透资治通鉴 episode on Liu Xiangfu's recalled Wusun heqin mission, Hexi/Western Regions strategy against Xiongnu, and Emperor Xuan's low-official salary increase as partial anti-corruption policy.
 - [《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？](sources/zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti.md) — 芮淇讲透资治通鉴 episode on Han Yanshou's ritual education, grassroots local network, strict-kind subordinate management, and closed-door self-reproach handling of a brothers' land dispute.
@@ -12280,6 +12281,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [脏活委托式君术 / Dirty-Work Delegation Statecraft](concepts/DirtyWorkDelegationStatecraft.md) — Court and workplace power pattern where rulers use disposable agents for coercive, gray-zone, flattering, or blame-bearing tasks they cannot openly own.
 - [AI Coding Vertical Integration](concepts/AICodingVerticalIntegration.md) — Strategy of combining AI coding interface, enterprise workflow, training data, model capability, and compute supply.
 - [Enterprise Agent Control Layer](concepts/EnterpriseAgentControlLayer.md) — Enterprise environment for coordinating many AI agents, model choices, permissions, tasks, and review loops.
 - [Debt-Financed SaaS Rollup Risk](concepts/DebtFinancedSaaSRollupRisk.md) — Fragility when leveraged software deals depend on predictable SaaS cash flows that AI and retention pressure can weaken.

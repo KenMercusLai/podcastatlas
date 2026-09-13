@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "d"
-wiki_total_pages: 7266
+wiki_total_pages: 7267
 wiki_pages:
   - key: "DABRadioCapacityExpansion"
     title: "DAB Radio Capacity Expansion"
@@ -1004,6 +1004,9 @@ wiki_pages:
   - key: "DirectRemonstranceCriminalization"
     title: "直谏入罪 / Direct Remonstrance Criminalization"
     url: "/wiki/concepts/directremonstrancecriminalization/"
+  - key: "DirtyWorkDelegationStatecraft"
+    title: "脏活委托式君术 / Dirty-Work Delegation Statecraft"
+    url: "/wiki/concepts/dirtyworkdelegationstatecraft/"
   - key: "DeathDefyingRemonstrance"
     title: "赴死式直谏 / Death-Defying Remonstrance"
     url: "/wiki/concepts/deathdefyingremonstrance/"

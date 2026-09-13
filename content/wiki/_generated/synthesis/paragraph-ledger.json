@@ -1,6 +1,7 @@
 {
   "coverage": {
     "assigned_paragraph_ids": [
+      "e7d72f8c2db326bd8855d56d59b603dd3f40f08275eaa0ffd959f6f08a9f2f7d",
       "d7d6232543135eff8598b142a537357b45323a7f7ae08aa3667969d64028aa03",
       "d6672e69f8e8d8fe52557b35f8c79e22079b9cb42b52b1c72071c0e1a9cf1ef6",
       "4aa2133b5eae87e53b2004dc853fcf9afb2bea0445d3e74a785fdbf0c749012a",
@@ -617,11 +618,37 @@
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108"
     ],
-    "paragraph_count": 615
+    "paragraph_count": 616
   },
-  "overview_commit": "20e556db642fc7170a6b3c23c5823205d95c8065",
-  "overview_digest": "6bf2079ab30449a59f52edfac11562efd0f6133bb891dd707b128813454d107c",
+  "overview_commit": "76b24138e492966e9c0633abd078c41618da22fb",
+  "overview_digest": "a0b139e090c11add4086df0c17e05a2cf1d978d0b0d8029ffd3e7e2c557d78df",
   "paragraphs": [
+    {
+      "id": "e7d72f8c2db326bd8855d56d59b603dd3f40f08275eaa0ffd959f6f08a9f2f7d",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [
+        "work-education-and-society"
+      ],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|《资治通鉴·汉纪》442｜高段位职场人必读！揭秘古代帝王术]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode on why rulers and workplace leaders may use morally compromised but useful people. It adds [[DirtyWorkDelegationStatecraft|脏活委托式君术]], while extending [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[UpwardManagement]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]]. Its core synthesis is that power often assigns people by hidden function rather than clean moral label: dirty-work agents can handle coercion, accusation, flattery, private service, operations, or blame that the ruler cannot openly own, then become disposable when their usefulness fades. No settled contradiction is recorded; the many historical examples and the workplace analogy remain source-scoped.",
+      "topic_scores": {
+        "ai-and-technology": 1,
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 2
+      },
+      "wikilinks": [
+        "BlameAbsorbingResponsibility",
+        "CourtTransitionBlameManagement",
+        "DirtyWorkDelegationStatecraft",
+        "LegalistRulerTechnique",
+        "NonMoralPoliticalAnalysis",
+        "RuiqiJiangtouZizhiTongjian",
+        "TalentVirtueDistinction",
+        "UpwardManagement",
+        "UseStrengthsOverFaults",
+        "zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd"
+      ]
+    },
     {
       "id": "d7d6232543135eff8598b142a537357b45323a7f7ae08aa3667969d64028aa03",
       "primary_topic": "history-and-geopolitics",

@@ -3,18 +3,30 @@
 generated: true
 topic_id: governance-and-institutions
 title: "Governance and Institutions"
-last_updated: 2026-09-12
-as_of_overview_commit: 948774b7bb3b2c93f2d1ddbe8e25a7122d285ae7
-input_digest: 2628fe7032a41df7b8667c44dc899a84d1724c044ea35dc2641f9fa9d14c61ee
+last_updated: 2026-09-13
+as_of_overview_commit: 76b24138e492966e9c0633abd078c41618da22fb
+input_digest: 19904415c18814da8f6bc53b1c842f7b0af903832389fc51936cfe9371423c78
 ---
 
 # Governance and Institutions
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, and protected access repeatedly determine outcomes. Hanji 487 adds a Western Han prelude where Jing Fang's kaogong reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, and protected access repeatedly determine outcomes. Hanji 487 adds a Western Han prelude where Jing Fang's kaogong reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own, while later disposal can restore legitimacy.
 
 ## Cross-source Findings
+
+### Dirty Work Delegation Separates Ruler Demand From Visible Blame
+
+[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence.
+
+**Evidence:** [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd]], [[DirtyWorkDelegationStatecraft]], [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], [[CourtTransitionBlameManagement]]
+
+**Qualifications:**
+
+- This is source-scoped to one workplace-oriented Hanji 442 synthesis and does not settle the full biographies or moral evaluations of the many historical examples.
+- The claim describes a mechanism of ruler demand, delegation, and later disposal; it does not justify cruelty, slander, or accountability evasion.
+- The source keeps the workplace analogy diagnostic rather than prescriptive.
 
 ### Confidential Remonstrance Leakage Turns Ritual Correction Into Punishment
 

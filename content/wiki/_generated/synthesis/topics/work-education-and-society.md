@@ -4,17 +4,29 @@ generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
 last_updated: 2026-09-13
-as_of_overview_commit: 38e696904610b4f6cae1fe77ffb88d93bdee2b99
-input_digest: 6dc4157d102714349a99e8efe4f9d6494b920017eea5e25063f2694b400b2078
+as_of_overview_commit: 76b24138e492966e9c0633abd078c41618da22fb
+input_digest: 24011bafa1d387defc6e48aef14cb0160adf6740945de3c079966110fa277d3a
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct.
 
 ## Cross-source Findings
+
+### Hidden Leader Demand Shapes Workplace Usefulness
+
+[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] enters work-and-society as a hierarchy diagnosis: [[DirtyWorkDelegationStatecraft]] and [[UpwardManagement]] show that leaders may value people who meet hidden operational, emotional, private-service, or blame-bearing needs, while [[TalentVirtueDistinction]] and [[UseStrengthsOverFaults]] keep usefulness separate from virtue.
+
+**Evidence:** [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd]], [[DirtyWorkDelegationStatecraft]], [[UpwardManagement]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]]
+
+**Qualifications:**
+
+- This is a secondary workplace analogy from a historical podcast, not modern workplace, legal, ethics, or career advice.
+- The source warns against simplistic loyalist/villain labels but does not recommend becoming a dirty-work agent.
+- The many historical examples remain source-scoped and are not complete biographies.
 
 ### Hanji 445 Schools Ritual And Grassroots Network As Local Institution
 

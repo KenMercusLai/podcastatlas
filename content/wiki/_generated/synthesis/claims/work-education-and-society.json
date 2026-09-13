@@ -2,6 +2,25 @@
   "claims": [
     {
       "global_candidate": false,
+      "id": "hidden-leader-demand-shapes-workplace-usefulness",
+      "qualifications": [
+        "This is a secondary workplace analogy from a historical podcast, not modern workplace, legal, ethics, or career advice.",
+        "The source warns against simplistic loyalist/villain labels but does not recommend becoming a dirty-work agent.",
+        "The many historical examples remain source-scoped and are not complete biographies."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] enters work-and-society as a hierarchy diagnosis: [[DirtyWorkDelegationStatecraft]] and [[UpwardManagement]] show that leaders may value people who meet hidden operational, emotional, private-service, or blame-bearing needs, while [[TalentVirtueDistinction]] and [[UseStrengthsOverFaults]] keep usefulness separate from virtue.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd",
+        "DirtyWorkDelegationStatecraft",
+        "UpwardManagement",
+        "TalentVirtueDistinction",
+        "UseStrengthsOverFaults",
+        "BlameAbsorbingResponsibility"
+      ]
+    },
+    {
+      "global_candidate": false,
       "id": "hanji-445-schools-ritual-and-grassroots-network-as-local-institution",
       "qualifications": [
         "The claim is grounded in one podcast episode paragraph and should not be generalized beyond Han Yanshou without additional evidence.",
@@ -1421,8 +1440,8 @@
       ]
     }
   ],
-  "input_digest": "6dc4157d102714349a99e8efe4f9d6494b920017eea5e25063f2694b400b2078",
-  "summary": "Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication.",
+  "input_digest": "24011bafa1d387defc6e48aef14cb0160adf6740945de3c079966110fa277d3a",
+  "summary": "Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct.",
   "title": "Work, Education, and Society",
   "topic_id": "work-education-and-society"
 }
