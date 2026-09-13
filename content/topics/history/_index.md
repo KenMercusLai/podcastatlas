@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1852
+topic_total_pages: 1854
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1318,6 +1318,9 @@ topic_concepts:
   - key: "NujieGenderNormTransmission"
     title: "《女诫》性别规范传承 / Nujie Gender Norm Transmission"
     url: "/wiki/concepts/nujiegendernormtransmission/"
+  - key: "TeacherAsFatherEthic"
+    title: "一日为师终身为父伦理 / Teacher-as-Father Ethic"
+    url: "/wiki/concepts/teacherasfatherethic/"
   - key: "ThreeKingdomsStruggleStrategyReading"
     title: "三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading"
     url: "/wiki/concepts/threekingdomsstrugglestrategyreading/"
@@ -1330,6 +1333,9 @@ topic_concepts:
   - key: "NortheastModernityTestSite"
     title: "东北现代性试验场 / Northeast Modernity Test Site"
     url: "/wiki/concepts/northeastmodernitytestsite/"
+  - key: "TraditionalChineseApprenticeship"
+    title: "中国传统学徒制 / Traditional Chinese Apprenticeship"
+    url: "/wiki/concepts/traditionalchineseapprenticeship/"
   - key: "WudaiAdoptiveSonSystem"
     title: "五代义子假子制度 / Five Dynasties Adoptive-Son System"
     url: "/wiki/concepts/wudaiadoptivesonsystem/"

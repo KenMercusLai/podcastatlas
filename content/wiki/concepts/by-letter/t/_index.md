@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7335
+wiki_total_pages: 7338
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -797,6 +797,9 @@ wiki_pages:
   - key: "TyrannicideRepublicanDilemma"
     title: "Tyrannicide Republican Dilemma / 弑君式共和困境"
     url: "/wiki/concepts/tyranniciderepublicandilemma/"
+  - key: "TeacherAsFatherEthic"
+    title: "一日为师终身为父伦理 / Teacher-as-Father Ethic"
+    url: "/wiki/concepts/teacherasfatherethic/"
   - key: "ThreeRefusalsIntegrity"
     title: "三不沾式清廉自守 / Three-Refusals Integrity"
     url: "/wiki/concepts/threerefusalsintegrity/"
@@ -809,6 +812,9 @@ wiki_pages:
   - key: "TopDownExemplarGovernance"
     title: "上行下效式政风治理 / Top-Down Exemplar Governance"
     url: "/wiki/concepts/topdownexemplargovernance/"
+  - key: "TraditionalChineseApprenticeship"
+    title: "中国传统学徒制 / Traditional Chinese Apprenticeship"
+    url: "/wiki/concepts/traditionalchineseapprenticeship/"
   - key: "TemporaryFrontierRetrenchment"
     title: "临时边防收缩 / Temporary Frontier Retrenchment"
     url: "/wiki/concepts/temporaryfrontierretrenchment/"

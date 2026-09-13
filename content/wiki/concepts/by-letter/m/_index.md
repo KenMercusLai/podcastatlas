@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7335
+wiki_total_pages: 7338
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1202,6 +1202,9 @@ wiki_pages:
   - key: "MourningFramedMilitaryAbsorption"
     title: "丧礼化收编 / Mourning-Framed Military Absorption"
     url: "/wiki/concepts/mourningframedmilitaryabsorption/"
+  - key: "MedievalGuildApprenticeshipRights"
+    title: "中世纪行会学徒权利 / Medieval Guild Apprenticeship Rights"
+    url: "/wiki/concepts/medievalguildapprenticeshiprights/"
   - key: "MinisterialDignityProtection"
     title: "九卿体面保护 / Ministerial Dignity Protection"
     url: "/wiki/concepts/ministerialdignityprotection/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2696
+topic_total_pages: 2700
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2716,6 +2716,9 @@ topic_concepts:
   - key: "ZhuangbiAsSocialSignaling"
     title: "Zhuangbi As Social Signaling / 装逼作为社会信号"
     url: "/wiki/concepts/zhuangbiassocialsignaling/"
+  - key: "TeacherAsFatherEthic"
+    title: "一日为师终身为父伦理 / Teacher-as-Father Ethic"
+    url: "/wiki/concepts/teacherasfatherethic/"
   - key: "TopDownExemplarGovernance"
     title: "上行下效式政风治理 / Top-Down Exemplar Governance"
     url: "/wiki/concepts/topdownexemplargovernance/"
@@ -2725,6 +2728,12 @@ topic_concepts:
   - key: "FemaleCourtEducationEasternHan"
     title: "东汉宫廷女性教育 / Eastern Han Female Court Education"
     url: "/wiki/concepts/femalecourteducationeasternhan/"
+  - key: "MedievalGuildApprenticeshipRights"
+    title: "中世纪行会学徒权利 / Medieval Guild Apprenticeship Rights"
+    url: "/wiki/concepts/medievalguildapprenticeshiprights/"
+  - key: "TraditionalChineseApprenticeship"
+    title: "中国传统学徒制 / Traditional Chinese Apprenticeship"
+    url: "/wiki/concepts/traditionalchineseapprenticeship/"
   - key: "CapitalPoetrySociality"
     title: "京城诗社交性 / Capital Poetry Sociality"
     url: "/wiki/concepts/capitalpoetrysociality/"
@@ -7959,6 +7968,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko"
+    title: "《资治通鉴·汉纪》405-2｜为什么说“一日为师，终身为父”？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko/"
   - key: "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx"
     title: "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？"
     url: "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
