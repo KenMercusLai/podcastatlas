@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书](sources/vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih.md) — 这病说来话长 episode with Ding Kefeng on bowel-symptom triage, colorectal-cancer screening, colonoscopy, polyp risk stratification, liquid-biopsy boundaries, and function-preserving colorectal surgery.
+- [《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏](sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq.md) — 芮淇讲透资治通鉴 episode on Han Xuan rewarding old benefactors, secretly monitoring Liu He, reducing him to Haihun Hou, and turning Bing Ji's hidden service into a lesson about hidden virtue and reward fitness.
 - [《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？](sources/zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's late-life Qiang campaign origin, Yi Qu Anguo's frontier mismanagement, cautious reconnaissance, troop care, and coalition-splitting amnesty policy.
 - [《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争](sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo rejecting Xin Wuxian's July Qiang attack plan through logistics, target selection, defensive patience, and coalition-fracture reasoning.
 - [《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！](sources/zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's slow pursuit, trust-building release of Qiang submitters, refusal of a premature attack order, and屯田 infrastructure memorial as a management lesson.
@@ -2364,6 +2365,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [刘贺 / Liu He / Marquis of Haihun](entities/LiuHeHaihunHou.md) — Former Western Han emperor monitored by Han Xuan and reduced to Haihun Hou in Hanji 430.
+- [海昏侯国 / Haihun Marquisate](entities/HaihunMarquisate.md) — Reduced marquisate used to contain Liu He's residual legitimacy in Hanji 430.
+- [张厂 / Zhang Chang (Shanyang governor)](entities/ZhangChangShanyangWesternHan.md) — Shanyang governor tasked with confidential surveillance of Liu He in Hanji 430.
+- [张贺 / Zhang He (Western Han)](entities/ZhangHeWesternHan.md) — Deceased benefactor whom Han Xuan rewards posthumously in Hanji 430.
+- [张安世 / Zhang Anshi (Western Han)](entities/ZhangAnshiWesternHan.md) — Western Han official whose refusal of excessive reward illustrates reward-fitness caution in Hanji 430.
+- [张彭祖 / Zhang Pengzu (Western Han)](entities/ZhangPengzuWesternHan.md) — Zhang He's adopted heir and recipient of Han Xuan's benefactor-family reward in Hanji 430.
+- [张霸 / Zhang Ba (Western Han)](entities/ZhangBaWesternHan.md) — Child descendant rewarded in Han Xuan's old-benefactor branch in Hanji 430.
+- [夏侯胜 / Xiahou Sheng (Western Han)](entities/XiahouShengWesternHan.md) — Crown-prince tutor who interprets Bing Ji's recovery through hidden virtue in Hanji 430.
 - [Ding Kefeng / 丁克峰](entities/DingKefeng.md) — Colorectal-surgery professor featured in the bowel-health and colorectal-cancer screening episode.
 - [Trent Rossiter](entities/TrentRossiter.md) — Local-AI practitioner and Logic Data Solutions consultant explaining memory-first hardware, framework choice, and agent isolation in Data Science With Sam EP38.
 - [Logic Data Solutions](entities/LogicDataSolutions.md) — Consulting-company context for Trent Rossiter's local-AI and data-platform practice.
@@ -12311,6 +12320,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [阴德福报因果 / Hidden Virtue Reward Causality](concepts/YindeRewardCausality.md) — Hanji 430's source-scoped frame for hidden good action later returning as blessing or descendant benefit.
+- [德位不配风险 / Reward Fitness Risk](concepts/RewardFitnessRisk.md) — Hanji 430's warning that honor, wealth, or office becomes dangerous when it outruns merit and virtue.
 - [Bowel Symptom Triage](concepts/BowelSymptomTriage.md) — Boundary for interpreting diarrhea, constipation, bleeding, mucus, stool color, and bowel-habit changes without panic or dismissal.
 - [Irritable Bowel Syndrome Diagnostic Boundary](concepts/IrritableBowelSyndromeDiagnosticBoundary.md) — Caution that IBS-style functional labels should follow exclusion of organic disease.
 - [Coffee Laxative Myth](concepts/CoffeeLaxativeMyth.md) — Boundary around treating iced Americano or coffee as a reliable constipation solution.

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9943
+wiki_total_pages: 9951
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1184,6 +1184,9 @@ wiki_pages:
   - key: "LiuZhiTaiyuanLateHan"
     title: "刘质 / Liu Zhi (Taiyuan late Han)"
     url: "/wiki/entities/liuzhitaiyuanlatehan/"
+  - key: "LiuHeHaihunHou"
+    title: "刘贺 / Liu He / Marquis of Haihun"
+    url: "/wiki/entities/liuhehaihunhou/"
   - key: "LiuJia"
     title: "刘贾 / Liu Jia"
     url: "/wiki/entities/liujia/"

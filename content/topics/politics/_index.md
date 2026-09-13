@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2467
+topic_total_pages: 2468
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6269,6 +6269,9 @@ topic_entities:
   - key: "LianPo"
     title: "廉颇 / Lian Po"
     url: "/wiki/entities/lianpo/"
+  - key: "ZhangChangShanyangWesternHan"
+    title: "张厂 / Zhang Chang (Shanyang governor)"
+    url: "/wiki/entities/zhangchangshanyangwesternhan/"
   - key: "ZhangChengAstrologerLateHan"
     title: "张成 / Zhang Cheng (late Han astrologer)"
     url: "/wiki/entities/zhangchengastrologerlatehan/"

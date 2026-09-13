@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "h"
-wiki_total_pages: 9943
+wiki_total_pages: 9951
 wiki_pages:
   - key: "HuckleberryFinn"
     title: "Adventures of Huckleberry Finn / 《哈克贝利·费恩历险记》"
@@ -1115,6 +1115,9 @@ wiki_pages:
   - key: "HaihunLateHan"
     title: "海昏 / Haihun (late Han)"
     url: "/wiki/entities/haihunlatehan/"
+  - key: "HaihunMarquisate"
+    title: "海昏侯国 / Haihun Marquisate"
+    url: "/wiki/entities/haihunmarquisate/"
   - key: "HuainanRegion"
     title: "淮南 / Huainan Region"
     url: "/wiki/entities/huainanregion/"

@@ -26327,6 +26327,10 @@
     "title": "海昏 / Haihun (late Han)",
     "url": "/wiki/entities/haihunlatehan/"
   },
+  "HaihunMarquisate": {
+    "title": "海昏侯国 / Haihun Marquisate",
+    "url": "/wiki/entities/haihunmarquisate/"
+  },
   "HaijinAndMaritimeSmuggling": {
     "title": "Haijin and Maritime Smuggling",
     "url": "/wiki/concepts/haijinandmaritimesmuggling/"
@@ -36422,6 +36426,10 @@
   "LiuGuiLateHan": {
     "title": "刘瑰 / Liu Gui (late Han)",
     "url": "/wiki/entities/liuguilatehan/"
+  },
+  "LiuHeHaihunHou": {
+    "title": "刘贺 / Liu He / Marquis of Haihun",
+    "url": "/wiki/entities/liuhehaihunhou/"
   },
   "LiuHeLateHan": {
     "title": "刘和 / Liu He (Late Han)",
@@ -51111,6 +51119,10 @@
     "title": "Reward Allocation Backlash / 分配反噬",
     "url": "/wiki/concepts/rewardallocationbacklash/"
   },
+  "RewardFitnessRisk": {
+    "title": "德位不配风险 / Reward Fitness Risk",
+    "url": "/wiki/concepts/rewardfitnessrisk/"
+  },
   "RewardPredictionErrorLearning": {
     "title": "Reward Prediction Error Learning",
     "url": "/wiki/concepts/rewardpredictionerrorlearning/"
@@ -65531,6 +65543,10 @@
     "title": "夏侯藩 / Xiahou Fan (Western Han)",
     "url": "/wiki/entities/xiahoufanwesternhan/"
   },
+  "XiahouShengWesternHan": {
+    "title": "夏侯胜 / Xiahou Sheng (Western Han)",
+    "url": "/wiki/entities/xiahoushengwesternhan/"
+  },
   "XiahouYing": {
     "title": "夏侯婴 / Xiahou Ying",
     "url": "/wiki/entities/xiahouying/"
@@ -67323,6 +67339,10 @@
     "title": "银川互联网医院试点",
     "url": "/wiki/concepts/yinchuaninternethospitalpilot/"
   },
+  "YindeRewardCausality": {
+    "title": "阴德福报因果 / Hidden Virtue Reward Causality",
+    "url": "/wiki/concepts/yinderewardcausality/"
+  },
   "YinfaChuanliu": {
     "title": "《银发川柳》 / Silver Senryu",
     "url": "/wiki/entities/yinfachuanliu/"
@@ -68267,6 +68287,10 @@
     "title": "张卬 / Zhang Ang (Gengshi)",
     "url": "/wiki/entities/zhanganggengshi/"
   },
+  "ZhangAnshiWesternHan": {
+    "title": "张安世 / Zhang Anshi (Western Han)",
+    "url": "/wiki/entities/zhanganshiwesternhan/"
+  },
   "ZhangAo": {
     "title": "张敖 / Zhang Ao",
     "url": "/wiki/entities/zhangao/"
@@ -68274,6 +68298,10 @@
   "ZhangBaLateHan": {
     "title": "张霸 / Zhang Ba (late Han)",
     "url": "/wiki/entities/zhangbalatehan/"
+  },
+  "ZhangBaWesternHan": {
+    "title": "张霸 / Zhang Ba (Western Han)",
+    "url": "/wiki/entities/zhangbawesternhan/"
   },
   "ZhangBailuLateHan": {
     "title": "张白禄 / Zhang Bailu (late Han)",
@@ -68310,6 +68338,10 @@
   "ZhangChangNanyangLateHan": {
     "title": "张厂 / Zhang Chang (Nanyang, late Han)",
     "url": "/wiki/entities/zhangchangnanyanglatehan/"
+  },
+  "ZhangChangShanyangWesternHan": {
+    "title": "张厂 / Zhang Chang (Shanyang governor)",
+    "url": "/wiki/entities/zhangchangshanyangwesternhan/"
   },
   "ZhangChangWesternHan": {
     "title": "张敞 / Zhang Chang (Western Han)",
@@ -68426,6 +68458,10 @@
   "ZhangHeLateHan": {
     "title": "张郃 / Zhang He (late Han)",
     "url": "/wiki/entities/zhanghelatehan/"
+  },
+  "ZhangHeWesternHan": {
+    "title": "张贺 / Zhang He (Western Han)",
+    "url": "/wiki/entities/zhanghewesternhan/"
   },
   "ZhangHeZhangChu": {
     "title": "张鹤 / Zhang He (Zhang Chu)",
@@ -68602,6 +68638,10 @@
   "ZhangPanLateHan": {
     "title": "张磐 / Zhang Pan (late Han)",
     "url": "/wiki/entities/zhangpanlatehan/"
+  },
+  "ZhangPengzuWesternHan": {
+    "title": "张彭祖 / Zhang Pengzu (Western Han)",
+    "url": "/wiki/entities/zhangpengzuwesternhan/"
   },
   "ZhangPingHan": {
     "title": "张平 / Zhang Ping",
@@ -75126,6 +75166,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq": {
+    "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
   },
   "zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4": {
     "title": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞",

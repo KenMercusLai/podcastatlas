@@ -10251,9 +10251,9 @@
       "url": "/wiki/concepts/binarybiotechplatformoptionality/"
     },
     "BingJiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？ [lrJgft-S8Oi3YT3LRNsh0_M20Sxj].md",
@@ -10268,6 +10268,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
           "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
         }
       ],
       "updated": "2026-09-13",
@@ -28800,9 +28807,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 1,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -28873,6 +28880,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》452｜萧望之被降职，你在职场犯过这种错吗",
           "url": "/wiki/sources/zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
         }
       ],
       "updated": "2026-09-13",
@@ -41886,6 +41900,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/haidilao/"
+    },
+    "HaihunMarquisate": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/haihunmarquisate/"
     },
     "HainanAirlines": {
       "episode_count": 2,
@@ -58415,6 +58445,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/liuguilatehan/"
+    },
+    "LiuHeHaihunHou": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHongweiStandup": {
       "episode_count": 1,
@@ -82030,6 +82076,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/concepts/revolutionaryoperaculturalmemory/"
     },
+    "RewardFitnessRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/rewardfitnessrisk/"
+    },
     "RewardPredictionErrorLearning": {
       "episode_count": 1,
       "show_count": 1,
@@ -104528,6 +104590,22 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/xiahoufanwesternhan/"
     },
+    "XiahouShengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/xiahoushengwesternhan/"
+    },
     "XiahouYuan": {
       "episode_count": 1,
       "show_count": 1,
@@ -108613,6 +108691,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/yinzhongwesternhan/"
     },
+    "YindeRewardCausality": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/yinderewardcausality/"
+    },
     "YingBo": {
       "episode_count": 1,
       "show_count": 1,
@@ -110062,6 +110156,38 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/zhanganggengshi/"
     },
+    "ZhangAnshiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/zhanganshiwesternhan/"
+    },
+    "ZhangBaWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/zhangbawesternhan/"
+    },
     "ZhangBailuLateHan": {
       "episode_count": 3,
       "show_count": 1,
@@ -110197,6 +110323,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangchangnanyanglatehan/"
+    },
+    "ZhangChangShanyangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/zhangchangshanyangwesternhan/"
     },
     "ZhangChangWesternHan": {
       "episode_count": 4,
@@ -110475,6 +110617,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhanghelatehan/"
+    },
+    "ZhangHeWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/zhanghewesternhan/"
     },
     "ZhangHengLateHan": {
       "episode_count": 2,
@@ -110959,6 +111117,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhangpanlatehan/"
+    },
+    "ZhangPengzuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
+          "key": "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/zhangpengzuwesternhan/"
     },
     "ZhangPuEasternHan": {
       "episode_count": 4,

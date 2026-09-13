@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "y"
-wiki_total_pages: 7280
+wiki_total_pages: 7282
 wiki_pages:
   - key: "YangtzeFishingBanRecovery"
     title: "Yangtze Fishing Ban Recovery"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "YinchuanInternetHospitalPilot"
     title: "银川互联网医院试点"
     url: "/wiki/concepts/yinchuaninternethospitalpilot/"
+  - key: "YindeRewardCausality"
+    title: "阴德福报因果 / Hidden Virtue Reward Causality"
+    url: "/wiki/concepts/yinderewardcausality/"
   - key: "YinmouYangmouConversion"
     title: "阴谋阳谋转换 / Yinmou-Yangmou Conversion"
     url: "/wiki/concepts/yinmouyangmouconversion/"
