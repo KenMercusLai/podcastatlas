@@ -20221,6 +20221,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/criticalpathmethodpersonalplanning/"
     },
+    "CriticalPeriodLanguageLearning": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/criticalperiodlanguagelearning/"
+    },
     "Crocs": {
       "episode_count": 2,
       "show_count": 1,
@@ -30306,6 +30322,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/ericweinstein/"
+    },
+    "ErichJarvis": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/erichjarvis/"
     },
     "ErnstJunger": {
       "episode_count": 1,
@@ -67229,6 +67261,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/concepts/museumtourismicon/"
     },
+    "MusicAffectiveCommunication": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/musicaffectivecommunication/"
+    },
     "MusicBasedEmotionRegulation": {
       "episode_count": 1,
       "show_count": 1,
@@ -79274,6 +79322,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/readingcomprehensionfragility/"
     },
+    "ReadingSilentSpeech": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/readingsilentspeech/"
+    },
     "RealEstateHighTurnoverLeverage": {
       "episode_count": 1,
       "show_count": 1,
@@ -88611,9 +88675,9 @@
       "url": "/wiki/concepts/speechactritual/"
     },
     "SpeechLanguageDistinction": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7185728420 [SCIM7185728420].md",
@@ -88621,9 +88685,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang",
           "url": "/wiki/sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420/"
+        },
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/speechlanguagedistinction/"
     },
     "SpeechLanguageRehabilitation": {
@@ -88648,6 +88719,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/concepts/speechlanguagerehabilitation/"
+    },
+    "SpeechMotorCircuitEvolution": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/speechmotorcircuitevolution/"
     },
     "SpeechNeuroprosthetics": {
       "episode_count": 1,
@@ -90250,9 +90337,9 @@
       "url": "/wiki/concepts/structuredgrievingpractice/"
     },
     "StutteringSpeechCoordination": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7185728420 [SCIM7185728420].md",
@@ -90260,9 +90347,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang",
           "url": "/wiki/sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420/"
+        },
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/stutteringspeechcoordination/"
     },
     "SuDingJiaozhi": {
@@ -98130,10 +98224,26 @@
       "updated": "2026-09-01",
       "url": "/wiki/entities/vittoriopozzo/"
     },
-    "VocalTractSpeechProduction": {
+    "VocalLearningEvolution": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/vocallearningevolution/"
+    },
+    "VocalTractSpeechProduction": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM7185728420 [SCIM7185728420].md",
@@ -98141,9 +98251,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: The Science of Learning & Speaking Languages | Dr. Eddie Chang",
           "url": "/wiki/sources/essentials-the-science-of-learning-speaking-languages-dr-eddie-chang-scim7185728420/"
+        },
+        {
+          "episode_file": "SCIM1556675193 [SCIM1556675193].md",
+          "key": "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193",
+          "show": "Huberman Lab",
+          "title": "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis",
+          "url": "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/vocaltractspeechproduction/"
     },
     "VoiceAgentInfrastructure": {

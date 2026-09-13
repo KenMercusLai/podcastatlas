@@ -18771,3 +18771,11 @@ Added source note plus Liu Xiangfu. Key claims: Western Han recalls Liu Xiangfu 
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis
+
+Added source note plus Erich Jarvis, Vocal Learning Evolution, Speech Motor Circuit Evolution, Critical-Period Language Learning, Music Affective Communication, and Reading Silent Speech. Key claims: spoken language is better framed as learned vocal-motor and auditory circuitry than as a separate language module, while stuttering, reading, writing, singing, and multilingual learning depend on coordinated sensory-motor systems with source-scoped clinical and practical boundaries.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

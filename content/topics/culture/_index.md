@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2680
+topic_total_pages: 2683
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -1657,6 +1657,9 @@ topic_concepts:
   - key: "MuseumTourismIcon"
     title: "Museum Tourism Icon"
     url: "/wiki/concepts/museumtourismicon/"
+  - key: "MusicAffectiveCommunication"
+    title: "Music Affective Communication"
+    url: "/wiki/concepts/musicaffectivecommunication/"
   - key: "MusicIndustryAIResponse"
     title: "Music Industry AI Response"
     url: "/wiki/concepts/musicindustryairesponse/"
@@ -3527,6 +3530,9 @@ topic_entities:
   - key: "ErasmusProgramme"
     title: "Erasmus Programme / 伊拉斯莫计划"
     url: "/wiki/entities/erasmusprogramme/"
+  - key: "ErichJarvis"
+    title: "Erich Jarvis"
+    url: "/wiki/entities/erichjarvis/"
   - key: "ErnestHemingway"
     title: "Ernest Hemingway / 海明威"
     url: "/wiki/entities/ernesthemingway/"
@@ -7710,6 +7716,9 @@ topic_sources:
   - key: "essentials-how-to-access-your-creativity-rick-rubin-scim7816635332"
     title: "Essentials: How to Access Your Creativity | Rick Rubin"
     url: "/wiki/sources/essentials-how-to-access-your-creativity-rick-rubin-scim7816635332/"
+  - key: "essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193"
+    title: "Essentials: The Neuroscience of Speech, Language & Music | Dr. Erich Jarvis"
+    url: "/wiki/sources/essentials-the-neuroscience-of-speech-language-music-dr-erich-jarvis-scim1556675193/"
   - key: "fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b"
     title: "Fault lines: Venezuela's paltry earthquake response"
     url: "/wiki/sources/fault-lines-venezuelas-paltry-earthquake-response-6a44e38375e7a3e96111931b/"

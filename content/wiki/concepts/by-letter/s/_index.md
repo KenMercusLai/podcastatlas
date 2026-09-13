@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7260
+wiki_total_pages: 7265
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1130,6 +1130,9 @@ wiki_pages:
   - key: "SpeechAsMoralDiagnostic"
     title: "Speech As Moral Diagnostic / 言语作为德行信号"
     url: "/wiki/concepts/speechasmoraldiagnostic/"
+  - key: "SpeechMotorCircuitEvolution"
+    title: "Speech Motor Circuit Evolution"
+    url: "/wiki/concepts/speechmotorcircuitevolution/"
   - key: "SpeechNeuroprosthetics"
     title: "Speech Neuroprosthetics"
     url: "/wiki/concepts/speechneuroprosthetics/"

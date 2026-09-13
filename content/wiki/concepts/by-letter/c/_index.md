@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7260
+wiki_total_pages: 7265
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1889,6 +1889,9 @@ wiki_pages:
   - key: "CriticalPathMethodPersonalPlanning"
     title: "Critical Path Method Personal Planning"
     url: "/wiki/concepts/criticalpathmethodpersonalplanning/"
+  - key: "CriticalPeriodLanguageLearning"
+    title: "Critical-Period Language Learning"
+    url: "/wiki/concepts/criticalperiodlanguagelearning/"
   - key: "CropCircleDebunking"
     title: "Crop Circle Debunking"
     url: "/wiki/concepts/cropcircledebunking/"
