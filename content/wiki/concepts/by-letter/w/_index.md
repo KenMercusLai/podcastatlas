@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 7359
+wiki_total_pages: 7361
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -482,6 +482,9 @@ wiki_pages:
   - key: "WanErDuoFeng"
     title: "婉而多讽 / Gentle And Layered Satire"
     url: "/wiki/concepts/wanerduofeng/"
+  - key: "WuguIncidentWesternHan"
+    title: "巫蛊之祸 / Wugu Incident (Western Han)"
+    url: "/wiki/concepts/wuguincidentwesternhan/"
   - key: "WeakPositionPacification"
     title: "弱势名分安抚 / Weak-Position Pacification"
     url: "/wiki/concepts/weakpositionpacification/"

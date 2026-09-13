@@ -9,6 +9,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [EP87《稀缺》：如何设计一个让自己变聪明的系统](sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv.md) — 纵横四海 episode on scarcity mindset, tunneling tax, mental bandwidth, slack, payday/time borrowing loops, fire drills, and system design over willpower.
 - [当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断](sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf.md) — 十字路口Crossing four-company embodied-AI debate on simulation versus real data, Astra-era general model boundaries, layered robot systems, commercialization economics, and physical production upside.
 - [“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年](sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs.md) — 罗永浩的十字路口 and 无聊斋 live crossover on everyday fear, social embarrassment, medical vulnerability, AI hallucination, AI career anxiety, cross-model verification, and AI companionship.
+- [《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？](sources/zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1.md) — 芮淇讲透资治通鉴 episode on a false Liu Ju claimant under Han Zhao, Jun Buyi's decisive arrest, and claimant-impostor crisis handling after the Wugu affair.
 - [《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的](sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr.md) — 芮淇讲透资治通鉴 short episode on Wang Anshi reforms as state commercial and credit monopoly, treasury gain versus public harm, Cai Jing, flower-and-rock transport, and fiscal extraction as a Northern Song collapse narrative.
 - [《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快](sources/zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq.md) — 芮淇讲透资治通鉴 short episode on merchants as exchange infrastructure, anti-merchant hierarchy, power-dominated wealth insecurity, and commerce suppression as economic drag.
 - [《资治通鉴·汉纪》397-2｜让皇帝都为之变色的流民，从何处来的？](sources/zizhi-tongjian-hanji-397-2-rang-huangdi-dou-wei-zhi-bianse-de-liumin-cong-hechu-laide-ltmoqipqk61_cg8n7w1gwaprtitj.md) — 芮淇讲透资治通鉴 episode on late Han Wudi displacement, the Luntai turn, Du Yannian's advice to Huo Guang, and the limited Salt and Iron Conference settlement.
@@ -2423,6 +2424,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [程方遂 / Cheng Fangsui (Western Han)](entities/ChengFangsuiWesternHan.md) — diviner who impersonates Liu Ju at Weiyang Palace and is executed after confession.
+- [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
+- [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose presumed death after the Wugu affair makes later impersonation politically explosive.
 - [自变量 / Zibianliang](entities/Zibianliang.md) — Embodied-intelligence company represented by Wang Qian through a data, validation, and customer-payment route.
 - [王前 / Wang Qian](entities/WangQianZibianliang.md) — Zibianliang speaker arguing that robot intelligence depends on data, validation infrastructure, and sustained customer payment.
 - [Natalie Crawford](entities/NatalieCrawford.md) — Fertility and reproductive-health physician featured on Huberman Lab, emphasizing fertility as a whole-body health marker and earlier reproductive data access.
@@ -12457,6 +12461,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Claimant-Impostor Crisis Handling / 宗室冒认危机处置](concepts/ClaimantImpostorCrisisHandling.md) — Succession crisis pattern where a royal identity claim must be contained before verification paralysis becomes disorder.
+- [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Narrow background concept for the late-Wudi succession trauma that makes the false Liu Ju return claim politically explosive.
 - [Embodied Robot Data Tradeoff](concepts/EmbodiedRobotDataTradeoff.md) — Tradeoff among simulation, real robot data, sensor noise, tactile/contact data, and raw robot-hour scale.
 - [General Model Robot Boundary](concepts/GeneralModelRobotBoundary.md) — Boundary between general foundation-model semantic/spatial gains and robot-specific continuous sensing, contact, and physical execution.
 - [Robot Deployment Success Economics](concepts/RobotDeploymentSuccessEconomics.md) — Commercial test combining high success rate, fast deployment, ROI, low adaptation cost, and sustained customer payment.

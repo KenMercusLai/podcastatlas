@@ -11531,6 +11531,10 @@
     "title": "程蝶衣 / Cheng Dieyi",
     "url": "/wiki/entities/chengdieyi/"
   },
+  "ChengFangsuiWesternHan": {
+    "title": "程方遂 / Cheng Fangsui (Western Han)",
+    "url": "/wiki/entities/chengfangsuiwesternhan/"
+  },
   "ChengFuren": {
     "title": "程夫人 / Madam Cheng",
     "url": "/wiki/entities/chengfuren/"
@@ -12846,6 +12850,10 @@
   "ClaimRestraintThroughAttachment": {
     "title": "Claim Restraint Through Attachment / 有所归属式名位节制",
     "url": "/wiki/concepts/claimrestraintthroughattachment/"
+  },
+  "ClaimantImpostorCrisisHandling": {
+    "title": "Claimant-Impostor Crisis Handling / 宗室冒认危机处置",
+    "url": "/wiki/concepts/claimantimpostorcrisishandling/"
   },
   "ClaireClairmont": {
     "title": "Claire Clairmont / 克莱尔·克莱尔蒙特",
@@ -33219,6 +33227,10 @@
     "title": "胡米利亚足球俱乐部 / Jumilla CF",
     "url": "/wiki/entities/jumillacf/"
   },
+  "JunBuyiWesternHan": {
+    "title": "隽不疑 / Jun Buyi (Western Han)",
+    "url": "/wiki/entities/junbuyiwesternhan/"
+  },
   "JunWangHou": {
     "title": "君王后 / Jun Wang Hou",
     "url": "/wiki/entities/junwanghou/"
@@ -36718,6 +36730,10 @@
   "LiuJingGuanglingKingEasternHan": {
     "title": "广陵王刘荆 / Liu Jing, Guangling King (Eastern Han)",
     "url": "/wiki/entities/liujingguanglingkingeasternhan/"
+  },
+  "LiuJuCrownPrinceWesternHan": {
+    "title": "卫太子刘据 / Liu Ju, Crown Prince of Western Han",
+    "url": "/wiki/entities/liujucrownprincewesternhan/"
   },
   "LiuJuLateHan": {
     "title": "刘矩 / Liu Ju (late Han)",
@@ -65839,6 +65855,10 @@
     "title": "武都郡 / Wudu Commandery (late Han)",
     "url": "/wiki/entities/wuducommanderylatehan/"
   },
+  "WuguIncidentWesternHan": {
+    "title": "巫蛊之祸 / Wugu Incident (Western Han)",
+    "url": "/wiki/concepts/wuguincidentwesternhan/"
+  },
   "WuguPoliticalPanic": {
     "title": "Wugu Political Panic / 巫蛊政治恐慌",
     "url": "/wiki/concepts/wugupoliticalpanic/"
@@ -75834,6 +75854,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1": {
+    "title": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1/"
   },
   "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr": {
     "title": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的",
