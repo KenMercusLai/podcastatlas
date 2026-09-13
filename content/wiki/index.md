@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？](sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu.md) — 芮淇讲透资治通鉴 episode on Sima Guang's split judgment of the Huo family purge, Emperor Xuan's delayed and excessive response, and Gong Sui's livelihood-first pacification of Bohai.
 - [662. Britain in the 70s: The Rise of Thatcher (Part 1)](sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730.md) — The Rest Is History episode on Margaret Thatcher's 1975 Conservative leadership victory, Ted Heath's defeat, Keith Joseph's collapse, Airey Neave's campaign, and the class and moral-market politics behind the Thatcher turn.
 - [How to Better Regulate Your Emotions | Dr. Marc Brackett](sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733.md) — Huberman Lab episode with Marc Brackett on emotion regulation as goal- and context-sensitive strategy, RULER, precise emotion vocabulary, vulnerability, co-regulation, school culture, leadership, masculinity, and adolescent AI companionship boundaries.
 - [VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书](sources/vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih.md) — 这病说来话长 episode with Ding Kefeng on bowel-symptom triage, colorectal-cancer screening, colonoscopy, polyp risk stratification, liquid-biopsy boundaries, and function-preserving colorectal surgery.
@@ -2371,6 +2372,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Gong Sui (Western Han)](entities/GongSuiWesternHan.md) — Western Han official whose Bohai governance reframed banditry as hunger and official-neglect repair.
+- [Huo Guang (Western Han)](entities/HuoGuangWesternHan.md) — Western Han regent whose loyal service and posthumous family purge illustrate failed power exit.
 - [Keith Joseph](entities/KeithJoseph.md) — Conservative free-market voice whose damaged leadership prospects opened space for Thatcher's 1975 challenge.
 - [Airey Neave](entities/AireyNeave.md) — Conservative campaign organizer who helped turn Thatcher's underdog leadership bid into a first-ballot shock.
 - [Marc Brackett](entities/MarcBrackett.md) — Yale emotional-intelligence researcher and Huberman Lab guest who frames regulation through goals, strategy, vocabulary, vulnerability, RULER, and the meta-moment.
@@ -12339,6 +12342,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Huo Family Purge After Huo Guang](concepts/HuoFamilyPurgeAfterHuoGuang.md) — court-politics pattern where overextended regency-family power turns merit into suspicion, conspiracy risk, and excessive collective punishment.
+- [Livelihood-First Pacification](concepts/LivelihoodFirstPacification.md) — governance pattern where officials repair hunger and production before treating disorder as enemy suppression.
 - [Conservative Leadership Election 1975](concepts/ConservativeLeadershipElection1975.md) — February 1975 contest in which Margaret Thatcher defeated Ted Heath and Willie Whitelaw to become Conservative leader.
 - [Conservative Party Class Realignment](concepts/ConservativePartyClassRealignment.md) — shift from patrician Heathite paternalism toward middle-class, grammar-school, free-market Conservative identity.
 - [Thatcherite Moral-Market Politics](concepts/ThatcheriteMoralMarketPolitics.md) — political style fusing free-market economics with moral language about thrift, work, discipline, property, and anti-socialism.

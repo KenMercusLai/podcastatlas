@@ -39731,6 +39731,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/gongshengxinscholar/"
     },
+    "GongSuiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
+          "key": "zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/gongsuiwesternhan/"
+    },
     "GongYuWesternHan": {
       "episode_count": 6,
       "show_count": 1,
@@ -47867,6 +47883,38 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/hundredyearswar/"
+    },
+    "HuoFamilyPurgeAfterHuoGuang": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
+          "key": "zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
+    },
+    "HuoGuangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
+          "key": "zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/huoguangwesternhan/"
     },
     "HuoNuLateHan": {
       "episode_count": 1,
@@ -60591,6 +60639,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/livehumanfeeling/"
+    },
+    "LivelihoodFirstPacification": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
+          "key": "zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/livelihoodfirstpacification/"
     },
     "LiyangYellowRiverLateHan": {
       "episode_count": 2,

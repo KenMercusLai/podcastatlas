@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7295
+wiki_total_pages: 7297
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -818,6 +818,9 @@ wiki_pages:
   - key: "HistoricalReadingAsSurvivalWisdom"
     title: "读史处世智慧 / Historical Reading as Survival Wisdom"
     url: "/wiki/concepts/historicalreadingassurvivalwisdom/"
+  - key: "HuoFamilyPurgeAfterHuoGuang"
+    title: "霍氏灭族与权力退场失败 / Huo Family Purge After Huo Guang"
+    url: "/wiki/concepts/huofamilypurgeafterhuoguang/"
   - key: "HongKongFootballCommercialClubGovernance"
     title: "香港商业球队治理 / Hong Kong Commercial Football Club Governance"
     url: "/wiki/concepts/hongkongfootballcommercialclubgovernance/"

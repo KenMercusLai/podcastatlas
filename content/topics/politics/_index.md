@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2477
+topic_total_pages: 2478
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3925,6 +3925,9 @@ topic_concepts:
   - key: "PopularSufferingGovernanceDiagnostic"
     title: "民困治理诊断 / Popular Suffering Governance Diagnostic"
     url: "/wiki/concepts/popularsufferinggovernancediagnostic/"
+  - key: "LivelihoodFirstPacification"
+    title: "民生优先安抚治理 / Livelihood-First Pacification"
+    url: "/wiki/concepts/livelihoodfirstpacification/"
   - key: "TalentSummonsRulerSelfExamination"
     title: "求贤中的君主自省 / Talent Summons Ruler Self-Examination"
     url: "/wiki/concepts/talentsummonsrulerselfexamination/"
