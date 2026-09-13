@@ -67382,6 +67382,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/menstrualstigma/"
     },
+    "MentalBandwidth": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOeedlBmE1xQTV2oRv [GKwRIRwOeedlBmE1xQTV2oRv].md",
+          "key": "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv",
+          "show": "纵横四海",
+          "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
+          "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/mentalbandwidth/"
+    },
     "MentalHealthHelpSeekingScamRisk": {
       "episode_count": 1,
       "show_count": 1,
@@ -81836,9 +81852,9 @@
       "url": "/wiki/concepts/queersafetyretreat/"
     },
     "QueueingTheorySlack": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GKwRIMAOaD7VBjtRSQTOtC4k [GKwRIMAOaD7VBjtRSQTOtC4k].md",
@@ -81846,9 +81862,16 @@
           "show": "纵横四海",
           "title": "EP86 颠覆工作流，效率提升3000%",
           "url": "/wiki/sources/ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k/"
+        },
+        {
+          "episode_file": "GKwRIRwOeedlBmE1xQTV2oRv [GKwRIRwOeedlBmE1xQTV2oRv].md",
+          "key": "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv",
+          "show": "纵横四海",
+          "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
+          "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/queueingtheoryslack/"
     },
     "QuietAIAdoptionDeparture": {
@@ -87104,6 +87127,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/saxonyanhalt/"
+    },
+    "ScarcityMindset": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOeedlBmE1xQTV2oRv [GKwRIRwOeedlBmE1xQTV2oRv].md",
+          "key": "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv",
+          "show": "纵横四海",
+          "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
+          "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/scarcitymindset/"
     },
     "ScarletSunrise": {
       "episode_count": 1,
@@ -95800,6 +95839,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/syntheticperformers/"
     },
+    "SystemDesignOverWillpower": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOeedlBmE1xQTV2oRv [GKwRIRwOeedlBmE1xQTV2oRv].md",
+          "key": "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv",
+          "show": "纵横四海",
+          "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
+          "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/systemdesignoverwillpower/"
+    },
     "SystemLevelVehicleAgentArchitecture": {
       "episode_count": 1,
       "show_count": 1,
@@ -98808,6 +98863,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/timurban/"
     },
+    "TimeAndPaydayLoanTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOeedlBmE1xQTV2oRv [GKwRIRwOeedlBmE1xQTV2oRv].md",
+          "key": "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv",
+          "show": "纵横四海",
+          "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
+          "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/timeandpaydayloantrap/"
+    },
     "TimelyRetirementRiskAvoidance": {
       "episode_count": 1,
       "show_count": 1,
@@ -100113,6 +100184,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/tungcheehwa/"
+    },
+    "TunnelingTax": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GKwRIRwOeedlBmE1xQTV2oRv [GKwRIRwOeedlBmE1xQTV2oRv].md",
+          "key": "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv",
+          "show": "纵横四海",
+          "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
+          "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/tunnelingtax/"
     },
     "TuntianProximitySecurityDilemma": {
       "episode_count": 1,
@@ -118349,9 +118436,9 @@
       "url": "/wiki/entities/zongfuli/"
     },
     "ZongHengSiHai": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "GKwRIMAOOMQ_BvEJTAS8O50a [GKwRIMAOOMQ_BvEJTAS8O50a].md",
@@ -118373,9 +118460,16 @@
           "show": "纵横四海",
           "title": "EP86 颠覆工作流，效率提升3000%",
           "url": "/wiki/sources/ep86-dianfu-gongzuoliu-xiaolu-tisheng-3000-gkwrimaoad7vbjtrsqtotc4k/"
+        },
+        {
+          "episode_file": "GKwRIRwOeedlBmE1xQTV2oRv [GKwRIRwOeedlBmE1xQTV2oRv].md",
+          "key": "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv",
+          "show": "纵横四海",
+          "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
+          "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
         }
       ],
-      "updated": "2026-09-09",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/zonghengsihai/"
     },
     "ZongJunEasternHan": {

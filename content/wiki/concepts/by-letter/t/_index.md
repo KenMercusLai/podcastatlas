@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7350
+wiki_total_pages: 7355
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -413,6 +413,9 @@ wiki_pages:
   - key: "TigerTallyCommandSystem"
     title: "Tiger Tally Command System / 虎符调兵制度"
     url: "/wiki/concepts/tigertallycommandsystem/"
+  - key: "TimeAndPaydayLoanTrap"
+    title: "Time and Payday Loan Trap / 时间与短贷陷阱"
+    url: "/wiki/concepts/timeandpaydayloantrap/"
   - key: "TimeStasisSystem"
     title: "Time-Stasis System"
     url: "/wiki/concepts/timestasissystem/"
@@ -761,6 +764,9 @@ wiki_pages:
   - key: "TumorMicroenvironment"
     title: "Tumor Microenvironment"
     url: "/wiki/concepts/tumormicroenvironment/"
+  - key: "TunnelingTax"
+    title: "Tunneling Tax / 管窥税"
+    url: "/wiki/concepts/tunnelingtax/"
   - key: "TuntianSystem"
     title: "Tuntian System / 屯田制"
     url: "/wiki/concepts/tuntiansystem/"

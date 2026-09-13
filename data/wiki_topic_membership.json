@@ -44898,6 +44898,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "MentalBandwidth": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MentalContrastingImplementationIntentions": [
     {
       "key": "science",
@@ -59486,6 +59493,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ScarcityMindset": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "ScenarioLevelRewardSignal": [
     {
       "key": "technology",
@@ -65663,6 +65677,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SystemDesignOverWillpower": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "SystemLevelSemiconductorOptimization": [
     {
       "key": "technology",
@@ -69683,6 +69704,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "TunnelingTax": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "TuoguReformPolitics": [
@@ -80539,6 +80567,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1": [

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7350
+wiki_total_pages: 7355
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -149,6 +149,9 @@ wiki_pages:
   - key: "ScamCompoundPoliticalProtection"
     title: "Scam Compound Political Protection"
     url: "/wiki/concepts/scamcompoundpoliticalprotection/"
+  - key: "ScarcityMindset"
+    title: "Scarcity Mindset / 稀缺心态"
+    url: "/wiki/concepts/scarcitymindset/"
   - key: "ScenarioLevelRewardSignal"
     title: "Scenario-Level Reward Signal"
     url: "/wiki/concepts/scenariolevelrewardsignal/"
@@ -1955,6 +1958,9 @@ wiki_pages:
   - key: "SyntheticSpudCells"
     title: "Synthetic Spud Cells"
     url: "/wiki/concepts/syntheticspudcells/"
+  - key: "SystemDesignOverWillpower"
+    title: "System Design Over Willpower / 系统设计优先于意志力"
+    url: "/wiki/concepts/systemdesignoverwillpower/"
   - key: "SystemHumanity"
     title: "System Humanity"
     url: "/wiki/concepts/systemhumanity/"

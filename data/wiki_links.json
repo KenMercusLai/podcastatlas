@@ -40355,6 +40355,10 @@
     "title": "Mental Accounting / 心理账户",
     "url": "/wiki/concepts/mentalaccounting/"
   },
+  "MentalBandwidth": {
+    "title": "Mental Bandwidth / 大脑带宽",
+    "url": "/wiki/concepts/mentalbandwidth/"
+  },
   "MentalContrastingImplementationIntentions": {
     "title": "Mental Contrasting With Implementation Intentions",
     "url": "/wiki/concepts/mentalcontrastingimplementationintentions/"
@@ -53291,6 +53295,10 @@
     "title": "Scam Compound Political Protection",
     "url": "/wiki/concepts/scamcompoundpoliticalprotection/"
   },
+  "ScarcityMindset": {
+    "title": "Scarcity Mindset / 稀缺心态",
+    "url": "/wiki/concepts/scarcitymindset/"
+  },
   "ScarletSunrise": {
     "title": "Scarlet Sunrise",
     "url": "/wiki/entities/scarletsunrise/"
@@ -58575,6 +58583,10 @@
     "title": "Syril Karn",
     "url": "/wiki/entities/syrilkarn/"
   },
+  "SystemDesignOverWillpower": {
+    "title": "System Design Over Willpower / 系统设计优先于意志力",
+    "url": "/wiki/concepts/systemdesignoverwillpower/"
+  },
   "SystemHumanity": {
     "title": "System Humanity",
     "url": "/wiki/concepts/systemhumanity/"
@@ -60699,6 +60711,10 @@
     "title": "Tim Urban",
     "url": "/wiki/entities/timurban/"
   },
+  "TimeAndPaydayLoanTrap": {
+    "title": "Time and Payday Loan Trap / 时间与短贷陷阱",
+    "url": "/wiki/concepts/timeandpaydayloantrap/"
+  },
   "TimeMachine": {
     "title": "The Time Machine / 《时间机器》",
     "url": "/wiki/entities/timemachine/"
@@ -61686,6 +61702,10 @@
   "TungCheeHwa": {
     "title": "Tung Chee-hwa / 董建華",
     "url": "/wiki/entities/tungcheehwa/"
+  },
+  "TunnelingTax": {
+    "title": "Tunneling Tax / 管窥税",
+    "url": "/wiki/concepts/tunnelingtax/"
   },
   "TuntianProximitySecurityDilemma": {
     "title": "屯田贴近引发安全困境 / Tuntian Proximity Security Dilemma",
@@ -72398,6 +72418,10 @@
   "ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc": {
     "title": "EP87 对话独立设计师大琪：通过设计帮助产品做好增长",
     "url": "/wiki/sources/ep87-duihua-duli-shejishi-daqi-tongguo-sheji-bangzhu-chanpin-zuohao-zengzhang-luymytt48g-ejwsl6bfuko2xsdoc/"
+  },
+  "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv": {
+    "title": "EP87《稀缺》：如何设计一个让自己变聪明的系统",
+    "url": "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
   },
   "ep88-chuanyue-lianghua-zhifu-ximengsi-ai-hui-rang-putongren-geng-rongyi-zhuanqian-haishi-geng-nan-lhvigzza2ugmayezkbrxufkmp4l1": {
     "title": "EP88 穿越量化之父西蒙斯：AI会让普通人更容易赚钱，还是更难？",

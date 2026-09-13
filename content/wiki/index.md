@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP87《稀缺》：如何设计一个让自己变聪明的系统](sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv.md) — 纵横四海 episode on scarcity mindset, tunneling tax, mental bandwidth, slack, payday/time borrowing loops, fire drills, and system design over willpower.
 - [当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断](sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf.md) — 十字路口Crossing four-company embodied-AI debate on simulation versus real data, Astra-era general model boundaries, layered robot systems, commercialization economics, and physical production upside.
 - [“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年](sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs.md) — 罗永浩的十字路口 and 无聊斋 live crossover on everyday fear, social embarrassment, medical vulnerability, AI hallucination, AI career anxiety, cross-model verification, and AI companionship.
 - [《资治通鉴·汉纪》397-2｜让皇帝都为之变色的流民，从何处来的？](sources/zizhi-tongjian-hanji-397-2-rang-huangdi-dou-wei-zhi-bianse-de-liumin-cong-hechu-laide-ltmoqipqk61_cg8n7w1gwaprtitj.md) — 芮淇讲透资治通鉴 episode on late Han Wudi displacement, the Luntai turn, Du Yannian's advice to Huo Guang, and the limited Salt and Iron Conference settlement.
@@ -3025,7 +3026,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yuri / 尤栗 / 优瑞](entities/UreyVirtualIdol.md) — AI-native virtual idol and digital singer built through multi-model music, image, video, voice, and personality-system workflow.
 - [AI Talk](entities/AITalk.md) — Hanqing's early synthetic virtual-conversation project and training ground before the shift toward original AI-native IP.
 - [Omni-Human](entities/OmniHuman.md) — Model named in the Yuri source as enabling more expressive AI singing and virtual-idol performance.
-- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese long-form podcast represented by Mini MBA marketing and operations-management episodes plus Melody's account of heavy script labor, structured explanation, and durable multi-hour listening.
+- [纵横四海 / Zong Heng Si Hai](entities/ZongHengSiHai.md) — Chinese long-form podcast represented by Mini MBA marketing and operations episodes, EP87 on scarcity psychology, and Melody's account of preparation-heavy long-form production.
 - [Tom Nuttall](entities/TomNuttall.md) — The Intelligence participant reporting from AfD's Saxony-Anhalt election-night party and explaining the post-election arithmetic.
 - [Bündnis Sahra Wagenknecht / BSW](entities/BundnisSahraWagenknecht.md) — Populist-left German party that becomes a possible Saxony-Anhalt kingmaker after AfD's large plurality.
 - [Sven Schulze](entities/SvenSchulze.md) — CDU Saxony-Anhalt premier whose weakened incumbent position anchors the caretaker-stalemate scenario.
@@ -12908,6 +12909,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [势利作为价值排序 / Snobbery As Value Ranking](concepts/SnobberyAsValueRanking.md) — Reframes snobbery as ranking people across scarce valued traits including wealth, intelligence, taste, appearance, morality, and values.
 - [身份过滤式社交投资 / Status-Filtered Social Investment](concepts/StatusFilteredSocialInvestment.md) — Allocation of attention, warmth, help, and opportunity according to current or expected future status.
 - [稀缺情境下的伦理分诊 / Ethical Triage Under Scarcity](concepts/EthicalTriageUnderScarcity.md) — Dilemma pattern where survival, fairness, talent, utility, and institutional capacity force morally costly selection.
+- [Scarcity Mindset / 稀缺心态](concepts/ScarcityMindset.md) — Cognitive state where perceived shortage captures attention, narrows decisions, drains bandwidth, and can become a reinforcing trap.
+- [Tunneling Tax / 管窥税](concepts/TunnelingTax.md) — Hidden future cost created when scarcity or urgency makes immediate relief visible while suppressing side effects and safety checks.
+- [Mental Bandwidth / 大脑带宽](concepts/MentalBandwidth.md) — Limited cognitive capacity for reasoning, working memory, self-control, planning, and regulation under scarcity load.
+- [System Design Over Willpower / 系统设计优先于意志力](concepts/SystemDesignOverWillpower.md) — Behavior-change frame that relies on defaults, reminders, modular workflows, slack, and environment design instead of raw self-control.
+- [Time and Payday Loan Trap / 时间与短贷陷阱](concepts/TimeAndPaydayLoanTrap.md) — Scarcity loop where borrowing money, time, or future state solves today's shortage by creating a larger future shortage.
 - [下班后权力边界 / After-Hours Power Boundary](concepts/AfterHoursPowerBoundary.md) — Management norm that boss invitations outside work remain power-sensitive because refusal may not feel free.
 - [危机乐观与透明度权衡 / Crisis Optimism Transparency Tradeoff](concepts/CrisisOptimismTransparencyTradeoff.md) — Leadership dilemma between morale-preserving optimism and employee rights to know organizational risk.
 - [钻戒浪漫营销陷阱 / Diamond Romance Marketing Trap](concepts/DiamondRomanceMarketingTrap.md) — Consumer pattern where diamond rings and romantic goods become love-proof and status rituals through marketing and social pressure.

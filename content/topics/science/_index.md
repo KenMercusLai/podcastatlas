@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1088
+topic_total_pages: 1093
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1036,6 +1036,9 @@ topic_concepts:
   - key: "MemoryContaminationRisk"
     title: "Memory Contamination Risk"
     url: "/wiki/concepts/memorycontaminationrisk/"
+  - key: "MentalBandwidth"
+    title: "Mental Bandwidth / 大脑带宽"
+    url: "/wiki/concepts/mentalbandwidth/"
   - key: "MentalContrastingImplementationIntentions"
     title: "Mental Contrasting With Implementation Intentions"
     url: "/wiki/concepts/mentalcontrastingimplementationintentions/"
@@ -1477,6 +1480,9 @@ topic_concepts:
   - key: "SandTheftExternality"
     title: "Sand Theft Externality"
     url: "/wiki/concepts/sandtheftexternality/"
+  - key: "ScarcityMindset"
+    title: "Scarcity Mindset / 稀缺心态"
+    url: "/wiki/concepts/scarcitymindset/"
   - key: "SchadenfreudeAsComparisonEmotion"
     title: "Schadenfreude As Comparison Emotion / 比较中的幸灾乐祸"
     url: "/wiki/concepts/schadenfreudeascomparisonemotion/"
@@ -1768,6 +1774,9 @@ topic_concepts:
   - key: "SustainableHealthOptimization"
     title: "Sustainable Health Optimization"
     url: "/wiki/concepts/sustainablehealthoptimization/"
+  - key: "SystemDesignOverWillpower"
+    title: "System Design Over Willpower / 系统设计优先于意志力"
+    url: "/wiki/concepts/systemdesignoverwillpower/"
   - key: "SystemicDegenerativeVolatility"
     title: "Systemic Degenerative Volatility"
     url: "/wiki/concepts/systemicdegenerativevolatility/"
@@ -1819,6 +1828,9 @@ topic_concepts:
   - key: "TribalTruth"
     title: "Tribal Truth / 部落真相"
     url: "/wiki/concepts/tribaltruth/"
+  - key: "TunnelingTax"
+    title: "Tunneling Tax / 管窥税"
+    url: "/wiki/concepts/tunnelingtax/"
   - key: "UrgeDespiteRiskCircuit"
     title: "Urge Despite Risk Circuit"
     url: "/wiki/concepts/urgedespiteriskcircuit/"
@@ -3042,6 +3054,9 @@ topic_sources:
   - key: "ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup"
     title: "EP283 熬最深的夜，补最猛的觉：当代人的“社会时差”困局"
     url: "/wiki/sources/ep283-ao-zui-shen-de-ye-bu-zui-meng-de-jue-dangdairen-de-shehui-shicha-kunju-ll_bu3ozkkhfhksb7qocueqh1uup/"
+  - key: "ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv"
+    title: "EP87《稀缺》：如何设计一个让自己变聪明的系统"
+    url: "/wiki/sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645"
     title: "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-eric-weinstein-the-state-of-american-science-breakthrough-coverups-and-the-danger-of-physics-42568645/"
