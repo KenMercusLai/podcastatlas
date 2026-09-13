@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》395-2｜三人背后的人性故事](sources/zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp.md) — 芮淇讲透资治通鉴 short episode on Sartre's 《禁闭》, "他人就是地狱," damaged relations, external judgment dependence, and freedom through changed behavior.
 - [Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300.md) — All-In episode on Anthropic's restricted Mythos rollout, Project Glasswing, OpenClaw access and coding-agent platform power, Anthropic's reported $30B run-rate, AI value capture, Iran ceasefire politics, Israel's U.S. standing, and X auto-translation.
 - [EP87《稀缺》：如何设计一个让自己变聪明的系统](sources/ep87-xique-ruhe-sheji-yige-rang-ziji-bian-congming-de-xitong-gkwrirwoeedlbme1xqtv2orv.md) — 纵横四海 episode on scarcity mindset, tunneling tax, mental bandwidth, slack, payday/time borrowing loops, fire drills, and system design over willpower.
 - [当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断](sources/dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf.md) — 十字路口Crossing four-company embodied-AI debate on simulation versus real data, Astra-era general model boundaries, layered robot systems, commercialization economics, and physical production upside.
@@ -17235,6 +17236,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Entrepreneur Strike Myth / 企业家罢工神话](concepts/EntrepreneurStrikeMyth.md) — Episode-09 reading of 《阿特拉斯耸耸肩》 as a fable about creators and entrepreneurs withdrawing from hostile institutions.
 - [Anti-Altruism as Moral-Coercion Critique / 反利他主义的道德胁迫批判](concepts/AntiAltruismMoralCoercion.md) — Episode-09 Rand concept separating voluntary care from coerced sacrifice and warning that anti-altruism can itself become totalizing.
 - [Existentialism / 存在主义](concepts/Existentialism.md) — Sartre-associated philosophy used by episode 135 to explain postwar meaning-making while deflating the philosopher's public myth.
+- [他人即地狱 / Other As Hell](concepts/OtherAsHell.md) — Sartre-derived relational judgment concept where damaged relations and dependence on others' evaluation become spiritual confinement.
 - [Free Love Practice Gap / 自由恋爱实践落差](concepts/FreeLovePracticeGap.md) — Gap between romantic-freedom doctrine and real care, jealousy, secrecy, reputation, and power in relationships.
 - [Ideological Totalization Risk / 主义万能钥匙风险](concepts/IdeologicalTotalizationRisk.md) — Risk that an ism becomes a master key that simplifies real people, evidence, feeling, and responsibility.
 - [Offensive Humor Speech Space / 冒犯性幽默空间](concepts/OffensiveHumorSpeechSpace.md) — Cultural room for taboo-breaking humor to function as literary and public speech pressure without treating all offense as valuable.

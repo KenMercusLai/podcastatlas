@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2700
+topic_total_pages: 2702
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2740,6 +2740,9 @@ topic_concepts:
   - key: "CareerPositioningThroughFit"
     title: "人生定位与适配 / Career Positioning Through Fit"
     url: "/wiki/concepts/careerpositioningthroughfit/"
+  - key: "OtherAsHell"
+    title: "他人即地狱 / Other As Hell"
+    url: "/wiki/concepts/otherashell/"
   - key: "TrustAsMoralRisk"
     title: "信赖作为道德风险 / Trust As Moral Risk"
     url: "/wiki/concepts/trustasmoralrisk/"
@@ -7968,6 +7971,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp"
+    title: "《资治通鉴·汉纪》395-2｜三人背后的人性故事"
+    url: "/wiki/sources/zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp/"
   - key: "zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko"
     title: "《资治通鉴·汉纪》405-2｜为什么说“一日为师，终身为父”？"
     url: "/wiki/sources/zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko/"

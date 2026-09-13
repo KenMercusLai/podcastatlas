@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7368
+wiki_total_pages: 7369
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -587,6 +587,9 @@ wiki_pages:
   - key: "OfficeSaleLegitimacyDamage"
     title: "买官名节损耗 / Office-Sale Legitimacy Damage"
     url: "/wiki/concepts/officesalelegitimacydamage/"
+  - key: "OtherAsHell"
+    title: "他人即地狱 / Other As Hell"
+    url: "/wiki/concepts/otherashell/"
   - key: "OfficeDutyExitConstraint"
     title: "任官责任退出受限 / Office Duty Exit Constraint"
     url: "/wiki/concepts/officedutyexitconstraint/"
