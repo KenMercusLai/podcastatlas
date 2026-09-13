@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10002
+wiki_total_pages: 10004
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2168,6 +2168,9 @@ wiki_pages:
   - key: "SuiGuLateHan"
     title: "眭固 / Sui Gu (Late Han)"
     url: "/wiki/entities/suigulatehan/"
+  - key: "SuiHongWesternHan"
+    title: "眭弘 / Sui Hong (Western Han)"
+    url: "/wiki/entities/suihongwesternhan/"
   - key: "ShuihudiQinJian"
     title: "睡虎地秦简 / Shuihudi Qin Slips"
     url: "/wiki/entities/shuihudiqinjian/"

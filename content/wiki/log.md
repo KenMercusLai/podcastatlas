@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！
+
+Added source `zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8`; created `SuiHongWesternHan` and `TianQianqiuWesternHan`; updated Huo Guang, Han Zhao, Zhang Anshi, Du Yannian, and Imperial Abdication Language Boundary with the Han Zhao regency, omen interpretation, and abdication-language layer. No settled contradiction found; the anomalies, "公孙病已立" reading, and legal procedure remain source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》410-2｜日利八千万！古代商人赚钱有多敢想？
 
 Added source `zizhi-tongjian-hanji-410-2-rilibaqianwan-gudai-shangren-zhuanqian-you-duoganxiang-lskrjfgimcqzdztlo42pnp6vgh5`; created `RiliBaqianwanBeltHook`, `HanCommercialWealthAspiration`, `WuzhuPurchasingPowerFrame`, `HuozhiLiezhuanWealthEthic`, and `LegitimateProfitBoundary`. Key claims: the belt hook inscription materializes open wealth aspiration, the five-zhu conversion is illustrative rather than precise, and the episode reads Sima Qian's Huozhi Liezhuan as defending productive, bounded profit-seeking. No settled contradiction found.
@@ -19213,6 +19217,10 @@ Added source `zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguan
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？
 
 Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs`; updated `LiuHeHaihunHou`, `WangJiWesternHan`, `GongSuiWesternHan`, and `AccessionMourningLegibility` with the pre-summons Changyi layer: Huo Guang's controllability calculation, Liu He's indulgent habits, Wang Ji's educational remonstrance, and Gong Sui's failed companion-reform warning. No settled contradiction found; the strange dog omen remains source-scoped as episode remonstrance framing.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

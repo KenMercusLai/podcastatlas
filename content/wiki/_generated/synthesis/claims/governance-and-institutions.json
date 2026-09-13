@@ -4750,9 +4750,30 @@
         "EastAsianEducationCostPressure",
         "LiangJianzhang"
       ]
+    },
+    {
+      "global_candidate": false,
+      "id": "han-zhao-regency-polices-abdication-omen-language",
+      "qualifications": [
+        "The claim is bounded to Hanji 401 and does not verify the anomaly reports as supernatural events.",
+        "Sui Hong's complete memorial, the legal procedure, and the exact identity of the Gongsun sign remain source-scoped.",
+        "The case adds an early abdication-language boundary and should not be flattened into ordinary omen remonstrance."
+      ],
+      "statement": "[[zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8|Hanji 401]] adds an early Western Han governance case where [[HuoGuangWesternHan|Huo Guang]] controls [[EmperorZhaoOfHan|Han Zhao]]-era appointments and petition review, while [[SuiHongWesternHan|Sui Hong]] turns anomalies into a Yao-Shun abdication memorial; [[ImperialAbdicationLanguageBoundary]] and [[TianQianqiuWesternHan]] show that legitimacy policing and chancellor caution sit inside the same regency order.",
+      "status": "source-scoped",
+      "supporting_wikilinks": [
+        "zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8",
+        "HuoGuangWesternHan",
+        "EmperorZhaoOfHan",
+        "SuiHongWesternHan",
+        "ImperialAbdicationLanguageBoundary",
+        "TianQianqiuWesternHan",
+        "ZhangAnshiWesternHan",
+        "DuYannianWesternHan"
+      ]
     }
   ],
-  "input_digest": "f78310479784bb2500183772b85b12b414512946a50f6e3443756aae4dc3fa63",
-  "summary": "Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform data visibility, and public policy packages repeatedly determine outcomes. Hanji 487 adds a Western Han prelude where Jing Fang reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu own attempt to regain office turns dismissal into deeper investigation, Empress Xu death, and Zhai Fangjin promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own. Liang Jianzhang adds a modern policy-platform case where Ctrip governance and fertility policy both require looking beneath surface labels to operating infrastructure and incentive design.",
+  "input_digest": "9fb4769549b9b30b6d2c82718cf23424b5b99cb41f1f4e0a206518ef1a3f0903",
+  "summary": "Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, protected access, platform data visibility, and public policy packages repeatedly determine outcomes. Hanji 401 adds an early Western Han regency case where Huo Guang's appointment control, petition review, and punishment of Sui Hong's omen-based abdication memorial show that legitimacy policing can be as central as ordinary administration. Hanji 487 adds a Western Han prelude where Jing Fang reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own.",
   "topic_id": "governance-and-institutions"
 }

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 10002
+wiki_total_pages: 10004
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -1352,6 +1352,9 @@ wiki_pages:
   - key: "TianGuang"
     title: "田光 / Tian Guang"
     url: "/wiki/entities/tianguang/"
+  - key: "TianQianqiuWesternHan"
+    title: "田千秋 / Tian Qianqiu (Western Han)"
+    url: "/wiki/entities/tianqianqiuwesternhan/"
   - key: "TianDan"
     title: "田单 / Tian Dan"
     url: "/wiki/entities/tiandan/"

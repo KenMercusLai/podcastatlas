@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！](sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8.md) — 芮淇讲透资治通鉴 episode on Huo Guang's Han Zhao regency power, Sui Hong's omen-based abdication memorial, and the lethal boundary around Yao-Shun throne-transfer language.
 - [《资治通鉴·汉纪》404｜汉昭帝刘弗陵，真的是被霍光害死的？](sources/zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs.md) — 芮淇讲透资治通鉴 episode on Han Zhao's death, Huo Guang's harem and succession control, and the illness-versus-murder interpretation before Liu He's accession.
 - [《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？](sources/zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs.md) — 芮淇讲透资治通鉴 episode on Huo Guang's succession calculation, Liu He's pre-accession indulgence, and Wang Ji and Gong Sui's failed efforts to correct him before Hanji 406.
 - [《资治通鉴·汉纪》405-2｜为什么说“一日为师，终身为父”？](sources/zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko.md) — 芮淇讲透资治通鉴 short episode on teacher-as-father ethics, traditional Chinese apprenticeship, master-servant dependence, and medieval guild apprentice-rights contrast.
@@ -2406,6 +2407,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [眭弘 / Sui Hong (Western Han)](entities/SuiHongWesternHan.md) — scholar-official whose omen reading becomes an abdication memorial under Han Zhao.
+- [田千秋 / Tian Qianqiu (Western Han)](entities/TianQianqiuWesternHan.md) — cautious chancellor whose silence highlights Huo Guang's regency dominance under Han Zhao.
 - [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
 - [《爱情怎么翻译》 / Love Translation K-Drama](entities/LoveTranslationKDrama.md) — Korean-drama hook used by VOL.202 to discuss translation as a metaphor for unspoken need, push-pull intimacy, and self-knowledge.

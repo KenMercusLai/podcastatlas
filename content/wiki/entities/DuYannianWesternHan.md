@@ -4,6 +4,7 @@ type: entity
 knowledge_schema: synthesis-v1
 tags: [person, western-han, officials, law]
 sources:
+  - zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8
   - zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx
   - zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle
 last_updated: 2026-09-13
@@ -11,15 +12,16 @@ last_updated: 2026-09-13
 
 ## Overview
 
-杜延年 / Du Yannian enters the wiki through [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] in a closing annalistic notice: [[EmperorXuanOfHan|汉宣帝]] appoints him, then Xihe taishou, as yushi dafu. [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] backfills an earlier accession role: Du Yannian knows Liu Bingyi's reputation, supports [[BingJiWesternHan|丙吉]]'s recommendation, and personally helps bring the candidate through the installation procedure.
+杜延年 / Du Yannian enters the wiki through [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] in a closing annalistic notice: [[EmperorXuanOfHan|汉宣帝]] appoints him, then Xihe taishou, as yushi dafu. [[zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8|Hanji 401]] backfills an earlier [[HuoGuangWesternHan|霍光]]-backed promotion under [[EmperorZhaoOfHan|汉昭帝]], while [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] backfills an accession role: Du Yannian knows Liu Bingyi's reputation, supports [[BingJiWesternHan|丙吉]]'s recommendation, and personally helps bring the candidate through the installation procedure.
 
 ## Current Profile
 
-The sources give a compact but now two-stage profile. Hanji 410-1 places Du Yannian in the succession machinery after Liu He's deposition: he joins the push to make Liu Bingyi legible to Huo Guang and Zhang Anshi, then drives the light carriage that brings Liu Bingyi into the ritual preparation sequence. Hanji 455 later shows him as an already trusted senior official, appointed yushi dafu after Xuan's Hedong tour, tax reduction, amnesty, and dependent-state arrangements for submitted Xiongnu.
+The sources give a compact but now three-stage profile. Hanji 401 places Du Yannian inside Huo Guang's Han Zhao-era governing style: Huo promotes him to Taipu for loyalty and uses his more lenient judgment as a policy-review buffer. Hanji 410-1 places Du in the succession machinery after Liu He's deposition: he joins the push to make Liu Bingyi legible to Huo Guang and Zhang Anshi, then drives the light carriage that brings Liu Bingyi into the ritual preparation sequence. Hanji 455 later shows him as an already trusted senior official, appointed yushi dafu after Xuan's Hedong tour, tax reduction, amnesty, and dependent-state arrangements for submitted Xiongnu.
 
 ## Key Characteristics
 
 - Western Han official appointed yushi dafu by Emperor Xuan in the episode's closing chronology.
+- Huo Guang-backed Han Zhao official promoted to Taipu and used as a lenient policy-review counterpart.
 - Accession supporter who helps move Liu Bingyi from recommended candidate into formal enthronement procedure.
 - Former Xihe taishou in the source account.
 - Identified by the host as Du Zhou's son.
@@ -29,6 +31,8 @@ The sources give a compact but now two-stage profile. Hanji 410-1 places Du Yann
 ## Evidence
 
 Appointment:
+- [[zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8|Hanji 401]] says Huo Guang promotes Du Yannian to Taipu because of his loyalty.
+- [[zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8|Hanji 401]] says Du Yannian often studies petitions before Huo Guang and Han Zhao act, giving Huo's harsh style a lenient counterpart.
 - [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] says Du Yannian knows Liu Bingyi's virtue and helps persuade Huo Guang and Zhang Anshi to install him.
 - [[zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle|Hanji 410-1]] says Du Yannian drives the light carriage that brings Liu Bingyi to the zongzheng office for ritual preparation.
 - [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] says Xuan appoints Xihe taishou Du Yannian as yushi dafu in the closing notice.
@@ -38,15 +42,17 @@ Profile:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 410-1 and a brief closing notice in Hanji 455. It does not reconstruct Du Yannian's complete family, legal career, offices, Qilin Pavilion role, or full participation in the succession deliberations.
+This page is source-scoped to Hanji 401, Hanji 410-1, and a brief closing notice in Hanji 455. It does not reconstruct Du Yannian's complete family, legal career, offices, Qilin Pavilion role, or full participation in the succession deliberations.
 
 ## What Changed
 
-- Added Hanji 410-1's accession-support role before Hanji 455's later yushi dafu appointment notice.
+- Added Hanji 401's Huo-backed Taipu promotion and lenient-review role under Han Zhao.
+- Preserved Hanji 410-1's accession-support role before Hanji 455's later yushi dafu appointment notice.
 
 ## Relationships
 
 - [[EmperorXuanOfHan|汉宣帝]] - ruler who appoints Du Yannian as yushi dafu.
+- [[HuoGuangWesternHan|霍光]] - regent who promotes Du Yannian and uses him as a policy-review counterpart.
 - [[BingJiWesternHan|丙吉]] - recommender whose accession argument Du Yannian supports.
 - [[HuoGuangWesternHan|霍光]] and [[ZhangAnshiWesternHan|张安世]] - senior decision-makers whom Du Yannian helps persuade in the accession scene.
 - [[QilinPavilionMeritHonors|麒麟阁功臣荣典]] - honor field the episode associates with Du Yannian.

@@ -617,12 +617,13 @@
       "af3804b43668f1c501baa164dc3ef5b56251105ae8d2f04d8cb43e40c831154e",
       "d9bf4ab06ad3987d6fa76a87be74dce0826d56d3cbacee90b65bd1aba882ed8b",
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
-      "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108"
+      "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108",
+      "12d0aab3b25d3efba0c5023097f7f5cbef45faee321b1e950c81054ab19b0bfa"
     ],
-    "paragraph_count": 617
+    "paragraph_count": 618
   },
-  "overview_commit": "21cee3cd6026a697f1f2fbcf2336c56a77c8e06d",
-  "overview_digest": "0cd0e7019ef7ba47fa0917d5a97bae219dc47d80d67d21a3df9f6da52c7a71ae",
+  "overview_commit": "204c3f8c31138a67bdf97638efc791598e118393",
+  "overview_digest": "ddc8490e0d773a92ae98ea3878f81ea9a0c82e20973fa7bef5200002c8a82541",
   "paragraphs": [
     {
       "id": "c8dcfd0ba16b7c475222dfe0f4d254eab4e60ce04e6bf5e9c98db741bf735a1f",
@@ -18847,6 +18848,27 @@
         "ZhaiFangjinWesternHan",
         "zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx",
         "zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9"
+      ]
+    },
+    {
+      "id": "12d0aab3b25d3efba0c5023097f7f5cbef45faee321b1e950c81054ab19b0bfa",
+      "primary_topic": "governance-and-institutions",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8|《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[EmperorZhaoOfHan|汉昭帝]]'s Huo-centered regency layer before the later Han Zhao death and Liu He succession notes. It adds [[SuiHongWesternHan|眭弘]] and [[TianQianqiuWesternHan|田千秋]], while extending [[HuoGuangWesternHan|霍光]], [[ZhangAnshiWesternHan|张安世]], [[DuYannianWesternHan|杜延年]], and [[ImperialAbdicationLanguageBoundary|禅让话语边界]]. Its core synthesis is that Han Zhao-era court power was already concentrated around Huo Guang: appointments, petition review, and legal punishment flowed through the regent, and Sui Hong's omen-based Yao-Shun abdication memorial crossed from classical interpretation into a direct legitimacy threat. No settled contradiction is recorded; the anomalies, \"公孙病已立\" reading, Sui Hong's complete memorial, and legal procedure remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 2,
+        "history-and-geopolitics": 1
+      },
+      "wikilinks": [
+        "DuYannianWesternHan",
+        "EmperorZhaoOfHan",
+        "HuoGuangWesternHan",
+        "ImperialAbdicationLanguageBoundary",
+        "RuiqiJiangtouZizhiTongjian",
+        "SuiHongWesternHan",
+        "TianQianqiuWesternHan",
+        "ZhangAnshiWesternHan",
+        "zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8"
       ]
     }
   ],
