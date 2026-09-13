@@ -3958,6 +3958,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/adidassamba/"
     },
+    "AdministrativePerformanceFraud": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？ [lim7JQyveStgOqB68pXHYuwIUhYd].md",
+          "key": "zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/administrativeperformancefraud/"
+    },
     "AdministrativeRenamingOverreach": {
       "episode_count": 2,
       "show_count": 1,
@@ -20685,9 +20701,9 @@
       "url": "/wiki/entities/crownprincerudolf/"
     },
     "CrownPrinceTutorPublicInterest": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂 [ltjL2bGpyyz1bMwE_4mfCYd9E6cf].md",
@@ -20695,9 +20711,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》728丨为何名臣难善终？背后的原因你该懂",
           "url": "/wiki/sources/zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？ [lim7JQyveStgOqB68pXHYuwIUhYd].md",
+          "key": "zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/crownprincetutorpublicinterest/"
     },
     "CrownPrinceVoluntaryWithdrawal": {
@@ -88195,9 +88218,9 @@
       "url": "/wiki/concepts/shouzhuodecisiverestraint/"
     },
     "ShuGuangShuShouWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧 [lmxEy8uOliWYNiMxcnH1KhJefEnl].md",
@@ -88205,6 +88228,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？ [lim7JQyveStgOqB68pXHYuwIUhYd].md",
+          "key": "zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd/"
         }
       ],
       "updated": "2026-09-13",
@@ -100488,6 +100518,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/wangchengligustudent/"
     },
+    "WangChengWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？ [lim7JQyveStgOqB68pXHYuwIUhYd].md",
+          "key": "zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/wangchengwesternhan/"
+    },
     "WangFangXinPrincess": {
       "episode_count": 1,
       "show_count": 1,
@@ -107206,6 +107252,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/xugonglatehan/"
+    },
+    "XuGuanghanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？ [lim7JQyveStgOqB68pXHYuwIUhYd].md",
+          "key": "zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/xuguanghanwesternhan/"
     },
     "XuHuangCaoGeneral": {
       "episode_count": 2,

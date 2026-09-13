@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2491
+topic_total_pages: 2492
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3883,6 +3883,9 @@ topic_concepts:
   - key: "ChroniclePolicyCompression"
     title: "政策制度记载压缩 / Chronicle Policy Compression"
     url: "/wiki/concepts/chroniclepolicycompression/"
+  - key: "AdministrativePerformanceFraud"
+    title: "政绩述职造假 / Administrative Performance Fraud"
+    url: "/wiki/concepts/administrativeperformancefraud/"
   - key: "DisasterReliefCorruption"
     title: "救灾物资贪腐 / Disaster Relief Corruption"
     url: "/wiki/concepts/disasterreliefcorruption/"

@@ -3523,6 +3523,10 @@
     "title": "Administrative Opacity As Control",
     "url": "/wiki/concepts/administrativeopacityascontrol/"
   },
+  "AdministrativePerformanceFraud": {
+    "title": "政绩述职造假 / Administrative Performance Fraud",
+    "url": "/wiki/concepts/administrativeperformancefraud/"
+  },
   "AdministrativeRenamingOverreach": {
     "title": "Administrative Renaming Overreach / 行政改名过度",
     "url": "/wiki/concepts/administrativerenamingoverreach/"
@@ -63139,6 +63143,10 @@
     "title": "王成 / Wang Cheng (Li Gu student)",
     "url": "/wiki/entities/wangchengligustudent/"
   },
+  "WangChengWesternHan": {
+    "title": "王成 / Wang Cheng (Western Han Jiaodong Xiang)",
+    "url": "/wiki/entities/wangchengwesternhan/"
+  },
   "WangChuo": {
     "title": "王绰 / Wang Chuo",
     "url": "/wiki/entities/wangchuo/"
@@ -66414,6 +66422,10 @@
   "XuGongLateHan": {
     "title": "徐贡 / Xu Gong (late Han)",
     "url": "/wiki/entities/xugonglatehan/"
+  },
+  "XuGuanghanWesternHan": {
+    "title": "徐广汉 / Xu Guanghan (Western Han)",
+    "url": "/wiki/entities/xuguanghanwesternhan/"
   },
   "XuGuangqi": {
     "title": "徐光启 / Xu Guangqi",
@@ -75426,6 +75438,10 @@
   "zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu": {
     "title": "《资治通鉴·汉纪》418｜霍光死后，为何霍家注定被灭族？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu/"
+  },
+  "zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd": {
+    "title": "《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd/"
   },
   "zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp": {
     "title": "《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么",

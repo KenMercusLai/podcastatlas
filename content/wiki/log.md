@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？
+
+Added source `zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd`; created `WangChengWesternHan`, `XuGuanghanWesternHan`, and `AdministrativePerformanceFraud`; updated `ShuGuangShuShouWesternHan` and `CrownPrinceTutorPublicInterest` with Wang Cheng's false-performance report and Shu Guang's public-interest refusal of Xu-family crown-prince household access. No settled contradiction found; Wang Cheng's exact fraud mechanics, Xu-family intention, and the modern workplace third-party-refusal analogy remain source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞
 
 Added source `zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4`; created `HereditaryOfficePrivilege`; updated `ZhangChangWesternHan`, `WangJiWesternHan`, and `RootCauseRemonstrance` with Zhang Chang's eyebrow-painting and anti-fangshi remonstrance layer plus Wang Ji's Shenjue 1 root-cause memorial. No settled contradiction found; the childhood-injury anecdote, exact memorial wording, fangshi policy, and Xu/史/Wang outer-relative consequences remain source-scoped.
@@ -19033,6 +19037,10 @@ Added source note plus Lu Wenshu and Shangde Huanxing Penal Reform, and extended
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么
 
 Added source note and updated Xuan-era synthesis. Key claims: Han Xuan's early consolidation used disaster inquiry, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair to loosen Huo-family control before the later open purge.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

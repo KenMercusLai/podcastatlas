@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7311
+wiki_total_pages: 7312
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2345,6 +2345,9 @@ wiki_pages:
   - key: "AwaitingPunishmentPerformance"
     title: "待刑谢罪式政治表演 / Awaiting-Punishment Performance"
     url: "/wiki/concepts/awaitingpunishmentperformance/"
+  - key: "AdministrativePerformanceFraud"
+    title: "政绩述职造假 / Administrative Performance Fraud"
+    url: "/wiki/concepts/administrativeperformancefraud/"
   - key: "ArmedFollowerIntegrationCost"
     title: "武装部众整合成本 / Armed Follower Integration Cost"
     url: "/wiki/concepts/armedfollowerintegrationcost/"
