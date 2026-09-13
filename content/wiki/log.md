@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！
+
+Added source `zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb`; created `NorthernMyanmarScamCompoundRisk`, `HighSalaryExitScamTrap`, `CrossBorderCrimeSanctuary`, and `GeopoliticalCriminalDeterrence`; migrated and updated `Myanmar` with the episode's Anglo-Burmese history and northern border crime frame. No settled contradiction found; violent compound details, organ-trafficking references, and U.S.-deterrence claims remain source-scoped.
+
 ## [2026-09-14] ingest | Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence
 
 Added source `all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300`; updated Claude-Methos Preview, Project Glasswing, and AI-Enabled Vulnerability Discovery with Anthropic's restricted Mythos rollout, the 100-day defensive-hardening debate, and the naming caution around Mythos / Claude-Methos / Glasswing / Glassfin. No settled contradiction found; Anthropic revenue, margin, coding-share, IPO-odds, and remediation-timeline claims remain source-scoped.
@@ -19389,6 +19393,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？
 
 Added source `zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui`; created `RewardedDenunciationFiscalEnforcement`; updated `HanWudi`, `StateCommercialMonopolyExtraction`, and `HeavyAgricultureLightCommercePolicy` with Han Wudi's profitable-goods monopoly, 算缗 assessment, 告缗 informant rewards, merchant insecurity, and the Wang Anshi-era anti-merchant comparison. No settled contradiction found; exact law, enforcement scope, commodity list, regional variation, and quantitative commercial decline remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7369
+wiki_total_pages: 7373
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1919,6 +1919,9 @@ wiki_pages:
   - key: "CrossBorderBrokerageRegulation"
     title: "Cross-Border Brokerage Regulation"
     url: "/wiki/concepts/crossborderbrokerageregulation/"
+  - key: "CrossBorderCrimeSanctuary"
+    title: "Cross-Border Crime Sanctuary / 跨境犯罪庇护地"
+    url: "/wiki/concepts/crossbordercrimesanctuary/"
   - key: "CrossBorderCryptoCapitalFlight"
     title: "Cross-Border Crypto Capital Flight"
     url: "/wiki/concepts/crossbordercryptocapitalflight/"

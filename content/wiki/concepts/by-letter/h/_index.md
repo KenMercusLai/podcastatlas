@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "h"
-wiki_total_pages: 7369
+wiki_total_pages: 7373
 wiki_pages:
   - key: "HongKong1973StockMarketCrash"
     title: "1973 Hong Kong Stock Market Crash / 1973年香港股灾"
@@ -287,6 +287,9 @@ wiki_pages:
   - key: "HighRiskSurgicalInnovation"
     title: "High-Risk Surgical Innovation"
     url: "/wiki/concepts/highrisksurgicalinnovation/"
+  - key: "HighSalaryExitScamTrap"
+    title: "High-Salary Exit Scam Trap / 高薪出境骗局"
+    url: "/wiki/concepts/highsalaryexitscamtrap/"
   - key: "HighSpeedRailSafetyTrust"
     title: "High-Speed Rail Safety Trust"
     url: "/wiki/concepts/highspeedrailsafetytrust/"

@@ -20987,6 +20987,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/crocs/"
     },
+    "CrossBorderCrimeSanctuary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！ [lgIRzZOX-8_PrlRwbihCkzL_e1BB].md",
+          "key": "zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/crossbordercrimesanctuary/"
+    },
     "CrossBorderEcommerceLocalizationPressure": {
       "episode_count": 1,
       "show_count": 1,
@@ -40120,6 +40136,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/geometricunity/"
     },
+    "GeopoliticalCriminalDeterrence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！ [lgIRzZOX-8_PrlRwbihCkzL_e1BB].md",
+          "key": "zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/geopoliticalcriminaldeterrence/"
+    },
     "GeorgVonSchonerer": {
       "episode_count": 1,
       "show_count": 1,
@@ -45916,6 +45948,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/concepts/highrecallsafetyintervention/"
+    },
+    "HighSalaryExitScamTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！ [lgIRzZOX-8_PrlRwbihCkzL_e1BB].md",
+          "key": "zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/highsalaryexitscamtrap/"
     },
     "HighStatusCautionSelfProtection": {
       "episode_count": 3,
@@ -70586,6 +70634,29 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/mymotherlandsong/"
     },
+    "Myanmar": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "The case of the missing totem： Aung San Suu Kyi [6a560fc4f96471dde4821d2f].md",
+          "key": "the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f",
+          "show": "Economist Podcasts",
+          "title": "The case of the missing totem: Aung San Suu Kyi",
+          "url": "/wiki/sources/the-case-of-the-missing-totem-aung-san-suu-kyi-6a560fc4f96471dde4821d2f/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！ [lgIRzZOX-8_PrlRwbihCkzL_e1BB].md",
+          "key": "zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/myanmar/"
+    },
     "MyopiaSurgeryRiskBoundary": {
       "episode_count": 1,
       "show_count": 1,
@@ -72674,6 +72745,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/northernirelanddirectrule/"
+    },
+    "NorthernMyanmarScamCompoundRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！ [lgIRzZOX-8_PrlRwbihCkzL_e1BB].md",
+          "key": "zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/northernmyanmarscamcompoundrisk/"
     },
     "NorthernRising": {
       "episode_count": 1,

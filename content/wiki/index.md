@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！](sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb.md) — 芮淇讲透资治通鉴 episode linking Anglo-Burmese collapse, northern Myanmar scam compounds, high-salary exit traps, trafficking violence warnings, and geopolitical deterrence claims.
 - [《资治通鉴·汉纪》396-1｜12岁皇帝与6岁皇后，谁干出的荒唐事儿？](sources/zizhi-tongjian-hanji-396-1-12-sui-huangdi-yu-6-sui-huanghou-shui-ganchu-de-huangtang-shier-lnq-puxt0zdxhfm7pwilxellccdr.md) — 芮淇讲透资治通鉴 episode on six-year-old Shangguan Shi's palace entry, Huo Guang's refusal, Ding Wairen's princess access, and the early Shangguan-Huo rupture.
 - [《资治通鉴·汉纪》395-2｜三人背后的人性故事](sources/zizhi-tongjian-hanji-395-2-sanren-beihou-de-renxing-gushi-lnxghfd6esj7jbir-m6qflth2ckp.md) — 芮淇讲透资治通鉴 short episode on Sartre's 《禁闭》, "他人就是地狱," damaged relations, external judgment dependence, and freedom through changed behavior.
 - [Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence](sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300.md) — All-In episode on Anthropic's restricted Mythos rollout, Project Glasswing, OpenClaw access and coding-agent platform power, Anthropic's reported $30B run-rate, AI value capture, Iran ceasefire politics, Israel's U.S. standing, and X auto-translation.
@@ -7405,7 +7406,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Fake AI Subway Ads](entities/FakeAISubwayAds.md) — Satirical project placing invented AI company posters in New York City transit to expose generic AI marketing language and public-ad legitimacy signals.
 - [Jason Palmer](entities/JasonPalmer.md) — The Intelligence host introducing the episode's Aung San Suu Kyi, Turkey, and sleep-science segments.
 - [Aung San Suu Kyi](entities/AungSanSuuKyi.md) — Detained Myanmar democratic icon whose unverified condition, flawed legacy, and symbolic power anchor the episode's opening segment.
-- [Myanmar](entities/Myanmar.md) — Country context for the post-2021 coup war, junta detention of Aung San Suu Kyi, and risk of over-personalizing the crisis.
+- [Myanmar](entities/Myanmar.md) — Country context for the post-2021 coup war, Aung San Suu Kyi proof-of-life politics, Anglo-Burmese sovereignty loss, and northern border scam-compound risk.
 - [Myanmar Military Junta](entities/MyanmarMilitaryJunta.md) — Military government seeking ASEAN and UN legitimacy while withholding verifiable access to Aung San Suu Kyi.
 - [Min Aung Hlaing](entities/MinAungHlaing.md) — Myanmar junta leader whose response to welfare inquiries shows the political sensitivity of Aung San Suu Kyi's status.
 - [Kim Eris](entities/KimEris.md) — Aung San Suu Kyi's son pressing foreign leaders to demand proof of life from Myanmar's military government.
@@ -12469,6 +12470,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Northern Myanmar Scam Compound Risk / 缅北诈骗园区风险](concepts/NorthernMyanmarScamCompoundRisk.md) — Myanmar-specific scam-compound risk where social engineering, captivity, violence, trafficking claims, and borderland weak governance overlap.
+- [High-Salary Exit Scam Trap / 高薪出境骗局](concepts/HighSalaryExitScamTrap.md) — Recruitment pattern where high pay or acquaintances lure victims across borders before coercion becomes visible.
+- [Cross-Border Crime Sanctuary / 跨境犯罪庇护地](concepts/CrossBorderCrimeSanctuary.md) — Borderland governance pattern where fragmented authority, terrain, and jurisdictional friction help organized crime cluster.
+- [Geopolitical Criminal Deterrence / 地缘犯罪威慑](concepts/GeopoliticalCriminalDeterrence.md) — Source-scoped theory that criminal groups price victim nationality by expected state retaliation and local influence.
 - [Claimant-Impostor Crisis Handling / 宗室冒认危机处置](concepts/ClaimantImpostorCrisisHandling.md) — Succession crisis pattern where a royal identity claim must be contained before verification paralysis becomes disorder.
 - [巫蛊之祸 / Wugu Incident (Western Han)](concepts/WuguIncidentWesternHan.md) — Narrow background concept for the late-Wudi succession trauma that makes the false Liu Ju return claim politically explosive.
 - [Embodied Robot Data Tradeoff](concepts/EmbodiedRobotDataTradeoff.md) — Tradeoff among simulation, real robot data, sensor noise, tactile/contact data, and raw robot-hour scale.

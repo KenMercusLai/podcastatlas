@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "g"
-wiki_total_pages: 7369
+wiki_total_pages: 7373
 wiki_pages:
   - key: "GainConversionAssetForm"
     title: "Gain Conversion Asset Form / 收益固化资产形态"
@@ -185,6 +185,9 @@ wiki_pages:
   - key: "GeometricUnity"
     title: "Geometric Unity"
     url: "/wiki/concepts/geometricunity/"
+  - key: "GeopoliticalCriminalDeterrence"
+    title: "Geopolitical Criminal Deterrence / 地缘犯罪威慑"
+    url: "/wiki/concepts/geopoliticalcriminaldeterrence/"
   - key: "GeopoliticalCycleMacro"
     title: "Geopolitical Cycle Macro"
     url: "/wiki/concepts/geopoliticalcyclemacro/"

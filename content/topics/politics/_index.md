@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2508
+topic_total_pages: 2510
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -787,6 +787,9 @@ topic_concepts:
   - key: "CriticalMineralsGeopolitics"
     title: "Critical Minerals Geopolitics"
     url: "/wiki/concepts/criticalmineralsgeopolitics/"
+  - key: "CrossBorderCrimeSanctuary"
+    title: "Cross-Border Crime Sanctuary / 跨境犯罪庇护地"
+    url: "/wiki/concepts/crossbordercrimesanctuary/"
   - key: "CrossBorderCryptoCapitalFlight"
     title: "Cross-Border Crypto Capital Flight"
     url: "/wiki/concepts/crossbordercryptocapitalflight/"
@@ -1402,6 +1405,9 @@ topic_concepts:
   - key: "GeneticCulpabilityProblem"
     title: "Genetic Culpability Problem / 遗传归责问题"
     url: "/wiki/concepts/geneticculpabilityproblem/"
+  - key: "GeopoliticalCriminalDeterrence"
+    title: "Geopolitical Criminal Deterrence / 地缘犯罪威慑"
+    url: "/wiki/concepts/geopoliticalcriminaldeterrence/"
   - key: "GeopoliticalCycleMacro"
     title: "Geopolitical Cycle Macro"
     url: "/wiki/concepts/geopoliticalcyclemacro/"

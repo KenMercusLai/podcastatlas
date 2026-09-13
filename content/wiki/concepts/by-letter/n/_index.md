@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7369
+wiki_total_pages: 7373
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -389,6 +389,9 @@ wiki_pages:
   - key: "NorthernIrelandDirectRule"
     title: "Northern Ireland Direct Rule"
     url: "/wiki/concepts/northernirelanddirectrule/"
+  - key: "NorthernMyanmarScamCompoundRisk"
+    title: "Northern Myanmar Scam Compound Risk / 缅北诈骗园区风险"
+    url: "/wiki/concepts/northernmyanmarscamcompoundrisk/"
   - key: "NotWorkingAmbivalence"
     title: "Not Working Ambivalence / 不上班的复杂性"
     url: "/wiki/concepts/notworkingambivalence/"
