@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2512
+topic_total_pages: 2515
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -4955,6 +4955,9 @@ topic_entities:
   - key: "HillaryClinton"
     title: "Hillary Clinton"
     url: "/wiki/entities/hillaryclinton/"
+  - key: "HojoMasako"
+    title: "Hojo Masako"
+    url: "/wiki/entities/hojomasako/"
   - key: "HongKongChiefExecutive"
     title: "Hong Kong Chief Executive / 香港行政長官"
     url: "/wiki/entities/hongkongchiefexecutive/"
@@ -5408,6 +5411,9 @@ topic_entities:
   - key: "MinAungHlaing"
     title: "Min Aung Hlaing"
     url: "/wiki/entities/minaunghlaing/"
+  - key: "MinamotoNoYoshitomo"
+    title: "Minamoto no Yoshitomo"
+    url: "/wiki/entities/minamotonoyoshitomo/"
   - key: "Mississippi"
     title: "Mississippi"
     url: "/wiki/entities/mississippi/"
@@ -5882,6 +5888,9 @@ topic_entities:
   - key: "Syria"
     title: "Syria"
     url: "/wiki/entities/syria/"
+  - key: "TairaNoKiyomori"
+    title: "Taira no Kiyomori"
+    url: "/wiki/entities/tairanokiyomori/"
   - key: "Taiwan"
     title: "Taiwan"
     url: "/wiki/entities/taiwan/"

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1860
+topic_total_pages: 1861
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -4527,6 +4527,9 @@ topic_sources:
   - key: "65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922"
     title: "65.龙王之怒：1931年的长江洪水"
     url: "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
+  - key: "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571"
+    title: "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)"
+    url: "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
   - key: "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898"
     title: "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)"
     url: "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"

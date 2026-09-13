@@ -40172,9 +40172,9 @@
       "url": "/wiki/concepts/genomelanguagemodels/"
     },
     "GenpeiWar": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -40189,6 +40189,13 @@
           "show": "The Rest Is History",
           "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
           "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
+        },
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
         }
       ],
       "updated": "2026-09-14",
@@ -46463,6 +46470,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/hogeweykdementiavillage/"
+    },
+    "HojoMasako": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/hojomasako/"
     },
     "HolidayPeakTravelPlanning": {
       "episode_count": 1,
@@ -69117,9 +69140,9 @@
       "url": "/wiki/entities/minkaneasternhan/"
     },
     "MinamotoClan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -69134,15 +69157,38 @@
           "show": "The Rest Is History",
           "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
           "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
+        },
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
         }
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/minamotoclan/"
     },
-    "MinamotoNoYoritomo": {
-      "episode_count": 2,
+    "MinamotoNoYorimasa": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/minamotonoyorimasa/"
+    },
+    "MinamotoNoYoritomo": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -69157,10 +69203,33 @@
           "show": "The Rest Is History",
           "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
           "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
+        },
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
         }
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/minamotonoyoritomo/"
+    },
+    "MinamotoNoYoshitomo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/minamotonoyoshitomo/"
     },
     "MinamotoNoYoshitsune": {
       "episode_count": 2,
@@ -80317,6 +80386,22 @@
       "updated": "2026-09-08",
       "url": "/wiki/concepts/primaryextremismpressure/"
     },
+    "PrinceMochihito": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/princemochihito/"
+    },
     "PrincessMarriagePowerAsymmetry": {
       "episode_count": 1,
       "show_count": 1,
@@ -87646,9 +87731,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SamuraiLegendAndPoliticalMemory": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -87663,15 +87748,22 @@
           "show": "The Rest Is History",
           "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
           "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
+        },
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
         }
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/samurailegendandpoliticalmemory/"
     },
     "SamuraiRule": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -87679,6 +87771,13 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
         }
       ],
       "updated": "2026-09-13",
@@ -97210,9 +97309,9 @@
       "url": "/wiki/entities/taipingjing/"
     },
     "TairaClan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -97227,10 +97326,33 @@
           "show": "The Rest Is History",
           "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
           "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
+        },
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
         }
       ],
       "updated": "2026-09-14",
       "url": "/wiki/entities/tairaclan/"
+    },
+    "TairaNoKiyomori": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/tairanokiyomori/"
     },
     "Taishan": {
       "episode_count": 3,
@@ -99056,9 +99178,9 @@
       "url": "/wiki/entities/thesaaspodcast/"
     },
     "TheTaleOfTheHeike": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -99073,6 +99195,13 @@
           "show": "The Rest Is History",
           "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
           "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
+        },
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
         }
       ],
       "updated": "2026-09-14",
@@ -101748,6 +101877,22 @@
       ],
       "updated": "2026-09-04",
       "url": "/wiki/entities/uber/"
+    },
+    "UjiBridgeBattle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3420393571 [GLT3420393571].md",
+          "key": "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571",
+          "show": "The Rest Is History",
+          "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+          "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/ujibridgebattle/"
     },
     "UlrichBeck": {
       "episode_count": 1,

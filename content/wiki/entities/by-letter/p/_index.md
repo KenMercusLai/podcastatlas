@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "p"
-wiki_total_pages: 10040
+wiki_total_pages: 10045
 wiki_pages:
   - key: "PacificPalisades"
     title: "Pacific Palisades"
@@ -692,6 +692,9 @@ wiki_pages:
   - key: "PrinceHisahito"
     title: "Prince Hisahito"
     url: "/wiki/entities/princehisahito/"
+  - key: "PrinceMochihito"
+    title: "Prince Mochihito"
+    url: "/wiki/entities/princemochihito/"
   - key: "PrincesInTheTower"
     title: "Princes in the Tower / 塔中王子案"
     url: "/wiki/entities/princesinthetower/"

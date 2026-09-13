@@ -1183,6 +1183,10 @@
     "title": "65.龙王之怒：1931年的长江洪水",
     "url": "/wiki/sources/65-longwang-zhinu-1931-nian-de-changjiang-hongshui-658100922/"
   },
+  "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571": {
+    "title": "659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+    "url": "/wiki/sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571/"
+  },
   "66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536": {
     "title": "66.鱼翅与花椒：聊吃的我可就不困了",
     "url": "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
@@ -28107,6 +28111,10 @@
     "title": "Hogeweyk Dementia Village / 荷兰失智小镇",
     "url": "/wiki/entities/hogeweykdementiavillage/"
   },
+  "HojoMasako": {
+    "title": "Hojo Masako",
+    "url": "/wiki/entities/hojomasako/"
+  },
   "HoldenCaulfield": {
     "title": "Holden Caulfield / 霍尔顿",
     "url": "/wiki/entities/holdencaulfield/"
@@ -41115,9 +41123,17 @@
     "title": "Minamoto Clan",
     "url": "/wiki/entities/minamotoclan/"
   },
+  "MinamotoNoYorimasa": {
+    "title": "Minamoto no Yorimasa",
+    "url": "/wiki/entities/minamotonoyorimasa/"
+  },
   "MinamotoNoYoritomo": {
     "title": "Minamoto no Yoritomo",
     "url": "/wiki/entities/minamotonoyoritomo/"
+  },
+  "MinamotoNoYoshitomo": {
+    "title": "Minamoto no Yoshitomo",
+    "url": "/wiki/entities/minamotonoyoshitomo/"
   },
   "MinamotoNoYoshitsune": {
     "title": "Minamoto no Yoshitsune",
@@ -48250,6 +48266,10 @@
   "PrinceHisahito": {
     "title": "Prince Hisahito",
     "url": "/wiki/entities/princehisahito/"
+  },
+  "PrinceMochihito": {
+    "title": "Prince Mochihito",
+    "url": "/wiki/entities/princemochihito/"
   },
   "PrinceShenWei": {
     "title": "太子申 / Prince Shen of Wei",
@@ -58923,6 +58943,10 @@
     "title": "Taira Clan",
     "url": "/wiki/entities/tairaclan/"
   },
+  "TairaNoKiyomori": {
+    "title": "Taira no Kiyomori",
+    "url": "/wiki/entities/tairanokiyomori/"
+  },
   "Taishan": {
     "title": "泰山 / Taishan",
     "url": "/wiki/entities/taishan/"
@@ -62202,6 +62226,10 @@
   "UglyFrogGame": {
     "title": "丑蛙 / Ugly Frog game",
     "url": "/wiki/entities/uglyfroggame/"
+  },
+  "UjiBridgeBattle": {
+    "title": "Uji Bridge Battle",
+    "url": "/wiki/concepts/ujibridgebattle/"
   },
   "Ukraine": {
     "title": "Ukraine",

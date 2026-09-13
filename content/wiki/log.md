@@ -19242,6 +19242,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)
+
+Added source `659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571`; created `TairaNoKiyomori`, `MinamotoNoYoshitomo`, `PrinceMochihito`, `MinamotoNoYorimasa`, `HojoMasako`, and `UjiBridgeBattle`; updated `TairaClan`, `MinamotoClan`, `MinamotoNoYoritomo`, `TheTaleOfTheHeike`, `GenpeiWar`, `SamuraiRule`, and `SamuraiLegendAndPoliticalMemory` with the part 2 layer of Taira rise, Kiyomori's logistics and court dominance, Yoshitomo's failed coup, Yoritomo's exile, the Mochihito-Yorimasa revolt, and Uji Bridge as samurai memory. No settled contradiction found; Heike battle details, Kiyomori doom legends, death-poem scenes, animal-panic motifs, and inner motives remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？
 
 Added source `zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a`; created `FukushimaDaiichiNuclearPowerPlant`, `HiroshimaAtomicBombing`, `NagasakiAtomicBombing`, `NuclearRiskExternalization`, and `NuclearDisasterMemory`; migrated and updated `ChernobylNuclearPowerPlant`, `TechnologicalDisasterAsInstitutionalFailure`, `NuclearSafetyPropaganda`, and `PostDisasterTruthAndResponsibility` with the episode's Fukushima discharge, nuclear-disaster memory, and risk-transfer framing. No settled contradiction found; the episode's discharge, casualty, and long-term harm figures remain source-scoped pending additional technical sources.
@@ -19458,6 +19462,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
 
 Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

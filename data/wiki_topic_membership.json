@@ -1804,6 +1804,13 @@
       "url": "/topics/science/"
     }
   ],
+  "659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536": [
     {
       "key": "culture",
@@ -32722,6 +32729,13 @@
       "url": "/topics/history/"
     }
   ],
+  "HojoMasako": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "HoldenCaulfield": [
     {
       "key": "culture",
@@ -45682,6 +45696,13 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MinamotoNoYoshitomo": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "MindEmulationFoundation": [
@@ -66037,6 +66058,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "TairaNoKiyomori": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TaishiDan": [

@@ -48,6 +48,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》411｜汉宣帝刘病已登基后的第一场皇位大危机！](sources/zizhi-tongjian-hanji-411-hanxuandi-liubingyi-dengji-hou-de-diyichang-huangwei-daweiji-lks_pia3lxwv_qao02pm4mv-xype.md) — 芮淇讲透资治通鉴 episode on early Han Xuan surviving under Huo Guang's regency shadow through the old-sword empress signal, delayed Xu-family honor, refusal of premature returned authority, ritual boundary management, and Huang Ba's lenient-law contrast.
 - [661. Dawn of the Samurai: The Shogun Triumphant (Part 4)](sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375.md) — The Rest Is History episode on Tomoe, Yoshitsune's destruction of the Taira, Dan-no-ura, Yoritomo's political consolidation, and the birth of Kamakura samurai rule.
 - [660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)](sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898.md) — The Rest Is History episode on Yoshitsune's legend, Kiso's Kurikara victory, Go-Shirakawa's maneuvering, and Yoritomo's legitimacy opening against Kiso.
+- [659. Dawn of the Samurai: Bloodbath at the Bridge (Part 2)](sources/659-dawn-of-the-samurai-bloodbath-at-the-bridge-part-2-glt3420393571.md) — The Rest Is History episode on Kiyomori's Taira court dominance, Yoshitomo's failed coup, Yoritomo's exile, and the Mochihito-Yorimasa revolt at Uji Bridge.
 - [《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落](sources/zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv.md) — 芮淇讲透资治通鉴 episode on Tian Yannian's Huo Guang-backed rise, mausoleum logistics corruption case, false denial, and suicide after losing patron protection.
 - [《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？](sources/zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi.md) — 芮淇讲透资治通鉴 episode on Xiahou Sheng's public cost-based criticism of Han Wudi's ritual honor, Huang Ba's refusal to join impeachment, and their prison Shangshu study.
 - [《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇](sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p.md) — 芮淇讲透资治通鉴 episode on Xieyou Princess's early Wusun marriage, her aid letter to Han, Chang Hui's Wusun mission, and Feng Liao's emergence as a Western Regions intermediary.
@@ -12474,11 +12475,16 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Benkei](entities/Benkei.md) — legendary warrior monk whose final-stand memory reinforces Yoshitsune's tragic heroic afterlife.
 - [Go-Shirakawa](entities/GoShirakawa.md) — cloistered emperor whose legitimacy value shapes the Genpei War power struggle and Yoritomo's settlement.
+- [Hojo Masako](entities/HojoMasako.md) — Izu marriage alliance link in Yoritomo's pre-revolt network formation.
 - [Kiso Yoshinaka](entities/KisoYoshinaka.md) — Minamoto rival whose fall with Tomoe and Imai becomes a Heike memory of loyalty, fame, and stylized death.
 - [Minamoto Clan](entities/MinamotoClan.md) — victorious Genpei War warrior clan whose internal rivalries lead into Kamakura shogunate formation.
+- [Minamoto no Yorimasa](entities/MinamotoNoYorimasa.md) — anti-Taira rebel and Uji death-memory figure.
+- [Minamoto no Yoshitomo](entities/MinamotoNoYoshitomo.md) — defeated 1159 coup leader whose spared sons preserve the Minamoto future.
 - [Minamoto no Yoritomo](entities/MinamotoNoYoritomo.md) — political victor who turns Genpei War victory into Kamakura-centered samurai government.
 - [Minamoto no Yoshitsune](entities/MinamotoNoYoshitsune.md) — brilliant Minamoto commander whose Taira victories make him legendary and politically dangerous.
+- [Prince Mochihito](entities/PrinceMochihito.md) — blocked imperial claimant whose anti-Taira appeal opens the Uji revolt.
 - [Taira Clan](entities/TairaClan.md) — defeated Genpei War clan whose naval collapse and Dan-no-ura deaths become central samurai memory.
+- [Taira no Kiyomori](entities/TairaNoKiyomori.md) — Taira leader who converts logistics, office, marriage, and force into Kyoto court dominance.
 - [The Tale of the Heike](entities/TheTaleOfTheHeike.md) — literary memory source preserving the Genpei War as vivid samurai legend and political transition.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
@@ -12527,6 +12533,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Onna-musha](concepts/OnnaMusha.md) — female-warrior category in samurai culture, developed through Tomoe and broader martial evidence.
 - [Samurai Legend and Political Memory](concepts/SamuraiLegendAndPoliticalMemory.md) — pattern where battlefield conduct, poetic narration, and later samurai identity reinforce one another.
 - [Samurai Rule](concepts/SamuraiRule.md) — warrior-governing order that emerges from Yoritomo's Kamakura settlement after the Genpei War.
+- [Uji Bridge Battle](concepts/UjiBridgeBattle.md) — failed Mochihito-Yorimasa revolt that becomes an early Heike-style samurai memory scene.
 - [Deception As Patron Trust Collapse / 欺瞒式靠山信任崩塌](concepts/DeceptionAsPatronTrustCollapse.md) — pattern where a subordinate's lie to a protector turns a manageable offense into a fatal trust-system breach.
 - [Demographic Innovation Capacity / 人口创新能力](concepts/DemographicInnovationCapacity.md) — Liang Jianzhang's frame that young-cohort size, fertility, markets, and education pressure shape long-run innovation capacity.
 - [赞颂作为政治记忆 / Praise as Political Memory](concepts/PraiseAsPoliticalMemory.md) — Court-rhetoric pattern where praise frames a ruler's words or acts as worthy of circulation, imitation, and later historical memory.
