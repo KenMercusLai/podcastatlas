@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落](sources/zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv.md) — 芮淇讲透资治通鉴 episode on Tian Yannian's Huo Guang-backed rise, mausoleum logistics corruption case, false denial, and suicide after losing patron protection.
 - [《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇](sources/zizhi-tongjian-hanji-413-1-yiren-jia-sanwang-tade-gushi-yuanbi-zhaojun-chusai-geng-chuanqi-ltmt4y60eusm8a_mwthnfg5cys6p.md) — 芮淇讲透资治通鉴 episode on Xieyou Princess's early Wusun marriage, her aid letter to Han, Chang Hui's Wusun mission, and Feng Liao's emergence as a Western Regions intermediary.
 - [《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？](sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa.md) — 芮淇讲透资治通鉴 short episode on Huo Xian recruiting palace physician Chunyu Yan to poison Xu Pingjun during childbirth so Huo Chengjun can become empress.
 - [《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？](sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q.md) — 芮淇讲透资治通鉴 episode on Huo Guang suppressing the investigation after Huo Xian confesses Xu Pingjun's poisoning, plus Wusun-Chang Hui's major strike against Xiongnu.
@@ -2391,6 +2392,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
 - [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han envoy-commander linking Xieyou's Wusun appeal, Wusun's anti-Xiongnu strike, Cheshi extraction, and Liu Xiangfu's recall.
 - [Ming Dynasty / 明朝](entities/MingDynasty.md) — Dynasty used by Hanji 422-2 as the institutionalized tribute-economy case around贡物 pricing,回赐, hosted reception, and tribute access conflict.
 - [Qing Dynasty / 清朝](entities/QingDynasty.md) — Dynasty used by Hanji 422-2 as the treaty-era case where inherited tribute hierarchy collides with resident-envoy diplomacy.
@@ -12382,6 +12384,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Deception As Patron Trust Collapse / 欺瞒式靠山信任崩塌](concepts/DeceptionAsPatronTrustCollapse.md) — pattern where a subordinate's lie to a protector turns a manageable offense into a fatal trust-system breach.
 - [Demographic Innovation Capacity / 人口创新能力](concepts/DemographicInnovationCapacity.md) — Liang Jianzhang's frame that young-cohort size, fertility, markets, and education pressure shape long-run innovation capacity.
 - [赞颂作为政治记忆 / Praise as Political Memory](concepts/PraiseAsPoliticalMemory.md) — Court-rhetoric pattern where praise frames a ruler's words or acts as worthy of circulation, imitation, and later historical memory.
 - [司法滥用式官逼民反 / Judicial Abuse Rebellion Trigger](concepts/JudicialAbuseRebellionTrigger.md) — Mechanism where law becomes torture, false accusation, and official manipulation, collapsing ordinary people's lawful options into endurance or resistance.

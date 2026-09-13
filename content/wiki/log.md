@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落
+
+Added source `zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv`; created `TianYannianWesternHan` and `DeceptionAsPatronTrustCollapse`; updated `HuoGuangWesternHan` with Tian Yannian's inner-circle trust breach. No settled contradiction found; Huo Guang's inferred willingness to protect Tian, Tian Guangming's probe through Du Yannian, and the fine-versus-death counterfactual remain source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》419｜弄虚作假的汉臣王成，如何把汉宣帝骗得团团转？
 
 Added source `zizhi-tongjian-hanji-419-nongxu-zuojia-de-hanchen-wangcheng-ruhe-ba-hanxuandi-pian-de-tuantuanzhuan-lim7jqyvestgoqb68pxhyuwiuhyd`; created `WangChengWesternHan`, `XuGuanghanWesternHan`, and `AdministrativePerformanceFraud`; updated `ShuGuangShuShouWesternHan` and `CrownPrinceTutorPublicInterest` with Wang Cheng's false-performance report and Shu Guang's public-interest refusal of Xu-family crown-prince household access. No settled contradiction found; Wang Cheng's exact fraud mechanics, Xu-family intention, and the modern workplace third-party-refusal analogy remain source-scoped.
@@ -19094,6 +19098,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？
 
 Added source note plus Chunyu Yan, and updated Xu Pingjun, Huo Xian, Huo Chengjun, and Huo Family Purge After Huo Guang. Key claims: Huo Xian's desire to install Huo Chengjun makes Xu Pingjun the obstacle; Chunyu Yan's palace medical access and job-seeking vulnerability make her the poisoning channel; and the later Huo-family fear arc now has a direct hidden-crime origin before Huo Guang's death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
