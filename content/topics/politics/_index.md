@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2499
+topic_total_pages: 2500
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3733,6 +3733,9 @@ topic_concepts:
   - key: "EliteEndorsementReputationMaking"
     title: "名士背书式造势 / Elite-Endorsement Reputation Making"
     url: "/wiki/concepts/eliteendorsementreputationmaking/"
+  - key: "RulerWillAsLaw"
+    title: "君意即法 / Ruler Will as Law"
+    url: "/wiki/concepts/rulerwillaslaw/"
   - key: "ImperialRitualDistance"
     title: "君臣礼制距离 / Imperial Ritual Distance"
     url: "/wiki/concepts/imperialritualdistance/"

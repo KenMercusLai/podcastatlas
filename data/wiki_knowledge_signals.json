@@ -17971,9 +17971,9 @@
       "url": "/wiki/concepts/coercedtalentlegitimacy/"
     },
     "CoerciveFrontierDeterrence": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
@@ -18016,6 +18016,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》403-2｜独剑斩楼兰，不该被遗忘的超级外交官：傅介子",
           "url": "/wiki/sources/zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
         }
       ],
       "updated": "2026-09-14",
@@ -26543,9 +26550,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuYannianWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -26567,9 +26574,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》410-1｜狱中长大的汉宣帝刘病己，如何成就霸业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-410-1-yuzhong-zhangdade-hanxuandi-liubingyi-ruhe-chengjiu-baye-loprh4dmeqsexuii4p0j4vuk7tle/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/duyannianwesternhan/"
     },
     "DuYeWesternHan": {
@@ -26617,6 +26631,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/duzhonglatehan/"
+    },
+    "DuZhouWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/duzhouwesternhan/"
     },
     "DuanGongchengLateHan": {
       "episode_count": 1,
@@ -32505,6 +32535,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/fanhongeasternhan/"
+    },
+    "FanMingyouWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/fanmingyouwesternhan/"
     },
     "FanPangLateHan": {
       "episode_count": 7,
@@ -48690,9 +48736,9 @@
       "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
     },
     "HuoGuangWesternHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -48777,6 +48823,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》404｜汉昭帝刘弗陵，真的是被霍光害死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
         }
       ],
       "updated": "2026-09-14",
@@ -48797,6 +48850,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/huonulatehan/"
+    },
+    "HuoQubing": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/huoqubing/"
     },
     "HuoXianWesternHan": {
       "episode_count": 5,
@@ -85448,6 +85517,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/rulerscalepathdependence/"
     },
+    "RulerWillAsLaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/rulerwillaslaw/"
+    },
     "RumorDrivenFrontierIntervention": {
       "episode_count": 1,
       "show_count": 1,
@@ -106487,9 +106572,9 @@
       "url": "/wiki/entities/wuhanthreetowns/"
     },
     "Wuhuan": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 1,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱 [lnlNrkETgFbADHFJbZDJjtrMQFsH].md",
@@ -106553,16 +106638,30 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
         }
       ],
-      "updated": "2026-09-06",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/wuhuan/"
     },
     "WuhuanProtectorateInstitutionalization": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        },
         {
           "episode_file": "《资治通鉴·汉纪》726丨马革裹尸的马援为何蒙冤不能说的秘密 [lpxrkRX2UfFdzpYcTiwWCAANfzbU].md",
           "key": "zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu",
@@ -106571,7 +106670,7 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu/"
         }
       ],
-      "updated": "2026-08-31",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/wuhuanprotectorateinstitutionalization/"
     },
     "WuhuiZhuizong": {
@@ -111083,6 +111182,22 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/yiyanmoyan/"
     },
+    "YiZongWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/yizongwesternhan/"
+    },
     "YidaiZhao": {
       "episode_count": 1,
       "show_count": 1,
@@ -114494,9 +114609,9 @@
       "url": "/wiki/entities/zhaochonglatehan/"
     },
     "ZhaoChongguoWesternHan": {
-      "episode_count": 8,
+      "episode_count": 9,
       "show_count": 1,
-      "source_note_count": 8,
+      "source_note_count": 9,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -114553,9 +114668,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》438｜据理力争！西汉老将赵充国的高情商管理",
           "url": "/wiki/sources/zizhi-tongjian-hanji-438-julilizheng-xihan-laojiang-zhaochongguo-de-gaoqingshang-guanli-li37n85-7ygigwt4f6duz7ktzpr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？ [lqRUNV51SE0W7_2fi2IFS_F7ZUB4].md",
+          "key": "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/zhaochongguowesternhan/"
     },
     "ZhaoDianLateHan": {

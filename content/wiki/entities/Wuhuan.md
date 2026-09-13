@@ -13,16 +13,19 @@ sources:
   - zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
   - zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft
-last_updated: 2026-09-06
+  - zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4
+last_updated: 2026-09-14
 ---
 
 ## Overview
 
-乌桓 / Wuhuan is a northern frontier group whose current wiki profile now begins with 46 CE pressure against famine-weakened [[Xiongnu|Xiongnu]], followed by 49 CE submission and institutional settlement under [[LiuXiu|Liu Xiu]]. Hanji 723 adds the pre-submission military-pressure layer: Wuhuan defeats Xiongnu, helps push them north, and causes Han to reduce some border watch infrastructure while using money and silk to attract Wuhuan. Later sources show Wuhuan as a recognition-risk audience, coalition component, auxiliary cavalry, deserter population, pacified group, local-order contact, anti-[[GongsunZan|Gongsun Zan]] force, and finally a Jian'an 9 frontier audience forced by [[QianZhaoLateHan|牵招]] to abandon aid for [[YuanTan|袁谭]].
+乌桓 / Wuhuan is a northern frontier group whose current wiki profile now begins with a Western Han origin and management layer in [[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]]: after [[HuoQubing|霍去病]] breaks Xiongnu's left territory, Han moves Wuhuan near five northeastern commanderies to watch [[Xiongnu|Xiongnu]] under a protector office, but Wuhuan's position between Han and Xiongnu remains unstable. The later Eastern Han profile begins with 46 CE pressure against famine-weakened Xiongnu, followed by 49 CE submission and institutional settlement under [[LiuXiu|Liu Xiu]]. Hanji 723 adds the pre-submission military-pressure layer: Wuhuan defeats Xiongnu, helps push them north, and causes Han to reduce some border watch infrastructure while using money and silk to attract Wuhuan. Later sources show Wuhuan as a recognition-risk audience, coalition component, auxiliary cavalry, deserter population, pacified group, local-order contact, anti-[[GongsunZan|Gongsun Zan]] force, and finally a Jian'an 9 frontier audience forced by [[QianZhaoLateHan|牵招]] to abandon aid for [[YuanTan|袁谭]].
 
 ## Current Profile
 
-Hanji 723 supplies the earliest current Wuhuan layer. Xiongnu suffers years of drought, locusts, hunger, disease, and succession churn, and the chanyu asks Han for heqin because he fears attack. Han does not attack; Wuhuan does, defeats Xiongnu hard, and helps force them thousands of li north so the desert-south zone becomes empty. Liu Xiu responds by removing roadside pavilion scouts and border troops while using money and silk to attract Wuhuan submission.
+Hanji 402-2 supplies the earliest current Wuhuan layer. The episode derives Wuhuan and [[Xianbei|鲜卑]] from post-Donghu groups pushed into separate mountain zones after defeat by [[MaoDunChanyu|冒顿单于]]. Under Han Wudi, Wuhuan are moved near Shanggu, Yuyang, Youbeiping, Liaodong, and Liaoxi to monitor Xiongnu, with a protector command meant to protect and supervise them. The arrangement is brittle: Wuhuan remain closer to Xiongnu coercion, can hedge between both powers, and in this episode become a rebel or border-harming group whom Xiongnu also hates because they dug up a former Xiongnu ruler's grave. After Xiongnu withdraws from its planned attack, [[FanMingyouWesternHan|范明友]] strikes exhausted Wuhuan and kills three Wuhuan kings.
+
+Hanji 723 supplies the earliest Eastern Han Wuhuan layer. Xiongnu suffers years of drought, locusts, hunger, disease, and succession churn, and the chanyu asks Han for heqin because he fears attack. Han does not attack; Wuhuan does, defeats Xiongnu hard, and helps force them thousands of li north so the desert-south zone becomes empty. Liu Xiu responds by removing roadside pavilion scouts and border troops while using money and silk to attract Wuhuan submission.
 
 Hanji 726 then shows Wuhuan submission becoming an institutionally managed frontier relationship. Hao Dan and other leaders submit to Han; Liu Xiu grants titles to more than eighty leaders, moves them inside the frontier along border commanderies, provides clothing and food, and tasks them with attracting kin. The episode says they later serve as frontier sentries and assist Han against Xiongnu and [[Xianbei|Xianbei]]. [[BanBiaoEasternHan|Ban Biao]] then recommends restoring the Wuhuan protector office at Ningcheng in Shanggu to manage rewards, hostages, and seasonal trade because weak surrender officials cannot reliably control Wuhuan risk.
 
@@ -35,15 +38,19 @@ Hanji 1066 adds the Jian'an 9 Cao-Yuan frontier layer after the fall of Ye. Wuhu
 ## Key Characteristics
 
 - Relationship-sensitive frontier group whose alignment shifts with military opportunity, titles, provisioning, office oversight, recognition choices, inducement, supply, reputation, and security conditions.
+- Western Han relocated watcher of Xiongnu whose protected-client position can fail when the closer steppe power can coerce it.
 - Early pressure actor that defeats weakened Xiongnu before later submitting to Han management.
 - Submitted group in 49 CE that becomes governable through inside-frontier relocation, material support, sentry roles, and a dedicated protector office.
 - Diplomatic-risk audience whose reaction can constrain Han recognition of Northern Xiongnu claimants and whose aid can later be redirected when rival title-recognition claims collide.
-- Coalition actor that can be split away from Xiongnu pressure by trusted envoys and reconciliation.
-- Auxiliary cavalry source whose usefulness can collapse when supply and pay fail.
+- Coalition actor and auxiliary cavalry source that can be split away from Xiongnu pressure by trusted envoys, but whose usefulness can collapse when supply and pay fail.
 - Frontier population that responds to envoys, rewards, reassurance, and credible local order more durably than to overextended pursuit alone.
 
 ## Evidence
 
+- Western Han origin and relocation: [[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]] says Wuhuan and Xianbei develop from post-Donghu groups after Modu defeats Donghu.
+- Five-commandery placement: [[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]] says Han Wudi moves Wuhuan near Shanggu, Yuyang, Youbeiping, Liaodong, and Liaoxi to monitor Xiongnu.
+- Protector-office limit: [[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]] says Wuhuan are protected and supervised by Han but remain vulnerable to Xiongnu pressure and later harm Han borders.
+- Punitive strike: [[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]] says Fan Mingyou attacks exhausted Wuhuan after Xiongnu withdraws, kills three Wuhuan kings, and claims six thousand-plus heads.
 - 46 CE Xiongnu pressure: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Wuhuan attacks and defeats Xiongnu while Xiongnu is weakened by drought, locusts, hunger, disease, and succession disruption.
 - Han response to Wuhuan opening: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says Liu Xiu removes some roadside scouts and border troops after Xiongnu moves north, then uses money and silk to attract Wuhuan submission.
 - Early submission and settlement: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Hao Dan and other Wuhuan leaders submit, more than eighty leaders receive titles, and the groups are moved inside the frontier with clothing and food.
@@ -57,17 +64,18 @@ Hanji 1066 adds the Jian'an 9 Cao-Yuan frontier layer after the fall of Ye. Wuhu
 
 ## Qualifications
 
-This page remains bounded to the listed source notes and does not provide a full ethnographic or dynastic history of Wuhuan. The frontmatter source list preserves ingest order, so Hanji 723 appears late even though it is the earliest current chronology. The 46 CE pressure layer does not mean Wuhuan is already a settled Han partner; the 49 CE submission and office restoration are separate later steps. Later sources show Wuhuan alignment remains situational and depends on continuing credibility, supply, local authority, and competing recognition claims. Hanji 1066 does not name the Wuhuan leader, so this page does not identify him with [[TadunLateHan|Tadun]] without stronger evidence.
+This page remains bounded to the listed source notes and does not provide a full ethnographic or dynastic history of Wuhuan. The source writes 巫环; the wiki routes it to Wuhuan/乌桓 as a transcript-normalized form. The frontmatter source list preserves ingest order, so Hanji 402-2 appears late even though it is now the earliest current chronology. The Western Han placement layer does not mean Wuhuan is a stable Han partner; the episode emphasizes hedging, Xiongnu coercion, and eventual punishment. The 46 CE pressure layer does not mean Wuhuan is already a settled Han partner; the 49 CE submission and office restoration are separate later steps. Later sources show Wuhuan alignment remains situational and depends on continuing credibility, supply, local authority, and competing recognition claims. Hanji 1066 does not name the Wuhuan leader, so this page does not identify him with [[TadunLateHan|Tadun]] without stronger evidence.
 
 ## What Changed
 
-- Added Hanji 1066's Jian'an 9 layer: Wuhuan's planned rescue of Yuan Tan, Liaodong's chanyu-seal intervention, Qian Zhao's public coercion, and cancellation of the five-thousand-cavalry aid.
-- Reframed Wuhuan alignment as vulnerable not only to supply and local-order incentives but also to rival title-recognition claims.
-- Preserved the caution that the unnamed Wuhuan leader should not be merged with Tadun from Hanji 1032 without explicit support.
+- Added Hanji 402-2's Western Han origin layer: Wuhuan's post-Donghu background, five-commandery relocation, protector-office supervision, Xiongnu pressure, and Fan Mingyou's punitive strike.
+- Preserved the later Eastern Han sequence from 46 CE pressure through 49 CE submission, Ban Biao's office restoration argument, late-Han alignment volatility, and Hanji 1066's Jian'an 9 aid-cancellation case.
 
 ## Relationships
 
 - [[Xiongnu|匈奴]] - frontier opponent whom Wuhuan defeats in the earliest current layer.
+- [[HuoQubing|霍去病]] - general whose anti-Xiongnu campaign creates the source's Wuhuan relocation context.
+- [[HuoGuangWesternHan|霍光]] and [[FanMingyouWesternHan|范明友]] - regency decision-maker and commander behind the Western Han punitive strike.
 - [[LiuXiu|光武帝刘秀]] - ruler who uses Wuhuan pressure, later enfeoffs Wuhuan leaders, and moves them inside the frontier.
 - [[BanBiaoEasternHan|班彪]] - adviser who recommends restoring the Wuhuan protector office.
 - [[WuhuanProtectorateInstitutionalization|护乌桓校尉制度化]] - concept directly grounded by Wuhuan submission and office restoration.

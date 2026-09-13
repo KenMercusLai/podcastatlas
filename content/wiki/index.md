@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！](sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8.md) — 芮淇讲透资治通鉴 episode on Huo Guang's Han Zhao regency power, Sui Hong's omen-based abdication memorial, and the lethal boundary around Yao-Shun throne-transfer language.
+- [《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？](sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4.md) — 芮淇讲透资治通鉴 episode on Du Zhou's ruler-will legal logic, Du Yannian's court tact, and Huo Guang's Fan Mingyou-led Wuhuan punishment after Xiongnu withdraws.
 - [《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！](sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx.md) — 芮淇讲透资治通鉴 episode on Fu Jiezi's first Western Regions mission, Loulan/Qiuci rebukes, the killing of Xiongnu envoys, and the low-cost second-mission setup under Huo Guang.
 - [《资治通鉴·汉纪》403-2｜独剑斩楼兰，不该被遗忘的超级外交官：傅介子](sources/zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja.md) — 芮淇讲透资治通鉴 episode on Fu Jiezi's second Western Regions mission, Angui's assassination, Wei Tuqi's hostage succession, Loulan's renaming as Shanshan, and Sima Guang's trust-cost criticism.
 - [《资治通鉴·汉纪》404｜汉昭帝刘弗陵，真的是被霍光害死的？](sources/zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs.md) — 芮淇讲透资治通鉴 episode on Han Zhao's death, Huo Guang's harem and succession control, and the illness-versus-murder interpretation before Liu He's accession.
@@ -2427,6 +2428,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Kutter](entities/MartinKutter.md) — FinalSpark co-founder named in EP37's origin story for biological AI processors.
 - [Gong Sui (Western Han)](entities/GongSuiWesternHan.md) — Western Han official whose Bohai governance reframed banditry as hunger and official-neglect repair.
 - [Huo Guang (Western Han)](entities/HuoGuangWesternHan.md) — Western Han regent whose loyal service and posthumous family purge illustrate failed power exit.
+- [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han general whose anti-Xiongnu campaign anchors the Wuhuan relocation context in Hanji 402-2.
+- [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
+- [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.
+- [义纵 / Yi Zong (Western Han)](entities/YiZongWesternHan.md) — Western Han cruel-official figure named as a predecessor before Du Zhou's rise.
 - [霍显 / Huo Xian (Western Han)](entities/HuoXianWesternHan.md) — Huo Guang's wife whose misconduct, palace access, and succession threat help drive the Huo-family collapse.
 - [霍成君 / Huo Chengjun (Western Han)](entities/HuoChengjunWesternHan.md) — Huo-family empress installed in 70 BCE, luxury-coded against Xu Pingjun, then deposed after the purge as a crown-prince succession threat.
 - [淳于衍 / Chunyu Yan (Western Han)](entities/ChunyuYanWesternHan.md) — Western Han palace physician who poisons Xu Pingjun during childbirth under Huo Xian's pressure in Hanji 413-2.
@@ -12759,6 +12764,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Persona-Shielded Political Purge / 人设护盾式政治清除](concepts/PersonaShieldedPoliticalPurge.md) — Pattern where a dominant actor removes an obstacle through respected intermediaries, proxy accusation, public-order language, and staged restraint to preserve moral persona.
 - [帝王停灵防腐 / Imperial Funerary Preservation](concepts/ImperialFuneraryPreservation.md) — Ritual-and-material pattern where extended imperial停灵 requires washing, disinfection, fragrant bathing, aromatics, drying agents, grave goods, and coffin sealing before burial.
 - [强制边疆震慑 / Coercive Frontier Deterrence](concepts/CoerciveFrontierDeterrence.md) — Frontier-control pattern where envoy-party violence, targeted killing, public execution, and anti-harboring rules produce deterrence with trust costs.
+- [君意即法 / Ruler Will as Law](concepts/RulerWillAsLaw.md) — Legal-political pattern where an official treats the ruler's current intent as the operative law rather than an autonomous written standard.
 - [经典据依式改名治理 / Classics-Based Naming Governance](concepts/ClassicsBasedNamingGovernance.md) — Hanji 614 concept for turning classical claims about proper names into compulsory naming policy and diplomatic submission theater.
 - [AI Washing Layoff Attribution](concepts/AIWashingLayoffAttribution.md) — Concept separating real AI displacement from overhiring cleanup or restructuring narratives branded as AI-driven.
 - [Dog-Blood Case / 狗血案](concepts/DogBloodCase.md) — Wang Mang-era staged-anomaly case where dog blood at the regent's gate becomes a wugu-adjacent purge trigger.

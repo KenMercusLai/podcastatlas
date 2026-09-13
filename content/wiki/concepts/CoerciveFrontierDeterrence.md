@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina
   - zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx
   - zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja
+  - zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4
 last_updated: 2026-09-14
 ---
 
 ## Definition
 
-强制边疆震慑 / Coercive Frontier Deterrence is the pattern where a court tries to restore frontier order by turning punishment into a communicative act: envoy-party violence, extradition, public execution, targeted killing, remembered prior victories, succession replacement, or general anti-harboring rules make local actors believe disobedience will carry a wider cost.
+强制边疆震慑 / Coercive Frontier Deterrence is the pattern where a court tries to restore frontier order by turning punishment into a communicative act: envoy-party violence, opportunistic battlefield punishment, extradition, public execution, targeted killing, remembered prior victories, succession replacement, or general anti-harboring rules make local actors believe disobedience will carry a wider cost.
 
 ## Current Synthesis
 
-The earliest current variant runs through [[FuJieziWesternHan|傅介子]] in [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] and [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]]. First, Fu rebukes [[LoulanKingdomWesternHan|Loulan]] and [[QiuciKingdom|Qiuci]], uses local intelligence to locate returning Xiongnu envoys, and kills them at a relay station. Then, when disorder persists, he returns with valuables, isolates [[LoulanKingAnguiWesternHan|Angui]], has him killed, displays the head, threatens Loulan nobles with Han destruction, and installs [[WeiTuqiWesternHan|Wei Tuqi]] as a Han-backed successor.
+The earliest current variant now runs through [[FanMingyouWesternHan|范明友]] in [[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]]. [[HuoGuangWesternHan|霍光]] first plans to intercept [[Xiongnu|匈奴]] but gives Fan a fallback instruction not to return empty-handed. When Xiongnu withdraws, Fan attacks the exhausted [[Wuhuan|乌桓]], kills three Wuhuan kings, and records six thousand-plus heads. The episode reads the result as a double signal: rebel Wuhuan are punished and Xiongnu are warned by the scale of Han readiness.
+
+A second Western Han variant runs through [[FuJieziWesternHan|傅介子]] in [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] and [[zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja|Hanji 403-2]]. First, Fu rebukes [[LoulanKingdomWesternHan|Loulan]] and [[QiuciKingdom|Qiuci]], uses local intelligence to locate returning Xiongnu envoys, and kills them at a relay station. Then, when disorder persists, he returns with valuables, isolates [[LoulanKingAnguiWesternHan|Angui]], has him killed, displays the head, threatens Loulan nobles with Han destruction, and installs [[WeiTuqiWesternHan|Wei Tuqi]] as a Han-backed successor.
 
 This Fu Jiezi sequence shows the full promise and danger of coercive deterrence. The actions are cheap relative to a large expedition and produce immediate submission signals across the Western Regions, but Hanji 403-2 also preserves [[SimaGuang|Sima Guang]]'s objection: if a ruler has already confessed or returned to submission, trick killing by gifts can spend down the credibility that future surrender depends on.
 
@@ -35,7 +38,7 @@ The concept stays qualified because deterrence has a trust cost and depends on a
 
 ## Key Claims
 
-- Frontier deterrence can operate through envoy-party shock, public theater, targeted killing, succession replacement, and remembered precedent as much as through battlefield victory.
+- Frontier deterrence can operate through opportunistic punishment of a weakened dependent group, envoy-party shock, public theater, targeted killing, succession replacement, and remembered precedent as much as through planned battlefield victory.
 - A major expeditionary victory can become the remembered precedent that later envoys use as a threat.
 - Extradition pressure turns a refuge case into a test of hierarchy between the court and a frontier counterpart.
 - Executing dependent rulers before assembled peers makes punishment communicative, not only retributive.
@@ -45,7 +48,9 @@ The concept stays qualified because deterrence has a trust cost and depends on a
 
 ## Evidence
 
-Envoy-party shock:
+Opportunistic and envoy-party shock:
+- [[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]] says Huo Guang tells Fan Mingyou not to return empty-handed if he cannot intercept Xiongnu.
+- [[zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4|Hanji 402-2]] says Fan attacks Wuhuan after Xiongnu withdraws, kills three Wuhuan kings, and claims six thousand-plus heads, suppressing Wuhuan and intimidating Xiongnu.
 - [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Fu Jiezi kills returning Xiongnu envoys at a relay station with roughly a dozen armed attendants.
 - [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Loulan sends envoys to submit after Fu's action, but Western Regions polities later resume attacks on Han envoys.
 
@@ -76,13 +81,12 @@ Trust cost:
 
 ## Counterevidence & Qualifications
 
-The concept should not be used for ordinary frontier law enforcement, military victory, or symbolic demotion alone. Hanji 403-1 and Hanji 403-2 support an envoy-party and Loulan decapitation variant, but they also show renewed disorder and Sima Guang's trust-cost warning. Hanji 490 supports the major expeditionary victory variant, but it carries unauthorized-command and alliance-management risks. Hanji 613 supports extradition, public execution, and anti-harboring rules while explicitly recording resentment. Hanji 550 supports small-force targeted punishment only because Duan also manages the audience's exit. Hanji 513 supports leader decapitation followed by logistical pacification. None proves long-run deterrence success.
+The concept should not be used for ordinary frontier law enforcement, military victory, or symbolic demotion alone. Hanji 402-2 supports an opportunistic battlefield-punishment variant, but its Wuhuan casualty figures, three-king identities, and long-run quieting effect remain source-scoped. Hanji 403-1 and Hanji 403-2 support an envoy-party and Loulan decapitation variant, but they also show renewed disorder and Sima Guang's trust-cost warning. Hanji 490 supports the major expeditionary victory variant, but it carries unauthorized-command and alliance-management risks. Hanji 613 supports extradition, public execution, and anti-harboring rules while explicitly recording resentment. Hanji 550 supports small-force targeted punishment only because Duan also manages the audience's exit. Hanji 513 supports leader decapitation followed by logistical pacification. None proves long-run deterrence success.
 
 ## What Changed
 
-- Added Hanji 403-2 as the completion of Fu Jiezi's Loulan sequence: Angui's assassination, head display, Wei Tuqi's installation, and Shanshan renaming.
-- Reframed the Fu Jiezi material as the earliest current envoy-party plus ruler-decapitation variant rather than only Xiongnu-envoy killing.
-- Added Sima Guang's criticism as an explicit credibility-cost qualification.
+- Added Hanji 402-2 as the earliest current opportunistic battlefield-punishment variant: Fan Mingyou redirects a missed Xiongnu interception into a Wuhuan strike under Huo Guang's fallback order.
+- Preserved Hanji 403-1 and Hanji 403-2 as the Fu Jiezi envoy-party plus ruler-decapitation sequence, including Sima Guang's credibility-cost warning.
 - Preserved the later Wang Mang, Duan Huizong, Chen Li, and Chen Tang variants while tightening the distinction between immediate shock and durable order.
 
 ## Related Concepts
@@ -95,6 +99,8 @@ The concept should not be used for ordinary frontier law enforcement, military v
 - [[FrontierProxyConquestStrategy|以夷攻夷式边疆策略]] - adjacent where deterrence is followed by local successor installation or proxy use.
 - [[TacticalCredibilityCost|战术信用成本]] - trust-cost concept sharpened by Sima Guang's criticism of the Loulan诱杀.
 - [[DuanHuizongWesternHan|段会宗]] - actor who adds the small-force Wusun variant.
+- [[FanMingyouWesternHan|范明友]] - actor who adds the Wuhuan battlefield-punishment variant.
+- [[HuoGuangWesternHan|霍光]] - regent whose fallback instruction converts failed interception into deterrent punishment.
 - [[FuJieziWesternHan|傅介子]] - actor who adds the early Western Han envoy-party and Loulan assassination variants.
 - [[LoulanKingdomWesternHan|楼兰]] - polity whose short-term submission shows the immediate effect and durability limit of shock deterrence.
 - [[ChenLiWesternHan|陈立]] - actor who adds the Zhangke/Yelang leader-decapitation variant.

@@ -18239,6 +18239,10 @@
     "title": "杜仲 / Du Zhong (late Han)",
     "url": "/wiki/entities/duzhonglatehan/"
   },
+  "DuZhouWesternHan": {
+    "title": "杜周 / Du Zhou (Western Han)",
+    "url": "/wiki/entities/duzhouwesternhan/"
+  },
   "DuZiChun": {
     "title": "《杜子春》",
     "url": "/wiki/entities/duzichun/"
@@ -21026,6 +21030,10 @@
   "FanMin": {
     "title": "Fan Min",
     "url": "/wiki/entities/fanmin/"
+  },
+  "FanMingyouWesternHan": {
+    "title": "范明友 / Fan Mingyou (Western Han)",
+    "url": "/wiki/entities/fanmingyouwesternhan/"
   },
   "FanNengLateHan": {
     "title": "樊能 / Fan Neng (late Han)",
@@ -29338,6 +29346,10 @@
   "HuoNuLateHan": {
     "title": "霍奴 / Huo Nu (late Han)",
     "url": "/wiki/entities/huonulatehan/"
+  },
+  "HuoQubing": {
+    "title": "霍去病 / Huo Qubing",
+    "url": "/wiki/entities/huoqubing/"
   },
   "HuoXianWesternHan": {
     "title": "霍显 / Huo Xian (Western Han)",
@@ -52415,6 +52427,10 @@
     "title": "统治者尺度错配型路径依赖 / Ruler-Scale Path Dependence",
     "url": "/wiki/concepts/rulerscalepathdependence/"
   },
+  "RulerWillAsLaw": {
+    "title": "君意即法 / Ruler Will as Law",
+    "url": "/wiki/concepts/rulerwillaslaw/"
+  },
   "RulinWaishi": {
     "title": "《儒林外史》",
     "url": "/wiki/entities/rulinwaishi/"
@@ -67683,6 +67699,10 @@
     "title": "一言莫衍 / Yi Yan Moyan",
     "url": "/wiki/entities/yiyanmoyan/"
   },
+  "YiZongWesternHan": {
+    "title": "义纵 / Yi Zong (Western Han)",
+    "url": "/wiki/entities/yizongwesternhan/"
+  },
   "Yibin": {
     "title": "Yibin / 宜宾",
     "url": "/wiki/entities/yibin/"
@@ -75650,6 +75670,10 @@
   "zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8": {
     "title": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！",
     "url": "/wiki/sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8/"
+  },
+  "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4": {
+    "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
   },
   "zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx": {
     "title": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！",

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "d"
-wiki_total_pages: 10008
+wiki_total_pages: 10012
 wiki_pages:
   - key: "DDay"
     title: "D-Day"
@@ -1067,6 +1067,9 @@ wiki_pages:
   - key: "DuWuWangMangKiller"
     title: "杜吾 / Du Wu (Wang Mang killer)"
     url: "/wiki/entities/duwuwangmangkiller/"
+  - key: "DuZhouWesternHan"
+    title: "杜周 / Du Zhou (Western Han)"
+    url: "/wiki/entities/duzhouwesternhan/"
   - key: "DuTaihou"
     title: "杜太后 / Empress Dowager Du"
     url: "/wiki/entities/dutaihou/"

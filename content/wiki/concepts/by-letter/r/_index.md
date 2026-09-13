@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7338
+wiki_total_pages: 7339
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -1019,6 +1019,9 @@ wiki_pages:
   - key: "ReputationConstrainedWarRestraint"
     title: "名声约束下的战争节制 / Reputation-Constrained War Restraint"
     url: "/wiki/concepts/reputationconstrainedwarrestraint/"
+  - key: "RulerWillAsLaw"
+    title: "君意即法 / Ruler Will as Law"
+    url: "/wiki/concepts/rulerwillaslaw/"
   - key: "RoyalKinshipScandalAdjudication"
     title: "宗室亲属丑闻审理 / Royal Kinship Scandal Adjudication"
     url: "/wiki/concepts/royalkinshipscandaladjudication/"

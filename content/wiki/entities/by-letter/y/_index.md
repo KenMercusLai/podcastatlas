@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 10008
+wiki_total_pages: 10012
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "YiquState"
     title: "义渠 / Yiqu"
     url: "/wiki/entities/yiqustate/"
+  - key: "YiZongWesternHan"
+    title: "义纵 / Yi Zong (Western Han)"
+    url: "/wiki/entities/yizongwesternhan/"
   - key: "YuQiRebellion"
     title: "于七之乱 / Yu Qi Rebellion"
     url: "/wiki/entities/yuqirebellion/"
