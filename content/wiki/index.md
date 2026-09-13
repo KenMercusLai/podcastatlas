@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？](sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee.md) — 芮淇讲透资治通鉴 episode on Xiahou Sheng and Huang Ba's prison study, Han Xuan's earthquake amnesty and talent reassessment, and praise as a way to place the ruler's words into historical memory.
 - [《资治通鉴·汉纪》415｜西汉赵广汉如何打击“乡霸村霸”黑恶势力](sources/zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur.md) — 芮淇讲透资治通鉴 episode on Zhao Guanghan's early Yingchuan anti-haoqiang campaign, anonymous reporting, Jingzhao information network, and the Huo Chengjun/Xu Pingjun palace contrast.
 - [《资治通鉴·汉纪》418｜霍光死后，为何霍家注定被灭族？](sources/zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu.md) — 芮淇讲透资治通鉴 episode on Huo Guang's death honors, Wei Xiang's early anti-Huo warning, memorial-channel repair, Xuan's personal local-governance style, and a Xiongnu raid plot detected by Han intelligence.
 - [《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么](sources/zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp.md) — 芮淇讲透资治通鉴 episode on Han Xuan's early post-Huo-Guang consolidation through disaster remonstrance, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair against Huo control.
@@ -2418,7 +2419,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [疏广与疏受 / Shu Guang and Shu Shou (Western Han)](entities/ShuGuangShuShouWesternHan.md) — Western Han crown-prince teachers whose timely retirement and reward distribution illustrate knowing when to stop.
 - [张彭祖 / Zhang Pengzu (Western Han)](entities/ZhangPengzuWesternHan.md) — Zhang He's adopted heir and recipient of Han Xuan's benefactor-family reward in Hanji 430.
 - [张霸 / Zhang Ba (Western Han)](entities/ZhangBaWesternHan.md) — Child descendant rewarded in Han Xuan's old-benefactor branch in Hanji 430.
-- [夏侯胜 / Xiahou Sheng (Western Han)](entities/XiahouShengWesternHan.md) — Crown-prince tutor who interprets Bing Ji's recovery through hidden virtue in Hanji 430.
+- [夏侯胜 / Xiahou Sheng (Western Han)](entities/XiahouShengWesternHan.md) — Crown-prince tutor and Shangshu scholar whose prison study, trusted directness, praise-as-memory rhetoric, and hidden-virtue interpretation make him a moral interpreter under Han Xuan.
 - [Ding Kefeng / 丁克峰](entities/DingKefeng.md) — Colorectal-surgery professor featured in the bowel-health and colorectal-cancer screening episode.
 - [Trent Rossiter](entities/TrentRossiter.md) — Local-AI practitioner and Logic Data Solutions consultant explaining memory-first hardware, framework choice, and agent isolation in Data Science With Sam EP38.
 - [Logic Data Solutions](entities/LogicDataSolutions.md) — Consulting-company context for Trent Rossiter's local-AI and data-platform practice.
@@ -2440,7 +2441,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Thoma Bravo](entities/ThomaBravo.md) — Software-focused private-equity firm discussed through the Medallia debt case.
 - [Southern Poverty Law Center](entities/SouthernPovertyLawCenter.md) — Nonprofit discussed through source-scoped indictment allegations and informant-accountability questions.
 - [Picloram](entities/Picloram.md) — Persistent herbicide flagged in an All-In science segment as a source-scoped early-onset colorectal cancer exposure signal.
-- [Huang Ba (Western Han)](entities/HuangBaWesternHan.md) — Western Han chancellor whose bird-omen embarrassment and failed Shi Gao recommendation illustrate reputation pressure, false performance signals, and sensitive personnel-boundary overreach.
+- [Huang Ba (Western Han)](entities/HuangBaWesternHan.md) — Western Han official whose prison study, humane Yingchuan governance, bird-omen embarrassment, and failed Shi Gao recommendation show both administrative capacity and central-office risk.
 - [丙吉 / Bing Ji (Western Han)](entities/BingJiWesternHan.md) — Western Han chancellor used by Hanji 454 as a quiet-merit contrast to Huang Ba's reputation-driven omen mistake.
 - [渠犁 / Quli (Western Regions)](entities/QuliWesternRegions.md) — Western Regions屯田 base used by Zheng Ji in the Cheshi rescue and later as the relocation destination for Cheshi's people.
 - [魏相 / Wei Xiang (Western Han)](entities/WeiXiangWesternHan.md) — Western Han chancellor whose Cheshi-crisis remonstrance turns "骄兵必败" into a war-purpose and state-capacity warning.
@@ -3388,7 +3389,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Western Regions Protectorate / 西域都护府](entities/WesternRegionsProtectorate.md) — Han frontier institution that turns Xiongnu defection, oasis-polity supervision, credible protection, and capable protectors into Western Regions order.
 - [Zhao Chongguo / 赵充国 (Western Han)](entities/ZhaoChongguoWesternHan.md) — Western Han general tied to deterrent Xiongnu standoff, Qiang coalition-splitting, 河湟屯田, truthful reporting, and the brocade's "讨南羌" interpretation.
 - [朱邑 / Zhu Yi (Western Han)](entities/ZhuYiWesternHan.md) — Western Han 大司农 remembered for clean public service, frugal conduct, fiscal office, and local posthumous worship.
-- [Emperor Xuan of Han / 汉宣帝](entities/EmperorXuanOfHan.md) — Western Han ruler whose page now combines the Hanji 428 name-change mercy layer, five-star omen campaign setting, prison-to-emperor reign evaluation, Xiongnu/Western Regions achievements, deathbed entrustment, and succession turning point.
+- [Emperor Xuan of Han / 汉宣帝](entities/EmperorXuanOfHan.md) — Western Han ruler whose page combines earthquake amnesty and talent reassessment, name-change mercy, five-star omen campaign setting, prison-to-emperor reign evaluation, Xiongnu/Western Regions achievements, deathbed entrustment, and succession turning point.
 - [田戎 / Tian Rong (Yiling, Eastern Han)](entities/TianRongYilingEasternHan.md) — Yiling regional power whose self-titled armed field later becomes a failed-surrender case through Xin Chen's theft, defection, suspicious letter, and divination.
 - [辛臣 / Xin Chen (Eastern Han)](entities/XinChenEasternHan.md) — Tian Rong's in-law and Yiling guard whose theft and defection to Cen Peng break the surrender channel.
 - [傅湛 / Fu Zhan (Eastern Han)](entities/FuZhanEasternHan.md) — Guangwu adviser whose remonstrance redirects Liu Xiu from distant Peng Chong toward nearer unsettled regions.
@@ -12369,6 +12370,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [赞颂作为政治记忆 / Praise as Political Memory](concepts/PraiseAsPoliticalMemory.md) — Court-rhetoric pattern where praise frames a ruler's words or acts as worthy of circulation, imitation, and later historical memory.
 - [司法滥用式官逼民反 / Judicial Abuse Rebellion Trigger](concepts/JudicialAbuseRebellionTrigger.md) — Mechanism where law becomes torture, false accusation, and official manipulation, collapsing ordinary people's lawful options into endurance or resistance.
 - [尚德缓刑式刑政修复 / Shangde Huanxing Penal Reform](concepts/ShangdeHuanxingPenalReform.md) — Penal-governance repair frame where political restoration requires cautious, humane punishment against torture and official self-protection incentives.
 - [Tribute System Economic Incentive / 朝贡体系经济激励](concepts/TributeSystemEconomicIncentive.md) — Pattern where tribute participation is encouraged by rewards,回赐, high official prices, hosted reception, and controlled trade access.

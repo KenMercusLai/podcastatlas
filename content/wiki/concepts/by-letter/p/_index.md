@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7310
+wiki_total_pages: 7311
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1979,6 +1979,9 @@ wiki_pages:
   - key: "PovertyMemoryCorruptionExcuse"
     title: "贫穷记忆贪腐借口 / Poverty Memory as Corruption Excuse"
     url: "/wiki/concepts/povertymemorycorruptionexcuse/"
+  - key: "PraiseAsPoliticalMemory"
+    title: "赞颂作为政治记忆 / Praise as Political Memory"
+    url: "/wiki/concepts/praiseaspoliticalmemory/"
   - key: "PosthumousMeritVindication"
     title: "身后功过昭雪 / Posthumous Merit Vindication"
     url: "/wiki/concepts/posthumousmeritvindication/"

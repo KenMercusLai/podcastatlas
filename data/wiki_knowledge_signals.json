@@ -28993,9 +28993,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 17,
+      "episode_count": 18,
       "show_count": 1,
-      "source_note_count": 17,
+      "source_note_count": 18,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -29115,6 +29115,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？ [lvQBs--20kVjiMWdwGFCiq-n6WEE].md",
+          "key": "zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee/"
         }
       ],
       "updated": "2026-09-13",
@@ -46758,9 +46765,9 @@
       "url": "/wiki/entities/huanyueasternhan/"
     },
     "HuangBaWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场 [lhaztu17UlZaartaA6y0eHAqvnzx].md",
@@ -46789,6 +46796,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧",
           "url": "/wiki/sources/zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？ [lvQBs--20kVjiMWdwGFCiq-n6WEE].md",
+          "key": "zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee/"
         }
       ],
       "updated": "2026-09-13",
@@ -77277,6 +77291,22 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/pragmaticreligioustoleration/"
     },
+    "PraiseAsPoliticalMemory": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？ [lvQBs--20kVjiMWdwGFCiq-n6WEE].md",
+          "key": "zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/praiseaspoliticalmemory/"
+    },
     "PreachingAsFailedConnection": {
       "episode_count": 1,
       "show_count": 1,
@@ -105675,9 +105705,9 @@
       "url": "/wiki/entities/xiahoufanwesternhan/"
     },
     "XiahouShengWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
@@ -105685,6 +105715,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
           "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？ [lvQBs--20kVjiMWdwGFCiq-n6WEE].md",
+          "key": "zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee/"
         }
       ],
       "updated": "2026-09-13",
