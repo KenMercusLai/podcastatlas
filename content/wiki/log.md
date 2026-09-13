@@ -18530,6 +18530,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争
+
+Added source note plus Zhao Chongguo, Frontier Defensive Patience, and Coalition Fracture Exploitation updates. Key claims: Zhao rejects Xin Wuxian's July Qiang attack plan because logistics, terrain, and target choice would help Xianling harden its coalition, while patient defense and principal-culprit targeting better preserve Han's strategic aim.
+
 ## [2026-09-13] ingest | EP 49: The Human Side of AI in Media: Speed, Trust & What's Really Changing
 
 Added source note plus Karima Sharif-Ali, Media AI Workflow Acceleration, and Healthcare Media AI Trust. Key claims: AI's near-term media value is speed in planning, RFPs, meetings, reporting, and optimization, while healthcare marketing still depends on human-led strategy, authenticity, provenance, bias governance, and trust guardrails.
@@ -18835,6 +18839,10 @@ Ran lint. See lint-report.md for details.
 
 - Added source note for the Hanji 440 backfill episode.
 - Updated Zhao Chongguo and Qiang official-abuse synthesis pages for Zhao's post-campaign truth-telling, Xin-family retaliation, Xin Tang's misconduct, and Zhao Ang's prison death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

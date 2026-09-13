@@ -17267,9 +17267,9 @@
       "url": "/wiki/concepts/clubnationalteamboundaryblur/"
     },
     "CoalitionFractureExploitation": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·周纪》67丨战国“灭霸”白起的军事才能究竟如何 [ljw0lLToWxd4qZ75V-wcNlKwQSkv].md",
@@ -17305,6 +17305,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》1066丨三国最蛮横的外交官：凭什么是牵招？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争 [llAB-tN_9WKvIgZviSnDnMHiFppT].md",
+          "key": "zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt/"
         }
       ],
       "updated": "2026-09-06",
@@ -36076,6 +36083,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/frontierconscriptionbackfire/"
+    },
+    "FrontierDefensivePatience": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍 [ljTQDg46a8o13ZZSjV-P_FPOL5Oh].md",
+          "key": "zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·秦纪》105｜战争花样赵国李牧最会耍",
+          "url": "/wiki/sources/zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争 [llAB-tN_9WKvIgZviSnDnMHiFppT].md",
+          "key": "zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/frontierdefensivepatience/"
     },
     "FrontierModelDuopoly": {
       "episode_count": 3,
@@ -111350,9 +111380,9 @@
       "url": "/wiki/entities/zhaochonglatehan/"
     },
     "ZhaoChongguoWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -111381,6 +111411,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争 [llAB-tN_9WKvIgZviSnDnMHiFppT].md",
+          "key": "zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt/"
         }
       ],
       "updated": "2026-09-13",
