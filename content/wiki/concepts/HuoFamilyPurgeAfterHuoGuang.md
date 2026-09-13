@@ -7,6 +7,7 @@ sources:
   - zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu
   - zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p
   - zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1
+  - zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu
 last_updated: 2026-09-13
 ---
 
@@ -16,7 +17,9 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] creates the concept through [[SimaGuang|司马光]]'s judgment on [[HuoGuangWesternHan|霍光]] and [[EmperorXuanOfHan|汉宣帝]]. The source refuses a simple villain story. Huo Guang's loyalty and founding service remain real, but Sima Guang says authority belongs to the ruler and should have been returned once Xuan was mature enough to rule.
+The earliest post-death setup is already double-sided: [[EmperorXuanOfHan|汉宣帝]] gives [[HuoGuangWesternHan|霍光]] exceptional honors, hereditary privilege, and high appointments for Huo Shan and Huo Yu, but [[WeiXiangWesternHan|魏相]] simultaneously warns that the Huo household still holds military posts, palace access, family networks, and information-channel leverage. The danger is already structural before the later conspiracy appears.
+
+[[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] creates the concept's judgment layer through [[SimaGuang|司马光]]'s assessment of Huo Guang and Xuan. The source refuses a simple villain story. Huo Guang's loyalty and founding service remain real, but Sima Guang says authority belongs to the ruler and should have been returned once Xuan was mature enough to rule.
 
 The intermediate bridge is psychological and procedural: [[zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1|Hanji 423]] shows the Huo household first reading Xuan's distrust as a loss-of-power problem; after [[HuoXianWesternHan|霍显]] admits the poisoning of Empress Xu, the family reinterprets the same pressure as an extinction threat. The same source also gives [[ZhangChangWesternHan|张敞]]'s preventive settlement logic: honor Huo Guang's service, strip Huo command, retire dangerous relatives with status, and avoid making frightened near-court actors believe revolt is their only exit.
 
@@ -27,8 +30,8 @@ The failure has three sides. Huo Guang's side is overstay and household discipli
 ## Key Claims
 
 - A regent's public merit becomes politically unstable when the household continues to hold ruler-like authority after the ruler can govern personally.
-- Timely power return and honor-preserving retirement are family-preservation strategies, not only constitutional niceties.
-- Hidden household crimes can convert ordinary loss-of-office fear into perceived survival panic.
+- Honor after a regent's death does not neutralize danger if military offices, palace access, kinship networks, and memorial routing remain concentrated in the regent's family.
+- Timely power return and honor-preserving retirement are family-preservation strategies because hidden household crimes can convert ordinary loss-of-office fear into perceived survival panic.
 - Household misconduct becomes state danger when palace access, funerary privilege, military ties, and succession threat are held by one overmighty family.
 - Rulers can worsen overmighty-family risk by leaving descendants in command positions instead of converting merit into safe titles, stipends, and ritual honor.
 - Preventive warnings can be less rewarded than post-crisis exposure even though early restraint might avoid purge.
@@ -37,11 +40,16 @@ The failure has three sides. Huo Guang's side is overstay and household discipli
 ## Evidence
 
 Regency overstay:
+- [[zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu|Hanji 418]] says Xuan gives Huo Guang imperial-grade honors and hereditary privilege while also appointing Huo Shan and Huo Yu to important roles.
+- [[zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu|Hanji 418]] says Wei Xiang warns that Huo sons, nephews, sons-in-law, palace women, and military posts still leave the Huo family hard to control.
+- [[zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu|Hanji 418]] says the duplicate memorial-copy channel allowed accusations to be filtered before Xuan saw them, making information control part of Huo risk.
 - [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Sima Guang argues that威福 belongs to the ruler.
 - [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Xuan was nineteen and capable, but Huo Guang still held great power and placed private followers in court.
 - [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xuan had earlier felt "芒刺在背" when Huo Guang accompanied him, showing that Huo power was already experienced as pressure.
 
 Household misconduct and conspiracy:
+- [[zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu|Hanji 418]] says Huo Xian and Huo women could enter palace gates even at night, turning household privilege into palace-security exposure.
+- [[zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu|Hanji 418]] flags the unresolved poisoning of Empress Xu by Huo Xian as a latent danger before the later open collapse.
 - [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Huo Xian's conduct includes Feng Zidu, enlarged burial display, free palace access, and an attempt against Liu Shi.
 - [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says the Huo plan would kill Wei Xiang, Xu Guanghan, and other figures under cover of an empress-dowager banquet before deposing Xuan and installing Huo Yu.
 - [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Huo Yun, Huo Shan, and Fan Mingyou kill themselves after exposure, while Huo Yu, Huo Xian, Deng Guanghan, and many linked families are punished.
@@ -66,11 +74,12 @@ Punishment proportionality:
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in three podcast notes: Hanji 423's fear-to-conspiracy bridge, Hanji 424's event narrative, and Hanji 425's Sima Guang commentary. It does not prove that every Huo family member was innocent, nor does it deny that the named Huo conspirators bore responsibility for their actions. Its narrow claim is about failure of timely power exit, household discipline, preventive restraint, safe reward conversion, fear management, and proportional punishment after meritorious regency service.
+The concept is grounded in four podcast notes: Hanji 418's immediate post-Huo-Guang setup, Hanji 423's fear-to-conspiracy bridge, Hanji 424's event narrative, and Hanji 425's Sima Guang commentary. It does not prove that every Huo family member was innocent, nor does it deny that the named Huo conspirators bore responsibility for their actions. Its narrow claim is about failure of timely power exit, household discipline, preventive restraint, safe reward conversion, fear management, and proportional punishment after meritorious regency service.
 
 ## What Changed
 
-- Added Hanji 423's bridge layer: Huo Xian's poisoning confession turns status loss into survival panic, while Zhang Chang proposes honor-preserving removal before fear becomes revolt.
+- Added Hanji 418's earlier structural setup: Xuan honors Huo Guang while Wei Xiang identifies military, palace, kinship, and information-channel concentration as a continuing Huo risk.
+- Kept Hanji 423's bridge layer: Huo Xian's poisoning confession turns status loss into survival panic, while Zhang Chang proposes honor-preserving removal before fear becomes revolt.
 - Preserved Hanji 424's concrete misconduct, conspiracy, purge, Huo Chengjun deposition, Xu Fu warning, and "曲突徙薪" prevention layer.
 - Preserved Hanji 425's split-responsibility and proportionality judgment as the concept's interpretive frame.
 

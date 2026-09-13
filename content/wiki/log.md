@@ -18542,6 +18542,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》418｜霍光死后，为何霍家注定被灭族？
+
+Added source note and updated Huo Guang, Wei Xiang, and Huo Family Purge After Huo Guang. Key claims: Xuan's extraordinary honors for Huo Guang coexist with the first structural rollback of Huo-family power; Wei Xiang frames Huo risk through military posts, palace access, kin networks, and blocked memorial channels; and the unresolved Empress Xu poisoning becomes an early latent danger before Hanji 423-425's conspiracy and purge sequence.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？
 
 Added source note plus Huo family purge, Huo Guang, Huo Xian, Emperor Xuan, and Zhang Chang updates. Key claims: Huo Xian's admission of Empress Xu's poisoning shifts Huo-family fear from political demotion to extinction; Xuan's early leniency reflects gratitude toward Huo Guang but does not reassure the family; and Zhang Chang's secret memorial proposes honor-preserving withdrawal from command as a safer alternative to panic-driven revolt.
@@ -19025,6 +19029,10 @@ Added source note plus Lu Wenshu and Shangde Huanxing Penal Reform, and extended
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么
 
 Added source note and updated Xuan-era synthesis. Key claims: Han Xuan's early consolidation used disaster inquiry, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair to loosen Huo-family control before the later open purge.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

@@ -6,16 +6,17 @@ tags: [person, western-han, chancellor, remonstrance, frontier]
 sources:
   - zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav
   - zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp
+  - zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-魏相 / Wei Xiang enters the wiki through [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] as the Western Han chancellor who blocks an opportunistic expansion of the Cheshi rescue crisis into a large attack on [[Xiongnu|匈奴]]. His contribution is not simple pacifism: he asks [[EmperorXuanOfHan|汉宣帝]] to classify the purpose of war and then argues that a prestige-driven strike would become the kind of 骄兵 that leads to defeat. [[zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp|Hanji 420]] now adds an earlier court-access layer: Xuan uses Wei Xiang as a trusted geishizhong counterweight to the Huo household and accepts his proposal to remove the duplicate memorial-copy channel.
+魏相 / Wei Xiang enters the wiki through [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] as the Western Han chancellor who blocks an opportunistic expansion of the Cheshi rescue crisis into a large attack on [[Xiongnu|匈奴]]. His contribution is not simple pacifism: he asks [[EmperorXuanOfHan|汉宣帝]] to classify the purpose of war and then argues that a prestige-driven strike would become the kind of 骄兵 that leads to defeat. In the anti-Huo court-access layer, Xuan uses Wei Xiang as a trusted geishizhong counterweight to the Huo household and accepts his proposal to remove the duplicate memorial-copy channel. The same role begins immediately after [[HuoGuangWesternHan|霍光]]'s death: Wei Xiang first urges replacement senior command and then warns that Huo military, palace, family, and memorial-control positions still threaten royal control.
 
 ## Current Profile
 
-The sources present Wei Xiang as a historically literate, administratively attentive, and information-sensitive official. Hanji 420 shows the court-access version first. Xuan appoints him as geishizhong so that a trusted outer-court official can reach the emperor directly and check [[HuoXianWesternHan|霍显]]'s household. Wei Xiang then proposes removing duplicate sealed memorial copies, limiting Huo Shan's ability as a shangshu-controller to see accusations early and decide what reaches Xuan.
+The sources present Wei Xiang as a historically literate, administratively attentive, and information-sensitive official. Hanji 418 shows the court-access version first. After Huo Guang dies, Wei Xiang advises Xuan not to leave the senior command field vacant, then uses secret memorials through 许广汉 to argue that overmighty hereditary office and Huo-family control over military posts, palace gates, and memorial access will endanger royal foundations. Hanji 420 continues the same pattern: Xuan appoints him as geishizhong so that a trusted outer-court official can reach the emperor directly and check [[HuoXianWesternHan|霍显]]'s household. Wei Xiang then proposes removing duplicate sealed memorial copies, limiting Huo Shan's ability as a shangshu-controller to see accusations early and decide what reaches Xuan.
 
 In the Cheshi crisis, Zheng Ji's rescue request creates a tempting military opening because Xiongnu is already occupied around [[CheshiKingdomWesternHan|车师国]]. Wei Xiang responds by sorting warfare into 义兵, 应兵, 忿兵, 贪兵, and 骄兵. He accepts rescue and response as legitimate categories, but rejects anger, greed, and force-display as strategically and morally dangerous.
 
@@ -26,7 +27,7 @@ The profile also includes his governing method. Wei Xiang reads earlier historie
 ## Key Characteristics
 
 - Western Han chancellor whose remonstrance gives the episode its "骄兵必败" origin.
-- Trusted inner-access counterweight and memorial-channel reformer whose "去副封以防壅蔽" proposal turns anti-Huo politics into procedural repair.
+- Trusted inner-access counterweight and memorial-channel reformer who treats hereditary high office, military command, palace access, and blocked memorials as one Huo-family threat field.
 - War-purpose classifier who distinguishes righteous rescue, defensive response, anger, greed, and proud force-display.
 - Frontier-policy restrainer who prevents the Cheshi rescue from becoming a broader Xiongnu western strike.
 - State-capacity realist who weighs border poverty, internal disorder, disasters, and official failure before approving war.
@@ -36,6 +37,9 @@ The profile also includes his governing method. Wei Xiang reads earlier historie
 ## Evidence
 
 Court access and memorial-channel repair:
+- [[zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu|Hanji 418]] says Wei Xiang urges Xuan to fill the senior command vacancy after Huo Guang's death, leading to Zhang Anshi's appointment.
+- [[zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu|Hanji 418]] says Wei Xiang warns through Xu Guanghan that Huo sons, nephews, sons-in-law, Huo Xian, and Huo daughters still hold offices and palace access that may become uncontrollable.
+- [[zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu|Hanji 418]] says Wei Xiang recommends removing duplicate memorial copies so accusations can reach Xuan without being blocked.
 - [[zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp|Hanji 420]] says Xuan appoints Wei Xiang as geishizhong so he can see the emperor directly while acting as a counterweight to the Huo family.
 - [[zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp|Hanji 420]] says Wei Xiang proposes "去副封以防壅蔽," removing duplicate sealed memorial copies that let Huo Shan see and potentially block accusations.
 - [[zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp|Hanji 420]] treats that proposal as part of Xuan's wider exclusion of the Huo family from the power center.
@@ -53,11 +57,11 @@ State-capacity and information practice:
 
 ## Qualifications
 
-The page is source-scoped to Hanji 420 and Hanji 429. It does not reconstruct Wei Xiang's full biography, legal career, complete chancellorship, the original full text of either memorial, or the complete shangshu and sealed-copy procedure. Hanji 429 preserves the idiom-origin claim through the Han Shu / Wei Xiang passage but does not settle later uses of "骄兵必败."
+The page is source-scoped to Hanji 418, Hanji 420, and Hanji 429. It does not reconstruct Wei Xiang's full biography, legal career, complete chancellorship, the original full text of either memorial, or the complete shangshu and sealed-copy procedure. Hanji 429 preserves the idiom-origin claim through the Han Shu / Wei Xiang passage but does not settle later uses of "骄兵必败."
 
 ## What Changed
 
-- Added Hanji 420's earlier geishizhong and duplicate-memorial-copy reform layer to the existing Hanji 429 Cheshi-Xiongnu remonstrance profile.
+- Added Hanji 418's immediate post-Huo-Guang warning layer to the existing Hanji 420 memorial-channel reform and Hanji 429 Cheshi-Xiongnu remonstrance profile.
 
 ## Relationships
 
