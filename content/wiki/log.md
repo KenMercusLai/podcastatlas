@@ -18518,6 +18518,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | EP 38: The Local AI Stack Nobody Talks About (But Should)
+
+Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, Langflow, Goose, AnythingLLM, NVIDIA DGX Spark, AMD, ROCm, Apple Metal, NeMoClaw, Local AI Hardware Selection, and Local AI Framework Stack. Key claims: local AI is justified by privacy, governance, cost, and control only when hardware memory, framework compatibility, and agent-isolation constraints are handled explicitly.
+
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -18823,6 +18827,10 @@ Ran lint. See lint-report.md for details.
 
 - Added source note for the Hanji 440 backfill episode.
 - Updated Zhao Chongguo and Qiang official-abuse synthesis pages for Zhao's post-campaign truth-telling, Xin-family retaliation, Xin Tang's misconduct, and Zhao Ang's prison death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

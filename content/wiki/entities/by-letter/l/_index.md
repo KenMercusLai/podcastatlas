@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9929
+wiki_total_pages: 9941
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -74,6 +74,9 @@ wiki_pages:
   - key: "LaneGreen"
     title: "Lane Green"
     url: "/wiki/entities/lanegreen/"
+  - key: "Langflow"
+    title: "Langflow"
+    url: "/wiki/entities/langflow/"
   - key: "Languedoc"
     title: "Languedoc / 朗格多克"
     url: "/wiki/entities/languedoc/"
@@ -527,6 +530,9 @@ wiki_pages:
   - key: "LMArena"
     title: "LM Arena"
     url: "/wiki/entities/lmarena/"
+  - key: "LMStudio"
+    title: "LM Studio"
+    url: "/wiki/entities/lmstudio/"
   - key: "LMSYS"
     title: "LM-SYS"
     url: "/wiki/entities/lmsys/"
@@ -548,6 +554,9 @@ wiki_pages:
   - key: "LoganSuddeth"
     title: "Logan Suddeth"
     url: "/wiki/entities/logansuddeth/"
+  - key: "LogicDataSolutions"
+    title: "Logic Data Solutions"
+    url: "/wiki/entities/logicdatasolutions/"
   - key: "LoisWeber"
     title: "Lois Weber / 洛伊斯·韦伯"
     url: "/wiki/entities/loisweber/"

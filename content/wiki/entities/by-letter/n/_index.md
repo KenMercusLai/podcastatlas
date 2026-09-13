@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "n"
-wiki_total_pages: 9929
+wiki_total_pages: 9941
 wiki_pages:
   - key: "Number10DowningStreet"
     title: "10 Downing Street"
@@ -233,6 +233,9 @@ wiki_pages:
   - key: "NeMoCloud"
     title: "NeMo Cloud"
     url: "/wiki/entities/nemocloud/"
+  - key: "NeMoClaw"
+    title: "NeMoClaw"
+    url: "/wiki/entities/nemoclaw/"
   - key: "NeoCognition"
     title: "Neo Cognition"
     url: "/wiki/entities/neocognition/"
@@ -608,6 +611,9 @@ wiki_pages:
   - key: "NvidiaBlackwellPlatform"
     title: "Nvidia Blackwell Platform"
     url: "/wiki/entities/nvidiablackwellplatform/"
+  - key: "NvidiaDGXSpark"
+    title: "NVIDIA DGX Spark"
+    url: "/wiki/entities/nvidiadgxspark/"
   - key: "NvidiaGB200NVL72"
     title: "Nvidia GB200 NVL72"
     url: "/wiki/entities/nvidiagb200nvl72/"

@@ -5368,6 +5368,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "AMD": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AMILabs": [
     {
       "key": "technology",
@@ -8525,6 +8532,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "AnythingLLM": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "AnywayFM": [
     {
       "key": "culture",
@@ -8663,6 +8677,13 @@
     }
   ],
   "AppleIntelligence": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "AppleMetal": [
     {
       "key": "technology",
       "label": "Technology",
@@ -29830,6 +29851,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "GooseAgentTool": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "GordieHoweBridge": [
     {
       "key": "technology",
@@ -39236,6 +39264,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "LMStudio": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LPDDR6": [
     {
       "key": "technology",
@@ -39384,6 +39419,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "Langflow": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LanguageDependentAIBias": [
@@ -41429,6 +41471,20 @@
       "url": "/topics/economics/"
     }
   ],
+  "LocalAIFrameworkStack": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
+  "LocalAIHardwareSelection": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "LocalAIPrivacyTradeoff": [
     {
       "key": "technology",
@@ -41535,6 +41591,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "LogicDataSolutions": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "LogisticsWorkflowAutomation": [
@@ -47152,6 +47215,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "NeMoClaw": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "NeMoCloud": [
     {
       "key": "technology",
@@ -48370,6 +48440,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "NvidiaDGXSpark": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "NvidiaGB200NVL72": [
     {
       "key": "technology",
@@ -48827,6 +48904,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "Ollama": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "Oman": [
@@ -55489,6 +55573,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ROCm": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "RP1Robot": [
@@ -68651,6 +68742,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "TrentRossiter": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "TrevorBlackwell": [
     {
       "key": "technology",
@@ -79107,6 +79205,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "ep-38-the-local-ai-stack-nobody-talks-about-but-should": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
     }
   ],
   "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers": [

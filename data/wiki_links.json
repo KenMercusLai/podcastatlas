@@ -2903,6 +2903,10 @@
     "title": "AMC Theatres",
     "url": "/wiki/entities/amctheatres/"
   },
+  "AMD": {
+    "title": "AMD",
+    "url": "/wiki/entities/amd/"
+  },
   "AMILabs": {
     "title": "AMI Labs",
     "url": "/wiki/entities/amilabs/"
@@ -5683,6 +5687,10 @@
     "title": "安邑 / Anyi",
     "url": "/wiki/entities/anyi/"
   },
+  "AnythingLLM": {
+    "title": "AnythingLLM",
+    "url": "/wiki/entities/anythingllm/"
+  },
   "AnyueLemonProductionArea": {
     "title": "Anyue Lemon Production Area / 安岳柠檬产区",
     "url": "/wiki/entities/anyuelemonproductionarea/"
@@ -5810,6 +5818,10 @@
   "AppleIntelligence": {
     "title": "Apple Intelligence",
     "url": "/wiki/entities/appleintelligence/"
+  },
+  "AppleMetal": {
+    "title": "Apple Metal",
+    "url": "/wiki/entities/applemetal/"
   },
   "AppleMusic": {
     "title": "Apple Music",
@@ -25279,6 +25291,10 @@
     "title": "Google X",
     "url": "/wiki/entities/googlex/"
   },
+  "GooseAgentTool": {
+    "title": "Goose",
+    "url": "/wiki/entities/gooseagenttool/"
+  },
   "GordieHoweBridge": {
     "title": "Gordie Howe Bridge",
     "url": "/wiki/entities/gordiehowebridge/"
@@ -34155,6 +34171,10 @@
     "title": "LM-SYS",
     "url": "/wiki/entities/lmsys/"
   },
+  "LMStudio": {
+    "title": "LM Studio",
+    "url": "/wiki/entities/lmstudio/"
+  },
   "LOFTER": {
     "title": "LOFTER",
     "url": "/wiki/entities/lofter/"
@@ -34362,6 +34382,10 @@
   "LangYiLateHan": {
     "title": "郎顗 / Lang Yi (late Han)",
     "url": "/wiki/entities/langyilatehan/"
+  },
+  "Langflow": {
+    "title": "Langflow",
+    "url": "/wiki/entities/langflow/"
   },
   "LanguageAgent": {
     "title": "Language Agent",
@@ -36835,6 +36859,14 @@
     "title": "Loblaw",
     "url": "/wiki/entities/loblaw/"
   },
+  "LocalAIFrameworkStack": {
+    "title": "Local AI Framework Stack",
+    "url": "/wiki/concepts/localaiframeworkstack/"
+  },
+  "LocalAIHardwareSelection": {
+    "title": "Local AI Hardware Selection",
+    "url": "/wiki/concepts/localaihardwareselection/"
+  },
   "LocalAIPrivacyTradeoff": {
     "title": "Local AI Privacy Tradeoff / 本地 AI 隐私取舍",
     "url": "/wiki/concepts/localaiprivacytradeoff/"
@@ -36990,6 +37022,10 @@
   "LoganSuddeth": {
     "title": "Logan Suddeth",
     "url": "/wiki/entities/logansuddeth/"
+  },
+  "LogicDataSolutions": {
+    "title": "Logic Data Solutions",
+    "url": "/wiki/entities/logicdatasolutions/"
   },
   "LogisticsCrisisResponse": {
     "title": "Logistics Crisis Response",
@@ -42375,6 +42411,10 @@
     "title": "Ndongo",
     "url": "/wiki/entities/ndongo/"
   },
+  "NeMoClaw": {
+    "title": "NeMoClaw",
+    "url": "/wiki/entities/nemoclaw/"
+  },
   "NeMoCloud": {
     "title": "NeMo Cloud",
     "url": "/wiki/entities/nemocloud/"
@@ -43427,6 +43467,10 @@
     "title": "Nvidia Blackwell Platform",
     "url": "/wiki/entities/nvidiablackwellplatform/"
   },
+  "NvidiaDGXSpark": {
+    "title": "NVIDIA DGX Spark",
+    "url": "/wiki/entities/nvidiadgxspark/"
+  },
   "NvidiaGB200NVL72": {
     "title": "Nvidia GB200 NVL72",
     "url": "/wiki/entities/nvidiagb200nvl72/"
@@ -43910,6 +43954,10 @@
   "OlivineCarbonRemoval": {
     "title": "Olivine Carbon Removal",
     "url": "/wiki/concepts/olivinecarbonremoval/"
+  },
+  "Ollama": {
+    "title": "Ollama",
+    "url": "/wiki/entities/ollama/"
   },
   "Oman": {
     "title": "Oman",
@@ -49594,6 +49642,10 @@
   "RNAInterferenceGeneSilencing": {
     "title": "RNA Interference Gene Silencing",
     "url": "/wiki/concepts/rnainterferencegenesilencing/"
+  },
+  "ROCm": {
+    "title": "ROCm",
+    "url": "/wiki/entities/rocm/"
   },
   "RP1Robot": {
     "title": "RP1 Robot",
@@ -60819,6 +60871,10 @@
     "title": "Trend Following",
     "url": "/wiki/concepts/trendfollowing/"
   },
+  "TrentRossiter": {
+    "title": "Trent Rossiter",
+    "url": "/wiki/entities/trentrossiter/"
+  },
   "TressLondon": {
     "title": "Tress London",
     "url": "/wiki/entities/tresslondon/"
@@ -71226,6 +71282,10 @@
   "ep-3-demystifying-the-imposter-syndrome": {
     "title": "EP 3: Demystifying the Imposter Syndrome",
     "url": "/wiki/sources/ep-3-demystifying-the-imposter-syndrome/"
+  },
+  "ep-38-the-local-ai-stack-nobody-talks-about-but-should": {
+    "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+    "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
   },
   "ep-39-why-the-future-of-ai-belongs-to-divergent-thinkers": {
     "title": "EP 39: Why the Future of AI Belongs to Divergent Thinkers",

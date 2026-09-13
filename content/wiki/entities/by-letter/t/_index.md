@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9929
+wiki_total_pages: 9941
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -842,6 +842,9 @@ wiki_pages:
   - key: "TreatyOfParis1783"
     title: "Treaty of Paris (1783)"
     url: "/wiki/entities/treatyofparis1783/"
+  - key: "TrentRossiter"
+    title: "Trent Rossiter"
+    url: "/wiki/entities/trentrossiter/"
   - key: "TressLondon"
     title: "Tress London"
     url: "/wiki/entities/tresslondon/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [EP 38: The Local AI Stack Nobody Talks About (But Should)](sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should.md) — Data Science With Sam episode with Trent Rossiter on local AI privacy/governance drivers, VRAM and unified-memory hardware choice, Ollama/LM Studio/vLLM tradeoffs, and safe local-agent setup.
 - [《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！](sources/zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's cautious Qiang policy, 河湟屯田, infrastructure-led pacification, surrender results, and Zhu Yi's clean-official memory.
 - [《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？](sources/zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's post-Qiang-campaign truth-telling, Xin-family retaliation, Xin Tang's abusive Protector-of-Qiang tenure, Zhao Ang's prison death, and Zhao-family Hehuang rootedness.
 - [《资治通鉴·汉纪》441｜盖宽饶被汉宣帝逼死，背后的职场真相太讽刺!](sources/zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0.md) — 芮淇讲透资治通鉴 episode on Gai Kuanrao's fatal remonstrance, Zheng Chang's failed defense, classical-allusion recoding, and the preface to why rulers use "lesser people."
@@ -2356,6 +2357,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Trent Rossiter](entities/TrentRossiter.md) — Local-AI practitioner and Logic Data Solutions consultant explaining memory-first hardware, framework choice, and agent isolation in Data Science With Sam EP38.
+- [Logic Data Solutions](entities/LogicDataSolutions.md) — Consulting-company context for Trent Rossiter's local-AI and data-platform practice.
+- [Ollama](entities/Ollama.md) — Convenience-first local model runner positioned in EP38 as an easy entry into local AI.
+- [LM Studio](entities/LMStudio.md) — Local AI application positioned in EP38 between Ollama convenience and vLLM serving performance.
+- [Langflow](entities/Langflow.md) — Agent/workflow tool discussed in EP38 for connecting local AI workflows to MCP servers.
+- [Goose](entities/GooseAgentTool.md) — Chat-like agent interface discussed in EP38 for attaching MCP tools to local AI workflows.
+- [AnythingLLM](entities/AnythingLLM.md) — Local knowledge-base tool discussed in EP38 for document-grounded Q&A and internal support workflows.
+- [NVIDIA DGX Spark](entities/NvidiaDGXSpark.md) — Local AI hardware case in EP38, chosen for 128 GB unified memory and CUDA ecosystem fit.
+- [AMD](entities/AMD.md) — Hardware vendor in EP38's local AI comparison, tied to integrated mini AI PCs and ROCm.
+- [ROCm](entities/ROCm.md) — AMD-associated accelerator framework contrasted with CUDA and Apple Metal in EP38.
+- [Apple Metal](entities/AppleMetal.md) — Apple accelerator framework contrasted with CUDA and ROCm in EP38's local AI stack discussion.
+- [NeMoClaw](entities/NeMoClaw.md) — Security-first local-agent variation in EP38, framed around deny-by-default permissions.
 - [盖宽饶 / Gai Kuanrao (Western Han)](entities/GaiKuanraoWesternHan.md) — Western Han sili xiaowei whose critical memorial is recoded as abdication talk, making him a direct Emperor Xuan execution-overreach case.
 - [郑昌 / Zheng Chang (Western Han remonstrator)](entities/ZhengChangRemonstratorWesternHan.md) — Western Han remonstrance official who defends Gai Kuanrao as loyal but cannot stop the punishment process.
 - [司隶校尉 / Sili Xiaowei (Western Han)](entities/SiliXiaoweiWesternHan.md) — Western Han capital-area supervisory office that explains Gai Kuanrao's oversight power and enemy exposure.
@@ -12289,6 +12302,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [Local AI Hardware Selection](concepts/LocalAIHardwareSelection.md) — Memory-first decision frame for local AI hardware covering VRAM/unified memory, throughput, accelerator stacks, and practical ownership constraints.
+- [Local AI Framework Stack](concepts/LocalAIFrameworkStack.md) — Layered local AI tool stack spanning model runners, serving engines, knowledge bases, workflow builders, and agent interfaces.
 - [经典典故政治改写 / Classical Allusion Political Recoding](concepts/ClassicalAllusionPoliticalRecoding.md) — Court-politics pattern where a classical or moral reference is reinterpreted as a direct threat to the ruler.
 - [脏活委托式君术 / Dirty-Work Delegation Statecraft](concepts/DirtyWorkDelegationStatecraft.md) — Court and workplace power pattern where rulers use disposable agents for coercive, gray-zone, flattering, or blame-bearing tasks they cannot openly own.
 - [AI Coding Vertical Integration](concepts/AICodingVerticalIntegration.md) — Strategy of combining AI coding interface, enterprise workflow, training data, model capability, and compute supply.

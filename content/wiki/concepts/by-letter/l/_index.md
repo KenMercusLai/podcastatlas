@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7268
+wiki_total_pages: 7270
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -464,6 +464,12 @@ wiki_pages:
   - key: "LocalAgentExecution"
     title: "Local Agent Execution"
     url: "/wiki/concepts/localagentexecution/"
+  - key: "LocalAIFrameworkStack"
+    title: "Local AI Framework Stack"
+    url: "/wiki/concepts/localaiframeworkstack/"
+  - key: "LocalAIHardwareSelection"
+    title: "Local AI Hardware Selection"
+    url: "/wiki/concepts/localaihardwareselection/"
   - key: "LocalAIPrivacyTradeoff"
     title: "Local AI Privacy Tradeoff / 本地 AI 隐私取舍"
     url: "/wiki/concepts/localaiprivacytradeoff/"

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 9929
+wiki_total_pages: 9941
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -542,6 +542,9 @@ wiki_pages:
   - key: "GoogleX"
     title: "Google X"
     url: "/wiki/entities/googlex/"
+  - key: "GooseAgentTool"
+    title: "Goose"
+    url: "/wiki/entities/gooseagenttool/"
   - key: "GoPro"
     title: "GoPro"
     url: "/wiki/entities/gopro/"

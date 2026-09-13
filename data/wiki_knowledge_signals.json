@@ -3341,6 +3341,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/aiwealthhousingscarcity/"
     },
+    "AMD": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/amd/"
+    },
     "AShareAuctionPricing": {
       "episode_count": 1,
       "show_count": 1,
@@ -6710,6 +6726,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/anybotics/"
     },
+    "AnythingLLM": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/anythingllm/"
+    },
     "AnywayFM": {
       "episode_count": 2,
       "show_count": 1,
@@ -6890,6 +6922,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/appareloemverticalintegration/"
+    },
+    "AppleMetal": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/applemetal/"
     },
     "AppleMusic": {
       "episode_count": 1,
@@ -39994,6 +40042,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/concepts/googledeepmindorganizationalfriction/"
     },
+    "GooseAgentTool": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/gooseagenttool/"
+    },
     "GottmanInstitute": {
       "episode_count": 1,
       "show_count": 1,
@@ -54216,6 +54280,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/entities/livo/"
     },
+    "LMStudio": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/lmstudio/"
+    },
     "LOreal": {
       "episode_count": 4,
       "show_count": 3,
@@ -54530,6 +54610,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/langyilatehan/"
+    },
+    "Langflow": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/langflow/"
     },
     "LanguageCompressionLabeling": {
       "episode_count": 1,
@@ -60094,6 +60190,38 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/lizwalters/"
     },
+    "LocalAIFrameworkStack": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/localaiframeworkstack/"
+    },
+    "LocalAIHardwareSelection": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/localaihardwareselection/"
+    },
     "LocalAIPrivacyTradeoff": {
       "episode_count": 1,
       "show_count": 1,
@@ -60337,6 +60465,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/lockedinsyndromeassistivecommunication/"
+    },
+    "LogicDataSolutions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/logicdatasolutions/"
     },
     "London": {
       "episode_count": 1,
@@ -68131,6 +68275,22 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/ndongo/"
     },
+    "NeMoClaw": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/nemoclaw/"
+    },
     "NelsonMandela": {
       "episode_count": 2,
       "show_count": 2,
@@ -69762,6 +69922,22 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/nutritiontriagethreshold/"
     },
+    "NvidiaDGXSpark": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/nvidiadgxspark/"
+    },
     "NvwaZhiSi": {
       "episode_count": 1,
       "show_count": 1,
@@ -70542,6 +70718,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/oliveyoung/"
+    },
+    "Ollama": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/ollama/"
     },
     "OmenCodedRemonstrance": {
       "episode_count": 9,
@@ -79106,6 +79298,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/rnainterferencegenesilencing/"
+    },
+    "ROCm": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/rocm/"
     },
     "RP1Robot": {
       "episode_count": 1,
@@ -96079,6 +96287,22 @@
       ],
       "updated": "2026-09-09",
       "url": "/wiki/concepts/trenchsanitationdiseaseburden/"
+    },
+    "TrentRossiter": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128 [2D2131DF245249E5B24C5EA276B377F8~8584406_2026-08-10-213906-8787-0-0-10.128.mp3？cdn_id=99&uuid=8b3a9fb2-da9e-4bbe-c0a9-e60f7882261d&wuuid=6a83a487].md",
+          "key": "ep-38-the-local-ai-stack-nobody-talks-about-but-should",
+          "show": "Data Science With Sam",
+          "title": "EP 38: The Local AI Stack Nobody Talks About (But Should)",
+          "url": "/wiki/sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/trentrossiter/"
     },
     "TrialSizeProduct": {
       "episode_count": 4,

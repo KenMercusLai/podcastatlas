@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9929
+wiki_total_pages: 9941
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -737,6 +737,9 @@ wiki_pages:
   - key: "AMCTheatres"
     title: "AMC Theatres"
     url: "/wiki/entities/amctheatres/"
+  - key: "AMD"
+    title: "AMD"
+    url: "/wiki/entities/amd/"
   - key: "AmerBisat"
     title: "Amer Bisat"
     url: "/wiki/entities/amerbisat/"
@@ -1079,6 +1082,9 @@ wiki_pages:
   - key: "Anybots"
     title: "Anybots"
     url: "/wiki/entities/anybots/"
+  - key: "AnythingLLM"
+    title: "AnythingLLM"
+    url: "/wiki/entities/anythingllm/"
   - key: "AnyueLemonProductionArea"
     title: "Anyue Lemon Production Area / 安岳柠檬产区"
     url: "/wiki/entities/anyuelemonproductionarea/"
@@ -1112,6 +1118,9 @@ wiki_pages:
   - key: "AppleIntelligence"
     title: "Apple Intelligence"
     url: "/wiki/entities/appleintelligence/"
+  - key: "AppleMetal"
+    title: "Apple Metal"
+    url: "/wiki/entities/applemetal/"
   - key: "AppleMusic"
     title: "Apple Music"
     url: "/wiki/entities/applemusic/"
