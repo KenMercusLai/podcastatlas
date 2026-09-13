@@ -19313,3 +19313,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-14] ingest | 《资治通鉴·汉纪》399｜汉武帝托孤大臣生死内斗！目标：干掉霍光！
+
+- Source: `wiki/sources/zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5.md`
+- Updated Han Zhao/Huo Guang anti-slander and anti-Huo coalition pages.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

@@ -5,12 +5,13 @@ knowledge_schema: synthesis-v1
 tags: [western-han, court-politics, rebellion, outer-relatives]
 sources:
   - zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc
+  - zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5
 last_updated: 2026-09-14
 ---
 
 ## Overview
 
-上官安 / Shangguan An enters the wiki through [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] as the younger, more openly predatory actor inside the anti-[[HuoGuangWesternHan|霍光]] conspiracy.
+上官安 / Shangguan An enters the wiki through [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] as the younger, more openly predatory actor inside the anti-[[HuoGuangWesternHan|霍光]] conspiracy. [[zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5|Hanji 399]] adds the grievance prelude: Huo refuses repeated requests to reward Ding Wairen and blocks Shangguan family office-seeking, helping push Shangguan An into the anti-Huo alignment.
 
 ## Current Profile
 
@@ -21,6 +22,7 @@ His most revealing moment is the question of what would happen to the young empr
 ## Key Characteristics
 
 - Young Shangguan-family conspirator in the Han Zhao regency crisis.
+- Office-seeking outer-relative actor whose resentment grows after Huo Guang refuses private appointments and Ding Wairen advancement.
 - Planner who treats Liu Dan as a disposable claimant rather than a trusted ally.
 - Son of Shangguan Jie and father-linked beneficiary of the second-stage coup plan.
 - Figure used by the episode to illustrate kinship sacrifice under power competition.
@@ -29,6 +31,7 @@ His most revealing moment is the question of what would happen to the young empr
 ## Evidence
 
 Coalition role:
+- [[zizhi-tongjian-hanji-399-hanwudi-tuogu-dachen-shengsi-neidou-mubiao-gandiao-huoguang-lgiwuhupmd0dox-oaoxjfj-smlw5|Hanji 399]] says Shangguan An becomes emperor's father-in-law after the Shangguan granddaughter becomes empress, but Huo Guang still refuses office and title requests advanced through Gai Chang Gongzhu.
 - [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] includes Shangguan An among the actors planning to kill Huo Guang and depose Han Zhao.
 
 Internal betrayal:
@@ -39,11 +42,11 @@ Kinship sacrifice:
 
 ## Qualifications
 
-This page is bounded to Hanji 400-1. It does not reconstruct Shangguan An's complete official career, marriage politics, daughter-empress chronology, or all prior anti-Huo activity.
+This page is bounded to Hanji 399 and Hanji 400-1. It does not reconstruct Shangguan An's complete official career, marriage politics, daughter-empress chronology, or all prior anti-Huo activity.
 
 ## What Changed
 
-- Created from Hanji 400-1 as the intra-coalition betrayal actor in the anti-Huo conspiracy.
+- Added Hanji 399's office-seeking and Ding Wairen grievance background before Hanji 400-1's intra-coalition betrayal profile.
 
 ## Relationships
 
