@@ -23667,6 +23667,10 @@
     "title": "Fujian / 福建",
     "url": "/wiki/entities/fujian/"
   },
+  "FukushimaDaiichiNuclearPowerPlant": {
+    "title": "Fukushima Daiichi Nuclear Power Plant",
+    "url": "/wiki/entities/fukushimadaiichinuclearpowerplant/"
+  },
   "Fuliang": {
     "title": "Fuliang / 浮梁",
     "url": "/wiki/entities/fuliang/"
@@ -27986,6 +27990,10 @@
   "HippiasAthenianTyrant": {
     "title": "Hippias / Athenian Tyrant",
     "url": "/wiki/entities/hippiasatheniantyrant/"
+  },
+  "HiroshimaAtomicBombing": {
+    "title": "Hiroshima Atomic Bombing",
+    "url": "/wiki/entities/hiroshimaatomicbombing/"
   },
   "Hisense": {
     "title": "海信 / Hisense",
@@ -42443,6 +42451,10 @@
     "title": "Naftali Bennett",
     "url": "/wiki/entities/naftalibennett/"
   },
+  "NagasakiAtomicBombing": {
+    "title": "Nagasaki Atomic Bombing",
+    "url": "/wiki/entities/nagasakiatomicbombing/"
+  },
   "NagaseTomiro": {
     "title": "Nagase Tomiro / 长濑富郎",
     "url": "/wiki/entities/nagasetomiro/"
@@ -43850,6 +43862,14 @@
   "NovusHomoOutsiderPolitics": {
     "title": "Novus Homo Outsider Politics / 新人局外人政治",
     "url": "/wiki/concepts/novushomooutsiderpolitics/"
+  },
+  "NuclearDisasterMemory": {
+    "title": "Nuclear Disaster Memory",
+    "url": "/wiki/concepts/nucleardisastermemory/"
+  },
+  "NuclearRiskExternalization": {
+    "title": "Nuclear Risk Externalization",
+    "url": "/wiki/concepts/nuclearriskexternalization/"
   },
   "NuclearSafetyPropaganda": {
     "title": "Nuclear Safety Propaganda",
@@ -75934,6 +75954,10 @@
   "zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z": {
     "title": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事",
     "url": "/wiki/sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z/"
+  },
+  "zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a": {
+    "title": "《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a/"
   },
   "zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep": {
     "title": "《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？",

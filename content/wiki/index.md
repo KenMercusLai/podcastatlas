@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？](sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a.md) — 芮淇讲透资治通鉴 episode linking Fukushima discharge, Hiroshima, Nagasaki, and Chernobyl into a nuclear-risk memory and externalization argument.
 - [《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事](sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z.md) — 芮淇讲透资治通鉴 episode on Jun Buyi's mother shaping his judicial ethic, Jin Midi's cautious sickbed enfeoffment, and family education as public character formation.
 - [《资治通鉴·汉纪》395-3｜东南亚霸主，缅甸是如何衰落的？](sources/zizhi-tongjian-hanji-395-3-dongnanya-bazhu-miandian-shi-ruhe-shuailuo-de-lizilinr6epqdeglne27rrb7eipf.md) — 芮淇讲透资治通鉴 episode using northern-Myanmar fear as a hook for Burma's First Anglo-Burmese War miscalculation, Treaty of Yandabo shock, and decline from regional military power.
 - [《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？](sources/zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep.md) — 芮淇讲透资治通鉴 episode on 85 BCE Han relief, post-Han-Wudi Xiongnu poverty, broken succession promises, forged commands, scapegoating, and early Xiongnu internal fracture.
@@ -2435,6 +2436,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Fukushima Daiichi Nuclear Power Plant](entities/FukushimaDaiichiNuclearPowerPlant.md) — Japan nuclear-accident and wastewater-discharge case used by Hanji 394-3 to frame nuclear risk externalization.
+- [Hiroshima Atomic Bombing](entities/HiroshimaAtomicBombing.md) — Nuclear-weapons memory case used by Hanji 394-3 to illustrate sudden nuclear destruction.
+- [Nagasaki Atomic Bombing](entities/NagasakiAtomicBombing.md) — Second atomic-bombing memory case in Hanji 394-3's nuclear-disaster sequence.
 - [金日磾 / Jin Midi (Western Han)](entities/JinMidiWesternHan.md) — Xiongnu-born Western Han minister whose cautious marquisate handling, funeral honors, and family discipline are backfilled by Hanji 394-1.
 - [程方遂 / Cheng Fangsui (Western Han)](entities/ChengFangsuiWesternHan.md) — diviner who impersonates Liu Ju at Weiyang Palace and is executed after confession.
 - [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
@@ -12475,6 +12479,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Nuclear Disaster Memory](concepts/NuclearDisasterMemory.md) — Frame connecting Hiroshima, Nagasaki, Fukushima, and Chernobyl as remembered nuclear harms with different temporal profiles.
+- [Nuclear Risk Externalization](concepts/NuclearRiskExternalization.md) — Pattern where nuclear accident aftermath is framed as shifted onto wider publics, ecosystems, or future generations.
 - [Colonial Power Miscalculation / 殖民强权误判](concepts/ColonialPowerMiscalculation.md) — Strategic-error pattern where inherited regional-power confidence misreads an industrial-colonial opponent's capacity and escalation threshold.
 - [Northern Myanmar Scam Compound Risk / 缅北诈骗园区风险](concepts/NorthernMyanmarScamCompoundRisk.md) — Myanmar-specific scam-compound risk where social engineering, captivity, violence, trafficking claims, and borderland weak governance overlap.
 - [High-Salary Exit Scam Trap / 高薪出境骗局](concepts/HighSalaryExitScamTrap.md) — Recruitment pattern where high pay or acquaintances lure victims across borders before coercion becomes visible.

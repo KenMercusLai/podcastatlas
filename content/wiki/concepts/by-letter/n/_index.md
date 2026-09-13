@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "n"
-wiki_total_pages: 7374
+wiki_total_pages: 7376
 wiki_pages:
   - key: "NamingPowerSocialChange"
     title: "Naming Power In Social Change / 社会变革中的命名权"
@@ -401,6 +401,12 @@ wiki_pages:
   - key: "NovusHomoOutsiderPolitics"
     title: "Novus Homo Outsider Politics / 新人局外人政治"
     url: "/wiki/concepts/novushomooutsiderpolitics/"
+  - key: "NuclearDisasterMemory"
+    title: "Nuclear Disaster Memory"
+    url: "/wiki/concepts/nucleardisastermemory/"
+  - key: "NuclearRiskExternalization"
+    title: "Nuclear Risk Externalization"
+    url: "/wiki/concepts/nuclearriskexternalization/"
   - key: "NuclearSafetyPropaganda"
     title: "Nuclear Safety Propaganda"
     url: "/wiki/concepts/nuclearsafetypropaganda/"

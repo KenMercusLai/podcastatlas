@@ -19238,6 +19238,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？
+
+Added source `zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a`; created `FukushimaDaiichiNuclearPowerPlant`, `HiroshimaAtomicBombing`, `NagasakiAtomicBombing`, `NuclearRiskExternalization`, and `NuclearDisasterMemory`; migrated and updated `ChernobylNuclearPowerPlant`, `TechnologicalDisasterAsInstitutionalFailure`, `NuclearSafetyPropaganda`, and `PostDisasterTruthAndResponsibility` with the episode's Fukushima discharge, nuclear-disaster memory, and risk-transfer framing. No settled contradiction found; the episode's discharge, casualty, and long-term harm figures remain source-scoped pending additional technical sources.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事
 
 Added source `zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z`; created `JinMidiWesternHan`; updated `JunBuyiWesternHan` and `ParentalEmbodiedModeling` with Jun Buyi's mother using wrongful-case redress and saved lives as the daily standard for judicial work, plus Jin Midi's cautious sickbed enfeoffment, funeral honors, family continuity, and strict household-discipline frame. No settled contradiction found; Jun Buyi's full career, Jin Midi's complete lineage, and motive claims remain source-scoped.
@@ -19446,6 +19450,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
 
 Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

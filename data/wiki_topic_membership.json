@@ -28050,6 +28050,13 @@
       "url": "/topics/culture/"
     }
   ],
+  "FukushimaDaiichiNuclearPowerPlant": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    }
+  ],
   "Fuliang": [
     {
       "key": "history",
@@ -32518,6 +32525,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "HiroshimaAtomicBombing": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "Hisense": [
@@ -47195,6 +47209,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "NagasakiAtomicBombing": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "NamingPowerSocialChange": [
     {
       "key": "culture",
@@ -48802,6 +48823,13 @@
     }
   ],
   "NovoNordisk": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "NuclearRiskExternalization": [
     {
       "key": "politics",
       "label": "Politics",

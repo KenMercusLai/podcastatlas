@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1858
+topic_total_pages: 1860
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1763,6 +1763,9 @@ topic_entities:
   - key: "Himiko"
     title: "Himiko"
     url: "/wiki/entities/himiko/"
+  - key: "HiroshimaAtomicBombing"
+    title: "Hiroshima Atomic Bombing"
+    url: "/wiki/entities/hiroshimaatomicbombing/"
   - key: "Horse"
     title: "Horse / 马"
     url: "/wiki/entities/horse/"
@@ -1856,6 +1859,9 @@ topic_entities:
   - key: "MinoanCivilization"
     title: "Minoan Civilization"
     url: "/wiki/entities/minoancivilization/"
+  - key: "NagasakiAtomicBombing"
+    title: "Nagasaki Atomic Bombing"
+    url: "/wiki/entities/nagasakiatomicbombing/"
   - key: "NationalCityBank"
     title: "National City Bank / 国民城市银行"
     url: "/wiki/entities/nationalcitybank/"

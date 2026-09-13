@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2993
+topic_total_pages: 2994
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5150,6 +5150,9 @@ topic_entities:
   - key: "FudanUniversity"
     title: "Fudan University / 复旦大学"
     url: "/wiki/entities/fudanuniversity/"
+  - key: "FukushimaDaiichiNuclearPowerPlant"
+    title: "Fukushima Daiichi Nuclear Power Plant"
+    url: "/wiki/entities/fukushimadaiichinuclearpowerplant/"
   - key: "FusionFund"
     title: "Fusion Fund"
     url: "/wiki/entities/fusionfund/"

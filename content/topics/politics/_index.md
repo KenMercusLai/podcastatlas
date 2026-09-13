@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2511
+topic_total_pages: 2512
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2161,6 +2161,9 @@ topic_concepts:
   - key: "NorthernIrelandDirectRule"
     title: "Northern Ireland Direct Rule"
     url: "/wiki/concepts/northernirelanddirectrule/"
+  - key: "NuclearRiskExternalization"
+    title: "Nuclear Risk Externalization"
+    url: "/wiki/concepts/nuclearriskexternalization/"
   - key: "NuclearSafetyPropaganda"
     title: "Nuclear Safety Propaganda"
     url: "/wiki/concepts/nuclearsafetypropaganda/"
