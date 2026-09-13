@@ -16133,6 +16133,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "CleanOfficialPowerBoundary": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "CleanThrough": [
     {
       "key": "technology",

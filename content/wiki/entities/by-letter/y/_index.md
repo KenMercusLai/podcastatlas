@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "y"
-wiki_total_pages: 9971
+wiki_total_pages: 9973
 wiki_pages:
   - key: "YCombinator"
     title: "Y Combinator"
@@ -539,6 +539,9 @@ wiki_pages:
   - key: "YinLiLateHan"
     title: "尹礼 / Yin Li (late Han)"
     url: "/wiki/entities/yinlilatehan/"
+  - key: "YinWengguiWesternHan"
+    title: "尹翁归 / 尹翁规 / Yin Wenggui (Western Han)"
+    url: "/wiki/entities/yinwengguiwesternhan/"
   - key: "YinLaoshiZheBing"
     title: "尹老师 / Yin Laoshi (Zhe Bing speaker)"
     url: "/wiki/entities/yinlaoshizhebing/"

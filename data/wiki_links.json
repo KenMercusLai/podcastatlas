@@ -12923,6 +12923,10 @@
     "title": "清官能吏能力差 / Clean Official Capacity Gap",
     "url": "/wiki/concepts/cleanofficialcapacitygap/"
   },
+  "CleanOfficialPowerBoundary": {
+    "title": "清官权力边界 / Clean Official Power Boundary",
+    "url": "/wiki/concepts/cleanofficialpowerboundary/"
+  },
   "CleanThrough": {
     "title": "Clean Through",
     "url": "/wiki/entities/cleanthrough/"
@@ -67459,6 +67463,10 @@
     "title": "殷通 / Yin Tong",
     "url": "/wiki/entities/yintong/"
   },
+  "YinWengguiWesternHan": {
+    "title": "尹翁归 / 尹翁规 / Yin Wenggui (Western Han)",
+    "url": "/wiki/entities/yinwengguiwesternhan/"
+  },
   "YinWu": {
     "title": "Yin Wu",
     "url": "/wiki/entities/yinwu/"
@@ -69194,6 +69202,10 @@
   "ZhaoGuWarringStates": {
     "title": "赵固 / Zhao Gu (Warring States)",
     "url": "/wiki/entities/zhaoguwarringstates/"
+  },
+  "ZhaoGuanghanWesternHan": {
+    "title": "赵广汉 / Zhao Guanghan (Western Han)",
+    "url": "/wiki/entities/zhaoguanghanwesternhan/"
   },
   "ZhaoGuangyi": {
     "title": "赵光义 / Song Taizong",
@@ -75334,6 +75346,10 @@
   "zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu": {
     "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+  },
+  "zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f": {
+    "title": "《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f/"
   },
   "zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp": {
     "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",

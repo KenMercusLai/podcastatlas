@@ -17232,6 +17232,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/cleanofficialcapacitygap/"
     },
+    "CleanOfficialPowerBoundary": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？ [lsu5ijaJBkZ2nKXvpc85KF-tsD3f].md",
+          "key": "zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/cleanofficialpowerboundary/"
+    },
     "ClimateAidRetrenchment": {
       "episode_count": 1,
       "show_count": 1,
@@ -109331,6 +109347,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/yinshieasternhan/"
     },
+    "YinWengguiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？ [lsu5ijaJBkZ2nKXvpc85KF-tsD3f].md",
+          "key": "zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/yinwengguiwesternhan/"
+    },
     "YinXinDoctor": {
       "episode_count": 1,
       "show_count": 1,
@@ -112692,6 +112724,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/entities/zhaofeiyanwesternhan/"
+    },
+    "ZhaoGuanghanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？ [lsu5ijaJBkZ2nKXvpc85KF-tsD3f].md",
+          "key": "zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/zhaoguanghanwesternhan/"
     },
     "ZhaoHedeWesternHan": {
       "episode_count": 8,

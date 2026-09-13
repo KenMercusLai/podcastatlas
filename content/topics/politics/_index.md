@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2479
+topic_total_pages: 2480
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3961,6 +3961,9 @@ topic_concepts:
   - key: "QingRumorPolitics"
     title: "清代谣言政治 / Qing Rumor Politics"
     url: "/wiki/concepts/qingrumorpolitics/"
+  - key: "CleanOfficialPowerBoundary"
+    title: "清官权力边界 / Clean Official Power Boundary"
+    url: "/wiki/concepts/cleanofficialpowerboundary/"
   - key: "CleanOfficialCapacityGap"
     title: "清官能吏能力差 / Clean Official Capacity Gap"
     url: "/wiki/concepts/cleanofficialcapacitygap/"

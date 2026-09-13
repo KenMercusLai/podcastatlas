@@ -18978,3 +18978,11 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？
+
+Added source note plus Zhao Guanghan, Yin Wenggui, and Clean Official Power Boundary. Key claims: clean reputation and anti-corruption force do not excuse private retaliation through public authority; Zhao's escalation from Su Xian to Rong Xu to Wei Xiang shows information power becoming revenge; and Yin Wenggui supplies a stricter but more orderly contrast.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

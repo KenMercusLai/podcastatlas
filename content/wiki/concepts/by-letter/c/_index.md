@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7300
+wiki_total_pages: 7301
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -2303,6 +2303,9 @@ wiki_pages:
   - key: "CriminalLawAfterLivelihoodCollapse"
     title: "民困之后的刑法失灵 / Criminal Law After Livelihood Collapse"
     url: "/wiki/concepts/criminallawafterlivelihoodcollapse/"
+  - key: "CleanOfficialPowerBoundary"
+    title: "清官权力边界 / Clean Official Power Boundary"
+    url: "/wiki/concepts/cleanofficialpowerboundary/"
   - key: "CleanOfficialCapacityGap"
     title: "清官能吏能力差 / Clean Official Capacity Gap"
     url: "/wiki/concepts/cleanofficialcapacitygap/"
