@@ -19262,6 +19262,10 @@ Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-li
 
 Added source `zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym`; created `ZhuYuanzhang` and `StatusCodedEverydayRegulation`; updated `MingDynasty`, `HouseholdOccupationControl`, `RitualizedSocialBoundary`, `HeavyAgricultureLightCommercePolicy`, and `HanWudi` with the episode's contrast between Han Wudi's talent-channel opening and Zhu Yuanzhang's Ming household, occupational, clothing, housing, vessel, footwear, and hairstyle regulation. No settled contradiction found; exact Ming legal chronology, enforcement practice, and the institutional-history precision of the 察举 account remain source-scoped.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗
+
+Added source `zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy`; created `SuWuWesternHan`, `LiLingWesternHan`, and `ExileLoyaltyThroughRitualToken`; updated `ChangHuiWesternHan` and `SaltAndIronConference` with Su Wu's proof-of-life rescue, Li Ling's failed persuasion, and the early Han Zhao rest-and-recovery extension. No settled contradiction found; exact wild-goose textual history, Ma Hong's identity, and the "nine monopoly officials" terminology remain source-scoped.
+
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -19328,6 +19332,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断
 
 Added source `dang-jushen-zhineng-zoudao-shizilukou-duitan-sudu-mayi-lingbo-zibianliang-poke-sizhong-yixian-panduan-ls6w3mrjjrecuqg33yc3lbdmdzpf`; created `Zibianliang`, `WangQianZibianliang`, `EmbodiedRobotDataTradeoff`, `GeneralModelRobotBoundary`, and `RobotDeploymentSuccessEconomics`; updated `SuduTechnology`, `HanZheng`, `AntLingbo`, `ShenYujun`, `PokeRobotics`, and `XuHuazhe` with the four-company debate on simulation, real sensor data, Astra boundaries, layered architecture, complex contact, and deployment economics. No settled contradiction found; route disagreements remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

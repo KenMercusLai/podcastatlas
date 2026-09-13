@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10026
+wiki_total_pages: 10028
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2252,6 +2252,9 @@ wiki_pages:
   - key: "SuZhengheLateHan"
     title: "苏正和 / Su Zhenghe (late Han)"
     url: "/wiki/entities/suzhenghelatehan/"
+  - key: "SuWuWesternHan"
+    title: "苏武 / Su Wu (Western Han)"
+    url: "/wiki/entities/suwuwesternhan/"
   - key: "SuXun"
     title: "苏洵 / Su Xun"
     url: "/wiki/entities/suxun/"

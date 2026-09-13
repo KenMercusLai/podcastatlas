@@ -14247,9 +14247,9 @@
       "url": "/wiki/entities/chandrama/"
     },
     "ChangHuiWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》413-1｜一人嫁三王，她的故事远比“昭君出塞”更传奇 [ltmT4Y60EUSm8A_MwtHnFG5cys6p].md",
@@ -14278,9 +14278,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
+          "key": "zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/changhuiwesternhan/"
     },
     "ChangXiLateHan": {
@@ -31836,6 +31843,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/exercisespecificbrainadaptation/"
+    },
+    "ExileLoyaltyThroughRitualToken": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
+          "key": "zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/exileloyaltythroughritualtoken/"
     },
     "ExpeditionTeamTrust": {
       "episode_count": 1,
@@ -58008,6 +58031,22 @@
       ],
       "updated": "2026-09-07",
       "url": "/wiki/entities/lijunrongfootballhistorian/"
+    },
+    "LiLingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
+          "key": "zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/lilingwesternhan/"
     },
     "LiLongjiTang": {
       "episode_count": 1,
@@ -86441,9 +86480,9 @@
       "url": "/wiki/entities/sallyhemings/"
     },
     "SaltAndIronConference": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》397-2｜让皇帝都为之变色的流民，从何处来的？ [ltMOQIPqK61_CG8N7w1GwApRtiTJ].md",
@@ -86451,6 +86490,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》397-2｜让皇帝都为之变色的流民，从何处来的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-397-2-rang-huangdi-dou-wei-zhi-bianse-de-liumin-cong-hechu-laide-ltmoqipqk61_cg8n7w1gwaprtitj/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
+          "key": "zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy/"
         }
       ],
       "updated": "2026-09-14",
@@ -94050,6 +94096,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/sumaoeasternhan/"
+    },
+    "SuWuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗 [lrvKyakUzpNv77uoq4wkRt7VcUZY].md",
+          "key": "zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/suwuwesternhan/"
     },
     "SuYouLateHan": {
       "episode_count": 1,
