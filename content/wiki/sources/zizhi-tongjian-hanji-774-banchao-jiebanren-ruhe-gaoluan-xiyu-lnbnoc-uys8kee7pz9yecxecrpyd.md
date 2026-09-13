@@ -14,9 +14,9 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 102 CE Western Regions handoff immediately before [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]]. It follows [[BanChaoEasternHan|班超]]'s late request to return from the Western Regions, [[BanZhaoLateHan|班昭]]'s petition to [[EmperorHeOfHan|汉和帝]], Ban Chao's return to [[LuoyangLateHan|洛阳]] and death, and [[RenShangLateHan|任尚]]'s hollow consultation before succeeding him.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 102 CE Western Regions handoff immediately before [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|汉纪 775]]. It follows [[BanChaoEasternHan|班超]]'s late request to return from the Western Regions, [[BanZhaoLateHan|班昭]]'s petition to [[EmperorHeOfHan|汉和帝]], Ban Chao's return to [[LuoyangLateHan|洛阳]] and death, and [[RenShangLateHan|任尚]]'s hollow consultation before succeeding him.
 
-The durable synthesis is that frontier succession depends on tacit local judgment as much as formal appointment. Ban Chao tells Ren Shang that Western Regions soldiers and polities need loose, simple, big-picture governance; Ren privately dismisses the advice as commonplace, turning the episode into an early case of [[LightTouchFrontierGovernance|light-touch frontier governance]] ignored before Hanji 779 records the later rebellion and withdrawal.
+The durable synthesis is that frontier succession depends on tacit local judgment as much as formal appointment. Ban Chao tells Ren Shang that Western Regions soldiers and polities need loose, simple, big-picture governance; Ren privately dismisses the advice as commonplace, turning the episode into an early case of [[LightTouchFrontierGovernance|light-touch frontier governance]] ignored before 汉纪 779 records the later rebellion and withdrawal.
 
 ## Key Claims
 
@@ -43,10 +43,10 @@ The durable synthesis is that frontier succession depends on tacit local judgmen
 - [[BanChaoEasternHan|班超]], [[RenShangLateHan|任尚]], and [[LightTouchFrontierGovernance|宽简边疆治理]] - the handoff scene defines the governance method Ren fails to internalize.
 - [[BanYongLateHan|班勇]] - appears as Ban Chao's son sent inward with an Anxi mission before his later Western Regions policy role.
 - [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] and [[TalentVirtueDistinction|才德之分]] - the episode sharpens the difference between formal rank or military reputation and actual fit for indirect frontier governance.
-- [[StrategicFrontierAbandonment|弃边失屏]] - Hanji 774 supplies the ignored handoff principle whose failure later helps turn an inherited Western Regions balance into rebellion and withdrawal.
+- [[StrategicFrontierAbandonment|弃边失屏]] - 汉纪 774 supplies the ignored handoff principle whose failure later helps turn an inherited Western Regions balance into rebellion and withdrawal.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills the 102 CE personal-return and handoff scene before Hanji 779's already-ingested 106-107 CE consequences.
-- Chronology refinement: Hanji 774 places Ban Chao's recall, death, Ren Shang's succession, and the ignored advice before Hanji 775's Deng Sui formation layer and before Hanji 779's Western Regions crisis.
+- No settled contradiction is recorded. This source backfills the 102 CE personal-return and handoff scene before 汉纪 779's already-ingested 106-107 CE consequences.
+- Chronology refinement: 汉纪 774 places Ban Chao's recall, death, Ren Shang's succession, and the ignored advice before 汉纪 775's Deng Sui formation layer and before 汉纪 779's Western Regions crisis.
 - Scope caution: the astrology comments about Ren Shang's personality and the Deng Yu descendant teaser are treated as source-scoped host commentary, not as independent historical claims.

@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Current Synthesis
 
-The current evidence comes from [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]], where [[HanPingdi|汉平帝]]'s proposed marriage to [[WangMang|王莽]]'s daughter is treated as a court and ancestral matter. [[WangZhengjun|王政君]] sends senior officials to inspect and praise the candidate; high officials conduct divination; the result is announced to royal ancestors through sacrifice; and the imperial bride-price is narrated as a huge precedent rather than a private family exchange.
+The current evidence comes from [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]], where [[HanPingdi|汉平帝]]'s proposed marriage to [[WangMang|王莽]]'s daughter is treated as a court and ancestral matter. [[WangZhengjun|王政君]] sends senior officials to inspect and praise the candidate; high officials conduct divination; the result is announced to royal ancestors through sacrifice; and the imperial bride-price is narrated as a huge precedent rather than a private family exchange.
 
 The key mechanism is the conversion of wealth into public virtue. Wang Mang does not simply receive the full bride-price. He partially accepts, performs refusal, and redistributes much of the accepted cash to accompanying families and poor Wang relatives. The episode reads this as humility, reputation management, and kinship consolidation at the same time.
 
@@ -29,12 +29,12 @@ The key mechanism is the conversion of wealth into public virtue. Wang Mang does
 
 ## Evidence
 
-- Court inspection: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] says Wang Zhengjun sends Xiahou Fan, Liu Hong, and Ping Yan to Wang Mang's household to evaluate the future empress.
-- Divination and ancestral notification: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] says senior officials conduct divination and the court reports the auspicious marriage to Han ancestors with sacrifice.
-- Bride-price scale: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] says precedent set the empress bride-price at golden value of 20,000 jin, rendered by the episode as 200 million cash.
-- Partial acceptance: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] says Wang Mang accepts 63 million cash rather than the full amount.
-- Kin redistribution: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] says Wang Mang distributes 43 million cash to eleven accompanying families and poor Wang-clan relatives.
-- Outer-relative power context: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] closes by saying Wang Mang controls both inner and outer authority under the Four Offices and Three Excellencies structure.
+- Court inspection: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]] says Wang Zhengjun sends Xiahou Fan, Liu Hong, and Ping Yan to Wang Mang's household to evaluate the future empress.
+- Divination and ancestral notification: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]] says senior officials conduct divination and the court reports the auspicious marriage to Han ancestors with sacrifice.
+- Bride-price scale: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]] says precedent set the empress bride-price at golden value of 20,000 jin, rendered by the episode as 200 million cash.
+- Partial acceptance: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]] says Wang Mang accepts 63 million cash rather than the full amount.
+- Kin redistribution: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]] says Wang Mang distributes 43 million cash to eleven accompanying families and poor Wang-clan relatives.
+- Outer-relative power context: [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]] closes by saying Wang Mang controls both inner and outer authority under the Four Offices and Three Excellencies structure.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The concept currently rests on one Western Han episode note and should not be ge
 
 ## What Changed
 
-- Created the concept from Hanji 615's Pingdi-Wang marriage, bride-price, refusal, and redistribution sequence.
+- Created the concept from 汉纪 615's Pingdi-Wang marriage, bride-price, refusal, and redistribution sequence.
 - Linked imperial marriage payment to dynastic ritual, moral reputation, and kinship consolidation.
 - Added a qualification separating the modern bride-price analogy from the ancient imperial mechanism.
 

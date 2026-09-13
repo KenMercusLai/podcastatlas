@@ -14,7 +14,7 @@ Western Han land and slave caps / 西汉限田限奴改革 is the late-Western-H
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] presents the reform as a serious but politically fragile anti-concentration effort under [[HanAidi|汉哀帝]]. The episode first looks back to [[DongZhongshu|董仲舒]], who had warned [[HanWudi|汉武帝]] that post-Qin land sale and the loss of well-field restraints encouraged severe inequality. [[ShiDanWesternHan|师丹]] then revives the issue under Aidi, prompting court discussion.
+[[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] presents the reform as a serious but politically fragile anti-concentration effort under [[HanAidi|汉哀帝]]. The episode first looks back to [[DongZhongshu|董仲舒]], who had warned [[HanWudi|汉武帝]] that post-Qin land sale and the loss of well-field restraints encouraged severe inequality. [[ShiDanWesternHan|师丹]] then revives the issue under Aidi, prompting court discussion.
 
 The proposal designed by [[KongGuangWesternHan|孔光]] and [[HeWuWesternHan|何武]] sets status-based caps, including a thirty-qing land limit and thirty-person enslaved-dependent limit for lower officeholders and commoners, with a three-year transition and confiscation for later violation. Aidi approves it, but prices of land and enslaved people fall, powerful stakeholders see their wealth threatened, and pressure from royal kin, nobles, powerful families, and imperial favorites leads Aidi to suspend the policy.
 
@@ -29,12 +29,12 @@ The proposal designed by [[KongGuangWesternHan|孔光]] and [[HeWuWesternHan|何
 
 ## Evidence
 
-- Inequality setting: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] describes late-Western-Han opposition between royal, noble, official, and merchant wealth and poorer officials, small merchants, tenants, and commoners.
-- Older diagnosis: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says Dong Zhongshu traced inequality to land transfer after Shang Yang and the loss of well-field restraints.
-- Policy revival: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says Shi Dan proposes limiting rich and noble households' land as inequality worsens.
-- Cap design: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says Kong Guang and He Wu propose differentiated caps across royal, noble, official, and commoner status groups.
-- Enforcement schedule: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says violations after three years would result in confiscation.
-- Suspension: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says royal kin, nobles, powerful families, and favorites press Aidi after prices fall, and Aidi suspends the policy.
+- Inequality setting: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] describes late-Western-Han opposition between royal, noble, official, and merchant wealth and poorer officials, small merchants, tenants, and commoners.
+- Older diagnosis: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says Dong Zhongshu traced inequality to land transfer after Shang Yang and the loss of well-field restraints.
+- Policy revival: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says Shi Dan proposes limiting rich and noble households' land as inequality worsens.
+- Cap design: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says Kong Guang and He Wu propose differentiated caps across royal, noble, official, and commoner status groups.
+- Enforcement schedule: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says violations after three years would result in confiscation.
+- Suspension: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says royal kin, nobles, powerful families, and favorites press Aidi after prices fall, and Aidi suspends the policy.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The source supports the reform's intent, design, market reaction, and suspension
 
 ## What Changed
 
-- Created the concept for Hanji 564's Aidi-era landholding and enslaved-dependent cap proposal.
+- Created the concept for 汉纪 564's Aidi-era landholding and enslaved-dependent cap proposal.
 
 ## Related Concepts
 

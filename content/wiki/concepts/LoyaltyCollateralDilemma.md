@@ -38,18 +38,18 @@ The strongest synthesis is that collateral pressure changes the moral unit. A de
 
 ## Evidence
 
-- Coercive recruitment and hostage pressure: [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28|Zhouji 72]], [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]], [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], and [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] show threats against local people, mothers, wives, and fathers being used to change a political or military decision.
-- Disputed officeholder obligation: [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|Hanji 978]] makes Jin Yun's Fan County choice morally debatable because his captured mother is weighed against a still-unsettled bond to Cao Cao.
-- Voluntary follower collateral: [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] shows Zang Hong allowing followers to leave but watching their loyalty to him become siege starvation and mass death.
-- Fugitive shelter collateral: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] shows [[ZhangJianLateHan|张俭]]'s flight endangering [[KongBaoLateHan|孔褒]], [[KongRong|孔融]], and [[KongRongMother|孔融母]], while [[XiaFuLateHan|夏馥]] and [[DuGenLateHan|杜根]] articulate the counter-duty not to implicate helpers.
+- Coercive recruitment and hostage pressure: [[zizhi-tongjian-zhouji-72-shenme-yang-de-ren-cai-shi-zhongzhen-zhishi-logxegnqexgc7z-lodw6tr6-8f28|Zhouji 72]], [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|汉纪 148-2]], [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|汉纪 910]], and [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|汉纪 163]] show threats against local people, mothers, wives, and fathers being used to change a political or military decision.
+- Disputed officeholder obligation: [[zizhi-tongjian-hanji-978-gushen-quantui-shuwan-dijun-ta-zenme-zuodao-de-lhgd8vsvuaf5oi9aefh0wxabmzwv|汉纪 978]] makes Jin Yun's Fan County choice morally debatable because his captured mother is weighed against a still-unsettled bond to Cao Cao.
+- Voluntary follower collateral: [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|汉纪 996]] shows Zang Hong allowing followers to leave but watching their loyalty to him become siege starvation and mass death.
+- Fugitive shelter collateral: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] shows [[ZhangJianLateHan|张俭]]'s flight endangering [[KongBaoLateHan|孔褒]], [[KongRong|孔融]], and [[KongRongMother|孔融母]], while [[XiaFuLateHan|夏馥]] and [[DuGenLateHan|杜根]] articulate the counter-duty not to implicate helpers.
 
 ## Counterevidence & Qualifications
 
-The concept does not condemn loyalty, refuge, filial duty, or public duty as such. Some cases show sacrifice blocking coercion, and Hanji 895 treats the Kong family's mutual self-offering as genuinely admirable. The qualification is about transfer of cost: once third parties become the pressure point, the moral evaluation must include their danger as evidence, not background noise.
+The concept does not condemn loyalty, refuge, filial duty, or public duty as such. Some cases show sacrifice blocking coercion, and 汉纪 895 treats the Kong family's mutual self-offering as genuinely admirable. The qualification is about transfer of cost: once third parties become the pressure point, the moral evaluation must include their danger as evidence, not background noise.
 
 ## What Changed
 
-- Hanji 895 adds a fugitive-shelter branch where collateral risk arises from political hospitality rather than hostage-taking or battlefield coercion.
+- 汉纪 895 adds a fugitive-shelter branch where collateral risk arises from political hospitality rather than hostage-taking or battlefield coercion.
 - The page was migrated from legacy append-style prose into synthesis-v1 while preserving the existing source inventory order.
 
 ## Related Concepts

@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 
 ## Overview
 
-方望 / Fang Wang enters the wiki through [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] as a Jianwu 1 claimant organizer in the unsettled space around [[LiuXuanGengshiEmperor|更始帝刘玄]] and [[LiuXiu|刘秀]]. The source says Fang Wang, formerly a military adviser, works with Anling man Gong Lin to install [[RuziYing|孺子婴 / 刘婴]] as emperor, gathers several thousand followers, occupies Linjing, and is then defeated and killed by Li Song under Liu Xuan's order.
+方望 / Fang Wang enters the wiki through [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] as a Jianwu 1 claimant organizer in the unsettled space around [[LiuXuanGengshiEmperor|更始帝刘玄]] and [[LiuXiu|刘秀]]. The source says Fang Wang, formerly a military adviser, works with Anling man Gong Lin to install [[RuziYing|孺子婴 / 刘婴]] as emperor, gathers several thousand followers, occupies Linjing, and is then defeated and killed by Li Song under Liu Xuan's order.
 
 ## Current Profile
 
@@ -28,14 +28,14 @@ His destruction also clarifies Liu Xuan's still-active coercive capacity before 
 
 ## Evidence
 
-- Claimant organization: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says Fang Wang and Gong Lin support Ruzi Ying as emperor.
-- Local base: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says the group gathers several thousand followers and occupies Linjing.
-- Defeat: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says Liu Xuan sends Li Song against them and kills the group.
-- Structural contrast: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] places the Linjing suppression beside Chimei expansion and Gongsun Shu's Chengdu claim, making Fang Wang part of a wider fragmented legitimacy field.
+- Claimant organization: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] says Fang Wang and Gong Lin support Ruzi Ying as emperor.
+- Local base: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] says the group gathers several thousand followers and occupies Linjing.
+- Defeat: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] says Liu Xuan sends Li Song against them and kills the group.
+- Structural contrast: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] places the Linjing suppression beside Chimei expansion and Gongsun Shu's Chengdu claim, making Fang Wang part of a wider fragmented legitimacy field.
 
 ## Qualifications
 
-This page is bounded to Hanji 675. Gong Lin, Li Song, Linjing, exact office titles, and the internal decision process remain source-scoped. The page does not infer Fang Wang's earlier career, motives, military organization, or relationship to other Fang Wang figures beyond this source.
+This page is bounded to 汉纪 675. Gong Lin, Li Song, Linjing, exact office titles, and the internal decision process remain source-scoped. The page does not infer Fang Wang's earlier career, motives, military organization, or relationship to other Fang Wang figures beyond this source.
 
 ## What Changed
 

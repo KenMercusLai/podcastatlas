@@ -12,7 +12,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 12 / 36 CE immediately before [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]]. It explains [[LiuXiu|光武帝刘秀]]'s military reputation through his remote reading of the Shu campaign: he orders [[WuHanEasternHan|吴汉]] to hold Guangdu, warns against pressing too close to [[Chengdu]], and predicts that a separated [[LiuShangEasternHan|刘尚]] camp will invite sequential attack. The second half follows Wu Han's night withdrawal and later pressure from [[GongsunShuEasternHan|公孙述]] and [[YanCenEasternHan|严岑 / Yan Cen]], while [[ZhangKanEasternHan|张堪]] stops a food-short withdrawal and urges a feigned-weakness response.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 12 / 36 CE immediately before [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]]. It explains [[LiuXiu|光武帝刘秀]]'s military reputation through his remote reading of the Shu campaign: he orders [[WuHanEasternHan|吴汉]] to hold Guangdu, warns against pressing too close to [[Chengdu]], and predicts that a separated [[LiuShangEasternHan|刘尚]] camp will invite sequential attack. The second half follows Wu Han's night withdrawal and later pressure from [[GongsunShuEasternHan|公孙述]] and [[YanCenEasternHan|严岑 / Yan Cen]], while [[ZhangKanEasternHan|张堪]] stops a food-short withdrawal and urges a feigned-weakness response.
 
 ## Key Claims
 
@@ -41,8 +41,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills J
 - [[LiuXiu|光武帝刘秀]] - remote commander whose Guangdu order, camp-distance diagnosis, and sequential-attack prediction anchor the episode's title claim.
 - [[WuHanEasternHan|吴汉]] - field commander whose early victories, unauthorized advance, encirclement, night reunion with Liu Shang, later defeat, and food crisis drive the campaign narrative.
 - [[LiuShangEasternHan|刘尚]] - separated southern-camp commander whose distance from Wu Han creates the mutual-support vulnerability Liu Xiu predicts.
-- [[GongsunShuEasternHan|公孙述]] - Shu ruler who refuses surrender and uses large forces to counter Wu Han before the final Hanji 713 endgame.
-- [[YanCenEasternHan|严岑 / Yan Cen]] - Shu commander whose later feint and rear attack defeats Wu Han before the campaign resolves in Hanji 713.
+- [[GongsunShuEasternHan|公孙述]] - Shu ruler who refuses surrender and uses large forces to counter Wu Han before the final 汉纪 713 endgame.
+- [[YanCenEasternHan|严岑 / Yan Cen]] - Shu commander whose later feint and rear attack defeats Wu Han before the campaign resolves in 汉纪 713.
 - [[ZhangKanEasternHan|张堪]] - adviser-official who prevents Wu Han's withdrawal and redirects the crisis toward feigned weakness.
 - [[LiTongEasternHan|李通]] - founding-merit figure whose retirement request and special-entry status extend the merit-withdrawal branch.
 - [[SeparatedCampMutualSupportRisk|分营互援风险]] - concept created from Liu Xiu's diagnosis of the Wu Han-Liu Shang camp geometry.
@@ -53,6 +53,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills J
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source is the campaign prelude to Hanji 713's final Chengdu surrender and post-surrender violence, so Wu Han's tactical recovery here must be held beside, not used to erase, the later Chengdu atrocity.
+- Chronology qualification: this source is the campaign prelude to 汉纪 713's final Chengdu surrender and post-surrender violence, so Wu Han's tactical recovery here must be held beside, not used to erase, the later Chengdu atrocity.
 - Identity normalization: the source form 严岑 is routed to the existing [[YanCenEasternHan|Yan Cen]] page, which earlier source notes rendered as 颜岑; the shared role is Gongsun Shu's final Shu commander around Chengdu.
 - Identity caution: Li Tong here is [[LiTongEasternHan|李通 / Li Tong (Eastern Han)]], the Guangwu-era Gushi marquis, not [[LiTongLateHan|李通 / Li Tong (late Han)]], the later Cao-aligned Runan/Yang'an figure.

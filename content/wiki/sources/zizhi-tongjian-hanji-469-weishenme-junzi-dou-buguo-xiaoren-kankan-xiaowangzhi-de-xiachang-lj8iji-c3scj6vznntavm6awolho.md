@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first half of [[XiaoWangzhiWesternHan|萧望之]]'s fall under [[HanYuandi|汉元帝]], immediately before [[zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe|Hanji 470]]. It follows [[ZhengPengWesternHan|郑朋]] attaching himself to Xiao's circle, being cut off as untrustworthy, defecting to [[ShiGaoWesternHan|史高]] and allied actors, and helping create an accusation field that [[HongGongWesternHan|弘恭]] and [[ShiXianWesternHan|石显]] turn into a Tingwei-custody trap.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first half of [[XiaoWangzhiWesternHan|萧望之]]'s fall under [[HanYuandi|汉元帝]], immediately before [[zizhi-tongjian-hanji-470-xiao-wangzhi-shasi-wode-chule-taijian-haiyou-wode-yufu-lof1c5nctali_zsy0hotqyocjgoe|汉纪 470]]. It follows [[ZhengPengWesternHan|郑朋]] attaching himself to Xiao's circle, being cut off as untrustworthy, defecting to [[ShiGaoWesternHan|史高]] and allied actors, and helping create an accusation field that [[HongGongWesternHan|弘恭]] and [[ShiXianWesternHan|石显]] turn into a Tingwei-custody trap.
 
 The durable synthesis is that Xiao's first disaster comes from a combined failure of personnel judgment, procedure, and imperial face. Zheng Peng converts rejected attachment into accusation; Hong Gong and Shi Xian use the legal meaning of "summon to Tingwei" better than Yuan does; Yuan then releases Xiao through a pardon formula that preserves the emperor's face while leaving Xiao stigmatized as guilty.
 
@@ -27,7 +27,7 @@ The durable synthesis is that Xiao's first disaster comes from a combined failur
 - [[HuaLongWesternHan|华龙]] joins Zheng Peng after failing to attach himself to Zhou Kan, and Hong Gong and Shi Xian direct the pair to accuse Xiao's side while Xiao is on leave.
 - Yuan does not understand that "summon to Tingwei" means arrest and formal custody rather than ordinary questioning, so Xiao Wangzhi and Zhou Kan are imprisoned without a chance to defend themselves.
 - Hong Gong and Shi Xian preserve Yuan's face by recommending a pardon narrative: Xiao is released because the emperor is merciful, not because the accusation was false.
-- The pardon removes Xiao's posts, demotes Zhou Kan and Liu Gengsheng, and creates the unresolved reputation wound that Hanji 470 later turns into Xiao's fatal vindication conflict.
+- The pardon removes Xiao's posts, demotes Zhou Kan and Liu Gengsheng, and creates the unresolved reputation wound that 汉纪 470 later turns into Xiao's fatal vindication conflict.
 - The episode also introduces [[ZhangChangWesternHan|张敞]] as a capable but informal official whom Xiao considers unsuitable as crown-prince teacher, and uses Zhang's famous eyebrow-painting story as a contrast in stable self-possession.
 
 ## Key Quotes
@@ -46,5 +46,5 @@ The durable synthesis is that Xiao's first disaster comes from a combined failur
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source functions as the immediate prequel to Hanji 470's Xiao Wangzhi death scene.
+- No settled contradiction with existing wiki content was found. This source functions as the immediate prequel to 汉纪 470's Xiao Wangzhi death scene.
 - Scope caution: Zheng Peng's exact memorials, Hua Long's full career, Yuan's private understanding of the legal formula, Zhang Chang's complete career, and the host's "不较劲" life lesson remain source-scoped.

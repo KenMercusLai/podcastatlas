@@ -46,5 +46,5 @@ The durable synthesis is that the memorial works as political narrative repair. 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source precedes Hanji 578-582's Jianping 2 personnel and ritual-title conflicts and precedes the later Dong Xian sequence.
+- Chronology qualification: this source precedes 汉纪 578-582's Jianping 2 personnel and ritual-title conflicts and precedes the later Dong Xian sequence.
 - Scope caution: the source summarizes the memorial's argument and immediate effect; it does not reconstruct the full Zhao Feiyan case file, the exact legal basis of the palace investigation, Geng Yu's broader career, or every Wang-family response.

@@ -14,7 +14,7 @@ Infanticide custom correction / 杀婴风俗纠偏 is the governance pattern whe
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] creates this concept through [[JiaBiaoLateHan|贾彪]]'s service as Xinxi magistrate. The source says local custom tolerated killing infants, but Jia Biao forbids it and treats the killing of children as homicide. When a bandit-killing case and a mother-child killing case arrive together, he prioritizes the latter because a mother killing her own child is presented as a deeper breach of heavenly and human order.
+[[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] creates this concept through [[JiaBiaoLateHan|贾彪]]'s service as Xinxi magistrate. The source says local custom tolerated killing infants, but Jia Biao forbids it and treats the killing of children as homicide. When a bandit-killing case and a mother-child killing case arrive together, he prioritizes the latter because a mother killing her own child is presented as a deeper breach of heavenly and human order.
 
 The key synthesis is that law and moral signal work together. Jia Biao does not merely condemn the custom; he makes enforcement visible enough that local expectations change. The episode says bandits surrender and thousands of children later grow up under the changed custom, remembered as "Jia father's sons." The page therefore treats the case as a source-bounded example of local governance using law to reverse a normalized practice without reducing order to fear alone.
 
@@ -28,10 +28,10 @@ The key synthesis is that law and moral signal work together. Jia Biao does not 
 
 ## Evidence
 
-- Custom named: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says Jia Biao encounters a local practice of killing infants.
-- Legal reframing: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says he forbids the practice and treats it as homicide.
-- Priority signal: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says he prioritizes the mother-child killing case over an ordinary bandit killing because the former violates the mother-child bond and heavenly order.
-- Custom effect: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says the bandits surrender and later children raised under the changed custom are called "Jia father's sons."
+- Custom named: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] says Jia Biao encounters a local practice of killing infants.
+- Legal reframing: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] says he forbids the practice and treats it as homicide.
+- Priority signal: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] says he prioritizes the mother-child killing case over an ordinary bandit killing because the former violates the mother-child bond and heavenly order.
+- Custom effect: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] says the bandits surrender and later children raised under the changed custom are called "Jia father's sons."
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept is source-bounded to the episode's account of Jia Biao's county gove
 
 ## What Changed
 
-- Hanji 874 creates the concept from Jia Biao's anti-infanticide enforcement in Xinxi.
+- 汉纪 874 creates the concept from Jia Biao's anti-infanticide enforcement in Xinxi.
 - The current judgment separates moral-order enforcement from later Party Prohibition rescue, while keeping both within Jia Biao's broader timing-and-responsibility profile.
 
 ## Related Concepts

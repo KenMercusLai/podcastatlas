@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》992丨乱世有多可怕？揭秘长安的血色梦魇
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han sequence immediately before [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]]. It pairs [[EmperorXianOfHan|汉献帝]]'s impoverished court at [[Anyi|安邑]] and the catastrophic collapse of [[ChangAnHanCapital|长安]] with [[YuanShao|袁绍]]'s missed chance to welcome the emperor, then turns to [[SunCe|孙策]] leaving [[YuanShu|袁术]]'s platform and opening his Jiangdong campaign through [[WuJingLateHan|吴景]], [[ZhouYuLateHan|周瑜]], [[DanyangCommandery|丹阳郡]], and [[HengjiangLateHan|横江]]. The main synthesis is that symbolic legitimacy, food security, and early talent/logistics support decide whether disorder becomes opportunity or devastation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han sequence immediately before [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|汉纪 993]]. It pairs [[EmperorXianOfHan|汉献帝]]'s impoverished court at [[Anyi|安邑]] and the catastrophic collapse of [[ChangAnHanCapital|长安]] with [[YuanShao|袁绍]]'s missed chance to welcome the emperor, then turns to [[SunCe|孙策]] leaving [[YuanShu|袁术]]'s platform and opening his Jiangdong campaign through [[WuJingLateHan|吴景]], [[ZhouYuLateHan|周瑜]], [[DanyangCommandery|丹阳郡]], and [[HengjiangLateHan|横江]]. The main synthesis is that symbolic legitimacy, food security, and early talent/logistics support decide whether disorder becomes opportunity or devastation.
 
 ## Key Claims
 - In 195 CE, [[EmperorXianOfHan|汉献帝]] reaches [[Anyi|安邑]] in a rough ox cart, receives offerings from the [[HedongCommandery|河东郡]] governor, and continues rewarding and appointing officials even though the court's material base is nearly gone.
@@ -43,7 +43,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[YuanShao|袁绍]], [[JuShou|沮授]], [[GuoTu|郭图]], [[ChunyuQiong|淳于琼]], [[CaoCao|曹操]], [[MingqiLegitimacy|名器合法性]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[MoralizedWarPretext|道德化战争借口]] - missed emperor-welcome strategy and legitimacy timing.
 - [[SunCe|孙策]], [[YuanShu|袁术]], [[ZhuZhiLateHan|朱治]], [[WuJingLateHan|吴景]], [[LiuYaoLateHan|刘繇]], [[WangLangLateHan|王朗]], [[LiyangLateHan|历阳]], and [[HengjiangLateHan|横江]] - Sun Ce's departure from Yuan Shu and first Jiangdong bridgehead.
 - [[ZhouYuLateHan|周瑜]], [[ZhouShangLateHan|周尚]], [[DanyangCommandery|丹阳郡]], [[TalentAsStateTreasure|以贤臣为宝]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - early Sun-Zhou alliance, logistics, and recruitment support.
-- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] - next source, continuing Sun Ce's Jiangdong advance into Liu Yao's underuse of Taishi Ci and the Shentingling encounter.
+- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|汉纪 993]] - next source, continuing Sun Ce's Jiangdong advance into Liu Yao's underuse of Taishi Ci and the Shentingling encounter.
 
 ## Contradictions
 - No settled contradiction found.

@@ -14,7 +14,7 @@ Local fault attribution pacification / 归咎安抚式平叛 is a pacification p
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] grounds the pattern through [[WuHanEasternHan|吴汉]] at Gexian. When five major local families expel the acting county head and occupy the city, other commanders want to attack. Wu Han refuses because he attributes the rebellion to the acting county head's fault.
+[[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] grounds the pattern through [[WuHanEasternHan|吴汉]] at Gexian. When five major local families expel the acting county head and occupy the city, other commanders want to attack. Wu Han refuses because he attributes the rebellion to the acting county head's fault.
 
 The result is a governance-first pacification sequence. Wu Han forbids casual advance, has the commandery office arrest the acting county head, sends reassurance, and receives the families' surrender. The episode therefore separates a local administrative grievance from a full enemy identity: the people in the city remain recoverable if the state corrects the immediate cause.
 
@@ -28,9 +28,9 @@ The result is a governance-first pacification sequence. Wu Han forbids casual ad
 
 ## Evidence
 
-- Revolt setup: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says five Gexian families expel the acting county head and occupy the county city.
-- Diagnostic refusal: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says other generals ask to attack but Wu Han forbids movement and says the rebellion is the acting county head's fault.
-- Repair and surrender: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Wu Han has the county head arrested, sends people to comfort the city, and the five families surrender in succession.
+- Revolt setup: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says five Gexian families expel the acting county head and occupy the county city.
+- Diagnostic refusal: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says other generals ask to attack but Wu Han forbids movement and says the rebellion is the acting county head's fault.
+- Repair and surrender: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Wu Han has the county head arrested, sends people to comfort the city, and the five families surrender in succession.
 
 ## Counterevidence & Qualifications
 
@@ -38,7 +38,7 @@ This is a one-source concept and should not be generalized into a rule that all 
 
 ## What Changed
 
-- Created the concept from Wu Han's Gexian handling in Hanji 690.
+- Created the concept from Wu Han's Gexian handling in 汉纪 690.
 
 ## Related Concepts
 

@@ -10,11 +10,11 @@ last_updated: 2026-09-02
 
 ## Overview
 
-Fu Long / 伏隆 enters the wiki as a Guangwu envoy whose failed mission to [[ZhangBuEasternHan|张步]] turns title politics into mortal diplomatic risk. In [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]], he rejects Zhang Bu's attempt to keep him in Qing/Xu, sends [[LiuXiu|光武帝刘秀]] a secret memorial saying not to spare him, and is later killed by Zhang Bu.
+Fu Long / 伏隆 enters the wiki as a Guangwu envoy whose failed mission to [[ZhangBuEasternHan|张步]] turns title politics into mortal diplomatic risk. In [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]], he rejects Zhang Bu's attempt to keep him in Qing/Xu, sends [[LiuXiu|光武帝刘秀]] a secret memorial saying not to spare him, and is later killed by Zhang Bu.
 
 ## Current Profile
 
-Hanji 688 places Fu Long in the eastern rival field after Liu Yong offers Zhang Bu a Qi kingship. Fu Long argues against Zhang Bu accepting that offer by invoking the Han rule that non-Liu actors should not be made kings and by narrowing Zhang Bu's realistic reward ceiling to a large marquisate under Liu Xiu.
+汉纪 688 places Fu Long in the eastern rival field after Liu Yong offers Zhang Bu a Qi kingship. Fu Long argues against Zhang Bu accepting that offer by invoking the Han rule that non-Liu actors should not be made kings and by narrowing Zhang Bu's realistic reward ceiling to a large marquisate under Liu Xiu.
 
 Zhang Bu wants Fu Long to stay and help hold Qing and Xu, but Fu Long refuses. His refusal shifts him from negotiator to captive: he prepares to report back to Luoyang, is detained, and sends a secret memorial explaining that he has failed the mission and is in danger.
 
@@ -31,13 +31,13 @@ The memorial is the center of his profile. Fu Long asks Liu Xiu to advance in ti
 
 ## Evidence
 
-- Mission setting: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Yong offers Zhang Bu a Qi kingship while Fu Long has reached Ju.
-- Title argument: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Fu Long tells Zhang Bu that Han precedent limits kingship to Liu-family members and that Zhang Bu should expect at most a large marquisate.
-- Detention: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Zhang Bu wants Fu Long to stay and defend Qing/Xu, but Fu Long refuses and is detained when he tries to return.
-- Secret memorial: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Fu Long sends Liu Xiu a secret report admitting mission failure and asking for timely advance.
-- Death-ready stance: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Fu Long asks Liu Xiu not to spare him and entrusts his family to the ruler if he dies.
-- Court reception: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Liu Xiu shows the memorial to Fu Zhan with tears.
-- Death: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] says Zhang Bu later kills Fu Long.
+- Mission setting: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]] says Liu Yong offers Zhang Bu a Qi kingship while Fu Long has reached Ju.
+- Title argument: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]] says Fu Long tells Zhang Bu that Han precedent limits kingship to Liu-family members and that Zhang Bu should expect at most a large marquisate.
+- Detention: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]] says Zhang Bu wants Fu Long to stay and defend Qing/Xu, but Fu Long refuses and is detained when he tries to return.
+- Secret memorial: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]] says Fu Long sends Liu Xiu a secret report admitting mission failure and asking for timely advance.
+- Death-ready stance: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]] says Fu Long asks Liu Xiu not to spare him and entrusts his family to the ruler if he dies.
+- Court reception: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]] says Liu Xiu shows the memorial to Fu Zhan with tears.
+- Death: [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]] says Zhang Bu later kills Fu Long.
 
 ## Qualifications
 

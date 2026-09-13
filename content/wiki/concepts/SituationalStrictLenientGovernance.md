@@ -14,7 +14,7 @@ Situational strict-lenient governance is the statecraft pattern in which strict 
 
 ## Current Synthesis
 
-The concept enters the wiki through [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] and its presentation of [[CuiShiLateHan|Cui Shi]]'s [[ZhenglunCuiShi|Zhenglun]]. The source rejects rule by inherited formula: a ruler should not copy an ancient model or prefer harshness or leniency in the abstract, because the governing method has to fit the actual condition. Confucius' different answers to different rulers become the explanatory model for this flexibility.
+The concept enters the wiki through [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|汉纪 837]] and its presentation of [[CuiShiLateHan|Cui Shi]]'s [[ZhenglunCuiShi|Zhenglun]]. The source rejects rule by inherited formula: a ruler should not copy an ancient model or prefer harshness or leniency in the abstract, because the governing method has to fit the actual condition. Confucius' different answers to different rulers become the explanatory model for this flexibility.
 
 The current synthesis has two sides. When order is decayed and powerful actors evade consequences, strict enforcement may function as medicine that restores accountability. When society is peaceful or already overburdened by harsh statutes, moral teaching and lenient repair may be the better nourishment. Sima Guang's qualification is central: Han law was already severe, so the late-Han failure was not simply insufficient cruelty but weak enforcement against privileged people and a ruler class unable to correct them.
 
@@ -29,11 +29,11 @@ The current synthesis has two sides. When order is decayed and powerful actors e
 
 ## Evidence
 
-- Diagnostic principle: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] uses "对症下药" to frame governance as matching remedy to political disease.
-- Anti-formula argument: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] uses Confucius' different answers and the Emperor Xuan versus Emperor Yuan contrast to reject fixed imitation.
-- Medicine and nourishment: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] compares punishment and law to strong medicine for disorder and moral teaching to nourishing food for peace.
-- Enforcement qualification: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] includes Sima Guang's warning that late-Han legal harshness already existed, while enforcement against powerful actors was weak.
-- Balance rule: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] closes by saying laxity should be corrected with strictness and oppressive strictness should be repaired with leniency.
+- Diagnostic principle: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|汉纪 837]] uses "对症下药" to frame governance as matching remedy to political disease.
+- Anti-formula argument: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|汉纪 837]] uses Confucius' different answers and the Emperor Xuan versus Emperor Yuan contrast to reject fixed imitation.
+- Medicine and nourishment: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|汉纪 837]] compares punishment and law to strong medicine for disorder and moral teaching to nourishing food for peace.
+- Enforcement qualification: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|汉纪 837]] includes Sima Guang's warning that late-Han legal harshness already existed, while enforcement against powerful actors was weak.
+- Balance rule: [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|汉纪 837]] closes by saying laxity should be corrected with strictness and oppressive strictness should be repaired with leniency.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The concept is currently grounded in one podcast source's treatment of Cui Shi a
 
 ## What Changed
 
-- Created the concept from Hanji 837's Zhenglun discussion, medicine-and-food metaphor, and Sima Guang qualification.
+- Created the concept from 汉纪 837's Zhenglun discussion, medicine-and-food metaphor, and Sima Guang qualification.
 
 ## Related Concepts
 

@@ -13,7 +13,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first decision layer before [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] and [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]]. It follows [[YuanShao|袁绍]] urging [[HeJin|何进]] to remove the [[TenAttendantsLateHan|十常侍]], [[EmpressDowagerHe|何太后]] and He-family interests blocking that move, and [[ChenLinLateHan|陈琳]] plus [[CaoCao|曹操]] warning against broad mobilization and leaked plans. The distinct contribution is [[LethalPlanLeakageRisk|致命计划泄露风险]]: in a court struggle already moving toward life-or-death stakes, talk, delay, partial measures, and exposed intent can give the target faction time to strike first.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first decision layer before [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|汉纪 945]] and [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]]. It follows [[YuanShao|袁绍]] urging [[HeJin|何进]] to remove the [[TenAttendantsLateHan|十常侍]], [[EmpressDowagerHe|何太后]] and He-family interests blocking that move, and [[ChenLinLateHan|陈琳]] plus [[CaoCao|曹操]] warning against broad mobilization and leaked plans. The distinct contribution is [[LethalPlanLeakageRisk|致命计划泄露风险]]: in a court struggle already moving toward life-or-death stakes, talk, delay, partial measures, and exposed intent can give the target faction time to strike first.
 
 ## Key Claims
 
@@ -48,7 +48,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[TenAttendantsLateHan|十常侍]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[LethalPlanLeakageRisk|致命计划泄露风险]] - the target faction's continuing access and the danger created by exposed intent.
 - [[ChenLinLateHan|陈琳]], [[CaoCao|曹操]], [[ExternalTroopInvitationRisk|外兵入京升级风险]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - warning voices against broad military escalation and leaked planning.
 - [[DouWuLateHan|窦武]], [[WangMeirenLateHan|王美人]], and [[EmperorLingOfHan|汉灵帝]] - precedent and background debts used to explain actor incentives.
-- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] and [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] - next stages: the outside-troop summons, eunuch reentry, palace trap, and violent collapse.
+- [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|汉纪 945]] and [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]] - next stages: the outside-troop summons, eunuch reentry, palace trap, and violent collapse.
 - [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], [[PalaceCoupViolenceCascade|宫廷政变暴力级联]], and [[CommunicationBoundarySetting|Communication Boundary Setting]] - adjacent timing and communication frames, with this episode kept as a high-stakes political case rather than ordinary workplace advice.
 
 ## Contradictions

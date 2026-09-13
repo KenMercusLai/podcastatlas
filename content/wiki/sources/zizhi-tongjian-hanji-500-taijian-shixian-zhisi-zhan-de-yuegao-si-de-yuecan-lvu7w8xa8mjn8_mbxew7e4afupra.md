@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 1 / 32 BCE under [[HanChengdi|汉成帝]], immediately before the fuller post-[[ShiXianWesternHan|石显]] cleanup analyzed in [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]]. It follows Shi Xian's transfer from the inner document channel to Changxin zhong taipu, the impeachment by [[KuangHengWesternHan|匡衡]] and [[ZhangTanWesternHan|张谭]], the removal of Shi Xian's party, and Shi Xian's death after being sent back to his native commandery.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 1 / 32 BCE under [[HanChengdi|汉成帝]], immediately before the fuller post-[[ShiXianWesternHan|石显]] cleanup analyzed in [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]]. It follows Shi Xian's transfer from the inner document channel to Changxin zhong taipu, the impeachment by [[KuangHengWesternHan|匡衡]] and [[ZhangTanWesternHan|张谭]], the removal of Shi Xian's party, and Shi Xian's death after being sent back to his native commandery.
 
 The durable synthesis is that Shi Xian's power was not just personal flattery. The episode presents him as legally trained, administratively capable, and positioned inside the message-and-document path to [[HanYuandi|汉元帝]], so a low-seeming relay role could become practical power. His collapse then shows the fragility of ruler-dependent access: once Chengdi changes the channel, prior fear, patronage, and benefit networks become liabilities.
 
@@ -37,7 +37,7 @@ The durable synthesis is that Shi Xian's power was not just personal flattery. T
 ## Connections
 
 - [[ShiXianWesternHan|石显]], [[HanYuandi|汉元帝]], and [[TrustedEunuchPowerFormation|信任型宦官权力形成]] - the source supplies an early Western Han formation case based on competence, trust, legal skill, and routine access.
-- [[KuangHengWesternHan|匡衡]], [[ZhangTanWesternHan|张谭]], [[HanChengdi|汉成帝]], and [[CourtTransitionBlameManagement|新君清算中的责任安排]] - the source gives the immediate impeachment and purge sequence that Hanji 502 later turns into a blame-management problem.
+- [[KuangHengWesternHan|匡衡]], [[ZhangTanWesternHan|张谭]], [[HanChengdi|汉成帝]], and [[CourtTransitionBlameManagement|新君清算中的责任安排]] - the source gives the immediate impeachment and purge sequence that 汉纪 502 later turns into a blame-management problem.
 - [[MessageRelayPoliticalPower|传话式信息权力]] - the source creates this concept through the argument that palace message relay can filter information, signal access, and influence decisions.
 - [[ZhaoGao|赵高]], [[EarlyEunuchTerminologyMisreading|早期宦官词义误读]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - comparative eunuch-power and access-control context.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - adjacent institutional risk because the host says Han rulers' focus on outer relatives helped obscure eunuch-intervention dangers.

@@ -14,9 +14,9 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 52-54 CE late [[LiuXiu|光武帝刘秀]] layer immediately before [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]]. It introduces [[BanBiaoEasternHan|班彪]] through his Northern Xiongnu memorial: he reads tribute, renewed [[HanXiongnuHeqinPolicy|heqin]] requests, and music requests as signs of fear after [[SouthernXiongnu|南匈奴]] submission, then recommends matched rewards and careful wording rather than trust, rupture, or open commitment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 52-54 CE late [[LiuXiu|光武帝刘秀]] layer immediately before [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]]. It introduces [[BanBiaoEasternHan|班彪]] through his Northern Xiongnu memorial: he reads tribute, renewed [[HanXiongnuHeqinPolicy|heqin]] requests, and music requests as signs of fear after [[SouthernXiongnu|南匈奴]] submission, then recommends matched rewards and careful wording rather than trust, rupture, or open commitment.
 
-The second half qualifies the later Hanji 730 fengshan sequence. In 54 CE, Liu Xiu refuses ministers' call for [[FengshanRitualLegitimacy|Taishan fengshan]] because public resentment makes heavenly display illegitimate; the episode explains the [[Analects|《论语》]] Jisun/Taishan line through [[Confucius|孔子]]'s criticism of ritual overreach and turns it into a source-scoped lesson on integrity before power.
+The second half qualifies the later 汉纪 730 fengshan sequence. In 54 CE, Liu Xiu refuses ministers' call for [[FengshanRitualLegitimacy|Taishan fengshan]] because public resentment makes heavenly display illegitimate; the episode explains the [[Analects|《论语》]] Jisun/Taishan line through [[Confucius|孔子]]'s criticism of ritual overreach and turns it into a source-scoped lesson on integrity before power.
 
 ## Key Claims
 - [[BanBiaoEasternHan|班彪]] is introduced as an Eastern Han historian and Ban-family figure whose children later become famous, but the source develops him mainly through one diplomatic memorial.
@@ -38,10 +38,10 @@ The second half qualifies the later Hanji 730 fengshan sequence. In 54 CE, Liu X
 - [[BanBiaoEasternHan|班彪]], [[LiuXiu|光武帝刘秀]], [[NorthernXiongnuLateHan|北匈奴]], [[SouthernXiongnu|南匈奴]], and [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - the diplomatic branch turns tribute, heqin, reward, and reply wording into a calibrated frontier signal.
 - [[HanXiongnuHeqinPolicy|汉匈和亲政策]] and [[Xiongnu|匈奴]] - Northern Xiongnu reuses older heqin language, but Ban Biao treats it as pressure management rather than automatic alliance.
 - [[Taishan|泰山]], [[FengshanRitualLegitimacy|封禅礼制合法性]], [[Analects|《论语》]], and [[Confucius|孔子]] - the ritual branch uses Jisun's Taishan overreach to explain Liu Xiu's initial refusal of fengshan.
-- [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] - direct continuation, where Liu Xiu later performs Taishan fengshan after chenwei evidence changes the decision setting.
+- [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]] - direct continuation, where Liu Xiu later performs Taishan fengshan after chenwei evidence changes the decision setting.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame for the 52-54 CE events.
 
 ## Contradictions
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source records Liu Xiu refusing Taishan fengshan in 54 CE; [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] records his later 56 CE chenwei-backed ceremony, so the two notes form a changed-condition sequence rather than a contradiction.
+- Chronology qualification: this source records Liu Xiu refusing Taishan fengshan in 54 CE; [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]] records his later 56 CE chenwei-backed ceremony, so the two notes form a changed-condition sequence rather than a contradiction.
 - Scope caution: Huhanxie, Zhizhi, Left Gudu Hou, Right Guli King, the Western Regions envoys, Jisun, Ran You, Lin Fang, exact instrument history, and the closing personality lesson remain source-scoped unless later evidence warrants standalone pages.

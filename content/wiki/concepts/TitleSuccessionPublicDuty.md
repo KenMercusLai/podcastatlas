@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-Hanji 738 grounds the concept through [[DingHongEasternHan|Ding Hong]] and [[BaoJunEasternHan|Bao Jun]]. After Ding's father dies, Ding should inherit the marquisate, but he reports illness and asks to yield the title to his younger brother. When the court refuses, he leaves quietly after the burial.
+汉纪 738 grounds the concept through [[DingHongEasternHan|Ding Hong]] and [[BaoJunEasternHan|Bao Jun]]. After Ding's father dies, Ding should inherit the marquisate, but he reports illness and asks to yield the title to his younger brother. When the court refuses, he leaves quietly after the burial.
 
 Bao Jun's correction changes the meaning of the act. He does not simply condemn humility, and he does not deny that old yielding stories can be honorable in some settings. Instead, he argues that examples such as Bo Yi and Ji Zha belong to disorder or special circumstances. In an ordered state, a title granted through public authority carries obligation; personal affairs cannot cancel it.
 
@@ -30,10 +30,10 @@ The result is practical rather than only moral. Ding returns, inherits, and is l
 
 ## Evidence
 
-- Refusal attempt: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Ding Hong asks to yield his father's marquisate to his younger brother by claiming illness.
-- Exit after court refusal: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Ding leaves quietly after the burial when the court does not approve the request.
-- Bao Jun's duty argument: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Bao treats Bo Yi and Ji Zha as disorder-era exceptions and argues that private affairs cannot abandon state-given responsibility.
-- Institutional outcome: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Ding returns to inherit and is later recommended and appointed shizhong.
+- Refusal attempt: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Ding Hong asks to yield his father's marquisate to his younger brother by claiming illness.
+- Exit after court refusal: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Ding leaves quietly after the burial when the court does not approve the request.
+- Bao Jun's duty argument: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Bao treats Bo Yi and Ji Zha as disorder-era exceptions and argues that private affairs cannot abandon state-given responsibility.
+- Institutional outcome: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Ding returns to inherit and is later recommended and appointed shizhong.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The concept does not prove that all yielding is empty performance or that all in
 
 ## What Changed
 
-- Created the concept from Bao Jun's correction of Ding Hong's title-yielding attempt in Hanji 738.
+- Created the concept from Bao Jun's correction of Ding Hong's title-yielding attempt in 汉纪 738.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ Field Discretion Pacification is a frontier-governance pattern where an official
 
 ## Current Synthesis
 
-Hanji 726 grounds the pattern in [[ZongJunEasternHan|Zong Jun]]'s handling of the unfinished [[WulingManLateHan|Wuling Man]] campaign after [[MaYuanEasternHan|Ma Yuan]] dies. With epidemic losses killing more than half the Han troops and the opposing side hungry, Zong Jun falsely issues an imperial surrender order, sends an acting official into the enemy camp, follows with troops, accepts surrender, disperses fighters, appoints local officials, and self-impeaches before reaching the capital. [[LiuXiu|Liu Xiu]] rewards rather than punishes him, making the action a bounded case of successful discretionary pacification rather than a general permission to fake edicts.
+汉纪 726 grounds the pattern in [[ZongJunEasternHan|Zong Jun]]'s handling of the unfinished [[WulingManLateHan|Wuling Man]] campaign after [[MaYuanEasternHan|Ma Yuan]] dies. With epidemic losses killing more than half the Han troops and the opposing side hungry, Zong Jun falsely issues an imperial surrender order, sends an acting official into the enemy camp, follows with troops, accepts surrender, disperses fighters, appoints local officials, and self-impeaches before reaching the capital. [[LiuXiu|Liu Xiu]] rewards rather than punishes him, making the action a bounded case of successful discretionary pacification rather than a general permission to fake edicts.
 
 ## Key Claims
 
@@ -26,10 +26,10 @@ Hanji 726 grounds the pattern in [[ZongJunEasternHan|Zong Jun]]'s handling of th
 
 ## Evidence
 
-- Crisis condition: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Ma Yuan is dead, epidemic deaths exceed half the army, and the Wuling Man side is also hungry and strained.
-- Unauthorized edict: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Zong Jun proposes and then issues a surrender order in the emperor's name despite the generals' fear.
-- Settlement mechanics: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says the rebels kill their leaders, submit, return to their commanderies, and receive newly appointed local officials.
-- Accountability and reward: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Zong Jun self-impeaches on the way back and Liu Xiu sends welcome, gifts, and ancestral-sacrifice permission.
+- Crisis condition: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Ma Yuan is dead, epidemic deaths exceed half the army, and the Wuling Man side is also hungry and strained.
+- Unauthorized edict: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Zong Jun proposes and then issues a surrender order in the emperor's name despite the generals' fear.
+- Settlement mechanics: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says the rebels kill their leaders, submit, return to their commanderies, and receive newly appointed local officials.
+- Accountability and reward: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Zong Jun self-impeaches on the way back and Liu Xiu sends welcome, gifts, and ancestral-sacrifice permission.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ The source does not make discretionary command a stable doctrine. It presents on
 
 ## What Changed
 
-- Created this concept from Hanji 726 to capture Zong Jun's unauthorized but successful Wuling surrender settlement.
+- Created this concept from 汉纪 726 to capture Zong Jun's unauthorized but successful Wuling surrender settlement.
 
 ## Related Concepts
 

@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-刘政 / Liu Zheng is the Hejian king in Hanji 810 whose initial arrogance and lawless behavior make him a test case for central control over royal fiefs. His current wiki profile is defined by correction: [[ShenJingLateHan|沈景]]'s appointment turns his fief from high-status disorder toward disciplined rule.
+刘政 / Liu Zheng is the Hejian king in 汉纪 810 whose initial arrogance and lawless behavior make him a test case for central control over royal fiefs. His current wiki profile is defined by correction: [[ShenJingLateHan|沈景]]'s appointment turns his fief from high-status disorder toward disciplined rule.
 
 ## Current Profile
 
-Hanji 810 says Liu Zheng inherits the Hejian kingdom after his father Liu Kai, the Hejian Xiao king, dies in 131 CE. He is then described as arrogant and lawless. [[EmperorShunOfHan|汉顺帝]] responds by sending Shen Jing as kingdom minister.
+汉纪 810 says Liu Zheng inherits the Hejian kingdom after his father Liu Kai, the Hejian Xiao king, dies in 131 CE. He is then described as arrogant and lawless. [[EmperorShunOfHan|汉顺帝]] responds by sending Shen Jing as kingdom minister.
 
 The decisive scene is Shen Jing's refusal to treat Liu Zheng's royal rank as enough when the king appears drunk and improperly dressed. Shen forces a ritual correction, rebukes Liu Zheng's tutor, punishes local bullies, releases wrongfully imprisoned people, and the source says Liu Zheng reforms. Liu Zheng therefore functions as a royal-fief governance problem corrected by an unusually firm appointee.
 
@@ -28,18 +28,18 @@ The decisive scene is Shen Jing's refusal to treat Liu Zheng's royal rank as eno
 
 ## Evidence
 
-- Inheritance and misconduct: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Liu Zheng inherits after Liu Kai's death and behaves arrogantly and lawlessly.
-- Central appointment response: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Shun sends Shen Jing as Hejian xiang.
-- Protocol correction: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Shen Jing refuses normal obeisance until Liu Zheng appears in proper royal form.
-- Reform outcome: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Liu Zheng changes after Shen's punishment of bullies and release of wrongfully imprisoned people.
+- Inheritance and misconduct: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Liu Zheng inherits after Liu Kai's death and behaves arrogantly and lawlessly.
+- Central appointment response: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Shun sends Shen Jing as Hejian xiang.
+- Protocol correction: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Shen Jing refuses normal obeisance until Liu Zheng appears in proper royal form.
+- Reform outcome: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Liu Zheng changes after Shen's punishment of bullies and release of wrongfully imprisoned people.
 
 ## Qualifications
 
-This page is bounded to Hanji 810 and does not reconstruct Liu Zheng's later rule, Hejian kingdom administration, or Liu Kai's broader biography. The moral profile is therefore narrow: Liu Zheng is important here as the object of a successful fief-discipline intervention.
+This page is bounded to 汉纪 810 and does not reconstruct Liu Zheng's later rule, Hejian kingdom administration, or Liu Kai's broader biography. The moral profile is therefore narrow: Liu Zheng is important here as the object of a successful fief-discipline intervention.
 
 ## What Changed
 
-- Created the Liu Zheng page to anchor the Hejian royal-fief correction sequence from Hanji 810.
+- Created the Liu Zheng page to anchor the Hejian royal-fief correction sequence from 汉纪 810.
 
 ## Relationships
 

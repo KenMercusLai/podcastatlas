@@ -14,9 +14,9 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 160-161 CE Huan-era layer immediately before [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]]. It opens with a source-scoped boundary-strength lesson, then contrasts [[LiuChongLateHanMinister|刘宠]]'s clean [[KuaijiCommandery|会稽郡]] governance with [[GuoHongLateHan|郭闳]]'s obstruction of [[DuanJiongLateHan|段熲]] and [[HuHongLateHan|胡闳]]'s failed succession as Protector of the Qiang.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 160-161 CE Huan-era layer immediately before [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]]. It opens with a source-scoped boundary-strength lesson, then contrasts [[LiuChongLateHanMinister|刘宠]]'s clean [[KuaijiCommandery|会稽郡]] governance with [[GuoHongLateHan|郭闳]]'s obstruction of [[DuanJiongLateHan|段熲]] and [[HuHongLateHan|胡闳]]'s failed succession as Protector of the Qiang.
 
-The durable historical contribution is an early [[HuangfuGuiLateHan|皇甫规]] and [[RootCausePacification|查因安抚式治理]] layer. Huangfu Gui argues that the Qiang problem depends less on finding fiercer generals or rereading war books than on clear politics and law-abiding local administrators; his later victory and large surrender are followed by a new [[ShendiQiang|沈氐羌]] crisis that sets up Hanji 856's trapped, epidemic-struck army.
+The durable historical contribution is an early [[HuangfuGuiLateHan|皇甫规]] and [[RootCausePacification|查因安抚式治理]] layer. Huangfu Gui argues that the Qiang problem depends less on finding fiercer generals or rereading war books than on clear politics and law-abiding local administrators; his later victory and large surrender are followed by a new [[ShendiQiang|沈氐羌]] crisis that sets up 汉纪 856's trapped, epidemic-struck army.
 
 ## Key Claims
 
@@ -45,11 +45,11 @@ The durable historical contribution is an early [[HuangfuGuiLateHan|皇甫规]] 
 - [[LiuChongLateHanMinister|刘宠]], [[KuaijiCommandery|会稽郡]], [[HumaneLocalGovernance|仁厚地方治理]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - clean local administration and popular trust.
 - [[DuanJiongLateHan|段熲]], [[GuoHongLateHan|郭闳]], [[HuHongLateHan|胡闳]], [[XianlingQiang|先零羌]], [[ShendiQiang|沈氐羌]], [[LiangzhouLateHan|凉州]], and [[BingzhouLateHan|并州]] - failed Qiang-front command sequence before Duan's later restoration.
 - [[HuangfuGuiLateHan|皇甫规]], [[EmperorHuanOfHan|汉桓帝]], [[RootCausePacification|查因安抚式治理]], [[FrontierCommandCollapse|边郡军政崩盘]], and [[FrontierAuxiliarySupplyFailure|边兵粮饷供应失灵]] - diagnosis, appointment, victory, surrender, and renewed trapped-army crisis.
-- [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]], [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|Hanji 857]], and [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]] - immediate downstream Huangfu Gui, Duan Jiong, and frontier-reward continuations.
+- [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]], [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|汉纪 857]], and [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|汉纪 859]] - immediate downstream Huangfu Gui, Duan Jiong, and frontier-reward continuations.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source supplies the immediate prehistory for Hanji 856's Huangfu Gui crisis rather than replacing that continuation.
-- Chronology caution: the episode title is Hanji 855, while the internal chronology centers the 160 CE Liu Chong appointment and the following Qiang-front developments before the Hanji 856 continuation.
+- No settled contradiction with existing wiki pages was found. This source supplies the immediate prehistory for 汉纪 856's Huangfu Gui crisis rather than replacing that continuation.
+- Chronology caution: the episode title is 汉纪 855, while the internal chronology centers the 160 CE Liu Chong appointment and the following Qiang-front developments before the 汉纪 856 continuation.
 - Transcript/source normalization: 段颎 is linked to canonical [[DuanJiongLateHan|段熲]], and the source's "梁州" frontier setting is handled through the existing [[LiangzhouLateHan|凉州]] route.
 - Scope caution: the opening boundary-strength lesson and closing self-cultivation advice are preserved as host interpretation, not as a clinical or universal psychological claim.

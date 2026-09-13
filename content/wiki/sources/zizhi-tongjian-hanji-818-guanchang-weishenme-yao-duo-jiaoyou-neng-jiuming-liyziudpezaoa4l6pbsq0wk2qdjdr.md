@@ -13,7 +13,7 @@ last_updated: 2026-08-29
 # 《资治通鉴·汉纪》818丨官场为什么要多交友？能救命！
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 136-137 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]]. It centers on [[WangGongTaiweiLateHan|王龚]] surviving a eunuch-backed accusation because [[LiGuLateHan|李固]] appeals to [[LiangShangLateHan|梁商]], who then persuades Shun to cancel the investigation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 136-137 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]]. It centers on [[WangGongTaiweiLateHan|王龚]] surviving a eunuch-backed accusation because [[LiGuLateHan|李固]] appeals to [[LiangShangLateHan|梁商]], who then persuades Shun to cancel the investigation.
 
 The episode then links court protection failure to local and frontier instability. [[LiangJiLateHan|梁冀]] murders the informer Lu Fang and turns the cover-up into mass punishment; [[YuXuEasternHan|虞诩]] warns against increasing [[WulingManLateHan|武陵蛮]] taxes but is ignored; the Wuling and Xianglin crises show how fiscal extraction and long-distance conscription can turn submitted or auxiliary groups into rebels. [[FaZhenEasternHan|法真]]'s refusal to serve and Wang Gong's later retreat from impeaching [[ZhangFangEunuchLateHan|张防]] keep the episode's survival theme explicit.
 
@@ -39,10 +39,10 @@ The episode then links court protection failure to local and frontier instabilit
 - [[EmperorShunOfHan|汉顺帝]], [[ZhangFangEunuchLateHan|张防]], and [[YangZhenLateHan|杨震]] - Shun-era anti-eunuch speech, investigation power, and remembered retaliation risk.
 - [[LiangJiLateHan|梁冀]], [[OuterRelativeCourtPower|外戚专权与清算]], and [[RetaliatoryPoliticalTerror|报复性政治恐怖]] - Henan Yin misconduct, Lu Fang's murder, framed enemies, and mass execution prefigure later Liang violence.
 - [[YuXuEasternHan|虞诩]], [[WulingManLateHan|武陵蛮]], [[LiJinWulingLateHan|李进]], and [[TaxationStabilityTradeoff|税赋与地方稳定权衡]] - Wuling tax increase, revolt, suppression, and administrative repair.
-- [[FrontierConscriptionBackfire|边疆征发反噬]], [[JiaozhiCommandery|交趾郡]], and [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] - Xianglin rescue conscription and the southern-frontier crisis that Li Gu addresses in the next episode.
+- [[FrontierConscriptionBackfire|边疆征发反噬]], [[JiaozhiCommandery|交趾郡]], and [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] - Xianglin rescue conscription and the southern-frontier crisis that Li Gu addresses in the next episode.
 - [[FaZhenEasternHan|法真]] and [[ScholarOfficialPublicDuty|士大夫公共责任]] - refusal to serve as a source-scoped contrast with dangerous court office.
 
 ## Contradictions
-- No settled contradiction found. This source backfills the 136-137 CE layer before Hanji 819's 138 CE Jiaozhi solution, Hanji 820's 139-140 Liang Shang layer, and Hanji 821's 141 Liang Ji office handoff.
+- No settled contradiction found. This source backfills the 136-137 CE layer before 汉纪 819's 138 CE Jiaozhi solution, 汉纪 820's 139-140 Liang Shang layer, and 汉纪 821's 141 Liang Ji office handoff.
 - Identity caution: the episode transcript writes 王公, 梁毅, 于许, 法贞, 张坊, and 屈联-style forms; this ingest normalizes the durable routes to [[WangGongTaiweiLateHan|王龚]], [[LiangJiLateHan|梁冀]], [[YuXuEasternHan|虞诩]], [[FaZhenEasternHan|法真]], and [[ZhangFangEunuchLateHan|张防]], while keeping Lu Fang, Lu Yi, Song E, the nine marquises, Qu Lian, Jia Chang, Zhou Jin, and exact place or office details source-scoped.
 - Disambiguation caution: [[WangGongTaiweiLateHan|王龚]] is kept separate from existing [[WangGongLateHan|王肱]], and [[LiJinWulingLateHan|李进]] is kept separate from existing [[LiJinLateHan|李进]] in the Lu Bu branch.

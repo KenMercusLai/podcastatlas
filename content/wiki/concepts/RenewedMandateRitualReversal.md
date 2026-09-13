@@ -14,7 +14,7 @@ Renewed mandate ritual reversal / 再受命改制合法性反噬 is the pattern 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] supplies the current core case through [[HanAidi|汉哀帝]]. Aidi accepts [[XiaHeliangWesternHan|夏贺良]]'s claim that illness and disasters require renewed mandate ritual, changes the reign title to Taichu, adopts "陈圣刘太平皇帝," and changes the water-clock scale. When disease and disorder do not improve, he revokes most of the edict and executes Xia's group.
+[[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] supplies the current core case through [[HanAidi|汉哀帝]]. Aidi accepts [[XiaHeliangWesternHan|夏贺良]]'s claim that illness and disasters require renewed mandate ritual, changes the reign title to Taichu, adopts "陈圣刘太平皇帝," and changes the water-clock scale. When disease and disorder do not improve, he revokes most of the edict and executes Xia's group.
 
 The source's key judgment is not simply that Aidi was superstitious. In a polity where Liu-house rule depends on bloodline and Heaven's favor, announcing a new mandate implies the old one is defective. Reversing the announcement then compounds the problem: the ruler has exposed his own uncertainty, the court's judgment failure, and the fragility of the sacred symbols meant to stabilize rule.
 
@@ -28,9 +28,9 @@ The source's key judgment is not simply that Aidi was superstitious. In a polity
 
 ## Evidence
 
-- Aidi reset: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Aidi changes year title, imperial title, and water-clock scale after Xia Heliang's disaster warning.
-- Failure and reversal: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says the promised health improvement does not appear, so Aidi revokes most of the June edict in August.
-- Legitimacy cost: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] argues that "changed then revoked" weakens imperial credibility in a society that treats Heaven-backed kingship as serious.
+- Aidi reset: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Aidi changes year title, imperial title, and water-clock scale after Xia Heliang's disaster warning.
+- Failure and reversal: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says the promised health improvement does not appear, so Aidi revokes most of the June edict in August.
+- Legitimacy cost: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] argues that "changed then revoked" weakens imperial credibility in a society that treats Heaven-backed kingship as serious.
 
 ## Counterevidence & Qualifications
 
@@ -38,7 +38,7 @@ The source does not prove that commoners uniformly interpreted the reversal in t
 
 ## What Changed
 
-- Created from Hanji 581 to capture Aidi's failed renewed-mandate reform as a legitimacy-backfire pattern.
+- Created from 汉纪 581 to capture Aidi's failed renewed-mandate reform as a legitimacy-backfire pattern.
 
 ## Related Concepts
 

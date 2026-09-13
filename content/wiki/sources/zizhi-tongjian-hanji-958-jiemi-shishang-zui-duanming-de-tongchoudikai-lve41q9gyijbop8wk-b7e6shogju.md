@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] late-Han field after [[DongZhuo|董卓]] controls the court and local warlords compete under the broken surface of the [[AntiDongZhuoCoalition|反董卓联盟]]. It follows [[GongsunZan|公孙瓒]] from victory over the [[QingzhouYellowTurbans|青州黄巾军]] through the [[LiuYuLateHan|刘虞]]-[[YuanShu|袁术]] cavalry dispute, [[GongsunYueLateHan|公孙越]]'s death, and the fast turn from cooperation with [[YuanShao|袁绍]] into northern rivalry. The closing section introduces [[LiuBei|刘备]] as a low-resource Han-clan actor whose reputation, restraint, and social style become early political assets.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|汉纪 959]] late-Han field after [[DongZhuo|董卓]] controls the court and local warlords compete under the broken surface of the [[AntiDongZhuoCoalition|反董卓联盟]]. It follows [[GongsunZan|公孙瓒]] from victory over the [[QingzhouYellowTurbans|青州黄巾军]] through the [[LiuYuLateHan|刘虞]]-[[YuanShu|袁术]] cavalry dispute, [[GongsunYueLateHan|公孙越]]'s death, and the fast turn from cooperation with [[YuanShao|袁绍]] into northern rivalry. The closing section introduces [[LiuBei|刘备]] as a low-resource Han-clan actor whose reputation, restraint, and social style become early political assets.
 
 ## Key Claims
 
@@ -46,10 +46,10 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[YuanShao|袁绍]], [[YuanShu|袁术]], [[SunJianLateHan|孙坚]], [[ZhouAngLateHan|周昂]], [[GongsunYueLateHan|公孙越]], and [[GongsunFanLateHan|公孙范]] - anti-Dong-Zhuo ally field turning into proxy seizure, death, and defection.
 - [[AntiDongZhuoCoalition|反董卓联盟]], [[CommonEnemyAlliance|共同敌人联盟]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and [[InterestBasedCoalitionSabotage|利益瓦解合纵]] - coalition logic and failure modes sharpened by this episode.
 - [[LiuBei|刘备]], [[TalentAsStateTreasure|以贤臣为宝]], [[LocalEliteProxySelection|地方豪强代理人选择]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - the later Liu Bei branch's early reputation and conduct setup.
-- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] and [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] - adjacent episodes that continue the survival, camp-choice, and Gongsun Zan/Yuan Shao northern-war branch.
+- [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|汉纪 959]] and [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|汉纪 960]] - adjacent episodes that continue the survival, camp-choice, and Gongsun Zan/Yuan Shao northern-war branch.
 
 ## Contradictions
 
-- No settled contradiction is recorded. The episode backfills the coalition and northern-rivalry prelude before Hanji 959-960 rather than reversing their later survival and Jieqiao accounts.
+- No settled contradiction is recorded. The episode backfills the coalition and northern-rivalry prelude before 汉纪 959-960 rather than reversing their later survival and Jieqiao accounts.
 - Source-scope caution: the host's modern power-table metaphor and Liu Bei management-style generalizations are treated as interpretive framing, not as standalone historical evidence.
 - Source-scope caution: the episode presents Gongsun Yue's death as a fuse, while preserving the broader power-struggle explanation as the deeper cause of the Yuan Shao-Gongsun Zan rupture.

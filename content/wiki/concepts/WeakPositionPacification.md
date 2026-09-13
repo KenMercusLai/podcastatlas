@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 Weak-position pacification is a governance pattern in which a formally appointed actor lacks immediate troops, grain, or territorial depth, so they convert recognized title into real order through reassurance, negotiated autonomy, office grants, livelihood repair, and delayed defensive consolidation.
 
 ## Current Synthesis
-Hanji 1051 introduces the pattern through [[LiuFuLateHan|Liu Fu]] in western [[YangzhouLateHan|Yangzhou]]. Unlike force-backed surrender persuasion, Liu Fu starts from a nearly empty [[HefeiLateHan|Hefei]] and cannot rely on overwhelming military pressure. His method is to make imperial appointment visible, reduce local fear, give armed leaders a way to keep face and status, make submission economically beneficial, and only then harden the base with walls and stores.
+汉纪 1051 introduces the pattern through [[LiuFuLateHan|Liu Fu]] in western [[YangzhouLateHan|Yangzhou]]. Unlike force-backed surrender persuasion, Liu Fu starts from a nearly empty [[HefeiLateHan|Hefei]] and cannot rely on overwhelming military pressure. His method is to make imperial appointment visible, reduce local fear, give armed leaders a way to keep face and status, make submission economically beneficial, and only then harden the base with walls and stores.
 
 ## Key Claims
 - Formal title can substitute for initial force only when it is quickly converted into visible institutions.
@@ -26,13 +26,13 @@ Hanji 1051 introduces the pattern through [[LiuFuLateHan|Liu Fu]] in western [[Y
 
 ## Evidence
 **Title before force**
-- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|Hanji 1051]] describes Liu Fu establishing the Yangzhou office at Hefei and standing on court appointment before fighting.
+- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|汉纪 1051]] describes Liu Fu establishing the Yangzhou office at Hefei and standing on court appointment before fighting.
 
 **Absorption through status and safety**
-- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|Hanji 1051]] emphasizes reassurance, partial autonomy, office grants, tribute, and nominal obedience as the mechanism for integrating local armed groups.
+- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|汉纪 1051]] emphasizes reassurance, partial autonomy, office grants, tribute, and nominal obedience as the mechanism for integrating local armed groups.
 
 **Material and defensive follow-through**
-- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|Hanji 1051]] links water works, agriculture, crafts, schooling, fortification, and stored materials to the long-term conversion of Hefei into a base.
+- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|汉纪 1051]] links water works, agriculture, crafts, schooling, fortification, and stored materials to the long-term conversion of Hefei into a base.
 
 ## Counterevidence & Qualifications
 The current concept is built from one source and from the host's interpretive emphasis. It overlaps with other absorption and leniency patterns, but its distinguishing feature is the starting asymmetry: the pacifying actor has recognized office before they have meaningful force.

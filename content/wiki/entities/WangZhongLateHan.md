@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 王忠 / Wang Zhong (late Han)
 
 ## Overview
-王忠 / Wang Zhong enters the wiki through Hanji 1040 as the zhonglangjiang paired with [[LiuDaiSikongZhangshi|刘岱]] in [[CaoCao|曹操]]'s first attack on [[LiuBei|刘备]] after Liu Bei's Xuzhou breakaway.
+王忠 / Wang Zhong enters the wiki through 汉纪 1040 as the zhonglangjiang paired with [[LiuDaiSikongZhangshi|刘岱]] in [[CaoCao|曹操]]'s first attack on [[LiuBei|刘备]] after Liu Bei's Xuzhou breakaway.
 
 ## Current Profile
 The source gives Wang Zhong a compact military role. He is a failed punitive commander whose defeat helps mark the scale of Liu Bei's recovery after killing [[CheZhouLateHan|车胄]] and gathering support in [[Xuzhou|徐州]].
@@ -28,7 +28,7 @@ The source gives Wang Zhong a compact military role. He is a failed punitive com
 - Strategic meaning: [[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x]] follows the defeat with Liu Bei's boast that even Cao Cao personally might not certainly win.
 
 ## Qualifications
-The page records only Hanji 1040's campaign role and should not be treated as a full biography.
+The page records only 汉纪 1040's campaign role and should not be treated as a full biography.
 
 ## What Changed
 - Created the page for the failed Cao-side counterattack against Liu Bei.

@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Wenren Xi is a late-Han taiwei removed from office in Hanji 891's 169 CE Three Excellencies turnover.
+Wenren Xi is a late-Han taiwei removed from office in 汉纪 891's 169 CE Three Excellencies turnover.
 
 ## Current Profile
 
@@ -27,9 +27,9 @@ The current wiki evidence gives Wenren Xi only as an office-churn marker. His re
 
 ## Evidence
 
-- Office removal: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] says Wenren Xi is removed as taiwei in May 169.
-- Appointment context: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] uses his removal to introduce the next month's appointment of Liu Chong as taiwei.
-- Court-churn role: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] keeps Wenren Xi in a sequence where office movement matters more than individual biography.
+- Office removal: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] says Wenren Xi is removed as taiwei in May 169.
+- Appointment context: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] uses his removal to introduce the next month's appointment of Liu Chong as taiwei.
+- Court-churn role: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] keeps Wenren Xi in a sequence where office movement matters more than individual biography.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ No current source in the wiki explains why Wenren Xi is removed. The page should
 
 ## What Changed
 
-- Created the page from Hanji 891's May 169 taiwei removal notice.
+- Created the page from 汉纪 891's May 169 taiwei removal notice.
 
 ## Relationships
 

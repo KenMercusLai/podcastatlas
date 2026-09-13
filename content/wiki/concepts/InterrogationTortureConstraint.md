@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Definition
 
-Interrogation torture constraint is the legal-restraint pattern in which the state bounds interrogation tools, timing, and intensity so that inquiry does not become uncontrolled punishment. Hanji 753 frames [[EmperorZhangOfHan|Emperor Zhang]]'s edict as a return to legal limits on beating implements and a ban on more cruel devices such as iron neck-clamps and needle piercing.
+Interrogation torture constraint is the legal-restraint pattern in which the state bounds interrogation tools, timing, and intensity so that inquiry does not become uncontrolled punishment. 汉纪 753 frames [[EmperorZhangOfHan|Emperor Zhang]]'s edict as a return to legal limits on beating implements and a ban on more cruel devices such as iron neck-clamps and needle piercing.
 
 ## Current Synthesis
 
@@ -30,9 +30,9 @@ The core judgment is not abolition of punishment but control over unauthorized c
 
 ## Evidence
 
-- Specified beating tools: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] says Han law provides a bounded physical-interrogation regime with tool specifications.
-- Ban on cruel additions: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] reports Zhangdi forbidding iron neck-clamps and needle piercing during interrogation.
-- Seasonal procedure: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] connects trial and punishment timing to autumn and winter conditions rather than unlimited official discretion.
+- Specified beating tools: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] says Han law provides a bounded physical-interrogation regime with tool specifications.
+- Ban on cruel additions: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] reports Zhangdi forbidding iron neck-clamps and needle piercing during interrogation.
+- Seasonal procedure: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] connects trial and punishment timing to autumn and winter conditions rather than unlimited official discretion.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The core judgment is not abolition of punishment but control over unauthorized c
 
 ## What Changed
 
-- Created this concept from Hanji 753's Zhangdi interrogation edict.
+- Created this concept from 汉纪 753's Zhangdi interrogation edict.
 
 ## Related Concepts
 

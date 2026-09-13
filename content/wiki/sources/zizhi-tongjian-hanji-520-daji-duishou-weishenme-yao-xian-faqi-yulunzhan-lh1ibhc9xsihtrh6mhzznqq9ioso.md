@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yangshuo 1 / 24 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]]. It opens from [[LegitimacyNarrativeAttack|名分合法性叙事攻击]], then returns to the aftermath of [[WangZhangWesternHan|王章]]'s death, when [[WangFengWesternHan|王凤]]'s power leaves officials fearful and [[FengYewangWesternHan|冯野王]] becomes vulnerable to a technical impeachment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yangshuo 1 / 24 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|汉纪 521]]. It opens from [[LegitimacyNarrativeAttack|名分合法性叙事攻击]], then returns to the aftermath of [[WangZhangWesternHan|王章]]'s death, when [[WangFengWesternHan|王凤]]'s power leaves officials fearful and [[FengYewangWesternHan|冯野王]] becomes vulnerable to a technical impeachment.
 
 The durable synthesis is that coercive power still needs public justification and procedural credibility. Wang Feng can remove Feng Yewang, but [[DuQingWesternHan|杜清]] warns that retroactive punishment and secret accusations will damage state trust: if people believe Wang Zhang died for speaking honestly, the court must reopen remonstrance channels to show that direct criticism is not itself a crime.
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]]'s Heping 2 / 27 BCE [[YelangStateWesternHan|夜郎]] crisis under [[HanChengdi|汉成帝]]. [[ChenLiWesternHan|陈立]], newly appointed governor of [[ZhangkeCommanderyWesternHan|牂柯郡]], stops waiting for delayed court authorization, enters Xing's territory under an inspection pretext, and kills [[YelangKingXingWesternHan|夜郎王兴]] at Qietong Pavilion.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|汉纪 512]]'s Heping 2 / 27 BCE [[YelangStateWesternHan|夜郎]] crisis under [[HanChengdi|汉成帝]]. [[ChenLiWesternHan|陈立]], newly appointed governor of [[ZhangkeCommanderyWesternHan|牂柯郡]], stops waiting for delayed court authorization, enters Xing's territory under an inspection pretext, and kills [[YelangKingXingWesternHan|夜郎王兴]] at Qietong Pavilion.
 
 The durable synthesis is that fitted frontier command combines courage with method. Chen Li's killing of Xing creates immediate [[CoerciveFrontierDeterrence|强制边疆震慑]], but the episode's fuller lesson comes afterward: when Xing's father-in-law Wengzhi and son Yewu continue resistance, Chen Li cuts grain roads, uses counterintelligence, seizes water, and lets internal collapse do the work that Wan Nian's premature assault cannot.
 
@@ -37,9 +37,9 @@ The durable synthesis is that fitted frontier command combines courage with meth
 ## Connections
 
 - [[ChenLiWesternHan|陈立]], [[YelangKingXingWesternHan|夜郎王兴]], [[YelangStateWesternHan|夜郎]], and [[ZhangkeCommanderyWesternHan|牂柯郡]] - the core frontier sequence from appointment to targeted killing and pacification.
-- [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]], [[DuQingWesternHan|杜清]], and [[PreventiveFrontierGovernance|治未病式边疆治理]] - the previous episode's preparation logic becomes Chen Li's operational choice.
+- [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|汉纪 512]], [[DuQingWesternHan|杜清]], and [[PreventiveFrontierGovernance|治未病式边疆治理]] - the previous episode's preparation logic becomes Chen Li's operational choice.
 - [[CoerciveFrontierDeterrence|强制边疆震慑]] - Xing's rapid execution and head display show targeted punishment as a message to surrounding rulers and troops.
-- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - Chen Li's success turns the abstract appointment principle from Hanji 512 into a concrete governor-fit case.
+- [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - Chen Li's success turns the abstract appointment principle from 汉纪 512 into a concrete governor-fit case.
 - [[WarCostTempoDiscipline|战争成本与速决纪律]] - Chen Li saves cost by striking the leader quickly, then avoids Wan Nian's premature direct assault by attacking food, water, and cohesion.
 
 ## Contradictions

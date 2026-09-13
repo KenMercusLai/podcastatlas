@@ -16,7 +16,7 @@ last_updated: 2026-09-13
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses [[YanYannianWesternHan|严延年]] to argue that rule through terror can look efficient while destroying the trust a governor needs to survive. Yan neglects a Henan locust crisis, resents [[EmperorXuanOfHan|汉宣帝]] for canceling his expected Zuo Fengyi promotion, is denounced by a terrified subordinate, and is finally executed by public beheading.
 
-The second half continues the [[Xiongnu|匈奴]] succession-fragmentation thread from [[zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr|Hanji 446]] into the collapse of Woyanqudi Chanyu. His killing and loss of support let [[HuhanyeChanyuWesternHan|呼韩邪单于]] rise, while the emergence of Tuqi Chanyu sets up the later five-chanyu crisis in [[zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm|Hanji 449]].
+The second half continues the [[Xiongnu|匈奴]] succession-fragmentation thread from [[zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr|汉纪 446]] into the collapse of Woyanqudi Chanyu. His killing and loss of support let [[HuhanyeChanyuWesternHan|呼韩邪单于]] rise, while the emergence of Tuqi Chanyu sets up the later five-chanyu crisis in [[zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm|汉纪 449]].
 
 ## Key Claims
 

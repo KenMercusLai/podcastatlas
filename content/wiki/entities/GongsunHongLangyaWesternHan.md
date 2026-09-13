@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Overview
 
-公孙洪 / Gongsun Hong is the Langya administrator in [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] who is killed after refusing to join the 5 CE praise chorus around [[WangMang|王莽]] and discussing disasters in his commandery office. He is distinct from [[GongsunHong|公孙弘]], the Han Wudi-era minister already present in the wiki.
+公孙洪 / Gongsun Hong is the Langya administrator in [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] who is killed after refusing to join the 5 CE praise chorus around [[WangMang|王莽]] and discussing disasters in his commandery office. He is distinct from [[GongsunHong|公孙弘]], the Han Wudi-era minister already present in the wiki.
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ Once [[ZhenFengXinOfficial|甄丰]] encourages local accusation channels, Gongsu
 
 ## Evidence
 
-- Non-praise and disaster speech: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] says Gongsun Hong did not praise the court and discussed disaster events in his commandery office.
-- Accusation process: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] says Zhen Feng's side encourages local accusations that Gongsun Hong fabricated disaster news and hated the court's sacred policies.
-- Fatal outcome: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] says Gongsun Hong is arrested separately and killed after Wang Zhengjun distinguishes Ban Zhi's case.
+- Non-praise and disaster speech: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] says Gongsun Hong did not praise the court and discussed disaster events in his commandery office.
+- Accusation process: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] says Zhen Feng's side encourages local accusations that Gongsun Hong fabricated disaster news and hated the court's sacred policies.
+- Fatal outcome: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] says Gongsun Hong is arrested separately and killed after Wang Zhengjun distinguishes Ban Zhi's case.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 625. It does not settle Gongsun Hong's full biography, the factual status of the disaster reports, the legal procedure behind the execution, or his private attitude toward Wang Mang.
+This page is source-bounded to 汉纪 625. It does not settle Gongsun Hong's full biography, the factual status of the disaster reports, the legal procedure behind the execution, or his private attitude toward Wang Mang.
 
 ## What Changed
 
-- Created from Hanji 625 as the Langya administrator killed after disaster talk and non-praise are treated as political hostility.
+- Created from 汉纪 625 as the Langya administrator killed after disaster talk and non-praise are treated as political hostility.
 
 ## Relationships
 

@@ -9,7 +9,7 @@ last_updated: 2026-08-31
 ---
 
 ## Overview
-The Baihu Guan Conference is the 79 CE court gathering where [[EmperorZhangOfHan|Emperor Zhang]] convenes officials and Confucian scholars to debate differences in the Five Classics. In [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]], it turns [[YangZhongEasternHan|Yang Zhong]]'s concern about fragmented scholastic commentary into an official state process recorded as `白虎议奏`.
+The Baihu Guan Conference is the 79 CE court gathering where [[EmperorZhangOfHan|Emperor Zhang]] convenes officials and Confucian scholars to debate differences in the Five Classics. In [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]], it turns [[YangZhongEasternHan|Yang Zhong]]'s concern about fragmented scholastic commentary into an official state process recorded as `白虎议奏`.
 
 ## Current Profile
 The conference follows [[YangZhongEasternHan|Yang Zhong]]'s recommendation that [[EmperorZhangOfHan|Emperor Zhang]] imitate Emperor Xuan's Shiquge precedent and use court authority to clarify Five Classics disagreements. Zhang orders generals, senior officials, doctors, palace attendants, and Confucian scholars to assemble at Baihu Guan. Wei Yingcheng asks the first questions, Chunyu Gong reports the discussions, and Zhang personally attends and records the proceedings.
@@ -24,9 +24,9 @@ Its political significance is not only scholastic. The episode presents the gath
 - It brings together officials, Confucian scholars, and royal kin, showing classics learning as a court-wide governance issue.
 
 ## Evidence
-- Imperial sponsorship: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says Zhang ordered multiple official and scholarly groups to discuss Five Classics differences at Baihu Guan and personally attended.
-- Scholastic problem: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] frames [[YangZhongEasternHan|Yang Zhong]]'s proposal as a response to scholars who over-focused on annotations and lost the larger meaning of the classics.
-- Institutional recording: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] links the proceedings to `白虎议奏`, with Wei Yingcheng questioning first and Chunyu Gong reporting.
+- Imperial sponsorship: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] says Zhang ordered multiple official and scholarly groups to discuss Five Classics differences at Baihu Guan and personally attended.
+- Scholastic problem: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] frames [[YangZhongEasternHan|Yang Zhong]]'s proposal as a response to scholars who over-focused on annotations and lost the larger meaning of the classics.
+- Institutional recording: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] links the proceedings to `白虎议奏`, with Wei Yingcheng questioning first and Chunyu Gong reporting.
 
 ## Qualifications
 The current wiki evidence comes from one episode's summary of the event. It identifies the conference's political and intellectual role but does not yet provide the content of the debated classics positions or a full participant roster beyond the named examples.

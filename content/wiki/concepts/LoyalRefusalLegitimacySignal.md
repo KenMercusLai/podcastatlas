@@ -14,7 +14,7 @@ last_updated: 2026-09-06
 忠臣拒降合法性信号 / loyal refusal legitimacy signal is the pattern where a victor or defector gains reputational value by tolerating a visible loyalist who refuses to abandon a defeated patron. The refusal marks the surrender environment as morally legible, and sparing the refuser lets the new ruler appear confident, humane, and capable of containing principled dissent.
 
 ## Current Synthesis
-Hanji 1070 creates the concept through [[HanHengLateHan|韩恒]] at [[JiaoChuLateHan|焦触]]'s blood-oath assembly. Jiao Chu coerces officials into abandoning the Yuan family and submitting to [[CaoCao|曹操]], but Han Heng refuses because he has received deep favor from [[YuanShao|袁绍]] and his sons. If Jiao Chu kills him, the oath becomes pure terror; by releasing him, Jiao Chu and Cao Cao's side can absorb the surrender while letting one loyal exception advertise that moral opposition is survivable.
+汉纪 1070 creates the concept through [[HanHengLateHan|韩恒]] at [[JiaoChuLateHan|焦触]]'s blood-oath assembly. Jiao Chu coerces officials into abandoning the Yuan family and submitting to [[CaoCao|曹操]], but Han Heng refuses because he has received deep favor from [[YuanShao|袁绍]] and his sons. If Jiao Chu kills him, the oath becomes pure terror; by releasing him, Jiao Chu and Cao Cao's side can absorb the surrender while letting one loyal exception advertise that moral opposition is survivable.
 
 The host's interpretation is explicitly political. Han Heng's refusal is called inflexible or "foolish" loyalty in one register, but it also becomes useful political material: Cao Cao gains by looking like a ruler who can include defectors without needing to crush every old-regime loyalist.
 
@@ -26,15 +26,15 @@ The host's interpretation is explicitly political. Han Heng's refusal is called 
 - The pattern differs from ordinary pardon because the spared person has not joined the victor.
 
 ## Evidence
-- Coercive oath setting: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Jiao Chu gathers officials, kills a white horse, and threatens execution for refusal.
-- Loyal refusal: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Han Heng refuses because Yuan-family favor binds his integrity.
-- Legitimacy signal: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] interprets Jiao Chu's release of Han Heng and Cao Cao's acceptance of the surrendered group as useful to Cao Cao's reputation for tolerating loyal ministers.
+- Coercive oath setting: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] says Jiao Chu gathers officials, kills a white horse, and threatens execution for refusal.
+- Loyal refusal: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] says Han Heng refuses because Yuan-family favor binds his integrity.
+- Legitimacy signal: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] interprets Jiao Chu's release of Han Heng and Cao Cao's acceptance of the surrendered group as useful to Cao Cao's reputation for tolerating loyal ministers.
 
 ## Counterevidence & Qualifications
 The concept currently rests on one episode and should remain narrower than a general theory of clemency. Han Heng's refusal does not prove Cao Cao always tolerated moral dissent, and the source itself qualifies Han Heng's conduct as possibly rigid loyalty. The concept also depends on publicity: a hidden pardon would not create the same signal.
 
 ## What Changed
-- Created this concept from Hanji 1070's Han Heng refusal and Jiao Chu release scene.
+- Created this concept from 汉纪 1070's Han Heng refusal and Jiao Chu release scene.
 
 ## Related Concepts
 - [[StrategicDefectorIncorporation|纳叛安抚式整合]] - adjacent settlement pattern in which the victor incorporates surrendering or formerly hostile actors.

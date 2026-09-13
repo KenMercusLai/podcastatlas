@@ -47,6 +47,6 @@ This episode profiles [[GengYanEasternHan|耿弇 / Geng Yan]] as an Eastern Han 
 - [[PowerCompletionRetreat|功成退让]] - concept for returning high command once founding merit has been achieved.
 
 ## Contradictions
-- No settled contradiction with existing wiki content was found; this source backfills the Guangwu founding period before the Hanji 733-3 and Yongping-era sequence.
+- No settled contradiction with existing wiki content was found; this source backfills the Guangwu founding period before the 汉纪 733-3 and Yongping-era sequence.
 - The 王郎 in this episode is treated as [[WangLangHebeiClaimant|王郎 / Wang Lang (Hebei Claimant)]], distinct from [[WangLangLateHan|王朗 / Wang Lang (Late Han)]].
 - Minor Qinghe/Qi names, exact force and city counts, and the host's personal-growth readings remain source-scoped pending external textual verification.

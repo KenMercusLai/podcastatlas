@@ -20,7 +20,7 @@ The page is deliberately source-scoped. In this wiki branch, Guiguzi matters bec
 
 [[zizhi-tongjian-zhouji-56-qiaoqiao-liangqian-duo-nianqian-sha-shi-da-zhangfu-ltokbutqgsnrno-y29xmzwa3da41]] cites Guiguzi through [[YangXiong|扬雄]]'s [[Fayan|《法言》]] critique. The passage, as presented by the episode, says Zhang Yi and Su Qin learned from Guiguzi and used hezong/lianheng arts, but Yang Xiong denies that effectiveness or temporary order makes those arts morally acceptable.
 
-[[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] cites the Guiguzi line "谋之于阴，成之于阳" while interpreting [[LiuChongChenKing|刘宠]]'s death. Here Guiguzi is not a student-lineage marker; the episode uses the text to argue that public action depends on hidden planning and on protecting oneself from the backlash of "势."
+[[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|汉纪 1019]] cites the Guiguzi line "谋之于阴，成之于阳" while interpreting [[LiuChongChenKing|刘宠]]'s death. Here Guiguzi is not a student-lineage marker; the episode uses the text to argue that public action depends on hidden planning and on protecting oneself from the backlash of "势."
 
 ## Connections
 - [[SunBin|孙膑]] and [[PangJuan|庞涓]] - students named by the earlier source.
@@ -28,7 +28,7 @@ The page is deliberately source-scoped. In this wiki branch, Guiguzi matters bec
 - [[YinfuJing|《阴符》]] and [[ChuaimoTechnique|揣摩]] - Zhouji 30 text-and-technique branch.
 - [[HezongAlliance|合纵]] and [[LianhengStrategy|连横]] - Zhouji 31 rival paths followed by the student pair.
 - [[YangXiong|扬雄]], [[Fayan|《法言》]], and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - Zhouji 56 moral critique of Guiguzi-linked persuader arts.
-- [[LiuChongChenKing|刘宠]], [[YuanShu|袁术]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - Hanji 1019 use of Guiguzi language for hidden planning and dangerous momentum.
+- [[LiuChongChenKing|刘宠]], [[YuanShu|袁术]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - 汉纪 1019 use of Guiguzi language for hidden planning and dangerous momentum.
 - [[WarringStatesPeriod|战国时期]] - historical setting for the strategist tradition in the episode.
 - [[TianJiHorseRacing]] and [[EncirclingWeiToRescueZhao]] - later Sun Bin strategy branch.
 - [[WeiState|魏国]] and [[QiState|齐国]] - states in which the students' rivalry becomes political.

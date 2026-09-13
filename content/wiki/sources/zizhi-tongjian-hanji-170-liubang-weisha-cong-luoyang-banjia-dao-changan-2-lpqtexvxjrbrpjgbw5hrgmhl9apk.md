@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the title promise left open by [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]]. It first contrasts [[DingGong|丁公]] with [[JiBu|季布]], showing how [[LiuBang|刘邦]] used one former enemy as a pardonable loyalty example and the other as a warning against betraying one's office. It then moves from [[Luoyi|洛阳 / 洛邑]] to [[ChangAnHanCapital|长安]]: [[LouJing|楼敬]] and [[ZhangLiang|张良]] persuade Liu Bang that a war-made dynasty needs the defensive geography, resources, and transport logic of [[GuanzhongRegion|关中]] rather than Zhou-style symbolic centrality.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the title promise left open by [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|汉纪 170 part 1]]. It first contrasts [[DingGong|丁公]] with [[JiBu|季布]], showing how [[LiuBang|刘邦]] used one former enemy as a pardonable loyalty example and the other as a warning against betraying one's office. It then moves from [[Luoyi|洛阳 / 洛邑]] to [[ChangAnHanCapital|长安]]: [[LouJing|楼敬]] and [[ZhangLiang|张良]] persuade Liu Bang that a war-made dynasty needs the defensive geography, resources, and transport logic of [[GuanzhongRegion|关中]] rather than Zhou-style symbolic centrality.
 
 ## Key Claims
 - Ding Gong once let Liu Bang escape during the [[PengchengBattle|彭城之战]], but after Xiang Yu's fall Liu Bang executes him publicly for failing to remain loyal to [[XiangYu|项羽]].
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 > "鸟尽弓藏"
 
 ## Connections
-- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] - prior half of the same title, where Ji Bu's pardon and Tian Heng's death set the post-accession cleanup frame.
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|汉纪 170 part 1]] - prior half of the same title, where Ji Bu's pardon and Tian Heng's death set the post-accession cleanup frame.
 - [[LiuBang|刘邦]], [[DingGong|丁公]], [[JiBu|季布]], and [[FormerEnemyLoyaltyReframing|旧敌忠义重释]] - the episode's positive/negative pair for defining loyalty after regime change.
 - [[LouJing|楼敬]], [[ZhangLiang|张良]], [[Luoyi|洛阳 / 洛邑]], [[ChangAnHanCapital|长安]], and [[StrategicCapitalRelocation|战略性迁都]] - the capital-choice argument and final move.
 - [[GuanzhongRegion|关中]], [[HanguPass|函谷关]], [[BaShu|巴蜀]], and [[WesternHanDynasty|西汉]] - geographic and dynastic base created by the relocation.

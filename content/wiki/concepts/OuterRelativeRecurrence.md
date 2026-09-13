@@ -10,11 +10,11 @@ last_updated: 2026-08-30
 
 ## Definition
 
-外戚轮回 / outer-relative recurrence is the Hanji 770 pattern in which one maternal clan's suppressed grievance is corrected, but the correction can elevate another maternal clan into the same structural position that later produces court danger.
+外戚轮回 / outer-relative recurrence is the 汉纪 770 pattern in which one maternal clan's suppressed grievance is corrected, but the correction can elevate another maternal clan into the same structural position that later produces court danger.
 
 ## Current Synthesis
 
-Hanji 770 introduces the pattern through the Liang family. [[LiangGuirenHeLateHan|Liang Guiren]]'s hidden status and death under [[EmpressDowagerDouHeLateHan|Dou Taihou]] create a justified grievance. Once [[EmperorHeOfHan|Emperor He]] learns the truth, he posthumously honors Liang, recalls her relatives, grants titles, and gives the family favor.
+汉纪 770 introduces the pattern through the Liang family. [[LiangGuirenHeLateHan|Liang Guiren]]'s hidden status and death under [[EmpressDowagerDouHeLateHan|Dou Taihou]] create a justified grievance. Once [[EmperorHeOfHan|Emperor He]] learns the truth, he posthumously honors Liang, recalls her relatives, grants titles, and gives the family favor.
 
 The source's closing warning is that this repair also begins the Liang family's rise. The episode does not argue that the redress is wrong; rather, it says redress can create a new outer-relative power channel. A formerly victimized maternal line may become a later problem once titles, proximity, gratitude, and kinship combine.
 
@@ -30,18 +30,18 @@ The concept is narrower than [[OuterRelativeCourtPower|outer-relative court powe
 
 ## Evidence
 
-- Victimized maternal line: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Liang Guiren bore Emperor He, had no proper status, and died under Dou Taihou's pressure.
-- Status repair: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He honors Liang, Liang Song, and the Liang relatives with title, burial, recall, rewards, and favor.
-- Recurrence warning: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] explicitly says the Liang family rises from this point and later becomes a court harm.
-- Ethical boundary: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] praises Emperor He's bounded redress, showing that later risk does not erase the justice of the immediate repair.
+- Victimized maternal line: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] says Liang Guiren bore Emperor He, had no proper status, and died under Dou Taihou's pressure.
+- Status repair: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] says Emperor He honors Liang, Liang Song, and the Liang relatives with title, burial, recall, rewards, and favor.
+- Recurrence warning: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] explicitly says the Liang family rises from this point and later becomes a court harm.
+- Ethical boundary: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] praises Emperor He's bounded redress, showing that later risk does not erase the justice of the immediate repair.
 
 ## Counterevidence & Qualifications
 
-The current page is grounded in one source's foreshadowing rather than a full Liang-family chronology. It should be read as a bridge concept between Hanji 770's redress settlement and later pages on mature Liang-family power, not as proof that every restored maternal family necessarily becomes dangerous.
+The current page is grounded in one source's foreshadowing rather than a full Liang-family chronology. It should be read as a bridge concept between 汉纪 770's redress settlement and later pages on mature Liang-family power, not as proof that every restored maternal family necessarily becomes dangerous.
 
 ## What Changed
 
-- Created the concept from Hanji 770's warning that Liang-family redress begins another outer-relative cycle.
+- Created the concept from 汉纪 770's warning that Liang-family redress begins another outer-relative cycle.
 
 ## Related Concepts
 

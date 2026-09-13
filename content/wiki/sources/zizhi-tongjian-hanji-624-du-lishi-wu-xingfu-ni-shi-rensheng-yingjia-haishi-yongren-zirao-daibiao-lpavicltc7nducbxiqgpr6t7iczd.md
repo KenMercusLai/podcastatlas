@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 4-5 CE, immediately before [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] and the later [[HanPingdi|汉平帝]] succession crisis. It links the host's "庸人自扰" happiness frame to [[WangMang|王莽]]'s expanding late-Western-Han administration: [[XihaiExileAdministrativeBurden|西海郡流放和法令增殖]], the death of [[LiuLiWesternHan|梁王刘丽]], repeated territorial and office rearrangements, and the escalation of ceremonial reward politics.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 4-5 CE, immediately before [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] and the later [[HanPingdi|汉平帝]] succession crisis. It links the host's "庸人自扰" happiness frame to [[WangMang|王莽]]'s expanding late-Western-Han administration: [[XihaiExileAdministrativeBurden|西海郡流放和法令增殖]], the death of [[LiuLiWesternHan|梁王刘丽]], repeated territorial and office rearrangements, and the escalation of ceremonial reward politics.
 
 The durable synthesis is that Wang Mang's pre-usurpation rise is shown here as both administrative overreach and ritualized status inflation. The court converts mass petitioning, staged refusal, [[WangZhengjun|王政君]]'s emotional endorsement, and [[ZengHanXinOfficial|曾涵]]'s reporting channel into [[JiuXiRitualPromotion|九锡礼遇]], while the closing lesson about "兼容并包" and avoiding black-and-white judgment keeps the episode's self-cultivation frame source-scoped rather than a settled psychological theory.
 
@@ -43,10 +43,10 @@ The durable synthesis is that Wang Mang's pre-usurpation rise is shown here as b
 - [[KongGuangWesternHan|孔光]] and [[MaGongWesternHan|马公]] - high-office transition from Kong Guang's death to Ma Gong's Taishi appointment.
 - [[ZengHanXinOfficial|曾涵]], [[JiuXiRitualPromotion|九锡礼遇]], and [[PublicRefusalStatusInflation|公开辞让式升格]] - political theater turning petitions and refusal into higher status.
 - [[LiAsPoliticalOrder|礼制政治秩序]] and [[RitualRenunciationPoliticalCapital|礼让辞封式政治资本]] - adjacent ritual-order and refusal-as-capital frames, though this episode concerns Wang Mang's high-stakes promotion rather than ordinary office reputation.
-- [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] - next backfill source, where the praise environment becomes coercive enough to endanger Ban Zhi and Gongsun Hong.
+- [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] - next backfill source, where the praise environment becomes coercive enough to endanger Ban Zhi and Gongsun Hong.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source is a pre-Hanji 625 backfill and should not be read as occurring after the later Pingdi death, fuming, regency, or Xin accession episodes already in the wiki.
+- Chronology qualification: this source is a pre-汉纪 625 backfill and should not be read as occurring after the later Pingdi death, fuming, regency, or Xin accession episodes already in the wiki.
 - Scope caution: exact administrative subdivisions, complete Nine Bestowments object lists, the 487,572 petition count, the Wei-family-remnant accusation against Liu Li, and Wang Mang's inner motive remain source-scoped unless later notes require canonical expansion.

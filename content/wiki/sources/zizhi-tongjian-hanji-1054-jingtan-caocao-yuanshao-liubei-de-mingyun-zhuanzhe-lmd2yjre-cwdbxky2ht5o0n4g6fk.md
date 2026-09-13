@@ -37,7 +37,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows the
 - [[XingshiqingStrategicAssessment|行势情战略评估]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - adjacent frames for timing, survival, and support accumulation.
 
 ## Contradictions
-- No settled contradiction found. The source extends Hanji 1048-1050 from Guandu crisis and aftermath into a post-Guandu pursuit and settlement phase.
+- No settled contradiction found. The source extends 汉纪 1048-1050 from Guandu crisis and aftermath into a post-Guandu pursuit and settlement phase.
 - Source-scope caution: the motivational "志气" frame and modern-life comparison are the host's interpretation, not a standalone historical claim.
-- Identity caution: [[CangtingBattleLateHan|苍亭之战]] is kept distinct from [[CangtingFordLateHan|仓亭津]], the earlier Yanzhou crossing in Hanji 979.
+- Identity caution: [[CangtingBattleLateHan|苍亭之战]] is kept distinct from [[CangtingFordLateHan|仓亭津]], the earlier Yanzhou crossing in 汉纪 979.
 - Source-scope caution: Chang Xi's exact kinship with Lü Bu is left bounded to this episode; the durable wiki claim is that Zhang Liao could use prior acquaintance and surrender guarantees in negotiation.

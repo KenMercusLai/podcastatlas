@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 178 CE late-Han layer immediately before [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|Hanji 914]]. It opens with source-scoped workplace bullying and explanation-boundary advice, then follows [[CaiYong|蔡邕]] being framed by [[ChengHuangLateHan|程璜]], spared from death after [[LyuQiangLateHan|吕强]] intercedes, and exiled to Shuofang in a way the host reads through [[FortuneMisfortuneReversal|塞翁失马式福祸反转]]. The second half adds [[EmpressSongLateHan|宋皇后]]'s death under a [[WuguPoliticalPanic|巫蛊政治恐慌]] accusation, [[LuZhiLateHan|卢植]]'s ignored memorial on party prisoners, empress-family burial, local-official tenure, and appointment standards, and a frontier-pressure marker for [[Xianbei|鲜卑]] near [[HexiFourCommanderiesLateHan|河西四郡]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 178 CE late-Han layer immediately before [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso|汉纪 914]]. It opens with source-scoped workplace bullying and explanation-boundary advice, then follows [[CaiYong|蔡邕]] being framed by [[ChengHuangLateHan|程璜]], spared from death after [[LyuQiangLateHan|吕强]] intercedes, and exiled to Shuofang in a way the host reads through [[FortuneMisfortuneReversal|塞翁失马式福祸反转]]. The second half adds [[EmpressSongLateHan|宋皇后]]'s death under a [[WuguPoliticalPanic|巫蛊政治恐慌]] accusation, [[LuZhiLateHan|卢植]]'s ignored memorial on party prisoners, empress-family burial, local-official tenure, and appointment standards, and a frontier-pressure marker for [[Xianbei|鲜卑]] near [[HexiFourCommanderiesLateHan|河西四郡]].
 
 ## Key Claims
 - The opening argues that workplace bullies often count on non-resistance, so repeated explanation can become exposure rather than protection; this is filed as source-scoped advice under [[CommunicationBoundarySetting]] and [[WorkplaceRelationshipBoundaries]].
@@ -46,5 +46,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 - No settled contradiction with existing wiki pages was found.
-- Chronology note: this episode backfills 178 CE material before already-ingested Hanji 914-918 and clarifies the earlier Cai Yong punishment recalled in Hanji 917.
+- Chronology note: this episode backfills 178 CE material before already-ingested 汉纪 914-918 and clarifies the earlier Cai Yong punishment recalled in 汉纪 917.
 - Transcript normalization: the source renders several durable names as 蔡庸, 成皇, 王府, 卢直, and 陈裘/陈求; this page normalizes the canonical links to [[CaiYong|蔡邕]], [[ChengHuangLateHan|程璜]], [[WangFuLateHan|王甫]], [[LuZhiLateHan|卢植]], and [[ChenQiuLateHan|陈球]]. Minor names such as 蔡智, 刘亏, and 杨仇 remain source-scoped until another source requires canonical pages.

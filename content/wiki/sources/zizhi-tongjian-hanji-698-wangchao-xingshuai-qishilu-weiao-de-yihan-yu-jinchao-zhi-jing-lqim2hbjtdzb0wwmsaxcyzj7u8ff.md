@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 5 / 29 CE layer before [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] and the later [[WeiXiaoEasternHan|隗嚣]] breakaway sequence. [[LiuXiu|光武帝刘秀]] tests Wei Xiao by asking him to attack [[GongsunShuEasternHan|公孙述]], then reads Wei Xiao's refusal, court-avoidance, and hostage-only compromise through [[WeiXunEasternHan|隗恂]] as evidence that his allegiance remains non-credible.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 5 / 29 CE layer before [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] and the later [[WeiXiaoEasternHan|隗嚣]] breakaway sequence. [[LiuXiu|光武帝刘秀]] tests Wei Xiao by asking him to attack [[GongsunShuEasternHan|公孙述]], then reads Wei Xiao's refusal, court-avoidance, and hostage-only compromise through [[WeiXunEasternHan|隗恂]] as evidence that his allegiance remains non-credible.
 
 The episode also explains why Wei Xiao's camp begins to thin out before open rebellion. [[ZhengXingEasternHan|郑兴]] leaves through a filial-burial request, [[MaYuanEasternHan|马援]] moves east with his household, [[WangYuanWeiXiaoRetainer|王元]] pushes a terrain-backed holdout strategy, and [[ShentuGangEasternHan|申屠刚]] unsuccessfully urges submission to Liu Xiu.
 
@@ -47,6 +47,6 @@ The episode also explains why Wei Xiao's camp begins to thin out before open reb
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The source fills the missing pre-Hanji 699/701 layer rather than reversing later accounts of Wei Xiao's rebellion.
+- No settled contradiction with existing wiki pages was found. The source fills the missing pre-汉纪 699/701 layer rather than reversing later accounts of Wei Xiao's rebellion.
 - Identity normalization: the title and transcript forms 韦敖 and 韦巡 are routed to [[WeiXiaoEasternHan|隗嚣]] and [[WeiXunEasternHan|隗恂]] because the Jianwu 5 chronology, Gongsun Shu/Lu Fang setting, Lai Xi and Ma Yuan missions, and eldest-son hostage role match the established Eastern Han route.
 - Scope caution: Liu Yong, exact office-title wording for Wei Xun, Shanglinyuan farming logistics, Wang Yuan's later service, and the unnamed "many people" who leave Wei Xiao remain source-scoped unless later notes warrant canonical pages.

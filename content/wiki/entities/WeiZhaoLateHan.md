@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-魏昭 / Wei Zhao is the Hanji 861 student figure who explicitly distinguishes a text teacher from a teacher of conduct. He asks to serve [[GuoTaiLateHan|郭泰]] in daily tasks, then becomes the source's strongest test case for whether apparent respect survives rebuke and humiliation.
+魏昭 / Wei Zhao is the 汉纪 861 student figure who explicitly distinguishes a text teacher from a teacher of conduct. He asks to serve [[GuoTaiLateHan|郭泰]] in daily tasks, then becomes the source's strongest test case for whether apparent respect survives rebuke and humiliation.
 
 ## Current Profile
 
-Wei Zhao's importance is not doctrinal knowledge but posture under pressure. Hanji 861 presents him as seeking "人师" instruction: he wants proximity to a moral teacher, not only access to texts. Guo Tai accepts him, then repeatedly rejects and overturns the porridge Wei Zhao prepares.
+Wei Zhao's importance is not doctrinal knowledge but posture under pressure. 汉纪 861 presents him as seeking "人师" instruction: he wants proximity to a moral teacher, not only access to texts. Guo Tai accepts him, then repeatedly rejects and overturns the porridge Wei Zhao prepares.
 
 The test is harsh in the episode's frame, but the interpretive point is stable conduct under humiliation. Wei Zhao calmly remakes the porridge three times without visible resentment, after which Guo Tai says he now knows Wei Zhao's heart. The relationship shifts from service-like following toward friendship and recognition.
 
@@ -28,10 +28,10 @@ The test is harsh in the episode's frame, but the interpretive point is stable c
 
 ## Evidence
 
-- Teacher distinction: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Wei Zhao asks for a teacher of conduct rather than only a teacher of texts.
-- Service request: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Wei Zhao asks to remain near Guo Tai and perform daily tasks.
-- Repeated rebuke: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Guo Tai rejects the porridge several times as insufficiently respectful.
-- Steady response: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Wei Zhao's attitude and expression remain unchanged, making the test reveal his heart.
+- Teacher distinction: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Wei Zhao asks for a teacher of conduct rather than only a teacher of texts.
+- Service request: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Wei Zhao asks to remain near Guo Tai and perform daily tasks.
+- Repeated rebuke: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Guo Tai rejects the porridge several times as insufficiently respectful.
+- Steady response: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Wei Zhao's attitude and expression remain unchanged, making the test reveal his heart.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This page records the late-Han episode's teacher-student test, not a general end
 
 ## What Changed
 
-- Created the page from Hanji 861's "经师易遇，人师难遭" and porridge-test scene.
+- Created the page from 汉纪 861's "经师易遇，人师难遭" and porridge-test scene.
 
 ## Relationships
 

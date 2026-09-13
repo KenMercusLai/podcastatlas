@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 李贤 / Li Xian (taiwei, late Han)
 
-李贤 / Li Xian enters the wiki through [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] as the ill taiwei who attends the 172 CE court meeting over [[EmpressDowagerDouMiao|窦皇太后]]'s burial status. He brings poison and tells his wife that if the empress dowager cannot share sacrificial honor with [[EmperorHuanOfHan|汉桓帝]], he will not return alive.
+李贤 / Li Xian enters the wiki through [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|汉纪 901]] as the ill taiwei who attends the 172 CE court meeting over [[EmpressDowagerDouMiao|窦皇太后]]'s burial status. He brings poison and tells his wife that if the empress dowager cannot share sacrificial honor with [[EmperorHuanOfHan|汉桓帝]], he will not return alive.
 
 After [[ChenQiuLateHan|陈球 / 陈求]] first argues for the burial, Li Xian publicly supports the proposal and submits a memorial to [[EmperorLingOfHan|汉灵帝]]. His argument uses precedent and role order: Dou had been empress dowager, had supported Ling's accession, and should not be stripped of posthumous status because the Dou family lost a political struggle.
 
@@ -18,7 +18,7 @@ This page is disambiguated from [[LiXianLateHan|李暹 / Li Xian]], the later Li
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] - source episode.
+- [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|汉纪 901]] - source episode.
 - [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] and [[EmperorHuanOfHan|汉桓帝]] - burial-dispute center.
 - [[ChenQiuLateHan|陈球 / 陈求]] - first speaker whose proposal Li Xian reinforces.
 - [[EmperorLingOfHan|汉灵帝]] - ruler who accepts Li Xian's memorial.

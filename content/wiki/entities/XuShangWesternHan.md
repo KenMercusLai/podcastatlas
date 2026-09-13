@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-徐商 / Xu Shang enters the wiki through [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] as the boshi sent to inspect the flood-control issue raised by [[FengQuWesternHan|冯屈]]. The episode says Xu Shang concludes that state funds are insufficient and that the Tunshi River need not be dredged.
+徐商 / Xu Shang enters the wiki through [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] as the boshi sent to inspect the flood-control issue raised by [[FengQuWesternHan|冯屈]]. The episode says Xu Shang concludes that state funds are insufficient and that the Tunshi River need not be dredged.
 
 ## Current Profile
 
@@ -25,17 +25,17 @@ Xu Shang's role is narrow but important because he marks the court's conversion 
 
 ## Evidence
 
-- Inspection assignment: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Chengdi sends Feng Qu's proposal through the chancellor and Yushi channel, which leads to Xu Shang being sent to inspect.
-- Cost conclusion: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Xu Shang's side concludes that state funds are insufficient and that the Tunshi River can be left undredged.
-- Later consequence frame: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says a major Yellow River breach follows three years later.
+- Inspection assignment: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says Chengdi sends Feng Qu's proposal through the chancellor and Yushi channel, which leads to Xu Shang being sent to inspect.
+- Cost conclusion: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says Xu Shang's side concludes that state funds are insufficient and that the Tunshi River can be left undredged.
+- Later consequence frame: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says a major Yellow River breach follows three years later.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 507. It records the episode's account of Xu Shang's review role and does not establish his full biography, technical reasoning, or independent responsibility for the later flood.
+This page is source-scoped to 汉纪 507. It records the episode's account of Xu Shang's review role and does not establish his full biography, technical reasoning, or independent responsibility for the later flood.
 
 ## What Changed
 
-- Created Xu Shang from Hanji 507's Tunshi River review branch.
+- Created Xu Shang from 汉纪 507's Tunshi River review branch.
 
 ## Relationships
 

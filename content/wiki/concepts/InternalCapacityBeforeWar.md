@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Definition
 
-内政承受力先于用兵 / Internal capacity before war is Hanji 429's principle that external military opportunity should be constrained by the state's domestic burdens, border poverty, official competence, and disaster conditions.
+内政承受力先于用兵 / Internal capacity before war is 汉纪 429's principle that external military opportunity should be constrained by the state's domestic burdens, border poverty, official competence, and disaster conditions.
 
 ## Current Synthesis
 
@@ -29,17 +29,17 @@ The synthesis is that war judgment has an internal ledger. A campaign that looks
 ## Evidence
 
 Wei Xiang's domestic ledger:
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Wei Xiang cites border poverty, including households sharing clothing and digging wild plants for food.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says he points to local official incompetence, damaged customs, water and drought disasters, and serious cases as internal problems the court should worry about.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Xuan accepts the remonstrance and sends Chang Hui to recover Zheng Ji rather than launch a broad western strike.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Wei Xiang cites border poverty, including households sharing clothing and digging wild plants for food.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says he points to local official incompetence, damaged customs, water and drought disasters, and serious cases as internal problems the court should worry about.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Xuan accepts the remonstrance and sends Chang Hui to recover Zheng Ji rather than launch a broad western strike.
 
 ## Counterevidence & Qualifications
 
-The concept does not mean a state can use force only when domestic conditions are ideal. Hanji 429 itself allows 义兵 and 应兵 as legitimate categories. The narrower claim is that discretionary escalation, especially for prestige or retaliation, should be checked by the state's real internal capacity and popular burden.
+The concept does not mean a state can use force only when domestic conditions are ideal. 汉纪 429 itself allows 义兵 and 应兵 as legitimate categories. The narrower claim is that discretionary escalation, especially for prestige or retaliation, should be checked by the state's real internal capacity and popular burden.
 
 ## What Changed
 
-- Created the concept from Hanji 429's Wei Xiang remonstrance against opportunistic escalation during the Cheshi crisis.
+- Created the concept from 汉纪 429's Wei Xiang remonstrance against opportunistic escalation during the Cheshi crisis.
 
 ## Related Concepts
 

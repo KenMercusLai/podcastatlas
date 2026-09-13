@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], after the accession and reform notes in [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] and [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]], and before the later Dingtao title-conflict sequence. It uses an imperial banquet-seat dispute to show how everyday-looking seating rules can become public declarations of court rank.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], after the accession and reform notes in [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|汉纪 562]] and [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]], and before the later Dingtao title-conflict sequence. It uses an imperial banquet-seat dispute to show how everyday-looking seating rules can become public declarations of court rank.
 
 The durable synthesis is that [[BanquetSeatingStatusPolitics|宴席座次名分政治]] makes ritual order visible. [[WangMang|王莽]] sees [[FuTaihouWesternHan|傅太后]] placed beside [[WangZhengjun|王政君]], removes the seat as improper for a Dingtao consort-side figure, and thereby turns a banquet into a factional rupture: Fu Taihou refuses the feast, Aidi lets Wang Mang retire with honors, [[FuXiWesternHan|傅喜]] is not trusted by Fu Taihou despite kinship, [[ShiDanWesternHan|施丹]] becomes Da Sima, and [[XieGuangWesternHan|谢光]] later helps Aidi move against the Wang family through accusations against [[WangGenWesternHan|王根]] and Wang Kuang.
 
@@ -45,5 +45,5 @@ The durable synthesis is that [[BanquetSeatingStatusPolitics|宴席座次名分�
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills an earlier Suihe 2 / 7 BCE banquet and Wang Mang retirement layer before Hanji 568's Shi Dan Da Sikong appointment and the later Hanji 575-580 Dingtao title and Wang-family punishment sequence.
+- Chronology qualification: this source backfills an earlier Suihe 2 / 7 BCE banquet and Wang Mang retirement layer before 汉纪 568's Shi Dan Da Sikong appointment and the later 汉纪 575-580 Dingtao title and Wang-family punishment sequence.
 - Scope caution: the exact inner-palace banquet protocol, the full identity and office history of the arranging Neizhe Ling, complete text of Du Ye's memorial, Wang Gen's full misconduct case, and Aidi's private timing calculation remain source-scoped.

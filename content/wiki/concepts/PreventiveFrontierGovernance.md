@@ -16,7 +16,7 @@ Preventive frontier governance is the administrative pattern where a court or fr
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] creates the concept through [[DuanHuizongWesternHan|段会宗]]'s first Western Regions tenure. The host stresses that [[WesternRegionsProtectorate|西域都护府]] work is difficult because the office must coordinate many Western Regions polities, handle border incidents at distance, and often decide before the central court can intervene.
+[[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] creates the concept through [[DuanHuizongWesternHan|段会宗]]'s first Western Regions tenure. The host stresses that [[WesternRegionsProtectorate|西域都护府]] work is difficult because the office must coordinate many Western Regions polities, handle border incidents at distance, and often decide before the central court can intervene.
 
 Duan's three-year term is valuable precisely because it lacks dramatic incident. The episode reads that quietness through the maxim that a good fighter may have no famous victory and a good doctor treats illness before it appears. In this frame, competent frontier administration is not measured only by campaigns won, but by the dangerous events that never become crises.
 
@@ -24,7 +24,7 @@ The same concept also explains why Duan remains valuable later. After returning 
 
 The [[YelangKingXingWesternHan|Ye Lang King Xing]] crisis supplies the more active edge of the concept through [[DuQingWesternHan|杜清]]'s advice. Prevention does not mean continuing conciliation forever. Because Xing rejects mediation, insults Han authority, and may use distance from Chang'an to absorb nearby polities before attacking [[ZhangkeCommanderyWesternHan|牂柯郡]], Du Qing recommends quiet readiness, advance grain supply, and a fitted governor before the frontier problem becomes a larger campaign.
 
-[[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] gives that recommendation an operational test through [[ChenLiWesternHan|陈立]]. Chen Li does not wait indefinitely for authorization once the frontier timing problem is visible. He uses an inspection pretext to reach Xing, kills the key leader before the coalition can organize, and then suppresses residual resistance by cutting food, seizing water, and breaking cohesion. The preventive pattern therefore includes selected force, logistics, and discretion, not only quiet diplomacy.
+[[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|汉纪 513]] gives that recommendation an operational test through [[ChenLiWesternHan|陈立]]. Chen Li does not wait indefinitely for authorization once the frontier timing problem is visible. He uses an inspection pretext to reach Xing, kills the key leader before the coalition can organize, and then suppresses residual resistance by cutting food, seizing water, and breaking cohesion. The preventive pattern therefore includes selected force, logistics, and discretion, not only quiet diplomacy.
 
 ## Key Claims
 
@@ -38,25 +38,25 @@ The [[YelangKingXingWesternHan|Ye Lang King Xing]] crisis supplies the more acti
 
 ## Evidence
 
-- Difficult office: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Western Regions protector work requires guarding peace and coordinating thirty-six Western Regions states.
-- Quiet first term: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Duan serves three years without famous incident.
-- Preventive reading: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] explicitly uses the "treating illness before it appears" analogy for Duan's governance.
-- Later deterrence: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Duan later repels Xiongnu forces while serving at the frontier.
-- Requested return: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Western Regions states ask for Duan to return when later disorder exceeds the sitting protector's ability.
-- Consolidation warning: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] says Du Qing warns that Ye Lang King Xing can exploit distance and delay to annex nearby small polities and attack Zhangke.
-- Prepared response: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] says Du Qing recommends quiet war readiness, pre-positioned grain, and selection of a suitable Zhangke governor.
-- Operational execution: [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] says Chen Li stops waiting for a delayed court reply, enters Xing's territory under inspection cover, and kills Xing before the wider force can organize.
-- Follow-through: [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] says Chen Li later uses food-route interdiction, spies, counterintelligence, and water-source control against Wengzhi and Yewu.
+- Difficult office: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says Western Regions protector work requires guarding peace and coordinating thirty-six Western Regions states.
+- Quiet first term: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says Duan serves three years without famous incident.
+- Preventive reading: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] explicitly uses the "treating illness before it appears" analogy for Duan's governance.
+- Later deterrence: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says Duan later repels Xiongnu forces while serving at the frontier.
+- Requested return: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says Western Regions states ask for Duan to return when later disorder exceeds the sitting protector's ability.
+- Consolidation warning: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|汉纪 512]] says Du Qing warns that Ye Lang King Xing can exploit distance and delay to annex nearby small polities and attack Zhangke.
+- Prepared response: [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|汉纪 512]] says Du Qing recommends quiet war readiness, pre-positioned grain, and selection of a suitable Zhangke governor.
+- Operational execution: [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|汉纪 513]] says Chen Li stops waiting for a delayed court reply, enters Xing's territory under inspection cover, and kills Xing before the wider force can organize.
+- Follow-through: [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|汉纪 513]] says Chen Li later uses food-route interdiction, spies, counterintelligence, and water-source control against Wengzhi and Yewu.
 
 ## Counterevidence & Qualifications
 
-The concept should not treat every uneventful frontier tenure as successful; quietness may also reflect missing evidence, suppressed reporting, or temporary luck. Hanji 524 gives a positive interpretation because later requests for Duan and later stabilization make the quiet period more credible. Hanji 512 adds the opposite caution: "preventive" is not the same as passive appeasement, because a defiant opponent can use delay to make later intervention more expensive. Hanji 513 adds an ethical and administrative boundary: targeted killing can prevent wider war in the source's telling, but the page should not generalize that method beyond a case where the source frames Xing as the identified instigator and Chen Li as a fitted crisis governor.
+The concept should not treat every uneventful frontier tenure as successful; quietness may also reflect missing evidence, suppressed reporting, or temporary luck. 汉纪 524 gives a positive interpretation because later requests for Duan and later stabilization make the quiet period more credible. 汉纪 512 adds the opposite caution: "preventive" is not the same as passive appeasement, because a defiant opponent can use delay to make later intervention more expensive. 汉纪 513 adds an ethical and administrative boundary: targeted killing can prevent wider war in the source's telling, but the page should not generalize that method beyond a case where the source frames Xing as the identified instigator and Chen Li as a fitted crisis governor.
 
 ## What Changed
 
-- Added Hanji 512 as an active-preparation variant through Du Qing's Ye Lang advice.
-- Added Hanji 513 as the operational continuation: Chen Li tests preventive advice through targeted action and logistics-based pacification.
-- Preserved Hanji 524's "no famous achievement" reading of Duan Huizong's Western Regions administration.
+- Added 汉纪 512 as an active-preparation variant through Du Qing's Ye Lang advice.
+- Added 汉纪 513 as the operational continuation: Chen Li tests preventive advice through targeted action and logistics-based pacification.
+- Preserved 汉纪 524's "no famous achievement" reading of Duan Huizong's Western Regions administration.
 
 ## Related Concepts
 

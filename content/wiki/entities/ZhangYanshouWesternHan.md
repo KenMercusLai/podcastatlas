@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-张延寿 / Zhang Yanshou enters the wiki through [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] as [[ZhangAnshiWesternHan|张安世]]'s son, whose appointment becomes part of Zhang Anshi's family-risk management under [[EmperorXuanOfHan|汉宣帝]].
+张延寿 / Zhang Yanshou enters the wiki through [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] as [[ZhangAnshiWesternHan|张安世]]'s son, whose appointment becomes part of Zhang Anshi's family-risk management under [[EmperorXuanOfHan|汉宣帝]].
 
 ## Current Profile
 
@@ -26,19 +26,19 @@ The source does not make Zhang Yanshou an independent protagonist. His significa
 ## Evidence
 
 Family de-concentration:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Zhang Anshi becomes uneasy as father and son grow prominent at court.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Zhang asks Xuan to send Zhang Yanshou out as Beidi taishou.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Zhang Anshi becomes uneasy as father and son grow prominent at court.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Zhang asks Xuan to send Zhang Yanshou out as Beidi taishou.
 
 Recall under imperial favor:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Xuan later recalls Yanshou as left cao taipu because he pities Zhang Anshi's age.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Xuan later recalls Yanshou as left cao taipu because he pities Zhang Anshi's age.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 431. It does not reconstruct Zhang Yanshou's full career, offices, family branches, or later historical significance beyond the episode's use of him as a visibility-management case.
+This page is source-scoped to 汉纪 431. It does not reconstruct Zhang Yanshou's full career, offices, family branches, or later historical significance beyond the episode's use of him as a visibility-management case.
 
 ## What Changed
 
-- Created the page from Hanji 431's Zhang-family de-concentration episode.
+- Created the page from 汉纪 431's Zhang-family de-concentration episode.
 
 ## Relationships
 

@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 179 CE late-Han layer immediately before [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|Hanji 916]]. It opens with a source-scoped relationship-boundary reading of "口误", then follows [[QiaoXuanLateHan|桥玄]] refusing ransom after his youngest son is abducted and memorializing a no-ransom rule. The second half traces [[YangQiuLateHan|阳球]]'s first strike against [[WangFuLateHan|王甫]], [[DuanJiongLateHan|段熲]], [[WangJiLateHan|王吉]], and [[WangMengLateHan|王萌]], while foreshadowing [[CaoJieLateHan|曹节]]'s rebound in Hanji 916-918.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 179 CE late-Han layer immediately before [[zizhi-tongjian-hanji-916-ming-hao-he-yun-hao-nage-geng-zhongyao-lmzudjq5zfkfsukmhdeiumesm9qu|汉纪 916]]. It opens with a source-scoped relationship-boundary reading of "口误", then follows [[QiaoXuanLateHan|桥玄]] refusing ransom after his youngest son is abducted and memorializing a no-ransom rule. The second half traces [[YangQiuLateHan|阳球]]'s first strike against [[WangFuLateHan|王甫]], [[DuanJiongLateHan|段熲]], [[WangJiLateHan|王吉]], and [[WangMengLateHan|王萌]], while foreshadowing [[CaoJieLateHan|曹节]]'s rebound in 汉纪 916-918.
 
 ## Key Claims
 - The opening argues that a "slip of the tongue" can reveal attitude, respect, or relationship positioning; this is filed as [[CommunicationBoundarySetting|communication-boundary]] and [[SocialSignalInterpretation|social-signal]] material rather than a settled empirical claim about language.
@@ -25,7 +25,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[WangJiLateHan|王吉]], Wang Fu's adopted son and Pei chancellor, is accused of mass killing and corpse display, making local cruelty part of Wang Fu's exposure.
 - [[YangBiao|杨彪]] reports evidence that Wang Fu's Jingzhao retainers seized more than 70 million in public wealth, giving [[YangQiuLateHan|阳球]] a prosecutorial opening.
 - Yang Qiu obtains [[EmperorLingOfHan|汉灵帝]]'s order to arrest Wang Fu, [[DuanJiongLateHan|段熲]], Wang Ji, and [[WangMengLateHan|王萌]]; Duan dies by suicide, while Wang Fu and Wang Meng are beaten to death after prison interrogation.
-- Yang Qiu's plan to continue against [[CaoJieLateHan|曹节]] and the Yuan elite shows the overconfidence that Hanji 916-918 develop into eunuch regrouping, transfer, and plot leakage.
+- Yang Qiu's plan to continue against [[CaoJieLateHan|曹节]] and the Yuan elite shows the overconfidence that 汉纪 916-918 develop into eunuch regrouping, transfer, and plot leakage.
 
 ## Key Quotes
 > "世上没有真正的口误。" - opening relationship frame
@@ -44,5 +44,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 - No settled contradiction with existing wiki pages was found.
-- Chronology note: this episode backfills the 179 CE setup before already-ingested Hanji 916-918, adding Qiao Xuan's hostage-law case and the beginning of Yang Qiu's anti-Wang Fu prosecution without reversing those pages.
+- Chronology note: this episode backfills the 179 CE setup before already-ingested 汉纪 916-918, adding Qiao Xuan's hostage-law case and the beginning of Yang Qiu's anti-Wang Fu prosecution without reversing those pages.
 - Transcript normalization: the source renders several names phonetically or by ASR variant; this page normalizes 乔璇, 王府, 曹杰, 杨秋/杨求, 段炯, 王杰, and 王猛 to [[QiaoXuanLateHan|桥玄]], [[WangFuLateHan|王甫]], [[CaoJieLateHan|曹节]], [[YangQiuLateHan|阳球]], [[DuanJiongLateHan|段熲]], [[WangJiLateHan|王吉]], and [[WangMengLateHan|王萌]].

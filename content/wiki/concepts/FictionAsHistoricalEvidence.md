@@ -29,9 +29,9 @@ The current synthesis has two stable uses. For social history, fiction can illum
 - Literary scenes can repair or stabilize a hero's image, which itself is historical evidence about later moral imagination even when the scene is not event evidence.
 
 ## Evidence
-- Three Kingdoms reading boundary: [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]] frames the coming arc as a historical-source and actor-logic reading rather than only Luo Guanzhong-style memory.
-- Misleading event attribution: [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] treats the Guan Yu-Hua Xiong scene as powerful literary memory but credits the historical event to Sun Jian at Yangren.
-- Novelized loyalty repair: [[zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx|Hanji 1041]] treats "关公约三事" as a Romance construction that preserves Guan Yu's loyalty image, while the source-grounded account uses capture, favor, repayment, and return.
+- Three Kingdoms reading boundary: [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|汉纪 923 plus]] frames the coming arc as a historical-source and actor-logic reading rather than only Luo Guanzhong-style memory.
+- Misleading event attribution: [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|汉纪 955]] treats the Guan Yu-Hua Xiong scene as powerful literary memory but credits the historical event to Sun Jian at Yangren.
+- Novelized loyalty repair: [[zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx|汉纪 1041]] treats "关公约三事" as a Romance construction that preserves Guan Yu's loyalty image, while the source-grounded account uses capture, favor, repayment, and return.
 - Strange-tale trauma and moral archive: [[28-liaozhai-zhiyi-buwei-junwang-chang-zange-pianxiang-cangsheng-shuo-guihua-587843930|Liaozhai 28]] uses stories such as 《野狗》 and 《公孙九娘》 to read war, corpses, official absence, and common fear without literalizing supernatural plots.
 - Everyday social texture: [[fanwai-15-banlatte-jiang-jinpingmei-la-erqie-haishi-luse-de-991508433|Banlatte Jin Ping Mei special]] treats the novel's food, clothing, business, law, household, ritual, and street-life details as social-history material that still needs literary caution.
 - Microhistory source mix: [[148-wangshi-zhisi-duanjing-tuiyuan-shang-de-lishi-zhuangjing-892588934|Wang Shi 148]] uses fiction beside county gazetteer and magistrate-manual material to reconstruct social imagination around women whose official records are hostile or thin.
@@ -41,7 +41,7 @@ Fiction can easily be overread. A vivid scene may reveal what later readers want
 
 ## What Changed
 - Migrated the page to synthesis-v1 and compressed legacy source-by-source append prose into claim-grouped synthesis.
-- Added Hanji 1041 as a second Guan Yu/Three Kingdoms boundary case, focused on "关公约三事" rather than Hua Xiong.
+- Added 汉纪 1041 as a second Guan Yu/Three Kingdoms boundary case, focused on "关公约三事" rather than Hua Xiong.
 - Clarified the difference between fiction as reception-history evidence and fiction as event evidence.
 
 ## Related Concepts

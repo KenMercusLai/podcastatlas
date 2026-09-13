@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-唐玹 / Tang Xuan is [[TangHengLateHan|唐衡]]'s brother and Jingzhao official in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]]. His source-bounded significance is the private-enmity branch in which he destroys [[ZhaoQiLateHan|赵岐]]'s family and drives Zhao Qi into fugitive concealment.
+唐玹 / Tang Xuan is [[TangHengLateHan|唐衡]]'s brother and Jingzhao official in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]]. His source-bounded significance is the private-enmity branch in which he destroys [[ZhaoQiLateHan|赵岐]]'s family and drives Zhao Qi into fugitive concealment.
 
 ## Current Profile
 
-Hanji 853 places Tang Xuan inside the Huan-era eunuch-marquis family ecology. He is identified as the brother of Tang Heng, a Ruyang marquis in the episode's frame, and holds the Jingzhao office. The source says he had a prior bad relationship with Zhao Qi.
+汉纪 853 places Tang Xuan inside the Huan-era eunuch-marquis family ecology. He is identified as the brother of Tang Heng, a Ruyang marquis in the episode's frame, and holds the Jingzhao office. The source says he had a prior bad relationship with Zhao Qi.
 
 That enmity becomes lethal state-backed retaliation. Tang Xuan captures Zhao Qi's family and relatives, accuses them of serious crimes, and kills them all. Zhao Qi escapes, changes his name, and survives by selling cakes in the Beihai market before [[SunSongLateHan|孙嵩]] shelters him.
 
@@ -27,10 +27,10 @@ That enmity becomes lethal state-backed retaliation. Tang Xuan captures Zhao Qi'
 
 ## Evidence
 
-- Kinship and office: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Tang Xuan is Tang Heng's brother and serves as Jingzhao official.
-- Prior hostility: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Tang Xuan and Zhao Qi are already at odds.
-- Family destruction: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Tang Xuan captures Zhao Qi's family and relatives, charges them with serious crimes, and kills them.
-- Flight consequence: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Zhao Qi escapes, changes his name, and survives in the Beihai market.
+- Kinship and office: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Tang Xuan is Tang Heng's brother and serves as Jingzhao official.
+- Prior hostility: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Tang Xuan and Zhao Qi are already at odds.
+- Family destruction: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Tang Xuan captures Zhao Qi's family and relatives, charges them with serious crimes, and kills them.
+- Flight consequence: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Zhao Qi escapes, changes his name, and survives in the Beihai market.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The raw source writes 唐玄; this page normalizes the route to 唐玹 because t
 
 ## What Changed
 
-- Created the page from Hanji 853's Tang Heng family and Zhao Qi persecution branch.
+- Created the page from 汉纪 853's Tang Heng family and Zhao Qi persecution branch.
 
 ## Relationships
 

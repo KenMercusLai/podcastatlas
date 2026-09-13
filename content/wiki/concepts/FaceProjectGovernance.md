@@ -16,11 +16,11 @@ Face-project governance / 面子工程式治理 is the pattern where a political
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|Hanji 622]] creates the concept through [[WangMang|王莽]]'s 4 CE cultural and hydraulic initiatives under [[HanPingdi|汉平帝]]. [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] adds the immediate political payoff: officials praise those projects as faster and more effective than the Duke of Zhou's work, then use that praise to request higher status and Nine Bestowments discussion. [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|Hanji 563]] adds a modern negative contrast: image projects become especially dangerous when a newly empowered official pursues short-term political capital through visible construction despite local capacity and public-cost constraints.
+[[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|汉纪 622]] creates the concept through [[WangMang|王莽]]'s 4 CE cultural and hydraulic initiatives under [[HanPingdi|汉平帝]]. [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|汉纪 623]] adds the immediate political payoff: officials praise those projects as faster and more effective than the Duke of Zhou's work, then use that praise to request higher status and Nine Bestowments discussion. [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|汉纪 563]] adds a modern negative contrast: image projects become especially dangerous when a newly empowered official pursues short-term political capital through visible construction despite local capacity and public-cost constraints.
 
 The concept is not simply "doing nothing." Wang Mang's program includes real administrative activity: proposals are made, scholars and specialists are summoned, and river-management alternatives are debated. The source's criticism is that these moves generate visible classical virtue, public concern, and court prestige before implementation catches up.
 
-Its sharpest example is the river-management sequence. Hundreds of specialists and several named officials compare floodplain withdrawal, ancient-channel restoration, and rerouting proposals, but the project is presented as not actually executed. Hanji 623 shows why that image layer matters even before execution: once visible project-making exists, praise can convert it into ritual promotion and status claims.
+Its sharpest example is the river-management sequence. Hundreds of specialists and several named officials compare floodplain withdrawal, ancient-channel restoration, and rerouting proposals, but the project is presented as not actually executed. 汉纪 623 shows why that image layer matters even before execution: once visible project-making exists, praise can convert it into ritual promotion and status claims.
 
 ## Key Claims
 
@@ -34,13 +34,13 @@ Its sharpest example is the river-management sequence. Hundreds of specialists a
 
 ## Evidence
 
-- Ritual institutions: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|Hanji 622]] says Wang Mang proposes Ming Tang, Biyong, and Lingtai as high-symbolic ritual and astronomical buildings.
-- Educational legitimacy: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|Hanji 622]] says he promises scholar housing, expands Taixue instruction, and increases doctoral posts in the classical curriculum.
-- Knowledge mobilization: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|Hanji 622]] says specialists in classics, lost texts, astronomy, fuming, music, seasonal ordinances, military texts, and historical writings come to Chang'an for correction and standardization.
-- Hydraulic policy theater: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|Hanji 622]] says hundreds of river specialists debate multiple Yellow River plans and Shen Kai frames selection as a way to continue Yu's work and relieve suffering.
-- Execution gap: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|Hanji 622]] says the river-management effort ultimately does not land.
-- Praise conversion: [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] says officials turn Wang Mang's Ming Tang-related achievements into a request for higher status and Nine Bestowments discussion.
-- Modern image-project warning: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|Hanji 563]] cites Jiangyong county square construction spending as an example of distorted achievement-seeking that can damage public interest.
+- Ritual institutions: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|汉纪 622]] says Wang Mang proposes Ming Tang, Biyong, and Lingtai as high-symbolic ritual and astronomical buildings.
+- Educational legitimacy: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|汉纪 622]] says he promises scholar housing, expands Taixue instruction, and increases doctoral posts in the classical curriculum.
+- Knowledge mobilization: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|汉纪 622]] says specialists in classics, lost texts, astronomy, fuming, music, seasonal ordinances, military texts, and historical writings come to Chang'an for correction and standardization.
+- Hydraulic policy theater: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|汉纪 622]] says hundreds of river specialists debate multiple Yellow River plans and Shen Kai frames selection as a way to continue Yu's work and relieve suffering.
+- Execution gap: [[zizhi-tongjian-hanji-622-guanyuan-ruhe-zuo-mianzi-gongfu-lutgirh7woafk3nzjza4o-tlmf7j|汉纪 622]] says the river-management effort ultimately does not land.
+- Praise conversion: [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|汉纪 623]] says officials turn Wang Mang's Ming Tang-related achievements into a request for higher status and Nine Bestowments discussion.
+- Modern image-project warning: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|汉纪 563]] cites Jiangyong county square construction spending as an example of distorted achievement-seeking that can damage public interest.
 
 ## Counterevidence & Qualifications
 
@@ -48,13 +48,13 @@ The sources do not prove that every project was insincere or technically useless
 
 ## What Changed
 
-- Added Hanji 563's modern negative contrast, sharpening the distinction between early authority signaling and prestige-driven image construction.
-- Preserved Hanji 623 as the payoff layer and Hanji 622 as the project-making and execution-gap foundation.
+- Added 汉纪 563's modern negative contrast, sharpening the distinction between early authority signaling and prestige-driven image construction.
+- Preserved 汉纪 623 as the payoff layer and 汉纪 622 as the project-making and execution-gap foundation.
 
 ## Related Concepts
 
 - [[WangMang|王莽]] - source case whose pre-usurpation legitimacy work defines the pattern.
-- [[JiuXiRitualPromotion|九锡礼遇]] - downstream ritual-promotion mechanism that Hanji 623 links to face-project praise.
+- [[JiuXiRitualPromotion|九锡礼遇]] - downstream ritual-promotion mechanism that 汉纪 623 links to face-project praise.
 - [[ConfucianIdealGovernance|儒家理想治理]] - ideological background that makes classical education and ritual restoration politically valuable.
 - [[LiAsPoliticalOrder|礼制政治秩序]] - broader ritual-order frame that face-project governance can borrow for prestige.
 - [[RitualCapitalCentrality|礼制中心式都城合法性]] - adjacent Wang Mang pattern where symbolic geography and classical order support legitimacy.

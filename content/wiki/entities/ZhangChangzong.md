@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Zhang Changzong enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as the palace-intimacy figure whose relationship with [[ShangguanWaner|上官婉儿]] triggers punishment by [[WuZetian|武则天]]. The episode uses him to show how sexual access, information, safety, and bodily discipline intersect in the court.
+Zhang Changzong enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as the palace-intimacy figure whose relationship with [[ShangguanWaner|上官婉儿]] triggers punishment by [[WuZetian|武则天]]. The episode uses him to show how sexual access, information, safety, and bodily discipline intersect in the court.
 
 ## Current Profile
 
@@ -26,9 +26,9 @@ The source identifies Zhang Changzong as Wu Zetian's male favorite. It says Shan
 
 ## Evidence
 
-- Relationship and motive: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er had a relationship with Zhang Changzong because she sought safety, power, favor, or information.
-- Punishment asymmetry: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Zhang was released quickly while Shangguan Wan'er received facial marking.
-- Red-plum transformation: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says she later decorated the scar with red-plum makeup that enhanced her appeal and became associated with "Shangguan makeup."
+- Relationship and motive: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er had a relationship with Zhang Changzong because she sought safety, power, favor, or information.
+- Punishment asymmetry: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Zhang was released quickly while Shangguan Wan'er received facial marking.
+- Red-plum transformation: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says she later decorated the scar with red-plum makeup that enhanced her appeal and became associated with "Shangguan makeup."
 
 ## Qualifications
 
@@ -36,7 +36,7 @@ This page is limited to the episode's treatment of Zhang Changzong. It does not 
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as the court-intimacy and punishment trigger in Shangguan Wan'er's biography.
+- Created the page from 汉纪 536-3 as the court-intimacy and punishment trigger in Shangguan Wan'er's biography.
 
 ## Relationships
 

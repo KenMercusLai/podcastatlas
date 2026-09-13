@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Zhao Jin is the small yellow-gate eunuch whose Taiyuan abuses make the parallel case to Zhang Fan of Wan. Hanji 871 uses him to show that eunuch-protected local harm could be punished by local officials and then converted into a court accusation against those officials.
+Zhao Jin is the small yellow-gate eunuch whose Taiyuan abuses make the parallel case to Zhang Fan of Wan. 汉纪 871 uses him to show that eunuch-protected local harm could be punished by local officials and then converted into a court accusation against those officials.
 
 ## Current Profile
 
@@ -27,18 +27,18 @@ The episode makes Zhao Jin's death politically consequential because it is paire
 
 ## Evidence
 
-- Abuse profile: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] describes Zhao Jin as a small yellow-gate eunuch whose conduct harms a county.
-- Arrest path: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Liu Zhi sends Wang Yun to arrest Zhao Jin.
-- Post-amnesty execution: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Zhao Jin is killed after an amnesty, making the action vulnerable to hostile legal framing.
-- Rebound effect: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] pairs Zhao Jin's case with Zhang Fan's case in the accusation against Cheng Jin and Liu Zhi.
+- Abuse profile: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] describes Zhao Jin as a small yellow-gate eunuch whose conduct harms a county.
+- Arrest path: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] says Liu Zhi sends Wang Yun to arrest Zhao Jin.
+- Post-amnesty execution: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] says Zhao Jin is killed after an amnesty, making the action vulnerable to hostile legal framing.
+- Rebound effect: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] pairs Zhao Jin's case with Zhang Fan's case in the accusation against Cheng Jin and Liu Zhi.
 
 ## Qualifications
 
-The page records Zhao Jin only from the Hanji 871 Taiyuan branch. It does not connect him to later similarly named figures unless a future source provides stronger evidence.
+The page records Zhao Jin only from the 汉纪 871 Taiyuan branch. It does not connect him to later similarly named figures unless a future source provides stronger evidence.
 
 ## What Changed
 
-- Created this bounded profile from Hanji 871's Taiyuan eunuch-abuse case.
+- Created this bounded profile from 汉纪 871's Taiyuan eunuch-abuse case.
 
 ## Relationships
 

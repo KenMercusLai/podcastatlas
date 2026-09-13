@@ -38,7 +38,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills a Jia
 - [[XingshiqingStrategicAssessment|行势情战略评估]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[CharacterReadingDelegationTrust|识人授权信任]], [[CommandContinuityDamageControl|统帅连续性危机处置]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - adjacent strategic and leadership frames.
 
 ## Contradictions
-- No settled contradiction found. The source backfills the missing Hanji 1053 bridge between the Sun Ce succession layer, the 1051 western Yangzhou branch, the 1054 post-Guandu continuation, and the 1055 Yizhou-Hanzhong sequel.
+- No settled contradiction found. The source backfills the missing 汉纪 1053 bridge between the Sun Ce succession layer, the 1051 western Yangzhou branch, the 1054 post-Guandu continuation, and the 1055 Yizhou-Hanzhong sequel.
 - Source-scope caution: the host's modern "集团高管" and career-management language is interpretive framing, not a separate historical claim.
 - Violence caution: Sun Quan's Li Shu campaign is treated as authority consolidation while preserving the source's report of slaughter and forced relocation as a qualification, not as a purely positive leadership lesson.
 - Identity caution: [[LiShuLateHan|李术]] is kept distinct from [[LiShui|《理水》]], [[LiShufu|李书福]], [[LiuXunLateHan|刘勋]], and [[LiuXunYizhouHeirLateHan|刘循]].

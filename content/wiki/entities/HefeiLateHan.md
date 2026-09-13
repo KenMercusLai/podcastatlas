@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 Late-Han Hefei is the broken city that [[LiuFuLateHan|Liu Fu]] turns into the provincial office and frontier base for Cao-side western [[YangzhouLateHan|Yangzhou]]. It is distinct from the modern city page [[Hefei|Hefei / 合肥]] and from the late-Han title [[HefeiMarquisLateHan|Hefei Marquis]].
 
 ## Current Profile
-Hanji 1051 presents Hefei as a weak starting point rather than an inherited stronghold. Liu Fu arrives with court appointment but little direct force, establishes the Yangzhou administrative seat there, and then uses the city as a platform for reassurance, population return, livelihood repair, schooling, and military preparation. Its importance grows because governance and logistics turn a damaged empty city into a Jiang-Huai strategic base.
+汉纪 1051 presents Hefei as a weak starting point rather than an inherited stronghold. Liu Fu arrives with court appointment but little direct force, establishes the Yangzhou administrative seat there, and then uses the city as a platform for reassurance, population return, livelihood repair, schooling, and military preparation. Its importance grows because governance and logistics turn a damaged empty city into a Jiang-Huai strategic base.
 
 ## Key Characteristics
 - Begins as a nearly empty and damaged city, not as a secure capital or prepared fortress.
@@ -25,13 +25,13 @@ Hanji 1051 presents Hefei as a weak starting point rather than an inherited stro
 
 ## Evidence
 **Weak starting point**
-- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|Hanji 1051]] describes Liu Fu going to Hefei when it lacks troops, grain, and a functioning urban base.
+- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|汉纪 1051]] describes Liu Fu going to Hefei when it lacks troops, grain, and a functioning urban base.
 
 **Administrative and settlement role**
-- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|Hanji 1051]] treats the provincial office, reassurance of armed groups, office grants, and population attachment as the mechanisms that make Hefei useful.
+- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|汉纪 1051]] treats the provincial office, reassurance of armed groups, office grants, and population attachment as the mechanisms that make Hefei useful.
 
 **Strategic durability**
-- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|Hanji 1051]] links livelihood works, schools, walls, and stored defensive materials to Hefei's later status as a Jiang-Huai stronghold.
+- [[zizhi-tongjian-hanji-1051-ta-weihe-bei-chengzuo-shi-zui-you-nengli-de-yangzhou-cishi-ltquwyzzq-sqibj33bpbu3qyvz2h|汉纪 1051]] links livelihood works, schools, walls, and stored defensive materials to Hefei's later status as a Jiang-Huai stronghold.
 
 ## Qualifications
 This page captures the late-Han historical role described in one episode. It does not replace the broader modern city page or the separate noble title page, and it should not be used as a full urban history of Hefei.

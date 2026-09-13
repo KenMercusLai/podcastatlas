@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Current Synthesis
 
-Hanji 810 grounds the concept in the Huangzhong case. Han Hao moves Han tuntian closer to Qiang groups, around the Cizhi River and Fengliu Great River. The source says nearby groups become afraid and rival groups form alliances. [[MaXuLateHan|马续]] then replaces Han Hao as Protector of the Qiang and asks to move the fields back toward Huangzhong, after which Qiang groups relax.
+汉纪 810 grounds the concept in the Huangzhong case. Han Hao moves Han tuntian closer to Qiang groups, around the Cizhi River and Fengliu Great River. The source says nearby groups become afraid and rival groups form alliances. [[MaXuLateHan|马续]] then replaces Han Hao as Protector of the Qiang and asks to move the fields back toward Huangzhong, after which Qiang groups relax.
 
 The point is not that tuntian is bad. The same episode treats [[YiwuGarrisonLateHan|伊吾屯田]] as a useful route-security restoration. The dilemma appears when a settlement's physical proximity reads as encroachment or imminent coercion to local groups.
 
@@ -28,18 +28,18 @@ The point is not that tuntian is bad. The same episode treats [[YiwuGarrisonLate
 
 ## Evidence
 
-- Over-close relocation: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Han Hao moves Huangzhong tuntian closer to Qiang groups near the Cizhi River and Fengliu Great River.
-- Threat perception and alliance: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says the Qiang are afraid and rival groups ally because of the relocation.
-- Corrective reversal: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Ma Xu asks to move the fields back toward Huangzhong, calming the groups.
-- Contrast with useful tuntian: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] also says Yiwu tuntian is restored for Western Regions route security, showing the problem is placement, not the institution by itself.
+- Over-close relocation: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Han Hao moves Huangzhong tuntian closer to Qiang groups near the Cizhi River and Fengliu Great River.
+- Threat perception and alliance: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says the Qiang are afraid and rival groups ally because of the relocation.
+- Corrective reversal: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Ma Xu asks to move the fields back toward Huangzhong, calming the groups.
+- Contrast with useful tuntian: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] also says Yiwu tuntian is restored for Western Regions route security, showing the problem is placement, not the institution by itself.
 
 ## Counterevidence & Qualifications
 
-This concept is based on one proximity failure in Hanji 810. It should not be used as a general anti-tuntian claim because the same source records Yiwu garrison farming as useful strategic restoration. The relevant distinction is local signal and distance: settlement can stabilize a route or frighten neighbors depending on where it is placed and how it is interpreted.
+This concept is based on one proximity failure in 汉纪 810. It should not be used as a general anti-tuntian claim because the same source records Yiwu garrison farming as useful strategic restoration. The relevant distinction is local signal and distance: settlement can stabilize a route or frighten neighbors depending on where it is placed and how it is interpreted.
 
 ## What Changed
 
-- Created the concept to preserve Hanji 810's contrast between useful Yiwu tuntian and destabilizing over-close Huangzhong relocation.
+- Created the concept to preserve 汉纪 810's contrast between useful Yiwu tuntian and destabilizing over-close Huangzhong relocation.
 
 ## Related Concepts
 

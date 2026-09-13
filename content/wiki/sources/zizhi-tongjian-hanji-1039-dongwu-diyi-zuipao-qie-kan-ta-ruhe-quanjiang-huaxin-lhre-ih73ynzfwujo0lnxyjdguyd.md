@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the late-Han [[SunCe|孙策]] Yuzhang/Jiangdong consolidation after the [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] intelligence branch. It centers [[YuFan|虞翻]] persuading [[HuaXin|华歆]] to surrender [[YuzhangCommandery|豫章郡]] by combining respect, comparison with [[WangLangLateHan|王朗]] and [[KuaijiCommandery|会稽郡]], Sun Ce's battlefield record, food pressure, and a deadline.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the late-Han [[SunCe|孙策]] Yuzhang/Jiangdong consolidation after the [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] intelligence branch. It centers [[YuFan|虞翻]] persuading [[HuaXin|华歆]] to surrender [[YuzhangCommandery|豫章郡]] by combining respect, comparison with [[WangLangLateHan|王朗]] and [[KuaijiCommandery|会稽郡]], Sun Ce's battlefield record, food pressure, and a deadline.
 
 The episode then resists judging Hua Xin only through loyalist orthodoxy: [[SunShengEasternJin|孙胜]] condemns Hua Xin, Yu Fan, and Sun Ce, while the host argues Hua Xin may have chosen surrender to protect civilians from city-breaking violence. Later sections follow Sun Ce's split of Yuzhang into [[LulingLateHan|庐陵]], appointments of [[SunBenLateHan|孙贲]] and [[SunFuLateHan|孙辅]], [[LadyWuSunJian|吴夫人]]'s rescue of [[WeiTengLateHan|魏腾]], Sun Ce's mix of suppression and selective leniency toward [[YanBaihu|严白虎]] and [[XuZhaoLateHan|徐昭]], and [[XuTaLateHan|徐他]]'s failed attempt against [[CaoCao|曹操]] stopped by [[XuChu|许褚]].
 
@@ -32,7 +32,7 @@ The episode then resists judging Hua Xin only through loyalist orthodoxy: [[SunS
 > "如果杀了他，以后就没人真心追随孙策" - Lady Wu's warning that killing Wei Teng would weaken Sun Ce's still-forming base.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] - immediate setup for Yuzhang intelligence through [[TaishiCi|太史慈]]'s report on Hua Xin, Tong Zhi, Luling, and local fragmentation.
+- [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] - immediate setup for Yuzhang intelligence through [[TaishiCi|太史慈]]'s report on Hua Xin, Tong Zhi, Luling, and local fragmentation.
 - [[SunCe|孙策]], [[HuaXin|华歆]], [[YuFan|虞翻]], [[YuzhangCommandery|豫章郡]], [[LulingLateHan|庐陵]], [[SunBenLateHan|孙贲]], [[SunFuLateHan|孙辅]], and [[ZhouYuLateHan|周瑜]] - conquest, surrender, administrative division, and garrison actors.
 - [[SunShengEasternJin|孙胜]], [[SurrenderAsCivilianProtectionTradeoff|献城保民权衡]], [[ForceBackedSurrenderPersuasion|武力背书式劝降]], [[NonMoralPoliticalAnalysis|非道德化政治分析]], and [[MoralReputationPoliticalCapital|道德声望政治资本]] - interpretive and moral-evaluation frames for Hua Xin's surrender.
 - [[LadyWuSunJian|吴夫人]], [[WeiTengLateHan|魏腾]], [[YanBaihu|严白虎]], [[XuZhaoLateHan|徐昭]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[OccupationPacificationStrategy|占领区怀柔治理]], and [[TalentAttractionThroughRespect|礼敬式人才吸附]] - Jiangdong pacification, suppression, and selective leniency layer.

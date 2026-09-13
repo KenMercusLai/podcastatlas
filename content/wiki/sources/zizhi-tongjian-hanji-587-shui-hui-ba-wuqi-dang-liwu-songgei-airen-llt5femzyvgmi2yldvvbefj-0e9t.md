@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly continues [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|Hanji 586]]'s Dong Xian reward sequence by showing [[HanAidi|汉哀帝]] sending palace officials to the state armory more than ten times to select weapons for [[DongXian|董贤]] and his household network. [[WuJianglongWesternHan|武将龙]], the Zhijinwu responsible for capital security, objects that armory weapons are public instruments funded by the realm and cannot be treated as private gifts.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly continues [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|汉纪 586]]'s Dong Xian reward sequence by showing [[HanAidi|汉哀帝]] sending palace officials to the state armory more than ten times to select weapons for [[DongXian|董贤]] and his household network. [[WuJianglongWesternHan|武将龙]], the Zhijinwu responsible for capital security, objects that armory weapons are public instruments funded by the realm and cannot be treated as private gifts.
 
 The durable synthesis is that Aidi's favorite politics now crosses from title fabrication into military-resource privatization. Wu Jianglong distinguishes the court treasury managed by the Da Sinong from the emperor's private household resources managed by the Shaofu, invokes the rule that weapons and symbols such as axes and halberds belong to military command, frontier defense, and public authority, and later applies the same public-private boundary to [[FuTaihouWesternHan|傅太后]]'s underpriced purchase of official slaves.
 
@@ -46,5 +46,5 @@ The durable synthesis is that Aidi's favorite politics now crosses from title fa
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source fits after Hanji 586's fabricated Dong Xian merit and before [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]]'s Bao Xuan public-suffering memorial.
+- Chronology qualification: this source fits after 汉纪 586's fabricated Dong Xian merit and before [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]]'s Bao Xuan public-suffering memorial.
 - Scope caution: the source does not settle the exact weapon list, full legal status of the selected armory goods, the market price of the official slaves, Fu Taihou's direct involvement beyond the episode's summary, or Wu Jianglong's complete earlier career.

@@ -11,13 +11,13 @@ last_updated: 2026-09-11
 
 ## Overview
 
-纪武 / Ji Wu enters this wiki as a palace witness in [[XieGuangWesternHan|谢光]]'s report on [[HanChengdi|汉成帝]]'s missing sons. [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] uses him in the [[CaoGongWesternHan|曹宫]] infant case, while [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] makes him a key handler and later witness in the [[XuMeirenWesternHan|徐美人]] sealed-box case.
+纪武 / Ji Wu enters this wiki as a palace witness in [[XieGuangWesternHan|谢光]]'s report on [[HanChengdi|汉成帝]]'s missing sons. [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] uses him in the [[CaoGongWesternHan|曹宫]] infant case, while [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] makes him a key handler and later witness in the [[XuMeirenWesternHan|徐美人]] sealed-box case.
 
 ## Current Profile
 
-Ji Wu's durable role is witness under pressure. In Hanji 571, when a Zhao Zhaoyi-linked messenger asks whether Cao Gong's child has died, Ji Wu says the boy is alive and memorializes that Chengdi has no son, so the child should be preserved regardless of the mother's rank. That makes him one of the few figures in the report who tries to keep imperial bloodline preservation visible.
+Ji Wu's durable role is witness under pressure. In 汉纪 571, when a Zhao Zhaoyi-linked messenger asks whether Cao Gong's child has died, Ji Wu says the boy is alive and memorializes that Chengdi has no son, so the child should be preserved regardless of the mother's rank. That makes him one of the few figures in the report who tries to keep imperial bloodline preservation visible.
 
-Hanji 572 gives Ji Wu the second case. Chengdi sends him a sealed box through Wu Gong, with instruction that the box contains a child corpse and must be buried secretly. Ji Wu later buries it near the Yulou wall. The host treats the disclosure to Ji Wu as suspicious: it creates a witness to the box contents despite the supposed secrecy of the killing.
+汉纪 572 gives Ji Wu the second case. Chengdi sends him a sealed box through Wu Gong, with instruction that the box contains a child corpse and must be buried secretly. Ji Wu later buries it near the Yulou wall. The host treats the disclosure to Ji Wu as suspicious: it creates a witness to the box contents despite the supposed secrecy of the killing.
 
 ## Key Characteristics
 
@@ -29,10 +29,10 @@ Hanji 572 gives Ji Wu the second case. Chengdi sends him a sealed box through Wu
 
 ## Evidence
 
-- Cao Gong infant survival: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Ji Wu reported that Cao Gong's child was still alive when asked whether the child had died.
-- Bloodline memorial: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Ji Wu argued that Chengdi should preserve the child because he had no son.
-- Sealed-box burial: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Ji Wu received the sealed box and buried it near the Yulou wall.
-- Secrecy puzzle: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Ji Wu was told the box contained a child corpse, which the host finds odd if concealment was the point.
+- Cao Gong infant survival: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Ji Wu reported that Cao Gong's child was still alive when asked whether the child had died.
+- Bloodline memorial: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Ji Wu argued that Chengdi should preserve the child because he had no son.
+- Sealed-box burial: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Ji Wu received the sealed box and buried it near the Yulou wall.
+- Secrecy puzzle: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Ji Wu was told the box contained a child corpse, which the host finds odd if concealment was the point.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ The page is limited to Ji Wu's role in the two reported missing-child cases. It 
 
 ## What Changed
 
-- Created from Hanji 571 and Hanji 572 as a witness linking the Cao Gong and Xu Meiren branches of the Chengdi heir-killing accusation.
+- Created from 汉纪 571 and 汉纪 572 as a witness linking the Cao Gong and Xu Meiren branches of the Chengdi heir-killing accusation.
 
 ## Relationships
 

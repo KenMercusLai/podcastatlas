@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-孙会宗 / Sun Huizong enters the wiki through [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] as the correspondent who warns [[YangYunWesternHan|杨恽]] that a disgraced former official should show fear, humility, and withdrawal rather than visible resentment.
+孙会宗 / Sun Huizong enters the wiki through [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] as the correspondent who warns [[YangYunWesternHan|杨恽]] that a disgraced former official should show fear, humility, and withdrawal rather than visible resentment.
 
 ## Current Profile
 
@@ -28,13 +28,13 @@ The source later says Yang Yun regrets not listening to Sun before execution. Su
 ## Evidence
 
 Warning and advice:
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Sun Huizong writes to Yang Yun advising him to act afraid, submissive, and repentant after losing office.
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Sun warns that crowded banquets and public complaints will bring disaster.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Sun Huizong writes to Yang Yun advising him to act afraid, submissive, and repentant after losing office.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Sun warns that crowded banquets and public complaints will bring disaster.
 
 Case outcome:
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Yang Yun writes Bao Sun Huizong Shu rather than accepting the warning.
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Yang Yun regrets not listening to Sun when facing execution.
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Sun Huizong is removed from office because of close association with Yang Yun.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Yang Yun writes Bao Sun Huizong Shu rather than accepting the warning.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Yang Yun regrets not listening to Sun when facing execution.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Sun Huizong is removed from office because of close association with Yang Yun.
 
 ## Qualifications
 
@@ -42,7 +42,7 @@ The episode gives Sun Huizong primarily as a correspondent in Yang Yun's case. I
 
 ## What Changed
 
-- Created the page from Hanji 457's warning-letter and association-punishment material.
+- Created the page from 汉纪 457's warning-letter and association-punishment material.
 
 ## Relationships
 

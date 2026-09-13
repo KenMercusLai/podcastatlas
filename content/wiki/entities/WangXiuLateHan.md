@@ -10,14 +10,14 @@ last_updated: 2026-09-06
 ---
 
 ## Overview
-[[WangXiuLateHan|王修]] is presented as a [[QingzhouLateHan|青州]]-side official loyal to [[YuanTan|袁谭]] but willing to confront him. Across Hanji 1058 and Hanji 1069, he first warns Yuan Tan that fraternal conflict with [[YuanShang|袁尚]] will destroy the Yuan camp's political base, then after Yuan Tan's death turns old-lord loyalty into a form [[CaoCao|曹操]] can publicly recognize.
+[[WangXiuLateHan|王修]] is presented as a [[QingzhouLateHan|青州]]-side official loyal to [[YuanTan|袁谭]] but willing to confront him. Across 汉纪 1058 and 汉纪 1069, he first warns Yuan Tan that fraternal conflict with [[YuanShang|袁尚]] will destroy the Yuan camp's political base, then after Yuan Tan's death turns old-lord loyalty into a form [[CaoCao|曹操]] can publicly recognize.
 
 ## Current Profile
 After Yuan Tan loses to Yuan Shang, Wang Xiu comes from Beihai/Qingzhou with officials and local people to support him. He does not merely provide manpower; he argues that Yuan Tan should not fight his brother, comparing brothers to a person's left and right hands.
 
 Wang Xiu's advice is a compact diagnosis of Yuan Tan's failure. He tells Yuan Tan that if he cannot tolerate his own brother, others will not trust closeness with him either. He therefore urges Yuan Tan to remove destructive advisers and reconcile with Yuan Shang before turning against the outside enemy.
 
-Hanji 1069 adds the post-defeat test of that loyalty. When Yuan Tan dies, Wang Xiu asks Cao Cao for permission to collect and bury the body. He then captures [[GuanTongLateHan|管统]] but refuses to execute him, arguing that Guan Tong's resistance is loyal service to a dead lord rather than a reason for extermination. Cao Cao's pardon and Wang Xiu's later sikong-office appointment make him a mediator between old-retainer morality and new-regime incorporation.
+汉纪 1069 adds the post-defeat test of that loyalty. When Yuan Tan dies, Wang Xiu asks Cao Cao for permission to collect and bury the body. He then captures [[GuanTongLateHan|管统]] but refuses to execute him, arguing that Guan Tong's resistance is loyal service to a dead lord rather than a reason for extermination. Cao Cao's pardon and Wang Xiu's later sikong-office appointment make him a mediator between old-retainer morality and new-regime incorporation.
 
 ## Key Characteristics
 - Loyal Yuan Tan supporter who still speaks against Yuan Tan's chosen course.
@@ -35,10 +35,10 @@ Hanji 1069 adds the post-defeat test of that loyalty. When Yuan Tan dies, Wang X
 - New-regime entry: [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|汉纪1069]] reports Cao Cao bringing Wang Xiu into the sikong office after recognizing his loyalty and judgment.
 
 ## Qualifications
-This page is still source-scoped to Wang Xiu's Yuan-family and immediate Cao-side transition roles. Hanji 1069's reading of Wang Xiu's mourning as a political signal is useful but interpretive, so the page treats the concrete actions as firmer than the inferred motive.
+This page is still source-scoped to Wang Xiu's Yuan-family and immediate Cao-side transition roles. 汉纪 1069's reading of Wang Xiu's mourning as a political signal is useful but interpretive, so the page treats the concrete actions as firmer than the inferred motive.
 
 ## What Changed
-- Added Hanji 1069's burial, Guan Tong protection, and Cao-side appointment sequence.
+- Added 汉纪 1069's burial, Guan Tong protection, and Cao-side appointment sequence.
 - Reframed Wang Xiu from only a reconciliation adviser into a bridge between defeated-lord loyalty and post-victory incorporation.
 
 ## Relationships

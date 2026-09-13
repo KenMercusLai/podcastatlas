@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # Burning Gallery Roads / 烧栈道
 
-Burning gallery roads / 烧栈道 enters the wiki through [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] as [[ZhangLiang|张良]]'s advice to [[LiuBang|刘邦]] after escorting him toward [[Hanzhong|汉中]]. The source explains the gallery roads as narrow cliffside wooden routes that are easy to destroy and hard to rebuild.
+Burning gallery roads / 烧栈道 enters the wiki through [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|汉纪 144 part 2]] as [[ZhangLiang|张良]]'s advice to [[LiuBang|刘邦]] after escorting him toward [[Hanzhong|汉中]]. The source explains the gallery roads as narrow cliffside wooden routes that are easy to destroy and hard to rebuild.
 
 The tactic has two layers. Militarily, it makes pursuit by [[XiangYu|项羽]] or the [[ThreeQinContainment|Three Qin]] more difficult. Politically, it performs acceptance of confinement: by burning the road behind him, Liu Bang signals that he plans to remain in Hanzhong rather than immediately return east, buying time for [[StrategicRetreatBaseBuilding|退让式根据地经营]].
 

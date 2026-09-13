@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-廉范 / Lian Fan is an Eastern Han official whose current wiki profile joins battlefield deception and practical urban governance. Hanji 742 presents him first as the Yunzhong defender who uses torch display to frighten [[NorthernXiongnuLateHan|Northern Xiongnu]], then as the Shu commandery administrator whose Chengdu night-fire policy becomes an ancient analogue for [[NighttimeEconomyGovernance|nighttime economy governance]].
+廉范 / Lian Fan is an Eastern Han official whose current wiki profile joins battlefield deception and practical urban governance. 汉纪 742 presents him first as the Yunzhong defender who uses torch display to frighten [[NorthernXiongnuLateHan|Northern Xiongnu]], then as the Shu commandery administrator whose Chengdu night-fire policy becomes an ancient analogue for [[NighttimeEconomyGovernance|nighttime economy governance]].
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] gives Lian Fan two connected but distinct layers. At Yunzhong, he has too few troops and rejects a request to seek nearby reinforcement. At night he orders soldiers to bind torches crosswise and move through the camp so the Xiongnu side misreads the display as arriving support. He then ambushes at dawn and wins through fear, confusion, and pursuit.
+[[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]] gives Lian Fan two connected but distinct layers. At Yunzhong, he has too few troops and rejects a request to seek nearby reinforcement. At night he orders soldiers to bind torches crosswise and move through the camp so the Xiongnu side misreads the display as arriving support. He then ambushes at dawn and wins through fear, confusion, and pursuit.
 
 The Chengdu layer is administrative rather than military. As Shu commandery administrator, Lian Fan faces a real fire risk because houses are wooden and dense, but the blanket night-fire ban prevents poor households from doing evening handicraft work. He cancels the ban while requiring every household to store enough water for prompt fire response.
 
@@ -31,19 +31,19 @@ The current profile is therefore not simply "lenient official." Lian Fan's patte
 
 ## Evidence
 
-- Yunzhong force asymmetry: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] says Lian Fan has few troops when Northern Xiongnu attack and rejects subordinates' request for outside reinforcement.
-- Torch deception: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] says he uses cross-bound torches moving through camp to make the Xiongnu think reinforcements have arrived.
-- Dawn counterattack: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] reports an ambush and Xiongnu losses after the display creates panic.
-- Chengdu fire-policy problem: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] says night fire was banned because wooden houses made fire danger real, but households needed evening work for income.
-- Permission plus preparedness: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] says Lian Fan cancels the ban while requiring stored water for firefighting.
+- Yunzhong force asymmetry: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]] says Lian Fan has few troops when Northern Xiongnu attack and rejects subordinates' request for outside reinforcement.
+- Torch deception: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]] says he uses cross-bound torches moving through camp to make the Xiongnu think reinforcements have arrived.
+- Dawn counterattack: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]] reports an ambush and Xiongnu losses after the display creates panic.
+- Chengdu fire-policy problem: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]] says night fire was banned because wooden houses made fire danger real, but households needed evening work for income.
+- Permission plus preparedness: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]] says Lian Fan cancels the ban while requiring stored water for firefighting.
 
 ## Qualifications
 
-The current page is bounded to Hanji 742 and does not claim a complete biography of Lian Fan or a full reconstruction of Shu commandery administration. The episode says he descends from [[LianPo|廉颇]], but that genealogy is not central to the current synthesis. Casualty counts, the exact Yunzhong battlefield setting, the wording of the Chengdu popular song, and the modern night-economy aside remain source-scoped.
+The current page is bounded to 汉纪 742 and does not claim a complete biography of Lian Fan or a full reconstruction of Shu commandery administration. The episode says he descends from [[LianPo|廉颇]], but that genealogy is not central to the current synthesis. Casualty counts, the exact Yunzhong battlefield setting, the wording of the Chengdu popular song, and the modern night-economy aside remain source-scoped.
 
 ## What Changed
 
-- Created the Lian Fan page from Hanji 742.
+- Created the Lian Fan page from 汉纪 742.
 - Connected his military fire display and Chengdu night-fire policy as two forms of practical risk management.
 
 ## Relationships

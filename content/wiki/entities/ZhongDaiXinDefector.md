@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-终带 / Zhong Dai (Xin defector) enters the wiki through [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] as a Xin frontier figure who joins [[ChenLiangXinDefector|陈良]] in killing Wuyi Colonel Diao Hu and defecting to [[Xiongnu|匈奴]].
+终带 / Zhong Dai (Xin defector) enters the wiki through [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] as a Xin frontier figure who joins [[ChenLiangXinDefector|陈良]] in killing Wuyi Colonel Diao Hu and defecting to [[Xiongnu|匈奴]].
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ The political significance of Zhong Dai comes from scale and aftermath. The muti
 
 ## Evidence
 
-- Joint planning: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] names Zhong Dai with Chen Liang, Han Xuan, Ren Shang, and others in the plan to kill Diao Hu.
-- Mutiny: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] says the group kills Diao Hu and members of his family.
-- Defection scale: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] says more than two thousand officials, staff, families, and dependents are taken toward Xiongnu.
-- Xiongnu appointment: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] says the chanyu gives Zhong Dai and Chen Liang Wuben commandant titles.
+- Joint planning: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] names Zhong Dai with Chen Liang, Han Xuan, Ren Shang, and others in the plan to kill Diao Hu.
+- Mutiny: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] says the group kills Diao Hu and members of his family.
+- Defection scale: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] says more than two thousand officials, staff, families, and dependents are taken toward Xiongnu.
+- Xiongnu appointment: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] says the chanyu gives Zhong Dai and Chen Liang Wuben commandant titles.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The episode gives Zhong Dai as a paired defector, not a standalone career. His e
 
 ## What Changed
 
-- Created the page from Hanji 640's paired Chen Liang-Zhong Dai defection branch.
+- Created the page from 汉纪 640's paired Chen Liang-Zhong Dai defection branch.
 
 ## Relationships
 

@@ -10,11 +10,11 @@ last_updated: 2026-09-11
 
 ## Overview
 
-张尤 / Zhang You enters the wiki through [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] as the Western Han official whose self-protective false report opens the Feng Yuan case. Sent to Zhongshan to attend the ill Liu Jizi, he leaves without authorization and then claims [[FengYuanWesternHan|冯媛]] is cursing [[HanAidi|汉哀帝]] and [[FuTaihouWesternHan|傅太后]].
+张尤 / Zhang You enters the wiki through [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] as the Western Han official whose self-protective false report opens the Feng Yuan case. Sent to Zhongshan to attend the ill Liu Jizi, he leaves without authorization and then claims [[FengYuanWesternHan|冯媛]] is cursing [[HanAidi|汉哀帝]] and [[FuTaihouWesternHan|傅太后]].
 
 ## Current Profile
 
-Hanji 576 makes Zhang You important less for policy than for trigger mechanics. His reported illness and unauthorized return to Chang'an expose him to punishment. To explain the return, he recodes dereliction as urgent intelligence, saying that Feng Yuan is using curses against the emperor and Fu Taihou.
+汉纪 576 makes Zhang You important less for policy than for trigger mechanics. His reported illness and unauthorized return to Chang'an expose him to punishment. To explain the return, he recodes dereliction as urgent intelligence, saying that Feng Yuan is using curses against the emperor and Fu Taihou.
 
 The accusation is useful because it lands in an already hostile palace field. Fu Taihou has older resentment against Feng Yuan, and later investigation under [[ShiLiWesternHan|史立]] converts the report into torture, treason framing, and family deaths. Zhang You is then rewarded as if he had uncovered rebellion, making him a case of false reporting that succeeds because power prefers the story.
 
@@ -28,10 +28,10 @@ The accusation is useful because it lands in an already hostile palace field. Fu
 
 ## Evidence
 
-- Assignment: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Aidi sends Zhang You to Zhongshan because Liu Jizi is ill.
-- Unauthorized departure: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Zhang You leaves Zhongshan and returns to Chang'an.
-- False report: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says he claims Feng Yuan is cursing Aidi and Fu Taihou.
-- Reward: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Zhang You is later rewarded for supposedly exposing rebellion.
+- Assignment: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says Aidi sends Zhang You to Zhongshan because Liu Jizi is ill.
+- Unauthorized departure: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says Zhang You leaves Zhongshan and returns to Chang'an.
+- False report: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says he claims Feng Yuan is cursing Aidi and Fu Taihou.
+- Reward: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says Zhang You is later rewarded for supposedly exposing rebellion.
 
 ## Qualifications
 

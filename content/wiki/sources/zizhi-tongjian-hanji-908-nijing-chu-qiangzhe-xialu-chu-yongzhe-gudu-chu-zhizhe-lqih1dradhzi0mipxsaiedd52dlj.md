@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 177 CE prelude before [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]]. It opens with a source-scoped claim that real strength comes from inward steadiness rather than external respect, then turns to [[CaiYong|蔡邕]]'s confidential memorial to [[EmperorLingOfHan|汉灵帝]] on ritual neglect, arts-driven appointment distortion, and false "Xuanling filial sons" placed near the crown prince. Ling partially accepts the advice by restoring seasonal and [[Taixue|太学]] rites and moving the Xuanling group out to county posts, making the episode an early case of [[LiAsPoliticalOrder|礼制政治秩序]], [[OfficialSelectionChannelCompetition|选官通道竞争]], [[FilialMourningAccessCredential|守陵孝行进身凭证]], and bounded personal-practice advice through [[MeditativeStabilityPractice|定力修行框架]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 177 CE prelude before [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|汉纪 909]]. It opens with a source-scoped claim that real strength comes from inward steadiness rather than external respect, then turns to [[CaiYong|蔡邕]]'s confidential memorial to [[EmperorLingOfHan|汉灵帝]] on ritual neglect, arts-driven appointment distortion, and false "Xuanling filial sons" placed near the crown prince. Ling partially accepts the advice by restoring seasonal and [[Taixue|太学]] rites and moving the Xuanling group out to county posts, making the episode an early case of [[LiAsPoliticalOrder|礼制政治秩序]], [[OfficialSelectionChannelCompetition|选官通道竞争]], [[FilialMourningAccessCredential|守陵孝行进身凭证]], and bounded personal-practice advice through [[MeditativeStabilityPractice|定力修行框架]].
 
 ## Key Claims
 
@@ -26,7 +26,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - Cai Yong accepts that already-appointed shallow talents may keep salary, but proposes limiting their responsibilities and keeping them away from heavy office and provincial assignments.
 - The "Xuanling filial sons" case shows moral-display credentials becoming a palace access route: people with no deep relation to the deceased emperor can gain crown-prince proximity through performed mourning.
 - Cai Yong cites Han mourning-restraint precedent to argue that even sincere grief must be ordered by制度; false mourning is worse because it turns virtue display into political access.
-- Emperor Ling's partial acceptance matters: he restores rituals and relocates the Xuanling group to county offices, but the episode leaves the deeper appointment disorder unresolved before Hanji 909-914.
+- Emperor Ling's partial acceptance matters: he restores rituals and relocates the Xuanling group to county offices, but the episode leaves the deeper appointment disorder unresolved before 汉纪 909-914.
 - The closing personal lesson treats classic reading, goal clarity, and meditation as ways to avoid being trapped by scattered attention, small skills, anxiety, and external validation.
 
 ## Key Quotes

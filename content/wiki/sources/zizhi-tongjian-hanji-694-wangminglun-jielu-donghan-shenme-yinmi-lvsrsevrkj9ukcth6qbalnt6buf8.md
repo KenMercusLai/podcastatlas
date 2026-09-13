@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 5 / 29 CE layer immediately before [[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody|Hanji 695]]. It centers [[BanBiaoEasternHan|班彪]]'s `王命论` as a warning to [[WeiXiaoEasternHan|隗嚣]]: local force, cleverness, and opportunity do not by themselves justify claiming rulership over the realm.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 5 / 29 CE layer immediately before [[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody|汉纪 695]]. It centers [[BanBiaoEasternHan|班彪]]'s `王命论` as a warning to [[WeiXiaoEasternHan|隗嚣]]: local force, cleverness, and opportunity do not by themselves justify claiming rulership over the realm.
 
 The durable synthesis is that Ban Biao uses [[MandateOfHeavenLegitimacy|天命合法性]], Liu-family restoration language, [[LiuBang|刘邦]]'s talent-absorbing founding capacity, and failed claimant precedents to argue for title restraint. When Wei Xiao does not accept the warning, Ban Biao leaves for Hexi, attaches to [[DouRongEasternHan|窦融]], and helps turn Dou Rong toward service under [[LiuXiu|光武帝刘秀]].
 
@@ -43,11 +43,11 @@ The durable synthesis is that Ban Biao uses [[MandateOfHeavenLegitimacy|天命�
 - [[MandateOfHeavenLegitimacy|天命合法性]], [[LiuBang|刘邦]], and [[LiuXiu|光武帝刘秀]] - the source uses Han mandate continuity and Liu Bang's founding capacity to support Eastern Han legitimacy.
 - [[ChenYing|陈英 / 陈婴]], [[WangLingMother|王陵母亲]], and [[ClaimRestraintThroughAttachment|有所归属式名位节制]] - earlier examples show restraint and correct attachment as family-preserving political judgment.
 - [[HanXin|韩信]], [[YingBu|英布 / 黥布]], [[XiangLiang|项梁]], [[XiangYu|项羽]], and [[WangMang|王莽]] - failed claimant or overreaching-power precedents used to warn Wei Xiao.
-- [[DouRongEasternHan|窦融]] and [[SecurityForAuthorityExchange|交权换安全]] - Ban Biao's later service points toward Dou Rong's safer alignment path developed in Hanji 695 and later episodes.
+- [[DouRongEasternHan|窦融]] and [[SecurityForAuthorityExchange|交权换安全]] - Ban Biao's later service points toward Dou Rong's safer alignment path developed in 汉纪 695 and later episodes.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame for the Jianwu 5 legitimacy and alignment-choice layer.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source deepens the `王命论` layer already summarized in Hanji 705-2 rather than reversing it.
-- Chronology qualification: this source backfills a Jianwu 5 warning before Hanji 695's Dou Rong submission decision, Hanji 698's Wei Xiao loyalty test, and Hanji 701-708's open Wei Xiao conflict.
+- No settled contradiction with existing wiki pages was found. This source deepens the `王命论` layer already summarized in 汉纪 705-2 rather than reversing it.
+- Chronology qualification: this source backfills a Jianwu 5 warning before 汉纪 695's Dou Rong submission decision, 汉纪 698's Wei Xiao loyalty test, and 汉纪 701-708's open Wei Xiao conflict.
 - Scope caution: `王命论` is represented through this episode's excerpting and explanation, not through a full independent literary analysis of the text. Chen Ying's mother, Wang Ling's mother, Han Xin, Ying Bu, Xiang Liang, Xiang Yu, Wang Mang, exact wording of the argument, and the host's destiny language are retained with source-bounded caution.

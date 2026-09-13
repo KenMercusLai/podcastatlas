@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] late-Han field through [[DongZhuo|董卓]]'s destruction of [[LuoyangLateHan|洛阳]], [[WangYunLateHan|王允]]'s hidden waiting posture, and [[SunJianLateHan|孙坚]]'s coercive rise before joining [[YuanShu|袁术]]. It uses the maxim "但行好事，莫问前程" to frame moral self-governance, then tests that frame against arson, tomb looting, torture, clan killing, forged orders, loose speech, and supply coercion. Its distinct contribution is that anti-Dong-Zhuo disorder is already morally and institutionally broken before the formal coalition story: Dong Zhuo destroys the capital's living and ancestral order, while Sun Jian's early effectiveness is mixed with private vengeance and fear-based compliance.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|汉纪 953]] late-Han field through [[DongZhuo|董卓]]'s destruction of [[LuoyangLateHan|洛阳]], [[WangYunLateHan|王允]]'s hidden waiting posture, and [[SunJianLateHan|孙坚]]'s coercive rise before joining [[YuanShu|袁术]]. It uses the maxim "但行好事，莫问前程" to frame moral self-governance, then tests that frame against arson, tomb looting, torture, clan killing, forged orders, loose speech, and supply coercion. Its distinct contribution is that anti-Dong-Zhuo disorder is already morally and institutionally broken before the formal coalition story: Dong Zhuo destroys the capital's living and ancestral order, while Sun Jian's early effectiveness is mixed with private vengeance and fear-based compliance.
 
 ## Key Claims
 
@@ -50,5 +50,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages is recorded. The episode mainly backfills the events before [[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] and complicates the later anti-Dong-Zhuo narrative.
+- No settled contradiction with existing wiki pages is recorded. The episode mainly backfills the events before [[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|汉纪 953]] and complicates the later anti-Dong-Zhuo narrative.
 - Source-scope caution: the episode summary renders Wang Rui as "王瑞" and Zhang Zi as "张姿"; the wiki keeps Wang Rui under the source spelling and normalizes Zhang Zi cautiously to late-Han Nanyang administrator [[ZhangZiLateHan|张咨]], disambiguated from [[ZhangZiQiGeneral|张子 / Zhang Zi (Qi general)]].

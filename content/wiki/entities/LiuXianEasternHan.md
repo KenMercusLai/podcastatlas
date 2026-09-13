@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Profile
 
-Hanji 772 says Liu Kai should inherit the marquisate after Liu Ban's death, but gives the position to Liu Xian and avoids court investiture. When officials later renew the case, [[JiaKuiEasternHan|Jia Kui]] argues that Liu Kai's yielding should be completed rather than punished as ordinary succession violation. [[EmperorHeOfHan|Emperor He]] accepts the argument, allows Liu Xian to inherit the title and fief, and warns that the decision should not become a repeatable precedent.
+汉纪 772 says Liu Kai should inherit the marquisate after Liu Ban's death, but gives the position to Liu Xian and avoids court investiture. When officials later renew the case, [[JiaKuiEasternHan|Jia Kui]] argues that Liu Kai's yielding should be completed rather than punished as ordinary succession violation. [[EmperorHeOfHan|Emperor He]] accepts the argument, allows Liu Xian to inherit the title and fief, and warns that the decision should not become a repeatable precedent.
 
 ## Key Characteristics
 
@@ -24,17 +24,17 @@ Hanji 772 says Liu Kai should inherit the marquisate after Liu Ban's death, but 
 
 ## Evidence
 
-- Succession transfer: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Liu Kai gives the hereditary title to his younger brother rather than accepting it himself.
-- Imperial exception: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Emperor He allows Liu Xian to inherit after Jia Kui's memorial.
-- Precedent limit: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says the court treats the case as exceptional rather than a new general rule.
+- Succession transfer: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] says Liu Kai gives the hereditary title to his younger brother rather than accepting it himself.
+- Imperial exception: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] says Emperor He allows Liu Xian to inherit after Jia Kui's memorial.
+- Precedent limit: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] says the court treats the case as exceptional rather than a new general rule.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 772. It does not reconstruct Liu Xian's later life, officeholding, descendants, or the full Juchao lineage. The source summary writes 刘县, but the prior local episode context and the received story support normalizing the name here as 刘宪.
+This page is source-bounded to 汉纪 772. It does not reconstruct Liu Xian's later life, officeholding, descendants, or the full Juchao lineage. The source summary writes 刘县, but the prior local episode context and the received story support normalizing the name here as 刘宪.
 
 ## What Changed
 
-- Created the page from Hanji 772 as the younger brother whose succession makes Liu Kai's title refusal concrete.
+- Created the page from 汉纪 772 as the younger brother whose succession makes Liu Kai's title refusal concrete.
 
 ## Relationships
 

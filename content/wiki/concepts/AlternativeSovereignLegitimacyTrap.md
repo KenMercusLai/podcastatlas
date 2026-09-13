@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # Alternative Sovereign Legitimacy Trap / 另立君主合法性陷阱
 
-Alternative sovereign legitimacy trap / 另立君主合法性陷阱 is the dilemma [[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] develops from the 191 CE anti-[[DongZhuo|董卓]] coalition. [[EmperorXianOfHan|汉献帝]] is young, displaced to Chang'an, and controlled by Dong Zhuo, so some regional leaders want to install [[LiuYuLateHan|刘虞]] as a new emperor to escape Dong Zhuo's use of the Han court.
+Alternative sovereign legitimacy trap / 另立君主合法性陷阱 is the dilemma [[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|汉纪 954]] develops from the 191 CE anti-[[DongZhuo|董卓]] coalition. [[EmperorXianOfHan|汉献帝]] is young, displaced to Chang'an, and controlled by Dong Zhuo, so some regional leaders want to install [[LiuYuLateHan|刘虞]] as a new emperor to escape Dong Zhuo's use of the Han court.
 
 The trap is that the proposed cure can destroy the coalition's own public basis. [[CaoCao|曹操]] argues that the anti-Dong-Zhuo cause works because it is "师出有名": the coalition can oppose Dong Zhuo while still claiming loyalty to the recognized Han ruler. If it replaces an emperor who has not visibly forfeited legitimacy, the campaign can be recoded as rebellion or usurpation.
 
@@ -25,7 +25,7 @@ This concept sits beside [[MingqiLegitimacy|名器合法性]], [[MoralizedWarPre
 - The concept differs from [[AntiUsurpationCoalitionPressure|讨逆同盟压力]]: here the danger is creating a rival title before the formal usurpation has occurred, while anti-usurpation pressure describes the backlash after an unsupported imperial claim is made.
 
 ## Connections
-- [[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]], [[AntiDongZhuoCoalition|反董卓联盟]], [[DongZhuo|董卓]], and [[EmperorXianOfHan|汉献帝]] - source case and captured-court setting.
+- [[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|汉纪 954]], [[AntiDongZhuoCoalition|反董卓联盟]], [[DongZhuo|董卓]], and [[EmperorXianOfHan|汉献帝]] - source case and captured-court setting.
 - [[CaoCao|曹操]] - actor who rejects replacement to preserve the coalition's public reason.
 - [[YuanShao|袁绍]], [[HanFuLateHan|韩馥]], and [[ZhangQiLateHan|张岐]] - actors who push the alternative-sovereign mission.
 - [[YuanShu|袁术]] - actor whose public loyalist refusal is read beside private imperial ambition.

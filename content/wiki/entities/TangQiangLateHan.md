@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Profile
 
-Hanji 776 says Lingnan fresh longan and lychee were moved through dense relay arrangements, with posts at short intervals and day-night transport. Tang Qiang argues that rulers should not treat delicious food as virtue, and lower officials should not treat presenting rare food as merit. He describes dangerous heat, insects, wild terrain, and transport deaths across the Jiaozhi region, then asks the court to save future transporters because the dead cannot be revived.
+汉纪 776 says Lingnan fresh longan and lychee were moved through dense relay arrangements, with posts at short intervals and day-night transport. Tang Qiang argues that rulers should not treat delicious food as virtue, and lower officials should not treat presenting rare food as merit. He describes dangerous heat, insects, wild terrain, and transport deaths across the Jiaozhi region, then asks the court to save future transporters because the dead cannot be revived.
 
 Emperor He accepts the argument and orders the imperial kitchen not to receive this class of tribute. Tang Qiang's current profile is therefore a source-bounded example of local remonstrance converting luxury logistics into governance restraint.
 
@@ -27,9 +27,9 @@ Emperor He accepts the argument and orders the imperial kitchen not to receive t
 
 ## Evidence
 
-- Fresh tribute route: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] describes Lingnan longan and lychee relay transport as continuous, dangerous, and labor-intensive.
-- Memorial logic: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Tang Qiang argues that delicacies neither prove virtue nor reliably extend life, while transporters sometimes die on the route.
-- Policy result: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Emperor He orders the imperial kitchen not to accept those goods.
+- Fresh tribute route: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] describes Lingnan longan and lychee relay transport as continuous, dangerous, and labor-intensive.
+- Memorial logic: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] says Tang Qiang argues that delicacies neither prove virtue nor reliably extend life, while transporters sometimes die on the route.
+- Policy result: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] says Emperor He orders the imperial kitchen not to accept those goods.
 
 ## Qualifications
 

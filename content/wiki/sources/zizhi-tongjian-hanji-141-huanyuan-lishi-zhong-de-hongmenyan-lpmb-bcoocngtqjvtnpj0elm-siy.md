@@ -31,7 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode begins the 
 > "项庄舞剑，意在沛公" - idiom anchored in Fan Zeng's improvised assassination plan.
 
 ## Connections
-- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|Hanji 140 part 2]] - direct setup: Xiang Bo's warning, Liu Bang's courtesy performance, and Xiang Yu's cancellation of the attack.
+- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-2-lvdgirxmwxcckh2loh-yk2zzer2e|汉纪 140 part 2]] - direct setup: Xiang Bo's warning, Liu Bang's courtesy performance, and Xiang Yu's cancellation of the attack.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[FanKuai|樊哙]], [[XiahouYing|夏侯婴]], [[JiXin|纪信]], and [[JinQiang|金强]] - Liu Bang's high-risk Hongmen entourage and backup.
 - [[XiangYu|项羽]], [[FanZeng|范增]], [[XiangBo|项伯]], [[XiangZhuang|项庄]], and [[CaoWushang|曹无伤]] - Xiang-camp decision field, informant exposure, and assassination attempt.
 - [[HongmenYan|鸿门宴]], [[PowerEtiquetteReading|权力礼仪细读]], [[MoralFaceUnderPowerCompetition|权力竞争中的要脸]], and [[MoralizedWarPretext|道德化战争借口]] - seat order, face, legitimacy, and violence at the banquet.
@@ -39,6 +39,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode begins the 
 - [[AngerDrivenWarDecision|因怒兴师]] and [[EmotionalDeescalationPersuasion|情绪降温式说服]] - the prior attack impulse has been cooled, but no durable settlement has been created.
 
 ## Contradictions
-- No settled contradiction is recorded. The source extends Hanji 140 part 1 and part 2 by showing that the cancelled attack order did not end the crisis; it merely moved the conflict into a ritualized, unstable room.
+- No settled contradiction is recorded. The source extends 汉纪 140 part 1 and part 2 by showing that the cancelled attack order did not end the crisis; it merely moved the conflict into a ritualized, unstable room.
 - The source's criticism of Fan Zeng is source-scoped. It accepts his strategic read of Liu Bang while arguing that his banquet assassination method violates role boundaries and lacks public legitimacy.
 - The source uses the transcript form "金强" for one Liu Bang-side attendant; this wiki preserves that form on [[JinQiang|金强]] rather than treating it as a separate historical correction.

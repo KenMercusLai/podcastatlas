@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-Hu Shuang appears in [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] after the southern rebellion branch has already exposed Ma Mu, Liu Du, and Li Su's fear. Li Su plans to desert Nan Commandery while Wuling Man forces are pressing the Jiangling region. Hu Shuang physically holds Li Su's horse and remonstrates that a commandery with cities nearby should raise flags and drums, send signals, and call other counties to help rather than throw away its seal and become a fugitive.
+Hu Shuang appears in [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] after the southern rebellion branch has already exposed Ma Mu, Liu Du, and Li Su's fear. Li Su plans to desert Nan Commandery while Wuling Man forces are pressing the Jiangling region. Hu Shuang physically holds Li Su's horse and remonstrates that a commandery with cities nearby should raise flags and drums, send signals, and call other counties to help rather than throw away its seal and become a fugitive.
 
 The source presents Hu Shuang less as a successful crisis commander than as an ethical boundary in a collapsing command chain. His advice does not save the immediate situation, because Li Su kills him and flees anyway. But Emperor Huan's later response, executing Li Su while reducing Ma Mu and Liu Du's penalties, makes Hu Shuang's death the benchmark against which dereliction and panic are judged.
 
@@ -29,10 +29,10 @@ The source presents Hu Shuang less as a successful crisis commander than as an e
 
 ## Evidence
 
-- Office and setting: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] places Hu Shuang as Li Su's chief clerk during the southern Jingzhou crisis.
-- Remonstrance content: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Hu Shuang argues that nearby cities can be summoned through visible signals and that abandoning the official seal would betray the commandery's duty.
-- Death and contrast: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Li Su kills Hu Shuang before fleeing, turning the crisis from flight into violence against corrective advice.
-- Imperial judgment: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] records Li Su's execution and Ma Mu/Liu Du's reduced punishments, making Hu Shuang's stance the implicit moral and administrative baseline.
+- Office and setting: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] places Hu Shuang as Li Su's chief clerk during the southern Jingzhou crisis.
+- Remonstrance content: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] says Hu Shuang argues that nearby cities can be summoned through visible signals and that abandoning the official seal would betray the commandery's duty.
+- Death and contrast: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] says Li Su kills Hu Shuang before fleeing, turning the crisis from flight into violence against corrective advice.
+- Imperial judgment: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] records Li Su's execution and Ma Mu/Liu Du's reduced punishments, making Hu Shuang's stance the implicit moral and administrative baseline.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ This page is a narrow source-bounded profile, not a full biography. The transcri
 
 ## What Changed
 
-- Created this page from Hanji 856's southern Jingzhou crisis layer.
+- Created this page from 汉纪 856's southern Jingzhou crisis layer.
 - Recorded Hu Shuang as the duty-facing contrast to Li Su's panic and dereliction.
 
 ## Relationships

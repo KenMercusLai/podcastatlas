@@ -8,9 +8,9 @@ last_updated: 2026-08-24
 
 # 毛玠 / Mao Jie
 
-毛玠 / Mao Jie enters the wiki through [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] as the [[Chenliu|陈留]] man [[CaoCao|曹操]] appoints as 治中从事 after absorbing the Qingzhou Yellow Turban surrender. The source gives him the episode's central "阳谋": political legitimacy through "奉天子以令不臣" and material depth through farming, stockpiling, and military supply.
+毛玠 / Mao Jie enters the wiki through [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|汉纪 968]] as the [[Chenliu|陈留]] man [[CaoCao|曹操]] appoints as 治中从事 after absorbing the Qingzhou Yellow Turban surrender. The source gives him the episode's central "阳谋": political legitimacy through "奉天子以令不臣" and material depth through farming, stockpiling, and military supply.
 
-The page keeps Mao Jie's role source-scoped. Hanji 968 presents him as the early strategic formulator who joins legitimacy to logistics; later sources assign different parts of the execution chain to [[XunYu|荀彧]]'s welcome-the-emperor argument, [[DongZhaoLateHan|董昭]] and [[ZhongYao|钟繇]]'s route and court work, and [[ZaoZhi|枣祗]] plus [[RenJun|任峻]]'s formal [[TuntianSystem|屯田制]] implementation.
+The page keeps Mao Jie's role source-scoped. 汉纪 968 presents him as the early strategic formulator who joins legitimacy to logistics; later sources assign different parts of the execution chain to [[XunYu|荀彧]]'s welcome-the-emperor argument, [[DongZhaoLateHan|董昭]] and [[ZhongYao|钟繇]]'s route and court work, and [[ZaoZhi|枣祗]] plus [[RenJun|任峻]]'s formal [[TuntianSystem|屯田制]] implementation.
 
 Mao Jie's importance in this source is structural. He does not merely offer a clever line; he gives Cao Cao a way to make people, food, title, and talent attraction reinforce each other. That places him inside [[AdviserStateArchitecture|谋士政权架构]] before the later adviser-roundup episodes name the broader Cao-side system.
 

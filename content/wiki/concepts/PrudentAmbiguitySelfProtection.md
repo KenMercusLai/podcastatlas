@@ -15,11 +15,11 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-Hanji 832 creates the concept through the dispute around [[ZhongJinLateHan|钟瑾]]. [[LiYingLateHan|李膺]] represents the moral-clarity side: he invokes the Mencian right-wrong heart and criticizes Zhong Jin for failing to distinguish black and white. Zhong Jin's style is modest and yielding, which Li reads as moral confusion.
+汉纪 832 creates the concept through the dispute around [[ZhongJinLateHan|钟瑾]]. [[LiYingLateHan|李膺]] represents the moral-clarity side: he invokes the Mencian right-wrong heart and criticizes Zhong Jin for failing to distinguish black and white. Zhong Jin's style is modest and yielding, which Li reads as moral confusion.
 
 [[ZhongHaoYingchuanLateHan|钟皓]] gives the counterargument. He explains that Li Ying's family position gives him confidence to speak, while sharper right-wrong judgment can create resentment and danger for someone without the same backing. Zhong Hao's lesson is not that right and wrong do not exist, but that a dangerous age makes public sorting costly and sometimes unreliable. The concept therefore sits beside, not above, moral clarity: prudence can preserve a person, but it can also become evasion if it abandons judgment entirely.
 
-[[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] extends the concept from personal moral ambiguity to officeholding under a sensitive power balance. [[LiangShangLateHan|梁商]] recruits [[LiGuLateHan|李固]] but does not adopt Li Gu's disaster-framed reform counsel. The episode reads this apparent softness against Liang Shang's position as [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]]'s father and an outer-relative pillar useful to [[EmperorShunOfHan|汉顺帝]]: forceful rectification could have looked like family-power ambition. The case shows why prudent non-action can be politically intelligible without becoming automatically admirable.
+[[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|汉纪 817]] extends the concept from personal moral ambiguity to officeholding under a sensitive power balance. [[LiangShangLateHan|梁商]] recruits [[LiGuLateHan|李固]] but does not adopt Li Gu's disaster-framed reform counsel. The episode reads this apparent softness against Liang Shang's position as [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]]'s father and an outer-relative pillar useful to [[EmperorShunOfHan|汉顺帝]]: forceful rectification could have looked like family-power ambition. The case shows why prudent non-action can be politically intelligible without becoming automatically admirable.
 
 ## Key Claims
 
@@ -32,22 +32,22 @@ Hanji 832 creates the concept through the dispute around [[ZhongJinLateHan|钟�
 
 ## Evidence
 
-- Zhong Jin's disposition: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] describes Zhong Jin as loving books, admiring ancient models, and naturally modest and yielding.
-- Li Ying's moral-clarity critique: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Li Ying invokes Mencius on the right-wrong heart to rebuke Zhong Jin.
-- Status-backed speech: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Zhong Hao explains Li Ying's confidence partly through the high position and flourishing status of Li Ying's father and grandfather.
-- Revenge-risk example: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Zhong Hao cites Guo Zuo as a cautionary case of harsh criticism creating resentment and later revenge.
-- Survival judgment: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Zhong Hao concludes that Zhong Jin's way is wiser for preserving himself in an age where absolute black and white are hard to separate.
-- Officeholding caution: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] says Liang Shang accepts the Grand General office reluctantly, recruits Li Gu and Yang Lun, but does not adopt Li Gu's broad reform counsel.
-- Outer-relative sensitivity: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] reads Liang Shang's non-action through Shun's reliance on eunuchs and Liang Shang's position as Empress Liang's father, making broad reform politically dangerous for the Liang household.
+- Zhong Jin's disposition: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] describes Zhong Jin as loving books, admiring ancient models, and naturally modest and yielding.
+- Li Ying's moral-clarity critique: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Li Ying invokes Mencius on the right-wrong heart to rebuke Zhong Jin.
+- Status-backed speech: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Zhong Hao explains Li Ying's confidence partly through the high position and flourishing status of Li Ying's father and grandfather.
+- Revenge-risk example: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Zhong Hao cites Guo Zuo as a cautionary case of harsh criticism creating resentment and later revenge.
+- Survival judgment: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Zhong Hao concludes that Zhong Jin's way is wiser for preserving himself in an age where absolute black and white are hard to separate.
+- Officeholding caution: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|汉纪 817]] says Liang Shang accepts the Grand General office reluctantly, recruits Li Gu and Yang Lun, but does not adopt Li Gu's broad reform counsel.
+- Outer-relative sensitivity: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|汉纪 817]] reads Liang Shang's non-action through Shun's reliance on eunuchs and Liang Shang's position as Empress Liang's father, making broad reform politically dangerous for the Liang household.
 
 ## Counterevidence & Qualifications
 
-The sources do not say moral clarity or reform are false. Li Ying's criticism draws on a strong Mencian standard, and Li Gu's reform counsel in Hanji 817 remains morally and administratively coherent even though Liang Shang does not act on it. The concept describes prudence under danger, not a general license for relativism, silence before harm, or evasion of responsibility. Hanji 817 also does not prove Liang Shang's inner motive; it supports a plausible political reading of non-action.
+The sources do not say moral clarity or reform are false. Li Ying's criticism draws on a strong Mencian standard, and Li Gu's reform counsel in 汉纪 817 remains morally and administratively coherent even though Liang Shang does not act on it. The concept describes prudence under danger, not a general license for relativism, silence before harm, or evasion of responsibility. 汉纪 817 also does not prove Liang Shang's inner motive; it supports a plausible political reading of non-action.
 
 ## What Changed
 
-- Created the concept from Zhong Hao's counsel to Zhong Jin in Hanji 832.
-- Added Hanji 817 as an officeholding case where Liang Shang's apparent softness can be read as cautious non-action under outer-relative sensitivity.
+- Created the concept from Zhong Hao's counsel to Zhong Jin in 汉纪 832.
+- Added 汉纪 817 as an officeholding case where Liang Shang's apparent softness can be read as cautious non-action under outer-relative sensitivity.
 - Broadened the concept from public moral sorting alone to include restrained correction when reform action itself could signal dangerous ambition.
 
 ## Related Concepts

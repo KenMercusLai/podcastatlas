@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the [[HanChengdi|汉成帝]] heir-killing accusation sequence later questioned in [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] and politically closed in [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]]. It starts from Chengdi's 7 BCE sudden death at [[WeiyangPalace|未央宫]], [[ZhaoHedeWesternHan|赵合德]]'s suicide, and [[WangZhengjun|王政君]]'s demand for investigation, then centers on [[XieGuangWesternHan|谢光]]'s 6 BCE report to [[HanAidi|汉哀帝]] about missing imperial sons.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the [[HanChengdi|汉成帝]] heir-killing accusation sequence later questioned in [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|汉纪 573]] and politically closed in [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|汉纪 574]]. It starts from Chengdi's 7 BCE sudden death at [[WeiyangPalace|未央宫]], [[ZhaoHedeWesternHan|赵合德]]'s suicide, and [[WangZhengjun|王政君]]'s demand for investigation, then centers on [[XieGuangWesternHan|谢光]]'s 6 BCE report to [[HanAidi|汉哀帝]] about missing imperial sons.
 
 The durable synthesis is procedural rather than conclusive. The episode does not yet settle whether Chengdi personally killed a son; it reconstructs the accusation chain around [[CaoGongWesternHan|曹宫]]'s newborn boy: confinement under Chengdi's handwritten order, questions about whether the infant was dead, Ji Wu's attempt to preserve the imperial bloodline, Cao Gong's forced poisoning, the six attendants' deaths, and the boy's removal by edict on the eleventh day.
 
@@ -39,12 +39,12 @@ The durable synthesis is procedural rather than conclusive. The episode does not
 
 - [[HanChengdi|汉成帝]], [[CaoGongWesternHan|曹宫]], and [[SecretImperialInfantSuppression|秘密皇子压制]] - the episode supplies the concrete case chain behind the later heir-killing accusation.
 - [[XieGuangWesternHan|谢光]], [[HanAidi|汉哀帝]], and [[PoliticalCaseEvidenceSkepticism|政治案件证据怀疑]] - Xie Guang's report becomes the investigative record later episodes treat as serious but contested.
-- [[ZhaoHedeWesternHan|赵合德]], [[ZhaoFeiyanWesternHan|赵飞燕]], and [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - the episode records the accusation field around the Zhao sisters before Hanji 573 cautions against simplifying the whole succession failure into their guilt.
+- [[ZhaoHedeWesternHan|赵合德]], [[ZhaoFeiyanWesternHan|赵飞燕]], and [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - the episode records the accusation field around the Zhao sisters before 汉纪 573 cautions against simplifying the whole succession failure into their guilt.
 - [[WangZhengjun|王政君]], [[WesternHanDynasty|西汉]], and [[DynasticLegitimacyBackfire|王朝合法性回旋镖]] - Chengdi's no-heir crisis becomes a posthumous legitimacy problem for the late Western Han court.
 - [[PalaceAccusationVerification|宫廷指控核验]] and [[EvidenceOverTestimony]] - the source foregrounds testimony, edict chains, witness questioning, and missing final proof.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Qualification: this source supplies the accusation narrative that Hanji 573 later criticizes as testimony-heavy and politically useful; the wiki should preserve both layers.
+- Qualification: this source supplies the accusation narrative that 汉纪 573 later criticizes as testimony-heavy and politically useful; the wiki should preserve both layers.
 - Scope caution: the episode ends before the final judgment, so Chengdi's exact responsibility, the infant's death mechanism, the full Xu Meiren case, and the reliability of every witness remain source-scoped.

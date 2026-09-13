@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the immediate prelude to [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]]. It first explains [[CaoCao|曹操]]'s 196 CE [[TuntianSystem|屯田制]] as a response to late-Han war, famine, and broken agriculture: [[ZaoZhi|枣祗]] proposes it, Cao Cao appoints Zao Zhi and [[RenJun|任峻]], and production around [[Xudu|许都]] becomes the grain base for later campaigns. The second half shows [[LyuBu|吕布]] stopping [[YuanShu|袁术]]'s attack on [[LiuBei|刘备]] through the "辕门射戟" display, a case of [[CredibleForceDisplayDeterrence|可信武力展示威慑]] before Lü Bu's later instability in Hanji 1009.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the immediate prelude to [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|汉纪 1009]]. It first explains [[CaoCao|曹操]]'s 196 CE [[TuntianSystem|屯田制]] as a response to late-Han war, famine, and broken agriculture: [[ZaoZhi|枣祗]] proposes it, Cao Cao appoints Zao Zhi and [[RenJun|任峻]], and production around [[Xudu|许都]] becomes the grain base for later campaigns. The second half shows [[LyuBu|吕布]] stopping [[YuanShu|袁术]]'s attack on [[LiuBei|刘备]] through the "辕门射戟" display, a case of [[CredibleForceDisplayDeterrence|可信武力展示威慑]] before Lü Bu's later instability in 汉纪 1009.
 
 ## Key Claims
 - The late-Han war field is food-constrained: troops are raised faster than land can be safely farmed, so soldiers and civilians face severe hunger.
@@ -33,12 +33,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the i
 > "不战而屈人之兵" - the host's reading of Lü Bu's successful射戟 mediation.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]] - next episode, where Lü Bu turns against Liu Bei and pushes him toward Cao Cao.
+- [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|汉纪 1009]] - next episode, where Lü Bu turns against Liu Bei and pushes him toward Cao Cao.
 - [[CaoCao|曹操]], [[ZaoZhi|枣祗]], [[RenJun|任峻]], [[Xudu|许都]], and [[TuntianSystem|屯田制]] - main agricultural-logistics branch.
 - [[SunziBingfa|《孙子兵法》]], [[WarCostTempoDiscipline|战争成本与速决纪律]], and [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]] - war-cost and famine frames extended by the屯田 discussion.
 - [[LyuBu|吕布]], [[LiuBei|刘备]], [[YuanShu|袁术]], [[JiLing|纪灵]], [[PeiCounty|小沛]], and [[Taishan|泰山]] - main actors and places in the辕门射戟 branch.
 - [[CredibleForceDisplayDeterrence|可信武力展示威慑]], [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - concepts connecting this episode to the later Lü Bu/Liu Bei/Yuan Shu sequence.
 
 ## Contradictions
-- No settled contradiction found. This source primarily backfills the Hanji 1008 prelude before the already ingested Hanji 1009-1020 late-Han sequence.
+- No settled contradiction found. This source primarily backfills the 汉纪 1008 prelude before the already ingested 汉纪 1009-1020 late-Han sequence.
 - Interpretation caution: the source's grain-weight conversion, effective bow-range estimate, target-size estimate, sniper comparison, and nuclear-deterrence analogy are treated as explanatory commentary rather than independent historical proof.

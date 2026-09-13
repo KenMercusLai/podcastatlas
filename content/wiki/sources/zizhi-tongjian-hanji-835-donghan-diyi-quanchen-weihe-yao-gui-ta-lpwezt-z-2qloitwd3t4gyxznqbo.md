@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 151 CE [[EmperorHuanOfHan|汉桓帝]] court layer immediately before [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] and [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]]. Its core scene has [[ZhangLingLateHan|张陵]] publicly enforce court law against [[LiangJiLateHan|梁冀]] after Liang enters the palace audience wearing a sword; Liang kneels, apologizes, and loses one year's salary by imperial order.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 151 CE [[EmperorHuanOfHan|汉桓帝]] court layer immediately before [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]] and [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]]. Its core scene has [[ZhangLingLateHan|张陵]] publicly enforce court law against [[LiangJiLateHan|梁冀]] after Liang enters the palace audience wearing a sword; Liang kneels, apologizes, and loses one year's salary by imperial order.
 
 The source then reads the incident through ambition, jealousy, exposed cleverness, and political retreat. It recalls Liang Ji's poisoning of [[EmperorZhiOfHan|汉质帝]] after the child emperor called him "跋扈将军", then uses [[FanLi|范蠡]], [[WenZhongYue|文种]], and [[ZhangLiang|张良]] as examples for knowing when to withdraw from dangerous height.
 
@@ -48,6 +48,6 @@ The source then reads the incident through ambition, jealousy, exposed clevernes
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills a 151 CE ceremonial-law check on Liang Ji before Hanji 836's brother-household surveillance and Hanji 838's reward-expansion scene.
+- No settled contradiction with existing wiki pages was found. The episode backfills a 151 CE ceremonial-law check on Liang Ji before 汉纪 836's brother-household surveillance and 汉纪 838's reward-expansion scene.
 - Chronology caution: this source makes Liang Ji's current profile begin with a public court-law humiliation before the already-ingested 151 CE surveillance and reward layers; the later crime-record and coup pages remain downstream consequences rather than conflicts.
 - Scope caution: the jealousy framing, Kangxi's counterfactual assessment of Emperor Zhi, and the personal-cultivation advice about humility and withdrawal are preserved as source-scoped interpretation.

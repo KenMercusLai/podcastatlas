@@ -36,26 +36,26 @@ The concept is a political maneuver that may or may not have administrative cont
 
 ## Evidence
 
-- Omen attack: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] says ministers use disaster and gendered rhetoric to pressure Deng's regency and imply Heaven is warning against her rule.
-- Administrative pivot: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] says Deng reviews prisoners, discovers a wrongful case, arrests the Luoyang magistrate, and redirects blame toward lower-official misconduct.
-- Legitimacy repair: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] says rain follows and Deng frames abnormal sky/weather as Heaven warning that officials are harming the people.
-- Succession pivot: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Wang Mang reads violent wind, thunder, crop stress, frontier pressure, and rebellion as proof that crown-prince naming is wrong.
-- Symbolic correction: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Wang Mang responds by reassigning Wang An and Wang Ling's titles rather than by repairing the wider crisis conditions named in the edict.
-- Celestial-omen scapegoat: [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]] says 荧惑守心 places danger on Chengdi, then court advice identifies the chancellor as the right person to absorb it.
-- Courtesy-covered death: [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]] says Chengdi sends Zhai Fangjin a condemning document with wine and beef, leading to Zhai's suicide and later honored burial.
+- Omen attack: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]] says ministers use disaster and gendered rhetoric to pressure Deng's regency and imply Heaven is warning against her rule.
+- Administrative pivot: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]] says Deng reviews prisoners, discovers a wrongful case, arrests the Luoyang magistrate, and redirects blame toward lower-official misconduct.
+- Legitimacy repair: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]] says rain follows and Deng frames abnormal sky/weather as Heaven warning that officials are harming the people.
+- Succession pivot: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Wang Mang reads violent wind, thunder, crop stress, frontier pressure, and rebellion as proof that crown-prince naming is wrong.
+- Symbolic correction: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Wang Mang responds by reassigning Wang An and Wang Ling's titles rather than by repairing the wider crisis conditions named in the edict.
+- Celestial-omen scapegoat: [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|汉纪 559]] says 荧惑守心 places danger on Chengdi, then court advice identifies the chancellor as the right person to absorb it.
+- Courtesy-covered death: [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|汉纪 559]] says Chengdi sends Zhai Fangjin a condemning document with wine and beef, leading to Zhai's suicide and later honored burial.
 
 ## Counterevidence & Qualifications
 
-The concept now has one constructive regency case, one negative late-Xin succession case, and one fatal Western Han scapegoat case, so it should remain bounded rather than treated as a universal doctrine. Hanji 781 gives a strong interpretive reading of Deng's political skill; it does not independently prove that the prisoner review caused rain, that all ministers accepted the redirection sincerely, or that local-official punishment solved the broader disaster field. Hanji 657 shows Wang Mang's redirection, but the source does not prove his inner belief or that title correction had any practical effect on the named disasters. Hanji 559 shows the political logic of Zhai Fangjin's coerced death, but it does not settle the full justice of every accusation against him.
+The concept now has one constructive regency case, one negative late-Xin succession case, and one fatal Western Han scapegoat case, so it should remain bounded rather than treated as a universal doctrine. 汉纪 781 gives a strong interpretive reading of Deng's political skill; it does not independently prove that the prisoner review caused rain, that all ministers accepted the redirection sincerely, or that local-official punishment solved the broader disaster field. 汉纪 657 shows Wang Mang's redirection, but the source does not prove his inner belief or that title correction had any practical effect on the named disasters. 汉纪 559 shows the political logic of Zhai Fangjin's coerced death, but it does not settle the full justice of every accusation against him.
 
 ## What Changed
 
-- Added Hanji 559 as a fatal scapegoat variant where Chengdi turns a celestial omen from imperial responsibility into Zhai Fangjin's coerced suicide.
+- Added 汉纪 559 as a fatal scapegoat variant where Chengdi turns a celestial omen from imperial responsibility into Zhai Fangjin's coerced suicide.
 
 ## Related Concepts
 
 - [[NaturalDisasterPoliticalOmen]] - broader omen framework that supplies the pressure this concept redirects.
-- [[CelestialOmenPoliticalResponsibility]] - sky-sign responsibility field that supplies Hanji 559's 荧惑守心 pressure.
+- [[CelestialOmenPoliticalResponsibility]] - sky-sign responsibility field that supplies 汉纪 559's 荧惑守心 pressure.
 - [[OmenCodedRemonstrance]] - related speech pattern because disaster language can carry political criticism indirectly.
 - [[WangMang|王莽]] and [[XinDynasty|新朝]] - late-Xin case where disaster redirection protects ruler legitimacy through succession symbolism.
 - [[HanChengdi|汉成帝]] and [[ZhaiFangjinWesternHan|翟方进]] - Western Han case where redirection becomes scapegoat death.

@@ -11,7 +11,7 @@ last_updated: 2026-08-30
 ---
 
 ## Summary
-This episode pairs an opening source-scoped psychology segment on father-child relationship patterns with Jian'an 7 military and diplomatic episodes. Its main historical arc shows [[ZhongYao|钟繇]] refusing to abandon [[PingyangDefenseLateHan|平阳]], defeating [[GuoYuanLateHan|郭元]] by striking during a Fen River crossing, and absorbing [[PangDe|庞德]]'s beheading of Guo Yuan into a court-duty frame despite kinship. It then follows [[LiuBei|刘备]]'s burned-camp withdrawal and [[BowangSlopeBattleLateHan|博望坡]] ambush of [[XiahouDun|夏侯惇]], plus the setup for [[SunQuan|孙权]]'s hostage-demand dilemma continued in [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]].
+This episode pairs an opening source-scoped psychology segment on father-child relationship patterns with Jian'an 7 military and diplomatic episodes. Its main historical arc shows [[ZhongYao|钟繇]] refusing to abandon [[PingyangDefenseLateHan|平阳]], defeating [[GuoYuanLateHan|郭元]] by striking during a Fen River crossing, and absorbing [[PangDe|庞德]]'s beheading of Guo Yuan into a court-duty frame despite kinship. It then follows [[LiuBei|刘备]]'s burned-camp withdrawal and [[BowangSlopeBattleLateHan|博望坡]] ambush of [[XiahouDun|夏侯惇]], plus the setup for [[SunQuan|孙权]]'s hostage-demand dilemma continued in [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|汉纪 1058]].
 
 ## Key Claims
 - The opening psychology segment argues, source-scoped, that father-child relationship patterns affect courage before authority, social conflict, and "the world"; the episode does not turn this into a durable historical claim.
@@ -39,7 +39,7 @@ This episode pairs an opening source-scoped psychology segment on father-child r
 - [[LiuBei|刘备]], [[XiahouDun|夏侯惇]], [[LiDian|李典]], and [[BowangSlopeBattleLateHan|博望坡之战]] - Jingzhou-side burned-camp lure and ambush.
 - [[LureEnemyOutOfPosition|诱敌离位]] - broader tactical pattern that includes Liu Bei's burned-camp retreat.
 - [[RomanceOfTheThreeKingdoms|《三国演义》]] and [[ZhugeLiang|诸葛亮]] - later narrative contrast around the Bowang fire attribution.
-- [[SunQuan|孙权]], [[ZhouYuLateHan|周瑜]], [[LadyWuSunJian|吴夫人]], [[ZhangZhaoLateHan|张昭]], and [[QinSongLateHan|秦松]] - Jiangdong hostage-demand setup continued in Hanji 1058.
+- [[SunQuan|孙权]], [[ZhouYuLateHan|周瑜]], [[LadyWuSunJian|吴夫人]], [[ZhangZhaoLateHan|张昭]], and [[QinSongLateHan|秦松]] - Jiangdong hostage-demand setup continued in 汉纪 1058.
 - [[HostageBackedDependencyTrap|家属质押式依附陷阱]] - concept signaled by Cao Cao's demand for a Sun-family brother or son.
 
 ## Contradictions

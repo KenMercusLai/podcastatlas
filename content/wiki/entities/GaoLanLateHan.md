@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 高览 / Gao Lan (late Han)
 
 ## Overview
-Gao Lan enters the wiki as a [[YuanShao|Yuan Shao]] general associated with [[ZhangHeLateHan|Zhang He]] during the collapse after the [[WuchaoRaidLateHan|Wuchao Raid]]. Hanji 1049 presents him as part of the Yuan-side command group that burns its equipment and surrenders to [[CaoCao|Cao Cao]] after [[GuoTu|Guo Tu]]'s slander makes continued service dangerous.
+Gao Lan enters the wiki as a [[YuanShao|Yuan Shao]] general associated with [[ZhangHeLateHan|Zhang He]] during the collapse after the [[WuchaoRaidLateHan|Wuchao Raid]]. 汉纪 1049 presents him as part of the Yuan-side command group that burns its equipment and surrenders to [[CaoCao|Cao Cao]] after [[GuoTu|Guo Tu]]'s slander makes continued service dangerous.
 
 ## Current Profile
 Gao Lan's current profile is narrower than Zhang He's. The episode does not give him independent strategic counsel, but it pairs him with Zhang He at the decisive defection point after Yuan Shao's Wuchao misallocation and failed attack on Cao's camp.
@@ -30,7 +30,7 @@ His importance is therefore structural: Gao Lan shows that the post-Wuchao colla
 - Collapse mechanism: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m]] presents Gao Lan's surrender as part of the chain from Wuchao's burning to Yuan-side flight and disorder.
 
 ## Qualifications
-This page is currently source-scoped to Hanji 1049. It does not yet establish Gao Lan's independent biography, command record, or later fate beyond his paired surrender with Zhang He.
+This page is currently source-scoped to 汉纪 1049. It does not yet establish Gao Lan's independent biography, command record, or later fate beyond his paired surrender with Zhang He.
 
 ## What Changed
 - Created a dedicated Gao Lan page for the post-Wuchao defection.

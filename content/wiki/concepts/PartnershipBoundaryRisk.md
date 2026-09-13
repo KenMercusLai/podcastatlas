@@ -15,9 +15,9 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] builds this concept through analogy. The historical core is [[HouYinWesternHan|侯胤]] arguing that [[HanYuandi|汉元帝]] should not remove border defenses merely because [[HuhanyeChanyuWesternHan|呼韩邪单于]] is currently submissive and offers protection. The host then maps the border-defense logic onto modern cooperation: trust and closeness are not substitutes for structure.
+[[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] builds this concept through analogy. The historical core is [[HouYinWesternHan|侯胤]] arguing that [[HanYuandi|汉元帝]] should not remove border defenses merely because [[HuhanyeChanyuWesternHan|呼韩邪单于]] is currently submissive and offers protection. The host then maps the border-defense logic onto modern cooperation: trust and closeness are not substitutes for structure.
 
-[[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] sharpens the operational version. Yuan refuses the offer politely but keeps border responsibility with Han, and the host maps that refusal onto business ownership: personnel authority, financial control, and final governing power should not be transferred away merely because the other person is a friend, classmate, relative, or currently well-intentioned.
+[[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] sharpens the operational version. Yuan refuses the offer politely but keeps border responsibility with Han, and the host maps that refusal onto business ownership: personnel authority, financial control, and final governing power should not be transferred away merely because the other person is a friend, classmate, relative, or currently well-intentioned.
 
 The current concept is therefore not anti-trust. It says that cooperation becomes safer when each side preserves rules, privacy, rhythm, core-control clarity, and fallback capacity. A relationship can be warm and still need boundaries because future power, resources, jealousy, and interpretation may differ from the moment when the partnership began.
 
@@ -32,12 +32,12 @@ The current concept is therefore not anti-trust. It says that cooperation become
 
 ## Evidence
 
-- Historical analogy: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Hou Yin warns that current Xiongnu humility comes from weakness and Han help, not permanent character.
-- Critical-line delegation: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says letting Huhanye guard the border could later become a reward-demanding claim.
-- Face-preserving refusal: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] says Yuan can affirm Huhanye's intention while refusing to outsource Han's own border responsibility.
-- Modern cooperation frame: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] explicitly applies the lesson to partners who begin like brothers but later become enemies.
-- Core-control frame: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] uses the host's company anecdote to warn against transferring personnel, financial, and governing authority to a friend or classmate.
-- Practical boundary frame: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] recommends keeping boundaries, privacy, one's own rhythm, and necessary caution.
+- Historical analogy: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] says Hou Yin warns that current Xiongnu humility comes from weakness and Han help, not permanent character.
+- Critical-line delegation: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] says letting Huhanye guard the border could later become a reward-demanding claim.
+- Face-preserving refusal: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] says Yuan can affirm Huhanye's intention while refusing to outsource Han's own border responsibility.
+- Modern cooperation frame: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] explicitly applies the lesson to partners who begin like brothers but later become enemies.
+- Core-control frame: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] uses the host's company anecdote to warn against transferring personnel, financial, and governing authority to a friend or classmate.
+- Practical boundary frame: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] recommends keeping boundaries, privacy, one's own rhythm, and necessary caution.
 
 ## Counterevidence & Qualifications
 
@@ -45,7 +45,7 @@ The concept should not flatten all partnership into suspicion. The sources' hist
 
 ## What Changed
 
-- Added Hanji 494's face-preserving refusal and core-control warning, narrowing the concept around authority, finance, personnel, and accountable responsibility.
+- Added 汉纪 494's face-preserving refusal and core-control warning, narrowing the concept around authority, finance, personnel, and accountable responsibility.
 
 ## Related Concepts
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 刘义逊 / Liu Yixun
 
-刘义逊 / Liu Yixun enters the wiki through [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] as a respected Qinggao figure hosted by [[KongRong|孔融]] in [[BeihaiCommandery|北海郡]]. The source says Kong Rong treats him and [[ZuoChengzu|左承祖]] as honored guests but does not make them serious participants in deciding the crisis.
+刘义逊 / Liu Yixun enters the wiki through [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|汉纪 1007]] as a respected Qinggao figure hosted by [[KongRong|孔融]] in [[BeihaiCommandery|北海郡]]. The source says Kong Rong treats him and [[ZuoChengzu|左承祖]] as honored guests but does not make them serious participants in deciding the crisis.
 
 After Kong Rong kills Zuo Chengzu for advising dependence on a stronger power, Liu Yixun leaves Beihai. The episode uses this departure to show that political intolerance does not only silence one adviser; it warns other capable people that honest correction is unsafe.
 

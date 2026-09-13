@@ -52,7 +52,7 @@ The same episode begins the Su Qin / Zhang Yi pairing. Su Qin and Zhang Yi are p
 
 [[zizhi-tongjian-zhouji-96-maosui-zijian-3-lj-cr4vg4e1qdfjs6yez85-3zuiv]] adds [[LuZhonglian|鲁仲连]]'s Handan intervention as another late crisis example. Lu Zhonglian attacks [[XinyuanYan|新垣衍]]'s proposal by mixing [[CivilizationBarbarismFrame|civilization-barbarism framing]], personal-risk accounting, and [[HistoricalPrecedentWeaponization|historical precedent weaponization]]. The episode then critiques the evidence behind the speech, making this a case where zonghengjia success and historical reliability must be evaluated separately.
 
-[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] makes the tradition internally competitive. [[LiShiqi|郦食其]] wins Qi through psychological warfare, while [[KuaiChe|蒯彻 / 蒯通]] pushes [[HanXin|韩信]] by warning that an envoy's success will eclipse the army's merit. The host frames this as a same-craft collision: the diplomat who wins a state can still be destroyed when another strategist persuades his own side not to honor the diplomatic timing.
+[[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|汉纪 163]] makes the tradition internally competitive. [[LiShiqi|郦食其]] wins Qi through psychological warfare, while [[KuaiChe|蒯彻 / 蒯通]] pushes [[HanXin|韩信]] by warning that an envoy's success will eclipse the army's merit. The host frames this as a same-craft collision: the diplomat who wins a state can still be destroyed when another strategist persuades his own side not to honor the diplomatic timing.
 
 ## Key Claims
 - Diplomatic rhetoric becomes a direct instrument of power in the Warring States field.

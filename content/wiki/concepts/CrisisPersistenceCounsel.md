@@ -26,10 +26,10 @@ Xun Yu reframes the moment as a contest over strategic standing. Because Yuan Sh
 - In the Guandu case, the later supply-line attacks make persistence operational rather than merely emotional.
 
 ## Evidence
-- Crisis condition: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Cao Cao considers withdrawing because grain is nearly gone, soldiers are exhausted, and civilians are defecting under burden.
-- Strategic reframing: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] has Xun Yu argue that Guandu is a decisive moment over the future order and that the first retreating side loses position.
-- Legitimacy and opponent diagnosis: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] contrasts Cao Cao's emperor-backed name and adviser use with Yuan Shao's inability to use talent.
-- Operational payoff: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] follows the decision to hold with convoy interception and Xu You's Wuchao intelligence.
+- Crisis condition: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Cao Cao considers withdrawing because grain is nearly gone, soldiers are exhausted, and civilians are defecting under burden.
+- Strategic reframing: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] has Xun Yu argue that Guandu is a decisive moment over the future order and that the first retreating side loses position.
+- Legitimacy and opponent diagnosis: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] contrasts Cao Cao's emperor-backed name and adviser use with Yuan Shao's inability to use talent.
+- Operational payoff: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] follows the decision to hold with convoy interception and Xu You's Wuchao intelligence.
 
 ## Counterevidence & Qualifications
 The concept should not be read as a rule against retreat. If the leader lacks supplies, defensible position, follower cohesion, or a plausible way to create a later opening, persistence can become wasteful overextension. In this source, Xun Yu's advice is validated only because subsequent events expose Yuan Shao's logistics and adviser-system weaknesses.

@@ -14,7 +14,7 @@ Delegated regency capture is the court-power mechanism in which a senior regent 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] defines the current case through [[WangMang|王莽]] and [[WangZhengjun|王政君]] in 1 CE. Wang Zhengjun still matters because she is the senior Han dowager and formal regency figure under the child [[HanPingdi|汉平帝]], but Wang Mang identifies her continued handling of government as the obstacle to exclusive control.
+[[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|汉纪 609]] defines the current case through [[WangMang|王莽]] and [[WangZhengjun|王政君]] in 1 CE. Wang Zhengjun still matters because she is the senior Han dowager and formal regency figure under the child [[HanPingdi|汉平帝]], but Wang Mang identifies her continued handling of government as the obstacle to exclusive control.
 
 The capture mechanism works by making delegation look considerate and procedural. Ministers recommend that Wang Zhengjun no longer be troubled with most affairs; her edict reserves enfeoffment matters for herself while assigning other work to Wang Mang and the Four Offices; and new officials, high administrators, and recommended talents must report to Wang Mang for examination. Once the reporting channel changes, Wang Mang can pair attentive reception and gifts with public denunciation and dismissal.
 
@@ -30,10 +30,10 @@ The concept is distinct from ordinary regency because the decisive transfer is n
 
 ## Evidence
 
-- Dowager burden frame: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] says Wang Mang uses Wang Zhengjun's age and weariness with affairs as the reason to reduce matters brought before her.
-- Edict structure: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] says only enfeoffment matters continue to be reported to Wang Zhengjun, while Wang Mang and the Four Offices handle other affairs.
-- Personnel channel: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] says state governors, two-thousand-dan officials, and recommended talents report to Wang Mang for examination of past performance and future governing plans.
-- Discipline after capture: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] says Wang Mang receives officials generously and gives gifts, but denounces and removes those who refuse obedience.
+- Dowager burden frame: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|汉纪 609]] says Wang Mang uses Wang Zhengjun's age and weariness with affairs as the reason to reduce matters brought before her.
+- Edict structure: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|汉纪 609]] says only enfeoffment matters continue to be reported to Wang Zhengjun, while Wang Mang and the Four Offices handle other affairs.
+- Personnel channel: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|汉纪 609]] says state governors, two-thousand-dan officials, and recommended talents report to Wang Mang for examination of past performance and future governing plans.
+- Discipline after capture: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|汉纪 609]] says Wang Mang receives officials generously and gives gifts, but denounces and removes those who refuse obedience.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ This concept is currently bounded to one Wang Mang episode and should not yet be
 
 ## What Changed
 
-- Created the concept from Hanji 609's 1 CE delegation edict, personnel-evaluation channel, and Wang Mang's gift-plus-dismissal control of officials.
+- Created the concept from 汉纪 609's 1 CE delegation edict, personnel-evaluation channel, and Wang Mang's gift-plus-dismissal control of officials.
 
 ## Related Concepts
 

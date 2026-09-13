@@ -15,7 +15,7 @@ last_updated: 2026-08-27
 Prestige-constrained political prosecution / 名望约束下的政治追诉 is a court-control pattern in which the ruler or dominant minister has political reasons to accuse a famous target, but the target's public reputation, elite network, and weak evidentiary record make decisive punishment dangerous to the punisher's own legitimacy.
 
 ## Current Synthesis
-The concept is grounded in the [[YangBiao|杨彪]] case after [[CaoCao|曹操]] brings [[EmperorXianOfHan|汉献帝]] into the Xu court. Cao Cao has reasons to treat Yang Biao as dangerous: old-Han prestige, a marriage tie to [[YuanShu|袁术]], and the symbolic value of warning court loyalists. Yet [[KongRong|孔融]] and [[ManChong|满宠]] expose the limiting condition: if the charge cannot be supported, punishing a famous man converts enforcement into reputational damage. Hanji 1021 sharpens the result by showing that release can still be punitive when paired with removal from high office.
+The concept is grounded in the [[YangBiao|杨彪]] case after [[CaoCao|曹操]] brings [[EmperorXianOfHan|汉献帝]] into the Xu court. Cao Cao has reasons to treat Yang Biao as dangerous: old-Han prestige, a marriage tie to [[YuanShu|袁术]], and the symbolic value of warning court loyalists. Yet [[KongRong|孔融]] and [[ManChong|满宠]] expose the limiting condition: if the charge cannot be supported, punishing a famous man converts enforcement into reputational damage. 汉纪 1021 sharpens the result by showing that release can still be punitive when paired with removal from high office.
 
 ## Key Claims
 - A political prosecution can fail or narrow when the accused person carries enough public moral capital.
@@ -25,16 +25,16 @@ The concept is grounded in the [[YangBiao|杨彪]] case after [[CaoCao|曹操]] 
 - The pattern sits between show-trial logic and neutral evidence failure: political intent is present, but public confidence still constrains the outcome.
 
 ## Evidence
-- Case formation: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] gives Yang Biao's Yuan Shu marriage-tie exposure, Kong Rong's protest, Man Chong's warning against punishment without firm proof, and Cao Cao's eventual release.
-- Outcome and political meaning: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] adds the release-but-removal outcome and interprets the case as Cao Cao's warning to old-Han loyalists and great clans.
-- Constraint mechanism: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] and [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] together show that prestige does not block arrest, but it changes the cost of conviction and execution.
+- Case formation: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|汉纪 1020]] gives Yang Biao's Yuan Shu marriage-tie exposure, Kong Rong's protest, Man Chong's warning against punishment without firm proof, and Cao Cao's eventual release.
+- Outcome and political meaning: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] adds the release-but-removal outcome and interprets the case as Cao Cao's warning to old-Han loyalists and great clans.
+- Constraint mechanism: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|汉纪 1020]] and [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] together show that prestige does not block arrest, but it changes the cost of conviction and execution.
 
 ## Counterevidence & Qualifications
-This concept should not be generalized into a rule that famous people are protected from coercion. Yang Biao is still arrested, interrogated, removed from office, and pushed toward withdrawal. The constraint is therefore partial: reputation limits the form and public defensibility of punishment, not the existence of political targeting. Hanji 1021's claim that the case marks an open Cao-versus-old-Han break remains an interpretive reading of the episode sequence.
+This concept should not be generalized into a rule that famous people are protected from coercion. Yang Biao is still arrested, interrogated, removed from office, and pushed toward withdrawal. The constraint is therefore partial: reputation limits the form and public defensibility of punishment, not the existence of political targeting. 汉纪 1021's claim that the case marks an open Cao-versus-old-Han break remains an interpretive reading of the episode sequence.
 
 ## What Changed
 - Converted the page from source-append format to synthesis-v1.
-- Added Hanji 1021's release-plus-removal outcome as the concept's clearest punitive-but-constrained result.
+- Added 汉纪 1021's release-plus-removal outcome as the concept's clearest punitive-but-constrained result.
 - Clarified that prestige constrains execution and conviction more than it prevents arrest or intimidation.
 
 ## Related Concepts

@@ -43,7 +43,7 @@ The heart-demon reading belongs to the film interpretation and should not replac
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added Hanji 456-5's earlier emphasis on Sun Wukong as ideal and 心之所向 before the heart-demon turn.
+- Added 汉纪 456-5's earlier emphasis on Sun Wukong as ideal and 心之所向 before the heart-demon turn.
 
 ## Relationships
 

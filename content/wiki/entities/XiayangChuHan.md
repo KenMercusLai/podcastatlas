@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 下阳 / Xiayang (Chu-Han)
 
-下阳 / Xiayang enters the wiki through [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] as the real crossing point [[HanXin|韩信]] uses against [[WeiBao|魏豹]]. While Wei concentrates near [[LinjinWarringStates|临晋]] and [[PubanWarringStates|蒲阪]], Han Xin shifts north to Xiayang and crosses where the water is calmer.
+下阳 / Xiayang enters the wiki through [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|汉纪 155-2]] as the real crossing point [[HanXin|韩信]] uses against [[WeiBao|魏豹]]. While Wei concentrates near [[LinjinWarringStates|临晋]] and [[PubanWarringStates|蒲阪]], Han Xin shifts north to Xiayang and crosses where the water is calmer.
 
 The episode makes Xiayang a practical rather than decorative geography point. The hidden crossing works because soldiers can use wooden boards and jar-floats to move across the river, allowing the Han army to threaten [[Anyi|安邑]] before Wei Bao can turn his frontal defense into a response.
 

@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》910丨社会生存，我劝你多点城府
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 177-178 CE layer immediately before [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|Hanji 911]]. It opens with a guarded-disclosure frame about social survival and then turns to [[ZhaoBaoLateHan|赵苞 / 赵包]], whose mother and wife become [[Xianbei|鲜卑]] hostages under [[TanshihuaiXianbei|檀石槐]]. The closing institutional section links the 178 CE [[WuhuManJiaozhi|乌浒蛮]] outbreak and omen-office setting to [[EmperorLingOfHan|汉灵帝]]'s creation of [[HongduMenxue|鸿都门学]] as a counterweight to [[Taixue|太学]] and great-clan selection power.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 177-178 CE layer immediately before [[zizhi-tongjian-hanji-911-gudai-gongwuyuan-ye-neng-bao-fenpei-ls3pxu9xlpuulsdailx8tcoylv9e|汉纪 911]]. It opens with a guarded-disclosure frame about social survival and then turns to [[ZhaoBaoLateHan|赵苞 / 赵包]], whose mother and wife become [[Xianbei|鲜卑]] hostages under [[TanshihuaiXianbei|檀石槐]]. The closing institutional section links the 178 CE [[WuhuManJiaozhi|乌浒蛮]] outbreak and omen-office setting to [[EmperorLingOfHan|汉灵帝]]'s creation of [[HongduMenxue|鸿都门学]] as a counterweight to [[Taixue|太学]] and great-clan selection power.
 
 ## Key Claims
 - The host argues that ordinary social survival requires not exposing one's real situation, interests, bottom line, or family vulnerabilities too casually; this is filed as [[CommunicationBoundarySetting|Communication Boundary Setting]] rather than as a universal psychology rule.
@@ -34,11 +34,11 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 ## Connections
 - [[ZhaoBaoLateHan|赵苞 / 赵包]], [[Xianbei|鲜卑]], [[TanshihuaiXianbei|檀石槐]], and [[LoyaltyCollateralDilemma|忠义牵连困境]] - family-hostage coercion and the loyal-minister versus family-rescue bind.
 - [[CommunicationBoundarySetting|Communication Boundary Setting]] - the opening claim that uncontrolled disclosure gives other people leverage.
-- [[WuhuManJiaozhi|乌浒蛮]] - 178 CE southern-frontier outbreak before the longer Jiaozhi rebellion branch in Hanji 920.
+- [[WuhuManJiaozhi|乌浒蛮]] - 178 CE southern-frontier outbreak before the longer Jiaozhi rebellion branch in 汉纪 920.
 - [[EmperorLingOfHan|汉灵帝]], [[HongduMenxue|鸿都门学]], [[Taixue|太学]], and [[OfficialSelectionChannelCompetition|选官通道竞争]] - Hongdu as an education-to-office counterchannel.
 - [[CourtOfficeCapture|朝廷开府任官失序]] - early appointment-order distortion before later Hongdu criticism, office sale, and document-access branches.
 
 ## Contradictions
 - No settled contradiction is recorded.
 - The transcript renders the Liaoxi official as 赵包; this wiki uses [[ZhaoBaoLateHan|赵苞 / 赵包]] for the late-Han frontier official and keeps him distinct from [[ZhaoBao|赵豹 / 平阳君]].
-- Hanji 910 backfills the Wuhu Man outbreak to 178 CE, while [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] later shows the rebellion persisting into Zhu Jun's suppression; this is treated as chronology extension rather than conflict.
+- 汉纪 910 backfills the Wuhu Man outbreak to 178 CE, while [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|汉纪 920]] later shows the rebellion persisting into Zhu Jun's suppression; this is treated as chronology extension rather than conflict.

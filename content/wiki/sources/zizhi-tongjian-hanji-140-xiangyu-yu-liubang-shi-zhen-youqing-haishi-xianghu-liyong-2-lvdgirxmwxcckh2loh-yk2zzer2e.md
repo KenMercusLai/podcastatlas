@@ -34,7 +34,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 - [[XiangYu|项羽]], [[FanZeng|范增]], [[HongmenYan|鸿门宴]], and [[AngerDrivenWarDecision|因怒兴师]] - attack order, factional split, and cancellation before the meeting.
 - [[HuaiwangAgreement|怀王之约]], [[GuanzhongRegion|关中]], and [[MoralizedWarPretext|道德化战争借口]] - Liu Bang's first-entry claim and Xiang Bo's argument that first-entry merit makes attacking him look unjust.
 - [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], [[EmotionalDeescalationPersuasion|情绪降温式说服]], and [[PowerEtiquetteReading|权力礼仪细读]] - personal obligation, emotional sequencing, and ritual address under military danger.
-- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|Hanji 140 part 1]] - direct setup: pass closure, Cao Wushang's leak, Fan Zeng's warning, and Xiang Yu's attack order.
+- [[zizhi-tongjian-hanji-140-xiangyu-yu-liubang-shi-zhen-youqing-haishi-xianghu-liyong-1-lmmhoq2wo3bs6b1johpc0ixuf662|汉纪 140 part 1]] - direct setup: pass closure, Cao Wushang's leak, Fan Zeng's warning, and Xiang Yu's attack order.
 
 ## Contradictions
 - No settled contradiction is recorded. The episode softens neither Liu Bang's opportunism nor Xiang Yu's strategic weakness; it shows how both become mediated through old obligation, kinship, etiquette, and moral language.

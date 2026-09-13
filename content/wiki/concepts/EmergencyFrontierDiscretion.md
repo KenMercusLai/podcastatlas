@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-Hanji 427 creates the concept through [[FengFengshiWesternHan|冯奉世]]'s response to the [[ShacheKingdomWesternHan|莎车国]] rebellion. Feng learns at Yixun that Shache has killed Wannian and a Han envoy, and that the southern Silk Road route is blocked. His deputy raises the ordinary bureaucratic path of memorializing Chang'an, but Feng judges that distance, desert travel, and the risk of Shache strengthening make delay dangerous.
+汉纪 427 creates the concept through [[FengFengshiWesternHan|冯奉世]]'s response to the [[ShacheKingdomWesternHan|莎车国]] rebellion. Feng learns at Yixun that Shache has killed Wannian and a Han envoy, and that the southern Silk Road route is blocked. His deputy raises the ordinary bureaucratic path of memorializing Chang'an, but Feng judges that distance, desert travel, and the risk of Shache strengthening make delay dangerous.
 
 The source's key distinction is that emergency discretion can be strategically rational and institutionally hazardous at the same time. Feng's unauthorized command gathers Western Regions cavalry, creates overwhelming pressure, and wins without a long campaign. Yet [[EmperorXuanOfHan|汉宣帝]] ultimately accepts [[XiaoWangzhiWesternHan|萧望之]]'s warning that marquis-level reward would teach envoys that they may launch Western Regions wars whenever local conflict arises.
 
@@ -31,16 +31,16 @@ The concept therefore does not celebrate disobedience by itself. It names a narr
 ## Evidence
 
 Timing pressure:
-- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|Hanji 427]] says Feng Fengshi is at Yixun when he learns Shache has rebelled and the southern route is blocked.
-- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|Hanji 427]] says Feng and his deputy discuss whether to wait for Chang'an, but distance and slow communication make that option costly.
+- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|汉纪 427]] says Feng Fengshi is at Yixun when he learns Shache has rebelled and the southern route is blocked.
+- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|汉纪 427]] says Feng and his deputy discuss whether to wait for Chang'an, but distance and slow communication make that option costly.
 
 Unauthorized mobilization:
-- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|Hanji 427]] says Feng falsely issues an imperial command to Western Regions states and orders their cavalry to assemble at Shache.
-- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|Hanji 427]] says the assembled force pressures Shache into internal surrender.
+- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|汉纪 427]] says Feng falsely issues an imperial command to Western Regions states and orders their cavalry to assemble at Shache.
+- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|汉纪 427]] says the assembled force pressures Shache into internal surrender.
 
 Precedent control:
-- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|Hanji 427]] says Xuan considers making Feng a marquis, but Xiao Wangzhi warns that rewarding unauthorized envoy mobilization would leave the Western Regions without peace.
-- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|Hanji 427]] says Feng is promoted but not enfeoffed, preserving a reward boundary.
+- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|汉纪 427]] says Xuan considers making Feng a marquis, but Xiao Wangzhi warns that rewarding unauthorized envoy mobilization would leave the Western Regions without peace.
+- [[zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp|汉纪 427]] says Feng is promoted but not enfeoffed, preserving a reward boundary.
 
 ## Counterevidence & Qualifications
 
@@ -48,7 +48,7 @@ This concept is currently grounded in one source note. It does not prove that Fe
 
 ## What Changed
 
-- Created the concept from Hanji 427's Feng Fengshi case, linking distance-driven emergency action to reward-precedent control.
+- Created the concept from 汉纪 427's Feng Fengshi case, linking distance-driven emergency action to reward-precedent control.
 
 ## Related Concepts
 

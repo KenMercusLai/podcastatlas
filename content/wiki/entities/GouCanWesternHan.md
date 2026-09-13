@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-苟参 / Gou Can enters the wiki through [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] as [[WangZhengjun|王政君]]'s half-brother, born after her mother Li remarried [[GouBinWesternHan|苟宾]].
+苟参 / Gou Can enters the wiki through [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] as [[WangZhengjun|王政君]]'s half-brother, born after her mother Li remarried [[GouBinWesternHan|苟宾]].
 
 ## Current Profile
 
@@ -24,17 +24,17 @@ Gou Can's importance is as a boundary case. Wang Zhengjun wants [[HanChengdi|汉
 
 ## Evidence
 
-- Family relation: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Wang Zhengjun's mother Li marries Gou Bin and bears Gou Can.
-- Failed marquisate: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Wang Zhengjun wants Gou Can enfeoffed by analogy to Tian Fen, but Chengdi refuses.
-- Office outcome: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Gou Can is appointed Shizhong and Shuiheng Duwei.
+- Family relation: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Wang Zhengjun's mother Li marries Gou Bin and bears Gou Can.
+- Failed marquisate: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Wang Zhengjun wants Gou Can enfeoffed by analogy to Tian Fen, but Chengdi refuses.
+- Office outcome: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Gou Can is appointed Shizhong and Shuiheng Duwei.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 511 and does not reconstruct Gou Can's later career, offices, or exact status relative to Wang Zhengjun's paternal Wang brothers.
+This page is source-scoped to 汉纪 511 and does not reconstruct Gou Can's later career, offices, or exact status relative to Wang Zhengjun's paternal Wang brothers.
 
 ## What Changed
 
-- Created Gou Can from Hanji 511's failed half-brother marquisate case.
+- Created Gou Can from 汉纪 511's failed half-brother marquisate case.
 
 ## Relationships
 

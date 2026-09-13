@@ -9,10 +9,10 @@ last_updated: 2026-09-01
 ---
 
 ## Overview
-任延 / Ren Yan is an early Eastern Han southern-frontier official whose current wiki profile comes from [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]]. The episode places him in Jiuzhen and pairs him with [[XiGuangEasternHan|锡光]] as a figure who teaches agriculture and Han social customs in Lingnan.
+任延 / Ren Yan is an early Eastern Han southern-frontier official whose current wiki profile comes from [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]]. The episode places him in Jiuzhen and pairs him with [[XiGuangEasternHan|锡光]] as a figure who teaches agriculture and Han social customs in Lingnan.
 
 ## Current Profile
-Hanji 699 presents Ren Yan as the productive counterpart to Xi Guang's ritual and social instruction. In Jiuzhen, he is associated with teaching agricultural practices, making frontier integration a livelihood and production problem as well as a matter of titles and allegiance.
+汉纪 699 presents Ren Yan as the productive counterpart to Xi Guang's ritual and social instruction. In Jiuzhen, he is associated with teaching agricultural practices, making frontier integration a livelihood and production problem as well as a matter of titles and allegiance.
 
 The episode groups him with Xi Guang as a starting point for Lingnan's adoption of Zhongyuan customs. That grouping matters because it makes southern governance local and instructional: officials do not merely receive tribute; they also reshape everyday work and social norms.
 
@@ -26,15 +26,15 @@ Ren Yan's wiki role is therefore conceptual. He anchors the agrarian side of a b
 - Southern-frontier case where formal allegiance is followed by everyday administrative teaching.
 
 ## Evidence
-- Jiuzhen placement: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] places Ren Yan in Jiuzhen during the southern-frontier branch.
-- Agricultural instruction: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Ren Yan teaches agriculture.
-- Paired Lingnan effect: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] pairs Ren Yan with Xi Guang as figures through whom Lingnan begins adopting central-plains customs.
+- Jiuzhen placement: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] places Ren Yan in Jiuzhen during the southern-frontier branch.
+- Agricultural instruction: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] says Ren Yan teaches agriculture.
+- Paired Lingnan effect: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] pairs Ren Yan with Xi Guang as figures through whom Lingnan begins adopting central-plains customs.
 
 ## Qualifications
 This page is a one-source bounded profile. It does not reconstruct Ren Yan's full administrative career, the exact local techniques taught, or the degree to which communities accepted, adapted, or resisted the instruction. The transcript form 任炎 is normalized to 任延.
 
 ## What Changed
-- Created Ren Yan as the Jiuzhen-side agricultural instruction official in Hanji 699.
+- Created Ren Yan as the Jiuzhen-side agricultural instruction official in 汉纪 699.
 - Linked his role to ritual-agrarian frontier integration and Jiaozhi's wider southern context.
 
 ## Relationships

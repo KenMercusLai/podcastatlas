@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 92-93 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]]. It uses the opening "outer round, inner square" frame to connect [[LiHeEasternHan|李郃]]'s delayed gift mission, [[LiuQingQingheKing|清河王刘庆]]'s cautious self-preservation, [[ZhengZhongEasternHan|郑众]]'s trusted eunuch access, [[DengXunEasternHan|邓训]]'s posthumous frontier legitimacy, [[NieShangLateHan|聂尚]]'s failed conciliation of [[MiTangQiangLeader|弥唐]], and the [[NorthernXiongnuLateHan|Northern Xiongnu]] / [[Xianbei|Xianbei]] transition after [[DouXianEasternHan|窦宪]]'s fall.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 92-93 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]]. It uses the opening "outer round, inner square" frame to connect [[LiHeEasternHan|李郃]]'s delayed gift mission, [[LiuQingQingheKing|清河王刘庆]]'s cautious self-preservation, [[ZhengZhongEasternHan|郑众]]'s trusted eunuch access, [[DengXunEasternHan|邓训]]'s posthumous frontier legitimacy, [[NieShangLateHan|聂尚]]'s failed conciliation of [[MiTangQiangLeader|弥唐]], and the [[NorthernXiongnuLateHan|Northern Xiongnu]] / [[Xianbei|Xianbei]] transition after [[DouXianEasternHan|窦宪]]'s fall.
 
 The durable synthesis is that political intelligence is not mere smoothness. Li He survives by turning delay into a defensible mission, Liu Qing preserves favor by staying cautious after trauma, Deng Xun's legitimacy outlives office, while Nie Shang's goodwill and speed collapse when they are not matched to trust, incentives, and frontier credibility.
 
@@ -39,7 +39,7 @@ The durable synthesis is that political intelligence is not mere smoothness. Li 
 
 ## Connections
 
-- [[EmperorHeOfHan|汉和帝]] - gains the 92-93 CE post-Dou consolidation, reward, ritual, frontier, and Northern Xiongnu response layer before Hanji 768.
+- [[EmperorHeOfHan|汉和帝]] - gains the 92-93 CE post-Dou consolidation, reward, ritual, frontier, and Northern Xiongnu response layer before 汉纪 768.
 - [[DouXianEasternHan|窦宪]] - his fall creates the danger field for Li He's delayed mission, Ban Gu's prison death, and Northern Xiongnu volatility.
 - [[BanGuEasternHan|班固]] and [[BanZhaoLateHan|班昭]] - connect historiographical succession to the political purge field.
 - [[LiHeEasternHan|李郃]], [[TacticalDelayRiskTransfer|延时转责式政治化解]], and [[OuterRoundInnerSquareConduct|外圆内方式处世]] - the delayed gift mission becomes the episode's central survival technique.
@@ -52,6 +52,6 @@ The durable synthesis is that political intelligence is not mere smoothness. Li 
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content is recorded. This source backfills an earlier He-era layer before Hanji 768 rather than overturning the later Cao Bao, Liu Chang, Guan You, and Southern Xiongnu material.
+- No settled contradiction with existing wiki content is recorded. This source backfills an earlier He-era layer before 汉纪 768 rather than overturning the later Cao Bao, Liu Chang, Guan You, and Southern Xiongnu material.
 - Identity caution: the Yuan An son named 袁尚 in the source is not linked to the existing [[YuanShang|袁尚 / Yuan Shang]] page, which belongs to the later Yuan Shao succession field.
 - Scope caution: Bi Que, Tian Si, Xu Heng, Wang Fu, Ren Tun, Liu Wansui, Liu Kang, Liu Fang, Deng Biao, Song You, Ren Kui, Yin Mu, the southern Man notices, and exact annal dates remain source-scoped unless later notes warrant standalone pages.

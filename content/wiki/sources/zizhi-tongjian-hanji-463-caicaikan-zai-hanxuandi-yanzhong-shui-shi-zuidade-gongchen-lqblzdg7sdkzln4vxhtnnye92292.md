@@ -40,7 +40,7 @@ The durable synthesis is that Xuan-era achievement is presented as both frontier
 
 - [[EmperorXuanOfHan|汉宣帝]], [[QilinPavilionMeritHonors|麒麟阁功臣荣典]], and [[XiaoWangzhiWesternHan|萧望之]] - the source adds the Ganlu 3 honor-roll and classics-standardization layer before the later deathbed and Yuan-era material.
 - [[HuhanyeChanyuWesternHan|呼韩邪单于]], [[Xiongnu|匈奴]], [[WesternRegionsProtectorate|西域都护府]], and [[WesternHanDynasty|西汉]] - Huhanye's protected settlement turns submission into wider regional leverage.
-- [[XieyouPrincessWesternHan|解忧公主]], [[FengLiaoWesternHan|冯嫽]], and [[Wusun|乌孙]] - the Wusun branch moves from Hanji 460's crisis toward Xieyou's return and Feng Liao's late stabilizing mission.
+- [[XieyouPrincessWesternHan|解忧公主]], [[FengLiaoWesternHan|冯嫽]], and [[Wusun|乌孙]] - the Wusun branch moves from 汉纪 460's crisis toward Xieyou's return and Feng Liao's late stabilizing mission.
 - [[ImperialClassicsConsensusBuilding|官方经学定议]] - the source supplies a Western Han standard-setting case before the Eastern Han Baihu Guan conference.
 - [[WangZhengjun|王政君]], [[HanChengdi|刘骜 / 汉成帝]], and [[WangHeWesternHan|王贺]] - the source adds the origin layer for Wang Zhengjun's entrance into the crown-prince household and Liu Ao's birth.
 

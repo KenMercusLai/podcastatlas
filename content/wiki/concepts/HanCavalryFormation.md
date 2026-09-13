@@ -16,9 +16,9 @@ Han Cavalry Formation / 汉军骑兵建设 is the state or army-level process of
 
 ## Current Synthesis
 
-The concept first enters through Liu Bang's post-Pengcheng recovery in Hanji 153 part 2. After [[XiangYu|项羽]]'s cavalry shock exposes the weakness of Liu Bang's infantry-heavy coalition, Liu Bang begins building his own mounted force around Guanzhong troops. [[LiBiQinCavalry|李璧]] and [[LuoJiaQinCavalry|骆甲]] know cavalry but warn that their Qin background may not convince Han troops, so [[GuanYing|灌婴]] becomes the trusted visible commander while they serve as technical deputies.
+The concept first enters through Liu Bang's post-Pengcheng recovery in 汉纪 153 part 2. After [[XiangYu|项羽]]'s cavalry shock exposes the weakness of Liu Bang's infantry-heavy coalition, Liu Bang begins building his own mounted force around Guanzhong troops. [[LiBiQinCavalry|李璧]] and [[LuoJiaQinCavalry|骆甲]] know cavalry but warn that their Qin background may not convince Han troops, so [[GuanYing|灌婴]] becomes the trusted visible commander while they serve as technical deputies.
 
-Hanji 788 adds a later Eastern Han frontier variant. [[YuXuEasternHan|虞诩]] argues that infantry cannot catch mounted Qiang enemies, even if the Han side gathers a large number of foot soldiers. His answer is narrower and more urgent than Liu Bang's post-defeat force build: send local soldiers back to farming while using pooled money to buy horses, then let [[RenShangLateHan|任尚]] use light cavalry to pursue the enemy.
+汉纪 788 adds a later Eastern Han frontier variant. [[YuXuEasternHan|虞诩]] argues that infantry cannot catch mounted Qiang enemies, even if the Han side gathers a large number of foot soldiers. His answer is narrower and more urgent than Liu Bang's post-defeat force build: send local soldiers back to farming while using pooled money to buy horses, then let [[RenShangLateHan|任尚]] use light cavalry to pursue the enemy.
 
 At the Qin-Han scale, cavalry formation also has a technology-history dimension. Chu-Han cavalry traces can be read as possible signs of early impact-cavalry development connected to [[EurasianMilitaryTechnologyExchange|欧亚军事技术交流]], but that connection remains inferential. Together the sources show that cavalry formation is not only about shock action; it is also about matching enemy mobility, organizing trained mounted forces, and placing Chinese battlefield adaptation inside wider Eurasian military change.
 
@@ -33,11 +33,11 @@ At the Qin-Han scale, cavalry formation also has a technology-history dimension.
 
 ## Evidence
 
-- Post-Pengcheng learning: [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] says Liu Bang begins building cavalry after Xiang Yu's mounted force shows what a smaller mobile arm can do to a larger infantry-heavy army.
-- Command-legitimacy design: [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] says Li Bi and Luo Jia recommend Guan Ying as visible commander because their Qin background may not persuade Han troops.
-- First payoff: [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] records Guan Ying's cavalry victory east of Xingyang as part of Liu Bang's recovery.
-- Mobility diagnosis: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says Yu Xu argues that infantry cannot pursue mounted Qiang forces that can move hundreds of li per day.
-- Light-cavalry implementation: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says the court accepts Yu Xu's proposal and Ren Shang uses light cavalry to win.
+- Post-Pengcheng learning: [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|汉纪 153 part 2]] says Liu Bang begins building cavalry after Xiang Yu's mounted force shows what a smaller mobile arm can do to a larger infantry-heavy army.
+- Command-legitimacy design: [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|汉纪 153 part 2]] says Li Bi and Luo Jia recommend Guan Ying as visible commander because their Qin background may not persuade Han troops.
+- First payoff: [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|汉纪 153 part 2]] records Guan Ying's cavalry victory east of Xingyang as part of Liu Bang's recovery.
+- Mobility diagnosis: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]] says Yu Xu argues that infantry cannot pursue mounted Qiang forces that can move hundreds of li per day.
+- Light-cavalry implementation: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]] says the court accepts Yu Xu's proposal and Ren Shang uses light cavalry to win.
 - Eurasian comparison: [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj]] argues that Chu-Han cavalry clues may belong to a wider Eurasian no-stirrup cavalry development field, while preserving uncertainty about direct influence.
 
 ## Counterevidence & Qualifications
@@ -57,4 +57,4 @@ These sources do not make cavalry a universal solution. Liu Bang's case requires
 - [[EurasianMilitaryTechnologyExchange|欧亚军事技术交流]] - wider comparative frame for Qin-Han cavalry development and later two-way military technology movement.
 - [[IncreasingStovesDeception|增灶示强]] - adjacent Yu Xu tactic that compensates for force inferiority after the mobility problem is partly addressed.
 - [[YuXuEasternHan|虞诩]] - Eastern Han adviser who gives the light-cavalry recommendation.
-- [[RenShangLateHan|任尚]] - commander who implements the light-cavalry answer in Hanji 788.
+- [[RenShangLateHan|任尚]] - commander who implements the light-cavalry answer in 汉纪 788.

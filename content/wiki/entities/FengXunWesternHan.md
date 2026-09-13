@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-冯勋 / Feng Xun enters the wiki through [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|Hanji 495]] as a Feng-family figure who privately warns [[HanYuandi|汉元帝]] about [[ShiXianWesternHan|石显]]'s monopoly of power.
+冯勋 / Feng Xun enters the wiki through [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|汉纪 495]] as a Feng-family figure who privately warns [[HanYuandi|汉元帝]] about [[ShiXianWesternHan|石显]]'s monopoly of power.
 
 ## Current Profile
 
@@ -18,7 +18,7 @@ The episode gives Feng Xun a compact but consequential role. Shi Xian initially 
 
 ## Key Characteristics
 
-- Western Han Feng-family figure in Hanji 495.
+- Western Han Feng-family figure in 汉纪 495.
 - Privately warns Han Yuandi against Shi Xian's power.
 - Fails to overcome Yuan's trust in Shi Xian.
 - His warning helps explain why Shi Xian later treats the Feng family as hostile.
@@ -26,18 +26,18 @@ The episode gives Feng Xun a compact but consequential role. Shi Xian initially 
 ## Evidence
 
 Warning against Shi Xian:
-- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|Hanji 495]] says Feng Xun secretly reports Shi Xian's monopolization of power to Yuan.
+- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|汉纪 495]] says Feng Xun secretly reports Shi Xian's monopolization of power to Yuan.
 
 Backfire:
-- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|Hanji 495]] says Yuan is displeased and sends Feng Xun away, while Shi Xian becomes hostile to the Feng family.
+- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|汉纪 495]] says Yuan is displeased and sends Feng Xun away, while Shi Xian becomes hostile to the Feng family.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 495. It does not reconstruct Feng Xun's full office, family position, later career, exact wording to Yuan, or independent evidence for the charge against Shi Xian.
+This page is source-scoped to 汉纪 495. It does not reconstruct Feng Xun's full office, family position, later career, exact wording to Yuan, or independent evidence for the charge against Shi Xian.
 
 ## What Changed
 
-- Created the page from Hanji 495's failed warning against Shi Xian.
+- Created the page from 汉纪 495's failed warning against Shi Xian.
 
 ## Relationships
 

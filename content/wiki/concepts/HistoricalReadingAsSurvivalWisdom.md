@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] builds this concept through a negative example. [[YangYunWesternHan|杨恽]] inherits proximity to [[Shiji|《史记》]] through [[SimaQian|司马迁]] and is credited by the episode with helping the book circulate, yet he does not internalize the political caution the host thinks the historical record should teach. After disgrace, he speaks resentfully, displays socially, and writes a dangerous reply instead of lowering his profile.
+[[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] builds this concept through a negative example. [[YangYunWesternHan|杨恽]] inherits proximity to [[Shiji|《史记》]] through [[SimaQian|司马迁]] and is credited by the episode with helping the book circulate, yet he does not internalize the political caution the host thinks the historical record should teach. After disgrace, he speaks resentfully, displays socially, and writes a dangerous reply instead of lowering his profile.
 
 The episode therefore distinguishes possession, education, and eloquence from reading "through" a text. The host's criticism is not that Yang Yun lacked information; it is that he did not convert history into worldly judgment about rulers, enemies, informers, omens, and the way written words survive their original audience.
 
@@ -29,21 +29,21 @@ The episode therefore distinguishes possession, education, and eloquence from re
 ## Evidence
 
 Yang Yun as negative example:
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Yang Yun is tied to Shiji's public transmission but likely did not truly learn from it.
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] contrasts Yang Yun with his cautious father Yang Chang and Huo Guang.
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Yang Yun's high-profile banquets, resentment, and letter make him fail the practical reading of his situation.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Yang Yun is tied to Shiji's public transmission but likely did not truly learn from it.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] contrasts Yang Yun with his cautious father Yang Chang and Huo Guang.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Yang Yun's high-profile banquets, resentment, and letter make him fail the practical reading of his situation.
 
 Reading as judgment:
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says old readers asked whether a book was "read through," not just whether the content was understood.
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] links reading history to seeing power, human nature, and action consequences.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says old readers asked whether a book was "read through," not just whether the content was understood.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] links reading history to seeing power, human nature, and action consequences.
 
 ## Counterevidence & Qualifications
 
-This concept does not claim that prudence is the highest moral value or that victims are responsible for unjust punishment. In Hanji 457, Yang Yun's imprudence coexists with Sima Guang's criticism that Emperor Xuan's punishments were excessive. The source's modern advice about reading Zizhi Tongjian is also a host-level interpretation, not a neutral rule extracted mechanically from the chronicle.
+This concept does not claim that prudence is the highest moral value or that victims are responsible for unjust punishment. In 汉纪 457, Yang Yun's imprudence coexists with Sima Guang's criticism that Emperor Xuan's punishments were excessive. The source's modern advice about reading Zizhi Tongjian is also a host-level interpretation, not a neutral rule extracted mechanically from the chronicle.
 
 ## What Changed
 
-- Created the concept from Hanji 457's closing reflection on Yang Yun, Shiji, and "reading through" history.
+- Created the concept from 汉纪 457's closing reflection on Yang Yun, Shiji, and "reading through" history.
 
 ## Related Concepts
 

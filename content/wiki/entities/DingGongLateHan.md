@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 丁宫 / Ding Gong (late Han)
 
-丁宫 / Ding Gong (late Han) enters through [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] as the Pei native and guanglu xun who becomes sikong after [[XuXiangLateHan|许相]] moves to situ. The transcript renders the name as "丁公"; this page is intentionally distinct from [[DingGong|丁公]], the Chu-Han figure executed by [[LiuBang|刘邦]].
+丁宫 / Ding Gong (late Han) enters through [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|汉纪 938]] as the Pei native and guanglu xun who becomes sikong after [[XuXiangLateHan|许相]] moves to situ. The transcript renders the name as "丁公"; this page is intentionally distinct from [[DingGong|丁公]], the Chu-Han figure executed by [[LiuBang|刘邦]].
 
 The episode does not make Ding Gong an independent actor. He marks the court-office churn of 187 CE: while Liangzhou, Youzhou, Wuhuan, Changsha, and Xiongnu-linked trouble accumulate, the court continues moving people through the Three Excellencies without demonstrating restored control.
 

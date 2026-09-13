@@ -13,7 +13,7 @@ last_updated: 2026-09-13
 Imperial classics consensus building is the governance pattern in which the ruler convenes officials and scholars to resolve competing interpretations of canonical texts and convert discussion into an official record.
 
 ## Current Synthesis
-[[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] supplies a Western Han version: [[EmperorXuanOfHan|汉宣帝]] has scholars present differences in Five Classics interpretation, receives reports from [[XiaoWangzhiWesternHan|萧望之]] and others, decides personally, and authorizes selected standard interpretations with doctoral offices. [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] later grounds the concept in the [[BaihuGuanConference|Baihu Guan Conference]]. [[YangZhongEasternHan|Yang Zhong]] argues that scholars have become trapped in annotations and have lost sight of the Five Classics' larger meaning. [[EmperorZhangOfHan|Emperor Zhang]] answers by convening a formal court discussion, personally attending, and producing a recorded outcome.
+[[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|汉纪 463]] supplies a Western Han version: [[EmperorXuanOfHan|汉宣帝]] has scholars present differences in Five Classics interpretation, receives reports from [[XiaoWangzhiWesternHan|萧望之]] and others, decides personally, and authorizes selected standard interpretations with doctoral offices. [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] later grounds the concept in the [[BaihuGuanConference|Baihu Guan Conference]]. [[YangZhongEasternHan|Yang Zhong]] argues that scholars have become trapped in annotations and have lost sight of the Five Classics' larger meaning. [[EmperorZhangOfHan|Emperor Zhang]] answers by convening a formal court discussion, personally attending, and producing a recorded outcome.
 
 The concept sits between education, ideology, and administration. It is not merely textual scholarship because the court decides when interpretation becomes a state problem. It is not merely law or appointment policy because its tool is authoritative interpretation. The source makes Zhangdi's court a place where canonical learning is organized into governance consensus.
 
@@ -26,23 +26,23 @@ The concept sits between education, ideology, and administration. It is not mere
 - Later examination and classics-standardization practices fit the same broad problem, though not the same institutional form.
 
 ## Evidence
-- Western Han standardization: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says Xuan orders scholars to explain differences in Five Classics interpretation and has Xiao Wangzhi and others report the results.
-- Official selection: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|Hanji 463]] says Xuan personally decides and standardizes selected interpretations of the Yi, Shangshu, and Chunqiu lines, with doctoral offices attached.
-- Problem diagnosis: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] has [[YangZhongEasternHan|Yang Zhong]] warn that annotation-focused scholarship is losing the classics' main point.
-- Institutional response: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says Zhang convenes officials and Confucian scholars at Baihu Guan to discuss Five Classics differences.
-- Official record: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] links the proceedings to `白虎议奏`, with Zhang personally attending and recording.
+- Western Han standardization: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|汉纪 463]] says Xuan orders scholars to explain differences in Five Classics interpretation and has Xiao Wangzhi and others report the results.
+- Official selection: [[zizhi-tongjian-hanji-463-caicaikan-zai-hanxuandi-yanzhong-shui-shi-zuidade-gongchen-lqblzdg7sdkzln4vxhtnnye92292|汉纪 463]] says Xuan personally decides and standardizes selected interpretations of the Yi, Shangshu, and Chunqiu lines, with doctoral offices attached.
+- Problem diagnosis: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] has [[YangZhongEasternHan|Yang Zhong]] warn that annotation-focused scholarship is losing the classics' main point.
+- Institutional response: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] says Zhang convenes officials and Confucian scholars at Baihu Guan to discuss Five Classics differences.
+- Official record: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] links the proceedings to `白虎议奏`, with Zhang personally attending and recording.
 
 ## Counterevidence & Qualifications
-The current evidence establishes the process and its political meaning, not the substantive doctrinal results of the Five Classics debates. Hanji 463 is a selected-canon and doctoral-office case; Hanji 750 is a later conference-and-record case. The relation between these moments is analytical rather than a claim of direct institutional continuity.
+The current evidence establishes the process and its political meaning, not the substantive doctrinal results of the Five Classics debates. 汉纪 463 is a selected-canon and doctoral-office case; 汉纪 750 is a later conference-and-record case. The relation between these moments is analytical rather than a claim of direct institutional continuity.
 
 ## What Changed
 - Created a concept for ruler-sponsored settlement of classical interpretation.
-- Added Hanji 463 as a Western Han standard-interpretation and doctoral-office variant before the Baihu Guan conference.
+- Added 汉纪 463 as a Western Han standard-interpretation and doctoral-office variant before the Baihu Guan conference.
 
 ## Related Concepts
 - [[BaihuGuanConference]] - event that supplies the current source case.
 - [[EmperorXuanOfHan]] - Western Han ruler who supplies the earlier standardization case.
-- [[XiaoWangzhiWesternHan]] - official involved in reporting the Hanji 463 interpretive differences.
+- [[XiaoWangzhiWesternHan]] - official involved in reporting the 汉纪 463 interpretive differences.
 - [[YangZhongEasternHan]] - initiates the diagnosis and proposal.
 - [[ClassicalExaminationOrthodoxy]] - related problem of state selection through classics learning.
 - [[XipingStoneClassics]] - related later effort to stabilize classical texts materially.

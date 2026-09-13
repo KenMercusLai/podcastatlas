@@ -14,7 +14,7 @@ Seasonal war logistics / 战争季节后勤 is the strategy frame in which campa
 
 ## Current Synthesis
 
-Hanji 841 makes seasonality a first-order explanation of frontier warfare. The Han agricultural side has fixed sowing, harvest, and storage cycles; the Xiongnu pastoral side faces winter food pressure and relies on horse condition after summer pasture. Autumn raids therefore appear as a logistics choice rather than random aggression: Han grain has just been harvested and Xiongnu horses are strong enough to move and fight.
+汉纪 841 makes seasonality a first-order explanation of frontier warfare. The Han agricultural side has fixed sowing, harvest, and storage cycles; the Xiongnu pastoral side faces winter food pressure and relies on horse condition after summer pasture. Autumn raids therefore appear as a logistics choice rather than random aggression: Han grain has just been harvested and Xiongnu horses are strong enough to move and fight.
 
 The same seasonal frame also explains why spring attacks can be more than ordinary tactical timing. The episode reads Han Wudi's spring anti-Xiongnu campaigns as attacks during pregnancy and livestock breeding season, which makes forced flight damage future population and herd capacity. The concept therefore links grain tempo, horse tempo, and reproduction tempo inside one campaign calendar.
 
@@ -28,17 +28,17 @@ The same seasonal frame also explains why spring attacks can be more than ordina
 
 ## Evidence
 
-- Autumn raiding calendar: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] explains Xiongnu autumn attacks through Han harvest timing, Xiongnu winter needs, and strong autumn horses.
-- Spring reproductive timing: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] interprets Han Wudi's spring attacks as causing pregnant Xiongnu women to flee and disrupting livestock breeding.
-- Grain-bound campaign tempo: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] uses the repeated war formula "粮尽而回" to stress that armies stop when supplies fail.
+- Autumn raiding calendar: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|汉纪 841]] explains Xiongnu autumn attacks through Han harvest timing, Xiongnu winter needs, and strong autumn horses.
+- Spring reproductive timing: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|汉纪 841]] interprets Han Wudi's spring attacks as causing pregnant Xiongnu women to flee and disrupting livestock breeding.
+- Grain-bound campaign tempo: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|汉纪 841]] uses the repeated war formula "粮尽而回" to stress that armies stop when supplies fail.
 
 ## Counterevidence & Qualifications
 
-This concept currently rests on one source note and should remain a focused frame rather than a comprehensive ancient military-logistics theory. Hanji 841's reproductive reading of Han Wudi's spring attacks is especially source-scoped and morally charged. The concept should be strengthened or revised when more sources discuss campaign calendars, storage, fodder, labor seasons, or breeding cycles.
+This concept currently rests on one source note and should remain a focused frame rather than a comprehensive ancient military-logistics theory. 汉纪 841's reproductive reading of Han Wudi's spring attacks is especially source-scoped and morally charged. The concept should be strengthened or revised when more sources discuss campaign calendars, storage, fodder, labor seasons, or breeding cycles.
 
 ## What Changed
 
-- Created the concept from Hanji 841's harvest, horse, winter-store, and spring-breeding analysis.
+- Created the concept from 汉纪 841's harvest, horse, winter-store, and spring-breeding analysis.
 
 ## Related Concepts
 

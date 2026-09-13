@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 临时边防收缩 / Temporary Frontier Retrenchment is the strategy of withdrawing officials and civilians from an untenable frontier position while preserving the intent to return after the wider crisis is stabilized.
 
 ## Current Synthesis
-[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] supplies the current case through [[LiGuLateHan|李固]]'s Rinan proposal during the 138 CE Jiaozhi crisis. Li Gu argues that if Rinan lacks troops and grain, holding it for symbolic completeness would waste people and resources. He therefore proposes moving officials and civilians north into [[JiaozhiCommandery|交趾郡]] until the broader situation can be restored.
+[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] supplies the current case through [[LiGuLateHan|李固]]'s Rinan proposal during the 138 CE Jiaozhi crisis. Li Gu argues that if Rinan lacks troops and grain, holding it for symbolic completeness would waste people and resources. He therefore proposes moving officials and civilians north into [[JiaozhiCommandery|交趾郡]] until the broader situation can be restored.
 
 The concept differs from permanent abandonment. The retreat is temporary, paired with appointing [[ZhangQiaoLateHan|张乔]] and [[ZhuLiangLateHan|祝良]], and embedded in rewards, reassurance, and enemy-division tactics. Its function is to buy survivability and tempo while more fitting officials repair the theater.
 
@@ -24,15 +24,15 @@ The concept differs from permanent abandonment. The retreat is temporary, paired
 - The concept is defensive and time-buying; it does not solve the crisis without pacification follow-through.
 
 ## Evidence
-- Rinan diagnosis: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu treats Rinan's troop and grain shortage as a reason not to keep a brittle forward defense.
-- Evacuation proposal: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says he proposes moving officials and civilians north into Jiaozhi until conditions stabilize.
-- Complementary appointments: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says the same plan recommends Zhang Qiao and Zhu Liang, whose later success makes the withdrawal part of a larger repair strategy.
+- Rinan diagnosis: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] says Li Gu treats Rinan's troop and grain shortage as a reason not to keep a brittle forward defense.
+- Evacuation proposal: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] says he proposes moving officials and civilians north into Jiaozhi until conditions stabilize.
+- Complementary appointments: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] says the same plan recommends Zhang Qiao and Zhu Liang, whose later success makes the withdrawal part of a larger repair strategy.
 
 ## Counterevidence & Qualifications
 The current concept rests on one source note. The episode frames the Rinan measure as prudent only because the forward position lacks troops and grain and because there is a broader pacification plan. A withdrawal without credible appointments, relief, or return timing could instead signal collapse.
 
 ## What Changed
-- Created the concept from Li Gu's Rinan proposal in Hanji 819.
+- Created the concept from Li Gu's Rinan proposal in 汉纪 819.
 - Distinguished temporary retrenchment from permanent frontier abandonment.
 
 ## Related Concepts

@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-成帝五侯 / Chengdi Five Marquises enter the wiki through [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] as the five younger brothers of [[WangZhengjun|王政君]] whom [[HanChengdi|汉成帝]] enfeoffs on the same day in 27 BCE.
+成帝五侯 / Chengdi Five Marquises enter the wiki through [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] as the five younger brothers of [[WangZhengjun|王政君]] whom [[HanChengdi|汉成帝]] enfeoffs on the same day in 27 BCE.
 
 ## Current Profile
 
@@ -24,17 +24,17 @@ The group is a compact outer-relative reward bloc. The episode names [[WangTanWe
 
 ## Evidence
 
-- Same-day enfeoffment: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Chengdi enfeoffs Wang Tan, Wang Shang, Wang Li, Wang Gen, and Wang Feng / 王逢 as marquises in June 27 BCE.
-- Group label: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says people called them the Five Marquises because they were enfeoffed together.
-- Family boundary: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says only Wang Man had died earlier among Wang Zhengjun's same-father brothers.
+- Same-day enfeoffment: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Chengdi enfeoffs Wang Tan, Wang Shang, Wang Li, Wang Gen, and Wang Feng / 王逢 as marquises in June 27 BCE.
+- Group label: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says people called them the Five Marquises because they were enfeoffed together.
+- Family boundary: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says only Wang Man had died earlier among Wang Zhengjun's same-father brothers.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 511. It does not reconstruct all five titles or later office histories. It keeps [[WangFengMarquisWesternHan|王逢]] separate from the already established [[WangFengWesternHan|王凤]] page.
+This page is source-scoped to 汉纪 511. It does not reconstruct all five titles or later office histories. It keeps [[WangFengMarquisWesternHan|王逢]] separate from the already established [[WangFengWesternHan|王凤]] page.
 
 ## What Changed
 
-- Created Chengdi Five Marquises from Hanji 511's same-day Wang-family enfeoffment.
+- Created Chengdi Five Marquises from 汉纪 511's same-day Wang-family enfeoffment.
 
 ## Relationships
 

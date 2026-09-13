@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Current Synthesis
 
-Hanji 567 defines the concept through [[JiaRangWesternHan|Jia Rang]]'s upper Yellow River policy. The episode's core principle is "不与水争地": the state should not treat a river's necessary flood space as ordinary settled land. Jia Rang's proposed upper strategy is politically costly because it requires moving people, abandoning or damaging fields, buildings, cities, and graves, and tolerating public resentment. Yet it is ranked above more technically attractive repairs because it changes the recurring structure of danger.
+汉纪 567 defines the concept through [[JiaRangWesternHan|Jia Rang]]'s upper Yellow River policy. The episode's core principle is "不与水争地": the state should not treat a river's necessary flood space as ordinary settled land. Jia Rang's proposed upper strategy is politically costly because it requires moving people, abandoning or damaging fields, buildings, cities, and graves, and tolerating public resentment. Yet it is ranked above more technically attractive repairs because it changes the recurring structure of danger.
 
 The concept therefore complements ordinary hydraulic state capacity. It does not reject engineering entirely: Jia Rang's middle policy still uses canals, stone embankments, and sluices to divide water and support irrigation. But it marks a boundary where more levee repair can become an expensive form of denial. When the river channel has been crowded by old and new embankments, the higher-order solution may be relocation and room-making.
 
@@ -29,11 +29,11 @@ The concept therefore complements ordinary hydraulic state capacity. It does not
 
 ## Evidence
 
-- Principle: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] summarizes Jia Rang's core view as not competing with water for land.
-- Older settlement wisdom: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says older city and settlement placement avoided land reachable by water.
-- Upper policy: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says the upper policy moves Jizhou floodplain residents and opens the Liyang Zhehai Pavilion embankment so the Yellow River can flow north into the Bohai Sea.
-- Political cost: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says Jia Rang anticipates criticism for destroying cities, fields, houses, and graves and creating popular resentment.
-- Recurring repair burden: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says the lower policy of repairing old levees would consume labor and material without preventing future floods.
+- Principle: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] summarizes Jia Rang's core view as not competing with water for land.
+- Older settlement wisdom: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] says older city and settlement placement avoided land reachable by water.
+- Upper policy: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] says the upper policy moves Jizhou floodplain residents and opens the Liyang Zhehai Pavilion embankment so the Yellow River can flow north into the Bohai Sea.
+- Political cost: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] says Jia Rang anticipates criticism for destroying cities, fields, houses, and graves and creating popular resentment.
+- Recurring repair burden: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] says the lower policy of repairing old levees would consume labor and material without preventing future floods.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ This concept currently rests on one source note and should not be generalized in
 
 ## What Changed
 
-- Created this concept from Hanji 567 to capture Jia Rang's upper Yellow River policy as retreat from floodplain risk rather than only engineering repair.
+- Created this concept from 汉纪 567 to capture Jia Rang's upper Yellow River policy as retreat from floodplain risk rather than only engineering repair.
 
 ## Related Concepts
 

@@ -27,9 +27,9 @@ The page's current evidence is narrow but central. Kong Bao is absent when Zhang
 
 ## Evidence
 
-- Intended refuge: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] says Zhang Jian goes to the home of his long-time friend Kong Bao.
-- Responsibility claim: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] has Kong Bao argue that Zhang came for him, so the guilt belongs to him rather than Kong Rong.
-- Punishment outcome: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] records the final order assigning capital punishment to Kong Bao.
+- Intended refuge: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] says Zhang Jian goes to the home of his long-time friend Kong Bao.
+- Responsibility claim: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] has Kong Bao argue that Zhang came for him, so the guilt belongs to him rather than Kong Rong.
+- Punishment outcome: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] records the final order assigning capital punishment to Kong Bao.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This is a source-scoped profile rather than a complete biography. The raw note r
 
 ## What Changed
 
-- Initial page created from Hanji 895's Kong-family responsibility case.
+- Initial page created from 汉纪 895's Kong-family responsibility case.
 
 ## Relationships
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 175-176 CE late-Han institutional layer immediately before [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]]. It opens with a source-scoped communication lesson that necessary conflict can protect one's voice and clarify interests, then turns to [[CaiYong|蔡邕]]'s memorial against the overextended [[SanhuLawAppointmentConstraint|三互法任官限制]] that left [[YouzhouLateHan|幽州]] and [[JizhouLateHan|冀州]] inspector posts vacant. [[SimaGuang|司马光]]'s comment frames late-Han rule proliferation as a failure to use worthy people, reward merit, punish crime, and keep official selection tied to real capacity.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 175-176 CE late-Han institutional layer immediately before [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|汉纪 907]]. It opens with a source-scoped communication lesson that necessary conflict can protect one's voice and clarify interests, then turns to [[CaiYong|蔡邕]]'s memorial against the overextended [[SanhuLawAppointmentConstraint|三互法任官限制]] that left [[YouzhouLateHan|幽州]] and [[JizhouLateHan|冀州]] inspector posts vacant. [[SimaGuang|司马光]]'s comment frames late-Han rule proliferation as a failure to use worthy people, reward merit, punish crime, and keep official selection tied to real capacity.
 
 ## Key Claims
 
@@ -24,7 +24,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - The stricter 三互法 creates an appointment bottleneck: many otherwise suitable local officials become disqualified, leaving important inspector posts in [[YouzhouLateHan|幽州]] and [[JizhouLateHan|冀州]] vacant.
 - [[CaiYong|蔡邕]] argues that Youzhou and Jizhou are exhausted by war and famine and therefore need capable governors rather than additional procedural restraints.
 - Cai Yong's memorial asks the court to abolish recently added 三互法 prohibitions and choose provincial inspectors by talent and virtue rather than by rigid avoidance rules or seniority limits.
-- The court does not accept Cai Yong's advice, making this an early non-lethal [[CourtFeedbackCollapse|君臣反馈失灵]] case before Hanji 907's lethal Cao Luan memorial.
+- The court does not accept Cai Yong's advice, making this an early non-lethal [[CourtFeedbackCollapse|君臣反馈失灵]] case before 汉纪 907's lethal Cao Luan memorial.
 - [[SimaGuang|司马光]] reads "many regulations" as a sign of impending decline when rules multiply because rulers cannot select people, assign responsibility, and apply reward and punishment fairly.
 - The episode's 175-176 annal notices place floods, amnesty, Yanling fire, [[Xianbei|鲜卑]] incursions, locusts, a Western Regions succession dispute, Yizhou cavalry revolt, and [[ChenDanLateHan|陈耽]]'s taiwei removal around the same weakening court field.
 - The closing preview distinguishes conflict from blunt self-destruction: direct remonstrance can become fatal when it humiliates the ruler and the court cannot protect corrective speech.

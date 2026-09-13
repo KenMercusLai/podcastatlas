@@ -13,7 +13,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanChengdi|汉成帝]], immediately after [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]]. It centers on [[ZhaiFangjinWesternHan|翟方进]]'s death after an [[ChineseAstrologicalPolitics|荧惑守心]] omen makes imperial responsibility politically dangerous and Chengdi turns the crisis toward his chancellor.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanChengdi|汉成帝]], immediately after [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|汉纪 558]]. It centers on [[ZhaiFangjinWesternHan|翟方进]]'s death after an [[ChineseAstrologicalPolitics|荧惑守心]] omen makes imperial responsibility politically dangerous and Chengdi turns the crisis toward his chancellor.
 
 The durable synthesis is that omen politics can turn a responsibility problem into a scapegoat death when ruler self-correction, ministerial resentment, and administrative office liability align. Zhai Fangjin's harsh enforcement style and many enemies made him an easy target, while [[SimaGuang|司马光]]'s judgment turns the episode from court technique into political ethics: killing an undeserving minister to block disaster deceives Heaven, and killing a deserving one while concealing the punishment deceives the people.
 
@@ -46,5 +46,5 @@ The durable synthesis is that omen politics can turn a responsibility problem in
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 7 BCE after Hanji 558's first州牧 reform and before the already-ingested Chengdi death, succession, and Aidi court-politics sequence.
+- Chronology qualification: this source backfills 7 BCE after 汉纪 558's first州牧 reform and before the already-ingested Chengdi death, succession, and Aidi court-politics sequence.
 - Scope caution: Ben Li's full biography, the exact court conversation, the factual justice of every charge against Zhai Fangjin, and the transcript's modern workplace analogies remain source-scoped.

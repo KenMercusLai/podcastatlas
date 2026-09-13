@@ -11,10 +11,10 @@ last_updated: 2026-09-06
 # 王邑 / Wang Yi (Hedong administrator)
 
 ## Overview
-王邑 / Wang Yi (Hedong administrator) enters the wiki through Hanji 1070 as the outgoing [[HedongCommandery|河东郡]] administrator whose replacement becomes part of Cao Cao's western stabilization problem. This route is kept distinct from [[WangYiHanGeneral|王邑 / Wang Yi (Han general)]].
+王邑 / Wang Yi (Hedong administrator) enters the wiki through 汉纪 1070 as the outgoing [[HedongCommandery|河东郡]] administrator whose replacement becomes part of Cao Cao's western stabilization problem. This route is kept distinct from [[WangYiHanGeneral|王邑 / Wang Yi (Han general)]].
 
 ## Current Profile
-Hanji 1070 says Wang Yi receives a court summons to go to the capital. [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]] ask [[ZhongYao|钟繇]] to keep Wang Yi in Hedong, but the request is denied. After [[XunYu|荀彧]] recommends [[DuJiLateHan|杜畿]] and Cao Cao appoints him to Hedong, Zhong Yao urges Wang Yi to complete the handoff. Wang Yi refuses to cooperate and instead takes the seal to Xudu, making the appointment transition itself part of Hedong's instability.
+汉纪 1070 says Wang Yi receives a court summons to go to the capital. [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]] ask [[ZhongYao|钟繇]] to keep Wang Yi in Hedong, but the request is denied. After [[XunYu|荀彧]] recommends [[DuJiLateHan|杜畿]] and Cao Cao appoints him to Hedong, Zhong Yao urges Wang Yi to complete the handoff. Wang Yi refuses to cooperate and instead takes the seal to Xudu, making the appointment transition itself part of Hedong's instability.
 
 ## Key Characteristics
 - Outgoing Hedong administrator in a contested commandery transition.
@@ -23,15 +23,15 @@ Hanji 1070 says Wang Yi receives a court summons to go to the capital. [[WeiGuLa
 - Resists handoff by carrying the seal to Xudu.
 
 ## Evidence
-- Summons and retention request: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Wang Yi is summoned to the capital and local actors request that he remain in Hedong.
-- Replacement: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Cao Cao appoints Du Ji as Hedong administrator.
-- Handoff resistance: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Wang Yi refuses normal transfer and goes to Xudu with the seal.
+- Summons and retention request: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] says Wang Yi is summoned to the capital and local actors request that he remain in Hedong.
+- Replacement: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] says Cao Cao appoints Du Ji as Hedong administrator.
+- Handoff resistance: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] says Wang Yi refuses normal transfer and goes to Xudu with the seal.
 
 ## Qualifications
 The source does not prove Wang Yi's personal collusion with Gao Gan; it says the suspicious layer centers on Wei Gu and Fan Xian. Wang Yi's page therefore presents him as a resistant outgoing official, not as a settled rebel.
 
 ## What Changed
-- Created this page from Hanji 1070's Hedong handoff problem and disambiguated it from the existing Han general route.
+- Created this page from 汉纪 1070's Hedong handoff problem and disambiguated it from the existing Han general route.
 
 ## Relationships
 - [[HedongCommandery|河东郡]] - commandery Wang Yi is leaving.

@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-张皓 / Zhang Hao is a late-Han remonstrator in Hanji 801's 124 CE deposition crisis. He joins the first objection to [[EmperorAnOfHan|汉安帝]]'s plan to depose [[EmperorShunOfHan|刘保]], then submits a second memorial using the [[HanWudi|汉武帝]] and Li Crown Prince precedent to warn against a father-son political miscarriage.
+张皓 / Zhang Hao is a late-Han remonstrator in 汉纪 801's 124 CE deposition crisis. He joins the first objection to [[EmperorAnOfHan|汉安帝]]'s plan to depose [[EmperorShunOfHan|刘保]], then submits a second memorial using the [[HanWudi|汉武帝]] and Li Crown Prince precedent to warn against a father-son political miscarriage.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] identifies Zhang Hao as a former weiwei during the Liu Bao crisis. With [[LaiLiLateHan|Lai Li]] and [[HuanYanLateHan|Huan Yan]], he argues that the ten-year-old crown prince should not be held personally guilty for Wang Nan and Bing Ji's alleged conduct and should instead be protected by loyal ministers and proper guidance.
+[[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]] identifies Zhang Hao as a former weiwei during the Liu Bao crisis. With [[LaiLiLateHan|Lai Li]] and [[HuanYanLateHan|Huan Yan]], he argues that the ten-year-old crown prince should not be held personally guilty for Wang Nan and Bing Ji's alleged conduct and should instead be protected by loyal ministers and proper guidance.
 
 Zhang Hao then deepens the objection after leaving the first court discussion. His second memorial invokes the Western Han case in which Jiang Chong's fabricated evidence helped destroy the Li Crown Prince. Zhang Hao's point is not only that Liu Bao is young; it is that imperial anger plus palace accusation can create an irreversible injustice even if the ruler later realizes the error.
 
@@ -30,13 +30,13 @@ Emperor An ignores the memorial. Zhang Hao therefore represents a failed but sha
 
 ## Evidence
 
-- Initial objection: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Zhang Hao, Lai Li, and Huan Yan oppose the deposition debate by arguing that Liu Bao is too young to bear the alleged guilt.
-- Corrective prescription: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Zhang Hao and the others propose loyal ministers and ritual guidance rather than deposition.
-- Precedent memorial: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Zhang Hao invokes Han Wudi's later regret over Jiang Chong and the Li Crown Prince to warn An against repeating the error.
+- Initial objection: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]] says Zhang Hao, Lai Li, and Huan Yan oppose the deposition debate by arguing that Liu Bao is too young to bear the alleged guilt.
+- Corrective prescription: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]] says Zhang Hao and the others propose loyal ministers and ritual guidance rather than deposition.
+- Precedent memorial: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]] says Zhang Hao invokes Han Wudi's later regret over Jiang Chong and the Li Crown Prince to warn An against repeating the error.
 
 ## Qualifications
 
-This page is bounded to Hanji 801. The current source does not supply Zhang Hao's full career, family background, later fate, or exact memorial wording. The route is intentionally disambiguated because the wiki already has a separate [[ZhangHaoTaiweiLateHan|张颢 / Zhang Hao]] tied to Emperor Ling's later court.
+This page is bounded to 汉纪 801. The current source does not supply Zhang Hao's full career, family background, later fate, or exact memorial wording. The route is intentionally disambiguated because the wiki already has a separate [[ZhangHaoTaiweiLateHan|张颢 / Zhang Hao]] tied to Emperor Ling's later court.
 
 ## What Changed
 

@@ -38,11 +38,11 @@ The durable synthesis is that Feng Yuan's bear rescue begins as an act of courag
 
 - [[FengYuanWesternHan|冯媛 / 冯昭仪]], [[HanYuandi|汉元帝]], and [[FuZhaoyiWesternHan|傅昭仪]] - the bear rescue creates favor for Feng Yuan and jealousy in the palace field.
 - [[PreventiveFloodGovernance|预防性水患治理]] and [[YellowRiver|黄河]] - the Tunshi River background shows changing drainage capacity before later Chengdi-era flood decisions.
-- [[JealousyAsPoliticalViolence|嫉妒转化为政治杀机]] - this source supplies the origin scene for jealousy that Hanji 576 later turns into lethal accusation politics.
+- [[JealousyAsPoliticalViolence|嫉妒转化为政治杀机]] - this source supplies the origin scene for jealousy that 汉纪 576 later turns into lethal accusation politics.
 - [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - the series frame combines Tongjian chronology, personal reflection, and modern analogy.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Name normalization: the transcript form "风节鱼" is routed to [[FengYuanWesternHan|冯媛 / 冯昭仪]] because the bear-rescue incident, later Zhaoyi title, and Hanji 576 continuity match that established page.
+- Name normalization: the transcript form "风节鱼" is routed to [[FengYuanWesternHan|冯媛 / 冯昭仪]] because the bear-rescue incident, later Zhaoyi title, and 汉纪 576 continuity match that established page.
 - Scope caution: Liu Yuan of Hejian, Bo Taihou's cemetery removal, the exact tiger-enclosure logistics, Feng Yuan's father, and Fu Zhaoyi's immediate reaction remain source-scoped unless later notes warrant canonical pages or deeper revision.

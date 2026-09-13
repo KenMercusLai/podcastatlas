@@ -14,7 +14,7 @@ last_updated: 2026-09-05
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Jian'an 9 [[YeLateHan|邺城]] siege after [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]]. It turns [[CaoCao|曹操]]'s response to [[YuanShang|袁尚]]'s relief march into a condition-sensitive use of [[ReturningArmyInterdictionRisk|归师勿遏式追击风险]], then follows Yuan Shang's failed rescue, surrender request, night flight, and the display of captured goods as [[SpoilsProofDemoralization|战利品实证瓦解士气]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Jian'an 9 [[YeLateHan|邺城]] siege after [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|汉纪 1062]]. It turns [[CaoCao|曹操]]'s response to [[YuanShang|袁尚]]'s relief march into a condition-sensitive use of [[ReturningArmyInterdictionRisk|归师勿遏式追击风险]], then follows Yuan Shang's failed rescue, surrender request, night flight, and the display of captured goods as [[SpoilsProofDemoralization|战利品实证瓦解士气]].
 
 The second half narrates the fall of Ye: [[ShenPeiLateHan|审配]] continues resistance, nearly kills Cao Cao with hidden crossbowmen, but is undone when [[ShenRongLateHan|审荣]] opens the east gate to Cao's army. The episode closes by pairing Shen Pei's death as a loyal minister with Cao Cao's mourning at [[YuanShao|袁绍]]'s grave and an old Cao-Yuan contrast between territory-backed strategy and talent-backed strategy.
 
@@ -41,7 +41,7 @@ The second half narrates the fall of Ye: [[ShenPeiLateHan|审配]] continues res
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] - direct predecessor on the water-isolated Ye siege and Yuan Shang's attempt to communicate through Li Fu.
+- [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|汉纪 1062]] - direct predecessor on the water-isolated Ye siege and Yuan Shang's attempt to communicate through Li Fu.
 - [[CaoCao|曹操]], [[YuanShang|袁尚]], [[ShenPeiLateHan|审配]], and [[YeLateHan|邺城]] - main campaign chain from relief-route judgment to city fall.
 - [[ReturningArmyInterdictionRisk|归师勿遏式追击风险]] - extended from retreat pursuit into a rescue-army route test.
 - [[SpoilsProofDemoralization|战利品实证瓦解士气]] - concept created from Cao Cao showing Yuan Shang's captured goods to Ye defenders.
@@ -52,6 +52,6 @@ The second half narrates the fall of Ye: [[ShenPeiLateHan|审配]] continues res
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content is recorded. The episode confirms Hanji 1060-1062's Yuan Shang exhaustion and exposed-Ye trajectory rather than reversing it.
+- No settled contradiction with existing wiki content is recorded. The episode confirms 汉纪 1060-1062's Yuan Shang exhaustion and exposed-Ye trajectory rather than reversing it.
 - Transcript caution: the source renders 审配 as 沈沛/沈佩, 审荣 as 沈荣, and 辛评 as 新萍. The wiki normalizes established actors to [[ShenPeiLateHan|审配]], [[ShenRongLateHan|审荣]], and [[XinPingLateHan|辛评]] while preserving the uncertainty as source-scoped.
 - Source-scope caution: minor names rendered as 马炎, 张乙, and 张子谦, plus local details around Yangpingting, Fu River, Qishan, and exact troop counts, should be corroborated before creating durable pages from them.

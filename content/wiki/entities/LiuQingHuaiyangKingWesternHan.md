@@ -10,13 +10,13 @@ last_updated: 2026-09-12
 
 ## Overview
 
-淮阳王刘清 / Liu Qing enters the wiki through [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] as the royal-kin petition channel that [[JingFang|京房]] and [[ZhangBoWesternHan|张伯]] consider using to advance Jing Fang's reform agenda. This page is intentionally distinct from [[LiuQing|刘擎]], the modern political theorist.
+淮阳王刘清 / Liu Qing enters the wiki through [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] as the royal-kin petition channel that [[JingFang|京房]] and [[ZhangBoWesternHan|张伯]] consider using to advance Jing Fang's reform agenda. This page is intentionally distinct from [[LiuQing|刘擎]], the modern political theorist.
 
 ## Current Profile
 
 In the episode, Liu Qing is not developed as an independent policy thinker. His importance is positional: as King of Huaiyang, a petition or entry-to-court request from him can carry Jing Fang's ideas into a more visible political channel than Jing Fang's own isolated position.
 
-Hanji 488 also makes Liu Qing part of the risk sequence. The host suggests that Liu Qing may have foreseen the danger of [[KaogongfaReformBacklash|kaogong]] and exposed Zhang Bo's recorded material for self-protection. Whether that motive is certain remains source-scoped, but the case shows how involving a regional king can turn reform advocacy into a more serious political accusation.
+汉纪 488 also makes Liu Qing part of the risk sequence. The host suggests that Liu Qing may have foreseen the danger of [[KaogongfaReformBacklash|kaogong]] and exposed Zhang Bo's recorded material for self-protection. Whether that motive is certain remains source-scoped, but the case shows how involving a regional king can turn reform advocacy into a more serious political accusation.
 
 ## Key Characteristics
 
@@ -28,13 +28,13 @@ Hanji 488 also makes Liu Qing part of the risk sequence. The host suggests that 
 
 ## Evidence
 
-- Petition channel: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] says Zhang Bo suggests having Liu Qing petition to enter court so he can help advance Jing Fang's proposal.
-- Reform content: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] says Jing Fang wants Liu Qing to recommend kaogong or, failing that, personnel changes.
-- Self-protection reading: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] presents the host's view that Liu Qing leaked or exposed the material to avoid being dragged down.
+- Petition channel: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] says Zhang Bo suggests having Liu Qing petition to enter court so he can help advance Jing Fang's proposal.
+- Reform content: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] says Jing Fang wants Liu Qing to recommend kaogong or, failing that, personnel changes.
+- Self-protection reading: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] presents the host's view that Liu Qing leaked or exposed the material to avoid being dragged down.
 
 ## Qualifications
 
-This page is bounded to Hanji 488. It does not reconstruct Liu Qing's full lineage, fief administration, relationship with Yuan, or exact legal status in the case. The self-protection motive is preserved as the episode's interpretation rather than settled fact.
+This page is bounded to 汉纪 488. It does not reconstruct Liu Qing's full lineage, fief administration, relationship with Yuan, or exact legal status in the case. The self-protection motive is preserved as the episode's interpretation rather than settled fact.
 
 ## What Changed
 

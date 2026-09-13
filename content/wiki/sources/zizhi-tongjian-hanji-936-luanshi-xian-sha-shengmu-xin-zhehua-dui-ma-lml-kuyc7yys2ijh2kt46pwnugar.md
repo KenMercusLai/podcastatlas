@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 185-186 CE late-Han layer immediately before [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]]. It follows [[DongZhuo|董卓]]'s surrounded western campaign and dam-covered retreat, [[ZhangWenLateHan|张温]]'s failed authority over him, [[SunJianLateHan|孙坚]]'s advice to execute Dong Zhuo under military law, and the court's parallel drift into [[EmperorLingOfHan|汉灵帝]]'s hoarding, palace construction, eunuch patronage, and punitive politics.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 185-186 CE late-Han layer immediately before [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|汉纪 937]]. It follows [[DongZhuo|董卓]]'s surrounded western campaign and dam-covered retreat, [[ZhangWenLateHan|张温]]'s failed authority over him, [[SunJianLateHan|孙坚]]'s advice to execute Dong Zhuo under military law, and the court's parallel drift into [[EmperorLingOfHan|汉灵帝]]'s hoarding, palace construction, eunuch patronage, and punitive politics.
 
 ## Key Claims
 
@@ -42,13 +42,13 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[DongZhuo|董卓]], [[ZhangWenLateHan|张温]], [[SunJianLateHan|孙坚]], and [[CommandDisciplineAuthority|军法威严]] - central command-law branch around Dong Zhuo's contempt and Zhang Wen's hesitation.
 - [[GoodIntentionsPoliticalLimits]], [[BenevolentCommandExecutionGap|仁厚指挥执行缺口]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - adjacent concepts for good intent, executable restraint, and military timing.
 - [[EmperorLingOfHan|汉灵帝]], [[SongDianLateHan|宋典]], [[BiLanLateHan|毕岚]], [[ZhaoZhongLateHan|赵忠]], and [[UntimelyExtravagance|时绌举赢]] - palace hoarding, construction, mechanical devices, and eunuch-mediated privilege during crisis.
-- [[FuXie|傅燮]], [[ZhaoZhongLateHan|赵忠]], and [[HanyangCommanderyLateHan|汉阳郡]] - refused private favor before Fu Xie's Hanji 937 death branch.
+- [[FuXie|傅燮]], [[ZhaoZhongLateHan|赵忠]], and [[HanyangCommanderyLateHan|汉阳郡]] - refused private favor before Fu Xie's 汉纪 937 death branch.
 - [[ZhangYanTaiweiLateHan|张延]], [[TenAttendantsLateHan|十常侍]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CourtFeedbackCollapse|朝廷反馈坍塌]] - upright criticism turned into imprisonment and death.
 - [[ZhaoCiLateHan|赵慈]], [[NanyangCommandery|南阳郡]], and [[Jingzhou|荆州]] - local revolt and suppression in the 186 CE crisis field.
 - [[Xianbei|鲜卑]], [[YouzhouLateHan|幽州]], and [[BingzhouLateHan|并州]] - frontier pressure that helps close the episode and recall Zhang Wen.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This episode backfills the pre-Hanji 937 layer by placing Dong Zhuo's command-insubordination problem before his later Luoyang seizure and before Zhang Wen's later death at Dong Zhuo's hands.
+- No settled contradiction with existing wiki pages was found. This episode backfills the pre-汉纪 937 layer by placing Dong Zhuo's command-insubordination problem before his later Luoyang seizure and before Zhang Wen's later death at Dong Zhuo's hands.
 - Naming caution: [[ZhangYanTaiweiLateHan|张延 / Zhang Yan (late-Han taiwei)]] is kept distinct from [[ZhangYanLateHan|张燕 / Zhang Yan (Late Han)]], the Black Mountain leader, because they share pinyin but not identity.
 - Source-scope caution: the title's "圣母心" claim is preserved as a command-authority warning, not generalized into a blanket rule that commanders should kill without legal ground.

@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-Hanji 458 grounds the concept in [[XuShunWesternHan|徐顺]]'s remark about [[ZhangChangWesternHan|张敞]]. After Zhang is implicated by association with Yang Yun / 杨恽, rumors spread that he will be dismissed. Xu therefore refuses an assignment and says Zhang can only remain Jingzhao Yin for five more days. The phrase later comes to mean someone close to leaving office who no longer acts seriously, or a person with short vision and no long plan.
+汉纪 458 grounds the concept in [[XuShunWesternHan|徐顺]]'s remark about [[ZhangChangWesternHan|张敞]]. After Zhang is implicated by association with Yang Yun / 杨恽, rumors spread that he will be dismissed. Xu therefore refuses an assignment and says Zhang can only remain Jingzhao Yin for five more days. The phrase later comes to mean someone close to leaving office who no longer acts seriously, or a person with short vision and no long plan.
 
 The episode's sharper lesson is that premature power judgment is dangerous on both sides of hierarchy. Xu misreads rumor as completed authority transfer; Zhang then treats subordinate contempt as a personal affront to be punished with lethal public power. The idiom therefore belongs not only to laziness or short tenure, but also to the unstable interval between expected dismissal and formal institutional change.
 
@@ -29,20 +29,20 @@ The episode's sharper lesson is that premature power judgment is dangerous on bo
 ## Evidence
 
 Origin and meaning:
-- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] explains 五日京兆 as a later idiom for someone about to leave office who does not work seriously, or someone short-sighted.
-- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] says Xu Shun uses the phrase while refusing Zhang Chang's assignment after hearing that Zhang will be dismissed.
+- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|汉纪 458]] explains 五日京兆 as a later idiom for someone about to leave office who does not work seriously, or someone short-sighted.
+- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|汉纪 458]] says Xu Shun uses the phrase while refusing Zhang Chang's assignment after hearing that Zhang will be dismissed.
 
 Power interval:
-- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] stresses that the emperor had not yet issued a dismissal and Zhang had not left office when Xu ignored him.
-- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] also shows the other danger of the interval: Zhang still has enough formal authority to turn anger into punishment.
+- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|汉纪 458]] stresses that the emperor had not yet issued a dismissal and Zhang had not left office when Xu ignored him.
+- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|汉纪 458]] also shows the other danger of the interval: Zhang still has enough formal authority to turn anger into punishment.
 
 ## Counterevidence & Qualifications
 
-The current page is source-scoped to Hanji 458's podcast retelling. It does not settle the full philological history of the idiom, the exact primary-source wording, or every later usage. The episode also explicitly says Zhang Chang himself is not the negligent kind of "five-day Jingzhao"; the idiom comes from Xu Shun's contemptuous judgment, not from Zhang's actual work ethic.
+The current page is source-scoped to 汉纪 458's podcast retelling. It does not settle the full philological history of the idiom, the exact primary-source wording, or every later usage. The episode also explicitly says Zhang Chang himself is not the negligent kind of "five-day Jingzhao"; the idiom comes from Xu Shun's contemptuous judgment, not from Zhang's actual work ethic.
 
 ## What Changed
 
-- Created from Hanji 458 as an idiom page linking short-term office judgment, rumor, subordinate contempt, and authority overreaction.
+- Created from 汉纪 458 as an idiom page linking short-term office judgment, rumor, subordinate contempt, and authority overreaction.
 
 ## Related Concepts
 

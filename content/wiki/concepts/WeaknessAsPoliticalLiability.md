@@ -14,7 +14,7 @@ Weakness as political liability is the pattern where an actor's weak backing, lo
 
 ## Current Synthesis
 
-Hanji 751 defines the concept through [[SongGuirenZhangHeLateHan|Song Guiren]] and [[LiuQingQingheKing|Liu Qing]] in [[EmperorZhangOfHan|Emperor Zhang]]'s court. Liu Qing is crown prince, but his maternal family lacks the depth of [[EmpressDowagerDouHeLateHan|Empress Dou]]'s Dou house or the Liang line behind [[EmperorHeOfHan|Liu Zhao]]. Once Empress Dou has an incentive to make Liu Zhao heir, the Song side's weakness changes the political calculation: accusation becomes cheap, resistance is absent, and even an implausible wugu-style story can move succession.
+汉纪 751 defines the concept through [[SongGuirenZhangHeLateHan|Song Guiren]] and [[LiuQingQingheKing|Liu Qing]] in [[EmperorZhangOfHan|Emperor Zhang]]'s court. Liu Qing is crown prince, but his maternal family lacks the depth of [[EmpressDowagerDouHeLateHan|Empress Dou]]'s Dou house or the Liang line behind [[EmperorHeOfHan|Liu Zhao]]. Once Empress Dou has an incentive to make Liu Zhao heir, the Song side's weakness changes the political calculation: accusation becomes cheap, resistance is absent, and even an implausible wugu-style story can move succession.
 
 The concept is about target selection, not moral guilt. The source's point is that people can become vulnerable because they are useful to remove and unlikely to be defended. Liu Qing's later caution, silence, and avoidance of suspicion become the survival response to a court where status without backing has already proved fragile.
 
@@ -28,18 +28,18 @@ The concept is about target selection, not moral guilt. The source's point is th
 
 ## Evidence
 
-- Low-risk target selection: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] contrasts Liu Qing's weak Song maternal backing with the Dou and Liang family depth behind Liu Zhao.
-- Thin accusation surface: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] says Song Guiren's illness and rabbit-meat request are converted into a curse accusation after prior monitoring.
-- Absence of defense: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] observes that no one openly resists the crown-prince deposition despite the source's claim that Liu Qing had no serious fault.
-- Survival response: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|Hanji 751]] describes Liu Qing as avoiding suspicion and not speaking of the danger after becoming Qinghe king.
+- Low-risk target selection: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|汉纪 751]] contrasts Liu Qing's weak Song maternal backing with the Dou and Liang family depth behind Liu Zhao.
+- Thin accusation surface: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|汉纪 751]] says Song Guiren's illness and rabbit-meat request are converted into a curse accusation after prior monitoring.
+- Absence of defense: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|汉纪 751]] observes that no one openly resists the crown-prince deposition despite the source's claim that Liu Qing had no serious fault.
+- Survival response: [[zizhi-tongjian-hanji-751-dou-huanghou-gaosu-ni-nvren-bu-hen-diwei-bu-wen-luvqadctbfuzit2ackrqifour2c6|汉纪 751]] describes Liu Qing as avoiding suspicion and not speaking of the danger after becoming Qinghe king.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim weakness alone caused the purge. Hanji 751 also requires Empress Dou's succession incentive, palace monitoring, family support, and Zhangdi's acceptance of the accusation. The phrase is therefore kept as a source-grounded court-politics pattern, not a universal law that vulnerable actors are always attacked or always innocent.
+The concept does not claim weakness alone caused the purge. 汉纪 751 also requires Empress Dou's succession incentive, palace monitoring, family support, and Zhangdi's acceptance of the accusation. The phrase is therefore kept as a source-grounded court-politics pattern, not a universal law that vulnerable actors are always attacked or always innocent.
 
 ## What Changed
 
-- Created the concept from Hanji 751's explanation of why Liu Qing and Song Guiren could be removed with little resistance.
+- Created the concept from 汉纪 751's explanation of why Liu Qing and Song Guiren could be removed with little resistance.
 
 ## Related Concepts
 

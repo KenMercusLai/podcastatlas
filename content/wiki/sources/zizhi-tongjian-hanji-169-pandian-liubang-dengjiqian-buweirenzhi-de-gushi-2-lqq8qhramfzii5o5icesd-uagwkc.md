@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169 part 1]] by moving from [[LiuBang|刘邦]]'s accession into the first arrangements of [[WesternHanDynasty|西汉]] rule. It covers [[LuZhi|吕雉]] and [[LiuYing|刘盈]]'s founding positions, southern grants to [[WuRui|吴芮]] and [[WuzhuMinyueKing|无诸 / Wuzhu]], the return of displaced people and demobilized soldiers, the Luoyang south-palace explanation of Han victory through [[SpecialistDelegationLeadership|专才分工式领导力]], and [[HanXin|韩信]]'s difficult conversion from Qi king to Chu king. Its core synthesis is that founding order is not one ceremony but a layered sequence of family legitimation, regional title settlement, social repair, personnel doctrine, and containment of overmighty contributors.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|汉纪 169 part 1]] by moving from [[LiuBang|刘邦]]'s accession into the first arrangements of [[WesternHanDynasty|西汉]] rule. It covers [[LuZhi|吕雉]] and [[LiuYing|刘盈]]'s founding positions, southern grants to [[WuRui|吴芮]] and [[WuzhuMinyueKing|无诸 / Wuzhu]], the return of displaced people and demobilized soldiers, the Luoyang south-palace explanation of Han victory through [[SpecialistDelegationLeadership|专才分工式领导力]], and [[HanXin|韩信]]'s difficult conversion from Qi king to Chu king. Its core synthesis is that founding order is not one ceremony but a layered sequence of family legitimation, regional title settlement, social repair, personnel doctrine, and containment of overmighty contributors.
 
 ## Key Claims
 - Liu Bang builds an accession altar on the north bank of the Sishui and becomes emperor/Han Gaozu; Lu Zhi becomes empress, Liu Ying crown prince, and Liu Bang's mother is posthumously honored as Zhaoling Furen.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes [
 > "只知其一，不知其二"
 
 ## Connections
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169 part 1]] - immediate prior source ending with Liu Bang's south-palace question.
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|汉纪 169 part 1]] - immediate prior source ending with Liu Bang's south-palace question.
 - [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], [[LuZhi|吕雉]], and [[LiuYing|刘盈]] - accession, empress title, and crown-prince status.
 - [[WuRui|吴芮]], [[ChangshaKingdom|长沙国]], and [[Baiyue|百越]] - southern allied contribution converted into Han kingship.
 - [[WuzhuMinyueKing|无诸 / Wuzhu]], [[Minyue|闽越]], [[YueState|越国]], and [[Goujian|勾践]] - Yue-descended southeastern branch recognized by Liu Bang.

@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 徐无山 / Xu Wu Mountain
 
-徐无山 / Xu Wu Mountain enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] as the mountain refuge where [[TianChou|田筹]] turns loyalty to [[LiuYuLateHan|刘虞]] into local order. Tian Chou brings followers from [[WuzhongCountyLateHan|无终县]], finds flat land in a deep mountain setting, farms personally, and attracts thousands of households.
+徐无山 / Xu Wu Mountain enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|汉纪 972]] as the mountain refuge where [[TianChou|田筹]] turns loyalty to [[LiuYuLateHan|刘虞]] into local order. Tian Chou brings followers from [[WuzhongCountyLateHan|无终县]], finds flat land in a deep mountain setting, farms personally, and attracts thousands of households.
 
 The source makes Xu Wu Mountain more than a hiding place. Tian Chou establishes rules for killing, injury, theft, and disputes, adds marriage rites and schooling, and manages relations with [[Wuhuan|乌桓]] and other frontier groups through respect and reassurance. The result is a small frontier order built by law and reputation rather than formal office alone.
 

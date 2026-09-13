@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]] from [[HanXin|韩信]]'s demotion into [[LiuBang|刘邦]]'s broader founding settlement. It explains why [[XiaoHe|萧何]] receives the richest merit grant, why [[ZhangLiang|张良]] and [[ChenPing|陈平]] handle reward with restraint, and how Liu Bang replaces or narrows dangerous regional power through Liu-family kingships. The episode ends by moving from reward distribution into the next rebellion question, as Zhang Liang warns that some actors are preparing to rebel even though "the realm is settled."
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|汉纪 173]] from [[HanXin|韩信]]'s demotion into [[LiuBang|刘邦]]'s broader founding settlement. It explains why [[XiaoHe|萧何]] receives the richest merit grant, why [[ZhangLiang|张良]] and [[ChenPing|陈平]] handle reward with restraint, and how Liu Bang replaces or narrows dangerous regional power through Liu-family kingships. The episode ends by moving from reward distribution into the next rebellion question, as Zhang Liang warns that some actors are preparing to rebel even though "the realm is settled."
 
 ## Key Claims
 - After Han Xin is reduced from Chu king to Huaiyin marquis, Liu Bang can begin formalizing the founding merit order and regional title map.
@@ -37,7 +37,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 > "天下已定，为何要反"
 
 ## Connections
-- [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|Hanji 173]], [[HanXin|韩信]], [[Huaiyin|淮阴]], and [[PowerExitTrap|权力退场困境]] - immediate prelude: demotion removes royal title but not the settlement problem around high merit.
+- [[zizhi-tongjian-hanji-173-hanxin-taoguo-kuaxia-zhiru-mei-duoguo-niaojin-gongcang-1-ljowpzxo9u0evorhzbdyi2o0shlx|汉纪 173]], [[HanXin|韩信]], [[Huaiyin|淮阴]], and [[PowerExitTrap|权力退场困境]] - immediate prelude: demotion removes royal title but not the settlement problem around high merit.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], [[ZhangLiang|张良]], [[ChenPing|陈平]], and [[WeiWuzhi|魏无知]] - merit ranking, restrained acceptance, and recommendation credit inside the founding court.
 - [[FoundingMeritHierarchy|建国功臣排序]], [[MeritBasedRewardPunishment|因功赏罚]], [[RewardAllocationBacklash|分配反噬]], and [[SpecialistDelegationLeadership|专才分工式领导力]] - reward-order concepts extended by the "功狗 / 功人" argument.
 - [[SameSurnameKingEnfeoffment|同姓王分封]], [[LiuJia|刘贾]], [[LiuJiao|刘交]], [[LiuXiDaiKing|刘喜]], [[LiuFeiQiKing|刘肥]], [[JingKingdomEarlyHan|荆国]], [[ChuKingdomEarlyHan|楚国]], [[DaiKingdomEarlyHan|代国]], and [[QiKingdomEarlyHan|齐国]] - Liu-family regional settlement after Han Xin's old kingdom is split.

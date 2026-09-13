@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 147-148 CE [[LiangJiLateHan|梁冀]] persecution layer before the later Hanji 832-848 Liang-family sequence. It follows [[LiGuLateHan|李固]] being accused, briefly released after student and public petitions, re-accused, defended by [[WuYouLateHan|吴祐]], and then dying in prison alongside [[DuQiaoLateHan|杜乔]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 147-148 CE [[LiangJiLateHan|梁冀]] persecution layer before the later 汉纪 832-848 Liang-family sequence. It follows [[LiGuLateHan|李固]] being accused, briefly released after student and public petitions, re-accused, defended by [[WuYouLateHan|吴祐]], and then dying in prison alongside [[DuQiaoLateHan|杜乔]].
 
 The durable contribution is the moral failure of terror. [[LiangJiLateHan|梁冀]] uses prison death, public corpse display, and a mourning ban to intimidate critics, but [[GuoLiangLiGuStudent|郭亮]], [[DongBanNanyangLateHan|董班]], and [[YangKuangDuQiaoRetainer|杨匡]] risk punishment to mourn, guard, and recover the bodies, making [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]] visible before the later Liang extraction, warning, crime-record, and coup notes.
 
@@ -45,11 +45,11 @@ The durable contribution is the moral failure of terror. [[LiangJiLateHan|梁冀
 - [[GuoLiangLiGuStudent|郭亮]], [[DongBanNanyangLateHan|董班]], [[YangKuangDuQiaoRetainer|杨匡]], [[PublicCorpseHumiliation|公开尸体羞辱]], and [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]] - corpse display and mourning ban backfire into visible loyalty.
 - [[OuterRelativeCourtPower|外戚专权与清算]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - Liang's power can kill upright officials but cannot erase their public reputation.
 - [[CheerChanyu|车儿]], [[SouthernXiongnu|南匈奴]], and [[EmperorHuanOfHan|汉桓帝]] - closing notices on chanyu succession and Huan's coming-of-age ceremony remain secondary chronological markers.
-- [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]], [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] - downstream notes that this source now chronologically prefaces.
+- [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]], [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|汉纪 833]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] - downstream notes that this source now chronologically prefaces.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The source backfills 147-148 CE before Hanji 832's Liang Na return-of-power notice and before the 150-159 CE Liang Ji expansion, crime-record, and coup layers.
-- Chronology caution: the source makes Li Gu and Du Qiao's prison deaths an earlier Liang Ji terror layer, while Hanji 853 later reconstructs Li Gu's family survival after the political disaster; these are sequential, not conflicting.
+- No settled contradiction with existing wiki pages was found. The source backfills 147-148 CE before 汉纪 832's Liang Na return-of-power notice and before the 150-159 CE Liang Ji expansion, crime-record, and coup layers.
+- Chronology caution: the source makes Li Gu and Du Qiao's prison deaths an earlier Liang Ji terror layer, while 汉纪 853 later reconstructs Li Gu's family survival after the political disaster; these are sequential, not conflicting.
 - Name normalization: 吴佑 is represented as [[WuYouLateHan|吴祐]], 崇浩 as [[ZhongHaoLateHan|种暠]], and 车尔 as [[CheerChanyu|车儿]] where the received late-Han sequence supports the canonical route.
 - Scope caution: Liu Wen, Liu Wei, Ma Rong's drafting role in this case, Luan Ba, the Xia Gate亭长, and exact wording of Li Gu's final letter remain source-scoped unless later notes warrant canonical expansion.

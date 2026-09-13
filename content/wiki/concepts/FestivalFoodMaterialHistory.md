@@ -14,7 +14,7 @@ The concept extends [[MaterialHistoryNarrative]] by adding festival timing. An e
 
 [[114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]] deepens the crab branch beyond the Mid-Autumn recommendation list. It treats [[Crab|螃蟹]] as seasonal food, agricultural pest, catching-tool memory, giant-creature legend, Song literati taste, [[HongLouMeng|《红楼梦》]] banquet material, [[XunXieshu|《讯蟹书》]] defendant, and Buddhist-story actor. This turns festival food into [[CrabCulturalSymbolism]] rather than only a seasonal table object.
 
-[[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS New Year special]] adds a 元旦 case through pepper-cypress wine, peach decoction, eggs, soup cakes, and New Year cakes. The source connects those foods and drinks to [[JingChuSuiShiJi|《荆楚岁时记》]], [[SiminYueling|《四民月令》]], plant symbolism, protection from illness or harmful forces, and [[LuYou|陆游]]'s poetic imagery.
+[[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|汉纪 150 PLUS New Year special]] adds a 元旦 case through pepper-cypress wine, peach decoction, eggs, soup cakes, and New Year cakes. The source connects those foods and drinks to [[JingChuSuiShiJi|《荆楚岁时记》]], [[SiminYueling|《四民月令》]], plant symbolism, protection from illness or harmful forces, and [[LuYou|陆游]]'s poetic imagery.
 
 ## Key Claims
 - Seasonal foods can be read as material history when they connect eating practice with tools, waterways, markets, literary scenes, and folklore.

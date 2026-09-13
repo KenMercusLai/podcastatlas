@@ -33,26 +33,26 @@ The concept is narrower than formal appointment capture. It names the soft signa
 ## Evidence
 
 Inferred workplace preference:
-- [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]] opens with a senior leader's casual encouragement of a junior employee becoming a career advantage once others identify a kinship tie.
+- [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|汉纪 522]] opens with a senior leader's casual encouragement of a junior employee becoming a career advantage once others identify a kinship tie.
 
 Wang-family reputation network:
-- [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]] says Wang-family brothers combine luxury with guests, retainers, and cultivated praise, so their household image circulates beyond direct office command.
+- [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|汉纪 522]] says Wang-family brothers combine luxury with guests, retainers, and cultivated praise, so their household image circulates beyond direct office command.
 
 Deniable responsibility:
-- [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]] explicitly frames "隐形站台" as a way influence can work while the powerful person appears not to have openly ordered special treatment.
-- [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]] reads Xue Xuan's refusal to discuss official business with his son as a way to avoid visible favoritism while leaving relationship meaning available to observers.
+- [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|汉纪 522]] explicitly frames "隐形站台" as a way influence can work while the powerful person appears not to have openly ordered special treatment.
+- [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|汉纪 521]] reads Xue Xuan's refusal to discuss official business with his son as a way to avoid visible favoritism while leaving relationship meaning available to observers.
 
 Reputation circulation:
-- [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]] emphasizes that others "transmitted and praised" Xue's words, turning lawful posture into third-party reputation work.
+- [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|汉纪 521]] emphasizes that others "transmitted and praised" Xue's words, turning lawful posture into third-party reputation work.
 
 ## Counterevidence & Qualifications
 
-This concept should not be treated as a full theory of patronage, nepotism, or court faction formation. Hanji 522's modern anecdote is an interpretive bridge rather than direct historical evidence, and Hanji 521's claim that Xue may have privately discussed matters with his son is explicitly inferential. The Wang-family material shows a stronger court-power structure alongside deniable signaling, so future sources should distinguish casual inferred preference from formal appointment control, bribery, coercion, and documented private instruction.
+This concept should not be treated as a full theory of patronage, nepotism, or court faction formation. 汉纪 522's modern anecdote is an interpretive bridge rather than direct historical evidence, and 汉纪 521's claim that Xue may have privately discussed matters with his son is explicitly inferential. The Wang-family material shows a stronger court-power structure alongside deniable signaling, so future sources should distinguish casual inferred preference from formal appointment control, bribery, coercion, and documented private instruction.
 
 ## What Changed
 
-- Added Hanji 521's negative-space variant: visible non-interference can itself protect and transmit relationship meaning when kinship is already known.
-- Created the concept from Hanji 522's link between modern "invisible endorsement" and Wang-family reputation transmission.
+- Added 汉纪 521's negative-space variant: visible non-interference can itself protect and transmit relationship meaning when kinship is already known.
+- Created the concept from 汉纪 522's link between modern "invisible endorsement" and Wang-family reputation transmission.
 
 ## Related Concepts
 

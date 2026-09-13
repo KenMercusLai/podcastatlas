@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-Hanji 737 grounds the concept through [[ZongJunEasternHan|宗均]]. After Zong Jun's Jiujiang administration, the episode has him warn [[EmperorMingOfHan|汉明帝]] that literary officials can manipulate words and deceive, while clean officials may only keep themselves clean and lack the ability to suppress bandits or repair local order.
+汉纪 737 grounds the concept through [[ZongJunEasternHan|宗均]]. After Zong Jun's Jiujiang administration, the episode has him warn [[EmperorMingOfHan|汉明帝]] that literary officials can manipulate words and deceive, while clean officials may only keep themselves clean and lack the ability to suppress bandits or repair local order.
 
 The concept is not an attack on integrity. It says that integrity is necessary but insufficient when the office requires diagnosis, coordination, coercion, relief, and personnel cleanup. Zong's own Jiujiang branch supplies the positive side: he combines moral cleanup with practical burden reduction and root-cause pacification.
 
@@ -28,10 +28,10 @@ The concept is not an attack on integrity. It says that integrity is necessary b
 
 ## Evidence
 
-- Literary-official warning: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Zong Jun warns that writers can manipulate text and deceive.
-- Clean-official warning: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says clean officials may preserve personal purity while lacking ability against bandits.
-- Positive contrast: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] shows Zong cleaning officials, promoting good officers, reducing taxes, and ending the Jiujiang tiger crisis.
-- Ruler response: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Mingdi accepts the warning, making it a personnel-policy correction rather than a private complaint.
+- Literary-official warning: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Zong Jun warns that writers can manipulate text and deceive.
+- Clean-official warning: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says clean officials may preserve personal purity while lacking ability against bandits.
+- Positive contrast: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] shows Zong cleaning officials, promoting good officers, reducing taxes, and ending the Jiujiang tiger crisis.
+- Ruler response: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Mingdi accepts the warning, making it a personnel-policy correction rather than a private complaint.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept does not deny the value of clean officials or literate administratio
 
 ## What Changed
 
-- Created the concept from Hanji 737's Zong Jun personnel warning.
+- Created the concept from 汉纪 737's Zong Jun personnel warning.
 - Linked clean reputation, literary polish, and actual administrative capacity as a distinct appointment-quality problem.
 
 ## Related Concepts

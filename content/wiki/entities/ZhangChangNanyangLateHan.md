@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-张厂 / Zhang Chang is the Nanyang gongcao in [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] who persuades [[WangChangShumaoLateHan|王畅]] to abandon overly harsh action against powerful households and govern through a broader humane strategy.
+张厂 / Zhang Chang is the Nanyang gongcao in [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] who persuades [[WangChangShumaoLateHan|王畅]] to abandon overly harsh action against powerful households and govern through a broader humane strategy.
 
 ## Current Profile
 
@@ -27,19 +27,19 @@ His advice combines precedent, local status, and Confucian governance theory. He
 
 ## Evidence
 
-- Corrective advice: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Zhang Chang warns Wang Chang against governing Nanyang through harsh punishment of powerful households.
-- Nanyang status: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] has Zhang emphasize that Nanyang is the imperial home region and should be handled with special care.
-- Governance principle: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] quotes the principle that upright conduct can move people while crooked conduct undermines commands.
-- Outcome: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Wang Chang changes course after Zhang Chang's argument.
+- Corrective advice: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] says Zhang Chang warns Wang Chang against governing Nanyang through harsh punishment of powerful households.
+- Nanyang status: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] has Zhang emphasize that Nanyang is the imperial home region and should be handled with special care.
+- Governance principle: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] quotes the principle that upright conduct can move people while crooked conduct undermines commands.
+- Outcome: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] says Wang Chang changes course after Zhang Chang's argument.
 
 ## Qualifications
 
-- The current page is source-bounded to Hanji 868. It does not establish Zhang Chang's full career, kinship, or later political role.
+- The current page is source-bounded to 汉纪 868. It does not establish Zhang Chang's full career, kinship, or later political role.
 - The source uses Zhang Chang mainly as an advisory hinge for Wang Chang's change in governing style, so his broader biography remains unexpanded.
 
 ## What Changed
 
-- Created the page from Hanji 868's Nanyang governance reversal.
+- Created the page from 汉纪 868's Nanyang governance reversal.
 - Added Zhang Chang as the adviser who converts harsh local enforcement into a humane governance case.
 
 ## Relationships
@@ -48,4 +48,4 @@ His advice combines precedent, local status, and Confucian governance theory. He
 - [[NanyangCommandery|南阳郡]] - local setting whose symbolic status anchors Zhang Chang's argument.
 - [[HumaneLocalGovernance|仁厚地方治理]] - governance concept sharpened by Zhang Chang's advice.
 - [[ConfucianIdealGovernance|儒家理想治理]] - broader normative frame behind his emphasis on upright conduct and transformation.
-- [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] - only current source note for Zhang Chang.
+- [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] - only current source note for Zhang Chang.

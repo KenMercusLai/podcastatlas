@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 150 CE Liang-family privilege and private-extraction layer immediately before [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]] and [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]]. It starts from Liang dowager's return of power and death, then follows [[EmperorHuanOfHan|汉桓帝]] increasing honors for [[LiangJiLateHan|梁冀]] and [[SunShouLateHan|孙寿]] while Liang's household turns wealth, private parks, household slaves, officials, retainers, and fabricated accusations into coercive power.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 150 CE Liang-family privilege and private-extraction layer immediately before [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|汉纪 834]] and [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]]. It starts from Liang dowager's return of power and death, then follows [[EmperorHuanOfHan|汉桓帝]] increasing honors for [[LiangJiLateHan|梁冀]] and [[SunShouLateHan|孙寿]] while Liang's household turns wealth, private parks, household slaves, officials, retainers, and fabricated accusations into coercive power.
 
 The durable contribution is the everyday extraction layer behind later Liang warnings and crime records. [[QinGongLateHan|秦功]] shows private household service becoming official and access power; [[SunFenFufengLateHan|孙奋]] shows forced lending, false enslavement accusation, prison torture, and asset seizure; the rabbit-park deaths and "自卖人" label show Liang's private pleasure and labor demands outranking ordinary lives.
 
@@ -47,12 +47,12 @@ The durable contribution is the everyday extraction layer behind later Liang war
 - [[LuoyangLateHan|洛阳]] - capital setting for Liang's mansions, gardens, rabbit park, and court-adjacent extraction.
 - [[RetaliatoryPoliticalTerror|报复性政治恐怖]] - Sun Fen's punishment shows refusal or partial compliance becoming lethal once Liang can fabricate official charges.
 - [[CollateralPunishmentAndGuiltByAssociation|牵连与连坐]] - Sun Fen's mother and brother are pulled into the accusation and punishment chain.
-- [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]] - the later Hanji 838 reward-appetite layer is preceded here by already-expanding food estates, spouse titles, and private luxury.
-- [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|Hanji 834]], [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] - downstream warning, crime-record, and purge notes that this episode helps preface.
+- [[UnboundedEliteRewardDemand|受宠权臣的无餍封赏]] - the later 汉纪 838 reward-appetite layer is preceded here by already-expanding food estates, spouse titles, and private luxury.
+- [[zizhi-tongjian-hanji-834-lishi-gaosu-ni-xiaoren-weihe-chang-qiqi-lj8z2vfu6lpggumcakwejoi6z9hc|汉纪 834]], [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] - downstream warning, crime-record, and purge notes that this episode helps preface.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This episode backfills a 150 CE privilege, luxury, and extraction layer before Hanji 834's Zhu Mu warning, Hanji 835's Zhang Ling court-law check, and Hanji 846's later crime-record concentration.
+- No settled contradiction with existing wiki pages was found. This episode backfills a 150 CE privilege, luxury, and extraction layer before 汉纪 834's Zhu Mu warning, 汉纪 835's Zhang Ling court-law check, and 汉纪 846's later crime-record concentration.
 - Chronology caution: this source makes Liang Ji's current profile begin before Zhu Mu's warning layer and before the 151 CE sword-removal and reward-dissatisfaction scenes; those later pages remain sequential extensions.
 - Transcript normalization: 梁继 is normalized to [[LiangJiLateHan|梁冀]]. The source's 秦功 is kept on [[QinGongLateHan|秦功]] with spelling treated as source-scoped because the supplied note does not settle character variants beyond the pinyin/name context.
 - Scope caution: Liang dowager's funeral honors, exact rental income, rabbit-park legal wording, numbers for seized people and wealth, and minor Sun-family officials remain source-scoped until later notes provide stronger independent detail.

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] creates the concept through [[ZhuBoWesternHan|朱博]]'s Langya administration. The episode's workplace framing asks how a manager handles a "刺头" or entrenched difficult actor. Its answer is not emotional suppression or pure persuasion: Zhu Bo identifies the local strongmen who already hold influence, appoints them to county-level roles suited to their abilities, and makes their social power answerable to official tasks.
+[[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|汉纪 543]] creates the concept through [[ZhuBoWesternHan|朱博]]'s Langya administration. The episode's workplace framing asks how a manager handles a "刺头" or entrenched difficult actor. Its answer is not emotional suppression or pure persuasion: Zhu Bo identifies the local strongmen who already hold influence, appoints them to county-level roles suited to their abilities, and makes their social power answerable to official tasks.
 
 The method has four linked parts. First, the official recognizes that local order cannot be managed only by formal outsiders when grassroots power is held by strong households and local notables. Second, he uses court-backed office as the bargaining chip: the strongmen want official entry, and the commandery administrator can give it. Third, appointment is tied to a duty zone, so local disorder becomes their responsibility rather than merely the administrator's problem. Fourth, reward and punishment make the incorporation legible: success earns generous reward, while incompetence or plotting can be punished harshly.
 
@@ -31,10 +31,10 @@ The concept differs from choosing a weak proxy or granting amnesty to rebels. He
 
 ## Evidence
 
-- Strongman appointment: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] says Zhu Bo orders county officials to appoint local strongmen as officials, assigning civil or military duties according to ability.
-- Duty-zone binding: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] says Zhu Bo writes to the responsible strongman-official when serious robbery or disorder appears in that area.
-- Reward and punishment: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] says effective service receives heavy reward, while failure or hidden disloyalty can be punished severely.
-- Institutional mandate: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|Hanji 543]] says Zhu Bo is an outsider personally, but acts through official title and the court authority behind it.
+- Strongman appointment: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|汉纪 543]] says Zhu Bo orders county officials to appoint local strongmen as officials, assigning civil or military duties according to ability.
+- Duty-zone binding: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|汉纪 543]] says Zhu Bo writes to the responsible strongman-official when serious robbery or disorder appears in that area.
+- Reward and punishment: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|汉纪 543]] says effective service receives heavy reward, while failure or hidden disloyalty can be punished severely.
+- Institutional mandate: [[zizhi-tongjian-hanji-543-citou-yuangong-tai-nan-guan-yonghao-zhezhao-qingsong-rang-ta-furuan-lm9_0r8mnwcrpqukmsmoxwndzwy0|汉纪 543]] says Zhu Bo is an outsider personally, but acts through official title and the court authority behind it.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ This concept is currently grounded in one short interpretive source. It should n
 
 ## What Changed
 
-- Created the concept from Hanji 543's Zhu Bo local-governance case.
+- Created the concept from 汉纪 543's Zhu Bo local-governance case.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 767 uses the phrase to clarify what "acting" means in political life. Smart performance is not presented as pure deception or shapeless smoothness; it is the ability to preserve judgment and principle while choosing a form of action that does not trigger unnecessary exposure.
+汉纪 767 uses the phrase to clarify what "acting" means in political life. Smart performance is not presented as pure deception or shapeless smoothness; it is the ability to preserve judgment and principle while choosing a form of action that does not trigger unnecessary exposure.
 
 The source's clearest case is [[LiHeEasternHan|Li He]]. He agrees to carry the gift to [[DouXianEasternHan|Dou Xian]], satisfying the outward form his superior fears to abandon, but delays the route until the political situation resolves. [[LiuQingQingheKing|Liu Qing]] supplies a quieter personal version: favor after the Dou purge does not make him careless because earlier family trauma taught him to remain cautious. [[DengXunEasternHan|Deng Xun]] and [[NieShangLateHan|Nie Shang]] form the boundary condition: flexible gestures work only when backed by real trust and judgment.
 
@@ -28,18 +28,18 @@ The source's clearest case is [[LiHeEasternHan|Li He]]. He agrees to carry the g
 
 ## Evidence
 
-- Concept frame: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] introduces "inner square, outer round" as the episode's standard for smart conduct.
-- Li He case: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Li He accepts the gift mission to Dou Xian but delays it until the danger passes.
-- Liu Qing case: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Liu Qing receives favor after helping remove the Dou family but remains cautious because of childhood political trauma.
-- Boundary case: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] contrasts Deng Xun's real frontier legitimacy with Nie Shang's failed, one-sided conciliation of Mi Tang.
+- Concept frame: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] introduces "inner square, outer round" as the episode's standard for smart conduct.
+- Li He case: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Li He accepts the gift mission to Dou Xian but delays it until the danger passes.
+- Liu Qing case: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Liu Qing receives favor after helping remove the Dou family but remains cautious because of childhood political trauma.
+- Boundary case: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] contrasts Deng Xun's real frontier legitimacy with Nie Shang's failed, one-sided conciliation of Mi Tang.
 
 ## Counterevidence & Qualifications
 
-The concept is source-bounded and partly interpretive. Hanji 767 uses moralized language about "acting," but the concrete evidence is a cluster of episodes rather than a formal doctrine. The pattern can also be confused with opportunism unless the "inner square" judgment is grounded in real risk, duty, or trust rather than convenience alone.
+The concept is source-bounded and partly interpretive. 汉纪 767 uses moralized language about "acting," but the concrete evidence is a cluster of episodes rather than a formal doctrine. The pattern can also be confused with opportunism unless the "inner square" judgment is grounded in real risk, duty, or trust rather than convenience alone.
 
 ## What Changed
 
-- Created the concept from Hanji 767's opening conduct frame.
+- Created the concept from 汉纪 767's opening conduct frame.
 - Connected Li He, Liu Qing, Deng Xun, and Nie Shang as positive and negative cases of principled adaptability.
 
 ## Related Concepts

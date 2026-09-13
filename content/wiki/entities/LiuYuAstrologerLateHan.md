@@ -18,7 +18,7 @@ knowledge_schema: synthesis-v1
 
 Liu Yu's profile is broader than omen interpretation alone. In the 165 CE layer, he is a Guangling scholar recommended by Yang Bing whose memorial criticizes eunuch enfeoffment and adopted-heir privilege, fiscal drain from palace women, harsh construction labor, judicial bribery, popular distress, and the risk that scattered grievances become rebellion. Emperor Huan summons him, questions him about disasters, and appoints him yilang despite other officials trying to narrow the conversation.
 
-The 168 CE evidence then reuses the same court-feedback capacity in an omen frame. Hanji 884 places him with [[LiYingLateHan|李膺]], [[DuMiLateHan|杜密]], and [[YinXunLateHan|尹勋]] among renowned figures entering the power core. Hanji 885 shows him translating a celestial event into immediate security advice: Venus intrudes into the Fang mansion's "upper general" position and enters the Taiwei star field, which he reads as a warning that ministers are endangered and hidden enemies are already close to the palace center. His warning helps push Dou Wu and Chen Fan into capital-defense appointments and the replacement of Huangmenling Wei Biao with [[ShanBingLateHan|山冰]].
+The 168 CE evidence then reuses the same court-feedback capacity in an omen frame. 汉纪 884 places him with [[LiYingLateHan|李膺]], [[DuMiLateHan|杜密]], and [[YinXunLateHan|尹勋]] among renowned figures entering the power core. 汉纪 885 shows him translating a celestial event into immediate security advice: Venus intrudes into the Fang mansion's "upper general" position and enters the Taiwei star field, which he reads as a warning that ministers are endangered and hidden enemies are already close to the palace center. His warning helps push Dou Wu and Chen Fan into capital-defense appointments and the replacement of Huangmenling Wei Biao with [[ShanBingLateHan|山冰]].
 
 The page keeps Liu Yu separate from [[LiuYuLateHan|刘虞 / Liu Yu (Late Han)]], the Youzhou governor and later alternative-emperor refusal figure. The identical pinyin would otherwise create an identity collision.
 
@@ -33,14 +33,14 @@ The page keeps Liu Yu separate from [[LiuYuLateHan|刘虞 / Liu Yu (Late Han)]],
 
 ## Evidence
 
-- Remonstrant origin: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] presents Liu Yu as a Guangling scholar recommended by Yang Bing and summoned by Emperor Huan after a memorial on disasters and court disorder.
-- Governance diagnosis: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] has Liu Yu connect eunuch privilege, palace expense, harsh labor, judicial bribery, popular desperation, and banditry risk.
-- Court appointment: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Emperor Huan questions Liu Yu and appoints him yilang after receiving his long written answer.
-- Reform-cohort entry: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] places Liu Yu among renowned figures entering the power center with Li Ying, Du Mi, and Yin Xun.
-- Omen reading: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] says Liu Yu fears an abnormal Venus movement into Fang and Taiwei star fields.
-- Warning to the court center: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] says he writes to Dou Miao that the omen means palace gates should be shut and that hidden enemies are near.
-- Warning to Dou and Chen: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] says Liu Yu also warns Dou Wu and Chen Fan to prepare countermeasures.
-- Resulting preparation: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]] places the warning immediately before capital-defense appointments and Shan Bing's installation.
+- Remonstrant origin: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] presents Liu Yu as a Guangling scholar recommended by Yang Bing and summoned by Emperor Huan after a memorial on disasters and court disorder.
+- Governance diagnosis: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] has Liu Yu connect eunuch privilege, palace expense, harsh labor, judicial bribery, popular desperation, and banditry risk.
+- Court appointment: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Emperor Huan questions Liu Yu and appoints him yilang after receiving his long written answer.
+- Reform-cohort entry: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] places Liu Yu among renowned figures entering the power center with Li Ying, Du Mi, and Yin Xun.
+- Omen reading: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|汉纪 885]] says Liu Yu fears an abnormal Venus movement into Fang and Taiwei star fields.
+- Warning to the court center: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|汉纪 885]] says he writes to Dou Miao that the omen means palace gates should be shut and that hidden enemies are near.
+- Warning to Dou and Chen: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|汉纪 885]] says Liu Yu also warns Dou Wu and Chen Fan to prepare countermeasures.
+- Resulting preparation: [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|汉纪 885]] places the warning immediately before capital-defense appointments and Shan Bing's installation.
 
 ## Qualifications
 
@@ -52,7 +52,7 @@ The page keeps Liu Yu separate from [[LiuYuLateHan|刘虞 / Liu Yu (Late Han)]],
 
 - The profile now begins with Liu Yu's Yang Bing-linked remonstrance before the later omen-warning role.
 - Liu Yu's court function is reframed as feedback transmission across moral memorials and celestial warnings.
-- The page keeps the astrologer route distinct from Liu Yu / 刘虞 while accepting Hanji 884's transcript variant 刘渝 as the same crisis actor.
+- The page keeps the astrologer route distinct from Liu Yu / 刘虞 while accepting 汉纪 884's transcript variant 刘渝 as the same crisis actor.
 
 ## Relationships
 
@@ -62,7 +62,7 @@ The page keeps Liu Yu separate from [[LiuYuLateHan|刘虞 / Liu Yu (Late Han)]],
 - [[DouWuLateHan|窦武]] - warned minister whose response remains too slow to prevent counteraction.
 - [[ChenFanLateHan|陈蕃]] - warned anti-eunuch ally who reads the crisis more urgently.
 - [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - dowager recipient of Liu Yu's palace-gate warning.
-- [[LiYingLateHan|李膺]], [[DuMiLateHan|杜密]], and [[YinXunLateHan|尹勋]] - reform-cohort peers in Hanji 884's court-entry scene.
+- [[LiYingLateHan|李膺]], [[DuMiLateHan|杜密]], and [[YinXunLateHan|尹勋]] - reform-cohort peers in 汉纪 884's court-entry scene.
 - [[ShanBingLateHan|山冰]] - appointment that follows the warning-driven security preparation.
 - [[CelestialOmenPoliticalResponsibility|天象政治责任]] - concept explaining the political use of sky signs.
 - [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]] - timing-risk concept sharpened by warning without fast resolution.

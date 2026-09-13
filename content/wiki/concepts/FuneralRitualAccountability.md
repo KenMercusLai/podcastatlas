@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] gives the concept a Western Han court case. [[QiongchengTaihouWesternHan|邛成太后]] had held high ritual status across the Xuan, Yuan, and Cheng reigns, so a hurried funeral was not simply bad logistics. It signaled that senior officials had failed to match ceremony to rank and memory.
+[[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]] gives the concept a Western Han court case. [[QiongchengTaihouWesternHan|邛成太后]] had held high ritual status across the Xuan, Yuan, and Cheng reigns, so a hurried funeral was not simply bad logistics. It signaled that senior officials had failed to match ceremony to rank and memory.
 
 The accountability chain is political. [[HanChengdi|汉成帝]] blames the chancellor and Yushi Dafu, removes [[XueXuanWesternHan|薛宣]], and demotes [[ZhaiFangjinWesternHan|翟方进]]. Yet Zhai's later promotion shows that ritual failure can trigger personnel action without producing a simple moral ranking of everyone involved.
 
@@ -29,21 +29,21 @@ The accountability chain is political. [[HanChengdi|汉成帝]] blames the chanc
 ## Evidence
 
 Royal funeral as office test:
-- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Qiongcheng Taihou's funeral was rushed despite her long dowager status.
+- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]] says Qiongcheng Taihou's funeral was rushed despite her long dowager status.
 
 High-office punishment:
-- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Chengdi dismissed Xue Xuan and demoted Zhai Fangjin after blaming top ministers.
+- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]] says Chengdi dismissed Xue Xuan and demoted Zhai Fangjin after blaming top ministers.
 
 Personnel complexity:
-- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Zhai Fangjin was soon promoted to chancellor and enfeoffed after the same episode.
+- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]] says Zhai Fangjin was soon promoted to chancellor and enfeoffed after the same episode.
 
 ## Counterevidence & Qualifications
 
-The current evidence is one episode, not a complete Han funerary-law typology. Hanji 540 does not provide the full administrative record, exact ritual deviations, fiscal accounting, or Chengdi's private reasoning. The concept should therefore stay close to role-duty and personnel accountability rather than becoming a broad claim about all imperial funerals.
+The current evidence is one episode, not a complete Han funerary-law typology. 汉纪 540 does not provide the full administrative record, exact ritual deviations, fiscal accounting, or Chengdi's private reasoning. The concept should therefore stay close to role-duty and personnel accountability rather than becoming a broad claim about all imperial funerals.
 
 ## What Changed
 
-- Created the concept from Hanji 540's Qiongcheng Taihou funeral case.
+- Created the concept from 汉纪 540's Qiongcheng Taihou funeral case.
 
 ## Related Concepts
 

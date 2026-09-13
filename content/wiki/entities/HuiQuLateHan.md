@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 惠衢 / Hui Qu (late Han)
 
-惠衢 / Hui Qu (late Han) enters the wiki through [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] as [[YuanShu|袁术]]'s counter-appointee for the Yangzhou governorship after [[LiuYaoLateHan|刘繇]] expels Yuan Shu-aligned [[WuJingLateHan|吴景]] and [[SunBenLateHan|孙贲]]. Yuan Shu appoints Hui Qu and orders him to act with Wu Jing and Sun Ben against Liu Yao's positions.
+惠衢 / Hui Qu (late Han) enters the wiki through [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|汉纪 983]] as [[YuanShu|袁术]]'s counter-appointee for the Yangzhou governorship after [[LiuYaoLateHan|刘繇]] expels Yuan Shu-aligned [[WuJingLateHan|吴景]] and [[SunBenLateHan|孙贲]]. Yuan Shu appoints Hui Qu and orders him to act with Wu Jing and Sun Ben against Liu Yao's positions.
 
 The page is source-scoped. Hui Qu is less a developed person here than a sign that Yuan Shu answers Liu Yao's Han-recognized provincial authority with a competing appointment and military pressure.
 

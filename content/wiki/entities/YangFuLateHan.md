@@ -23,9 +23,9 @@ Within the current bounded evidence, Yang Fu functions as a strategic assessor. 
 - Makes Cao-Yuan rivalry legible to Guanzhong commanders who are waiting to see which side will prevail.
 
 ## Evidence
-- Observer role and return from Xudu: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] places Yang Fu in the mission from Wei Duan to Xudu and the post-return questioning by Guanzhong generals.
-- Organizational comparison: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] contrasts Yuan Shao's hesitation and missed chances with Cao Cao's decisiveness, law, army strength, talent openness, and subordinate commitment.
-- Guandu horizon: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] frames Yang Fu's judgment inside the pre-Guandu waiting posture of Guanzhong commanders.
+- Observer role and return from Xudu: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] places Yang Fu in the mission from Wei Duan to Xudu and the post-return questioning by Guanzhong generals.
+- Organizational comparison: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] contrasts Yuan Shao's hesitation and missed chances with Cao Cao's decisiveness, law, army strength, talent openness, and subordinate commitment.
+- Guandu horizon: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] frames Yang Fu's judgment inside the pre-Guandu waiting posture of Guanzhong commanders.
 
 ## Qualifications
 The current wiki evidence is limited to this episode's pre-Guandu use of Yang Fu. It does not yet establish his full official career, later military activity, or independent writings. Wei Duan is named as the sender in the source, but the wiki does not yet require a separate Wei Duan page from this bounded input alone.

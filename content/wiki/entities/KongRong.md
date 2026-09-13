@@ -37,19 +37,19 @@ That same evidence also keeps the profile sharply qualified. Kong Rong's courage
 
 ## Evidence
 
-- Early courage under repression: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] presents Kong Rong hiding Zhang Jian, then saying he personally made the sheltering decision and should bear the guilt.
-- Xuzhou legitimacy support: [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] and [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] show Kong Rong supporting Liu Bei's Xuzhou acceptance and opposing the Yuan Shu alternative through prestige and Han-orthodox reasoning.
-- Prestige-capacity gap: [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] uses Kong Rong's Beihai failure, Zheng Xuan honor, Zuo Chengzu execution, Liu Yixun departure, and Yuan Tan attack to ground [[PrestigeCapacityGap|名望能力落差]].
-- Risky recommendation and speech: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] shows Kong Rong appreciating and recommending Mi Heng, while also exposing the danger of learned public commentary around Cao Cao.
-- Court-recognition and prosecution pressure: [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] sends Kong Rong with a tally to Yuan Shao, while [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] has him defend Yang Biao against reputation-destroying punishment without secure evidence.
+- Early courage under repression: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] presents Kong Rong hiding Zhang Jian, then saying he personally made the sheltering decision and should bear the guilt.
+- Xuzhou legitimacy support: [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|汉纪 981]] and [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|汉纪 982]] show Kong Rong supporting Liu Bei's Xuzhou acceptance and opposing the Yuan Shu alternative through prestige and Han-orthodox reasoning.
+- Prestige-capacity gap: [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|汉纪 1007]] uses Kong Rong's Beihai failure, Zheng Xuan honor, Zuo Chengzu execution, Liu Yixun departure, and Yuan Tan attack to ground [[PrestigeCapacityGap|名望能力落差]].
+- Risky recommendation and speech: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] shows Kong Rong appreciating and recommending Mi Heng, while also exposing the danger of learned public commentary around Cao Cao.
+- Court-recognition and prosecution pressure: [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|汉纪 1016]] sends Kong Rong with a tally to Yuan Shao, while [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|汉纪 1020]] has him defend Yang Biao against reputation-destroying punishment without secure evidence.
 
 ## Qualifications
 
-Kong Rong should not be flattened into either childhood virtue or late Beihai incompetence. Hanji 895 supports a real early courage-and-sacrifice layer, while Hanji 1007 supports a real governance-capacity critique. The page also separates source chronology: Hanji 895 backfills his youth, whereas Hanji 981-1020 cover adult roles during later warlord politics.
+Kong Rong should not be flattened into either childhood virtue or late Beihai incompetence. 汉纪 895 supports a real early courage-and-sacrifice layer, while 汉纪 1007 supports a real governance-capacity critique. The page also separates source chronology: 汉纪 895 backfills his youth, whereas 汉纪 981-1020 cover adult roles during later warlord politics.
 
 ## What Changed
 
-- Hanji 895 adds the earliest Kong Rong layer: youthful sheltering, responsibility-taking, and Kong-family sacrifice under party-prohibition pressure.
+- 汉纪 895 adds the earliest Kong Rong layer: youthful sheltering, responsibility-taking, and Kong-family sacrifice under party-prohibition pressure.
 - The page was migrated from append-style prose into synthesis-v1 while preserving all prior source keys.
 
 ## Relationships

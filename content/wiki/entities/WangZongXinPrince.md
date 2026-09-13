@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-王宗 / Wang Zong enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] as [[WangMang|王莽]]'s grandson whose private imperial imagery and seals lead to suicide. His case adds an earlier Wang-family fear-and-punishment layer before the better-developed Hanji 658 succession-collapse branch.
+王宗 / Wang Zong enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] as [[WangMang|王莽]]'s grandson whose private imperial imagery and seals lead to suicide. His case adds an earlier Wang-family fear-and-punishment layer before the better-developed 汉纪 658 succession-collapse branch.
 
 ## Current Profile
 
@@ -20,7 +20,7 @@ Wang Zong is also linked to Wang Fang's case through family relation rather than
 
 ## Key Characteristics
 
-- Wang-family member and grandson of Wang Mang in the Hanji 654 account.
+- Wang-family member and grandson of Wang Mang in the 汉纪 654 account.
 - Associated with private imperial-dress imagery and three carved seals.
 - Dies by suicide after discovery.
 - Functions as an intra-clan warning sign of succession fear and symbolic overread.
@@ -28,9 +28,9 @@ Wang Zong is also linked to Wang Fang's case through family relation rather than
 
 ## Evidence
 
-- Imperial imagery: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Wang Zong privately has an image in imperial clothing and three seals.
-- Suicide: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says he kills himself after the case is found.
-- Family link: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] identifies Wang Fang as Wang Zong's sister.
+- Imperial imagery: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Wang Zong privately has an image in imperial clothing and three seals.
+- Suicide: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says he kills himself after the case is found.
+- Family link: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] identifies Wang Fang as Wang Zong's sister.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ This page does not establish Wang Zong's full title, faction, intention, or lega
 
 ## What Changed
 
-- Created this page from Hanji 654 as a source-scoped Wang-family scandal node.
+- Created this page from 汉纪 654 as a source-scoped Wang-family scandal node.
 
 ## Relationships
 

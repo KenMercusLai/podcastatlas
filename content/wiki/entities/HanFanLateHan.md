@@ -12,7 +12,7 @@ last_updated: 2026-09-05
 [[HanFanLateHan]] is the Yiyang county chief whose surrender to [[CaoCao]] becomes part of [[XuHuangCaoGeneral]]'s argument for rewarding submissions during the Ye campaign.
 
 ## Current Profile
-In [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]], Han Fan surrenders his city to Cao Cao while the Yuan brothers remain undefeated and neighboring counties are watching Cao's behavior. Xu Huang advises Cao to reward Han Fan and [[LiangQiLateHan]], and Cao grants them Guannei Hou titles.
+In [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|汉纪 1061]], Han Fan surrenders his city to Cao Cao while the Yuan brothers remain undefeated and neighboring counties are watching Cao's behavior. Xu Huang advises Cao to reward Han Fan and [[LiangQiLateHan]], and Cao grants them Guannei Hou titles.
 
 ## Key Characteristics
 - Represents county-level surrender during Cao Cao's pressure on the Yuan family's Ye-centered position.
@@ -20,13 +20,13 @@ In [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-l
 - Helps Cao Cao signal that submission will be materially rewarded.
 
 ## Evidence
-- Surrender and reward: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] says Han Fan and Liang Qi surrender county cities and are rewarded after Xu Huang's advice.
+- Surrender and reward: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|汉纪 1061]] says Han Fan and Liang Qi surrender county cities and are rewarded after Xu Huang's advice.
 
 ## Qualifications
 The current evidence does not establish whether Han Fan's surrender was coerced, opportunistic, or prearranged. The page treats him as a signal case in Cao Cao's broader campaign.
 
 ## What Changed
-- New page from Hanji 1061, created to anchor the surrender-reward cascade around Xu Huang's advice.
+- New page from 汉纪 1061, created to anchor the surrender-reward cascade around Xu Huang's advice.
 
 ## Relationships
 - [[LiangQiLateHan]] - paired county surrender case.

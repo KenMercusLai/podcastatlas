@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the early [[WesternHanDynasty|西汉]] Zhao and succession branch after [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]]. [[LiuBang|刘邦]] favors [[QiJi|戚姬 / 戚夫人]] and [[LiuRuyi|刘如意]], considers replacing crown prince [[LiuYing|刘盈]], and is checked by [[ZhouChang|周昌]]'s blunt remonstrance. The host's core reading is that Liu Bang creates danger for Qi Ji and Liu Ruyi by raising the succession question, but gives them only weak protection through Zhou Chang's reassignment to Zhao, leaving [[LuZhi|吕雉]] and the established heir branch structurally stronger.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the early [[WesternHanDynasty|西汉]] Zhao and succession branch after [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|汉纪 180 part 2]]. [[LiuBang|刘邦]] favors [[QiJi|戚姬 / 戚夫人]] and [[LiuRuyi|刘如意]], considers replacing crown prince [[LiuYing|刘盈]], and is checked by [[ZhouChang|周昌]]'s blunt remonstrance. The host's core reading is that Liu Bang creates danger for Qi Ji and Liu Ruyi by raising the succession question, but gives them only weak protection through Zhou Chang's reassignment to Zhao, leaving [[LuZhi|吕雉]] and the established heir branch structurally stronger.
 
 ## Key Claims
 - The episode places the succession crisis after the [[GuanGao|贯高]] and [[ZhangAo|张敖]] branch: Liu Ruyi has become king of Zhao, but Liu Bang keeps him in Chang'an rather than sending him immediately to the kingdom.
@@ -41,9 +41,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 - [[ZhouChang|周昌]], [[ZhaoYao|赵尧]], [[ZhaoState|赵国]], and [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] - remonstrance, reassignment, and the limits of a single protector.
 - [[AffectionDrivenSuccessionRisk|宠爱驱动的立储风险]], [[FavoriteDrivenHeirDisplacement|宠幸驱动的废嫡立庶]], and [[AutocraticSuccession]] - broader succession frames extended by the early Han case.
 - [[SameSurnameKingEnfeoffment|同姓王分封]], [[LiuRuyi|刘如意]], and [[ZhaoState|赵国]] - Liu Ruyi's same-surname kingship becomes an alternative-heir platform rather than only a territorial-control appointment.
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] and [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180 part 1]] - immediate Zhao-kingship background before Liu Ruyi becomes central to the heir question.
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|汉纪 180 part 2]] and [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|汉纪 180 part 1]] - immediate Zhao-kingship background before Liu Ruyi becomes central to the heir question.
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This source qualifies the earlier Liu Ruyi pages: Hanji 178 and Hanji 180 frame him mainly as a same-surname replacement king, while Hanji 181 makes that title part of a larger but politically unsupported succession alternative.
+- This source qualifies the earlier Liu Ruyi pages: 汉纪 178 and 汉纪 180 frame him mainly as a same-surname replacement king, while 汉纪 181 makes that title part of a larger but politically unsupported succession alternative.
 - The host's claim that Qi Ji and Liu Ruyi's later tragedy was almost unavoidable is recorded as source-scoped interpretation, not as a deterministic wiki-wide conclusion.

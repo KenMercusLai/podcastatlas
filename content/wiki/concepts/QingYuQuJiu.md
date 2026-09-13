@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 轻于去就 / Qing Yu Qu Jiu
 
-轻于去就 / Qing Yu Qu Jiu enters the wiki through [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] as [[ChenDeng|陈登]]'s character diagnosis of [[LyuBu|吕布]]. The phrase names a person who treats affiliation too lightly: when a relationship, office, or camp becomes unsatisfying, he can leave quickly and attach elsewhere.
+轻于去就 / Qing Yu Qu Jiu enters the wiki through [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|汉纪 1017]] as [[ChenDeng|陈登]]'s character diagnosis of [[LyuBu|吕布]]. The phrase names a person who treats affiliation too lightly: when a relationship, office, or camp becomes unsatisfying, he can leave quickly and attach elsewhere.
 
 The source uses Lü Bu as the political example. Military ability does not solve the trust problem, because a partner who easily changes sides may abandon, betray, or attack the people who rely on him. In that sense, [[QingYuQuJiu|轻于去就]] is the character-side companion to [[JiFuBaoYang|饥附饱扬]]: one describes quick exit as a habit, while the other describes attachment that lasts only while need remains.
 

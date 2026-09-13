@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-刘相夫 / Princess Liu Xiangfu enters the wiki through [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|Hanji 444]] as a Western Han heqin princess whose mission is canceled before she reaches [[Wusun|乌孙]]. [[EmperorXuanOfHan|汉宣帝]] sends her west to marry Yuanguimi and reinforce the Han-Wusun alignment against [[Xiongnu|匈奴]], but the Wusun succession changes while she is at Dunhuang, so the court recalls her.
+刘相夫 / Princess Liu Xiangfu enters the wiki through [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|汉纪 444]] as a Western Han heqin princess whose mission is canceled before she reaches [[Wusun|乌孙]]. [[EmperorXuanOfHan|汉宣帝]] sends her west to marry Yuanguimi and reinforce the Han-Wusun alignment against [[Xiongnu|匈奴]], but the Wusun succession changes while she is at Dunhuang, so the court recalls her.
 
 ## Current Profile
 
@@ -31,11 +31,11 @@ Her importance is therefore negative evidence: she shows that heqin could be rev
 
 ## Evidence
 
-- Mission creation: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|Hanji 444]] says Xuan makes Liu Xiangfu a princess and gives her wealth for marriage to Wusun.
-- Intended groom: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|Hanji 444]] says she is expected to marry Yuanguimi, Xieyou Princess's son and Wengguimi's preferred successor.
-- Dunhuang interruption: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|Hanji 444]] says the party reaches Dunhuang when news arrives that Wusun has changed rulers.
-- Risk transformation: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|Hanji 444]] says Nimi's accession means she would no longer marry the intended successor and would face a politically awkward household relationship with Xieyou.
-- Recall decision: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|Hanji 444]] says Xuan accepts Xiao Wangzhi's advice and recalls Liu Xiangfu from Dunhuang.
+- Mission creation: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|汉纪 444]] says Xuan makes Liu Xiangfu a princess and gives her wealth for marriage to Wusun.
+- Intended groom: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|汉纪 444]] says she is expected to marry Yuanguimi, Xieyou Princess's son and Wengguimi's preferred successor.
+- Dunhuang interruption: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|汉纪 444]] says the party reaches Dunhuang when news arrives that Wusun has changed rulers.
+- Risk transformation: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|汉纪 444]] says Nimi's accession means she would no longer marry the intended successor and would face a politically awkward household relationship with Xieyou.
+- Recall decision: [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|汉纪 444]] says Xuan accepts Xiao Wangzhi's advice and recalls Liu Xiangfu from Dunhuang.
 
 ## Qualifications
 
@@ -43,7 +43,7 @@ This page is bounded to one compact podcast note. Liu Xiangfu's full genealogy, 
 
 ## What Changed
 
-- Created the page from Hanji 444 as the wiki's first canonical Liu Xiangfu note.
+- Created the page from 汉纪 444 as the wiki's first canonical Liu Xiangfu note.
 - Established Liu Xiangfu as an aborted-heqin contrast to later Wusun cases where the princess is already trapped inside succession and remarriage rules.
 
 ## Relationships

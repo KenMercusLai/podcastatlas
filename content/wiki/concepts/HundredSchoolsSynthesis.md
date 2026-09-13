@@ -14,7 +14,7 @@ Hundred Schools synthesis / 诸子九流综合观 is the view that rival schools
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] grounds the concept in [[LiuXinWesternHan|刘歆]]'s account of the Zhuzi section of [[Qilue|《七略》]]. The episode says the nine schools emerge after royal order declines and regional rulers pursue power in different ways. Each school magnifies one side of the problem, promotes itself, and tries to persuade rulers.
+[[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] grounds the concept in [[LiuXinWesternHan|刘歆]]'s account of the Zhuzi section of [[Qilue|《七略》]]. The episode says the nine schools emerge after royal order declines and regional rulers pursue power in different ways. Each school magnifies one side of the problem, promotes itself, and tries to persuade rulers.
 
 The synthesis is explicitly hierarchical but not purely exclusionary. Liu Xin's framework, as presented in the episode, keeps the Six Classics and Confucian order as the center, yet it also says the other schools can become useful if their stronger points are understood and corrected by a wise ruler.
 
@@ -28,11 +28,11 @@ The synthesis is explicitly hierarchical but not purely exclusionary. Liu Xin's 
 
 ## Evidence
 
-- Nine-school taxonomy: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] lists Confucian, Daoist, Yin-Yang, Legalist, School-of-Names, Mohist, Diplomatist, Syncretist, and Agricultural schools.
-- Historical origin: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says the schools arise when royal order declines and rulers pursue different preferences.
-- Partiality: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says each school holds one side and promotes its own doctrine.
-- Synthesis frame: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] uses "天下同归而殊途，一致而百虑" to frame different routes toward a shared end.
-- Governability: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says corrected schools could become useful materials for court governance.
+- Nine-school taxonomy: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] lists Confucian, Daoist, Yin-Yang, Legalist, School-of-Names, Mohist, Diplomatist, Syncretist, and Agricultural schools.
+- Historical origin: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says the schools arise when royal order declines and rulers pursue different preferences.
+- Partiality: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says each school holds one side and promotes its own doctrine.
+- Synthesis frame: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] uses "天下同归而殊途，一致而百虑" to frame different routes toward a shared end.
+- Governability: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says corrected schools could become useful materials for court governance.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The source presents Liu Xin's synthesis sympathetically but not as neutral intel
 
 ## What Changed
 
-- Created the concept from Hanji 564's account of Qilue's nine-schools framework.
+- Created the concept from 汉纪 564's account of Qilue's nine-schools framework.
 
 ## Related Concepts
 

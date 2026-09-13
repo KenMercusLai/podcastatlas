@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the late-Han crisis immediately before Hanji 1020 by moving from [[LyuBu|吕布]]'s personnel failure and [[SunCe|孙策]]'s new imperial titles into the rise and fall of [[LiuChongChenKing|陈王刘宠]] and [[LuoJun|骆俊]]. The core case is [[ChenStateLateHan|陈国]]: Liu Chong's crossbow-trained military force and Luo Jun's internal governance let the state absorb displaced people and gather troops after Yellow Turban disruption, but that strength attracts [[YuanShu|袁术]], whose failed grain demand leads to [[ZhangKaiAssassin|张闿]] killing both leaders. The host uses the case to discuss "势" as something to borrow, create, and defend against, then closes with [[CaoCao|曹操]]'s campaign against Yuan Shu and Yuan Shu's accelerating collapse.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the late-Han crisis immediately before 汉纪 1020 by moving from [[LyuBu|吕布]]'s personnel failure and [[SunCe|孙策]]'s new imperial titles into the rise and fall of [[LiuChongChenKing|陈王刘宠]] and [[LuoJun|骆俊]]. The core case is [[ChenStateLateHan|陈国]]: Liu Chong's crossbow-trained military force and Luo Jun's internal governance let the state absorb displaced people and gather troops after Yellow Turban disruption, but that strength attracts [[YuanShu|袁术]], whose failed grain demand leads to [[ZhangKaiAssassin|张闿]] killing both leaders. The host uses the case to discuss "势" as something to borrow, create, and defend against, then closes with [[CaoCao|曹操]]'s campaign against Yuan Shu and Yuan Shu's accelerating collapse.
 
 ## Key Claims
 - [[LyuBu|吕布]] is presented as a ruler who mishandles loyalty: [[GaoShun|高顺]] remains devoted but unrewarded, while [[WeiXuLateHan|魏续]] receives trust despite later becoming part of the force that turns on Gao Shun.
@@ -43,5 +43,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the
 - [[LyuBu|吕布]], [[GaoShun|高顺]], and [[WeiXuLateHan|魏续]] - opening personnel-judgment branch.
 
 ## Contradictions
-- No settled contradiction found. This source extends Hanji 1020's Yuan Shu diagnosis backward into the immediate Chen-state assassination case and treats the host's "势" reading as source-scoped interpretation rather than a definitive causal proof.
+- No settled contradiction found. This source extends 汉纪 1020's Yuan Shu diagnosis backward into the immediate Chen-state assassination case and treats the host's "势" reading as source-scoped interpretation rather than a definitive causal proof.
 - The wiki keeps [[ChenYuWuCommandery|陈瑀]] distinct from the existing [[ChenYu|陈馀]] page because they are different historical subjects with the same pinyin route.

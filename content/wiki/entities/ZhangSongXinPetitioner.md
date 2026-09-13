@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-张竦 / Zhang Song enters the wiki through [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] as [[ZhangShaoFengguoChancellor|张绍]]'s cousin and the writer of the petition that helps [[LiuJiaShuailiHou|刘嘉]] survive and profit after [[LiuChongAnzhongMarquis|刘崇]]'s failed anti-[[WangMang|王莽]] rising.
+张竦 / Zhang Song enters the wiki through [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] as [[ZhangShaoFengguoChancellor|张绍]]'s cousin and the writer of the petition that helps [[LiuJiaShuailiHou|刘嘉]] survive and profit after [[LiuChongAnzhongMarquis|刘崇]]'s failed anti-[[WangMang|王莽]] rising.
 
 ## Current Profile
 
@@ -28,18 +28,18 @@ The petition succeeds materially. Wang Mang rewards Liu Jia and his sons, then l
 
 ## Evidence
 
-- Surrender after fear: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Zhang Song and Liu Jia report themselves to court because they fear implication.
-- Petition content: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Zhang Song writes a memorial praising Wang Mang's virtue and denouncing Liu Chong's guilt.
-- Reward effect: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Wang Mang rewards Liu Jia, Liu Jia's seven sons, and later Zhang Song.
-- Public satire: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] preserves the Chang'an saying that clever petitioning is more profitable than hard fighting.
+- Surrender after fear: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Zhang Song and Liu Jia report themselves to court because they fear implication.
+- Petition content: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Zhang Song writes a memorial praising Wang Mang's virtue and denouncing Liu Chong's guilt.
+- Reward effect: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Wang Mang rewards Liu Jia, Liu Jia's seven sons, and later Zhang Song.
+- Public satire: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] preserves the Chang'an saying that clever petitioning is more profitable than hard fighting.
 
 ## Qualifications
 
-This page is bounded to Hanji 629. It does not settle Zhang Song's full career, exact title chronology, or whether his petition reflects belief, fear, opportunism, or all three. The source identifies Zhang Bosong as Zhang Song.
+This page is bounded to 汉纪 629. It does not settle Zhang Song's full career, exact title chronology, or whether his petition reflects belief, fear, opportunism, or all three. The source identifies Zhang Bosong as Zhang Song.
 
 ## What Changed
 
-- Created from Hanji 629 as the petition writer who turns post-rebellion exposure into rewarded loyalism.
+- Created from 汉纪 629 as the petition writer who turns post-rebellion exposure into rewarded loyalism.
 
 ## Relationships
 

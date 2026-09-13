@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the Hanji 174 reward-settlement scene after [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|part 1]]. [[ZhangLiang|张良]] diagnoses the generals' gatherings as fear that [[LiuBang|刘邦]] will favor relatives and old friends while punishing old enemies, so he advises Liu Bang to first enfeoff [[YongChi|雍齿]], an old defector he personally hates. The episode then moves into the top eighteen merit ranking: [[XiaoHe|萧何]] outranks [[CaoShen|曹参]] because [[EQianqiu|鄂千秋]] argues that rear supply and replenishment are "万世之功," not only battlefield "一时之功." It closes with Xiao He's special honors, E Qianqiu's reward, Liu Bang's return to [[LiyangQinHan|栎阳]], [[LiuTaigong|刘太公]] becoming 太上皇, and a teaser for the coming [[Xiongnu|匈奴]] crisis.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the 汉纪 174 reward-settlement scene after [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|part 1]]. [[ZhangLiang|张良]] diagnoses the generals' gatherings as fear that [[LiuBang|刘邦]] will favor relatives and old friends while punishing old enemies, so he advises Liu Bang to first enfeoff [[YongChi|雍齿]], an old defector he personally hates. The episode then moves into the top eighteen merit ranking: [[XiaoHe|萧何]] outranks [[CaoShen|曹参]] because [[EQianqiu|鄂千秋]] argues that rear supply and replenishment are "万世之功," not only battlefield "一时之功." It closes with Xiao He's special honors, E Qianqiu's reward, Liu Bang's return to [[LiyangQinHan|栎阳]], [[LiuTaigong|刘太公]] becoming 太上皇, and a teaser for the coming [[Xiongnu|匈奴]] crisis.
 
 ## Key Claims
 - Zhang Liang's "谋反" warning is framed as a political diagnosis: delayed reward allocation makes generals fear both being forgotten and being later punished for old mistakes.
@@ -39,7 +39,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 > "剑履上殿、入朝不趋"
 
 ## Connections
-- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174 part 1]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[RewardAllocationBacklash|分配反噬]] - continuation from the planned rebellion warning into a concrete public signal to anxious merit-holders.
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|汉纪 174 part 1]], [[LiuBang|刘邦]], [[ZhangLiang|张良]], and [[RewardAllocationBacklash|分配反噬]] - continuation from the planned rebellion warning into a concrete public signal to anxious merit-holders.
 - [[YongChi|雍齿]], [[FengCounty|丰邑 / 丰县]], and [[HostileRecipientRewardSignal|仇敌受封安众]] - old betrayal becomes useful because his reward proves that private resentment is not the whole allocation standard.
 - [[XiaoHe|萧何]], [[CaoShen|曹参]], [[EQianqiu|鄂千秋]], [[FoundingMeritHierarchy|建国功臣排序]], [[MeritBasedRewardPunishment|因功赏罚]], and [[SpecialistDelegationLeadership|专才分工式领导力]] - top merit ranking and the argument for rear organizational work over visible battlefield exploits.
 - [[ZhangAo|张敖]], [[LiyangQinHan|栎阳]], [[LiuTaigong|刘太公]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - founding-order continuation from rewards into royal family status.

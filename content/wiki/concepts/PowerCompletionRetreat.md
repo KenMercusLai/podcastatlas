@@ -14,13 +14,13 @@ last_updated: 2026-09-01
 Power completion retreat is the choice by a high-merit actor to reduce visible command, office, or political weight after the central task has been accomplished, preserving honor while lowering threat.
 
 ## Current Synthesis
-[[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] presents [[GengYanEasternHan|耿弇]] as a founding general who understands when visible command has become less necessary and potentially riskier. After major campaigns and later recognition, he returns the great-general seal and appears in the episode's final judgment as someone who can carry great merit without continuing to occupy the highest military posture.
+[[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|汉纪 733-2]] presents [[GengYanEasternHan|耿弇]] as a founding general who understands when visible command has become less necessary and potentially riskier. After major campaigns and later recognition, he returns the great-general seal and appears in the episode's final judgment as someone who can carry great merit without continuing to occupy the highest military posture.
 
-[[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] broadens the pattern from one commander to a post-unification cohort. After [[LiuXiu|光武帝刘秀]] completes unification, Geng Yan joins [[DengYuEasternHan|邓禹]], [[JiaFuEasternHan|贾复]], and other commanders in surrendering command while keeping title, honor, income, and limited court access.
+[[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] broadens the pattern from one commander to a post-unification cohort. After [[LiuXiu|光武帝刘秀]] completes unification, Geng Yan joins [[DengYuEasternHan|邓禹]], [[JiaFuEasternHan|贾复]], and other commanders in surrendering command while keeping title, honor, income, and limited court access.
 
-[[LiTongEasternHan|Li Tong]] supplies a less command-centered variant in [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]]. He returns the Da Sikong seal because he wants to withdraw from full office, while Liu Xiu preserves special court access and later rewards his younger son. This makes retreat legible as honored de-loading of office, not disappearance from the ruler's political memory.
+[[LiTongEasternHan|Li Tong]] supplies a less command-centered variant in [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|汉纪 712]]. He returns the Da Sikong seal because he wants to withdraw from full office, while Liu Xiu preserves special court access and later rewards his younger son. This makes retreat legible as honored de-loading of office, not disappearance from the ruler's political memory.
 
-The pattern is narrower than generic retirement. It depends on task completion: the actor has already converted opportunity into merit, and the remaining challenge is preserving status in a more centralized order. In Geng Yan's case, retreat complements earlier loyalty signaling rather than replacing it. Hanji 715 shows the same act becoming one component of [[HonorsWithoutOfficeSettlement|honors without office settlement]], where the ruler's reward structure makes withdrawal non-disgracing.
+The pattern is narrower than generic retirement. It depends on task completion: the actor has already converted opportunity into merit, and the remaining challenge is preserving status in a more centralized order. In Geng Yan's case, retreat complements earlier loyalty signaling rather than replacing it. 汉纪 715 shows the same act becoming one component of [[HonorsWithoutOfficeSettlement|honors without office settlement]], where the ruler's reward structure makes withdrawal non-disgracing.
 
 ## Key Claims
 - High achievement can become safer when followed by reduced visibility.
@@ -32,19 +32,19 @@ The pattern is narrower than generic retirement. It depends on task completion: 
 - Full-office withdrawal can still preserve political honor when the ruler keeps ceremonial access and family recognition.
 
 ## Evidence
-- Returned command: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] says Geng Yan returns the great-general seal after later service.
-- Honor after merit: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] frames him as a highly ranked founding figure rather than as a disgraced or failed commander.
-- Link to earlier trust management: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|Hanji 733-2]] already shows the Geng family managing suspicion during Peng Chong's rebellion, making late retreat part of a broader political self-protection arc.
-- Collective post-unification withdrawal: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] places Geng Yan among multiple commanders who surrender seals after unification while receiving honored marquis status.
-- Honor structure: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] says rank, fief income, special-entry status, and limited court participation keep retreat from looking like disgrace.
-- Honored office return: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]] says Li Tong returns the Da Sikong seal, retains special-entry court access, and later receives family recognition through Li Xiong's marquis title.
+- Returned command: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|汉纪 733-2]] says Geng Yan returns the great-general seal after later service.
+- Honor after merit: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|汉纪 733-2]] frames him as a highly ranked founding figure rather than as a disgraced or failed commander.
+- Link to earlier trust management: [[zizhi-tongjian-hanji-733-2-gengyan-youzhizhe-shijingcheng-jiangmen-huzi-yongguan-sanjun-lnlfumtdzrigby9ox4v6pzbeogeh|汉纪 733-2]] already shows the Geng family managing suspicion during Peng Chong's rebellion, making late retreat part of a broader political self-protection arc.
+- Collective post-unification withdrawal: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] places Geng Yan among multiple commanders who surrender seals after unification while receiving honored marquis status.
+- Honor structure: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] says rank, fief income, special-entry status, and limited court participation keep retreat from looking like disgrace.
+- Honored office return: [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|汉纪 712]] says Li Tong returns the Da Sikong seal, retains special-entry court access, and later receives family recognition through Li Xiong's marquis title.
 
 ## Counterevidence & Qualifications
-The current sources treat Geng Yan, Li Tong, and other commanders' retreat approvingly, but they do not by themselves prove all motives or establish a universal rule that high officials should withdraw. Hanji 715 also depends on Liu Xiu's specific coalition, resources, and trust relationships, while Hanji 712 gives Li Tong as a source-scoped honored-withdrawal case rather than a full biography. The page should stay source-scoped when distinguishing voluntary restraint from demotion, illness, political exclusion, or normal office rotation.
+The current sources treat Geng Yan, Li Tong, and other commanders' retreat approvingly, but they do not by themselves prove all motives or establish a universal rule that high officials should withdraw. 汉纪 715 also depends on Liu Xiu's specific coalition, resources, and trust relationships, while 汉纪 712 gives Li Tong as a source-scoped honored-withdrawal case rather than a full biography. The page should stay source-scoped when distinguishing voluntary restraint from demotion, illness, political exclusion, or normal office rotation.
 
 ## What Changed
-- Added Hanji 712's Li Tong case, showing full-office return paired with retained honor, court access, and family recognition.
-- Added Hanji 715, broadening the concept from Geng Yan's individual returned-command case into a cohort-level post-unification withdrawal pattern.
+- Added 汉纪 712's Li Tong case, showing full-office return paired with retained honor, court access, and family recognition.
+- Added 汉纪 715, broadening the concept from Geng Yan's individual returned-command case into a cohort-level post-unification withdrawal pattern.
 - Reframed the concept to distinguish individual retreat from the ruler-side honor settlement that can make retreat stable.
 
 ## Related Concepts

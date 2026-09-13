@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-韦著 / Wei Zhu is a Jingzhao recluse in [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]]. He appears briefly among the five scholars [[ChenFanLateHan|陈蕃]] recommends to [[EmperorHuanOfHan|汉桓帝]], but his profile is distinct: home reclusion, textual teaching, and refusal to discuss current affairs.
+韦著 / Wei Zhu is a Jingzhao recluse in [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]]. He appears briefly among the five scholars [[ChenFanLateHan|陈蕃]] recommends to [[EmperorHuanOfHan|汉桓帝]], but his profile is distinct: home reclusion, textual teaching, and refusal to discuss current affairs.
 
 ## Current Profile
 
-Wei Zhu's evidence is compact. Hanji 849 says he lives at home, teaches books, and does not involve himself in current affairs. In the episode's larger recluse cluster, that makes him the teaching-and-silence variant of [[PrincipledOfficeRefusal|principled office refusal]]: knowledge remains active, but it is not made available as court service under Huan.
+Wei Zhu's evidence is compact. 汉纪 849 says he lives at home, teaches books, and does not involve himself in current affairs. In the episode's larger recluse cluster, that makes him the teaching-and-silence variant of [[PrincipledOfficeRefusal|principled office refusal]]: knowledge remains active, but it is not made available as court service under Huan.
 
 ## Key Characteristics
 
@@ -25,17 +25,17 @@ Wei Zhu's evidence is compact. Hanji 849 says he lives at home, teaches books, a
 
 ## Evidence
 
-- Reclusive teaching: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] says Wei Zhu lives at home and teaches books.
-- Political silence: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] says Wei Zhu does not ask about or involve himself in current affairs.
-- Recruitment field: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] places him among the five scholars recommended by Chen Fan whom Huan cannot bring into office.
+- Reclusive teaching: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] says Wei Zhu lives at home and teaches books.
+- Political silence: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] says Wei Zhu does not ask about or involve himself in current affairs.
+- Recruitment field: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] places him among the five scholars recommended by Chen Fan whom Huan cannot bring into office.
 
 ## Qualifications
 
-This page is intentionally thin because Hanji 849 gives Wei Zhu only a brief role. It should not be expanded into a full biography without further source notes.
+This page is intentionally thin because 汉纪 849 gives Wei Zhu only a brief role. It should not be expanded into a full biography without further source notes.
 
 ## What Changed
 
-- Created this page from Hanji 849 to preserve Wei Zhu's teaching-and-silence variant of late-Han reclusion.
+- Created this page from 汉纪 849 to preserve Wei Zhu's teaching-and-silence variant of late-Han reclusion.
 
 ## Relationships
 

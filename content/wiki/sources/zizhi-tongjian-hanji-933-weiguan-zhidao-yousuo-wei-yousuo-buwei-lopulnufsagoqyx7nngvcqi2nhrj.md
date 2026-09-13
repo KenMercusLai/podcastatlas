@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 185 CE late-Han layer before [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]] and the later [[HeishanArmy|黑山军]] campaign branch. It starts from the host's officialdom frame of flexibility with boundaries, then follows [[ZhangYanLateHan|张燕]] from [[ZhangNiujiaoLateHan|张牛角]]'s successor into court-recognized mountain administrator, before turning to [[CuiLieLateHan|崔烈]]'s purchased situ appointment and the reputational judgment delivered by [[CuiJunLateHan|崔钧]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 185 CE late-Han layer before [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|汉纪 936]] and the later [[HeishanArmy|黑山军]] campaign branch. It starts from the host's officialdom frame of flexibility with boundaries, then follows [[ZhangYanLateHan|张燕]] from [[ZhangNiujiaoLateHan|张牛角]]'s successor into court-recognized mountain administrator, before turning to [[CuiLieLateHan|崔烈]]'s purchased situ appointment and the reputational judgment delivered by [[CuiJunLateHan|崔钧]].
 
 ## Key Claims
 
@@ -50,6 +50,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills [[ZhangYanLateHan|张燕]]'s origin and court incorporation before Hanji 970's later Yuan Shao campaign against him.
+- No settled contradiction with existing wiki pages was found. The episode backfills [[ZhangYanLateHan|张燕]]'s origin and court incorporation before 汉纪 970's later Yuan Shao campaign against him.
 - Naming caution: [[ChengFurenLateHan|程夫人 / Madam Cheng (late Han)]] is distinct from [[ChengFuren|程夫人 / Madam Cheng]], Su Shi's mother, and receives a stable late-Han suffix.
 - Source-scope caution: the transcript's Zhonglangjiang title is preserved as a source claim; the page avoids making the exact office label carry broader institutional conclusions beyond the episode's incorporation logic.

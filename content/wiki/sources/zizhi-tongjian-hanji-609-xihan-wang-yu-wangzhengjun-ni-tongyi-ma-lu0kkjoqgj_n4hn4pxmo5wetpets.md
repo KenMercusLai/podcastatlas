@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 1 CE layer between [[zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk|Hanji 608]] and [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]]. It asks whether [[WangZhengjun|王政君]] caused [[WesternHanDynasty|Western Han]]'s fall, then narrows the question to how [[WangMang|王莽]] used her age, political fatigue, court memorials, and institutional delegation to move most government business away from her and into his own hands.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 1 CE layer between [[zizhi-tongjian-hanji-608-jiemi-xihan-aosika-zuijia-yanyuan-wangmang-llwfchwpkmuesz0nmdr48qpuwcjk|汉纪 608]] and [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|汉纪 610-1]]. It asks whether [[WangZhengjun|王政君]] caused [[WesternHanDynasty|Western Han]]'s fall, then narrows the question to how [[WangMang|王莽]] used her age, political fatigue, court memorials, and institutional delegation to move most government business away from her and into his own hands.
 
 The durable synthesis is that Wang Zhengjun is not treated only as culprit or innocent victim. Wang Mang exploits her desire to be relieved of routine affairs, has ministers recommend that only enfeoffment matters still reach her, gains control over official evaluation and appointment-facing interviews, and then mixes gifts with removals to discipline the bureaucracy. He also begins isolating [[HanPingdi|汉平帝]] from his maternal [[EmpressDowagerWeiPingdi|Wei]] family by honoring [[WeiBaoWesternHan|卫宝]], [[WeiXuanWesternHan|卫玄]], and Pingdi's sisters while keeping them in Zhongshan rather than Chang'an.
 
@@ -41,7 +41,7 @@ The durable synthesis is that Wang Zhengjun is not treated only as culprit or in
 - [[CourtOfficeCapture|朝廷职官俘获]] and [[PalaceProximityPower|宫廷近身权力]] - Wang Mang's interview, gift, punishment, and access channels convert formal office into personal dependence.
 - [[EmpressDowagerWeiPingdi|卫太后]], [[WeiBaoWesternHan|卫宝]], and [[WeiXuanWesternHan|卫玄]] - Pingdi's maternal family is honored on paper while kept outside Chang'an.
 - [[OuterRelativeCourtPower|外戚专权与清算]] and [[OuterRelativePreventiveRestraint|外戚预防性约束]] - Wang Mang uses real outer-relative precedents to justify isolating a rival maternal clan.
-- [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]] - next episode records Shentu Gang's objection to the same exclusion of Pingdi's outer relatives.
+- [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|汉纪 610-1]] - next episode records Shentu Gang's objection to the same exclusion of Pingdi's outer relatives.
 
 ## Contradictions
 

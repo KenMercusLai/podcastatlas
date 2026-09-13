@@ -18,9 +18,9 @@ last_updated: 2026-09-01
 
 The concept rests on two linked routes into elite women's learning. [[EmpressDowagerDengLateHan|Deng Sui]] supplies the formation route: childhood reading, disciplined palace conduct, and later support for women's study become part of her political capacity. [[BanZhaoLateHan|Ban Zhao]] supplies the teacher route: Ban-family education and `Han Shu` expertise let a learned woman become a named instructor inside Emperor He's court.
 
-Hanji 705-5 makes the court setting more concrete. Ban Zhao's work at Dongguan and her explanation of `Han Shu` to scholars such as [[MaRongLateHan|Ma Rong]] show that the same historical expertise used in state compilation can become teachable authority. Emperor He's order that palace women study with her then connects archival history, scholarly transmission, and inner-court female education.
+汉纪 705-5 makes the court setting more concrete. Ban Zhao's work at Dongguan and her explanation of `Han Shu` to scholars such as [[MaRongLateHan|Ma Rong]] show that the same historical expertise used in state compilation can become teachable authority. Emperor He's order that palace women study with her then connects archival history, scholarly transmission, and inner-court female education.
 
-The synthesis remains bounded. Hanji 775 frames the curriculum broadly, naming classics, astronomy, and arithmetic, while Hanji 705-5 and Hanji 705-6 add `Han Shu` interpretation, Dongguan teaching, palace women, and source-scoped first-teacher claims. Together they show female learning as part of palace governance, family discipline, text circulation, and political capacity, but not as evidence for ordinary women's educational access.
+The synthesis remains bounded. 汉纪 775 frames the curriculum broadly, naming classics, astronomy, and arithmetic, while 汉纪 705-5 and 汉纪 705-6 add `Han Shu` interpretation, Dongguan teaching, palace women, and source-scoped first-teacher claims. Together they show female learning as part of palace governance, family discipline, text circulation, and political capacity, but not as evidence for ordinary women's educational access.
 
 ## Key Claims
 
@@ -34,22 +34,22 @@ The synthesis remains bounded. Hanji 775 frames the curriculum broadly, naming c
 
 ## Evidence
 
-- Deng's formative learning: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] portrays Deng as studying from childhood and later carrying learning, restraint, and etiquette into palace life.
-- Institutional teaching: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] says Emperor He established North Palace women's study and invited Ban Zhao to teach palace women.
-- Curriculum and expansion: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] names classics, astronomy, and arithmetic, and says Deng later developed the influence of women's schooling.
-- Dongguan teaching bridge: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] says Ban Zhao explains `Han Shu` to Ma Rong and other scholars before becoming teacher to empresses and consorts.
-- `Han Shu` instruction: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao taught `Han Shu`, took Ma Rong as a student, and opened teaching so more people could understand the text.
-- Boundary-crossing teacher claim: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] frames Ban Zhao as a female teacher of male students, but the comparative "first" claim remains source-scoped.
+- Deng's formative learning: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|汉纪 775]] portrays Deng as studying from childhood and later carrying learning, restraint, and etiquette into palace life.
+- Institutional teaching: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|汉纪 775]] says Emperor He established North Palace women's study and invited Ban Zhao to teach palace women.
+- Curriculum and expansion: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|汉纪 775]] names classics, astronomy, and arithmetic, and says Deng later developed the influence of women's schooling.
+- Dongguan teaching bridge: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|汉纪 705-5]] says Ban Zhao explains `Han Shu` to Ma Rong and other scholars before becoming teacher to empresses and consorts.
+- `Han Shu` instruction: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|汉纪 705-6]] says Ban Zhao taught `Han Shu`, took Ma Rong as a student, and opened teaching so more people could understand the text.
+- Boundary-crossing teacher claim: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|汉纪 705-6]] frames Ban Zhao as a female teacher of male students, but the comparative "first" claim remains source-scoped.
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on three source notes. Hanji 775's claim that the school was the first of its kind in China or the world, Hanji 705-5's "first royal female teacher" claim, and Hanji 705-6's "first female teacher" claim are preserved as source-scoped rather than accepted as comparative education history. The page also does not imply broad female literacy across Eastern Han society; the evidence is palace-centered, elite, and text-transmission focused.
+The concept currently rests on three source notes. 汉纪 775's claim that the school was the first of its kind in China or the world, 汉纪 705-5's "first royal female teacher" claim, and 汉纪 705-6's "first female teacher" claim are preserved as source-scoped rather than accepted as comparative education history. The page also does not imply broad female literacy across Eastern Han society; the evidence is palace-centered, elite, and text-transmission focused.
 
 ## What Changed
 
-- Added Hanji 705-5 as the bridge from Ban Zhao's Dongguan `Han Shu` authority into palace teaching.
-- Kept Hanji 775 as the North Palace women's study and Deng Sui formation layer.
-- Kept Hanji 705-6 as the broader `Han Shu` transmission and bounded female-teacher layer.
+- Added 汉纪 705-5 as the bridge from Ban Zhao's Dongguan `Han Shu` authority into palace teaching.
+- Kept 汉纪 775 as the North Palace women's study and Deng Sui formation layer.
+- Kept 汉纪 705-6 as the broader `Han Shu` transmission and bounded female-teacher layer.
 
 ## Related Concepts
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 
 ## Overview
 
-Hou Ba / 侯霸 enters the wiki as the Guangwu-era administrator who links local preservation to institutional reconstruction. In [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]], he preserves Linhuai during the Wang Mang disorder, is summoned by [[LiuXiu|光武帝刘秀]] at Shouchun, becomes Shangshu Ling, and helps the court recover usable rules by collecting scattered documents and earlier policy precedents.
+Hou Ba / 侯霸 enters the wiki as the Guangwu-era administrator who links local preservation to institutional reconstruction. In [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]], he preserves Linhuai during the Wang Mang disorder, is summoned by [[LiuXiu|光武帝刘秀]] at Shouchun, becomes Shangshu Ling, and helps the court recover usable rules by collecting scattered documents and earlier policy precedents.
 
 ## Current Profile
 
@@ -28,9 +28,9 @@ His value is documentary and procedural, not just moral. Hou Ba knows earlier in
 
 ## Evidence
 
-- Local preservation: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Hou Ba alone preserves Linhuai's peace during the Wang Mang disorder.
-- Appointment: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Liu Xiu summons him at Shouchun and appoints him Shangshu Ling.
-- Institutional recovery: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says the court lacks old laws and old ministers, while Hou Ba collects scattered documents and submits usable former policies.
+- Local preservation: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Hou Ba alone preserves Linhuai's peace during the Wang Mang disorder.
+- Appointment: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Liu Xiu summons him at Shouchun and appoints him Shangshu Ling.
+- Institutional recovery: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says the court lacks old laws and old ministers, while Hou Ba collects scattered documents and submits usable former policies.
 
 ## Qualifications
 

@@ -16,7 +16,7 @@ Imperial retinue discipline is the administrative problem of keeping a ruler's t
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] grounds the concept in [[EmperorHuanOfHan|汉桓帝]]'s 164 CE southern tour through Zhangling, Yunmeng, the [[HanRiver|汉水]] region, and Xinye. The tour is politically visible, but the source emphasizes its logistical underside: the accompanying Three Excellencies, Nine Ministers, imperial relatives, vehicles, and horses create large costs and corvee demands for local offices.
+[[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] grounds the concept in [[EmperorHuanOfHan|汉桓帝]]'s 164 CE southern tour through Zhangling, Yunmeng, the [[HanRiver|汉水]] region, and Xinye. The tour is politically visible, but the source emphasizes its logistical underside: the accompanying Three Excellencies, Nine Ministers, imperial relatives, vehicles, and horses create large costs and corvee demands for local offices.
 
 The source gives two discipline responses. [[HuTengLateHan|胡腾]] asks that the [[Jingzhou|荆州]] inspector's treatment be elevated to match the Sili xiaowei so that the moving court can be policed more strictly. [[YangBingLateHan|杨秉]] then argues that Huan should stop granting 郎 posts casually to eunuchs' and favorites' contacts, because those offices involve palace security and local governance rather than private reward.
 
@@ -30,10 +30,10 @@ The source gives two discipline responses. [[HuTengLateHan|胡腾]] asks that th
 
 ## Evidence
 
-- Local burden: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says Huan's southern tour brings many senior officials, relatives, vehicles, and horses, making local fees and labor demands heavy.
-- Jurisdiction proposal: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says Hu Teng asks to raise the Jingzhou inspector's treatment to Sili xiaowei level and to serve in a supervisory role.
-- Discipline result: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] reports that Huan approves and that discipline becomes strict.
-- Appointment restraint: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says Yang Bing warns against casually appointing people as 郎 because those offices carry real guard and local-office responsibilities.
+- Local burden: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says Huan's southern tour brings many senior officials, relatives, vehicles, and horses, making local fees and labor demands heavy.
+- Jurisdiction proposal: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says Hu Teng asks to raise the Jingzhou inspector's treatment to Sili xiaowei level and to serve in a supervisory role.
+- Discipline result: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] reports that Huan approves and that discipline becomes strict.
+- Appointment restraint: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says Yang Bing warns against casually appointing people as 郎 because those offices carry real guard and local-office responsibilities.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The source gives a brief annalistic notice and does not quantify the exact extra
 
 ## What Changed
 
-- Created the concept from Hanji 863's southern-tour branch linking retinue burden, Hu Teng's authority proposal, and Yang Bing's appointment warning.
+- Created the concept from 汉纪 863's southern-tour branch linking retinue burden, Hu Teng's authority proposal, and Yang Bing's appointment warning.
 
 ## Related Concepts
 

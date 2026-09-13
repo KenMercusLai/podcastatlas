@@ -23,9 +23,9 @@ Liang Ji then uses the failure to imprison both men. [[LiGuLateHan|李固]] memo
 - Saved from execution by Li Gu's institutional-risk argument but removed from office.
 
 ## Evidence
-- Office and assignment: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] identifies Ying Cheng as Ba Commandery administrator during Fu Zhi's revolt.
-- Failed suppression: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Zhong Hao and Ying Cheng are unable to suppress Fu Zhi successfully.
-- Sentence reduction: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Li Gu's memorial leads Liang Na to reduce the penalty to dismissal from office.
+- Office and assignment: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] identifies Ying Cheng as Ba Commandery administrator during Fu Zhi's revolt.
+- Failed suppression: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Zhong Hao and Ying Cheng are unable to suppress Fu Zhi successfully.
+- Sentence reduction: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Li Gu's memorial leads Liang Na to reduce the penalty to dismissal from office.
 
 ## Qualifications
 The source does not give Ying Cheng's full career or clarify his individual responsibility for the failure. The page therefore treats him as a bounded failed-service and retaliation case.

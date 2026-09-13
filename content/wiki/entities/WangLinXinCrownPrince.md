@@ -10,7 +10,7 @@ last_updated: 2026-09-08
 
 ## Overview
 
-Wang Lin / 王林 is the Xin crown-prince figure in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]], where his fear after involvement with [[YuanBiXinPalaceAttendant|元璧]] escalates into a failed plot against [[WangMang|王莽]]. His death turns palace scandal into succession collapse because Wang Mang's public sons are all gone by the end of the episode.
+Wang Lin / 王林 is the Xin crown-prince figure in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]], where his fear after involvement with [[YuanBiXinPalaceAttendant|元璧]] escalates into a failed plot against [[WangMang|王莽]]. His death turns palace scandal into succession collapse because Wang Mang's public sons are all gone by the end of the episode.
 
 ## Current Profile
 
@@ -28,18 +28,18 @@ Wang Lin's wife [[LiuYingWangLinWife|刘英]] adds an omen layer by predicting a
 
 ## Evidence
 
-- Household fear: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Lin worried he would die young like two elder brothers after Wang Mang found his letter to Empress Xiaomu.
-- Yuan Bi connection: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Lin and Yuan Bi were linked in a way the host treats as violating household ethics.
-- Plot and confession: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Yuan Bi confesses the murder plot after arrest and torture.
-- Death and succession effect: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Mang gives Wang Lin poison, Wang Lin kills himself by another method, and Wang Mang's public sons are gone after Wang An also dies.
+- Household fear: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Lin worried he would die young like two elder brothers after Wang Mang found his letter to Empress Xiaomu.
+- Yuan Bi connection: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Lin and Yuan Bi were linked in a way the host treats as violating household ethics.
+- Plot and confession: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Yuan Bi confesses the murder plot after arrest and torture.
+- Death and succession effect: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Mang gives Wang Lin poison, Wang Lin kills himself by another method, and Wang Mang's public sons are gone after Wang An also dies.
 
 ## Qualifications
 
-The page is source-scoped to Hanji 658. It does not independently establish the exact nature of Wang Lin's relationship with Yuan Bi, his inner motive, or the complete legal process behind the investigation. The episode's psychological reading is useful but should remain bounded by the source note.
+The page is source-scoped to 汉纪 658. It does not independently establish the exact nature of Wang Lin's relationship with Yuan Bi, his inner motive, or the complete legal process behind the investigation. The episode's psychological reading is useful but should remain bounded by the source note.
 
 ## What Changed
 
-- Created from Hanji 658 as Wang Mang's crown-prince scandal and succession-collapse case.
+- Created from 汉纪 658 as Wang Mang's crown-prince scandal and succession-collapse case.
 
 ## Relationships
 

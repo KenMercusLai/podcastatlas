@@ -47,5 +47,5 @@ The durable synthesis is that talent preservation and accountability are not tre
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source predates the already-ingested Hanji 585-599 Dong Xian and Wang Jia sequence, so it adds an earlier Wang Jia layer rather than revising the later fatal conflict.
+- Chronology qualification: this source predates the already-ingested 汉纪 585-599 Dong Xian and Wang Jia sequence, so it adds an earlier Wang Jia layer rather than revising the later fatal conflict.
 - Scope caution: Wei Shang, Han Anguo, Zhang Chang, Su Ling, Man Chang, Yin Feng, exact offices, and the full original memorial wording remain source-scoped until later notes warrant canonical pages.

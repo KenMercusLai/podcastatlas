@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 This episode uses [[GongsunHong|公孙弘]] to argue that compromise can preserve agency rather than signal cowardice when the actor lacks force, office, or timing. It then moves into 184 CE: [[CaoCao|曹操]] uses the Luoyang curfew case against [[JianShuoLateHan|蹇硕]]'s uncle as an early high-status enforcement signal, [[YangCiLateHan|杨赐]] and [[LiuTaoLateHan|刘陶 / 刘桃]] are belatedly vindicated after warning about [[YellowTurbansLateHan|黄巾军]], and [[HuangfuSongLateHan|皇甫嵩]] defeats [[BoCaiLateHan|波才]] through the [[ChangsheBattleLateHan|长社之战]] fire attack before Cao Cao joins the pursuit.
 
-The source backfills the battlefield opening before [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|Hanji 926]] and [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]]. Its main synthesis is that compromise, retreat, and delay can be active strategy when they convert a stronger opponent's confidence into overextension.
+The source backfills the battlefield opening before [[zizhi-tongjian-hanji-926-zhenzheng-de-qiangzhe-dou-dongde-zaoshi-lssmabzoku4ue28irdmfn0-d-0dc|汉纪 926]] and [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|汉纪 928]]. Its main synthesis is that compromise, retreat, and delay can be active strategy when they convert a stronger opponent's confidence into overextension.
 
 ## Key Claims
 
@@ -47,5 +47,5 @@ The source backfills the battlefield opening before [[zizhi-tongjian-hanji-926-z
 
 ## Contradictions
 
-- No settled contradiction found. The episode backfills earlier context for Hanji 926 and Hanji 928 rather than overturning their claims.
+- No settled contradiction found. The episode backfills earlier context for 汉纪 926 and 汉纪 928 rather than overturning their claims.
 - Jian Tu, Deng Sheng, Zhao Qian, Guo Xun, Liu Wei, Shaoling, and Guangyang remain source-scoped because this source gives them narrow episodic roles.

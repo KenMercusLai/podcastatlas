@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 褒姒 / Bao Si
 
 ## Overview
-褒姒 / Bao Si enters the wiki through [[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|Hanji 601-2]] as the Western Zhou consort whose later memory is dominated by the "一笑亡国" and "烽火戏诸侯" stories around [[ZhouYouwang|周幽王]].
+褒姒 / Bao Si enters the wiki through [[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|汉纪 601-2]] as the Western Zhou consort whose later memory is dominated by the "一笑亡国" and "烽火戏诸侯" stories around [[ZhouYouwang|周幽王]].
 
 ## Current Profile
 The source presents Bao Si less as a recoverable court actor than as a blurred figure produced by legend, moral blame, and dynastic-collapse storytelling. It retells a supernatural birth account from the [[LienuZhuan|《列女传》]] tradition, then explicitly warns that this material is myth-like and should not be treated as firm history.
@@ -41,7 +41,7 @@ Historical obscurity:
 The source is a short popular-history episode and itself says the supernatural biography "当不得真." Bao Si's precise origin, agency at court, role in beacon-fire stories, and fate after the Quanrong attack remain source-scoped.
 
 ## What Changed
-- Added Bao Si as a canonical entity for the Hanji 601-2 myth-and-reception episode.
+- Added Bao Si as a canonical entity for the 汉纪 601-2 myth-and-reception episode.
 - Separated her legendary afterlife from any settled causal responsibility for Western Zhou's fall.
 
 ## Relationships

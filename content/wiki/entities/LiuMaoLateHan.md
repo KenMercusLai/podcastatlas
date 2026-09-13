@@ -11,13 +11,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-刘茂 / Liu Mao is a late-Han senior official whose current wiki profile has two bounded roles: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says the Taichang Liu Mao, son of Liu Kai, is appointed sikong after Tong Jing's removal, while [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] shows Liu Mao joining [[ChenFanLateHan|陈蕃]] in petitioning for punished enforcement officials before stopping after impeachment pressure.
+刘茂 / Liu Mao is a late-Han senior official whose current wiki profile has two bounded roles: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] says the Taichang Liu Mao, son of Liu Kai, is appointed sikong after Tong Jing's removal, while [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] shows Liu Mao joining [[ChenFanLateHan|陈蕃]] in petitioning for punished enforcement officials before stopping after impeachment pressure.
 
 ## Current Profile
 
-Hanji 868 gives Liu Mao a compact office notice inside Emperor Huan's 165 CE court field: after Tong Jing is removed as sikong, the Taichang Liu Mao is appointed to the vacant post. The source identifies him as Liu Kai's son but does not connect the appointment to the later remonstrance episode.
+汉纪 868 gives Liu Mao a compact office notice inside Emperor Huan's 165 CE court field: after Tong Jing is removed as sikong, the Taichang Liu Mao is appointed to the vacant post. The source identifies him as Liu Kai's son but does not connect the appointment to the later remonstrance episode.
 
-Hanji 872 gives Liu Mao a contrast role beside Chen Fan. Both officials initially defend [[ZhaiChaoLateHan|翟超]] and [[HuangFuDonghaiLateHan|黄浮]] after [[EmperorHuanOfHan|汉桓帝]] punishes them under eunuch pressure. When the petition itself becomes dangerous and officials impeach the memorialists, Liu Mao becomes silent.
+汉纪 872 gives Liu Mao a contrast role beside Chen Fan. Both officials initially defend [[ZhaiChaoLateHan|翟超]] and [[HuangFuDonghaiLateHan|黄浮]] after [[EmperorHuanOfHan|汉桓帝]] punishes them under eunuch pressure. When the petition itself becomes dangerous and officials impeach the memorialists, Liu Mao becomes silent.
 
 Liu Mao therefore marks the ordinary limit of remonstrance under a hostile court. His initial participation matters, but the source uses Chen Fan's continued memorial to show the difference between one-time institutional objection and sustained personal exposure.
 
@@ -31,20 +31,20 @@ Liu Mao therefore marks the ordinary limit of remonstrance under a hostile court
 
 ## Evidence
 
-- Sikong appointment: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Liu Mao, then Taichang and son of Liu Kai, is appointed sikong after Tong Jing is removed.
-- Joint petition: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Liu Mao joins Chen Fan in requesting pardon or relief for the punished officials.
-- Retaliation pressure: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says officials impeach Chen Fan and Liu Mao after the petition.
-- Withdrawal: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Liu Mao does not continue speaking after pressure rises.
-- Contrast: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] shows Chen Fan continuing with a broader anti-eunuch diagnosis.
+- Sikong appointment: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] says Liu Mao, then Taichang and son of Liu Kai, is appointed sikong after Tong Jing is removed.
+- Joint petition: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Liu Mao joins Chen Fan in requesting pardon or relief for the punished officials.
+- Retaliation pressure: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says officials impeach Chen Fan and Liu Mao after the petition.
+- Withdrawal: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Liu Mao does not continue speaking after pressure rises.
+- Contrast: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] shows Chen Fan continuing with a broader anti-eunuch diagnosis.
 
 ## Qualifications
 
-The page now joins a Hanji 868 office notice to a Hanji 872 remonstrance contrast because both sources name a high-ranking Liu Mao in the same Huan-era court field. The source set still does not supply a complete career or a stable broader factional profile, so the identity connection should remain cautious.
+The page now joins a 汉纪 868 office notice to a 汉纪 872 remonstrance contrast because both sources name a high-ranking Liu Mao in the same Huan-era court field. The source set still does not supply a complete career or a stable broader factional profile, so the identity connection should remain cautious.
 
 ## What Changed
 
-- Hanji 868 adds Liu Mao's Taichang-to-sikong appointment notice before the later remonstrance contrast.
-- Hanji 872 creates Liu Mao's canonical page as Chen Fan's initial co-remonstrant and contrast case.
+- 汉纪 868 adds Liu Mao's Taichang-to-sikong appointment notice before the later remonstrance contrast.
+- 汉纪 872 creates Liu Mao's canonical page as Chen Fan's initial co-remonstrant and contrast case.
 
 ## Relationships
 

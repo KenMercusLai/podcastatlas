@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the opening of [[ZhaoChongguoWesternHan|赵充国]]'s late-life Qiang campaign before [[zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt|Hanji 436]] and [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]]. It traces the crisis from Yi Qu Anguo's unauthorized permission for [[XianlingQiang|先零羌]] to cross the Yellow River for pasture, through his later killing of Qiang leaders, to Zhao's careful field entry, reconnaissance, refusal of bait, troop care, and amnesty-based coalition splitting.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the opening of [[ZhaoChongguoWesternHan|赵充国]]'s late-life Qiang campaign before [[zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt|汉纪 436]] and [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]]. It traces the crisis from Yi Qu Anguo's unauthorized permission for [[XianlingQiang|先零羌]] to cross the Yellow River for pasture, through his later killing of Qiang leaders, to Zhao's careful field entry, reconnaissance, refusal of bait, troop care, and amnesty-based coalition splitting.
 
 The durable synthesis is that Zhao's "late blooming" is presented as mature command capacity rather than delayed fame. He recognizes alliance risk early, refuses to estimate the field from afar, treats terrain and soldier morale as strategic variables, and uses selective punishment plus reassurance to keep Qiang groups from hardening into one anti-Han bloc.
 
@@ -39,11 +39,11 @@ The durable synthesis is that Zhao's "late blooming" is presented as mature comm
 - [[ZhaoChongguoWesternHan|赵充国]] - the source adds the origin and first-field-action layer before the later tactical memorials,屯田 program, and post-campaign retaliation.
 - [[EmperorXuanOfHan|汉宣帝]] - ruler who chooses Zhao after Yi Qu Anguo's failure and accepts Zhao's request to inspect terrain before submitting a plan.
 - [[XianlingQiang|先零羌]] - named Qiang group whose pasture crossing, alliance activity, and later rebellion become Zhao's principal strategic problem.
-- [[QiangOfficialAbuseRebellionTrigger]] - Yi Qu Anguo's unauthorized concession, mass killing of leaders, pursuit, and failed campaign supply an earlier ignition case before Xin Tang's later abuse in Hanji 440.
-- [[CoalitionFractureExploitation|联盟裂缝利用]] - Zhao's release of Diao Ku and selective-punishment message begin the policy later developed into principal-culprit targeting in Hanji 436.
+- [[QiangOfficialAbuseRebellionTrigger]] - Yi Qu Anguo's unauthorized concession, mass killing of leaders, pursuit, and failed campaign supply an earlier ignition case before Xin Tang's later abuse in 汉纪 440.
+- [[CoalitionFractureExploitation|联盟裂缝利用]] - Zhao's release of Diao Ku and selective-punishment message begin the policy later developed into principal-culprit targeting in 汉纪 436.
 - [[FrontierDefensivePatience|边境防御耐心]] - Zhao's refusal to chase small enemy cavalry and insistence on terrain knowledge add field-level discipline before the later memorial argument.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode supplies the crisis-origin and initial-operations layer that precedes Hanji 436's tactical dispute and Hanji 439's accepted settlement program.
+- No settled contradiction with existing wiki content was found. The episode supplies the crisis-origin and initial-operations layer that precedes 汉纪 436's tactical dispute and 汉纪 439's accepted settlement program.
 - Scope caution: Yi Qu Anguo, Yang Yu, Diao Ku, the Han and Qiang branch names, exact route geography, and the reported numbers in the early campaign remain source-scoped unless later notes warrant standalone pages or primary-text reconciliation.

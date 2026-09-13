@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-夏贺良 / Xia Heliang enters the wiki through [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] as [[GanZhongkeWesternHan|甘忠可]]'s disciple whose renewed-mandate method succeeds temporarily under [[HanAidi|汉哀帝]] after failing under [[HanChengdi|汉成帝]].
+夏贺良 / Xia Heliang enters the wiki through [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] as [[GanZhongkeWesternHan|甘忠可]]'s disciple whose renewed-mandate method succeeds temporarily under [[HanAidi|汉哀帝]] after failing under [[HanChengdi|汉成帝]].
 
 ## Current Profile
 
@@ -24,14 +24,14 @@ The source makes Xia a case of fangshi authority crossing into personnel politic
 - Gains access under Aidi because illness, disaster anxiety, and disorder make the claim newly attractive.
 - Converts cosmic warning into concrete symbolic policy: reign title, imperial style, amnesty, and timekeeping change.
 - Moves from ritual cure to proposed personnel replacement after the initial promise fails.
-- Becomes the clearest Hanji 581 example of fangshi delivery risk and punishment.
+- Becomes the clearest 汉纪 581 example of fangshi delivery risk and punishment.
 
 ## Evidence
 
-- Transmission from Gan: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Xia continues studying Gan's text after punishment.
-- Court access: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Li Xun's compatible disaster-omen expertise helps bring Xia to Aidi.
-- Ritual proposal: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Xia's group recommends title and timekeeping changes to secure longevity, heirs, and disaster relief.
-- Backlash: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Aidi reverses most of the edict and executes Xia after the promised improvements do not occur.
+- Transmission from Gan: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Xia continues studying Gan's text after punishment.
+- Court access: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Li Xun's compatible disaster-omen expertise helps bring Xia to Aidi.
+- Ritual proposal: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Xia's group recommends title and timekeeping changes to secure longevity, heirs, and disaster relief.
+- Backlash: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Aidi reverses most of the edict and executes Xia after the promised improvements do not occur.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The page does not settle whether Xia believed his own claims, how much of the pr
 
 ## What Changed
 
-- Created from Hanji 581 as the Aidi-era operator of Gan Zhongke's renewed-mandate technique.
+- Created from 汉纪 581 as the Aidi-era operator of Gan Zhongke's renewed-mandate technique.
 
 ## Relationships
 

@@ -10,13 +10,13 @@ last_updated: 2026-09-12
 
 ## Overview
 
-郑弘 / Zheng Hong enters the wiki through [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] as one of the replacement officials [[JingFang|京房]] hopes could be used if [[HanYuandi|汉元帝]] removes [[WeiXuanchengWesternHan|韦玄成]] and [[ShiXianWesternHan|石显]].
+郑弘 / Zheng Hong enters the wiki through [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] as one of the replacement officials [[JingFang|京房]] hopes could be used if [[HanYuandi|汉元帝]] removes [[WeiXuanchengWesternHan|韦玄成]] and [[ShiXianWesternHan|石显]].
 
 ## Current Profile
 
 Zheng Hong's current role is narrow but politically telling. He appears not as a fully narrated biography, but as part of Jing Fang's positive personnel slate. In the episode's logic, naming Zheng Hong gives the [[KaogongfaReformBacklash|kaogong]] proposal a concrete consequence: Jing Fang is not only criticizing Shi Xian's bloc; he is imagining a different court staffing arrangement.
 
-That concreteness raises the danger. Hanji 488 says Zheng Hong is also punished after Jing Fang's fall, being removed from office and returned to commoner status, which shows how even association with an alternative personnel plan can become costly.
+That concreteness raises the danger. 汉纪 488 says Zheng Hong is also punished after Jing Fang's fall, being removed from office and returned to commoner status, which shows how even association with an alternative personnel plan can become costly.
 
 ## Key Characteristics
 
@@ -26,12 +26,12 @@ That concreteness raises the danger. Hanji 488 says Zheng Hong is also punished 
 
 ## Evidence
 
-- Replacement role: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] says Jing Fang suggests using Zheng Hong and Xu Li if Wei Xuancheng and Shi Xian are removed.
-- Punishment: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] says Zheng Hong is dismissed to commoner status after Jing Fang and Zhang Bo are executed.
+- Replacement role: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] says Jing Fang suggests using Zheng Hong and Xu Li if Wei Xuancheng and Shi Xian are removed.
+- Punishment: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] says Zheng Hong is dismissed to commoner status after Jing Fang and Zhang Bo are executed.
 
 ## Qualifications
 
-This page is bounded to Hanji 488. It does not settle Zheng Hong's full career, exact office, merits, factional alignment, or whether he actively participated in Jing Fang's plan.
+This page is bounded to 汉纪 488. It does not settle Zheng Hong's full career, exact office, merits, factional alignment, or whether he actively participated in Jing Fang's plan.
 
 ## What Changed
 

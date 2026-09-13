@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 衣带诏 / Clothes Belt Edict
 
 ## Overview
-衣带诏 / Clothes Belt Edict appears in the Hanji 1040 episode as the alleged secret imperial instruction that [[DongChengLateHan|董承]] claims to have received from [[EmperorXianOfHan|汉献帝]] against [[CaoCao|曹操]].
+衣带诏 / Clothes Belt Edict appears in the 汉纪 1040 episode as the alleged secret imperial instruction that [[DongChengLateHan|董承]] claims to have received from [[EmperorXianOfHan|汉献帝]] against [[CaoCao|曹操]].
 
 ## Current Profile
 The current wiki evidence treats the edict as a source-scoped conspiracy object rather than an independently verified document. Its narrative function is to make [[LiuBei|刘备]]'s position during the "煮酒论英雄" scene dangerous: he is being honored by Cao Cao while already tied to a plot that could make exposure fatal.
@@ -31,7 +31,7 @@ The current wiki evidence treats the edict as a source-scoped conspiracy object 
 The episode reports the edict as part of the traditional account and also warns that the transcript contains name and office errors. This page therefore records the edict's role in the source's narrative without settling document authenticity or textual detail.
 
 ## What Changed
-- Created the page as the conspiracy document behind Hanji 1040's Dong Cheng and Liu Bei branch.
+- Created the page as the conspiracy document behind 汉纪 1040's Dong Cheng and Liu Bei branch.
 
 ## Relationships
 - [[DongChengLateHan|董承]] - claimed recipient and organizer of the conspiracy.

@@ -14,7 +14,7 @@ A mou-destruction strike is the military-strategy pattern in which an attacker t
 
 ## Current Synthesis
 
-Hanji 709 defines the current wiki version through Kou Xun's handling of Gao Jun. The source reads "上兵伐谋" not as a polite preference for clever strategy, but as the destruction of the structure that lets an enemy keep resisting. Huangfu Wen matters because he is Gao Jun's adviser and the person whose hard line keeps surrender from becoming acceptable.
+汉纪 709 defines the current wiki version through Kou Xun's handling of Gao Jun. The source reads "上兵伐谋" not as a polite preference for clever strategy, but as the destruction of the structure that lets an enemy keep resisting. Huangfu Wen matters because he is Gao Jun's adviser and the person whose hard line keeps surrender from becoming acceptable.
 
 The mechanism is harsher than ordinary persuasion. Kou Xun kills Huangfu Wen, sends the deputy back alive, and makes Gao Jun choose between immediate surrender and assault. The killing turns the abstract threat into a visible loss of counsel and confidence. The current synthesis therefore links the concept to [[ForceBackedSurrenderPersuasion|force-backed surrender persuasion]], while also keeping it morally and legally qualified by the [[EnvoyKillingTaboo|envoy-killing taboo]].
 
@@ -29,19 +29,19 @@ The mechanism is harsher than ordinary persuasion. Kou Xun kills Huangfu Wen, se
 
 ## Evidence
 
-- Interpretive frame: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] explicitly frames the Gao Jun case through "上兵伐谋."
-- Adviser as target: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] makes Huangfu Wen, not the city wall, the decisive point Kou Xun attacks.
-- Coercive sequence: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says Kou Xun kills Huangfu Wen, releases the deputy, and demands surrender or battle.
-- Surrender result: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says Gao Jun surrenders the same day after the deputy returns.
-- Norm qualification: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] records objections before the execution, preserving that the move is extreme rather than routine.
+- Interpretive frame: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] explicitly frames the Gao Jun case through "上兵伐谋."
+- Adviser as target: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] makes Huangfu Wen, not the city wall, the decisive point Kou Xun attacks.
+- Coercive sequence: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] says Kou Xun kills Huangfu Wen, releases the deputy, and demands surrender or battle.
+- Surrender result: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] says Gao Jun surrenders the same day after the deputy returns.
+- Norm qualification: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] records objections before the execution, preserving that the move is extreme rather than routine.
 
 ## Counterevidence & Qualifications
 
-This concept is currently based on one Hanji 709 interpretation of one Eastern Han surrender case. It should not be treated as a complete definition of Sunzi's "上兵伐谋" across all military thought. The modern decapitation analogy is explanatory only: the source's durable claim is that Kou Xun destroys Gao Jun's planning confidence by killing Huangfu Wen. The case also sits under a legal and moral warning because the targeted adviser is sent to communicate, so the action strains the norm against killing envoys or negotiation representatives.
+This concept is currently based on one 汉纪 709 interpretation of one Eastern Han surrender case. It should not be treated as a complete definition of Sunzi's "上兵伐谋" across all military thought. The modern decapitation analogy is explanatory only: the source's durable claim is that Kou Xun destroys Gao Jun's planning confidence by killing Huangfu Wen. The case also sits under a legal and moral warning because the targeted adviser is sent to communicate, so the action strains the norm against killing envoys or negotiation representatives.
 
 ## What Changed
 
-- Created this concept from Hanji 709 to preserve the source's hard reading of "上兵伐谋."
+- Created this concept from 汉纪 709 to preserve the source's hard reading of "上兵伐谋."
 - Connected Kou Xun's killing of Huangfu Wen to forced surrender, psychological collapse, and envoy-killing qualification.
 
 ## Related Concepts

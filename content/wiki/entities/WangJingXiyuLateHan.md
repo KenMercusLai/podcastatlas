@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-王敬 / Wang Jing is the late-Han Western Regions chief clerk in Hanji 838 whose investigation of Zhao Ping's death turns into an unauthorized killing of [[KhotanKingJianLateHan|于阗王建]]. His profile is a cautionary frontier case: ambition, local rivalry, and unverified accusation combine to make a Han envoy create the disorder he is supposed to clarify.
+王敬 / Wang Jing is the late-Han Western Regions chief clerk in 汉纪 838 whose investigation of Zhao Ping's death turns into an unauthorized killing of [[KhotanKingJianLateHan|于阗王建]]. His profile is a cautionary frontier case: ambition, local rivalry, and unverified accusation combine to make a Han envoy create the disorder he is supposed to clarify.
 
 ## Current Profile
 
@@ -30,19 +30,19 @@ The result is immediate loss of legitimacy. Wang Jing retreats upstairs with Kin
 
 ## Evidence
 
-- Investigation assignment: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Ma Da sends Wang Jing to investigate Zhao Ping's death after Chengguo's accusation reaches Dunhuang.
-- Ambition and capture by local rivalry: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Wang Jing is ambitious and treats Chengguo's story as an opportunity.
-- Banquet killing: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Wang Jing invites King Jian to a feast, orders him surrounded, and lets the scene become a beheading by Qin Mu.
-- Failed command claim: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Wang Jing announces he acted by imperial command, but Khotanese forces kill him anyway.
-- Consequence: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says his death is followed by Shubo's failed self-enthronement and Anguo's installation.
+- Investigation assignment: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Ma Da sends Wang Jing to investigate Zhao Ping's death after Chengguo's accusation reaches Dunhuang.
+- Ambition and capture by local rivalry: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Wang Jing is ambitious and treats Chengguo's story as an opportunity.
+- Banquet killing: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Wang Jing invites King Jian to a feast, orders him surrounded, and lets the scene become a beheading by Qin Mu.
+- Failed command claim: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Wang Jing announces he acted by imperial command, but Khotanese forces kill him anyway.
+- Consequence: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says his death is followed by Shubo's failed self-enthronement and Anguo's installation.
 
 ## Qualifications
 
-This page is bounded to Hanji 838 and does not reconstruct Wang Jing's wider official career. The source presents the Xiongnu-doctor story as an accusation transmitted by Chengguo, not as a verified cause of Zhao Ping's death. Wang Jing's exact formal authority as Western Regions chief clerk remains source-scoped.
+This page is bounded to 汉纪 838 and does not reconstruct Wang Jing's wider official career. The source presents the Xiongnu-doctor story as an accusation transmitted by Chengguo, not as a verified cause of Zhao Ping's death. Wang Jing's exact formal authority as Western Regions chief clerk remains source-scoped.
 
 ## What Changed
 
-- Created the page from Hanji 838's Western Regions incident.
+- Created the page from 汉纪 838's Western Regions incident.
 - Added Wang Jing as a case of investigation authority being converted into destabilizing frontier intervention.
 
 ## Relationships

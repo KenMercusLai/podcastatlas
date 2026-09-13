@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] layer around [[DouXianEasternHan|窦宪]], [[BanChaoEasternHan|班超]], and the [[NorthernXiongnuLateHan|北匈奴]]. It frames Dou Xian as a violent outer-relative whose Northern Xiongnu campaign begins as a bid to redeem a court crime, while still treating his operational victory as a major step in ending the Han-Xiongnu war cycle. The episode also adds Ban Chao's supply-line defense against the [[Yuezhi|月氏]], the [[SouthernXiongnu|南匈奴]] strike on the north, the [[JiluoshanBattleLateHan|稽落山之战]], [[YanranInscription|燕然勒石]], and a qualified prelude to the [[TransEurasianMigrationCascade|欧亚迁徙连锁]] claim later expanded in Hanji 764.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|汉纪 764]] layer around [[DouXianEasternHan|窦宪]], [[BanChaoEasternHan|班超]], and the [[NorthernXiongnuLateHan|北匈奴]]. It frames Dou Xian as a violent outer-relative whose Northern Xiongnu campaign begins as a bid to redeem a court crime, while still treating his operational victory as a major step in ending the Han-Xiongnu war cycle. The episode also adds Ban Chao's supply-line defense against the [[Yuezhi|月氏]], the [[SouthernXiongnu|南匈奴]] strike on the north, the [[JiluoshanBattleLateHan|稽落山之战]], [[YanranInscription|燕然勒石]], and a qualified prelude to the [[TransEurasianMigrationCascade|欧亚迁徙连锁]] claim later expanded in 汉纪 764.
 
 ## Key Claims
 
@@ -41,7 +41,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[SouthernXiongnu|南匈奴]] and [[Xianbei|鲜卑]] — frontier groups that shape the collapse and aftermath of Northern Xiongnu power.
 - [[GengKuiLateHan|耿夔]] and [[RenShangLateHan|任尚]] — commanders tied to the Jinwei Mountain pursuit that forces the northern chanyu to flee.
 - [[EmperorHeOfHan|汉和帝]] and [[EmpressDowagerDouHeLateHan|窦太后]] — court context for Dou Xian's appointment, punishment risk, and redemption-through-war path.
-- [[TransEurasianMigrationCascade|欧亚迁徙连锁]] and [[RomanEmpire|罗马帝国]] — qualified long-range interpretive frame previewed here and expanded in Hanji 764.
+- [[TransEurasianMigrationCascade|欧亚迁徙连锁]] and [[RomanEmpire|罗马帝国]] — qualified long-range interpretive frame previewed here and expanded in 汉纪 764.
 - [[StrategicFrontierAbandonment|弃边失屏]] — adjacent Western Regions and northern-frontier problem in which distant control, local allies, and future defense costs are linked.
 - [[OuterRelativeCourtPower|外戚专权与清算]] — broader court-politics pattern underlying Dou Xian's rise, impunity, and later danger.
 

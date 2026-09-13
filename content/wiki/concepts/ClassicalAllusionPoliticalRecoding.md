@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] creates the concept through [[GaiKuanraoWesternHan|盖宽饶]]. Gai uses classical language to criticize the decline of sage learning and the substitution of law and trusted palace influence for older moral-political ideals. His reference to the distinction between "天下为公" and "天下为私" is then recoded as if he were asking [[EmperorXuanOfHan|汉宣帝]] to abdicate to him.
+[[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] creates the concept through [[GaiKuanraoWesternHan|盖宽饶]]. Gai uses classical language to criticize the decline of sage learning and the substitution of law and trusted palace influence for older moral-political ideals. His reference to the distinction between "天下为公" and "天下为私" is then recoded as if he were asking [[EmperorXuanOfHan|汉宣帝]] to abdicate to him.
 
 The concept's key point is not that all classical allusions are safe if the speaker means well. In a tense court, meaning is politically produced after the text leaves the speaker. Hostile officials can select the most threatening implication, while an already dissatisfied ruler can treat that interpretation as confirmation of disloyalty. [[ZhengChangRemonstratorWesternHan|郑昌]]'s failed defense shows that restoring intended meaning may not defeat a usable hostile reading.
 
@@ -29,13 +29,13 @@ The concept's key point is not that all classical allusions are safe if the spea
 ## Evidence
 
 Gai Kuanrao case:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Gai's memorial criticizes the decline of sage learning and the court's reliance on law and trusted insiders.
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Gai invokes the distinction between earlier "public" rulership and later hereditary/private transmission.
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says officials interpret this as Gai wanting Xuan to yield the throne, while the host says this was not his meaning.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Gai's memorial criticizes the decline of sage learning and the court's reliance on law and trusted insiders.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Gai invokes the distinction between earlier "public" rulership and later hereditary/private transmission.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says officials interpret this as Gai wanting Xuan to yield the throne, while the host says this was not his meaning.
 
 Failed correction:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Zheng Chang defends Gai as loyal and office-bound, but Xuan does not accept the defense.
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Gai is handed to yushi judgment and kills himself, showing the hostile interpretation's practical success.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Zheng Chang defends Gai as loyal and office-bound, but Xuan does not accept the defense.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Gai is handed to yushi judgment and kills himself, showing the hostile interpretation's practical success.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ The concept is currently grounded in a single source case. It should not be gene
 
 ## What Changed
 
-- Created the concept from Hanji 441's recoding of Gai Kuanrao's classical allusion into an abdication accusation.
+- Created the concept from 汉纪 441's recoding of Gai Kuanrao's classical allusion into an abdication accusation.
 
 ## Related Concepts
 

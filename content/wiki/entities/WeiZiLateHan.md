@@ -7,7 +7,7 @@ last_updated: 2026-08-25
 ---
 # 魏兹 / Wei Zi (late Han)
 
-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] presents Wei Zi as an officer under [[ZhangMiaoLateHan|张邈]] who supports [[CaoCao|曹操]] when Cao Cao decides to advance west against [[DongZhuo|董卓]] despite the wider coalition's hesitation. Wei Zi's role is small but important: he shows that Cao Cao is not entirely alone, yet the available force remains too limited for the confrontation with [[XuRongLateHan|徐荣]] at [[BianshuiBattleLateHan|汴水]].
+[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|汉纪 953]] presents Wei Zi as an officer under [[ZhangMiaoLateHan|张邈]] who supports [[CaoCao|曹操]] when Cao Cao decides to advance west against [[DongZhuo|董卓]] despite the wider coalition's hesitation. Wei Zi's role is small but important: he shows that Cao Cao is not entirely alone, yet the available force remains too limited for the confrontation with [[XuRongLateHan|徐荣]] at [[BianshuiBattleLateHan|汴水]].
 
 ## Connections
 - [[ZhangMiaoLateHan|张邈]] - sends Wei Zi to assist Cao Cao's advance.

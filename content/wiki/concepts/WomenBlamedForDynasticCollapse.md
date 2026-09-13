@@ -15,7 +15,7 @@ knowledge_schema: synthesis-v1
 女性亡国归咎叙事 / women blamed for dynastic collapse is the retrospective pattern that condenses ruler failure, court disorder, and regime collapse into the moral image of a dangerous woman.
 
 ## Current Synthesis
-[[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|Hanji 601-2]] introduces the pattern through [[BaoSi|褒姒]] and the so-called "四大妖姬" grouping of Mei Xi, Da Ji, Bao Si, and Li Ji. The episode repeats the traditional vocabulary because it is central to Bao Si's reception, but its closing caution resists turning the label into a complete historical explanation. [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] adds [[ZhaoFeiyanWesternHan|赵飞燕]], [[ZhaoHedeWesternHan|赵合德]], and [[XiaJiSpringAutumn|夏姬]] as cases where sexualized female reputation can absorb responsibility for ruler desire, ministerial behavior, and later writerly condemnation.
+[[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|汉纪 601-2]] introduces the pattern through [[BaoSi|褒姒]] and the so-called "四大妖姬" grouping of Mei Xi, Da Ji, Bao Si, and Li Ji. The episode repeats the traditional vocabulary because it is central to Bao Si's reception, but its closing caution resists turning the label into a complete historical explanation. [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|汉纪 536-4]] adds [[ZhaoFeiyanWesternHan|赵飞燕]], [[ZhaoHedeWesternHan|赵合德]], and [[XiaJiSpringAutumn|夏姬]] as cases where sexualized female reputation can absorb responsibility for ruler desire, ministerial behavior, and later writerly condemnation.
 
 The useful wiki claim is not that these women caused dynastic collapse. It is that later political memory often makes a vivid female figure carry the explanatory and emotional weight of a broader institutional failure.
 
@@ -44,7 +44,7 @@ Source-critical qualification:
 - [[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd]] explicitly warns that the dragon-saliva birth narrative is closer to myth than reliable history.
 
 ## Counterevidence & Qualifications
-The concept is grounded in short popular-history episodes and should not be generalized as a universal rule without more source work. The Bao Si episode preserves the traditional label but does not independently test alternative historical accounts of Western Zhou's fall. Hanji 536-4 broadens the pattern but likewise works as interpretive commentary rather than full textual criticism of every case it invokes.
+The concept is grounded in short popular-history episodes and should not be generalized as a universal rule without more source work. The Bao Si episode preserves the traditional label but does not independently test alternative historical accounts of Western Zhou's fall. 汉纪 536-4 broadens the pattern but likewise works as interpretive commentary rather than full textual criticism of every case it invokes.
 
 ## What Changed
 - Broadened the concept from Bao Si's "妖姬" and "一笑亡国" reception to include Zhao-sister and Xia Ji reputation-making.

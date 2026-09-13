@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Current Synthesis
 
-Hanji 807 defines the pattern through [[XuJingLateHan|Xu Jing]]. The source does not present Xu Jing as a spectacular policy reformer. Instead, it emphasizes that during the powerful Dou, Deng, and Yan outer-relative periods, he did not yield to those houses. After those factions collapsed, many officials who returned to high rank carried stains, while Xu Jing did not draw comparable criticism.
+汉纪 807 defines the pattern through [[XuJingLateHan|Xu Jing]]. The source does not present Xu Jing as a spectacular policy reformer. Instead, it emphasizes that during the powerful Dou, Deng, and Yan outer-relative periods, he did not yield to those houses. After those factions collapsed, many officials who returned to high rank carried stains, while Xu Jing did not draw comparable criticism.
 
 The concept is therefore a reputational form of political survival. It is not dramatic resistance, and it is not simple neutrality. The useful result is that when [[EmperorShunOfHan|Emperor Shun]] needs trustworthy high officials, Xu Jing's lack of factional contamination becomes a positive credential.
 
@@ -28,18 +28,18 @@ The concept is therefore a reputational form of political survival. It is not dr
 
 ## Evidence
 
-- Factional setting: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says the Dou, Deng, and Yan outer-relative houses were powerful during Xu Jing's earlier service.
-- Nondependence: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Xu Jing did not submit to those houses.
-- Later trust capital: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says many later high officials had stains after the outer-relative houses collapsed, while Xu Jing did not attract official criticism.
-- Shun-era use: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] records Xu Jing's appointment as situ in the early Shun court.
+- Factional setting: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says the Dou, Deng, and Yan outer-relative houses were powerful during Xu Jing's earlier service.
+- Nondependence: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Xu Jing did not submit to those houses.
+- Later trust capital: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says many later high officials had stains after the outer-relative houses collapsed, while Xu Jing did not attract official criticism.
+- Shun-era use: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] records Xu Jing's appointment as situ in the early Shun court.
 
 ## Counterevidence & Qualifications
 
-The concept is source-bounded and should not become blanket praise for passivity. Hanji 807 does not show how Xu Jing made concrete decisions under each outer-relative house, nor does it prove that nonalignment alone explains his appointment. It supports a narrower claim: in a factional court, avoiding visible contamination can become a later qualification.
+The concept is source-bounded and should not become blanket praise for passivity. 汉纪 807 does not show how Xu Jing made concrete decisions under each outer-relative house, nor does it prove that nonalignment alone explains his appointment. It supports a narrower claim: in a factional court, avoiding visible contamination can become a later qualification.
 
 ## What Changed
 
-- Created the concept from Hanji 807's explanation of Xu Jing's political reliability.
+- Created the concept from 汉纪 807's explanation of Xu Jing's political reliability.
 
 ## Related Concepts
 

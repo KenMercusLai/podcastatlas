@@ -15,9 +15,9 @@ last_updated: 2026-08-29
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] identifies Huan Yan as taichang during the Liu Bao deposition crisis. With [[LaiLiLateHan|Lai Li]] and [[ZhangHaoRemonstratorLateHan|Zhang Hao]], he argues that Liu Bao is too young to bear full responsibility for palace accusations and that the correct remedy is loyal ministerial protection and ritual guidance rather than removal from crown-prince status.
+[[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]] identifies Huan Yan as taichang during the Liu Bao deposition crisis. With [[LaiLiLateHan|Lai Li]] and [[ZhangHaoRemonstratorLateHan|Zhang Hao]], he argues that Liu Bao is too young to bear full responsibility for palace accusations and that the correct remedy is loyal ministerial protection and ritual guidance rather than removal from crown-prince status.
 
-[[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] later places Huan Yan in Shun's 135 CE court. When Liang Shang avoids the Grand General office through illness, Shun sends Huan Yan with the appointment document to compel or persuade Liang into service.
+[[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|汉纪 817]] later places Huan Yan in Shun's 135 CE court. When Liang Shang avoids the Grand General office through illness, Shun sends Huan Yan with the appointment document to compel or persuade Liang into service.
 
 The two source points are thin but compatible. Huan Yan appears as a high ritual/appointment-channel official who can participate in sensitive succession or office transitions, but the current evidence does not yet justify a full political profile beyond those bounded functions.
 
@@ -30,13 +30,13 @@ The two source points are thin but compatible. Huan Yan appears as a high ritual
 
 ## Evidence
 
-- Anti-deposition objection: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says Huan Yan, Lai Li, and Zhang Hao oppose the plan to depose ten-year-old Liu Bao.
-- Remedy framing: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] says the objectors recommend loyal ministers and ritual guidance instead of deposition.
-- Appointment mission: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] says Shun sends Huan Yan with the appointment document when Liang Shang avoids Grand General office through illness.
+- Anti-deposition objection: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]] says Huan Yan, Lai Li, and Zhang Hao oppose the plan to depose ten-year-old Liu Bao.
+- Remedy framing: [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]] says the objectors recommend loyal ministers and ritual guidance instead of deposition.
+- Appointment mission: [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|汉纪 817]] says Shun sends Huan Yan with the appointment document when Liang Shang avoids Grand General office through illness.
 
 ## Qualifications
 
-This page is bounded to Hanji 801 and Hanji 817. It does not reconstruct Huan Yan's full career, exact family background, factional alignment, or later fate. Earlier source notes kept Huan Yan source-scoped; the page now exists because Hanji 801 and Hanji 817 give two separate court-transition roles.
+This page is bounded to 汉纪 801 and 汉纪 817. It does not reconstruct Huan Yan's full career, exact family background, factional alignment, or later fate. Earlier source notes kept Huan Yan source-scoped; the page now exists because 汉纪 801 and 汉纪 817 give two separate court-transition roles.
 
 ## What Changed
 

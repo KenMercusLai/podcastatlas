@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-耿寿昌 / Geng Shouchang enters the wiki through [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] as a Western Han Da Sinong subordinate who proposes two linked grain reforms under [[EmperorXuanOfHan|汉宣帝]]: substitute nearer purchases for part of costly Guandong transport, and build [[ChangpingGranarySystem|长平仓]] as a price-stabilizing reserve system.
+耿寿昌 / Geng Shouchang enters the wiki through [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] as a Western Han Da Sinong subordinate who proposes two linked grain reforms under [[EmperorXuanOfHan|汉宣帝]]: substitute nearer purchases for part of costly Guandong transport, and build [[ChangpingGranarySystem|长平仓]] as a price-stabilizing reserve system.
 
 ## Current Profile
 
@@ -29,15 +29,15 @@ He then proposes frontier granaries that buy when grain is cheap and sell when g
 ## Evidence
 
 Logistics reform:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Geng Shouchang serves as Da Sinong Zhongcheng.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says repeated harvests make grain cheap and farmers' returns weak.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says the old pattern moves four million hu of grain annually from east of Hangu Pass to the capital with more than sixty thousand transport laborers.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Geng proposes buying from Sanfu, Hongnong, Hedong, Shangdang, Taiyuan, and nearby commanderies to reduce Guandong transport labor by more than half.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Geng Shouchang serves as Da Sinong Zhongcheng.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says repeated harvests make grain cheap and farmers' returns weak.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says the old pattern moves four million hu of grain annually from east of Hangu Pass to the capital with more than sixty thousand transport laborers.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Geng proposes buying from Sanfu, Hongnong, Hedong, Shangdang, Taiyuan, and nearby commanderies to reduce Guandong transport labor by more than half.
 
 Granary policy:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Geng proposes building granaries in frontier commanderies.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says the policy buys at higher prices when grain is cheap and sells at lower prices when grain is expensive.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Xuan accepts the proposals and grants Geng the rank of Guannei Hou.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Geng proposes building granaries in frontier commanderies.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says the policy buys at higher prices when grain is cheap and sells at lower prices when grain is expensive.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Xuan accepts the proposals and grants Geng the rank of Guannei Hou.
 
 ## Qualifications
 
@@ -45,7 +45,7 @@ This page is bounded to one source note and does not reconstruct Geng Shouchang'
 
 ## What Changed
 
-- Created the Geng Shouchang page from Hanji 456-1 as a grain-logistics and public-reserve policy actor.
+- Created the Geng Shouchang page from 汉纪 456-1 as a grain-logistics and public-reserve policy actor.
 
 ## Relationships
 

@@ -14,7 +14,7 @@ Personal Risk Trust Signal / 亲身涉险式信任信号 is a surrender-and-lead
 
 ## Current Synthesis
 
-The current bounded case is [[LiuXiu|刘秀]] after the [[TongmaRebelArmyEasternHan|Tongma]] surrender in [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]]. Liu Xiu first defeats Tongma-linked forces and enfeoffs surrendered leaders, but the settlement is still unstable because his own commanders doubt the surrender and the surrendered commanders fear post-submission killing.
+The current bounded case is [[LiuXiu|刘秀]] after the [[TongmaRebelArmyEasternHan|Tongma]] surrender in [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]]. Liu Xiu first defeats Tongma-linked forces and enfeoffs surrendered leaders, but the settlement is still unstable because his own commanders doubt the surrender and the surrendered commanders fear post-submission killing.
 
 Liu Xiu's distinctive move is to return the surrendered commanders to their own camps and then ride alone among their units. The act answers fear through exposure: if Liu Xiu intended massacre or betrayal, putting himself among those soldiers would be irrationally dangerous. The episode therefore treats trust as something performed under risk, not merely announced.
 
@@ -30,10 +30,10 @@ This pattern is adjacent to [[SecurityForAuthorityExchange|security-for-authorit
 
 ## Evidence
 
-- Mutual distrust after surrender: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] says Liu Xiu's commanders distrust the surrendered generals while the surrendered generals fear being killed after submission.
-- Reward alone is incomplete: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] says Liu Xiu enfeoffs surrendered leaders before the personal-risk display, so title reward is part of the settlement but not its only trust mechanism.
-- Visible risk as commitment: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] says Liu Xiu orders the surrendered commanders back to organize their camps and rides alone through the units.
-- Incorporation result: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] says the surrendered commanders pledge service and the soldiers accept Liu Xiu, increasing his army to more than 100,000.
+- Mutual distrust after surrender: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] says Liu Xiu's commanders distrust the surrendered generals while the surrendered generals fear being killed after submission.
+- Reward alone is incomplete: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] says Liu Xiu enfeoffs surrendered leaders before the personal-risk display, so title reward is part of the settlement but not its only trust mechanism.
+- Visible risk as commitment: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] says Liu Xiu orders the surrendered commanders back to organize their camps and rides alone through the units.
+- Incorporation result: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] says the surrendered commanders pledge service and the soldiers accept Liu Xiu, increasing his army to more than 100,000.
 
 ## Counterevidence & Qualifications
 

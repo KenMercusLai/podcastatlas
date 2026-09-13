@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the formation side of [[ShiXianWesternHan|石显]]'s power under [[HanYuandi|汉元帝]], between [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]]'s message-channel explanation and [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]]'s post-fall cleanup. It argues that Shi Xian's influence grew because he combined administrative reliability with emotional attunement to a young, ill, approval-seeking ruler.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the formation side of [[ShiXianWesternHan|石显]]'s power under [[HanYuandi|汉元帝]], between [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|汉纪 500]]'s message-channel explanation and [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]]'s post-fall cleanup. It argues that Shi Xian's influence grew because he combined administrative reliability with emotional attunement to a young, ill, approval-seeking ruler.
 
 The durable synthesis is that trusted inner-court power can form through affective access as well as institutional access. Shi Xian becomes useful not only by handling documents and messages, but by meeting Yuan's need for companionship, shared music, reliable follow-through, and controlled confession; the same trust then lets him target [[XiaoWangzhiWesternHan|萧望之]] and survive later accusations until [[HanChengdi|汉成帝]] changes the ruler relationship.
 
@@ -41,9 +41,9 @@ The durable synthesis is that trusted inner-court power can form through affecti
 - [[MessageRelayPoliticalPower|传话式信息权力]] - Shi Xian's emotional access strengthens the existing information-channel mechanism rather than replacing it.
 - [[XiaoWangzhiWesternHan|萧望之]] - the source creates a bounded entity page for the teacher and early anti-Shi-Xian opponent whose death marks the removal of an important restraint.
 - [[HanChengdi|汉成帝]] - the episode contrasts Chengdi with Yuan as a ruler Shi Xian cannot emotionally capture.
-- [[ConfucianLegalistGovernanceBalance|儒法互补治理]] - adjacent to Hanji 499 because Yuan's moral cultivation and trust needs still fail to control court machinery.
+- [[ConfucianLegalistGovernanceBalance|儒法互补治理]] - adjacent to 汉纪 499 because Yuan's moral cultivation and trust needs still fail to control court machinery.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Scope caution: the episode's account of Yuan's childhood deprivation, emotional dependency, and body-state psychology is a host interpretation. It should qualify rather than replace the institutional explanations in Hanji 499 and Hanji 500.
+- Scope caution: the episode's account of Yuan's childhood deprivation, emotional dependency, and body-state psychology is a host interpretation. It should qualify rather than replace the institutional explanations in 汉纪 499 and 汉纪 500.

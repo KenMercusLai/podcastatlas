@@ -9,7 +9,7 @@ last_updated: 2026-09-01
 ---
 
 ## Overview
-Wang Hao is a Shu commandery scholar in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] whose refusal of Gongsun Shu's summons ends in suicide and family execution.
+Wang Hao is a Shu commandery scholar in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] whose refusal of Gongsun Shu's summons ends in suicide and family execution.
 
 ## Current Profile
 The episode groups Wang Hao with Wang Jia as Shu commandery figures whom Gongsun Shu tries to force into office by holding their wives and children hostage. Wang Hao kills himself rather than accept the summons, and Gongsun Shu responds by killing his family.
@@ -24,11 +24,11 @@ His case is the harshest hostage variant in the source. It shows coercive talent
 - Evidence point for coercion turning recruitment into political atrocity.
 
 ## Evidence
-- Hostage-backed summons: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Gongsun Shu captures the wives and children of Wang Hao and Wang Jia to force them into service.
-- Suicide and family execution: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Wang Hao kills himself and Gongsun Shu kills his family.
+- Hostage-backed summons: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Gongsun Shu captures the wives and children of Wang Hao and Wang Jia to force them into service.
+- Suicide and family execution: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Wang Hao kills himself and Gongsun Shu kills his family.
 
 ## Qualifications
-This page is source-bounded to Hanji 713 and preserves the episode's role assignment without reconstructing Wang Hao's broader biography.
+This page is source-bounded to 汉纪 713 and preserves the episode's role assignment without reconstructing Wang Hao's broader biography.
 
 ## What Changed
 - Created this page to preserve Wang Hao's hostage-backed refusal case in the Shu scholar material.

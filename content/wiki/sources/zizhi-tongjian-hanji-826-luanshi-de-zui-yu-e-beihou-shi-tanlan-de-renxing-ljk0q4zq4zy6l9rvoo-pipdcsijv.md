@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 145 CE layer immediately before the existing [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] and [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] succession sequence. It follows Western Qiang campaign-finance corruption, [[LiangBingLateHan|梁并]]'s trust-based surrender policy, [[TengFuLateHan|滕抚]] and [[FengGunLateHan|冯绲]]'s Xu-Yang anti-bandit campaign, and [[LiangJiLateHan|梁冀]]'s resentment after [[ZhongHaoLateHan|种暠]] reports [[LiuJunshiLateHan|刘君世]]'s gold-snake bribery.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 145 CE layer immediately before the existing [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|汉纪 827]] and [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|汉纪 828]] succession sequence. It follows Western Qiang campaign-finance corruption, [[LiangBingLateHan|梁并]]'s trust-based surrender policy, [[TengFuLateHan|滕抚]] and [[FengGunLateHan|冯绲]]'s Xu-Yang anti-bandit campaign, and [[LiangJiLateHan|梁冀]]'s resentment after [[ZhongHaoLateHan|种暠]] reports [[LiuJunshiLateHan|刘君世]]'s gold-snake bribery.
 
 The durable synthesis is that late-Han disorder is already operating through linked military, local, and court failures before Emperor Zhi's poisoning: campaign money becomes private extraction, anti-bandit success depends on credible commanders and local reward mobilization, and corruption reporting can become personal danger when Liang Ji controls retaliation channels.
 
@@ -48,6 +48,6 @@ The durable synthesis is that late-Han disorder is already operating through lin
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills an earlier 145 CE disorder layer before the current Hanji 827-830 sequence around Emperor Zhi's death, Liang Ji's succession control, and Li Gu-Du Qiao persecution.
+- No settled contradiction with existing wiki pages was found. The episode backfills an earlier 145 CE disorder layer before the current 汉纪 827-830 sequence around Emperor Zhi's death, Liang Ji's succession control, and Li Gu-Du Qiao persecution.
 - Name normalization: ASR forms are normalized to the received Tongjian names 梁并, 滕抚, 赵序, 冯绲, 刘君世, 种暠, and 服直.
 - Scope caution: Li Nan, Hu Nu, Ma Mian, Fan Rong, Zhou Sheng, Wang Zhang, Yang Cen, and the exact accounting of the eighty-yi-plus war cost remain source-scoped until later source notes warrant standalone pages.

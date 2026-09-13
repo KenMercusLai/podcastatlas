@@ -14,7 +14,7 @@ last_updated: 2026-09-03
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Gengshi 2 / 24 CE immediately before [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]]. It follows [[LiuXiu|刘秀]] after [[WangLangHebeiClaimant|王郎]]'s pursuit turns the Hebei mission into a survival crisis: the Hutuo River crossing, storm shelter at Nangong, and arrival at Xindu show Liu Xiu moving from flight into a defensible base.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Gengshi 2 / 24 CE immediately before [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|汉纪 671]]. It follows [[LiuXiu|刘秀]] after [[WangLangHebeiClaimant|王郎]]'s pursuit turns the Hebei mission into a survival crisis: the Hutuo River crossing, storm shelter at Nangong, and arrival at Xindu show Liu Xiu moving from flight into a defensible base.
 
 The durable synthesis is that Liu Xiu's counteroffensive begins before he looks secure. [[RenGuangEasternHan|任光]] and [[PiTongEasternHan|邳彤]] keep Xindu from joining Wang Lang, Pi Tong urges Liu Xiu to remain in Hebei rather than retreat to Chang'an, Ren Guang turns proclamations and torch displays into perceived strength, [[LiuZhiChangchengEasternHan|刘植]] and [[GengChunEasternHan|耿纯]] add committed local force, and [[JiZunEasternHan|祭遵]]'s strict punishment of Liu Xiu's own household servant makes military law credible only after Liu Xiu accepts correction.
 
@@ -46,11 +46,11 @@ The durable synthesis is that Liu Xiu's counteroffensive begins before he looks 
 - [[LiuYangZhendingKingEasternHan|真定王刘杨]], [[GuoShengtong|郭圣通]], and [[PoliticalMarriageAllianceDepreciation|政治婚姻联盟折价]] - the direct marriage alliance supplies the founding crisis layer later remembered in Guo's empress and deposition sources.
 - [[LiuJiaHanzhongKingEasternHan|汉中王刘嘉]], [[JiaFuEasternHan|贾复]], [[ChenJunEasternHan|陈俊]], and [[YanCenEasternHan|严岑 / Yan Cen]] - the Hanzhong side branch explains how Jia Fu and Chen Jun reach Liu Xiu before their later command profiles.
 - [[JiZunEasternHan|祭遵]] and [[HighStatusLawEnforcementSignal|高位执法信号]] - discipline becomes credible when Liu Xiu accepts punishment against his own household.
-- [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] and [[zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby|Hanji 672]] - direct continuation into Shanggu-Yuyang alignment, the Handan strike, Wang Lang's death, and Liu Xiu's letter-burning trust signal.
+- [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|汉纪 671]] and [[zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby|汉纪 672]] - direct continuation into Shanggu-Yuyang alignment, the Handan strike, Wang Lang's death, and Liu Xiu's letter-burning trust signal.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills Gengshi 2 / 24 CE before Hanji 671's Shanggu-Yuyang coalition and Hanji 672's Handan defeat and archive burning.
+- Chronology qualification: this source backfills Gengshi 2 / 24 CE before 汉纪 671's Shanggu-Yuyang coalition and 汉纪 672's Handan defeat and archive burning.
 - Identity normalization: the source forms 匹荣, 刘直/刘侄, 纪尊, 冯毅, 邓于, 刘家, and 刘阳 are routed to [[PiTongEasternHan|邳彤]], [[LiuZhiChangchengEasternHan|刘植]], [[JiZunEasternHan|祭遵]], [[FengYiEasternHan|冯异]], [[DengYuEasternHan|邓禹]], [[LiuJiaHanzhongKingEasternHan|刘嘉]], and [[LiuYangZhendingKingEasternHan|刘杨 / Liu Yang, Zhending King]] based on the adjacent Guangwu-era sequence.
 - Scope caution: Li Zhong, Wan Xiu, Zong Guang, Tangyang, Shi county, the white-clad elder, exact force counts, office titles, and the host's modern crisis-handling lesson remain source-scoped unless later notes warrant standalone pages.

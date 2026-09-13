@@ -14,7 +14,7 @@ Chronicle policy compression / 政策制度记载压缩 is the historiographical
 
 ## Current Synthesis
 
-Hanji 868 grounds the concept through the per-mu land-tax order. The source treats the August 6, 165 CE instruction as a potentially major fiscal-state change, but observes that the chronicle preserves it only briefly. The result is an evidence imbalance: the reader can locate the policy in time, but cannot infer how the tax was measured, enforced, contested, or fiscally absorbed from the chronicle notice alone.
+汉纪 868 grounds the concept through the per-mu land-tax order. The source treats the August 6, 165 CE instruction as a potentially major fiscal-state change, but observes that the chronicle preserves it only briefly. The result is an evidence imbalance: the reader can locate the policy in time, but cannot infer how the tax was measured, enforced, contested, or fiscally absorbed from the chronicle notice alone.
 
 The episode uses that gap to make a broader historiographical point. The host argues that much traditional Chinese historical writing is more comfortable with people, power, and conduct than with sustained institutional exposition, while Du You's Tongdian represents a more system-focused counterexample. The wiki records that as a source-scoped judgment, not as a total claim about all Chinese historiography.
 
@@ -22,15 +22,15 @@ The episode uses that gap to make a broader historiographical point. The host ar
 
 - Chronicles can preserve dates and decisions while leaving policy mechanics underdescribed.
 - Institutional notices require caution because interpretive importance may exceed the available detail.
-- The Hanji 868 per-mu tax order is the current evidence anchor for the concept.
+- The 汉纪 868 per-mu tax order is the current evidence anchor for the concept.
 - People-and-power narrative emphasis can make fiscal and administrative reconstruction harder.
 - Specialized institutional works may need to supplement chronicle evidence.
 
 ## Evidence
 
-- Compressed fiscal notice: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] records the first per-mu taxation order in a very short policy notice.
-- Missing mechanism: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] flags that the notice does not explain rates, implementation, or wider fiscal effect.
-- Historiographical interpretation: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] contrasts people-centered historical narrative with system-focused works such as Du You's Tongdian.
+- Compressed fiscal notice: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] records the first per-mu taxation order in a very short policy notice.
+- Missing mechanism: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] flags that the notice does not explain rates, implementation, or wider fiscal effect.
+- Historiographical interpretation: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] contrasts people-centered historical narrative with system-focused works such as Du You's Tongdian.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The episode uses that gap to make a broader historiographical point. The host ar
 
 ## What Changed
 
-- Created the concept from Hanji 868's treatment of the per-mu land-tax notice.
+- Created the concept from 汉纪 868's treatment of the per-mu land-tax notice.
 - Added a historiographical frame for source cases where policy importance exceeds narrative detail.
 
 ## Related Concepts
@@ -48,4 +48,4 @@ The episode uses that gap to make a broader historiographical point. The host ar
 - [[ChronicleSourceGaps|编年史料缝隙]] - broader evidence-gap problem in chronicle-based reconstruction.
 - [[TextualOmissionAttributionShift|文本删略责任转移]] - adjacent method issue around what absences should and should not be attributed to a compiler.
 - [[PerMuLandTaxation|按亩征税]] - fiscal-policy anchor case for the concept.
-- [[ZizhiTongjian|资治通鉴]] - chronicle work whose Hanji 868 notice grounds the current evidence.
+- [[ZizhiTongjian|资治通鉴]] - chronicle work whose 汉纪 868 notice grounds the current evidence.

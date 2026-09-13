@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-Hanji 431 creates the concept through [[ZhangAnshiWesternHan|张安世]]. The episode says Zhang often discusses major affairs privately with [[EmperorXuanOfHan|汉宣帝]], but after a decision is made he takes sick leave or acts surprised when the edict appears. The host reads this as "出力但不争功": Zhang protects the ruler's visible authorship and avoids making other officials ask who is really shaping policy.
+汉纪 431 creates the concept through [[ZhangAnshiWesternHan|张安世]]. The episode says Zhang often discusses major affairs privately with [[EmperorXuanOfHan|汉宣帝]], but after a decision is made he takes sick leave or acts surprised when the edict appears. The host reads this as "出力但不争功": Zhang protects the ruler's visible authorship and avoids making other officials ask who is really shaping policy.
 
 The concept is not simple invisibility or cowardice. Zhang still participates in serious work. The protective move is about credit handling after the work is done: public display of hidden influence can convert useful counsel into rivalry, envy, or suspicion. In the source's workplace translation, the safest credit posture around a powerful decision-maker may be to let the decision remain the leader's decision unless explicit public attribution is needed.
 
@@ -29,13 +29,13 @@ The concept is not simple invisibility or cowardice. Zhang still participates in
 ## Evidence
 
 Private counsel and public non-claiming:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Zhang Anshi often privately discusses major affairs with Xuan.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Zhang asks for sick leave after decisions and later acts surprised when edicts are issued.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says even ministers close to the emperor do not know whose ideas stand behind some decisions.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Zhang Anshi often privately discusses major affairs with Xuan.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Zhang asks for sick leave after decisions and later acts surprised when edicts are issued.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says even ministers close to the emperor do not know whose ideas stand behind some decisions.
 
 Risk interpretation:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] connects Zhang's posture to memory of [[ZhangTangWesternHan|张汤]]'s death after closeness to the ruler drew resentment.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] also invokes Xiao He's danger from excessive reputation as an analogy for why credit must be managed.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] connects Zhang's posture to memory of [[ZhangTangWesternHan|张汤]]'s death after closeness to the ruler drew resentment.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] also invokes Xiao He's danger from excessive reputation as an analogy for why credit must be managed.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ The source does not prove every instance of Zhang's illness or surprise was stag
 
 ## What Changed
 
-- Created the concept from Hanji 431's Zhang Anshi private-counsel and public-nonclaiming pattern.
+- Created the concept from 汉纪 431's Zhang Anshi private-counsel and public-nonclaiming pattern.
 
 ## Related Concepts
 

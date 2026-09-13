@@ -14,11 +14,11 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 755 defines the current concept through [[EmperorZhangOfHan|Emperor Zhang of Han]]'s 85 CE order. The policy grants pregnant women fetal-nurture grain and exempts their husbands from one year of poll tax, while the episode notes that earlier law already exempted households from some poll tax after childbirth. The core mechanism is relief before and around birth, not only reward after a child survives.
+汉纪 755 defines the current concept through [[EmperorZhangOfHan|Emperor Zhang of Han]]'s 85 CE order. The policy grants pregnant women fetal-nurture grain and exempts their husbands from one year of poll tax, while the episode notes that earlier law already exempted households from some poll tax after childbirth. The core mechanism is relief before and around birth, not only reward after a child survives.
 
 The source places Zhangdi's order in a longer historical comparison. It mentions [[GuanZhong|Guan Zhong]] reducing burdens for families with multiple children, [[LiuBang|Liu Bang]] granting labor relief after childbirth, and later Southern Dynasties, Tang, and Song continuities. The page therefore treats the pattern as a recurring premodern state-capacity tool, but only Zhangdi's specific package is currently grounded by this source note.
 
-The concept should not be flattened into modern fertility subsidy debates. It overlaps with [[FertilitySubsidyLimits|fertility subsidy limits]] because both concern whether money or service relief can change household behavior, but Hanji 755's logic is register, labor, tax, and soldier capacity in a premodern state.
+The concept should not be flattened into modern fertility subsidy debates. It overlaps with [[FertilitySubsidyLimits|fertility subsidy limits]] because both concern whether money or service relief can change household behavior, but 汉纪 755's logic is register, labor, tax, and soldier capacity in a premodern state.
 
 ## Key Claims
 
@@ -30,18 +30,18 @@ The concept should not be flattened into modern fertility subsidy debates. It ov
 
 ## Evidence
 
-- Zhangdi package: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says pregnant women receive three hu of fetal-nurture grain and their husbands receive a one-year poll-tax exemption.
-- Prior tax-relief backdrop: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says earlier law already contained childbirth-related poll-tax relief.
-- State-capacity rationale: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] frames population as both fiscal source and soldier source.
-- Historical comparison: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] compares Zhangdi's order with Guan Zhong, Liu Bang, and later dynastic birth-support measures.
+- Zhangdi package: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] says pregnant women receive three hu of fetal-nurture grain and their husbands receive a one-year poll-tax exemption.
+- Prior tax-relief backdrop: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] says earlier law already contained childbirth-related poll-tax relief.
+- State-capacity rationale: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] frames population as both fiscal source and soldier source.
+- Historical comparison: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] compares Zhangdi's order with Guan Zhong, Liu Bang, and later dynastic birth-support measures.
 
 ## Counterevidence & Qualifications
 
-This page is currently bounded to a single source note. Hanji 755 reports and interprets the policy but does not measure whether birth incentives changed fertility behavior, child survival, household registration, tax receipts, or military recruitment. The modern comparison remains conceptual only; this page does not claim that premodern relief and modern low-fertility policy operate under the same constraints.
+This page is currently bounded to a single source note. 汉纪 755 reports and interprets the policy but does not measure whether birth incentives changed fertility behavior, child survival, household registration, tax receipts, or military recruitment. The modern comparison remains conceptual only; this page does not claim that premodern relief and modern low-fertility policy operate under the same constraints.
 
 ## What Changed
 
-- Created the concept from Hanji 755's pregnancy-grain, husband tax-exemption, and historical comparison material.
+- Created the concept from 汉纪 755's pregnancy-grain, husband tax-exemption, and historical comparison material.
 
 ## Related Concepts
 

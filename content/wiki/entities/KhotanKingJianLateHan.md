@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-于阗王建 / King Jian of Khotan is the ruler killed in Wang Jing's banquet plot in Hanji 838. The page treats him primarily as the target of a rumor-driven frontier intervention: he is accused by a rival, attends the banquet because he believes he has no guilt, and is killed before any stable adjudication occurs.
+于阗王建 / King Jian of Khotan is the ruler killed in Wang Jing's banquet plot in 汉纪 838. The page treats him primarily as the target of a rumor-driven frontier intervention: he is accused by a rival, attends the banquet because he believes he has no guilt, and is killed before any stable adjudication occurs.
 
 ## Current Profile
 
@@ -28,19 +28,19 @@ When [[WangJingXiyuLateHan|王敬]] invites him to a banquet, Jian receives warn
 
 ## Evidence
 
-- Accusation target: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Chengguo claims Jian arranged Zhao Ping's death through a Xiongnu doctor.
-- Rivalry context: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Chengguo and Jian have old enmity.
-- Banquet attendance: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Jian is warned but attends because he believes he has no fault.
-- Killing: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Qin Mu cuts off Jian's head after Wang Jing orders him surrounded.
-- Succession aftermath: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Khotanese people eventually install Jian's original son Anguo as king.
+- Accusation target: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Chengguo claims Jian arranged Zhao Ping's death through a Xiongnu doctor.
+- Rivalry context: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Chengguo and Jian have old enmity.
+- Banquet attendance: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Jian is warned but attends because he believes he has no fault.
+- Killing: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Qin Mu cuts off Jian's head after Wang Jing orders him surrounded.
+- Succession aftermath: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Khotanese people eventually install Jian's original son Anguo as king.
 
 ## Qualifications
 
-This page is source-bounded to the Hanji 838 incident. It does not verify Chengguo's accusation against Jian or reconstruct Jian's reign outside the banquet-killing sequence.
+This page is source-bounded to the 汉纪 838 incident. It does not verify Chengguo's accusation against Jian or reconstruct Jian's reign outside the banquet-killing sequence.
 
 ## What Changed
 
-- Created the King Jian page from Hanji 838.
+- Created the King Jian page from 汉纪 838.
 - Added a Khotan target figure for the wiki's rumor-driven frontier intervention cluster.
 
 ## Relationships

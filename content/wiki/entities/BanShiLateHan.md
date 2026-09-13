@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-班始 / Ban Shi is a late-Han Ban-family descendant whose wiki profile is bounded to the Yincheng Princess killing in Hanji 810. He is presented as Ban Chao's grandson and the husband of [[YinChengPrincess|阴城公主]], then as the person whose lethal retaliation brings both his own execution and collateral punishment on his siblings.
+班始 / Ban Shi is a late-Han Ban-family descendant whose wiki profile is bounded to the Yincheng Princess killing in 汉纪 810. He is presented as Ban Chao's grandson and the husband of [[YinChengPrincess|阴城公主]], then as the person whose lethal retaliation brings both his own execution and collateral punishment on his siblings.
 
 ## Current Profile
 
-Ban Shi's status in the current wiki comes through family prestige and royal marriage. Hanji 810 says he married Yincheng Princess, the daughter of Liu Qing and aunt of [[EmperorShunOfHan|汉顺帝]]. The episode describes the marriage as sharply unequal after Yincheng becomes a princess-ranked imperial relative.
+Ban Shi's status in the current wiki comes through family prestige and royal marriage. 汉纪 810 says he married Yincheng Princess, the daughter of Liu Qing and aunt of [[EmperorShunOfHan|汉顺帝]]. The episode describes the marriage as sharply unequal after Yincheng becomes a princess-ranked imperial relative.
 
 The source narrative centers on humiliation inside the household: Yincheng is said to bring lovers home and force Ban Shi into a hidden, powerless position. Ban Shi then kills Yincheng and one lover. Shun reacts with extreme anger, orders Ban Shi waist-chopped, and extends punishment to Ban Shi's full siblings, whose corpses are displayed publicly.
 
@@ -28,18 +28,18 @@ The source narrative centers on humiliation inside the household: Yincheng is sa
 
 ## Evidence
 
-- Lineage and marriage position: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Ban Shi is Ban Chao's grandson and Yincheng Princess's husband.
-- Power-asymmetric humiliation: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Yincheng humiliates Ban Shi by bringing lovers into the home and placing him in a hidden position.
-- Killing: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Ban Shi kills Yincheng and one lover.
-- Imperial and collateral punishment: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Shun orders Ban Shi waist-chopped and has his full siblings killed and displayed.
+- Lineage and marriage position: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Ban Shi is Ban Chao's grandson and Yincheng Princess's husband.
+- Power-asymmetric humiliation: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Yincheng humiliates Ban Shi by bringing lovers into the home and placing him in a hidden position.
+- Killing: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Ban Shi kills Yincheng and one lover.
+- Imperial and collateral punishment: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Shun orders Ban Shi waist-chopped and has his full siblings killed and displayed.
 
 ## Qualifications
 
-This page is bounded to Hanji 810 and should not be treated as a complete Ban Shi biography. The episode is sympathetic to Ban Shi's humiliating position, but the current synthesis keeps that status analysis separate from justification for killing. The lover, siblings, and wider legal procedure are not independently reconstructed here.
+This page is bounded to 汉纪 810 and should not be treated as a complete Ban Shi biography. The episode is sympathetic to Ban Shi's humiliating position, but the current synthesis keeps that status analysis separate from justification for killing. The lover, siblings, and wider legal procedure are not independently reconstructed here.
 
 ## What Changed
 
-- Created the Ban Shi page to anchor the Yincheng Princess killing, princess-marriage asymmetry, and collateral punishment sequence from Hanji 810.
+- Created the Ban Shi page to anchor the Yincheng Princess killing, princess-marriage asymmetry, and collateral punishment sequence from 汉纪 810.
 
 ## Relationships
 

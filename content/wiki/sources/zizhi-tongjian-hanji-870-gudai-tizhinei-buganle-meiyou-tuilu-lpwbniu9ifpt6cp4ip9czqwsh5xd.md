@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 165-166 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]]. It opens with a source-scoped self-reliance frame around money, knowledge of human nature, emotional steadiness, and health, then turns to [[LiuKuanLateHan|刘宽]]'s humane local-official profile and [[XunShuangLateHan|荀爽]]'s post-eclipse answer criticizing harem scale and palace burden.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 165-166 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]]. It opens with a source-scoped self-reliance frame around money, knowledge of human nature, emotional steadiness, and health, then turns to [[LiuKuanLateHan|刘宽]]'s humane local-official profile and [[XunShuangLateHan|荀爽]]'s post-eclipse answer criticizing harem scale and palace burden.
 
 The episode's durable historical contribution is the pairing of court extravagance with crisis dependence on capable officials. Huan can promote Liu Kuan and Xun Shuang, draw warning language from an eclipse, and worship Buddha and Laozi with expensive palace ritual, while the same state needs [[ZhangHuanLateHan|张奂]] and [[HuangfuGuiLateHan|皇甫规]] on the frontier so badly that Huangfu Gui's attempted exit through illness and self-impeachment fails.
 
@@ -44,12 +44,12 @@ The episode's durable historical contribution is the pairing of court extravagan
 - [[ZhaoDianLateHan|赵典]], [[XunShuangLateHan|荀爽]], [[UntimelyExtravagance|时绌举赢]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - post-eclipse recommendation and examination answer turn harem burden and palace expense into political-cosmic criticism.
 - [[ZhangHuanLateHan|张奂]], [[HuangfuGuiLateHan|皇甫规]], [[HuFangLateHan|胡方]], and [[OfficeDutyExitConstraint|任官责任退出受限]] - key title-level case where a needed frontier official cannot easily exit appointment.
 - [[Xianbei|鲜卑]], [[SouthernXiongnu|南匈奴]], [[Wuhuan|乌桓]], and [[DongqiangLateHan|东羌]] - frontier pressure that makes Zhang Huan's absence and recall politically visible.
-- [[OmenCodedRemonstrance|天象灾异包装式进谏]], [[Laozi|老子]], [[ShakyamuniBuddha|释迦牟尼佛]], and [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] - religious and omen material that the later Xiang Kai episode develops into sharper criticism.
-- [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]], [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]], and [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] - downstream Party Prohibition setup and Huangfu Gui/Zhang Huan reputation-frontier sequence.
+- [[OmenCodedRemonstrance|天象灾异包装式进谏]], [[Laozi|老子]], [[ShakyamuniBuddha|释迦牟尼佛]], and [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|汉纪 873]] - religious and omen material that the later Xiang Kai episode develops into sharper criticism.
+- [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]], [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]], and [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|汉纪 875]] - downstream Party Prohibition setup and Huangfu Gui/Zhang Huan reputation-frontier sequence.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills an earlier 165-166 CE Huan-era layer before Hanji 871-878's local-enforcement, remonstrance, Party Prohibition, and frontier-reward material.
+- No settled contradiction with existing wiki pages was found. The episode backfills an earlier 165-166 CE Huan-era layer before 汉纪 871-878's local-enforcement, remonstrance, Party Prohibition, and frontier-reward material.
 - Transcript normalization: "张宦" is normalized to [[ZhangHuanLateHan|张奂]] because the role, frontier sequence, and later pages match the established late-Han official.
 - Scope caution: the source's opening money, health, and human-nature advice is recorded as episode framing, not as a general psychological or medical claim.
 - Scope caution: the harem numbers, Yellow River clarity notices, ritual details, and minor office-name variants are kept source-scoped unless later sources require a fuller identity or chronology decision.

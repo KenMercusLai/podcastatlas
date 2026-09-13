@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Ten Victories and Ten Defeats / 十胜十败论
 
-Ten victories and ten defeats / 十胜十败论 enters the wiki through [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]] as the comparison [[XunYu|荀彧]] and [[GuoJia|郭嘉]] give [[CaoCao|曹操]] after [[YuanShao|袁绍]] sends an arrogant letter. Cao Cao wants to fight but recognizes that he is materially weaker, so the advisers reframe strength through leader quality and organizational system rather than troop count alone.
+Ten victories and ten defeats / 十胜十败论 enters the wiki through [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|汉纪 1014]] as the comparison [[XunYu|荀彧]] and [[GuoJia|郭嘉]] give [[CaoCao|曹操]] after [[YuanShao|袁绍]] sends an arrogant letter. Cao Cao wants to fight but recognizes that he is materially weaker, so the advisers reframe strength through leader quality and organizational system rather than troop count alone.
 
 The episode's ten contrasts are broad. Yuan Shao is presented as ceremonious, illegitimate in posture, weak on law and discipline, suspicious in personnel use, hesitant in decision, fame-seeking, shallow in care, vulnerable to factional slander, unclear in reward and punishment, and poor at the real substance of war. Cao Cao is presented as more natural in conduct, stronger in Han-court legitimacy, stricter in governance, more talent-trusting, more decisive, more sincere, clearer on big matters, resistant to slander, sharper in [[MeritBasedRewardPunishment|因功赏罚]], and better at military method.
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Heping 3-4 / 26-25 BCE under [[HanChengdi|汉成帝]], after the Ye Lang sequence in [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] and before the later Wang-family court conflicts. It introduces the coming confrontation between [[WangFengWesternHan|王凤]] and [[WangShangWesternHan|王商]], then turns to [[LiuXiang|刘向]]'s family background, imperial text collation, and disaster-omen warning about Wang-family outer-relative power.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Heping 3-4 / 26-25 BCE under [[HanChengdi|汉成帝]], after the Ye Lang sequence in [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|汉纪 513]] and before the later Wang-family court conflicts. It introduces the coming confrontation between [[WangFengWesternHan|王凤]] and [[WangShangWesternHan|王商]], then turns to [[LiuXiang|刘向]]'s family background, imperial text collation, and disaster-omen warning about Wang-family outer-relative power.
 
 The durable synthesis is that scholarship, omen language, and hydraulic administration all become court-power diagnostics. Liu Xiang's `Hongfan Wuxing` project uses classics and recorded anomalies to warn Chengdi about Wang Feng's brothers, while the Yellow River breach at Pingyuan shows the state rewarding named engineering managers even as ordinary workers receive corvee-offset credit rather than wages.
 
@@ -42,7 +42,7 @@ The durable synthesis is that scholarship, omen language, and hydraulic administ
 - [[YellowRiver|黄河]] - the Pingyuan breach adds an earlier Chengdi flood-repair layer before the later Li Xun, Ping Dang, and Jia Rang discussions.
 - [[KuangHengWesternHan|匡衡]] - the source adds the Heping 4 demotion notice for excess land.
 - [[Xiongnu]] - the chanyu's Chang'an court visit marks the episode's foreign-relations notice, though the details remain source-scoped here.
-- [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|Hanji 512]] and [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|Hanji 513]] - immediate preceding Heping-period backfill sequence under Chengdi.
+- [[zizhi-tongjian-hanji-512-xihan-chuzheng-yelang-wo-budang-dage-haoduonian-lufpmcdwb20dhx2qxfjws7-qdpkb|汉纪 512]] and [[zizhi-tongjian-hanji-513-yongchuang-duomingdao-hanchen-chenli-zhusha-yelang-guowang-lvfqkcbuzts119gtpzfipzo5wbo|汉纪 513]] - immediate preceding Heping-period backfill sequence under Chengdi.
 
 ## Contradictions
 

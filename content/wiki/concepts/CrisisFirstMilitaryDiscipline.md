@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Crisis-First Military Discipline / 临危先务军纪
 
-Crisis-first military discipline / 临危先务军纪 is the command pattern [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]] draws from [[YuJin|于禁]] during [[CaoCao|曹操]]'s Wancheng retreat. The crisis has three simultaneous demands: keep one's own unit orderly, stop friendly troops from plundering civilians, and prepare against enemy pursuit.
+Crisis-first military discipline / 临危先务军纪 is the command pattern [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|汉纪 1014]] draws from [[YuJin|于禁]] during [[CaoCao|曹操]]'s Wancheng retreat. The crisis has three simultaneous demands: keep one's own unit orderly, stop friendly troops from plundering civilians, and prepare against enemy pursuit.
 
 The pattern is "crisis-first" because Yu Jin does not treat reputation repair as the first task after being accused. He builds defensive works before explaining himself to Cao Cao. The episode reads this as disciplined sequencing: public order, camp survival, and defensive readiness have to be handled before personal narrative.
 

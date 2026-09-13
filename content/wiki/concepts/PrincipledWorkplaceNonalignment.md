@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Definition
 
-[[PrincipledWorkplaceNonalignment|原则性职场不站队 / principled workplace nonalignment]] is the career-survival stance where a person preserves independent judgment, fair conduct, broad working relationships, and explicit principle boundaries instead of reflexively attaching to a faction. It is created from the workplace reading of the Chu-prison case in [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]].
+[[PrincipledWorkplaceNonalignment|原则性职场不站队 / principled workplace nonalignment]] is the career-survival stance where a person preserves independent judgment, fair conduct, broad working relationships, and explicit principle boundaries instead of reflexively attaching to a faction. It is created from the workplace reading of the Chu-prison case in [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]].
 
 ## Current Synthesis
 
-Hanji 740 begins from a workplace problem: people are often told that not taking sides prevents promotion, yet taking a side can make them responsible for a faction's future collapse or moral compromise. The episode uses the Chu-prison case to argue that survival in high-pressure organizations depends on keeping judgment one's own.
+汉纪 740 begins from a workplace problem: people are often told that not taking sides prevents promotion, yet taking a side can make them responsible for a faction's future collapse or moral compromise. The episode uses the Chu-prison case to argue that survival in high-pressure organizations depends on keeping judgment one's own.
 
 The concept is not anti-relationship and not anti-courage. It asks a person to build good relationships across an organization, act fairly, and avoid opportunistic faction signals, while still saying no when a demanded alignment violates professional principles. In that sense it is closer to evidence-bound independence than to neutrality as silence.
 
@@ -29,10 +29,10 @@ The concept is not anti-relationship and not anti-courage. It asks a person to b
 
 ## Evidence
 
-- Workplace framing: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] opens by questioning the claim that workplace advancement always requires taking a side.
-- Risk of faction capture: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] uses the Chu-prison case to show how group loyalty and ruler anger can pressure people to follow a destructive line.
-- Independent judgment: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] concludes that wise survival requires independent character, good relationships, and rational judgment rather than blind alignment.
-- Principle boundary: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says a person should refuse when demanded alignment violates professional principle.
+- Workplace framing: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] opens by questioning the claim that workplace advancement always requires taking a side.
+- Risk of faction capture: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] uses the Chu-prison case to show how group loyalty and ruler anger can pressure people to follow a destructive line.
+- Independent judgment: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] concludes that wise survival requires independent character, good relationships, and rational judgment rather than blind alignment.
+- Principle boundary: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says a person should refuse when demanded alignment violates professional principle.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The episode offers a career frame, not a universal workplace operating manual. S
 
 ## What Changed
 
-- Created this concept from Hanji 740's workplace interpretation of the Chu-prison case.
+- Created this concept from 汉纪 740's workplace interpretation of the Chu-prison case.
 - Defined nonalignment as independent judgment plus fair conduct, not silence or indecision.
 - Connected the workplace lesson to factional pressure, evidence discipline, and professional boundary-setting.
 

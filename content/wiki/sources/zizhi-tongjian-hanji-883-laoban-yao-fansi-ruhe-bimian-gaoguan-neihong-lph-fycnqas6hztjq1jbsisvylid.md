@@ -16,7 +16,7 @@ last_updated: 2026-08-28
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens with a self-governance frame close to [[BoundarylessKindnessTrap|无边界善良陷阱]]: kindness without boundary can invite bullying, while force without measure can create new danger. The host treats maturity as a balance of compassion, strength, and proportion.
 
-The historical section backfills the 168 CE [[DongqiangLateHan|东羌]] policy dispute before the later Hanji 891-892 campaign outcome. [[DuanJiongLateHan|段熲]] pursues Qiang remnants into [[HanyangCommanderyLateHan|汉阳郡]] and argues for continued hard suppression, while [[ZhangHuanLateHan|张奂]] urges surrender and peace because residual Qiang groups will be difficult to eliminate. The host closes by preferring a mixed "sword and flower" approach, linking the case to [[RootCausePacification|查因安抚式治理]] and [[PeopleBasedPoliticalSecurity|民心型政治安全]] rather than force-only frontier policy.
+The historical section backfills the 168 CE [[DongqiangLateHan|东羌]] policy dispute before the later 汉纪 891-892 campaign outcome. [[DuanJiongLateHan|段熲]] pursues Qiang remnants into [[HanyangCommanderyLateHan|汉阳郡]] and argues for continued hard suppression, while [[ZhangHuanLateHan|张奂]] urges surrender and peace because residual Qiang groups will be difficult to eliminate. The host closes by preferring a mixed "sword and flower" approach, linking the case to [[RootCausePacification|查因安抚式治理]] and [[PeopleBasedPoliticalSecurity|民心型政治安全]] rather than force-only frontier policy.
 
 ## Key Claims
 
@@ -42,11 +42,11 @@ The historical section backfills the 168 CE [[DongqiangLateHan|东羌]] policy d
 - [[DuanJiongLateHan|段熲]], [[ZhangHuanLateHan|张奂]], [[DongqiangLateHan|东羌]], and [[HanyangCommanderyLateHan|汉阳郡]] - central actors and frontier setting of the policy dispute.
 - [[RootCausePacification|查因安抚式治理]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[DeceptiveSurrenderLull|诈降麻痹]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - concepts that frame surrender, coercion, cost, and root-cause repair.
 - [[BoundarylessKindnessTrap|无边界善良陷阱]], [[GoodIntentionsPoliticalLimits]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - opening personal-conduct frame about kindness, strength, and self-protection.
-- [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] and [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]] - later tactical and ethical continuation of this Qiang-policy dispute.
-- [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|Hanji 889]] and [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] - adjacent Zhang Huan court-remonstrance and punishment context after the anti-eunuch crisis.
+- [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] and [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|汉纪 892]] - later tactical and ethical continuation of this Qiang-policy dispute.
+- [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|汉纪 889]] and [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] - adjacent Zhang Huan court-remonstrance and punishment context after the anti-eunuch crisis.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the policy argument before Hanji 891's tactical campaign and Hanji 892's anti-extermination critique.
-- Timeline caution: this episode frames the dispute in 168 CE, while Hanji 891-892 cover later 169 CE campaign and settlement consequences; the pages are treated as sequential rather than conflicting.
+- No settled contradiction with existing wiki pages was found. This source backfills the policy argument before 汉纪 891's tactical campaign and 汉纪 892's anti-extermination critique.
+- Timeline caution: this episode frames the dispute in 168 CE, while 汉纪 891-892 cover later 169 CE campaign and settlement consequences; the pages are treated as sequential rather than conflicting.
 - Transcript normalization: 张焕 is linked to the canonical [[ZhangHuanLateHan|张奂]] route, and 段炯 is normalized to [[DuanJiongLateHan|段熲]]. Zhao Chongguo, Ma Yuan, Deng Xun, and specific residual-place names remain source-scoped pending fuller evidence.

@@ -16,37 +16,37 @@ last_updated: 2026-08-29
 
 ## Current Profile
 
-Hanji 810 gives Ma Xu's earliest current layer. After Han Hao moves Huangzhong tuntian too close to neighboring Qiang groups and frightens them into alliance behavior, Ma Xu replaces him as Protector of the Qiang and asks to move the fields back toward Huangzhong. The groups relax. This makes Ma Xu's first current profile a correction of threatening proximity, not a battlefield victory.
+汉纪 810 gives Ma Xu's earliest current layer. After Han Hao moves Huangzhong tuntian too close to neighboring Qiang groups and frightens them into alliance behavior, Ma Xu replaces him as Protector of the Qiang and asks to move the fields back toward Huangzhong. The groups relax. This makes Ma Xu's first current profile a correction of threatening proximity, not a battlefield victory.
 
-Hanji 816 then records Ma Xu attacking Liang Feng after Qiang pressure around Longxi and Hanyang. This places him inside the same early Shun frontier field as [[MaXianLateHan|马贤]], but with less detail than the later Southern Xiongnu case.
+汉纪 816 then records Ma Xu attacking Liang Feng after Qiang pressure around Longxi and Hanyang. This places him inside the same early Shun frontier field as [[MaXianLateHan|马贤]], but with less detail than the later Southern Xiongnu case.
 
-Hanji 820 places Ma Xu in the [[SouthernXiongnu|南匈奴]] revolt after [[WusiSouthernXiongnu|吾斯]] and [[CheNiuChanyu|车纽单于]] besiege Meiji and kill frontier officials. Ma Xu and [[LiangBingLateHan|梁并]] win an early encounter, but the revolt regroups. After [[ChenGuiDuliaoGeneralLateHan|陈龟]]'s unauthorized coercion unsettles surrender prospects, [[LiangShangLateHan|梁商]] argues that Ma Xu understands the frontier and that his letters already match the best strategy. Shun orders Ma Xu to fortify, show grace and trust, post reward deadlines, and avoid small victories that would damage the larger plan; more than 13,000 people submit.
+汉纪 820 places Ma Xu in the [[SouthernXiongnu|南匈奴]] revolt after [[WusiSouthernXiongnu|吾斯]] and [[CheNiuChanyu|车纽单于]] besiege Meiji and kill frontier officials. Ma Xu and [[LiangBingLateHan|梁并]] win an early encounter, but the revolt regroups. After [[ChenGuiDuliaoGeneralLateHan|陈龟]]'s unauthorized coercion unsettles surrender prospects, [[LiangShangLateHan|梁商]] argues that Ma Xu understands the frontier and that his letters already match the best strategy. Shun orders Ma Xu to fortify, show grace and trust, post reward deadlines, and avoid small victories that would damage the larger plan; more than 13,000 people submit.
 
 ## Key Characteristics
 
 - Frontier official whose earliest current success is reducing fear produced by over-close tuntian placement.
 - Commander whose known roles include both Qiang-front action and Southern Xiongnu stabilization.
-- Effective in Hanji 820 through posture, reward signaling, and surrender policy more than pursuit.
+- Effective in 汉纪 820 through posture, reward signaling, and surrender policy more than pursuit.
 - Works as Liang Shang's operational instrument during the Southern Xiongnu revolt.
 - Demonstrates that battlefield victory, local perception, and political settlement are different frontier tasks.
 - Sits between failed coercion by Chen Gui and later military cleanup by [[ZhangDanProtectorOfXiongnu|张躭]].
 
 ## Evidence
 
-- Qiang-field reversal: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Ma Xu replaces Han Hao and asks to move fields back toward Huangzhong after over-close tuntian alarms Qiang groups.
-- Qiang-front action: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Ma Xu attacks Liang Feng after Qiang pressure in Longxi and Hanyang.
-- Limited meaning of early victory: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] first shows Ma Xu and Liang Bing beating rebel forces, then shows Wusi and Che Niu able to revive the revolt.
-- Defensive-surrender command: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Ma Xu's campaign becomes tied to Liang Shang's advice to fortify, reassure, reward, and wait rather than pursue small wins.
-- Court trust through expert correspondence: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] has Liang Shang cite Ma Xu's frontier familiarity and letters as reasons to keep him in command.
+- Qiang-field reversal: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Ma Xu replaces Han Hao and asks to move fields back toward Huangzhong after over-close tuntian alarms Qiang groups.
+- Qiang-front action: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]] says Ma Xu attacks Liang Feng after Qiang pressure in Longxi and Hanyang.
+- Limited meaning of early victory: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] first shows Ma Xu and Liang Bing beating rebel forces, then shows Wusi and Che Niu able to revive the revolt.
+- Defensive-surrender command: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] says Ma Xu's campaign becomes tied to Liang Shang's advice to fortify, reassure, reward, and wait rather than pursue small wins.
+- Court trust through expert correspondence: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] has Liang Shang cite Ma Xu's frontier familiarity and letters as reasons to keep him in command.
 
 ## Qualifications
 
-This page is bounded to Hanji 810, Hanji 816, and Hanji 820. Ma Xu's lineage, wider career, and later service are not yet synthesized in this wiki. Hanji 810 establishes a perception-sensitive Qiang-field correction; Hanji 816 establishes a Qiang-front attack; Hanji 820 remains the main strategic layer because it explains his fortified-surrender role in the Southern Xiongnu crisis.
+This page is bounded to 汉纪 810, 汉纪 816, and 汉纪 820. Ma Xu's lineage, wider career, and later service are not yet synthesized in this wiki. 汉纪 810 establishes a perception-sensitive Qiang-field correction; 汉纪 816 establishes a Qiang-front attack; 汉纪 820 remains the main strategic layer because it explains his fortified-surrender role in the Southern Xiongnu crisis.
 
 ## What Changed
 
-- Added Hanji 810 as Ma Xu's earliest current layer, showing him reversing an over-close Qiang-front tuntian placement.
-- Preserved Hanji 816 and Hanji 820 as the attack and fortified-surrender layers that define his later frontier profile.
+- Added 汉纪 810 as Ma Xu's earliest current layer, showing him reversing an over-close Qiang-front tuntian placement.
+- Preserved 汉纪 816 and 汉纪 820 as the attack and fortified-surrender layers that define his later frontier profile.
 
 ## Relationships
 

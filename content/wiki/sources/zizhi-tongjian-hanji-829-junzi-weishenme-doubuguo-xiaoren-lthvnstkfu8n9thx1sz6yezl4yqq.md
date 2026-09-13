@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 147 CE, immediately before [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] and the later Liang-family sequence. It opens with source-scoped self-cultivation advice, then follows [[DuQiaoLateHan|杜乔]] as he becomes taiwei, criticizes reward and appointment inversion, refuses two [[LiangJiLateHan|梁冀]] requests, and is removed after a Luoyang earthquake.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 147 CE, immediately before [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] and the later Liang-family sequence. It opens with source-scoped self-cultivation advice, then follows [[DuQiaoLateHan|杜乔]] as he becomes taiwei, criticizes reward and appointment inversion, refuses two [[LiangJiLateHan|梁冀]] requests, and is removed after a Luoyang earthquake.
 
 The durable contribution is that "gentlemen lose to petty actors" as a structural claim, not only a moral complaint. Du Qiao can state the standards of worthy appointment and fair reward, but [[EmperorHuanOfHan|汉桓帝]] gives no response, Liang Ji treats procedural resistance as disobedience, and [[TangHengLateHan|唐衡]] plus [[ZuoGuanLateHan|左悺]] can turn the earlier succession dispute around [[LiGuLateHan|李固]] and [[LiuSuanLateHan|刘蒜]] into resentment inside Huan.
 
@@ -39,15 +39,15 @@ The durable contribution is that "gentlemen lose to petty actors" as a structura
 
 ## Connections
 
-- [[DuQiaoLateHan|杜乔]], [[LiGuLateHan|李固]], and [[LiangJiLateHan|梁冀]] - the episode supplies the pre-Hanji 830 layer in which Du Qiao's remonstrance and refusals create Liang resentment before the later prison-death case.
+- [[DuQiaoLateHan|杜乔]], [[LiGuLateHan|李固]], and [[LiangJiLateHan|梁冀]] - the episode supplies the pre-汉纪 830 layer in which Du Qiao's remonstrance and refusals create Liang resentment before the later prison-death case.
 - [[EmperorHuanOfHan|汉桓帝]], [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]], and [[EmpressLiangYingLateHan|梁盈]] - accession reward, dowager succession decision, and Liang-family marriage form the court frame.
 - [[LiuSuanLateHan|刘蒜]], [[LiuWenQingheRebelLateHan|刘文]], [[LiuWeiNanjunRebelLateHan|刘伟]], [[XieHaoQingheLateHan|谢浩]], and [[QingheKingdomLateHan|清河王国]] - failed alternative-enthronement branch.
-- [[LiuKuiBohaiKing|刘亏]] and [[BohaiKingdomLateHan|渤海王国]] - earlier Bohai succession layer before the Hanji 864 and Hanji 903 Liu Kui evidence.
+- [[LiuKuiBohaiKing|刘亏]] and [[BohaiKingdomLateHan|渤海王国]] - earlier Bohai succession layer before the 汉纪 864 and 汉纪 903 Liu Kui evidence.
 - [[TangHengLateHan|唐衡]], [[ZuoGuanLateHan|左悺]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - eunuch-side speech access recodes older succession politics as personal offense to the ruler.
 - [[CorrectiveAdviceNonconversion|忠告不转化]], [[MoralDesertPoliticalOutcomeGap|善恶报应与政治结果错位]], [[OuterRelativeCourtPower|外戚专权与清算]], [[MeritBasedRewardPunishment|因功赏罚]], and [[LiAsPoliticalOrder|礼制政治秩序]] - concepts extended or reinforced by Du Qiao's failed memorial and ritual refusal.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the 147 CE prehistory for Hanji 830's Li Gu and Du Qiao death sequence and Hanji 845's later Liang Ying marriage layer.
+- No settled contradiction with existing wiki pages was found. This source backfills the 147 CE prehistory for 汉纪 830's Li Gu and Du Qiao death sequence and 汉纪 845's later Liang Ying marriage layer.
 - Name normalization: the source's 梁继 is normalized to [[LiangJiLateHan|梁冀]], 刘算 to [[LiuSuanLateHan|刘蒜]], 唐恒 to [[TangHengLateHan|唐衡]], and 左贯 to [[ZuoGuanLateHan|左悺]] where existing routes already establish the late-Han actors.
 - Scope caution: Hu Guang, Zhao Jie, Yuan Tang, Liu Guang, Zhao Jian, the unnamed corrupt shangshu candidate, and exact omen/office notices remain source-scoped. The source's 赵建 is kept distinct from existing [[ZhaoJianLateHan|赵戬]].

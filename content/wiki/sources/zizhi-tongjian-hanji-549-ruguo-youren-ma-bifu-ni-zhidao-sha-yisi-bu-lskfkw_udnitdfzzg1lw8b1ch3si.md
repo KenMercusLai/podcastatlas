@@ -44,5 +44,5 @@ The durable synthesis is that Chengdi's reign contains a real remonstrance-toler
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Balance qualification: this source supports Wang Jia's later favorable picture of Chengdi as capable of sparing harsh speakers, while Hanji 559 still supports a darker responsibility-evasion layer in Zhai Fangjin's death.
+- Balance qualification: this source supports Wang Jia's later favorable picture of Chengdi as capable of sparing harsh speakers, while 汉纪 559 still supports a darker responsibility-evasion layer in Zhai Fangjin's death.
 - Scope caution: Zhang Yu's full biography, Zhu Yun's full career, the precise court transcript, Zhang Fang's relationship with Chengdi, the Xiongnu succession mechanics, and the cultural reception of broken-balustrade images remain source-scoped unless later notes require fuller pages.

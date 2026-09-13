@@ -34,7 +34,7 @@ The episode's durable contribution is methodological rather than event-narrative
 
 ## Connections
 - [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]], [[ZizhiTongjian|《资治通鉴》]], [[SimaGuang|司马光]], [[SimaQian|司马迁]], [[Shiji|《史记》]], and [[TwentyFourHistories|二十四史]] - show, central text, compiler, comparison historian, and official-history macro-frame.
-- [[HanShu|《汉书》]], [[HouHanshu|《后汉书》]], [[Sanguozhi|《三国志》]], and [[ZuoZhuan|《左传》]] - source-map texts used to orient listeners before returning to Hanji 27.
+- [[HanShu|《汉书》]], [[HouHanshu|《后汉书》]], [[Sanguozhi|《三国志》]], and [[ZuoZhuan|《左传》]] - source-map texts used to orient listeners before returning to 汉纪 27.
 - [[ChronicleBiographicalHistoryForms|史书体例意识]], [[OfficialHistoryContinuity|正史连续性]], [[ParticipatoryHistoricalReading|参与式读史]], and [[HistoricalQuestionConsciousness|历史问题意识]] - reading-method concepts extended by the source.
 - [[ClassicReadingComplexity]], [[HistoricalDetectiveReasoning]], and [[ReadingAsLifeExperience]] - adjacent wiki frames for non-flat reading, source comparison, and life-stage interpretation.
 

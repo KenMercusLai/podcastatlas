@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], just before the nearby [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] and [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] backfill notes. It begins with [[LiuXinWesternHan|刘歆]] as a scholar-official who completes [[LiuXiang|刘向]]'s imperial-text collation work and compiles [[Qilue|《七略》]], then turns to [[HanAidi|汉哀帝]]'s attempt to limit land and enslaved dependents amid late-Western-Han inequality.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], just before the nearby [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] and [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|汉纪 568]] backfill notes. It begins with [[LiuXinWesternHan|刘歆]] as a scholar-official who completes [[LiuXiang|刘向]]'s imperial-text collation work and compiles [[Qilue|《七略》]], then turns to [[HanAidi|汉哀帝]]'s attempt to limit land and enslaved dependents amid late-Western-Han inequality.
 
 The durable synthesis is that the episode links knowledge ordering and statecraft. Liu Xin's classification of texts into the seven summaries and the nine schools turns scholarship into a map of usable political knowledge, while the later limit-land-and-slave proposal shows the opposite pressure: when reform threatens royal, aristocratic, and favorite-group property, even an approved policy can be suspended before implementation.
 

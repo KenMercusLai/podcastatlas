@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-孔霸 / Kong Ba enters the wiki through [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] as a twelfth-generation descendant of [[Confucius|孔子]], a `Shangshu` teacher of [[HanYuandi|汉元帝]], and a Yuan-era honored scholar who refuses repeated high-office opportunities.
+孔霸 / Kong Ba enters the wiki through [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] as a twelfth-generation descendant of [[Confucius|孔子]], a `Shangshu` teacher of [[HanYuandi|汉元帝]], and a Yuan-era honored scholar who refuses repeated high-office opportunities.
 
 ## Current Profile
 
@@ -30,26 +30,26 @@ The host interprets this refusal as strategic preservation of the Kong family's 
 ## Evidence
 
 Lineage and teacher status:
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Kong Ba is Confucius's twelfth-generation descendant.
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Yuan studied the `Shangshu` with Kong Ba while still crown prince.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says Kong Ba is Confucius's twelfth-generation descendant.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says Yuan studied the `Shangshu` with Kong Ba while still crown prince.
 
 Honors and refusal:
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Yuan makes Kong Ba Guannei Hou and Jishizhong after accession.
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Kong Ba repeatedly refuses higher office by claiming insufficient virtue and talent.
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Yuan recognizes that Kong Ba truly has no desire for office, stops forcing him, respects him more, and rewards him with gold.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says Yuan makes Kong Ba Guannei Hou and Jishizhong after accession.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says Kong Ba repeatedly refuses higher office by claiming insufficient virtue and talent.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says Yuan recognizes that Kong Ba truly has no desire for office, stops forcing him, respects him more, and rewards him with gold.
 
 Strategic interpretation:
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says the Kong family's standing ground is Confucian orthodox status.
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] argues that high office would force Kong Ba into Confucian-Legalist and factional court conflict.
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says emperor-teacher status would make Kong Ba look like part of the ruler's intimate side, raising backlash risk from stronger court factions.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says the Kong family's standing ground is Confucian orthodox status.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] argues that high office would force Kong Ba into Confucian-Legalist and factional court conflict.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says emperor-teacher status would make Kong Ba look like part of the ruler's intimate side, raising backlash risk from stronger court factions.
 
 ## Qualifications
 
-This page records Hanji 476's interpretation of Kong Ba rather than a complete historical biography. The source does not settle Kong Ba's full office record, exact classical wording, private motive, or whether his refusal was mainly humility, capacity judgment, lineage strategy, or court-risk calculation. The host's Confucian-versus-Legalist and eunuch-risk framing remains source-scoped.
+This page records 汉纪 476's interpretation of Kong Ba rather than a complete historical biography. The source does not settle Kong Ba's full office record, exact classical wording, private motive, or whether his refusal was mainly humility, capacity judgment, lineage strategy, or court-risk calculation. The host's Confucian-versus-Legalist and eunuch-risk framing remains source-scoped.
 
 ## What Changed
 
-- Created the page from Hanji 476's treatment of Kong Ba as an imperial teacher who preserves Confucian lineage status by refusing dangerous high office.
+- Created the page from 汉纪 476's treatment of Kong Ba as an imperial teacher who preserves Confucian lineage status by refusing dangerous high office.
 
 ## Relationships
 

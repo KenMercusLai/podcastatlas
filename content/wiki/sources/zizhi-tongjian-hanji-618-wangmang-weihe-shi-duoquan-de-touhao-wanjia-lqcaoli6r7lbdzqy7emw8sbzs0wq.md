@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 3 CE under [[HanPingdi|汉平帝]], after the marriage and bride-price context in [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]] and before the local-office transition in [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]]. It shows [[WangMang|王莽]] using adoption-lineage ritual doctrine to argue that Ping, as [[HanAidi|汉哀帝]]'s heir, should not privilege his birth mother's Wei clan after Wang Mang's purge of them.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 3 CE under [[HanPingdi|汉平帝]], after the marriage and bride-price context in [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]] and before the local-office transition in [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]]. It shows [[WangMang|王莽]] using adoption-lineage ritual doctrine to argue that Ping, as [[HanAidi|汉哀帝]]'s heir, should not privilege his birth mother's Wei clan after Wang Mang's purge of them.
 
 The durable synthesis is that ritual kinship could become political evidence. Wang Mang has Zongbo Feng lecture officials on adoptive-son obligation, stages the Jin-family title succession as a public analogy, and rewards Zhen Han after Jin Qing's counter-reading makes birth-lineage sacrifice sound politically dangerous. The result is a sharper pre-usurpation mechanism: lineage doctrine is not neutral family ethics when the ruler's natal relatives and the regent's purge legitimacy are at stake.
 
@@ -42,10 +42,10 @@ The durable synthesis is that ritual kinship could become political evidence. Wa
 - [[AdoptiveLineageRitualPolitics|过继宗法礼制政治]] - concept created from the episode's use of adoption doctrine, collateral succession, sacrifice, and court punishment as political tools.
 - [[LiAsPoliticalOrder|礼制政治秩序]], [[MingqiLegitimacy|名器合法性]], and [[SuccessionAuthorityConsolidation|继承权威整合]] - broader concepts linked by the episode's treatment of ritual interpretation, title inheritance, and public authority.
 - [[ZhenFengXinOfficial|甄丰]] - later Wang Mang-aligned Zhen-family actor; this source keeps Zhen Han source-scoped rather than merging him with Zhen Feng.
-- [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|Hanji 615]], [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]], and [[zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu|Hanji 620]] - immediate chronology from marriage legitimacy through lineage-doctrine coercion into local-office contrast and petition-backed elevation.
+- [[zizhi-tongjian-hanji-615-chengmu-jieshe-gudai-caili-zheme-gao-lkllbe015xkb7wlhkobtastkifdo|汉纪 615]], [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]], and [[zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu|汉纪 620]] - immediate chronology from marriage legitimacy through lineage-doctrine coercion into local-office contrast and petition-backed elevation.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 3 CE between Hanji 615's marriage-and-rank-regulation layer and Hanji 619's 3-4 CE court notices.
+- Chronology qualification: this source backfills 3 CE between 汉纪 615's marriage-and-rank-regulation layer and 汉纪 619's 3-4 CE court notices.
 - Scope caution: Zongbo Feng, Zhen Han, Jin Midi, Jin Dang, Jin Qing, Jin Tang, Jin Anshang, Jin Shang, exact title inheritance lines, lecture wording, and Wang Mang's inner motives remain source-scoped unless later notes warrant canonical pages.

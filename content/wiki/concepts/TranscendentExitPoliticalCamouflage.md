@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Transcendent Exit Political Camouflage / 假托神仙式权力退场
 
-Transcendent exit political camouflage / 假托神仙式权力退场 is the pattern [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|Hanji 171 part 1]] builds from [[ZhangLiang|张良]] after [[LiuBang|刘邦]] founds the [[WesternHanDynasty|西汉]]. Zhang Liang has already completed revenge for [[HanState|韩国]], served as a decisive strategist, and received high rank; after the capital moves to [[ChangAnHanCapital|长安]], he withdraws into illness, seclusion, meditation, grain avoidance, and the stated wish to follow [[Chisongzi|赤松子]].
+Transcendent exit political camouflage / 假托神仙式权力退场 is the pattern [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|汉纪 171 part 1]] builds from [[ZhangLiang|张良]] after [[LiuBang|刘邦]] founds the [[WesternHanDynasty|西汉]]. Zhang Liang has already completed revenge for [[HanState|韩国]], served as a decisive strategist, and received high rank; after the capital moves to [[ChangAnHanCapital|长安]], he withdraws into illness, seclusion, meditation, grain avoidance, and the stated wish to follow [[Chisongzi|赤松子]].
 
 The concept sits inside [[PowerExitTrap|权力退场困境]], but it names a more specific exit technique. A high-merit minister can become dangerous if he remains visibly useful, ambitious, and socially reachable. By adopting transcendent language, he recodes departure as spiritual practice rather than political refusal, lowering the pressure to keep serving and making his absence less threatening.
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-末振将 / Mozhenjiang enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] as the [[Wusun|乌孙]] small kunmi installed with [[DuanHuizongWesternHan|段会宗]]'s support, then condemned after he has the large kunmi Cilim killed.
+末振将 / Mozhenjiang enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] as the [[Wusun|乌孙]] small kunmi installed with [[DuanHuizongWesternHan|段会宗]]'s support, then condemned after he has the large kunmi Cilim killed.
 
 ## Current Profile
 
@@ -28,17 +28,17 @@ Mozhenjiang is then killed by the large kunmi side and [[AnlimiWusun|安犁靡]]
 
 ## Evidence
 
-- Installation: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Duan Huizong helps install Mozhenjiang as small kunmi.
-- Motive and plot: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Mozhenjiang fears Cilim and sends Wuriling in a feigned-surrender killing.
-- Replacement and punishment chain: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Mozhenjiang is killed, Anlimi replaces him, and Fanqiu becomes the later Han target.
+- Installation: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Duan Huizong helps install Mozhenjiang as small kunmi.
+- Motive and plot: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Mozhenjiang fears Cilim and sends Wuriling in a feigned-surrender killing.
+- Replacement and punishment chain: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Mozhenjiang is killed, Anlimi replaces him, and Fanqiu becomes the later Han target.
 
 ## Qualifications
 
-This page is bounded to Hanji 550. The transcript form 墨镇将 is normalized here to 末振将, and Cilim, Wuriling, Beiyuanzhi, and detailed Wusun genealogy remain source-scoped.
+This page is bounded to 汉纪 550. The transcript form 墨镇将 is normalized here to 末振将, and Cilim, Wuriling, Beiyuanzhi, and detailed Wusun genealogy remain source-scoped.
 
 ## What Changed
 
-- Created the page from Hanji 550's Wusun small-kunmi succession and Cilim-killing sequence.
+- Created the page from 汉纪 550's Wusun small-kunmi succession and Cilim-killing sequence.
 
 ## Relationships
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|Hanji 477]] grounds the concept in [[LiuXiang|刘向 / 刘更生]]'s warning to [[HanYuandi|汉元帝]] after [[ShiXianWesternHan|石显]] repeatedly slanders [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张猛 / 张萌]]. Liu Xiang does not treat slander as a private quarrel alone. He links it to court disharmony, disasters, the ruler's unstable judgment, and the wider danger that petty people can turn rumor and factional language into governing signals.
+[[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|汉纪 477]] grounds the concept in [[LiuXiang|刘向 / 刘更生]]'s warning to [[HanYuandi|汉元帝]] after [[ShiXianWesternHan|石显]] repeatedly slanders [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张猛 / 张萌]]. Liu Xiang does not treat slander as a private quarrel alone. He links it to court disharmony, disasters, the ruler's unstable judgment, and the wider danger that petty people can turn rumor and factional language into governing signals.
 
 The key mechanism is speed and asymmetry. Worthy people and good measures are abandoned quickly after denunciation, while removing petty men is described as difficult. That makes the ruler's feedback channel progressively worse: loyal recommendation can be misread as faction, slander can be read as vigilance, and ministers who see the danger must use disaster, classical precedent, and indirect warning to speak.
 
@@ -29,13 +29,13 @@ The key mechanism is speed and asymmetry. Worthy people and good measures are ab
 ## Evidence
 
 Core mechanism:
-- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|Hanji 477]] says Shi Xian repeatedly slanders Zhou Kan and Zhang Meng, prompting Liu Xiang to memorialize before he too is harmed.
-- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|Hanji 477]] says Liu Xiang identifies Yuan's suspicion as the root cause of slanderers advancing.
-- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|Hanji 477]] says Yuan abandons worthy people and good measures too readily after hearing slander, while removing petty men is difficult.
+- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|汉纪 477]] says Shi Xian repeatedly slanders Zhou Kan and Zhang Meng, prompting Liu Xiang to memorialize before he too is harmed.
+- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|汉纪 477]] says Liu Xiang identifies Yuan's suspicion as the root cause of slanderers advancing.
+- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|汉纪 477]] says Yuan abandons worthy people and good measures too readily after hearing slander, while removing petty men is difficult.
 
 Warning form:
-- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|Hanji 477]] says Liu Xiang links harmony to auspiciousness and hostility to disaster, turning political feedback disorder into omen-coded remonstrance.
-- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|Hanji 477]] says Liu Xiang distinguishes loyal mutual praise and recommendation from petty men's collusive rumor-making.
+- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|汉纪 477]] says Liu Xiang links harmony to auspiciousness and hostility to disaster, turning political feedback disorder into omen-coded remonstrance.
+- [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|汉纪 477]] says Liu Xiang distinguishes loyal mutual praise and recommendation from petty men's collusive rumor-making.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ This concept is currently grounded in one source note and should not be used as 
 
 ## What Changed
 
-- Created the concept from Hanji 477's account of Liu Xiang's memorial against slander, ruler suspicion, and court disharmony.
+- Created the concept from 汉纪 477's account of Liu Xiang's memorial against slander, ruler suspicion, and court disharmony.
 
 ## Related Concepts
 
@@ -51,4 +51,4 @@ This concept is currently grounded in one source note and should not be used as 
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - broader failure pattern of broken ruler-minister feedback.
 - [[TrustedEunuchPowerFormation|信任型宦官权力形成]] - adjacent Shi Xian formation field in which trusted access makes slander more damaging.
 - [[MessageRelayPoliticalPower|传话式信息权力]] - later access-channel mechanism that can amplify filtered information.
-- [[OpportunisticCourtAlignment|投机型朝堂站队]] - related court behavior in the next Hanji 478 episode, where actors position around the same power field.
+- [[OpportunisticCourtAlignment|投机型朝堂站队]] - related court behavior in the next 汉纪 478 episode, where actors position around the same power field.

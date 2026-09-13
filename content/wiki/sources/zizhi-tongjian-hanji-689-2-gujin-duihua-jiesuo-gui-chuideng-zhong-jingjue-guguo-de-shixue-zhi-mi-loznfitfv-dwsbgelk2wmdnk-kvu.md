@@ -29,7 +29,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses popula
 
 > "Surpiece" - the Kharosthi-document enemy name the episode associates with Supi.
 
-> "五星出东方利中国" - the brocade text used as the bridge to Hanji 689-3.
+> "五星出东方利中国" - the brocade text used as the bridge to 汉纪 689-3.
 
 ## Connections
 - [[JingjueKingdom]] - main Western Regions polity reconstructed by the episode.
@@ -37,12 +37,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses popula
 - [[KharosthiNiyaDocuments]] - document corpus used to connect Niya, Jingjue, and Supi attack evidence.
 - [[SupiRegime]] - stronger-polity pressure actor used to explain Jingjue's likely disappearance.
 - [[AurelStein]] - expedition collector whose Niya discoveries and removals frame both evidence and loss.
-- [[FiveStarsOutOfTheEastBrocade]] - artifact previewed at the end and treated in Hanji 689-3.
+- [[FiveStarsOutOfTheEastBrocade]] - artifact previewed at the end and treated in 汉纪 689-3.
 - [[WesternRegionsProtectorate]] - Han frontier institution that explains Jingjue's formal regional setting.
 - [[ShanshanKingdomLateHan]] - nearby Western Regions polity named in the same pressure field.
 - [[Xuanzang]] and [[JourneyToTheWest]] - later travel and literary memory through which the episode connects Supi/Eastern Women's Kingdom material to broader cultural imagination.
 - [[HistoricalDetectiveReasoning]] - reasoning style used by the episode when it weighs text, archaeology, and rival disappearance explanations.
 
 ## Contradictions
-- Textual discrepancy: Hanji 689-2 gives the brocade phrase as "五星出东方利中国," while the existing [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|Hanji 689-3]] source note uses "五星出东方，立中国." The wiki keeps the exact character unresolved at the source-note layer.
-- No settled contradiction was identified on Jingjue's disappearance. Hanji 689-2 narrows emphasis toward Supi invasion, while Hanji 689-3 keeps Jingjue's disappearance multi-causal through lost Han protection, regional pressure, and environmental stress.
+- Textual discrepancy: 汉纪 689-2 gives the brocade phrase as "五星出东方利中国," while the existing [[zizhi-tongjian-hanji-689-3-wuxing-chu-dongfang-li-zhongguo-yige-gulao-yuyan-de-xiandai-jiedu-lqccxzbvg-jziurfxm5tr5k4jlvq|汉纪 689-3]] source note uses "五星出东方，立中国." The wiki keeps the exact character unresolved at the source-note layer.
+- No settled contradiction was identified on Jingjue's disappearance. 汉纪 689-2 narrows emphasis toward Supi invasion, while 汉纪 689-3 keeps Jingjue's disappearance multi-causal through lost Han protection, regional pressure, and environmental stress.

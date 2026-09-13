@@ -16,17 +16,17 @@ This concept is adjacent to [[RetainerReciprocityEthic|士为知己者死]], but
 
 It also differs from [[TalentAttractionThroughRespect|礼贤下士式人才吸附]]. Respect may draw talent to a ruler's door; strategic recognition keeps the talent there because counsel can become action.
 
-[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] makes the Dong Zhao variant more explicit. [[DongZhaoLateHan|董昭]] is still attached to [[ZhangYangLateHan|张杨]] but argues that [[YuanShao|袁绍]] and [[CaoCao|曹操]] will not stay aligned and that Cao Cao is the real future hero. His recognition is therefore not only personal fit; it is a field judgment that turns into [[ProactiveAdviserInitiative|主动补位式谋臣]] through the [[HeneiCommandery|河内郡]] route-opening.
+[[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|汉纪 968]] makes the Dong Zhao variant more explicit. [[DongZhaoLateHan|董昭]] is still attached to [[ZhangYangLateHan|张杨]] but argues that [[YuanShao|袁绍]] and [[CaoCao|曹操]] will not stay aligned and that Cao Cao is the real future hero. His recognition is therefore not only personal fit; it is a field judgment that turns into [[ProactiveAdviserInitiative|主动补位式谋臣]] through the [[HeneiCommandery|河内郡]] route-opening.
 
-[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]] adds a less dialogic late-Han variant through [[DongZhaoLateHan|董昭]]. Dong Zhao is not shown being personally understood by Cao Cao in the Zhang Liang sense. Instead, while still attached to [[ZhangYangLateHan|张杨]], he recognizes [[CaoCao|曹操]] as the actor with the better future and begins acting to make Cao Cao's path to [[EmperorXianOfHan|汉献帝]] workable. The episode therefore broadens the concept from "the patron understands me" to "I understand which patron can turn my work into history."
+[[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|汉纪 1003]] adds a less dialogic late-Han variant through [[DongZhaoLateHan|董昭]]. Dong Zhao is not shown being personally understood by Cao Cao in the Zhang Liang sense. Instead, while still attached to [[ZhangYangLateHan|张杨]], he recognizes [[CaoCao|曹操]] as the actor with the better future and begins acting to make Cao Cao's path to [[EmperorXianOfHan|汉献帝]] workable. The episode therefore broadens the concept from "the patron understands me" to "I understand which patron can turn my work into history."
 
 ## Key Claims
 - A strategist's loyalty can begin with being understood before it becomes formal office or material reward.
 - Recognition is practical: the patron must be able to grasp, adopt, and act on difficult counsel.
 - A weaker patron may outcompete stronger claimants if the match between advice and decision-making is better.
 - The source frames Liu Bang's ability to understand Zhang Liang as an early seed of their later ruler-strategist partnership.
-- Hanji 968 adds that recognition can rest on anticipating a future break between current allies and choosing the actor whose platform can absorb one's work.
-- Hanji 1003 adds that recognition can precede formal service: an adviser may first identify the future center of action, then prove the match through initiative.
+- 汉纪 968 adds that recognition can rest on anticipating a future break between current allies and choosing the actor whose platform can absorb one's work.
+- 汉纪 1003 adds that recognition can precede formal service: an adviser may first identify the future center of action, then prove the match through initiative.
 
 ## Connections
 - [[ZhangLiang|张良]] and [[LiuBang|刘邦]] - source case.

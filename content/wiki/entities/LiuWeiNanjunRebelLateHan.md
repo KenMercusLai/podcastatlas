@@ -12,11 +12,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-刘伟 / Liu Wei is the Nanjun rebel figure in [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] who joins [[LiuWenQingheRebelLateHan|刘文]] in a failed attempt to install [[LiuSuanLateHan|刘蒜]] as emperor. The source labels him a Nanjun "yaozei," so this page keeps his identity bounded to the plot rather than reconstructing a broader movement.
+刘伟 / Liu Wei is the Nanjun rebel figure in [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] who joins [[LiuWenQingheRebelLateHan|刘文]] in a failed attempt to install [[LiuSuanLateHan|刘蒜]] as emperor. The source labels him a Nanjun "yaozei," so this page keeps his identity bounded to the plot rather than reconstructing a broader movement.
 
 ## Current Profile
 
-Hanji 829 pairs Liu Wei with Liu Wen in the eleventh-month incident. Their claim is succession-centered: Qinghe King Liu Suan, who had earlier been preferred by [[LiGuLateHan|李固]], should rule the realm instead of [[EmperorHuanOfHan|汉桓帝]].
+汉纪 829 pairs Liu Wei with Liu Wen in the eleventh-month incident. Their claim is succession-centered: Qinghe King Liu Suan, who had earlier been preferred by [[LiGuLateHan|李固]], should rule the realm instead of [[EmperorHuanOfHan|汉桓帝]].
 
 The plot does not mature into a regime. After the plan leaks, Liu Wei and Liu Wen abduct [[XieHaoQingheLateHan|谢浩]] and offer him high office. Xie Hao refuses. Liu Wen kills Xie Hao, and the court later arrests and executes both rebels.
 
@@ -30,10 +30,10 @@ The plot does not mature into a regime. After the plan leaks, Liu Wei and Liu We
 
 ## Evidence
 
-- Rebel label and origin: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] identifies Liu Wei as a Nanjun "yaozei" in the incident.
-- Succession claim: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Liu Wei and Liu Wen declare that Liu Suan should rule the realm.
-- Abduction branch: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says they seize Xie Hao after the plot leaks and promise him a high office.
-- Suppression: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says the court orders Liu Wen and Liu Wei arrested and executed.
+- Rebel label and origin: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] identifies Liu Wei as a Nanjun "yaozei" in the incident.
+- Succession claim: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says Liu Wei and Liu Wen declare that Liu Suan should rule the realm.
+- Abduction branch: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says they seize Xie Hao after the plot leaks and promise him a high office.
+- Suppression: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says the court orders Liu Wen and Liu Wei arrested and executed.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ The source does not identify Liu Wei's family line, exact followers, office, or 
 
 ## What Changed
 
-- Created Liu Wei as the Nanjun co-plotter in Hanji 829's failed Liu Suan enthronement incident.
+- Created Liu Wei as the Nanjun co-plotter in 汉纪 829's failed Liu Suan enthronement incident.
 - Kept Liu Wei disambiguated from unrelated Liu Wei routes through a stable Nanjun-rebel suffix.
 
 ## Relationships

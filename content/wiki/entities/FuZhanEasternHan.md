@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 
 ## Overview
 
-Fu Zhan / 傅湛 enters the wiki as the Eastern Han official whose remonstrance redirects [[LiuXiu|光武帝刘秀]] away from personally attacking [[PengChongEasternHan|彭宠]] in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]]. He argues that closer internal regions are still unsettled and that Yuyang is a distant, harder target, making the proposed expedition a case of abandoning the near and easy for the far and hard.
+Fu Zhan / 傅湛 enters the wiki as the Eastern Han official whose remonstrance redirects [[LiuXiu|光武帝刘秀]] away from personally attacking [[PengChongEasternHan|彭宠]] in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]]. He argues that closer internal regions are still unsettled and that Yuyang is a distant, harder target, making the proposed expedition a case of abandoning the near and easy for the far and hard.
 
 ## Current Profile
 
@@ -27,9 +27,9 @@ Fu Zhan's profile is therefore a remonstrance-and-sequencing case. He does not d
 
 ## Evidence
 
-- Campaign setting: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Liu Xiu reaches Lu Nu and plans to personally attack Peng Chong.
-- Remonstrance content: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Fu Zhan points to unsettled Yan, Yu, Qing, and Yi regions and criticizes the Yuyang expedition as舍近求远.
-- Policy result: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Liu Xiu accepts the advice and no longer personally attacks Peng Chong.
+- Campaign setting: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Liu Xiu reaches Lu Nu and plans to personally attack Peng Chong.
+- Remonstrance content: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Fu Zhan points to unsettled Yan, Yu, Qing, and Yi regions and criticizes the Yuyang expedition as舍近求远.
+- Policy result: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Liu Xiu accepts the advice and no longer personally attacks Peng Chong.
 
 ## Qualifications
 

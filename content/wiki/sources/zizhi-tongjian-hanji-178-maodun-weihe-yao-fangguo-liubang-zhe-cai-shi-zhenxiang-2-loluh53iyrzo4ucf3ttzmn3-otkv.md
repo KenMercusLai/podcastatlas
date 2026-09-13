@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178 part 1]] after [[LiuBang|刘邦]] escapes the [[BaidengEncirclement|白登之围]]. It first records Liu Bang's reward for [[ChenPing|陈平]] by making him marquis of [[QuniCounty|曲逆]], then follows the return route through [[Handan|邯郸]], where Liu Bang's coarse treatment of [[ZhangAo|张敖]] provokes [[GuanGao|贯高]] and [[ZhaoWuZhaoMinister|赵午]] into a source-scoped assassination conspiracy. The final sections move from [[LiuRuyi|刘如意]]'s appointment in [[DaiKingdomEarlyHan|代国]] to [[WeiyangPalace|未央宫]], [[XiaoHe|萧何]]'s palace-grandness argument, [[SimaGuang|司马光]]'s [[UntimelyExtravagance|时绌举赢]]-style criticism, and Liu Bang's post-Baideng turn back toward [[HanXiongnuHeqinPolicy|汉匈和亲政策]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|汉纪 178 part 1]] after [[LiuBang|刘邦]] escapes the [[BaidengEncirclement|白登之围]]. It first records Liu Bang's reward for [[ChenPing|陈平]] by making him marquis of [[QuniCounty|曲逆]], then follows the return route through [[Handan|邯郸]], where Liu Bang's coarse treatment of [[ZhangAo|张敖]] provokes [[GuanGao|贯高]] and [[ZhaoWuZhaoMinister|赵午]] into a source-scoped assassination conspiracy. The final sections move from [[LiuRuyi|刘如意]]'s appointment in [[DaiKingdomEarlyHan|代国]] to [[WeiyangPalace|未央宫]], [[XiaoHe|萧何]]'s palace-grandness argument, [[SimaGuang|司马光]]'s [[UntimelyExtravagance|时绌举赢]]-style criticism, and Liu Bang's post-Baideng turn back toward [[HanXiongnuHeqinPolicy|汉匈和亲政策]].
 
 ## Key Claims
 - Liu Bang's reward of Chen Ping at 曲逆 turns Baideng survival into a visible post-crisis merit grant: Chen Ping is not only useful in covert danger but receives a full county-level honor after repeated rescue contributions.
@@ -47,5 +47,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This source extends [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178 part 1]] rather than reversing it: part 1 explains the Baideng release and heqin proposal; part 2 shows the political aftermath on the return route and reintroduces heqin as the forward policy.
+- This source extends [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|汉纪 178 part 1]] rather than reversing it: part 1 explains the Baideng release and heqin proposal; part 2 shows the political aftermath on the return route and reintroduces heqin as the forward policy.
 - The source's dating of Lu Yuan Princess's marriage to Zhang Ao and the claim that Xiao He was giving Liu Bang a face-saving reason for palace grandeur are recorded as source-scoped interpretations, not as settled independent chronology.

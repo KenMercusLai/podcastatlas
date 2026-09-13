@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|Hanji 480]] creates this concept through [[KuangHengWesternHan|匡衡]]'s memorial to [[HanYuandi|汉元帝]]. Kuang Heng argues that instruction need not be pushed door to door if the right people occupy office, officials practice mutual deference, and the capital offers a model worth copying. The source treats [[ChangAnHanCapital|长安]] as the hinge because people from commanderies and kingdoms come there, observe its customs, and carry those examples home.
+[[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|汉纪 480]] creates this concept through [[KuangHengWesternHan|匡衡]]'s memorial to [[HanYuandi|汉元帝]]. Kuang Heng argues that instruction need not be pushed door to door if the right people occupy office, officials practice mutual deference, and the capital offers a model worth copying. The source treats [[ChangAnHanCapital|长安]] as the hinge because people from commanderies and kingdoms come there, observe its customs, and carry those examples home.
 
 The concept therefore turns "capital custom" into state capacity. Court disputes, officeholder arrogance, greed, luxury, and pleasure-seeking are not private elite vices; they teach subjects how power behaves. Conversely, capital reform matters because it changes what the realm sees as honorable, normal, and imitable.
 
@@ -28,9 +28,9 @@ The concept therefore turns "capital custom" into state capacity. Court disputes
 
 ## Evidence
 
-- Court as mold: [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|Hanji 480]] says Kuang Heng compares the court to a mold whose shape is copied by the realm.
-- Capital as source: [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|Hanji 480]] says Chang'an directly receives imperial instruction but does not show better customs than remote places.
-- Imitation path: [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|Hanji 480]] says people arriving from commanderies and kingdoms cannot find good examples to imitate and may copy luxury and indulgence instead.
+- Court as mold: [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|汉纪 480]] says Kuang Heng compares the court to a mold whose shape is copied by the realm.
+- Capital as source: [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|汉纪 480]] says Chang'an directly receives imperial instruction but does not show better customs than remote places.
+- Imitation path: [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|汉纪 480]] says people arriving from commanderies and kingdoms cannot find good examples to imitate and may copy luxury and indulgence instead.
 
 ## Counterevidence & Qualifications
 
@@ -38,11 +38,11 @@ This concept is grounded in Kuang Heng's political-moral reasoning, not in a mea
 
 ## What Changed
 
-- Created the concept from Hanji 480's argument that Chang'an and court conduct are the source and hub of broader customs.
+- Created the concept from 汉纪 480's argument that Chang'an and court conduct are the source and hub of broader customs.
 
 ## Related Concepts
 
-- [[AmnestyCannotSubstituteGovernance|赦令不能替代治理]] - paired Hanji 480 concept because amnesty fails without repaired example and instruction.
+- [[AmnestyCannotSubstituteGovernance|赦令不能替代治理]] - paired 汉纪 480 concept because amnesty fails without repaired example and instruction.
 - [[LiAsPoliticalOrder|礼制政治秩序]] - adjacent frame because visible hierarchy and conduct are treated as public order.
 - [[CourtCoreRectification|朝廷核心校正式治理]] - later-Han sibling concept where repairing the court center precedes outer governance repair.
 - [[OmenCodedRemonstrance|天象灾异包装式进谏]] - speech route through which Kuang Heng presents the capital-custom argument.

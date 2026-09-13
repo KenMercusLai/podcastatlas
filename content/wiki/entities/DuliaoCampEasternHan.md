@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-都辽营 / Duliao Camp is the Eastern Han frontier institution created in Hanji 737 after [[ZhengZhongFrontierEasternHan|郑众]] detects a [[SouthernXiongnu|南匈奴]] attempt to coordinate with [[NorthernXiongnuLateHan|北匈奴]]. The page treats it as a source-bounded institutional response to collusion risk: troops are stationed at Wuyuan under a provisional Duliao general arrangement to keep the submitted Xiongnu branch from sliding back toward the northern rival.
+都辽营 / Duliao Camp is the Eastern Han frontier institution created in 汉纪 737 after [[ZhengZhongFrontierEasternHan|郑众]] detects a [[SouthernXiongnu|南匈奴]] attempt to coordinate with [[NorthernXiongnuLateHan|北匈奴]]. The page treats it as a source-bounded institutional response to collusion risk: troops are stationed at Wuyuan under a provisional Duliao general arrangement to keep the submitted Xiongnu branch from sliding back toward the northern rival.
 
 ## Current Profile
 
-Hanji 737 says Da sinong Geng Guo had earlier proposed creating a Duliao general at Wuyuan to prevent Southern Xiongnu flight, but the court did not initially adopt it. The need becomes concrete when [[XuguDuhouSouthernXiongnu|虚骨都侯]] resents Han contact with Northern Xiongnu, secretly seeks northern help, and plans rebellion.
+汉纪 737 says Da sinong Geng Guo had earlier proposed creating a Duliao general at Wuyuan to prevent Southern Xiongnu flight, but the court did not initially adopt it. The need becomes concrete when [[XuguDuhouSouthernXiongnu|虚骨都侯]] resents Han contact with Northern Xiongnu, secretly seeks northern help, and plans rebellion.
 
 Zheng Zhong detects the plot while crossing the frontier, captures Xugu Duhou's messenger, and memorializes the danger. Han then creates Duliaoying, has Wu Tang act as Duliao general, and stations troops at Wuyuan. The institution is therefore born from a credibility problem: contact with an enemy branch can unsettle an allied branch unless the court adds surveillance and military containment.
 
@@ -28,10 +28,10 @@ Zheng Zhong detects the plot while crossing the frontier, captures Xugu Duhou's 
 
 ## Evidence
 
-- Earlier proposal: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Geng Guo had proposed establishing a Duliao general at Wuyuan to prevent Southern Xiongnu flight.
-- Plot trigger: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Xugu Duhou secretly seeks Northern Xiongnu help and plans rebellion after resenting Han-Northern envoy contact.
-- Intelligence and capture: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Zheng Zhong detects the movement and captures the messenger.
-- Creation and staffing: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Han establishes Duliaoying, appoints Wu Tang acting Duliao general, and stations troops at Wuyuan.
+- Earlier proposal: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Geng Guo had proposed establishing a Duliao general at Wuyuan to prevent Southern Xiongnu flight.
+- Plot trigger: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Xugu Duhou secretly seeks Northern Xiongnu help and plans rebellion after resenting Han-Northern envoy contact.
+- Intelligence and capture: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Zheng Zhong detects the movement and captures the messenger.
+- Creation and staffing: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Han establishes Duliaoying, appoints Wu Tang acting Duliao general, and stations troops at Wuyuan.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The current page stays at the institutional level and does not claim a complete 
 
 ## What Changed
 
-- Created the page from Hanji 737's Duliaoying creation notice.
+- Created the page from 汉纪 737's Duliaoying creation notice.
 - Connected the camp to Zheng Zhong's intelligence role and the wider frontier credibility problem.
 
 ## Relationships

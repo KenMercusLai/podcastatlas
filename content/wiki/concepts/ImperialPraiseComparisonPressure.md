@@ -14,7 +14,7 @@ Imperial praise comparison pressure is the court-politics pattern where a ruler'
 
 ## Current Synthesis
 
-Hanji 708 grounds the concept in [[LiuXiu|Liu Xiu]]'s mourning for [[JiZunEasternHan|Ji Zun]]. Liu Xiu's grief is real and ritually visible: he wears mourning clothes, cries over Ji Zun's coffin, personally sacrifices after burial, and repeatedly asks in court how he can again obtain such a patriotic and public-minded official.
+汉纪 708 grounds the concept in [[LiuXiu|Liu Xiu]]'s mourning for [[JiZunEasternHan|Ji Zun]]. Liu Xiu's grief is real and ritually visible: he wears mourning clothes, cries over Ji Zun's coffin, personally sacrifices after burial, and repeatedly asks in court how he can again obtain such a patriotic and public-minded official.
 
 The political problem is not that Ji Zun is overpraised as a historical fact. The problem is the audience and repetition. When a living ruler repeatedly names one dead minister as the standard of loyal service, other ministers can hear the praise as a negative evaluation of themselves. [[YaoQiEasternHan|Yao Qi]] makes that effect explicit, warning that ministers are ashamed and frightened, and Liu Xiu stops repeating the lament.
 
@@ -28,10 +28,10 @@ The political problem is not that Ji Zun is overpraised as a historical fact. Th
 
 ## Evidence
 
-- Model official: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] presents Ji Zun as clean, careful, disciplined, public-minded, and thin-burial oriented.
-- Repeated praise: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] says Liu Xiu keeps lamenting in court that he wants another official like Ji Zun.
-- Audience effect: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] says Yao Qi explains that the ministers feel ashamed and frightened by the repeated mourning praise.
-- Correction: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] says Liu Xiu becomes alert to the problem and stops repeating the lament.
+- Model official: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|汉纪 708]] presents Ji Zun as clean, careful, disciplined, public-minded, and thin-burial oriented.
+- Repeated praise: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|汉纪 708]] says Liu Xiu keeps lamenting in court that he wants another official like Ji Zun.
+- Audience effect: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|汉纪 708]] says Yao Qi explains that the ministers feel ashamed and frightened by the repeated mourning praise.
+- Correction: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|汉纪 708]] says Liu Xiu becomes alert to the problem and stops repeating the lament.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The source does not prove that Liu Xiu intended to threaten or demote other mini
 
 ## What Changed
 
-- Created the concept from Hanji 708 to distinguish court comparison pressure from ordinary grief, formal censure, or material reward allocation.
+- Created the concept from 汉纪 708 to distinguish court comparison pressure from ordinary grief, formal censure, or material reward allocation.
 
 ## Related Concepts
 

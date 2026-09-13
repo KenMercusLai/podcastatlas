@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[HanXin|韩信]]'s early-biography branch after [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145 part 1]]. It argues that Han Xin's later military brilliance should be read through talent, possible early training, long study of [[SunziBingfa|《孙子兵法》]], and an unusual capacity for [[GreatCourageUnderHumiliation|忍辱大勇]]. The episode keeps moving from biography into decision philosophy: anger and shame are temporary, while lost life, failed action, and ruined state capacity are often irreversible.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[HanXin|韩信]]'s early-biography branch after [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|汉纪 145 part 1]]. It argues that Han Xin's later military brilliance should be read through talent, possible early training, long study of [[SunziBingfa|《孙子兵法》]], and an unusual capacity for [[GreatCourageUnderHumiliation|忍辱大勇]]. The episode keeps moving from biography into decision philosophy: anger and shame are temporary, while lost life, failed action, and ruined state capacity are often irreversible.
 
 ## Key Claims
 - The episode reconstructs Han Xin's early family line by linking Qin's destruction of [[HanState|韩国]] in 230 BCE to a claimed paternal flight toward [[Huaiyin|淮阴]] and Han Xin's birth around 228 BCE.
@@ -35,4 +35,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 - [[XiangLiang|项梁]], [[LiuBang|刘邦]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - timeline into Han Xin's later military stage and the Hanzhong talent field.
 
 ## Contradictions
-- No settled contradiction is recorded. This episode gives a stronger reconstruction of Han Xin's father, old-Han lineage, and family military education than [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145 part 1]], but the wiki treats those details as source-scoped inference beside the earlier evidence gap.
+- No settled contradiction is recorded. This episode gives a stronger reconstruction of Han Xin's father, old-Han lineage, and family military education than [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|汉纪 145 part 1]], but the wiki treats those details as source-scoped inference beside the earlier evidence gap.

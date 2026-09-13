@@ -14,9 +14,9 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[WangMang|王莽]]'s 7 CE regency crisis between [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] and the suppression sequence in [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]]. It starts with Wang Mang's first high-denomination currency change and gold-collection order, then follows [[ZhaiYiRebellion|翟义起义]] from Zhai Yi's anti-usurpation judgment through Liu-family coalition building, Liu Xin's figurehead enthronement, public accusations against Wang Mang, and Wang Mang's emergency defense of Chang'an and the passes.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[WangMang|王莽]]'s 7 CE regency crisis between [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] and the suppression sequence in [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|汉纪 631]]. It starts with Wang Mang's first high-denomination currency change and gold-collection order, then follows [[ZhaiYiRebellion|翟义起义]] from Zhai Yi's anti-usurpation judgment through Liu-family coalition building, Liu Xin's figurehead enthronement, public accusations against Wang Mang, and Wang Mang's emergency defense of Chang'an and the passes.
 
-The durable synthesis is that Zhai Yi's uprising begins as legitimacy warfare before it becomes the defeated rebellion of Hanji 631. Zhai Yi reads Wang Mang's "辅政" and child-heir arrangement as a test for usurpation, uses a Liu royal claimant and public indictment to name Wang Mang as a Han traitor, and briefly draws a large response; Wang Mang answers fear with mobilization, layered capital defense, and a renewed Zhougong analogy that tries to turn the crisis back into proof of his sacred guardianship.
+The durable synthesis is that Zhai Yi's uprising begins as legitimacy warfare before it becomes the defeated rebellion of 汉纪 631. Zhai Yi reads Wang Mang's "辅政" and child-heir arrangement as a test for usurpation, uses a Liu royal claimant and public indictment to name Wang Mang as a Han traitor, and briefly draws a large response; Wang Mang answers fear with mobilization, layered capital defense, and a renewed Zhougong analogy that tries to turn the crisis back into proof of his sacred guardianship.
 
 ## Key Claims
 
@@ -39,9 +39,9 @@ The durable synthesis is that Zhai Yi's uprising begins as legitimacy warfare be
 
 ## Connections
 
-- [[ZhaiYiRebellion|翟义起义]], [[WangMang|王莽]], [[RuziYing|孺子婴 / 刘婴]], and [[WesternHanDynasty|西汉]] - the episode supplies the uprising's formation, Liu-claimant, and legitimacy indictment before Hanji 631's suppression.
+- [[ZhaiYiRebellion|翟义起义]], [[WangMang|王莽]], [[RuziYing|孺子婴 / 刘婴]], and [[WesternHanDynasty|西汉]] - the episode supplies the uprising's formation, Liu-claimant, and legitimacy indictment before 汉纪 631's suppression.
 - [[LegitimacyIndictmentWarfare|正当性控诉战]] - Zhai Yi's proclamation turns Wang Mang's regency and alleged poisoning of Han Pingdi into a public right-to-punish frame.
-- [[RebellionJustifiedPowerExpansion|以叛乱反证加权]] and [[MingqiLegitimacy|名器合法性]] - this episode shows the larger crisis created by the "假皇帝" title inflation recorded in Hanji 629.
+- [[RebellionJustifiedPowerExpansion|以叛乱反证加权]] and [[MingqiLegitimacy|名器合法性]] - this episode shows the larger crisis created by the "假皇帝" title inflation recorded in 汉纪 629.
 - [[WangMangReforms|王莽改制]], [[PunitiveCurrencyEnforcementBackfire|惩罚性货币执法反噬]], and [[CurrencyCredit|货币信用]] - the opening currency and gold-collection story foreshadows later Xin monetary distrust.
 - [[WangZhengjun|王政君]] - her private relief at the uprising shows court-level recognition of Wang Mang's dangerous ambition despite limited capacity to resist.
 - [[PostUsurpationLegitimacyConsolidation|篡位后合法性整合]] and [[AuspiciousOmenPolitics|祥瑞政治]] - adjacent legitimacy technologies Wang Mang uses before and after this crisis.
@@ -49,6 +49,6 @@ The durable synthesis is that Zhai Yi's uprising begins as legitimacy warfare be
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 7 CE, after Hanji 629's 6 CE Liu Chong rising and "假皇帝" expansion, before Hanji 631's 7-8 CE defeat, punishment, corpse-pile, and fuming sequence.
+- Chronology qualification: this source backfills 7 CE, after 汉纪 629's 6 CE Liu Chong rising and "假皇帝" expansion, before 汉纪 631's 7-8 CE defeat, punishment, corpse-pile, and fuming sequence.
 - Evidence qualification: the poisoning accusation against Han Pingdi is recorded as Zhai Yi's public indictment; this source does not independently settle whether Wang Mang poisoned Pingdi.
 - Scope caution: Chen Feng, Liu Yu, Liu Xin, Liu Huang, Liu Kuang, Zhao Peng, Huo Hong, Wang Ji, Yan Qian, Wang Yun, Zhao Hui, exact office titles, troop counts, and Wang Mang's inner psychology remain source-scoped unless later notes require canonical pages.

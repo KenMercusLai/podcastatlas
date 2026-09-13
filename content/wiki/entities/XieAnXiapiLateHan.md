@@ -23,12 +23,12 @@ The court rewards Xie An by making him Marquis of Pingxiang. He is therefore a c
 - Reward recipient whose marquisate makes local service politically visible.
 
 ## Evidence
-- Local mobilization: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Xie An leads his family and local associates after Xu Feng escapes.
-- Killing Xu Feng: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Xie An ambushes Xu Feng and cuts off his head.
-- Reward conversion: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Xie An is made Marquis of Pingxiang for the action.
+- Local mobilization: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Xie An leads his family and local associates after Xu Feng escapes.
+- Killing Xu Feng: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Xie An ambushes Xu Feng and cuts off his head.
+- Reward conversion: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Xie An is made Marquis of Pingxiang for the action.
 
 ## Qualifications
-This page is source-bounded to Hanji 826 and should not be merged with later or more famous figures named Xie An. The current note does not give his family line, formal office, or post-enfeoffment career.
+This page is source-bounded to 汉纪 826 and should not be merged with later or more famous figures named Xie An. The current note does not give his family line, formal office, or post-enfeoffment career.
 
 ## What Changed
 - Created a disambiguated Xiapi Xie An page for the 145 CE local anti-bandit action.

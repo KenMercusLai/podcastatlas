@@ -13,7 +13,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] weekend episode continues the symbolic rereading of [[JourneyToTheWestConqueringDemons|《西游降魔篇》]], focusing on the film's early and middle scenes as a cultivation map inside [[ChenXuanzangConqueringDemons|陈玄奘]]'s mind. It reads the water demon as wounded compassion, [[ZhuBajie|猪八戒]] / 朱刚烈 as desire and fixation, [[DuanMissConqueringDemons|段小姐]] as hard-to-cut worldly affinity, and [[SunWukong|孙悟空]] as ideal and heart-direction. The episode sharpens the earlier Hanji 456-4 synthesis by stressing that seeing through an illusion is not the same as subduing it, and that formal abstinence can still hide attachment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] weekend episode continues the symbolic rereading of [[JourneyToTheWestConqueringDemons|《西游降魔篇》]], focusing on the film's early and middle scenes as a cultivation map inside [[ChenXuanzangConqueringDemons|陈玄奘]]'s mind. It reads the water demon as wounded compassion, [[ZhuBajie|猪八戒]] / 朱刚烈 as desire and fixation, [[DuanMissConqueringDemons|段小姐]] as hard-to-cut worldly affinity, and [[SunWukong|孙悟空]] as ideal and heart-direction. The episode sharpens the earlier 汉纪 456-4 synthesis by stressing that seeing through an illusion is not the same as subduing it, and that formal abstinence can still hide attachment.
 
 ## Key Claims
 
@@ -43,4 +43,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] weekend episode con
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source extends Hanji 456-4's symbolic interpretation with earlier-scene detail and remains bounded as one podcast reading of the film, not an exclusive account of the film or the Ming novel.
+- No settled contradiction is recorded. This source extends 汉纪 456-4's symbolic interpretation with earlier-scene detail and remains bounded as one podcast reading of the film, not an exclusive account of the film or the Ming novel.

@@ -8,19 +8,19 @@ last_updated: 2026-08-23
 
 # Celebratory Summons Entrapment / 报捷祝贺式诱捕
 
-Celebratory summons entrapment / 报捷祝贺式诱捕 enters the wiki through [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] as the mechanism by which [[LuZhi|吕雉]] and [[XiaoHe|萧何]] lure [[HanXin|韩信]] into [[ChanglePalace|长乐宫]]. After Han Xin's alleged plan is reported by a retainer's brother, Lu Zhi cannot rely on a direct summons because Han Xin may claim illness and refuse to come.
+Celebratory summons entrapment / 报捷祝贺式诱捕 enters the wiki through [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|汉纪 182 part 2]] as the mechanism by which [[LuZhi|吕雉]] and [[XiaoHe|萧何]] lure [[HanXin|韩信]] into [[ChanglePalace|长乐宫]]. After Han Xin's alleged plan is reported by a retainer's brother, Lu Zhi cannot rely on a direct summons because Han Xin may claim illness and refuse to come.
 
 The device is to announce falsely that [[LiuBang|刘邦]]'s campaign has already captured or killed [[ChenXi|陈豨]]. That makes a palace congratulations gathering look like ordinary court ritual rather than a targeted arrest, and it lets Xiao He tell Han Xin that even a sick man should appear for news of that magnitude.
 
-The concept is adjacent to [[RitualTourSummonsEntrapment|巡游会侯式诱捕]] from Hanji 172. Both use official protocol as the carrier for coercion, but the earlier case lures Han Xin through the emperor's itinerary and vassal gathering, while this case uses victory news, ministerial congratulations, and Xiao He's personal credibility.
+The concept is adjacent to [[RitualTourSummonsEntrapment|巡游会侯式诱捕]] from 汉纪 172. Both use official protocol as the carrier for coercion, but the earlier case lures Han Xin through the emperor's itinerary and vassal gathering, while this case uses victory news, ministerial congratulations, and Xiao He's personal credibility.
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]] adds what happens after the summons succeeds. The episode keeps the core mechanism the same, but deepens the controlled-space outcome with the source-scoped "three not die" lore: once Han Xin is inside Changle Palace, the false celebration has already converted court attendance into physical helplessness. The trap therefore includes not only misleading entry but the removal of ordinary avenues for appeal, force, or refusal.
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|汉纪 182 part 3]] adds what happens after the summons succeeds. The episode keeps the core mechanism the same, but deepens the controlled-space outcome with the source-scoped "three not die" lore: once Han Xin is inside Changle Palace, the false celebration has already converted court attendance into physical helplessness. The trap therefore includes not only misleading entry but the removal of ordinary avenues for appeal, force, or refusal.
 
-[[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]] keeps the mechanism but changes the suspected initiator logic. The host stresses that Liu Bang had not returned to [[ChangAnHanCapital|长安]] when Han Xin was killed, so the false-victory summons can be read as a capital-side operation by Lu Zhi and Xiao He rather than simply an imperial purge delegated from afar. The concept therefore tracks the protocol trap separately from the contested question of whether the underlying treason accusation was true.
+[[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|汉纪 183]] keeps the mechanism but changes the suspected initiator logic. The host stresses that Liu Bang had not returned to [[ChangAnHanCapital|长安]] when Han Xin was killed, so the false-victory summons can be read as a capital-side operation by Lu Zhi and Xiao He rather than simply an imperial purge delegated from afar. The concept therefore tracks the protocol trap separately from the contested question of whether the underlying treason accusation was true.
 
 ## Key Claims
-- Hanji 183 adds that the same false-celebration mechanism can carry different causal readings: proven plot response in one source layer, possible frame-up/capital-faction action in another.
-- Hanji 182 part 3 adds that the trap's success is measured by loss of options after entry, not only by the initial deception.
+- 汉纪 183 adds that the same false-celebration mechanism can carry different causal readings: proven plot response in one source layer, possible frame-up/capital-faction action in another.
+- 汉纪 182 part 3 adds that the trap's success is measured by loss of options after entry, not only by the initial deception.
 - Court celebration can be weaponized when attendance norms make refusal suspicious.
 - A false report can function as logistical control, not only misinformation.
 - The most effective lure may be a trusted benefactor whose prior help makes the target lower his guard.
@@ -28,9 +28,9 @@ The concept is adjacent to [[RitualTourSummonsEntrapment|巡游会侯式诱捕]]
 - The episode makes "成也萧何，败也萧何" a political-technology claim: the same relationship that enabled Han Xin's rise becomes the channel of his fall.
 
 ## Connections
-- [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|Hanji 183]], [[LuZhi|吕雉]], [[XiaoHe|萧何]], [[LiuBang|刘邦]], and [[TreasonAccusationTrap|谋反指控陷阱]] - same mechanism under the source-scoped absent-emperor / possible-frame-up reading.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|Hanji 182 part 3]], [[PowerExitTrap|权力退场困境]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - post-entry helplessness and the cost of late political misreading.
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] - source page.
+- [[zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l|汉纪 183]], [[LuZhi|吕雉]], [[XiaoHe|萧何]], [[LiuBang|刘邦]], and [[TreasonAccusationTrap|谋反指控陷阱]] - same mechanism under the source-scoped absent-emperor / possible-frame-up reading.
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-3-lq9fif0ow90zsyrmovhwxb7-qicr|汉纪 182 part 3]], [[PowerExitTrap|权力退场困境]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - post-entry helplessness and the cost of late political misreading.
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|汉纪 182 part 2]] - source page.
 - [[HanXin|韩信]], [[XiaoHe|萧何]], [[LuZhi|吕雉]], and [[ChanglePalace|长乐宫]] - target, lure, decision-maker, and controlled space.
 - [[ChenXi|陈豨]], [[ChenXiRebellion|陈豨之乱]], and [[LiuBang|刘邦]] - false victory news and absent emperor context.
 - [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[TreasonAccusationTrap|谋反指控陷阱]], and [[CovertPoliticalTechnology|阴谋式政治技术]] - adjacent protocol, accusation, and hidden-technique frames.

@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-申屠圣 / Shentu Sheng enters the wiki through [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] as the named leader of the Yangshuo 3 / 22 BCE [[YingchuanIronOfficeUprising|颍川铁官徒起义]].
+申屠圣 / Shentu Sheng enters the wiki through [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] as the named leader of the Yangshuo 3 / 22 BCE [[YingchuanIronOfficeUprising|颍川铁官徒起义]].
 
 ## Current Profile
 
@@ -29,21 +29,21 @@ His significance in the episode is double. At the event level, he gives the upri
 ## Evidence
 
 Leadership:
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] names Shentu Sheng as the head of the iron-office convict uprising.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] names Shentu Sheng as the head of the iron-office convict uprising.
 
 Initial mobilization:
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] says he links about 180 people, calls himself general, seizes weapons, and kills the iron official and commandery clerk.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] says he links about 180 people, calls himself general, seizes weapons, and kills the iron official and commandery clerk.
 
 Interpretive role:
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] uses the failed revolt to argue that rebel anger still needs organization, discipline, strategic vision, legitimacy, and public support to become durable political power.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] uses the failed revolt to argue that rebel anger still needs organization, discipline, strategic vision, legitimacy, and public support to become durable political power.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 523. The episode does not provide Shentu Sheng's background, family, legal status before the revolt, later fate, or a full campaign record.
+This page is source-scoped to 汉纪 523. The episode does not provide Shentu Sheng's background, family, legal status before the revolt, later fate, or a full campaign record.
 
 ## What Changed
 
-- Created this page from Hanji 523 as the leader page for the Yingchuan iron-office uprising.
+- Created this page from 汉纪 523 as the leader page for the Yingchuan iron-office uprising.
 
 ## Relationships
 

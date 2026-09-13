@@ -14,7 +14,7 @@ Key operator removal risk / 关键执行者移除风险 is the crisis-management
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] grounds the concept in [[TianKuangXinOfficial|田邝]]'s removal by [[WangMang|王莽]]. Tian Kuang acts without authorization to defend Yiping, wins enough for Wang Mang to place Qingzhou and Xuzhou affairs under him, and then gives a practical diagnosis of underreporting, failed command, envoy disruption, and surrender distrust.
+[[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] grounds the concept in [[TianKuangXinOfficial|田邝]]'s removal by [[WangMang|王莽]]. Tian Kuang acts without authorization to defend Yiping, wins enough for Wang Mang to place Qingzhou and Xuzhou affairs under him, and then gives a practical diagnosis of underreporting, failed command, envoy disruption, and surrender distrust.
 
 The risk emerges because the same competence that solves the field problem creates court anxiety. The source says Wang Mang fears Tian Kuang's ability and merit, sends a sealed edict to replace him immediately, and recalls him to Chang'an. The field consequence is direct: the Qi area becomes disorderly again. The concept is adjacent to [[BattlefieldCommanderReplacementRisk|阵前换将风险]], but it is broader than battlefront command replacement because it includes local governance, food control, civilian relocation, and trust management.
 
@@ -28,11 +28,11 @@ The risk emerges because the same competence that solves the field problem creat
 
 ## Evidence
 
-- Working local position: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Tian Kuang's mobilization deters Fan Chong's group from Yiping.
-- Broader field authority: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang later appoints Tian Kuang to act over Qingzhou and Xuzhou affairs.
-- Practical plan: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Tian Kuang proposes local officials, clear rewards and punishments, city defense, food storage, and fewer disruptive envoys.
-- Political removal: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang fears Tian Kuang's ability and merit and secretly replaces him.
-- Field deterioration: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Qi becomes disorderly again after Tian Kuang is recalled.
+- Working local position: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Tian Kuang's mobilization deters Fan Chong's group from Yiping.
+- Broader field authority: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Wang Mang later appoints Tian Kuang to act over Qingzhou and Xuzhou affairs.
+- Practical plan: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Tian Kuang proposes local officials, clear rewards and punishments, city defense, food storage, and fewer disruptive envoys.
+- Political removal: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Wang Mang fears Tian Kuang's ability and merit and secretly replaces him.
+- Field deterioration: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Qi becomes disorderly again after Tian Kuang is recalled.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The source does not prove Tian Kuang would have permanently settled Qingzhou, Xu
 
 ## What Changed
 
-- Created the concept from Hanji 659 to capture the "do not move core talent lightly" lesson as a governance and command-risk pattern.
+- Created the concept from 汉纪 659 to capture the "do not move core talent lightly" lesson as a governance and command-risk pattern.
 
 ## Related Concepts
 

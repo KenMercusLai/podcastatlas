@@ -23,17 +23,17 @@ The wiki does not yet hold a full independent profile of Xu Gong's office, facti
 - His page should remain distinct from the anonymous retainers, who are not yet individually documented.
 
 ## Evidence
-- Posthumous retainer revenge: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] identifies the attackers as Xu Gong's retainers and frames the attack as vengeance.
-- Local conflict residue: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] places the attack inside Sun Ce's Jiangdong consolidation arc, making the grievance part of the region's unfinished pacification.
+- Posthumous retainer revenge: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] identifies the attackers as Xu Gong's retainers and frames the attack as vengeance.
+- Local conflict residue: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] places the attack inside Sun Ce's Jiangdong consolidation arc, making the grievance part of the region's unfinished pacification.
 
 ## Qualifications
 This page is deliberately narrow. It does not infer a complete Xu Gong biography from the episode, and it keeps the assassins unnamed because the source note does not develop them as separate figures.
 
 ## What Changed
-- Created this page from Hanji 1045 to ground Xu Gong's role in Sun Ce's assassination.
+- Created this page from 汉纪 1045 to ground Xu Gong's role in Sun Ce's assassination.
 
 ## Relationships
 - [[SunCe|孙策]] - target of the vengeance carried out by Xu Gong's retainers.
 - [[SunCeAssassination|孙策遇刺]] - event in which Xu Gong's posthumous followers become active agents.
 - [[LeaderPersonalExposure|领导者轻身涉险]] - protective gap exploited by the retainers' revenge.
-- [[AssassinationAccessCredential|刺杀接近凭证]] - adjacent access pattern, though Hanji 1045 centers on hunting exposure rather than a formal credential.
+- [[AssassinationAccessCredential|刺杀接近凭证]] - adjacent access pattern, though 汉纪 1045 centers on hunting exposure rather than a formal credential.

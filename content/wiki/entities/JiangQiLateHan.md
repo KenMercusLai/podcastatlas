@@ -25,9 +25,9 @@ Yuan Shao's refusal leaves the convoy protection thinner than Ju Shou thinks nec
 - Source-bounded figure whose importance is tied to an unadopted assignment.
 
 ## Evidence
-- Proposed patrol role: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Ju Shou recommends sending Jiang Qi to protect and patrol around Chunyu Qiong's grain convoy.
-- Refusal context: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Yuan Shao does not adopt Ju Shou's warning.
-- Campaign significance: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] places the rejected patrol before Xu You identifies Gushi and Wuchao as vulnerable supply sites.
+- Proposed patrol role: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Ju Shou recommends sending Jiang Qi to protect and patrol around Chunyu Qiong's grain convoy.
+- Refusal context: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Yuan Shao does not adopt Ju Shou's warning.
+- Campaign significance: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] places the rejected patrol before Xu You identifies Gushi and Wuchao as vulnerable supply sites.
 
 ## Qualifications
 The source gives Jiang Qi no independent biography. This page records only his role as the named unchosen solution inside Ju Shou's convoy-defense advice.

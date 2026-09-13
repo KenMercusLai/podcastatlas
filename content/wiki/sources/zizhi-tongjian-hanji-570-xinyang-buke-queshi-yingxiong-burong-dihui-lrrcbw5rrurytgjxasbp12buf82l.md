@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], immediately before [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]]'s Chengdi death-and-heir accusation sequence. It centers on [[GengYuWesternHan|耿育]]'s earlier memorial defending [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] after their distant campaign against [[ZhizhiChanyu|郅支单于]], arguing that a court cannot publicly use heroic merit while privately leaving the hero disgraced.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], immediately before [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]]'s Chengdi death-and-heir accusation sequence. It centers on [[GengYuWesternHan|耿育]]'s earlier memorial defending [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] after their distant campaign against [[ZhizhiChanyu|郅支单于]], arguing that a court cannot publicly use heroic merit while privately leaving the hero disgraced.
 
 The durable synthesis is about merit, fault, and state credibility. The episode does not deny that Chen Tang later had real misconduct around the Changling works; it argues that proportional judgment matters because erasing or degrading great service chills future strategic initiative and weakens the cultural memory through which a polity teaches people what sacrifice is worth.
 

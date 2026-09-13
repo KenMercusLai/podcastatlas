@@ -13,9 +13,9 @@ knowledge_schema: synthesis-v1
 刘宠 / Liu Chong is the late-Han ministerial Liu Chong, distinct from Chen king Liu Chong. His bounded profile now joins a September 161 appointment notice as sikong, a Kuaiji local-governance and farewell-token story, and later Three Excellencies office movement. The main synthesis is that Liu Chong's public value comes from clean, burden-reducing administration that makes high office plausible rather than from court maneuvering.
 
 ## Current Profile
-The appointment layer in [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] places Liu Chong after Huang Qiong is removed as sikong: the court appoints Dahonglu Liu Chong of Donglai to the post. The episode explicitly uses the notice to tee up Liu Chong's later virtues, presenting him as plain-living, clean, and one of the remembered exemplars of廉.
+The appointment layer in [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] places Liu Chong after Huang Qiong is removed as sikong: the court appoints Dahonglu Liu Chong of Donglai to the post. The episode explicitly uses the notice to tee up Liu Chong's later virtues, presenting him as plain-living, clean, and one of the remembered exemplars of廉.
 
-[[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] supplies the substantive local-governance evidence: as Kuaiji administrator, Liu Chong reduces burdens, wins popular gratitude, and accepts only a tiny farewell token rather than turning gratitude into extraction. [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] later keeps him in the high-office movement layer. The current page treats small chronological differences among episode frames as source-scoped instead of forcing a single timeline claim beyond the shared Huan-era sequence.
+[[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] supplies the substantive local-governance evidence: as Kuaiji administrator, Liu Chong reduces burdens, wins popular gratitude, and accepts only a tiny farewell token rather than turning gratitude into extraction. [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] later keeps him in the high-office movement layer. The current page treats small chronological differences among episode frames as source-scoped instead of forcing a single timeline claim beyond the shared Huan-era sequence.
 
 ## Key Characteristics
 - Clean late-Han ministerial figure, explicitly distinct from the Chen king Liu Chong route.
@@ -25,18 +25,18 @@ The appointment layer in [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yong
 - Functions as a positive personnel example inside a wider Huan-era field of office churn and fiscal stress.
 
 ## Evidence
-- Sikong appointment notice: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] names Liu Chong of Donglai as Dahonglu appointed sikong after Huang Qiong's removal.
-- Integrity setup: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] characterizes Liu Chong as frugal and clean, preparing the later account of his merits.
-- Kuaiji burden reduction: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] gives the local-administration case in which Liu Chong reduces burdens and wins popular trust.
-- Farewell-token restraint: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] presents the small farewell gift as evidence that gratitude does not become official extraction.
-- Later office movement: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] preserves Liu Chong in the later Three Excellencies turnover field.
+- Sikong appointment notice: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] names Liu Chong of Donglai as Dahonglu appointed sikong after Huang Qiong's removal.
+- Integrity setup: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] characterizes Liu Chong as frugal and clean, preparing the later account of his merits.
+- Kuaiji burden reduction: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] gives the local-administration case in which Liu Chong reduces burdens and wins popular trust.
+- Farewell-token restraint: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] presents the small farewell gift as evidence that gratitude does not become official extraction.
+- Later office movement: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] preserves Liu Chong in the later Three Excellencies turnover field.
 
 ## Qualifications
-The bounded source notes differ in emphasis and may compress chronology around the 160-161 Huan-era cluster. Hanji 854 gives the central appointment notice and reputation setup, while Hanji 855 supplies the fuller Kuaiji evidence. The page keeps the ministerial Liu Chong distinct from the Chen king Liu Chong because their roles, settings, and narrative functions differ.
+The bounded source notes differ in emphasis and may compress chronology around the 160-161 Huan-era cluster. 汉纪 854 gives the central appointment notice and reputation setup, while 汉纪 855 supplies the fuller Kuaiji evidence. The page keeps the ministerial Liu Chong distinct from the Chen king Liu Chong because their roles, settings, and narrative functions differ.
 
 ## What Changed
-- Added Hanji 854's September 161 sikong appointment notice and integrity setup.
-- Reframed Hanji 855 as the explanatory local-governance evidence behind the high-office reputation.
+- Added 汉纪 854's September 161 sikong appointment notice and integrity setup.
+- Reframed 汉纪 855 as the explanatory local-governance evidence behind the high-office reputation.
 - Added a chronology qualification rather than treating episode-date phrasing as a contradiction.
 
 ## Relationships

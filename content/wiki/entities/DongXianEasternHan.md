@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 
 ## Overview
 
-Dong Xian / 董宪 is the Eastern Han rebel commander in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]], distinct from [[DongXian|董贤]], Emperor Ai's favorite. In this source, Dong Xian responds after his general Ben Xiu offers Lanling to the Han side. He surrounds Lanling, lures [[GaiYanEasternHan|盖延]] through feigned retreat, and later captures the city and kills Ben Xiu.
+Dong Xian / 董宪 is the Eastern Han rebel commander in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]], distinct from [[DongXian|董贤]], Emperor Ai's favorite. In this source, Dong Xian responds after his general Ben Xiu offers Lanling to the Han side. He surrounds Lanling, lures [[GaiYanEasternHan|盖延]] through feigned retreat, and later captures the city and kills Ben Xiu.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ Dong Xian's strength in this episode is tactical patience. He pretends to retrea
 
 ## Evidence
 
-- Lanling trigger: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Dong Xian's general Ben Xiu offers Lanling in surrender.
-- Siege response: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Dong Xian leads troops from Tan and surrounds Lanling.
-- Feigned retreat: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Dong Xian pretends to lose, allowing Gai Yan to enter the city before surrounding him the next day.
-- Final outcome: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Dong Xian captures Lanling and kills Ben Xiu.
+- Lanling trigger: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Dong Xian's general Ben Xiu offers Lanling in surrender.
+- Siege response: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Dong Xian leads troops from Tan and surrounds Lanling.
+- Feigned retreat: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Dong Xian pretends to lose, allowing Gai Yan to enter the city before surrounding him the next day.
+- Final outcome: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Dong Xian captures Lanling and kills Ben Xiu.
 
 ## Qualifications
 

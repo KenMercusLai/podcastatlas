@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 曹寅 / Cao Yin (late Han)
 
-曹寅 / Cao Yin (late Han) enters the wiki through [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] as the Wuling administrator threatened by [[WangRuiLateHan|Wang Rui]], then responding through a forged court-envoy document that directs [[SunJianLateHan|Sun Jian]] to attack Wang Rui. The page is disambiguated from [[CaoYin|曹寅 / Cao Yin]], the Qing-era figure already present in the wiki.
+曹寅 / Cao Yin (late Han) enters the wiki through [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|汉纪 952]] as the Wuling administrator threatened by [[WangRuiLateHan|Wang Rui]], then responding through a forged court-envoy document that directs [[SunJianLateHan|Sun Jian]] to attack Wang Rui. The page is disambiguated from [[CaoYin|曹寅 / Cao Yin]], the Qing-era figure already present in the wiki.
 
 His role is structurally small but revealing: a local official under threat turns institutional language into a private survival weapon, while Sun Jian accepts the document without verification. That makes Cao Yin a useful case for the late-Han collapse of reliable command channels inside [[Jingzhou]] and the broader [[AntiDongZhuoCoalition|anti-Dong-Zhuo field]].
 

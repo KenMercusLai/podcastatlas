@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Mao Qin is the Waihuang county official in Hanji 894 who comes armed to [[LiDuLateHan|李笃]]'s home while [[ZhangJianLateHan|张俭]] is being sheltered, then leaves without arresting him.
+Mao Qin is the Waihuang county official in 汉纪 894 who comes armed to [[LiDuLateHan|李笃]]'s home while [[ZhangJianLateHan|张俭]] is being sheltered, then leaves without arresting him.
 
 ## Current Profile
 
@@ -27,9 +27,9 @@ The current evidence presents Mao Qin as a local official who can enforce the pa
 
 ## Evidence
 
-- Official capacity: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says Mao Qin arrives at Li Du's home holding a weapon.
-- Moral testing: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] has Mao Qin probe Li Du with language about the shame of seeking only personal safety.
-- Discretionary non-arrest: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says Mao Qin understands Li Du's meaning and departs, allowing Zhang Jian's escape route to continue.
+- Official capacity: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] says Mao Qin arrives at Li Du's home holding a weapon.
+- Moral testing: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] has Mao Qin probe Li Du with language about the shame of seeking only personal safety.
+- Discretionary non-arrest: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] says Mao Qin understands Li Du's meaning and departs, allowing Zhang Jian's escape route to continue.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page is source-scoped and narrow. It does not establish Mao Qin's wider car
 
 ## What Changed
 
-- Initial page created from Hanji 894's Li Du and Zhang Jian shelter scene.
+- Initial page created from 汉纪 894's Li Du and Zhang Jian shelter scene.
 
 ## Relationships
 

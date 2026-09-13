@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 15 / 39 CE immediately before [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]]. It centers on [[LiuXiu|光武帝刘秀]]'s degree-field registration drive, a tiny Chenliu note saying which commanderies could be consulted, [[EmperorMingOfHan|刘阳 / 刘庄]]'s childhood interpretation of the note, and [[OuyangXiEasternHan|欧阳歙]]'s death in prison after a Runan-era land-measurement and embezzlement case.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 15 / 39 CE immediately before [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]]. It centers on [[LiuXiu|光武帝刘秀]]'s degree-field registration drive, a tiny Chenliu note saying which commanderies could be consulted, [[EmperorMingOfHan|刘阳 / 刘庄]]'s childhood interpretation of the note, and [[OuyangXiEasternHan|欧阳歙]]'s death in prison after a Runan-era land-measurement and embezzlement case.
 
 The durable synthesis is that the degree-field policy exposes court-versus-local implementation failure rather than merely imperial anger. Henan and Nanyang are presented as politically protected comparison zones, Chenliu's evasive envoy confirms Liu Yang's reading, Ouyang Xi shows high-status punishment inside the bureaucracy, and the closing frontier notices connect the same reign year to [[LuFangEasternHan|卢芳]]'s Gaoliu return, [[MaChengEasternHan|马成]]'s beacon defense, [[DuMaoEasternHan|杜茂]]'s removal, and [[ZhangKanEasternHan|张堪]]'s Gaoliu/Yuyang frontier governance.
 
@@ -26,7 +26,7 @@ The durable synthesis is that the degree-field policy exposes court-versus-local
 - Liu Xiu responds by sending inspectors to examine high-ranking local officials, especially two-thousand-stone administrators, for favoritism and concealment in degree-field implementation.
 - [[OuyangXiEasternHan|Ouyang Xi]] is jailed for Runan-taishou-era land-measurement fraud and large-scale embezzlement; despite his Shangshu lineage, disciples, and petitioners, Liu Xiu does not spare him and he dies in prison.
 - Dai She is appointed Situ after Ouyang Xi's case, but the episode treats him mainly as the personnel consequence of the earlier punishment.
-- [[LuFangEasternHan|Lu Fang]] returns from the Xiongnu sphere and lives at Gaoliu before the later surrender sequence narrated in Hanji 718 and Hanji 720.
+- [[LuFangEasternHan|Lu Fang]] returns from the Xiongnu sphere and lives at Gaoliu before the later surrender sequence narrated in 汉纪 718 and 汉纪 720.
 - [[DuMaoEasternHan|Du Mao]] is removed after a subordinate commander kills someone, and [[MaChengEasternHan|Ma Cheng]] replaces him on the northern frontier.
 - Ma Cheng strengthens border defense with beacon stations roughly every ten li, while [[ZhangKanEasternHan|Zhang Kan]] uses Du Mao's former troops to defeat Xiongnu at Gaoliu and later governs Yuyang with agricultural prosperity and frontier stability.
 
@@ -50,6 +50,6 @@ The durable synthesis is that the degree-field policy exposes court-versus-local
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source is a 39 CE backfill before Hanji 718's 40 CE punishment, Lu Fang surrender, and Jiaozhi revolt layer.
+- Chronology qualification: this source is a 39 CE backfill before 汉纪 718's 40 CE punishment, Lu Fang surrender, and Jiaozhi revolt layer.
 - Identity normalization: the source's Liu Yang is normalized to [[EmperorMingOfHan|刘庄 / 汉明帝]], not to the separate Zhending King Liu Yang branch.
 - Scope caution: Dai She, Li Zhen, exact Huben questioning mechanics, Henan/Hongnong/Gaoliu geography, and the host's inference that Crown Prince Liu Qiang became more endangered remain source-scoped unless later evidence makes them durable.

@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 88 CE accession and pre-[[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] layer around [[EmpressDowagerDouHeLateHan|窦太后]], [[DouXianEasternHan|窦宪]], and the opening Northern Xiongnu policy debate. It follows [[EmperorZhangOfHan|汉章帝]]'s death, the child [[EmperorHeOfHan|刘肇]]'s accession, Dou-family entry into palace authority, [[CuiYinEasternHan|崔骃]]'s warning and service to Dou Xian, [[DengBiaoEasternHan|邓彪]]'s use as a formal Taifu channel, Dou Xian's revenge killing tied to Han Yu's family, and a fake-edict maneuver that sends five royal princes away from Luoyang.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 88 CE accession and pre-[[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] layer around [[EmpressDowagerDouHeLateHan|窦太后]], [[DouXianEasternHan|窦宪]], and the opening Northern Xiongnu policy debate. It follows [[EmperorZhangOfHan|汉章帝]]'s death, the child [[EmperorHeOfHan|刘肇]]'s accession, Dou-family entry into palace authority, [[CuiYinEasternHan|崔骃]]'s warning and service to Dou Xian, [[DengBiaoEasternHan|邓彪]]'s use as a formal Taifu channel, Dou Xian's revenge killing tied to Han Yu's family, and a fake-edict maneuver that sends five royal princes away from Luoyang.
 
 The frontier half turns Northern Xiongnu weakness into a policy dispute. [[SouthernXiongnu|南匈奴]] asks Han to join an attack on [[NorthernXiongnuLateHan|北匈奴]], [[GengBingEasternHan|耿秉]] supports using one frontier group against another, while [[SongYiEasternHan|宋意]] argues that [[Xianbei|鲜卑]] pressure, campaign costs, and Guangwu-era jimi policy make negotiated outer-screen management safer than opportunistic war.
 
@@ -41,10 +41,10 @@ The frontier half turns Northern Xiongnu weakness into a policy dispute. [[South
 - [[PowerDesireSelfRestraint|权力欲自律]] and [[PersonalRevengeThroughStatePower|以国力行私仇]] - the episode's theme is that power must first be restrained from serving private desire or revenge.
 - [[GengBingEasternHan|耿秉]], [[SongYiEasternHan|宋意]], [[NorthernXiongnuLateHan|北匈奴]], and [[SouthernXiongnu|南匈奴]] - the frontier debate weighs using Southern Xiongnu against Northern Xiongnu against lower-cost restraint.
 - [[Xianbei|鲜卑]] and [[ReputationConstrainedWarRestraint|名声约束下的战争节制]] - Song Yi's objection makes Xianbei incentives and public burden part of war restraint.
-- [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] and [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] - downstream episodes that turn this accession and debate layer into Liu Chang murder, campaign redemption, and Jiluoshan-Yanran military achievement.
+- [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] and [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] - downstream episodes that turn this accession and debate layer into Liu Chang murder, campaign redemption, and Jiluoshan-Yanran military achievement.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills the pre-Hanji 760 layer rather than overturning the later Liu Chang murder, campaign redemption, and anti-Dou sequence.
+- No settled contradiction with existing wiki content was found. The episode backfills the pre-汉纪 760 layer rather than overturning the later Liu Chang murder, campaign redemption, and anti-Dou sequence.
 - Identity caution: [[SongYiEasternHan|宋意]] is kept distinct from [[SongYouEasternHan|宋游]], [[SongYi|宋义]], and [[SongYiLateHan|宋翼]] because the Shangshu anti-expedition role is a separate Eastern Han actor.
 - Scope caution: Han Yu, Han Yu's son, Dou Xun's earlier case, Chen Wang Liu Xian, Liu'an Wang Liu Gong, Zhongshan Wang Liu Dang, Xiapi Wang Liu Yan, Liang Wang Liu Chang, the salt-iron policy change, drought notice, exact dates, and exact Northern/Southern Xiongnu force details remain source-scoped unless later notes warrant standalone pages.

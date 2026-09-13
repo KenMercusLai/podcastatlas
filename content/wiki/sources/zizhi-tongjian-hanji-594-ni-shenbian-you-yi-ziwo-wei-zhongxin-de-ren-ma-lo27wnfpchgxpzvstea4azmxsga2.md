@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly follows [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] by moving from [[WangJiaWesternHan|王嘉]]'s Dong Xian remonstrance to [[DuYeWesternHan|杜邺]]'s answer to [[HanAidi|汉哀帝]]'s fault-seeking order in Yuanshou 1 / 2 BCE. Du Ye uses yin-yang hierarchy, filial precedents, solar eclipses, earthquakes, and historical cases to argue that Aidi's court is letting dowager and outer-relative power distort offices, military authority, and legal restraint.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly follows [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|汉纪 593]] by moving from [[WangJiaWesternHan|王嘉]]'s Dong Xian remonstrance to [[DuYeWesternHan|杜邺]]'s answer to [[HanAidi|汉哀帝]]'s fault-seeking order in Yuanshou 1 / 2 BCE. Du Ye uses yin-yang hierarchy, filial precedents, solar eclipses, earthquakes, and historical cases to argue that Aidi's court is letting dowager and outer-relative power distort offices, military authority, and legal restraint.
 
 The durable synthesis is that a ruler can request criticism while still filtering out the criticism that matters. Du Ye gives Aidi a cosmic and ritual vocabulary for self-correction, but the episode reads Aidi's later turn to [[KongGuangWesternHan|孔光]] after another eclipse as evidence that he wanted an answer easier to hear than Du Ye's direct diagnosis.
 
@@ -46,5 +46,5 @@ The durable synthesis is that a ruler can request criticism while still filterin
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source fits between Hanji 593's preview of Du Ye and Hanji 595's Wang Mang return and Fu-family eclipse-accusation layer.
+- Chronology qualification: this source fits between 汉纪 593's preview of Du Ye and 汉纪 595's Wang Mang return and Fu-family eclipse-accusation layer.
 - Scope caution: the exact identities of the two Da Sima appointees, complete original memorial wording, Aidi's private reaction, and Kong Guang's actual eclipse answer remain source-scoped.

@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 776 grounds the concept in [[XuFangLateHan|Xu Fang]]'s 102 CE memorial about [[Taixue|Taixue]]. He complains that doctoral disciples are being examined in ways that let personal opinion replace the teachings of their schools, while exam participants cover for one another and dispute meanings without firm textual basis. His proposal is to build examinations around fixed points from classical writings and to reward answers with clear source grounding.
+汉纪 776 grounds the concept in [[XuFangLateHan|Xu Fang]]'s 102 CE memorial about [[Taixue|Taixue]]. He complains that doctoral disciples are being examined in ways that let personal opinion replace the teachings of their schools, while exam participants cover for one another and dispute meanings without firm textual basis. His proposal is to build examinations around fixed points from classical writings and to reward answers with clear source grounding.
 
 The source presents standardization as institutional repair: exams become easier to judge when they can be checked against a recognized textual framework. The same move also narrows interpretive freedom, so the concept should be read as a stability-and-control mechanism rather than as pure intellectual improvement.
 
@@ -27,9 +27,9 @@ The source presents standardization as institutional repair: exams become easier
 
 ## Evidence
 
-- Diagnosis: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Xu Fang criticizes Taixue examination practices for relying on personal opinion and mutual tolerance rather than the students' inherited classical traditions.
-- Reform design: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Xu Fang proposes using fifty textual points by discipline, treating detailed explanation and clear citation as superior.
-- Enforcement boundary: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says answers departing from teacher-lineage doctrine and relying on personal conflict are to be marked wrong.
+- Diagnosis: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] says Xu Fang criticizes Taixue examination practices for relying on personal opinion and mutual tolerance rather than the students' inherited classical traditions.
+- Reform design: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] says Xu Fang proposes using fifty textual points by discipline, treating detailed explanation and clear citation as superior.
+- Enforcement boundary: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] says answers departing from teacher-lineage doctrine and relying on personal conflict are to be marked wrong.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ The source does not show whether Xu Fang's standards improved learning outcomes,
 
 ## What Changed
 
-- Created the concept from Hanji 776's account of Xu Fang's Taixue examination reform.
+- Created the concept from 汉纪 776's account of Xu Fang's Taixue examination reform.
 
 ## Related Concepts
 

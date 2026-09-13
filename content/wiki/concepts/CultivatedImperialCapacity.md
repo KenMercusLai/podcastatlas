@@ -29,11 +29,11 @@ The concept is narrower than general talent or moral praise. The source does not
 
 ## Evidence
 
-- Composite standard: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] explicitly organizes Liu Xiu's evaluation around learning, personnel use, battlefield ability, and ruler character.
-- Education as formation: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] says Liu Xiu's Chang'an Taixue study broadened his political vision and became part of his later founding and governing capacity.
-- Battle and cost discipline: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] presents Kunyang as a case where Liu Xiu breaks encirclement, gathers reinforcements, works morale, and attacks the command center despite extreme numerical inferiority.
-- Trust and coalition repair: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] says Liu Xiu burns Wang Lang correspondence unopened to avoid turning old wavering into lasting suspicion.
-- Self-command under danger: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] says Liu Xiu conceals grief after Liu Yan is killed and apologizes to Liu Xuan, preserving survival under a threatening superior.
+- Composite standard: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|汉纪 699 PLUS]] explicitly organizes Liu Xiu's evaluation around learning, personnel use, battlefield ability, and ruler character.
+- Education as formation: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|汉纪 699 PLUS]] says Liu Xiu's Chang'an Taixue study broadened his political vision and became part of his later founding and governing capacity.
+- Battle and cost discipline: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|汉纪 699 PLUS]] presents Kunyang as a case where Liu Xiu breaks encirclement, gathers reinforcements, works morale, and attacks the command center despite extreme numerical inferiority.
+- Trust and coalition repair: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|汉纪 699 PLUS]] says Liu Xiu burns Wang Lang correspondence unopened to avoid turning old wavering into lasting suspicion.
+- Self-command under danger: [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|汉纪 699 PLUS]] says Liu Xiu conceals grief after Liu Yan is killed and apologizes to Liu Xuan, preserving survival under a threatening superior.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The concept currently rests on one evaluative PLUS episode and should not be tre
 
 ## What Changed
 
-- Created the concept from Hanji 699 PLUS to capture the episode's ability-plus-cultivation ruler standard.
+- Created the concept from 汉纪 699 PLUS to capture the episode's ability-plus-cultivation ruler standard.
 - Kept the emperor-ranking language source-scoped rather than converting it into a global hierarchy.
 
 ## Related Concepts

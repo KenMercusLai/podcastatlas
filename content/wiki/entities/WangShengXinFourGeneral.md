@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-Wang Sheng / 王盛 enters the wiki through [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] as the paired commoner appointee found to match Ai Zhang's fuming-backed Xin appointment list. This page distinguishes him from later palace actor [[WangShengPalaceActorLateHan|王圣 / 王圣君]] and unrelated modern names.
+Wang Sheng / 王盛 enters the wiki through [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] as the paired commoner appointee found to match Ai Zhang's fuming-backed Xin appointment list. This page distinguishes him from later palace actor [[WangShengPalaceActorLateHan|王圣 / 王圣君]] and unrelated modern names.
 
 ## Current Profile
 
@@ -27,18 +27,18 @@ Wang Sheng's source role is to show the elasticity of early Xin sacred appointme
 
 ## Evidence
 
-- Fabricated-name context: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Xing and Wang Sheng were originally names Ai Zhang invented.
-- Search and identification: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Mang sent people to search and found a same-named man.
-- Social origin: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] identifies Wang Sheng as a street-side pancake seller.
-- Appointment logic: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says his appearance and commoner origin made the story work better as a destined appointment.
+- Fabricated-name context: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] says Wang Xing and Wang Sheng were originally names Ai Zhang invented.
+- Search and identification: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] says Wang Mang sent people to search and found a same-named man.
+- Social origin: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] identifies Wang Sheng as a street-side pancake seller.
+- Appointment logic: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] says his appearance and commoner origin made the story work better as a destined appointment.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 634. It does not prove Wang Sheng's competence, exact office title beyond the Four General frame, subsequent career, or inner attitude toward the appointment.
+This page is source-scoped to 汉纪 634. It does not prove Wang Sheng's competence, exact office title beyond the Four General frame, subsequent career, or inner attitude toward the appointment.
 
 ## What Changed
 
-- Created a disambiguated page for the Hanji 634 Four General appointee named Wang Sheng.
+- Created a disambiguated page for the 汉纪 634 Four General appointee named Wang Sheng.
 
 ## Relationships
 

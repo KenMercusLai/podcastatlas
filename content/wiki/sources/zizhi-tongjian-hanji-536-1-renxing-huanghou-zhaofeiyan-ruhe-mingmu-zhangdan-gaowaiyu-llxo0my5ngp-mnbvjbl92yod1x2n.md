@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 1 / 16 BCE, after [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]]'s Zhao Feiyan-Ban Jieyu rivalry and before later Chengdi succession, death, and investigation episodes. It follows [[ZhaoFeiyanWesternHan|赵飞燕]]'s elevation to empress, [[ZhaoHedeWesternHan|赵合德]]'s favored status in the luxurious Zhaoyang Palace, the rumor that Zhao Feiyan hid male favorites because she had no child, and [[LiuXiang|刘向]]'s remonstrance against inner-palace disorder and [[HanChengdi|汉成帝]]'s Changling project.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 1 / 16 BCE, after [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|汉纪 531]]'s Zhao Feiyan-Ban Jieyu rivalry and before later Chengdi succession, death, and investigation episodes. It follows [[ZhaoFeiyanWesternHan|赵飞燕]]'s elevation to empress, [[ZhaoHedeWesternHan|赵合德]]'s favored status in the luxurious Zhaoyang Palace, the rumor that Zhao Feiyan hid male favorites because she had no child, and [[LiuXiang|刘向]]'s remonstrance against inner-palace disorder and [[HanChengdi|汉成帝]]'s Changling project.
 
 The durable synthesis is that palace intimacy becomes a succession and feedback problem before the later heir-killing accusation sequence. The episode presents Zhao Feiyan's alleged adultery and the Zhao sisters' alleged obstruction of other births as scandalous, but later wiki sources require caution: this source is an early narrative layer that explains how rumor, childlessness, emperor indulgence, and court silence could make the Zhao sisters politically dangerous, not a final legal settlement of all later accusations.
 
@@ -26,7 +26,7 @@ The durable synthesis is that palace intimacy becomes a succession and feedback 
 - Zhao Hede protects Zhao Feiyan by recasting reports of adultery as malicious slander, after which Chengdi reportedly executes people who continue to inform against Zhao Feiyan.
 - Zhao Feiyan becomes bolder after Chengdi refuses to pursue the accusations, and the palace falls into visible but unspoken disorder.
 - The source frames the sisters' childlessness as a position-threatening problem: in a mother-by-son court order, other consorts' pregnancies could endanger their status.
-- The episode says the Zhao sisters allegedly blocked pregnancies or caused miscarriages among other women, a claim that later notes should keep under the same evidentiary caution used for Hanji 571-573.
+- The episode says the Zhao sisters allegedly blocked pregnancies or caused miscarriages among other women, a claim that later notes should keep under the same evidentiary caution used for 汉纪 571-573.
 - Liu Xiang, normalized from the transcript's "刘相," compiles examples of virtuous and destructive consorts from the `Shijing` and `Shangshu` traditions, repeatedly memorializes Chengdi, and criticizes the waste and moral logic of the Changling mausoleum works.
 - Liu Xiang's Changling argument uses a two-sided test: if the dead have awareness, disturbing older graves is dangerous; if they lack awareness, extravagant burial is useless.
 
@@ -46,5 +46,5 @@ The durable synthesis is that palace intimacy becomes a succession and feedback 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Qualification: this episode treats Zhao Feiyan's adultery and the sisters' reproductive interference as narrative facts, while later [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] warns that the larger Zhao-sister culpability story is testimony-heavy, politically useful, and missing expected physical evidence.
+- Qualification: this episode treats Zhao Feiyan's adultery and the sisters' reproductive interference as narrative facts, while later [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|汉纪 573]] warns that the larger Zhao-sister culpability story is testimony-heavy, politically useful, and missing expected physical evidence.
 - Transcript normalization: the source text says "刘相"; this wiki normalizes the figure to [[LiuXiang|刘向]] because the described Guanglu Dafu, classical compilation, and Chengdi remonstrance context match Liu Xiang.

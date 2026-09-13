@@ -14,7 +14,7 @@ Credit-based bandit surrender is a local-pacification pattern in which an offici
 
 ## Current Synthesis
 
-Hanji 709 defines the pattern through Guo Ji's Yingchuan handling. When bandits such as Zhao Hong and Zhao Wu are brought in, Guo Ji does not simply maximize punishment. He speaks with them, releases them to return to farming, and then self-impeaches for going beyond ordinary punitive expectations. Liu Xiu does not punish him, which keeps Guo Ji's promise from becoming a trap.
+汉纪 709 defines the pattern through Guo Ji's Yingchuan handling. When bandits such as Zhao Hong and Zhao Wu are brought in, Guo Ji does not simply maximize punishment. He speaks with them, releases them to return to farming, and then self-impeaches for going beyond ordinary punitive expectations. Liu Xiu does not punish him, which keeps Guo Ji's promise from becoming a trap.
 
 The key mechanism is credit. Released men carry news that surrender is not automatically death, and later bandits from multiple regions reportedly come in because they believe Guo Ji. This is different from pure amnesty, because the policy depends on one official's demonstrated reliability; it is also different from mutual-reporting pacification, because the engine is trust rather than peer surveillance.
 
@@ -29,11 +29,11 @@ The key mechanism is credit. Released men carry news that surrender is not autom
 
 ## Evidence
 
-- Yingchuan anti-bandit setting: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] places Guo Ji in a local bandit-pacification problem around Yingchuan.
-- Release and farming return: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says Guo Ji speaks with captured or surrendered bandits and releases them to go back to farming.
-- Self-impeachment: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says Guo Ji reports himself after using this lenient handling.
-- Central tolerance: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says Liu Xiu does not punish him, preserving the credibility of the settlement.
-- Wider surrender effect: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] says more bandit groups later surrender because Guo Ji's reputation makes the promise believable.
+- Yingchuan anti-bandit setting: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] places Guo Ji in a local bandit-pacification problem around Yingchuan.
+- Release and farming return: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] says Guo Ji speaks with captured or surrendered bandits and releases them to go back to farming.
+- Self-impeachment: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] says Guo Ji reports himself after using this lenient handling.
+- Central tolerance: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] says Liu Xiu does not punish him, preserving the credibility of the settlement.
+- Wider surrender effect: [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] says more bandit groups later surrender because Guo Ji's reputation makes the promise believable.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ This concept is currently a single-source local-governance pattern. The source d
 
 ## What Changed
 
-- Created this concept from Hanji 709 to capture Guo Ji's trust-based bandit-pacification mechanism.
+- Created this concept from 汉纪 709 to capture Guo Ji's trust-based bandit-pacification mechanism.
 - Distinguished the pattern from amnesty timing, mutual reporting, and root-cause pacification.
 
 ## Related Concepts

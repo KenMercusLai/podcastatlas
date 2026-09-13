@@ -41,6 +41,6 @@ The closing branch shifts back to the pre-[[GuanduCampaign|官渡之战]] Cao-Yu
 - [[GuoJia|郭嘉]], [[SunJianLateHan|孙坚]], and [[ZhouYuLateHan|周瑜]] - source-scoped fate/arrow-wound comparison and Guo Jia prediction frame.
 
 ## Contradictions
-- No settled wiki contradiction found. Hanji 1045 resolves the risk foreshadowed in Hanji 1004-1005 by narrating the fatal hunting ambush rather than revising the earlier Sun Ce profile.
+- No settled wiki contradiction found. 汉纪 1045 resolves the risk foreshadowed in 汉纪 1004-1005 by narrating the fatal hunting ambush rather than revising the earlier Sun Ce profile.
 - Transcript caution: the Runan rebel is rendered as "刘璧"; this ingest normalizes the historical branch to [[LiuPiRunanLateHan|刘辟 / Liu Pi]] while preserving the source variant as bounded to the episode.
 - Source-scope caution: the host's claim that Sun Ce's death follows from character and "过刚" is recorded as interpretation, not as a complete causal explanation that erases enemy agency, retainer revenge, or the contingency of the hunt.

@@ -15,11 +15,11 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] creates the concept through [[SimaGuang|司马光]]'s judgment on [[HuoGuangWesternHan|霍光]] and [[EmperorXuanOfHan|汉宣帝]]. The source refuses a simple villain story. Huo Guang's loyalty and founding service remain real, but Sima Guang says authority belongs to the ruler and should have been returned once Xuan was mature enough to rule.
+[[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] creates the concept through [[SimaGuang|司马光]]'s judgment on [[HuoGuangWesternHan|霍光]] and [[EmperorXuanOfHan|汉宣帝]]. The source refuses a simple villain story. Huo Guang's loyalty and founding service remain real, but Sima Guang says authority belongs to the ruler and should have been returned once Xuan was mature enough to rule.
 
-[[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] supplies the event mechanics behind that judgment. After Huo Guang dies, [[HuoXianWesternHan|霍显]]'s affair, funerary overreach, palace familiarity, and attempted harm to crown prince [[HanYuandi|刘奭]] make household misconduct inseparable from succession danger. The Huo plan then turns fear into direct imperial challenge: use [[ShangguanTaihouWesternHan|上官太后]]'s banquet to kill major ministers, depose Xuan, and install Huo Yu.
+[[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] supplies the event mechanics behind that judgment. After Huo Guang dies, [[HuoXianWesternHan|霍显]]'s affair, funerary overreach, palace familiarity, and attempted harm to crown prince [[HanYuandi|刘奭]] make household misconduct inseparable from succession danger. The Huo plan then turns fear into direct imperial challenge: use [[ShangguanTaihouWesternHan|上官太后]]'s banquet to kill major ministers, depose Xuan, and install Huo Yu.
 
-The failure has three sides. Huo Guang's side is overstay and household discipline: he keeps authority too long and, in Ban Gu's judgment as presented by Hanji 424, conceals his wife's evil plot while placing his daughter in the palace. The Huo descendants' side is posthumous arrogance and conspiracy. Xuan's side is delayed settlement: Hanji 425 says he could have rewarded the descendants with wealth, titles, and court audience while removing them from real command, but instead lets them remain powerful until fear hardens into rebellion plans. The final punishment is therefore both intelligible and excessive. The Huo conspirators can deserve destruction, while the total extinction of Huo Guang's descendants still appears刻薄寡恩 because it erases the sacrificial line of a loyal minister.
+The failure has three sides. Huo Guang's side is overstay and household discipline: he keeps authority too long and, in Ban Gu's judgment as presented by 汉纪 424, conceals his wife's evil plot while placing his daughter in the palace. The Huo descendants' side is posthumous arrogance and conspiracy. Xuan's side is delayed settlement: 汉纪 425 says he could have rewarded the descendants with wealth, titles, and court audience while removing them from real command, but instead lets them remain powerful until fear hardens into rebellion plans. The final punishment is therefore both intelligible and excessive. The Huo conspirators can deserve destruction, while the total extinction of Huo Guang's descendants still appears刻薄寡恩 because it erases the sacrificial line of a loyal minister.
 
 ## Key Claims
 
@@ -33,35 +33,35 @@ The failure has three sides. Huo Guang's side is overstay and household discipli
 ## Evidence
 
 Regency overstay:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Sima Guang argues that威福 belongs to the ruler.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Xuan was nineteen and capable, but Huo Guang still held great power and placed private followers in court.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xuan had earlier felt "芒刺在背" when Huo Guang accompanied him, showing that Huo power was already experienced as pressure.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Sima Guang argues that威福 belongs to the ruler.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Xuan was nineteen and capable, but Huo Guang still held great power and placed private followers in court.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Xuan had earlier felt "芒刺在背" when Huo Guang accompanied him, showing that Huo power was already experienced as pressure.
 
 Household misconduct and conspiracy:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Huo Xian's conduct includes Feng Zidu, enlarged burial display, free palace access, and an attempt against Liu Shi.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says the Huo plan would kill Wei Xiang, Xu Guanghan, and other figures under cover of an empress-dowager banquet before deposing Xuan and installing Huo Yu.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Huo Yun, Huo Shan, and Fan Mingyou kill themselves after exposure, while Huo Yu, Huo Xian, Deng Guanghan, and many linked families are punished.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Huo Xian's conduct includes Feng Zidu, enlarged burial display, free palace access, and an attempt against Liu Shi.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says the Huo plan would kill Wei Xiang, Xu Guanghan, and other figures under cover of an empress-dowager banquet before deposing Xuan and installing Huo Yu.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Huo Yun, Huo Shan, and Fan Mingyou kill themselves after exposure, while Huo Yu, Huo Xian, Deng Guanghan, and many linked families are punished.
 
 Delayed safe settlement:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Sima Guang thinks Xuan could have enriched Huo descendants with offices, titles, and stipends while keeping them from core authority.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Xuan instead allowed Huo members to continue presiding over government and holding military power until fear and resentment produced rebellion plans.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Sima Guang thinks Xuan could have enriched Huo descendants with offices, titles, and stipends while keeping them from core authority.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Xuan instead allowed Huo members to continue presiding over government and holding military power until fear and resentment produced rebellion plans.
 
 Prevention and warning:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says [[XuFuWesternHan|徐福]] had warned three times that Huo luxury and arrogance would become grave danger.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] uses the "曲突徙薪" story to argue that prevention deserved recognition before emergency response.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says [[XuFuWesternHan|徐福]] had warned three times that Huo luxury and arrogance would become grave danger.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] uses the "曲突徙薪" story to argue that prevention deserved recognition before emergency response.
 
 Punishment proportionality:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Sima Guang accepts severe punishment for Huo Xian, Huo Yu, Huo Yun, Huo Shan, and other guilty actors.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Sima Guang still criticizes the total killing of old and young Huo descendants as excessively ungenerous.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Sima Guang accepts severe punishment for Huo Xian, Huo Yu, Huo Yun, Huo Shan, and other guilty actors.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Sima Guang still criticizes the total killing of old and young Huo descendants as excessively ungenerous.
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in two podcast notes: Hanji 424's event narrative and Hanji 425's Sima Guang commentary. It does not prove that every Huo family member was innocent, nor does it deny that the named Huo conspirators bore responsibility for their actions. Its narrow claim is about failure of timely power exit, household discipline, preventive restraint, safe reward conversion, and proportional punishment after meritorious regency service.
+The concept is grounded in two podcast notes: 汉纪 424's event narrative and 汉纪 425's Sima Guang commentary. It does not prove that every Huo family member was innocent, nor does it deny that the named Huo conspirators bore responsibility for their actions. Its narrow claim is about failure of timely power exit, household discipline, preventive restraint, safe reward conversion, and proportional punishment after meritorious regency service.
 
 ## What Changed
 
-- Added Hanji 424's concrete Huo household misconduct, conspiracy, purge, Huo Chengjun deposition, Xu Fu warning, and "曲突徙薪" prevention layer.
-- Preserved Hanji 425's split-responsibility and proportionality judgment as the concept's interpretive frame.
+- Added 汉纪 424's concrete Huo household misconduct, conspiracy, purge, Huo Chengjun deposition, Xu Fu warning, and "曲突徙薪" prevention layer.
+- Preserved 汉纪 425's split-responsibility and proportionality judgment as the concept's interpretive frame.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Current Profile
 
-In [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]], Zhang Ling sees [[LiangJiLateHan|梁冀]] enter the palace audience wearing a sword. He rebukes Liang, orders Huben and Yulin guards to remove the sword, then memorializes an impeachment and asks that Liang be sent to the Tingwei. Liang kneels and apologizes, while [[EmperorHuanOfHan|汉桓帝]] imposes the lighter penalty of one year's salary.
+In [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]], Zhang Ling sees [[LiangJiLateHan|梁冀]] enter the palace audience wearing a sword. He rebukes Liang, orders Huben and Yulin guards to remove the sword, then memorializes an impeachment and asks that Liang be sent to the Tingwei. Liang kneels and apologizes, while [[EmperorHuanOfHan|汉桓帝]] imposes the lighter penalty of one year's salary.
 
 The same source gives Zhang Ling a public-duty layer through [[LiangBuyiLateHan|梁不疑]]. Liang Buyi had recommended Zhang Ling as xiaolian and later remarks that Zhang now punishes the Liang family. Zhang replies that doing his office faithfully and preserving court law is precisely how he repays that earlier recognition.
 
@@ -28,10 +28,10 @@ The same source gives Zhang Ling a public-duty layer through [[LiangBuyiLateHan|
 
 ## Evidence
 
-- Sword-removal enforcement: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Zhang Ling rebukes Liang Ji and orders Huben and Yulin guards to remove Liang's sword during the court audience.
-- Impeachment channel: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Zhang Ling memorializes against Liang Ji and asks that he be handed to the Tingwei.
-- Status effect: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Liang Ji kneels and apologizes before Emperor Huan converts the case into a salary forfeiture.
-- Public-duty answer: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] says Zhang Ling tells Liang Buyi that enforcing court law is his way to repay earlier recommendation.
+- Sword-removal enforcement: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]] says Zhang Ling rebukes Liang Ji and orders Huben and Yulin guards to remove Liang's sword during the court audience.
+- Impeachment channel: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]] says Zhang Ling memorializes against Liang Ji and asks that he be handed to the Tingwei.
+- Status effect: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]] says Liang Ji kneels and apologizes before Emperor Huan converts the case into a salary forfeiture.
+- Public-duty answer: [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]] says Zhang Ling tells Liang Buyi that enforcing court law is his way to repay earlier recommendation.
 
 ## Qualifications
 

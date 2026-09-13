@@ -14,11 +14,11 @@ last_updated: 2026-08-30
 [[XinPiLateHan|辛毗]] is introduced as [[XinPingLateHan|辛评]]'s younger brother and [[YuanTan|袁谭]]'s envoy to [[CaoCao|曹操]]. His role now moves beyond message-carrying: he becomes the adviser-envoy who turns Yuan Tan's desperation, [[YuanShang|袁尚]]'s exhaustion, and Hebei famine into Cao Cao's intervention case.
 
 ## Current Profile
-After Yuan Shang defeats Yuan Tan and then besieges him at Pingyuan, Yuan Tan sends Xin Pi to Cao Cao for help. Hanji 1058 treats this mission as the downstream result of Guo Jia's diagnosis: once Cao Cao relaxes pressure, Yuan-family infighting becomes so severe that one claimant seeks outside support.
+After Yuan Shang defeats Yuan Tan and then besieges him at Pingyuan, Yuan Tan sends Xin Pi to Cao Cao for help. 汉纪 1058 treats this mission as the downstream result of Guo Jia's diagnosis: once Cao Cao relaxes pressure, Yuan-family infighting becomes so severe that one claimant seeks outside support.
 
-Hanji 1059 follows the mission into Cao Cao's decision room. Xin Pi reaches Cao Cao while Cao is preparing against [[LiuBiao|刘表]], and Yuan Tan's request forces Cao's side to choose between letting the brothers continue exhausting each other and intervening before one side reunifies the Yuan base. Xin Pi's importance is therefore diplomatic and strategic: he turns a family conflict into a live target-order debate.
+汉纪 1059 follows the mission into Cao Cao's decision room. Xin Pi reaches Cao Cao while Cao is preparing against [[LiuBiao|刘表]], and Yuan Tan's request forces Cao's side to choose between letting the brothers continue exhausting each other and intervening before one side reunifies the Yuan base. Xin Pi's importance is therefore diplomatic and strategic: he turns a family conflict into a live target-order debate.
 
-Hanji 1060 develops Xin Pi as an independent strategist inside that debate. When Cao Cao is again tempted by wealthy [[Jingzhou|荆州]], Xin Pi worries that the opening will be lost, reaches Cao through [[GuoJia|郭嘉]], and redirects Cao's questions away from whether Yuan Tan is trustworthy. His argument is situational: Yuan Tan's request proves desperation, Yuan Shang's inability to finish him proves exhaustion, and attacking [[YeLateHan|邺城]] would force Yuan Shang into a dilemma while Yuan Tan threatens his rear.
+汉纪 1060 develops Xin Pi as an independent strategist inside that debate. When Cao Cao is again tempted by wealthy [[Jingzhou|荆州]], Xin Pi worries that the opening will be lost, reaches Cao through [[GuoJia|郭嘉]], and redirects Cao's questions away from whether Yuan Tan is trustworthy. His argument is situational: Yuan Tan's request proves desperation, Yuan Shang's inability to finish him proves exhaustion, and attacking [[YeLateHan|邺城]] would force Yuan Shang into a dilemma while Yuan Tan threatens his rear.
 
 The episode frames Xin Pi's advice through [[DisorderCollapseExploitation|取乱侮亡]]. Hebei is not merely divided; the Yuan armies, adviser corps, territory, and civilian food supply are all damaged. Xin Pi therefore makes Yuan Tan's appeal into a timed northern opportunity, not a trust-based alliance.
 
@@ -39,7 +39,7 @@ The episode frames Xin Pi's advice through [[DisorderCollapseExploitation|取乱
 - Dilemma and timing frame: [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|汉纪1060]] makes Xin Pi's Ye attack proposal and "取乱侮亡" citation the operational and conceptual basis of the advice.
 
 ## Qualifications
-This page records Xin Pi's role in three adjacent episodes only. It should not be read as a complete biography or as a settled evaluation of his later political alignment. Hanji 1060 gives his strongest strategic voice so far, but the forecast that Hebei would fall easily still awaits later campaign evidence.
+This page records Xin Pi's role in three adjacent episodes only. It should not be read as a complete biography or as a settled evaluation of his later political alignment. 汉纪 1060 gives his strongest strategic voice so far, but the forecast that Hebei would fall easily still awaits later campaign evidence.
 
 ## What Changed
 - Created from [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|汉纪1058]] to preserve Yuan Tan's envoy channel to Cao Cao.
@@ -57,4 +57,4 @@ This page records Xin Pi's role in three adjacent episodes only. It should not b
 - [[YeLateHan|邺城]] - target whose attack Xin Pi uses to create Yuan Shang's dilemma.
 - [[PressureReleaseInfightingStrategy|撤压诱发内斗]] - strategic pattern that Xin Pi's mission confirms.
 - [[PostVictoryThreatSequencing|胜后威胁排序]] - target-order pattern activated by Xin Pi's arrival.
-- [[DisorderCollapseExploitation|取乱侮亡]] - strategic timing frame Xin Pi explicitly invokes in Hanji 1060.
+- [[DisorderCollapseExploitation|取乱侮亡]] - strategic timing frame Xin Pi explicitly invokes in 汉纪 1060.

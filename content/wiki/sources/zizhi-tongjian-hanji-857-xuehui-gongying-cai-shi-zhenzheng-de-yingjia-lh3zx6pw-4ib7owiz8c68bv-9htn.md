@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Huan-era court field immediately before [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]] and [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|Hanji 859]]. It opens with a source-scoped relationship lesson about "win-win" cooperation, then uses [[HuangfuGuiLateHan|皇甫规]]'s accusation, self-defense, eunuch extortion, imprisonment, and eventual release to show why merit and uprightness did not automatically create political safety.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Huan-era court field immediately before [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|汉纪 858]] and [[zizhi-tongjian-hanji-859-gudai-haoren-weishenme-nan-dang-haoguan-llkyx18ssvserxncvrtkw7xfduad|汉纪 859]]. It opens with a source-scoped relationship lesson about "win-win" cooperation, then uses [[HuangfuGuiLateHan|皇甫规]]'s accusation, self-defense, eunuch extortion, imprisonment, and eventual release to show why merit and uprightness did not automatically create political safety.
 
 The durable contribution is a missing early case for [[MilitaryRewardEunuchGatekeeping|宦官门槛下的军功赏罚]] and [[PalaceAccessMonopoly|宫廷接触垄断]]. Huangfu Gui can explain the fiscal and military logic of frontier pacification, but [[XuHuangLateHan|徐璜]] and [[ZuoGuanLateHan|左悺]] still use the reward channel as a pressure point; when Huangfu refuses gifts and apology, accusation reaches the ruler more effectively than merit.
 
@@ -43,10 +43,10 @@ The durable contribution is a missing early case for [[MilitaryRewardEunuchGatek
 - [[MilitaryRewardEunuchGatekeeping|宦官门槛下的军功赏罚]], [[MeritBasedRewardPunishment|因功赏罚]], and [[MoralDesertPoliticalOutcomeGap|善恶报应与政治结果错位]] - Huangfu Gui's case makes reward distortion visible before the later Zhang Huan case.
 - [[PalaceAccessMonopoly|宫廷接触垄断]] and [[CourtFeedbackCollapse|君臣反馈失灵]] - accusation and solicitation travel through court channels more effectively than public merit and fiscal explanation.
 - [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]] - the source-scoped workplace and historical lesson is that being right, useful, or upright is not enough without reading the counterpart's interests and power position.
-- [[FengGunLateHan|冯绲]], [[GuiyangCommanderyLateHan|桂阳郡]], and [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]] - renewed local disorder and eunuch resentment carry into the immediate sequel.
+- [[FengGunLateHan|冯绲]], [[GuiyangCommanderyLateHan|桂阳郡]], and [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|汉纪 858]] - renewed local disorder and eunuch resentment carry into the immediate sequel.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills an earlier Huangfu Gui accusation and reward-gatekeeping layer before Hanji 858-859's court and frontier sequence.
+- No settled contradiction with existing wiki pages was found. This source backfills an earlier Huangfu Gui accusation and reward-gatekeeping layer before 汉纪 858-859's court and frontier sequence.
 - Transcript/source normalization: Huangfu Gui variants are normalized to [[HuangfuGuiLateHan|皇甫规]], and 左悺 is stored as [[ZuoGuanLateHan|左悺]] because the pairing with Xu Huang matches the Huan-era eunuch context.
 - Scope caution: Zhang Feng, Li Yan, Wuling Man unrest, the exact account figures, and the "win-win" workplace lesson are kept source-scoped unless later sources require dedicated pages or stronger disambiguation.

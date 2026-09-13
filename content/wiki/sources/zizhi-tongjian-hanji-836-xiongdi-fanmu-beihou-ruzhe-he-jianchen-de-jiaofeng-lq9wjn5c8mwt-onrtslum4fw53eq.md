@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 151 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] and [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]]. It follows [[LiangJiLateHan|梁冀]] turning conflict with his scholar-leaning brother [[LiangBuyiLateHan|梁不疑]] into surveillance and retaliation against visiting officials.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 151 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|汉纪 837]] and [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]]. It follows [[LiangJiLateHan|梁冀]] turning conflict with his scholar-leaning brother [[LiangBuyiLateHan|梁不疑]] into surveillance and retaliation against visiting officials.
 
 The source's durable contribution is the pairing of outer-relative coercion with scholar-official humiliation. [[MaRongLateHan|马融]] and [[TianMingLateHan|田明]] are punished after visiting Liang Buyi, making [[PunitiveHairRemovalHumiliation|髡刑式身份羞辱]] a visible tool for attacking士人 dignity; the second half then contrasts Liang Ji's coercion with [[YangBingLateHan|杨秉]]'s omen-coded remonstrance after Huan privately visits Liang Ji's son Liang Yin.
 
@@ -50,6 +50,6 @@ The source's durable contribution is the pairing of outer-relative coercion with
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills an earlier 151 CE layer before Hanji 837-838 and before the already-ingested 158-159 Liang Ji crime, marriage, and coup sequence.
+- No settled contradiction with existing wiki pages was found. The episode backfills an earlier 151 CE layer before 汉纪 837-838 and before the already-ingested 158-159 Liang Ji crime, marriage, and coup sequence.
 - Chronology caution: this source makes Yang Bing's current profile begin before his later 159 punishment and 163-165 restoration/cleanup cases; the wiki treats these as sequential layers rather than conflicting roles.
 - Scope caution: Liang Yin, Zhang Xin, Wu Xiong, Hu Guang's retirement notice, the Northern Xiongnu Huyan king, Mao Kai, Ma Da, and the exact Shuofang exile details are kept source-scoped unless later notes require dedicated pages or stronger disambiguation.

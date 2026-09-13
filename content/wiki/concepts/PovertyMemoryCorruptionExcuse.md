@@ -16,11 +16,11 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-The current synthesis treats "穷怕了" as an explanation that may describe psychological hunger but cannot legitimate public corruption. [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] contrasts [[GaoFubo|高福波]] and the fictional Zhao Dehan with [[GaoDerong|高德荣]] to separate hardship memory from moral inevitability. Poverty can produce scarcity fear and self-compensation, but it can also produce sympathy for people still trapped in hardship and a political obligation to reduce that hardship.
+The current synthesis treats "穷怕了" as an explanation that may describe psychological hunger but cannot legitimate public corruption. [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] contrasts [[GaoFubo|高福波]] and the fictional Zhao Dehan with [[GaoDerong|高德荣]] to separate hardship memory from moral inevitability. Poverty can produce scarcity fear and self-compensation, but it can also produce sympathy for people still trapped in hardship and a political obligation to reduce that hardship.
 
-The Chen Tang branch adds the childhood version. [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|Hanji 490]] presents [[ChenTangWesternHan|陈汤]]'s poverty, begging, marginal conduct, reading, writing talent, and urge to rise as a real psychological background for boldness and greed. That background humanizes him without absolving him: the same deprivation that helps explain his ferocious initiative also foreshadows the money hunger and corner-cutting that later episodes make politically dangerous.
+The Chen Tang branch adds the childhood version. [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|汉纪 490]] presents [[ChenTangWesternHan|陈汤]]'s poverty, begging, marginal conduct, reading, writing talent, and urge to rise as a real psychological background for boldness and greed. That background humanizes him without absolving him: the same deprivation that helps explain his ferocious initiative also foreshadows the money hunger and corner-cutting that later episodes make politically dangerous.
 
-The elite-success version comes through [[KuangHengWesternHan|匡衡]] in [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|Hanji 480]]. The episode does not deny the value of his poor-origin study story; it argues that poverty, learning, and office ascent do not protect a person from later self-interest. Kuang Heng's alleged acceptance of excess fief land turns hardship memory into a test of restraint after power arrives.
+The elite-success version comes through [[KuangHengWesternHan|匡衡]] in [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|汉纪 480]]. The episode does not deny the value of his poor-origin study story; it argues that poverty, learning, and office ascent do not protect a person from later self-interest. Kuang Heng's alleged acceptance of excess fief land turns hardship memory into a test of restraint after power arrives.
 
 The concept therefore names a diagnostic boundary. It does not deny that early deprivation can shape desire, anxiety, and risk perception. It denies the rhetorical move that turns deprivation into an excuse for stealing public resources, betraying office, or treating procedural violation as character destiny. In the episode's broader structure, this boundary prepares the later [[ChenTangWesternHan|陈汤]] discussion: real human weakness must be acknowledged, but governance still depends on proportional judgment, clean incentives, and credible public standards.
 
@@ -36,18 +36,18 @@ The concept therefore names a diagnostic boundary. It does not deny that early d
 ## Evidence
 
 Poverty as excuse:
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] opens with Gao Fubo's "小时候家里太穷了" explanation and compares it with the Zhao Dehan-style "穷怕了" confession.
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] explicitly says poverty is not an excuse for official greed.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] opens with Gao Fubo's "小时候家里太穷了" explanation and compares it with the Zhao Dehan-style "穷怕了" confession.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] explicitly says poverty is not an excuse for official greed.
 
 Poverty as responsibility:
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] contrasts Gao Derong, who also experienced hardship but is framed as fearing that Dulongjiang residents would remain poor.
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] links the same contrast to the idea that a true local official converts hardship memory into policy concern for ordinary people.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] contrasts Gao Derong, who also experienced hardship but is framed as fearing that Dulongjiang residents would remain poor.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] links the same contrast to the idea that a true local official converts hardship memory into policy concern for ordinary people.
 
 Governance boundary:
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] later links the moral boundary to reward, punishment, and integrity: without clean standards, leaders cannot make rules persuasive.
-- [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|Hanji 490]] says Chen Tang's childhood poverty, begging, survival behavior, study, eloquence, and boldness help explain both his upward mobility and the greed that later makes him vulnerable.
-- [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|Hanji 490]] presents Chen Tang as "怀赤子之心做小人之事," keeping vitality and moral ambiguity together rather than making hardship a clean excuse.
-- [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|Hanji 480]] says Kuang Heng's poverty and study are worth acknowledging, but his later excess-land case shows that hardship and learning can coexist with later loss of restraint.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] later links the moral boundary to reward, punishment, and integrity: without clean standards, leaders cannot make rules persuasive.
+- [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|汉纪 490]] says Chen Tang's childhood poverty, begging, survival behavior, study, eloquence, and boldness help explain both his upward mobility and the greed that later makes him vulnerable.
+- [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|汉纪 490]] presents Chen Tang as "怀赤子之心做小人之事," keeping vitality and moral ambiguity together rather than making hardship a clean excuse.
+- [[zizhi-tongjian-hanji-480-keben-bugan-ti-jiekai-zaobitouguang-de-heian-houxu-lhn89rqrj1dtntixgt5a7vd8p6ao|汉纪 480]] says Kuang Heng's poverty and study are worth acknowledging, but his later excess-land case shows that hardship and learning can coexist with later loss of restraint.
 
 ## Counterevidence & Qualifications
 
@@ -55,9 +55,9 @@ This is a source-scoped concept, not a general psychological law. The episodes d
 
 ## What Changed
 
-- Added Hanji 490's Chen Tang childhood layer, making deprivation, ambition, risk appetite, and greed vulnerability explicit without exonerating later misconduct.
-- Added Hanji 480's Kuang Heng layer, showing that poor-origin study and elite ascent can still end in property-related misconduct.
-- Preserved Hanji 496's contrast between poverty as corruption excuse and poverty as public-service motivation.
+- Added 汉纪 490's Chen Tang childhood layer, making deprivation, ambition, risk appetite, and greed vulnerability explicit without exonerating later misconduct.
+- Added 汉纪 480's Kuang Heng layer, showing that poor-origin study and elite ascent can still end in property-related misconduct.
+- Preserved 汉纪 496's contrast between poverty as corruption excuse and poverty as public-service motivation.
 
 ## Related Concepts
 

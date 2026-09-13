@@ -30,7 +30,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows the
 > "刘邦将采取什么方法度过险境" - the closing question that shifts the story from rout to strategic recovery.
 
 ## Connections
-- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno|Hanji 152 part 1]], [[PengchengBattle|彭城之战]], [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - command-capacity and tactical explanations whose aftermath is developed here.
+- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno|汉纪 152 part 1]], [[PengchengBattle|彭城之战]], [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - command-capacity and tactical explanations whose aftermath is developed here.
 - [[LiuBang|刘邦]], [[LiuYing|刘盈]], [[LuYuanPrincess|鲁元公主]], [[XiahouYing|夏侯婴]], and [[ZengHe|曾赫]] - flight, rescue, and discipline under collapse.
 - [[LiuTaigong|刘太公]], [[LuZhi|吕雉]], [[ShenYiji|审食其]], [[LuZe|吕泽]], and [[Xiayi|下邑]] - family-hostage pressure and Liu Bang's temporary rally point after the rout.
 - [[SimaXin|司马欣]], [[DongYiQin|董翳]], [[WeiBao|魏豹]], [[SimaAng|司马卬]], [[ChenYu|陈馀]], [[ZhaoXie|赵歇]], [[PengYue|彭越]], [[ZhangEr|张耳]], and [[HanWangXin|韩王信]] - lords and commanders redistributed by the defeat's political shock.
@@ -38,6 +38,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows the
 - [[PowerBasedAllianceRepricing|实力重估式阵营转向]], [[WarringStatesAllianceSwitching|战国同盟转向]], and [[CommonEnemyAlliance|共同敌人联盟]] - alliance behavior under shifting power rather than stable loyalty.
 
 ## Contradictions
-- No settled contradiction is recorded. This source extends [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] and [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno|Hanji 152 part 1]] by narrating the aftermath rather than changing the battle explanation.
+- No settled contradiction is recorded. This source extends [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|汉纪 151 part 2]] and [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-1-lrtpxlak0dlyej8bozmmhdtfczno|汉纪 152 part 1]] by narrating the aftermath rather than changing the battle explanation.
 - Source-scope caution: the host's social lesson about "人脉" is preserved as interpretation of alliance behavior, not as a universal claim about every actor's private motive.
-- Source-scope chronology caution: the note that [[SimaAng|司马卬]] died after Pengcheng is kept beside [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]]'s earlier capture-and-commandery conversion, pending a later source that resolves the sequence.
+- Source-scope chronology caution: the note that [[SimaAng|司马卬]] died after Pengcheng is kept beside [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|汉纪 149 part 2]]'s earlier capture-and-commandery conversion, pending a later source that resolves the sequence.

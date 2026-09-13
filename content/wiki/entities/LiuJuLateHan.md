@@ -11,13 +11,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-刘矩 / Liu Ju is a late-Han official whose current wiki profile now has an earlier Shun-era dignity case before his later Huan-era high appointment and Yongqiu memory. Hanji 813 shows him as dasinong whose beating at Shangshu Tai prompts [[ZuoXiongLateHan|左雄]] to protect nine-minister dignity; Hanji 854 later names him Taichang appointed taiwei and remembers his humane Yongqiu dispute mediation.
+刘矩 / Liu Ju is a late-Han official whose current wiki profile now has an earlier Shun-era dignity case before his later Huan-era high appointment and Yongqiu memory. 汉纪 813 shows him as dasinong whose beating at Shangshu Tai prompts [[ZuoXiongLateHan|左雄]] to protect nine-minister dignity; 汉纪 854 later names him Taichang appointed taiwei and remembers his humane Yongqiu dispute mediation.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] supplies the earlier Liu Ju layer. While serving as dasinong, Liu Ju is summoned urgently to Shangshu Tai, pressed to hurry, shouted at, and beaten. Zuo Xiong memorializes that the Nine Ministers stand below the Three Excellencies but still carry ritual dignity, and [[EmperorShunOfHan|汉顺帝]] accepts the correction so that nine ministers are no longer beaten.
+[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|汉纪 813]] supplies the earlier Liu Ju layer. While serving as dasinong, Liu Ju is summoned urgently to Shangshu Tai, pressed to hurry, shouted at, and beaten. Zuo Xiong memorializes that the Nine Ministers stand below the Three Excellencies but still carry ritual dignity, and [[EmperorShunOfHan|汉顺帝]] accepts the correction so that nine ministers are no longer beaten.
 
-[[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] places Liu Ju in the 161 CE office-turnover sequence, after palace fire and epidemic pressure remove [[HuangQiongLateHan|黄琼]] from the taiwei post. It then backfills why Liu Ju matters: when he had governed [[YongqiuLateHan|雍丘]], litigants who came to the county office were brought forward and gently instructed in ritual yielding, until they withdrew and resolved their disputes outside punitive administration.
+[[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] places Liu Ju in the 161 CE office-turnover sequence, after palace fire and epidemic pressure remove [[HuangQiongLateHan|黄琼]] from the taiwei post. It then backfills why Liu Ju matters: when he had governed [[YongqiuLateHan|雍丘]], litigants who came to the county office were brought forward and gently instructed in ritual yielding, until they withdrew and resolved their disputes outside punitive administration.
 
 ## Key Characteristics
 
@@ -29,19 +29,19 @@ last_updated: 2026-08-29
 
 ## Evidence
 
-- Dasinong beating case: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] says Liu Ju is summoned to Shangshu Tai, hurried, rebuked, and beaten.
-- Dignity repair outcome: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] says Zuo Xiong's memorial leads Shun to stop the beating of nine ministers.
-- Taiwei appointment: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] names Liu Ju as Taichang appointed taiwei after Huang Qiong is removed.
-- Yongqiu background: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] identifies Liu Ju as former Yongqiu magistrate before describing his local method.
-- Dispute mediation: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] reports that Liu Ju reasoned with litigants and persuaded them to endure anger rather than rush into county litigation.
+- Dasinong beating case: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|汉纪 813]] says Liu Ju is summoned to Shangshu Tai, hurried, rebuked, and beaten.
+- Dignity repair outcome: [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|汉纪 813]] says Zuo Xiong's memorial leads Shun to stop the beating of nine ministers.
+- Taiwei appointment: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] names Liu Ju as Taichang appointed taiwei after Huang Qiong is removed.
+- Yongqiu background: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] identifies Liu Ju as former Yongqiu magistrate before describing his local method.
+- Dispute mediation: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] reports that Liu Ju reasoned with litigants and persuaded them to endure anger rather than rush into county litigation.
 
 ## Qualifications
 
-The page is bounded to two podcast source notes and does not yet provide Liu Ju's broader career, factional position, or full policy record as taiwei. Hanji 813's transcript says 刘巨, and Hanji 854 says 刘举 in places; the received Tongjian passage and existing page route support normalizing the canonical page to 刘矩 while preserving the identity caution.
+The page is bounded to two podcast source notes and does not yet provide Liu Ju's broader career, factional position, or full policy record as taiwei. 汉纪 813's transcript says 刘巨, and 汉纪 854 says 刘举 in places; the received Tongjian passage and existing page route support normalizing the canonical page to 刘矩 while preserving the identity caution.
 
 ## What Changed
 
-- Added Hanji 813 as an earlier Shun-era dignity case before the Hanji 854 Huan-era appointment.
+- Added 汉纪 813 as an earlier Shun-era dignity case before the 汉纪 854 Huan-era appointment.
 - Reframed Liu Ju as both a high-office dignity marker and a humane local-governance case.
 - Preserved the transcript-name caution while keeping the canonical route as 刘矩 / Liu Ju.
 
@@ -55,4 +55,4 @@ The page is bounded to two podcast source notes and does not yet provide Liu Ju'
 - [[YongqiuLateHan|雍丘]] - county setting for Liu Ju's remembered local-governance method.
 - [[HumaneLocalGovernance|仁厚地方治理]] - concept directly extended by Liu Ju's dispute-mediation case.
 - [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - concept linking Liu Ju's local record to central appointment.
-- [[EmperorHuanOfHan|汉桓帝]] - ruler under whom Liu Ju enters the taiwei office in Hanji 854.
+- [[EmperorHuanOfHan|汉桓帝]] - ruler under whom Liu Ju enters the taiwei office in 汉纪 854.

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 36 BCE operational layer of [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]]'s campaign against [[ZhizhiChanyu|郅支单于]], immediately before [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|Hanji 491]]'s victory-publication aftermath. It traces Chen Tang from poverty, begging, study, boldness, and money hunger into the forged-edict mobilization of more than forty thousand troops drawn from tuntian soldiers and submitted Western Regions forces.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 36 BCE operational layer of [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]]'s campaign against [[ZhizhiChanyu|郅支单于]], immediately before [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|汉纪 491]]'s victory-publication aftermath. It traces Chen Tang from poverty, begging, study, boldness, and money hunger into the forged-edict mobilization of more than forty thousand troops drawn from tuntian soldiers and submitted Western Regions forces.
 
 The durable synthesis is that the Zhizhi campaign was not only a later reward dispute but a live operational gamble. Chen Tang combines military judgment, diplomatic management, local intelligence, discipline inside [[Kangju|康居]], and hard coercive shock; the same episode also preserves the moral ambiguity that later sources develop, because childhood deprivation and desire for elevation help explain his drive without cleansing greed or procedural violation.
 
@@ -46,5 +46,5 @@ The durable synthesis is that the Zhizhi campaign was not only a later reward di
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source precedes Hanji 491, Hanji 496, Hanji 497, Hanji 507, Hanji 526, Hanji 541, and Hanji 570 in the Chen Tang evidence chain. It supplies the campaign launch, march, Kangju/Wusun encounters, intelligence, and siege sequence rather than the later head display, court accusations, reward decision, Kangju-property case, Changling case, or Aidi-era vindication.
+- Chronology qualification: this source precedes 汉纪 491, 汉纪 496, 汉纪 497, 汉纪 507, 汉纪 526, 汉纪 541, and 汉纪 570 in the Chen Tang evidence chain. It supplies the campaign launch, march, Kangju/Wusun encounters, intelligence, and siege sequence rather than the later head display, court accusations, reward decision, Kangju-property case, Changling case, or Aidi-era vindication.
 - Scope caution: exact troop counts, routes, titles such as Baotian/Tumo/Kaimou, battle casualties, Chen Tang's early office path, and the source's character psychology remain podcast-summary-bounded pending comparison with primary records.

@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Chuyuan 3 / 46 BCE under [[HanYuandi|汉元帝]], between the Xiao Wangzhi death case and the later Hanji 472 Hainan-history follow-up. It centers [[JiaJuanzhiWesternHan|贾捐之]]'s "弃珠崖议": after repeated unrest in [[ZhuyaCommandery|珠崖郡]] and Dan'er, Jia argues that a distant island campaign would consume troops, money, and famine-era attention for little stable return.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Chuyuan 3 / 46 BCE under [[HanYuandi|汉元帝]], between the Xiao Wangzhi death case and the later 汉纪 472 Hainan-history follow-up. It centers [[JiaJuanzhiWesternHan|贾捐之]]'s "弃珠崖议": after repeated unrest in [[ZhuyaCommandery|珠崖郡]] and Dan'er, Jia argues that a distant island campaign would consume troops, money, and famine-era attention for little stable return.
 
 The durable synthesis is that Zhuya abolition is framed as [[CapacityBoundFrontierCommitment|capacity-bound frontier commitment]] argued through classical precedent, welfare opportunity cost, logistics, and administrative durability. The host then pushes back from a modern territorial-security angle, stressing population, territory, and [[StrategicDepthDefense|strategic depth]] as state assets, so the episode preserves both the Han court's capacity logic and the later warning against casual territorial abandonment.
 
@@ -40,9 +40,9 @@ The durable synthesis is that Zhuya abolition is framed as [[CapacityBoundFronti
 - [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]] - the source deepens the Zhuya case with Jia's cost, famine, logistics, and historical-precedent argument.
 - [[StrategicFrontierAbandonment|弃边失屏]] and [[StrategicDepthDefense|战略纵深防御]] - adjacent frames because the host criticizes treating territory as disposable even while the historical court chooses retrenchment.
 - [[HanWudi|汉武帝]], [[QinShiHuang|秦始皇]], and [[YaoShunYuLegend|尧舜禹传说]] - examples Jia uses to contrast restrained governance, overextension, and imperial expansion.
-- [[XiaoWangzhiWesternHan|萧望之]], [[ShiXianWesternHan|石显]], and [[HongGongWesternHan|弘恭]] - opening continuity from Hanji 470, where Yuan's weak handling of Xiao's death sets the political character frame.
+- [[XiaoWangzhiWesternHan|萧望之]], [[ShiXianWesternHan|石显]], and [[HongGongWesternHan|弘恭]] - opening continuity from 汉纪 470, where Yuan's weak handling of Xiao's death sets the political character frame.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode complements Hanji 472 by giving the argumentative content behind the abolition decision, while Hanji 472 follows the administrative and later-Hainan consequences.
+- No settled contradiction with existing wiki content was found. The episode complements 汉纪 472 by giving the argumentative content behind the abolition decision, while 汉纪 472 follows the administrative and later-Hainan consequences.
 - Scope caution: Cheng Wannian, Dan'er, the exact original memorial text, the full Hainan administrative chronology, and the host's modern territorial-security examples remain source-scoped unless later evidence warrants canonical pages.

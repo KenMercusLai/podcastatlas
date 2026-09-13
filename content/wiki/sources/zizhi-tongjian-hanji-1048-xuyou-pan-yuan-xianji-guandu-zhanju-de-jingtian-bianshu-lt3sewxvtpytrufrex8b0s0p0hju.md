@@ -41,5 +41,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the p
 - [[StrategicDefectorIncorporation|纳叛安抚式整合]], [[AdviceFramingUnderHierarchy|等级场景中的进言包装]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - broader patterns for accepting defectors and failing to process useful advice.
 
 ## Contradictions
-- No settled contradiction found. This source extends Hanji 1049 by giving the defection trigger, the ignored perimeter-defense warning, and the launch of Cao Cao's disguised Wuchao movement before Hanji 1049 narrates the raid's outcome.
+- No settled contradiction found. This source extends 汉纪 1049 by giving the defection trigger, the ignored perimeter-defense warning, and the launch of Cao Cao's disguised Wuchao movement before 汉纪 1049 narrates the raid's outcome.
 - Identity caution: [[XuHuangCaoGeneral|徐晃]] is kept separate from [[XuHuangLateHan|徐璜]], the existing Huan-era eunuch page with the same romanization.

@@ -18,11 +18,11 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-The concept now has five bounded branches. Hanji 724 supplies the earliest current Guangwu noncommitment case: Zhang Gong asks for 5000 cavalry while Xiongnu is weakened by famine, epidemic, and internal division, but [[LiuXiu|Liu Xiu]] leaves the proposal under review rather than converting it into immediate war. Hanji 727 then supplies the fuller Guangwu frontier-rest case: Zhang Gong and [[MaWuEasternHan|Ma Wu]] urge Liu Xiu to attack weakened [[NorthernXiongnuLateHan|Northern Xiongnu]], but Liu Xiu refuses because disaster pressure, anxious people, lack of public welfare, and the need to repair the near frontier outweigh a distant victory. In Hanji 1052, [[ZhangHongLateHan|Zhang Hong]] restrains [[CaoCao|Cao Cao]] from attacking mourning Jiangdong after [[SunCe|Sun Ce]] dies. His argument combines moral reputation and strategy: attacking during mourning looks unrighteous, and failure could create a durable enemy in [[SunQuan|Sun Quan]]. Cao's alternative response, recommending Sun Quan for office, shows restraint becoming recognition politics rather than immediate war.
+The concept now has five bounded branches. 汉纪 724 supplies the earliest current Guangwu noncommitment case: Zhang Gong asks for 5000 cavalry while Xiongnu is weakened by famine, epidemic, and internal division, but [[LiuXiu|Liu Xiu]] leaves the proposal under review rather than converting it into immediate war. 汉纪 727 then supplies the fuller Guangwu frontier-rest case: Zhang Gong and [[MaWuEasternHan|Ma Wu]] urge Liu Xiu to attack weakened [[NorthernXiongnuLateHan|Northern Xiongnu]], but Liu Xiu refuses because disaster pressure, anxious people, lack of public welfare, and the need to repair the near frontier outweigh a distant victory. In 汉纪 1052, [[ZhangHongLateHan|Zhang Hong]] restrains [[CaoCao|Cao Cao]] from attacking mourning Jiangdong after [[SunCe|Sun Ce]] dies. His argument combines moral reputation and strategy: attacking during mourning looks unrighteous, and failure could create a durable enemy in [[SunQuan|Sun Quan]]. Cao's alternative response, recommending Sun Quan for office, shows restraint becoming recognition politics rather than immediate war.
 
-Hanji 759 adds the earliest Eastern Han frontier-balance branch. [[SongYiEasternHan|Song Yi]] objects when [[SouthernXiongnu|Southern Xiongnu]] asks Han to join an attack on weakened [[NorthernXiongnuLateHan|Northern Xiongnu]]. His memorial says earlier Xiongnu wars did not repay their cost, Guangwu's jimi policy kept the border quiet, [[Xianbei|Xianbei]] pressure has already weakened the northern side, and Southern Xiongnu's return north could force Han to restrain Xianbei and create a new enemy.
+汉纪 759 adds the earliest Eastern Han frontier-balance branch. [[SongYiEasternHan|Song Yi]] objects when [[SouthernXiongnu|Southern Xiongnu]] asks Han to join an attack on weakened [[NorthernXiongnuLateHan|Northern Xiongnu]]. His memorial says earlier Xiongnu wars did not repay their cost, Guangwu's jimi policy kept the border quiet, [[Xianbei|Xianbei]] pressure has already weakened the northern side, and Southern Xiongnu's return north could force Han to restrain Xianbei and create a new enemy.
 
-Hanji 761 then adds a related court branch after [[DouXianEasternHan|Dou Xian]]'s expedition is formally proposed. Officials object because the state is still in mourning, spring mobilization disrupts farming, supply is already strained, and Northern Xiongnu has been pushed far from the frontier without a fresh direct offense. [[HeChangEasternHan|He Chang]] sharpens the argument by saying attack and Dou-family mansion construction together make the court look unworthy of later emulation.
+汉纪 761 then adds a related court branch after [[DouXianEasternHan|Dou Xian]]'s expedition is formally proposed. Officials object because the state is still in mourning, spring mobilization disrupts farming, supply is already strained, and Northern Xiongnu has been pushed far from the frontier without a fresh direct offense. [[HeChangEasternHan|He Chang]] sharpens the argument by saying attack and Dou-family mansion construction together make the court look unworthy of later emulation.
 
 The current synthesis is that reputation-constrained restraint is not pacifism. It is a decision discipline that ties morality to practical risk: public norms, mourning, farming season, frontier legitimacy, and future enemies can make a tempting strike worse than delay, recognition, or diplomatic handling.
 
@@ -38,32 +38,32 @@ The current synthesis is that reputation-constrained restraint is not pacifism. 
 
 ## Evidence
 
-- Initial Guangwu noncommitment: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says Zhang Gong requests 5000 cavalry to exploit Xiongnu famine, epidemic, and internal division.
-- Capacity-aware delay: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says Liu Xiu answers that he will consider the proposal, so the military opening does not become immediate war.
-- Guangwu attack refusal: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says Zhang Gong and Ma Wu propose attacking Northern Xiongnu because disease, drought, locusts, and losses have weakened it.
-- Domestic-recovery limit: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] says Liu Xiu refuses the attack because the people face disasters and anxiety, the court has not yet secured public welfare, and near-frontier repair matters more than remote war.
-- Mourning-attack restraint: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] says Zhang Hong argues against Cao Cao attacking Jiangdong while Sun Quan is newly succeeding after Sun Ce's death.
-- Enemy-creation risk: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] says failed attack could create a new enemy, giving Cao a self-interested reason to avoid reputational damage.
-- Recognition alternative: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] has Cao accept restraint and recommend Sun Quan as 讨虏将军 and Kuaiji administrator.
-- Frontier-balance objection: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Song Yi opposes the Southern Xiongnu request because Northern Xiongnu submission could serve as an outer screen.
-- Cost and enemy-creation argument: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]] says Song Yi cites under-rewarded Xiongnu campaigns, Guangwu-era jimi, Xianbei pressure, and the risk of creating new Xianbei resentment.
-- Eastern Han mourning and farming objection: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says officials oppose Dou Xian's expedition because the state is still in mourning and spring conscription disrupts farming.
-- No-fresh-offense argument: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says critics argue Northern Xiongnu has no fresh rebellion or direct humiliation requiring revenge.
-- Public-burden frame: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says He Chang links mobilization, fiscal emptiness, public distress, and Dou-family luxury construction into one warning.
+- Initial Guangwu noncommitment: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|汉纪 724]] says Zhang Gong requests 5000 cavalry to exploit Xiongnu famine, epidemic, and internal division.
+- Capacity-aware delay: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|汉纪 724]] says Liu Xiu answers that he will consider the proposal, so the military opening does not become immediate war.
+- Guangwu attack refusal: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|汉纪 727]] says Zhang Gong and Ma Wu propose attacking Northern Xiongnu because disease, drought, locusts, and losses have weakened it.
+- Domestic-recovery limit: [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|汉纪 727]] says Liu Xiu refuses the attack because the people face disasters and anxiety, the court has not yet secured public welfare, and near-frontier repair matters more than remote war.
+- Mourning-attack restraint: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|汉纪 1052]] says Zhang Hong argues against Cao Cao attacking Jiangdong while Sun Quan is newly succeeding after Sun Ce's death.
+- Enemy-creation risk: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|汉纪 1052]] says failed attack could create a new enemy, giving Cao a self-interested reason to avoid reputational damage.
+- Recognition alternative: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|汉纪 1052]] has Cao accept restraint and recommend Sun Quan as 讨虏将军 and Kuaiji administrator.
+- Frontier-balance objection: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|汉纪 759]] says Song Yi opposes the Southern Xiongnu request because Northern Xiongnu submission could serve as an outer screen.
+- Cost and enemy-creation argument: [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|汉纪 759]] says Song Yi cites under-rewarded Xiongnu campaigns, Guangwu-era jimi, Xianbei pressure, and the risk of creating new Xianbei resentment.
+- Eastern Han mourning and farming objection: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says officials oppose Dou Xian's expedition because the state is still in mourning and spring conscription disrupts farming.
+- No-fresh-offense argument: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says critics argue Northern Xiongnu has no fresh rebellion or direct humiliation requiring revenge.
+- Public-burden frame: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says He Chang links mobilization, fiscal emptiness, public distress, and Dou-family luxury construction into one warning.
 
 ## Counterevidence & Qualifications
 
-Hanji 761 is the clearest qualification: the restraint argument fails, and Dou Xian wins a major victory at [[JiluoshanBattleLateHan|Jiluoshan]]. Hanji 724 supplies a noncommitment outcome rather than a final refusal, while Hanji 727 supplies the opposite outcome: Liu Xiu's restraint prevails, but the source does not prove the proposed attack would have failed militarily. The concept therefore does not claim that restraint arguments always prevail or that a criticized war cannot succeed. It only identifies a recurring decision argument: an attack can be strategically tempting yet still carry moral, reputational, fiscal, domestic-recovery, frontier-balance, and future-order costs.
+汉纪 761 is the clearest qualification: the restraint argument fails, and Dou Xian wins a major victory at [[JiluoshanBattleLateHan|Jiluoshan]]. 汉纪 724 supplies a noncommitment outcome rather than a final refusal, while 汉纪 727 supplies the opposite outcome: Liu Xiu's restraint prevails, but the source does not prove the proposed attack would have failed militarily. The concept therefore does not claim that restraint arguments always prevail or that a criticized war cannot succeed. It only identifies a recurring decision argument: an attack can be strategically tempting yet still carry moral, reputational, fiscal, domestic-recovery, frontier-balance, and future-order costs.
 
-Hanji 1052 likewise does not prove that Cao Cao became morally gentle. Zhang Hong's success depends on aligning public shame with Cao's own risk calculus.
+汉纪 1052 likewise does not prove that Cao Cao became morally gentle. Zhang Hong's success depends on aligning public shame with Cao's own risk calculus.
 
 ## What Changed
 
-- Added Hanji 724 as the earliest Guangwu branch: Liu Xiu keeps Zhang Gong's opportunistic Xiongnu attack proposal under review rather than ordering immediate war.
-- Reframed Hanji 727 as the fuller Guangwu refusal branch after the initial Hanji 724 noncommitment.
-- Preserved Hanji 759 as the later Eastern Han branch: Song Yi's cost, jimi, Xianbei, and outer-screen argument against immediate attack.
-- Preserved Hanji 761 as a related mourning, farming, fiscal, and no-fresh-offense branch before the Zhang Hong-Cao Cao case.
-- Kept the concept qualified because Hanji 724 is delay rather than final rejection and Hanji 761's restraint argument loses to a successful campaign.
+- Added 汉纪 724 as the earliest Guangwu branch: Liu Xiu keeps Zhang Gong's opportunistic Xiongnu attack proposal under review rather than ordering immediate war.
+- Reframed 汉纪 727 as the fuller Guangwu refusal branch after the initial 汉纪 724 noncommitment.
+- Preserved 汉纪 759 as the later Eastern Han branch: Song Yi's cost, jimi, Xianbei, and outer-screen argument against immediate attack.
+- Preserved 汉纪 761 as a related mourning, farming, fiscal, and no-fresh-offense branch before the Zhang Hong-Cao Cao case.
+- Kept the concept qualified because 汉纪 724 is delay rather than final rejection and 汉纪 761's restraint argument loses to a successful campaign.
 
 ## Related Concepts
 
@@ -73,9 +73,9 @@ Hanji 1052 likewise does not prove that Cao Cao became morally gentle. Zhang Hon
 - [[MaWuEasternHan|马武]] - proposal-side actor whose Northern Xiongnu attack advice creates the Guangwu restraint test.
 - [[MingqiLegitimacy|名器合法性]] - legitimacy relationship because recognition through office replaces attack as Cao Cao's chosen move.
 - [[SongYiEasternHan|宋意]] - earliest current source case for restraint through cost, jimi, Xianbei, and outer-screen logic.
-- [[GengBingEasternHan|耿秉]] - policy contrast because he represents the opportunistic-offensive side of Hanji 759.
+- [[GengBingEasternHan|耿秉]] - policy contrast because he represents the opportunistic-offensive side of 汉纪 759.
 - [[HeChangEasternHan|何敞]] - Eastern Han source case for joining war restraint to public-cost critique.
 - [[DouXianEasternHan|窦宪]] - commander whose successful campaign qualifies the force of restraint arguments.
-- [[NorthernXiongnuLateHan|北匈奴]] - weakened target whose distance and lack of fresh offense become restraint arguments in Hanji 761.
+- [[NorthernXiongnuLateHan|北匈奴]] - weakened target whose distance and lack of fresh offense become restraint arguments in 汉纪 761.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - pragmatic relationship because reputation arguments work when tied to decision-maker risk.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - social-security relationship because visible public judgment can make coercion politically unsafe.

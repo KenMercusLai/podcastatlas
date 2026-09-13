@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-李文姬 / Li Wenji is [[LiGuLateHan|李固]]'s daughter and [[LiXieLateHan|李燮]]'s elder sister in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]]. Her role is not passive family memory: she preserves Li Gu's line by hiding Li Xie, routing him through [[WangChengLiGuStudent|王成]], and later teaching him the restraint needed to survive after return.
+李文姬 / Li Wenji is [[LiGuLateHan|李固]]'s daughter and [[LiXieLateHan|李燮]]'s elder sister in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]]. Her role is not passive family memory: she preserves Li Gu's line by hiding Li Xie, routing him through [[WangChengLiGuStudent|王成]], and later teaching him the restraint needed to survive after return.
 
 ## Current Profile
 
-Hanji 853 presents Li Wenji as the decisive household strategist during the Li-family disaster. After learning of Li Gu's danger, she coordinates with her brothers, hides thirteen-year-old Li Xie, and spreads a false report that he has gone back to Luoyang. The older brothers are later arrested and die in prison with Li Gu, making the concealment of Li Xie the family's survival hinge.
+汉纪 853 presents Li Wenji as the decisive household strategist during the Li-family disaster. After learning of Li Gu's danger, she coordinates with her brothers, hides thirteen-year-old Li Xie, and spreads a false report that he has gone back to Luoyang. The older brothers are later arrested and die in prison with Li Gu, making the concealment of Li Xie the family's survival hinge.
 
 Her second role comes after Li Xie returns. Li Wenji does not treat the fall of [[LiangJiLateHan|梁冀]] as full safety. She warns Li Xie to close the door, avoid broad contact, and not criticize the Liang clan because attacks on Liang could implicate Emperor Huan's earlier political settlement. The source therefore gives her both emergency decisiveness and longer political judgment.
 
@@ -28,18 +28,18 @@ Her second role comes after Li Xie returns. Li Wenji does not treat the fall of 
 
 ## Evidence
 
-- Concealment decision: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Wenji hides thirteen-year-old Li Xie and releases false information about his return to Luoyang.
-- Family-survival hinge: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says the elder sons are captured and die in prison with Li Gu, leaving Li Xie's concealment as the surviving branch.
-- Entrusted protection: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Wenji entrusts Li Xie to Wang Cheng, one of Li Gu's students.
-- Later warning: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Wenji instructs Li Xie to practice closed-door restraint and avoid criticizing the Liang clan after his return.
+- Concealment decision: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Wenji hides thirteen-year-old Li Xie and releases false information about his return to Luoyang.
+- Family-survival hinge: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says the elder sons are captured and die in prison with Li Gu, leaving Li Xie's concealment as the surviving branch.
+- Entrusted protection: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Wenji entrusts Li Xie to Wang Cheng, one of Li Gu's students.
+- Later warning: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Wenji instructs Li Xie to practice closed-door restraint and avoid criticizing the Liang clan after his return.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 853. Zhao Boying, Li Wenji's husband in the episode, is kept source-scoped because the note does not develop him as an independent actor. The raw note uses 李谢 for Li Xie and 梁继 for Liang Ji; this page follows the wiki's normalized routes while preserving the episode's factual relationship structure.
+This page is source-bounded to 汉纪 853. Zhao Boying, Li Wenji's husband in the episode, is kept source-scoped because the note does not develop him as an independent actor. The raw note uses 李谢 for Li Xie and 梁继 for Liang Ji; this page follows the wiki's normalized routes while preserving the episode's factual relationship structure.
 
 ## What Changed
 
-- Created the page from Hanji 853's Li-family concealment and survival-warning branch.
+- Created the page from 汉纪 853's Li-family concealment and survival-warning branch.
 
 ## Relationships
 

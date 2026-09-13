@@ -16,9 +16,9 @@ The episode's strongest claim is that Su Shi's greatness is cumulative. [[DingFe
 
 [[114-youdao-chi-ao-shangju-shi-liaoliao-pangxie-de-quwen-shihua-758424117]] adds a smaller food-literary cameo. The episode uses Su Shi's crab-related poetic and anecdotal afterlife, including "一蟹不如一蟹", to show how Song literati taste, joking, seasonal eating, and proverb-making help turn [[Crab|螃蟹]] into [[CrabCulturalSymbolism]].
 
-[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145]] uses Su Shi as a moral interpreter rather than as the biographical subject. The episode cites 《留侯论》 to explain [[HanXin|韩信]]'s "胯下之辱" through [[GreatCourageUnderHumiliation|忍辱大勇]]: real courage may appear as non-retaliation when sudden pressure or unprovoked insult would otherwise consume the person's future.
+[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|汉纪 145]] uses Su Shi as a moral interpreter rather than as the biographical subject. The episode cites 《留侯论》 to explain [[HanXin|韩信]]'s "胯下之辱" through [[GreatCourageUnderHumiliation|忍辱大勇]]: real courage may appear as non-retaliation when sudden pressure or unprovoked insult would otherwise consume the person's future.
 
-[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] repeats and extends that use of 《留侯论》. The episode treats Su Shi's "大勇" language as a bridge from literary judgment to practical decision-making: if an insult only pulls a person into a low-value fight, refusing retaliation can be the more courageous action.
+[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|汉纪 145 part 2]] repeats and extends that use of 《留侯论》. The episode treats Su Shi's "大勇" language as a bridge from literary judgment to practical decision-making: if an insult only pulls a person into a low-value fight, refusing retaliation can be the more courageous action.
 
 ## Connections
 - [[SuXun|苏洵]], [[SuZhe|苏辙]], [[ChengFuren|程夫人]], [[WangFuSuShi|王弗]], and [[WangChaoyun|王朝云]] - family and intimate network.
@@ -27,4 +27,4 @@ The episode's strongest claim is that Su Shi's greatness is cumulative. [[DingFe
 - [[Huangzhou|黄州]], [[Hangzhou|杭州]], [[Xuzhou|徐州]], [[Huizhou|惠州]], [[Danzhou|儋州]], and [[Changzhou|常州]] - life-stage locations.
 - [[EarnedOptimism]], [[ScholarOfficialPublicDuty]], [[LocalGovernanceAsCare]], and [[AuthorMythDeflation]] - main interpretive frames.
 - [[Crab|螃蟹]] and [[CrabCulturalSymbolism]] - episode 114's food-literary extension.
-- [[HanXin|韩信]], [[GreatCourageUnderHumiliation|忍辱大勇]], and [[AngerDrivenWarDecision|因怒兴师]] - Hanji 145's use of 《留侯论》 as a courage-and-restraint frame.
+- [[HanXin|韩信]], [[GreatCourageUnderHumiliation|忍辱大勇]], and [[AngerDrivenWarDecision|因怒兴师]] - 汉纪 145's use of 《留侯论》 as a courage-and-restraint frame.

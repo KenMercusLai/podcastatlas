@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Current Synthesis
 
-Hanji 807 defines the pattern through [[BanYongLateHan|Ban Yong]] and [[ZhangLangLateHan|Zhang Lang]]. Ban Yong builds the larger Western Regions operation against [[YanqiKingdomLateHan|Yanqi]], but Zhang Lang attacks before the agreed date because he needs merit to offset a prior offense. Yanqi surrenders to Zhang Lang first, so the court sees the event as Ban Yong arriving late rather than Zhang Lang breaking synchronization.
+汉纪 807 defines the pattern through [[BanYongLateHan|Ban Yong]] and [[ZhangLangLateHan|Zhang Lang]]. Ban Yong builds the larger Western Regions operation against [[YanqiKingdomLateHan|Yanqi]], but Zhang Lang attacks before the agreed date because he needs merit to offset a prior offense. Yanqi surrenders to Zhang Lang first, so the court sees the event as Ban Yong arriving late rather than Zhang Lang breaking synchronization.
 
 The concept is not simply "stealing credit." It is a command-and-reporting problem: the center rewards or excuses the actor who produces the first visible outcome while punishing the actor whose plan becomes invisible after the timetable changes. That makes it adjacent to merit-based reward failure, court feedback collapse, and battlefield information problems.
 
@@ -28,17 +28,17 @@ The concept is not simply "stealing credit." It is a command-and-reporting probl
 
 ## Evidence
 
-- Planned coordination: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Ban Yong and Zhang Lang were meant to meet at Yanqi by agreed timing from different directions.
-- Distorting incentive: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Zhang Lang had a prior offense and wanted military merit to redeem it.
-- Visible outcome mismatch: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Zhang Lang attacks early, receives Yanqi's surrender, and has his offense forgiven while Ban Yong is recalled and jailed for lateness.
+- Planned coordination: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Ban Yong and Zhang Lang were meant to meet at Yanqi by agreed timing from different directions.
+- Distorting incentive: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Zhang Lang had a prior offense and wanted military merit to redeem it.
+- Visible outcome mismatch: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Zhang Lang attacks early, receives Yanqi's surrender, and has his offense forgiven while Ban Yong is recalled and jailed for lateness.
 
 ## Counterevidence & Qualifications
 
-The current concept rests on one source note. Hanji 807 supports the host's "Ban Yong was wronged" reading, but it does not provide the court's full deliberation, the documents it received, or Zhang Lang's own defense. The concept should therefore be used where misreporting or visible-result bias is evidenced, not as a default explanation for every disputed command reward.
+The current concept rests on one source note. 汉纪 807 supports the host's "Ban Yong was wronged" reading, but it does not provide the court's full deliberation, the documents it received, or Zhang Lang's own defense. The concept should therefore be used where misreporting or visible-result bias is evidenced, not as a default explanation for every disputed command reward.
 
 ## What Changed
 
-- Created the concept from Hanji 807's Ban Yong-Zhang Lang-Yanqi case.
+- Created the concept from 汉纪 807's Ban Yong-Zhang Lang-Yanqi case.
 
 ## Related Concepts
 

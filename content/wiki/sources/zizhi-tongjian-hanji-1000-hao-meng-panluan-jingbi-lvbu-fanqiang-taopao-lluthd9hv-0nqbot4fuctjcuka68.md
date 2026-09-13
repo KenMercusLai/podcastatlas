@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han sequence immediately before [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]]. In 196 CE, [[HaoMeng|郝萌]] launches a night revolt at [[Xiapi|下邳]], forcing [[LyuBu|吕布]] to flee to [[GaoShun|高顺]], after which [[CaoXingLateHan|曹性]] turns against Hao Meng and accuses [[YuanShu|袁术]] and [[ChenGongLateHan|陈宫]] of involvement. The episode's main interpretation is [[LyuBuFactionalBalance|吕布集团派系平衡]]: Lü Bu leaves Chen Gong unpunished because he needs Chen Gong's Yanzhou gentry channel to balance the Bingzhou military core represented by Gao Shun and [[ZhangLiao|张辽]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han sequence immediately before [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|汉纪 1001]]. In 196 CE, [[HaoMeng|郝萌]] launches a night revolt at [[Xiapi|下邳]], forcing [[LyuBu|吕布]] to flee to [[GaoShun|高顺]], after which [[CaoXingLateHan|曹性]] turns against Hao Meng and accuses [[YuanShu|袁术]] and [[ChenGongLateHan|陈宫]] of involvement. The episode's main interpretation is [[LyuBuFactionalBalance|吕布集团派系平衡]]: Lü Bu leaves Chen Gong unpunished because he needs Chen Gong's Yanzhou gentry channel to balance the Bingzhou military core represented by Gao Shun and [[ZhangLiao|张辽]].
 
 The second half follows [[EmperorXianOfHan|汉献帝]]'s return to [[LuoyangLateHan|洛阳]]. [[ZhangYangLateHan|张杨]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and [[DongChengLateHan|董承]] shape the ruined court's immediate power field, while burned palaces, starvation, and regional non-payment show why the Han court is materially hollow even though the imperial title still restrains open usurpation and sets up Yuan Shu's ambition.
 
@@ -44,8 +44,8 @@ The second half follows [[EmperorXianOfHan|汉献帝]]'s return to [[LuoyangLate
 - [[LyuBuFactionalBalance|吕布集团派系平衡]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - interpretive frames around factional non-prosecution, survival logic, and later ignored counsel.
 - [[YuanShu|袁术]] - outside actor named by Cao Xing as instigator and later imperial-ambition figure previewed by the episode ending.
 - [[EmperorXianOfHan|汉献帝]], [[LuoyangLateHan|洛阳]], [[ZhangYangLateHan|张杨]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and [[DongChengLateHan|董承]] - return-to-Luoyang branch before Cao Cao's later intervention.
-- [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]], [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|Hanji 1003]], and [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] - downstream pages that develop Yuan Shu's title ambition and Cao Cao's use of the Luoyang court crisis.
+- [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|汉纪 1001]], [[zizhi-tongjian-hanji-1003-sanguo-zui-bei-digu-de-moushi-dongzhao-llc7q-loennxw26v3u5cbhitikw1|汉纪 1003]], and [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|汉纪 1004]] - downstream pages that develop Yuan Shu's title ambition and Cao Cao's use of the Luoyang court crisis.
 
 ## Contradictions
-- No settled contradiction found. This source fills the missing Hanji 1000 prelude before the already ingested Hanji 1001-1004 court and Yuan Shu branch.
+- No settled contradiction found. This source fills the missing 汉纪 1000 prelude before the already ingested 汉纪 1001-1004 court and Yuan Shu branch.
 - Source-scope caution: Chen Gong's connection to Yuan Shu, the meaning of his blush, and the claim that he deliberately used shame performance are preserved as the episode's interpretation rather than independent proof.

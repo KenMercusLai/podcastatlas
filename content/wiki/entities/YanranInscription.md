@@ -11,13 +11,13 @@ last_updated: 2026-08-30
 
 ## Overview
 
-燕然勒石 / Yanran Inscription is the campaign-memory marker for [[DouXianEasternHan|Dou Xian]]'s victory over [[NorthernXiongnuLateHan|Northern Xiongnu]]. Hanji 761 now adds the quantified submission and distance setting before the inscription, while Hanji 763 frames the episode as a morally ambivalent commemoration ordered by a capable but dangerous outer-relative and written by [[BanGuEasternHan|Ban Gu]].
+燕然勒石 / Yanran Inscription is the campaign-memory marker for [[DouXianEasternHan|Dou Xian]]'s victory over [[NorthernXiongnuLateHan|Northern Xiongnu]]. 汉纪 761 now adds the quantified submission and distance setting before the inscription, while 汉纪 763 frames the episode as a morally ambivalent commemoration ordered by a capable but dangerous outer-relative and written by [[BanGuEasternHan|Ban Gu]].
 
 ## Current Profile
 
 The inscription is not treated here as a freestanding literary text or archaeological object. In the current bounded sources, it functions as a public memory symbol: after the [[JiluoshanBattleLateHan|Jiluoshan]] victory, pursuit, captured livestock, and mass submission, Dou Xian and Geng Bing go more than three thousand li beyond the frontier, climb Yanran Mountain, and order Ban Gu to record the achievement.
 
-Hanji 763 gives the symbol an ambivalent political setting. The commemorated commander is not a clean loyal hero; he is an outer-relative who had killed Liu Chang, escaped punishment by asking for war, and later appears in adjacent sources as arrogant and politically dangerous. Yanran commemoration therefore records real military success while also feeding the larger Dou Xian profile in which achievement and court danger coexist.
+汉纪 763 gives the symbol an ambivalent political setting. The commemorated commander is not a clean loyal hero; he is an outer-relative who had killed Liu Chang, escaped punishment by asking for war, and later appears in adjacent sources as arrogant and politically dangerous. Yanran commemoration therefore records real military success while also feeding the larger Dou Xian profile in which achievement and court danger coexist.
 
 ## Key Characteristics
 
@@ -29,19 +29,19 @@ Hanji 763 gives the symbol an ambivalent political setting. The commemorated com
 
 ## Evidence
 
-- Submission and distance setting: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says many tribes surrender before Dou Xian and Geng Bing go more than three thousand li beyond the frontier.
-- Writing order: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Dou climbs Yanran Mountain and orders central-protector Ban Gu to inscribe the achievement.
-- Commemorative setting: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says Dou Xian climbs Yanran Mountain after defeating Northern Xiongnu forces.
-- Battle connection: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] links the inscription to Jiluoshan and the pursuit of the Northern Xiongnu.
-- Ambivalent memory: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] frames Dou Xian as both a violent criminal outer-relative and a capable commander.
+- Submission and distance setting: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says many tribes surrender before Dou Xian and Geng Bing go more than three thousand li beyond the frontier.
+- Writing order: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says Dou climbs Yanran Mountain and orders central-protector Ban Gu to inscribe the achievement.
+- Commemorative setting: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|汉纪 763]] says Dou Xian climbs Yanran Mountain after defeating Northern Xiongnu forces.
+- Battle connection: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|汉纪 763]] links the inscription to Jiluoshan and the pursuit of the Northern Xiongnu.
+- Ambivalent memory: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|汉纪 763]] frames Dou Xian as both a violent criminal outer-relative and a capable commander.
 
 ## Qualifications
 
-This page is bounded to Hanji 761 and Hanji 763. It does not reconstruct the inscription's full text, later literary reception, exact site, archaeology, or all classical precedents. The source's comparison with earlier frontier commemoration is treated as a precedent inside the episode, not as a complete study of Han inscription culture.
+This page is bounded to 汉纪 761 and 汉纪 763. It does not reconstruct the inscription's full text, later literary reception, exact site, archaeology, or all classical precedents. The source's comparison with earlier frontier commemoration is treated as a precedent inside the episode, not as a complete study of Han inscription culture.
 
 ## What Changed
 
-- Added Hanji 761 as the submission, distance, and Ban Gu writing-order layer.
+- Added 汉纪 761 as the submission, distance, and Ban Gu writing-order layer.
 - Reframed Yanran as both victory memory and a signal of Dou Xian's politically dangerous prestige.
 
 ## Relationships

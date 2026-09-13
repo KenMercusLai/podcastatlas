@@ -15,7 +15,7 @@ This concept extends the wiki's earlier Zhou legitimacy branch. [[ThreeJinVassal
 
 [[zizhi-tongjian-zhouji-18-zhongguo-lishishang-di-yi-li-rentoushui-lgqnequk0rxejqgihwdqxqyqnsvq]] adds a stronger successor pattern through [[ZhouHegemonRecognition|王致伯于秦]]. Instead of only recognizing Qin's military prestige with clothing, [[ZhouRoyalHouse|周王室]] now gives [[QinXiaogong|秦孝公]] a senior-lord status among the vassals, while [[GongziShaoguan|公子少官]]'s military presence at [[Fengze|逢泽]] keeps recognition tied to force.
 
-[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] adds a dynastic-founding version through [[ShusunTong|叔孙通]]. After [[LiuBang|刘邦]] has won militarily and been urged by regional kings to accept the imperial title, Shusun Tong prepares the accession ceremony from Qin ritual precedent. Liu Bang simplifies the rite, but the basic function remains: ceremony turns military dominance and political petition into a recognized imperial beginning for [[WesternHanDynasty|西汉]].
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|汉纪 169]] adds a dynastic-founding version through [[ShusunTong|叔孙通]]. After [[LiuBang|刘邦]] has won militarily and been urged by regional kings to accept the imperial title, Shusun Tong prepares the accession ceremony from Qin ritual precedent. Liu Bang simplifies the rite, but the basic function remains: ceremony turns military dominance and political petition into a recognized imperial beginning for [[WesternHanDynasty|西汉]].
 
 ## Key Claims
 - Ritual signs can ratify battlefield outcomes even when the ritual center is politically weak.
@@ -23,10 +23,10 @@ This concept extends the wiki's earlier Zhou legitimacy branch. [[ThreeJinVassal
 - Clothing, rank, and conquest belong to the same political language in the episode's reading.
 - The concept connects Qin's rise to Zhou's surviving symbolic authority.
 - Later Zhou recognition can move from symbolic rank objects to explicit hegemon status.
-- Hanji 169 adds accession ritual as recognition after final military victory: the new emperor trims the form but still needs ceremony to make the title public.
+- 汉纪 169 adds accession ritual as recognition after final military victory: the new emperor trims the form but still needs ceremony to make the title public.
 
 ## Connections
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - accession ritual after Chu-Han victory.
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|汉纪 169]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - accession ritual after Chu-Han victory.
 - [[ZhouXianwang|周显王]], [[ZhouRoyalHouse|周王室]], and [[MandateOfHeavenLegitimacy]] - ritual authority and legitimacy frame.
 - [[QinXianGong|秦献公]], [[QinState|秦国]], [[QinEastwardPressure]], and [[ShimenBattle|石门之战]] - military side of the recognition.
 - [[FufuRobe|黻服]] and [[TwelveInsigniaPoliticalSymbolism]] - material form of the recognition.

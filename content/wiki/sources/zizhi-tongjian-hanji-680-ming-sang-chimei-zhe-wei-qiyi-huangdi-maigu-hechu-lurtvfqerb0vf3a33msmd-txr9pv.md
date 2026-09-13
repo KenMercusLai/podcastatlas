@@ -36,7 +36,7 @@ This episode backfills Jianwu 1 / 25 CE before the later Chimei-collapse notes. 
 
 - [[ChimeiRebellion|赤眉]] - the episode supplies an earlier Changle Palace and Sanfu-alienation layer before the later palace banquet, failed abdication, famine, and surrender sources.
 - [[LiuPenziEasternHan|刘盆子]] - his entry into Changle Palace produces envoys and nominal recognition before Chimei discipline immediately damages public support.
-- [[DengYuEasternHan|邓禹]] - his early Guanzhong command is presented as disciplined, patient, and logistics-aware before later deterioration in Hanji 687-688.
+- [[DengYuEasternHan|邓禹]] - his early Guanzhong command is presented as disciplined, patient, and logistics-aware before later deterioration in 汉纪 687-688.
 - [[CoreBeforePeripheryStrategy|先内后外式战略顺序]] - Deng Yu's refusal to attack Chang'an immediately is a capacity-window case.
 - [[StatusDrivenCommandFailure|面子驱动的指挥失误]] - this episode qualifies the later failure pattern by showing Deng Yu before the status-driven rout, when he still prioritizes troop condition and timing.
 - [[LiuXuanGengshiEmperor|更始帝刘玄]] - the source creates a focused page for his post-deposition danger, killing, body recovery, burial, and family aftermath.
@@ -46,6 +46,6 @@ This episode backfills Jianwu 1 / 25 CE before the later Chimei-collapse notes. 
 ## Contradictions
 
 - No settled contradiction is recorded.
-- Chronology qualification: this source backfills Jianwu 1 / 25 CE before Hanji 681, Hanji 682-684, and the later Hanji 687-688 Chimei endgame.
+- Chronology qualification: this source backfills Jianwu 1 / 25 CE before 汉纪 681, 汉纪 682-684, and the later 汉纪 687-688 Chimei endgame.
 - Deng Yu qualification: the episode's disciplined delay does not contradict later command failure; it shows an earlier phase that later deteriorates under famine, pressure, and status concerns.
 - Identity qualification: the transcript's `三府` is treated as Sanfu context; `赵熹` is routed to the existing Zhao Xi page; `泄露` and `刘次` remain source-scoped transcript forms pending stronger evidence.

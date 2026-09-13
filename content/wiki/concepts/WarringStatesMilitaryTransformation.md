@@ -34,9 +34,9 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 
 [[zizhi-tongjian-qinji-105-zhanzheng-huayang-zhaoguo-limu-zui-hui-shua-ljtqdg46a8o13zzsjv-p-fpol5oh]] adds a late Zhao frontier version through [[LiMu|李牧]]. The episode calls his defeat of [[Xiongnu|匈奴]] a classic case of large infantry formations destroying a large cavalry force, but its real military-transformation point is broader: Zhao's usable force combines fortifications, beacons, spies, cavalry and archery training, morale management, staged retreat, and encirclement against a mobile raiding opponent.
 
-[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] adds a Chu-Han cavalry-shock version through [[XiangYu|项羽]] at the [[PengchengBattle|彭城之战]]. The source frames the battle as a large-scale case where a smaller mounted and chariot force independently maneuvers against [[LiuBang|刘邦]]'s much larger coalition, using secrecy, [[XiaoCounty|萧县]] route seizure, wing movement, and command-center attack to make enemy numbers unusable.
+[[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|汉纪 151 part 2]] adds a Chu-Han cavalry-shock version through [[XiangYu|项羽]] at the [[PengchengBattle|彭城之战]]. The source frames the battle as a large-scale case where a smaller mounted and chariot force independently maneuvers against [[LiuBang|刘邦]]'s much larger coalition, using secrecy, [[XiaoCounty|萧县]] route seizure, wing movement, and command-center attack to make enemy numbers unusable.
 
-[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|Hanji 153 part 2]] adds the response branch: [[LiuBang|刘邦]] starts [[HanCavalryFormation|汉军骑兵建设]] because Pengcheng exposed the cost of lacking mounted capability. The source makes [[GuanYing|灌婴]], [[LiBiQinCavalry|李璧]], and [[LuoJiaQinCavalry|骆甲]] a mixed command-and-technical solution, showing that military transformation includes organizational absorption of former Qin specialists as well as battlefield use of cavalry.
+[[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-2-ll-rvx07pyw-qg1jofkjro-qfllu|汉纪 153 part 2]] adds the response branch: [[LiuBang|刘邦]] starts [[HanCavalryFormation|汉军骑兵建设]] because Pengcheng exposed the cost of lacking mounted capability. The source makes [[GuanYing|灌婴]], [[LiBiQinCavalry|李璧]], and [[LuoJiaQinCavalry|骆甲]] a mixed command-and-technical solution, showing that military transformation includes organizational absorption of former Qin specialists as well as battlefield use of cavalry.
 
 ## Key Claims
 - Exaggerated troop figures can still preserve useful evidence about military organization.
@@ -54,8 +54,8 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - Qinji 99 part 3 adds a military-thought layer: tactical sophistication and reward systems are treated as lower forms unless they are joined to people-support and legitimacy.
 - Qinji 99 part 4 adds command-signal discipline and civilian-protection rules while warning that renyi language does not remove war's violent reality.
 - Qinji 105 adds a frontier anti-cavalry branch: transformed Warring States armies can mix walls, signals, intelligence, riding, archery, bait, and encirclement rather than relying on one arm alone.
-- Hanji 151 part 2 adds a Chu-Han offensive cavalry branch: mobile shock can decide a battle when paired with information control, route cutting, and a strike against command cohesion.
-- Hanji 153 part 2 adds a Chu-Han institutional response branch: cavalry advantage is answered through recruitment, command legitimacy, former Qin expertise, and integration into the Xingyang front.
+- 汉纪 151 part 2 adds a Chu-Han offensive cavalry branch: mobile shock can decide a battle when paired with information control, route cutting, and a strike against command cohesion.
+- 汉纪 153 part 2 adds a Chu-Han institutional response branch: cavalry advantage is answered through recruitment, command legitimacy, former Qin expertise, and integration into the Xingyang front.
 
 ## Connections
 - [[WeiState|魏国]], [[SuQin|苏秦]], and [[HezongAlliance|合纵]] - source setting and diplomatic use.
@@ -71,5 +71,5 @@ The key shift is away from chariot-centered aristocratic war toward large infant
 - [[Xunzi|荀子]], [[LinwuJun|临武君]], [[XunzianMilitaryLegitimacy|荀子仁义之师]], [[ProfitDrivenArmyLimits|功利型军队局限]], and [[MilitaryMeritRankSystem|军功爵制]] - Qinji 99 part 3 military classification and legitimacy branch.
 - [[XunzianCommandRestraint|五权三制]], [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]], and [[CarlVonClausewitz|克劳塞维茨]] - Qinji 99 part 4 command order and war-realism branch.
 - [[LiMu|李牧]], [[Xiongnu|匈奴]], [[FrontierDefensivePatience|边境防御耐心]], [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]], and [[WarringStatesNorthernGreatWalls|战国北境长城]] - Qinji 105 Zhao frontier anti-raiding branch.
-- [[PengchengBattle|彭城之战]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[XiaoCounty|萧县]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - Hanji 151 part 2 mobile offensive shock against a larger coalition.
-- [[HanCavalryFormation|汉军骑兵建设]], [[GuanYing|灌婴]], [[LiBiQinCavalry|李璧]], [[LuoJiaQinCavalry|骆甲]], and [[XingyangStandoff|荥阳相持]] - Hanji 153 part 2 response to Chu cavalry dominance.
+- [[PengchengBattle|彭城之战]], [[XiangYu|项羽]], [[LiuBang|刘邦]], [[XiaoCounty|萧县]], and [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]] - 汉纪 151 part 2 mobile offensive shock against a larger coalition.
+- [[HanCavalryFormation|汉军骑兵建设]], [[GuanYing|灌婴]], [[LiBiQinCavalry|李璧]], [[LuoJiaQinCavalry|骆甲]], and [[XingyangStandoff|荥阳相持]] - 汉纪 153 part 2 response to Chu cavalry dominance.

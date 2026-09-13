@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-左伊秩訾 / Zuo Yizizhi enters the wiki through [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] as a Xiongnu adviser associated with [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s submission to Han, later driven into Han service after suspicion and slander break the advisory relationship.
+左伊秩訾 / Zuo Yizizhi enters the wiki through [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] as a Xiongnu adviser associated with [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s submission to Han, later driven into Han service after suspicion and slander break the advisory relationship.
 
 ## Current Profile
 
@@ -26,19 +26,19 @@ The source presents Zuo Yizizhi less as a full biography than as a trust-rupture
 
 ## Evidence
 
-- Prior service: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] says Zuo Yizizhi had advised Huhanye to attach himself to Han, helping stabilize Xiongnu.
-- Suspicion trigger: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] says slanderers claimed he believed he had pacified Xiongnu but had not been rewarded, and therefore held resentment.
-- Defection: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] says he led more than one thousand subordinates to surrender to Han.
-- Han reward: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] says Han enfeoffed him as Guannei Hou, granted three hundred households, and gave a kingly seal and ribbon.
-- Refusal to return: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|Hanji 494]] says he declines Huhanye's later request to return, saying he has already submitted to Han.
+- Prior service: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] says Zuo Yizizhi had advised Huhanye to attach himself to Han, helping stabilize Xiongnu.
+- Suspicion trigger: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] says slanderers claimed he believed he had pacified Xiongnu but had not been rewarded, and therefore held resentment.
+- Defection: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] says he led more than one thousand subordinates to surrender to Han.
+- Han reward: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] says Han enfeoffed him as Guannei Hou, granted three hundred households, and gave a kingly seal and ribbon.
+- Refusal to return: [[zizhi-tongjian-hanji-494-ruiqi-fansi-riji-wo-fanguo-zuidade-cuo-shi-ta-ltsk3rul1e3hwxariqrdjwhetnoc|汉纪 494]] says he declines Huhanye's later request to return, saying he has already submitted to Han.
 
 ## Qualifications
 
-This page is bounded to Hanji 494's compact podcast summary. It does not reconstruct Zuo Yizizhi's full Xiongnu title, family background, exact chronology, original wording, or later Han career beyond the trust-rupture and defection notice.
+This page is bounded to 汉纪 494's compact podcast summary. It does not reconstruct Zuo Yizizhi's full Xiongnu title, family background, exact chronology, original wording, or later Han career beyond the trust-rupture and defection notice.
 
 ## What Changed
 
-- Created the page from Hanji 494's account of a useful adviser becoming a permanent defector after suspicion and slander.
+- Created the page from 汉纪 494's account of a useful adviser becoming a permanent defector after suspicion and slander.
 
 ## Relationships
 

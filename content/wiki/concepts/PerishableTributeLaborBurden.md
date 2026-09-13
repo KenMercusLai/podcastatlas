@@ -15,9 +15,9 @@ last_updated: 2026-09-01
 
 ## Current Synthesis
 
-Hanji 714 adds an earlier receiving-rule branch under [[LiuXiu|光武帝刘秀]]. In Jianwu 13 / 37 CE, Liu Xiu orders that ordinary commandery and kingdom offerings of mountain delicacies and rare foods should no longer be received by the imperial kitchen, while distant foods used for ancestral sacrifices still follow old rules. This supports the concept's court-restraint side, but it does not describe the detailed transport deaths and relay hardship that make Hanji 776 the stronger logistics-burden case.
+汉纪 714 adds an earlier receiving-rule branch under [[LiuXiu|光武帝刘秀]]. In Jianwu 13 / 37 CE, Liu Xiu orders that ordinary commandery and kingdom offerings of mountain delicacies and rare foods should no longer be received by the imperial kitchen, while distant foods used for ancestral sacrifices still follow old rules. This supports the concept's court-restraint side, but it does not describe the detailed transport deaths and relay hardship that make 汉纪 776 the stronger logistics-burden case.
 
-Hanji 776 grounds the concept in the Lingnan longan and lychee tribute case. Fresh fruit must move quickly across difficult southern routes, so the system depends on dense relay stations, night-and-day transmission, and people exposed to heat, insects, wild terrain, and exhaustion. [[TangQiangLateHan|Tang Qiang]]'s memorial changes the frame: the issue is not whether the fruit tastes good, but whether court consumption justifies deaths and hardship among transporters.
+汉纪 776 grounds the concept in the Lingnan longan and lychee tribute case. Fresh fruit must move quickly across difficult southern routes, so the system depends on dense relay stations, night-and-day transmission, and people exposed to heat, insects, wild terrain, and exhaustion. [[TangQiangLateHan|Tang Qiang]]'s memorial changes the frame: the issue is not whether the fruit tastes good, but whether court consumption justifies deaths and hardship among transporters.
 
 [[EmperorHeOfHan|Emperor He]] accepts the burden argument and orders the imperial kitchen not to receive this class of tribute. The pattern therefore shows how a local official can turn logistics knowledge into moral and administrative restraint at the center.
 
@@ -32,19 +32,19 @@ Hanji 776 grounds the concept in the Lingnan longan and lychee tribute case. Fre
 
 ## Evidence
 
-- Earlier receiving-rule restraint: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Liu Xiu orders the imperial kitchen not to receive ordinary rare-food tribute from commanderies and kingdoms while preserving old rules for distant sacrificial foods.
-- Relay burden: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] describes fresh longan and lychee moving through frequent posts and nonstop transmission.
-- Human cost: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] has Tang Qiang cite difficult Jiaozhi routes, southern heat, insects, wild animals, and deaths among transporters.
-- Policy restraint: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Emperor He orders that the imperial kitchen no longer accept such goods.
+- Earlier receiving-rule restraint: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Liu Xiu orders the imperial kitchen not to receive ordinary rare-food tribute from commanderies and kingdoms while preserving old rules for distant sacrificial foods.
+- Relay burden: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] describes fresh longan and lychee moving through frequent posts and nonstop transmission.
+- Human cost: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] has Tang Qiang cite difficult Jiaozhi routes, southern heat, insects, wild animals, and deaths among transporters.
+- Policy restraint: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] says Emperor He orders that the imperial kitchen no longer accept such goods.
 
 ## Counterevidence & Qualifications
 
-The sources do not quantify the full tribute system or prove that every fresh-food offering was equally harmful. Hanji 714 supports an earlier restraint on imperial-kitchen receiving rules but does not specify transport deaths or relay hardship. Hanji 776 supports the stronger logistics case: perishable southern fruit tribute became politically unacceptable once its transport deaths and local danger were made visible.
+The sources do not quantify the full tribute system or prove that every fresh-food offering was equally harmful. 汉纪 714 supports an earlier restraint on imperial-kitchen receiving rules but does not specify transport deaths or relay hardship. 汉纪 776 supports the stronger logistics case: perishable southern fruit tribute became politically unacceptable once its transport deaths and local danger were made visible.
 
 ## What Changed
 
-- Added Hanji 714 as an earlier Liu Xiu receiving-rule restraint branch.
-- Preserved Hanji 776 as the defining logistics-burden case from Tang Qiang's memorial and Emperor He's order stopping fresh Lingnan tribute.
+- Added 汉纪 714 as an earlier Liu Xiu receiving-rule restraint branch.
+- Preserved 汉纪 776 as the defining logistics-burden case from Tang Qiang's memorial and Emperor He's order stopping fresh Lingnan tribute.
 
 ## Related Concepts
 

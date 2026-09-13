@@ -15,7 +15,7 @@ last_updated: 2026-08-30
 [[PressureReleaseInfightingStrategy|撤压诱发内斗]] is a strategy of deliberately reducing external pressure on a rival bloc so that unresolved internal rivalries reappear and weaken the target from within.
 
 ## Current Synthesis
-Hanji 1056 supplies the precondition that later becomes strategy: after [[YuanShao|袁绍]] dies without a public succession settlement, [[YuanTan|袁谭]] and [[YuanShang|袁尚]] are already divided by adoption, provincial bases, factional backing, and the claimed final-order installation of Yuan Shang. Yuan Tan kills [[FengJiLateHan|逢纪]] after a troop dispute, but when [[CaoCao|曹操]] crosses the Yellow River and attacks, Yuan Shang still rescues Yuan Tan at [[LiyangYellowRiverLateHan|黎阳]]. Direct pressure therefore suppresses the internal fracture without resolving it.
+汉纪 1056 supplies the precondition that later becomes strategy: after [[YuanShao|袁绍]] dies without a public succession settlement, [[YuanTan|袁谭]] and [[YuanShang|袁尚]] are already divided by adoption, provincial bases, factional backing, and the claimed final-order installation of Yuan Shang. Yuan Tan kills [[FengJiLateHan|逢纪]] after a troop dispute, but when [[CaoCao|曹操]] crosses the Yellow River and attacks, Yuan Shang still rescues Yuan Tan at [[LiyangYellowRiverLateHan|黎阳]]. Direct pressure therefore suppresses the internal fracture without resolving it.
 
 [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|汉纪1058]] names the pattern through [[GuoJia|郭嘉]]'s advice to Cao Cao after the Liyang-Ye campaign sequence. Guo Jia argues that Yuan Tan and Yuan Shang will cooperate while Cao Cao keeps pressure on them, but will fight once that pressure relaxes because Yuan Shao left no clear succession settlement and both sons retain support.
 
@@ -47,10 +47,10 @@ The timing qualification becomes explicit in [[zizhi-tongjian-hanji-1059-yuanjia
 The sources give one successful case rather than a general rule. The strategy presumes real internal fracture; without that fracture, withdrawal could stabilize the opponent or let it regroup. Even with a real fracture, delay can become counterproductive if one rival absorbs the other before the outside actor intervenes. The episodes also present the result through Guo Jia's and Xun You's strategic readings, so later sources may qualify how much of the Yuan-family split was caused by Cao Cao's withdrawal versus preexisting succession structure.
 
 ## What Changed
-- Added Hanji 1056 as the pre-strategy evidence that Yuan Tan and Yuan Shang can still cooperate while Cao pressure is immediate.
+- Added 汉纪 1056 as the pre-strategy evidence that Yuan Tan and Yuan Shang can still cooperate while Cao pressure is immediate.
 - Clarified that pressure-release exploits an unresolved conflict; it does not create the conflict from nothing.
-- Preserved Hanji 1059's timing warning that release must become intervention before reconsolidation.
-- Added Hanji 1060 as the point where visible exhaustion turns pressure-release from waiting into active Cao-side intervention.
+- Preserved 汉纪 1059's timing warning that release must become intervention before reconsolidation.
+- Added 汉纪 1060 as the point where visible exhaustion turns pressure-release from waiting into active Cao-side intervention.
 
 ## Related Concepts
 - [[SuccessionNonDesignationRisk|未定继承人风险]] - supplies the internal fracture that pressure-release can exploit.

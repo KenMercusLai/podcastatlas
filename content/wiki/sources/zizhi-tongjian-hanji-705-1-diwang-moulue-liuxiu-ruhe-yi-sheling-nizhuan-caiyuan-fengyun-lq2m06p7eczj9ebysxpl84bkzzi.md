@@ -13,7 +13,7 @@ last_updated: 2026-09-01
 # 《资治通鉴·汉纪》705-1丨帝王谋略：刘秀如何以赦令逆转裁员风云
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 7-8 / 31-32 CE before [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|Hanji 707]] and [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]]. It centers [[LiuXiu|光武帝刘秀]] demobilizing local troops back to farming, receiving sealed memorials after a solar eclipse, accepting [[ZhengXingEasternHan|郑兴]] and [[ChenYuanEasternHan|陈元]]'s remonstrances, issuing an amnesty, and appointing [[LiTongEasternHan|李通]] as Da Sikong.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 7-8 / 31-32 CE before [[zizhi-tongjian-hanji-707-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-taowang-lndwxm9lmckt1ps6eowqdi-v82pv|汉纪 707]] and [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|汉纪 708]]. It centers [[LiuXiu|光武帝刘秀]] demobilizing local troops back to farming, receiving sealed memorials after a solar eclipse, accepting [[ZhengXingEasternHan|郑兴]] and [[ChenYuanEasternHan|陈元]]'s remonstrances, issuing an amnesty, and appointing [[LiTongEasternHan|李通]] as Da Sikong.
 
 The military half follows the same transition from pressure to timing. [[WeiXiaoEasternHan|隗嚣]] is still active with [[GongsunShuEasternHan|公孙述]] support, but [[LaiXiEasternHan|来歙]]'s surprise capture of Lüeyang lets Liu Xiu wait while Wei Xiao concentrates elite troops around a fortress he cannot retake. The episode also adds [[DuShiEasternHan|杜诗]] as a Nanyang local-governance exemplar and leaves Guo Xian's chariot-stopping remonstrance as a source-scoped cliffhanger.
 
@@ -45,6 +45,6 @@ The military half follows the same transition from pressure to timing. [[WeiXiao
 
 ## Contradictions
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills the 31-32 CE layer before Hanji 707's later Wei Xiao/Dou Rong/Xicheng sequence and Hanji 708's 33 CE Wei Xiao death, Ji Zun mourning, Lai Xi planning, and Qiang diagnosis.
+- Chronology qualification: this source backfills the 31-32 CE layer before 汉纪 707's later Wei Xiao/Dou Rong/Xicheng sequence and 汉纪 708's 33 CE Wei Xiao death, Ji Zun mourning, Lai Xi planning, and Qiang diagnosis.
 - Identity normalization: the transcript forms 郑新, 陈源, 郭及, 魏敖/魏嚣, 来希, 略洋, 竺曾, 新彤, and 杜师 are normalized to [[ZhengXingEasternHan|郑兴]], [[ChenYuanEasternHan|陈元]], [[GuoJiEasternHan|郭伋]], [[WeiXiaoEasternHan|隗嚣]], [[LaiXiEasternHan|来歙]], 略阳, 竺曾, 辛肜, and [[DuShiEasternHan|杜诗]] based on the Guangwu-era context.
 - Scope caution: Beiao, Jiang Feng, Zhu Zeng, Xin Tong, Wang Zun, Li Xing, Tian Sa, Qiao Hu, Guo Xian, Jin Liang, Wang Yuan, Xing Xun, Wang Meng, Niu Han, Li Yu, Tian Yan, exact route names, and the chariot-cutting cliffhanger remain source-scoped unless later notes warrant canonical pages.

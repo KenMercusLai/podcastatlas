@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 156 CE [[EmperorHuanOfHan|Huan-era]] layer immediately before [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]]. It centers [[HanShaoLateHan|韩韶]] as a crisis-fit county magistrate: thieves avoid Ying county after his appointment, displaced households flee there, and he opens public granaries despite procedural risk.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 156 CE [[EmperorHuanOfHan|Huan-era]] layer immediately before [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|汉纪 843]]. It centers [[HanShaoLateHan|韩韶]] as a crisis-fit county magistrate: thieves avoid Ying county after his appointment, displaced households flee there, and he opens public granaries despite procedural risk.
 
 The wider episode links this local "good official" standard to frontier and military appointment fit. [[TanshihuaiXianbei|檀石槐]] is introduced as an organized Xianbei leader, [[LiYingLateHan|李膺]] is appointed Duliao general after a Yunzhong attack, and [[DuanJiongLateHan|段熲]] defeats Xianbei through a forged-recall ambush before later suppressing the Gongsun Ju and Dongguo Dou rebellion.
 
@@ -38,14 +38,14 @@ The wider episode links this local "good official" standard to frontier and mili
 
 - [[HanShaoLateHan|韩韶]], [[RiskBearingReliefGovernance|担责开仓式救民]], [[HumaneLocalGovernance|仁厚地方治理]], [[DisasterResponseStateCapacity|灾害响应型国家能力]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - the episode's core good-official case.
 - [[YingchuanFourMagistrates|颍川四长]], [[ZhongHaoYingchuanLateHan|钟皓]], [[XunShuLateHan|荀淑]], [[ChenShiLateHan|陈寔]], and [[YingchuanCommandery|颍川郡]] - cohort label linking county office to virtuous local administration.
-- [[TanshihuaiXianbei|檀石槐]] and [[Xianbei|鲜卑]] - early leadership layer before the later Hanji 875, 909, 910, and 920 Xianbei arcs.
+- [[TanshihuaiXianbei|檀石槐]] and [[Xianbei|鲜卑]] - early leadership layer before the later 汉纪 875, 909, 910, and 920 Xianbei arcs.
 - [[LiYingLateHan|李膺]], [[HighStatusLawEnforcementSignal|高位执法信号]], and [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - frontier appointment where reputation itself reduces conflict.
 - [[DuanJiongLateHan|段熲]], [[BattlefieldInformationControl|战场信息控制]], and [[MeritShieldedAccountability|功绩遮蔽问责]] - tactical success through a false-recall ambush followed by legal mitigation and reuse.
 - [[EmperorHuanOfHan|汉桓帝]] and [[SouthernXiongnu|南匈奴]] - closing context of earthquake, locusts, frontier rebellion, and Liang-family political pressure.
 
 ## Contradictions
 
-- No settled contradiction found. The episode backfills 156 CE before the existing Hanji 843-844 sequence and strengthens the wiki's appointment-quality, frontier-pressure, and humane-governance themes.
+- No settled contradiction found. The episode backfills 156 CE before the existing 汉纪 843-844 sequence and strengthens the wiki's appointment-quality, frontier-pressure, and humane-governance themes.
 - Name normalization: 谭石槐 is normalized to [[TanshihuaiXianbei|檀石槐]], and 段炯 is normalized to [[DuanJiongLateHan|段熲]].
 - Identity caution: 钟皓 is kept as [[ZhongHaoYingchuanLateHan|钟皓]] and distinct from the existing [[ZhongHaoLateHan|种暠]] route.
 - Scope caution: Gongsun Ju, Dongguo Dou, the Taishan administrator, Liang Ma, Liang Tao, and exact place-office details remain source-scoped until additional notes warrant canonical pages.

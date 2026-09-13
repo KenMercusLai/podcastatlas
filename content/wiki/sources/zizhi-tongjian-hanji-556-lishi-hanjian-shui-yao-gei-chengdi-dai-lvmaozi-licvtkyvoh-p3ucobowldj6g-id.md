@@ -10,7 +10,7 @@ source_file: "/home/ken/repos/podcastatlas/content/episodes/《资治通鉴·汉
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the prehistory of [[ChunyuZhangWesternHan|淳于长]]'s fall immediately before [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]]. It follows Chunyu Zhang's rise through Wang-family outer-relative access, his bribery networks, his affair with Empress Xu's sister, and his long exploitation of [[EmpressXuWesternHan|废后许氏]] through paid promises of restoration.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the prehistory of [[ChunyuZhangWesternHan|淳于长]]'s fall immediately before [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|汉纪 557]]. It follows Chunyu Zhang's rise through Wang-family outer-relative access, his bribery networks, his affair with Empress Xu's sister, and his long exploitation of [[EmpressXuWesternHan|废后许氏]] through paid promises of restoration.
 
 The durable synthesis is that Chunyu Zhang's danger begins before Wang Mang's formal attack: he converts imperial proximity and Wang-family identity into private extraction, then uses Empress Xu's isolation, hope, and prior investment to keep her paying for an impossible political outcome. The host reads the case as both a court-politics scandal and a [[SunkCostEntrapment|沉没成本困局]] in which false promises and power imbalance make exit feel more costly than continued loss.
 
@@ -22,7 +22,7 @@ The durable synthesis is that Chunyu Zhang's danger begins before Wang Mang's fo
 - Chunyu Zhang accepts money, carriages, garments, and valuables while promising future restoration as left empress, a promise the host treats as politically unserious.
 - Empress Xu's continued payment is explained through isolation, hope, inability to verify, fear of losing previous investment, and possible fear of retaliation.
 - The episode frames unhealthy relationships as recognizable when one side accepts resources while giving only belittlement, vague promises, and no concrete return.
-- [[WangMang|王莽]] is already monitoring Chunyu Zhang by the end of the episode, setting up the sickbed denunciation and case escalation in Hanji 557.
+- [[WangMang|王莽]] is already monitoring Chunyu Zhang by the end of the episode, setting up the sickbed denunciation and case escalation in 汉纪 557.
 
 ## Key Quotes
 
@@ -36,7 +36,7 @@ The durable synthesis is that Chunyu Zhang's danger begins before Wang Mang's fo
 - [[EmpressXuWesternHan|废后许氏]] and [[SunkCostEntrapment|沉没成本困局]] - the episode explains her continued investment through prior payments, narrowed options, hope of restoration, and fear of losing everything already spent.
 - [[PsychologicalAbuseRecognition|精神虐待识别]] - the host's modern extension treats belittlement, empty promises, and resource extraction as warning signs of relational exploitation.
 - [[PowerCenterProximityAdvantage|权力中心接近优势]] - Chunyu Zhang's credibility with Empress Xu partly rests on being near Chengdi and able to claim access she cannot verify.
-- [[WangMang|王莽]] and [[ChunyuZhangWesternHan|淳于长]] - the closing setup says Wang Mang has planted watchers around Chunyu Zhang and is preparing the attack narrated in Hanji 557.
+- [[WangMang|王莽]] and [[ChunyuZhangWesternHan|淳于长]] - the closing setup says Wang Mang has planted watchers around Chunyu Zhang and is preparing the attack narrated in 汉纪 557.
 
 ## Contradictions
 

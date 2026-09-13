@@ -14,9 +14,9 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 146 CE death of [[EmperorZhiOfHan|汉质帝]] immediately before [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]]. It pairs a major [[Taixue|太学]] expansion and classics-based appointment channel with the central political event: [[LiangJiLateHan|梁冀]] poisons the child emperor after being publicly called a domineering general.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 146 CE death of [[EmperorZhiOfHan|汉质帝]] immediately before [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|汉纪 828]]. It pairs a major [[Taixue|太学]] expansion and classics-based appointment channel with the central political event: [[LiangJiLateHan|梁冀]] poisons the child emperor after being publicly called a domineering general.
 
-The later succession discussion starts here as well. [[LiGuLateHan|李固]], [[HuGuangLateHan|胡广]], Zhao Jie, and [[DuQiaoLateHan|杜乔]] argue for broad consultation and recommend [[LiuSuanLateHan|刘蒜]], while [[CaoTengLateHan|曹腾]]'s private resentment against Liu Suan foreshadows the self-protective succession turn developed in Hanji 828.
+The later succession discussion starts here as well. [[LiGuLateHan|李固]], [[HuGuangLateHan|胡广]], Zhao Jie, and [[DuQiaoLateHan|杜乔]] argue for broad consultation and recommend [[LiuSuanLateHan|刘蒜]], while [[CaoTengLateHan|曹腾]]'s private resentment against Liu Suan foreshadows the self-protective succession turn developed in 汉纪 828.
 
 ## Key Claims
 
@@ -46,13 +46,13 @@ The later succession discussion starts here as well. [[LiGuLateHan|李固]], [[H
 - [[HuGuangLateHan|胡广]] - co-signatory of the initial succession-warning letter and supporter of Liu Suan before later accommodation.
 - [[DuQiaoLateHan|杜乔]] - dahonglu and Liu Suan supporter in the first succession consultation layer.
 - [[LiuSuanLateHan|刘蒜]] - Qinghe king recommended by senior officials before Cao Teng and Liang Ji move away from him.
-- [[CaoTengLateHan|曹腾]] - eunuch actor whose personal resentment against Liu Suan precedes the Hanji 828 self-protection argument.
+- [[CaoTengLateHan|曹腾]] - eunuch actor whose personal resentment against Liu Suan precedes the 汉纪 828 self-protection argument.
 - [[Taixue|太学]] - institution expanded through Mingjing recommendation, study, examination, and office assignment.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - Liang Ji's kin-backed court dominance reaches the point of killing a sitting emperor.
-- [[SelfProtectiveAccessionChoice|自保式继位选择]] - succession pattern prefigured by Cao Teng's private objection and developed by Hanji 828.
+- [[SelfProtectiveAccessionChoice|自保式继位选择]] - succession pattern prefigured by Cao Teng's private objection and developed by 汉纪 828.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source supplies the direct poisoning narrative that Hanji 835 later recalls and the immediate prehistory that Hanji 828 continues after Emperor Zhi's death.
-- Chronology caution: Hanji 827 describes Emperor Zhi as an eight-year-old child in the episode narrative, while existing Hanji 828 and Hanji 835 source notes also preserve age-nine death wording; the wiki treats the difference as counting or narration variation, not a substantive conflict.
+- No settled contradiction with existing wiki pages was found. This source supplies the direct poisoning narrative that 汉纪 835 later recalls and the immediate prehistory that 汉纪 828 continues after Emperor Zhi's death.
+- Chronology caution: 汉纪 827 describes Emperor Zhi as an eight-year-old child in the episode narrative, while existing 汉纪 828 and 汉纪 835 source notes also preserve age-nine death wording; the wiki treats the difference as counting or narration variation, not a substantive conflict.
 - Scope caution: Zhao Jie, Liu Hong's reclassification as Bohai king, the sea-water disaster, exact Taixue enrollment figure, and the episode's opening moral-causality frame remain source-scoped unless later source notes require standalone expansion.

@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-滕延 / Teng Yan is the Jibei chancellor in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] who executes violent servants and guests tied to [[HouLanLateHan|侯览]] and [[DuanGuiLateHan|段珪]], then loses office after their complaint reaches [[EmperorHuanOfHan|汉桓帝]]. He is a compact early case of local enforcement being inverted by eunuch access.
+滕延 / Teng Yan is the Jibei chancellor in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] who executes violent servants and guests tied to [[HouLanLateHan|侯览]] and [[DuanGuiLateHan|段珪]], then loses office after their complaint reaches [[EmperorHuanOfHan|汉桓帝]]. He is a compact early case of local enforcement being inverted by eunuch access.
 
 ## Current Profile
 
-Hanji 853 says Hou Lan and Duan Gui hold large farmland near Jibei. Their servants and guests use that backing to rob travelers on the roads. Teng Yan responds as a local official: he arrests and executes dozens and displays the bodies by the road.
+汉纪 853 says Hou Lan and Duan Gui hold large farmland near Jibei. Their servants and guests use that backing to rob travelers on the roads. Teng Yan responds as a local official: he arrests and executes dozens and displays the bodies by the road.
 
 The case then reverses direction. Hou Lan and Duan Gui complain to Huan, and Teng Yan is summoned to Luoyang, sent to the commandant of justice, and dismissed. The page therefore treats Teng Yan as a source-bounded enforcement actor whose punishment prefigures the later eunuch-patronage shield pattern.
 
@@ -27,10 +27,10 @@ The case then reverses direction. Hou Lan and Duan Gui complain to Huan, and Ten
 
 ## Evidence
 
-- Protected retainers: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Hou Lan and Duan Gui's servants and guests rob travelers near their Jibei-area holdings.
-- Enforcement action: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Teng Yan arrests and executes dozens of those offenders and displays the bodies by the road.
-- Complaint channel: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Hou Lan and Duan Gui complain to Emperor Huan.
-- Reversal outcome: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Teng Yan is recalled to Luoyang, handed to the commandant of justice, and dismissed.
+- Protected retainers: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Hou Lan and Duan Gui's servants and guests rob travelers near their Jibei-area holdings.
+- Enforcement action: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Teng Yan arrests and executes dozens of those offenders and displays the bodies by the road.
+- Complaint channel: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Hou Lan and Duan Gui complain to Emperor Huan.
+- Reversal outcome: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Teng Yan is recalled to Luoyang, handed to the commandant of justice, and dismissed.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The raw source writes 滕炎; this page normalizes the route to 滕延 while pre
 
 ## What Changed
 
-- Created the page from Hanji 853's Jibei enforcement and eunuch-complaint reversal.
+- Created the page from 汉纪 853's Jibei enforcement and eunuch-complaint reversal.
 
 ## Relationships
 

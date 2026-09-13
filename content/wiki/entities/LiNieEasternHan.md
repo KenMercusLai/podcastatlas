@@ -9,7 +9,7 @@ last_updated: 2026-09-01
 ---
 
 ## Overview
-Li Nie is the Guanghan scholar in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] who refuses Gongsun Shu's summoned office and drinks poison rather than serve under coercion.
+Li Nie is the Guanghan scholar in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] who refuses Gongsun Shu's summoned office and drinks poison rather than serve under coercion.
 
 ## Current Profile
 The episode presents Li Nie as a learned Guanghan figure whom Gongsun Shu tries to summon as boshi. Li Nie first refuses by claiming illness. Gongsun Shu then sends Yin Rong with an edict, a title, and poison, making the choice office or death.
@@ -24,9 +24,9 @@ Li Nie drinks the poison without consulting his family. Gongsun Shu later sends 
 - Evidence point for poison-backed recruitment turning scholar prestige into regime liability.
 
 ## Evidence
-- Refusal under poison threat: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Gongsun Shu offers Li Nie either office and title or poison, and Li Nie drinks the poison.
-- Family refusal: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Li Hui flees rather than accept Gongsun Shu's condolences and silk.
-- Later recognition: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Liu Xiu marks Li Nie's door with a stone inscription honoring integrity.
+- Refusal under poison threat: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Gongsun Shu offers Li Nie either office and title or poison, and Li Nie drinks the poison.
+- Family refusal: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Li Hui flees rather than accept Gongsun Shu's condolences and silk.
+- Later recognition: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Liu Xiu marks Li Nie's door with a stone inscription honoring integrity.
 
 ## Qualifications
 This page follows the episode's name form Li Nie / 李涅 and should be reconciled if a later source note establishes a different canonical historical spelling.

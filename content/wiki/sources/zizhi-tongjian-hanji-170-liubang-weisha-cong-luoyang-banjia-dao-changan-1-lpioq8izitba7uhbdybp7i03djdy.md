@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] into [[LiuBang|刘邦]]'s first post-unification political cleanup, even though the title previews the later capital-move question. It centers [[TianHeng|田横]]'s island exile, forced summons, suicide, and retainer deaths, then turns to [[JiBu|季布]]'s pardon after [[ZhuJiaLu|朱家]] persuades [[XiahouYing|夏侯婴]] to reframe former enemy service as loyalty. Its core synthesis is that founding order requires more than rewards and rites: Liu Bang must neutralize unreconciled losers, manage the moral afterlife of defeated elites, and decide which former enemies can be absorbed as public examples.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|汉纪 169 part 2]] into [[LiuBang|刘邦]]'s first post-unification political cleanup, even though the title previews the later capital-move question. It centers [[TianHeng|田横]]'s island exile, forced summons, suicide, and retainer deaths, then turns to [[JiBu|季布]]'s pardon after [[ZhuJiaLu|朱家]] persuades [[XiahouYing|夏侯婴]] to reframe former enemy service as loyalty. Its core synthesis is that founding order requires more than rewards and rites: Liu Bang must neutralize unreconciled losers, manage the moral afterlife of defeated elites, and decide which former enemies can be absorbed as public examples.
 
 ## Key Claims
 - Tian Heng flees to an island with more than five hundred followers after [[PengYue|彭越]] becomes Liang king, because he fears Liu Bang and remains a potential [[QiState|齐国]] resistance center.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 > "尊严高于苟活"
 
 ## Connections
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] - immediate prior source setting Liu Bang's Luoyang founding order and Han Xin's Chu placement.
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|汉纪 169 part 2]] - immediate prior source setting Liu Bang's Luoyang founding order and Han Xin's Chu placement.
 - [[LiuBang|刘邦]], [[WesternHanDynasty|西汉]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - founding order extended from accession and relief into defeated-elite settlement.
 - [[TianHeng|田横]], [[QiState|齐国]], [[PengYue|彭越]], [[LiShang|郦商]], and [[LiShiqi|郦食其]] - old Qi resistance, pardon pressure, and unresolved revenge risk.
 - [[RetainerReciprocityEthic|士为知己者死]], [[AristocraticHonorOverLife|贵族名誉高于生命]], [[MoralReputationPoliticalCapital|道德名望政治资本]], and [[XuBeihong|徐悲鸿]] - honor, retainer death, and later symbolic memory around Tian Heng.

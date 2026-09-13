@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jingning 1 / 33 BCE under [[HanYuandi|汉元帝]], before [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] and the later [[ShiXianWesternHan|石显]] fall sequence. It follows Shi Xian's failed attempt to pull the Feng family into his network, [[FengXunWesternHan|冯勋]]'s private warning to Yuan, and Shi Xian's later blocking of [[FengYewangWesternHan|冯野王]] from becoming Yushi Dafu after [[LiYanshouWesternHan|李延寿]] dies.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jingning 1 / 33 BCE under [[HanYuandi|汉元帝]], before [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] and the later [[ShiXianWesternHan|石显]] fall sequence. It follows Shi Xian's failed attempt to pull the Feng family into his network, [[FengXunWesternHan|冯勋]]'s private warning to Yuan, and Shi Xian's later blocking of [[FengYewangWesternHan|冯野王]] from becoming Yushi Dafu after [[LiYanshouWesternHan|李延寿]] dies.
 
 The durable synthesis is that Shi Xian can win without openly opposing a qualified rival. He praises Feng Yewang's ability, then reframes the appointment as a reputational danger because Feng is [[FengZhaoyiWesternHan|冯昭仪]]'s brother; by using Yuan's fear of appearing to favor harem kin, Shi Xian blocks a hostile family while appearing public-minded.
 

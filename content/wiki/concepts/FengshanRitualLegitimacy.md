@@ -18,9 +18,9 @@ Fengshan ritual legitimacy / 封禅礼制合法性 is the use of the Taishan-cen
 
 The concept began with [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]]. There, [[Taishan|泰山]] and [[LiangfuMountain|梁父山]] let Qin Shi Huang present postwar sovereignty as more than military occupation. The source treats the ceremony as a claim that the newly unified world has heavenly approval, but it also emphasizes that ritual knowledge is uncertain: more than seventy Qi-Lu scholars disagree, so Qin's final performance leans on Qin sacrificial practice rather than a clean inherited protocol.
 
-[[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] broadens the concept from conquest legitimation to restoration completion. Liu Xiu is presented as personally frugal and initially reluctant to fund an elaborate rite, but the `Hetu Huichang Fu` line "赤刘之九，会命岱宗" and the collection of thirty-six matching chenwei passages move fengshan from optional display into destiny-confirming action. The resulting ceremony combines old Han Wudi precedent, ritual materials such as stone, jade documents, and gold mud, the imperial ascent of Taishan, and the paired earth sacrifice at Liangyin.
+[[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]] broadens the concept from conquest legitimation to restoration completion. Liu Xiu is presented as personally frugal and initially reluctant to fund an elaborate rite, but the `Hetu Huichang Fu` line "赤刘之九，会命岱宗" and the collection of thirty-six matching chenwei passages move fengshan from optional display into destiny-confirming action. The resulting ceremony combines old Han Wudi precedent, ritual materials such as stone, jade documents, and gold mud, the imperial ascent of Taishan, and the paired earth sacrifice at Liangyin.
 
-The Liu Xiu branch now includes an important negative gate before the later ceremony in [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]]. In [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]], ministers propose Taishan fengshan in 54 CE, but Liu Xiu refuses because the people still carry resentment; he cites the Analects Taishan/Jisun overreach and says he cannot deceive Heaven or disgrace the record of earlier sage kings. This makes fengshan legitimacy conditional on moral-political fitness, not just availability of ritual form.
+The Liu Xiu branch now includes an important negative gate before the later ceremony in [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]]. In [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|汉纪 729]], ministers propose Taishan fengshan in 54 CE, but Liu Xiu refuses because the people still carry resentment; he cites the Analects Taishan/Jisun overreach and says he cannot deceive Heaven or disgrace the record of earlier sage kings. This makes fengshan legitimacy conditional on moral-political fitness, not just availability of ritual form.
 
 Across the current cases, fengshan is not just piety or spectacle. It is a high-cost political technology that joins route, sacred geography, procedural authority, textual legitimation, and the emperor's embodied participation. The sources also keep different qualifications alive: Qin's problem is ritual uncertainty under post-conquest urgency, while Liu Xiu's problem is the tension among popular grievance, frugality, flattery control, and chenwei-backed legitimacy.
 
@@ -29,29 +29,29 @@ Across the current cases, fengshan is not just piety or spectacle. It is a high-
 - Fengshan makes sovereignty legible as heavenly approval, not only control by force or office.
 - [[Taishan|泰山]] and its paired lower sacrifice site turn legitimacy into a staged route with ascent, offering, document sealing, descent or paired sacrifice, and sacred geography.
 - Qinji 122-1 shows the ritual can be improvised or reconstructed when learned authorities disagree about procedure.
-- Hanji 730 shows the rite can be triggered by prophecy: chenwei turns Liu Xiu's restoration into a destiny that should be ritually completed at Daizong.
-- Hanji 729 shows the same rite can be refused when public resentment, flattery, or ritual overreach would make it illegitimate rather than legitimating.
+- 汉纪 730 shows the rite can be triggered by prophecy: chenwei turns Liu Xiu's restoration into a destiny that should be ritually completed at Daizong.
+- 汉纪 729 shows the same rite can be refused when public resentment, flattery, or ritual overreach would make it illegitimate rather than legitimating.
 - The ceremony creates a cost-and-restraint problem because symbolic legitimacy may demand materials, travel, labor, and display even from a ruler otherwise framed as frugal.
 
 ## Evidence
 
 - Post-conquest legitimacy: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] says Qin Shi Huang's Taishan ceremony converts unification into a claim of heavenly recognition over the eastern lands.
 - Ritual uncertainty and reconstruction: [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo|Qinji 122-1]] says Qi-Lu scholars disagree, leading Qin to rely heavily on its own older sacrificial procedures.
-- Refusal gate: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] says Liu Xiu rejects a 54 CE Taishan proposal because public resentment makes the ceremony a possible attempt to deceive Heaven.
-- Analects qualification: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] uses the Jisun/Taishan line to connect improper sacrifice with ritual self-disgrace.
-- Prophetic trigger: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] says Liu Xiu reads a chenwei line about the ninth Liu meeting destiny at Daizong and orders officials to collect corroborating passages.
-- Guangwu performance sequence: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] narrates Liu Xiu's Taishan heaven sacrifice, ascent, jade-document sealing, Liangyin earth sacrifice, amnesty, and era change.
-- Frugality qualification: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] says Liu Xiu originally resists costly fengshan and still seeks lower-cost material solutions after approving the rite.
+- Refusal gate: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|汉纪 729]] says Liu Xiu rejects a 54 CE Taishan proposal because public resentment makes the ceremony a possible attempt to deceive Heaven.
+- Analects qualification: [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|汉纪 729]] uses the Jisun/Taishan line to connect improper sacrifice with ritual self-disgrace.
+- Prophetic trigger: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]] says Liu Xiu reads a chenwei line about the ninth Liu meeting destiny at Daizong and orders officials to collect corroborating passages.
+- Guangwu performance sequence: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]] narrates Liu Xiu's Taishan heaven sacrifice, ascent, jade-document sealing, Liangyin earth sacrifice, amnesty, and era change.
+- Frugality qualification: [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]] says Liu Xiu originally resists costly fengshan and still seeks lower-cost material solutions after approving the rite.
 
 ## Counterevidence & Qualifications
 
-The current concept is grounded in one Qin source and two Eastern Han source notes. Qinji 122-1 warns that the first historically concrete ceremony's procedure was contested and partly reconstructed; it should not be treated as a fully known ancient manual. Hanji 729 and Hanji 730 are not contradictory within the current synthesis: Hanji 729 records Liu Xiu's 54 CE refusal under conditions of public resentment and perceived flattery, while Hanji 730 records the later 56 CE ceremony after chenwei evidence and ministerial framing change the ritual setting. Hanji 730 shows prophecy-backed action, but it does not prove that Liu Xiu's decision was caused by chenwei alone; the episode also preserves court proposals, Han Wudi precedent, late-reign legitimacy needs, and the emperor's own cost concerns. The concept should remain distinct from general [[ImperialTourPoliticalTheater|imperial touring]], ordinary [[AuspiciousOmenPolitics|auspicious omen politics]], and broad [[MandateOfHeavenLegitimacy|mandate]] claims unless the Taishan-centered rite is doing specific work.
+The current concept is grounded in one Qin source and two Eastern Han source notes. Qinji 122-1 warns that the first historically concrete ceremony's procedure was contested and partly reconstructed; it should not be treated as a fully known ancient manual. 汉纪 729 and 汉纪 730 are not contradictory within the current synthesis: 汉纪 729 records Liu Xiu's 54 CE refusal under conditions of public resentment and perceived flattery, while 汉纪 730 records the later 56 CE ceremony after chenwei evidence and ministerial framing change the ritual setting. 汉纪 730 shows prophecy-backed action, but it does not prove that Liu Xiu's decision was caused by chenwei alone; the episode also preserves court proposals, Han Wudi precedent, late-reign legitimacy needs, and the emperor's own cost concerns. The concept should remain distinct from general [[ImperialTourPoliticalTheater|imperial touring]], ordinary [[AuspiciousOmenPolitics|auspicious omen politics]], and broad [[MandateOfHeavenLegitimacy|mandate]] claims unless the Taishan-centered rite is doing specific work.
 
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added Hanji 729 as a refusal and ritual-eligibility branch before Liu Xiu's later acceptance case.
-- Added Hanji 730 as the Eastern Han restoration case, where chenwei pushes Liu Xiu toward Taishan fengshan.
+- Added 汉纪 729 as a refusal and ritual-eligibility branch before Liu Xiu's later acceptance case.
+- Added 汉纪 730 as the Eastern Han restoration case, where chenwei pushes Liu Xiu toward Taishan fengshan.
 - Reframed the concept from a Qin-only post-conquest ceremony into a recurring imperial mechanism for sacred authorization.
 - Preserved Qin ritual uncertainty and Liu Xiu's frugality as separate qualifications.
 
@@ -63,6 +63,6 @@ The current concept is grounded in one Qin source and two Eastern Han source not
 - [[LiuXiu|光武帝刘秀]] - restoration ruler whose chenwei-backed ceremony grounds the second current case.
 - [[MandateOfHeavenLegitimacy|天命合法性]] - broader sacred-authorization frame that fengshan ritual makes visible.
 - [[ChenweiPolitics|谶纬政治]] - prophetic-text framework that triggers the Guangwu fengshan decision.
-- [[Analects|《论语》]] - textual authority used to frame improper Taishan sacrifice as ritual overreach in Hanji 729.
+- [[Analects|《论语》]] - textual authority used to frame improper Taishan sacrifice as ritual overreach in 汉纪 729.
 - [[ProphecyTriggeredPolicy|预言触发政策]] - narrower mechanism by which a textual omen becomes state action.
 - [[ImperialTourPoliticalTheater|帝国巡游政治剧场]] - adjacent travel-and-presence frame that overlaps with but does not fully explain fengshan.

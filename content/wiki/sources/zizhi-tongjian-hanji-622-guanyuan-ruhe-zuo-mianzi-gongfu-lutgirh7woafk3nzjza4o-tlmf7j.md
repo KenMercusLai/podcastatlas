@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 4 CE under [[HanPingdi|汉平帝]], before [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] and the later praise-politics sequence. It frames [[WangMang|王莽]]'s Ming Tang, Biyong, Lingtai, scholar-housing, [[Taixue|太学]], textual-standardization, and Yellow River planning proposals as [[FaceProjectGovernance|面子工程式治理]]: visible cultural and public-works ambition that increases political prestige without yet proving implementation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 4 CE under [[HanPingdi|汉平帝]], before [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|汉纪 624]] and the later praise-politics sequence. It frames [[WangMang|王莽]]'s Ming Tang, Biyong, Lingtai, scholar-housing, [[Taixue|太学]], textual-standardization, and Yellow River planning proposals as [[FaceProjectGovernance|面子工程式治理]]: visible cultural and public-works ambition that increases political prestige without yet proving implementation.
 
 The durable synthesis is that Wang Mang's pre-usurpation legitimacy was not built only from omens and formal titles. The episode shows a softer image-building layer: ritual buildings, Confucian education, recruitment of specialists, and hydraulic-policy debate let Wang Mang appear classical, public-spirited, and problem-solving even when the river project does not land.
 
@@ -43,10 +43,10 @@ The durable synthesis is that Wang Mang's pre-usurpation legitimacy was not buil
 - [[ZhenFengXinOfficial|甄丰]] - appears as the Shaofu receiving Shen Kai's river-management report before his later praise-politics and fuming-backfire roles.
 - [[ConfucianIdealGovernance|儒家理想治理]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[RitualCapitalCentrality|礼制中心式都城合法性]] - adjacent frames for ritual, classical knowledge, and symbolic public order.
 - [[InfeasiblePublicWorksCancellation|不可成工程止损]] - later contrast case where technical infeasibility leads to cancellation rather than image-first continuation.
-- [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] - following backfill source where Wang Mang's public status inflation moves into Xihai law, Ming Tang rewards, mass petitions, and Nine Bestowments.
+- [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|汉纪 624]] - following backfill source where Wang Mang's public status inflation moves into Xihai law, Ming Tang rewards, mass petitions, and Nine Bestowments.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source precedes the 4-5 CE Hanji 624 source and should not be read as evidence that later Xin-era reforms or ritual spectacles had already occurred.
+- Chronology qualification: this source precedes the 4-5 CE 汉纪 624 source and should not be read as evidence that later Xin-era reforms or ritual spectacles had already occurred.
 - Scope caution: Ming Tang, Biyong, Lingtai, scholar-housing counts, exact Taixue posts, specialist categories, river-engineering feasibility, Guan Bing, Han Mu, Wang Heng, Shen Kai, and Wang Mang's inner motive remain source-scoped unless later notes require canonical expansion.

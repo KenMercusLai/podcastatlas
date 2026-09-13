@@ -14,7 +14,7 @@ Prison ritual legitimacy refusal / 冤狱仪式合法性拒绝 is the pattern wh
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] creates this concept through [[FanPangLateHan|范滂]] inside the first Party Prohibition prison case. The source says prisoners worship Gao Yao / 皋陶, the exemplary justice figure, before interrogation or judgment. Fan Pang refuses: if Gao Yao knows he is innocent, Gao Yao will appeal to Heaven for him; if he is guilty, worship is useless.
+[[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] creates this concept through [[FanPangLateHan|范滂]] inside the first Party Prohibition prison case. The source says prisoners worship Gao Yao / 皋陶, the exemplary justice figure, before interrogation or judgment. Fan Pang refuses: if Gao Yao knows he is innocent, Gao Yao will appeal to Heaven for him; if he is guilty, worship is useless.
 
 The refusal is not anti-ritual in general. It is a judgment about misplaced ritual under unjust prosecution. Fan Pang's act denies that ceremonial performance can repair vague political accusation or substitute for true justice. The source says other prisoners stop worshiping after his refusal, making the gesture collective rather than merely private.
 
@@ -28,10 +28,10 @@ The refusal is not anti-ritual in general. It is a judgment about misplaced ritu
 
 ## Evidence
 
-- Prison setting: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] places Fan Pang among prisoners in the first Party Prohibition case after Li Ying's testimony implicates many people.
-- Ritual named: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says prisoners normally worship Gao Yao / 皋陶 in that setting.
-- Refusal logic: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says Fan Pang argues that if Gao Yao knows his innocence he will appeal to Heaven, and if Fan is guilty, worship cannot help.
-- Collective effect: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says other prisoners stop worshiping after Fan Pang's refusal.
+- Prison setting: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] places Fan Pang among prisoners in the first Party Prohibition case after Li Ying's testimony implicates many people.
+- Ritual named: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] says prisoners normally worship Gao Yao / 皋陶 in that setting.
+- Refusal logic: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] says Fan Pang argues that if Gao Yao knows his innocence he will appeal to Heaven, and if Fan is guilty, worship cannot help.
+- Collective effect: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] says other prisoners stop worshiping after Fan Pang's refusal.
 
 ## Counterevidence & Qualifications
 
@@ -39,8 +39,8 @@ The concept does not treat all ritual as empty or politically suspect. It is sou
 
 ## What Changed
 
-- Hanji 874 creates this concept from Fan Pang's refusal to worship Gao Yao in prison.
-- The current synthesis adds a ritual-legitimacy layer before Fan Pang's Hanji 876 prison defense and later death-facing responsibility.
+- 汉纪 874 creates this concept from Fan Pang's refusal to worship Gao Yao in prison.
+- The current synthesis adds a ritual-legitimacy layer before Fan Pang's 汉纪 876 prison defense and later death-facing responsibility.
 
 ## Related Concepts
 

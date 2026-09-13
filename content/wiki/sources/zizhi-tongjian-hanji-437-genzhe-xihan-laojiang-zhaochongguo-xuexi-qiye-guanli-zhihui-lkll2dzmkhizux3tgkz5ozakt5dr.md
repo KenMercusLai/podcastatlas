@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the middle of [[ZhaoChongguoWesternHan|赵充国]]'s Qiang campaign between [[zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt|Hanji 436]] and [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]]. It centers on Zhao's slow pursuit of fleeing [[XianlingQiang|先零羌]], his protection of noncombatant settlements and farmland, his release and reassurance of a surrendering chief, and his memorial arguing that屯田, infrastructure, and controlled waiting will solve the crisis more cheaply than imperial pressure for a broad attack.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the middle of [[ZhaoChongguoWesternHan|赵充国]]'s Qiang campaign between [[zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt|汉纪 436]] and [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]]. It centers on Zhao's slow pursuit of fleeing [[XianlingQiang|先零羌]], his protection of noncombatant settlements and farmland, his release and reassurance of a surrendering chief, and his memorial arguing that屯田, infrastructure, and controlled waiting will solve the crisis more cheaply than imperial pressure for a broad attack.
 
 The durable synthesis is that Zhao's restraint is managerial statecraft, not softness. He avoids forcing cornered enemies into a death fight, preserves trust among detachable Qiang groups, refuses the safer personal path of obeying a bad order, and turns the frontier problem into [[FrontierResourceIntegration|resource integration]] through local food production, bridges, roads, guard posts, and surrender management.
 
@@ -52,6 +52,6 @@ The durable synthesis is that Zhao's restraint is managerial statecraft, not sof
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode deepens Hanji 436 and Hanji 439 by showing the intervening campaign logic rather than overturning either page.
+- No settled contradiction with existing wiki content was found. The episode deepens 汉纪 436 and 汉纪 439 by showing the intervening campaign logic rather than overturning either page.
 - Scope caution: casualty, livestock, wagon, timber, bridge, troop, and land-allocation figures are preserved as source claims; exact received-text chronology and geography remain source-scoped unless checked against primary histories.
 - Interpretation caution: the Huawei, Kevin Kelly, and enterprise-management comparisons are the host's analogy layer, not evidence about Western Han institutions.

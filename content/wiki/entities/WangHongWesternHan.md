@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-王洪 / Wang Hong (Western Han) enters the wiki through [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] as a late [[WesternHanDynasty|Western Han]] palace official connected by marriage to [[XiaoXianWesternHan|萧贤]] and present near [[HanAidi|汉哀帝]] and [[DongXian|董贤]]. His profile centers on two linked acts: he diplomatically helps Xiao Xian avoid a dangerous Dong-family marriage, then directly blocks Aidi's banquet remark about imitating Yao's abdication to Shun.
+王洪 / Wang Hong (Western Han) enters the wiki through [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] as a late [[WesternHanDynasty|Western Han]] palace official connected by marriage to [[XiaoXianWesternHan|萧贤]] and present near [[HanAidi|汉哀帝]] and [[DongXian|董贤]]. His profile centers on two linked acts: he diplomatically helps Xiao Xian avoid a dangerous Dong-family marriage, then directly blocks Aidi's banquet remark about imitating Yao's abdication to Shun.
 
 ## Current Profile
 
@@ -30,19 +30,19 @@ After [[WangZhengjun|王政君]] later apologizes with Wang Hong and Aidi recall
 
 ## Evidence
 
-- Marriage channel: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Dong Xian's father asks Wang Hong to relay a proposal for Dong Kuanxin to marry Xiao Xian's daughter.
-- Risk comprehension: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Wang Hong understands Xiao Xian's fear after hearing the "云止其中" explanation and replies to Dong's father with a face-saving refusal.
-- Banquet remonstrance: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Wang Hong interrupts Aidi's Yao-Shun abdication remark and says the empire is Gaozu's realm, not Aidi's private property.
-- Punishment and recall: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Aidi removes Wang Hong from palace access and later recalls him after Wang Zhengjun apologizes with him.
-- Dong Xian memorial: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Wang Hong criticizes Dong Xian's lack of merit, high office, military authority, family rewards, and fiscal cost.
+- Marriage channel: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Dong Xian's father asks Wang Hong to relay a proposal for Dong Kuanxin to marry Xiao Xian's daughter.
+- Risk comprehension: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Wang Hong understands Xiao Xian's fear after hearing the "云止其中" explanation and replies to Dong's father with a face-saving refusal.
+- Banquet remonstrance: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Wang Hong interrupts Aidi's Yao-Shun abdication remark and says the empire is Gaozu's realm, not Aidi's private property.
+- Punishment and recall: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Aidi removes Wang Hong from palace access and later recalls him after Wang Zhengjun apologizes with him.
+- Dong Xian memorial: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Wang Hong criticizes Dong Xian's lack of merit, high office, military authority, family rewards, and fiscal cost.
 
 ## Qualifications
 
-This page is bounded to Hanji 601-1. It does not reconstruct Wang Hong's complete official career, exact office chronology, full family network, or final fate. The name is kept distinct from [[WangHongEasternHan|王闳 / Wang Hong (Eastern Han)]], [[WangHongLateHan|王宏 / Wang Hong (late Han)]], [[WangHongjie|王洪杰]], and [[WangHongrui|王洪瑞]].
+This page is bounded to 汉纪 601-1. It does not reconstruct Wang Hong's complete official career, exact office chronology, full family network, or final fate. The name is kept distinct from [[WangHongEasternHan|王闳 / Wang Hong (Eastern Han)]], [[WangHongLateHan|王宏 / Wang Hong (late Han)]], [[WangHongjie|王洪杰]], and [[WangHongrui|王洪瑞]].
 
 ## What Changed
 
-- Created a Western Han disambiguation page for the Wang Hong active in Hanji 601-1.
+- Created a Western Han disambiguation page for the Wang Hong active in 汉纪 601-1.
 - Added his marriage-intermediary, abdication-remonstrance, punishment-recall, and Dong Xian memorial profile.
 
 ## Relationships

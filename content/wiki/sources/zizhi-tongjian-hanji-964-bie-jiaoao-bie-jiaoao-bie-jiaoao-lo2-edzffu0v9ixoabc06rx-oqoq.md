@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] setting after [[DongZhuo|董卓]]'s death and the earlier foundation of [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] rise before [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]]. It frames opportunity, economic independence, and humility as the moral opening, then turns to [[WangYunLateHan|王允]]'s execution of [[CaiYong|蔡邕]], [[LiuDaiLateHan|刘岱]]'s fatal rejection of [[BaoXin|鲍信]]'s defensive advice, and Cao Cao's costly fight against [[QingzhouYellowTurbans|青州黄巾军]]. The durable contribution is that success without restraint can break both judgment and relationships: Wang Yun controls historical reputation too anxiously, Liu Dai lets status override resource analysis, and [[LyuBu|吕布]] turns merit into public boasting.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|汉纪 965]] setting after [[DongZhuo|董卓]]'s death and the earlier foundation of [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] rise before [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|汉纪 968]]. It frames opportunity, economic independence, and humility as the moral opening, then turns to [[WangYunLateHan|王允]]'s execution of [[CaiYong|蔡邕]], [[LiuDaiLateHan|刘岱]]'s fatal rejection of [[BaoXin|鲍信]]'s defensive advice, and Cao Cao's costly fight against [[QingzhouYellowTurbans|青州黄巾军]]. The durable contribution is that success without restraint can break both judgment and relationships: Wang Yun controls historical reputation too anxiously, Liu Dai lets status override resource analysis, and [[LyuBu|吕布]] turns merit into public boasting.
 
 ## Key Claims
 
@@ -31,7 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - Cao Cao defeats the Qingzhou Yellow Turbans only after severe fighting; Bao Xin dies while saving him, and Cao Cao later buries a wooden image after the body cannot be found.
 - Cao Cao's Yanzhou takeover lacks clean title legitimacy because the court appoints [[JinShang|金尚]] instead, forcing Jin Shang toward [[YuanShu|袁术]] after Cao Cao blocks his arrival.
 - The closing returns to Wang Yun and Lü Bu: Lü Bu wants Dong Zhuo's private soldiers killed and Dong Zhuo's goods distributed, while Wang Yun refuses both.
-- Wang Yun looks down on Lü Bu as a military man, while Lü Bu repeatedly publicizes his merit in killing Dong Zhuo; the episode uses that conflict to set up Hanji 965's warning not to keep mentioning help one has given.
+- Wang Yun looks down on Lü Bu as a military man, while Lü Bu repeatedly publicizes his merit in killing Dong Zhuo; the episode uses that conflict to set up 汉纪 965's warning not to keep mentioning help one has given.
 
 ## Key Quotes
 
@@ -43,7 +43,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]], [[WangYunLateHan|王允]], [[LyuBu|吕布]], and [[DiscreetBenefactionDignity|沉默施恩的尊严保护]] - this episode supplies the immediate merit-boasting setup for the next episode's dignity lesson.
+- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|汉纪 965]], [[WangYunLateHan|王允]], [[LyuBu|吕布]], and [[DiscreetBenefactionDignity|沉默施恩的尊严保护]] - this episode supplies the immediate merit-boasting setup for the next episode's dignity lesson.
 - [[WangYunLateHan|王允]], [[CaiYong|蔡邕]], [[HistoricalRecordAuthority|史官记录话语权]], and [[PostSuccessArrogance|得势后的骄傲]] - source-scoped interpretation of reputation anxiety and post-victory control.
 - [[LiuDaiLateHan|刘岱]], [[BaoXin|鲍信]], [[QingzhouYellowTurbans|青州黄巾军]], [[YanzhouLateHan|兖州]], and [[ResourceAsymmetryAttrition|资源不对称消耗战]] - Yanzhou defensive-choice branch.
 - [[CaoCao|曹操]], [[WanQianLateHan|万潜]], [[ChenGongLateHan|陈宫]], [[JinShang|金尚]], and [[YuanShu|袁术]] - Cao Cao's contested provincial entry before his later system-building.
@@ -51,5 +51,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction is recorded. The episode backfills Hanji 965's Wang Yun/Lü Bu conflict and Hanji 968's Qingzhou-surrender branch rather than reversing either.
+- No settled contradiction is recorded. The episode backfills 汉纪 965's Wang Yun/Lü Bu conflict and 汉纪 968's Qingzhou-surrender branch rather than reversing either.
 - Source-scope caution: Wang Yun's jealousy, Cai Yong motive analysis, and the "成公" transcript rendering are kept as source-scoped interpretation or normalization rather than treated as independently settled facts.

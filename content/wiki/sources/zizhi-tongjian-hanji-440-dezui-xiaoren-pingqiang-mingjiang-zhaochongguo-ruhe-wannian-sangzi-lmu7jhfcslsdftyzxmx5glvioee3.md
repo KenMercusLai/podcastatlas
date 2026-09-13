@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate aftermath of [[ZhaoChongguoWesternHan|赵充国]]'s Qiang campaign after [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]]. It follows Zhao's refusal to recode the campaign as a victory for Xin Wuxian and Xu Yanshou, his objection to Xin Tang as Protector of the Qiang, Xin Tang's later drunken abuse of Qiang people, and the retaliatory accusation that leads Zhao's son Zhao Ang to die in prison.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate aftermath of [[ZhaoChongguoWesternHan|赵充国]]'s Qiang campaign after [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]]. It follows Zhao's refusal to recode the campaign as a victory for Xin Wuxian and Xu Yanshou, his objection to Xin Tang as Protector of the Qiang, Xin Tang's later drunken abuse of Qiang people, and the retaliatory accusation that leads Zhao's son Zhao Ang to die in prison.
 
 The durable synthesis is that Zhao's frontier judgment remained strong after the battlefield ended, but truthful reporting and appointment opposition created court enemies. The episode also extends the frontier layer from military success into administrative settlement: Qiang groups surrender, Jincheng dependent-state arrangements are created, and the later Zhao Kuan stele lets the host read Zhao's family as becoming rooted in the Hehuang region.
 
@@ -38,7 +38,7 @@ The durable synthesis is that Zhao's frontier judgment remained strong after the
 ## Connections
 
 - [[ZhaoChongguoWesternHan|赵充国]] and [[EmperorXuanOfHan|汉宣帝]] - the source adds Zhao's post-campaign truth-telling, appointment warning, and family-cost layer.
-- [[FrontierResourceIntegration|边疆资源整合治理]] - the source extends Hanji 439's屯田 settlement into surrendered-Qiang administration and Jincheng dependent-state placement.
+- [[FrontierResourceIntegration|边疆资源整合治理]] - the source extends 汉纪 439's屯田 settlement into surrendered-Qiang administration and Jincheng dependent-state placement.
 - [[QiangOfficialAbuseRebellionTrigger|羌地官吏侵扰叛乱触发]] - Xin Tang's drunken abuse supplies an earlier Western Han version of official misconduct reigniting Qiang unrest.
 - Family-directed retaliation - adjacent source-scoped pattern because a grievance against Zhao is redirected toward his son Zhao Ang.
 - [[MaYuanEasternHan|马援]] and [[HorsehideBurialResolve|马革裹尸式边将生死观]] - closing comparison that reads frontier service as a multi-generation ethic.
@@ -46,5 +46,5 @@ The durable synthesis is that Zhao's frontier judgment remained strong after the
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode deepens Hanji 439's success story by adding the personal and family cost of Zhao's truthful reporting rather than overturning the earlier assessment.
+- No settled contradiction with existing wiki content was found. The episode deepens 汉纪 439's success story by adding the personal and family cost of Zhao's truthful reporting rather than overturning the earlier assessment.
 - Scope caution: Xin Wuxian, Xu Yanshou, Xin Tang, Xin Linzhong, Zhao Ang, Zhao Kuan, Dize, Yang Diao, Liang, Miwang, Jiangong, Huangdi, Dingling, and the Zhao Kuan stele remain source-scoped unless later notes warrant standalone pages or disambiguation.

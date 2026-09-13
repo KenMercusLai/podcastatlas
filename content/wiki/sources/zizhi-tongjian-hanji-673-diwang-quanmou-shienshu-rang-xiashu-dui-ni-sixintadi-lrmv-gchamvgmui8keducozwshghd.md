@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Hebei turning point after [[WangLangHebeiClaimant|王郎]]'s defeat and immediately before [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]]. [[GengYanEasternHan|耿弇]] urges [[LiuXiu|刘秀]] not to demobilize or obey [[LiuXuanGengshiEmperor|刘玄]]'s recall, because [[TongmaRebelArmyEasternHan|铜马军]], [[ChimeiRebellion|赤眉]], and other Hebei forces remain too strong for the Gengshi regime to control.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Hebei turning point after [[WangLangHebeiClaimant|王郎]]'s defeat and immediately before [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|汉纪 674]]. [[GengYanEasternHan|耿弇]] urges [[LiuXiu|刘秀]] not to demobilize or obey [[LiuXuanGengshiEmperor|刘玄]]'s recall, because [[TongmaRebelArmyEasternHan|铜马军]], [[ChimeiRebellion|赤眉]], and other Hebei forces remain too strong for the Gengshi regime to control.
 
 The durable synthesis is that Liu Xiu's autonomous power begins before accession through counsel, coercive mobilization, and surrender incorporation. [[WuHanEasternHan|吴汉]] and Geng Yan force Youzhou cavalry into Liu Xiu's camp, Liu Xiu defeats and absorbs Tongma-linked forces through a [[PersonalRiskTrustSignal|personal-risk trust signal]], and the episode sets up [[XieGongEasternHan|谢躬]]'s later removal by showing Liu Xiu using gifts and envoys to lull his suspicion.
 
@@ -44,12 +44,12 @@ The durable synthesis is that Liu Xiu's autonomous power begins before accession
 - [[WuHanEasternHan|吴汉]], [[GengYanEasternHan|耿弇]], [[GengKuangEasternHan|耿况]], and [[ZhuFuEasternHan|朱浮]] - Youzhou cavalry mobilization turns northern local force into Liu Xiu's military base.
 - [[TongmaRebelArmyEasternHan|铜马军]], [[PersonalRiskTrustSignal|亲身涉险式信任信号]], and [[PoliticalSurrenderCascade|招降示范级联]] - the Tongma surrender shows fear after submission being converted into mass incorporation through visible personal risk.
 - [[ChimeiRebellion|赤眉]] and [[HeneiCommandery|河内郡]] - Liu Xiu's follow-on victories and Henei acquisition show Hebei consolidation turning into broader regional advantage.
-- [[XieGongEasternHan|谢躬]], [[WuHanEasternHan|吴汉]], and [[CenPengEasternHan|岑彭]] - the episode supplies the deceptive-lull prelude to Hanji 674's Yecheng seizure.
-- [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] - direct continuation into Xie Gong's removal, Gengshi diplomatic weakness, Deng Yu's western mission, and Henei as a rear base.
+- [[XieGongEasternHan|谢躬]], [[WuHanEasternHan|吴汉]], and [[CenPengEasternHan|岑彭]] - the episode supplies the deceptive-lull prelude to 汉纪 674's Yecheng seizure.
+- [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|汉纪 674]] - direct continuation into Xie Gong's removal, Gengshi diplomatic weakness, Deng Yu's western mission, and Henei as a rear base.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source pushes Liu Xiu's early-current autonomous-power layer before Hanji 674's Yecheng removal and Hanji 675's Jianwu 1 Shunshui defeat recovery.
+- Chronology qualification: this source pushes Liu Xiu's early-current autonomous-power layer before 汉纪 674's Yecheng removal and 汉纪 675's Jianwu 1 Shunshui defeat recovery.
 - Identity caution: Miao Zeng, Wei Shun, Cai Chong, Gaohu, Chonglian, Datong/Daqiang-like force names, Youlai, Shangjiang, Qingdu, Wuxiao, Wufan, Wulou, Fuping, Huosuo, Shequan, Xiao county, Guantao, Puyang, and exact force totals remain source-scoped unless later notes warrant canonical pages.
 - Identity caution: the Henei taishou Han Xin is not merged here with [[HanXinSituEasternHan|韩歆 / Han Xin (Eastern Han Situ)]] until a bounded page update verifies the office sequence.

@@ -12,7 +12,7 @@ last_updated: 2026-08-23
 
 Loufan matters here as manpower and frontier expertise. The source treats the recruitment as another step in Zhao's military strengthening: cavalry reform is not only clothing and technique, but also the incorporation of northern fighters into [[ZhaoState|赵国]]'s war capacity.
 
-In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], Liu Bang's side uses Loufan archers during the standoff at [[GuangwuChuHan|广武]], but [[XiangYu|项羽]] personally advances and frightens them back. The episode uses the Loufan not to identify a new named person, but to show that Xiang Yu's direct physical presence still has tactical intimidation value even as his supply and strategic position worsens.
+In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|汉纪 163]], Liu Bang's side uses Loufan archers during the standoff at [[GuangwuChuHan|广武]], but [[XiangYu|项羽]] personally advances and frightens them back. The episode uses the Loufan not to identify a new named person, but to show that Xiang Yu's direct physical presence still has tactical intimidation value even as his supply and strategic position worsens.
 
 ## Connections
 - [[ZhaoWulingwang|赵武灵王]] and [[ZhaoState|赵国]] - ruler and state recruiting Loufan fighters.

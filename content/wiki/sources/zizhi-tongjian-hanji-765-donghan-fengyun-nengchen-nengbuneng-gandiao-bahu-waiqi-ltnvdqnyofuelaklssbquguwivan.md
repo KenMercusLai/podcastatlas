@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Northern Xiongnu settlement dispute immediately before [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]]. [[DouXianEasternHan|Dou Xian]] urges [[EmperorHeOfHan|Emperor He]] to recognize [[YuChuNorthernXiongnu|Yu Chu / 于除]] as a Northern Xiongnu chanyu under a Southern Xiongnu-style arrangement, while [[YuanAnEasternHan|Yuan An]] and [[RenKuiEasternHan|Ren Kui]] oppose the plan on credibility, precedent, Wuhuan-Xianbei relations, and fiscal grounds.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Northern Xiongnu settlement dispute immediately before [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]]. [[DouXianEasternHan|Dou Xian]] urges [[EmperorHeOfHan|Emperor He]] to recognize [[YuChuNorthernXiongnu|Yu Chu / 于除]] as a Northern Xiongnu chanyu under a Southern Xiongnu-style arrangement, while [[YuanAnEasternHan|Yuan An]] and [[RenKuiEasternHan|Ren Kui]] oppose the plan on credibility, precedent, Wuhuan-Xianbei relations, and fiscal grounds.
 
 The durable synthesis is that frontier recognition is not a free diplomatic win. Yuan An argues that recognizing a newly arrived Northern Xiongnu claimant would undercut the older [[SouthernXiongnu|Southern Xiongnu]] settlement, signal bad faith to dependent groups, anger [[Wuhuan|Wuhuan]] and [[Xianbei|Xianbei]], and add heavy public cost; Emperor He's acceptance of Dou's proposal, followed by Yu Chu's later rebellion, makes the episode a compact case for [[FrontierRecognitionCredibilityTradeoff|frontier recognition credibility tradeoff]] under outer-relative pressure.
 
@@ -41,10 +41,10 @@ The durable synthesis is that frontier recognition is not a free diplomatic win.
 - [[DouXianEasternHan|窦宪]], [[EmperorHeOfHan|汉和帝]], and [[OuterRelativeCourtPower|外戚专权与清算]] - Dou's kinship power helps push through a frontier plan over developed ministerial objections.
 - [[NorthernXiongnuLateHan|北匈奴]], [[YuChuNorthernXiongnu|于除 / Yu Chu]], and [[SouthernXiongnu|南匈奴]] - the core policy question is whether a new Northern Xiongnu recognition package should copy an older Southern Xiongnu settlement.
 - [[Wuhuan|乌桓]] and [[Xianbei|鲜卑]] - Yuan An treats their likely reaction as part of the cost of recognizing Youliu's brother.
-- [[DingHongEasternHan|丁鸿]] - named as one of the later anti-Dou supporters, bridging this policy dispute into Hanji 766's omen-coded warning and purge setup.
+- [[DingHongEasternHan|丁鸿]] - named as one of the later anti-Dou supporters, bridging this policy dispute into 汉纪 766's omen-coded warning and purge setup.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills the policy dispute that Hanji 766 treats through the later anti-Dou resistance and palace-operation sequence.
-- Name normalization: this source uses 于除 for the Northern Xiongnu claimant, while the existing page from Hanji 767 uses 俞厨. The wiki keeps the stable [[YuChuNorthernXiongnu|Yu Chu]] route and records 于除 as the clearer source spelling.
+- No settled contradiction is recorded. This source backfills the policy dispute that 汉纪 766 treats through the later anti-Dou resistance and palace-operation sequence.
+- Name normalization: this source uses 于除 for the Northern Xiongnu claimant, while the existing page from 汉纪 767 uses 俞厨. The wiki keeps the stable [[YuChuNorthernXiongnu|Yu Chu]] route and records 于除 as the clearer source spelling.
 - Scope caution: Song You, Liu Fang, the unnamed senior finance official, Puli Sea, Youliu chanyu, Tuntuhe, exact budget figures, and the host's modern reading advice remain source-scoped unless later notes warrant standalone pages.

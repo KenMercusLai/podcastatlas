@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 127-129 CE opening layer before [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]]. It follows [[HuangQiongLateHan|黄琼]] being summoned under [[EmperorShunOfHan|汉顺帝]], then being pushed by [[LiGuLateHan|李固]] not to hide behind high reputation when imperfect public service is still possible.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 127-129 CE opening layer before [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]]. It follows [[HuangQiongLateHan|黄琼]] being summoned under [[EmperorShunOfHan|汉顺帝]], then being pushed by [[LiGuLateHan|李固]] not to hide behind high reputation when imperfect public service is still possible.
 
 The title case comes from 129 CE: after Shun announces frugality and bans tribute of precious objects, [[WenLongLateHan|文龙]] presents a large pearl from [[GuiyangCommanderyLateHan|桂阳郡]]. Shun returns it as flattery, making the episode a compact case of hierarchy-sensitive signaling: service, advice, and gifts have to fit the ruler's declared political direction rather than the subordinate's image of what power wants to hear.
 
@@ -54,6 +54,6 @@ The title case comes from 129 CE: after Shun announces frugality and bans tribut
 
 ## Contradictions
 
-- No settled contradiction with the existing wiki was found; the episode mainly backfills events before Hanji 810.
+- No settled contradiction with the existing wiki was found; the episode mainly backfills events before 汉纪 810.
 - The source note keeps Huang Xiang, Yang Hou, Luan Di Ba, Luan Di Xiuli, Huan Yan, Lai Li, Liu Guang, Zhang Hao, and the host's relationship-value frame source-scoped unless later evidence makes them recurring.
 - The episode explicitly distinguishes this Li Gu from the Water Margin figure of the same name; the canonical wiki link is the late-Han [[LiGuLateHan|李固]] page.

@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 徐州屠杀 / Xuzhou Massacre (Late Han)
 
-徐州屠杀 / Xuzhou Massacre (Late Han) enters the wiki through [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] as the civilian-devastation branch following [[CaoSongMurder|曹嵩遇害]]. After [[CaoSong|曹嵩]] and [[CaoDeLateHan|曹德]] are killed, [[CaoCao|曹操]] attacks [[TaoQianLateHan|陶谦]] in [[Xuzhou|徐州]], takes cities, defeats Tao Qian near Pengcheng, and carries retaliation into civilian space.
+徐州屠杀 / Xuzhou Massacre (Late Han) enters the wiki through [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|汉纪 971]] as the civilian-devastation branch following [[CaoSongMurder|曹嵩遇害]]. After [[CaoSong|曹嵩]] and [[CaoDeLateHan|曹德]] are killed, [[CaoCao|曹操]] attacks [[TaoQianLateHan|陶谦]] in [[Xuzhou|徐州]], takes cities, defeats Tao Qian near Pengcheng, and carries retaliation into civilian space.
 
 The episode stresses that Xuzhou is not an empty battlefield. Refugees from the Luoyang and Dong Zhuo disorder have moved into the region, so Cao Cao's revenge strikes a crowded refuge zone. The cited [[HouHanshu|《后汉书》]] line about killings at the [[SiRiver|泗水]] is kept as a source-scoped atrocity notice, and the later taking of Qulu, Suiling, and Xiaqiu extends the pattern from river killing to city slaughter.
 

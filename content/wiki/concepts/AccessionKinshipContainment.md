@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] grounds the concept at the death of [[LiuXiu|光武帝刘秀]]. [[EmperorMingOfHan|汉明帝刘庄]] inherits not only the throne but also a dangerous family field: [[LiuQiangDonghaiKing|刘强]] is the displaced former heir, his mother Queen Guo had been displaced, and [[LiuJingGuanglingKingEasternHan|刘京 / 刘荆]] tries to activate that grievance through an anonymous letter.
+[[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] grounds the concept at the death of [[LiuXiu|光武帝刘秀]]. [[EmperorMingOfHan|汉明帝刘庄]] inherits not only the throne but also a dangerous family field: [[LiuQiangDonghaiKing|刘强]] is the displaced former heir, his mother Queen Guo had been displaced, and [[LiuJingGuanglingKingEasternHan|刘京 / 刘荆]] tries to activate that grievance through an anonymous letter.
 
 Mingdi's response is containment before public punishment. Liu Qiang reports the letter, Mingdi keeps Liu Jing's role private because of full-brother kinship, lets Liu Qiang leave the capital first, and then reassures the Guo/Liu Qiang branch. The concept therefore captures a low-noise accession tactic: remove combustible proximity, honor the vulnerable line, and avoid turning a provocation into a public family split.
 
@@ -28,18 +28,18 @@ Mingdi's response is containment before public punishment. Liu Qiang reports the
 
 ## Evidence
 
-- Displaced-heir provocation: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] says Liu Jing sends an anonymous letter urging Liu Qiang to see his earlier deposition and Queen Guo's removal as grounds for action.
-- Loyal reporting: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] says Liu Qiang panics, captures the messenger figure, seals the letter, and submits it to Mingdi.
-- Confidential containment: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] presents Mingdi as keeping Liu Jing's role private while moving Liu Qiang out first and caring for the vulnerable branch.
-- Ritual transition setting: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] pairs the letter crisis with Zhao Xi's repair of funeral procedure, showing kinship and ceremony as linked accession tasks.
+- Displaced-heir provocation: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] says Liu Jing sends an anonymous letter urging Liu Qiang to see his earlier deposition and Queen Guo's removal as grounds for action.
+- Loyal reporting: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] says Liu Qiang panics, captures the messenger figure, seals the letter, and submits it to Mingdi.
+- Confidential containment: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] presents Mingdi as keeping Liu Jing's role private while moving Liu Qiang out first and caring for the vulnerable branch.
+- Ritual transition setting: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] pairs the letter crisis with Zhao Xi's repair of funeral procedure, showing kinship and ceremony as linked accession tasks.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in one source layer and should not be generalized into a universal Eastern Han succession rule. Hanji 733-1 and Hanji 738 show that Liu Jing's danger later resurfaces, so early private containment reduces immediate risk but does not permanently solve royal-brother ambition or suspicion.
+The concept is currently grounded in one source layer and should not be generalized into a universal Eastern Han succession rule. 汉纪 733-1 and 汉纪 738 show that Liu Jing's danger later resurfaces, so early private containment reduces immediate risk but does not permanently solve royal-brother ambition or suspicion.
 
 ## What Changed
 
-- Created this concept from Hanji 732 to capture Mingdi's first royal-family risk response at accession.
+- Created this concept from 汉纪 732 to capture Mingdi's first royal-family risk response at accession.
 
 ## Related Concepts
 

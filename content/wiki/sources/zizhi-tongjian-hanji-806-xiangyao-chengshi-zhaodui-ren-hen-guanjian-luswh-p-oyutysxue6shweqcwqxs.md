@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 126 CE [[EmperorShunOfHan|汉顺帝]] court layer immediately before [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]]. It centers [[YuXuEasternHan|虞诩]]'s prosecution of the eunuch [[ZhangFangEunuchLateHan|张防]], Zhang Fang's retaliatory access to the emperor, and the ally chain through [[SunChengLateHan|孙程]] and [[GaoFanLateHan|高梵]] that finally gets the case reversed.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 126 CE [[EmperorShunOfHan|汉顺帝]] court layer immediately before [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]]. It centers [[YuXuEasternHan|虞诩]]'s prosecution of the eunuch [[ZhangFangEunuchLateHan|张防]], Zhang Fang's retaliatory access to the emperor, and the ally chain through [[SunChengLateHan|孙程]] and [[GaoFanLateHan|高梵]] that finally gets the case reversed.
 
 The durable contribution is a court-access lesson: correct claims and personal courage are not enough when hostile palace channels control interpretation. Yu Xu survives because friends, students, Sun Cheng, Gao Fan, and later [[ZhouJuLateHan|周举]] and [[ZhuChangLateHan|朱伥]] move the case through people who can reach Shun, while the later disposal and partial restoration of Sun Cheng's group show how restoration merit can quickly become politically inconvenient.
 
@@ -24,12 +24,12 @@ The durable contribution is a court-access lesson: correct claims and personal c
 - In 126 CE, Yu Xu repeatedly memorializes against Zhang Fang's bribery and power abuse, but ordinary written channels fail to move the court.
 - Zhang Fang turns palace access into retaliation by crying to Shun, after which Yu Xu is punished, sent to left-school labor, and repeatedly interrogated under a death-seeking prison strategy.
 - Yu Xu refuses quiet suicide because public punishment at least leaves a path for right and wrong to be seen.
-- Sun Cheng's intervention shows [[CourtAllyProtectionNetwork|court ally protection]] in a more direct form than later Hanji 818: the ally must have access, factional motive, and willingness to confront the target in front of the ruler.
+- Sun Cheng's intervention shows [[CourtAllyProtectionNetwork|court ally protection]] in a more direct form than later 汉纪 818: the ally must have access, factional motive, and willingness to confront the target in front of the ruler.
 - Gao Fan's report after Yu Xu's son and students petition outside the palace gives Shun an external signal strong enough to override Jia Lang's defense of Zhang Fang.
 - Shun banishes Zhang Fang, punishes Jia Lang and others, releases Yu Xu, and then appoints Yu Xu yilang and Shangshu puye after Sun Cheng's further memorial.
 - Yu Xu's recommendation of Zuo Xiong extends the episode from rescue to personnel repair: the court needs officials willing to speak directly rather than only maintain smooth relations.
 - Sun Cheng and the nineteen marquises are soon treated as overreaching merit-holders; Zhou Ju then pushes Situ Zhu Chang to remonstrate, and Shun partially restores Sun Cheng while keeping him away from Luoyang.
-- The closing Xianbei and Southern Xiongnu notice sets up the frontier material continued in Hanji 807.
+- The closing Xianbei and Southern Xiongnu notice sets up the frontier material continued in 汉纪 807.
 
 ## Key Quotes
 
@@ -46,10 +46,10 @@ The durable contribution is a court-access lesson: correct claims and personal c
 - [[YuXuEasternHan|虞诩]], [[ZuoXiongLateHan|左雄]], [[AppointmentQualityAsStateCapacity|任官适任性国家能力]], and [[TalentReferralQuality|荐才质量]] - after release, Yu Xu converts the rescue into a recommendation of a direct, public-minded official.
 - [[SunChengLateHan|孙程]], [[ZhouJuLateHan|周举]], [[ZhuChangLateHan|朱伥]], [[PostRestorationMeritThreat|复国功臣威胁化]], and [[PowerExitTrap|权力退场困境]] - Sun Cheng's accession merit becomes politically awkward once Shun's rule stabilizes.
 - [[DeathDefyingRemonstrance|赴死式直谏]] and [[CourtFeedbackCollapse|君臣反馈失灵]] - Yu Xu's refusal to disappear quietly shows how extreme personal risk becomes necessary when normal feedback channels fail.
-- [[Xianbei|鲜卑]], [[SouthernXiongnu|南匈奴]], and [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] - the closing frontier notice leads into the next episode's border-defense repair.
+- [[Xianbei|鲜卑]], [[SouthernXiongnu|南匈奴]], and [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] - the closing frontier notice leads into the next episode's border-defense repair.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills an earlier 126 CE court-access and anti-eunuch layer before the already-ingested Hanji 807-824 Shun sequence.
-- Chronology caution: the source precedes Hanji 807 in the Shun-era backfill, but it is appended to existing entity provenance lists according to the wiki's source-inventory contract.
+- No settled contradiction with existing wiki pages was found. This source backfills an earlier 126 CE court-access and anti-eunuch layer before the already-ingested 汉纪 807-824 Shun sequence.
+- Chronology caution: the source precedes 汉纪 807 in the Shun-era backfill, but it is appended to existing entity provenance lists according to the wiki's source-inventory contract.
 - Scope caution: Jia Lang, Yu Yi/Yu Ji, Zhu A Hou, Tao Dun, left-school punishment, exact dates within Yongjian first year, and the host's jealousy and relationship advice remain source-scoped until later notes warrant standalone pages or firmer normalization.

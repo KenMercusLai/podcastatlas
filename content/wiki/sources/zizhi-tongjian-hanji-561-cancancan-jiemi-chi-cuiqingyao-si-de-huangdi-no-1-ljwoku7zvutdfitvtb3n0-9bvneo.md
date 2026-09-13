@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE immediately after [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|Hanji 559]]'s [[ZhaiFangjinWesternHan|翟方进]] scapegoat death and before [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]]'s [[HanAidi|汉哀帝]] accession. It centers on [[HanChengdi|汉成帝]]'s sudden death in [[WeiyangPalace|未央宫]], [[ZhaoHedeWesternHan|赵合德]]'s suicide after [[WangZhengjun|王政君]] orders an investigation, and the later story that Chengdi died after overusing a fangshi-style aphrodisiac or "immortal pill."
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE immediately after [[zizhi-tongjian-hanji-559-mingming-wuzui-weihe-tianxiaren-dou-xiang-ta-si-lu3ckuxwujdbj4zdoqhvo2cg1rs0|汉纪 559]]'s [[ZhaiFangjinWesternHan|翟方进]] scapegoat death and before [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|汉纪 562]]'s [[HanAidi|汉哀帝]] accession. It centers on [[HanChengdi|汉成帝]]'s sudden death in [[WeiyangPalace|未央宫]], [[ZhaoHedeWesternHan|赵合德]]'s suicide after [[WangZhengjun|王政君]] orders an investigation, and the later story that Chengdi died after overusing a fangshi-style aphrodisiac or "immortal pill."
 
 The durable synthesis is cautionary rather than medical. The episode preserves the dramatic `Zhao Feiyan Waizhuan` / Bo Yang-style drug-death tradition, but it explicitly marks many details as rumor or non-standard-history material and keeps the political point in view: Chengdi's sudden death creates a public-answer problem, and Zhao Hede becomes the easiest blame target because palace intimacy, Zhao-family weakness, and court incentive all align.
 
@@ -48,5 +48,5 @@ The durable synthesis is cautionary rather than medical. The episode preserves t
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Qualification: this source strengthens the political logic behind Zhao Hede as a post-death blame target, while later [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] cautions against making the Zhao sisters the complete explanation for Chengdi's no-heir crisis.
+- Qualification: this source strengthens the political logic behind Zhao Hede as a post-death blame target, while later [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|汉纪 573]] cautions against making the Zhao sisters the complete explanation for Chengdi's no-heir crisis.
 - Scope caution: the aphrodisiac, pill-refining, pill-count, and exact medical cause of Chengdi's death remain source-scoped legendary or interpretive material rather than settled historical fact.

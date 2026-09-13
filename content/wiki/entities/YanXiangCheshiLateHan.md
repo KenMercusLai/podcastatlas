@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-阎祥 / Yan Xiang is the Han Wuji xiaowei figure in Hanji 839 who resolves the Cheshi Hou kingdom crisis by restoring [[AluoduoCheshiLateHan|阿罗多]] after surrender. The page uses the "Cheshi" suffix because [[YanXiangLateHan|阎象 / Yan Xiang]] already names a different late-Han actor.
+阎祥 / Yan Xiang is the Han Wuji xiaowei figure in 汉纪 839 who resolves the Cheshi Hou kingdom crisis by restoring [[AluoduoCheshiLateHan|阿罗多]] after surrender. The page uses the "Cheshi" suffix because [[YanXiangLateHan|阎象 / Yan Xiang]] already names a different late-Han actor.
 
 ## Current Profile
 
@@ -28,19 +28,19 @@ Yan Xiang reads the problem differently. Because Aluoduo still has local backing
 
 ## Evidence
 
-- Office and crisis role: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] identifies Yan Xiang as the Wuji xiaowei responding to Aluoduo's return.
-- Risk diagnosis: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says he worries Aluoduo could draw in Northern Xiongnu power and unsettle the Western Regions.
-- Negotiation method: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says he personally finds Aluoduo and speaks candidly with him.
-- Recognition offer: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says he promises restored kingship if Aluoduo surrenders.
-- Settlement result: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says the court restores Aluoduo and sends Beijun back to Dunhuang with three hundred households.
+- Office and crisis role: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] identifies Yan Xiang as the Wuji xiaowei responding to Aluoduo's return.
+- Risk diagnosis: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says he worries Aluoduo could draw in Northern Xiongnu power and unsettle the Western Regions.
+- Negotiation method: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says he personally finds Aluoduo and speaks candidly with him.
+- Recognition offer: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says he promises restored kingship if Aluoduo surrenders.
+- Settlement result: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says the court restores Aluoduo and sends Beijun back to Dunhuang with three hundred households.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 839 and keeps the name disambiguated from [[YanXiangLateHan|阎象 / Yan Xiang]], Yuan Shu's later remonstrant. The exact institutional authority of the Wuji xiaowei and the full outcome of the settlement remain source-scoped.
+This page is source-bounded to 汉纪 839 and keeps the name disambiguated from [[YanXiangLateHan|阎象 / Yan Xiang]], Yuan Shu's later remonstrant. The exact institutional authority of the Wuji xiaowei and the full outcome of the settlement remain source-scoped.
 
 ## What Changed
 
-- Created the disambiguated Cheshi Yan Xiang page from Hanji 839.
+- Created the disambiguated Cheshi Yan Xiang page from 汉纪 839.
 - Added a late-Han frontier-diplomacy actor whose core move is restoration to prevent outside-power escalation.
 
 ## Relationships

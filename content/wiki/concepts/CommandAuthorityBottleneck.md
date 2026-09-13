@@ -15,11 +15,11 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] grounds the concept in [[YanYouXinGeneral|严尤]]'s complaint during late-[[XinDynasty|Xin]] anti-rebel operations. Wang Mang sends commanders including Yan You and Chen Mao into Jingzhou, but the episode has Yan You object that generals are sent without full command authority and must request approval for everything.
+[[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] grounds the concept in [[YanYouXinGeneral|严尤]]'s complaint during late-[[XinDynasty|Xin]] anti-rebel operations. Wang Mang sends commanders including Yan You and Chen Mao into Jingzhou, but the episode has Yan You object that generals are sent without full command authority and must request approval for everything.
 
 The pattern is not simple decentralization advocacy. It names a mismatch between crisis tempo and approval structure: when rebellion spreads quickly, a commander who lacks authority can become a messenger rather than an actor. The center preserves control on paper while losing usable control in the field.
 
-The local-side counterpart appears through [[TianKuangXinOfficial|田邝]] in [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]]. Tian Kuang succeeds precisely by acting before approval: he mobilizes Yiping's adult men, distributes stored weapons, and posts rules. Wang Mang first tolerates the breach because it works, but later recalls him when his field success becomes threatening, showing how a bottleneck can reappear after central suspicion removes the person who bypassed it.
+The local-side counterpart appears through [[TianKuangXinOfficial|田邝]] in [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]]. Tian Kuang succeeds precisely by acting before approval: he mobilizes Yiping's adult men, distributes stored weapons, and posts rules. Wang Mang first tolerates the breach because it works, but later recalls him when his field success becomes threatening, showing how a bottleneck can reappear after central suspicion removes the person who bypassed it.
 
 ## Key Claims
 
@@ -31,19 +31,19 @@ The local-side counterpart appears through [[TianKuangXinOfficial|田邝]] in [[
 
 ## Evidence
 
-- Deployment context: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says Wang Mang sends Yan You and Chen Mao to Jingzhou and other commanders to inspect or suppress rebels.
-- Yan You's complaint: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says Yan You compares the arrangement to leading a hound to catch game while holding it back.
-- Approval bottleneck: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says generals have to ask for instructions instead of acting with full authority.
-- Local bypass: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Tian Kuang stabilizes Yiping by mobilizing local men and weapons without prior permission.
-- Central reassertion: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang later removes Tian Kuang because his success and merit become threatening.
+- Deployment context: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] says Wang Mang sends Yan You and Chen Mao to Jingzhou and other commanders to inspect or suppress rebels.
+- Yan You's complaint: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] says Yan You compares the arrangement to leading a hound to catch game while holding it back.
+- Approval bottleneck: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] says generals have to ask for instructions instead of acting with full authority.
+- Local bypass: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Tian Kuang stabilizes Yiping by mobilizing local men and weapons without prior permission.
+- Central reassertion: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Wang Mang later removes Tian Kuang because his success and merit become threatening.
 
 ## Counterevidence & Qualifications
 
-This concept does not prove that unrestricted commanders would have saved Xin's campaign. Hanji 660-2 supports the narrower claim that Yan You identified a mismatch between field responsibility and available authority. Hanji 659 supports only a local example of unauthorized action working temporarily; it does not prove Tian Kuang could have permanently settled Qingzhou, Xuzhou, or Qi. Other failures include official-army abuse, famine, relief corruption, information suppression, and public-sentiment collapse.
+This concept does not prove that unrestricted commanders would have saved Xin's campaign. 汉纪 660-2 supports the narrower claim that Yan You identified a mismatch between field responsibility and available authority. 汉纪 659 supports only a local example of unauthorized action working temporarily; it does not prove Tian Kuang could have permanently settled Qingzhou, Xuzhou, or Qi. Other failures include official-army abuse, famine, relief corruption, information suppression, and public-sentiment collapse.
 
 ## What Changed
 
-- Added Hanji 659's Tian Kuang layer as a successful but politically vulnerable local bypass of late-Xin command bottlenecks.
+- Added 汉纪 659's Tian Kuang layer as a successful but politically vulnerable local bypass of late-Xin command bottlenecks.
 
 ## Related Concepts
 

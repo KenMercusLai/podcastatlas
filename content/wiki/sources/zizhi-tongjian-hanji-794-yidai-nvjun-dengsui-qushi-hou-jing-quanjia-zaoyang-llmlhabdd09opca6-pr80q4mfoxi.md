@@ -11,7 +11,7 @@ last_updated: 2026-08-29
 ---
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the opening of the 121 CE post-Deng transition before [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]]. It pairs ordinary court business, Chen Zhong's plea for open remonstrance, and Xue Bao's filial refusal of office with the sharper court fracture around [[EmpressDowagerDengLateHan|Empress Dowager Deng]], [[EmperorAnOfHan|Emperor An]], and the [[DengFamilyAnEraLateHan|Deng family]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the opening of the 121 CE post-Deng transition before [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|汉纪 795]]. It pairs ordinary court business, Chen Zhong's plea for open remonstrance, and Xue Bao's filial refusal of office with the sharper court fracture around [[EmpressDowagerDengLateHan|Empress Dowager Deng]], [[EmperorAnOfHan|Emperor An]], and the [[DengFamilyAnEraLateHan|Deng family]].
 
 The durable synthesis is that the Deng purge begins before the later public defense: [[WangShengPalaceActorLateHan|Wang Sheng]], [[LiRunLateHan|Li Run]], and [[JiangJingLateHan|Jiang Jing]] help turn An's fear of replacement into palace slander, and after Deng's death an alleged plan to install [[LiuYiPingyuanWangLateHan|Pingyuan Wang Liu Yi]] triggers title abolition, office removals, confiscations, exile, forced death, starvation, and royal demotion.
 
@@ -33,7 +33,7 @@ The durable synthesis is that the Deng purge begins before the later public defe
 
 ## Connections
 - [[EmpressDowagerDengLateHan]] - regent whose death releases the post-regency retaliation sequence.
-- [[DengFamilyAnEraLateHan]] - outer-relative family whose first punishment wave is described before Hanji 795's defense and partial repair.
+- [[DengFamilyAnEraLateHan]] - outer-relative family whose first punishment wave is described before 汉纪 795's defense and partial repair.
 - [[EmperorAnOfHan]] - ruler whose fear, anger, and reliance on palace intimates convert succession suspicion into purge.
 - [[WangShengPalaceActorLateHan]] - wet nurse whose fear of Emperor An's replacement drives slander against Deng.
 - [[LiRunLateHan]] - palace actor named with Wang Sheng and Jiang Jing in the anti-Deng slander field.
@@ -41,11 +41,11 @@ The durable synthesis is that the Deng purge begins before the later public defe
 - [[ChenZhongLateHan]] - adviser who urges An to tolerate criticism before later post-Deng and frontier roles.
 - [[ShiYanLateHan]] - worthy-and-upright examinee appointed shizhong in this earlier An-era layer.
 - [[LiuYiPingyuanWangLateHan]] - royal relative treated as the alleged replacement candidate in the Deng accusation.
-- [[ProcedurelessPoliticalPurge]] - concept sharpened by the first punishment wave before Hanji 795's procedural critique.
+- [[ProcedurelessPoliticalPurge]] - concept sharpened by the first punishment wave before 汉纪 795's procedural critique.
 - [[HeirSupportThreatPerception]] - succession-security pattern broadened by An's fear of replacement before the later Liu Bao case.
 - [[Xianbei]] - frontier pressure actor in the episode's opening court-business layer.
 
 ## Contradictions
-- No settled contradiction is introduced. The source refines chronology by placing Wang Sheng, Li Run, and Jiang Jing's anti-Deng slander before Hanji 795's post-Deng reward and Yang Zhen warning sequence.
+- No settled contradiction is introduced. The source refines chronology by placing Wang Sheng, Li Run, and Jiang Jing's anti-Deng slander before 汉纪 795's post-Deng reward and Yang Zhen warning sequence.
 - Identity caution: this source's Pingyuan Wang Liu Yi is kept separate from [[LiuYiBeixiangHouLateHan|Beixiang Hou Liu Yi / Liu Yi]] because the title, context, and survival path differ.
 - Scope caution: Cai Lun, Song Guiren, Cai Feng, Xue Bao, Geng Ji, Liu Chang, Deng Kui, Deng Hong, Deng Fang, Deng Guangzong, Deng Zhong, Deng Feng, Deng Bao, Deng Zun, Deng Chang, and Deng Kang remain source-scoped unless later evidence makes them durable wiki subjects.

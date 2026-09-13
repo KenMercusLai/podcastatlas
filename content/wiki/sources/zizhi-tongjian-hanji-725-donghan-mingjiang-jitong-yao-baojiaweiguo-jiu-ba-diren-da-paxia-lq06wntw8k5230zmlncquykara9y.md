@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 49 CE late [[LiuXiu|光武帝刘秀]] sequence immediately before [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] and [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]]. It begins with [[JiTongEasternHan|祭肜]] in Liaodong using gifts, trust, and [[PianHeXianbei|偏和]]'s Xianbei force against the Xiongnu, then follows the Northern/Southern Xiongnu split as [[SouthernXiongnu|南匈奴]] seeks Han protection, hostages, and renewed treaty order.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 49 CE late [[LiuXiu|光武帝刘秀]] sequence immediately before [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] and [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|汉纪 727]]. It begins with [[JiTongEasternHan|祭肜]] in Liaodong using gifts, trust, and [[PianHeXianbei|偏和]]'s Xianbei force against the Xiongnu, then follows the Northern/Southern Xiongnu split as [[SouthernXiongnu|南匈奴]] seeks Han protection, hostages, and renewed treaty order.
 
 The second half supplies the prehistory to Ma Yuan's later disgrace. [[MaYuanEasternHan|马援]]'s private warning letter to his nephews contrasts [[LongBogaoEasternHan|龙伯高]] with [[DuJiliangEasternHan|杜季良]], but the letter leaks into court accusation, draws [[LiangSongLinxiangMarquis|梁松]] and [[DouGuEasternHan|窦固]] into Liu Xiu's rebuke, and creates resentment before Ma Yuan's final [[WulingManLateHan|武陵蛮]] campaign stalls at Hutou and ends with his illness and death.
 
@@ -39,14 +39,14 @@ The second half supplies the prehistory to Ma Yuan's later disgrace. [[MaYuanEas
 ## Connections
 
 - [[JiTongEasternHan|祭肜]], [[PianHeXianbei|偏和]], [[Xianbei|鲜卑]], [[Xiongnu|匈奴]], and [[FrontierProxyCommitmentBinding|边疆代理承诺绑定]] - the Liaodong branch converts reward-backed submission into repeated enemy-directed action.
-- [[SouthernXiongnu|南匈奴]], [[NorthernXiongnuLateHan|北匈奴]], and [[LiuXiu|光武帝刘秀]] - the Xiongnu split creates the immediate prelude to Hanji 727's protected Southern Xiongnu settlement.
+- [[SouthernXiongnu|南匈奴]], [[NorthernXiongnuLateHan|北匈奴]], and [[LiuXiu|光武帝刘秀]] - the Xiongnu split creates the immediate prelude to 汉纪 727's protected Southern Xiongnu settlement.
 - [[MaYuanEasternHan|马援]], [[LongBogaoEasternHan|龙伯高]], [[DuJiliangEasternHan|杜季良]], and [[PrivateLetterPoliticalWeaponization|私人书信政治武器化]] - a family letter becomes court evidence once the audience changes.
 - [[LiangSongLinxiangMarquis|梁松]], [[DouGuEasternHan|窦固]], and [[PrivateRetainerNetworkRisk|私人宾客网络风险]] - Du Jiliang's social circle makes association with him punishable in Liu Xiu's court.
-- [[GengShuEasternHan|耿舒]], [[WulingManLateHan|武陵蛮]], [[FieldDiscretionPacification|便宜行事式招抚]], and [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] - the stalled Hutou campaign leads directly into Ma Yuan's death, Liang Song's accusation, and Zong Jun's later settlement.
+- [[GengShuEasternHan|耿舒]], [[WulingManLateHan|武陵蛮]], [[FieldDiscretionPacification|便宜行事式招抚]], and [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] - the stalled Hutou campaign leads directly into Ma Yuan's death, Liang Song's accusation, and Zong Jun's later settlement.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology caution: this source backfills the 49 CE layer before Hanji 726 and Hanji 727, while [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] later returns to Ji Tong and Pian He in a Mingdi-era northeastern-frontier summary.
-- Target caution: Hanji 725 emphasizes Pian He attacking Xiongnu, while Hanji 733-1 names Chishan Wuhuan. The wiki keeps this as a source-scope target variation instead of forcing both notices into one identical event.
+- Chronology caution: this source backfills the 49 CE layer before 汉纪 726 and 汉纪 727, while [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] later returns to Ji Tong and Pian He in a Mingdi-era northeastern-frontier summary.
+- Target caution: 汉纪 725 emphasizes Pian He attacking Xiongnu, while 汉纪 733-1 names Chishan Wuhuan. The wiki keeps this as a source-scope target variation instead of forcing both notices into one identical event.
 - Scope caution: Ma Yan, Ma Dun, Ma Yu, Geng Yan's transmission role, exact Hutou/Chongxian route geography, force counts, head counts, and the host's modern workplace lessons remain source-scoped unless later notes warrant standalone pages.

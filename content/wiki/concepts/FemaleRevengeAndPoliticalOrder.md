@@ -19,7 +19,7 @@ Female revenge and political order names the pattern where a woman's revenge exp
 ## Current Synthesis
 The concept began with [[MedeaCharacter|Medea / 美狄亚]], where revenge reveals real gendered injury but becomes anti-political horror once it destroys children, lineage, family relation, and civic settlement. [[CursedBunny|《诅咒兔》]] adds the afterlife of revenge: punishment may hit the target and still leave ghosts, loneliness, and unrepaired loss. [[CharlotteCorday|Charlotte Corday]] adds a historical-political case in which a woman's violence should not be dismissed as romance or manipulation, but still remains unlawful and institutionally unpredictable.
 
-Hanji 1067 adds a contrast through [[LadyXuSunYi|徐夫人]]. Her revenge against [[GuiLanLateHan|妫览]] and [[DaiYuanLateHan|戴员]] is not framed as family-destroying excess or post-revenge emptiness; it is presented as a tactical restoration after conspirators murder [[SunYiLateHan|孙翊]], kill [[SunHeLateHan|孙河]], and attempt to seize household and local authority. This expands the concept from tragic rupture and modern assassination ethics to a classical-historical case where widowly revenge, retainer mobilization, and ruler cleanup partially realign political order.
+汉纪 1067 adds a contrast through [[LadyXuSunYi|徐夫人]]. Her revenge against [[GuiLanLateHan|妫览]] and [[DaiYuanLateHan|戴员]] is not framed as family-destroying excess or post-revenge emptiness; it is presented as a tactical restoration after conspirators murder [[SunYiLateHan|孙翊]], kill [[SunHeLateHan|孙河]], and attempt to seize household and local authority. This expands the concept from tragic rupture and modern assassination ethics to a classical-historical case where widowly revenge, retainer mobilization, and ruler cleanup partially realign political order.
 
 ## Key Claims
 - Female revenge can make real structural injury visible, especially where marriage, household access, law, or political speech otherwise hides it.
@@ -40,7 +40,7 @@ Hanji 1067 adds a contrast through [[LadyXuSunYi|徐夫人]]. Her revenge agains
 - [[125-mala-zhisi-beibi-de-ansha-huo-zhengyi-de-chujue-783972516|Marat episode]] presents Charlotte Corday as a politically conscious actor whose assassination is intelligible as intervention while still failing to repair revolutionary terror.
 
 **Order-restoring widow revenge**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] shows Lady Xu using staged compliance and loyalist coordination to kill the conspirators who murdered Sun Yi and Sun He, after which Sun Quan punishes the remaining faction and rewards the loyalists.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] shows Lady Xu using staged compliance and loyalist coordination to kill the conspirators who murdered Sun Yi and Sun He, after which Sun Quan punishes the remaining faction and rewards the loyalists.
 
 ## Counterevidence & Qualifications
 The concept must hold incompatible outcomes together. Medea's agency is real but catastrophic; Corday's political motive is real but legally and institutionally dangerous; Bora Chung's revenge may be deserved but not healing; Lady Xu's revenge appears order-restoring only because the source presents the conspirators as murderers and usurpers and because Sun Quan's later cleanup supplies public authority. None of these cases makes revenge a general legal norm.

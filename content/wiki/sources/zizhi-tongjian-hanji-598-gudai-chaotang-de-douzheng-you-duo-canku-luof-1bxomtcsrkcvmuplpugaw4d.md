@@ -45,5 +45,5 @@ The durable synthesis is that the late-Aidi court turned correction into persona
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source predates Hanji 602-605's Aidi death and Wang Mang restoration sequence, but it adds important pre-crisis context for Aidi's suspicion, Dong Xian-related anger, and Kong Guang's earlier court posture.
+- Chronology qualification: this source predates 汉纪 602-605's Aidi death and Wang Mang restoration sequence, but it adds important pre-crisis context for Aidi's suspicion, Dong Xian-related anger, and Kong Guang's earlier court posture.
 - Scope caution: Liu Yun's complete case record, Liang Xiang's full career, Wang Jia's earlier career, the exact legal force of a Tingwei summons, and individual motives among Kong Guang, Gong, and Meng remain source-scoped unless later notes warrant expansion.

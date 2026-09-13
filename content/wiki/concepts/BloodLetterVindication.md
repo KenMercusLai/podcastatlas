@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # Blood-Letter Vindication / 血书自辩昭雪
 
-Blood-letter vindication is the emergency appeal pattern in [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] where an accused official bypasses captured reporting channels by creating costly, embodied evidence. [[YangXuanLateHan|Yang Xuan]] bites his arm, writes a memorial in blood on his clothing, and has relatives secretly deliver it to the palace after [[ZhaoKaiLateHan|Zhao Kai]] falsely accuses him.
+Blood-letter vindication is the emergency appeal pattern in [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|汉纪 919]] where an accused official bypasses captured reporting channels by creating costly, embodied evidence. [[YangXuanLateHan|Yang Xuan]] bites his arm, writes a memorial in blood on his clothing, and has relatives secretly deliver it to the palace after [[ZhaoKaiLateHan|Zhao Kai]] falsely accuses him.
 
 The pattern is effective in the episode because it reaches [[EmperorLingOfHan|Emperor Ling]], who pardons Yang Xuan and punishes Zhao Kai. It is still a symptom of [[CourtFeedbackCollapse|court feedback collapse]]: the official path has failed so badly that truth must arrive through extreme personal risk and symbolic suffering.
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 167 CE first Party Prohibition aftermath before the later Hanji 892-893 reputation-list and arrest sequence. [[EmperorHuanOfHan|汉桓帝]] issues a general amnesty, but more than two hundred implicated party figures are sent home, registered with the Three Excellencies' offices, and barred from future office, making [[RegistryBasedPoliticalExclusion|登记造册式政治禁锢]] the episode's institutional layer.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 167 CE first Party Prohibition aftermath before the later 汉纪 892-893 reputation-list and arrest sequence. [[EmperorHuanOfHan|汉桓帝]] issues a general amnesty, but more than two hundred implicated party figures are sent home, registered with the Three Excellencies' offices, and barred from future office, making [[RegistryBasedPoliticalExclusion|登记造册式政治禁锢]] the episode's institutional layer.
 
 The episode then pairs two conduct cases. [[FanPangLateHan|范滂]] visits [[HuoXuLateHan|霍谞]] after release but does not perform public gratitude, using an old allusion to frame their relation as tacit understanding rather than ceremony. [[ShiBiLateHan|史弼]] refuses to invent party figures in Pingyuan despite repeated pressure, making [[AccusationQuotaRefusal|诬陷指标拒绝]] the moral-administrative counterpoint to Fan Pang's quieter [[TacitGratitudeRestraint|心照不宣式感恩克制]].
 
@@ -43,5 +43,5 @@ The episode then pairs two conduct cases. [[FanPangLateHan|范滂]] visits [[Huo
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the earlier 167 CE amnesty, registry, Huo Xu, and Shi Bi layer before Hanji 892-893's later reputation-list and second Party Prohibition disaster.
+- No settled contradiction with existing wiki pages was found. This source backfills the earlier 167 CE amnesty, registry, Huo Xu, and Shi Bi layer before 汉纪 892-893's later reputation-list and second Party Prohibition disaster.
 - Transcript normalization: 范胖 is normalized to [[FanPangLateHan|范滂]], 霍须 to [[HuoXuLateHan|霍谞]], 史璧 to [[ShiBiLateHan|史弼]], and 乳南郡 to Runan. The allusion rendered as "书相不见其稀" is treated as source-scoped wording rather than used to create new Spring-Autumn entity pages.

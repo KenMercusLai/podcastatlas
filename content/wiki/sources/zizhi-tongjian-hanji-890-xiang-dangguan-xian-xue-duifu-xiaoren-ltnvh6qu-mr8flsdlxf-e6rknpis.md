@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 169 CE late-Han court layer immediately before [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]]. It contrasts [[ZhangHuanLateHan|张奂]], [[XieBiLateHan|谢弼]], and [[YangCiLateHan|杨赐]] as three ways to remonstrate when [[CaoJieLateHan|曹节]] and the eunuch side hold dangerous power.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 169 CE late-Han court layer immediately before [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]]. It contrasts [[ZhangHuanLateHan|张奂]], [[XieBiLateHan|谢弼]], and [[YangCiLateHan|杨赐]] as three ways to remonstrate when [[CaoJieLateHan|曹节]] and the eunuch side hold dangerous power.
 
 The source's main synthesis is that political correctness and political effectiveness separate under captured court conditions. Zhang Huan and Xie Bi directly reopen the [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]] grievance and are punished, while Yang Ci keeps correction alive by redirecting the snake-omen answer toward inner-court disorder, imperial authority, and harem/relative boundaries without naming the strongest eunuch enemies.
 
@@ -44,7 +44,7 @@ The source's main synthesis is that political correctness and political effectiv
 - [[DouWuLateHan|窦武]], [[ChenFanLateHan|陈蕃]], and [[EmpressDowagerDouMiao|窦皇太后]] - old anti-eunuch grievance reopened by the memorials.
 - [[WangChangShumaoLateHan|王畅]], [[LiYingLateHan|李膺]], and [[LiuMengLateHan|刘猛]] - recommended or associated officials whose names make the memorials politically sensitive.
 - [[ObliqueRemonstranceSelfProtection|迂回进谏自保]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[ConfidentialRemonstranceLeakage|密奏泄露风险]], and [[DeathDefyingRemonstrance|赴死式直谏]] - concept frame for direct speech, indirect speech, and survival under factional pressure.
-- [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]], [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]], and [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] - immediately following 169 CE frontier and party-prohibition backfill sequence.
+- [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]], [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|汉纪 892]], and [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] - immediately following 169 CE frontier and party-prohibition backfill sequence.
 
 ## Contradictions
 

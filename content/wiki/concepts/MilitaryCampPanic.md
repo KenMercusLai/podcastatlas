@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # Military Camp Panic / 军营夜惊群体恐慌
 
-Military camp panic / 军营夜惊群体恐慌 enters the wiki through [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]]. It names the episode's explanation of ancient `夜惊`: soldiers under prolonged stress, poor sleep, rumor, superstition, crowding, toxins, and contagious fear may wake suddenly, seize weapons, and spread panic across the camp.
+Military camp panic / 军营夜惊群体恐慌 enters the wiki through [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|汉纪 965]]. It names the episode's explanation of ancient `夜惊`: soldiers under prolonged stress, poor sleep, rumor, superstition, crowding, toxins, and contagious fear may wake suddenly, seize weapons, and spread panic across the camp.
 
 The source case is [[NiuFuLateHan|牛辅]]. Even after defeating [[LiSuLateHan|李肃]], Niu Fu cannot stabilize his army or himself; a night-fright episode leads him to flee and be killed by close followers. The lesson is that battlefield victory does not guarantee command stability when the camp's psychological environment is already broken.
 
@@ -24,7 +24,7 @@ The episode also uses cross-historical examples, including Roman, Song, Han-slip
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] - source episode.
+- [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|汉纪 965]] - source episode.
 - [[NiuFuLateHan|牛辅]], [[LiSuLateHan|李肃]], and [[LyuBu|吕布]] - source actors around the failed mission and night-fright death.
 - [[LiangzhouWarlordClique|凉州系军阀]] - fear field around Dong Zhuo's remnant commanders.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - survival fear that makes disbanding look lethal.

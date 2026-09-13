@@ -16,7 +16,7 @@ last_updated: 2026-08-27
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens with a parenting frame: a mother under work, relationship, housework, and child-rearing pressure can make children insecure when anger becomes unpredictable household weather. The host argues that after scolding or hitting a child, the parent should apologize clearly, take responsibility, ask how the child experienced the event, and turn the incident into [[ParentalRepairAfterHarm|parental repair after harm]] rather than private regret.
 
-The historical section backfills the 169 CE late-Han frontier layer immediately before [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]]. It records Three Excellencies turnover under [[EmperorLingOfHan|汉灵帝]], [[LiuXiaoLateHan|刘嚣]]'s promotion through eunuch flattery, and [[DuanJiongLateHan|段熲]]'s refusal of a surrender-first policy toward remaining [[DongqiangLateHan|东羌]] forces. Duan treats surrender as a possible provisioning trap, then uses [[TianYanLateHan|田晏]], [[XiaYuLateHan|夏育]], and [[ZhangKaiDuanJiongOfficer|张恺]] in a night-movement encirclement that the source presents as a Han victory and a Qiang catastrophe.
+The historical section backfills the 169 CE late-Han frontier layer immediately before [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|汉纪 892]]. It records Three Excellencies turnover under [[EmperorLingOfHan|汉灵帝]], [[LiuXiaoLateHan|刘嚣]]'s promotion through eunuch flattery, and [[DuanJiongLateHan|段熲]]'s refusal of a surrender-first policy toward remaining [[DongqiangLateHan|东羌]] forces. Duan treats surrender as a possible provisioning trap, then uses [[TianYanLateHan|田晏]], [[XiaYuLateHan|夏育]], and [[ZhangKaiDuanJiongOfficer|张恺]] in a night-movement encirclement that the source presents as a Han victory and a Qiang catastrophe.
 
 ## Key Claims
 
@@ -46,6 +46,6 @@ The historical section backfills the 169 CE late-Han frontier layer immediately 
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The source backfills the tactical predecessor to Hanji 892 rather than reversing Hanji 892's later ethical critique of Duan Jiong's campaign.
+- No settled contradiction with existing wiki pages was found. The source backfills the tactical predecessor to 汉纪 892 rather than reversing 汉纪 892's later ethical critique of Duan Jiong's campaign.
 - The parenting advice is recorded as the host's source-scoped family-education frame, not as a general clinical claim.
 - Transcript normalization: 段颎 is linked to the canonical [[DuanJiongLateHan|段熲]] page; [[ZhangKaiDuanJiongOfficer|张恺]] is kept distinct from [[ZhangKaiAssassin|张闿]]; [[LiuChongLateHanMinister|司徒刘宠]] is kept distinct from [[LiuChongChenKing|陈王刘宠]].

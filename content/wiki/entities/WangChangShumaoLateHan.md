@@ -13,13 +13,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-王畅 / Wang Chang (Shumao, late Han) is the late-Han official whose current wiki profile begins with [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]]'s Nanyang governance reversal and later connects to Taixue reputation, sikong office, and post-Dou/Chen recommendation politics. This route is deliberately separated from [[WangChangLateHan|王昌]], the Hanji 986 huben warrior in Li Jue's command chain.
+王畅 / Wang Chang (Shumao, late Han) is the late-Han official whose current wiki profile begins with [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]]'s Nanyang governance reversal and later connects to Taixue reputation, sikong office, and post-Dou/Chen recommendation politics. This route is deliberately separated from [[WangChangLateHan|王昌]], the 汉纪 986 huben warrior in Li Jue's command chain.
 
 ## Current Profile
 
-Hanji 868 gives Wang Chang's most developed current scene. As Nanyang administrator, he initially acts harshly against powerful households and arrests many people. [[ZhangChangNanyangLateHan|张厂]] then warns that Nanyang is a special imperial region and should not be governed mainly through punitive spectacle. The advice turns Wang toward broad, benevolent administration and makes him a direct source case for [[HumaneLocalGovernance|仁厚地方治理]] as corrected strength rather than passivity.
+汉纪 868 gives Wang Chang's most developed current scene. As Nanyang administrator, he initially acts harshly against powerful households and arrests many people. [[ZhangChangNanyangLateHan|张厂]] then warns that Nanyang is a special imperial region and should not be governed mainly through punitive spectacle. The advice turns Wang toward broad, benevolent administration and makes him a direct source case for [[HumaneLocalGovernance|仁厚地方治理]] as corrected strength rather than passivity.
 
-Hanji 871 places Wang Chang inside the late-Han reputation field: the Taixue praise formula names "王叔茂" alongside [[LiYingLateHan|李膺]] and [[ChenFanLateHan|陈蕃]], making him part of the public moral-evaluation network that officials fear and seek to impress. Hanji 883's closing notice says Wang Chang is removed as sikong, while Hanji 890 shows [[ZhangHuanLateHan|张奂]] and [[LiuMengLateHan|刘猛]] recommending Wang Chang and Li Ying for high office after the Dou Wu and Chen Fan disaster. Across these fragments, Wang Chang functions as a reputable official whose administrative style, public standing, and office visibility matter more than any single complete biography supplied by the wiki.
+汉纪 871 places Wang Chang inside the late-Han reputation field: the Taixue praise formula names "王叔茂" alongside [[LiYingLateHan|李膺]] and [[ChenFanLateHan|陈蕃]], making him part of the public moral-evaluation network that officials fear and seek to impress. 汉纪 883's closing notice says Wang Chang is removed as sikong, while 汉纪 890 shows [[ZhangHuanLateHan|张奂]] and [[LiuMengLateHan|刘猛]] recommending Wang Chang and Li Ying for high office after the Dou Wu and Chen Fan disaster. Across these fragments, Wang Chang functions as a reputable official whose administrative style, public standing, and office visibility matter more than any single complete biography supplied by the wiki.
 
 ## Key Characteristics
 
@@ -31,23 +31,23 @@ Hanji 871 places Wang Chang inside the late-Han reputation field: the Taixue pra
 
 ## Evidence
 
-- Nanyang correction: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Wang Chang begins by harshly suppressing powerful households in Nanyang, then changes course after Zhang Chang's advice.
-- Humane-governance rationale: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] has Zhang Chang cite educative precedents, Nanyang's special status, and the principle that upright conduct transforms people.
-- Public reputation: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] includes Wang Chang in the Taixue praise formula with Li Ying and Chen Fan.
-- Sikong notice: [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|Hanji 883]] says Wang Chang is removed as sikong before Liu Chong is appointed.
-- Recommendation politics: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] says Zhang Huan and Liu Meng recommend Wang Chang and Li Ying, angering Cao Jie-linked power.
+- Nanyang correction: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] says Wang Chang begins by harshly suppressing powerful households in Nanyang, then changes course after Zhang Chang's advice.
+- Humane-governance rationale: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] has Zhang Chang cite educative precedents, Nanyang's special status, and the principle that upright conduct transforms people.
+- Public reputation: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] includes Wang Chang in the Taixue praise formula with Li Ying and Chen Fan.
+- Sikong notice: [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|汉纪 883]] says Wang Chang is removed as sikong before Liu Chong is appointed.
+- Recommendation politics: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] says Zhang Huan and Liu Meng recommend Wang Chang and Li Ying, angering Cao Jie-linked power.
 
 ## Qualifications
 
 - This page does not claim a complete biography. It consolidates the wiki's current 王畅 evidence from Nanyang administration, Taixue reputation, high-office notice, and recommendation politics.
-- The route is disambiguated from [[WangChangLateHan|王昌 / Wang Chang (late Han)]], who belongs to the later Hanji 986 Li Jue and Huangfu Li episode.
-- Hanji 883 and Hanji 890 provide compact office and recommendation notices; they do not reconstruct why Wang Chang was removed or the full politics of his later recall.
+- The route is disambiguated from [[WangChangLateHan|王昌 / Wang Chang (late Han)]], who belongs to the later 汉纪 986 Li Jue and Huangfu Li episode.
+- 汉纪 883 and 汉纪 890 provide compact office and recommendation notices; they do not reconstruct why Wang Chang was removed or the full politics of his later recall.
 
 ## What Changed
 
 - Created a distinct canonical route for 王畅 to prevent collision with the existing 王昌 page.
-- Added Hanji 868's Nanyang governance reversal as the earliest substantive Wang Chang profile layer.
-- Consolidated older 王畅 references from Hanji 871, Hanji 883, and Hanji 890 that had been incorrectly routed through 王昌.
+- Added 汉纪 868's Nanyang governance reversal as the earliest substantive Wang Chang profile layer.
+- Consolidated older 王畅 references from 汉纪 871, 汉纪 883, and 汉纪 890 that had been incorrectly routed through 王昌.
 
 ## Relationships
 

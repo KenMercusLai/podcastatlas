@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 12-13 / 36-37 CE before [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]]. It begins with [[MaYuanEasternHan|马援]] defeating Canlang Qiang and other Qiang forces in Wudu, then uses his commandery governance and "horsehide burial" resolve to frame frontier service as a mix of military courage, delegated administration, and situational judgment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 12-13 / 36-37 CE before [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]]. It begins with [[MaYuanEasternHan|马援]] defeating Canlang Qiang and other Qiang forces in Wudu, then uses his commandery governance and "horsehide burial" resolve to frame frontier service as a mix of military courage, delegated administration, and situational judgment.
 
 The second half widens the episode into [[LiuXiu|光武帝刘秀]]'s early consolidation style: flexible frontier orders, respectful integration of [[DouRongEasternHan|窦融]] and Hexi officials, praise for [[KongFenEasternHan|孔奋]]'s clean record, acceptance of [[RenTingEasternHan|任廷]] and [[ZhiYunEasternHan|郅恽]]'s bluntness, restraint toward tribute delicacies, and continued northern pressure from [[LuFangEasternHan|卢芳]], [[Xiongnu|匈奴]], and Wuhuan.
 
@@ -47,6 +47,6 @@ The second half widens the episode into [[LiuXiu|光武帝刘秀]]'s early conso
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This episode backfills the 36-37 CE layer before Hanji 715's post-unification merit settlement and before Hanji 717-720's later Lu Fang sequence.
-- Chronology qualification: the episode foregrounds the "马革裹尸" idiom while the later Hanji 722 source contains the more direct Ma Yuan speech about dying on the frontier and returning wrapped in horsehide.
+- No settled contradiction with existing wiki content was found. This episode backfills the 36-37 CE layer before 汉纪 715's post-unification merit settlement and before 汉纪 717-720's later Lu Fang sequence.
+- Chronology qualification: the episode foregrounds the "马革裹尸" idiom while the later 汉纪 722 source contains the more direct Ma Yuan speech about dying on the frontier and returning wrapped in horsehide.
 - Identity caution: transcript forms `鲁方` and `志恽` are normalized to the established routes [[LuFangEasternHan|卢芳]] and [[ZhiYunEasternHan|郅恽]]. Canlang Qiang, Wuhuan, Wang Chang, Geng Chun, Geng Guang, Geng Ju, Hou Ba, exact gate-office routes, and minor frontier geography remain source-scoped unless later notes warrant canonical pages.

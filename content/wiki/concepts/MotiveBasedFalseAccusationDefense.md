@@ -14,7 +14,7 @@ Motive-Based False-Accusation Defense / 动机反证式辩诬 is the response pa
 
 ## Current Synthesis
 
-Hanji 531 defines the concept through [[BanJieyuWesternHan|班婕妤]]'s answer to a charge that she used wugu-style cursing against [[HanChengdi|汉成帝]]. The host emphasizes that false accusations can force the target into proving a negative, which is often impossible without decisive external evidence. Ban Jieyu's response shifts the question: if spirits exist, they would not accept a disloyal appeal; if they do not, cursing is useless; and if righteous conduct does not guarantee fortune, unrighteous conduct offers even less hope.
+汉纪 531 defines the concept through [[BanJieyuWesternHan|班婕妤]]'s answer to a charge that she used wugu-style cursing against [[HanChengdi|汉成帝]]. The host emphasizes that false accusations can force the target into proving a negative, which is often impossible without decisive external evidence. Ban Jieyu's response shifts the question: if spirits exist, they would not accept a disloyal appeal; if they do not, cursing is useless; and if righteous conduct does not guarantee fortune, unrighteous conduct offers even less hope.
 
 The episode turns that historical defense into a practical rule. When direct evidence exists, produce it. When direct evidence is unavailable because the accusation is invented or hidden by design, the answer can move to absence of motive, incompatibility with one's values, supporting circumstances, authoritative endorsement, and legal recourse. The method is not passive tolerance; it combines disciplined rebuttal with refusal to let a malicious accuser dictate the whole field of explanation.
 
@@ -29,10 +29,10 @@ The episode turns that historical defense into a practical rule. When direct evi
 
 ## Evidence
 
-- Negative-proof trap: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] says baseless accusations are hard to disprove because the target is asked to prove nonexistence.
-- Motive denial: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] presents Ban Jieyu's argument that cursing Chengdi would be irrational and morally inconsistent whether spirits exist or not.
-- Practical extension: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] advises evidence where possible, supporting proof of no motive where direct evidence is impossible, and legal or authoritative support when needed.
-- Boundary posture: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|Hanji 531]] frames the ideal response as not provoking conflict but not fearing it when harm occurs.
+- Negative-proof trap: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|汉纪 531]] says baseless accusations are hard to disprove because the target is asked to prove nonexistence.
+- Motive denial: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|汉纪 531]] presents Ban Jieyu's argument that cursing Chengdi would be irrational and morally inconsistent whether spirits exist or not.
+- Practical extension: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|汉纪 531]] advises evidence where possible, supporting proof of no motive where direct evidence is impossible, and legal or authoritative support when needed.
+- Boundary posture: [[zizhi-tongjian-hanji-531-mian-dui-zao-huangyao-ta-de-banfa-zhide-ni-xuexi-lsi7k-67uel46ea024kaubj2l_qh|汉纪 531]] frames the ideal response as not provoking conflict but not fearing it when harm occurs.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ This concept is based on one source and one interpreted court episode. It should
 
 ## What Changed
 
-- Created from Hanji 531 to capture Ban Jieyu's shift from impossible self-proof toward motive, values, and plausible-benefit reasoning.
+- Created from 汉纪 531 to capture Ban Jieyu's shift from impossible self-proof toward motive, values, and plausible-benefit reasoning.
 
 ## Related Concepts
 

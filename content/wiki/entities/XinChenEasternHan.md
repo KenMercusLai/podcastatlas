@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 
 ## Overview
 
-Xin Chen / 辛臣 is the relative and defector who makes [[TianRongYilingEasternHan|田戎]]'s surrender plan collapse in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]]. He first argues that Tian Rong should wait because several regional powers still remain active, then is left to guard Yiling, steals Tian Rong's hidden valuables, submits to [[CenPengEasternHan|岑彭]], and writes back urging surrender. The letter is meant as persuasion, but in the episode it functions as the signal that turns possible submission into suspicion.
+Xin Chen / 辛臣 is the relative and defector who makes [[TianRongYilingEasternHan|田戎]]'s surrender plan collapse in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]]. He first argues that Tian Rong should wait because several regional powers still remain active, then is left to guard Yiling, steals Tian Rong's hidden valuables, submits to [[CenPengEasternHan|岑彭]], and writes back urging surrender. The letter is meant as persuasion, but in the episode it functions as the signal that turns possible submission into suspicion.
 
 ## Current Profile
 
@@ -30,10 +30,10 @@ Xin Chen's profile is therefore not simply "bad adviser." He is the intermediary
 
 ## Evidence
 
-- Advisory role: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] identifies Xin Chen as Tian Rong's wife's brother and says he urges Tian Rong to observe the situation before submitting.
-- Strategic map: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Xin Chen points to Peng Chong, Zhang Bu, Dong Xian, Gongsun Shu, and other regional powers as evidence that the field is not settled.
-- Theft and defection: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Xin Chen steals Tian Rong's hidden jewels, takes a side road away, and submits to Cen Peng.
-- Letter consequence: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Xin Chen writes urging Tian Rong to submit quickly, but Tian Rong first suspects betrayal.
+- Advisory role: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] identifies Xin Chen as Tian Rong's wife's brother and says he urges Tian Rong to observe the situation before submitting.
+- Strategic map: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Xin Chen points to Peng Chong, Zhang Bu, Dong Xian, Gongsun Shu, and other regional powers as evidence that the field is not settled.
+- Theft and defection: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Xin Chen steals Tian Rong's hidden jewels, takes a side road away, and submits to Cen Peng.
+- Letter consequence: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Xin Chen writes urging Tian Rong to submit quickly, but Tian Rong first suspects betrayal.
 
 ## Qualifications
 

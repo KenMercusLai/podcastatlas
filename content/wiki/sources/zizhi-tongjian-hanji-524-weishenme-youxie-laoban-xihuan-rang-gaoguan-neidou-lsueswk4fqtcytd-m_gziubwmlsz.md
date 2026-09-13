@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Hongjia 1 / 20 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|Hanji 525]]. It starts from the aftermath of [[WangFengWesternHan|王凤]]'s death: Chengdi appoints [[WangYinWesternHan|王音]] Da Sima Chariot-and-Cavalry General, gives [[WangTanWesternHan|王谭]] special-entry status, and leaves the two Wang-family figures resentful of each other.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Hongjia 1 / 20 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-525-hanchengdi-weifu-sifang-weisha-zao-tianqian-lvtzpbemhvz31da6b2zgdws-khpw|汉纪 525]]. It starts from the aftermath of [[WangFengWesternHan|王凤]]'s death: Chengdi appoints [[WangYinWesternHan|王音]] Da Sima Chariot-and-Cavalry General, gives [[WangTanWesternHan|王谭]] special-entry status, and leaves the two Wang-family figures resentful of each other.
 
 The durable synthesis is that late Western Han personnel politics combines constrained balancing with practical capacity tests. Chengdi can only try to split and check a powerful outer-relative field, while the episode's positive countercase is [[DuanHuizongWesternHan|段会宗]]: an official whose value lies less in spectacular fame than in stabilizing [[WesternRegionsProtectorate|Western Regions]] risk before it becomes visible disaster.
 
@@ -37,7 +37,7 @@ The durable synthesis is that late Western Han personnel politics combines const
 ## Connections
 
 - [[HanChengdi|汉成帝]], [[WangFengWesternHan|王凤]], [[WangYinWesternHan|王音]], [[WangTanWesternHan|王谭]], and [[OuterRelativeCourtPower|外戚专权与清算]] - Wang Feng's death creates a personnel-balancing problem inside the Wang-family outer-relative bloc.
-- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] - later Chengdi/Wang-family balancing episode where another internal counterweight attempt is defused through consultation.
+- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|汉纪 533]] - later Chengdi/Wang-family balancing episode where another internal counterweight attempt is defused through consultation.
 - [[DuanHuizongWesternHan|段会宗]], [[WesternRegionsProtectorate|西域都护府]], and [[PreventiveFrontierGovernance|治未病式边疆治理]] - Duan's no-incident tenure becomes a model of preventive frontier administration.
 - [[EffectMeasuredPersonnelSelection|实效考察式用人]] - Gu Yong's recommendation principle that high-office selection should test actual administrative results, not only public reputation.
 - [[GuYongWesternHan|谷永]] - appears both as Wang Tan's adviser and as the source's spokesman for effect-based personnel judgment.
@@ -45,5 +45,5 @@ The durable synthesis is that late Western Han personnel politics combines const
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Name caution: the source writes 段惠宗, while the existing Western Han page uses [[DuanHuizongWesternHan|段会宗]], the standard form already established by Hanji 550.
+- Name caution: the source writes 段惠宗, while the existing Western Han page uses [[DuanHuizongWesternHan|段会宗]], the standard form already established by 汉纪 550.
 - Scope caution: Yu Yong, Wang Jun, and Wang Ji are routed to new minimal entity pages because this source gives them useful but narrow personnel-background roles; their complete biographies, office chronology, and family lines remain source-scoped.

@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Overview
 
-Yun Chang / 云敞 enters the wiki through [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] as [[WuZhangWesternHan|吴章]]'s student, whose decision to acknowledge his teacher and bury him contrasts with wider fear after the [[DogBloodCase|狗血案]].
+Yun Chang / 云敞 enters the wiki through [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] as [[WuZhangWesternHan|吴章]]'s student, whose decision to acknowledge his teacher and bury him contrasts with wider fear after the [[DogBloodCase|狗血案]].
 
 ## Current Profile
 
@@ -25,13 +25,13 @@ The source presents Yun Chang as a rare loyalty figure under political terror. A
 
 ## Evidence
 
-- Student network punishment: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] says Wu Zhang's students are禁锢 after the case.
-- Public self-identification: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] says Yun Chang memorializes that he is Wu Zhang's student and resigns.
-- Burial act: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] says Yun Chang collects and buries Wu Zhang's body.
+- Student network punishment: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] says Wu Zhang's students are禁锢 after the case.
+- Public self-identification: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] says Yun Chang memorializes that he is Wu Zhang's student and resigns.
+- Burial act: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] says Yun Chang collects and buries Wu Zhang's body.
 
 ## Qualifications
 
-This page is bounded to Hanji 616. It does not reconstruct Yun Chang's earlier office, later career, or full relationship with Wu Zhang.
+This page is bounded to 汉纪 616. It does not reconstruct Yun Chang's earlier office, later career, or full relationship with Wu Zhang.
 
 ## What Changed
 

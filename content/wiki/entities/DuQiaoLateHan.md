@@ -17,19 +17,19 @@ last_updated: 2026-08-29
 杜乔 / Du Qiao is the late-Han upright official whose current profile now begins under [[EmperorShunOfHan|汉顺帝]] as an imperial inspector who reports [[LiGuLateHan|李固]]'s Taishan performance as best in the realm. The 145 CE backfill shows him refusing to cooperate with Liang Ji's gold-snake prestige politics before later sources carry him into the first senior-official recommendation of [[LiuSuanLateHan]] after [[EmperorZhiOfHan]]'s poisoned death, resistance to [[LiangJiLateHan]]'s move to install [[EmperorHuanOfHan]], taiwei criticism of reward inversion, and prison death as Li Gu's paired persecution target.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] supplies the earliest current Du Qiao layer. Emperor Shun sends eight inspectors to examine local officials; Du Qiao's report ranks Li Gu's Taishan administration first under heaven, helping move Li Gu from a local pacification post back into Luoyang court service.
+[[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|汉纪 822]] supplies the earliest current Du Qiao layer. Emperor Shun sends eight inspectors to examine local officials; Du Qiao's report ranks Li Gu's Taishan administration first under heaven, helping move Li Gu from a local pacification post back into Luoyang court service.
 
 The 145 CE layer gives an earlier Liang Ji resentment point. After [[LiuJunshiLateHan|刘君世]]'s gold patterned snake is exposed, the object is moved through senior offices. Du Qiao refuses to lend it to Liang Ji and also refuses to attend mourning for Liang Ji's deceased daughter, making his uprightness visible as omitted deference before the later accession conflict.
 
-[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] supplies the first succession layer. After Emperor Zhi dies, Du Qiao joins Li Gu, [[HuGuangLateHan|胡广]], and Zhao Jie in urging broad consultation and recommending Liu Suan, making his later resistance part of an already stated succession judgment.
+[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|汉纪 827]] supplies the first succession layer. After Emperor Zhi dies, Du Qiao joins Li Gu, [[HuGuangLateHan|胡广]], and Zhao Jie in urging broad consultation and recommending Liu Suan, making his later resistance part of an already stated succession judgment.
 
-[[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] supplies the coercive ratification layer. As dahonglu, Du Qiao stands with Li Gu against Liang Ji's effort to install Liu Zhi; when most senior officials submit to Liang Ji's pressure, Du Qiao remains one of the holdouts. After Li Gu is removed, the episode says Du Qiao continues to hold himself upright, foreshadowing later conflict.
+[[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|汉纪 828]] supplies the coercive ratification layer. As dahonglu, Du Qiao stands with Li Gu against Liang Ji's effort to install Liu Zhi; when most senior officials submit to Liang Ji's pressure, Du Qiao remains one of the holdouts. After Li Gu is removed, the episode says Du Qiao continues to hold himself upright, foreshadowing later conflict.
 
-[[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] supplies the office-and-advice layer. Du Qiao becomes taiwei in 147 CE and memorializes that appointing worthies plus matching rewards and punishments to merit are core state tasks; he criticizes rewards flowing to Liang-family and eunuch actors without merit, and Huan gives no visible answer.
+[[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] supplies the office-and-advice layer. Du Qiao becomes taiwei in 147 CE and memorializes that appointing worthies plus matching rewards and punishments to merit are core state tasks; he criticizes rewards flowing to Liang-family and eunuch actors without merit, and Huan gives no visible answer.
 
 The same source shows why Du Qiao becomes personally dangerous to Liang Ji. After [[EmpressLiangYingLateHan]] is appointed empress, Du Qiao refuses Liang Ji's attempt to use empress-level wedding rites beyond established institutions. He also refuses to recommend a corrupt candidate for shangshu. Liang Ji interprets both refusals as disobedience, and [[TangHengLateHan]] plus [[ZuoGuanLateHan]] later recode Du Qiao and Li Gu's earlier succession stance as personal opposition to Huan.
 
-[[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] gives the final persecution layer. [[EmpressDowagerLiangNaLateHan]] initially refuses to approve Du Qiao's arrest because she regards him as loyal and upright, but Liang Ji later threatens him with suicide as the price of preserving wife and children. Du Qiao refuses, enters the prison process, dies in prison, and has his displayed body guarded and returned for burial by [[YangKuangDuQiaoRetainer]].
+[[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] gives the final persecution layer. [[EmpressDowagerLiangNaLateHan]] initially refuses to approve Du Qiao's arrest because she regards him as loyal and upright, but Liang Ji later threatens him with suicide as the price of preserving wife and children. Du Qiao refuses, enters the prison process, dies in prison, and has his displayed body guarded and returned for burial by [[YangKuangDuQiaoRetainer]].
 
 ## Key Characteristics
 - Inspector whose report helps Emperor Shun recognize Li Gu's Taishan governance performance.
@@ -41,31 +41,31 @@ The same source shows why Du Qiao becomes personally dangerous to Liang Ji. Afte
 - Dies in prison under Liang Ji's political pressure, with posthumous reputation preserved by Yang Kuang's guarded burial action.
 
 ## Evidence
-- Inspector report on Li Gu: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] says Du Qiao reports Li Gu's Taishan performance as first under heaven, after which Emperor Shun summons Li Gu to Luoyang.
-- Gold-snake refusal: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Du Qiao refuses Liang Ji's request involving the gold patterned snake after Liu Junshi's gift is exposed.
-- Mourning refusal: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Du Qiao does not go to mourn Liang Ji's daughter, deepening Liang's resentment toward him.
-- Initial Liu Suan recommendation: [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] says Li Gu, Hu Guang, Zhao Jie, and Du Qiao urge broad consultation and recommend Liu Suan after Emperor Zhi's death.
-- Succession resistance: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] says Du Qiao and Li Gu persist in opposing Liang Ji's Liu Zhi plan after most senior officials submit.
-- Upright continuation: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] closes by stressing that Du Qiao continues upright after Li Gu's removal.
-- Office and memorial layer: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Du Qiao becomes taiwei and warns Huan that appointing worthies plus fair reward and punishment are core state tasks.
-- Institutional refusals: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Du Qiao blocks Liang Ji's expanded wedding-rite request and refuses to recommend a corrupt shangshu candidate.
-- Slander prelude: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Tang Heng and Zuo Guan tell Huan that Du Qiao and Li Gu opposed his accession.
-- Initial protection: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Na does not approve Du Qiao's arrest when Liang Ji first accuses him alongside Li Gu.
-- Prison death and burial defense: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Du Qiao refuses coerced suicide, dies in prison, and has his body guarded and returned by Yang Kuang.
+- Inspector report on Li Gu: [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|汉纪 822]] says Du Qiao reports Li Gu's Taishan performance as first under heaven, after which Emperor Shun summons Li Gu to Luoyang.
+- Gold-snake refusal: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Du Qiao refuses Liang Ji's request involving the gold patterned snake after Liu Junshi's gift is exposed.
+- Mourning refusal: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Du Qiao does not go to mourn Liang Ji's daughter, deepening Liang's resentment toward him.
+- Initial Liu Suan recommendation: [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|汉纪 827]] says Li Gu, Hu Guang, Zhao Jie, and Du Qiao urge broad consultation and recommend Liu Suan after Emperor Zhi's death.
+- Succession resistance: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|汉纪 828]] says Du Qiao and Li Gu persist in opposing Liang Ji's Liu Zhi plan after most senior officials submit.
+- Upright continuation: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|汉纪 828]] closes by stressing that Du Qiao continues upright after Li Gu's removal.
+- Office and memorial layer: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says Du Qiao becomes taiwei and warns Huan that appointing worthies plus fair reward and punishment are core state tasks.
+- Institutional refusals: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says Du Qiao blocks Liang Ji's expanded wedding-rite request and refuses to recommend a corrupt shangshu candidate.
+- Slander prelude: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says Tang Heng and Zuo Guan tell Huan that Du Qiao and Li Gu opposed his accession.
+- Initial protection: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Liang Na does not approve Du Qiao's arrest when Liang Ji first accuses him alongside Li Gu.
+- Prison death and burial defense: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Du Qiao refuses coerced suicide, dies in prison, and has his body guarded and returned by Yang Kuang.
 
 ## Qualifications
-This page is bounded to Hanji 822, Hanji 826, Hanji 827, Hanji 828, Hanji 829, and Hanji 830 and does not reconstruct Du Qiao's full career, family, or all office history. Hanji 822 supplies the inspector-report layer under Emperor Shun; Hanji 826 supplies the gold-snake and mourning-refusal layer; Hanji 827 supplies the first Liu Suan recommendation layer; Hanji 828 supplies the direct accession-resistance layer; Hanji 829 supplies the taiwei, remonstrance, ritual, recommendation, and slander layer; Hanji 830 supplies the final persecution, prison death, and posthumous burial-defense layer. The other seven inspectors, Du Qiao's exact 145 CE office path, and the exact regional findings remain source-scoped.
+This page is bounded to 汉纪 822, 汉纪 826, 汉纪 827, 汉纪 828, 汉纪 829, and 汉纪 830 and does not reconstruct Du Qiao's full career, family, or all office history. 汉纪 822 supplies the inspector-report layer under Emperor Shun; 汉纪 826 supplies the gold-snake and mourning-refusal layer; 汉纪 827 supplies the first Liu Suan recommendation layer; 汉纪 828 supplies the direct accession-resistance layer; 汉纪 829 supplies the taiwei, remonstrance, ritual, recommendation, and slander layer; 汉纪 830 supplies the final persecution, prison death, and posthumous burial-defense layer. The other seven inspectors, Du Qiao's exact 145 CE office path, and the exact regional findings remain source-scoped.
 
 ## What Changed
-- Added Hanji 822 as Du Qiao's earliest current layer: imperial inspector whose Taishan report helps promote Li Gu under Emperor Shun.
-- Added Hanji 826 as the earlier Liang Ji resentment layer through Du Qiao's gold-snake and mourning refusals.
-- Reframed Hanji 827 as the first succession layer rather than the beginning of Du Qiao's current profile.
-- Kept Hanji 828 as coercive ratification and continued resistance, and Hanji 829's memorial and institutional refusals as continuations of an already visible resistance profile.
-- Preserved Hanji 830 as the death-and-reputation layer.
+- Added 汉纪 822 as Du Qiao's earliest current layer: imperial inspector whose Taishan report helps promote Li Gu under Emperor Shun.
+- Added 汉纪 826 as the earlier Liang Ji resentment layer through Du Qiao's gold-snake and mourning refusals.
+- Reframed 汉纪 827 as the first succession layer rather than the beginning of Du Qiao's current profile.
+- Kept 汉纪 828 as coercive ratification and continued resistance, and 汉纪 829's memorial and institutional refusals as continuations of an already visible resistance profile.
+- Preserved 汉纪 830 as the death-and-reputation layer.
 
 ## Relationships
 - [[EmperorShunOfHan]] - earlier ruler whose inspection system receives Du Qiao's report on Li Gu.
-- [[ZhangGangLateHan]] - fellow inspector in Hanji 822 who targets Liang Ji directly while Du Qiao reports Li Gu's Taishan record.
+- [[ZhangGangLateHan]] - fellow inspector in 汉纪 822 who targets Liang Ji directly while Du Qiao reports Li Gu's Taishan record.
 - [[LiuJunshiLateHan]] - official whose gold-snake gift creates the object Du Qiao later refuses to lend.
 - [[EmperorZhiOfHan]] - emperor whose death opens the Liu Suan recommendation and succession dispute involving Du Qiao.
 - [[LiGuLateHan]] - paired loyal official in the accession dispute, accusation, prison, and body-display sequence.

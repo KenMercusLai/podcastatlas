@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？
 
 ## Summary
-This episode continues the Qi campaign from [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|Hanji 162-3]]: [[LiShiqi]] has persuaded [[TianGuangQiKing]] to submit, but [[HanXin]], pushed by [[KuaiChe]], attacks anyway and turns the surrender into Li Shiqi's execution. It then shifts to the central front, where [[CaoJiu]] ignores [[XiangYu]]'s defensive instructions, is lured across [[SishuiChuHan|汜水]], and loses [[Chenggao]] and [[Aocang]] back to [[LiuBang]]. The closing Guangwu episode shows Xiang Yu trying hostage pressure and personal force against Liu Bang, while Liu Bang refuses both emotional leverage and a duel.
+This episode continues the Qi campaign from [[zizhi-tongjian-hanji-162-3-zuipao-wang-lishiqi-budong-yibing-naxia-70-yu-cheng-lq88alghxqxxcddk4zzqodkezipx|汉纪 162-3]]: [[LiShiqi]] has persuaded [[TianGuangQiKing]] to submit, but [[HanXin]], pushed by [[KuaiChe]], attacks anyway and turns the surrender into Li Shiqi's execution. It then shifts to the central front, where [[CaoJiu]] ignores [[XiangYu]]'s defensive instructions, is lured across [[SishuiChuHan|汜水]], and loses [[Chenggao]] and [[Aocang]] back to [[LiuBang]]. The closing Guangwu episode shows Xiang Yu trying hostage pressure and personal force against Liu Bang, while Liu Bang refuses both emotional leverage and a duel.
 
 ## Key Claims
 - Li Shiqi's diplomatic success becomes lethal because Han Xin's military mandate is not synchronized with the surrender he has just negotiated, illustrating [[CommandSynchronizationFailure|军令同步失灵]].

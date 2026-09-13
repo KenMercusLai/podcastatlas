@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 种辑 / Zhong Ji (late Han)
 
 ## Overview
-种辑 / Zhong Ji enters the wiki through Hanji 1040 as a conspirator executed after [[CaoCao|曹操]] uncovers the [[YidaiZhao|衣带诏]] plot.
+种辑 / Zhong Ji enters the wiki through 汉纪 1040 as a conspirator executed after [[CaoCao|曹操]] uncovers the [[YidaiZhao|衣带诏]] plot.
 
 ## Current Profile
 The current source gives Zhong Ji a narrow court-conspiracy role. His importance is the execution aftermath: Cao Cao's discovery of the plot removes Dong Cheng's circle while [[LiuBei|刘备]] has already left and rebuilt force in [[Xuzhou|徐州]].
@@ -31,7 +31,7 @@ The current source gives Zhong Ji a narrow court-conspiracy role. His importance
 The transcript's "崇基" is treated as a likely recognition error. The wiki keeps the normalization source-scoped until confirmed by later notes.
 
 ## What Changed
-- Created the page for the Dong Cheng plot participant rendered as "崇基" in Hanji 1040.
+- Created the page for the Dong Cheng plot participant rendered as "崇基" in 汉纪 1040.
 
 ## Relationships
 - [[DongChengLateHan|董承]] - conspiracy leader associated with Zhong Ji.

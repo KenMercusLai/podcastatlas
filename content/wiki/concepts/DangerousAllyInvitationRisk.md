@@ -14,7 +14,7 @@ Dangerous ally invitation risk / 引强援反噬风险 is the pattern where a we
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|Hanji 474]] defines the current case through [[Kangju|康居]] and [[ZhizhiChanyu|郅支单于]]. Kangju wants help against [[Wusun|乌孙]], so it welcomes Zhizhi Chanyu, places him near the frontier, and uses marriage ties to bind the alliance. The episode reads the move as naive because Zhizhi Chanyu is not a controllable tool: he has already killed Han envoys, fears Han retaliation, hates Wusun, and wants to rebuild his own military position.
+[[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|汉纪 474]] defines the current case through [[Kangju|康居]] and [[ZhizhiChanyu|郅支单于]]. Kangju wants help against [[Wusun|乌孙]], so it welcomes Zhizhi Chanyu, places him near the frontier, and uses marriage ties to bind the alliance. The episode reads the move as naive because Zhizhi Chanyu is not a controllable tool: he has already killed Han envoys, fears Han retaliation, hates Wusun, and wants to rebuild his own military position.
 
 The episode's Western Zhou comparison generalizes the risk. Bringing in a dangerous external force can defeat the immediate target while wrecking the inviter's own order. At the same time, disorder reallocates opportunity: [[QinXiangGong|秦襄公]] rises by protecting [[ZhouPingwang|周平王]] after [[ZhouYouwang|周幽王]]'s collapse. The concept therefore covers both sides of the move: the inviter's control failure and the third actor's chance to climb through crisis.
 
@@ -28,21 +28,21 @@ The episode's Western Zhou comparison generalizes the risk. Bringing in a danger
 
 ## Evidence
 
-- Kangju motive: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|Hanji 474]] says Kangju often suffers from Wusun pressure and wants Zhizhi Chanyu as a counterweight.
-- Dangerous invitee: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|Hanji 474]] says Zhizhi Chanyu has killed Han envoys, fears Han retaliation, hates Wusun, and is eager to move west when Kangju invites him.
-- Alliance binding: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|Hanji 474]] says Kangju welcomes Zhizhi Chanyu, marries a daughter to him, and receives his daughter in marriage.
-- Mutual exploitation: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|Hanji 474]] says Kangju wants Zhizhi's prestige to pressure western states, while Zhizhi wants Kangju soldiers and a base for attacking Wusun.
-- Wusun damage: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|Hanji 474]] says Zhizhi Chanyu attacks as far as Wusun's Chigu city area, kills and plunders, and leaves the western zone badly depopulated.
-- Western Zhou analogy: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|Hanji 474]] compares Kangju's move with inviting outside force into the Zhou crisis around Zhou Youwang.
-- Crisis opportunity: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|Hanji 474]] says Qin Xiang Gong protects Zhou Pingwang's eastward move and receives rank and territory, turning crisis into status ascent.
+- Kangju motive: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|汉纪 474]] says Kangju often suffers from Wusun pressure and wants Zhizhi Chanyu as a counterweight.
+- Dangerous invitee: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|汉纪 474]] says Zhizhi Chanyu has killed Han envoys, fears Han retaliation, hates Wusun, and is eager to move west when Kangju invites him.
+- Alliance binding: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|汉纪 474]] says Kangju welcomes Zhizhi Chanyu, marries a daughter to him, and receives his daughter in marriage.
+- Mutual exploitation: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|汉纪 474]] says Kangju wants Zhizhi's prestige to pressure western states, while Zhizhi wants Kangju soldiers and a base for attacking Wusun.
+- Wusun damage: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|汉纪 474]] says Zhizhi Chanyu attacks as far as Wusun's Chigu city area, kills and plunders, and leaves the western zone badly depopulated.
+- Western Zhou analogy: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|汉纪 474]] compares Kangju's move with inviting outside force into the Zhou crisis around Zhou Youwang.
+- Crisis opportunity: [[zizhi-tongjian-hanji-474-guji-kangkai-fusi-wo-weihe-renwei-ta-yuchun-lp-07zvaxr21dt2mtva2ndp6b9by|汉纪 474]] says Qin Xiang Gong protects Zhou Pingwang's eastward move and receives rank and territory, turning crisis into status ascent.
 
 ## Counterevidence & Qualifications
 
-This concept does not say all alliances with stronger actors are irrational. It applies when the invited actor has independent military capacity, weak controllability, violent prior conduct, and incentives that extend beyond the inviter's limited objective. Hanji 474 supplies a podcast-level comparison between Kangju-Zhizhi and Western Zhou stories; the exact Kangju calculation, Wusun losses, and Zhou analogy remain source-scoped.
+This concept does not say all alliances with stronger actors are irrational. It applies when the invited actor has independent military capacity, weak controllability, violent prior conduct, and incentives that extend beyond the inviter's limited objective. 汉纪 474 supplies a podcast-level comparison between Kangju-Zhizhi and Western Zhou stories; the exact Kangju calculation, Wusun losses, and Zhou analogy remain source-scoped.
 
 ## What Changed
 
-- Created the concept from Hanji 474's Kangju-Zhizhi alliance warning and Western Zhou comparison.
+- Created the concept from 汉纪 474's Kangju-Zhizhi alliance warning and Western Zhou comparison.
 
 ## Related Concepts
 

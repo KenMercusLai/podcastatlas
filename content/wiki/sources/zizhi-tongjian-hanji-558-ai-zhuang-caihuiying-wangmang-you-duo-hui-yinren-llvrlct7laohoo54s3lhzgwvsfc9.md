@@ -18,7 +18,7 @@ The durable synthesis is that Wang Mang's early ascent depended on reputation be
 
 - Wang Mang's 8 BCE appointment as Da Sima is presented as both personal merit from exposing Chunyu Zhang and Wang-family office transmission through [[WangGenWesternHan|王根]].
 - Wang Mang turns self-restraint, scholar patronage, donation of imperial rewards, and his wife's austere public appearance into early [[MoralReputationPoliticalCapital|moral reputation political capital]].
-- [[ZhaiFangjinWesternHan|翟方进]] and [[HeWuWesternHan|何武]] persuade Chengdi to abolish low-ranked刺史 and create higher-ranked州牧, reversing the later Aidi-era restoration of刺史 recorded in [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]].
+- [[ZhaiFangjinWesternHan|翟方进]] and [[HeWuWesternHan|何武]] persuade Chengdi to abolish low-ranked刺史 and create higher-ranked州牧, reversing the later Aidi-era restoration of刺史 recorded in [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|汉纪 580]].
 - Liu Xiang reads sixteen ancient chime stones from Qianwei as a chance to rebuild礼乐, expand [[Taixue|太学]], and make education more fundamental than punishment.
 - The failed Taixue construction and short-lived expansion to 3,000 students show a court able to announce Confucian-cultural ambition but unable to sustain execution.
 - Liu Xiang's blocked promotion shows that moral speech and imperial favor were insufficient without support from the dominant Wang network and senior administrative offices.
@@ -32,7 +32,7 @@ The durable synthesis is that Wang Mang's early ascent depended on reputation be
 ## Connections
 
 - [[WangMang|王莽]], [[WangGenWesternHan|王根]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - early Da Sima appointment, visible austerity, and reputation construction before later regency.
-- [[ZhaiFangjinWesternHan|翟方进]], [[HeWuWesternHan|何武]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - first刺史-to-州牧 office-rank reform, later reversed in Hanji 580.
+- [[ZhaiFangjinWesternHan|翟方进]], [[HeWuWesternHan|何武]], and [[ProvincialShepherdAutonomy|州牧集权与地方割据]] - first刺史-to-州牧 office-rank reform, later reversed in 汉纪 580.
 - [[LiuXiang|刘向]], [[Taixue|太学]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[ConfucianIdealGovernance|儒家理想治理]] -礼乐 education as an alternative to punishment-centered order.
 - [[RoleAttachmentPowerExit|权力角色依附与退场]] - the episode's closing management analogy about failing to release a role after leaving the center of attention.
 

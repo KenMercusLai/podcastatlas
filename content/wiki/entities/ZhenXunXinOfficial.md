@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-甄寻 / Zhen Xun enters the wiki through [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] as the Xin official whose fuming texts expose the danger of copying [[WangMang|王莽]]'s own legitimacy method after Wang Mang has become emperor.
+甄寻 / Zhen Xun enters the wiki through [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|汉纪 642]] as the Xin official whose fuming texts expose the danger of copying [[WangMang|王莽]]'s own legitimacy method after Wang Mang has become emperor.
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ His second fuming text crosses into family and dynastic status by proposing that
 
 ## Evidence
 
-- Accepted fuming: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] says Zhen Xun submits a fuming text that makes Zhen Feng right bo and receives Wang Mang's approval.
-- Marriage claim: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] says Zhen Xun later submits a fuming text proposing marriage to Wang Mang's daughter, the former Han Pingdi empress.
-- Punitive expansion: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|Hanji 642]] says Zhen Xun flees, is eventually arrested after hiding near Huashan, and his confession implicates many people.
+- Accepted fuming: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|汉纪 642]] says Zhen Xun submits a fuming text that makes Zhen Feng right bo and receives Wang Mang's approval.
+- Marriage claim: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|汉纪 642]] says Zhen Xun later submits a fuming text proposing marriage to Wang Mang's daughter, the former Han Pingdi empress.
+- Punitive expansion: [[zizhi-tongjian-hanji-642-kao-xinji-shangwei-de-ren-zui-taoyan-shenme-lnc6e3dgxxnrylkfqzgl2ro9gpbj|汉纪 642]] says Zhen Xun flees, is eventually arrested after hiding near Huashan, and his confession implicates many people.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 642. It does not reconstruct Zhen Xun's full office history, precise motive, all implicated people, or the exact legal procedure behind the purge.
+This page is source-bounded to 汉纪 642. It does not reconstruct Zhen Xun's full office history, precise motive, all implicated people, or the exact legal procedure behind the purge.
 
 ## What Changed
 
-- Created from Hanji 642 as the fuming operator whose marriage claim makes mandate-sign monopoly backfire visible.
+- Created from 汉纪 642 as the fuming operator whose marriage claim makes mandate-sign monopoly backfire visible.
 
 ## Relationships
 

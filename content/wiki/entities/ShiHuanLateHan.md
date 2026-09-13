@@ -25,9 +25,9 @@ The operation defeats Han Meng and burns [[YuanShao|袁绍]]'s baggage. Shi Huan
 - Source-bounded minor figure tied to supply-line attack before Wuchao.
 
 ## Evidence
-- Attack role: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] names Shi Huan with Xu Huang as the officers sent to attack Han Meng.
-- Result: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says the attack defeats Han Meng and burns Yuan Shao's baggage.
-- Logistics context: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] places the strike during Cao Cao's food crisis at Guandu.
+- Attack role: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] names Shi Huan with Xu Huang as the officers sent to attack Han Meng.
+- Result: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says the attack defeats Han Meng and burns Yuan Shao's baggage.
+- Logistics context: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] places the strike during Cao Cao's food crisis at Guandu.
 
 ## Qualifications
 The source does not provide Shi Huan's broader offices, background, or later career. The page should remain narrow until another source adds independent evidence.

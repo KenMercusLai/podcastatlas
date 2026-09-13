@@ -10,13 +10,13 @@ knowledge_schema: synthesis-v1
 ---
 ## Overview
 
-袁闳 / Yuan Hong is a late-Han Yuan-family recluse whose current profile joins an earlier Huan-era refusal of office with later party-crisis household withdrawal. Hanji 849 presents him as a descendant of Yuan An who cultivates himself and refuses Emperor Huan's recruitment; Hanji 896 contrasts him with the public prestige of Yuan Shao and Yuan Shu by showing him reject family wealth and visibility under corrupt conditions.
+袁闳 / Yuan Hong is a late-Han Yuan-family recluse whose current profile joins an earlier Huan-era refusal of office with later party-crisis household withdrawal. 汉纪 849 presents him as a descendant of Yuan An who cultivates himself and refuses Emperor Huan's recruitment; 汉纪 896 contrasts him with the public prestige of Yuan Shao and Yuan Shu by showing him reject family wealth and visibility under corrupt conditions.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] supplies the earlier Yuan Hong layer. He is named as a Yuan An descendant, included among [[ChenFanLateHan|陈蕃]]'s recommended recluses, and defined by sustained self-cultivation and refusal to answer Huan's gifts and summons. In that setting, his refusal signals lack of confidence in the court rather than inability to serve.
+[[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] supplies the earlier Yuan Hong layer. He is named as a Yuan An descendant, included among [[ChenFanLateHan|陈蕃]]'s recommended recluses, and defined by sustained self-cultivation and refusal to answer Huan's gifts and summons. In that setting, his refusal signals lack of confidence in the court rather than inability to serve.
 
-[[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] presents Yuan Hong as a Yuan-family member who refuses gifts from Yuan Feng and Yuan Wei, judges his own clan's wealth and power as politically dangerous, and withdraws as far as filial duty allows. Because he cannot abandon his mother for mountain reclusion, he builds a doorless earthen hut in his courtyard, isolates there for eighteen years, and dies peacefully.
+[[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|汉纪 896]] presents Yuan Hong as a Yuan-family member who refuses gifts from Yuan Feng and Yuan Wei, judges his own clan's wealth and power as politically dangerous, and withdraws as far as filial duty allows. Because he cannot abandon his mother for mountain reclusion, he builds a doorless earthen hut in his courtyard, isolates there for eighteen years, and dies peacefully.
 
 ## Key Characteristics
 
@@ -28,20 +28,20 @@ knowledge_schema: synthesis-v1
 
 ## Evidence
 
-- Early lineage and refusal: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] names Yuan Hong as a Yuan An descendant and one of Chen Fan's five recommended scholars who refuses Huan's polite recruitment.
-- Court-confidence reading: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] frames the refusals as evidence that respected scholars no longer trusted the court enough to serve.
-- Yuan-family contrast: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] places Yuan Hong after the episode explains Yuan Shao, Yuan Shu, Yuan Feng, and Yuan Wei's family prestige.
-- Wealth refusal: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] says Yuan Hong refuses gifts from Yuan Feng and Yuan Wei and treats the clan's riches as future debt.
-- Domestic reclusion: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] records the doorless hut, eighteen years of isolation, and death there.
-- Self-protection logic: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] uses Yuan Hong as one answer to the episode's question of how to protect oneself if disorder arrives.
+- Early lineage and refusal: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] names Yuan Hong as a Yuan An descendant and one of Chen Fan's five recommended scholars who refuses Huan's polite recruitment.
+- Court-confidence reading: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] frames the refusals as evidence that respected scholars no longer trusted the court enough to serve.
+- Yuan-family contrast: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|汉纪 896]] places Yuan Hong after the episode explains Yuan Shao, Yuan Shu, Yuan Feng, and Yuan Wei's family prestige.
+- Wealth refusal: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|汉纪 896]] says Yuan Hong refuses gifts from Yuan Feng and Yuan Wei and treats the clan's riches as future debt.
+- Domestic reclusion: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|汉纪 896]] records the doorless hut, eighteen years of isolation, and death there.
+- Self-protection logic: [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|汉纪 896]] uses Yuan Hong as one answer to the episode's question of how to protect oneself if disorder arrives.
 
 ## Qualifications
 
-This page rests on two source notes and should not be read as a complete biography. Hanji 849's lineage and recruitment-refusal layer is compatible with Hanji 896's later household withdrawal, but the current wiki evidence does not establish every chronological step between those scenes. Genealogical details around the Yuan lineage and the interpretation that family wealth becomes "debt" are preserved as source-scoped claims until corroborated by additional sources.
+This page rests on two source notes and should not be read as a complete biography. 汉纪 849's lineage and recruitment-refusal layer is compatible with 汉纪 896's later household withdrawal, but the current wiki evidence does not establish every chronological step between those scenes. Genealogical details around the Yuan lineage and the interpretation that family wealth becomes "debt" are preserved as source-scoped claims until corroborated by additional sources.
 
 ## What Changed
 
-- Hanji 849 adds Yuan Hong's earlier Huan-era refusal of office and Yuan An lineage before Hanji 896's crisis-withdrawal story.
+- 汉纪 849 adds Yuan Hong's earlier Huan-era refusal of office and Yuan An lineage before 汉纪 896's crisis-withdrawal story.
 - The current profile now treats Yuan Hong's later doorless-hut retreat as an intensification of an established refusal pattern, not an isolated late-life anecdote.
 
 ## Relationships

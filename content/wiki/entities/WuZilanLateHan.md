@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 吴子兰 / Wu Zilan (late Han)
 
 ## Overview
-吴子兰 / Wu Zilan enters the wiki through Hanji 1040 as a conspirator in the anti-[[CaoCao|曹操]] circle associated with [[DongChengLateHan|董承]].
+吴子兰 / Wu Zilan enters the wiki through 汉纪 1040 as a conspirator in the anti-[[CaoCao|曹操]] circle associated with [[DongChengLateHan|董承]].
 
 ## Current Profile
 The page records a source-scoped execution-list role. Wu Zilan matters here because the plot's exposure shows the danger of remaining inside Cao Cao's court after the [[YidaiZhao|衣带诏]] conspiracy, especially once [[LiuBei|刘备]] has already escaped into renewed regional force.
@@ -31,7 +31,7 @@ The page records a source-scoped execution-list role. Wu Zilan matters here beca
 The source's name form is preserved as an ASR/transcript caution. Later source notes may require renaming or splitting this page if the wiki receives stronger evidence.
 
 ## What Changed
-- Created the page for Hanji 1040's Wu Zilan conspiracy reference.
+- Created the page for 汉纪 1040's Wu Zilan conspiracy reference.
 
 ## Relationships
 - [[DongChengLateHan|董承]] - conspiracy organizer connected to Wu Zilan.

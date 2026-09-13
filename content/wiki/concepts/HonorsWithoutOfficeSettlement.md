@@ -14,7 +14,7 @@ Honors without office settlement / 受爵不受官式功臣安置 is a post-foun
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] grounds the concept in [[LiuXiu|光武帝刘秀]]'s 37 CE settlement after unification. The episode argues that Liu Xiu avoids both slaughtering the founding coalition and allowing it to keep wartime command power. He lowers some royal titles, distributes fiefs and rewards, lets commanders keep honor and material interest, and moves them out of direct command through marquis status, special-entry rank, and reduced administrative power.
+[[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] grounds the concept in [[LiuXiu|光武帝刘秀]]'s 37 CE settlement after unification. The episode argues that Liu Xiu avoids both slaughtering the founding coalition and allowing it to keep wartime command power. He lowers some royal titles, distributes fiefs and rewards, lets commanders keep honor and material interest, and moves them out of direct command through marquis status, special-entry rank, and reduced administrative power.
 
 The pattern works because the exchange is legible to both sides. [[DengYuEasternHan|邓禹]], [[JiaFuEasternHan|贾复]], [[GengYanEasternHan|耿弇]], and other commanders can accept withdrawal without public disgrace, while Liu Xiu recovers centralized authority without turning every meritorious officer into a desperate enemy. [[DouRongEasternHan|窦融]] adds a qualification: an exposed new affiliate may try to resign too far, so the settlement also requires the ruler to keep useful outsiders close enough that humility does not become destabilizing self-erasure.
 
@@ -28,11 +28,11 @@ The pattern works because the exchange is legible to both sides. [[DengYuEastern
 
 ## Evidence
 
-- Postwar threat field: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] opens from the historical problem of ruler conflict with founding merit groups and asks how Liu Xiu recovers military power after unification.
-- Honor-for-authority exchange: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] says many meritorious officials receive expanded fiefs, while commanders surrender military authority and continue as honored marquises or special-entry participants.
-- Voluntary retreat cases: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] presents Deng Yu, Jia Fu, Geng Yan, and others as understanding Liu Xiu's postwar governing direction and stepping away from command.
-- Ruler restraint and reward: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] emphasizes that Liu Xiu rewards, feasts, and favors meritorious actors rather than using the withdrawal as humiliation.
-- Affiliate integration: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] shows Dou Rong repeatedly seeking to resign because his status exceeds old followers, while Liu Xiu refuses the resignation.
+- Postwar threat field: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] opens from the historical problem of ruler conflict with founding merit groups and asks how Liu Xiu recovers military power after unification.
+- Honor-for-authority exchange: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] says many meritorious officials receive expanded fiefs, while commanders surrender military authority and continue as honored marquises or special-entry participants.
+- Voluntary retreat cases: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] presents Deng Yu, Jia Fu, Geng Yan, and others as understanding Liu Xiu's postwar governing direction and stepping away from command.
+- Ruler restraint and reward: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] emphasizes that Liu Xiu rewards, feasts, and favors meritorious actors rather than using the withdrawal as humiliation.
+- Affiliate integration: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] shows Dou Rong repeatedly seeking to resign because his status exceeds old followers, while Liu Xiu refuses the resignation.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ This concept does not claim that honor always substitutes for real authority or 
 
 ## What Changed
 
-- Created this concept from Hanji 715 to capture Liu Xiu's reward-rich, authority-limited settlement for founding commanders.
+- Created this concept from 汉纪 715 to capture Liu Xiu's reward-rich, authority-limited settlement for founding commanders.
 
 ## Related Concepts
 

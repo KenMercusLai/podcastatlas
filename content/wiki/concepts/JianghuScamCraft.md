@@ -18,7 +18,7 @@ Jianghu scam craft is the face-to-face fraud repertoire that turns observation, 
 ## Current Synthesis
 The core repertoire includes fortune-telling, physiognomy, fake medicine, mole removal, railway-station setups, insurance fraud, and staged family-recognition plots [[102-jianghu-congtan-pianshu-heihua-he-minjian-daoyi-736516488]]. The target is not merely lied to; they are placed inside a role as the recipient of secret knowledge, rescuer, bargain-hunter, filial actor, disaster avoider, or person confirming an existing fear.
 
-The same pattern can scale toward [[FangshiFraudAndAuthority|fangshi authority]], where similar techniques gather around rulers, illness, grief, death anxiety, and supernatural certainty [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]]. A compact skill formula from Hanji 483-2 says Jianghu survival requires bright eyes and a flexible mouth [[zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw]]. Observation and口才 are therefore morally ambivalent tools, useful for legitimate performance and also for seamless lying.
+The same pattern can scale toward [[FangshiFraudAndAuthority|fangshi authority]], where similar techniques gather around rulers, illness, grief, death anxiety, and supernatural certainty [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]]. A compact skill formula from 汉纪 483-2 says Jianghu survival requires bright eyes and a flexible mouth [[zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw]]. Observation and口才 are therefore morally ambivalent tools, useful for legitimate performance and also for seamless lying.
 
 ## Key Claims
 - Scam craft often begins with observation: clothing, accent, age, emotion, travel route, gender role, and local occupational patterns become clues.
@@ -43,7 +43,7 @@ The same pattern can scale toward [[FangshiFraudAndAuthority|fangshi authority]]
 Observation and speech are not inherently fraudulent. Street performance, mediation, sales, and ordinary survival can use the same capabilities without predation. The concept becomes "scam craft" only when role assignment, false authority, staged evidence, or coercive escalation is used to extract from the target.
 
 ## What Changed
-- Added Hanji 483-2's eyes-and-mouth formula as a concise skill layer beneath older street scam mechanics.
+- Added 汉纪 483-2's eyes-and-mouth formula as a concise skill layer beneath older street scam mechanics.
 - Migrated the page to synthesis-v1 while preserving the existing source order.
 
 ## Related Concepts

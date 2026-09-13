@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-樊鯈 / Fan Tiao is an Eastern Han reviewer in Hanji 738 whose current wiki role is bounded to the [[LiuJingGuanglingKingEasternHan|Liu Jing]] case. He makes the legal and constitutional point that an imperial brother's suspected rebellion cannot be handled as the emperor's private family matter.
+樊鯈 / Fan Tiao is an Eastern Han reviewer in 汉纪 738 whose current wiki role is bounded to the [[LiuJingGuanglingKingEasternHan|Liu Jing]] case. He makes the legal and constitutional point that an imperial brother's suspected rebellion cannot be handled as the emperor's private family matter.
 
 ## Current Profile
 
-Hanji 738 introduces Fan Tiao after Liu Jing's initial rebellion language has been followed by shamanic sacrifices and curse activity. Mingdi orders Fan and others to review the case. They recommend execution, and Mingdi reacts angrily because Liu Jing is his brother.
+汉纪 738 introduces Fan Tiao after Liu Jing's initial rebellion language has been followed by shamanic sacrifices and curse activity. Mingdi orders Fan and others to review the case. They recommend execution, and Mingdi reacts angrily because Liu Jing is his brother.
 
 Fan Tiao's answer is the page's durable contribution. He says the realm is Gaozu's realm, not Mingdi's private property, and that Spring and Autumn moral reasoning does not allow even a ruler's closest kin to harbor rebellion. When Mingdi asks whether they would dare make the same judgment if the accused were an imperial son, Fan replies that a son would already have been executed; they are reporting precisely because Liu Jing is Mingdi's full brother.
 
@@ -30,14 +30,14 @@ The page therefore treats Fan Tiao as a compact source case for public-law speec
 
 ## Evidence
 
-- Review role: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Mingdi assigns Fan Tiao and others to judge Liu Jing's renewed ritual and curse case.
-- Dynastic trust argument: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] has Fan answer that the empire belongs to Gaozu's order rather than to Mingdi as private property.
-- Kinship boundary: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Fan argues that even close royal kin cannot be exempt if they harbor rebellious intent.
-- Son-versus-brother distinction: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Fan tells Mingdi an imperial son would already have been executed, while a full brother requires reported judgment.
+- Review role: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Mingdi assigns Fan Tiao and others to judge Liu Jing's renewed ritual and curse case.
+- Dynastic trust argument: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] has Fan answer that the empire belongs to Gaozu's order rather than to Mingdi as private property.
+- Kinship boundary: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Fan argues that even close royal kin cannot be exempt if they harbor rebellious intent.
+- Son-versus-brother distinction: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Fan tells Mingdi an imperial son would already have been executed, while a full brother requires reported judgment.
 
 ## Qualifications
 
-The source transcript renders the name as 凡条; this page normalizes it to 樊鯈 / Fan Tiao and keeps the broader family background source-scoped. Hanji 738 does not develop Fan's full career outside this case.
+The source transcript renders the name as 凡条; this page normalizes it to 樊鯈 / Fan Tiao and keeps the broader family background source-scoped. 汉纪 738 does not develop Fan's full career outside this case.
 
 ## What Changed
 

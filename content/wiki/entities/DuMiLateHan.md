@@ -12,15 +12,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-杜密 / Du Mi is a late-Han scholar-official whose current profile now begins in the first Party Prohibition field. Hanji 875 presents him as a reputation peer of [[LiYingLateHan|李膺]], an early recognizer of [[ZhengXuan|郑玄]], and a critic of closed-door self-protection. Hanji 884 later places him among renowned worthy figures entering the reform court under [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[ChenFanLateHan|陈蕃]], and [[DouWuLateHan|窦武]], while Hanji 893 leaves him in the later reputation-danger environment.
+杜密 / Du Mi is a late-Han scholar-official whose current profile now begins in the first Party Prohibition field. 汉纪 875 presents him as a reputation peer of [[LiYingLateHan|李膺]], an early recognizer of [[ZhengXuan|郑玄]], and a critic of closed-door self-protection. 汉纪 884 later places him among renowned worthy figures entering the reform court under [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[ChenFanLateHan|陈蕃]], and [[DouWuLateHan|窦武]], while 汉纪 893 leaves him in the later reputation-danger environment.
 
 ## Current Profile
 
-Du Mi's profile now joins three roles that had previously been separated: party-prohibition fame, talent recognition, and public-duty ethics. In Hanji 875, Du Mi and Li Ying have similar reputations and are imprisoned together. The same source grounds Du Mi's名望 in concrete discernment: while serving in the Beihai / Gaomi context, he notices Zheng Xuan, appoints him locally, and sends him toward Luoyang and Taixue study.
+Du Mi's profile now joins three roles that had previously been separated: party-prohibition fame, talent recognition, and public-duty ethics. In 汉纪 875, Du Mi and Li Ying have similar reputations and are imprisoned together. The same source grounds Du Mi's名望 in concrete discernment: while serving in the Beihai / Gaomi context, he notices Zheng Xuan, appoints him locally, and sends him toward Luoyang and Taixue study.
 
 The episode also gives Du Mi a sharper ethical profile. Against Liu Sheng's closed-door posture, Du Mi argues that a士人 should recommend worthy people and expose those who violate the right way. This makes his public reputation more than a passive label; it is tied to active judgment, recommendation, and correction.
 
-Hanji 884 then shows how that reputation can become reform capital when famous士人 enter the court center. Hanji 893 shows the reverse side: the same public reputation can become dangerous once the party network is recoded as a threat. Du Mi therefore functions as a bridge between public-duty ethics, reform hope, and reputation-based exposure.
+汉纪 884 then shows how that reputation can become reform capital when famous士人 enter the court center. 汉纪 893 shows the reverse side: the same public reputation can become dangerous once the party network is recoded as a threat. Du Mi therefore functions as a bridge between public-duty ethics, reform hope, and reputation-based exposure.
 
 ## Key Characteristics
 
@@ -32,21 +32,21 @@ Hanji 884 then shows how that reputation can become reform capital when famous�
 
 ## Evidence
 
-- First Party Prohibition reputation: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] says Du Mi and Li Ying have similar reputations and are imprisoned together.
-- Talent recognition: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] says Du Mi recognizes Zheng Xuan in the Gaomi setting, gives him local employment, and later sends him to study at Luoyang Taixue.
-- Public-duty critique: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|Hanji 875]] says Du Mi criticizes Liu Sheng for not recommending good people or exposing evil, framing private purity without public action as culpable silence.
-- Reform-core entry: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] places Du Mi with Li Ying, Yin Xun, and Liu Yu among famous worthy figures entering the power center.
-- Public hope field: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says the entry of such figures makes士人 expect a peaceful or repaired political order.
-- Crackdown-name caution: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] keeps Du Mi among minor names in Cao Jie's accusation-list field, showing later exposure without enough detail for a full case.
-- Reputation-peer function: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] supports the broader claim that famous士人 reputation can become an arrest or death-risk signal.
+- First Party Prohibition reputation: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|汉纪 875]] says Du Mi and Li Ying have similar reputations and are imprisoned together.
+- Talent recognition: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|汉纪 875]] says Du Mi recognizes Zheng Xuan in the Gaomi setting, gives him local employment, and later sends him to study at Luoyang Taixue.
+- Public-duty critique: [[zizhi-tongjian-hanji-875-li-dapu-weihe-ta-yi-ruyu-wei-rong-lgffkjk-0yu-ehfsw59anoych-ld|汉纪 875]] says Du Mi criticizes Liu Sheng for not recommending good people or exposing evil, framing private purity without public action as culpable silence.
+- Reform-core entry: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] places Du Mi with Li Ying, Yin Xun, and Liu Yu among famous worthy figures entering the power center.
+- Public hope field: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] says the entry of such figures makes士人 expect a peaceful or repaired political order.
+- Crackdown-name caution: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] keeps Du Mi among minor names in Cao Jie's accusation-list field, showing later exposure without enough detail for a full case.
+- Reputation-peer function: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] supports the broader claim that famous士人 reputation can become an arrest or death-risk signal.
 
 ## Qualifications
 
-The current source notes do not reconstruct Du Mi's full career, office sequence, family network, or later fate. Hanji 875 renders Zheng Xuan as "郑璇"; this page normalizes to [[ZhengXuan|郑玄]] because the Gaomi recognition and later Taixue-scholar sequence match the established route. Liu Sheng and Wang Yu remain source-scoped here pending stronger disambiguating evidence.
+The current source notes do not reconstruct Du Mi's full career, office sequence, family network, or later fate. 汉纪 875 renders Zheng Xuan as "郑璇"; this page normalizes to [[ZhengXuan|郑玄]] because the Gaomi recognition and later Taixue-scholar sequence match the established route. Liu Sheng and Wang Yu remain source-scoped here pending stronger disambiguating evidence.
 
 ## What Changed
 
-- Hanji 875 moves Du Mi's profile earlier into the first Party Prohibition arrest field alongside Li Ying.
+- 汉纪 875 moves Du Mi's profile earlier into the first Party Prohibition arrest field alongside Li Ying.
 - The page now treats Du Mi's reputation as grounded in talent recognition and public-duty ethics, not only later reform-court visibility.
 - The current synthesis connects his anti-withdrawal critique to the later risk that public reputation becomes an accusation handle.
 

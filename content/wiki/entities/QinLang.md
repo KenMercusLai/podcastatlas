@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 秦朗 / Qin Lang
 
-秦朗 / Qin Lang enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] as the son of [[QinYilu|秦宜禄]] and [[LadyDuCaoCao|杜夫人]]. The episode places him with Lady Du in [[Xiapi|下邳]] while Qin Yilu is away and then held by [[YuanShu|袁术]].
+秦朗 / Qin Lang enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] as the son of [[QinYilu|秦宜禄]] and [[LadyDuCaoCao|杜夫人]]. The episode places him with Lady Du in [[Xiapi|下邳]] while Qin Yilu is away and then held by [[YuanShu|袁术]].
 
 His role is source-scoped and relational. Qin Lang matters here because Cao Cao's taking of Lady Du brings not only a woman into the household story but also her child, making the Xiapi anecdote part of Cao Cao's broader family network.
 

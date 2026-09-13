@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 168 CE transition just before [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] and the Hanji 882-887 [[DouWuLateHan|窦武]] / [[ChenFanLateHan|陈蕃]] crisis sequence. After [[EmperorHuanOfHan|汉桓帝]] dies and [[EmperorLingOfHan|汉灵帝]] has not yet formally ascended, many shangshu officials claim illness to avoid the risky court, and Chen Fan invokes "事亡如存" to force officials back into administrative duty.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 168 CE transition just before [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|汉纪 881]] and the 汉纪 882-887 [[DouWuLateHan|窦武]] / [[ChenFanLateHan|陈蕃]] crisis sequence. After [[EmperorHuanOfHan|汉桓帝]] dies and [[EmperorLingOfHan|汉灵帝]] has not yet formally ascended, many shangshu officials claim illness to avoid the risky court, and Chen Fan invokes "事亡如存" to force officials back into administrative duty.
 
 The second half adds the pre-approval stage of [[DuanJiongLateHan|段熲]]'s [[DongqiangLateHan|东羌]] strategy. Duan argues that surrender-first handling under [[ZhangHuanLateHan|张奂]] and Huangfu Gui has not ended the problem, then presents a troop, terrain, time, and money estimate for a decisive campaign against the [[XianlingQiang|先零羌]] and other Eastern Qiang forces. [[EmperorHuanOfHan|汉桓帝]] approves the plan before dying, leaving the episode's final question about whether the policy can survive the succession transition.
 
@@ -45,10 +45,10 @@ The second half adds the pre-approval stage of [[DuanJiongLateHan|段熲]]'s [[D
 - [[EmperorHuanOfHan|汉桓帝]], [[EmperorLingOfHan|汉灵帝]], [[DouWuLateHan|窦武]], [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], and [[HuGuangLateHan|胡广]] - accession and mourning setting.
 - [[DuanJiongLateHan|段熲]], [[DongqiangLateHan|东羌]], [[XianlingQiang|先零羌]], and [[ZhangHuanLateHan|张奂]] - frontier-policy actors and targets.
 - [[BudgetedFrontierSuppression|预算化边疆清剿]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[RootCausePacification|查因安抚式治理]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - concepts for Duan's troop, time, terrain, cost, and surrender-risk argument.
-- [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]], [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|Hanji 883]], [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]], and [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]] - downstream campaign, policy dispute, tactical execution, and ethical critique.
+- [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|汉纪 881]], [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|汉纪 883]], [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]], and [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|汉纪 892]] - downstream campaign, policy dispute, tactical execution, and ethical critique.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the interregnum and Duan Jiong memorial before Hanji 881's battle/funding layer and Hanji 883's policy dispute.
+- No settled contradiction with existing wiki pages was found. This source backfills the interregnum and Duan Jiong memorial before 汉纪 881's battle/funding layer and 汉纪 883's policy dispute.
 - Scope caution: the shangshu illness claims are recorded as this episode's court-risk case and should not be generalized into a claim that all official illness leave was false.
 - Transcript normalization: 段颎 is linked to canonical [[DuanJiongLateHan|段熲]], and Liu Hong is linked to [[EmperorLingOfHan|汉灵帝]] rather than a separate person page.

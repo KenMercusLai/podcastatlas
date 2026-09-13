@@ -12,12 +12,12 @@ This 芮淇讲透资治通鉴 episode covers Eastern Han Yongchu 4-5 (110-111 CE
 
 ## Key Claims
 
-- The Deng regency is presented as a compound-crisis regime before the later Hanji 786-793 episodes: fires, earthquakes, floods, locusts, coastal rebellion, Qiang pressure, and family mourning politics overlap in 110-111 CE.
+- The Deng regency is presented as a compound-crisis regime before the later 汉纪 786-793 episodes: fires, earthquakes, floods, locusts, coastal rebellion, Qiang pressure, and family mourning politics overlap in 110-111 CE.
 - [[FaXiongLateHan|Fa Xiong]] argues that pursuing rebels immediately after an imperial amnesty would destroy surrender credibility and push [[ZhangBailuLateHan|Zhang Bailu]]'s followers toward harder-to-reach island bases.
 - [[BanZhaoLateHan|Ban Zhao]] frames Deng-family mourning resignation as a legitimacy-preserving move: allowing the brothers to withdraw limits public suspicion that the regent refuses to release natal-family power.
 - [[EmpressDowagerDengLateHan|Empress Dowager Deng]] accepts the Deng brothers' temporary withdrawal but grants fengchaoqing status, keeping [[DengFamilyAnEraLateHan|Deng-family]] access to major court deliberation.
 - Forced relocation from Qiang-threatened commanderies turns a nominal protection measure into disaster when officials cut crops, demolish houses, destroy granaries, and coerce movement through hunger and soldier pressure.
-- The episode adds a source-scoped spelling/sequence layer for Zhang Bailu/Bolu: Hanji 785 centers the failed surrender window and flight to Liaodong islands, while Hanji 786 continues with the later defeat and death.
+- The episode adds a source-scoped spelling/sequence layer for Zhang Bailu/Bolu: 汉纪 785 centers the failed surrender window and flight to Liaodong islands, while 汉纪 786 continues with the later defeat and death.
 
 ## Key Quotes
 
@@ -34,11 +34,11 @@ This 芮淇讲透资治通鉴 episode covers Eastern Han Yongchu 4-5 (110-111 CE
 - [[DengZhiLateHan]] — Deng Zhi's withdrawal request is reframed through Ban Zhao's counsel and the later fengchaoqing compromise.
 - [[BanZhaoLateHan]] — Newly canonical adviser whose court counsel helps manage public legitimacy around the Deng family's mourning exit.
 - [[FaXiongLateHan]] — Newly canonical Qingzhou inspector whose judgment makes amnesty credibility central to anti-rebellion pacification.
-- [[ZhangBailuLateHan]] — Newly canonical coastal rebel leader whose surrender window, flight, and later Hanji 786 endpoint link piracy, amnesty, and frontier pursuit limits.
+- [[ZhangBailuLateHan]] — Newly canonical coastal rebel leader whose surrender window, flight, and later 汉纪 786 endpoint link piracy, amnesty, and frontier pursuit limits.
 - [[AmnestyTimedPacification]] — New concept for pacing force after amnesty so rebels have a credible path back before they flee into more difficult terrain.
 - [[CoerciveFrontierRelocationBackfire]] — Adds an earlier 111 CE case where forced evacuation kills, scatters, or alienates civilians rather than protecting them.
 - [[RegencyUnderCompoundCrisis]] — Extends the Deng-regency pattern backward to 110-111 CE with disaster, rebellion, family mourning, and frontier relocation operating at once.
 
 ## Contradictions
 
-- No settled contradiction is found. Hanji 785 uses Zhang Bailu/张白禄 and highlights surrender failure after amnesty, while Hanji 786 uses Zhang Bolu/张伯路 and records the later Liaodong defeat; these are treated as source-scoped spelling and sequence differences unless later evidence requires disambiguation.
+- No settled contradiction is found. 汉纪 785 uses Zhang Bailu/张白禄 and highlights surrender failure after amnesty, while 汉纪 786 uses Zhang Bolu/张伯路 and records the later Liaodong defeat; these are treated as source-scoped spelling and sequence differences unless later evidence requires disambiguation.

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yangshuo 2 / 23 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|Hanji 522]]. It reads a short scene in which [[XueXuanWesternHan|薛宣]] passes through Pengcheng while his son [[XueHuiWesternHan|薛惠]] serves as county magistrate, yet publicly refuses to discuss administrative business with him.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yangshuo 2 / 23 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-522-shi-shui-rang-liushi-jiangshan-gaixing-le-wang-ll_s8bakpepbp-1w4g9ohzfgksbo|汉纪 522]]. It reads a short scene in which [[XueXuanWesternHan|薛宣]] passes through Pengcheng while his son [[XueHuiWesternHan|薛惠]] serves as county magistrate, yet publicly refuses to discuss administrative business with him.
 
 The durable synthesis is that correct bureaucratic language can itself be a political instrument. Xue's claim that officials should take law as their teacher sounds like impartiality and avoidance of nepotism, but the host follows [[HuSanxing|胡三省]] in treating the surface reading as insufficient: the public non-instruction may protect Xue, signal lawfulness to observers, quietly leave room for relationship-based accommodation, and let others circulate his image as an upright official.
 

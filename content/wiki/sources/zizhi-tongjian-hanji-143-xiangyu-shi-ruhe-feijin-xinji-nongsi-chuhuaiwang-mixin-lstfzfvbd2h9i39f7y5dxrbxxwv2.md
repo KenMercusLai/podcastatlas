@@ -29,7 +29,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows the
 > "分钱分权可是个智慧活儿" - closing frame for why the enfeoffment settlement will remain unstable.
 
 ## Connections
-- [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|Hanji 142]] - direct previous source: Xiang Yu controls the post-Hongmen field but rejects Xianyang and Guanzhong statecraft.
+- [[zizhi-tongjian-hanji-142-zhechang-juhui-xiangyu-shudiao-le-yiqie-ln7dv2jxrk6lt1c4szylsrb41k3r|汉纪 142]] - direct previous source: Xiang Yu controls the post-Hongmen field but rejects Xianyang and Guanzhong statecraft.
 - [[XiangYu|项羽]], [[MiXin|芈心 / 楚怀王]], [[HuaiwangAgreement|怀王之约]], and [[ChenxianChangsha|郴县]] - the royal-promise conflict and Mi Xin's removal from power.
 - [[LiuBang|刘邦]], [[BaShu|巴蜀]], [[Hanzhong|汉中]], [[Nanzheng|南郑]], and [[ThreeQinContainment|三秦 containment]] - Liu Bang's constrained Han kingship.
 - [[ZhangHanQin|章邯]], [[SimaXin|司马欣]], [[DongYiQin|董翳]], and [[GuanzhongRegion|关中]] - surrendered Qin leaders converted into a blocking layer.

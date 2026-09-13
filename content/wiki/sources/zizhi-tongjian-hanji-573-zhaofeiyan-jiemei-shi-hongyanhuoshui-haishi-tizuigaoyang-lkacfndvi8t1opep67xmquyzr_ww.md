@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the [[HanChengdi|汉成帝]] succession scandal immediately before [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]]'s Geng Yu memorial. It challenges the simple claim that [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]] caused Chengdi's extinction of heirs, arguing instead that weak evidence, Wang-family political incentives, Chengdi's broader family-health pattern, and later literary reception make the "red-beauty disaster" frame suspect.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the [[HanChengdi|汉成帝]] succession scandal immediately before [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|汉纪 574]]'s Geng Yu memorial. It challenges the simple claim that [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]] caused Chengdi's extinction of heirs, arguing instead that weak evidence, Wang-family political incentives, Chengdi's broader family-health pattern, and later literary reception make the "red-beauty disaster" frame suspect.
 
 The durable synthesis is evidentiary and historiographical. The episode does not clear the Zhao sisters as a legal finding, but it treats the received accusation record as politically shaped: oral testimony dominates the investigation, expected physical evidence is missing, [[WangZhengjun|王政君]] and the Wang family had strong reasons to watch the heir question closely, and multiple Chengdi children outside the Zhao sisters' responsibility had already died young.
 

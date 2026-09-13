@@ -13,7 +13,7 @@ last_updated: 2026-08-25
 # 《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 188 CE layer immediately before [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]]. It connects court politics around [[GaiXunLateHan|盖勋]], [[YuanShao|袁绍]], [[JianShuoLateHan|蹇硕]], and [[HeJin|何进]] with frontier campaigns at [[ChenCang|陈仓]] and [[YouzhouLateHan|幽州]]. The episode's distinct contribution is a pre-succession portrait of late-Han fragmentation: capable actors such as [[HuangfuSongLateHan|皇甫嵩]] and [[LiuYuLateHan|刘虞]] can still stabilize local crises, while palace access, jealousy, over-pursuit, and rebel infighting keep turning competence into exposure.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 188 CE layer immediately before [[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|汉纪 943]]. It connects court politics around [[GaiXunLateHan|盖勋]], [[YuanShao|袁绍]], [[JianShuoLateHan|蹇硕]], and [[HeJin|何进]] with frontier campaigns at [[ChenCang|陈仓]] and [[YouzhouLateHan|幽州]]. The episode's distinct contribution is a pre-succession portrait of late-Han fragmentation: capable actors such as [[HuangfuSongLateHan|皇甫嵩]] and [[LiuYuLateHan|刘虞]] can still stabilize local crises, while palace access, jealousy, over-pursuit, and rebel infighting keep turning competence into exposure.
 
 ## Key Claims
 - In 188 CE, [[GaiXunLateHan|盖勋]] interprets [[EmperorLingOfHan|汉灵帝]] as a ruler whose judgment is obscured by attendants rather than as an inherently incapable ruler, so he asks [[YuanShao|袁绍]] to discuss removing the eunuchs.
@@ -28,7 +28,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[LiuYuLateHan|刘虞]] then removes most garrisons and leaves [[GongsunZan|公孙瓒]] with cavalry at [[YoubeipingCommandery|右北平]], exposing an early route conflict between trust-based pacification and armed suppression.
 - A solar eclipse leads to [[MaRidiLateHan|马日磾]] being dismissed as taiwei and [[LiuYuLateHan|刘虞]] being elevated, fitting the Han court's pattern of linking celestial events to personnel responsibility.
 - In Luoyang, [[JianShuoLateHan|蹇硕]] and other attendants try to send [[HeJin|何进]] west against [[HanSui|韩遂]]; He Jin reads it as displacement and delays by asking [[YuanShao|袁绍]] to gather troops from [[Xuzhou|徐州]] and [[YanzhouLateHan|兖州]] first.
-- [[CaoCao|曹操]] appears as a 34-year-old dianjun xiaowei with a limited military foothold, after previously rejecting Wang Fen's coup invitation; this sets up the political caution emphasized in [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]].
+- [[CaoCao|曹操]] appears as a 34-year-old dianjun xiaowei with a limited military foothold, after previously rejecting Wang Fen's coup invitation; this sets up the political caution emphasized in [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|汉纪 944]].
 
 ## Key Quotes
 > "穷寇勿迫，归众勿追" - [[DongZhuo|董卓]]'s cited objection to [[HuangfuSongLateHan|皇甫嵩]]'s pursuit of [[WangGuoLateHan|王国]].
@@ -44,8 +44,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[LiuYuLateHan|刘虞]], [[Xianbei|鲜卑]], [[Wuhuan|乌桓]], [[ZhangJuLateHan|张举]], and [[PeopleBasedPoliticalSecurity|people-based political security]] - Youzhou is stabilized through reputation, incentives, and surrender signaling before later conflict with Gongsun Zan.
 - [[HanSui|韩遂]], [[YanZhongLateHan|阎忠]], and [[InterestStructuredAllianceFragility|interest-structured alliance fragility]] - the Liangzhou coalition loses coherence once leadership and payoff questions reopen.
 - [[MaRidiLateHan|马日磾]], [[LiuYuLateHan|刘虞]], and [[CelestialOmenPoliticalResponsibility|celestial omen political responsibility]] - the eclipse turns into a court personnel move.
-- [[CaoCao|曹操]] and [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] - the episode positions Cao Cao's early military command and anti-coup caution before the later survival logic.
+- [[CaoCao|曹操]] and [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|汉纪 944]] - the episode positions Cao Cao's early military command and anti-coup caution before the later survival logic.
 
 ## Contradictions
-- No settled contradiction with existing wiki pages was found. The episode mainly backfills the pre-[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|Hanji 943]] chronology.
+- No settled contradiction with existing wiki pages was found. The episode mainly backfills the pre-[[zizhi-tongjian-hanji-943-quanshi-kaoyan-renxing-beihou-cangzhe-juda-xiongxian-lg7ia5xok-swdmhml35yv9qqkvt|汉纪 943]] chronology.
 - Naming caution: [[WangGuoLateHan|王国]] is the late-Han rebel figure, not [[WangGuowei|王国维]]; [[ZhangChunLateHan|张纯]] is distinct from [[ZhangChunWesternHan|张纯 / Zhang Chun (Western Han)]]; [[YanZhongLateHan|阎忠]] is distinct from [[YanZhongzi|严仲子]].

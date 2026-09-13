@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 96-97 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]]. It centers the posthumous revelation that [[LiangGuirenHeLateHan|梁贵人]] was Emperor He's birth mother, the charge that [[EmpressDowagerDouHeLateHan|窦太后]] had forced her death, and [[ZhangPuEasternHan|张酺]]'s advice to redress Liang without stripping Dou's dowager status or burial place.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 96-97 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]]. It centers the posthumous revelation that [[LiangGuirenHeLateHan|梁贵人]] was Emperor He's birth mother, the charge that [[EmpressDowagerDouHeLateHan|窦太后]] had forced her death, and [[ZhangPuEasternHan|张酺]]'s advice to redress Liang without stripping Dou's dowager status or burial place.
 
 The durable synthesis is that Emperor He chooses [[StraightRedressWithoutRevenge|以直报怨式平反]]: he recognizes his birth mother and her natal kin through [[ImperialBirthMotherRecognition|皇帝生母名分追认]], but refuses a revenge-like posthumous demotion of the adoptive mother he had served for ten years. The episode also adds an earlier [[MiTangQiangLeader|弥唐]] / [[ShaodangQiang|烧当羌]] battlefield layer and foreshadows [[OuterRelativeRecurrence|外戚轮回]] when the redressed Liang relatives later become another court-risk lineage.
 
@@ -44,11 +44,11 @@ The durable synthesis is that Emperor He chooses [[StraightRedressWithoutRevenge
 - [[ZhangPuEasternHan|张酺]] - created as the senior official who reports the hidden birth-mother claim and advises recognition.
 - [[LiuQingQingheKing|清河王刘庆]] and [[SongGuirenZhangHeLateHan|宋贵人]] - parallel maternal-redress case enabled by the Liang precedent.
 - [[EmperorZhangOfHan|汉章帝]] - deceased emperor whose burial pairing with Dou Taihou is preserved despite the Liang case.
-- [[MiTangQiangLeader|弥唐]] and [[ShaodangQiang|烧当羌]] - receive an earlier 97 CE attack-and-pursuit layer before Hanji 771's surrender and Hanji 772's failed incorporation.
+- [[MiTangQiangLeader|弥唐]] and [[ShaodangQiang|烧当羌]] - receive an earlier 97 CE attack-and-pursuit layer before 汉纪 771's surrender and 汉纪 772's failed incorporation.
 - [[StraightRedressWithoutRevenge|以直报怨式平反]] and [[OuterRelativeRecurrence|外戚轮回]] - concepts created from the episode's combination of ethical redress and political aftereffect.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills the Emperor-He sequence before Hanji 771-777 rather than overturning their later Gan Ying, Mi Tang surrender, West Sea, Ban Chao, Deng, reform, and succession layers.
+- No settled contradiction is recorded. This source backfills the Emperor-He sequence before 汉纪 771-777 rather than overturning their later Gan Ying, Mi Tang surrender, West Sea, Ban Chao, Deng, reform, and succession layers.
 - Identity normalization: 清河王刘庆 is kept separate from the modern [[LiuQing|刘擎]] page; this ingest uses [[LiuQingQingheKing|Liu Qing (Qinghe king)]]. 窦太后 here is kept separate from the later [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]].
 - Scope caution: Chen Jing Wang Liu Xian, Jinan An Wang Liu Kang, Shi Chong, Wu Zhi, Liu Shang, Zhao Shi, Liang Yi, Liang Song, Liang Tang, Liang Yong, Liang Di, Song Yan, Song Jun, Song Gai, Song Xian, Lu Gai, Han Leng, exact disaster notices, and the Guangwu/Li Taihou precedent remain source-scoped unless later notes warrant standalone pages.

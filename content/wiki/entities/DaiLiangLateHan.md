@@ -10,7 +10,7 @@ last_updated: 2026-08-29
 
 ## Overview
 
-戴良 / Dai Liang enters the wiki through [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] as a talented but proud Runan peer who becomes one of the clearest witnesses to [[HuangXianLateHan|黄宪]]'s effect on other people.
+戴良 / Dai Liang enters the wiki through [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] as a talented but proud Runan peer who becomes one of the clearest witnesses to [[HuangXianLateHan|黄宪]]'s effect on other people.
 
 ## Current Profile
 
@@ -27,14 +27,14 @@ Dai Liang is therefore not developed as an independent policy actor. He is a rep
 
 ## Evidence
 
-- Talent and pride: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] describes Dai Liang as talented and haughty.
-- Humbled response: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Dai becomes respectful after seeing Huang Xian and returns home feeling diminished.
-- Inferiority admission: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Dai states that he had not known anyone was above him until he met Huang.
-- Reputation function: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] uses Dai's reaction with Xun Shu, Chen Fan, and Guo Tai to triangulate Huang's depth.
+- Talent and pride: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] describes Dai Liang as talented and haughty.
+- Humbled response: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Dai becomes respectful after seeing Huang Xian and returns home feeling diminished.
+- Inferiority admission: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Dai states that he had not known anyone was above him until he met Huang.
+- Reputation function: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] uses Dai's reaction with Xun Shu, Chen Fan, and Guo Tai to triangulate Huang's depth.
 
 ## Qualifications
 
-Dai Liang is source-bounded to Hanji 798. The current evidence does not settle his offices, writings, family background, or later career. The page only records his role as a witness inside the Huang Xian reputation branch.
+Dai Liang is source-bounded to 汉纪 798. The current evidence does not settle his offices, writings, family background, or later career. The page only records his role as a witness inside the Huang Xian reputation branch.
 
 ## What Changed
 

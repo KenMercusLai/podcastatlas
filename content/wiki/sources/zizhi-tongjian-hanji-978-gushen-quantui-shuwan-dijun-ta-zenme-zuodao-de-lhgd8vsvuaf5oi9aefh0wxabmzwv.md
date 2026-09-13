@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》978丨孤身劝退数万敌军，他怎么做到的？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the immediate prelude to [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]] in [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] crisis. [[XunYu|荀彧]] meets [[GuoGongLateHan|郭贡]] outside [[JuanchengLateHan|鄄城]] and uses composure to make a large uncertain force withdraw, then sends [[ChengYu|程昱]] toward [[DongALateHan|东阿]] and [[FanCountyLateHan|范县]] to stabilize the remaining cities. The final branch turns [[JinYunLateHan|靳允]]'s choice to kill [[FanYiLateHan|范仪]] despite family-hostage pressure into a source-scoped debate over loyalty, filial duty, and political survival.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the immediate prelude to [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|汉纪 979]] in [[CaoCao|曹操]]'s [[YanzhouLateHan|兖州]] crisis. [[XunYu|荀彧]] meets [[GuoGongLateHan|郭贡]] outside [[JuanchengLateHan|鄄城]] and uses composure to make a large uncertain force withdraw, then sends [[ChengYu|程昱]] toward [[DongALateHan|东阿]] and [[FanCountyLateHan|范县]] to stabilize the remaining cities. The final branch turns [[JinYunLateHan|靳允]]'s choice to kill [[FanYiLateHan|范仪]] despite family-hostage pressure into a source-scoped debate over loyalty, filial duty, and political survival.
 
 ## Key Claims
 - [[GuoGongLateHan|郭贡]] arrives below [[JuanchengLateHan|鄄城]] with several tens of thousands of soldiers while rumor says he may cooperate with [[LyuBu|吕布]], creating panic inside [[CaoCao|曹操]]'s remaining base.
@@ -33,12 +33,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies th
 
 ## Connections
 - [[XunYu|荀彧]], [[GuoGongLateHan|郭贡]], [[XiahouDun|夏侯惇]], [[JuanchengLateHan|鄄城]], and [[BattlefieldInformationControl|战场信息控制]] - calm appearance as deterrent information.
-- [[ChengYu|程昱]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], [[FanCountyLateHan|范县]], [[DongALateHan|东阿]], and [[ChenGongLateHan|陈宫]] - county-stabilization sequence before Hanji 979's Cangting and Dong'e defense.
+- [[ChengYu|程昱]], [[JinYunLateHan|靳允]], [[FanYiLateHan|范仪]], [[FanCountyLateHan|范县]], [[DongALateHan|东阿]], and [[ChenGongLateHan|陈宫]] - county-stabilization sequence before 汉纪 979's Cangting and Dong'e defense.
 - [[CaoCao|曹操]], [[LyuBu|吕布]], [[ZhangMiaoLateHan|张邈]], and [[YanzhouLateHan|兖州]] - province-wide crisis field.
 - [[LoyaltyCollateralDilemma|忠义牵连困境]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[RootBasePriority|根本根据地优先]] - concepts extended by the hostage, persuasion, and base-survival branches.
 - [[XuZhongJin|许众]], [[LiuBang|刘邦]], [[LiuTaigong|刘太公]], [[XiangYu|项羽]], and [[XiangBo|项伯]] - later moral commentary and the Chu-Han hostage comparison.
-- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|Hanji 979]], [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]], and [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] - adjacent Yanzhou chronology.
+- [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis|汉纪 979]], [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|汉纪 980]], and [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|汉纪 987]] - adjacent Yanzhou chronology.
 
 ## Contradictions
-- No settled contradiction found. This source fills the moment before Hanji 979's Cheng Yu/Zao Zhi defense mechanics and before Hanji 980's Puyang trap.
+- No settled contradiction found. This source fills the moment before 汉纪 979's Cheng Yu/Zao Zhi defense mechanics and before 汉纪 980's Puyang trap.
 - Source-scope caution: the episode foregrounds Xu Zhong's criticism of Jin Yun as later moral commentary, not as a contradiction of the event sequence.

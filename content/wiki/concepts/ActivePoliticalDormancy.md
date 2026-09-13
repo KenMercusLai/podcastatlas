@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 Active political dormancy is the survival pattern in which a defeated or low-resource actor appears quiet under another patron while preserving ambition, reducing exposure, and accumulating people, information, and future action space.
 
 ## Current Synthesis
-Hanji 1054 defines the pattern through [[LiuBei|刘备]] at [[XinyeLateHan|新野]]. After defeat by [[CaoCao|曹操]], Liu Bei flees to [[LiuBiao|刘表]], receives guest treatment and added troops, and stays in northern [[Jingzhou|荆州]] for years. The episode reads this not as resignation but as hidden accumulation: Liu Bei has no durable base or strong army, so patience, low posture, and people-gathering become his real political capital.
+汉纪 1054 defines the pattern through [[LiuBei|刘备]] at [[XinyeLateHan|新野]]. After defeat by [[CaoCao|曹操]], Liu Bei flees to [[LiuBiao|刘表]], receives guest treatment and added troops, and stays in northern [[Jingzhou|荆州]] for years. The episode reads this not as resignation but as hidden accumulation: Liu Bei has no durable base or strong army, so patience, low posture, and people-gathering become his real political capital.
 
 The "髀肉复生" anecdote gives the pattern its emotional edge. Liu Bei's tears over inactivity show that dormancy is not comfort. It is a constrained strategy that keeps ambition alive while open action would expose the actor too early.
 
@@ -26,16 +26,16 @@ The "髀肉复生" anecdote gives the pattern its emotional edge. Liu Bei's tear
 - People accumulation can substitute temporarily for territory and strong troops when no stable base is available.
 
 ## Evidence
-- Post-defeat shelter: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|Hanji 1054]] says Liu Bei is defeated by Cao Cao, loses scattered followers, flees to Liu Biao, and receives guest treatment plus troops.
-- Xinye position: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|Hanji 1054]] describes Xinye as Jingzhou's northern county near Cao-controlled Wan and southward Xiangyang, making the refuge also a frontier post.
-- Active accumulation: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|Hanji 1054]] says Liu Bei hides his edge, waits slowly, and uses the period to absorb Jingzhou士族 and refugee strength.
-- Emotional marker: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|Hanji 1054]] uses the thigh-fat story to show Liu Bei's fear that time is passing without achievement.
+- Post-defeat shelter: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|汉纪 1054]] says Liu Bei is defeated by Cao Cao, loses scattered followers, flees to Liu Biao, and receives guest treatment plus troops.
+- Xinye position: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|汉纪 1054]] describes Xinye as Jingzhou's northern county near Cao-controlled Wan and southward Xiangyang, making the refuge also a frontier post.
+- Active accumulation: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|汉纪 1054]] says Liu Bei hides his edge, waits slowly, and uses the period to absorb Jingzhou士族 and refugee strength.
+- Emotional marker: [[zizhi-tongjian-hanji-1054-jingtan-caocao-yuanshao-liubei-de-mingyun-zhuanzhe-lmd2yjre-cwdbxky2ht5o0n4g6fk|汉纪 1054]] uses the thigh-fat story to show Liu Bei's fear that time is passing without achievement.
 
 ## Counterevidence & Qualifications
-The concept should not turn every pause into strategy. Dormancy is active only when there is evidence of preserved ambition, exposure management, and accumulating capacity. Hanji 1054 gives this through Liu Bei's Xinye placement and the host's interpretation, but later sources should test whether the accumulation actually converts into durable action.
+The concept should not turn every pause into strategy. Dormancy is active only when there is evidence of preserved ambition, exposure management, and accumulating capacity. 汉纪 1054 gives this through Liu Bei's Xinye placement and the host's interpretation, but later sources should test whether the accumulation actually converts into durable action.
 
 ## What Changed
-- Created the concept from Hanji 1054's interpretation of Liu Bei's Xinye years as "蛰伏不等于躺平."
+- Created the concept from 汉纪 1054's interpretation of Liu Bei's Xinye years as "蛰伏不等于躺平."
 
 ## Related Concepts
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - broader survival-first frame that explains why open ambition may need concealment.

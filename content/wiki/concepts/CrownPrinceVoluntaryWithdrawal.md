@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] grounds the concept through [[LiuQiangDonghaiKing|刘强]]. After [[GuoShengtong|郭圣通]] is deposed, Liu Qiang loses the maternal status that made his crown-prince position stable. Zhi Yun advises him that staying in an unstable heir position is dangerous and does not help him serve his mother, so Liu Qiang repeatedly asks to resign and retire to a fief.
+[[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] grounds the concept through [[LiuQiangDonghaiKing|刘强]]. After [[GuoShengtong|郭圣通]] is deposed, Liu Qiang loses the maternal status that made his crown-prince position stable. Zhi Yun advises him that staying in an unstable heir position is dangerous and does not help him serve his mother, so Liu Qiang repeatedly asks to resign and retire to a fief.
 
 The episode treats this as strategic self-limitation, not simple disdain for power. Liu Qiang's resignation helps [[LiuXiu|光武帝刘秀]] replace him with Liu Yang, renamed Liu Zhuang and later [[EmperorMingOfHan|汉明帝]], while giving the outgoing heir a morally legible exit. That exit reduces immediate palace conflict, but it also helps legitimate a succession change that Yuan Hong criticizes as institutionally dangerous because Liu Qiang had no grave fault.
 
@@ -28,11 +28,11 @@ The episode treats this as strategic self-limitation, not simple disdain for pow
 
 ## Evidence
 
-- Maternal-status shock: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] says Liu Qiang becomes uneasy after Guo Shengtong's deposition because his mother had been his support.
-- Advice to withdraw: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] says Zhi Yun advises Liu Qiang that remaining in an unstable position is dangerous and that he should resign to serve his mother from a fief.
-- Repeated resignation: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] says Liu Qiang repeatedly communicates the request through trusted attendants and royal kin.
-- Succession replacement: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] says Liu Xiu finally makes Liu Qiang Donghai King and names Liu Yang crown prince, renaming him Liu Zhuang.
-- Institutional qualification: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] preserves Yuan Hong's criticism that a crown prince without grave fault should not be lightly changed.
+- Maternal-status shock: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] says Liu Qiang becomes uneasy after Guo Shengtong's deposition because his mother had been his support.
+- Advice to withdraw: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] says Zhi Yun advises Liu Qiang that remaining in an unstable position is dangerous and that he should resign to serve his mother from a fief.
+- Repeated resignation: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] says Liu Qiang repeatedly communicates the request through trusted attendants and royal kin.
+- Succession replacement: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] says Liu Xiu finally makes Liu Qiang Donghai King and names Liu Yang crown prince, renaming him Liu Zhuang.
+- Institutional qualification: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] preserves Yuan Hong's criticism that a crown prince without grave fault should not be lightly changed.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The concept is currently grounded in one source note and should not be generaliz
 
 ## What Changed
 
-- Created the concept from Liu Qiang's Hanji 720 resignation and replacement case.
+- Created the concept from Liu Qiang's 汉纪 720 resignation and replacement case.
 
 ## Related Concepts
 

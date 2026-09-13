@@ -19,7 +19,7 @@ This episode backfills the immediate aftermath of [[EmpressDowagerDengLateHan|Em
 - Public sympathy matters: common mourning and Zhu Chong's memorial do not rehabilitate the Deng household, but they force Emperor An to halt escalation and permit limited burial and survivor relief.
 - The fall of one outer-relative network immediately creates space for new ones, especially the Geng, Song, and Yan families around Emperor An's maternal and marital household.
 - Palace favorites and eunuchs, including [[JiangJingLateHan|Jiang Jing]], [[LiRunLateHan|Li Run]], [[WangShengPalaceActorLateHan|Wang Sheng]], [[BoRongLateHan|Bo Rong]], and [[FanFengEunuchLateHan|Fan Feng]], rise in the same transition that claims to be correcting Deng domination.
-- Yang Zhen's memorial attacks the new favorite network before the later Hanji 796-800 episodes, warning that wet-nurse privilege, Bo Rong's traffic, and palace-intimate access are already corrupting appointment order.
+- Yang Zhen's memorial attacks the new favorite network before the later 汉纪 796-800 episodes, warning that wet-nurse privilege, Bo Rong's traffic, and palace-intimate access are already corrupting appointment order.
 
 ## Key Quotes
 > "不足于信" — Zhu Chong's procedural objection to relying on one-sided palace speech against the Deng family.
@@ -41,5 +41,5 @@ This episode backfills the immediate aftermath of [[EmpressDowagerDengLateHan|Em
 - [[ProcedurelessPoliticalPurge]] — source case for a purge criticized less for punishing enemies than for bypassing proof and interrogation.
 
 ## Contradictions
-- No settled contradiction is introduced. The source narrows the wiki's chronology by showing that Wang Sheng, Bo Rong, Li Run, Geng Bao, Yan Xian, and Fan Feng are already part of the post-Deng transition before the Hanji 796-800 sequence.
+- No settled contradiction is introduced. The source narrows the wiki's chronology by showing that Wang Sheng, Bo Rong, Li Run, Geng Bao, Yan Xian, and Fan Feng are already part of the post-Deng transition before the 汉纪 796-800 sequence.
 - The transcript names 李闰; the wiki keeps the existing canonical route [[LiRunLateHan|李润 / Li Run]] and treats this as a source-rendering variant unless later evidence requires a split.

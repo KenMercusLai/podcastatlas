@@ -11,7 +11,7 @@ last_updated: 2026-09-06
 # 孙高 / Sun Gao (late Han)
 
 ## Overview
-孙高 / Sun Gao is one of the Sun Yi loyalists whom [[LadyXuSunYi|徐夫人]] secretly mobilizes in Hanji 1067. He participates directly in killing [[GuiLanLateHan|妫览]] and is later rewarded by [[SunQuan|孙权]].
+孙高 / Sun Gao is one of the Sun Yi loyalists whom [[LadyXuSunYi|徐夫人]] secretly mobilizes in 汉纪 1067. He participates directly in killing [[GuiLanLateHan|妫览]] and is later rewarded by [[SunQuan|孙权]].
 
 ## Current Profile
 Sun Gao appears as a trusted former subordinate of [[SunYiLateHan|孙翊]]. After Lady Xu identifies the conspiracy behind Sun Yi's death, she contacts Sun Gao and [[FuYingLateHan|傅婴]]. They respond emotionally, gather more than twenty dead-set followers, and hide in Lady Xu's room for the revenge ambush.
@@ -26,13 +26,13 @@ When Gui Lan enters the room, Lady Xu gives the signal and Sun Gao joins Fu Ying
 
 ## Evidence
 **Mobilized loyalist**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] names Sun Gao as one of the former Sun Yi followers whom Lady Xu contacts.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] names Sun Gao as one of the former Sun Yi followers whom Lady Xu contacts.
 
 **Killing Gui Lan**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] has Sun Gao and Fu Ying rush out after Lady Xu's signal and kill Gui Lan.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] has Sun Gao and Fu Ying rush out after Lady Xu's signal and kill Gui Lan.
 
 **Reward**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] says Sun Quan promotes Sun Gao and Fu Ying after the event.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] says Sun Quan promotes Sun Gao and Fu Ying after the event.
 
 ## Qualifications
 This is a one-source page. Sun Gao is profiled only through the revenge event and Sun Quan's later reward, not as a full military biography.

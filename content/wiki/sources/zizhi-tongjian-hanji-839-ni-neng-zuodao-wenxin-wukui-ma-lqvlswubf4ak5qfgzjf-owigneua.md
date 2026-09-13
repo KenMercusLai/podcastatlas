@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 153 CE [[EmperorHuanOfHan|汉桓帝]] layer immediately before [[zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv|Hanji 840]]. It opens with a source-scoped lesson about recognizing one's resources, limits, effort, and desire boundaries, then turns "问心无愧" into a duty-completion frame rather than a guarantee of success.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 153 CE [[EmperorHuanOfHan|汉桓帝]] layer immediately before [[zizhi-tongjian-hanji-840-yanguang-changyuan-de-ren-you-duo-lihai-lvzfg8zbp0nugjg0iybgukz-cxgv|汉纪 840]]. It opens with a source-scoped lesson about recognizing one's resources, limits, effort, and desire boundaries, then turns "问心无愧" into a duty-completion frame rather than a guarantee of success.
 
 The historical center is [[ZhuMuLateHan|朱穆]]'s appointment as [[JizhouLateHan|冀州]] inspector during locusts, Yellow River flooding, famine, and large-scale displacement. Zhu punishes corrupt officials and investigates [[ZhaoZhongLateHan|赵忠]]'s father for burial with imperial garments, is sentenced after Huan becomes angry, and is then pardoned after [[LiuTaoLateHan|刘陶 / 刘桃]] leads thousands of [[Taixue|太学]] students in a collective petition. The closing branches add [[YingFengLateHan|应奉]]'s Wuling pacification and a [[CheshiHouKingdomLateHan|车师后王国]] succession crisis in which [[YanXiangCheshiLateHan|阎祥]] restores [[AluoduoCheshiLateHan|阿罗多]] to prevent wider [[Xiongnu|北匈奴]] involvement.
 
@@ -50,7 +50,7 @@ The historical center is [[ZhuMuLateHan|朱穆]]'s appointment as [[JizhouLateHa
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the 153 CE Huan-era layer before Hanji 840 and supplies earlier evidence for Zhu Mu, Liu Tao, Ying Feng, Jizhou, Taixue, and frontier-recognition diplomacy.
-- Chronology caution: some existing canonical pages begin later because Hanji 839 was ingested after newer episodes; the new source changes the provenance sequence rather than overturning those later claims.
+- No settled contradiction with existing wiki pages was found. This source backfills the 153 CE Huan-era layer before 汉纪 840 and supplies earlier evidence for Zhu Mu, Liu Tao, Ying Feng, Jizhou, Taixue, and frontier-recognition diplomacy.
+- Chronology caution: some existing canonical pages begin later because 汉纪 839 was ingested after newer episodes; the new source changes the provenance sequence rather than overturning those later claims.
 - Transcript normalization: "济州" is normalized to [[JizhouLateHan|冀州]] because the Zhu Mu inspector case and crisis context match the received late-Han sequence. "朱牧" is normalized to [[ZhuMuLateHan|朱穆]], "刘桃" to [[LiuTaoLateHan|刘陶 / 刘桃]], and "张宦" in the closing preview to [[ZhangHuanLateHan|张奂]].
 - Scope caution: Song Liang, Beijun, Houmuhou Tanzhe, the exact Cheshi offices, and the title-level self-cultivation claims are preserved as source-bounded unless later source notes require dedicated pages.

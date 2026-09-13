@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly continues [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] by following [[WangJiaWesternHan|王嘉]] after he refuses the expected suicide convention and goes alive to Tingwei interrogation under [[HanAidi|汉哀帝]]. Wang Jia defends [[LiangXiangWesternHan|梁相]]'s group as cautious reviewers rather than traitors, denies seeing evidence that they attached themselves to Liu Yun, and uses his final prison statement to fault himself for failing to restore [[KongGuangWesternHan|孔光]] and [[HeWuWesternHan|何武]] while removing [[DongXian|董贤]]'s family from power.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly continues [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|汉纪 598]] by following [[WangJiaWesternHan|王嘉]] after he refuses the expected suicide convention and goes alive to Tingwei interrogation under [[HanAidi|汉哀帝]]. Wang Jia defends [[LiangXiangWesternHan|梁相]]'s group as cautious reviewers rather than traitors, denies seeing evidence that they attached themselves to Liu Yun, and uses his final prison statement to fault himself for failing to restore [[KongGuangWesternHan|孔光]] and [[HeWuWesternHan|何武]] while removing [[DongXian|董贤]]'s family from power.
 
 The durable synthesis is that Wang Jia's courage is procedural and political, not only martyr-like. He exposes the unofficial death script by living long enough to answer the case, refuses to convert due-process disagreement into rebellion, and leaves behind a personnel judgment that Aidi partially follows by restoring Kong Guang and He Wu, even as the episode immediately qualifies Kong Guang through his later retaliation against [[BaoXuanWesternHan|鲍宣]] and Aidi through his punishment of [[DingMingWesternHan|丁明]] for grieving Wang Jia.
 
@@ -38,7 +38,7 @@ The durable synthesis is that Wang Jia's courage is procedural and political, no
 
 ## Connections
 
-- [[WangJiaWesternHan|王嘉]], [[CourtSummonsAsDeathSentence|廷尉传召即赴死]], and [[DirectRemonstranceCriminalization|直谏入罪]] - this source completes the Hanji 598 summons scene by showing Wang Jia alive under interrogation and later dying in prison.
+- [[WangJiaWesternHan|王嘉]], [[CourtSummonsAsDeathSentence|廷尉传召即赴死]], and [[DirectRemonstranceCriminalization|直谏入罪]] - this source completes the 汉纪 598 summons scene by showing Wang Jia alive under interrogation and later dying in prison.
 - [[HanAidi|汉哀帝]], [[DongXian|董贤]], and [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] - Wang Jia's final accusation says Dong-centered favor continues to disorder court governance.
 - [[KongGuangWesternHan|孔光]], [[HeWuWesternHan|何武]], [[PengXuanWesternHan|彭宣]], [[FuJiaWesternHan|傅嘉]], and [[DingMingWesternHan|丁明]] - post-Wang-Jia appointments and removals reveal Aidi's partial, unstable correction.
 - [[BaoXuanWesternHan|鲍宣]], [[KongGuangWesternHan|孔光]], and [[LawEnforcementAgainstElitePrivilege|执法碰撞权贵特权]] - Bao Xuan's enforcement against Kong Guang's entourage becomes a countercase to simple "worthy official" labeling.

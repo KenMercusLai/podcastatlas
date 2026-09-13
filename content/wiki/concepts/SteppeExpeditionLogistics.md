@@ -14,7 +14,7 @@ Steppe expedition logistics / 草原远征后勤 is the campaign-capacity proble
 
 ## Current Synthesis
 
-Hanji 643 grounds the concept in [[YanYouXinGeneral|Yan You]]'s warning against [[WangMang|Wang Mang]]'s planned 300,000-man expedition against [[Xiongnu|Xiongnu]]. The critique is concrete: troops have already waited too long at the frontier, frontier districts cannot feed them, interior grain transport is not synchronized, transport cattle may die in desert and saline terrain, and climate requires more baggage while dry rations and water raise disease risk.
+汉纪 643 grounds the concept in [[YanYouXinGeneral|Yan You]]'s warning against [[WangMang|Wang Mang]]'s planned 300,000-man expedition against [[Xiongnu|Xiongnu]]. The critique is concrete: troops have already waited too long at the frontier, frontier districts cannot feed them, interior grain transport is not synchronized, transport cattle may die in desert and saline terrain, and climate requires more baggage while dry rations and water raise disease risk.
 
 The same warning ties logistics to tempo. A heavily supplied army becomes slow, cannot catch a withdrawing mobile enemy, and can be endangered when stretched through difficult terrain. Yan You's alternative is not simple pacifism: if the mobilized troops must be used, the already-arrived forces should strike quickly before morale and supplies decay further. The concept therefore links support burden, speed, and tactical exposure inside one frontier-expedition frame.
 
@@ -30,13 +30,13 @@ The same warning ties logistics to tempo. A heavily supplied army becomes slow, 
 
 ## Evidence
 
-- Delayed assembly: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says Wang Mang's army has gathered for a year without full assembly, while early arrivals lose morale and weapon condition.
-- Frontier supply shortage: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says border districts are too empty to support the troops and interior grain transport does not connect.
-- Transport-animal risk: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says dry steppe, saline land, and shortage of water and fodder may kill the cattle carrying hundreds of days of food.
-- Climate and disease burden: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says cold, wind, bedding, fuel, dry rations, and water create heavy baggage and epidemic risk.
-- Tempo loss: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says self-carried supplies reduce light elite capacity and make even slow enemy withdrawal hard to catch.
-- Terrain exposure: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says a long column moving through dangerous ground can be trapped by front-and-rear attack.
-- Rapid-strike alternative: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says Yan You asks to lead already-arrived troops in a fast strike, but Wang Mang keeps the original transport plan.
+- Delayed assembly: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says Wang Mang's army has gathered for a year without full assembly, while early arrivals lose morale and weapon condition.
+- Frontier supply shortage: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says border districts are too empty to support the troops and interior grain transport does not connect.
+- Transport-animal risk: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says dry steppe, saline land, and shortage of water and fodder may kill the cattle carrying hundreds of days of food.
+- Climate and disease burden: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says cold, wind, bedding, fuel, dry rations, and water create heavy baggage and epidemic risk.
+- Tempo loss: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says self-carried supplies reduce light elite capacity and make even slow enemy withdrawal hard to catch.
+- Terrain exposure: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says a long column moving through dangerous ground can be trapped by front-and-rear attack.
+- Rapid-strike alternative: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says Yan You asks to lead already-arrived troops in a fast strike, but Wang Mang keeps the original transport plan.
 
 ## Counterevidence & Qualifications
 
@@ -44,7 +44,7 @@ The concept is based on Yan You's critique of a proposed Xin expedition, not a c
 
 ## What Changed
 
-- Created the concept from Hanji 643's five difficulties for Wang Mang's anti-Xiongnu expedition.
+- Created the concept from 汉纪 643's five difficulties for Wang Mang's anti-Xiongnu expedition.
 
 ## Related Concepts
 

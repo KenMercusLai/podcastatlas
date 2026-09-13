@@ -14,7 +14,7 @@ Ritual capital centrality / 礼制中心式都城合法性 is the claim that a c
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] grounds the concept in [[WangMang|王莽]]'s plan to move the [[XinDynasty|新朝]] capital to [[Luoyi|洛阳 / 洛邑]]. The episode says Luoyang matters because it combines practical and symbolic centrality: since Western Han it had been treated as an armory site guarded by trusted personnel, and classical discourse could identify it as "天下之中."
+[[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] grounds the concept in [[WangMang|王莽]]'s plan to move the [[XinDynasty|新朝]] capital to [[Luoyi|洛阳 / 洛邑]]. The episode says Luoyang matters because it combines practical and symbolic centrality: since Western Han it had been treated as an armory site guarded by trusted personnel, and classical discourse could identify it as "天下之中."
 
 The concept differs from ordinary [[StrategicCapitalRelocation|strategic capital relocation]]. A strategic move may prioritize defense, food supply, or control over the court. Ritual capital centrality prioritizes the ability to make a site look cosmically and textually correct. In this episode the two logics overlap: Luoyang is militarily useful, but Wang Mang's attraction to it is sharpened by his trust in Confucian classics and his desire to align rule with ancient order.
 
@@ -28,10 +28,10 @@ The concept differs from ordinary [[StrategicCapitalRelocation|strategic capital
 
 ## Evidence
 
-- Luoyang as armory: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says Luoyang had long been important as a court armory site guarded by trusted personnel.
-- Military route value: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] uses Zhou Yafu's move through Luoyang's armory during the Jingdi period to show the city increasing battlefield prospects.
-- Classical centrality: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says Wang Mang accepted the classical claim that Luoyang was "天下之中."
-- Ritual-site preparation: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says Wang Mang sends officials to choose Luoyang sites for ancestral temples, shrines, and Heaven-and-Earth sacrifice.
+- Luoyang as armory: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] says Luoyang had long been important as a court armory site guarded by trusted personnel.
+- Military route value: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] uses Zhou Yafu's move through Luoyang's armory during the Jingdi period to show the city increasing battlefield prospects.
+- Classical centrality: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] says Wang Mang accepted the classical claim that Luoyang was "天下之中."
+- Ritual-site preparation: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] says Wang Mang sends officials to choose Luoyang sites for ancestral temples, shrines, and Heaven-and-Earth sacrifice.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept does not say ritual centrality is false or useless. The source itsel
 
 ## What Changed
 
-- Created the concept from Hanji 647's Luoyang capital-planning discussion.
+- Created the concept from 汉纪 647's Luoyang capital-planning discussion.
 
 ## Related Concepts
 

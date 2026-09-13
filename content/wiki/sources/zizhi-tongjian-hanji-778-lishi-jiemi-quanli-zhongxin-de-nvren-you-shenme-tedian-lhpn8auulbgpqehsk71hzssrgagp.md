@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the start of the 106 CE [[EmpressDowagerDengLateHan|和熹邓皇后]] regency before [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] and the already ingested [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] succession layer. It follows Deng's first court arrangements around [[EmperorShangOfHan|汉殇帝]], her pre-positioning of [[EmperorAnOfHan|刘祜 / 汉安帝]], [[DengZhiLateHan|邓骘]] and the [[DengFamilyAnEraLateHan|邓氏]] entering high office, austerity during flood and drought pressure, local-disaster reporting enforcement, and [[LiangJinLateHan|梁慬]]'s [[QiuciKingdom|龟兹]] rescue before the Western Regions withdrawal sequence.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the start of the 106 CE [[EmpressDowagerDengLateHan|和熹邓皇后]] regency before [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|汉纪 779]] and the already ingested [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]] succession layer. It follows Deng's first court arrangements around [[EmperorShangOfHan|汉殇帝]], her pre-positioning of [[EmperorAnOfHan|刘祜 / 汉安帝]], [[DengZhiLateHan|邓骘]] and the [[DengFamilyAnEraLateHan|邓氏]] entering high office, austerity during flood and drought pressure, local-disaster reporting enforcement, and [[LiangJinLateHan|梁慬]]'s [[QiuciKingdom|龟兹]] rescue before the Western Regions withdrawal sequence.
 
 The durable synthesis is that Deng's regency begins as prepared crisis rule rather than improvised palace control. The episode's title-level gender frame becomes [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]]: women who reach the political center are presented as having to combine calm judgment, patience, psychological endurance, and decisive coercive capacity because their authority is scrutinized more intensely.
 
@@ -52,6 +52,6 @@ The durable synthesis is that Deng's regency begins as prepared crisis rule rath
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source overlaps Hanji 781 on Emperor Shang's death and Emperor An's accession, but adds the earlier court-staffing, Liu Hu reserve, austerity, local-reporting, and anti-shielding details.
-- Chronology refinement: the Qiuci and Liang Jin material is treated as an earlier layer of the same Western Regions crisis that Hanji 779 develops through Ren Shang's misfit, Duan Xi's handoff, and final withdrawal.
+- No settled contradiction is recorded. This source overlaps 汉纪 781 on Emperor Shang's death and Emperor An's accession, but adds the earlier court-staffing, Liu Hu reserve, austerity, local-reporting, and anti-shielding details.
+- Chronology refinement: the Qiuci and Liang Jin material is treated as an earlier layer of the same Western Regions crisis that 汉纪 779 develops through Ren Shang's misfit, Duan Xi's handoff, and final withdrawal.
 - Scope caution: Zhang Yu, Xu Fang, Liu Qing, Geng Ji, Zhang Xian, Yan Shou, Wei Fu, Xu Xian, Yin Qin, Deng Kui, Zhao Bo, Baiba, Wensu, Gumo, and exact disaster-reporting accusations remain source-scoped unless later notes require standalone pages.

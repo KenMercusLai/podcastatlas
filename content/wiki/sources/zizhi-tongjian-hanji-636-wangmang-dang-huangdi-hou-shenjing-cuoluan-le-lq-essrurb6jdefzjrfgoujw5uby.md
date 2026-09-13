@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first-year consolidation layer after [[WangMang|王莽]] founds the [[XinDynasty|新朝]] in 9 CE, immediately before [[zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun|Hanji 637]]. It explains Wang Mang's expanded imperial kinship system through claimed descent from Huangdi / 黄帝, Yu Shun / 虞舜, Chen, Tian, Qi, and Wang lineages, then follows tax-and-labor exemptions for Yao, Gui, Chen, Tian, and Wang surnames, rewards for loyal local officials, selective protection of Liu royal kin, anti-Liu symbolic bans, early coin replacement, and [[LiuKuaiXinRebel|刘快]]'s failed rising.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first-year consolidation layer after [[WangMang|王莽]] founds the [[XinDynasty|新朝]] in 9 CE, immediately before [[zizhi-tongjian-hanji-637-wangmang-zhen-de-shi-chuanyue-huangdi-ma-lgmv5dyowr6wklrbp42qmmd3biun|汉纪 637]]. It explains Wang Mang's expanded imperial kinship system through claimed descent from Huangdi / 黄帝, Yu Shun / 虞舜, Chen, Tian, Qi, and Wang lineages, then follows tax-and-labor exemptions for Yao, Gui, Chen, Tian, and Wang surnames, rewards for loyal local officials, selective protection of Liu royal kin, anti-Liu symbolic bans, early coin replacement, and [[LiuKuaiXinRebel|刘快]]'s failed rising.
 
 The durable synthesis is that Wang Mang's early rule is not presented as simple irrationality. The episode reads genealogy, ancestral temples, surname privilege, old-dynasty appeasement, symbol control, and selective pardon as a [[PostUsurpationLegitimacyConsolidation|post-usurpation legitimacy consolidation]] package: he tries to widen support, neutralize Liu-line resentment, and prove that his regime still controls local order.
 
@@ -47,5 +47,5 @@ The durable synthesis is that Wang Mang's early rule is not presented as simple 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 9 CE accession consolidation before Hanji 637's 王田 and slave-sale-ban reform layer, Hanji 638's weakened Liu royal-kin analysis, and Hanji 641's later currency-complexity layer.
+- Chronology qualification: this source backfills 9 CE accession consolidation before 汉纪 637's 王田 and slave-sale-ban reform layer, 汉纪 638's weakened Liu royal-kin analysis, and 汉纪 641's later currency-complexity layer.
 - Scope caution: Chen Cong, Tian Feng, exact temple counts, coin technical mechanics, Jimo local response, and Wang Mang's inner motive remain source-scoped unless later notes add independent evidence.

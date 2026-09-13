@@ -16,7 +16,7 @@ Strategic Anger Deterrence is the use of visible, bounded anger to make a threat
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] anchors the concept through [[ZhouRongEasternHan|Zhou Rong]]. After drafting anti-[[DouXianEasternHan|Dou Xian]] memorials for [[YuanAnEasternHan|Yuan An]], Zhou is threatened by a Dou retainer. He responds publicly, says death would be acceptable if caused by loyal speech, and instructs his wife not to bury him if murdered so that his body will expose responsibility.
+[[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] anchors the concept through [[ZhouRongEasternHan|Zhou Rong]]. After drafting anti-[[DouXianEasternHan|Dou Xian]] memorials for [[YuanAnEasternHan|Yuan An]], Zhou is threatened by a Dou retainer. He responds publicly, says death would be acceptable if caused by loyal speech, and instructs his wife not to bury him if murdered so that his body will expose responsibility.
 
 The synthesis is that anger can protect when it changes the incentive map. Zhou cannot outmuscle the Dou household, but he can make a private threat difficult to execute without visible political cost. This makes the tactic adjacent to evidence discipline and boundary protection rather than emotional venting.
 
@@ -31,17 +31,17 @@ The synthesis is that anger can protect when it changes the incentive map. Zhou 
 
 ## Evidence
 
-- Public attribution: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] recounts Zhou Rong turning a Dou-retainer threat into public knowledge and refusing to let a future killing be treated as ambiguous.
-- Boundedness: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] frames Zhou's anger around a specific political threat created by his drafting of anti-Dou memorials.
-- Asymmetry: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] situates Zhou under Dou Xian's outer-relative dominance, where household intimidation can reach ordinary officials.
+- Public attribution: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] recounts Zhou Rong turning a Dou-retainer threat into public knowledge and refusing to let a future killing be treated as ambiguous.
+- Boundedness: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] frames Zhou's anger around a specific political threat created by his drafting of anti-Dou memorials.
+- Asymmetry: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] situates Zhou under Dou Xian's outer-relative dominance, where household intimidation can reach ordinary officials.
 
 ## Counterevidence & Qualifications
 
-Strategic anger is not universally protective. It can escalate danger if the audience cannot observe the threat, if the signal lacks credibility, or if the target can retaliate without reputational cost. Hanji 766 presents the tactic as a deterrent under a court environment where public attribution still matters.
+Strategic anger is not universally protective. It can escalate danger if the audience cannot observe the threat, if the signal lacks credibility, or if the target can retaliate without reputational cost. 汉纪 766 presents the tactic as a deterrent under a court environment where public attribution still matters.
 
 ## What Changed
 
-- Hanji 766 creates this concept from Zhou Rong's deliberate anger episode.
+- 汉纪 766 creates this concept from Zhou Rong's deliberate anger episode.
 - The current judgment defines the tactic as public attribution control rather than emotional release.
 
 ## Related Concepts

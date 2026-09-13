@@ -12,13 +12,13 @@ input_digest: 88bebc06bcb42df08cd6beebcf0f7220df921bc918f1375eba9d9c9b79c9e8a6
 
 ## Current State
 
-Hanji 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation.
+汉纪 445 enters this topic narrowly as a historical moral-psychology case: Han Yanshou self-reproach works by cascading shame, responsibility, and reputation through officials, clans, and litigants, while the follow-up critique keeps that psychological force procedurally ambiguous. Psychology and personal development sources otherwise converge on embodied regulation, relational safety, calibrated action, self-narration, and careful boundaries around self-interpretation.
 
 ## Cross-source Findings
 
-### Hanji 445 Self Reproach Cascades Shame And Responsibility
+### 汉纪 445 Self Reproach Cascades Shame And Responsibility
 
-[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|Hanji 445]] is a historical moral-psychology case: [[HanYanshouWesternHan]] uses self-reproach to cascade responsibility through officials, clans, and litigants, while [[MoralPressureAdjudication]] keeps the shame effect qualified because reconciliation may also reflect fear or lost complaint access.
+[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|汉纪 445]] is a historical moral-psychology case: [[HanYanshouWesternHan]] uses self-reproach to cascade responsibility through officials, clans, and litigants, while [[MoralPressureAdjudication]] keeps the shame effect qualified because reconciliation may also reflect fear or lost complaint access.
 
 **Evidence:** [[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti]], [[HanYanshouWesternHan]], [[MoralPressureAdjudication]], [[RuiqiJiangtouZizhiTongjian]]
 
@@ -175,7 +175,7 @@ Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaReco
 
 ### Strategic Patron Exit Is Source Scoped Self Protection Case
 
-[[StrategicPatronExitJudgment]] enters psychology-and-personal-development as a source-scoped self-protection and judgment case: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] treats departure from a still-powerful patron as controlled risk management, while [[GuanduCampaign]], [[RunanCommanderyLateHan]], and [[CaoRen]] keep the main evidence anchored in military-political history.
+[[StrategicPatronExitJudgment]] enters psychology-and-personal-development as a source-scoped self-protection and judgment case: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|汉纪 1047]] treats departure from a still-powerful patron as controlled risk management, while [[GuanduCampaign]], [[RunanCommanderyLateHan]], and [[CaoRen]] keep the main evidence anchored in military-political history.
 
 **Evidence:** [[StrategicPatronExitJudgment]], [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]]
 
@@ -220,9 +220,9 @@ Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaReco
 - Prescription stimulant, supplement, cold-exposure, NSDR, addiction-recovery, and training-timing claims remain source-scoped and require medical or context-specific judgment before use.
 - The claim strengthens effort and procrastination synthesis but does not reduce motivation to dopamine alone.
 
-### Hanji 697 Command Composure Trust And Overreach Boundary
+### 汉纪 697 Command Composure Trust And Overreach Boundary
 
-[[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] enters psychology-and-personal-development only as a historical self-command and status-judgment case: [[GengYanEasternHan]] is framed through command composure and follow-through under [[BattlefieldFeintAndLure]], [[LiuXiu]] signals trust toward [[FengYiEasternHan]] while controlling [[ZhangBuEasternHan]] through [[SecurityForAuthorityExchange]], and [[ZhengXingEasternHan]] warns [[WeiXiaoEasternHan]] against self-inflating ritual overreach.
+[[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|汉纪 697]] enters psychology-and-personal-development only as a historical self-command and status-judgment case: [[GengYanEasternHan]] is framed through command composure and follow-through under [[BattlefieldFeintAndLure]], [[LiuXiu]] signals trust toward [[FengYiEasternHan]] while controlling [[ZhangBuEasternHan]] through [[SecurityForAuthorityExchange]], and [[ZhengXingEasternHan]] warns [[WeiXiaoEasternHan]] against self-inflating ritual overreach.
 
 **Evidence:** [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c]], [[GengYanEasternHan]], [[BattlefieldFeintAndLure]], [[LiuXiu]], [[FengYiEasternHan]], [[ZhangBuEasternHan]], [[SecurityForAuthorityExchange]], [[ZhengXingEasternHan]], [[WeiXiaoEasternHan]]
 
@@ -232,9 +232,9 @@ Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaReco
 - The paragraph belongs primarily to history and governance; the psychology assignment is limited to composure, trust signaling, status judgment, and overreach restraint.
 - The host's '兵仙' and '战神' evaluation remains source-scoped rhetoric rather than psychological evidence.
 
-### Hanji 699 Plus Emotional Restraint And Ruler Self Command
+### 汉纪 699 Plus Emotional Restraint And Ruler Self Command
 
-[[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] enters psychology-and-personal-development only as a historical self-command case: [[LiuXiu]] links [[StrategicEmotionConcealment]] after Liu Yan death with trust repair around [[WangLangHebeiClaimant]], while [[CultivatedImperialCapacity]] keeps these as political survival and governance capacities rather than generic personal advice.
+[[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|汉纪 699 PLUS]] enters psychology-and-personal-development only as a historical self-command case: [[LiuXiu]] links [[StrategicEmotionConcealment]] after Liu Yan death with trust repair around [[WangLangHebeiClaimant]], while [[CultivatedImperialCapacity]] keeps these as political survival and governance capacities rather than generic personal advice.
 
 **Evidence:** [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph]], [[LiuXiu]], [[StrategicEmotionConcealment]], [[WangLangHebeiClaimant]], [[CultivatedImperialCapacity]]
 
@@ -244,9 +244,9 @@ Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaReco
 - The paragraph belongs primarily to history and governance; the psychology assignment is limited to self-command, trust repair, and survival under danger.
 - The source does not prove that concealment is always virtuous; it shows one Liu Xiu survival-and-governance case.
 
-### Hanji 702 First Move Discipline And Allegiance Legibility
+### 汉纪 702 First Move Discipline And Allegiance Legibility
 
-[[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] enters the psychology-and-personal-development topic only as a historical self-command and judgment case: [[FengYiEasternHan]] turns officer fear into action through [[DecisiveTerrainPreemption]], while [[DouRongEasternHan]] uses persistent, status-aware communication under [[SecurityForAuthorityExchange]] to make allegiance legible before later ritual submission.
+[[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]] enters the psychology-and-personal-development topic only as a historical self-command and judgment case: [[FengYiEasternHan]] turns officer fear into action through [[DecisiveTerrainPreemption]], while [[DouRongEasternHan]] uses persistent, status-aware communication under [[SecurityForAuthorityExchange]] to make allegiance legible before later ritual submission.
 
 **Evidence:** [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot]], [[FengYiEasternHan]], [[DecisiveTerrainPreemption]], [[DouRongEasternHan]], [[SecurityForAuthorityExchange]]
 
@@ -256,9 +256,9 @@ Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaReco
 - The paragraph belongs primarily to history; the psychology assignment is limited to fear management, disciplined timing, and status-aware allegiance communication.
 - The source does not prove that speed is always superior to caution or that visible allegiance resolves every security problem.
 
-### Hanji 705 1 Remonstrance And Authority Calibration
+### 汉纪 705 1 Remonstrance And Authority Calibration
 
-[[zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi|Hanji 705-1]] enters the psychology-and-personal-development topic only as a historical calibration case: [[ZhengXingEasternHan]] and [[ChenYuanEasternHan]] frame criticism through omen, public reputation, and institutional comparison so [[LiuXiu]] can accept correction without direct status rupture.
+[[zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi|汉纪 705-1]] enters the psychology-and-personal-development topic only as a historical calibration case: [[ZhengXingEasternHan]] and [[ChenYuanEasternHan]] frame criticism through omen, public reputation, and institutional comparison so [[LiuXiu]] can accept correction without direct status rupture.
 
 **Evidence:** [[zizhi-tongjian-hanji-705-1-diwang-moulue-liuxiu-ruhe-yi-sheling-nizhuan-caiyuan-fengyun-lq2m06p7eczj9ebysxpl84bkzzi]], [[ZhengXingEasternHan]], [[ChenYuanEasternHan]], [[LiuXiu]]
 
@@ -268,9 +268,9 @@ Mental-health and crisis material keeps a clinical boundary: [[ComplexTraumaReco
 - The paragraph belongs primarily to history and governance; the psychology assignment is limited to speech risk, self-command, and recipient-state calibration under authority.
 - The source does not prove that ambiguity is always superior to direct criticism; it shows one successful correction sequence under Liu Xiu.
 
-### Hanji 713 Coerced Office Refusal And Moral Self Command
+### 汉纪 713 Coerced Office Refusal And Moral Self Command
 
-[[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] enters the psychology-and-personal-development topic only as a historical self-command case: [[LiNieEasternHan]] accepts death, [[QiaoXuanShuScholar]] survives through family payment, [[WangHaoShuScholar]] and [[WangJiaShuScholar]] refuse under hostage pressure, and [[WenQiYizhouEasternHan]] resists coercion while later serving [[LiuXiu]], making [[PrincipledOfficeRefusal]] and [[CoercedTalentLegitimacy]] personal-ethics frames inside a mainly governance and history source.
+[[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] enters the psychology-and-personal-development topic only as a historical self-command case: [[LiNieEasternHan]] accepts death, [[QiaoXuanShuScholar]] survives through family payment, [[WangHaoShuScholar]] and [[WangJiaShuScholar]] refuse under hostage pressure, and [[WenQiYizhouEasternHan]] resists coercion while later serving [[LiuXiu]], making [[PrincipledOfficeRefusal]] and [[CoercedTalentLegitimacy]] personal-ethics frames inside a mainly governance and history source.
 
 **Evidence:** [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje]], [[LiNieEasternHan]], [[QiaoXuanShuScholar]], [[WangHaoShuScholar]], [[WangJiaShuScholar]], [[WenQiYizhouEasternHan]], [[LiuXiu]], [[PrincipledOfficeRefusal]], [[CoercedTalentLegitimacy]]
 
@@ -292,9 +292,9 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 - The family-exposure implication is a civil-liberties and governance inference from genetic database searchability.
 - The episode presents Georgetown's critique without a detailed agency defense.
 
-### Hanji 736 Proximity Reading And Self Protection
+### 汉纪 736 Proximity Reading And Self Protection
 
-[[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] enters the psychology-and-personal-development branch as a historical self-protection case: [[LiuCangDongpingKing]] practices [[RoyalKinPowerWithdrawal]] by reading central-power proximity before suspicion forms, while [[ZhengZhongFrontierEasternHan]] uses [[PrivateRetainerNetworkRisk]] judgment to refuse a private princely guest network before [[LiangSongLinxiangMarquis]] falls and guests become implicated.
+[[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] enters the psychology-and-personal-development branch as a historical self-protection case: [[LiuCangDongpingKing]] practices [[RoyalKinPowerWithdrawal]] by reading central-power proximity before suspicion forms, while [[ZhengZhongFrontierEasternHan]] uses [[PrivateRetainerNetworkRisk]] judgment to refuse a private princely guest network before [[LiangSongLinxiangMarquis]] falls and guests become implicated.
 
 **Evidence:** [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup]], [[LiuCangDongpingKing]], [[RoyalKinPowerWithdrawal]], [[ZhengZhongFrontierEasternHan]], [[PrivateRetainerNetworkRisk]], [[LiangSongLinxiangMarquis]], [[EmperorMingOfHan]]
 
@@ -304,9 +304,9 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 - The episode also belongs primarily to Eastern Han governance and history; the psychology assignment is limited to proximity reading, exposure control, and self-protective refusal.
 - Mingdi preserving Liu Cang honor qualifies withdrawal as status-managed distance rather than simple retreat or humiliation.
 
-### Hanji 744 Siege Survival And Signal Discipline
+### 汉纪 744 Siege Survival And Signal Discipline
 
-[[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] enters the psychology-and-personal-development branch only as a historical command case: [[GengGongEasternHan]] maintains defender morale and shapes [[NorthernXiongnuLateHan]] perception through poisoned-arrow language, storm-timed action, well-digging persistence, and water display before [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] turns survival into [[RescueReciprocityCommandTrust]] and court-recognition pressure under [[EmperorZhangOfHan]].
+[[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|汉纪 744]] enters the psychology-and-personal-development branch only as a historical command case: [[GengGongEasternHan]] maintains defender morale and shapes [[NorthernXiongnuLateHan]] perception through poisoned-arrow language, storm-timed action, well-digging persistence, and water display before [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|汉纪 745]] turns survival into [[RescueReciprocityCommandTrust]] and court-recognition pressure under [[EmperorZhangOfHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx]], [[GengGongEasternHan]], [[NorthernXiongnuLateHan]], [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d]], [[RescueReciprocityCommandTrust]], [[EmperorZhangOfHan]], [[FifthLunEasternHan]]
 
@@ -316,9 +316,9 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 - The episode belongs primarily to Eastern Han history; the psychology assignment comes from morale, signaling, endurance, threat perception, and trust language.
 - The exact Shule-fortress geography, survival details, and enemy interpretation remain source-scoped.
 
-### Hanji 745 Rescue Credit And Outer Relative Warning
+### 汉纪 745 Rescue Credit And Outer Relative Warning
 
-[[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] adds a source-scoped command-trust and restraint case: [[GengGongEasternHan]] holds out under starvation and refuses [[NorthernXiongnuLateHan]] surrender, [[BaoYuEasternHan]] turns rescue into loyal-service morale and state-credit reasoning for [[EmperorZhangOfHan]], while [[FifthLunEasternHan]] reads [[MaFamilyZhangEraEasternHan]], [[MaLiaoEasternHan]], and [[MaFangEasternHan]] appointments, guests, and gifts through [[OuterRelativePreventiveRestraint]] risk.
+[[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|汉纪 745]] adds a source-scoped command-trust and restraint case: [[GengGongEasternHan]] holds out under starvation and refuses [[NorthernXiongnuLateHan]] surrender, [[BaoYuEasternHan]] turns rescue into loyal-service morale and state-credit reasoning for [[EmperorZhangOfHan]], while [[FifthLunEasternHan]] reads [[MaFamilyZhangEraEasternHan]], [[MaLiaoEasternHan]], and [[MaFangEasternHan]] appointments, guests, and gifts through [[OuterRelativePreventiveRestraint]] risk.
 
 **Evidence:** [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d]], [[GengGongEasternHan]], [[NorthernXiongnuLateHan]], [[BaoYuEasternHan]], [[EmperorZhangOfHan]], [[FifthLunEasternHan]], [[MaFamilyZhangEraEasternHan]], [[MaLiaoEasternHan]], [[MaFangEasternHan]], [[RescueReciprocityCommandTrust]], [[OuterRelativePreventiveRestraint]]
 
@@ -330,7 +330,7 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 
 ### Late Han 753 Private Grievance And Evidence Judgment
 
-[[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] enters the psychology-and-personal-development branch as a self-command and judgment case: [[LiYiEasternHan]] turns fear into slander against [[BanChaoEasternHan]], [[EmperorZhangOfHan]] checks motive claims through [[BehavioralEvidenceLoyaltyJudgment]], and Ban Chao uses [[PublicDutyOverPrivateGrievance]] to keep private injury from deciding public command.
+[[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] enters the psychology-and-personal-development branch as a self-command and judgment case: [[LiYiEasternHan]] turns fear into slander against [[BanChaoEasternHan]], [[EmperorZhangOfHan]] checks motive claims through [[BehavioralEvidenceLoyaltyJudgment]], and Ban Chao uses [[PublicDutyOverPrivateGrievance]] to keep private injury from deciding public command.
 
 **Evidence:** [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv]], [[LiYiEasternHan]], [[BanChaoEasternHan]], [[EmperorZhangOfHan]], [[BehavioralEvidenceLoyaltyJudgment]], [[PublicDutyOverPrivateGrievance]]
 
@@ -342,13 +342,13 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 
 ### Moral Presence Can Check Ambition Without Office
 
-[[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] adds a psychology-adjacent moral-presence case: [[HuangXianLateHan]] and [[MoralPresenceWithoutOffice]] show influence operating through reputation, comparison, and self-command rather than title, as [[XunShuLateHan]], [[DaiLiangLateHan]], [[YuanLangLateHan]], [[ChenFanLateHan]], and [[GuoTaiLateHan]] use Huang Xian as a measure for ambition, dignity, and depth.
+[[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] adds a psychology-adjacent moral-presence case: [[HuangXianLateHan]] and [[MoralPresenceWithoutOffice]] show influence operating through reputation, comparison, and self-command rather than title, as [[XunShuLateHan]], [[DaiLiangLateHan]], [[YuanLangLateHan]], [[ChenFanLateHan]], and [[GuoTaiLateHan]] use Huang Xian as a measure for ambition, dignity, and depth.
 
 **Evidence:** [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5]], [[HuangXianLateHan]], [[MoralPresenceWithoutOffice]], [[XunShuLateHan]], [[DaiLiangLateHan]], [[YuanLangLateHan]], [[ChenFanLateHan]], [[GuoTaiLateHan]]
 
 **Qualifications:**
 
-- This is a historical personal-development reading layered onto Hanji 798, not a clinical psychology claim.
+- This is a historical personal-development reading layered onto 汉纪 798, not a clinical psychology claim.
 - Huang Xian is treated as a moral-reputation case rather than an officeholder or policy actor.
 - The self-care opening and detailed Huang Xian anecdotes remain source-scoped to this episode.
 
@@ -366,7 +366,7 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 
 ### Impatience Pause Interrupts Self Importance
 
-[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds an impatience-specific personal-development case: [[EmotionRegulationToolkit]] and [[ReactionChoiceFrame]] become a deliberately simple pause before action, while [[TheMetamorphosisKafka]] is used to puncture anxious self-importance before it drives speech or behavior.
+[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|汉纪 901]] adds an impatience-specific personal-development case: [[EmotionRegulationToolkit]] and [[ReactionChoiceFrame]] become a deliberately simple pause before action, while [[TheMetamorphosisKafka]] is used to puncture anxious self-importance before it drives speech or behavior.
 
 **Evidence:** [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud]], [[EmotionRegulationToolkit]], [[ReactionChoiceFrame]], [[TheMetamorphosisKafka]]
 
@@ -378,7 +378,7 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 
 ### Emotion Concealment Supports Political Survival
 
-[[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] adds a personal-development case for [[StrategicEmotionConcealment]]: the episode contrasts uncontrolled display with survival timing, then maps that frame onto [[LiuMengLateHan]]'s restrained enforcement, [[ZhangHuanLateHan]]'s humbled letter under pressure, [[DuanJiongLateHan]]'s palace alignment, and [[SuBuweiLateHan]]'s delayed revenge against [[LiHaoLateHan]], tying emotion control to [[PoliticalSurvivalFirst]] rather than to moral approval of every tactic.
+[[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|汉纪 902]] adds a personal-development case for [[StrategicEmotionConcealment]]: the episode contrasts uncontrolled display with survival timing, then maps that frame onto [[LiuMengLateHan]]'s restrained enforcement, [[ZhangHuanLateHan]]'s humbled letter under pressure, [[DuanJiongLateHan]]'s palace alignment, and [[SuBuweiLateHan]]'s delayed revenge against [[LiHaoLateHan]], tying emotion control to [[PoliticalSurvivalFirst]] rather than to moral approval of every tactic.
 
 **Evidence:** [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b]], [[StrategicEmotionConcealment]], [[LiuMengLateHan]], [[ZhangHuanLateHan]], [[DuanJiongLateHan]], [[SuBuweiLateHan]], [[LiHaoLateHan]], [[PoliticalSurvivalFirst]]
 
@@ -386,11 +386,11 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 
 - This is the host's personal-development frame layered onto late-Han narrative, not a clinical psychology claim.
 - The source distinguishes emotional concealment and timing from moral approval of revenge, coercion, or political silence.
-- The claim is source-scoped to Hanji 902 because the same figures also belong to governance and history branches.
+- The claim is source-scoped to 汉纪 902 because the same figures also belong to governance and history branches.
 
 ### Speech Restraint Links Self Command To Exposure Control
 
-[[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]] adds a personal-development precursor for [[AdversitySilenceDiscipline]]: 修止语 turns reduced complaint, quarrel, and verbal impulse into daily self-command before the later secrecy, explanation-boundary, and political leak cases raise the same discipline into exposure control.
+[[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|汉纪 892]] adds a personal-development precursor for [[AdversitySilenceDiscipline]]: 修止语 turns reduced complaint, quarrel, and verbal impulse into daily self-command before the later secrecy, explanation-boundary, and political leak cases raise the same discipline into exposure control.
 
 **Evidence:** [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct]], [[AdversitySilenceDiscipline]]
 
@@ -435,7 +435,7 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 
 ### Latent Rival Recognition Needs Containment
 
-[[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x|Hanji 1040]] adds a survival-judgment case: [[CaoCao]]'s [[LatentRivalRecognition]] of [[LiuBei]] is paired with [[CrisisComposureCoverStory]] and [[StrategicEmotionConcealment]] inside the [[YidaiZhao]] pressure field, but recognition stops being effective containment once the protected guest is released into [[DangerousGuestReleaseRisk]] and rebuilds position through [[CheZhouLateHan]] and [[Xuzhou]].
+[[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x|汉纪 1040]] adds a survival-judgment case: [[CaoCao]]'s [[LatentRivalRecognition]] of [[LiuBei]] is paired with [[CrisisComposureCoverStory]] and [[StrategicEmotionConcealment]] inside the [[YidaiZhao]] pressure field, but recognition stops being effective containment once the protected guest is released into [[DangerousGuestReleaseRisk]] and rebuilds position through [[CheZhouLateHan]] and [[Xuzhou]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x]], [[CaoCao]], [[LatentRivalRecognition]], [[LiuBei]], [[CrisisComposureCoverStory]], [[StrategicEmotionConcealment]], [[YidaiZhao]], [[DangerousGuestReleaseRisk]], [[CheZhouLateHan]], [[Xuzhou]]
 
@@ -447,7 +447,7 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 
 ### Rigid Correction Can Turn Judgment Into Exposure
 
-[[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|Hanji 1042]] adds a psychology-adjacent judgment case: [[TianFengLateHan]] has a coherent attritional proposal, but repeated blunt insistence under mobilization pressure from [[YuanShao]] lets the advice be read through [[AdviceFramingUnderHierarchy]], [[PostSuccessArrogance]], and pre-battle morale anxiety rather than through [[XingshiqingStrategicAssessment]] alone. The episode therefore links principled correction to exposure management: being right does not remove the need to judge timing, hierarchy, and recipient state.
+[[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|汉纪 1042]] adds a psychology-adjacent judgment case: [[TianFengLateHan]] has a coherent attritional proposal, but repeated blunt insistence under mobilization pressure from [[YuanShao]] lets the advice be read through [[AdviceFramingUnderHierarchy]], [[PostSuccessArrogance]], and pre-battle morale anxiety rather than through [[XingshiqingStrategicAssessment]] alone. The episode therefore links principled correction to exposure management: being right does not remove the need to judge timing, hierarchy, and recipient state.
 
 **Evidence:** [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs]], [[TianFengLateHan]], [[YuanShao]], [[AdviceFramingUnderHierarchy]], [[PostSuccessArrogance]], [[XingshiqingStrategicAssessment]], [[CourtFeedbackCollapse]], [[GuanduCampaign]], [[ResourceAsymmetryAttrition]], [[FortifiedAttritionPatience]]
 
@@ -459,29 +459,29 @@ The ICE/CODIS paragraph is psychology-relevant only as a trust and exposure case
 
 ### Character Reading Turns Recognition Into Delegation
 
-Hanji 1029 adds a character-reading trust case: [[SunCe]] converts recognition of [[TaishiCi]] into delegation by trusting his promise, and the result becomes useful when Taishi Ci returns from [[YuzhangCommandery]] with intelligence about [[HuaXin]], [[TongZhiLateHan]], [[LulingLateHan]], [[PanyangLocalForces]], and [[HaihunLateHan]].
+汉纪 1029 adds a character-reading trust case: [[SunCe]] converts recognition of [[TaishiCi]] into delegation by trusting his promise, and the result becomes useful when Taishi Ci returns from [[YuzhangCommandery]] with intelligence about [[HuaXin]], [[TongZhiLateHan]], [[LulingLateHan]], [[PanyangLocalForces]], and [[HaihunLateHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto]], [[SunCe]], [[TaishiCi]], [[CharacterReadingDelegationTrust]], [[YuzhangCommandery]], [[HuaXin]], [[TongZhiLateHan]], [[LulingLateHan]], [[PanyangLocalForces]], [[HaihunLateHan]], [[SituationalCharacterTests]], [[RetainerReciprocityEthic]], [[TalentAsStateTreasure]], [[XingshiqingStrategicAssessment]]
 
 **Qualifications:**
 
-- The claim is source-scoped to Hanji 1029 and does not generalize every recognition relationship into reliable delegation.
+- The claim is source-scoped to 汉纪 1029 and does not generalize every recognition relationship into reliable delegation.
 - The source also preserves ASR-normalized names around Liu Yao, Hua Xin, Tong Zhi, Panyang, and Luling as cautious source handling rather than contradiction.
 
 ### Capability Reframes Greed And Resentment
 
-Hanji 930 adds [[ExchangeableCapability]] to the personal-development branch: desire, greed, and resentment are reframed as prompts to build usable value, because reputation or relationship channels matter only when [[GaiXunLateHan]] has [[MoralReputationPoliticalCapital]], [[SunJianLateHan]] has battlefield capacity recognized by [[ZhuJunLateHan]], and judgment under pressure preserves role usefulness through [[ZhangWenLateHan]], [[BattlefieldCommanderReplacementRisk]], [[EncirclementReleaseCalculus]], and [[VirtuePracticeInternalization]].
+汉纪 930 adds [[ExchangeableCapability]] to the personal-development branch: desire, greed, and resentment are reframed as prompts to build usable value, because reputation or relationship channels matter only when [[GaiXunLateHan]] has [[MoralReputationPoliticalCapital]], [[SunJianLateHan]] has battlefield capacity recognized by [[ZhuJunLateHan]], and judgment under pressure preserves role usefulness through [[ZhangWenLateHan]], [[BattlefieldCommanderReplacementRisk]], [[EncirclementReleaseCalculus]], and [[VirtuePracticeInternalization]].
 
 **Evidence:** [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd]], [[ExchangeableCapability]], [[GaiXunLateHan]], [[MoralReputationPoliticalCapital]], [[SunJianLateHan]], [[ZhuJunLateHan]], [[ZhangWenLateHan]], [[BattlefieldCommanderReplacementRisk]], [[EncirclementReleaseCalculus]], [[VirtuePracticeInternalization]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 930 and treats the greed/unwillingness lesson as a personal-development interpretation layered onto historical narrative.
+- This claim is source-scoped to 汉纪 930 and treats the greed/unwillingness lesson as a personal-development interpretation layered onto historical narrative.
 - It does not claim that capability alone guarantees reward; the same source ties capability to recognition, role assignment, timing, and battlefield conditions.
 
 ### Desire Needs Self Command To Become Initiative
 
-[[zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj|Hanji 1024]] adds a desire-and-self-command case to [[LongTermAchievementDiscipline]]: [[LyuBu]] has force, advisers, allies, and city-defense options, but he cannot hold [[ChenGongLateHan]]'s timing and attrition judgment long enough to turn [[GaoShun]], [[ZhangLiao]], [[YuanShu]], and [[Xiapi]] into durable initiative against [[CaoCao]].
+[[zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj|汉纪 1024]] adds a desire-and-self-command case to [[LongTermAchievementDiscipline]]: [[LyuBu]] has force, advisers, allies, and city-defense options, but he cannot hold [[ChenGongLateHan]]'s timing and attrition judgment long enough to turn [[GaoShun]], [[ZhangLiao]], [[YuanShu]], and [[Xiapi]] into durable initiative against [[CaoCao]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1024-yongguan-sanjun-lvbu-weihe-shizhong-yi-shi-wucheng-lkfum6s9gin-vtfrjkxim9yukshj]], [[LongTermAchievementDiscipline]], [[LyuBu]], [[ChenGongLateHan]], [[GaoShun]], [[ZhangLiao]], [[YuanShu]], [[Xiapi]], [[CaoCao]], [[XunYou]], [[LiuBei]], [[XiahouDun]]
 
@@ -536,7 +536,7 @@ Workplace boundaries now include both ordinary cooperation boundaries and coerci
 
 ### Emotional Attachment Can Distort Judgment
 
-Hanji 997 adds an attachment-and-judgment case: [[EmotionalAttachmentPoliticalDistortion]] shows [[ZangHong]] turning loyalty to [[ZhangChaoLateHan]] into a reading frame that overrides current superior [[YuanShao]], alliance structure around [[CaoCao]], and [[PoliticalSurvivalFirst]] constraints.
+汉纪 997 adds an attachment-and-judgment case: [[EmotionalAttachmentPoliticalDistortion]] shows [[ZangHong]] turning loyalty to [[ZhangChaoLateHan]] into a reading frame that overrides current superior [[YuanShao]], alliance structure around [[CaoCao]], and [[PoliticalSurvivalFirst]] constraints.
 
 **Evidence:** [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]], [[EmotionalAttachmentPoliticalDistortion]], [[ZangHong]], [[ZhangChaoLateHan]], [[YuanShao]], [[CaoCao]], [[DeathPartyLoyalty]], [[RetainerReciprocityEthic]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]]
 
@@ -554,20 +554,20 @@ Hanji 997 adds an attachment-and-judgment case: [[EmotionalAttachmentPoliticalDi
 **Qualifications:**
 
 - The source stops before the night attack, so it explains the psychological and status precondition rather than the whole military disaster.
-- Hanji 1013's Zhou form is preserved as a transcript variant for the same Wancheng woman.
+- 汉纪 1013's Zhou form is preserved as a transcript variant for the same Wancheng woman.
 
 ### Relationship Trust Is Condition Dependent
 
-Hanji 962, Hanji 970, and Hanji 999 add related trust-fragility cases: [[PersonalGuardAttackSurface]] and [[PersonalTrustPoliticalFragility]] show [[DongZhuo]] and [[LyuBu]]'s close-guard relationship failing under violence, exposure fear, and [[WangYunLateHan]]'s persuasion; [[InterestStructuredAllianceFragility]] shows [[YuanShao]] and Lü Bu shifting from common-enemy cooperation against [[ZhangYanLateHan]] into [[YuanShaoLyuBuAssassinationAttempt]] under [[CourtesyCoveredElimination]], while later friendship and alliance around [[LiuBei]], Lü Bu, and [[YuanShu]] change when grain, protection, family safety, and survival pressure shift.
+汉纪 962, 汉纪 970, and 汉纪 999 add related trust-fragility cases: [[PersonalGuardAttackSurface]] and [[PersonalTrustPoliticalFragility]] show [[DongZhuo]] and [[LyuBu]]'s close-guard relationship failing under violence, exposure fear, and [[WangYunLateHan]]'s persuasion; [[InterestStructuredAllianceFragility]] shows [[YuanShao]] and Lü Bu shifting from common-enemy cooperation against [[ZhangYanLateHan]] into [[YuanShaoLyuBuAssassinationAttempt]] under [[CourtesyCoveredElimination]], while later friendship and alliance around [[LiuBei]], Lü Bu, and [[YuanShu]] change when grain, protection, family safety, and survival pressure shift.
 
 **Evidence:** [[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti]], [[DongZhuo]], [[WangYunLateHan]], [[PersonalGuardAttackSurface]], [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs]], [[YuanShao]], [[LyuBu]], [[ZhangYanLateHan]], [[YuanShaoLyuBuAssassinationAttempt]], [[CourtesyCoveredElimination]], [[CrisisDeceptionSurvival]], [[InterestStructuredAllianceFragility]], [[PersonalTrustPoliticalFragility]], [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu]], [[GrainLeverageAllianceBetrayal]], [[LiuBei]], [[YuanShu]], [[WartimeAgriculturalLaborCollapse]], [[CaoBaoLateHan]], [[XuDanLateHan]], [[ZhangFei]]
 
 **Qualifications:**
 
 - This is a historical political-military psychology case, not a standalone claim about all interpersonal trust.
-- Hanji 962 backfills the pre-assassination guard rupture rather than changing Hanji 963's later killing scene.
-- Hanji 970 preserves the zither, tunnel, and tent-slashing escape details as source-scoped narrative evidence.
-- Zhang Fei's drunken-loss shorthand remains source-layer variation beside Hanji 999's Cao Bao killing and Xu Dan gate-opening mechanism.
+- 汉纪 962 backfills the pre-assassination guard rupture rather than changing 汉纪 963's later killing scene.
+- 汉纪 970 preserves the zither, tunnel, and tent-slashing escape details as source-scoped narrative evidence.
+- Zhang Fei's drunken-loss shorthand remains source-layer variation beside 汉纪 999's Cao Bao killing and Xu Dan gate-opening mechanism.
 
 ### Judgment Needs Fit Between Ambition And Conditions
 
@@ -577,7 +577,7 @@ Hanji 962, Hanji 970, and Hanji 999 add related trust-fragility cases: [[Persona
 
 **Qualifications:**
 
-- This is source-scoped to the Hanji 1015 framing; the input's strongest evidence is political judgment rather than clinical psychology.
+- This is source-scoped to the 汉纪 1015 framing; the input's strongest evidence is political judgment rather than clinical psychology.
 
 ### Market Excitement Needs Commercial Self Check
 
@@ -636,7 +636,7 @@ Episode 692 adds a psychology-adjacent judgment case: [[ConfessionalTraumaMemory
 
 ### Opponent State Reading Turns Exposure Into Timing
 
-[[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] adds a psychology-adjacent judgment case before [[GuanduCampaign]]: [[JuShou]] reads campaign risk and commander fit for [[YanLiangLateHan]], while [[ChengYu]] and [[CaoCao]] exploit opponent state through Juancheng restraint and [[BaimaReliefLateHan]] diversion, connecting [[XingshiqingStrategicAssessment]] with [[LureEnemyOutOfPosition]] under pressure rather than treating cleverness as improvisation alone.
+[[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] adds a psychology-adjacent judgment case before [[GuanduCampaign]]: [[JuShou]] reads campaign risk and commander fit for [[YanLiangLateHan]], while [[ChengYu]] and [[CaoCao]] exploit opponent state through Juancheng restraint and [[BaimaReliefLateHan]] diversion, connecting [[XingshiqingStrategicAssessment]] with [[LureEnemyOutOfPosition]] under pressure rather than treating cleverness as improvisation alone.
 
 **Evidence:** [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna]], [[GuanduCampaign]], [[JuShou]], [[YanLiangLateHan]], [[ChengYu]], [[CaoCao]], [[BaimaReliefLateHan]], [[XingshiqingStrategicAssessment]], [[LureEnemyOutOfPosition]]
 
@@ -644,7 +644,7 @@ Episode 692 adds a psychology-adjacent judgment case: [[ConfessionalTraumaMemory
 
 - This is a historical judgment and political-psychology reading, not a clinical claim.
 - Low-garrison defense and diversion are context-dependent and should not be used as a universal playbook.
-- The Cao Cao headache anecdote and unique exploit framing remain source-scoped to Hanji 1043.
+- The Cao Cao headache anecdote and unique exploit framing remain source-scoped to 汉纪 1043.
 
 ### Creative Self Command Balances Doubt Attention And Stories
 
@@ -693,25 +693,25 @@ The Rubin source adds a personal-development creativity case: [[SelfDoubtAsCreat
 
 ### Duty And Title Restraint Qualify Survival Psychology
 
-[[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] adds a psychology-adjacent restraint case: [[ChengJiLateHan]] and [[YanPuLateHan]] show judgment under fear, obligation, and status temptation through [[OfficialDutyOverPatronCommand]] and [[TitleRealityRestraint]], while [[PangXiLateHan]] and [[ZhangLuFivePecks]] mark the pressures that make self-command politically consequential. The opening merit and career frame remains source-scoped rather than a general psychology doctrine.
+[[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] adds a psychology-adjacent restraint case: [[ChengJiLateHan]] and [[YanPuLateHan]] show judgment under fear, obligation, and status temptation through [[OfficialDutyOverPatronCommand]] and [[TitleRealityRestraint]], while [[PangXiLateHan]] and [[ZhangLuFivePecks]] mark the pressures that make self-command politically consequential. The opening merit and career frame remains source-scoped rather than a general psychology doctrine.
 
 **Evidence:** [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o]], [[ChengJiLateHan]], [[YanPuLateHan]], [[OfficialDutyOverPatronCommand]], [[TitleRealityRestraint]], [[PangXiLateHan]], [[ZhangLuFivePecks]]
 
 **Qualifications:**
 
 - This claim is a historical personal-development reading layered onto a late-Han episode, not a clinical or universal psychology finding.
-- It does not claim fear, patronage, or title ambition can always be overcome by rhetoric; Hanji 1055 works because Pang Xi and Zhang Lu remain persuadable.
+- It does not claim fear, patronage, or title ambition can always be overcome by rhetoric; 汉纪 1055 works because Pang Xi and Zhang Lu remain persuadable.
 - The episode opening about career, merit, and recognition remains bounded to the host interpretation.
 
 ### Succession Leadership Needs Personnel And Discipline
 
-[[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] adds a psychology-adjacent leadership reading: [[SunQuan]]'s early strength is not confidence alone but observed personnel judgment through [[LyuMeng]], advice intake through [[LuoTong]], and threat discipline around [[SunFuLateHan]] and [[LiShuLateHan]], while [[LiuZhang]] shows the opposite failure to turn mildness into control over [[ZhangLuFivePecks]], [[PangXiLateHan]], and [[ZhaoWeiLateHan]].
+[[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|汉纪 1053]] adds a psychology-adjacent leadership reading: [[SunQuan]]'s early strength is not confidence alone but observed personnel judgment through [[LyuMeng]], advice intake through [[LuoTong]], and threat discipline around [[SunFuLateHan]] and [[LiShuLateHan]], while [[LiuZhang]] shows the opposite failure to turn mildness into control over [[ZhangLuFivePecks]], [[PangXiLateHan]], and [[ZhaoWeiLateHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi]], [[SunQuan]], [[LyuMeng]], [[LuoTong]], [[SunFuLateHan]], [[LiShuLateHan]], [[LiuZhang]], [[ZhangLuFivePecks]], [[PangXiLateHan]], [[ZhaoWeiLateHan]], [[SuccessionAuthorityConsolidation]]
 
 **Qualifications:**
 
-- This is a source-scoped leadership reading drawn from Hanji 1053, not a universal personal-development doctrine.
+- This is a source-scoped leadership reading drawn from 汉纪 1053, not a universal personal-development doctrine.
 - The claim concerns authority and judgment under succession pressure, not private therapeutic advice.
 - The Li Shu branch includes coercion and civilian harm, so the leadership lesson remains morally qualified.
 
@@ -726,9 +726,9 @@ The Rubin source adds a personal-development creativity case: [[SelfDoubtAsCreat
 - The claim is practical and experiential rather than clinical psychology, veterinary behavior medicine, or a universal training protocol.
 - The episode's spirituality, pack-position, cold-exposure, and leadership-generalization claims remain source-scoped.
 
-### Hanji 1058 Intimacy Maternal Love Opening Source Scoped
+### 汉纪 1058 Intimacy Maternal Love Opening Source Scoped
 
-[[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] adds a brief personal-development opening: unmet maternal love is framed as adult intimacy becoming anxious dependence, people-pleasing, and projection, with repair directed toward self-relationship and inner-parent language. The same source historical body concerns [[SunQuan]], [[ZhouYuLateHan]], [[GuoJia]], [[YuanTan]], and [[YuanShang]], so the psychology opening remains a source-scoped reflection rather than historical causation or clinical guidance.
+[[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|汉纪 1058]] adds a brief personal-development opening: unmet maternal love is framed as adult intimacy becoming anxious dependence, people-pleasing, and projection, with repair directed toward self-relationship and inner-parent language. The same source historical body concerns [[SunQuan]], [[ZhouYuLateHan]], [[GuoJia]], [[YuanTan]], and [[YuanShang]], so the psychology opening remains a source-scoped reflection rather than historical causation or clinical guidance.
 
 **Evidence:** [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg]], [[SunQuan]], [[ZhouYuLateHan]], [[GuoJia]], [[YuanTan]], [[YuanShang]]
 
@@ -738,9 +738,9 @@ The Rubin source adds a personal-development creativity case: [[SelfDoubtAsCreat
 - The opening segment is weakly connected to the late-Han history body and should not be used as historical causation.
 - Book recommendations and inner-parent language remain source-scoped to the episode.
 
-### Hanji 1059 1060 Yuan Family Secondary Psychology Source Scoped
+### 汉纪 1059 1060 Yuan Family Secondary Psychology Source Scoped
 
-[[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] enters the psychology-and-personal-development topic only through a source-scoped relationship-advice opening; its main body concerns [[LiuBiao]], [[YuanTan]], [[YuanShang]], [[XinPiLateHan]], and [[XunYou]] in a [[MutualExhaustionThirdPartyGain]] / [[PostVictoryThreatSequencing]] history sequence. [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|Hanji 1060]] remains secondary here as well: Cao Cao hesitation, Yuan Tan trustworthiness, and Xin Pi persuasion are preserved as judgment-framing details around [[DisorderCollapseExploitation]], not as clinical guidance or a general relationship model.
+[[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|汉纪 1059]] enters the psychology-and-personal-development topic only through a source-scoped relationship-advice opening; its main body concerns [[LiuBiao]], [[YuanTan]], [[YuanShang]], [[XinPiLateHan]], and [[XunYou]] in a [[MutualExhaustionThirdPartyGain]] / [[PostVictoryThreatSequencing]] history sequence. [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|汉纪 1060]] remains secondary here as well: Cao Cao hesitation, Yuan Tan trustworthiness, and Xin Pi persuasion are preserved as judgment-framing details around [[DisorderCollapseExploitation]], not as clinical guidance or a general relationship model.
 
 **Evidence:** [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos]], [[LiuBiao]], [[YuanTan]], [[YuanShang]], [[XinPiLateHan]], [[XunYou]], [[MutualExhaustionThirdPartyGain]], [[PostVictoryThreatSequencing]], [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7]], [[CaoCao]], [[DisorderCollapseExploitation]], [[PressureReleaseInfightingStrategy]]
 
@@ -748,7 +748,7 @@ The Rubin source adds a personal-development creativity case: [[SelfDoubtAsCreat
 
 - The source-scoped opening is not promoted into clinical guidance or a general theory of relationships.
 - The paragraph is primarily historical, with psychology only a secondary topic assignment.
-- Hanji 1060 is primarily a history-and-strategy source; its psychology assignment is limited to decision hesitation, trust framing, and persuasive diagnosis.
+- 汉纪 1060 is primarily a history-and-strategy source; its psychology assignment is limited to decision hesitation, trust framing, and persuasive diagnosis.
 
 ### Movement Practice Refines Attention And Will
 
@@ -923,7 +923,7 @@ The Benjamin Lay paragraph enters psychology-and-personal-development secondaril
 
 ### Yang Xiong Remonstrance Is Secondary Judgment Case
 
-[[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] enters psychology-and-personal-development only as a secondary judgment case: [[YangXiong]] persuades [[HanAidi]] to treat [[Xiongnu]] diplomacy through [[DiplomaticCostRiskAccounting]], making prevention before rupture a bounded example of advice uptake under strategic uncertainty.
+[[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|汉纪 590]] enters psychology-and-personal-development only as a secondary judgment case: [[YangXiong]] persuades [[HanAidi]] to treat [[Xiongnu]] diplomacy through [[DiplomaticCostRiskAccounting]], making prevention before rupture a bounded example of advice uptake under strategic uncertainty.
 
 **Evidence:** [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a]], [[YangXiong]], [[HanAidi]], [[Xiongnu]], [[DiplomaticCostRiskAccounting]]
 

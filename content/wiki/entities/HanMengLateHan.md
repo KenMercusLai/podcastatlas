@@ -25,9 +25,9 @@ Cao Cao acts on that judgment by sending [[XuHuangCaoGeneral|徐晃]] and [[ShiH
 - Source-bounded minor commander whose importance comes from the convoy he escorts rather than a full biography.
 
 ## Evidence
-- Temperament assessment: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Xun You describes Han Meng as brave but light-minded toward danger.
-- Convoy attack: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Cao Cao sends Xu Huang and Shi Huan to intercept and defeat Han Meng, burning Yuan Shao's baggage.
-- Logistics significance: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] places the convoy strike during Cao Cao's own supply crisis before the Wuchao intelligence arrives.
+- Temperament assessment: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Xun You describes Han Meng as brave but light-minded toward danger.
+- Convoy attack: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Cao Cao sends Xu Huang and Shi Huan to intercept and defeat Han Meng, burning Yuan Shao's baggage.
+- Logistics significance: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] places the convoy strike during Cao Cao's own supply crisis before the Wuchao intelligence arrives.
 
 ## Qualifications
 The page should remain narrow unless later sources add offices, earlier service, or later outcomes. The current source uses Han Meng primarily to show how Cao Cao and Xun You begin attacking Yuan Shao's supply movement before the decisive Wuchao raid.

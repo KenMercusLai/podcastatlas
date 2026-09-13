@@ -14,7 +14,7 @@ last_updated: 2026-09-06
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode is a reflective sequel to [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]]'s [[XuYouLateHan|Xu You]] case. It generalizes Xu You's public credit overreach into a broader [[HighMeritThreatManagement|high-merit threat management]] lesson: private closeness, old service, and real achievement do not remove public hierarchy or the superior's changing risk calculation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode is a reflective sequel to [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|汉纪 1064]]'s [[XuYouLateHan|Xu You]] case. It generalizes Xu You's public credit overreach into a broader [[HighMeritThreatManagement|high-merit threat management]] lesson: private closeness, old service, and real achievement do not remove public hierarchy or the superior's changing risk calculation.
 
 The episode contrasts strategies associated with [[XunYu|荀彧]], [[JiaXu|贾诩]], [[FanLi|范蠡]], [[ZhangLiang|张良]], [[WeiQingHanGeneral|卫青]], [[GuoZiyi|郭子仪]], [[HanXin|韩信]], [[XiaoHe|萧何]], [[NianGengyao|年羹尧]], and [[ZengGuofan|曾国藩]]. Its modern workplace formula is that safety rises when current indispensability is high and perceived threat is low; when contribution decays but arrogance, public superiority, or power appetite remain visible, merit can become danger.
 
@@ -39,7 +39,7 @@ The episode contrasts strategies associated with [[XunYu|荀彧]], [[JiaXu|贾�
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]], [[XuYouLateHan|Xu You]], [[CaoCao|Cao Cao]], and [[SuperiorCreditConflictRisk|Superior Credit Conflict Risk]] - previous source case generalized into credit, hierarchy, and public speech risk.
+- [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|汉纪 1064]], [[XuYouLateHan|Xu You]], [[CaoCao|Cao Cao]], and [[SuperiorCreditConflictRisk|Superior Credit Conflict Risk]] - previous source case generalized into credit, hierarchy, and public speech risk.
 - [[HighMeritThreatManagement|High Merit Threat Management]] - new synthesis concept for keeping real achievement from becoming a visible threat to the superior.
 - [[PowerEtiquetteReading|Power Etiquette Reading]] and [[WorkplaceRelationshipBoundaries|Workplace Relationship Boundaries]] - public address, third-party presence, and role boundaries are treated as power signals.
 - [[XunYu|Xun Yu]] and [[JiaXu|Jia Xu]] - late-Han adviser contrasts for credit return and visibility reduction.
@@ -49,5 +49,5 @@ The episode contrasts strategies associated with [[XunYu|荀彧]], [[JiaXu|贾�
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content is recorded. The episode adds a cross-case workplace and power-field synthesis rather than new chronological detail for the Hanji 1064 narrative.
+- No settled contradiction with existing wiki content is recorded. The episode adds a cross-case workplace and power-field synthesis rather than new chronological detail for the 汉纪 1064 narrative.
 - Source-scope caution: several later historical comparisons are compressed into advisory examples; the wiki treats the formula and comparisons as interpretive guidance from this episode, not as complete biographies of every named figure.

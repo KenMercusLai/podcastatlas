@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]] into [[HanXin|韩信]]'s life after demotion from Chu king to Huaiyin marquis. Isolated in [[ChangAnHanCapital|长安]], Han Xin visits [[FanKuai|樊哙]], receives extreme courtesy, then humiliates him with the line "生乃与哙等为伍." The host argues that the insult may be more than arrogance: because Fan Kuai belongs to [[LiuBang|刘邦]]'s Pei/Feng veteran military circle and is tied to [[LuZhi|吕雉]], Han Xin may be publicly cutting distance from a dangerous potential alliance. The episode then opens the larger question of why Han Xin, who once held the leverage to decide the Chu-Han outcome, repeatedly failed to act decisively for his own political survival.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|汉纪 172]] into [[HanXin|韩信]]'s life after demotion from Chu king to Huaiyin marquis. Isolated in [[ChangAnHanCapital|长安]], Han Xin visits [[FanKuai|樊哙]], receives extreme courtesy, then humiliates him with the line "生乃与哙等为伍." The host argues that the insult may be more than arrogance: because Fan Kuai belongs to [[LiuBang|刘邦]]'s Pei/Feng veteran military circle and is tied to [[LuZhi|吕雉]], Han Xin may be publicly cutting distance from a dangerous potential alliance. The episode then opens the larger question of why Han Xin, who once held the leverage to decide the Chu-Han outcome, repeatedly failed to act decisively for his own political survival.
 
 ## Key Claims
 - After the Yunmeng arrest, Han Xin is no longer a regional king but remains politically dangerous because his military reputation, old relationships, and resentment are still visible.
@@ -34,7 +34,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 > "狡兔死，走狗烹"
 
 ## Connections
-- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|Hanji 172]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[Huaiyin|淮阴]], and [[PowerExitTrap|权力退场困境]] - immediate prelude: arrest, demotion, and the post-kingship danger that continues inside Chang'an.
+- [[zizhi-tongjian-hanji-172-liubang-yangyou-yunmengze-zhiqin-hanxin-lrpkye8y6ibqdqs9pz7artk-6chv|汉纪 172]], [[HanXin|韩信]], [[LiuBang|刘邦]], [[Huaiyin|淮阴]], and [[PowerExitTrap|权力退场困境]] - immediate prelude: arrest, demotion, and the post-kingship danger that continues inside Chang'an.
 - [[FanKuai|樊哙]], [[LuZhi|吕雉]], [[ZhouBo|周勃]], [[GuanYing|灌婴]], and [[VeteranMeritCliqueSupervision|功臣旧将监督]] - Pei/Feng veteran military circle and Lu-family risk around Fan Kuai.
 - [[PublicDisavowalSelfProtection|公开切割式自保]], [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]], and [[TacticalDelayRiskTransfer|延时转责式政治化解]] - adjacent court-survival patterns around visible association, ruler suspicion, and Fan Kuai's later lethal exposure.
 - [[XiaoHe|萧何]], [[XiahouYing|夏侯婴]], [[LiZuoChe|李左车]], and [[ZhongliMo|钟离眜]] - Han Xin's remaining or lost relationship field after demotion.

@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-赤亭守战 / Chiting Defense is the Hanji 788 battle sequence in which [[YuXuEasternHan|虞诩]] uses a small Han force to break a much larger Qiang pressure field while moving into [[WuduCommanderyLateHan|武都郡]]. It is the source's concrete case for command by mobility, deception, fire discipline, and enemy-tempo control.
+赤亭守战 / Chiting Defense is the 汉纪 788 battle sequence in which [[YuXuEasternHan|虞诩]] uses a small Han force to break a much larger Qiang pressure field while moving into [[WuduCommanderyLateHan|武都郡]]. It is the source's concrete case for command by mobility, deception, fire discipline, and enemy-tempo control.
 
 ## Current Profile
 
@@ -28,11 +28,11 @@ At Chiting itself, Yu Xu does not answer the siege with simple bravery. He conce
 
 ## Evidence
 
-- Route deception and forced march: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says Yu Xu falsely claims he is waiting for reinforcements, then moves rapidly when Qiang forces disperse.
-- Stove signal: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says Yu Xu increases camp stoves so the enemy believes reinforcements have arrived.
-- Crossbow timing: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says Yu Xu hides strong crossbows, uses small crossbows first, and then concentrates strong-crossbow fire when the Qiang attack.
-- Psychological attrition: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says Yu Xu sorties, burns tents, raids at night, and stages fake reinforcements to weaken Qiang resolve.
-- Withdrawal ambush: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] says the Qiang withdraw at night and are attacked while crossing, with cavalry striking after the ambush begins.
+- Route deception and forced march: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]] says Yu Xu falsely claims he is waiting for reinforcements, then moves rapidly when Qiang forces disperse.
+- Stove signal: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]] says Yu Xu increases camp stoves so the enemy believes reinforcements have arrived.
+- Crossbow timing: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]] says Yu Xu hides strong crossbows, uses small crossbows first, and then concentrates strong-crossbow fire when the Qiang attack.
+- Psychological attrition: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]] says Yu Xu sorties, burns tents, raids at night, and stages fake reinforcements to weaken Qiang resolve.
+- Withdrawal ambush: [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]] says the Qiang withdraw at night and are attacked while crossing, with cavalry striking after the ambush begins.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ The current page is bounded to one episode summary and does not independently ve
 
 ## What Changed
 
-- Created the Chiting Defense page from Hanji 788's Wudu rescue and Qiang-front battle sequence.
+- Created the Chiting Defense page from 汉纪 788's Wudu rescue and Qiang-front battle sequence.
 
 ## Relationships
 

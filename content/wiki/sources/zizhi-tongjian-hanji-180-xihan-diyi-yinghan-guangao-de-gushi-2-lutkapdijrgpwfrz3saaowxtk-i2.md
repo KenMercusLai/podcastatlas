@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[GuanGao|贯高]] case after [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180 part 1]]. [[LiuBang|刘邦]] pardons Guan Gao after [[ZhangAo|张敖]] is cleared, but Guan Gao kills himself once his duty is complete. The host then uses [[XunYue|荀悦]] and [[SimaGuang|司马光]] to separate personal loyalty, legal guilt, and policy causality: Guan Gao can be truthful and brave without becoming innocent, and Zhang Ao's loss of Zhao fits Liu Bang's wider rollback of non-Liu kings.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[GuanGao|贯高]] case after [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|汉纪 180 part 1]]. [[LiuBang|刘邦]] pardons Guan Gao after [[ZhangAo|张敖]] is cleared, but Guan Gao kills himself once his duty is complete. The host then uses [[XunYue|荀悦]] and [[SimaGuang|司马光]] to separate personal loyalty, legal guilt, and policy causality: Guan Gao can be truthful and brave without becoming innocent, and Zhang Ao's loss of Zhao fits Liu Bang's wider rollback of non-Liu kings.
 
 ## Key Claims
 - Liu Bang admires Guan Gao's courage and loyalty enough to pardon him, but Guan Gao treats the pardon as morally unusable because the charge of plotting regicide remains.
@@ -44,5 +44,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This source qualifies [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180 part 1]]: the earlier page records Zhang Ao's demotion after the Guan Gao case, while this episode argues the case was probably a trigger inside Liu Bang's broader policy of removing different-surname kings, not the root cause by itself.
+- This source qualifies [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|汉纪 180 part 1]]: the earlier page records Zhang Ao's demotion after the Guan Gao case, while this episode argues the case was probably a trigger inside Liu Bang's broader policy of removing different-surname kings, not the root cause by itself.
 - The Xiao He promotion note is recorded as source-scoped [[ChronicleChronologyDrift|chronology drift]] rather than a resolved correction to every Xiao He page.

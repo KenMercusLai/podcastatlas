@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] presents the pattern through [[HanChengdi|汉成帝]]'s order to reduce capital punishment provisions and simplify Han law. The edict is morally and administratively clear: excessive legal text makes punishment opaque and risks killing innocents. Yet the responsible officials respond with only minor items, leaving the deeper reform unrealized.
+[[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] presents the pattern through [[HanChengdi|汉成帝]]'s order to reduce capital punishment provisions and simplify Han law. The edict is morally and administratively clear: excessive legal text makes punishment opaque and risks killing innocents. Yet the responsible officials respond with only minor items, leaving the deeper reform unrealized.
 
 The episode explains the gap through two linked obstacles. First, serious legal simplification is a large technical project requiring expert review, time, and a dedicated working structure. Second, the existing complexity benefits officials by preserving interpretive power. The result is not open rebellion against the emperor, but formal compliance that drains the policy of substance.
 
@@ -28,18 +28,18 @@ The episode explains the gap through two linked obstacles. First, serious legal 
 
 ## Evidence
 
-- Clear edict: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] says Chengdi orders officials to reduce capital statutes and make law simpler and clearer.
-- Minimal response: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] says the responsible officials merely report a few small matters rather than carrying out the large simplification.
-- Capacity barrier: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] says legal revision requires a specialized working group and sustained expert discussion.
-- Interest barrier: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] says complex law gives officials discretion and potential benefit, so simplification weakens their position.
+- Clear edict: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] says Chengdi orders officials to reduce capital statutes and make law simpler and clearer.
+- Minimal response: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] says the responsible officials merely report a few small matters rather than carrying out the large simplification.
+- Capacity barrier: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] says legal revision requires a specialized working group and sustained expert discussion.
+- Interest barrier: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] says complex law gives officials discretion and potential benefit, so simplification weakens their position.
 
 ## Counterevidence & Qualifications
 
-Hanji 510 is an explanatory podcast source, not a full administrative record from the offices that handled the edict. The concept should therefore mark a plausible implementation mechanism rather than claim access to every official's motive.
+汉纪 510 is an explanatory podcast source, not a full administrative record from the offices that handled the edict. The concept should therefore mark a plausible implementation mechanism rather than claim access to every official's motive.
 
 ## What Changed
 
-- Created the concept from Hanji 510's account of Chengdi's stalled legal-simplification edict.
+- Created the concept from 汉纪 510's account of Chengdi's stalled legal-simplification edict.
 
 ## Related Concepts
 

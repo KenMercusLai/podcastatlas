@@ -9,10 +9,10 @@ last_updated: 2026-09-02
 ---
 
 ## Overview
-王霸 / Wang Ba is synthesized as a Guangwu founding commander whose current evidence combines morale-tempo battlefield patience with long northern-frontier governance. [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] shows him refusing immediate rescue at an enemy high-morale moment, waiting until [[MaWuEasternHan|马武]] and the enemy are psychologically repositioned, striking from the rear, and later using fortified non-battle against [[SuMaoEasternHan|苏茂]] and [[ZhouJianEasternHan|周建]].
+王霸 / Wang Ba is synthesized as a Guangwu founding commander whose current evidence combines morale-tempo battlefield patience with long northern-frontier governance. [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] shows him refusing immediate rescue at an enemy high-morale moment, waiting until [[MaWuEasternHan|马武]] and the enemy are psychologically repositioned, striking from the rear, and later using fortified non-battle against [[SuMaoEasternHan|苏茂]] and [[ZhouJianEasternHan|周建]].
 
 ## Current Profile
-Hanji 692 presents Wang Ba as a commander who turns restraint into the active part of command. After Ma Wu is defeated and asks for help, Wang Ba closes the gates because Su Mao's force is elite, Zhou Jian is present, and Han troops are fearful. His judgment is that immediate rescue would confirm Ma Wu's dependency and fight on the enemy's best terms.
+汉纪 692 presents Wang Ba as a commander who turns restraint into the active part of command. After Ma Wu is defeated and asks for help, Wang Ba closes the gates because Su Mao's force is elite, Zhou Jian is present, and Han troops are fearful. His judgment is that immediate rescue would confirm Ma Wu's dependency and fight on the enemy's best terms.
 
 The first switch comes after Su Mao and Zhou Jian press Ma Wu for a long time. Wang Ba has shown the enemy that no rescue is coming and has forced Ma Wu's troops to fight for survival. Only then does he open a rear gate and send elite cavalry behind the enemy, creating a front-and-rear collapse.
 
@@ -28,17 +28,17 @@ The same source gives Wang Ba a compact career arc: legal and official family fo
 - Career figure rooted in legal/official training, self-recommendation to Liu Xiu, early military credit, titles, and long service.
 
 ## Evidence
-- Rescue-timing judgment: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] says Wang Ba refuses immediate help to Ma Wu because the enemy is strong and Han morale is weak.
-- Delayed attack: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] says Wang Ba waits until the enemy has fought long, then sends elite cavalry from the rear.
-- Fortified refusal: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] says Wang Ba refuses Su Mao and Zhou Jian's renewed challenge because he reads their poor provisions and desire for quick battle.
-- Career formation: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] links Wang Ba to legal learning, self-recommendation to Liu Xiu, early battle credit, marquisate, and generalship.
-- Frontier governance: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] records long Shanggu service, Feihu-line repair, Xiongnu/Wuhuan fighting, heqin memorials, and Wenshui transport advice.
+- Rescue-timing judgment: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] says Wang Ba refuses immediate help to Ma Wu because the enemy is strong and Han morale is weak.
+- Delayed attack: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] says Wang Ba waits until the enemy has fought long, then sends elite cavalry from the rear.
+- Fortified refusal: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] says Wang Ba refuses Su Mao and Zhou Jian's renewed challenge because he reads their poor provisions and desire for quick battle.
+- Career formation: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] links Wang Ba to legal learning, self-recommendation to Liu Xiu, early battle credit, marquisate, and generalship.
+- Frontier governance: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] records long Shanggu service, Feihu-line repair, Xiongnu/Wuhuan fighting, heqin memorials, and Wenshui transport advice.
 
 ## Qualifications
-This page is bounded to Hanji 692's compact biography and battle narration, not a full independent biography of Wang Ba. The transcript includes possible ASR ambiguity around Wang Ba's early battle opponents, Chuihui geography, Zhou Song's gate action, Liang King Liu Yu, Jiao Qiang, some titles, and frontier logistics; those details should remain source-scoped unless corroborated by later source notes.
+This page is bounded to 汉纪 692's compact biography and battle narration, not a full independent biography of Wang Ba. The transcript includes possible ASR ambiguity around Wang Ba's early battle opponents, Chuihui geography, Zhou Song's gate action, Liang King Liu Yu, Jiao Qiang, some titles, and frontier logistics; those details should remain source-scoped unless corroborated by later source notes.
 
 ## What Changed
-- Created this page from Hanji 692.
+- Created this page from 汉纪 692.
 - Established Wang Ba as both a morale-tempo battlefield commander and a northern-frontier governance actor.
 
 ## Relationships

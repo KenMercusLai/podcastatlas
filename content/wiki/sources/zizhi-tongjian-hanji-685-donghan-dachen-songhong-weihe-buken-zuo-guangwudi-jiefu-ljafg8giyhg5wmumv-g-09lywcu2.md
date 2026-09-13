@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a Jianwu 2 / 26 CE layer immediately before [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] and the later [[PengChongEasternHan|彭宠]] rebellion sequence. It pairs [[SongHongEasternHan|宋弘]]'s court-restraint and marriage-obligation scenes with Peng Chong's first move from disappointed founding ally to armed rebel against [[LiuXiu|光武帝刘秀]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a Jianwu 2 / 26 CE layer immediately before [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|汉纪 686]] and the later [[PengChongEasternHan|彭宠]] rebellion sequence. It pairs [[SongHongEasternHan|宋弘]]'s court-restraint and marriage-obligation scenes with Peng Chong's first move from disappointed founding ally to armed rebel against [[LiuXiu|光武帝刘秀]].
 
 The durable synthesis is that early Guangwu consolidation is already testing both ethics and coalition management: Song Hong can correct ruler pleasure and refuse a princess marriage without being crushed, while Peng Chong's perceived reward gap, preserved Yuyang resources, conflict with [[ZhuFuEasternHan|朱浮]], and reinforced local suspicion turn an old supporter into a regional threat.
 
@@ -44,10 +44,10 @@ The durable synthesis is that early Guangwu consolidation is already testing bot
 - [[PengChongEasternHan|彭宠]], [[RewardAllocationBacklash|分配反噬]], and [[FoundingMeritHierarchy|建国功臣排序]] - Peng's grievance begins as a perceived mismatch between founding contribution, rank, and public comparison.
 - [[PengChongEasternHan|彭宠]], [[ZhuFuEasternHan|朱浮]], and [[FoundingCommanderSuspicionManagement|建国将领消疑]] - local resources, policy conflict, and central suspicion turn a founding ally into a loyalty problem.
 - [[GengKuangEasternHan|耿况]] and [[GengYanEasternHan|耿弇]] - the rebellion tests whether Peng's old northern relationships can become a wider rebel coalition.
-- [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]], [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]], and [[zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm|Hanji 693]] - later notes show the Yan claim, campaign-priority debate, Geng-family response, and household-collapse end of the rebellion that begins here.
+- [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]], [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]], and [[zizhi-tongjian-hanji-693-panchu-liuxiu-de-pengchong-ruhe-yin-beipan-er-wang-lqler4fu9wqztsrgzsxhs1519nm|汉纪 693]] - later notes show the Yan claim, campaign-priority debate, Geng-family response, and household-collapse end of the rebellion that begins here.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the beginning of Peng Chong's break before Hanji 688, Hanji 690, and Hanji 693 describe later rebel strength, Liu Xiu's sequencing decision, and Peng Chong's death.
-- Chronology qualification: the Song Hong marriage scene is the primary early case later summarized comparatively in [[zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk|Hanji 878]]; it reinforces rather than replaces that late-Han forced-marriage contrast.
+- No settled contradiction with existing wiki content was found. This source backfills the beginning of Peng Chong's break before 汉纪 688, 汉纪 690, and 汉纪 693 describe later rebel strength, Liu Xiu's sequencing decision, and Peng Chong's death.
+- Chronology qualification: the Song Hong marriage scene is the primary early case later summarized comparatively in [[zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk|汉纪 878]]; it reinforces rather than replaces that late-Han forced-marriage contrast.
 - Scope caution: Yuyang commandery resources, Ji city, exact office titles, Peng Chong's wife, Peng Chong's cousin, iron-office administration, and minor envoy details remain source-scoped pending a properly disambiguated place or actor page.

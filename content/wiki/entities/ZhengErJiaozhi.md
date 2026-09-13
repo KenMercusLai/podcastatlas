@@ -15,11 +15,11 @@ last_updated: 2026-09-01
 
 ## Current Profile
 
-Hanji 718 introduces Zheng Er through her joint action with Zheng Ce. After [[SuDingJiaozhi|苏定]] attempts to punish Zheng Ce, the sisters revolt together in spring 40 CE. The revolt spreads beyond Miling as Jiuzhen, Rinan, Hepu, and other groups respond, and Zheng Ce turns the revolt into a sovereign claim.
+汉纪 718 introduces Zheng Er through her joint action with Zheng Ce. After [[SuDingJiaozhi|苏定]] attempts to punish Zheng Ce, the sisters revolt together in spring 40 CE. The revolt spreads beyond Miling as Jiuzhen, Rinan, Hepu, and other groups respond, and Zheng Ce turns the revolt into a sovereign claim.
 
 Zheng Er's current profile is therefore relational but important. She is not merely a family detail; the source frames the revolt as a sister-led political event, and [[FemaleRebelSovereignty|女性起义称王]] depends on the shared action of the two women even though Zheng Ce is the ruler named as declaring herself king.
 
-Hanji 718 and Hanji 720 both give the end of the branch. In 43 CE, Ma Yuan suppresses the Jiaozhi revolt, defeats and kills Zheng Ce and Zheng Er, and the campaign becomes part of the Eastern Han southern-frontier restoration sequence.
+汉纪 718 and 汉纪 720 both give the end of the branch. In 43 CE, Ma Yuan suppresses the Jiaozhi revolt, defeats and kills Zheng Ce and Zheng Er, and the campaign becomes part of the Eastern Han southern-frontier restoration sequence.
 
 ## Key Characteristics
 
@@ -30,11 +30,11 @@ Hanji 718 and Hanji 720 both give the end of the branch. In 43 CE, Ma Yuan suppr
 
 ## Evidence
 
-- Joint uprising: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Zheng Ce and Zheng Er revolt together in spring 40 CE.
-- Coalition setting: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Jiuzhen, Rinan, Hepu, and other groups respond to the revolt.
-- Sovereignty branch: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Zheng Ce seizes sixty-five cities, declares herself king, and sets the capital at Miling, making Zheng Er part of a female-led kingship event.
-- Suppression outcome: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan kills Zheng Ce and Zheng Er in 43 CE.
-- Campaign continuity: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] repeats that Ma Yuan defeats and kills Zheng Ce and Zheng Er during the Jiaozhi campaign.
+- Joint uprising: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Zheng Ce and Zheng Er revolt together in spring 40 CE.
+- Coalition setting: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Jiuzhen, Rinan, Hepu, and other groups respond to the revolt.
+- Sovereignty branch: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Zheng Ce seizes sixty-five cities, declares herself king, and sets the capital at Miling, making Zheng Er part of a female-led kingship event.
+- Suppression outcome: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Ma Yuan kills Zheng Ce and Zheng Er in 43 CE.
+- Campaign continuity: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] repeats that Ma Yuan defeats and kills Zheng Ce and Zheng Er during the Jiaozhi campaign.
 
 ## Qualifications
 
@@ -42,8 +42,8 @@ The current wiki has no independent Zheng Er biography beyond her role with Zhen
 
 ## What Changed
 
-- Created Zheng Er as a canonical page rather than leaving her as a source-scoped name in Hanji 720.
-- Added the sister-led revolt role from Hanji 718 and the 43 CE defeat confirmation from Hanji 720.
+- Created Zheng Er as a canonical page rather than leaving her as a source-scoped name in 汉纪 720.
+- Added the sister-led revolt role from 汉纪 718 and the 43 CE defeat confirmation from 汉纪 720.
 
 ## Relationships
 

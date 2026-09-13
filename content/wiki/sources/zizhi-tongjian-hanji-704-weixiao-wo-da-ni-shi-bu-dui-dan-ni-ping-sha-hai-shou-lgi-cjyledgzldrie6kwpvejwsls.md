@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the pre-Hanji 705-1 Guangwu western layer around [[WeiXiaoEasternHan|隗嚣]] after defeat. It follows [[MaYuanEasternHan|马援]] warning [[YangGuangWeiXiaoRetainer|杨广]] that Wei Xiao's two-commandery position cannot survive against the rest of the realm, Wei Xiao's apologetic but conditional letter to [[LiuXiu|刘秀]], Liu Xiu's refusal to kill Wei Xun and his counteroffer of title preservation through restraint and another hostage, and Wei Xiao's eventual turn to [[GongsunShuEasternHan|公孙述]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the pre-汉纪 705-1 Guangwu western layer around [[WeiXiaoEasternHan|隗嚣]] after defeat. It follows [[MaYuanEasternHan|马援]] warning [[YangGuangWeiXiaoRetainer|杨广]] that Wei Xiao's two-commandery position cannot survive against the rest of the realm, Wei Xiao's apologetic but conditional letter to [[LiuXiu|刘秀]], Liu Xiu's refusal to kill Wei Xun and his counteroffer of title preservation through restraint and another hostage, and Wei Xiao's eventual turn to [[GongsunShuEasternHan|公孙述]].
 
 The closing widens the same moment into early northern frontier pressure: [[Xiongnu|匈奴]] and [[LuFangEasternHan|卢芳]] continue raiding while Liu Xiu sends Guide Hou Liu Sa to seek renewed [[HanXiongnuHeqinPolicy|Han-Xiongnu heqin]] relations. The durable synthesis is that [[FaceSavingSubmissionFailure|face-saving conditional surrender]] can destroy a viable exit: Wei Xiao tries to apologize without truly submitting, and Liu Xiu reads the test as non-credible.
 
@@ -47,6 +47,6 @@ The closing widens the same moment into early northern frontier pressure: [[Xion
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills a defeated-but-still-bargaining Wei Xiao layer before Hanji 705-1's Anding/Lüeyang pressure and Hanji 707's later Xicheng refusal-and-rescue sequence.
+- Chronology qualification: this source backfills a defeated-but-still-bargaining Wei Xiao layer before 汉纪 705-1's Anding/Lüeyang pressure and 汉纪 707's later Xicheng refusal-and-rescue sequence.
 - Identity qualification: 杨广 is disambiguated as [[YangGuangWeiXiaoRetainer|Yang Guang, Wei Xiao retainer]], not [[YangGuangSui|Emperor Yang of Sui]] or [[YangGuangxian|Yang Guangxian]].
 - Scope caution: Niu Han, Wei Xun, Liu Sa, the exact commandery arithmetic, and the inner motives of Wei Xiao's faction remain source-scoped unless later evidence warrants standalone pages.

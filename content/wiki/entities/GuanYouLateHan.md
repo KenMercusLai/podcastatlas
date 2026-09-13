@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 贯友 / Guan You was an Eastern Han Protector of the Qiang whose source-bounded profile centers on splitting a Qiang alliance before striking [[MiTangQiangLeader|Mi Tang]]. He represents frontier command as political fragmentation, logistics, and terrain control rather than battle alone.
 
 ## Current Profile
-In Hanji 768, Guan You used interpreters, envoys, and money to separate other Qiang groups from Mi Tang's coalition. He then attacked in the large and small Yu valley area, killed or captured a reported 800-plus people, seized wheat, built fortifications, made boats, bridged the Fengliu river crossing, and forced Mi Tang to withdraw farther from Han-controlled space.
+In 汉纪 768, Guan You used interpreters, envoys, and money to separate other Qiang groups from Mi Tang's coalition. He then attacked in the large and small Yu valley area, killed or captured a reported 800-plus people, seized wheat, built fortifications, made boats, bridged the Fengliu river crossing, and forced Mi Tang to withdraw farther from Han-controlled space.
 
 ## Key Characteristics
 - Frontier commander whose first move was alliance fracture rather than direct battle.
@@ -22,9 +22,9 @@ In Hanji 768, Guan You used interpreters, envoys, and money to separate other Qi
 - Provides an early layer for Mi Tang before later Longxi, surrender, and incorporation episodes.
 
 ## Evidence
-- Coalition-splitting method: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says Guan You sent interpreters and envoys with money to divide Qiang groups from Mi Tang.
-- Attack and material seizure: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] reports an attack in the Yu valleys, a large casualty or capture count, and the seizure of stored wheat.
-- Logistical consolidation: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says Guan You fortified positions, built boats, and bridged the Fengliu river, causing Mi Tang to flee farther away.
+- Coalition-splitting method: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]] says Guan You sent interpreters and envoys with money to divide Qiang groups from Mi Tang.
+- Attack and material seizure: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]] reports an attack in the Yu valleys, a large casualty or capture count, and the seizure of stored wheat.
+- Logistical consolidation: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]] says Guan You fortified positions, built boats, and bridged the Fengliu river, causing Mi Tang to flee farther away.
 
 ## Qualifications
 Guan You's profile currently comes from one source note, so the scale of the campaign and the precise geography of the Yu valleys and Fengliu river remain source-scoped. Later Mi Tang pages show that this success did not permanently solve the Qiang frontier.

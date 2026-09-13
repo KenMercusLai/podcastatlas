@@ -16,11 +16,11 @@ last_updated: 2026-09-01
 
 ## Current Synthesis
 
-Hanji 757 creates the concept through [[ZhangYuEasternHan|Zhang Yu]] and [[MiWuQiangLeader|Mi Wu]]. After Mi Wu is defeated, he sends an interpreter to request surrender and comes to Linqiang with his leaders. Zhang Yu then holds a banquet, poisons the wine, uses ambush troops, kills Mi Wu and many Qiang chiefs, and turns Mi Wu's head into revenge at [[FuYuEasternHan|Fu Yu]]'s grave.
+汉纪 757 creates the concept through [[ZhangYuEasternHan|Zhang Yu]] and [[MiWuQiangLeader|Mi Wu]]. After Mi Wu is defeated, he sends an interpreter to request surrender and comes to Linqiang with his leaders. Zhang Yu then holds a banquet, poisons the wine, uses ambush troops, kills Mi Wu and many Qiang chiefs, and turns Mi Wu's head into revenge at [[FuYuEasternHan|Fu Yu]]'s grave.
 
-Hanji 713 adds a city-scale conquest case. After [[YanCenEasternHan|Yan Cen]] offers [[Chengdu]] in surrender, [[WuHanEasternHan|Wu Han]] kills [[GongsunShuEasternHan|Gongsun Shu]]'s household and clan, destroys Yan Cen's clan, and allows looting and burning. [[LiuXiu|Liu Xiu]]'s rebuke makes the breach explicit: the city had surrendered and the officials and civilians had already submitted, so post-surrender plunder violates the protection expectation attached to surrender.
+汉纪 713 adds a city-scale conquest case. After [[YanCenEasternHan|Yan Cen]] offers [[Chengdu]] in surrender, [[WuHanEasternHan|Wu Han]] kills [[GongsunShuEasternHan|Gongsun Shu]]'s household and clan, destroys Yan Cen's clan, and allows looting and burning. [[LiuXiu|Liu Xiu]]'s rebuke makes the breach explicit: the city had surrendered and the officials and civilians had already submitted, so post-surrender plunder violates the protection expectation attached to surrender.
 
-The immediate result is not pacification. [[MiTangQiangLeader|Mi Tang]] responds after his father's death by ending feuds with other groups, intermarrying, exchanging hostages, and concentrating a stronger rebellion in the large and small Yu valleys. Hanji 760 then supplies the later diagnostic layer through [[DengXunEasternHan|Deng Xun]], who treats prior bad faith as a cause of Qiang rebellion and chooses protective trust-building with threatened Hu groups instead.
+The immediate result is not pacification. [[MiTangQiangLeader|Mi Tang]] responds after his father's death by ending feuds with other groups, intermarrying, exchanging hostages, and concentrating a stronger rebellion in the large and small Yu valleys. 汉纪 760 then supplies the later diagnostic layer through [[DengXunEasternHan|Deng Xun]], who treats prior bad faith as a cause of Qiang rebellion and chooses protective trust-building with threatened Hu groups instead.
 
 ## Key Claims
 
@@ -34,22 +34,22 @@ The immediate result is not pacification. [[MiTangQiangLeader|Mi Tang]] responds
 
 ## Evidence
 
-- Surrender contact: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Mi Wu sends an interpreter to request surrender and comes to Linqiang with his commanders.
-- Banquet betrayal: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Zhang Yu poisons the banquet and kills Mi Wu and many Qiang leaders.
-- City surrender breach: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Yan Cen offers Chengdu in surrender, after which Wu Han kills Gongsun Shu's household and clan, destroys Yan Cen's clan, and allows looting and burning.
-- Official-civilian protection norm: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Liu Xiu rebukes Wu Han and Liu Shang because Chengdu had surrendered and officials and civilians had submitted.
-- Coalition effect: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Mi Tang later reconciles groups, creates marriage ties, exchanges hostages, and continues rebellion with stronger combined forces.
-- Later diagnosis: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Deng Xun connects Qiang rebellion to earlier official bad faith before adopting a protective strategy toward Hu groups.
-- Contrasting repair: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Deng protects Hu wives and children and then converts that trust into submission and operational help against Mi Tang.
+- Surrender contact: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Mi Wu sends an interpreter to request surrender and comes to Linqiang with his commanders.
+- Banquet betrayal: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Zhang Yu poisons the banquet and kills Mi Wu and many Qiang leaders.
+- City surrender breach: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Yan Cen offers Chengdu in surrender, after which Wu Han kills Gongsun Shu's household and clan, destroys Yan Cen's clan, and allows looting and burning.
+- Official-civilian protection norm: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Liu Xiu rebukes Wu Han and Liu Shang because Chengdu had surrendered and officials and civilians had submitted.
+- Coalition effect: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Mi Tang later reconciles groups, creates marriage ties, exchanges hostages, and continues rebellion with stronger combined forces.
+- Later diagnosis: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says Deng Xun connects Qiang rebellion to earlier official bad faith before adopting a protective strategy toward Hu groups.
+- Contrasting repair: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says Deng protects Hu wives and children and then converts that trust into submission and operational help against Mi Tang.
 
 ## Counterevidence & Qualifications
 
-The concept does not say force is never used after surrender, nor does it reconstruct every legal norm around surrender. It applies to source patterns where surrender contact, banquet hospitality, or submitted-city status become tools or opportunities for killing. Hanji 757 reports immediate military success against remnants, so the qualification is about durable credibility, not about whether Zhang Yu inflicted casualties. Hanji 713 reports Liu Xiu's anger but not formal punishment for Wu Han or Liu Shang, so it proves the norm and breach more clearly than the sanction mechanism.
+The concept does not say force is never used after surrender, nor does it reconstruct every legal norm around surrender. It applies to source patterns where surrender contact, banquet hospitality, or submitted-city status become tools or opportunities for killing. 汉纪 757 reports immediate military success against remnants, so the qualification is about durable credibility, not about whether Zhang Yu inflicted casualties. 汉纪 713 reports Liu Xiu's anger but not formal punishment for Wu Han or Liu Shang, so it proves the norm and breach more clearly than the sanction mechanism.
 
 ## What Changed
 
-- Added Hanji 713 as a city-scale surrender breach: Yan Cen offers Chengdu, but Wu Han destroys households and permits sack until Liu Xiu rebukes the violation.
-- Preserved Hanji 757's Zhang Yu banquet killing and Hanji 760's later Deng Xun trust-repair contrast.
+- Added 汉纪 713 as a city-scale surrender breach: Yan Cen offers Chengdu, but Wu Han destroys households and permits sack until Liu Xiu rebukes the violation.
+- Preserved 汉纪 757's Zhang Yu banquet killing and 汉纪 760's later Deng Xun trust-repair contrast.
 
 ## Related Concepts
 

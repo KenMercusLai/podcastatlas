@@ -33,12 +33,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses workpl
 > "中立本质上只是强者博弈的缓冲带" - the host's generalization about neutral space in warlord competition.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] - earlier Liu Biao evaluation that credits him with [[DefensiveLocalGovernance|保境安民式守成治理]] while noting his strategic ceiling.
-- [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] - follow-on source where Zhang Xian and Huan Jie's attachment to Cao Cao is recalled as background before Sun Ce's Jiangdong consolidation.
+- [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|汉纪 1010]] - earlier Liu Biao evaluation that credits him with [[DefensiveLocalGovernance|保境安民式守成治理]] while noting his strategic ceiling.
+- [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|汉纪 1028]] - follow-on source where Zhang Xian and Huan Jie's attachment to Cao Cao is recalled as background before Sun Ce's Jiangdong consolidation.
 - [[LiuBiao|刘表]], [[Jingzhou|荆州]], [[XiangyangLateHan|襄阳]], [[SouthernJingzhouLateHan|荆南]], [[DengXiLateHan|邓羲]], [[ZhangXianLateHan|张献]], and [[HuanJieLateHan|桓阶]] - main Jingzhou actors and structural setting.
 - [[CaoCao|曹操]], [[YuanShao|袁绍]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[HuangZu|黄祖]], [[WuxiMan|五溪蛮]], and [[ShaMoke|沙摩柯]] - external powers and response channels.
 - [[FenceSittingStrategicExposure|骑墙式战略暴露]], [[FactionalAlignmentExitCapital|派系站队退出资本]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[DefensiveLocalGovernance|保境安民式守成治理]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - conceptual frames.
 
 ## Contradictions
-- No settled contradiction found. This source qualifies, rather than overturns, earlier Liu Biao pages: Hanji 953 and Hanji 1010 show his initial consolidation and defensive governance skill, while Hanji 1027 shows how that same defensive posture becomes vulnerable when southern commanderies and external patrons exploit Jingzhou's internal fractures.
+- No settled contradiction found. This source qualifies, rather than overturns, earlier Liu Biao pages: 汉纪 953 and 汉纪 1010 show his initial consolidation and defensive governance skill, while 汉纪 1027 shows how that same defensive posture becomes vulnerable when southern commanderies and external patrons exploit Jingzhou's internal fractures.
 - Source-scope caution: the workplace factional-alignment guidance, the 30% independent-output and 80-90% portable-capital formulas, and the exact taxation/force percentages are retained as the host's source-scoped interpretive framing.

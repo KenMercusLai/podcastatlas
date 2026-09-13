@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》990丨李傕&郭汜：生死冤家为何突然联手？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]]. In 195 CE, [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] attack [[DuanWeiLateHan|段煨]] around Huayin while [[EmperorXianOfHan|汉献帝]] refuses to authorize the attack, and [[ZhangJiLateHan|张济]] then shifts back toward [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]]. The episode's main contribution is to show how the emperor's body remains the highest political chip: Li Jue and Guo Si suspend their feud not from reconciliation, but because losing the emperor would make their private victory strategically empty.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|汉纪 991]]. In 195 CE, [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] attack [[DuanWeiLateHan|段煨]] around Huayin while [[EmperorXianOfHan|汉献帝]] refuses to authorize the attack, and [[ZhangJiLateHan|张济]] then shifts back toward [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]]. The episode's main contribution is to show how the emperor's body remains the highest political chip: Li Jue and Guo Si suspend their feud not from reconciliation, but because losing the emperor would make their private victory strategically empty.
 
 ## Key Claims
 - In 195 CE, [[EmperorXianOfHan|汉献帝]] is moving east while former [[DongZhuo|董卓]] subordinates compete to control, escort, or exploit the court.
@@ -32,10 +32,10 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Connections
 - [[EmperorXianOfHan|汉献帝]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[DuanWeiLateHan|段煨]], and [[YangDingLateHan|杨定]] - core dispute over route control, grain, and possession of the emperor.
-- [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]] - emperor-escort actors who join the anti-Duan attack before their later emergency escort role in Hanji 991.
+- [[DongChengLateHan|董承]] and [[YangFengLateHan|杨奉]] - emperor-escort actors who join the anti-Duan attack before their later emergency escort role in 汉纪 991.
 - [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[LegitimacyWindowSeizure|合法性窗口抢占]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - the emperor's value turns protectors into captors and enemies into temporary allies.
 - [[XingshiqingStrategicAssessment|行势情战略评估]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[HanFei|韩非]] - host's frame for judging Duan Wei's survival and Yang Ding's failure.
-- [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]] - next source, continuing into the pursuit, battle, minister capture, and night river crossing.
+- [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|汉纪 991]] - next source, continuing into the pursuit, battle, minister capture, and night river crossing.
 
 ## Contradictions
 - No settled contradiction found.

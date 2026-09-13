@@ -15,9 +15,9 @@ Confidential remonstrance leakage / 密奏泄露风险 is the failure mode where
 
 ## Current Synthesis
 
-The concept now spans Western Han and late Eastern Han cases. [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] adds the Western Han version through [[ShiDanWesternHan|施丹]]. Shi Dan's sealed memorial is copied by a subordinate and circulates outside the intended channel; because he is already exposed after opposing [[HanAidi|汉哀帝]]'s Dingtao-line elevation, Ding/Fu-linked opponents can frame the leak as a public breach of ruler-minister secrecy.
+The concept now spans Western Han and late Eastern Han cases. [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|汉纪 575]] adds the Western Han version through [[ShiDanWesternHan|施丹]]. Shi Dan's sealed memorial is copied by a subordinate and circulates outside the intended channel; because he is already exposed after opposing [[HanAidi|汉哀帝]]'s Dingtao-line elevation, Ding/Fu-linked opponents can frame the leak as a public breach of ruler-minister secrecy.
 
-[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] supplies the later, more faction-intelligence version through [[CaiYong|蔡邕]]. Cai Yong asks [[EmperorLingOfHan|汉灵帝]] to keep his memorial private because it names harem, eunuch, personnel, and appointment problems. [[CaoJieLateHan|曹节]] reads the emperor's reaction, sees the memorial, and leaks it to the criticized network, setting up retaliation in [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]].
+[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|汉纪 912]] supplies the later, more faction-intelligence version through [[CaiYong|蔡邕]]. Cai Yong asks [[EmperorLingOfHan|汉灵帝]] to keep his memorial private because it names harem, eunuch, personnel, and appointment problems. [[CaoJieLateHan|曹节]] reads the emperor's reaction, sees the memorial, and leaks it to the criticized network, setting up retaliation in [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|汉纪 913]].
 
 The shared point is that confidentiality is not ornamental. In Shi Dan's case, the leak lets enemies turn a sealed submission into proof of disrespect. In Cai Yong's case, it lets the criticized faction identify the accusation and prepare revenge. A leaked plan exposes intended action; a leaked remonstrance exposes the speaker's knowledge, targets, and dependence on imperial protection.
 
@@ -32,21 +32,21 @@ The shared point is that confidentiality is not ornamental. In Shi Dan's case, t
 
 ## Evidence
 
-- Western Han leakage penalty: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] says Shi Dan's subordinate copies and circulates a sealed memorial, allowing opponents to say even commoners have seen a private submission.
-- Reverence escalation: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] says the Tingwei treats the leaked memorial as "大不敬" rather than only clerical negligence.
-- Confidentiality request: [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] says Cai Yong asks Emperor Ling to keep his memorial secret because jealous retaliation is likely.
-- Inner-court leak: [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] says Cao Jie sees the confidential memorial and leaks it to the criticized network.
-- Retaliation setup: [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] says the leak sets up Cheng Huang's anonymous accusation and Cai Yong's later punishment branch.
+- Western Han leakage penalty: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|汉纪 575]] says Shi Dan's subordinate copies and circulates a sealed memorial, allowing opponents to say even commoners have seen a private submission.
+- Reverence escalation: [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|汉纪 575]] says the Tingwei treats the leaked memorial as "大不敬" rather than only clerical negligence.
+- Confidentiality request: [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|汉纪 912]] says Cai Yong asks Emperor Ling to keep his memorial secret because jealous retaliation is likely.
+- Inner-court leak: [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|汉纪 912]] says Cao Jie sees the confidential memorial and leaks it to the criticized network.
+- Retaliation setup: [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|汉纪 912]] says the leak sets up Cheng Huang's anonymous accusation and Cai Yong's later punishment branch.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim that secrecy makes every memorial correct or that every leak has the same cause. Hanji 575 emphasizes subordinate handling, hostile court context, and reverence language; Hanji 912 emphasizes palace access and factional retaliation. Neither source provides a complete legal code for confidential memorials, and the exact leak path in Shi Dan's case remains source-scoped.
+The concept does not claim that secrecy makes every memorial correct or that every leak has the same cause. 汉纪 575 emphasizes subordinate handling, hostile court context, and reverence language; 汉纪 912 emphasizes palace access and factional retaliation. Neither source provides a complete legal code for confidential memorials, and the exact leak path in Shi Dan's case remains source-scoped.
 
 ## What Changed
 
 - Migrated the legacy concept to `synthesis-v1`.
-- Added Hanji 575's Western Han leak case, distinguishing reverence-punishment from later faction-intelligence leakage.
-- Preserved Hanji 912's Cai Yong case as the clearest example of leaked remonstrance becoming retaliation intelligence.
+- Added 汉纪 575's Western Han leak case, distinguishing reverence-punishment from later faction-intelligence leakage.
+- Preserved 汉纪 912's Cai Yong case as the clearest example of leaked remonstrance becoming retaliation intelligence.
 
 ## Related Concepts
 

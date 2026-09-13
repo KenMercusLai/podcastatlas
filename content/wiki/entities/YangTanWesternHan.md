@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-杨潭 / Yang Tan enters the wiki through [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] as [[YangYunWesternHan|杨恽]]'s nephew and Anping marquis, a kin adviser who tries to reassure Yang Yun that his offense may not permanently end his career.
+杨潭 / Yang Tan enters the wiki through [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] as [[YangYunWesternHan|杨恽]]'s nephew and Anping marquis, a kin adviser who tries to reassure Yang Yun that his offense may not permanently end his career.
 
 ## Current Profile
 
@@ -28,11 +28,11 @@ Yang Tan is then drawn into the consequences. The episode says he is demoted to 
 ## Evidence
 
 Advice and rejected restoration logic:
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Yang Tan tells Yang Yun that his offense may not be too serious and that his earlier merit may allow future reuse.
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Yang Yun rejects that hope by saying merit is useless and service to the ruler is not worth it.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Yang Tan tells Yang Yun that his offense may not be too serious and that his earlier merit may allow future reuse.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Yang Yun rejects that hope by saying merit is useless and service to the ruler is not worth it.
 
 Punishment:
-- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] says Yang Tan is demoted to commoner status after Yang Yun is sentenced.
+- [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] says Yang Tan is demoted to commoner status after Yang Yun is sentenced.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ This page is source-scoped to Yang Tan's role in Yang Yun's case. The episode do
 
 ## What Changed
 
-- Created the page from Hanji 457's kin-advice and demotion material.
+- Created the page from 汉纪 457's kin-advice and demotion material.
 
 ## Relationships
 

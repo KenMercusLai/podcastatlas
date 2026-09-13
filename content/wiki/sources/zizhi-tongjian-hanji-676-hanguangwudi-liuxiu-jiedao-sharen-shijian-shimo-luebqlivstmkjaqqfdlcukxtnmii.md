@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 1 / 25 CE moment immediately before [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|Hanji 677]] and before [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]]'s Luoyang surrender. It centers on [[FengYiEasternHan|冯异]] persuading [[LiYiGengshiGeneral|李轶]] into correspondence and noncombat, then [[LiuXiu|光武帝刘秀]] publicizing Li Yi's letters so [[ZhuWeiEasternHan|朱鲔]] suspects and attacks him.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 1 / 25 CE moment immediately before [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv|汉纪 677]] and before [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]]'s Luoyang surrender. It centers on [[FengYiEasternHan|冯异]] persuading [[LiYiGengshiGeneral|李轶]] into correspondence and noncombat, then [[LiuXiu|光武帝刘秀]] publicizing Li Yi's letters so [[ZhuWeiEasternHan|朱鲔]] suspects and attacks him.
 
 The military branch follows [[KouXunEasternHan|寇恂]] and Feng Yi as they break [[SuMaoEasternHan|苏茂]] and Zhu Wei around Wen county, Pingyin, and [[LuoyangLateHan|洛阳]]. The political branch follows repeated accession pressure from Ma Wu, [[GengChunEasternHan|耿纯]], Feng Yi, and [[QiangHuaEasternHan|强华]]'s prophetic text, ending with Liu Xiu's imperial accession on the sixth month twenty-second.
 
@@ -46,6 +46,6 @@ The military branch follows [[KouXunEasternHan|寇恂]] and Feng Yi as they brea
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology caution: this source backfills the pre-accession Jianwu 1 / 25 CE layer; Hanji 677 already assumes Liu Xiu has become emperor, and Hanji 679 later shows Zhu Wei's final Luoyang surrender.
+- Chronology caution: this source backfills the pre-accession Jianwu 1 / 25 CE layer; 汉纪 677 already assumes Liu Xiu has become emperor, and 汉纪 679 later shows Zhu Wei's final Luoyang surrender.
 - Identity caution: transcript forms 冯毅, 李毅, 朱伟, 寇勋, 贾富, and 武汉 are normalized here as 冯异, 李轶, 朱鲔, 寇恂, 贾复, and 吴汉. This source's Li Yi is kept distinct from [[LiYiEasternHan|李邑 / Li Yi]], the later Western Regions envoy.
 - Scope caution: Wu Bo, Jia Qiang, exact river and county forms, the Youlai/Wuxiao pursuit geography, and the host's "真命天子" interpretation remain source-scoped until later notes require standalone pages.

@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 22 CE late-[[XinDynasty|新朝]] crisis before [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]]. It begins with [[WangMang|王莽]]'s extravagant Nine Temples ceremony, then turns to eastern famine, [[FanChongChimei|樊崇]]'s organized [[ChimeiRebellion|赤眉]] movement, official-army civilian abuse under [[WangKuangXinGeneral|王匡]] and [[LianDanXinGeneral|廉丹]], [[LulinRebellion|绿林]] fragmentation into Xiajiang and New Market troops, and corrupt relief that leaves refugees dying after they enter Guanzhong.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 22 CE late-[[XinDynasty|新朝]] crisis before [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]]. It begins with [[WangMang|王莽]]'s extravagant Nine Temples ceremony, then turns to eastern famine, [[FanChongChimei|樊崇]]'s organized [[ChimeiRebellion|赤眉]] movement, official-army civilian abuse under [[WangKuangXinGeneral|王匡]] and [[LianDanXinGeneral|廉丹]], [[LulinRebellion|绿林]] fragmentation into Xiajiang and New Market troops, and corrupt relief that leaves refugees dying after they enter Guanzhong.
 
 The durable synthesis is that Chimei's birth belongs to a wider state-capacity collapse rather than a simple bandit origin story. The episode pairs symbolic overreach at court with local hunger, corrupt granary distribution, predatory market administration under [[WangYeXinOfficial|王业]], command constraints criticized by [[YanYouXinGeneral|严尤]], and [[FengYanEasternHan|冯衍]]'s warning to Lian Dan that public sentiment had shifted back toward Han.
 
@@ -45,11 +45,11 @@ The durable synthesis is that Chimei's birth belongs to a wider state-capacity c
 - [[LulinRebellion|绿林]], [[WangChangXiajiangGengshi|王常]], Xiajiang troops, New Market troops, and Ma Wu - disease and displacement push the revolt field into separate armed branches before the later Liu Yan/Liu Xiu coalition.
 - [[YanYouXinGeneral|严尤]], Chen Mao, Kong Ren, and [[CommandAuthorityBottleneck|将权掣肘]] - the source shows Xin commanders criticizing a system that sends generals while withholding operational autonomy.
 - [[FengYanEasternHan|冯衍]] and [[HanRestorationPublicSentiment|汉室人心回归]] - Feng Yan's advice to Lian Dan supplies the earlier political reading behind his later former-Gengshi surrender profile.
-- [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]] and [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] - direct continuation into Liu Xiu's first appearance and the widening anti-Xin coalition.
+- [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]] and [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] - direct continuation into Liu Xiu's first appearance and the widening anti-Xin coalition.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 22 CE before Hanji 661's Liu Xiu/Chongling mobilization and before Hanji 662-663's wider Lulin-Gengshi coalition.
+- Chronology qualification: this source backfills 22 CE before 汉纪 661's Liu Xiu/Chongling mobilization and before 汉纪 662-663's wider Lulin-Gengshi coalition.
 - Identity qualification: Wang Kuang in this source is routed to [[WangKuangXinGeneral|王匡 / Wang Kuang (Xin general)]] and kept distinct from [[WangKuangXinPrince|Wang Kuang / 王匡 (Xin prince)]] and [[WangKuangLateHan|王匡 / Wang Kuang (late Han)]]. Feng Yan is routed to the existing [[FengYanEasternHan|冯衍]] page.
 - Scope caution: Jing Shang, Chen Mao, Kong Ren, Chen Mu, Liao Zhan, Wang Feng, Ma Wu, Pingling troops, precise offices, grass-paste famine advice details, force counts, and the opening "mystery" remain source-scoped unless later notes require canonical pages.

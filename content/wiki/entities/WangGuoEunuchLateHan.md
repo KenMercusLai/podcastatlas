@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-王国 / Wang Guo is the Shun-restoration eunuch named in Hanji 804. This page disambiguates him from the later Liangzhou rebel [[WangGuoLateHan|王国 / Wang Guo (late Han)]] because the two actors share a rendered name but belong to different political contexts.
+王国 / Wang Guo is the Shun-restoration eunuch named in 汉纪 804. This page disambiguates him from the later Liangzhou rebel [[WangGuoLateHan|王国 / Wang Guo (late Han)]] because the two actors share a rendered name but belong to different political contexts.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] places this Wang Guo inside the nineteen-eunuch merit group after [[EmperorShunOfHan|汉顺帝]]'s restoration. [[SunChengLateHan|Sun Cheng]] receives the leading reward, while [[WangKangLateHan|Wang Kang]] and Wang Guo receive the next level.
+[[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] places this Wang Guo inside the nineteen-eunuch merit group after [[EmperorShunOfHan|汉顺帝]]'s restoration. [[SunChengLateHan|Sun Cheng]] receives the leading reward, while [[WangKangLateHan|Wang Kang]] and Wang Guo receive the next level.
 
 The source's interpretive use of Wang Guo is relational. The host reads Sun Cheng's decision not to punish Wang Kang after the Miao Guang list issue partly as a balancing move: keeping Wang Kang available prevents Wang Guo from becoming the only powerful second-rank figure inside the eunuch merit group.
 
@@ -26,13 +26,13 @@ The source's interpretive use of Wang Guo is relational. The host reads Sun Chen
 
 ## Evidence
 
-- Disambiguated identity: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] names Wang Guo among Shun-restoration eunuchs, a different context from the later Liangzhou rebel Wang Guo.
-- Reward rank: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] says Wang Kang and Wang Guo receive the next-level reward below Sun Cheng.
-- Balance function: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] reads Sun Cheng's leniency toward Wang Kang partly as keeping a counterweight to Wang Guo.
+- Disambiguated identity: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] names Wang Guo among Shun-restoration eunuchs, a different context from the later Liangzhou rebel Wang Guo.
+- Reward rank: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] says Wang Kang and Wang Guo receive the next-level reward below Sun Cheng.
+- Balance function: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] reads Sun Cheng's leniency toward Wang Kang partly as keeping a counterweight to Wang Guo.
 
 ## Qualifications
 
-This page is bounded to Hanji 804 and exists primarily to prevent an identity collision. It does not establish Wang Guo's full biography, later offices, or faction. Later evidence may rename or expand the page if the eunuch Wang Guo recurs.
+This page is bounded to 汉纪 804 and exists primarily to prevent an identity collision. It does not establish Wang Guo's full biography, later offices, or faction. Later evidence may rename or expand the page if the eunuch Wang Guo recurs.
 
 ## What Changed
 

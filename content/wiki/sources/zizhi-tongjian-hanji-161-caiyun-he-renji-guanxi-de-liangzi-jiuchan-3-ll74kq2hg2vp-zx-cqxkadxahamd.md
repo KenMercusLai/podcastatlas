@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Hanji 161 reflective sequence after [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv|part 2]] by turning "quantum interference" into a practice of self-observation, meditation, retreat, and inner steadiness. The host says repeated problems in wealth, relationships, and family life should prompt a person to inspect their own thought, speech, action, resentment, and love rather than only blame outside conditions. The second half brings in [[JingangJing|《金刚经》]], [[Daodejing|《道德经》]], [[ShakyamuniBuddha|释迦牟尼佛]], [[NikolaTesla|尼古拉·特斯拉]], and [[TianrenGanyingProjectionFrame|天人感应投射框架]] to present reality as a source-scoped field of mind, appearance, consciousness frequency, and high-dimensional unity.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the 汉纪 161 reflective sequence after [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv|part 2]] by turning "quantum interference" into a practice of self-observation, meditation, retreat, and inner steadiness. The host says repeated problems in wealth, relationships, and family life should prompt a person to inspect their own thought, speech, action, resentment, and love rather than only blame outside conditions. The second half brings in [[JingangJing|《金刚经》]], [[Daodejing|《道德经》]], [[ShakyamuniBuddha|释迦牟尼佛]], [[NikolaTesla|尼古拉·特斯拉]], and [[TianrenGanyingProjectionFrame|天人感应投射框架]] to present reality as a source-scoped field of mind, appearance, consciousness frequency, and high-dimensional unity.
 
 ## Key Claims
 - The episode opens from "quantum interference" in intimate relationships: a planned marriage can be disrupted by another relationship pull, which the host reads as either fate or unconscious resistance.
@@ -37,7 +37,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 > "凡有所相，皆是虚妄" - the [[JingangJing|《金刚经》]] line used to question attachment to appearances.
 
 ## Connections
-- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|Hanji 161 part 1]] and [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv|part 2]] - earlier setup of the quantum-fate metaphor and its speech, resentment, anger, wealth, and reaction-choice applications.
+- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|汉纪 161 part 1]] and [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv|part 2]] - earlier setup of the quantum-fate metaphor and its speech, resentment, anger, wealth, and reaction-choice applications.
 - [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] - expanded from relationship and reaction language into spiritual practice, Buddhist/Daoist classics, frequency, and high-dimensional unity.
 - [[MeditativeStabilityPractice|定力修行框架]], [[ReactionChoiceFrame|反应选择框架]], and [[EmotionRegulationToolkit|情绪调节工具箱]] - practical branch around pausing, calming, observing, and choosing a response.
 - [[RelationalFateNetwork|关系命运网络]], [[FamilyBlessingOutcomeFrame|家人祝福与成事框架]], and [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]] - relationship, family, resentment, and love branches extended by this installment.

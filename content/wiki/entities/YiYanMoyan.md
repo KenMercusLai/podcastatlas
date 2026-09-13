@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-一言莫衍 / Yi Yan Moyan enters the wiki through [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] as a [[Xiongnu|匈奴]] envoy sent to [[WesternHanDynasty|西汉]] who unexpectedly asks to defect before returning north.
+一言莫衍 / Yi Yan Moyan enters the wiki through [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] as a [[Xiongnu|匈奴]] envoy sent to [[WesternHanDynasty|西汉]] who unexpectedly asks to defect before returning north.
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ Chengdi accepts the refusal logic. After questioning, Yi Yan Moyan says he had b
 
 ## Evidence
 
-- Defection request: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] says Yi Yan Moyan asks to surrender to Han before returning to Xiongnu and threatens suicide if refused.
-- Refusal logic: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] says Gu Yong and Du Qin warn that accepting him could alienate the submitted chanyu or fall into a trap.
-- Return outcome: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] says Han sends him back after he claims madness, and that his office remains but contact with Han envoys is barred.
+- Defection request: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] says Yi Yan Moyan asks to surrender to Han before returning to Xiongnu and threatens suicide if refused.
+- Refusal logic: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] says Gu Yong and Du Qin warn that accepting him could alienate the submitted chanyu or fall into a trap.
+- Return outcome: [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] says Han sends him back after he claims madness, and that his office remains but contact with Han envoys is barred.
 
 ## Qualifications
 
-This page is bounded to Hanji 510. It does not reconstruct Yi Yan Moyan's full office, Xiongnu factional context, standard-history name form, or true motive for the defection request.
+This page is bounded to 汉纪 510. It does not reconstruct Yi Yan Moyan's full office, Xiongnu factional context, standard-history name form, or true motive for the defection request.
 
 ## What Changed
 
-- Created the page from Hanji 510's Xiongnu defection episode.
+- Created the page from 汉纪 510's Xiongnu defection episode.
 
 ## Relationships
 

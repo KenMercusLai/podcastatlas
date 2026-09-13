@@ -8,9 +8,9 @@ last_updated: 2026-08-23
 
 # Family Blessing Outcome Frame / 家人祝福与成事框架
 
-Family blessing outcome frame / 家人祝福与成事框架 is the Hanji 161 claim that major action depends partly on whether close family can support, bless, or at least understand the move. In [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj]], the host says marriage, resignation, entrepreneurship, spiritual retreat, and other consequential choices are not purely individual decisions because parents, spouse, children, and household relationships are part of the person's 因缘.
+Family blessing outcome frame / 家人祝福与成事框架 is the 汉纪 161 claim that major action depends partly on whether close family can support, bless, or at least understand the move. In [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj]], the host says marriage, resignation, entrepreneurship, spiritual retreat, and other consequential choices are not purely individual decisions because parents, spouse, children, and household relationships are part of the person's 因缘.
 
-[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] narrows the family layer toward love, acceptance, and parent-child repair. The host says love for pets, relatives, and especially parents can awaken inner energy, and she links accepting parents and caring for them with maturity, family harmony, and the beginning of better luck.
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|汉纪 161 part 3]] narrows the family layer toward love, acceptance, and parent-child repair. The host says love for pets, relatives, and especially parents can awaken inner energy, and she links accepting parents and caring for them with maturity, family harmony, and the beginning of better luck.
 
 This is stronger and more spiritualized than the existing [[FamilySupportedAspiration|家庭承托的愿望]] frame. Family-supported aspiration says dreams are made possible and meaningful through family support, responsibility, and resources. Family blessing outcome frame adds the source's claim that support and blessing affect whether "good luck" or smooth results can arrive.
 

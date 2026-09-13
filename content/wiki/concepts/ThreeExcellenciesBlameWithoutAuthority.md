@@ -15,9 +15,9 @@ Three Excellencies blame without authority / 三公无权背责 is the late East
 
 ## Current Synthesis
 
-Hanji 780 supplies the broader root-cause diagnosis through [[ZhongchangTongLateHan|Zhongchang Tong]]'s `Changyan`, selected by Sima Guang. The episode says Emperor Guangwu's correction against Western Han powerful ministers left the Three Excellencies formally present but practically hollow, while real affairs moved through Shangshu channels and then through outer relatives, favorites, and eunuchs.
+汉纪 780 supplies the broader root-cause diagnosis through [[ZhongchangTongLateHan|Zhongchang Tong]]'s `Changyan`, selected by Sima Guang. The episode says Emperor Guangwu's correction against Western Han powerful ministers left the Three Excellencies formally present but practically hollow, while real affairs moved through Shangshu channels and then through outer relatives, favorites, and eunuchs.
 
-Hanji 798 supplies the An-era memorial version through [[ChenZhongLateHan|Chen Zhong]]. His second memorial says the Three Excellencies have high rank, but confidential affairs, selection, recommendation, punishment, reward, and legal decision are handled by Shangshu offices trusted more than the formal senior ministers.
+汉纪 798 supplies the An-era memorial version through [[ChenZhongLateHan|Chen Zhong]]. His second memorial says the Three Excellencies have high rank, but confidential affairs, selection, recommendation, punishment, reward, and legal decision are handled by Shangshu offices trusted more than the formal senior ministers.
 
 The failure is not only that power moves inward. It is that responsibility does not move with it. When disasters and rebellions are interpreted as political fault, the court can still reprimand or remove the Three Excellencies. The result is a bureaucratic accountability sink: the visible office absorbs blame while the practical decision channel remains protected.
 
@@ -32,21 +32,21 @@ The failure is not only that power moves inward. It is that responsibility does 
 
 ## Evidence
 
-- Dynasty-level diagnosis: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] uses Zhongchang Tong's `Changyan` to say the Three Excellencies became nominal offices after real affairs moved toward Shangshu and inner-court channels.
-- Power without responsibility: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] links outer relatives, favorites, eunuchs, private appointment networks, and office sale to disorder while formal ministers carry blame.
-- Hollow senior office: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says the Three Excellencies have high title but no practical authority.
-- Shangshu decision control: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says selection, recommendation, punishment, reward, confidential affairs, and legal decisions are controlled through Shangshu.
-- Disaster blame: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says disasters still lead the court to blame or remove the Three Excellencies.
-- Non-conversion: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Emperor An does not adopt Chen Zhong's warnings, leaving the mismatch unresolved.
+- Dynasty-level diagnosis: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] uses Zhongchang Tong's `Changyan` to say the Three Excellencies became nominal offices after real affairs moved toward Shangshu and inner-court channels.
+- Power without responsibility: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] links outer relatives, favorites, eunuchs, private appointment networks, and office sale to disorder while formal ministers carry blame.
+- Hollow senior office: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says the Three Excellencies have high title but no practical authority.
+- Shangshu decision control: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says selection, recommendation, punishment, reward, confidential affairs, and legal decisions are controlled through Shangshu.
+- Disaster blame: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says disasters still lead the court to blame or remove the Three Excellencies.
+- Non-conversion: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Emperor An does not adopt Chen Zhong's warnings, leaving the mismatch unresolved.
 
 ## Counterevidence & Qualifications
 
-This concept is bounded to Zhongchang Tong's diagnosis as summarized in Hanji 780 and Chen Zhong's memorial as summarized in Hanji 798. It should not be read as a complete institutional history of the Three Excellencies or Shangshu. Later sources may show moments when senior ministers still act effectively; the present claim is that these sources identify a repeated mismatch between authority and blame.
+This concept is bounded to Zhongchang Tong's diagnosis as summarized in 汉纪 780 and Chen Zhong's memorial as summarized in 汉纪 798. It should not be read as a complete institutional history of the Three Excellencies or Shangshu. Later sources may show moments when senior ministers still act effectively; the present claim is that these sources identify a repeated mismatch between authority and blame.
 
 ## What Changed
 
-- Added Hanji 780 as the broader structural diagnosis behind the Hanji 798 memorial case.
-- Reframed Chen Zhong's Hanji 798 warning as an An-era instance of a longer Three Excellencies/Shangshu and inner-court power split.
+- Added 汉纪 780 as the broader structural diagnosis behind the 汉纪 798 memorial case.
+- Reframed Chen Zhong's 汉纪 798 warning as an An-era instance of a longer Three Excellencies/Shangshu and inner-court power split.
 - Added Zhongchang Tong, outer relatives, favorites, eunuchs, private appointment networks, and office sale to the concept's causal field.
 
 ## Related Concepts

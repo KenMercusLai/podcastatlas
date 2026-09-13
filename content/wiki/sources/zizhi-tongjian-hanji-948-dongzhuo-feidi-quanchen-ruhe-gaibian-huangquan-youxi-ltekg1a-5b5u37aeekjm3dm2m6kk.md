@@ -13,7 +13,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] late-Han court seizure. It follows [[DongZhuo|董卓]] from testing [[YuanShao|袁绍]] on replacing the young emperor, through [[LuZhiLateHan|卢植]]'s objection, [[YuanWeiLateHan|袁隗]]'s coerced procedural role, and the forced replacement of [[LiuBianHongnongWang|刘辩 / 弘农王]] by [[EmperorXianOfHan|汉献帝]]. The distinct contribution is that Dong Zhuo's takeover is not treated as raw violence alone: he removes the He-family base, borrows scholar and office prestige, rehabilitates Party Prohibition victims, and thereby turns coercion into a staged claim of institutional repair.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|汉纪 949]] late-Han court seizure. It follows [[DongZhuo|董卓]] from testing [[YuanShao|袁绍]] on replacing the young emperor, through [[LuZhiLateHan|卢植]]'s objection, [[YuanWeiLateHan|袁隗]]'s coerced procedural role, and the forced replacement of [[LiuBianHongnongWang|刘辩 / 弘农王]] by [[EmperorXianOfHan|汉献帝]]. The distinct contribution is that Dong Zhuo's takeover is not treated as raw violence alone: he removes the He-family base, borrows scholar and office prestige, rehabilitates Party Prohibition victims, and thereby turns coercion into a staged claim of institutional repair.
 
 ## Key Claims
 
@@ -43,7 +43,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[LiuYuLateHan|刘虞]], [[YangBiao|杨彪]], [[HuangWanLateHan|黄琬]], [[CoercedTalentLegitimacy|胁迫征士合法性]], and [[PartyProhibitionRehabilitation|党人翻案合法性]] - legitimacy packaging through senior appointments, scholar prestige, and old grievance repair.
 - [[ChenFanLateHan|陈蕃]], [[DouWuLateHan|窦武]], and [[PartyProhibitionRehabilitation|党人翻案合法性]] - rehabilitated victims used to make Dong Zhuo's order look restorative.
 - [[NiuFuLateHan|牛辅]], [[BaiboArmy|白波军]], and [[HedongCommandery|河东郡]] - military branch that foreshadows later Dong Zhuo remnant politics.
-- [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|Hanji 949]] and [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] - downstream episodes where Dong Zhuo's terror, scholar recruitment, Liu Bian's killing, and the anti-Dong-Zhuo coalition develop.
+- [[zizhi-tongjian-hanji-949-lishishang-de-dongzhuo-daodi-duo-canbao-lk6idogwmc54nk1sdfc5wonyvgbb|汉纪 949]] and [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|汉纪 950]] - downstream episodes where Dong Zhuo's terror, scholar recruitment, Liu Bian's killing, and the anti-Dong-Zhuo coalition develop.
 
 ## Contradictions
 

@@ -12,11 +12,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Xizi Ran is the Beihai-region figure whose home appears in Hanji 894 as another stop in [[ZhangJianLateHan|张俭]]'s 169 CE flight.
+Xizi Ran is the Beihai-region figure whose home appears in 汉纪 894 as another stop in [[ZhangJianLateHan|张俭]]'s 169 CE flight.
 
 ## Current Profile
 
-The page is intentionally narrow. Hanji 894 names Xizi Ran to mark the route after [[LiDuLateHan|李笃]] helps Zhang Jian and before Zhang reaches Yuyang and escapes beyond the frontier. Xizi Ran matters less as an individually developed character than as evidence that Zhang Jian's flight depended on a chain of households, any of which could become punishment targets.
+The page is intentionally narrow. 汉纪 894 names Xizi Ran to mark the route after [[LiDuLateHan|李笃]] helps Zhang Jian and before Zhang reaches Yuyang and escapes beyond the frontier. Xizi Ran matters less as an individually developed character than as evidence that Zhang Jian's flight depended on a chain of households, any of which could become punishment targets.
 
 ## Key Characteristics
 
@@ -26,9 +26,9 @@ The page is intentionally narrow. Hanji 894 names Xizi Ran to mark the route aft
 
 ## Evidence
 
-- Route role: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says Zhang Jian passes through Xizi Ran's home in Beihai after Li Du's help.
-- Chain risk: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says people who sheltered Zhang Jian were mostly punished afterward, making each refuge stop part of a wider collateral-risk system.
-- Frontier escape: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] places Xizi Ran's home before the Yuyang and border-escape endpoint.
+- Route role: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] says Zhang Jian passes through Xizi Ran's home in Beihai after Li Du's help.
+- Chain risk: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] says people who sheltered Zhang Jian were mostly punished afterward, making each refuge stop part of a wider collateral-risk system.
+- Frontier escape: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] places Xizi Ran's home before the Yuyang and border-escape endpoint.
 
 ## Qualifications
 
@@ -36,7 +36,7 @@ This is a route-node page from one source. It does not establish Xizi Ran's offi
 
 ## What Changed
 
-- Initial page created from Hanji 894's Zhang Jian escape-route account.
+- Initial page created from 汉纪 894's Zhang Jian escape-route account.
 
 ## Relationships
 

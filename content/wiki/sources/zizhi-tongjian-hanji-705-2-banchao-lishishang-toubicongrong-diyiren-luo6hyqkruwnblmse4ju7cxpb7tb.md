@@ -12,7 +12,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[BanChaoEasternHan|班超]]'s pre-frontier origin before [[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|Hanji 705-3]]. It moves from [[BanBiaoEasternHan|班彪]]'s Han-loyalist choices under [[WangMang|王莽]], [[WeiXiaoEasternHan|隗嚣]], [[DouRongEasternHan|窦融]], and [[LiuXiu|刘秀]] into the Ban-family historiographical line, [[BanGuEasternHan|班固]]'s private-history accusation, Ban Chao's Luoyang appeal, copyist years, `投笔从戎`, and 73 CE enlistment under [[EmperorMingOfHan|汉明帝]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[BanChaoEasternHan|班超]]'s pre-frontier origin before [[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|汉纪 705-3]]. It moves from [[BanBiaoEasternHan|班彪]]'s Han-loyalist choices under [[WangMang|王莽]], [[WeiXiaoEasternHan|隗嚣]], [[DouRongEasternHan|窦融]], and [[LiuXiu|刘秀]] into the Ban-family historiographical line, [[BanGuEasternHan|班固]]'s private-history accusation, Ban Chao's Luoyang appeal, copyist years, `投笔从戎`, and 73 CE enlistment under [[EmperorMingOfHan|汉明帝]].
 
 The durable contribution is that Ban Chao's later Western Regions legend is given a family and life-course prelude: Han loyalism, historical writing, crisis judgment for a brother, long frustrated ambition, and preparedness meet an imperial campaign opening against [[NorthernXiongnuLateHan|北匈奴]].
 
@@ -41,10 +41,10 @@ The durable contribution is that Ban Chao's later Western Regions legend is give
 - [[BanGuEasternHan|班固]], [[BanZhaoLateHan|班昭]], and [[HouHanshu|《后汉书》]] - the Ban-family historiography branch links Ban Biao's later biographies, Ban Gu's `Han Shu`, and Ban Zhao's later continuation profile.
 - [[EmperorMingOfHan|汉明帝]] - reviews Ban Gu's manuscript, releases him, and later opens the military field in which Ban Chao enlists.
 - [[DouGuEasternHan|窦固]] and [[NorthernXiongnuLateHan|北匈奴]] - the 73 CE campaign setting that moves Ban Chao from aspiration into frontier military service.
-- [[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|Hanji 705-3]] and [[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|Hanji 705-4]] - direct continuations that develop the Western Regions arc only previewed here.
+- [[zizhi-tongjian-hanji-705-3-gudai-tezhongbing-banchao-yige-ganyu-danqiangpima-shenru-dibei-de-chuanqi-lgmwbhpwxqqniawf-n6xuctqgqkc|汉纪 705-3]] and [[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|汉纪 705-4]] - direct continuations that develop the Western Regions arc only previewed here.
 
 ## Contradictions
 
 - No settled contradiction is recorded.
 - Scope caution: Fu Jiezi, Zhang Qian, `王命论`, `北征赋`, the physiognomy language, and Ban Chao's "one person restoring fifty states" legend are retained as source-scoped episode framing unless later bounded notes make them canonical pages or settled claims.
-- Chronology caution: this source is a prequel to Hanji 705-3 and Hanji 742; it reaches the 73 CE enlistment opening but does not narrate Shanshan, Khotan, Shule, or later Western Regions operations in detail.
+- Chronology caution: this source is a prequel to 汉纪 705-3 and 汉纪 742; it reaches the 73 CE enlistment opening but does not narrate Shanshan, Khotan, Shule, or later Western Regions operations in detail.

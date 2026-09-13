@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 165 CE Huan-era layer immediately before [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]]. It opens with source-scoped mindfulness and altruism advice, then turns to [[YangBingLateHan|杨秉]] impeaching [[HouCanLateHan|侯参]] and forcing pressure onto [[HouLanLateHan|侯览]] despite the latter's inner-court eunuch position.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 165 CE Huan-era layer immediately before [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]]. It opens with source-scoped mindfulness and altruism advice, then turns to [[YangBingLateHan|杨秉]] impeaching [[HouCanLateHan|侯参]] and forcing pressure onto [[HouLanLateHan|侯览]] despite the latter's inner-court eunuch position.
 
 The episode's durable contribution is a temporary breach in eunuch protection. Yang Bing turns Hou Can's local corruption into an institutional question about whether the Three Excellencies can impeach palace eunuchs, and the answer through classical and Han precedent forces [[EmperorHuanOfHan|汉桓帝]] to remove Hou Lan. The harem branch adds a source-scoped prelude to [[EmpressDengHuanLateHan|邓皇后]]'s deposition and [[GuoGuirenHuanLateHan|郭贵人]]'s rivalry.
 
@@ -47,5 +47,5 @@ The episode's durable contribution is a temporary breach in eunuch protection. Y
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology caution: this episode records Hou Lan's 165 CE office removal, while later source notes still show Hou Lan or his network active in 166-169 and a further office-removal suicide in 172. The wiki treats Hanji 865 as an earlier removal or demotion whose reaccession path is not reconstructed, not as replacing the later fall.
+- Chronology caution: this episode records Hou Lan's 165 CE office removal, while later source notes still show Hou Lan or his network active in 166-169 and a further office-removal suicide in 172. The wiki treats 汉纪 865 as an earlier removal or demotion whose reaccession path is not reconstructed, not as replacing the later fall.
 - Transcript normalization: the source spelling 侯澜 is linked to existing [[HouLanLateHan|侯览 / Hou Lan]] because the role and surrounding late-Han sequence match established pages. Minor follow-on actors such as Han Yan, Zuo Guan, Zuo Cheng, Ju Yuan, Ju Gong, and the Qiang campaign commanders remain source-scoped pending stronger disambiguating evidence.

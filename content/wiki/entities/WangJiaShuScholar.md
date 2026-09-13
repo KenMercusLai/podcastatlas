@@ -9,7 +9,7 @@ last_updated: 2026-09-01
 ---
 
 ## Overview
-Wang Jia is a Shu commandery scholar in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] who follows Wang Hao's refusal of Gongsun Shu's hostage-backed summons.
+Wang Jia is a Shu commandery scholar in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] who follows Wang Hao's refusal of Gongsun Shu's hostage-backed summons.
 
 ## Current Profile
 The episode presents Wang Jia as Wang Hao's paired counterpart. Gongsun Shu tries to force both men into service by holding their families, and Wang Hao kills himself first.
@@ -24,8 +24,8 @@ Wang Jia says he is only one step later than Wang Hao and kills himself before G
 - Source-bounded figure within the broader Shu coercive-talent episode.
 
 ## Evidence
-- Paired coercion: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] groups Wang Jia with Wang Hao as a Shu commandery target of Gongsun Shu's family-hostage summons.
-- Emulative refusal: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Wang Jia declares himself one step later than Wang Hao and kills himself before the envoy arrives.
+- Paired coercion: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] groups Wang Jia with Wang Hao as a Shu commandery target of Gongsun Shu's family-hostage summons.
+- Emulative refusal: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Wang Jia declares himself one step later than Wang Hao and kills himself before the envoy arrives.
 
 ## Qualifications
 This page follows the episode's Chinese name form "王家" while using the romanized route Wang Jia. If later notes establish a different canonical spelling, reconcile rather than duplicate.

@@ -12,13 +12,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-徐璜 / Xu Huang is a late-Han eunuch whose current wiki profile has three source-bounded functions. In [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]], he is named among the five eunuchs rewarded after [[EmperorHuanOfHan|汉桓帝]] destroys [[LiangJiLateHan|梁冀]]. In [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|Hanji 857]], he helps turn [[HuangfuGuiLateHan|皇甫规]]'s military reward path into a gift-solicitation and slander channel; in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]], his kinship tie to [[XuXuanLateHan|徐宣]] lets a county-level murder case become a court retaliation case.
+徐璜 / Xu Huang is a late-Han eunuch whose current wiki profile has three source-bounded functions. In [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]], he is named among the five eunuchs rewarded after [[EmperorHuanOfHan|汉桓帝]] destroys [[LiangJiLateHan|梁冀]]. In [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|汉纪 857]], he helps turn [[HuangfuGuiLateHan|皇甫规]]'s military reward path into a gift-solicitation and slander channel; in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]], his kinship tie to [[XuXuanLateHan|徐宣]] lets a county-level murder case become a court retaliation case.
 
 ## Current Profile
 
-The earliest current layer is the anti-Liang reward settlement. Hanji 848 names Xu Huang as one of the five eunuchs rewarded after Huan's coup against Liang Ji and says he receives a 10,000-household county marquisate. The episode gives less individual action for Xu Huang than it gives for [[JuYuanLateHan|具瑗]], so this founding layer is mainly group membership and reward scale.
+The earliest current layer is the anti-Liang reward settlement. 汉纪 848 names Xu Huang as one of the five eunuchs rewarded after Huan's coup against Liang Ji and says he receives a 10,000-household county marquisate. The episode gives less individual action for Xu Huang than it gives for [[JuYuanLateHan|具瑗]], so this founding layer is mainly group membership and reward scale.
 
-The next layer is reward-channel pressure. Hanji 857 says Xu Huang and [[ZuoGuanLateHan|左悺]] repeatedly send intermediaries to ask about Huangfu Gui's merit because they expect gifts around the marquisate decision. Huangfu Gui refuses to pay them or apologize, after which old accusations are revived and Huangfu is jailed. Xu Huang's importance here is not kinship protection but gatekeeping: palace-access actors can make reward recognition conditional on side payments and then convert refusal into vulnerability.
+The next layer is reward-channel pressure. 汉纪 857 says Xu Huang and [[ZuoGuanLateHan|左悺]] repeatedly send intermediaries to ask about Huangfu Gui's merit because they expect gifts around the marquisate decision. Huangfu Gui refuses to pay them or apologize, after which old accusations are revived and Huangfu is jailed. Xu Huang's importance here is not kinship protection but gatekeeping: palace-access actors can make reward recognition conditional on side payments and then convert refusal into vulnerability.
 
 The later layer presents Xu Huang through protective and accusatory kinship. His nephew Xu Xuan, serving as Xiapi magistrate, abducts and kills [[LiGaoRunanLateHan|李暠]]'s daughter after failing to obtain her as a concubine. [[HuangFuDonghaiLateHan|黄浮]] executes Xu Xuan, and Xu Huang complains to [[EmperorHuanOfHan|汉桓帝]].
 
@@ -35,30 +35,30 @@ Together, the two source layers make Xu Huang a structural eunuch-power case rat
 
 ## Evidence
 
-- Founding reward: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] names Xu Huang among the five eunuchs enfeoffed as county marquises after Liang Ji's fall.
-- Reward scale: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Xu Huang and the other three non-Shan Chao marquises each receive 10,000 households.
-- Reward solicitation: [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|Hanji 857]] says Xu Huang and Zuo Guan repeatedly send guests around Huangfu Gui's merit review to imply a request for gifts.
-- Retaliation through accusation: [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|Hanji 857]] says Huangfu Gui's refusal is followed by renewed slander, imprisonment, and hard-labor sentencing before petitions and amnesty release him.
-- Kinship: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] identifies Xu Xuan as Xu Huang's nephew.
-- Local abuse: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Xu Xuan abuses his Xiapi office and kills Li Gao's daughter after coercive concubine-seeking fails.
-- Complaint channel: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says the eunuch side complains to Emperor Huan after Huang Fu executes Xu Xuan.
-- Retaliation effect: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Huan becomes angry and punishes the enforcing officials.
+- Founding reward: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] names Xu Huang among the five eunuchs enfeoffed as county marquises after Liang Ji's fall.
+- Reward scale: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] says Xu Huang and the other three non-Shan Chao marquises each receive 10,000 households.
+- Reward solicitation: [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|汉纪 857]] says Xu Huang and Zuo Guan repeatedly send guests around Huangfu Gui's merit review to imply a request for gifts.
+- Retaliation through accusation: [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|汉纪 857]] says Huangfu Gui's refusal is followed by renewed slander, imprisonment, and hard-labor sentencing before petitions and amnesty release him.
+- Kinship: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] identifies Xu Xuan as Xu Huang's nephew.
+- Local abuse: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Xu Xuan abuses his Xiapi office and kills Li Gao's daughter after coercive concubine-seeking fails.
+- Complaint channel: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says the eunuch side complains to Emperor Huan after Huang Fu executes Xu Xuan.
+- Retaliation effect: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Huan becomes angry and punishes the enforcing officials.
 
 ## Qualifications
 
-This page records only the Hanji 848, Hanji 857, and Hanji 872 bounded roles. It does not attempt to cover Xu Huang's broader career among Emperor Huan's powerful eunuchs except where those roles matter to the Five Marquises founding reward, Huangfu Gui's reward vulnerability, and Xu Xuan's protection-retaliation case.
+This page records only the 汉纪 848, 汉纪 857, and 汉纪 872 bounded roles. It does not attempt to cover Xu Huang's broader career among Emperor Huan's powerful eunuchs except where those roles matter to the Five Marquises founding reward, Huangfu Gui's reward vulnerability, and Xu Xuan's protection-retaliation case.
 
 ## What Changed
 
-- Hanji 848 adds Xu Huang's founding Five Marquises reward and 10,000-household grant.
-- Added Hanji 857's earlier reward-solicitation and slander-pressure role around Huangfu Gui.
+- 汉纪 848 adds Xu Huang's founding Five Marquises reward and 10,000-household grant.
+- Added 汉纪 857's earlier reward-solicitation and slander-pressure role around Huangfu Gui.
 - Reframed Xu Huang as a eunuch-access actor who distorts both military reward and legal enforcement, rather than only a kinship protector in the Xu Xuan case.
 
 ## Relationships
 
 - [[HuangfuGuiLateHan|皇甫规]] - meritorious frontier official whose reward path Xu Huang helps pressure.
-- [[ZuoGuanLateHan|左悺]] - paired eunuch in the Hanji 857 gift-solicitation and accusation sequence.
-- [[JuYuanLateHan|具瑗]], [[ShanChaoLateHan|单超]], and [[TangHengLateHan|唐衡]] - fellow founding members in Hanji 848's Five Marquises list.
+- [[ZuoGuanLateHan|左悺]] - paired eunuch in the 汉纪 857 gift-solicitation and accusation sequence.
+- [[JuYuanLateHan|具瑗]], [[ShanChaoLateHan|单超]], and [[TangHengLateHan|唐衡]] - fellow founding members in 汉纪 848's Five Marquises list.
 - [[XuXuanLateHan|徐宣]] - nephew whose crime triggers the complaint and retaliation chain.
 - [[HuangFuDonghaiLateHan|黄浮]] - official who executes Xu Xuan and is punished after eunuch complaint.
 - [[EmperorHuanOfHan|汉桓帝]] - ruler who acts on the complaint.

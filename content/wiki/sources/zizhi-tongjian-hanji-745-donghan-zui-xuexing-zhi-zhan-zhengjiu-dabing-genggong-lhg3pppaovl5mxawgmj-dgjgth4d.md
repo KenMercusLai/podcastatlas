@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 75 CE [[GengGongEasternHan|耿恭]] siege layer immediately before [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]]. It follows Geng Gong and a shrinking Han garrison holding out in a Shule fortress after [[EmperorMingOfHan|汉明帝]] dies, [[CheshiHouKingdomLateHan|车师]] renews rebellion, and [[NorthernXiongnuLateHan|北匈奴]] presses a surrender offer.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 75 CE [[GengGongEasternHan|耿恭]] siege layer immediately before [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|汉纪 746]]. It follows Geng Gong and a shrinking Han garrison holding out in a Shule fortress after [[EmperorMingOfHan|汉明帝]] dies, [[CheshiHouKingdomLateHan|车师]] renews rebellion, and [[NorthernXiongnuLateHan|北匈奴]] presses a surrender offer.
 
 The durable synthesis is that rescue is a state-credit problem, not only a tactical favor. [[BaoYuEasternHan|鲍昱]] argues that abandoning Geng Gong and Guan Chong would injure loyal defenders and embolden frontier opponents, while [[FifthLunEasternHan|第五伦]]'s separate warning about Ma-family appointment and gift networks adds an early [[OuterRelativePreventiveRestraint|outer-relative restraint]] layer before later Ma-family title and command episodes.
 
@@ -36,13 +36,13 @@ The durable synthesis is that rescue is a state-credit problem, not only a tacti
 
 ## Connections
 
-- [[GengGongEasternHan|耿恭]], [[NorthernXiongnuLateHan|北匈奴]], and [[CheshiHouKingdomLateHan|车师]] - the main siege field before Hanji 746 narrates the rescue endpoint.
+- [[GengGongEasternHan|耿恭]], [[NorthernXiongnuLateHan|北匈奴]], and [[CheshiHouKingdomLateHan|车师]] - the main siege field before 汉纪 746 narrates the rescue endpoint.
 - [[BaoYuEasternHan|鲍昱]], [[EmperorZhangOfHan|汉章帝]], [[GengBingEasternHan|耿秉]], and [[RescueReciprocityCommandTrust|救援互惠式统帅信任]] - the rescue debate treats abandoned defenders as a command-trust and state-credit problem.
 - [[FifthLunEasternHan|第五伦]], [[MaFamilyZhangEraEasternHan|马氏]], [[MaLiaoEasternHan|马廖]], [[MaFangEasternHan|马防]], and [[OuterRelativePreventiveRestraint|外戚预防性约束]] - the Ma-family warning precedes later title, command, and lost-patronage layers.
-- [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] - direct continuation, resolving the Geng Gong rescue and recognition branch.
+- [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|汉纪 746]] - direct continuation, resolving the Geng Gong rescue and recognition branch.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the siege-and-rescue-decision setup before Hanji 746's Fan Qiang rescue and Zheng Zhong recognition.
-- Chronology caution: this episode is dated 2026-06-27 like Hanji 746 but narrates the earlier 75 CE crisis before the 76 CE rescue endpoint.
+- No settled contradiction with existing wiki content was found. This source backfills the siege-and-rescue-decision setup before 汉纪 746's Fan Qiang rescue and Zheng Zhong recognition.
+- Chronology caution: this episode is dated 2026-06-27 like 汉纪 746 but narrates the earlier 75 CE crisis before the 76 CE rescue endpoint.
 - Scope caution: Guan Chong, Ma Guang, the exact Shule fortress geography, the chanyu's title promise, surviving soldier counts, and the full rescue route remain source-scoped unless later notes warrant standalone pages or stronger normalization.

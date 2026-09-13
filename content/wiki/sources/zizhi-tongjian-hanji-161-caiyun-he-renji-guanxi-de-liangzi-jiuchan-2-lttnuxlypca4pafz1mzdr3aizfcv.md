@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Hanji 161 reflective detour from [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|part 1]] by moving from quantum-consciousness language into everyday speech, gratitude, resentment, anger, romance, wealth, and self-knowledge. Its practical center is that people cannot control every injury, deception, or relationship pull, but they can change the response that follows through [[ReactionChoiceFrame|反应选择框架]]. The source extends [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] as metaphor rather than physics proof: good words, grateful attention, calm acceptance, and clear self-observation are framed as ways to reduce relational interference and return to one's own direction.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the 汉纪 161 reflective detour from [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|part 1]] by moving from quantum-consciousness language into everyday speech, gratitude, resentment, anger, romance, wealth, and self-knowledge. Its practical center is that people cannot control every injury, deception, or relationship pull, but they can change the response that follows through [[ReactionChoiceFrame|反应选择框架]]. The source extends [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] as metaphor rather than physics proof: good words, grateful attention, calm acceptance, and clear self-observation are framed as ways to reduce relational interference and return to one's own direction.
 
 ## Key Claims
 - The host argues that gratitude and resentment both "return" through relationships: grateful attention raises life energy, while sustained resentment and hostile speech damage the speaker as well as the target.
@@ -37,7 +37,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 > "静、观、觉知" - the final self-observation method.
 
 ## Connections
-- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|Hanji 161 part 1]] - first half of the same fate, wealth, consciousness, and relationship detour.
+- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|汉纪 161 part 1]] - first half of the same fate, wealth, consciousness, and relationship detour.
 - [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] - extended from physics/consciousness analogy into speech, emotion, romance, wealth, and interference.
 - [[RelationalFateNetwork|关系命运网络]] and [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]] - the episode's claim that emotion, language, trust, injury, and goodwill feed back through relationships.
 - [[ReactionChoiceFrame|反应选择框架]], [[EmotionRegulationToolkit|情绪调节工具箱]], and [[LeonFestinger|Leon Festinger]] - practical reaction-choice branch around anger, betrayal, and the popular "10/90" rule.

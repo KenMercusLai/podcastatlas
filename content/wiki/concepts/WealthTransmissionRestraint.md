@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-Hanji 431 creates the concept through [[ShuGuangShuShouWesternHan|疏广与疏受]]. After retirement, Shu Guang and Shu Shou spend imperial gifts on daily feasts with neighbors, kin, old friends, and guests. When advised to buy more property or store money for descendants, Shu Guang refuses. His argument is practical rather than anti-family: existing land and houses are enough if descendants work; if descendants are worthy, too much wealth weakens their will, and if they are foolish, too much wealth helps them do wrong.
+汉纪 431 creates the concept through [[ShuGuangShuShouWesternHan|疏广与疏受]]. After retirement, Shu Guang and Shu Shou spend imperial gifts on daily feasts with neighbors, kin, old friends, and guests. When advised to buy more property or store money for descendants, Shu Guang refuses. His argument is practical rather than anti-family: existing land and houses are enough if descendants work; if descendants are worthy, too much wealth weakens their will, and if they are foolish, too much wealth helps them do wrong.
 
 The episode then links this to a Sima Guang family-teaching line: gold may not be kept and books may not be read, so hidden virtue is presented as the more reliable long-term provision. The page keeps that as source-scoped moral reasoning while preserving the more general concept: inheritance is not only asset transfer, but risk design for character, envy, and household durability.
 
@@ -30,13 +30,13 @@ The episode then links this to a Sima Guang family-teaching line: gold may not b
 ## Evidence
 
 Shu Guang's family-wealth argument:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Shu Guang and Shu Shou return home and host daily gatherings that spend the reward money.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Shu Guang rejects advice to buy property or save money for descendants.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says existing land and houses are enough if descendants farm diligently.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says excess wealth can damage worthy descendants and worsen foolish descendants.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Shu Guang and Shu Shou return home and host daily gatherings that spend the reward money.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Shu Guang rejects advice to buy property or save money for descendants.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says existing land and houses are enough if descendants farm diligently.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says excess wealth can damage worthy descendants and worsen foolish descendants.
 
 Moral-provision extension:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] quotes Sima Guang's family teaching that accumulated gold may not be kept and accumulated books may not be read, then recommends hidden virtue as longer-term provision.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] quotes Sima Guang's family teaching that accumulated gold may not be kept and accumulated books may not be read, then recommends hidden virtue as longer-term provision.
 
 ## Counterevidence & Qualifications
 
@@ -44,7 +44,7 @@ This is not a general argument against saving, education, property, or intergene
 
 ## What Changed
 
-- Created the concept from Hanji 431's Shu Guang inheritance and reward-distribution lesson.
+- Created the concept from 汉纪 431's Shu Guang inheritance and reward-distribution lesson.
 
 ## Related Concepts
 

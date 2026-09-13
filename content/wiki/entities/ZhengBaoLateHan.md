@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 郑宝 / Zheng Bao (late Han)
 
 ## Overview
-郑宝 / Zheng Bao is the Yangzhou armed leader killed by [[LiuYeLateHan|刘晔]] in Hanji 1037 after trying to use Liu Ye's reputation to organize a southward population movement.
+郑宝 / Zheng Bao is the Yangzhou armed leader killed by [[LiuYeLateHan|刘晔]] in 汉纪 1037 after trying to use Liu Ye's reputation to organize a southward population movement.
 
 ## Current Profile
 The current source presents Zheng Bao as strong enough to command thousands but not legitimate or capable enough to organize a large migration on his own. He wants to seize Liu Ye and borrow Liu Ye's imperial-clan standing, but Liu Ye turns a banquet with Cao Cao's envoy into a killing scene and then uses Zheng Bao's severed head to make the followers submit.
@@ -24,15 +24,15 @@ The current source presents Zheng Bao as strong enough to command thousands but 
 - Leaves behind followers who become a governance and food-supply problem after transfer to Liu Xun.
 
 ## Evidence
-- Reputation-borrowing plan: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] says Zheng Bao wants to seize Liu Ye and use his name to lead people south.
-- Death scene: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] has Liu Ye invite Zheng Bao to a banquet with Cao Cao's envoy and kill him suddenly.
-- Aftermath: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] reports Zheng Bao's thousands choosing Liu Ye, who then passes them to Liu Xun.
+- Reputation-borrowing plan: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] says Zheng Bao wants to seize Liu Ye and use his name to lead people south.
+- Death scene: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] has Liu Ye invite Zheng Bao to a banquet with Cao Cao's envoy and kill him suddenly.
+- Aftermath: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] reports Zheng Bao's thousands choosing Liu Ye, who then passes them to Liu Xun.
 
 ## Qualifications
 The page is source-bounded to Zheng Bao's failed attempt to use Liu Ye and the transfer of his followers. It does not reconstruct his earlier career.
 
 ## What Changed
-- Created the page from Hanji 1037's Liu Ye-Zheng Bao branch.
+- Created the page from 汉纪 1037's Liu Ye-Zheng Bao branch.
 
 ## Relationships
 - [[LiuYeLateHan|刘晔]] - target whose reputation Zheng Bao tries to use and killer who ends his command.

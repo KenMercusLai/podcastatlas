@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 车胄 / Che Zhou (late Han)
 
 ## Overview
-车胄 / Che Zhou enters the wiki through Hanji 1040 as the Cao-side holder of [[Xuzhou|徐州]] whom [[LiuBei|刘备]] kills after leaving [[CaoCao|曹操]]'s control.
+车胄 / Che Zhou enters the wiki through 汉纪 1040 as the Cao-side holder of [[Xuzhou|徐州]] whom [[LiuBei|刘备]] kills after leaving [[CaoCao|曹操]]'s control.
 
 ## Current Profile
 The current evidence gives Che Zhou a narrow but structurally important role. He is not developed as a full biography; he is the local official whose removal turns Cao Cao's decision to send Liu Bei out with troops into a concrete Xuzhou loss.
@@ -31,7 +31,7 @@ The current evidence gives Che Zhou a narrow but structurally important role. He
 The current source does not supply Che Zhou's background, appointment history, or motives. The page should remain a narrow Xuzhou-transition node unless later sources add independent detail.
 
 ## What Changed
-- Created the page to keep Hanji 1040's Xuzhou official distinct from transcript noise.
+- Created the page to keep 汉纪 1040's Xuzhou official distinct from transcript noise.
 
 ## Relationships
 - [[LiuBei|刘备]] - kills Che Zhou and retakes Xuzhou.

@@ -11,10 +11,10 @@ knowledge_schema: synthesis-v1
 # 刘岱 / Liu Dai (Sikong changshi)
 
 ## Overview
-刘岱 / Liu Dai (Sikong changshi) enters the wiki through Hanji 1040 as one of [[CaoCao|曹操]]'s commanders sent against [[LiuBei|刘备]] after Liu Bei retakes [[Xuzhou|徐州]].
+刘岱 / Liu Dai (Sikong changshi) enters the wiki through 汉纪 1040 as one of [[CaoCao|曹操]]'s commanders sent against [[LiuBei|刘备]] after Liu Bei retakes [[Xuzhou|徐州]].
 
 ## Current Profile
-This page deliberately separates the 200 CE Sikong-changshi Liu Dai from [[LiuDaiLateHan|the earlier Yanzhou inspector Liu Dai]], who dies in the wiki's earlier late-Han branch. In Hanji 1040, this Liu Dai matters as the failed first response to Liu Bei's renewed force.
+This page deliberately separates the 200 CE Sikong-changshi Liu Dai from [[LiuDaiLateHan|the earlier Yanzhou inspector Liu Dai]], who dies in the wiki's earlier late-Han branch. In 汉纪 1040, this Liu Dai matters as the failed first response to Liu Bei's renewed force.
 
 ## Key Characteristics
 - Cao-side officer sent to attack Liu Bei after the Xuzhou breakaway.

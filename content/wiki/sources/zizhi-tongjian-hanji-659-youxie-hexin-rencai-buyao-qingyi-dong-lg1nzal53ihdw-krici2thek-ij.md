@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 21 CE late-[[XinDynasty|新朝]] crisis between [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] and [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]]. It shows [[WangMang|王莽]] answering revolt, famine, and official misinformation with palace desire, symbolic anti-Han ritual, punishment of truth-tellers, and suspicion toward competent field actors.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 21 CE late-[[XinDynasty|新朝]] crisis between [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] and [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]]. It shows [[WangMang|王莽]] answering revolt, famine, and official misinformation with palace desire, symbolic anti-Han ritual, punishment of truth-tellers, and suspicion toward competent field actors.
 
 The durable synthesis is that Xin collapse worsens when the ruler forbids root-cause reporting and removes the person temporarily making the field governable. [[GongsunLuXinOfficial|公孙禄]] identifies internal policy and personnel failure, [[TianKuangXinOfficial|田邝]] diagnoses county-to-court underreporting and proposes a local defense and food-control plan, but Wang Mang suppresses the former and transfers the latter away from the Qing-Xu crisis field.
 
@@ -44,11 +44,11 @@ The durable synthesis is that Xin collapse worsens when the ruler forbids root-c
 - [[TianKuangXinOfficial|田邝]], [[FieldDiscretionPacification|便宜行事式招抚]], [[CommandAuthorityBottleneck|将权掣肘]], and [[KeyOperatorRemovalRisk|关键执行者移除风险]] - Tian Kuang stabilizes locally by acting before approval, then is removed despite having the clearest field diagnosis.
 - [[QinFengEasternHan|秦丰]], [[ChiZhaopingXinRebel|池昭平]], [[FanChongChimei|樊崇]], and [[ChimeiRebellion|赤眉]] - the episode gives a pre-Chimei-name revolt field in which hunger, fear, and official failure make armed groups scale.
 - [[OfficialArmyPredationBackfire|官军扰民反噬]] and [[SurrenderTrustBreakdown|归降信任崩塌]] - Tian Kuang's memorial says commanders and envoys can frighten civilians and make would-be surrenderers return to the mountains.
-- [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] - direct continuation into Chimei naming, official-army abuse, relief corruption, and Yan You's command-authority complaint.
+- [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] - direct continuation into Chimei naming, official-army abuse, relief corruption, and Yan You's command-authority complaint.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 21 CE after Hanji 658's household and private-coinage crisis and before Hanji 660-2's 22 CE Chimei-origin note.
+- Chronology qualification: this source backfills 21 CE after 汉纪 658's household and private-coinage crisis and before 汉纪 660-2's 22 CE Chimei-origin note.
 - Identity normalization: the source's 秦峰 is routed to existing [[QinFengEasternHan|秦丰]] because the Nanjun rebel context matches later Qin Feng notices; 樊重 is treated cautiously as likely [[FanChongChimei|樊崇]] in the pre-Chimei field.
 - Scope caution: Yang Cheng, Zong Xuan, Tang Zun, Liu Xiu the Xin official, Zhang Han, Sun Yang, Lu Kuang, Cui Fa, Ma Wu in the Luling notice, exact offices, troop counts, and place readings remain source-scoped unless later source notes warrant canonical pages.

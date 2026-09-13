@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # Party Prohibition Rehabilitation / 党人翻案合法性
 
-Party Prohibition rehabilitation / 党人翻案合法性 is the legitimacy move [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] draws from [[DongZhuo|董卓]] after the forced replacement of [[LiuBianHongnongWang|刘辩 / 弘农王]]. Dong Zhuo has senior officials petition to reexamine the old cases around [[ChenFanLateHan|陈蕃]], [[DouWuLateHan|窦武]], and other party figures, restoring honors, offering sacrifices, and employing descendants.
+Party Prohibition rehabilitation / 党人翻案合法性 is the legitimacy move [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|汉纪 948]] draws from [[DongZhuo|董卓]] after the forced replacement of [[LiuBianHongnongWang|刘辩 / 弘农王]]. Dong Zhuo has senior officials petition to reexamine the old cases around [[ChenFanLateHan|陈蕃]], [[DouWuLateHan|窦武]], and other party figures, restoring honors, offering sacrifices, and employing descendants.
 
 The source treats this as a morally complicated move. The old grievances can be real, and rehabilitation can create meaningful public repair. But Dong Zhuo deploys the repair immediately after military intimidation, deposition, and He-family violence, so the reform language also becomes a mask for coercive rule.
 

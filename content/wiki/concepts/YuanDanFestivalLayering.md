@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # YuanDan Festival Layering / 元旦节日层累
 
-YuanDan festival layering / 元旦节日层累 is the pattern where a New Year name holds several historical layers at once: mythical rulership, official calendar order, textual memory, food, domestic ritual, exorcistic symbolism, poetry, and present-day blessing. [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS New Year special]] makes that layering explicit by moving from [[YaoShunYuLegend|尧舜禹传说]] to [[HanWudi|汉武帝]], [[JinShu|《晋书》]], [[JingChuSuiShiJi|《荆楚岁时记》]], [[SiminYueling|《四民月令》]], and [[LuYou|陆游]].
+YuanDan festival layering / 元旦节日层累 is the pattern where a New Year name holds several historical layers at once: mythical rulership, official calendar order, textual memory, food, domestic ritual, exorcistic symbolism, poetry, and present-day blessing. [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|汉纪 150 PLUS New Year special]] makes that layering explicit by moving from [[YaoShunYuLegend|尧舜禹传说]] to [[HanWudi|汉武帝]], [[JinShu|《晋书》]], [[JingChuSuiShiJi|《荆楚岁时记》]], [[SiminYueling|《四民月令》]], and [[LuYou|陆游]].
 
 The concept is adjacent to [[QixiFestivalLayering]], but its emphasis is different. Qixi is presented through star lore, labor, local worship, and romance, while this 元旦 source centers the start of the year, the calendrical fixing of 正月初一, and a ritual table of pepper-cypress wine, peach decoction, eggs, soup cakes, and New Year cakes.
 

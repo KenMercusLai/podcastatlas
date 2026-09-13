@@ -19,13 +19,13 @@ last_updated: 2026-08-30
 
 ## Current Profile
 
-Hanji 778 gives the earliest current layer. Deng appoints Deng Zhi as chariot cavalry general at the start of her regency, making him part of the opening court architecture rather than only a later war actor. That role shows why Deng-family trust supplies usable capacity while immediately raising the problem of outer-relative concentration.
+汉纪 778 gives the earliest current layer. Deng appoints Deng Zhi as chariot cavalry general at the start of her regency, making him part of the opening court architecture rather than only a later war actor. That role shows why Deng-family trust supplies usable capacity while immediately raising the problem of outer-relative concentration.
 
-Hanji 782 then adds the Qiang-front failure layer. Deng Zhi sends Ren Shang and others against Dianling's Qiang coalition, but the campaign is defeated at Pingxiang with heavy casualties. Pang Can's memorial names the cost of continued western campaigning and leads to Deng Zhi's recall, yet Deng Zhi soon receives grand ceremonial treatment and a General-in-Chief appointment. The result is a mixed profile: he is close enough to power to survive failure, but also close enough to become a symbol of Deng-family overconcentration.
+汉纪 782 then adds the Qiang-front failure layer. Deng Zhi sends Ren Shang and others against Dianling's Qiang coalition, but the campaign is defeated at Pingxiang with heavy casualties. Pang Can's memorial names the cost of continued western campaigning and leads to Deng Zhi's recall, yet Deng Zhi soon receives grand ceremonial treatment and a General-in-Chief appointment. The result is a mixed profile: he is close enough to power to survive failure, but also close enough to become a symbol of Deng-family overconcentration.
 
-Hanji 784 shows Deng Zhi sponsoring the Liangzhou abandonment position that Yu Xu rebuts. The episode does not make Deng Zhi simply foolish; it shows him thinking from war cost and administrative exhaustion, while Yu Xu argues that Liangzhou is a shield whose loss would raise future defense costs. Hanji 785 then adds the mourning-resignation layer, where Ban Zhao advises Empress Dowager Deng to let the Deng brothers withdraw temporarily so public opinion does not read the family as monopolizing power.
+汉纪 784 shows Deng Zhi sponsoring the Liangzhou abandonment position that Yu Xu rebuts. The episode does not make Deng Zhi simply foolish; it shows him thinking from war cost and administrative exhaustion, while Yu Xu argues that Liangzhou is a shield whose loss would raise future defense costs. 汉纪 785 then adds the mourning-resignation layer, where Ban Zhao advises Empress Dowager Deng to let the Deng brothers withdraw temporarily so public opinion does not read the family as monopolizing power.
 
-Hanji 790 and Hanji 794 complete the current arc. Deng Zhi is strict enough to punish household gift-taking when his sons accept foreign gifts, but after Deng dies he is still vulnerable to court reversal. The post-Deng purge turns his earlier concentration of title, kinship, and military responsibility into liability.
+汉纪 790 and 汉纪 794 complete the current arc. Deng Zhi is strict enough to punish household gift-taking when his sons accept foreign gifts, but after Deng dies he is still vulnerable to court reversal. The post-Deng purge turns his earlier concentration of title, kinship, and military responsibility into liability.
 
 ## Key Characteristics
 
@@ -38,21 +38,21 @@ Hanji 790 and Hanji 794 complete the current arc. Deng Zhi is strict enough to p
 
 ## Evidence
 
-- Opening high command: [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]] says Deng Zhi receives the chariot cavalry general role as Deng builds the first regency leadership structure.
-- Defeat, recall, and promotion: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] records Deng Zhi's Qiang command responsibility, Ren Shang's defeat, Pang Can's critique, Deng Zhi's recall, and his later General-in-Chief appointment.
-- Liangzhou retrenchment sponsorship: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] places Deng Zhi on the abandonment side of the Liangzhou debate that Yu Xu counters.
-- Mourning and public optics: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] shows Ban Zhao advising Deng to allow Deng Zhi and his brothers to resign for mourning to reduce monopoly criticism.
-- Household discipline under power: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] uses Deng Zhi's response to his sons' gift-taking as a private-discipline layer inside the Deng-family field.
-- Post-Deng vulnerability: [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]] shows the first purge wave using Deng-family authority as a target after Deng's death.
+- Opening high command: [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|汉纪 778]] says Deng Zhi receives the chariot cavalry general role as Deng builds the first regency leadership structure.
+- Defeat, recall, and promotion: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|汉纪 782]] records Deng Zhi's Qiang command responsibility, Ren Shang's defeat, Pang Can's critique, Deng Zhi's recall, and his later General-in-Chief appointment.
+- Liangzhou retrenchment sponsorship: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|汉纪 784]] places Deng Zhi on the abandonment side of the Liangzhou debate that Yu Xu counters.
+- Mourning and public optics: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] shows Ban Zhao advising Deng to allow Deng Zhi and his brothers to resign for mourning to reduce monopoly criticism.
+- Household discipline under power: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|汉纪 790]] uses Deng Zhi's response to his sons' gift-taking as a private-discipline layer inside the Deng-family field.
+- Post-Deng vulnerability: [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|汉纪 794]] shows the first purge wave using Deng-family authority as a target after Deng's death.
 
 ## Qualifications
 
-The sources do not support reducing Deng Zhi to either failed commander or corrupt favorite. Hanji 778 supports his original role as a trusted high-command kinsman; Hanji 782 supports criticism of battlefield failure and promotion through kin proximity; and Hanji 784 shows a real fiscal-strategic argument behind retrenchment. Hanji 790 also preserves a household-discipline layer, but that discipline operates inside a broader public legitimacy problem.
+The sources do not support reducing Deng Zhi to either failed commander or corrupt favorite. 汉纪 778 supports his original role as a trusted high-command kinsman; 汉纪 782 supports criticism of battlefield failure and promotion through kin proximity; and 汉纪 784 shows a real fiscal-strategic argument behind retrenchment. 汉纪 790 also preserves a household-discipline layer, but that discipline operates inside a broader public legitimacy problem.
 
 ## What Changed
 
-- Added Hanji 778 as Deng Zhi's opening-regency high-command layer before the Qiang-war failure.
-- Preserved Hanji 782 as the defeat, recall, and promotion layer before the Liangzhou debate.
+- Added 汉纪 778 as Deng Zhi's opening-regency high-command layer before the Qiang-war failure.
+- Preserved 汉纪 782 as the defeat, recall, and promotion layer before the Liangzhou debate.
 - Reframed Deng Zhi's Liangzhou retrenchment as part of a longer fiscal-war-cost problem rather than an isolated bad proposal.
 - Connected both his initial appointment and his promotion after failure to the regency's outer-relative legitimacy risk.
 

@@ -43,7 +43,7 @@ The compassion-symbol reading belongs to the film interpretation and should not 
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added Hanji 456-5's reading of the water demon as wounded compassion and silent basic nature.
+- Added 汉纪 456-5's reading of the water demon as wounded compassion and silent basic nature.
 
 ## Relationships
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Changling punishment sequence between [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] and [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]]. It centers [[ChenTangWesternHan|陈汤]] being impeached by [[WangShangWesternHan|王商]], spared because of earlier merit, but reduced to commoner status and moved to the frontier.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Changling punishment sequence between [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]] and [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|汉纪 542]]. It centers [[ChenTangWesternHan|陈汤]] being impeached by [[WangShangWesternHan|王商]], spared because of earlier merit, but reduced to commoner status and moved to the frontier.
 
 The durable synthesis is that Changling punishment cannot be read from the formal charge alone. Chen Tang's Guandong elite-relocation proposal served a strong-trunk weak-branch purpose, but it threatened powerful households and their court ties; his reputation for greed made him easier to attack, while [[HanChengdi|汉成帝]]'s later reward for [[ChunyuZhangWesternHan|淳于长]] and demotion of [[PingDangWesternHan|平当]] show public reasons and private motives diverging in the same policy field.
 
@@ -46,5 +46,5 @@ The durable synthesis is that Changling punishment cannot be read from the forma
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Name normalization: the transcript/source note uses "淳于常"; this ingest routes the figure to [[ChunyuZhangWesternHan|淳于长]] because the surrounding Chengdi, Zhao Feiyan, Changling, and later Hanji 556-557 context matches the canonical page.
+- Name normalization: the transcript/source note uses "淳于常"; this ingest routes the figure to [[ChunyuZhangWesternHan|淳于长]] because the surrounding Chengdi, Zhao Feiyan, Changling, and later 汉纪 556-557 context matches the canonical page.
 - Scope caution: Chen Tang's exact legal guilt, the full Changling policy file, Wang Shang's complete motive, Wang Hong's identity, the legal basis for Guan'nei Hou grants, and the corruption evidence remain source-scoped.

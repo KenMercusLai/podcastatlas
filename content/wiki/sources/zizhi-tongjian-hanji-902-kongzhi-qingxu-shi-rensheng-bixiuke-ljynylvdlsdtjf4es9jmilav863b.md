@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 172 CE late-Han layer immediately before [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]]. It opens with [[StrategicEmotionConcealment|strategic emotion concealment]], then follows a Zhuque Gate anonymous accusation against [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]], [[LiuMengLateHan|刘猛]]'s unwillingness to hunt the accuser, [[DuanJiongLateHan|段熲]]'s harsher crackdown, [[ZhangHuanLateHan|张奂]]'s survival compromise, and the first failed attack by [[SuBuweiLateHan|苏不韦]] against [[LiHaoLateHan|李昊]]. The core synthesis is that early Emperor Ling-era court danger links speech, emotion, and timing: open correction is punished, measured submission can preserve life, and private revenge can turn disciplined patience into a new escalation path.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 172 CE late-Han layer immediately before [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]]. It opens with [[StrategicEmotionConcealment|strategic emotion concealment]], then follows a Zhuque Gate anonymous accusation against [[CaoJieLateHan|曹节]] and [[WangFuLateHan|王甫]], [[LiuMengLateHan|刘猛]]'s unwillingness to hunt the accuser, [[DuanJiongLateHan|段熲]]'s harsher crackdown, [[ZhangHuanLateHan|张奂]]'s survival compromise, and the first failed attack by [[SuBuweiLateHan|苏不韦]] against [[LiHaoLateHan|李昊]]. The core synthesis is that early Emperor Ling-era court danger links speech, emotion, and timing: open correction is punished, measured submission can preserve life, and private revenge can turn disciplined patience into a new escalation path.
 
 ## Key Claims
 
@@ -25,7 +25,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - Duan's contrast with [[ZhangHuanLateHan|张奂]] and Huangfu Gui is used to show how a frontier commander's merit can coexist with palace-side alignment and coercive investigation.
 - [[WangYuLateHan|王寓]]'s resentment after Zhang Huan refuses a recommendation becomes an accusation path that pulls Zhang into party-prohibition politics.
 - Zhang Huan's humble letter to Duan is framed as a survival move, not a moral triumph: he preserves his life, withdraws from office, teaches students, writes, and dies old.
-- The [[SuQianLateHan|苏谦]] and [[LiHaoLateHan|李昊]] branch gives [[SuBuweiLateHan|苏不韦]] a father-revenge origin before Hanji 903's tomb desecration and household extermination.
+- The [[SuQianLateHan|苏谦]] and [[LiHaoLateHan|李昊]] branch gives [[SuBuweiLateHan|苏不韦]] a father-revenge origin before 汉纪 903's tomb desecration and household extermination.
 - Su Buwei's tunnel attack fails to kill Li Hao but kills Li's concubine and young son, creating the fear captured by the episode's "一夕九徙" ending.
 
 ## Key Quotes
@@ -41,7 +41,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[StrategicEmotionConcealment]], [[PoliticalSurvivalFirst]], and [[ConcealedCapabilityTiming]] - the episode's personal-conduct frame around emotion, exposure, and timing.
 - [[AnonymousRemonstranceSuppression]], [[CourtFeedbackCollapse]], [[CaoJieLateHan]], [[WangFuLateHan]], [[LiuMengLateHan]], [[DuanJiongLateHan]], and [[EmperorLingOfHan]] - the Zhuque Gate accusation and crackdown sequence.
 - [[ZhangHuanLateHan]], [[WangYuLateHan]], and [[DuanJiongLateHan]] - the party-prohibition and personal-grudge branch around Zhang Huan's fall and survival.
-- [[SuQianLateHan]], [[SuBuweiLateHan]], [[LiHaoLateHan]], and [[FilialRevengePublicSympathy]] - the filial revenge setup before Hanji 903's wider revenge spiral.
+- [[SuQianLateHan]], [[SuBuweiLateHan]], [[LiHaoLateHan]], and [[FilialRevengePublicSympathy]] - the filial revenge setup before 汉纪 903's wider revenge spiral.
 - [[AtrocityRetaliationCycle]] - the failed attack is the first visible turn before tomb desecration, public corpse humiliation, and Duan's retaliatory household killing.
 
 ## Contradictions

@@ -10,13 +10,13 @@ last_updated: 2026-09-11
 
 ## Definition
 
-Disaster-omen personnel attack / 灾异人事攻防 is the use of a reported anomaly, disaster, or omen to argue that a specific appointment or officeholder is politically unfit. In [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]], a palace "鼓妖" sound becomes a warning against [[ZhuBoWesternHan|朱博]] and [[ZhaoXuanWesternHan|赵璇]] receiving top offices.
+Disaster-omen personnel attack / 灾异人事攻防 is the use of a reported anomaly, disaster, or omen to argue that a specific appointment or officeholder is politically unfit. In [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|汉纪 579]], a palace "鼓妖" sound becomes a warning against [[ZhuBoWesternHan|朱博]] and [[ZhaoXuanWesternHan|赵璇]] receiving top offices.
 
 ## Current Synthesis
 
 The concept is narrower than general [[OmenCodedRemonstrance|天象灾异包装式进谏]]. Omen-coded remonstrance can criticize broad policy, corruption, or court structure; disaster-omen personnel attack points the omen directly at personnel choice. The issue is not whether the anomaly is physically explained, but how quickly court actors convert it into a sanctioned argument about who should or should not hold power.
 
-Hanji 579 gives the current anchor case. [[LiXunWesternHan|李寻]] reads the sound as Hongfan "鼓妖," an audible but formless sign that warns the ruler against admitting improper people into court. He then narrows the reading by time and office: because the sign occurs as Zhu Bo and Zhao Xuan are about to receive appointment documents, the chancellor and Yushi Dafu should be dismissed.
+汉纪 579 gives the current anchor case. [[LiXunWesternHan|李寻]] reads the sound as Hongfan "鼓妖," an audible but formless sign that warns the ruler against admitting improper people into court. He then narrows the reading by time and office: because the sign occurs as Zhu Bo and Zhao Xuan are about to receive appointment documents, the chancellor and Yushi Dafu should be dismissed.
 
 [[YangXiong|扬雄]] makes the same device more explicitly evaluative. He does not merely say Heaven is angry; he says Zhu Bo's strong, tactical temperament fits a general better than a chancellor, whose work requires coordination, moderation, and balancing interests. The omen therefore becomes a personnel-fit argument inside acceptable court language.
 
@@ -32,18 +32,18 @@ The case also shows the strategy's limit. [[HanAidi|汉哀帝]] ignores the warn
 
 ## Evidence
 
-- Palace sound event: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] says a bell-like sound is heard in the palace as Zhu Bo and Zhao Xuan prepare to receive their appointments.
-- Hongfan interpretation: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] says Li Xun identifies the sound as "鼓妖" and reads it as a warning against improper officeholders.
-- Personnel-fit attack: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] says Yang Xiong argues Zhu Bo is fit for military command but not chancellorship.
-- Failed conversion: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] says Aidi does not accept the warning and proceeds with Zhu Bo's political program.
+- Palace sound event: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|汉纪 579]] says a bell-like sound is heard in the palace as Zhu Bo and Zhao Xuan prepare to receive their appointments.
+- Hongfan interpretation: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|汉纪 579]] says Li Xun identifies the sound as "鼓妖" and reads it as a warning against improper officeholders.
+- Personnel-fit attack: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|汉纪 579]] says Yang Xiong argues Zhu Bo is fit for military command but not chancellorship.
+- Failed conversion: [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|汉纪 579]] says Aidi does not accept the warning and proceeds with Zhu Bo's political program.
 
 ## Counterevidence & Qualifications
 
-The concept is currently source-scoped to Hanji 579. It should not be used for every omen interpretation, every court criticism, or every strange-event story. The source does not settle whether the sound had a natural, architectural, or fabricated cause, nor does it prove Li Xun or Yang Xiong's private motives. The useful claim is institutional and rhetorical: the omen gave opponents a court-legible way to argue against the appointments.
+The concept is currently source-scoped to 汉纪 579. It should not be used for every omen interpretation, every court criticism, or every strange-event story. The source does not settle whether the sound had a natural, architectural, or fabricated cause, nor does it prove Li Xun or Yang Xiong's private motives. The useful claim is institutional and rhetorical: the omen gave opponents a court-legible way to argue against the appointments.
 
 ## What Changed
 
-- Created from Hanji 579 to capture the "鼓妖" episode as a personnel-politics use of disaster language.
+- Created from 汉纪 579 to capture the "鼓妖" episode as a personnel-politics use of disaster language.
 
 ## Related Concepts
 

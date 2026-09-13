@@ -9,7 +9,7 @@ knowledge_schema: synthesis-v1
 ---
 ## Overview
 
-孙斌 / Sun Bin is a former subordinate of [[FifthZhongLateHan|第五种]] in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]]. He is disambiguated from [[SunBin|孙膑 / Sun Bin]] the Warring States strategist. His source-bounded role is the private rescuer who prevents Fifth Zhong's exile from becoming a likely death trap.
+孙斌 / Sun Bin is a former subordinate of [[FifthZhongLateHan|第五种]] in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]]. He is disambiguated from [[SunBin|孙膑 / Sun Bin]] the Warring States strategist. His source-bounded role is the private rescuer who prevents Fifth Zhong's exile from becoming a likely death trap.
 
 ## Current Profile
 
@@ -26,10 +26,10 @@ The episode turns Sun Bin's act into a loyalty and survival case. The court chan
 
 ## Evidence
 
-- Former subordinate status: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] identifies Sun Bin as Fifth Zhong's former subordinate.
-- Rescue preparation: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Sun Bin gathers retainers after learning Fifth Zhong's exile route is dangerous.
-- Interception: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says he catches up around Taiyuan and sends Fifth Zhong home.
-- Survival aftermath: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Fifth Zhong then hides for years until an amnesty.
+- Former subordinate status: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] identifies Sun Bin as Fifth Zhong's former subordinate.
+- Rescue preparation: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Sun Bin gathers retainers after learning Fifth Zhong's exile route is dangerous.
+- Interception: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says he catches up around Taiyuan and sends Fifth Zhong home.
+- Survival aftermath: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Fifth Zhong then hides for years until an amnesty.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The current evidence does not establish Sun Bin's own office, family, later care
 
 ## What Changed
 
-- Created the disambiguated late-Han Sun Bin page from Hanji 851.
+- Created the disambiguated late-Han Sun Bin page from 汉纪 851.
 - Added Sun Bin as the private-rescue actor in Fifth Zhong's survival branch.
 
 ## Relationships

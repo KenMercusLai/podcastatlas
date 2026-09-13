@@ -12,9 +12,9 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 74 CE / Yongping 17 immediately before [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]]. It begins with [[EmperorMingOfHan|汉明帝]] dreaming of [[LiuXiu|光武帝]] and [[YinLihua|阴丽华]] before the Yuanling visit, then follows [[LiuMuBeihaiKing|北海王刘睦]]'s self-deprecating political survival, [[BaoYuEasternHan|鲍昱]]'s Situ appointment, [[BanChaoEasternHan|班超]]'s Shule intervention, and the [[DouGuEasternHan|窦固]] / [[GengBingEasternHan|耿秉]] campaign that restores Han offices in the Western Regions.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 74 CE / Yongping 17 immediately before [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|汉纪 744]]. It begins with [[EmperorMingOfHan|汉明帝]] dreaming of [[LiuXiu|光武帝]] and [[YinLihua|阴丽华]] before the Yuanling visit, then follows [[LiuMuBeihaiKing|北海王刘睦]]'s self-deprecating political survival, [[BaoYuEasternHan|鲍昱]]'s Situ appointment, [[BanChaoEasternHan|班超]]'s Shule intervention, and the [[DouGuEasternHan|窦固]] / [[GengBingEasternHan|耿秉]] campaign that restores Han offices in the Western Regions.
 
-The durable synthesis is that Mingdi's late reign combines affective ritual, cautious royal-house politics, and frontier restoration. Yuanling mourning makes filial emotion part of imperial order; Liu Mu lowers his visible reputation to avoid suspicion; Ban Chao uses local legitimacy and mercy to reverse a Qiuci-backed usurpation; and Geng Bing's Cheshi target judgment helps reopen the institutional setting for the 75 CE crisis in Hanji 744-745.
+The durable synthesis is that Mingdi's late reign combines affective ritual, cautious royal-house politics, and frontier restoration. Yuanling mourning makes filial emotion part of imperial order; Liu Mu lowers his visible reputation to avoid suspicion; Ban Chao uses local legitimacy and mercy to reverse a Qiuci-backed usurpation; and Geng Bing's Cheshi target judgment helps reopen the institutional setting for the 75 CE crisis in 汉纪 744-745.
 
 ## Key Claims
 
@@ -42,7 +42,7 @@ The durable synthesis is that Mingdi's late reign combines affective ritual, cau
 - [[SelfDeprecatingPoliticalSurvival]] - Liu Mu provides the cleanest source case for deliberate reputational lowering as political protection.
 - [[BaoYuEasternHan]] - the episode supplies Bao Yu's earlier elevation from Runan taishou to Situ.
 - [[BanChaoEasternHan]] - the Shule episode shows his early use of legitimacy, controlled coercion, and selective mercy.
-- [[WangZhongShuleKing]] - the installed Shule royal figure in Hanji 743 provides the origin point for the later Shule-king defection narrative.
+- [[WangZhongShuleKing]] - the installed Shule royal figure in 汉纪 743 provides the origin point for the later Shule-king defection narrative.
 - [[ShuleKingdom]] - Qiuci-backed Duti's removal and Zhong's installation reshape Shule's place in Han frontier politics.
 - [[QiuciKingdom]] - Jian's Xiongnu-backed rule and intervention in Shule make Qiuci an early antagonist before later protectorate episodes.
 - [[DouGuEasternHan]] - the 74 CE Cheshi campaign defines Dou Gu's documented role in restoring Western Regions institutions.
@@ -53,4 +53,4 @@ The durable synthesis is that Mingdi's late reign combines affective ritual, cau
 
 ## Contradictions
 
-- No settled contradiction found. The episode backfills earlier chronology for Mingdi, Ban Chao, Geng Bing, Qiuci, Shule, and Cheshi without displacing the later narratives in Hanji 744-745 and 747 onward.
+- No settled contradiction found. The episode backfills earlier chronology for Mingdi, Ban Chao, Geng Bing, Qiuci, Shule, and Cheshi without displacing the later narratives in 汉纪 744-745 and 747 onward.

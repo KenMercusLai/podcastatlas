@@ -12,11 +12,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Zhu Bi is the late-Han accuser who, acting under Hou Lan's influence in Hanji 893, turns resentment against Zhang Jian into a formal party-prohibition denunciation.
+Zhu Bi is the late-Han accuser who, acting under Hou Lan's influence in 汉纪 893, turns resentment against Zhang Jian into a formal party-prohibition denunciation.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says Zhu Bi is a fellow townsman of [[HouLanLateHan|侯览]] and had himself been criticized by [[ZhangJianLateHan|张俭]]. Relying on Hou Lan's backing, Zhu Bi submits an accusation that Zhang Jian and twenty-four people from the same commandery have exchanged titles, formed a faction, and threaten the court. The court then issues an order to arrest Zhang Jian and others.
+[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says Zhu Bi is a fellow townsman of [[HouLanLateHan|侯览]] and had himself been criticized by [[ZhangJianLateHan|张俭]]. Relying on Hou Lan's backing, Zhu Bi submits an accusation that Zhang Jian and twenty-four people from the same commandery have exchanged titles, formed a faction, and threaten the court. The court then issues an order to arrest Zhang Jian and others.
 
 Zhu Bi's role is small but structurally important. He shows how eunuch-side power can use a local intermediary: a private grievance supplies the concrete accusation, while palace influence makes that accusation actionable.
 
@@ -29,18 +29,18 @@ Zhu Bi's role is small but structurally important. He shows how eunuch-side powe
 
 ## Evidence
 
-- Hou Lan tie: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] identifies Zhu Bi as Hou Lan's fellow townsman.
-- Private grievance: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says Zhang Jian had previously criticized Zhu Bi's wrongdoing.
-- Accusation content: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says Zhu Bi accuses Zhang Jian and twenty-four others of exchanging titles, forming a party, and endangering the court.
-- Arrest consequence: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says the court publishes the memorial and orders arrests after the accusation.
+- Hou Lan tie: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] identifies Zhu Bi as Hou Lan's fellow townsman.
+- Private grievance: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says Zhang Jian had previously criticized Zhu Bi's wrongdoing.
+- Accusation content: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says Zhu Bi accuses Zhang Jian and twenty-four others of exchanging titles, forming a party, and endangering the court.
+- Arrest consequence: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says the court publishes the memorial and orders arrests after the accusation.
 
 ## Qualifications
 
-The page is limited to Zhu Bi's role in the Hanji 893 accusation chain. The source presents him negatively, but the current wiki does not independently reconstruct his broader life or every person included in his accusation.
+The page is limited to Zhu Bi's role in the 汉纪 893 accusation chain. The source presents him negatively, but the current wiki does not independently reconstruct his broader life or every person included in his accusation.
 
 ## What Changed
 
-- Hanji 893 creates Zhu Bi's canonical page as the local accuser in Zhang Jian's party-prohibition case.
+- 汉纪 893 creates Zhu Bi's canonical page as the local accuser in Zhang Jian's party-prohibition case.
 
 ## Relationships
 

@@ -14,7 +14,7 @@ Restored Regime Promise Credibility / 复国政权承诺信用 is the legitimacy
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]] grounds the concept in [[KouXunEasternHan|寇恂]]'s Shanggu intervention. [[LiuXuanGengshiEmperor|更始帝刘玄]] has promised that early submitters can retain or recover seals, titles, and offices, but the envoy in Shanggu keeps [[GengKuangEasternHan|耿况]]'s seal instead of returning it. Kou Xun sees the issue as larger than one official's status: if the restored court breaks faith at its first local stop, other commanderies and kingdoms will infer that submission is unsafe.
+[[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|汉纪 668]] grounds the concept in [[KouXunEasternHan|寇恂]]'s Shanggu intervention. [[LiuXuanGengshiEmperor|更始帝刘玄]] has promised that early submitters can retain or recover seals, titles, and offices, but the envoy in Shanggu keeps [[GengKuangEasternHan|耿况]]'s seal instead of returning it. Kou Xun sees the issue as larger than one official's status: if the restored court breaks faith at its first local stop, other commanderies and kingdoms will infer that submission is unsafe.
 
 The mechanism is practical rather than abstract. Kou Xun does not merely praise trust; he uses armed presence, argument, and procedural improvisation to make the envoy's nominal authority serve the promise the envoy was supposed to carry. Returning the seal converts central pacification language into a visible local fact.
 
@@ -30,9 +30,9 @@ The same source also shows the cost of weak settlement elsewhere. Red Eyebrows l
 
 ## Evidence
 
-- Shanggu seal return: [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]] says Kou Xun forces the Gengshi envoy to return Geng Kuang's seal after arguing that all commanderies and kingdoms are watching whether the promise will be honored.
-- Surrender policy stakes: [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]] says Liu Xuan's policy offers early submitters restored titles and offices, making seal return a test of regime policy rather than a private favor.
-- Weak material settlement: [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]] says Red Eyebrows leaders receive marquis titles without fiefs, after which their remaining followers drift away and the leaders return to camp.
+- Shanggu seal return: [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|汉纪 668]] says Kou Xun forces the Gengshi envoy to return Geng Kuang's seal after arguing that all commanderies and kingdoms are watching whether the promise will be honored.
+- Surrender policy stakes: [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|汉纪 668]] says Liu Xuan's policy offers early submitters restored titles and offices, making seal return a test of regime policy rather than a private favor.
+- Weak material settlement: [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|汉纪 668]] says Red Eyebrows leaders receive marquis titles without fiefs, after which their remaining followers drift away and the leaders return to camp.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The concept currently rests on one source note, so it should remain a compact Ea
 
 ## What Changed
 
-- Created the concept from Hanji 668's Shanggu seal-return episode.
+- Created the concept from 汉纪 668's Shanggu seal-return episode.
 - Distinguished promise credibility from command-seal trust rupture: this case protects a regime's surrender promise, while the older pattern concerns command symbols becoming instruments of interpersonal dispossession.
 
 ## Related Concepts

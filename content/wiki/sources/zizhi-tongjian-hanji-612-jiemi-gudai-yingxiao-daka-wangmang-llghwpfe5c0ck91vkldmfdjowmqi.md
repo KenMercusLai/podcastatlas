@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a 2 CE [[HanPingdi|汉平帝]] and [[WangMang|王莽]] image-building layer immediately before [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]]'s frontier-control episode. It follows drought, locusts, Qingzhou displacement, imperial austerity, Wang Mang's donation of money and land, collective elite donation, refugee housing in Chang'an, auspicious rain-and-harvest reporting, and repeated refusal or restraint performances.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a 2 CE [[HanPingdi|汉平帝]] and [[WangMang|王莽]] image-building layer immediately before [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]]'s frontier-control episode. It follows drought, locusts, Qingzhou displacement, imperial austerity, Wang Mang's donation of money and land, collective elite donation, refugee housing in Chang'an, auspicious rain-and-harvest reporting, and repeated refusal or restraint performances.
 
 The durable synthesis is that Wang Mang's pre-usurpation legitimacy work already converted disaster response into moral publicity. Relief had material content, but the episode emphasizes how frugality, donation, vegetarian self-restraint, court praise, and auspicious signs made [[MoralReputationPoliticalCapital|moral reputation]] visible through [[PublicMoralPerformance|public moral performance]] and [[AuspiciousOmenPolitics|auspicious omen politics]].
 
@@ -36,15 +36,15 @@ The durable synthesis is that Wang Mang's pre-usurpation legitimacy work already
 
 ## Connections
 
-- [[WangMang|王莽]], [[WangZhengjun|王政君]], and [[HanPingdi|汉平帝]] - the episode supplies a pre-Hanji 613 disaster-relief and moral-performance layer.
-- [[GongShengXinScholar|龚胜]] - this source adds an earlier resignation request before the later Xin-era fatal refusal in Hanji 644.
+- [[WangMang|王莽]], [[WangZhengjun|王政君]], and [[HanPingdi|汉平帝]] - the episode supplies a pre-汉纪 613 disaster-relief and moral-performance layer.
+- [[GongShengXinScholar|龚胜]] - this source adds an earlier resignation request before the later Xin-era fatal refusal in 汉纪 644.
 - [[MoralReputationPoliticalCapital|道德名望政治资本]], [[PublicMoralPerformance|公开道德表演]], and [[TopDownExemplarGovernance|上行示范式治理]] - Wang Mang uses personal donation, self-restraint, and elite emulation to convert relief into reputation.
 - [[AuspiciousOmenPolitics|祥瑞政治]] and [[NaturalDisasterPoliticalOmen|自然灾异政治征兆]] - disaster and renewed auspicious signs become political evidence around virtue and rule.
 - [[HumaneLocalGovernance|仁厚地方治理]] and [[BeneficialGovernanceDelivery|有益治理交付]] - refugee housing and bandit resettlement show that image politics can still contain concrete administrative delivery.
-- [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] - immediate continuation into frontier coercion under the same regency environment.
+- [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] - immediate continuation into frontier coercion under the same regency environment.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 2 CE before Hanji 613's frontier case, Hanji 614's name-and-marriage layer, and Hanji 620's later 4 CE petition-backed "宰衡" elevation.
+- Chronology qualification: this source backfills 2 CE before 汉纪 613's frontier case, 汉纪 614's name-and-marriage layer, and 汉纪 620's later 4 CE petition-backed "宰衡" elevation.
 - Scope caution: Bing Han, Mei Fu, Chen Mao, Chen Zhong, the full auspicious-sign list, donation mechanics, Chang'an housing sites, and Wang Mang's inner motive remain source-scoped unless later notes warrant canonical pages.

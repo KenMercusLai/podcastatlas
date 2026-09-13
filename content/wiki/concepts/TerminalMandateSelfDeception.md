@@ -15,7 +15,7 @@ Terminal mandate self-deception / 末路天命自我催眠 is the collapse-stage
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] grounds the concept in [[WangMang|王莽]]'s final palace retreat before the Jian Terrace death narrated in Hanji 667. The episode first establishes that ordinary political supports have collapsed: commanders are defeated or flee, pardoned prisoners scatter, local offices surrender, Wang-family tombs and ritual buildings are attacked, Chang'an is breached, and [[WeiyangPalace|未央宫]] burns.
+[[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] grounds the concept in [[WangMang|王莽]]'s final palace retreat before the Jian Terrace death narrated in 汉纪 667. The episode first establishes that ordinary political supports have collapsed: commanders are defeated or flee, pardoned prisoners scatter, local offices surrender, Wang-family tombs and ritual buildings are attacked, Chang'an is breached, and [[WeiyangPalace|未央宫]] burns.
 
 The penultimate ritual branch shows mandate self-deception before the final palace scene. After Kunyang, Wang Mang faces internal abduction-surrender plotting, a purge inside his own elite, continued regional risings, and shrinking command confidence. His southern-suburb response turns collapse into scripted lament: he eats porridge, reads a self-pitying document, recruits thousands to cry, and rewards skilled criers with office.
 
@@ -34,20 +34,20 @@ The concept is narrower than ordinary [[MandateOfHeavenLegitimacy|mandate of Hea
 
 ## Evidence
 
-- Penultimate ritual lament: [[zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t|Hanji 665]] says Wang Mang answers internal conspiracy, purge, and regional risings with a southern-suburb crying ritual, porridge, and appointments for effective criers.
-- Material collapse: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says Wang Mang's commanders fail, emergency prisoner mobilization scatters, Chang'an is breached, and Weiyang Palace burns.
-- Ritual retreat: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says Wang Mang retreats into palace spaces rather than restoring practical command.
-- Divination-directed posture: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says he follows an astronomy official's instruction about where to sit while wearing sky-blue clothing and holding a jade dagger.
-- Mandate declaration: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] preserves Wang Mang's claim that Heaven gave virtue to him and Han troops cannot harm him.
-- Host interpretation: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says Wang Mang does not think he is a villain, but believes himself to be a saint-like positive protagonist.
+- Penultimate ritual lament: [[zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t|汉纪 665]] says Wang Mang answers internal conspiracy, purge, and regional risings with a southern-suburb crying ritual, porridge, and appointments for effective criers.
+- Material collapse: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says Wang Mang's commanders fail, emergency prisoner mobilization scatters, Chang'an is breached, and Weiyang Palace burns.
+- Ritual retreat: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says Wang Mang retreats into palace spaces rather than restoring practical command.
+- Divination-directed posture: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says he follows an astronomy official's instruction about where to sit while wearing sky-blue clothing and holding a jade dagger.
+- Mandate declaration: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] preserves Wang Mang's claim that Heaven gave virtue to him and Han troops cannot harm him.
+- Host interpretation: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says Wang Mang does not think he is a villain, but believes himself to be a saint-like positive protagonist.
 
 ## Counterevidence & Qualifications
 
-This concept should not be used to dismiss all ritual, omen, or mandate politics as irrational. Other wiki pages treat Heaven language, chenwei, auspicious signs, and ritual as political technologies that can shape real coordination. Hanji 665 and Hanji 666 support a narrower judgment: at Wang Mang's end, sacred posture and scripted lament no longer supply coordination, legitimacy, or protection; they function as self-protection against recognizing collapse. The exact ritual protocol, astronomical instruction, crying selection, and final inner psychology remain source-scoped.
+This concept should not be used to dismiss all ritual, omen, or mandate politics as irrational. Other wiki pages treat Heaven language, chenwei, auspicious signs, and ritual as political technologies that can shape real coordination. 汉纪 665 and 汉纪 666 support a narrower judgment: at Wang Mang's end, sacred posture and scripted lament no longer supply coordination, legitimacy, or protection; they function as self-protection against recognizing collapse. The exact ritual protocol, astronomical instruction, crying selection, and final inner psychology remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 665 as the penultimate ritual-lament branch before Hanji 666's final mandate-and-divination posture.
+- Added 汉纪 665 as the penultimate ritual-lament branch before 汉纪 666's final mandate-and-divination posture.
 
 ## Related Concepts
 

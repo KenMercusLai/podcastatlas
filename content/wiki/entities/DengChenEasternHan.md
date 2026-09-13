@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-邓晨 / Deng Chen enters the wiki as [[LiuXiu|刘秀]]'s brother-in-law in the 22 CE pre-uprising layer. [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]] says Liu Xiu's sister Liu Yuan marries Deng Chen of Xinye, and that Deng Chen is present when Cai Shaogong's "Liu Xiu will become Son of Heaven" prophecy is discussed.
+邓晨 / Deng Chen enters the wiki as [[LiuXiu|刘秀]]'s brother-in-law in the 22 CE pre-uprising layer. [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]] says Liu Xiu's sister Liu Yuan marries Deng Chen of Xinye, and that Deng Chen is present when Cai Shaogong's "Liu Xiu will become Son of Heaven" prophecy is discussed.
 
 ## Current Profile
 
@@ -25,13 +25,13 @@ The current evidence is narrow. Deng Chen is not yet synthesized as a full Easte
 
 ## Evidence
 
-- Kinship link: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]] says Liu Xiu's sister Liu Yuan marries Deng Chen of Xinye.
-- Prophecy scene: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]] says Deng Chen is present when Cai Shaogong predicts that someone named Liu Xiu will become Son of Heaven.
-- Private reception: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]] says Deng Chen is quietly pleased after Liu Xiu jokingly suggests the prophecy could refer to him.
+- Kinship link: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]] says Liu Xiu's sister Liu Yuan marries Deng Chen of Xinye.
+- Prophecy scene: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]] says Deng Chen is present when Cai Shaogong predicts that someone named Liu Xiu will become Son of Heaven.
+- Private reception: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]] says Deng Chen is quietly pleased after Liu Xiu jokingly suggests the prophecy could refer to him.
 
 ## Qualifications
 
-This page is intentionally narrow. Hanji 661 supports Deng Chen's kinship and prophecy-scene role, but it does not provide his full later career, office history, military service, or independent political judgment. Cai Shaogong, Liu Yuan, Xinye, and the exact prophecy tradition remain source-scoped unless later evidence warrants separate pages or expansion.
+This page is intentionally narrow. 汉纪 661 supports Deng Chen's kinship and prophecy-scene role, but it does not provide his full later career, office history, military service, or independent political judgment. Cai Shaogong, Liu Yuan, Xinye, and the exact prophecy tradition remain source-scoped unless later evidence warrants separate pages or expansion.
 
 ## What Changed
 

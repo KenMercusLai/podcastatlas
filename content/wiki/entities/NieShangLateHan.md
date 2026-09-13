@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-聂尚 / Nie Shang enters the wiki as the Shu commandery administrator who succeeds [[DengXunEasternHan|Deng Xun]] as Protector of the Qiang and fails quickly in a conciliation attempt toward [[MiTangQiangLeader|Mi Tang]]. Hanji 767 uses him as the negative contrast to Deng's accumulated frontier legitimacy.
+聂尚 / Nie Shang enters the wiki as the Shu commandery administrator who succeeds [[DengXunEasternHan|Deng Xun]] as Protector of the Qiang and fails quickly in a conciliation attempt toward [[MiTangQiangLeader|Mi Tang]]. 汉纪 767 uses him as the negative contrast to Deng's accumulated frontier legitimacy.
 
 ## Current Profile
 
@@ -28,15 +28,15 @@ The apparent opening collapses. Mi Tang rebels again, kills Tian Si and the esco
 
 ## Evidence
 
-- Succession and policy: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Nie Shang succeeds Deng Xun as Protector of the Qiang and plans conciliatory policy.
-- Mi Tang contact: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Nie sends an interpreter to summon Mi Tang back to the Yu valleys and receives Mi Tang's grandmother Bi Que.
-- Escort decision: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Nie personally escorts Bi Que beyond the frontier and sends Tian Si with five others to escort her home.
-- Collapse: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Mi Tang rebels again, kills the escort party, attacks Jincheng, and causes Nie's dismissal.
-- Host judgment: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] frames Nie's mistake as one-sided wishful thinking and credit-hungry impatience.
+- Succession and policy: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Nie Shang succeeds Deng Xun as Protector of the Qiang and plans conciliatory policy.
+- Mi Tang contact: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Nie sends an interpreter to summon Mi Tang back to the Yu valleys and receives Mi Tang's grandmother Bi Que.
+- Escort decision: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Nie personally escorts Bi Que beyond the frontier and sends Tian Si with five others to escort her home.
+- Collapse: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Mi Tang rebels again, kills the escort party, attacks Jincheng, and causes Nie's dismissal.
+- Host judgment: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] frames Nie's mistake as one-sided wishful thinking and credit-hungry impatience.
 
 ## Qualifications
 
-Nie Shang's profile is source-bounded to one failed Qiang-protector episode. Bi Que, Tian Si, exact escort details, and the source's motive judgment remain bounded to Hanji 767 until corroborated by later source notes.
+Nie Shang's profile is source-bounded to one failed Qiang-protector episode. Bi Que, Tian Si, exact escort details, and the source's motive judgment remain bounded to 汉纪 767 until corroborated by later source notes.
 
 ## What Changed
 

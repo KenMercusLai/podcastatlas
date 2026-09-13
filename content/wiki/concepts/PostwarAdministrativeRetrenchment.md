@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] supplies the current case through [[LiuXiu|光武帝刘秀]]'s Jianwu 6 order. The source says the population has suffered and shrunk after war, while counties and officials remain too numerous. Liu Xiu therefore orders local verification and immediate merger of counties or fiefs that no longer justify separate senior officials.
+[[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|汉纪 701]] supplies the current case through [[LiuXiu|光武帝刘秀]]'s Jianwu 6 order. The source says the population has suffered and shrunk after war, while counties and officials remain too numerous. Liu Xiu therefore orders local verification and immediate merger of counties or fiefs that no longer justify separate senior officials.
 
 The same source pairs administrative cutting with [[ZhuFuEasternHan|朱浮]]'s tenure warning. Retrenchment can reduce redundant offices, but durable governance also requires that remaining local officials hold office long enough to show real results. The concept therefore sits between fiscal-administrative scale control and [[LocalOfficialTenureStability|地方官任期稳定]], not as a simple smaller-government claim.
 
@@ -28,18 +28,18 @@ The same source pairs administrative cutting with [[ZhuFuEasternHan|朱浮]]'s t
 
 ## Evidence
 
-- Scale mismatch diagnosis: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] says Liu Xiu's edict notes that officials are meant to serve the people, but the war-hit population has fallen while official posts remain numerous.
-- Local verification and merger: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] says county, temple-office, and provincial officials are told to verify conditions and merge counties or fiefs lacking enough basis for separate senior officials.
-- Large reduction: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] says more than four hundred counties are cut and many official positions disappear.
-- Tenure complement: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]] follows the cutting order with Zhu Fu's warning that frequent replacement of remaining local officials produces short-termism and false performance.
+- Scale mismatch diagnosis: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|汉纪 701]] says Liu Xiu's edict notes that officials are meant to serve the people, but the war-hit population has fallen while official posts remain numerous.
+- Local verification and merger: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|汉纪 701]] says county, temple-office, and provincial officials are told to verify conditions and merge counties or fiefs lacking enough basis for separate senior officials.
+- Large reduction: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|汉纪 701]] says more than four hundred counties are cut and many official positions disappear.
+- Tenure complement: [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|汉纪 701]] follows the cutting order with Zhu Fu's warning that frequent replacement of remaining local officials produces short-termism and false performance.
 
 ## Counterevidence & Qualifications
 
-The current concept rests on one source note. Hanji 701 gives the policy rationale and headline scale, but it does not detail the verification records, affected county names, administrative costs, local resistance, or fiscal results. Retrenchment could harm capacity if posts are cut without suitable officials, clear jurisdictions, and stable tenure; the source's own sequence points to that qualification through Zhu Fu's memorial.
+The current concept rests on one source note. 汉纪 701 gives the policy rationale and headline scale, but it does not detail the verification records, affected county names, administrative costs, local resistance, or fiscal results. Retrenchment could harm capacity if posts are cut without suitable officials, clear jurisdictions, and stable tenure; the source's own sequence points to that qualification through Zhu Fu's memorial.
 
 ## What Changed
 
-- Created the concept from Hanji 701's Jianwu 6 county and official reductions.
+- Created the concept from 汉纪 701's Jianwu 6 county and official reductions.
 - Paired the reduction logic with local-official tenure stability rather than treating bureaucracy cutting as self-evidently sufficient.
 
 ## Related Concepts

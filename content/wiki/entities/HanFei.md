@@ -8,13 +8,13 @@ last_updated: 2026-08-26
 
 # Han Fei / 韩非
 
-[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]] uses Han Fei as the opening secrecy and speech-risk frame. The episode invokes the warning that affairs succeed through secrecy and fail through talk, then maps that principle onto advice, premature disclosure, and [[CaiYong|蔡邕]]'s leaked memorial under [[EmperorLingOfHan|汉灵帝]].
+[[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|汉纪 912]] uses Han Fei as the opening secrecy and speech-risk frame. The episode invokes the warning that affairs succeed through secrecy and fail through talk, then maps that principle onto advice, premature disclosure, and [[CaiYong|蔡邕]]'s leaked memorial under [[EmperorLingOfHan|汉灵帝]].
 
 Han Fei / 韩非 appears in [[72-junzhulun-du-ta-shi-yichang-weixian-de-maoxian-673440837]] as part of the Chinese comparison often made with [[NiccoloMachiavelli|Machiavelli]]. The episode says Chinese readers sometimes treat Machiavelli as a Western Han Fei, linking both to harsh times, competitive political orders, and challenges to inherited moral language.
 
 The source also warns that the comparison has limits. Han Fei is used as a Legalist reference point, while Machiavelli is read as opening a broader political-science problem around regimes, possibility, fortune, people, and order.
 
-[[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] reuses Han Fei as the episode's opening human-nature frame for late-Han disorder. The host presents Han Fei's thought as a cold tool for seeing interest and calculation beneath moral language, then immediately qualifies that coldness by citing his line about the benevolent person gladly loving others from the heart. In this source, Han Fei is not a plot actor; he is the interpretive lens for reading why soldiers, wives, advisers, and warlords move when their interests change.
+[[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|汉纪 988]] reuses Han Fei as the episode's opening human-nature frame for late-Han disorder. The host presents Han Fei's thought as a cold tool for seeing interest and calculation beneath moral language, then immediately qualifies that coldness by citing his line about the benevolent person gladly loving others from the heart. In this source, Han Fei is not a plot actor; he is the interpretive lens for reading why soldiers, wives, advisers, and warlords move when their interests change.
 
 [[100-fa-lv-de-bei-lun-xie-tian-xie-di-xing-hao-wo-men-hai-you-luo-xiang-733477302]] adds a criminal-law-philosophy use of Han Fei. In that episode, he helps mark the Legalist side of the [[LawMoralityBoundary]] problem: law as command can create order, but if law loses moral grounding and institutional restraint it can slide toward [[CriminalLawAsPowerLimitation|unlimited state punishment]] and [[PunishmentTheoryTradeoff|harsh deterrence logic]].
 
@@ -35,11 +35,11 @@ The source also warns that the comparison has limits. Han Fei is used as a Legal
 The source then records Han Fei's imprisonment, Li Si's private delivery of poison, and [[QinShiHuang|嬴政 / 秦始皇]]'s too-late regret and pardon. It turns [[AuthorAdmirationPowerRisk]] into a fatal outcome: the admired author is not protected once rival ministers can recode his home-state duty as disloyalty and rush punishment through [[PrivatePunishmentWithoutProcedure|private action]].
 
 ## Connections
-- [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|Hanji 912]], [[CaiYong|蔡邕]], [[CommunicationBoundarySetting|Communication Boundary Setting]], and [[ConfidentialRemonstranceLeakage|密奏泄露风险]] - secrecy warning used as the episode's advice-risk frame.
+- [[zizhi-tongjian-hanji-912-mimi-daodi-gai-bugai-shuo-chukou-lhsgipxwc17pahc-r6jl7xdyrs2a|汉纪 912]], [[CaiYong|蔡邕]], [[CommunicationBoundarySetting|Communication Boundary Setting]], and [[ConfidentialRemonstranceLeakage|密奏泄露风险]] - secrecy warning used as the episode's advice-risk frame.
 - [[ShangYang|Shang Yang / 商鞅]] - paired Legalist figure in the comparison.
 - [[NiccoloMachiavelli|Niccolo Machiavelli / 马基雅维利]] - Western political-theory figure being compared.
 - [[ThePrince|《君主论》 / The Prince]] - text sometimes read through a Legalist or 权谋术 frame.
-- [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]], [[FixedHumanNaturePolitics]], and [[HumanNaturePlasticity|人性可变性]] - interest-centered human-nature frame qualified by benevolence and trust.
+- [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|汉纪 988]], [[FixedHumanNaturePolitics]], and [[HumanNaturePlasticity|人性可变性]] - interest-centered human-nature frame qualified by benevolence and trust.
 - [[LegalistMachiavelliComparison]] - concept that stores the source's useful-but-limited comparison.
 - [[LawMoralityBoundary]] and [[CriminalLawAsPowerLimitation]] - law-philosophy use added by episode 100.
 - [[ZhaoJinghou|赵靖侯]] and [[LegalistRulerTechnique]] - Zhouji 08 part 2 governance-technique branch.

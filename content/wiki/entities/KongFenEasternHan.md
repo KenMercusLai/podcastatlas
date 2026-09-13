@@ -10,7 +10,7 @@ last_updated: 2026-09-01
 
 ## Overview
 
-孔奋 / Kong Fen is synthesized as a clean Eastern Han frontier official whose value is defined by contrast with officials who used the wealthy Hexi environment to enrich themselves. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] presents his four years at Guzang as a conspicuous refusal to convert office into private goods, after which [[LiuXiu|光武帝刘秀]] praises him and appoints him Wudu commandery assistant.
+孔奋 / Kong Fen is synthesized as a clean Eastern Han frontier official whose value is defined by contrast with officials who used the wealthy Hexi environment to enrich themselves. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] presents his four years at Guzang as a conspicuous refusal to convert office into private goods, after which [[LiuXiu|光武帝刘秀]] praises him and appoints him Wudu commandery assistant.
 
 ## Current Profile
 
@@ -27,10 +27,10 @@ The visible proof comes during the Luoyang journey. Other officials travel with 
 
 ## Evidence
 
-- Guzang setting: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Guzang is rich and that many local officials enrich themselves during disorder.
-- Four-year clean service: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Kong Fen serves there for four years while remaining upright and clean enough to be mocked by peers.
-- Luoyang contrast: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says other officials travel with goods while Kong Fen has only one cart and no stores.
-- Court recognition: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Liu Xiu learns of Kong Fen's conduct, praises him, and appoints him Wudu commandery assistant.
+- Guzang setting: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Guzang is rich and that many local officials enrich themselves during disorder.
+- Four-year clean service: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Kong Fen serves there for four years while remaining upright and clean enough to be mocked by peers.
+- Luoyang contrast: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says other officials travel with goods while Kong Fen has only one cart and no stores.
+- Court recognition: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Liu Xiu learns of Kong Fen's conduct, praises him, and appoints him Wudu commandery assistant.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source does not reconstruct Kong Fen's whole career, family background, late
 
 ## What Changed
 
-- Created Kong Fen as a canonical Eastern Han entity from Hanji 714.
+- Created Kong Fen as a canonical Eastern Han entity from 汉纪 714.
 
 ## Relationships
 

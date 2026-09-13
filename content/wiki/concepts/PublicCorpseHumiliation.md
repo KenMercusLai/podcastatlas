@@ -18,15 +18,15 @@ Public corpse humiliation is the use of a dead body as political or revenge comm
 
 ## Current Synthesis
 
-Hanji 830 adds an intimidation version before the Dong Zhuo branch and beside the private-feud branch. [[LiangJiLateHan|梁冀]] displays the bodies of [[LiGuLateHan|李固]] and [[DuQiaoLateHan|杜乔]] north of Luoyang after their prison deaths and bans mourning. The tactic is meant to make the officials' defeat public, but [[GuoLiangLiGuStudent|郭亮]], [[DongBanNanyangLateHan|董班]], and [[YangKuangDuQiaoRetainer|杨匡]] turn the display into [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]].
+汉纪 830 adds an intimidation version before the Dong Zhuo branch and beside the private-feud branch. [[LiangJiLateHan|梁冀]] displays the bodies of [[LiGuLateHan|李固]] and [[DuQiaoLateHan|杜乔]] north of Luoyang after their prison deaths and bans mourning. The tactic is meant to make the officials' defeat public, but [[GuoLiangLiGuStudent|郭亮]], [[DongBanNanyangLateHan|董班]], and [[YangKuangDuQiaoRetainer|杨匡]] turn the display into [[FuneraryDefianceUnderPoliticalTerror|恐怖政治下的丧葬抗命]].
 
-Hanji 903 supplies a private-feud version. [[SuBuweiLateHan|苏不韦]] opens the grave of [[LiHaoLateHan|李昊]]'s father, cuts off the head, and hangs it in the market. The display does not settle the feud; it deepens insult and helps trigger later household destruction through [[DuanJiongLateHan|段熲]].
+汉纪 903 supplies a private-feud version. [[SuBuweiLateHan|苏不韦]] opens the grave of [[LiHaoLateHan|李昊]]'s father, cuts off the head, and hangs it in the market. The display does not settle the feud; it deepens insult and helps trigger later household destruction through [[DuanJiongLateHan|段熲]].
 
-Hanji 963 supplies the public-afterlife version after [[DongZhuo|董卓]]'s fall. [[LyuBu|吕布]] kills Dong Zhuo under [[WangYunLateHan|王允]]'s plan, and Dong Zhuo's body becomes a spectacle of vengeance and moral reversal in [[ChangAnHanCapital|长安]]. The follow-on problem is that spectacle does not solve remnant troops, offices, food, titles, or court legitimacy.
+汉纪 963 supplies the public-afterlife version after [[DongZhuo|董卓]]'s fall. [[LyuBu|吕布]] kills Dong Zhuo under [[WangYunLateHan|王允]]'s plan, and Dong Zhuo's body becomes a spectacle of vengeance and moral reversal in [[ChangAnHanCapital|长安]]. The follow-on problem is that spectacle does not solve remnant troops, offices, food, titles, or court legitimacy.
 
-Hanji 667 now adds an earlier ruler-collapse and tongue-directed revenge case through [[WangMang|王莽]]. After [[DuWuWangMangKiller|杜吾]] kills him, Wang Mang's head is cut off, his body is divided by soldiers, his head is displayed, and the crowd attacks it. The host keeps the exact tongue-eating behavior difficult to explain, but reads it as symbolic retaliation against a ruler remembered for using persuasive speech and lies to gain public support.
+汉纪 667 now adds an earlier ruler-collapse and tongue-directed revenge case through [[WangMang|王莽]]. After [[DuWuWangMangKiller|杜吾]] kills him, Wang Mang's head is cut off, his body is divided by soldiers, his head is displayed, and the crowd attacks it. The host keeps the exact tongue-eating behavior difficult to explain, but reads it as symbolic retaliation against a ruler remembered for using persuasive speech and lies to gain public support.
 
-Hanji 631 now pushes Wang Mang's use of the body back before his formal accession. After suppressing the [[ZhaiYiRebellion|翟义起义]] and Zhao Peng/Huo Hong-associated forces, Wang Mang orders rebel bodies piled at traffic routes with a denunciatory sign. This is not post-victory catharsis by commoners; it is state intimidation that converts enemy corpses into roadside warnings.
+汉纪 631 now pushes Wang Mang's use of the body back before his formal accession. After suppressing the [[ZhaiYiRebellion|翟义起义]] and Zhao Peng/Huo Hong-associated forces, Wang Mang orders rebel bodies piled at traffic routes with a denunciatory sign. This is not post-victory catharsis by commoners; it is state intimidation that converts enemy corpses into roadside warnings.
 
 ## Key Claims
 
@@ -40,25 +40,25 @@ Hanji 631 now pushes Wang Mang's use of the body back before his formal accessio
 
 ## Evidence
 
-- Intimidation display and mourning ban: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Ji displays Li Gu and Du Qiao's bodies and threatens mourners after the prison deaths.
-- Display backfire: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Guo Liang, Dong Ban, and Yang Kuang defy the body-display order and help recover burial dignity.
-- Ancestor-corpse humiliation: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] says Su Buwei opens Li Hao's father's grave, removes the head, and hangs it in the market.
-- Feud escalation: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] links the ancestor display to a revenge chain that later destroys Su's household.
-- Ruler-corpse spectacle: [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] treats Dong Zhuo's body in Chang'an as a public sign of vengeance and moral reversal after Lü Bu kills him.
-- Instability after spectacle: [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|Hanji 963]] places the corpse spectacle beside household killing, Meiwu wealth seizure, and unresolved danger from Dong Zhuo's remnant soldiers.
-- Wang Mang head display: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] says Wang Mang's head is sent to the Gengshi center and displayed after his death.
-- Tongue-directed revenge: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] reports people cutting and eating Wang Mang's tongue and preserves the host's qualified reading of the act as symbolic punishment for deceptive speech.
-- Roadside corpse piles: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says Wang Mang orders the bodies of Zhai Yi, Zhao Peng, and Huo Hong-associated rebels piled at five traffic-route locations.
-- Warning signage: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says the corpse piles are marked with a sign denouncing the dead as rebel captives and whale-like monsters.
+- Intimidation display and mourning ban: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Liang Ji displays Li Gu and Du Qiao's bodies and threatens mourners after the prison deaths.
+- Display backfire: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Guo Liang, Dong Ban, and Yang Kuang defy the body-display order and help recover burial dignity.
+- Ancestor-corpse humiliation: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]] says Su Buwei opens Li Hao's father's grave, removes the head, and hangs it in the market.
+- Feud escalation: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]] links the ancestor display to a revenge chain that later destroys Su's household.
+- Ruler-corpse spectacle: [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|汉纪 963]] treats Dong Zhuo's body in Chang'an as a public sign of vengeance and moral reversal after Lü Bu kills him.
+- Instability after spectacle: [[zizhi-tongjian-hanji-963-shishang-bei-diantian-deng-de-diyiren-shi-ta-lkpkhlpkv3xpw-hur4b7sh-3druk|汉纪 963]] places the corpse spectacle beside household killing, Meiwu wealth seizure, and unresolved danger from Dong Zhuo's remnant soldiers.
+- Wang Mang head display: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] says Wang Mang's head is sent to the Gengshi center and displayed after his death.
+- Tongue-directed revenge: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] reports people cutting and eating Wang Mang's tongue and preserves the host's qualified reading of the act as symbolic punishment for deceptive speech.
+- Roadside corpse piles: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|汉纪 631]] says Wang Mang orders the bodies of Zhai Yi, Zhao Peng, and Huo Hong-associated rebels piled at five traffic-route locations.
+- Warning signage: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|汉纪 631]] says the corpse piles are marked with a sign denouncing the dead as rebel captives and whale-like monsters.
 
 ## Counterevidence & Qualifications
 
-This concept should not collapse all execution, assassination, burial, or mourning into corpse humiliation. Its diagnostic feature is public treatment of the dead body as a message to the living. Hanji 830 also shows a counter-pattern: corpse display can be defeated symbolically when witnesses accept risk to mourn or recover the body. Hanji 903 remains a private-feud and ancestor-targeting case, Hanji 963 remains a post-tyrant public-catharsis case with unresolved institutional consequences, Hanji 667's tongue-eating interpretation remains explicitly qualified by the host rather than fully explained, and Hanji 631's "精官/金官" term is transcript-sensitive.
+This concept should not collapse all execution, assassination, burial, or mourning into corpse humiliation. Its diagnostic feature is public treatment of the dead body as a message to the living. 汉纪 830 also shows a counter-pattern: corpse display can be defeated symbolically when witnesses accept risk to mourn or recover the body. 汉纪 903 remains a private-feud and ancestor-targeting case, 汉纪 963 remains a post-tyrant public-catharsis case with unresolved institutional consequences, 汉纪 667's tongue-eating interpretation remains explicitly qualified by the host rather than fully explained, and 汉纪 631's "精官/金官" term is transcript-sensitive.
 
 ## What Changed
 
-- Added Hanji 631 as a state-ordered roadside corpse-pile case before Wang Mang's formal accession.
-- Preserved Hanji 667 as the later Wang Mang head-display, dismemberment, and tongue-directed popular-revenge case.
+- Added 汉纪 631 as a state-ordered roadside corpse-pile case before Wang Mang's formal accession.
+- Preserved 汉纪 667 as the later Wang Mang head-display, dismemberment, and tongue-directed popular-revenge case.
 
 ## Related Concepts
 

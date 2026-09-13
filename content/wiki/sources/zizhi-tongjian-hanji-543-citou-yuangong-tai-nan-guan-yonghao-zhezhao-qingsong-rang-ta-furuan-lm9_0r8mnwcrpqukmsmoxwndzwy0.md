@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 2-3 / 15-14 BCE under [[HanChengdi|汉成帝]], after [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]] and before [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]]. It first uses [[ZhuBoWesternHan|朱博]]'s commandery administration as a management case: local strongmen are brought into office, given bounded responsibility, rewarded for useful order, and punished when they fail or plot.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 2-3 / 15-14 BCE under [[HanChengdi|汉成帝]], after [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|汉纪 542]] and before [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|汉纪 544]]. It first uses [[ZhuBoWesternHan|朱博]]'s commandery administration as a management case: local strongmen are brought into office, given bounded responsibility, rewarded for useful order, and punished when they fail or plot.
 
 The second half shifts to Chengdi's restored sacrifices after an eclipse and violent wind at Ganquan, then to [[GuYongWesternHan|谷永]]'s anti-fangshu memorial. The durable synthesis is that both halves ask how authority distinguishes usable local influence from predatory or fear-driven influence: Zhu Bo turns strongmen into accountable agents under court-backed office, while Gu Yong warns that immortal techniques, spirit stories, and ritual opportunism can convert imperial anxiety into costly deception.
 

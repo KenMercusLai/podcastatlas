@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], immediately before [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]]. It centers [[FuTaihouWesternHan|傅太后]]'s demand for a title equal in dignity to [[WangZhengjun|王政君]], the resistance of [[KongGuangWesternHan|孔光]], [[ShiDanWesternHan|施丹]], and [[FuXiWesternHan|傅喜]], and the counter-move by [[FuYanWesternHan|傅晏]] and [[ZhuBoWesternHan|朱博]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], immediately before [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|汉纪 578]]. It centers [[FuTaihouWesternHan|傅太后]]'s demand for a title equal in dignity to [[WangZhengjun|王政君]], the resistance of [[KongGuangWesternHan|孔光]], [[ShiDanWesternHan|施丹]], and [[FuXiWesternHan|傅喜]], and the counter-move by [[FuYanWesternHan|傅晏]] and [[ZhuBoWesternHan|朱博]].
 
 The durable synthesis is that the title dispute becomes a case of [[BureaucraticAdverseSelection|官场逆淘汰]]. Officials who uphold ritual and public-order limits are removed or exposed, while actors willing to flatter Fu Taihou, package the demand as filial piety, and denounce opponents as self-protective or factional gain promotion opportunity.
 
@@ -45,5 +45,5 @@ The durable synthesis is that the title dispute becomes a case of [[Bureaucratic
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source precedes Hanji 578's formal personnel reset, Hanji 579's title settlement, and Hanji 582's later failed attempt to punish Fu Xi further.
+- Chronology qualification: this source precedes 汉纪 578's formal personnel reset, 汉纪 579's title settlement, and 汉纪 582's later failed attempt to punish Fu Xi further.
 - Scope caution: the source is short and interpretive; it does not reconstruct the full received text of the title debate, Kong Guang's full memorial position, Fu Yan's full career, Zhu Bo's private motive, or the exact legal formula behind Shi Dan and Fu Xi's removals.

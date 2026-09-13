@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yangshuo 2 / 23 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]]. It begins from a modern "invisible endorsement" workplace story, then uses [[WangYinWesternHan|王音]]'s promotion to Yushi Dafu and the Wang family's appointment, guest, luxury, and reputation networks to show how [[OuterRelativePreventiveRestraint|outer-relative restraint]] had already become urgent.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yangshuo 2 / 23 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]]. It begins from a modern "invisible endorsement" workplace story, then uses [[WangYinWesternHan|王音]]'s promotion to Yushi Dafu and the Wang family's appointment, guest, luxury, and reputation networks to show how [[OuterRelativePreventiveRestraint|outer-relative restraint]] had already become urgent.
 
 The core historical section follows [[LiuXiang|刘向]]'s private warning to [[ChenTangWesternHan|陈汤]] and secret memorial to Chengdi. Liu Xiang argues that [[WangFengWesternHan|王凤]], the Five Marquises, Wang-family retainers, court appointments, selective historical precedent, and ominous signs around the Wang ancestral tomb all point to a dynastic-transfer danger unless Chengdi strengthens Liu-family kin, removes outer relatives from power, and recovers state authority.
 

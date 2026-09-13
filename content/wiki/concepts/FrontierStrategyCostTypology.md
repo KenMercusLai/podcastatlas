@@ -14,7 +14,7 @@ Frontier strategy cost typology / 边疆战略成本分型 is the episode's fram
 
 ## Current Synthesis
 
-Hanji 643 introduces the typology through [[YanYouXinGeneral|Yan You]]'s memorial to [[WangMang|Wang Mang]]. Yan You compares three precedents: Zhou's limited expulsion of Xianyun, [[HanWudi|Han Wudi]]'s deep anti-[[Xiongnu|Xiongnu]] offensives, and Qin's wall-building response. The ranking is deliberately counterintuitive because it separates tactical success from strategic value.
+汉纪 643 introduces the typology through [[YanYouXinGeneral|Yan You]]'s memorial to [[WangMang|Wang Mang]]. Yan You compares three precedents: Zhou's limited expulsion of Xianyun, [[HanWudi|Han Wudi]]'s deep anti-[[Xiongnu|Xiongnu]] offensives, and Qin's wall-building response. The ranking is deliberately counterintuitive because it separates tactical success from strategic value.
 
 The Zhou option is treated as a middle strategy: it uses a limited force for a limited defensive aim and avoids exhausting the state, but it does not eliminate the problem. Han Wudi's option is treated as a lower strategy because it pursues a more maximal aim through deep war, elite commanders, and long expenditure. Qin's option is treated as no strategy because it imposes huge domestic burden while producing an effect similar to limited defense.
 
@@ -31,11 +31,11 @@ The concept therefore gives the wiki a reusable cost-ratio test. A frontier poli
 
 ## Evidence
 
-- Three-policy comparison: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] presents Yan You's ranking of Zhou as middle strategy, Han as lower strategy, and Qin as no strategy.
-- Zhou limited-defense logic: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says Zhou drives Xianyun out and returns, achieving a limited aim without long exhaustion.
-- Han deep-war critique: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says Han Wudi wins major merit and spoils but imposes more than thirty years of war damage and public suffering.
-- Qin burden critique: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] says Qin keeps boundaries through the Great Wall but drains domestic resources and contributes to collapse.
-- Host synthesis: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] interprets the categories as minimum cost for minimum goal, high cost for maximal goal, and maximum cost for minimum goal.
+- Three-policy comparison: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] presents Yan You's ranking of Zhou as middle strategy, Han as lower strategy, and Qin as no strategy.
+- Zhou limited-defense logic: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says Zhou drives Xianyun out and returns, achieving a limited aim without long exhaustion.
+- Han deep-war critique: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says Han Wudi wins major merit and spoils but imposes more than thirty years of war damage and public suffering.
+- Qin burden critique: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] says Qin keeps boundaries through the Great Wall but drains domestic resources and contributes to collapse.
+- Host synthesis: [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] interprets the categories as minimum cost for minimum goal, high cost for maximal goal, and maximum cost for minimum goal.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ This concept is grounded in Yan You's memorial as mediated by one podcast episod
 
 ## What Changed
 
-- Created the concept from Hanji 643's Zhou-Han-Qin comparison.
+- Created the concept from 汉纪 643's Zhou-Han-Qin comparison.
 
 ## Related Concepts
 

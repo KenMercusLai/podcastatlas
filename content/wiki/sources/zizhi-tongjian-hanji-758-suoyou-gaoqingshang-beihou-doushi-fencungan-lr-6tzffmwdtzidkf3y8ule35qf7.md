@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late 88 CE [[EmperorZhangOfHan|汉章帝]] layer immediately before [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]]. It uses "分寸感" to connect ritual order, military timing, kinship privilege, fiscal restraint, and court hierarchy.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late 88 CE [[EmperorZhangOfHan|汉章帝]] layer immediately before [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|汉纪 759]]. It uses "分寸感" to connect ritual order, military timing, kinship privilege, fiscal restraint, and court hierarchy.
 
 The episode follows Zhangdi's southern tour, Northern Xiongnu submission notices, [[CaoBaoEasternHan|曹褒]] completing Han ritual institutions, and [[BanChaoEasternHan|班超]] defeating Shache through a false-retreat deception. Its central court claim is that Zhangdi's kindness and generosity became politically risky when royal kin remained in Luoyang, received treatment above regular rank, and consumed public resources despite disasters and frontier strain; [[HeChangEasternHan|何敞]] and [[SongYiEasternHan|宋意]] warn that affection must remain inside fiscal, ritual, and subject-status boundaries before Zhangdi dies and [[EmpressDowagerDouHeLateHan|窦太后]] enters the regency field.
 
@@ -45,7 +45,7 @@ The episode follows Zhangdi's southern tour, Northern Xiongnu submission notices
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills the final Zhangdi layer before Hanji 759 rather than overturning the already-ingested Dou-regency, Liu Chang murder, and Northern Xiongnu campaign sequence.
-- Chronology note: Hanji 758 ends with Zhangdi's death and the child Liu Zhao / Emperor He's succession setup; Hanji 759 begins from the dowager-regency consequences of that transition.
+- No settled contradiction with existing wiki content was found. The episode backfills the final Zhangdi layer before 汉纪 759 rather than overturning the already-ingested Dou-regency, Liu Chang murder, and Northern Xiongnu campaign sequence.
+- Chronology note: 汉纪 758 ends with Zhangdi's death and the child Liu Zhao / Emperor He's succession setup; 汉纪 759 begins from the dowager-regency consequences of that transition.
 - Identity caution: the source's 宋由 is treated as the Taiwei route already represented by [[SongYouEasternHan|宋游 / Song You]], while [[SongYiEasternHan|宋意]] remains the separate Shangshu remonstrant. The two should not be merged.
 - Scope caution: Jinan king Liu Kang, Fuling/Fulin king Liu Yan, Zhongshan king Liu Yan, Xiping king Liu Xian, Shache, Yutian, Wensu, Gumo, Weitou, exact dates, force counts, and local route details remain source-scoped unless later notes warrant standalone pages.

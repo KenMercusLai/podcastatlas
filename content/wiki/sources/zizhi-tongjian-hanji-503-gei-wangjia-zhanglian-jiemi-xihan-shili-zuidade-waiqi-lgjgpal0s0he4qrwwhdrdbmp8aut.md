@@ -41,7 +41,7 @@ The durable synthesis is that Chengdi's reign begins with two linked pressure fi
 - [[OuterRelativePreventiveRestraint|外戚预防性约束]] and [[OuterRelativeCourtPower|外戚专权与清算]] - the source supplies an early Western Han origin point for later warnings about unchecked maternal kin.
 - [[OmenCodedRemonstrance|天象灾异包装式进谏]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], and [[DisasterOmenCrisisRedirection|灾异压力转移]] - yellow fog and later strange signs become politically usable languages for criticism and repair.
 - [[XueXuanWesternHan|薛宣]] - his earlier memorial diagnoses harsh administration and failed regional inspection before the later patronage, promotion, impeachment, and funeral-accountability layers.
-- [[KuangHengWesternHan|匡衡]] - appears as the ritual-reform adviser whose recommendations remove older sacrifice sites before his later demotion in Hanji 505 and Hanji 514.
+- [[KuangHengWesternHan|匡衡]] - appears as the ritual-reform adviser whose recommendations remove older sacrifice sites before his later demotion in 汉纪 505 and 汉纪 514.
 - [[EmpressXuWesternHan|许皇后]] - her installation closes the episode and sets up later Xu-family vulnerability under Wang-family pressure.
 
 ## Contradictions

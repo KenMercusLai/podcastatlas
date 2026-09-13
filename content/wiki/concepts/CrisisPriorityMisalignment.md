@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] grounds the concept in [[WangMang|王莽]]'s 18-19 CE crisis. Rebellion is growing in Shandong, Qingzhou, and Xuzhou, while Xiongnu pressure is worsening partly because Wang Mang has tried to manipulate succession through Xu Bu Dang. Wang Mang prepares for the Xiongnu problem through large mobilization and talent spectacle.
+[[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] grounds the concept in [[WangMang|王莽]]'s 18-19 CE crisis. Rebellion is growing in Shandong, Qingzhou, and Xuzhou, while Xiongnu pressure is worsening partly because Wang Mang has tried to manipulate succession through Xu Bu Dang. Wang Mang prepares for the Xiongnu problem through large mobilization and talent spectacle.
 
 [[YanYouXinGeneral|严尤]] gives the corrective diagnosis. Xiongnu can be deferred because it has not yet done the same level of damage, while Shandong rebels are the immediate danger. Wang Mang's angry dismissal of Yan You turns a priority warning into a political offense and leaves the regime committed to the wrong sequence.
 
@@ -28,10 +28,10 @@ last_updated: 2026-09-09
 
 ## Evidence
 
-- Multi-front setting: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] describes eastern rebel growth and worsening Xiongnu frontier pressure in the same 18-19 CE crisis.
-- Costly Xiongnu response: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang mobilizes people, criminals, servants, wealth, textiles, horses, and speculative technical talent for the Xiongnu campaign.
-- Priority warning: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Yan You argues that Shandong rebels should be the chief concern before Xiongnu.
-- Punished correction: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang responds by dismissing Yan You.
+- Multi-front setting: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] describes eastern rebel growth and worsening Xiongnu frontier pressure in the same 18-19 CE crisis.
+- Costly Xiongnu response: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says Wang Mang mobilizes people, criminals, servants, wealth, textiles, horses, and speculative technical talent for the Xiongnu campaign.
+- Priority warning: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says Yan You argues that Shandong rebels should be the chief concern before Xiongnu.
+- Punished correction: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says Wang Mang responds by dismissing Yan You.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept does not claim the Xiongnu threat was imaginary. The source says Xio
 
 ## What Changed
 
-- Created the concept from Hanji 655's Yan You warning and Wang Mang dismissal sequence.
+- Created the concept from 汉纪 655's Yan You warning and Wang Mang dismissal sequence.
 
 ## Related Concepts
 

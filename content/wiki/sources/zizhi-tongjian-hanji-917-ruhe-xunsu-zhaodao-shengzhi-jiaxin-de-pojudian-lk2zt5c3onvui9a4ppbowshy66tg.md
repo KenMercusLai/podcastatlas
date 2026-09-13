@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 179 CE late-Han sequence immediately before [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]]. It opens with [[PromotionPositionFit|promotion position fit]], then uses [[LyuQiangLateHan|吕强]]'s refused marquisate and broad remonstrance to show [[EmperorLingOfHan|汉灵帝]] hearing but not adopting corrective advice about eunuch titles, palace consumption, peasant burdens, [[CaiYong|蔡邕]], and [[DuanJiongLateHan|段熲]]. The closing notices add [[HeHaiLateHan|何海]]'s successful narrowing of party-prohibition kinship liability and [[ZhangXiuProtectorOfXiongnu|张脩]]'s unauthorized killing of [[HuzhengChanyu|呼征]] before [[QiangquChanyu|羌渠]] is installed as [[SouthernXiongnu|南匈奴]] chanyu.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 179 CE late-Han sequence immediately before [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|汉纪 918]]. It opens with [[PromotionPositionFit|promotion position fit]], then uses [[LyuQiangLateHan|吕强]]'s refused marquisate and broad remonstrance to show [[EmperorLingOfHan|汉灵帝]] hearing but not adopting corrective advice about eunuch titles, palace consumption, peasant burdens, [[CaiYong|蔡邕]], and [[DuanJiongLateHan|段熲]]. The closing notices add [[HeHaiLateHan|何海]]'s successful narrowing of party-prohibition kinship liability and [[ZhangXiuProtectorOfXiongnu|张脩]]'s unauthorized killing of [[HuzhengChanyu|呼征]] before [[QiangquChanyu|羌渠]] is installed as [[SouthernXiongnu|南匈奴]] chanyu.
 
 ## Key Claims
 - The career opening argues that advancement depends on whether one's role sits on a visible promotion path, whether the work answers the real superior's needs, and whether the person moves with a larger organizational trend rather than only working hard.
@@ -24,7 +24,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - The [[DuanJiongLateHan|段熲]] branch makes meritorious service insecure under captured prosecution, because an old frontier commander can be pulled into eunuch-network punishment after [[YangQiuLateHan|阳球]] destroys [[WangFuLateHan|王甫]].
 - [[HeHaiLateHan|何海]] wins a limited policy repair by arguing that party-prohibition punishment should not extend to distant kin who no longer share a grandfather-level household.
 - [[ZhangXiuProtectorOfXiongnu|张脩]]'s killing of [[HuzhengChanyu|呼征]] and installation of [[QiangquChanyu|羌渠]] shows frontier officials able to alter [[SouthernXiongnu|南匈奴]] succession without authorization, with the Han court later punishing the official rather than endorsing the move.
-- [[YangQiuLateHan|阳球]]'s closing ambition to move from [[WangFuLateHan|王甫]] against [[CaoJieLateHan|曹节]] and [[ZhuYuLateHan|朱瑀]] sets up Hanji 918's backlash: an anti-eunuch actor can misread the emperor-favorite relationship and overrun the real power map.
+- [[YangQiuLateHan|阳球]]'s closing ambition to move from [[WangFuLateHan|王甫]] against [[CaoJieLateHan|曹节]] and [[ZhuYuLateHan|朱瑀]] sets up 汉纪 918's backlash: an anti-eunuch actor can misread the emperor-favorite relationship and overrun the real power map.
 
 ## Key Quotes
 > "你勤勤恳恳工作，却没有办法升职加薪，可能是因为你的职位不在晋升的阶梯上。" — opening workplace frame
@@ -41,7 +41,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[CaiYong]], [[DuanJiongLateHan]], and [[CourtFeedbackCollapse]] — punished speech and punished merit as examples of a court that cannot protect corrective information.
 - [[HeHaiLateHan]], [[PartyProhibitionKinshipNarrowing]], and [[PartyBanCrisisAmnesty]] — limited 179 CE reduction of party-prohibition collateral punishment before later crisis amnesty.
 - [[ZhangXiuProtectorOfXiongnu]], [[HuzhengChanyu]], [[QiangquChanyu]], [[SouthernXiongnu]], and [[UnauthorizedFrontierCommandIntervention]] — unauthorized frontier succession intervention before the later Southern Xiongnu requisition crisis.
-- [[YangQiuLateHan]], [[WangFuLateHan]], and [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] — anti-eunuch prosecution overconfidence before the failed Cao Jie plot.
+- [[YangQiuLateHan]], [[WangFuLateHan]], and [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|汉纪 918]] — anti-eunuch prosecution overconfidence before the failed Cao Jie plot.
 
 ## Contradictions
 - No settled contradiction with existing wiki content is recorded.

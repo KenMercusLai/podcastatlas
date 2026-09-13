@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184 CE late-Han layer before [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]]. It follows [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]] pushing palace-construction finance, [[LuKangLateHan|陆康]] being punished after remonstrating against the added burden, and [[SimaZhiLateHan|司马直]] choosing a death memorial rather than taking office by squeezing the people.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184 CE late-Han layer before [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|汉纪 933]]. It follows [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]] pushing palace-construction finance, [[LuKangLateHan|陆康]] being punished after remonstrating against the added burden, and [[SimaZhiLateHan|司马直]] choosing a death memorial rather than taking office by squeezing the people.
 
 The episode's core contribution is [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]]: palace display and office-entry fees become a downward extraction chain in which eunuch-favored projects, inspection manipulation, provincial tax add-ons, and appointment charges all converge on local households. The host's answer to the title question is institutional rather than merely moral: very clean officials struggle to hold high office when the office itself has been converted into a demand to become an extractor.
 
@@ -30,7 +30,7 @@ The episode's core contribution is [[PalaceConstructionFeeExtraction|修宫钱�
 - Sima Zhi, appointed administrator of [[JuluCommanderyLateHan|巨鹿郡]], negotiates the demanded sum down by three million but still refuses to finance office entry through local extraction.
 - After a sickness excuse fails, Sima Zhi reaches Mengjin, writes a memorial against the palace-construction and office-fee abuses, takes poison, and dies.
 - Emperor Ling is moved enough to pause the palace-construction fee, making Sima Zhi's death a partial feedback breakthrough rather than a full institutional repair.
-- After [[ZhangJiaoLateHan|张角]] launches the Yellow Turban uprising, armed groups proliferate; the source names [[ZhangNiujiaoLateHan|张牛角]] and Chu Feiyan / [[ZhangYanLateHan|张燕]] among the disorder field that Hanji 933 later develops.
+- After [[ZhangJiaoLateHan|张角]] launches the Yellow Turban uprising, armed groups proliferate; the source names [[ZhangNiujiaoLateHan|张牛角]] and Chu Feiyan / [[ZhangYanLateHan|张燕]] among the disorder field that 汉纪 933 later develops.
 
 ## Key Quotes
 
@@ -51,6 +51,6 @@ The episode's core contribution is [[PalaceConstructionFeeExtraction|修宫钱�
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills Lu Kang's earlier Le'an remonstrance before his later Lujiang refusal in Hanji 983.
+- No settled contradiction with existing wiki pages was found. The episode backfills Lu Kang's earlier Le'an remonstrance before his later Lujiang refusal in 汉纪 983.
 - Identity caution: the source's censorial Liu Dai is recorded on [[LiuDaiLateHan|刘岱 / Liu Dai (late Han)]] unless a later source requires a separate homonym page.
 - Scope caution: the bandit list is treated as background to the later [[ZhangNiujiaoLateHan|张牛角]] and [[ZhangYanLateHan|张燕]] / [[HeishanArmy|黑山军]] branch, not as a full institutional history of those groups.

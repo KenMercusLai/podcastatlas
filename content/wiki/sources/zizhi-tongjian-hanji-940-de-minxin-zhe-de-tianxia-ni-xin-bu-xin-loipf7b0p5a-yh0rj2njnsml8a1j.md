@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 188 CE Yizhou and disaster layer immediately before [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]]. It follows [[FanLingLateHan|樊陵]]'s brief taiwei appointment, [[MaXiangLateHan|马相]] and [[ZhaoZhiLateHan|赵祗]]'s uprising at [[MianzhuLateHan|绵竹]], [[JiaLongLateHan|贾龙]]'s local counterattack, and [[LiuYanLateHan|刘焉]]'s entry into [[YizhouLateHan|益州]] through lenient pacification. The closing flood segment connects late-Han disorder to [[DisasterResponseStateCapacity|disaster response state capacity]] and [[DisasterReliefCorruption|救灾物资贪腐]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 188 CE Yizhou and disaster layer immediately before [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|汉纪 941]]. It follows [[FanLingLateHan|樊陵]]'s brief taiwei appointment, [[MaXiangLateHan|马相]] and [[ZhaoZhiLateHan|赵祗]]'s uprising at [[MianzhuLateHan|绵竹]], [[JiaLongLateHan|贾龙]]'s local counterattack, and [[LiuYanLateHan|刘焉]]'s entry into [[YizhouLateHan|益州]] through lenient pacification. The closing flood segment connects late-Han disorder to [[DisasterResponseStateCapacity|disaster response state capacity]] and [[DisasterReliefCorruption|救灾物资贪腐]].
 
 ## Key Claims
 
@@ -45,10 +45,10 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[JiaLongLateHan|贾龙]], [[LiuYanLateHan|刘焉]], [[YizhouLateHan|益州]], [[YizhouPacificationByLeniency|益州宽惠安抚]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - restoration and people-support branch.
 - [[FanLingLateHan|樊陵]], [[EmperorLingOfHan|汉灵帝]], and [[CourtOfficeCapture|朝廷开府任官失序]] - unstable high office before the palace-crisis episodes.
 - [[DisasterResponseStateCapacity|disaster response state capacity]], [[DisasterReliefCorruption|救灾物资贪腐]], and [[NaturalHazardSocialDisaster|natural hazard as social disaster]] - flood and relief-integrity branch.
-- [[CaoCao|曹操]] and [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] - closing preview into the next court-and-Cao-Cao layer.
+- [[CaoCao|曹操]] and [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|汉纪 941]] - closing preview into the next court-and-Cao-Cao layer.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills an earlier Yizhou entry point for [[LiuYanLateHan|刘焉]] before [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|Hanji 959]] develops his later provincial autonomy.
+- No settled contradiction with existing wiki pages was found. The episode backfills an earlier Yizhou entry point for [[LiuYanLateHan|刘焉]] before [[zizhi-tongjian-hanji-959-ruguo-ni-chuanyue-dao-sanguo-gai-ruhe-cunhuo-lroaihmpnrelmfcugym9zx2h2dhq|汉纪 959]] develops his later provincial autonomy.
 - Source-scope caution: the input renders Liu Yan as "留言"; this ingest normalizes the actor to [[LiuYanLateHan|刘焉]] because the role, location, and later Yizhou sequence match the established canonical page.
 - Source-scope caution: the input renders Fan Ling as "樊麟"; this ingest links it to [[FanLingLateHan|樊陵]], the existing late-Han official page.

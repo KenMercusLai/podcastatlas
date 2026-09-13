@@ -11,11 +11,11 @@ last_updated: 2026-09-01
 
 ## Overview
 
-马成 / Ma Cheng is currently synthesized as an Eastern Han military-administrative official whose current evidence spans high-office title context and corrective frontier command. [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] places him as acting Da Sikong while also serving as Yangwu general in the 37 CE post-unification order; [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] then identifies him as Yangwu general in a corrective border-defense role after [[DuMaoEasternHan|Du Mao]]'s removal.
+马成 / Ma Cheng is currently synthesized as an Eastern Han military-administrative official whose current evidence spans high-office title context and corrective frontier command. [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] places him as acting Da Sikong while also serving as Yangwu general in the 37 CE post-unification order; [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|汉纪 717]] then identifies him as Yangwu general in a corrective border-defense role after [[DuMaoEasternHan|Du Mao]]'s removal.
 
 ## Current Profile
 
-Ma Cheng's current profile is narrow but useful. Hanji 715 first places him in [[LiuXiu|光武帝刘秀]]'s post-unification personnel settlement as acting Da Sikong and Yangwu general, showing him as a military figure used inside the rebuilt central office order. Hanji 717 then places him in a personnel-correction sequence: Du Mao is removed because a subordinate commander kills someone, Ma Cheng replaces him, and border defense is made more systematic through beacon infrastructure.
+Ma Cheng's current profile is narrow but useful. 汉纪 715 first places him in [[LiuXiu|光武帝刘秀]]'s post-unification personnel settlement as acting Da Sikong and Yangwu general, showing him as a military figure used inside the rebuilt central office order. 汉纪 717 then places him in a personnel-correction sequence: Du Mao is removed because a subordinate commander kills someone, Ma Cheng replaces him, and border defense is made more systematic through beacon infrastructure.
 
 The source presents beacon stations as a practical frontier-warning system using smoke and fire. Ma Cheng therefore belongs to the administrative-military side of Guangwu-era frontier stabilization, where leadership replacement, warning infrastructure, and later Zhang Kan's Gaoliu/Yuyang branch all reinforce each other.
 
@@ -29,19 +29,19 @@ The source presents beacon stations as a practical frontier-warning system using
 
 ## Evidence
 
-- Office title context: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]] says Ma Cheng acts as Da Sikong while also holding the Yangwu general role.
-- Replacement role: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] says Du Mao is removed and Ma Cheng replaces him.
-- Beacon defense: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] says Ma Cheng strengthens defenses by setting beacon stations roughly every ten li.
-- Frontier context: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] places the appointment alongside Lu Fang's Gaoliu return and Zhang Kan's anti-Xiongnu victory.
+- Office title context: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]] says Ma Cheng acts as Da Sikong while also holding the Yangwu general role.
+- Replacement role: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|汉纪 717]] says Du Mao is removed and Ma Cheng replaces him.
+- Beacon defense: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|汉纪 717]] says Ma Cheng strengthens defenses by setting beacon stations roughly every ten li.
+- Frontier context: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|汉纪 717]] places the appointment alongside Lu Fang's Gaoliu return and Zhang Kan's anti-Xiongnu victory.
 
 ## Qualifications
 
-The current sources do not give Ma Cheng's full biography, precise title chronology, or later campaigns. Hanji 715 supplies title context, while Hanji 717 supplies the stronger frontier-defense correction branch.
+The current sources do not give Ma Cheng's full biography, precise title chronology, or later campaigns. 汉纪 715 supplies title context, while 汉纪 717 supplies the stronger frontier-defense correction branch.
 
 ## What Changed
 
-- Added Hanji 715 as Ma Cheng's 37 CE acting-Da-Sikong and Yangwu-general context.
-- Preserved Hanji 717 as the stronger personnel replacement and beacon-infrastructure evidence.
+- Added 汉纪 715 as Ma Cheng's 37 CE acting-Da-Sikong and Yangwu-general context.
+- Preserved 汉纪 717 as the stronger personnel replacement and beacon-infrastructure evidence.
 
 ## Relationships
 

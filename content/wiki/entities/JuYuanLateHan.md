@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-具瑗 / Ju Yuan is a Huan-era eunuch whose current wiki role is source-bounded to the 159 CE overthrow of [[LiangJiLateHan|梁冀]]. [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] presents him as one of [[EmperorHuanOfHan|汉桓帝]]'s inner conspirators: he first arrests Liang's palace monitor, then helps carry the armed operation against Liang's mansion, and is later rewarded as one of the [[FiveMarquisesHuanEra|桓帝五侯]].
+具瑗 / Ju Yuan is a Huan-era eunuch whose current wiki role is source-bounded to the 159 CE overthrow of [[LiangJiLateHan|梁冀]]. [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] presents him as one of [[EmperorHuanOfHan|汉桓帝]]'s inner conspirators: he first arrests Liang's palace monitor, then helps carry the armed operation against Liang's mansion, and is later rewarded as one of the [[FiveMarquisesHuanEra|桓帝五侯]].
 
 ## Current Profile
 
-Hanji 848 makes Ju Yuan important because his actions occur at the point where palace proximity turns into command execution. Liang Ji sends Zhang Yun into the palace to watch [[ShanChaoLateHan|单超]] and the other suspected eunuchs, but Ju Yuan arrests him for entering from outside and plotting improperly. The arrest clears Liang's palace eye before Huan publicly convenes the shangshu channel and moves against Liang.
+汉纪 848 makes Ju Yuan important because his actions occur at the point where palace proximity turns into command execution. Liang Ji sends Zhang Yun into the palace to watch [[ShanChaoLateHan|单超]] and the other suspected eunuchs, but Ju Yuan arrests him for entering from outside and plotting improperly. The arrest clears Liang's palace eye before Huan publicly convenes the shangshu channel and moves against Liang.
 
 The same episode then places Ju Yuan in the armed phase. Huan orders him to lead more than one thousand left-right riders, Huben, Yulin guards, and armed specialists together with Sili xiaowei Zhang Biao to surround Liang's mansion. After Liang and [[SunShouLateHan|孙寿]] die, Ju Yuan is named in the five-member county-marquis reward group with Shan Chao, [[XuHuangLateHan|徐璜]], [[ZuoGuanLateHan|左悺]], and [[TangHengLateHan|唐衡]].
 
@@ -27,18 +27,18 @@ The same episode then places Ju Yuan in the armed phase. Huan orders him to lead
 
 ## Evidence
 
-- Monitor arrest: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Liang Ji sends Zhang Yun into the palace to watch the eunuchs and that Ju Yuan arrests him on entry.
-- Armed operation: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says Huan orders Ju Yuan to lead palace guards and armed personnel with Zhang Biao to surround Liang's mansion.
-- Reward status: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] names Ju Yuan among the five eunuchs enfeoffed as county marquises after Liang's fall.
-- Group identity: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] says the five were known in their time as the Five Marquises.
+- Monitor arrest: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] says Liang Ji sends Zhang Yun into the palace to watch the eunuchs and that Ju Yuan arrests him on entry.
+- Armed operation: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] says Huan orders Ju Yuan to lead palace guards and armed personnel with Zhang Biao to surround Liang's mansion.
+- Reward status: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] names Ju Yuan among the five eunuchs enfeoffed as county marquises after Liang's fall.
+- Group identity: [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] says the five were known in their time as the Five Marquises.
 
 ## Qualifications
 
-This page is not a full biography of Ju Yuan. It records only the Hanji 848 coup-and-reward role. The transcript form 巨爱 is normalized to 具瑗 because the office sequence, eunuch role, and Five Marquises membership match the received late-Han route, but the source note still keeps that normalization visible.
+This page is not a full biography of Ju Yuan. It records only the 汉纪 848 coup-and-reward role. The transcript form 巨爱 is normalized to 具瑗 because the office sequence, eunuch role, and Five Marquises membership match the received late-Han route, but the source note still keeps that normalization visible.
 
 ## What Changed
 
-- Created the page from Hanji 848's palace arrest, armed-coup execution, and Five Marquises reward evidence.
+- Created the page from 汉纪 848's palace arrest, armed-coup execution, and Five Marquises reward evidence.
 
 ## Relationships
 

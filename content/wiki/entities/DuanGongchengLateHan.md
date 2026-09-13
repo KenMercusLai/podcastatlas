@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 
 ## Overview
 
-Duan Gongcheng is the Guanghan commandery reporting official in [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] who defends [[PangCanLateHan|Pang Can]] against slander by presenting popular testimony and moral warning to [[EmperorShunOfHan|Emperor Shun]].
+Duan Gongcheng is the Guanghan commandery reporting official in [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] who defends [[PangCanLateHan|Pang Can]] against slander by presenting popular testimony and moral warning to [[EmperorShunOfHan|Emperor Shun]].
 
 ## Current Profile
 
@@ -29,9 +29,9 @@ His intervention produces a short-term imperial response: Shun sends a small yel
 
 ## Evidence
 
-- Public testimony as defense: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] has Duan report what farmers and common people say about Pang Can's loyalty and exhaustion.
-- Moral warning to the ruler: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] presents Duan's warning that harming loyal good people is a major taboo.
-- Limited effect: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Shun sends envoys and gifts after the memorial, but Pang is later dismissed.
+- Public testimony as defense: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] has Duan report what farmers and common people say about Pang Can's loyalty and exhaustion.
+- Moral warning to the ruler: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] presents Duan's warning that harming loyal good people is a major taboo.
+- Limited effect: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] says Shun sends envoys and gifts after the memorial, but Pang is later dismissed.
 
 ## Qualifications
 

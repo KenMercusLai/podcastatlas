@@ -11,13 +11,13 @@ last_updated: 2026-08-31
 
 ## Overview
 
-宗均 / Zong Jun is now synthesized as an Eastern Han official whose competence appears under both frontier emergency and ordinary administration. Hanji 726 shows him using dangerous field discretion to settle the [[WulingManLateHan|Wuling Man]] campaign after [[MaYuanEasternHan|Ma Yuan]] dies; Hanji 737 later shows him diagnosing Jiujiang disorder through official conduct, taxation, and personnel quality before warning [[EmperorMingOfHan|Emperor Ming]] that literary polish and clean self-presentation do not equal governing ability.
+宗均 / Zong Jun is now synthesized as an Eastern Han official whose competence appears under both frontier emergency and ordinary administration. 汉纪 726 shows him using dangerous field discretion to settle the [[WulingManLateHan|Wuling Man]] campaign after [[MaYuanEasternHan|Ma Yuan]] dies; 汉纪 737 later shows him diagnosing Jiujiang disorder through official conduct, taxation, and personnel quality before warning [[EmperorMingOfHan|Emperor Ming]] that literary polish and clean self-presentation do not equal governing ability.
 
 ## Current Profile
 
-Hanji 726 makes Zong Jun the battlefield monitor after Ma Yuan's death. Epidemic losses have killed more than half of the army, and the enemy is also hungry. Zong proposes issuing a surrender order in the emperor's name even though he lacks authorization. Other generals fear the penalty, but Zong argues that loyal officials outside the frontier can act on state-stabilizing opportunities. The rebels then kill their leaders and surrender; Zong disperses fighters, appoints local officials, self-impeaches before reaching the capital, and is rewarded by [[LiuXiu|Liu Xiu]].
+汉纪 726 makes Zong Jun the battlefield monitor after Ma Yuan's death. Epidemic losses have killed more than half of the army, and the enemy is also hungry. Zong proposes issuing a surrender order in the emperor's name even though he lacks authorization. Other generals fear the penalty, but Zong argues that loyal officials outside the frontier can act on state-stabilizing opportunities. The rebels then kill their leaders and surrender; Zong disperses fighters, appoints local officials, self-impeaches before reaching the capital, and is rewarded by [[LiuXiu|Liu Xiu]].
 
-Hanji 737 gives a later administrative profile. In Jiujiang, Zong treats tiger attacks and disorder as symptoms of cruel or corrupt officials and excessive burdens. He removes traps, cleans out bad officials, promotes loyal and capable ones, reduces taxes, and restores order. As shangshu ling, he then generalizes the lesson to personnel policy: officials skilled in writing can deceive through polish, and clean officials may lack the capacity to handle disorder.
+汉纪 737 gives a later administrative profile. In Jiujiang, Zong treats tiger attacks and disorder as symptoms of cruel or corrupt officials and excessive burdens. He removes traps, cleans out bad officials, promotes loyal and capable ones, reduces taxes, and restores order. As shangshu ling, he then generalizes the lesson to personnel policy: officials skilled in writing can deceive through polish, and clean officials may lack the capacity to handle disorder.
 
 ## Key Characteristics
 
@@ -29,19 +29,19 @@ Hanji 737 gives a later administrative profile. In Jiujiang, Zong treats tiger a
 
 ## Evidence
 
-- Field crisis: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Zong Jun faces Ma Yuan's death, epidemic losses above half the army, and hungry Wuling Man forces.
-- Unauthorized pacification: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Zong Jun issues a surrender order in the emperor's name, follows with troops, accepts surrender, disperses fighters, appoints officials, self-impeaches, and receives reward.
-- Jiujiang diagnosis: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Zong links tiger attacks and unrest to cruel or corrupt officials and public disturbance.
-- Administrative repair: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says he removes traps, promotes loyal and good officials, reduces taxes, and ends the tiger problem.
-- Personnel warning: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Zong becomes shangshu ling and warns Mingdi against relying on literary officials or merely clean officials.
+- Field crisis: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Zong Jun faces Ma Yuan's death, epidemic losses above half the army, and hungry Wuling Man forces.
+- Unauthorized pacification: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Zong Jun issues a surrender order in the emperor's name, follows with troops, accepts surrender, disperses fighters, appoints officials, self-impeaches, and receives reward.
+- Jiujiang diagnosis: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Zong links tiger attacks and unrest to cruel or corrupt officials and public disturbance.
+- Administrative repair: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says he removes traps, promotes loyal and good officials, reduces taxes, and ends the tiger problem.
+- Personnel warning: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Zong becomes shangshu ling and warns Mingdi against relying on literary officials or merely clean officials.
 
 ## Qualifications
 
-Zong Jun's unauthorized Wuling action should not be generalized into a doctrine that officials may freely fabricate imperial commands. The source shows one urgent case where outcome, self-reporting, and ruler acceptance align. Hanji 737's tiger-attack branch remains the podcast's governance reading rather than independent proof of causation; the stable point is Zong's insistence that administrative capacity must be judged by actual disorder-handling.
+Zong Jun's unauthorized Wuling action should not be generalized into a doctrine that officials may freely fabricate imperial commands. The source shows one urgent case where outcome, self-reporting, and ruler acceptance align. 汉纪 737's tiger-attack branch remains the podcast's governance reading rather than independent proof of causation; the stable point is Zong's insistence that administrative capacity must be judged by actual disorder-handling.
 
 ## What Changed
 
-- Added Hanji 726 as Zong Jun's earlier frontier-discretion case before Hanji 737's Jiujiang and personnel branch.
+- Added 汉纪 726 as Zong Jun's earlier frontier-discretion case before 汉纪 737's Jiujiang and personnel branch.
 - Reframed Zong from a local-governance example into a broader state-capacity figure under both emergency and ordinary administration.
 - Added field-discretion pacification as the concept that captures his Wuling action.
 

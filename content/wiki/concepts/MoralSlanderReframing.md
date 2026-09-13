@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Moral Slander Reframing / 道德诬陷焦点转移
 
-Moral slander reframing / 道德诬陷焦点转移 is the response pattern [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] draws from [[ChenPing|陈平]] and [[WeiWuzhi|魏无知]]. When [[ZhouBo|周勃]], [[GuanYing|灌婴]], and other old generals accuse Chen Ping of "盗嫂" and taking money, Chen Ping and Wei Wuzhi do not try to litigate every moral detail in public.
+Moral slander reframing / 道德诬陷焦点转移 is the response pattern [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|汉纪 154]] draws from [[ChenPing|陈平]] and [[WeiWuzhi|魏无知]]. When [[ZhouBo|周勃]], [[GuanYing|灌婴]], and other old generals accuse Chen Ping of "盗嫂" and taking money, Chen Ping and Wei Wuzhi do not try to litigate every moral detail in public.
 
 Wei Wuzhi first reframes the question for [[LiuBang|刘邦]]: he recommended Chen Ping's ability, while Liu Bang is questioning personal conduct. In a Chu-Han war setting, the decisive question is whether Chen Ping can help Liu Bang win. Chen Ping then explains the money pragmatically and offers a clean decision rule: use him if his plans matter, or let him return the funds and leave if they do not.
 
@@ -19,7 +19,7 @@ The concept differs from simply ignoring wrongdoing. The episode accepts that th
 - Reframing is strongest when it does not deny all problems; Chen Ping gives a concrete explanation for "受金" while refusing to drown in "盗嫂."
 - The decision-maker's real criterion matters: Liu Bang needs wartime utility, so Wei Wuzhi argues from talent rather than reputational purity.
 - Source criticism matters because the credibility of accusers depends on access, motive, and the distance between public rumor and private family evidence.
-- The concept is source-scoped; it records Hanji 154's reading of Chen Ping, not a general rule that accusations should always be dismissed.
+- The concept is source-scoped; it records 汉纪 154's reading of Chen Ping, not a general rule that accusations should always be dismissed.
 
 ## Connections
 - [[ChenPing|陈平]], [[WeiWuzhi|魏无知]], and [[LiuBang|刘邦]] - accused figure, recommender, and decision-maker.

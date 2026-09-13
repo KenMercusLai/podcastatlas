@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 172 CE late-Han court-ritual layer immediately before [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]]. It opens with impatience, self-importance, and delayed reaction through [[TheMetamorphosisKafka|Kafka's The Metamorphosis]], then follows the court debate over whether [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] should be buried with [[EmperorHuanOfHan|汉桓帝]]. The core synthesis is that personal impatience and court politics both turn on timing and role judgment: [[LiXianTaiweiLateHan|李贤]] and [[ChenQiuLateHan|陈球 / 陈求]] break a dangerous silence, while [[ZhaoZhongLateHan|赵忠]], [[CaoJieLateHan|曹节]], and [[WangFuLateHan|王甫]] try to keep Dou's posthumous status from becoming an anti-eunuch rehabilitation signal.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 172 CE late-Han court-ritual layer immediately before [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|汉纪 902]]. It opens with impatience, self-importance, and delayed reaction through [[TheMetamorphosisKafka|Kafka's The Metamorphosis]], then follows the court debate over whether [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] should be buried with [[EmperorHuanOfHan|汉桓帝]]. The core synthesis is that personal impatience and court politics both turn on timing and role judgment: [[LiXianTaiweiLateHan|李贤]] and [[ChenQiuLateHan|陈球 / 陈求]] break a dangerous silence, while [[ZhaoZhongLateHan|赵忠]], [[CaoJieLateHan|曹节]], and [[WangFuLateHan|王甫]] try to keep Dou's posthumous status from becoming an anti-eunuch rehabilitation signal.
 
 ## Key Claims
 
@@ -39,7 +39,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Connections
 
-- [[EmotionRegulationToolkit|情绪调节工具箱]], [[ReactionChoiceFrame|反应选择框架]], and [[StrategicEmotionConcealment|情绪不外露的战略纪律]] - the opening's pause-before-action frame and its link to the following Hanji 902 emotion-control branch.
+- [[EmotionRegulationToolkit|情绪调节工具箱]], [[ReactionChoiceFrame|反应选择框架]], and [[StrategicEmotionConcealment|情绪不外露的战略纪律]] - the opening's pause-before-action frame and its link to the following 汉纪 902 emotion-control branch.
 - [[TheMetamorphosisKafka|Kafka's The Metamorphosis]] - literary example used to puncture exaggerated self-importance.
 - [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], [[EmperorHuanOfHan|汉桓帝]], [[LiXianTaiweiLateHan|李贤]], [[ChenQiuLateHan|陈球 / 陈求]], and [[FengGuirenLateHan|冯贵人]] - core burial-dispute actors.
 - [[ZhaoZhongLateHan|赵忠]], [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ChenFanLateHan|陈蕃]], and [[DouWuLateHan|窦武]] - eunuch-side pressure and older anti-eunuch grievance field.

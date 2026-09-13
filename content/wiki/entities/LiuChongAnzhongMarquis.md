@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-安众侯刘崇 / Liu Chong enters the wiki through [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] as the Liu royal relative whom the episode presents as the first person to raise an armed banner against [[WangMang|王莽]] during the 6 CE regency.
+安众侯刘崇 / Liu Chong enters the wiki through [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] as the Liu royal relative whom the episode presents as the first person to raise an armed banner against [[WangMang|王莽]] during the 6 CE regency.
 
 ## Current Profile
 
@@ -29,18 +29,18 @@ The actual action is militarily fragile. Liu Chong and Zhang Shao bring only abo
 
 ## Evidence
 
-- Anti-Wang Mang judgment: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Liu Chong and Zhang Shao believe Wang Mang's actions will harm the Liu family.
-- Leadership expectation: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says they think the world opposes Wang Mang but needs Liu royals to lead.
-- Wan failure: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says their roughly one hundred followers fail before entering Wan and are captured.
-- Symbolic first shot: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] explicitly frames the episode as the first anti-Wang Mang shot despite the military weakness.
+- Anti-Wang Mang judgment: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Liu Chong and Zhang Shao believe Wang Mang's actions will harm the Liu family.
+- Leadership expectation: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says they think the world opposes Wang Mang but needs Liu royals to lead.
+- Wan failure: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says their roughly one hundred followers fail before entering Wan and are captured.
+- Symbolic first shot: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] explicitly frames the episode as the first anti-Wang Mang shot despite the military weakness.
 
 ## Qualifications
 
-This page is bounded to Hanji 629. It does not reconstruct Liu Chong's full genealogy, title history, sentence after capture, or the detailed composition of his group. The page keeps him distinct from [[LiuChongChenKing|刘宠 / Chen king]] and [[LiuChongLateHanMinister|刘宠 / late Han minister]].
+This page is bounded to 汉纪 629. It does not reconstruct Liu Chong's full genealogy, title history, sentence after capture, or the detailed composition of his group. The page keeps him distinct from [[LiuChongChenKing|刘宠 / Chen king]] and [[LiuChongLateHanMinister|刘宠 / late Han minister]].
 
 ## What Changed
 
-- Created from Hanji 629 as the first symbolic Liu royal anti-Wang Mang rebel in the current source set.
+- Created from 汉纪 629 as the first symbolic Liu royal anti-Wang Mang rebel in the current source set.
 
 ## Relationships
 

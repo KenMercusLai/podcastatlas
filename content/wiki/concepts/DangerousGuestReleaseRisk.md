@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 Dangerous guest release risk is the failure mode where a protected or dependent high-potential actor is allowed to leave with enough resources or authorization to rebuild independent power.
 
 ## Current Synthesis
-Hanji 1040 turns [[CaoCao|曹操]]'s handling of [[LiuBei|刘备]] into the source case. Earlier shelter logic makes killing Liu Bei costly for Cao Cao's reputation, but releasing him on a military assignment creates a different risk: Liu Bei can use legitimate movement, troops, and the [[YuanShu|袁术]] interception pretext to escape containment. Once outside, he kills [[CheZhouLateHan|车胄]], regains [[Xuzhou|徐州]], links with local forces, and approaches [[YuanShao|袁绍]].
+汉纪 1040 turns [[CaoCao|曹操]]'s handling of [[LiuBei|刘备]] into the source case. Earlier shelter logic makes killing Liu Bei costly for Cao Cao's reputation, but releasing him on a military assignment creates a different risk: Liu Bei can use legitimate movement, troops, and the [[YuanShu|袁术]] interception pretext to escape containment. Once outside, he kills [[CheZhouLateHan|车胄]], regains [[Xuzhou|徐州]], links with local forces, and approaches [[YuanShao|袁绍]].
 
 ## Key Claims
 - Protection and release are distinct decisions; sparing a guest does not require giving that guest independent command space.
@@ -33,7 +33,7 @@ Hanji 1040 turns [[CaoCao|曹操]]'s handling of [[LiuBei|刘备]] into the sour
 The concept does not prove Cao Cao should have killed Liu Bei. It distinguishes the reputation cost of killing a sheltered talent from the operational risk of allowing that same actor to leave with military autonomy. A safer containment strategy is implied by the source but not fully specified.
 
 ## What Changed
-- Created the concept from Hanji 1040's "放虎归山" branch after Cao Cao sends Liu Bei out.
+- Created the concept from 汉纪 1040's "放虎归山" branch after Cao Cao sends Liu Bei out.
 
 ## Related Concepts
 - [[ReputationConstrainedTalentProtection|名声约束下的人才保护]] - prior shelter logic that this concept qualifies rather than rejects.

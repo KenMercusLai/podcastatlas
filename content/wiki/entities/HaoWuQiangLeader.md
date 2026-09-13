@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-浩武 / Hao Wu enters the wiki through [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] as the Qiang leader whose capture and release give the episode its clearest frontier version of "得饶人处且饶人." His promise to disperse the Qiang force after release is fulfilled in the source, making him a hinge between coercion, trust, and temporary pacification.
+浩武 / Hao Wu enters the wiki through [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] as the Qiang leader whose capture and release give the episode its clearest frontier version of "得饶人处且饶人." His promise to disperse the Qiang force after release is fulfilled in the source, making him a hinge between coercion, trust, and temporary pacification.
 
 ## Current Profile
 
@@ -30,10 +30,10 @@ The promise holds in the source. Hao Wu returns and disperses the Qiang troops. 
 
 ## Evidence
 
-- Rebellion setting: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Mi Wu and younger brother Hao Wu join other groups in revolt.
-- Capture: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Hao Wu leads a light force into Longxi and is captured by Li Zhang.
-- Release offer: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Hao Wu argues that his death would not weaken the Qiang, while release would let him end the attack.
-- Fulfilled withdrawal: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Hao Wu returns, disperses the Qiang troops, and contributes to Mi Wu's withdrawal north of the Yellow River.
+- Rebellion setting: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] says Mi Wu and younger brother Hao Wu join other groups in revolt.
+- Capture: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] says Hao Wu leads a light force into Longxi and is captured by Li Zhang.
+- Release offer: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] says Hao Wu argues that his death would not weaken the Qiang, while release would let him end the attack.
+- Fulfilled withdrawal: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] says Hao Wu returns, disperses the Qiang troops, and contributes to Mi Wu's withdrawal north of the Yellow River.
 
 ## Qualifications
 

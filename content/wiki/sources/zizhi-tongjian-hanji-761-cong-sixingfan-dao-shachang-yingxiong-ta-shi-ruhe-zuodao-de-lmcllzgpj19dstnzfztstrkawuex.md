@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first [[DouXianEasternHan|Dou Xian]] Northern Xiongnu campaign layer before [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] and [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]]. Court critics oppose the expedition because of imperial mourning, spring farming, logistics, public burden, and the [[NorthernXiongnuLateHan|Northern Xiongnu]]'s distance from the frontier, while [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] ignores the memorials and orders luxury mansions for [[DouDuEasternHan|Dou Du]] and [[DouJingEasternHan|Dou Jing]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first [[DouXianEasternHan|Dou Xian]] Northern Xiongnu campaign layer before [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|汉纪 762]] and [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|汉纪 763]]. Court critics oppose the expedition because of imperial mourning, spring farming, logistics, public burden, and the [[NorthernXiongnuLateHan|Northern Xiongnu]]'s distance from the frontier, while [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] ignores the memorials and orders luxury mansions for [[DouDuEasternHan|Dou Du]] and [[DouJingEasternHan|Dou Jing]].
 
 The durable synthesis is that the celebrated Yanran victory begins inside a damaged court feedback system. [[ZhiShouEasternHan|Zhi Shou]] publicly refuses Dou Xian's private request and is pushed from death sentence to exile only after [[HeChangEasternHan|He Chang]]'s rescue memorial, while the later victory at [[JiluoshanBattleLateHan|Jiluoshan]] and [[YanranInscription|Yanran inscription]] strengthens the Dou brothers' military and palace-guard power.
 
@@ -48,6 +48,6 @@ The durable synthesis is that the celebrated Yanran victory begins inside a dama
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills an earlier 89 CE layer before Hanji 762-766's rank, patronage, recognition, and purge sequence.
+- No settled contradiction with existing wiki content was found. The episode backfills an earlier 89 CE layer before 汉纪 762-766's rank, patronage, recognition, and purge sequence.
 - Transcript normalization: the supplied source renders 郅寿 / Zhi Shou as 致授 and his father 郅恽 as 致恽; this source note normalizes the durable wiki route because the Dou Xian, He Chang, and Shangshu-puye setting matches the received Eastern Han account.
 - Scope caution: Geng Bing, Yan Pan, Geng Tan, the Right Wenyu King, Jilu Pass, Manyi Valley, Guyang Pass, Zhuoye Mountain, Siqu Beihai, exact casualty figures, and the precise hostage-return procedure remain source-scoped unless later notes justify standalone pages.

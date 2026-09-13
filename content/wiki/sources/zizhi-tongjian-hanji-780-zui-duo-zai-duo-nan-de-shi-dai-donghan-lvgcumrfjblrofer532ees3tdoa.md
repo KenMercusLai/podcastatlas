@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the disaster, frontier, and institutional diagnosis immediately before [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]]. It frames [[EmpressDowagerDengLateHan|和熹邓皇后]]'s opening political environment through repeated floods, droughts, earthquakes, epidemics, Qiang unrest, fiscal exhaustion, and the court's decision to give up the Western Regions despite [[BanChaoEasternHan|班超]]'s earlier achievement.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the disaster, frontier, and institutional diagnosis immediately before [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]]. It frames [[EmpressDowagerDengLateHan|和熹邓皇后]]'s opening political environment through repeated floods, droughts, earthquakes, epidemics, Qiang unrest, fiscal exhaustion, and the court's decision to give up the Western Regions despite [[BanChaoEasternHan|班超]]'s earlier achievement.
 
 The durable synthesis is that the Deng-regency crisis is not only "natural disaster." Submitted Qiang groups revolt after local official abuse and frightening western-service conscription, while [[ZhongchangTongLateHan|仲长统]]'s `Changyan` diagnosis explains how the Three Excellencies became blame-bearing offices after real authority shifted to [[ShangshuTaiImperialAccess|尚书台]] channels, outer relatives, favored attendants, and eunuchs.
 
@@ -41,15 +41,15 @@ The durable synthesis is that the Deng-regency crisis is not only "natural disas
 
 ## Connections
 
-- [[EmpressDowagerDengLateHan]] and [[RegencyUnderCompoundCrisis]] - the episode adds a pre-Hanji 781 layer of natural disaster, Western Regions abandonment, Qiang unrest, fiscal pressure, austerity, and early remonstrance.
+- [[EmpressDowagerDengLateHan]] and [[RegencyUnderCompoundCrisis]] - the episode adds a pre-汉纪 781 layer of natural disaster, Western Regions abandonment, Qiang unrest, fiscal pressure, austerity, and early remonstrance.
 - [[BanChaoEasternHan]], [[StrategicFrontierAbandonment]], and [[Xiongnu|北匈奴]] - Ban Chao's earlier low-support Western Regions settlement becomes the backdrop for Deng-era withdrawal and later Xiongnu gains.
 - [[FrontierConscriptionBackfire]] and [[FrontierOfficialAbuseRebellionSpiral]] - the Qiang sequence joins abusive local handling, distant conscription fear, escape, interception, and home destruction into one rebellion path.
 - [[ThreeExcellenciesBlameWithoutAuthority]], [[ShangshuTaiImperialAccess]], and [[CourtOfficeCapture]] - `Changyan` and Sima Guang make the Three Excellencies/Shangshu split a root-cause explanation for late Eastern Han disorder.
 - [[ZhongchangTongLateHan]] and [[SimaGuang]] - Zhongchang Tong supplies the late-Han critique that Sima Guang selects to explain the dynasty's institutional disease.
-- [[ZhouZhangLateHan]] - appears before the Hanji 781 coup as a direct remonstrator against Deng's increasing concentration of power.
+- [[ZhouZhangLateHan]] - appears before the 汉纪 781 coup as a direct remonstrator against Deng's increasing concentration of power.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills an institutional and disaster prelude before Hanji 781's 106-108 CE succession, coup, and relief layer.
+- No settled contradiction is recorded. This source backfills an institutional and disaster prelude before 汉纪 781's 106-108 CE succession, coup, and relief layer.
 - Chronology caution: the episode compresses broad Eastern Han disaster statistics, Ban Chao's earlier Western Regions career, Qiang unrest, and Deng-regency austerity into one interpretive prelude; the wiki keeps the dynasty-wide statistics and exact disaster counts source-scoped.
 - Identity caution: Ma Nu, Xu Fang, Yin Qin, Wang Fu, Cui Shi, and exact Qiang tribal or person names remain source-scoped until later notes make them durable pages.

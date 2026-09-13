@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-Hanji 431 creates the concept through [[ZhangAnshiWesternHan|张安世]]. Zhang recommends a person to court. After the person receives office, he visits Zhang's household to thank him and offer gifts. Zhang treats this not as politeness but as a dangerous conversion of state appointment into personal favor. He refuses the relationship and orders that the person not be admitted again.
+汉纪 431 creates the concept through [[ZhangAnshiWesternHan|张安世]]. Zhang recommends a person to court. After the person receives office, he visits Zhang's household to thank him and offer gifts. Zhang treats this not as politeness but as a dangerous conversion of state appointment into personal favor. He refuses the relationship and orders that the person not be admitted again.
 
 The concept clarifies a personnel-ethics distinction. Recommendation can be part of public duty, but accepting thanks and gifts can make the appointee appear beholden to the recommender rather than to the office, ruler, or institution. In the source's workplace translation, a manager can sponsor talent without building a private faction; the boundary is crossed when recognition becomes reciprocal obligation.
 
@@ -29,12 +29,12 @@ The concept clarifies a personnel-ethics distinction. Recommendation can be part
 ## Evidence
 
 Recommendation boundary:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Zhang Anshi recommends a person who later becomes an official.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says the appointee comes to Zhang's home to thank him and bring gifts.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Zhang rejects the visit and tells household staff not to open the door to that person again.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Zhang Anshi recommends a person who later becomes an official.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says the appointee comes to Zhang's home to thank him and bring gifts.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Zhang rejects the visit and tells household staff not to open the door to that person again.
 
 Public-duty interpretation:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] presents Zhang's reasoning as "举贤是为官分内之事," not a private favor to be repaid.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] presents Zhang's reasoning as "举贤是为官分内之事," not a private favor to be repaid.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The source gives one anecdote rather than a complete institutional rule. The con
 
 ## What Changed
 
-- Created the concept from Hanji 431's Zhang Anshi recommendation-and-gift refusal.
+- Created the concept from 汉纪 431's Zhang Anshi recommendation-and-gift refusal.
 
 ## Related Concepts
 

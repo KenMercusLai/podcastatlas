@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》165-2｜韩信为何至死也不背叛刘邦
 
 ## Summary
-This episode completes [[KuaiChe|蒯彻 / 蒯通]]'s warning to [[HanXin|韩信]] after [[WuShe|武涉]] fails in [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]]. Kuai Che argues that Han Xin now controls the outcome between [[LiuBang|刘邦]] and [[XiangYu|项羽]], so holding [[QiState|齐国]] as a third pole is safer than helping either side win outright. Han Xin answers through gratitude and义 toward Liu Bang, while Kuai Che counters with broken friendship and post-victory minister-risk precedents from [[ZhangEr|张耳]] / [[ChenYu|陈馀]] and [[WenZhongYue|文种]] / [[Goujian|越王勾践]].
+This episode completes [[KuaiChe|蒯彻 / 蒯通]]'s warning to [[HanXin|韩信]] after [[WuShe|武涉]] fails in [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|汉纪 165-1]]. Kuai Che argues that Han Xin now controls the outcome between [[LiuBang|刘邦]] and [[XiangYu|项羽]], so holding [[QiState|齐国]] as a third pole is safer than helping either side win outright. Han Xin answers through gratitude and义 toward Liu Bang, while Kuai Che counters with broken friendship and post-victory minister-risk precedents from [[ZhangEr|张耳]] / [[ChenYu|陈馀]] and [[WenZhongYue|文种]] / [[Goujian|越王勾践]].
 
 ## Key Claims
 - Kuai Che's opening physiognomic line makes Han Xin's status unstable: from the front he appears only marquis-level and unsafe, while from the back he is贵不可言.
@@ -29,7 +29,7 @@ This episode completes [[KuaiChe|蒯彻 / 蒯通]]'s warning to [[HanXin|韩信]
 > "鸟尽弓藏，兔死狗烹" — Kuai Che uses the Wen Zhong precedent to warn that completed victory can make a great minister disposable.
 
 ## Connections
-- [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|Hanji 165-1]] - immediate setup: Han Xin's Qi kingship, Wu She's failed pitch, and Kuai Che's entrance.
+- [[zizhi-tongjian-hanji-165-1-liubang-zheju-hua-chadian-nongdiu-dahan-jiangshan-llxgisomsdo8qjeecgdg6frri-xq|汉纪 165-1]] - immediate setup: Han Xin's Qi kingship, Wu She's failed pitch, and Kuai Che's entrance.
 - [[HanXin|韩信]] - decisive military actor whose loyalty and self-preservation now conflict.
 - [[KuaiChe|蒯彻 / 蒯通]] - adviser who turns the three-way proposal into a sharper power-exit warning.
 - [[LiuBang|刘邦]] and [[XiangYu|项羽]] - larger contenders whose victory depends on Han Xin's alignment.

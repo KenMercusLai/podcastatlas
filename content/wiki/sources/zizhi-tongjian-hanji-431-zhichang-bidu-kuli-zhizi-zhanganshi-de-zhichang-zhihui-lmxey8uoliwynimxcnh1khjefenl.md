@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the [[EmperorXuanOfHan|汉宣帝]] Yuankang 3 / 63 BCE layer between Hanji 430 and Hanji 432. It deepens [[ZhangAnshiWesternHan|张安世]] from reward-restraint figure into a full court-survival case: as [[ZhangTangWesternHan|张汤]]'s son, he refuses excessive favor, fears Huo-family association risk, advises the ruler privately without displaying credit, recommends talent without creating private obligation, and sends [[ZhangYanshouWesternHan|张延寿]] outward to keep the family from looking too concentrated at court.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the [[EmperorXuanOfHan|汉宣帝]] Yuankang 3 / 63 BCE layer between 汉纪 430 and 汉纪 432. It deepens [[ZhangAnshiWesternHan|张安世]] from reward-restraint figure into a full court-survival case: as [[ZhangTangWesternHan|张汤]]'s son, he refuses excessive favor, fears Huo-family association risk, advises the ruler privately without displaying credit, recommends talent without creating private obligation, and sends [[ZhangYanshouWesternHan|张延寿]] outward to keep the family from looking too concentrated at court.
 
 The episode then pairs Zhang's high-court caution with [[ShuGuangShuShouWesternHan|疏广与疏受]]'s timely retirement and wealth-distribution lesson, before returning to [[HuangBaWesternHan|黄霸]] as a humane, detailed, information-rich local administrator. The durable synthesis is that power, credit, wealth, and responsibility become safer when kept inside role boundaries: good service should not be converted into personal credit display, private favors, dynastic family accumulation, or local governance by mere punishment.
 

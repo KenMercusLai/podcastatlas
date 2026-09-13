@@ -8,9 +8,9 @@ last_updated: 2026-08-23
 
 # 于禁 / Yu Jin
 
-于禁 / Yu Jin first appears in the Wancheng branch through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]], where he arrives after [[CaoCao|曹操]] escapes and defeats [[ZhangXiu|张绣]]'s continued pursuit. The source uses him as the force that prevents the disaster from becoming total collapse.
+于禁 / Yu Jin first appears in the Wancheng branch through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]], where he arrives after [[CaoCao|曹操]] escapes and defeats [[ZhangXiu|张绣]]'s continued pursuit. The source uses him as the force that prevents the disaster from becoming total collapse.
 
-于禁 / Yu Jin enters the wiki through [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]] as [[CaoCao|曹操]]'s 平鲁校尉 during the Wancheng retreat. While Cao Cao's force is disordered, Yu Jin keeps his own troops controlled and suppresses plundering by Qingzhou soldiers attached to Cao Cao's army.
+于禁 / Yu Jin enters the wiki through [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|汉纪 1014]] as [[CaoCao|曹操]]'s 平鲁校尉 during the Wancheng retreat. While Cao Cao's force is disordered, Yu Jin keeps his own troops controlled and suppresses plundering by Qingzhou soldiers attached to Cao Cao's army.
 
 His most important choice in the source is procedural. After the Qingzhou soldiers complain to Cao Cao first, Yu Jin does not rush to defend his reputation. He assumes pursuit may still come, organizes defensive works, and only then explains the facts. The episode uses this to define [[CrisisFirstMilitaryDiscipline|临危先务军纪]]: in a crisis, military order and camp security outrank personal vindication.
 
@@ -18,7 +18,7 @@ Cao Cao praises Yu Jin for settling disorder and securing the camp under extreme
 
 ## Connections
 - [[CaoCao|曹操]] - commander who praises and rewards him.
-- [[ZhangXiu|张绣]] - opposing commander whose pursuit he helps defeat in Hanji 1013.
+- [[ZhangXiu|张绣]] - opposing commander whose pursuit he helps defeat in 汉纪 1013.
 - [[CrisisFirstMilitaryDiscipline|临危先务军纪]] - core concept drawn from his conduct.
 - [[MeritBasedRewardPunishment|因功赏罚]] - reward logic applied after the retreat.
 - [[TenVictoriesTenDefeats|十胜十败论]] - later section in the same episode comparing leadership systems.

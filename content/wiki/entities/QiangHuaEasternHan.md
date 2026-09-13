@@ -10,11 +10,11 @@ last_updated: 2026-09-02
 
 ## Overview
 
-强华 / Qiang Hua is a source-scoped Guanzhong scholar in [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]]. His current wiki significance is narrow but important: he brings a chenwei-style text that helps convert repeated military requests for [[LiuXiu|刘秀]]'s accession into an accepted imperial-title decision.
+强华 / Qiang Hua is a source-scoped Guanzhong scholar in [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|汉纪 676]]. His current wiki significance is narrow but important: he brings a chenwei-style text that helps convert repeated military requests for [[LiuXiu|刘秀]]'s accession into an accepted imperial-title decision.
 
 ## Current Profile
 
-Hanji 676 places Qiang Hua after [[GengChunEasternHan|耿纯]] and [[FengYiEasternHan|冯异]] have already pressed the political case for Liu Xiu's accession. Geng Chun argues that followers expect a settled title and may disperse if Liu Xiu delays; Feng Yi tells Liu Xiu that the Gengshi regime must fail and that restoring Han now falls to him.
+汉纪 676 places Qiang Hua after [[GengChunEasternHan|耿纯]] and [[FengYiEasternHan|冯异]] have already pressed the political case for Liu Xiu's accession. Geng Chun argues that followers expect a settled title and may disperse if Liu Xiu delays; Feng Yi tells Liu Xiu that the Gengshi regime must fail and that restoring Han now falls to him.
 
 Qiang Hua then arrives from Guanzhong with a prophetic text rendered in the transcript as 赤符符 and normalized here as 赤伏符. The generals use the text as another warrant for accession, and Liu Xiu no longer refuses. Qiang Hua therefore represents the symbolic-evidence layer in a broader convergence of campaign success, follower expectation, and title clarity.
 
@@ -27,9 +27,9 @@ Qiang Hua then arrives from Guanzhong with a prophetic text rendered in the tran
 
 ## Evidence
 
-- Guanzhong arrival: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Qiang Hua comes from Guanzhong to Liu Xiu.
-- Prophetic text: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says he brings a text interpreted as signaling that Liu Xiu has the mandate.
-- Accession effect: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says the generals use the text to urge Liu Xiu again and that Liu Xiu stops refusing.
+- Guanzhong arrival: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|汉纪 676]] says Qiang Hua comes from Guanzhong to Liu Xiu.
+- Prophetic text: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|汉纪 676]] says he brings a text interpreted as signaling that Liu Xiu has the mandate.
+- Accession effect: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|汉纪 676]] says the generals use the text to urge Liu Xiu again and that Liu Xiu stops refusing.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The current page does not infer Qiang Hua's broader career, rank, or institution
 
 ## What Changed
 
-- Created this source-scoped page from Hanji 676 to capture the scholar and prophetic-text role in Liu Xiu's accession.
+- Created this source-scoped page from 汉纪 676 to capture the scholar and prophetic-text role in Liu Xiu's accession.
 
 ## Relationships
 

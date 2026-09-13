@@ -10,7 +10,7 @@ last_updated: 2026-09-08
 
 ## Overview
 
-王邑 / Wang Yi (Xin general) enters the wiki through [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] as the [[WangMang|王莽]]-side commander whose decisions at [[KunyangBattle|昆阳之战]] turn numerical superiority into collapse. This page is disambiguated from [[WangYiHedongLateHan|王邑 / Wang Yi (Hedong administrator)]] and [[WangYiHanGeneral|王翳 / Wang Yi (Han)]].
+王邑 / Wang Yi (Xin general) enters the wiki through [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]] as the [[WangMang|王莽]]-side commander whose decisions at [[KunyangBattle|昆阳之战]] turn numerical superiority into collapse. This page is disambiguated from [[WangYiHedongLateHan|王邑 / Wang Yi (Hedong administrator)]] and [[WangYiHanGeneral|王翳 / Wang Yi (Han)]].
 
 ## Current Profile
 
@@ -30,19 +30,19 @@ When Liu Xiu attacks, Wang Yi and Wang Xun underestimate the smaller Han force, 
 
 ## Evidence
 
-- Bypass advice rejected: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Yan You advises moving quickly toward Wan because Liu Xuan is there, but Wang Yi refuses to bypass Kunyang.
-- Punitive siege posture: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Wang Yi speaks of taking Kunyang and slaughtering the city.
-- Exit advice rejected: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Yan You warns that a fully closed siege leaves defenders no path except desperate resistance.
-- Command rigidity in battle: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Wang Yi and Wang Xun fight with a limited force and tell other camps to stay still.
-- Rout survival: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] says Wang Yi, Yan You, and Chen Mao escape by riding over corpses after the defeat.
+- Bypass advice rejected: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]] says Yan You advises moving quickly toward Wan because Liu Xuan is there, but Wang Yi refuses to bypass Kunyang.
+- Punitive siege posture: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]] says Wang Yi speaks of taking Kunyang and slaughtering the city.
+- Exit advice rejected: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]] says Yan You warns that a fully closed siege leaves defenders no path except desperate resistance.
+- Command rigidity in battle: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]] says Wang Yi and Wang Xun fight with a limited force and tell other camps to stay still.
+- Rout survival: [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]] says Wang Yi, Yan You, and Chen Mao escape by riding over corpses after the defeat.
 
 ## Qualifications
 
-The page is source-scoped to Hanji 664 and does not reconstruct Wang Yi's full Xin career. Wang Xun, Chen Mao, exact command hierarchy, troop totals, siege-device details, and later fate remain source-scoped. The durable claim is narrower: this episode uses Wang Yi as the negative commander whose face-driven rigidity and command inactivity make numerical advantage brittle.
+The page is source-scoped to 汉纪 664 and does not reconstruct Wang Yi's full Xin career. Wang Xun, Chen Mao, exact command hierarchy, troop totals, siege-device details, and later fate remain source-scoped. The durable claim is narrower: this episode uses Wang Yi as the negative commander whose face-driven rigidity and command inactivity make numerical advantage brittle.
 
 ## What Changed
 
-- Created this disambiguated Xin-general page from Hanji 664 to keep the Kunyang Wang Yi distinct from same-name routes.
+- Created this disambiguated Xin-general page from 汉纪 664 to keep the Kunyang Wang Yi distinct from same-name routes.
 
 ## Relationships
 

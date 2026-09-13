@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] grounds the concept in the aftermath of [[LiuChongAnzhongMarquis|刘崇]] and [[ZhangShaoFengguoChancellor|张绍]]'s failed anti-[[WangMang|王莽]] attack. [[ZhangSongXinPetitioner|张竦]] and [[LiuJiaShuailiHou|刘嘉]] fear implication, surrender, and use a petition to praise Wang Mang while condemning Liu Chong.
+[[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] grounds the concept in the aftermath of [[LiuChongAnzhongMarquis|刘崇]] and [[ZhangShaoFengguoChancellor|张绍]]'s failed anti-[[WangMang|王莽]] attack. [[ZhangSongXinPetitioner|张竦]] and [[LiuJiaShuailiHou|刘嘉]] fear implication, surrender, and use a petition to praise Wang Mang while condemning Liu Chong.
 
 The petition is effective because it supplies more than apology. It helps Wang Mang turn the rebellion into a moral-political spectacle: rebel ritual ground should be destroyed, loyalty is proven by attacking one's implicated kin, and rewards flow to those who perform the denunciation well. The Chang'an saying preserves public awareness that clever memorial writing can outperform battlefield effort under this reward ecology.
 
@@ -28,10 +28,10 @@ The petition is effective because it supplies more than apology. It helps Wang M
 
 ## Evidence
 
-- Fear-driven self-reporting: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Zhang Song and Liu Jia surrender because they fear implication.
-- Denunciatory content: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Zhang Song writes a petition praising Wang Mang and condemning Liu Chong.
-- Reward structure: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Wang Mang rewards Liu Jia, Liu Jia's sons, and later Zhang Song.
-- Public critique: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] preserves the Chang'an saying that seeking title through Zhang Bosong is better than hard fighting.
+- Fear-driven self-reporting: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Zhang Song and Liu Jia surrender because they fear implication.
+- Denunciatory content: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Zhang Song writes a petition praising Wang Mang and condemning Liu Chong.
+- Reward structure: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Wang Mang rewards Liu Jia, Liu Jia's sons, and later Zhang Song.
+- Public critique: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] preserves the Chang'an saying that seeking title through Zhang Bosong is better than hard fighting.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ This source supplies a vivid single case, not a general statistical pattern. It 
 
 ## What Changed
 
-- Created from Hanji 629 as the concept for Zhang Song and Liu Jia's rewarded denunciatory petition.
+- Created from 汉纪 629 as the concept for Zhang Song and Liu Jia's rewarded denunciatory petition.
 
 ## Related Concepts
 

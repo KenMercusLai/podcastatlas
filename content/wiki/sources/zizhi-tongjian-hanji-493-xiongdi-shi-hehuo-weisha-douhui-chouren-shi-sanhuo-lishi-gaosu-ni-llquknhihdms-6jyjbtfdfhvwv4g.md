@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jingning 1 / 33 BCE under [[HanYuandi|汉元帝]], before the late-succession material in [[zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo|Hanji 498]]. After [[HuhanyeChanyuWesternHan|呼韩邪单于]] receives [[WangZhaojun|王昭君]], he offers to guard the Han frontier from Shanggu to Dunhuang and asks Han to remove frontier defenses.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jingning 1 / 33 BCE under [[HanYuandi|汉元帝]], before the late-succession material in [[zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo|汉纪 498]]. After [[HuhanyeChanyuWesternHan|呼韩邪单于]] receives [[WangZhaojun|王昭君]], he offers to guard the Han frontier from Shanggu to Dunhuang and asks Han to remove frontier defenses.
 
 The episode centers [[HouYinWesternHan|侯胤]]'s ten-part objection. Its durable synthesis is that submission, gratitude, and present weakness cannot replace a durable defense system: Yinshan geography, century-old fortifications, frontier populations, crime control, Han-Qiang contact, fugitive flows, and future bargaining leverage all make withdrawal riskier than a simple cost-saving calculation. The host then converts that frontier logic into [[PartnershipBoundaryRisk|合伙关系边界风险]]: intimate cooperation still needs boundaries, privacy, rhythm, and institutional safeguards because interests and emotions can change.
 

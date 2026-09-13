@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 王瑞 / Wang Rui (late Han)
 
-王瑞 / Wang Rui (late Han) enters the wiki through [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] as the [[Jingzhou]] inspector whose contempt for [[SunJianLateHan|Sun Jian]] and threat against [[CaoYinLateHan|Cao Yin]] become fatal. The source renders the name as 王瑞; the page keeps that source spelling while using a semantic suffix to avoid collisions.
+王瑞 / Wang Rui (late Han) enters the wiki through [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|汉纪 952]] as the [[Jingzhou]] inspector whose contempt for [[SunJianLateHan|Sun Jian]] and threat against [[CaoYinLateHan|Cao Yin]] become fatal. The source renders the name as 王瑞; the page keeps that source spelling while using a semantic suffix to avoid collisions.
 
 The episode does not present Wang Rui as corrupt. Its criticism is more surgical: he cannot control speech, contempt, and threat posture, so "管不住身口意" becomes a practical survival failure as well as a moral one. Cao Yin's forged order and Sun Jian's attack convert Wang Rui's loose speech into institutional and military danger, ending in Wang Rui's suicide after Sun Jian accuses him of being "愚昧无知."
 

@@ -37,9 +37,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the J
 - [[CaoCao|曹操]], [[LiyangYellowRiverLateHan|黎阳]], and [[YeLateHan|邺城]] - military pressure setting where the Yuan brothers still cooperate before later rivalry reopens.
 - [[YuanShang|袁尚]], [[GuoYuanLateHan|郭援 / 郭元]], [[GaoGanLateHan|高干]], [[SouthernXiongnu|南匈奴]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - attempted western pressure line against Cao Cao.
 - [[JiaKuiLateHan|贾逵]], [[ZhuGongdaoLateHan|祝公道]], [[HedongCommandery|河东郡]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - local official, local protection, and rescue branch during Guo Yuan's advance.
-- [[ZhongYao|钟繇]], [[MaTeng|马腾]], and [[FuGan|傅干]] - Cao-side western stabilization path before the Pingyang battle continued in [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|Hanji 1057]].
+- [[ZhongYao|钟繇]], [[MaTeng|马腾]], and [[FuGan|傅干]] - Cao-side western stabilization path before the Pingyang battle continued in [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|汉纪 1057]].
 
 ## Contradictions
-- No settled contradiction with existing wiki content is recorded. This episode supplies the missing setup before Hanji 1057's Pingyang campaign and Hanji 1058-1059's open Yuan-family split.
-- Source-scope caution: Guo Yuan appears here as 郭援 while the existing page and Hanji 1057 source use 郭元; this note treats both as the same late-Han Yuan-family western commander under [[GuoYuanLateHan]] rather than creating a duplicate.
+- No settled contradiction with existing wiki content is recorded. This episode supplies the missing setup before 汉纪 1057's Pingyang campaign and 汉纪 1058-1059's open Yuan-family split.
+- Source-scope caution: Guo Yuan appears here as 郭援 while the existing page and 汉纪 1057 source use 郭元; this note treats both as the same late-Han Yuan-family western commander under [[GuoYuanLateHan]] rather than creating a duplicate.
 - Source-scope caution: the opening female self-affirmation segment, Yuan Shao character diagnosis, Liu's influence on Yuan Shao, exact county details around Jia Kui, and Fu Gan's moralized Cao/Yuan framing remain bounded to this episode unless corroborated elsewhere.

@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], between [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] and [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]]. It starts from "天狗食月" and uses [[LiXunWesternHan|李寻]]'s answer to Aidi after earthquake, lunar eclipse, flood, and other disasters to show how [[CelestialOmenPoliticalResponsibility|天象政治责任]] and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] became a court language for political correction.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], between [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|汉纪 565]] and [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]]. It starts from "天狗食月" and uses [[LiXunWesternHan|李寻]]'s answer to Aidi after earthquake, lunar eclipse, flood, and other disasters to show how [[CelestialOmenPoliticalResponsibility|天象政治责任]] and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] became a court language for political correction.
 
 The durable synthesis is that the episode joins elite disaster politics with popular eclipse culture. Li Xun reads sun, moon, water, and earthquake signs as warnings about imperial will, inner-court disorder, outer-relative power, weak ministers, and law enforcement; [[PingDangWesternHan|平当]] then turns the same crisis field toward practical [[YellowRiver|黄河]] management by asking for real hydraulic talent. The closing modern astronomy explanation separates eclipse mechanics from omen causation while treating "天狗食月" as a cultural response to uncertainty and natural fear.
 
@@ -45,5 +45,5 @@ The durable synthesis is that the episode joins elite disaster politics with pop
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the 7 BCE disaster-and-river-management prelude immediately before Hanji 567's Jia Rang three-policy flood-control discussion and before later Aidi court-politics episodes.
+- Chronology qualification: this source backfills the 7 BCE disaster-and-river-management prelude immediately before 汉纪 567's Jia Rang three-policy flood-control discussion and before later Aidi court-politics episodes.
 - Scope caution: the transcript may contain ASR instability around place and river names; Li Xun's full memorial text, the exact earthquake geography, Ping Dang's technical career, and the history of eclipse rituals remain source-scoped.

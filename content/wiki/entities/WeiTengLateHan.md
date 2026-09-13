@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 魏腾 / Wei Teng (late Han)
 
 ## Overview
-魏腾 / Wei Teng enters the wiki through Hanji 1039 as a Kuaiji merit officer whose public criticism of Sun Ce nearly costs him his life.
+魏腾 / Wei Teng enters the wiki through 汉纪 1039 as a Kuaiji merit officer whose public criticism of Sun Ce nearly costs him his life.
 
 ## Current Profile
 The current evidence makes Wei Teng a frank local-official test for Sun Ce's early Jiangdong rule. His criticism triggers Sun Ce's punitive impulse, and Lady Wu's intervention turns the case into a lesson about keeping talent and local trust alive after conquest.
@@ -24,16 +24,16 @@ The current evidence makes Wei Teng a frank local-official test for Sun Ce's ear
 - Serves as evidence that early conquest needs dissent-tolerant talent retention, not only force.
 
 ## Evidence
-- Office and criticism: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] identifies Wei Teng as Kuaiji功曹 and says he openly criticizes Sun Ce's governing approach.
-- Punitive danger: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] says Sun Ce wants to kill Wei Teng.
-- Lady Wu's rescue: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] has Lady Wu threaten self-harm at a well to force Sun Ce to reconsider.
-- Talent-retention signal: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] frames Wei Teng as someone whose execution would alienate people willing to follow and correct Sun Ce.
+- Office and criticism: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] identifies Wei Teng as Kuaiji功曹 and says he openly criticizes Sun Ce's governing approach.
+- Punitive danger: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] says Sun Ce wants to kill Wei Teng.
+- Lady Wu's rescue: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] has Lady Wu threaten self-harm at a well to force Sun Ce to reconsider.
+- Talent-retention signal: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] frames Wei Teng as someone whose execution would alienate people willing to follow and correct Sun Ce.
 
 ## Qualifications
 The source does not provide Wei Teng's wider biography or detailed policy program. His current page should remain a narrow case of frank speech under a newly consolidating regional power.
 
 ## What Changed
-- Created the page from Hanji 1039's Wei Teng execution-and-rescue episode.
+- Created the page from 汉纪 1039's Wei Teng execution-and-rescue episode.
 
 ## Relationships
 - [[SunCe|孙策]] - ruler whose punitive impulse puts Wei Teng at risk.

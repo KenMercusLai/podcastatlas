@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-[[QianMu|钱穆 / Qian Mu]] enters the wiki through Hanji 567 as the source of a story contrasting five-hundred-year and one-year horizons in cultural and governance judgment.
+[[QianMu|钱穆 / Qian Mu]] enters the wiki through 汉纪 567 as the source of a story contrasting five-hundred-year and one-year horizons in cultural and governance judgment.
 
 ## Current Profile
 
@@ -26,9 +26,9 @@ In the wiki, Qian Mu's current role is therefore source-scoped and analogical. H
 
 ## Evidence
 
-- Cypress story: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says Qian Mu told of an old temple whose first abbot planted five-hundred-year cypresses.
-- Short-horizon contrast: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says a later abbot replaces a destroyed cypress with oleander because it blooms quickly.
-- Governance analogy: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] uses the story to distinguish Jia Rang's upper policy from short-term levee repair.
+- Cypress story: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] says Qian Mu told of an old temple whose first abbot planted five-hundred-year cypresses.
+- Short-horizon contrast: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] says a later abbot replaces a destroyed cypress with oleander because it blooms quickly.
+- Governance analogy: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] uses the story to distinguish Jia Rang's upper policy from short-term levee repair.
 
 ## Qualifications
 
@@ -36,7 +36,7 @@ This page does not yet synthesize Qian Mu's historical scholarship. It records o
 
 ## What Changed
 
-- Created this page from Hanji 567 to capture the Qian Mu time-horizon analogy.
+- Created this page from 汉纪 567 to capture the Qian Mu time-horizon analogy.
 
 ## Relationships
 

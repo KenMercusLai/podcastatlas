@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-王调 / Wang Tiao is [[LiGuLateHan|李固]]'s student in [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] who carries punishment gear and petitions for Li Gu after [[LiangJiLateHan|梁冀]] has him jailed. His action helps make Li Gu's case visible before the temporary release.
+王调 / Wang Tiao is [[LiGuLateHan|李固]]'s student in [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] who carries punishment gear and petitions for Li Gu after [[LiangJiLateHan|梁冀]] has him jailed. His action helps make Li Gu's case visible before the temporary release.
 
 ## Current Profile
 
-Hanji 830 gives Wang Tiao a narrow petition role. He does not appear as a court official with command power; he appears as a student willing to expose himself to punishment by submitting a plea for his teacher.
+汉纪 830 gives Wang Tiao a narrow petition role. He does not appear as a court official with command power; he appears as a student willing to expose himself to punishment by submitting a plea for his teacher.
 
 The petition matters because it is joined by wider public action from [[ZhaoChengLiGuPetitioner|赵成]] and others at the palace gate. [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] is moved enough to release Li Gu, showing a brief pressure channel before Liang Ji's renewed accusation closes it.
 
@@ -27,17 +27,17 @@ The petition matters because it is joined by wider public action from [[ZhaoChen
 
 ## Evidence
 
-- Student petition: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Wang Tiao, as Li Gu's student, carries punishment gear and petitions the court.
-- Risk posture: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] frames Wang Tiao as acting despite personal danger.
-- Temporary effect: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Na is moved by the appeals and orders Li Gu released.
+- Student petition: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Wang Tiao, as Li Gu's student, carries punishment gear and petitions the court.
+- Risk posture: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] frames Wang Tiao as acting despite personal danger.
+- Temporary effect: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Liang Na is moved by the appeals and orders Li Gu released.
 
 ## Qualifications
 
-The page is limited to Hanji 830. It does not reconstruct Wang Tiao's later life, study network, or exact legal status when carrying punishment gear.
+The page is limited to 汉纪 830. It does not reconstruct Wang Tiao's later life, study network, or exact legal status when carrying punishment gear.
 
 ## What Changed
 
-- Created Wang Tiao as the first named student petitioner in Li Gu's Hanji 830 persecution sequence.
+- Created Wang Tiao as the first named student petitioner in Li Gu's 汉纪 830 persecution sequence.
 
 ## Relationships
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 191 CE political-legitimacy problem immediately before [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]]. It starts from [[XingETheory|荀子性恶论]] and interest-driven human motives, then turns to the [[AntiDongZhuoCoalition|反董卓联盟]] debate over whether to replace the Dong-Zhuo-controlled [[EmperorXianOfHan|汉献帝]] with [[LiuYuLateHan|刘虞]]. The source's core contribution is the legitimacy contrast: [[CaoCao|曹操]] treats "师出有名" as the coalition's fragile public basis, [[YuanShao|袁绍]] and [[HanFuLateHan|韩馥]] try to solve a captured-emperor problem by naming a new sovereign, [[YuanShu|袁术]] rejects the plan from his own imperial ambition, and Liu Yu refuses both the throne and delegated imperial authority.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 191 CE political-legitimacy problem immediately before [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|汉纪 955]]. It starts from [[XingETheory|荀子性恶论]] and interest-driven human motives, then turns to the [[AntiDongZhuoCoalition|反董卓联盟]] debate over whether to replace the Dong-Zhuo-controlled [[EmperorXianOfHan|汉献帝]] with [[LiuYuLateHan|刘虞]]. The source's core contribution is the legitimacy contrast: [[CaoCao|曹操]] treats "师出有名" as the coalition's fragile public basis, [[YuanShao|袁绍]] and [[HanFuLateHan|韩馥]] try to solve a captured-emperor problem by naming a new sovereign, [[YuanShu|袁术]] rejects the plan from his own imperial ambition, and Liu Yu refuses both the throne and delegated imperial authority.
 
 ## Key Claims
 
@@ -48,10 +48,10 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[YuanShao|袁绍]], [[HanFuLateHan|韩馥]], [[YuanShu|袁术]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - coalition members share Dong Zhuo as enemy while pricing legitimacy, future ambition, and rival control differently.
 - [[LiuYuLateHan|刘虞]], [[ZhangQiLateHan|张岐]], [[LiuHeLateHan|刘和]], [[Xiongnu|匈奴]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - Liu Yu's refusal is both loyalist title restraint and family-risk survival judgment.
 - [[XingETheory|性恶论]], [[XingShanTheory|性善论]], [[HumanNaturePlasticity|人性可变性]], and [[FixedHumanNaturePolitics]] - human-nature opening used as interpretive frame, not as a full philosophical treatment.
-- [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] and [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]] - adjacent anti-Dong-Zhuo episodes that continue the front-line campaign and coalition-fracture branch.
+- [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|汉纪 955]] and [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|汉纪 958]] - adjacent anti-Dong-Zhuo episodes that continue the front-line campaign and coalition-fracture branch.
 
 ## Contradictions
 
-- No settled wiki contradiction is recorded. The source clarifies, rather than contradicts, later pages where [[GongsunZan|公孙瓒]] accuses Liu Yu of seeking the imperial title: Hanji 954 records that Yuan Shao and Han Fu pushed the title and Liu Yu refused it.
+- No settled wiki contradiction is recorded. The source clarifies, rather than contradicts, later pages where [[GongsunZan|公孙瓒]] accuses Liu Yu of seeking the imperial title: 汉纪 954 records that Yuan Shao and Han Fu pushed the title and Liu Yu refused it.
 - Source-scope caution: Yuan Shu's hidden imperial ambition and Liu Yu's family-fear motive are the host's interpretation of the political incentives, not direct evidence of inner thoughts.
 - Source-scope caution: the opening human-nature lesson and [[JinPingMei|《金瓶梅》]] comparison are framing material; the historical source page keeps them connected to the episode's later interest-and-legitimacy analysis rather than treating them as standalone doctrine.

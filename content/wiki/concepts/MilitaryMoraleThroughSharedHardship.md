@@ -8,9 +8,9 @@ last_updated: 2026-08-26
 
 # Military Morale Through Shared Hardship / 同甘共苦式士气
 
-[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] adds a late-Han frontier-command version through [[DuanJiongLateHan|段熲]]. After years on the frontier sharing danger and hardship with soldiers, Duan's appointment as shizhong is treated by the host as leadership by common fate rather than title-only authority.
+[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|汉纪 897]] adds a late-Han frontier-command version through [[DuanJiongLateHan|段熲]]. After years on the frontier sharing danger and hardship with soldiers, Duan's appointment as shizhong is treated by the host as leadership by common fate rather than title-only authority.
 
-[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] adds a late-Han command-success version through [[HuangfuSongLateHan|皇甫嵩]]. After describing his victories over [[YellowTurbansLateHan|黄巾军]], the host emphasizes that Huangfu Song rests only after soldiers rest and eats only after soldiers have eaten, pairing operational skill with visible shared hardship.
+[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]] adds a late-Han command-success version through [[HuangfuSongLateHan|皇甫嵩]]. After describing his victories over [[YellowTurbansLateHan|黄巾军]], the host emphasizes that Huangfu Song rests only after soldiers rest and eats only after soldiers have eaten, pairing operational skill with visible shared hardship.
 
 This source uses the pattern as a leadership and management analogy. The point is not softness: Huangfu Song's campaign is brutally effective, but his ability to keep troops disciplined and willing is partly explained by visible care for their bodily needs.
 
@@ -34,13 +34,13 @@ In this negative form, shared hardship is visible by its absence. [[XiangYu|项�
 
 The episode keeps the morale device tied to operational preparation. Because [[YingBu|英布]] and [[PuGeneral|蒲将军]] have already damaged Qin's supply corridor, the death-ground order converts an improved battlefield into attack resolve rather than merely asking soldiers to be brave against unchanged conditions.
 
-[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] adds another extreme morale case through [[HanXin|韩信]]'s backwater explanation. Han Xin says many of his soldiers were not trained veterans, so placing them with no easy retreat made them fight instead of dispersing. The source immediately limits that lesson through [[DeathGroundTacticalPreconditions|死地战术前提]]: morale pressure succeeds here because intelligence and hidden cavalry have already prevented Zhao from using Han's exposed position against him.
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|汉纪 157 part 1]] adds another extreme morale case through [[HanXin|韩信]]'s backwater explanation. Han Xin says many of his soldiers were not trained veterans, so placing them with no easy retreat made them fight instead of dispersing. The source immediately limits that lesson through [[DeathGroundTacticalPreconditions|死地战术前提]]: morale pressure succeeds here because intelligence and hidden cavalry have already prevented Zhao from using Han's exposed position against him.
 
-[[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]] adds a post-near-death repair version through [[CaoCao|曹操]] after [[PuyangBattleLateHan|濮阳之战]]. Cao Cao returns from the fire and immediately reassures soldiers, rewards [[DianWei|典韦]], strengthens the guard layer, and prepares tools and weapons for renewed fighting. The morale work matters because the army has just seen its commander nearly killed; shared hardship appears here as visible command composure and renewed practical preparation rather than a formal death-ground order.
+[[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|汉纪 980]] adds a post-near-death repair version through [[CaoCao|曹操]] after [[PuyangBattleLateHan|濮阳之战]]. Cao Cao returns from the fire and immediately reassures soldiers, rewards [[DianWei|典韦]], strengthens the guard layer, and prepares tools and weapons for renewed fighting. The morale work matters because the army has just seen its commander nearly killed; shared hardship appears here as visible command composure and renewed practical preparation rather than a formal death-ground order.
 
 ## Key Claims
-- Hanji 897 adds that shared hardship can create leadership credibility before later court politics recodes the same commander through coercive roles.
-- Hanji 929 adds that shared hardship can accompany high command effectiveness rather than only appear in desperate or defensive settings.
+- 汉纪 897 adds that shared hardship can create leadership credibility before later court politics recodes the same commander through coercive roles.
+- 汉纪 929 adds that shared hardship can accompany high command effectiveness rather than only appear in desperate or defensive settings.
 - Command credibility can come from the leader visibly accepting the same hardship imposed on subordinates.
 - Strict discipline and personal care can reinforce each other rather than operate as opposites.
 - Shared hardship can turn abstract loyalty into action, but it can also create coercive emotional debt.
@@ -53,12 +53,12 @@ The episode keeps the morale device tied to operational preparation. Because [[Y
 - Failed shared hardship can undermine the commander's right to enforce discipline and create an opening for violent replacement.
 - Forced shared hardship can create irreversible morale, but it is most credible when battlefield conditions have already been improved.
 - Death-ground morale can compensate for undertrained troops, but only when intelligence and surprise keep forced resolve from becoming a self-made trap.
-- Hanji 980 adds that after a commander has visibly survived a near-disaster, morale repair requires immediate reassurance, reward, guard restoration, and preparation for the next fight.
+- 汉纪 980 adds that after a commander has visibly survived a near-disaster, morale repair requires immediate reassurance, reward, guard restoration, and preparation for the next fight.
 
 ## Connections
-- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]], [[DuanJiongLateHan|段熲]], and [[ExchangeableCapability|可交换能力]] - frontier leadership case contrasted with relationship theater.
-- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[HuangfuSongLateHan|皇甫嵩]], [[YellowTurbansLateHan|黄巾军]], [[ZhangLiangYellowTurban|张梁]], and [[ZhangBaoYellowTurban|张宝]] - late-Han campaign-success and commander-care version.
-- [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|Hanji 980]], [[CaoCao|曹操]], [[DianWei|典韦]], and [[PuyangBattleLateHan|濮阳之战]] - post-escape morale repair and guard reward.
+- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|汉纪 897]], [[DuanJiongLateHan|段熲]], and [[ExchangeableCapability|可交换能力]] - frontier leadership case contrasted with relationship theater.
+- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]], [[HuangfuSongLateHan|皇甫嵩]], [[YellowTurbansLateHan|黄巾军]], [[ZhangLiangYellowTurban|张梁]], and [[ZhangBaoYellowTurban|张宝]] - late-Han campaign-success and commander-care version.
+- [[zizhi-tongjian-hanji-980-lvbu-xiansha-caocao-kankan-yi-ju-hua-ruhe-niuzhuan-lishi-lgggw3vmonu-3wvzabvg943v5qcg|汉纪 980]], [[CaoCao|曹操]], [[DianWei|典韦]], and [[PuyangBattleLateHan|濮阳之战]] - post-escape morale repair and guard reward.
 - [[SimaRangju|司马穰苴]] and [[WuQi|吴起]] - source cases.
 - [[Wuzi|《吴子》]] - text branch for "励士" and morale.
 - [[WeiState|魏国]] - state whose military rise the source links to Wu Qi.
@@ -69,4 +69,4 @@ The episode keeps the morale device tied to operational preparation. Because [[Y
 - [[zizhi-tongjian-qinji-118-1-wangjian-lv-liushiwan-dajun-duizhan-xiangyan-haoxi-kaichang-le-lsf2puinwg0m3bgyi25znof7aznu]], [[WangJianQin|王翦]], [[XiangYan|项燕]], and [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - Qinji 118-1 long-wait morale and readiness case.
 - [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]], [[SongYi|宋义]], [[XiangYu|项羽]], [[AnyangQinRebellion|安阳]], and [[WuyanCounty|无盐县]] - negative case where commander insulation from soldier hardship helps justify command decapitation.
 - [[zizhi-tongjian-qinji-134-ni-buzhidao-de-pofu-chenzhou-banben-ltnry1fva2hzplw4ft8nrfpoiolw|Qinji 134]], [[JuluBattle|巨鹿之战]], [[ZhangRiver|漳水]], [[Aocang|敖仓]], and [[TransportCorridorSeverance|交通线切割]] - extreme shared fate after supply-corridor preparation.
-- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]], [[BackwaterBattle|背水一战]], and [[DeathGroundTacticalPreconditions|死地战术前提]] - Han Xin's forced-resolve explanation and its intelligence/surprise limits.
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|汉纪 157 part 1]], [[BackwaterBattle|背水一战]], and [[DeathGroundTacticalPreconditions|死地战术前提]] - Han Xin's forced-resolve explanation and its intelligence/surprise limits.

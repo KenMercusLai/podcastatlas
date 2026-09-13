@@ -37,7 +37,7 @@ The durable synthesis is that Xuan-era restoration joins memory, reward, restrai
 
 ## Connections
 
-- [[ZhangAnshiWesternHan|张安世]] - the source expands him from Hanji 430's reward-restraint figure into a full cautious elder profile.
+- [[ZhangAnshiWesternHan|张安世]] - the source expands him from 汉纪 430's reward-restraint figure into a full cautious elder profile.
 - [[QilinPavilionMeritHonors|麒麟阁功臣荣典]] - the source backfills the honor list's origin story and treats Zhang Anshi as a representative case.
 - [[EmperorXuanOfHan|汉宣帝]] - the source adds Yuankang 4 pardon, reward, personnel, and frontier-warning material before later late-reign high points.
 - [[WeiXuanchengWesternHan|韦玄成]] - the source supplies the title-refusal backstory behind his later symbolic use by Xuan.

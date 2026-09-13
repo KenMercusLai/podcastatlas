@@ -11,7 +11,7 @@ last_updated: 2026-08-30
 ---
 
 ## Summary
-This episode backfills the 118-119 CE layer immediately before Hanji 791, linking Deng-regency frontier pressure, Qiang-war finance, Deng-family privilege management, Yizhou pacification, and Western Regions recovery planning. Its main interpretive frame is that Ren Shang's real military achievement became politically fatal when he competed for credit with Deng Zun, a Deng-family commander closer to the regency power center. The episode also adds Yang Song's force-and-leniency campaign in Yizhou, Tang Tan's refusal to present an auspicious omen under outer-relative dominance, and Cao Zong and Suo Ban's prelude to the Western Regions crisis.
+This episode backfills the 118-119 CE layer immediately before 汉纪 791, linking Deng-regency frontier pressure, Qiang-war finance, Deng-family privilege management, Yizhou pacification, and Western Regions recovery planning. Its main interpretive frame is that Ren Shang's real military achievement became politically fatal when he competed for credit with Deng Zun, a Deng-family commander closer to the regency power center. The episode also adds Yang Song's force-and-leniency campaign in Yizhou, Tang Tan's refusal to present an auspicious omen under outer-relative dominance, and Cao Zong and Suo Ban's prelude to the Western Regions crisis.
 
 ## Key Claims
 - In 118 CE, disasters and rebellions across Qiang, Goguryeo, Xianbei, and the southwest show the Deng regency operating under a compound crisis rather than a single-front problem.
@@ -41,7 +41,7 @@ This episode backfills the 118-119 CE layer immediately before Hanji 791, linkin
 - [[ZhangQiaoLateHan]] and [[YangSongLateHan]] — Yizhou inspector and subordinate officer pair force, leniency, and administrative correction.
 - [[YizhouPacificationByLeniency]] — strengthened by Yang Song's early example before later Liu Yan material.
 - [[TangTanLateHan]] — rejects an auspicious omen because outer relatives are strong and the ruler is weak.
-- [[CaoZongLateHan]] and [[SuoBanLateHan]] — initiate the Western Regions recovery attempt that Hanji 791 shows becoming a frontier liability.
+- [[CaoZongLateHan]] and [[SuoBanLateHan]] — initiate the Western Regions recovery attempt that 汉纪 791 shows becoming a frontier liability.
 - [[ShuleKingdom]], [[KhotanKingdomLateHan]], and [[Xiongnu]] — the episode records Shule succession and Northern Xiongnu suzerainty before Han's re-entry.
 - [[StrategicFrontierAbandonment]] — gains a prelude showing the resource and suzerainty consequences of earlier withdrawal from the Western Regions.
 

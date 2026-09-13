@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 129-131 CE opening layer of [[EmperorShunOfHan|汉顺帝]]'s reign before the already-ingested Hanji 811 sequence. Its main throughline is selective early repair: Shun accepts [[YuXuEasternHan|虞诩]]'s advice to restore frontier commanderies, revives [[YiwuGarrisonLateHan|伊吾屯田]], repairs [[Taixue|太学]], and sends [[ShenJingLateHan|沈景]] to discipline [[LiuZhengHejianKing|河间王刘政]], while the [[BanShiLateHan|班始]] and [[YinChengPrincess|阴城公主]] case exposes extreme household, status, and collateral-punishment risk.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 129-131 CE opening layer of [[EmperorShunOfHan|汉顺帝]]'s reign before the already-ingested 汉纪 811 sequence. Its main throughline is selective early repair: Shun accepts [[YuXuEasternHan|虞诩]]'s advice to restore frontier commanderies, revives [[YiwuGarrisonLateHan|伊吾屯田]], repairs [[Taixue|太学]], and sends [[ShenJingLateHan|沈景]] to discipline [[LiuZhengHejianKing|河间王刘政]], while the [[BanShiLateHan|班始]] and [[YinChengPrincess|阴城公主]] case exposes extreme household, status, and collateral-punishment risk.
 
 ## Key Claims
 
@@ -62,6 +62,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with the existing wiki was found; the episode mainly backfills events before Hanji 811.
+- No settled contradiction with the existing wiki was found; the episode mainly backfills events before 汉纪 811.
 - The source normalizes several scope-limited figures as non-canonical for now: Fang Qian, King Xing of Jumi, Xu You, Xu Jing, Liu Qi, Geng Ye, and Han Hao are tracked only in this source note unless later sources make them recurring.
 - The route [[YiwuGarrisonLateHan]] is deliberately disambiguated from the existing modern [[Yiwu]] page.

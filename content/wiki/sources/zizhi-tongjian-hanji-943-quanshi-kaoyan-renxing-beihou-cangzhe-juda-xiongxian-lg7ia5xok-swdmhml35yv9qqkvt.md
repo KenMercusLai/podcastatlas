@@ -13,7 +13,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the succession crisis immediately before [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]]. It follows [[EmperorLingOfHan|汉灵帝]]'s failure to name an heir, [[JianShuoLateHan|蹇硕]]'s failed attempt to kill [[HeJin|何进]] and install Liu Xie, later [[EmperorXianOfHan|汉献帝]], [[LiuBianHongnongWang|刘辩 / 弘农王]]'s accession under [[EmpressDowagerHe|何太后]], and the purge of [[EmpressDowagerDongLateHan|董太后]]'s side through [[DongZhongLateHan|董重]]. The distinct contribution is a pre-Hanji-944 succession layer: non-designation turns family, foster-care, eunuch command, and outer-relative power into a fast-moving death field before the anti-eunuch plan even begins.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the succession crisis immediately before [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|汉纪 944]]. It follows [[EmperorLingOfHan|汉灵帝]]'s failure to name an heir, [[JianShuoLateHan|蹇硕]]'s failed attempt to kill [[HeJin|何进]] and install Liu Xie, later [[EmperorXianOfHan|汉献帝]], [[LiuBianHongnongWang|刘辩 / 弘农王]]'s accession under [[EmpressDowagerHe|何太后]], and the purge of [[EmpressDowagerDongLateHan|董太后]]'s side through [[DongZhongLateHan|董重]]. The distinct contribution is a pre-Hanji-944 succession layer: non-designation turns family, foster-care, eunuch command, and outer-relative power into a fast-moving death field before the anti-eunuch plan even begins.
 
 ## Key Claims
 
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - He Jin and the Three Excellencies accuse Dong Taihou's side of extracting and storing wealth in Yongle Palace, then argue that a fief-state queen mother should not remain in the capital.
 - He Jin surrounds Dong Zhong's general's residence; Dong Zhong is removed from office and kills himself, while Dong Taihou soon dies under accounts that differ between source traditions.
 - The episode distinguishes source layers: [[ZizhiTongjian|《资治通鉴》]] says Dong Taihou died of fear and illness, [[HouHanshu|《后汉书》]] records pressure toward suicide, and [[RomanceOfTheThreeKingdoms|《三国演义》]] fictionalizes poisoning by He Taihou.
-- The source ends by stressing that He Jin has defeated immediate rivals, but court ministers and eunuchs remain irreconcilable, setting up Hanji 944-946.
+- The source ends by stressing that He Jin has defeated immediate rivals, but court ministers and eunuchs remain irreconcilable, setting up 汉纪 944-946.
 
 ## Key Quotes
 
@@ -51,7 +51,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[JianShuoLateHan|蹇硕]], [[PanYinLateHan|潘隐]], [[GuoShengLateHan|郭胜]], [[ZhaoZhongLateHan|赵忠]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - eunuch-side palace access and failed preemptive violence.
 - [[HeJin|何进]], [[YuanWeiLateHan|袁隗]], [[YuanShao|袁绍]], [[YuanShu|袁术]], [[HeYongLateHan|何颙]], and [[ZhengTaiLateHan|郑泰]] - He-side court and personnel consolidation after Liu Bian's accession.
 - [[DongZhongLateHan|董重]], [[SuccessionLegitimacyPurge|继位合法性清洗]], and [[MaternalStatusSuccessionLeverage|子以母贵式继承杠杆]] - purge of the rival Dong succession support line.
-- [[FixedHumanNaturePolitics]], [[PalaceCoupViolenceCascade|宫廷政变暴力级联]], and [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] - human-nature framing and next-stage anti-eunuch decision crisis.
+- [[FixedHumanNaturePolitics]], [[PalaceCoupViolenceCascade|宫廷政变暴力级联]], and [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|汉纪 944]] - human-nature framing and next-stage anti-eunuch decision crisis.
 
 ## Contradictions
 

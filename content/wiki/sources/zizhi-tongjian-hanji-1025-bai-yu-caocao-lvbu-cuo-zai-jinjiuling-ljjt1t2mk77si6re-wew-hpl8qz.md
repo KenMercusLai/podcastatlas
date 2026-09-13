@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the immediate collapse mechanics before [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]]: [[LyuBu|吕布]] is trapped at [[Xiapi|下邳]], fails to send his daughter through [[CaoCao|曹操]]'s blockade to [[YuanShu|袁术]], and loses hoped-for relief from [[ZhangYangLateHan|张杨]]. [[XunYou|荀攸]] and [[GuoJia|郭嘉]] persuade Cao Cao not to withdraw, Cao floods the city with the Si and Yi rivers, and Lü Bu's ban-driven suspicion of [[HouChengLateHan|侯成]] turns internal strain into defection. The source reads Lü Bu's fall as cumulative strategic instability, not as a single "ban alcohol" mistake.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the immediate collapse mechanics before [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|汉纪 1026]]: [[LyuBu|吕布]] is trapped at [[Xiapi|下邳]], fails to send his daughter through [[CaoCao|曹操]]'s blockade to [[YuanShu|袁术]], and loses hoped-for relief from [[ZhangYangLateHan|张杨]]. [[XunYou|荀攸]] and [[GuoJia|郭嘉]] persuade Cao Cao not to withdraw, Cao floods the city with the Si and Yi rivers, and Lü Bu's ban-driven suspicion of [[HouChengLateHan|侯成]] turns internal strain into defection. The source reads Lü Bu's fall as cumulative strategic instability, not as a single "ban alcohol" mistake.
 
 ## Key Claims
 - In 198 CE, Lü Bu fears Yuan Shu will not send relief because the promised marriage alliance has not been completed, so he ties his daughter onto horseback and tries to send her out of Xiapi.
@@ -35,8 +35,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies th
 > "禁酒令" - episode title hook, treated by the source as a proximate trigger rather than the whole cause of Lü Bu's defeat.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]] and [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] - prior Yuan Shu marriage, title, and reversal context.
-- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] - next episode resolving Cao Cao's treatment of Lü Bu, Chen Gong, Gao Shun, and surrenderers.
+- [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|汉纪 1016]] and [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|汉纪 1018]] - prior Yuan Shu marriage, title, and reversal context.
+- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|汉纪 1026]] - next episode resolving Cao Cao's treatment of Lü Bu, Chen Gong, Gao Shun, and surrenderers.
 - [[CaoCao|曹操]], [[LyuBu|吕布]], [[Xiapi|下邳]], [[YuanShu|袁术]], [[ZhangYangLateHan|张杨]], [[YangChouLateHan|杨丑]], [[SuiGuLateHan|眭固]], [[XunYou|荀攸]], [[GuoJia|郭嘉]], [[ChenGongLateHan|陈宫]], [[GaoShun|高顺]], [[HouChengLateHan|侯成]], [[SongXianLateHan|宋宪]], and [[WeiXuLateHan|魏续]] - central actors and siege setting.
 - [[HydraulicSiegeWarfare|水攻围城]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[CommandDisciplineAuthority|军法威严]], [[SuspicionTriggeredCommandMutiny|猜疑触发的部下倒戈]], [[StatusInsultDefectionCascade|名分羞辱触发叛变]], [[LyuBuFactionalBalance|吕布集团派系平衡]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[MarriageAllianceWarExposure|联姻同盟战场暴露]], [[QingYuQuJiu|轻于去就]], and [[JiFuBaoYang|饥附饱扬]] - conceptual frames.
 

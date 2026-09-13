@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Definition
 
-用兵名义分型 / Military justification typology is Hanji 429's framework, drawn from [[WeiXiangWesternHan|魏相]], for judging a proposed war by its purpose before judging its opportunity, scale, or tactical promise.
+用兵名义分型 / Military justification typology is 汉纪 429's framework, drawn from [[WeiXiangWesternHan|魏相]], for judging a proposed war by its purpose before judging its opportunity, scale, or tactical promise.
 
 ## Current Synthesis
 
@@ -29,13 +29,13 @@ The episode's idiom claim turns on that last category: "骄兵必败" is not mer
 ## Evidence
 
 Wei Xiang's categories:
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Wei Xiang asks Xuan to clarify the expedition's name before attacking Xiongnu's west.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] defines 义兵 as rescuing danger and removing violence, and 应兵 as responding to invasion.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] defines 忿兵, 贪兵, and 骄兵 as anger-driven, gain-seeking, and strength-displaying forms that lead to failure or destruction.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Wei Xiang asks Xuan to clarify the expedition's name before attacking Xiongnu's west.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] defines 义兵 as rescuing danger and removing violence, and 应兵 as responding to invasion.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] defines 忿兵, 贪兵, and 骄兵 as anger-driven, gain-seeking, and strength-displaying forms that lead to failure or destruction.
 
 Cheshi restraint:
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Wei Xiang cites Xiongnu's recent release of Han captives, limited recent raiding, frontier poverty, and domestic disasters as reasons against major war.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Xuan accepts the advice and sends Chang Hui to extract Zheng Ji instead of launching the wider attack.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Wei Xiang cites Xiongnu's recent release of Han captives, limited recent raiding, frontier poverty, and domestic disasters as reasons against major war.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Xuan accepts the advice and sends Chang Hui to extract Zheng Ji instead of launching the wider attack.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ The typology is a source-scoped Wei Xiang / Han Shu framework as presented by th
 
 ## What Changed
 
-- Created the concept from Hanji 429's "骄兵必败" origin and Wei Xiang's fivefold war-purpose classification.
+- Created the concept from 汉纪 429's "骄兵必败" origin and Wei Xiang's fivefold war-purpose classification.
 
 ## Related Concepts
 

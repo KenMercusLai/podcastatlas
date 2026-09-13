@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-Hanji 610-2 introduces the concept through [[HanAidi|汉哀帝]]'s burial chronology: the episode says he died in the sixth month but was formally buried at Yiling in the tenth month. The source contrasts this with common three-day停灵 or seven-day "头七" custom to show that imperial death operates on a different ceremonial scale.
+汉纪 610-2 introduces the concept through [[HanAidi|汉哀帝]]'s burial chronology: the episode says he died in the sixth month but was formally buried at Yiling in the tenth month. The source contrasts this with common three-day停灵 or seven-day "头七" custom to show that imperial death operates on a different ceremonial scale.
 
 The episode's main contribution is to join ritual time to preservation technique. Imperial mourning is not explained only by belief in "入土为安" or family remembrance; the body must survive a longer court process. Hot-water washing, official cleansing, liquor disinfection, fragrant decoctions, aromatics, herbs, charcoal, ash, and sealed coffins all make the ritual delay materially manageable, while pearls or luminous pearls add a symbolic belief that the corpse can resist decay.
 
@@ -29,20 +29,20 @@ The episode's main contribution is to join ritual time to preservation technique
 
 ## Evidence
 
-- Burial timing: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] says Han Aidi died in the sixth month and was buried in the tenth month.
-- Common-practice contrast: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] contrasts common three-day停灵 and seven-day "头七" custom with a roughly three-month imperial coffin display.
-- Cleansing and disinfection: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] describes hot-water soaking, body washing, and liquor applied to reduce decay risk.
-- Fragrant ritual bath: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] names 裸人 or 御人 and describes fragrant decoctions and wine used in the bathing rite.
-- Grave goods and aromatics: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] says the corpse is dressed in fine clothing and accompanied by goods, spices, herbs, and pearls or luminous pearls.
-- Coffin environment: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] says charcoal and plant ash help seal the coffin, block outside air, and keep the interior dry.
+- Burial timing: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|汉纪 610-2]] says Han Aidi died in the sixth month and was buried in the tenth month.
+- Common-practice contrast: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|汉纪 610-2]] contrasts common three-day停灵 and seven-day "头七" custom with a roughly three-month imperial coffin display.
+- Cleansing and disinfection: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|汉纪 610-2]] describes hot-water soaking, body washing, and liquor applied to reduce decay risk.
+- Fragrant ritual bath: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|汉纪 610-2]] names 裸人 or 御人 and describes fragrant decoctions and wine used in the bathing rite.
+- Grave goods and aromatics: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|汉纪 610-2]] says the corpse is dressed in fine clothing and accompanied by goods, spices, herbs, and pearls or luminous pearls.
+- Coffin environment: [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|汉纪 610-2]] says charcoal and plant ash help seal the coffin, block outside air, and keep the interior dry.
 
 ## Counterevidence & Qualifications
 
-This concept should not absorb every imperial funeral or every burial-status dispute. [[FuneraryPrivilegeAbuse|丧葬名分僭越]] concerns above-rank burial signs and political enforcement; imperial funerary preservation concerns body treatment during delayed burial. Hanji 610-2 is a short popular explainer, so exact offices, substances, procedures, medical efficacy, archaeological parallels, and dynasty-specific rules remain source-scoped.
+This concept should not absorb every imperial funeral or every burial-status dispute. [[FuneraryPrivilegeAbuse|丧葬名分僭越]] concerns above-rank burial signs and political enforcement; imperial funerary preservation concerns body treatment during delayed burial. 汉纪 610-2 is a short popular explainer, so exact offices, substances, procedures, medical efficacy, archaeological parallels, and dynasty-specific rules remain source-scoped.
 
 ## What Changed
 
-- Created the concept from Hanji 610-2's explanation of why delayed imperial burial required preservation procedures.
+- Created the concept from 汉纪 610-2's explanation of why delayed imperial burial required preservation procedures.
 
 ## Related Concepts
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 曾赫 / Zeng He
 
-曾赫 / Zeng He enters the wiki through [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]] as a newly attached [[LiuBang|刘邦]]-side commander in the aftermath of the [[PengchengBattle|彭城之战]]. The episode cites the [[Shiji|《史记》]] merit-marquis table and presents him as coming from Shanxi before joining Liu Bang's army not long before the battle.
+曾赫 / Zeng He enters the wiki through [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|汉纪 152 part 2]] as a newly attached [[LiuBang|刘邦]]-side commander in the aftermath of the [[PengchengBattle|彭城之战]]. The episode cites the [[Shiji|《史记》]] merit-marquis table and presents him as coming from Shanxi before joining Liu Bang's army not long before the battle.
 
 His source role is discipline under collapse. While the Han coalition is broken by [[XiangYu|项羽]]'s mobile attack, Zeng He keeps his own formation together and uses it to block Chu cavalry. The episode treats that as one of the few Han-side bright spots in a rout otherwise defined by panic and disintegration.
 

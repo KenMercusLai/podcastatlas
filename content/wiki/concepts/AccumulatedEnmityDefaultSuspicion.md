@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] grounds the concept through [[YangYunWesternHan|杨恽]] and [[DaiChangleWesternHan|戴长乐]]. The episode does not claim Dai knows for certain that Yang reported him. The point is reputational probability: Yang's past conduct makes Dai immediately imagine him as the likely source because Yang is known for self-display, cutting judgment, and revealing others' hidden faults.
+[[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|汉纪 453]] grounds the concept through [[YangYunWesternHan|杨恽]] and [[DaiChangleWesternHan|戴长乐]]. The episode does not claim Dai knows for certain that Yang reported him. The point is reputational probability: Yang's past conduct makes Dai immediately imagine him as the likely source because Yang is known for self-display, cutting judgment, and revealing others' hidden faults.
 
 The concept therefore joins interpersonal conduct to political risk. A person can be partly right on substance, clean in office, or courageous in speech and still become unsafe if everyday conduct leaves many people waiting for a chance to retaliate. When trouble comes, potential helpers may hesitate because helping the target means offending everyone who already resents that target.
 
@@ -30,12 +30,12 @@ The concept therefore joins interpersonal conduct to political risk. A person ca
 ## Evidence
 
 Yang Yun's reputation field:
-- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says Yang Yun is clean and direct in office, but also boastful, sharp, and fond of exposing hidden faults.
-- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says many court people have resentments against Yang because of this conduct.
+- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|汉纪 453]] says Yang Yun is clean and direct in office, but also boastful, sharp, and fond of exposing hidden faults.
+- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|汉纪 453]] says many court people have resentments against Yang because of this conduct.
 
 Default suspicion and retaliation:
-- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says Dai Changle is reported by an unknown person and quickly suspects Yang Yun.
-- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|Hanji 453]] says Dai then reports Yang, converting Yang's remarks into a political case.
+- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|汉纪 453]] says Dai Changle is reported by an unknown person and quickly suspects Yang Yun.
+- [[zizhi-tongjian-hanji-453-guanchang-qishilu-tongshi-tong-ni-qian-biran-ren-ni-henjiu-le-lnrmyjyep_xhen3lmzu2_yhtsuxb|汉纪 453]] says Dai then reports Yang, converting Yang's remarks into a political case.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ This concept does not prove Yang Yun actually reported Dai Changle. The source e
 
 ## What Changed
 
-- Created the concept from Hanji 453's Dai Changle-Yang Yun accusation spiral.
+- Created the concept from 汉纪 453's Dai Changle-Yang Yun accusation spiral.
 
 ## Related Concepts
 

@@ -11,15 +11,15 @@ last_updated: 2026-08-29
 
 ## Overview
 
-吴祐 / Wu You enters the wiki through Hanji 830 as the general-in-chief's longshi who argues for [[LiGuLateHan|李固]] after [[LiangJiLateHan|梁冀]] reasserts the accusation. Hanji 823 now adds an earlier local-governance profile: as Jiaodong minister/chancellor, Wu You practices humane and simple administration, reads 孙性's confession through filial motive and repentance, and turns a minor officeholder's offense into moral correction rather than extraction or terror.
+吴祐 / Wu You enters the wiki through 汉纪 830 as the general-in-chief's longshi who argues for [[LiGuLateHan|李固]] after [[LiangJiLateHan|梁冀]] reasserts the accusation. 汉纪 823 now adds an earlier local-governance profile: as Jiaodong minister/chancellor, Wu You practices humane and simple administration, reads 孙性's confession through filial motive and repentance, and turns a minor officeholder's offense into moral correction rather than extraction or terror.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|Hanji 823]] presents Wu You as a local administrator in the comparative sequence after Zhang Gang. The episode says his governance honors humane simplicity so strongly that the people are unwilling to deceive him.
+[[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|汉纪 823]] presents Wu You as a local administrator in the comparative sequence after Zhang Gang. The episode says his governance honors humane simplicity so strongly that the people are unwilling to deceive him.
 
 The Sun Xing case gives the mechanism. Sun Xing, a village sefu charged with household registration, tax allocation, and labor-related tasks, levies money privately to buy clothes for his father; his father sends him to confess. Wu You treats the offense as evidence of misplaced filial care and remorse rather than as ordinary corruption, returns the clothes to the father, and dismisses Sun Xing without harsher punishment.
 
-[[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] gives Wu You's later court-administration intervention. When Liang Ji again accuses Li Gu after the release order, Wu You argues on Li Gu's behalf and challenges [[MaRongLateHan|马融]] over the written charge, asking how they will answer the world if Li Gu dies.
+[[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] gives Wu You's later court-administration intervention. When Liang Ji again accuses Li Gu after the release order, Wu You argues on Li Gu's behalf and challenges [[MaRongLateHan|马融]] over the written charge, asking how they will answer the world if Li Gu dies.
 
 Liang Ji does not accept the warning. After Li Gu and [[DuQiaoLateHan|杜乔]] die, Liang moves Wu You out as Hejian kingdom minister; Wu You refuses the posting, resigns, and later dies at home. The page now treats him as both a humane local administrator and a failed correction voice inside Liang Ji's administrative orbit.
 
@@ -34,19 +34,19 @@ Liang Ji does not accept the warning. After Li Gu and [[DuQiaoLateHan|杜乔]] d
 
 ## Evidence
 
-- Humane local administration: [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|Hanji 823]] says Wu You governs Jiaodong through humane simplicity and produces a public unwillingness to deceive him.
-- Sun Xing correction: [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|Hanji 823]] says Wu You treats Sun Xing's confession as a case where seeing the offense reveals humane intent, returns the clothes to Sun's father, and dismisses Sun Xing.
-- Defense of Li Gu: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Wu You argues strongly for Li Gu after Liang Ji renews the accusation.
-- Accountability warning: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Wu You questions Ma Rong about how the charge writers will face public blame if Li Gu dies.
-- Failed protection and exit: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Li Gu still dies in prison, after which Liang Ji sends Wu You to Hejian and Wu You refuses office.
+- Humane local administration: [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|汉纪 823]] says Wu You governs Jiaodong through humane simplicity and produces a public unwillingness to deceive him.
+- Sun Xing correction: [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|汉纪 823]] says Wu You treats Sun Xing's confession as a case where seeing the offense reveals humane intent, returns the clothes to Sun's father, and dismisses Sun Xing.
+- Defense of Li Gu: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Wu You argues strongly for Li Gu after Liang Ji renews the accusation.
+- Accountability warning: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Wu You questions Ma Rong about how the charge writers will face public blame if Li Gu dies.
+- Failed protection and exit: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Li Gu still dies in prison, after which Liang Ji sends Wu You to Hejian and Wu You refuses office.
 
 ## Qualifications
 
-This page is bounded to Hanji 823 and Hanji 830. It does not reconstruct Wu You's full career, the exact institutional distinction between Jiaodong minister/chancellor and later longshi service, the legal range available in Sun Xing's case, or Ma Rong's broader responsibility for Li Gu's accusation text. Hanji 823's transcript form 吴佑 is normalized to 吴祐 from the received Tongjian passage.
+This page is bounded to 汉纪 823 and 汉纪 830. It does not reconstruct Wu You's full career, the exact institutional distinction between Jiaodong minister/chancellor and later longshi service, the legal range available in Sun Xing's case, or Ma Rong's broader responsibility for Li Gu's accusation text. 汉纪 823's transcript form 吴佑 is normalized to 吴祐 from the received Tongjian passage.
 
 ## What Changed
 
-- Added Hanji 823 as Wu You's Jiaodong humane-governance layer before his later Li Gu defense.
+- Added 汉纪 823 as Wu You's Jiaodong humane-governance layer before his later Li Gu defense.
 - Reframed Wu You from only a failed Liang Ji correction voice into a two-mode official: merciful local adjudicator and later public-accountability remonstrant.
 - Added Sun Xing's confession as a source-bounded example of mercy that reads motive without erasing offense.
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] creates the concept through [[XuFuWesternHan|徐福]]'s warnings about the Huo family and the "曲突徙薪" story. Xu Fu reportedly sees that Huo luxury, arrogance, and proximity to power will create rebellion risk and urges [[EmperorXuanOfHan|汉宣帝]] to restrain the household before the danger hardens.
+[[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] creates the concept through [[XuFuWesternHan|徐福]]'s warnings about the Huo family and the "曲突徙薪" story. Xu Fu reportedly sees that Huo luxury, arrogance, and proximity to power will create rebellion risk and urges [[EmperorXuanOfHan|汉宣帝]] to restrain the household before the danger hardens.
 
 The key contrast is between prevention and firefighting. After the Huo conspiracy is exposed, Xuan rewards those who reveal and suppress the immediate plot. The later petition argues that this misses the deeper contribution: if the ruler had accepted early restraint, the state might have avoided mass execution, major rewards, and emergency cleanup altogether.
 
@@ -28,14 +28,14 @@ The key contrast is between prevention and firefighting. After the Huo conspirac
 ## Evidence
 
 Early warning:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xu Fu repeatedly warns Xuan that Huo luxury and indulgence will lead toward arrogance, offense, and grave crime.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Xu Fu repeatedly warns Xuan that Huo luxury and indulgence will lead toward arrogance, offense, and grave crime.
 
 Reward mismatch:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says conspiracy informants are made marquises while Xu Fu is initially overlooked.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says a petitioner uses the curved-chimney and moved-firewood analogy to argue that prevention deserves recognition before firefighting.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says conspiracy informants are made marquises while Xu Fu is initially overlooked.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says a petitioner uses the curved-chimney and moved-firewood analogy to argue that prevention deserves recognition before firefighting.
 
 Belated correction:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xuan grants Xu Fu silk and office after hearing the analogy.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Xuan grants Xu Fu silk and office after hearing the analogy.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ The source does not prove that Xuan could have fully prevented the Huo collapse 
 
 ## What Changed
 
-- Created the concept from Hanji 424's Xu Fu warning and "曲突徙薪" analogy.
+- Created the concept from 汉纪 424's Xu Fu warning and "曲突徙薪" analogy.
 
 ## Related Concepts
 

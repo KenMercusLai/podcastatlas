@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》984丨凉州系军阀内斗，他为何第一个倒下？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] late-Han Chang'an sequence by placing [[FanChouLateHan|樊稠]]'s death inside the [[LiangzhouWarlordClique|凉州系军阀]] split around [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]]. After Fan Chou defeats [[MaTeng|马腾]] and [[HanSui|韩遂]] near [[ChenCang|陈仓]], [[LiLiLateHan|李利]] reports Fan Chou's friendly field conversation with Han Sui, giving Li Jue a trigger to remove a commander whose bravery and army support were already threatening. The second half turns from that purge to the Li-Guo escalation: [[GuoSiWife|郭汜妻]]'s poison insinuation accelerates existing rivalry, [[EmperorXianOfHan|汉献帝]]'s mediation fails, and [[LiXianLateHan|李暹]] moves the emperor from the palace to Li Jue's camp before [[ChangAnHanCapital|长安]] is plundered and burned.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|汉纪 985]] late-Han Chang'an sequence by placing [[FanChouLateHan|樊稠]]'s death inside the [[LiangzhouWarlordClique|凉州系军阀]] split around [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]]. After Fan Chou defeats [[MaTeng|马腾]] and [[HanSui|韩遂]] near [[ChenCang|陈仓]], [[LiLiLateHan|李利]] reports Fan Chou's friendly field conversation with Han Sui, giving Li Jue a trigger to remove a commander whose bravery and army support were already threatening. The second half turns from that purge to the Li-Guo escalation: [[GuoSiWife|郭汜妻]]'s poison insinuation accelerates existing rivalry, [[EmperorXianOfHan|汉献帝]]'s mediation fails, and [[LiXianLateHan|李暹]] moves the emperor from the palace to Li Jue's camp before [[ChangAnHanCapital|长安]] is plundered and burned.
 
 ## Key Claims
 - In 195 CE, the Sanfu / [[GuanzhongRegion|关中]] area still has large population remnants after [[DongZhuo|董卓]]'s death, but plunder by Li Jue, Guo Si, Fan Chou, and their soldiers combines with famine until ordinary life collapses toward hunger and cannibalism.
@@ -25,7 +25,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - After Fan Chou dies, the generals lose the last appearance of internal unity; suspicion between Li Jue and Guo Si becomes open conflict.
 - Guo Si's wife is the proximate trigger for poison suspicion, but the host treats the deeper cause as the Li-Guo struggle over court, troops, and Emperor Xian.
 - Emperor Xian's mediation fails because neither Li Jue nor Guo Si treats imperial messengers as binding authority.
-- Li Jue's preemptive seizure of the emperor after Guo Si's abduction plan leaks shows the emperor becoming a movable prize before Hanji 985's fully symmetrical hostage stage.
+- Li Jue's preemptive seizure of the emperor after Guo Si's abduction plan leaks shows the emperor becoming a movable prize before 汉纪 985's fully symmetrical hostage stage.
 - The palace plunder and burning of palaces, offices, and civilian houses extend the episode's disaster frame: armed competition over the court destroys the capital setting that should sustain court authority.
 
 ## Key Quotes
@@ -40,7 +40,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[GuoSiWife|郭汜妻]] - household channel that accelerates Guo Si's suspicion of Li Jue.
 - [[EmperorXianOfHan|汉献帝]], [[LiXianLateHan|李暹]], [[YangBiao|杨彪]], and [[ChangAnHanCapital|长安]] - palace seizure, failed objection, plunder, and burning.
 - [[MilitaryPrestigeThreatPurge|军功声望威胁清洗]], [[DualExecutivePowerRisk|双首长权力风险]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[WarDisasterCompounding]], and [[FamineEntitlementFailure]] - concepts extended by the episode.
-- [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|Hanji 985]] - downstream episode where Li Jue holding the emperor and Guo Si holding ministers becomes fully visible.
+- [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk|汉纪 985]] - downstream episode where Li Jue holding the emperor and Guo Si holding ministers becomes fully visible.
 
 ## Contradictions
 - No settled contradiction found.

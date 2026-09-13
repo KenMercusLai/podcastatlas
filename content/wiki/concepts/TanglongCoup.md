@@ -14,7 +14,7 @@ The Tanglong Coup is the 710 coup in the current source base led by [[LiLongjiTa
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] treats the Tanglong Coup as the endpoint of Shangguan Wan'er's factional balancing. After [[TangZhongzong|唐中宗]] dies, Empress Wei appears ascendant; Shangguan Wan'er doubts the faction's durability and tries to preserve a fallback by placing [[LiDanTang|李旦]] in the power core. When Li Longji moves militarily, that paper trail is not enough: the episode reads her death as the defeat of multi-sided survival by a winner demanding absolute dynastic loyalty.
+[[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] treats the Tanglong Coup as the endpoint of Shangguan Wan'er's factional balancing. After [[TangZhongzong|唐中宗]] dies, Empress Wei appears ascendant; Shangguan Wan'er doubts the faction's durability and tries to preserve a fallback by placing [[LiDanTang|李旦]] in the power core. When Li Longji moves militarily, that paper trail is not enough: the episode reads her death as the defeat of multi-sided survival by a winner demanding absolute dynastic loyalty.
 
 ## Key Claims
 
@@ -26,9 +26,9 @@ The Tanglong Coup is the 710 coup in the current source base led by [[LiLongjiTa
 
 ## Evidence
 
-- Coup context: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Empress Wei controlled power after Zhongzong's death and that Li Longji then launched the Tanglong Coup.
-- Self-defense edict: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er held a lantern and the edict when she went out to meet Li Longji.
-- Execution: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Li Longji thought briefly and still killed her.
+- Coup context: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Empress Wei controlled power after Zhongzong's death and that Li Longji then launched the Tanglong Coup.
+- Self-defense edict: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er held a lantern and the edict when she went out to meet Li Longji.
+- Execution: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Li Longji thought briefly and still killed her.
 
 ## Counterevidence & Qualifications
 
@@ -36,7 +36,7 @@ This page does not settle the full military, legal, or historiographical account
 
 ## What Changed
 
-- Created the concept from Hanji 536-3 as the endpoint of Shangguan Wan'er's factional survival strategy.
+- Created the concept from 汉纪 536-3 as the endpoint of Shangguan Wan'er's factional survival strategy.
 
 ## Related Concepts
 

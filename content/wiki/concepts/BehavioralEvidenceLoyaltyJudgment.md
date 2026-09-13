@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Definition
 
-Behavioral evidence loyalty judgment is the practice of judging loyalty from costly observable conduct rather than accepting an accusation about hidden motive. In Hanji 753, [[EmperorZhangOfHan|Emperor Zhang]] uses the continued following of homesick Han soldiers as stronger evidence for [[BanChaoEasternHan|Ban Chao]]'s credibility than [[LiYiEasternHan|Li Yi]]'s slander about Ban Chao's household comfort abroad.
+Behavioral evidence loyalty judgment is the practice of judging loyalty from costly observable conduct rather than accepting an accusation about hidden motive. In 汉纪 753, [[EmperorZhangOfHan|Emperor Zhang]] uses the continued following of homesick Han soldiers as stronger evidence for [[BanChaoEasternHan|Ban Chao]]'s credibility than [[LiYiEasternHan|Li Yi]]'s slander about Ban Chao's household comfort abroad.
 
 ## Current Synthesis
 
@@ -30,19 +30,19 @@ The concept matters because the evidence is not a private profession of loyalty 
 
 ## Evidence
 
-- Motive accusation versus conduct: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] contrasts Li Yi's claim that Ban Chao is comfortable abroad with the fact that the Han soldiers continue to act of one heart with him.
-- Costly following as proof: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] has Zhangdi reason from the troops' homesickness and continued obedience rather than from Li Yi's fear-driven memorial.
-- Appearance management as secondary evidence: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] says Ban Chao sends away his wife and children because repeated slander could accumulate even when the core accusation is false.
+- Motive accusation versus conduct: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] contrasts Li Yi's claim that Ban Chao is comfortable abroad with the fact that the Han soldiers continue to act of one heart with him.
+- Costly following as proof: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] has Zhangdi reason from the troops' homesickness and continued obedience rather than from Li Yi's fear-driven memorial.
+- Appearance management as secondary evidence: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] says Ban Chao sends away his wife and children because repeated slander could accumulate even when the core accusation is false.
 
 ## Counterevidence & Qualifications
 
 - Behavioral evidence can be misread if followers are coerced, lack alternatives, or face hidden costs not visible to the court.
-- This concept is currently grounded in one Hanji 753 case; future sources may show Zhangdi or other rulers failing to apply the same standard.
+- This concept is currently grounded in one 汉纪 753 case; future sources may show Zhangdi or other rulers failing to apply the same standard.
 - Ban Chao's family removal shows that reputation management still matters even when the stronger evidence favors the accused.
 
 ## What Changed
 
-- Created this concept from Hanji 753's Ban Chao and Li Yi accusation case.
+- Created this concept from 汉纪 753's Ban Chao and Li Yi accusation case.
 
 ## Related Concepts
 

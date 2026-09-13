@@ -15,11 +15,11 @@ Institutional reconstruction from precedent / 旧制文献恢复式制度重建 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] grounds the pattern through [[HouBaEasternHan|侯霸]]. After years of disorder, [[LiuXiu|光武帝刘秀]]'s court lacks old laws and enough old ministers. Hou Ba's value is that he knows prior institutions and can recover administrative memory from documents.
+[[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] grounds the pattern through [[HouBaEasternHan|侯霸]]. After years of disorder, [[LiuXiu|光武帝刘秀]]'s court lacks old laws and enough old ministers. Hou Ba's value is that he knows prior institutions and can recover administrative memory from documents.
 
 The source treats this as part of postwar stabilization. Victory over rivals does not by itself supply a working court. The court needs rules, precedents, archives, and officials who know how to convert them into policy. Hou Ba's collection and submission of former good policies makes state capacity archival as well as military.
 
-The same pattern also has a visible-procedure version through [[LiuXiu|刘秀]] at Luoyang in [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]]. Before independent imperial founding, Liu Xiu's acting Sili Xiaowei work is presented as restoring Western Han official procedures, documents, offices, and dignified administrative appearance. Institutional reconstruction here works as public credibility: Sanfu officials are reassured because Liu Xiu's staff looks and operates like restored Han order, while [[LiuXuanGengshiEmperor|刘玄]]'s broader court still appears rough and unstable.
+The same pattern also has a visible-procedure version through [[LiuXiu|刘秀]] at Luoyang in [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]]. Before independent imperial founding, Liu Xiu's acting Sili Xiaowei work is presented as restoring Western Han official procedures, documents, offices, and dignified administrative appearance. Institutional reconstruction here works as public credibility: Sanfu officials are reassured because Liu Xiu's staff looks and operates like restored Han order, while [[LiuXuanGengshiEmperor|刘玄]]'s broader court still appears rough and unstable.
 
 ## Key Claims
 
@@ -32,20 +32,20 @@ The same pattern also has a visible-procedure version through [[LiuXiu|刘秀]] 
 
 ## Evidence
 
-- Thin court problem: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says the court lacks old laws to follow and lacks old ministers.
-- Hou Ba's knowledge: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Hou Ba is familiar with old institutions and collects scattered documents.
-- Policy conversion: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Hou Ba lists former good policies and laws, submits them, and Liu Xiu implements them.
-- Luoyang visible procedure: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] says Liu Xiu restores old Western Han procedures, official documents, and office infrastructure while acting at Luoyang.
-- Elite confidence: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] says Sanfu officials are pleased to see Han officials' old dignified form after earlier unease with the Gengshi court.
+- Thin court problem: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says the court lacks old laws to follow and lacks old ministers.
+- Hou Ba's knowledge: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Hou Ba is familiar with old institutions and collects scattered documents.
+- Policy conversion: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Hou Ba lists former good policies and laws, submits them, and Liu Xiu implements them.
+- Luoyang visible procedure: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] says Liu Xiu restores old Western Han procedures, official documents, and office infrastructure while acting at Luoyang.
+- Elite confidence: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] says Sanfu officials are pleased to see Han officials' old dignified form after earlier unease with the Gengshi court.
 
 ## Counterevidence & Qualifications
 
-This concept does not claim that all older law was good or that restoration should mean mechanical revival. Hanji 667 supports visible restoration of old procedure as a credibility signal; Hanji 690 supports later document recovery and policy selection as administrative capacity. Both should remain narrower than a claim that inherited precedent alone can build stable rule.
+This concept does not claim that all older law was good or that restoration should mean mechanical revival. 汉纪 667 supports visible restoration of old procedure as a credibility signal; 汉纪 690 supports later document recovery and policy selection as administrative capacity. Both should remain narrower than a claim that inherited precedent alone can build stable rule.
 
 ## What Changed
 
-- Created the concept from Hou Ba's document recovery and institutional-policy submissions in Hanji 690.
-- Added Hanji 667 as an earlier visible-procedure and elite-confidence case through Liu Xiu at Luoyang.
+- Created the concept from Hou Ba's document recovery and institutional-policy submissions in 汉纪 690.
+- Added 汉纪 667 as an earlier visible-procedure and elite-confidence case through Liu Xiu at Luoyang.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ Defeated dowager legitimacy management / 失势太后名分处置 is the post-su
 
 ## Current Synthesis
 
-Hanji 805 grounds the concept through [[EmpressDowagerYanLateHan|阎太后]] after [[EmperorShunOfHan|汉顺帝]]'s restoration. The Yan family has been destroyed, but treating Yan Taihou only as a beaten enemy creates a public legitimacy risk: if she is confined and then dies unexpectedly, the victory looks like illegitimate violence rather than ordered succession repair.
+汉纪 805 grounds the concept through [[EmpressDowagerYanLateHan|阎太后]] after [[EmperorShunOfHan|汉顺帝]]'s restoration. The Yan family has been destroyed, but treating Yan Taihou only as a beaten enemy creates a public legitimacy risk: if she is confined and then dies unexpectedly, the victory looks like illegitimate violence rather than ordered succession repair.
 
 The source therefore shows a distinction between purging the defeated network and degrading the defeated dowager's ritual status. Chen Chan recommends separation because there is no blood or affection tie. [[ZhouJuLateHan|周举]] instead argues that Shun should keep support and visibly visit, using ritual respect to prevent the purge from damaging command authority.
 
@@ -29,19 +29,19 @@ The source therefore shows a distinction between purging the defeated network an
 
 ## Evidence
 
-- Defeated but still title-bearing: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says the Yan outer relatives are destroyed after Shun's restoration, yet the court still debates how Yan Taihou should be treated.
-- Isolation proposal: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Chen Chan argues for moving Yan Taihou to another palace and cutting off contact because ordinary kin and affection grounds are absent.
-- Legitimacy-risk diagnosis: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Zhou Ju warns that an accident after confinement would weaken Shun's ability to command the empire.
-- Ritual repair: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Shun visits Yan Taihou on 126-01-01, completes the rites, and keeps the public account that she is settled.
-- Limit of evidence: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] reports Yan Taihou's 126-01-19 illness death and preserves the host's suspicion only as interpretation.
+- Defeated but still title-bearing: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] says the Yan outer relatives are destroyed after Shun's restoration, yet the court still debates how Yan Taihou should be treated.
+- Isolation proposal: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] says Chen Chan argues for moving Yan Taihou to another palace and cutting off contact because ordinary kin and affection grounds are absent.
+- Legitimacy-risk diagnosis: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] says Zhou Ju warns that an accident after confinement would weaken Shun's ability to command the empire.
+- Ritual repair: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] says Shun visits Yan Taihou on 126-01-01, completes the rites, and keeps the public account that she is settled.
+- Limit of evidence: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] reports Yan Taihou's 126-01-19 illness death and preserves the host's suspicion only as interpretation.
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on one source note. It should not be generalized into a claim that all defeated dowagers were safe, honored, or politically harmless after a ritual audience. Hanji 805 also does not prove Yan Taihou's true cause of death, so the concept should track the public legitimacy problem rather than collapse the episode into a hidden-killing claim.
+The concept currently rests on one source note. It should not be generalized into a claim that all defeated dowagers were safe, honored, or politically harmless after a ritual audience. 汉纪 805 also does not prove Yan Taihou's true cause of death, so the concept should track the public legitimacy problem rather than collapse the episode into a hidden-killing claim.
 
 ## What Changed
 
-- Created this concept from Hanji 805 to capture the difference between purging a defeated outer-relative network and preserving the dowager title's public legitimacy value.
+- Created this concept from 汉纪 805 to capture the difference between purging a defeated outer-relative network and preserving the dowager title's public legitimacy value.
 
 ## Related Concepts
 

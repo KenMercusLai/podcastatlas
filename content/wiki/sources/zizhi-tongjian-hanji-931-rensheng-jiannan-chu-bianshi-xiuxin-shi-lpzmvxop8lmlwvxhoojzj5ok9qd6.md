@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184-185 CE late-Han layer immediately before [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|Hanji 932]]. It opens with the host's adversity-and-self-cultivation frame, then follows [[WangYunLateHan|王允]] discovering correspondence between [[ZhangRangLateHan|张让]]'s retainers and the Yellow Turban side, reporting it to [[EmperorLingOfHan|汉灵帝]], suffering Zhang Rang's retaliation, and refusing private suicide in prison.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184-185 CE late-Han layer immediately before [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29|汉纪 932]]. It opens with the host's adversity-and-self-cultivation frame, then follows [[WangYunLateHan|王允]] discovering correspondence between [[ZhangRangLateHan|张让]]'s retainers and the Yellow Turban side, reporting it to [[EmperorLingOfHan|汉灵帝]], suffering Zhang Rang's retaliation, and refusing private suicide in prison.
 
 The source's core contribution is Wang Yun's early official-integrity layer before his later anti-[[DongZhuo|董卓]] role. The episode treats Wang Yun's prison stance as a case where hardship clarifies rather than dissolves role identity: death is less important than whether the death preserves public official meaning, while the closing 185 CE epidemic, fire, famine, and revolt notes place individual resolve inside accelerating late-Han breakdown.
 
@@ -55,6 +55,6 @@ The source's core contribution is Wang Yun's early official-integrity layer befo
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills Wang Yun's early prison ordeal before Hanji 945's He Jin appointment marker and before Hanji 962-967's anti-Dong-Zhuo branch.
+- No settled contradiction with existing wiki pages was found. The episode backfills Wang Yun's early prison ordeal before 汉纪 945's He Jin appointment marker and before 汉纪 962-967's anti-Dong-Zhuo branch.
 - Naming caution: the source transcript's "杨次" is normalized to [[YangCiLateHan|杨赐 / Yang Ci (late Han)]], and "袁伟" is normalized to [[YuanWeiLateHan|袁隗 / Yuan Wei (late Han)]].
 - Scope caution: the 185 CE epidemic and palace-fire notes are treated as late-Han breakdown context, not as a complete public-health chronology or an omen claim.

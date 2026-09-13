@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》171｜张良教你如何名利双收？（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode begins the Hanji 171 question by treating [[ZhangLiang|张良]] as the rare early [[WesternHanDynasty|西汉]] founding minister who keeps both fame and safety after victory. It follows the transition after [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]]: once [[LiuBang|刘邦]] has moved to [[ChangAnHanCapital|长安]], Zhang Liang's illness, seclusion, Daoist practice, and wish to follow [[Chisongzi|赤松子]] become a form of [[TranscendentExitPoliticalCamouflage|假托神仙式权力退场]]. The host presents [[SimaGuang|司马光]]'s praise of Zhang Liang's knowing when to stop, but also pushes back against using [[PowerExitTrap|功成身退]] language to blame exposed ministers such as [[HanXin|韩信]] and [[XiaoHe|萧何]] for harms rooted in ruler suspicion.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode begins the 汉纪 171 question by treating [[ZhangLiang|张良]] as the rare early [[WesternHanDynasty|西汉]] founding minister who keeps both fame and safety after victory. It follows the transition after [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|汉纪 170 part 2]]: once [[LiuBang|刘邦]] has moved to [[ChangAnHanCapital|长安]], Zhang Liang's illness, seclusion, Daoist practice, and wish to follow [[Chisongzi|赤松子]] become a form of [[TranscendentExitPoliticalCamouflage|假托神仙式权力退场]]. The host presents [[SimaGuang|司马光]]'s praise of Zhang Liang's knowing when to stop, but also pushes back against using [[PowerExitTrap|功成身退]] language to blame exposed ministers such as [[HanXin|韩信]] and [[XiaoHe|萧何]] for harms rooted in ruler suspicion.
 
 ## Key Claims
 - Han founding ministers are introduced as a danger class: the greater the merit, the more likely postwar suspicion and punishment can become.
@@ -33,7 +33,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode begins the 
 > "鸟尽弓藏"
 
 ## Connections
-- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] - immediate setup: Zhang Liang's final capital advice before the episode turns to his post-founding self-protection.
+- [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|汉纪 170 part 2]] - immediate setup: Zhang Liang's final capital advice before the episode turns to his post-founding self-protection.
 - [[ZhangLiang|张良]], [[Chisongzi|赤松子]], [[DaoistNourishingLifeTechniques|道教养生术]], and [[TranscendentExitPoliticalCamouflage|假托神仙式权力退场]] - the withdrawal vocabulary and its political use.
 - [[SimaGuang|司马光]], [[ZizhiTongjian|《资治通鉴》]], and [[PowerExitTrap|权力退场困境]] - the historiographical praise of knowing when to stop.
 - [[LiuBang|刘邦]], [[HanXin|韩信]], [[XiaoHe|萧何]], [[LuZhi|吕雉]], and [[LiuYing|刘盈]] - the post-victory suspicion context the host uses to explain why high merit becomes dangerous.

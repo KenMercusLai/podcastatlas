@@ -18,7 +18,7 @@ knowledge_schema: synthesis-v1
 ## Current Profile
 Zhang Zhao anchors two related functions in the wiki. Under Sun Ce, he supplies administrative credibility and demonstrates the leader's willingness to share credit with capable subordinates. After [[SunCeAssassination|孙策遇刺]], he helps prevent emotional collapse from becoming political collapse by staging Sun Quan's authority before the camps.
 
-Hanji 1052 adds another early-transition layer. [[LadyWuSunJian|吴夫人]] entrusts Zhang Zhao and [[ZhangHongLateHan|张纮]] with assisting the under-19 Sun Quan, while [[DongXiLateHan|董袭]] separately reassures her that the generals and officials can hold Jiangdong. The same episode also shows Zhang Zhao criticizing [[LuSu|鲁肃]], with Sun Quan choosing not to let that senior negative judgment decide Lu Su's value.
+汉纪 1052 adds another early-transition layer. [[LadyWuSunJian|吴夫人]] entrusts Zhang Zhao and [[ZhangHongLateHan|张纮]] with assisting the under-19 Sun Quan, while [[DongXiLateHan|董袭]] separately reassures her that the generals and officials can hold Jiangdong. The same episode also shows Zhang Zhao criticizing [[LuSu|鲁肃]], with Sun Quan choosing not to let that senior negative judgment decide Lu Su's value.
 
 ## Key Characteristics
 - Zhang Zhao's appointment as 长史 makes him one of Sun Ce's central administrative supports.
@@ -29,18 +29,18 @@ Hanji 1052 adds another early-transition layer. [[LadyWuSunJian|吴夫人]] entr
 - His seniority includes conservative caution, visible when he criticizes Lu Su before Sun Quan preserves room for his own judgment.
 
 ## Evidence
-- Administrative trust: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] presents Zhang Zhao as Sun Ce's 长史 and a trusted administrator across civil and military affairs.
-- Credit-sharing signal: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] stresses that Sun Ce does not become jealous when outside elites attribute achievements to Zhang Zhao.
-- Succession discipline: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] shows Zhang Zhao rebuking the grieving Sun Quan and making him appear publicly as officeholder.
-- Civil-military pairing: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] places Zhang Zhao alongside Zhou Yu in holding Jiangdong together after Sun Ce's death.
-- Entrusted senior adviser: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] says Lady Wu entrusts Zhang Hong and Zhang Zhao with assisting young Sun Quan after Sun Ce's death.
-- Conservative evaluation: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|Hanji 1052]] records Zhang Zhao's criticism of Lu Su and Sun Quan's choice to continue valuing Lu Su.
+- Administrative trust: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|汉纪 994]] presents Zhang Zhao as Sun Ce's 长史 and a trusted administrator across civil and military affairs.
+- Credit-sharing signal: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|汉纪 994]] stresses that Sun Ce does not become jealous when outside elites attribute achievements to Zhang Zhao.
+- Succession discipline: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] shows Zhang Zhao rebuking the grieving Sun Quan and making him appear publicly as officeholder.
+- Civil-military pairing: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] places Zhang Zhao alongside Zhou Yu in holding Jiangdong together after Sun Ce's death.
+- Entrusted senior adviser: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|汉纪 1052]] says Lady Wu entrusts Zhang Hong and Zhang Zhao with assisting young Sun Quan after Sun Ce's death.
+- Conservative evaluation: [[zizhi-tongjian-hanji-1052-sanguo-zhongchen-zhanghong-jing-wannong-caocao-yu-guzhang-ljc3sd7meigo37uy-1fxnkx-psqg|汉纪 1052]] records Zhang Zhao's criticism of Lu Su and Sun Quan's choice to continue valuing Lu Su.
 
 ## Qualifications
-The current synthesis emphasizes Zhang Zhao's role in Sun Ce-era administration and early Sun Quan succession. Hanji 1052 adds caution in talent evaluation, but it should not be overread as personal obstructionism or as a full account of his later Eastern Wu policy disputes.
+The current synthesis emphasizes Zhang Zhao's role in Sun Ce-era administration and early Sun Quan succession. 汉纪 1052 adds caution in talent evaluation, but it should not be overread as personal obstructionism or as a full account of his later Eastern Wu policy disputes.
 
 ## What Changed
-- Added Hanji 1052's Lady Wu entrustment scene, making Zhang Zhao part of a broader early support structure with Zhang Hong and Dong Xi.
+- Added 汉纪 1052's Lady Wu entrustment scene, making Zhang Zhao part of a broader early support structure with Zhang Hong and Dong Xi.
 - Added Zhang Zhao's criticism of Lu Su as evidence of senior-adviser caution and a test of Sun Quan's independent judgment.
 - Preserved the existing synthesis-v1 framing of Zhang Zhao as administrator plus emergency continuity actor.
 

@@ -16,7 +16,7 @@ Historical Precedent Crisis Planning is the use of earlier institutional cases t
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] anchors the concept through [[EmperorHeOfHan|Emperor He]]'s preparation against [[DouXianEasternHan|Dou Xian]]. Because the emperor cannot safely consult outside ministers, he relies on [[LiuQingQingheKing|Liu Qing]] and [[ZhengZhongEasternHan|Zheng Zhong]] to obtain and search historical material about punishing powerful maternal uncles.
+[[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] anchors the concept through [[EmperorHeOfHan|Emperor He]]'s preparation against [[DouXianEasternHan|Dou Xian]]. Because the emperor cannot safely consult outside ministers, he relies on [[LiuQingQingheKing|Liu Qing]] and [[ZhengZhongEasternHan|Zheng Zhong]] to obtain and search historical material about punishing powerful maternal uncles.
 
 The concept differs from casual historical analogy. The search is tied to immediate crisis design: wait until dangerous actors return, secure palace access, mobilize guards, execute immediate conspirators, strip command seals, and send the Dou brothers away from the capital.
 
@@ -30,9 +30,9 @@ The concept differs from casual historical analogy. The search is tied to immedi
 
 ## Evidence
 
-- Secret search channel: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says Emperor He cannot reach external ministers and therefore uses Liu Qing and Zheng Zhong as the trusted planning channel.
-- Book borrowing: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] has Liu Qing borrow historical material from Liu Kang so the emperor can examine precedents for killing maternal uncles.
-- Operational translation: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] then describes the palace-gate, guard, execution, seal-stripping, and fief-transfer sequence that removes the Dou bloc.
+- Secret search channel: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] says Emperor He cannot reach external ministers and therefore uses Liu Qing and Zheng Zhong as the trusted planning channel.
+- Book borrowing: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] has Liu Qing borrow historical material from Liu Kang so the emperor can examine precedents for killing maternal uncles.
+- Operational translation: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] then describes the palace-gate, guard, execution, seal-stripping, and fief-transfer sequence that removes the Dou bloc.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The source does not say that historical precedent alone caused the coup's succes
 
 ## What Changed
 
-- Hanji 766 creates this concept from Emperor He's anti-Dou preparation.
+- 汉纪 766 creates this concept from Emperor He's anti-Dou preparation.
 - The current judgment distinguishes operational precedent search from retrospective moralizing.
 - The concept now links history use to palace-coup control points.
 

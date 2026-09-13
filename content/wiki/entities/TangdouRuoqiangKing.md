@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Overview
 
-若羌去胡来王唐斗 / Tangdou enters the wiki through [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] as a Ruoqiang ruler whose failed appeal for Han frontier protection, blocked entry at Yumen Pass, flight to [[Xiongnu|匈奴]], extradition, and public execution make him the second major case in the episode's coercive frontier-control sequence.
+若羌去胡来王唐斗 / Tangdou enters the wiki through [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] as a Ruoqiang ruler whose failed appeal for Han frontier protection, blocked entry at Yumen Pass, flight to [[Xiongnu|匈奴]], extradition, and public execution make him the second major case in the episode's coercive frontier-control sequence.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ Tangdou then takes his family and more than a thousand people to Xiongnu. The ch
 
 ## Evidence
 
-- Protection failure: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] says Tangdou asks Dan Qin for rescue after conflict with Chishui Qiang but does not receive timely help.
-- Blocked passage: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] says Tangdou tries to enter Yumen Pass but is refused.
-- Group flight: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] says Tangdou takes family and more than a thousand people to Xiongnu.
-- Extradition and execution: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] says the chanyu surrenders Tangdou and the Han court beheads him publicly with Gougou.
+- Protection failure: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] says Tangdou asks Dan Qin for rescue after conflict with Chishui Qiang but does not receive timely help.
+- Blocked passage: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] says Tangdou tries to enter Yumen Pass but is refused.
+- Group flight: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] says Tangdou takes family and more than a thousand people to Xiongnu.
+- Extradition and execution: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] says the chanyu surrenders Tangdou and the Han court beheads him publicly with Gougou.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This is a one-source page. It does not establish Tangdou's wider biography, the 
 
 ## What Changed
 
-- Created the page from Hanji 613's Ruoqiang flight-and-execution case.
+- Created the page from 汉纪 613's Ruoqiang flight-and-execution case.
 
 ## Relationships
 

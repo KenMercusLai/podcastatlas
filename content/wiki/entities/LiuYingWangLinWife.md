@@ -10,7 +10,7 @@ last_updated: 2026-09-08
 
 ## Overview
 
-Liu Ying / 刘英 is [[WangLinXinCrownPrince|王林]]'s wife in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]]. The episode makes her an astrology-linked actor whose prediction is interpreted by Wang Lin as support for the plot, then weaponized after his death to implicate her.
+Liu Ying / 刘英 is [[WangLinXinCrownPrince|王林]]'s wife in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]]. The episode makes her an astrology-linked actor whose prediction is interpreted by Wang Lin as support for the plot, then weaponized after his death to implicate her.
 
 ## Current Profile
 
@@ -27,10 +27,10 @@ After Wang Lin's death, Wang Mang orders a formal denunciation that shifts respo
 
 ## Evidence
 
-- Family status: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Liu Ying is the daughter of state teacher Liu Xing.
-- Astrology branch: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says she predicts a white-clothed mourning gathering.
-- Blame shift: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Mang has the state teacher office accuse her after Wang Lin dies.
-- Suicide: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Liu Ying kills herself after learning of the accusation.
+- Family status: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Liu Ying is the daughter of state teacher Liu Xing.
+- Astrology branch: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says she predicts a white-clothed mourning gathering.
+- Blame shift: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Mang has the state teacher office accuse her after Wang Lin dies.
+- Suicide: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Liu Ying kills herself after learning of the accusation.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The page is bounded to the episode note. It does not settle whether Liu Ying kno
 
 ## What Changed
 
-- Created from Hanji 658 as the astrology and blame-shift figure in Wang Lin's death.
+- Created from 汉纪 658 as the astrology and blame-shift figure in Wang Lin's death.
 
 ## Relationships
 

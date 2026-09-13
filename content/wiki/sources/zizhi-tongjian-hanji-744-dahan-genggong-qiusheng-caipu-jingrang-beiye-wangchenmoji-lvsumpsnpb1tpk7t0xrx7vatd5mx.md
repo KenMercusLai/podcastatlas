@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first 75 CE [[GengGongEasternHan|耿恭]] siege layer before [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]]. It follows [[NorthernXiongnuLateHan|北匈奴]] attacking [[CheshiHouKingdomLateHan|车师后王国]], Geng Gong using poisoned arrows, storm timing, desperate well digging, and water display to survive at Jinpu and a Shule fortress, then shifts to [[EmperorMingOfHan|汉明帝]]'s death and [[EmperorZhangOfHan|汉章帝]]'s accession.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first 75 CE [[GengGongEasternHan|耿恭]] siege layer before [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|汉纪 745]]. It follows [[NorthernXiongnuLateHan|北匈奴]] attacking [[CheshiHouKingdomLateHan|车师后王国]], Geng Gong using poisoned arrows, storm timing, desperate well digging, and water display to survive at Jinpu and a Shule fortress, then shifts to [[EmperorMingOfHan|汉明帝]]'s death and [[EmperorZhangOfHan|汉章帝]]'s accession.
 
 The durable synthesis is that frontier survival and court succession are interleaved: Geng Gong's tactical defense buys time but does not solve the rescue problem, while Mingdi's frugal death instructions, outer-relative restraint, and [[LiuCangDongpingKing|刘苍]]'s anti-tomb-city remonstrance make early Zhangdi rule inherit a restraint standard before later rescue and Ma-family debates.
 
@@ -36,14 +36,14 @@ The durable synthesis is that frontier survival and court succession are interle
 
 ## Connections
 
-- [[GengGongEasternHan|耿恭]], [[NorthernXiongnuLateHan|北匈奴]], and [[CheshiHouKingdomLateHan|车师后王国]] - the first siege layer before Hanji 745's starvation, surrender offer, and rescue-decision branch.
+- [[GengGongEasternHan|耿恭]], [[NorthernXiongnuLateHan|北匈奴]], and [[CheshiHouKingdomLateHan|车师后王国]] - the first siege layer before 汉纪 745's starvation, surrender offer, and rescue-decision branch.
 - [[EmperorMingOfHan|汉明帝]], [[FrugalImperialBurialRestraint|节俭帝陵约束]], and [[LiAsPoliticalOrder|礼制政治秩序]] - Mingdi's death, will, and burial make restraint part of imperial memory.
 - [[EmperorZhangOfHan|汉章帝]], [[LiuCangDongpingKing|东平王刘苍]], and [[FrugalImperialBurialRestraint|节俭帝陵约束]] - Zhangdi's accepted remonstrance against Xianjie tomb-city construction carries Mingdi's frugality into early policy.
 - [[FifthLunEasternHan|第五伦]] - appears as a clean Shu commandery official promoted to Sikong, before later episodes develop his warning and integrity profile.
-- [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|Hanji 745]] - direct continuation, turning Geng Gong's survival crisis into a rescue-credit debate.
+- [[zizhi-tongjian-hanji-745-donghan-zui-xuexing-zhi-zhan-zhengjiu-dabing-genggong-lhg3pppaovl5mxawgmj-dgjgth4d|汉纪 745]] - direct continuation, turning Geng Gong's survival crisis into a rescue-credit debate.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the pre-Hanji 745 siege, Mingdi death, and Zhangdi accession layer.
-- Chronology caution: this episode shares the 2026-06-27 publication date with Hanji 745 and Hanji 746 but narrates the earlier 75 CE setup before the rescue decision and 76 CE rescue endpoint.
+- No settled contradiction with existing wiki content was found. This source backfills the pre-汉纪 745 siege, Mingdi death, and Zhangdi accession layer.
+- Chronology caution: this episode shares the 2026-06-27 publication date with 汉纪 745 and 汉纪 746 but narrates the earlier 75 CE setup before the rescue decision and 76 CE rescue endpoint.
 - Scope caution: Jinpu city, the exact Shule fortress geography, Cheshi Hou king Ande, Yang Ren, Zhao Xi, Mou Rong, Ma-family palace-entry details, Fifth-surname genealogy, and exact burial dates remain source-scoped unless later notes warrant canonical pages.

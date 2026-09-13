@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Definition
 
-Disaster-omen treason accusation / 灾异谋反指控 is the pattern where a strange natural or sacred sign is interpreted as evidence that a politically sensitive person intends rebellion. In [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]], the road-and-stone anomalies at [[WuyanCounty|无盐县]] become dangerous because [[LiuYunDongpingKingWesternHan|东平王刘云]] is a royal kinsman and [[HanAidi|汉哀帝]]'s court is already anxious about illness, sacrifices, and heavenly punishment.
+Disaster-omen treason accusation / 灾异谋反指控 is the pattern where a strange natural or sacred sign is interpreted as evidence that a politically sensitive person intends rebellion. In [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]], the road-and-stone anomalies at [[WuyanCounty|无盐县]] become dangerous because [[LiuYunDongpingKingWesternHan|东平王刘云]] is a royal kinsman and [[HanAidi|汉哀帝]]'s court is already anxious about illness, sacrifices, and heavenly punishment.
 
 ## Current Synthesis
 
@@ -30,19 +30,19 @@ The concept is narrower than [[NaturalDisasterPoliticalOmen|自然灾害政治�
 
 ## Evidence
 
-- Ambiguous sign: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] says Wuyan soil reportedly forms a road and a Hu Mountain stone reportedly stands upright.
-- Ritualization: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] says Liu Yun and Liu Ye worship the stone and move it to a palace artificial hill.
-- Reward-seeking accusation: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] says Xi Fu Gong and Sun Chong discuss using the case to gain rank and office.
-- Confession as conversion point: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] says Liu Ye's confession supplies the curse-and-replacement claim.
-- Punishment and reward: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] records Liu Yun's deposition and suicide, executions of associated people, and promotions for accusers and intermediaries.
+- Ambiguous sign: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] says Wuyan soil reportedly forms a road and a Hu Mountain stone reportedly stands upright.
+- Ritualization: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] says Liu Yun and Liu Ye worship the stone and move it to a palace artificial hill.
+- Reward-seeking accusation: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] says Xi Fu Gong and Sun Chong discuss using the case to gain rank and office.
+- Confession as conversion point: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] says Liu Ye's confession supplies the curse-and-replacement claim.
+- Punishment and reward: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] records Liu Yun's deposition and suicide, executions of associated people, and promotions for accusers and intermediaries.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove that the anomalies were supernatural or that Liu Yun actually intended rebellion. Hanji 584 itself leaves the physical cause of the signs and the reliability of Liu Ye's confession unsettled. The page therefore uses the case as evidence for how omen events can be made prosecutorially useful, not as evidence for the literal truth of the treason charge.
+The concept does not prove that the anomalies were supernatural or that Liu Yun actually intended rebellion. 汉纪 584 itself leaves the physical cause of the signs and the reliability of Liu Ye's confession unsettled. The page therefore uses the case as evidence for how omen events can be made prosecutorially useful, not as evidence for the literal truth of the treason charge.
 
 ## What Changed
 
-- Created the concept from Hanji 584's Hu Mountain standing-stone prosecution.
+- Created the concept from 汉纪 584's Hu Mountain standing-stone prosecution.
 
 ## Related Concepts
 

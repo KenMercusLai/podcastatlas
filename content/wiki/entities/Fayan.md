@@ -20,7 +20,7 @@ The text also supplies the episode's contrast between [[Zigong|子贡 / 端木�
 
 [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds a fourth use through [[HanFei|韩非]]. The cited Fayan idea judges speech by its relation to righteousness rather than by audience preference or tactical effectiveness. The episode records that standard but narrows its application: Han Fei's persuasion is evaluated alongside his [[HanState|韩国]] royal obligation to protect his state, not only as a generic case of saying what a ruler wants to hear.
 
-[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] adds a fifth use through [[ShusunTong|叔孙通]]. Fayan's critique is used to ask whether ritual expertise serves a public Confucian order or merely adapts to ruler taste and court custom. This makes the text relevant to [[MotiveBasedTalentEvaluation|动机导向的才干评价]] beyond persuaders and assassins.
+[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|汉纪 176]] adds a fifth use through [[ShusunTong|叔孙通]]. Fayan's critique is used to ask whether ritual expertise serves a public Confucian order or merely adapts to ruler taste and court custom. This makes the text relevant to [[MotiveBasedTalentEvaluation|动机导向的才干评价]] beyond persuaders and assassins.
 
 ## Connections
 - [[YangXiong|扬雄]] - author cited by the source.
@@ -31,4 +31,4 @@ The text also supplies the episode's contrast between [[Zigong|子贡 / 端木�
 - [[WarringStatesFourLords|战国四公子]], [[JiaYi|贾谊]], [[SimaGuang|司马光]], and [[HistoriographicalPresentism|史评当代性]] - Qinji 109-2 use of Fayan in the Four Lords judgment.
 - [[LuBuwei|吕不韦]], [[QinShiHuang|嬴政 / 秦始皇]], and [[zizhi-tongjian-qinji-111-2-wo-yu-lvbuwei-de-gekong-duihua-ltpbkg1echouxwjyhsfax2swfzch|Qinji 111-2]] - Lu Buwei death branch and cleverness judgement.
 - [[HanFei|韩非]], [[HanState|韩国]], and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - Han Fei speech, righteousness, and state-duty reading.
-- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], and [[ImperialRitualDistance|君臣礼制距离]] - ritual talent judged by the political order it serves.
+- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|汉纪 176]], [[ShusunTong|叔孙通]], [[LiuBang|刘邦]], and [[ImperialRitualDistance|君臣礼制距离]] - ritual talent judged by the political order it serves.

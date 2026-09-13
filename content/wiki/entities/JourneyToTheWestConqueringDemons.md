@@ -13,7 +13,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-《西游降魔篇》 is a [[StephenChow|周星驰]] film adaptation of the [[JourneyToTheWest|《西游记》]] field, discussed in this wiki through the paired Hanji 456-4 and [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq|Hanji 456-5]] weekend readings.
+《西游降魔篇》 is a [[StephenChow|周星驰]] film adaptation of the [[JourneyToTheWest|《西游记》]] field, discussed in this wiki through the paired 汉纪 456-4 and [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq|汉纪 456-5]] weekend readings.
 
 ## Current Profile
 
@@ -43,7 +43,7 @@ This page records one podcast's symbolic reading. It does not claim that the int
 
 ## What Changed
 
-- Added Hanji 456-5's earlier-scene emphasis on wounded compassion, desire that has not yet been subdued, hard-to-cut affinity, and formal practice critique.
+- Added 汉纪 456-5's earlier-scene emphasis on wounded compassion, desire that has not yet been subdued, hard-to-cut affinity, and formal practice critique.
 
 ## Relationships
 

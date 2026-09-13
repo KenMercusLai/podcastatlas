@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-布桥 / Buqiao is the Hanji 749 Qiang leader who helps turn an official-abuse incident into a large frontier revolt. He allies with [[MiWuQiangLeader|Mi Wu]], attacks Longxi and Hanyang with a reported fifty-thousand-person force, is defeated by [[MaFangEasternHan|Ma Fang]], holds Wangqu Valley, and later surrenders with more than ten thousand followers.
+布桥 / Buqiao is the 汉纪 749 Qiang leader who helps turn an official-abuse incident into a large frontier revolt. He allies with [[MiWuQiangLeader|Mi Wu]], attacks Longxi and Hanyang with a reported fifty-thousand-person force, is defeated by [[MaFangEasternHan|Ma Fang]], holds Wangqu Valley, and later surrenders with more than ten thousand followers.
 
 ## Current Profile
 
-Hanji 749 first presents Buqiao after Qiang unrest has already been triggered by a Han official's abuse and the killing of that official and Zong Yan. Fear of punishment spreads among Qiang groups, and Mi Wu, described as Dian Wu's son in the source, joins the revolt. Buqiao then becomes the allied Fengyang Qiang leader who helps enlarge the rebellion into a major attack on Longxi and Hanyang.
+汉纪 749 first presents Buqiao after Qiang unrest has already been triggered by a Han official's abuse and the killing of that official and Zong Yan. Fear of punishment spreads among Qiang groups, and Mi Wu, described as Dian Wu's son in the source, joins the revolt. Buqiao then becomes the allied Fengyang Qiang leader who helps enlarge the rebellion into a major attack on Longxi and Hanyang.
 
 His military arc has three stages. First, he joins Mi Wu in a large assault and besieges Lintao. Second, Ma Fang defeats him near Lintao, killing or capturing a reported four thousand-plus people and receiving many submissions, but Buqiao survives by withdrawing to Wangqu Valley. Third, Ma Fang attacks him again in 78 CE, and Buqiao surrenders with more than ten thousand people.
 
@@ -30,18 +30,18 @@ Buqiao's page therefore functions less as a full biography than as a coalition-e
 
 ## Evidence
 
-- Coalition formation: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Mi Wu joins with Buqiao after the official-abuse incident escalates into Qiang fear and rebellion.
-- Longxi-Hanyang assault: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] reports that Mi Wu and Buqiao attack Longxi and Hanyang with a large force and besiege Lintao.
-- First defeat: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Ma Fang defeats Buqiao near Lintao, kills or captures four thousand-plus people, and receives many Qiang submissions.
-- Holdout and surrender: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Buqiao holds Wangqu Valley until Ma Fang attacks again and Buqiao surrenders with more than ten thousand people.
+- Coalition formation: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] says Mi Wu joins with Buqiao after the official-abuse incident escalates into Qiang fear and rebellion.
+- Longxi-Hanyang assault: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] reports that Mi Wu and Buqiao attack Longxi and Hanyang with a large force and besiege Lintao.
+- First defeat: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] says Ma Fang defeats Buqiao near Lintao, kills or captures four thousand-plus people, and receives many Qiang submissions.
+- Holdout and surrender: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] says Buqiao holds Wangqu Valley until Ma Fang attacks again and Buqiao surrenders with more than ten thousand people.
 
 ## Qualifications
 
-This page is bounded to Hanji 749 and does not establish Buqiao's genealogy, subgroup hierarchy, or full post-surrender fate. The reported force, casualty, and surrender totals are source claims. Dian Wu is left source-scoped here because the wiki's existing [[DianWuQiang|Dian Wu]] page belongs to a much later Eastern Han episode and should not be merged on name similarity alone.
+This page is bounded to 汉纪 749 and does not establish Buqiao's genealogy, subgroup hierarchy, or full post-surrender fate. The reported force, casualty, and surrender totals are source claims. Dian Wu is left source-scoped here because the wiki's existing [[DianWuQiang|Dian Wu]] page belongs to a much later Eastern Han episode and should not be merged on name similarity alone.
 
 ## What Changed
 
-- Created Buqiao as a standalone Qiang leader page from Hanji 749.
+- Created Buqiao as a standalone Qiang leader page from 汉纪 749.
 - Linked his revolt to official-abuse escalation while keeping his biography source-bounded.
 
 ## Relationships

@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Current Synthesis
 
-Hanji 556 defines the pattern through [[EmpressXuWesternHan|废后许氏]]'s dealings with [[ChunyuZhangWesternHan|淳于长]]. After losing ordinary access to [[HanChengdi|汉成帝]], Empress Xu tries to regain status through her sister Xu Mi and Chunyu Zhang. Chunyu Zhang accepts money, carriages, garments, and other valuables while promising a future restoration that the host treats as politically empty.
+汉纪 556 defines the pattern through [[EmpressXuWesternHan|废后许氏]]'s dealings with [[ChunyuZhangWesternHan|淳于长]]. After losing ordinary access to [[HanChengdi|汉成帝]], Empress Xu tries to regain status through her sister Xu Mi and Chunyu Zhang. Chunyu Zhang accepts money, carriages, garments, and other valuables while promising a future restoration that the host treats as politically empty.
 
 The episode's synthesis is not merely that Empress Xu misjudges Chunyu Zhang once. Her problem deepens because every additional payment raises the psychological cost of stopping: abandoning the channel would mean admitting the previous spending and humiliation produced nothing. The pattern becomes especially dangerous under power imbalance because the exploited person may also fear that open rupture will bring retaliation or final loss of hope.
 
@@ -29,24 +29,24 @@ The episode's synthesis is not merely that Empress Xu misjudges Chunyu Zhang onc
 ## Evidence
 
 Prior investment pressure:
-- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] says Empress Xu repeatedly gives Chunyu Zhang money and goods over years while waiting for promised restoration.
+- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|汉纪 556]] says Empress Xu repeatedly gives Chunyu Zhang money and goods over years while waiting for promised restoration.
 
 False future promise:
-- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] says Chunyu Zhang claims he can help make Empress Xu "left empress," which the host treats as an empty lure rather than a realistic political plan.
+- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|汉纪 556]] says Chunyu Zhang claims he can help make Empress Xu "left empress," which the host treats as an empty lure rather than a realistic political plan.
 
 Narrowed verification channels:
-- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] says Empress Xu cannot see Chengdi directly and therefore depends on a man who claims access to him.
+- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|汉纪 556]] says Empress Xu cannot see Chengdi directly and therefore depends on a man who claims access to him.
 
 Stop-loss lesson:
-- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|Hanji 556]] extends the case into a modern warning about relationships that consume resources while giving no healthy response or reciprocal commitment.
+- [[zizhi-tongjian-hanji-556-lishi-hanjian-shui-yao-gei-chengdi-dai-lvmaozi-licvtkyvoh-p3ucobowldj6g-id|汉纪 556]] extends the case into a modern warning about relationships that consume resources while giving no healthy response or reciprocal commitment.
 
 ## Counterevidence & Qualifications
 
-This concept should not be used to claim that every delayed exit is irrational. A person may continue because alternatives are genuinely dangerous, information is incomplete, or material constraints are real. In Hanji 556, Empress Xu's exact inner motives remain source-scoped; the sunk-cost reading is the host's interpretive explanation of a broader power-and-hope trap.
+This concept should not be used to claim that every delayed exit is irrational. A person may continue because alternatives are genuinely dangerous, information is incomplete, or material constraints are real. In 汉纪 556, Empress Xu's exact inner motives remain source-scoped; the sunk-cost reading is the host's interpretive explanation of a broader power-and-hope trap.
 
 ## What Changed
 
-- Created the concept from Hanji 556's reading of Empress Xu's repeated payments to Chunyu Zhang.
+- Created the concept from 汉纪 556's reading of Empress Xu's repeated payments to Chunyu Zhang.
 
 ## Related Concepts
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-车师国 / Cheshi Kingdom enters the wiki through [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] as a Western Regions polity whose land, fertility, and屯田 potential make it a direct pressure point between [[WesternHanDynasty|西汉]] and [[Xiongnu|匈奴]]. The episode treats Cheshi less as an independent biography than as the frontier location where food storage, garrisoning, and rescue logistics turn into high-level strategy.
+车师国 / Cheshi Kingdom enters the wiki through [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] as a Western Regions polity whose land, fertility, and屯田 potential make it a direct pressure point between [[WesternHanDynasty|西汉]] and [[Xiongnu|匈奴]]. The episode treats Cheshi less as an independent biography than as the frontier location where food storage, garrisoning, and rescue logistics turn into high-level strategy.
 
 ## Current Profile
 
@@ -29,21 +29,21 @@ Cheshi's importance is geographical and logistical. It is far from Quli, and Zhe
 ## Evidence
 
 Contested strategic position:
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Han attacks Cheshi in 64 BCE and Cheshi submits after Xiongnu does not rescue it in time.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Xiongnu officials fear that Han control of Cheshi's fertile land and grain stores will become a threat.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Zheng Ji leaves three hundred soldiers at Cheshi, then later brings Quli屯田 troops to rescue it.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Han attacks Cheshi in 64 BCE and Cheshi submits after Xiongnu does not rescue it in time.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Xiongnu officials fear that Han control of Cheshi's fertile land and grain stores will become a threat.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Zheng Ji leaves three hundred soldiers at Cheshi, then later brings Quli屯田 troops to rescue it.
 
 Settlement outcome:
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Chang Hui's force recovers Zheng Ji and the besieged soldiers.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Han installs the former crown prince Junxiu as Cheshi king, moves Cheshi's people to Quli, and gives the old Cheshi land to Xiongnu.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Chang Hui's force recovers Zheng Ji and the besieged soldiers.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Han installs the former crown prince Junxiu as Cheshi king, moves Cheshi's people to Quli, and gives the old Cheshi land to Xiongnu.
 
 ## Qualifications
 
-This page is source-scoped to the Hanji 429 crisis. It does not reconstruct Cheshi's full geography, earlier and later state divisions, exact relation to later Cheshi front/rear kingdom terminology, or the complete Han-Xiongnu struggle over the Turpan basin.
+This page is source-scoped to the 汉纪 429 crisis. It does not reconstruct Cheshi's full geography, earlier and later state divisions, exact relation to later Cheshi front/rear kingdom terminology, or the complete Han-Xiongnu struggle over the Turpan basin.
 
 ## What Changed
 
-- Created the page from Hanji 429's Cheshi attack, Xiongnu counterpressure, Zheng Ji rescue, and settlement branch.
+- Created the page from 汉纪 429's Cheshi attack, Xiongnu counterpressure, Zheng Ji rescue, and settlement branch.
 
 ## Relationships
 

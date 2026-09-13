@@ -16,11 +16,11 @@ last_updated: 2026-09-01
 
 ## Current Synthesis
 
-Hanji 708 supplies an earlier diagnostic layer through [[BanBiaoEasternHan|Ban Biao]]. Ban treats Qiang unrest as more than battlefield opposition: Qiang and Han customs and language differ, dependence on Han authority is weak, local officials can create abuse-driven grievance, and the court needs office restoration, inspections, interpreters, and reconnaissance before policy can be trusted.
+汉纪 708 supplies an earlier diagnostic layer through [[BanBiaoEasternHan|Ban Biao]]. Ban treats Qiang unrest as more than battlefield opposition: Qiang and Han customs and language differ, dependence on Han authority is weak, local officials can create abuse-driven grievance, and the court needs office restoration, inspections, interpreters, and reconnaissance before policy can be trusted.
 
-Hanji 780 supplies the broader Qiang-frontier version. Submitted Qiang groups have been settled among Han commanderies and counties, but local officials handle the relationship badly and exploit them. When the court later tries to send Qiang cavalry westward, fear of a distant service from which they may not return leads many to flee at Jiuquan; local interception and destruction of homes enlarge fear rather than restoring order.
+汉纪 780 supplies the broader Qiang-frontier version. Submitted Qiang groups have been settled among Han commanderies and counties, but local officials handle the relationship badly and exploit them. When the court later tries to send Qiang cavalry westward, fear of a distant service from which they may not return leads many to flee at Jiuquan; local interception and destruction of homes enlarge fear rather than restoring order.
 
-Hanji 786 supplies the local household-trigger version. In the episode's explanation of the first large Han-Qiang war after Ban Chao's death, a Han official in Anyi County seizes a Qiang woman as his wife. Her husband kills the official, and the county magistrate continues pursuing the killer.
+汉纪 786 supplies the local household-trigger version. In the episode's explanation of the first large Han-Qiang war after Ban Chao's death, a Han official in Anyi County seizes a Qiang woman as his wife. Her husband kills the official, and the county magistrate continues pursuing the killer.
 
 The key mechanism is panic, not only revenge. The pursuit makes nearby Qiang people fear that the case will expand against them, so they kill the county magistrate and several tribes enter rebellion. The host uses the case to reject a single-cause account of Han-Qiang war: ethnic oppression matters, but local official abuse, fear of punishment, tribal security calculation, and later climate stress also belong in the explanation.
 
@@ -38,24 +38,24 @@ Together the sources make panic the central mechanism. This page should stay nar
 
 ## Evidence
 
-- Early Qiang diagnosis: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] has Ban Biao connect Qiang unrest to official abuse, custom and language difference, weak dependence, and poor communication, then recommend office restoration, inspection, interpreters, and reconnaissance.
-- Settled-group exploitation: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] says submitted Qiang groups living among commanderies and counties are badly handled and oppressed by local officials.
-- Conscription panic: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] says Qiang cavalry ordered westward fear non-return, flee near Jiuquan, and see interception plus home destruction widen panic.
-- Improvised rebellion: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] describes poor improvised Qiang weaponry, supporting the view that fear and pressure matter more than prepared military strength.
-- Abuse trigger: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] says a Han official in Anyi County seizes a Qiang woman as wife.
-- First retaliation: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] says the woman's husband kills the official.
-- Panic widening: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] says continued pursuit by the county magistrate causes Qiang fear.
-- Rebellion escalation: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] says Qiang forces then kill the magistrate and several tribes rebel.
+- Early Qiang diagnosis: [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|汉纪 708]] has Ban Biao connect Qiang unrest to official abuse, custom and language difference, weak dependence, and poor communication, then recommend office restoration, inspection, interpreters, and reconnaissance.
+- Settled-group exploitation: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] says submitted Qiang groups living among commanderies and counties are badly handled and oppressed by local officials.
+- Conscription panic: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] says Qiang cavalry ordered westward fear non-return, flee near Jiuquan, and see interception plus home destruction widen panic.
+- Improvised rebellion: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] describes poor improvised Qiang weaponry, supporting the view that fear and pressure matter more than prepared military strength.
+- Abuse trigger: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] says a Han official in Anyi County seizes a Qiang woman as wife.
+- First retaliation: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] says the woman's husband kills the official.
+- Panic widening: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] says continued pursuit by the county magistrate causes Qiang fear.
+- Rebellion escalation: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] says Qiang forces then kill the magistrate and several tribes rebel.
 
 ## Counterevidence & Qualifications
 
-These episodes present official abuse, destructive handling, and communication failure as triggers in a larger Han-Qiang conflict, not as the whole cause of the wars. Hanji 708 is a policy diagnosis rather than a concrete rebellion narrative, so it supports the mechanism but not a complete causal proof. Climate stress, tribal migration, frontier settlement, conscription demands, state military response, and center-local coordination remain broader factors. Hanji 780's named Qiang leaders and officials remain source-scoped unless later notes make them durable pages.
+These episodes present official abuse, destructive handling, and communication failure as triggers in a larger Han-Qiang conflict, not as the whole cause of the wars. 汉纪 708 is a policy diagnosis rather than a concrete rebellion narrative, so it supports the mechanism but not a complete causal proof. Climate stress, tribal migration, frontier settlement, conscription demands, state military response, and center-local coordination remain broader factors. 汉纪 780's named Qiang leaders and officials remain source-scoped unless later notes make them durable pages.
 
 ## What Changed
 
-- Added Hanji 708 as an earlier Ban Biao diagnostic layer tying Qiang unrest to abuse, language/custom difference, and missing communication infrastructure.
-- Added Hanji 780 as the broader settled-Qiang, conscription-panic, and home-destruction version of the same rebellion spiral.
-- Preserved Hanji 786 as the narrower household-abuse trigger case.
+- Added 汉纪 708 as an earlier Ban Biao diagnostic layer tying Qiang unrest to abuse, language/custom difference, and missing communication infrastructure.
+- Added 汉纪 780 as the broader settled-Qiang, conscription-panic, and home-destruction version of the same rebellion spiral.
+- Preserved 汉纪 786 as the narrower household-abuse trigger case.
 - Reframed panic and fear of state handling as the shared mechanism across both sources.
 
 ## Related Concepts

@@ -16,7 +16,7 @@ Parental embodied modeling is the family-education pattern in which children abs
 
 ## Current Synthesis
 
-Hanji 891 defines this pattern through the host's phrase "身教甚过严教." The source argues that a mother's schedule, sleep, domestic order, optimism, health, and emotional steadiness shape the child's baseline more powerfully than repeated instruction. The episode's "family anchor" language is therefore not about command from above; it is about the adult becoming a stable environment.
+汉纪 891 defines this pattern through the host's phrase "身教甚过严教." The source argues that a mother's schedule, sleep, domestic order, optimism, health, and emotional steadiness shape the child's baseline more powerfully than repeated instruction. The episode's "family anchor" language is therefore not about command from above; it is about the adult becoming a stable environment.
 
 The concept also qualifies the ideal. The host does not describe a mother who never fails. She describes a parent who can apologize, repair, and return to steadier habits after mistakes, making [[ParentalRepairAfterHarm|repair after harm]] part of the model.
 
@@ -30,10 +30,10 @@ The concept also qualifies the ideal. The host does not describe a mother who ne
 
 ## Evidence
 
-- Explicit thesis: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] states that embodied example is stronger than strict teaching.
-- Routine example: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] contrasts healthy sleep and ordinary order with adults staying up late, reversing day and night, and neglecting the home.
-- Child-copy claim: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] says children are like copies of parents, making adult self-regulation part of the teaching surface.
-- Anchor frame: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] defines a high-level mother as mentally rich, optimistic, healthy, and stable in routine.
+- Explicit thesis: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] states that embodied example is stronger than strict teaching.
+- Routine example: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] contrasts healthy sleep and ordinary order with adults staying up late, reversing day and night, and neglecting the home.
+- Child-copy claim: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] says children are like copies of parents, making adult self-regulation part of the teaching surface.
+- Anchor frame: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] defines a high-level mother as mentally rich, optimistic, healthy, and stable in routine.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The source's language centers mothers, so the concept records the episode's gend
 
 ## What Changed
 
-- Created the concept from Hanji 891's "身教甚过严教" and family-anchor argument.
+- Created the concept from 汉纪 891's "身教甚过严教" and family-anchor argument.
 
 ## Related Concepts
 

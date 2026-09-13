@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-黄浮 / Huang Fu is the East Sea official in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] who executes [[XuXuanLateHan|徐宣]] after the Xiapi killing case and is then punished when eunuch complaint reaches [[EmperorHuanOfHan|汉桓帝]].
+黄浮 / Huang Fu is the East Sea official in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] who executes [[XuXuanLateHan|徐宣]] after the Xiapi killing case and is then punished when eunuch complaint reaches [[EmperorHuanOfHan|汉桓帝]].
 
 ## Current Profile
 
@@ -28,11 +28,11 @@ The source's moral focus is Huang Fu's answer: he treats Xu Xuan as a state crim
 
 ## Evidence
 
-- Case response: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Huang Fu hears of Xu Xuan's violence and orders arrest and punishment.
-- Subordinate warning: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says officials try to dissuade Huang Fu because of the danger.
-- Risk stance: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] gives Huang Fu's willingness to die after executing Xu Xuan.
-- Public execution: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Xu Xuan is executed and exposed publicly.
-- Retaliation: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Emperor Huan punishes Huang Fu after eunuch complaint.
+- Case response: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Huang Fu hears of Xu Xuan's violence and orders arrest and punishment.
+- Subordinate warning: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says officials try to dissuade Huang Fu because of the danger.
+- Risk stance: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] gives Huang Fu's willingness to die after executing Xu Xuan.
+- Public execution: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Xu Xuan is executed and exposed publicly.
+- Retaliation: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Emperor Huan punishes Huang Fu after eunuch complaint.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ The source transcript renders this actor as "皇甫"; the page normalizes him to
 
 ## What Changed
 
-- Hanji 872 creates Huang Fu's canonical page as the Donghai official who executes Xu Xuan and is punished under eunuch pressure.
+- 汉纪 872 creates Huang Fu's canonical page as the Donghai official who executes Xu Xuan and is punished under eunuch pressure.
 
 ## Relationships
 

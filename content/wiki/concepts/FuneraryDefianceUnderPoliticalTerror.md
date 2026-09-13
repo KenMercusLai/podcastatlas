@@ -14,7 +14,7 @@ Funerary defiance under political terror is the pattern where mourning, guarding
 
 ## Current Synthesis
 
-Hanji 830 supplies the current case. [[LiangJiLateHan|梁冀]] displays the bodies of [[LiGuLateHan|李固]] and [[DuQiaoLateHan|杜乔]] north of Luoyang and forbids mourning after both men die in prison. The display is meant to warn witnesses away from the defeated officials.
+汉纪 830 supplies the current case. [[LiangJiLateHan|梁冀]] displays the bodies of [[LiGuLateHan|李固]] and [[DuQiaoLateHan|杜乔]] north of Luoyang and forbids mourning after both men die in prison. The display is meant to warn witnesses away from the defeated officials.
 
 The response reverses the intended signal. [[GuoLiangLiGuStudent|郭亮]] and [[DongBanNanyangLateHan|董班]] mourn Li Gu publicly despite threats, while [[YangKuangDuQiaoRetainer|杨匡]] disguises himself to guard Du Qiao's body for twelve days. [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] pardons the mourners and allows the bodies to be returned, so the episode treats ritual duty as a narrow but visible counterweight to political terror.
 
@@ -29,19 +29,19 @@ The response reverses the intended signal. [[GuoLiangLiGuStudent|郭亮]] and [[
 
 ## Evidence
 
-- Intimidation setup: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Ji displays Li Gu and Du Qiao's bodies and threatens punishment for mourners.
-- Li Gu mourning: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Guo Liang and Dong Ban mourn Li Gu at the displayed body and refuse to leave after being threatened.
-- Du Qiao guarding: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Yang Kuang disguises himself and guards Du Qiao's body for twelve days.
-- Ritual repair: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Na pardons the mourners and permits the bodies to be returned home for burial.
-- Exit after duty: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Yang Kuang, Guo Liang, and Dong Ban hide their names and never return to office.
+- Intimidation setup: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Liang Ji displays Li Gu and Du Qiao's bodies and threatens punishment for mourners.
+- Li Gu mourning: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Guo Liang and Dong Ban mourn Li Gu at the displayed body and refuse to leave after being threatened.
+- Du Qiao guarding: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Yang Kuang disguises himself and guards Du Qiao's body for twelve days.
+- Ritual repair: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Liang Na pardons the mourners and permits the bodies to be returned home for burial.
+- Exit after duty: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Yang Kuang, Guo Liang, and Dong Ban hide their names and never return to office.
 
 ## Counterevidence & Qualifications
 
-This concept is source-bounded to Hanji 830 and should not be generalized into all mourning or all martyrdom. The mourners' actions do not stop Liang Ji's power, reverse Li Gu and Du Qiao's deaths, or create institutional reform. The pattern is narrower: burial duty becomes meaningful because political terror tries to forbid it.
+This concept is source-bounded to 汉纪 830 and should not be generalized into all mourning or all martyrdom. The mourners' actions do not stop Liang Ji's power, reverse Li Gu and Du Qiao's deaths, or create institutional reform. The pattern is narrower: burial duty becomes meaningful because political terror tries to forbid it.
 
 ## What Changed
 
-- Created the concept from Hanji 830's Li Gu and Du Qiao body-display, mourning-ban, pardon, and return-burial sequence.
+- Created the concept from 汉纪 830's Li Gu and Du Qiao body-display, mourning-ban, pardon, and return-burial sequence.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ The source links this to the older phrase "学在王官": in an earlier ritual o
 
 This concept is narrower than [[KnowledgeMonopoly]]. It names a specific official-channel structure: law is learned from officials, classical-political argument is suppressed outside official control, and private interpretive communities become threats to political uniformity. The effect is to make scholarship answer to [[QinState|秦国]]'s command structure.
 
-[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] extends the concept into early Western Han ritual and legal expertise. In the episode's reading, [[HanInheritsQinSystem|汉承秦制]] is not only military or administrative; ritual books and law books become specialized official knowledge that ordinary people and many non-specialists cannot easily access. This turns [[ShusunTong|叔孙通]]'s practical ritual work into part of a wider expertise monopoly.
+[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|汉纪 176]] extends the concept into early Western Han ritual and legal expertise. In the episode's reading, [[HanInheritsQinSystem|汉承秦制]] is not only military or administrative; ritual books and law books become specialized official knowledge that ordinary people and many non-specialists cannot easily access. This turns [[ShusunTong|叔孙通]]'s practical ritual work into part of a wider expertise monopoly.
 
 ## Key Claims
 - Book burning and private-teaching prohibition are connected in the source's reading.
@@ -22,10 +22,10 @@ This concept is narrower than [[KnowledgeMonopoly]]. It names a specific officia
 - Official legal instruction remains available, but independent classical argument is politically constrained.
 - The concept explains why the policy can spare practical books while attacking historical and classical-political texts.
 - The policy extends [[ImperialHomogenization|imperial homogenization]] into education and interpretation.
-- Hanji 176 adds that ritual/law expertise can remain official and hard to access even after Qin falls, because Han selectively inherits useful Qin institutional forms.
+- 汉纪 176 adds that ritual/law expertise can remain official and hard to access even after Qin falls, because Han selectively inherits useful Qin institutional forms.
 
 ## Connections
-- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[ShusunTong|叔孙通]], [[HanInheritsQinSystem|汉承秦制]], and [[LiAsPoliticalOrder|礼制政治秩序]] - early Han ritual/legal expertise as restricted official knowledge.
+- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|汉纪 176]], [[ShusunTong|叔孙通]], [[HanInheritsQinSystem|汉承秦制]], and [[LiAsPoliticalOrder|礼制政治秩序]] - early Han ritual/legal expertise as restricted official knowledge.
 - [[QinBookBurningPolicy|秦代焚书令]] - concrete policy expression.
 - [[KnowledgeMonopoly]] - broader cross-source concept for institutional control over knowledge access and interpretation.
 - [[LiSi|李斯]], [[QinShiHuang|嬴政 / 秦始皇]], and [[QinState|秦国]] - proposer, ruler, and regime.

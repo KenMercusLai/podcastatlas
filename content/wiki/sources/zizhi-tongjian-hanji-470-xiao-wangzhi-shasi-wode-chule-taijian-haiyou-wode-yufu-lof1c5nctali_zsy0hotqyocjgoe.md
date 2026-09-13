@@ -46,5 +46,5 @@ The durable synthesis is that Xiao Wangzhi's death is not only an evil-favorite 
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source gives the earlier and fuller Xiao Wangzhi death scene that later Hanji 501 had only summarized.
+- No settled contradiction with existing wiki content was found. This source gives the earlier and fuller Xiao Wangzhi death scene that later 汉纪 501 had only summarized.
 - Scope caution: the episode's judgments about Xiao's "迂腐," Yuan's intelligence and weakness, Zhu Yun's reading style, and the starting point of Western Han decline are host interpretations. Xiao's prior conflicts with Zhang Chang, Han Yanshou, and Bing Ji remain source-scoped unless later notes warrant separate pages.

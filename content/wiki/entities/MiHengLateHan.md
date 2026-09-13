@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 祢衡 / Mi Heng (Late Han)
 
-祢衡 / Mi Heng (Late Han) enters the wiki through [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] as the brilliant but abrasive scholar recommended by [[KongRong|孔融]] to [[CaoCao|曹操]]. The source presents him as talented, eloquent, direct, proud, and unable to moderate his contempt inside dangerous political settings.
+祢衡 / Mi Heng (Late Han) enters the wiki through [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] as the brilliant but abrasive scholar recommended by [[KongRong|孔融]] to [[CaoCao|曹操]]. The source presents him as talented, eloquent, direct, proud, and unable to moderate his contempt inside dangerous political settings.
 
 The central scene is Cao Cao's public humiliation trap. Cao Cao assigns Mi Heng a lowly drummer role at a banquet, but Mi Heng refuses the required coarse outfit, strips naked when reprimanded, drums calmly before the guests, and turns the insult back on Cao Cao. The host treats this as the moment when Cao Cao's anger becomes lethal but reputation makes direct killing unattractive.
 

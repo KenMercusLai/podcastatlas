@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 内黄之战 / Neihuang Battle (Late Han)
 
-内黄之战 / Neihuang Battle (Late Han) enters the wiki through [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] as an early [[CaoCao|曹操]] campaign before the later [[YanzhouLateHan|兖州]] consolidation sequence. The source begins from [[YuDuLateHan|于毒]] attacking [[DongWuyangLateHan|东武阳]] while Cao Cao is stationed at [[DunqiuLateHan|顿丘]].
+内黄之战 / Neihuang Battle (Late Han) enters the wiki through [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|汉纪 961]] as an early [[CaoCao|曹操]] campaign before the later [[YanzhouLateHan|兖州]] consolidation sequence. The source begins from [[YuDuLateHan|于毒]] attacking [[DongWuyangLateHan|东武阳]] while Cao Cao is stationed at [[DunqiuLateHan|顿丘]].
 
 Cao Cao does not answer the siege with direct rescue. He marches west into the mountains toward Yu Du's base, arguing that Yu Du will have to abandon Dong Wuyang if his own camp is threatened. If Yu Du refuses to return, Cao Cao can seize the base; if Yu Du returns, the siege is lifted. The source uses this as a late-Han application of [[EncirclingWeiToRescueZhao|围魏救赵]].
 

@@ -14,7 +14,7 @@ Kin sacrifice reputation performance / 亲属牺牲式声望表演 is the politi
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] grounds the concept in [[WangMang|王莽]] before his return to court. After his son kills a household slave, Wang Mang forces the son to suicide. The episode stresses the social asymmetry: in that context, the enslaved person's death would not ordinarily carry equal weight, so making a son pay for it becomes a spectacular claim to justice.
+[[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|汉纪 595]] grounds the concept in [[WangMang|王莽]] before his return to court. After his son kills a household slave, Wang Mang forces the son to suicide. The episode stresses the social asymmetry: in that context, the enslaved person's death would not ordinarily carry equal weight, so making a son pay for it becomes a spectacular claim to justice.
 
 The current synthesis is not that every kin punishment is merely fake. The pattern is narrower: when the family sacrifice is staged or narrated as above-private righteousness, it can produce [[MoralReputationPoliticalCapital|moral reputation political capital]]. In Wang Mang's case, the episode says the act helps hundreds of officials and commoners plead for him, allowing a return from fief isolation to service near [[WangZhengjun|王政君]].
 
@@ -28,18 +28,18 @@ The current synthesis is not that every kin punishment is merely fake. The patte
 
 ## Evidence
 
-- Family punishment as moral signal: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] says Wang Mang forces his son to die after the son kills a household slave.
-- Hierarchy gap: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] says household slaves' lives were treated as controlled by masters, making Wang Mang's punishment unusually visible.
-- Political conversion: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] says officials and commoners later petition for Wang Mang, and Aidi recalls him to Chang'an.
-- Comparative boundary: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|Hanji 595]] compares Yi Ya, Jin Midi, and Hai Rui to separate flattery, preemptive danger removal, moral cleanliness, and political calculation.
+- Family punishment as moral signal: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|汉纪 595]] says Wang Mang forces his son to die after the son kills a household slave.
+- Hierarchy gap: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|汉纪 595]] says household slaves' lives were treated as controlled by masters, making Wang Mang's punishment unusually visible.
+- Political conversion: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|汉纪 595]] says officials and commoners later petition for Wang Mang, and Aidi recalls him to Chang'an.
+- Comparative boundary: [[zizhi-tongjian-hanji-595-wangmang-shazi-jielu-quanli-de-canku-lh9nr18cllq1rrl0nz4fzipai4eq|汉纪 595]] compares Yi Ya, Jin Midi, and Hai Rui to separate flattery, preemptive danger removal, moral cleanliness, and political calculation.
 
 ## Counterevidence & Qualifications
 
-This concept is source-scoped to Hanji 595's interpretation of Wang Mang. It does not prove Wang Mang's private motive, the complete legal context of slave-killing, or the full historical accuracy of the comparison cases. It also should not collapse all stern family discipline into political performance; the public conversion into reputation is the defining feature.
+This concept is source-scoped to 汉纪 595's interpretation of Wang Mang. It does not prove Wang Mang's private motive, the complete legal context of slave-killing, or the full historical accuracy of the comparison cases. It also should not collapse all stern family discipline into political performance; the public conversion into reputation is the defining feature.
 
 ## What Changed
 
-- Created the concept from Hanji 595's Wang Mang forced-son-suicide case and its petition-backed return-to-court consequence.
+- Created the concept from 汉纪 595's Wang Mang forced-son-suicide case and its petition-backed return-to-court consequence.
 
 ## Related Concepts
 

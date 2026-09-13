@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 沙丘 / Shaqiu (Guandu theater)
 
 ## Overview
-沙丘 / Shaqiu is the Guandu-theater position where Hanji 1047 places [[YuanShao|袁绍]] after his August advance. The page disambiguates this campaign location from earlier wiki pages about Shaqiu in Qin and Warring States contexts.
+沙丘 / Shaqiu is the Guandu-theater position where 汉纪 1047 places [[YuanShao|袁绍]] after his August advance. The page disambiguates this campaign location from earlier wiki pages about Shaqiu in Qin and Warring States contexts.
 
 ## Current Profile
 Shaqiu marks the moment when Yuan Shao's rejected long-war option becomes a forward camp confrontation. The episode describes Yuan's east-west camp line stretching for dozens of li and [[CaoCao|曹操]] establishing opposing camps. After Cao's first battle fails and he withdraws to defend, the contest hardens into towers, catapults, tunnels, and trenches.
@@ -23,8 +23,8 @@ Shaqiu marks the moment when Yuan Shao's rejected long-war option becomes a forw
 - Disambiguated from non-Guandu Shaqiu pages already present in the wiki.
 
 ## Evidence
-- Forward camp line: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] says Yuan Shao advances to Shaqiu in August and sets a camp line stretching east-west for dozens of li.
-- Engineering transition: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] moves from the Shaqiu camp confrontation into high towers, Cao's thunderbolt carts, Yuan tunnels, and Cao trenches.
+- Forward camp line: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|汉纪 1047]] says Yuan Shao advances to Shaqiu in August and sets a camp line stretching east-west for dozens of li.
+- Engineering transition: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|汉纪 1047]] moves from the Shaqiu camp confrontation into high towers, Cao's thunderbolt carts, Yuan tunnels, and Cao trenches.
 
 ## Qualifications
 This page covers only the Guandu-theater Shaqiu. It should not be merged with [[Shaqiu|沙丘]] or [[ShaqiuCrisis|沙丘危机]] without separate evidence that the references identify the same site and function.

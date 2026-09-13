@@ -48,5 +48,5 @@ The durable synthesis is that the "断袖" story is not only an anecdote about r
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source predates Hanji 588's Bao Xuan public-suffering memorial and Hanji 593-599's Wang Jia sequence; it supplies the earlier favor-origin layer for later Dong Xian risk.
+- Chronology qualification: this source predates 汉纪 588's Bao Xuan public-suffering memorial and 汉纪 593-599's Wang Jia sequence; it supplies the earlier favor-origin layer for later Dong Xian risk.
 - Scope caution: the episode preserves the host's popular reading of Aidi's psychology and Zheng Chong's predicament. The full original memorial wording, Dong Xian's inner motives, Dong-family relatives' full careers, Zhao Chang's complete case, and Sun Bao's legal procedure remain source-scoped.

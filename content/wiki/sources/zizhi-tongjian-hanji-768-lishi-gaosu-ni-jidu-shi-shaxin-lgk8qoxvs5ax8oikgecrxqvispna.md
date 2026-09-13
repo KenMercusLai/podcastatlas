@@ -13,7 +13,7 @@ last_updated: 2026-08-30
 # 《资治通鉴·汉纪》768丨历史告诉你：嫉妒是杀心！
 
 ## Summary
-This episode backfills the 93-94 CE [[EmperorHeOfHan|Emperor He]] layer immediately before [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]]. It follows [[CaoBaoEasternHan|Cao Bao's]] Han-rites project being abandoned after [[ZhangPuEasternHan|Zhang Pu]] and Zhang Min oppose it, [[LiuChangLiangKing|Liang King Liu Chang's]] taboo imperial speech being punished but contained, [[GuanYouLateHan|Guan You]] fracturing Qiang alliances against [[MiTangQiangLeader|Mi Tang]], and [[AnGuoSouthernXiongnu|An Guo's]] jealous plot against [[ShiziChanyu|Shizi]] in the [[SouthernXiongnu|Southern Xiongnu]]. The durable synthesis is that weak authority and jealousy create different political failure modes: Emperor He lets ritual reform lapse under orthodox pressure, Liu Chang survives by retreating from emperor-making speech, Guan You reduces frontier danger by breaking alliance, and An Guo turns Shizi's ability into an imagined threat that brings his own death.
+This episode backfills the 93-94 CE [[EmperorHeOfHan|Emperor He]] layer immediately before [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|汉纪 769]]. It follows [[CaoBaoEasternHan|Cao Bao's]] Han-rites project being abandoned after [[ZhangPuEasternHan|Zhang Pu]] and Zhang Min oppose it, [[LiuChangLiangKing|Liang King Liu Chang's]] taboo imperial speech being punished but contained, [[GuanYouLateHan|Guan You]] fracturing Qiang alliances against [[MiTangQiangLeader|Mi Tang]], and [[AnGuoSouthernXiongnu|An Guo's]] jealous plot against [[ShiziChanyu|Shizi]] in the [[SouthernXiongnu|Southern Xiongnu]]. The durable synthesis is that weak authority and jealousy create different political failure modes: Emperor He lets ritual reform lapse under orthodox pressure, Liu Chang survives by retreating from emperor-making speech, Guan You reduces frontier danger by breaking alliance, and An Guo turns Shizi's ability into an imagined threat that brings his own death.
 
 ## Key Claims
 - Weak leaders may know a subordinate is right yet still fail to defend the subordinate's work when organized resistance makes implementation costly.
@@ -38,7 +38,7 @@ This episode backfills the 93-94 CE [[EmperorHeOfHan|Emperor He]] layer immediat
 - [[LiuChangLiangKing]] - shows how royal-house speech around becoming emperor triggered punishment even without open rebellion.
 - [[GuanYouLateHan]] - demonstrates frontier command through coalition splitting and logistical consolidation.
 - [[MiTangQiangLeader]] - receives an earlier layer before his later Longxi attack, surrender, and failed incorporation.
-- [[SouthernXiongnu]] - gains the immediate prehistory to the Shizi-Fenghou crisis in Hanji 769.
+- [[SouthernXiongnu]] - gains the immediate prehistory to the Shizi-Fenghou crisis in 汉纪 769.
 - [[AnGuoSouthernXiongnu]] - embodies the episode's jealousy-as-lethal-politics thesis.
 - [[ShiziChanyu]] - represents subordinate or collateral talent treated as a mortal threat by an insecure superior.
 - [[CoalitionFractureExploitation]] - Guan You offers an Eastern Han frontier example of buying time and splitting hostile alignments.

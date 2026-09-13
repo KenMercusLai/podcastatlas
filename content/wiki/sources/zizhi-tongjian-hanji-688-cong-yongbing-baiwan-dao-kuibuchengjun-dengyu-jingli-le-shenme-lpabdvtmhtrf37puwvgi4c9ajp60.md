@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 3 / 27 CE Chimei settlement layer before [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] and [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]]. It contrasts [[DengYuEasternHan|邓禹]]'s face-and-status driven attacks on the [[ChimeiRebellion|赤眉]] with [[FengYiEasternHan|冯异]]'s patience, troop-condition judgment, and uniform-disguise ambush.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 3 / 27 CE Chimei settlement layer before [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|汉纪 689-1]] and [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]]. It contrasts [[DengYuEasternHan|邓禹]]'s face-and-status driven attacks on the [[ChimeiRebellion|赤眉]] with [[FengYiEasternHan|冯异]]'s patience, troop-condition judgment, and uniform-disguise ambush.
 
 The second half follows [[LiuPenziEasternHan|刘盆子]]'s surrender to [[LiuXiu|光武帝刘秀]], the feeding and settlement of Chimei surrendered followers, [[FuLongEasternHan|伏隆]]'s doomed mission to [[ZhangBuEasternHan|张步]], and [[PengChongEasternHan|彭宠]]'s Yan claim after Ji falls. The durable synthesis is that early Guangwu consolidation depends on timing and credible settlement as much as force: rash command can waste hungry soldiers, while surrender management, envoy risk, and campaign priority decide whether rival groups fracture or survive.
 
@@ -48,6 +48,6 @@ The second half follows [[LiuPenziEasternHan|刘盆子]]'s surrender to [[LiuXiu
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills a Chimei/Deng Yu/Feng Yi layer before Hanji 689-1's broader Jianwu 3 multi-front cleanup and Hanji 690's Jianwu 4 consolidation layer.
-- Profile qualification: Hanji 690's later Deng Yu victory at Shunyang and Hanji 715's honored withdrawal do not erase this earlier Chimei failure; together they make Deng Yu a mixed founding-generation figure.
+- Chronology qualification: this source backfills a Chimei/Deng Yu/Feng Yi layer before 汉纪 689-1's broader Jianwu 3 multi-front cleanup and 汉纪 690's Jianwu 4 consolidation layer.
+- Profile qualification: 汉纪 690's later Deng Yu victory at Shunyang and 汉纪 715's honored withdrawal do not erase this earlier Chimei failure; together they make Deng Yu a mixed founding-generation figure.
 - Scope caution: Liu Yong, Deng Hong, Fan Chong, Feng An, Liu Gong, Xu Xuan, Yang Yin, Liu Liang, Xie Lu, Zhang Feng, Fuping, Huosuo, exact Chimei force counts, and minor place readings remain source-scoped unless later notes warrant standalone pages.

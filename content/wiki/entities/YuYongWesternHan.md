@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-于永 / Yu Yong enters the wiki through [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] as a Western Han official promoted under [[HanChengdi|汉成帝]] to Yushi Dafu after earlier service as Guanglu Xun.
+于永 / Yu Yong enters the wiki through [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] as a Western Han official promoted under [[HanChengdi|汉成帝]] to Yushi Dafu after earlier service as Guanglu Xun.
 
 ## Current Profile
 
@@ -29,19 +29,19 @@ His profile is also kinship-linked. He inherits a marquisate and marries Princes
 
 ## Evidence
 
-- Family background: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Yu Yong is Yu Dingguo's son and inherits the family title.
-- Conduct change: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says he moves from youthful drinking and errors to cultivated conduct after age thirty.
-- Office path: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] lists court and military-adjacent appointments before his Guanglu Xun and Yushi Dafu roles.
-- Marriage tie: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says he marries Princess Guantao Liu Shi.
-- Missed chancellorship: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Chengdi is about to appoint him chancellor when he dies.
+- Family background: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says Yu Yong is Yu Dingguo's son and inherits the family title.
+- Conduct change: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says he moves from youthful drinking and errors to cultivated conduct after age thirty.
+- Office path: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] lists court and military-adjacent appointments before his Guanglu Xun and Yushi Dafu roles.
+- Marriage tie: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says he marries Princess Guantao Liu Shi.
+- Missed chancellorship: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says Chengdi is about to appoint him chancellor when he dies.
 
 ## Qualifications
 
-This page is bounded to Hanji 524 and does not reconstruct Yu Yong's full biography, exact office dates, or independent standard-history assessment. The episode uses him mainly as a personnel-background case before turning to Duan Huizong.
+This page is bounded to 汉纪 524 and does not reconstruct Yu Yong's full biography, exact office dates, or independent standard-history assessment. The episode uses him mainly as a personnel-background case before turning to Duan Huizong.
 
 ## What Changed
 
-- Created the page from Hanji 524's Yu Yong appointment, family, conduct-change, marriage, and death-before-chancellorship notes.
+- Created the page from 汉纪 524's Yu Yong appointment, family, conduct-change, marriage, and death-before-chancellorship notes.
 
 ## Relationships
 

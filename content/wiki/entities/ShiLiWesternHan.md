@@ -10,11 +10,11 @@ last_updated: 2026-09-11
 
 ## Overview
 
-史立 / Shi Li enters the wiki through [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] as the investigator who turns [[ZhangYouWesternHan|张尤]]'s false report against [[FengYuanWesternHan|冯媛]] into a coercive treason case. The episode presents him as responsive to [[FuTaihouWesternHan|傅太后]]'s desired outcome and eager to turn investigation into promotion.
+史立 / Shi Li enters the wiki through [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] as the investigator who turns [[ZhangYouWesternHan|张尤]]'s false report against [[FengYuanWesternHan|冯媛]] into a coercive treason case. The episode presents him as responsive to [[FuTaihouWesternHan|傅太后]]'s desired outcome and eager to turn investigation into promotion.
 
 ## Current Profile
 
-Hanji 576 places Shi Li after Ding Xuan fails to produce evidence against Feng Yuan. Fu Taihou replaces the inquiry channel, and Shi Li examines Feng Yuan's sister Feng Xi and sister-in-law Junzhi with harsh torture. He then reports that Feng Yuan cursed Aidi and sought to kill the emperor so Liu Jizi could be enthroned.
+汉纪 576 places Shi Li after Ding Xuan fails to produce evidence against Feng Yuan. Fu Taihou replaces the inquiry channel, and Shi Li examines Feng Yuan's sister Feng Xi and sister-in-law Junzhi with harsh torture. He then reports that Feng Yuan cursed Aidi and sought to kill the emperor so Liu Jizi could be enthroned.
 
 His interrogation of Feng Yuan reveals the political source of the case. When he taunts her by recalling the bear-rescue story, Feng Yuan realizes that the old palace memory must have come from someone with a grudge inside the palace. Shi Li therefore becomes the operational bridge between Fu Taihou's resentment and legal violence: he gives the accusation form, expands it through torture, and is rewarded after the deaths.
 
@@ -28,11 +28,11 @@ His interrogation of Feng Yuan reveals the political source of the case. When he
 
 ## Evidence
 
-- Replacement investigator: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Fu Taihou turns from Ding Xuan to Shi Li after no result appears.
-- Torture and deaths: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Shi Li's investigation uses harsh interrogation and causes many deaths.
-- Treason framing: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Shi Li reports Feng Yuan's alleged plan to curse Aidi and enthrone the Zhongshan king.
-- Palace-clue taunt: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Shi Li's mention of the bear incident leads Feng Yuan to infer palace-directed revenge.
-- Reward: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]] says Shi Li is promoted after the case.
+- Replacement investigator: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says Fu Taihou turns from Ding Xuan to Shi Li after no result appears.
+- Torture and deaths: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says Shi Li's investigation uses harsh interrogation and causes many deaths.
+- Treason framing: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says Shi Li reports Feng Yuan's alleged plan to curse Aidi and enthrone the Zhongshan king.
+- Palace-clue taunt: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says Shi Li's mention of the bear incident leads Feng Yuan to infer palace-directed revenge.
+- Reward: [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]] says Shi Li is promoted after the case.
 
 ## Qualifications
 

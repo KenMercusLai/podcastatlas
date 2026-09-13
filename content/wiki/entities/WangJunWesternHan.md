@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-王骏 / Wang Jun enters the wiki through [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] as the Western Han official appointed Jingzhao Yin by [[HanChengdi|汉成帝]] in 21 BCE.
+王骏 / Wang Jun enters the wiki through [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] as the Western Han official appointed Jingzhao Yin by [[HanChengdi|汉成帝]] in 21 BCE.
 
 ## Current Profile
 
@@ -18,24 +18,24 @@ The source presents Wang Jun as part of an officeholding reputation line. He is 
 
 ## Key Characteristics
 
-- Western Han official appointed Jingzhao Yin in Hanji 524.
+- Western Han official appointed Jingzhao Yin in 汉纪 524.
 - Son of [[WangJiWesternHan|王吉]].
 - Associated with the reputation of capable capital-region administrators.
 - Used by the episode to show that family prestige can be backed by practical office performance.
 
 ## Evidence
 
-- Appointment: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Chengdi appoints Shaofu Wang Jun as Jingzhao Yin.
-- Family line: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] says Wang Jun is Wang Ji's son.
-- Reputation formula: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]] cites the capital saying that pairs earlier Zhao/Zhang officials with later three Wangs.
+- Appointment: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says Chengdi appoints Shaofu Wang Jun as Jingzhao Yin.
+- Family line: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] says Wang Jun is Wang Ji's son.
+- Reputation formula: [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]] cites the capital saying that pairs earlier Zhao/Zhang officials with later three Wangs.
 
 ## Qualifications
 
-This page is bounded to Hanji 524. It does not yet reconstruct Wang Jun's full tenure as Jingzhao Yin or the full "three Wangs" sequence.
+This page is bounded to 汉纪 524. It does not yet reconstruct Wang Jun's full tenure as Jingzhao Yin or the full "three Wangs" sequence.
 
 ## What Changed
 
-- Created the page from Hanji 524's Wang Jun appointment and family-reputation context.
+- Created the page from 汉纪 524's Wang Jun appointment and family-reputation context.
 
 ## Relationships
 

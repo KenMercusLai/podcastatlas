@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-[[CheNiuChanyu|车纽 / Che Niu]] is the rebel-backed Southern Xiongnu chanyu in Hanji 820's 140 CE crisis. His profile matters because he shows how frontier rebellion can move from raiding to alternative rulership once the court-recognized chanyu order is broken.
+[[CheNiuChanyu|车纽 / Che Niu]] is the rebel-backed Southern Xiongnu chanyu in 汉纪 820's 140 CE crisis. His profile matters because he shows how frontier rebellion can move from raiding to alternative rulership once the court-recognized chanyu order is broken.
 
 ## Current Profile
 
-Hanji 820 first places Che Niu beside [[WusiSouthernXiongnu|Wusi]] in the revolt that besieges Meiji and kills frontier officials. After [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] forces [[XiuliChanyu|Xiuli]] and the Left Wise King to suicide, Wusi installs Che Niu as chanyu, and the revolt links with Wuhuan, Qiang, and other frontier groups.
+汉纪 820 first places Che Niu beside [[WusiSouthernXiongnu|Wusi]] in the revolt that besieges Meiji and kills frontier officials. After [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] forces [[XiuliChanyu|Xiuli]] and the Left Wise King to suicide, Wusi installs Che Niu as chanyu, and the revolt links with Wuhuan, Qiang, and other frontier groups.
 
 Che Niu's challenge does not last. [[ZhangDanProtectorOfXiongnu|Zhang Dan]] defeats him at Mayi with Youzhou Wuhuan and local forces, after which Che Niu surrenders. Wusi's continued resistance means Che Niu is a major claimant but not the whole revolt.
 
@@ -27,17 +27,17 @@ Che Niu's challenge does not last. [[ZhangDanProtectorOfXiongnu|Zhang Dan]] defe
 
 ## Evidence
 
-- Rebel-backed chanyu: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Wusi later establishes Che Niu as chanyu after the chanyu-suicide crisis.
-- Military defeat and surrender: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] has Zhang Dan defeat Che Niu at Mayi and receive his surrender.
-- Partial resolution only: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] keeps Wusi active after Che Niu's surrender.
+- Rebel-backed chanyu: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] says Wusi later establishes Che Niu as chanyu after the chanyu-suicide crisis.
+- Military defeat and surrender: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] has Zhang Dan defeat Che Niu at Mayi and receive his surrender.
+- Partial resolution only: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] keeps Wusi active after Che Niu's surrender.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 820. It should not yet be treated as a full biography of Che Niu or of Southern Xiongnu succession norms.
+This page is source-bounded to 汉纪 820. It should not yet be treated as a full biography of Che Niu or of Southern Xiongnu succession norms.
 
 ## What Changed
 
-- Created Che Niu as a canonical page because Hanji 820 makes his chanyu claim central to the Southern Xiongnu revolt.
+- Created Che Niu as a canonical page because 汉纪 820 makes his chanyu claim central to the Southern Xiongnu revolt.
 
 ## Relationships
 

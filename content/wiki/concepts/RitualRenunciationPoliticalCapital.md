@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 772 defines the current case through [[LiuKaiEasternHan|Liu Kai]]. Liu should inherit his father's marquisate, but he gives it to his younger brother [[LiuXianEasternHan|Liu Xian]] and remains in flight rather than accept investiture. That action is not institutionally harmless: the host stresses that hereditary title succession follows law and ritual order, so private refusal can unsettle the rules that prevent family and status conflict.
+汉纪 772 defines the current case through [[LiuKaiEasternHan|Liu Kai]]. Liu should inherit his father's marquisate, but he gives it to his younger brother [[LiuXianEasternHan|Liu Xian]] and remains in flight rather than accept investiture. That action is not institutionally harmless: the host stresses that hereditary title succession follows law and ritual order, so private refusal can unsettle the rules that prevent family and status conflict.
 
 The case becomes politically usable because [[JiaKuiEasternHan|Jia Kui]] changes the frame. Instead of treating Liu only as a fugitive from investiture, Jia presents him as someone whose yielding should be completed under the moral aim of royal law. [[EmperorHeOfHan|Emperor He]] accepts the exceptional decision, lets Liu Xian inherit, and then summons Liu Kai into office. The source's sharper claim is therefore not that Liu is simply selfless; it is that visible renunciation can become reputational capital and career opportunity when court rhetoric and imperial discretion validate it.
 
@@ -28,19 +28,19 @@ The case becomes politically usable because [[JiaKuiEasternHan|Jia Kui]] changes
 
 ## Evidence
 
-- Refusal and flight: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Liu Kai lets his younger brother take the marquisate and continues hiding rather than accept investiture.
-- Succession-law strain: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says the host treats flight from title succession as a serious legal and ritual order problem.
-- Normative reframing: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Jia Kui invokes ritual yielding and persuades Emperor He to allow the succession exception.
-- Career conversion: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Liu Kai is then summoned as a lang and the host reads his later high office as a reputation-for-career exchange.
-- Precedent boundary: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] says Emperor He states that the case is situational and should not be repeated as normal policy.
+- Refusal and flight: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] says Liu Kai lets his younger brother take the marquisate and continues hiding rather than accept investiture.
+- Succession-law strain: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] says the host treats flight from title succession as a serious legal and ritual order problem.
+- Normative reframing: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] says Jia Kui invokes ritual yielding and persuades Emperor He to allow the succession exception.
+- Career conversion: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] says Liu Kai is then summoned as a lang and the host reads his later high office as a reputation-for-career exchange.
+- Precedent boundary: [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] says Emperor He states that the case is situational and should not be repeated as normal policy.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in one source note and should not be generalized into a rule that every refusal of status is strategic. Hanji 772 itself preserves two qualifications: hereditary title refusal can damage legal order, and the claim that Liu Kai deliberately exchanged reputation for office is the host's interpretation of the outcome rather than direct proof of original motive.
+The concept is currently grounded in one source note and should not be generalized into a rule that every refusal of status is strategic. 汉纪 772 itself preserves two qualifications: hereditary title refusal can damage legal order, and the claim that Liu Kai deliberately exchanged reputation for office is the host's interpretation of the outcome rather than direct proof of original motive.
 
 ## What Changed
 
-- Created the concept from Liu Kai's Hanji 772 title-refusal case.
+- Created the concept from Liu Kai's 汉纪 772 title-refusal case.
 
 ## Related Concepts
 

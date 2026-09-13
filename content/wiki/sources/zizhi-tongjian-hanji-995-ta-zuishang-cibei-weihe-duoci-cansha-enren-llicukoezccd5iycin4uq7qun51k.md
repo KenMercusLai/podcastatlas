@@ -43,4 +43,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows the
 - [[HospitalityPredation|接纳者掠杀]], [[InstrumentalBeliefCritique]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - conceptual lessons around no-bottom-line actors, tool-belief, condition reading, and survival.
 
 ## Contradictions
-- No direct contradiction with existing wiki content. The episode adds an earlier Jiangdong/Yuzhang branch before [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] and treats Zhang Jiao and Zhang Lu as comparators, not equivalents to Ze Rong.
+- No direct contradiction with existing wiki content. The episode adds an earlier Jiangdong/Yuzhang branch before [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|汉纪 996]] and treats Zhang Jiao and Zhang Lu as comparators, not equivalents to Ze Rong.

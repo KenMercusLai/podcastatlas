@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 159 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]]. It opens with a principles, rules, and bottom-line frame from [[MenciusText|《孟子》]] and [[XunziText|《荀子》]], then turns to [[FanPangLateHan|范滂]] as a young Runan talent recommended by [[HuangQiongLateHan|黄琼]] and sent as a Qingzhao envoy whose reputation makes corrupt officials abandon office.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 159 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]]. It opens with a principles, rules, and bottom-line frame from [[MenciusText|《孟子》]] and [[XunziText|《荀子》]], then turns to [[FanPangLateHan|范滂]] as a young Runan talent recommended by [[HuangQiongLateHan|黄琼]] and sent as a Qingzhao envoy whose reputation makes corrupt officials abandon office.
 
 The second half follows [[ChenFanLateHan|陈蕃]] recommending five reclusive scholars: [[XuZhiLateHan|徐稚]], [[JiangGongLateHan|姜公]], [[YuanHongLateHan|袁闳]], [[WeiZhuLateHan|韦著]], and [[LiTanLateHan|李昙]]. Their refusal of Huan's gifts and summons makes [[PrincipledOfficeRefusal|原则性拒仕]] the episode's durable contribution: capable scholars are not merely unavailable, but withholding service because court conditions have lost moral credibility.
 
@@ -46,6 +46,6 @@ The second half follows [[ChenFanLateHan|陈蕃]] recommending five reclusive sc
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source adds an earlier 159 CE layer before Hanji 850-854 and before the later Hanji 871-893 Fan Pang and Party Prohibition arc.
+- No settled contradiction with existing wiki pages was found. This source adds an earlier 159 CE layer before 汉纪 850-854 and before the later 汉纪 871-893 Fan Pang and Party Prohibition arc.
 - Scope caution: the title's Su Shi hook is not developed in the supplied episode body, so it is preserved in the source title but not promoted into a new [[SuShi|苏轼]] evidence claim.
 - Scope caution: 姜仲海, 姜季江, Chen Fan's unnamed earlier Xu Zhi appointment details, and minor gift wording are kept source-scoped unless later sources require independent pages.

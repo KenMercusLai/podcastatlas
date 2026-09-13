@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 158 CE frontier and court-pressure layer immediately before the Hanji 845-848 anti-[[LiangJiLateHan|Liang Ji]] sequence. Its practical frame is that durable advantage comes from solving the problem, reducing needless enemies, and leaving room for future relationships rather than winning a quarrel at maximum cost.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 158 CE frontier and court-pressure layer immediately before the 汉纪 845-848 anti-[[LiangJiLateHan|Liang Ji]] sequence. Its practical frame is that durable advantage comes from solving the problem, reducing needless enemies, and leaving room for future relationships rather than winning a quarrel at maximum cost.
 
 The historical core follows [[ZhangHuanLateHan|张奂]] calming a panicked camp, using envoys to split [[Wuhuan|乌桓]] from the [[SouthernXiongnu|南匈奴]] and Tuge side, and inducing the Xiongnu surrender. It then contrasts [[EmperorHuanOfHan|汉桓帝]]'s refusal to depose [[CheerChanyu|车儿]] with his failure to act on [[ChenGuiDuliaoGeneralLateHan|陈龟]]'s anti-Liang memorial, before closing with [[ZhongHaoLateHan|种暠]]'s trust-and-punishment governance of the Duliao frontier.
 
@@ -50,6 +50,6 @@ The historical core follows [[ZhangHuanLateHan|张奂]] calming a panicked camp,
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills 158 CE, earlier than the existing Hanji 845-848 Liang sequence, and changes chronological starting points rather than overturning later claims.
+- No settled contradiction with existing wiki pages was found. The episode backfills 158 CE, earlier than the existing 汉纪 845-848 Liang sequence, and changes chronological starting points rather than overturning later claims.
 - Name normalization: the transcript's 张焕, 陈归, 崇浩, 车尔, 左鹿黎王, and 赤巨 are normalized against the received Tongjian passage as 张奂, 陈龟, 种暠, 车儿, 左谷蠡王, and 赤坑. [[ChenGuiDuliaoGeneralLateHan|陈龟]] is kept distinct from [[ChenGui|陈珪]].
 - Scope caution: the opening relationship advice and the "立于不败" frame are preserved as podcast interpretation, not as an independent historical rule.

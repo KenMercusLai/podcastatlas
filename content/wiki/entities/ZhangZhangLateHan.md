@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 张璋 / Zhang Zhang (late Han)
 
-张璋 / Zhang Zhang (late Han) enters the wiki through [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] as the officer paired with [[WuKuangLateHan|吴匡]] outside the palace after [[HeJin|何进]] is killed. The source's role for him is narrow: he helps mark the armed crowd waiting outside while the eunuch faction controls palace access and information.
+张璋 / Zhang Zhang (late Han) enters the wiki through [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]] as the officer paired with [[WuKuangLateHan|吴匡]] outside the palace after [[HeJin|何进]] is killed. The source's role for him is narrow: he helps mark the armed crowd waiting outside while the eunuch faction controls palace access and information.
 
 His presence matters mainly because it shows how quickly He Jin's death becomes a troop-access problem. The gates are shut, the great general cannot answer, and outside officers move from uncertainty into force as [[YuanShu|袁术]] and Wu Kuang attack the palace gates.
 

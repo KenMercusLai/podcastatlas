@@ -15,9 +15,9 @@ Top-down exemplar governance is the pattern in which a leader, court, capital, o
 
 ## Current Synthesis
 
-Hanji 748 supplies an earlier Eastern Han case for the concept. [[EmpressMaMingdeEasternHan|Empress Ma]] makes austerity credible by living simply herself and by refusing to let her own [[MaFamilyZhangEraEasternHan|Ma family]] convert kinship into title, spending, tomb scale, or legal privilege. She also rewards plain royal relatives, so example-setting is not only private virtue but public signaling about which elite behavior should be imitated.
+汉纪 748 supplies an earlier Eastern Han case for the concept. [[EmpressMaMingdeEasternHan|Empress Ma]] makes austerity credible by living simply herself and by refusing to let her own [[MaFamilyZhangEraEasternHan|Ma family]] convert kinship into title, spending, tomb scale, or legal privilege. She also rewards plain royal relatives, so example-setting is not only private virtue but public signaling about which elite behavior should be imitated.
 
-Hanji 749 then names the broader mechanism through a modern management frame and another Eastern Han court case. The episode's management opening says bonuses can motivate temporarily but can also become expected pay, split teams, or misdirect effort if the reward stands alone. The better frame is to set rules, create exemplars, and have the senior layer embody the standard.
+汉纪 749 then names the broader mechanism through a modern management frame and another Eastern Han court case. The episode's management opening says bonuses can motivate temporarily but can also become expected pay, split teams, or misdirect effort if the reward stands alone. The better frame is to set rules, create exemplars, and have the senior layer embody the standard.
 
 Ma Liao's memorial to Empress Ma supplies the historical mechanism. Frugality orders from the court will not endure if the palace, royal relatives, capital officials, and elite households continue to display wealth. His examples of rulers' preferences becoming social imitation make the point that lower levels watch status signals more than slogans.
 
@@ -34,22 +34,22 @@ Fifth Lun's later criticism reinforces the same diagnosis from another angle. Ha
 
 ## Evidence
 
-- Frugal self-modeling: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] says Empress Ma lives austerely and contrasts her plain attendants and food with relatives' luxury.
-- Applying example to kin: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] records her refusal of Ma-family enfeoffment, allowance cuts, legal warning, and tomb correction.
-- Rewarding visible restraint: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] says she rewards the Guangping and Lecheng kings for plain retinues, turning correct elite conduct into a public model.
-- Management frame and leadership example: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] argues that bonuses alone can decay and that managers need rules, exemplars, and senior modeling.
-- Ma Liao's memorial: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Ma Liao warns Empress Ma that frugality orders require palace and capital elites to lead by example.
-- Imitation examples: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] cites ruler-preference anecdotes to show how elite tastes become lower-level conduct.
-- Fifth Lun's capital critique: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] has Fifth Lun criticize harsh officials and royal/in-law luxury as contradictions of the center's governing message.
+- Frugal self-modeling: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|汉纪 748]] says Empress Ma lives austerely and contrasts her plain attendants and food with relatives' luxury.
+- Applying example to kin: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|汉纪 748]] records her refusal of Ma-family enfeoffment, allowance cuts, legal warning, and tomb correction.
+- Rewarding visible restraint: [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|汉纪 748]] says she rewards the Guangping and Lecheng kings for plain retinues, turning correct elite conduct into a public model.
+- Management frame and leadership example: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] argues that bonuses alone can decay and that managers need rules, exemplars, and senior modeling.
+- Ma Liao's memorial: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] says Ma Liao warns Empress Ma that frugality orders require palace and capital elites to lead by example.
+- Imitation examples: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] cites ruler-preference anecdotes to show how elite tastes become lower-level conduct.
+- Fifth Lun's capital critique: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] has Fifth Lun criticize harsh officials and royal/in-law luxury as contradictions of the center's governing message.
 
 ## Counterevidence & Qualifications
 
-Hanji 749 does not prove that bonuses are never useful, only that money incentives are unstable when detached from rules, fairness, and example. The Eastern Han evidence also comes from elite political culture; the concept should be applied cautiously to modern workplaces because organizational measurement, pay systems, and labor markets differ. Hanji 748 and Hanji 749 both show Empress Ma using or accepting example-setting, but later Ma-family overexposure in Hanji 752 shows that exemplar governance requires ongoing enforcement after the original patron disappears.
+汉纪 749 does not prove that bonuses are never useful, only that money incentives are unstable when detached from rules, fairness, and example. The Eastern Han evidence also comes from elite political culture; the concept should be applied cautiously to modern workplaces because organizational measurement, pay systems, and labor markets differ. 汉纪 748 and 汉纪 749 both show Empress Ma using or accepting example-setting, but later Ma-family overexposure in 汉纪 752 shows that exemplar governance requires ongoing enforcement after the original patron disappears.
 
 ## What Changed
 
-- Added Hanji 748 as the earlier concrete case where Empress Ma models frugality and disciplines her own kin before expecting wider restraint.
-- Reframed Hanji 749 as the explicit management and Ma Liao memorial layer that names the mechanism.
+- Added 汉纪 748 as the earlier concrete case where Empress Ma models frugality and disciplines her own kin before expecting wider restraint.
+- Reframed 汉纪 749 as the explicit management and Ma Liao memorial layer that names the mechanism.
 - Connected exemplar governance more tightly to outer-relative restraint and household enforcement.
 
 ## Related Concepts

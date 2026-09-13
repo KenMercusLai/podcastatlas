@@ -14,9 +14,9 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 154-155 CE Huan-era layer immediately before [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]]. It opens with a source-scoped lesson about long-range vision, then connects disasters, famine, local revolt, and [[LiuTaoLateHan|刘陶 / 刘桃]]'s ignored Taixue remonstrance to a court that sees warning but does not repair itself.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 154-155 CE Huan-era layer immediately before [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|汉纪 841]]. It opens with a source-scoped lesson about long-range vision, then connects disasters, famine, local revolt, and [[LiuTaoLateHan|刘陶 / 刘桃]]'s ignored Taixue remonstrance to a court that sees warning but does not repair itself.
 
-The second half gives the fuller [[ZhangHuanLateHan|张奂]] frontier story that Hanji 841 later recalls through gift refusal. Zhang arrives with only 200 soldiers, separates the [[DongqiangLateHan|东羌]] from a [[SouthernXiongnu|南匈奴]] rebellion, wins back Qiang trust, and refuses horses and gold earrings from Qiang leaders; the host reads this as long-range authority rather than small-profit opportunism.
+The second half gives the fuller [[ZhangHuanLateHan|张奂]] frontier story that 汉纪 841 later recalls through gift refusal. Zhang arrives with only 200 soldiers, separates the [[DongqiangLateHan|东羌]] from a [[SouthernXiongnu|南匈奴]] rebellion, wins back Qiang trust, and refuses horses and gold earrings from Qiang leaders; the host reads this as long-range authority rather than small-profit opportunism.
 
 ## Key Claims
 
@@ -45,11 +45,11 @@ The second half gives the fuller [[ZhangHuanLateHan|张奂]] frontier story that
 - [[ZhuMuLateHan|朱穆]] and [[LiYingLateHan|李膺]] - officials Liu Tao recommends as clean, upright state-capacity figures.
 - [[HuGuangLateHan|胡广]] and [[HuangQiongLateHan|黄琼]] - high-office turnover in the same Huan-era background.
 - [[ZhangHuanLateHan|张奂]], [[DongqiangLateHan|东羌]], [[SouthernXiongnu|南匈奴]], [[GiftRefusalAsAuthority|拒礼立威]], [[CoalitionFractureExploitation|联盟裂缝利用]], and [[RootCausePacification|查因安抚式治理]] - frontier split, victory, gift refusal, and trust repair.
-- [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]], [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]], and [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] - immediate later notes that develop the gift-refusal, Liu Tao poverty-remonstrance, and Zhang Huan frontier-command branches.
+- [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|汉纪 841]], [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|汉纪 843]], and [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|汉纪 844]] - immediate later notes that develop the gift-refusal, Liu Tao poverty-remonstrance, and Zhang Huan frontier-command branches.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the fuller 154-155 CE setup before Hanji 841's gift-refusal recap, Hanji 843's later Liu Tao poverty memorial, and Hanji 844's 158 CE Zhang Huan frontier operation.
-- Chronology caution: Hanji 841 previously supplied the earliest current Zhang Huan gift-refusal evidence, but Hanji 840 now provides the fuller event; this changes the provenance sequence rather than overturning the claim.
+- No settled contradiction with existing wiki pages was found. This source backfills the fuller 154-155 CE setup before 汉纪 841's gift-refusal recap, 汉纪 843's later Liu Tao poverty memorial, and 汉纪 844's 158 CE Zhang Huan frontier operation.
+- Chronology caution: 汉纪 841 previously supplied the earliest current Zhang Huan gift-refusal evidence, but 汉纪 840 now provides the fuller event; this changes the provenance sequence rather than overturning the claim.
 - Transcript normalization: 张焕/张宦 is normalized to [[ZhangHuanLateHan|张奂]], and 刘桃 is linked to [[LiuTaoLateHan|刘陶 / 刘桃]] because the roles and surrounding late-Han sequence match established pages.
 - Scope caution: names and offices rendered unstably in the transcript, including some rebel leaders, place names, and office transitions, are kept source-scoped unless another source note gives stronger disambiguation.

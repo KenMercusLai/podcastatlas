@@ -10,11 +10,11 @@ last_updated: 2026-09-13
 
 ## Overview
 
-淮阳王刘钦 / Liu Qin enters the wiki through [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] as [[EmperorXuanOfHan|汉宣帝]]'s second son and the alternative heir Xuan considers when he becomes dissatisfied with crown prince [[HanYuandi|刘奭 / 汉元帝]].
+淮阳王刘钦 / Liu Qin enters the wiki through [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] as [[EmperorXuanOfHan|汉宣帝]]'s second son and the alternative heir Xuan considers when he becomes dissatisfied with crown prince [[HanYuandi|刘奭 / 汉元帝]].
 
 ## Current Profile
 
-The current profile is source-bounded to one succession scene. Hanji 459 presents Liu Qin as closer to Xuan's governing temperament than Liu Shi: he likes legal learning, is described as intelligent and capable, and is repeatedly praised by Xuan as "most like me." His mother Zhang Jieyu is named as a consort with enough status that she had once been a serious empress candidate after [[XuPingjunWesternHan|许平君]] and Huo Chengjun.
+The current profile is source-bounded to one succession scene. 汉纪 459 presents Liu Qin as closer to Xuan's governing temperament than Liu Shi: he likes legal learning, is described as intelligent and capable, and is repeatedly praised by Xuan as "most like me." His mother Zhang Jieyu is named as a consort with enough status that she had once been a serious empress candidate after [[XuPingjunWesternHan|许平君]] and Huo Chengjun.
 
 Liu Qin's significance is therefore structural rather than biographical. He is the plausible alternative who makes Xuan's dissatisfaction with Liu Shi politically real. Yet the episode's outcome is restraint: Xuan does not replace the established crown prince, and later appoints [[WeiXuanchengWesternHan|韦玄成]] to Huaiyang in a gesture the host reads as moral-political instruction for Liu Qin to keep his place.
 
@@ -29,20 +29,20 @@ Liu Qin's significance is therefore structural rather than biographical. He is t
 ## Evidence
 
 Alternative-heir appeal:
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Xuan considered Liu Qin after becoming angry with Liu Shi's Confucian-leaning criticism of刑法.
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Liu Qin liked legal study, was clever and capable, and was repeatedly described by Xuan as most like himself.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Xuan considered Liu Qin after becoming angry with Liu Shi's Confucian-leaning criticism of刑法.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Liu Qin liked legal study, was clever and capable, and was repeatedly described by Xuan as most like himself.
 
 Containment and instruction:
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Xuan ultimately abandons the plan to replace the crown prince.
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Xuan appoints Wei Xuancheng to Huaiyang, which the host interprets as a signal meant to educate Liu Qin through Wei's elder-brother-yielding reputation.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Xuan ultimately abandons the plan to replace the crown prince.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Xuan appoints Wei Xuancheng to Huaiyang, which the host interprets as a signal meant to educate Liu Qin through Wei's elder-brother-yielding reputation.
 
 ## Qualifications
 
-This page is bounded to Hanji 459. It does not reconstruct Liu Qin's full life, later title history, household, descendants, or independent political activity. Zhang Jieyu is kept source-scoped unless future notes give her enough evidence for a separate page. The page intentionally distinguishes Liu Qin from [[LiuQingHuaiyangKingWesternHan|淮阳王刘清]], the later Yuan-era royal-kin figure in the Jing Fang case.
+This page is bounded to 汉纪 459. It does not reconstruct Liu Qin's full life, later title history, household, descendants, or independent political activity. Zhang Jieyu is kept source-scoped unless future notes give her enough evidence for a separate page. The page intentionally distinguishes Liu Qin from [[LiuQingHuaiyangKingWesternHan|淮阳王刘清]], the later Yuan-era royal-kin figure in the Jing Fang case.
 
 ## What Changed
 
-- Created the page from Hanji 459 as Xuan's plausible but unrealized alternative heir to Liu Shi.
+- Created the page from 汉纪 459 as Xuan's plausible but unrealized alternative heir to Liu Shi.
 
 ## Relationships
 

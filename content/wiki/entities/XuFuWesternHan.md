@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-徐福 / Xu Fu enters the Western Han branch through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] as the Maoling man who repeatedly warns [[EmperorXuanOfHan|汉宣帝]] to restrain the Huo family before its arrogance becomes rebellion. This page is deliberately disambiguated from [[XuFu|徐福]] the Qin sea-voyage fangshi and [[XuFuPhysiognomist|许负]] the physiognomist.
+徐福 / Xu Fu enters the Western Han branch through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] as the Maoling man who repeatedly warns [[EmperorXuanOfHan|汉宣帝]] to restrain the Huo family before its arrogance becomes rebellion. This page is deliberately disambiguated from [[XuFu|徐福]] the Qin sea-voyage fangshi and [[XuFuPhysiognomist|许负]] the physiognomist.
 
 ## Current Profile
 
@@ -29,20 +29,20 @@ Xu Fu becomes memorable through the "曲突徙薪" analogy. A petitioner compare
 ## Evidence
 
 Preventive warning:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xu Fu warns that Huo luxury and indulgence will produce arrogance, offense against the ruler, and grave disobedience.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says he submits three memorials urging Xuan to restrain the Huo family.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Xu Fu warns that Huo luxury and indulgence will produce arrogance, offense against the ruler, and grave disobedience.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says he submits three memorials urging Xuan to restrain the Huo family.
 
 Delayed recognition:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xuan rewards Zhang Zhang, Dong Zhong, Yang Yun, Jin Anshang, Shi Gao, and others for exposing the conspiracy but initially leaves Xu Fu unmentioned.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xuan later grants Xu Fu silk and makes him a lang official after the "曲突徙薪" argument is presented.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Xuan rewards Zhang Zhang, Dong Zhong, Yang Yun, Jin Anshang, Shi Gao, and others for exposing the conspiracy but initially leaves Xu Fu unmentioned.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Xuan later grants Xu Fu silk and makes him a lang official after the "曲突徙薪" argument is presented.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 424. It does not supply Xu Fu's full biography, offices before the episode, text of the three memorials, or later career. The route name is disambiguated to prevent collision with other Xu Fu pages.
+This page is source-scoped to 汉纪 424. It does not supply Xu Fu's full biography, offices before the episode, text of the three memorials, or later career. The route name is disambiguated to prevent collision with other Xu Fu pages.
 
 ## What Changed
 
-- Created a disambiguated Western Han Xu Fu page for Hanji 424's preventive-risk advice.
+- Created a disambiguated Western Han Xu Fu page for 汉纪 424's preventive-risk advice.
 
 ## Relationships
 

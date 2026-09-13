@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # Merit Concealment Self-Protection
 
-Merit concealment self-protection is the pattern in which a person survives because dangerous public credit does not attach to them. [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] uses [[ShiSunRuiLateHan|Shi Sunrui]] as the clean case: he participates in the anti-[[DongZhuo|Dong Zhuo]] action, but [[WangYunLateHan|Wang Yun]] absorbs public credit and Shi Sunrui does not enforce his reward claim. [[SimaGuang|Sima Guang]]'s judgment, "有功不伐，以保其身," turns non-boasting into a survival mechanism rather than a personality trait.
+Merit concealment self-protection is the pattern in which a person survives because dangerous public credit does not attach to them. [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|汉纪 967]] uses [[ShiSunRuiLateHan|Shi Sunrui]] as the clean case: he participates in the anti-[[DongZhuo|Dong Zhuo]] action, but [[WangYunLateHan|Wang Yun]] absorbs public credit and Shi Sunrui does not enforce his reward claim. [[SimaGuang|Sima Guang]]'s judgment, "有功不伐，以保其身," turns non-boasting into a survival mechanism rather than a personality trait.
 
 The concept differs from [[GreedPersonaSelfProtection]], where a person performs material appetite to reduce suspicion, and from [[PublicDisavowalSelfProtection]], where a person openly distances himself from a dangerous alliance. Here, the protection comes from letting the political system fail to publicize one's merit, especially after a regime-killing act that can provoke revenge against a whole clan.
 

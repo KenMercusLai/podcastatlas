@@ -10,11 +10,11 @@ last_updated: 2026-09-02
 
 ## Overview
 
-铜马军 / Tongma Rebel Army (Eastern Han) is a Hebei armed force whose current wiki role is source-bounded to the post-[[WangLangHebeiClaimant|王郎]] consolidation field. [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] presents Tongma as one of the forces [[GengYanEasternHan|耿弇]] cites to argue that [[LiuXuanGengshiEmperor|刘玄]] cannot pacify the realm, then follows [[LiuXiu|刘秀]] defeating, rewarding, and incorporating Tongma-linked surrendered troops through a [[PersonalRiskTrustSignal|personal-risk trust signal]].
+铜马军 / Tongma Rebel Army (Eastern Han) is a Hebei armed force whose current wiki role is source-bounded to the post-[[WangLangHebeiClaimant|王郎]] consolidation field. [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] presents Tongma as one of the forces [[GengYanEasternHan|耿弇]] cites to argue that [[LiuXuanGengshiEmperor|刘玄]] cannot pacify the realm, then follows [[LiuXiu|刘秀]] defeating, rewarding, and incorporating Tongma-linked surrendered troops through a [[PersonalRiskTrustSignal|personal-risk trust signal]].
 
 ## Current Profile
 
-Hanji 673 places Tongma in the unsettled Hebei field after Wang Lang's fall. Geng Yan tells Liu Xiu that Tongma, [[ChimeiRebellion|Chimei]], and other forces are still large and militarily dangerous, so the army should not demobilize or return to Gengshi control.
+汉纪 673 places Tongma in the unsettled Hebei field after Wang Lang's fall. Geng Yan tells Liu Xiu that Tongma, [[ChimeiRebellion|Chimei]], and other forces are still large and militarily dangerous, so the army should not demobilize or return to Gengshi control.
 
 The campaign sequence is not a simple single battle in the current evidence. Liu Xiu fights the Tongma army at Xiao county, then pursues it to Guantao after food shortage drives a night flight. Gaohu and Chonglian-linked troops join the remaining Tongma force, Liu Xiu adjusts and wins again at Puyang, and the combined forces surrender.
 
@@ -30,10 +30,10 @@ The surrender aftermath is the reason Tongma matters as more than a rebel-force 
 
 ## Evidence
 
-- Strategic weight in Hebei: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] says Geng Yan uses Tongma and Chimei to argue that Liu Xuan cannot settle the realm and that Liu Xiu should not demobilize.
-- Defeat and surrender sequence: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] records Liu Xiu fighting Tongma at Xiao county, pursuing to Guantao, facing joined Gaohu and Chonglian forces, winning at Puyang, and receiving full surrender.
-- Reward plus unresolved fear: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] says Liu Xiu enfeoffs surrendered leaders while both his own commanders and the surrendered commanders continue to doubt the settlement.
-- Personal-risk incorporation: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] says Liu Xiu sends the surrendered commanders back to organize their camps and rides alone through the surrendered units, after which the soldiers accept him and his army exceeds 100,000.
+- Strategic weight in Hebei: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] says Geng Yan uses Tongma and Chimei to argue that Liu Xuan cannot settle the realm and that Liu Xiu should not demobilize.
+- Defeat and surrender sequence: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] records Liu Xiu fighting Tongma at Xiao county, pursuing to Guantao, facing joined Gaohu and Chonglian forces, winning at Puyang, and receiving full surrender.
+- Reward plus unresolved fear: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] says Liu Xiu enfeoffs surrendered leaders while both his own commanders and the surrendered commanders continue to doubt the settlement.
+- Personal-risk incorporation: [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] says Liu Xiu sends the surrendered commanders back to organize their camps and rides alone through the surrendered units, after which the soldiers accept him and his army exceeds 100,000.
 
 ## Qualifications
 

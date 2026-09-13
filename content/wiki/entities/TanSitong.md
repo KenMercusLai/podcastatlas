@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Tan Sitong enters this wiki through Hanji 895 as the later Qing reformer whose prison poem rereads [[ZhangJianLateHan|张俭]] and [[DuGenLateHan|杜根]] as paired examples of flight and steadfastness under persecution.
+Tan Sitong enters this wiki through 汉纪 895 as the later Qing reformer whose prison poem rereads [[ZhangJianLateHan|张俭]] and [[DuGenLateHan|杜根]] as paired examples of flight and steadfastness under persecution.
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ The current source uses Tan Sitong as reception rather than as a full biography.
 
 ## Evidence
 
-- Poetic reception: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] cites Tan Sitong's prison poem and its references to Zhang Jian and Du Gen.
-- Ethical pairing: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] uses the poem to connect "go" and "stay" choices after explaining both Zhang Jian's and Du Gen's survival paths.
-- Historical-memory role: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] places the poem after the Kong-family and Xia Fu sections, so Tan Sitong functions as a later interpretive layer rather than an event participant.
+- Poetic reception: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] cites Tan Sitong's prison poem and its references to Zhang Jian and Du Gen.
+- Ethical pairing: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] uses the poem to connect "go" and "stay" choices after explaining both Zhang Jian's and Du Gen's survival paths.
+- Historical-memory role: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] places the poem after the Kong-family and Xia Fu sections, so Tan Sitong functions as a later interpretive layer rather than an event participant.
 
 ## Qualifications
 
-This page is intentionally narrow. It records Tan Sitong only as he appears in Hanji 895's reception frame and does not yet cover the full Wuxu Reform, Qing execution context, or his writings beyond the cited prison-poem allusion.
+This page is intentionally narrow. It records Tan Sitong only as he appears in 汉纪 895's reception frame and does not yet cover the full Wuxu Reform, Qing execution context, or his writings beyond the cited prison-poem allusion.
 
 ## What Changed
 
-- Initial page created from Hanji 895's use of Tan Sitong as a later political-persecution memory bridge.
+- Initial page created from 汉纪 895's use of Tan Sitong as a later political-persecution memory bridge.
 
 ## Relationships
 

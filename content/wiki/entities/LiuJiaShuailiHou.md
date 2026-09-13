@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-刘嘉 / Liu Jia enters the wiki through [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] as a distant Liu-family relative of [[LiuChongAnzhongMarquis|安众侯刘崇]] who survives the failed rising by surrendering and presenting a loyalist petition to [[WangMang|王莽]].
+刘嘉 / Liu Jia enters the wiki through [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] as a distant Liu-family relative of [[LiuChongAnzhongMarquis|安众侯刘崇]] who survives the failed rising by surrendering and presenting a loyalist petition to [[WangMang|王莽]].
 
 ## Current Profile
 
@@ -28,17 +28,17 @@ The result is reward rather than punishment. Wang Mang makes Liu Jia Shuaili Hou
 
 ## Evidence
 
-- Fear and surrender: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Liu Jia and Zhang Song surrender because they fear implication after Liu Chong's failure.
-- Petitionary denunciation: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Zhang Song writes a memorial in Liu Jia's orbit praising Wang Mang and condemning Liu Chong.
-- Reward: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Wang Mang titles Liu Jia Shuaili Hou and makes his seven sons Guannei marquises.
+- Fear and surrender: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Liu Jia and Zhang Song surrender because they fear implication after Liu Chong's failure.
+- Petitionary denunciation: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Zhang Song writes a memorial in Liu Jia's orbit praising Wang Mang and condemning Liu Chong.
+- Reward: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Wang Mang titles Liu Jia Shuaili Hou and makes his seven sons Guannei marquises.
 
 ## Qualifications
 
-This page is bounded to Hanji 629. It does not reconstruct Liu Jia's full genealogy, prior title status, or later career. It is deliberately disambiguated from [[LiuJia|刘贾]], the Chu-Han and early Western Han figure, and [[LiuJiaHanzhongKingEasternHan|汉中王刘嘉]] of the Guangwu-era Hanzhong field.
+This page is bounded to 汉纪 629. It does not reconstruct Liu Jia's full genealogy, prior title status, or later career. It is deliberately disambiguated from [[LiuJia|刘贾]], the Chu-Han and early Western Han figure, and [[LiuJiaHanzhongKingEasternHan|汉中王刘嘉]] of the Guangwu-era Hanzhong field.
 
 ## What Changed
 
-- Created from Hanji 629 as a Liu-family survivor who gains reward by publicly separating from Liu Chong's rebellion.
+- Created from 汉纪 629 as a Liu-family survivor who gains reward by publicly separating from Liu Chong's rebellion.
 
 ## Relationships
 

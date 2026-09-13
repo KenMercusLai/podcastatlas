@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 166 CE social and political substrate before the first Party Prohibition arc in Hanji 872-877. It follows the [[ZhouFuLateHan|周福]] and [[FangZhiLateHan|房植]] rivalry at Ganling, [[FanPangLateHan|范滂]] and [[CenZhiLateHan|岑晊]] as entrusted commandery aides, [[GuoTaiLateHan|郭泰]] and [[JiaBiaoLateHan|贾彪]] as Taixue reputation leaders, and the cases where [[ChengJinLateHan|成瑨]] and [[LiuZhiTaiyuanLateHan|刘质]] punish eunuch-protected offenders but are themselves imprisoned.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 166 CE social and political substrate before the first Party Prohibition arc in 汉纪 872-877. It follows the [[ZhouFuLateHan|周福]] and [[FangZhiLateHan|房植]] rivalry at Ganling, [[FanPangLateHan|范滂]] and [[CenZhiLateHan|岑晊]] as entrusted commandery aides, [[GuoTaiLateHan|郭泰]] and [[JiaBiaoLateHan|贾彪]] as Taixue reputation leaders, and the cases where [[ChengJinLateHan|成瑨]] and [[LiuZhiTaiyuanLateHan|刘质]] punish eunuch-protected offenders but are themselves imprisoned.
 
 The episode's core contribution is that late-Han public opinion and local enforcement are already entangled before formal party accusations. Local moral discipline, Taixue praise-and-blame, and eunuch-protected complaint channels together create the precondition for [[QingyiReputationPressure|清议声誉压力]], [[PartyNetworkTreasonFraming|朋党网络谋反化]], and [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]].
 
@@ -43,10 +43,10 @@ The episode's core contribution is that late-Han public opinion and local enforc
 - [[GuoTaiLateHan|郭泰]], [[JiaBiaoLateHan|贾彪]], [[Taixue|太学]], and [[QingyiReputationPressure|清议声誉压力]] - student and scholar networks turn public evaluation into political pressure.
 - [[ZhangFanWanLateHan|张汎]], [[ZhaoJinLateHan|赵津]], [[LiuZhiTaiyuanLateHan|刘质]], and [[WangYunLateHan|王允]] - local abuses by protected actors are punished before the enforcement rebound.
 - [[HouLanLateHan|侯览]], [[ZhangJianLateHan|张俭]], [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - eunuch access converts local grievance into court retaliation.
-- [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]], [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]], and [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] - immediate downstream enforcement, remonstrance, and prison-death aftermath.
+- [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]], [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|汉纪 873]], and [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] - immediate downstream enforcement, remonstrance, and prison-death aftermath.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills the setup before the Hanji 872-877 Party Prohibition sequence.
-- Outcome caution: this source closes on the immediate imprisonment and accusation field, while Hanji 873 and Hanji 874 preserve the case as a later injustice ending in the prison deaths of Cheng Jin and Liu Zhi. The wiki treats Hanji 871 as the setup layer, not the final outcome.
+- No settled contradiction with existing wiki pages was found. The episode backfills the setup before the 汉纪 872-877 Party Prohibition sequence.
+- Outcome caution: this source closes on the immediate imprisonment and accusation field, while 汉纪 873 and 汉纪 874 preserve the case as a later injustice ending in the prison deaths of Cheng Jin and Liu Zhi. The wiki treats 汉纪 871 as the setup layer, not the final outcome.
 - Transcript normalization: 周福, 房植, 范滂, 岑晊, 成瑨, 张汎, 张牧, 赵津, 刘质, 宗资, 李颂, 朱零, 唐衡, and 张俭 are normalized from the episode transcript using the surrounding Zizhi Tongjian sequence.

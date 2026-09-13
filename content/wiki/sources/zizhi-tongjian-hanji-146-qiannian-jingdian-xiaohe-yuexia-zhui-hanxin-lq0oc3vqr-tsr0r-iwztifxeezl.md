@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》146｜千年经典：萧何月下追韩信
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[HanXin|韩信]] branch after [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] by moving him from latent talent into [[LiuBang|刘邦]]'s command system. It follows Han Xin from [[XiangLiang|项梁]] and [[XiangYu|项羽]] through minor office, near execution, [[XiahouYing|夏侯婴]]'s first notice, [[XiaoHe|萧何]]'s stronger recognition, and the famous pursuit after Han Xin flees [[Nanzheng|南郑]]. The episode's main contribution is [[RitualizedCommandAppointment|仪式化拜将留才]]: Xiao He argues that if Liu Bang truly wants the empire rather than a confined Han kingship, Han Xin must receive public, ceremonial command authority.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[HanXin|韩信]] branch after [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|汉纪 145 part 2]] by moving him from latent talent into [[LiuBang|刘邦]]'s command system. It follows Han Xin from [[XiangLiang|项梁]] and [[XiangYu|项羽]] through minor office, near execution, [[XiahouYing|夏侯婴]]'s first notice, [[XiaoHe|萧何]]'s stronger recognition, and the famous pursuit after Han Xin flees [[Nanzheng|南郑]]. The episode's main contribution is [[RitualizedCommandAppointment|仪式化拜将留才]]: Xiao He argues that if Liu Bang truly wants the empire rather than a confined Han kingship, Han Xin must receive public, ceremonial command authority.
 
 ## Key Claims
 - Han Xin's earlier [[GreatCourageUnderHumiliation|忍辱大勇]] setup now becomes a career problem: his strategic preparation is real, but neither Xiang Yu nor Liu Bang initially gives him a matching role.
@@ -39,7 +39,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 - [[XiahouYing|夏侯婴]], [[PrivateAccessTalentChannel|私人进身通道]], and [[TalentReferralQuality|荐才层级质量]] - first recognition channel and stronger recommender judgment.
 - [[Nanzheng|南郑]], [[Hanzhong|汉中]], [[BaShu|巴蜀]], [[StrategicRetreatBaseBuilding|退让式根据地经营]], and [[GuanzhongRegion|关中]] - confined base, morale pressure, and the future return route.
 - [[RitualizedCommandAppointment|仪式化拜将留才]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[PowerEtiquetteReading|权力礼仪细读]] - appointment ceremony as a public signal of seriousness and authority.
-- [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|Hanji 145 part 1]] and [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] - prior early-biography and restraint setup.
+- [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-1-lj7u4nluimuzapgqhl-hrfx-dqce|汉纪 145 part 1]] and [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|汉纪 145 part 2]] - prior early-biography and restraint setup.
 
 ## Contradictions
 - No settled contradiction is recorded. The episode adds source-scoped inferences about Han Xin's likely advice to Xiang Yu and the possible motive behind his military-law incident; the wiki keeps those separate from directly attested claims.

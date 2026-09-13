@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-五鹿充宗 / Wulu Chongzong enters the wiki through [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] as one of the favored figures [[JingFang|京房]] sees as aligned with [[ShiXianWesternHan|石显]] and opposed to [[KaogongfaReformBacklash|kaogong]] assessment.
+五鹿充宗 / Wulu Chongzong enters the wiki through [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] as one of the favored figures [[JingFang|京房]] sees as aligned with [[ShiXianWesternHan|石显]] and opposed to [[KaogongfaReformBacklash|kaogong]] assessment.
 
 ## Current Profile
 
@@ -24,11 +24,11 @@ The episode uses Wulu Chongzong as part of Jing Fang's diagnosis of the Yuan-era
 
 ## Evidence
 
-- Interest-field role: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]] says Jing Fang believes Shi Xian and Wulu Chongzong have held favor for years and do not want kaogong implemented.
+- Interest-field role: [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]] says Jing Fang believes Shi Xian and Wulu Chongzong have held favor for years and do not want kaogong implemented.
 
 ## Qualifications
 
-This page is bounded to Hanji 488. It does not reconstruct Wulu Chongzong's full career, offices, scholarship, faction, or direct role in Jing Fang's prosecution.
+This page is bounded to 汉纪 488. It does not reconstruct Wulu Chongzong's full career, offices, scholarship, faction, or direct role in Jing Fang's prosecution.
 
 ## What Changed
 

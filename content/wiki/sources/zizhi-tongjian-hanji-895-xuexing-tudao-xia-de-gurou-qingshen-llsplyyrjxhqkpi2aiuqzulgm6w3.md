@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 169 CE party-prohibition branch immediately before [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]]. [[ZhangJianLateHan|张俭]] flees to the home of [[KongBaoLateHan|孔褒]], where sixteen-year-old [[KongRong|孔融]] shelters him; after Zhang escapes, Kong Bao, Kong Rong, and [[KongRongMother|孔融母]] compete to assume the capital charge.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 169 CE party-prohibition branch immediately before [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|汉纪 896]]. [[ZhangJianLateHan|张俭]] flees to the home of [[KongBaoLateHan|孔褒]], where sixteen-year-old [[KongRong|孔融]] shelters him; after Zhang escapes, Kong Bao, Kong Rong, and [[KongRongMother|孔融母]] compete to assume the capital charge.
 
 The episode's core synthesis is that political persecution turns rescue, friendship, and kinship into a [[FugitiveShelterCollateralRisk|fugitive-shelter collateral risk]]. The Kong family makes that risk morally radiant through mutual self-sacrifice, while [[XiaFuLateHan|夏馥]] and [[DuGenLateHan|杜根]] supply the darker counterpoint: survival flight can drag helpers into danger, so withdrawal and non-contact may also be ethical choices.
 
@@ -49,6 +49,6 @@ The episode's core synthesis is that political persecution turns rescue, friends
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills an earlier party-prohibition layer before Hanji 896's Chen Shi, He Yong, Yuan Hong, and Shentu Pan survival cases.
+- No settled contradiction with existing wiki pages was found. This source backfills an earlier party-prohibition layer before 汉纪 896's Chen Shi, He Yong, Yuan Hong, and Shentu Pan survival cases.
 - Transcript normalization: the raw note renders several names as 张简, 孔包, and 下父; the wiki normalizes the historical late-Han figures as [[ZhangJianLateHan|张俭]], [[KongBaoLateHan|孔褒]], and [[XiaFuLateHan|夏馥]] while preserving the source-scoped variant issue.
 - Scope caution: the episode is short and does not fully explain why Zhang Jian was pursued or the wider procedural history of the party-prohibition case, so those details remain source-scoped.

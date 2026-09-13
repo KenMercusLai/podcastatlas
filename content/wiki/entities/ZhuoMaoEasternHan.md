@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 
 ## Overview
 
-卓茂 / Zhuo Mao is an elder official whom [[LiuXiu|Liu Xiu]] elevates in Jianwu 1 as a moral exemplar for the new Eastern Han order. [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] makes him less a policy designer than a public signal: Liu Xiu searches for a famously humane official, appoints him Taifu, and enfeoffs him as Baode Marquis to teach officials by honoring visible goodness.
+卓茂 / Zhuo Mao is an elder official whom [[LiuXiu|Liu Xiu]] elevates in Jianwu 1 as a moral exemplar for the new Eastern Han order. [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] makes him less a policy designer than a public signal: Liu Xiu searches for a famously humane official, appoints him Taifu, and enfeoffs him as Baode Marquis to teach officials by honoring visible goodness.
 
 ## Current Profile
 
@@ -30,19 +30,19 @@ Under Wang Mang, Zhuo Mao resigns and does not serve. After Liu Xiu becomes empe
 
 ## Evidence
 
-- Reputation and age: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Zhuo Mao is already very old when Liu Xiu seeks him out, with a long reputation for avoiding disputes.
-- Mixian governance: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Zhuo Mao's county service uses benevolence and kindness to improve local customs.
-- Gift-dispute handling: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] uses the horse-and-ox feeding case to show careful judgment around voluntary action.
-- Refusal under Wang Mang: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Zhuo Mao resigns after Wang Mang takes power.
-- Guangwu appointment: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Liu Xiu appoints Zhuo Mao Taifu and Baode Marquis in Jianwu 1.
+- Reputation and age: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] says Zhuo Mao is already very old when Liu Xiu seeks him out, with a long reputation for avoiding disputes.
+- Mixian governance: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] says Zhuo Mao's county service uses benevolence and kindness to improve local customs.
+- Gift-dispute handling: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] uses the horse-and-ox feeding case to show careful judgment around voluntary action.
+- Refusal under Wang Mang: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] says Zhuo Mao resigns after Wang Mang takes power.
+- Guangwu appointment: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] says Liu Xiu appoints Zhuo Mao Taifu and Baode Marquis in Jianwu 1.
 
 ## Qualifications
 
-This page is bounded to Hanji 679. It does not reconstruct Zhuo Mao's complete Western Han or Wang Mang-era offices, and it treats the Mixian anecdotes as source-provided evidence for reputation rather than a full administrative archive. The source supports a virtue-signal reading of Liu Xiu's appointment, but not the claim that Zhuo Mao personally designed early Eastern Han institutions.
+This page is bounded to 汉纪 679. It does not reconstruct Zhuo Mao's complete Western Han or Wang Mang-era offices, and it treats the Mixian anecdotes as source-provided evidence for reputation rather than a full administrative archive. The source supports a virtue-signal reading of Liu Xiu's appointment, but not the claim that Zhuo Mao personally designed early Eastern Han institutions.
 
 ## What Changed
 
-- Created this page from Hanji 679's Zhuo Mao appointment and humane-official branch.
+- Created this page from 汉纪 679's Zhuo Mao appointment and humane-official branch.
 - Framed Zhuo Mao as a public virtue exemplar within Liu Xiu's first-year legitimacy work.
 
 ## Relationships

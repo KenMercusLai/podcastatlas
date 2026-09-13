@@ -54,6 +54,6 @@ The episode then traces how Liang Ji forces court consensus, how [[LiGuLateHan]]
 - [[CourtFeedbackCollapse]] - principled objections and warnings fail to affect the decision channel.
 
 ## Contradictions
-- No settled contradiction with existing wiki pages. The episode supplies an earlier 146 CE layer for later Hanji 829-830 conflicts around Li Gu, Du Qiao, Liu Suan, and Liang Ji.
+- No settled contradiction with existing wiki pages. The episode supplies an earlier 146 CE layer for later 汉纪 829-830 conflicts around Li Gu, Du Qiao, Liu Suan, and Liang Ji.
 - The source's "崇浩" recommendation is normalized cautiously to the existing [[ZhongHaoLateHan|种暠 / Zhong Hao]] page where linked; Luan Ba, Zhao Jie, Yuan Tang, Liu Kai, Lady Zhao, Liu Yi, and Lady Yan remain source-scoped unless later sources justify standalone canonical pages.
 - Teng Fu is kept distinct from [[TengYanLateHan]]; this source describes a separate official whose conflict turns on eunuch hostility and missed reward for anti-bandit merit.

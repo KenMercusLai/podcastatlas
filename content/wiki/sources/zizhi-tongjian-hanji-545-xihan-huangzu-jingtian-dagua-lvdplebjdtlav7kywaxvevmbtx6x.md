@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 4 / 13 BCE and Yuan延 1 / 12 BCE under [[HanChengdi|汉成帝]], between [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] and [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|Hanji 546]]. It first links drought, fires, and eclipse anxiety to [[WangShangWesternHan|王商]]'s removal, then centers [[LiuLiWesternHan|梁王刘立]]'s scandal case and [[GuYongWesternHan|谷永]]'s procedural defense against a "禽兽行" capital charge.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 4 / 13 BCE and Yuan延 1 / 12 BCE under [[HanChengdi|汉成帝]], between [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|汉纪 544]] and [[zizhi-tongjian-hanji-546-haoyou-bianwei-choudi-neng-you-duo-kepa-lrtypxhdqvzkme_rgesxwoiv1asv|汉纪 546]]. It first links drought, fires, and eclipse anxiety to [[WangShangWesternHan|王商]]'s removal, then centers [[LiuLiWesternHan|梁王刘立]]'s scandal case and [[GuYongWesternHan|谷永]]'s procedural defense against a "禽兽行" capital charge.
 
 The durable synthesis is that palace and royal-house scandal becomes politically dangerous when disaster pressure, outer-relative speech, kinship taboo, and prosecutorial expansion align. Gu Yong does not simply deny moral danger; he argues that the initial report against Liu Li failed, that private sexual allegations are hard to verify, that coerced or confused testimony can create a false public disgrace, and that [[HanChengdi|Chengdi]] should preserve royal-house trust through careful review rather than spectacular punishment.
 
@@ -28,7 +28,7 @@ The durable synthesis is that palace and royal-house scandal becomes politically
 - Chengdi accepts the defense enough to suppress the Liang king case and forbid punishment.
 - He Wu is appointed Jingzhao Yin in the same year and is praised as a law-abiding official remembered by local people after leaving office.
 - Yuan延 1 renews disaster pressure through eclipse, thunder, meteor, and constellation anomalies; Wang Shang's restoration suggests the earlier omen blame against him was politically contingent.
-- The closing notice introduces the later [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]] "燕啄皇孙" accusation field developed in later Hanji 571-574 notes.
+- The closing notice introduces the later [[ZhaoFeiyanWesternHan|赵飞燕]] and [[ZhaoHedeWesternHan|赵合德]] "燕啄皇孙" accusation field developed in later 汉纪 571-574 notes.
 
 ## Key Quotes
 
@@ -47,5 +47,5 @@ The durable synthesis is that palace and royal-house scandal becomes politically
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Name normalization: the source names the Liang king as 刘立. Existing wiki material had a Liang king page under 刘丽 / Liu Li from Hanji 624 and later notes; this ingest treats 刘立 as the corrected/primary form while preserving the late-Wang-Mang accusation as source-scoped.
+- Name normalization: the source names the Liang king as 刘立. Existing wiki material had a Liang king page under 刘丽 / Liu Li from 汉纪 624 and later notes; this ingest treats 刘立 as the corrected/primary form while preserving the late-Wang-Mang accusation as source-scoped.
 - Scope caution: the source does not settle whether Liu Li and Liu Yuanzi actually committed the alleged act, Wang Shang's medical condition, the exact legal definition of "禽兽行," Gu Yong's complete memorial text, or the historical truth of the closing Zhao-sisters preview.

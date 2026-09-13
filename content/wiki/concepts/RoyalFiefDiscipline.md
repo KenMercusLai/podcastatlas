@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Current Synthesis
 
-Hanji 810 grounds the concept in [[ShenJingLateHan|沈景]]'s appointment to [[LiuZhengHejianKing|河间王刘政]]'s Hejian kingdom. Liu Zheng's royal status initially appears as a governance problem: he inherits the fief, behaves arrogantly and lawlessly, and can intimidate ordinary officials. Shen Jing's method begins with protocol and then moves into enforcement.
+汉纪 810 grounds the concept in [[ShenJingLateHan|沈景]]'s appointment to [[LiuZhengHejianKing|河间王刘政]]'s Hejian kingdom. Liu Zheng's royal status initially appears as a governance problem: he inherits the fief, behaves arrogantly and lawlessly, and can intimidate ordinary officials. Shen Jing's method begins with protocol and then moves into enforcement.
 
 The concept matters because the fief is not repaired by punishment alone. Shen refuses to bow to an improperly dressed, drunken king, forces proper comportment, rebukes the tutor, executes abusive local actors, releases wrongly imprisoned people, and produces reform. Royal fief discipline therefore joins status correction, personnel fit, law enforcement, and justice repair.
 
@@ -28,10 +28,10 @@ The concept matters because the fief is not repaired by punishment alone. Shen r
 
 ## Evidence
 
-- Misconduct setting: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Liu Zheng inherits Hejian and behaves arrogantly and lawlessly.
-- Appointment as instrument: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Shun sends Shen Jing as Hejian xiang to handle the fief.
-- Protocol correction: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Shen refuses to bow until Liu Zheng appears in proper form.
-- Administrative cleanup and reform: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Shen punishes bullies, releases wrongly imprisoned people, and Liu Zheng reforms.
+- Misconduct setting: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Liu Zheng inherits Hejian and behaves arrogantly and lawlessly.
+- Appointment as instrument: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Shun sends Shen Jing as Hejian xiang to handle the fief.
+- Protocol correction: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Shen refuses to bow until Liu Zheng appears in proper form.
+- Administrative cleanup and reform: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Shen punishes bullies, releases wrongly imprisoned people, and Liu Zheng reforms.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ This concept is currently one successful Hejian case, not a universal model for 
 
 ## What Changed
 
-- Created the concept to preserve the Hejian correction sequence from Hanji 810 as more than a single biographical anecdote.
+- Created the concept to preserve the Hejian correction sequence from 汉纪 810 as more than a single biographical anecdote.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 165 CE layer before [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] and [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]]. It pairs [[WangChangShumaoLateHan|王畅]]'s turn from harsh punishment toward humane local governance in [[NanyangCommandery|南阳郡]] with the court notices of per-mu land taxation, a Luoyang earthquake, and [[LiuMaoLateHan|刘茂]]'s appointment as sikong.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 165 CE layer before [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|汉纪 869]] and [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]]. It pairs [[WangChangShumaoLateHan|王畅]]'s turn from harsh punishment toward humane local governance in [[NanyangCommandery|南阳郡]] with the court notices of per-mu land taxation, a Luoyang earthquake, and [[LiuMaoLateHan|刘茂]]'s appointment as sikong.
 
 The second half follows [[EmperorHuanOfHan|汉桓帝]]'s harem politics from [[EmpressDengHuanLateHan|邓皇后]] and [[GuoGuirenHuanLateHan|郭贵人]] through the contest between [[TianShengLateHan|田圣 / 田胜]] and [[EmpressDowagerDouMiao|窦妙]]. The source sharpens the distinction between personal favor and formal status: Tian Sheng is loved but blocked, Dou Miao becomes empress but not beloved, and [[DouWuLateHan|窦武]] rises through his daughter's selection.
 
@@ -48,7 +48,7 @@ The second half follows [[EmperorHuanOfHan|汉桓帝]]'s harem politics from [[E
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the 165 CE layer before Hanji 869-870 and before Hanji 879's later death, accession, and Tian Sheng execution sequence.
-- Identity disambiguation: 王畅 is routed to [[WangChangShumaoLateHan|王畅 / Wang Chang (Shumao, late Han)]], distinct from [[WangChangLateHan|王昌 / Wang Chang (late Han)]] in the Hanji 986 Li Jue branch.
-- Transcript normalization: 田圣 is normalized to the existing [[TianShengLateHan|田胜 / Tian Sheng]] route because the role and downstream harem sequence match Hanji 879.
+- No settled contradiction with existing wiki pages was found. This source backfills the 165 CE layer before 汉纪 869-870 and before 汉纪 879's later death, accession, and Tian Sheng execution sequence.
+- Identity disambiguation: 王畅 is routed to [[WangChangShumaoLateHan|王畅 / Wang Chang (Shumao, late Han)]], distinct from [[WangChangLateHan|王昌 / Wang Chang (late Han)]] in the 汉纪 986 Li Jue branch.
+- Transcript normalization: 田圣 is normalized to the existing [[TianShengLateHan|田胜 / Tian Sheng]] route because the role and downstream harem sequence match 汉纪 879.
 - Scope caution: the per-mu tax order, Luoyang earthquake, Beisi fire, Tong Jing's removal, and Liu Mao's sikong appointment are recorded as source-bounded notices, not as complete fiscal, disaster, or personnel chronologies.

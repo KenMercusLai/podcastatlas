@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-冯信 / Feng Xin enters the wiki through [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]] as a Western Han official paired with [[ChenXianWesternHan|陈贤]] in the episode's account of friendship, promotion rivalry, and later removal around [[ZhaiFangjinWesternHan|翟方进]]. He is less individually developed than Chen Xian, but he matters as the second former friend whose conduct convinces Zhai that old relationships have become hostile.
+冯信 / Feng Xin enters the wiki through [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|汉纪 542]] as a Western Han official paired with [[ChenXianWesternHan|陈贤]] in the episode's account of friendship, promotion rivalry, and later removal around [[ZhaiFangjinWesternHan|翟方进]]. He is less individually developed than Chen Xian, but he matters as the second former friend whose conduct convinces Zhai that old relationships have become hostile.
 
 ## Current Profile
 
@@ -30,21 +30,21 @@ During Zhai's danger, Feng does not function as the supportive old friend Zhai e
 ## Evidence
 
 Shared seniority and rivalry:
-- [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]] says Feng Xin and Chen Xian entered officialdom earlier than Zhai Fangjin and were also candidates when the Yushi Dafu post opened.
+- [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|汉纪 542]] says Feng Xin and Chen Xian entered officialdom earlier than Zhai Fangjin and were also candidates when the Yushi Dafu post opened.
 
 Failed friendship:
-- [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]] says Zhai expected support from Chen Xian and Feng Xin after being implicated, but they did not help him.
+- [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|汉纪 542]] says Zhai expected support from Chen Xian and Feng Xin after being implicated, but they did not help him.
 
 Removal through Chen Tang association:
-- [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]] says Zhai later accused Chen Xian and Feng Xin of depending on Chen Tang and gaining office through improper channels, leading to their dismissal.
+- [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|汉纪 542]] says Zhai later accused Chen Xian and Feng Xin of depending on Chen Tang and gaining office through improper channels, leading to their dismissal.
 
 ## Qualifications
 
-This page is bounded to Hanji 542. The source provides a paired role for Feng Xin rather than a full biography, so his independent actions, offices, and motives remain thin and source-scoped.
+This page is bounded to 汉纪 542. The source provides a paired role for Feng Xin rather than a full biography, so his independent actions, offices, and motives remain thin and source-scoped.
 
 ## What Changed
 
-- Created the Feng Xin page from Hanji 542's paired friendship-rivalry case.
+- Created the Feng Xin page from 汉纪 542's paired friendship-rivalry case.
 
 ## Relationships
 

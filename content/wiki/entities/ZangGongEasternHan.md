@@ -10,11 +10,11 @@ last_updated: 2026-09-01
 
 ## Overview
 
-Zang Gong / 臧宫 is the Eastern Han commander whose current profile comes from [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]]'s Fu River branch of the Shu campaign. He commands surrendered Ba-Shu troops under the wider Cen Peng operation, faces troop flight and local hesitation, then uses supplies, speed, flags, drums, and intimidation to defeat [[YanCenEasternHan|延岑 / Yan Cen]] and trigger further Shu collapse.
+Zang Gong / 臧宫 is the Eastern Han commander whose current profile comes from [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|汉纪 711]]'s Fu River branch of the Shu campaign. He commands surrendered Ba-Shu troops under the wider Cen Peng operation, faces troop flight and local hesitation, then uses supplies, speed, flags, drums, and intimidation to defeat [[YanCenEasternHan|延岑 / Yan Cen]] and trigger further Shu collapse.
 
 ## Current Profile
 
-Hanji 711 first places Zang Gong in a difficult command position. He is assigned roughly 50,000 surrendered Ba-Shu soldiers and ordered up the Fu River while [[CenPengEasternHan|Cen Peng]] leads the main fast navy movement from Jiangzhou. The episode stresses that these troops are not fully reliable: some flee, and nearby counties wait to see the outcome.
+汉纪 711 first places Zang Gong in a difficult command position. He is assigned roughly 50,000 surrendered Ba-Shu soldiers and ordered up the Fu River while [[CenPengEasternHan|Cen Peng]] leads the main fast navy movement from Jiangzhou. The episode stresses that these troops are not fully reliable: some flee, and nearby counties wait to see the outcome.
 
 Zang Gong's profile is therefore not simple battlefield dominance. He uses horses and supplies associated with Liu Xiu, obtains or claims urgent imperial authority for more resources, marches day and night, raises flags, beats drums, and presses the psychological moment. [[YanCenEasternHan|Yan Cen]] panics, is defeated, and flees to Chengdu, while the remaining army and Wang Yuan surrender.
 
@@ -30,18 +30,18 @@ The current synthesis treats Zang Gong as a supporting but decisive tempo actor.
 
 ## Evidence
 
-- Fu River assignment: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] says Zang Gong receives surrendered Ba-Shu troops and moves up the Fu River while Cen Peng leads another force from Jiangzhou.
-- Unstable troops: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] says surrendered troops flee and nearby counties watch before the outcome is clear.
-- Resource improvisation: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] says Zang Gong uses Liu Xiu's horses and supplies and obtains or claims urgent command authority for additional support.
-- Defeat of Yan Cen: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] says Zang Gong marches day and night, displays flags and drums, defeats Yan Cen, and causes large losses, flight to Chengdu, and surrender.
+- Fu River assignment: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|汉纪 711]] says Zang Gong receives surrendered Ba-Shu troops and moves up the Fu River while Cen Peng leads another force from Jiangzhou.
+- Unstable troops: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|汉纪 711]] says surrendered troops flee and nearby counties watch before the outcome is clear.
+- Resource improvisation: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|汉纪 711]] says Zang Gong uses Liu Xiu's horses and supplies and obtains or claims urgent command authority for additional support.
+- Defeat of Yan Cen: [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|汉纪 711]] says Zang Gong marches day and night, displays flags and drums, defeats Yan Cen, and causes large losses, flight to Chengdu, and surrender.
 
 ## Qualifications
 
-This page is bounded to the Hanji 711 source note. Zang Gong's urgency and resource use are represented through the episode's telling, including the claim of transmitting or invoking imperial command; the durable claim is narrower than a full judgment on legality. Later evidence may clarify his formal authority, career, and exact relationship to Cen Peng and Wu Han.
+This page is bounded to the 汉纪 711 source note. Zang Gong's urgency and resource use are represented through the episode's telling, including the claim of transmitting or invoking imperial command; the durable claim is narrower than a full judgment on legality. Later evidence may clarify his formal authority, career, and exact relationship to Cen Peng and Wu Han.
 
 ## What Changed
 
-- Created this page from Hanji 711 as the Fu River supporting-command, supply-improvisation, and Yan Cen defeat layer.
+- Created this page from 汉纪 711 as the Fu River supporting-command, supply-improvisation, and Yan Cen defeat layer.
 
 ## Relationships
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 狄道 / Di Dao (late Han)
 
-狄道 / Di Dao (late Han) enters through [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] as the place where [[GengBiLateHan|耿鄙]]'s Liang州 expedition collapses. When the army reaches Di Dao, mutineers kill [[ChengQiu|程球]] and then Geng Bi, opening the way for the siege of [[HanyangCommanderyLateHan|汉阳郡]].
+狄道 / Di Dao (late Han) enters through [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|汉纪 937]] as the place where [[GengBiLateHan|耿鄙]]'s Liang州 expedition collapses. When the army reaches Di Dao, mutineers kill [[ChengQiu|程球]] and then Geng Bi, opening the way for the siege of [[HanyangCommanderyLateHan|汉阳郡]].
 
 The same source later identifies [[WangGuoLateHan|王国]] as a Di Dao man who sends [[HuangYanLateHan|黄衍]] to persuade [[FuXie|傅燮]] to surrender. Di Dao therefore connects both the official-command collapse and the rebel-side personal network in the episode.
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-Hanji 728 grounds the concept in [[ZhangYiEasternHan|张义]]'s objection to [[YinShiEasternHan|阴识]]. When [[LiuXiu|刘秀]] asks who should teach the crown prince, officials and emperor alike prefer Yin Shi, who is the crown prince's maternal uncle, zhijinwu, and Yuanlu Marquis. Zhang Yi reframes the choice with a public question: is the crown prince being established for the Yin family or for the realm?
+汉纪 728 grounds the concept in [[ZhangYiEasternHan|张义]]'s objection to [[YinShiEasternHan|阴识]]. When [[LiuXiu|刘秀]] asks who should teach the crown prince, officials and emperor alike prefer Yin Shi, who is the crown prince's maternal uncle, zhijinwu, and Yuanlu Marquis. Zhang Yi reframes the choice with a public question: is the crown prince being established for the Yin family or for the realm?
 
 Liu Xiu's acceptance makes the principle concrete. He appoints Zhang Yi as crown-prince taifu because a scholar who can correct the emperor can also assist the heir. He also appoints [[HuanRongEasternHan|桓荣]] crown-prince shaofu and rewards both men. Huan Rong then turns the gifts into a student-facing proof that study of old texts can produce honor.
 
@@ -30,19 +30,19 @@ The concept is a personnel-selection boundary. It does not deny that relatives c
 
 ## Evidence
 
-- Kinship candidate: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] says officials and Liu Xiu recommend Yin Shi, the crown prince's maternal uncle, zhijinwu, and Yuanlu Marquis.
-- Public-interest objection: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] records Zhang Yi asking whether the crown prince is for the Yin family or the realm and arguing for worthy talent if for the realm.
-- Appointment result: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] says Liu Xiu accepts the correction and appoints Zhang Yi crown-prince taifu.
-- Teacher honor after selection: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] says Liu Xiu appoints Huan Rong crown-prince shaofu and gives carriages and horses to both teachers.
-- Learning signal: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] says Huan Rong shows the imperial gifts to students and attributes his honor to study of ancient books.
+- Kinship candidate: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] says officials and Liu Xiu recommend Yin Shi, the crown prince's maternal uncle, zhijinwu, and Yuanlu Marquis.
+- Public-interest objection: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] records Zhang Yi asking whether the crown prince is for the Yin family or the realm and arguing for worthy talent if for the realm.
+- Appointment result: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] says Liu Xiu accepts the correction and appoints Zhang Yi crown-prince taifu.
+- Teacher honor after selection: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] says Liu Xiu appoints Huan Rong crown-prince shaofu and gives carriages and horses to both teachers.
+- Learning signal: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] says Huan Rong shows the imperial gifts to students and attributes his honor to study of ancient books.
 
 ## Counterevidence & Qualifications
 
-This concept should not be read as a blanket claim that maternal relatives are always unfit. Hanji 728 does not attack Yin Shi's personal ability. The narrow claim is that succession education has to be justified as a public role, and kinship convenience is insufficient when the role shapes the future ruler.
+This concept should not be read as a blanket claim that maternal relatives are always unfit. 汉纪 728 does not attack Yin Shi's personal ability. The narrow claim is that succession education has to be justified as a public role, and kinship convenience is insufficient when the role shapes the future ruler.
 
 ## What Changed
 
-- Created the concept from Hanji 728's Zhang Yi, Yin Shi, and Huan Rong crown-prince tutor appointment scene.
+- Created the concept from 汉纪 728's Zhang Yi, Yin Shi, and Huan Rong crown-prince tutor appointment scene.
 
 ## Related Concepts
 

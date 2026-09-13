@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]] grounds the concept through [[EmperorMingOfHan|汉明帝]] and [[HuanRongEasternHan|桓荣]]. Mingdi had studied `Shangshu` with Huan Rong as crown prince. After becoming emperor, he keeps that teacher-student relation publicly legible through Biyong elder-care ritual, Taichang-office lectures, scholar audiences, sickbed visits, mourning, and burial grants.
+[[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|汉纪 734]] grounds the concept through [[EmperorMingOfHan|汉明帝]] and [[HuanRongEasternHan|桓荣]]. Mingdi had studied `Shangshu` with Huan Rong as crown prince. After becoming emperor, he keeps that teacher-student relation publicly legible through Biyong elder-care ritual, Taichang-office lectures, scholar audiences, sickbed visits, mourning, and burial grants.
 
 The concept differs from generic respect for elders or talent attraction. The key mechanism is role performance by the ruler. Mingdi's seating choices, hand-held text, refusal to answer in the teacher's presence, walking from the street to Huan Rong's sickbed, and funeral conduct all tell officials and students how to recognize classical authority. Imperial deference therefore increases the teacher's standing while also strengthening the ruler's Confucian legitimacy.
 
@@ -31,12 +31,12 @@ The current synthesis keeps the host's "supporting actor" interpretation qualifi
 
 ## Evidence
 
-- Biyong elder-care setting: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]] says Mingdi appoints Huan Rong as `wugeng`, assigns ritual seating and objects, and personally performs food-and-wine respect.
-- Public scholarship scene: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]] says Mingdi summons Huan Rong and his students, discusses classics, and creates a large audience of officials and scholars.
-- Teacher priority in interpretation: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]] has Mingdi decline to explain a question because his teacher is present.
-- Sickbed ritual example: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]] says Mingdi leaves his carriage at the street entrance, carries the text, holds Huan Rong's hand, and weeps.
-- Norm diffusion: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]] says later visitors do not dare ride directly to Huan Rong's door after seeing Mingdi's example.
-- Posthumous honor: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]] records mourning dress, funeral attendance, burial land, and family title settlement.
+- Biyong elder-care setting: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|汉纪 734]] says Mingdi appoints Huan Rong as `wugeng`, assigns ritual seating and objects, and personally performs food-and-wine respect.
+- Public scholarship scene: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|汉纪 734]] says Mingdi summons Huan Rong and his students, discusses classics, and creates a large audience of officials and scholars.
+- Teacher priority in interpretation: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|汉纪 734]] has Mingdi decline to explain a question because his teacher is present.
+- Sickbed ritual example: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|汉纪 734]] says Mingdi leaves his carriage at the street entrance, carries the text, holds Huan Rong's hand, and weeps.
+- Norm diffusion: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|汉纪 734]] says later visitors do not dare ride directly to Huan Rong's door after seeing Mingdi's example.
+- Posthumous honor: [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|汉纪 734]] records mourning dress, funeral attendance, burial land, and family title settlement.
 
 ## Counterevidence & Qualifications
 
@@ -44,7 +44,7 @@ The source does not prove that every question at Biyong was spontaneous; the hos
 
 ## What Changed
 
-- Created the concept from Mingdi's public honoring of Huan Rong in Hanji 734.
+- Created the concept from Mingdi's public honoring of Huan Rong in 汉纪 734.
 - Distinguished teacher-honor ritual from broader elder respect, talent attraction, and moral mentorship.
 
 ## Related Concepts

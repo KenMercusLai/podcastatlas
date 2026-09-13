@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 10 CE [[XinDynasty|新朝]]-[[Xiongnu|匈奴]] rupture immediately before [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|Hanji 641]] and the later 11 CE anti-Xiongnu strategy layer in [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]]. It follows [[WangMang|王莽]]'s downgrade of Xiongnu seals and titles, his reward for destroying the old seal, the Wuhuan-captive dispute, Xiongnu troops outside Shuofang, Western Regions instability around [[CheshiHouKingdomXin|车师后王国]], frontier defections by [[ChenLiangXinDefector|陈良]] and [[ZhongDaiXinDefector|终带]], [[SunJianXinGeneral|孙建]]'s anti-Han-symbol purge proposal, and [[EmpressWangPingdi|定安太后]]'s refusal to be remarried.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 10 CE [[XinDynasty|新朝]]-[[Xiongnu|匈奴]] rupture immediately before [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|汉纪 641]] and the later 11 CE anti-Xiongnu strategy layer in [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]]. It follows [[WangMang|王莽]]'s downgrade of Xiongnu seals and titles, his reward for destroying the old seal, the Wuhuan-captive dispute, Xiongnu troops outside Shuofang, Western Regions instability around [[CheshiHouKingdomXin|车师后王国]], frontier defections by [[ChenLiangXinDefector|陈良]] and [[ZhongDaiXinDefector|终带]], [[SunJianXinGeneral|孙建]]'s anti-Han-symbol purge proposal, and [[EmpressWangPingdi|定安太后]]'s refusal to be remarried.
 
 The durable synthesis is that Wang Mang turns symbolic hierarchy into a material frontier crisis. Seal wording, official titles, and surname or temple policy are not harmless formalism here: when imposed without credible consent and backed by reward for humiliation, they damage Xiongnu chanyu authority, push nearby Western Regions actors to recalculate allegiance, and let internal officials connect border defection with a wider purge of Han dynastic memory.
 
@@ -43,10 +43,10 @@ The durable synthesis is that Wang Mang turns symbolic hierarchy into a material
 - [[Wuhuan|乌桓]], [[CheshiHouKingdomXin|车师后王国]], and [[WesternRegionsProtectorate|西域都护府]] - the Wuhuan-captive dispute and Western Regions panic transmit the Xiongnu rupture into a wider frontier system.
 - [[ChenLiangXinDefector|陈良]], [[ZhongDaiXinDefector|终带]], Diao Hu, Han Xuan, and Ren Shang - the source keeps most mutiny details source-scoped while creating pages for the two named leaders.
 - [[SunJianXinGeneral|孙建]], [[DynasticMemorySeverance|王朝记忆切割]], and [[EmpressWangPingdi|汉平帝王皇后]] - the internal branch turns frontier revolt into anti-Han symbolic purge, then contrasts it with Ding'an Taihou's refusal.
-- [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|Hanji 641]] and [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]] - continuation into war finance, currency disorder, coercive titulature, and Yan You's critique of overextended Xiongnu campaigns.
+- [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|汉纪 641]] and [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]] - continuation into war finance, currency disorder, coercive titulature, and Yan You's critique of overextended Xiongnu campaigns.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 10 CE before Hanji 641's war-finance/currency reform layer and before Hanji 643's 11 CE strategy critique.
+- Chronology qualification: this source backfills 10 CE before 汉纪 641's war-finance/currency reform layer and before 汉纪 643's 11 CE strategy critique.
 - Scope caution: Chen Rao, Yu Gudu Hou, Youxian Wang, Yu, Xian, Pu Huluzi, Zhen Feng, Xu Zhili, Hulan Zhi, Dan Qin, Diao Hu, Han Xuan, Ren Shang, Wu Zhong, Liu Ziyu's false claim, exact office names, and Xiongnu-side inner motives remain source-scoped unless later notes require canonical pages.

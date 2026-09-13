@@ -17,7 +17,7 @@ knowledge_schema: synthesis-v1
 ## Current Profile
 The current synthesis presents Han Song as a duty-bound envoy rather than a simple defector. Before leaving Jingzhou, he tells Liu Biao that he can go if Liu Biao has already chosen court-Cao alignment, but warns that an imperial appointment would change his formal obligations if Liu Biao remains undecided.
 
-Hanji 1037 then supplies the consequence of that warning. After reaching Xudu, Han Song accepts court appointments, returns to Jingzhou praising the court and Cao Cao, and advises Liu Biao to send a son to court. When Liu Biao threatens execution, Han Song answers that Liu Biao has failed him, not the reverse, because Liu Biao had been warned that going to court would place him inside the court's recognized order.
+汉纪 1037 then supplies the consequence of that warning. After reaching Xudu, Han Song accepts court appointments, returns to Jingzhou praising the court and Cao Cao, and advises Liu Biao to send a son to court. When Liu Biao threatens execution, Han Song answers that Liu Biao has failed him, not the reverse, because Liu Biao had been warned that going to court would place him inside the court's recognized order.
 
 ## Key Characteristics
 - Serves Liu Biao's Jingzhou regime while treating the Han court's recognized title order as morally weightier than local patronage.
@@ -29,16 +29,16 @@ Hanji 1037 then supplies the consequence of that warning. After reaching Xudu, H
 - Functions as a trigger exposing Liu Biao's indecision, suspicion, and Jingzhou elite anxiety before Guandu.
 
 ## Evidence
-- Pre-mission warning: [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|Hanji 1036]] has Han Song tell Liu Biao that if Liu Biao still hesitates, a court appointment would make Han Song unable to remain only Liu Biao's subordinate.
-- Role-duty claim: [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|Hanji 1036]] and [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] both use "圣达节，次守节" to frame Han Song as preserving duty rather than opportunistically switching sides.
-- Mission and appointment: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] says Han Song goes to Xudu and is appointed attendant-in-ordinary and Lingling administrator.
-- Liu Biao's reaction: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] reports Liu Biao preparing to kill him, torturing mission staff, finding no proof of betrayal, and still imprisoning him.
+- Pre-mission warning: [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|汉纪 1036]] has Han Song tell Liu Biao that if Liu Biao still hesitates, a court appointment would make Han Song unable to remain only Liu Biao's subordinate.
+- Role-duty claim: [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|汉纪 1036]] and [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] both use "圣达节，次守节" to frame Han Song as preserving duty rather than opportunistically switching sides.
+- Mission and appointment: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] says Han Song goes to Xudu and is appointed attendant-in-ordinary and Lingling administrator.
+- Liu Biao's reaction: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] reports Liu Biao preparing to kill him, torturing mission staff, finding no proof of betrayal, and still imprisoning him.
 
 ## Qualifications
-The page is bounded to the Hanji 1036-1037 mission and imprisonment branch. It does not attempt a full biography of Han Song's later service under Cao Cao. This page is disambiguated from [[HanSong|Han Song / 韩松]], the modern AI-chip researcher.
+The page is bounded to the 汉纪 1036-1037 mission and imprisonment branch. It does not attempt a full biography of Han Song's later service under Cao Cao. This page is disambiguated from [[HanSong|Han Song / 韩松]], the modern AI-chip researcher.
 
 ## What Changed
-- Added Hanji 1036 as the pre-mission warning that makes Hanji 1037's later loyalty dispute a two-step duty conflict rather than a surprise defection story.
+- Added 汉纪 1036 as the pre-mission warning that makes 汉纪 1037's later loyalty dispute a two-step duty conflict rather than a surprise defection story.
 
 ## Relationships
 - [[LiuBiao|刘表]] - patron whose ambiguity and coercive order place Han Song in the loyalty trap.

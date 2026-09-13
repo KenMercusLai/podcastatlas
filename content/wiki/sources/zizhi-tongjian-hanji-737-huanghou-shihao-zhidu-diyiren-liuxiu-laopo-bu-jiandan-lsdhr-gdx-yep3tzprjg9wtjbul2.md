@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 64-65 CE / Yongping 7-8 immediately before [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]]. It begins with [[YinLihua|阴丽华]]'s death and 光烈 posthumous title, then moves through [[EmperorMingOfHan|汉明帝]]'s Northern Xiongnu trade decision, [[ZongJunEasternHan|宗均]]'s root-cause local governance, [[ZhengZhongFrontierEasternHan|郑众]]'s original refusal to kowtow, the founding of [[DuliaoCampEasternHan|都辽营]], [[LiuYingChuKingEasternHan|楚王刘英]]'s Buddhist/Huang-Lao redemption episode, [[WhiteHorseTemple|白马寺]], and Mingdi's solar-eclipse self-criticism.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 64-65 CE / Yongping 7-8 immediately before [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]]. It begins with [[YinLihua|阴丽华]]'s death and 光烈 posthumous title, then moves through [[EmperorMingOfHan|汉明帝]]'s Northern Xiongnu trade decision, [[ZongJunEasternHan|宗均]]'s root-cause local governance, [[ZhengZhongFrontierEasternHan|郑众]]'s original refusal to kowtow, the founding of [[DuliaoCampEasternHan|都辽营]], [[LiuYingChuKingEasternHan|楚王刘英]]'s Buddhist/Huang-Lao redemption episode, [[WhiteHorseTemple|白马寺]], and Mingdi's solar-eclipse self-criticism.
 
 The durable synthesis is that early Yongping governance already operates across ritual memory, frontier signaling, personnel judgment, religious tolerance, and remonstrance. The episode makes Yin Lihua's empress title a dynastic naming precedent; shows Northern Xiongnu trade contact creating both pacification hope and [[SouthernXiongnu|南匈奴]] defection risk; separates clean reputation from governing capacity through Zong Jun; presents Liu Ying's Buddhism as initially tolerated before later suspicion; and frames Mingdi's eclipse edict as a rare public conversion of criticism into ruler self-blame.
 
@@ -23,7 +23,7 @@ The durable synthesis is that early Yongping governance already operates across 
 - Zong Jun's Jiujiang administration diagnoses tiger attacks and disorder through corrupt officials, burdens, and local grievance rather than treating them as only natural or supernatural events.
 - Zheng Zhong's earlier Northern Xiongnu mission turns envoy ritual into state dignity: he refuses a coerced kowtow, survives imprisonment and starvation, and then detects a Southern Xiongnu defection plot.
 - Duliaoying is created as an institutional response to Southern/Northern Xiongnu collusion risk after Xugu Duhou's failed contact with the Northern Xiongnu.
-- Liu Ying is initially treated by Mingdi as a harmless Huang-Lao and Buddhist practitioner, complicating the later Hanji 739-740 treason-suspicion arc.
+- Liu Ying is initially treated by Mingdi as a harmless Huang-Lao and Buddhist practitioner, complicating the later 汉纪 739-740 treason-suspicion arc.
 - Mingdi's eclipse response turns confidential official criticism into published self-accusation about people, corrupt officials, construction, spending, taxation, and anger.
 
 ## Key Quotes
@@ -46,7 +46,7 @@ The durable synthesis is that early Yongping governance already operates across 
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the 64-65 CE layer immediately before Hanji 738 and clarifies that Zheng Zhong's refusal to bow happened before the later return-mission warning.
-- Chronology caution: the source makes Liu Ying an initially tolerated Huang-Lao and Buddhist practitioner before Hanji 739-740 turn his case into a treason and implication cascade.
+- No settled contradiction with existing wiki content was found. This source backfills the 64-65 CE layer immediately before 汉纪 738 and clarifies that Zheng Zhong's refusal to bow happened before the later return-mission warning.
+- Chronology caution: the source makes Liu Ying an initially tolerated Huang-Lao and Buddhist practitioner before 汉纪 739-740 turn his case into a treason and implication cascade.
 - Scope caution: the host's gendered lesson about Yin Lihua "showing weakness," the Buddhism-transmission narrative around Mingdi's dream, and judgments about clean officials are interpretive and remain source-scoped.
 - Scope caution: Fan Qian, Yu Yan's personnel transfer, Zhao Xi's acting Taiwei notice, Geng Guo, Wu Tang, death-penalty silk redemption, minor disaster notices, and exact Duliaoying force details remain source-scoped unless later sources warrant standalone pages.

@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] decision field after [[DongZhuo|董卓]]'s death. It begins with [[DiscreetBenefactionDignity|沉默施恩的尊严保护]], arguing that publicized help can turn kindness into shame, pressure, or hidden hierarchy, then turns to [[WangYunLateHan|王允]]'s mishandling of [[LiangzhouWarlordClique|凉州系军阀]] fear. The late-Han core is that canceling amnesty, refusing a [[HuangfuSongLateHan|皇甫嵩]] reassurance plan, and leaving remnant commanders no credible safety route made [[JiaXu|贾诩]]'s attack-Chang'an advice persuasive to [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|汉纪 966]] decision field after [[DongZhuo|董卓]]'s death. It begins with [[DiscreetBenefactionDignity|沉默施恩的尊严保护]], arguing that publicized help can turn kindness into shame, pressure, or hidden hierarchy, then turns to [[WangYunLateHan|王允]]'s mishandling of [[LiangzhouWarlordClique|凉州系军阀]] fear. The late-Han core is that canceling amnesty, refusing a [[HuangfuSongLateHan|皇甫嵩]] reassurance plan, and leaving remnant commanders no credible safety route made [[JiaXu|贾诩]]'s attack-Chang'an advice persuasive to [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]].
 
 ## Key Claims
 
@@ -38,7 +38,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|Hanji 966]] - continues the same crisis through Jia Xu's advice, the Li-Guo march, Chang'an's fall, and Wang Yun's death.
+- [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u|汉纪 966]] - continues the same crisis through Jia Xu's advice, the Li-Guo march, Chang'an's fall, and Wang Yun's death.
 - [[WangYunLateHan|王允]], [[HuangfuSongLateHan|皇甫嵩]], [[LiangzhouWarlordClique|凉州系军阀]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - failed reassurance and safety-design branch.
 - [[JiaXu|贾诩]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], and [[ExecutorCharacterAdviceRisk]] - attack-Chang'an advice and executor risk.
 - [[NiuFuLateHan|牛辅]], [[LiSuLateHan|李肃]], [[LyuBu|吕布]], and [[MilitaryCampPanic|军营夜惊群体恐慌]] - defeated assassination mission and camp-panic branch.
@@ -47,5 +47,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction found. The episode strengthens Hanji 966's backfill by adding the prior amnesty, Huangfu Song, Niu Fu, and camp-panic steps before Jia Xu's advice becomes actionable.
+- No settled contradiction found. The episode strengthens 汉纪 966's backfill by adding the prior amnesty, Huangfu Song, Niu Fu, and camp-panic steps before Jia Xu's advice becomes actionable.
 - Source-scope caution: the opening charity psychology, camp-panic scientific examples, and Wang Yun character diagnosis are preserved as host interpretation unless corroborated by later sources.

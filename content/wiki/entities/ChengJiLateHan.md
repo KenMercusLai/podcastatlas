@@ -23,15 +23,15 @@ Cheng Ji appears after [[ZhaoWeiLateHan|赵韪]]'s revolt has been put down and 
 - De-escalates a local militarization path and is recognized by Liu Zhang afterward.
 
 ## Evidence
-- Loyal-duty refusal: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] has Cheng Ji reject Pang Xi's request to mobilize Cong people and argue that suspicion should be answered by explanation and loyalty.
-- Moral-precedent language: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] reports his Le Yang comparison as a way to subordinate private ties to public duty.
-- Political effect: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] says Pang Xi apologizes and Liu Zhang later elevates Cheng Ji to Jiangyang administrator.
+- Loyal-duty refusal: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] has Cheng Ji reject Pang Xi's request to mobilize Cong people and argue that suspicion should be answered by explanation and loyalty.
+- Moral-precedent language: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] reports his Le Yang comparison as a way to subordinate private ties to public duty.
+- Political effect: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] says Pang Xi apologizes and Liu Zhang later elevates Cheng Ji to Jiangyang administrator.
 
 ## Qualifications
-The page is bounded to the Hanji 1055 episode. It does not reconstruct Cheng Ji's full career outside this incident, and it treats the Le Yang comparison as Cheng Ji's rhetoric rather than proof that every private tie must yield to political office.
+The page is bounded to the 汉纪 1055 episode. It does not reconstruct Cheng Ji's full career outside this incident, and it treats the Le Yang comparison as Cheng Ji's rhetoric rather than proof that every private tie must yield to political office.
 
 ## What Changed
-- Created Cheng Ji as the official-duty refusal case from Hanji 1055.
+- Created Cheng Ji as the official-duty refusal case from 汉纪 1055.
 - Added his role as the exemplar for [[OfficialDutyOverPatronCommand|守职胜私命]].
 
 ## Relationships

@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the opening 172 CE ritual layer immediately before [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]]. It begins with a source-scoped bribery story about Jin Ren and Wu Zhi, then turns to [[EmperorLingOfHan|汉灵帝]] visiting [[LiuXiu|光武帝]]'s Yuanling and [[CaiYong|蔡邕]] explaining why tomb sacrifice preserves a solemn order that cannot be reduced to expendable ceremony.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the opening 172 CE ritual layer immediately before [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|汉纪 900]]. It begins with a source-scoped bribery story about Jin Ren and Wu Zhi, then turns to [[EmperorLingOfHan|汉灵帝]] visiting [[LiuXiu|光武帝]]'s Yuanling and [[CaiYong|蔡邕]] explaining why tomb sacrifice preserves a solemn order that cannot be reduced to expendable ceremony.
 
 The episode's core contribution is a ritual theory before the later burial-legitimacy dispute. Cai Yong treats "礼有烦而不可省者" as a governance and affect claim: procedure can make hierarchy, memory, solemnity, sacredness, and personal participation feel real, while the opening bribery story shows the opposite pressure of money flowing through corrupt official networks.
 
@@ -46,7 +46,7 @@ The episode's core contribution is a ritual theory before the later burial-legit
 - [[EmperorLingOfHan|汉灵帝]], [[LiuXiu|光武帝]], [[EmperorMingOfHan|汉明帝]], and Yuanling - 172 CE tomb-sacrifice setting and dynastic memory.
 - [[CaiYong|蔡邕]], [[LiAsPoliticalOrder|礼制政治秩序]], [[RitualAffectiveOrder|仪式感秩序生成]], and [[ImperialRitualDistance|君臣礼制距离]] - ritual as political order, felt seriousness, and embodied hierarchy.
 - [[CaiWenji|蔡文姬]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - Cai Yong biography and the "倒屣相迎" aside, kept secondary to the ritual argument.
-- [[HuGuangLateHan|胡广]] and [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] - previewed next branch.
+- [[HuGuangLateHan|胡广]] and [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|汉纪 900]] - previewed next branch.
 
 ## Contradictions
 

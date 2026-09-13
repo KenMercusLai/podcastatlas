@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] grounds the concept through [[XiaoXianWesternHan|萧贤]]. Xiao Xian refuses a proposed Dong-family marriage because he reads "云止其中" in the appointment language around [[DongXian|董贤]]'s father as a Yao-Shun abdication allusion. The political inference is that Dong-family favor has moved beyond ordinary promotion toward a succession-coded boundary.
+[[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] grounds the concept through [[XiaoXianWesternHan|萧贤]]. Xiao Xian refuses a proposed Dong-family marriage because he reads "云止其中" in the appointment language around [[DongXian|董贤]]'s father as a Yao-Shun abdication allusion. The political inference is that Dong-family favor has moved beyond ordinary promotion toward a succession-coded boundary.
 
 The concept is not simply "being educated." It is literacy tied to consequence: Xiao Xian's knowledge helps him see that a marriage alliance could bind his household to a favorite network whose language already sounds dangerous. [[WangHongWesternHan|王洪]] then confirms the value of that reading by later confronting [[HanAidi|汉哀帝]] when Aidi himself speaks of imitating Yao's abdication to Shun.
 
@@ -27,9 +27,9 @@ The concept is not simply "being educated." It is literacy tied to consequence: 
 
 ## Evidence
 
-- Appointment phrase: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Xiao Xian treats "云止其中" as Yao-Shun abdication language rather than ordinary ministerial appointment language.
-- Marriage avoidance: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Xiao Xian refuses the Dong-family marriage after making that reading.
-- Later confirmation: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Aidi later explicitly says he intends to imitate Yao yielding to Shun with Dong Xian.
+- Appointment phrase: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Xiao Xian treats "云止其中" as Yao-Shun abdication language rather than ordinary ministerial appointment language.
+- Marriage avoidance: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Xiao Xian refuses the Dong-family marriage after making that reading.
+- Later confirmation: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Aidi later explicitly says he intends to imitate Yao yielding to Shun with Dong Xian.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ This concept is currently grounded in one source note. It should not be generali
 
 ## What Changed
 
-- Created the concept from Xiao Xian's "云止其中" reading in Hanji 601-1.
+- Created the concept from Xiao Xian's "云止其中" reading in 汉纪 601-1.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ Patronage-loss self-protection is the discipline of lowering visibility, restrai
 
 ## Current Synthesis
 
-Hanji 752 defines the pattern through the [[MaFamilyZhangEraEasternHan|Zhang-era Ma family]] after [[EmpressMaMingdeEasternHan|Empress Ma]] dies. The Ma household is still wealthy and prestigious, but its main protection channel has disappeared. [[MaLiaoEasternHan|Ma Liao]] remains personally cautious, yet Ma Fang and Ma Guang continue to build visibly, gather guests, keep horses, and extract from Qiang and Hu groups. That display turns former status into an evidence trail for imperial restriction and official impeachment.
+汉纪 752 defines the pattern through the [[MaFamilyZhangEraEasternHan|Zhang-era Ma family]] after [[EmpressMaMingdeEasternHan|Empress Ma]] dies. The Ma household is still wealthy and prestigious, but its main protection channel has disappeared. [[MaLiaoEasternHan|Ma Liao]] remains personally cautious, yet Ma Fang and Ma Guang continue to build visibly, gather guests, keep horses, and extract from Qiang and Hu groups. That display turns former status into an evidence trail for imperial restriction and official impeachment.
 
 [[YangZhongEasternHan|Yang Zhong]] gives the concept its prescriptive form. A visible household has to become more disciplined after protection weakens, especially when young relatives and reckless guests convert inherited prestige into a public target. The source's lesson is not that capable people should never act; it is that protection conditions change the safe amount of light, display, and assertiveness a person can carry.
 
@@ -30,11 +30,11 @@ The pattern also clarifies the episode's Liang and Dou contrasts. [[LiangGuirenH
 
 ## Evidence
 
-- Ma-family lost shield: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] presents Empress Ma's death as the turning point after which the Ma household becomes exposed.
-- Senior caution not enough: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Ma Liao is cautious but fails to restrain younger relatives.
-- Visible conduct as liability: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] reports mansions, guests, horses, and Qiang-Hu exactions before imperial restrictions and impeachment.
-- Explicit warning: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] records Yang Zhong warning Ma Liao that young relatives and reckless guests make the household future dangerous.
-- Contrast cases: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] contrasts Ma decline with Liang-family vulnerability and Dou-family overconfidence.
+- Ma-family lost shield: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] presents Empress Ma's death as the turning point after which the Ma household becomes exposed.
+- Senior caution not enough: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says Ma Liao is cautious but fails to restrain younger relatives.
+- Visible conduct as liability: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] reports mansions, guests, horses, and Qiang-Hu exactions before imperial restrictions and impeachment.
+- Explicit warning: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] records Yang Zhong warning Ma Liao that young relatives and reckless guests make the household future dangerous.
+- Contrast cases: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] contrasts Ma decline with Liang-family vulnerability and Dou-family overconfidence.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The current evidence is one source note, and the concept should not be generaliz
 
 ## What Changed
 
-- Created the concept from Hanji 752's Ma-family lost-patronage branch.
+- Created the concept from 汉纪 752's Ma-family lost-patronage branch.
 
 ## Related Concepts
 

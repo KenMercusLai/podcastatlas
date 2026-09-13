@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-甘忠可 / Gan Zhongke enters the wiki through [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] as a Western Han fangshi-style figure from Qi who uses [[Taipingjing|《太平经》]] and renewed-mandate language to approach [[HanChengdi|汉成帝]] during the emperor's no-heir anxiety.
+甘忠可 / Gan Zhongke enters the wiki through [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] as a Western Han fangshi-style figure from Qi who uses [[Taipingjing|《太平经》]] and renewed-mandate language to approach [[HanChengdi|汉成帝]] during the emperor's no-heir anxiety.
 
 ## Current Profile
 
@@ -27,9 +27,9 @@ Gan's significance is larger than his failed Chengdi approach because [[XiaHelia
 
 ## Evidence
 
-- Mandate diagnosis: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Gan claims Chengdi's childlessness shows Liu-family mandate decline and requires renewed Heaven authorization.
-- Skeptical defeat: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Liu Xiang identifies the claim as spirit-based deception and Chengdi orders Gan's arrest.
-- Transmission: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Xia Heliang continues studying Gan's text after punishment.
+- Mandate diagnosis: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Gan claims Chengdi's childlessness shows Liu-family mandate decline and requires renewed Heaven authorization.
+- Skeptical defeat: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Liu Xiang identifies the claim as spirit-based deception and Chengdi orders Gan's arrest.
+- Transmission: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Xia Heliang continues studying Gan's text after punishment.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page reflects the episode's account rather than a full intellectual history
 
 ## What Changed
 
-- Created from Hanji 581 as the Chengdi-era origin point for the renewed-mandate fangshi method later used under Han Aidi.
+- Created from 汉纪 581 as the Chengdi-era origin point for the renewed-mandate fangshi method later used under Han Aidi.
 
 ## Relationships
 

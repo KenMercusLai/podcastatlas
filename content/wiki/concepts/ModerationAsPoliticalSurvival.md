@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # Moderation As Political Survival / 中庸圆滑政治生存
 
-Moderation as political survival / 中庸圆滑政治生存 is the office-survival pattern [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] builds from [[HuGuangLateHan|胡广]]. The source presents Hu Guang as mild, cautious, and hard to offend, but also as a technically useful official who knows precedent, statutes, personnel, and court routines.
+Moderation as political survival / 中庸圆滑政治生存 is the office-survival pattern [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|汉纪 900]] builds from [[HuGuangLateHan|胡广]]. The source presents Hu Guang as mild, cautious, and hard to offend, but also as a technically useful official who knows precedent, statutes, personnel, and court routines.
 
 The concept is narrower than generic [[PoliticalSurvivalFirst|安全第一政治生存]]. It names a survival style based on remaining useful and non-threatening inside a volatile institution: avoid needless enemies, preserve consultative value, maintain relationship networks, and do not let anger or moral disgust force premature exposure.
 
@@ -24,7 +24,7 @@ The source keeps the moral cost visible. Moderation can preserve life, office, a
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] and [[HuGuangLateHan|胡广]] - source and central case.
+- [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|汉纪 900]] and [[HuGuangLateHan|胡广]] - source and central case.
 - [[HouLanLateHan|侯览]] - negative contrast where power and access fail to prevent removal.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - broader survival discipline.
 - [[StrategicEmotionConcealment|情绪不外露的战略纪律]] - emotional-control side of the pattern.

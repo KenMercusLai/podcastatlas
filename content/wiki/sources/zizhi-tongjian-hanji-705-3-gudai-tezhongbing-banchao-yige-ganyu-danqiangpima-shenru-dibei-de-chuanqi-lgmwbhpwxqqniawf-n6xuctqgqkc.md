@@ -36,7 +36,7 @@ The durable contribution is recap and integration rather than contradiction. The
 
 ## Connections
 
-- [[BanChaoEasternHan|班超]] - gains a compact 705-3 recap of the opening Shanshan, Khotan, Shule, and recall-crisis layers already developed through Hanji 742, 743, and 747.
+- [[BanChaoEasternHan|班超]] - gains a compact 705-3 recap of the opening Shanshan, Khotan, Shule, and recall-crisis layers already developed through 汉纪 742, 743, and 747.
 - [[DouGuEasternHan|窦固]] and [[EmperorMingOfHan|汉明帝]] - provide the command and court setting that lets Ban Chao move from military proof to Western Regions mission.
 - [[ShanshanKingdomLateHan|鄯善国]], [[KhotanKingdomLateHan|于阗国]], and [[NorthernXiongnuLateHan|北匈奴]] - show the first alignment reversals created by Ban Chao's shock diplomacy against rival Xiongnu influence.
 - [[ShuleKingdom|疏勒]] and [[QiuciKingdom|龟兹]] - provide the regime-restoration case where local legitimacy and anti-outsider resentment become strategic leverage.
@@ -46,5 +46,5 @@ The durable contribution is recap and integration rather than contradiction. The
 
 ## Contradictions
 
-- No settled contradiction found. The source is a compact recap of the same early Ban Chao arc separately covered in Hanji 742, Hanji 743, and Hanji 747.
+- No settled contradiction found. The source is a compact recap of the same early Ban Chao arc separately covered in 汉纪 742, 汉纪 743, and 汉纪 747.
 - Source-scope caution: Guo Xun, the unnamed Khotan shaman, the Khotan intermediary, Tian Lu, Duti, the Shule duwei, exact casualty figures, and the "two years to reopen the Silk Road" formulation remain source-scoped unless later bounded notes warrant canonical pages or stronger chronology.

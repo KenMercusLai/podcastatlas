@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Yuanshou 2 / 1 BCE aftermath of [[HanAidi|汉哀帝]]'s death, between [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|Hanji 602]]'s court-visibility layer and [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]]'s Wang Li removal. It follows [[WangMang|王莽]] clearing [[DongXian|董贤]]'s family after Dong Xian's death: confiscating property, dismissing officials advanced through him, relocating relatives, and treating extreme imperial favor as a burden that collapses once the patron is gone.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Yuanshou 2 / 1 BCE aftermath of [[HanAidi|汉哀帝]]'s death, between [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|汉纪 602]]'s court-visibility layer and [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|汉纪 606]]'s Wang Li removal. It follows [[WangMang|王莽]] clearing [[DongXian|董贤]]'s family after Dong Xian's death: confiscating property, dismissing officials advanced through him, relocating relatives, and treating extreme imperial favor as a burden that collapses once the patron is gone.
 
 The durable synthesis is that early Wang Mang consolidation starts as post-favorite cleanup before becoming direct Wang-clan pruning. The source contrasts opportunistic public grief outside the Dong household with [[ZhuXuWesternHan|朱徐]]'s costly private loyalty, then shows Wang Mang using [[KongGuangWesternHan|孔光]]'s prestige and [[ZhenHanXinOfficial|甄邯]]'s channel to turn drafted accusations into formal impeachments against old political opponents and private enemies.
 
@@ -39,7 +39,7 @@ The durable synthesis is that early Wang Mang consolidation starts as post-favor
 ## Connections
 
 - [[DongXian|董贤]], [[HanAidi|汉哀帝]], and [[PostPowerSafetyCollapse|失势后的安全崩塌]] - Dong-family punishment shows favorite-dependent safety collapsing after the ruler's death.
-- [[WangMang|王莽]], [[KongGuangWesternHan|孔光]], [[ZhenHanXinOfficial|甄邯]], and [[PersonaShieldedPoliticalPurge|人设护盾式政治清除]] - the source adds an earlier proxy-impeachment layer before the Wang Li case in Hanji 606.
+- [[WangMang|王莽]], [[KongGuangWesternHan|孔光]], [[ZhenHanXinOfficial|甄邯]], and [[PersonaShieldedPoliticalPurge|人设护盾式政治清除]] - the source adds an earlier proxy-impeachment layer before the Wang Li case in 汉纪 606.
 - [[ZhuXuWesternHan|朱徐]] - personal-loyalty counterexample who buries Dong Xian and is later killed by Wang Mang under another charge.
 - [[ProcedurelessPoliticalPurge|无程序政治清算]] - adjacent cleanup frame because old cases and accusation language become broad post-succession punishment.
 - [[PersonalRevengeThroughStatePower|以国力行私仇]] - adjacent revenge frame for the episode's reading of Wang Mang's action against Wu Jianglong and other old antagonists.

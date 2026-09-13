@@ -13,7 +13,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] late-Han field after [[DongZhuo|董卓]] controls [[LuoyangLateHan|洛阳]] and before the open [[AntiDongZhuoCoalition|反董卓联盟]] forms. It pairs Dong Zhuo's civilian terror in Luoyang with a [[SouthernXiongnu|南匈奴]] succession crisis around [[YufuluoChanyu|于扶罗]], then turns to Dong Zhuo's xiangguo privileges and his attempt to buy legitimacy through offices and famous scholars. The distinct contribution is the contrast between coercive recruitment and real recognition: [[XunShuangLateHan|荀爽]], [[ChenJiLateHan|陈纪]], and [[HanRongLateHan|韩融]] enter Dong Zhuo's court field, while [[ShentuPanLateHan|申屠蟠]] refuses and becomes the source's clearest case of [[CoercedTalentLegitimacy|胁迫征士合法性]] failing.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|汉纪 950]] late-Han field after [[DongZhuo|董卓]] controls [[LuoyangLateHan|洛阳]] and before the open [[AntiDongZhuoCoalition|反董卓联盟]] forms. It pairs Dong Zhuo's civilian terror in Luoyang with a [[SouthernXiongnu|南匈奴]] succession crisis around [[YufuluoChanyu|于扶罗]], then turns to Dong Zhuo's xiangguo privileges and his attempt to buy legitimacy through offices and famous scholars. The distinct contribution is the contrast between coercive recruitment and real recognition: [[XunShuangLateHan|荀爽]], [[ChenJiLateHan|陈纪]], and [[HanRongLateHan|韩融]] enter Dong Zhuo's court field, while [[ShentuPanLateHan|申屠蟠]] refuses and becomes the source's clearest case of [[CoercedTalentLegitimacy|胁迫征士合法性]] failing.
 
 ## Key Claims
 
@@ -38,11 +38,11 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Connections
 
-- [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - terror, formal privilege, and attempted legitimacy packaging before Hanji 950.
+- [[DongZhuo|董卓]], [[LuoyangLateHan|洛阳]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[CoercedTalentLegitimacy|胁迫征士合法性]] - terror, formal privilege, and attempted legitimacy packaging before 汉纪 950.
 - [[SouthernXiongnu|南匈奴]], [[YufuluoChanyu|于扶罗]], [[BaiboArmy|白波军]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - frontier succession and failed armed survival path amid court disorder.
 - [[XunShuangLateHan|荀爽]], [[ChenJiLateHan|陈纪]], [[HanRongLateHan|韩融]], [[ZhouBiLateHan|周毖]], [[WuQiongLateHan|伍琼]], [[ZhengTaiLateHan|郑泰]], and [[HeYongLateHan|何颙]] - scholar and official recruitment field used to decorate Dong Zhuo's rule.
 - [[ShentuPanLateHan|申屠蟠]], [[MoralizedShiIdentity|士的道德化身份]], [[ConfucianLowOfficeReclusion|儒家低职隐居]], and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - refusal, reclusion, and the non-coercive boundary of real talent attraction.
-- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] - next episode where accumulated anti-Dong anger becomes coalition formation and Dong Zhuo kills Liu Bian.
+- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|汉纪 950]] - next episode where accumulated anti-Dong anger becomes coalition formation and Dong Zhuo kills Liu Bian.
 
 ## Contradictions
 

@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode moves one step before [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] by centering [[ChenDeng|陈登]]'s 197 CE meeting with [[CaoCao|曹操]]. Chen Deng labels [[LyuBu|吕布]] as brave but unreliable, and the host turns "轻于去就" into both a late-Han political diagnosis and a modern warning about major life choices. The episode also reads [[ChenGui|陈珪]] and Chen Deng as a father-son team whose short-term balancing, middle-term local base-building, and long-term alignment with Cao Cao preserve family power through Lü Bu's collapse.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode moves one step before [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|汉纪 1018]] by centering [[ChenDeng|陈登]]'s 197 CE meeting with [[CaoCao|曹操]]. Chen Deng labels [[LyuBu|吕布]] as brave but unreliable, and the host turns "轻于去就" into both a late-Han political diagnosis and a modern warning about major life choices. The episode also reads [[ChenGui|陈珪]] and Chen Deng as a father-son team whose short-term balancing, middle-term local base-building, and long-term alignment with Cao Cao preserve family power through Lü Bu's collapse.
 
 ## Key Claims
 - In 197 CE, [[ChenDeng|陈登]] tells [[CaoCao|曹操]] that [[LyuBu|吕布]] is brave but lacks strategy and changes sides too easily.
@@ -36,11 +36,11 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode moves one s
 
 ## Connections
 - [[ChenDeng|陈登]], [[ChenGui|陈珪]], [[CaoCao|曹操]], [[LyuBu|吕布]], and [[GuanglingCommandery|广陵]] - the main late-Han political channel and base-building case.
-- [[QingYuQuJiu|轻于去就]], [[JiFuBaoYang|饥附饱扬]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - adjacent ways the Hanji 1017-1018 branch classifies unstable loyalty and brittle alignment.
+- [[QingYuQuJiu|轻于去就]], [[JiFuBaoYang|饥附饱扬]], and [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - adjacent ways the 汉纪 1017-1018 branch classifies unstable loyalty and brittle alignment.
 - [[XingshiqingStrategicAssessment|行势情战略评估]] and [[PoliticalSurvivalFirst|安全第一政治生存]] - concepts extended by the Chen family's staged reading of risk, timing, and affiliation.
 - [[SunCe|孙策]] and [[Xiapi|下邳]] - source-scoped strategic horizon: Guangling is described as a barrier against Sun Ce's northward pressure, and Chen Deng is said to assist Cao Cao's later attack on Lü Bu at Xiapi.
 
 ## Contradictions
-- No settled contradiction found. This source supplies an earlier Chen Deng / Chen Gui setup for Hanji 1018 rather than reversing its claims.
+- No settled contradiction found. This source supplies an earlier Chen Deng / Chen Gui setup for 汉纪 1018 rather than reversing its claims.
 - Source-scope caution: the transcript's "元素" in the Chen Gui strategy section is likely Yuan Shu in late-Han context, but this page treats that identification as cautious rather than as a new textual correction.
 - Source-scope caution: the episode says Guangling later serves as a barrier against Sun Ce and a base for Cao Cao's eastern plans, but the provided note does not develop Sun Ce or Jiangdong operations in detail.

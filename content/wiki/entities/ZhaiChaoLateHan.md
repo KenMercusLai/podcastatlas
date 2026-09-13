@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-翟超 / Zhai Chao is the Shanyang commandery official in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] who places [[ZhangJianLateHan|张俭]] in a supervisory role and is punished after Zhang challenges [[HouLanLateHan|侯览]]'s local abuses.
+翟超 / Zhai Chao is the Shanyang commandery official in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] who places [[ZhangJianLateHan|张俭]] in a supervisory role and is punished after Zhang challenges [[HouLanLateHan|侯览]]'s local abuses.
 
 ## Current Profile
 
@@ -27,18 +27,18 @@ When eunuch retaliation reaches [[EmperorHuanOfHan|汉桓帝]], Zhai Chao is pun
 
 ## Evidence
 
-- Appointment role: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Zhai Chao appoints Zhang Jian as eastern-area supervisory official.
-- Enforcement consequence: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Zhang Jian then investigates and attacks Hou Lan's illegal wealth and buildings.
-- Punishment: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Emperor Huan punishes Zhai Chao after eunuch complaint reaches court.
-- Remonstrance context: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] has Chen Fan defend Zhai Chao and Huang Fu as officials who acted against harmful power.
+- Appointment role: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Zhai Chao appoints Zhang Jian as eastern-area supervisory official.
+- Enforcement consequence: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Zhang Jian then investigates and attacks Hou Lan's illegal wealth and buildings.
+- Punishment: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Emperor Huan punishes Zhai Chao after eunuch complaint reaches court.
+- Remonstrance context: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] has Chen Fan defend Zhai Chao and Huang Fu as officials who acted against harmful power.
 
 ## Qualifications
 
-The page is limited to Zhai Chao's Hanji 872 role. The source does not reconstruct his full career or specify every administrative step between Zhang Jian's memorials and Zhai Chao's punishment.
+The page is limited to Zhai Chao's 汉纪 872 role. The source does not reconstruct his full career or specify every administrative step between Zhang Jian's memorials and Zhai Chao's punishment.
 
 ## What Changed
 
-- Hanji 872 creates Zhai Chao's canonical page as the appointing official exposed by Zhang Jian's enforcement against Hou Lan.
+- 汉纪 872 creates Zhai Chao's canonical page as the appointing official exposed by Zhang Jian's enforcement against Hou Lan.
 
 ## Relationships
 

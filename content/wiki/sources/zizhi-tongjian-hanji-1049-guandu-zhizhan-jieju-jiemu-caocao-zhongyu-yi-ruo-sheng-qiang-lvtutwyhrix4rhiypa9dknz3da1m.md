@@ -31,7 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode narrates th
 > "曹操没有分兵，反而下令继续猛攻，必须拿下乌巢。" — Cao's refusal to dilute the strike is presented as the raid's operational hinge.
 
 ## Connections
-- [[GuanduCampaign|官渡之战]] — supplies the decisive battle mechanics that connect the earlier Baima/Yanjin phase to the aftermath in Hanji 1050.
+- [[GuanduCampaign|官渡之战]] — supplies the decisive battle mechanics that connect the earlier Baima/Yanjin phase to the aftermath in 汉纪 1050.
 - [[WuchaoRaidLateHan|乌巢夜袭]] — the episode's central event, where intelligence becomes a supply-depot strike.
 - [[SupplyDepotDecisiveStrike|粮草命门打击]] — introduces a concept for concentrated attacks on the enemy's logistical center of gravity.
 - [[XuYouLateHan|许攸]] — provides the intelligence that makes Wuchao targetable; the source text says "许由," normalized here to the existing Xu You page.

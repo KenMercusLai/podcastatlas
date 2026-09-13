@@ -15,7 +15,7 @@ knowledge_schema: synthesis-v1
 许褚 / Xu Chu is a late-Han military protector whose current profile runs from local fortified defense to trusted close guard for [[CaoCao|曹操]].
 
 ## Current Profile
-The evidence portrays Xu Chu as force disciplined into security capacity. Hanji 1020 shows him protecting local households and then attaching himself to Cao Cao's larger power; Hanji 1039 shows the close-guard role functioning under stress when he detects and kills Xu Ta's assassination group.
+The evidence portrays Xu Chu as force disciplined into security capacity. 汉纪 1020 shows him protecting local households and then attaching himself to Cao Cao's larger power; 汉纪 1039 shows the close-guard role functioning under stress when he detects and kills Xu Ta's assassination group.
 
 ## Key Characteristics
 - Builds local protection capacity in disorder by gathering warriors and kin.
@@ -25,17 +25,17 @@ The evidence portrays Xu Chu as force disciplined into security capacity. Hanji 
 - Becomes even more trusted after the incident, with Cao Cao keeping him near day and night.
 
 ## Evidence
-- Local defense origin: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] says Xu Chu gathers warriors and kin to protect thousands of households after Yellow Turban disruption.
-- Strategic attachment: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] frames Xu Chu's move to Cao Cao as a correct reading of勢.
-- Guard suitability: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] stresses both ferocity and discipline, including Cao Cao's Fan Kuai comparison.
-- Assassination prevention: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] says Xu Chu unexpectedly returns, notices Xu Ta's group looking suspicious, and kills them.
-- Increased trust: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] says Cao Cao then relies on Xu Chu even more and keeps him by his side day and night.
+- Local defense origin: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|汉纪 1020]] says Xu Chu gathers warriors and kin to protect thousands of households after Yellow Turban disruption.
+- Strategic attachment: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|汉纪 1020]] frames Xu Chu's move to Cao Cao as a correct reading of勢.
+- Guard suitability: [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|汉纪 1020]] stresses both ferocity and discipline, including Cao Cao's Fan Kuai comparison.
+- Assassination prevention: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] says Xu Chu unexpectedly returns, notices Xu Ta's group looking suspicious, and kills them.
+- Increased trust: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] says Cao Cao then relies on Xu Chu even more and keeps him by his side day and night.
 
 ## Qualifications
 The current sources build Xu Chu as a protection figure, not as a complete campaign biography. The Xu Ta episode also shows that strict guard discipline can generate resentment elsewhere in the unit, so Xu Chu's success does not remove the broader close-guard risk.
 
 ## What Changed
-- Added Hanji 1039's Xu Ta assassination attempt and Xu Chu's response.
+- Added 汉纪 1039's Xu Ta assassination attempt and Xu Chu's response.
 - Migrated the page to synthesis-v1.
 
 ## Relationships

@@ -11,7 +11,7 @@ last_updated: 2026-08-30
 # 博望坡之战 / Bowang Slope Battle (Late Han)
 
 ## Overview
-博望坡之战 / Bowang Slope Battle enters the wiki through [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|Hanji 1057]] as Liu Bei's burned-camp lure against Cao-side commanders. The episode's distinctive contribution is the contrast between the historical account and later [[RomanceOfTheThreeKingdoms|Romance]] memory: the source attributes the plan to [[LiuBei|刘备]], not [[ZhugeLiang|诸葛亮]].
+博望坡之战 / Bowang Slope Battle enters the wiki through [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|汉纪 1057]] as Liu Bei's burned-camp lure against Cao-side commanders. The episode's distinctive contribution is the contrast between the historical account and later [[RomanceOfTheThreeKingdoms|Romance]] memory: the source attributes the plan to [[LiuBei|刘备]], not [[ZhugeLiang|诸葛亮]].
 
 ## Current Profile
 Under [[LiuBiao|刘表]]'s shelter, Liu Bei moves north and reaches Bowang. [[CaoCao|曹操]] sends [[XiahouDun|夏侯惇]] and [[YuJin|于禁]], with [[LiDian|李典]] also in the force. Liu Bei burns his camp and retreats; Li Dian warns that an unexplained retreat through narrow, wooded terrain looks like an ambush. Xiahou Dun pursues anyway, enters the trap, and Li Dian's rescue prevents a deeper defeat.
@@ -24,15 +24,15 @@ Under [[LiuBiao|刘表]]'s shelter, Liu Bei moves north and reaches Bowang. [[Ca
 - Adds an active battlefield branch to Liu Bei's otherwise shelter-and-recovery posture under Liu Biao.
 
 ## Evidence
-- Battle sequence: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|Hanji 1057]] says Liu Bei attacks north from Liu Biao's side, burns his camp, withdraws, and ambushes Xiahou Dun's pursuing force.
-- Warning failure: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|Hanji 1057]] emphasizes Li Dian's correct warning about ambush signs and terrain before his rescue of Xiahou Dun.
-- Attribution contrast: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|Hanji 1057]] explicitly contrasts official-history/chronicle attribution to Liu Bei with the later Romance account associated with Zhuge Liang.
+- Battle sequence: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|汉纪 1057]] says Liu Bei attacks north from Liu Biao's side, burns his camp, withdraws, and ambushes Xiahou Dun's pursuing force.
+- Warning failure: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|汉纪 1057]] emphasizes Li Dian's correct warning about ambush signs and terrain before his rescue of Xiahou Dun.
+- Attribution contrast: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|汉纪 1057]] explicitly contrasts official-history/chronicle attribution to Liu Bei with the later Romance account associated with Zhuge Liang.
 
 ## Qualifications
 This page is limited to the source's Bowang account. It does not adjudicate every later literary version of the battle; it records the wiki-relevant distinction that the episode itself makes.
 
 ## What Changed
-- Created the page from Hanji 1057's Bowang ambush branch.
+- Created the page from 汉纪 1057's Bowang ambush branch.
 
 ## Relationships
 - [[LiuBei|刘备]] - source-attributed planner and ambush actor.

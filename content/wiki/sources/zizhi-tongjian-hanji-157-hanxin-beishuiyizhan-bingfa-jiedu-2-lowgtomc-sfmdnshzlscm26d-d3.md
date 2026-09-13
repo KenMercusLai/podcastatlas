@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] by moving [[HanXin|韩信]]'s [[BackwaterBattle|背水一战]] from battlefield doctrine into post-victory strategy. It emphasizes that Han Xin won through intelligence and psychological shock, then respected [[LiZuoChe|李左车]] as a usable strategist rather than treating him only as a defeated enemy. Li Zuoche advises rest, pacification, envoy pressure, and sequential persuasion of [[YanState|燕国]] and [[QiState|齐国]], making the episode a source case for [[VictoryDeterrenceDiplomacy|胜势威慑外交]] and an extension of [[PoliticalSurrenderCascade|招降示范级联]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|汉纪 157 part 1]] by moving [[HanXin|韩信]]'s [[BackwaterBattle|背水一战]] from battlefield doctrine into post-victory strategy. It emphasizes that Han Xin won through intelligence and psychological shock, then respected [[LiZuoChe|李左车]] as a usable strategist rather than treating him only as a defeated enemy. Li Zuoche advises rest, pacification, envoy pressure, and sequential persuasion of [[YanState|燕国]] and [[QiState|齐国]], making the episode a source case for [[VictoryDeterrenceDiplomacy|胜势威慑外交]] and an extension of [[PoliticalSurrenderCascade|招降示范级联]].
 
 ## Key Claims
 - [[HanXin|韩信]]'s victory over [[ZhaoState|赵国]] depends partly on spy-confirmed knowledge that [[ChenYu|陈馀]] rejected [[LiZuoChe|李左车]]'s plan, while Zhao misreads Han's actual force and rear threat.
@@ -46,6 +46,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 - [[BailiXi|百里奚]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[UseStrengthsOverFaults|用人取长弃短]] - Han Xin's argument for taking defeated or previously unused talent seriously.
 
 ## Contradictions
-- No settled contradiction is recorded. The source deepens [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] by showing that the same intelligence-and-psychology chain matters after the battle as well as during it.
+- No settled contradiction is recorded. The source deepens [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|汉纪 157 part 1]] by showing that the same intelligence-and-psychology chain matters after the battle as well as during it.
 - The transcript form "陈瑜" is normalized to the wiki's canonical [[ChenYu|陈馀]] page.
 - Qi's submission remains source-scoped as Li Zuoche's predicted next step; this episode records Yan's submission but does not narrate a completed Qi surrender.

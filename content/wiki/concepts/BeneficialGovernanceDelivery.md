@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] grounds the concept through [[MaRongLateHan|马融]]'s memorial after the Luoyang ground split. Ma Rong says the court already has many laws and seasonal prohibitions, and the people have repeatedly heard that good government is coming. The problem is delivery: promises have not become felt benefit, so complaint remains.
+[[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]] grounds the concept through [[MaRongLateHan|马融]]'s memorial after the Luoyang ground split. Ma Rong says the court already has many laws and seasonal prohibitions, and the people have repeatedly heard that good government is coming. The problem is delivery: promises have not become felt benefit, so complaint remains.
 
 Ma Rong's proposed delivery layer is household-level rather than slogan-level. Marriage rites should be reduced so adults can marry in time; funerals and sacrifices should be simplified so burial is not delayed by cost; farming time should not be interrupted; a person with spouse, children, savings, and property is less likely to abandon the household for wrongdoing. In wiki terms, the concept links [[PeopleBasedPoliticalSecurity|民心型政治安全]] to ordinary administrative friction: state legitimacy is measured by whether public policy reaches people's time, money, family, and agricultural cycle.
 
@@ -29,11 +29,11 @@ Ma Rong's proposed delivery layer is household-level rather than slogan-level. M
 
 ## Evidence
 
-- Promise-delivery gap: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says Ma Rong argues that people have heard many promises of good government but have not seen real benefits.
-- Rule-saturation warning: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says laws, regulations, and seasonal prohibitions are already adequate and should not simply be multiplied.
-- Marriage and funeral burdens: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] has Ma Rong propose reducing marriage rites and simplifying funerary sacrifice so life-cycle duties can proceed in time.
-- Farming season: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says good harvest depends on not missing agricultural timing.
-- Household attachment: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] says people with spouse, children, family savings, and property are less likely to abandon home and commit crimes.
+- Promise-delivery gap: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]] says Ma Rong argues that people have heard many promises of good government but have not seen real benefits.
+- Rule-saturation warning: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]] says laws, regulations, and seasonal prohibitions are already adequate and should not simply be multiplied.
+- Marriage and funeral burdens: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]] has Ma Rong propose reducing marriage rites and simplifying funerary sacrifice so life-cycle duties can proceed in time.
+- Farming season: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]] says good harvest depends on not missing agricultural timing.
+- Household attachment: [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]] says people with spouse, children, family savings, and property are less likely to abandon home and commit crimes.
 
 ## Counterevidence & Qualifications
 

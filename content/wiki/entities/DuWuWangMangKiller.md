@@ -10,26 +10,26 @@ last_updated: 2026-09-08
 
 ## Overview
 
-杜吾 / Du Wu enters the wiki through [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] as the soldier, framed by the episode as a Chang'an market butcher, who kills [[WangMang|王莽]] inside Jian Terrace during the final collapse of the [[XinDynasty|新朝]]. His importance is symbolic as much as biographical: the source turns Wang Mang's death by a butcher's knife into a vivid status reversal.
+杜吾 / Du Wu enters the wiki through [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] as the soldier, framed by the episode as a Chang'an market butcher, who kills [[WangMang|王莽]] inside Jian Terrace during the final collapse of the [[XinDynasty|新朝]]. His importance is symbolic as much as biographical: the source turns Wang Mang's death by a butcher's knife into a vivid status reversal.
 
 ## Current Profile
 
-Hanji 667 presents Du Wu as a low-ranking soldier who enters the inner room where Wang Mang is hiding. The episode says Wang Mang does not answer when questioned, while Du Wu identifies himself through his market-butcher background and knife skill, then kills him.
+汉纪 667 presents Du Wu as a low-ranking soldier who enters the inner room where Wang Mang is hiding. The episode says Wang Mang does not answer when questioned, while Du Wu identifies himself through his market-butcher background and knife skill, then kills him.
 
 The current wiki does not treat Du Wu as a fully reconstructed historical actor. His page exists because he is the named killer in the source's terminal Wang Mang scene and because his occupation-background framing helps the episode convert imperial collapse into social reversal: a ruler who built sacred and moralized legitimacy dies not through high ceremony but through the ordinary violence of a butcher-soldier.
 
 ## Key Characteristics
 
-- Named killer of Wang Mang in the Hanji 667 terminal scene.
+- Named killer of Wang Mang in the 汉纪 667 terminal scene.
 - Low-status soldier framed by the source through Chang'an market butchery and knife skill.
 - Symbolic agent of status reversal from sacred ruler to exposed body.
 - Source-bounded figure whose broader biography is not established in the current wiki.
 
 ## Evidence
 
-- Identification and setting: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] says Du Wu finds Wang Mang in the inner room of Jian Terrace.
-- Butcher-soldier framing: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] presents Du Wu as from the Chang'an market and skilled with a knife.
-- Killing of Wang Mang: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] says Du Wu kills Wang Mang before the later decapitation, dismemberment, and public head-display sequence.
+- Identification and setting: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] says Du Wu finds Wang Mang in the inner room of Jian Terrace.
+- Butcher-soldier framing: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] presents Du Wu as from the Chang'an market and skilled with a knife.
+- Killing of Wang Mang: [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] says Du Wu kills Wang Mang before the later decapitation, dismemberment, and public head-display sequence.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ Du Wu's current page is one-source bounded. The source's dialogue, psychology, o
 
 ## What Changed
 
-- Created the page from Hanji 667's named Wang Mang killing scene.
+- Created the page from 汉纪 667's named Wang Mang killing scene.
 
 ## Relationships
 

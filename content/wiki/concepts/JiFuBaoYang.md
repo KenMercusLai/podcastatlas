@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 饥附饱扬 / Ji Fu Bao Yang
 
-饥附饱扬 / Ji Fu Bao Yang enters the wiki through [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] as [[ChenDeng|陈登]]'s reported description of how [[CaoCao|曹操]] judges [[LyuBu|吕布]]. The phrase names a dependency pattern: when hungry or constrained, a person attaches; once fed or secure, that person lifts off and leaves.
+饥附饱扬 / Ji Fu Bao Yang enters the wiki through [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|汉纪 1018]] as [[ChenDeng|陈登]]'s reported description of how [[CaoCao|曹操]] judges [[LyuBu|吕布]]. The phrase names a dependency pattern: when hungry or constrained, a person attaches; once fed or secure, that person lifts off and leaves.
 
 The concept is not a general claim that all alliance behavior is selfish. Its wiki use is narrower: it marks a leader whose cooperation may depend on continued need rather than trust, institutional commitment, or shared durable interest. In the source, this lets Chen Deng turn Cao Cao's suspicion into a face-saving explanation Lü Bu can accept.
 

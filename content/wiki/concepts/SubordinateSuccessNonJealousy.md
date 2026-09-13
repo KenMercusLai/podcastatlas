@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # Subordinate Success Non-Jealousy / 下属成就不嫉妒
 
-Subordinate Success Non-Jealousy / 下属成就不嫉妒 is the leadership pattern introduced by [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] through [[SunCe|孙策]]'s reaction to [[ZhangZhaoLateHan|张昭]]. When northern士大夫 credit Zhang Zhao for Jiangdong's achievements, Sun Ce is pleased rather than threatened, treating Zhang Zhao's reputation as proof of organizational success.
+Subordinate Success Non-Jealousy / 下属成就不嫉妒 is the leadership pattern introduced by [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|汉纪 994]] through [[SunCe|孙策]]'s reaction to [[ZhangZhaoLateHan|张昭]]. When northern士大夫 credit Zhang Zhao for Jiangdong's achievements, Sun Ce is pleased rather than threatened, treating Zhang Zhao's reputation as proof of organizational success.
 
 The source generalizes the lesson through [[QiHuanGong|齐桓公]] and [[GuanZhong|管仲]], [[LiuBei|刘备]] and [[ZhugeLiang|诸葛亮]], and [[CaoCao|曹操]] and [[XunYu|荀彧]]. A leader's job is not to keep every capable person below his own cognitive ceiling, but to identify, trust, and benefit from people who can supply judgment or execution the leader lacks.
 
@@ -24,5 +24,5 @@ The concept also has a self-cultivation side. The episode uses [[ZengGuofan|曾�
 - [[SunCe|孙策]] and [[ZhangZhaoLateHan|张昭]] - source case for non-jealous recognition of subordinate credit.
 - [[ZhangHongLateHan|张纮]], [[QinSongLateHan|秦松]], and [[ChenDuanLateHan|陈端]] - broader Jiangdong talent bench.
 - [[TalentAsStateTreasure|以贤臣为宝]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - adjacent talent-use concepts.
-- [[OperationalGapOwnership|主动补组织短板]] - paired Hanji 994 lesson about execution responsibility.
+- [[OperationalGapOwnership|主动补组织短板]] - paired 汉纪 994 lesson about execution responsibility.
 - [[ZengGuofan|曾国藩]], [[YanHui|颜回]], and [[Analects|《论语》]] - self-cultivation branch.

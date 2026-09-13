@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 周尚 / Zhou Shang (late Han)
 
-周尚 / Zhou Shang (late Han) enters the wiki through [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] as [[ZhouYuLateHan|周瑜]]'s uncle and the [[DanyangCommandery|丹阳郡]] governor whose position helps Zhou Yu support [[SunCe|孙策]]. The episode does not make Zhou Shang the battlefield protagonist, but his office supplies the institutional channel behind Zhou Yu's soldiers, boats, funds, grain, and recruitment access.
+周尚 / Zhou Shang (late Han) enters the wiki through [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|汉纪 992]] as [[ZhouYuLateHan|周瑜]]'s uncle and the [[DanyangCommandery|丹阳郡]] governor whose position helps Zhou Yu support [[SunCe|孙策]]. The episode does not make Zhou Shang the battlefield protagonist, but his office supplies the institutional channel behind Zhou Yu's soldiers, boats, funds, grain, and recruitment access.
 
 The page is source-scoped. Zhou Shang matters because Sun Ce's early expansion is not only personal bravery; it depends on a regional elite and administrative network that makes cross-river campaigning possible.
 

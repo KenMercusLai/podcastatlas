@@ -11,7 +11,7 @@ last_updated: 2026-08-29
 ---
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 121 CE death of [[EmpressDowagerDengLateHan|和熹邓皇后 / Empress Dowager Deng]] immediately before [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|Hanji 794]]. It clarifies that the source only states she became ill in the second month and died on the thirteenth day of the third month, while using the death to assess her long regency under disaster, frontier war, fiscal strain, and gendered legitimacy pressure.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 121 CE death of [[EmpressDowagerDengLateHan|和熹邓皇后 / Empress Dowager Deng]] immediately before [[zizhi-tongjian-hanji-794-yidai-nvjun-dengsui-qushi-hou-jing-quanjia-zaoyang-llmlhabdd09opca6-pr80q4mfoxi|汉纪 794]]. It clarifies that the source only states she became ill in the second month and died on the thirteenth day of the third month, while using the death to assess her long regency under disaster, frontier war, fiscal strain, and gendered legitimacy pressure.
 
 The durable synthesis is that Deng's death opens [[EmperorAnOfHan|汉安帝]]'s personal rule but does not itself stabilize the regime. An reuses critics such as [[DuGenLateHan|杜根]] and [[ChengYishiLateHan|成翊世]], [[ChenZhongLateHan|陈忠]] recommends upright people, [[MaXianLateHan|马贤]] and the Goguryeo notice keep frontier pressure visible, and An's ancestral honors mark a new legitimacy arrangement after the regency.
 
@@ -20,7 +20,7 @@ The durable synthesis is that Deng's death opens [[EmperorAnOfHan|汉安帝]]'s 
 - Deng's regency is evaluated under [[RegencyUnderCompoundCrisis|compound crisis]]: recurring disasters, Qiang and Xianbei pressure, banditry, fiscal depletion, and gendered public criticism all shape the judgment.
 - The episode credits Deng with personal austerity, relief, frugality, school and ritual repair, pardons, tax and labor reduction, palace-labor release, and Jiangnan development measures.
 - The major qualification is frontier policy: the Western Regions and Qiang war are described as costly, long, fiscally draining, and only later repaired through figures such as [[BanYongLateHan|班勇]].
-- Ma Xian's 121 CE Qiang-front action adds an earlier coercive layer before his mixed Hanji 796 profile and later victories.
+- Ma Xian's 121 CE Qiang-front action adds an earlier coercive layer before his mixed 汉纪 796 profile and later victories.
 - After Deng's death, Emperor An starts personal rule by accepting Chen Zhong's personnel recommendations and restoring Du Gen and Cheng Yishi, both associated with return-power remonstrance.
 - Du Gen's survival by feigned death and long hiding shows a precise early case of [[CrisisWithdrawalSelfProtection|crisis withdrawal self-protection]] before later party-prohibition comparisons.
 - An's honors for Liu Qing, Zuo Shi, and Song Guiren root the new personal-rule phase in natal-lineage legitimacy, but those figures remain source-scoped here.
@@ -49,6 +49,6 @@ The durable synthesis is that Deng's death opens [[EmperorAnOfHan|汉安帝]]'s 
 - [[StrategicFrontierAbandonment]] - adjacent frontier concept qualified by the episode's Western Regions and Qiang criticism.
 
 ## Contradictions
-- No settled contradiction is introduced. The episode refines chronology by putting Deng's illness, death, and Emperor An's first personal-rule personnel decisions immediately before Hanji 794's anti-Deng slander and purge wave.
+- No settled contradiction is introduced. The episode refines chronology by putting Deng's illness, death, and Emperor An's first personal-rule personnel decisions immediately before 汉纪 794's anti-Deng slander and purge wave.
 - Death-cause caution: the source records illness and death dates but does not identify a specific disease, poisoning, or other medical cause.
 - Scope caution: Lu Cong, Du Chong, Ren Liang, Yin Yi, Liu Qing, Zuo Shi, Song Guiren, and the exact disaster and Jiangnan-development claims remain source-scoped unless later evidence makes them durable wiki subjects.

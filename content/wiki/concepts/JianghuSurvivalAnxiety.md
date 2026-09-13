@@ -44,8 +44,8 @@ The episode extends the logic upward into imperial politics by briefly invoking 
 The concept is drawn from two short interpretive episodes. It should not flatten all Jianghu association into predation, since related pages show craft, mutual aid, mediation, and reputation constraints as well. The Zhu Yuanzhang comparison is not yet integrated into an entity page and should stay source-scoped.
 
 ## What Changed
-- Created the concept from Hanji 483-3 to capture the episode's anxiety-based explanation of Jianghu violence, money, and post-victory threat perception.
-- Added Hanji 483-2's hunger-and-livelihood layer for marginal Jianghu survival.
+- Created the concept from 汉纪 483-3 to capture the episode's anxiety-based explanation of Jianghu violence, money, and post-victory threat perception.
+- Added 汉纪 483-2's hunger-and-livelihood layer for marginal Jianghu survival.
 
 ## Related Concepts
 - [[JianghuVirtualKinship]] - explains how the same anxiety is organized through family-like roles.

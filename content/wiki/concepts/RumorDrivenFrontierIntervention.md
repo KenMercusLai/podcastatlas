@@ -14,7 +14,7 @@ Rumor-driven frontier intervention / 谣言驱动的边疆干预 is the failure 
 
 ## Current Synthesis
 
-Hanji 838 defines the concept through [[WangJingXiyuLateHan|王敬]]'s Khotan intervention. The original problem is real enough to require inquiry: former Western Regions chief clerk Zhao Ping has died in [[KhotanKingdomLateHan|于阗国]], and his son reports [[JumiKingChengguoLateHan|居弥王成国]]'s claim that [[KhotanKingJianLateHan|于阗王建]] arranged the death.
+汉纪 838 defines the concept through [[WangJingXiyuLateHan|王敬]]'s Khotan intervention. The original problem is real enough to require inquiry: former Western Regions chief clerk Zhao Ping has died in [[KhotanKingdomLateHan|于阗国]], and his son reports [[JumiKingChengguoLateHan|居弥王成国]]'s claim that [[KhotanKingJianLateHan|于阗王建]] arranged the death.
 
 The failure comes from how the claim is processed. Chengguo is a hostile rival and has a plausible interest in displacing Jian, but Wang Jing treats the story and Chengguo's claim of Khotanese support as an opportunity for merit. Investigation becomes banquet seizure and killing. Once coercion outruns proof, Wang's assertion of imperial command loses credibility, Khotanese actors kill him, [[ShuboKhotanLateHan|输僰]] briefly seizes the throne, and [[AnGuoKhotanLateHan|安国]] has to be installed after another killing.
 
@@ -28,11 +28,11 @@ The failure comes from how the claim is processed. Chengguo is a hostile rival a
 
 ## Evidence
 
-- Accusation channel: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Chengguo tells Zhao Ping's son that King Jian caused Zhao Ping's death through a Xiongnu doctor.
-- Rival incentive: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Chengguo and Jian have old enmity and that Chengguo later claims Khotanese people want him as king.
-- Official capture: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Wang Jing is ambitious and sees the case as an opportunity.
-- Coercive intervention: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] records Wang Jing's banquet seizure and Qin Mu's beheading of King Jian.
-- Escalation: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Khotanese actors kill Wang Jing, reject Shubo's self-enthronement, and install Anguo.
+- Accusation channel: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Chengguo tells Zhao Ping's son that King Jian caused Zhao Ping's death through a Xiongnu doctor.
+- Rival incentive: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Chengguo and Jian have old enmity and that Chengguo later claims Khotanese people want him as king.
+- Official capture: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Wang Jing is ambitious and sees the case as an opportunity.
+- Coercive intervention: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] records Wang Jing's banquet seizure and Qin Mu's beheading of King Jian.
+- Escalation: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Khotanese actors kill Wang Jing, reject Shubo's self-enthronement, and install Anguo.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ This concept is grounded in one source note and should not be generalized to eve
 
 ## What Changed
 
-- Created the concept from Hanji 838's Wang Jing, Jumi, and Khotan incident.
+- Created the concept from 汉纪 838's Wang Jing, Jumi, and Khotan incident.
 - Added a frontier information-failure pattern distinct from battlefield defeat or formal recognition diplomacy.
 
 ## Related Concepts

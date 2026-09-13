@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Overview
 
-班至 / Ban Zhi enters the wiki as the Guangping chancellor in [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] whose refusal or failure to report auspicious signs becomes dangerous under [[WangMang|王莽]]'s praise-heavy 5 CE court. His survival depends on [[WangZhengjun|王政君]]'s distinction between non-praise and disaster fabrication, plus his own visible retreat into a lower cemetery-guard role.
+班至 / Ban Zhi enters the wiki as the Guangping chancellor in [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] whose refusal or failure to report auspicious signs becomes dangerous under [[WangMang|王莽]]'s praise-heavy 5 CE court. His survival depends on [[WangZhengjun|王政君]]'s distinction between non-praise and disaster fabrication, plus his own visible retreat into a lower cemetery-guard role.
 
 ## Current Profile
 
@@ -27,18 +27,18 @@ Ban Zhi survives because his case has a protectable boundary. Wang Zhengjun reme
 
 ## Evidence
 
-- Nonparticipation in praise: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] says Ban Zhi never reports Guangping auspicious signs or local songs to the court.
-- Accusation channel: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] says Zhen Feng has subordinates induce local accusations against Ban Zhi and Gongsun Hong.
-- Dowager distinction: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] says Wang Zhengjun separates Ban Zhi's non-praise from Gongsun Hong's disaster-report accusation.
-- Visible retreat: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|Hanji 625]] says Ban Zhi thanks the court, returns his chancellor seal, and asks to serve as a Yanling yuanlang.
+- Nonparticipation in praise: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] says Ban Zhi never reports Guangping auspicious signs or local songs to the court.
+- Accusation channel: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] says Zhen Feng has subordinates induce local accusations against Ban Zhi and Gongsun Hong.
+- Dowager distinction: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] says Wang Zhengjun separates Ban Zhi's non-praise from Gongsun Hong's disaster-report accusation.
+- Visible retreat: [[zizhi-tongjian-hanji-625-jiemi-renxing-anmian-weihe-pangren-chenggong-zong-ling-women-xinsheng-jihen-li64ngkv8nujwegbix6iororjmbo|汉纪 625]] says Ban Zhi thanks the court, returns his chancellor seal, and asks to serve as a Yanling yuanlang.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 625. It does not reconstruct Ban Zhi's full career, the exact legal status of the accusation, or whether his silence came from principle, caution, administrative habit, or factional distance.
+This page is source-bounded to 汉纪 625. It does not reconstruct Ban Zhi's full career, the exact legal status of the accusation, or whether his silence came from principle, caution, administrative habit, or factional distance.
 
 ## What Changed
 
-- Created from Hanji 625 as the official who survives praise-politics danger through dowager protection and visible retreat.
+- Created from 汉纪 625 as the official who survives praise-politics danger through dowager protection and visible retreat.
 
 ## Relationships
 

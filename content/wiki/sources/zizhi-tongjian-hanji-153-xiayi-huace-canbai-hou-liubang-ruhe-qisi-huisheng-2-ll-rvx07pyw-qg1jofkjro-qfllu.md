@@ -11,7 +11,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153 part 1]] by moving from [[XiayiPlan|下邑画策]] into the first recovery mechanisms after the [[PengchengBattle|彭城之战]]. [[LiuBang|刘邦]] sends [[SuiHe|随何]] toward Jiujiang, falls back to [[YingyangWarringStates|荥阳]], receives emergency support from [[XiaoHe|萧何]] and [[HanXin|韩信]], and begins [[HanCavalryFormation|汉军骑兵建设]] under [[GuanYing|灌婴]]. The episode closes by shifting from battlefield repair to internal politics, as [[ZhouBo|周勃]] and Guan Ying attack [[ChenPing|陈平]] over character, loyalty, and alleged bribery.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|汉纪 153 part 1]] by moving from [[XiayiPlan|下邑画策]] into the first recovery mechanisms after the [[PengchengBattle|彭城之战]]. [[LiuBang|刘邦]] sends [[SuiHe|随何]] toward Jiujiang, falls back to [[YingyangWarringStates|荥阳]], receives emergency support from [[XiaoHe|萧何]] and [[HanXin|韩信]], and begins [[HanCavalryFormation|汉军骑兵建设]] under [[GuanYing|灌婴]]. The episode closes by shifting from battlefield repair to internal politics, as [[ZhouBo|周勃]] and Guan Ying attack [[ChenPing|陈平]] over character, loyalty, and alleged bribery.
 
 ## Key Claims
 - Liu Bang's recovery is multi-line rather than single-stroke: diplomacy against [[YingBu|英布]], defensive concentration at [[YingyangWarringStates|荥阳]], Guanzhong emergency mobilization, Han Xin's blocking action, cavalry-building, and supply-road work all matter.
@@ -33,13 +33,13 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 > "劉邦此前主要依靠步兵" - setup for why cavalry-building becomes urgent.
 
 ## Connections
-- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153 part 1]], [[XiayiPlan|下邑画策]], [[SuiHe|随何]], and [[YingBu|英布]] - plan and Jiujiang mission setup.
+- [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|汉纪 153 part 1]], [[XiayiPlan|下邑画策]], [[SuiHe|随何]], and [[YingBu|英布]] - plan and Jiujiang mission setup.
 - [[PengchengBattle|彭城之战]], [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - defeat pattern and political crisis being repaired.
 - [[XingyangStandoff|荥阳相持]], [[YingyangWarringStates|荥阳]], [[XiaoHe|萧何]], [[HanXin|韩信]], and [[Aocang|敖仓]] - defensive line, emergency manpower, pursuit block, and grain logistics.
 - [[HanCavalryFormation|汉军骑兵建设]], [[GuanYing|灌婴]], [[LiBiQinCavalry|李璧]], [[LuoJiaQinCavalry|骆甲]], and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - mounted-force adaptation after Pengcheng.
 - [[ChenPing|陈平]], [[ZhouBo|周勃]], [[VeteranMeritCliqueSupervision|功臣旧将监督]], and [[OutsiderTalentSignaling|厚待外来人才信号]] - old-general backlash against Liu Bang's use of an outsider.
 
 ## Contradictions
-- No settled contradiction is recorded. This source extends Hanji 153 part 1 by showing initial execution and stabilization after the plan, rather than changing the Xiayi Plan itself.
+- No settled contradiction is recorded. This source extends 汉纪 153 part 1 by showing initial execution and stabilization after the plan, rather than changing the Xiayi Plan itself.
 - Source-scope caution: Guan Ying being "only second to Xiang Yu" as a cavalry tactician is recorded as the host's evaluation, not as an independent ranking.
-- Source-scope caution: the claims against Chen Ping are accusations inside a personnel conflict; this episode ends before resolving their truth or Chen Ping's answer. [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] follows up by treating "受金" as practically explainable and "盗嫂" as likely slander.
+- Source-scope caution: the claims against Chen Ping are accusations inside a personnel conflict; this episode ends before resolving their truth or Chen Ping's answer. [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|汉纪 154]] follows up by treating "受金" as practically explainable and "盗嫂" as likely slander.

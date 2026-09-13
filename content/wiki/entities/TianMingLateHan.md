@@ -10,7 +10,7 @@ last_updated: 2026-08-28
 
 ## Overview
 
-田明 / Tian Ming is the Jiangxia commandery official paired with [[MaRongLateHan|马融]] in Hanji 836. His brief profile matters because he shows the lethal edge of Liang Ji's retaliation: the same monitored visit that Ma Rong survives leads Tian Ming into exile and death.
+田明 / Tian Ming is the Jiangxia commandery official paired with [[MaRongLateHan|马融]] in 汉纪 836. His brief profile matters because he shows the lethal edge of Liang Ji's retaliation: the same monitored visit that Ma Rong survives leads Tian Ming into exile and death.
 
 ## Current Profile
 
@@ -28,9 +28,9 @@ Tian Ming's current wiki role is therefore source-bounded: he is not a full biog
 
 ## Evidence
 
-- Office and visit: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] says Tian Ming is newly appointed to Jiangxia and visits Liang Buyi while traveling.
-- Retaliatory accusation: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] says Liang Ji's side creates a charge against Tian Ming after the visit.
-- Punishment and death: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] says Tian Ming receives hair-removal punishment, flogging, and exile to Shuofang, and dies during that exile.
+- Office and visit: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]] says Tian Ming is newly appointed to Jiangxia and visits Liang Buyi while traveling.
+- Retaliatory accusation: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]] says Liang Ji's side creates a charge against Tian Ming after the visit.
+- Punishment and death: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]] says Tian Ming receives hair-removal punishment, flogging, and exile to Shuofang, and dies during that exile.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ This page is intentionally narrow. The source does not supply Tian Ming's earlie
 
 ## What Changed
 
-- Created Tian Ming as Hanji 836's exile casualty in Liang Ji's retaliation against Liang Buyi's visitors.
+- Created Tian Ming as 汉纪 836's exile casualty in Liang Ji's retaliation against Liang Buyi's visitors.
 
 ## Relationships
 

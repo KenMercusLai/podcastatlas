@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|Hanji 149 part 1]] by shifting from [[MiXin|芈心 / 楚怀王]]'s killing to the rapid territorial consequences of [[LiuBang|刘邦]]'s eastward move. Liu Bang absorbs [[ShenYang|申阳]]'s Henan territory, installs [[HanWangXin|韩王信]] after [[ZhengChangHanKing|郑昌]] surrenders, moves his capital to [[LiyangQinHan|栎阳]], and pushes into Longxi, Beidi, Wei, and Henei. The counterpoint is [[XiangYu|项羽]]'s punitive Qi campaign: after [[TianRong|田荣]] is killed, Xiang Yu continues killing, burning, and plundering, turning possible submission into renewed resistance.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-1-lsqxs2hzu0ngnrpmzsklkqhtyuvw|汉纪 149 part 1]] by shifting from [[MiXin|芈心 / 楚怀王]]'s killing to the rapid territorial consequences of [[LiuBang|刘邦]]'s eastward move. Liu Bang absorbs [[ShenYang|申阳]]'s Henan territory, installs [[HanWangXin|韩王信]] after [[ZhengChangHanKing|郑昌]] surrenders, moves his capital to [[LiyangQinHan|栎阳]], and pushes into Longxi, Beidi, Wei, and Henei. The counterpoint is [[XiangYu|项羽]]'s punitive Qi campaign: after [[TianRong|田荣]] is killed, Xiang Yu continues killing, burning, and plundering, turning possible submission into renewed resistance.
 
 ## Key Claims
 - After killing [[HanCheng|韩成]], Xiang Yu makes [[ZhengChangHanKing|郑昌]] king of Han, but the choice exposes his reliance on old Xiang-line loyalists rather than a durable Han restoration settlement.

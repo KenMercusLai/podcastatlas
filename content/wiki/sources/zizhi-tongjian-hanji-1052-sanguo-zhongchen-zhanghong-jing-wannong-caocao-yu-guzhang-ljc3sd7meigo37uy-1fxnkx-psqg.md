@@ -40,6 +40,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[RiverCorridorStrategicBase|River Corridor Strategic Base]] and [[TripartiteBalanceStrategy|Tripartite Balance Strategy]] - strategic geography and balance frames that the episode enriches through Lu Su's two-part proposal.
 
 ## Contradictions
-- No settled contradiction is recorded. The source backfills the missing Hanji 1052 layer between the Sun Ce deathbed transition and Hanji 1053's internal consolidation sequence.
+- No settled contradiction is recorded. The source backfills the missing 汉纪 1052 layer between the Sun Ce deathbed transition and 汉纪 1053's internal consolidation sequence.
 - The title's "玩弄曹操" is treated as host framing for strategic mediation, not as proof that Zhang Hong defected to Cao Cao or literally controlled Cao's decisions.
 - Lu Su's two-part天下 strategy is preserved as a source-scoped early plan and contrasted with later three-kingdom outcomes rather than treated as a final prediction.

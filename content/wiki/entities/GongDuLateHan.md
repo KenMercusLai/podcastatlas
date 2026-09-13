@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 龚都 / Gong Du (late Han)
 
 ## Overview
-龚都 / Gong Du is a Runan rebel leader in the Hanji 1047 Guandu prelude. The episode introduces him as the local partner Liu Bei joins after leaving Yuan Shao's camp and returning to [[RunanCommanderyLateHan|汝南]].
+龚都 / Gong Du is a Runan rebel leader in the 汉纪 1047 Guandu prelude. The episode introduces him as the local partner Liu Bei joins after leaving Yuan Shao's camp and returning to [[RunanCommanderyLateHan|汝南]].
 
 ## Current Profile
 Gong Du currently functions as a local-force node rather than an independently developed strategist. His importance is that he gives [[LiuBei|刘备]] a foothold after Liu Bei exits [[YuanShao|袁绍]]'s orbit, allowing Liu Bei to convert a diplomatic departure into renewed armed pressure on [[CaoCao|曹操]]'s southern side.
@@ -23,11 +23,11 @@ Gong Du currently functions as a local-force node rather than an independently d
 - Known here through source-scoped campaign function, not a broad biography.
 
 ## Evidence
-- Runan partnership: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] states that Liu Bei returns to Runan, joins Gong Du, and gathers more than a thousand troops.
-- Campaign pressure: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] places the Gong Du connection immediately after Cao Ren's counterattack and before Cai Yang is sent and killed.
+- Runan partnership: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|汉纪 1047]] states that Liu Bei returns to Runan, joins Gong Du, and gathers more than a thousand troops.
+- Campaign pressure: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|汉纪 1047]] places the Gong Du connection immediately after Cao Ren's counterattack and before Cai Yang is sent and killed.
 
 ## Qualifications
-The page is limited to Gong Du's role in Hanji 1047. It does not yet establish his wider origins, organization, or later fate beyond Liu Bei's Runan partnership.
+The page is limited to Gong Du's role in 汉纪 1047. It does not yet establish his wider origins, organization, or later fate beyond Liu Bei's Runan partnership.
 
 ## What Changed
 - Created this entity page to capture Gong Du as Liu Bei's Runan partner during the Guandu prelude.

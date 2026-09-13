@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-周星驰 / Stephen Chow appears in this wiki as the director whose [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] is reread by [[zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3|Hanji 456-4]].
+周星驰 / Stephen Chow appears in this wiki as the director whose [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] is reread by [[zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3|汉纪 456-4]].
 
 ## Current Profile
 
@@ -36,7 +36,7 @@ The current page is source-scoped. It should not be treated as a complete accoun
 
 ## What Changed
 
-- Created the page from the Hanji 456-4 film rereading.
+- Created the page from the 汉纪 456-4 film rereading.
 
 ## Relationships
 

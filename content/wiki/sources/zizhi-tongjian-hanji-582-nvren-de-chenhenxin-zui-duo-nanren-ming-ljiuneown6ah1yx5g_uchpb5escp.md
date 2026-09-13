@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2-3 / 5-4 BCE under [[HanAidi|汉哀帝]], immediately before [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]]. It centers [[FuTaihouWesternHan|傅太后]]'s continued pursuit of [[FuXiWesternHan|傅喜]], [[ZhuBoWesternHan|朱博]]'s attempt to execute that will by bundling Fu Xi with [[HeWuWesternHan|何武]], Aidi's discovery of the backchannel, and Zhu Bo's suicide after being summoned for trial.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2-3 / 5-4 BCE under [[HanAidi|汉哀帝]], immediately before [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|汉纪 583]]. It centers [[FuTaihouWesternHan|傅太后]]'s continued pursuit of [[FuXiWesternHan|傅喜]], [[ZhuBoWesternHan|朱博]]'s attempt to execute that will by bundling Fu Xi with [[HeWuWesternHan|何武]], Aidi's discovery of the backchannel, and Zhu Bo's suicide after being summoned for trial.
 
 The durable synthesis is that clever political packaging cannot always hide patron-driven intent. Zhu Bo tries to make a targeted strike look like general accountability, but the emperor reads the political context, Zhao Xuan confesses, and Zhu Bo becomes a negative case of serving a powerful patron's resentment. The episode then contrasts him with [[PingDangWesternHan|平当]], who refuses a deathbed marquisate and becomes a positive case for restraint, reputation, and ending well.
 
@@ -46,5 +46,5 @@ The durable synthesis is that clever political packaging cannot always hide patr
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source predates Hanji 583's Wang Jia personnel memorial and the later Hanji 588/604 Fu Xi layers; it adds the immediate earlier failed attack on Fu Xi rather than changing his later survival profile.
+- Chronology qualification: this source predates 汉纪 583's Wang Jia personnel memorial and the later 汉纪 588/604 Fu Xi layers; it adds the immediate earlier failed attack on Fu Xi rather than changing his later survival profile.
 - Scope caution: Kongxiang Hou's exact identity, Zhao Xuan's full office history, the full legal charge wording, Zhu Bo's inner motive, the precise Wusun and Xiongnu actors, and the transcript's "河谷兴旁" epidemic wording remain source-scoped.

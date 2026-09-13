@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-高福波 / Gao Fubo enters the wiki through [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] as a modern corruption case used to open a historical and managerial discussion about whether "穷怕了" can explain or excuse official greed.
+高福波 / Gao Fubo enters the wiki through [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] as a modern corruption case used to open a historical and managerial discussion about whether "穷怕了" can explain or excuse official greed.
 
 ## Current Profile
 
@@ -27,19 +27,19 @@ The source does not develop Gao Fubo as a full contemporary political biography.
 ## Evidence
 
 Corruption-opening role:
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] says the episode opens from Gao Fubo's case and reports that the host describes the amount involved as very large.
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] says Gao Fubo explained his criminal path by referring to childhood poverty.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] says the episode opens from Gao Fubo's case and reports that the host describes the amount involved as very large.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] says Gao Fubo explained his criminal path by referring to childhood poverty.
 
 Conceptual role:
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] uses Gao Fubo to reject "穷怕了" as an excuse and to contrast poverty-as-greed with poverty-as-empathy.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] uses Gao Fubo to reject "穷怕了" as an excuse and to contrast poverty-as-greed with poverty-as-empathy.
 
 ## Qualifications
 
-This page is source-bounded. It does not verify Gao Fubo's legal file, office chronology, exact amount, sentence, institutional background, or independent reporting. It records only the role he plays in Hanji 496's moral and governance argument.
+This page is source-bounded. It does not verify Gao Fubo's legal file, office chronology, exact amount, sentence, institutional background, or independent reporting. It records only the role he plays in 汉纪 496's moral and governance argument.
 
 ## What Changed
 
-- Created the page from Hanji 496 as the contemporary negative example for poverty-memory corruption rhetoric.
+- Created the page from 汉纪 496 as the contemporary negative example for poverty-memory corruption rhetoric.
 
 ## Relationships
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 无终县 / Wuzhong County (Late Han)
 
-无终县 / Wuzhong County (Late Han) enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] as [[TianChou|田筹]]'s return base after [[LiuYuLateHan|刘虞]] is killed by [[GongsunZan|公孙瓒]]. After rebuking Gongsun Zan at Liu Yu's tomb and being released, Tian Chou goes back to Wuzhong.
+无终县 / Wuzhong County (Late Han) enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|汉纪 972]] as [[TianChou|田筹]]'s return base after [[LiuYuLateHan|刘虞]] is killed by [[GongsunZan|公孙瓒]]. After rebuking Gongsun Zan at Liu Yu's tomb and being released, Tian Chou goes back to Wuzhong.
 
 The county matters because it is the social seedbed of Tian Chou's later mountain community. He gathers clan members and followers there before entering [[XuWuMountain|徐无山]], where the group turns loyalty and revenge intent into settlement law, rites, schooling, and frontier diplomacy.
 

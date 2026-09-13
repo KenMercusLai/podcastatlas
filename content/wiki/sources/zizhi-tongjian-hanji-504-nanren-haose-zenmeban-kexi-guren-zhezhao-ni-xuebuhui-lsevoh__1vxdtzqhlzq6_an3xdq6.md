@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 2 / 31 BCE under [[HanChengdi|汉成帝]], between the Wang-family elevation of [[zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut|Hanji 503]] and the flood-rumor / harem-omen branch of [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]]. It centers [[DuQinWesternHan|杜钦]]'s advice to [[WangFengWesternHan|王凤]] that an ancient "nine wives" rule could limit Chengdi's harem expansion before desire, jealousy, and heir politics hardened into court disorder.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 2 / 31 BCE under [[HanChengdi|汉成帝]], between the Wang-family elevation of [[zizhi-tongjian-hanji-503-gei-wangjia-zhanglian-jiemi-xihan-shili-zuidade-waiqi-lgjgpal0s0he4qrwwhdrdbmp8aut|汉纪 503]] and the flood-rumor / harem-omen branch of [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|汉纪 505]]. It centers [[DuQinWesternHan|杜钦]]'s advice to [[WangFengWesternHan|王凤]] that an ancient "nine wives" rule could limit Chengdi's harem expansion before desire, jealousy, and heir politics hardened into court disorder.
 
 The second half turns to [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s succession settlement among Xiongnu consorts and sons. The durable synthesis is that the episode treats sexual favor, consort hierarchy, and heirs as public-order problems: Du Qin tries to regulate Chengdi's harem through ritual precedent, while Huhanye chooses [[FuzhuleiRuodiChanyu|雕陶莫皋]] and requires future transfer to 且莫车 as a stabilizing compromise.
 
@@ -39,7 +39,7 @@ The second half turns to [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s successio
 ## Connections
 
 - [[DuQinWesternHan|杜钦]], [[WangFengWesternHan|王凤]], and [[HaremSuccessionRiskControl|后宫继承风险控制]] - Du Qin tries to turn an ancient marriage rule into a preventive limit on Chengdi's harem.
-- [[HanChengdi|汉成帝]], [[EmpressXuWesternHan|许皇后]], and [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - the childlessness and harem-risk logic anticipates the later disaster-omen blame field in Hanji 505 and Hanji 506.
+- [[HanChengdi|汉成帝]], [[EmpressXuWesternHan|许皇后]], and [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - the childlessness and harem-risk logic anticipates the later disaster-omen blame field in 汉纪 505 and 汉纪 506.
 - [[Xiongnu|匈奴]], [[HuhanyeChanyuWesternHan|呼韩邪单于]], and [[FuzhuleiRuodiChanyu|复株累若鞮单于]] - the Xiongnu branch shows consort hierarchy and heir choice as a separate succession-stability problem.
 - [[YanzhiXiongnuConsort|阏氏]] - the source uses multiple yanzhi roles; this note links the title category while keeping the named women source-scoped.
 - [[WangZhaojun|王昭君]] and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - Wang Zhaojun's remarriage extends the heqin/personnel aftermath into the new chanyu's household.

@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 2 / 26 CE immediately before [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|Hanji 685]] and the later [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|Hanji 687]]-[[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|688]] Chimei collapse sequence. It opens with [[LiuPenziEasternHan|刘盆子]] trying and failing to lay down the Chimei imperial seal, then moves through Yao Qi's Wei commandery pacification and [[LiuXiu|光武帝刘秀]]'s early merit-reward settlement.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 2 / 26 CE immediately before [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|汉纪 685]] and the later [[zizhi-tongjian-hanji-687-si-hou-200-nian-luzhi-jing-zao-qi-chi-da-ru-lhakzy89w1l4vhazjuyenbjrw9iz|汉纪 687]]-[[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|688]] Chimei collapse sequence. It opens with [[LiuPenziEasternHan|刘盆子]] trying and failing to lay down the Chimei imperial seal, then moves through Yao Qi's Wei commandery pacification and [[LiuXiu|光武帝刘秀]]'s early merit-reward settlement.
 
 The durable synthesis is a contrast between hollow authority and order-building authority. [[ChimeiRebellion|赤眉]] commanders can keep Liu Penzi on the throne while ignoring his plea to stop plundering, whereas Liu Xiu's side links local diagnosis, battlefield suppression, merit reward, outer-relative restraint, and careful fief allocation into a more credible founding order.
 
@@ -40,7 +40,7 @@ The durable synthesis is a contrast between hollow authority and order-building 
 ## Connections
 
 - [[LiuPenziEasternHan|刘盆子]] and [[ChimeiRebellion|赤眉]] - the failed abdication scene supplies the pre-surrender figurehead layer before the later defeat and mass surrender.
-- [[ChimeiRebellion|赤眉]], [[ChangAnHanCapital|长安]], and [[GuanzhongRegion|关中]] - brief renewed public confidence in Chang'an collapses back into plunder before the famine and attrition layer in Hanji 687.
+- [[ChimeiRebellion|赤眉]], [[ChangAnHanCapital|长安]], and [[GuanzhongRegion|关中]] - brief renewed public confidence in Chang'an collapses back into plunder before the famine and attrition layer in 汉纪 687.
 - [[YaoQiEasternHan|姚期]], [[WuHanEasternHan|吴汉]], and [[LocalFaultAttributionPacification|归咎安抚式平叛]] - Yao Qi's handling of an internal plot and Wu Han's battlefield victory make the Tanxiang episode a local order-repair bridge.
 - [[LiuXiu|光武帝刘秀]], [[DengYuEasternHan|邓禹]], Wu Han, and [[MeritBasedRewardPunishment|因功赏罚]] - the reward scene treats fief scale as a founding-coalition settlement problem.
 - [[YinShiEasternHan|阴识]], [[YinLihua|阴丽华]], and [[OuterRelativePreventiveRestraint|外戚预防性约束]] - Yin Shi's refusal makes family proximity a reason to narrow reward exposure, not to enlarge it.
@@ -50,6 +50,6 @@ The durable synthesis is a contrast between hollow authority and order-building 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills Jianwu 2 before Hanji 685's Song Hong/Peng Chong material, Hanji 687's Chimei famine-and-attrition layer, and Hanji 688's final Chimei defeat and Liu Penzi surrender.
+- Chronology qualification: this source backfills Jianwu 2 before 汉纪 685's Song Hong/Peng Chong material, 汉纪 687's Chimei famine-and-attrition layer, and 汉纪 688's final Chimei defeat and Liu Penzi surrender.
 - Identity normalization: the episode summary's 姚琪 is routed to [[YaoQiEasternHan|姚期]] because the Wei commandery and Guangwu-era context match the established figure; this should remain revisable if a later source distinguishes a separate Yao Qi.
-- Scope caution: Liu Gong, Fan Chong, Pang An, Xu Xuan, Li Xiong, the Tanxiang bandits, Ding Gong, Ding Ling, Feng Qin, exact fief geographies, and the modern "知分寸" commentary remain source-scoped. The name Li Lu is not linked because the existing `LiLu` page is a modern investor, not the Hanji 683 rebel conspirator.
+- Scope caution: Liu Gong, Fan Chong, Pang An, Xu Xuan, Li Xiong, the Tanxiang bandits, Ding Gong, Ding Ling, Feng Qin, exact fief geographies, and the modern "知分寸" commentary remain source-scoped. The name Li Lu is not linked because the existing `LiLu` page is a modern investor, not the 汉纪 683 rebel conspirator.

@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the event sequence before [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]]'s Sima Guang judgment on the [[HuoFamilyPurgeAfterHuoGuang|Huo family purge]]. It follows the Huo household after [[HuoGuangWesternHan|霍光]]'s death: [[HuoXianWesternHan|霍显]]'s private scandal and funerary overreach, palace access, attempted harm to crown prince [[HanYuandi|刘奭]], the Huo plan to use [[ShangguanTaihouWesternHan|上官太后]]'s banquet to kill ministers and depose [[EmperorXuanOfHan|汉宣帝]], and the eventual exposure, suicides, executions, and collective punishment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the event sequence before [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]]'s Sima Guang judgment on the [[HuoFamilyPurgeAfterHuoGuang|Huo family purge]]. It follows the Huo household after [[HuoGuangWesternHan|霍光]]'s death: [[HuoXianWesternHan|霍显]]'s private scandal and funerary overreach, palace access, attempted harm to crown prince [[HanYuandi|刘奭]], the Huo plan to use [[ShangguanTaihouWesternHan|上官太后]]'s banquet to kill ministers and depose [[EmperorXuanOfHan|汉宣帝]], and the eventual exposure, suicides, executions, and collective punishment.
 
 The durable synthesis is that Huo-family collapse is not presented as a single unlucky plot. The episode ties it to accumulated court overreach, failure of household discipline, Huo Guang's earlier concealment of Empress Xu's poisoning, Xuan's long fear of overmighty regent power, and the political difference between preventing disaster before it spreads and rewarding those who merely extinguish it afterward.
 
@@ -36,13 +36,13 @@ The durable synthesis is that Huo-family collapse is not presented as a single u
 
 ## Connections
 
-- [[HuoFamilyPurgeAfterHuoGuang|霍氏灭族与权力退场失败]] - the source supplies the concrete conspiracy, purge, and prevention-warning layer before Hanji 425's proportionality critique.
+- [[HuoFamilyPurgeAfterHuoGuang|霍氏灭族与权力退场失败]] - the source supplies the concrete conspiracy, purge, and prevention-warning layer before 汉纪 425's proportionality critique.
 - [[HuoGuangWesternHan|霍光]] - deceased regent whose merit, power, and concealment of Huo Xian's crime frame the household disaster.
 - [[HuoXianWesternHan|霍显]] - Huo Guang's wife, presented as a major driver of the family's escalating danger.
 - [[HuoChengjunWesternHan|霍成君]] - Huo Guang's daughter and deposed empress whose palace position becomes a succession threat to Liu Shi.
 - [[EmperorXuanOfHan|汉宣帝]] - ruler who moves from fear under Huo Guang to post-Huo consolidation and purge.
 - [[XuFuWesternHan|徐福]] - preventive adviser whose warning is rewarded only after the Huo collapse.
-- [[HaremSuccessionRiskControl|后宫继承风险控制]] - the attempted poisoning of Liu Shi gives the negative palace-succession background for Hanji 427's low-threat empress selection.
+- [[HaremSuccessionRiskControl|后宫继承风险控制]] - the attempted poisoning of Liu Shi gives the negative palace-succession background for 汉纪 427's low-threat empress selection.
 - [[PoliticalRiskPrevention|政治风险预防]] - concept created from the source's "曲突徙薪" distinction between prevention and rescue.
 
 ## Contradictions

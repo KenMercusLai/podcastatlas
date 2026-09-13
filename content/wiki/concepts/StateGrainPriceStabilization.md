@@ -14,7 +14,7 @@ State grain price stabilization / 国家粮价平准 is the governance logic of 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] introduces the concept through [[GengShouchangWesternHan|耿寿昌]] and the [[ChangpingGranarySystem|长平仓制度]]. The source's core insight is symmetric: grain that is too cheap harms farmers, while grain that is too expensive harms ordinary people. A state granary can therefore buy into abundance and release into scarcity, tying livelihood protection to physical reserve management.
+[[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] introduces the concept through [[GengShouchangWesternHan|耿寿昌]] and the [[ChangpingGranarySystem|长平仓制度]]. The source's core insight is symmetric: grain that is too cheap harms farmers, while grain that is too expensive harms ordinary people. A state granary can therefore buy into abundance and release into scarcity, tying livelihood protection to physical reserve management.
 
 ## Key Claims
 
@@ -26,23 +26,23 @@ State grain price stabilization / 国家粮价平准 is the governance logic of 
 ## Evidence
 
 Producer and consumer protection:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says repeated harvests produce low grain prices and weak farmer returns.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] explains the granary as avoiding both cheap-grain harm to farmers and expensive-grain harm to the people.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says repeated harvests produce low grain prices and weak farmer returns.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] explains the granary as avoiding both cheap-grain harm to farmers and expensive-grain harm to the people.
 
 Reserve mechanism:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Geng Shouchang proposes buying when grain is cheap and selling when grain is dear.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says the system also supports official needs, popular food supply, and famine preparation.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Geng Shouchang proposes buying when grain is cheap and selling when grain is dear.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says the system also supports official needs, popular food supply, and famine preparation.
 
 Logistics:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Geng's regional procurement plan would reduce long-distance transport labor from east of Hangu Pass by more than half.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Geng's regional procurement plan would reduce long-distance transport labor from east of Hangu Pass by more than half.
 
 ## Counterevidence & Qualifications
 
-This concept is currently sourced only to Hanji 456-1. It does not yet cover later ever-normal granaries, equalization offices, local implementation failures, fiscal strain, storage losses, or corruption risks. The page records a governance logic, not proof that every historical implementation worked as intended.
+This concept is currently sourced only to 汉纪 456-1. It does not yet cover later ever-normal granaries, equalization offices, local implementation failures, fiscal strain, storage losses, or corruption risks. The page records a governance logic, not proof that every historical implementation worked as intended.
 
 ## What Changed
 
-- Created the state grain price stabilization concept from Hanji 456-1's Changping granary explanation.
+- Created the state grain price stabilization concept from 汉纪 456-1's Changping granary explanation.
 
 ## Related Concepts
 

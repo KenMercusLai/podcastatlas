@@ -14,11 +14,11 @@ The risk is not only tactical discontinuity. Le Yi's removal tells Yan soldiers 
 
 The concept is adjacent to [[PatronSuccessionExposure|patron succession exposure]] but not identical. Patron succession exposure explains why the old commander becomes politically vulnerable after Yan Zhaowang dies; battlefield replacement risk explains why acting on that vulnerability damages the army.
 
-[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] adds the late-Han trigger for the Lu Zhi-Dong Zhuo replacement branch. [[LuZhiLateHan|卢植]] is close to victory against [[ZhangJiaoLateHan|张角]], but [[ZuoFengLateHan|左丰]]'s inspection report convinces [[EmperorLingOfHan|汉灵帝]] to recall Lu Zhi and appoint [[DongZhuo|董卓]] instead. The replacement risk begins before Dong Zhuo fights: court anxiety and [[InspectionGiftGatekeeping|巡查送礼关口]] remove the commander who built the siege position.
+[[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|汉纪 928]] adds the late-Han trigger for the Lu Zhi-Dong Zhuo replacement branch. [[LuZhiLateHan|卢植]] is close to victory against [[ZhangJiaoLateHan|张角]], but [[ZuoFengLateHan|左丰]]'s inspection report convinces [[EmperorLingOfHan|汉灵帝]] to recall Lu Zhi and appoint [[DongZhuo|董卓]] instead. The replacement risk begins before Dong Zhuo fights: court anxiety and [[InspectionGiftGatekeeping|巡查送礼关口]] remove the commander who built the siege position.
 
-[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] continues the late-Han negative version through Dong Zhuo's performance after replacing Lu Zhi. The host argues that Dong Zhuo cannot work smoothly with Lu Zhi's existing subordinates and that soldiers are unwilling to exert themselves for him, turning a court-ordered replacement into battlefield underperformance.
+[[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]] continues the late-Han negative version through Dong Zhuo's performance after replacing Lu Zhi. The host argues that Dong Zhuo cannot work smoothly with Lu Zhi's existing subordinates and that soldiers are unwilling to exert themselves for him, turning a court-ordered replacement into battlefield underperformance.
 
-[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] adds a late-Han positive restraint case. When the court considers recalling [[ZhuJunLateHan|朱儁]] during the Nanyang [[YellowTurbansLateHan|Yellow Turban]] campaign, [[ZhangWenLateHan|张温]] argues that changing commanders at the front is dangerous and cites [[BaiQi|白起]] and [[LeYi|乐毅]] as precedents for long campaigns that only turn after sustained pressure.
+[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|汉纪 930]] adds a late-Han positive restraint case. When the court considers recalling [[ZhuJunLateHan|朱儁]] during the Nanyang [[YellowTurbansLateHan|Yellow Turban]] campaign, [[ZhangWenLateHan|张温]] argues that changing commanders at the front is dangerous and cites [[BaiQi|白起]] and [[LeYi|乐毅]] as precedents for long campaigns that only turn after sustained pressure.
 
 [[zizhi-tongjian-zhouji-79-shishang-yong-gengniu-da-shengzhang-diyi-ren-lsrl0posblloqwugox160xsicp2p]] adds the downstream failure. [[QiJie|骑劫]] does not merely lack Le Yi's prestige; he reverses the occupation policy, follows planted rumor bait, and lets [[TianDan|田单]] convert Yan cruelty into Qi morale. The replacement ends with Qi Jie killed in the [[FireOxNightRaid|fire-ox night raid]] and the Yan occupation collapsing.
 
@@ -33,9 +33,9 @@ The same source adds a contrast case: [[QinState|秦国]] also changes commander
 [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] gives the concept its late-Zhao endpoint. During Qin's 229 BCE invasion, [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] removes [[LiMu|李牧]] and [[SimaShang|司马尚]] after [[GuoKai|郭开]]'s bribed rebellion accusation, then appoints [[ZhaoCong|赵葱]] and [[YanJuZhao|颜聚]]. The episode stresses that even if the replacements were not assessed in detail, the act of changing commanders under Qin pressure is itself enough to shake military confidence.
 
 ## Key Claims
-- Hanji 928 adds that replacement risk can be triggered by a palace inspection report even when the incumbent commander is close to success.
-- Hanji 929 adds that a replacement command can fail when the incoming general cannot inherit the removed commander's troop relationships and staff trust.
-- Hanji 930 adds that resisting replacement can preserve campaign continuity long enough for a slow siege plan to work.
+- 汉纪 928 adds that replacement risk can be triggered by a palace inspection report even when the incumbent commander is close to success.
+- 汉纪 929 adds that a replacement command can fail when the incoming general cannot inherit the removed commander's troop relationships and staff trust.
+- 汉纪 930 adds that resisting replacement can preserve campaign continuity long enough for a slow siege plan to work.
 - Removing a commander mid-campaign can break continuity of strategy, discipline, and trust.
 - The risk is sharper when troops already identify the campaign with the removed commander.
 - A ruler may solve a court anxiety while creating a front-line vulnerability.
@@ -48,9 +48,9 @@ The same source adds a contrast case: [[QinState|秦国]] also changes commander
 - Qinji 113 shows replacement risk becoming fatal when enemy bribery, treason accusation, disaster stress, and active invasion all converge.
 
 ## Connections
-- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[LuZhiLateHan|卢植]], [[ZuoFengLateHan|左丰]], [[EmperorLingOfHan|汉灵帝]], [[DongZhuo|董卓]], and [[InspectionGiftGatekeeping|巡查送礼关口]] - inspection-triggered command replacement before the battlefield failure.
-- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[DongZhuo|董卓]], [[LuZhiLateHan|卢植]], [[ZhangJiaoLateHan|张角]], and [[YellowTurbansLateHan|黄巾军]] - late-Han replacement failure after command handoff.
-- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], [[ZhangWenLateHan|张温]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], [[BaiQi|白起]], and [[LeYi|乐毅]] - late-Han argument against recalling a commander mid-campaign.
+- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|汉纪 928]], [[LuZhiLateHan|卢植]], [[ZuoFengLateHan|左丰]], [[EmperorLingOfHan|汉灵帝]], [[DongZhuo|董卓]], and [[InspectionGiftGatekeeping|巡查送礼关口]] - inspection-triggered command replacement before the battlefield failure.
+- [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]], [[DongZhuo|董卓]], [[LuZhiLateHan|卢植]], [[ZhangJiaoLateHan|张角]], and [[YellowTurbansLateHan|黄巾军]] - late-Han replacement failure after command handoff.
+- [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|汉纪 930]], [[ZhangWenLateHan|张温]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], [[BaiQi|白起]], and [[LeYi|乐毅]] - late-Han argument against recalling a commander mid-campaign.
 - [[LeYi|乐毅]], [[QiJie|骑劫]], and [[YanState|燕国]] - removed commander, replacement general, and army.
 - [[YanHuiwang|燕惠王]] - ruler whose decision triggers the risk.
 - [[TianDan|田单]] and [[CounterintelligenceRumorWedge|反间流言楔入]] - adversary and tactic that provoke the replacement.

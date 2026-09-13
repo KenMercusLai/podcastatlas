@@ -10,7 +10,7 @@ last_updated: 2026-09-08
 
 ## Overview
 
-Wang Xing / 王兴 is one of Wang Mang's private sons recalled in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] after [[WangLinXinCrownPrince|王林]] and [[WangAnXinPrince|王安]] die. His source role is succession repair after the public family line collapses.
+Wang Xing / 王兴 is one of Wang Mang's private sons recalled in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] after [[WangLinXinCrownPrince|王林]] and [[WangAnXinPrince|王安]] die. His source role is succession repair after the public family line collapses.
 
 ## Current Profile
 
@@ -24,17 +24,17 @@ The episode says Wang Xing and [[WangKuangXinPrince|王匡]] were born from Wang
 
 ## Evidence
 
-- Private birth branch: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Xing was born from Wang Mang's earlier relationship with an attendant.
-- Xindu residence: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Xing and Wang Kuang had remained in Xindu because their status was unclear.
-- Recall and enfeoffment: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Mang brings them back and grants titles after the public sons die.
+- Private birth branch: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Xing was born from Wang Mang's earlier relationship with an attendant.
+- Xindu residence: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Xing and Wang Kuang had remained in Xindu because their status was unclear.
+- Recall and enfeoffment: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Mang brings them back and grants titles after the public sons die.
 
 ## Qualifications
 
-The page does not infer Wang Xing's later political agency from this note. Hanji 658 only supports his private-son status and recall under succession pressure.
+The page does not infer Wang Xing's later political agency from this note. 汉纪 658 only supports his private-son status and recall under succession pressure.
 
 ## What Changed
 
-- Created from Hanji 658 as one of Wang Mang's recalled private sons.
+- Created from 汉纪 658 as one of Wang Mang's recalled private sons.
 
 ## Relationships
 

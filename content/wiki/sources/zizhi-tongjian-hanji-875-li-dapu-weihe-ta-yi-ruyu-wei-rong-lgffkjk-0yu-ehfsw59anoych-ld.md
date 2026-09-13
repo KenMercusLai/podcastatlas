@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 166 CE immediately before [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]]'s rescue path for the first Party Prohibition prisoners. It connects the moral prestige of imprisonment through [[HuangfuGuiLateHan|皇甫规]], [[DuMiLateHan|杜密]]'s public-duty critique of Liu Sheng, [[DouWuLateHan|窦武]]'s early clean-office profile, and [[ZhangHuanLateHan|张奂]]'s selective pacification of [[SouthernXiongnu|南匈奴]] and [[Wuhuan|乌桓]] submitters.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 166 CE immediately before [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|汉纪 876]]'s rescue path for the first Party Prohibition prisoners. It connects the moral prestige of imprisonment through [[HuangfuGuiLateHan|皇甫规]], [[DuMiLateHan|杜密]]'s public-duty critique of Liu Sheng, [[DouWuLateHan|窦武]]'s early clean-office profile, and [[ZhangHuanLateHan|张奂]]'s selective pacification of [[SouthernXiongnu|南匈奴]] and [[Wuhuan|乌桓]] submitters.
 
 The frontier close introduces [[TanshihuaiXianbei|檀石槐]] as an organized [[Xianbei|鲜卑]] leader before the later 177-181 CE campaign and succession branches. The Han court tries title recognition and marriage alliance, but Tanshihuai refuses and intensifies raiding while dividing the occupied field into eastern, central, and western commands.
 
@@ -38,15 +38,15 @@ The frontier close introduces [[TanshihuaiXianbei|檀石槐]] as an organized [[
 
 ## Connections
 
-- [[HuangfuGuiLateHan|皇甫规]], [[LiYingLateHan|李膺]], [[DuMiLateHan|杜密]], and [[PunishmentAsMoralCredential|受罚作为名节凭据]] - Party Prohibition reputation field before Hanji 876's rescue mechanism.
+- [[HuangfuGuiLateHan|皇甫规]], [[LiYingLateHan|李膺]], [[DuMiLateHan|杜密]], and [[PunishmentAsMoralCredential|受罚作为名节凭据]] - Party Prohibition reputation field before 汉纪 876's rescue mechanism.
 - [[DuMiLateHan|杜密]], [[ZhengXuan|郑玄]], and [[ScholarOfficialPublicDuty|士大夫公共责任]] - talent recognition and public responsibility against closed-door self-protection.
-- [[DouWuLateHan|窦武]], [[Taixue|太学]], and [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] - clean-office and scholar-facing credibility before Dou Wu becomes the high-leverage intercessor.
+- [[DouWuLateHan|窦武]], [[Taixue|太学]], and [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|汉纪 876]] - clean-office and scholar-facing credibility before Dou Wu becomes the high-leverage intercessor.
 - [[ZhangHuanLateHan|张奂]], [[SouthernXiongnu|南匈奴]], and [[Wuhuan|乌桓]] - selective punishment and pacification after submission.
 - [[TanshihuaiXianbei|檀石槐]], [[Xianbei|鲜卑]], and [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]] - failed title-and-marriage recognition attempt as a boundary case for frontier diplomacy.
-- [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]], [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]], and [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]] - later Tanshihuai campaign, hostage-pressure, and succession branches.
+- [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|汉纪 909]], [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|汉纪 910]], and [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|汉纪 920]] - later Tanshihuai campaign, hostage-pressure, and succession branches.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the 166 CE Party Prohibition reputation and frontier setup before Hanji 876's 167 CE rescue/amnesty mechanism.
+- No settled contradiction with existing wiki pages was found. This source backfills the 166 CE Party Prohibition reputation and frontier setup before 汉纪 876's 167 CE rescue/amnesty mechanism.
 - Transcript normalization: "黄福贵" is normalized to [[HuangfuGuiLateHan|皇甫规]], "李英" to [[LiYingLateHan|李膺]], "郑璇" to [[ZhengXuan|郑玄]], "张宦" to [[ZhangHuanLateHan|张奂]], "巫环" to [[Wuhuan|乌桓]], and "谭世怀" to [[TanshihuaiXianbei|檀石槐]] because the roles and sequence match established late-Han routes.
 - Scope caution: Liu Sheng, Wang Yu, Zhou Jin, Liu Mao, Xuan Feng, and exact office-name variants remain source-scoped pending stronger disambiguating evidence.

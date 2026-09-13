@@ -43,11 +43,11 @@ The durable synthesis is that late-Xin breakdown begins before the later rebel a
 - [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]], [[DisasterResponseStateCapacity]], and [[FiscalExtractionRebellionSpiral|财政压榨叛乱螺旋]] - flood, earthquake, snow, frontier grain costs, and banditry form the material crisis behind the fiscal decision.
 - [[WangYiXinGeneral|王邑 / Wang Yi (Xin general)]] - the source records the 大司空王毅/Wang Yi retirement request after the earthquake, kept cautious because name forms vary across transcripts.
 - Wuyuan, Dai, Handan, Guandong, Kong Ren, "阳九之厄", "百六之会", and the fifteen salary ranks - source-scoped details for the 15-16 CE crisis layer.
-- [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|Hanji 653]], [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]], and [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] - continuation into 五均六管, extraction, remonstrance, and rebellion-pressure notes.
+- [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|汉纪 653]], [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]], and [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] - continuation into 五均六管, extraction, remonstrance, and rebellion-pressure notes.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 15-16 CE, before Hanji 653's 17 CE 五均六管 note and before Hanji 655-660's later rebellion, extraction, and famine-relief layers.
+- Chronology qualification: this source backfills 15-16 CE, before 汉纪 653's 17 CE 五均六管 note and before 汉纪 655-660's later rebellion, extraction, and famine-relief layers.
 - Modern-analogy qualification: "performance pay" is treated as the host's explanatory analogy for variable official salaries, not as a claim that Xin had a modern performance-management system.
 - Scope caution: eunuch office names, exact confidential-memorial mechanics, Kong Ren, Wuyuan/Dai/Handan disaster geography, full salary-rank calculations, "斛" conversion, and Wang Mang's inner motives remain source-scoped unless later notes warrant canonical pages.

@@ -11,10 +11,10 @@ knowledge_schema: synthesis-v1
 # 王服 / Wang Fu (Dong Cheng plot)
 
 ## Overview
-王服 / Wang Fu (Dong Cheng plot) enters the wiki through Hanji 1040 as one of the anti-[[CaoCao|曹操]] conspirators executed after the [[YidaiZhao|衣带诏]] plot is exposed.
+王服 / Wang Fu (Dong Cheng plot) enters the wiki through 汉纪 1040 as one of the anti-[[CaoCao|曹操]] conspirators executed after the [[YidaiZhao|衣带诏]] plot is exposed.
 
 ## Current Profile
-This page is intentionally disambiguated from [[WangFuLateHan|王甫 / Wang Fu]], the earlier eunuch powerholder. Hanji 1040's Wang Fu belongs to the Dong Cheng conspiracy and appears in a 200 CE execution list, so merging him into the older Wang Fu page would create a chronological and identity error.
+This page is intentionally disambiguated from [[WangFuLateHan|王甫 / Wang Fu]], the earlier eunuch powerholder. 汉纪 1040's Wang Fu belongs to the Dong Cheng conspiracy and appears in a 200 CE execution list, so merging him into the older Wang Fu page would create a chronological and identity error.
 
 ## Key Characteristics
 - Anti-Cao conspirator tied to [[DongChengLateHan|董承]].

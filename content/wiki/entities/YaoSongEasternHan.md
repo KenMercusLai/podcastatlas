@@ -27,9 +27,9 @@ That narrow episode matters because it exposes a practical language for survival
 
 ## Evidence
 
-- Anger scene: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] places Yao Song under Mingdi's anger, with the emperor preparing to strike him.
-- Ritual deflection: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] records Yao Song's quoted formula as the device that defuses the moment.
-- Severe-court context: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] frames the scene inside Mingdi's broader pattern of harsh temper, secret information gathering, and punishment of officials.
+- Anger scene: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] places Yao Song under Mingdi's anger, with the emperor preparing to strike him.
+- Ritual deflection: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] records Yao Song's quoted formula as the device that defuses the moment.
+- Severe-court context: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] frames the scene inside Mingdi's broader pattern of harsh temper, secret information gathering, and punishment of officials.
 
 ## Qualifications
 

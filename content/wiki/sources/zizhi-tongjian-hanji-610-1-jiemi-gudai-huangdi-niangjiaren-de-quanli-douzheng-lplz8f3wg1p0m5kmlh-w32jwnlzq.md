@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] short episode backfills the 1-2 CE [[WangMang|王莽]] regency layer immediately before [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|Hanji 610-2]] and [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|Hanji 611]]. It uses [[ShentuGangEasternHan|申屠刚]]'s memorial to explain why maternal and marital kin could matter under a child emperor: bringing [[HanPingdi|汉平帝]]'s mother-side and wife-side relatives near court would create protection and balance, but it would also threaten Wang Mang's control over the young ruler.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] short episode backfills the 1-2 CE [[WangMang|王莽]] regency layer immediately before [[zizhi-tongjian-hanji-610-2-cong-yi-ke-yemingzhu-dao-gongzhong-shenmi-fangfu-fa-gudai-huangdi-jiabeng-hou-ruhe-xiazang-ltnln8vk-a7-pejutegkcbcvzzyz|汉纪 610-2]] and [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|汉纪 611]]. It uses [[ShentuGangEasternHan|申屠刚]]'s memorial to explain why maternal and marital kin could matter under a child emperor: bringing [[HanPingdi|汉平帝]]'s mother-side and wife-side relatives near court would create protection and balance, but it would also threaten Wang Mang's control over the young ruler.
 
 The durable synthesis is that Wang Mang's early authority already depends on controlling both speech and visible virtue. A summons for blunt remonstrants becomes a [[ScriptedCandorTrap|直言作秀陷阱]] when genuine criticism is punished, while Confucian honors, prisoner releases, agricultural exhortation, and the [[HuangzhiKingdom|黄支国]] rhinoceros tribute turn policy and diplomacy into public claims about moral prestige.
 
@@ -47,5 +47,5 @@ The durable synthesis is that Wang Mang's early authority already depends on con
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The source fills the pre-Hanji 611 layer where Wang Mang's praise and remonstrance environment is already brittle.
+- No settled contradiction with existing wiki content was found. The source fills the pre-汉纪 611 layer where Wang Mang's praise and remonstrance environment is already brittle.
 - Scope caution: the episode does not fully compare same-surname royal kin with outer relatives across dynasties. Zhongshan Empress Dowager, the Feng and Wei families, the Lu and Kong descendant title lines, Gushan-money mechanics, Huangzhi's exact location, and Wang Mang's inner motive remain source-scoped unless later notes warrant canonical pages.

@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Gengshi 2 / 24 CE immediately before [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]]. It presents [[LiuXuanGengshiEmperor|更始帝刘玄]] as a restored-Han claimant whose name cannot restore Xiongnu hierarchy, stop [[GongsunShuEasternHan|公孙述]]'s Shu-king rise, contain [[ChimeiRebellion|赤眉]]'s westward move, or prevent eastern regional powers such as [[LiuYongEasternHan|刘永]], [[QinFengEasternHan|秦丰]], and [[TianRongYilingEasternHan|田戎]] from forming their own fields.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Gengshi 2 / 24 CE immediately before [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]]. It presents [[LiuXuanGengshiEmperor|更始帝刘玄]] as a restored-Han claimant whose name cannot restore Xiongnu hierarchy, stop [[GongsunShuEasternHan|公孙述]]'s Shu-king rise, contain [[ChimeiRebellion|赤眉]]'s westward move, or prevent eastern regional powers such as [[LiuYongEasternHan|刘永]], [[QinFengEasternHan|秦丰]], and [[TianRongYilingEasternHan|田戎]] from forming their own fields.
 
 The durable synthesis is that early Guangwu consolidation begins before formal accession as capacity building. [[LiuXiu|刘秀]] removes [[XieGongEasternHan|谢躬]] from Yecheng through [[WuHanEasternHan|吴汉]] and [[CenPengEasternHan|岑彭]], sends [[DengYuEasternHan|邓禹]] west with broad discretion after predicting a Chimei-Gengshi clash around Chang'an, and secures [[HeneiCommandery|河内郡]] through [[KouXunEasternHan|寇恂]]'s grain-and-weapons rear base.
 
@@ -44,13 +44,13 @@ The durable synthesis is that early Guangwu consolidation begins before formal a
 - [[LiuXiu|刘秀]], [[WuHanEasternHan|吴汉]], [[CenPengEasternHan|岑彭]], and [[XieGongEasternHan|谢躬]] - Yecheng becomes an early example of Liu Xiu removing a Gengshi-side armed presence through delegated surprise action.
 - [[DengYuEasternHan|邓禹]], [[ChimeiRebellion|赤眉]], [[ChangAnHanCapital|长安]], [[GuanzhongRegion|关中]], and [[HanguPass|函谷关]] - Liu Xiu's western delegation depends on letting Gengshi and Chimei exhaust each other before taking the core region.
 - [[KouXunEasternHan|寇恂]], [[HeneiCommandery|河内郡]], and [[FengYiEasternHan|冯异]] - Henei is treated as Liu Xiu's Xiao-He-like rear base while Feng Yi covers Mengjin against Luoyang.
-- [[GongsunShuEasternHan|公孙述]] - the episode supplies an earlier Shu-king stage before Hanji 675's later Chengdu imperial claim and Chengjia/Longxing layer.
-- [[WeiXiaoEasternHan|隗嚣]] - the episode adds an earlier self-protection layer before Hanji 677's Chang'an conspiracy exit and Hanji 681's Tianshui camp.
+- [[GongsunShuEasternHan|公孙述]] - the episode supplies an earlier Shu-king stage before 汉纪 675's later Chengdu imperial claim and Chengjia/Longxing layer.
+- [[WeiXiaoEasternHan|隗嚣]] - the episode adds an earlier self-protection layer before 汉纪 677's Chang'an conspiracy exit and 汉纪 681's Tianshui camp.
 - [[LiuYongEasternHan|刘永]], [[QinFengEasternHan|秦丰]], [[TianRongYilingEasternHan|田戎]], [[ZhangBuEasternHan|张步]], and [[DongXianEasternHan|董宪]] - eastern fragmentation appears as Liu-clan, local, Qing-Xu, and Yiling armed fields before later Guangwu campaigns.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
 - Identity caution: 谢躬 is routed to [[XieGongEasternHan|谢躬 / Xie Gong (Eastern Han)]] and kept distinct from the Western Han envoy [[XieGong|谢公 / Xie Gong]].
-- Chronology qualification: Gongsun Shu's Shu-king title here precedes Hanji 675's imperial Chengjia/Longxing title, so the page treats it as title escalation rather than contradiction.
+- Chronology qualification: Gongsun Shu's Shu-king title here precedes 汉纪 675's imperial Chengjia/Longxing title, so the page treats it as title escalation rather than contradiction.
 - Scope caution: Liu Sa, Chen Zun, Li Bao, Li Zhong, Gongsun Hui, Wei Cui, Wei Yi, Gong Lin, Jiang Qiang, route details, exact force counts, and the host's closing personal long-termism remain source-scoped unless later notes require canonical pages.

@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》168｜霸王别姬前发生了什么（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[GaixiaBattle|垓下之战]] sequence after the battlefield defeat in [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]]. It shifts from formation and encirclement to the night psychology of defeat: [[FourSidedChuSongs|四面楚歌]] breaks [[XiangYu|项羽]]'s morale, [[GaixiaSong|《垓下歌》]] makes his private despair visible, and [[YuJi|虞姬]]'s suicide turns the final scene into both political collapse and personal tragedy. The episode then follows Xiang Yu's breakout with eight hundred men, [[GuanYing|灌婴]]'s cavalry pursuit, the farmer's misdirection near Yinling, and the host's claim that "Heaven's will" should be read through lost people-support.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[GaixiaBattle|垓下之战]] sequence after the battlefield defeat in [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|汉纪 167 part 2]]. It shifts from formation and encirclement to the night psychology of defeat: [[FourSidedChuSongs|四面楚歌]] breaks [[XiangYu|项羽]]'s morale, [[GaixiaSong|《垓下歌》]] makes his private despair visible, and [[YuJi|虞姬]]'s suicide turns the final scene into both political collapse and personal tragedy. The episode then follows Xiang Yu's breakout with eight hundred men, [[GuanYing|灌婴]]'s cavalry pursuit, the farmer's misdirection near Yinling, and the host's claim that "Heaven's will" should be read through lost people-support.
 
 ## Key Claims
 - [[LiQingzhao|李清照]]'s later praise of Xiang Yu frames his ending as a durable cultural memory, not only a failed military result.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 > "所谓天意就是民心"
 
 ## Connections
-- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] - immediate battlefield setup: Han Xin's depth formation defeats Xiang Yu before this episode turns to the night collapse.
+- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|汉纪 167 part 2]] - immediate battlefield setup: Han Xin's depth formation defeats Xiang Yu before this episode turns to the night collapse.
 - [[GaixiaBattle|垓下之战]] - final-battle setting extended from field defeat into morale collapse, breakout, pursuit, and death.
 - [[XiangYu|项羽]] - central figure whose heroic image, command despair, private dilemma, and final self-interpretation are the episode's focus.
 - [[YuJi|虞姬]] - favored companion whose suicide resolves Xiang Yu's personal impasse and anchors the "霸王别姬" tragic scene.

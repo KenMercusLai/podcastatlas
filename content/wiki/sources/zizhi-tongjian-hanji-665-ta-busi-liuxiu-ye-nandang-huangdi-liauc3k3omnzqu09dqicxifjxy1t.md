@@ -14,7 +14,7 @@ last_updated: 2026-09-08
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Gengshi 1 / 23 CE layer between [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] and [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]]. It explains the killing of [[LiuYanLiuXiuBrother|刘縯]] inside the [[LiuXuanGengshiEmperor|更始帝刘玄]] coalition, then contrasts [[LiuXiu|刘秀]]'s silent self-preservation with [[WangMang|王莽]]'s increasingly ritualized and punitive late-[[XinDynasty|新朝]] collapse.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Gengshi 1 / 23 CE layer between [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]] and [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]]. It explains the killing of [[LiuYanLiuXiuBrother|刘縯]] inside the [[LiuXuanGengshiEmperor|更始帝刘玄]] coalition, then contrasts [[LiuXiu|刘秀]]'s silent self-preservation with [[WangMang|王莽]]'s increasingly ritualized and punitive late-[[XinDynasty|新朝]] collapse.
 
 The durable synthesis is that restoration victory does not end political danger. Liu Yan's post-Kunyang prestige becomes a [[PostRestorationMeritThreat|post-restoration merit threat]], Liu Xiu survives by refusing visible grief or grievance, and Wang Mang's own court begins to defect internally before he answers the crisis through secrecy, killing, southern-suburb lament, and empty ritual reward.
 
@@ -44,11 +44,11 @@ The durable synthesis is that restoration victory does not end political danger.
 - [[WangMang|王莽]], [[XinDynasty|新朝]], [[TerminalMandateSelfDeception|末路天命自我催眠]], and [[MandateOfHeavenLegitimacy|天命合法性]] - Wang Mang's late crisis response moves from suppressed internal defection to ritual crying and Heaven-facing performance.
 - [[GongsunShuEasternHan|公孙述]], [[Chengdu|成都]], and [[BaShu|巴蜀]] - the source adds a pre-Shu-king origin layer in which Gongsun Shu uses a forged Gengshi appointment to defeat violent entrants and consolidate Shu.
 - [[ChimeiRebellion|赤眉]], [[LulinRebellion|绿林]], [[ChangAnHanCapital|长安]], and [[LuoyangLateHan|洛阳]] - the episode sits in the wider transition from late-Xin collapse to a fragmented restored-Han field.
-- [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] and [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] - direct continuation into Chang'an breach, Weiyang Palace fire, Wang Mang's Jian Terrace death, and Liu Xiu's later Luoyang restoration opening.
+- [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] and [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] - direct continuation into Chang'an breach, Weiyang Palace fire, Wang Mang's Jian Terrace death, and Liu Xiu's later Luoyang restoration opening.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills events after Hanji 664's Kunyang/Wan layer and before the Hanji 666-667 Wang Mang endgame; later source pages may already mention Liu Yan's killing as remembered background.
+- Chronology qualification: this source backfills events after 汉纪 664's Kunyang/Wan layer and before the 汉纪 666-667 Wang Mang endgame; later source pages may already mention Liu Yan's killing as remembered background.
 - Identity qualification: this source's Zhu Wei / 朱伟 and Li Yi / 李毅 are routed to existing Guangwu-Gengshi pages [[ZhuWeiEasternHan|朱鲔]] and [[LiYiGengshiGeneral|李轶]] because later notes already normalize those transcript-sensitive forms in the Liu Yan killing and Luoyang surrender sequence.
 - Scope caution: Shentu Jian, Fan Hong, Liu Ji, Wang She, State Teacher Duke Liu Xiu, Dong Zhong, Sun Ji, Wei Ao, Wei Cui, Wei Yi, Fang Wang, Liu Wang, Yan You, Chen Mao, and many place and office titles remain source-scoped unless later evidence warrants canonical pages.

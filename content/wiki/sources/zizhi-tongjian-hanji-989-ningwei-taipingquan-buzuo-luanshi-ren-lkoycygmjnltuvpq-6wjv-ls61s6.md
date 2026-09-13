@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》989丨宁为太平犬，不做乱世人
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] and [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|Hanji 991]]. In 195 CE, [[EmperorXianOfHan|汉献帝]] is granted only ceremonial room to maneuver while [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[YangDingLateHan|杨定]], [[YangFengLateHan|杨奉]], and [[DongChengLateHan|董承]] struggle over his route. The episode also links the emperor's desperate eastward movement to [[CaoCao|曹操]]'s rise at [[YongqiuLateHan|雍丘]] and to [[DuanWeiLateHan|段煨]]'s contested supply effort at [[HuayinLateHan|华阴]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|汉纪 990]] and [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p|汉纪 991]]. In 195 CE, [[EmperorXianOfHan|汉献帝]] is granted only ceremonial room to maneuver while [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[YangDingLateHan|杨定]], [[YangFengLateHan|杨奉]], and [[DongChengLateHan|董承]] struggle over his route. The episode also links the emperor's desperate eastward movement to [[CaoCao|曹操]]'s rise at [[YongqiuLateHan|雍丘]] and to [[DuanWeiLateHan|段煨]]'s contested supply effort at [[HuayinLateHan|华阴]].
 
 ## Key Claims
 - The court's grants to Zhang Ji, Guo Si, Yang Ding, Yang Feng, and Dong Cheng show [[MingqiLegitimacy|名器合法性]] under collapse: titles still matter, but they do not restore the emperor's control over armed escorts.
@@ -31,7 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 > "不吃饭." - host's shorthand for Emperor Xian's desperate protest against Guo Si.
 
 ## Connections
-- [[EmperorXianOfHan|汉献帝]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] - route-control and escort/capture field before Hanji 990-991.
+- [[EmperorXianOfHan|汉献帝]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[YangDingLateHan|杨定]], [[DongChengLateHan|董承]], and [[YangFengLateHan|杨奉]] - route-control and escort/capture field before 汉纪 990-991.
 - [[DuanWeiLateHan|段煨]], [[HuayinLateHan|华阴]], [[YangBiao|杨彪]], Zhong Ji, and Zuo Ling - supply, rumor, and ministerial defense branch that sets up the anti-Duan conflict.
 - [[CaoCao|曹操]], [[ZhangMiaoLateHan|张邈]], [[LiuYiLateHan|刘翊]], [[YongqiuLateHan|雍丘]], and [[YuanShu|袁术]] - parallel Yanzhou branch in which Cao Cao's field position becomes formally recognized.
 - [[MingqiLegitimacy|名器合法性]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - concepts extended by the episode.

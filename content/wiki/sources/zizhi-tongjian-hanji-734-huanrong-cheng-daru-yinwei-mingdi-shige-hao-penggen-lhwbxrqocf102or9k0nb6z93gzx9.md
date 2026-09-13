@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongping 2 / 59 CE immediately before [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]]. It centers [[EmperorMingOfHan|汉明帝]] and his former `Shangshu` teacher [[HuanRongEasternHan|桓荣]], showing how imperial ceremonies at Mingtang, Biyong, the Taichang office, sickbed visits, and funeral rites turn teacher respect into public political order.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongping 2 / 59 CE immediately before [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]]. It centers [[EmperorMingOfHan|汉明帝]] and his former `Shangshu` teacher [[HuanRongEasternHan|桓荣]], showing how imperial ceremonies at Mingtang, Biyong, the Taichang office, sickbed visits, and funeral rites turn teacher respect into public political order.
 
 The durable synthesis is [[ImperialTeacherHonorRitual|imperial teacher-honor ritual]]: Mingdi does not merely thank an old teacher privately. He uses the emperor's body, seating protocol, scholar audiences, stipend and title rewards, medical care, mourning, and burial grants to make Huan Rong's classical authority visible to officials and students, while the same year also shows royal-kin favor, ancestor-minister sacrifice, Dou-family punishment, Five Suburban seasonal rites, and the Yin Feng murder case as adjacent tests of ritual, kinship, and legal order.
 
@@ -45,7 +45,7 @@ The durable synthesis is [[ImperialTeacherHonorRitual|imperial teacher-honor rit
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The source backfills Yongping 2 / 59 CE before Hanji 735's Empress Ma, Zhongli Yi, Liu Ping, Guo He, and Shache-Khotan layer.
-- Chronology caution: Hanji 734 places Huan Rong's major public honors before Hanji 735-738's empress selection, construction remonstrance, official evaluation, classics education, and frontier diplomacy, so Mingdi's classical-ritual profile now begins one year earlier.
+- No settled contradiction with existing wiki content was found. The source backfills Yongping 2 / 59 CE before 汉纪 735's Empress Ma, Zhongli Yi, Liu Ping, Guo He, and Shache-Khotan layer.
+- Chronology caution: 汉纪 734 places Huan Rong's major public honors before 汉纪 735-738's empress selection, construction remonstrance, official evaluation, classics education, and frontier diplomacy, so Mingdi's classical-ritual profile now begins one year earlier.
 - Identity caution: the Zhongshan king Liu Yan in this episode is left source-scoped and not merged with [[LiuYanFulingKingEasternHan|Fuling King Liu Yan]], [[LiuYanDongCommandery|Liu Yan of Dong Commandery]], or [[LiuYanLateHan|Liu Yan (late Han warlord)]].
 - Scope caution: Li Gong, the exact `sanlao` and `wugeng` ritual offices, Biyong and Mingtang institutional details, Liu Yan of Zhongshan, Xiao He/Huo Guang sacrifice details, Dou Lin, Yin Feng, Princess Liyi/Liu Shou, Five Suburban seasonal rites, and South Xiongnu succession remain source-scoped unless later notes warrant standalone pages.

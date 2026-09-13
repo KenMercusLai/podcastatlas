@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-李崇 / Li Chong enters the wiki through [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] as Wang Mang's Western Regions protector whose remaining force retreats to [[QiuciKingdom|龟兹]] after [[WangJunXinGeneral|王骏]]'s failed expedition.
+李崇 / Li Chong enters the wiki through [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] as Wang Mang's Western Regions protector whose remaining force retreats to [[QiuciKingdom|龟兹]] after [[WangJunXinGeneral|王骏]]'s failed expedition.
 
 ## Current Profile
 
@@ -24,13 +24,13 @@ After Wang Jun's group is killed, Li Chong gathers the remaining troops and stay
 - Co-dispatched with Wang Jun and Guo Qing during Wang Mang's failed western mission.
 - Survives the ambush branch and consolidates remnants at Qiuci.
 - Functions as a residual institutional link before later disconnection.
-- Current evidence is limited to the Hanji 652 frontier episode.
+- Current evidence is limited to the 汉纪 652 frontier episode.
 
 ## Evidence
 
-- Office and mission: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] names Li Chong as Western Regions protector dispatched with Wang Jun and Guo Qing.
-- Remnant consolidation: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says he gathers residual troops and retreats to Qiuci after Wang Jun's force is destroyed.
-- Contact-break claim: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Western Regions contact breaks after Wang Mang's fall and Li Chong's death.
+- Office and mission: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] names Li Chong as Western Regions protector dispatched with Wang Jun and Guo Qing.
+- Remnant consolidation: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says he gathers residual troops and retreats to Qiuci after Wang Jun's force is destroyed.
+- Contact-break claim: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Western Regions contact breaks after Wang Mang's fall and Li Chong's death.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ This page should not be read as a full account of the Western Regions Protectora
 
 ## What Changed
 
-- Created the page from Hanji 652 as the residual Xin Western Regions protector figure.
+- Created the page from 汉纪 652 as the residual Xin Western Regions protector figure.
 
 ## Relationships
 

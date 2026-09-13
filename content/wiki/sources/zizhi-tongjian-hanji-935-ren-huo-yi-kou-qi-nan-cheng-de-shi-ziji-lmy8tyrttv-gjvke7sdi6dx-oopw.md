@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 185 CE late-Han crisis between [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] and [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|Hanji 936]]. It follows [[LiuTaoLateHan|刘陶 / 刘桃]]'s warning about Yellow Turban and western rebellion pressure, the eunuch slander that pushes him into prison and self-killing, [[ZhangWenLateHan|张温]]'s campaign against [[BianZhangLateHan|边章]] and [[HanSui|韩遂]], and [[SunJianLateHan|孙坚]]'s ignored advice to cut the rebel grain road before [[ZhouShenLateHan|周慎]] loses his own supply line.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 185 CE late-Han crisis between [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|汉纪 933]] and [[zizhi-tongjian-hanji-936-luanshi-xian-sha-shengmu-xin-zhehua-dui-ma-lml-kuyc7yys2ijh2kt46pwnugar|汉纪 936]]. It follows [[LiuTaoLateHan|刘陶 / 刘桃]]'s warning about Yellow Turban and western rebellion pressure, the eunuch slander that pushes him into prison and self-killing, [[ZhangWenLateHan|张温]]'s campaign against [[BianZhangLateHan|边章]] and [[HanSui|韩遂]], and [[SunJianLateHan|孙坚]]'s ignored advice to cut the rebel grain road before [[ZhouShenLateHan|周慎]] loses his own supply line.
 
 ## Key Claims
 
@@ -27,7 +27,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - Zhang Wen is defeated at Meiyang by Bian Zhang and Han Sui before Dong Zhuo and right Fufeng-side forces counterattack and drive the rebels toward Yuzhong.
 - Sun Jian advises Zhou Shen to take advantage of the rebels' food shortage by cutting their external supply road with 10,000 troops while the main army supports from behind.
 - Zhou Shen ignores Sun Jian's plan, besieges Yuzhong directly, and is forced to retreat after the rebels cut the Han army's own grain road at Kuiyuan Gorge.
-- The episode makes Sun Jian's early importance visible before his later military-law advice in Hanji 936 and his Changsha and anti-Dong-Zhuo campaigns in later sources.
+- The episode makes Sun Jian's early importance visible before his later military-law advice in 汉纪 936 and his Changsha and anti-Dong-Zhuo campaigns in later sources.
 
 ## Key Quotes
 
@@ -40,13 +40,13 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 ## Connections
 
 - [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], [[TenAttendantsLateHan|十常侍]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - remonstrance, accusation filtering, imprisonment, and death.
-- [[ZhangWenLateHan|张温]], [[DongZhuo|董卓]], [[BianZhangLateHan|边章]], and [[HanSui|韩遂]] - 185 CE western campaign before Hanji 936's command-discipline branch and Hanji 937's Liangzhou consolidation branch.
+- [[ZhangWenLateHan|张温]], [[DongZhuo|董卓]], [[BianZhangLateHan|边章]], and [[HanSui|韩遂]] - 185 CE western campaign before 汉纪 936's command-discipline branch and 汉纪 937's Liangzhou consolidation branch.
 - [[SunJianLateHan|孙坚]], [[ZhouShenLateHan|周慎]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]] - ignored proposal to attack the rebels through supply-line control.
 - [[ZhangJiaoLateHan|张角]] and [[LuoyangLateHan|洛阳]] - earlier Yellow Turban disorder and the capital-threat frame used in Liu Tao's warning.
-- [[CommandDisciplineAuthority|军法威严]] - adjacent Sun Jian branch in Hanji 936, where Sun Jian's judgment shifts from logistics to enforcing command hierarchy.
+- [[CommandDisciplineAuthority|军法威严]] - adjacent Sun Jian branch in 汉纪 936, where Sun Jian's judgment shifts from logistics to enforcing command hierarchy.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This episode backfills an earlier Bian Zhang-Han Sui field before Hanji 937's later Han Sui consolidation and Bian Zhang death/absorption branch.
+- No settled contradiction with existing wiki pages was found. This episode backfills an earlier Bian Zhang-Han Sui field before 汉纪 937's later Han Sui consolidation and Bian Zhang death/absorption branch.
 - Naming caution: the source summary renders 韩遂 as 韩岁 in places; this wiki normalizes the actor to [[HanSui|韩遂 / Han Sui]].
 - Source-scope caution: the opening self-cultivation frame is preserved as episode framing, not generalized into a standalone doctrine beyond this source's late-Han examples.

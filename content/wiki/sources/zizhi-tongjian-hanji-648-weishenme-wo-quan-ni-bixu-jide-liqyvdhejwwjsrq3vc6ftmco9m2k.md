@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Wang Mang's Tianfeng 1 / 14 CE crisis before [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]] and the later [[XinDynasty|新朝]] collapse notes. It frames [[WangMang|王莽]]'s killing of a Xiongnu chanyu's son as a moral and political act whose consequences fall on border soldiers and commoners, then follows famine, frontier retrenchment, renewed [[Xiongnu|匈奴]] raids, Yizhou revolt, and another currency reset.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Wang Mang's Tianfeng 1 / 14 CE crisis before [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|汉纪 650]] and the later [[XinDynasty|新朝]] collapse notes. It frames [[WangMang|王莽]]'s killing of a Xiongnu chanyu's son as a moral and political act whose consequences fall on border soldiers and commoners, then follows famine, frontier retrenchment, renewed [[Xiongnu|匈奴]] raids, Yizhou revolt, and another currency reset.
 
 The durable synthesis is that late-Xin policy stress is visible earlier than the already-ingested 15-22 CE sequence. Wang Mang can still withdraw border deployments when supplies fail, but he also rewards Han Wei's grotesque anti-Xiongnu bravado, faces raids driven by grievance and interest, suppresses Yizhou unrest by requisitioning nearby commanderies, and keeps changing money in ways that the host reads as ordinary-people bankruptcy risk.
 
@@ -43,11 +43,11 @@ The durable synthesis is that late-Xin policy stress is visible earlier than the
 - [[PunitiveCurrencyEnforcementBackfire|惩罚性货币执法反噬]], [[CurrencyCredit|货币信用]], and [[CurrencyControlTrap|currency control trap]] - the episode supplies the earlier currency-churn condition before later punishment and forced-labor enforcement.
 - [[FrontierConscriptionBackfire|边疆征发反噬]] and [[WarDisasterCompounding|war-disaster compounding]] - Yizhou pacification and frontier defense convert rebellion, famine, military spending, and taxation into commoner burden.
 - [[OrdinaryPeopleHistoricalVisibility|普通人历史可见性]] - the host's moral point centers harmed soldiers and commoners rather than court actors alone.
-- [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]], [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|Hanji 653]], [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]], and [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] - continuation into salary arrears, market controls, private-coinage punishment, famine, and forced labor.
+- [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|汉纪 650]], [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|汉纪 653]], [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]], and [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] - continuation into salary arrears, market controls, private-coinage punishment, famine, and forced labor.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 14 CE, before Hanji 650's 15-16 CE administrative and salary layer and before Hanji 653's 17 CE 五均六管 layer.
+- Chronology qualification: this source backfills 14 CE, before 汉纪 650's 15-16 CE administrative and salary layer and before 汉纪 653's 17 CE 五均六管 layer.
 - Moral-causality qualification: the episode's virtue, blessing, and retribution language is treated as the host's interpretive frame, not as proof of supernatural historical causality.
 - Scope caution: Ru Pu, Han Wei, Chen Qin, Luanti Xian, Luanti Deng, Feng Mao, Cheng Long, Ba/Shu/Qianwei levy details, Yizhou local groups, and exact coin values remain source-scoped unless later notes warrant canonical pages.

@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly narrates the 192 CE killing of [[DongZhuo|董卓]]: [[WangYunLateHan|王允]] and [[LyuBu|吕布]] use [[EmperorXianOfHan|汉献帝]]'s court meeting at [[WeiyangPalace|未央宫]] to stage an ambush, with [[ShiSunRuiLateHan|士孙瑞]] drafting the edict and [[LiSuLateHan|李肃]] attacking at the north gate. It then follows the celebration, family purge, [[MeiwuFortress|郿坞]] confiscation, and corpse-burning spectacle that make Dong Zhuo a case of [[PublicCorpseHumiliation|公开尸体羞辱]]. The second half turns to [[CaiYong|蔡邕]]'s imprisonment and death, where Wang Yun's refusal to spare a historian extends [[HistoricalRecordAuthority|史官记录话语权]] and [[PostSuccessArrogance|得势后的骄傲]] before the follow-on Hanji 964-965 crisis.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly narrates the 192 CE killing of [[DongZhuo|董卓]]: [[WangYunLateHan|王允]] and [[LyuBu|吕布]] use [[EmperorXianOfHan|汉献帝]]'s court meeting at [[WeiyangPalace|未央宫]] to stage an ambush, with [[ShiSunRuiLateHan|士孙瑞]] drafting the edict and [[LiSuLateHan|李肃]] attacking at the north gate. It then follows the celebration, family purge, [[MeiwuFortress|郿坞]] confiscation, and corpse-burning spectacle that make Dong Zhuo a case of [[PublicCorpseHumiliation|公开尸体羞辱]]. The second half turns to [[CaiYong|蔡邕]]'s imprisonment and death, where Wang Yun's refusal to spare a historian extends [[HistoricalRecordAuthority|史官记录话语权]] and [[PostSuccessArrogance|得势后的骄傲]] before the follow-on 汉纪 964-965 crisis.
 
 ## Key Claims
 
@@ -48,9 +48,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly na
 - [[EmperorXianOfHan|汉献帝]], [[WeiyangPalace|未央宫]], and [[ChangAnHanCapital|长安]] - court setting and capital reaction.
 - [[MeiwuFortress|郿坞]], [[PublicCorpseHumiliation|公开尸体羞辱]], and [[HistoricalMemoryContest]] - Dong Zhuo's wealth, corpse, and posthumous meaning.
 - [[CaiYong|蔡邕]], [[MaRidiLateHan|马日磾]], [[CaiWenji|蔡文姬]], [[HistoricalRecordAuthority|史官记录话语权]], and [[PostSuccessArrogance|得势后的骄傲]] - historian-silencing branch.
-- [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] and [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] - follow-on episodes that develop Wang Yun's arrogance, Lü Bu's merit display, and the failed remnant-force settlement.
+- [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|汉纪 964]] and [[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|汉纪 965]] - follow-on episodes that develop Wang Yun's arrogance, Lü Bu's merit display, and the failed remnant-force settlement.
 
 ## Contradictions
 
-- No settled contradiction is recorded. Hanji 963 supplies the direct episode source for events that Hanji 964 and 965 had already backfilled from the aftermath.
+- No settled contradiction is recorded. 汉纪 963 supplies the direct episode source for events that 汉纪 964 and 965 had already backfilled from the aftermath.
 - Source-scope caution: the corpse-burning details, Wang Yun dialogue, and motive analysis are preserved as this episode's dramatic and interpretive framing rather than generalized beyond the source.

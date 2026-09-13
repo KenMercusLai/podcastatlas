@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 Military finance corruption is the pattern where campaign budgets, soldier pay, provisions, and reward channels become private extraction opportunities. The result is not only theft; coercive capacity itself hollows out because soldiers go unpaid or unfed while officials use war money to buy protection.
 
 ## Current Synthesis
-Hanji 826 supplies the first direct source case. The Western Qiang campaign consumes more than eighty yi, yet generals steal military funds, withhold rations and pay, and use bribes to protect themselves. The soldiers bear the cost through hunger, exhaustion, and death, while the state receives little durable military result until Liang Bing's trust-based surrender policy repairs the field from another direction.
+汉纪 826 supplies the first direct source case. The Western Qiang campaign consumes more than eighty yi, yet generals steal military funds, withhold rations and pay, and use bribes to protect themselves. The soldiers bear the cost through hunger, exhaustion, and death, while the state receives little durable military result until Liang Bing's trust-based surrender policy repairs the field from another direction.
 
 The concept is narrower than [[CampaignFinanceAccessIncentive|军费通道利益驱动]]. Campaign finance access incentive describes why large campaigns create attractive channels for palace or treasury influence even without named theft. Military finance corruption names the direct conversion of military funds and supplies into private gain.
 
@@ -24,16 +24,16 @@ The concept is narrower than [[CampaignFinanceAccessIncentive|军费通道利益
 - Credible surrender policy can repair a front that corrupt coercion has made more expensive and less effective.
 
 ## Evidence
-- Direct theft: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says generals steal campaign money, rations, and soldier pay during the Western Qiang war.
-- Soldier destruction: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] describes soldiers dying in the wilderness while the corrupt command structure continues extracting.
-- Bribe protection: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says commanders use bribery to shield themselves from accountability.
-- Repair contrast: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] places Liang Bing's trust-based surrender after the corrupt war-finance failure.
+- Direct theft: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says generals steal campaign money, rations, and soldier pay during the Western Qiang war.
+- Soldier destruction: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] describes soldiers dying in the wilderness while the corrupt command structure continues extracting.
+- Bribe protection: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says commanders use bribery to shield themselves from accountability.
+- Repair contrast: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] places Liang Bing's trust-based surrender after the corrupt war-finance failure.
 
 ## Counterevidence & Qualifications
 The current evidence is source-bounded to one Western Qiang passage and should not be used to claim that every costly late-Han campaign is corrupt. It also does not identify every commander by name or reconstruct the full accounting chain. The concept requires source-level evidence of stolen military funds, pay, supplies, or bribery, not merely large budgets or battlefield losses.
 
 ## What Changed
-- Created the concept from Hanji 826's direct military-finance corruption layer.
+- Created the concept from 汉纪 826's direct military-finance corruption layer.
 - Distinguished direct theft from the broader access-incentive pattern around campaign funding.
 
 ## Related Concepts

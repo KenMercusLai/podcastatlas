@@ -11,13 +11,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-段珪 / Duan Gui is a late-Han eunuch whose current wiki profile has an early Huan-era property-and-complaint branch in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] and a later 189 CE palace-crisis branch in [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]]. The page treats the route as a continuous eunuch-access figure while keeping the early branch source-scoped.
+段珪 / Duan Gui is a late-Han eunuch whose current wiki profile has an early Huan-era property-and-complaint branch in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] and a later 189 CE palace-crisis branch in [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]]. The page treats the route as a continuous eunuch-access figure while keeping the early branch source-scoped.
 
 ## Current Profile
 
-Hanji 853 places Duan Gui beside [[HouLanLateHan|侯览]] as a small yellow-gate figure with large farmland near Jibei. Their servants and guests rob travelers; [[TengYanLateHan|滕延]] arrests and executes dozens of them, but Hou Lan and Duan Gui complain to [[EmperorHuanOfHan|汉桓帝]], and Teng Yan is recalled, sent to the commandant of justice, and dismissed.
+汉纪 853 places Duan Gui beside [[HouLanLateHan|侯览]] as a small yellow-gate figure with large farmland near Jibei. Their servants and guests rob travelers; [[TengYanLateHan|滕延]] arrests and executes dozens of them, but Hou Lan and Duan Gui complain to [[EmperorHuanOfHan|汉桓帝]], and Teng Yan is recalled, sent to the commandant of justice, and dismissed.
 
-Hanji 946 shows Duan Gui much later as an ally of [[ZhangRangLateHan|张让]] during the palace crisis around [[HeJin|何进]]. After He Jin is killed, Duan Gui joins the flight by palace passageways with [[EmpressDowagerHe|何太后]], [[LiuBianHongnongWang|刘辩 / 弘农王]], and Liu Xie / [[EmperorXianOfHan|汉献帝]]. His clearest individual scene comes when [[LuZhiLateHan|卢植]] shouts at him, causing him to release Empress Dowager He.
+汉纪 946 shows Duan Gui much later as an ally of [[ZhangRangLateHan|张让]] during the palace crisis around [[HeJin|何进]]. After He Jin is killed, Duan Gui joins the flight by palace passageways with [[EmpressDowagerHe|何太后]], [[LiuBianHongnongWang|刘辩 / 弘农王]], and Liu Xie / [[EmperorXianOfHan|汉献帝]]. His clearest individual scene comes when [[LuZhiLateHan|卢植]] shouts at him, causing him to release Empress Dowager He.
 
 ## Key Characteristics
 
@@ -29,14 +29,14 @@ Hanji 946 shows Duan Gui much later as an ally of [[ZhangRangLateHan|张让]] du
 
 ## Evidence
 
-- Property-and-servant branch: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Duan Gui and Hou Lan hold large farmland near Jibei and their servants and guests rob travelers.
-- Enforcement reversal: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Duan Gui and Hou Lan complain to Emperor Huan after Teng Yan executes their offenders, leading to Teng Yan's dismissal.
-- Palace counterattack: [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] says Duan Gui helps Zhang Rang respond to He Jin's anti-eunuch plan and joins the post-killing flight.
-- Dowager-release scene: [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] says Lu Zhi shouts at Duan Gui and Duan Gui releases Empress Dowager He's hand.
+- Property-and-servant branch: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Duan Gui and Hou Lan hold large farmland near Jibei and their servants and guests rob travelers.
+- Enforcement reversal: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Duan Gui and Hou Lan complain to Emperor Huan after Teng Yan executes their offenders, leading to Teng Yan's dismissal.
+- Palace counterattack: [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]] says Duan Gui helps Zhang Rang respond to He Jin's anti-eunuch plan and joins the post-killing flight.
+- Dowager-release scene: [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]] says Lu Zhi shouts at Duan Gui and Duan Gui releases Empress Dowager He's hand.
 
 ## Qualifications
 
-Hanji 853 uses 段归 and Hanji 946 uses 段规; this page follows the normalized 段珪 route already established for the 189 CE figure. The early Huan-era branch is treated as a source-bounded layer of the same eunuch-access profile, but the page does not reconstruct the intervening offices or prove an unbroken career from 160 to 189.
+汉纪 853 uses 段归 and 汉纪 946 uses 段规; this page follows the normalized 段珪 route already established for the 189 CE figure. The early Huan-era branch is treated as a source-bounded layer of the same eunuch-access profile, but the page does not reconstruct the intervening offices or prove an unbroken career from 160 to 189.
 
 ## What Changed
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-张霸 / Zhang Ba enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] as a young descendant in [[ZhangHeWesternHan|张贺]]'s benefactor-family reward branch.
+张霸 / Zhang Ba enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] as a young descendant in [[ZhangHeWesternHan|张贺]]'s benefactor-family reward branch.
 
 ## Current Profile
 
@@ -25,12 +25,12 @@ The episode says Xuan rewards Zhang Ba despite his youth, appointing him Sanqi Z
 ## Evidence
 
 Intergenerational reward:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says the seven-year-old Zhang Ba is appointed Sanqi Zhonglangjiang.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says he is also granted Guannei Hou status.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says the seven-year-old Zhang Ba is appointed Sanqi Zhonglangjiang.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says he is also granted Guannei Hou status.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 430 and does not reconstruct Zhang Ba's later life.
+This page is source-scoped to 汉纪 430 and does not reconstruct Zhang Ba's later life.
 
 ## What Changed
 

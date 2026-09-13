@@ -18,9 +18,9 @@ last_updated: 2026-08-29
 ## Current Profile
 Pang Xi first appears as a Henan official and friend of [[LiuYanLateHan|刘焉]]. After Liu Yan's Chang'an-side sons are killed or unavailable, Pang Xi helps send Liu Yan's grandsons into Shu, preserving a family continuity channel around [[YizhouLateHan|益州]]. That makes him part of Liu Zhang's succession support network rather than an outside enemy.
 
-Hanji 1053 adds Pang Xi's frontier role before the Cheng Ji crisis. Liu Zhang sends him against [[ZhangLuFivePecks|张鲁]], but he fails. Liu Zhang then makes him Ba commandery administrator at Langzhong to defend against Hanzhong. Pang Xi privately recruits Cong forces without Liu Zhang's authorization, and after provocation Liu Zhang begins to suspect him.
+汉纪 1053 adds Pang Xi's frontier role before the Cheng Ji crisis. Liu Zhang sends him against [[ZhangLuFivePecks|张鲁]], but he fails. Liu Zhang then makes him Ba commandery administrator at Langzhong to defend against Hanzhong. Pang Xi privately recruits Cong forces without Liu Zhang's authorization, and after provocation Liu Zhang begins to suspect him.
 
-Hanji 1055 turns that suspicion into a direct trust crisis. Pang Xi controls force in the Baxi field, has ties to local elites and Cong groups, once showed favor to the Liu family, and has married his daughter to Liu Zhang's eldest son [[LiuXunYizhouHeirLateHan|刘循]]. He fears Liu Zhang's suspicion and tries to have [[ChengJiLateHan|程畿]] gather Cong forces, but Cheng Ji refuses the unrighteous command. Pang Xi then abandons the armed path and apologizes with gifts.
+汉纪 1055 turns that suspicion into a direct trust crisis. Pang Xi controls force in the Baxi field, has ties to local elites and Cong groups, once showed favor to the Liu family, and has married his daughter to Liu Zhang's eldest son [[LiuXunYizhouHeirLateHan|刘循]]. He fears Liu Zhang's suspicion and tries to have [[ChengJiLateHan|程畿]] gather Cong forces, but Cheng Ji refuses the unrighteous command. Pang Xi then abandons the armed path and apologizes with gifts.
 
 ## Key Characteristics
 - Acts as a Liu-family continuity broker after Liu Yan's family crisis.
@@ -30,17 +30,17 @@ Hanji 1055 turns that suspicion into a direct trust crisis. Pang Xi controls for
 - Responds to fear by considering armed self-protection, but remains persuadable by Cheng Ji's moral refusal.
 
 ## Evidence
-- Continuity broker: [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]] says Pang Xi helps Liu Yan's grandsons enter Shu after the Chang'an branch collapses.
-- Frontier role and private recruitment: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|Hanji 1053]] reports Pang Xi's failed campaign against Zhang Lu, Ba/Langzhong defensive appointment, private Cong recruitment, and Liu Zhang's resulting suspicion.
-- Militarized insider: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] emphasizes Pang Xi's force, local ties, old favor, and household marriage as reasons Liu Zhang might suspect him.
-- Checked escalation: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] has Cheng Ji refuse Pang Xi's mobilization request and reports that Pang Xi apologizes rather than proceeding.
+- Continuity broker: [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|汉纪 981]] says Pang Xi helps Liu Yan's grandsons enter Shu after the Chang'an branch collapses.
+- Frontier role and private recruitment: [[zizhi-tongjian-hanji-1053-genzhe-sunquan-xuexi-ruhe-zhengdun-jituan-gaoguan-lq9hy25xonjzhj1sfisvauu3bwmi|汉纪 1053]] reports Pang Xi's failed campaign against Zhang Lu, Ba/Langzhong defensive appointment, private Cong recruitment, and Liu Zhang's resulting suspicion.
+- Militarized insider: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] emphasizes Pang Xi's force, local ties, old favor, and household marriage as reasons Liu Zhang might suspect him.
+- Checked escalation: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] has Cheng Ji refuse Pang Xi's mobilization request and reports that Pang Xi apologizes rather than proceeding.
 
 ## Qualifications
-Pang Xi is not currently framed as a completed rebel in the wiki. Hanji 1053 shows unauthorized private recruitment and Liu Zhang's suspicion; Hanji 1055 shows fear and a contemplated armed response, but the branch is de-escalated after Cheng Ji's refusal. The page therefore treats him as a strong suspect insider, not as another Zhao Wei.
+Pang Xi is not currently framed as a completed rebel in the wiki. 汉纪 1053 shows unauthorized private recruitment and Liu Zhang's suspicion; 汉纪 1055 shows fear and a contemplated armed response, but the branch is de-escalated after Cheng Ji's refusal. The page therefore treats him as a strong suspect insider, not as another Zhao Wei.
 
 ## What Changed
-- Added Hanji 1053's failed anti-Zhang Lu mission, Ba/Langzhong defensive role, private Cong recruitment, and first suspicion layer.
-- Clarified that Hanji 1055's Cheng Ji crisis follows an already-established military and trust problem rather than appearing from nowhere.
+- Added 汉纪 1053's failed anti-Zhang Lu mission, Ba/Langzhong defensive role, private Cong recruitment, and first suspicion layer.
+- Clarified that 汉纪 1055's Cheng Ji crisis follows an already-established military and trust problem rather than appearing from nowhere.
 
 ## Relationships
 - [[LiuYanLateHan|刘焉]] - old friend whose family continuity Pang Xi helps preserve.

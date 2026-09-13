@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 169 CE party-prohibition terror immediately before [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]]. After a brief opening on female self-building and intimate-relationship energy, the episode turns to [[EmperorLingOfHan|汉灵帝]]'s court, where party-figure accusations, private vendettas, and eunuch power convert political labeling into executions, exile, dismissal, and family ruin.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 169 CE party-prohibition terror immediately before [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]]. After a brief opening on female self-building and intimate-relationship energy, the episode turns to [[EmperorLingOfHan|汉灵帝]]'s court, where party-figure accusations, private vendettas, and eunuch power convert political labeling into executions, exile, dismissal, and family ruin.
 
 The historical core follows [[GuoTaiLateHan|郭泰]] grieving the destruction of famous scholars before retreating to teaching, and [[ZhangJianLateHan|张俭]] fleeing after [[HouLanLateHan|侯览]]'s accusation. [[LiDuLateHan|李笃]] shelters Zhang Jian, [[MaoQinLateHan|毛钦]] chooses not to arrest him after a coded exchange, and the route through [[XiziRanLateHan|戏子然]] helps Zhang escape beyond the frontier while leaving many helpers and relatives exposed to punishment.
 
@@ -42,6 +42,6 @@ The historical core follows [[GuoTaiLateHan|郭泰]] grieving the destruction of
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the Zhang Jian and party-prohibition layer immediately before Hanji 895's Kong-family shelter case and Hanji 896's survival strategies.
+- No settled contradiction with existing wiki pages was found. This source backfills the Zhang Jian and party-prohibition layer immediately before 汉纪 895's Kong-family shelter case and 汉纪 896's survival strategies.
 - Scope caution: the source gives aggregate purge numbers and household consequences from the episode note; those figures are kept source-scoped rather than converted into a complete party-prohibition casualty chronology.
 - Scope caution: the opening self-building and relationship advice is treated as a framing segment, not as a historical claim or a new canonical concept.

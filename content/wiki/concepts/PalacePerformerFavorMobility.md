@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|Hanji 529]] defines the pattern through [[ZhaoFeiyanWesternHan|赵飞燕]]. The episode starts with extremely low origin stories: Zhao Feiyan is reported as an abandoned infant in one `Han Shu`-based version, while another version makes her and [[ZhaoHedeWesternHan|赵合德]] abandoned twins from a scandalous liaison. Her rise does not move directly from beauty to palace power; it passes through [[YangAPrincessWesternHan|阳阿公主]]'s household, where dance training and performance visibility make her legible to the imperial gaze.
+[[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|汉纪 529]] defines the pattern through [[ZhaoFeiyanWesternHan|赵飞燕]]. The episode starts with extremely low origin stories: Zhao Feiyan is reported as an abandoned infant in one `Han Shu`-based version, while another version makes her and [[ZhaoHedeWesternHan|赵合德]] abandoned twins from a scandalous liaison. Her rise does not move directly from beauty to palace power; it passes through [[YangAPrincessWesternHan|阳阿公主]]'s household, where dance training and performance visibility make her legible to the imperial gaze.
 
 The key mechanism is mediated attention. [[HanChengdi|汉成帝]] sees Zhao Feiyan during a private visit, but Yang'a Princess reads the ruler's interest and turns it into transfer. Performance skill, bodily style, and household brokerage combine to produce palace entry. The concept should therefore be kept narrower than family-planned empress mobility: the source emphasizes performer training and opportunistic presentation, not a natal family's deliberate outer-relative strategy.
 
@@ -28,11 +28,11 @@ The key mechanism is mediated attention. [[HanChengdi|汉成帝]] sees Zhao Feiy
 
 ## Evidence
 
-- Low-origin frame: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|Hanji 529]] quotes the abandoned-infant story and also reports a variant abandoned-twin version for Zhao Feiyan and Zhao Hede.
-- Training venue: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|Hanji 529]] says Zhao Feiyan comes under Yang'a Princess's household and studies dance.
-- Performance capital: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|Hanji 529]] says Zhao Feiyan's light body, beauty, and dance style make her stand out among the singers.
-- Intermediary transfer: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|Hanji 529]] says Yang'a Princess notices Chengdi's interest and gives Zhao Feiyan to him.
-- Rank conversion: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|Hanji 529]] says Zhao Feiyan is soon made jieyu after entering the palace.
+- Low-origin frame: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|汉纪 529]] quotes the abandoned-infant story and also reports a variant abandoned-twin version for Zhao Feiyan and Zhao Hede.
+- Training venue: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|汉纪 529]] says Zhao Feiyan comes under Yang'a Princess's household and studies dance.
+- Performance capital: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|汉纪 529]] says Zhao Feiyan's light body, beauty, and dance style make her stand out among the singers.
+- Intermediary transfer: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|汉纪 529]] says Yang'a Princess notices Chengdi's interest and gives Zhao Feiyan to him.
+- Rank conversion: [[zizhi-tongjian-hanji-529-meiyan-jiemeihua-xihan-zuida-de-huoshui-dengchang-litxz9-kwkcm04s38y8_glpaqiop|汉纪 529]] says Zhao Feiyan is soon made jieyu after entering the palace.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ This concept is currently grounded in one popular-history episode and should not
 
 ## What Changed
 
-- Created the concept from Hanji 529's account of Zhao Feiyan's movement from abandoned-child legend to Yang'a household performer to Chengdi's jieyu.
+- Created the concept from 汉纪 529's account of Zhao Feiyan's movement from abandoned-child legend to Yang'a household performer to Chengdi's jieyu.
 
 ## Related Concepts
 

@@ -17,7 +17,7 @@ Retainer revenge mobilization / 臣下复仇动员 is the pattern where loyalty 
 ## Current Synthesis
 The Zhouji 73 case is public and large. [[WangSunGu|王孙古]] is shamed by his mother after [[QiMinWang|齐湣王]]'s killing, then calls followers in the market; the exposed-arm pledge recruits more than four hundred young men to kill [[ZhuoChi|淖齿 / 卓齿]], changing the political field before [[TianFazhang|田法章]]'s restoration as [[QiXiangWang|齐襄王]].
 
-Hanji 1067 adds a smaller, covert version. After [[SunYiLateHan|孙翊]] is killed, [[LadyXuSunYi|徐夫人]] privately contacts [[SunGaoLateHan|孙高]] and [[FuYingLateHan|傅婴]]. They gather more than twenty dead-set followers, hide the key killers inside Lady Xu's room, and coordinate the killing of [[GuiLanLateHan|妫览]], [[DaiYuanLateHan|戴员]], and the conspirator group. The concept therefore spans both public oath mobilization and hidden household-centered mobilization.
+汉纪 1067 adds a smaller, covert version. After [[SunYiLateHan|孙翊]] is killed, [[LadyXuSunYi|徐夫人]] privately contacts [[SunGaoLateHan|孙高]] and [[FuYingLateHan|傅婴]]. They gather more than twenty dead-set followers, hide the key killers inside Lady Xu's room, and coordinate the killing of [[GuiLanLateHan|妫览]], [[DaiYuanLateHan|戴员]], and the conspirator group. The concept therefore spans both public oath mobilization and hidden household-centered mobilization.
 
 ## Key Claims
 - Retainer revenge can start from shame, duty, or surviving-household instruction before it becomes organized violence.
@@ -31,17 +31,17 @@ Hanji 1067 adds a smaller, covert version. After [[SunYiLateHan|孙翊]] is kill
 - [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u|Zhouji 73]] shows Wang Sun Gu's mother framing inaction as failed subject duty, after which he publicly calls followers and kills Zhuo Chi.
 
 **Covert household-centered mobilization**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] shows Lady Xu contacting Sun Gao and Fu Ying, who gather more than twenty loyal followers and coordinate the room ambush and wider killing of the conspirators.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] shows Lady Xu contacting Sun Gao and Fu Ying, who gather more than twenty loyal followers and coordinate the room ambush and wider killing of the conspirators.
 
 **Political consequence**
-- [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u|Zhouji 73]] ties the revenge to Chu withdrawal and Qi restoration, while [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] ties Lady Xu's action to Sun Quan's subsequent cleanup and rewards.
+- [[zizhi-tongjian-zhouji-73-lishishang-ziyou-lianai-de-kaichuangzhe-shi-shui-lkumfsfialqgdl6qpb3c-hnz7h9u|Zhouji 73]] ties the revenge to Chu withdrawal and Qi restoration, while [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] ties Lady Xu's action to Sun Quan's subsequent cleanup and rewards.
 
 ## Counterevidence & Qualifications
 The concept should not collapse all loyal killing into political restoration. Wang Sun Gu's case depends on a collapsed Qi field and the removal of the killer of a ruler; Lady Xu's case depends on a conspiracy already framed as illegitimate and on Sun Quan's later public punishment. Both remain exceptional crisis responses, not standing authorization for retainer violence.
 
 ## What Changed
 - Migrated the page to `synthesis-v1`.
-- Added Hanji 1067's covert, widow-directed loyalist revenge as a second case.
+- Added 汉纪 1067's covert, widow-directed loyalist revenge as a second case.
 - Expanded the concept from public market pledge to both public and hidden mobilization forms.
 
 ## Related Concepts

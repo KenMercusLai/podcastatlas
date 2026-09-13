@@ -16,7 +16,7 @@ last_updated: 2026-08-23
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses [[LiBai|李白]]'s frontier-poetry mood and the looming [[BaidengEncirclement|白登之围]] as a brief frame, then returns to early [[WesternHanDynasty|西汉]] court institution-building. Its main scene is the completion of [[ChanglePalace|长乐宫]] in Han year seven, where [[ShusunTong|叔孙通]]'s court ritual orders kings, officials, guards, toast sequence, and censorial discipline so thoroughly that [[LiuBang|刘邦]] experiences imperial dignity as an enacted hierarchy. The episode then evaluates ritual ambivalently: [[SimaGuang|司马光]] praises 礼 as a governance system, while [[YangXiong|扬雄]] and the host criticize Shusun Tong for inheriting Qin forms and serving rulerly awe more than full Confucian restoration.
 
 ## Key Claims
-- The episode continues Hanji 175's shift from frontier threat and palace disorder into the completed ritual scene: [[Xiongnu|匈奴]] pressure remains the outer danger, but the core institutional work happens inside Changle Palace.
+- The episode continues 汉纪 175's shift from frontier threat and palace disorder into the completed ritual scene: [[Xiongnu|匈奴]] pressure remains the outer danger, but the core institutional work happens inside Changle Palace.
 - The Changle Palace court audience turns hierarchy into choreography: officials enter before dawn, stand by rank, bow in sequence, toast according to title, remain silent, and face censorial expulsion for breaches.
 - Liu Bang's satisfaction comes from ritualized perception. The ceremony makes him feel what imperial rule means by making kings and officials visibly lower, ordered, and disciplined.
 - Shusun Tong's success shows the practical power of Confucian ritual expertise: he converts status theory into a repeatable operating procedure for a rough postwar court.
@@ -43,5 +43,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses [[LiBa
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This episode sharpens, rather than reverses, Hanji 175's Shusun Tong branch: the earlier page emphasized practical ritual repair, while this page adds the completed ceremony and the critique that practical adaptation can become royal-favor-seeking.
+- This episode sharpens, rather than reverses, 汉纪 175's Shusun Tong branch: the earlier page emphasized practical ritual repair, while this page adds the completed ceremony and the critique that practical adaptation can become royal-favor-seeking.
 - The source's praise of ritual order and critique of hierarchical distance are intentionally held together; the wiki records them as a tension inside ritual governance rather than as mutually exclusive claims.

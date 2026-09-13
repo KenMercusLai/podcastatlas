@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-崔琦 / Cui Qi is the Zhuo Commandery writer in Hanji 846 whose admonitory essays and direct criticism of [[LiangJiLateHan|梁冀]] turn admiration into fatal pursuit. His page records how literary talent cannot protect criticism once Liang treats advice as a threat.
+崔琦 / Cui Qi is the Zhuo Commandery writer in 汉纪 846 whose admonitory essays and direct criticism of [[LiangJiLateHan|梁冀]] turn admiration into fatal pursuit. His page records how literary talent cannot protect criticism once Liang treats advice as a threat.
 
 ## Current Profile
 
-Hanji 846 says Cui Qi writes well and is originally admired by Liang Ji. Cui sends Liang two essays meant to satirize and warn him, then speaks more directly: Liang has assisted two reigns but failed to govern with virtue, has brought disaster and suffering to the court, avoids loyal and good people, and tries to seal public speech while deceiving the emperor's ears and eyes.
+汉纪 846 says Cui Qi writes well and is originally admired by Liang Ji. Cui sends Liang two essays meant to satirize and warn him, then speaks more directly: Liang has assisted two reigns but failed to govern with virtue, has brought disaster and suffering to the court, avoids loyal and good people, and tries to seal public speech while deceiving the emperor's ears and eyes.
 
 Liang first lets Cui Qi return home, but Cui understands that the danger has not ended and hides from place to place. Liang eventually sends people who find and kill him. The episode uses Cui Qi as the most explicit writerly remonstrance case in Liang's crime list.
 
@@ -28,17 +28,17 @@ Liang first lets Cui Qi return home, but Cui understands that the danger has not
 
 ## Evidence
 
-- Literary relationship: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Cui Qi is a strong writer whom Liang originally appreciates.
-- Criticism: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Cui Qi criticizes Liang's failure to govern well, recruit loyal people, and stop disasters.
-- Death after flight: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Cui Qi hides after being allowed to leave but is later found and killed by Liang's men.
+- Literary relationship: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Cui Qi is a strong writer whom Liang originally appreciates.
+- Criticism: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Cui Qi criticizes Liang's failure to govern well, recruit loyal people, and stop disasters.
+- Death after flight: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Cui Qi hides after being allowed to leave but is later found and killed by Liang's men.
 
 ## Qualifications
 
-This page is bounded to Hanji 846. The source does not identify the exact titles of Cui Qi's essays beyond their admonitory role, nor does it provide a complete literary biography.
+This page is bounded to 汉纪 846. The source does not identify the exact titles of Cui Qi's essays beyond their admonitory role, nor does it provide a complete literary biography.
 
 ## What Changed
 
-- Hanji 846 creates Cui Qi's page as the writer-remonstrance victim in Liang Ji's crime-record layer.
+- 汉纪 846 creates Cui Qi's page as the writer-remonstrance victim in Liang Ji's crime-record layer.
 
 ## Relationships
 

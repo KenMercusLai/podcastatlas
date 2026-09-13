@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the early [[EmperorZhangOfHan|汉章帝]] layer immediately before [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]]. It follows [[LiangGuirenHeLateHan|梁贵人]]'s family being destroyed after [[EmpressDowagerDouHeLateHan|窦皇后]] treats [[EmperorHeOfHan|刘肇]]'s crown-prince elevation as a threat to Dou-family maternal status, then contrasts that with the [[MaFamilyZhangEraEasternHan|Zhang-era Ma family]] losing protection after [[EmpressMaMingdeEasternHan|明德马皇后]]'s death.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the early [[EmperorZhangOfHan|汉章帝]] layer immediately before [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]]. It follows [[LiangGuirenHeLateHan|梁贵人]]'s family being destroyed after [[EmpressDowagerDouHeLateHan|窦皇后]] treats [[EmperorHeOfHan|刘肇]]'s crown-prince elevation as a threat to Dou-family maternal status, then contrasts that with the [[MaFamilyZhangEraEasternHan|Zhang-era Ma family]] losing protection after [[EmpressMaMingdeEasternHan|明德马皇后]]'s death.
 
 The second half shifts from the vulnerable to the overprotected. [[DouXianEasternHan|窦宪]] and [[DouDuEasternHan|窦笃]] gain palace access and rewards, [[FifthLunEasternHan|第五伦]] warns against outer-relative overreach, Dou Xian forcefully takes [[QinshuiPrincessEasternHan|沁水公主]]'s estate and tries to suppress the answer before Zhangdi, and [[ZhouYuLuoyangEasternHan|周纡]] later shows that enforcing order against imperial relatives can still endanger the enforcer. The durable synthesis is a three-part power warning: lost patronage makes display dangerous, gained patronage makes restraint harder, and known wrongdoing left unpunished weakens deterrence.
 
@@ -48,6 +48,6 @@ The second half shifts from the vulnerable to the overprotected. [[DouXianEaster
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills the Zhangdi-era Ma, Liang, and early Dou layers before Hanji 753-758's accusation, speech, household, frontier, and kinship-boundary sequence.
+- No settled contradiction with existing wiki content was found. The episode backfills the Zhangdi-era Ma, Liang, and early Dou layers before 汉纪 753-758's accusation, speech, household, frontier, and kinship-boundary sequence.
 - Transcript normalization: 刘兆 is treated as [[EmperorHeOfHan|刘肇 / Emperor He]], 杨宗 as [[YangZhongEasternHan|杨终]], 马房 as Ma Fang / 马防 inside [[MaFamilyZhangEraEasternHan|the Zhang-era Ma family]], 窦县 as [[DouXianEasternHan|窦宪]], 窦堵 as [[DouDuEasternHan|窦笃]], 周瑜 as [[ZhouYuLuoyangEasternHan|周纡]], and 霍严 as Huo Yan / 霍延.
 - Scope caution: Liang Song/Liang Shu, Ma Fang, Ma Guang, Ma Yu, Huo Yan, Jiuzhen exile details, the exact Luoyang亭名, Qiang-Hu tax particulars, and minor Ma/Dou household office chronology remain source-scoped unless later notes warrant standalone pages.

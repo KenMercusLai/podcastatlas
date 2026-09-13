@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # Courtesy-Covered Elimination / 礼遇包装式清除
 
-Courtesy-covered elimination / 礼遇包装式清除 enters the wiki through [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] as the mechanism behind the [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]]. It names the pattern where a public act of recognition, protection, or protocol is used to create the physical access for secret removal.
+Courtesy-covered elimination / 礼遇包装式清除 enters the wiki through [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|汉纪 970]] as the mechanism behind the [[YuanShaoLyuBuAssassinationAttempt|袁绍刺吕布未遂]]. It names the pattern where a public act of recognition, protection, or protocol is used to create the physical access for secret removal.
 
 In the source case, [[YuanShao|袁绍]] does not openly challenge [[LyuBu|吕布]] after their joint campaign against [[ZhangYanLateHan|张燕]]. He instead presents an appointment in the emperor's name and sends strong soldiers as an escort. The visible surface is honor and safe passage; the hidden purpose is to put armed men close enough to kill Lü Bu.
 

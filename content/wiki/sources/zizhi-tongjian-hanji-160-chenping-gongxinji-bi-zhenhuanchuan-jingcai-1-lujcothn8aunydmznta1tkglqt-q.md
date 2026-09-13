@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode returns from the [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] strategy correction to the [[XingyangStandoff|荥阳相持]] crisis itself. [[LiuBang|刘邦]] seeks peace after [[Aocang|敖仓]] is lost and [[XiangYu|项羽]] presses Xingyang, but [[FanZeng|范增]] blocks the deal and pushes for a final attack. [[ChenPing|陈平]] then proposes a funded [[CounterintelligenceRumorWedge|反间流言楔入]]: exploit Xiang Yu's suspicion and stinginess over rewards, alienate his few trusted ministers and generals, and let Chu's internal trust collapse before Han attacks again.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode returns from the [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|汉纪 159-2]] strategy correction to the [[XingyangStandoff|荥阳相持]] crisis itself. [[LiuBang|刘邦]] seeks peace after [[Aocang|敖仓]] is lost and [[XiangYu|项羽]] presses Xingyang, but [[FanZeng|范增]] blocks the deal and pushes for a final attack. [[ChenPing|陈平]] then proposes a funded [[CounterintelligenceRumorWedge|反间流言楔入]]: exploit Xiang Yu's suspicion and stinginess over rewards, alienate his few trusted ministers and generals, and let Chu's internal trust collapse before Han attacks again.
 
 ## Key Claims
 - The episode starts from Han year 3, fourth month: Aocang is lost, Liu Bang is surrounded at Xingyang, and he asks to divide the world with Xiang Yu along Xingyang's east-west line.
@@ -36,12 +36,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode returns fro
 > "妇人之仁" - the Han Xin-style critique the host uses for Xiang Yu's kindness without effective reward distribution.
 
 ## Connections
-- [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[XingyangStandoff|荥阳相持]], [[Aocang|敖仓]], and [[XiangYu|项羽]] - the supply crisis and rejected strategic shortcut that precede Chen Ping's operation.
+- [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|汉纪 159-1]], [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|汉纪 159-2]], [[XingyangStandoff|荥阳相持]], [[Aocang|敖仓]], and [[XiangYu|项羽]] - the supply crisis and rejected strategic shortcut that precede Chen Ping's operation.
 - [[ChenPing|陈平]], [[LiuBang|刘邦]], [[CovertPoliticalTechnology|阴谋式政治技术]], and [[CounterintelligenceRumorWedge|反间流言楔入]] - funded hidden work that attacks the enemy's ruler-minister trust.
 - [[FanZeng|范增]], [[ZhongliMo|钟离眜]], [[LongJuChuGeneral|龙且]], and [[ZhouYin|周殷]] - Chu's small trusted core as Chen Ping identifies it.
 - [[RewardAllocationBacklash|分配反噬]], [[MeritBasedRewardPunishment|因功赏罚]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[RumorErosionOfTrust|谣言侵蚀信任]] - interpretive cluster around rewards, talent retention, and rumor attacking an existing trust crack.
 - [[XiangBo|项伯]] and [[FanZeng|范增]] - temporary peace opening and the adviser who blocks it.
 
 ## Contradictions
-- No settled contradiction is recorded. This source reinforces earlier Han Xin and Hanji 147 criticism that Xiang Yu respects people but fails at reward distribution, while adding the concrete Chen Ping operation that turns that weakness into a rumor wedge.
+- No settled contradiction is recorded. This source reinforces earlier Han Xin and 汉纪 147 criticism that Xiang Yu respects people but fails at reward distribution, while adding the concrete Chen Ping operation that turns that weakness into a rumor wedge.
 - Source-scope caution: the transcript jumps from Chen Ping's first rumor against Zhongli Mo to Fan Zeng's departure and death. This page records Fan Zeng's exit as the episode's implied next result, but does not claim the omitted middle causal chain is fully shown in the available text.

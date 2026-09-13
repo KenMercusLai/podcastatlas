@@ -9,7 +9,7 @@ last_updated: 2026-08-29
 ---
 
 ## Overview
-邓康 / Deng Kang is an An-era Deng-family relative whose current wiki role is a source-bounded internal warning against [[DengFamilyAnEraLateHan|Deng-family]] outer-relative overreach. [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] presents him as [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s cousin, Yueqi xiaowei, and Northern Army manager who repeatedly urges higher court authority and weaker outer-relative power before being expelled from office.
+邓康 / Deng Kang is an An-era Deng-family relative whose current wiki role is a source-bounded internal warning against [[DengFamilyAnEraLateHan|Deng-family]] outer-relative overreach. [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|汉纪 792]] presents him as [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s cousin, Yueqi xiaowei, and Northern Army manager who repeatedly urges higher court authority and weaker outer-relative power before being expelled from office.
 
 ## Current Profile
 Deng Kang's profile is not just personal disrespect. The source places him inside the Deng regency at a moment when the family is powerful enough for one of its own members to see danger in continuing dominance. His memorial line argues that the court's prestige should be raised and outer-relative power reduced, which makes him an internal critic of the very household from which he benefits.
@@ -27,16 +27,16 @@ The attendant reports both his feigned illness and disrespect. Deng then removes
 - Punished relative whose dismissal, fief return, and registration cancellation may also lower later purge exposure.
 
 ## Evidence
-- Office and kinship position: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] identifies Deng Kang as Empress Dowager Deng's cousin, Yueqi xiaowei, and manager of the Northern Army.
-- Internal warning: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] says he repeatedly memorializes for raising court prestige and weakening outer-relative power.
-- Breakdown and punishment: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] says Deng rejects him, he feigns illness, insults the palace attendant sent to check on him, and is then removed, returned to his fief, and stripped of registration/status.
-- Risk-separation interpretation: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] frames the punishment as a possible later safety gain once the Deng household faces liquidation.
+- Office and kinship position: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|汉纪 792]] identifies Deng Kang as Empress Dowager Deng's cousin, Yueqi xiaowei, and manager of the Northern Army.
+- Internal warning: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|汉纪 792]] says he repeatedly memorializes for raising court prestige and weakening outer-relative power.
+- Breakdown and punishment: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|汉纪 792]] says Deng rejects him, he feigns illness, insults the palace attendant sent to check on him, and is then removed, returned to his fief, and stripped of registration/status.
+- Risk-separation interpretation: [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|汉纪 792]] frames the punishment as a possible later safety gain once the Deng household faces liquidation.
 
 ## Qualifications
 The current evidence does not prove Deng Kang's private motive. His memorials may reflect public-minded judgment, family self-protection, personal distancing from a dangerous power center, or a mixture. The palace attendant remains source-scoped; the page preserves her role only as the trigger that converts Deng Kang's withdrawal into punishable disrespect.
 
 ## What Changed
-- Created the page from Hanji 792 as a Deng-family insider who warned against outer-relative overreach before the later Deng purge.
+- Created the page from 汉纪 792 as a Deng-family insider who warned against outer-relative overreach before the later Deng purge.
 
 ## Relationships
 - [[EmpressDowagerDengLateHan]] - cousin and regent whose anger turns Deng Kang's memorials and failed withdrawal into punishment.

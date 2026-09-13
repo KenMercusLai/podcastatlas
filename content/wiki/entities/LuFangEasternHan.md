@@ -15,25 +15,25 @@ last_updated: 2026-09-02
 
 ## Overview
 
-卢芳 / Lu Fang is synthesized as an Eastern Han frontier claimant whose career begins with manufactured Liu-line and Xiongnu-line ancestry, then moves through Xiongnu sponsorship, raiding, surrender, reward, and renewed defection. [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] now supplies the earliest current layer: Lu Fang claims to be Han Wudi's great-grandson Liu Wenbo and to descend from a Xiongnu royal connection, wins Sanshui Qiang/Hu support, and is installed by [[Xiongnu|Xiongnu]] as a rival "Han emperor" after Liu Xuan falls. [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]] then adds the later pressure notice: Lu Fang raids alongside Xiongnu, and Liu Xiu answers the broader northern problem by sending Liu Sa to seek restored [[HanXiongnuHeqinPolicy|Han-Xiongnu heqin]] relations. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] adds a 37 CE collapse stage, [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] records his later Gaoliu return, [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] records his surrender and reward, and [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] shows renewed defection after fear and Xiongnu backing remain unresolved.
+卢芳 / Lu Fang is synthesized as an Eastern Han frontier claimant whose career begins with manufactured Liu-line and Xiongnu-line ancestry, then moves through Xiongnu sponsorship, raiding, surrender, reward, and renewed defection. [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] now supplies the earliest current layer: Lu Fang claims to be Han Wudi's great-grandson Liu Wenbo and to descend from a Xiongnu royal connection, wins Sanshui Qiang/Hu support, and is installed by [[Xiongnu|Xiongnu]] as a rival "Han emperor" after Liu Xuan falls. [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|汉纪 704]] then adds the later pressure notice: Lu Fang raids alongside Xiongnu, and Liu Xiu answers the broader northern problem by sending Liu Sa to seek restored [[HanXiongnuHeqinPolicy|Han-Xiongnu heqin]] relations. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] adds a 37 CE collapse stage, [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|汉纪 717]] records his later Gaoliu return, [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] records his surrender and reward, and [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] shows renewed defection after fear and Xiongnu backing remain unresolved.
 
 ## Current Profile
 
-Hanji 681 supplies the earliest current Lu Fang origin layer. During the Wang Mang-end fragmentation, Lu Fang claims that his birth name is Liu Wenbo, that he descends from [[HanWudi|Han Wudi]], and that his line also connects to a Xiongnu royal branch. The source treats the genealogy as a false claim used to deceive people and build a claimant identity.
+汉纪 681 supplies the earliest current Lu Fang origin layer. During the Wang Mang-end fragmentation, Lu Fang claims that his birth name is Liu Wenbo, that he descends from [[HanWudi|Han Wudi]], and that his line also connects to a Xiongnu royal branch. The source treats the genealogy as a false claim used to deceive people and build a claimant identity.
 
 That manufactured identity becomes politically useful after Liu Xuan's fall. Lu Fang first gains Sanshui Qiang/Hu backing and receives a Gengshi-regime appointment, then local elites make him shangjiangjun and Xiping king. He sends envoys westward and northward for marriage alliance, and the Xiongnu Chanyu, comparing the move to Han support for Huhanye Chanyu, sends cavalry, brings Lu Fang into the Xiongnu sphere, and installs him as a "Han emperor" before returning him toward Anding.
 
-Hanji 704 supplies the later raiding notice. While [[WeiXiaoEasternHan|Wei Xiao]] is bargaining with Liu Xiu, Xiongnu and Lu Fang continue raiding. Liu Xiu sends Guide Hou Liu Sa to Xiongnu hoping to restore old relations and heqin, but the Chanyu sends an envoy to Luoyang while continuing raids. Lu Fang is therefore visible as part of a northern pressure field that makes diplomacy necessary but not sufficient.
+汉纪 704 supplies the later raiding notice. While [[WeiXiaoEasternHan|Wei Xiao]] is bargaining with Liu Xiu, Xiongnu and Lu Fang continue raiding. Liu Xiu sends Guide Hou Liu Sa to Xiongnu hoping to restore old relations and heqin, but the Chanyu sends an envoy to Luoyang while continuing raids. Lu Fang is therefore visible as part of a northern pressure field that makes diplomacy necessary but not sufficient.
 
-Hanji 714 supplies the earliest current Lu Fang stage. The transcript form `鲁方` is normalized here to Lu Fang. He raids with Xiongnu and Wuhuan forces, then attacks Yunzhong with Xiongnu support but cannot take it. When Sui Yu plans to capture him and surrender, Lu Fang flees back to Xiongnu with around ten riders, while the remaining followers submit through Sui Yu.
+汉纪 714 supplies the earliest current Lu Fang stage. The transcript form `鲁方` is normalized here to Lu Fang. He raids with Xiongnu and Wuhuan forces, then attacks Yunzhong with Xiongnu support but cannot take it. When Sui Yu plans to capture him and surrender, Lu Fang flees back to Xiongnu with around ten riders, while the remaining followers submit through Sui Yu.
 
-Hanji 717 supplies the earlier frontier-position notice. Lu Fang returns from the Xiongnu sphere and lives at Gaoliu, placing him close to the same northern frontier environment where [[MaChengEasternHan|Ma Cheng]], [[DuMaoEasternHan|Du Mao]], and [[ZhangKanEasternHan|Zhang Kan]] appear in the episode's personnel-correction branch.
+汉纪 717 supplies the earlier frontier-position notice. Lu Fang returns from the Xiongnu sphere and lives at Gaoliu, placing him close to the same northern frontier environment where [[MaChengEasternHan|Ma Cheng]], [[DuMaoEasternHan|Du Mao]], and [[ZhangKanEasternHan|Zhang Kan]] appear in the episode's personnel-correction branch.
 
-Hanji 718 places Lu Fang in the diplomatic aftermath of frontier contestation. Lu Fang and [[MinKanEasternHan|闵堪]] surrender to [[LiuXiu|刘秀]], and Liu Xiu responds with high-status incorporation: Lu Fang is enfeoffed as Dai King, Min Kan becomes Dai Chancellor, and the court grants substantial silk and cloth.
+汉纪 718 places Lu Fang in the diplomatic aftermath of frontier contestation. Lu Fang and [[MinKanEasternHan|闵堪]] surrender to [[LiuXiu|刘秀]], and Liu Xiu responds with high-status incorporation: Lu Fang is enfeoffed as Dai King, Min Kan becomes Dai Chancellor, and the court grants substantial silk and cloth.
 
 The settlement is unstable from the start. The source says the Xiongnu side gave Lu Fang back to Han expecting reward, but Lu Fang claims voluntary surrender; Han also follows that version and avoids paying a bounty. The Chanyu becomes angry, and raids increase, making Lu Fang's surrender a case where face-saving narrative damages frontier trust.
 
-Hanji 720 supplies the next consequence. Lu Fang defects again after a postponed court audience, suggesting that title and gifts do not fully resolve fear, loyalty, or Xiongnu patronage when the underlying security field remains unsettled.
+汉纪 720 supplies the next consequence. Lu Fang defects again after a postponed court audience, suggesting that title and gifts do not fully resolve fear, loyalty, or Xiongnu patronage when the underlying security field remains unsettled.
 
 ## Key Characteristics
 
@@ -47,35 +47,35 @@ Hanji 720 supplies the next consequence. Lu Fang defects again after a postponed
 
 ## Evidence
 
-- False ancestry claim: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Lu Fang claims to be Han Wudi's great-grandson Liu Wenbo and to have a Xiongnu royal descent connection, while the source treats the claim as deception.
-- Sanshui backing and local title: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Sanshui Qiang/Hu and local figures elevate Lu Fang after Liu Xuan's regime collapses.
-- Xiongnu installation: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says the Xiongnu Chanyu installs Lu Fang as "Han emperor" and returns him with cavalry support in the Anding direction.
-- Earliest raiding notice: [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]] says Xiongnu and Lu Fang continue raiding while Wei Xiao's western case is unfolding.
-- Heqin-pressure context: [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]] says Liu Xiu sends Liu Sa to seek restored old relations and heqin with Xiongnu, but raids continue.
-- Failed Yunzhong attack: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Lu Fang attacks Yunzhong with Xiongnu support but cannot win.
-- Subordinate defection: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Sui Yu plans to seize Lu Fang and surrender, after which Lu Fang flees to Xiongnu with around ten riders.
-- Force collapse: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Lu Fang's remaining followers submit through Sui Yu and go to Luoyang.
-- Earlier Gaoliu return: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|Hanji 717]] says Lu Fang returns from the Xiongnu sphere and lives at Gaoliu in 39 CE.
-- Surrender and reward: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Lu Fang and Min Kan surrender, after which Liu Xiu makes Lu Fang Dai King and Min Kan Dai Chancellor.
-- Material incorporation: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Liu Xiu gives Lu Fang twenty thousand bolts or silks and wants him to pacify Xiongnu relations.
-- Bounty dispute: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Xiongnu expected reward for returning Lu Fang, while Lu Fang and Han treat the event as voluntary surrender.
-- Renewed fragility: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] says Lu Fang defects again after a postponed court audience.
+- False ancestry claim: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] says Lu Fang claims to be Han Wudi's great-grandson Liu Wenbo and to have a Xiongnu royal descent connection, while the source treats the claim as deception.
+- Sanshui backing and local title: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] says Sanshui Qiang/Hu and local figures elevate Lu Fang after Liu Xuan's regime collapses.
+- Xiongnu installation: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] says the Xiongnu Chanyu installs Lu Fang as "Han emperor" and returns him with cavalry support in the Anding direction.
+- Earliest raiding notice: [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|汉纪 704]] says Xiongnu and Lu Fang continue raiding while Wei Xiao's western case is unfolding.
+- Heqin-pressure context: [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|汉纪 704]] says Liu Xiu sends Liu Sa to seek restored old relations and heqin with Xiongnu, but raids continue.
+- Failed Yunzhong attack: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Lu Fang attacks Yunzhong with Xiongnu support but cannot win.
+- Subordinate defection: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Sui Yu plans to seize Lu Fang and surrender, after which Lu Fang flees to Xiongnu with around ten riders.
+- Force collapse: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Lu Fang's remaining followers submit through Sui Yu and go to Luoyang.
+- Earlier Gaoliu return: [[zizhi-tongjian-hanji-717-13-ge-zi-yinfa-de-diwang-zhinu-liz3jsbvw3snfapzsrqw917fqv7v|汉纪 717]] says Lu Fang returns from the Xiongnu sphere and lives at Gaoliu in 39 CE.
+- Surrender and reward: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Lu Fang and Min Kan surrender, after which Liu Xiu makes Lu Fang Dai King and Min Kan Dai Chancellor.
+- Material incorporation: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Liu Xiu gives Lu Fang twenty thousand bolts or silks and wants him to pacify Xiongnu relations.
+- Bounty dispute: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Xiongnu expected reward for returning Lu Fang, while Lu Fang and Han treat the event as voluntary surrender.
+- Renewed fragility: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] says Lu Fang defects again after a postponed court audience.
 
 ## Qualifications
 
-Hanji 681 supplies Lu Fang's origin claim and Xiongnu installation, but it leaves Liu Wenbo, Lu Cheng, Hunyewang ancestry, Julin/Gulin king, Sanshui leadership, and exact Anding deployment details source-scoped. Hanji 704 names Lu Fang as part of continuing northern raiding but does not detail his command structure, target locations, or relationship with Liu Sa's envoy. Hanji 714's `鲁方` form is treated as a transcript variant rather than a separate entity. Hanji 717's Gaoliu notice is a setup layer rather than proof of stable allegiance. The page should be read as a bounded synthesis of manufactured claimant legitimacy, frontier pressure, force collapse, later return, surrender incorporation, and frontier-trust failure, not a complete biography of the claimant.
+汉纪 681 supplies Lu Fang's origin claim and Xiongnu installation, but it leaves Liu Wenbo, Lu Cheng, Hunyewang ancestry, Julin/Gulin king, Sanshui leadership, and exact Anding deployment details source-scoped. 汉纪 704 names Lu Fang as part of continuing northern raiding but does not detail his command structure, target locations, or relationship with Liu Sa's envoy. 汉纪 714's `鲁方` form is treated as a transcript variant rather than a separate entity. 汉纪 717's Gaoliu notice is a setup layer rather than proof of stable allegiance. The page should be read as a bounded synthesis of manufactured claimant legitimacy, frontier pressure, force collapse, later return, surrender incorporation, and frontier-trust failure, not a complete biography of the claimant.
 
 ## What Changed
 
-- Added Hanji 681 as the earliest current origin layer: false Liu/Xiongnu genealogy, Sanshui backing, and Xiongnu installation as a rival "Han emperor."
-- Reframed Hanji 704 as the later raiding and heqin-pressure notice rather than the first visible Lu Fang layer.
-- Preserved Hanji 714 and Hanji 717 as the failed Yunzhong attack, Sui Yu fracture, flight, and Gaoliu-return setup.
-- Preserved Hanji 718 and Hanji 720 as the surrender-reward settlement and renewed defection sequence.
+- Added 汉纪 681 as the earliest current origin layer: false Liu/Xiongnu genealogy, Sanshui backing, and Xiongnu installation as a rival "Han emperor."
+- Reframed 汉纪 704 as the later raiding and heqin-pressure notice rather than the first visible Lu Fang layer.
+- Preserved 汉纪 714 and 汉纪 717 as the failed Yunzhong attack, Sui Yu fracture, flight, and Gaoliu-return setup.
+- Preserved 汉纪 718 and 汉纪 720 as the surrender-reward settlement and renewed defection sequence.
 
 ## Relationships
 
 - [[LiuXiu|光武帝刘秀]] - emperor who rewards Lu Fang's surrender with title and gifts.
-- [[SuiYuEasternHan|隋昱]] - subordinate whose defection plan breaks Lu Fang's immediate force in Hanji 714.
+- [[SuiYuEasternHan|隋昱]] - subordinate whose defection plan breaks Lu Fang's immediate force in 汉纪 714.
 - [[MaWuEasternHan|马武]] - Han commander stationed defensively against Xiongnu in the same episode branch.
 - [[MinKanEasternHan|闵堪]] - paired surrender actor made Dai Chancellor.
 - [[ZhangKanEasternHan|张堪]] - later Gaoliu/Yuyang frontier official in the same regional pressure field.

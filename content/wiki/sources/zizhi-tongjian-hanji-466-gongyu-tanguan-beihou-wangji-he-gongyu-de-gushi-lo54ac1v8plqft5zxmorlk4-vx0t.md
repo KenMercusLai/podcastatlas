@@ -42,10 +42,10 @@ The durable synthesis is that early Gong Yu combines two themes that later sourc
 - [[HaremFiscalDiscipline|后宫财政约束]] and [[HaremSuccessionRiskControl|后宫继承风险控制]] - related harem-governance field because Gong Yu treats palace women as fiscal, social, and moral order issues rather than private household detail.
 - [[MausoleumFrugalityRemonstrance|陵墓节俭式进谏]] - adjacent burial-restraint concept because Gong Yu criticizes thick burial, grave goods, and mausoleum service as public burden.
 - [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] - partial success threshold because the episode says Yuan accepts Gong Yu's spending cuts.
-- [[OpportunisticCourtAlignment|投机型朝堂站队]] - later contrast because Hanji 478 treats Gong Yu's thrift advice as correct but evasive when court slander and corrupt favorites become the central problem.
+- [[OpportunisticCourtAlignment|投机型朝堂站队]] - later contrast because 汉纪 478 treats Gong Yu's thrift advice as correct but evasive when court slander and corrupt favorites become the central problem.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this episode backfills Gong Yu's early Chuyuan 1 entry and thrift memorial before Hanji 473, 474, 478, and 488. It does not contradict the later page's ambivalent Gong Yu profile; it supplies the earlier positive layer that the later "知而不言" criticism qualifies.
+- Chronology qualification: this episode backfills Gong Yu's early Chuyuan 1 entry and thrift memorial before 汉纪 473, 474, 478, and 488. It does not contradict the later page's ambivalent Gong Yu profile; it supplies the earlier positive layer that the later "知而不言" criticism qualifies.
 - Scope caution: Wang Ji's full career, Gong Yu's original memorial wording, exact fiscal numbers, and Yuan's actual implementation of the accepted reforms remain source-scoped.

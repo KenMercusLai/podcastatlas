@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] creates the concept through the contrast between [[XueGuangdeWesternHan|薛广德]] and [[ZhangMengWesternHan|张猛 / 张萌]]. Xue's advice is not dismissed because the safety concern is false; it almost fails because his public threat corners [[HanYuandi|汉元帝]] and makes acceptance feel like surrender to coercion.
+[[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] creates the concept through the contrast between [[XueGuangdeWesternHan|薛广德]] and [[ZhangMengWesternHan|张猛 / 张萌]]. Xue's advice is not dismissed because the safety concern is false; it almost fails because his public threat corners [[HanYuandi|汉元帝]] and makes acceptance feel like surrender to coercion.
 
 Zhang Meng changes the reception without changing the core policy. He first praises Yuan as the kind of wise ruler who lets ministers speak directly, then accepts Xue's concern, and finally gives practical reasons to avoid the boat: autumn wind, wide water, and dangerous waves. The episode's lesson is that hierarchy makes framing part of the policy instrument. Advice must solve both the external problem and the interpersonal problem of how the decision maker can say yes.
 
@@ -28,9 +28,9 @@ Zhang Meng changes the reception without changing the core policy. He first prai
 
 ## Evidence
 
-- Coercive contrast: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Xue Guangde threatens to die under the carriage wheels if Yuan insists on taking the boat.
-- Face-saving turn: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Zhang Meng first frames Yuan as receptive to loyal speech, then repeats the safety argument in practical terms.
-- Result: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Yuan accepts the bridge route and explicitly says Xue should have spoken like Zhang Meng.
+- Coercive contrast: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Xue Guangde threatens to die under the carriage wheels if Yuan insists on taking the boat.
+- Face-saving turn: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Zhang Meng first frames Yuan as receptive to loyal speech, then repeats the safety argument in practical terms.
+- Result: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Yuan accepts the bridge route and explicitly says Xue should have spoken like Zhang Meng.
 
 ## Counterevidence & Qualifications
 
@@ -38,7 +38,7 @@ This concept should not be used to erase the value of direct speech. Xue's earli
 
 ## What Changed
 
-- Created the concept from Hanji 475's contrast between Xue Guangde's coercive warning and Zhang Meng's successful reframing.
+- Created the concept from 汉纪 475's contrast between Xue Guangde's coercive warning and Zhang Meng's successful reframing.
 
 ## Related Concepts
 

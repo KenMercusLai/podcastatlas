@@ -11,7 +11,7 @@ last_updated: 2026-08-31
 ---
 
 ## Summary
-This episode backfills the 76-78 CE opening of [[EmperorZhangOfHan|Emperor Zhang]]'s reign before the existing Hanji 750 layer. It frames incentives and governance around visible example rather than bonuses alone, then follows [[MaLiaoEasternHan|Ma Liao]]'s advice to [[EmpressMaMingdeEasternHan|Empress Ma]], Fifth Lun's warning against giving imperial in-laws major commands, the [[MaFangEasternHan|Ma Fang]] and [[GengGongEasternHan|Geng Gong]] Qiang campaign, [[DengXunEasternHan|Deng Xun]]'s cancellation of an infeasible canal project, and [[BanChaoEasternHan|Ban Chao]]'s early Shicheng attack.
+This episode backfills the 76-78 CE opening of [[EmperorZhangOfHan|Emperor Zhang]]'s reign before the existing 汉纪 750 layer. It frames incentives and governance around visible example rather than bonuses alone, then follows [[MaLiaoEasternHan|Ma Liao]]'s advice to [[EmpressMaMingdeEasternHan|Empress Ma]], Fifth Lun's warning against giving imperial in-laws major commands, the [[MaFangEasternHan|Ma Fang]] and [[GengGongEasternHan|Geng Gong]] Qiang campaign, [[DengXunEasternHan|Deng Xun]]'s cancellation of an infeasible canal project, and [[BanChaoEasternHan|Ban Chao]]'s early Shicheng attack.
 
 ## Key Claims
 - Durable management and governance require rules, exemplars, and top-level modeling; bonuses alone can decay into expected compensation or team-splitting incentives.
@@ -20,7 +20,7 @@ This episode backfills the 76-78 CE opening of [[EmperorZhangOfHan|Emperor Zhang
 - Fifth Lun warns [[EmperorZhangOfHan|Emperor Zhang]] that imperial relatives may receive wealth but should not receive heavy offices, because failure creates a punishment-versus-kinship dilemma.
 - [[MaFangEasternHan|Ma Fang]] wins the Qiang campaign, but [[GengGongEasternHan|Geng Gong]]'s later impeachment after offending Ma Fang exposes how outer-relative command can distort accountability.
 - [[DengXunEasternHan|Deng Xun]] reports that the Hutuo/Shijiu canal project is impossible, and Zhangdi cancels it in favor of cheaper donkey-cart transport.
-- [[BanChaoEasternHan|Ban Chao]] is already operating through allied Western Regions forces in 78 CE, taking Shicheng before the later Hanji 750 memorial strategy.
+- [[BanChaoEasternHan|Ban Chao]] is already operating through allied Western Regions forces in 78 CE, taking Shicheng before the later 汉纪 750 memorial strategy.
 
 ## Key Quotes
 > "立规矩、树榜样、高层引领"
@@ -45,4 +45,4 @@ This episode backfills the 76-78 CE opening of [[EmperorZhangOfHan|Emperor Zhang
 - [[EmpressDowagerDouHeLateHan]] - appears before her later regency as Dou Xun's daughter, selected as guiren and then empress.
 
 ## Contradictions
-- No settled contradiction with existing wiki content. The episode adds an earlier layer before Hanji 750 and keeps 滇吾, Zong Yan, Liu Yu, Si Ye, Dou Xun, Ma Fang's exact influence on Geng Gong's impeachment, and several royal brothers source-scoped.
+- No settled contradiction with existing wiki content. The episode adds an earlier layer before 汉纪 750 and keeps 滇吾, Zong Yan, Liu Yu, Si Ye, Dou Xun, Ma Fang's exact influence on Geng Gong's impeachment, and several royal brothers source-scoped.

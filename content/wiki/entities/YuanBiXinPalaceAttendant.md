@@ -10,7 +10,7 @@ last_updated: 2026-09-08
 
 ## Overview
 
-Yuan Bi / 元璧 is the palace attendant in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] whose relationships with [[WangMang|王莽]] and [[WangLinXinCrownPrince|王林]] create the scandal that ends with Wang Lin's suicide. Her confession under interrogation turns private palace conduct into a dynastic-succession crisis.
+Yuan Bi / 元璧 is the palace attendant in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] whose relationships with [[WangMang|王莽]] and [[WangLinXinCrownPrince|王林]] create the scandal that ends with Wang Lin's suicide. Her confession under interrogation turns private palace conduct into a dynastic-succession crisis.
 
 ## Current Profile
 
@@ -27,10 +27,10 @@ After Empress Xiaomu dies, Wang Mang arrests Yuan Bi and others for interrogatio
 
 ## Evidence
 
-- Palace position: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] identifies Yuan Bi as Empress Xiaomu's attendant.
-- Wang Mang connection: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Mang privately had a close relationship with her while protecting his public image.
-- Wang Lin scandal: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Lin and Yuan Bi were connected closely enough for Wang Lin to fear Wang Mang's discovery.
-- Coerced confession: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Yuan Bi confesses the plot after arrest and torture.
+- Palace position: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] identifies Yuan Bi as Empress Xiaomu's attendant.
+- Wang Mang connection: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Mang privately had a close relationship with her while protecting his public image.
+- Wang Lin scandal: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Lin and Yuan Bi were connected closely enough for Wang Lin to fear Wang Mang's discovery.
+- Coerced confession: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Yuan Bi confesses the plot after arrest and torture.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The episode gives Yuan Bi mostly through male palace power and coercive interrog
 
 ## What Changed
 
-- Created from Hanji 658 as the palace-attendant hinge of Wang Lin's scandal.
+- Created from 汉纪 658 as the palace-attendant hinge of Wang Lin's scandal.
 
 ## Relationships
 

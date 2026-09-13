@@ -9,10 +9,10 @@ last_updated: 2026-09-01
 ---
 
 ## Overview
-严光 / Yan Guang is an early Eastern Han recluse and old acquaintance of [[LiuXiu|Liu Xiu]] whose current profile comes from [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]]. The episode presents him as a childhood schoolmate whom Liu Xiu repeatedly seeks and honors, but who refuses appointed office and returns to private farming and fishing.
+严光 / Yan Guang is an early Eastern Han recluse and old acquaintance of [[LiuXiu|Liu Xiu]] whose current profile comes from [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]]. The episode presents him as a childhood schoolmate whom Liu Xiu repeatedly seeks and honors, but who refuses appointed office and returns to private farming and fishing.
 
 ## Current Profile
-Hanji 699 uses Yan Guang to show that personal intimacy with the emperor does not erase reclusive autonomy. Liu Xiu recognizes or locates Yan Guang after becoming emperor and summons him repeatedly, indicating that the court sees him as morally and socially valuable.
+汉纪 699 uses Yan Guang to show that personal intimacy with the emperor does not erase reclusive autonomy. Liu Xiu recognizes or locates Yan Guang after becoming emperor and summons him repeatedly, indicating that the court sees him as morally and socially valuable.
 
 The summons does not become lasting service. Yan Guang is offered the Jianyi Dafu post but refuses it, returns to Fuchun, and lives by farming and fishing until his death at home. The episode treats the refusal as respected withdrawal rather than rebellion or incapacity.
 
@@ -26,12 +26,12 @@ Yan Guang therefore strengthens the wiki's distinction between attraction and co
 - Evidence point for noncoercive talent attraction under early Eastern Han.
 
 ## Evidence
-- Old relationship and summons: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] presents Yan Guang as Liu Xiu's old schoolmate and says Liu Xiu repeatedly summons him after locating him.
-- Office refusal: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Yan Guang is offered the Jianyi Dafu post but does not accept it.
-- Private end: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Yan Guang returns to Fuchun, farms and fishes, and dies at home.
+- Old relationship and summons: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] presents Yan Guang as Liu Xiu's old schoolmate and says Liu Xiu repeatedly summons him after locating him.
+- Office refusal: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] says Yan Guang is offered the Jianyi Dafu post but does not accept it.
+- Private end: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] says Yan Guang returns to Fuchun, farms and fishes, and dies at home.
 
 ## Qualifications
-This page is source-bounded to Hanji 699. It does not reconstruct the full Yan Guang/Yan Ziling tradition, later literary memory, or every historical variant of the summons story. The current claim is narrow: in this episode, Yan Guang's refusal remains compatible with Liu Xiu's respect.
+This page is source-bounded to 汉纪 699. It does not reconstruct the full Yan Guang/Yan Ziling tradition, later literary memory, or every historical variant of the summons story. The current claim is narrow: in this episode, Yan Guang's refusal remains compatible with Liu Xiu's respect.
 
 ## What Changed
 - Created Yan Guang as Liu Xiu's old-friend recluse and respected office-refusal case.

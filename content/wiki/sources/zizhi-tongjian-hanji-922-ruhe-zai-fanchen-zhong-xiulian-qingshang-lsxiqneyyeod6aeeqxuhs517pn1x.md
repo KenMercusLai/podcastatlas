@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 182-183 CE late-Han prelude before [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|Hanji 923]]. It moves from a source-scoped reflection on emotional intelligence as social training into [[EmperorLingOfHan|汉灵帝]]'s failed corruption review, [[ChenDanLateHan|陈耽]]'s defense of wrongly accused officials, [[ChenBaoLateHan|陈鲍]]'s root-cause diagnosis of the [[BandunMan|板楯蛮]] rebellion, [[HuanDianLateHan|桓典]]'s censorial deterrence, and [[ZhangJiaoLateHan|张角]]'s early [[TaipingDao|太平道]] expansion.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 182-183 CE late-Han prelude before [[zizhi-tongjian-hanji-923-chengnianrende-dingji-henjin-guzi-lide-juejue-lifzh-gohpqnmdznnfv72tndqf8h|汉纪 923]]. It moves from a source-scoped reflection on emotional intelligence as social training into [[EmperorLingOfHan|汉灵帝]]'s failed corruption review, [[ChenDanLateHan|陈耽]]'s defense of wrongly accused officials, [[ChenBaoLateHan|陈鲍]]'s root-cause diagnosis of the [[BandunMan|板楯蛮]] rebellion, [[HuanDianLateHan|桓典]]'s censorial deterrence, and [[ZhangJiaoLateHan|张角]]'s early [[TaipingDao|太平道]] expansion.
 
 The core contribution is an earlier layer for late-Han collapse: accurate complaints can reach the palace but remain weak when eunuch-connected officials are protected; rebellion may be produced by local extraction rather than inherent disloyalty; and popular distress gives healing-based religious authority room to become mass organization. The episode therefore ties personal "EQ" training to institutional diagnosis: seeing hidden incentives and accumulated grievance matters more than reacting to surface conflict.
 
@@ -31,7 +31,7 @@ The core contribution is an earlier layer for late-Han collapse: accurate compla
 - [[HuanDianLateHan|桓典]] becomes a feared censorial figure: his piebald horse gives rise to the "骢马御史" memory because eunuchs avoid his route.
 - In 183 CE, Emperor Ling grants [[WuyangJun|武阳君]] status to Empress He's mother, adding an early He-family status marker before later palace-family politics.
 - Zhang Jiao's Taiping Dao grows through Huang-Lao religious language, confession, talisman-water healing, discipleship, and mass travel by believers across eight provinces.
-- Local officials initially see Zhang Jiao as teaching people to do good, so his movement grows before Hanji 923 shows warnings turning into an exposed uprising plan.
+- Local officials initially see Zhang Jiao as teaching people to do good, so his movement grows before 汉纪 923 shows warnings turning into an exposed uprising plan.
 
 ## Key Quotes
 
@@ -52,7 +52,7 @@ The core contribution is an earlier layer for late-Han collapse: accurate compla
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills the 182-183 CE setup before Hanji 923's more direct Yellow Turban prelude.
+- No settled contradiction with existing wiki pages was found. The episode backfills the 182-183 CE setup before 汉纪 923's more direct Yellow Turban prelude.
 - Identity caution: [[ZhangJiSikongLateHan|张济 / Zhang Ji (late-Han sikong)]] is kept distinct from [[ZhangJiLateHan|张济 / Zhang Ji (late Han)]], the later warlord and Zhang Xiu's uncle.
 - Scope caution: Zhang Jiao's healing effects are preserved as the source's account of popular belief and mobilization, not as an independent medical claim.
 - Scope caution: the opening emotional-intelligence lesson is treated as the host's interpretive frame rather than as a historical claim about late-Han policy.

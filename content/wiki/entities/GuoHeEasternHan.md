@@ -27,9 +27,9 @@ The timing also qualifies the praise. The same year records floods in Luoyang an
 
 ## Evidence
 
-- Jingzhou merit: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] identifies Guo He as the Jingzhou inspector rewarded for good governance.
-- Public honor: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] says Mingdi gives him a high-status robe and lets him remove the carriage curtain so commoners can see the reward.
-- Disaster context: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] places the reward near flood records for Luoyang and seven commanderies or kingdoms.
+- Jingzhou merit: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] identifies Guo He as the Jingzhou inspector rewarded for good governance.
+- Public honor: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] says Mingdi gives him a high-status robe and lets him remove the carriage curtain so commoners can see the reward.
+- Disaster context: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] places the reward near flood records for Luoyang and seven commanderies or kingdoms.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The page currently rests on one reward scene. Guo He's underlying policies are n
 
 ## What Changed
 
-- Created Guo He as the Jingzhou local-governance exemplar from Hanji 735.
+- Created Guo He as the Jingzhou local-governance exemplar from 汉纪 735.
 
 ## Relationships
 

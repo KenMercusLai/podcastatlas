@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 神亭岭之战 / Shentingling Battle
 
-神亭岭之战 / Shentingling Battle enters the wiki through [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] as the best-known field encounter inside [[SunCe|孙策]]'s early Jiangdong expansion. The source places it after [[LiuYaoLateHan|刘繇]] has failed to appoint [[TaishiCi|太史慈]] as a general and has instead sent him to scout.
+神亭岭之战 / Shentingling Battle enters the wiki through [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|汉纪 993]] as the best-known field encounter inside [[SunCe|孙策]]'s early Jiangdong expansion. The source places it after [[LiuYaoLateHan|刘繇]] has failed to appoint [[TaishiCi|太史慈]] as a general and has instead sent him to scout.
 
 The encounter is asymmetrical. Taishi Ci rides with one subordinate, while Sun Ce has thirteen riders, including [[HanDang|韩当]] and [[HuangGai|黄盖]]. Taishi Ci still fights Sun Ce directly. Sun Ce hits Taishi Ci's horse and seizes Taishi Ci's hand戟; Taishi Ci seizes Sun Ce's headgear. The arrival of both sides' troops ends the fight without turning it into a larger battle in this source.
 

@@ -41,14 +41,14 @@ The late-Han branch is smaller but structurally similar. [[YuanTan|袁谭]] secr
 - Diplomatic promise cost: [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege|Zhouji 50]] shows Zhang Yi's Shangyu promise working against Chu while openly damaging promise credibility.
 - Meeting-protocol damage: [[zizhi-tongjian-zhouji-62-ji-er-kuang-ni-jiujiu-de-tui-a-lumch-ibj8m94abjh5nvr3qhiqff|Zhouji 62]] has Qin Zhaoxiangwang turn a meeting invitation into Chu Huaiwang's captivity and coercive territorial demand.
 - Exposed non-performance: [[zizhi-tongjian-zhouji-74-huanyuan-wanbi-guizhao-zhenxiang-lg1irvbbc1wp8oph2kmpatfoxebk|Zhouji 74]] shows Lin Xiangru shifting credibility cost to Qin by making Qin's failure to name the promised cities visible.
-- Late-Han alliance maneuver: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] shows Yuan Tan's secret seals for Lyu Kuang and Gao Xiang producing Cao Cao's distrust even though Cao still uses Yuan Tan tactically.
+- Late-Han alliance maneuver: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|汉纪 1061]] shows Yuan Tan's secret seals for Lyu Kuang and Gao Xiang producing Cao Cao's distrust even though Cao still uses Yuan Tan tactically.
 
 ## Counterevidence & Qualifications
-The concept does not condemn all deception. Sun Bin's case remains evidence that deception can be strategically reusable when it manipulates battlefield perception without spending personal trust. The Yuan Tan branch is filtered through Hanji 1061's interpretive frame and does not prove Cao Cao's later decisions by itself; it shows that the seal-lure becomes credible evidence for distrust inside this episode.
+The concept does not condemn all deception. Sun Bin's case remains evidence that deception can be strategically reusable when it manipulates battlefield perception without spending personal trust. The Yuan Tan branch is filtered through 汉纪 1061's interpretive frame and does not prove Cao Cao's later decisions by itself; it shows that the seal-lure becomes credible evidence for distrust inside this episode.
 
 ## What Changed
 - Migrated the page from legacy Connections format to synthesis-v1.
-- Added Hanji 1061's late-Han coalition case, extending the concept from Warring States diplomacy and battlefield deception into Yuan-family alliance management.
+- Added 汉纪 1061's late-Han coalition case, extending the concept from Warring States diplomacy and battlefield deception into Yuan-family alliance management.
 
 ## Related Concepts
 - [[DecreasingStovesDeception|减灶诱敌]] - reusable battlefield-deception contrast case.
@@ -57,4 +57,4 @@ The concept does not condemn all deception. Sun Bin's case remains evidence that
 - [[WanbiGuizhaoDiplomacy|完璧归赵式外交]] - inverse case where the weaker envoy manages the stronger party's non-performance.
 - [[MotivatedBias]] - psychological mechanism that makes some credibility-spending tricks initially plausible.
 - [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]] - adjacent alliance frame in which small trust breaks can shift coalition behavior.
-- [[MarriageAllianceWarExposure|联姻同盟战场暴露]] - Hanji 1061 companion concept because Cao Cao uses marriage to stabilize Yuan Tan after the credibility loss.
+- [[MarriageAllianceWarExposure|联姻同盟战场暴露]] - 汉纪 1061 companion concept because Cao Cao uses marriage to stabilize Yuan Tan after the credibility loss.

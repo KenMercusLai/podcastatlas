@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 3-4 CE under [[HanPingdi|汉平帝]], immediately before the Hanji 620-624 [[WangMang|王莽]] petition and prestige sequence. It uses [[YanXuWesternHan|严徐]] of [[YingchuanCommandery|颍川郡]] to explain [[PaternalLocalOfficeEthic|父母官式地方官伦理]]: good local authority is imagined through family care, self-restraint, and concern for common people before personal advancement.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 3-4 CE under [[HanPingdi|汉平帝]], immediately before the 汉纪 620-624 [[WangMang|王莽]] petition and prestige sequence. It uses [[YanXuWesternHan|严徐]] of [[YingchuanCommandery|颍川郡]] to explain [[PaternalLocalOfficeEthic|父母官式地方官伦理]]: good local authority is imagined through family care, self-restraint, and concern for common people before personal advancement.
 
 The political back half shifts from local moral memory to court-state machinery. [[HeBingWesternHan|何病]]'s harsh succession at Yingchuan confirms Yan Xu's fear that a different governor can immediately change local safety, while 4 CE ritual sacrifices, title changes, detention protections for women, elderly people, and young children, and Wang Mang's daughter entering [[WeiyangPalace|未央宫]] as empress prepare the next public-legitimacy cycle.
 
@@ -42,10 +42,10 @@ The political back half shifts from local moral memory to court-state machinery.
 - [[HumaneLocalGovernance|仁厚地方治理]], [[LocalGovernanceAsCare|地方治理作为照护]], and [[LocalOfficialTenureStability|地方官任期稳定]] - broader governance concepts that this source extends through the "父母官" vocabulary and transfer-risk scene.
 - [[HanPingdi|汉平帝]], [[WangMang|王莽]], [[WangZhengjun|王政君]], [[MaGongWesternHan|马宫 / 马功]], and [[ZhenFengXinOfficial|甄丰]] - late-Western-Han court setting for ritual, legal, and marriage-legitimacy actions.
 - [[EmpressWangPingdi|汉平帝王皇后]], [[WeiyangPalace|未央宫]], and [[WesternHanDynasty|西汉]] - Wang Mang's daughter enters the imperial household before the later succession crisis.
-- [[zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu|Hanji 620]] - next source in the local chronology, where Wang Mang's petition-reward loop becomes the main story.
+- [[zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu|汉纪 620]] - next source in the local chronology, where Wang Mang's petition-reward loop becomes the main story.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 3-4 CE before Hanji 620's 4 CE petition and "宰衡" elevation, while later 5 CE and post-Pingdi succession pages remain downstream.
+- Chronology qualification: this source backfills 3-4 CE before 汉纪 620's 4 CE petition and "宰衡" elevation, while later 5 CE and post-Pingdi succession pages remain downstream.
 - Scope caution: the exact original textual wording behind "父母官," the identities of Zhong Wei, Zhao Ji, Li Kuan, Wang Yun and the other seven envoys, and the full statutory mechanics of the detention protections remain source-scoped.

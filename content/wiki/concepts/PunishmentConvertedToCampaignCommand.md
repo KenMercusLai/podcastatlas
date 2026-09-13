@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 760 supplies the source-bounded case through [[DouXianEasternHan|Dou Xian]]. After [[LiuChangDuxiangHouEasternHan|Duxiang marquis Liu Chang]] is murdered and the investigation points to Dou, [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] imprisons him but does not execute him. Dou asks to attack [[NorthernXiongnuLateHan|Northern Xiongnu]] to redeem his capital offense, and the court appoints him chariot-and-cavalry general.
+汉纪 760 supplies the source-bounded case through [[DouXianEasternHan|Dou Xian]]. After [[LiuChangDuxiangHouEasternHan|Duxiang marquis Liu Chang]] is murdered and the investigation points to Dou, [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] imprisons him but does not execute him. Dou asks to attack [[NorthernXiongnuLateHan|Northern Xiongnu]] to redeem his capital offense, and the court appoints him chariot-and-cavalry general.
 
 The pattern is not a simple claim that military service always erases guilt. Its political content is the conversion itself: the same court that has enough evidence to imprison Dou also treats frontier command as an alternative path, because kinship, dowager authority, and military opportunity reshape accountability.
 
@@ -28,18 +28,18 @@ The pattern is not a simple claim that military service always erases guilt. Its
 
 ## Evidence
 
-- Murder-case liability: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Dou Xian arranges Liu Chang's killing, frames Liu Gang, and is identified after the case is reviewed.
-- Dowager protection: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Empress Dowager Dou imprisons Dou Xian but ultimately protects her brother.
-- Military alternative: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Dou Xian asks to attack Northern Xiongnu to redeem his death offense.
-- Formal command: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says he is appointed chariot-and-cavalry general with Geng Bing as deputy and large forces mobilized.
+- Murder-case liability: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says Dou Xian arranges Liu Chang's killing, frames Liu Gang, and is identified after the case is reviewed.
+- Dowager protection: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says Empress Dowager Dou imprisons Dou Xian but ultimately protects her brother.
+- Military alternative: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says Dou Xian asks to attack Northern Xiongnu to redeem his death offense.
+- Formal command: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says he is appointed chariot-and-cavalry general with Geng Bing as deputy and large forces mobilized.
 
 ## Counterevidence & Qualifications
 
-Hanji 760 sets up the conversion but does not itself show the later battlefield outcome. Hanji 761 and Hanji 763 supply the later successful campaign layers, while this concept remains grounded in the pre-campaign accountability shift. The pattern should not be generalized into a defense of military redemption; it describes how court power can replace ordinary punishment with a chance to win merit.
+汉纪 760 sets up the conversion but does not itself show the later battlefield outcome. 汉纪 761 and 汉纪 763 supply the later successful campaign layers, while this concept remains grounded in the pre-campaign accountability shift. The pattern should not be generalized into a defense of military redemption; it describes how court power can replace ordinary punishment with a chance to win merit.
 
 ## What Changed
 
-- Created the concept from Hanji 760's Dou Xian murder-case-to-command transition.
+- Created the concept from 汉纪 760's Dou Xian murder-case-to-command transition.
 - Preserved the distinction between later military success and the earlier accountability conversion.
 
 ## Related Concepts

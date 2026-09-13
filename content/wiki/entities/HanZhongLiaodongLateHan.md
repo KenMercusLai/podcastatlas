@@ -10,7 +10,7 @@ last_updated: 2026-09-06
 
 ## Overview
 
-韩中 / Han Zhong enters the wiki through [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]] as the Liaodong envoy sent by [[GongsunKangLateHan|公孙康]] to [[Wuhuan|乌桓]]. He is distinct from [[HanZhongLateHan|韩忠]], the Yellow Turban figure already present in the wiki.
+韩中 / Han Zhong enters the wiki through [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|汉纪 1066]] as the Liaodong envoy sent by [[GongsunKangLateHan|公孙康]] to [[Wuhuan|乌桓]]. He is distinct from [[HanZhongLateHan|韩忠]], the Yellow Turban figure already present in the wiki.
 
 ## Current Profile
 
@@ -28,18 +28,18 @@ The confrontation then becomes physical. Qian Zhao denounces Liaodong's arroganc
 
 ## Evidence
 
-- Envoy mission: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]] says Gongsun Kang sends Han Zhong to Wuhuan with a chanyu seal.
-- Liaodong argument: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]] says Han Zhong boasts of Liaodong's strength and asks why only Cao Cao can be honored.
-- Public humiliation: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]] records Qian Zhao's violent seizure of Han Zhong during the Wuhuan meeting.
-- Mission failure: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|Hanji 1066]] says Wuhuan dismisses Han Zhong and cancels the planned aid to Yuan Tan.
+- Envoy mission: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|汉纪 1066]] says Gongsun Kang sends Han Zhong to Wuhuan with a chanyu seal.
+- Liaodong argument: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|汉纪 1066]] says Han Zhong boasts of Liaodong's strength and asks why only Cao Cao can be honored.
+- Public humiliation: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|汉纪 1066]] records Qian Zhao's violent seizure of Han Zhong during the Wuhuan meeting.
+- Mission failure: [[zizhi-tongjian-hanji-1066-sanguo-zui-manheng-de-waijiaoguan-pingshenme-shi-qianzhao-ll17spch6x4zyo61vno-oi0lk7ft|汉纪 1066]] says Wuhuan dismisses Han Zhong and cancels the planned aid to Yuan Tan.
 
 ## Qualifications
 
-This page identifies only the Liaodong envoy from Hanji 1066. It should not be merged with the Yellow Turban leader [[HanZhongLateHan|韩忠]] without explicit evidence, and it should not be treated as a full biography. Buyeo, Yemaek, the exact wording of the Liaodong power claim, and Han Zhong's fate after the meeting remain source-scoped.
+This page identifies only the Liaodong envoy from 汉纪 1066. It should not be merged with the Yellow Turban leader [[HanZhongLateHan|韩忠]] without explicit evidence, and it should not be treated as a full biography. Buyeo, Yemaek, the exact wording of the Liaodong power claim, and Han Zhong's fate after the meeting remain source-scoped.
 
 ## What Changed
 
-- Created the page from Hanji 1066 to disambiguate the Liaodong envoy from the existing Yellow Turban Han Zhong page.
+- Created the page from 汉纪 1066 to disambiguate the Liaodong envoy from the existing Yellow Turban Han Zhong page.
 
 ## Relationships
 

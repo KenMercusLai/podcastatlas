@@ -31,7 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode reads the 1
 
 ## Connections
 - [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] — central concept tying frontier, southern, Taishan, and county-level examples together.
-- [[DuanJiongLateHan|段熲]] — western Qiang campaign commander whose profile gains an earlier high-endurance field-success layer before Hanji 855.
+- [[DuanJiongLateHan|段熲]] — western Qiang campaign commander whose profile gains an earlier high-endurance field-success layer before 汉纪 855.
 - [[XianlingQiang|先零羌]] and [[ShendiQiang|沈氐羌]] — existing Qiang-crisis pages contextualize the later frontier pressure that follows this episode's 160 CE fighting.
 - [[XiaFangLateHan|夏方]] — Guiyang administrator appointed Jiaozhi inspector and credited with inducing mass surrender in Rinan.
 - [[HuangfuGuiLateHan|皇甫规]] — appointed to Taishan after the Shusun Wuji crisis and presented as able to pacify local disorder.

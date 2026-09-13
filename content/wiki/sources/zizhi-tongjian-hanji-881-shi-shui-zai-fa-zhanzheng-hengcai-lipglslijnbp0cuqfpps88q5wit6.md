@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate Qiang-campaign and court-finance prelude before [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] and [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|Hanji 883]]. After a [[Zhuangzi|庄子]] monkey parable about exposed brilliance, it follows [[DuanJiongLateHan|段熲]]'s 168 CE [[FengyishanBattleLateHan|冯翊山之战]] against the [[XianlingQiang|先零羌]], where formation design, morale pressure, and combined infantry-cavalry attack produce a large Han victory.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate Qiang-campaign and court-finance prelude before [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] and [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|汉纪 883]]. After a [[Zhuangzi|庄子]] monkey parable about exposed brilliance, it follows [[DuanJiongLateHan|段熲]]'s 168 CE [[FengyishanBattleLateHan|冯翊山之战]] against the [[XianlingQiang|先零羌]], where formation design, morale pressure, and combined infantry-cavalry attack produce a large Han victory.
 
 The source's distinctive contribution is [[CampaignFinanceAccessIncentive|军费通道利益驱动]]: suppression war requires large military funding, and eunuch-side actors can influence decisions because they remain close to the emperor. The episode therefore reads Duan's hard-line campaign as fitting the interest structure of a palace-access field, while preserving a limitation: it does not identify exact recipients or prove specific extraction from the funds.
 
@@ -27,7 +27,7 @@ The source's distinctive contribution is [[CampaignFinanceAccessIncentive|军费
 - [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] postpones final reward until the Eastern Qiang are fully pacified, but immediately grants Duan cash, a family appointment, palace-treasury military funding, and the title `破羌将军`.
 - The episode contrasts [[ZhangHuanLateHan|张奂]] and source-scoped Huangfu Gui as conciliation-oriented frontier actors with Duan's elimination-oriented policy.
 - The "war profiteering" diagnosis is institutional: large campaign budgets plus eunuch proximity to the ruler make military affairs attractive to inner-court intervention.
-- Duan's victory, reward, and smooth funding reinforce the hard-line anti-Qiang route before Hanji 883's policy dispute and Hanji 891-892's campaign aftermath.
+- Duan's victory, reward, and smooth funding reinforce the hard-line anti-Qiang route before 汉纪 883's policy dispute and 汉纪 891-892's campaign aftermath.
 - The closing chronology places [[EmperorLingOfHan|汉灵帝]]'s family honors, high-office churn, a solar eclipse, and Luoyang flooding around the same opening-reign context.
 
 ## Key Quotes
@@ -48,6 +48,6 @@ The source's distinctive contribution is [[CampaignFinanceAccessIncentive|军费
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the Fengyishan campaign and finance-access layer before Hanji 882's closing campaign notice and Hanji 883's policy argument.
+- No settled contradiction with existing wiki pages was found. This source backfills the Fengyishan campaign and finance-access layer before 汉纪 882's closing campaign notice and 汉纪 883's policy argument.
 - Scope caution: the war-profiteering claim is preserved as an incentive/access diagnosis; the source does not prove named eunuchs personally extracted identified sums from Zhongcangfu military funding.
 - Transcript normalization: 段炯 is linked to canonical [[DuanJiongLateHan|段熲]], and traditional/simplified spellings around 《资治通鉴》 and 冯翊山 are normalized in page titles.

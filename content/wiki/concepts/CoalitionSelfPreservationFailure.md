@@ -16,9 +16,9 @@ The coalition has a clear common enemy, but its members do not convert that shar
 
 The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAlliance|合纵]] by naming their failure mode. Fear of Qin can create direction, but a coalition still fails if every member treats the alliance as insurance paid for by someone else's losses.
 
-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] adds the Suanzao version of the pattern. The anti-[[DongZhuo|董卓]] armies gather in large numbers but mostly drink and wait, leaving [[CaoCao|曹操]] to test the line alone at [[BianshuiBattleLateHan|Bianshui]]. Even after Cao Cao explains a concrete [[StrategicPassControl|pass-control]] plan, the coalition refuses the coordinated cost, and the [[SuanzaoCamp|Suanzao]] camp disperses under grain pressure.
+[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|汉纪 953]] adds the Suanzao version of the pattern. The anti-[[DongZhuo|董卓]] armies gather in large numbers but mostly drink and wait, leaving [[CaoCao|曹操]] to test the line alone at [[BianshuiBattleLateHan|Bianshui]]. Even after Cao Cao explains a concrete [[StrategicPassControl|pass-control]] plan, the coalition refuses the coordinated cost, and the [[SuanzaoCamp|Suanzao]] camp disperses under grain pressure.
 
-[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] supplies the diagnostic prelude to that failure. The [[AntiDongZhuoCoalition|反董卓联盟]] has enough moral pressure to form and enough prestige to select [[YuanShao|袁绍]] as盟主, but [[ZhengTaiLateHan|郑泰]] predicts that the commanders' separate status, self-appointment, weak hierarchy, and private calculations will stop them from sustaining unified action.
+[[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|汉纪 950]] supplies the diagnostic prelude to that failure. The [[AntiDongZhuoCoalition|反董卓联盟]] has enough moral pressure to form and enough prestige to select [[YuanShao|袁绍]] as盟主, but [[ZhengTaiLateHan|郑泰]] predicts that the commanders' separate status, self-appointment, weak hierarchy, and private calculations will stop them from sustaining unified action.
 
 [[zizhi-tongjian-zhouji-50-zhangyi-shi-zenyang-ba-chuhuaiwang-huyou-que-de-loxg3ylhmskvdm-axtco5y-acege]] is not a battlefield self-preservation case, but it extends the same alliance-fragility problem. [[ZhangYiStrategist|张仪]] makes [[ChuHuaiwang|楚怀王]] prefer a promised private gain in [[Shangyu|商於]] over maintaining the [[QiState|齐国]] tie, so Qin breaks the shared front before the coalition has to decide who bears the first military cost.
 
@@ -39,8 +39,8 @@ The concept extends [[CommonEnemyAlliance|共同敌人联盟]] and [[HezongAllia
 This case is not a total failure, because Xiang Yu's victory eventually activates the lords. But their participation comes after someone else has paid the decisive risk, so Julu turns coalition self-preservation into a post-victory submission pattern.
 
 ## Key Claims
-- Hanji 950 adds that coalition self-preservation can be visible at formation, before battlefield inaction, when leaders have no credible mechanism for hierarchy, cost-sharing, or binding sacrifice.
-- Hanji 953 adds that a coalition can possess a correct operational plan and still fail if no member accepts first risk and shared logistics.
+- 汉纪 950 adds that coalition self-preservation can be visible at formation, before battlefield inaction, when leaders have no credible mechanism for hierarchy, cost-sharing, or binding sacrifice.
+- 汉纪 953 adds that a coalition can possess a correct operational plan and still fail if no member accepts first risk and shared logistics.
 - A common enemy is not enough to produce operational unity.
 - Shared slogans can hide unequal willingness to spend troops, food, and political risk.
 - Slow-walking support can be formally consistent with alliance language while functionally weakening it.
@@ -57,8 +57,8 @@ This case is not a total failure, because Xiang Yu's victory eventually activate
 - Qinji 134 adds that a coalition can withhold decisive help until one member has already broken the enemy, then submit to the winner's command.
 
 ## Connections
-- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]], [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]], [[ZhengTaiLateHan|郑泰]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]] - formation-stage diagnosis of future inaction.
-- [[AntiDongZhuoCoalition|反董卓联盟]], [[SuanzaoCamp|酸枣大营]], [[BianshuiBattleLateHan|汴水之战]], and [[CaoCao|曹操]] - Hanji 953 late-Han case of inaction, isolated risk-taking, and camp dispersal.
+- [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|汉纪 950]], [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]], [[ZhengTaiLateHan|郑泰]], and [[PrestigeBasedCoalitionLeadership|名望型联盟领导]] - formation-stage diagnosis of future inaction.
+- [[AntiDongZhuoCoalition|反董卓联盟]], [[SuanzaoCamp|酸枣大营]], [[BianshuiBattleLateHan|汴水之战]], and [[CaoCao|曹操]] - 汉纪 953 late-Han case of inaction, isolated risk-taking, and camp dispersal.
 - [[HezongAlliance|合纵]], [[CommonEnemyAlliance|共同敌人联盟]], and [[ZonghengjiaDiplomacy|纵横家外交]] - larger alliance and diplomacy frame.
 - [[QinState|秦国]], [[HanguPass|函谷关]], [[ChuState|楚国]], [[ZhaoState|赵国]], [[WeiState|魏国]], [[HanState|韩国]], [[YanState|燕国]], and [[QiState|齐国]] - states and battlefield marker in the source case.
 - [[ChuHuaiwang|楚怀王]] and [[Mengchangjun|孟尝君 / 田文]] - alliance leader and slow-support operator.

@@ -15,9 +15,9 @@ Female rebel sovereignty / 女性起义称王 is the pattern where a woman in a 
 
 ## Current Synthesis
 
-The current concept is source-bounded to the Jiaozhi revolt. [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] presents [[ZhengCeJiaozhi|征侧]] as a Miling local-elite woman whose resentment against [[SuDingJiaozhi|苏定]] becomes open rebellion with [[ZhengErJiaozhi|征贰]]. The event matters because Zheng Ce does not stay inside the category of victim, local noble, or rebel dependent: the source says she captures cities, declares herself king, and places a capital at Miling.
+The current concept is source-bounded to the Jiaozhi revolt. [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] presents [[ZhengCeJiaozhi|征侧]] as a Miling local-elite woman whose resentment against [[SuDingJiaozhi|苏定]] becomes open rebellion with [[ZhengErJiaozhi|征贰]]. The event matters because Zheng Ce does not stay inside the category of victim, local noble, or rebel dependent: the source says she captures cities, declares herself king, and places a capital at Miling.
 
-The sovereignty claim is also a state-breakdown signal. Jiaozhi officials can only defend themselves while Jiuzhen, Rinan, Hepu, and other groups respond, so female rule appears where imperial administration has lost local coercive and symbolic control. Hanji 720 then confirms the limit of the claim: Ma Yuan defeats and kills the sisters, and southern-frontier stabilization returns to Han commandery institutions.
+The sovereignty claim is also a state-breakdown signal. Jiaozhi officials can only defend themselves while Jiuzhen, Rinan, Hepu, and other groups respond, so female rule appears where imperial administration has lost local coercive and symbolic control. 汉纪 720 then confirms the limit of the claim: Ma Yuan defeats and kills the sisters, and southern-frontier stabilization returns to Han commandery institutions.
 
 ## Key Claims
 
@@ -29,14 +29,14 @@ The sovereignty claim is also a state-breakdown signal. Jiaozhi officials can on
 
 ## Evidence
 
-- Female rebel ruler claim: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Zheng Ce captures sixty-five cities, declares herself king, and sets the capital at Miling.
-- Trigger and sister-led action: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] ties the revolt to Su Ding's attempted punishment of Zheng Ce and says Zheng Ce and Zheng Er revolt together.
-- Administrative breakdown: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says the Jiaozhi inspector and commandery administrators can only defend themselves.
-- Suppression boundary: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] and [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] both say Ma Yuan defeats and kills Zheng Ce and Zheng Er.
+- Female rebel ruler claim: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Zheng Ce captures sixty-five cities, declares herself king, and sets the capital at Miling.
+- Trigger and sister-led action: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] ties the revolt to Su Ding's attempted punishment of Zheng Ce and says Zheng Ce and Zheng Er revolt together.
+- Administrative breakdown: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says the Jiaozhi inspector and commandery administrators can only defend themselves.
+- Suppression boundary: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] and [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] both say Ma Yuan defeats and kills Zheng Ce and Zheng Er.
 
 ## Counterevidence & Qualifications
 
-The concept is not yet a comparative theory of women rulers or female rebellion across Chinese history. Hanji 718's host framing that Zheng Ce is historically "No. 1" or the earliest such queen-like figure is preserved as source-scoped interpretation. The current durable claim is narrower: in these source notes, Zheng Ce is a woman who makes a king-level claim during the Jiaozhi revolt, with Zheng Er as co-leader and Ma Yuan as suppressor.
+The concept is not yet a comparative theory of women rulers or female rebellion across Chinese history. 汉纪 718's host framing that Zheng Ce is historically "No. 1" or the earliest such queen-like figure is preserved as source-scoped interpretation. The current durable claim is narrower: in these source notes, Zheng Ce is a woman who makes a king-level claim during the Jiaozhi revolt, with Zheng Er as co-leader and Ma Yuan as suppressor.
 
 ## What Changed
 
@@ -49,5 +49,5 @@ The concept is not yet a comparative theory of women rulers or female rebellion 
 - [[ZhengErJiaozhi|征贰]] - co-leader who makes the Jiaozhi revolt sister-led.
 - [[JiaozhiCommandery|交趾郡]] - frontier setting where administrative weakness enables the sovereignty claim.
 - [[MaYuanEasternHan|马援]] - suppressor whose campaign marks the claim's military limit.
-- [[FrontierCommanderyRestoration|边郡恢复治理]] - contrast because Hanji 720 returns sovereignty to commandery order after the revolt.
+- [[FrontierCommanderyRestoration|边郡恢复治理]] - contrast because 汉纪 720 returns sovereignty to commandery order after the revolt.
 - [[Baiyue|百越]] - broader southern-frontier context for non-core Han political formations.

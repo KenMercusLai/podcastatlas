@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] grounds the concept in [[WangMang|王莽]]'s 6 CE regency. [[LiuChongAnzhongMarquis|刘崇]] and [[ZhangShaoFengguoChancellor|张绍]] attack Wan and fail quickly. Instead of treating the failed rising as a reason to limit Wang Mang, ministers tell [[WangZhengjun|王政君]] that the rebellion occurred because Wang Mang's authority is still too small.
+[[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] grounds the concept in [[WangMang|王莽]]'s 6 CE regency. [[LiuChongAnzhongMarquis|刘崇]] and [[ZhangShaoFengguoChancellor|张绍]] attack Wan and fail quickly. Instead of treating the failed rising as a reason to limit Wang Mang, ministers tell [[WangZhengjun|王政君]] that the rebellion occurred because Wang Mang's authority is still too small.
 
 The practical result is title and space inflation. Wang Mang receives the right to call himself "假皇帝" before the dowager, while later court proposals name his palace lodging, office, and residence as 摄省, 摄殿, and 摄宫. The concept therefore captures the reversal by which opposition becomes a resource for the ruler's next step toward formalized sovereignty.
 
@@ -28,10 +28,10 @@ The practical result is title and space inflation. Wang Mang receives the right 
 
 ## Evidence
 
-- Ministerial argument: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says ministers report that Liu Chong's rebellion happened because Wang Mang's power was too small.
-- 假皇帝 title: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Wang Zhengjun orders Wang Mang to call himself "假皇帝" when appearing before her.
-- Spatial title inflation: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says ministers later propose 摄省, 摄殿, and 摄宫 naming for Wang Mang's palace presence and offices.
-- Reversal of resistance: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] connects Liu Chong's failed action to Wang Mang's enlarged title status.
+- Ministerial argument: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says ministers report that Liu Chong's rebellion happened because Wang Mang's power was too small.
+- 假皇帝 title: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Wang Zhengjun orders Wang Mang to call himself "假皇帝" when appearing before her.
+- Spatial title inflation: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says ministers later propose 摄省, 摄殿, and 摄宫 naming for Wang Mang's palace presence and offices.
+- Reversal of resistance: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] connects Liu Chong's failed action to Wang Mang's enlarged title status.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The source does not prove that Liu Chong's rebellion was staged by Wang Mang or 
 
 ## What Changed
 
-- Created from Hanji 629 as the mechanism linking Liu Chong's failed rebellion to Wang Mang's "假皇帝" and 摄宫-style authority expansion.
+- Created from 汉纪 629 as the mechanism linking Liu Chong's failed rebellion to Wang Mang's "假皇帝" and 摄宫-style authority expansion.
 
 ## Related Concepts
 

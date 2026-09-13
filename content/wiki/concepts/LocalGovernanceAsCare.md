@@ -21,7 +21,7 @@ The concept now spans four cases: scholar-official service, village self-organiz
 
 The older Su Shi and Mapingguan evidence shows care as practical presence. [[SuShi|Su Shi]]'s local work turns literary public duty into flood defense, water works, medicine distribution, infant rescue, bridges, and schools. [[Mapingguan|Mapingguan]] makes the pattern collective: villagers, women organizers, outside facilitators, and government funding together build roads, electricity, toilets, school support, and matsutake commons rules.
 
-The modernization and Hanji 755 evidence add two boundaries. The modernization source says China cannot rely only on growth mobilization and investment attraction; later governance needs service, welfare, business-environment, and feedback capacity. Hanji 755 supplies a premodern negative standard: [[EmperorZhangOfHan|Emperor Zhang]] praises Liu Fang of Xiangcheng for frugal, non-harassing administration and criticizes harsh officials whose punishments make government present mainly as disturbance.
+The modernization and 汉纪 755 evidence add two boundaries. The modernization source says China cannot rely only on growth mobilization and investment attraction; later governance needs service, welfare, business-environment, and feedback capacity. 汉纪 755 supplies a premodern negative standard: [[EmperorZhangOfHan|Emperor Zhang]] praises Liu Fang of Xiangcheng for frugal, non-harassing administration and criticizes harsh officials whose punishments make government present mainly as disturbance.
 
 ## Key Claims
 
@@ -37,16 +37,16 @@ The modernization and Hanji 755 evidence add two boundaries. The modernization s
 - Practical public duty: [[105-su-dongpo-yiqiang-haomai-zhiqi-yi-dupi-buhe-shiyi-741072645|Su Dongpo 105]] links [[SuShi|Su Shi]]'s local service to water works, flood defense, medicine, infant rescue, bridges, and schools, making public care part of scholar-official responsibility.
 - Village-scale collective care: [[144-nvxia-duan-sihe-he-tade-jiaxiang-mapingguan-women-ceng-yiwei-you-dian-you-lu-zhishi-meng-linmjqt-n-sa5sarpqgdxgtoeejt|Mapingguan 144]] grounds care in electricity, roads, toilet renovation, school life-administrator advocacy, matsutake commons revenue, women's organizing, outside facilitation, and government support.
 - Service-state modernization: [[150-zhongguo-ruhe-tiaochu-pinkun-xianjing-xiandaihua-zhi-lu-you-hui-zouxiang-hefang-lgpvp04rngagkpubte2ac6i5ji3g|China Modernization 150]] argues that later Chinese modernization needs [[ServiceOrientedLocalGovernment|service-oriented local government]], welfare, business-environment, care, and feedback capacity beyond investment attraction.
-- Low-disturbance standard: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Emperor Zhang praises Liu Fang's frugal and non-harassing county governance and criticizes officials who make severity and punishment the face of administration.
+- Low-disturbance standard: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] says Emperor Zhang praises Liu Fang's frugal and non-harassing county governance and criticizes officials who make severity and punishment the face of administration.
 
 ## Counterevidence & Qualifications
 
-Care language can hide coercion or romanticize hardship if it ignores who bears the labor cost. The Mapingguan source preserves modernization ambivalence but does not treat isolation before roads and electricity as superior. The modernization source warns that service capacity is harder to measure than GDP or fiscal revenue, which makes care politically important but administratively difficult. Hanji 755 also comes from imperial evaluation, so Liu Fang's case remains a ruler-facing standard unless later sources show local reception in more detail.
+Care language can hide coercion or romanticize hardship if it ignores who bears the labor cost. The Mapingguan source preserves modernization ambivalence but does not treat isolation before roads and electricity as superior. The modernization source warns that service capacity is harder to measure than GDP or fiscal revenue, which makes care politically important but administratively difficult. 汉纪 755 also comes from imperial evaluation, so Liu Fang's case remains a ruler-facing standard unless later sources show local reception in more detail.
 
 ## What Changed
 
 - Migrated the page into `synthesis-v1` without reordering the existing source inventory.
-- Added Hanji 755 as the premodern low-disturbance county-administration layer.
+- Added 汉纪 755 as the premodern low-disturbance county-administration layer.
 - Reframed care as including non-harassment and burden reduction, not only visible service provision.
 
 ## Related Concepts

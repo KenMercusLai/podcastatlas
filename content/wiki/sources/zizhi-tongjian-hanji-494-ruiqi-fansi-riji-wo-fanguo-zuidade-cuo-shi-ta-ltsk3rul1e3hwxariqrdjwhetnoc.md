@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Jingning 1 / 33 BCE frontier-defense sequence from [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]]. After [[HouYinWesternHan|侯胤]]'s objections, [[HanYuandi|汉元帝]] refuses [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s request to remove Han frontier troops while preserving diplomatic face: he praises the chanyu's intention but says guarding passes and barriers is Han's own responsibility.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Jingning 1 / 33 BCE frontier-defense sequence from [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]]. After [[HouYinWesternHan|侯胤]]'s objections, [[HanYuandi|汉元帝]] refuses [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s request to remove Han frontier troops while preserving diplomatic face: he praises the chanyu's intention but says guarding passes and barriers is Han's own responsibility.
 
 The host turns the case into a management lesson about [[PartnershipBoundaryRisk|合伙关系边界风险]]: kindness and trust require judgment, because core authority, finance, personnel, and defense lines should not be handed away just because the other party currently seems loyal. The episode then adds [[ZuoYizizhi|左伊秩訾]]'s refusal to return after suspicion destroyed trust, records [[WangZhaojun|王昭君]]'s son with Huhanye, and closes with crown prince [[HanChengdi|刘骜 / 后来的汉成帝]]'s capping rite as a reminder that adulthood means responsibility rather than age alone.
 

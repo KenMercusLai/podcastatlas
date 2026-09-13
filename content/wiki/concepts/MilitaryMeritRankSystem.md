@@ -30,7 +30,7 @@ The system matters because it converts war performance into social hierarchy. Ol
 
 [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] adds the post-unification political cost of the same system. Once the six states are conquered, the old enemy supply disappears, but soldiers and ambitious subjects remain accustomed to war as the highest-return status path. The episode therefore links the military-merit order to [[PostUnificationWarInertia|统一后战争惯性]]: Qin continues looking for external targets such as [[Baiyue|百越]] and [[Xiongnu|匈奴]] because ending war would leave the reward machinery and its expectations unresolved.
 
-[[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] adds a successor-state adoption case. The source says [[HanXin|韩信]]'s "申军法" matters because Liu Bang's army can learn from the Qin rules that made Qin forces effective, including the military-merit order, rewards, punishments, status, retirement, and property arrangements. Here the system is no longer only Qin's strength or post-unification problem; it becomes part of [[HanInheritsQinSystem|汉承秦制]] as the Han side selectively inherits useful military institutions.
+[[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|汉纪 148-1]] adds a successor-state adoption case. The source says [[HanXin|韩信]]'s "申军法" matters because Liu Bang's army can learn from the Qin rules that made Qin forces effective, including the military-merit order, rewards, punishments, status, retirement, and property arrangements. Here the system is no longer only Qin's strength or post-unification problem; it becomes part of [[HanInheritsQinSystem|汉承秦制]] as the Han side selectively inherits useful military institutions.
 
 ## Key Claims
 - Military achievement becomes a measurable basis for rank and privilege.
@@ -46,7 +46,7 @@ The system matters because it converts war performance into social hierarchy. Ol
 - Qinji 99 part 3 adds that military-merit incentives can be powerful and still lower than Xunzi's renyi-based standard of military cohesion.
 - Qinji 106 adds a non-military use of rank: disaster pressure can make the state trade low rank for grain, turning status hierarchy into emergency finance.
 - Qinji 123-2 adds the post-unification problem: once interstate war ends, the same status mechanism can generate pressure for new frontier campaigns.
-- Hanji 148-1 adds selective inheritance: Liu Bang's army can use Qin-style military law and incentive architecture while fighting the Qin commanders who survived into the Three Qin settlement.
+- 汉纪 148-1 adds selective inheritance: Liu Bang's army can use Qin-style military law and incentive architecture while fighting the Qin commanders who survived into the Three Qin settlement.
 
 ## Connections
 - [[ShangYang|公孙鞅 / 商鞅]] and [[QinXiaogong|秦孝公]] - reformer and ruler.
@@ -62,4 +62,4 @@ The system matters because it converts war performance into social hierarchy. Ol
 - [[Xunzi|荀子]], [[QinState|秦国]], [[ProfitDrivenArmyLimits|功利型军队局限]], and [[XunzianMilitaryLegitimacy|荀子仁义之师]] - Qinji 99 part 3 incentive army ranking.
 - [[RankSaleDisasterFinance|鬻爵赈灾融资]], [[DisasterResponseStateCapacity]], and [[FinancialPowerAndStateCapacity]] - Qinji 106 rank-for-grain contrast with battlefield merit.
 - [[PostUnificationWarInertia|统一后战争惯性]], [[FarmingWarStatecraft|耕战逻辑]], [[Baiyue|百越]], and [[Xiongnu|匈奴]] - Qinji 123-2 reward-system pressure after unification.
-- [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]], [[HanInheritsQinSystem|汉承秦制]], [[HanXin|韩信]], and [[LiuBang|刘邦]] - Qin-style military law as transferable command infrastructure in the Three Qin campaign.
+- [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|汉纪 148-1]], [[HanInheritsQinSystem|汉承秦制]], [[HanXin|韩信]], and [[LiuBang|刘邦]] - Qin-style military law as transferable command infrastructure in the Three Qin campaign.

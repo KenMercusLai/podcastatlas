@@ -14,9 +14,9 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 151 CE [[EmperorHuanOfHan|汉桓帝]] political-thought layer immediately before [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]]. It opens with a source-scoped self-governance lesson about strict standards, value exchange, and decisiveness, then turns to the [[LuoyangLateHan|洛阳]] earthquake edict that brings [[CuiShiLateHan|崔寔]] to court and leads to [[ZhenglunCuiShi|《正论》]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 151 CE [[EmperorHuanOfHan|汉桓帝]] political-thought layer immediately before [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]]. It opens with a source-scoped self-governance lesson about strict standards, value exchange, and decisiveness, then turns to the [[LuoyangLateHan|洛阳]] earthquake edict that brings [[CuiShiLateHan|崔寔]] to court and leads to [[ZhenglunCuiShi|《正论》]].
 
-The durable synthesis is [[SituationalStrictLenientGovernance|宽严相济的因时治理]]: Cui Shi argues that a decayed court needs diagnosis, legal discipline, and measures fitted to circumstance, while [[SimaGuang|司马光]] later qualifies the harshness as a temporary corrective rather than an all-time rule. The closing notice points into Hanji 838 through [[HuangQiongLateHan|黄琼]]'s opposition to rewarding [[LiangJiLateHan|梁冀]].
+The durable synthesis is [[SituationalStrictLenientGovernance|宽严相济的因时治理]]: Cui Shi argues that a decayed court needs diagnosis, legal discipline, and measures fitted to circumstance, while [[SimaGuang|司马光]] later qualifies the harshness as a temporary corrective rather than an all-time rule. The closing notice points into 汉纪 838 through [[HuangQiongLateHan|黄琼]]'s opposition to rewarding [[LiangJiLateHan|梁冀]].
 
 ## Key Claims
 
@@ -48,11 +48,11 @@ The durable synthesis is [[SituationalStrictLenientGovernance|宽严相济的因
 - [[BoundarylessKindnessTrap|无边界善良陷阱]] - opening lesson that softness without standards, goals, and exchange clarity becomes exploitable.
 - [[EmperorHuanOfHan|汉桓帝]], [[LuoyangLateHan|洛阳]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - earthquake, talent search, and blocked remonstrance setting for the Zhenglun critique.
 - [[SimaGuang|司马光]] and [[XingshiqingStrategicAssessment|行势情战略评估]] - later historiographical qualification and broader wiki pattern of fitting action to situation.
-- [[HuangQiongLateHan|黄琼]], [[LiangJiLateHan|梁冀]], and [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] - closing preview of the reward-dispute layer that follows this episode.
+- [[HuangQiongLateHan|黄琼]], [[LiangJiLateHan|梁冀]], and [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] - closing preview of the reward-dispute layer that follows this episode.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki claims was found. The episode backfills the 151 CE political-thought prelude before Hanji 838 rather than replacing the later Liang Ji sequence.
+- No settled contradiction with existing wiki claims was found. The episode backfills the 151 CE political-thought prelude before 汉纪 838 rather than replacing the later Liang Ji sequence.
 - Transcript normalization: the source writes 崔石, while this page normalizes the durable route to [[CuiShiLateHan|崔寔]] because the name, office-seeking episode, and Zhenglun attribution match the received late-Han figure.
 - Scope caution: Zhongchang Tong's praise, the Confucius anecdotes, Emperor Xuan versus Emperor Yuan comparison, Han Wendi punishment example, and personal self-improvement frame remain source-scoped until independently reinforced.
-- Route caution: the Rencheng Jie Wang Liu Chong death notice remains source-scoped to avoid collision with existing Liu Chong routes, and the Huang Qiong-Liang Ji reward notice is treated as the immediate preview for Hanji 838.
+- Route caution: the Rencheng Jie Wang Liu Chong death notice remains source-scoped to avoid collision with existing Liu Chong routes, and the Huang Qiong-Liang Ji reward notice is treated as the immediate preview for 汉纪 838.

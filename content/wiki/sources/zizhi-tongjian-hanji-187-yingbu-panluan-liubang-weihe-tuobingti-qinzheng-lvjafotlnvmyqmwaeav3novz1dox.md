@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns the Huainan crisis opened in [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]] into open rebellion. [[YingBu|英布 / 黥布]] captures Han envoys and raises troops after reading [[HanXin|韩信]] and [[PengYue|彭越]] as warnings, while [[XueGongHanAdviser|薛公 / Xue Gong (Han adviser)]] maps the rebellion's possible routes and predicts Ying Bu will choose the narrow bottom strategy. The episode's second line explains why [[LiuBang|刘邦]], though very ill, personally campaigns: sending crown prince [[LiuYing|刘盈]] would expose the succession, and only Liu Bang's own authority can compel senior generals to fight hard against Ying Bu.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns the Huainan crisis opened in [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|汉纪 186]] into open rebellion. [[YingBu|英布 / 黥布]] captures Han envoys and raises troops after reading [[HanXin|韩信]] and [[PengYue|彭越]] as warnings, while [[XueGongHanAdviser|薛公 / Xue Gong (Han adviser)]] maps the rebellion's possible routes and predicts Ying Bu will choose the narrow bottom strategy. The episode's second line explains why [[LiuBang|刘邦]], though very ill, personally campaigns: sending crown prince [[LiuYing|刘盈]] would expose the succession, and only Liu Bang's own authority can compel senior generals to fight hard against Ying Bu.
 
 ## Key Claims
 - Ying Bu's revolt is framed as a fear-driven continuation of [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]], not only as ambition: Han Xin and Peng Yue make waiting look dangerous.
@@ -37,7 +37,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns the H
 > "只有刘邦本人在军中" - the reason Liu Bang's authority cannot be replaced by the crown prince.
 
 ## Connections
-- [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|Hanji 186]], [[YingBu|英布 / 黥布]], [[BenHe|奔鹤]], [[HuainanKingdomEarlyHan|淮南国]], and [[InvestigationDrivenRebellionEscalation|调查推动式反叛升级]] - accusation and investigation crisis becoming open rebellion.
+- [[zizhi-tongjian-hanji-186-yi-chang-yin-bajie-lingdao-laopo-yinfa-de-miemen-can-an-lqx14uzf60oi6wnnzdkottd6kx1n|汉纪 186]], [[YingBu|英布 / 黥布]], [[BenHe|奔鹤]], [[HuainanKingdomEarlyHan|淮南国]], and [[InvestigationDrivenRebellionEscalation|调查推动式反叛升级]] - accusation and investigation crisis becoming open rebellion.
 - [[XueGongHanAdviser|薛公 / Xue Gong (Han adviser)]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[Aocang|敖仓]], [[Chenggao|成皋]], [[QiState|齐国]], [[LuState|鲁国]], [[YanState|燕国]], [[ZhaoState|赵国]], [[HanState|韩国]], [[WeiState|魏国]], and [[ChangshaKingdom|长沙国]] - strategic option map.
 - [[LiuBang|刘邦]], [[LiuYing|刘盈]], [[LuZhi|吕雉]], [[ZhangLiang|张良]], [[XiahouYing|夏侯婴]], and [[CrownPrinceCommandRisk|太子挂帅风险]] - sick ruler, heir exposure, and authority substitution problem.
 - [[LiuChangHuainanKing|刘长 / Liu Chang (Huainan king)]], [[SameSurnameKingEnfeoffment|同姓王分封]], and [[HuainanKingdomEarlyHan|淮南国]] - replacement of a rebel different-surname king with a Liu-family king.
@@ -45,6 +45,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns the H
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This source reinforces Hanji 186's claim that the investigation became fatal from Ying Bu's perspective by showing the next step: open arrest of Han envoys and rebellion.
+- This source reinforces 汉纪 186's claim that the investigation became fatal from Ying Bu's perspective by showing the next step: open arrest of Han envoys and rebellion.
 - Xue Gong's prediction complicates any simple "Ying Bu as existential anti-Han challenger" reading: the episode treats him as dangerous tactically but strategically bounded by narrow self-preservation.
-- Liu Bang's personal campaign qualifies the succession branch from Hanji 181: Liu Ying remains the established heir, but this episode presents him as still unable to substitute for Liu Bang's battlefield authority.
+- Liu Bang's personal campaign qualifies the succession branch from 汉纪 181: Liu Ying remains the established heir, but this episode presents him as still unable to substitute for Liu Bang's battlefield authority.

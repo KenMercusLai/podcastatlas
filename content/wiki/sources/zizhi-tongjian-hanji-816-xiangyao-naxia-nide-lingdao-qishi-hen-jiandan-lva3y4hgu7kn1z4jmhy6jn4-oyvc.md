@@ -14,9 +14,9 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode begins the [[ZizhiTongjian|《资治通鉴》]] juan 52 / Hanji 44 layer in 134 CE under [[EmperorShunOfHan|汉顺帝]]. It uses "缘木求鱼" to frame [[ZhouJuLateHan|周举]]'s drought remonstrance: Shun's public prayer for rain is less useful than correcting palace luxury, harem expansion, and bad governance at the root.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode begins the [[ZizhiTongjian|《资治通鉴》]] juan 52 / 汉纪 44 layer in 134 CE under [[EmperorShunOfHan|汉顺帝]]. It uses "缘木求鱼" to frame [[ZhouJuLateHan|周举]]'s drought remonstrance: Shun's public prayer for rain is less useful than correcting palace luxury, harem expansion, and bad governance at the root.
 
-The second half extends the same feedback problem through Zhou Ju's answer when Shun asks for corrupt and treacherous names, then through [[ZhangHengLateHan|张衡]]'s memorial on earthquake, divided authority, and [[ChenweiEvidentiaryCritique|谶纬证据批判]]. The closing frontier notices connect [[MaXianLateHan|马贤]], [[MaXuLateHan|马续]], [[CheshiHouKingdomLateHan|车师后王国]], and [[Xiongnu|北匈奴]] to the same early Shun-era instability field that Hanji 817-824 later develop.
+The second half extends the same feedback problem through Zhou Ju's answer when Shun asks for corrupt and treacherous names, then through [[ZhangHengLateHan|张衡]]'s memorial on earthquake, divided authority, and [[ChenweiEvidentiaryCritique|谶纬证据批判]]. The closing frontier notices connect [[MaXianLateHan|马贤]], [[MaXuLateHan|马续]], [[CheshiHouKingdomLateHan|车师后王国]], and [[Xiongnu|北匈奴]] to the same early Shun-era instability field that 汉纪 817-824 later develop.
 
 ## Key Claims
 
@@ -41,8 +41,8 @@ The second half extends the same feedback problem through Zhou Ju's answer when 
 - [[EmperorShunOfHan|汉顺帝]], [[ZhouJuLateHan|周举]], [[RootCauseRemonstrance|根源诊断式进谏]], and [[OmenCodedRemonstrance|天象灾异包装式进谏]] - drought becomes an entry point for criticizing palace and policy causes rather than praying harder.
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - Zhou Ju's answer to Shun's request for names preserves a decision rule without reckless accusation.
 - [[ZhangHengLateHan|张衡]], [[ChenweiEvidentiaryCritique|谶纬证据批判]], [[ChenweiPolitics|谶纬政治]], and [[ChineseAstrologicalPolitics|中国星占政治]] - the episode distinguishes disaster/omen political warning from unbounded prophetic-text authority.
-- [[MaXianLateHan|马贤]], [[MaXuLateHan|马续]], and [[CheshiHouKingdomLateHan|车师后王国]] - Qiang and Western Regions notices provide the frontier layer before the later Hanji 817-824 Shun sequence.
-- [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]], [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]], and [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] - downstream Shun-era notes that this episode now chronologically prefaces.
+- [[MaXianLateHan|马贤]], [[MaXuLateHan|马续]], and [[CheshiHouKingdomLateHan|车师后王国]] - Qiang and Western Regions notices provide the frontier layer before the later 汉纪 817-824 Shun sequence.
+- [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|汉纪 817]], [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]], and [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|汉纪 821]] - downstream Shun-era notes that this episode now chronologically prefaces.
 
 ## Contradictions
 

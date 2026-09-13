@@ -16,11 +16,11 @@ Consciousness measurement is the open problem of finding empirical handles on co
 
 [[ep256-ai-shidai-ziyou-yizhi-hai-cunzai-ma-lk9aci8oqnwerk26jy683nbdddcx]] adds a free-will caution through [[LibetExperimentInterpretation]]. The source treats neural readiness-potential results as important evidence about arbitrary button-press actions, but warns against turning them into a complete measurement of meaningful choice, personhood, or responsibility.
 
-[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|Hanji 161]] adds a source-scoped quantum-consciousness branch. The episode cites [[ZhuQingshi|朱清时]] while arguing that consciousness and matter are inseparable, then uses that claim to support [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]]. The wiki records this as a worldview and metaphorical extension, not as an empirical consciousness-measurement result.
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|汉纪 161]] adds a source-scoped quantum-consciousness branch. The episode cites [[ZhuQingshi|朱清时]] while arguing that consciousness and matter are inseparable, then uses that claim to support [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]]. The wiki records this as a worldview and metaphorical extension, not as an empirical consciousness-measurement result.
 
-[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] adds a further source-scoped contrast through [[BuddhistConsciousnessProjectionFrame|佛教心识投射框架]] and [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]]. The episode talks about心, 识, 空性, consciousness frequency, and high-dimensional unity, but it still does not offer a measurement protocol; it is stored as worldview material adjacent to consciousness questions.
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|汉纪 161 part 3]] adds a further source-scoped contrast through [[BuddhistConsciousnessProjectionFrame|佛教心识投射框架]] and [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]]. The episode talks about心, 识, 空性, consciousness frequency, and high-dimensional unity, but it still does not offer a measurement protocol; it is stored as worldview material adjacent to consciousness questions.
 
-[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] repeats the Zhu Qingshi citation while saying consciousness is the basis of quantum mechanics and that present consciousness can affect future achievement. This remains a source-scoped worldview claim on this page, not a contribution to empirical measurement methods.
+[[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|汉纪 161 part 4]] repeats the Zhu Qingshi citation while saying consciousness is the basis of quantum mechanics and that present consciousness can affect future achievement. This remains a source-scoped worldview claim on this page, not a contribution to empirical measurement methods.
 
 ## Key Claims
 - Miolane separates intelligence from consciousness: intelligence is task-directed perception and action, while consciousness is another aspect of mind.
@@ -31,9 +31,9 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - Affect, social complexity, and multi-agent tasks remain underexplained relative to spatial navigation.
 - The Chiang episode keeps the AI analogy speculative: superintelligence sharpens the question of understanding minds, but it does not supply a direct consciousness test.
 - Episode 256 adds that neuroscience results about simple motor readiness should not be overread as a full assay of [[FreeWill|free will]] or meaningful agency.
-- Hanji 161 adds a cautionary contrast: quantum-consciousness language can be important as worldview material while still needing separation from validated measurement.
-- Hanji 161 part 3 adds Buddhist and Daoist consciousness vocabulary while preserving the same measurement boundary.
-- Hanji 161 part 4 repeats the consciousness-intention claim while preserving the same measurement boundary.
+- 汉纪 161 adds a cautionary contrast: quantum-consciousness language can be important as worldview material while still needing separation from validated measurement.
+- 汉纪 161 part 3 adds Buddhist and Daoist consciousness vocabulary while preserving the same measurement boundary.
+- 汉纪 161 part 4 repeats the consciousness-intention claim while preserving the same measurement boundary.
 - The Intelligence AI-consciousness segment adds that chatbot output and user attachment should not be mistaken for consciousness evidence.
 - The same segment makes internal architecture relevant through a Claude workspace analogy, while preserving the boundary that workspace-like structure is not proof of subjective experience.
 - Organoid and brain-cell computing are future boundary cases because biological substrate may matter if strict computational functionalism is wrong.
@@ -47,5 +47,5 @@ Consciousness measurement is the open problem of finding empirical handles on co
 - [[AIInterpretabilityByAI]] and [[HumanJudgmentUnderAI]] - adjacent concerns about whether internal states are understandable and responsibly acted on.
 - [[UnderstandTedChiang|《领悟》 / Understand]], [[RationalWorldviewCollapse]], and [[PureRationalityTrap]] - literary extension into self-understanding as danger.
 - [[BenjaminLibet]], [[LibetExperimentInterpretation]], and [[MoralResponsibilityUnderDeterminism]] - EP256 branch on what neuroscience can and cannot settle.
-- [[ZhuQingshi|朱清时]], [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]], [[BuddhistConsciousnessProjectionFrame|佛教心识投射框架]], and [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]] - Hanji 161 quantum-consciousness metaphor branch.
-- [[FateChangeThroughVirtuePractice|积善修心式改命]] and [[CognitionAsFortuneRoot|认知通达决定福禄]] - Hanji 161 part 4 application of consciousness language to fate and wealth.
+- [[ZhuQingshi|朱清时]], [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]], [[BuddhistConsciousnessProjectionFrame|佛教心识投射框架]], and [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]] - 汉纪 161 quantum-consciousness metaphor branch.
+- [[FateChangeThroughVirtuePractice|积善修心式改命]] and [[CognitionAsFortuneRoot|认知通达决定福禄]] - 汉纪 161 part 4 application of consciousness language to fate and wealth.

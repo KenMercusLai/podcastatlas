@@ -10,7 +10,7 @@ last_updated: 2026-09-01
 
 ## Overview
 
-隋昱 / Sui Yu is synthesized as a subordinate of [[LuFangEasternHan|卢芳]] whose planned defection breaks Lu Fang's immediate frontier force in Jianwu 13 / 37 CE. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Sui Yu plans to seize Lu Fang and surrender to Eastern Han; Lu Fang flees back to Xiongnu, while Sui Yu brings the remaining followers to Luoyang and receives office and title from [[LiuXiu|光武帝刘秀]].
+隋昱 / Sui Yu is synthesized as a subordinate of [[LuFangEasternHan|卢芳]] whose planned defection breaks Lu Fang's immediate frontier force in Jianwu 13 / 37 CE. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Sui Yu plans to seize Lu Fang and surrender to Eastern Han; Lu Fang flees back to Xiongnu, while Sui Yu brings the remaining followers to Luoyang and receives office and title from [[LiuXiu|光武帝刘秀]].
 
 ## Current Profile
 
@@ -27,10 +27,10 @@ The remaining force follows Sui Yu into surrender. Liu Xiu's response is incorpo
 
 ## Evidence
 
-- Defection plan: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Sui Yu plans to seize Lu Fang and surrender to Eastern Han.
-- Lu Fang's flight: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Lu Fang discovers the plan and flees back to Xiongnu with roughly ten riders.
-- Force surrender: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Lu Fang's remaining followers surrender through Sui Yu and go to Luoyang.
-- Appointment and title: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Liu Xiu appoints Sui Yu Wuyuan governor and enfeoffs him as Juanhu marquis.
+- Defection plan: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Sui Yu plans to seize Lu Fang and surrender to Eastern Han.
+- Lu Fang's flight: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Lu Fang discovers the plan and flees back to Xiongnu with roughly ten riders.
+- Force surrender: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Lu Fang's remaining followers surrender through Sui Yu and go to Luoyang.
+- Appointment and title: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Liu Xiu appoints Sui Yu Wuyuan governor and enfeoffs him as Juanhu marquis.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source does not give Sui Yu's earlier background, motive, later governorship
 
 ## What Changed
 
-- Created Sui Yu as a canonical Eastern Han entity from Hanji 714.
+- Created Sui Yu as a canonical Eastern Han entity from 汉纪 714.
 
 ## Relationships
 

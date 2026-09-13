@@ -26,10 +26,10 @@ The cascade becomes dangerous when [[ShenPeiLateHan|审配]] arrests Xu You's fa
 - The Guandu case shows the pattern moving from ignored protection and raid proposals into Wuchao target disclosure.
 
 ## Evidence
-- Logistics warning: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Ju Shou recommends sending Jiang Qi to protect Chunyu Qiong's convoy, but Yuan Shao does not adopt it.
-- Offensive alternative: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Xu You proposes a light night raid on Xudu to force Cao Cao into divided attention, but Yuan Shao rejects the plan.
-- Factional trigger: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Shen Pei arrests Xu You's family at Ye, angering Xu You into going over to Cao Cao.
-- Enemy gain: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Xu You tells Cao Cao about vulnerable Yuan supplies at Gushi and Wuchao and recommends burning them.
+- Logistics warning: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Ju Shou recommends sending Jiang Qi to protect Chunyu Qiong's convoy, but Yuan Shao does not adopt it.
+- Offensive alternative: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Xu You proposes a light night raid on Xudu to force Cao Cao into divided attention, but Yuan Shao rejects the plan.
+- Factional trigger: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Shen Pei arrests Xu You's family at Ye, angering Xu You into going over to Cao Cao.
+- Enemy gain: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Xu You tells Cao Cao about vulnerable Yuan supplies at Gushi and Wuchao and recommends burning them.
 
 ## Counterevidence & Qualifications
 The pattern should not imply that every rejected adviser will defect or that every ignored proposal is correct. The source also keeps Xu You's family offense and personal anger source-scoped, so the concept is about the organizational mechanism: rejected counsel becomes strategically costly when factional coercion converts an adviser into an enemy intelligence channel.

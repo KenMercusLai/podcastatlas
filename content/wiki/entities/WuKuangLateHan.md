@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 吴匡 / Wu Kuang (late Han)
 
-吴匡 / Wu Kuang (late Han) enters the wiki through [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] as a subordinate of [[HeJin|何进]] outside the palace when the eunuch faction kills He Jin. Along with [[ZhangZhangLateHan|张璋]], he tries to lead troops into the palace after the gates are closed.
+吴匡 / Wu Kuang (late Han) enters the wiki through [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]] as a subordinate of [[HeJin|何进]] outside the palace when the eunuch faction kills He Jin. Along with [[ZhangZhangLateHan|张璋]], he tries to lead troops into the palace after the gates are closed.
 
 The episode makes Wu Kuang one of the main escalation actors after the murder. He joins [[YuanShu|袁术]] in the gate attack and then turns soldier resentment against [[HeMiaoLateHan|何苗]], claiming He Miao is responsible for He Jin's death. With [[DongMinLateHan|董旻]], he kills He Miao, extending anti-eunuch revenge into He-family violence.
 

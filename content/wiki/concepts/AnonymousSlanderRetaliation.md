@@ -15,9 +15,9 @@ Anonymous slander retaliation / 匿名诬告式报复 is the pattern where injur
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] now supplies the earlier source case through [[LiGuLateHan|李固]]. After Li Gu's advice leads [[EmperorShunOfHan|Emperor Shun]] to order [[SongELateHan|Song E]] out of the palace, Song E and eunuchs answer the loss of access with forged anonymous letters or charges. Shun then orders Li Gu investigated by direct edict, bypassing the Shangshu Tai, before Li Gu is cleared and pushed out to a county post.
+[[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] now supplies the earlier source case through [[LiGuLateHan|李固]]. After Li Gu's advice leads [[EmperorShunOfHan|Emperor Shun]] to order [[SongELateHan|Song E]] out of the palace, Song E and eunuchs answer the loss of access with forged anonymous letters or charges. Shun then orders Li Gu investigated by direct edict, bypassing the Shangshu Tai, before Li Gu is cleared and pushed out to a county post.
 
-[[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]] creates the later source case through the same Li Gu. After [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] entrusts government to the Three Excellencies and senior ministers, Li Gu's recommendations exclude harmful eunuchs and remove more than one hundred officials whose promotions had not followed regular process.
+[[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|汉纪 825]] creates the later source case through the same Li Gu. After [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] entrusts government to the Three Excellencies and senior ministers, Li Gu's recommendations exclude harmful eunuchs and remove more than one hundred officials whose promotions had not followed regular process.
 
 The dismissed officials have a direct grievance, while [[LiangJiLateHan|梁冀]] is already dissatisfied with the cleanup. The accusation therefore appears as coalition behavior: losers from reform forge anonymous letters and present Li Gu as publicly fair but privately self-serving, faction-building, emotionally cold before [[EmperorChongOfHan|汉冲帝]]'s bier, and eager to change the political order for personal credit.
 
@@ -34,24 +34,24 @@ The concept is narrower than all slander. Its mechanism is anonymous retaliation
 
 ## Evidence
 
-- Palace-access loss: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Li Gu's advice causes Song E to be sent out of the palace, creating the grievance that triggers retaliation.
-- Forged accusation and bypassed channel: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Song E and eunuchs forge anonymous charges and Shun orders investigation by direct edict outside the Shangshu Tai.
-- Limited immediate outcome: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Li Gu is cleared but still transferred away from the court and resigns home to Hanzhong.
-- Concrete interest loss: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]] says Li Gu's cleanup removes more than one hundred officials whose appointments or promotions were irregular.
-- Coalition with higher power: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]] says the dismissed officials cater to Liang Ji's dissatisfaction when they forge the letters.
-- Motive recoding: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]] says the letters claim Li Gu is publicly fair but privately uses office for selfish purposes.
-- Factional recoding: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]] says the accusation portrays Li Gu as expanding a personal network, forming cliques, and dividing the royal house from senior ministers.
-- Ritual-emotional attack: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]] says Li Gu is accused of showing insufficient grief at Emperor Chong's coffin and rushing to alter court politics.
+- Palace-access loss: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] says Li Gu's advice causes Song E to be sent out of the palace, creating the grievance that triggers retaliation.
+- Forged accusation and bypassed channel: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] says Song E and eunuchs forge anonymous charges and Shun orders investigation by direct edict outside the Shangshu Tai.
+- Limited immediate outcome: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] says Li Gu is cleared but still transferred away from the court and resigns home to Hanzhong.
+- Concrete interest loss: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|汉纪 825]] says Li Gu's cleanup removes more than one hundred officials whose appointments or promotions were irregular.
+- Coalition with higher power: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|汉纪 825]] says the dismissed officials cater to Liang Ji's dissatisfaction when they forge the letters.
+- Motive recoding: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|汉纪 825]] says the letters claim Li Gu is publicly fair but privately uses office for selfish purposes.
+- Factional recoding: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|汉纪 825]] says the accusation portrays Li Gu as expanding a personal network, forming cliques, and dividing the royal house from senior ministers.
+- Ritual-emotional attack: [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|汉纪 825]] says Li Gu is accused of showing insufficient grief at Emperor Chong's coffin and rushing to alter court politics.
 
 ## Counterevidence & Qualifications
 
-This concept is currently grounded in two Li Gu source cases, so it is still not a complete theory of all anonymous accusation. Hanji 815 shows retaliation can wound a reformer without immediately destroying him; Hanji 825 says Liang Na does not accept Liang Ji's request for harsh punishment at that stage, so anonymous slander creates pressure before the later prison-death outcome. It should be kept separate from [[TreasonAccusationTrap|谋反指控陷阱]] unless a source explicitly converts the smear into rebellion or throne-security evidence.
+This concept is currently grounded in two Li Gu source cases, so it is still not a complete theory of all anonymous accusation. 汉纪 815 shows retaliation can wound a reformer without immediately destroying him; 汉纪 825 says Liang Na does not accept Liang Ji's request for harsh punishment at that stage, so anonymous slander creates pressure before the later prison-death outcome. It should be kept separate from [[TreasonAccusationTrap|谋反指控陷阱]] unless a source explicitly converts the smear into rebellion or throne-security evidence.
 
 ## What Changed
 
-- Added Hanji 815 as the earlier palace-proximity case against Li Gu after Song E's removal.
+- Added 汉纪 815 as the earlier palace-proximity case against Li Gu after Song E's removal.
 - Reframed the mechanism from office-loss retaliation alone to retaliation after loss of access, office, or protection.
-- Preserved Hanji 825 as the larger cleanup-and-coalition case.
+- Preserved 汉纪 825 as the larger cleanup-and-coalition case.
 
 ## Related Concepts
 

@@ -18,11 +18,11 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-Hanji 839 supplies the earliest current layer. Locusts, Yellow River flooding, famine, and displacement make Jizhou the worst-hit region, so [[EmperorHuanOfHan|汉桓帝]] sends [[ZhuMuLateHan|朱穆]] as inspector. Zhu's arrival frightens local officials and launches a cleanup, but the same enforcement field becomes politically dangerous when Zhu investigates [[ZhaoZhongLateHan|赵忠]]'s father's burial privilege.
+汉纪 839 supplies the earliest current layer. Locusts, Yellow River flooding, famine, and displacement make Jizhou the worst-hit region, so [[EmperorHuanOfHan|汉桓帝]] sends [[ZhuMuLateHan|朱穆]] as inspector. Zhu's arrival frightens local officials and launches a cleanup, but the same enforcement field becomes politically dangerous when Zhu investigates [[ZhaoZhongLateHan|赵忠]]'s father's burial privilege.
 
-Hanji 906 later presents Jizhou as an appointment-capacity problem. [[CaiYong|蔡邕]] warns [[EmperorLingOfHan|汉灵帝]] that Youzhou and Jizhou are strained by war and famine, yet expanded [[SanhuLawAppointmentConstraint|三互法任官限制]] leaves important inspector posts hard to fill. The issue is not only rule design; it is whether the court can place capable people where urgent provinces need them.
+汉纪 906 later presents Jizhou as an appointment-capacity problem. [[CaiYong|蔡邕]] warns [[EmperorLingOfHan|汉灵帝]] that Youzhou and Jizhou are strained by war and famine, yet expanded [[SanhuLawAppointmentConstraint|三互法任官限制]] leaves important inspector posts hard to fill. The issue is not only rule design; it is whether the court can place capable people where urgent provinces need them.
 
-The 188-191 CE layers make Jizhou a military-political base. Hanji 941 shows [[WangFenLateHan|王芬]], then Jizhou inspector, using a claimed [[HeishanArmy|黑山军]] attack as mobilization cover for a failed anti-eunuch coup. Hanji 956 and Hanji 957 then make Jizhou the material prize in the Han Fu-Yuan Shao transfer: Han Fu has grain, troops, and advisers, but fear lets Yuan Shao take the province and convert it into a personnel and military platform.
+The 188-191 CE layers make Jizhou a military-political base. 汉纪 941 shows [[WangFenLateHan|王芬]], then Jizhou inspector, using a claimed [[HeishanArmy|黑山军]] attack as mobilization cover for a failed anti-eunuch coup. 汉纪 956 and 汉纪 957 then make Jizhou the material prize in the Han Fu-Yuan Shao transfer: Han Fu has grain, troops, and advisers, but fear lets Yuan Shao take the province and convert it into a personnel and military platform.
 
 ## Key Characteristics
 
@@ -35,28 +35,28 @@ The 188-191 CE layers make Jizhou a military-political base. Hanji 941 shows [[W
 
 ## Evidence
 
-- Disaster-response layer: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says locusts, Yellow River flooding, famine, and mass displacement make Jizhou the worst-hit region and lead Huan to appoint Zhu Mu as inspector.
-- Enforcement-risk layer: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Zhu's Jizhou cleanup reaches Zhao Zhong's father's imperial-garment burial case and leads to Zhu's punishment before pardon.
-- Appointment-capacity layer: [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]] says Cai Yong identifies Jizhou and Youzhou as urgent posts left vacant by expanded Sanhu-law restrictions despite war and famine.
-- Coup-mobilization layer: [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] says Wang Fen uses a claimed Heishan attack in Jizhou as the formal reason to mobilize troops for a failed imperial-deposition plot.
-- Pre-transfer capacity layer: [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] says Han Fu's advisers argue that Jizhou has enough troops and grain to resist Yuan Shao if Han Fu reads the situation correctly.
-- Post-transfer platform layer: [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|Hanji 957]] says Yuan Shao's acquisition of Jizhou gives him a stronger adviser, personnel, and military base while Han Fu loses office, team, and safety.
+- Disaster-response layer: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says locusts, Yellow River flooding, famine, and mass displacement make Jizhou the worst-hit region and lead Huan to appoint Zhu Mu as inspector.
+- Enforcement-risk layer: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says Zhu's Jizhou cleanup reaches Zhao Zhong's father's imperial-garment burial case and leads to Zhu's punishment before pardon.
+- Appointment-capacity layer: [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|汉纪 906]] says Cai Yong identifies Jizhou and Youzhou as urgent posts left vacant by expanded Sanhu-law restrictions despite war and famine.
+- Coup-mobilization layer: [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|汉纪 941]] says Wang Fen uses a claimed Heishan attack in Jizhou as the formal reason to mobilize troops for a failed imperial-deposition plot.
+- Pre-transfer capacity layer: [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|汉纪 956]] says Han Fu's advisers argue that Jizhou has enough troops and grain to resist Yuan Shao if Han Fu reads the situation correctly.
+- Post-transfer platform layer: [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo|汉纪 957]] says Yuan Shao's acquisition of Jizhou gives him a stronger adviser, personnel, and military base while Han Fu loses office, team, and safety.
 
 ## Qualifications
 
-Hanji 839's source transcript says "济州," but the Zhu Mu inspector case and surrounding late-Han chronology are normalized to 冀州. The page is not a complete geographic history. Hanji 956's troop and grain claims remain the source's counter-advice inside Han Fu's court; they show perceived capacity rather than a verified inventory.
+汉纪 839's source transcript says "济州," but the Zhu Mu inspector case and surrounding late-Han chronology are normalized to 冀州. The page is not a complete geographic history. 汉纪 956's troop and grain claims remain the source's counter-advice inside Han Fu's court; they show perceived capacity rather than a verified inventory.
 
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added Hanji 839's 153 CE disaster-response and Zhu Mu enforcement branch as the earliest current Jizhou layer.
+- Added 汉纪 839's 153 CE disaster-response and Zhu Mu enforcement branch as the earliest current Jizhou layer.
 - Reframed later Jizhou material as recurring provincial-capacity tests across appointment, mobilization, and transfer contexts.
 
 ## Relationships
 
 - [[ZhuMuLateHan|朱穆]] - inspector whose disaster-response and enforcement branch begins the current Jizhou profile.
 - [[EmperorHuanOfHan|汉桓帝]] - ruler who sends Zhu Mu to Jizhou and later punishes him after the Zhao Zhong burial case.
-- [[SanhuLawAppointmentConstraint|三互法任官限制]] - appointment rule that leaves Jizhou difficult to staff in Hanji 906.
+- [[SanhuLawAppointmentConstraint|三互法任官限制]] - appointment rule that leaves Jizhou difficult to staff in 汉纪 906.
 - [[WangFenLateHan|王芬]] - Jizhou inspector who uses the province's military mobilization as coup cover.
 - [[HanFuLateHan|韩馥]] - provincial holder who loses Jizhou despite advisers' resistance arguments.
 - [[YuanShao|袁绍]] - powerholder who absorbs Jizhou as a northern strategic base.

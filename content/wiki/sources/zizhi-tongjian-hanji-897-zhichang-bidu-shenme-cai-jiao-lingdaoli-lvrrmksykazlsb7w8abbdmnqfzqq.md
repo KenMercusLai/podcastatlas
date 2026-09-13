@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 170 CE late-Han layer immediately before [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]]. It opens with a source-scoped warning that "connections" do not help people without [[ExchangeableCapability|可交换能力]], then turns to [[DuanJiongLateHan|段熲]] as a field-command case of [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 170 CE late-Han layer immediately before [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|汉纪 898]]. It opens with a source-scoped warning that "connections" do not help people without [[ExchangeableCapability|可交换能力]], then turns to [[DuanJiongLateHan|段熲]] as a field-command case of [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]].
 
 The second half contrasts usable leadership with access-manufactured officeholding. [[DongChongLateHan|董宠]] dies after falsely invoking [[EmpressDowagerDongLateHan|董太后]], [[GuYongLateHan|谷永]] pacifies a frontier population through trust and administrative incorporation, while [[MengTuoLateHan|孟陀]] turns a staged kneeling by [[ZhangRangLateHan|张让]]'s household servant into [[ManufacturedAccessBrokerage|假势通道套利]] and then fails at [[ShuleKingdom|疏勒]] after becoming [[LiangzhouLateHan|凉州]] inspector without matching command capacity.
 

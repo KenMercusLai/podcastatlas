@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]] by narrating how [[LiuBang|刘邦]] neutralizes [[HanXin|韩信]] without open war. After someone reports Han Xin for rebellion in 201 BCE, [[ChenPing|陈平]] rejects the generals' direct-attack advice and proposes a [[RitualTourSummonsEntrapment|ritual-tour summons trap]]: Liu Bang will pretend to tour [[Yunmengze|云梦泽]] and gather the vassal kings at [[ChenCountyChuHan|陈县]]. The plan forces Han Xin into a loyalty performance around [[ZhongliMo|钟离眜]], whose suicide leaves Han Xin exposed; Han Xin presents Zhongli Mo's head, is arrested, taken to [[Luoyi|洛阳 / 洛邑]], spared from execution, and demoted from Chu king to a marquis title tied to [[Huaiyin|淮阴]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|汉纪 171 part 2]] by narrating how [[LiuBang|刘邦]] neutralizes [[HanXin|韩信]] without open war. After someone reports Han Xin for rebellion in 201 BCE, [[ChenPing|陈平]] rejects the generals' direct-attack advice and proposes a [[RitualTourSummonsEntrapment|ritual-tour summons trap]]: Liu Bang will pretend to tour [[Yunmengze|云梦泽]] and gather the vassal kings at [[ChenCountyChuHan|陈县]]. The plan forces Han Xin into a loyalty performance around [[ZhongliMo|钟离眜]], whose suicide leaves Han Xin exposed; Han Xin presents Zhongli Mo's head, is arrested, taken to [[Luoyi|洛阳 / 洛邑]], spared from execution, and demoted from Chu king to a marquis title tied to [[Huaiyin|淮阴]].
 
 ## Key Claims
 - The episode frames Han Xin's fall through the saying "生死一知己，存亡两妇人," using the arrest as the opening of a larger tragedy rather than a self-contained incident.
@@ -34,7 +34,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 > "狡兔死，走狗烹"
 
 ## Connections
-- [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|Hanji 171 part 2]], [[HanXin|韩信]], [[ZhongliMo|钟离眜]], [[HostileTerritoryRoyalContainment|敌意封国安置]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - immediate prelude: Zhongli Mo's refuge turns hostile Chu governance into a central-suspicion crisis.
+- [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-2-lm1iff0cadjapwf2mggwyo8wcvxn|汉纪 171 part 2]], [[HanXin|韩信]], [[ZhongliMo|钟离眜]], [[HostileTerritoryRoyalContainment|敌意封国安置]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - immediate prelude: Zhongli Mo's refuge turns hostile Chu governance into a central-suspicion crisis.
 - [[LiuBang|刘邦]], [[ChenPing|陈平]], [[RitualTourSummonsEntrapment|巡游会侯式诱捕]], [[Yunmengze|云梦泽]], and [[ChenCountyChuHan|陈县]] - core mechanism of the arrest plan.
 - [[TreasonAccusationTrap|谋反指控陷阱]], [[PowerExitTrap|权力退场困境]], and [[CovertPoliticalTechnology|阴谋式政治技术]] - interpretive frames for turning accusation, residual military capacity, and protocol into a low-force solution.
 - [[PengchengBattle|彭城之战]], [[GaixiaBattle|垓下之战]], [[CommandAuthorityRecapture|统帅权再收束]], and [[ConcededKingshipStabilization|让封真王式稳局]] - earlier military and title history that explains why Liu Bang fears Han Xin.

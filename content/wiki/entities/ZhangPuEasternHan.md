@@ -13,17 +13,17 @@ last_updated: 2026-08-30
 
 ## Overview
 
-张酺 / Zhang Pu now appears in four bounded roles. Hanji 755 adds the earliest layer: he is [[EmperorZhangOfHan|Emperor Zhang]]'s former `Shangshu` teacher, honored when Zhangdi first performs student protocol and then ruler-minister protocol. Hanji 766 presents him as an anti-Dou legal official who restrains indiscriminate punishment, Hanji 768 as a Taixue-orthodoxy official who helps block [[CaoBaoEasternHan|Cao Bao's]] Han-rites project, and Hanji 770 as the senior official who reports the hidden [[LiangGuirenHeLateHan|Liang Guiren]] birth-mother petition to [[EmperorHeOfHan|Emperor He]].
+张酺 / Zhang Pu now appears in four bounded roles. 汉纪 755 adds the earliest layer: he is [[EmperorZhangOfHan|Emperor Zhang]]'s former `Shangshu` teacher, honored when Zhangdi first performs student protocol and then ruler-minister protocol. 汉纪 766 presents him as an anti-Dou legal official who restrains indiscriminate punishment, 汉纪 768 as a Taixue-orthodoxy official who helps block [[CaoBaoEasternHan|Cao Bao's]] Han-rites project, and 汉纪 770 as the senior official who reports the hidden [[LiangGuirenHeLateHan|Liang Guiren]] birth-mother petition to [[EmperorHeOfHan|Emperor He]].
 
 ## Current Profile
 
-The earliest current layer is teacher recognition. Hanji 755 says Zhang Pu had taught the future Emperor Zhang the `Shangshu` while serving as Dongjun administrator. During the 85 CE tour, Zhangdi summons Zhang Pu, students, and local officials, first taking the etiquette of a disciple and asking Zhang Pu to explain a `Shangshu` chapter, then returning to ruler-minister protocol and granting rewards. This makes Zhang Pu a living example of classical learning honored by imperial ritual before his later court roles.
+The earliest current layer is teacher recognition. 汉纪 755 says Zhang Pu had taught the future Emperor Zhang the `Shangshu` while serving as Dongjun administrator. During the 85 CE tour, Zhangdi summons Zhang Pu, students, and local officials, first taking the etiquette of a disciple and asking Zhang Pu to explain a `Shangshu` chapter, then returning to ruler-minister protocol and granting rewards. This makes Zhang Pu a living example of classical learning honored by imperial ritual before his later court roles.
 
-Hanji 766 supplies the anti-Dou legal layer. As Henan Yin, Zhang Pu has previously punished [[DouXianEasternHan|Dou Xian]]'s brother [[DouJingEasternHan|Dou Jing]] according to law. After the Dou family falls, he resists the court's sudden shift from flattering Dou Xian to condemning every Dou relative, and he argues that [[DouGuiEasternHan|Dou Gui]] should be spared because Dou Gui had remained loyal and restrained his guests.
+汉纪 766 supplies the anti-Dou legal layer. As Henan Yin, Zhang Pu has previously punished [[DouXianEasternHan|Dou Xian]]'s brother [[DouJingEasternHan|Dou Jing]] according to law. After the Dou family falls, he resists the court's sudden shift from flattering Dou Xian to condemning every Dou relative, and he argues that [[DouGuiEasternHan|Dou Gui]] should be spared because Dou Gui had remained loyal and restrained his guests.
 
-Hanji 768 supplies the ritual-orthodoxy layer. Zhang Pu and Zhang Min repeatedly object to Cao Bao's Han-rites work, pressing a Taixue-centered ritual orthodoxy against a project that Emperor Zhang had assigned and Emperor He had briefly used. Emperor He recognizes some self-interest in the opposition but stops using Cao Bao's rites anyway, making Zhang Pu part of the pressure that exposes weak imperial enforcement.
+汉纪 768 supplies the ritual-orthodoxy layer. Zhang Pu and Zhang Min repeatedly object to Cao Bao's Han-rites work, pressing a Taixue-centered ritual orthodoxy against a project that Emperor Zhang had assigned and Emperor He had briefly used. Emperor He recognizes some self-interest in the opposition but stops using Cao Bao's rites anyway, making Zhang Pu part of the pressure that exposes weak imperial enforcement.
 
-Hanji 770 identifies Zhang Pu as taiwei when Liang relatives petition the Three Excellencies after [[EmpressDowagerDouHeLateHan|Dou Taihou]] dies. The petition says the Han honors an emperor's birth mother, yet Liang Guiren had borne Emperor He without receiving proper title. Zhang Pu reports this to Emperor He, who is shocked and grieves.
+汉纪 770 identifies Zhang Pu as taiwei when Liang relatives petition the Three Excellencies after [[EmpressDowagerDouHeLateHan|Dou Taihou]] dies. The petition says the Han honors an emperor's birth mother, yet Liang Guiren had borne Emperor He without receiving proper title. Zhang Pu reports this to Emperor He, who is shocked and grieves.
 
 When Emperor He asks what should be done, Zhang Pu recommends posthumous recognition for Liang Guiren and restoration of the maternal uncles' status. The emperor immediately accepts. Zhang Pu's role therefore sits between information channel and remedy design: he does not create the grievance, but he supplies a legitimate path by which Emperor He can act on it.
 
@@ -41,23 +41,23 @@ The page's current synthesis is that Zhang Pu is not a single-note redress minis
 
 ## Evidence
 
-- Teacher recognition: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Zhang Pu had taught Zhangdi the `Shangshu`, and Zhangdi first takes disciple etiquette before him during the 85 CE tour.
-- Ritual transition and reward: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] says Zhangdi then returns to ruler-minister etiquette and grants rewards.
-- Anti-Dou law enforcement: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says Zhang Pu had repeatedly punished Dou Jing according to law while serving as Henan Yin.
-- Dou Gui defense and selective mercy: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|Hanji 766]] says Zhang Pu criticizes opportunistic post-purge denunciations and argues that Dou Gui should be spared because he was loyal and restrained.
-- Ritual opposition and weak enforcement signal: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says Zhang Pu and Zhang Min submit repeated objections to Cao Bao's rites, and Emperor He stops using them despite recognizing some self-interest in the opposition.
-- Petition channel and imperial reaction: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Liang relatives petition the Three Excellencies, Zhang Pu reports the matter to Emperor He, and the emperor is surprised and grieves.
-- Remedy advice and acceptance: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Zhang Pu advises giving Liang Guiren posthumous honor and finding the emperor's maternal uncles, and Emperor He immediately accepts.
+- Teacher recognition: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] says Zhang Pu had taught Zhangdi the `Shangshu`, and Zhangdi first takes disciple etiquette before him during the 85 CE tour.
+- Ritual transition and reward: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] says Zhangdi then returns to ruler-minister etiquette and grants rewards.
+- Anti-Dou law enforcement: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] says Zhang Pu had repeatedly punished Dou Jing according to law while serving as Henan Yin.
+- Dou Gui defense and selective mercy: [[zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc|汉纪 766]] says Zhang Pu criticizes opportunistic post-purge denunciations and argues that Dou Gui should be spared because he was loyal and restrained.
+- Ritual opposition and weak enforcement signal: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]] says Zhang Pu and Zhang Min submit repeated objections to Cao Bao's rites, and Emperor He stops using them despite recognizing some self-interest in the opposition.
+- Petition channel and imperial reaction: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] says Liang relatives petition the Three Excellencies, Zhang Pu reports the matter to Emperor He, and the emperor is surprised and grieves.
+- Remedy advice and acceptance: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] says Zhang Pu advises giving Liang Guiren posthumous honor and finding the emperor's maternal uncles, and Emperor He immediately accepts.
 
 ## Qualifications
 
-The bounded evidence now gives Zhang Pu four roles but still not a full biography. Hanji 755 shows teacher recognition through Zhangdi's ritual conduct, Hanji 766 shows legal restraint before and after the Dou purge, Hanji 768 shows ritual opposition through the host's leadership frame, and Hanji 770 shows status-redress advice after Dou Taihou's death. His broader political alignment, earlier offices, and later career remain outside the bounded evidence. The page also keeps him separate from unrelated Zhang-name figures elsewhere in the wiki.
+The bounded evidence now gives Zhang Pu four roles but still not a full biography. 汉纪 755 shows teacher recognition through Zhangdi's ritual conduct, 汉纪 766 shows legal restraint before and after the Dou purge, 汉纪 768 shows ritual opposition through the host's leadership frame, and 汉纪 770 shows status-redress advice after Dou Taihou's death. His broader political alignment, earlier offices, and later career remain outside the bounded evidence. The page also keeps him separate from unrelated Zhang-name figures elsewhere in the wiki.
 
 ## What Changed
 
-- Added Hanji 755 as Zhang Pu's earliest current layer: former `Shangshu` teacher honored by Emperor Zhang through student protocol.
+- Added 汉纪 755 as Zhang Pu's earliest current layer: former `Shangshu` teacher honored by Emperor Zhang through student protocol.
 - Reframed Zhang Pu as a classical-teacher authority as well as an evidence-specific adviser, conservative gatekeeper, and enabling redress minister.
-- Preserved Hanji 766, Hanji 768, and Hanji 770 as the legal, ritual-opposition, and birth-mother redress layers.
+- Preserved 汉纪 766, 汉纪 768, and 汉纪 770 as the legal, ritual-opposition, and birth-mother redress layers.
 
 ## Relationships
 

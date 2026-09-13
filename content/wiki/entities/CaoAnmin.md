@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 曹安民 / Cao Anmin
 
-曹安民 / Cao Anmin enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] as [[CaoCao|曹操]]'s nephew and one of the kin casualties of the Wancheng night attack. The source says he is killed by soldiers in the chaos while Cao Cao escapes.
+曹安民 / Cao Anmin enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] as [[CaoCao|曹操]]'s nephew and one of the kin casualties of the Wancheng night attack. The source says he is killed by soldiers in the chaos while Cao Cao escapes.
 
 His role is compact but important. Alongside [[CaoAng|曹昂]] and [[DianWei|典韦]], Cao Anmin makes the episode's cost more than a battlefield setback: Cao Cao's private desire and command-security failure kill family members as well as a guard.
 

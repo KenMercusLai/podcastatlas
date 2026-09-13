@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-[[YingchuanIronOfficeUprising|颍川铁官徒起义 / Yingchuan Iron-Office Uprising]] enters the wiki through [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] as a Yangshuo 3 / 22 BCE Western Han revolt led by [[ShentuShengWesternHan|申屠圣]] among iron-office convicts in [[YingchuanCommandery|颍川郡]].
+[[YingchuanIronOfficeUprising|颍川铁官徒起义 / Yingchuan Iron-Office Uprising]] enters the wiki through [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] as a Yangshuo 3 / 22 BCE Western Han revolt led by [[ShentuShengWesternHan|申屠圣]] among iron-office convicts in [[YingchuanCommandery|颍川郡]].
 
 ## Current Profile
 
@@ -32,24 +32,24 @@ The episode uses the failure to separate grievance from governing capacity. It t
 ## Evidence
 
 Coercive-labor cause field:
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] says iron-office workers include penal convicts, corvee laborers, and craftsmen, and describes forced labor, poor food and clothing, punishment, deaths, and official neglect.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] says iron-office workers include penal convicts, corvee laborers, and craftsmen, and describes forced labor, poor food and clothing, punishment, deaths, and official neglect.
 
 Initial armed action:
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] says Shentu Sheng and about 180 followers seize weapons, kill the iron official and commandery clerk, and leave the city.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] says Shentu Sheng and about 180 followers seize weapons, kill the iron official and commandery clerk, and leave the city.
 
 Spread and support:
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] says the force reaches several named localities, receives farmer support, and passes through nine commanderies in less than a month.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] says the force reaches several named localities, receives farmer support, and passes through nine commanderies in less than a month.
 
 Suppression and interpretation:
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] says Chengdi sends central officials with troops and the uprising fails because it is outnumbered; the host interprets this as both a crisis signal and a rebel-organization weakness.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] says Chengdi sends central officials with troops and the uprising fails because it is outnumbered; the host interprets this as both a crisis signal and a rebel-organization weakness.
 
 ## Qualifications
 
-This page is bounded to Hanji 523 and does not reconstruct the full administrative geography, campaign route, legal categories of every participant, or independent archaeology of Western Han iron offices. The source transcript says "尹川," but this wiki normalizes the setting to [[YingchuanCommandery|颍川郡]] based on the historical event and existing route. The episode's wider claims about peasant-rebel failure are treated as source interpretation rather than a complete comparative history.
+This page is bounded to 汉纪 523 and does not reconstruct the full administrative geography, campaign route, legal categories of every participant, or independent archaeology of Western Han iron offices. The source transcript says "尹川," but this wiki normalizes the setting to [[YingchuanCommandery|颍川郡]] based on the historical event and existing route. The episode's wider claims about peasant-rebel failure are treated as source interpretation rather than a complete comparative history.
 
 ## What Changed
 
-- Created this event page from Hanji 523 to preserve the 22 BCE iron-office revolt as a distinct Western Han coercive-labor rebellion case.
+- Created this event page from 汉纪 523 to preserve the 22 BCE iron-office revolt as a distinct Western Han coercive-labor rebellion case.
 
 ## Relationships
 

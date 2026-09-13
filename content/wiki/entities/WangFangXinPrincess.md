@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-王芳 / Wang Fang enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] as Wang Zong's sister and Wang Xing's wife in the Xin imperial family. Her case belongs to the same late-[[XinDynasty|新朝]] household-fear layer as [[WangZongXinPrince|王宗]].
+王芳 / Wang Fang enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] as Wang Zong's sister and Wang Xing's wife in the Xin imperial family. Her case belongs to the same late-[[XinDynasty|新朝]] household-fear layer as [[WangZongXinPrince|王宗]].
 
 ## Current Profile
 
@@ -20,17 +20,17 @@ Her wiki role is therefore a bounded scandal node. Together with Wang Zong's imp
 
 ## Key Characteristics
 
-- Wang-family woman in the Hanji 654 Xin household case.
+- Wang-family woman in the 汉纪 654 Xin household case.
 - Identified as Wang Zong's sister and Wang Xing's wife.
 - Accused of family curses and killing a maid to silence evidence.
 - Dies by suicide together with Wang Xing in the episode account.
-- Extends the wiki's Wang-family scandal layer before Hanji 658's later succession collapse.
+- Extends the wiki's Wang-family scandal layer before 汉纪 658's later succession collapse.
 
 ## Evidence
 
-- Family position: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] identifies Wang Fang as Wang Zong's sister and Wang Xing's wife.
-- Accusation: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says she is accused of cursing relatives and killing a maid to silence evidence.
-- Death: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Wang Fang and Wang Xing die by suicide.
+- Family position: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] identifies Wang Fang as Wang Zong's sister and Wang Xing's wife.
+- Accusation: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says she is accused of cursing relatives and killing a maid to silence evidence.
+- Death: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Wang Fang and Wang Xing die by suicide.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source does not settle Wang Fang's intent, the accusation's reliability, Wan
 
 ## What Changed
 
-- Created this page from Hanji 654 as a source-scoped Wang-family scandal node.
+- Created this page from 汉纪 654 as a source-scoped Wang-family scandal node.
 
 ## Relationships
 

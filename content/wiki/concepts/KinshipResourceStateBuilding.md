@@ -8,9 +8,9 @@ last_updated: 2026-08-24
 
 # Kinship Resource State-Building / 姻亲资源建构
 
-Kinship resource state-building / 姻亲资源建构 enters the wiki through [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]], where [[SunJianLateHan|孙坚]]'s marriage to [[LadyWuSunJian|吴夫人]] gives the Sun household access to [[QiantangWuClan|钱塘吴氏]] resources. The episode reads the marriage as political infrastructure: gentry standing, trade routes, water-route knowledge, and military recruitment capacity are bundled into family ties.
+Kinship resource state-building / 姻亲资源建构 enters the wiki through [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|汉纪 982]], where [[SunJianLateHan|孙坚]]'s marriage to [[LadyWuSunJian|吴夫人]] gives the Sun household access to [[QiantangWuClan|钱塘吴氏]] resources. The episode reads the marriage as political infrastructure: gentry standing, trade routes, water-route knowledge, and military recruitment capacity are bundled into family ties.
 
-The concept differs from [[MarriageAllianceWarExposure|联姻同盟战场暴露]]. That page focuses on a marriage route making a region vulnerable to war; this one focuses on kinship expanding a group's usable resources. In Hanji 982, the Sun family gains a bridge into Jiangdong society, [[WuJingLateHan|吴景]] supplies a Danyang military channel, and [[ZhouYuLateHan|周瑜]]'s relationship with [[SunCe|孙策]] extends the family-network logic into friendship and elite alliance.
+The concept differs from [[MarriageAllianceWarExposure|联姻同盟战场暴露]]. That page focuses on a marriage route making a region vulnerable to war; this one focuses on kinship expanding a group's usable resources. In 汉纪 982, the Sun family gains a bridge into Jiangdong society, [[WuJingLateHan|吴景]] supplies a Danyang military channel, and [[ZhouYuLateHan|周瑜]]'s relationship with [[SunCe|孙策]] extends the family-network logic into friendship and elite alliance.
 
 ## Key Claims
 - Marriage and maternal kinship can supply political resources that military force alone lacks.

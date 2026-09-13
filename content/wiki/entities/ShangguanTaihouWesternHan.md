@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-上官太后 / Empress Dowager Shangguan enters the wiki through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] as the empress dowager whose banquet authority is to be used in the Huo family's failed plan to kill major ministers and depose [[EmperorXuanOfHan|汉宣帝]].
+上官太后 / Empress Dowager Shangguan enters the wiki through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] as the empress dowager whose banquet authority is to be used in the Huo family's failed plan to kill major ministers and depose [[EmperorXuanOfHan|汉宣帝]].
 
 ## Current Profile
 
@@ -28,14 +28,14 @@ Her importance in this source is therefore institutional. The plan depends on em
 ## Evidence
 
 Coup setting:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says the Huo plan is to have Shangguan Taihou host Boping Jun Wang Ao and summon Wei Xiang, Xu Guanghan, and others.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says the Huo plan is to have Shangguan Taihou host Boping Jun Wang Ao and summon Wei Xiang, Xu Guanghan, and others.
 
 Command channel:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Fan Mingyou and Deng Guanghan would act under Shangguan Taihou's command to kill the targeted ministers.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Fan Mingyou and Deng Guanghan would act under Shangguan Taihou's command to kill the targeted ministers.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 424. It does not reconstruct Shangguan Taihou's full life, family background, earlier reign role, agency in the Huo plan, or later status.
+This page is source-scoped to 汉纪 424. It does not reconstruct Shangguan Taihou's full life, family background, earlier reign role, agency in the Huo plan, or later status.
 
 ## What Changed
 

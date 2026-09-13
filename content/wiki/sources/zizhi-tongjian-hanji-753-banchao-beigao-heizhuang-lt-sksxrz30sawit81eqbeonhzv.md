@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 83-84 CE [[EmperorZhangOfHan|汉章帝]] layer immediately before [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]]. It centers [[LiYiEasternHan|李毅]]'s slander against [[BanChaoEasternHan|班超]], Zhangdi's refusal to trust the accusation without behavioral evidence, and Ban Chao's choice to send Li Yi back with the Wusun hostage prince rather than turn imperial permission into private retaliation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 83-84 CE [[EmperorZhangOfHan|汉章帝]] layer immediately before [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]]. It centers [[LiYiEasternHan|李毅]]'s slander against [[BanChaoEasternHan|班超]], Zhangdi's refusal to trust the accusation without behavioral evidence, and Ban Chao's choice to send Li Yi back with the Wusun hostage prince rather than turn imperial permission into private retaliation.
 
 The second half widens the same governing profile through [[ZhengHongEasternHan|郑洪]]'s safer Jiaozhi route and tribute relief, [[WeiBiaoEasternHan|韦彪]]'s warnings about selection and Shangshu staffing, Zhangdi's limits on cruel interrogation, burden-aware southern travel orders, and [[ZhuHuiZhangEraEasternHan|朱晖]]'s resistance to [[StateMonopolyBurdenRemonstrance|official salt and junshu restoration]]. The durable synthesis is that early Zhangdi-era rule is presented as judgment under pressure: accusations, appointments, punishments, travel, and fiscal policy all require checking surface claims against conduct, public burden, and office duty.
 
@@ -48,6 +48,6 @@ The second half widens the same governing profile through [[ZhengHongEasternHan|
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills Hanji 753 before Hanji 754's Taixue speech case and before Hanji 755-758's population, forbearance, law, ritual, frontier, and kinship-boundary layers.
+- No settled contradiction with existing wiki content was found. The episode backfills 汉纪 753 before 汉纪 754's Taixue speech case and before 汉纪 755-758's population, forbearance, law, ritual, frontier, and kinship-boundary layers.
 - Identity caution: this Zhang-era [[ZhuHuiZhangEraEasternHan|朱晖]] is kept separate from [[ZhuHuiHeEraLateHan|朱晖 / Zhu Hui (He-era frontier commander)]], whose current bounded profile belongs to the later Dou Xian and Southern Xiongnu sequence.
 - Scope caution: Wusun, the hostage prince, Xu Gan, Zhang Lin, Liu Chang of Jiyin, Liu Shang of Rencheng, Pei King Liu Fu, Dongye, Lingling, Guiyang, exact interrogation-tool specifications, and exact royal-date notices remain source-scoped unless later notes warrant standalone pages.

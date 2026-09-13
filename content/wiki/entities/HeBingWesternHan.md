@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Overview
 
-何病 / He Bing is the Western Han official who replaces [[YanXuWesternHan|严徐]] as governor of [[YingchuanCommandery|颍川郡]] in [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]]. The source uses his immediate arrests and killings to show how a new local official can change the felt safety of an entire commandery.
+何病 / He Bing is the Western Han official who replaces [[YanXuWesternHan|严徐]] as governor of [[YingchuanCommandery|颍川郡]] in [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]]. The source uses his immediate arrests and killings to show how a new local official can change the felt safety of an entire commandery.
 
 ## Current Profile
 
@@ -27,9 +27,9 @@ His function in the source is interpretive: he proves why Yan Xu's farewell grie
 
 ## Evidence
 
-- Succession in office: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]] says He Bing soon replaced Yan Xu as Yingchuan governor.
-- Punitive opening: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]] says he arrested and killed Zhong Wei, Zhao Ji, Li Kuan, and others.
-- Public fear: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]] says the whole commandery feared his severe methods.
+- Succession in office: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]] says He Bing soon replaced Yan Xu as Yingchuan governor.
+- Punitive opening: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]] says he arrested and killed Zhong Wei, Zhao Ji, Li Kuan, and others.
+- Public fear: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]] says the whole commandery feared his severe methods.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The source does not give He Bing's full career, the charges against the people h
 
 ## What Changed
 
-- Created the page from Hanji 619 as the harsh-successor contrast to Yan Xu.
+- Created the page from 汉纪 619 as the harsh-successor contrast to Yan Xu.
 
 ## Relationships
 

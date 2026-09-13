@@ -18,7 +18,7 @@ The conquest is not presented as clean strategic expansion. Zhao Wuxu's sister k
 
 [[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul]] ends Dai's late-Warring-States remnant function. After [[WangBenQin|王贲]] takes Yan, the episode says Qin can attack Dai from the north and captures [[ZhaoJia|赵嘉]], removing the last Zhao-line resistance base before Qin turns fully toward [[QiState|齐国]].
 
-[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] uses Dai in the later Chu-Han northern campaign. After [[HanXin|韩信]] defeats [[WeiBao|魏豹]], [[LiuBang|刘邦]] sends [[ZhangEr|张耳]] to assist Han Xin against Zhao and Dai. Han Xin defeats Dai troops near [[EyuBattle|阏与]] and takes [[Jinyang|晋阳]], making Dai a first northern step before the coming Zhao campaign.
+[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|汉纪 155-2]] uses Dai in the later Chu-Han northern campaign. After [[HanXin|韩信]] defeats [[WeiBao|魏豹]], [[LiuBang|刘邦]] sends [[ZhangEr|张耳]] to assist Han Xin against Zhao and Dai. Han Xin defeats Dai troops near [[EyuBattle|阏与]] and takes [[Jinyang|晋阳]], making Dai a first northern step before the coming Zhao campaign.
 
 ## Connections
 - [[ZhaoXiangzi|赵无恤 / 赵襄子]] - conqueror.
@@ -28,4 +28,4 @@ The conquest is not presented as clean strategic expansion. Zhao Wuxu's sister k
 - [[ZhaoJia|赵嘉]], [[YanState|燕国]], [[QinState|秦国]], [[RemnantResistanceBase|残余政权根据地]], and [[CapturedRulerLegitimacyContainment|生俘亡君的合法性钳制]] - Qinji 114-1 remnant resistance base after Handan falls.
 - [[WangJianQin|王翦]] and [[zizhi-tongjian-qinji-115-2-qinwang-danan-busi-zhihou-ganle-jian-ni-buzhidao-de-shi-lidfjb6-nggubw8vpz5fvnfacrqu|Qinji 115-2]] - defeat of the Yan-Dai joint force west of the Yi River.
 - [[WangBenQin|王贲]], [[zizhi-tongjian-qinji-119-3-lishishang-di-yi-wei-zhenzheng-yiyishang-chuilian-tingzheng-taihou-liq9d3itmbar00ij43zzed-mulul|Qinji 119-3]], and [[QiState|齐国]] - final Dai capture before the narrative turns to Qi.
-- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[HanXin|韩信]], [[ZhangEr|张耳]], [[EyuBattle|阏与]], and [[Jinyang|晋阳]] - Chu-Han northern campaign step before Zhao.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|汉纪 155-2]], [[HanXin|韩信]], [[ZhangEr|张耳]], [[EyuBattle|阏与]], and [[Jinyang|晋阳]] - Chu-Han northern campaign step before Zhao.

@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-召信臣 / Zhao Xinchen enters the wiki through [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|Hanji 495]] as the Jiujiang-born former Nanyang and Henan administrator appointed Shaofu after [[ZhangTanWesternHan|张谭]] becomes Yushi Dafu.
+召信臣 / Zhao Xinchen enters the wiki through [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|汉纪 495]] as the Jiujiang-born former Nanyang and Henan administrator appointed Shaofu after [[ZhangTanWesternHan|张谭]] becomes Yushi Dafu.
 
 ## Current Profile
 
@@ -18,7 +18,7 @@ The episode treats Zhao Xinchen as a capable local administrator. Before becomin
 
 ## Key Characteristics
 
-- Jiujiang-born Western Han official in Hanji 495.
+- Jiujiang-born Western Han official in 汉纪 495.
 - Former Nanyang and Henan commandery administrator.
 - Praised for strong evaluations and practical local governance.
 - Associated with farming guidance, irrigation work, and the honorific "Zhao Fu."
@@ -27,18 +27,18 @@ The episode treats Zhao Xinchen as a capable local administrator. Before becomin
 ## Evidence
 
 Career and appointment:
-- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|Hanji 495]] says Zhao Xinchen had served as Nanyang taishou, was transferred to Henan, and was then appointed Shaofu.
+- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|汉纪 495]] says Zhao Xinchen had served as Nanyang taishou, was transferred to Henan, and was then appointed Shaofu.
 
 Local-governance reputation:
-- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|Hanji 495]] says he guided agriculture, opened and cleared irrigation channels, ranked highly in evaluations, and was called "Zhao Fu."
+- [[zizhi-tongjian-hanji-495-xihan-mingjiang-pk-yanren-chongchen-yingpengying-shui-neng-ying-lk9qa3yd8l17wyadfsi6cgubzfyo|汉纪 495]] says he guided agriculture, opened and cleared irrigation channels, ranked highly in evaluations, and was called "Zhao Fu."
 
 ## Qualifications
 
-This page is source-scoped to Hanji 495. The episode transcript appears to render his name phonetically, so this page normalizes the figure to 召信臣 based on the "Zhao Fu" Nanyang-governance context. It does not reconstruct his full biography, exact office dates, complete hydraulic works, or later reception.
+This page is source-scoped to 汉纪 495. The episode transcript appears to render his name phonetically, so this page normalizes the figure to 召信臣 based on the "Zhao Fu" Nanyang-governance context. It does not reconstruct his full biography, exact office dates, complete hydraulic works, or later reception.
 
 ## What Changed
 
-- Created the page from Hanji 495's Shaofu appointment and local-governance summary.
+- Created the page from 汉纪 495's Shaofu appointment and local-governance summary.
 
 ## Relationships
 

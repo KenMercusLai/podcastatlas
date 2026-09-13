@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 184 CE immediately before [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]], moving from [[ZhangXiuFivePecks|张修]]'s early Five-Pecks-style rising through [[HuangfuSongLateHan|皇甫嵩]]'s destruction of the main [[YellowTurbansLateHan|黄巾军]] forces. It then turns to [[LiXieLateHan|李燮]]'s unpopular judgment of [[LiuXuAnpingPrince|安平王刘续]] and to [[GaiXunLateHan|盖勋]], whose choices around [[SuZhengheLateHan|苏正和]] and [[ZuoChangLateHan|左昌]] become the episode's core example of [[PublicDutyOverPrivateGrievance|对事不对人式公义]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 184 CE immediately before [[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|汉纪 930]], moving from [[ZhangXiuFivePecks|张修]]'s early Five-Pecks-style rising through [[HuangfuSongLateHan|皇甫嵩]]'s destruction of the main [[YellowTurbansLateHan|黄巾军]] forces. It then turns to [[LiXieLateHan|李燮]]'s unpopular judgment of [[LiuXuAnpingPrince|安平王刘续]] and to [[GaiXunLateHan|盖勋]], whose choices around [[SuZhengheLateHan|苏正和]] and [[ZuoChangLateHan|左昌]] become the episode's core example of [[PublicDutyOverPrivateGrievance|对事不对人式公义]].
 
 The source's main contribution is a three-part late-Han failure-and-duty pattern: religiously framed mobilization and Yellow Turban remnants outlast battlefield victories, capable commanders can still be punished or undermined by personnel politics, and public office becomes meaningful only when private resentment does not decide public action.
 
@@ -54,6 +54,6 @@ The source's main contribution is a three-part late-Han failure-and-duty pattern
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills material before Hanji 930 and earlier than the later 185-189 late-Han branches already in the wiki.
+- No settled contradiction with existing wiki pages was found. The episode backfills material before 汉纪 930 and earlier than the later 185-189 late-Han branches already in the wiki.
 - Naming caution: [[ZhangLiangYellowTurban|张梁]] is disambiguated from [[ZhangLiang|张良]], and [[ZhangBaoYellowTurban|张宝]] is disambiguated from [[ZhangBaoLateHan|张苞 / Zhang Bao (late Han)]].
 - Scope caution: Bo Si, Cangting, Guangzong, Quyang, and Kong Chang are kept source-scoped in this ingest rather than expanded into separate canonical pages.

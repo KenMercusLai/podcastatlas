@@ -40,10 +40,10 @@ The durable synthesis is that a small diplomatic delay can become dangerous when
 - [[Xiongnu|匈奴]], [[Wusun|乌孙]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - frontier-diplomacy setting behind the chanyu visit and hostage-pressure proposal.
 - [[GongsunLuWesternHan|公孙禄]] and [[ConfucianForeignPolicyMoralism|儒家外交道德主义]] - trust-preserving objection to covert manipulation and hostile speculation.
 - [[WangJiaWesternHan|王嘉]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] - remonstrance against converting omens and rumors into war and punitive spectacle.
-- [[ZizhiTongjian|《资治通鉴》]] - source frame for the Hanji 26 conclusion.
+- [[ZizhiTongjian|《资治通鉴》]] - source frame for the 汉纪 26 conclusion.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the Jianping 4 / 3 BCE debate before the later Hanji 592-599 Wang Jia and Dong Xian crisis sequence and before Hanji 604's post-Aidi Gongsun Lu office-balancing role.
+- Chronology qualification: this source backfills the Jianping 4 / 3 BCE debate before the later 汉纪 592-599 Wang Jia and Dong Xian crisis sequence and before 汉纪 604's post-Aidi Gongsun Lu office-balancing role.
 - Scope caution: the episode does not resolve whether the chanyu's illness had hidden political meaning, the exact Wusun internal balance, or whether every proposed covert step was operationally feasible.

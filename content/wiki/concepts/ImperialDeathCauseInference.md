@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] grounds the concept through [[LiuXiu|光武帝刘秀]]. [[ZizhiTongjian|《资治通鉴》]] records his death in terse court terms: place, age, and date. The episode then uses [[DongguanHanji|《东观汉记》]] notices of earlier dizziness, immobility, cold/wind illness, and jaundice-like symptoms to ask whether Liu Xiu's death followed a longer health decline.
+[[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] grounds the concept through [[LiuXiu|光武帝刘秀]]. [[ZizhiTongjian|《资治通鉴》]] records his death in terse court terms: place, age, and date. The episode then uses [[DongguanHanji|《东观汉记》]] notices of earlier dizziness, immobility, cold/wind illness, and jaundice-like symptoms to ask whether Liu Xiu's death followed a longer health decline.
 
 The synthesis is methodological rather than diagnostic. The useful judgment is that a founder's late health can be historically legible without a named disease. Symptom clues, chronic overwork, and reading/state-business habits all sharpen the question, but the evidence does not justify converting the question into a settled medical answer.
 
@@ -28,10 +28,10 @@ The synthesis is methodological rather than diagnostic. The useful judgment is t
 
 ## Evidence
 
-- Sparse death notice: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] says Zizhi Tongjian gives Liu Xiu's death at Nangong in a short date/place/age form.
-- Supplementary symptoms: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] uses Dongguan Hanji notices from 41 CE and 44 CE to add earlier illness clues.
-- Workload pressure: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] describes Liu Xiu's long court days, late-night work, and refusal to treat governing as tiring.
-- Inference boundary: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] keeps the death-cause discussion indirect rather than naming a settled disease.
+- Sparse death notice: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] says Zizhi Tongjian gives Liu Xiu's death at Nangong in a short date/place/age form.
+- Supplementary symptoms: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] uses Dongguan Hanji notices from 41 CE and 44 CE to add earlier illness clues.
+- Workload pressure: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] describes Liu Xiu's long court days, late-night work, and refusal to treat governing as tiring.
+- Inference boundary: [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] keeps the death-cause discussion indirect rather than naming a settled disease.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The source does not give an autopsy, a final illness narrative, or a direct caus
 
 ## What Changed
 
-- Created this concept from Hanji 732 to capture the source's bounded method for reading Liu Xiu's death.
+- Created this concept from 汉纪 732 to capture the source's bounded method for reading Liu Xiu's death.
 
 ## Related Concepts
 

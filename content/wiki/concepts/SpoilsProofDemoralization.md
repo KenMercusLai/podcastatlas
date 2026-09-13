@@ -14,7 +14,7 @@ last_updated: 2026-09-05
 Captured-Spoils Proof Demoralization / 战利品实证瓦解士气 is the use of captured enemy goods, seals, equipment, or personal effects as visible proof that an expected rescuer, ruler, or commander has failed, fled, or lost control.
 
 ## Current Synthesis
-Hanji 1063 grounds the concept in Cao Cao's Ye campaign. After Yuan Shang's relief force breaks and flees, Cao captures Yuan Shang's official and personal goods and shows them to Ye's defenders. The signal does more than announce a battlefield result: it gives defenders concrete evidence that their outside rescuer has abandoned the field, making continued resistance psychologically harder even before the city is physically breached.
+汉纪 1063 grounds the concept in Cao Cao's Ye campaign. After Yuan Shang's relief force breaks and flees, Cao captures Yuan Shang's official and personal goods and shows them to Ye's defenders. The signal does more than announce a battlefield result: it gives defenders concrete evidence that their outside rescuer has abandoned the field, making continued resistance psychologically harder even before the city is physically breached.
 
 The episode therefore distinguishes spoils proof from ordinary booty. Its value lies in audience design. The same captured objects that enrich the victor become a message aimed at the enemy's remaining decision-makers and soldiers: their patron's command presence, logistics, and ability to rescue them have collapsed.
 
@@ -26,15 +26,15 @@ The episode therefore distinguishes spoils proof from ordinary booty. Its value 
 - The tactic belongs to morale and information control, not only to plunder or battlefield accounting.
 
 ## Evidence
-- Command-legitimacy evidence: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] says Cao Cao captures Yuan Shang's seals, staff, yellow axe, military goods, clothing, and personal objects after Yuan Shang flees.
-- Defender-audience signaling: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] says Cao has those captured goods shown to Ye defenders so they understand Yuan Shang has left and no longer need to hold out.
-- Hope-collapse timing: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] places the display after Yuan Shang's failed relief, surrender request, night flight, and subordinate defections, when Ye's defense depends on remaining belief in outside rescue.
+- Command-legitimacy evidence: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|汉纪 1063]] says Cao Cao captures Yuan Shang's seals, staff, yellow axe, military goods, clothing, and personal objects after Yuan Shang flees.
+- Defender-audience signaling: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|汉纪 1063]] says Cao has those captured goods shown to Ye defenders so they understand Yuan Shang has left and no longer need to hold out.
+- Hope-collapse timing: [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|汉纪 1063]] places the display after Yuan Shang's failed relief, surrender request, night flight, and subordinate defections, when Ye's defense depends on remaining belief in outside rescue.
 
 ## Counterevidence & Qualifications
-This is currently a one-source concept. Hanji 1063 shows the tactic contributing to morale pressure, but the city falls only after Shen Rong opens the east gate; the source does not prove that the spoils display alone would have forced surrender. Minor object names and the exact display sequence remain transcript-scoped.
+This is currently a one-source concept. 汉纪 1063 shows the tactic contributing to morale pressure, but the city falls only after Shen Rong opens the east gate; the source does not prove that the spoils display alone would have forced surrender. Minor object names and the exact display sequence remain transcript-scoped.
 
 ## What Changed
-- Created the concept from Hanji 1063's use of Yuan Shang's captured official and personal goods against Ye's defenders.
+- Created the concept from 汉纪 1063's use of Yuan Shang's captured official and personal goods against Ye's defenders.
 
 ## Related Concepts
 - [[BattlefieldInformationControl|战场信息控制]] - broader category for shaping what enemy soldiers and commanders believe during operations.

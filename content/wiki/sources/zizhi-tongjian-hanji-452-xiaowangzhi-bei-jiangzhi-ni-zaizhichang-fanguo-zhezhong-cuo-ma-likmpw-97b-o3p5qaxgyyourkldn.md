@@ -16,7 +16,7 @@ last_updated: 2026-09-13
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[XiaoWangzhiWesternHan|萧望之]] branch after the [[HanYanshouWesternHan|韩延寿]] case by explaining why [[EmperorXuanOfHan|汉宣帝]] removes Xiao from the yushi dafu post and makes him crown-prince tutor. The trigger is Xiao's contempt toward [[BingJiWesternHan|丙吉]], but the deeper issue is relational and political: Bing Ji is not only an old chancellor but the official who saved the infant Liu Xun during the witchcraft-disaster aftermath.
 
-The second half extends the [[Xiongnu|匈奴]] civil-war sequence after [[zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm|Hanji 449]]. [[HuhanyeChanyuWesternHan|呼韩邪单于]] defeats and absorbs rivals, some Xiongnu nobles surrender to Han, but new claimants later appear in the west and east, showing that the five-chanyu crisis contracts and then re-fragments rather than ending cleanly.
+The second half extends the [[Xiongnu|匈奴]] civil-war sequence after [[zizhi-tongjian-hanji-449-yichu-huangdan-naoju-xiongnu-wuda-chanyu-duoquan-huopin-lo39-mygg6xxo8cwcyvpqzcpzhrm|汉纪 449]]. [[HuhanyeChanyuWesternHan|呼韩邪单于]] defeats and absorbs rivals, some Xiongnu nobles surrender to Han, but new claimants later appear in the west and east, showing that the five-chanyu crisis contracts and then re-fragments rather than ending cleanly.
 
 ## Key Claims
 

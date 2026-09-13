@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 杨璇 / Yang Xuan (late Han)
 
-Yang Xuan, also written 杨琁 in some transmitted texts, is presented in [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] as the [[LinglingCommanderyLateHan|Lingling]] administrator who suppresses bandits from [[CangwuCommanderyLateHan|Cangwu]] and [[GuiyangCommanderyLateHan|Guiyang]]. His tactic uses wagons carrying lime bags, horses with combustible cloth tied to their tails, and crossbow wagons to blind, panic, and strike the enemy formation.
+Yang Xuan, also written 杨琁 in some transmitted texts, is presented in [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|汉纪 919]] as the [[LinglingCommanderyLateHan|Lingling]] administrator who suppresses bandits from [[CangwuCommanderyLateHan|Cangwu]] and [[GuiyangCommanderyLateHan|Guiyang]]. His tactic uses wagons carrying lime bags, horses with combustible cloth tied to their tails, and crossbow wagons to blind, panic, and strike the enemy formation.
 
 The episode makes Yang Xuan a double case: he wins through improvised [[BattlefieldInformationControl|battlefield information control]], but then nearly loses everything when [[ZhaoKaiLateHan|Zhao Kai]] falsely accuses him of claiming unearned merit. Yang Xuan's blood-written memorial becomes a [[BloodLetterVindication|blood-letter vindication]] that bypasses the provincial accusation channel and reaches [[EmperorLingOfHan|Emperor Ling of Han]], who pardons him and punishes Zhao Kai.
 

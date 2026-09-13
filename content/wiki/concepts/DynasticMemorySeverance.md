@@ -14,7 +14,7 @@ Dynastic memory severance / 王朝记忆切割 is the political use of titles, t
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] introduces the concept through [[WangMang|王莽]]'s treatment of [[WangZhengjun|王政君]]. Wang Mang had once used Han ritual continuity to honor her, but after founding the [[XinDynasty|新朝]] he recasts her as "New House Wen Mother," destroys Emperor Yuan's temple, and builds Changshou Palace in its place. The episode reads this as more than family disrespect: it is a formal attempt to remove Wang Zhengjun from [[WesternHanDynasty|Western Han]] memory while keeping her authority available to Xin.
+[[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|汉纪 646]] introduces the concept through [[WangMang|王莽]]'s treatment of [[WangZhengjun|王政君]]. Wang Mang had once used Han ritual continuity to honor her, but after founding the [[XinDynasty|新朝]] he recasts her as "New House Wen Mother," destroys Emperor Yuan's temple, and builds Changshou Palace in its place. The episode reads this as more than family disrespect: it is a formal attempt to remove Wang Zhengjun from [[WesternHanDynasty|Western Han]] memory while keeping her authority available to Xin.
 
 The concept matters because it shows how legitimacy work can enter intimate and posthumous identity. Wang Zhengjun's resistance is not a military or public court rebellion. It appears in color, calendar, and feast timing: she keeps Han black-sable dress, Han New Year, and Han wax-sacrifice rhythm inside her own palace sphere. After her death, Wang Mang's burial and shrine design continues the same tension, combining co-burial with Emperor Yuan, a separating ditch, Xin sacrifices to Wang Zhengjun, and a hierarchy placing Emperor Yuan beneath her tablet.
 
@@ -28,10 +28,10 @@ The concept matters because it shows how legitimacy work can enter intimate and 
 
 ## Evidence
 
-- Title recoding: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] says Wang Mang renames Wang Zhengjun "New House Wen Mother," severing her official identity from Han.
-- Temple destruction and replacement: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] says Emperor Yuan's temple is destroyed and Changshou Palace is built in its place for Wang Zhengjun.
-- Palace resistance: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] says Wang Zhengjun keeps Han clothing color and Han ritual dates despite Xin changes.
-- Burial and sacrifice hierarchy: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|Hanji 646]] says Wang Mang buries Wang Zhengjun with Emperor Yuan but separates the tombs by a ditch and places Emperor Yuan's tablet below hers in the Xin shrine.
+- Title recoding: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|汉纪 646]] says Wang Mang renames Wang Zhengjun "New House Wen Mother," severing her official identity from Han.
+- Temple destruction and replacement: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|汉纪 646]] says Emperor Yuan's temple is destroyed and Changshou Palace is built in its place for Wang Zhengjun.
+- Palace resistance: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|汉纪 646]] says Wang Zhengjun keeps Han clothing color and Han ritual dates despite Xin changes.
+- Burial and sacrifice hierarchy: [[zizhi-tongjian-hanji-646-chuanqi-nvxing-wangzhengjun-changshou-yeshi-zui-ltaj6otej7m7b9qmocbhgwgdt6d5|汉纪 646]] says Wang Mang buries Wang Zhengjun with Emperor Yuan but separates the tombs by a ditch and places Emperor Yuan's tablet below hers in the Xin shrine.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ This is a source-scoped concept from one episode, not a claim that every dynasti
 
 ## What Changed
 
-- Added Hanji 646 as the founding evidence for ritualized dynastic memory severance.
+- Added 汉纪 646 as the founding evidence for ritualized dynastic memory severance.
 
 ## Related Concepts
 

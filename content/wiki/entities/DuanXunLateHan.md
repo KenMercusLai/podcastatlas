@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 段迅 / Duan Xun (Late Han)
 
-段迅 / Duan Xun enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] as the court envoy sent to [[YouzhouLateHan|幽州]] with edicts for [[LiuYuLateHan|刘虞]] and [[GongsunZan|公孙瓒]]. The edict increases Liu Yu's fief and gives him six-province oversight, while also granting Gongsun Zan the former-general rank and Marquis of Yi title.
+段迅 / Duan Xun enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|汉纪 972]] as the court envoy sent to [[YouzhouLateHan|幽州]] with edicts for [[LiuYuLateHan|刘虞]] and [[GongsunZan|公孙瓒]]. The edict increases Liu Yu's fief and gives him six-province oversight, while also granting Gongsun Zan the former-general rank and Marquis of Yi title.
 
 Duan Xun matters because mediation collapses under military coercion. Gongsun Zan uses Duan Xun's arrival to accuse Liu Yu of colluding with [[YuanShao|袁绍]] and seeking the imperial title, then pressures Duan Xun into authorizing or standing beside Liu Yu's marketplace execution.
 

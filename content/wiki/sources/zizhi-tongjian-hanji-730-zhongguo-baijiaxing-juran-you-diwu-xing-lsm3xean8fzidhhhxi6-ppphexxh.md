@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late [[LiuXiu|光武帝刘秀]] layer immediately before [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]] and [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]]. It joins three strands: the death of [[JiaFuEasternHan|贾复]], the early Guangwu-era profile of [[FifthLunEasternHan|第五伦]], and Liu Xiu's decision to perform [[FengshanRitualLegitimacy|封禅]] at [[Taishan|泰山]] after reading chenwei material.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late [[LiuXiu|光武帝刘秀]] layer immediately before [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|汉纪 731]] and [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]]. It joins three strands: the death of [[JiaFuEasternHan|贾复]], the early Guangwu-era profile of [[FifthLunEasternHan|第五伦]], and Liu Xiu's decision to perform [[FengshanRitualLegitimacy|封禅]] at [[Taishan|泰山]] after reading chenwei material.
 
 The durable synthesis is that Guangwu's late reign combines practical personnel judgment with prophecy-backed ritual legitimacy. Fifth Lun is introduced before his later Zhangdi-era warnings as a fair market administrator and frank court respondent, while Liu Xiu's fengshan decision shows [[ChenweiPolitics|谶纬政治]] becoming [[ProphecyTriggeredPolicy|预言触发政策]] even for a ruler otherwise described as frugal and restrained.
 
@@ -41,10 +41,10 @@ The durable synthesis is that Guangwu's late reign combines practical personnel 
 - [[LiuXiu|光武帝刘秀]], [[ChenweiPolitics|谶纬政治]], [[ProphecyTriggeredPolicy|预言触发政策]], and [[FengshanRitualLegitimacy|封禅礼制合法性]] - prophetic texts become a state ritual decision at the end of Guangwu's reign.
 - [[FifthLunEasternHan|第五伦]] and [[Taishan|泰山]] - the episode adds Fifth Lun's earlier Guangwu-era office profile while making Taishan a second major fengshan case after Qin Shi Huang.
 - [[JiaFuEasternHan|贾复]] - founding commander whose quiet merit and death notice become a compact Liu Xiu personnel-judgment example.
-- [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]] - direct continuation, where Liu Xiu's chenwei reliance becomes dangerous for Huan Tan's anti-prophecy speech.
+- [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|汉纪 731]] - direct continuation, where Liu Xiu's chenwei reliance becomes dangerous for Huan Tan's anti-prophecy speech.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills the 54-56 CE layer before Hanji 731-732 and adds earlier context for Fifth Lun, Liu Xiu's chenwei reliance, and Guangwu fengshan.
-- Scope caution: the opening promises the question of the "Fifth" compound surname, but this transcript does not explain the surname's origin; the stronger surname genealogy remains bounded to the later [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] source note.
+- No settled contradiction with existing wiki pages was found. The episode backfills the 54-56 CE layer before 汉纪 731-732 and adds earlier context for Fifth Lun, Liu Xiu's chenwei reliance, and Guangwu fengshan.
+- Scope caution: the opening promises the question of the "Fifth" compound surname, but this transcript does not explain the surname's origin; the stronger surname genealogy remains bounded to the later [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|汉纪 744]] source note.
 - Scope caution: the Huaiyang king, Zhang Chun, Liang Song, Feng Fang, Feng Qin, exact ritual materials, and date conversions remain source-scoped until later notes warrant standalone pages or stronger normalization.

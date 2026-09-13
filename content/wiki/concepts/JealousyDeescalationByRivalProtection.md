@@ -14,7 +14,7 @@ Jealousy de-escalation by rival protection is the conflict-management pattern wh
 
 ## Current Synthesis
 
-Hanji 548 creates the concept through [[ZhangYuWesternHan|张瑜 / 张禹]] and [[WangGenWesternHan|王根]]. After [[HanChengdi|汉成帝]] publicly favors Zhang Yu in a land dispute, Wang Gen experiences Zhang Yu as a rival for imperial trust and as a threat to Wang-family outer-relative power. When earthquake and eclipse interpretations give Zhang Yu a chance to support an attack on the Wang clan, he does the opposite: he questions simplistic disaster claims, advises Chengdi to cultivate upright conduct, and removes the immediate political danger to Wang Gen.
+汉纪 548 creates the concept through [[ZhangYuWesternHan|张瑜 / 张禹]] and [[WangGenWesternHan|王根]]. After [[HanChengdi|汉成帝]] publicly favors Zhang Yu in a land dispute, Wang Gen experiences Zhang Yu as a rival for imperial trust and as a threat to Wang-family outer-relative power. When earthquake and eclipse interpretations give Zhang Yu a chance to support an attack on the Wang clan, he does the opposite: he questions simplistic disaster claims, advises Chengdi to cultivate upright conduct, and removes the immediate political danger to Wang Gen.
 
 The mechanism is not sentimental reconciliation. Zhang Yu protects his own safety by making retaliation unnecessary and emotionally costly for Wang Gen. The source then turns the pattern into a workplace lesson: jealousy is most volatile when another person's advantage touches one's valued identity, so de-escalation often requires changing the meaning of the comparison before it becomes factional hostility or inner depletion.
 
@@ -29,16 +29,16 @@ The mechanism is not sentimental reconciliation. Zhang Yu protects his own safet
 ## Evidence
 
 Public comparison trigger:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says Chengdi awards disputed land to Zhang Yu, making Wang Gen feel Zhang Yu is more favored and possibly threatening.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says Chengdi awards disputed land to Zhang Yu, making Wang Gen feel Zhang Yu is more favored and possibly threatening.
 
 Rival protection:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says Zhang Yu does not use earthquake and eclipse talk to attack Wang-family outer relatives, but instead warns Chengdi not to trust shallow disaster explanations.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says Zhang Yu does not use earthquake and eclipse talk to attack Wang-family outer relatives, but instead warns Chengdi not to trust shallow disaster explanations.
 
 Emotional reversal:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says Wang Gen becomes ashamed after hearing Zhang Yu spoke for the Wang side and thereafter treats him as a friend.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says Wang Gen becomes ashamed after hearing Zhang Yu spoke for the Wang side and thereafter treats him as a friend.
 
 Workplace generalization:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] frames jealousy as comparison around valued domains and asks how managers can use it for positive value rather than team infighting.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] frames jealousy as comparison around valued domains and asks how managers can use it for positive value rather than team infighting.
 
 ## Counterevidence & Qualifications
 
@@ -46,7 +46,7 @@ The pattern is source-scoped to a successful de-escalation case. It should not b
 
 ## What Changed
 
-- Created the concept from Hanji 548's Zhang Yu-Wang Gen de-escalation case.
+- Created the concept from 汉纪 548's Zhang Yu-Wang Gen de-escalation case.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-Hanji 455 creates the concept through [[HuangBaWesternHan|黄霸]]'s recommendation that [[ShiGaoWesternHan|史高]] become taiwei. The host's point is not that all personnel advice is forbidden. The sharper boundary is that Huang speaks without being asked on a matter Xuan treats as reserved: a top appointment with military implications involving someone the emperor already knows well.
+汉纪 455 creates the concept through [[HuangBaWesternHan|黄霸]]'s recommendation that [[ShiGaoWesternHan|史高]] become taiwei. The host's point is not that all personnel advice is forbidden. The sharper boundary is that Huang speaks without being asked on a matter Xuan treats as reserved: a top appointment with military implications involving someone the emperor already knows well.
 
 The case combines ancient court politics with a workplace translation. In the court setting, Huang's act can be read as overstepping chancellor duties, trying to connect with a powerful outer relative, or disturbing imperial timing. In the workplace translation, a subordinate who volunteers strong opinions about sensitive personnel moves can be read as not understanding the leader's authority lane. The survival lesson is to answer carefully when consulted, but to avoid initiating sensitive appointment proposals unless the role, mandate, and timing are explicit.
 
@@ -30,16 +30,16 @@ The case combines ancient court politics with a workplace translation. In the co
 ## Evidence
 
 Authority boundary:
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] says Xuan tells Huang Ba that appointment of generals and ministers belongs to the ruler.
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] contrasts Huang's proper duties with his unsolicited recommendation of Shi Gao.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] says Xuan tells Huang Ba that appointment of generals and ministers belongs to the ruler.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] contrasts Huang's proper duties with his unsolicited recommendation of Shi Gao.
 
 Military and kinship sensitivity:
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] emphasizes that taiwei is tied to military authority and therefore politically sensitive.
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] says Shi Gao is a close imperial relative and trusted attendant whom Xuan already understands.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] emphasizes that taiwei is tied to military authority and therefore politically sensitive.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] says Shi Gao is a close imperial relative and trusted attendant whom Xuan already understands.
 
 Warning and retreat:
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] highlights "数日乃决" as a pressure period before Xuan decides not to pursue the issue.
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] says Huang Ba apologizes and no longer makes such requests.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] highlights "数日乃决" as a pressure period before Xuan decides not to pursue the issue.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] says Huang Ba apologizes and no longer makes such requests.
 
 ## Counterevidence & Qualifications
 
@@ -47,7 +47,7 @@ This concept does not mean officials or employees should never offer personnel i
 
 ## What Changed
 
-- Created the concept from Hanji 455's Huang Ba recommendation case.
+- Created the concept from 汉纪 455's Huang Ba recommendation case.
 
 ## Related Concepts
 

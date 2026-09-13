@@ -23,12 +23,12 @@ His later end is negative. After Xianbei and southeast unrest continue, Zhao Xu 
 - False-reporting case where inflated enemy-kill claims become punishable.
 
 ## Evidence
-- Campaign appointment: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Zhao Xu is made zhonglang jiang and sent to assist Feng Gun.
-- Campaign context: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] places Zhao Xu in the same Xu-Yang unrest field where Teng Fu uses rewards and local mobilization.
-- Punishment: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Zhao Xu is executed after fearfulness and false merit reporting.
+- Campaign appointment: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Zhao Xu is made zhonglang jiang and sent to assist Feng Gun.
+- Campaign context: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] places Zhao Xu in the same Xu-Yang unrest field where Teng Fu uses rewards and local mobilization.
+- Punishment: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Zhao Xu is executed after fearfulness and false merit reporting.
 
 ## Qualifications
-The profile is source-scoped to Hanji 826. The note does not yet provide Zhao Xu's earlier offices, family identity, exact legal process, or independent details on the campaign reports.
+The profile is source-scoped to 汉纪 826. The note does not yet provide Zhao Xu's earlier offices, family identity, exact legal process, or independent details on the campaign reports.
 
 ## What Changed
 - Created Zhao Xu's page as a bounded 145 CE campaign and punishment case.

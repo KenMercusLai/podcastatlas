@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-胡方 / Hu Fang is a late-Han official who enters the wiki through Hanji 870 as the Bingzhou inspector in [[HuangfuGuiLateHan|皇甫规]]'s attempted exit case. His importance is narrow: he recognizes that Huangfu Gui is trying to trigger impeachment so he can escape a frontier appointment, and he refuses to participate.
+胡方 / Hu Fang is a late-Han official who enters the wiki through 汉纪 870 as the Bingzhou inspector in [[HuangfuGuiLateHan|皇甫规]]'s attempted exit case. His importance is narrow: he recognizes that Huangfu Gui is trying to trigger impeachment so he can escape a frontier appointment, and he refuses to participate.
 
 ## Current Profile
 
@@ -18,7 +18,7 @@ Hu Fang's current profile is source-bounded to a single episode. He does not app
 
 ## Key Characteristics
 
-- Bingzhou inspector in the Hanji 870 appointment field.
+- Bingzhou inspector in the 汉纪 870 appointment field.
 - Recognizes Huangfu Gui's jurisdiction-crossing as a deliberate self-impeachment tactic.
 - Refuses to validate the tactic by reporting Huangfu Gui to the court.
 - Functions as the immediate official witness for office-duty exit constraint.
@@ -26,9 +26,9 @@ Hu Fang's current profile is source-bounded to a single episode. He does not app
 
 ## Evidence
 
-- Office and setting: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] identifies Hu Fang as Bingzhou inspector during Huangfu Gui's return to the Duliao general appointment.
-- Recognition of tactic: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says Hu Fang sees that Huangfu Gui wants to leave office early by inviting impeachment.
-- Refusal to report: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says Hu Fang ignores the matter instead of reporting it, because the court values the talent.
+- Office and setting: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] identifies Hu Fang as Bingzhou inspector during Huangfu Gui's return to the Duliao general appointment.
+- Recognition of tactic: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] says Hu Fang sees that Huangfu Gui wants to leave office early by inviting impeachment.
+- Refusal to report: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] says Hu Fang ignores the matter instead of reporting it, because the court values the talent.
 
 ## Qualifications
 
@@ -36,7 +36,7 @@ The current page does not establish Hu Fang's full career, factional alignment, 
 
 ## What Changed
 
-- Created a source-bounded Hu Fang page from Hanji 870.
+- Created a source-bounded Hu Fang page from 汉纪 870.
 
 ## Relationships
 

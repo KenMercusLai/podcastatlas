@@ -47,5 +47,5 @@ The durable synthesis is that Han Yanshou's death is not read as a simple clean-
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source complements [[zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa|Hanji 451]] by giving the broader political-security reading before the later note details Xiao's case framing and Bing Ji's de-escalation attempt.
+- No settled contradiction with existing wiki content was found. This source complements [[zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa|汉纪 451]] by giving the broader political-security reading before the later note details Xiao's case framing and Bing Ji's de-escalation attempt.
 - Scope caution: the host's claim that Han was killed mainly as a Huo Guang-associated threat is an interpretation of motive, not an independently settled reconstruction of the original legal record.

@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-陈元 / Chen Yuan is a source-scoped late-Han resident in Hanji 862 whose mother accuses him of unfilial conduct. His wiki role is to show how [[QiuXiangLateHan|仇香]] turns a punitive family complaint into a case of teaching, repair, and eventual filial reputation.
+陈元 / Chen Yuan is a source-scoped late-Han resident in 汉纪 862 whose mother accuses him of unfilial conduct. His wiki role is to show how [[QiuXiangLateHan|仇香]] turns a punitive family complaint into a case of teaching, repair, and eventual filial reputation.
 
 ## Current Profile
 
@@ -29,9 +29,9 @@ After Qiu Xiang persuades the mother and then teaches mother and son at home, Ch
 
 ## Evidence
 
-- Complaint setting: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Chen Yuan's mother accuses him of unfilial conduct before Qiu Xiang.
-- Concrete counter-signals: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Qiu Xiang has seen Chen Yuan's orderly house and timely farming and therefore doubts that he is fundamentally bad.
-- Moral instruction outcome: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Qiu Xiang personally teaches Chen Yuan about human relations and filial conduct, after which Chen Yuan becomes known as filial.
+- Complaint setting: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says Chen Yuan's mother accuses him of unfilial conduct before Qiu Xiang.
+- Concrete counter-signals: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says Qiu Xiang has seen Chen Yuan's orderly house and timely farming and therefore doubts that he is fundamentally bad.
+- Moral instruction outcome: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says Qiu Xiang personally teaches Chen Yuan about human relations and filial conduct, after which Chen Yuan becomes known as filial.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This page is intentionally narrow. The source gives Chen Yuan as a local case in
 
 ## What Changed
 
-- Created the page from Hanji 862's Chen Yuan filiality complaint and reform case.
+- Created the page from 汉纪 862's Chen Yuan filiality complaint and reform case.
 
 ## Relationships
 

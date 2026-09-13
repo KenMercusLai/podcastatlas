@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens with a source-scoped life lesson about adult toughness as restraint, self-rescue, and hidden preparation, then backfills the pre-184 [[YellowTurbansLateHan|Yellow Turban]] outbreak. It links late-Han epidemic distress, poverty, and weak medical access to [[ZhangJiaoLateHan|张角]]'s healing-based expansion of [[TaipingDao|太平道]], then follows ignored warnings from [[YangCiLateHan|杨赐]] and [[LiuTaoLateHan|刘陶 / 刘桃]] before [[TangZhouLateHan|唐周]] exposes the plot. The episode supplies the causal prelude to Hanji 924: [[MaYuanyiLateHan|马元义]] coordinates local believers and palace insiders, the "甲子" plan leaks, and Zhang Jiao accelerates the uprising under the titles of Heaven, Earth, and Human generals.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens with a source-scoped life lesson about adult toughness as restraint, self-rescue, and hidden preparation, then backfills the pre-184 [[YellowTurbansLateHan|Yellow Turban]] outbreak. It links late-Han epidemic distress, poverty, and weak medical access to [[ZhangJiaoLateHan|张角]]'s healing-based expansion of [[TaipingDao|太平道]], then follows ignored warnings from [[YangCiLateHan|杨赐]] and [[LiuTaoLateHan|刘陶 / 刘桃]] before [[TangZhouLateHan|唐周]] exposes the plot. The episode supplies the causal prelude to 汉纪 924: [[MaYuanyiLateHan|马元义]] coordinates local believers and palace insiders, the "甲子" plan leaks, and Zhang Jiao accelerates the uprising under the titles of Heaven, Earth, and Human generals.
 
 ## Key Claims
 
@@ -41,7 +41,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens with 
 
 - [[ZhangJiaoLateHan|张角]], [[TaipingDao|太平道]], [[YellowTurbansLateHan|黄巾军]], and [[ReliefBasedReligiousMobilization|救济型宗教动员]] - epidemic distress, healing, religious authority, and rebellion infrastructure.
 - [[YangCiLateHan|杨赐]], [[LiuTaoLateHan|刘陶 / 刘桃]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - warnings that reach the court but do not become timely correction.
-- [[MaYuanyiLateHan|马元义]], [[TangZhouLateHan|唐周]], [[FengXuLateHan|封谞]], and [[XuFengLateHan|徐奉]] - plot coordination, disclosure, and palace-insider exposure before Hanji 924.
+- [[MaYuanyiLateHan|马元义]], [[TangZhouLateHan|唐周]], [[FengXuLateHan|封谞]], and [[XuFengLateHan|徐奉]] - plot coordination, disclosure, and palace-insider exposure before 汉纪 924.
 - [[ZhangBaoYellowTurban|张宝]], [[ZhangLiangYellowTurban|张梁]], and [[YellowTurbansLateHan|黄巾军]] - leadership titles and rapid mobilization after the plan leaks.
 - [[PandemicAsHistoricalForce|Pandemic As Historical Force]], [[NaturalHazardSocialDisaster|natural hazard as social disaster]], and [[InstrumentalizedReligiousPower|工具化宗教权力]] - broader concepts connected by the episode.
 - [[LuoyangLateHan|洛阳]], [[YeLateHan|邺城]], [[Jingzhou|荆州]], and [[YangzhouLateHan|扬州]] - capital, planned coordination site, and regional believer fields.

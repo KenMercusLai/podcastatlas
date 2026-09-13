@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-Hanji 839 gives the concept through a personal opening and a political example. The host first frames awakening as seeing one's actual resources, limits, abilities, and desire boundaries without fantasy. "问心无愧" then means using the life one has rather than later discovering it was spent passively.
+汉纪 839 gives the concept through a personal opening and a political example. The host first frames awakening as seeing one's actual resources, limits, abilities, and desire boundaries without fantasy. "问心无愧" then means using the life one has rather than later discovering it was spent passively.
 
 The Zhu Mu branch supplies the historical analogue. [[ZhuMuLateHan|朱穆]] does not control whether [[EmperorHuanOfHan|汉桓帝]] will punish him or whether eunuch privilege will be repaired, but he can control whether he enforces public law in [[JizhouLateHan|冀州]]. The concept therefore emphasizes duty-completion under constraint: outcome still matters, but conscience attaches to responsible action when success is politically uncertain.
 
@@ -28,17 +28,17 @@ The Zhu Mu branch supplies the historical analogue. [[ZhuMuLateHan|朱穆]] does
 
 ## Evidence
 
-- Self-knowledge standard: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] opens by tying awakening to recognizing class background, family resources, personal capacity, and desire boundaries.
-- Effort and non-waste frame: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says a person should avoid old-age regret over wasted years or passive mediocrity by doing one's utmost.
-- Public-duty example: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] uses Zhu Mu's enforcement and punishment risk to show that acting responsibly may still be politically dangerous.
+- Self-knowledge standard: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] opens by tying awakening to recognizing class background, family resources, personal capacity, and desire boundaries.
+- Effort and non-waste frame: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says a person should avoid old-age regret over wasted years or passive mediocrity by doing one's utmost.
+- Public-duty example: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] uses Zhu Mu's enforcement and punishment risk to show that acting responsibly may still be politically dangerous.
 
 ## Counterevidence & Qualifications
 
-This concept is source-scoped practical teaching, not a general psychological proof that effort always wins or that conscience alone solves institutional failure. Hanji 839 itself qualifies the idea: Zhu Mu's duty is recognized by Taixue students and he is pardoned, but the underlying eunuch-power structure remains unresolved.
+This concept is source-scoped practical teaching, not a general psychological proof that effort always wins or that conscience alone solves institutional failure. 汉纪 839 itself qualifies the idea: Zhu Mu's duty is recognized by Taixue students and he is pardoned, but the underlying eunuch-power structure remains unresolved.
 
 ## What Changed
 
-- Created the concept from Hanji 839's title-level life lesson and Zhu Mu case.
+- Created the concept from 汉纪 839's title-level life lesson and Zhu Mu case.
 - Bound the ethic to constrained duty rather than success optimism.
 
 ## Related Concepts

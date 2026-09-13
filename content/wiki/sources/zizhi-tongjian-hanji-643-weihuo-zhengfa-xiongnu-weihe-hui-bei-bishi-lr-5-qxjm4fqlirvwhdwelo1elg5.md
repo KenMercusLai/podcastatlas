@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[WangMang|王莽]]'s early [[XinDynasty|新朝]] Xiongnu crisis around 11 CE, before the later Hanji 645 and 647-655 layers. It centers on [[YanYouXinGeneral|严尤]]'s memorial comparing Zhou, Han, and Qin responses to northern nomadic pressure, then applies that cost logic to Wang Mang's planned 300,000-man campaign against [[Xiongnu|匈奴]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[WangMang|王莽]]'s early [[XinDynasty|新朝]] Xiongnu crisis around 11 CE, before the later 汉纪 645 and 647-655 layers. It centers on [[YanYouXinGeneral|严尤]]'s memorial comparing Zhou, Han, and Qin responses to northern nomadic pressure, then applies that cost logic to Wang Mang's planned 300,000-man campaign against [[Xiongnu|匈奴]].
 
 The durable synthesis is that frontier strategy is judged by objective, cost, and support capacity rather than battlefield prestige alone. The episode does not deny the achievements of [[HanWudi|汉武帝]], [[WeiQingHanGeneral|卫青]], or Huo Qubing, but it uses Yan You's critique to argue that deep punitive war can become a lower strategy when logistics, climate, disease, transport animals, march tempo, and terrain risk exceed state capacity.
 
@@ -43,10 +43,10 @@ The durable synthesis is that frontier strategy is judged by objective, cost, an
 - [[SteppeExpeditionLogistics|草原远征后勤]], [[SeasonalWarLogistics|战争季节后勤]], and [[OverextendedFrontierExpedition|边境远征过度]] - Yan You's five difficulties turn anti-Xiongnu war into a logistics, disease, climate, and movement-capacity problem.
 - [[HanWudi|汉武帝]], [[WeiQingHanGeneral|卫青]], [[HanXiongnuHeqinPolicy|汉匈和亲政策]], and [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]] - the episode reframes the famous Han-Xiongnu war branch through long-run costs rather than only military achievements.
 - [[QinShiHuang|秦始皇]], [[WarringStatesNorthernGreatWalls|战国北方长城]], and [[QinCollapseOverextension|秦崩溃式过度动员]] - the Qin comparison treats frontier defense construction as a domestic-exhaustion risk.
-- [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]], [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]], and [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] - continuation into later Xin frontier coercion, heqin concealment, and crisis-priority failure.
+- [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]], [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]], and [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] - continuation into later Xin frontier coercion, heqin concealment, and crisis-priority failure.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 11 CE, before Hanji 645's 12 CE Chen Xian and Goguryeo frontier layer and before Hanji 647's 14 CE Luoyang and Xiongnu heqin layer.
+- Chronology qualification: this source backfills 11 CE, before 汉纪 645's 12 CE Chen Xian and Goguryeo frontier layer and before 汉纪 647's 14 CE Luoyang and Xiongnu heqin layer.
 - Scope caution: Luanti Xian, Luanti Deng, Luanti Zhu, Luanti Zhi, Ling Bao, Dai Ji, exact titles, force counts, casualty detail, and Xiongnu-side inner motives remain source-scoped unless later notes require canonical pages.

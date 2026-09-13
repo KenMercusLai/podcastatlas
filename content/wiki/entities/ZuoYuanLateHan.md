@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-左原 / Zuo Yuan is the Hanji 861 correction-after-offense case. After being expelled from study for an offense, he meets [[GuoTaiLateHan|郭泰]], receives hospitality and admonition, and later abandons a revenge plan when Guo Tai's presence activates shame rather than defiance.
+左原 / Zuo Yuan is the 汉纪 861 correction-after-offense case. After being expelled from study for an offense, he meets [[GuoTaiLateHan|郭泰]], receives hospitality and admonition, and later abandons a revenge plan when Guo Tai's presence activates shame rather than defiance.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ The later revenge episode is the practical test of that intervention. Zuo Yuan g
 
 ## Evidence
 
-- Expulsion after offense: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Zuo Yuan is removed from study after violating rules or law.
-- Corrective hospitality: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Guo Tai feeds and comforts Zuo Yuan before urging self-reflection.
-- Anti-resentment counsel: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] uses earlier reformed figures to argue that a person with faults should not collapse into grievance.
-- Revenge desistance: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Zuo Yuan later abandons a revenge plan because he feels ashamed before Guo Tai.
+- Expulsion after offense: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Zuo Yuan is removed from study after violating rules or law.
+- Corrective hospitality: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Guo Tai feeds and comforts Zuo Yuan before urging self-reflection.
+- Anti-resentment counsel: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] uses earlier reformed figures to argue that a person with faults should not collapse into grievance.
+- Revenge desistance: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Zuo Yuan later abandons a revenge plan because he feels ashamed before Guo Tai.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The source does not erase Zuo Yuan's fault or present correction as guaranteed. 
 
 ## What Changed
 
-- Created the page from Hanji 861's correction-after-offense and abandoned-revenge story.
+- Created the page from 汉纪 861's correction-after-offense and abandoned-revenge story.
 
 ## Relationships
 

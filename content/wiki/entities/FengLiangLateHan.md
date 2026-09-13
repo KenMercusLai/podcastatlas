@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-冯良 / Feng Liang enters the wiki through [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] as a Nanyang scholar recommended by [[ChenZhongLateHan|陈忠]] alongside [[ZhouXieLateHan|周燮]]. His refusal of Emperor An's summons makes him a paired early case of [[PrincipledOfficeRefusal|原则性拒仕]].
+冯良 / Feng Liang enters the wiki through [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|汉纪 799]] as a Nanyang scholar recommended by [[ChenZhongLateHan|陈忠]] alongside [[ZhouXieLateHan|周燮]]. His refusal of Emperor An's summons makes him a paired early case of [[PrincipledOfficeRefusal|原则性拒仕]].
 
 ## Current Profile
 
-Hanji 799 presents Feng Liang through Chen Zhong's recommendation. Like Zhou Xie, he is praised for learning and upright conduct, has public reputation outside the court, and receives an imperial summons with formal gifts. The source does not provide a long independent speech for Feng Liang, so his profile is tied closely to the paired refusal action.
+汉纪 799 presents Feng Liang through Chen Zhong's recommendation. Like Zhou Xie, he is praised for learning and upright conduct, has public reputation outside the court, and receives an imperial summons with formal gifts. The source does not provide a long independent speech for Feng Liang, so his profile is tied closely to the paired refusal action.
 
 After the summons, Zhou Xie and Feng Liang return to their county offices, claim illness, and lie at home rather than enter service. The episode's synthesis links that refusal to the same theme as Yang Zhen's refusal of appointment favors: principled actors judge circumstances and do not treat power's invitation as automatically legitimate.
 
@@ -28,13 +28,13 @@ After the summons, Zhou Xie and Feng Liang return to their county offices, claim
 
 ## Evidence
 
-- Recommendation: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Chen Zhong recommends Feng Liang and Zhou Xie as learned and upright men.
-- Summons and refusal: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Emperor An summons them and that both return to their counties claiming illness.
-- Interpretive frame: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] connects Feng Liang's refusal with judging the political moment rather than taking office at any cost.
+- Recommendation: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|汉纪 799]] says Chen Zhong recommends Feng Liang and Zhou Xie as learned and upright men.
+- Summons and refusal: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|汉纪 799]] says Emperor An summons them and that both return to their counties claiming illness.
+- Interpretive frame: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|汉纪 799]] connects Feng Liang's refusal with judging the political moment rather than taking office at any cost.
 
 ## Qualifications
 
-This page is bounded to Hanji 799. It does not settle Feng Liang's later career, teaching activity, family background, or exact private reasoning beyond the paired refusal record and the host's interpretive frame.
+This page is bounded to 汉纪 799. It does not settle Feng Liang's later career, teaching activity, family background, or exact private reasoning beyond the paired refusal record and the host's interpretive frame.
 
 ## What Changed
 

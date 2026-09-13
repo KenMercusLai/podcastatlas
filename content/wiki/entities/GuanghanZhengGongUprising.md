@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-[[GuanghanZhengGongUprising|广汉郑公起义 / Guanghan Zheng Gong Uprising]] enters the wiki through [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] as a Hongjia 3-4 / 18-17 BCE Western Han uprising led by [[ZhengGongWesternHan|郑公]] in Guanghan.
+[[GuanghanZhengGongUprising|广汉郑公起义 / Guanghan Zheng Gong Uprising]] enters the wiki through [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] as a Hongjia 3-4 / 18-17 BCE Western Han uprising led by [[ZhengGongWesternHan|郑公]] in Guanghan.
 
 ## Current Profile
 
@@ -31,19 +31,19 @@ Suppression combines direct force and political division. The court appoints [[Z
 
 ## Evidence
 
-- Political background: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says Chengdi-era high officials pursue private interest, eunuchs are abusive, and ordinary people suffer heavily.
-- Livelihood pressure: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] names empty granaries, hunger, displacement, and deaths in the tens of thousands.
-- Initial action: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says the rebels attack offices, free prisoners, and take weapons.
-- Expansion: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says Zheng Gong's followers attack four counties and number close to ten thousand.
-- Suppression: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says the court appoints Zhao Hu, mobilizes more than thirty thousand Guanghan and Shu troops, grants amnesty to defectors, and pacifies the uprising within about a month.
+- Political background: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says Chengdi-era high officials pursue private interest, eunuchs are abusive, and ordinary people suffer heavily.
+- Livelihood pressure: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] names empty granaries, hunger, displacement, and deaths in the tens of thousands.
+- Initial action: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says the rebels attack offices, free prisoners, and take weapons.
+- Expansion: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says Zheng Gong's followers attack four counties and number close to ten thousand.
+- Suppression: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says the court appoints Zhao Hu, mobilizes more than thirty thousand Guanghan and Shu troops, grants amnesty to defectors, and pacifies the uprising within about a month.
 
 ## Qualifications
 
-This page is bounded to Hanji 532. The source gives an interpretive summary rather than a full archival reconstruction of rebel membership, military operations, local tax records, or post-pacification relief. The claim that it was the largest Western Han peasant uprising is kept source-scoped unless later sources corroborate or qualify it.
+This page is bounded to 汉纪 532. The source gives an interpretive summary rather than a full archival reconstruction of rebel membership, military operations, local tax records, or post-pacification relief. The claim that it was the largest Western Han peasant uprising is kept source-scoped unless later sources corroborate or qualify it.
 
 ## What Changed
 
-- Created this event page from Hanji 532 to preserve the uprising as a distinct Western Han rebellion case rather than folding it into Zheng Gong's biography alone.
+- Created this event page from 汉纪 532 to preserve the uprising as a distinct Western Han rebellion case rather than folding it into Zheng Gong's biography alone.
 
 ## Relationships
 

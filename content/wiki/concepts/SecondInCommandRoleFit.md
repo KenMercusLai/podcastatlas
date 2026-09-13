@@ -8,13 +8,13 @@ last_updated: 2026-08-22
 
 # Second-in-Command Role Fit / 二把手角色适配
 
-Second-in-command role fit / 二把手角色适配 is the talent-use frame [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]] derives from [[LiuBang|刘邦]]'s handling of [[ChenPing|陈平]]. The source says Liu Bang can use Chen Ping heavily for covert operations and court maneuvering, while still recognizing that Chen Ping is not the right person to hold independent, final responsibility.
+Second-in-command role fit / 二把手角色适配 is the talent-use frame [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|汉纪 150 part 3]] derives from [[LiuBang|刘邦]]'s handling of [[ChenPing|陈平]]. The source says Liu Bang can use Chen Ping heavily for covert operations and court maneuvering, while still recognizing that Chen Ping is not the right person to hold independent, final responsibility.
 
 The episode's compact formula is "智有余，然难以独任." That judgment separates talent from role scope. A person can be unusually perceptive, adaptive, and effective in ambiguous work while still needing a principal above them, institutional counterparts beside them, and boundaries around what kind of authority they should hold.
 
 For Chen Ping, this role fit turns a moral problem into an organizational asset. His [[CovertPoliticalTechnology|阴谋式政治技术]] and [[PoliticalSurvivalFirst|安全第一政治生存]] are useful when they serve a larger strategic direction, but they are riskier if converted into sole command or open institutional leadership.
 
-[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] broadens the comparison set. The source contrasts Chen Ping with [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]] to argue that his distinctive value is not pure strategy, civil administration, or military command, but the ability to keep operating as a dangerous deputy across incompatible rulers and factional fields.
+[[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|汉纪 150 part 4]] broadens the comparison set. The source contrasts Chen Ping with [[ZhangLiang|张良]], [[XiaoHe|萧何]], and [[HanXin|韩信]] to argue that his distinctive value is not pure strategy, civil administration, or military command, but the ability to keep operating as a dangerous deputy across incompatible rulers and factional fields.
 
 ## Key Claims
 - Talent evaluation should include role scope, not only intelligence or usefulness.

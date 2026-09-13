@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 陈仓之战 / Chen Cang Battle (late Han)
 
-[[ChenCangBattleLateHan|陈仓之战]] is the late-Han battle sequence in [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|Hanji 942]], centered on [[WangGuoLateHan|王国]]'s siege of [[ChenCang|陈仓]] and [[HuangfuSongLateHan|皇甫嵩]]'s decision to wait. [[DongZhuo|董卓]] pushes for immediate relief, but Huangfu Song treats the city's defenses as a resource and lets the siege consume the attacker.
+[[ChenCangBattleLateHan|陈仓之战]] is the late-Han battle sequence in [[zizhi-tongjian-hanji-942-yue-youxiu-de-ren-huode-yue-lei-heli-ma-lkwlrcgnt-kxxc2qqz6z6wkg7e5z|汉纪 942]], centered on [[WangGuoLateHan|王国]]'s siege of [[ChenCang|陈仓]] and [[HuangfuSongLateHan|皇甫嵩]]'s decision to wait. [[DongZhuo|董卓]] pushes for immediate relief, but Huangfu Song treats the city's defenses as a resource and lets the siege consume the attacker.
 
 When Wang Guo withdraws after more than eighty days, Huangfu Song reverses from patience to pursuit and destroys the exhausted army. The episode reads the victory as tactically correct but politically costly: Dong Zhuo is humiliated by having opposed both the delay and the chase, and his resentment toward Huangfu Song becomes part of the later late-Han danger field.
 

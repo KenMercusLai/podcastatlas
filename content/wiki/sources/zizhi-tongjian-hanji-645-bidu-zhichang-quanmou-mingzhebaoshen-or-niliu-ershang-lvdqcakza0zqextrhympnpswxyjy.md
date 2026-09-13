@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[WangMang|王莽]]'s early [[XinDynasty|新朝]] crisis around 12 CE, before the later Hanji 647-655 sequence. It centers on [[ChenXianXinOfficial|陈贤]] withdrawing from office after Wang Mang changes Han institutions and kills opponents, then broadens into Yellow River non-repair, Xiongnu hostage execution, hollow rank proliferation, policy churn, and frontier escalation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[WangMang|王莽]]'s early [[XinDynasty|新朝]] crisis around 12 CE, before the later 汉纪 647-655 sequence. It centers on [[ChenXianXinOfficial|陈贤]] withdrawing from office after Wang Mang changes Han institutions and kills opponents, then broadens into Yellow River non-repair, Xiongnu hostage execution, hollow rank proliferation, policy churn, and frontier escalation.
 
 The durable synthesis is that principled withdrawal and state misgovernance are paired in the episode. Chen Xian lowers visibility while preserving Han ritual timing and legal texts, whereas Wang Mang turns public disaster, diplomatic trust, rank order, and frontier management into regime risk through private-interest calculation, symbolic overreach, and coercive shortcuts.
 
@@ -44,10 +44,10 @@ The durable synthesis is that principled withdrawal and state misgovernance are 
 - [[Xiongnu|匈奴]], [[HanXiongnuHeqinPolicy|汉匈和亲政策]], and [[HostageDiplomacyRupture|质子外交破裂]] - public execution of a hostage creates grievance before later heqin concealment and succession-intervention failures.
 - [[NominalTitleInflation|名义爵位通胀]], [[MilitaryMeritRankSystem|军功爵制]], and [[LiuBang|刘邦]] - the episode contrasts Wang Mang's unsupported rank proliferation with the earlier scarcity logic of Han merit titles.
 - [[YanYouXinGeneral|严尤]], [[GoguryeoLateHan|高句丽]], [[UnsupportedFrontierIntervention|无支撑边疆干预]], and [[FrontierOfficialAbuseRebellionSpiral|边吏侵害引发反叛螺旋]] - the Goguryeo and southwestern branches show coercive frontier policy generating new rebellion risk.
-- [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]], [[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|Hanji 648]], and [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] - direct continuation into Luoyang planning, Xiongnu grievance, currency/famine pressure, and later crisis-priority failure.
+- [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]], [[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|汉纪 648]], and [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] - direct continuation into Luoyang planning, Xiongnu grievance, currency/famine pressure, and later crisis-priority failure.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 12 CE, before Hanji 647's 14 CE Luoyang-capital layer and Hanji 648's 14 CE frontier and currency-stress layer.
+- Chronology qualification: this source backfills 12 CE, before 汉纪 647's 14 CE Luoyang-capital layer and 汉纪 648's 14 CE frontier and currency-stress layer.
 - Scope caution: He Wu, Bao Xuan, Li Rong, Qin Qing, Su Zhang, Cao Jing, Gong Sheng, Xue Fang, Chen Qin, Wang Xun, the named Xiongnu hostage branch, Juting king Han, Zhou Xing, Cheng, Goguryeo marquis Zhou, Buyeo, exact noble-rank counts, and Yellow River commandery geography remain source-scoped unless later notes require canonical pages.

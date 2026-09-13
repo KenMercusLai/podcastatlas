@@ -15,17 +15,17 @@ last_updated: 2026-09-09
 
 ## Overview
 
-秦丰 / Qin Feng is synthesized as a Liqiu-based Eastern Han regional rival whose current evidence begins earlier with [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]]'s late-Xin Nanjun rebel notice, then continues in [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] with county seizures and a self-styled Chu Li Wang title. Later source notes keep him in Liu Xiu's multi-front eastern cleanup, as the defeated power whose collapse makes [[TianRongYilingEasternHan|田戎]] consider surrender and whose final handling shows [[LiuXiu|刘秀]] punishing Qin Feng while sparing Zhu Hu for accepting the surrender.
+秦丰 / Qin Feng is synthesized as a Liqiu-based Eastern Han regional rival whose current evidence begins earlier with [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]]'s late-Xin Nanjun rebel notice, then continues in [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|汉纪 674]] with county seizures and a self-styled Chu Li Wang title. Later source notes keep him in Liu Xiu's multi-front eastern cleanup, as the defeated power whose collapse makes [[TianRongYilingEasternHan|田戎]] consider surrender and whose final handling shows [[LiuXiu|刘秀]] punishing Qin Feng while sparing Zhu Hu for accepting the surrender.
 
 ## Current Profile
 
-Hanji 659 supplies the current earliest layer. Qin Feng appears in Nanjun with more than ten thousand followers during Wang Mang's late crisis, before the fuller post-Xin regional-claimant profile is visible. Hanji 674 then describes him as a Liqiu-based actor who takes several counties, styles himself Chu Li Wang, and commands a regional force before Liu Xiu has settled the eastern and southern field.
+汉纪 659 supplies the current earliest layer. Qin Feng appears in Nanjun with more than ten thousand followers during Wang Mang's late crisis, before the fuller post-Xin regional-claimant profile is visible. 汉纪 674 then describes him as a Liqiu-based actor who takes several counties, styles himself Chu Li Wang, and commands a regional force before Liu Xiu has settled the eastern and southern field.
 
-Hanji 689-1 and Hanji 691 keep Qin Feng inside the broader multi-front cleanup background. In those notes he is one among several surviving rivals rather than the main analytic target, but his presence matters because early Guangwu consolidation is not reducible to Chimei or Wei Xiao alone.
+汉纪 689-1 and 汉纪 691 keep Qin Feng inside the broader multi-front cleanup background. In those notes he is one among several surviving rivals rather than the main analytic target, but his presence matters because early Guangwu consolidation is not reducible to Chimei or Wei Xiao alone.
 
-Hanji 690 makes Qin Feng important through Tian Rong. Tian Rong initially wants to submit after hearing Qin Feng has been defeated, but Xin Chen's theft, defection, and letter contaminate the surrender channel. Tian Rong reverses course after divination, joins Qin Feng, and is defeated by Cen Peng.
+汉纪 690 makes Qin Feng important through Tian Rong. Tian Rong initially wants to submit after hearing Qin Feng has been defeated, but Xin Chen's theft, defection, and letter contaminate the surrender channel. Tian Rong reverses course after divination, joins Qin Feng, and is defeated by Cen Peng.
 
-Hanji 695 supplies the endpoint currently visible in the wiki. Liu Xiu's eastern campaign handles Qin Feng's surrender by killing Qin Feng while not punishing Zhu Hu for accepting the surrender and sending him to Luoyang. The page treats this as a boundary case: submission channels can be accepted while the rival claimant himself remains punishable.
+汉纪 695 supplies the endpoint currently visible in the wiki. Liu Xiu's eastern campaign handles Qin Feng's surrender by killing Qin Feng while not punishing Zhu Hu for accepting the surrender and sending him to Luoyang. The page treats this as a boundary case: submission channels can be accepted while the rival claimant himself remains punishable.
 
 ## Key Characteristics
 
@@ -37,21 +37,21 @@ Hanji 695 supplies the endpoint currently visible in the wiki. Liu Xiu's eastern
 
 ## Evidence
 
-- Early rebel force: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Qin Feng gathers more than ten thousand people in Nanjun during Wang Mang's late crisis.
-- Liqiu rise and title: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|Hanji 674]] says Qin Feng takes counties around Liqiu and styles himself Chu Li Wang.
-- Multi-front cleanup: [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]] lists Qin Feng among the fronts Liu Xiu is still handling.
-- Tian Rong's surrender trigger: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Tian Rong wants to submit after hearing Qin Feng has been defeated.
-- Tian Rong's reversal: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Tian Rong later rebels, joins Qin Feng, loses to Cen Peng, and returns to Yiling.
-- Later source-scoped presence: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]] keeps Qin Feng in the surrounding rival field.
-- Surrender handling: [[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody|Hanji 695]] says Liu Xiu kills Qin Feng but does not punish Zhu Hu for accepting Qin Feng's surrender and sending him to Luoyang.
+- Early rebel force: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Qin Feng gathers more than ten thousand people in Nanjun during Wang Mang's late crisis.
+- Liqiu rise and title: [[zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh|汉纪 674]] says Qin Feng takes counties around Liqiu and styles himself Chu Li Wang.
+- Multi-front cleanup: [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|汉纪 689-1]] lists Qin Feng among the fronts Liu Xiu is still handling.
+- Tian Rong's surrender trigger: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Tian Rong wants to submit after hearing Qin Feng has been defeated.
+- Tian Rong's reversal: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Tian Rong later rebels, joins Qin Feng, loses to Cen Peng, and returns to Yiling.
+- Later source-scoped presence: [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|汉纪 691]] keeps Qin Feng in the surrounding rival field.
+- Surrender handling: [[zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody|汉纪 695]] says Liu Xiu kills Qin Feng but does not punish Zhu Hu for accepting Qin Feng's surrender and sending him to Luoyang.
 
 ## Qualifications
 
-This page is bounded to compact source-note evidence. Hanji 659 gives a brief early Nanjun notice and uses the transcript form 秦峰, which is routed here by context but kept source-sensitive. Hanji 674 gives Qin Feng's rise and title, but exact county names, Liqiu geography, and the internal structure of his regime remain source-scoped. Hanji 689-1 and Hanji 691 use him mainly as a multi-front reference. Hanji 690 shows his importance through Tian Rong's decision environment, not through a direct Qin Feng biography. Hanji 695 gives the surrender endpoint but keeps Zhu Hu's full role, Pang Meng, Dong Xian, Taocheng, and exact campaign sequence source-scoped.
+This page is bounded to compact source-note evidence. 汉纪 659 gives a brief early Nanjun notice and uses the transcript form 秦峰, which is routed here by context but kept source-sensitive. 汉纪 674 gives Qin Feng's rise and title, but exact county names, Liqiu geography, and the internal structure of his regime remain source-scoped. 汉纪 689-1 and 汉纪 691 use him mainly as a multi-front reference. 汉纪 690 shows his importance through Tian Rong's decision environment, not through a direct Qin Feng biography. 汉纪 695 gives the surrender endpoint but keeps Zhu Hu's full role, Pang Meng, Dong Xian, Taocheng, and exact campaign sequence source-scoped.
 
 ## What Changed
 
-- Added Hanji 659 as the earliest current Nanjun rebel notice before the Hanji 674 title-claim layer.
+- Added 汉纪 659 as the earliest current Nanjun rebel notice before the 汉纪 674 title-claim layer.
 - Defined Qin Feng as a Liqiu regional claimant whose defeat affects Tian Rong and whose final handling clarifies Liu Xiu's surrender boundary.
 
 ## Relationships

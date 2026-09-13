@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》156｜兵仙韩信的封神之战（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[JingxingPass|井陉口]] battle sequence opened in [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]]. It argues that [[ChenYu|陈馀]] rejected [[LiZuoChe|李左车]]'s plan not because he was ignorant of deception, but because he wanted an open, politically legible victory and badly underestimated [[HanXin|韩信]]'s force. The battle then unfolds as a [[BackwaterBattle|背水一战]] chain: spy-confirmed enemy error, hidden red-flag cavalry, backwater deployment, feigned defeat, Zhao camp seizure, morale collapse, Chen Yu's death, and [[ZhaoXie|赵歇]]'s capture.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[JingxingPass|井陉口]] battle sequence opened in [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|汉纪 156 part 1]]. It argues that [[ChenYu|陈馀]] rejected [[LiZuoChe|李左车]]'s plan not because he was ignorant of deception, but because he wanted an open, politically legible victory and badly underestimated [[HanXin|韩信]]'s force. The battle then unfolds as a [[BackwaterBattle|背水一战]] chain: spy-confirmed enemy error, hidden red-flag cavalry, backwater deployment, feigned defeat, Zhao camp seizure, morale collapse, Chen Yu's death, and [[ZhaoXie|赵歇]]'s capture.
 
 ## Key Claims
 - Chen Yu is presented as familiar with [[SunziBingfa|《孙子兵法》]]'s deception logic, so his refusal of Li Zuoche's plan is treated as political and psychological judgment rather than simple tactical illiteracy.
@@ -44,4 +44,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 - [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]] - Chen Yu's righteous/open-victory posture as operational risk.
 
 ## Contradictions
-- No settled contradiction is recorded. This source resolves Hanji 156 part 1's source-scoped red-flag camp scene by narrating the completed battle rather than reversing the prior account.
+- No settled contradiction is recorded. This source resolves 汉纪 156 part 1's source-scoped red-flag camp scene by narrating the completed battle rather than reversing the prior account.

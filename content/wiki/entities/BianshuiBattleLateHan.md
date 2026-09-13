@@ -7,7 +7,7 @@ last_updated: 2026-08-25
 ---
 # 汴水之战 / Bianshui Battle (late Han)
 
-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] treats the Bianshui engagement as [[CaoCao|曹操]]'s first major direct military move against [[DongZhuo|董卓]]. After the anti-Dong coalition refuses to attack promptly, Cao Cao advances west with limited support from [[WeiZiLateHan|魏兹]], only to be intercepted by [[XuRongLateHan|徐荣]] near Xingyang/Bianshui and badly defeated.
+[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|汉纪 953]] treats the Bianshui engagement as [[CaoCao|曹操]]'s first major direct military move against [[DongZhuo|董卓]]. After the anti-Dong coalition refuses to attack promptly, Cao Cao advances west with limited support from [[WeiZiLateHan|魏兹]], only to be intercepted by [[XuRongLateHan|徐荣]] near Xingyang/Bianshui and badly defeated.
 
 Cao Cao is wounded by arrows and loses his horse. [[CaoHong|曹洪]] gives him his own horse and escorts him out at night, creating an early survival episode around Cao Cao's person and future political value. The episode also stresses that Xu Rong withdraws after seeing Cao Cao's small force hold out for a full day, so the defeat still signals that the Suanzao coalition might be costly to crush if it acted together.
 

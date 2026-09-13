@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Overview
 
-《寒窑赋》 / Hanyao Fu enters the wiki through [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] as a compact classical-style text about fate, timing, reversals of fortune, and conduct in poverty or success.
+《寒窑赋》 / Hanyao Fu enters the wiki through [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] as a compact classical-style text about fate, timing, reversals of fortune, and conduct in poverty or success.
 
 ## Current Profile
 
@@ -30,10 +30,10 @@ In this wiki, the text is treated as a source-scoped object rather than a verifi
 
 ## Evidence
 
-- Aphoristic text profile: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] calls the work a "传颂千古" text and builds the episode around reciting its compact lines.
-- Timing-and-condition claim: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] emphasizes the line that high ambition cannot succeed without 运 and repeats historical examples where ability does not control outcome.
-- Conduct ethic: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] highlights the admonition that prosperity should not be exhausted and poverty should not become self-deception.
-- Attribution caution: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] attributes the piece to Lyu Mengzheng but gives no textual-critical argument for the attribution.
+- Aphoristic text profile: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] calls the work a "传颂千古" text and builds the episode around reciting its compact lines.
+- Timing-and-condition claim: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] emphasizes the line that high ambition cannot succeed without 运 and repeats historical examples where ability does not control outcome.
+- Conduct ethic: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] highlights the admonition that prosperity should not be exhausted and poverty should not become self-deception.
+- Attribution caution: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] attributes the piece to Lyu Mengzheng but gives no textual-critical argument for the attribution.
 
 ## Qualifications
 
@@ -50,4 +50,4 @@ The page does not verify the work's authorship, earliest version, or exact title
 - [[FateTimingExternalConditions|时运制约命运]] - conceptual frame that the episode derives from the text.
 - [[FortuneMisfortuneReversal|塞翁失马式福祸反转]] - adjacent reversal logic broadened by the text's cyclic fortune argument.
 - [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - podcast context through which the text enters the wiki.
-- [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] - source note preserving the current episode evidence.
+- [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] - source note preserving the current episode evidence.

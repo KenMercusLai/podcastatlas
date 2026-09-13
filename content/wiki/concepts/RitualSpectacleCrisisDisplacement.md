@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] grounds the concept in [[WangMang|王莽]]'s 19 CE response to rebellion and frontier pressure. Instead of first reducing burdens or sequencing the internal crisis, Wang Mang orders an enormous calendar projection, sets a repeated era-name rhythm, issues immortality-facing language, and displays New Music in the Ming Hall and ancestral temple.
+[[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] grounds the concept in [[WangMang|王莽]]'s 19 CE response to rebellion and frontier pressure. Instead of first reducing burdens or sequencing the internal crisis, Wang Mang orders an enormous calendar projection, sets a repeated era-name rhythm, issues immortality-facing language, and displays New Music in the Ming Hall and ancestral temple.
 
 The same episode adds a technical-marvel variant. Wang Mang recruits people claiming implausible anti-Xiongnu abilities, including special river-crossing, hunger prevention, and flight-like reconnaissance techniques. He does not necessarily believe all of them, but the source says he rewards them to cultivate a reputation for valuing extraordinary talent. The concept therefore links ritual display and innovation theater as two ways of substituting spectacle for repair.
 
@@ -28,12 +28,12 @@ The same episode adds a technical-marvel variant. Wang Mang recruits people clai
 
 ## Evidence
 
-- Calendar projection: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang orders a calendar covering 36,000 years.
-- Era-name rhythm: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang sets a rule of changing era names every six years.
-- Immortality language: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says he claims he will ascend like a Yellow Emperor-style immortal ruler.
-- New Music display: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang displays Xin music in the Ming Hall and ancestral temple.
-- Implausible technical recruitment: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says he rewards people claiming unusual anti-Xiongnu techniques, even when many schemes are implausible.
-- Crisis contrast: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] places these displays alongside rebellion, Xiongnu raids, conscription, taxation, and official burden shifting.
+- Calendar projection: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says Wang Mang orders a calendar covering 36,000 years.
+- Era-name rhythm: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says Wang Mang sets a rule of changing era names every six years.
+- Immortality language: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says he claims he will ascend like a Yellow Emperor-style immortal ruler.
+- New Music display: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says Wang Mang displays Xin music in the Ming Hall and ancestral temple.
+- Implausible technical recruitment: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says he rewards people claiming unusual anti-Xiongnu techniques, even when many schemes are implausible.
+- Crisis contrast: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] places these displays alongside rebellion, Xiongnu raids, conscription, taxation, and official burden shifting.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ This concept does not say ritual, calendrics, music, or technical experimentatio
 
 ## What Changed
 
-- Created the concept from Hanji 655's calendar, era-name, immortality, music, and anti-Xiongnu marvel-recruitment sequence.
+- Created the concept from 汉纪 655's calendar, era-name, immortality, music, and anti-Xiongnu marvel-recruitment sequence.
 
 ## Related Concepts
 

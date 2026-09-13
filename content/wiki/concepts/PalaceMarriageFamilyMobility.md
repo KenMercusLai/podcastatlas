@@ -10,11 +10,11 @@ last_updated: 2026-08-30
 
 ## Definition
 
-Palace marriage family mobility / 后宫婚姻式家族跃迁 is the strategy of using a daughter's palace selection, imperial favor, and possible empress title to lift an entire family into the political status of outer relatives. In Hanji 787, the pattern is grounded in Yan Chang's preparation of Yan Ji, not in ordinary romance or abstract social mobility.
+Palace marriage family mobility / 后宫婚姻式家族跃迁 is the strategy of using a daughter's palace selection, imperial favor, and possible empress title to lift an entire family into the political status of outer relatives. In 汉纪 787, the pattern is grounded in Yan Chang's preparation of Yan Ji, not in ordinary romance or abstract social mobility.
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] creates the concept by treating [[YanChangLateHan|Yan Chang]]'s plan as deliberate family strategy. Yan Chang lacks a strong independent court base, but Yan Ji has palace-entry potential. The source says he prepares her from childhood because appearance alone will not survive the court's selection and favor environment.
+[[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]] creates the concept by treating [[YanChangLateHan|Yan Chang]]'s plan as deliberate family strategy. Yan Chang lacks a strong independent court base, but Yan Ji has palace-entry potential. The source says he prepares her from childhood because appearance alone will not survive the court's selection and favor environment.
 
 The pattern becomes political because harem success changes more than the woman's title. Once [[EmpressDowagerYanLateHan|Yan Ji]] becomes empress, Yan Chang becomes an outer relative, and the family enters a field later occupied by Yan brothers, Yan Taihou, and the succession fight over [[EmperorShunOfHan|Liu Bao]]. The source also stresses the difficulty of the route: Eastern Han empress-making normally favors powerful founding families, and Yan Ji rises while [[EmpressDowagerDengLateHan|Empress Dowager Deng]] rather than Emperor An alone holds the real political center.
 
@@ -30,11 +30,11 @@ The concept should therefore be read as a pre-power mechanism. It explains how a
 
 ## Evidence
 
-- Family strategy: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] says Yan Chang deliberately prepares Yan Ji for palace selection because his own official base is weak.
-- Beyond beauty: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] says Yan Chang understands that appearance alone is not enough and therefore trains Yan Ji from childhood.
-- Political approval stack: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] says Yan Ji must win Emperor An's favor while Empress Dowager Deng still holds real authority.
-- Great-family barrier: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] says Eastern Han empresses usually come from powerful founding-merit families, making Yan Ji's rise exceptional.
-- Outer-relative conversion: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] says Yan Chang becomes an outer relative after Yan Ji is made empress.
+- Family strategy: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]] says Yan Chang deliberately prepares Yan Ji for palace selection because his own official base is weak.
+- Beyond beauty: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]] says Yan Chang understands that appearance alone is not enough and therefore trains Yan Ji from childhood.
+- Political approval stack: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]] says Yan Ji must win Emperor An's favor while Empress Dowager Deng still holds real authority.
+- Great-family barrier: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]] says Eastern Han empresses usually come from powerful founding-merit families, making Yan Ji's rise exceptional.
+- Outer-relative conversion: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]] says Yan Chang becomes an outer relative after Yan Ji is made empress.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ This concept is currently grounded in one podcast source and should not be gener
 
 ## What Changed
 
-- Created the concept from Hanji 787's Yan Chang and Yan Ji origin layer.
+- Created the concept from 汉纪 787's Yan Chang and Yan Ji origin layer.
 
 ## Related Concepts
 
@@ -51,4 +51,4 @@ This concept is currently grounded in one podcast source and should not be gener
 - [[PrincessMarriagePowerAsymmetry|公主婚姻权力失衡]] - related royal-marriage pattern where rank and court proximity reshape household power.
 - [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - surrounding Deng-regency environment in which Yan Ji's approval path unfolds.
 - [[ControllableChildAccession|可控幼主继位]] - downstream succession incentive once empress status can become dowager power around a young ruler.
-- [[RelationshipSelectionAgency|择人与环境选择]] - broader relationship-choice frame that Hanji 787's modern opening uses as contrast.
+- [[RelationshipSelectionAgency|择人与环境选择]] - broader relationship-choice frame that 汉纪 787's modern opening uses as contrast.

@@ -18,7 +18,7 @@ last_updated: 2026-08-30
 钟繇 / Zhong Yao is a Cao-side official whose wiki profile now runs from Chang'an court persuasion to Guanzhong/Hedong stabilization. Across the source notes, he is strongest where appointment legitimacy, elite persuasion, regional interest-reading, and battlefield timing have to be combined under late-Han fragmentation.
 
 ## Current Profile
-Hanji 968 and Hanji 969 first show Zhong Yao persuading [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] not to block [[CaoCao|曹操]]'s formal appointment, turning court access into usable legitimacy for the eastern power field. Hanji 976 places him inside [[XunYu|荀彧]]'s broader talent-referral chain, while Hanji 1015 makes him the official Xun Yu recommends for stabilizing [[GuanzhongRegion|关中]] from [[ChangAnHanCapital|长安]]. Hanji 1057 adds the operational payoff: Zhong Yao calms [[MaTeng|马腾]], refuses to abandon [[PingyangDefenseLateHan|平阳]], predicts [[GuoYuanLateHan|郭元]]'s overconfidence, and defeats Guo Yuan when the attacking force is vulnerable during a Fen River crossing.
+汉纪 968 and 汉纪 969 first show Zhong Yao persuading [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] not to block [[CaoCao|曹操]]'s formal appointment, turning court access into usable legitimacy for the eastern power field. 汉纪 976 places him inside [[XunYu|荀彧]]'s broader talent-referral chain, while 汉纪 1015 makes him the official Xun Yu recommends for stabilizing [[GuanzhongRegion|关中]] from [[ChangAnHanCapital|长安]]. 汉纪 1057 adds the operational payoff: Zhong Yao calms [[MaTeng|马腾]], refuses to abandon [[PingyangDefenseLateHan|平阳]], predicts [[GuoYuanLateHan|郭元]]'s overconfidence, and defeats Guo Yuan when the attacking force is vulnerable during a Fen River crossing.
 
 ## Key Characteristics
 - Legitimacy broker who helps release Cao Cao's court appointment through persuasion inside the Li Jue/Guo Si-controlled Chang'an court.
@@ -28,19 +28,19 @@ Hanji 968 and Hanji 969 first show Zhong Yao persuading [[LiJueLateHan|李傕]] 
 - Public-duty figure whose response to Guo Yuan's death subordinates kinship to the court-rebellion frame.
 
 ## Evidence
-- Court-legitimacy persuasion: [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] and [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] show Zhong Yao arguing that Cao Cao should not be rejected by the Chang'an authorities and helping turn formal recognition into Cao-side legitimacy.
-- Talent-network position: [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] includes Zhong Yao in Xun Yu's recommendation chain, using him as part of a durable adviser-state architecture rather than a standalone anecdote.
-- Guanzhong stabilization: [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|Hanji 1015]] says Xun Yu recommends Zhong Yao for Guanzhong, where letters from Chang'an make submission to Cao Cao's court side look safer than Yuan-family alignment.
-- Pingyang command judgment: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|Hanji 1057]] says Zhong Yao refuses withdrawal from Pingyang because Guo Yuan is proud and careless, then exploits the incomplete Fen River crossing to defeat him.
-- Kinship and public duty: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|Hanji 1057]] records Zhong Yao answering Pang De's apology by treating Guo Yuan as a state enemy despite the nephew relationship.
+- Court-legitimacy persuasion: [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|汉纪 968]] and [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|汉纪 969]] show Zhong Yao arguing that Cao Cao should not be rejected by the Chang'an authorities and helping turn formal recognition into Cao-side legitimacy.
+- Talent-network position: [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|汉纪 976]] includes Zhong Yao in Xun Yu's recommendation chain, using him as part of a durable adviser-state architecture rather than a standalone anecdote.
+- Guanzhong stabilization: [[zizhi-tongjian-hanji-1015-sanguo-luanshi-weishenme-yuanshu-gan-chengdi-lim0jemkwyjcesj2nvsr3jndhxfk|汉纪 1015]] says Xun Yu recommends Zhong Yao for Guanzhong, where letters from Chang'an make submission to Cao Cao's court side look safer than Yuan-family alignment.
+- Pingyang command judgment: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|汉纪 1057]] says Zhong Yao refuses withdrawal from Pingyang because Guo Yuan is proud and careless, then exploits the incomplete Fen River crossing to defeat him.
+- Kinship and public duty: [[zizhi-tongjian-hanji-1057-da-bu-liao-zhang-de-jiangjun-bushi-youxiu-de-shufajia-ljhy16leevjd8i-7vmuxtqm96ytg|汉纪 1057]] records Zhong Yao answering Pang De's apology by treating Guo Yuan as a state enemy despite the nephew relationship.
 
 ## Qualifications
-The earlier sources emphasize persuasion and appointment legitimacy more than direct command. Hanji 1057 adds a successful battle, but its assessment of Guo Yuan's pride, the exact troop scale, and some minor officer details remain source-scoped. Zhong Yao's later cultural reputation as a calligrapher is not developed by these source notes beyond the episode title's contrast.
+The earlier sources emphasize persuasion and appointment legitimacy more than direct command. 汉纪 1057 adds a successful battle, but its assessment of Guo Yuan's pride, the exact troop scale, and some minor officer details remain source-scoped. Zhong Yao's later cultural reputation as a calligrapher is not developed by these source notes beyond the episode title's contrast.
 
 ## What Changed
 - Recast Zhong Yao from a paragraph-style legacy page into the synthesis-v1 entity schema.
-- Added Hanji 1057's Pingyang defense, Guo Yuan kinship aftermath, and half-crossing strike to the current profile.
-- Strengthened the continuity between Hanji 1015's Guanzhong persuasion and Hanji 1057's battlefield result.
+- Added 汉纪 1057's Pingyang defense, Guo Yuan kinship aftermath, and half-crossing strike to the current profile.
+- Strengthened the continuity between 汉纪 1015's Guanzhong persuasion and 汉纪 1057's battlefield result.
 
 ## Relationships
 - [[CaoCao|曹操]] - patron whose appointment legitimacy and western rear stability Zhong Yao supports.

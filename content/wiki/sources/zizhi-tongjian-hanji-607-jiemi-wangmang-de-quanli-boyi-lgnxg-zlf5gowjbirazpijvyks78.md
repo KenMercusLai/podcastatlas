@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the opening 1 CE [[HanPingdi|汉平帝]] regency environment before [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]]. It follows Pingdi's child accession under [[WangZhengjun|王政君]], [[WangMang|王莽]]'s control as Da Sima, personnel placement around the young emperor, Han Aidi's burial, and the staged Yuechang white-pheasant tribute.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the opening 1 CE [[HanPingdi|汉平帝]] regency environment before [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|汉纪 610-1]]. It follows Pingdi's child accession under [[WangZhengjun|王政君]], [[WangMang|王莽]]'s control as Da Sima, personnel placement around the young emperor, Han Aidi's burial, and the staged Yuechang white-pheasant tribute.
 
 The durable synthesis is that Wang Mang's early power politics depended on symbolic theater as much as office control. By invoking the [[ZhouGong|Duke of Zhou]] white-pheasant precedent, presenting distant tribute as a repeated sage-era event, and letting ministers call for the "Anhan Gong" title and added fief households, Wang Mang turned [[AuspiciousOmenPolitics|auspicious omen politics]], [[ClassicCitationLegitimationCapture|classic citation]], and [[CoercedPraiseConformityRisk|court praise]] into a status-expansion mechanism.
 
@@ -46,5 +46,5 @@ The durable synthesis is that Wang Mang's early power politics depended on symbo
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 1 CE before Hanji 610-1's outer-relative safeguard memorial, Hanji 611's yellow-dragon skepticism case, and Hanji 612's disaster-relief image-management layer.
+- Chronology qualification: this source backfills 1 CE before 汉纪 610-1's outer-relative safeguard memorial, 汉纪 611's yellow-dragon skepticism case, and 汉纪 612's disaster-relief image-management layer.
 - Scope caution: the unnamed fearful senior official, exact local instructions to Yizhou, Yuechang geography, translator-chain details, the bird identities, ministerial coordination, and Wang Zhengjun's inner belief remain source-scoped.

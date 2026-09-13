@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 151-152 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]]. It opens with a source-scoped warning about greed and then uses [[LiangJiLateHan|梁冀]] to show how extraordinary reward, palace privilege, and political access can still leave a powerholder dissatisfied when reward is detached from public merit.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 151-152 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]]. It opens with a source-scoped warning about greed and then uses [[LiangJiLateHan|梁冀]] to show how extraordinary reward, palace privilege, and political access can still leave a powerholder dissatisfied when reward is detached from public merit.
 
 The second half follows the Western Regions incident in which [[JumiKingChengguoLateHan|居弥王成国]] accuses [[KhotanKingJianLateHan|于阗王建]] of arranging Zhao Ping's death, [[WangJingXiyuLateHan|王敬]] treats the charge as a chance for merit, and a banquet killing destabilizes [[KhotanKingdomLateHan|于阗国]]. [[ShuboKhotanLateHan|输僰]] kills Wang Jing and briefly seizes kingship before the Khotanese kill him and install [[AnGuoKhotanLateHan|安国]], making the incident a compact case of [[RumorDrivenFrontierIntervention|谣言驱动的边疆干预]].
 
@@ -49,7 +49,7 @@ The second half follows the Western Regions incident in which [[JumiKingChengguo
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The source backfills the 151-152 CE layer before Hanji 839 and before the already-ingested 158-159 CE anti-Liang sequence.
+- No settled contradiction with existing wiki pages was found. The source backfills the 151-152 CE layer before 汉纪 839 and before the already-ingested 158-159 CE anti-Liang sequence.
 - Chronology caution: this source makes Liang Ji's reward appetite and Huan's reward-decision weakness visible before the later pages on Liang's crime record, household crisis, and liquidation.
 - Scope caution: Hu Guang, Yang Pu, Zhao Dian, Bian Shao, Zhao Ping, Ma Da, Song Liang, Qin Mu, Xiaochong Empress, Pingyuan Wang Liu Shi, and Zhao Jie are kept source-scoped unless later notes require independent canonical pages or stronger disambiguation.
 - Identity caution: the Khotan general 输僰 is routed to [[ShuboKhotanLateHan|输僰 / Shubo (Khotan, late Han)]] because [[Shubo]] already names an unrelated AI-founder page.

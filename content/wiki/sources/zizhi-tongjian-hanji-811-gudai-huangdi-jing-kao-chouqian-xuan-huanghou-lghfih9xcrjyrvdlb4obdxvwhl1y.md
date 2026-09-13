@@ -13,7 +13,7 @@ last_updated: 2026-08-29
 # 《资治通鉴·汉纪》811丨古代皇帝竟靠抽签选皇后？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 132 CE layer of [[EmperorShunOfHan|汉顺帝]]'s reign immediately before [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|Hanji 812]]. It centers on ministers blocking a lottery-based empress selection, [[EmpressDowagerLiangNaLateHan|梁妠]] being elevated through a virtue-and-deference narrative, and [[LiangShangLateHan|梁商]] receiving status through his daughter's appointment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 132 CE layer of [[EmperorShunOfHan|汉顺帝]]'s reign immediately before [[zizhi-tongjian-hanji-812-guren-40-sui-caineng-dangguan-lordzuaqhzghyd93tpm0fql1cigv|汉纪 812]]. It centers on ministers blocking a lottery-based empress selection, [[EmpressDowagerLiangNaLateHan|梁妠]] being elevated through a virtue-and-deference narrative, and [[LiangShangLateHan|梁商]] receiving status through his daughter's appointment.
 
 The second half turns to [[ZuoXiongLateHan|左雄]]'s personnel reform agenda: stabilize good local officials, punish lawless and absconding officials beyond ordinary amnesty, reduce grassroots extraction, and test Xiaolian candidates by age and administrative competence. The episode frames these measures as an early Shun-era attempt to repair appointment quality, inspection truth, and local administrative capacity.
 
@@ -52,5 +52,5 @@ The second half turns to [[ZuoXiongLateHan|左雄]]'s personnel reform agenda: s
 - [[Xianbei]] — Xianbei losses and counterattacks frame the frontier military background.
 
 ## Contradictions
-- No settled contradiction with existing pages was identified. The episode instead backfills an earlier 132 CE layer before Hanji 812's Xiaolian examination controversy.
+- No settled contradiction with existing pages was identified. The episode instead backfills an earlier 132 CE layer before 汉纪 812's Xiaolian examination controversy.
 - Guo Qian, Geng Ye, Wulv city, Zhang He's Yangzhou uprising, and the opening relationship-advice frame remain source-scoped until supported by additional notes.

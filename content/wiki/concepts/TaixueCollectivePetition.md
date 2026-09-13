@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-Hanji 839 supplies the current source case. After [[ZhuMuLateHan|朱穆]] investigates [[ZhaoZhongLateHan|赵忠]]'s father's illicit burial privilege and is sentenced, [[LiuTaoLateHan|刘陶 / 刘桃]] leads thousands of [[Taixue|太学]] students to petition at the palace gate. Their argument defends Zhu as a public-minded official and expands the case into a broader accusation about eunuch relatives, local oppression, and damaged law.
+汉纪 839 supplies the current source case. After [[ZhuMuLateHan|朱穆]] investigates [[ZhaoZhongLateHan|赵忠]]'s father's illicit burial privilege and is sentenced, [[LiuTaoLateHan|刘陶 / 刘桃]] leads thousands of [[Taixue|太学]] students to petition at the palace gate. Their argument defends Zhu as a public-minded official and expands the case into a broader accusation about eunuch relatives, local oppression, and damaged law.
 
 The petition succeeds only within a narrow frame. [[EmperorHuanOfHan|汉桓帝]] is moved enough to pardon Zhu, but the source does not show durable institutional repair. The concept therefore names a pressure channel between private remonstrance and formal policy: student collectivity can make injustice visible, yet it still depends on the ruler's willingness to translate shame or sympathy into action.
 
@@ -28,18 +28,18 @@ The petition succeeds only within a narrow frame. [[EmperorHuanOfHan|汉桓帝]]
 
 ## Evidence
 
-- Collective action: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Liu Tao leads thousands of Taixue students to the palace gate for Zhu Mu.
-- Argument structure: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says the petition defends Zhu's fairness while accusing eunuch relatives of oppressing commoners and distorting law.
-- Risk posture: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says petitioners offer to accept tattooing and shackles in Zhu's place.
-- Narrow success: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Huan eventually pardons Zhu after many people intercede.
+- Collective action: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says Liu Tao leads thousands of Taixue students to the palace gate for Zhu Mu.
+- Argument structure: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says the petition defends Zhu's fairness while accusing eunuch relatives of oppressing commoners and distorting law.
+- Risk posture: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says petitioners offer to accept tattooing and shackles in Zhu's place.
+- Narrow success: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says Huan eventually pardons Zhu after many people intercede.
 
 ## Counterevidence & Qualifications
 
-Hanji 839 does not show Taixue replacing official channels or forcing systemic repair. The petition succeeds because the ruler is moved in this case; later Taixue and qingyi material may show public opinion becoming politically exposed or targetable. The concept should therefore remain a bounded pressure mechanism, not a guaranteed reform tool.
+汉纪 839 does not show Taixue replacing official channels or forcing systemic repair. The petition succeeds because the ruler is moved in this case; later Taixue and qingyi material may show public opinion becoming politically exposed or targetable. The concept should therefore remain a bounded pressure mechanism, not a guaranteed reform tool.
 
 ## What Changed
 
-- Created the concept from Hanji 839's Zhu Mu petition branch.
+- Created the concept from 汉纪 839's Zhu Mu petition branch.
 - Added Taixue as a political-feedback actor before later Hongdu and qingyi source layers.
 
 ## Related Concepts

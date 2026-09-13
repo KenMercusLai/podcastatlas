@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Empress Wei enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as a late Tang court power actor tied to [[ShangguanWaner|上官婉儿]] and [[WuSansi|武三思]]. The episode presents her less as an independent biography than as the factional pole that first protects Shangguan Wan'er and later becomes too dangerous to rely on.
+Empress Wei enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as a late Tang court power actor tied to [[ShangguanWaner|上官婉儿]] and [[WuSansi|武三思]]. The episode presents her less as an independent biography than as the factional pole that first protects Shangguan Wan'er and later becomes too dangerous to rely on.
 
 ## Current Profile
 
@@ -26,10 +26,10 @@ The episode says Shangguan Wan'er recommended Wu Sansi to Empress Wei, creating 
 
 ## Evidence
 
-- Alliance formation: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er recommended Wu Sansi to Empress Wei and that the three formed an alliance.
-- Political effect: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Wu Sansi used Shangguan Wan'er and Empress Wei's support to remove Zhang Jianzhi and others.
-- Post-710 dominance: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Empress Wei controlled power through personnel moves after Zhongzong's death.
-- Fragile faction: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er judged the Wei group weaker than it looked and drafted a self-protective edict including Li Dan.
+- Alliance formation: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er recommended Wu Sansi to Empress Wei and that the three formed an alliance.
+- Political effect: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Wu Sansi used Shangguan Wan'er and Empress Wei's support to remove Zhang Jianzhi and others.
+- Post-710 dominance: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Empress Wei controlled power through personnel moves after Zhongzong's death.
+- Fragile faction: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er judged the Wei group weaker than it looked and drafted a self-protective edict including Li Dan.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page does not settle Empress Wei's full biography, her responsibility for Z
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as the Wei-faction pole in Shangguan Wan'er's late survival strategy.
+- Created the page from 汉纪 536-3 as the Wei-faction pole in Shangguan Wan'er's late survival strategy.
 
 ## Relationships
 

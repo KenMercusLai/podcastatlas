@@ -16,7 +16,7 @@ Imperial petition offense risk / 申冤上书冒犯风险 is the court-politics 
 
 ## Current Synthesis
 
-The concept enters through [[KouRongLateHan|寇荣]] in [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]]. Kou Rong's practical problem is real: he is accused, removed, pursued, unable to get a clean hearing, and not rescued by amnesty. His memorial therefore tries to move from personal grievance to public adjudication by asking that the charge be made clear and reviewed by high officials.
+The concept enters through [[KouRongLateHan|寇荣]] in [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]]. Kou Rong's practical problem is real: he is accused, removed, pursued, unable to get a clean hearing, and not rescued by amnesty. His memorial therefore tries to move from personal grievance to public adjudication by asking that the charge be made clear and reviewed by high officials.
 
 The danger is that the same memorial carries analogies and resentment that Huan can read as an attack on imperial judgment. The petition compares Kou Rong's situation to figures such as [[WuZixu|伍子胥]] and [[JiBu|季布]], which makes the appeal stronger as moral self-defense but more dangerous as ruler-facing speech. The concept captures that double bind: the more forcefully the petitioner proves injustice, the easier it becomes for the sovereign to hear accusation rather than correction.
 
@@ -30,11 +30,11 @@ The danger is that the same memorial carries analogies and resentment that Huan 
 
 ## Evidence
 
-- Blocked access: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Kou Rong tries to go to Luoyang for palace-gate self-defense but is stopped and further impeached.
-- Unresolved accusation: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says multiple amnesties and ransom options do not clear him because no accepted proof of innocence reaches the court.
-- Public review request: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Kou Rong asks that any real crime be publicly specified and that senior officials review the injustice.
-- Offensive analogy: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Huan reads the memorial's Wu Zixu and Ji Bu comparisons as implying that the emperor is acting wrongly.
-- Fatal outcome: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Huan's anger after reading the memorial leads to Kou Rong's execution and the decline of his family.
+- Blocked access: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] says Kou Rong tries to go to Luoyang for palace-gate self-defense but is stopped and further impeached.
+- Unresolved accusation: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] says multiple amnesties and ransom options do not clear him because no accepted proof of innocence reaches the court.
+- Public review request: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] says Kou Rong asks that any real crime be publicly specified and that senior officials review the injustice.
+- Offensive analogy: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] says Huan reads the memorial's Wu Zixu and Ji Bu comparisons as implying that the emperor is acting wrongly.
+- Fatal outcome: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] says Huan's anger after reading the memorial leads to Kou Rong's execution and the decline of his family.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The concept does not say that all blunt petitions fail or that the legal content
 
 ## What Changed
 
-- Created the concept from Kou Rong's Hanji 864 memorial to distinguish failed self-vindication from successful death-facing remonstrance or coded advice.
+- Created the concept from Kou Rong's 汉纪 864 memorial to distinguish failed self-vindication from successful death-facing remonstrance or coded advice.
 
 ## Related Concepts
 

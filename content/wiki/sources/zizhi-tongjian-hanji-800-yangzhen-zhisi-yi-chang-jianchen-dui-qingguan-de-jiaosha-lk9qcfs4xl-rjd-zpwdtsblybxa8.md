@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 124 CE immediately before [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]]. It opens with source-scoped advice about altruism and inner turmoil, then records [[BanYongLateHan|班勇]] using diplomacy, pressure, and allied troops to restore Han leverage around Loulan, Qiuci, and Cheshi Qian.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 124 CE immediately before [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]]. It opens with source-scoped advice about altruism and inner turmoil, then records [[BanYongLateHan|班勇]] using diplomacy, pressure, and allied troops to restore Han leverage around Loulan, Qiuci, and Cheshi Qian.
 
 The main source contribution is [[YangZhenLateHan|杨震]]'s death under [[EmperorAnOfHan|汉安帝]]. [[FanFengEunuchLateHan|樊丰]], [[ZhouGuangLateHan|周广]], and [[XieYunLateHan|谢恽]] forge imperial instructions to use state grain, funds, and labor for private mansions; Yang Zhen attacks the abuse through disaster-remonstrance and evidence gathering, but the court turns the case against him. The durable synthesis is that Emperor An-era feedback is captured enough that public correction, omen-coded warning, and documentary evidence can be recoded as resentment and disloyalty, leaving moral reputation unable to protect Yang Zhen until Shun's later posthumous repair.
 
@@ -47,10 +47,10 @@ The main source contribution is [[YangZhenLateHan|杨震]]'s death under [[Emper
 - [[ZhaoTengLateHan|赵腾]], [[DirectRemonstranceCriminalization|直谏入罪]], [[OmenCodedRemonstrance|天象灾异包装式进谏]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - direct criticism, rescue speech, and disaster warning all fail under Emperor An.
 - [[GengBaoGrandGeneralLateHan|耿宝]] and [[LaiLiLateHan|来历]] - Geng Bao becomes the formal accuser against Yang Zhen, while Lai Li supplies the later elite rebuke.
 - [[BanYongLateHan|班勇]], [[Xiongnu|匈奴]], and [[ShuleKingdom|疏勒]] - the opening frontier notice adds a pre-Hanji-803 Western Regions layer.
-- [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]], [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]], and [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] - downstream notes that continue Emperor An's heir crisis, the Yan-side succession purge, and Yang Zhen's vindication.
+- [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]], [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|汉纪 802]], and [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] - downstream notes that continue Emperor An's heir crisis, the Yan-side succession purge, and Yang Zhen's vindication.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source explains why Hanji 805 needs to record Yang Zhen's posthumous vindication after Shun's restoration.
-- Chronology refinement: Hanji 800 places Geng Bao as dahonglu in the Yang Zhen crisis before the later Hanji 801 and Hanji 802 profile emphasizes his Grand General status.
+- No settled contradiction with existing wiki pages was found. This source explains why 汉纪 805 needs to record Yang Zhen's posthumous vindication after Shun's restoration.
+- Chronology refinement: 汉纪 800 places Geng Bao as dahonglu in the Yang Zhen crisis before the later 汉纪 801 and 汉纪 802 profile emphasizes his Grand General status.
 - Scope caution: Shanshan, Qiuci king Bai Ying, Gumo, Wensu, Cheshi Qian, Yihe Valley, the Xiongnu Yili king, Yi Liang, Feng Shi / 冯石, Gaomeng, Yang Zhen's sons, and the opening self-cultivation advice remain source-scoped unless later notes require standalone pages.

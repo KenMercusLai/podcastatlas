@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 冯敬 / Feng Jing (Chu-Han)
 
-冯敬 / Feng Jing enters the wiki through [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] as [[WeiBao|魏豹]]'s cavalry commander during the Han attack on West Wei. [[LiShiqi|郦食其]] names him when [[LiuBang|刘邦]] asks who commands Wei's mounted forces.
+冯敬 / Feng Jing enters the wiki through [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|汉纪 155-2]] as [[WeiBao|魏豹]]'s cavalry commander during the Han attack on West Wei. [[LiShiqi|郦食其]] names him when [[LiuBang|刘邦]] asks who commands Wei's mounted forces.
 
 The host treats Feng Jing as a possible sign of [[XiangYu|项羽]]-side military support for Wei Bao, speculating that he may belong to the group of former Qin cavalry specialists left behind to organize mounted forces. The wiki keeps that as source-scoped interpretation rather than settled identification.
 

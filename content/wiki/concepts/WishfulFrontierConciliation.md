@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 767 abstracts the concept from [[NieShangLateHan|Nie Shang]]'s failure after [[DengXunEasternHan|Deng Xun]] dies. Nie tries a soft approach toward [[MiTangQiangLeader|Mi Tang]], receives Mi Tang's grandmother Bi Que, and then sends her back with an escort. Mi Tang soon rebels again, kills the escort party, and attacks Jincheng.
+汉纪 767 abstracts the concept from [[NieShangLateHan|Nie Shang]]'s failure after [[DengXunEasternHan|Deng Xun]] dies. Nie tries a soft approach toward [[MiTangQiangLeader|Mi Tang]], receives Mi Tang's grandmother Bi Que, and then sends her back with an escort. Mi Tang soon rebels again, kills the escort party, and attacks Jincheng.
 
 The concept does not say that conciliation is inherently bad. The contrast with Deng Xun points in the opposite direction: Deng's local legitimacy makes non-coercive governance plausible because it appears to rest on accumulated trust. Nie's mistake is trying to copy the posture without first securing the underlying credibility, information, and leverage.
 
@@ -28,10 +28,10 @@ The concept does not say that conciliation is inherently bad. The contrast with 
 
 ## Evidence
 
-- Successor setting: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Nie Shang succeeds Deng Xun and plans a conciliatory approach to Qiang groups.
-- Goodwill exchange: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Mi Tang sends his grandmother Bi Que and Nie personally escorts her outward before sending Tian Si and five others to return her.
-- Failure: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Mi Tang rebels again, kills the escort party, attacks Jincheng, and causes Nie's dismissal.
-- Diagnostic contrast: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] juxtaposes Deng Xun's deep mourning and local shrines with Nie Shang's failed attempt, supporting the trust-depth distinction.
+- Successor setting: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Nie Shang succeeds Deng Xun and plans a conciliatory approach to Qiang groups.
+- Goodwill exchange: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Mi Tang sends his grandmother Bi Que and Nie personally escorts her outward before sending Tian Si and five others to return her.
+- Failure: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Mi Tang rebels again, kills the escort party, attacks Jincheng, and causes Nie's dismissal.
+- Diagnostic contrast: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] juxtaposes Deng Xun's deep mourning and local shrines with Nie Shang's failed attempt, supporting the trust-depth distinction.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The source gives a strong host judgment about Nie Shang's motives, including imp
 
 ## What Changed
 
-- Created the concept from Hanji 767's Nie Shang-Mi Tang failure.
+- Created the concept from 汉纪 767's Nie Shang-Mi Tang failure.
 - Distinguished failed wishful conciliation from grounded pacification and light-touch governance.
 
 ## Related Concepts

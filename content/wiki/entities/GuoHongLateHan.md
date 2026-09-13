@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Guo Hong is a Huan-era frontier official introduced in Hanji 855 as the Liangzhou inspector whose desire to share military credit obstructs [[DuanJiongLateHan|段熲]] during a Qiang campaign.
+Guo Hong is a Huan-era frontier official introduced in 汉纪 855 as the Liangzhou inspector whose desire to share military credit obstructs [[DuanJiongLateHan|段熲]] during a Qiang campaign.
 
 ## Current Profile
 
@@ -30,9 +30,9 @@ The episode then turns Guo Hong's obstruction into a command-failure case. Hu so
 
 ## Evidence
 
-- Frontier office and setting: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] places Guo Hong as Liangzhou inspector during attacks by Xianling, Shendi, and other Qiang groups.
-- Merit-seeking obstruction: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] says Guo Hong wants to share military credit and sets obstacles that delay Duan Jiong's army.
-- Scapegoating consequence: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] says Guo Hong blames Duan after the campaign breaks down, leading to Duan's recall, imprisonment, and hard-labor punishment.
+- Frontier office and setting: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] places Guo Hong as Liangzhou inspector during attacks by Xianling, Shendi, and other Qiang groups.
+- Merit-seeking obstruction: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] says Guo Hong wants to share military credit and sets obstacles that delay Duan Jiong's army.
+- Scapegoating consequence: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] says Guo Hong blames Duan after the campaign breaks down, leading to Duan's recall, imprisonment, and hard-labor punishment.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ This page is not a full biography of Guo Hong. It preserves the episode's bounde
 
 ## What Changed
 
-- Created the page from Hanji 855's Qiang-front obstruction and blame-shifting account.
+- Created the page from 汉纪 855's Qiang-front obstruction and blame-shifting account.
 
 ## Relationships
 

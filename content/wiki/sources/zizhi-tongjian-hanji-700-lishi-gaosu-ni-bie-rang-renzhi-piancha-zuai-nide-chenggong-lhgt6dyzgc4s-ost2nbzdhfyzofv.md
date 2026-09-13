@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu transition after the eastern theater is pacified and before [[WeiXiaoEasternHan|隗嚣]]'s open break in [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|Hanji 701]]. [[LiuXiu|光武帝刘秀]] lets exhausted commanders rest at Luoyang while sending letters to Wei Xiao and [[GongsunShuEasternHan|公孙述]], rejecting Gongsun Shu's fuming self-authorization and pressing both western rivals to recognize the danger of delay.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu transition after the eastern theater is pacified and before [[WeiXiaoEasternHan|隗嚣]]'s open break in [[zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q|汉纪 701]]. [[LiuXiu|光武帝刘秀]] lets exhausted commanders rest at Luoyang while sending letters to Wei Xiao and [[GongsunShuEasternHan|公孙述]], rejecting Gongsun Shu's fuming self-authorization and pressing both western rivals to recognize the danger of delay.
 
 The main case is Gongsun Shu's failure to turn a temporary opportunity into action. [[JingHanEasternHan|荆邯]] urges him to strike before Liu Xiu finishes unification, but Gongsun Shu retreats from the plan after opposition inside Shu, while iron money, micro-management, ceremonial display, and family-first rewards expose a wider [[RulerScalePathDependence|统治者尺度错配型路径依赖]] problem.
 
@@ -51,4 +51,4 @@ The main case is Gongsun Shu's failure to turn a temporary opportunity into acti
 - No settled contradiction with existing wiki pages was found.
 - Identity caution: the episode's 田戎 is not linked to the existing Tian Rong / 田荣 page because this source describes a Gongsun Shu-side commander, not the earlier Qi figure.
 - Scope caution: Wu Zhu, Gongsun Guang, Gongsun Shu's two sons, Tian Rong, the Shu generals, and the closing company case remain source-scoped unless later notes require canonical pages.
-- Chronology qualification: this source fills the Hanji 700 layer between Hanji 699's western-origin backfill and Hanji 701's open Wei Xiao rebellion.
+- Chronology qualification: this source fills the 汉纪 700 layer between 汉纪 699's western-origin backfill and 汉纪 701's open Wei Xiao rebellion.

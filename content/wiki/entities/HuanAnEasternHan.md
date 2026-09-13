@@ -10,7 +10,7 @@ last_updated: 2026-09-01
 
 ## Overview
 
-环安 / Huan An is a Gongsun Shu-side commander whose current wiki evidence comes from [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]]. He matters because the source makes him the named strategist behind the assassination of [[LaiXiEasternHan|来歙]]: after seeing that Lai Xi is hard to defeat in direct fighting, he proposes killing the Han commander and stirring Qiang rebellion to break Han morale and stretch the western front.
+环安 / Huan An is a Gongsun Shu-side commander whose current wiki evidence comes from [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|汉纪 710]]. He matters because the source makes him the named strategist behind the assassination of [[LaiXiEasternHan|来歙]]: after seeing that Lai Xi is hard to defeat in direct fighting, he proposes killing the Han commander and stirring Qiang rebellion to break Han morale and stretch the western front.
 
 ## Current Profile
 
@@ -30,18 +30,18 @@ The plan partially works but not completely. An assassin enters the Han camp at 
 
 ## Evidence
 
-- Defensive setting: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] says Wang Yuan and Huan An resist at Hechi before Lai Xi and Gai Yan defeat them and take Xiabian.
-- Assassination proposal: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] says Huan An judges Lai Xi too formidable and advises Gongsun Shu to use an assassin against him.
-- Qiang-agitation plan: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] also has Huan An propose encouraging Qiang revolt in the western field.
-- Partial effect: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] reports that an assassin wounds Lai Xi, but Lai Xi still preserves command continuity before death.
+- Defensive setting: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|汉纪 710]] says Wang Yuan and Huan An resist at Hechi before Lai Xi and Gai Yan defeat them and take Xiabian.
+- Assassination proposal: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|汉纪 710]] says Huan An judges Lai Xi too formidable and advises Gongsun Shu to use an assassin against him.
+- Qiang-agitation plan: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|汉纪 710]] also has Huan An propose encouraging Qiang revolt in the western field.
+- Partial effect: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|汉纪 710]] reports that an assassin wounds Lai Xi, but Lai Xi still preserves command continuity before death.
 
 ## Qualifications
 
-The page is source-bounded to Hanji 710. The source does not name the assassin, does not give Huan An's earlier career, and does not show whether the proposed Qiang agitation fully succeeds. Wang Yuan and Gai Yan remain source-scoped in this page because the episode does not develop them enough to require new canonical nodes.
+The page is source-bounded to 汉纪 710. The source does not name the assassin, does not give Huan An's earlier career, and does not show whether the proposed Qiang agitation fully succeeds. Wang Yuan and Gai Yan remain source-scoped in this page because the episode does not develop them enough to require new canonical nodes.
 
 ## What Changed
 
-- Created the page from Hanji 710 as the Gongsun Shu-side planner behind Lai Xi's assassination and the proposed Qiang agitation.
+- Created the page from 汉纪 710 as the Gongsun Shu-side planner behind Lai Xi's assassination and the proposed Qiang agitation.
 
 ## Relationships
 

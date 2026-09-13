@@ -17,7 +17,7 @@ Tian Yan is a late-Han military figure whose current wiki evidence places him fi
 
 ## Current Profile
 
-Tian Yan's profile now has a contrast across two frontier settings. In Hanji 891, he appears as a cavalry officer under [[DuanJiongLateHan|段熲]], helping execute a surprise and night-movement plan against the [[DongqiangLateHan|东羌]]. In Hanji 909, he seeks command through [[WangFuLateHan|王甫]]'s palace access and becomes part of a disastrous deep expedition against [[Xianbei|鲜卑]] despite [[CaiYong|蔡邕]]'s warning.
+Tian Yan's profile now has a contrast across two frontier settings. In 汉纪 891, he appears as a cavalry officer under [[DuanJiongLateHan|段熲]], helping execute a surprise and night-movement plan against the [[DongqiangLateHan|东羌]]. In 汉纪 909, he seeks command through [[WangFuLateHan|王甫]]'s palace access and becomes part of a disastrous deep expedition against [[Xianbei|鲜卑]] despite [[CaiYong|蔡邕]]'s warning.
 
 The combined evidence makes Tian Yan a useful route for the wiki's frontier-command synthesis: the same name appears inside a successful bounded campaign and a later overextended campaign. His biography should therefore be read through command context, sponsorship, and state capacity rather than battlefield courage alone.
 
@@ -30,10 +30,10 @@ The combined evidence makes Tian Yan a useful route for the wiki's frontier-comm
 
 ## Evidence
 
-- Qiang-campaign role: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] says Duan Jiong sends cavalry commander Tian Yan with Xia Yu and five thousand elite riders to surprise the Qiang camp.
-- Night movement: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] later has Tian Yan and Xia Yu lead seven thousand picked troops each, using "衔枚" silent discipline to reach the western mountain.
-- 177 appointment channel: [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] says Tian Yan asks Wang Fu to recommend him, and Wang Fu's support helps him gain command against Xianbei.
-- Failed expedition: [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] says Tian Yan leads the Yunzhong column deep into Xianbei territory, is defeated by Tanshihuai, escapes with only a few dozen riders, and later redeems punishment through money and connections.
+- Qiang-campaign role: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] says Duan Jiong sends cavalry commander Tian Yan with Xia Yu and five thousand elite riders to surprise the Qiang camp.
+- Night movement: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] later has Tian Yan and Xia Yu lead seven thousand picked troops each, using "衔枚" silent discipline to reach the western mountain.
+- 177 appointment channel: [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|汉纪 909]] says Tian Yan asks Wang Fu to recommend him, and Wang Fu's support helps him gain command against Xianbei.
+- Failed expedition: [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|汉纪 909]] says Tian Yan leads the Yunzhong column deep into Xianbei territory, is defeated by Tanshihuai, escapes with only a few dozen riders, and later redeems punishment through money and connections.
 
 ## Qualifications
 
@@ -42,7 +42,7 @@ This page treats the 169 田晏 and the 177 田晏 as the same canonical late-Ha
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added Hanji 891's earlier Qiang-campaign role before the existing Hanji 909 Xianbei-expedition evidence.
+- Added 汉纪 891's earlier Qiang-campaign role before the existing 汉纪 909 Xianbei-expedition evidence.
 
 ## Relationships
 

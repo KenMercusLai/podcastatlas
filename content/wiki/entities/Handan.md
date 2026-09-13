@@ -46,10 +46,10 @@ This adds a morale layer to Handan's survival. Zhao is still waiting for Wei and
 
 [[zizhi-tongjian-qinji-132-5wan-wanbao-40wan-xiangyu-cizhan-fengshen-lk87nb3fskg5zh6fcgptypixhzuw|Qinji 132]] adds the next Qin-pressure phase. After [[ZhangHanQin|章邯]] kills [[XiangLiang|项梁]] at [[Dingtao|定陶]], he turns north, attacks Zhao, breaks Handan, moves the population away, and destroys the city. [[ZhaoXie|赵歇]] and [[ZhangEr|张耳]] flee to [[Julu|巨鹿]], making Handan's fall the immediate prelude to the Julu rescue crisis.
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]] moves Handan into the early [[WesternHanDynasty|Western Han]] rebellion branch. [[ChenXi|陈豨]]'s huge retainer train fills Handan's inns and alarms [[ZhouChang|周昌]], helping trigger Liu Bang's investigation. Later, when [[LiuBang|刘邦]] campaigns against Chen Xi, he judges Chen Xi's failure to hold Handan as a major strategic mistake and uses local Zhao rewards plus [[LeShu|乐叔]]'s honor to stabilize the region.
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|汉纪 182]] moves Handan into the early [[WesternHanDynasty|Western Han]] rebellion branch. [[ChenXi|陈豨]]'s huge retainer train fills Handan's inns and alarms [[ZhouChang|周昌]], helping trigger Liu Bang's investigation. Later, when [[LiuBang|刘邦]] campaigns against Chen Xi, he judges Chen Xi's failure to hold Handan as a major strategic mistake and uses local Zhao rewards plus [[LeShu|乐叔]]'s honor to stabilize the region.
 
 ## Connections
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|Hanji 182]], [[ChenXi|陈豨]], [[ZhouChang|周昌]], [[LiuBang|刘邦]], [[ChenXiRebellion|陈豨之乱]], and [[LeShu|乐叔]] - retainer display, strategic position, and Zhao-region pacification.
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-1-lhe3h27wdbju3cgsvukdvgkri1a9|汉纪 182]], [[ChenXi|陈豨]], [[ZhouChang|周昌]], [[LiuBang|刘邦]], [[ChenXiRebellion|陈豨之乱]], and [[LeShu|乐叔]] - retainer display, strategic position, and Zhao-region pacification.
 - [[ZhaoState|赵国]] - state whose city is under siege.
 - [[WeiState|魏国]] - attacking state in the source.
 - [[LuWineHandanWarCascade|鲁酒薄而邯郸围]], [[ChuXuanwang|楚宣王]], [[LuState|鲁国]], and [[Jingshe|景舍]] - Zhouji 15 causal-chain and rescue setup.

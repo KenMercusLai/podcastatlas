@@ -11,7 +11,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Shangguan Wan'er is presented across [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] and [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as a brilliant Tang court woman whose talent, political usefulness, and cultural glamour should not be mistaken for a simple success template. The sources foreground the cost of her rise: family catastrophe, palace servitude, dependence on ruler favor, sexualized court risk, factional calculation, and final exposure during restoration politics.
+Shangguan Wan'er is presented across [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] and [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as a brilliant Tang court woman whose talent, political usefulness, and cultural glamour should not be mistaken for a simple success template. The sources foreground the cost of her rise: family catastrophe, palace servitude, dependence on ruler favor, sexualized court risk, factional calculation, and final exposure during restoration politics.
 
 ## Current Profile
 
@@ -30,22 +30,22 @@ The interpretive profile is deliberately double-sided. Shangguan Wan'er is not r
 
 ## Evidence
 
-- Education and talent: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] says Zheng continued to educate Shangguan Wan'er in palace servitude and that Wu Zetian recognized her writing ability when she was fourteen.
-- Court-political entry: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] says Wu Zetian removed her slave status and had her manage palace edicts after testing her.
-- Family trauma and dependency: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] links her rise to the earlier execution of her family and to Wu Zetian's willingness to use a talented person with reason for resentment.
-- Reputation caution: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] explicitly warns against treating "modern Shangguan Wan'er" as an uncomplicated compliment or aspiration.
-- Intimacy as political access: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] frames her relationships with Tang Gaozong, Crown Prince Li Xian, Zhang Changzong, Wu Sansi, and Tang Zhongzong through security, information, status, and court survival as much as affection.
-- Factional adaptation: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says she worked with Wu Sansi and Empress Wei after the Shenlong Coup, then sought distance from Empress Wei and proximity to Princess Taiping and the Li-Tang royal line after Li Chongjun's failed coup.
-- Final exposure: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] presents the 710 edict including Li Dan as her attempted self-defense record, but says Li Longji still killed her during the Tanglong Coup.
+- Education and talent: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] says Zheng continued to educate Shangguan Wan'er in palace servitude and that Wu Zetian recognized her writing ability when she was fourteen.
+- Court-political entry: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] says Wu Zetian removed her slave status and had her manage palace edicts after testing her.
+- Family trauma and dependency: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] links her rise to the earlier execution of her family and to Wu Zetian's willingness to use a talented person with reason for resentment.
+- Reputation caution: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] explicitly warns against treating "modern Shangguan Wan'er" as an uncomplicated compliment or aspiration.
+- Intimacy as political access: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] frames her relationships with Tang Gaozong, Crown Prince Li Xian, Zhang Changzong, Wu Sansi, and Tang Zhongzong through security, information, status, and court survival as much as affection.
+- Factional adaptation: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says she worked with Wu Sansi and Empress Wei after the Shenlong Coup, then sought distance from Empress Wei and proximity to Princess Taiping and the Li-Tang royal line after Li Chongjun's failed coup.
+- Final exposure: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] presents the 710 edict including Li Dan as her attempted self-defense record, but says Li Longji still killed her during the Tanglong Coup.
 
 ## Qualifications
 
-The current page still does not settle Shangguan Wan'er's full biography. Hanji 536-3 fills in the later factional arc, but it is compressed and interpretive. Claims about the exact historicity of specific relationships, the red-plum makeup tradition, the text and legal force of the 710 edict, her literary corpus, and Li Longji's full motive for killing her should remain source-scoped unless supported by further sources.
+The current page still does not settle Shangguan Wan'er's full biography. 汉纪 536-3 fills in the later factional arc, but it is compressed and interpretive. Claims about the exact historicity of specific relationships, the red-plum makeup tradition, the text and legal force of the 710 edict, her literary corpus, and Li Longji's full motive for killing her should remain source-scoped unless supported by further sources.
 
 ## What Changed
 
-- Created the page from Hanji 536-2 with a cautious early-life and Wu Zetian-entry profile.
-- Added Hanji 536-3's later arc, shifting the profile from early talent under Wu Zetian to a fuller synthesis of intimacy, factional hedging, and death under Li Longji.
+- Created the page from 汉纪 536-2 with a cautious early-life and Wu Zetian-entry profile.
+- Added 汉纪 536-3's later arc, shifting the profile from early talent under Wu Zetian to a fuller synthesis of intimacy, factional hedging, and death under Li Longji.
 
 ## Relationships
 

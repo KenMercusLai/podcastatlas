@@ -14,7 +14,7 @@ Talent Summons Ruler Self-Examination is the principle that a ruler who cannot a
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] frames talent summons as a ruler-side diagnostic. A wise ruler seeks hidden people because their methods, virtue, wisdom, and governing contribution can benefit the court and the people, not because the ruler wants the prestige of collecting famous recluses.
+[[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|汉纪 808]] frames talent summons as a ruler-side diagnostic. A wise ruler seeks hidden people because their methods, virtue, wisdom, and governing contribution can benefit the court and the people, not because the ruler wants the prestige of collecting famous recluses.
 
 The concept appears when [[FanYingLateHan|樊英]] keeps refusing even after the court offers conspicuous courtesy. [[SimaGuang|司马光]]'s judgment, as presented by the episode, is that the ruler should not force the matter. Continued refusal should prompt self-examination: whether the ruler's virtue is clear enough, whether governance is disordered, whether奸佞 dominate court access, and whether the invitation is sincere.
 
@@ -31,11 +31,11 @@ The Xunzi fire-and-cicada analogy gives the mechanism. Bright fire attracts; mer
 
 ## Evidence
 
-- Recruitment purpose: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] says wise rulers use hidden people's governing methods rather than their recluse identity.
-- Failed conversion of courtesy into service: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] records Fan Ying's forced arrival, honors, lecture platform, teacher ritual, offices, and continued resistance.
-- Ruler self-examination: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] says a ruler who cannot attract worthy people should ask about virtue, disorder,奸佞, and sincerity.
-- Bad filters: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] rejects inducing with high office and threatening with punishment because those tools select for the wrong motives.
-- Attraction analogy: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|Hanji 808]] invokes [[Xunzi|荀子]]'s cicada-catching comparison to argue that visible virtue attracts more effectively than empty movement.
+- Recruitment purpose: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|汉纪 808]] says wise rulers use hidden people's governing methods rather than their recluse identity.
+- Failed conversion of courtesy into service: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|汉纪 808]] records Fan Ying's forced arrival, honors, lecture platform, teacher ritual, offices, and continued resistance.
+- Ruler self-examination: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|汉纪 808]] says a ruler who cannot attract worthy people should ask about virtue, disorder,奸佞, and sincerity.
+- Bad filters: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|汉纪 808]] rejects inducing with high office and threatening with punishment because those tools select for the wrong motives.
+- Attraction analogy: [[zizhi-tongjian-hanji-808-ta-jiujing-shi-mingjia-haishi-pianzi-lhmsw7zusdkqddk-zu27oj6hfs2m|汉纪 808]] invokes [[Xunzi|荀子]]'s cicada-catching comparison to argue that visible virtue attracts more effectively than empty movement.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ The concept does not deny that rulers can summon, honor, consult, or appoint cap
 
 ## What Changed
 
-- Created the concept from Hanji 808's ruler-side reading of Fan Ying's failed summons.
+- Created the concept from 汉纪 808's ruler-side reading of Fan Ying's failed summons.
 - Added the Xunzi attraction analogy as a mechanism for why virtue and order matter more than pressure.
 - Distinguished respectful invitation from coercive filtering by rank, gifts, and punishment.
 

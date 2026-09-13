@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-韩伯 / Han Bo enters the wiki through [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] as a late-[[XinDynasty|新朝]] official whose report about a giant named "巨无霸" functions as satire against [[WangMang|王莽]]. His case shows that indirect ridicule can still be decoded as political attack and punished lethally.
+韩伯 / Han Bo enters the wiki through [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] as a late-[[XinDynasty|新朝]] official whose report about a giant named "巨无霸" functions as satire against [[WangMang|王莽]]. His case shows that indirect ridicule can still be decoded as political attack and punished lethally.
 
 ## Current Profile
 
@@ -28,18 +28,18 @@ The strategy fails as protection. Wang Mang outwardly renames the man from "巨�
 
 ## Evidence
 
-- Giant-prodigy memorial: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says Han Bo reports a giant called "巨无霸" with a Heaven-sent claim and mythical geography.
-- Absurd administrative requests: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says he requests special armor, vehicle, generals, guards, and enlarged gates.
-- Decoded satire: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] explicitly reads the memorial as ridicule of Wang Mang.
-- Lethal outcome: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says Wang Mang imprisons Han Bo and kills him after finding a pretext.
+- Giant-prodigy memorial: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says Han Bo reports a giant called "巨无霸" with a Heaven-sent claim and mythical geography.
+- Absurd administrative requests: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says he requests special armor, vehicle, generals, guards, and enlarged gates.
+- Decoded satire: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] explicitly reads the memorial as ridicule of Wang Mang.
+- Lethal outcome: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says Wang Mang imprisons Han Bo and kills him after finding a pretext.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 656. It does not settle the historical identity or physical reality of "巨无霸," nor does it reconstruct Han Bo's full office history or the exact legal pretext for his death. The page records the episode's interpretation of satire as source-scoped.
+This page is source-bounded to 汉纪 656. It does not settle the historical identity or physical reality of "巨无霸," nor does it reconstruct Han Bo's full office history or the exact legal pretext for his death. The page records the episode's interpretation of satire as source-scoped.
 
 ## What Changed
 
-- Created the page from Hanji 656 as a late-Xin case where allusive ridicule fails to protect the critic.
+- Created the page from 汉纪 656 as a late-Xin case where allusive ridicule fails to protect the critic.
 
 ## Relationships
 

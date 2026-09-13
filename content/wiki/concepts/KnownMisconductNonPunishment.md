@@ -14,7 +14,7 @@ Known-misconduct non-punishment is the deterrence failure that occurs when a rul
 
 ## Current Synthesis
 
-Hanji 752 defines the pattern through [[DouXianEasternHan|Dou Xian]]'s seizure of [[QinshuiPrincessEasternHan|Qinshui Princess]]'s estate. [[EmperorZhangOfHan|Emperor Zhang]] sees the seriousness of the act: Dou has used palace-backed power against a princess and then tried to stop the truth from being spoken when the ruler asks about the estate. Zhangdi's rebuke compares the truth-suppression attempt to [[PointingDeerAsHorse|pointing deer as horse]].
+汉纪 752 defines the pattern through [[DouXianEasternHan|Dou Xian]]'s seizure of [[QinshuiPrincessEasternHan|Qinshui Princess]]'s estate. [[EmperorZhangOfHan|Emperor Zhang]] sees the seriousness of the act: Dou has used palace-backed power against a princess and then tried to stop the truth from being spoken when the ruler asks about the estate. Zhangdi's rebuke compares the truth-suppression attempt to [[PointingDeerAsHorse|pointing deer as horse]].
 
 The remedy remains incomplete. Zhangdi orders the estate returned and stops giving Dou Xian heavy responsibilities, but he does not legally punish him. The episode uses [[SimaGuang|Sima Guang]]'s criticism to turn the case into a rule of governance: once a ruler knows a minister's evil and still cannot remove or punish it, the offender learns that the ruler can be feared emotionally but not institutionally.
 
@@ -30,19 +30,19 @@ The concept is therefore a negative contrast to [[StrategicForbearanceGovernance
 
 ## Evidence
 
-- Coerced property and fear: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Dou Xian forces a low-price acquisition of Qinshui Princess's estate and that she is too afraid to contest it.
-- Truth suppression: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Dou tries to stop people from answering Zhangdi truthfully when the emperor passes the estate.
-- Strong rebuke: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] records Zhangdi comparing Dou's behavior to the Zhao Gao "pointing deer as horse" case.
-- Incomplete sanction: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says the estate is returned and Dou loses major future trust, but his crime is not legally punished.
-- Sima Guang's judgment: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] presents Sima Guang's warning that known evil left unremoved makes the wicked more unafraid.
+- Coerced property and fear: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says Dou Xian forces a low-price acquisition of Qinshui Princess's estate and that she is too afraid to contest it.
+- Truth suppression: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says Dou tries to stop people from answering Zhangdi truthfully when the emperor passes the estate.
+- Strong rebuke: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] records Zhangdi comparing Dou's behavior to the Zhao Gao "pointing deer as horse" case.
+- Incomplete sanction: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says the estate is returned and Dou loses major future trust, but his crime is not legally punished.
+- Sima Guang's judgment: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] presents Sima Guang's warning that known evil left unremoved makes the wicked more unafraid.
 
 ## Counterevidence & Qualifications
 
-The concept should not be used for all leniency. It requires known wrongdoing, a protected actor, and a ruler response that fails to make the legal boundary credible. Hanji 752 also records a partial consequence: the estate is returned and Dou Xian is not entrusted with heavy office under Zhangdi. That makes the case a deterrence failure, not complete inaction. Later Dou Xian sources show that the danger still matures after the emperor's death, but this page does not claim that Zhangdi's single non-punishment mechanically caused every later Dou-family abuse.
+The concept should not be used for all leniency. It requires known wrongdoing, a protected actor, and a ruler response that fails to make the legal boundary credible. 汉纪 752 also records a partial consequence: the estate is returned and Dou Xian is not entrusted with heavy office under Zhangdi. That makes the case a deterrence failure, not complete inaction. Later Dou Xian sources show that the danger still matures after the emperor's death, but this page does not claim that Zhangdi's single non-punishment mechanically caused every later Dou-family abuse.
 
 ## What Changed
 
-- Created the concept from Hanji 752's Dou Xian estate case and Sima Guang's criticism of Zhangdi.
+- Created the concept from 汉纪 752's Dou Xian estate case and Sima Guang's criticism of Zhangdi.
 
 ## Related Concepts
 

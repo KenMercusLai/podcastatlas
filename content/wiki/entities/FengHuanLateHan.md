@@ -10,7 +10,7 @@ last_updated: 2026-08-29
 
 ## Overview
 
-冯焕 / Feng Huan enters the wiki as a Youzhou inspector who survives a forged-edict revenge plot after his son Feng Gun detects suspicious wording. In Hanji 797, Feng's importance lies less in a long career profile than in showing how local obedience to imperial command can become dangerous when command authenticity is not verified.
+冯焕 / Feng Huan enters the wiki as a Youzhou inspector who survives a forged-edict revenge plot after his son Feng Gun detects suspicious wording. In 汉纪 797, Feng's importance lies less in a long career profile than in showing how local obedience to imperial command can become dangerous when command authenticity is not verified.
 
 ## Current Profile
 
@@ -29,15 +29,15 @@ The episode makes Feng Huan a survival case within the same mechanism that kills
 
 ## Evidence
 
-- Office and enemy field: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Feng Huan is Youzhou inspector and had repeatedly exposed bad actors with Yao Guang.
-- Forged command: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says enemies forge an imperial command condemning Feng Huan and Yao Guang.
-- Arrest and near-suicide: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Pang Fen arrests Feng Huan and Feng considers suicide.
-- Detection: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Feng Gun detects that the edict wording seems wrong and advises a petition.
-- Court correction: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says the court confirms the forgery and summons Pang Fen for punishment.
+- Office and enemy field: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says Feng Huan is Youzhou inspector and had repeatedly exposed bad actors with Yao Guang.
+- Forged command: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says enemies forge an imperial command condemning Feng Huan and Yao Guang.
+- Arrest and near-suicide: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says Pang Fen arrests Feng Huan and Feng considers suicide.
+- Detection: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says Feng Gun detects that the edict wording seems wrong and advises a petition.
+- Court correction: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says the court confirms the forgery and summons Pang Fen for punishment.
 
 ## Qualifications
 
-This page is bounded to Hanji 797. It distinguishes 冯焕 / Feng Huan from the existing later figure [[FengGunLateHan|冯绲 / Feng Gun]] and does not create a separate page for Feng Huan's son 冯衮, whose role remains source-scoped here. The page also does not settle Pang Fen's later punishment or Feng Huan's later career.
+This page is bounded to 汉纪 797. It distinguishes 冯焕 / Feng Huan from the existing later figure [[FengGunLateHan|冯绲 / Feng Gun]] and does not create a separate page for Feng Huan's son 冯衮, whose role remains source-scoped here. The page also does not settle Pang Fen's later punishment or Feng Huan's later career.
 
 ## What Changed
 

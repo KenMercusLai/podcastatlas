@@ -44,5 +44,5 @@ This episode backfills the Jianwu 12 / 36 CE endgame in Shu immediately before t
 - [[MaChengEasternHan|Ma Cheng]] - receives the acting Da Sikong appointment that points toward the next episode.
 
 ## Contradictions
-- No settled wiki contradiction is resolved here, but the episode sharply qualifies any simple reading of Wu Han as only a disciplined founding commander: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|Hanji 715]]'s later honor for Wu Han has to be held beside this episode's account of Liu Xiu rebuking him for post-surrender killing, plunder, and burning.
+- No settled wiki contradiction is resolved here, but the episode sharply qualifies any simple reading of Wu Han as only a disciplined founding commander: [[zizhi-tongjian-hanji-715-shishang-zui-zhihui-de-yici-duoquan-loqkawl247maw9fn-nomaw5gzkgu|汉纪 715]]'s later honor for Wu Han has to be held beside this episode's account of Liu Xiu rebuking him for post-surrender killing, plunder, and burning.
 - Yan Cen's surrender also qualifies [[SurrenderAsCivilianProtectionTradeoff]]: offering a city can aim to preserve people, but the protection depends on the receiver honoring the surrender.

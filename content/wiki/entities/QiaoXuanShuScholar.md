@@ -9,7 +9,7 @@ last_updated: 2026-09-01
 ---
 
 ## Overview
-Qiao Xuan is the Ba commandery scholar in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] who refuses Gongsun Shu's coerced office and survives when his son pays a ransom-like sum.
+Qiao Xuan is the Ba commandery scholar in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] who refuses Gongsun Shu's coerced office and survives when his son pays a ransom-like sum.
 
 ## Current Profile
 The episode presents Qiao Xuan as another Shu scholar whom Gongsun Shu tries to force into service. Like Li Nie, he receives an office-or-poison ultimatum and prepares to die rather than accept the summons.
@@ -24,9 +24,9 @@ Qiao Xuan survives because his son Qiao Ying offers ten million cash, which Gong
 - Evidence point for the difference between coerced survival and genuine consent.
 
 ## Evidence
-- Poison-backed refusal: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Gongsun Shu threatens Qiao Xuan with the same office-or-poison choice used against Li Nie.
-- Ransom-mediated survival: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Qiao Ying offers ten million cash and Gongsun Shu accepts.
-- Liu Xiu's repair: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Liu Xiu sacrifices to Qiao Xuan and returns the money to the Qiao family.
+- Poison-backed refusal: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Gongsun Shu threatens Qiao Xuan with the same office-or-poison choice used against Li Nie.
+- Ransom-mediated survival: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Qiao Ying offers ten million cash and Gongsun Shu accepts.
+- Liu Xiu's repair: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Liu Xiu sacrifices to Qiao Xuan and returns the money to the Qiao family.
 
 ## Qualifications
 This page follows the episode's source form "Qiao Xuan / 乔璇" and is distinct from [[QiaoXuanLateHan]], the later Han official represented elsewhere in the wiki.

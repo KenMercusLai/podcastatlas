@@ -37,7 +37,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode detours fro
 > "你中有我，我中有你" - the episode's relational unity frame.
 
 ## Connections
-- [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - show context; this installment functions like a reflective PLUS-style detour after Hanji 160.
+- [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - show context; this installment functions like a reflective PLUS-style detour after 汉纪 160.
 - [[MingZiWoLi|《命自我利》]], [[FateReadingPoliticalRisk|命相判断的政治风险]], [[ProphecyTriggeredPolicy|预言触发政策]], and [[OmenCountermeasureMobility|游徙避命]] - fate-change and fate-management cluster already present in the wiki.
 - [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]], [[AlbertEinstein|Albert Einstein]], [[ZhuQingshi|朱清时]], and [[ConsciousnessMeasurement]] - science-and-consciousness cluster introduced or extended by the episode.
 - [[RelationalFateNetwork|关系命运网络]], [[SocialSignalInterpretation]], [[SocialGrooming]], and [[HumanConnectionUnderAI]] - relationship-maintenance and relational influence neighbors.
@@ -46,4 +46,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode detours fro
 ## Contradictions
 - No settled wiki contradiction is recorded.
 - Source-scope caution: the episode's links from quantum entanglement to consciousness, soul, fate, wealth, and relationships are treated as metaphorical and philosophical claims from the host, not as established physics.
-- Source-scope clarification: the source file renders the referenced fate-change book as [[MingZiWoLi|《命自我利》]]. [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|Hanji 161 part 4]] later identifies the same story as [[YuanLiaofan|袁了凡]] and [[LiaofanSixun|《了凡四训》]], so the wiki now treats 《命自我利》 as a source/transcript title variant rather than a separate established text.
+- Source-scope clarification: the source file renders the referenced fate-change book as [[MingZiWoLi|《命自我利》]]. [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-4-lml7lpd3u9l7esryknmhoampgx6v|汉纪 161 part 4]] later identifies the same story as [[YuanLiaofan|袁了凡]] and [[LiaofanSixun|《了凡四训》]], so the wiki now treats 《命自我利》 as a source/transcript title variant rather than a separate established text.

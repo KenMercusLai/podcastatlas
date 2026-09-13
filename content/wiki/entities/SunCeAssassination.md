@@ -24,16 +24,16 @@ The event is not only a death scene. It joins retainer revenge, field-access dec
 - The wound immediately becomes a command-continuity problem that requires a Sun Quan handoff and staff stabilization.
 
 ## Evidence
-- Personal exposure and timing: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] narrates Sun Ce riding ahead of his guards while hunting, creating the access window for the attack.
-- Revenge channel: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] identifies the attackers as Xu Gong's retainers and treats their action as vengeance.
-- False cover and failed deception: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] has the attackers claim to be Han Dang's men, Sun Ce shoot one of them, and the others hit his face with arrows.
-- Succession consequence: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] links the wound to Sun Ce summoning advisers, transferring the seal to Sun Quan, and relying on Zhang Zhao and Zhou Yu for stabilization.
+- Personal exposure and timing: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] narrates Sun Ce riding ahead of his guards while hunting, creating the access window for the attack.
+- Revenge channel: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] identifies the attackers as Xu Gong's retainers and treats their action as vengeance.
+- False cover and failed deception: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] has the attackers claim to be Han Dang's men, Sun Ce shoot one of them, and the others hit his face with arrows.
+- Succession consequence: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] links the wound to Sun Ce summoning advisers, transferring the seal to Sun Quan, and relying on Zhang Zhao and Zhou Yu for stabilization.
 
 ## Qualifications
 The current profile is source-scoped to this episode. The individual assassins are not separated into their own canonical pages, and the host's character-based reading of Sun Ce's fate remains an interpretation rather than a complete causal account.
 
 ## What Changed
-- Created this event page from Hanji 1045 to isolate the fatal hunting ambush from broader Sun Ce biography.
+- Created this event page from 汉纪 1045 to isolate the fatal hunting ambush from broader Sun Ce biography.
 
 ## Relationships
 - [[SunCe|孙策]] - target whose hunting exposure creates the attack window and whose death forces succession.

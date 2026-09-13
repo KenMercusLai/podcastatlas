@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-刘快 / Liu Kuai enters the wiki through [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] as the Quxiang marquis and Liu-line rebel whose failed attack on Jimo tests early [[XinDynasty|新朝]] control shortly after [[WangMang|王莽]]'s accession.
+刘快 / Liu Kuai enters the wiki through [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] as the Quxiang marquis and Liu-line rebel whose failed attack on Jimo tests early [[XinDynasty|新朝]] control shortly after [[WangMang|王莽]]'s accession.
 
 ## Current Profile
 
@@ -28,14 +28,14 @@ His defeat is used less as a full biography than as evidence about the early Xin
 
 ## Evidence
 
-- Rebellion role: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] says Liu Kuai gathers several thousand followers and rises in his fief in summer 9 CE.
-- Jimo failure: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] says Jimo's officials and people resist him after Liu Yin shuts the city gates.
-- Death: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] says Liu Kuai is defeated, flees, and dies at Changguang county.
-- Interpretive function: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] uses the failed rising to argue that early Wang Mang still commanded meaningful local support.
+- Rebellion role: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] says Liu Kuai gathers several thousand followers and rises in his fief in summer 9 CE.
+- Jimo failure: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] says Jimo's officials and people resist him after Liu Yin shuts the city gates.
+- Death: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] says Liu Kuai is defeated, flees, and dies at Changguang county.
+- Interpretive function: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] uses the failed rising to argue that early Wang Mang still commanded meaningful local support.
 
 ## Qualifications
 
-This page is limited to Hanji 636. It does not reconstruct Liu Kuai's full genealogy, title history, exact troop composition, route, or tactical sequence. The host's "brave but unwise" reading is preserved as source interpretation rather than independent character diagnosis.
+This page is limited to 汉纪 636. It does not reconstruct Liu Kuai's full genealogy, title history, exact troop composition, route, or tactical sequence. The host's "brave but unwise" reading is preserved as source interpretation rather than independent character diagnosis.
 
 ## What Changed
 

@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the [[ChenXiRebellion|陈豨之乱]] branch after the early [[WesternHanDynasty|西汉]] Zhao and succession material in [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]]. [[HanXin|韩信]] tells [[ChenXi|陈豨]] that repeated reports of rebellion will eventually pull [[LiuBang|刘邦]] out to campaign, while Han Xin can rise inside the capital. The episode then shows how [[ZhouChang|周昌]]'s warning, court investigation, Chen Xi's refusal to answer the funeral summons, and Liu Bang's mixed military, reward, symbolic, and bribery tactics turn suspicion into a broad northern rebellion and suppression campaign.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the [[ChenXiRebellion|陈豨之乱]] branch after the early [[WesternHanDynasty|西汉]] Zhao and succession material in [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|汉纪 181]]. [[HanXin|韩信]] tells [[ChenXi|陈豨]] that repeated reports of rebellion will eventually pull [[LiuBang|刘邦]] out to campaign, while Han Xin can rise inside the capital. The episode then shows how [[ZhouChang|周昌]]'s warning, court investigation, Chen Xi's refusal to answer the funeral summons, and Liu Bang's mixed military, reward, symbolic, and bribery tactics turn suspicion into a broad northern rebellion and suppression campaign.
 
 ## Key Claims
 - Chen Xi's appointment gave him control over Zhao, Dai, and northern frontier forces near [[Xiongnu|匈奴]] and [[HanWangXin|韩王信]]-linked danger zones, making his office both useful and politically exposed.
@@ -48,5 +48,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the [
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- The source complicates earlier Han Xin loyalty pages: Hanji 165-166 record his refusal to betray Liu Bang during the Chu-Han balance, while Hanji 182 presents a later post-demotion conspiracy claim. This is recorded as a changed political stage rather than a direct contradiction.
+- The source complicates earlier Han Xin loyalty pages: 汉纪 165-166 record his refusal to betray Liu Bang during the Chu-Han balance, while 汉纪 182 presents a later post-demotion conspiracy claim. This is recorded as a changed political stage rather than a direct contradiction.
 - The title promises the "成也萧何败也萧何" branch, but this first part does not yet explain Xiao He's decisive role; that remains pending for the sequel.

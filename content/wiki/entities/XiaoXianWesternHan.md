@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-萧贤 / Xiao Xian enters the wiki through [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] as a late [[WesternHanDynasty|Western Han]] official and descendant of Xiao Wangzhi whose classical literacy becomes a survival tool. His central act is refusing a Dong-family marriage proposal after reading "云止其中" in Dong-family appointment language as a sign that [[DongXian|董贤]]'s favor has crossed from office promotion toward abdication-coded danger.
+萧贤 / Xiao Xian enters the wiki through [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] as a late [[WesternHanDynasty|Western Han]] official and descendant of Xiao Wangzhi whose classical literacy becomes a survival tool. His central act is refusing a Dong-family marriage proposal after reading "云止其中" in Dong-family appointment language as a sign that [[DongXian|董贤]]'s favor has crossed from office promotion toward abdication-coded danger.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ Xiao Xian's political judgment turns on a textual detail. He says "云止其中"
 
 ## Evidence
 
-- Lineage and family tie: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] identifies Xiao Xian as a descendant of Xiao Wangzhi and as Wang Hong's father-in-law.
-- Marriage proposal: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Dong Xian's father wants Dong Kuanxin to marry Xiao Xian's daughter.
-- Textual risk reading: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Xiao Xian interprets "云止其中" as language associated with Yao's abdication to Shun, not ordinary ministerial appointment.
-- Refusal outcome: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Wang Hong carries back a face-saving refusal after understanding Xiao Xian's warning.
+- Lineage and family tie: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] identifies Xiao Xian as a descendant of Xiao Wangzhi and as Wang Hong's father-in-law.
+- Marriage proposal: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Dong Xian's father wants Dong Kuanxin to marry Xiao Xian's daughter.
+- Textual risk reading: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Xiao Xian interprets "云止其中" as language associated with Yao's abdication to Shun, not ordinary ministerial appointment.
+- Refusal outcome: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Wang Hong carries back a face-saving refusal after understanding Xiao Xian's warning.
 
 ## Qualifications
 

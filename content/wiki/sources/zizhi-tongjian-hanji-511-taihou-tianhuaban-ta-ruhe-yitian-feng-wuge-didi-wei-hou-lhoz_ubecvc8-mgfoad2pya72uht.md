@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Heping 2 / 27 BCE under [[HanChengdi|汉成帝]], after the harem and Wang-family pressure of Hanji 509 and before the Ye Lang frontier sequence in Hanji 512-513. It pairs [[WangZhengjun|王政君]]'s expansion of natal-family privilege, especially the same-day enfeoffment of the [[ChengdiFiveMarquisesWesternHan|成帝五侯]], with [[WangZunWesternHan|王尊]]'s impeachment and partial rehabilitation through [[GongchengXingWesternHan|公乘兴]]'s memorial.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Heping 2 / 27 BCE under [[HanChengdi|汉成帝]], after the harem and Wang-family pressure of 汉纪 509 and before the Ye Lang frontier sequence in 汉纪 512-513. It pairs [[WangZhengjun|王政君]]'s expansion of natal-family privilege, especially the same-day enfeoffment of the [[ChengdiFiveMarquisesWesternHan|成帝五侯]], with [[WangZunWesternHan|王尊]]'s impeachment and partial rehabilitation through [[GongchengXingWesternHan|公乘兴]]'s memorial.
 
 The durable synthesis is that Chengdi-era politics tests two forms of judgment at once: kinship privilege can become public status before formal regency appears, while official impeachment needs a way to distinguish real misconduct from private resentment and manufactured charges.
 

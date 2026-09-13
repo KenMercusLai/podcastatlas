@@ -36,7 +36,7 @@ The durable synthesis is that Wang Jia's "厉害" speech is not soft flattery bu
 
 ## Connections
 
-- [[WangJiaWesternHan|王嘉]], [[HanAidi|汉哀帝]], and [[DongXian|董贤]] - the source backfills Wang Jia's earlier structured memorial against Dong-centered favor before later Hanji 597-599 escalation.
+- [[WangJiaWesternHan|王嘉]], [[HanAidi|汉哀帝]], and [[DongXian|董贤]] - the source backfills Wang Jia's earlier structured memorial against Dong-centered favor before later 汉纪 597-599 escalation.
 - [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]], [[PrivateFavorAppointmentErosion|私恩任官侵蚀]], and [[MingqiLegitimacy|名器合法性]] - private affection becomes a public-resource, land, title, and order problem.
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - Wang Jia packages hard criticism as praise, duty, evidence, historical warning, and protection of the favorite.
 - [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] and [[CourtFeedbackCollapse|君臣反馈失灵]] - disasters and rumor provide the warning frame, while Aidi's displeasure shows the feedback channel remains dangerous.
@@ -45,5 +45,5 @@ The durable synthesis is that Wang Jia's "厉害" speech is not soft flattery bu
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills an earlier part of Wang Jia's memorial sequence than Hanji 597-599, but it was ingested after those downstream source notes.
+- Chronology qualification: this source backfills an earlier part of Wang Jia's memorial sequence than 汉纪 597-599, but it was ingested after those downstream source notes.
 - Scope caution: the source note preserves the podcast's popular-reading frame. Exact construction costs, land units, original memorial wording, and the full careers of Du Ye, Deng Tong, and Han Yuan remain source-scoped unless later notes require canonical expansion.

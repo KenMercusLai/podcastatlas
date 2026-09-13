@@ -15,9 +15,9 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|Hanji 635]] now adds an earlier status-redesign layer under [[WangMang|王莽]]'s [[XinDynasty|新朝]]. Wang Mang grades Wang-family relatives through mourning categories and downgrades former [[WesternHanDynasty|西汉]] princes and marquises, showing title systems being used to reorder dynastic rank before the later fief-support problem becomes visible.
+[[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|汉纪 635]] now adds an earlier status-redesign layer under [[WangMang|王莽]]'s [[XinDynasty|新朝]]. Wang Mang grades Wang-family relatives through mourning categories and downgrades former [[WesternHanDynasty|西汉]] princes and marquises, showing title systems being used to reorder dynastic rank before the later fief-support problem becomes visible.
 
-[[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] grounds the concept's strongest inflation evidence in Wang Mang's mass rank creation. The episode says Wang Mang announces eastern and western capitals, maps ancient-style regions, and creates many noble ranks and city grants before household and land measurement can support them.
+[[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] grounds the concept's strongest inflation evidence in Wang Mang's mass rank creation. The episode says Wang Mang announces eastern and western capitals, maps ancient-style regions, and creates many noble ranks and city grants before household and land measurement can support them.
 
 The result is not glory but degradation. Recipients receive small monthly allowances from the agricultural-finance bureaucracy, some must work for others to live, and the older scarcity logic of Han-era merit titles is lost. Title inflation thus turns symbolic recognition into institutional embarrassment.
 
@@ -32,21 +32,21 @@ The result is not glory but degradation. Recipients receive small monthly allowa
 
 ## Evidence
 
-- Dynastic status redesign: [[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|Hanji 635]] says Wang Mang distributes titles among Wang relatives through five mourning-grade categories while lowering former Han kings and marquises.
-- Retro-classical rank design: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Wang Mang announces Luoyang and Chang'an as capitals, invokes Yu Gong and Zhou-style territorial ordering, and divides ranks into multiple grades.
-- Unsupported grants: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says many titled persons and city grantees lack formal fiefs because land and household measurement are unfinished.
-- Allowance dependency: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says they temporarily receive monthly money from the agricultural bureaucracy.
-- Status degradation: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says some nobles have to work for others to maintain life, showing that rank no longer guarantees independence.
-- Merit-rank contrast: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] contrasts this with [[LiuBang|刘邦]]'s older "non-Liu not king, non-merit not marquis" settlement logic.
+- Dynastic status redesign: [[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|汉纪 635]] says Wang Mang distributes titles among Wang relatives through five mourning-grade categories while lowering former Han kings and marquises.
+- Retro-classical rank design: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says Wang Mang announces Luoyang and Chang'an as capitals, invokes Yu Gong and Zhou-style territorial ordering, and divides ranks into multiple grades.
+- Unsupported grants: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says many titled persons and city grantees lack formal fiefs because land and household measurement are unfinished.
+- Allowance dependency: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says they temporarily receive monthly money from the agricultural bureaucracy.
+- Status degradation: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says some nobles have to work for others to maintain life, showing that rank no longer guarantees independence.
+- Merit-rank contrast: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] contrasts this with [[LiuBang|刘邦]]'s older "non-Liu not king, non-merit not marquis" settlement logic.
 
 ## Counterevidence & Qualifications
 
-The source set does not provide a complete institutional history of Han or Xin rank law. Hanji 635 mainly supports status recoding and demotion; Hanji 645 supplies the clearer material-support failure. The count of titleholders, exact legal categories, and each grantee's livelihood remain source-scoped. The concept should be used where title creation or redesign outruns implementation capacity, not for every case of rank reform or honorific expansion.
+The source set does not provide a complete institutional history of Han or Xin rank law. 汉纪 635 mainly supports status recoding and demotion; 汉纪 645 supplies the clearer material-support failure. The count of titleholders, exact legal categories, and each grantee's livelihood remain source-scoped. The concept should be used where title creation or redesign outruns implementation capacity, not for every case of rank reform or honorific expansion.
 
 ## What Changed
 
-- Added Hanji 635 as an earlier title-redesign and old-Han downgrading layer.
-- Preserved Hanji 645 as the main evidence for title proliferation without land, revenue, or duty support.
+- Added 汉纪 635 as an earlier title-redesign and old-Han downgrading layer.
+- Preserved 汉纪 645 as the main evidence for title proliferation without land, revenue, or duty support.
 
 ## Related Concepts
 

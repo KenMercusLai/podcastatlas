@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] setup by showing how [[ChenPing|陈平]] turns an envoy reception at [[XingyangStandoff|荥阳]] into a wedge between [[XiangYu|项羽]] and [[FanZeng|范增]]. The host argues that the stratagem succeeds not because Xiang Yu is simply foolish, but because his regime already contains a split between Xiang-family insiders and old Chu merit commanders. Fan Zeng's exit and death become a political-structure failure: Xiang Yu loses his most important adviser after failing to mediate the factions that held his camp together.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|汉纪 160 part 1]] setup by showing how [[ChenPing|陈平]] turns an envoy reception at [[XingyangStandoff|荥阳]] into a wedge between [[XiangYu|项羽]] and [[FanZeng|范增]]. The host argues that the stratagem succeeds not because Xiang Yu is simply foolish, but because his regime already contains a split between Xiang-family insiders and old Chu merit commanders. Fan Zeng's exit and death become a political-structure failure: Xiang Yu loses his most important adviser after failing to mediate the factions that held his camp together.
 
 ## Key Claims
 - In the fourth month, [[XiangYu|项羽]] surrounds [[YingyangWarringStates|荥阳]], leaving [[LiuBang|刘邦]] anxious and dependent on Chen Ping's counterintelligence plan.
@@ -37,7 +37,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 > "两大政治势力" - the source's frame for Xiang Yu's internal power structure.
 
 ## Connections
-- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[XingyangStandoff|荥阳相持]], [[Aocang|敖仓]], and [[LiuBang|刘邦]] - the siege and failed peace context that make covert work necessary.
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|汉纪 160 part 1]], [[XingyangStandoff|荥阳相持]], [[Aocang|敖仓]], and [[LiuBang|刘邦]] - the siege and failed peace context that make covert work necessary.
 - [[ChenPing|陈平]], [[FanZeng|范增]], [[XiangYu|项羽]], and [[CounterintelligenceRumorWedge|反间流言楔入]] - the staged envoy reception and trust-destroying result.
 - [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[XiangBo|项伯]], [[XiangZhuang|项庄]], and [[XiangTuoChuHan|项佗]] - Xiang-family side of the power structure.
 - [[FanZeng|范增]], [[ChenYing|陈婴]], [[LongJuChuGeneral|龙且]], [[ZhongliMo|钟离眜]], and [[ZhouYin|周殷]] - old Chu merit-command side of the power structure.
@@ -45,5 +45,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 - [[HongmenYan|鸿门宴]] - earlier scene where Xiang Bo and Fan Zeng's preservation-versus-kill conflict was already visible.
 
 ## Contradictions
-- No settled contradiction is recorded. This episode resolves the prior source-scope caution in [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] by supplying the missing middle chain from Chen Ping's operation to Fan Zeng's exit.
+- No settled contradiction is recorded. This episode resolves the prior source-scope caution in [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|汉纪 160 part 1]] by supplying the missing middle chain from Chen Ping's operation to Fan Zeng's exit.
 - Source-scope caution: the episode itself flags later skepticism about the historicity of the envoy-feast story. The wiki records the host's structural explanation without treating every theatrical detail as independently verified.

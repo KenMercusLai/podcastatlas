@@ -23,7 +23,7 @@ last_updated: 2026-08-30
 ## Current Profile
 The current synthesis presents Zhou Yu as an elite local ally who turns personal friendship into state-building capacity. He begins as a chronological bridge, becomes a family-alliance host and material supporter for Sun Ce, rejects [[YuanShu|袁术]]'s failing orbit, receives office under Sun Ce, appears beside Sun Ce in the capture of [[WanChengLujiang|皖城]], and then remains with Sun Quan as central guard in the post-assassination transition.
 
-Hanji 1058 adds a diplomatic-strategic layer after the initial transition. Cao Cao demands that Sun Quan send a younger brother or son to court service. Zhou Yu argues that Jiangdong's six commanderies, soldiers, grain, wealthy land, and stable population let Sun Quan refuse, and that sending a hostage would bind Sun Quan to Cao Cao's commands. [[LadyWuSunJian|吴夫人]] endorses Zhou Yu's analysis and tells Sun Quan to honor him like an elder brother, giving Zhou Yu a household-authorized advisory role as well as a military one.
+汉纪 1058 adds a diplomatic-strategic layer after the initial transition. Cao Cao demands that Sun Quan send a younger brother or son to court service. Zhou Yu argues that Jiangdong's six commanderies, soldiers, grain, wealthy land, and stable population let Sun Quan refuse, and that sending a hostage would bind Sun Quan to Cao Cao's commands. [[LadyWuSunJian|吴夫人]] endorses Zhou Yu's analysis and tells Sun Quan to honor him like an elder brother, giving Zhou Yu a household-authorized advisory role as well as a military one.
 
 ## Key Characteristics
 - Serves as a chronological bridge from the Sun Jian generation into the later Sun-Ce Jiangdong branch.
@@ -35,20 +35,20 @@ Hanji 1058 adds a diplomatic-strategic layer after the initial transition. Cao C
 - Advises Sun Quan to refuse Cao Cao's hostage demand, grounding autonomy in Jiangdong's material base and local stability.
 
 ## Evidence
-- Birth marker: [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] records Zhou Yu's 175 CE birth as son of Luoyang county magistrate Zhou Yi.
-- Family-alliance channel: [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|Hanji 982]] has Zhou Yu meet Sun Ce, host the Sun family near him, and pay respects to Lady Wu.
-- Material launch support: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] says Zhou Yu brings two thousand troops, fifty boats, funds, grain, and Danyang access through [[ZhouShangLateHan|周尚]].
-- Formal alignment: [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] has Zhou Yu and [[LuSu|鲁肃]] judge Yuan Shu hopeless and cross the Yangtze toward Sun Ce.
-- Wan City command: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|Hanji 1038]] shows Sun Ce and Zhou Yu attacking Wan City after Liu Xun leaves Lujiang.
-- Succession stabilization: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|Hanji 1045]] has Zhou Yu return from Baqiu with troops, mourn Sun Ce, remain in Wu Commandery as central guard, and co-manage affairs with Zhang Zhao.
-- Hostage-refusal counsel: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] has Zhou Yu tell Sun Quan not to send a brother or son as hostage because Jiangdong has enough material base and because hostage service would bind Sun Quan to Cao Cao.
-- Title caution: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] warns that [[LuFan|吕范]]'s early `都督` role and Zhou Yu's later reputation should not be conflated with a later `大都督` office.
+- Birth marker: [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|汉纪 905]] records Zhou Yu's 175 CE birth as son of Luoyang county magistrate Zhou Yi.
+- Family-alliance channel: [[zizhi-tongjian-hanji-982-ba-yi-ba-liubei-ru-xu-beihou-de-liyi-zhi-zheng-ljajdc95xtylhkn5teefz26yyyz1|汉纪 982]] has Zhou Yu meet Sun Ce, host the Sun family near him, and pay respects to Lady Wu.
+- Material launch support: [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|汉纪 992]] says Zhou Yu brings two thousand troops, fifty boats, funds, grain, and Danyang access through [[ZhouShangLateHan|周尚]].
+- Formal alignment: [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|汉纪 1028]] has Zhou Yu and [[LuSu|鲁肃]] judge Yuan Shu hopeless and cross the Yangtze toward Sun Ce.
+- Wan City command: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|汉纪 1038]] shows Sun Ce and Zhou Yu attacking Wan City after Liu Xun leaves Lujiang.
+- Succession stabilization: [[zizhi-tongjian-hanji-1045-ta-shi-jiangdong-baye-de-kaichuangzhe-kexi-si-de-tai-wonang-lgjjdmcfw1qkuba2xblgvvlfpy9d|汉纪 1045]] has Zhou Yu return from Baqiu with troops, mourn Sun Ce, remain in Wu Commandery as central guard, and co-manage affairs with Zhang Zhao.
+- Hostage-refusal counsel: [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|汉纪 1058]] has Zhou Yu tell Sun Quan not to send a brother or son as hostage because Jiangdong has enough material base and because hostage service would bind Sun Quan to Cao Cao.
+- Title caution: [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|汉纪 994]] warns that [[LuFan|吕范]]'s early `都督` role and Zhou Yu's later reputation should not be conflated with a later `大都督` office.
 
 ## Qualifications
-This page remains bounded to early Sun-Ce material, institutional title caution, the Lujiang campaign, the immediate Sun Quan succession, and the Hanji 1058 hostage-refusal decision. It is not yet a full synthesis of Zhou Yu's later Red Cliffs or Eastern Wu career. The new source strengthens Zhou Yu's strategic profile, but the refusal is still collective: Lady Wu's endorsement and Sun Quan's decision are part of the same outcome.
+This page remains bounded to early Sun-Ce material, institutional title caution, the Lujiang campaign, the immediate Sun Quan succession, and the 汉纪 1058 hostage-refusal decision. It is not yet a full synthesis of Zhou Yu's later Red Cliffs or Eastern Wu career. The new source strengthens Zhou Yu's strategic profile, but the refusal is still collective: Lady Wu's endorsement and Sun Quan's decision are part of the same outcome.
 
 ## What Changed
-- Added Hanji 1058, extending Zhou Yu from armed stabilizer into the adviser who defines Sun Quan's anti-hostage autonomy choice.
+- Added 汉纪 1058, extending Zhou Yu from armed stabilizer into the adviser who defines Sun Quan's anti-hostage autonomy choice.
 - Added Lady Wu's instruction that Sun Quan treat Zhou Yu like an elder brother.
 - Preserved prior title-history caution and early Jiangdong support layers.
 

@@ -14,7 +14,7 @@ Disaster-omen interpretive skepticism is the court-speech pattern where an advis
 
 ## Current Synthesis
 
-Hanji 548 creates the concept through [[ZhangYuWesternHan|张瑜 / 张禹]] advising [[HanChengdi|汉成帝]]. After earthquakes and eclipses are interpreted by some officials as signs that Wang-family outer relatives have overreached, Chengdi asks Zhang Yu whether he should act against his uncles. Zhang Yu's answer does not deny the moral universe of Heaven's warnings. Instead, he argues that the causes of disasters in classical records are multiple and hard to know, that sages speak cautiously about Heaven and spirits, and that the ruler should respond through upright conduct rather than a shallow personnel attack.
+汉纪 548 creates the concept through [[ZhangYuWesternHan|张瑜 / 张禹]] advising [[HanChengdi|汉成帝]]. After earthquakes and eclipses are interpreted by some officials as signs that Wang-family outer relatives have overreached, Chengdi asks Zhang Yu whether he should act against his uncles. Zhang Yu's answer does not deny the moral universe of Heaven's warnings. Instead, he argues that the causes of disasters in classical records are multiple and hard to know, that sages speak cautiously about Heaven and spirits, and that the ruler should respond through upright conduct rather than a shallow personnel attack.
 
 The concept matters because omen language can become a weapon. Zhang Yu's skepticism blocks a disaster-based accusation against [[WangGenWesternHan|王根]] and the Wang side, while still preserving a moral demand on Chengdi to cultivate virtue.
 
@@ -29,16 +29,16 @@ The concept matters because omen language can become a weapon. Zhang Yu's skepti
 ## Evidence
 
 Disaster as personnel accusation:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says earthquakes and eclipses are read by some officials as caused by Wang-family outer-relative power.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says earthquakes and eclipses are read by some officials as caused by Wang-family outer-relative power.
 
 Interpretive humility:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says Zhang Yu cites varied causes for disasters in classical records and argues that Heaven's meaning is difficult to know.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says Zhang Yu cites varied causes for disasters in classical records and argues that Heaven's meaning is difficult to know.
 
 Moral response without scapegoating:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says Zhang Yu advises Chengdi to cultivate uprightness and good conduct rather than trust shallow Confucian assertions.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says Zhang Yu advises Chengdi to cultivate uprightness and good conduct rather than trust shallow Confucian assertions.
 
 De-escalation effect:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says the advice removes Chengdi's suspicion of the outer relatives and helps soften Wang Gen's hostility toward Zhang Yu.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says the advice removes Chengdi's suspicion of the outer relatives and helps soften Wang Gen's hostility toward Zhang Yu.
 
 ## Counterevidence & Qualifications
 
@@ -46,7 +46,7 @@ This concept does not claim disasters have no political meaning in the source wo
 
 ## What Changed
 
-- Created the concept from Hanji 548's Zhang Yu advice on earthquakes, eclipses, and Wang-family blame.
+- Created the concept from 汉纪 548's Zhang Yu advice on earthquakes, eclipses, and Wang-family blame.
 
 ## Related Concepts
 

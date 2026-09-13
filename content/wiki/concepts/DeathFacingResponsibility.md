@@ -14,7 +14,7 @@ Death-facing responsibility / 赴死式责任承担 is the pattern where an acto
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] defines the pattern through the immediate aftermath of the failed [[DouWuLateHan|Dou Wu]] and [[ChenFanLateHan|Chen Fan]] anti-eunuch crisis. The episode gives three action-types rather than a single model of martyrdom. [[BaSuLateHan|Ba Su]] makes responsibility public by refusing escape and accepting execution. [[ZhuZhenLateHan|Zhu Zhen]] makes responsibility protective by burying Chen Fan and hiding [[ChenYiLateHan|Chen Yi]]. [[HuTengLateHan|Hu Teng]] makes responsibility retainer-based by burying Dou Wu and sheltering Dou's young grandson.
+[[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] defines the pattern through the immediate aftermath of the failed [[DouWuLateHan|Dou Wu]] and [[ChenFanLateHan|Chen Fan]] anti-eunuch crisis. The episode gives three action-types rather than a single model of martyrdom. [[BaSuLateHan|Ba Su]] makes responsibility public by refusing escape and accepting execution. [[ZhuZhenLateHan|Zhu Zhen]] makes responsibility protective by burying Chen Fan and hiding [[ChenYiLateHan|Chen Yi]]. [[HuTengLateHan|Hu Teng]] makes responsibility retainer-based by burying Dou Wu and sheltering Dou's young grandson.
 
 The concept overlaps with [[DeathDefyingRemonstrance|death-defying remonstrance]] but is broader. Speech to power is not required. What matters is the actor's refusal to let danger erase a duty after the losing side has already been marked for punishment. The episode also keeps the survival objection alive through the phrase "留得青山在," so death-facing responsibility is a contested judgment under risk, not a blanket dismissal of self-preservation.
 
@@ -29,11 +29,11 @@ The concept overlaps with [[DeathDefyingRemonstrance|death-defying remonstrance]
 
 ## Evidence
 
-- Self-surrender after arrest: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] presents Ba Su refusing the county magistrate's offer of escape and accepting execution.
-- Burial and survivor protection: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] presents Zhu Zhen burying Chen Fan, hiding Chen Yi, and relying on family silence under imprisonment and torture.
-- Retainer obligation: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] presents Hu Teng burying and publicly mourning Dou Wu, then hiding Dou Wu's two-year-old grandson as his own son.
-- Survival counterargument: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] explicitly raises "留得青山在，何愁没柴烧" before honoring Ba Su's choice.
-- Outcome mismatch: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] pairs these courageous cases with rewards to the eunuch side and a closing caution that harmful people can still end well.
+- Self-surrender after arrest: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] presents Ba Su refusing the county magistrate's offer of escape and accepting execution.
+- Burial and survivor protection: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] presents Zhu Zhen burying Chen Fan, hiding Chen Yi, and relying on family silence under imprisonment and torture.
+- Retainer obligation: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] presents Hu Teng burying and publicly mourning Dou Wu, then hiding Dou Wu's two-year-old grandson as his own son.
+- Survival counterargument: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] explicitly raises "留得青山在，何愁没柴烧" before honoring Ba Su's choice.
+- Outcome mismatch: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] pairs these courageous cases with rewards to the eunuch side and a closing caution that harmful people can still end well.
 
 ## Counterevidence & Qualifications
 
@@ -44,7 +44,7 @@ The concept overlaps with [[DeathDefyingRemonstrance|death-defying remonstrance]
 
 ## What Changed
 
-- Created the concept from Hanji 888's Ba Su, Zhu Zhen, and Hu Teng cases.
+- Created the concept from 汉纪 888's Ba Su, Zhu Zhen, and Hu Teng cases.
 
 ## Related Concepts
 

@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-徐敬 / Xu Jing appears in this wiki as a Runan official whose value in Hanji 807 comes less from named policy achievement than from a clean political record across earlier outer-relative regimes. The source uses his appointment under [[EmperorShunOfHan|Emperor Shun]] to show that not attaching oneself to dominant kinship factions can become later trust capital.
+徐敬 / Xu Jing appears in this wiki as a Runan official whose value in 汉纪 807 comes less from named policy achievement than from a clean political record across earlier outer-relative regimes. The source uses his appointment under [[EmperorShunOfHan|Emperor Shun]] to show that not attaching oneself to dominant kinship factions can become later trust capital.
 
 ## Current Profile
 
-In [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]], Xu Jing is appointed situ after earlier high-office removals following a solar eclipse. The source identifies him as a Runan man who had served during Emperor He and Emperor An's periods.
+In [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]], Xu Jing is appointed situ after earlier high-office removals following a solar eclipse. The source identifies him as a Runan man who had served during Emperor He and Emperor An's periods.
 
 Xu Jing's main profile is negative in the technical sense: what matters is what he did not do. During the dominance of the Dou, Deng, and Yan outer-relative houses, he did not submit to them. After those houses collapsed, many officials who returned to high office carried political stains, while Xu Jing did not attract comparable criticism.
 
@@ -30,19 +30,19 @@ The host therefore treats him as skilled at being an official without claiming t
 
 ## Evidence
 
-- Appointment and origin: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Xu Jing, a Runan man and Guanglu xun, is appointed situ in the 127 CE office sequence.
-- Earlier service: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Xu Jing had served in the Emperor He and Emperor An periods.
-- Nonalignment: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Xu Jing did not yield to the Dou, Deng, or Yan outer-relative houses when they were powerful.
-- Clean record: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says many later high officials had stains after those houses fell, but Xu Jing was not criticized by officials.
-- Family reputation: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] connects Xu Jing to the later Runan Xu family and to Xu Shao's reputation judgment of Cao Cao.
+- Appointment and origin: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Xu Jing, a Runan man and Guanglu xun, is appointed situ in the 127 CE office sequence.
+- Earlier service: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Xu Jing had served in the Emperor He and Emperor An periods.
+- Nonalignment: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Xu Jing did not yield to the Dou, Deng, or Yan outer-relative houses when they were powerful.
+- Clean record: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says many later high officials had stains after those houses fell, but Xu Jing was not criticized by officials.
+- Family reputation: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] connects Xu Jing to the later Runan Xu family and to Xu Shao's reputation judgment of Cao Cao.
 
 ## Qualifications
 
-This page is bounded to Hanji 807. The source explicitly says Xu Jing is not being presented as a figure with especially brilliant named achievements. The Dou, Deng, and Yan family details, the precise Runan Xu genealogy, and the famous Cao Cao judgment through Xu Shao remain source-scoped until further evidence is added.
+This page is bounded to 汉纪 807. The source explicitly says Xu Jing is not being presented as a figure with especially brilliant named achievements. The Dou, Deng, and Yan family details, the precise Runan Xu genealogy, and the famous Cao Cao judgment through Xu Shao remain source-scoped until further evidence is added.
 
 ## What Changed
 
-- Created Xu Jing as a source-bounded court-survival and nonalignment figure from Hanji 807.
+- Created Xu Jing as a source-bounded court-survival and nonalignment figure from 汉纪 807.
 
 ## Relationships
 

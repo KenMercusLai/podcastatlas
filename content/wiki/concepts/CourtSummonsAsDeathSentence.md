@@ -16,9 +16,9 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-The current source set has two variants. [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] gives the earlier [[XiaoWangzhiWesternHan|萧望之]] case: [[HongGongWesternHan|弘恭]] and [[ShiXianWesternHan|石显]] recommend summoning Xiao and [[ZhouKanWesternHan|周堪]] to Tingwei, while [[HanYuandi|汉元帝]] reportedly misunderstands the phrase as questioning rather than arrest. The result is still custody, humiliation, and a face-saving pardon that leaves Xiao politically marked. [[WangJiaWesternHan|王嘉]] across [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] and [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] gives the later explicit suicide-convention variant. After [[HanAidi|汉哀帝]] orders him summoned to the Tingwei prison, Wang Jia's household officials cry and prepare poison. His clerk tells him that generals and chancellors do not plead before judicial officers and that a marquis should self-kill. The summons therefore functions not only as legal transfer but as an etiquette-coded death command.
+The current source set has two variants. [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]] gives the earlier [[XiaoWangzhiWesternHan|萧望之]] case: [[HongGongWesternHan|弘恭]] and [[ShiXianWesternHan|石显]] recommend summoning Xiao and [[ZhouKanWesternHan|周堪]] to Tingwei, while [[HanYuandi|汉元帝]] reportedly misunderstands the phrase as questioning rather than arrest. The result is still custody, humiliation, and a face-saving pardon that leaves Xiao politically marked. [[WangJiaWesternHan|王嘉]] across [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|汉纪 598]] and [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|汉纪 599]] gives the later explicit suicide-convention variant. After [[HanAidi|汉哀帝]] orders him summoned to the Tingwei prison, Wang Jia's household officials cry and prepare poison. His clerk tells him that generals and chancellors do not plead before judicial officers and that a marquis should self-kill. The summons therefore functions not only as legal transfer but as an etiquette-coded death command.
 
-The sources also record resistance to the norm. Wang Jia breaks the poison cup and says that as a Three Excellencies minister entrusted with state service, if he must die he should be executed publicly in the marketplace rather than privately by poison. Hanji 599 then shows the cost of exposing the convention: Aidi is furious that Wang Jia arrives alive, the interrogation presumes guilt, and Wang Jia dies in prison after continuing to defend legal review and attack Dong Xian's disruptive influence.
+The sources also record resistance to the norm. Wang Jia breaks the poison cup and says that as a Three Excellencies minister entrusted with state service, if he must die he should be executed publicly in the marketplace rather than privately by poison. 汉纪 599 then shows the cost of exposing the convention: Aidi is furious that Wang Jia arrives alive, the interrogation presumes guilt, and Wang Jia dies in prison after continuing to defend legal review and attack Dong Xian's disruptive influence.
 
 ## Key Claims
 
@@ -32,22 +32,22 @@ The sources also record resistance to the norm. Wang Jia breaks the poison cup a
 
 ## Evidence
 
-- Summons and poison: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Wang Jia's staff prepare poison when the Tingwei summons arrives.
-- Earlier custody trap: [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] says Hong Gong and Shi Xian advise sending Xiao Wangzhi and Zhou Kan to Tingwei, while Yuan does not understand that the formula means arrest rather than ordinary inquiry.
-- Stigmatizing release: [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] says Xiao is released by pardon, which preserves Yuan's face but treats Xiao as guilty enough to be forgiven.
-- Norm statement: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says the clerk argues that senior ministers do not plead before law officers.
-- Refusal: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Wang Jia breaks the cup and chooses formal custody over private poison.
-- Public-death claim: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|Hanji 598]] says Wang Jia argues that a Three Excellencies minister should die publicly if death is required.
-- Anger at survival: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Aidi is angry after learning Wang Jia has gone alive to Tingwei custody.
-- Process after refusal: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Wang Jia is interrogated, humiliated, and dies after more than twenty days in prison.
+- Summons and poison: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|汉纪 598]] says Wang Jia's staff prepare poison when the Tingwei summons arrives.
+- Earlier custody trap: [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]] says Hong Gong and Shi Xian advise sending Xiao Wangzhi and Zhou Kan to Tingwei, while Yuan does not understand that the formula means arrest rather than ordinary inquiry.
+- Stigmatizing release: [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]] says Xiao is released by pardon, which preserves Yuan's face but treats Xiao as guilty enough to be forgiven.
+- Norm statement: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|汉纪 598]] says the clerk argues that senior ministers do not plead before law officers.
+- Refusal: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|汉纪 598]] says Wang Jia breaks the cup and chooses formal custody over private poison.
+- Public-death claim: [[zizhi-tongjian-hanji-598-gudai-chaotang-de-douzheng-you-duo-canku-luof-1bxomtcsrkcvmuplpugaw4d|汉纪 598]] says Wang Jia argues that a Three Excellencies minister should die publicly if death is required.
+- Anger at survival: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|汉纪 599]] says Aidi is angry after learning Wang Jia has gone alive to Tingwei custody.
+- Process after refusal: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|汉纪 599]] says Wang Jia is interrogated, humiliated, and dies after more than twenty days in prison.
 
 ## Counterevidence & Qualifications
 
-The page is grounded in one continuous Wang Jia case across two episode notes plus the earlier Xiao Wangzhi variant. It should not be generalized to all Han judicial summonses. Hanji 469 supports a broader custody-as-coercion pattern but does not show the same explicit poison-suicide script as Wang Jia. The exact legal status of the norm, how often it was followed, and whether every Tingwei summons carried the same expectation remain source-scoped.
+The page is grounded in one continuous Wang Jia case across two episode notes plus the earlier Xiao Wangzhi variant. It should not be generalized to all Han judicial summonses. 汉纪 469 supports a broader custody-as-coercion pattern but does not show the same explicit poison-suicide script as Wang Jia. The exact legal status of the norm, how often it was followed, and whether every Tingwei summons carried the same expectation remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 469's earlier Xiao Wangzhi case, distinguishing Tingwei custody as a stigmatizing procedural trap from the later Wang Jia suicide-convention variant.
+- Added 汉纪 469's earlier Xiao Wangzhi case, distinguishing Tingwei custody as a stigmatizing procedural trap from the later Wang Jia suicide-convention variant.
 
 ## Related Concepts
 
@@ -57,4 +57,4 @@ The page is grounded in one continuous Wang Jia case across two episode notes pl
 - [[WangJiaWesternHan|王嘉]] - source case who refuses the suicide convention.
 - [[XiaoWangzhiWesternHan|萧望之]] - earlier source case whose Tingwei custody and pardon leave a reputational wound before the later suicide.
 - [[HanAidi|汉哀帝]] - ruler whose order initiates the summons in the source.
-- [[HanYuandi|汉元帝]] - ruler whose misunderstanding of Tingwei procedure is exploited in Hanji 469.
+- [[HanYuandi|汉元帝]] - ruler whose misunderstanding of Tingwei procedure is exploited in 汉纪 469.

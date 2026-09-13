@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 199 CE Jiangdong-Lujiang branch immediately before [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]]. [[SunCe|孙策]] uses gifts, humility, and the promise of support to draw [[LiuXunLateHan|刘勋]] out toward Shangliao, while [[LiuYeLateHan|刘晔 / 刘业]] correctly warns that the move will expose Liu Xun's rear.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 199 CE Jiangdong-Lujiang branch immediately before [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]]. [[SunCe|孙策]] uses gifts, humility, and the promise of support to draw [[LiuXunLateHan|刘勋]] out toward Shangliao, while [[LiuYeLateHan|刘晔 / 刘业]] correctly warns that the move will expose Liu Xun's rear.
 
 The core contribution is a named [[LureEnemyOutOfPosition|调虎离山 / 诱敌离位]] case: Sun Ce avoids a direct assault on strong [[LujiangCommandery|庐江郡]], waits until Liu Xun's main force is away, and then takes [[WanChengLujiang|皖城]] with [[ZhouYuLateHan|周瑜]]. The episode then follows Sun Ce's defeat of Liu Xun, pressure on [[HuangZu|黄祖]], and move toward [[YuzhangCommandery|豫章郡]], while preserving the host's broad but source-scoped claim that war reallocates survival space by force.
 
@@ -38,10 +38,10 @@ The core contribution is a named [[LureEnemyOutOfPosition|调虎离山 / 诱敌�
 - [[SunCe|孙策]], [[LiuXunLateHan|刘勋]], [[LiuYeLateHan|刘晔 / 刘业]], [[LujiangCommandery|庐江郡]], and [[WanChengLujiang|皖城]] - main deception, warning, and base-seizure branch.
 - [[ZhouYuLateHan|周瑜]], [[SunBenLateHan|孙贲]], and [[SunFuLateHan|孙辅]] - Sun-side command and family support during the Wan City operation.
 - [[HuangZu|黄祖]], [[LiuBiao|刘表]], and [[CaoCao|曹操]] - Liu Xun's failed aid path, Sun Ce's follow-on attack, and Liu Xun's final refuge.
-- [[HuaXin|华歆]], [[YuFan|虞翻]], and [[YuzhangCommandery|豫章郡]] - setup for the surrender-persuasion branch developed by Hanji 1039.
+- [[HuaXin|华歆]], [[YuFan|虞翻]], and [[YuzhangCommandery|豫章郡]] - setup for the surrender-persuasion branch developed by 汉纪 1039.
 - [[LureEnemyOutOfPosition|诱敌离位]], [[BattlefieldInformationControl|战场信息控制]], [[RootBasePriority|根本根据地优先]], and [[WarAsViolentRedistribution|战争的暴力再分配]] - concepts extended by the episode's strategy and war-theory commentary.
 
 ## Contradictions
-- No settled contradiction found. The source backfills the missing Hanji 1038 branch between earlier Sun Ce/Yuzhang intelligence and Hanji 1039's Hua Xin surrender.
+- No settled contradiction found. The source backfills the missing 汉纪 1038 branch between earlier Sun Ce/Yuzhang intelligence and 汉纪 1039's Hua Xin surrender.
 - Identity caution: the transcript renders the adviser as "刘业"; the wiki normalizes the figure to [[LiuYeLateHan|刘晔 / Liu Ye]] while preserving the source spelling.
 - Place caution: [[WanChengLujiang|皖城]] is disambiguated from [[WanCounty|宛县 / 宛城]] because this episode's city is the Lujiang target, not the Nanyang Wancheng branch.

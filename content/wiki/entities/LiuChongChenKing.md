@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 刘宠 / Liu Chong (Chen king)
 
-刘宠 / Liu Chong enters the wiki through [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] as the late-Han Chen king later remembered with the posthumous name Min / 愍. The episode presents him as a Han imperial kinsman descended from Han Mingdi and as a local ruler with unusually strong martial skill, especially crossbow shooting.
+刘宠 / Liu Chong enters the wiki through [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|汉纪 1019]] as the late-Han Chen king later remembered with the posthumous name Min / 愍. The episode presents him as a Han imperial kinsman descended from Han Mingdi and as a local ruler with unusually strong martial skill, especially crossbow shooting.
 
 His importance in this source is not only personal courage. Liu Chong works with [[LuoJun|骆俊]] to make [[ChenStateLateHan|陈国]] a rare protected space after Yellow Turban disruption: Luo Jun manages internal order while Liu Chong trains armed defense. This pairing lets Chen absorb displaced people and accumulate a large force.
 

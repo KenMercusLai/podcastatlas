@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a 2 CE [[HanPingdi|汉平帝]] frontier incident immediately before [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]]'s name-reform and marriage-politics layer. It follows Xu Pu's road-opening project through the flight of [[GougouCheshiKing|车师后王沽沟]] and [[TangdouRuoqiangKing|若羌去胡来王唐斗]] to [[Xiongnu|匈奴]], then shows the Han court forcing their return, executing them in front of Western Regions rulers, and issuing new anti-harboring rules for Xiongnu.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a 2 CE [[HanPingdi|汉平帝]] frontier incident immediately before [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|汉纪 614]]'s name-reform and marriage-politics layer. It follows Xu Pu's road-opening project through the flight of [[GougouCheshiKing|车师后王沽沟]] and [[TangdouRuoqiangKing|若羌去胡来王唐斗]] to [[Xiongnu|匈奴]], then shows the Han court forcing their return, executing them in front of Western Regions rulers, and issuing new anti-harboring rules for Xiongnu.
 
 The durable synthesis is that Wang Mang-era frontier control already joins infrastructure pressure, dependent-polity fear, extradition diplomacy, and staged punishment before the later Xin rupture. The public execution of two frontier rulers creates [[CoerciveFrontierDeterrence|coercive frontier deterrence]], but the episode also records resentment and caution among Western Regions states, making the policy an early warning that force-backed order can damage allegiance.
 
@@ -41,10 +41,10 @@ The durable synthesis is that Wang Mang-era frontier control already joins infra
 - [[CoerciveFrontierDeterrence|强制边疆震慑]] - concept created from extradition, assembled rulers, military display, execution, and anti-harboring rules.
 - [[FrontierOfficialAbuseRebellionSpiral|边吏侵害引发反叛螺旋]] - adjacent failure mode because detention, rescue failure, and blocked passage create fear before open defection.
 - [[ConfucianForeignPolicyMoralism|儒家外交道德主义]] and [[SymbolicStatusDowngradeBackfire|象征性名分降格反噬]] - later Wang Mang frontier pages show the same high-control impulse turning from deterrence into diplomatic rupture.
-- [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]] and [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] - immediate sequel into symbolic name-ordering and later Xin-era Xiongnu-Western Regions rupture.
+- [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|汉纪 614]] and [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] - immediate sequel into symbolic name-ordering and later Xin-era Xiongnu-Western Regions rupture.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 2 CE before Hanji 614's name reform and before the much later Hanji 640 Xin-Xiongnu rupture; it should not be merged into the 10 CE Later Cheshi king Xuzhili/Hulan Zhi branch.
+- Chronology qualification: this source backfills 2 CE before 汉纪 614's name reform and before the much later 汉纪 640 Xin-Xiongnu rupture; it should not be merged into the 10 CE Later Cheshi king Xuzhili/Hulan Zhi branch.
 - Scope caution: Xu Pu, Dan Qin, Gu Zizhou, Han Long, Wang Meng, Wang Jun, Wang Chang, Zhen Fu, Wang Xun, the Chishui Qiang conflict, exact road geography, and the chanyu's inner motive remain source-scoped unless later notes warrant canonical pages.

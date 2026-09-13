@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 125 CE palace-coup layer before [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] and [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]]. It follows [[EmperorShunOfHan|汉顺帝 / Liu Bao]]'s enthronement through seal and palace control, the destruction of [[YanXianLateHan|阎显]] and the Yan outer-relative network, the rewarding of [[SunChengLateHan|孙程]] and nineteen eunuchs, and the merit-list risk around [[WangKangLateHan|王康]] and [[MiaoGuangLateHan|苗光]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 125 CE palace-coup layer before [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] and [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|汉纪 806]]. It follows [[EmperorShunOfHan|汉顺帝 / Liu Bao]]'s enthronement through seal and palace control, the destruction of [[YanXianLateHan|阎显]] and the Yan outer-relative network, the rewarding of [[SunChengLateHan|孙程]] and nineteen eunuchs, and the merit-list risk around [[WangKangLateHan|王康]] and [[MiaoGuangLateHan|苗光]].
 
 The durable synthesis is that restoring a ruler does not end political danger; it changes where danger sits. Once the Yan family falls, the same eunuch merit bloc that made restoration possible must rank rewards, manage hidden hesitation, and prevent internal rivalries from becoming a new threat field.
 
@@ -43,11 +43,11 @@ The durable synthesis is that restoring a ruler does not end political danger; i
 - [[SunChengLateHan|孙程]], [[WangKangLateHan|王康]], [[MiaoGuangLateHan|苗光]], [[WangGuoEunuchLateHan|王国]], [[CoupCreditAllocationRisk|宫变功劳分配风险]], and [[PostRestorationMeritThreat|复国功臣威胁化]] - the restoration merit group turns from common-risk alliance into a reward-ranking and leverage problem.
 - [[PalaceCoupSymbolControl|宫廷政变中的符印与门户控制]] and [[MingqiLegitimacy|名器合法性]] - the North Palace seal, Jiade Hall installation, gates, and certificates make authority operational and legible.
 - [[CuiYuanLateHan|崔瑗]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[SuccessionLegitimacyPurge|继位合法性清洗]] - Cui Yuan reads Beixiang Hou's legitimacy weakness but later refuses to expose private counsel after the winning side changes.
-- [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] and [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] - downstream notes covering the restoration settlement, Yan Taihou's public treatment, Yu Xu's cleanup, Zhang Fang, and later Sun Cheng merit backlash.
+- [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] and [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|汉纪 806]] - downstream notes covering the restoration settlement, Yan Taihou's public treatment, Yu Xu's cleanup, Zhang Fang, and later Sun Cheng merit backlash.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found. This source backfills the pre-Hanji-805 coup execution and merit-ranking layer that the existing wiki had only summarized from later notes.
-- Chronology caution: because synthesis-v1 source lists preserve existing order and append newly read evidence, Hanji 804 appears after Hanji 805/806 in some frontmatter even though it is chronologically earlier.
+- Chronology caution: because synthesis-v1 source lists preserve existing order and append newly read evidence, 汉纪 804 appears after 汉纪 805/806 in some frontmatter even though it is chronologically earlier.
 - Identity caution: this source's eunuch 王国 is disambiguated as [[WangGuoEunuchLateHan|WangGuoEunuchLateHan]] and must not be merged with the later Liangzhou rebel [[WangGuoLateHan|王国 / Wang Guo]].
 - Scope caution: Yan Yao, Yan Yan, Liu An, Chen Da, Li Run, Lai Li, Deng Feng, Liu Qiuhong, Chen Guang, Zhao Dai, Beixiang Hou / Liu Yi, Chen Chan, the Huangmen Ling, and the exact office-promotion list remain source-scoped until further evidence warrants canonical pages.

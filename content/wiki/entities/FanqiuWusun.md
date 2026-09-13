@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-番丘 / Fanqiu enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] as [[MozhenjiangWusun|末振将]]'s son and the target of [[DuanHuizongWesternHan|段会宗]]'s punitive Wusun mission.
+番丘 / Fanqiu enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] as [[MozhenjiangWusun|末振将]]'s son and the target of [[DuanHuizongWesternHan|段会宗]]'s punitive Wusun mission.
 
 ## Current Profile
 
@@ -27,9 +27,9 @@ His death produces the episode's major confrontation. Many of Fanqiu's followers
 
 ## Evidence
 
-- Punitive target: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Han sends Duan to kill Mozhenjiang's son Fanqiu after regretting that Mozhenjiang was not personally punished.
-- Killing method: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Duan summons Fanqiu, states the offenses, and hidden axemen kill him.
-- Retaliation risk: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Anlimi surrounds Duan after Fanqiu's death.
+- Punitive target: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Han sends Duan to kill Mozhenjiang's son Fanqiu after regretting that Mozhenjiang was not personally punished.
+- Killing method: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Duan summons Fanqiu, states the offenses, and hidden axemen kill him.
+- Retaliation risk: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Anlimi surrounds Duan after Fanqiu's death.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page is source-bounded and does not establish Fanqiu's broader biography, a
 
 ## What Changed
 
-- Created the page from Hanji 550's punitive killing scene.
+- Created the page from 汉纪 550's punitive killing scene.
 
 ## Relationships
 

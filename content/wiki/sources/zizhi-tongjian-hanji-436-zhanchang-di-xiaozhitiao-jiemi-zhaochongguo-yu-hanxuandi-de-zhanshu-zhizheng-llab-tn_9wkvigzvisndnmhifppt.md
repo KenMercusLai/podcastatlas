@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the tactical dispute before [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]]'s accepted Qiang屯田 policy. Xin Wuxian / 辛武贤 urges a July multi-route attack against Qiang groups, while [[ZhaoChongguoWesternHan|赵充国]] argues to preserve the original aim: split the Qiang coalition, punish the [[XianlingQiang|先零羌]] as the main culprit, pardon coerced groups, and avoid turning loose allies into a harder enemy bloc.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the tactical dispute before [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]]'s accepted Qiang屯田 policy. Xin Wuxian / 辛武贤 urges a July multi-route attack against Qiang groups, while [[ZhaoChongguoWesternHan|赵充国]] argues to preserve the original aim: split the Qiang coalition, punish the [[XianlingQiang|先零羌]] as the main culprit, pardon coerced groups, and avoid turning loose allies into a harder enemy bloc.
 
 The durable synthesis is that Zhao's restraint is operational, not passive. He audits food, pack animals, terrain, enemy timing, alliance psychology, and postwar frontier cost; then he persuades [[EmperorXuanOfHan|汉宣帝]] that attacking the wrong target at the wrong moment would strengthen the very coalition Han wants to break.
 
@@ -38,13 +38,13 @@ The durable synthesis is that Zhao's restraint is operational, not passive. He a
 ## Connections
 
 - [[ZhaoChongguoWesternHan|赵充国]] and [[EmperorXuanOfHan|汉宣帝]] - the source adds the pre-屯田 tactical argument in which Zhao persuades Xuan away from Xin Wuxian's attack plan.
-- Xin Wuxian / 辛武贤 and Xu Yanshou / 徐延寿 - the source introduces the attack-plan and appointment side that later becomes a rival-command layer in Hanji 440.
+- Xin Wuxian / 辛武贤 and Xu Yanshou / 徐延寿 - the source introduces the attack-plan and appointment side that later becomes a rival-command layer in 汉纪 440.
 - [[XianlingQiang|先零羌]] - main culprit in Zhao's diagnosis; the source keeps Western Han and later Eastern Han appearances source-scoped rather than assuming continuous organization.
 - [[CoalitionFractureExploitation|联盟裂缝利用]] - Zhao's plan seeks to prevent Xianling from binding allies and to separate coerced groups before decisive action.
 - [[FrontierDefensivePatience|边境防御耐心]] and [[WarCostTempoDiscipline|战争成本与速决纪律]] - Zhao's reasoning combines active waiting, logistics, and long-run cost control.
-- [[FrontierResourceIntegration|边疆资源整合治理]] - later Hanji 439 shows the accepted plan developing into屯田, infrastructure, and surrender management.
+- [[FrontierResourceIntegration|边疆资源整合治理]] - later 汉纪 439 shows the accepted plan developing into屯田, infrastructure, and surrender management.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills the tactical dispute before the already-ingested Hanji 439 and Hanji 440 layers.
+- No settled contradiction with existing wiki content was found. The episode backfills the tactical dispute before the already-ingested 汉纪 439 and 汉纪 440 layers.
 - Scope caution: Xin Wuxian, Xu Yanshou, Zhangye, Jiuquan, specific Qiang branch names, exact day-count logistics, and the date conversion around July 5 remain source-scoped unless future notes warrant fuller standalone treatment.

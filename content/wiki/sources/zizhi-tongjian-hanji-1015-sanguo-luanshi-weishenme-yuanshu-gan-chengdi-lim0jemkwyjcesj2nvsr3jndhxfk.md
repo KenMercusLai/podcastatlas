@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the missing lead-in to the Hanji 1016-1020 [[YuanShu|袁术]] failure branch. It first shows [[CaoCao|曹操]] sorting his strategic order through [[GuoJia|郭嘉]], [[XunYu|荀彧]], and [[ZhongYao|钟繇]]: keep [[GuanzhongRegion|关中]] stable through [[MaTeng|马腾]] and [[HanSui|韩遂]], then avoid facing [[YuanShao|袁绍]] while [[LyuBu|吕布]] remains loose in the east. The second half explains Yuan Shu's self-coronation at [[Shouchun|寿春]] as a mismatch between title, capacity, and accepted order, turning his claim into a case of [[MingqiLegitimacy|名器合法性]], [[TitleRealityRestraint|名实相符式名号节制]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the missing lead-in to the 汉纪 1016-1020 [[YuanShu|袁术]] failure branch. It first shows [[CaoCao|曹操]] sorting his strategic order through [[GuoJia|郭嘉]], [[XunYu|荀彧]], and [[ZhongYao|钟繇]]: keep [[GuanzhongRegion|关中]] stable through [[MaTeng|马腾]] and [[HanSui|韩遂]], then avoid facing [[YuanShao|袁绍]] while [[LyuBu|吕布]] remains loose in the east. The second half explains Yuan Shu's self-coronation at [[Shouchun|寿春]] as a mismatch between title, capacity, and accepted order, turning his claim into a case of [[MingqiLegitimacy|名器合法性]], [[TitleRealityRestraint|名实相符式名号节制]], and [[AntiUsurpationCoalitionPressure|讨逆同盟压力]].
 
 ## Key Claims
 - The host opens with self-knowledge as the judgment frame: ambition becomes dangerous when ability, action, position, and surrounding rules do not match.
@@ -39,8 +39,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies th
 - [[AntiUsurpationCoalitionPressure|讨逆同盟压力]], [[MoralizedWarPretext|道德化战争借口]], [[StatusOrderBacklash|名分秩序反弹]], [[EmperorXianOfHan|汉献帝]], [[CaoCao|曹操]], [[LiuBei|刘备]], [[SunCe|孙策]], [[YuanShao|袁绍]], and [[LyuBu|吕布]] - why Yuan Shu's claim changes other actors' obligations and opportunities.
 - [[CaoCao|曹操]], [[GuoJia|郭嘉]], [[XunYu|荀彧]], [[ZhongYao|钟繇]], [[GuanzhongRegion|关中]], [[MaTeng|马腾]], and [[HanSui|韩遂]] - the rear-stabilization and eastward-priority branch before the Yuan Shu crisis.
 - [[XingshiqingStrategicAssessment|行势情战略评估]] and [[PoliticalSurvivalFirst|安全第一政治生存]] - broader judgment frames extended by the episode's attention to timing, geography, legitimacy, and actor incentives.
-- [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|Hanji 1016]], [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]], and [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|Hanji 1020]] - downstream pages that show Yuan Shu's marriage-alliance failure, predation, and collapse diagnosis.
+- [[zizhi-tongjian-hanji-1016-sanguo-luanshi-li-chengui-jiazu-de-mingyun-jueze-ltuckdcxpyxk-xmzp8rt-2gjfzcs|汉纪 1016]], [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|汉纪 1019]], and [[zizhi-tongjian-hanji-1020-sanguo-baijiazi-yuanshu-ruhe-ba-hao-pai-da-de-xilan-lhwr9hfmanr-zktleufy3kvl38u0|汉纪 1020]] - downstream pages that show Yuan Shu's marriage-alliance failure, predation, and collapse diagnosis.
 
 ## Contradictions
-- No settled contradiction found. This source supplies the initial Yuan Shu self-coronation and Cao Cao strategic-order setup that later Hanji 1016-1020 pages already treat as background.
+- No settled contradiction found. This source supplies the initial Yuan Shu self-coronation and Cao Cao strategic-order setup that later 汉纪 1016-1020 pages already treat as background.
 - Source-scope caution: the host's judgments such as "愚昧", "德不配位", and modern-management extensions are recorded as the episode's interpretation, not as a complete causal explanation for every military and fiscal dimension of Yuan Shu's collapse.

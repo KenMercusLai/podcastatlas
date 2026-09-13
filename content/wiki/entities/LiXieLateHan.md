@@ -15,9 +15,9 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-Hanji 853 supplies Li Xie's childhood survival layer. At thirteen, he is hidden by [[LiWenjiLateHan|李文姬]] while the family is under lethal threat. [[WangChengLiGuStudent|王成]] then moves him into [[Xuzhou|徐州]], where Li Xie changes his name, works in a small shop, and maintains public non-recognition with Wang Cheng. After [[LiangJiLateHan|梁冀]] is killed, Li Xie returns quietly, completes mourning for Li Gu, and follows Li Wenji's warning to close the door and avoid speech that could reopen danger.
+汉纪 853 supplies Li Xie's childhood survival layer. At thirteen, he is hidden by [[LiWenjiLateHan|李文姬]] while the family is under lethal threat. [[WangChengLiGuStudent|王成]] then moves him into [[Xuzhou|徐州]], where Li Xie changes his name, works in a small shop, and maintains public non-recognition with Wang Cheng. After [[LiangJiLateHan|梁冀]] is killed, Li Xie returns quietly, completes mourning for Li Gu, and follows Li Wenji's warning to close the door and avoid speech that could reopen danger.
 
-Hanji 929 supplies the later official layer. Li Xie serves as yilang and opposes restoring Liu Xu after the prince has been captured by the [[YellowTurbansLateHan|黄巾军]] and ransomed. The court punishes him as if he had slandered the imperial clan; when Liu Xu is later executed and Anping is abolished, Li Xie is released and restored, turning his punished warning into confirmed judgment.
+汉纪 929 supplies the later official layer. Li Xie serves as yilang and opposes restoring Liu Xu after the prince has been captured by the [[YellowTurbansLateHan|黄巾军]] and ransomed. The court punishes him as if he had slandered the imperial clan; when Liu Xu is later executed and Anping is abolished, Li Xie is released and restored, turning his punished warning into confirmed judgment.
 
 ## Key Characteristics
 
@@ -30,15 +30,15 @@ Hanji 929 supplies the later official layer. Li Xie serves as yilang and opposes
 
 ## Evidence
 
-- Concealed childhood survival: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Wenji hides thirteen-year-old Li Xie and Wang Cheng moves him into Xuzhou under a changed identity.
-- Low-exposure discipline: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Xie works in a shop and publicly pretends not to know Wang Cheng while being protected by him.
-- Cautious return: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Xie returns only after Liang Ji's fall, declines a conspicuous sendoff, completes mourning, and obeys Li Wenji's warning to avoid exposure.
-- Later office judgment: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] says Li Xie opposes restoring Liu Xu after the prince's capture and is punished before later vindication.
-- Family pattern: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] links Li Xie's objection to Li Gu through the father-son Luoyang saying.
+- Concealed childhood survival: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Wenji hides thirteen-year-old Li Xie and Wang Cheng moves him into Xuzhou under a changed identity.
+- Low-exposure discipline: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Xie works in a shop and publicly pretends not to know Wang Cheng while being protected by him.
+- Cautious return: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Xie returns only after Liang Ji's fall, declines a conspicuous sendoff, completes mourning, and obeys Li Wenji's warning to avoid exposure.
+- Later office judgment: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]] says Li Xie opposes restoring Liu Xu after the prince's capture and is punished before later vindication.
+- Family pattern: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]] links Li Xie's objection to Li Gu through the father-son Luoyang saying.
 
 ## Qualifications
 
-Hanji 853 uses 李谢, while this page follows the normalized Li Xie / 李燮 route already established by Hanji 929. The childhood flight and later yilang branch are separated by decades; the wiki treats them as a continuous person route because the Li Gu father-son relationship and received late-Han sequence align, but it does not fill in the entire intervening career.
+汉纪 853 uses 李谢, while this page follows the normalized Li Xie / 李燮 route already established by 汉纪 929. The childhood flight and later yilang branch are separated by decades; the wiki treats them as a continuous person route because the Li Gu father-son relationship and received late-Han sequence align, but it does not fill in the entire intervening career.
 
 ## What Changed
 

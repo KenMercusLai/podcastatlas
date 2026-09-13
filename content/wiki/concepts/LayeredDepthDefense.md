@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Layered Depth Defense / 纵深分层防御
 
-Layered depth defense / 纵深分层防御 is the tactical pattern [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|Hanji 167 part 2]] extracts from [[HanXin|韩信]]'s deployment at the [[GaixiaBattle|垓下之战]]. Instead of trying to stop [[XiangYu|项羽]] at one hard front, Han Xin builds three lines that can absorb, consume, and finally surround Chu's attack.
+Layered depth defense / 纵深分层防御 is the tactical pattern [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-2-li14pizmfrzhpg8m5bmxdx8ibw7p|汉纪 167 part 2]] extracts from [[HanXin|韩信]]'s deployment at the [[GaixiaBattle|垓下之战]]. Instead of trying to stop [[XiangYu|项羽]] at one hard front, Han Xin builds three lines that can absorb, consume, and finally surround Chu's attack.
 
 The first line is commanded by Han Xin with [[KongXi|孔熙]] and [[ChenHe|陈贺]] on the wings. When Xiang Yu strikes the center, Han Xin retreats in an ordered way while the wings keep pushing into the depth and threaten Chu's rear. The retreat therefore changes the geometry of the fight rather than simply conceding ground.
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 张咨 / Zhang Zi (late Han)
 
-张咨 / Zhang Zi (late Han) enters the wiki through [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] as the [[NanyangCommandery|Nanyang]] administrator who refuses grain to [[SunJianLateHan|Sun Jian]] and is then lured out and killed. The episode summary renders the name as 张姿; the page normalizes cautiously to the late-Han Nanyang administrator 张咨 and disambiguates him from [[ZhangZiQiGeneral|张子 / Zhang Zi (Qi general)]].
+张咨 / Zhang Zi (late Han) enters the wiki through [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|汉纪 952]] as the [[NanyangCommandery|Nanyang]] administrator who refuses grain to [[SunJianLateHan|Sun Jian]] and is then lured out and killed. The episode summary renders the name as 张姿; the page normalizes cautiously to the late-Han Nanyang administrator 张咨 and disambiguates him from [[ZhangZiQiGeneral|张子 / Zhang Zi (Qi general)]].
 
 Zhang Zi's death shows that Sun Jian's anti-Dong rise is powered not only by battlefield competence but also by coercive control of supply. Once Zhang Zi is killed, Nanyang's people comply from fear, making the episode an important preface to Sun Jian's later alliance with [[YuanShu|Yuan Shu]] at Luyang.
 

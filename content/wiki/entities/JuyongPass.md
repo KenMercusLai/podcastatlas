@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 居庸关 / Juyong Pass
 
-居庸关 / Juyong Pass enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] as both a failed refuge and a frontier route. After [[GongsunZan|公孙瓒]] breaks [[LiuYuLateHan|刘虞]]'s attack, Liu Yu retreats there with officials, but Gongsun Zan captures the position after three days.
+居庸关 / Juyong Pass enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|汉纪 972]] as both a failed refuge and a frontier route. After [[GongsunZan|公孙瓒]] breaks [[LiuYuLateHan|刘虞]]'s attack, Liu Yu retreats there with officials, but Gongsun Zan captures the position after three days.
 
 The same source also routes [[TianChou|田筹]] through Juyong Pass on his covert mission to [[EmperorXianOfHan|汉献帝]]. The pass therefore marks the difference between two uses of geography: Liu Yu's refuge cannot compensate for defeat, while Tian Chou uses the frontier route to preserve a narrow channel to the court.
 

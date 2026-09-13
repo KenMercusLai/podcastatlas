@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Hu Hong is introduced in Hanji 855 as the Jinan chancellor appointed to replace [[DuanJiongLateHan|段熲]] as Protector of the Qiang after Duan is blamed and punished.
+Hu Hong is introduced in 汉纪 855 as the Jinan chancellor appointed to replace [[DuanJiongLateHan|段熲]] as Protector of the Qiang after Duan is blamed and punished.
 
 ## Current Profile
 
@@ -30,9 +30,9 @@ His role is therefore transitional but important. Under his watch, the Qiang sid
 
 ## Evidence
 
-- Appointment path: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] says the court appoints Hu Hong after recalling and punishing Duan Jiong.
-- Capacity problem: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] says Hu Hong has no prestige or planning ability sufficient to resist the Qiang threat.
-- Frontier consequence: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] says Qiang forces become more arrogant, take camps and defensive points, and raid multiple commanderies.
+- Appointment path: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] says the court appoints Hu Hong after recalling and punishing Duan Jiong.
+- Capacity problem: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] says Hu Hong has no prestige or planning ability sufficient to resist the Qiang threat.
+- Frontier consequence: [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] says Qiang forces become more arrogant, take camps and defensive points, and raid multiple commanderies.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ The source gives Hu Hong as a personnel and frontier-capacity case, not as a dev
 
 ## What Changed
 
-- Created the page from Hanji 855's failed Protector of the Qiang succession account.
+- Created the page from 汉纪 855's failed Protector of the Qiang succession account.
 
 ## Relationships
 

@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-梁玉 / Liang Yu enters the wiki through [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] as the Taixue neighbor whose report turns a discussion by [[KongXiEasternHan|Kong Xi]] and [[CuiYinEasternHan|Cui Yin]] into a defamation case. His source role is procedural and political: he makes overheard speech legible to the state as accusation.
+梁玉 / Liang Yu enters the wiki through [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] as the Taixue neighbor whose report turns a discussion by [[KongXiEasternHan|Kong Xi]] and [[CuiYinEasternHan|Cui Yin]] into a defamation case. His source role is procedural and political: he makes overheard speech legible to the state as accusation.
 
 ## Current Profile
 
@@ -20,16 +20,16 @@ The current profile therefore treats Liang Yu as an informer figure rather than 
 
 ## Key Characteristics
 
-- Taixue-connected listener or neighbor in the Hanji 754 speech case.
+- Taixue-connected listener or neighbor in the 汉纪 754 speech case.
 - Reporting actor whose accusation converts private historical discussion into state investigation.
 - Procedural trigger for Kong Xi's memorial distinguishing criticism from defamation.
 - Source-bounded figure with no broader career reconstructed in the wiki.
 
 ## Evidence
 
-- Informer trigger: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Liang Yu overhears or learns of Kong Xi and Cui Yin's discussion and reports it as defamatory speech.
-- Accusation content: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says the report frames the discussion as slandering a former emperor and mocking the current emperor.
-- Consequence: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] makes Liang Yu's report the occasion for Kong Xi's self-defense and Emperor Zhang's non-punitive resolution.
+- Informer trigger: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] says Liang Yu overhears or learns of Kong Xi and Cui Yin's discussion and reports it as defamatory speech.
+- Accusation content: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] says the report frames the discussion as slandering a former emperor and mocking the current emperor.
+- Consequence: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] makes Liang Yu's report the occasion for Kong Xi's self-defense and Emperor Zhang's non-punitive resolution.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The page does not infer Liang Yu's motives beyond the report itself. The evidenc
 
 ## What Changed
 
-- Created Liang Yu as the source-bounded Taixue informer figure for Hanji 754.
+- Created Liang Yu as the source-bounded Taixue informer figure for 汉纪 754.
 
 ## Relationships
 

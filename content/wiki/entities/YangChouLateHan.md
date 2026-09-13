@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 杨丑 / Yang Chou (late Han)
 
-杨丑 / Yang Chou (late Han) enters the wiki through [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] as a subordinate of [[ZhangYangLateHan|张杨]]. While [[LyuBu|吕布]] is trapped at [[Xiapi|下邳]], Zhang Yang wants to rescue him but lacks enough force to do more than camp east of Yewang. Yang Chou then kills Zhang Yang and tries to move toward [[CaoCao|曹操]].
+杨丑 / Yang Chou (late Han) enters the wiki through [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|汉纪 1025]] as a subordinate of [[ZhangYangLateHan|张杨]]. While [[LyuBu|吕布]] is trapped at [[Xiapi|下邳]], Zhang Yang wants to rescue him but lacks enough force to do more than camp east of Yewang. Yang Chou then kills Zhang Yang and tries to move toward [[CaoCao|曹操]].
 
 The source says [[SuiGuLateHan|眭固]], another Zhang Yang subordinate, kills Yang Chou and leads the remaining troops north toward [[YuanShao|袁绍]]. Yang Chou's role is therefore brief but structurally important: he breaks a possible Lü Bu relief channel and turns Zhang Yang's earlier refuge value into a case of failed command authority.
 

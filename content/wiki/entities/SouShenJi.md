@@ -14,7 +14,7 @@ The source's main interpretive move is [[ZhiguaiArchiveValue]]. The book can con
 
 [[zizhi-tongjian-zhouji-68-jingtan-songkangwang-huangyinwudu-de-gouxue-lishi-2-lkn073gbtpmg11hcrcm8h6uvawzt]] adds a Song Kang Wang afterlife through the Han Ping and Xilu linked-branch story. The episode uses the tale to connect [[SongJunYan|宋康王 / 宋君偃]]'s tyrant reputation to later love-and-death motifs, showing how [[SouShenJi|《搜神记》]] can carry political memory into [[StoryMotifTransmission|story motif transmission]].
 
-[[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|Hanji 171 part 1]] names the book in the [[Chisongzi|赤松子]] branch. The episode uses 《搜神记》 as part of the mythic source layer for Chisongzi's immortal and rain-master lore, which then becomes the vocabulary for [[ZhangLiang|张良]]'s [[TranscendentExitPoliticalCamouflage|假托神仙式权力退场]].
+[[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|汉纪 171 part 1]] names the book in the [[Chisongzi|赤松子]] branch. The episode uses 《搜神记》 as part of the mythic source layer for Chisongzi's immortal and rain-master lore, which then becomes the vocabulary for [[ZhangLiang|张良]]'s [[TranscendentExitPoliticalCamouflage|假托神仙式权力退场]].
 
 ## Source Position
 - The episode treats the book's contradictions as part of its value: it records folk belief and anecdotal knowledge without reconciling every item into one doctrine.
@@ -27,5 +27,5 @@ The source's main interpretive move is [[ZhiguaiArchiveValue]]. The book can con
 - [[StrangeTaleMoralPluralism]] and [[FilialPietyStoryAfterlife]] - reception and moral-complexity concepts.
 - [[LiJiSlaysSnake]], [[TwentyFourFilialExemplars|《二十四孝》]], and [[JiangZiwen|蒋子文]] - key story or reception nodes from the episode.
 - [[SongJunYan|宋康王 / 宋君偃]] - episode 68's linked-branch story villain and political-memory extension.
-- [[Chisongzi|赤松子]], [[ZhangLiang|张良]], and [[TranscendentExitPoliticalCamouflage|假托神仙式权力退场]] - Hanji 171 mythic-lore use inside a political withdrawal reading.
+- [[Chisongzi|赤松子]], [[ZhangLiang|张良]], and [[TranscendentExitPoliticalCamouflage|假托神仙式权力退场]] - 汉纪 171 mythic-lore use inside a political withdrawal reading.
 - [[ChineseFolkReligionLayering]], [[StoryMotifTransmission]], and [[MythicSourceLayering]] - broader wiki frames extended by the book.

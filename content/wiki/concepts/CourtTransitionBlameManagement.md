@@ -15,9 +15,9 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] supplies the immediate trigger. After [[HanYuandi|汉元帝]] dies, [[HanChengdi|汉成帝]] moves [[ShiXianWesternHan|石显]] away from the inner document channel, and [[KuangHengWesternHan|匡衡]] with [[ZhangTanWesternHan|张谭]] impeaches Shi Xian once the ruler-protection structure has weakened. Shi Xian and his party are removed, and his death follows the collapse of the access network that had made him powerful.
+[[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|汉纪 500]] supplies the immediate trigger. After [[HanYuandi|汉元帝]] dies, [[HanChengdi|汉成帝]] moves [[ShiXianWesternHan|石显]] away from the inner document channel, and [[KuangHengWesternHan|匡衡]] with [[ZhangTanWesternHan|张谭]] impeaches Shi Xian once the ruler-protection structure has weakened. Shi Xian and his party are removed, and his death follows the collapse of the access network that had made him powerful.
 
-[[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] then creates the concept from the second-order problem. [[WangZunWesternHan|王尊]] attacks Kuang Heng and Zhang Tan for not reporting Shi Xian while he was powerful and for later wording that makes officials appear to have feared Shi Xian more than Yuan. On the merits, the accusation is not absurd: the episode treats post-amnesty speech and predecessor-blame as real dangers.
+[[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]] then creates the concept from the second-order problem. [[WangZunWesternHan|王尊]] attacks Kuang Heng and Zhang Tan for not reporting Shi Xian while he was powerful and for later wording that makes officials appear to have feared Shi Xian more than Yuan. On the merits, the accusation is not absurd: the episode treats post-amnesty speech and predecessor-blame as real dangers.
 
 Yet Chengdi does not remove Kuang Heng. The source reads this as new-ruler calculation rather than simple moral exoneration. Removing the chancellor and Yushi Dafu at the start of the reign would unsettle a court whose old order has already collapsed. Protecting Kuang Heng also creates an obligation: the retained chancellor must bow, apologize, request retirement when disasters occur, and absorb some public responsibility that might otherwise climb to the emperor.
 
@@ -35,17 +35,17 @@ The pattern therefore differs from ordinary [[BureaucraticImpeachmentReview|官�
 ## Evidence
 
 Cleanup opportunity:
-- [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] says Chengdi moves Shi Xian away from the inner access channel and Kuang Heng with Zhang Tan impeaches him after Yuan's backing is gone.
-- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says Shi Xian's fall leaves power, offices, and benefits open for redistribution.
+- [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|汉纪 500]] says Chengdi moves Shi Xian away from the inner access channel and Kuang Heng with Zhang Tan impeaches him after Yuan's backing is gone.
+- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]] says Shi Xian's fall leaves power, offices, and benefits open for redistribution.
 
 Accusation and predecessor dignity:
-- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says Wang Zun accuses Kuang Heng and Zhang Tan of accommodating Shi Xian and failing to report or punish him earlier.
-- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says Wang Zun objects to wording that makes officials fear Shi Xian more than the emperor.
+- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]] says Wang Zun accuses Kuang Heng and Zhang Tan of accommodating Shi Xian and failing to report or punish him earlier.
+- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]] says Wang Zun objects to wording that makes officials fear Shi Xian more than the emperor.
 
 Retention and responsibility absorption:
-- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says Kuang Heng returns his chancellor and marquis seals in fear and shame, but Chengdi reassures and retains him.
-- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says the host reads Chengdi as avoiding simultaneous removal of top officials at the start of the reign.
-- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|Hanji 502]] says disasters require someone to bear responsibility, and a retained chancellor must quickly stand out and take fault.
+- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]] says Kuang Heng returns his chancellor and marquis seals in fear and shame, but Chengdi reassures and retains him.
+- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]] says the host reads Chengdi as avoiding simultaneous removal of top officials at the start of the reign.
+- [[zizhi-tongjian-hanji-502-rang-laoban-bei-heiguo-shi-shui-zai-zhaosi-ls833sgrdjz9e1tupiiqillagohb|汉纪 502]] says disasters require someone to bear responsibility, and a retained chancellor must quickly stand out and take fault.
 
 ## Counterevidence & Qualifications
 
@@ -53,8 +53,8 @@ The concept rests on two compact podcast sources about the same early-Chengdi cl
 
 ## What Changed
 
-- Added Hanji 500's immediate Shi Xian transfer, impeachment, purge, and death sequence before Hanji 502's second-order blame-management problem.
-- Preserved Hanji 502's core synthesis that Chengdi's retention of Kuang Heng is about transition stability, predecessor dignity, and responsibility absorption.
+- Added 汉纪 500's immediate Shi Xian transfer, impeachment, purge, and death sequence before 汉纪 502's second-order blame-management problem.
+- Preserved 汉纪 502's core synthesis that Chengdi's retention of Kuang Heng is about transition stability, predecessor dignity, and responsibility absorption.
 
 ## Related Concepts
 

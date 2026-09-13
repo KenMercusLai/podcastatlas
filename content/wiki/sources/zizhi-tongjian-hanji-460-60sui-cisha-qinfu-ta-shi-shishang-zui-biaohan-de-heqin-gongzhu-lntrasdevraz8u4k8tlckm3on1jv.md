@@ -37,7 +37,7 @@ The durable synthesis is that Han frontier influence is rising, but it is mediat
 
 ## Connections
 
-- [[HuhanyeChanyuWesternHan|呼韩邪单于]], [[ZhizhiChanyu|郅支单于]], and [[Xiongnu|匈奴]] - the source adds the 53 BCE submission-and-hostage debate before later Hanji 465's Han-favored Huhanye layer.
+- [[HuhanyeChanyuWesternHan|呼韩邪单于]], [[ZhizhiChanyu|郅支单于]], and [[Xiongnu|匈奴]] - the source adds the 53 BCE submission-and-hostage debate before later 汉纪 465's Han-favored Huhanye layer.
 - [[XieyouPrincessWesternHan|解忧公主]], [[NimiWusun|狂王泥靡]], and [[Wusun|乌孙]] - the source's core Wusun branch: succession exclusion, coercive remarriage, abuse, assassination, and Chigu City siege.
 - [[HeqinPrincessSuccessionEntrapment|和亲公主继承困局]] and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - the episode shows marriage diplomacy creating durable political exposure for the woman sent into a frontier polity.
 - [[EmperorXuanOfHan|汉宣帝]], [[WesternHanDynasty|西汉]], and [[WesternRegionsProtectorate|西域都护府]] - Han influence is strong enough to attract Xiongnu submission and intervene in Wusun, but not strong enough to make frontier politics frictionless.

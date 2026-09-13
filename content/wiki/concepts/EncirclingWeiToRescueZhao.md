@@ -24,9 +24,9 @@ The current evidence presents the strategy as a reusable but execution-sensitive
 
 [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada|Zhouji 19]] extends the logic into the [[MalingBattle|马陵之战]] setup. [[QiState|齐国]] rescues [[HanState|韩国]] by again moving toward Daliang, but this time the source also emphasizes timing and forced-march risk after the pressure target pulls [[PangJuan|庞涓]] away from the Han front.
 
-[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] shows the pattern at a smaller late-Han operational scale. When [[YuDuLateHan|于毒]] attacks [[DongWuyangLateHan|东武阳]], [[CaoCao|曹操]] threatens Yu Du's own base, forcing Yu Du to return and lifting the siege before Cao Cao advances to fight [[SuiGuLateHan|眭固]] and [[YufuluoChanyu|于扶罗]].
+[[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|汉纪 961]] shows the pattern at a smaller late-Han operational scale. When [[YuDuLateHan|于毒]] attacks [[DongWuyangLateHan|东武阳]], [[CaoCao|曹操]] threatens Yu Du's own base, forcing Yu Du to return and lifting the siege before Cao Cao advances to fight [[SuiGuLateHan|眭固]] and [[YufuluoChanyu|于扶罗]].
 
-A negative Eastern Han case appears in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]]. [[LiuXiu|刘秀]] advises [[GaiYanEasternHan|盖延]] to attack Tan so [[DongXianEasternHan|董宪]] will abandon the Lanling siege. Gai Yan instead goes directly to Lanling, is drawn in by Dong Xian's feigned retreat, fails to take Tan afterward, and loses the surrendered Ben Xiu. The pattern is therefore not just a maxim; it depends on actually striking the enemy's must-save point before direct rescue traps the rescuer.
+A negative Eastern Han case appears in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]]. [[LiuXiu|刘秀]] advises [[GaiYanEasternHan|盖延]] to attack Tan so [[DongXianEasternHan|董宪]] will abandon the Lanling siege. Gai Yan instead goes directly to Lanling, is drawn in by Dong Xian's feigned retreat, fails to take Tan afterward, and loses the surrendered Ben Xiu. The pattern is therefore not just a maxim; it depends on actually striking the enemy's must-save point before direct rescue traps the rescuer.
 
 ## Key Claims
 
@@ -42,20 +42,20 @@ A negative Eastern Han case appears in [[zizhi-tongjian-hanji-690-jiaoyou-bushen
 - Setup before the classic case: [[zizhi-tongjian-zhouji-15-jiu-bu-chun-yinfa-de-shijie-dazhan-li-iojxthq8komhlhyumho3yvtem|Zhouji 15]] frames Wei's siege of Handan as part of a wider Chu-Lu-Zhao chain before Qi's intervention.
 - Canonical displacement: [[zizhi-tongjian-zhouji-16-sunbin-pangjuan-enyuan-jiuge-guiling-zhi-zhan-lryhzkc1-xsvfjhvicu8yxa9d2jr|Zhouji 16]] has Sun Bin tell Tian Ji to attack Daliang instead of rescuing Handan directly.
 - Repeat with timing and forced-march risk: [[zizhi-tongjian-zhouji-19-maling-zhi-zhan-lhbapt09x2ptdqx0uopkp8apbada|Zhouji 19]] repeats the Daliang pressure point while adding delayed-rescue timing and Pang Juan's forced response.
-- Late-Han application: [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] says Cao Cao threatens Yu Du's base so Yu Du leaves Dong Wuyang.
-- Failed Eastern Han execution: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Liu Xiu proposes an indirect attack on Tan to lift Lanling, but Gai Yan goes directly to Lanling and Dong Xian converts the rescue into a trap.
+- Late-Han application: [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|汉纪 961]] says Cao Cao threatens Yu Du's base so Yu Du leaves Dong Wuyang.
+- Failed Eastern Han execution: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Liu Xiu proposes an indirect attack on Tan to lift Lanling, but Gai Yan goes directly to Lanling and Dong Xian converts the rescue into a trap.
 
 ## Counterevidence & Qualifications
 
-The current examples support the strategy as a target-selection and timing principle, not as a guaranteed formula. Zhouji 15 is mostly setup rather than execution, so the full classic pattern depends on Zhouji 16. Zhouji 19 shows that repeated use can still impose forced-march risk and requires careful timing. Hanji 690 is the strongest qualification because Liu Xiu's proposed indirect move is not carried out: the failed outcome belongs to misexecution, not to proof that the strategy itself is invalid. Direct rescue may still be necessary when no must-save target exists, when the ally cannot survive the delay, or when the attacker can ignore the threatened point.
+The current examples support the strategy as a target-selection and timing principle, not as a guaranteed formula. Zhouji 15 is mostly setup rather than execution, so the full classic pattern depends on Zhouji 16. Zhouji 19 shows that repeated use can still impose forced-march risk and requires careful timing. 汉纪 690 is the strongest qualification because Liu Xiu's proposed indirect move is not carried out: the failed outcome belongs to misexecution, not to proof that the strategy itself is invalid. Direct rescue may still be necessary when no must-save target exists, when the ally cannot survive the delay, or when the attacker can ignore the threatened point.
 
 ## What Changed
 
 - Migrated the page to `knowledge_schema: synthesis-v1` with the required concept section order.
-- Added Hanji 690 as a failed-execution case where Liu Xiu proposes indirect relief but Gai Yan chooses the direct Lanling route.
+- Added 汉纪 690 as a failed-execution case where Liu Xiu proposes indirect relief but Gai Yan chooses the direct Lanling route.
 - Preserved Zhouji 15 as the prehistory/setup layer for the classic Handan crisis.
 - Preserved Zhouji 16 and Zhouji 19 as the Guiling and Maling Warring States strategy layers.
-- Preserved Hanji 961 as a smaller late-Han operational application through Cao Cao.
+- Preserved 汉纪 961 as a smaller late-Han operational application through Cao Cao.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 109-110 CE opening layer before [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] and [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]]. It combines [[ZhangBailuLateHan|张白禄 / 张伯禄]]'s first coastal rebellion cycle, [[SouthernXiongnu|南匈奴]], [[Wuhuan|乌桓]], and [[Xianbei|鲜卑]] frontier pressure, disaster and ritual austerity under [[EmpressDowagerDengLateHan|和熹邓皇后]], and the fiscal decision to cut official salaries.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 109-110 CE opening layer before [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|汉纪 784]] and [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]]. It combines [[ZhangBailuLateHan|张白禄 / 张伯禄]]'s first coastal rebellion cycle, [[SouthernXiongnu|南匈奴]], [[Wuhuan|乌桓]], and [[Xianbei|鲜卑]] frontier pressure, disaster and ritual austerity under [[EmpressDowagerDengLateHan|和熹邓皇后]], and the fiscal decision to cut official salaries.
 
 The durable synthesis has two linked parts. [[YangZhenLateHan|杨震]]'s refusal of [[WangMiLateHan|王密]]'s gold anchors a clean-official model of [[GiftRefusalAsAuthority|拒礼立威]], while the salary-cut discussion becomes [[OfficialSalaryExtractionRisk|官吏俸禄不足抽取风险]]: the court can save money quickly, but underpaid local officials may rationally convert administrative power into private extraction.
 
@@ -28,10 +28,10 @@ The durable synthesis has two linked parts. [[YangZhenLateHan|杨震]]'s refusal
 - [[DengZhiLateHan|Deng Zhi]] recommends He Xi and Li He and invites Yang Zhen and Chen Chan into his staff; Yang is introduced through poverty, long teaching, Ouyang Shangshu learning, and the reputation "关西孔子杨伯起."
 - Wang Mi, a former Yang recommendation and current Changyi county magistrate, brings ten jin of gold to Yang at night; Yang rejects the gift with the Four Knows answer, making hidden private benefit morally and reputationally visible.
 - Yang later serves as Donglai and Zhuo commandery administrator, remains clean enough that descendants eat simple vegetable food, and treats the name of clean-official descendants as the family inheritance.
-- In 110 CE, Zhang Bailu attacks again and kills a commandery governor and county magistrate, prompting Wang Zong's mobilization and [[FaXiongLateHan|Fa Xiong]]'s Qingzhou appointment before later amnesty timing becomes central in Hanji 785.
+- In 110 CE, Zhang Bailu attacks again and kills a commandery governor and county magistrate, prompting Wang Zong's mobilization and [[FaXiongLateHan|Fa Xiong]]'s Qingzhou appointment before later amnesty timing becomes central in 汉纪 785.
 - The court cuts salaries for central and local officials by rank; the host reads the move as a short-term fiscal patch that can push underpaid grassroots officials toward power monetization.
 - Ren Shang's long campaign burden is wound down as the court sends officials and civilians back to Chang'an, demobilizes Nanyang, Yingchuan, and Runan troops, and creates new commandant posts near Chang'an and Yong.
-- The closing [[PangCanLateHan|Pang Can]] proposal to move frontier civilians into Sanfu and abandon [[LiangzhouLateHan|Liangzhou]] sets up the [[StrategicFrontierAbandonment|弃边失屏]] debate developed in Hanji 784.
+- The closing [[PangCanLateHan|Pang Can]] proposal to move frontier civilians into Sanfu and abandon [[LiangzhouLateHan|Liangzhou]] sets up the [[StrategicFrontierAbandonment|弃边失屏]] debate developed in 汉纪 784.
 
 ## Key Quotes
 
@@ -49,15 +49,15 @@ The durable synthesis has two linked parts. [[YangZhenLateHan|杨震]]'s refusal
 - [[WangMiLateHan|王密]] - created as the Changyi magistrate whose gold gift lets the Four Knows episode become concrete.
 - [[GiftRefusalAsAuthority|拒礼立威]] - extended from frontier gift refusal to anti-bribery refusal inside a recommender-subordinate relationship.
 - [[OfficialSalaryExtractionRisk|官吏俸禄不足抽取风险]] - created from the episode's claim that salary cuts can move administrative actors toward private extraction.
-- [[ZhangBailuLateHan|张白禄 / 张伯禄]] - gains an earlier 109-110 CE attack, surrender, release, escape, and renewed-attack cycle before Hanji 785-786.
-- [[FaXiongLateHan|法雄]] - appears at the end of this source as the Qingzhou inspector assigned against Zhang Bailu before his Hanji 785 amnesty-timing judgment.
+- [[ZhangBailuLateHan|张白禄 / 张伯禄]] - gains an earlier 109-110 CE attack, surrender, release, escape, and renewed-attack cycle before 汉纪 785-786.
+- [[FaXiongLateHan|法雄]] - appears at the end of this source as the Qingzhou inspector assigned against Zhang Bailu before his 汉纪 785 amnesty-timing judgment.
 - [[EmpressDowagerDengLateHan|和熹邓皇后]] and [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - the source adds a 109-110 CE layer of austerity, disaster, war, fiscal cuts, local rebellion, and frontier-abandonment debate.
 - [[DengZhiLateHan|邓骘]] - appears as recommender and staff-builder before the next episode's Liangzhou abandonment conflict.
-- [[PangCanLateHan|庞参]], [[LiangzhouLateHan|凉州]], [[GuanzhongRegion|关中]], and [[ChangAnHanCapital|长安]] - closing setup for the abandonment debate continued in Hanji 784.
+- [[PangCanLateHan|庞参]], [[LiangzhouLateHan|凉州]], [[GuanzhongRegion|关中]], and [[ChangAnHanCapital|长安]] - closing setup for the abandonment debate continued in 汉纪 784.
 - [[SouthernXiongnu|南匈奴]], [[Wuhuan|乌桓]], and [[Xianbei|鲜卑]] - frontier pressure actors in the 109-110 CE crisis layer.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills an earlier 109-110 CE layer before the already-ingested Hanji 784-786 Deng-regency sequence.
-- Naming caution: the source uses 张伯禄; the existing wiki route remains [[ZhangBailuLateHan|张白禄 / Zhang Bailu]] because Hanji 785 and Hanji 786 already treat 张白禄 / 张伯路 as one bounded rebellion sequence.
+- No settled contradiction is recorded. This source backfills an earlier 109-110 CE layer before the already-ingested 汉纪 784-786 Deng-regency sequence.
+- Naming caution: the source uses 张伯禄; the existing wiki route remains [[ZhangBailuLateHan|张白禄 / Zhang Bailu]] because 汉纪 785 and 汉纪 786 already treat 张白禄 / 张伯路 as one bounded rebellion sequence.
 - Scope caution: Pang Xiong, He Xi, Li He, Chen Chan, Geng Zhong, Geng Kui, Liang Jin, Wang Zong, Zheng Qin, Dianling, Baozhong, Wuyuan, Meiji, and detailed troop figures remain source-scoped unless later notes require standalone pages.

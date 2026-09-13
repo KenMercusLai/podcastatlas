@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], between [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] and [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]]. It traces [[GanZhongkeWesternHan|甘忠可]]'s failed attempt to sell a [[Taipingjing|《太平经》]]-based "renewed mandate" cure to [[HanChengdi|汉成帝]], then follows [[XiaHeliangWesternHan|夏贺良]], [[LiXunWesternHan|李寻]], and [[JieGuangWesternHan|解光]] as they persuade Aidi to change reign title, imperial style, and timekeeping.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], between [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|汉纪 578]] and [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|汉纪 582]]. It traces [[GanZhongkeWesternHan|甘忠可]]'s failed attempt to sell a [[Taipingjing|《太平经》]]-based "renewed mandate" cure to [[HanChengdi|汉成帝]], then follows [[XiaHeliangWesternHan|夏贺良]], [[LiXunWesternHan|李寻]], and [[JieGuangWesternHan|解光]] as they persuade Aidi to change reign title, imperial style, and timekeeping.
 
 The durable synthesis is that illness, no-heir anxiety, disaster interpretation, and fangshi promise can make sacred legitimacy self-damaging. Aidi's adoption of "太初元年" and "陈圣刘太平皇帝" tries to repair Heaven's favor, but the quick reversal exposes judgment failure, damages the public aura of dynastic continuity, and shows how fangshi language can move from ritual cure to personnel-power redistribution.
 
@@ -46,5 +46,5 @@ The durable synthesis is that illness, no-heir anxiety, disaster interpretation,
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source predates Hanji 582's Zhu Bo/Fu Xi case, Hanji 584's Dongping omen-treason case, and the later Dong Xian sequence; it adds an earlier Aidi ritual-instability layer.
+- Chronology qualification: this source predates 汉纪 582's Zhu Bo/Fu Xi case, 汉纪 584's Dongping omen-treason case, and the later Dong Xian sequence; it adds an earlier Aidi ritual-instability layer.
 - Scope caution: the episode does not settle the full textual history of the Taipingjing, Gan Zhongke and Xia Heliang's private motives, the exact administrative mechanics of the water-clock change, or the full careers of Jie Guang and Li Xun.

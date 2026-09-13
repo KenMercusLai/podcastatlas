@@ -18,7 +18,7 @@ knowledge_schema: synthesis-v1
 华歆 / Hua Xin is a late-Han official whose wiki profile runs from refusing unsafe coup politics to administering a fragmented [[YuzhangCommandery|豫章郡]] and then surrendering that commandery to [[SunCe|孙策]] under pressure.
 
 ## Current Profile
-The current synthesis portrays Hua Xin as cautious, role-bound, and morally reputable but not militarily dominant. His surrender is contested: [[SunShengEasternJin|孙胜]] condemns it as failed ministerial integrity, while Hanji 1039 frames it as a possible choice to protect civilians from a city-breaking war Hua Xin had little chance to win.
+The current synthesis portrays Hua Xin as cautious, role-bound, and morally reputable but not militarily dominant. His surrender is contested: [[SunShengEasternJin|孙胜]] condemns it as failed ministerial integrity, while 汉纪 1039 frames it as a possible choice to protect civilians from a city-breaking war Hua Xin had little chance to win.
 
 ## Key Characteristics
 - Reads high-risk political action conservatively, especially imperial-deposition plotting.
@@ -28,17 +28,17 @@ The current synthesis portrays Hua Xin as cautious, role-bound, and morally repu
 - Carries a contested moral profile in which orthodox loyalty and civilian-protection reasoning point in different directions.
 
 ## Evidence
-- Coup-risk judgment: [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]] has Hua Xin dissuade Taoqiu Hong from joining Wang Fen's imperial-deposition plan.
-- Formal office boundary: [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] says Hua Xin refuses to lead Liu Yao's remaining soldiers after Liu Yao dies.
-- Yuzhang appointment and weak control: [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] places Hua Xin after the Ze Rong turmoil, while [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] reports his virtue but limited control over Tong Zhi and Panyang forces.
-- Surrender mechanism: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] has Yu Fan press Hua Xin with Yuzhang's material weakness, Sun Ce's victories, and a noon deadline.
-- Moral contest: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] preserves Sun Sheng's condemnation while offering the host's civilian-protection reading.
+- Coup-risk judgment: [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|汉纪 941]] has Hua Xin dissuade Taoqiu Hong from joining Wang Fen's imperial-deposition plan.
+- Formal office boundary: [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|汉纪 1028]] says Hua Xin refuses to lead Liu Yao's remaining soldiers after Liu Yao dies.
+- Yuzhang appointment and weak control: [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|汉纪 995]] places Hua Xin after the Ze Rong turmoil, while [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] reports his virtue but limited control over Tong Zhi and Panyang forces.
+- Surrender mechanism: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] has Yu Fan press Hua Xin with Yuzhang's material weakness, Sun Ce's victories, and a noon deadline.
+- Moral contest: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] preserves Sun Sheng's condemnation while offering the host's civilian-protection reading.
 
 ## Qualifications
 The source record does not prove Hua Xin's inner motive for surrender. The civilian-protection reading is source-scoped, and Sun Sheng's criticism remains a genuine counter-evaluation rather than a discarded error.
 
 ## What Changed
-- Added Hanji 1039 as Hua Xin's surrender moment and the main moral dispute around that decision.
+- Added 汉纪 1039 as Hua Xin's surrender moment and the main moral dispute around that decision.
 - Migrated the page from chronological source notes to the synthesis-v1 entity structure.
 
 ## Relationships

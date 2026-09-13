@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-魏相 / Wei Xiang enters the wiki through [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] as the Western Han chancellor who blocks an opportunistic expansion of the Cheshi rescue crisis into a large attack on [[Xiongnu|匈奴]]. His contribution is not simple pacifism: he asks [[EmperorXuanOfHan|汉宣帝]] to classify the purpose of war and then argues that a prestige-driven strike would become the kind of 骄兵 that leads to defeat.
+魏相 / Wei Xiang enters the wiki through [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] as the Western Han chancellor who blocks an opportunistic expansion of the Cheshi rescue crisis into a large attack on [[Xiongnu|匈奴]]. His contribution is not simple pacifism: he asks [[EmperorXuanOfHan|汉宣帝]] to classify the purpose of war and then argues that a prestige-driven strike would become the kind of 骄兵 that leads to defeat.
 
 ## Current Profile
 
@@ -32,23 +32,23 @@ The profile also includes his governing method. Wei Xiang reads earlier historie
 ## Evidence
 
 War classification and restraint:
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Xuan considers attacking Xiongnu's west while Xiongnu is attacking Cheshi.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Wei Xiang first asks the court to clarify the name and purpose of the expedition.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] presents his five categories of 义兵, 应兵, 忿兵, 贪兵, and 骄兵.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Xuan accepts the advice and sends Chang Hui to recover Zheng Ji rather than launching a broad strike.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Xuan considers attacking Xiongnu's west while Xiongnu is attacking Cheshi.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Wei Xiang first asks the court to clarify the name and purpose of the expedition.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] presents his five categories of 义兵, 应兵, 忿兵, 贪兵, and 骄兵.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Xuan accepts the advice and sends Chang Hui to recover Zheng Ji rather than launching a broad strike.
 
 State-capacity and information practice:
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says Wei Xiang cites recent Xiongnu non-raiding, released captives, poor border households, and internal disasters as reasons against major war.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says he reads earlier Han policies and memorials and recommends useful past proposals to Xuan.
-- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|Hanji 429]] says he questions officials about local anomalies, rebellions, and disasters, then reports hidden problems upward.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says Wei Xiang cites recent Xiongnu non-raiding, released captives, poor border households, and internal disasters as reasons against major war.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says he reads earlier Han policies and memorials and recommends useful past proposals to Xuan.
+- [[zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav|汉纪 429]] says he questions officials about local anomalies, rebellions, and disasters, then reports hidden problems upward.
 
 ## Qualifications
 
-The page is source-scoped to Hanji 429. It does not reconstruct Wei Xiang's full biography, legal career, complete chancellorship, or the original full text of his memorial. The episode preserves the idiom-origin claim through the Han Shu / Wei Xiang passage but does not settle later uses of "骄兵必败."
+The page is source-scoped to 汉纪 429. It does not reconstruct Wei Xiang's full biography, legal career, complete chancellorship, or the original full text of his memorial. The episode preserves the idiom-origin claim through the Han Shu / Wei Xiang passage but does not settle later uses of "骄兵必败."
 
 ## What Changed
 
-- Created the page from Hanji 429's Cheshi-Xiongnu remonstrance and Wei Xiang governance-profile branch.
+- Created the page from 汉纪 429's Cheshi-Xiongnu remonstrance and Wei Xiang governance-profile branch.
 
 ## Relationships
 

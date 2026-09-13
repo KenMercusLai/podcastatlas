@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]] by showing [[HanXin|韩信]] finally refusing [[KuaiChe|蒯彻 / 蒯通]]'s third-pole advice, while [[LiuBang|刘邦]] moves from hostage recovery to final pursuit of [[XiangYu|项羽]]. [[LuJia|陆贾]] fails to negotiate, but [[HouGongChuHan|侯公]] secures the [[HonggouSettlement|鸿沟议和]], returning [[LiuTaigong|刘太公]] and [[LuZhi|吕雉]]. The host then reads Liu Bang's breach of the agreement, after [[ZhangLiang|张良]] and [[ChenPing|陈平]] urge pursuit, as [[InstrumentalTruceBreach|工具化议和毁约]] rather than a simple change of heart.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|汉纪 165-2]] by showing [[HanXin|韩信]] finally refusing [[KuaiChe|蒯彻 / 蒯通]]'s third-pole advice, while [[LiuBang|刘邦]] moves from hostage recovery to final pursuit of [[XiangYu|项羽]]. [[LuJia|陆贾]] fails to negotiate, but [[HouGongChuHan|侯公]] secures the [[HonggouSettlement|鸿沟议和]], returning [[LiuTaigong|刘太公]] and [[LuZhi|吕雉]]. The host then reads Liu Bang's breach of the agreement, after [[ZhangLiang|张良]] and [[ChenPing|陈平]] urge pursuit, as [[InstrumentalTruceBreach|工具化议和毁约]] rather than a simple change of heart.
 
 ## Key Claims
 - Kuai Che's final warning stresses decision timing: missed opportunity can turn a possible third-pole strategy into later disaster.
@@ -33,7 +33,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 > "养虎自遗患"
 
 ## Connections
-- [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]] - immediate setup for Han Xin's final refusal and Kuai Che's withdrawal.
+- [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|汉纪 165-2]] - immediate setup for Han Xin's final refusal and Kuai Che's withdrawal.
 - [[HanXin|韩信]] - decisive commander who declines self-rule and thereby leaves Liu Bang free to turn fully against Xiang Yu.
 - [[KuaiChe|蒯彻 / 蒯通]] - strategist whose warning ends with retreat into feigned madness after Han Xin refuses.
 - [[LiuBang|刘邦]] - uses negotiation to recover family hostages, then accepts Zhang Liang and Chen Ping's pursuit advice.

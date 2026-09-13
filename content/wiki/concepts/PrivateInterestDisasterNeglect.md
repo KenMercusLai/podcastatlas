@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] grounds the concept in Wang Mang's handling of a Yellow River breach. Flooding harms eastern commanderies, but [[WangMang|王莽]] worries first about whether the water will threaten Wang-family ancestral graves at Yuancheng. Once he learns that Yuancheng is safe because the flood runs east, he chooses not to repair the dike, fearing repair could redirect water west.
+[[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] grounds the concept in Wang Mang's handling of a Yellow River breach. Flooding harms eastern commanderies, but [[WangMang|王莽]] worries first about whether the water will threaten Wang-family ancestral graves at Yuancheng. Once he learns that Yuancheng is safe because the flood runs east, he chooses not to repair the dike, fearing repair could redirect water west.
 
 The episode's durable claim is not that every delayed repair is corrupt. The narrower pattern is priority inversion: a public disaster is tolerated because the distribution of harm protects the ruler's private sacred interest. Disaster governance then becomes a legitimacy problem, not only an engineering problem.
 
@@ -28,9 +28,9 @@ The episode's durable claim is not that every delayed repair is corrupt. The nar
 
 ## Evidence
 
-- Flood setting: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says locust disaster and Yellow River breach affect commanderies around Wei and east of Qinghe.
-- Private-interest calculation: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Wang Mang first worries the breach might flood Wang-family ancestral graves at Yuancheng.
-- Non-repair decision: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Wang Mang relaxes once the water goes east and decides not to plug the breach because repair might send water west.
+- Flood setting: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says locust disaster and Yellow River breach affect commanderies around Wei and east of Qinghe.
+- Private-interest calculation: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says Wang Mang first worries the breach might flood Wang-family ancestral graves at Yuancheng.
+- Non-repair decision: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says Wang Mang relaxes once the water goes east and decides not to plug the breach because repair might send water west.
 
 ## Counterevidence & Qualifications
 
@@ -38,7 +38,7 @@ The source note does not quantify repair feasibility, engineering constraints, o
 
 ## What Changed
 
-- Created the concept from Hanji 645's Yellow River non-repair branch.
+- Created the concept from 汉纪 645's Yellow River non-repair branch.
 
 ## Related Concepts
 

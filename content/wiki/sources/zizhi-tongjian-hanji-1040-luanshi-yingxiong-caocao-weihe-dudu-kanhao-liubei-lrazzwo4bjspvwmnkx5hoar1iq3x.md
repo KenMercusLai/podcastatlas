@@ -33,8 +33,8 @@ The episode argues that Cao Cao values Liu Bei because his future threat is visi
 > "迅雷风烈必变" - Liu Bei's cover for the dropped chopsticks.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|Hanji 1009]] - earlier source where Cao Cao protects Liu Bei because killing a shelter-seeking hero would damage recruitment reputation.
-- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] - immediate prior Cao-side eastern settlement after Lü Bu's fall, setting up the later Yuan Shao confrontation.
+- [[zizhi-tongjian-hanji-1009-liubei-touben-caocao-xianxie-langru-hukou-llm0ds4krkptjdtb71hbusnpzbdc|汉纪 1009]] - earlier source where Cao Cao protects Liu Bei because killing a shelter-seeking hero would damage recruitment reputation.
+- [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|汉纪 1026]] - immediate prior Cao-side eastern settlement after Lü Bu's fall, setting up the later Yuan Shao confrontation.
 - [[CaoCao|曹操]], [[LiuBei|刘备]], [[DongChengLateHan|董承]], [[YidaiZhao|衣带诏]], [[GuoJia|郭嘉]], [[ChengYu|程昱]], and [[DongZhaoLateHan|董昭]] - core recognition, conspiracy, and release-risk actors.
 - [[ZhuLingLateHan|朱灵]], [[CheZhouLateHan|车胄]], [[GuanYu|关羽]], [[ZhangFei|张飞]], [[ChangXiLateHan|昌豨]], [[LiuDaiSikongZhangshi|刘岱]], and [[WangZhongLateHan|王忠]] - campaign and Xuzhou-restoration actors.
 - [[Xuzhou|徐州]], [[Xiapi|下邳]], [[PeiCounty|小沛]], [[YuanShu|袁术]], [[YuanShao|袁绍]], and [[GuanduCampaign|官渡之战]] - geographical and strategic field around Liu Bei's renewed autonomy.
@@ -43,4 +43,4 @@ The episode argues that Cao Cao values Liu Bei because his future threat is visi
 ## Contradictions
 - No settled contradiction found.
 - Identity caution: the transcript appears to render several names phonetically or incorrectly. The wiki normalizes "董成" to [[DongChengLateHan|董承]], "郭家" to [[GuoJia|郭嘉]], "程羽" to [[ChengYu|程昱]], "朱禄" to [[ZhuLingLateHan|朱灵]], "车众" to [[CheZhouLateHan|车胄]], "下批" to [[Xiapi|下邳]], and "小配" to [[PeiCounty|小沛]], while keeping the source-scoped uncertainty explicit.
-- Identity caution: the [[LiuDaiSikongZhangshi|刘岱]] sent against Liu Bei in 200 is kept separate from [[LiuDaiLateHan|the earlier Yanzhou inspector Liu Dai]], who has already died in the wiki's Hanji 964 branch.
+- Identity caution: the [[LiuDaiSikongZhangshi|刘岱]] sent against Liu Bei in 200 is kept separate from [[LiuDaiLateHan|the earlier Yanzhou inspector Liu Dai]], who has already died in the wiki's 汉纪 964 branch.

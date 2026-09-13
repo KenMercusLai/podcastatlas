@@ -11,7 +11,7 @@ last_updated: 2026-09-13
 
 ## Definition
 
-根源诊断式进谏 / Root-cause remonstrance is corrective speech that rejects symbolic, ritual, or effortful action when the method does not touch the problem's actual cause. In Hanji 816, [[ZhouJuLateHan|周举]] uses drought and the image of "缘木求鱼" to tell [[EmperorShunOfHan|汉顺帝]] that praying for rain without changing palace luxury and harmful governance is misdirected effort.
+根源诊断式进谏 / Root-cause remonstrance is corrective speech that rejects symbolic, ritual, or effortful action when the method does not touch the problem's actual cause. In 汉纪 816, [[ZhouJuLateHan|周举]] uses drought and the image of "缘木求鱼" to tell [[EmperorShunOfHan|汉顺帝]] that praying for rain without changing palace luxury and harmful governance is misdirected effort.
 
 ## Current Synthesis
 
@@ -19,7 +19,7 @@ The concept begins as a method-goal fit problem. Shun is not shown as doing noth
 
 The pattern differs from ordinary blunt criticism because it pairs diagnosis with actionable remedies. Zhou Ju tells Shun to reduce palace expenses, release unvisited palace women, cut luxury food costs, restore older frugality, and reform harmful practices. The source's practical lesson is that advice becomes stronger when it reorients the leader from visible effort toward a cause-remedy chain.
 
-Hanji 434 adds an earlier Western Han version through [[WangJiWesternHan|王吉]]. Wang Ji does not deny that amnesty and tax relief make people happy; he argues that such favors do not establish lasting rule unless the court fixes ritual order, personnel selection, luxury customs, and relationship-based officeholding. This broadens the concept from disaster-correction advice to a general distinction between popular relief and institutional root repair.
+汉纪 434 adds an earlier Western Han version through [[WangJiWesternHan|王吉]]. Wang Ji does not deny that amnesty and tax relief make people happy; he argues that such favors do not establish lasting rule unless the court fixes ritual order, personnel selection, luxury customs, and relationship-based officeholding. This broadens the concept from disaster-correction advice to a general distinction between popular relief and institutional root repair.
 
 ## Key Claims
 
@@ -32,21 +32,21 @@ Hanji 434 adds an earlier Western Han version through [[WangJiWesternHan|王吉]
 
 ## Evidence
 
-- Misdirected method: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] frames Shun's rain prayer through "缘木求鱼," meaning that action and goal are misaligned.
-- Cause diagnosis: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Zhou Ju connects drought anxiety to luxury, harem recruitment, resentment, expense, and neglected correction.
-- Remedy chain: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] says Zhou Ju proposes releasing unvisited palace women, reducing luxury food expense, restoring frugality, and removing harmful policy.
-- Hierarchy-preserving force: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] presents Zhou Ju as direct about causes while still giving Shun a route to act quickly.
-- Favor versus governance root: [[zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4|Hanji 434]] says Wang Ji treats amnesty and tax relief as welcomed imperial favors but not as durable governance.
-- Institutional remedy chain: [[zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4|Hanji 434]] says Wang Ji proposes ritual order, careful executors near the ruler, social frugality, abolition of 任子令, and limits on important offices for ruler intimates.
+- Misdirected method: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]] frames Shun's rain prayer through "缘木求鱼," meaning that action and goal are misaligned.
+- Cause diagnosis: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]] says Zhou Ju connects drought anxiety to luxury, harem recruitment, resentment, expense, and neglected correction.
+- Remedy chain: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]] says Zhou Ju proposes releasing unvisited palace women, reducing luxury food expense, restoring frugality, and removing harmful policy.
+- Hierarchy-preserving force: [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]] presents Zhou Ju as direct about causes while still giving Shun a route to act quickly.
+- Favor versus governance root: [[zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4|汉纪 434]] says Wang Ji treats amnesty and tax relief as welcomed imperial favors but not as durable governance.
+- Institutional remedy chain: [[zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4|汉纪 434]] says Wang Ji proposes ritual order, careful executors near the ruler, social frugality, abolition of 任子令, and limits on important offices for ruler intimates.
 
 ## Counterevidence & Qualifications
 
-This concept is currently grounded in Hanji 816 and Hanji 434. It does not claim that every disaster has a political cause or that ritual action is always empty. The source records a Han political reasoning system in which disaster can expose governance faults; the wiki treats that as historical reasoning and advice design, not meteorological causation. Hanji 434 also shows a failure case: root-cause advice can be coherent yet rejected when the ruler prefers narrower, more practical measures.
+This concept is currently grounded in 汉纪 816 and 汉纪 434. It does not claim that every disaster has a political cause or that ritual action is always empty. The source records a Han political reasoning system in which disaster can expose governance faults; the wiki treats that as historical reasoning and advice design, not meteorological causation. 汉纪 434 also shows a failure case: root-cause advice can be coherent yet rejected when the ruler prefers narrower, more practical measures.
 
 ## What Changed
 
-- Added Hanji 434's Wang Ji memorial as an earlier Western Han version that distinguishes popular favors from institutional root repair.
-- Created the concept from Hanji 816's "缘木求鱼" reading of Zhou Ju's drought remonstrance.
+- Added 汉纪 434's Wang Ji memorial as an earlier Western Han version that distinguishes popular favors from institutional root repair.
+- Created the concept from 汉纪 816's "缘木求鱼" reading of Zhou Ju's drought remonstrance.
 - Defined the pattern as diagnosis plus remedy, not simply criticism of ritual.
 
 ## Related Concepts

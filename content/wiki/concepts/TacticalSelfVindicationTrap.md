@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Tactical Self-Vindication Trap / 战术自证陷阱
 
-Tactical self-vindication trap / 战术自证陷阱 is the pattern [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] extracts from [[XiangYu|项羽]]'s final actions after the [[GaixiaBattle|垓下之战]]. At [[DongchengChuHan|东城]], Xiang Yu performs an extraordinary breakout with only twenty-eight riders, kills Han officers, and proves again that he is personally brave and tactically formidable.
+Tactical self-vindication trap / 战术自证陷阱 is the pattern [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|汉纪 168 part 2]] extracts from [[XiangYu|项羽]]'s final actions after the [[GaixiaBattle|垓下之战]]. At [[DongchengChuHan|东城]], Xiang Yu performs an extraordinary breakout with only twenty-eight riders, kills Han officers, and proves again that he is personally brave and tactically formidable.
 
 The episode's critique is that this proof answers the wrong question. Nobody needs Dongcheng to prove that Xiang Yu can fight. The question is why a commander with that battlefield capacity has lost allies, supplies, people-support, strategic initiative, and political legitimacy. When Xiang Yu explains the defeat as Heaven destroying him, the source reads that as a self-protective story that preserves heroic dignity while blocking learning.
 
@@ -24,7 +24,7 @@ The same trap continues at [[WujiangChuHan|乌江]]. The [[WujiangPavilionChief|
 
 ## Connections
 - [[XiangYu|项羽]], [[DongchengChuHan|东城]], and [[WujiangChuHan|乌江]] - source case and final route.
-- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] - source episode.
+- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|汉纪 168 part 2]] - source episode.
 - [[GaixiaBattle|垓下之战]] and [[FourSidedChuSongs|四面楚歌]] - preceding battlefield and morale-collapse context.
 - [[PeopleBasedPoliticalSecurity|民心型政治安全]] - part 1's answer to Xiang Yu's "Heaven" language.
 - [[CorrectableLeadershipError|犯错能改的领导力]] - adjacent concept: the issue is not error alone but refusal to correct.

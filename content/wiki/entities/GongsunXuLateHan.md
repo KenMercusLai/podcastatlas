@@ -24,14 +24,14 @@ The bounded sources first show Gongsun Xu being sent from Yijing to seek help fr
 - Disambiguated late-Han figure distinct from the Warring States [[GongsunXu|公孙续]].
 
 ## Evidence
-- Relief mission from Yijing: [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|Hanji 1030]] identifies Gongsun Xu as Gongsun Zan's son and the person sent to seek Black Mountain support.
-- Failed outside coordination and death notice: [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|Hanji 1031]] places him with Zhang Yan's relief force, records the intercepted fire-signal instructions, and notes his later killing by Xiongnu Tuge forces.
+- Relief mission from Yijing: [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|汉纪 1030]] identifies Gongsun Xu as Gongsun Zan's son and the person sent to seek Black Mountain support.
+- Failed outside coordination and death notice: [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|汉纪 1031]] places him with Zhang Yan's relief force, records the intercepted fire-signal instructions, and notes his later killing by Xiongnu Tuge forces.
 
 ## Qualifications
 The sources do not develop Gongsun Xu's motives, factional base, or command competence in detail. His importance here is relational: he marks how Gongsun Zan's attempted external rescue depends on communication and trust channels already vulnerable to Yuan Shao.
 
 ## What Changed
-- Hanji 1031 adds Gongsun Xu's role in the failed 5,000-cavalry fire-signal plan.
+- 汉纪 1031 adds Gongsun Xu's role in the failed 5,000-cavalry fire-signal plan.
 - His page now includes the later Xiongnu Tuge death notice.
 - The profile now links him more tightly to Yijing's outside-relief failure rather than only to the earlier request for help.
 

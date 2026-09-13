@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-刘贺 / Liu He enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] as the former Changyi king and twenty-seven-day Western Han emperor whom [[EmperorXuanOfHan|汉宣帝]] continues to monitor after deposition.
+刘贺 / Liu He enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] as the former Changyi king and twenty-seven-day Western Han emperor whom [[EmperorXuanOfHan|汉宣帝]] continues to monitor after deposition.
 
 ## Current Profile
 
@@ -29,17 +29,17 @@ In 63 BCE Xuan grants him the [[HaihunMarquisate|Haihun marquisate]] while strip
 ## Evidence
 
 Surveillance and assessment:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan secretly instructs Zhang Chang to monitor Liu He's visitors and not reveal the edict.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Zhang Chang reports Liu He's appearance, illness, speech, reactions, wives, sons, and daughters.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] contrasts Xuan's "not worth worrying about" wording with actual continuous watchfulness.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Xuan secretly instructs Zhang Chang to monitor Liu He's visitors and not reveal the edict.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Zhang Chang reports Liu He's appearance, illness, speech, reactions, wives, sons, and daughters.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] contrasts Xuan's "not worth worrying about" wording with actual continuous watchfulness.
 
 Reduced settlement:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Liu He is made Marquis of Haihun in 63 BCE.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan removes his ancestral-sacrifice and court-audience privileges.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Liu He is made Marquis of Haihun in 63 BCE.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Xuan removes his ancestral-sacrifice and court-audience privileges.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 430. It does not reconstruct Liu He's full biography, the complete Changyi accession and deposition process, archaeological evidence from the Haihun tomb, or the full Han Shu account. Zhang Chang's "白痴儿" style assessment is treated as an official surveillance report in the episode, not as an independent medical diagnosis.
+This page is source-scoped to 汉纪 430. It does not reconstruct Liu He's full biography, the complete Changyi accession and deposition process, archaeological evidence from the Haihun tomb, or the full Han Shu account. Zhang Chang's "白痴儿" style assessment is treated as an official surveillance report in the episode, not as an independent medical diagnosis.
 
 ## What Changed
 

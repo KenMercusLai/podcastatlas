@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Wang Mang's Tianfeng 5 / 18 CE crisis between [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|Hanji 653]] and [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]], then turns from late-[[XinDynasty|新朝]] disorder to [[YangXiong|扬雄]] as the central cultural figure. It presents Yang Xiong as a poor, stuttering, learned Western Han writer whose fu, [[Fangyan|《方言》]], and later reception show how cultural value can be ignored in its own time and recognized after death.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Wang Mang's Tianfeng 5 / 18 CE crisis between [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|汉纪 653]] and [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]], then turns from late-[[XinDynasty|新朝]] disorder to [[YangXiong|扬雄]] as the central cultural figure. It presents Yang Xiong as a poor, stuttering, learned Western Han writer whose fu, [[Fangyan|《方言》]], and later reception show how cultural value can be ignored in its own time and recognized after death.
 
 The durable synthesis is twofold. Politically, [[FeiXingXinOfficial|费兴]]'s dismissed livelihood diagnosis and the unpaid-official corruption purge sharpen the wiki's Wang Mang pattern: root-cause advice is punished while coercive inspection expands fear. Culturally, Yang Xiong's life adds the positive counterpoint of long scholarly work, low-key integrity, and delayed canonization under [[HuanTanEasternHan|桓谭]]'s prediction that later generations would value works his contemporaries undervalued.
 
@@ -41,9 +41,9 @@ The durable synthesis is twofold. Politically, [[FeiXingXinOfficial|费兴]]'s d
 
 - [[YangXiong|扬雄]], [[Fangyan|《方言》]], [[HuanTanEasternHan|桓谭]], and [[DelayedCanonicalRecognition|延迟经典化]] - the source's main cultural branch around scholarship, low status, and posthumous recognition.
 - [[FeiXingXinOfficial|费兴]], [[WangMang|王莽]], [[WangMangReforms|王莽改制]], [[SuppressedRootCauseReporting|根因上报压制]], and [[FiscalExtractionRebellionSpiral|财政压榨叛乱螺旋]] - the 18 CE policy-feedback branch.
-- [[WangZongXinPrince|王宗]], [[WangFangXinPrincess|王芳]], and [[DynasticScandalSuppression|王朝丑闻压制]] - Wang-family fear and punishment before the later Hanji 658 succession-collapse layer.
+- [[WangZongXinPrince|王宗]], [[WangFangXinPrincess|王芳]], and [[DynasticScandalSuppression|王朝丑闻压制]] - Wang-family fear and punishment before the later 汉纪 658 succession-collapse layer.
 - [[WesternHanDynasty|西汉]], [[XinDynasty|新朝]], [[HanChengdi|汉成帝]], [[HanAidi|汉哀帝]], [[DongXian|董贤]], and [[WangMang|王莽]] - the court-historical setting for Yang Xiong's underpromoted career.
-- [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|Hanji 653]] and [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] - adjacent late-Xin fiscal and feedback-failure episodes that this note bridges.
+- [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|汉纪 653]] and [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] - adjacent late-Xin fiscal and feedback-failure episodes that this note bridges.
 
 ## Contradictions
 

@@ -17,7 +17,7 @@ Love-compassion integration is the claim that intimate, particular love can be p
 
 ## Current Synthesis
 
-The Hanji 456-4 and 456-5 film readings make this concept the pivot of [[ChenXuanzangConqueringDemons|陈玄奘]]'s arc. The problem is not that worldly love must be rejected in order to reach universal compassion. The problem is that Chen uses "great love" as a way to deny "small love," while Hanji 456-5 stresses that 情缘 can be especially difficult because it both pulls the practitioner back and recognizes what is admirable in him. Only after Chen acknowledges the bond, loses [[DuanMissConqueringDemons|段小姐]], and feels pain directly can compassion stop being an abstract slogan.
+The 汉纪 456-4 and 456-5 film readings make this concept the pivot of [[ChenXuanzangConqueringDemons|陈玄奘]]'s arc. The problem is not that worldly love must be rejected in order to reach universal compassion. The problem is that Chen uses "great love" as a way to deny "small love," while 汉纪 456-5 stresses that 情缘 can be especially difficult because it both pulls the practitioner back and recognizes what is admirable in him. Only after Chen acknowledges the bond, loses [[DuanMissConqueringDemons|段小姐]], and feels pain directly can compassion stop being an abstract slogan.
 
 ## Key Claims
 
@@ -43,7 +43,7 @@ The concept should not be generalized into a claim that all attachment is spirit
 
 ## What Changed
 
-- Added Hanji 456-5's clarification of 情缘 as a hard-to-cut bond that can include real recognition, not only temptation.
+- Added 汉纪 456-5's clarification of 情缘 as a hard-to-cut bond that can include real recognition, not only temptation.
 
 ## Related Concepts
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 海昏 / Haihun (late Han)
 
-海昏 / Haihun (late Han) enters the wiki through [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] as the local setting where [[PanyangLocalForces|番阳民帅]] establish a separate office or organization outside effective [[YuzhangCommandery|豫章郡]] control. [[TaishiCi|太史慈]] includes the report in his return briefing to [[SunCe|孙策]].
+海昏 / Haihun (late Han) enters the wiki through [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] as the local setting where [[PanyangLocalForces|番阳民帅]] establish a separate office or organization outside effective [[YuzhangCommandery|豫章郡]] control. [[TaishiCi|太史慈]] includes the report in his return briefing to [[SunCe|孙策]].
 
 The source does not develop Haihun beyond this control signal. Its wiki role is to mark that Yuzhang's weakness is spatially distributed: [[HuaXin|华歆]]'s problem is not only one rebellious figure at [[LulingLateHan|庐陵]], but several local nodes acting outside commandery authority.
 

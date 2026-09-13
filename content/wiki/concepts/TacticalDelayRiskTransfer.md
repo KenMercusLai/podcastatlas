@@ -15,9 +15,9 @@ Tactical delay risk transfer / 延时转责式政治化解 is a political maneuv
 
 ## Current Synthesis
 
-The concept now has both a Western Han court case and an Eastern Han outer-relative case. In Hanji 150 part 4, [[ChenPing|Chen Ping]] and [[ZhouBo|Zhou Bo]] receive [[LiuBang|Liu Bang]]'s order to kill [[FanKuai|Fan Kuai]]. Killing Fan Kuai would create danger with [[LuZhi|Lu Zhi]]'s side, but open refusal could offend Liu Bang. They convert execution into arrest, custody, and transport, leaving the final decision with the ruler and allowing timing to change before the irreversible act occurs.
+The concept now has both a Western Han court case and an Eastern Han outer-relative case. In 汉纪 150 part 4, [[ChenPing|Chen Ping]] and [[ZhouBo|Zhou Bo]] receive [[LiuBang|Liu Bang]]'s order to kill [[FanKuai|Fan Kuai]]. Killing Fan Kuai would create danger with [[LuZhi|Lu Zhi]]'s side, but open refusal could offend Liu Bang. They convert execution into arrest, custody, and transport, leaving the final decision with the ruler and allowing timing to change before the irreversible act occurs.
 
-Hanji 767 adds [[LiHeEasternHan|Li He]] as a non-lethal version of the same structure. The Hanzhong administrator fears not sending gifts to [[DouXianEasternHan|Dou Xian]], while Li He judges that Dou is near disaster. Li He accepts the mission, travels slowly, and lets Dou's fall occur before the association is completed. In both cases, delay is not passivity; it is a structured action that keeps the actor legible while shifting final risk away from immediate execution.
+汉纪 767 adds [[LiHeEasternHan|Li He]] as a non-lethal version of the same structure. The Hanzhong administrator fears not sending gifts to [[DouXianEasternHan|Dou Xian]], while Li He judges that Dou is near disaster. Li He accepts the mission, travels slowly, and lets Dou's fall occur before the association is completed. In both cases, delay is not passivity; it is a structured action that keeps the actor legible while shifting final risk away from immediate execution.
 
 ## Key Claims
 
@@ -29,10 +29,10 @@ Hanji 767 adds [[LiHeEasternHan|Li He]] as a non-lethal version of the same stru
 
 ## Evidence
 
-- Execution-order conversion: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] says Chen Ping and Zhou Bo arrest and transport Fan Kuai rather than execute Liu Bang's dangerous order immediately.
-- Upward risk transfer: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] frames the prison-cart solution as leaving final responsibility to the sovereign and changed succession context.
-- Gift-mission conversion: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Li He volunteers to carry the Hanzhong gift to Dou Xian but travels slowly while watching events.
-- Avoided association: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Dou's family falls before Li He completes the gift mission, sparing the Hanzhong administrator from removal as a Dou associate.
+- Execution-order conversion: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|汉纪 150 part 4]] says Chen Ping and Zhou Bo arrest and transport Fan Kuai rather than execute Liu Bang's dangerous order immediately.
+- Upward risk transfer: [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|汉纪 150 part 4]] frames the prison-cart solution as leaving final responsibility to the sovereign and changed succession context.
+- Gift-mission conversion: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Li He volunteers to carry the Hanzhong gift to Dou Xian but travels slowly while watching events.
+- Avoided association: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Dou's family falls before Li He completes the gift mission, sparing the Hanzhong administrator from removal as a Dou associate.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The concept should not be generalized into a blanket defense of delay. Both evid
 ## What Changed
 
 - Migrated the page to `knowledge_schema: synthesis-v1`.
-- Added Hanji 767 as a second case, expanding the concept from execution-order delay to gift-association delay.
+- Added 汉纪 767 as a second case, expanding the concept from execution-order delay to gift-association delay.
 - Reframed delay as structured risk transfer rather than generic caution.
 
 ## Related Concepts

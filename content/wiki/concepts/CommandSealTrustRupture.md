@@ -16,7 +16,7 @@ The seal gesture backfires. Zhang Er's retainers advise him to accept what has b
 
 This differs from [[OathBoundCommandTrust|盟誓约束下的统帅信任]], where a public commitment protects a commander from later abandonment. Here the prior bond lacks a working constraint. Once accusation enters the scene, the symbol that should prove sincerity becomes the instrument of dispossession.
 
-[[CommandAuthorityRecapture|统帅权再收束]] is the sovereign-command counterpart opened later by [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]]. There, [[LiuBang|刘邦]] takes [[HanXin|韩信]] and [[ZhangEr|张耳]]'s seals from above rather than through a peer trust collapse. The contrast matters: Zhang Er's earlier act breaks a relationship, while Liu Bang's later act preserves Han Xin's usefulness by removing only immediate army control.
+[[CommandAuthorityRecapture|统帅权再收束]] is the sovereign-command counterpart opened later by [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|汉纪 162-2]]. There, [[LiuBang|刘邦]] takes [[HanXin|韩信]] and [[ZhangEr|张耳]]'s seals from above rather than through a peer trust collapse. The contrast matters: Zhang Er's earlier act breaks a relationship, while Liu Bang's later act preserves Han Xin's usefulness by removing only immediate army control.
 
 ## Key Claims
 - Trust rupture in wartime can become irreversible when it attaches to command symbols and troop ownership.

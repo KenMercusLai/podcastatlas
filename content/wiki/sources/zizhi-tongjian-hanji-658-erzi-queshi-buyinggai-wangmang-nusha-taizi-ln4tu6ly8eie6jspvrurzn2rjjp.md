@@ -42,11 +42,11 @@ The second half widens the crisis from palace family destruction to [[XinDynasty
 - [[WangMangReforms|王莽改制]], [[CounterfeitCurrencyPolicing|counterfeit currency policing]], [[CurrencyControlTrap|currency control trap]], and [[PunitiveCurrencyEnforcementBackfire|惩罚性货币执法反噬]] - the private-coinage branch turns currency policy into coercive social damage.
 - [[Xiongnu|匈奴]], Qingzhou, Xuzhou, Juting, Xihe Commandery, Wuyuan Commandery, Shuofang Commandery, and Yuyang Commandery - military and frontier mobilization field that drains grain and wealth.
 - [[WarDisasterCompounding|war-disaster compounding]] - failed campaigns, requisition, frost, famine, locusts, and forced labor interact rather than remaining separate crises.
-- [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|Hanji 663]], [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]], [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]], and [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] - later Wang Mang endgame layers already in the wiki.
+- [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|汉纪 663]], [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]], [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]], and [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] - later Wang Mang endgame layers already in the wiki.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 21 CE, before the Gengshi/Kunyang sequence in Hanji 663-664 and before the Chang'an/Jian Terrace collapse in Hanji 666-667.
+- Chronology qualification: this source backfills 21 CE, before the Gengshi/Kunyang sequence in 汉纪 663-664 and before the Chang'an/Jian Terrace collapse in 汉纪 666-667.
 - Identity qualification: 王匡 is represented as [[WangKuangXinPrince|王匡]] here, distinct from later [[WangKuangLateHan|王匡]] and source-scoped Wang Kuang notices in the Gengshi/Lulin field.
 - Scope caution: Yuan Bi, Liu Ying's exact astrology claims, Wang Lin's inner motives, Wang Mang's private guilt, Wang Xing and Wang Kuang's earlier lives, Juting campaign details, Xiongnu marriage politics, exact casualty ratios, and commandery transport figures remain source-scoped unless later evidence requires wider pages.

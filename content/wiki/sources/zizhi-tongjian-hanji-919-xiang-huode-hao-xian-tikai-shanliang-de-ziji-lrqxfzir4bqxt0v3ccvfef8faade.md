@@ -11,7 +11,7 @@ last_updated: 2026-08-26
 ---
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han close of Hanji 49 before [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|Hanji 920]]. It opens with a self-governance frame about [[BoundarylessKindnessTrap|boundaryless kindness]], then moves through [[EmperorLingOfHan|Emperor Ling of Han]]'s garden project, [[YangCiLateHan|Yang Ci]]'s remonstrance, Mencian "shared pleasure" rhetoric, and [[YangXuanLateHan|Yang Xuan]]'s suppression of Cangwu-Guiyang bandits. The episode links personal boundary failure, courtly flattery, local disorder, and captured reporting as parallel forms of late-Han institutional decay.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han close of 汉纪 49 before [[zizhi-tongjian-hanji-920-mingwu-zhege-daoli-caineng-zhuan-daqian-lqmabg3bpyz6ct2v4arx-iun57ws|汉纪 920]]. It opens with a self-governance frame about [[BoundarylessKindnessTrap|boundaryless kindness]], then moves through [[EmperorLingOfHan|Emperor Ling of Han]]'s garden project, [[YangCiLateHan|Yang Ci]]'s remonstrance, Mencian "shared pleasure" rhetoric, and [[YangXuanLateHan|Yang Xuan]]'s suppression of Cangwu-Guiyang bandits. The episode links personal boundary failure, courtly flattery, local disorder, and captured reporting as parallel forms of late-Han institutional decay.
 
 ## Key Claims
 - Kindness becomes self-harm when it has no boundary, no reciprocal protection, and no claim on value; the episode frames this as the [[BoundarylessKindnessTrap|boundaryless kindness trap]], not as a rejection of kindness itself.
@@ -50,5 +50,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 - No settled contradiction with existing wiki content is recorded.
-- Source-context caution: the transcript frames the annalistic branch as 179 CE / Guanghe 2, while the public-domain base text places the garden and Yang Xuan notices under Guanghe 3 / 180 CE. This page keeps the episode's relative position as the close of Hanji 49 before Hanji 920 and treats the exact year as a normalized chronology caution.
+- Source-context caution: the transcript frames the annalistic branch as 179 CE / Guanghe 2, while the public-domain base text places the garden and Yang Xuan notices under Guanghe 3 / 180 CE. This page keeps the episode's relative position as the close of 汉纪 49 before 汉纪 920 and treats the exact year as a normalized chronology caution.
 - Transcript normalization: apparent ASR variants are read as Yang Ci (杨赐), Jingzhou (荆州), Cangwu (苍梧), yilang (议郎), and Yang Xuan written 杨璇 or 杨琁 in different traditions.

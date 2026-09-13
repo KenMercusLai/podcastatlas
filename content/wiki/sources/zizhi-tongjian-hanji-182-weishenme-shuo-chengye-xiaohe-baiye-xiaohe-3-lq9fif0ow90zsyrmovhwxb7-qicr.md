@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（3）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[HanXin|韩信]] death branch opened in Hanji 182 parts 1 and 2. It repeats the [[LuZhi|吕雉]] and [[XiaoHe|萧何]] false-victory lure into [[ChanglePalace|长乐宫]], adds the source-scoped "three not die" execution lore, and turns Han Xin's final regret over [[KuaiChe|蒯彻 / 蒯通]] into a retrospective judgment about military genius without sufficient political survival sense. The episode's final lesson is that Han Xin could endure humiliation and win campaigns, but failed to read how trust, gratitude, rank, and ruler fear change after victory.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[HanXin|韩信]] death branch opened in 汉纪 182 parts 1 and 2. It repeats the [[LuZhi|吕雉]] and [[XiaoHe|萧何]] false-victory lure into [[ChanglePalace|长乐宫]], adds the source-scoped "three not die" execution lore, and turns Han Xin's final regret over [[KuaiChe|蒯彻 / 蒯通]] into a retrospective judgment about military genius without sufficient political survival sense. The episode's final lesson is that Han Xin could endure humiliation and win campaigns, but failed to read how trust, gratitude, rank, and ruler fear change after victory.
 
 ## Key Claims
 - Lu Zhi and Xiao He announce that [[ChenXi|陈豨]] has been captured or killed, then use the resulting court congratulations ritual to make Han Xin's presence look obligatory.

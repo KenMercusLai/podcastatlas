@@ -16,13 +16,13 @@ Frontier Command Collapse / 边郡军政崩盘 is the pattern where a border cam
 
 ## Current Synthesis
 
-Hanji 820 adds an upstream legitimacy version of the pattern. During the 140 CE [[SouthernXiongnu|Southern Xiongnu]] revolt, [[LiangBingLateHan|Liang Bing]]'s illness-driven recall lets [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] act in the command role. Chen Gui coerces an uninvolved chanyu and the Left Wise King into suicide, which turns rebellion management into a chanyu-legitimacy and surrender-trust problem. The same source also sets up the later [[MaXianLateHan|Ma Xian]] failure: [[LiangShangLateHan|Liang Shang]] warns [[EmperorShunOfHan|Emperor Shun]] that Ma Xian is too old and not the right commander, but Shun refuses and Ma Xian delays.
+汉纪 820 adds an upstream legitimacy version of the pattern. During the 140 CE [[SouthernXiongnu|Southern Xiongnu]] revolt, [[LiangBingLateHan|Liang Bing]]'s illness-driven recall lets [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] act in the command role. Chen Gui coerces an uninvolved chanyu and the Left Wise King into suicide, which turns rebellion management into a chanyu-legitimacy and surrender-trust problem. The same source also sets up the later [[MaXianLateHan|Ma Xian]] failure: [[LiangShangLateHan|Liang Shang]] warns [[EmperorShunOfHan|Emperor Shun]] that Ma Xian is too old and not the right commander, but Shun refuses and Ma Xian delays.
 
-[[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] carries Ma Xian's setup into battlefield disaster. Ma Xian is chosen against warning, delays while Qiang forces coordinate, and ignores the warning field created by [[MaRongLateHan|Ma Rong]] and [[HuangfuGuiLateHan|Huangfu Gui]]. His defeat and death at Shegu Mountain turns a personnel and tempo problem into expanded pressure on Longxi, Guanzhong, and imperial tomb security.
+[[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|汉纪 821]] carries Ma Xian's setup into battlefield disaster. Ma Xian is chosen against warning, delays while Qiang forces coordinate, and ignores the warning field created by [[MaRongLateHan|Ma Rong]] and [[HuangfuGuiLateHan|Huangfu Gui]]. His defeat and death at Shegu Mountain turns a personnel and tempo problem into expanded pressure on Longxi, Guanzhong, and imperial tomb security.
 
-[[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] supplies the later and more internally explosive case. [[GengBiLateHan|Geng Bi]]'s campaign against [[HanSui|Han Sui]] fails before it can become a normal battle because corrupted staff, weak local trust, a newly assembled six-commandery army, and rejected advice from [[FuXie|Fu Xie]] travel into the army itself.
+[[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|汉纪 937]] supplies the later and more internally explosive case. [[GengBiLateHan|Geng Bi]]'s campaign against [[HanSui|Han Sui]] fails before it can become a normal battle because corrupted staff, weak local trust, a newly assembled six-commandery army, and rejected advice from [[FuXie|Fu Xie]] travel into the army itself.
 
-The concept differs from ordinary battlefield defeat. In all current layers, campaign failure begins upstream: unauthorized intervention, bad appointment, ignored warning, corrupt staff, bad tempo, and unstable morale make frontier force brittle. The rebel side may also be fragile, as Hanji 937 shows through [[InterestStructuredAllianceFragility|interest-structured alliance fragility]], but the state loses the chance to exploit that fragility when its own command field collapses first.
+The concept differs from ordinary battlefield defeat. In all current layers, campaign failure begins upstream: unauthorized intervention, bad appointment, ignored warning, corrupt staff, bad tempo, and unstable morale make frontier force brittle. The rebel side may also be fragile, as 汉纪 937 shows through [[InterestStructuredAllianceFragility|interest-structured alliance fragility]], but the state loses the chance to exploit that fragility when its own command field collapses first.
 
 ## Key Claims
 
@@ -35,14 +35,14 @@ The concept differs from ordinary battlefield defeat. In all current layers, cam
 
 ## Evidence
 
-- Unauthorized intervention as command collapse: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Chen Gui coerces the Southern Xiongnu chanyu and Left Wise King, is later jailed and removed, and worsens surrender conditions.
-- Ma Xian warning setup: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Liang Shang warns against using Ma Xian and that Ma Xian delays after appointment.
-- Bad appointment and delay: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] says Emperor Shun chooses Ma Xian despite objection, and Ma Xian delays while Qiang forces consolidate.
-- Ignored warning before defeat: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] records Ma Rong and Huangfu Gui warning against Ma Xian's command before his death at Shegu Mountain.
-- Finance and governance failure: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] has Huangfu Gui blame corrupt governors, wasted campaign money, violent officials, and starving soldiers for the Qiang revolt.
-- Corrupt staff and mistrust: [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] traces Geng Bi's collapse to his reliance on Cheng Qiu, a staff figure already resented for bribery and self-enrichment.
-- Troop fragility and rejected counsel: [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] says Fu Xie warns against rushing a newly assembled six-commandery army before discipline and cohesion are ready.
-- Administrative exposure after collapse: [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] shows mutineers killing Cheng Qiu and Geng Bi at Di Dao before the rebel side surrounds Hanyang commandery.
+- Unauthorized intervention as command collapse: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] says Chen Gui coerces the Southern Xiongnu chanyu and Left Wise King, is later jailed and removed, and worsens surrender conditions.
+- Ma Xian warning setup: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] says Liang Shang warns against using Ma Xian and that Ma Xian delays after appointment.
+- Bad appointment and delay: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|汉纪 821]] says Emperor Shun chooses Ma Xian despite objection, and Ma Xian delays while Qiang forces consolidate.
+- Ignored warning before defeat: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|汉纪 821]] records Ma Rong and Huangfu Gui warning against Ma Xian's command before his death at Shegu Mountain.
+- Finance and governance failure: [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|汉纪 821]] has Huangfu Gui blame corrupt governors, wasted campaign money, violent officials, and starving soldiers for the Qiang revolt.
+- Corrupt staff and mistrust: [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|汉纪 937]] traces Geng Bi's collapse to his reliance on Cheng Qiu, a staff figure already resented for bribery and self-enrichment.
+- Troop fragility and rejected counsel: [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|汉纪 937]] says Fu Xie warns against rushing a newly assembled six-commandery army before discipline and cohesion are ready.
+- Administrative exposure after collapse: [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|汉纪 937]] shows mutineers killing Cheng Qiu and Geng Bi at Di Dao before the rebel side surrounds Hanyang commandery.
 
 ## Counterevidence & Qualifications
 
@@ -50,9 +50,9 @@ The current concept is based on three late-Han frontier layers and should not be
 
 ## What Changed
 
-- Added Hanji 820 as an upstream layer before Ma Xian's Hanji 821 disaster and as a separate Chen Gui legitimacy-collapse case.
+- Added 汉纪 820 as an upstream layer before Ma Xian's 汉纪 821 disaster and as a separate Chen Gui legitimacy-collapse case.
 - Reframed the concept to include authorization and surrender-trust failure, not only bad appointments, corruption, and mutiny.
-- Preserved Hanji 937's Geng Bi case as the later internally explosive version.
+- Preserved 汉纪 937's Geng Bi case as the later internally explosive version.
 
 ## Related Concepts
 

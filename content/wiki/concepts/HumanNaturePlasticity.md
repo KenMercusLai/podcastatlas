@@ -16,7 +16,7 @@ This concept extends [[VirtuePracticeInternalization|修养内化]]. The previou
 
 [[zizhi-tongjian-qinji-110-1-lisi-micang-laoshu-he-xiashuidao-laoshu-ni-zenme-xuan-lmv-fw-kgsuokonssq8bkbfvdsb]] adds a harsher careerist version through [[LiSi|李斯]]. His [[MousePhilosophy|老鼠哲学]] does not ask whether people become morally better; it asks why the same kind of creature lives differently in different places. The source therefore extends environment as a causal factor while keeping Li Si's conclusion closer to ambition and gain than to Confucian moral formation.
 
-[[zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7|Hanji 150 PLUS]] adds an everyday action version. Its closing claim is that changing oneself is the key to solving problems, but the change is not instant; it is trained through daily accumulation, lifelong learning, and 知行合一. The episode therefore translates human plasticity from philosophical anthropology into [[LongTermAchievementDiscipline|长期成事纪律]].
+[[zizhi-tongjian-hanji-150-plus-songgei-2023-xiang-chengshi-de-ni-llspjstksuy5c-i9mxm53t2r55f7|汉纪 150 PLUS]] adds an everyday action version. Its closing claim is that changing oneself is the key to solving problems, but the change is not instant; it is trained through daily accumulation, lifelong learning, and 知行合一. The episode therefore translates human plasticity from philosophical anthropology into [[LongTermAchievementDiscipline|长期成事纪律]].
 
 ## Key Claims
 - The episode treats human nature as variable even while presenting the famous Mencius-Xunzi contrast.
@@ -26,7 +26,7 @@ This concept extends [[VirtuePracticeInternalization|修养内化]]. The previou
 - The final question about a stained person who keeps doing good turns human-nature theory into an [[ActionDefinesIdentity]] problem.
 - Disaster is a pressure test for plasticity because [[DisasterCivilizationRetreat|civilized restraint can retreat]] and survival motives can dominate.
 - Qinji 110-1 adds an opportunity-structure version: environment can shape status, safety, and conduct even when the motive is upward mobility rather than moral cultivation.
-- Hanji 150 PLUS adds a self-change version: ordinary people alter outcomes by training attention, conduct, and habits over time.
+- 汉纪 150 PLUS adds a self-change version: ordinary people alter outcomes by training attention, conduct, and habits over time.
 
 ## Connections
 - [[Confucius|孔子]], [[Mengzi|孟子 / Mencius]], and [[Xunzi|荀子]] - source thinkers.

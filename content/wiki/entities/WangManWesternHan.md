@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-王曼 / Wang Man enters the wiki through [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] as the same-father brother of [[WangZhengjun|王政君]] who had already died before Chengdi's 27 BCE same-day enfeoffment of the other Wang brothers.
+王曼 / Wang Man enters the wiki through [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] as the same-father brother of [[WangZhengjun|王政君]] who had already died before Chengdi's 27 BCE same-day enfeoffment of the other Wang brothers.
 
 ## Current Profile
 
@@ -24,15 +24,15 @@ Wang Man is an absence inside the [[ChengdiFiveMarquisesWesternHan|成帝五侯]
 
 ## Evidence
 
-- Death-before-enfeoffment: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Wang Zhengjun's same-father brothers other than the already dead Wang Man are all enfeoffed.
+- Death-before-enfeoffment: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Wang Zhengjun's same-father brothers other than the already dead Wang Man are all enfeoffed.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 511 and does not reconstruct Wang Man's biography, descendants, or possible relation to later Wang-family branches.
+This page is source-scoped to 汉纪 511 and does not reconstruct Wang Man's biography, descendants, or possible relation to later Wang-family branches.
 
 ## What Changed
 
-- Created Wang Man from Hanji 511's Five Marquises boundary note.
+- Created Wang Man from 汉纪 511's Five Marquises boundary note.
 
 ## Relationships
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-侯胤 / Hou Yin enters the wiki through [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] as the Western Han official who opposes withdrawing frontier defenses after [[HuhanyeChanyuWesternHan|呼韩邪单于]] offers to guard the border for [[HanYuandi|汉元帝]].
+侯胤 / Hou Yin enters the wiki through [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] as the Western Han official who opposes withdrawing frontier defenses after [[HuhanyeChanyuWesternHan|呼韩邪单于]] offers to guard the border for [[HanYuandi|汉元帝]].
 
 ## Current Profile
 
@@ -29,12 +29,12 @@ His importance is methodological as much as historical. While most officials acc
 
 ## Evidence
 
-- Policy setting: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Huhanye asks Yuan to remove frontier defenses while promising to guard the border.
-- Minority objection: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says most officials consider the proposal acceptable, while Hou Yin opposes it.
-- Strategic screen argument: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Hou Yin stresses Yinshan, Han Wudi's northern campaigns, and long-built border works.
-- Incentive-change argument: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Hou Yin reads present Xiongnu humility as tied to weakness and Han rescue, not as a permanent guarantee.
-- Governance argument: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says Hou Yin includes dependent people, Han-Qiang contact, fugitives, and crime control in his case.
-- Leverage argument: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]] says delegating frontier protection could let the chanyu claim merit and demand more rewards.
+- Policy setting: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] says Huhanye asks Yuan to remove frontier defenses while promising to guard the border.
+- Minority objection: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] says most officials consider the proposal acceptable, while Hou Yin opposes it.
+- Strategic screen argument: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] says Hou Yin stresses Yinshan, Han Wudi's northern campaigns, and long-built border works.
+- Incentive-change argument: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] says Hou Yin reads present Xiongnu humility as tied to weakness and Han rescue, not as a permanent guarantee.
+- Governance argument: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] says Hou Yin includes dependent people, Han-Qiang contact, fugitives, and crime control in his case.
+- Leverage argument: [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]] says delegating frontier protection could let the chanyu claim merit and demand more rewards.
 
 ## Qualifications
 
@@ -42,7 +42,7 @@ This page is bounded to one podcast source and does not reconstruct Hou Yin's fu
 
 ## What Changed
 
-- Created a source-bounded Western Han Hou Yin page from Hanji 493's frontier withdrawal debate.
+- Created a source-bounded Western Han Hou Yin page from 汉纪 493's frontier withdrawal debate.
 
 ## Relationships
 

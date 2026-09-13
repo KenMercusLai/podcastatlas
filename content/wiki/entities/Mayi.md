@@ -8,21 +8,21 @@ last_updated: 2026-08-23
 
 # 马邑 / Mayi
 
-马邑 / Mayi enters the wiki through [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] as the frontier capital requested by [[HanWangXin|韩王信]]. After [[LiuBang|刘邦]] moves him from the old Han interior to the Taiyuan-area kingdom, Han Wang Xin argues that [[Jinyang|晋阳]] is too far from the border to answer [[Xiongnu|匈奴]] attacks and asks to move the capital north to Mayi.
+马邑 / Mayi enters the wiki through [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|汉纪 174]] as the frontier capital requested by [[HanWangXin|韩王信]]. After [[LiuBang|刘邦]] moves him from the old Han interior to the Taiyuan-area kingdom, Han Wang Xin argues that [[Jinyang|晋阳]] is too far from the border to answer [[Xiongnu|匈奴]] attacks and asks to move the capital north to Mayi.
 
 In this source, Mayi marks the double edge of [[FrontierVassalContainment|边境迁封式牵制]]. The move puts a capable non-Liu king where his military ability can be used against an external threat, but it also moves him away from the strategic heartland.
 
-[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] turns Mayi from requested frontier capital into the siege and surrender point. [[Xiongnu|匈奴]] forces surround the city, Han Wang Xin negotiates while asking [[LiuBang|刘邦]] for help, Liu Bang suspects him, and Han Wang Xin finally hands Mayi over. The place now anchors both the logic and the breakdown of the frontier-vassal arrangement.
+[[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|汉纪 175]] turns Mayi from requested frontier capital into the siege and surrender point. [[Xiongnu|匈奴]] forces surround the city, Han Wang Xin negotiates while asking [[LiuBang|刘邦]] for help, Liu Bang suspects him, and Han Wang Xin finally hands Mayi over. The place now anchors both the logic and the breakdown of the frontier-vassal arrangement.
 
-[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] makes Mayi the opening breach of the Baideng campaign. After the surrender, Han Wang Xin and Xiongnu-linked forces can operate through the northern frontier, drawing Liu Bang into a campaign that first defeats Han Wang Xin at [[Shangdang|上党]] and then moves toward the [[BaidengEncirclement|白登之围]].
+[[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|汉纪 177]] makes Mayi the opening breach of the Baideng campaign. After the surrender, Han Wang Xin and Xiongnu-linked forces can operate through the northern frontier, drawing Liu Bang into a campaign that first defeats Han Wang Xin at [[Shangdang|上党]] and then moves toward the [[BaidengEncirclement|白登之围]].
 
-[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]] returns Mayi in the final Han Wang Xin branch. [[ZhouBo|周勃]] and [[ChaiWu|柴武]] attack around Mayi; after Han forces take it, the episode says the city is slaughtered. Mayi thus remains the hard frontier hinge where earlier surrender, Xiongnu connection, and later punitive reconquest overlap.
+[[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|汉纪 182 part 2]] returns Mayi in the final Han Wang Xin branch. [[ZhouBo|周勃]] and [[ChaiWu|柴武]] attack around Mayi; after Han forces take it, the episode says the city is slaughtered. Mayi thus remains the hard frontier hinge where earlier surrender, Xiongnu connection, and later punitive reconquest overlap.
 
 ## Connections
-- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|Hanji 182 part 2]], [[ZhouBo|周勃]], [[ChaiWu|柴武]], and [[ChenXiRebellion|陈豨之乱]] - reconquest and punitive slaughter during the final Han Wang Xin branch.
-- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]], [[HanWangXin|韩王信]], [[LiuBang|刘邦]], and [[BaidengEncirclement|白登之围]] - Mayi surrender as the campaign breach leading into Baideng.
-- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]], [[MaoDunChanyu|冒顿单于]], and [[FrontierVassalContainment|边境迁封式牵制]] - siege and surrender after the capital relocation.
-- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|Hanji 174]] - source page.
+- [[zizhi-tongjian-hanji-182-weishenme-shuo-chengye-xiaohe-baiye-xiaohe-2-lqk-jifupm9lbghfzaf09igfufgb|汉纪 182 part 2]], [[ZhouBo|周勃]], [[ChaiWu|柴武]], and [[ChenXiRebellion|陈豨之乱]] - reconquest and punitive slaughter during the final Han Wang Xin branch.
+- [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|汉纪 177]], [[HanWangXin|韩王信]], [[LiuBang|刘邦]], and [[BaidengEncirclement|白登之围]] - Mayi surrender as the campaign breach leading into Baideng.
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|汉纪 175]], [[MaoDunChanyu|冒顿单于]], and [[FrontierVassalContainment|边境迁封式牵制]] - siege and surrender after the capital relocation.
+- [[zizhi-tongjian-hanji-174-liubang-weihe-dafeng-zijide-chouren-1-lnzzvpieqtgatmvgogz3msyhs60u|汉纪 174]] - source page.
 - [[HanWangXin|韩王信]] - king who requests the capital move.
 - [[LiuBang|刘邦]] - ruler who approves the relocation.
 - [[Jinyang|晋阳]] and [[Xiongnu|匈奴]] - previous capital and frontier opponent.

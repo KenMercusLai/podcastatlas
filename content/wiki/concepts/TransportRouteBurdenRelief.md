@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Definition
 
-Transport route burden relief is the administrative practice of reducing public cost, danger, and labor pressure by redesigning tribute or supply routes and exempting tribute when conditions make extraction harmful. In Hanji 753, [[ZhengHongEasternHan|Zheng Hong]] uses this logic first for Jiaozhi transport and later for tribute reduction during drought, frontier alarm, and food shortage.
+Transport route burden relief is the administrative practice of reducing public cost, danger, and labor pressure by redesigning tribute or supply routes and exempting tribute when conditions make extraction harmful. In 汉纪 753, [[ZhengHongEasternHan|Zheng Hong]] uses this logic first for Jiaozhi transport and later for tribute reduction during drought, frontier alarm, and food shortage.
 
 ## Current Synthesis
 
@@ -30,9 +30,9 @@ The later tribute-relief proposal extends the same principle from route engineer
 
 ## Evidence
 
-- Dangerous old route: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] describes Jiaozhi tribute using a hazardous sea route through Dongye.
-- Safer replacement route: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] reports Zheng Hong opening mountain-road access through Lingling and Guiyang, saving cost and reducing danger.
-- Tribute demand relief: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] has Zheng Hong propose exempting some tribute during drought, border alarms, and food shortage to reduce public labor and expense.
+- Dangerous old route: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] describes Jiaozhi tribute using a hazardous sea route through Dongye.
+- Safer replacement route: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] reports Zheng Hong opening mountain-road access through Lingling and Guiyang, saving cost and reducing danger.
+- Tribute demand relief: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] has Zheng Hong propose exempting some tribute during drought, border alarms, and food shortage to reduce public labor and expense.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The later tribute-relief proposal extends the same principle from route engineer
 
 ## What Changed
 
-- Created this concept from Hanji 753's Zheng Hong Jiaozhi route and tribute-relief cases.
+- Created this concept from 汉纪 753's Zheng Hong Jiaozhi route and tribute-relief cases.
 
 ## Related Concepts
 

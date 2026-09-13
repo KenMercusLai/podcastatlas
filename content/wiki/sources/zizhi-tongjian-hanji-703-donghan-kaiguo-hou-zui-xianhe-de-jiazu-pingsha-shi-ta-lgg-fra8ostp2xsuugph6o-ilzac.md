@@ -14,9 +14,9 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]] Guangwu western layer around [[WeiXiaoEasternHan|隗嚣]], [[DouRongEasternHan|窦融]], [[LiangTongEasternHan|梁统]], and [[MaYuanEasternHan|马援]]. It follows Dou Rong's warning letter after sending his brother toward [[LiuXiu|刘秀]], Liang Tong's public break with Wei Xiao, and Ma Yuan's move from old Wei-side associate into Liu Xiu's persuasion-and-division instrument.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|汉纪 704]] Guangwu western layer around [[WeiXiaoEasternHan|隗嚣]], [[DouRongEasternHan|窦融]], [[LiangTongEasternHan|梁统]], and [[MaYuanEasternHan|马援]]. It follows Dou Rong's warning letter after sending his brother toward [[LiuXiu|刘秀]], Liang Tong's public break with Wei Xiao, and Ma Yuan's move from old Wei-side associate into Liu Xiu's persuasion-and-division instrument.
 
-The durable synthesis is that Wei Xiao's camp is being broken before the battlefield sequel: letters turn allegiance into a moral, strategic, civilian, and family-security issue; Liang Tong closes his own exit by killing an envoy and discarding Wei Xiao's seal; and Liu Xiu rewards or deploys defecting talent rather than treating all former rivals as disposable. No settled contradiction is recorded; the source mainly moves the current Wei Xiao/Dou Rong/Ma Yuan branch one step earlier than Hanji 704 and Hanji 707.
+The durable synthesis is that Wei Xiao's camp is being broken before the battlefield sequel: letters turn allegiance into a moral, strategic, civilian, and family-security issue; Liang Tong closes his own exit by killing an envoy and discarding Wei Xiao's seal; and Liu Xiu rewards or deploys defecting talent rather than treating all former rivals as disposable. No settled contradiction is recorded; the source mainly moves the current Wei Xiao/Dou Rong/Ma Yuan branch one step earlier than 汉纪 704 and 汉纪 707.
 
 ## Key Claims
 
@@ -49,6 +49,6 @@ The durable synthesis is that Wei Xiao's camp is being broken before the battlef
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills the pre-Hanji 704 persuasion and alignment layer before Wei Xiao's apology test, and before Hanji 707's later Dou Rong audience ritual, Wei Xiao refusal, Xicheng rescue, and temporary recovery.
+- Chronology qualification: this source backfills the pre-汉纪 704 persuasion and alignment layer before Wei Xiao's apology test, and before 汉纪 707's later Dou Rong audience ritual, Wei Xiao refusal, Xicheng rescue, and temporary recovery.
 - Identity normalization: source transcript forms 斗龙, 魏敖, 马元, 公孙树, and 入房 are normalized to [[DouRongEasternHan|窦融]], [[WeiXiaoEasternHan|隗嚣]], [[MaYuanEasternHan|马援]], [[GongsunShuEasternHan|公孙述]], and [[LuFangEasternHan|卢芳]] based on the Guangwu western-campaign context.
 - Scope caution: Zhang Xue, Ren Yu, Wang Yuan's advice wording, Wei Xun's exact hostage conditions, unnamed Qiang leaders, Dou Rong's brother, and exact letter text remain source-scoped unless later notes warrant canonical pages.

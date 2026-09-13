@@ -12,15 +12,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Cheng Jin is the Nanyang administrator whose source-bounded profile centers on punishing [[ZhangFanWanLateHan|张汎]] and then becoming a eunuch-accusation victim. Hanji 871 supplies the enforcement setup through [[CenZhiLateHan|岑晊]] and [[ZhangMuLateHan|张牧]], while Hanji 873 and Hanji 874 preserve the case as a later injustice that ends in prison death.
+Cheng Jin is the Nanyang administrator whose source-bounded profile centers on punishing [[ZhangFanWanLateHan|张汎]] and then becoming a eunuch-accusation victim. 汉纪 871 supplies the enforcement setup through [[CenZhiLateHan|岑晊]] and [[ZhangMuLateHan|张牧]], while 汉纪 873 and 汉纪 874 preserve the case as a later injustice that ends in prison death.
 
 ## Current Profile
 
-Cheng Jin appears as a local administrator who delegates sharply to a forceful aide. Hanji 871 pairs him with Cen Zhi the way Runan pairs [[ZongZiLateHan|宗资]] with [[FanPangLateHan|范滂]]: the administrator provides office authority, while the aide supplies moral and enforcement drive.
+Cheng Jin appears as a local administrator who delegates sharply to a forceful aide. 汉纪 871 pairs him with Cen Zhi the way Runan pairs [[ZongZiLateHan|宗资]] with [[FanPangLateHan|范滂]]: the administrator provides office authority, while the aide supplies moral and enforcement drive.
 
 The Zhang Fan case makes that structure dangerous. Zhang Fan of Wan is wealthy, has harem ties, gives valuables into the palace, and uses that access for local dominance. Cheng Jin, persuaded by Cen Zhi and Zhang Mu, arrests and kills Zhang Fan and roughly two hundred relatives or clients after an amnesty, then reports upward only afterward. That timing gives eunuch-side retaliation an opening even though later remonstrants defend the action as removing public harm.
 
-The aftermath extends beyond Hanji 871. Xiang Kai later cites Cheng Jin's case as an example of good local officials endangered by eunuch slander, and Hanji 874's Jia Biao scene remembers Cheng Jin and Liu Zhi as having died in prison. Cheng Jin therefore becomes a compact case of enforcement legitimacy colliding with amnesty procedure and palace complaint power.
+The aftermath extends beyond 汉纪 871. Xiang Kai later cites Cheng Jin's case as an example of good local officials endangered by eunuch slander, and 汉纪 874's Jia Biao scene remembers Cheng Jin and Liu Zhi as having died in prison. Cheng Jin therefore becomes a compact case of enforcement legitimacy colliding with amnesty procedure and palace complaint power.
 
 ## Key Characteristics
 
@@ -32,11 +32,11 @@ The aftermath extends beyond Hanji 871. Xiang Kai later cites Cheng Jin's case a
 
 ## Evidence
 
-- Delegated cleanup: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Cheng Jin appoints Cen Zhi as功曹 and entrusts Nanyang administration to him.
-- Zhang Fan enforcement: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Cen Zhi and Zhang Mu persuade Cheng Jin to arrest and kill Zhang Fan and roughly two hundred associated people after an amnesty.
-- Accusation rebound: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Hou Lan uses Zhang Fan's wife's complaint to help accuse Cheng Jin and Liu Zhi, leading to imprisonment and a proposed market execution.
-- Remonstrance case: [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] says Xiang Kai cites Cheng Jin and Liu Zhi as officials who removed dangerous people but were endangered after eunuch slander.
-- Prison-death aftermath: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] remembers Cheng Jin and Liu Zhi as dead in prison when Jia Biao refuses to shelter Cen Zhi.
+- Delegated cleanup: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] says Cheng Jin appoints Cen Zhi as功曹 and entrusts Nanyang administration to him.
+- Zhang Fan enforcement: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] says Cen Zhi and Zhang Mu persuade Cheng Jin to arrest and kill Zhang Fan and roughly two hundred associated people after an amnesty.
+- Accusation rebound: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] says Hou Lan uses Zhang Fan's wife's complaint to help accuse Cheng Jin and Liu Zhi, leading to imprisonment and a proposed market execution.
+- Remonstrance case: [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|汉纪 873]] says Xiang Kai cites Cheng Jin and Liu Zhi as officials who removed dangerous people but were endangered after eunuch slander.
+- Prison-death aftermath: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] remembers Cheng Jin and Liu Zhi as dead in prison when Jia Biao refuses to shelter Cen Zhi.
 
 ## Qualifications
 
@@ -44,7 +44,7 @@ The page preserves a procedural qualification: the source defends Cheng Jin's in
 
 ## What Changed
 
-- Created this profile from Hanji 871's Nanyang enforcement case and the Hanji 873-874 aftermath.
+- Created this profile from 汉纪 871's Nanyang enforcement case and the 汉纪 873-874 aftermath.
 
 ## Relationships
 

@@ -24,7 +24,7 @@ The source also uses the Qi-Chu exchange behind "风马牛不相及" to show how
 
 [[zizhi-tongjian-zhouji-75-4-weishenme-shuo-guanzhong-caishi-jingji-zhan-de-bizu-lrdleqozazh4-xdwas4karzgbmza]] makes Qi Huan Gong the ruler whose impulses and questions define Guan Zhong's economic policy. He authorizes the [[HengshanEconomicWarfare|Hengshan]] arms-and-grain maneuver, but he is also corrected when he wants direct resource monopoly: Guan Zhong's answer favors private operation, taxation, trade openness, and livelihood circulation over simple state possession.
 
-[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] reuses Qi Huan Gong as a compact leadership analogy for [[SunCe|孙策]]'s handling of [[ZhangZhaoLateHan|张昭]]. The episode presents Qi Huan Gong's reliance on [[GuanZhong|管仲]] as a case where a ruler becomes stronger by using someone able to carry work beyond the ruler's own capacity, supporting [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] rather than jealous protection of status.
+[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|汉纪 994]] reuses Qi Huan Gong as a compact leadership analogy for [[SunCe|孙策]]'s handling of [[ZhangZhaoLateHan|张昭]]. The episode presents Qi Huan Gong's reliance on [[GuanZhong|管仲]] as a case where a ruler becomes stronger by using someone able to carry work beyond the ruler's own capacity, supporting [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] rather than jealous protection of status.
 
 ## Connections
 - [[109-xianliao-zuozhuan-zhi-chunqiu-yundonghui-747508773]] - source episode.
@@ -38,4 +38,4 @@ The source also uses the Qi-Chu exchange behind "风马牛不相及" to show how
 - [[BaoShuya|鲍叔牙]], [[GongziJiu|公子纠]], [[GongsunWuzhi|公孙无知]], [[HouseholdOccupationControl|户籍与职业管控]], [[MilitaryCivilianIntegration|军政一体]], [[StateResourceMonopoly|资源垄断式国家统制]], and [[ConcessionBasedHegemony|让利式霸权]] - Zhouji 75-2 rise and reform branch.
 - [[InterstateEconomicWarfare|跨国经济战]], [[DemandInducedAgrarianDisruption|需求诱导式弃农]], [[GrainBorderCoercion|粮食与封边胁迫]], and [[PeopleFirstEconomicStatecraft|富民优先的经济治国]] - Zhouji 75-3 economic-war and livelihood branch.
 - [[HengshanEconomicWarfare|恒山之谋]], [[TaxBaseOverResourceMonopoly|税基优先于资源独占]], [[TradeHubStatecraft|商贸枢纽型治国]], [[PriceSignalResourceSteering|价格信号调控物流]], and [[CountercyclicalPublicWorks|逆周期公共工程]] - Zhouji 75-4 policy questions and Guan Zhong responses.
-- [[SunCe|孙策]], [[ZhangZhaoLateHan|张昭]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - Hanji 994 leadership analogy.
+- [[SunCe|孙策]], [[ZhangZhaoLateHan|张昭]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - 汉纪 994 leadership analogy.

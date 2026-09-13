@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens with a workplace and relationship frame: low-quality socializing is costly, and crisis work depends less on noisy connection volume than on finding the actor who can actually change the decision field. The historical case is 167 CE, just before [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]]'s amnesty aftermath and before the later Hanji 892-893 reputation-list disaster.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens with a workplace and relationship frame: low-quality socializing is costly, and crisis work depends less on noisy connection volume than on finding the actor who can actually change the decision field. The historical case is 167 CE, just before [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]]'s amnesty aftermath and before the later 汉纪 892-893 reputation-list disaster.
 
 The core story follows [[JiaBiaoLateHan|贾彪]] after [[ChenFanLateHan|陈蕃]] is removed and court figures become afraid to plead for the imprisoned party figures. Jia Biao goes to Luoyang, avoids theatrical protest, and targets [[DouWuLateHan|窦武]], the empress's father and a person with direct leverage over [[EmperorHuanOfHan|汉桓帝]]'s decision field. Dou Wu's memorial attacks eunuch corruption, defends [[LiYingLateHan|李膺]] and other party prisoners, and reframes auspiciousness as human virtue rather than flattering signs. [[WangFuLateHan|王甫]]'s prison interrogation of [[FanPangLateHan|范滂]] then turns from accusation into sympathy, while the eunuchs use the solar eclipse as a face-saving pretext to request pardon for party figures.
 
@@ -31,7 +31,7 @@ The core story follows [[JiaBiaoLateHan|贾彪]] after [[ChenFanLateHan|陈蕃]]
 - After submitting the memorial, Dou Wu claims illness and returns his office seals, making his intercession a risk-bearing act rather than casual advice.
 - Wang Fu interrogates Fan Pang and others about their party ties, but Fan Pang recasts "party" as mutual orientation toward good and rejection of evil.
 - Wang Fu is moved enough to remove heavy restraints from Li Ying and the others, while the eunuch side becomes anxious after party prisoners name eunuch descendants in testimony.
-- The eunuchs use the solar eclipse as a political opening to ask Emperor Huan to pardon the party figures, making the episode the immediate prelude to Hanji 877's release-and-registry layer.
+- The eunuchs use the solar eclipse as a political opening to ask Emperor Huan to pardon the party figures, making the episode the immediate prelude to 汉纪 877's release-and-registry layer.
 
 ## Key Quotes
 
@@ -47,10 +47,10 @@ The core story follows [[JiaBiaoLateHan|贾彪]] after [[ChenFanLateHan|陈蕃]]
 - [[EmperorHuanOfHan|汉桓帝]], [[ChenFanLateHan|陈蕃]], [[LiYingLateHan|李膺]], and [[FanPangLateHan|范滂]] - first Party Prohibition decision field after Chen Fan's removal.
 - [[WangFuLateHan|王甫]] and [[FanPangLateHan|范滂]] - prison interrogation that briefly converts accusation into sympathy.
 - [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[AuspiciousOmenPolitics|祥瑞政治]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - eclipse pretext, real祥瑞 argument, and士人 virtue claims.
-- [[PartyNetworkTreasonFraming|朋党网络谋反化]], [[RegistryBasedPoliticalExclusion|登记造册式政治禁锢]], and [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] - accusation and release path before the amnesty becomes lifelong office exclusion.
+- [[PartyNetworkTreasonFraming|朋党网络谋反化]], [[RegistryBasedPoliticalExclusion|登记造册式政治禁锢]], and [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] - accusation and release path before the amnesty becomes lifelong office exclusion.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the pre-amnesty rescue mechanism before Hanji 877's release, registry, Fan Pang-Huo Xu, and Shi Bi layers.
+- No settled contradiction with existing wiki pages was found. This source backfills the pre-amnesty rescue mechanism before 汉纪 877's release, registry, Fan Pang-Huo Xu, and Shi Bi layers.
 - Scope caution: the unnamed second intercessor in the episode summary is not converted into a canonical page or identity claim because this source file does not name the actor.
 - Scope caution: Fuyu, Xuantu, Duiyu, Yunyang, and the exact frontier place names are kept source-scoped here rather than expanded into new pages.

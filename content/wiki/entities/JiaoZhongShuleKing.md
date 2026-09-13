@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-叫中 / Jiao Zhong enters the wiki through [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] as the [[ShuleKingdom|Shule]] ruler who borrows troops from Kangju and then offers a false surrender to [[BanChaoEasternHan|Ban Chao]]. His failed trap gives Ban Chao's Western Regions profile an earlier Shule counter-deception layer.
+叫中 / Jiao Zhong enters the wiki through [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] as the [[ShuleKingdom|Shule]] ruler who borrows troops from Kangju and then offers a false surrender to [[BanChaoEasternHan|Ban Chao]]. His failed trap gives Ban Chao's Western Regions profile an earlier Shule counter-deception layer.
 
 ## Current Profile
 
@@ -30,14 +30,14 @@ Jiao Zhong is therefore important less as an independent biography than as a tac
 
 ## Evidence
 
-- External backing: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Jiao Zhong borrows troops from Kangju and occupies or holds Shule.
-- False surrender: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says he sends an envoy to Ban Chao pretending to surrender.
-- Counter-trap: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Ban Chao sees through the plan, accepts outwardly, and kills Jiao Zhong when he arrives with fighting men.
-- Outcome: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] says Ban Chao defeats Jiao Zhong's followers and the Western Regions southern route becomes clear.
+- External backing: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] says Jiao Zhong borrows troops from Kangju and occupies or holds Shule.
+- False surrender: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] says he sends an envoy to Ban Chao pretending to surrender.
+- Counter-trap: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] says Ban Chao sees through the plan, accepts outwardly, and kills Jiao Zhong when he arrives with fighting men.
+- Outcome: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] says Ban Chao defeats Jiao Zhong's followers and the Western Regions southern route becomes clear.
 
 ## Qualifications
 
-This page is bounded to Hanji 756. Kangju's role, Shule's internal succession details, force size, and exact route geography remain source-scoped. The page records the source's 叫中 spelling and does not attempt to harmonize it with other possible Western Regions name forms.
+This page is bounded to 汉纪 756. Kangju's role, Shule's internal succession details, force size, and exact route geography remain source-scoped. The page records the source's 叫中 spelling and does not attempt to harmonize it with other possible Western Regions name forms.
 
 ## What Changed
 

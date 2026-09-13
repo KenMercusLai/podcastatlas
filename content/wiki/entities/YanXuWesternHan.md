@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Overview
 
-严徐 / Yan Xu is the [[WesternHanDynasty|Western Han]] Yingchuan governor used in [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]] to explain why a good local official could be remembered as a "父母官." The source presents him as a filial, restrained, self-reflective administrator whose transfer from [[YingchuanCommandery|颍川郡]] makes local people vulnerable to harsher rule.
+严徐 / Yan Xu is the [[WesternHanDynasty|Western Han]] Yingchuan governor used in [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]] to explain why a good local official could be remembered as a "父母官." The source presents him as a filial, restrained, self-reflective administrator whose transfer from [[YingchuanCommandery|颍川郡]] makes local people vulnerable to harsher rule.
 
 ## Current Profile
 
@@ -28,9 +28,9 @@ The strongest scene is his departure from Yingchuan. When [[WangMang|王莽]] ha
 
 ## Evidence
 
-- Filial and restrained conduct: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]] says Yan Xu was recommended for filial conduct, treated officials as teachers or friends, reflected on himself after subordinate errors, and never spoke loudly.
-- People-first farewell: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]] says Yan Xu cried at the farewell banquet because he feared what would happen to Yingchuan's people after his transfer.
-- Replacement contrast: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|Hanji 619]] says He Bing soon replaced Yan Xu and killed Zhong Wei, Zhao Ji, Li Kuan, and others, confirming the episode's contrast between restrained and severe local rule.
+- Filial and restrained conduct: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]] says Yan Xu was recommended for filial conduct, treated officials as teachers or friends, reflected on himself after subordinate errors, and never spoke loudly.
+- People-first farewell: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]] says Yan Xu cried at the farewell banquet because he feared what would happen to Yingchuan's people after his transfer.
+- Replacement contrast: [[zizhi-tongjian-hanji-619-fumuguan-zhege-ci-shi-zenme-laide-lmluscbtl3faczssz5didybawa1r|汉纪 619]] says He Bing soon replaced Yan Xu and killed Zhong Wei, Zhao Ji, Li Kuan, and others, confirming the episode's contrast between restrained and severe local rule.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source gives a moral portrait, not an administrative audit. It does not spec
 
 ## What Changed
 
-- Created the page from Hanji 619 as a source-scoped Western Han local-governance exemplar.
+- Created the page from 汉纪 619 as a source-scoped Western Han local-governance exemplar.
 
 ## Relationships
 

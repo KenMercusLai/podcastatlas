@@ -10,11 +10,11 @@ last_updated: 2026-08-30
 
 ## Definition
 
-以直报怨式平反 / straight redress without revenge is the Hanji 770 pattern where a ruler answers a real grievance by restoring truth, status, and concrete treatment, while refusing to turn redress into total retaliation against a related person whose role still carries legitimate obligations.
+以直报怨式平反 / straight redress without revenge is the 汉纪 770 pattern where a ruler answers a real grievance by restoring truth, status, and concrete treatment, while refusing to turn redress into total retaliation against a related person whose role still carries legitimate obligations.
 
 ## Current Synthesis
 
-Hanji 770 frames the problem with [[Laozi]]'s "repay resentment with virtue" and [[Confucius]]' "repay resentment with straightness, repay virtue with virtue." The source then applies that distinction to [[EmperorHeOfHan|Emperor He]] after he learns that [[LiangGuirenHeLateHan|Liang Guiren]] was his birth mother and had died under pressure from [[EmpressDowagerDouHeLateHan|Dou Taihou]].
+汉纪 770 frames the problem with [[Laozi]]'s "repay resentment with virtue" and [[Confucius]]' "repay resentment with straightness, repay virtue with virtue." The source then applies that distinction to [[EmperorHeOfHan|Emperor He]] after he learns that [[LiangGuirenHeLateHan|Liang Guiren]] was his birth mother and had died under pressure from [[EmpressDowagerDouHeLateHan|Dou Taihou]].
 
 The emperor's answer has two halves. He accepts [[ZhangPuEasternHan|Zhang Pu]]'s advice to recognize Liang Guiren, restore maternal relatives, rebury her, and honor her father. But when officials ask to remove Dou Taihou's title and deny burial with [[EmperorZhangOfHan|Emperor Zhang]], he refuses because he had served Dou as mother for ten years.
 
@@ -30,11 +30,11 @@ The concept therefore names a bounded correction. It is not passive forgiveness,
 
 ## Evidence
 
-- Ethical frame: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] opens with "以直报怨，以德报德" as the standard for judging Emperor He's response.
-- Active redress: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He accepts Zhang Pu's proposal, posthumously honors Liang Guiren, honors Liang Song, recalls Liang relatives, and grants family titles.
-- Anti-revenge boundary: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He refuses to remove Dou Taihou's title or prevent burial with Emperor Zhang.
-- Parallel repair: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] says Emperor He also grants Liu Qing's request for seasonal sacrifices to Song Guiren.
-- Outer-relative consequence: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]] warns that Liang-family restoration later becomes part of another outer-relative problem.
+- Ethical frame: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] opens with "以直报怨，以德报德" as the standard for judging Emperor He's response.
+- Active redress: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] says Emperor He accepts Zhang Pu's proposal, posthumously honors Liang Guiren, honors Liang Song, recalls Liang relatives, and grants family titles.
+- Anti-revenge boundary: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] says Emperor He refuses to remove Dou Taihou's title or prevent burial with Emperor Zhang.
+- Parallel repair: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] says Emperor He also grants Liu Qing's request for seasonal sacrifices to Song Guiren.
+- Outer-relative consequence: [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]] warns that Liang-family restoration later becomes part of another outer-relative problem.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The concept is currently grounded in one podcast source and should not be genera
 
 ## What Changed
 
-- Created the concept from Hanji 770's ethical frame and Emperor He's two-sided settlement.
+- Created the concept from 汉纪 770's ethical frame and Emperor He's two-sided settlement.
 
 ## Related Concepts
 

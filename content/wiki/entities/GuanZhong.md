@@ -24,7 +24,7 @@ The page should stay source-scoped. The episode does not give a full Guan Zhong 
 
 [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9]] adds Guan Zhong as another [[YaoJia|姚贾]] defense precedent. Yao Jia cites him to argue that prior dishonor, divided service, or compromised biography cannot be a simple disqualification when later statecraft proves the person useful.
 
-[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] adds a modern management use of Guan Zhong. The host cites [[QiHuanGong|齐桓公]] relying on Guan Zhong to argue that a leader benefits when a subordinate can handle work beyond the leader's own capacity, making Guan Zhong a comparator for [[ZhangZhaoLateHan|张昭]] and [[SunCe|孙策]] inside [[SubordinateSuccessNonJealousy|下属成就不嫉妒]].
+[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|汉纪 994]] adds a modern management use of Guan Zhong. The host cites [[QiHuanGong|齐桓公]] relying on Guan Zhong to argue that a leader benefits when a subordinate can handle work beyond the leader's own capacity, making Guan Zhong a comparator for [[ZhangZhaoLateHan|张昭]] and [[SunCe|孙策]] inside [[SubordinateSuccessNonJealousy|下属成就不嫉妒]].
 
 ## Connections
 - [[zizhi-tongjian-zhouji-75-1-qiongshe-jichi-de-zushiye-guanzhong-lmeeh8t6dobgzrkoouato9vhjjuj]] and [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] - source episodes.
@@ -38,4 +38,4 @@ The page should stay source-scoped. The episode does not give a full Guan Zhong 
 - [[Confucius|孔子]], [[Xunzi|荀子]], [[XunziText|《荀子》]], and [[XunzianWangbaThreePaths|荀子王霸三分法]] - evaluation frame.
 - [[ConfucianIdealGovernance|儒家理想治理]], [[WangdaoVsBadao|王道 versus 霸道]], and [[PersonDependentGovernanceFragility|人亡政息式治理脆弱性]] - achievement-limit branch.
 - [[YaoJia|姚贾]] and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - precedent in Yao Jia's defense of tainted but useful talent.
-- [[SunCe|孙策]], [[ZhangZhaoLateHan|张昭]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - Hanji 994 leadership analogy.
+- [[SunCe|孙策]], [[ZhangZhaoLateHan|张昭]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - 汉纪 994 leadership analogy.

@@ -9,7 +9,7 @@ last_updated: 2026-08-29
 ---
 
 ## Overview
-徐凤 / Xu Feng is the Xu-Yang bandit leader in Hanji 826, disambiguated from the existing [[XuFengLateHan|徐奉]] eunuch route. He is defeated in the 145 CE campaign, escapes, burns Dongcheng, and is killed by [[XieAnXiapiLateHan|下邳谢安]].
+徐凤 / Xu Feng is the Xu-Yang bandit leader in 汉纪 826, disambiguated from the existing [[XuFengLateHan|徐奉]] eunuch route. He is defeated in the 145 CE campaign, escapes, burns Dongcheng, and is killed by [[XieAnXiapiLateHan|下邳谢安]].
 
 ## Current Profile
 Xu Feng appears in the unrest that leads Liang Na to seek commanders and appoint Teng Fu, Feng Gun, and Zhao Xu to suppress bandit groups. Teng Fu defeats the main rebel leaders, but Xu Feng escapes from the first round of fighting.
@@ -23,9 +23,9 @@ His later burning of Dongcheng makes him a local public danger rather than a mer
 - Killed by Xie An through locally mobilized ambush.
 
 ## Evidence
-- Campaign target: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] places Xu Feng among the bandit leaders targeted in the Xu-Yang suppression campaign.
-- Escape and arson: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Xu Feng escapes and burns Dongcheng.
-- Death: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Xie An ambushes and kills Xu Feng.
+- Campaign target: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] places Xu Feng among the bandit leaders targeted in the Xu-Yang suppression campaign.
+- Escape and arson: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Xu Feng escapes and burns Dongcheng.
+- Death: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Xie An ambushes and kills Xu Feng.
 
 ## Qualifications
 The page is source-scoped and does not identify Xu Feng's wider organization, followers, family, or final legal treatment beyond beheading. The semantic suffix keeps him separate from [[XuFengLateHan|徐奉]], the later eunuch named in a different source cluster.

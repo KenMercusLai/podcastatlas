@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-[[HanYuandi|汉元帝]] succession crisis immediately before [[zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p|Hanji 499]]'s death-and-accession layer. It explains why Yuan did not replace crown prince [[HanChengdi|刘骜 / 后来的汉成帝]] with [[LiuKangDingtaoKingWesternHan|山阳王刘康]] despite Liu Ao's adult indulgence, Liu Kang's favored position, and [[FuZhaoyiWesternHan|傅昭仪]]'s illness-bed proximity.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-[[HanYuandi|汉元帝]] succession crisis immediately before [[zizhi-tongjian-hanji-499-liubang-fuwoqilai-dasi-liushi-zhegezeng-zengsunzi-lndfgjehpe7qc36hejxba3znlz0p|汉纪 499]]'s death-and-accession layer. It explains why Yuan did not replace crown prince [[HanChengdi|刘骜 / 后来的汉成帝]] with [[LiuKangDingtaoKingWesternHan|山阳王刘康]] despite Liu Ao's adult indulgence, Liu Kang's favored position, and [[FuZhaoyiWesternHan|傅昭仪]]'s illness-bed proximity.
 
 The durable synthesis is that late-life affection and bedside access can create heir-replacement pressure, but an established crown prince may survive when a minister reframes the ruler's preference as a state-risk problem. [[ShiDanWesternHan|史丹 / 施丹]] does not argue that Liu Kang is bad; he stresses Liu Ao's嫡长 status, long-standing designation, and the likelihood that senior officials would resist a change, forcing Yuan to preserve the existing succession.
 

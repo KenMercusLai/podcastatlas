@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 
 ## Overview
 
-Zhang Feng / 张丰 is the Zhuo Commandery rebel in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] whose rebellion is tied to occult fraud. The source says he believes a Daoist's claim that he will become emperor, wears a stone wrapped in a multicolored bag as if it contains an imperial seal, is captured by [[JiZunEasternHan|祭遵]], and discovers only after defeat that the promised seal is not real.
+Zhang Feng / 张丰 is the Zhuo Commandery rebel in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] whose rebellion is tied to occult fraud. The source says he believes a Daoist's claim that he will become emperor, wears a stone wrapped in a multicolored bag as if it contains an imperial seal, is captured by [[JiZunEasternHan|祭遵]], and discovers only after defeat that the promised seal is not real.
 
 ## Current Profile
 
@@ -28,9 +28,9 @@ Capture destroys the sign. Ji Zun attacks first and seizes Zhang Feng; when the 
 
 ## Evidence
 
-- Occult claim: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says a Daoist tells Zhang Feng he will become emperor and ties a multicolored bag with a stone to his arm as if it contains a seal.
-- Rebellion and capture: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Liu Xiu sends commanders to attack Zhang Feng and Ji Zun captures him first.
-- Fraud exposed: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says the stone is opened and no imperial seal is found, after which Zhang Feng realizes he was deceived.
+- Occult claim: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says a Daoist tells Zhang Feng he will become emperor and ties a multicolored bag with a stone to his arm as if it contains a seal.
+- Rebellion and capture: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Liu Xiu sends commanders to attack Zhang Feng and Ji Zun captures him first.
+- Fraud exposed: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says the stone is opened and no imperial seal is found, after which Zhang Feng realizes he was deceived.
 
 ## Qualifications
 

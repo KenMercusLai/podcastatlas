@@ -14,7 +14,7 @@ Posthumous Merit Vindication is a court-politics pattern where a dead official's
 
 ## Current Synthesis
 
-Hanji 726 grounds the pattern in [[MaYuanEasternHan|Ma Yuan]]'s posthumous case. [[LiangSongLinxiangMarquis|Liang Song]]'s accusation causes [[LiuXiu|Liu Xiu]] to seize Ma Yuan's Xinxihou seal and leaves Ma's family terrified. [[ZhuBoEasternHan|Zhu Bo]] does not merely praise Ma as loyal; he reconstructs a bounded evidence record and asks the court to judge merit and fault together. The pattern is therefore a repair mechanism for reputational damage after the accused can no longer defend himself.
+汉纪 726 grounds the pattern in [[MaYuanEasternHan|Ma Yuan]]'s posthumous case. [[LiangSongLinxiangMarquis|Liang Song]]'s accusation causes [[LiuXiu|Liu Xiu]] to seize Ma Yuan's Xinxihou seal and leaves Ma's family terrified. [[ZhuBoEasternHan|Zhu Bo]] does not merely praise Ma as loyal; he reconstructs a bounded evidence record and asks the court to judge merit and fault together. The pattern is therefore a repair mechanism for reputational damage after the accused can no longer defend himself.
 
 ## Key Claims
 
@@ -26,10 +26,10 @@ Hanji 726 grounds the pattern in [[MaYuanEasternHan|Ma Yuan]]'s posthumous case.
 
 ## Evidence
 
-- Accusation after death: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Liang Song's accusation over Ma Yuan's baggage leads Liu Xiu to seize Ma's seal after Ma has died in camp.
-- Family danger: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Ma Yuan's wife, children, and Ma Yan are terrified, bury him hastily, bind themselves, and plead at the palace gate.
-- Evidence reconstruction: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Zhu Bo cites Ma Yuan's twenty-two years of service, campaigns, wounds, farewell before Jiaozhi, Wuling campaign, epidemic death, and family humiliation.
-- Ruler response: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Liu Xiu's anger eases after reading Zhu Bo's memorial.
+- Accusation after death: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Liang Song's accusation over Ma Yuan's baggage leads Liu Xiu to seize Ma's seal after Ma has died in camp.
+- Family danger: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Ma Yuan's wife, children, and Ma Yan are terrified, bury him hastily, bind themselves, and plead at the palace gate.
+- Evidence reconstruction: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Zhu Bo cites Ma Yuan's twenty-two years of service, campaigns, wounds, farewell before Jiaozhi, Wuling campaign, epidemic death, and family humiliation.
+- Ruler response: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Liu Xiu's anger eases after reading Zhu Bo's memorial.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ The source does not prove every motive behind Liang Song's accusation or narrate
 
 ## What Changed
 
-- Created this concept from Hanji 726 to capture Ma Yuan's posthumous accusation and Zhu Bo's corrective memorial.
+- Created this concept from 汉纪 726 to capture Ma Yuan's posthumous accusation and Zhu Bo's corrective memorial.
 
 ## Related Concepts
 

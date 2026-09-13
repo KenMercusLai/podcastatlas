@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 1-2 / 16-15 BCE under [[HanChengdi|汉成帝]], immediately before the later [[zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u|Hanji 538]] Gu Yong remonstrance and [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|Hanji 541]] Changling punishment layers. It explains why Chengdi appears connected to two mausoleums: he began with Yanling, shifted toward a larger Changling plan after [[XieWannianWesternHan|谢万年]]'s advice, then stopped Changling when delays, cost, transport burden, and public suffering made the project politically untenable.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 1-2 / 16-15 BCE under [[HanChengdi|汉成帝]], immediately before the later [[zizhi-tongjian-hanji-538-ma-hanchengdi-weihe-mei-bei-zhulian-lmdphggod_t9uk7uu5z_53rjkj7u|汉纪 538]] Gu Yong remonstrance and [[zizhi-tongjian-hanji-541-ta-shi-minzu-yingxiong-zuihou-weihe-yin-tan-ruyu-llcktocpmxxib1pjckboldlzgxdu|汉纪 541]] Changling punishment layers. It explains why Chengdi appears connected to two mausoleums: he began with Yanling, shifted toward a larger Changling plan after [[XieWannianWesternHan|谢万年]]'s advice, then stopped Changling when delays, cost, transport burden, and public suffering made the project politically untenable.
 
 The durable synthesis is that Chengdi's mausoleum story is a public-works reversal, not a mystery of two equal tombs. Changling becomes a case of imperial image-making and official self-display outrunning feasibility; the return to Yanling shows stop-work as damage control after construction burden, fiscal waste, and elite criticism accumulate.
 
@@ -37,8 +37,8 @@ The durable synthesis is that Chengdi's mausoleum story is a public-works revers
 
 - [[HanChengdi|汉成帝]], [[XieWannianWesternHan|谢万年]], and [[InfeasiblePublicWorksCancellation|不可成工程止损]] - the core mausoleum sequence: imperial desire, official proposal, failed feasibility, and stop-work decision.
 - [[InfrastructureLaborBurden]] - Changling's workers, transport burden, and material cost make the mausoleum project a labor-and-fiscal pressure case.
-- [[PublicReasonPrivateMotive|公开理由与私下动机错位]] - this source supplies the original policy reversal that Hanji 541 later reopens through reward, punishment, and hidden motive.
-- [[XiaoHe|萧何]] and [[DuYeWesternHan|杜邺]] - the side notice on renewing Xiao He's descendant line shows Hanji 537's broader concern with visible continuity of founding merit.
+- [[PublicReasonPrivateMotive|公开理由与私下动机错位]] - this source supplies the original policy reversal that 汉纪 541 later reopens through reward, punishment, and hidden motive.
+- [[XiaoHe|萧何]] and [[DuYeWesternHan|杜邺]] - the side notice on renewing Xiao He's descendant line shows 汉纪 537's broader concern with visible continuity of founding merit.
 - [[NaturalDisasterPoliticalOmen]] - black dragon, eclipse, meteor shower, and later eclipse notices keep the annalistic year inside a disaster-sign environment without making them the episode's main argument.
 - [[WangYinWesternHan|王音]] - the episode records Wang Yin's death and favorable evaluation as a comparatively upright Wang-family figure.
 

@@ -10,17 +10,17 @@ knowledge_schema: synthesis-v1
 
 ## Definition
 
-Per-mu land taxation / 按亩征税 is the fiscal policy notice in Hanji 868 where the court instructs commanderies and kingdoms to tax landholding households by the mu, making land area rather than only older household or person categories visible as a tax base.
+Per-mu land taxation / 按亩征税 is the fiscal policy notice in 汉纪 868 where the court instructs commanderies and kingdoms to tax landholding households by the mu, making land area rather than only older household or person categories visible as a tax base.
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] records the policy as an August 6, 165 CE order to commanderies and kingdoms. The source treats it as historically significant because it is described as the first such instruction, but also as frustratingly compressed because the chronicle gives little explanation of implementation, rates, resistance, or fiscal consequences.
+[[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] records the policy as an August 6, 165 CE order to commanderies and kingdoms. The source treats it as historically significant because it is described as the first such instruction, but also as frustratingly compressed because the chronicle gives little explanation of implementation, rates, resistance, or fiscal consequences.
 
 The concept is currently a narrow policy marker, not a complete Chinese tax-history page. Its importance in the wiki is twofold: it identifies a land-area-based fiscal move inside Emperor Huan's reign, and it creates a case for [[ChroniclePolicyCompression|政策制度记载压缩]], where a major institutional change appears in the narrative as a very short notice.
 
 ## Key Claims
 
-- The Hanji 868 notice marks land area as a tax base by ordering per-mu taxation of landholders.
+- The 汉纪 868 notice marks land area as a tax base by ordering per-mu taxation of landholders.
 - The order is framed as empire-wide administrative instruction to commanderies and kingdoms.
 - The source treats the notice as important but underexplained by the chronicle.
 - The current evidence does not establish tax rate, implementation mechanism, or fiscal yield.
@@ -28,9 +28,9 @@ The concept is currently a narrow policy marker, not a complete Chinese tax-hist
 
 ## Evidence
 
-- Policy notice: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says that on August 6 the court first instructs commanderies and kingdoms to tax landholding households by the mu.
-- Institutional compression: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] notes that the policy receives only a brief chronicle notice despite its apparent significance.
-- Fiscal interpretation: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] uses the notice to discuss the limits of person-centered political narrative for reconstructing institutions.
+- Policy notice: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] says that on August 6 the court first instructs commanderies and kingdoms to tax landholding households by the mu.
+- Institutional compression: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] notes that the policy receives only a brief chronicle notice despite its apparent significance.
+- Fiscal interpretation: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] uses the notice to discuss the limits of person-centered political narrative for reconstructing institutions.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The concept is currently a narrow policy marker, not a complete Chinese tax-hist
 
 ## What Changed
 
-- Created the concept from Hanji 868's August 6 per-mu taxation notice.
+- Created the concept from 汉纪 868's August 6 per-mu taxation notice.
 - Recorded the policy as a fiscal-state marker and as evidence for chronicle policy compression.
 
 ## Related Concepts

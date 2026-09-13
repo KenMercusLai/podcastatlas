@@ -10,11 +10,11 @@ last_updated: 2026-08-30
 
 ## Overview
 
-富裕 / Fu Yu enters the wiki as the Eastern Han Protector of the Qiang whose failed frontier handling in Hanji 757 turns a potentially surrendered [[ShaodangQiang|Shaodang Qiang]] situation into renewed rebellion and his own death. He tries to exploit Qiang-Hu conflict, asks for a large multi-commandery force, then attacks [[MiWuQiangLeader|Mi Wu]] before that force assembles and is killed at Sandou Valley.
+富裕 / Fu Yu enters the wiki as the Eastern Han Protector of the Qiang whose failed frontier handling in 汉纪 757 turns a potentially surrendered [[ShaodangQiang|Shaodang Qiang]] situation into renewed rebellion and his own death. He tries to exploit Qiang-Hu conflict, asks for a large multi-commandery force, then attacks [[MiWuQiangLeader|Mi Wu]] before that force assembles and is killed at Sandou Valley.
 
 ## Current Profile
 
-Hanji 757 presents Fu Yu as a negative frontier-fit case. The Shaodang Qiang group submits before fighting begins, but Fu Yu buys informants and attempts to provoke Qiang and Hu groups into weakening one another. The groups identify the attempt, join instead of fighting, leave the frontier, and return to Mi Wu.
+汉纪 757 presents Fu Yu as a negative frontier-fit case. The Shaodang Qiang group submits before fighting begins, but Fu Yu buys informants and attempts to provoke Qiang and Hu groups into weakening one another. The groups identify the attempt, join instead of fighting, leave the frontier, and return to Mi Wu.
 
 Fu Yu then requests fifty thousand troops from various commanderies, but moves before they gather. He attacks Mi Wu on his own, sends three thousand elite cavalry in close pursuit, and reaches Sandou Valley at night with loosened caution. Mi Wu uses that opening to attack, kill Fu Yu, and kill more than eight hundred of his men.
 
@@ -28,14 +28,14 @@ Fu Yu then requests fifty thousand troops from various commanderies, but moves b
 
 ## Evidence
 
-- Failed split strategy: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Fu Yu tries to stir conflict between Qiang and Hu groups, but they recognize it and join against Han instead.
-- Force request: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Fu Yu asks the court to levy fifty thousand troops from the commanderies.
-- Premature attack: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Fu Yu attacks Mi Wu before the commandery troops assemble.
-- Sandou Valley defeat: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Mi Wu strikes at night, kills Fu Yu, and kills more than eight hundred of his subordinates.
+- Failed split strategy: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Fu Yu tries to stir conflict between Qiang and Hu groups, but they recognize it and join against Han instead.
+- Force request: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Fu Yu asks the court to levy fifty thousand troops from the commanderies.
+- Premature attack: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Fu Yu attacks Mi Wu before the commandery troops assemble.
+- Sandou Valley defeat: [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Mi Wu strikes at night, kills Fu Yu, and kills more than eight hundred of his subordinates.
 
 ## Qualifications
 
-This page is bounded to Hanji 757. The source gives a compressed failure sequence rather than a complete administrative biography. The reported numbers and Sandou Valley location are preserved as source claims. The route is disambiguated from [[FuYu|傅宇]].
+This page is bounded to 汉纪 757. The source gives a compressed failure sequence rather than a complete administrative biography. The reported numbers and Sandou Valley location are preserved as source claims. The route is disambiguated from [[FuYu|傅宇]].
 
 ## What Changed
 

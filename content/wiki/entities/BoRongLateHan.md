@@ -12,15 +12,15 @@ last_updated: 2026-08-29
 
 ## Overview
 
-伯荣 / Bo Rong now appears in the wiki as a palace-connected figure whose significance moves across three [[EmperorAnOfHan|汉安帝]] problems: request and bribe traffic through [[WangShengPalaceActorLateHan|王圣]]'s household in [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]], title-order distortion through the Liu Gui marriage field in [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]], and local extraction through Ganling-capital missions in [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]].
+伯荣 / Bo Rong now appears in the wiki as a palace-connected figure whose significance moves across three [[EmperorAnOfHan|汉安帝]] problems: request and bribe traffic through [[WangShengPalaceActorLateHan|王圣]]'s household in [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|汉纪 795]], title-order distortion through the Liu Gui marriage field in [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]], and local extraction through Ganling-capital missions in [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]].
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] identifies Bo Rong's earliest current function as an access intermediary. [[YangZhenLateHan|杨震]] says she connects with outside actors, transmits requests and bribes, and should have her palace traffic cut off along with Wang Sheng's palace presence. This makes Bo Rong part of the post-Deng favorite network before the later title and mission episodes.
+[[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|汉纪 795]] identifies Bo Rong's earliest current function as an access intermediary. [[YangZhenLateHan|杨震]] says she connects with outside actors, transmits requests and bribes, and should have her palace traffic cut off along with Wang Sheng's palace presence. This makes Bo Rong part of the post-Deng favorite network before the later title and mission episodes.
 
-[[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] identifies Bo Rong as one of Wang Sheng's daughters and presents her as a favored person near An. Her relationship and later marriage with [[LiuGuiLateHan|刘瑰]] matter because Liu Gui becomes shizhong and receives the path to inherit the Shaoyang marquisate even though Liu Hu's younger brother Liu Wei is still alive. Yang Zhen uses that succession problem to challenge favorite-linked disruption of title order.
+[[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]] identifies Bo Rong as one of Wang Sheng's daughters and presents her as a favored person near An. Her relationship and later marriage with [[LiuGuiLateHan|刘瑰]] matter because Liu Gui becomes shizhong and receives the path to inherit the Shaoyang marquisate even though Liu Hu's younger brother Liu Wei is still alive. Yang Zhen uses that succession problem to challenge favorite-linked disruption of title order.
 
-Hanji 798 gives Bo Rong a second institutional role as a palace emissary moving between Ganling and the capital. The source does not give an independent biography; it uses her passage as the visible case for [[ChenZhongLateHan|陈忠]]'s critique of palace-proximity power. Princes, marquises, and senior officials over-honor her carriage, while local administrations mobilize roads, stations, supplies, gifts, and labor for the mission field.
+汉纪 798 gives Bo Rong a second institutional role as a palace emissary moving between Ganling and the capital. The source does not give an independent biography; it uses her passage as the visible case for [[ChenZhongLateHan|陈忠]]'s critique of palace-proximity power. Princes, marquises, and senior officials over-honor her carriage, while local administrations mobilize roads, stations, supplies, gifts, and labor for the mission field.
 
 Together, the sources make Bo Rong a carrier of ambiguous imperial proximity. Her significance is not reducible to personal morality: she shows how a palace household can affect title succession in one layer and local administrative burden in another.
 
@@ -35,22 +35,22 @@ Together, the sources make Bo Rong a carrier of ambiguous imperial proximity. He
 
 ## Evidence
 
-- Access and bribe-traffic warning: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|Hanji 795]] says Yang Zhen describes Bo Rong as connecting outside actors with palace favor, transmitting requests and bribes, and needing access cutoff.
-- Household identity and title path: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] says Bo Rong is Wang Sheng's daughter and is linked to Liu Gui's marriage, shizhong office, and Shaoyang marquisate succession.
-- Yang Zhen's objection: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] says Yang objects that Liu Gui's succession violates father-son or elder-younger brother title order while Liu Wei is still alive.
-- Mission role: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Emperor An sends Bo Rong and other palace-linked messengers between Ganling and the capital.
-- Status inflation and local burden: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says princes, marquises, and senior officials bow before Bo Rong's carriage, while roads, stations, supplies, gifts, and labor are mobilized for such passage.
-- Imperial-intent risk: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Chen Zhong warns that non-correction will make people think the emperor endorses the practice.
+- Access and bribe-traffic warning: [[zizhi-tongjian-hanji-795-dengjia-miewang-hou-weihe-juchao-wei-tamen-mingyuan-lqvmbqrrookphb4becaqbp7h-wi1|汉纪 795]] says Yang Zhen describes Bo Rong as connecting outside actors with palace favor, transmitting requests and bribes, and needing access cutoff.
+- Household identity and title path: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]] says Bo Rong is Wang Sheng's daughter and is linked to Liu Gui's marriage, shizhong office, and Shaoyang marquisate succession.
+- Yang Zhen's objection: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]] says Yang objects that Liu Gui's succession violates father-son or elder-younger brother title order while Liu Wei is still alive.
+- Mission role: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Emperor An sends Bo Rong and other palace-linked messengers between Ganling and the capital.
+- Status inflation and local burden: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says princes, marquises, and senior officials bow before Bo Rong's carriage, while roads, stations, supplies, gifts, and labor are mobilized for such passage.
+- Imperial-intent risk: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Chen Zhong warns that non-correction will make people think the emperor endorses the practice.
 
 ## Qualifications
 
-This page is bounded to Hanji 798, Hanji 796, and Hanji 795. It does not settle Bo Rong's full family structure, gendered title status, office, later career, personal intent, or all travel missions. The source transcript in Hanji 796 uses 薄荣, while Hanji 795 uses 伯荣; this page keeps the late-Han route normalized to 伯荣 for the received Tongjian context.
+This page is bounded to 汉纪 798, 汉纪 796, and 汉纪 795. It does not settle Bo Rong's full family structure, gendered title status, office, later career, personal intent, or all travel missions. The source transcript in 汉纪 796 uses 薄荣, while 汉纪 795 uses 伯荣; this page keeps the late-Han route normalized to 伯荣 for the received Tongjian context.
 
 ## What Changed
 
-- Added Hanji 795 as Bo Rong's earliest current layer, where Yang Zhen identifies her as a request and bribe intermediary.
-- Reframed Hanji 796's Wang Sheng household and Liu Gui title-succession layer as the next institutional consequence of that proximity.
-- Reframed Hanji 798's Ganling mission as a later expression of the same palace-proximity problem.
+- Added 汉纪 795 as Bo Rong's earliest current layer, where Yang Zhen identifies her as a request and bribe intermediary.
+- Reframed 汉纪 796's Wang Sheng household and Liu Gui title-succession layer as the next institutional consequence of that proximity.
+- Reframed 汉纪 798's Ganling mission as a later expression of the same palace-proximity problem.
 
 ## Relationships
 

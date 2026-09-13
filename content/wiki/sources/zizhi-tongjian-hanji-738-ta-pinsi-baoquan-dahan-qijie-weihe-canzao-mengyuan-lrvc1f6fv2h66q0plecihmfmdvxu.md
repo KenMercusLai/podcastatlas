@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 65-67 CE / Yongping 8-10 immediately before [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]]. It centers on [[ZhengZhongFrontierEasternHan|郑众]] warning [[EmperorMingOfHan|汉明帝]] that a return mission to [[NorthernXiongnuLateHan|北匈奴]] would strengthen the chanyu's prestige, unsettle [[SouthernXiongnu|南匈奴]] and [[Wuhuan|乌桓]], and force Han ritual dignity into a hostile stage.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 65-67 CE / Yongping 8-10 immediately before [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]]. It centers on [[ZhengZhongFrontierEasternHan|郑众]] warning [[EmperorMingOfHan|汉明帝]] that a return mission to [[NorthernXiongnuLateHan|北匈奴]] would strengthen the chanyu's prestige, unsettle [[SouthernXiongnu|南匈奴]] and [[Wuhuan|乌桓]], and force Han ritual dignity into a hostile stage.
 
 The durable synthesis is that early Yongping rule already combines high state order with dangerous interpretive errors. Mingdi builds annual official evaluation, Confucian education, and ritual music around the court, but he first treats Zheng Zhong's frontier warning as defiance, then needs outside testimony to recognize that Zheng's refusal to kowtow protected Han dignity. The same episode gives [[LiuJingGuanglingKingEasternHan|广陵王刘荆]] as a royal-kin treason boundary case and [[DingHongEasternHan|丁鸿]] as a title-succession duty case corrected by [[BaoJunEasternHan|鲍峻]].
 
@@ -35,7 +35,7 @@ The durable synthesis is that early Yongping rule already combines high state or
 
 ## Connections
 
-- [[EmperorMingOfHan|汉明帝]] - gains a pre-Hanji 739 layer joining Northern Xiongnu diplomacy, Zheng Zhong's imprisonment and rehabilitation, official evaluation, classics education, Liu Jing's royal-kin case, and Ding Hong's succession-duty story.
+- [[EmperorMingOfHan|汉明帝]] - gains a pre-汉纪 739 layer joining Northern Xiongnu diplomacy, Zheng Zhong's imprisonment and rehabilitation, official evaluation, classics education, Liu Jing's royal-kin case, and Ding Hong's succession-duty story.
 - [[ZhengZhongFrontierEasternHan|郑众]], [[NorthernXiongnuLateHan|北匈奴]], [[SouthernXiongnu|南匈奴]], [[Wuhuan|乌桓]], and [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - the frontier branch shows how a return envoy can damage existing alliance credibility even without formal title recognition.
 - [[DiplomaticRitualDignity|使节礼节国威]] and [[DirectRemonstranceCriminalization|直谏入罪]] - Zheng's refusal and imprisonment turn ritual form and loyal warning into a political-risk case.
 - [[LiuJingGuanglingKingEasternHan|广陵王刘荆]], [[FanTiaoEasternHan|樊鯈]], and [[RoyalKinTreasonLawBoundary|宗室谋逆法度边界]] - the royal-kin branch makes treason suspicion a public-law problem rather than an emperor-family problem.
@@ -44,7 +44,7 @@ The durable synthesis is that early Yongping rule already combines high state or
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the 65-67 CE layer before Hanji 739's Liu Cang, Ailao, Bianqu, and Liu Ying material.
+- No settled contradiction with existing wiki content was found. This source backfills the 65-67 CE layer before 汉纪 739's Liu Cang, Ailao, Bianqu, and Liu Ying material.
 - Transcript normalization: 郑仲/正宗 is normalized to [[ZhengZhongFrontierEasternHan|郑众 / Zheng Zhong (frontier commander)]], because the envoy-to-Northern-Xiongnu and Geng Gong recognition layers match the same non-eunuch frontier figure already separated from [[ZhengZhongEasternHan|郑众 / Zheng Zhong (Eastern Han eunuch)]].
 - Transcript normalization: 刘经/刘金 is normalized to [[LiuJingGuanglingKingEasternHan|刘荆 / Liu Jing, Guangling King]], and 丁弘 is routed to the existing [[DingHongEasternHan|丁鸿 / Ding Hong]] page.
 - Scope caution: Liu Gong, Liu Dang, the Four Surnames minor marquises, Ding Chen/Ding Lin and Ding Sheng name forms, the exact Duliaoying force, and minor ritual dates remain source-scoped unless later notes warrant standalone pages.

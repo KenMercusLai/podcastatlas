@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 陈平妻 / Wife of Chen Ping
 
-陈平妻 / Wife of Chen Ping is the unnamed granddaughter of [[ZhangFu|张负]] in [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|Hanji 150]]. The source says she had married five times and lost five husbands, creating a stigma that made others avoid the match. [[ChenPing|陈平]] rejects the "克夫" reading and treats the marriage as a realistic opportunity because she brings family backing, beauty, and social resources.
+陈平妻 / Wife of Chen Ping is the unnamed granddaughter of [[ZhangFu|张负]] in [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|汉纪 150]]. The source says she had married five times and lost five husbands, creating a stigma that made others avoid the match. [[ChenPing|陈平]] rejects the "克夫" reading and treats the marriage as a realistic opportunity because she brings family backing, beauty, and social resources.
 
 The episode uses her marriage less as private romance than as a turning point in Chen Ping's early political economy. Zhang Fu pays the betrothal money and wedding expenses, and the marriage raises Chen Ping's local standing. Zhang Fu's instruction that she continue serving Chen Ping's poor household elders respectfully also lets the host contrast real family education with mere wealth.
 

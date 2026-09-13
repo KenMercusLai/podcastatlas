@@ -44,11 +44,11 @@ The durable statecraft synthesis is [[CapacityBoundFrontierCommitment|capacity-b
 - [[Xiongnu|匈奴]], Punu, [[Wuhuan|乌桓]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - famine, succession, heqin request, and Wuhuan pressure before the later Southern/Northern split.
 - [[ShanshanKingdomLateHan|鄯善国]], [[ShacheKingdomLateHan|莎车国]], [[CheshiHouKingdomLateHan|车师]], and [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]] - Western Regions protectorate request and refusal.
 - [[BanGuEasternHan|班固]], [[HanWudi|汉武帝]], [[HexiFourCommanderiesLateHan|河西四郡]], Dawan, Anxi, and [[ImperialSelfCriticismEdict|帝王自责诏]] - historiographical comparison between expansion value, fiscal extraction, and Luntai remorse.
-- [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] - direct continuation into the Xiongnu split and Geng Guo's Southern Xiongnu buffer-restoration argument.
+- [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|汉纪 724]] - direct continuation into the Xiongnu split and Geng Guo's Southern Xiongnu buffer-restoration argument.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills 46 CE before Hanji 724's 47-48 CE Xiongnu split and Hanji 727's 50-51 CE Southern Xiongnu protected settlement.
+- Chronology qualification: this source backfills 46 CE before 汉纪 724's 47-48 CE Xiongnu split and 汉纪 727's 50-51 CE Southern Xiongnu protected settlement.
 - Scope caution: the Pei family instructions and admonitions are named but not listed, so their content remains source-scoped and should not be reconstructed from the title alone.
 - Scope caution: Wenxi/Pei Bai village, Zhu Fu, Du Lin, Liu Kun, Li Mao, Punu, Wudadihou, Shanshan King An, the Qiuci king, Dawan, Anxi, and exact fiscal instrument history remain source-scoped unless later notes warrant canonical pages.

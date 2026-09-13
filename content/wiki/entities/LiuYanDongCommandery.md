@@ -23,9 +23,9 @@ The bounded evidence gives Liu Yan a narrow but important campaign role. [[YuanS
 - Functions mainly as a campaign-position node, not as a fully developed biography.
 
 ## Evidence
-- Identity and office: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] names Liu Yan as the Dong Commandery administrator attacked by Yan Liang at White Horse.
-- White Horse target: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] makes Yuan Shao's dispatch of Yan Liang against Liu Yan the immediate cause of Cao Cao's relief move.
-- Relief context: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] says Cao Cao personally leads troops north in April to rescue Liu Yan before the diversionary White Horse attack.
+- Identity and office: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] names Liu Yan as the Dong Commandery administrator attacked by Yan Liang at White Horse.
+- White Horse target: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] makes Yuan Shao's dispatch of Yan Liang against Liu Yan the immediate cause of Cao Cao's relief move.
+- Relief context: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] says Cao Cao personally leads troops north in April to rescue Liu Yan before the diversionary White Horse attack.
 
 ## Qualifications
 The current source does not provide Liu Yan's family background, later career, or independent policy record. Because the wiki already has a separate [[LiuYanLateHan|刘焉 / Liu Yan (late Han)]] page, this page should keep the Dong Commandery disambiguator unless later evidence proves a different stable naming convention.

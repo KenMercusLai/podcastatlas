@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] by moving from [[XiangYu|项羽]]'s death to [[LiuBang|刘邦]]'s conversion of victory into founding order. It covers the pacification of Chu territory, the handling of Xiang Yu's body and clan, the capture of [[GongWei|共尉]], the stripping and redeployment of [[HanXin|韩信]]'s army, the grants to Han Xin and [[PengYue|彭越]], and the formal accession that founds [[WesternHanDynasty|西汉]]. Its core synthesis is that Liu Bang's advantage over Xiang Yu appears most clearly after the battle: he treats military victory as only the beginning of [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|汉纪 168 part 2]] by moving from [[XiangYu|项羽]]'s death to [[LiuBang|刘邦]]'s conversion of victory into founding order. It covers the pacification of Chu territory, the handling of Xiang Yu's body and clan, the capture of [[GongWei|共尉]], the stripping and redeployment of [[HanXin|韩信]]'s army, the grants to Han Xin and [[PengYue|彭越]], and the formal accession that founds [[WesternHanDynasty|西汉]]. Its core synthesis is that Liu Bang's advantage over Xiang Yu appears most clearly after the battle: he treats military victory as only the beginning of [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]].
 
 ## Key Claims
 - After Xiang Yu's death, Liu Bang rapidly deploys the coalition to settle Chu-linked territory; [[LuCountyChuHan|鲁县]] remains loyal until Liu Bang shows Xiang Yu's head and the city accepts surrender.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 > "名将不是帝王"
 
 ## Connections
-- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] - immediate prior episode ending Xiang Yu's life at Wujiang.
+- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|汉纪 168 part 2]] - immediate prior episode ending Xiang Yu's life at Wujiang.
 - [[LiuBang|刘邦]] - central actor turning battlefield victory into pacification, command control, title distribution, amnesty, and accession.
 - [[XiangYu|项羽]] - defeated rival whose burial, clan treatment, and historical judgment structure the opening half.
 - [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - core transition pattern created from this episode.

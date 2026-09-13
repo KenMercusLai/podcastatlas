@@ -14,7 +14,7 @@ Royal witchcraft succession delusion / 宗室巫术夺位幻想 is the pattern i
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] supplies the pattern through [[LiuXuGuanglingKingWesternHan|广陵王刘须]]. Liu Xu wants the throne but lacks the will to claim it openly. He therefore employs a witch to curse successive emperors or emperor-candidates. Liu Fuling's death and Liu He's deposition become false evidence in his mind, turning coincidence into a reinforced political superstition. The pattern becomes most dangerous when resentment joins the fantasy: after family punishment and territorial loss, Liu Xu returns to curses against [[EmperorXuanOfHan|汉宣帝]], and the later investigation pushes him into killing witnesses and suicide.
+[[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] supplies the pattern through [[LiuXuGuanglingKingWesternHan|广陵王刘须]]. Liu Xu wants the throne but lacks the will to claim it openly. He therefore employs a witch to curse successive emperors or emperor-candidates. Liu Fuling's death and Liu He's deposition become false evidence in his mind, turning coincidence into a reinforced political superstition. The pattern becomes most dangerous when resentment joins the fantasy: after family punishment and territorial loss, Liu Xu returns to curses against [[EmperorXuanOfHan|汉宣帝]], and the later investigation pushes him into killing witnesses and suicide.
 
 ## Key Claims
 
@@ -27,17 +27,17 @@ Royal witchcraft succession delusion / 宗室巫术夺位幻想 is the pattern i
 ## Evidence
 
 Ambition displaced into hidden ritual:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu has imperial ambition but does not dare imitate more open contention.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says he uses the witch Li Nuxu to curse Liu Fuling.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu has imperial ambition but does not dare imitate more open contention.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says he uses the witch Li Nuxu to curse Liu Fuling.
 
 False confirmation:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu treats Liu Fuling's death as proof that the curse worked.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu He's twenty-seven-day reign and removal further strengthen Liu Xu's belief.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu treats Liu Fuling's death as proof that the curse worked.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu He's twenty-seven-day reign and removal further strengthen Liu Xu's belief.
 
 Exposure spiral:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says family punishment and fief削夺 revive Liu Xu's curses against Xuan.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu kills witches and more than twenty palace women to destroy testimony.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says he commits suicide once officials ask to arrest him.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says family punishment and fief削夺 revive Liu Xu's curses against Xuan.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu kills witches and more than twenty palace women to destroy testimony.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says he commits suicide once officials ask to arrest him.
 
 ## Counterevidence & Qualifications
 
@@ -45,7 +45,7 @@ This concept is currently source-bounded to Liu Xu. It should not be generalized
 
 ## What Changed
 
-- Created the concept from Hanji 456-1 to capture Liu Xu's repeated curse-based succession fantasy.
+- Created the concept from 汉纪 456-1 to capture Liu Xu's repeated curse-based succession fantasy.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] creates the concept through [[BaoXuanWesternHan|鲍宣]]'s warning to [[HanAidi|汉哀帝]]. Bao Xuan does not deny that robbery and disorder exist. His point is that criminal punishment cannot stabilize people who face "seven harms" and "seven deaths" from disaster, extraction, corrupt officials, wrongful punishment, hunger, and disease.
+[[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] creates the concept through [[BaoXuanWesternHan|鲍宣]]'s warning to [[HanAidi|汉哀帝]]. Bao Xuan does not deny that robbery and disorder exist. His point is that criminal punishment cannot stabilize people who face "seven harms" and "seven deaths" from disaster, extraction, corrupt officials, wrongful punishment, hunger, and disease.
 
 The concept matters because it separates public-order repair from punitive reflex. If official greed, tax labor, strong-household encroachment, and favorite-centered reward are helping produce the conditions of crime and death, then heavier punishment may increase misery without solving the cause. Bao Xuan's proposed alternative is not lawlessness; it is personnel and priority repair: remove harmful insiders, educate or restrain outer-relative children, and rely on experienced officials with public-minded reputations.
 
@@ -28,14 +28,14 @@ The concept matters because it separates public-order repair from punitive refle
 
 ## Evidence
 
-- Punishment limit: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] says Bao Xuan argues that relying on criminal law after people are already in extreme distress will not restore order.
-- Official violence: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] includes harsh officials, torture, wrongful punishment, and killing by officials among the people's "seven deaths."
-- Livelihood pressure: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] links tax, corvee, land seizure, famine, and disease to the same disorder field.
-- Personnel remedy: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] says Bao Xuan proposes clearing harmful insiders and restoring experienced officials rather than only punishing commoners.
+- Punishment limit: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] says Bao Xuan argues that relying on criminal law after people are already in extreme distress will not restore order.
+- Official violence: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] includes harsh officials, torture, wrongful punishment, and killing by officials among the people's "seven deaths."
+- Livelihood pressure: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] links tax, corvee, land seizure, famine, and disease to the same disorder field.
+- Personnel remedy: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] says Bao Xuan proposes clearing harmful insiders and restoring experienced officials rather than only punishing commoners.
 
 ## Counterevidence & Qualifications
 
-This concept does not claim criminal law is useless in general. It is narrower than [[CriminalLawAsPowerLimitation|criminal law as power limitation]] and [[PenalSeverityExecutionTradeoff|penal severity and execution tradeoff]]: Hanji 588 concerns a livelihood-collapse setting where punishment cannot substitute for relief, appointment quality, and restraint of privileged extraction.
+This concept does not claim criminal law is useless in general. It is narrower than [[CriminalLawAsPowerLimitation|criminal law as power limitation]] and [[PenalSeverityExecutionTradeoff|penal severity and execution tradeoff]]: 汉纪 588 concerns a livelihood-collapse setting where punishment cannot substitute for relief, appointment quality, and restraint of privileged extraction.
 
 ## What Changed
 

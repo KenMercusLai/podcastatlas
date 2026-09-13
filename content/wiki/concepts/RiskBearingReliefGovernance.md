@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-Hanji 842 defines the pattern through Han Shao's Ying county case. Displaced households flee there because rebellion has made surrounding counties unsafe, and many face hunger and cold. Han Shao opens the county granaries even though the storehouse official warns that doing so is procedurally improper. His answer makes the priority explicit: if people are saved, he can accept death.
+汉纪 842 defines the pattern through Han Shao's Ying county case. Displaced households flee there because rebellion has made surrounding counties unsafe, and many face hunger and cold. Han Shao opens the county granaries even though the storehouse official warns that doing so is procedurally improper. His answer makes the priority explicit: if people are saved, he can accept death.
 
 The synthesis is not that rules do not matter. The risk matters because public grain is a governed resource, and because unauthorized release can become a punishable act if superiors treat procedure as more important than survival. The Taishan administrator's support completes the pattern: a credible local official acts first, then superior recognition converts exceptional relief into state capacity rather than private generosity or administrative disorder.
 
@@ -29,11 +29,11 @@ The synthesis is not that rules do not matter. The risk matters because public g
 
 ## Evidence
 
-- Urgent survival pressure: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says large numbers of displaced households flee to Han Shao's county in hunger and cold.
-- Public-reserve release: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says Han Shao opens all county granaries to relieve the refugees.
-- Procedural objection and personal risk: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says the grain official objects and Han Shao answers that he can accept death if people are saved.
-- Recognition by superior: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says the Taishan administrator knows Han Shao's character and supports rather than blames the granary opening.
-- Local legitimacy effect: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]] says thieves avoid Ying county and refugees move there, showing relief governance inside a wider local-security reputation.
+- Urgent survival pressure: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|汉纪 842]] says large numbers of displaced households flee to Han Shao's county in hunger and cold.
+- Public-reserve release: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|汉纪 842]] says Han Shao opens all county granaries to relieve the refugees.
+- Procedural objection and personal risk: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|汉纪 842]] says the grain official objects and Han Shao answers that he can accept death if people are saved.
+- Recognition by superior: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|汉纪 842]] says the Taishan administrator knows Han Shao's character and supports rather than blames the granary opening.
+- Local legitimacy effect: [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|汉纪 842]] says thieves avoid Ying county and refugees move there, showing relief governance inside a wider local-security reputation.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The concept currently rests on one strong case, so it should not be generalized 
 
 ## What Changed
 
-- Created the concept from Han Shao's Hanji 842 granary-relief case.
+- Created the concept from Han Shao's 汉纪 842 granary-relief case.
 - Defined the pattern as survival-first action plus personal accountability and superior recognition.
 
 ## Related Concepts

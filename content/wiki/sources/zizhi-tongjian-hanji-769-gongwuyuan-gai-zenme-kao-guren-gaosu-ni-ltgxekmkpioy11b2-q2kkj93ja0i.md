@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 94-96 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|Hanji 770]]. It combines [[BanChaoEasternHan|班超]]'s violent Yanqi campaign, [[SouthernXiongnu|南匈奴]] rebellion and false-report cases, [[ChenChongLateHan|陈宠]]'s appointment as tingwei, and [[HuangXiangLateHan|黄香]]'s refusal to leave the [[ShangshuTaiImperialAccess|尚书台]] for [[DongCommandery|东郡]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 94-96 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-770-chenmo-de-zhenxiang-huangdi-de-shengmu-jing-shi-ta-lu5dqu8uuw277ikzxkblvqdbpl3q|汉纪 770]]. It combines [[BanChaoEasternHan|班超]]'s violent Yanqi campaign, [[SouthernXiongnu|南匈奴]] rebellion and false-report cases, [[ChenChongLateHan|陈宠]]'s appointment as tingwei, and [[HuangXiangLateHan|黄香]]'s refusal to leave the [[ShangshuTaiImperialAccess|尚书台]] for [[DongCommandery|东郡]].
 
 The durable synthesis is that office value is not reducible to rank or salary. The Huang Xiang case becomes a source for [[PowerCenterProximityAdvantage|权力中心接近优势]], while the Zhu Hui and Du Chong branch extends [[UnauthorizedFrontierCommandIntervention|边疆将领擅断干预]] by showing that distorted reporting to the emperor can outweigh a local military success.
 

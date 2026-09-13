@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]] by turning from [[LiuBang|刘邦]]'s command recapture and the renewed [[XingyangStandoff|荥阳相持]] toward [[LiShiqi|郦食其]]'s eastern diplomatic mission. It shows Liu Bang using interception and [[PengYue|彭越]]'s supported raids to pull [[XiangYu|项羽]] between fronts, while Li Shiqi reframes [[Aocang|敖仓]], [[YingyangWarringStates|荥阳]], and [[Chenggao|成皋]] as the food-and-pass system Liu Bang must not abandon. The episode's central branch is Li Shiqi persuading [[TianGuangQiKing|田广]] at [[Linzi|临淄]] to shift [[QiState|齐国]] away from Chu and toward Han, only for [[HanXin|韩信]] to accept [[KuaiChe|蒯彻 / 蒯通]]'s merit argument and secretly attack Qi anyway.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|汉纪 162-2]] by turning from [[LiuBang|刘邦]]'s command recapture and the renewed [[XingyangStandoff|荥阳相持]] toward [[LiShiqi|郦食其]]'s eastern diplomatic mission. It shows Liu Bang using interception and [[PengYue|彭越]]'s supported raids to pull [[XiangYu|项羽]] between fronts, while Li Shiqi reframes [[Aocang|敖仓]], [[YingyangWarringStates|荥阳]], and [[Chenggao|成皋]] as the food-and-pass system Liu Bang must not abandon. The episode's central branch is Li Shiqi persuading [[TianGuangQiKing|田广]] at [[Linzi|临淄]] to shift [[QiState|齐国]] away from Chu and toward Han, only for [[HanXin|韩信]] to accept [[KuaiChe|蒯彻 / 蒯通]]'s merit argument and secretly attack Qi anyway.
 
 ## Key Claims
 - After taking over Han Xin's troops, Liu Bang's immediate approach is not another frontal decision battle but interception, route pressure, and support for Peng Yue's harassment of Chu logistics.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 > "三寸不烂之舌说服齐国七十多座城池" - Kuai Che's comparison between Li Shiqi's diplomatic gain and Han Xin's military merit.
 
 ## Connections
-- [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|Hanji 162-2]], [[CommandAuthorityRecapture|统帅权再收束]], [[HanXin|韩信]], and [[QiState|齐国]] - the prior command recapture sends Han Xin toward the same Qi front that Li Shiqi temporarily resolves by diplomacy.
+- [[zizhi-tongjian-hanji-162-2-liubang-ruhe-shoushi-wei-gao-quan-zhong-de-xiashu-lqvye2zmqhu3otk0uwu7lakf2prz|汉纪 162-2]], [[CommandAuthorityRecapture|统帅权再收束]], [[HanXin|韩信]], and [[QiState|齐国]] - the prior command recapture sends Han Xin toward the same Qi front that Li Shiqi temporarily resolves by diplomacy.
 - [[LiShiqi|郦食其]], [[TianGuangQiKing|田广]], [[Linzi|临淄]], [[QiState|齐国]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], and [[PoliticalSurrenderCascade|招降示范级联]] - envoy pressure converts Han's perceived advantage into a broad surrender signal.
 - [[KuaiChe|蒯彻 / 蒯通]], [[HanXin|韩信]], and [[StatusAnxietyPersuasion|位阶焦虑式说服]] - merit comparison pushes Han Xin to continue attacking after the diplomatic channel appears to have succeeded.
 - [[Aocang|敖仓]], [[YingyangWarringStates|荥阳]], [[Chenggao|成皋]], and [[TransportCorridorSeverance|交通线切割]] - Li Shiqi's advice makes food, passes, and transport control the basis for Liu Bang's renewed central-front posture.

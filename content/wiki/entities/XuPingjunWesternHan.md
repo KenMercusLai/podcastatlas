@@ -11,11 +11,11 @@ last_updated: 2026-09-13
 
 ## Overview
 
-许平君 / Xu Pingjun enters the wiki through [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] as [[EmperorXuanOfHan|汉宣帝]]'s earlier empress and the birth mother of crown prince [[HanYuandi|刘奭 / 汉元帝]]. [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] adds her memory as one reason Xuan does not replace Liu Shi with [[LiuQinHuaiyangKingWesternHan|淮阳王刘钦]] despite doubting Liu Shi's fitness.
+许平君 / Xu Pingjun enters the wiki through [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]] as [[EmperorXuanOfHan|汉宣帝]]'s earlier empress and the birth mother of crown prince [[HanYuandi|刘奭 / 汉元帝]]. [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] adds her memory as one reason Xuan does not replace Liu Shi with [[LiuQinHuaiyangKingWesternHan|淮阳王刘钦]] despite doubting Liu Shi's fitness.
 
 ## Current Profile
 
-The episode set uses Xu Pingjun less through her own court activity than through the succession-protection problem her death created. Hanji 540 uses her poisoning by the Huo family to explain why Emperor Xuan sought a cautious and childless consort, [[QiongchengTaihouWesternHan|邛成太后]], to raise Liu Shi. Hanji 459 uses the same emotional and moral memory differently: Xu's family had supported Xuan during hardship, Xu died before enjoying long security as empress, and Liu Shi had been endangered by the Huo family, so Xuan's possible replacement of Liu Shi becomes more than a cold personnel decision.
+The episode set uses Xu Pingjun less through her own court activity than through the succession-protection problem her death created. 汉纪 540 uses her poisoning by the Huo family to explain why Emperor Xuan sought a cautious and childless consort, [[QiongchengTaihouWesternHan|邛成太后]], to raise Liu Shi. 汉纪 459 uses the same emotional and moral memory differently: Xu's family had supported Xuan during hardship, Xu died before enjoying long security as empress, and Liu Shi had been endangered by the Huo family, so Xuan's possible replacement of Liu Shi becomes more than a cold personnel decision.
 
 ## Key Characteristics
 
@@ -28,22 +28,22 @@ The episode set uses Xu Pingjun less through her own court activity than through
 ## Evidence
 
 Mother of the crown prince:
-- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Xu Pingjun was the birth mother of crown prince Liu Shi.
+- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]] says Xu Pingjun was the birth mother of crown prince Liu Shi.
 
 Poisoning and aftermath:
-- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]] says Emperor Xuan pitied the crown prince after Xu Pingjun was poisoned by the Huo family and chose a cautious childless consort to raise him.
+- [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]] says Emperor Xuan pitied the crown prince after Xu Pingjun was poisoned by the Huo family and chose a cautious childless consort to raise him.
 
 Succession restraint:
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Xuan's gratitude and guilt toward Xu Pingjun and her family weigh against replacing Liu Shi even after Xuan considers Liu Qin.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Xuan's gratitude and guilt toward Xu Pingjun and her family weigh against replacing Liu Shi even after Xuan considers Liu Qin.
 
 ## Qualifications
 
-This page is bounded to Hanji 540 and Hanji 459's background uses. It does not reconstruct Xu Pingjun's full biography, the full Huo-family poisoning case, or the later political memory of her death beyond the succession-protection and replacement-restraint roles those sources assign her.
+This page is bounded to 汉纪 540 and 汉纪 459's background uses. It does not reconstruct Xu Pingjun's full biography, the full Huo-family poisoning case, or the later political memory of her death beyond the succession-protection and replacement-restraint roles those sources assign her.
 
 ## What Changed
 
-- Created the page from Hanji 540 as the background empress whose death explains Qiongcheng Taihou's foster-empress role.
-- Added Hanji 459's use of Xu Pingjun's memory as a restraint on Xuan's abandoned Liu Qin replacement plan.
+- Created the page from 汉纪 540 as the background empress whose death explains Qiongcheng Taihou's foster-empress role.
+- Added 汉纪 459's use of Xu Pingjun's memory as a restraint on Xuan's abandoned Liu Qin replacement plan.
 
 ## Relationships
 

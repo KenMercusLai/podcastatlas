@@ -12,13 +12,13 @@ input_digest: 27f9589d08523bdd3c676417d3a8da5183907473b80bd0c62b7f0daa69e44e34
 
 ## Current State
 
-Hanji 445 adds the positive administrative mechanics behind Han Yanshou before Hanji 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.
+汉纪 445 adds the positive administrative mechanics behind Han Yanshou before 汉纪 446 critique: ritual education, local worthies, schools, grassroots monitoring, strict-kind subordinate management, and closed-door self-reproach show moralized local order as both effective governance and procedural risk. The topic otherwise continues to hold long historical arcs where state capacity, legitimacy, war, diplomacy, and court access interact.
 
 ## Cross-source Findings
 
-### Hanji 445 Han Yanshou Moral Local Governance Precedes Critique
+### 汉纪 445 Han Yanshou Moral Local Governance Precedes Critique
 
-[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|Hanji 445]] adds the favorable governance layer behind [[HanYanshouWesternHan]]: ritual education, grassroots monitoring, and closed-door self-reproach create local order, while [[MoralPressureAdjudication]] marks the procedural ambiguity when moral posture ends litigation before legal merits are clear.
+[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|汉纪 445]] adds the favorable governance layer behind [[HanYanshouWesternHan]]: ritual education, grassroots monitoring, and closed-door self-reproach create local order, while [[MoralPressureAdjudication]] marks the procedural ambiguity when moral posture ends litigation before legal merits are clear.
 
 **Evidence:** [[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti]], [[HanYanshouWesternHan]], [[MoralPressureAdjudication]], [[RuiqiJiangtouZizhiTongjian]]
 
@@ -27,20 +27,20 @@ Hanji 445 adds the positive administrative mechanics behind Han Yanshou before H
 - The claim is grounded in one podcast episode paragraph and should not be generalized beyond Han Yanshou without additional evidence.
 - The original legal merits of the brothers land dispute and exact grassroots offices remain source-scoped.
 
-### Hanji 487 Jingfang Access Loss Precedes Death Case
+### 汉纪 487 Jingfang Access Loss Precedes Death Case
 
-[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|Hanji 487]] backfills the prelude to [[JingFang]]'s death before [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]]: [[ShiXianWesternHan]] reads [[KaogongfaReformBacklash]] as a threat to personnel interests, moves Jing Fang away from [[HanYuandi]] through a Wei Commandery appointment, and makes the cancelled return-reporting channel an early access-loss stage before the later private-speech case.
+[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|汉纪 487]] backfills the prelude to [[JingFang]]'s death before [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]]: [[ShiXianWesternHan]] reads [[KaogongfaReformBacklash]] as a threat to personnel interests, moves Jing Fang away from [[HanYuandi]] through a Wei Commandery appointment, and makes the cancelled return-reporting channel an early access-loss stage before the later private-speech case.
 
 **Evidence:** [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet]], [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah]], [[JingFang]], [[ShiXianWesternHan]], [[KaogongfaReformBacklash]], [[PowerCenterProximityAdvantage]], [[HanYuandi]]
 
 **Qualifications:**
 
 - The modern workplace analogy, Ren Liang and Yao Ping details, Wei Commandery procedure, and full memorial wording remain source-scoped.
-- Hanji 487 supplies setup, while Hanji 488 supplies the later recorded-speech and accusation sequence.
+- 汉纪 487 supplies setup, while 汉纪 488 supplies the later recorded-speech and accusation sequence.
 
-### Hanji 496 Poverty Memory And Merit Fault Preward Dispute
+### 汉纪 496 Poverty Memory And Merit Fault Preward Dispute
 
-[[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] backfills the pre-reward dispute before Hanji 497: [[LiuXiang|刘向]] uses [[ZhizhiChanyu|郅支单于]]'s defeat to argue that [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] should not have major frontier merit erased by false-order mobilization and captured-valuables fault, extending [[MeritShieldedAccountability|merit-shielded accountability]].
+[[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] backfills the pre-reward dispute before 汉纪 497: [[LiuXiang|刘向]] uses [[ZhizhiChanyu|郅支单于]]'s defeat to argue that [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] should not have major frontier merit erased by false-order mobilization and captured-valuables fault, extending [[MeritShieldedAccountability|merit-shielded accountability]].
 
 **Evidence:** [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol]], [[LiuXiang]], [[ZhizhiChanyu]], [[ChenTangWesternHan]], [[GanYanshouWesternHan]], [[MeritShieldedAccountability]]
 
@@ -50,9 +50,9 @@ Hanji 445 adds the positive administrative mechanics behind Han Yanshou before H
 - The full Liu Xiang memorial, captured-valuables inventory, and legal threshold between pardonable fault and punishable misconduct remain outside the claim.
 - The poverty-memory opening is linked to the same episode but is not a complete theory of corruption causation.
 
-### Hanji 510 Legal Simplification And Xiongnu Defection Restraint
+### 汉纪 510 Legal Simplification And Xiongnu Defection Restraint
 
-[[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|Hanji 510]] backfills Heping 1-2 under [[HanChengdi|汉成帝]]: Chengdi's law-simplification edict becomes a case of [[ImperialEdictImplementationResistance|edict implementation resistance]] and [[LegalComplexityDiscretionPower|legal complexity as official discretion]], while [[GuYongWesternHan|谷永]] and [[DuQinWesternHan|杜钦]] advise refusing [[YiYanMoyan|一言莫衍]]'s Xiongnu defection to protect wider [[Xiongnu|匈奴]] trust.
+[[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4|汉纪 510]] backfills Heping 1-2 under [[HanChengdi|汉成帝]]: Chengdi's law-simplification edict becomes a case of [[ImperialEdictImplementationResistance|edict implementation resistance]] and [[LegalComplexityDiscretionPower|legal complexity as official discretion]], while [[GuYongWesternHan|谷永]] and [[DuQinWesternHan|杜钦]] advise refusing [[YiYanMoyan|一言莫衍]]'s Xiongnu defection to protect wider [[Xiongnu|匈奴]] trust.
 
 **Evidence:** [[zizhi-tongjian-hanji-510-hanchengdi-de-zhedao-shengzhi-weihe-dachen-gan-yangfengyinwei-ljxebrollq4yydnmg8otocckmth4]], [[HanChengdi]], [[ImperialEdictImplementationResistance]], [[LegalComplexityDiscretionPower]], [[GuYongWesternHan]], [[DuQinWesternHan]], [[YiYanMoyan]], [[Xiongnu]], [[FrontierRecognitionCredibilityTradeoff]]
 
@@ -62,9 +62,9 @@ Hanji 445 adds the positive administrative mechanics behind Han Yanshou before H
 - Chengdi's cultural achievements, the exact legal-reform office process, and Yi Yan Moyan's true motive remain source-scoped.
 - The implementation-resistance explanation is the episode's institutional analysis rather than a complete bureaucratic record.
 
-### Hanji 553 Office Restoration Masks Command Removal
+### 汉纪 553 Office Restoration Masks Command Removal
 
-[[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|Hanji 553]] backfills the late-Chengdi sequence between Hanji 552 and Hanji 554: [[HanChengdi|汉成帝]] accepts [[HeWuWesternHan|何武]]'s Three Excellencies reform, formalizes [[WangGenWesternHan|王根]] as Da Sima, and removes Wang Gen's Piaoji Jiangjun command, making [[OfficeSequencePowerReallocation|office-sequence reallocation]] a case where visible promotion can mask practical command loss.
+[[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi|汉纪 553]] backfills the late-Chengdi sequence between 汉纪 552 and 汉纪 554: [[HanChengdi|汉成帝]] accepts [[HeWuWesternHan|何武]]'s Three Excellencies reform, formalizes [[WangGenWesternHan|王根]] as Da Sima, and removes Wang Gen's Piaoji Jiangjun command, making [[OfficeSequencePowerReallocation|office-sequence reallocation]] a case where visible promotion can mask practical command loss.
 
 **Evidence:** [[zizhi-tongjian-hanji-553-zhichang-zhong-ruhe-shibie-mingsheng-anjiang-lrxip_degagyo5vhek5pdxnubpsi]], [[HanChengdi]], [[HeWuWesternHan]], [[WangGenWesternHan]], [[OfficeSequencePowerReallocation]], [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw]], [[zizhi-tongjian-hanji-554-chengnianren-de-dingji-zilv-kezhi-yuwang-lo3brdufkiaks3mfsqsruxprqdcn]]
 
@@ -74,9 +74,9 @@ Hanji 445 adds the positive administrative mechanics behind Han Yanshou before H
 - The full Three Excellencies institutional history, Kong-family genealogy, and Liu Xing death context remain outside this claim.
 - The workplace analogy is preserved as source framing rather than independent evidence about modern organizations.
 
-### Hanji 575 Dingtao Lineage Secrecy Precedes Title Settlement
+### 汉纪 575 Dingtao Lineage Secrecy Precedes Title Settlement
 
-[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] backfills the late-Western-Han chronology before the later Ding/Fu settlement: [[ShiDanWesternHan]] opposes [[HanAidi]]'s Dingtao birth-parent elevation through [[AdoptiveLineageRitualPolitics]], then a copied sealed memorial and currency-advice reversal make his removal part of the broader [[FuTaihouWesternHan]] title-pressure sequence.
+[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|汉纪 575]] backfills the late-Western-Han chronology before the later Ding/Fu settlement: [[ShiDanWesternHan]] opposes [[HanAidi]]'s Dingtao birth-parent elevation through [[AdoptiveLineageRitualPolitics]], then a copied sealed memorial and currency-advice reversal make his removal part of the broader [[FuTaihouWesternHan]] title-pressure sequence.
 
 **Evidence:** [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[AdoptiveLineageRitualPolitics]], [[FuTaihouWesternHan]], [[ConfidentialRemonstranceLeakage]], [[ImperialConsortPosthumousTitleSystem]]
 
@@ -88,19 +88,19 @@ Hanji 445 adds the positive administrative mechanics behind Han Yanshou before H
 
 ### Western Han Wang Jia Personnel Memorial Links Talent And Local Authority
 
-[[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] backfills the late-Western-Han [[WangJiaWesternHan|王嘉]] sequence before the Dong Xian crisis by linking talent scarcity, flawed-official restoration, [[LocalOfficialTenureStability|local-official tenure]], and [[MeritShieldedAccountability|merit-shielded accountability]] to [[HanAidi|汉哀帝]]'s capacity to preserve local authority before disorder.
+[[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|汉纪 583]] backfills the late-Western-Han [[WangJiaWesternHan|王嘉]] sequence before the Dong Xian crisis by linking talent scarcity, flawed-official restoration, [[LocalOfficialTenureStability|local-official tenure]], and [[MeritShieldedAccountability|merit-shielded accountability]] to [[HanAidi|汉哀帝]]'s capacity to preserve local authority before disorder.
 
 **Evidence:** [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs]], [[WangJiaWesternHan]], [[LocalOfficialTenureStability]], [[MeritShieldedAccountability]], [[HanAidi]]
 
 **Qualifications:**
 
 - This is a source-scoped historical claim from one Hanji episode and should not be treated as Wang Jia's full biography.
-- It predates the later Hanji 585-599 Dong Xian and Wang Jia sequence, adding an earlier successful correction layer rather than revising the later fatal conflict.
+- It predates the later 汉纪 585-599 Dong Xian and Wang Jia sequence, adding an earlier successful correction layer rather than revising the later fatal conflict.
 - Minor named examples and exact offices remain source-scoped until later notes warrant canonical pages.
 
 ### Western Han Wang Jia Prelude Turns Reign Memory Into Warning
 
-[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] backfills the [[WangJiaWesternHan|王嘉]] sequence by showing how late-Han reign memory becomes political warning: [[HanYuandi|汉元帝]]'s thrift, [[HanChengdi|汉成帝]]'s criticism tolerance, and early [[HanAidi|汉哀帝]]'s frugality are selected as precedents before [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] turns the praise toward Dong Xian-centered favor.
+[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|汉纪 592]] backfills the [[WangJiaWesternHan|王嘉]] sequence by showing how late-Han reign memory becomes political warning: [[HanYuandi|汉元帝]]'s thrift, [[HanChengdi|汉成帝]]'s criticism tolerance, and early [[HanAidi|汉哀帝]]'s frugality are selected as precedents before [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|汉纪 593]] turns the praise toward Dong Xian-centered favor.
 
 **Evidence:** [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5]], [[WangJiaWesternHan]], [[HanYuandi]], [[HanChengdi]], [[HanAidi]], [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq]]
 
@@ -108,11 +108,11 @@ Hanji 445 adds the positive administrative mechanics behind Han Yanshou before H
 
 - This is a source-scoped historical-rhetorical claim from one short Hanji episode.
 - The praise of Yuan, Cheng, and early Aidi is Wang Jia's memorial strategy, not a complete reign synthesis.
-- The episode explicitly leaves the full purpose to Hanji 593.
+- The episode explicitly leaves the full purpose to 汉纪 593.
 
 ### Guandu Bridge Turns Scale Into Command Logistics Test
 
-[[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone.
+[[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|汉纪 1047]] bridges the Guandu opening and Wuchao crisis: [[GuanduCampaign]] now includes [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], and [[FixedCampSiegeEngineering]], showing campaign advantage turning on patron safety, time pressure, and camp engineering rather than scale alone.
 
 **Evidence:** [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm]], [[GuanduCampaign]], [[RunanCommanderyLateHan]], [[CaoRen]], [[StrategicPatronExitJudgment]], [[ResourceAsymmetryAttrition]], [[FixedCampSiegeEngineering]]
 
@@ -218,13 +218,13 @@ Public and national memory often turns messy causality into cleaner origin stori
 
 ### Late Xin Collapse Visible Before Final Battlefield Failure
 
-[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] adds a pre-Kunyang [[XinDynasty|late-Xin]] collapse layer: [[WangMang|Wang Mang]] loses his public succession line through [[WangLinXinCrownPrince|Wang Lin]], [[WangAnXinPrince|Wang An]], and the recall of [[WangXingXinPrince|Wang Xing]] / [[WangKuangXinPrince|Wang Kuang]], while failed campaigns, Xiongnu requisitions, famine, and [[PunitiveCurrencyEnforcementBackfire]] show state failure before the final Chang'an endgame.
+[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] adds a pre-Kunyang [[XinDynasty|late-Xin]] collapse layer: [[WangMang|Wang Mang]] loses his public succession line through [[WangLinXinCrownPrince|Wang Lin]], [[WangAnXinPrince|Wang An]], and the recall of [[WangXingXinPrince|Wang Xing]] / [[WangKuangXinPrince|Wang Kuang]], while failed campaigns, Xiongnu requisitions, famine, and [[PunitiveCurrencyEnforcementBackfire]] show state failure before the final Chang'an endgame.
 
 **Evidence:** [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp]], [[XinDynasty]], [[WangMang]], [[WangLinXinCrownPrince]], [[WangAnXinPrince]], [[WangXingXinPrince]], [[WangKuangXinPrince]], [[PunitiveCurrencyEnforcementBackfire]]
 
 **Qualifications:**
 
-- The source backfills 21 CE before the later Hanji 663-667 endgame; Wang Lin's motives, Yuan Bi's coerced confession, Xiongnu arrangements, campaign details, and casualty ratios remain source-scoped.
+- The source backfills 21 CE before the later 汉纪 663-667 endgame; Wang Lin's motives, Yuan Bi's coerced confession, Xiongnu arrangements, campaign details, and casualty ratios remain source-scoped.
 
 ### Film History Rewrites Iraq War And Hong Kong Handover Contexts
 
@@ -251,11 +251,11 @@ Public and national memory often turns messy causality into cleaner origin stori
 
 ### Xiongnu Reception Credibility Outweighs Frontier Cost Saving
 
-[[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|Hanji 590]] adds a late-Western-Han frontier-diplomacy case: [[YangXiong]] persuades [[HanAidi]] that [[Xiongnu]] reception should be treated through [[DiplomaticCostRiskAccounting]], because accumulated trust, special threat status, and [[WesternRegionsProtectorate|Western Regions]] containment make prevention cheaper than a credibility rupture.
+[[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a|汉纪 590]] adds a late-Western-Han frontier-diplomacy case: [[YangXiong]] persuades [[HanAidi]] that [[Xiongnu]] reception should be treated through [[DiplomaticCostRiskAccounting]], because accumulated trust, special threat status, and [[WesternRegionsProtectorate|Western Regions]] containment make prevention cheaper than a credibility rupture.
 
 **Evidence:** [[zizhi-tongjian-hanji-590-gudai-zhongguo-de-shengsi-choudi-shi-ta-lhr5pxx1-ldo6qtxibdryjtarh4a]], [[YangXiong]], [[HanAidi]], [[Xiongnu]], [[DiplomaticCostRiskAccounting]], [[WesternRegionsProtectorate]], [[zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d]], [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a]]
 
 **Qualifications:**
 
-- This is source-scoped to Yang Xiong's memorial as presented in Hanji 590, not a full theory of Western Han frontier policy.
+- This is source-scoped to Yang Xiong's memorial as presented in 汉纪 590, not a full theory of Western Han frontier policy.
 - The chanyu's inner intention, the exact reception budget, and the counterfactual Xiongnu reaction remain source-scoped.

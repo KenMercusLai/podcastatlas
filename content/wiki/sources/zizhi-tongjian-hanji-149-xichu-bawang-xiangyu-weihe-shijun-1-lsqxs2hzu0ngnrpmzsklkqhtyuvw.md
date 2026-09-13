@@ -11,11 +11,11 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[MiXin|芈心 / 楚怀王]] thread opened by [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|Hanji 143]] and continued through [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]]: [[XiangYu|项羽]] forces Yi Emperor Mi Xin toward [[ChenxianChangsha|郴县]] and then has him killed. The source argues that the killing is not only personal revenge for the [[HuaiwangAgreement|怀王之约]], but also Xiang Yu's attempt to prevent Liu Bang or other lords from using Mi Xin as a political banner. The death backfires by giving [[LiuBang|刘邦]] a public pretext to summon the lords, while the same episode tracks [[ChenYu|陈馀]], [[ZhangEr|张耳]], and [[ZhangLiang|张良]] moving the early Chu-Han alignment further toward Liu Bang.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[MiXin|芈心 / 楚怀王]] thread opened by [[zizhi-tongjian-hanji-143-xiangyu-shi-ruhe-feijin-xinji-nongsi-chuhuaiwang-mixin-lstfzfvbd2h9i39f7y5dxrbxxwv2|汉纪 143]] and continued through [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|汉纪 148-2]]: [[XiangYu|项羽]] forces Yi Emperor Mi Xin toward [[ChenxianChangsha|郴县]] and then has him killed. The source argues that the killing is not only personal revenge for the [[HuaiwangAgreement|怀王之约]], but also Xiang Yu's attempt to prevent Liu Bang or other lords from using Mi Xin as a political banner. The death backfires by giving [[LiuBang|刘邦]] a public pretext to summon the lords, while the same episode tracks [[ChenYu|陈馀]], [[ZhangEr|张耳]], and [[ZhangLiang|张良]] moving the early Chu-Han alignment further toward Liu Bang.
 
 ## Key Claims
 - Mi Xin's death marks the end of the post-Qin revived-kings order and pushes the lords into a sharper [[LiuBang|刘邦]] versus [[XiangYu|项羽]] struggle.
-- Xiang Yu first removes Mi Xin from the practical center by forcing him away from Pengcheng toward [[ChenxianChangsha|郴县]], continuing the isolation recorded in Hanji 143 and Hanji 144.
+- Xiang Yu first removes Mi Xin from the practical center by forcing him away from Pengcheng toward [[ChenxianChangsha|郴县]], continuing the isolation recorded in 汉纪 143 and 汉纪 144.
 - Xiang Yu orders [[YingBu|英布]], [[WuRui|吴芮]], and [[GongAo|共敖]] to attack Mi Xin on the river route; the episode stresses that all three initially hesitate because Mi Xin still carries盟主 and大义 standing.
 - [[YingBu|英布]] ultimately carries out the killing at Chenxian near Qiongquan, and local people bury Mi Xin with sympathy.
 - The episode gives two motives for Xiang Yu's decision: old resentment over Mi Xin's insistence on the [[HuaiwangAgreement|怀王之约]], and fear that Mi Xin could be received by [[LiuBang|刘邦]] or other anti-Xiang actors as a legitimacy banner.
@@ -39,4 +39,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 - [[ZhangLiang|张良]], [[HanCheng|韩成]], [[GanGong|甘公]], and [[StrategicRecognitionAlignment|谋略知己式归附]] - adviser movement toward Liu Bang as Xiang Yu's order alienates useful people.
 
 ## Contradictions
-- No settled contradiction is recorded. This source resolves the earlier Hanji 143 title note by narrating the final killing that Hanji 143 only set up through Mi Xin's title elevation, relocation, and loss of practical power.
+- No settled contradiction is recorded. This source resolves the earlier 汉纪 143 title note by narrating the final killing that 汉纪 143 only set up through Mi Xin's title elevation, relocation, and loss of practical power.

@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 2 / 26 CE immediately before [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|Hanji 688]] and [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|Hanji 689-1]]. It follows [[LiuXiu|光武帝刘秀]]'s survival-and-settlement strategy while the [[ChimeiRebellion|赤眉]] move through snow, famine, Chang'an, tomb looting, eastward retreat, and pressure from [[DengYuEasternHan|邓禹]] and [[FengYiEasternHan|冯异]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 2 / 26 CE immediately before [[zizhi-tongjian-hanji-688-cong-yongbing-baiwan-dao-kuibuchengjun-dengyu-jingli-le-shenme-lpabdvtmhtrf37puwvgi4c9ajp60|汉纪 688]] and [[zizhi-tongjian-hanji-689-1-lishishang-gan-yu-liuxiu-zhengxiong-de-shi-shui-lq1dq1srokorkzeib-oattni3sme|汉纪 689-1]]. It follows [[LiuXiu|光武帝刘秀]]'s survival-and-settlement strategy while the [[ChimeiRebellion|赤眉]] move through snow, famine, Chang'an, tomb looting, eastward retreat, and pressure from [[DengYuEasternHan|邓禹]] and [[FengYiEasternHan|冯异]].
 
 The episode's most vivid memory claim is the historical-record tradition that Chimei troops looted Western Han imperial mausoleums and allegedly violated [[LuZhi|吕雉]]'s corpse. The host explicitly leaves the exact truth of that report uncertain, so the wiki treats it as source-scoped evidence for ritual collapse and [[TombDesecrationPoliticalViolence|陵墓亵渎式政治暴力]], not as a settled factual assertion.
 
@@ -24,7 +24,7 @@ The episode's most vivid memory claim is the historical-record tradition that Ch
 - Gai Yan's Suiyang pressure and Fu Long's Qing/Xu mission turn Liu Yong's failure into a broader surrender signal across eastern commanderies.
 - Wu Han's rough conduct in Nanyang creates a pacification failure: looting and troop abuse alienate Deng Feng and feed a new local rebellion.
 - Chimei's failed westward move, snow losses, retreat into Chang'an, and grave looting make the movement a sign of political, material, and ritual breakdown.
-- Deng Yu's defeats before Chimei, including the Yu Yi and Chang'an setbacks, show his Guanzhong command deteriorating before the larger Hanji 688 rout.
+- Deng Yu's defeats before Chimei, including the Yu Yi and Chang'an setbacks, show his Guanzhong command deteriorating before the larger 汉纪 688 rout.
 - Liu Xiu replaces Deng Yu with Feng Yi and makes surrender-first pacification and civilian protection the center of the Guanzhong campaign.
 - Sanfu famine turns the Chimei problem into an attrition and humanitarian crisis: empty cities, cannibalism, desertion, and Huayin pressure precede later mass surrender.
 
@@ -53,5 +53,5 @@ The episode's most vivid memory claim is the historical-record tradition that Ch
 
 - No settled contradiction with existing wiki content was found.
 - The Lu Zhi corpse-violation report is recorded as a historical tradition in the episode, but the host explicitly marks its exact factual status as uncertain; the wiki therefore does not assert it as established fact.
-- Chronology qualification: this source backfills Jianwu 2 / 26 CE before Hanji 688's Jianwu 3 Chimei defeat and Hanji 689-1's wider multi-front cleanup.
+- Chronology qualification: this source backfills Jianwu 2 / 26 CE before 汉纪 688's Jianwu 3 Chimei defeat and 汉纪 689-1's wider multi-front cleanup.
 - Scope caution: Liu Yong, Deng Feng, Dong Xing, Deng Long, Zhu Hu, Su Mao, Jiang Qiang, Zhou Jian, Liao Zhan, Hou Jin, exact force/casualty counts, and several minor place readings remain source-scoped unless later notes warrant standalone pages.

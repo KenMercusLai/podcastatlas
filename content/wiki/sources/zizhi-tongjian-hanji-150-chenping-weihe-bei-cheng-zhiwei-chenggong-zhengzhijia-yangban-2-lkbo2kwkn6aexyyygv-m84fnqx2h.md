@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|Hanji 150 part 1]] by moving [[ChenPing|陈平]] from village reputation into Chu-Han career danger. It follows his service under [[WeiJiu|魏咎]] and [[XiangYu|项羽]], his self-protective escape after the [[SimaAng|司马卬]] affair, and his arrival at [[Xiuwu|修武]] through [[WeiWuzhi|魏无知]]. The episode's core claim is that [[LiuBang|刘邦]] uses Chen Ping not only because he is talented, but because an outside newcomer can supervise old generals and signal that the Han side will reward mobile talent.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|汉纪 150 part 1]] by moving [[ChenPing|陈平]] from village reputation into Chu-Han career danger. It follows his service under [[WeiJiu|魏咎]] and [[XiangYu|项羽]], his self-protective escape after the [[SimaAng|司马卬]] affair, and his arrival at [[Xiuwu|修武]] through [[WeiWuzhi|魏无知]]. The episode's core claim is that [[LiuBang|刘邦]] uses Chen Ping not only because he is talented, but because an outside newcomer can supervise old generals and signal that the Han side will reward mobile talent.
 
 ## Key Claims
 - The episode resolves the previous source's Liu Bang teaser by showing Chen Ping's path from restored Wei to Xiang Yu and then to Liu Bang.
@@ -33,7 +33,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 
 ## Connections
 - [[ChenPing|陈平]] - central figure; this source extends him from early local reputation into dangerous patron switching, intelligence work, and Liu Bang-side office.
-- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|Hanji 150 part 1]] - prior source whose cutoff around meeting Liu Bang is completed here.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|汉纪 150 part 1]] - prior source whose cutoff around meeting Liu Bang is completed here.
 - [[WeiJiu|魏咎]], [[XiangYu|项羽]], [[SimaAng|司马卬]], and [[Xiuwu|修武]] - successive political and geographic settings of Chen Ping's movement.
 - [[WeiWuzhi|魏无知]] - access channel who introduces Chen Ping to Liu Bang.
 - [[LiuBang|刘邦]], [[HanXin|韩信]], and [[ZhangLiang|张良]] - talent-use comparison and early Han strategic circle.

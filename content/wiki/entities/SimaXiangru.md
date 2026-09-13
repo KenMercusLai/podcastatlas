@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-司马相如 / Sima Xiangru enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] as the Western Han literary model whom [[YangXiong|扬雄]] admired and imitated. The episode uses him as the comparison point that situates Yang Xiong inside the fu tradition.
+司马相如 / Sima Xiangru enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] as the Western Han literary model whom [[YangXiong|扬雄]] admired and imitated. The episode uses him as the comparison point that situates Yang Xiong inside the fu tradition.
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ Sima Xiangru therefore functions here as literary lineage rather than political 
 
 ## Evidence
 
-- Admiration and imitation: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Yang Xiong admired Sima Xiangru's literary talent and often imitated his fu.
-- Later pairing: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says later people placed Yang Xiong and Sima Xiangru together.
-- Fu context: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] links Yang Xiong's 《蜀都赋》 to later capital-fu development.
+- Admiration and imitation: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Yang Xiong admired Sima Xiangru's literary talent and often imitated his fu.
+- Later pairing: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says later people placed Yang Xiong and Sima Xiangru together.
+- Fu context: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] links Yang Xiong's 《蜀都赋》 to later capital-fu development.
 
 ## Qualifications
 
-This page is intentionally narrow. It does not cover Sima Xiangru's own works, court career, relationship with Zhuo Wenjun, or broader literary reception because Hanji 654 only uses him to position Yang Xiong.
+This page is intentionally narrow. It does not cover Sima Xiangru's own works, court career, relationship with Zhuo Wenjun, or broader literary reception because 汉纪 654 only uses him to position Yang Xiong.
 
 ## What Changed
 
-- Created this page from Hanji 654 as the literary comparison node for Yang Xiong.
+- Created this page from 汉纪 654 as the literary comparison node for Yang Xiong.
 
 ## Relationships
 

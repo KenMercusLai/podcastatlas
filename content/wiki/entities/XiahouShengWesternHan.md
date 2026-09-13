@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-夏侯胜 / Xiahou Sheng enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] as the crown-prince tutor who interprets [[BingJiWesternHan|丙吉]]'s grave illness through accumulated hidden virtue.
+夏侯胜 / Xiahou Sheng enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] as the crown-prince tutor who interprets [[BingJiWesternHan|丙吉]]'s grave illness through accumulated hidden virtue.
 
 ## Current Profile
 
@@ -25,13 +25,13 @@ In this source, Xiahou Sheng functions as a moral interpreter. When [[EmperorXua
 ## Evidence
 
 Hidden-virtue interpretation:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xiahou Sheng stops Xuan from assuming Bing Ji will die.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says he claims those with hidden virtue receive blessing before death and to descendants.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Bing Ji later recovers.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Xiahou Sheng stops Xuan from assuming Bing Ji will die.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says he claims those with hidden virtue receive blessing before death and to descendants.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Bing Ji later recovers.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 430. It preserves Xiahou Sheng's claim as the episode's moral interpretation, not as a medical explanation.
+This page is source-scoped to 汉纪 430. It preserves Xiahou Sheng's claim as the episode's moral interpretation, not as a medical explanation.
 
 ## What Changed
 

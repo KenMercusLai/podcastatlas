@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Definition
 
-春秋决狱式意图裁判 / Spring-Autumn intent adjudication is the Han-era legal-interpretive pattern in which a judge reads a case through Confucian classic, ethical purpose, and presumed true intent rather than only through literal wording. The current wiki case is [[HeWuWesternHan|何武]]'s "断剑" inheritance judgment in [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]].
+春秋决狱式意图裁判 / Spring-Autumn intent adjudication is the Han-era legal-interpretive pattern in which a judge reads a case through Confucian classic, ethical purpose, and presumed true intent rather than only through literal wording. The current wiki case is [[HeWuWesternHan|何武]]'s "断剑" inheritance judgment in [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|汉纪 568]].
 
 ## Current Synthesis
 
@@ -28,9 +28,9 @@ The episode presents the ruling as humane and context-sensitive, but not unquali
 
 ## Evidence
 
-- Symbolic interpretation: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] says He Wu explains the sword as a thing for cutting or deciding, and treats age fifteen as enough for intelligent control.
-- Intent over literal text: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] says He Wu concludes the father meant the son to return and take charge of the family estate.
-- Modern-law qualification: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]] says the host admires the judgment's human feeling while noting that He Wu may look unfair from a contemporary judge's standpoint.
+- Symbolic interpretation: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|汉纪 568]] says He Wu explains the sword as a thing for cutting or deciding, and treats age fifteen as enough for intelligent control.
+- Intent over literal text: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|汉纪 568]] says He Wu concludes the father meant the son to return and take charge of the family estate.
+- Modern-law qualification: [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|汉纪 568]] says the host admires the judgment's human feeling while noting that He Wu may look unfair from a contemporary judge's standpoint.
 
 ## Counterevidence & Qualifications
 
@@ -38,7 +38,7 @@ The current evidence is one podcast source's account of a transmitted anecdote, 
 
 ## What Changed
 
-- Created the concept from Hanji 568's He Wu断剑 case.
+- Created the concept from 汉纪 568's He Wu断剑 case.
 
 ## Related Concepts
 

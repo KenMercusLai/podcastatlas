@@ -20,7 +20,7 @@ Wartime command decapitation / 战时统帅斩首 is a military-political patter
 
 [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] broadens the internal form through [[XiangYu|Xiang Yu]] killing [[SongYi|Song Yi]]. Song Yi has formal appointment from [[MiXin|Mi Xin / Chu Huaiwang]], but his forty-six-day halt at [[AnyangQinRebellion|Anyang]], public belittling of Xiang Yu, targeted discipline order, and [[WuyanCounty|Wuyan County]] banquet while soldiers suffer let Xiang Yu claim practical emergency legitimacy over appointed command.
 
-Enemy-side assassination becomes part of the same command-node logic in [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]]. [[HuanAnEasternHan|Huan An]] cannot stop [[LaiXiEasternHan|Lai Xi]] through direct resistance after the Hechi defeat, so he proposes killing Lai Xi and stirring Qiang rebellion for [[GongsunShuEasternHan|Gongsun Shu]]'s side. The assassination fatally wounds Lai Xi, but Lai Xi's deathbed handoff to Gai Yan prevents the strike from producing immediate Han command collapse.
+Enemy-side assassination becomes part of the same command-node logic in [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|汉纪 710]]. [[HuanAnEasternHan|Huan An]] cannot stop [[LaiXiEasternHan|Lai Xi]] through direct resistance after the Hechi defeat, so he proposes killing Lai Xi and stirring Qiang rebellion for [[GongsunShuEasternHan|Gongsun Shu]]'s side. The assassination fatally wounds Lai Xi, but Lai Xi's deathbed handoff to Gai Yan prevents the strike from producing immediate Han command collapse.
 
 ## Key Claims
 
@@ -37,8 +37,8 @@ Enemy-side assassination becomes part of the same command-node logic in [[zizhi-
 - Battlefield emergency: [[zizhi-tongjian-qinji-129-1-jiemi-wuguang-bei-miekou-de-lishi-zhenxiang-lk1bkhqkwf9upbbj08pjkn8cstyp|Qinji 129-1]] ties the killing to Yingyang stalemate, Zhou Wen's defeat, Li You's position, and Zhang Han's threat.
 - Practical emergency legitimacy: [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] shows Xiang Yu using Song Yi's delay, banquet, hardship contrast, and Qin threat to justify killing an appointed superior.
 - Fragmentation cost: [[zizhi-tongjian-qinji-133-songyi-zhan-xiangyu-weihe-bei-fansha-lms7noyrm5omedv77gqfhjeu53zx|Qinji 133]] places the Song Yi killing inside anti-Qin coalition fragmentation before the external enemy is defeated.
-- Enemy-side targeting: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] says Huan An advises assassination after Lai Xi defeats Wang Yuan and Huan An near Hechi and keeps advancing.
-- Decapitation limit: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|Hanji 710]] says Lai Xi summons Gai Yan, stops panic, delegates military affairs, writes a final memorial, and dies after preserving continuity.
+- Enemy-side targeting: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|汉纪 710]] says Huan An advises assassination after Lai Xi defeats Wang Yuan and Huan An near Hechi and keeps advancing.
+- Decapitation limit: [[zizhi-tongjian-hanji-710-shui-si-le-jiemi-donghan-zui-zhuming-de-ansha-shijian-lok1aczap1u-tmtyutx-upokaplz|汉纪 710]] says Lai Xi summons Gai Yan, stops panic, delegates military affairs, writes a final memorial, and dies after preserving continuity.
 
 ## Counterevidence & Qualifications
 
@@ -49,7 +49,7 @@ Internal command killing and enemy-side assassination should not be collapsed in
 - Migrated the page to synthesis-v1 and replaced the older connection list with bounded evidence sections.
 - Preserved Qinji 129-1 as the forged-authorization internal killing case.
 - Preserved Qinji 133 as the practical-emergency and soldier-hardship internal killing case.
-- Added Hanji 710 as the enemy-side assassination case against Lai Xi.
+- Added 汉纪 710 as the enemy-side assassination case against Lai Xi.
 - Narrowed the concept by distinguishing decapitation from adviser-target killing and nonlethal commander replacement.
 
 ## Related Concepts

@@ -16,11 +16,11 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] creates the concept through [[ShiXianWesternHan|石显]]'s early palace role. The host argues that "传话" is not clerical background noise: in a low-bandwidth court information environment, message relay means judging which statements can be transmitted, how a speaker's intent should be packaged, and how the ruler's reaction may be anticipated.
+[[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|汉纪 500]] creates the concept through [[ShiXianWesternHan|石显]]'s early palace role. The host argues that "传话" is not clerical background noise: in a low-bandwidth court information environment, message relay means judging which statements can be transmitted, how a speaker's intent should be packaged, and how the ruler's reaction may be anticipated.
 
-The source does not claim every messenger becomes powerful. Its narrower point is that relay work trains and rewards political reading. When combined with legal knowledge, administrative ability, and close access to [[HanYuandi|汉元帝]], Shi Xian's position gives him more than physical proximity; it gives him an information-filtering role that can later support broader eunuch influence. [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] adds that the same channel becomes stronger when the relay actor also occupies the ruler's emotional world through music, illness-time companionship, reliability, and controlled confession.
+The source does not claim every messenger becomes powerful. Its narrower point is that relay work trains and rewards political reading. When combined with legal knowledge, administrative ability, and close access to [[HanYuandi|汉元帝]], Shi Xian's position gives him more than physical proximity; it gives him an information-filtering role that can later support broader eunuch influence. [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|汉纪 501]] adds that the same channel becomes stronger when the relay actor also occupies the ruler's emotional world through music, illness-time companionship, reliability, and controlled confession.
 
-The target-side version of the pattern matters too. [[ZhouKanWesternHan|周堪]] is recalled to a memorial-handling role, which should give him voice near the ruler, but Shi Xian supervises the route and his allies fill the surrounding offices in [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]]. The concept therefore includes not only how a relay actor gains power, but how a rival's formal speech office can be hollowed out when the real channel is already captured.
+The target-side version of the pattern matters too. [[ZhouKanWesternHan|周堪]] is recalled to a memorial-handling role, which should give him voice near the ruler, but Shi Xian supervises the route and his allies fill the surrounding offices in [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|汉纪 483-1]]. The concept therefore includes not only how a relay actor gains power, but how a rival's formal speech office can be hollowed out when the real channel is already captured.
 
 This concept sits upstream of [[PalaceAccessMonopoly|宫廷接触垄断]]. Message relay power can exist before one actor fully monopolizes access. It names the earlier mechanism by which handling words, documents, and timing becomes political leverage.
 
@@ -37,27 +37,27 @@ This concept sits upstream of [[PalaceAccessMonopoly|宫廷接触垄断]]. Messa
 ## Evidence
 
 Information filtering:
-- [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] says Shi Xian began from a small palace message-relay role and that the work requires deciding which words and people can be transmitted to the emperor.
+- [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|汉纪 500]] says Shi Xian began from a small palace message-relay role and that the work requires deciding which words and people can be transmitted to the emperor.
 
 Low-bandwidth court environment:
-- [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] emphasizes that ancient message circulation was limited, so information itself was unusually important.
+- [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|汉纪 500]] emphasizes that ancient message circulation was limited, so information itself was unusually important.
 
 Competence plus access:
-- [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]] says Shi Xian had cultural literacy, legal skill, strong work capacity, and later Zhongshu access, making him useful to Emperor Yuan beyond flattery.
-- [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|Hanji 501]] says Yuan increasingly asks Shi Xian before judging court affairs because Shi Xian seems both emotionally attuned and practically reliable.
+- [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|汉纪 500]] says Shi Xian had cultural literacy, legal skill, strong work capacity, and later Zhongshu access, making him useful to Emperor Yuan beyond flattery.
+- [[zizhi-tongjian-hanji-501-hanyuandi-jing-ba-taijian-dang-fuqin-lml1qwuw3iujobnltbjymeyojd4g|汉纪 501]] says Yuan increasingly asks Shi Xian before judging court affairs because Shi Xian seems both emotionally attuned and practically reliable.
 
 Hollowed-out opposition channel:
-- [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]] says Zhou Kan returns to manage memorial affairs, but Shi Xian supervises the memorial channel and surrounding posts are held by Shi's party.
-- [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|Hanji 483-1]] says Zhou Kan and [[ZhangMengWesternHan|张萌]] therefore have titles but little effective speech power after recall.
+- [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|汉纪 483-1]] says Zhou Kan returns to manage memorial affairs, but Shi Xian supervises the memorial channel and surrounding posts are held by Shi's party.
+- [[zizhi-tongjian-hanji-483-1-lishi-jiemi-hun-zhichang-de-jianghu-guiju-lgn4p7pgqa8euxgrspcwdgsusce7|汉纪 483-1]] says Zhou Kan and [[ZhangMengWesternHan|张萌]] therefore have titles but little effective speech power after recall.
 
 ## Counterevidence & Qualifications
 
-The current evidence is source-scoped to Hanji 500, Hanji 501, and Hanji 483-1's interpretation of Shi Xian. It does not prove that every palace messenger held independent power, nor does it settle the exact institutional boundary between xiao huangmen, zhongshu ling, memorial affairs, and later document offices. The emotional-trust layer in Hanji 501 and the Zhou Kan negative case in Hanji 483-1 qualify the mechanism rather than replacing it. The concept should be used for relay-mediated influence, not for all secrecy or all court access.
+The current evidence is source-scoped to 汉纪 500, 汉纪 501, and 汉纪 483-1's interpretation of Shi Xian. It does not prove that every palace messenger held independent power, nor does it settle the exact institutional boundary between xiao huangmen, zhongshu ling, memorial affairs, and later document offices. The emotional-trust layer in 汉纪 501 and the Zhou Kan negative case in 汉纪 483-1 qualify the mechanism rather than replacing it. The concept should be used for relay-mediated influence, not for all secrecy or all court access.
 
 ## What Changed
 
-- Added Hanji 501's trust layer, clarifying that message relay can become more potent when paired with private emotional dependence.
-- Added Hanji 483-1's Zhou Kan case, clarifying how captured relay routes can empty out a rival's formal memorial role.
+- Added 汉纪 501's trust layer, clarifying that message relay can become more potent when paired with private emotional dependence.
+- Added 汉纪 483-1's Zhou Kan case, clarifying how captured relay routes can empty out a rival's formal memorial role.
 
 ## Related Concepts
 

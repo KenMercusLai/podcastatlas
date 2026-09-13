@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 曹嵩遇害 / Cao Song Murder
 
-曹嵩遇害 / Cao Song Murder is the 193 CE killing of [[CaoSong|曹嵩]], [[CaoDeLateHan|曹德]], and family members as presented in [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]]. The episode places the event on the Taishan/Hua County route while Cao Song is moving from Langya toward [[YanzhouLateHan|兖州]] under an escort arrangement involving [[YingShaoLateHan|应劭]].
+曹嵩遇害 / Cao Song Murder is the 193 CE killing of [[CaoSong|曹嵩]], [[CaoDeLateHan|曹德]], and family members as presented in [[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|汉纪 971]]. The episode places the event on the Taishan/Hua County route while Cao Song is moving from Langya toward [[YanzhouLateHan|兖州]] under an escort arrangement involving [[YingShaoLateHan|应劭]].
 
 The event's core wiki value is its contested attribution. In the [[Sanguozhi|《三国志》]] line presented by the episode, [[TaoQianLateHan|陶谦]] directly sends cavalry against Cao Song because of hostility toward [[CaoCao|曹操]]. In the [[HouHanshu|《后汉书》]] line, [[ZhangKaiAssassin|张闿]] is the escort-side subordinate who kills for convoy wealth. The event therefore sits at the junction of immediate violence, possible political authorship, and later historical framing.
 

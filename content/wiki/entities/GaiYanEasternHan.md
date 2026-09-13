@@ -10,7 +10,7 @@ last_updated: 2026-09-02
 
 ## Overview
 
-Gai Yan / 盖延 enters the wiki through [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] as the Eastern Han commander whose Lanling response illustrates failed indirect relief. When [[DongXianEasternHan|董宪]] surrounds Lanling after Ben Xiu offers the county to Han, [[LiuXiu|光武帝刘秀]] tells Gai Yan to attack Tan so the Lanling siege will lift. Gai Yan instead rushes to the besieged city, enters after Dong Xian feigns retreat, then breaks out in fear and fails to save Ben Xiu.
+Gai Yan / 盖延 enters the wiki through [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] as the Eastern Han commander whose Lanling response illustrates failed indirect relief. When [[DongXianEasternHan|董宪]] surrounds Lanling after Ben Xiu offers the county to Han, [[LiuXiu|光武帝刘秀]] tells Gai Yan to attack Tan so the Lanling siege will lift. Gai Yan instead rushes to the besieged city, enters after Dong Xian feigns retreat, then breaks out in fear and fails to save Ben Xiu.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ Gai Yan's failure comes from choosing the urgent visible site over the must-save
 
 ## Evidence
 
-- Direct rescue request: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Gai Yan and Pang Meng ask to go rescue Ben Xiu at Lanling.
-- Liu Xiu's instruction: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Liu Xiu tells them to attack Tan directly so the Lanling siege will dissolve.
-- Failed execution: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Gai Yan goes to Lanling anyway, enters after Dong Xian feigns defeat, then flees after being surrounded.
-- Outcome: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Gai Yan later cannot take Tan and Dong Xian captures Lanling and kills Ben Xiu.
+- Direct rescue request: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Gai Yan and Pang Meng ask to go rescue Ben Xiu at Lanling.
+- Liu Xiu's instruction: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Liu Xiu tells them to attack Tan directly so the Lanling siege will dissolve.
+- Failed execution: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Gai Yan goes to Lanling anyway, enters after Dong Xian feigns defeat, then flees after being surrounded.
+- Outcome: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Gai Yan later cannot take Tan and Dong Xian captures Lanling and kills Ben Xiu.
 
 ## Qualifications
 

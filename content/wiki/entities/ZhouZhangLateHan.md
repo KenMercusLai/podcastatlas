@@ -10,11 +10,11 @@ last_updated: 2026-08-30
 
 ## Overview
 
-周章 / Zhou Zhang is the Eastern Han official in Hanji 781 whose failed 106 CE plot becomes the first sharp political challenge to [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency. His case links succession dispute, anti-eunuch resentment, Deng-family danger, and the coercive edge of early regency survival.
+周章 / Zhou Zhang is the Eastern Han official in 汉纪 781 whose failed 106 CE plot becomes the first sharp political challenge to [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency. His case links succession dispute, anti-eunuch resentment, Deng-family danger, and the coercive edge of early regency survival.
 
 ## Current Profile
 
-Hanji 781 presents Zhou Zhang as opposed to Deng's decision not to enthrone Liu Sheng and to the role of Zheng Zhong and Cai Lun in assisting government. He secretly plans to close the city gates, kill Deng-family brothers and the palace assistants Zheng Zhong and Cai Lun, coerce the emperor into an edict, depose Deng, demote [[EmperorAnOfHan|Emperor An]] to his fief, and install Liu Sheng.
+汉纪 781 presents Zhou Zhang as opposed to Deng's decision not to enthrone Liu Sheng and to the role of Zheng Zhong and Cai Lun in assisting government. He secretly plans to close the city gates, kill Deng-family brothers and the palace assistants Zheng Zhong and Cai Lun, coerce the emperor into an edict, depose Deng, demote [[EmperorAnOfHan|Emperor An]] to his fief, and install Liu Sheng.
 
 The plot leaks before execution. Zhou Zhang dies by suicide on 106-11-19, implicated actors are punished, and Deng becomes much less tolerant of calls to return power. Zhou Zhang's importance in the wiki is therefore less as a successful conspirator than as the failed test case that hardens the early regency.
 
@@ -28,9 +28,9 @@ The plot leaks before execution. Zhou Zhang dies by suicide on 106-11-19, implic
 
 ## Evidence
 
-- Succession and anti-eunuch motive field: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] says some ministers resent Deng's bypassing of Liu Sheng and that Zhou Zhang objects to Zheng Zhong and Cai Lun's government role.
-- Coup design: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] describes Zhou Zhang's plan to close gates, kill Deng-family and palace-assistant targets, coerce an edict, depose Deng, demote An, and enthrone Liu Sheng.
-- Failure and aftereffect: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] records the plot leak, Zhou Zhang's suicide, punishment of implicated actors, and Deng's hardened stance toward transfer-of-power pressure.
+- Succession and anti-eunuch motive field: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]] says some ministers resent Deng's bypassing of Liu Sheng and that Zhou Zhang objects to Zheng Zhong and Cai Lun's government role.
+- Coup design: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]] describes Zhou Zhang's plan to close gates, kill Deng-family and palace-assistant targets, coerce an edict, depose Deng, demote An, and enthrone Liu Sheng.
+- Failure and aftereffect: [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]] records the plot leak, Zhou Zhang's suicide, punishment of implicated actors, and Deng's hardened stance toward transfer-of-power pressure.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ This page is based on one source note. The source supplies a political interpret
 
 ## What Changed
 
-- Created the page from Hanji 781 as the first anti-Deng coup actor in the current An-era sequence.
+- Created the page from 汉纪 781 as the first anti-Deng coup actor in the current An-era sequence.
 - Connected early Deng regency to a concrete succession challenge before the later Deng-family purge and Emperor An transition.
 
 ## Relationships

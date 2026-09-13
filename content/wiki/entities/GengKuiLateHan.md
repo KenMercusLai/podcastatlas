@@ -12,15 +12,15 @@ last_updated: 2026-08-30
 
 ## Overview
 
-耿夔 / Geng Kui is now a multi-front Eastern Han commander in the wiki's bounded evidence. Hanji 761 places him under Yan Pan in the [[JiluoshanBattleLateHan|Jiluoshan]] attack against [[NorthernXiongnuLateHan|Northern Xiongnu]], Hanji 763 later pairs him with [[RenShangLateHan|Ren Shang]] in the Jinwei Mountain pursuit, and Hanji 776 records him as the Liaodong administrator who counterattacks [[GoguryeoLateHan|Goguryeo]] after king Gong raids Han border counties.
+耿夔 / Geng Kui is now a multi-front Eastern Han commander in the wiki's bounded evidence. 汉纪 761 places him under Yan Pan in the [[JiluoshanBattleLateHan|Jiluoshan]] attack against [[NorthernXiongnuLateHan|Northern Xiongnu]], 汉纪 763 later pairs him with [[RenShangLateHan|Ren Shang]] in the Jinwei Mountain pursuit, and 汉纪 776 records him as the Liaodong administrator who counterattacks [[GoguryeoLateHan|Goguryeo]] after king Gong raids Han border counties.
 
 ## Current Profile
 
-Hanji 761 supplies the earliest current layer. During [[DouXianEasternHan|Dou Xian]]'s Northern Xiongnu expedition, Dou sends deputy colonel Yan Pan, Sima Geng Kui, and Geng Tan with more than ten thousand Southern Xiongnu cavalry. They meet the Northern Xiongnu chanyu at Jiluoshan and win, then the campaign pursues to Siqu Beihai and culminates in Yanran commemoration.
+汉纪 761 supplies the earliest current layer. During [[DouXianEasternHan|Dou Xian]]'s Northern Xiongnu expedition, Dou sends deputy colonel Yan Pan, Sima Geng Kui, and Geng Tan with more than ten thousand Southern Xiongnu cavalry. They meet the Northern Xiongnu chanyu at Jiluoshan and win, then the campaign pursues to Siqu Beihai and culminates in Yanran commemoration.
 
-Hanji 763 gives the later Jinwei Mountain layer. After [[SouthernXiongnu|Southern Xiongnu]] attacks badly weaken the northern chanyu's camp, Geng Kui and Ren Shang lead troops out through Juyan, defeat Northern Xiongnu forces at Jinwei Mountain, and force the chanyu to flee. The page therefore treats Geng as part of Dou Xian's wider Northern Xiongnu campaign field, even though the sources distribute details across multiple episodes.
+汉纪 763 gives the later Jinwei Mountain layer. After [[SouthernXiongnu|Southern Xiongnu]] attacks badly weaken the northern chanyu's camp, Geng Kui and Ren Shang lead troops out through Juyan, defeat Northern Xiongnu forces at Jinwei Mountain, and force the chanyu to flee. The page therefore treats Geng as part of Dou Xian's wider Northern Xiongnu campaign field, even though the sources distribute details across multiple episodes.
 
-Hanji 776 adds the later northeastern layer. Goguryeo king Gong enters the Liaodong frontier and plunders six subordinate counties. In autumn of the same year, Geng Kui attacks Goguryeo and defeats its forces. The source does not provide more tactical detail, but it gives Geng a second clear place in the [[EmperorHeOfHan|Emperor He]] frontier field before later An-era Goguryeo material.
+汉纪 776 adds the later northeastern layer. Goguryeo king Gong enters the Liaodong frontier and plunders six subordinate counties. In autumn of the same year, Geng Kui attacks Goguryeo and defeats its forces. The source does not provide more tactical detail, but it gives Geng a second clear place in the [[EmperorHeOfHan|Emperor He]] frontier field before later An-era Goguryeo material.
 
 ## Key Characteristics
 
@@ -33,11 +33,11 @@ Hanji 776 adds the later northeastern layer. Goguryeo king Gong enters the Liaod
 
 ## Evidence
 
-- Jiluoshan role: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Dou Xian sends Yan Pan, Sima Geng Kui, and Geng Tan with Southern Xiongnu cavalry against the Northern Xiongnu chanyu at Jiluoshan.
-- Campaign result: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says the Han-side pursuit reaches Siqu Beihai and ends with large submissions before Yanran commemoration.
-- Jinwei pursuit: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] says Geng Kui and Ren Shang attack through Juyan and defeat the Northern Xiongnu chanyu at Jinwei Mountain in 91 CE.
-- Campaign context: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]] places the Jinwei victory after Southern Xiongnu disruption and inside Dou Xian's broader campaign to break Northern Xiongnu power.
-- Goguryeo campaign: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] identifies Geng Kui as Liaodong administrator and says he defeats Goguryeo after its raid.
+- Jiluoshan role: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says Dou Xian sends Yan Pan, Sima Geng Kui, and Geng Tan with Southern Xiongnu cavalry against the Northern Xiongnu chanyu at Jiluoshan.
+- Campaign result: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says the Han-side pursuit reaches Siqu Beihai and ends with large submissions before Yanran commemoration.
+- Jinwei pursuit: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|汉纪 763]] says Geng Kui and Ren Shang attack through Juyan and defeat the Northern Xiongnu chanyu at Jinwei Mountain in 91 CE.
+- Campaign context: [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|汉纪 763]] places the Jinwei victory after Southern Xiongnu disruption and inside Dou Xian's broader campaign to break Northern Xiongnu power.
+- Goguryeo campaign: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] identifies Geng Kui as Liaodong administrator and says he defeats Goguryeo after its raid.
 
 ## Qualifications
 
@@ -45,16 +45,16 @@ This page should not be used as a full biography of Geng Kui, a complete reconst
 
 ## What Changed
 
-- Added Hanji 761 as Geng Kui's earliest current layer: the Jiluoshan attack under Yan Pan with Southern Xiongnu cavalry.
-- Reframed Hanji 763's Jinwei Mountain defeat as a later Northern Xiongnu campaign layer rather than the whole Xiongnu profile.
-- Preserved the older Hanji 776 Goguryeo material as a later northeastern frontier notice.
+- Added 汉纪 761 as Geng Kui's earliest current layer: the Jiluoshan attack under Yan Pan with Southern Xiongnu cavalry.
+- Reframed 汉纪 763's Jinwei Mountain defeat as a later Northern Xiongnu campaign layer rather than the whole Xiongnu profile.
+- Preserved the older 汉纪 776 Goguryeo material as a later northeastern frontier notice.
 
 ## Relationships
 
 - [[DouXianEasternHan|窦宪]] - wider campaign commander whose Northern Xiongnu offensive frames Geng Kui's Jiluoshan and Jinwei roles.
 - [[RenShangLateHan|任尚]] - paired commander in the Jinwei Mountain pursuit.
 - [[NorthernXiongnuLateHan|北匈奴]] - frontier opponent defeated at Jiluoshan and Jinwei Mountain.
-- [[JiluoshanBattleLateHan|稽落山之战]] - earlier campaign battle where Geng Kui appears in Hanji 761.
-- [[SouthernXiongnu|南匈奴]] - cavalry source for the Jiluoshan attack in Hanji 761.
+- [[JiluoshanBattleLateHan|稽落山之战]] - earlier campaign battle where Geng Kui appears in 汉纪 761.
+- [[SouthernXiongnu|南匈奴]] - cavalry source for the Jiluoshan attack in 汉纪 761.
 - [[GoguryeoLateHan|高句丽]] - frontier opponent defeated after the 105 CE Liaodong raid.
 - [[EmperorHeOfHan|汉和帝]] - ruler whose late reign contains Geng Kui's Goguryeo response.

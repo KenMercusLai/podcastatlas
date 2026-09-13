@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 5 CE immediately before [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] and supplies the setup for [[zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref|Hanji 627-2]]. It starts from menstrual euphemism and the phrase "子孙瑞," then connects [[EmpressWangPingdi|汉平帝王皇后]]'s first menstruation, [[HuangdiNeijing|《黄帝内经》]] life-cycle language, [[WangMang|王莽]]'s construction of [[Ziwudao|子午道]], and the disputed death of [[HanPingdi|汉平帝]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 5 CE immediately before [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|汉纪 628]] and supplies the setup for [[zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref|汉纪 627-2]]. It starts from menstrual euphemism and the phrase "子孙瑞," then connects [[EmpressWangPingdi|汉平帝王皇后]]'s first menstruation, [[HuangdiNeijing|《黄帝内经》]] life-cycle language, [[WangMang|王莽]]'s construction of [[Ziwudao|子午道]], and the disputed death of [[HanPingdi|汉平帝]].
 
 The durable contribution is that ordinary female physiology can be translated into political sign language. The episode treats "子孙瑞" as a euphemistic fertility sign, then shows Wang Mang using it as public justification for road construction while simultaneously performing Zhougong-like loyalty around Pingdi's illness. It also contrasts [[ZizhiTongjian|《资治通鉴》]]'s poison narrative with [[HanShu|《汉书》]]'s more illness-centered record.
 
@@ -44,7 +44,7 @@ The durable contribution is that ordinary female physiology can be translated in
 - [[MenstrualStigma]] and [[ReproductiveBodyOmenPolitics|生殖身体祥瑞政治]] - concept branch linking euphemism, fertility symbolism, auspiciousness, and political use of women's bodies.
 - [[AuspiciousOmenPolitics|祥瑞政治]], [[MoralReputationPoliticalCapital]], and [[DynasticLegitimacyBackfire|王朝合法性回旋镖]] - broader Wang Mang legitimacy field.
 - [[ZhouGong|周公]] - model Wang Mang imitates through prayer text and golden-casket symbolism.
-- [[zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref|Hanji 627-2]] - continuation from menstrual euphemism into menstrual taboo and social status.
+- [[zizhi-tongjian-hanji-627-2-nvxing-biting-jingqi-jinji-de-wenhua-mailuo-yu-nvxing-shehui-diwei-bianqian-lrxeziuwvcfgkkzgpugnzby4uref|汉纪 627-2]] - continuation from menstrual euphemism into menstrual taboo and social status.
 
 ## Contradictions
 

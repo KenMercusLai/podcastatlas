@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-《春秋》 / Chunqiu enters this wiki route through [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] as the classical text taught by [[ZhaiFangjinWesternHan|翟方进]] and [[HuChangWesternHan|胡长]] under [[HanChengdi|汉成帝]]. The page currently exists to anchor that Western Han classics-teaching context.
+《春秋》 / Chunqiu enters this wiki route through [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] as the classical text taught by [[ZhaiFangjinWesternHan|翟方进]] and [[HuChangWesternHan|胡长]] under [[HanChengdi|汉成帝]]. The page currently exists to anchor that Western Han classics-teaching context.
 
 ## Current Profile
 
@@ -24,8 +24,8 @@ The current source does not discuss the text's authorship, commentary tradition,
 
 ## Evidence
 
-- Court teaching setting: [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] says Zhai Fangjin and Hu Chang lecture on Chunqiu by Chengdi's order.
-- Reputation comparison: [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] uses their shared teaching role to explain Hu Chang's jealousy and Zhai's indirect response.
+- Court teaching setting: [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] says Zhai Fangjin and Hu Chang lecture on Chunqiu by Chengdi's order.
+- Reputation comparison: [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] uses their shared teaching role to explain Hu Chang's jealousy and Zhai's indirect response.
 
 ## Qualifications
 
@@ -33,7 +33,7 @@ This page is a route anchor, not a full page on the Spring and Autumn Annals as 
 
 ## What Changed
 
-- Added a canonical Chunqiu route for Hanji 560's classics-teaching links.
+- Added a canonical Chunqiu route for 汉纪 560's classics-teaching links.
 
 ## Relationships
 

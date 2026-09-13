@@ -14,7 +14,7 @@ Self-deprecating political survival is a strategy in which a vulnerable high-sta
 
 ## Current Synthesis
 
-The wiki's clearest case is [[LiuMuBeihaiKing|刘睦]], the Beihai king in [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]]. Liu Mu does not merely refuse praise out of modesty; he instructs his envoy to replace dangerous praise with a politically safer image of decline, pleasure, hunting, and laziness. The concept therefore describes reputation management under structural suspicion, especially for royal kin whose excellence could be construed as latent threat.
+The wiki's clearest case is [[LiuMuBeihaiKing|刘睦]], the Beihai king in [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]]. Liu Mu does not merely refuse praise out of modesty; he instructs his envoy to replace dangerous praise with a politically safer image of decline, pleasure, hunting, and laziness. The concept therefore describes reputation management under structural suspicion, especially for royal kin whose excellence could be construed as latent threat.
 
 ## Key Claims
 
@@ -25,9 +25,9 @@ The wiki's clearest case is [[LiuMuBeihaiKing|刘睦]], the Beihai king in [[ziz
 
 ## Evidence
 
-- Royal-kin risk and praise avoidance: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] has Liu Mu warn that reports of loyalty, filiality, benevolence, learning, and ability would harm rather than help him.
-- Harmless self-presentation: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] shows Liu Mu substituting a deliberately diminished profile of leisure, hunting, and lack of diligence.
-- Indirect reputation channel: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] locates the tactic in envoy speech, making the court's information flow the object of strategy.
+- Royal-kin risk and praise avoidance: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]] has Liu Mu warn that reports of loyalty, filiality, benevolence, learning, and ability would harm rather than help him.
+- Harmless self-presentation: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]] shows Liu Mu substituting a deliberately diminished profile of leisure, hunting, and lack of diligence.
+- Indirect reputation channel: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]] locates the tactic in envoy speech, making the court's information flow the object of strategy.
 
 ## Counterevidence & Qualifications
 

@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-王康 / Wang Kang is a Shun-restoration eunuch in Hanji 804 whose position makes the reward list itself politically dangerous. He is rewarded near the top of the nineteen-eunuch merit group, but his quiet inclusion of [[MiaoGuangLateHan|苗光]] gives [[SunChengLateHan|孙程]] both a management problem and a possible handle over him.
+王康 / Wang Kang is a Shun-restoration eunuch in 汉纪 804 whose position makes the reward list itself politically dangerous. He is rewarded near the top of the nineteen-eunuch merit group, but his quiet inclusion of [[MiaoGuangLateHan|苗光]] gives [[SunChengLateHan|孙程]] both a management problem and a possible handle over him.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] presents Wang Kang as one of the top rewarded eunuchs after [[EmperorShunOfHan|汉顺帝]]'s restoration. Sun Cheng receives the leading reward, while Wang Kang and [[WangGuoEunuchLateHan|Wang Guo]] receive the next level, making Wang Kang a high-rank member of the victorious group rather than a minor follower.
+[[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] presents Wang Kang as one of the top rewarded eunuchs after [[EmperorShunOfHan|汉顺帝]]'s restoration. Sun Cheng receives the leading reward, while Wang Kang and [[WangGuoEunuchLateHan|Wang Guo]] receive the next level, making Wang Kang a high-rank member of the victorious group rather than a minor follower.
 
 The source's distinctive contribution is the merit-list episode. Sun Cheng delegates the list-making task to Wang Kang; Wang Kang quietly adds Miao Guang, whose hesitation at Zhangtai Gate made his commitment doubtful. When Miao Guang later fails to receive a certificate or tally and confesses, the manipulation becomes visible. The host reads Sun Cheng's non-punishment as a calculated choice: keeping Wang Kang grateful, showing magnanimity to other eunuchs, preserving a counterweight to Wang Guo, and retaining leverage.
 
@@ -28,14 +28,14 @@ The source's distinctive contribution is the merit-list episode. Sun Cheng deleg
 
 ## Evidence
 
-- Reward rank: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] says Wang Kang and Wang Guo receive the next-highest reward after Sun Cheng.
-- Merit-list role: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] says Sun Cheng gives Wang Kang the task of preparing the merit list.
-- Miao Guang inclusion: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] says Wang Kang quietly adds Miao Guang despite Miao Guang's earlier hesitation.
-- Leverage reading: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|Hanji 804]] reads Sun Cheng's later tolerance as a way to win, display, balance, and control rather than as simple indulgence.
+- Reward rank: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] says Wang Kang and Wang Guo receive the next-highest reward after Sun Cheng.
+- Merit-list role: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] says Sun Cheng gives Wang Kang the task of preparing the merit list.
+- Miao Guang inclusion: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] says Wang Kang quietly adds Miao Guang despite Miao Guang's earlier hesitation.
+- Leverage reading: [[zizhi-tongjian-hanji-804-gei-ni-tang-de-ren-bu-yiding-shi-guiren-lqongdqg-hgetoegpylv-os86buh|汉纪 804]] reads Sun Cheng's later tolerance as a way to win, display, balance, and control rather than as simple indulgence.
 
 ## Qualifications
 
-This page is bounded to Hanji 804. It does not establish Wang Kang's full biography, exact later offices, or independent faction beyond the source's reward-ranking and merit-list episode. The balance-between-Wang-Kang-and-Wang-Guo reading is the host's political interpretation, not a directly quoted administrative record.
+This page is bounded to 汉纪 804. It does not establish Wang Kang's full biography, exact later offices, or independent faction beyond the source's reward-ranking and merit-list episode. The balance-between-Wang-Kang-and-Wang-Guo reading is the host's political interpretation, not a directly quoted administrative record.
 
 ## What Changed
 

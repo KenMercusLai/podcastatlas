@@ -10,11 +10,11 @@ last_updated: 2026-09-12
 
 ## Overview
 
-[[LiXunFloodControlWesternHan|李勋 / Li Xun]] enters the wiki through [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] as a Pingling man who advises [[HanChengdi|汉成帝]] during a [[YellowRiver|Yellow River]] flood. He is distinct from [[LiXunWesternHan|李寻]], the later omen adviser.
+[[LiXunFloodControlWesternHan|李勋 / Li Xun]] enters the wiki through [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] as a Pingling man who advises [[HanChengdi|汉成帝]] during a [[YellowRiver|Yellow River]] flood. He is distinct from [[LiXunWesternHan|李寻]], the later omen adviser.
 
 ## Current Profile
 
-Hanji 532 gives Li Xun a narrow hydraulic-policy role. After the Yellow River floods Bohai, Qinghe, and Xindu, court discussion turns toward finding old branch channels and digging them again. Li Xun argues against hasty intervention. His proposal is to let the river's current breach reveal its flow direction first, then follow the river's own tendency and shape a channel with dredging and planning.
+汉纪 532 gives Li Xun a narrow hydraulic-policy role. After the Yellow River floods Bohai, Qinghe, and Xindu, court discussion turns toward finding old branch channels and digging them again. Li Xun argues against hasty intervention. His proposal is to let the river's current breach reveal its flow direction first, then follow the river's own tendency and shape a channel with dredging and planning.
 
 The source treats the advice as a patience-and-cost argument. Li Xun warns that immediate improvised works would consume time, money, and labor. Chengdi accepts the memorial and stops the repair effort, while still sending envoys to settle and assist flood victims. Li Xun therefore becomes an earlier Western Han counterpart to later river-policy debates: not floodplain retreat in Jia Rang's fully articulated sense, but observation before forced engineering.
 
@@ -28,11 +28,11 @@ The source treats the advice as a patience-and-cost argument. Li Xun warns that 
 
 ## Evidence
 
-- Flood context: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says the Yellow River floods Bohai, Qinghe, and Xindu, submerging 31 counties and destroying more than 40,000 official pavilions and houses.
-- Policy contrast: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says other ministers discuss finding and reopening old branch channels.
-- Observation-first advice: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says Li Xun recommends letting the breach run temporarily, watching the water tendency, then shaping the channel accordingly.
-- Cost warning: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says he warns against wasting time, money, and labor through hasty works.
-- Imperial response: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says Chengdi accepts the advice and does not block the breach, while sending envoys to assist victims.
+- Flood context: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says the Yellow River floods Bohai, Qinghe, and Xindu, submerging 31 counties and destroying more than 40,000 official pavilions and houses.
+- Policy contrast: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says other ministers discuss finding and reopening old branch channels.
+- Observation-first advice: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says Li Xun recommends letting the breach run temporarily, watching the water tendency, then shaping the channel accordingly.
+- Cost warning: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says he warns against wasting time, money, and labor through hasty works.
+- Imperial response: [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says Chengdi accepts the advice and does not block the breach, while sending envoys to assist victims.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ This page is bounded to one source note. It does not supply Li Xun's office, ful
 
 ## What Changed
 
-- Created this disambiguated page from Hanji 532 to separate the flood-control adviser 李勋 from the omen adviser [[LiXunWesternHan|李寻]].
+- Created this disambiguated page from 汉纪 532 to separate the flood-control adviser 李勋 from the omen adviser [[LiXunWesternHan|李寻]].
 
 ## Relationships
 

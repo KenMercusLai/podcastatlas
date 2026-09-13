@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[GongsunZan|公孙瓒]] endgame after [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|Hanji 1030]]. In 199 CE, [[ZhangYanLateHan|张燕]] and [[GongsunXuLateHan|公孙旭]] move to relieve [[YijingFortress|易京]], but [[YuanShao|袁绍]] intercepts Gongsun Zan's fire-signal plan, lures him into a failed sortie, and then uses tunnel-and-fire siege work to break toward the central tower.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[GongsunZan|公孙瓒]] endgame after [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|汉纪 1030]]. In 199 CE, [[ZhangYanLateHan|张燕]] and [[GongsunXuLateHan|公孙旭]] move to relieve [[YijingFortress|易京]], but [[YuanShao|袁绍]] intercepts Gongsun Zan's fire-signal plan, lures him into a failed sortie, and then uses tunnel-and-fire siege work to break toward the central tower.
 The episode's durable judgment is that Gongsun Zan's defeat is not only tactical. His earlier retreat into Yijing, fear of battle, harsh treatment of subordinates, and refusal to rescue endangered commanders leave him without the command trust needed to turn walls, grain, family concentration, or outside relief into survival.
 
 ## Key Claims
@@ -34,12 +34,12 @@ The episode's durable judgment is that Gongsun Zan's defeat is not only tactical
 > "舒适区就是潜能的牢笼" - opening self-knowledge lesson.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|Hanji 1030]] - direct prelude: failed rescue reciprocity and Guan Jing's abandoned-sortie warning.
+- [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|汉纪 1030]] - direct prelude: failed rescue reciprocity and Guan Jing's abandoned-sortie warning.
 - [[GongsunZan|公孙瓒]], [[YuanShao|袁绍]], [[YijingFortress|易京]], [[GongsunXuLateHan|公孙旭]], [[ZhangYanLateHan|张燕]], and [[GuanJingLateHan|关静]] - main siege actors and setting.
 - [[TianKaiLateHan|田楷]] and [[YuanTan|袁谭]] - related Gongsun-Yuan proxy branch whose final outcome is noted here.
 - [[RescueReciprocityCommandTrust|救援互惠式统帅信任]], [[FortressSecurityIllusion|筑城避世安全幻觉]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - interpretive frames for the failed relief, broken morale, and fortress endpoint.
 - [[DunningKrugerEffect|Dunning-Kruger effect]], [[CapabilityGapSelfDiagnosis]], and [[RationalHumility]] - adjacent self-knowledge frames; the episode uses them as opening commentary rather than settled psychological diagnosis.
-- [[ZizhiTongjian|《资治通鉴》]] - text source; episode covers volume 63 / Hanji 55 around 199 CE.
+- [[ZizhiTongjian|《资治通鉴》]] - text source; episode covers volume 63 / 汉纪 55 around 199 CE.
 
 ## Contradictions
 - No settled contradiction found.

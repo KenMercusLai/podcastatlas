@@ -16,7 +16,7 @@ Formalized cultivation critique is the claim that outward signs of practice can 
 
 ## Current Synthesis
 
-In [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq|Hanji 456-5]], the critique appears through [[ChenXuanzangConqueringDemons|陈玄奘]] and his master in [[JourneyToTheWestConqueringDemons|《西游降魔篇》]]. Chen can speak of universal love and maintain surface purity, but the episode says he is still caught in distinctions around gender, desire, food, and moral status. The master's goose-leg lesson makes the point sharply: eating or not eating matters less than whether the attachment remains in the heart.
+In [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq|汉纪 456-5]], the critique appears through [[ChenXuanzangConqueringDemons|陈玄奘]] and his master in [[JourneyToTheWestConqueringDemons|《西游降魔篇》]]. Chen can speak of universal love and maintain surface purity, but the episode says he is still caught in distinctions around gender, desire, food, and moral status. The master's goose-leg lesson makes the point sharply: eating or not eating matters less than whether the attachment remains in the heart.
 
 ## Key Claims
 
@@ -39,7 +39,7 @@ This concept should not be flattened into a claim that forms, vows, abstinence, 
 
 ## What Changed
 
-- Created the concept from Hanji 456-5's goose-leg lesson and its critique of Chen Xuanzang's purity posture.
+- Created the concept from 汉纪 456-5's goose-leg lesson and its critique of Chen Xuanzang's purity posture.
 
 ## Related Concepts
 

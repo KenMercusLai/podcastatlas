@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 战后复员安民 / Postwar Return and Veteran Relief
 
-战后复员安民 / postwar return and veteran relief enters the wiki through [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] as [[LiuBang|刘邦]]'s early Han policy for turning war-displaced people and demobilized soldiers back into governable households. After the founding accession, the episode says Liu Bang orders refugees in mountain and river strongholds to return to their villages and recover houses, fields, and property.
+战后复员安民 / postwar return and veteran relief enters the wiki through [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|汉纪 169 part 2]] as [[LiuBang|刘邦]]'s early Han policy for turning war-displaced people and demobilized soldiers back into governable households. After the founding accession, the episode says Liu Bang orders refugees in mountain and river strongholds to return to their villages and recover houses, fields, and property.
 
 The policy has a coercion-restraint side. Local officials are told not to harass returning people and not to beat or insult discharged soldiers. The episode therefore treats the end of war as an administrative discipline problem: the center must stop local agents from turning victory into predation.
 
@@ -21,7 +21,7 @@ The veteran side is rank-sensitive. Soldiers of seven-daifu and above are to be 
 - The policy extends [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] into social repair and county-level administration.
 
 ## Connections
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|Hanji 169 part 2]] - source page.
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-2-lqq8qhramfzii5o5icesd-uagwkc|汉纪 169 part 2]] - source page.
 - [[LiuBang|刘邦]] and [[WesternHanDynasty|西汉]] - founding ruler and new state using the policy.
 - [[PardonAsStatePower]] - adjacent postwar reconstruction instrument.
 - [[MilitaryMeritRankSystem|军功爵制]] - rank framework behind veteran support and exemptions.

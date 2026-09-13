@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-董宏 / Dong Hong enters the wiki through [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] as the Gaochang Hou who tries to turn [[FuTaihouWesternHan|傅太后]]'s title desire into an apparently precedent-backed court proposal under [[HanAidi|汉哀帝]]. He cites Qin Zhuangxiang Wang's honoring of both birth and adoptive mothers to argue that Aidi can honor the Dingtao line, but [[WangMang|王莽]] and [[ShiDanWesternHan|施丹]] attack the proposal as improper and dangerous.
+董宏 / Dong Hong enters the wiki through [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|汉纪 562]] as the Gaochang Hou who tries to turn [[FuTaihouWesternHan|傅太后]]'s title desire into an apparently precedent-backed court proposal under [[HanAidi|汉哀帝]]. He cites Qin Zhuangxiang Wang's honoring of both birth and adoptive mothers to argue that Aidi can honor the Dingtao line, but [[WangMang|王莽]] and [[ShiDanWesternHan|施丹]] attack the proposal as improper and dangerous.
 
 ## Current Profile
 
@@ -27,14 +27,14 @@ The proposal fails in its first form because Wang Mang and Shi Dan argue that Qi
 
 ## Evidence
 
-- Title proposal: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] says Dong Hong cites Qin Zhuangxiang Wang's birth and adoptive mother precedent to recommend honoring the Dingtao queen dowager as Di Taihou.
-- Patron reading: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] says Dong Hong is good at reading Fu Taihou's wishes.
-- Official resistance: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] says Wang Mang and Shi Dan impeach him for using Qin precedent to mislead the court on an extremely dignified title.
-- Punishment: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|Hanji 562]] says Aidi spares Dong Hong's life but removes him to commoner status.
+- Title proposal: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|汉纪 562]] says Dong Hong cites Qin Zhuangxiang Wang's birth and adoptive mother precedent to recommend honoring the Dingtao queen dowager as Di Taihou.
+- Patron reading: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|汉纪 562]] says Dong Hong is good at reading Fu Taihou's wishes.
+- Official resistance: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|汉纪 562]] says Wang Mang and Shi Dan impeach him for using Qin precedent to mislead the court on an extremely dignified title.
+- Punishment: [[zizhi-tongjian-hanji-562-han-aidi-jiwei-shi-you-duo-biequ-lpv8_ks5b3c0ow_3o9_mvxi9n3xu|汉纪 562]] says Aidi spares Dong Hong's life but removes him to commoner status.
 
 ## Qualifications
 
-Dong Hong is a one-source figure in the current wiki. Hanji 562 supports his title-proposal role, but not his full career, private motive, exact memorial text, later fate, or the complete legal basis for the impeachment.
+Dong Hong is a one-source figure in the current wiki. 汉纪 562 supports his title-proposal role, but not his full career, private motive, exact memorial text, later fate, or the complete legal basis for the impeachment.
 
 ## What Changed
 

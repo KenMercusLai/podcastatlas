@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a Yuan康 2 / 64 BCE layer under [[EmperorXuanOfHan|汉宣帝]], before the existing Hanji 428 source. It follows [[ShacheKingdomWesternHan|莎车国]] after its king dies without an heir, the installation and killing of Wusun-linked Wannian, and [[FengFengshiWesternHan|冯奉世]]'s unauthorized mobilization of Western Regions cavalry to force regime change.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a Yuan康 2 / 64 BCE layer under [[EmperorXuanOfHan|汉宣帝]], before the existing 汉纪 428 source. It follows [[ShacheKingdomWesternHan|莎车国]] after its king dies without an heir, the installation and killing of Wusun-linked Wannian, and [[FengFengshiWesternHan|冯奉世]]'s unauthorized mobilization of Western Regions cavalry to force regime change.
 
 The durable synthesis is that "one person conquering Shache" means field judgment plus borrowed imperial credibility, not lone heroics. Feng acts before Chang'an can respond, gathers allied cavalry under a false imperial command, and wins when overwhelming pressure causes Shache nobles to kill Hutuzheng and surrender; Xuan rewards the result but refuses marquisate-level endorsement because the precedent of envoy-led unauthorized war is dangerous.
 

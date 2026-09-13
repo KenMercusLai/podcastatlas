@@ -14,7 +14,7 @@ The episode emphasizes that ham, eggs, tins, powdered egg, and stockings are not
 
 This concept links material culture to care. A gift can be small and still morally large when it notices what the receiver cannot easily ask for: pleasure, relief, beauty, and the chance to remain a full social person under scarcity.
 
-[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|Hanji 965]] adds a silence-after-help complement through [[DiscreetBenefactionDignity|沉默施恩的尊严保护]]. The episode's point is not about a specific object, but about preserving the recipient's dignity after aid has happened: repeatedly naming the favor can turn help into public dependence, while restraint lets the recipient keep self-respect.
+[[zizhi-tongjian-hanji-965-bangguo-bieren-de-mang-weishenme-yao-shao-ti-ltjd-cv59hnm-n8ar9jxdogp9q0q|汉纪 965]] adds a silence-after-help complement through [[DiscreetBenefactionDignity|沉默施恩的尊严保护]]. The episode's point is not about a specific object, but about preserving the recipient's dignity after aid has happened: repeatedly naming the favor can turn help into public dependence, while restraint lets the recipient keep self-respect.
 
 ## Key Claims
 - Help preserves dignity when it attends to beauty, pleasure, and ordinary social presence, not only survival.

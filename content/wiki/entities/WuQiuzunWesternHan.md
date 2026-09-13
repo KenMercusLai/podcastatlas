@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-武秋尊 / Wu Qiuzun enters the wiki through [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] as a former Yeting official whose conversation with [[JiWuWesternHan|纪武]] broadens [[XieGuangWesternHan|谢光]]'s report from one sealed-box case into an atmosphere of palace fear around [[HanChengdi|汉成帝]]'s possible heirs.
+武秋尊 / Wu Qiuzun enters the wiki through [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] as a former Yeting official whose conversation with [[JiWuWesternHan|纪武]] broadens [[XieGuangWesternHan|谢光]]'s report from one sealed-box case into an atmosphere of palace fear around [[HanChengdi|汉成帝]]'s possible heirs.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ His significance is evidentiary rather than biographical. Wu Qiuzun supplies the
 
 ## Evidence
 
-- Yeting control claim: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Wu Qiuzun warned Ji Wu that Yeting officials were Zhao Hede's people and not trustworthy.
-- Child-killing claim: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Wu Qiuzun claimed palace women who bore children for Chengdi had been killed.
-- Abortion claim: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Wu Qiuzun claimed many women drank medicine to abort pregnancies for survival.
-- Retraction by fear: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Wu Qiuzun later told Ji Wu not to report the matter.
+- Yeting control claim: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Wu Qiuzun warned Ji Wu that Yeting officials were Zhao Hede's people and not trustworthy.
+- Child-killing claim: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Wu Qiuzun claimed palace women who bore children for Chengdi had been killed.
+- Abortion claim: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Wu Qiuzun claimed many women drank medicine to abort pregnancies for survival.
+- Retraction by fear: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Wu Qiuzun later told Ji Wu not to report the matter.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The page does not establish Wu Qiuzun's full office history, reliability, or ind
 
 ## What Changed
 
-- Created from Hanji 572 as the witness who broadens the Xu Meiren case into a claim about systematic palace suppression of imperial births.
+- Created from 汉纪 572 as the witness who broadens the Xu Meiren case into a claim about systematic palace suppression of imperial births.
 
 ## Relationships
 

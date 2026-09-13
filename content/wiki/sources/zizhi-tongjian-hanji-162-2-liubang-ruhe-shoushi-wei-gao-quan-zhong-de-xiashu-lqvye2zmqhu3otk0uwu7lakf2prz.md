@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》162-2｜刘邦如何收拾位高权重的下属
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the late [[XingyangStandoff|荥阳相持]] after [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]] by showing how [[PengYue|彭越]]'s rear raids force [[XiangYu|项羽]] to shuttle between fronts. Its central scene is [[LiuBang|刘邦]]'s emergency seizure of [[HanXin|韩信]] and [[ZhangEr|张耳]]'s seals and troop tokens at Xiao Xiuwu after [[Chenggao|成皋]] falls again. The source frames the move as [[CommandAuthorityRecapture|统帅权再收束]]: Liu Bang does not destroy Han Xin's usefulness, but strips immediate troop control, redeploys Zhang Er to hold Zhao, and sends Han Xin toward [[QiState|齐国]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the late [[XingyangStandoff|荥阳相持]] after [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|汉纪 162-1]] by showing how [[PengYue|彭越]]'s rear raids force [[XiangYu|项羽]] to shuttle between fronts. Its central scene is [[LiuBang|刘邦]]'s emergency seizure of [[HanXin|韩信]] and [[ZhangEr|张耳]]'s seals and troop tokens at Xiao Xiuwu after [[Chenggao|成皋]] falls again. The source frames the move as [[CommandAuthorityRecapture|统帅权再收束]]: Liu Bang does not destroy Han Xin's usefulness, but strips immediate troop control, redeploys Zhang Er to hold Zhao, and sends Han Xin toward [[QiState|齐国]].
 
 ## Key Claims
 - The episode opens with a general political question: a ruler facing powerful, high-status subordinates must prevent delegated authority from becoming a separate center that can delay or threaten the ruler's larger plan.
@@ -38,7 +38,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 > "战略上的成功足够抵消战术上的失利" - the host's summary of Liu Bang's multi-front position against Xiang Yu.
 
 ## Connections
-- [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], [[XingyangStandoff|荥阳相持]], [[YuanShengChuHan|袁先生 / 袁生]], and [[Chenggao|成皋]] - prior escape and diversion setting that this episode continues into Chenggao's renewed fall.
+- [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|汉纪 162-1]], [[XingyangStandoff|荥阳相持]], [[YuanShengChuHan|袁先生 / 袁生]], and [[Chenggao|成皋]] - prior escape and diversion setting that this episode continues into Chenggao's renewed fall.
 - [[LiuBang|刘邦]], [[HanXin|韩信]], [[ZhangEr|张耳]], and [[CommandAuthorityRecapture|统帅权再收束]] - emergency recapture of troop control from high-value subordinates.
 - [[PengYue|彭越]], [[TransportCorridorSeverance|交通线切割]], [[XiangYu|项羽]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - rear logistics pressure and the cost of visible but exhausting victories.
 - [[ZhouKe|周苛]], [[CongGong|枞公]], and [[JiXin|纪信]] - Xingyang loyalist sacrifice and refusal branches around Liu Bang's escape.

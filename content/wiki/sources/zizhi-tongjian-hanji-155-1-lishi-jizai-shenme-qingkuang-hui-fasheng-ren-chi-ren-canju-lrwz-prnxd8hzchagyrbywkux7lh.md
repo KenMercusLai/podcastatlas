@@ -11,7 +11,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues from [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] by briefly recapping the [[ChenPing|陈平]] accusation thread, then using [[HakuinEkaku|白隐慧鹤]] as a moral analogy for bearing false blame. The main Chu-Han sequence follows [[WeiBao|魏豹]]'s renewed break from [[LiuBang|刘邦]], the fall of [[Feiqiu|废丘]] and [[ZhangHanQin|章邯]]'s suicide, and the administrative consolidation of [[GuanzhongRegion|关中]] through commanderies. Its strongest contribution is the famine branch: war empties fields of labor, grain prices explode, extreme social order breaks down, and [[RenShiQinMerchant|任氏]]'s grain-hoarding fortune raises the question of how wealth survives in violent scarcity.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues from [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|汉纪 154]] by briefly recapping the [[ChenPing|陈平]] accusation thread, then using [[HakuinEkaku|白隐慧鹤]] as a moral analogy for bearing false blame. The main Chu-Han sequence follows [[WeiBao|魏豹]]'s renewed break from [[LiuBang|刘邦]], the fall of [[Feiqiu|废丘]] and [[ZhangHanQin|章邯]]'s suicide, and the administrative consolidation of [[GuanzhongRegion|关中]] through commanderies. Its strongest contribution is the famine branch: war empties fields of labor, grain prices explode, extreme social order breaks down, and [[RenShiQinMerchant|任氏]]'s grain-hoarding fortune raises the question of how wealth survives in violent scarcity.
 
 ## Key Claims
 - The episode opens with the classic tactic "声东击西" and defines it as creating a visible direction of attack so the enemy misreads the real target.
@@ -34,9 +34,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues f
 > "我更愿意相信第一种可能" - the host's view that Ren氏 probably had protection rather than merely operating under ordinary order.
 
 ## Connections
-- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]], [[ChenPing|陈平]], [[MoralSlanderReframing|道德诬陷焦点转移]], and [[HakuinEkaku|白隐慧鹤]] - recap and moral analogy around false accusation.
+- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|汉纪 154]], [[ChenPing|陈平]], [[MoralSlanderReframing|道德诬陷焦点转移]], and [[HakuinEkaku|白隐慧鹤]] - recap and moral analogy around false accusation.
 - [[HanXin|韩信]], [[LayeredFeintCentralBreakthrough|多路佯动中央突破]], [[BattlefieldInformationControl|战场信息控制]], and [[LureEnemyOutOfPosition|诱敌离位]] - the opening "声东击西" frame, kept source-scoped because the Wei Bao campaign has not yet unfolded in the transcript.
-- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] - direct continuation that supplies the full Han Xin crossing operation against Wei Bao.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|汉纪 155-2]] - direct continuation that supplies the full Han Xin crossing operation against Wei Bao.
 - [[WeiBao|魏豹]], [[LiuBang|刘邦]], [[XiangYu|项羽]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - renewed Wei Bao defection after earlier post-Pengcheng switching.
 - [[Feiqiu|废丘]], [[ZhangHanQin|章邯]], [[ThreeQinContainment|三秦压制]], [[ZhongdiCommandery|中地郡]], [[BeidiCommandery|北地郡]], and [[LongxiCommandery|陇西郡]] - final collapse of Zhang Han's holdout and Han administrative consolidation.
 - [[GuanzhongRegion|关中]], [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]], [[WarDisasterCompounding]], [[FamineEntitlementFailure]], and [[DisasterCivilizationRetreat|灾变中的文明退场]] - famine, price spike, labor collapse, and breakdown of ordinary social restraints.

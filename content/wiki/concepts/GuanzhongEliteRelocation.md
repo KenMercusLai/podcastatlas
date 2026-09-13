@@ -29,19 +29,19 @@ The later institutional branch appears in mausoleum counties: [[MausoleumCountyE
 
 ## Evidence
 
-- Capital and frontier logic: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says Liu Jing links Xiongnu raiding reach and Guanzhong population weakness to the need to move people into the capital region.
-- Elite-control logic: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|Hanji 180]] says the moved groups include six-state royal descendants, powerful local families, and famous figures whose old regional bases are thereby weakened.
-- Mausoleum-county development: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says early Western Han continues the policy by moving Guandong wealthy households and senior officials' families around imperial mausoleums.
-- Consent cost: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Yuan-era objections stress distance from ancestral graves, broken livelihoods, classical-norm concerns, and elite unease.
+- Capital and frontier logic: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|汉纪 180]] says Liu Jing links Xiongnu raiding reach and Guanzhong population weakness to the need to move people into the capital region.
+- Elite-control logic: [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-1-li5u-dmsmb1lp4ny3rk02kaiyu4k|汉纪 180]] says the moved groups include six-state royal descendants, powerful local families, and famous figures whose old regional bases are thereby weakened.
+- Mausoleum-county development: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says early Western Han continues the policy by moving Guandong wealthy households and senior officials' families around imperial mausoleums.
+- Consent cost: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says Yuan-era objections stress distance from ancestral graves, broken livelihoods, classical-norm concerns, and elite unease.
 
 ## Counterevidence & Qualifications
 
-The sources explain the policy from podcast summaries rather than a full institutional archive. Hanji 180's claim that the practice lasted more than 150 years remains source-scoped. Hanji 526 describes seven late-Western-Han mausoleum counties and Chengdi-era revival, but does not settle exact county-by-county chronology or demographic totals.
+The sources explain the policy from podcast summaries rather than a full institutional archive. 汉纪 180's claim that the practice lasted more than 150 years remains source-scoped. 汉纪 526 describes seven late-Western-Han mausoleum counties and Chengdi-era revival, but does not settle exact county-by-county chronology or demographic totals.
 
 ## What Changed
 
 - Migrated the page to `synthesis-v1`.
-- Added Hanji 526's mausoleum-county branch and coercion-cost qualification.
+- Added 汉纪 526's mausoleum-county branch and coercion-cost qualification.
 
 ## Related Concepts
 

@@ -11,7 +11,7 @@ last_updated: 2026-08-29
 ---
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 120 CE Yongning opening before [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]]. It combines [[MaXianLateHan|马贤]]'s Qiang-frontier campaign cycle, floods, earthquakes, office changes, and foreign tribute with the court conflict around [[DengKangLateHan|邓康]], [[EmpressDowagerDengLateHan|和熹邓皇后]], and the [[DengFamilyAnEraLateHan|邓氏]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 120 CE Yongning opening before [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|汉纪 793]]. It combines [[MaXianLateHan|马贤]]'s Qiang-frontier campaign cycle, floods, earthquakes, office changes, and foreign tribute with the court conflict around [[DengKangLateHan|邓康]], [[EmpressDowagerDengLateHan|和熹邓皇后]], and the [[DengFamilyAnEraLateHan|邓氏]].
 
 The durable synthesis is that the Deng regency's danger was visible before Deng's death and purge. Deng Kang argues from inside the family that court authority should be raised and outer-relative power weakened, but his failed withdrawal and insult to a palace attendant make him a target; meanwhile [[EmperorShunOfHan|刘保]]'s crown-prince appointment already creates the [[EmpressDowagerYanLateHan|阎后]] hostility that later becomes a succession crisis.
 
@@ -45,6 +45,6 @@ The durable synthesis is that the Deng regency's danger was visible before Deng'
 - [[HeirSupportThreatPerception]] - downstream succession-risk pattern prefigured by Liu Bao's crown-prince appointment and Yan Hou hostility.
 
 ## Contradictions
-- No settled contradiction is introduced. The episode refines chronology by placing Deng Kang's internal warning, Liu Bao's crown-prince appointment, and Yan Hou's hostility before Hanji 793's Deng death and Hanji 794-801's purge/deposition sequence.
+- No settled contradiction is introduced. The episode refines chronology by placing Deng Kang's internal warning, Liu Bao's crown-prince appointment, and Yan Hou's hostility before 汉纪 793's Deng death and 汉纪 794-801's purge/deposition sequence.
 - Motive caution: the source does not prove whether Deng Kang memorialized from public-minded judgment, family self-protection, personal distancing, or mixed motives.
 - Scope caution: the palace attendant, Jiwu, Lu Hukai, Ren Liang, Li He, Chen Bao, Shanguo king Yongyoudiao, Liu Chong, Liu Chang, and minor disaster/tribute notices remain source-scoped unless later evidence makes them durable pages.

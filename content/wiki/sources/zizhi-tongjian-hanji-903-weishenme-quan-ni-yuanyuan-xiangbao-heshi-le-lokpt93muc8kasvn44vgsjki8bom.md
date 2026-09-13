@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the pre-[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|Hanji 904]] late-Han layer. It pairs [[SuBuweiLateHan|苏不韦]]'s escalating revenge against [[LiHaoLateHan|李昊]] with [[DuanJiongLateHan|段熲]]'s extermination of Su's household, then turns to [[LiuKuiBohaiKing|刘亏]]'s failed attempt to use [[WangFuLateHan|王甫]]'s inner-court access to regain the [[BohaiKingdomLateHan|渤海王国]] title. The episode's core synthesis is that private grievance, unpaid political brokerage, forged treason evidence, and collateral punishment can turn personal conflict into household and institutional catastrophe under [[EmperorLingOfHan|汉灵帝]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the pre-[[zizhi-tongjian-hanji-904-juezhao-neiguan-huode-xinling-da-ziyou-de-mijue-lopn-okbzr4ljvqmgzcsb7qav0n2|汉纪 904]] late-Han layer. It pairs [[SuBuweiLateHan|苏不韦]]'s escalating revenge against [[LiHaoLateHan|李昊]] with [[DuanJiongLateHan|段熲]]'s extermination of Su's household, then turns to [[LiuKuiBohaiKing|刘亏]]'s failed attempt to use [[WangFuLateHan|王甫]]'s inner-court access to regain the [[BohaiKingdomLateHan|渤海王国]] title. The episode's core synthesis is that private grievance, unpaid political brokerage, forged treason evidence, and collateral punishment can turn personal conflict into household and institutional catastrophe under [[EmperorLingOfHan|汉灵帝]].
 
 ## Key Claims
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 曹性 / Cao Xing (late Han)
 
-曹性 / Cao Xing (late Han) enters the wiki through [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] as a subordinate of [[HaoMeng|郝萌]] who turns against Hao Meng during the Xiapi revolt. The source says Hao Meng wounds Cao Xing, while Cao Xing cuts off one of Hao Meng's arms before [[GaoShun|高顺]] kills Hao Meng.
+曹性 / Cao Xing (late Han) enters the wiki through [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|汉纪 1000]] as a subordinate of [[HaoMeng|郝萌]] who turns against Hao Meng during the Xiapi revolt. The source says Hao Meng wounds Cao Xing, while Cao Xing cuts off one of Hao Meng's arms before [[GaoShun|高顺]] kills Hao Meng.
 
 Cao Xing's political role comes after the fighting. Brought before [[LyuBu|吕布]], he says [[YuanShu|袁术]] encouraged the revolt and names [[ChenGongLateHan|陈宫]] as an accomplice while Chen Gong is present. Lü Bu praises Cao Xing as a true brave man, tells him to recover, and gives him responsibility for pacifying or leading Hao Meng's old troops.
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 159 CE post-Liang-clan layer before [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|Hanji 857]] and the later 163-167 Huan-era court sequence. It opens with a source-scoped lesson on desire as a force that needs limits, then turns to [[EmperorHuanOfHan|汉桓帝]]'s favor-based rewards, excessive palace women, and intimacy with [[DengWanshiLateHan|邓万世]] after the Liang threat has been removed.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 159 CE post-Liang-clan layer before [[zizhi-tongjian-hanji-857-xuehui-gongying-cai-shi-zhenzheng-de-yingjia-lh3zx6pw-4ib7owiz8c68bv-9htn|汉纪 857]] and the later 163-167 Huan-era court sequence. It opens with a source-scoped lesson on desire as a force that needs limits, then turns to [[EmperorHuanOfHan|汉桓帝]]'s favor-based rewards, excessive palace women, and intimacy with [[DengWanshiLateHan|邓万世]] after the Liang threat has been removed.
 
 The durable contribution is a compact early case for [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] and partial remonstrance conversion. [[ChenFanLateHan|陈蕃]] criticizes non-merit enfeoffment and harem expense; Huan releases more than five hundred palace women but still grants key rewards. [[YuanHongChenliuLateHan|袁闳]] then describes Huan as a middle-grade ruler who can be led toward good by worthy ministers or toward disorder by close attendants, but his later sealed omen memorial receives no answer and he withdraws from office.
 
@@ -45,11 +45,11 @@ The durable contribution is a compact early case for [[ImperialPrivateDesireGove
 - [[AdviceFramingUnderHierarchy|等级场景中的进言包装]], [[OmenCodedRemonstrance|天象灾异包装式进谏]], and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - Chen Fan and Yuan Hong show direct and omen-coded modes of correction under hierarchy.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] and [[CounselExitAfterNonresponse|进言不纳后的抽身]] - Yuan Hong's unanswered sealed memorial leads to calculated withdrawal.
 - [[PalaceProximityPower|宫廷近身权力]] and [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]] - the source supplies an early post-Liang setting for later harem and favorite-access instability.
-- [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|Hanji 858]], [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]], [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]], and [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] - downstream Huan-era episodes where remonstrance, eunuch power, and harem burden recur.
+- [[zizhi-tongjian-hanji-858-weishenme-quan-ni-yiding-yao-huanwei-sikao-lobr-xznqo-ctjpc-ytpstubmahl|汉纪 858]], [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|汉纪 865]], [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]], and [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] - downstream Huan-era episodes where remonstrance, eunuch power, and harem burden recur.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found. The source backfills an earlier 159 CE layer before the currently ingested 163-167 Huan-era court sequence.
-- Identity disambiguation: this episode's [[YuanHongChenliuLateHan|袁闳]] is treated as a Chenliu attendant/remonstrant, distinct from [[YuanHongLateHan|袁闳 / Yuan Hong (late Han)]], the Yuan-family recluse in Hanji 896.
+- Identity disambiguation: this episode's [[YuanHongChenliuLateHan|袁闳]] is treated as a Chenliu attendant/remonstrant, distinct from [[YuanHongLateHan|袁闳 / Yuan Hong (late Han)]], the Yuan-family recluse in 汉纪 896.
 - Chronology caution: Huan's release of more than five hundred palace women is treated as partial correction, not as a contradiction of later sources that still describe harem burden, private desire, and palace-status instability.
 - Scope caution: Deng Zun, the Huang-family title holder rendered as Huang Jun in the supplied source, exact harem numbers, and the opening desire advice remain source-scoped unless later sources provide stronger identity or chronology evidence.

@@ -18,9 +18,9 @@ last_updated: 2026-08-30
 
 ## Current Profile
 
-Hanji 782 gives Pang Can an earlier and sharper role than the later Liangzhou debate alone. While imprisoned at Ruolu, he has his son Pang Jun present a memorial arguing that western campaigning, forced movement, and thousand-li grain transport are destroying soldiers and civilians. He recommends recalling Deng Zhi, leaving Ren Shang in charge, moving Liangzhou officials and people toward Sanfu, reducing corvee and requisitions, and lightening taxes. Empress Dowager Deng summons him, appoints him yezhe, and sends him west to supervise troops, so the source presents him as a critic whose administrative diagnosis becomes useful even before full vindication.
+汉纪 782 gives Pang Can an earlier and sharper role than the later Liangzhou debate alone. While imprisoned at Ruolu, he has his son Pang Jun present a memorial arguing that western campaigning, forced movement, and thousand-li grain transport are destroying soldiers and civilians. He recommends recalling Deng Zhi, leaving Ren Shang in charge, moving Liangzhou officials and people toward Sanfu, reducing corvee and requisitions, and lightening taxes. Empress Dowager Deng summons him, appoints him yezhe, and sends him west to supervise troops, so the source presents him as a critic whose administrative diagnosis becomes useful even before full vindication.
 
-Hanji 784 then makes Pang Can part of the explicit Liangzhou abandonment position that Yu Xu rebuts. The two layers should be held together: Pang is not simply anti-frontier; he is prioritizing exhausted people, broken logistics, and immediate survival, while Yu Xu argues that abandoning a shield-frontier creates larger strategic losses. Hanji 787 and Hanji 789 add a military-command arc around Qiang operations, including surrender management and defeat/failure layers. Hanji 815 supplies a later court-office endpoint: as taiwei, Pang is removed after a household murder scandal brought forward by Zhu Liang.
+汉纪 784 then makes Pang Can part of the explicit Liangzhou abandonment position that Yu Xu rebuts. The two layers should be held together: Pang is not simply anti-frontier; he is prioritizing exhausted people, broken logistics, and immediate survival, while Yu Xu argues that abandoning a shield-frontier creates larger strategic losses. 汉纪 787 and 汉纪 789 add a military-command arc around Qiang operations, including surrender management and defeat/failure layers. 汉纪 815 supplies a later court-office endpoint: as taiwei, Pang is removed after a household murder scandal brought forward by Zhu Liang.
 
 ## Key Characteristics
 
@@ -33,19 +33,19 @@ Hanji 784 then makes Pang Can part of the explicit Liangzhou abandonment positio
 
 ## Evidence
 
-- Imprisoned memorial and partial adoption: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] records Pang Can's prison status, Pang Jun's memorial, the retrenchment-relief plan, Deng Zhi's recall, and Pang's yezhe appointment.
-- Liangzhou abandonment debate: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] places Pang Can on the Liangzhou abandonment side before Yu Xu's retention argument prevails.
-- Qiang-front command pressure: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] records Pang Can and Sima Jun in a failed Qiang-front campaign layer.
-- Surrender and later Qiang context: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] preserves Pang Can in the later Qiang-war field around surrender and command consequences.
-- Taiwei household scandal: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] records Pang Can's later dismissal after Zhu Liang's impeachment over household violence.
+- Imprisoned memorial and partial adoption: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|汉纪 782]] records Pang Can's prison status, Pang Jun's memorial, the retrenchment-relief plan, Deng Zhi's recall, and Pang's yezhe appointment.
+- Liangzhou abandonment debate: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|汉纪 784]] places Pang Can on the Liangzhou abandonment side before Yu Xu's retention argument prevails.
+- Qiang-front command pressure: [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]] records Pang Can and Sima Jun in a failed Qiang-front campaign layer.
+- Surrender and later Qiang context: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|汉纪 789]] preserves Pang Can in the later Qiang-war field around surrender and command consequences.
+- Taiwei household scandal: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] records Pang Can's later dismissal after Zhu Liang's impeachment over household violence.
 
 ## Qualifications
 
-Pang Can's early advice is not equivalent to proven strategic correctness. Hanji 782 gives a strong humanitarian and fiscal case for retrenchment, while Hanji 784 gives Yu Xu's counterclaim that abandonment would destroy the frontier shield. The current synthesis treats Pang as a cost-diagnosis actor whose judgment is bounded by strategic risk, not as a universally vindicated planner.
+Pang Can's early advice is not equivalent to proven strategic correctness. 汉纪 782 gives a strong humanitarian and fiscal case for retrenchment, while 汉纪 784 gives Yu Xu's counterclaim that abandonment would destroy the frontier shield. The current synthesis treats Pang as a cost-diagnosis actor whose judgment is bounded by strategic risk, not as a universally vindicated planner.
 
 ## What Changed
 
-- Added Hanji 782 as the earliest current layer, making Pang Can an imprisoned but influential policy critic before Hanji 784.
+- Added 汉纪 782 as the earliest current layer, making Pang Can an imprisoned but influential policy critic before 汉纪 784.
 - Reframed the Liangzhou abandonment proposal as emerging from logistics and relief concerns, not only from strategic short-sightedness.
 - Preserved later Qiang command and taiwei scandal layers as separate parts of the same mixed profile.
 

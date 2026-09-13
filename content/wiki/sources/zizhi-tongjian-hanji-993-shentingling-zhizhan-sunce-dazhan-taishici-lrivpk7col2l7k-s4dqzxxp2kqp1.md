@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[SunCe|孙策]]'s 195 CE Jiangdong expansion immediately before the existing Hanji 994-995 branch. It contrasts Sun Ce's disciplined, people-winning, talent-using advance with [[LiuYaoLateHan|刘繇]]'s refusal to make [[TaishiCi|太史慈]] a general because of status and reputation anxiety. The center is [[ShentinglingBattle|神亭岭之战]], where Taishi Ci meets Sun Ce while scouting and fights him despite being badly outnumbered, making the battle a compact case of ignored talent becoming visible in the field.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[SunCe|孙策]]'s 195 CE Jiangdong expansion immediately before the existing 汉纪 994-995 branch. It contrasts Sun Ce's disciplined, people-winning, talent-using advance with [[LiuYaoLateHan|刘繇]]'s refusal to make [[TaishiCi|太史慈]] a general because of status and reputation anxiety. The center is [[ShentinglingBattle|神亭岭之战]], where Taishi Ci meets Sun Ce while scouting and fights him despite being badly outnumbered, making the battle a compact case of ignored talent becoming visible in the field.
 
 ## Key Claims
 - In 195 CE, [[SunCe|孙策]] crosses the Yangtze and advances through Jiangdong while maintaining strict military discipline; people who first fear his army later bring food and wine to reward it.
@@ -40,8 +40,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [
 - [[ShentinglingBattle|神亭岭之战]], [[HanDang|韩当]], and [[HuangGai|黄盖]] - scouting encounter, outnumbered duel, and Sun Ce's retinue.
 - [[YuanShao|袁绍]], [[JuShou|沮授]], [[LiuBiao|刘表]], and [[GanNing|甘宁]] - comparative cases named by the source for failure to use capable people.
 - [[TalentAsStateTreasure|以贤臣为宝]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - broader wiki talent branch extended by the Sun Ce and Liu Yao contrast.
-- [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] and [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] - next existing Jiangdong and Liu Yao/Yuzhang branches.
+- [[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|汉纪 994]] and [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|汉纪 995]] - next existing Jiangdong and Liu Yao/Yuzhang branches.
 
 ## Contradictions
-- No settled contradiction found. The source backfills Sun Ce's positive Jiangdong discipline and recruitment branch before Hanji 994, and it gives Liu Yao an earlier status-filtered talent failure before Hanji 995's route-choice and Ze Rong sequence.
+- No settled contradiction found. The source backfills Sun Ce's positive Jiangdong discipline and recruitment branch before 汉纪 994, and it gives Liu Yao an earlier status-filtered talent failure before 汉纪 995's route-choice and Ze Rong sequence.
 - Source-scope caution: the episode's explanation of Taishi Ci as a lower-status or 寒门 military talent is preserved as the host's interpretive frame rather than treated as a complete social-history proof.

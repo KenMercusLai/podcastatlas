@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 98 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]]. It centers [[BanChaoEasternHan|班超]] sending [[GanYingEasternHan|甘英]] toward [[DaQin|大秦]] / [[RomanEmpire|罗马帝国]] and [[TiaozhiKingdom|条支国]], with [[ParthianEmpire|安息 / 帕提亚帝国]] acting as the route intermediary whose sea-risk description stops the mission short.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 98 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]]. It centers [[BanChaoEasternHan|班超]] sending [[GanYingEasternHan|甘英]] toward [[DaQin|大秦]] / [[RomanEmpire|罗马帝国]] and [[TiaozhiKingdom|条支国]], with [[ParthianEmpire|安息 / 帕提亚帝国]] acting as the route intermediary whose sea-risk description stops the mission short.
 
 The durable synthesis is that Gan Ying's failure to reach Rome is still a knowledge event. The mission uses Ban Chao's Western Regions position to gather far-western information, while the episode's geography discussion turns the "great sea" into a case of [[IntermediaryRouteGatekeeping|中介路线门控]] and contested route interpretation rather than simple personal timidity.
 
@@ -45,11 +45,11 @@ The durable synthesis is that Gan Ying's failure to reach Rome is still a knowle
 - [[TiaozhiKingdom|条支国]] - created as the additional western destination named with the mission.
 - [[IntermediaryRouteGatekeeping|中介路线门控]] - created from the episode's focus on how middle polities can shape route knowledge.
 - [[EmperorHeOfHan|汉和帝]] - gains the 98 CE layer of distant envoy reporting, flood and office notices, military accountability, and Mi Tang's surrender.
-- [[MiTangQiangLeader|弥唐]] and [[ShaodangQiang|烧当羌]] - Hanji 771 supplies the surrender-and-tribute prelude before Hanji 772's failed incorporation.
+- [[MiTangQiangLeader|弥唐]] and [[ShaodangQiang|烧当羌]] - 汉纪 771 supplies the surrender-and-tribute prelude before 汉纪 772's failed incorporation.
 - [[LiuKaiEasternHan|刘恺]] - appears as a next-episode teaser rather than a new synthesis layer here.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills the Emperor-He-era sequence before Hanji 772 and adds an earlier Ban Chao / Western Regions knowledge-gathering layer before the final-return and Ren Shang handoff sources.
+- No settled contradiction is recorded. This source backfills the Emperor-He-era sequence before 汉纪 772 and adds an earlier Ban Chao / Western Regions knowledge-gathering layer before the final-return and Ren Shang handoff sources.
 - Geography caution: the episode contrasts a Mediterranean interpretation with the host's Persian Gulf reading; the wiki records the Persian Gulf as the source's preferred judgment, not as a resolved historical-geography conclusion.
 - Scope caution: Tiaozhi, Bo Yang's geography claim, Marcus Aurelius and the later Roman envoy, Han Leng, Chao Kan, Liu Shang, Zhao Shi, Wang Xin, Geng Tan, Fuhan, Baishi, and exact office/date details remain source-scoped unless later notes warrant standalone expansion.

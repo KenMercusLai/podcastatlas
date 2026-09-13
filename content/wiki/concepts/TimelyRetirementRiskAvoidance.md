@@ -14,9 +14,9 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-Hanji 431 creates the concept through [[ShuGuangShuShouWesternHan|疏广与疏受]]. In the episode, Shu Guang tells Shu Shou that satisfaction avoids humiliation and knowing when to stop avoids danger. The two are crown-prince teachers, have reached two-thousand-shi rank, and possess enough honor and wealth. They therefore ask to retire together by citing illness, and their departure is publicly praised.
+汉纪 431 creates the concept through [[ShuGuangShuShouWesternHan|疏广与疏受]]. In the episode, Shu Guang tells Shu Shou that satisfaction avoids humiliation and knowing when to stop avoids danger. The two are crown-prince teachers, have reached two-thousand-shi rank, and possess enough honor and wealth. They therefore ask to retire together by citing illness, and their departure is publicly praised.
 
-The concept is narrower than the broader [[PowerExitTrap|权力退场困境]]. It marks a successful, low-conflict exit before the trap fully forms. The actors do not wait for accusation, ruler suspicion, or factional reversal; they read sufficiency as an active signal. Hanji 431 also links the exit to wealth handling: retirement becomes durable because reward money is not converted into an excessive family accumulation project.
+The concept is narrower than the broader [[PowerExitTrap|权力退场困境]]. It marks a successful, low-conflict exit before the trap fully forms. The actors do not wait for accusation, ruler suspicion, or factional reversal; they read sufficiency as an active signal. 汉纪 431 also links the exit to wealth handling: retirement becomes durable because reward money is not converted into an excessive family accumulation project.
 
 ## Key Claims
 
@@ -29,12 +29,12 @@ The concept is narrower than the broader [[PowerExitTrap|权力退场困境]]. I
 ## Evidence
 
 Sufficiency judgment:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Shu Guang cites the maxim that satisfaction avoids humiliation and knowing when to stop avoids danger.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Shu Guang and Shu Shou consider two-thousand-shi rank, wealth, and merit enough.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says they request retirement together by claiming illness.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Shu Guang cites the maxim that satisfaction avoids humiliation and knowing when to stop avoids danger.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Shu Guang and Shu Shou consider two-thousand-shi rank, wealth, and merit enough.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says they request retirement together by claiming illness.
 
 Publicly honored exit:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Xuan approves and grants gold, the crown prince also grants gold, and officials and commoners praise them as worthy people.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Xuan approves and grants gold, the crown prince also grants gold, and officials and commoners praise them as worthy people.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The episode does not prove that staying would have destroyed Shu Guang or Shu Sh
 
 ## What Changed
 
-- Created the concept from Hanji 431's Shu Guang and Shu Shou retirement case.
+- Created the concept from 汉纪 431's Shu Guang and Shu Shou retirement case.
 
 ## Related Concepts
 

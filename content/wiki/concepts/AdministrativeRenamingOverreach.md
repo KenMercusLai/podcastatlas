@@ -15,9 +15,9 @@ Administrative renaming overreach / 行政改名过度 is the governance failure
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|Hanji 635]] now gives the earliest current layer for [[WangMang|王莽]]'s [[XinDynasty|新朝]] naming program. In 9 CE, Wang Mang renames central offices, local posts, Chang'an, and administrative titles as part of his opening consolidation, making the new dynasty visible through changed vocabulary before later policy details are fully tested.
+[[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|汉纪 635]] now gives the earliest current layer for [[WangMang|王莽]]'s [[XinDynasty|新朝]] naming program. In 9 CE, Wang Mang renames central offices, local posts, Chang'an, and administrative titles as part of his opening consolidation, making the new dynasty visible through changed vocabulary before later policy details are fully tested.
 
-[[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] then shows the mature overreach pattern. Wang Mang imitates ancient institutional language, creates offices such as zuzheng, lianshuai, and dawei, redraws commanderies and counties, divides large commanderies, and uses Zhou-style categories to imagine ten thousand fiefs.
+[[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] then shows the mature overreach pattern. Wang Mang imitates ancient institutional language, creates offices such as zuzheng, lianshuai, and dawei, redraws commanderies and counties, divides large commanderies, and uses Zhou-style categories to imagine ten thousand fiefs.
 
 The source's key point is legibility cost. Wang Mang's new names often carry good wishes, such as peace, stability, loyalty, and virtue, but repeated changes make administration harder to operate. The episode says some places are renamed repeatedly and then returned to their old names, forcing edicts to include old names under new names so officials and commoners can understand them.
 
@@ -32,21 +32,21 @@ The source's key point is legibility cost. Wang Mang's new names often carry goo
 
 ## Evidence
 
-- Opening consolidation layer: [[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|Hanji 635]] says Wang Mang changes major office names and local administrative titles soon after accession.
-- Ancient-office imitation: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says Wang Mang uses texts such as Zhouguan and Wangzhi to set new office titles equivalent to commandery administrators.
-- Territorial redesign: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says he creates new state-pastor, monitor, commandery, township, and suburban-county arrangements.
-- Repeated place-name churn: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says some local names changed several times before reverting.
-- Old-name annotations: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] says edicts had to annotate new place names with former names so people could identify them.
-- Auspicious naming motive: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|Hanji 647]] reads names such as Danning, Fengmei, Pingbao, Shanyang, and Jianping as attempts to encode hopes of stability and order.
+- Opening consolidation layer: [[zizhi-tongjian-hanji-635-bei-wangmang-toujia-hou-liushi-huangzu-hequ-hecong-lhldulizw9ksijjbfzwjmxfsyhqp|汉纪 635]] says Wang Mang changes major office names and local administrative titles soon after accession.
+- Ancient-office imitation: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] says Wang Mang uses texts such as Zhouguan and Wangzhi to set new office titles equivalent to commandery administrators.
+- Territorial redesign: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] says he creates new state-pastor, monitor, commandery, township, and suburban-county arrangements.
+- Repeated place-name churn: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] says some local names changed several times before reverting.
+- Old-name annotations: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] says edicts had to annotate new place names with former names so people could identify them.
+- Auspicious naming motive: [[zizhi-tongjian-hanji-647-shisanchao-gudu-luoyang-weihe-zhiguanzhongyao-ljjcpxlri4dq2zoa9oonyauhcwfv|汉纪 647]] reads names such as Danning, Fengmei, Pingbao, Shanyang, and Jianping as attempts to encode hopes of stability and order.
 
 ## Counterevidence & Qualifications
 
-The concept does not reject administrative standardization as such. Hanji 635 mainly shows the recoding function of renaming, while Hanji 647 shows the legibility-cost failure more directly. The bounded failure is rapid, repeated, and ideologically loaded renaming that creates confusion. Exact office equivalences, commandery counts, county totals, fief geography, and philological readings of each new name remain source-scoped.
+The concept does not reject administrative standardization as such. 汉纪 635 mainly shows the recoding function of renaming, while 汉纪 647 shows the legibility-cost failure more directly. The bounded failure is rapid, repeated, and ideologically loaded renaming that creates confusion. Exact office equivalences, commandery counts, county totals, fief geography, and philological readings of each new name remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 635 as the opening 9 CE renaming layer, where office and place-name change helps recode rule after usurpation.
-- Preserved Hanji 647 as the stronger mature evidence for practical legibility cost.
+- Added 汉纪 635 as the opening 9 CE renaming layer, where office and place-name change helps recode rule after usurpation.
+- Preserved 汉纪 647 as the stronger mature evidence for practical legibility cost.
 
 ## Related Concepts
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 赵凯 / Zhao Kai (late Han)
 
-Zhao Kai is the Jingzhou inspector in [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] who falsely accuses [[YangXuanLateHan|Yang Xuan]] after Yang suppresses bandits from [[CangwuCommanderyLateHan|Cangwu]] and [[GuiyangCommanderyLateHan|Guiyang]]. The accusation claims Yang did not personally win the victory and had falsely reported merit.
+Zhao Kai is the Jingzhou inspector in [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|汉纪 919]] who falsely accuses [[YangXuanLateHan|Yang Xuan]] after Yang suppresses bandits from [[CangwuCommanderyLateHan|Cangwu]] and [[GuiyangCommanderyLateHan|Guiyang]]. The accusation claims Yang did not personally win the victory and had falsely reported merit.
 
 The episode uses Zhao Kai to show how provincial oversight can become a channel of [[CourtFeedbackCollapse|feedback collapse]] when false reports are reinforced by court allies. Yang Xuan's [[BloodLetterVindication|blood-letter vindication]] reverses the accusation, leading [[EmperorLingOfHan|Emperor Ling]] to pardon Yang and punish Zhao Kai for false accusation.
 

@@ -14,7 +14,7 @@ Palace envoy local extraction / 宫使扰民式地方抽取 is the pattern where
 
 ## Current Synthesis
 
-The concept is grounded in [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]]. [[ChenZhongLateHan|陈忠]] criticizes [[EmperorAnOfHan|汉安帝]] for sending palace-linked messengers and [[BoRongLateHan|伯荣]] between Ganling and the capital when disasters, frontier rebellion, poverty, and empty treasury already pressure the population.
+The concept is grounded in [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]]. [[ChenZhongLateHan|陈忠]] criticizes [[EmperorAnOfHan|汉安帝]] for sending palace-linked messengers and [[BoRongLateHan|伯荣]] between Ganling and the capital when disasters, frontier rebellion, poverty, and empty treasury already pressure the population.
 
 The extraction is indirect but real. The source says local administrations repair roads and stations, stockpile supplies, send gifts to attendants, and conscript old and weak people. Bo Rong's formal mission may be ritual, but his perceived palace backing shifts costs onto commanderies, counties, and commoners.
 
@@ -30,14 +30,14 @@ Chen Zhong's warning makes the mechanism political. If the emperor does not corr
 
 ## Evidence
 
-- Crisis background: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Chen Zhong names floods, seawater intrusion, locusts, crop shortfall, Qiang rebellion, poverty, and empty treasury before criticizing the missions.
-- Emissary status: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says princes, marquises, and senior officials bow before Bo Rong, showing status inflation around palace passage.
-- Local extraction: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says roads, stations, supplies, gifts, and labor are mobilized without clear limit.
-- Imperial approval risk: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Chen Zhong warns that failure to ask about Bo Rong's over-honoring will make outsiders assume it is the emperor's will.
+- Crisis background: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Chen Zhong names floods, seawater intrusion, locusts, crop shortfall, Qiang rebellion, poverty, and empty treasury before criticizing the missions.
+- Emissary status: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says princes, marquises, and senior officials bow before Bo Rong, showing status inflation around palace passage.
+- Local extraction: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says roads, stations, supplies, gifts, and labor are mobilized without clear limit.
+- Imperial approval risk: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Chen Zhong warns that failure to ask about Bo Rong's over-honoring will make outsiders assume it is the emperor's will.
 
 ## Counterevidence & Qualifications
 
-This concept is source-bounded to one Hanji 798 case. The source does not prove that every palace mission functioned this way or that Bo Rong personally ordered each burden. The mechanism is inferred from Chen Zhong's criticism of status inflation, local preparation, and imperial non-correction during crisis conditions.
+This concept is source-bounded to one 汉纪 798 case. The source does not prove that every palace mission functioned this way or that Bo Rong personally ordered each burden. The mechanism is inferred from Chen Zhong's criticism of status inflation, local preparation, and imperial non-correction during crisis conditions.
 
 ## What Changed
 
@@ -50,4 +50,4 @@ This concept is source-bounded to one Hanji 798 case. The source does not prove 
 - [[ChenZhongLateHan|陈忠]] - remonstrant who diagnoses the burden and its political meaning.
 - [[PalaceProximityPower|宫廷近身权力]] - broader proximity-power frame that this concept localizes into travel and labor burden.
 - [[BeneficialGovernanceDelivery|惠民实效治理]] - later public-welfare standard that asks whether governance actually reduces household burden.
-- [[ThreeExcellenciesBlameWithoutAuthority|三公无权背责]] - adjacent Hanji 798 institutional failure behind uncorrected court costs.
+- [[ThreeExcellenciesBlameWithoutAuthority|三公无权背责]] - adjacent 汉纪 798 institutional failure behind uncorrected court costs.

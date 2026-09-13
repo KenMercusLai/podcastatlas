@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a 5 CE [[WangMang|王莽]] court atmosphere immediately before the post-[[HanPingdi|汉平帝]] succession sequence in [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]]. After Wang Yun and other envoys report harmonized customs, fabricated songs, and universal moral transformation, the court rewards praise-making officials and makes nonparticipation politically suspicious.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a 5 CE [[WangMang|王莽]] court atmosphere immediately before the post-[[HanPingdi|汉平帝]] succession sequence in [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|汉纪 628]]. After Wang Yun and other envoys report harmonized customs, fabricated songs, and universal moral transformation, the court rewards praise-making officials and makes nonparticipation politically suspicious.
 
 The central contrast is between [[BanZhiWesternHan|班至]] and [[GongsunHongLangyaWesternHan|公孙洪]]. Both fail to join the auspicious-reporting and praise chorus that benefits Wang Mang's circle; [[ZhenFengXinOfficial|甄丰]] pushes local accusation channels against them, 公孙洪 is killed, and 班至 survives only after [[WangZhengjun|王政君]] distinguishes his offense and he voluntarily lowers himself to a cemetery-guard post. The episode turns this into a survival lesson about [[CoercedPraiseConformityRisk|颂圣不合群风险]] and [[PoliticalSurvivalFirst|安全第一政治生存]] under a polluted power field.
 
@@ -43,10 +43,10 @@ The central contrast is between [[BanZhiWesternHan|班至]] and [[GongsunHongLan
 - [[ZhenFengXinOfficial|甄丰]] - Wang Mang-aligned censorial actor who pushes the local accusation process.
 - [[BanJieyuWesternHan|班婕妤]] - family link through which Wang Zhengjun recognizes and protects Ban Zhi.
 - [[CoercedPraiseConformityRisk|颂圣不合群风险]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[AuspiciousOmenPolitics|祥瑞政治]] - the episode's main conceptual contributions.
-- [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] - downstream 5 CE succession and fuming sequence after Pingdi dies.
+- [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|汉纪 628]] - downstream 5 CE succession and fuming sequence after Pingdi dies.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Identity qualification: [[GongsunHongLangyaWesternHan|公孙洪]] here is the Langya administrator killed under Wang Mang's praise-politics pressure and is distinct from [[GongsunHong|公孙弘]], the Han Wudi-era official used in Hanji 925.
+- Identity qualification: [[GongsunHongLangyaWesternHan|公孙洪]] here is the Langya administrator killed under Wang Mang's praise-politics pressure and is distinct from [[GongsunHong|公孙弘]], the Han Wudi-era official used in 汉纪 925.
 - Scope caution: Wang Yun, the other envoys, the named Ming Tang and Biyong builders, full petition wording, local accusers, and Wang Mang's inner motive remain source-scoped unless later notes require canonical pages.

@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[CaoCao|曹操]]'s pre-Yellow-Turban reputation field before [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|Hanji 927]]. It argues that late-Han action required recognized public reputation, so Cao Cao had to overcome both a eunuch-family label through [[CaoSong|曹嵩]] and [[CaoTengLateHan|曹腾]] and a youthful reputation for unruly conduct.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[CaoCao|曹操]]'s pre-Yellow-Turban reputation field before [[zizhi-tongjian-hanji-927-zuo-shengyi-de-zuigao-jingjie-shi-shenme-lngfbjn6xui9k-9lp-ihdqkhpbpr|汉纪 927]]. It argues that late-Han action required recognized public reputation, so Cao Cao had to overcome both a eunuch-family label through [[CaoSong|曹嵩]] and [[CaoTengLateHan|曹腾]] and a youthful reputation for unruly conduct.
 
 The main chain runs through [[HeYongLateHan|何颙]], [[QiaoXuanLateHan|桥玄]], and [[XuShao|许劭]]. He Yong's early praise and Qiao Xuan's senior endorsement give Cao Cao elite backing, while Xu Shao's monthly appraisal culture turns the ambiguous "治世之能臣，乱世之奸雄" judgment into a portable public label; Cao Cao's earlier killing of [[JianShuoLateHan|蹇硕]]'s uncle as Luoyang north commandant then becomes a conduct signal aimed against his inherited eunuch association.
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 Official Duty Over Patron Command / 守职胜私命 is the pattern where a subordinate rejects an immediate superior's self-protective or factional order because the office-duty frame remains stronger than private service, fear, or gratitude.
 
 ## Current Synthesis
-Hanji 1055 defines the pattern through [[ChengJiLateHan|程畿]] and [[PangXiLateHan|庞羲]]. Pang Xi has real reasons to fear [[LiuZhang|刘璋]]: force, local ties, prior Liu-family favor, and household marriage links all make him vulnerable to suspicion. Cheng Ji does not deny Pang Xi's danger, but he refuses the proposed armed response. His line is that slander and suspicion require loyal clarification, not double-minded mobilization. The concept therefore names a narrow but important late-Han restraint mechanism: office language can still interrupt patron-driven militarization.
+汉纪 1055 defines the pattern through [[ChengJiLateHan|程畿]] and [[PangXiLateHan|庞羲]]. Pang Xi has real reasons to fear [[LiuZhang|刘璋]]: force, local ties, prior Liu-family favor, and household marriage links all make him vulnerable to suspicion. Cheng Ji does not deny Pang Xi's danger, but he refuses the proposed armed response. His line is that slander and suspicion require loyal clarification, not double-minded mobilization. The concept therefore names a narrow but important late-Han restraint mechanism: office language can still interrupt patron-driven militarization.
 
 ## Key Claims
 - A patron's fear does not automatically legitimate a subordinate's participation in armed self-protection.
@@ -23,15 +23,15 @@ Hanji 1055 defines the pattern through [[ChengJiLateHan|程畿]] and [[PangXiLat
 - The pattern reduces immediate militarization but depends on a superior still being reachable by moral pressure.
 
 ## Evidence
-- Fear does not override office: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] has Cheng Ji refuse Pang Xi's request to gather Cong forces despite the danger Pang Xi perceives from Liu Zhang.
-- Service and refusal can coexist: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] presents Cheng Ji as willing to serve Pang Xi in a proper official capacity but unwilling to join the proposed unrighteous act.
-- Moral precedent lowers the cost of refusal: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] reports Cheng Ji's Le Yang comparison and Pang Xi's subsequent apology.
+- Fear does not override office: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] has Cheng Ji refuse Pang Xi's request to gather Cong forces despite the danger Pang Xi perceives from Liu Zhang.
+- Service and refusal can coexist: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] presents Cheng Ji as willing to serve Pang Xi in a proper official capacity but unwilling to join the proposed unrighteous act.
+- Moral precedent lowers the cost of refusal: [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] reports Cheng Ji's Le Yang comparison and Pang Xi's subsequent apology.
 
 ## Counterevidence & Qualifications
 This is not a general claim that office-duty rhetoric always beats patronage or fear. The case works because Pang Xi remains persuadable, Cheng Ji has enough standing to speak, and Liu Zhang later rewards the loyalty signal. In a harsher coercive setting, refusal might fail or simply destroy the subordinate.
 
 ## What Changed
-- Created the concept from Cheng Ji's refusal in Hanji 1055.
+- Created the concept from Cheng Ji's refusal in 汉纪 1055.
 
 ## Related Concepts
 - [[CourtLegitimacyOverPatronLoyalty|朝廷名分高于私人恩主]] - broader legitimacy pattern where court authority outranks a private patron; this concept is narrower and centered on office-duty refusal inside a provincial chain.

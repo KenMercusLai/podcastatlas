@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 历阳 / Liyang (late Han)
 
-历阳 / Liyang (late Han) enters the wiki through [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] as the point where [[SunCe|孙策]]'s initially small expedition has already grown to roughly five or six thousand people. The page uses `LiyangLateHan` to avoid collision with [[LiyangQinHan|栎阳]], the different Qin-Han place already in the wiki.
+历阳 / Liyang (late Han) enters the wiki through [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|汉纪 992]] as the point where [[SunCe|孙策]]'s initially small expedition has already grown to roughly five or six thousand people. The page uses `LiyangLateHan` to avoid collision with [[LiyangQinHan|栎阳]], the different Qin-Han place already in the wiki.
 
 The source makes Liyang a growth marker. Sun Ce leaves [[YuanShu|袁术]] under the stated mission of helping [[WuJingLateHan|吴景]], recruits along the route, and reaches Liyang with enough manpower for [[ZhouYuLateHan|周瑜]]'s later support to turn into a real cross-river campaign.
 

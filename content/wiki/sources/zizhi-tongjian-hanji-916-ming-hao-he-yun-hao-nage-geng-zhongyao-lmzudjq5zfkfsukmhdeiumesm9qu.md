@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》916丨命好和运好哪个更重要？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 179 CE late-Han layer immediately before [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|Hanji 917]]. It opens with [[FateChangeThroughVirtuePractice|命运可修的行动框架]], then follows [[YuGuirenLateHan|于贵人]]'s funeral as [[CaoJieLateHan|曹节]] turns the public humiliation of [[WangFuLateHan|王甫]]'s corpse into a palace-side regrouping against [[YangQiuLateHan|阳球]]. The second half explains [[ShangshuTaiImperialAccess|尚书台近侍权力]] and records [[ShenZhongLateHan|沈忠]]'s shelved memorial against [[ZhuYuLateHan|朱瑀]] and wider eunuch corruption, sharpening [[CourtFeedbackCollapse|君臣反馈失灵]] before the Hanji 917-918 backlash.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 179 CE late-Han layer immediately before [[zizhi-tongjian-hanji-917-ruhe-xunsu-zhaodao-shengzhi-jiaxin-de-pojudian-lk2zt5c3onvui9a4ppbowshy66tg|汉纪 917]]. It opens with [[FateChangeThroughVirtuePractice|命运可修的行动框架]], then follows [[YuGuirenLateHan|于贵人]]'s funeral as [[CaoJieLateHan|曹节]] turns the public humiliation of [[WangFuLateHan|王甫]]'s corpse into a palace-side regrouping against [[YangQiuLateHan|阳球]]. The second half explains [[ShangshuTaiImperialAccess|尚书台近侍权力]] and records [[ShenZhongLateHan|沈忠]]'s shelved memorial against [[ZhuYuLateHan|朱瑀]] and wider eunuch corruption, sharpening [[CourtFeedbackCollapse|君臣反馈失灵]] before the 汉纪 917-918 backlash.
 
 ## Key Claims
 - The opening distinguishes fixed "命" from changeable "运"; its practical focus is self-knowledge, action, and effort, while its faith/energy claims remain source-scoped worldview material.
@@ -38,9 +38,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[CaoJieLateHan]], [[WangFuLateHan]], [[YangQiuLateHan]], and [[ZhuYuLateHan]] - the main late-Han factional sequence turns on Wang Fu's corpse, Cao Jie's regrouping, Yang Qiu's transfer, and Zhu Yu's restored risk field.
 - [[ShangshuTaiImperialAccess]], [[PalaceAccessMonopoly]], and [[CourtOfficeCapture]] - the shangshu ling explanation shows how document routing and ruler access translate into practical power.
 - [[ShenZhongLateHan]], [[CourtFeedbackCollapse]], [[DeathDefyingRemonstrance]], and [[CelestialOmenPoliticalResponsibility]] - Shen Zhong's memorial demonstrates severe warning that reaches the court without forcing correction.
-- [[EmperorLingOfHan]] and [[TenAttendantsLateHan]] - the episode extends the emperor/eunuch governance pattern that later Hanji 917-918 episodes continue.
+- [[EmperorLingOfHan]] and [[TenAttendantsLateHan]] - the episode extends the emperor/eunuch governance pattern that later 汉纪 917-918 episodes continue.
 
 ## Contradictions
 - No settled contradiction with existing wiki pages was found.
-- Chronology note: this episode backfills a 179 CE layer before already-ingested Hanji 917-918; it adds the funeral, shangshu ling, and Shen Zhong setup without reversing those pages.
+- Chronology note: this episode backfills a 179 CE layer before already-ingested 汉纪 917-918; it adds the funeral, shangshu ling, and Shen Zhong setup without reversing those pages.
 - Source-scoped caution: the opening faith, energy, and fate-change claims are host worldview/interpretation rather than an empirical finding.

@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 左承祖 / Zuo Chengzu
 
-左承祖 / Zuo Chengzu enters the wiki through [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] as one of the respected figures received by [[KongRong|孔融]] in [[BeihaiCommandery|北海郡]]. When Kong Rong is short of troops and grain under Yellow Turban pressure, Zuo Chengzu advises him to attach himself to a stronger neighboring power instead of remaining isolated.
+左承祖 / Zuo Chengzu enters the wiki through [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|汉纪 1007]] as one of the respected figures received by [[KongRong|孔融]] in [[BeihaiCommandery|北海郡]]. When Kong Rong is short of troops and grain under Yellow Turban pressure, Zuo Chengzu advises him to attach himself to a stronger neighboring power instead of remaining isolated.
 
 The source treats Zuo Chengzu's death as the central evidence against Kong Rong's political judgment. The advice is not presented as betrayal; it is a realistic reading of weak local capacity. Kong Rong's decision to kill the adviser turns strategic correction into a capital offense and causes [[LiuYixun|刘义逊]] to leave.
 

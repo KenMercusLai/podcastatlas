@@ -8,11 +8,11 @@ last_updated: 2026-08-25
 
 # 三国斗争策略读法 / Three Kingdoms Struggle Strategy Reading
 
-三国斗争策略读法 is the reading frame defined by [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]]. It treats the [[ThreeKingdomsPeriod|三国时代]] as a long-running strategy field rather than only a gallery of heroes, famous battles, or moralized anecdotes.
+三国斗争策略读法 is the reading frame defined by [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|汉纪 923 plus]]. It treats the [[ThreeKingdomsPeriod|三国时代]] as a long-running strategy field rather than only a gallery of heroes, famous battles, or moralized anecdotes.
 
 The frame emphasizes repeated conflict under unstable conditions: single-party and multi-party games, internal and external struggle, friends becoming enemies, enemies becoming temporary partners, and actors whose value cannot be judged by one isolated win or loss. It therefore connects the show's later [[ZizhiTongjian|《资治通鉴》]] arc to [[ClassicReadingComplexity]]: the reader should keep source evidence, human motives, literary memory, and political strategy separate enough to think.
 
-This concept is source-scoped. Hanji 923 plus sets the method; later episodes must provide the concrete cases. Its boundary is [[FictionAsHistoricalEvidence]]: [[RomanceOfTheThreeKingdoms|《三国演义》]] can explain popular memory, but it should not replace chronicle-source analysis when assigning actions, motives, or event responsibility.
+This concept is source-scoped. 汉纪 923 plus sets the method; later episodes must provide the concrete cases. Its boundary is [[FictionAsHistoricalEvidence]]: [[RomanceOfTheThreeKingdoms|《三国演义》]] can explain popular memory, but it should not replace chronicle-source analysis when assigning actions, motives, or event responsibility.
 
 ## Key Claims
 
@@ -24,7 +24,7 @@ This concept is source-scoped. Hanji 923 plus sets the method; later episodes mu
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]] - source episode.
+- [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|汉纪 923 plus]] - source episode.
 - [[ThreeKingdomsPeriod|三国时代]] - historical-period field named by the concept.
 - [[ZizhiTongjian|《资治通鉴》]] and [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] - source text and podcast method.
 - [[RomanceOfTheThreeKingdoms|《三国演义》]], [[FictionAsHistoricalEvidence]], and [[ClassicReadingComplexity]] - reception, evidence, and reading guardrails.

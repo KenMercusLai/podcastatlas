@@ -22,7 +22,7 @@ Chen Lin is not yet a full literary biography in the bounded evidence. In the He
 
 In the Yuan Shao branch, Chen Lin's role shifts from warning against escalation to writing inside escalation. Against Zang Hong, Yuan Shao uses him to articulate the costs of resistance after the failed rescue of [[ZhangChaoLateHan|张超]]. Before Guandu, Yuan Shao orders him to write the anti-Cao proclamation that attacks Cao Cao's treatment of loyal officials, control of the emperor, Xuzhou violence, tomb-robbing offices, and eunuch-descended ingratitude. The current synthesis therefore treats Chen Lin as a text-power figure: writing can clarify a conflict's moral and strategic stakes, but it cannot substitute for command ability or ruler judgment.
 
-Hanji 1069 adds the surrender side of the same proclamation. After Yuan Shao's camp loses and Yuan Tan is defeated, Chen Lin submits to Cao Cao. Cao Cao questions why the proclamation attacked his father and grandfather as well as himself, but Chen Lin explains it as compelled service to his former patron. The page now reads Chen Lin as a reusable literary asset: his earlier hostility makes Cao Cao's later pardon more visible, while his writing skill becomes part of Cao's post-Yuan talent absorption.
+汉纪 1069 adds the surrender side of the same proclamation. After Yuan Shao's camp loses and Yuan Tan is defeated, Chen Lin submits to Cao Cao. Cao Cao questions why the proclamation attacked his father and grandfather as well as himself, but Chen Lin explains it as compelled service to his former patron. The page now reads Chen Lin as a reusable literary asset: his earlier hostility makes Cao Cao's later pardon more visible, while his writing skill becomes part of Cao's post-Yuan talent absorption.
 
 ## Key Characteristics
 - Late-Han document and advice figure tied to high-risk political escalation.
@@ -33,19 +33,19 @@ Hanji 1069 adds the surrender side of the same proclamation. After Yuan Shao's c
 - Becomes a surrender-and-reuse case when Cao Cao pardons him and keeps his pen inside the new hierarchy.
 
 ## Evidence
-- Anti-escalation warning: [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|Hanji 944]] gives Chen Lin's detailed warning that He Jin already controls enough force and should not invite outside armies into the eunuch conflict.
-- Ignored warning voice: [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] places Chen Lin with Cao Cao among the voices He Jin ignores before outside forces approach Luoyang.
-- Persuasion letter: [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|Hanji 996]] has Yuan Shao ask Chen Lin to write to Zang Hong after Zang Hong refuses Yuan over Zhang Chao's destruction.
-- Anti-Cao proclamation: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] says Yuan Shao orders Chen Lin, named as 主簿, to write a proclamation listing Cao Cao's major crimes and circulating the indictment through the realm.
-- Rhetoric versus command: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] reports Cao Cao's response that strong writing still has to be matched by real ability and military command.
-- Surrender explanation: [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|Hanji 1069]] revisits the proclamation after Chen Lin's surrender and records his "arrow on the string" explanation as compelled service to Yuan Shao.
-- Talent conversion: [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|Hanji 1069]] says Cao Cao pardons Chen Lin and continues to use him for official writing, turning an enemy propaganda asset into Cao-side capacity.
+- Anti-escalation warning: [[zizhi-tongjian-hanji-944-xiang-zai-luanshi-zhong-cunhuo-xian-guan-zhu-zui-lp7omiak9mpcigrj4f1nummfwntr|汉纪 944]] gives Chen Lin's detailed warning that He Jin already controls enough force and should not invite outside armies into the eunuch conflict.
+- Ignored warning voice: [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|汉纪 945]] places Chen Lin with Cao Cao among the voices He Jin ignores before outside forces approach Luoyang.
+- Persuasion letter: [[zizhi-tongjian-hanji-996-luanshi-zanghong-jiangyiqi-de-ren-xiachang-zui-biequ-lgpa-m6h6bvhyintnuj6zztopui76|汉纪 996]] has Yuan Shao ask Chen Lin to write to Zang Hong after Zang Hong refuses Yuan over Zhang Chao's destruction.
+- Anti-Cao proclamation: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] says Yuan Shao orders Chen Lin, named as 主簿, to write a proclamation listing Cao Cao's major crimes and circulating the indictment through the realm.
+- Rhetoric versus command: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] reports Cao Cao's response that strong writing still has to be matched by real ability and military command.
+- Surrender explanation: [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|汉纪 1069]] revisits the proclamation after Chen Lin's surrender and records his "arrow on the string" explanation as compelled service to Yuan Shao.
+- Talent conversion: [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|汉纪 1069]] says Cao Cao pardons Chen Lin and continues to use him for official writing, turning an enemy propaganda asset into Cao-side capacity.
 
 ## Qualifications
-The sources do not reconstruct Chen Lin's full career or corpus. Hanji 1043's headache-cure story is kept as episode-level framing for the proclamation's force, not independent proof of Cao Cao's medical condition or private fear. The content of the anti-Cao indictment is politically polemical, so this page records its function and claims without treating every accusation as neutral fact. Hanji 1069's account of Cao Cao's laughter and motive is likewise treated as episode-level interpretation of pardon and talent use.
+The sources do not reconstruct Chen Lin's full career or corpus. 汉纪 1043's headache-cure story is kept as episode-level framing for the proclamation's force, not independent proof of Cao Cao's medical condition or private fear. The content of the anti-Cao indictment is politically polemical, so this page records its function and claims without treating every accusation as neutral fact. 汉纪 1069's account of Cao Cao's laughter and motive is likewise treated as episode-level interpretation of pardon and talent use.
 
 ## What Changed
-- Added Hanji 1069's surrender-and-reuse angle after the Guandu proclamation.
+- Added 汉纪 1069's surrender-and-reuse angle after the Guandu proclamation.
 - Reframed Chen Lin's hostile writing as a talent asset that Cao Cao can absorb after victory.
 
 ## Relationships

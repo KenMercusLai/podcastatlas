@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 176-177 CE late-Han layer immediately before [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]]. It opens with a source-scoped self-cultivation claim that many "heart illnesses" come from misreading people, overinvesting in weak relationships, and lacking high-quality solitude, then turns to [[CaoLuanLateHan|曹鸾]]'s failed memorial defending party figures. [[EmperorLingOfHan|汉灵帝]] responds by arresting and killing Cao Luan and expanding party-prohibition liability to students, old subordinates, close kin, and five-degree relatives, making the episode a case of [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]], [[CourtFeedbackCollapse|君臣反馈失灵]], and disaster-omen remonstrance through [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 176-177 CE late-Han layer immediately before [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|汉纪 908]]. It opens with a source-scoped self-cultivation claim that many "heart illnesses" come from misreading people, overinvesting in weak relationships, and lacking high-quality solitude, then turns to [[CaoLuanLateHan|曹鸾]]'s failed memorial defending party figures. [[EmperorLingOfHan|汉灵帝]] responds by arresting and killing Cao Luan and expanding party-prohibition liability to students, old subordinates, close kin, and five-degree relatives, making the episode a case of [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]], [[CourtFeedbackCollapse|君臣反馈失灵]], and disaster-omen remonstrance through [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]].
 
 ## Key Claims
 
@@ -44,9 +44,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[PartyProhibitionKinshipNarrowing|党锢亲属牵连缩限]], [[PartyBanCrisisAmnesty|党锢危机赦免]], and [[PartyProhibitionRehabilitation|党人翻案合法性]] - later partial repairs or legitimacy uses of the grievance created by this repressive branch.
 - [[LiuKuanLateHan|刘宽]], [[YangCiLateHan|杨赐]], and [[YuanWeiLateHan|袁隗]] - senior-office churn surrounding the 176-177 political field.
 - [[LiuBei|刘备]], [[GongsunZan|公孙瓒]], and [[LuZhiLateHan|卢植]] - early shared-study branch before later Three Kingdoms careers.
-- [[Xianbei|鲜卑]] and [[YouzhouLateHan|幽州]] - recurring northern frontier pressure before the failed deep expedition in Hanji 909.
+- [[Xianbei|鲜卑]] and [[YouzhouLateHan|幽州]] - recurring northern frontier pressure before the failed deep expedition in 汉纪 909.
 - [[YangQiuLateHan|阳球]] - transcript "杨求" is normalized to the existing canonical late-Han official, whose 177 harsh-law case precedes his later anti-Hongdu and anti-eunuch branches.
-- [[HongduMenxue|鸿都门学]], [[Taixue|太学]], [[OfficialSelectionChannelCompetition|选官通道竞争]], and [[FilialMourningAccessCredential|守陵孝行进身凭证]] - favored literary/artistic credentials and false filial-display access before Cai Yong's Hanji 908 memorial.
+- [[HongduMenxue|鸿都门学]], [[Taixue|太学]], [[OfficialSelectionChannelCompetition|选官通道竞争]], and [[FilialMourningAccessCredential|守陵孝行进身凭证]] - favored literary/artistic credentials and false filial-display access before Cai Yong's 汉纪 908 memorial.
 - [[SelfGeneratedEmotionalCapacity|内在自生的情绪价值]] and [[MeditativeStabilityPractice|定力修行框架]] - adjacent source-scoped self-cultivation frames rather than historical claims.
 
 ## Contradictions

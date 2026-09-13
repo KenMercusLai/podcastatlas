@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 秦宜禄 / Qin Yilu
 
-秦宜禄 / Qin Yilu enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] as a subordinate of [[LyuBu|吕布]] and the original husband of [[LadyDuCaoCao|杜夫人]]. The episode says that after he leaves [[Xiapi|下邳]], [[YuanShu|袁术]] detains him and marries him to a woman from Yuan Shu's clan.
+秦宜禄 / Qin Yilu enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] as a subordinate of [[LyuBu|吕布]] and the original husband of [[LadyDuCaoCao|杜夫人]]. The episode says that after he leaves [[Xiapi|下邳]], [[YuanShu|袁术]] detains him and marries him to a woman from Yuan Shu's clan.
 
 His absence makes Lady Du politically exposed. She remains in Xiapi with [[QinLang|秦朗]], and after the city falls both [[GuanYu|关羽]] and [[CaoCao|曹操]] become part of the contest over her future.
 

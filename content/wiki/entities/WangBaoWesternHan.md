@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-王褒 / Wang Bao enters the wiki through [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] as a Western Han writer from Shu commandery whose talent brings him into [[EmperorXuanOfHan|汉宣帝]]'s court-literary field. The episode first places him in Xuan's search for Yizhou gold-horse and jade-rooster spirits, then centers his [[ShengzhuDeXianchenSong|《圣主得贤臣颂》]] as a literary statement about how rulers and worthy ministers mutually complete one another.
+王褒 / Wang Bao enters the wiki through [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] as a Western Han writer from Shu commandery whose talent brings him into [[EmperorXuanOfHan|汉宣帝]]'s court-literary field. The episode first places him in Xuan's search for Yizhou gold-horse and jade-rooster spirits, then centers his [[ShengzhuDeXianchenSong|《圣主得贤臣颂》]] as a literary statement about how rulers and worthy ministers mutually complete one another.
 
 ## Current Profile
 
@@ -29,19 +29,19 @@ In the social-history layer, the episode points to [[TongyueWangBao|《僮约》
 ## Evidence
 
 Court access and Xuan-era literary culture:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] says Xuan hears of Wang Bao's talent and asks him to write the ode.
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] places Wang Bao against Xuan's interest in classics, poetry, music, and fu.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] says Xuan hears of Wang Bao's talent and asks him to write the ode.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] places Wang Bao against Xuan's interest in classics, poetry, music, and fu.
 
 Personnel thesis in the ode:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] says the ode treats worthy talent as the state's useful instrument rather than a decorative moral label.
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] summarizes the ode's reciprocal claim: the sage ruler needs a worthy minister, and the worthy minister needs a ruler who can recognize and use him.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] says the ode treats worthy talent as the state's useful instrument rather than a decorative moral label.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] summarizes the ode's reciprocal claim: the sage ruler needs a worthy minister, and the worthy minister needs a ruler who can recognize and use him.
 
 Social-history afterlife:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] says [[TongyueWangBao|《僮约》]] is especially valuable for Han-era Sichuan social life and early tea history.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] says [[TongyueWangBao|《僮约》]] is especially valuable for Han-era Sichuan social life and early tea history.
 
 ## Qualifications
 
-This is not a full Wang Bao biography. Hanji 433 supplies his Shu commandery origin, court notice, the political reading of [[ShengzhuDeXianchenSong|《圣主得贤臣颂》]], and the social-history value of [[TongyueWangBao|《僮约》]], but it does not reconstruct his complete career, textual corpus, manuscript history, or later literary reception.
+This is not a full Wang Bao biography. 汉纪 433 supplies his Shu commandery origin, court notice, the political reading of [[ShengzhuDeXianchenSong|《圣主得贤臣颂》]], and the social-history value of [[TongyueWangBao|《僮约》]], but it does not reconstruct his complete career, textual corpus, manuscript history, or later literary reception.
 
 ## What Changed
 

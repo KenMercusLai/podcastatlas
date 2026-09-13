@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-陈寿 / Chen Shou is a Huan-era Taishi ling in [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]], disambiguated here from [[ChenShou|陈寿]] the Three Kingdoms historian. The source records him blaming a 158 CE solar eclipse on [[LiangJiLateHan|梁冀]], after which Liang has him arrested, tortured, and killed in prison.
+陈寿 / Chen Shou is a Huan-era Taishi ling in [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|汉纪 843]], disambiguated here from [[ChenShou|陈寿]] the Three Kingdoms historian. The source records him blaming a 158 CE solar eclipse on [[LiangJiLateHan|梁冀]], after which Liang has him arrested, tortured, and killed in prison.
 
 ## Current Profile
 
@@ -26,9 +26,9 @@ The current wiki profile is source-bounded to one court-persecution scene. Chen 
 
 ## Evidence
 
-- Omen accusation: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]] says Taishi ling Chen Shou reports through Xu Huang that the eclipse's responsibility lies with Liang Ji.
-- Retaliation and death: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]] says Liang Ji has the Luoyang magistrate arrest and torture Chen Shou, who dies in prison.
-- Ruler non-action: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|Hanji 843]] says Emperor Huan knows of the case but does not act against Liang in this layer.
+- Omen accusation: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|汉纪 843]] says Taishi ling Chen Shou reports through Xu Huang that the eclipse's responsibility lies with Liang Ji.
+- Retaliation and death: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|汉纪 843]] says Liang Ji has the Luoyang magistrate arrest and torture Chen Shou, who dies in prison.
+- Ruler non-action: [[zizhi-tongjian-hanji-843-gudai-nongmin-pinkun-de-genyuan-shi-shenme-lutep8yyzanhlb4ao6sope-8edvy|汉纪 843]] says Emperor Huan knows of the case but does not act against Liang in this layer.
 
 ## Qualifications
 
@@ -36,7 +36,7 @@ The page is bounded to one podcast source note and should not be merged with the
 
 ## What Changed
 
-- Created this disambiguated Huan-era Taishi ling page from Hanji 843.
+- Created this disambiguated Huan-era Taishi ling page from 汉纪 843.
 
 ## Relationships
 

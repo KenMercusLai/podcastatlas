@@ -16,7 +16,7 @@ The "三制" define refusal boundaries. A general may choose death rather than s
 
 [[zizhi-tongjian-qinji-99-4-shui-shi-kongzi-hou-zui-weidade-sixiangjia-lr4phoq9chc4tz0yb8y95gy21qdd]] broadens the restraint frame from refusal to everyday command discipline. The source adds that a general should not be delighted by the ruler's reward or angered by enemy provocation, should treat completion as carefully as beginning, and should maintain vigilance across planning, administration, officials, troops, and enemies. It also stresses signal discipline: advancing without permission and retreating without permission are equally punishable because army order matters more than individual boldness.
 
-[[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] adds a late-Han reverse case through [[LiuYuLateHan|刘虞]]. Liu Yu wants a restrained attack that spares civilians and targets only [[GongsunZan|公孙瓒]], but the source says his army lacks the discipline to implement it. The case does not weaken the restraint doctrine; it shows why restraint has to become command design, training, and signal control.
+[[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|汉纪 972]] adds a late-Han reverse case through [[LiuYuLateHan|刘虞]]. Liu Yu wants a restrained attack that spares civilians and targets only [[GongsunZan|公孙瓒]], but the source says his army lacks the discipline to implement it. The case does not weaken the restraint doctrine; it shows why restraint has to become command design, training, and signal control.
 
 ## Key Claims
 - Command legitimacy depends on careful weighing, not only courage or obedience.
@@ -24,7 +24,7 @@ The "三制" define refusal boundaries. A general may choose death rather than s
 - Refusing a ruler can be required when terrain, odds, or people-protection make an order destructive.
 - The doctrine links military professionalism to [[PeopleBasedPoliticalSecurity|people-based political security]]: abusing the people undermines the same legitimacy that makes armies effective.
 - Qinji 99 part 4 adds emotional restraint, signal obedience, and constant vigilance as the ordinary disciplines that make command reliable before any heroic refusal is needed.
-- Hanji 972 adds that humane limits fail when troops do not have the disciplined mechanism needed to obey them under combat pressure.
+- 汉纪 972 adds that humane limits fail when troops do not have the disciplined mechanism needed to obey them under combat pressure.
 
 ## Connections
 - [[Xunzi|荀子]], [[XunziText|《荀子》]], [[LinwuJun|临武君]], and [[ZhaoDan|赵丹 / 赵孝成王]] - source setting and debate.

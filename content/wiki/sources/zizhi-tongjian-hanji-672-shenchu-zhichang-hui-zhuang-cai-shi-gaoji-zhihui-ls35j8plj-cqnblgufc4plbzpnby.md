@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate post-[[WangLangHebeiClaimant|王郎]] / Handan moment before [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]]. After Li Li opens Handan and Wang Lang is killed in flight, [[LiuXiu|刘秀]] finds letters from his own officials and acquaintances to Wang Lang, burns them in public, and announces no retroactive pursuit so wavering insiders can settle. The episode compares this with [[CaoCao|曹操]] burning correspondence after the [[GuanduCampaign|Guandu Campaign]] and with [[KangxiEmperor|康熙]] after the Three Feudatories crisis, then adds [[FengYiEasternHan|冯异]]'s "Big Tree General" humility and [[LiuXuanGengshiEmperor|刘玄]]'s title-demobilization-recall order as the setup for the next episode.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate post-[[WangLangHebeiClaimant|王郎]] / Handan moment before [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]]. After Li Li opens Handan and Wang Lang is killed in flight, [[LiuXiu|刘秀]] finds letters from his own officials and acquaintances to Wang Lang, burns them in public, and announces no retroactive pursuit so wavering insiders can settle. The episode compares this with [[CaoCao|曹操]] burning correspondence after the [[GuanduCampaign|Guandu Campaign]] and with [[KangxiEmperor|康熙]] after the Three Feudatories crisis, then adds [[FengYiEasternHan|冯异]]'s "Big Tree General" humility and [[LiuXuanGengshiEmperor|刘玄]]'s title-demobilization-recall order as the setup for the next episode.
 
 ## Key Claims
 
@@ -26,7 +26,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - The historical-comparison section treats reading history as a practical case library for recognizing similar organizational and political situations.
 - Feng Yi's "Big Tree General" image is tied to humility: he does not boast of merit, lets his troops stay behind when not fighting, and sits alone under a tree while other generals gather.
 - Zhu Hu's imperial-destiny talk is immediately suppressed by Liu Xiu, which the episode interprets as caution against exposing ambition too early.
-- Liu Xuan's envoy grants Liu Xiu a Xiao-wang title, orders demobilization, summons Liu Xiu and meritorious generals to Chang'an, and appoints Miao Zeng, Wei Shun, and Cai Chong to northern posts, creating the political pressure Hanji 673 develops.
+- Liu Xuan's envoy grants Liu Xiu a Xiao-wang title, orders demobilization, summons Liu Xiu and meritorious generals to Chang'an, and appoints Miao Zeng, Wei Shun, and Cai Chong to northern posts, creating the political pressure 汉纪 673 develops.
 
 ## Key Quotes
 
@@ -34,7 +34,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 > "大树将军" - Feng Yi's reputation label in the source.
 
-> "刘秀会去吗" - closing question that sets up Hanji 673.
+> "刘秀会去吗" - closing question that sets up 汉纪 673.
 
 ## Connections
 
@@ -43,11 +43,11 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[KangxiEmperor|康熙]] - the Three Feudatories comparison remains source-scoped as a later analogy for destroying evidence that could destabilize officials.
 - [[HistoricalPrecedentCrisisPlanning|历史先例式危机规划]] - the host explicitly treats repeated historical cases as a guide for similar present decisions.
 - [[FengYiEasternHan|冯异]] - the "Big Tree General" branch adds an early humility and troop-ordering layer to his command profile.
-- [[LiuXuanGengshiEmperor|更始帝刘玄]] and [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|Hanji 673]] - Liu Xuan's demobilization and recall package is the direct cliffhanger for Liu Xiu's refusal in the next note.
+- [[LiuXuanGengshiEmperor|更始帝刘玄]] and [[zizhi-tongjian-hanji-673-diwang-quanmou-shienshu-rang-xiashu-dui-ni-sixintadi-lrmv-gchamvgmui8keducozwshghd|汉纪 673]] - Liu Xuan's demobilization and recall package is the direct cliffhanger for Liu Xiu's refusal in the next note.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the missing immediate predecessor to Hanji 673.
-- Chronology qualification: Hanji 699 PLUS previously summarized the Wang Lang letter-burning trust scene; this note supplies the concrete Handan sequence and should be read as the direct case rather than a different event.
+- No settled contradiction with existing wiki content was found. This source backfills the missing immediate predecessor to 汉纪 673.
+- Chronology qualification: 汉纪 699 PLUS previously summarized the Wang Lang letter-burning trust scene; this note supplies the concrete Handan sequence and should be read as the direct case rather than a different event.
 - Identity normalization: the transcript's 冯毅 is routed to [[FengYiEasternHan|冯异]], and 刘璇 is routed to [[LiuXuanGengshiEmperor|刘玄]] based on the adjacent Gengshi-Liu Xiu chronology.
 - Scope caution: Li Li, Zhu Hu, Miao Zeng, Wei Shun, Cai Chong, the Xiao-wang title rendering, Wu Sangui, exact Three Feudatories correspondence details, and the host's workplace-management framing remain source-scoped unless later notes require canonical pages.

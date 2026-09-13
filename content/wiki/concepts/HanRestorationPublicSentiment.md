@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] grounds the concept in [[FengYanEasternHan|冯衍]]'s advice to [[LianDanXinGeneral|廉丹]]. Feng Yan argues that when Xin rose, heroes did not sincerely submit, and now that Xin is collapsing, ordinary people remember Han favors. His counsel is practical: Lian Dan should gather forces, soothe officials, recruit capable actors, and avoid dying with the official army.
+[[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] grounds the concept in [[FengYanEasternHan|冯衍]]'s advice to [[LianDanXinGeneral|廉丹]]. Feng Yan argues that when Xin rose, heroes did not sincerely submit, and now that Xin is collapsing, ordinary people remember Han favors. His counsel is practical: Lian Dan should gather forces, soothe officials, recruit capable actors, and avoid dying with the official army.
 
 The concept is narrower than general [[MandateOfHeavenLegitimacy|mandate of Heaven legitimacy]]. It names a social-political reading: a restoration claim becomes useful when current rule is experienced as famine, abuse, corruption, and command failure, while the previous dynasty remains available as a memory of order.
 
@@ -27,9 +27,9 @@ The concept is narrower than general [[MandateOfHeavenLegitimacy|mandate of Heav
 
 ## Evidence
 
-- Feng Yan's diagnosis: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says Feng Yan tells Lian Dan that heroes did not sincerely accept Xin and that people remember Han favors.
-- Practical advice: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says Feng Yan urges Lian Dan to hold troops, comfort officials, recruit heroes, and avoid destruction in the field.
-- Crisis backdrop: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] places the advice after famine, Chimei growth, official-army abuse, and relief corruption.
+- Feng Yan's diagnosis: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] says Feng Yan tells Lian Dan that heroes did not sincerely accept Xin and that people remember Han favors.
+- Practical advice: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] says Feng Yan urges Lian Dan to hold troops, comfort officials, recruit heroes, and avoid destruction in the field.
+- Crisis backdrop: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] places the advice after famine, Chimei growth, official-army abuse, and relief corruption.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ The source supports Feng Yan's political diagnosis, not a measurement of all pub
 
 ## What Changed
 
-- Created the concept from Hanji 660-2 as Feng Yan's public-sentiment explanation for why Xin officers might abandon Wang Mang.
+- Created the concept from 汉纪 660-2 as Feng Yan's public-sentiment explanation for why Xin officers might abandon Wang Mang.
 
 ## Related Concepts
 

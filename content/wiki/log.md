@@ -12,7 +12,7 @@ Added source `zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-h
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！
 
-Added source page for Hanji 439: Zhao Chongguo's cautious Qiang-frontier policy, court persuasion, refusal of low-yield attack, 河湟屯田, infrastructure building, and surrender results, with Zhu Yi's clean-official memory as the closing civil-service contrast. Created Zhu Yi; updated Zhao Chongguo and frontier resource integration. No settled contradiction found; exact campaign counts, construction details, and the Tongxiang place note remain source-scoped.
+Added source page for 汉纪 439: Zhao Chongguo's cautious Qiang-frontier policy, court persuasion, refusal of low-yield attack, 河湟屯田, infrastructure building, and surrender results, with Zhu Yi's clean-official memory as the closing civil-service contrast. Created Zhu Yi; updated Zhao Chongguo and frontier resource integration. No settled contradiction found; exact campaign counts, construction details, and the Tongxiang place note remain source-scoped.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜
 
@@ -81,7 +81,7 @@ Added source `master-self-control-overcome-procrastination-dr-kentaro-fujita-sci
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》488丨易学大师京房，如何深陷必死局？
 
-Added source note for Hanji 488 and updated Jing Fang into synthesis-v1. Created disambiguated Western Han pages for Zhang Bo, Liu Qing, Zheng Hong, Wei Xuancheng, Wulu Chongzong, and Gong Yu, plus the Kaogongfa Reform Backlash concept. No settled contradiction found.
+Added source note for 汉纪 488 and updated Jing Fang into synthesis-v1. Created disambiguated Western Han pages for Zhang Bo, Liu Qing, Zheng Hong, Wei Xuancheng, Wulu Chongzong, and Gong Yu, plus the Kaogongfa Reform Backlash concept. No settled contradiction found.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》493丨兄弟式合伙，为啥都会仇人式散伙？历史告诉你！
 
@@ -101,7 +101,7 @@ Added source note for Data Science With Sam EP39 and created source-scoped pages
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》520丨打击对手为什么要先发起舆论战？
 
-Added source note for Hanji 520 and updated the Wang Feng / Wang Zhang remonstrance-suppression branch. Key claims: legitimacy work precedes coercion; Feng Yewang's impeachment tests procedural credibility; Du Qing treats open speech as reputational repair after Wang Zhang's secret-charge case.
+Added source note for 汉纪 520 and updated the Wang Feng / Wang Zhang remonstrance-suppression branch. Key claims: legitimacy work precedes coercion; Feng Yewang's impeachment tests procedural credibility; Du Qing treats open speech as reputational repair after Wang Zhang's secret-charge case.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》521丨官场里的“照顾”，是如何偷偷进行的？
 
@@ -277,7 +277,7 @@ Ingested the 2026-06-05 芮淇讲透资治通鉴 episode backfilling 12 CE early
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》647丨十三朝古都洛阳，为何至关重要？
 
-Added source note for Hanji 647. Key claims: Luoyang's capital value combines armory control and "天下之中" ritual centrality; Wang Mang's delayed relocation still drives Luoyang ritual-site preparation; Xin administrative renaming creates legibility costs; and Xiongnu heqin diplomacy is fragile because Luanti Xian's hostage son has already been executed.
+Added source note for 汉纪 647. Key claims: Luoyang's capital value combines armory control and "天下之中" ritual centrality; Wang Mang's delayed relocation still drives Luoyang ritual-site preparation; Xin administrative renaming creates legibility costs; and Xiongnu heqin diplomacy is fragile because Luanti Xian's hostage son has already been executed.
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》655丨万众归心到民怨沸腾，王莽做错了哪一步？
 
@@ -423,11 +423,11 @@ Ingested the 2026-09-02 乱翻书 episode on Doubao Work as ByteDance's Feishu/D
 
 ## [2026-09-03] ingest | 《资治通鉴·汉纪》671丨你的领导是否值得追随？进来对比下
 
-Ingested the 2026-06-10 芮淇讲透资治通鉴 episode backfilling Gengshi 2 / 24 CE before Hanji 672: Deng Yu's argument that Liu Xiu's rise depends on virtue and capacity rather than present territory, Kou Xun and Min Ye's Shanggu advice, Kou Xun and Wu Han's Yuyang brokerage, the Shanggu-Yuyang force's southward campaign, Jing Dan's cavalry role near Nanluan, Liu Xiu's immediate reward-and-command-retention policy, Geng Chun's Handan-first advice, and Wang Lang's failed surrender negotiation. Created the source note, `LeaderWorthFollowingAssessment`, and `JingDanEasternHan`; updated `BaoYongEasternHan`, `KouXunEasternHan`, `GengYanEasternHan`, `WuHanEasternHan`, `PengChongEasternHan`, `GengChunEasternHan`, `GengKuangEasternHan`, `WangLangHebeiClaimant`, `WangLiangEasternHan`, `DengYuEasternHan`, and `index`. No settled contradiction found; Lu Ping, Tian Yi, Min Ye, Ge Yan, Zhao Hong, Ma Chong, Liu Zhong, Ni Hong, Liu Feng, Deng Man, Du Wei, exact titles, county lists, force counts, and workplace-leadership framing remain source-scoped.
+Ingested the 2026-06-10 芮淇讲透资治通鉴 episode backfilling Gengshi 2 / 24 CE before 汉纪 672: Deng Yu's argument that Liu Xiu's rise depends on virtue and capacity rather than present territory, Kou Xun and Min Ye's Shanggu advice, Kou Xun and Wu Han's Yuyang brokerage, the Shanggu-Yuyang force's southward campaign, Jing Dan's cavalry role near Nanluan, Liu Xiu's immediate reward-and-command-retention policy, Geng Chun's Handan-first advice, and Wang Lang's failed surrender negotiation. Created the source note, `LeaderWorthFollowingAssessment`, and `JingDanEasternHan`; updated `BaoYongEasternHan`, `KouXunEasternHan`, `GengYanEasternHan`, `WuHanEasternHan`, `PengChongEasternHan`, `GengChunEasternHan`, `GengKuangEasternHan`, `WangLangHebeiClaimant`, `WangLiangEasternHan`, `DengYuEasternHan`, and `index`. No settled contradiction found; Lu Ping, Tian Yi, Min Ye, Ge Yan, Zhao Hong, Ma Chong, Liu Zhong, Ni Hong, Liu Feng, Deng Man, Du Wei, exact titles, county lists, force counts, and workplace-leadership framing remain source-scoped.
 
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》681丨揭秘匈奴所立汉帝：卢芳
 
-Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE before Hanji 682: Wei Xiao's Tianshui scholar reception and western reputation, Ma Yuan's hardship and wealth-distribution ethic, Dou Rong's Hexi five-commandery self-preservation bloc, and Lu Fang's false Liu/Xiongnu genealogy before Xiongnu installation as a rival "Han emperor." Created the source note and `RegionalSelfPreservationAlliance`; updated `WeiXiaoEasternHan`, `MaYuanEasternHan`, `DouRongEasternHan`, `LuFangEasternHan`, `RebelMandateManufacture`, `index`, and `overview`. No settled contradiction found; Liu Xuan, Lu Cheng, Fan Jun, Hunyewang ancestry, Julin/Gulin king, Zhangye shuguo troop numbers, and exact Qiang/Hu group identities remain source-scoped.
+Ingested the 2026-06-12 芮淇讲透资治通鉴 episode backfilling Jianwu 1 / 25 CE before 汉纪 682: Wei Xiao's Tianshui scholar reception and western reputation, Ma Yuan's hardship and wealth-distribution ethic, Dou Rong's Hexi five-commandery self-preservation bloc, and Lu Fang's false Liu/Xiongnu genealogy before Xiongnu installation as a rival "Han emperor." Created the source note and `RegionalSelfPreservationAlliance`; updated `WeiXiaoEasternHan`, `MaYuanEasternHan`, `DouRongEasternHan`, `LuFangEasternHan`, `RebelMandateManufacture`, `index`, and `overview`. No settled contradiction found; Liu Xuan, Lu Cheng, Fan Jun, Hunyewang ancestry, Julin/Gulin king, Zhangye shuguo troop numbers, and exact Qiang/Hu group identities remain source-scoped.
 
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》685丨东汉大臣宋弘，为何不肯做光武帝姐夫？
 
@@ -435,7 +435,7 @@ Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？
 
-Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 3 / 27 CE before Hanji 690-691: Liu Xiu's multi-front cleanup, Feng Yi's Guanzhong pacification under scarcity, Wu Han's injured morale recovery at Guangle, Cen Peng and Gai Yan's southern/eastern pressure, Geng Yan's northern plan, Li Xian's Lujiang claim, and Lai Xi's first Wei Xiao courtship strategy to isolate Gongsun Shu. Created the source note; updated `WeiXiaoEasternHan`, `LaiXiEasternHan`, `FengYiEasternHan`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, and `overview`. No settled contradiction found; 韦敖, 严琛, and 葛炎 are normalized to Wei Xiao, Yan Cen, and Gai Yan, while Deng Feng, Qin Feng, Liu Yong, Liu Yu, Zhu Hu, Su Jing, and minor campaign details remain source-scoped.
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 3 / 27 CE before 汉纪 690-691: Liu Xiu's multi-front cleanup, Feng Yi's Guanzhong pacification under scarcity, Wu Han's injured morale recovery at Guangle, Cen Peng and Gai Yan's southern/eastern pressure, Geng Yan's northern plan, Li Xian's Lujiang claim, and Lai Xi's first Wei Xiao courtship strategy to isolate Gongsun Shu. Created the source note; updated `WeiXiaoEasternHan`, `LaiXiEasternHan`, `FengYiEasternHan`, `FenceSittingStrategicExposure`, `SuspicionDrivenEliteAlienation`, `index`, and `overview`. No settled contradiction found; 韦敖, 严琛, and 葛炎 are normalized to Wei Xiao, Yan Cen, and Gai Yan, while Deng Feng, Qin Feng, Liu Yong, Liu Yu, Zhu Hu, Su Jing, and minor campaign details remain source-scoped.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》694丨《王命论》揭露东汉什么隐秘？
 
@@ -443,15 +443,15 @@ Ingested the 2026-06-15 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》696丨比韩信更强？这位东汉名将真的猛！
 
-Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE immediately before Hanji 697: Geng Yan's false Xi'an target and surprise Linzi capture, no-plunder provocation of Zhang Bu, fortified defense and show-weakness lure, hidden-wound morale control, refusal to leave the battle for Liu Xiu, retreat-path ambush, and Liu Xiu's comparison with Han Xin. Created the source note; updated `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `Linzi`, `index`, and `overview`. No settled contradiction found; Zhang Lan, Zhang Hong, Zhang Shou, Chong Yi, Chen Jun, Liu Xing, Ju, Xi'an, Pingshou, exact force counts, and the "比韩信更强" claim remain source-scoped.
+Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE immediately before 汉纪 697: Geng Yan's false Xi'an target and surprise Linzi capture, no-plunder provocation of Zhang Bu, fortified defense and show-weakness lure, hidden-wound morale control, refusal to leave the battle for Liu Xiu, retreat-path ambush, and Liu Xiu's comparison with Han Xin. Created the source note; updated `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `Linzi`, `index`, and `overview`. No settled contradiction found; Zhang Lan, Zhang Hong, Zhang Shou, Chong Yi, Chen Jun, Liu Xing, Ju, Xi'an, Pingshou, exact force counts, and the "比韩信更强" claim remain source-scoped.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》697丨一口气看懂东汉名将耿弇的传奇人生
 
-Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling the early Guangwu consolidation layer immediately before Hanji 698: Geng Yan's pursuit of Zhang Bu, Liu Xiu's inducement between Zhang Bu and Su Mao, Zhang Bu's first controlled surrender, Geng Yan's dispersal of Zhang Bu's troops and wagons, Qi pacification, Taixue restoration, Feng Yi's slander-and-trust episode, Lu Fang's Xiongnu-backed northern branch, and Zheng Xing's warning against Wei Xiao's ritual overreach. Created the source note; updated `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `SecurityForAuthorityExchange`, `index`, and `overview`. No settled contradiction found; 张布 is normalized to 张步, while Su Mao, Chen Jun, Hou Ba, Min Zhongshu, Li Xing, Sui Yu, Tian Sa, Shi Wei, Min Kan, exact force counts, and the host's Geng Yan superlatives remain source-scoped.
+Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling the early Guangwu consolidation layer immediately before 汉纪 698: Geng Yan's pursuit of Zhang Bu, Liu Xiu's inducement between Zhang Bu and Su Mao, Zhang Bu's first controlled surrender, Geng Yan's dispersal of Zhang Bu's troops and wagons, Qi pacification, Taixue restoration, Feng Yi's slander-and-trust episode, Lu Fang's Xiongnu-backed northern branch, and Zheng Xing's warning against Wei Xiao's ritual overreach. Created the source note; updated `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `SecurityForAuthorityExchange`, `index`, and `overview`. No settled contradiction found; 张布 is normalized to 张步, while Su Mao, Chen Jun, Hou Ba, Min Zhongshu, Li Xing, Sui Yu, Tian Sa, Shi Wei, Min Kan, exact force counts, and the host's Geng Yan superlatives remain source-scoped.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》703丨东汉开国后最显赫的家族，凭啥是它？
 
-Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling the pre-Hanji 704 Guangwu western alignment layer: Dou Rong's warning to Wei Xiao, Liang Tong's public break by killing Wei Xiao's envoy and discarding the seal, Ma Yuan's old Wei-side reporting and cavalry persuasion mission, and Liu Xiu's visible reward and deployment of surrendered talent. Created the source note; updated `WeiXiaoEasternHan`, `DouRongEasternHan`, `MaYuanEasternHan`, `LiangTongEasternHan`, `YangGuangWeiXiaoRetainer`, `GaoJunEasternHan`, `SecurityForAuthorityExchange`, `FaceSavingSubmissionFailure`, `IrreversibleDefectionBinding`, `index`, `overview`, generated synthesis artifacts, and validation state. No settled contradiction found; Zhang Xue, Ren Yu, Wang Yuan's advice wording, Wei Xun's exact hostage conditions, unnamed Qiang leaders, and Dou Rong's brother remain source-scoped.
+Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling the pre-汉纪 704 Guangwu western alignment layer: Dou Rong's warning to Wei Xiao, Liang Tong's public break by killing Wei Xiao's envoy and discarding the seal, Ma Yuan's old Wei-side reporting and cavalry persuasion mission, and Liu Xiu's visible reward and deployment of surrendered talent. Created the source note; updated `WeiXiaoEasternHan`, `DouRongEasternHan`, `MaYuanEasternHan`, `LiangTongEasternHan`, `YangGuangWeiXiaoRetainer`, `GaoJunEasternHan`, `SecurityForAuthorityExchange`, `FaceSavingSubmissionFailure`, `IrreversibleDefectionBinding`, `index`, `overview`, generated synthesis artifacts, and validation state. No settled contradiction found; Zhang Xue, Ren Yu, Wang Yuan's advice wording, Wei Xun's exact hostage conditions, unnamed Qiang leaders, and Dou Rong's brother remain source-scoped.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》704丨隗嚣：我打你是不对，但你凭啥还手？
 
@@ -459,7 +459,7 @@ Ingested the 2026-06-18 芮淇讲透资治通鉴 episode on Wei Xiao's post-defe
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》718丨征侧如何成为史上NO.1的女王？
 
-Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 16 / 40 CE on Zheng Ce and Zheng Er's Jiaozhi revolt, Su Ding's trigger role, Ma Yuan's later suppression and five-zhu coin memorial, Liu Xiu's land-and-grain fraud executions, anti-bandit mutual-reporting policy and resettlement, and Lu Fang/Min Kan's fragile surrender settlement with Xiongnu. Created the source note plus `ZhengCeJiaozhi`, `ZhengErJiaozhi`, `SuDingJiaozhi`, `LuFangEasternHan`, `MinKanEasternHan`, `FemaleRebelSovereignty`, `BanditMutualReportingPacification`, and `WuzhuCoinRestoration`; updated `LiuXiu`, `MaYuanEasternHan`, `JiaozhiCommandery`, Hanji 720 source links, overview, index, generated synthesis artifacts, and validation state. No settled contradiction found; Gai Yan, Zhang Ji, Jiuzhen/Rinan/Hepu groups, exact force counts, and the law-versus-human-feeling management preview remain source-scoped.
+Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 16 / 40 CE on Zheng Ce and Zheng Er's Jiaozhi revolt, Su Ding's trigger role, Ma Yuan's later suppression and five-zhu coin memorial, Liu Xiu's land-and-grain fraud executions, anti-bandit mutual-reporting policy and resettlement, and Lu Fang/Min Kan's fragile surrender settlement with Xiongnu. Created the source note plus `ZhengCeJiaozhi`, `ZhengErJiaozhi`, `SuDingJiaozhi`, `LuFangEasternHan`, `MinKanEasternHan`, `FemaleRebelSovereignty`, `BanditMutualReportingPacification`, and `WuzhuCoinRestoration`; updated `LiuXiu`, `MaYuanEasternHan`, `JiaozhiCommandery`, 汉纪 720 source links, overview, index, generated synthesis artifacts, and validation state. No settled contradiction found; Gai Yan, Zhang Ji, Jiuzhen/Rinan/Hepu groups, exact force counts, and the law-versus-human-feeling management preview remain source-scoped.
 
 ## [2026-09-01] ingest | 财报的根 + 估值的茎 = 叙事的果实
 
@@ -531,7 +531,7 @@ Ingested the All-In episode on ElevenLabs' enterprise voice-agent stack, voice i
 
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》827丨一句话引发的帝王之死
 
-Added source page for Hanji 827: Taixue/Mingjing expansion, Emperor Zhi calling Liang Ji "跋扈将军", Liang Ji's poisoning and water obstruction, Li Gu's deathbed witness/grief, and the first Liu Suan succession recommendation with Cao Teng's objection. Updated Emperor Zhi, Liang Ji, Li Gu, Du Qiao, Hu Guang, Cao Teng, Liu Suan, Taixue, Self-Protective Accession Choice, Outer-Relative Court Power, index, and overview. No settled contradiction found; Zhao Jie, Liu Hong reclassification, sea-water disaster, exact Taixue count, and the opening moral frame remain source-scoped.
+Added source page for 汉纪 827: Taixue/Mingjing expansion, Emperor Zhi calling Liang Ji "跋扈将军", Liang Ji's poisoning and water obstruction, Li Gu's deathbed witness/grief, and the first Liu Suan succession recommendation with Cao Teng's objection. Updated Emperor Zhi, Liang Ji, Li Gu, Du Qiao, Hu Guang, Cao Teng, Liu Suan, Taixue, Self-Protective Accession Choice, Outer-Relative Court Power, index, and overview. No settled contradiction found; Zhao Jie, Liu Hong reclassification, sea-water disaster, exact Taixue count, and the opening moral frame remain source-scoped.
 
 ## [2026-08-29] ingest | EP 45: Why AI Agents Break in Production: The Missing Harness in Your Data Stack
 
@@ -539,23 +539,23 @@ Ingested the Data Science With Sam episode with Pradmesh Patil on agentic data e
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》832丨为领导背锅，他是傻还是智？
 
-Ingested Hanji 832 as the 148-150 CE Huan-era backfill before Hanji 833. Created the source note, Gao Lun, Zhong Jin, Liang Na, Blame-Absorbing Responsibility, and Prudent Ambiguity Self-Protection pages; updated Chen Shi, Hou Lan, Zhong Hao, Xun Shu, Yingchuan Four Magistrates, Humane Local Governance, Appointment Quality as State Capacity, and index. No settled contradiction found; 陈石/侯澜/钟谨/李英 are normalized to 陈寔/侯览/钟瑾/李膺, and 配国相 is treated as 沛相.
+Ingested 汉纪 832 as the 148-150 CE Huan-era backfill before 汉纪 833. Created the source note, Gao Lun, Zhong Jin, Liang Na, Blame-Absorbing Responsibility, and Prudent Ambiguity Self-Protection pages; updated Chen Shi, Hou Lan, Zhong Hao, Xun Shu, Yingchuan Four Magistrates, Humane Local Governance, Appointment Quality as State Capacity, and index. No settled contradiction found; 陈石/侯澜/钟谨/李英 are normalized to 陈寔/侯览/钟瑾/李膺, and 配国相 is treated as 沛相.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》838丨贪婪的诱惑，让他狂飙在作死的路上
 
-Added source page for Hanji 838: Liang Ji's 151 CE reward expansion and dissatisfaction, Huang Qiong's partial restraint, Wang Jing's rumor-driven Khotan intervention, Shubo's failed self-enthronement, and Anguo's installation. Created Wang Jing (Western Regions), Jumi Kingdom, King Chengguo, Khotan Kingdom, King Jian, Shubo (Khotan), Anguo, Rumor-Driven Frontier Intervention, and Unbounded Elite Reward Demand pages; updated Liang Ji, Huang Qiong, Emperor Huan, Outer-Relative Court Power, overview, and index. No settled contradiction found; Shubo is disambiguated from the existing AI-founder page.
+Added source page for 汉纪 838: Liang Ji's 151 CE reward expansion and dissatisfaction, Huang Qiong's partial restraint, Wang Jing's rumor-driven Khotan intervention, Shubo's failed self-enthronement, and Anguo's installation. Created Wang Jing (Western Regions), Jumi Kingdom, King Chengguo, Khotan Kingdom, King Jian, Shubo (Khotan), Anguo, Rumor-Driven Frontier Intervention, and Unbounded Elite Reward Demand pages; updated Liang Ji, Huang Qiong, Emperor Huan, Outer-Relative Court Power, overview, and index. No settled contradiction found; Shubo is disambiguated from the existing AI-founder page.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》843丨古代农民贫困的根源是什么？
 
-Added source page for Hanji 843: Liu Tao's Taixue memorial rejecting coin-weight reform as a solution to peasant poverty, Zhu Da's corruption-triggered rebellion, Chen Shou/Taishi ling's fatal eclipse accusation against Liang Ji, and Chen Gui's 158 CE frontier cleanup, official replacement, and Bingzhou/Liangzhou remission program. Created Zhu Da, Chen Shou (Taishi ling), and Agrarian Livelihood Before Currency Reform pages; updated Liu Tao, Chen Gui, Retaliatory Political Terror, overview, and index. No settled contradiction found; the source backfills the 157-158 CE Huan-era layer before Hanji 844 and keeps the Taishi-ling Chen Shou distinct from the Three Kingdoms historian.
+Added source page for 汉纪 843: Liu Tao's Taixue memorial rejecting coin-weight reform as a solution to peasant poverty, Zhu Da's corruption-triggered rebellion, Chen Shou/Taishi ling's fatal eclipse accusation against Liang Ji, and Chen Gui's 158 CE frontier cleanup, official replacement, and Bingzhou/Liangzhou remission program. Created Zhu Da, Chen Shou (Taishi ling), and Agrarian Livelihood Before Currency Reform pages; updated Liu Tao, Chen Gui, Retaliatory Political Terror, overview, and index. No settled contradiction found; the source backfills the 157-158 CE Huan-era layer before 汉纪 844 and keeps the Taishi-ling Chen Shou distinct from the Three Kingdoms historian.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》851丨汉桓帝为何注定遗臭万年？
 
-Added source page for Ruiqi's Hanji 851 episode on Huang Qiong's ignored illness memorial, Shan Chao's continued elevation, Shan Kuang's corruption and witness-suppression attempt, Yang Bing's failed confrontation request, Fifth Zhong's exile, and Sun Bin's rescue. Created Fifth Zhong, Shan Kuang, Wei Yu, Ren Fang, Dong Yuan, and disambiguated Sun Bin retainer pages; updated Emperor Huan, Huang Qiong, Shan Chao, Yang Bing, Shusun Wuji, Eunuch Patronage Violence Shield, overview, and index. No settled contradiction found; the episode backfills the 159 CE bridge before Hanji 852-853 and qualifies later Yang Bing anti-corruption successes as restorations after earlier punishment.
+Added source page for Ruiqi's 汉纪 851 episode on Huang Qiong's ignored illness memorial, Shan Chao's continued elevation, Shan Kuang's corruption and witness-suppression attempt, Yang Bing's failed confrontation request, Fifth Zhong's exile, and Sun Bin's rescue. Created Fifth Zhong, Shan Kuang, Wei Yu, Ren Fang, Dong Yuan, and disambiguated Sun Bin retainer pages; updated Emperor Huan, Huang Qiong, Shan Chao, Yang Bing, Shusun Wuji, Eunuch Patronage Violence Shield, overview, and index. No settled contradiction found; the episode backfills the 159 CE bridge before 汉纪 852-853 and qualifies later Yang Bing anti-corruption successes as restorations after earlier punishment.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》1049丨官渡之战结局揭幕，曹操终于以弱胜强
 
-Added source page for Hanji 1049: Cao Cao's Wuchao night raid, Yuan Shao's mistaken allocation between rescue and Cao-camp attack, Chunyu Qiong's capture and execution, Guo Tu's slander, Zhang He and Gao Lan's surrender, Yuan Shao's flight, and Ju Shou's captured-loyalist ending. Created Wuchao Raid, Zhang He (late Han), Gao Lan (late Han), and Supply Depot Decisive Strike pages; updated Guandu Campaign, Guo Tu, Ju Shou, Xu You, Chunyu Qiong, Xun You, Strategic Defector Incorporation, index, and overview. No settled contradiction found; source "许由" is normalized to Xu You, and 张郃 is disambiguated from the existing Zhang He/Zhang Chu page.
+Added source page for 汉纪 1049: Cao Cao's Wuchao night raid, Yuan Shao's mistaken allocation between rescue and Cao-camp attack, Chunyu Qiong's capture and execution, Guo Tu's slander, Zhang He and Gao Lan's surrender, Yuan Shao's flight, and Ju Shou's captured-loyalist ending. Created Wuchao Raid, Zhang He (late Han), Gao Lan (late Han), and Supply Depot Decisive Strike pages; updated Guandu Campaign, Guo Tu, Ju Shou, Xu You, Chunyu Qiong, Xun You, Strategic Defector Incorporation, index, and overview. No settled contradiction found; source "许由" is normalized to Xu You, and 张郃 is disambiguated from the existing Zhang He/Zhang Chu page.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》852丨当美女如云，是福还是 “祸”？
 
@@ -563,15 +563,15 @@ Added source page for a 159 CE Huan-era backfill on Emperor Huan's post-Liang fa
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》860丨惊为天人！东汉郭泰有多神？
 
-Added source page for Hanji 860: Huang Qiong's 164 CE funeral, Xu Zhi's anonymous mourning and selective speech, Fu Rong's introduction of Guo Tai to Li Ying, Guo Tai's Luoyang fame, and Mao Rong's rain-shelter and filial-household virtue scenes. Created Huang Qiong and Mao Rong pages; updated Guo Tai, Xu Zhi, Fu Rong, Li Ying, Moral Mentorship as Talent Cultivation, Situational Character Tests, Elite-Endorsement Reputation Making, index, and overview. No settled contradiction found; transcript variants 徐志, 李英, 芙蓉, 毛戎, and 毛蓉 were normalized to late-Han canonical routes.
+Added source page for 汉纪 860: Huang Qiong's 164 CE funeral, Xu Zhi's anonymous mourning and selective speech, Fu Rong's introduction of Guo Tai to Li Ying, Guo Tai's Luoyang fame, and Mao Rong's rain-shelter and filial-household virtue scenes. Created Huang Qiong and Mao Rong pages; updated Guo Tai, Xu Zhi, Fu Rong, Li Ying, Moral Mentorship as Talent Cultivation, Situational Character Tests, Elite-Endorsement Reputation Making, index, and overview. No settled contradiction found; transcript variants 徐志, 李英, 芙蓉, 毛戎, and 毛蓉 were normalized to late-Han canonical routes.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》862丨他因一句话休妻，最终身败名裂
 
-Added source page for Hanji 862: Huang Yun's talent-reputation collapse after divorcing Xiahou Lingnü, Jin Wenjing's fatal accommodation, Fu Rong's correction of status-filtered judgment, Qiu Xiang's non-punitive correction of Chen Yuan, and Wang Huan's rough but useful enforcement profile. Created Huang Yun, Jin Wenjing, Fu Rong, Qiu Xiang, Chen Yuan, Wang Huan, and Empty Reputation-Reality Gap pages; updated Guo Tai, Parental Expectation Shame, Humane Local Governance, index, and overview. No settled contradiction found; transcript forms including 袁伟, 金文金, 芙蓉, 仇湘, and 王焕 were normalized to received late-Han names.
+Added source page for 汉纪 862: Huang Yun's talent-reputation collapse after divorcing Xiahou Lingnü, Jin Wenjing's fatal accommodation, Fu Rong's correction of status-filtered judgment, Qiu Xiang's non-punitive correction of Chen Yuan, and Wang Huan's rough but useful enforcement profile. Created Huang Yun, Jin Wenjing, Fu Rong, Qiu Xiang, Chen Yuan, Wang Huan, and Empty Reputation-Reality Gap pages; updated Guo Tai, Parental Expectation Shame, Humane Local Governance, index, and overview. No settled contradiction found; transcript forms including 袁伟, 金文金, 芙蓉, 仇湘, and 王焕 were normalized to received late-Han names.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》864丨名臣之后为何惨死于帝王之手？
 
-Added source page for Hanji 864: Kou Rong's Huan-era accusation, blocked petition, risky historical analogies, and execution; Shi Bi's law-first, grace-second proposal for Liu Kui's Bohai misconduct; and the Hou Can corruption notice before Hanji 865. Created Kou Rong, Imperial Petition Offense Risk, and Legal Judgment Before Imperial Grace pages; updated Shi Bi, Liu Kui, Bohai Kingdom, Hou Can, index, and overview. No settled contradiction found; Liu Kui's Huan-era Bohai layer and later Emperor Ling-era restoration/purge are preserved as sequential layers with an unresolved interval.
+Added source page for 汉纪 864: Kou Rong's Huan-era accusation, blocked petition, risky historical analogies, and execution; Shi Bi's law-first, grace-second proposal for Liu Kui's Bohai misconduct; and the Hou Can corruption notice before 汉纪 865. Created Kou Rong, Imperial Petition Offense Risk, and Legal Judgment Before Imperial Grace pages; updated Shi Bi, Liu Kui, Bohai Kingdom, Hou Can, index, and overview. No settled contradiction found; Liu Kui's Huan-era Bohai layer and later Emperor Ling-era restoration/purge are preserved as sequential layers with an unresolved interval.
 
 ## [2026-08-27] ingest | Essentials: How to Become Resilient, Forge Your Identity & Lead Others | Jocko Willink
 
@@ -599,7 +599,7 @@ Added source page for Banlatte episode 216: Zhou Hongyi's arc from early computi
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》890丨想当官先学对付“小人”
 
-Added source page for Hanji 890: the 169 CE late-Han remonstrance contrast between Zhang Huan, Xie Bi, and Yang Ci under eunuch-side pressure. Created Xie Bi, Cao Shao, and Oblique Remonstrance Self-Protection pages; migrated Zhang Huan and Yang Ci to synthesis-v1 with the new source appended to their evidence inventories. No settled contradiction found; transcript variants 张宦, 谢毕, 杨次, 曹杰, and 李英 are normalized to the existing late-Han routes where the roles match.
+Added source page for 汉纪 890: the 169 CE late-Han remonstrance contrast between Zhang Huan, Xie Bi, and Yang Ci under eunuch-side pressure. Created Xie Bi, Cao Shao, and Oblique Remonstrance Self-Protection pages; migrated Zhang Huan and Yang Ci to synthesis-v1 with the new source appended to their evidence inventories. No settled contradiction found; transcript variants 张宦, 谢毕, 杨次, 曹杰, and 李英 are normalized to the existing late-Han routes where the roles match.
 
 ## [2026-08-27] ingest | An interview with Yuval Noah Harari
 
@@ -611,11 +611,11 @@ Added source page for the Shizilukou Crossing interview with Huang Yi: Luobo Pai
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1021丨曹操手握重权，为什么容不下杨彪？
 
-Added source page for Hanji 1021: Cao Cao releases but removes Yang Biao, turning the old-Han loyalist case into a reputation-constrained court-control signal; Ma Ridi and Jin Shang receive posthumous court treatment after Yuan Shu pressure; Cao attacks Huyang and Wuyin to isolate Zhang Xiu and Liu Biao's Nanyang line; and Yang Feng and Han Xian's Baibo remnant branch ends after Liu Bei kills Yang Feng and Han Xian is killed in flight. Created Deng Ji, Huyang, and Wuyin pages; migrated Yang Biao, Ma Ridi, Jin Shang, Han Xian, Yang Feng, and Prestige-Constrained Political Prosecution to synthesis-v1. No settled contradiction found; transcript/person-place variants around Huyang, Wuyin, Deng Ji, and Zhang Xuan are kept source-scoped where not independently expanded.
+Added source page for 汉纪 1021: Cao Cao releases but removes Yang Biao, turning the old-Han loyalist case into a reputation-constrained court-control signal; Ma Ridi and Jin Shang receive posthumous court treatment after Yuan Shu pressure; Cao attacks Huyang and Wuyin to isolate Zhang Xiu and Liu Biao's Nanyang line; and Yang Feng and Han Xian's Baibo remnant branch ends after Liu Bei kills Yang Feng and Han Xian is killed in flight. Created Deng Ji, Huyang, and Wuyin pages; migrated Yang Biao, Ma Ridi, Jin Shang, Han Xian, Yang Feng, and Prestige-Constrained Political Prosecution to synthesis-v1. No settled contradiction found; transcript/person-place variants around Huyang, Wuyin, Deng Ji, and Zhang Xuan are kept source-scoped where not independently expanded.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1023丨揭秘曹操与张绣的兵法博弈
 
-Added source page for Hanji 1023: Yuan Shao's proposed capital relocation around the emperor, Tian Feng's rejected Xudu attack advice, Cao Cao's withdrawal from the Rangcheng front, Zhang Xiu and Liu Biao's Anzhong blockade, Cao Cao's false-escape ambush, and Jia Xu's two-stage pursuit judgment. Created Anzhong and Returning Army Interdiction Risk pages; updated Zhang Xiu, Jia Xu, Liu Biao, Tian Feng, Death-Ground Tactical Preconditions, and Lure Enemy Out of Position. No settled contradiction found; transcript place wording such as 眷城 and 壤县 is kept source-scoped while linked cautiously to existing geography.
+Added source page for 汉纪 1023: Yuan Shao's proposed capital relocation around the emperor, Tian Feng's rejected Xudu attack advice, Cao Cao's withdrawal from the Rangcheng front, Zhang Xiu and Liu Biao's Anzhong blockade, Cao Cao's false-escape ambush, and Jia Xu's two-stage pursuit judgment. Created Anzhong and Returning Army Interdiction Risk pages; updated Zhang Xiu, Jia Xu, Liu Biao, Tian Feng, Death-Ground Tactical Preconditions, and Lure Enemy Out of Position. No settled contradiction found; transcript place wording such as 眷城 and 壤县 is kept source-scoped while linked cautiously to existing geography.
 
 ## [2026-08-26] ingest | Episode 19: 赵丽娜：在场比赢重要；门将的信心、直觉与热爱
 
@@ -623,7 +623,7 @@ Added source page for a Fuyou Tiandi episode with Zhao Lina on football as atmos
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》895丨血腥屠刀下的骨肉情深
 
-Added source page for Hanji 895: Zhang Jian's 169 CE party-prohibition flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest that ends with Kong Bao's execution, Xia Fu's critique of collateral flight, Du Gen's non-implicating concealment, and Tan Sitong's later poetic allusion. Created Zhang Jian, Kong Bao, Kong Rong's mother, Xia Fu, Du Gen, Tan Sitong, Fugitive Shelter Collateral Risk, and Wangmen Touzhi pages; migrated Kong Rong and Loyalty-Collateral Dilemma to synthesis-v1; updated Crisis Withdrawal Self-Protection. No settled contradiction found; raw transcript variants 张简, 孔包, and 下父 are normalized to 张俭, 孔褒, and 夏馥 while kept source-scoped.
+Added source page for 汉纪 895: Zhang Jian's 169 CE party-prohibition flight, Kong Rong hiding him in Kong Bao's household, the Kong-family responsibility contest that ends with Kong Bao's execution, Xia Fu's critique of collateral flight, Du Gen's non-implicating concealment, and Tan Sitong's later poetic allusion. Created Zhang Jian, Kong Bao, Kong Rong's mother, Xia Fu, Du Gen, Tan Sitong, Fugitive Shelter Collateral Risk, and Wangmen Touzhi pages; migrated Kong Rong and Loyalty-Collateral Dilemma to synthesis-v1; updated Crisis Withdrawal Self-Protection. No settled contradiction found; raw transcript variants 张简, 孔包, and 下父 are normalized to 张俭, 孔褒, and 夏馥 while kept source-scoped.
 
 ## [2026-08-26] ingest | The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs
 
@@ -631,11 +631,11 @@ Added source page for an All-In robotics special with Anybotics, 1X, Boston Dyna
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》899丨好清斗贪官
 
-Added source page for Hanji 899: the opening Jin Ren/Wu Zhi bribery story around "钱能通神", Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" defense of tomb sacrifice, and the host's ritual-sense argument about solemnity, sacredness, order, and self-realization. Created Emperor Ming of Han and Ritual Affective Order pages; updated Cai Yong, Emperor Ling, Liu Xiu, Li As Political Order, Imperial Ritual Distance, and the Ruiqi show page. No settled contradiction found; minor figures and setting terms are kept source-scoped.
+Added source page for 汉纪 899: the opening Jin Ren/Wu Zhi bribery story around "钱能通神", Emperor Ling's 172 CE visit to Guangwu's Yuanling, Cai Yong's "礼有烦而不可省者" defense of tomb sacrifice, and the host's ritual-sense argument about solemnity, sacredness, order, and self-realization. Created Emperor Ming of Han and Ritual Affective Order pages; updated Cai Yong, Emperor Ling, Liu Xiu, Li As Political Order, Imperial Ritual Distance, and the Ruiqi show page. No settled contradiction found; minor figures and setting terms are kept source-scoped.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》904丨觉照内观：获得心灵大自由的秘诀
 
-Added source page for Hanji 904: early-rising sitting meditation and 觉照内观, 173-174 CE epidemic/earthquake/eclipse and Three Excellencies churn, Tang Heng/Tang Zhen eunuch-family office networks, and Cao Cao's nineteen-year-old Xiaolian/langguan entry through Cao Teng/Cao Song, Qiao Xuan, Xu Shao, and Sima Fang. Created Sima Fang, Tang Heng, and Tang Zhen pages; updated connected late-Han actor, appointment, omen, office-churn, reputation, and meditative-practice pages. No settled contradiction found; breath/yangqi claims and "阉三代" are kept source-scoped.
+Added source page for 汉纪 904: early-rising sitting meditation and 觉照内观, 173-174 CE epidemic/earthquake/eclipse and Three Excellencies churn, Tang Heng/Tang Zhen eunuch-family office networks, and Cao Cao's nineteen-year-old Xiaolian/langguan entry through Cao Teng/Cao Song, Qiao Xuan, Xu Shao, and Sima Fang. Created Sima Fang, Tang Heng, and Tang Zhen pages; updated connected late-Han actor, appointment, omen, office-churn, reputation, and meditative-practice pages. No settled contradiction found; breath/yangqi claims and "阉三代" are kept source-scoped.
 
 ## [2026-08-25] ingest | AI loves negative parallelism
 
@@ -647,15 +647,15 @@ Added source page for a 起朱楼宴宾客 macro-policy episode reading Scott Be
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》927丨做生意的最高境界是什么？
 
-Added source page for Hanji 927: the host's source-scoped merchant-composure opening, Fu Xie's warning that Yellow Turban disorder grows from eunuch-rooted court failure, Zhao Zhong's retaliatory blocking of Fu Xie's reward, Zhang Mancheng's Nanyang branch before Qin Jie kills him, and Jia Cong's root-cause pacification of Jiaozhi. Created Jia Cong, Jiaozhi Commandery, Root-Cause Pacification, and Merchant Composure Discipline pages; updated related late-Han actor, Nanyang, court-feedback, and people-based-security pages. No settled contradiction found; transcript "傅解" is normalized to Fu Xie / 傅燮, and minor Jiaozhi/Nanyang names remain source-scoped.
+Added source page for 汉纪 927: the host's source-scoped merchant-composure opening, Fu Xie's warning that Yellow Turban disorder grows from eunuch-rooted court failure, Zhao Zhong's retaliatory blocking of Fu Xie's reward, Zhang Mancheng's Nanyang branch before Qin Jie kills him, and Jia Cong's root-cause pacification of Jiaozhi. Created Jia Cong, Jiaozhi Commandery, Root-Cause Pacification, and Merchant Composure Discipline pages; updated related late-Han actor, Nanyang, court-feedback, and people-based-security pages. No settled contradiction found; transcript "傅解" is normalized to Fu Xie / 傅燮, and minor Jiaozhi/Nanyang names remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》928丨职场不可明说：送对礼，办事更顺利
 
-Added source page for Hanji 928: Huangfu Song and Zhu Jun's Runan-Chen Yellow Turban victories, Huangfu Song's credit-sharing report, Lu Zhi's Guangzong siege against Zhang Jiao, Zuo Feng's inspection after Lu Zhi refuses a gift, Emperor Ling's slander-driven recall of Lu Zhi, and Dong Zhuo's replacement setup before Hanji 929. Created Zuo Feng and Inspection Gift Gatekeeping pages; updated connected late-Han actor and court-access, feedback-collapse, and commander-replacement concepts. No settled contradiction found; the host's workplace and gift-politics lesson is kept source-scoped rather than treated as an endorsement or independent administrative rule.
+Added source page for 汉纪 928: Huangfu Song and Zhu Jun's Runan-Chen Yellow Turban victories, Huangfu Song's credit-sharing report, Lu Zhi's Guangzong siege against Zhang Jiao, Zuo Feng's inspection after Lu Zhi refuses a gift, Emperor Ling's slander-driven recall of Lu Zhi, and Dong Zhuo's replacement setup before 汉纪 929. Created Zuo Feng and Inspection Gift Gatekeeping pages; updated connected late-Han actor and court-access, feedback-collapse, and commander-replacement concepts. No settled contradiction found; the host's workplace and gift-politics lesson is kept source-scoped rather than treated as an endorsement or independent administrative rule.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》930丨如何破除贪心和不甘心？
 
-Added source page for Hanji 930: the opening greed/unwillingness frame, Gai Xun's Qiang-front reputation and Hanyang recommendation, Zhu Jun's Nanyang Yellow Turban campaign against Zhao Hong, Han Zhong, and Sun Xia, Zhang Wen's anti-recall argument, and Sun Jian's early recognition under Zhu Jun. Created Yellow Turbans, Zhang Mancheng, Zhao Hong, Han Zhong, Sun Xia, Qin Jie, Xu Qiu, Yang Yong, Dian Wu, Xianling Qiang, Xu Chang, Zhang Ning, and Exchangeable Capability pages; updated related late-Han actor, command, reputation, surrender, and self-cultivation concepts. No settled contradiction found; transcript Zhu Jun, Zhang Ning, and Xu Chang identity cautions are preserved as source-scoped.
+Added source page for 汉纪 930: the opening greed/unwillingness frame, Gai Xun's Qiang-front reputation and Hanyang recommendation, Zhu Jun's Nanyang Yellow Turban campaign against Zhao Hong, Han Zhong, and Sun Xia, Zhang Wen's anti-recall argument, and Sun Jian's early recognition under Zhu Jun. Created Yellow Turbans, Zhang Mancheng, Zhao Hong, Han Zhong, Sun Xia, Qin Jie, Xu Qiu, Yang Yong, Dian Wu, Xianling Qiang, Xu Chang, Zhang Ning, and Exchangeable Capability pages; updated related late-Han actor, command, reputation, surrender, and self-cultivation concepts. No settled contradiction found; transcript Zhu Jun, Zhang Ning, and Xu Chang identity cautions are preserved as source-scoped.
 
 ## [2026-08-25] ingest | Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI
 
@@ -663,43 +663,43 @@ Added source page for an All-In episode on Google AI leadership changes, hypersc
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》942丨越优秀的人活得越累，合理吗？
 
-Added source page for Hanji 942: Gai Xun and Yuan Shao's first anti-eunuch move, Jian Shuo's transfer counter, Wang Guo's failed siege of Chen Cang, Huangfu Song's delay-then-pursue victory over Dong Zhuo's objections, Gongsun Zan's over-pursuit against Qiu Liju, Liu Yu's Youzhou pacification, Han Sui/Yan Zhong coalition instability, Ma Ridi's eclipse-linked dismissal, He Jin's delay of Jian Shuo's western-transfer plan, and Cao Cao's early military footing. Created pages for Gai Xun, Wang Guo, Qiu Liju, Zhang Chun, Zhang Ju, Yan Zhong, and the Chen Cang battle; updated connected late-Han actors and court-access, fortified-attrition, forced-march, people-based security, alliance-fragility, war-cost, celestial-omen, and surrender-cascade concepts. No settled contradiction found; similarly named figures were disambiguated.
+Added source page for 汉纪 942: Gai Xun and Yuan Shao's first anti-eunuch move, Jian Shuo's transfer counter, Wang Guo's failed siege of Chen Cang, Huangfu Song's delay-then-pursue victory over Dong Zhuo's objections, Gongsun Zan's over-pursuit against Qiu Liju, Liu Yu's Youzhou pacification, Han Sui/Yan Zhong coalition instability, Ma Ridi's eclipse-linked dismissal, He Jin's delay of Jian Shuo's western-transfer plan, and Cao Cao's early military footing. Created pages for Gai Xun, Wang Guo, Qiu Liju, Zhang Chun, Zhang Ju, Yan Zhong, and the Chen Cang battle; updated connected late-Han actors and court-access, fortified-attrition, forced-march, people-based security, alliance-fragility, war-cost, celestial-omen, and surrender-cascade concepts. No settled contradiction found; similarly named figures were disambiguated.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》943丨权势考验人性，背后藏着巨大凶险
 
-Added source page for Hanji 943: Emperor Ling's non-designated succession, Liu Bian and Liu Xie's rival maternal/foster support lines, Jian Shuo's failed attempt to kill He Jin and install Liu Xie, Pan Yin's warning, Guo Sheng's letter handoff, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong and Dong Zhong. Created pages for Jian Shuo, Empress Dowager Dong, Dong Zhong, Guo Sheng, Pan Yin, Shi Zimiao, and Zhang Jin; updated connected late-Han actors and succession, palace-access, palace-violence, maternal-status, legitimacy-purge, and human-nature concepts. No settled contradiction found; Dong Taihou's death remains source-variant across chronicle, history, and Romance accounts, and the host's power-and-human-nature readings remain source-scoped.
+Added source page for 汉纪 943: Emperor Ling's non-designated succession, Liu Bian and Liu Xie's rival maternal/foster support lines, Jian Shuo's failed attempt to kill He Jin and install Liu Xie, Pan Yin's warning, Guo Sheng's letter handoff, Liu Bian's accession, He Jin's killing of Jian Shuo, and the purge of Empress Dowager Dong and Dong Zhong. Created pages for Jian Shuo, Empress Dowager Dong, Dong Zhong, Guo Sheng, Pan Yin, Shi Zimiao, and Zhang Jin; updated connected late-Han actors and succession, palace-access, palace-violence, maternal-status, legitimacy-purge, and human-nature concepts. No settled contradiction found; Dong Taihou's death remains source-variant across chronicle, history, and Romance accounts, and the host's power-and-human-nature readings remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》945丨执念太深的人，只会越来越痛苦
 
-Added source page for Hanji 945: He Jin's fixation on summoning outside troops to pressure Empress Dowager He against the eunuchs, Zheng Tai and Lu Zhi's warnings against inviting Dong Zhuo, Wang Kuang/Bao Xin/Qiao Mao/Ding Yuan mobilization, Zhong Shao's temporary halt of Dong Zhuo, Yuan Shao's jiajie authority, and Zhang Rang's palace-family route back inside. Created External Troop Invitation Risk; updated late-Han actor and concept pages. No settled contradiction found; the "执念" and motive readings are source-scoped.
+Added source page for 汉纪 945: He Jin's fixation on summoning outside troops to pressure Empress Dowager He against the eunuchs, Zheng Tai and Lu Zhi's warnings against inviting Dong Zhuo, Wang Kuang/Bao Xin/Qiao Mao/Ding Yuan mobilization, Zhong Shao's temporary halt of Dong Zhuo, Yuan Shao's jiajie authority, and Zhang Rang's palace-family route back inside. Created External Troop Invitation Risk; updated late-Han actor and concept pages. No settled contradiction found; the "执念" and motive readings are source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》946丨职场斗争时优柔寡断，有多致命？
 
-Added source page for Hanji 946: He Jin's failed push to eliminate the Ten Attendants, Zhang Rang and Duan Gui's palace counterattack, Qu Mu's killing of He Jin, Yuan-family and He-family retaliation, forged appointments, gate fire, indiscriminate eunuch slaughter, the flight of Liu Bian and Liu Xie toward Xiaopingjin, Min Gong's pursuit, and Dong Zhuo's opening. Created pages for the Ten Attendants, Zhang Rang, Duan Gui, Qu Mu, Wu Kuang, Zhang Zhang, Fan Ling, Xu Xiang, Zhao Zhong, Xiaopingjin, Zero-Sum Conflict Hesitation Risk, and Palace Coup Violence Cascade; updated overview, index, and related late-Han entity and concept pages. No settled contradiction found; transcript 段规 is normalized to 段珪 / Duan Gui, while motive, character, and workplace "打直球" readings remain source-scoped.
+Added source page for 汉纪 946: He Jin's failed push to eliminate the Ten Attendants, Zhang Rang and Duan Gui's palace counterattack, Qu Mu's killing of He Jin, Yuan-family and He-family retaliation, forged appointments, gate fire, indiscriminate eunuch slaughter, the flight of Liu Bian and Liu Xie toward Xiaopingjin, Min Gong's pursuit, and Dong Zhuo's opening. Created pages for the Ten Attendants, Zhang Rang, Duan Gui, Qu Mu, Wu Kuang, Zhang Zhang, Fan Ling, Xu Xiang, Zhao Zhong, Xiaopingjin, Zero-Sum Conflict Hesitation Risk, and Palace Coup Violence Cascade; updated overview, index, and related late-Han entity and concept pages. No settled contradiction found; transcript 段规 is normalized to 段珪 / Duan Gui, while motive, character, and workplace "打直球" readings remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》947丨董卓收服吕布，开启称霸之路
 
-Added source page for Hanji 947: Dong Zhuo's first Luoyang consolidation after the emperor's flight, Bao Xin's missed preemptive-strike advice to Yuan Shao, staged reinforcement theater, Lü Bu's killing of Ding Yuan, sikong office capture, and Cai Yong's coerced recruitment. Created Ding Yuan, Min Gong, and military presence theater pages; updated connected Dong Zhuo, Lü Bu, Cai Yong, Yuan Shao, Liu Bian, Emperor Xian, Bao Xin, seal, Luoyang, He-family, and legitimacy/control concepts. No settled contradiction found; Romance gift details and motive readings remain source-scoped.
+Added source page for 汉纪 947: Dong Zhuo's first Luoyang consolidation after the emperor's flight, Bao Xin's missed preemptive-strike advice to Yuan Shao, staged reinforcement theater, Lü Bu's killing of Ding Yuan, sikong office capture, and Cai Yong's coerced recruitment. Created Ding Yuan, Min Gong, and military presence theater pages; updated connected Dong Zhuo, Lü Bu, Cai Yong, Yuan Shao, Liu Bian, Emperor Xian, Bao Xin, seal, Luoyang, He-family, and legitimacy/control concepts. No settled contradiction found; Romance gift details and motive readings remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》950丨不懂权力背后的人性，必败无疑
 
-Added source page for Hanji 950: the first anti-Dong-Zhuo coalition formation, Yuan Shao's prestige-based selection as盟主, Bao Xin's early recognition of Cao Cao, Dong Zhuo's poisoning of Liu Bian through Li Ru, Zheng Tai's diagnosis of coalition fragility, and Zhu Jun's opposition to the pre-Chang'an relocation plan. Created pages for Liu Bian / Hongnong Wang, Li Ru, Zheng Tai, Wang Kuang, Kong Zhou, Qiao Mao, and Prestige-Based Coalition Leadership; updated overview, index, and related late-Han coalition, Dong Zhuo, Yuan Shao, Cao Cao, Bao Xin, Han Fu, Zhu Jun, common-enemy, coalition-fragility, and chenwei pages. No settled contradiction found; transcript "朱俊" is normalized to Zhu Jun / 朱儁 and motive readings remain source-scoped.
+Added source page for 汉纪 950: the first anti-Dong-Zhuo coalition formation, Yuan Shao's prestige-based selection as盟主, Bao Xin's early recognition of Cao Cao, Dong Zhuo's poisoning of Liu Bian through Li Ru, Zheng Tai's diagnosis of coalition fragility, and Zhu Jun's opposition to the pre-Chang'an relocation plan. Created pages for Liu Bian / Hongnong Wang, Li Ru, Zheng Tai, Wang Kuang, Kong Zhou, Qiao Mao, and Prestige-Based Coalition Leadership; updated overview, index, and related late-Han coalition, Dong Zhuo, Yuan Shao, Cao Cao, Bao Xin, Han Fu, Zhu Jun, common-enemy, coalition-fragility, and chenwei pages. No settled contradiction found; transcript "朱俊" is normalized to Zhu Jun / 朱儁 and motive readings remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？
 
-Added source page for Hanji 953: Liu Biao's initial Jingzhou entry through Kuai Liang's people-support advice and Kuai Yue's force-absorption plan, Cao Cao's first westward anti-Dong-Zhuo attack, the Bianshui defeat by Xu Rong, Cao Hong's rescue, and the Suanzao coalition's failure to execute Cao Cao's pass-control strategy. Created Kuai Liang, Wei Zi, Bianshui Battle, Suanzao Camp, and Xiangyang (late Han) pages; updated overview, index, and related late-Han entity and concept pages. No settled contradiction found; transcript variants around Kuai Liang/Kuai Yue, Bianshui, and Xingyang are normalized cautiously as source-scoped.
+Added source page for 汉纪 953: Liu Biao's initial Jingzhou entry through Kuai Liang's people-support advice and Kuai Yue's force-absorption plan, Cao Cao's first westward anti-Dong-Zhuo attack, the Bianshui defeat by Xu Rong, Cao Hong's rescue, and the Suanzao coalition's failure to execute Cao Cao's pass-control strategy. Created Kuai Liang, Wei Zi, Bianshui Battle, Suanzao Camp, and Xiangyang (late Han) pages; updated overview, index, and related late-Han entity and concept pages. No settled contradiction found; transcript variants around Kuai Liang/Kuai Yue, Bianshui, and Xingyang are normalized cautiously as source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》954丨人性本善，还是人性本恶？
 
-Added source page for Hanji 954: the 191 CE anti-Dong-Zhuo debate over installing Liu Yu as an alternative emperor, Cao Cao's "师出有名" objection, Yuan Shao and Han Fu's title mission through Zhang Qi, Yuan Shu's ambition-shadowed loyalist refusal, and Liu Yu's rejection of both the imperial title and delegated imperial authority while his son Liu He remains exposed in Chang'an. Created Zhang Qi (Late Han) and Alternative Sovereign Legitimacy Trap; updated overview, index, Liu Yu, Yuan Shu, Yuan Shao, Han Fu, Liu He, Cao Cao, Emperor Xian of Han, Dong Zhuo, Anti-Dong Zhuo Coalition, Mingqi Legitimacy, Xing'e Theory, Common-Enemy Alliance, Interest-Structured Alliance Fragility, Moralized War Pretext, Political Survival First, and Fixed Human Nature Politics. No settled contradiction found; the source clarifies later accusations that Liu Yu sought the title as charges made by others rather than accepted fact.
+Added source page for 汉纪 954: the 191 CE anti-Dong-Zhuo debate over installing Liu Yu as an alternative emperor, Cao Cao's "师出有名" objection, Yuan Shao and Han Fu's title mission through Zhang Qi, Yuan Shu's ambition-shadowed loyalist refusal, and Liu Yu's rejection of both the imperial title and delegated imperial authority while his son Liu He remains exposed in Chang'an. Created Zhang Qi (Late Han) and Alternative Sovereign Legitimacy Trap; updated overview, index, Liu Yu, Yuan Shu, Yuan Shao, Han Fu, Liu He, Cao Cao, Emperor Xian of Han, Dong Zhuo, Anti-Dong Zhuo Coalition, Mingqi Legitimacy, Xing'e Theory, Common-Enemy Alliance, Interest-Structured Alliance Fragility, Moralized War Pretext, Political Survival First, and Fixed Human Nature Politics. No settled contradiction found; the source clarifies later accusations that Liu Yu sought the title as charges made by others rather than accepted fact.
 
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》971丨乱世迷云：谁杀了曹操老爹
 
-Added source page for Hanji 971: the contested 193 CE killing of Cao Song and Cao De, Sanguozhi/Hou Hanshu attribution split between Tao Qian and Zhang Kai, Ying Shao's flight, Cao Cao's retaliatory Xuzhou campaign and massacre, and the Liu Yu/Gongsun Zan setup for Hanji 972. Created Cao Song, Cao De, Ying Shao, Cao Song Murder, Xuzhou Massacre, Sanguozhi, and Hou Hanshu; updated overview, index, Cao Cao, Tao Qian, Zhang Kai, Xuzhou, Si River, Liu Yu, Gongsun Zan, Bandit Assassination Attribution, Textual Variant Political Stakes, Personal Revenge Through State Power, and People-Based Political Security. No settled contradiction found; competing source traditions are preserved rather than collapsed.
+Added source page for 汉纪 971: the contested 193 CE killing of Cao Song and Cao De, Sanguozhi/Hou Hanshu attribution split between Tao Qian and Zhang Kai, Ying Shao's flight, Cao Cao's retaliatory Xuzhou campaign and massacre, and the Liu Yu/Gongsun Zan setup for 汉纪 972. Created Cao Song, Cao De, Ying Shao, Cao Song Murder, Xuzhou Massacre, Sanguozhi, and Hou Hanshu; updated overview, index, Cao Cao, Tao Qian, Zhang Kai, Xuzhou, Si River, Liu Yu, Gongsun Zan, Bandit Assassination Attribution, Textual Variant Political Stakes, Personal Revenge Through State Power, and People-Based Political Security. No settled contradiction found; competing source traditions are preserved rather than collapsed.
 
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》972丨三国刘虞之死：太傻太天真
 
-Added source page for Hanji 972: Liu Yu's failed humane attack against Gongsun Zan, his retreat to Juyong Pass and coerced marketplace execution after Duan Xun's edict, Tian Chou's covert mission to Emperor Xian, and Tian Chou's later Xu Wu Mountain settlement. Created Tian Chou, Duan Xun, Juyong Pass, Youbeiping Commandery, Wuzhong County, Xu Wu Mountain, and Benevolent Command Execution Gap; updated overview, index, Liu Yu, Gongsun Zan, Youzhou, Emperor Xian of Han, Wuhuan, Good Intentions Political Limits, Confucian Military Idealism Limits, Xunzian Command Restraint, People-Based Political Security, Atrocity Backfire Mobilization, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the source backfills Hanji 998's Liu Yu backlash rather than reversing it.
+Added source page for 汉纪 972: Liu Yu's failed humane attack against Gongsun Zan, his retreat to Juyong Pass and coerced marketplace execution after Duan Xun's edict, Tian Chou's covert mission to Emperor Xian, and Tian Chou's later Xu Wu Mountain settlement. Created Tian Chou, Duan Xun, Juyong Pass, Youbeiping Commandery, Wuzhong County, Xu Wu Mountain, and Benevolent Command Execution Gap; updated overview, index, Liu Yu, Gongsun Zan, Youzhou, Emperor Xian of Han, Wuhuan, Good Intentions Political Limits, Confucian Military Idealism Limits, Xunzian Command Restraint, People-Based Political Security, Atrocity Backfire Mobilization, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the source backfills 汉纪 998's Liu Yu backlash rather than reversing it.
 
 ## [2026-08-24] ingest | 696. Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)
 
@@ -723,7 +723,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on Emperor Xian's Decem
 
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》993丨神亭岭之战：孙策大战太史慈
 
-Added source page for a 芮淇讲透资治通鉴 episode on Sun Ce's 195 CE Jiangdong advance, strict military discipline, Liu Yao's underuse of Taishi Ci, the Shentingling encounter, and Sun Ce's lenient Qu'a recruitment policy. Created pages for Taishi Ci, Shentingling Battle, Han Dang, Huang Gai, Ju Shou, Gan Ning, and Status-Filtered Talent Misrecognition; updated overview, index, Sun Ce, Liu Yao, Xu Shao, Ze Rong, Xue Li, Talent as State Treasure, Occupation Pacification Strategy, and People-Based Political Security. No settled contradiction found; the episode is kept as a backfill before Hanji 994-995, and Taishi Ci's lower-status talent reading remains source-scoped.
+Added source page for a 芮淇讲透资治通鉴 episode on Sun Ce's 195 CE Jiangdong advance, strict military discipline, Liu Yao's underuse of Taishi Ci, the Shentingling encounter, and Sun Ce's lenient Qu'a recruitment policy. Created pages for Taishi Ci, Shentingling Battle, Han Dang, Huang Gai, Ju Shou, Gan Ning, and Status-Filtered Talent Misrecognition; updated overview, index, Sun Ce, Liu Yao, Xu Shao, Ze Rong, Xue Li, Talent as State Treasure, Occupation Pacification Strategy, and People-Based Political Security. No settled contradiction found; the episode is kept as a backfill before 汉纪 994-995, and Taishi Ci's lower-status talent reading remains source-scoped.
 
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》994丨跟着东吴重臣吕范，学习职场智慧
 
@@ -743,15 +743,15 @@ Added source page for a 枫言枫语 episode on Codex reset pricing, DeepSeek pe
 
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？
 
-Added source page for Hanji 997: Zang Hong's capture and death after condemning Yuan Shao for failing to rescue Zhang Chao, Cheng Long's remonstrance and shared death, and the host's "情关" reading of loyalty, righteousness, resentment, and political rigidity. Created Zang Hong, Zhang Chao (Late Han), Zhang Miao (Late Han), Cheng Long (Late Han), and Emotional Attachment Political Distortion; updated overview, index, Yuan Shao, Cao Cao, Death-Party Loyalty vs Official Duty, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the source preserves Zang Hong as both courageous and politically inflexible rather than collapsing him into either pure martyr or simple rebel.
+Added source page for 汉纪 997: Zang Hong's capture and death after condemning Yuan Shao for failing to rescue Zhang Chao, Cheng Long's remonstrance and shared death, and the host's "情关" reading of loyalty, righteousness, resentment, and political rigidity. Created Zang Hong, Zhang Chao (Late Han), Zhang Miao (Late Han), Cheng Long (Late Han), and Emotional Attachment Political Distortion; updated overview, index, Yuan Shao, Cao Cao, Death-Party Loyalty vs Official Duty, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the source preserves Zang Hong as both courageous and politically inflexible rather than collapsing him into either pure martyr or simple rebel.
 
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》998丨白马将军公孙瓒：从三千白马到困守孤城
 
-Added source page for Hanji 998: Gongsun Zan's post-Liu Yu Youzhou collapse, backlash from Xianyu Fu, Yan Rou, Wuhuan, Xianbei, Liu He, and Yuan Shao-linked forces, defections across Youzhou, and Gongsun Zan's move into Yijing fortress. Created Liu Yu (Late Han), Xianyu Fu, Yan Rou, Zhou Dan (Late Han), Liu He (Late Han), Wuhuan, Xianbei, Youzhou (Late Han), Yi County (Late Han), Yijing Fortress, Baima Yicong, Dong Zhuo, Meiwu Fortress, Southern Xiongnu, Yufuluo Chanyu, Huchuquan Chanyu, and Fortress Security Illusion; updated overview, index, Gongsun Zan, Yuan Shao, Xiongnu, People-Based Political Security, Talent as State Treasure, Court Feedback Collapse, Atrocity Backfire Mobilization, Xingshiqing Strategic Assessment, Political Survival First, and Fief Security Illusion. No settled contradiction found; the source's "afraid to die" contrast and fortress-safety lesson are preserved as source-scoped interpretation.
+Added source page for 汉纪 998: Gongsun Zan's post-Liu Yu Youzhou collapse, backlash from Xianyu Fu, Yan Rou, Wuhuan, Xianbei, Liu He, and Yuan Shao-linked forces, defections across Youzhou, and Gongsun Zan's move into Yijing fortress. Created Liu Yu (Late Han), Xianyu Fu, Yan Rou, Zhou Dan (Late Han), Liu He (Late Han), Wuhuan, Xianbei, Youzhou (Late Han), Yi County (Late Han), Yijing Fortress, Baima Yicong, Dong Zhuo, Meiwu Fortress, Southern Xiongnu, Yufuluo Chanyu, Huchuquan Chanyu, and Fortress Security Illusion; updated overview, index, Gongsun Zan, Yuan Shao, Xiongnu, People-Based Political Security, Talent as State Treasure, Court Feedback Collapse, Atrocity Backfire Mobilization, Xingshiqing Strategic Assessment, Political Survival First, and Fief Security Illusion. No settled contradiction found; the source's "afraid to die" contrast and fortress-safety lesson are preserved as source-scoped interpretation.
 
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》1000丨郝萌叛乱，竟逼吕布翻墙逃跑？
 
-Added source page for Hanji 1000: Hao Meng's night revolt against Lü Bu at Xiapi, Gao Shun and Cao Xing's suppression of the revolt, Cao Xing's allegation against Yuan Shu and Chen Gong, Lü Bu's non-punishment of Chen Gong as factional-balance politics, and Emperor Xian's ruined return to Luoyang under Zhang Yang, Yang Feng, Han Xian, and Dong Cheng. Created Hao Meng, Cao Xing (late Han), Chen Gong (late Han), Zhang Liao, and Lü Bu Factional Balance; updated overview, index, Lü Bu, Gao Shun, Zhang Yang, Dong Cheng, Yang Feng, Han Xian, Luoyang (late Han), Emperor Xian of Han, Yuan Shu, Xiapi, and Political Survival First. No settled contradiction found; Chen Gong's alleged role and blush remain source-scoped rather than treated as independent proof.
+Added source page for 汉纪 1000: Hao Meng's night revolt against Lü Bu at Xiapi, Gao Shun and Cao Xing's suppression of the revolt, Cao Xing's allegation against Yuan Shu and Chen Gong, Lü Bu's non-punishment of Chen Gong as factional-balance politics, and Emperor Xian's ruined return to Luoyang under Zhang Yang, Yang Feng, Han Xian, and Dong Cheng. Created Hao Meng, Cao Xing (late Han), Chen Gong (late Han), Zhang Liao, and Lü Bu Factional Balance; updated overview, index, Lü Bu, Gao Shun, Zhang Yang, Dong Cheng, Yang Feng, Han Xian, Luoyang (late Han), Emperor Xian of Han, Yuan Shu, Xiapi, and Political Survival First. No settled contradiction found; Chen Gong's alleged role and blush remain source-scoped rather than treated as independent proof.
 
 ## [2026-08-24] ingest | Flock CEO Garrett Langley on Controversy, "Surveillance State" Claims, and Privacy vs Safety
 
@@ -787,63 +787,63 @@ Added source page for Luanfanshu episode 271: live discussion of the 2026 pseudo
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》176｜叔孙通如何为大汉制定礼仪制度
 
-Added source page for Hanji 176: Shusun Tong's completed Changle Palace court ritual, Liu Bang's experience of imperial dignity, Sima Guang's praise of li as governance, Lu Jia's Xinyu civil-order lesson, and Yang Xiong's critique of ritual talent serving royal favor. Created Imperial Ritual Distance and Xinyu; updated overview, index, Shusun Tong, Changle Palace, Liu Bang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, Lu Jia, Sima Guang, Yang Xiong, Fayan, Li Bai, Li-as-political-order, Power Etiquette Reading, Han Inherits Qin System, Official Learning Monopoly, Motive-Based Talent Evaluation, and Battlefield Victory To Founding Order. No settled contradiction found; preserved the source's tension between ritual order and hierarchical distance.
+Added source page for 汉纪 176: Shusun Tong's completed Changle Palace court ritual, Liu Bang's experience of imperial dignity, Sima Guang's praise of li as governance, Lu Jia's Xinyu civil-order lesson, and Yang Xiong's critique of ritual talent serving royal favor. Created Imperial Ritual Distance and Xinyu; updated overview, index, Shusun Tong, Changle Palace, Liu Bang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, Lu Jia, Sima Guang, Yang Xiong, Fayan, Li Bai, Li-as-political-order, Power Etiquette Reading, Han Inherits Qin System, Official Learning Monopoly, Motive-Based Talent Evaluation, and Battlefield Victory To Founding Order. No settled contradiction found; preserved the source's tension between ritual order and hierarchical distance.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）
 
-Added source page for Hanji 168 part 2: Xiang Yu's final route through Dongcheng, the twenty-eight-rider breakout, Yang Xi's frightened retreat, Wujiang pavilion chief's crossing offer, Xiang Yu's refusal to cross, the Wuzhui gift, the final self-killing, and the Han reward group around his body. Created Dongcheng (Chu-Han), Wujiang (Chu-Han), Wujiang Pavilion Chief, Wuzhui Horse, Yang Xi (Han), Lu Matong, Wang Yi (Han), Lu Sheng (Han), Yang Wu (Han), Du Mu, and Tactical Self-Vindication Trap; updated overview, index, Xiang Yu, Gaixia Battle, Four-Sided Chu Songs, People-Based Political Security, Correctable Leadership Error, and Gaixia Song. No settled contradiction found; kept the south-of-Yangtze regrouping possibility and Du Mu counterfactual source-scoped.
+Added source page for 汉纪 168 part 2: Xiang Yu's final route through Dongcheng, the twenty-eight-rider breakout, Yang Xi's frightened retreat, Wujiang pavilion chief's crossing offer, Xiang Yu's refusal to cross, the Wuzhui gift, the final self-killing, and the Han reward group around his body. Created Dongcheng (Chu-Han), Wujiang (Chu-Han), Wujiang Pavilion Chief, Wuzhui Horse, Yang Xi (Han), Lu Matong, Wang Yi (Han), Lu Sheng (Han), Yang Wu (Han), Du Mu, and Tactical Self-Vindication Trap; updated overview, index, Xiang Yu, Gaixia Battle, Four-Sided Chu Songs, People-Based Political Security, Correctable Leadership Error, and Gaixia Song. No settled contradiction found; kept the south-of-Yangtze regrouping possibility and Du Mu counterfactual source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》163｜刘邦手下谋士如何被韩信内卷惨死？
 
-Added source page for Hanji 163: Li Shiqi's death after Han Xin's Kuai Che-urged attack on Qi, Cao Jiu's provoked defeat at Sishui and the loss of Chenggao/Aocang, and the Guangwu hostage and duel confrontation between Xiang Yu and Liu Bang. Created Command Synchronization Failure, Guangwu (Chu-Han), and Sishui (Chu-Han); updated overview, index, and connected Chu-Han entity and concept pages. No settled contradiction found; Li Shiqi's hypothetical fourth-hero status and ambiguous Qi-name details remain source-scoped.
+Added source page for 汉纪 163: Li Shiqi's death after Han Xin's Kuai Che-urged attack on Qi, Cao Jiu's provoked defeat at Sishui and the loss of Chenggao/Aocang, and the Guangwu hostage and duel confrontation between Xiang Yu and Liu Bang. Created Command Synchronization Failure, Guangwu (Chu-Han), and Sishui (Chu-Han); updated overview, index, and connected Chu-Han entity and concept pages. No settled contradiction found; Li Shiqi's hypothetical fourth-hero status and ambiguous Qi-name details remain source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》162-3｜嘴炮王郦食其，不动一兵拿下70余城
 
-Added source page for Hanji 162-3: Liu Bang's interception posture after command recapture, Liu Jia and Lu Wan reinforcing Peng Yue's rear raids, Xiang Yu leaving Cao Jiu at Chenggao, Li Shiqi's Aocang/Chenggao logistics warning, his Linzi persuasion of Qi king Tian Guang, and Han Xin's Kuai Che-urged attack that endangers the envoy. Created Cao Jiu; updated overview, index, Li Shiqi, Han Xin, Kuai Che/Kuai Tong, Tian Guang (Qi King), Qi State, Peng Yue, Liu Jia, Lu Wan, Liu Bang, Xiang Yu, Chenggao, Aocang, Yingyang, Linzi, Victory Deterrence Diplomacy, Political Surrender Cascade, Status Anxiety Persuasion, Transport Corridor Severance, Interest Reframing Persuasion, Xingyang Standoff, Xiayi Plan, and Command Authority Recapture. No settled contradiction found; Li Shiqi's Aocang/Chenggao factual overclaims and the Han command synchronization failure are kept source-scoped.
+Added source page for 汉纪 162-3: Liu Bang's interception posture after command recapture, Liu Jia and Lu Wan reinforcing Peng Yue's rear raids, Xiang Yu leaving Cao Jiu at Chenggao, Li Shiqi's Aocang/Chenggao logistics warning, his Linzi persuasion of Qi king Tian Guang, and Han Xin's Kuai Che-urged attack that endangers the envoy. Created Cao Jiu; updated overview, index, Li Shiqi, Han Xin, Kuai Che/Kuai Tong, Tian Guang (Qi King), Qi State, Peng Yue, Liu Jia, Lu Wan, Liu Bang, Xiang Yu, Chenggao, Aocang, Yingyang, Linzi, Victory Deterrence Diplomacy, Political Surrender Cascade, Status Anxiety Persuasion, Transport Corridor Severance, Interest Reframing Persuasion, Xingyang Standoff, Xiayi Plan, and Command Authority Recapture. No settled contradiction found; Li Shiqi's Aocang/Chenggao factual overclaims and the Han command synchronization failure are kept source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》162-2｜刘邦如何收拾位高权重的下属
 
-Added source page for Hanji 162-2: Peng Yue's rear pressure around Xiapi and Chu logistics, Xiang Yu's exhausting tactical victories around Xingyang/Chenggao, Zhou Ke and Cong Gong's final capture/death branch, Liu Bang's northward flight with Xiahou Ying, command recapture from Han Xin and Zhang Er through seals and military tokens, Han Xin's redirection toward Qi, and Gong Ao's death/Gong Wei succession. Created Xiapi, Gong Wei, and Command Authority Recapture; updated overview, index, Liu Bang, Han Xin, Zhang Er, Peng Yue, Xiang Yu, Chenggao, Zhou Ke, Cong Gong, Xiahou Ying, Gong Ao, Xingyang Standoff, Transport Corridor Severance, Xiayi Plan, Victory Overreach Failure, and Command-Seal Trust Rupture. No settled contradiction found; kept the high-status-subordinate management lesson and tactical-victory-versus-strategic-exhaustion reading source-scoped.
+Added source page for 汉纪 162-2: Peng Yue's rear pressure around Xiapi and Chu logistics, Xiang Yu's exhausting tactical victories around Xingyang/Chenggao, Zhou Ke and Cong Gong's final capture/death branch, Liu Bang's northward flight with Xiahou Ying, command recapture from Han Xin and Zhang Er through seals and military tokens, Han Xin's redirection toward Qi, and Gong Ao's death/Gong Wei succession. Created Xiapi, Gong Wei, and Command Authority Recapture; updated overview, index, Liu Bang, Han Xin, Zhang Er, Peng Yue, Xiang Yu, Chenggao, Zhou Ke, Cong Gong, Xiahou Ying, Gong Ao, Xingyang Standoff, Transport Corridor Severance, Xiayi Plan, Victory Overreach Failure, and Command-Seal Trust Rupture. No settled contradiction found; kept the high-status-subordinate management lesson and tactical-victory-versus-strategic-exhaustion reading source-scoped.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（1）
 
-Added source page for Hanji 153 part 1: Liu Bang's immediate post-Pengcheng recovery question at Xiayi, Zhang Liang's Xiayi Plan using Ying Bu, Peng Yue, and Han Xin, the reward promise east of Wuguan, the Xiang Yu-Ying Bu trust fracture, and Sui He's volunteered mission to Jiujiang. Created Sui He and Xiayi Plan; updated overview, index, Liu Bang, Zhang Liang, Xiang Yu, Ying Bu, Peng Yue, Han Xin, Pengcheng Battle, Xiayi, Lu Ze, Wuguan, and Power-Based Alliance Repricing. No settled contradiction found; kept the opening adversity frame and the "hidden Han Xin" reading source-scoped.
+Added source page for 汉纪 153 part 1: Liu Bang's immediate post-Pengcheng recovery question at Xiayi, Zhang Liang's Xiayi Plan using Ying Bu, Peng Yue, and Han Xin, the reward promise east of Wuguan, the Xiang Yu-Ying Bu trust fracture, and Sui He's volunteered mission to Jiujiang. Created Sui He and Xiayi Plan; updated overview, index, Liu Bang, Zhang Liang, Xiang Yu, Ying Bu, Peng Yue, Han Xin, Pengcheng Battle, Xiayi, Lu Ze, Wuguan, and Power-Based Alliance Repricing. No settled contradiction found; kept the opening adversity frame and the "hidden Han Xin" reading source-scoped.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（2）
 
-Added source page for Hanji 151 part 2: Xiang Yu's Pengcheng counterattack through information blockade, false continuation of the Qi campaign, secret movement of thirty thousand elite mounted/chariot troops, night seizure of Xiao County, west-side attack against Liu Bang's command center, coalition collapse, river pursuit around Gu water, Si River, and Sui River, and Liu Bang's escape under a sudden violent windstorm. Created Xiao County, Sui River, Si River, and Cavalry Shock Command Strike; updated overview, index, Pengcheng Battle, Liu Bang, Xiang Yu, Xuzhou/Pengcheng, Victory Overreach Failure, Battlefield Information Control, Battlefield Encirclement Logistics, and Warring States Military Transformation. No settled contradiction found; troop counts, "天命" escape framing, and Liu Bang arrogance are kept source-scoped.
+Added source page for 汉纪 151 part 2: Xiang Yu's Pengcheng counterattack through information blockade, false continuation of the Qi campaign, secret movement of thirty thousand elite mounted/chariot troops, night seizure of Xiao County, west-side attack against Liu Bang's command center, coalition collapse, river pursuit around Gu water, Si River, and Sui River, and Liu Bang's escape under a sudden violent windstorm. Created Xiao County, Sui River, Si River, and Cavalry Shock Command Strike; updated overview, index, Pengcheng Battle, Liu Bang, Xiang Yu, Xuzhou/Pengcheng, Victory Overreach Failure, Battlefield Information Control, Battlefield Encirclement Logistics, and Warring States Military Transformation. No settled contradiction found; troop counts, "天命" escape framing, and Liu Bang arrogance are kept source-scoped.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》151｜还原彭城之战：项羽再封神（1）
 
-Added source page for Hanji 151 part 1: the setup to Pengcheng Battle through Dong Gong's advice to mourn Yi Emperor Mi Xin and name Xiang Yu as a regicidal rebel, Liu Bang's mourning-based coalition call, the fake Zhang Er head used to satisfy Chen Yu and gain Zhao participation, Henei and north-of-Yellow-River positioning, Tian Heng's installation of Tian Guang as Qi king around Chengyang/Ju, Liu Bang's capture of Pengcheng, and the victory indulgence that leaves even Zhang Liang and Chen Ping silent before Xiang Yu's response. Created Pengcheng Battle, Dong Gong (Xincheng), and Tian Guang (Qi King); updated overview, index, Liu Bang, Xiang Yu, Mi Xin, Chen Yu, Zhang Er, Tian Heng, Tian Rong, Ju, Xuzhou/Pengcheng, Zhang Liang, Chen Ping, Moralized War Pretext, Victory Overreach Failure, and Coalition Settlement Failure. No settled contradiction found; kept this source as the pre-battle setup rather than a full tactical account of the famous battle.
+Added source page for 汉纪 151 part 1: the setup to Pengcheng Battle through Dong Gong's advice to mourn Yi Emperor Mi Xin and name Xiang Yu as a regicidal rebel, Liu Bang's mourning-based coalition call, the fake Zhang Er head used to satisfy Chen Yu and gain Zhao participation, Henei and north-of-Yellow-River positioning, Tian Heng's installation of Tian Guang as Qi king around Chengyang/Ju, Liu Bang's capture of Pengcheng, and the victory indulgence that leaves even Zhang Liang and Chen Ping silent before Xiang Yu's response. Created Pengcheng Battle, Dong Gong (Xincheng), and Tian Guang (Qi King); updated overview, index, Liu Bang, Xiang Yu, Mi Xin, Chen Yu, Zhang Er, Tian Heng, Tian Rong, Ju, Xuzhou/Pengcheng, Zhang Liang, Chen Ping, Moralized War Pretext, Victory Overreach Failure, and Coalition Settlement Failure. No settled contradiction found; kept this source as the pre-battle setup rather than a full tactical account of the famous battle.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（3）
 
-Added source page for Hanji 150 part 3: Chen Ping's completed successful-politician profile through Liu Bang's response to slander, large-accounting-free funds for enemy-side inducement, bounded trust in covert political technology, Lu Zhi-era ambiguity around Lu-family kingship, Wang Ling's contrasting open opposition, Zhou Bo partnership, and the post-Lu restoration that installs Liu Heng / Emperor Wen of Han. Created Political Survival First and Second-in-Command Role Fit; updated overview, index, Chen Ping, Liu Bang, Lu Zhi, Wang Ling (Han minister), Zhou Bo, Liu Heng, Zhang Liang, Xiao He, Cao Shen, and Covert Political Technology. No settled contradiction found; repeated early-life material is treated as recap and the host's "conspirator" evaluation remains source-scoped.
+Added source page for 汉纪 150 part 3: Chen Ping's completed successful-politician profile through Liu Bang's response to slander, large-accounting-free funds for enemy-side inducement, bounded trust in covert political technology, Lu Zhi-era ambiguity around Lu-family kingship, Wang Ling's contrasting open opposition, Zhou Bo partnership, and the post-Lu restoration that installs Liu Heng / Emperor Wen of Han. Created Political Survival First and Second-in-Command Role Fit; updated overview, index, Chen Ping, Liu Bang, Lu Zhi, Wang Ling (Han minister), Zhou Bo, Liu Heng, Zhang Liang, Xiao He, Cao Shen, and Covert Political Technology. No settled contradiction found; repeated early-life material is treated as recap and the host's "conspirator" evaluation remains source-scoped.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150 PLUS｜再也不见2022，请多关照2023
 
-Added source page for Hanji 150 PLUS New Year special: a short cultural-history episode on 元旦 as a layered holiday linking 尧舜禹 legend, Han Wudi calendar order, the term's textual memory in 《晋书》, Jingchu and Eastern Han custom records, pepper-cypress wine, peach decoction, eggs, soup cakes, New Year cakes, Lu You poetry, and a 2023 blessing. Created YuanDan Festival Layering, Yao-Shun-Yu Legend, Jinshu, Jingchu Suishi Ji, Simin Yueling, and Lu You; updated overview, index, Han Wudi, Yu the Great, Calendar Reform Legitimacy, and Festival Food Material History. No settled contradiction found; kept the origin story, earliest-term claim, and "2022/2023" listener frame source-scoped despite the 2026-01-14 file date.
+Added source page for 汉纪 150 PLUS New Year special: a short cultural-history episode on 元旦 as a layered holiday linking 尧舜禹 legend, Han Wudi calendar order, the term's textual memory in 《晋书》, Jingchu and Eastern Han custom records, pepper-cypress wine, peach decoction, eggs, soup cakes, New Year cakes, Lu You poetry, and a 2023 blessing. Created YuanDan Festival Layering, Yao-Shun-Yu Legend, Jinshu, Jingchu Suishi Ji, Simin Yueling, and Lu You; updated overview, index, Han Wudi, Yu the Great, Calendar Reform Legitimacy, and Festival Food Material History. No settled contradiction found; kept the origin story, earliest-term claim, and "2022/2023" listener frame source-scoped despite the 2026-01-14 file date.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150 PLUS｜送给2023想成事的你
 
-Added source page for Hanji 150 PLUS: a short reflection using Zeng Guofan to frame "成事" as long-term endurance, patient accumulation, self-discipline,善念/善言/善行, and gradual self-change rather than a burst of effort. Created Long-Term Achievement Discipline; updated overview, index, Zeng Guofan, Late-Blooming Talent, Human Nature Plasticity, and Virtue Practice Internalization. No settled contradiction found; kept the Zeng childhood anecdote as illustrative and the "2023" action frame as source-dated despite the 2026-01-14 file date.
+Added source page for 汉纪 150 PLUS: a short reflection using Zeng Guofan to frame "成事" as long-term endurance, patient accumulation, self-discipline,善念/善言/善行, and gradual self-change rather than a burst of effort. Created Long-Term Achievement Discipline; updated overview, index, Zeng Guofan, Late-Blooming Talent, Human Nature Plasticity, and Virtue Practice Internalization. No settled contradiction found; kept the Zeng childhood anecdote as illustrative and the "2023" action frame as source-dated despite the 2026-01-14 file date.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（2）
 
-Added source page for Hanji 149 part 2: Zheng Chang's appointment and surrender, Shen Yang's surrender and Henan Commandery conversion, Han Wang Xin's disambiguated Han kingship, Liu Bang's move to Liyang and seizure of Longxi/Beidi, Xiang Yu's Qi campaign and atrocity backfire after Tian Rong's death, Wei Bao's reward-allocation-driven surrender, and Sima Ang's capture with Henei Commandery creation. Created Han Wang Xin, Zheng Chang (Han King), Liyang (Qin-Han), Henan Commandery (Chu-Han), Henei Commandery, and Zhang Ping (Qin General); updated overview, index, Liu Bang, Xiang Yu, Tian Rong, Shen Yang, Wei Bao, Sima Ang, Longxi Commandery, Beidi Commandery, Guanzhong Region, Han Xin, Xiao He, Zhang Liang, Yingchuan, Sanchuan, Guan Ying, Atrocity Backfire Mobilization, Occupation Pacification Strategy, Political Surrender Cascade, Conquest Commandery Transition, Strategic Capital Relocation, Reward Allocation Backlash, Coalition Settlement Failure, and Three Qin Containment. No settled contradiction found; disambiguated Han Wang Xin from Han Xin, Zhang Ping (Qin General) from Zhang Ping (Han), and Liyang (Qin-Han) from other romanized Liyang locations.
+Added source page for 汉纪 149 part 2: Zheng Chang's appointment and surrender, Shen Yang's surrender and Henan Commandery conversion, Han Wang Xin's disambiguated Han kingship, Liu Bang's move to Liyang and seizure of Longxi/Beidi, Xiang Yu's Qi campaign and atrocity backfire after Tian Rong's death, Wei Bao's reward-allocation-driven surrender, and Sima Ang's capture with Henei Commandery creation. Created Han Wang Xin, Zheng Chang (Han King), Liyang (Qin-Han), Henan Commandery (Chu-Han), Henei Commandery, and Zhang Ping (Qin General); updated overview, index, Liu Bang, Xiang Yu, Tian Rong, Shen Yang, Wei Bao, Sima Ang, Longxi Commandery, Beidi Commandery, Guanzhong Region, Han Xin, Xiao He, Zhang Liang, Yingchuan, Sanchuan, Guan Ying, Atrocity Backfire Mobilization, Occupation Pacification Strategy, Political Surrender Cascade, Conquest Commandery Transition, Strategic Capital Relocation, Reward Allocation Backlash, Coalition Settlement Failure, and Three Qin Containment. No settled contradiction found; disambiguated Han Wang Xin from Han Xin, Zhang Ping (Qin General) from Zhang Ping (Han), and Liyang (Qin-Han) from other romanized Liyang locations.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》149｜西楚霸王项羽为何弑君（1）
 
-Added source page for Hanji 149: Xiang Yu's forced relocation of Yi Emperor Mi Xin to Chenxian, the order to Ying Bu, Wu Rui, and Gong Ao to kill him, Ying Bu's eventual execution of the order, local burial at Chenxian, Xiang Yu's motives around the Huaiwang Agreement and fear of Mi Xin as a political banner, Liu Bang's use of the murder to summon lords against Xiang Yu, Chen Yu's defeat of Zhang Er and restoration of Zhao Xie, Xia Shuo's Dai administration role, Gan Gong's advice that Zhang Er join Liu Bang, and Zhang Liang's move to Liu Bang after Han Cheng's death. Created Gan Gong and Xia Shuo; updated overview, index, Mi Xin, Xiang Yu, Liu Bang, Ying Bu, Wu Rui, Gong Ao, Chenxian, Chen Yu, Zhang Er, Zhao Xie, Zhang Liang, Han Cheng, Huaiwang Agreement, Restored Royal Figurehead Legitimacy, Reward Allocation Backlash, and Coalition Settlement Failure. No settled contradiction found; this source completes the killing only set up in Hanji 143.
+Added source page for 汉纪 149: Xiang Yu's forced relocation of Yi Emperor Mi Xin to Chenxian, the order to Ying Bu, Wu Rui, and Gong Ao to kill him, Ying Bu's eventual execution of the order, local burial at Chenxian, Xiang Yu's motives around the Huaiwang Agreement and fear of Mi Xin as a political banner, Liu Bang's use of the murder to summon lords against Xiang Yu, Chen Yu's defeat of Zhang Er and restoration of Zhao Xie, Xia Shuo's Dai administration role, Gan Gong's advice that Zhang Er join Liu Bang, and Zhang Liang's move to Liu Bang after Han Cheng's death. Created Gan Gong and Xia Shuo; updated overview, index, Mi Xin, Xiang Yu, Liu Bang, Ying Bu, Wu Rui, Gong Ao, Chenxian, Chen Yu, Zhang Er, Zhao Xie, Zhang Liang, Han Cheng, Huaiwang Agreement, Restored Royal Figurehead Legitimacy, Reward Allocation Backlash, and Coalition Settlement Failure. No settled contradiction found; this source completes the killing only set up in 汉纪 143.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心
 
-Added source page for Hanji 148-2: Han Xin's prior Guanzhong victory as Liu Bang's new operating condition, Liu Bang's attempt to retrieve Liu Taigong/Lu Zhi and contact Wang Ling, Xiang Yu's capture of Wang Ling's mother, her suicide to remove filial leverage, Xiang Yu's corpse-burning backfire, Liu Bang's public claim to be restoring the Huaiwang Agreement, and the wider timing pressure from Tian Rong, Peng Yue, Yan unrest, and Mi Xin's relocation. Created Wang Ling (Han minister) and Wang Ling Mother; updated overview, index, Han Xin, Liu Bang, Xiang Yu, Liu Taigong, Lu Zhi, Peng Yue, Tian Rong, Zhang Liang, Han Guang, Zang Tu, Mi Xin, Loyalty-Collateral Dilemma, Atrocity Backfire Mobilization, Reward Allocation Backlash, Coalition Settlement Failure, and Huaiwang Agreement. No settled contradiction found; disambiguated this Wang Ling from the existing Qin general page.
+Added source page for 汉纪 148-2: Han Xin's prior Guanzhong victory as Liu Bang's new operating condition, Liu Bang's attempt to retrieve Liu Taigong/Lu Zhi and contact Wang Ling, Xiang Yu's capture of Wang Ling's mother, her suicide to remove filial leverage, Xiang Yu's corpse-burning backfire, Liu Bang's public claim to be restoring the Huaiwang Agreement, and the wider timing pressure from Tian Rong, Peng Yue, Yan unrest, and Mi Xin's relocation. Created Wang Ling (Han minister) and Wang Ling Mother; updated overview, index, Han Xin, Liu Bang, Xiang Yu, Liu Taigong, Lu Zhi, Peng Yue, Tian Rong, Zhang Liang, Han Guang, Zang Tu, Mi Xin, Loyalty-Collateral Dilemma, Atrocity Backfire Mobilization, Reward Allocation Backlash, Coalition Settlement Failure, and Huaiwang Agreement. No settled contradiction found; disambiguated this Wang Ling from the existing Qin general page.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》147｜媲美诸葛亮隆中对的“汉中对”
 
-Added source page for Hanji 147: Han Xin's post-appointment strategy audience with Liu Bang, his comparison of Liu Bang's visible weakness against Xiang Yu, his critique of Xiang Yu's "匹夫之勇" and "妇人之仁," Xiang Yu's Guanzhong, Huaiwang-agreement, Yi Emperor, reward, and people-support failures, and the conclusion that Liu Bang can attack the Three Qin by combining Guanzhong memory, Yuefa Sanzhang, and resentment toward Zhang Han, Sima Xin, and Dong Yi after Xinan. Created Hanzhong Dui; updated overview, index, Han Xin, Liu Bang, Xiao He, Xiang Yu, Hanzhong, Nanzheng, Guanzhong Region, Three Qin Containment, Strategic Retreat Base-Building, Ritualized Command Appointment, Huaiwang Agreement, Yuefa Sanzhang, Xinan Massacre, Zhang Han, Sima Xin, and Dong Yi. No settled contradiction found; kept Han Xin's departure motive and the likely Xiao He-Han Xin long talk as source-scoped inference.
+Added source page for 汉纪 147: Han Xin's post-appointment strategy audience with Liu Bang, his comparison of Liu Bang's visible weakness against Xiang Yu, his critique of Xiang Yu's "匹夫之勇" and "妇人之仁," Xiang Yu's Guanzhong, Huaiwang-agreement, Yi Emperor, reward, and people-support failures, and the conclusion that Liu Bang can attack the Three Qin by combining Guanzhong memory, Yuefa Sanzhang, and resentment toward Zhang Han, Sima Xin, and Dong Yi after Xinan. Created Hanzhong Dui; updated overview, index, Han Xin, Liu Bang, Xiao He, Xiang Yu, Hanzhong, Nanzheng, Guanzhong Region, Three Qin Containment, Strategic Retreat Base-Building, Ritualized Command Appointment, Huaiwang Agreement, Yuefa Sanzhang, Xinan Massacre, Zhang Han, Sima Xin, and Dong Yi. No settled contradiction found; kept Han Xin's departure motive and the likely Xiao He-Han Xin long talk as source-scoped inference.
 
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》137｜深度解读：指鹿为马中的权力博弈
 
@@ -2167,7 +2167,7 @@ Added source note plus Wang Bao, 《圣主得贤臣颂》, 《僮约》, Gold Ho
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼
 
-Added source note for Hanji 449 and updated the Xuan-era Xiongnu diplomacy branch. Key claims: Xiongnu's five-chanyu crisis shows succession fragmentation through arbitrary killing and title imitation; Xiao Wangzhi recommends mourning and aid rather than opportunistic attack; Han Xuan accepts restraint as a path toward prestige and future submission.
+Added source note for 汉纪 449 and updated the Xuan-era Xiongnu diplomacy branch. Key claims: Xiongnu's five-chanyu crisis shows succession fragmentation through arbitrary killing and title imitation; Xiao Wangzhi recommends mourning and aid rather than opportunistic attack; Han Xuan accepts restraint as a path toward prestige and future submission.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》460｜60岁刺杀亲夫！她是史上最彪悍的和亲公主
 
@@ -2192,19 +2192,19 @@ Added source note, created Yi Yan Moyan, Legal Complexity Discretion Power, and 
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》522丨是谁让刘氏江山改姓了“王”？
 
-Added source note for Hanji 522, created DeniablePatronageSignaling, and extended Liu Xiang, Wang Yin, and outer-relative preventive restraint around Wang-family appointment networks, Liu-kin exclusion, and Liu Xiang's unadopted secret memorial.
+Added source note for 汉纪 522, created DeniablePatronageSignaling, and extended Liu Xiang, Wang Yin, and outer-relative preventive restraint around Wang-family appointment networks, Liu-kin exclusion, and Liu Xiang's unadopted secret memorial.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》526丨汉朝奇葩制度：皇帝死了就能迁户口？
 
-Added a source note for Hanji 526, created MausoleumCountyEliteRelocation, migrated and extended GuanzhongEliteRelocation, StrongTrunkWeakBranchCentralization, and HouseholdOccupationControl, and updated ChenTangWesternHan and XieWannianWesternHan with the Changlingyi prequel and household-registration motive. No settled contradictions found.
+Added a source note for 汉纪 526, created MausoleumCountyEliteRelocation, migrated and extended GuanzhongEliteRelocation, StrongTrunkWeakBranchCentralization, and HouseholdOccupationControl, and updated ChenTangWesternHan and XieWannianWesternHan with the Changlingyi prequel and household-registration motive. No settled contradictions found.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》527-2丨抽筋扒皮？古代的人贩子真活该！
 
-Added source note for Hanji 527-2, created entities for 《二年律令》, 《盲山》, and 于华英案, created concepts for trafficking family trauma, Han legal deterrence, demand-side liability, and public anti-trafficking attention, and updated Zhangjiashan bamboo slips as the excavated legal-text context.
+Added source note for 汉纪 527-2, created entities for 《二年律令》, 《盲山》, and 于华英案, created concepts for trafficking family trauma, Han legal deterrence, demand-side liability, and public anti-trafficking attention, and updated Zhangjiashan bamboo slips as the excavated legal-text context.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》528丨才女班婕妤：我为丈夫纳新欢！
 
-Added source note for Hanji 528, extended Ban Jieyu with the carriage-refusal and Li Ping recommendation layer, and created Palace Favor Self-Restraint for the episode's restrained-favor and bounded-rivalry synthesis.
+Added source note for 汉纪 528, extended Ban Jieyu with the carriage-refusal and Li Ping recommendation layer, and created Palace Favor Self-Restraint for the episode's restrained-favor and bounded-rivalry synthesis.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》530丨赵飞燕艳冠后宫，成帝为何更宠妹妹？
 
@@ -2212,7 +2212,7 @@ Added source. Key claims: Zhao Hede's entry into Chengdi's palace required manag
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》541丨他是民族英雄，最后为何因贪入狱？
 
-Added source page for a 芮淇讲透资治通鉴 episode backfilling the Changling case between Hanji 540 and Hanji 542. Created `XieWannianWesternHan` and `PublicReasonPrivateMotive`; updated `ChenTangWesternHan`, `WangShangWesternHan`, `PingDangWesternHan`, `ChunyuZhangWesternHan`, `HanChengdi`, and `index`. No settled contradiction found; Chen Tang's exact corruption evidence, Wang Shang's full motive, Wang Hong's identity, the full Changling case file, and the transcript's "淳于常" name form remain source-scoped.
+Added source page for a 芮淇讲透资治通鉴 episode backfilling the Changling case between 汉纪 540 and 汉纪 542. Created `XieWannianWesternHan` and `PublicReasonPrivateMotive`; updated `ChenTangWesternHan`, `WangShangWesternHan`, `PingDangWesternHan`, `ChunyuZhangWesternHan`, `HanChengdi`, and `index`. No settled contradiction found; Chen Tang's exact corruption evidence, Wang Shang's full motive, Wang Hong's identity, the full Changling case file, and the transcript's "淳于常" name form remain source-scoped.
 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》553丨职场中如何识别明升暗降？
 
@@ -2220,7 +2220,7 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 
 
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》548丨职场嫉妒心重？芮淇教你化解！
 
-Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Zhang Yu's de-escalation of Wang Gen's jealousy before Hanji 549. Created Jealousy De-escalation by Rival Protection and Disaster-Omen Interpretive Skepticism; updated Wang Gen, Zhang Yu, and Omen Skepticism Remonstrance. No settled contradiction found; Zhang Yu's 张瑜/张禹 character form and the illustrative Cao Pi/Cao Zhi and Zhou Yu/Zhuge Liang examples remain source-scoped.
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Zhang Yu's de-escalation of Wang Gen's jealousy before 汉纪 549. Created Jealousy De-escalation by Rival Protection and Disaster-Omen Interpretive Skepticism; updated Wang Gen, Zhang Yu, and Omen Skepticism Remonstrance. No settled contradiction found; Zhang Yu's 张瑜/张禹 character form and the illustrative Cao Pi/Cao Zhi and Zhou Yu/Zhuge Liang examples remain source-scoped.
 
 ## [2026-09-09] ingest | AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
@@ -2236,7 +2236,7 @@ Added source note for the All-In episode with Thomas Laffont on Coatue's unicorn
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》642丨靠心机上位的人，最讨厌什么？
 
-Added source note for Hanji 642. Key claims: Wang Mang's rewarded fuming politics becomes dangerous after accession; Chen Chong warns that uncontrolled fuming lets opportunists chase rank and confuse mandate language; Wang Mang restricts unauthorized fuming reports; Zhen Xun's marriage claim toward Wang Mang's daughter triggers the Zhen Feng/Zhen Xun purge; the closing fangshi and Xiongnu material keeps the episode tied to Xin omen politics and frontier overreach.
+Added source note for 汉纪 642. Key claims: Wang Mang's rewarded fuming politics becomes dangerous after accession; Chen Chong warns that uncontrolled fuming lets opportunists chase rank and confuse mandate language; Wang Mang restricts unauthorized fuming reports; Zhen Xun's marriage claim toward Wang Mang's daughter triggers the Zhen Feng/Zhen Xun purge; the closing fangshi and Xiongnu material keeps the episode tied to Xin omen politics and frontier overreach.
 
 ## [2026-09-09] ingest | 史蒂夫说465期 - 凉意 - 让我们从容不迫地从子宫走向现实世界
 
@@ -2248,7 +2248,7 @@ Ingested the 2026-06-17 芮淇讲透资治通鉴 episode on Feng Yi's disputed-c
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》709丨面对绑架案，古人为何不管人质死活？
 
-Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 9-10 / 33-34 CE before Hanji 711. Created `KouXunEasternHan`, `GaoJunEasternHan`, `HuangfuWenEasternHan`, `MouDestructionStrike`, and `CreditBasedBanditSurrender`; updated `HostageRansomDeterrence`, `GuoJiEasternHan`, `YinLihua`, `YinXingGuangwuMaternalKin`, `OuterRelativePreventiveRestraint`, overview, and index. No settled contradiction found; transcript forms 殷心, 郭吉, 尹川, 寇勋, and 高郡 are normalized cautiously to 阴兴, 郭伋, 颍川, 寇恂, and 高峻, while Yin Lihua's killed brother, Zhao Hong, Zhao Wu, Shache succession notices, and Feng Yi's final campaign remain source-scoped.
+Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 9-10 / 33-34 CE before 汉纪 711. Created `KouXunEasternHan`, `GaoJunEasternHan`, `HuangfuWenEasternHan`, `MouDestructionStrike`, and `CreditBasedBanditSurrender`; updated `HostageRansomDeterrence`, `GuoJiEasternHan`, `YinLihua`, `YinXingGuangwuMaternalKin`, `OuterRelativePreventiveRestraint`, overview, and index. No settled contradiction found; transcript forms 殷心, 郭吉, 尹川, 寇勋, and 高郡 are normalized cautiously to 阴兴, 郭伋, 颍川, 寇恂, and 高峻, while Yin Lihua's killed brother, Zhao Hong, Zhao Wu, Shache succession notices, and Feng Yi's final campaign remain source-scoped.
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》759丨人性各种欲望，最可怕的是权力欲
 
@@ -10364,7 +10364,7 @@ Added source page for Qinji 114-2: Yan Taizi Dan's response to Qin pressure afte
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1）
 
-Added source page for Hanji 152 part 1: Pengcheng defeat reframed through Liu Bang's command ceiling, Han Xin's absence from the main army, the later "韩信将兵，多多益善" exchange, ancient large-army signaling/logistics constraints, Wang Jian/Han Xin as rare large-force commanders, and Liu Bang's flight with his children. Created Ancient Large-Army Command Limits, Liu Ying, and Princess Lu Yuan; updated overview, index, Pengcheng Battle, Han Xin, Liu Bang, Xiang Yu, and Zhang Han. No settled contradiction found; kept the Han Xin-at-Pengcheng claim as source-scoped counterfactual and troop totals as source framing.
+Added source page for 汉纪 152 part 1: Pengcheng defeat reframed through Liu Bang's command ceiling, Han Xin's absence from the main army, the later "韩信将兵，多多益善" exchange, ancient large-army signaling/logistics constraints, Wang Jian/Han Xin as rare large-force commanders, and Liu Bang's flight with his children. Created Ancient Large-Army Command Limits, Liu Ying, and Princess Lu Yuan; updated overview, index, Pengcheng Battle, Han Xin, Liu Bang, Xiang Yu, and Zhang Han. No settled contradiction found; kept the Han Xin-at-Pengcheng claim as source-scoped counterfactual and troop totals as source framing.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10372,11 +10372,11 @@ Ran lint after health and identity validation passed. Health scanned 12,951 wiki
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（2）
 
-Added source page for Hanji 145 part 2: Han Xin's proposed old-Han royal descent and paternal flight to Huaiyin, possible early military training and family兵书, the link between poverty/social awkwardness and long兵法 study, Jiang Taigong and Sunzi as strategic models, Su Shi's "大勇" frame, and 《孙子兵法·火攻篇》 as an interest-gated action rule against anger and resentment. Updated overview, index, Han Xin, Huaiyin, Great Courage Under Humiliation, SunziBingfa, Anger-Driven War Decision, Su Shi, Jiang Taigong, Sima Qian, and Shiji. No settled contradiction found; kept the royal-lineage and father-training details source-scoped beside the earlier family-background evidence gap.
+Added source page for 汉纪 145 part 2: Han Xin's proposed old-Han royal descent and paternal flight to Huaiyin, possible early military training and family兵书, the link between poverty/social awkwardness and long兵法 study, Jiang Taigong and Sunzi as strategic models, Su Shi's "大勇" frame, and 《孙子兵法·火攻篇》 as an interest-gated action rule against anger and resentment. Updated overview, index, Han Xin, Huaiyin, Great Courage Under Humiliation, SunziBingfa, Anger-Driven War Decision, Su Shi, Jiang Taigong, Sima Qian, and Shiji. No settled contradiction found; kept the royal-lineage and father-training details source-scoped beside the earlier family-background evidence gap.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》139｜“他”再次影响“汉朝”
 
-Added source page for Hanji 139: Ziying's surrender and Qin's formal end, Liu Bang's Bashang pacification through sparing Ziying, preserving Qin officials, Yuefa Sanzhang, refusal of local gifts, Xiao He's archive capture, Fan Kuai/Zhang Liang palace-restraint advice, and Xiang Yu's Xinan killing of surrendered Qin troops. Created Bashang, Xinan Massacre, Yuefa Sanzhang, and Administrative Archive Capture; updated overview, index, Liu Bang, Xiang Yu, Ziying, Xiao He, Fan Kuai, Zhang Liang, Zhang Han, Sima Xin, Dong Yi, Ying Bu, Pu General, Qin State, Xianyang, Guanzhong, Hangu Pass, Western Han, Laozi, Occupation Pacification Strategy, Political Surrender Cascade, Non-Killing Unification, Surrendered Prisoner Security Dilemma, Punitive Surrender Deterrence, Post-Battle Terror Signaling, People-Based Political Security, and Coalition Settlement Failure. No settled contradiction found; kept Liu Bang's restraint as source-scoped political pacification rather than erasing prior Yingchuan terror, and merged the Dong Yi name forms 董义/董翳 on one canonical page.
+Added source page for 汉纪 139: Ziying's surrender and Qin's formal end, Liu Bang's Bashang pacification through sparing Ziying, preserving Qin officials, Yuefa Sanzhang, refusal of local gifts, Xiao He's archive capture, Fan Kuai/Zhang Liang palace-restraint advice, and Xiang Yu's Xinan killing of surrendered Qin troops. Created Bashang, Xinan Massacre, Yuefa Sanzhang, and Administrative Archive Capture; updated overview, index, Liu Bang, Xiang Yu, Ziying, Xiao He, Fan Kuai, Zhang Liang, Zhang Han, Sima Xin, Dong Yi, Ying Bu, Pu General, Qin State, Xianyang, Guanzhong, Hangu Pass, Western Han, Laozi, Occupation Pacification Strategy, Political Surrender Cascade, Non-Killing Unification, Surrendered Prisoner Security Dilemma, Punitive Surrender Deterrence, Post-Battle Terror Signaling, People-Based Political Security, and Coalition Settlement Failure. No settled contradiction found; kept Liu Bang's restraint as source-scoped political pacification rather than erasing prior Yingchuan terror, and merged the Dong Yi name forms 董义/董翳 on one canonical page.
 
 ## [2026-08-22] ingest | 《资治通鉴·秦纪》138｜误读千年的历史真相：赵高不是太监（1）
 
@@ -10808,7 +10808,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（1）
 
-Added source page for Hanji 140 part 1: Liu Bang's first-entry Guanzhong advantage and pass closure, Xiang Yu's angry forced breakthrough and attack decision, Cao Wushang's leak, Fan Zeng's recognition of Liu Bang's dangerous restraint and failure to supply a legitimate pretext, and Xiang Bo's entry into the Zhang Liang warning channel. Created Xiang Bo; updated overview, index, Liu Bang, Xiang Yu, Fan Zeng, Cao Wushang, Zhang Liang, Hongmen Yan, Guanzhong, Hangu Pass, Bashang, Ying Bu, Huaiwang Agreement, Aristocratic Friendship vs State Order, Anger-Driven War Decision, Moralized War Pretext, and Moral Face Under Power Competition. No settled contradiction found; kept the transcript cutoff around Xiang Bo/Zhang Liang source-scoped.
+Added source page for 汉纪 140 part 1: Liu Bang's first-entry Guanzhong advantage and pass closure, Xiang Yu's angry forced breakthrough and attack decision, Cao Wushang's leak, Fan Zeng's recognition of Liu Bang's dangerous restraint and failure to supply a legitimate pretext, and Xiang Bo's entry into the Zhang Liang warning channel. Created Xiang Bo; updated overview, index, Liu Bang, Xiang Yu, Fan Zeng, Cao Wushang, Zhang Liang, Hongmen Yan, Guanzhong, Hangu Pass, Bashang, Ying Bu, Huaiwang Agreement, Aristocratic Friendship vs State Order, Anger-Driven War Decision, Moralized War Pretext, and Moral Face Under Power Competition. No settled contradiction found; kept the transcript cutoff around Xiang Bo/Zhang Liang source-scoped.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10816,7 +10816,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》140｜项羽与刘邦是真友情还是相互利用？（2）
 
-Added source page for Hanji 140 part 2: Xiang Bo's night ride to Bashang to warn Zhang Liang, Zhang Liang's refusal to flee without Liu Bang, Liu Bang's courtesy-and-loyalty performance toward Xiang Bo, Xiang Bo's return argument that attacking Liu Bang would be 不义, Xiang Yu's cancellation of the attack order, and the pre-Hongmen 灭刘派/存刘派 split. Updated overview, index, Liu Bang, Xiang Yu, Zhang Liang, Xiang Bo, Fan Zeng, Hongmen Yan, Bashang, Guanzhong, Huaiwang Agreement, Aristocratic Friendship vs State Order, Emotional De-escalation Persuasion, Power Etiquette Reading, Moralized War Pretext, Moral Face Under Power Competition, and Anger-Driven War Decision. No settled contradiction found; recorded the source's distinction between Fan Zeng's hindsight-plausible strategic warning and Xiang Bo's stronger in-the-moment public-morality argument.
+Added source page for 汉纪 140 part 2: Xiang Bo's night ride to Bashang to warn Zhang Liang, Zhang Liang's refusal to flee without Liu Bang, Liu Bang's courtesy-and-loyalty performance toward Xiang Bo, Xiang Bo's return argument that attacking Liu Bang would be 不义, Xiang Yu's cancellation of the attack order, and the pre-Hongmen 灭刘派/存刘派 split. Updated overview, index, Liu Bang, Xiang Yu, Zhang Liang, Xiang Bo, Fan Zeng, Hongmen Yan, Bashang, Guanzhong, Huaiwang Agreement, Aristocratic Friendship vs State Order, Emotional De-escalation Persuasion, Power Etiquette Reading, Moralized War Pretext, Moral Face Under Power Competition, and Anger-Driven War Decision. No settled contradiction found; recorded the source's distinction between Fan Zeng's hindsight-plausible strategic warning and Xiang Bo's stronger in-the-moment public-morality argument.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10824,7 +10824,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》141｜还原历史中的“鸿门宴”
 
-Added source page for Hanji 141: Liu Bang's Hongmen entry with Zhang Liang while Fan Kuai, Xiahou Ying, Ji Xin, Jin Qiang, and cavalry wait outside; the seating hierarchy; Liu Bang's apology and Xiang Yu's exposure of Cao Wushang as informant; Fan Zeng's ignored jade-ring signals; Xiang Zhuang's sword-dance assassination attempt; and Xiang Bo's protective counter-dance. Created Xiang Zhuang, Ji Xin, Jin Qiang, Informer Source Protection, and Advisor Role Boundary; updated overview, index, Hongmen Yan, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Zhang Liang, Fan Kuai, Xiahou Ying, Cao Wushang, Power Etiquette Reading, Moralized War Pretext, Moral Face Under Power Competition, and Emotional De-escalation Persuasion. No settled contradiction found; treated the critique of Fan Zeng's overreach and the 金强 transcript form as source-scoped.
+Added source page for 汉纪 141: Liu Bang's Hongmen entry with Zhang Liang while Fan Kuai, Xiahou Ying, Ji Xin, Jin Qiang, and cavalry wait outside; the seating hierarchy; Liu Bang's apology and Xiang Yu's exposure of Cao Wushang as informant; Fan Zeng's ignored jade-ring signals; Xiang Zhuang's sword-dance assassination attempt; and Xiang Bo's protective counter-dance. Created Xiang Zhuang, Ji Xin, Jin Qiang, Informer Source Protection, and Advisor Role Boundary; updated overview, index, Hongmen Yan, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Zhang Liang, Fan Kuai, Xiahou Ying, Cao Wushang, Power Etiquette Reading, Moralized War Pretext, Moral Face Under Power Competition, and Emotional De-escalation Persuasion. No settled contradiction found; treated the critique of Fan Zeng's overreach and the 金强 transcript form as source-scoped.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10832,7 +10832,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》142｜这场聚会，项羽输掉了一切
 
-Added source page for Hanji 142: Fan Kuai's forceful Hongmen entry and status-recognizing rebuke, Liu Bang's bathroom-pretext escape and small-road return to Bashang, Zhang Liang's delayed gift explanation, Chen Ping's source-scoped search restraint, Fan Zeng's smashed jade-dipper warning, Cao Wushang's execution, and Xiang Yu's post-Xianyang killing of Ziying, palace burning, plunder, rejected Guanzhong base advice, and killing of Han Sheng. Created Chen Ping and Han Sheng; updated overview, index, Hongmen Yan, Liu Bang, Xiang Yu, Zhang Liang, Fan Kuai, Fan Zeng, Xiahou Ying, Ji Xin, Cao Wushang, Bashang, Ziying, Guanzhong, Xianyang, Informer Source Protection, Advisor Role Boundary, Power Etiquette Reading, Huaiwang Agreement, Occupation Pacification Strategy, People-Based Political Security, Coalition Settlement Failure, and Victory Overreach Failure. No settled contradiction found; treated Chen Ping's role as foreshadowing rather than completed defection and kept Xiang Yu's harsher post-Xianyang judgment compatible with the earlier moral-face reading.
+Added source page for 汉纪 142: Fan Kuai's forceful Hongmen entry and status-recognizing rebuke, Liu Bang's bathroom-pretext escape and small-road return to Bashang, Zhang Liang's delayed gift explanation, Chen Ping's source-scoped search restraint, Fan Zeng's smashed jade-dipper warning, Cao Wushang's execution, and Xiang Yu's post-Xianyang killing of Ziying, palace burning, plunder, rejected Guanzhong base advice, and killing of Han Sheng. Created Chen Ping and Han Sheng; updated overview, index, Hongmen Yan, Liu Bang, Xiang Yu, Zhang Liang, Fan Kuai, Fan Zeng, Xiahou Ying, Ji Xin, Cao Wushang, Bashang, Ziying, Guanzhong, Xianyang, Informer Source Protection, Advisor Role Boundary, Power Etiquette Reading, Huaiwang Agreement, Occupation Pacification Strategy, People-Based Political Security, Coalition Settlement Failure, and Victory Overreach Failure. No settled contradiction found; treated Chen Ping's role as foreshadowing rather than completed defection and kept Xiang Yu's harsher post-Xianyang judgment compatible with the earlier moral-face reading.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10840,7 +10840,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》143｜项羽是如何费尽心机弄死楚怀王芈心
 
-Added source page for Hanji 143: Xiang Yu's request to discard the Huaiwang promise, Mi Xin's refusal, Xiang Yu's denial of Mi Xin's settlement authority, virtual elevation to Yi Emperor and relocation to Chenxian, Liu Bang's assignment as Han king at Nanzheng, the Three Qin blocking arrangement around Zhang Han, Sima Xin, and Dong Yi, and the episode's Zhou-Qin hybrid interpretation of the nineteen-lord settlement. Created Zhou-Qin Hybrid Order, Three Qin Containment, Nanzheng, Chenxian (Changsha), Shen Yang, Zang Tu, Tian Shi, Tian Du, Tian An, Gong Ao, and Mei Juan; updated overview, index, and related Chu-Han pages. No settled contradiction found; treated the title's "弄死楚怀王" as setup through isolation rather than a full narration of Mi Xin's final killing.
+Added source page for 汉纪 143: Xiang Yu's request to discard the Huaiwang promise, Mi Xin's refusal, Xiang Yu's denial of Mi Xin's settlement authority, virtual elevation to Yi Emperor and relocation to Chenxian, Liu Bang's assignment as Han king at Nanzheng, the Three Qin blocking arrangement around Zhang Han, Sima Xin, and Dong Yi, and the episode's Zhou-Qin hybrid interpretation of the nineteen-lord settlement. Created Zhou-Qin Hybrid Order, Three Qin Containment, Nanzheng, Chenxian (Changsha), Shen Yang, Zang Tu, Tian Shi, Tian Du, Tian An, Gong Ao, and Mei Juan; updated overview, index, and related Chu-Han pages. No settled contradiction found; treated the title's "弄死楚怀王" as setup through isolation rather than a full narration of Mi Xin's final killing.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10848,7 +10848,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》144｜项羽集团覆灭的原因（1）
 
-Added source page for Hanji 144: Xiang Yu's partition backlash after the nineteen-king settlement, resentment among demoted old kings and excluded rivals, Mi Xin's forced relocation toward Chenxian, Han Guang's Yan/Liaodong grievance, Han Cheng's later killing and Zhang Liang's anti-Xiang alignment, Liu Bang's angry response to the Hanzhong demotion, Xiao He's argument for governing Hanzhong and Ba-Shu before returning toward Guanzhong, and the host's possible "双簧" reading of Liu Bang and Xiao He. Created Reward Allocation Backlash, Strategic Retreat Base-Building, Zhou Bo, and Guan Ying; updated overview, index, Xiang Yu, Liu Bang, Xiao He, Zhang Liang, Xiang Bo, Mi Xin, Han Guang, Han Cheng, Fan Kuai, Coalition Settlement Failure, Three Qin Containment, and Zhou-Qin Hybrid Order. No settled contradiction found; normalized transcript noise around 张图 and 相国 to existing Zang Tu and Xiang Bo context.
+Added source page for 汉纪 144: Xiang Yu's partition backlash after the nineteen-king settlement, resentment among demoted old kings and excluded rivals, Mi Xin's forced relocation toward Chenxian, Han Guang's Yan/Liaodong grievance, Han Cheng's later killing and Zhang Liang's anti-Xiang alignment, Liu Bang's angry response to the Hanzhong demotion, Xiao He's argument for governing Hanzhong and Ba-Shu before returning toward Guanzhong, and the host's possible "双簧" reading of Liu Bang and Xiao He. Created Reward Allocation Backlash, Strategic Retreat Base-Building, Zhou Bo, and Guan Ying; updated overview, index, Xiang Yu, Liu Bang, Xiao He, Zhang Liang, Xiang Bo, Mi Xin, Han Guang, Han Cheng, Fan Kuai, Coalition Settlement Failure, Three Qin Containment, and Zhou-Qin Hybrid Order. No settled contradiction found; normalized transcript noise around 张图 and 相国 to existing Zang Tu and Xiang Bo context.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10860,7 +10860,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》144｜项羽集团覆灭的原因（2）
 
-Added source page for Hanji 144 part 2: Zhang Liang's gift-mediated use of Xiang Bo after Liu Bang accepts Hanzhong, the burning of the gallery roads as both defense and political signal, Liu Bang's absorption of disappointed followers including Han Xin, Tian Rong's attack on the Qi settlement, Peng Yue's Qi-backed pressure, Chen Yu's request for troops against Zhang Er to restore Zhao Xie, the resulting Qi-Zhao pressure on Xiang Yu, and Han Cheng's detention, demotion, and killing. Created Han Xin and Burning Gallery Roads; updated overview, index, Xiang Yu, Liu Bang, Zhang Liang, Xiang Bo, Tian Rong, Peng Yue, Chen Yu, Han Cheng, Reward Allocation Backlash, Coalition Settlement Failure, and Strategic Retreat Base-Building. No settled contradiction found; kept minor intermediaries such as 张同、夏说 and 萧公角 source-scoped rather than creating low-signal pages.
+Added source page for 汉纪 144 part 2: Zhang Liang's gift-mediated use of Xiang Bo after Liu Bang accepts Hanzhong, the burning of the gallery roads as both defense and political signal, Liu Bang's absorption of disappointed followers including Han Xin, Tian Rong's attack on the Qi settlement, Peng Yue's Qi-backed pressure, Chen Yu's request for troops against Zhang Er to restore Zhao Xie, the resulting Qi-Zhao pressure on Xiang Yu, and Han Cheng's detention, demotion, and killing. Created Han Xin and Burning Gallery Roads; updated overview, index, Xiang Yu, Liu Bang, Zhang Liang, Xiang Bo, Tian Rong, Peng Yue, Chen Yu, Han Cheng, Reward Allocation Backlash, Coalition Settlement Failure, and Strategic Retreat Base-Building. No settled contradiction found; kept minor intermediaries such as 张同、夏说 and 萧公角 source-scoped rather than creating low-signal pages.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10868,7 +10868,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1）
 
-Added source page for Hanji 145: Han Xin's Huaiyin origin, poverty and social isolation, Piaomu's feeding and rebuke, the market "胯下之辱" scene, Shiji's Huaiyin Hou biography as source basis, and Su Shi's "大勇" frame for reading non-retaliation as restraint under a larger aim. Created Huaiyin and Great Courage Under Humiliation; updated overview, index, Han Xin, Shiji, Sima Qian, and Su Shi. No settled contradiction found; kept possible old Han-state royal descent and family-background gaps source-scoped rather than converting them into settled genealogy.
+Added source page for 汉纪 145: Han Xin's Huaiyin origin, poverty and social isolation, Piaomu's feeding and rebuke, the market "胯下之辱" scene, Shiji's Huaiyin Hou biography as source basis, and Su Shi's "大勇" frame for reading non-retaliation as restraint under a larger aim. Created Huaiyin and Great Courage Under Humiliation; updated overview, index, Han Xin, Shiji, Sima Qian, and Su Shi. No settled contradiction found; kept possible old Han-state royal descent and family-background gaps source-scoped rather than converting them into settled genealogy.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10880,7 +10880,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》146｜千年经典：萧何月下追韩信
 
-Added source page for Hanji 146: Han Xin's move from Xiang Liang and Xiang Yu into Liu Bang's Hanzhong camp, his underuse as langzhong and then minor Liu-side officer, near execution and Xiahou Ying's first recognition, grain-supply commandant role, Xiao He's deeper evaluation, Nanzheng desertion pressure, Xiao He's pursuit after Han Xin flees, the "国士无双" argument, and the demand for formal commander-appointment ceremony. Created Ritualized Command Appointment; updated overview, index, Han Xin, Xiao He, Liu Bang, Xiang Yu, Xiahou Ying, Nanzheng, Hanzhong, and Strategic Retreat Base-Building. No settled contradiction found; kept Han Xin's possible advice to Xiang Yu and the motive behind his military-law incident as source-scoped inference.
+Added source page for 汉纪 146: Han Xin's move from Xiang Liang and Xiang Yu into Liu Bang's Hanzhong camp, his underuse as langzhong and then minor Liu-side officer, near execution and Xiahou Ying's first recognition, grain-supply commandant role, Xiao He's deeper evaluation, Nanzheng desertion pressure, Xiao He's pursuit after Han Xin flees, the "国士无双" argument, and the demand for formal commander-appointment ceremony. Created Ritualized Command Appointment; updated overview, index, Han Xin, Xiao He, Liu Bang, Xiang Yu, Xiahou Ying, Nanzheng, Hanzhong, and Strategic Retreat Base-Building. No settled contradiction found; kept Han Xin's possible advice to Xiang Yu and the motive behind his military-law incident as source-scoped inference.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10892,7 +10892,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》148-1｜韩信预判了章邯的预判
 
-Added source page for Hanji 148-1: Han Xin's post-Hanzhong-Dui execution plan, "申军法" as Qin-style military reorganization, the later reception of "明修栈道，暗渡陈仓," Guan Ying/Fan Kuai/Cao Shen's side-route actions, Zhang Han's second-order misread, the Chen Cang central breakthrough, Zhang Han's defeats at Chen Cang and Haozhi, and Sima Xin/Dong Yi's surrender. Created Chen Cang, Han Inherits Qin System, and Layered Feint Central Breakthrough; updated overview, index, Han Xin, Liu Bang, Zhang Han, Three Qin Containment, Hanzhong Dui, Strategic Retreat Base-Building, Military Merit Rank System, Guan Ying, Fan Kuai, Cao Shen, Sima Xin, Dong Yi, Hanzhong, Guanzhong Region, Sunzi Bingfa, Laozi, and Zhuge Liang. No settled contradiction found; kept the idiom-origin correction as reception history rather than a conflict with existing campaign pages.
+Added source page for 汉纪 148-1: Han Xin's post-Hanzhong-Dui execution plan, "申军法" as Qin-style military reorganization, the later reception of "明修栈道，暗渡陈仓," Guan Ying/Fan Kuai/Cao Shen's side-route actions, Zhang Han's second-order misread, the Chen Cang central breakthrough, Zhang Han's defeats at Chen Cang and Haozhi, and Sima Xin/Dong Yi's surrender. Created Chen Cang, Han Inherits Qin System, and Layered Feint Central Breakthrough; updated overview, index, Han Xin, Liu Bang, Zhang Han, Three Qin Containment, Hanzhong Dui, Strategic Retreat Base-Building, Military Merit Rank System, Guan Ying, Fan Kuai, Cao Shen, Sima Xin, Dong Yi, Hanzhong, Guanzhong Region, Sunzi Bingfa, Laozi, and Zhuge Liang. No settled contradiction found; kept the idiom-origin correction as reception history rather than a conflict with existing campaign pages.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10920,7 +10920,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1）
 
-Added source page for Hanji 150: Chen Ping early poverty, brotherly protection, reading and friendship, Zhang Fu marriage backing, the unnamed wife as social-capital bridge, and the社祭分肉 scene as fair allocation and early political skill. Created Zhang Fu, Chen Ping Wife, Local Social Capital Accumulation, and Fair Allocation As Political Skill; updated overview, index, Chen Ping, and Physiognomic Investment Judgment. No settled contradiction found; kept the final turn toward Liu Bang as unresolved because the available transcript cuts off during the transition.
+Added source page for 汉纪 150: Chen Ping early poverty, brotherly protection, reading and friendship, Zhang Fu marriage backing, the unnamed wife as social-capital bridge, and the社祭分肉 scene as fair allocation and early political skill. Created Zhang Fu, Chen Ping Wife, Local Social Capital Accumulation, and Fair Allocation As Political Skill; updated overview, index, Chen Ping, and Physiognomic Investment Judgment. No settled contradiction found; kept the final turn toward Liu Bang as unresolved because the available transcript cuts off during the transition.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10928,7 +10928,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（2）
 
-Added source page for Hanji 150 part 2: Chen Ping's movement from Wei Jiu to Xiang Yu and then Liu Bang, the Sima Ang exposure, Yellow River self-protection scene, Wei Wuzhi's introduction at Xiuwu, and Liu Bang's rapid appointment of Chen Ping despite veteran resistance. Created Wei Wuzhi, Xiuwu, Covert Political Technology, Veteran Merit-Clique Supervision, and Outsider Talent Signaling; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Wei Jiu, Sima Ang, Henei Commandery, Fair Allocation As Political Skill, and the prior Hanji 150 part 1 source. No settled contradiction found; modern intelligence-agency comparisons are recorded as explanatory analogies, not institutional equivalences.
+Added source page for 汉纪 150 part 2: Chen Ping's movement from Wei Jiu to Xiang Yu and then Liu Bang, the Sima Ang exposure, Yellow River self-protection scene, Wei Wuzhi's introduction at Xiuwu, and Liu Bang's rapid appointment of Chen Ping despite veteran resistance. Created Wei Wuzhi, Xiuwu, Covert Political Technology, Veteran Merit-Clique Supervision, and Outsider Talent Signaling; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Wei Jiu, Sima Ang, Henei Commandery, Fair Allocation As Political Skill, and the prior 汉纪 150 part 1 source. No settled contradiction found; modern intelligence-agency comparisons are recorded as explanatory analogies, not institutional equivalences.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10940,7 +10940,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）
 
-Added source page for Hanji 150 part 4: Chen Ping's Baideng stratagem, low-threat survival under Liu Bang, the Fan Kuai execution-order dilemma, rapid self-protection after Liu Bang's death, Lu Zhi-era camouflage, later coordination with Zhou Bo against the Lu faction, and the source's broader argument for worldly political cultivation over withdrawal or pure reputation. Created Baideng Encirclement, Modu Chanyu, Tactical Delay Risk Transfer, and Worldly Political Cultivation; updated overview, index, Chen Ping, Liu Bang, Zhang Liang, Xiao He, Han Xin, Political Survival First, Covert Political Technology, Second-in-Command Role Fit, Fan Kuai, Zhou Bo, Lu Zhi, Liu Heng, Xiongnu, Tao Yuanming, Confucius, Fan Li, and the prior Hanji 150 part 3 wording. No settled contradiction found; corrected the earlier "part 3 completes the sequence" wording because part 4 extends the sequence.
+Added source page for 汉纪 150 part 4: Chen Ping's Baideng stratagem, low-threat survival under Liu Bang, the Fan Kuai execution-order dilemma, rapid self-protection after Liu Bang's death, Lu Zhi-era camouflage, later coordination with Zhou Bo against the Lu faction, and the source's broader argument for worldly political cultivation over withdrawal or pure reputation. Created Baideng Encirclement, Modu Chanyu, Tactical Delay Risk Transfer, and Worldly Political Cultivation; updated overview, index, Chen Ping, Liu Bang, Zhang Liang, Xiao He, Han Xin, Political Survival First, Covert Political Technology, Second-in-Command Role Fit, Fan Kuai, Zhou Bo, Lu Zhi, Liu Heng, Xiongnu, Tao Yuanming, Confucius, Fan Li, and the prior 汉纪 150 part 3 wording. No settled contradiction found; corrected the earlier "part 3 completes the sequence" wording because part 4 extends the sequence.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10960,7 +10960,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（2）
 
-Added source page for Hanji 152 part 2: Liu Bang's post-Pengcheng flight with Liu Ying and Princess Lu Yuan, Xiahou Ying's repeated rescue of the children, Zeng He's disciplined holdout against Chu cavalry, Shen Yiji/Liu Taigong/Lu Zhi's capture as hostages, Lu Ze's Xiayi rally point, and the rapid post-defeat alliance repricing that sends many lords back toward Xiang Yu while Zhang Er and Han Wang Xin remain with Liu Bang. Created Zeng He, Shen Yiji, Lu Ze, Xiayi, and Power-Based Alliance Repricing; updated overview, index, Pengcheng Battle, Liu Bang, Xiang Yu, Xiahou Ying, Liu Ying, Princess Lu Yuan, Lu Zhi, Liu Taigong, Sima Xin, Dong Yi, Wei Bao, Chen Yu, Zhao Xie, Tian Heng, Tian Jia, Peng Yue, Sima Ang, Zhang Er, and Han Wang Xin. No settled contradiction found; Sima Ang's death note is kept as a source-scoped chronology caution beside the earlier capture-and-commandery account.
+Added source page for 汉纪 152 part 2: Liu Bang's post-Pengcheng flight with Liu Ying and Princess Lu Yuan, Xiahou Ying's repeated rescue of the children, Zeng He's disciplined holdout against Chu cavalry, Shen Yiji/Liu Taigong/Lu Zhi's capture as hostages, Lu Ze's Xiayi rally point, and the rapid post-defeat alliance repricing that sends many lords back toward Xiang Yu while Zhang Er and Han Wang Xin remain with Liu Bang. Created Zeng He, Shen Yiji, Lu Ze, Xiayi, and Power-Based Alliance Repricing; updated overview, index, Pengcheng Battle, Liu Bang, Xiang Yu, Xiahou Ying, Liu Ying, Princess Lu Yuan, Lu Zhi, Liu Taigong, Sima Xin, Dong Yi, Wei Bao, Chen Yu, Zhao Xie, Tian Heng, Tian Jia, Peng Yue, Sima Ang, Zhang Er, and Han Wang Xin. No settled contradiction found; Sima Ang's death note is kept as a source-scoped chronology caution beside the earlier capture-and-commandery account.
 
 ## [2026-08-22] lint | Wiki health check
 
@@ -10972,7 +10972,7 @@ Ran lint after health and identity validation passed. Health scanned 12,960 wiki
 
 ## [2026-08-22] ingest | 《资治通鉴·汉纪》153｜“下邑画策”惨败后刘邦如何起死回生（2）
 
-Added source page for Hanji 153 part 2: Sui He's Jiujiang mission departure, Liu Bang's fall back to Xingyang, Xiao He's emergency Guanzhong levy under Han Xin, Han Xin's check against Chu pursuers, Guan Ying's cavalry force with Li Bi and Luo Jia, Aocang-linked logistics, and the old generals' accusations against Chen Ping. Created Xingyang Standoff, Han Cavalry Formation, Li Bi, and Luo Jia; updated overview, index, Liu Bang, Xiang Yu, Pengcheng Battle, Sui He, Han Xin, Xiao He, Guan Ying, Chen Ping, Zhou Bo, Yingyang, Aocang, Xiayi Plan, Cavalry Shock Command Strike, Veteran Merit-Clique Supervision, and Warring States Military Transformation. No settled contradiction found; Guan Ying's cavalry ranking and the charges against Chen Ping are kept source-scoped.
+Added source page for 汉纪 153 part 2: Sui He's Jiujiang mission departure, Liu Bang's fall back to Xingyang, Xiao He's emergency Guanzhong levy under Han Xin, Han Xin's check against Chu pursuers, Guan Ying's cavalry force with Li Bi and Luo Jia, Aocang-linked logistics, and the old generals' accusations against Chen Ping. Created Xingyang Standoff, Han Cavalry Formation, Li Bi, and Luo Jia; updated overview, index, Liu Bang, Xiang Yu, Pengcheng Battle, Sui He, Han Xin, Xiao He, Guan Ying, Chen Ping, Zhou Bo, Yingyang, Aocang, Xiayi Plan, Cavalry Shock Command Strike, Veteran Merit-Clique Supervision, and Warring States Military Transformation. No settled contradiction found; Guan Ying's cavalry ranking and the charges against Chen Ping are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -10980,7 +10980,7 @@ Ran lint after health and identity validation passed. Health scanned 12,965 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》154｜典故“陈平盗嫂”另有隐情？
 
-Added source page for Hanji 154: the follow-up to Chen Ping's "盗嫂/受金" accusations through Wei Wuzhi's talent-versus-virtue defense, Chen Ping's practical explanation for accepting money, Liu Bang's apology and renewed appointment, and the source-critical argument that "盗嫂" is likely old-general slander rather than a reliable family scandal. Created Moral Slander Reframing, Chen Ping Brother, and Chen Ping Sister-in-law; updated overview, index, Chen Ping, Wei Wuzhi, Liu Bang, Zhou Bo, Guan Ying, Talent-Virtue Distinction, Use Strengths Over Faults, Veteran Merit-Clique Supervision, Outsider Talent Signaling, Rumor Erosion of Trust, and Hanji 153 part 2. No settled contradiction found; kept the source's uncertainty caveat around absolute proof while recording "受金" as explainable and "盗嫂" as likely smear.
+Added source page for 汉纪 154: the follow-up to Chen Ping's "盗嫂/受金" accusations through Wei Wuzhi's talent-versus-virtue defense, Chen Ping's practical explanation for accepting money, Liu Bang's apology and renewed appointment, and the source-critical argument that "盗嫂" is likely old-general slander rather than a reliable family scandal. Created Moral Slander Reframing, Chen Ping Brother, and Chen Ping Sister-in-law; updated overview, index, Chen Ping, Wei Wuzhi, Liu Bang, Zhou Bo, Guan Ying, Talent-Virtue Distinction, Use Strengths Over Faults, Veteran Merit-Clique Supervision, Outsider Talent Signaling, Rumor Erosion of Trust, and 汉纪 153 part 2. No settled contradiction found; kept the source's uncertainty caveat around absolute proof while recording "受金" as explainable and "盗嫂" as likely smear.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -10988,31 +10988,31 @@ Ran lint after health and identity validation passed. Health scanned 13,042 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（2）
 
-Added source page for Hanji 161 part 2: gratitude and resentment as relational return, online speech as moral cause, anger as a "not myself" state, trust injury and betrayal, the popular 10/90 reaction rule attributed in-source to Festinger, romantic desire as quantum attraction, wealth and goodwill attraction, and quiet observation against quantum interference. Created Gratitude Resentment Return Frame and Reaction Choice Frame; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Quantum Entanglement Fate Metaphor, Relational Fate Network, Emotion Regulation Toolkit, and Leon Festinger. No settled contradiction found; the quantum and harm-causality claims are kept source-scoped rather than treated as physics or victim-blaming.
+Added source page for 汉纪 161 part 2: gratitude and resentment as relational return, online speech as moral cause, anger as a "not myself" state, trust injury and betrayal, the popular 10/90 reaction rule attributed in-source to Festinger, romantic desire as quantum attraction, wealth and goodwill attraction, and quiet observation against quantum interference. Created Gratitude Resentment Return Frame and Reaction Choice Frame; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Quantum Entanglement Fate Metaphor, Relational Fate Network, Emotion Regulation Toolkit, and Leon Festinger. No settled contradiction found; the quantum and harm-causality claims are kept source-scoped rather than treated as physics or victim-blaming.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？
 
-Added source page for Hanji 159-2: Zhang Liang's completed borrowed-chopsticks refutation of Li Shiqi's six-kingdom restoration proposal, Liu Bang's destruction of the prepared seals, Xun Yue's 行、势、情 framework, the Chen Sheng versus Liu Bang restoration comparison, Song Yi's delayed-rescue boundary, and the Han Xin backwater versus Liu Bang Pengcheng contrast. Created Xingshiqing Strategic Assessment; updated overview, index, Liu Bang, Zhang Liang, Li Shiqi, Xiang Yu, Xun Yue, Chen Sheng, Song Yi, Shang Tang, Zhou Wuwang, Han Xin, Pengcheng Battle, Backwater Battle, Death-Ground Tactical Preconditions, Xingyang Standoff, Six-State Restoration Anti-Qin Strategy, Reward Allocation Backlash, and Historical Precedent Weaponization. No settled contradiction found; this source narrows when old-state restoration is useful rather than negating the earlier anti-Qin use case.
+Added source page for 汉纪 159-2: Zhang Liang's completed borrowed-chopsticks refutation of Li Shiqi's six-kingdom restoration proposal, Liu Bang's destruction of the prepared seals, Xun Yue's 行、势、情 framework, the Chen Sheng versus Liu Bang restoration comparison, Song Yi's delayed-rescue boundary, and the Han Xin backwater versus Liu Bang Pengcheng contrast. Created Xingshiqing Strategic Assessment; updated overview, index, Liu Bang, Zhang Liang, Li Shiqi, Xiang Yu, Xun Yue, Chen Sheng, Song Yi, Shang Tang, Zhou Wuwang, Han Xin, Pengcheng Battle, Backwater Battle, Death-Ground Tactical Preconditions, Xingyang Standoff, Six-State Restoration Anti-Qin Strategy, Reward Allocation Backlash, and Historical Precedent Weaponization. No settled contradiction found; this source narrows when old-state restoration is useful rather than negating the earlier anti-Qin use case.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》159-1｜刘邦洗脚的驭人之术
 
-Added source page for Hanji 159-1: Liu Bang's foot-washing reception of Ying Bu, equal-grade lodging as status repair, Ying Bu's family loss and military attachment, Long Ju's restoration of Jiujiang, Chu's Aocang and Yellow River supply pressure, Li Shiqi's six-kingdom restoration proposal, and Zhang Liang's interrupted borrowed-chopsticks refutation. Created Status Suppression Then Equal Treatment and Long Ju; updated overview, index, Liu Bang, Ying Bu, Zhang Liang, Xiang Yu, Li Shiqi, Jiujiang Kingdom, Aocang, Xingyang Standoff, Xiayi Plan, Power Etiquette Reading, Transport Corridor Severance, and Six-State Restoration Anti-Qin Strategy. No settled contradiction found; normalized transcript "丽姬" to Li Shiqi and kept the incomplete Zhang Liang analysis source-scoped.
+Added source page for 汉纪 159-1: Liu Bang's foot-washing reception of Ying Bu, equal-grade lodging as status repair, Ying Bu's family loss and military attachment, Long Ju's restoration of Jiujiang, Chu's Aocang and Yellow River supply pressure, Li Shiqi's six-kingdom restoration proposal, and Zhang Liang's interrupted borrowed-chopsticks refutation. Created Status Suppression Then Equal Treatment and Long Ju; updated overview, index, Liu Bang, Ying Bu, Zhang Liang, Xiang Yu, Li Shiqi, Jiujiang Kingdom, Aocang, Xingyang Standoff, Xiayi Plan, Power Etiquette Reading, Transport Corridor Severance, and Six-State Restoration Anti-Qin Strategy. No settled contradiction found; normalized transcript "丽姬" to Li Shiqi and kept the incomplete Zhang Liang analysis source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军
 
-Added source page for Hanji 158: Sui He's mission to Jiujiang, his reading of Ying Bu's hesitation, the interest-reframing argument against continued Chu alignment, Ying Bu's private acceptance of Han, Sui He's public declaration before Xiang Yu's envoy, the envoy killing that closes Ying Bu's return path, and the strategic effect of forcing Xiang Yu to divide pressure away from Liu Bang. Created Jiujiang Kingdom and Irreversible Defection Binding; updated overview, index, Sui He, Ying Bu, Liu Bang, Xiang Yu, Zhang Liang, Xiayi Plan, Xingyang Standoff, Power-Based Alliance Repricing, Interest Reframing Persuasion, Chuaimo Technique, and Envoy Killing Taboo. No settled contradiction found; the host's "见利忘义" judgment on Ying Bu and the envoy-killing norm breach are kept source-scoped.
+Added source page for 汉纪 158: Sui He's mission to Jiujiang, his reading of Ying Bu's hesitation, the interest-reframing argument against continued Chu alignment, Ying Bu's private acceptance of Han, Sui He's public declaration before Xiang Yu's envoy, the envoy killing that closes Ying Bu's return path, and the strategic effect of forcing Xiang Yu to divide pressure away from Liu Bang. Created Jiujiang Kingdom and Irreversible Defection Binding; updated overview, index, Sui He, Ying Bu, Liu Bang, Xiang Yu, Zhang Liang, Xiayi Plan, Xingyang Standoff, Power-Based Alliance Repricing, Interest Reframing Persuasion, Chuaimo Technique, and Envoy Killing Taboo. No settled contradiction found; the host's "见利忘义" judgment on Ying Bu and the envoy-killing norm breach are kept source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》155-2｜转给你脾气大的朋友：魏王叛汉竟是刘邦“爱骂人”
 
-Added source page for Hanji 155-2: Wei Bao's humiliation grievance against Liu Bang, Han Xin's Linjin/Puban feint and Xiayang crossing against Anyi, Cao Shen and Guan Ying's pursuit, Wei Bao's capture, West Wei commandery conversion into Hedong/Shangdang/Taiyuan, Chen Yu's discovery of the Zhang Er deception, and Han Xin's constrained northern strategy through Dai toward Zhao/Yan/Qi. Created River Crossing Deception, Bo Zhi, Zhou Shu, Feng Jing, Xiang Tuo, Xiayang, Hedong Commandery, Jinyang, Liu Jia, and Lu Wan; updated related Chu-Han actor, place, strategy, and commandery pages. No settled contradiction found; this source completes Hanji 155-1's open "声东击西" setup.
+Added source page for 汉纪 155-2: Wei Bao's humiliation grievance against Liu Bang, Han Xin's Linjin/Puban feint and Xiayang crossing against Anyi, Cao Shen and Guan Ying's pursuit, Wei Bao's capture, West Wei commandery conversion into Hedong/Shangdang/Taiyuan, Chen Yu's discovery of the Zhang Er deception, and Han Xin's constrained northern strategy through Dai toward Zhao/Yan/Qi. Created River Crossing Deception, Bo Zhi, Zhou Shu, Feng Jing, Xiang Tuo, Xiayang, Hedong Commandery, Jinyang, Liu Jia, and Lu Wan; updated related Chu-Han actor, place, strategy, and commandery pages. No settled contradiction found; this source completes 汉纪 155-1's open "声东击西" setup.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》155-1｜历史记载什么情况会发生“人吃人”惨剧
 
-Added source page for Hanji 155-1: the opening "声东击西" setup for Han Xin versus Wei Bao, the Hakuin false-accusation analogy after the Chen Ping thread, Wei Bao's visit-mother pretext and renewed submission to Xiang Yu, Feiqiu's flooding and Zhang Han's suicide, Liu Bang's Liyang crown-prince/amnesty move, Guanzhong famine, and Ren氏's grain-hoarding fortune. Created Feiqiu, RenShiQinMerchant, ZhongdiCommandery, HakuinEkaku, WartimeAgriculturalLaborCollapse, and PowerBackedGrainHoarding; updated overview, index, and related Chu-Han, famine, commandery, and deception pages. No settled contradiction found; kept the "声东击西" campaign detail source-scoped because the available transcript stops before the full Wei Bao operation.
+Added source page for 汉纪 155-1: the opening "声东击西" setup for Han Xin versus Wei Bao, the Hakuin false-accusation analogy after the Chen Ping thread, Wei Bao's visit-mother pretext and renewed submission to Xiang Yu, Feiqiu's flooding and Zhang Han's suicide, Liu Bang's Liyang crown-prince/amnesty move, Guanzhong famine, and Ren氏's grain-hoarding fortune. Created Feiqiu, RenShiQinMerchant, ZhongdiCommandery, HakuinEkaku, WartimeAgriculturalLaborCollapse, and PowerBackedGrainHoarding; updated overview, index, and related Chu-Han, famine, commandery, and deception pages. No settled contradiction found; kept the "声东击西" campaign detail source-scoped because the available transcript stops before the full Wei Bao operation.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（3）
 
-Added source page for Hanji 182 part 3: Han Xin's Changle Palace death, source-scoped "three not die" execution lore, the "生死一知己，存亡两妇人" life-summary frame, and the retrospective judgment that Han Xin's military genius failed to become political survival. Updated overview, index, Han Xin, Xiao He, Lu Zhi, Liu Bang, Changle Palace, Kuai Che, Celebratory Summons Entrapment, Power Exit Trap, Retainer Reciprocity Ethic, and Political Survival First. No settled contradiction found; the later conspiracy remains a post-demotion stage, and the bamboo-killing details are preserved as dramatic lore rather than a strict historical correction.
+Added source page for 汉纪 182 part 3: Han Xin's Changle Palace death, source-scoped "three not die" execution lore, the "生死一知己，存亡两妇人" life-summary frame, and the retrospective judgment that Han Xin's military genius failed to become political survival. Updated overview, index, Han Xin, Xiao He, Lu Zhi, Liu Bang, Changle Palace, Kuai Che, Celebratory Summons Entrapment, Power Exit Trap, Retainer Reciprocity Ethic, and Political Survival First. No settled contradiction found; the later conspiracy remains a post-demotion stage, and the bamboo-killing details are preserved as dramatic lore rather than a strict historical correction.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11020,71 +11020,71 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1001丨为什么劝你不要犯众怒？
 
-Added source page for Hanji 1001: Yuan Shu's prophecy-, five-phases-, and Heirloom Imperial Seal-backed imperial ambition, the generals' silence, Yan Xiang's Zhou Wenwang remonstrance, Zhang Fan's refusal, and Zhang Cheng's "in virtue, not strength" warning against provoking public anger. Created Yan Xiang (late Han), Zhang Fan (late Han), Zhang Cheng (late Han), and Heirloom Imperial Seal; updated overview, index, Yuan Shu, Emperor Xian of Han, Sun Jian (late Han), Mingqi Legitimacy, Title-Reality Restraint, Anti-Usurpation Coalition Pressure, Yin-Yang Five-Phases Political Theory, Chenwei Politics, Mandate of Heaven Legitimacy, and People-Based Political Security. No settled contradiction found; kept omen, five-phases, and seal claims as Yuan Shu's source-scoped self-authorization rather than accepted mandate evidence.
+Added source page for 汉纪 1001: Yuan Shu's prophecy-, five-phases-, and Heirloom Imperial Seal-backed imperial ambition, the generals' silence, Yan Xiang's Zhou Wenwang remonstrance, Zhang Fan's refusal, and Zhang Cheng's "in virtue, not strength" warning against provoking public anger. Created Yan Xiang (late Han), Zhang Fan (late Han), Zhang Cheng (late Han), and Heirloom Imperial Seal; updated overview, index, Yuan Shu, Emperor Xian of Han, Sun Jian (late Han), Mingqi Legitimacy, Title-Reality Restraint, Anti-Usurpation Coalition Pressure, Yin-Yang Five-Phases Political Theory, Chenwei Politics, Mandate of Heaven Legitimacy, and People-Based Political Security. No settled contradiction found; kept omen, five-phases, and seal claims as Yuan Shu's source-scoped self-authorization rather than accepted mandate evidence.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1003丨三国最被低估的谋士：董昭
 
-Added source page for Hanji 1003: Dong Zhao's early help for Cao Cao through Zhang Yang's Henei route, his letter to Yang Feng that combines praise, grain, troops, and court legitimacy, and Dong Cheng's appeal against Han Xian as Cao Cao's Luoyang entry pretext. Created Zhang Yang (late Han), Dong Cheng (late Han), and Proactive Adviser Initiative; updated overview, index, Dong Zhao, Yang Feng, Han Xian, Luoyang, Xudu, Emperor Xian of Han, Cao Cao, Interest Reframing Persuasion, Strategic Recognition Alignment, and Xingshiqing Strategic Assessment. No settled contradiction found; Zhang Yang's mixed role is kept as source-scoped late-Han alignment change.
+Added source page for 汉纪 1003: Dong Zhao's early help for Cao Cao through Zhang Yang's Henei route, his letter to Yang Feng that combines praise, grain, troops, and court legitimacy, and Dong Cheng's appeal against Han Xian as Cao Cao's Luoyang entry pretext. Created Zhang Yang (late Han), Dong Cheng (late Han), and Proactive Adviser Initiative; updated overview, index, Dong Zhao, Yang Feng, Han Xian, Luoyang, Xudu, Emperor Xian of Han, Cao Cao, Interest Reframing Persuasion, Strategic Recognition Alignment, and Xingshiqing Strategic Assessment. No settled contradiction found; Zhang Yang's mixed role is kept as source-scoped late-Han alignment change.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1007丨从神童到覆亡：孔融真实面目曝光！
 
-Added source page for Hanji 1007: the white-bear thought-suppression opening, Kong Rong's Beihai governorship as a prestige-capacity gap, Zheng Xuan as scholarly prestige, Zuo Chengzu's advice to rely on a stronger power, Liu Yixun's departure after Zuo is killed, and Yuan Tan's attack on Beihai. Created Yuan Tan, Zheng Xuan, Zuo Chengzu, Liu Yixun, Beihai Commandery, White Bear Effect, and Prestige-Capacity Gap; updated overview, index, Kong Rong, Xingshiqing Strategic Assessment, Talent as State Treasure, Political Survival First, and Court Feedback Collapse. No settled contradiction found; the psychology frame and Kong Rong character diagnosis remain source-scoped.
+Added source page for 汉纪 1007: the white-bear thought-suppression opening, Kong Rong's Beihai governorship as a prestige-capacity gap, Zheng Xuan as scholarly prestige, Zuo Chengzu's advice to rely on a stronger power, Liu Yixun's departure after Zuo is killed, and Yuan Tan's attack on Beihai. Created Yuan Tan, Zheng Xuan, Zuo Chengzu, Liu Yixun, Beihai Commandery, White Bear Effect, and Prestige-Capacity Gap; updated overview, index, Kong Rong, Xingshiqing Strategic Assessment, Talent as State Treasure, Political Survival First, and Court Feedback Collapse. No settled contradiction found; the psychology frame and Kong Rong character diagnosis remain source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴
 
-Added source page for Hanji 191: Lu Wan's shift from Liu Bang's most trusted Yan king into covert support for prolonging Chen Xi through Zhang Sheng, Fan Qi, Zang Yan, and Xiongnu channels; Liu Bang's summons, Shen Yiji/Zhao Yao investigation, Fan Kuai campaign, and pardon/rank edict separating Yan officials and people from Lu Wan; and the source-scoped South Sea king note after Zhao Tuo's Nanyue recognition. Created Zhang Sheng (Western Han envoy), Fan Qi (Lu Wan envoy), and Zang Yan; updated overview, index, Lu Wan, Zang Tu, Yan State, Xiongnu, Chen Xi, Chen Xi Rebellion, Fan Kuai, Liu Bang, Lu Zhi, Shen Yiji, Zhao Yao, Zhao Tuo, Nanyue, Nanhai Commandery, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, Political Surrender Cascade, Frontier Vassal Containment, and Recognition-Backed Frontier Diplomacy. No settled contradiction found; the source preserves the existing Chen Xi death-attribution conflict and treats the South Sea king notice as a nominal boundary condition rather than proven Nanhai control.
+Added source page for 汉纪 191: Lu Wan's shift from Liu Bang's most trusted Yan king into covert support for prolonging Chen Xi through Zhang Sheng, Fan Qi, Zang Yan, and Xiongnu channels; Liu Bang's summons, Shen Yiji/Zhao Yao investigation, Fan Kuai campaign, and pardon/rank edict separating Yan officials and people from Lu Wan; and the source-scoped South Sea king note after Zhao Tuo's Nanyue recognition. Created Zhang Sheng (Western Han envoy), Fan Qi (Lu Wan envoy), and Zang Yan; updated overview, index, Lu Wan, Zang Tu, Yan State, Xiongnu, Chen Xi, Chen Xi Rebellion, Fan Kuai, Liu Bang, Lu Zhi, Shen Yiji, Zhao Yao, Zhao Tuo, Nanyue, Nanhai Commandery, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, Political Surrender Cascade, Frontier Vassal Containment, and Recognition-Backed Frontier Diplomacy. No settled contradiction found; the source preserves the existing Chen Xi death-attribution conflict and treats the South Sea king notice as a nominal boundary condition rather than proven Nanhai control.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》189｜刘邦死前最后一搏
 
-Added source page for Hanji 189: Ying Bu's final flight and killing through Wu Chen of Changsha, Zhou Bo's reported Dai/Yanmen/Yunzhong cleanup and source-scoped Chen Xi death credit, Liu Bi's appointment to the reorganized Wu kingdom, Liu Bang's Confucius sacrifice at Lu, and Liu Bang's last failed attempt to replace Liu Ying with Liu Ruyi through Zhang Liang's avoidance, Shusun Tong's remonstrance, and the Shangshan Sihao's visible support. Created Shangshan Sihao, Liu Bi (King of Wu), early Han Wu Kingdom, and Wu Chen (Changsha king); updated overview, index, Liu Bang, Liu Ying, Liu Ruyi, Qi Ji, Lu Zhi, Zhang Liang, Shusun Tong, Ying Bu, Changsha Kingdom, Chen Xi, Zhou Bo, Same-Surname King Enfeoffment, Alternative Heir Protection Failure, Affection-Driven Succession Risk, and Favorite-Driven Heir Displacement. Flagged a source conflict: Hanji 189 credits Zhou Bo with killing Chen Xi at Dangcheng, while the existing Hanji 182/Fan Kuai branch credits Fan Kuai near Lingqiu.
+Added source page for 汉纪 189: Ying Bu's final flight and killing through Wu Chen of Changsha, Zhou Bo's reported Dai/Yanmen/Yunzhong cleanup and source-scoped Chen Xi death credit, Liu Bi's appointment to the reorganized Wu kingdom, Liu Bang's Confucius sacrifice at Lu, and Liu Bang's last failed attempt to replace Liu Ying with Liu Ruyi through Zhang Liang's avoidance, Shusun Tong's remonstrance, and the Shangshan Sihao's visible support. Created Shangshan Sihao, Liu Bi (King of Wu), early Han Wu Kingdom, and Wu Chen (Changsha king); updated overview, index, Liu Bang, Liu Ying, Liu Ruyi, Qi Ji, Lu Zhi, Zhang Liang, Shusun Tong, Ying Bu, Changsha Kingdom, Chen Xi, Zhou Bo, Same-Surname King Enfeoffment, Alternative Heir Protection Failure, Affection-Driven Succession Risk, and Favorite-Driven Heir Displacement. Flagged a source conflict: 汉纪 189 credits Zhou Bo with killing Chen Xi at Dangcheng, while the existing 汉纪 182/Fan Kuai branch credits Fan Kuai near Lingqiu.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》188｜古代中国的“天下无税”县
 
-Added source page for Hanji 188: Ying Bu's final defeat after Liu Bang waits for Qi reinforcements, Cao Shen/Li Shang/Guan Ying's coordinated attack, Liu Bang's wound and return to Pei, the Great Wind Song, Pei's permanent tax/corvee exemption as a Tangmu place, and Feng's later inclusion after ministers plead past the old Yong Chi grievance. Created Imperial Home-County Tax Exemption; updated overview, index, Liu Bang, Ying Bu, Pei County, Feng County, Tangmu Yi, Cao Shen, Guan Ying, Li Shang, Liu Jiao, Liu Fei, Fan Kuai, Xiahou Ying, Yong Chi, Huainan Kingdom, Zhang Liang, Chu Kingdom, and Qi Kingdom. No settled contradiction found; the source reinforces Hanji 187's bounded-strategy reading of Ying Bu and qualifies Tangmu Yi by showing exemption rather than revenue assignment.
+Added source page for 汉纪 188: Ying Bu's final defeat after Liu Bang waits for Qi reinforcements, Cao Shen/Li Shang/Guan Ying's coordinated attack, Liu Bang's wound and return to Pei, the Great Wind Song, Pei's permanent tax/corvee exemption as a Tangmu place, and Feng's later inclusion after ministers plead past the old Yong Chi grievance. Created Imperial Home-County Tax Exemption; updated overview, index, Liu Bang, Ying Bu, Pei County, Feng County, Tangmu Yi, Cao Shen, Guan Ying, Li Shang, Liu Jiao, Liu Fei, Fan Kuai, Xiahou Ying, Yong Chi, Huainan Kingdom, Zhang Liang, Chu Kingdom, and Qi Kingdom. No settled contradiction found; the source reinforces 汉纪 187's bounded-strategy reading of Ying Bu and qualifies Tangmu Yi by showing exemption rather than revenue assignment.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案
 
-Added source page for Hanji 186: Ying Bu's fear after Peng Yue's death, Ben He's failed attempt to gain favor through Ying Bu's favorite concubine, the accusation sent to Liu Bang, Xiao He's detention-and-investigation advice, and Huainan's turn toward rebellion. Created Ben He, Huainan Kingdom (early Han), Pingyuanjun Zhu Jian, Liangfu Hou, and Inner-Court Access Brokerage Risk; updated overview, index, Ying Bu, Peng Yue, Liu Bang, Xiao He, Western Han, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces Hanji 184's merit-holder fear warning while source-scoping Xiao He's response as investigation-first rather than immediate purge.
+Added source page for 汉纪 186: Ying Bu's fear after Peng Yue's death, Ben He's failed attempt to gain favor through Ying Bu's favorite concubine, the accusation sent to Liu Bang, Xiao He's detention-and-investigation advice, and Huainan's turn toward rebellion. Created Ben He, Huainan Kingdom (early Han), Pingyuanjun Zhu Jian, Liangfu Hou, and Inner-Court Access Brokerage Risk; updated overview, index, Ying Bu, Peng Yue, Liu Bang, Xiao He, Western Han, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces 汉纪 184's merit-holder fear warning while source-scoping Xiao He's response as investigation-first rather than immediate purge.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土
 
-Added source page for Hanji 185: Ren Xiao's Lingnan handoff to Zhao Tuo, Zhao Tuo's consolidation of Nanyue, Lu Jia's identity-and-deterrence speech that makes Zhao Tuo accept Han recognition and submission, the Xinyu warning that horseback conquest cannot become horseback governance, and Fan Kuai's sickbed remonstrance to Liu Bang. Created Ren Xiao and Recognition-Backed Frontier Diplomacy; updated overview, index, Zhao Tuo, Nanyue, Lu Jia, Xinyu, Fan Kuai, Victory Deterrence Diplomacy, Li As Political Order, and Battlefield Victory To Founding Order. No settled contradiction found; Zhao Tuo's submission is preserved as an early-Han settlement rather than a claim that later Han-Nanyue tension disappears.
+Added source page for 汉纪 185: Ren Xiao's Lingnan handoff to Zhao Tuo, Zhao Tuo's consolidation of Nanyue, Lu Jia's identity-and-deterrence speech that makes Zhao Tuo accept Han recognition and submission, the Xinyu warning that horseback conquest cannot become horseback governance, and Fan Kuai's sickbed remonstrance to Liu Bang. Created Ren Xiao and Recognition-Backed Frontier Diplomacy; updated overview, index, Zhao Tuo, Nanyue, Lu Jia, Xinyu, Fan Kuai, Victory Deterrence Diplomacy, Li As Political Order, and Battlefield Victory To Founding Order. No settled contradiction found; Zhao Tuo's submission is preserved as an early-Han settlement rather than a claim that later Han-Nanyue tension disappears.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗
 
-Added source page for Hanji 183: a revisionist reading of Han Xin's death that challenges Sima Guang's moralized blame, treats the late rebellion case as likely framed, reads Liu Bang's preservation of Han Xin as a demoted-vassal safety signal, and shifts agency toward Lu Zhi-side capital action while Liu Bang was away. Created Demoted Vassal Safety Signal; updated overview, index, Han Xin, Liu Bang, Lu Zhi, Xiao He, Fan Kuai, Sima Guang, Han Wang Xin, Chai Wu, Different-Surname King Suspicion, Power Exit Trap, Celebratory Summons Entrapment, Veteran Merit-Clique Supervision, Public Disavowal Self-Protection, Treason Accusation Trap, and Punitive Surrender Deterrence. Contradiction recorded as source-scoped: Hanji 182 preserves the transmitted conspiracy account while Hanji 183 preserves the host's frame-up counter-reading.
+Added source page for 汉纪 183: a revisionist reading of Han Xin's death that challenges Sima Guang's moralized blame, treats the late rebellion case as likely framed, reads Liu Bang's preservation of Han Xin as a demoted-vassal safety signal, and shifts agency toward Lu Zhi-side capital action while Liu Bang was away. Created Demoted Vassal Safety Signal; updated overview, index, Han Xin, Liu Bang, Lu Zhi, Xiao He, Fan Kuai, Sima Guang, Han Wang Xin, Chai Wu, Different-Surname King Suspicion, Power Exit Trap, Celebratory Summons Entrapment, Veteran Merit-Clique Supervision, Public Disavowal Self-Protection, Treason Accusation Trap, and Punitive Surrender Deterrence. Contradiction recorded as source-scoped: 汉纪 182 preserves the transmitted conspiracy account while 汉纪 183 preserves the host's frame-up counter-reading.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》181｜揭秘刘邦废立太子的真实原因
 
-Added source page for Hanji 181: Liu Bang's proposed replacement of crown prince Liu Ying with Liu Ruyi, Qi Ji's weak political base, Zhou Chang's remonstrance and reassignment to Zhao, Zhao Yao's protector advice, and the host's reading that Liu Bang created danger for the favored branch without effective protection. Created Qi Ji, Zhou Chang, Zhao Yao, and Alternative-Heir Protection Failure; updated overview, index, Liu Bang, Lu Zhi, Liu Ying, Liu Ruyi, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related succession and same-surname kingship concepts. No settled contradiction found; the later-tragedy inevitability claim is kept source-scoped.
+Added source page for 汉纪 181: Liu Bang's proposed replacement of crown prince Liu Ying with Liu Ruyi, Qi Ji's weak political base, Zhou Chang's remonstrance and reassignment to Zhao, Zhao Yao's protector advice, and the host's reading that Liu Bang created danger for the favored branch without effective protection. Created Qi Ji, Zhou Chang, Zhao Yao, and Alternative-Heir Protection Failure; updated overview, index, Liu Bang, Lu Zhi, Liu Ying, Liu Ruyi, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related succession and same-surname kingship concepts. No settled contradiction found; the later-tragedy inevitability claim is kept source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（2）
 
-Added source page for Hanji 180 part 2: Guan Gao's death after Zhang Ao's release, Xun Yue's legal critique of private loyalty, Sima Guang's responsibility judgment, Zhang Ao's removal as part of Liu Bang's different-surname king rollback, Tian Shu and Meng Shu's appointments as Zhao-region stabilization, and the Xiao He xiangguo chronology note. Updated overview, index, Guan Gao, Zhang Ao, Liu Bang, Tian Shu, Meng Shu, Xun Yue, Sima Guang, Xiao He, and related loyalty, assassination, kingship, pacification, and chronology concepts. No settled contradiction found; Zhang Ao's demotion causality and Xiao He's promotion date are kept source-scoped.
+Added source page for 汉纪 180 part 2: Guan Gao's death after Zhang Ao's release, Xun Yue's legal critique of private loyalty, Sima Guang's responsibility judgment, Zhang Ao's removal as part of Liu Bang's different-surname king rollback, Tian Shu and Meng Shu's appointments as Zhao-region stabilization, and the Xiao He xiangguo chronology note. Updated overview, index, Guan Gao, Zhang Ao, Liu Bang, Tian Shu, Meng Shu, Xun Yue, Sima Guang, Xiao He, and related loyalty, assassination, kingship, pacification, and chronology concepts. No settled contradiction found; Zhang Ao's demotion causality and Xiao He's promotion date are kept source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）
 
-Added source page for Hanji 180: substitute-princess implementation of heqin, Liu Jing's Guanzhong elite relocation proposal, exposure of Guan Gao's assassination plot, Zhang Ao's arrest and demotion, Xie Gong's truth-checking role, Tian Shu and Meng Shu's retainer loyalty, and Guan Gao's torture-resistant exoneration followed by suicide after Zhang Ao's release. Created Xie Gong, Tian Shu, Meng Shu, Guanzhong Elite Relocation, and Torture-Resistant Exoneration; updated overview, index, Guan Gao, Zhang Ao, Zhao Wu, Liu Bang, Liu Jing/Lou Jing, Liu Ruyi, Lu Zhi, Princess Lu Yuan, Modu Chanyu, Xiongnu, Guanzhong, Western Han, Ruiqi Jiangtou Zizhi Tongjian, Han-Xiongnu Heqin Policy, Vassal Humiliation Conspiracy, Coerced Confession Trap, Political Assassination Ethics, Same-Surname King Enfeoffment, Different-Surname King Suspicion, and Dai Kingdom. No settled contradiction found; Hanji 180 qualifies Hanji 179's anti-substitute warning by recording a substitute-princess implementation.
+Added source page for 汉纪 180: substitute-princess implementation of heqin, Liu Jing's Guanzhong elite relocation proposal, exposure of Guan Gao's assassination plot, Zhang Ao's arrest and demotion, Xie Gong's truth-checking role, Tian Shu and Meng Shu's retainer loyalty, and Guan Gao's torture-resistant exoneration followed by suicide after Zhang Ao's release. Created Xie Gong, Tian Shu, Meng Shu, Guanzhong Elite Relocation, and Torture-Resistant Exoneration; updated overview, index, Guan Gao, Zhang Ao, Zhao Wu, Liu Bang, Liu Jing/Lou Jing, Liu Ruyi, Lu Zhi, Princess Lu Yuan, Modu Chanyu, Xiongnu, Guanzhong, Western Han, Ruiqi Jiangtou Zizhi Tongjian, Han-Xiongnu Heqin Policy, Vassal Humiliation Conspiracy, Coerced Confession Trap, Political Assassination Ethics, Same-Surname King Enfeoffment, Different-Surname King Suspicion, and Dai Kingdom. No settled contradiction found; 汉纪 180 qualifies 汉纪 179's anti-substitute warning by recording a substitute-princess implementation.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（2）
 
-Added source page for Hanji 178 part 2: Liu Bang's post-Baideng reward for Chen Ping at Quni, Zhang Ao's Handan humiliation and the Guan Gao/Zhao Wu assassination conspiracy, Liu Xi's failure in Dai and Liu Ruyi's replacement kingship, Weiyang Palace completion and Sima Guang's criticism, Zongzheng, and the post-Baideng heqin policy turn. Created Quni County, Guan Gao, Zhao Wu (Zhao minister), Liu Ruyi, Zongzheng Office, and Vassal Humiliation Conspiracy; updated overview, index, Chen Ping, Liu Bang, Zhang Ao, Zhang Er, Princess Lu Yuan, Dai Kingdom (early Han), Liu Xi, Weiyang Palace, Xiao He, Sima Guang, Han Wudi, Lou Jing, Western Han dynasty, Same-Surname King Enfeoffment, Untimely Extravagance, and Han-Xiongnu Heqin Policy. No settled contradiction found; preserved the Lu Yuan-Zhang Ao marriage dating and Xiao He's face-saving palace justification as source-scoped interpretations.
+Added source page for 汉纪 178 part 2: Liu Bang's post-Baideng reward for Chen Ping at Quni, Zhang Ao's Handan humiliation and the Guan Gao/Zhao Wu assassination conspiracy, Liu Xi's failure in Dai and Liu Ruyi's replacement kingship, Weiyang Palace completion and Sima Guang's criticism, Zongzheng, and the post-Baideng heqin policy turn. Created Quni County, Guan Gao, Zhao Wu (Zhao minister), Liu Ruyi, Zongzheng Office, and Vassal Humiliation Conspiracy; updated overview, index, Chen Ping, Liu Bang, Zhang Ao, Zhang Er, Princess Lu Yuan, Dai Kingdom (early Han), Liu Xi, Weiyang Palace, Xiao He, Sima Guang, Han Wudi, Lou Jing, Western Han dynasty, Same-Surname King Enfeoffment, Untimely Extravagance, and Han-Xiongnu Heqin Policy. No settled contradiction found; preserved the Lu Yuan-Zhang Ao marriage dating and Xiao He's face-saving palace justification as source-scoped interpretations.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）
 
-Added source page for Hanji 178: Chen Ping's indirect approach to Modu's Yanzhi, Modu's broader release calculation at Baideng, Liu Bang's controlled withdrawal through the opened corner, Liu Jing/Lou Jing's vindication, and the proposed Han-Xiongnu heqin policy. Created Yanzhi (Xiongnu Consort), Encirclement Release Calculus, and Han-Xiongnu Heqin Policy; updated overview, index, Baideng Encirclement, Liu Bang, Chen Ping, Modu Chanyu, Lou Jing, Xiahou Ying, Lu Zhi, Princess Lu Yuan, Xiongnu, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related covert, encirclement, and cavalry-asymmetry concepts. No settled contradiction found; the episode narrows the Baideng escape story by distinguishing Yanzhi-channel persuasion from Modu's strategic risk calculation.
+Added source page for 汉纪 178: Chen Ping's indirect approach to Modu's Yanzhi, Modu's broader release calculation at Baideng, Liu Bang's controlled withdrawal through the opened corner, Liu Jing/Lou Jing's vindication, and the proposed Han-Xiongnu heqin policy. Created Yanzhi (Xiongnu Consort), Encirclement Release Calculus, and Han-Xiongnu Heqin Policy; updated overview, index, Baideng Encirclement, Liu Bang, Chen Ping, Modu Chanyu, Lou Jing, Xiahou Ying, Lu Zhi, Princess Lu Yuan, Xiongnu, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related covert, encirclement, and cavalry-asymmetry concepts. No settled contradiction found; the episode narrows the Baideng escape story by distinguishing Yanzhi-channel persuasion from Modu's strategic risk calculation.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》175｜必看刘邦的皇家礼仪课
 
-Added source page for Hanji 175: Modu Chanyu's rise through Touman's Yuezhi hostage trap, whistling-arrow command training, patricide, Donghu concessions and attack, Xiongnu expansion, Han Wang Xin's Mayi siege and surrender, and Shusun Tong's practical court ritual training for Liu Bang. Created Touman Chanyu, Yuezhi, and Absolute Command Obedience; updated overview, index, Liu Bang, Western Han dynasty, Ruiqi Jiangtou Zizhi Tongjian, Xiongnu, Modu Chanyu, Donghu, Han Wang Xin, Mayi, Shusun Tong, Frontier Vassal Containment, Battlefield Victory To Founding Order, Li As Political Order, and Lure Enemy Out of Position. No settled contradiction found; Han Wang Xin's relocation remains a dual defense/containment policy whose failure mode is now visible.
+Added source page for 汉纪 175: Modu Chanyu's rise through Touman's Yuezhi hostage trap, whistling-arrow command training, patricide, Donghu concessions and attack, Xiongnu expansion, Han Wang Xin's Mayi siege and surrender, and Shusun Tong's practical court ritual training for Liu Bang. Created Touman Chanyu, Yuezhi, and Absolute Command Obedience; updated overview, index, Liu Bang, Western Han dynasty, Ruiqi Jiangtou Zizhi Tongjian, Xiongnu, Modu Chanyu, Donghu, Han Wang Xin, Mayi, Shusun Tong, Frontier Vassal Containment, Battlefield Victory To Founding Order, Li As Political Order, and Lure Enemy Out of Position. No settled contradiction found; Han Wang Xin's relocation remains a dual defense/containment policy whose failure mode is now visible.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（2）
 
-Added source page for Hanji 170 part 2: Ding Gong's execution as a negative loyalty example after having spared Liu Bang at Pengcheng, Lou Jing's argument that Han cannot imitate Zhou's Luoyang logic, Zhang Liang's confirmation of Guanzhong's defensive, resource, and transport advantages, Liu Bang's same-day move west to Chang'an, and the preview of Zhang Liang's self-protection problem. Created Ding Gong, Lou Jing, and Chang'an (Han capital); updated overview, index, Liu Bang, Western Han dynasty, Zhang Liang, Ji Bu, Luoyang/Luoyi, Guanzhong Region, Strategic Capital Relocation, Former Enemy Loyalty Reframing, Battlefield Victory To Founding Order, and Ruiqi Jiangtou Zizhi Tongjian. No settled contradiction found; Ding Gong's possible private-benefit motive is kept as the host's source-scoped inference.
+Added source page for 汉纪 170 part 2: Ding Gong's execution as a negative loyalty example after having spared Liu Bang at Pengcheng, Lou Jing's argument that Han cannot imitate Zhou's Luoyang logic, Zhang Liang's confirmation of Guanzhong's defensive, resource, and transport advantages, Liu Bang's same-day move west to Chang'an, and the preview of Zhang Liang's self-protection problem. Created Ding Gong, Lou Jing, and Chang'an (Han capital); updated overview, index, Liu Bang, Western Han dynasty, Zhang Liang, Ji Bu, Luoyang/Luoyi, Guanzhong Region, Strategic Capital Relocation, Former Enemy Loyalty Reframing, Battlefield Victory To Founding Order, and Ruiqi Jiangtou Zizhi Tongjian. No settled contradiction found; Ding Gong's possible private-benefit motive is kept as the host's source-scoped inference.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭
 
-Added source page for Hanji 164-1: Guangwu ravine standoff and Honggou framing, Liu Bang's ten-count legitimacy indictment against Xiang Yu, Xiang Yu's hidden crossbow shot, Liu Bang's toe-wound cover story, Zhang Liang's camp patrol to preserve command continuity, the broader Xingyang/Guangwu balance shift, Qi's retreat from Linzi, and Long Ju's rescue force entering Han Xin's feigned-defeat trap. Created Legitimacy Indictment Warfare and Command Continuity Damage Control; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Zhang Liang, Han Xin, Qi State, Tian Guang (Qi King), Tian Heng, Linzi, Guangwu, Long Ju, Xingyang Standoff, and Battlefield Information Control. No settled contradiction found; the source's "隆居" is normalized to Long Ju / 龙且, and additional Qi retreat names remain source-scoped.
+Added source page for 汉纪 164-1: Guangwu ravine standoff and Honggou framing, Liu Bang's ten-count legitimacy indictment against Xiang Yu, Xiang Yu's hidden crossbow shot, Liu Bang's toe-wound cover story, Zhang Liang's camp patrol to preserve command continuity, the broader Xingyang/Guangwu balance shift, Qi's retreat from Linzi, and Long Ju's rescue force entering Han Xin's feigned-defeat trap. Created Legitimacy Indictment Warfare and Command Continuity Damage Control; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Zhang Liang, Han Xin, Qi State, Tian Guang (Qi King), Tian Heng, Linzi, Guangwu, Long Ju, Xingyang Standoff, and Battlefield Information Control. No settled contradiction found; the source's "隆居" is normalized to Long Ju / 龙且, and additional Qi retreat names remain source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11092,7 +11092,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》156｜兵仙韩信的封神之战（1）
 
-Added source page for Hanji 156 part 1: Han Xin and Zhang Er's move toward Zhao through Jingxing, Zhao Xie and Chen Yu's defensive advantage, Li Zuoche's supply-line interdiction plan, Chen Yu's refusal under "义兵不用诈谋奇计" reasoning, and the source-scoped red-flag camp shock before the transcript stops. Created Li Zuoche, Jingxing Pass, and Moralized Anti-Deception Command; updated overview, index, Han Xin, Zhang Er, Chen Yu, Zhao Xie, Li Mu, Taihang Road, Battlefield Encirclement Logistics, Transport Corridor Severance, Battlefield Information Control, Textual Omission Attribution Shift, and Confucian Military Idealism Limits. No settled contradiction found; the incomplete "背水一战" narration remains source-scoped.
+Added source page for 汉纪 156 part 1: Han Xin and Zhang Er's move toward Zhao through Jingxing, Zhao Xie and Chen Yu's defensive advantage, Li Zuoche's supply-line interdiction plan, Chen Yu's refusal under "义兵不用诈谋奇计" reasoning, and the source-scoped red-flag camp shock before the transcript stops. Created Li Zuoche, Jingxing Pass, and Moralized Anti-Deception Command; updated overview, index, Han Xin, Zhang Er, Chen Yu, Zhao Xie, Li Mu, Taihang Road, Battlefield Encirclement Logistics, Transport Corridor Severance, Battlefield Information Control, Textual Omission Attribution Shift, and Confucian Military Idealism Limits. No settled contradiction found; the incomplete "背水一战" narration remains source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11100,7 +11100,7 @@ Ran lint after health and identity validation passed. Health scanned 12,991 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》156｜兵仙韩信的封神之战（2）
 
-Added source page for Hanji 156 part 2: Chen Yu's political and operational reason for rejecting Li Zuoche's plan, Han Xin's spy-confirmed entry through Jingxing, the two-thousand-cavalry red-flag camp seizure, the backwater formation at Mianman/Ye water, the feigned defeat that draws Zhao out, and the morale collapse that ends with Chen Yu killed and Zhao Xie captured. Created Backwater Battle; updated overview, index, Han Xin, Chen Yu, Zhang Er, Zhao Xie, Zhao State, Jingxing Pass, Li Zuoche, Battlefield Information Control, Moralized Anti-Deception Command, and Confucian Military Idealism Limits. No settled contradiction found; this source resolves the previous source-scoped red-flag scene rather than reversing it.
+Added source page for 汉纪 156 part 2: Chen Yu's political and operational reason for rejecting Li Zuoche's plan, Han Xin's spy-confirmed entry through Jingxing, the two-thousand-cavalry red-flag camp seizure, the backwater formation at Mianman/Ye water, the feigned defeat that draws Zhao out, and the morale collapse that ends with Chen Yu killed and Zhao Xie captured. Created Backwater Battle; updated overview, index, Han Xin, Chen Yu, Zhang Er, Zhao Xie, Zhao State, Jingxing Pass, Li Zuoche, Battlefield Information Control, Moralized Anti-Deception Command, and Confucian Military Idealism Limits. No settled contradiction found; this source resolves the previous source-scoped red-flag scene rather than reversing it.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11108,14 +11108,14 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1）
 
-Added source page for Hanji 157 part 1: the theoretical follow-up to Han Xin's Jingxing backwater victory, explaining death-ground morale through Sunzi while arguing that the tactic worked only after spy-confirmed enemy error, no pass ambush, and hidden cavalry created a second shock in Zhao's rear. Created Death-Ground Tactical Preconditions; updated overview, index, Han Xin, Backwater Battle, Battlefield Information Control, Sunzi Bingfa, Breaking Cauldrons and Sinking Boats, Military Morale Through Shared Hardship, Li Zuoche, and Jingxing Pass. No settled contradiction found; this source qualifies the surface morale reading of Hanji 156 part 2 without reversing it.
+Added source page for 汉纪 157 part 1: the theoretical follow-up to Han Xin's Jingxing backwater victory, explaining death-ground morale through Sunzi while arguing that the tactic worked only after spy-confirmed enemy error, no pass ambush, and hidden cavalry created a second shock in Zhao's rear. Created Death-Ground Tactical Preconditions; updated overview, index, Han Xin, Backwater Battle, Battlefield Information Control, Sunzi Bingfa, Breaking Cauldrons and Sinking Boats, Military Morale Through Shared Hardship, Li Zuoche, and Jingxing Pass. No settled contradiction found; this source qualifies the surface morale reading of 汉纪 156 part 2 without reversing it.
 
 ## [2026-08-23] lint | Wiki health check
 
 Ran lint after health and identity validation passed. Health scanned 12,995 wiki pages with no empty/stub files, index drift, or source-log coverage gaps; identities were unique. Deterministic lint found one orphan page (`wiki/entities/BobosOatBars.md`), no broken links, no missing entity pages, and no sparse pages. Graph-aware checks used `graph/graph.json` built on 2026-08-22 with 12,882 nodes and 149,964 edges; they found no hub stubs, five fragile bridges, and no isolated communities. Semantic LiteLLM lint did not complete because `LLM_MODEL` resolves to unqualified `claude-3-5-sonnet-latest`. Report returned in-session; `wiki/lint-report.md` was not updated.
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（2）
 
-Added source page for Hanji 157 part 2: Han Xin's post-Jingxing intelligence advantage, capture and honored treatment of Li Zuoche, Li Zuoche's exhausted-army warning, the rest-and-pacify strategy for Zhao, envoy pressure that makes Yan submit, Zhang Er's Liu-approved Zhao kingship, Xiang Yu's pressure against the new Zhao front, and the handoff toward Sui He's mission to Ying Bu. Created Victory Deterrence Diplomacy; updated overview, index, Han Xin, Li Zuoche, Zhang Er, Liu Bang, Sui He, Ying Bu, Baili Xi, Zhao State, Yan State, Qi State, Backwater Battle, Death-Ground Tactical Preconditions, Political Surrender Cascade, Occupation Pacification Strategy, Talent Attraction Through Respect, and Use Strengths Over Faults. No settled contradiction found; normalized transcript 陈瑜 to Chen Yu and kept Qi's surrender as Li Zuoche's source-scoped prediction.
+Added source page for 汉纪 157 part 2: Han Xin's post-Jingxing intelligence advantage, capture and honored treatment of Li Zuoche, Li Zuoche's exhausted-army warning, the rest-and-pacify strategy for Zhao, envoy pressure that makes Yan submit, Zhang Er's Liu-approved Zhao kingship, Xiang Yu's pressure against the new Zhao front, and the handoff toward Sui He's mission to Ying Bu. Created Victory Deterrence Diplomacy; updated overview, index, Han Xin, Li Zuoche, Zhang Er, Liu Bang, Sui He, Ying Bu, Baili Xi, Zhao State, Yan State, Qi State, Backwater Battle, Death-Ground Tactical Preconditions, Political Surrender Cascade, Occupation Pacification Strategy, Talent Attraction Through Respect, and Use Strengths Over Faults. No settled contradiction found; normalized transcript 陈瑜 to Chen Yu and kept Qi's surrender as Li Zuoche's source-scoped prediction.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11135,7 +11135,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（1）
 
-Added source page for Hanji 160 part 1: Liu Bang's failed Xingyang peace request, Fan Zeng's rejection of compromise, Chen Ping's diagnosis of Xiang Yu's reward and suspicion weakness, the forty-thousand-gold counterintelligence budget, the rumor against Zhongli Mo, and the source-scoped transition toward Fan Zeng's departure and death. Created Zhongli Mo and Zhou Yin; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Long Ju, Xingyang Standoff, Covert Political Technology, Counterintelligence Rumor Wedge, Rumor Erosion of Trust, Reward Allocation Backlash, Talent Attraction Through Respect, and Merit-Based Reward and Punishment. No settled contradiction found; the omitted middle chain around Fan Zeng is preserved as source-scope caution.
+Added source page for 汉纪 160 part 1: Liu Bang's failed Xingyang peace request, Fan Zeng's rejection of compromise, Chen Ping's diagnosis of Xiang Yu's reward and suspicion weakness, the forty-thousand-gold counterintelligence budget, the rumor against Zhongli Mo, and the source-scoped transition toward Fan Zeng's departure and death. Created Zhongli Mo and Zhou Yin; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Long Ju, Xingyang Standoff, Covert Political Technology, Counterintelligence Rumor Wedge, Rumor Erosion of Trust, Reward Allocation Backlash, Talent Attraction Through Respect, and Merit-Based Reward and Punishment. No settled contradiction found; the omitted middle chain around Fan Zeng is preserved as source-scope caution.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11143,7 +11143,7 @@ Ran lint after health and identity validation passed. Health scanned 13,008 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》160｜陈平攻心计，比甄嬛传精彩（2）
 
-Added source page for Hanji 160 part 2: Chen Ping's staged reception of Xiang Yu's envoy, the false Fan Zeng channel signal, Xiang Yu's suspicion after the envoy report, Fan Zeng's retirement request and death before Pengcheng, and the host's structural explanation through Xiang-family versus old-Chu-merit factional conflict. Created Xiang Camp Factional Cleavage; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Zhongli Mo, Long Ju, Zhou Yin, Xiang Zhuang, Xiang Tuo, Xingyang Standoff, Covert Political Technology, Counterintelligence Rumor Wedge, Rumor Erosion of Trust, and Reward Allocation Backlash. No settled contradiction found; the episode's own skepticism about the theatrical envoy-feast story is kept as a source-scoped caution.
+Added source page for 汉纪 160 part 2: Chen Ping's staged reception of Xiang Yu's envoy, the false Fan Zeng channel signal, Xiang Yu's suspicion after the envoy report, Fan Zeng's retirement request and death before Pengcheng, and the host's structural explanation through Xiang-family versus old-Chu-merit factional conflict. Created Xiang Camp Factional Cleavage; updated overview, index, Chen Ping, Liu Bang, Xiang Yu, Fan Zeng, Xiang Bo, Zhongli Mo, Long Ju, Zhou Yin, Xiang Zhuang, Xiang Tuo, Xingyang Standoff, Covert Political Technology, Counterintelligence Rumor Wedge, Rumor Erosion of Trust, and Reward Allocation Backlash. No settled contradiction found; the episode's own skepticism about the theatrical envoy-feast story is kept as a source-scoped caution.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11151,7 +11151,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（1）
 
-Added source page for Hanji 161: a reflective fate-and-relationship detour on seeking wealth, longevity, children, and fate change; the source-scoped text title 《命自我利》; quantum entanglement as a metaphor for non-isolated life; Einstein as the locality/realism contrast; Zhu Qingshi and consciousness; everyday coincidence, 因缘, 共业, close social circles, and family blessing as conditions for action. Created Quantum Entanglement Fate Metaphor, Relational Fate Network, Family Blessing Outcome Frame, Zhu Qingshi, and Ming Zi Wo Li; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Albert Einstein, Consciousness Measurement, and Family-Supported Aspiration. No settled contradiction found; the physics-to-fate bridge and the book title are kept source-scoped.
+Added source page for 汉纪 161: a reflective fate-and-relationship detour on seeking wealth, longevity, children, and fate change; the source-scoped text title 《命自我利》; quantum entanglement as a metaphor for non-isolated life; Einstein as the locality/realism contrast; Zhu Qingshi and consciousness; everyday coincidence, 因缘, 共业, close social circles, and family blessing as conditions for action. Created Quantum Entanglement Fate Metaphor, Relational Fate Network, Family Blessing Outcome Frame, Zhu Qingshi, and Ming Zi Wo Li; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Albert Einstein, Consciousness Measurement, and Family-Supported Aspiration. No settled contradiction found; the physics-to-fate bridge and the book title are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11159,7 +11159,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（3）
 
-Added source page for Hanji 161 part 3: quantum interference in relationships, repeated wealth and family blocks as prompts for self-observation, meditative stability through静坐/冥想/禅修/闭关, resentment release, love and parental acceptance as family energy, Tianren Ganying and projection language, Buddhist mind/appearance/empty-nature framing through 《金刚经》, Daoist high-dimensional unity through 《道德经》, and Tesla-style energy-frequency attribution. Created Jingang Jing, Daodejing, Shakyamuni Buddha, Meditative Stability Practice, Tianren Ganying Projection Frame, Buddhist Consciousness Projection Frame, and High-Dimensional Consciousness Entanglement; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Quantum Entanglement Fate Metaphor, Relational Fate Network, Family Blessing Outcome Frame, Gratitude Resentment Return Frame, Consciousness Measurement, Nikola Tesla, and Laozi. No settled contradiction found; the physics, high-dimensional, victim-causality, and Tesla-quotation claims are kept source-scoped.
+Added source page for 汉纪 161 part 3: quantum interference in relationships, repeated wealth and family blocks as prompts for self-observation, meditative stability through静坐/冥想/禅修/闭关, resentment release, love and parental acceptance as family energy, Tianren Ganying and projection language, Buddhist mind/appearance/empty-nature framing through 《金刚经》, Daoist high-dimensional unity through 《道德经》, and Tesla-style energy-frequency attribution. Created Jingang Jing, Daodejing, Shakyamuni Buddha, Meditative Stability Practice, Tianren Ganying Projection Frame, Buddhist Consciousness Projection Frame, and High-Dimensional Consciousness Entanglement; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Quantum Entanglement Fate Metaphor, Relational Fate Network, Family Blessing Outcome Frame, Gratitude Resentment Return Frame, Consciousness Measurement, Nikola Tesla, and Laozi. No settled contradiction found; the physics, high-dimensional, victim-causality, and Tesla-quotation claims are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11167,7 +11167,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）
 
-Added source page for Hanji 161 part 4: the fate-change sequence closes by identifying the earlier story as Yuan Liaofan and 《了凡四训》, linking Yuan's encounter with Yungu Chanshi to intention,修心,积德行善, Zeng Guofan's self-cultivation reception, Inamori Kazuo's management reception, cognition as the root of fortune, and heart-field ethics in human relations. Created Yuan Liaofan, Yungu Chanshi, Liaofan Sixun, Inamori Kazuo, Fate Change Through Virtue Practice, Cognition As Fortune Root, and Heart-Field Ethics; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Ming Zi Wo Li, Zeng Guofan, Zhu Qingshi, Daodejing, Quantum Entanglement Fate Metaphor, Relational Fate Network, Meditative Stability Practice, High-Dimensional Consciousness Entanglement, Consciousness Measurement, Virtue Practice Internalization, Long-Term Achievement Discipline, and Hanji 161 part 1. No settled contradiction found; Hanji 161 part 4 clarifies 《命自我利》 as a source/transcript variant of the Yuan Liaofan / 《了凡四训》 story, while the consciousness-to-fate claims remain source-scoped.
+Added source page for 汉纪 161 part 4: the fate-change sequence closes by identifying the earlier story as Yuan Liaofan and 《了凡四训》, linking Yuan's encounter with Yungu Chanshi to intention,修心,积德行善, Zeng Guofan's self-cultivation reception, Inamori Kazuo's management reception, cognition as the root of fortune, and heart-field ethics in human relations. Created Yuan Liaofan, Yungu Chanshi, Liaofan Sixun, Inamori Kazuo, Fate Change Through Virtue Practice, Cognition As Fortune Root, and Heart-Field Ethics; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Ming Zi Wo Li, Zeng Guofan, Zhu Qingshi, Daodejing, Quantum Entanglement Fate Metaphor, Relational Fate Network, Meditative Stability Practice, High-Dimensional Consciousness Entanglement, Consciousness Measurement, Virtue Practice Internalization, Long-Term Achievement Discipline, and 汉纪 161 part 1. No settled contradiction found; 汉纪 161 part 4 clarifies 《命自我利》 as a source/transcript variant of the Yuan Liaofan / 《了凡四训》 story, while the consciousness-to-fate claims remain source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11175,7 +11175,7 @@ Ran lint after health and identity validation passed. Health scanned 13,035 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》162-1｜他替刘邦去死 如今成了郑州的守护神
 
-Added source page for Hanji 162-1: Ji Xin's substitutional death at Xingyang, Chen Ping's east-gate distraction, Liu Bang's west-gate escape, Zhou Ke and Cong Gong executing Wei Bao to harden the garrison, Yuan Sheng's Wuguan diversion toward Wan, and Peng Yue's Sui River logistics pressure against Xiang Yu. Created Zhou Ke, Cong Gong, Yuan Sheng (Chu-Han), Chenggao, Zhengzhou, and Substitutional Escape Sacrifice; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Ji Xin, Liu Bang, Xiang Yu, Chen Ping, Han Xin, Wei Bao, Han Wang Xin, Peng Yue, Wuguan, Wan County, Aocang, Chenghuang, Yingyang, Sui River, Xingyang Standoff, Xiayi Plan, Transport Corridor Severance, Charismatic Political Performance, Retainer Reciprocity Ethic, Loyalty Beyond Contract, Moral Reputation Political Capital, Power-Based Alliance Repricing, and Honor Binding By Self-Sacrifice. No settled contradiction found; the host's claims about Liu Bang's performative hesitation, Xiang Yu's reactive strategy, and Xingyang-to-Zhengzhou memory are kept source-scoped.
+Added source page for 汉纪 162-1: Ji Xin's substitutional death at Xingyang, Chen Ping's east-gate distraction, Liu Bang's west-gate escape, Zhou Ke and Cong Gong executing Wei Bao to harden the garrison, Yuan Sheng's Wuguan diversion toward Wan, and Peng Yue's Sui River logistics pressure against Xiang Yu. Created Zhou Ke, Cong Gong, Yuan Sheng (Chu-Han), Chenggao, Zhengzhou, and Substitutional Escape Sacrifice; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Ji Xin, Liu Bang, Xiang Yu, Chen Ping, Han Xin, Wei Bao, Han Wang Xin, Peng Yue, Wuguan, Wan County, Aocang, Chenghuang, Yingyang, Sui River, Xingyang Standoff, Xiayi Plan, Transport Corridor Severance, Charismatic Political Performance, Retainer Reciprocity Ethic, Loyalty Beyond Contract, Moral Reputation Political Capital, Power-Based Alliance Repricing, and Honor Binding By Self-Sacrifice. No settled contradiction found; the host's claims about Liu Bang's performative hesitation, Xiang Yu's reactive strategy, and Xingyang-to-Zhengzhou memory are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11199,7 +11199,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的
 
-Added source page for Hanji 164-2: Long Ju's rescue of Qi, the rejected defensive supply-cutting advice, Han Xin's upstream Weishui dam, feigned retreat, timed flood, Long Ju's death, and the follow-up collapse of Qi through Tian Guang, Tian Heng, Guan Ying, and Cao Shen. Created Weishui Battle; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Han Xin, Long Ju, Qi State, Tian Guang (Qi King), Tian Heng, Guan Ying, Cao Shen, Xiang Yu, Liu Bang, Xingyang Standoff, Battlefield Information Control, River Crossing Deception, Lure Enemy Out of Position, and Hanzhong Dui. No settled contradiction found; the Qi chancellor 田光 remains source-scoped to avoid colliding with Tian Guang the Yan elder.
+Added source page for 汉纪 164-2: Long Ju's rescue of Qi, the rejected defensive supply-cutting advice, Han Xin's upstream Weishui dam, feigned retreat, timed flood, Long Ju's death, and the follow-up collapse of Qi through Tian Guang, Tian Heng, Guan Ying, and Cao Shen. Created Weishui Battle; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Han Xin, Long Ju, Qi State, Tian Guang (Qi King), Tian Heng, Guan Ying, Cao Shen, Xiang Yu, Liu Bang, Xingyang Standoff, Battlefield Information Control, River Crossing Deception, Lure Enemy Out of Position, and Hanzhong Dui. No settled contradiction found; the Qi chancellor 田光 remains source-scoped to avoid colliding with Tian Guang the Yan elder.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11207,7 +11207,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》165-1｜刘邦这句话，差点弄丢大汉江山
 
-Added source page for Hanji 165-1: Han Xin's request to act as Qi king, Liu Bang's anger and quick pivot under Zhang Liang and Chen Ping's warning, the formal grant of real Qi kingship, Xiang Yu's dispatch of Wu She to urge a Chu-Han-Qi balance, Han Xin's gratitude-based refusal, and Kuai Che's closing entrance. Created Wu She, Conceded Kingship Stabilization, and Tripartite Balance Strategy; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; Wu She's anti-Liu Bang claims and the Zhang Ao/Zhang Yan family sequel remain source-scoped.
+Added source page for 汉纪 165-1: Han Xin's request to act as Qi king, Liu Bang's anger and quick pivot under Zhang Liang and Chen Ping's warning, the formal grant of real Qi kingship, Xiang Yu's dispatch of Wu She to urge a Chu-Han-Qi balance, Han Xin's gratitude-based refusal, and Kuai Che's closing entrance. Created Wu She, Conceded Kingship Stabilization, and Tripartite Balance Strategy; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; Wu She's anti-Liu Bang claims and the Zhang Ao/Zhang Yan family sequel remain source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11215,7 +11215,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》165-2｜韩信为何至死也不背叛刘邦
 
-Added source page for Hanji 165-2: Kuai Che's completed warning to Han Xin, the proposal to preserve Qi as a third pole with Zhao and Yan, Han Xin's gratitude-based refusal through Liu Bang's chariot/clothing/food恩遇, Zhang Er/Chen Yu as a broken-friendship precedent, Wen Zhong as the "鸟尽弓藏，兔死狗烹" precedent, and Zhu Ying/Chunshenjun as the host analogy for delayed action after a danger warning. Updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Han Xin, Liu Bang, Xiang Yu, Kuai Che, Zhang Er, Chen Yu, Wen Zhong, Zhu Ying, Chunshenjun, Tripartite Balance Strategy, Power Exit Trap, Retainer Reciprocity Ethic, and Grace-Debt Loyalty Pressure. No settled contradiction found; Kuai Che's physiognomy and three-way-order counterfactual remain source-scoped.
+Added source page for 汉纪 165-2: Kuai Che's completed warning to Han Xin, the proposal to preserve Qi as a third pole with Zhao and Yan, Han Xin's gratitude-based refusal through Liu Bang's chariot/clothing/food恩遇, Zhang Er/Chen Yu as a broken-friendship precedent, Wen Zhong as the "鸟尽弓藏，兔死狗烹" precedent, and Zhu Ying/Chunshenjun as the host analogy for delayed action after a danger warning. Updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Han Xin, Liu Bang, Xiang Yu, Kuai Che, Zhang Er, Chen Yu, Wen Zhong, Zhu Ying, Chunshenjun, Tripartite Balance Strategy, Power Exit Trap, Retainer Reciprocity Ethic, and Grace-Debt Loyalty Pressure. No settled contradiction found; Kuai Che's physiognomy and three-way-order counterfactual remain source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11223,7 +11223,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》166｜既然项羽不讲武德，看刘邦如何复仇？
 
-Added source page for Hanji 166: Han Xin's final refusal of Kuai Che's third-pole warning, Kuai Che's feigned-madness withdrawal, Liu Bang's formal reward to Ying Bu, Lu Jia's failed negotiation, Hou Gong's successful Honggou agreement, the return of Liu Taigong and Lu Zhi, and Zhang Liang/Chen Ping's advice to pursue Xiang Yu after the truce. Created Hou Gong (Chu-Han), Honggou Settlement, and Instrumental Truce Breach; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Han Xin, Kuai Che, Lu Jia, Liu Taigong, Lu Zhi, Ying Bu, Zhang Liang, Chen Ping, Guangwu, Tripartite Balance Strategy, Power Exit Trap, Retainer Reciprocity Ethic, and Grace-Debt Loyalty Pressure. No settled contradiction found; the host's chronology correction around Wu She/Kuai Che and the claim that Liu Bang used the agreement instrumentally are kept source-scoped.
+Added source page for 汉纪 166: Han Xin's final refusal of Kuai Che's third-pole warning, Kuai Che's feigned-madness withdrawal, Liu Bang's formal reward to Ying Bu, Lu Jia's failed negotiation, Hou Gong's successful Honggou agreement, the return of Liu Taigong and Lu Zhi, and Zhang Liang/Chen Ping's advice to pursue Xiang Yu after the truce. Created Hou Gong (Chu-Han), Honggou Settlement, and Instrumental Truce Breach; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Han Xin, Kuai Che, Lu Jia, Liu Taigong, Lu Zhi, Ying Bu, Zhang Liang, Chen Ping, Guangwu, Tripartite Balance Strategy, Power Exit Trap, Retainer Reciprocity Ethic, and Grace-Debt Loyalty Pressure. No settled contradiction found; the host's chronology correction around Wu She/Kuai Che and the claim that Liu Bang used the agreement instrumentally are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11231,7 +11231,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》167｜见证项羽最终之战（1）
 
-Added source page for Hanji 167: Liu Bang's post-Honggou pursuit, Han Xin and Peng Yue's initial non-arrival, Zhang Liang's land-for-mobilization advice, Liu Jia's Huainan operation, Zhou Yin's surrender and Jiujiang troop gathering, Ying Bu's northward participation, and Xiang Yu's arrival at Gaixia before the transcript cuts off at the first charge. Created Gaixia Battle and Territorial Reward Mobilization; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Han Xin, Zhang Liang, Honggou Settlement, Instrumental Truce Breach, Conceded Kingship Stabilization, Xiayi Plan, Power-Based Alliance Repricing, Reward Allocation Backlash, Xiang Camp Factional Cleavage, Peng Yue, Zhou Yin, Liu Jia, and Ying Bu. No settled contradiction found; Zhou Yin's earlier trusted-core role is treated as a chronology tension resolved by later terminal defection.
+Added source page for 汉纪 167: Liu Bang's post-Honggou pursuit, Han Xin and Peng Yue's initial non-arrival, Zhang Liang's land-for-mobilization advice, Liu Jia's Huainan operation, Zhou Yin's surrender and Jiujiang troop gathering, Ying Bu's northward participation, and Xiang Yu's arrival at Gaixia before the transcript cuts off at the first charge. Created Gaixia Battle and Territorial Reward Mobilization; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Xiang Yu, Han Xin, Zhang Liang, Honggou Settlement, Instrumental Truce Breach, Conceded Kingship Stabilization, Xiayi Plan, Power-Based Alliance Repricing, Reward Allocation Backlash, Xiang Camp Factional Cleavage, Peng Yue, Zhou Yin, Liu Jia, and Ying Bu. No settled contradiction found; Zhou Yin's earlier trusted-core role is treated as a chronology tension resolved by later terminal defection.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11239,7 +11239,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》167｜见证项羽最终之战（2）
 
-Added source page for Hanji 167 part 2: Liu Bang yielding command at Gaixia, Han Xin's three-line formation, Kong Xi and Chen He's wing pressure, Liu Bang's second line, Zhou Bo and Chai Wu's third line, Xiang Yu's failed attempt to reproduce Pengcheng-style shock collapse, and the final encirclement of the exhausted Chu force. Created Kong Xi, Chen He, Chai Wu, and Layered Depth Defense; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Gaixia Battle, Han Xin, Xiang Yu, Liu Bang, Zhou Bo, Ancient Large-Army Command Limits, Battlefield Encirclement Logistics, and Cavalry Shock Command Strike. No settled contradiction found; part 2 resolves part 1's suspended first charge and reinforces the existing Liu Bang/Han Xin command-scale contrast.
+Added source page for 汉纪 167 part 2: Liu Bang yielding command at Gaixia, Han Xin's three-line formation, Kong Xi and Chen He's wing pressure, Liu Bang's second line, Zhou Bo and Chai Wu's third line, Xiang Yu's failed attempt to reproduce Pengcheng-style shock collapse, and the final encirclement of the exhausted Chu force. Created Kong Xi, Chen He, Chai Wu, and Layered Depth Defense; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Gaixia Battle, Han Xin, Xiang Yu, Liu Bang, Zhou Bo, Ancient Large-Army Command Limits, Battlefield Encirclement Logistics, and Cavalry Shock Command Strike. No settled contradiction found; part 2 resolves part 1's suspended first charge and reinforces the existing Liu Bang/Han Xin command-scale contrast.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11247,7 +11247,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》168｜霸王别姬前发生了什么（1）
 
-Added source page for Hanji 168 part 1: Li Qingzhao's later Xiang Yu memory, the four-sided Chu songs at Gaixia, the host's Shiji supplement of Gaixia Song after Zizhi Tongjian's omission, Yu Ji's suicide, Xiang Yu's eight-hundred-man breakout, Guan Ying's cavalry pursuit, the Yinling farmer's false direction, and the "Heaven's will as people's will" reading of Xiang Yu's end. Created Yu Ji, Gaixia Song, and Four-Sided Chu Songs; updated overview, index, Gaixia Battle, Xiang Yu, Guan Ying, Li Qingzhao, Shiji, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, People-Based Political Security, and Textual Variant Political Stakes. No settled contradiction found; Yu Ji's attributed response song is kept source-scoped because the episode notes authenticity doubts.
+Added source page for 汉纪 168 part 1: Li Qingzhao's later Xiang Yu memory, the four-sided Chu songs at Gaixia, the host's Shiji supplement of Gaixia Song after Zizhi Tongjian's omission, Yu Ji's suicide, Xiang Yu's eight-hundred-man breakout, Guan Ying's cavalry pursuit, the Yinling farmer's false direction, and the "Heaven's will as people's will" reading of Xiang Yu's end. Created Yu Ji, Gaixia Song, and Four-Sided Chu Songs; updated overview, index, Gaixia Battle, Xiang Yu, Guan Ying, Li Qingzhao, Shiji, Zizhi Tongjian, Ruiqi Jiangtou Zizhi Tongjian, People-Based Political Security, and Textual Variant Political Stakes. No settled contradiction found; Yu Ji's attributed response song is kept source-scoped because the episode notes authenticity doubts.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11259,7 +11259,7 @@ Ran lint after health and identity validation passed. Health scanned 13,090 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（1）
 
-Added source page for Hanji 169: Liu Bang's post-Xiang-Yu settlement through Lu County's surrender, Xiang Yu's burial, Xiang-clan absorption, Gong Wei's capture, Han Xin's command removal and Chu kingship, Peng Yue's Liang kingship, broad amnesty, the accession petition, Shusun Tong's simplified rite, and the Luoyang south-palace question. Created Lu County (Chu-Han), Xiang Xiang, Zhang Ao, Shusun Tong, and Battlefield Victory To Founding Order; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; the source's critique of Xiang Yu's Heaven explanation is kept as complementary to earlier people-support readings.
+Added source page for 汉纪 169: Liu Bang's post-Xiang-Yu settlement through Lu County's surrender, Xiang Yu's burial, Xiang-clan absorption, Gong Wei's capture, Han Xin's command removal and Chu kingship, Peng Yue's Liang kingship, broad amnesty, the accession petition, Shusun Tong's simplified rite, and the Luoyang south-palace question. Created Lu County (Chu-Han), Xiang Xiang, Zhang Ao, Shusun Tong, and Battlefield Victory To Founding Order; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; the source's critique of Xiang Yu's Heaven explanation is kept as complementary to earlier people-support readings.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11267,7 +11267,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》169｜盘点刘邦登基前不为人知的故事（2）
 
-Added source page for Hanji 169 part 2: Liu Bang's accession, Lu Zhi's empress title, Liu Ying's crown-prince status, Wu Rui's Changsha kingship, Wuzhu's Minyue kingship, Luoyang capital setting, postwar return-and-veteran relief, the South Palace explanation of Han victory through Zhang Liang, Xiao He, and Han Xin, and Han Xin's politically difficult Chu kingship with personal-security adaptation. Created Changsha Kingdom, Wuzhu (Minyue king), Minyue, Postwar Return and Veteran Relief, Specialist Delegation Leadership, and Hostile-Territory Royal Containment; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; the transcript's 吴珠 naming is preserved as source-scoped while linked to the Minyue Wuzhu context.
+Added source page for 汉纪 169 part 2: Liu Bang's accession, Lu Zhi's empress title, Liu Ying's crown-prince status, Wu Rui's Changsha kingship, Wuzhu's Minyue kingship, Luoyang capital setting, postwar return-and-veteran relief, the South Palace explanation of Han victory through Zhang Liang, Xiao He, and Han Xin, and Han Xin's politically difficult Chu kingship with personal-security adaptation. Created Changsha Kingdom, Wuzhu (Minyue king), Minyue, Postwar Return and Veteran Relief, Specialist Delegation Leadership, and Hostile-Territory Royal Containment; updated overview, index, and related Chu-Han entity and concept pages. No settled contradiction found; the transcript's 吴珠 naming is preserved as source-scoped while linked to the Minyue Wuzhu context.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11275,7 +11275,7 @@ Ran lint after health and identity validation passed. Health scanned 13,103 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》170｜刘邦为啥从洛阳搬家到长安（1）
 
-Added source page for Hanji 170 part 1: Tian Heng's island exile, Liu Bang's forced summons and protection against Li Shang's revenge, Tian Heng's suicide, follower deaths, Xu Beihong's later patriotic painting memory, Ji Bu's hiding under Zhu Jia, Zhu Jia's persuasion through Xiahou Ying, and Liu Bang's pardon and appointment of Ji Bu. Created Ji Bu, Zhu Jia (Lu), Xu Beihong, Nanyue, and Former Enemy Loyalty Reframing; updated overview, index, Liu Bang, Western Han dynasty, Qi State, Tian Heng, Li Shang, Xiahou Ying, Ruiqi Jiangtou Zizhi Tongjian, Retainer Reciprocity Ethic, Aristocratic Honor Over Life, Battlefield Victory To Founding Order, Pardon As State Power, and Moral Reputation as Political Capital. No settled contradiction found; the title's Luoyang-to-Chang'an promise is recorded as preview because this part remains on political cleanup after accession.
+Added source page for 汉纪 170 part 1: Tian Heng's island exile, Liu Bang's forced summons and protection against Li Shang's revenge, Tian Heng's suicide, follower deaths, Xu Beihong's later patriotic painting memory, Ji Bu's hiding under Zhu Jia, Zhu Jia's persuasion through Xiahou Ying, and Liu Bang's pardon and appointment of Ji Bu. Created Ji Bu, Zhu Jia (Lu), Xu Beihong, Nanyue, and Former Enemy Loyalty Reframing; updated overview, index, Liu Bang, Western Han dynasty, Qi State, Tian Heng, Li Shang, Xiahou Ying, Ruiqi Jiangtou Zizhi Tongjian, Retainer Reciprocity Ethic, Aristocratic Honor Over Life, Battlefield Victory To Founding Order, Pardon As State Power, and Moral Reputation as Political Capital. No settled contradiction found; the title's Luoyang-to-Chang'an promise is recorded as preview because this part remains on political cleanup after accession.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11287,7 +11287,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》171｜张良教你如何名利双收？（1）
 
-Added source page for Hanji 171 part 1: Zhang Liang's post-founding seclusion after the Chang'an move, his claim that revenge, strategist service, and marquisate have already satisfied worldly achievement, the Chisongzi/immortal vocabulary around withdrawal, Sima Guang's praise of knowing when to stop, and the host's critique that Han Xin and Xiao He should not be blamed for danger created by Liu Bang's suspicion of powerful founding ministers. Created Chisongzi and Transcendent Exit Political Camouflage; updated overview, index, Zhang Liang, Liu Bang, Han Xin, Xiao He, Sima Guang, Ruiqi Jiangtou Zizhi Tongjian, Power Exit Trap, Daoist Nourishing-Life Techniques, Victim Blaming As Institutional Defense, and Sou Shen Ji. No settled contradiction found; the Sima Guang/host difference is recorded as an interpretive tension.
+Added source page for 汉纪 171 part 1: Zhang Liang's post-founding seclusion after the Chang'an move, his claim that revenge, strategist service, and marquisate have already satisfied worldly achievement, the Chisongzi/immortal vocabulary around withdrawal, Sima Guang's praise of knowing when to stop, and the host's critique that Han Xin and Xiao He should not be blamed for danger created by Liu Bang's suspicion of powerful founding ministers. Created Chisongzi and Transcendent Exit Political Camouflage; updated overview, index, Zhang Liang, Liu Bang, Han Xin, Xiao He, Sima Guang, Ruiqi Jiangtou Zizhi Tongjian, Power Exit Trap, Daoist Nourishing-Life Techniques, Victim Blaming As Institutional Defense, and Sou Shen Ji. No settled contradiction found; the Sima Guang/host difference is recorded as an interpretive tension.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11295,7 +11295,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》171｜张良教你如何名利双收？（2）
 
-Added source page for Hanji 171 part 2: Zang Tu's rebellion and suppression, Lu Wan's appointment as Yan king, Li Ji's fear-driven rebellion, Changle and Weiyang palace construction, and Han Xin's Zhongli Mo crisis. Created Li Ji (Chu-Han), Changle Palace, Weiyang Palace, and Different-Surname King Suspicion; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Western Han dynasty, Zang Tu, Lu Wan, Zhongli Mo, Han Xin, Yan State, Power Exit Trap, and Hostile-Territory Royal Containment. No settled contradiction found; Zang Tu's motive and Liu Bang's pressure are kept source-scoped.
+Added source page for 汉纪 171 part 2: Zang Tu's rebellion and suppression, Lu Wan's appointment as Yan king, Li Ji's fear-driven rebellion, Changle and Weiyang palace construction, and Han Xin's Zhongli Mo crisis. Created Li Ji (Chu-Han), Changle Palace, Weiyang Palace, and Different-Surname King Suspicion; updated overview, index, Ruiqi Jiangtou Zizhi Tongjian, Liu Bang, Western Han dynasty, Zang Tu, Lu Wan, Zhongli Mo, Han Xin, Yan State, Power Exit Trap, and Hostile-Territory Royal Containment. No settled contradiction found; Zang Tu's motive and Liu Bang's pressure are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11303,7 +11303,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》172｜刘邦佯游云梦泽 智擒韩信
 
-Added source page for Hanji 172: Liu Bang and Chen Ping's fake Yunmeng tour trap, the vassal gathering at Chen County, Han Xin's Zhongli Mo dilemma, Zhongli Mo's suicide, Han Xin's arrest, and his demotion from Chu king to Huaiyin marquis. Created Chen County (Chu-Han) and Ritual-Tour Summons Entrapment; updated overview, index, and related Han Xin / early Han suspicion pages. No settled contradiction found; Zhongli Mo's comparative military ability and the host's reading of Han Xin's human-nature misjudgment are kept source-scoped.
+Added source page for 汉纪 172: Liu Bang and Chen Ping's fake Yunmeng tour trap, the vassal gathering at Chen County, Han Xin's Zhongli Mo dilemma, Zhongli Mo's suicide, Han Xin's arrest, and his demotion from Chu king to Huaiyin marquis. Created Chen County (Chu-Han) and Ritual-Tour Summons Entrapment; updated overview, index, and related Han Xin / early Han suspicion pages. No settled contradiction found; Zhongli Mo's comparative military ability and the host's reading of Han Xin's human-nature misjudgment are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11311,7 +11311,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》173｜韩信逃过胯下之辱 没躲过鸟尽弓藏（1）
 
-Added source page for Hanji 173: Han Xin's post-demotion isolation in Chang'an, his visit to Fan Kuai, Fan Kuai's deferential reception, the "生乃与哙等为伍" insult, and the host's interpretation that public distance from Fan Kuai may have been political self-protection rather than only arrogance. Created Public Disavowal Self-Protection; updated overview, index, Han Xin, Liu Bang, Fan Kuai, Lu Zhi, Different-Surname King Suspicion, Veteran Merit-Clique Supervision, and Power Exit Trap. No settled contradiction found; kept the deliberate-distancing interpretation and the "two chances to rebel" setup source-scoped because the excerpt ends before the full follow-on argument.
+Added source page for 汉纪 173: Han Xin's post-demotion isolation in Chang'an, his visit to Fan Kuai, Fan Kuai's deferential reception, the "生乃与哙等为伍" insult, and the host's interpretation that public distance from Fan Kuai may have been political self-protection rather than only arrogance. Created Public Disavowal Self-Protection; updated overview, index, Han Xin, Liu Bang, Fan Kuai, Lu Zhi, Different-Surname King Suspicion, Veteran Merit-Clique Supervision, and Power Exit Trap. No settled contradiction found; kept the deliberate-distancing interpretation and the "two chances to rebel" setup source-scoped because the excerpt ends before the full follow-on argument.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11319,7 +11319,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（1）
 
-Added source page for Hanji 174: Liu Bang's post-Han-Xin founding reward settlement, Xiao He's "功狗/功人" merit ranking, Zhang Liang and Chen Ping's restrained reward handling, Liu-family kingships for Liu Jia, Liu Jiao, Liu Xi, and Liu Fei, and Han Wang Xin's relocation to the Xiongnu frontier at Mayi. Created Liu Jiao, Liu Xi (Dai king), Liu Fei (Qi king), Jing Kingdom (early Han), Chu Kingdom (early Han), Dai Kingdom (early Han), Qi Kingdom (early Han), Mayi, Founding Merit Hierarchy, Same-Surname King Enfeoffment, and Frontier Vassal Containment; updated overview, index, and related early Han settlement pages. No settled contradiction found; the Qin anti-enfeoffment contrast and Han Wang Xin's defense-versus-containment motive are kept source-scoped.
+Added source page for 汉纪 174: Liu Bang's post-Han-Xin founding reward settlement, Xiao He's "功狗/功人" merit ranking, Zhang Liang and Chen Ping's restrained reward handling, Liu-family kingships for Liu Jia, Liu Jiao, Liu Xi, and Liu Fei, and Han Wang Xin's relocation to the Xiongnu frontier at Mayi. Created Liu Jiao, Liu Xi (Dai king), Liu Fei (Qi king), Jing Kingdom (early Han), Chu Kingdom (early Han), Dai Kingdom (early Han), Qi Kingdom (early Han), Mayi, Founding Merit Hierarchy, Same-Surname King Enfeoffment, and Frontier Vassal Containment; updated overview, index, and related early Han settlement pages. No settled contradiction found; the Qin anti-enfeoffment contrast and Han Wang Xin's defense-versus-containment motive are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11327,7 +11327,7 @@ Ran lint after health and identity validation passed. Health scanned 13,138 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》174｜刘邦为何大封自己的仇人（2）
 
-Added source page for Hanji 174 part 2: Zhang Liang's diagnosis of reward anxiety, Liu Bang's enfeoffment of Yong Chi as a hated-recipient reassurance signal, the first-class merit ranking with Xiao He over Cao Shen and Zhang Ao, E Qianqiu's "一时之功 / 万世之功" defense of Xiao He's rear supply contribution, Xiao He's special court privileges, Liu Taigong's elevation to Taishanghuang, and the Xiongnu teaser. Created E Qianqiu and Hostile Recipient Reward Signal; updated overview, index, Liu Bang, Zhang Liang, Xiao He, Cao Shen, Yong Chi, Zhang Ao, Liu Taigong, Liyang, Ruiqi Jiangtou Zizhi Tongjian, Founding Merit Hierarchy, Reward Allocation Backlash, Merit-Based Reward and Punishment, Battlefield Victory To Founding Order, and Specialist Delegation Leadership. No settled contradiction found; transcript "庸耻" was normalized to Yong Chi.
+Added source page for 汉纪 174 part 2: Zhang Liang's diagnosis of reward anxiety, Liu Bang's enfeoffment of Yong Chi as a hated-recipient reassurance signal, the first-class merit ranking with Xiao He over Cao Shen and Zhang Ao, E Qianqiu's "一时之功 / 万世之功" defense of Xiao He's rear supply contribution, Xiao He's special court privileges, Liu Taigong's elevation to Taishanghuang, and the Xiongnu teaser. Created E Qianqiu and Hostile Recipient Reward Signal; updated overview, index, Liu Bang, Zhang Liang, Xiao He, Cao Shen, Yong Chi, Zhang Ao, Liu Taigong, Liyang, Ruiqi Jiangtou Zizhi Tongjian, Founding Merit Hierarchy, Reward Allocation Backlash, Merit-Based Reward and Punishment, Battlefield Victory To Founding Order, and Specialist Delegation Leadership. No settled contradiction found; transcript "庸耻" was normalized to Yong Chi.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11343,7 +11343,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线
 
-Added source page for Hanji 177: Han Wang Xin's post-Mayi surrender chain, Liu Bang's northern campaign, Liu Jing's rejected warning that Xiongnu weakness was staged, and Modu's winter cavalry encirclement at Baideng. Updated overview, index, Baideng Encirclement, Han Wang Xin, Xiongnu, Modu Chanyu, Liu Bang, Liu Jing/Lou Jing, Chen Ping, Mayi, Shangdang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related frontier, information-control, lure, cavalry-asymmetry, and encirclement concepts. No settled contradiction found; Hanji 177 complements Hanji 150 part 4 by supplying the military setup before Chen Ping's later escape stratagem.
+Added source page for 汉纪 177: Han Wang Xin's post-Mayi surrender chain, Liu Bang's northern campaign, Liu Jing's rejected warning that Xiongnu weakness was staged, and Modu's winter cavalry encirclement at Baideng. Updated overview, index, Baideng Encirclement, Han Wang Xin, Xiongnu, Modu Chanyu, Liu Bang, Liu Jing/Lou Jing, Chen Ping, Mayi, Shangdang, Western Han, Ruiqi Jiangtou Zizhi Tongjian, and related frontier, information-control, lure, cavalry-asymmetry, and encirclement concepts. No settled contradiction found; 汉纪 177 complements 汉纪 150 part 4 by supplying the military setup before Chen Ping's later escape stratagem.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11359,7 +11359,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》179｜历史上“和亲”怎么来的
 
-Added source page for Hanji 179: Gaozu eighth-year post-Baideng pressure, the failed 百人县 assassination attempt by Guan Gao and Zhao Wu, early Han 重农轻商 restrictions, Liu Jing's concrete heqin design, Lu Zhi's resistance to sending Lu Yuan Princess, and the policy's later limits before Han Wudi's military turn. Created Heavy Agriculture and Light Commerce Policy; updated overview, index, Liu Bang, Liu Jing/Lou Jing, Lu Zhi, Lu Yuan Princess, Modu Chanyu, Xiongnu, Western Han, Han-Xiongnu Heqin Policy, Vassal Humiliation Conspiracy, and related frontier pages. No settled contradiction found; the Tang/Qing/Song/Ming comparison is kept source-scoped.
+Added source page for 汉纪 179: Gaozu eighth-year post-Baideng pressure, the failed 百人县 assassination attempt by Guan Gao and Zhao Wu, early Han 重农轻商 restrictions, Liu Jing's concrete heqin design, Lu Zhi's resistance to sending Lu Yuan Princess, and the policy's later limits before Han Wudi's military turn. Created Heavy Agriculture and Light Commerce Policy; updated overview, index, Liu Bang, Liu Jing/Lou Jing, Lu Zhi, Lu Yuan Princess, Modu Chanyu, Xiongnu, Western Han, Han-Xiongnu Heqin Policy, Vassal Humiliation Conspiracy, and related frontier pages. No settled contradiction found; the Tang/Qing/Song/Ming comparison is kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11379,11 +11379,11 @@ Ran lint; report printed in session, not saved to lint-report.md.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（2）
 
-Added source page for Hanji 182 part 2: Chen Xi's suppression through Dongyuan, Quni, Mayi, and Canhe; Han Wang Xin's refusal of Chai Wu's surrender letter; and Han Xin's exposure, false-victory summons, Changle Palace killing, and the "成也萧何败也萧何" idiom. Created Dongyuan, Zhending, Canhe, Hou Chang, Zhang Chun (Western Han rebel), Guo Meng, Jin Xi (Han general), and Celebratory Summons Entrapment; updated overview, index, Han Xin, Xiao He, Lu Zhi, Chen Xi, Chen Xi Rebellion, Han Wang Xin, Liu Bang, Western Han, Changle Palace, Quni, Mayi, Zhou Bo, Chai Wu, Fan Kuai, Guan Ying, Cao Shen, Zhao Li, Wang Huang, Manqiu Chen, Power Exit Trap, Treason Accusation Trap, and Covert Political Technology. No settled contradiction found; Han Xin's later conspiracy remains a post-demotion stage rather than a contradiction of earlier loyalty episodes, and Han Wang Xin's refusal is recorded as a source-scoped challenge to surrender credibility.
+Added source page for 汉纪 182 part 2: Chen Xi's suppression through Dongyuan, Quni, Mayi, and Canhe; Han Wang Xin's refusal of Chai Wu's surrender letter; and Han Xin's exposure, false-victory summons, Changle Palace killing, and the "成也萧何败也萧何" idiom. Created Dongyuan, Zhending, Canhe, Hou Chang, Zhang Chun (Western Han rebel), Guo Meng, Jin Xi (Han general), and Celebratory Summons Entrapment; updated overview, index, Han Xin, Xiao He, Lu Zhi, Chen Xi, Chen Xi Rebellion, Han Wang Xin, Liu Bang, Western Han, Changle Palace, Quni, Mayi, Zhou Bo, Chai Wu, Fan Kuai, Guan Ying, Cao Shen, Zhao Li, Wang Huang, Manqiu Chen, Power Exit Trap, Treason Accusation Trap, and Covert Political Technology. No settled contradiction found; Han Xin's later conspiracy remains a post-demotion stage rather than a contradiction of earlier loyalty episodes, and Han Wang Xin's refusal is recorded as a source-scoped challenge to surrender credibility.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》182｜为什么说“成也萧何败也萧何”（1）
 
-Added source page for Hanji 182: Chen Xi's frontier appointment, Han Xin's inside-outside rebellion proposal, Zhou Chang's warning, Liu Bang's investigation, Liu Taigong funeral summons, Chen Xi's self-declared Dai kingship, the Wang Huang / Manqiu Chen / Han Wang Xin / Zhao Li rebel network, and Liu Bang's suppression through Handan judgment, selective non-punishment, local rewards, Le Shu symbolic pacification, and bribery of rebel generals. Created Chen Xi, Chen Xi Rebellion, Wang Huang, Manqiu Chen, Zhao Li, Le Shu, and Investigation-Driven Rebellion Escalation; updated overview, index, Han Xin, Liu Bang, Zhou Chang, Han Wang Xin, Dai Kingdom, Handan, Le Yi, Liu Taigong, Different-Surname King Suspicion, Frontier Vassal Containment, Occupation Pacification Strategy, and Covert Political Technology. No settled contradiction found; Han Xin's later conspiracy is recorded as a post-demotion stage rather than a contradiction with earlier refusal-to-betray episodes, and Xiao He's promised role remains pending for the sequel.
+Added source page for 汉纪 182: Chen Xi's frontier appointment, Han Xin's inside-outside rebellion proposal, Zhou Chang's warning, Liu Bang's investigation, Liu Taigong funeral summons, Chen Xi's self-declared Dai kingship, the Wang Huang / Manqiu Chen / Han Wang Xin / Zhao Li rebel network, and Liu Bang's suppression through Handan judgment, selective non-punishment, local rewards, Le Shu symbolic pacification, and bribery of rebel generals. Created Chen Xi, Chen Xi Rebellion, Wang Huang, Manqiu Chen, Zhao Li, Le Shu, and Investigation-Driven Rebellion Escalation; updated overview, index, Han Xin, Liu Bang, Zhou Chang, Han Wang Xin, Dai Kingdom, Handan, Le Yi, Liu Taigong, Different-Surname King Suspicion, Frontier Vassal Containment, Occupation Pacification Strategy, and Covert Political Technology. No settled contradiction found; Han Xin's later conspiracy is recorded as a post-demotion stage rather than a contradiction with earlier refusal-to-betray episodes, and Xiao He's promised role remains pending for the sequel.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11403,7 +11403,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》184｜历史恐怖片：刘邦的“彭氏肉酱”（2）
 
-Added source page for Hanji 184: Luan Bu's public mourning beneath Peng Yue's displayed head, his death-facing defense that Peng Yue had not rebelled and that killing him would chill other merit-holders, Liu Bang's pardon and duwei appointment, the same-surname replacement map for Liang and Huaiyang, and Liu Bang's recognition of Zhao Tuo as Nanyue king through Lu Jia's envoy mission. Created Luan Bu and Zhao Tuo; updated overview, index, Liu Bang, Peng Yue, Nanyue, Baiyue, Lu Jia, Nanhai Commandery, Guilin Commandery, Xiang Commandery, Dong Commandery, Yingchuan Commandery, Death-Defying Remonstrance, Pardon As State Power, Different-Surname King Suspicion, Same-Surname King Enfeoffment, and Battlefield Victory To Founding Order. No settled contradiction found; Luan Bu's claim that Peng Yue did not rebel is preserved as source-scoped advocacy, while the source complicates early Han consolidation by showing the chilling-effect risk of punishing a founding contributor.
+Added source page for 汉纪 184: Luan Bu's public mourning beneath Peng Yue's displayed head, his death-facing defense that Peng Yue had not rebelled and that killing him would chill other merit-holders, Liu Bang's pardon and duwei appointment, the same-surname replacement map for Liang and Huaiyang, and Liu Bang's recognition of Zhao Tuo as Nanyue king through Lu Jia's envoy mission. Created Luan Bu and Zhao Tuo; updated overview, index, Liu Bang, Peng Yue, Nanyue, Baiyue, Lu Jia, Nanhai Commandery, Guilin Commandery, Xiang Commandery, Dong Commandery, Yingchuan Commandery, Death-Defying Remonstrance, Pardon As State Power, Different-Surname King Suspicion, Same-Surname King Enfeoffment, and Battlefield Victory To Founding Order. No settled contradiction found; Luan Bu's claim that Peng Yue did not rebel is preserved as source-scoped advocacy, while the source complicates early Han consolidation by showing the chilling-effect risk of punishing a founding contributor.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11419,11 +11419,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》187｜英布叛乱 刘邦为何拖病体亲征
 
-Added source page for Hanji 187: Ying Bu's open rebellion after Han Xin and Peng Yue, Xue Gong's upper/middle/lower strategy forecast, Liu Bang's abolition of Ying Bu's title and appointment of Liu Chang as Huainan king, Liu Bang's rejected plan to send crown prince Liu Ying, Lu Zhi's intervention, Zhang Liang's sickbed sendoff, and Ying Bu's early tactical success against divided Chu defenses. Created Xue Gong (Han adviser) and Liu Chang (Huainan king); updated overview, index, Ying Bu, Liu Bang, Huainan Kingdom, Liu Ying, Lu Zhi, Xiahou Ying, Zhang Liang, Crown-Prince Command Risk, Xingshiqing Strategic Assessment, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces Hanji 186's fear-and-investigation chain while limiting Ying Bu's threat through Xue Gong's lower-strategy diagnosis.
+Added source page for 汉纪 187: Ying Bu's open rebellion after Han Xin and Peng Yue, Xue Gong's upper/middle/lower strategy forecast, Liu Bang's abolition of Ying Bu's title and appointment of Liu Chang as Huainan king, Liu Bang's rejected plan to send crown prince Liu Ying, Lu Zhi's intervention, Zhang Liang's sickbed sendoff, and Ying Bu's early tactical success against divided Chu defenses. Created Xue Gong (Han adviser) and Liu Chang (Huainan king); updated overview, index, Ying Bu, Liu Bang, Huainan Kingdom, Liu Ying, Lu Zhi, Xiahou Ying, Zhang Liang, Crown-Prince Command Risk, Xingshiqing Strategic Assessment, Different-Surname King Suspicion, Investigation-Driven Rebellion Escalation, and Power Exit Trap. No settled contradiction found; the episode reinforces 汉纪 186's fear-and-investigation chain while limiting Ying Bu's threat through Xue Gong's lower-strategy diagnosis.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1020丨三国败家子袁术，如何把好牌打得稀烂？
 
-Added source page for Hanji 1020: Yuan Shu's failed imperial momentum, He Kui's diagnosis of timing/trust/talent failure, Cao Cao's contrastive talent absorption through He Kui and Xu Chu, and the Yang Biao case as a reputation-constrained prosecution under Emperor Xian's court. Created Yuan Shu, He Kui, Xu Chu, Yang Biao, Yang Xiu, Kong Rong, Xun Yu, Man Chong, and Prestige-Constrained Political Prosecution; updated overview, index, Cao Cao, Emperor Xian of Han, Xingshiqing Strategic Assessment, Talent as State Treasure, and People-Based Political Security. No settled contradiction found; Yang Biao's accusation is preserved as source-scoped political risk rather than treated as proven guilt.
+Added source page for 汉纪 1020: Yuan Shu's failed imperial momentum, He Kui's diagnosis of timing/trust/talent failure, Cao Cao's contrastive talent absorption through He Kui and Xu Chu, and the Yang Biao case as a reputation-constrained prosecution under Emperor Xian's court. Created Yuan Shu, He Kui, Xu Chu, Yang Biao, Yang Xiu, Kong Rong, Xun Yu, Man Chong, and Prestige-Constrained Political Prosecution; updated overview, index, Cao Cao, Emperor Xian of Han, Xingshiqing Strategic Assessment, Talent as State Treasure, and People-Based Political Security. No settled contradiction found; Yang Biao's accusation is preserved as source-scoped political risk rather than treated as proven guilt.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11447,7 +11447,7 @@ Ran lint after health and identity validation passed. Health scanned 13,230 wiki
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1019丨揭秘陈愍王刘宠的传奇一生
 
-Added source page for Hanji 1019: Liu Chong and Luo Jun's Chen state order, Yuan Shu's failed grain demand and Zhang Kai's false-surrender assassination, Sun Ce's Cao-backed title/preemption branch, and the source-scoped lesson that "势" must be borrowed, built, and defended against. Created Liu Chong (Chen king), Luo Jun, Chen State (late Han), Sun Ce, Sun Jian (late Han), Chen Yu (Wu commandery), Zhang Kai (assassin), Lü Bu, Gao Shun, and Wei Xu (late Han); updated overview, index, Yuan Shu, Cao Cao, Kuaiji Commandery, Guiguzi, Xingshiqing Strategic Assessment, People-Based Political Security, Person-Dependent Governance Fragility, and Assassination Access Credential. No settled contradiction found; disambiguated late-Han Chen Yu from the existing Chu-Han Chen Yu page.
+Added source page for 汉纪 1019: Liu Chong and Luo Jun's Chen state order, Yuan Shu's failed grain demand and Zhang Kai's false-surrender assassination, Sun Ce's Cao-backed title/preemption branch, and the source-scoped lesson that "势" must be borrowed, built, and defended against. Created Liu Chong (Chen king), Luo Jun, Chen State (late Han), Sun Ce, Sun Jian (late Han), Chen Yu (Wu commandery), Zhang Kai (assassin), Lü Bu, Gao Shun, and Wei Xu (late Han); updated overview, index, Yuan Shu, Cao Cao, Kuaiji Commandery, Guiguzi, Xingshiqing Strategic Assessment, People-Based Political Security, Person-Dependent Governance Fragility, and Assassination Access Credential. No settled contradiction found; disambiguated late-Han Chen Yu from the existing Chu-Han Chen Yu page.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11455,7 +11455,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1018丨他为何让曹操忌惮、孙策畏惧、刘备惋惜？
 
-Added source page for Hanji 1018: Chen Deng's handling of Lü Bu after Cao Cao withholds the Xuzhou title, the 饥附饱扬 judgment, Chen Gui's diagnosis of Yuan Shu's coalition, Han Xian and Yang Feng's switch, and Gao Shun's ignored warning around Zhang Ba. Created Chen Deng, Chen Gui, Han Xian (late Han), Yang Feng (late Han), Zhang Xun (Yuan Shu general), Qiao Rui, Zhang Ba (late Han), Ji Fu Bao Yang, and Interest-Structured Alliance Fragility; updated overview, index, Lü Bu, Gao Shun, Wei Xu, Yuan Shu, Cao Cao, Xuzhou, Hanji 1019, Interest Reframing Persuasion, Xingshiqing Strategic Assessment, Talent as State Treasure, and Court Feedback Collapse. No settled contradiction found; the source page keeps the episode-title Sun Ce/Liu Bei hook source-scoped because the provided text develops the Cao Cao/Lü Bu branch.
+Added source page for 汉纪 1018: Chen Deng's handling of Lü Bu after Cao Cao withholds the Xuzhou title, the 饥附饱扬 judgment, Chen Gui's diagnosis of Yuan Shu's coalition, Han Xian and Yang Feng's switch, and Gao Shun's ignored warning around Zhang Ba. Created Chen Deng, Chen Gui, Han Xian (late Han), Yang Feng (late Han), Zhang Xun (Yuan Shu general), Qiao Rui, Zhang Ba (late Han), Ji Fu Bao Yang, and Interest-Structured Alliance Fragility; updated overview, index, Lü Bu, Gao Shun, Wei Xu, Yuan Shu, Cao Cao, Xuzhou, 汉纪 1019, Interest Reframing Persuasion, Xingshiqing Strategic Assessment, Talent as State Treasure, and Court Feedback Collapse. No settled contradiction found; the source page keeps the episode-title Sun Ce/Liu Bei hook source-scoped because the provided text develops the Cao Cao/Lü Bu branch.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11463,7 +11463,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1017丨三国隐藏英雄，陈登的传奇往事
 
-Added source page for Hanji 1017: Chen Deng's 197 CE meeting with Cao Cao, the "轻于去就" diagnosis of Lü Bu, Cao Cao's Guangling appointment, Chen Deng's local base-building, and Chen Gui's staged family-survival strategy. Created Qing Yu Qu Jiu and Guangling Commandery; updated overview, index, Chen Deng, Chen Gui, Lü Bu, Cao Cao, Sun Ce, Xiapi, Zhao Ping, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the transcript's "元素" is kept source-scoped as likely Yuan Shu in context, and the Sun Ce / Jiangdong claims remain bounded to this source.
+Added source page for 汉纪 1017: Chen Deng's 197 CE meeting with Cao Cao, the "轻于去就" diagnosis of Lü Bu, Cao Cao's Guangling appointment, Chen Deng's local base-building, and Chen Gui's staged family-survival strategy. Created Qing Yu Qu Jiu and Guangling Commandery; updated overview, index, Chen Deng, Chen Gui, Lü Bu, Cao Cao, Sun Ce, Xiapi, Zhao Ping, Xingshiqing Strategic Assessment, and Political Survival First. No settled contradiction found; the transcript's "元素" is kept source-scoped as likely Yuan Shu in context, and the Sun Ce / Jiangdong claims remain bounded to this source.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11471,7 +11471,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择
 
-Added source page for Hanji 1016: 名器 legitimacy, Yuan Shu's unsupported imperial claim, Chen Gui's refusal under Chen Deng hostage pressure, Jin Shang's refused title and death, Kong Rong's mission to Yuan Shao, Yuan Shu's marriage attempt through Han Yin, Lü Bu's reversal, and the Chen family's path toward Cao Cao. Created Yuan Shao, Jin Shang, Han Yin (late Han), Mingqi Legitimacy, and Marriage Alliance War Exposure; updated overview, index, Chen Gui, Chen Deng, Yuan Shu, Lü Bu, Cao Cao, Emperor Xian, Kong Rong, Xuzhou, Political Survival First, and Xingshiqing Strategic Assessment. No settled contradiction found.
+Added source page for 汉纪 1016: 名器 legitimacy, Yuan Shu's unsupported imperial claim, Chen Gui's refusal under Chen Deng hostage pressure, Jin Shang's refused title and death, Kong Rong's mission to Yuan Shao, Yuan Shu's marriage attempt through Han Yin, Lü Bu's reversal, and the Chen family's path toward Cao Cao. Created Yuan Shao, Jin Shang, Han Yin (late Han), Mingqi Legitimacy, and Marriage Alliance War Exposure; updated overview, index, Chen Gui, Chen Deng, Yuan Shu, Lü Bu, Cao Cao, Emperor Xian, Kong Rong, Xuzhou, Political Survival First, and Xingshiqing Strategic Assessment. No settled contradiction found.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11479,7 +11479,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1015丨三国乱世，为什么袁术敢称帝？
 
-Added source page for Hanji 1015: Cao Cao's sequencing around Lü Bu and Yuan Shao, Xun Yu's Guanzhong assessment, Zhong Yao's successful persuasion of Ma Teng and Han Sui, and Yuan Shu's Shouchun self-coronation as a mismatch of title, capacity, and shared legitimacy. Created Guo Jia, Zhong Yao, Ma Teng, Han Sui, Gongsun Zan, Shouchun, Jiujiang Commandery, Huainan Region, and Anti-Usurpation Coalition Pressure; updated overview, index, Yuan Shu, Cao Cao, Xun Yu, Yuan Shao, Lü Bu, Liu Bei, Sun Ce, Emperor Xian, Guanzhong Region, Mingqi Legitimacy, Title-Reality Restraint, Status Order Backlash, Moralized War Pretext, and Xingshiqing Strategic Assessment. No settled contradiction found; the episode's "德不配位" and modern-management lessons are kept source-scoped.
+Added source page for 汉纪 1015: Cao Cao's sequencing around Lü Bu and Yuan Shao, Xun Yu's Guanzhong assessment, Zhong Yao's successful persuasion of Ma Teng and Han Sui, and Yuan Shu's Shouchun self-coronation as a mismatch of title, capacity, and shared legitimacy. Created Guo Jia, Zhong Yao, Ma Teng, Han Sui, Gongsun Zan, Shouchun, Jiujiang Commandery, Huainan Region, and Anti-Usurpation Coalition Pressure; updated overview, index, Yuan Shu, Cao Cao, Xun Yu, Yuan Shao, Lü Bu, Liu Bei, Sun Ce, Emperor Xian, Guanzhong Region, Mingqi Legitimacy, Title-Reality Restraint, Status Order Backlash, Moralized War Pretext, and Xingshiqing Strategic Assessment. No settled contradiction found; the episode's "德不配位" and modern-management lessons are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11487,11 +11487,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1014丨曹操的15个老婆，都有谁？
 
-Added source page for Hanji 1014: Cao Cao's household list and 分香卖履 deathbed arrangement, Yu Jin's Wancheng retreat discipline, and Xun Yu/Guo Jia's 十胜十败 comparison against Yuan Shao. Created Yu Jin, Lady Ding (Cao Cao), Lady Bian (Cao Cao), Fenxiang Mailu, Crisis-First Military Discipline, and Ten Victories and Ten Defeats; updated overview, index, Cao Cao, Yuan Shao, Xun Yu, Guo Jia, Cao Ang, Xingshiqing Strategic Assessment, Merit-Based Reward and Punishment, and Talent as State Treasure. No settled contradiction found; household list and confidence lesson are source-scoped.
+Added source page for 汉纪 1014: Cao Cao's household list and 分香卖履 deathbed arrangement, Yu Jin's Wancheng retreat discipline, and Xun Yu/Guo Jia's 十胜十败 comparison against Yuan Shao. Created Yu Jin, Lady Ding (Cao Cao), Lady Bian (Cao Cao), Fenxiang Mailu, Crisis-First Military Discipline, and Ten Victories and Ten Defeats; updated overview, index, Cao Cao, Yuan Shao, Xun Yu, Guo Jia, Cao Ang, Xingshiqing Strategic Assessment, Merit-Based Reward and Punishment, and Talent as State Treasure. No settled contradiction found; household list and confidence lesson are source-scoped.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1013丨典韦之死，竟是曹操好色害了他？
 
-Added source page for Hanji 1013: Cao Cao's desire pattern through Lady Du and Lady Yin, the Wancheng chain through Lady Zhou, Zhang Xiu's resentment, Jia Xu's pre-emptive plan, Hu Che'er disabling Dian Wei, and the deaths of Dian Wei, Cao Ang, and Cao Anmin. Created Guan Yu, Lady Du, Qin Yilu, Qin Lang, Lady Yin, He Yan, He Jin, Lady Zhou (Wancheng), Hu Che'er, Jia Xu, Cao Anmin, Liu Biao, Desire-Driven Command Exposure, and Wei-Jin Style Cultural Afterlife; updated overview, index, Cao Cao, Zhang Xiu, Dian Wei, Cao Ang, Yu Jin, Lady Ding, Wan County, Alcohol as Power Catalyst, and Status Insult Defection Cascade. No settled contradiction found; the source's "for one woman" causal slogan is kept as source-scoped shorthand, and Lady Zhou is disambiguated from Zhou Shi (Rebel).
+Added source page for 汉纪 1013: Cao Cao's desire pattern through Lady Du and Lady Yin, the Wancheng chain through Lady Zhou, Zhang Xiu's resentment, Jia Xu's pre-emptive plan, Hu Che'er disabling Dian Wei, and the deaths of Dian Wei, Cao Ang, and Cao Anmin. Created Guan Yu, Lady Du, Qin Yilu, Qin Lang, Lady Yin, He Yan, He Jin, Lady Zhou (Wancheng), Hu Che'er, Jia Xu, Cao Anmin, Liu Biao, Desire-Driven Command Exposure, and Wei-Jin Style Cultural Afterlife; updated overview, index, Cao Cao, Zhang Xiu, Dian Wei, Cao Ang, Yu Jin, Lady Ding, Wan County, Alcohol as Power Catalyst, and Status Insult Defection Cascade. No settled contradiction found; the source's "for one woman" causal slogan is kept as source-scoped shorthand, and Lady Zhou is disambiguated from Zhou Shi (Rebel).
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11503,7 +11503,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事
 
-Added source page for Hanji 1012: Cao Cao's 197 CE southern campaign, Zhang Xiu's Jia Xu-advised surrender, Zhang Ji's death and troop transfer, Lady Zou as Zhang Ji's widow and Zhang Xiu's aunt, and the trust/status breach that sets up the Hanji 1013 Wancheng disaster. Created Zhang Ji (late Han); updated overview, index, Cao Cao, Zhang Xiu, Jia Xu, Liu Biao, Lady Zou, Wan County, Desire-Driven Command Exposure, and Status Insult Defection Cascade. No settled contradiction found; Hanji 1013's "周氏" is preserved as a transcript variant for the canonical Lady Zou page.
+Added source page for 汉纪 1012: Cao Cao's 197 CE southern campaign, Zhang Xiu's Jia Xu-advised surrender, Zhang Ji's death and troop transfer, Lady Zou as Zhang Ji's widow and Zhang Xiu's aunt, and the trust/status breach that sets up the 汉纪 1013 Wancheng disaster. Created Zhang Ji (late Han); updated overview, index, Cao Cao, Zhang Xiu, Jia Xu, Liu Biao, Lady Zou, Wan County, Desire-Driven Command Exposure, and Status Insult Defection Cascade. No settled contradiction found; 汉纪 1013's "周氏" is preserved as a transcript variant for the canonical Lady Zou page.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11511,7 +11511,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1011丨祢衡之死：最具悲剧色彩的借刀杀人
 
-Added source page for Hanji 1011: Mi Heng's talent and abrasive speech, Kong Rong's recommendation to Cao Cao, the public drummer humiliation and naked counter-humiliation, Cao Cao's transfer to Liu Biao, Liu Biao's transfer to Huang Zu, and the borrowed-knife killing / survival-judgment lesson. Created Mi Heng (Late Han), Huang Zu, Kuai Yue, Cai Mao, and Borrowed-Knife Killing; updated overview, index, Cao Cao, Kong Rong, Liu Biao, Jia Xu, and Political Survival First. No settled contradiction found; disambiguated 祢衡 from the existing 芈横 / 楚顷襄王 page and normalized source transcript variants 黄族/款越/款月/蔡茂 to Huang Zu, Kuai Yue, and Cai Mao.
+Added source page for 汉纪 1011: Mi Heng's talent and abrasive speech, Kong Rong's recommendation to Cao Cao, the public drummer humiliation and naked counter-humiliation, Cao Cao's transfer to Liu Biao, Liu Biao's transfer to Huang Zu, and the borrowed-knife killing / survival-judgment lesson. Created Mi Heng (Late Han), Huang Zu, Kuai Yue, Cai Mao, and Borrowed-Knife Killing; updated overview, index, Cao Cao, Kong Rong, Liu Biao, Jia Xu, and Political Survival First. No settled contradiction found; disambiguated 祢衡 from the existing 芈横 / 楚顷襄王 page and normalized source transcript variants 黄族/款越/款月/蔡茂 to Huang Zu, Kuai Yue, and Cai Mao.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11519,7 +11519,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？
 
-Added source page for Hanji 1010: Liu Biao's 196 CE handling of Zhang Ji's death at Rangcheng, mourning-framed absorption of the remaining troops, Jia Xu's host-risk move from Duan Wei to Zhang Xiu, and the balanced evaluation of Liu Biao as a capable defensive Jingzhou governor with a strategic ceiling. Created Jingzhou, Duan Wei (late Han), Rangcheng, Mourning-Framed Military Absorption, and Defensive Local Governance; updated overview, index, Liu Biao, Zhang Ji (late Han), Zhang Xiu, Jia Xu, Kuai Yue, Cai Mao, Nanyang Commandery, Wan County, Xingshiqing Strategic Assessment, Political Survival First, and Li As Political Order. No settled contradiction found; normalized transcript variants 张继/张秀/贾许/段威/壤城/渊城/款越/蔡茂 and treated the apparent "刘建" death detail as a likely arrow/stray-arrow rendering rather than a person page.
+Added source page for 汉纪 1010: Liu Biao's 196 CE handling of Zhang Ji's death at Rangcheng, mourning-framed absorption of the remaining troops, Jia Xu's host-risk move from Duan Wei to Zhang Xiu, and the balanced evaluation of Liu Biao as a capable defensive Jingzhou governor with a strategic ceiling. Created Jingzhou, Duan Wei (late Han), Rangcheng, Mourning-Framed Military Absorption, and Defensive Local Governance; updated overview, index, Liu Biao, Zhang Ji (late Han), Zhang Xiu, Jia Xu, Kuai Yue, Cai Mao, Nanyang Commandery, Wan County, Xingshiqing Strategic Assessment, Political Survival First, and Li As Political Order. No settled contradiction found; normalized transcript variants 张继/张秀/贾许/段威/壤城/渊城/款越/蔡茂 and treated the apparent "刘建" death detail as a likely arrow/stray-arrow rendering rather than a person page.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11527,7 +11527,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？
 
-Added source page for Hanji 1009: Lü Bu attacking Liu Bei after Liu Bei's force grows, Liu Bei fleeing to Cao Cao, Guo Jia's argument that killing a shelter-seeking hero would damage Cao Cao's talent reputation, and Yuan Huan's refusal to write an abusive letter against Liu Bei. Created Yuan Huan (late Han), Threat-Driven Alliance Reversal, Reputation-Constrained Talent Protection, and Moral Disengagement Rationalization; updated overview, index, Liu Bei, Lü Bu, Cao Cao, Guo Jia, Pei County/Xiaopei, Talent Attraction Through Respect, and Dunning-Kruger Effect. No settled contradiction found; kept the episode's masculinity, threat-response, and Dunning-Kruger psychology as source-scoped interpretation.
+Added source page for 汉纪 1009: Lü Bu attacking Liu Bei after Liu Bei's force grows, Liu Bei fleeing to Cao Cao, Guo Jia's argument that killing a shelter-seeking hero would damage Cao Cao's talent reputation, and Yuan Huan's refusal to write an abusive letter against Liu Bei. Created Yuan Huan (late Han), Threat-Driven Alliance Reversal, Reputation-Constrained Talent Protection, and Moral Disengagement Rationalization; updated overview, index, Liu Bei, Lü Bu, Cao Cao, Guo Jia, Pei County/Xiaopei, Talent Attraction Through Respect, and Dunning-Kruger Effect. No settled contradiction found; kept the episode's masculinity, threat-response, and Dunning-Kruger psychology as source-scoped interpretation.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11535,7 +11535,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1008丨如何评价曹操的屯田制？
 
-Added source page for Hanji 1008: Cao Cao's late-Han屯田制 as an answer to war-driven grain collapse, Zao Zhi's proposal, Ren Jun's implementation role around Xudu, and Lü Bu's辕门射戟 mediation between Yuan Shu's Ji Ling and Liu Bei. Created Zao Zhi, Ren Jun, Ji Ling, Xudu, Tuntian System, and Credible Force-Display Deterrence; updated overview, index, Cao Cao, Lü Bu, Liu Bei, Yuan Shu, Pei County/Xiaopei, War Cost Tempo Discipline, and Wartime Agricultural Labor Collapse. No settled contradiction found; kept the source's numerical conversions, archery estimates, and modern deterrence analogy source-scoped.
+Added source page for 汉纪 1008: Cao Cao's late-Han屯田制 as an answer to war-driven grain collapse, Zao Zhi's proposal, Ren Jun's implementation role around Xudu, and Lü Bu's辕门射戟 mediation between Yuan Shu's Ji Ling and Liu Bei. Created Zao Zhi, Ren Jun, Ji Ling, Xudu, Tuntian System, and Credible Force-Display Deterrence; updated overview, index, Cao Cao, Lü Bu, Liu Bei, Yuan Shu, Pei County/Xiaopei, War Cost Tempo Discipline, and Wartime Agricultural Labor Collapse. No settled contradiction found; kept the source's numerical conversions, archery estimates, and modern deterrence analogy source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11547,7 +11547,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？
 
-Added source page for Hanji 1006: Guo Jia's departure from Yuan Shao and recognition of Cao Cao, the Guo Jia/Xun You adviser-style contrast, and Man Chong's execution of Cao Hong's lawbreaking clients as law-over-kinship governance. Created Xun You, Cao Hong, and Rule Over Kinship Power; updated overview, index, Cao Cao, Guo Jia, Yuan Shao, Man Chong, Talent as State Treasure, Talent Attraction Through Respect, Xingshiqing Strategic Assessment, Political Survival First, and Merit-Based Reward and Punishment. No settled contradiction found; Guo Jia's forecast list, Xun You's survival-style portrait, and the legal-political reading of Man Chong are kept source-scoped.
+Added source page for 汉纪 1006: Guo Jia's departure from Yuan Shao and recognition of Cao Cao, the Guo Jia/Xun You adviser-style contrast, and Man Chong's execution of Cao Hong's lawbreaking clients as law-over-kinship governance. Created Xun You, Cao Hong, and Rule Over Kinship Power; updated overview, index, Cao Cao, Guo Jia, Yuan Shao, Man Chong, Talent as State Treasure, Talent Attraction Through Respect, Xingshiqing Strategic Assessment, Political Survival First, and Merit-Based Reward and Punishment. No settled contradiction found; Guo Jia's forecast list, Xun You's survival-style portrait, and the legal-political reading of Man Chong are kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11555,7 +11555,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1005丨孙策注定早逝，是性格决定命运？
 
-Added source page for Hanji 1005: Sun Ce's post-Kuaiji solo-hunting risk, Yu Fan's warning that leaders cannot casually shed protective boundaries, Cao Cao's attack on Yang Feng after the Xu relocation, Yuan Shao's title resentment, and Cao Cao's strategic concession of the great-general title while beginning the Xun Yu/Xun You/Guo Jia adviser channel. Created Yu Fan, Wang Lang (late Han), Leader Personal Exposure, and Strategic Title Concession; updated overview, index, Sun Ce, Kuaiji Commandery, Yang Feng (late Han), Yuan Shao, Cao Cao, Emperor Xian of Han, Xudu, Xun Yu, Xun You, Guo Jia, and Political Survival First. No settled contradiction found; normalized transcript variants "徐玉", "徐悠", and "过家" cautiously as Xun Yu, Xun You, and Guo Jia.
+Added source page for 汉纪 1005: Sun Ce's post-Kuaiji solo-hunting risk, Yu Fan's warning that leaders cannot casually shed protective boundaries, Cao Cao's attack on Yang Feng after the Xu relocation, Yuan Shao's title resentment, and Cao Cao's strategic concession of the great-general title while beginning the Xun Yu/Xun You/Guo Jia adviser channel. Created Yu Fan, Wang Lang (late Han), Leader Personal Exposure, and Strategic Title Concession; updated overview, index, Sun Ce, Kuaiji Commandery, Yang Feng (late Han), Yuan Shao, Cao Cao, Emperor Xian of Han, Xudu, Xun Yu, Xun You, Guo Jia, and Political Survival First. No settled contradiction found; normalized transcript variants "徐玉", "徐悠", and "过家" cautiously as Xun Yu, Xun You, and Guo Jia.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11563,7 +11563,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1004丨曹操迎奉汉献帝，是谁的主意？
 
-Added source page for Hanji 1004: Dong Zhao's advice to move Emperor Xian from ruined Luoyang to Xu, the supply-and-control logic behind Cao Cao's relocation, and Sun Jing's rear-attack plan that lets Sun Ce defeat Wang Lang in Kuaiji. Created Dong Zhao (late Han), Luoyang (late Han), and Sun Jing (late Han); updated overview, index, Cao Cao, Emperor Xian of Han, Xudu, Yang Feng, Han Xian, Sun Ce, Kuaiji Commandery, Wang Lang, Yu Fan, Strategic Capital Relocation, Xingshiqing Strategic Assessment, Political Survival First, Mingqi Legitimacy, and Leader Personal Exposure. No settled contradiction found; Sun Ce's later-death foreshadowing is kept source-scoped.
+Added source page for 汉纪 1004: Dong Zhao's advice to move Emperor Xian from ruined Luoyang to Xu, the supply-and-control logic behind Cao Cao's relocation, and Sun Jing's rear-attack plan that lets Sun Ce defeat Wang Lang in Kuaiji. Created Dong Zhao (late Han), Luoyang (late Han), and Sun Jing (late Han); updated overview, index, Cao Cao, Emperor Xian of Han, Xudu, Yang Feng, Han Xian, Sun Ce, Kuaiji Commandery, Wang Lang, Yu Fan, Strategic Capital Relocation, Xingshiqing Strategic Assessment, Political Survival First, Mingqi Legitimacy, and Leader Personal Exposure. No settled contradiction found; Sun Ce's later-death foreshadowing is kept source-scoped.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -11575,7 +11575,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-23] ingest | 《资治通鉴·汉纪》1002丨袁术称帝后，孙策成为最大赢
 
-Added source page for Hanji 1002: Yuan Shu's impending imperial claim, Sun Ce's warning-and-break, and Xun Yu's advice that Cao Cao should welcome Emperor Xian before another actor captures the legitimacy window. Created Legitimacy Window Seizure; updated overview, index, Sun Ce, Yuan Shu, Cao Cao, Emperor Xian of Han, Xun Yu, Anti-Usurpation Coalition Pressure, Mingqi Legitimacy, Moralized War Pretext, and Xingshiqing Strategic Assessment. No settled contradiction found; preserved the source title's "最大赢" wording as given.
+Added source page for 汉纪 1002: Yuan Shu's impending imperial claim, Sun Ce's warning-and-break, and Xun Yu's advice that Cao Cao should welcome Emperor Xian before another actor captures the legitimacy window. Created Legitimacy Window Seizure; updated overview, index, Sun Ce, Yuan Shu, Cao Cao, Emperor Xian of Han, Xun Yu, Anti-Usurpation Coalition Pressure, Mingqi Legitimacy, Moralized War Pretext, and Xingshiqing Strategic Assessment. No settled contradiction found; preserved the source title's "最大赢" wording as given.
 
 ## [2026-08-23] lint | Wiki health check
 
@@ -12012,7 +12012,7 @@ Added source page for a 芮淇讲透资治通鉴 episode on Zhong Yao releasing 
 
 ## [2026-08-24] ingest | 《资治通鉴·汉纪》968丨揭秘三国最厉害的阳谋
 
-Added source page for a 芮淇讲透资治通鉴 episode on Cao Cao absorbing Qingzhou Yellow Turban surrenderers into Qingzhou Soldiers and farming capacity, Mao Jie's "奉天子以令不臣" plus logistics strategy, and Dong Zhao/Zhong Yao opening the Henei-Chang'an court channel. Created Mao Jie, Qingzhou Soldiers, and defeated population conversion pages; updated Cao Cao, Qingzhou, Dong Zhao, Zhang Yang, Zhong Yao, Henei, Chenliu, and related legitimacy/tuntian/adviser concepts. No settled contradiction found; Mao Jie's屯田 advice is kept as strategic prehistory while Hanji 1008 remains the formal Zao Zhi/Ren Jun implementation account.
+Added source page for a 芮淇讲透资治通鉴 episode on Cao Cao absorbing Qingzhou Yellow Turban surrenderers into Qingzhou Soldiers and farming capacity, Mao Jie's "奉天子以令不臣" plus logistics strategy, and Dong Zhao/Zhong Yao opening the Henei-Chang'an court channel. Created Mao Jie, Qingzhou Soldiers, and defeated population conversion pages; updated Cao Cao, Qingzhou, Dong Zhao, Zhang Yang, Zhong Yao, Henei, Chenliu, and related legitimacy/tuntian/adviser concepts. No settled contradiction found; Mao Jie's屯田 advice is kept as strategic prehistory while 汉纪 1008 remains the formal Zao Zhi/Ren Jun implementation account.
 
 ## [2026-08-24] lint | Wiki health check
 
@@ -12028,11 +12028,11 @@ Added source page for a 声动早咖啡 episode on Tesla-led China vehicle recal
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮
 
-Added source page for Hanji 925: Gongsun Hong's compromise logic, Cao Cao's early Luoyang law-enforcement signal against Jian Shuo's uncle, Yang Ci and Liu Tao's belatedly vindicated Yellow Turban warnings, and Huangfu Song's Changshe fire attack against Bo Cai before Cao Cao joins the pursuit. Created Gongsun Hong, Bo Cai, Changshe Battle, Strategic Compromise as Agency, and Status-Conditioned Risk Taking pages; updated connected Han Wudi, Xiongnu, Cao Cao, Huangfu Song, Zhu Jun, Yellow Turbans, Yang Ci, Liu Tao, Jian Shuo, Yingchuan, Emperor Ling, and military-strategy pages. No settled contradiction found; minor names and place notices remain source-scoped.
+Added source page for 汉纪 925: Gongsun Hong's compromise logic, Cao Cao's early Luoyang law-enforcement signal against Jian Shuo's uncle, Yang Ci and Liu Tao's belatedly vindicated Yellow Turban warnings, and Huangfu Song's Changshe fire attack against Bo Cai before Cao Cao joins the pursuit. Created Gongsun Hong, Bo Cai, Changshe Battle, Strategic Compromise as Agency, and Status-Conditioned Risk Taking pages; updated connected Han Wudi, Xiongnu, Cao Cao, Huangfu Song, Zhu Jun, Yellow Turbans, Yang Ci, Liu Tao, Jian Shuo, Yingchuan, Emperor Ling, and military-strategy pages. No settled contradiction found; minor names and place notices remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》931丨人生艰难处，便是修心时
 
-Added source page for Hanji 931: Wang Yun's Yellow Turban aftermath report against Zhang Rang's retainers, Emperor Ling's non-pursuit of Zhang Rang, Zhang Rang's retaliatory prison case, Wang Yun's refusal of private suicide, rescue by He Jin, Yang Ci, and Yuan Wei, Guo Tai's praise of Wang Yun, and the 185 CE epidemic/fire/famine decline context. Created Yang Ci and Guo Tai pages; updated Wang Yun, Zhang Rang, Emperor Ling, He Jin, Yuan Wei, Luoyang, court-feedback, office-duty, mingqi, moral-reputation, self-cultivation, pandemic, and war-disaster pages. No settled contradiction found; transcript renderings "杨次" and "袁伟" are normalized to canonical late-Han identities.
+Added source page for 汉纪 931: Wang Yun's Yellow Turban aftermath report against Zhang Rang's retainers, Emperor Ling's non-pursuit of Zhang Rang, Zhang Rang's retaliatory prison case, Wang Yun's refusal of private suicide, rescue by He Jin, Yang Ci, and Yuan Wei, Guo Tai's praise of Wang Yun, and the 185 CE epidemic/fire/famine decline context. Created Yang Ci and Guo Tai pages; updated Wang Yun, Zhang Rang, Emperor Ling, He Jin, Yuan Wei, Luoyang, court-feedback, office-duty, mingqi, moral-reputation, self-cultivation, pandemic, and war-disaster pages. No settled contradiction found; transcript renderings "杨次" and "袁伟" are normalized to canonical late-Han identities.
 
 ## [2026-08-25] ingest | Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships
 
@@ -12040,15 +12040,15 @@ Added source page for an All-In interview with Saronic co-founders Dino Mavrouki
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》941丨身处官场，他竟想干翻皇帝
 
-Added source page for Hanji 941: Wang Fen's failed 188 CE plan to seize Emperor Ling, kill the eunuchs, and install Hefei Marquis; Cao Cao and Hua Xin's refusal logic; the red-qi omen that cancels the travel window; Ma Ridi and Dong Zhong's appointments; the West Garden Eight Colonels with Jian Shuo, Yuan Shao, and Cao Cao; renewed Qingzhou/Xuzhou Yellow Turban disorder; and Gai Xun's Pingle Guan remonstrance. Created pages for Wang Fen, Chen Yi, Taoqiu Hong, Hefei Marquis, West Garden Eight Colonels, and Imperial Deposition Coup Risk; updated connected late-Han actor, place, group, and omen pages. No settled contradiction found; motive readings and the Hefei Marquis identity remain source-scoped.
+Added source page for 汉纪 941: Wang Fen's failed 188 CE plan to seize Emperor Ling, kill the eunuchs, and install Hefei Marquis; Cao Cao and Hua Xin's refusal logic; the red-qi omen that cancels the travel window; Ma Ridi and Dong Zhong's appointments; the West Garden Eight Colonels with Jian Shuo, Yuan Shao, and Cao Cao; renewed Qingzhou/Xuzhou Yellow Turban disorder; and Gai Xun's Pingle Guan remonstrance. Created pages for Wang Fen, Chen Yi, Taoqiu Hong, Hefei Marquis, West Garden Eight Colonels, and Imperial Deposition Coup Risk; updated connected late-Han actor, place, group, and omen pages. No settled contradiction found; motive readings and the Hefei Marquis identity remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》948丨董卓废帝：权臣如何改变皇权游戏？
 
-Added source page for Hanji 948: Dong Zhuo's forced deposition of Liu Bian, installation of Emperor Xian, Yuan Shao's armed objection and exit, Lu Zhi's remonstrance, Yuan Wei's coerced seal-transfer role, Empress Dowager He's poisoning, He-family intimidation, prestige appointments for Liu Yu, Yang Biao, and Huang Wan, Party Prohibition rehabilitation, and Niu Fu's Hedong response to the Baibo Army. Created pages for Lu Zhi (late Han), Yuan Wei, Empress Dowager He, He Miao, Wuyang Jun, Chen Fan, Dou Wu, coerced imperial replacement, and Party Prohibition rehabilitation; updated connected Dong Zhuo, Yuan Shao, Cai Yong, Liu Bian, Emperor Xian, He Jin, Liu Yu, Yang Biao, Huang Wan, Niu Fu, Baibo Army, Hedong, Mingqi legitimacy, court office capture, and coerced talent legitimacy pages. No settled contradiction found; Lu Zhi is disambiguated from Lu Zhi / 吕雉, and motive readings around appointments and He-family violence remain source-scoped.
+Added source page for 汉纪 948: Dong Zhuo's forced deposition of Liu Bian, installation of Emperor Xian, Yuan Shao's armed objection and exit, Lu Zhi's remonstrance, Yuan Wei's coerced seal-transfer role, Empress Dowager He's poisoning, He-family intimidation, prestige appointments for Liu Yu, Yang Biao, and Huang Wan, Party Prohibition rehabilitation, and Niu Fu's Hedong response to the Baibo Army. Created pages for Lu Zhi (late Han), Yuan Wei, Empress Dowager He, He Miao, Wuyang Jun, Chen Fan, Dou Wu, coerced imperial replacement, and Party Prohibition rehabilitation; updated connected Dong Zhuo, Yuan Shao, Cai Yong, Liu Bian, Emperor Xian, He Jin, Liu Yu, Yang Biao, Huang Wan, Niu Fu, Baibo Army, Hedong, Mingqi legitimacy, court office capture, and coerced talent legitimacy pages. No settled contradiction found; Lu Zhi is disambiguated from Lu Zhi / 吕雉, and motive readings around appointments and He-family violence remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》949丨历史上的董卓到底多残暴？
 
-Added source page for Hanji 949: Dong Zhuo's Luoyang terror, Southern Xiongnu/Yufuluo succession disorder, Yufuluo's failed Baibo alliance, Dong Zhuo's xiangguo privileges, and the scholar-recruitment branch through Xun Shuang, Chen Ji, Han Rong, and Shentu Pan's refusal. Created Han Rong, Shentu Pan, Emperor Ling of Han, and coerced talent legitimacy pages; updated Dong Zhuo, Luoyang, Southern Xiongnu, Yufuluo, Baibo Army, Xun Shuang, Chen Ji, He Yong, Zhou Bi, Wu Qiong, Zheng Tai, court office capture, and talent attraction through respect. No settled contradiction found; Yufuluo naming is normalized from the source's "於夫罗" and the host's imperial-ambition details remain source-scoped.
+Added source page for 汉纪 949: Dong Zhuo's Luoyang terror, Southern Xiongnu/Yufuluo succession disorder, Yufuluo's failed Baibo alliance, Dong Zhuo's xiangguo privileges, and the scholar-recruitment branch through Xun Shuang, Chen Ji, Han Rong, and Shentu Pan's refusal. Created Han Rong, Shentu Pan, Emperor Ling of Han, and coerced talent legitimacy pages; updated Dong Zhuo, Luoyang, Southern Xiongnu, Yufuluo, Baibo Army, Xun Shuang, Chen Ji, He Yong, Zhou Bi, Wu Qiong, Zheng Tai, court office capture, and talent attraction through respect. No settled contradiction found; Yufuluo naming is normalized from the source's "於夫罗" and the host's imperial-ambition details remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》959丨如果你穿越到三国，该如何存活？
 
@@ -12136,7 +12136,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》958丨揭秘史上最短命的“同仇敌忾”
 
-Added source page for Hanji 958: Gongsun Zan's early victory over the Qingzhou Yellow Turbans, Emperor Xian's failed Liu Yu rescue request through Yuan Shu, the Sun Jian/Zhou Ang rear-base fight, Gongsun Yue's death, Gongsun Fan's Bohai defection, and Liu Bei's first character-and-reputation setup. Created Anti-Dong Zhuo Coalition, Gongsun Yue, Gongsun Fan, Zhou Ang, Dongguang County, and Bohai Commandery pages; updated overview, index, Gongsun Zan, Yuan Shao, Yuan Shu, Sun Jian, Liu Yu, Emperor Xian, Dong Zhuo, Liu Bei, Qingzhou Yellow Turbans, Black Mountain Army, Common-Enemy Alliance, and Interest-Structured Alliance Fragility. No settled contradiction found; Gongsun Yue's death is preserved as a fuse rather than the sole cause of the Yuan Shao-Gongsun Zan rupture.
+Added source page for 汉纪 958: Gongsun Zan's early victory over the Qingzhou Yellow Turbans, Emperor Xian's failed Liu Yu rescue request through Yuan Shu, the Sun Jian/Zhou Ang rear-base fight, Gongsun Yue's death, Gongsun Fan's Bohai defection, and Liu Bei's first character-and-reputation setup. Created Anti-Dong Zhuo Coalition, Gongsun Yue, Gongsun Fan, Zhou Ang, Dongguang County, and Bohai Commandery pages; updated overview, index, Gongsun Zan, Yuan Shao, Yuan Shu, Sun Jian, Liu Yu, Emperor Xian, Dong Zhuo, Liu Bei, Qingzhou Yellow Turbans, Black Mountain Army, Common-Enemy Alliance, and Interest-Structured Alliance Fragility. No settled contradiction found; Gongsun Yue's death is preserved as a fuse rather than the sole cause of the Yuan Shao-Gongsun Zan rupture.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12144,7 +12144,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》957丨他曾雄霸一方，为何懦弱到在厕所自尽？
 
-Added source page for Hanji 957: Han Fu's post-Jizhou collapse through Zhu Han's revenge attack, Zhang Miao refuge, and panic suicide; Yuan Shao's Jizhou adviser expansion; Bao Xin's advice that opens Cao Cao's East Commandery base; Zhang Yang's attachment path; and Dong Zhuo's omen-wrapped killing of Zhang Wen. Created pages for Jizhou, Zhu Han, Zhang Wen, Bai Rao, Wang Gong, Shen Pei, Feng Ji, Xun Chen, post-power safety collapse, and omen-laundered purge; updated connected late-Han actors, places, talent/adviser concepts, survival concepts, and omen-politics concepts. No settled contradiction found; transcript spellings around Han Fu and Zhang Miao are normalized to existing canonical pages while Dong Zhuo's private-motive reading remains source-scoped.
+Added source page for 汉纪 957: Han Fu's post-Jizhou collapse through Zhu Han's revenge attack, Zhang Miao refuge, and panic suicide; Yuan Shao's Jizhou adviser expansion; Bao Xin's advice that opens Cao Cao's East Commandery base; Zhang Yang's attachment path; and Dong Zhuo's omen-wrapped killing of Zhang Wen. Created pages for Jizhou, Zhu Han, Zhang Wen, Bai Rao, Wang Gong, Shen Pei, Feng Ji, Xun Chen, post-power safety collapse, and omen-laundered purge; updated connected late-Han actors, places, talent/adviser concepts, survival concepts, and omen-politics concepts. No settled contradiction found; transcript spellings around Han Fu and Zhang Miao are normalized to existing canonical pages while Dong Zhuo's private-motive reading remains source-scoped.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12152,11 +12152,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》956丨庸人和智者，究竟差距在哪里？
 
-Added source page for Hanji 956: Huangfu Song and Cai Yong's defensive speech under Dong Zhuo, Dong Zhuo's terror administration, Yuan Shao's pressure-and-persuasion seizure of Jizhou, and Han Fu's fear-driven surrender despite troops, grain, and repeated subordinate objections. Created Gao Gan, Xin Ping, Geng Wu, Min Chun, Li Li (Han Fu retainer), Zhao Fu, Cheng Huan, psychological surrender trap, and defensive speech under tyranny pages; updated connected late-Han actors and strategy/feedback/survival concepts. No settled contradiction found; the cognition hierarchy and host-side moral diagnosis of Han Fu remain source-scoped.
+Added source page for 汉纪 956: Huangfu Song and Cai Yong's defensive speech under Dong Zhuo, Dong Zhuo's terror administration, Yuan Shao's pressure-and-persuasion seizure of Jizhou, and Han Fu's fear-driven surrender despite troops, grain, and repeated subordinate objections. Created Gao Gan, Xin Ping, Geng Wu, Min Chun, Li Li (Han Fu retainer), Zhao Fu, Cheng Huan, psychological surrender trap, and defensive speech under tyranny pages; updated connected late-Han actors and strategy/feedback/survival concepts. No settled contradiction found; the cognition hierarchy and host-side moral diagnosis of Han Fu remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》955丨关羽斩华雄其实是伪历史？？？
 
-Added source page for Hanji 955: Sun Jian's 191 CE anti-Dong-Zhuo campaign, Xu Rong's initial victory, Zu Mao's decoy, the Yangren battle, Hua Xiong's death credited to Sun Jian rather than Guan Yu, Yuan Shu's grain cutoff and reversal, Dong Zhuo's failed inducement through Li Jue, Luoyang entry, the Heirloom Imperial Seal discovery, and the Huangfu Song cliffhanger. Created pages for Hua Xiong, Hu Zhen, Xu Rong, Zu Mao, and the Yangren battle; updated connected late-Han actors, coalition, seal, literary-memory, legitimacy, and persuasion pages. No settled contradiction found; the Romance correction and host-side character judgments are kept source-scoped.
+Added source page for 汉纪 955: Sun Jian's 191 CE anti-Dong-Zhuo campaign, Xu Rong's initial victory, Zu Mao's decoy, the Yangren battle, Hua Xiong's death credited to Sun Jian rather than Guan Yu, Yuan Shu's grain cutoff and reversal, Dong Zhuo's failed inducement through Li Jue, Luoyang entry, the Heirloom Imperial Seal discovery, and the Huangfu Song cliffhanger. Created pages for Hua Xiong, Hu Zhen, Xu Rong, Zu Mao, and the Yangren battle; updated connected late-Han actors, coalition, seal, literary-memory, legitimacy, and persuasion pages. No settled contradiction found; the Romance correction and host-side character judgments are kept source-scoped.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12176,7 +12176,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》952丨但行好事，为什么莫问前程？
 
-Added source page for Hanji 952: Dong Zhuo's burning and tomb-looting destruction of Luoyang, Wang Yun's hidden waiting posture after Emperor Xian reaches Chang'an, and Sun Jian's coercive pre-Yuan-Shu rise through Wang Rui, Cao Yin, and Zhang Zi. Created late-Han disambiguation pages for Wang Rui, Cao Yin, and Zhang Zi plus a tomb-desecration political violence concept; updated connected Dong Zhuo, Luoyang, Wang Yun, Sun Jian, Yuan Shu, coalition, and moral-cultivation pages. No settled contradiction found; Zhang Zi is normalized cautiously from the source's "张姿" rendering.
+Added source page for 汉纪 952: Dong Zhuo's burning and tomb-looting destruction of Luoyang, Wang Yun's hidden waiting posture after Emperor Xian reaches Chang'an, and Sun Jian's coercive pre-Yuan-Shu rise through Wang Rui, Cao Yin, and Zhang Zi. Created late-Han disambiguation pages for Wang Rui, Cao Yin, and Zhang Zi plus a tomb-desecration political violence concept; updated connected Dong Zhuo, Luoyang, Wang Yun, Sun Jian, Yuan Shu, coalition, and moral-cultivation pages. No settled contradiction found; Zhang Zi is normalized cautiously from the source's "张姿" rendering.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12184,7 +12184,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》951丨天降横财，究竟是好事还是坏事？
 
-Added source page for Hanji 951: Dong Zhuo's forced Luoyang-to-Chang'an relocation, Yang Biao's court opposition, Huang Wan and Xun Shuang's de-escalation, Wu Qiong and Zhou Bi's execution, Huangfu Song's missed chance to escort Emperor Xian and attack Dong Zhuo, Ge Xun's remonstrance, and soldiers' civilian killing, abduction, confiscation, and forced migration. Created pages for Xun Shuang, Wu Qiong, Zhou Bi, Ge Xun, Liang Yan, and coercive capital relocation; updated connected Dong Zhuo, Yang Biao, Huang Wan, Huangfu Song, Zhu Jun, Emperor Xian, Luoyang, Chang'an, Guanzhong, windfall, strategic relocation, Mingqi legitimacy, defensive speech, and war-disaster pages. No settled contradiction found; transcript variants around Huangfu Song, Zhu Jun, Wu Qiong, and Zhou Bi are normalized cautiously.
+Added source page for 汉纪 951: Dong Zhuo's forced Luoyang-to-Chang'an relocation, Yang Biao's court opposition, Huang Wan and Xun Shuang's de-escalation, Wu Qiong and Zhou Bi's execution, Huangfu Song's missed chance to escort Emperor Xian and attack Dong Zhuo, Ge Xun's remonstrance, and soldiers' civilian killing, abduction, confiscation, and forced migration. Created pages for Xun Shuang, Wu Qiong, Zhou Bi, Ge Xun, Liang Yan, and coercive capital relocation; updated connected Dong Zhuo, Yang Biao, Huang Wan, Huangfu Song, Zhu Jun, Emperor Xian, Luoyang, Chang'an, Guanzhong, windfall, strategic relocation, Mingqi legitimacy, defensive speech, and war-disaster pages. No settled contradiction found; transcript variants around Huangfu Song, Zhu Jun, Wu Qiong, and Zhou Bi are normalized cautiously.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12217,7 +12217,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》944丨想在乱世中存活，先管住嘴
 
-Added source page for Hanji 944: He Jin's first anti-eunuch planning after Emperor Ling's death, Yuan Shao's outside-troop proposal, Empress Dowager He and He-family obstruction through Wuyang Jun and He Miao, and Chen Lin/Cao Cao's warnings about handing initiative away and letting the plan leak. Created Lethal Plan Leakage Risk; updated connected late-Han actors and palace-crisis concepts. No settled contradiction found; motive readings and Chen Lin's office wording remain source-scoped.
+Added source page for 汉纪 944: He Jin's first anti-eunuch planning after Emperor Ling's death, Yuan Shao's outside-troop proposal, Empress Dowager He and He-family obstruction through Wuyang Jun and He Miao, and Chen Lin/Cao Cao's warnings about handing initiative away and letting the plan leak. Created Lethal Plan Leakage Risk; updated connected late-Han actors and palace-crisis concepts. No settled contradiction found; motive readings and Chen Lin's office wording remain source-scoped.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12249,7 +12249,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》940丨得民心者得天下，你信不信？
 
-Added source page for Hanji 940: Fan Ling's brief taiwei appointment, Ma Xiang and Zhao Zhi's Yizhou revolt at Mianzhu, Xi Jian's failed local support, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and seven-commandery flood relief corruption. Created Ma Xiang, Zhao Zhi, Xi Jian, Jia Long, Mianzhu, Ba Commandery, Qianwei Commandery, Yizhou pacification by leniency, and disaster relief corruption pages; updated Fan Ling, Liu Yan, Yizhou, people-based political security, provincial shepherd autonomy, disaster response state capacity, overview, and index. No settled contradiction found; transcript renderings "留言" and "樊麟" were normalized to canonical Liu Yan and Fan Ling.
+Added source page for 汉纪 940: Fan Ling's brief taiwei appointment, Ma Xiang and Zhao Zhi's Yizhou revolt at Mianzhu, Xi Jian's failed local support, Jia Long's counterattack, Liu Yan's lenient Mianzhu pacification, and seven-commandery flood relief corruption. Created Ma Xiang, Zhao Zhi, Xi Jian, Jia Long, Mianzhu, Ba Commandery, Qianwei Commandery, Yizhou pacification by leniency, and disaster relief corruption pages; updated Fan Ling, Liu Yan, Yizhou, people-based political security, provincial shepherd autonomy, disaster response state capacity, overview, and index. No settled contradiction found; transcript renderings "留言" and "樊麟" were normalized to canonical Liu Yan and Fan Ling.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12257,7 +12257,7 @@ Ran lint after health and identity validation passed. Health scanned 14,236 non-
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》939丨东汉乱局的疯狂三国序曲
 
-Added source page for Hanji 939: Emperor Ling's amnesty and comet response, Baibo resurgence under Guo Da, Zhang Yi's killing in Bingzhou, Liu Yan's provincial-shepherd proposal and Yizhou destination through Dong Fu's prophecy, first Yizhou/Yuzhou/Youzhou shepherd appointments, Southern Xiongnu requisition backlash that kills Qiangqu and elevates Yufuluo, and Cao Song's taiwei dismissal. Created pages for Guo Da, Zhang Yi, Bingzhou, Dong Fu, Qiangqu, Xiluo, Tuge Hu, and Frontier Conscription Backfire; updated connected late-Han provincial, Baibo, Southern Xiongnu, Cao Song, omen, prophecy, and provincial autonomy pages. No settled contradiction found; source renderings 郭大 and 郤俭 remain source-scoped.
+Added source page for 汉纪 939: Emperor Ling's amnesty and comet response, Baibo resurgence under Guo Da, Zhang Yi's killing in Bingzhou, Liu Yan's provincial-shepherd proposal and Yizhou destination through Dong Fu's prophecy, first Yizhou/Yuzhou/Youzhou shepherd appointments, Southern Xiongnu requisition backlash that kills Qiangqu and elevates Yufuluo, and Cao Song's taiwei dismissal. Created pages for Guo Da, Zhang Yi, Bingzhou, Dong Fu, Qiangqu, Xiluo, Tuge Hu, and Frontier Conscription Backfire; updated connected late-Han provincial, Baibo, Southern Xiongnu, Cao Song, omen, prophecy, and provincial autonomy pages. No settled contradiction found; source renderings 郭大 and 郤俭 remain source-scoped.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12265,7 +12265,7 @@ Ran lint after health and identity validation passed. Health scanned 14,245 wiki
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》938丨历史的警醒！软弱只会带来屈辱
 
-Added source page for Hanji 938: 187 CE Liangzhou rebellion under Ma Teng, Han Sui, and Wang Guo after Geng Bi's collapse, Zhang Wen's dismissal and court office churn through Cui Lie, Xu Xiang, Ding Gong, and Cao Song, Wuhuan auxiliary supply failure feeding Zhang Chun, Zhang Ju, and Qiu Liju's Youzhou rebellion, Sun Jian's suppression of Qu Xing at Changsha, sale of Guannei marquis status, and Chen Shi's "Liangshang Junzi" moral-authority story. Created Geng Bi, Cui Lie, Ding Gong (late Han), Qu Xing, Chen Shi, and Frontier Auxiliary Supply Failure pages; updated connected late-Han rebel, frontier, office, legitimacy, rank-sale, moral-reputation, and people-support pages. No settled contradiction found; transcript renderings 耿彼, 丁公, 三府, and 肥河县 are handled as source-scoped or normalized only where the role is clear.
+Added source page for 汉纪 938: 187 CE Liangzhou rebellion under Ma Teng, Han Sui, and Wang Guo after Geng Bi's collapse, Zhang Wen's dismissal and court office churn through Cui Lie, Xu Xiang, Ding Gong, and Cao Song, Wuhuan auxiliary supply failure feeding Zhang Chun, Zhang Ju, and Qiu Liju's Youzhou rebellion, Sun Jian's suppression of Qu Xing at Changsha, sale of Guannei marquis status, and Chen Shi's "Liangshang Junzi" moral-authority story. Created Geng Bi, Cui Lie, Ding Gong (late Han), Qu Xing, Chen Shi, and Frontier Auxiliary Supply Failure pages; updated connected late-Han rebel, frontier, office, legitimacy, rank-sale, moral-reputation, and people-support pages. No settled contradiction found; transcript renderings 耿彼, 丁公, 三府, and 肥河县 are handled as source-scoped or normalized only where the role is clear.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12273,11 +12273,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》937丨战神之死，好人总是多灾多难？
 
-Added source page for Hanji 937: Han Sui's absorption of Bian Zhang, Beigong Boyu, and Li Wenhou; Geng Bi's failed Liangzhou campaign after trusting Cheng Qiu and rejecting Fu Xie's timing advice; the Di Dao mutiny; Fu Xie's besieged Hanyang duty choice, Fu Gan/Yang Hui handoff, Huang Yan surrender test, and death. Created Fu Xie, Fu Gan, Cheng Qiu, Yang Hui, Huang Yan, Li Xiangru, Bian Zhang, Beigong Boyu, Li Wenhou, Hanyang Commandery, Di Dao, Office-Duty Martyrdom, and Frontier Command Collapse pages; updated connected late-Han, Liangzhou, people-support, moral-reputation, alliance-fragility, and tempo-discipline pages. No settled contradiction found; Bian Zhang's death variant and Fu Gan's later historian evaluation remain source-scoped.
+Added source page for 汉纪 937: Han Sui's absorption of Bian Zhang, Beigong Boyu, and Li Wenhou; Geng Bi's failed Liangzhou campaign after trusting Cheng Qiu and rejecting Fu Xie's timing advice; the Di Dao mutiny; Fu Xie's besieged Hanyang duty choice, Fu Gan/Yang Hui handoff, Huang Yan surrender test, and death. Created Fu Xie, Fu Gan, Cheng Qiu, Yang Hui, Huang Yan, Li Xiangru, Bian Zhang, Beigong Boyu, Li Wenhou, Hanyang Commandery, Di Dao, Office-Duty Martyrdom, and Frontier Command Collapse pages; updated connected late-Han, Liangzhou, people-support, moral-reputation, alliance-fragility, and tempo-discipline pages. No settled contradiction found; Bian Zhang's death variant and Fu Gan's later historian evaluation remain source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》936丨乱世先杀圣母心，这话对吗？
 
-Added source page for Hanji 936: Dong Zhuo's dam-covered retreat and contemptuous response to Zhang Wen, Sun Jian's military-law recommendation, Emperor Ling's Wanjin/Yutang palace hoarding and devices, Fu Xie's refusal of Zhao Zhong's private patronage, Zhao Ci's rebellion, and Zhang Yan's eunuch-driven prison death. Created Command Discipline Authority plus pages for Zhang Yan (late-Han taiwei), Zhao Ci, Song Dian, and Bi Lan; updated connected late-Han actor, place, frontier, and political-ethics pages. No settled contradiction found; 张延 is disambiguated from 张燕 / Zhang Yan of the Heishan Army.
+Added source page for 汉纪 936: Dong Zhuo's dam-covered retreat and contemptuous response to Zhang Wen, Sun Jian's military-law recommendation, Emperor Ling's Wanjin/Yutang palace hoarding and devices, Fu Xie's refusal of Zhao Zhong's private patronage, Zhao Ci's rebellion, and Zhang Yan's eunuch-driven prison death. Created Command Discipline Authority plus pages for Zhang Yan (late-Han taiwei), Zhao Ci, Song Dian, and Bi Lan; updated connected late-Han actor, place, frontier, and political-ethics pages. No settled contradiction found; 张延 is disambiguated from 张燕 / Zhang Yan of the Heishan Army.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12293,7 +12293,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》933丨为官之道：有所为，有所不为
 
-Added source page for Hanji 933: Zhang Niujiao's deathbed transfer of leadership to Chu Yan/Zhang Yan, Zhang Yan's consolidation of the Black Mountain network and court incorporation through office, Cui Lie's purchased situ appointment through Emperor Ling's wet nurse Madam Cheng, and Cui Jun's reputational "stink" judgment. Created Zhang Niujiao, Cui Jun, Madam Cheng (late Han), Office-Based Rebel Incorporation, and Office-Sale Legitimacy Damage pages; updated connected Zhang Yan, Heishan Army, Emperor Ling, Cui Lie, Yuan Wei, court-office, and moral-reputation pages. No settled contradiction found; ChengFurenLateHan is disambiguated from ChengFuren, Su Shi's mother.
+Added source page for 汉纪 933: Zhang Niujiao's deathbed transfer of leadership to Chu Yan/Zhang Yan, Zhang Yan's consolidation of the Black Mountain network and court incorporation through office, Cui Lie's purchased situ appointment through Emperor Ling's wet nurse Madam Cheng, and Cui Jun's reputational "stink" judgment. Created Zhang Niujiao, Cui Jun, Madam Cheng (late Han), Office-Based Rebel Incorporation, and Office-Sale Legitimacy Damage pages; updated connected Zhang Yan, Heishan Army, Emperor Ling, Cui Lie, Yuan Wei, court-office, and moral-reputation pages. No settled contradiction found; ChengFurenLateHan is disambiguated from ChengFuren, Su Shi's mother.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12301,7 +12301,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》935丨人活一口气，难成的是自己
 
-Added source page for Hanji 935: Liu Tao's warning about Yellow Turban aftermath and western rebellion pressure, eunuch accusation filtering, his prison death, Zhang Wen's 185 CE western campaign, Dong Zhuo's counterattack context, Sun Jian's ignored advice to cut the rebels' grain road, and Zhou Shen's retreat after the Han supply line is cut. Created pages for Liu Tao and Zhou Shen; updated related late-Han actors plus court-feedback, palace-access, death-defying remonstrance, and battlefield logistics concepts. No settled contradiction found; Han Sui and Bian Zhang's campaign role is preserved as an earlier stage before Hanji 937's later consolidation branch.
+Added source page for 汉纪 935: Liu Tao's warning about Yellow Turban aftermath and western rebellion pressure, eunuch accusation filtering, his prison death, Zhang Wen's 185 CE western campaign, Dong Zhuo's counterattack context, Sun Jian's ignored advice to cut the rebels' grain road, and Zhou Shen's retreat after the Han supply line is cut. Created pages for Liu Tao and Zhou Shen; updated related late-Han actors plus court-feedback, palace-access, death-defying remonstrance, and battlefield logistics concepts. No settled contradiction found; Han Sui and Bian Zhang's campaign role is preserved as an earlier stage before 汉纪 937's later consolidation branch.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12309,11 +12309,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》934丨杀一人则天下安，你杀不杀？
 
-Added source page for Hanji 934: Cui Zhouping as the Romance lead-in, Beigong Boyu's pressure on Sanfu, Cui Lie's proposal to abandon Liangzhou, Fu Xie's "斩司徒，天下乃安" rebuttal and western-shield argument, and Huangfu Song's punishment after Zhang Rang and Zhao Zhong turn refused bribery and anti-corruption memorials into slander. Created Cui Zhouping, Liangzhou (late Han), and Strategic Frontier Abandonment pages; updated related late-Han court, eunuch-access, feedback-collapse, frontier, and Huangfu Song pages. No settled contradiction found; Hexi commandery details and the literary lead-in are kept source-scoped.
+Added source page for 汉纪 934: Cui Zhouping as the Romance lead-in, Beigong Boyu's pressure on Sanfu, Cui Lie's proposal to abandon Liangzhou, Fu Xie's "斩司徒，天下乃安" rebuttal and western-shield argument, and Huangfu Song's punishment after Zhang Rang and Zhao Zhong turn refused bribery and anti-corruption memorials into slander. Created Cui Zhouping, Liangzhou (late Han), and Strategic Frontier Abandonment pages; updated related late-Han court, eunuch-access, feedback-collapse, frontier, and Huangfu Song pages. No settled contradiction found; Hexi commandery details and the literary lead-in are kept source-scoped.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》932丨为什么人越好，越难当大官？
 
-Added source page for Hanji 932: Lu Kang's remonstrance against Emperor Ling's palace-construction and bronze-statue tax, eunuch-mediated material inspection and office-entry fee extraction, Sima Zhi's refusal to squeeze the people and death memorial at Mengjin, and the post-Yellow-Turban bandit-list background before Zhang Niujiao and Zhang Yan's fuller Hanji 933 branch. Created pages for Sima Zhi, Julu Commandery (late Han), and Palace Construction Fee Extraction; updated Lu Kang, Liu Dai, Emperor Ling, Zhang Rang, Zhao Zhong, Zhang Jiao, Zhang Niujiao, Zhang Yan, Heishan Army, Henei Commandery, office-sale, office-capture, untimely-extravagance, feedback-collapse, and death-defying remonstrance pages. No settled contradiction found; Liu Dai's short defender role is kept on the existing late-Han route unless later sources require disambiguation.
+Added source page for 汉纪 932: Lu Kang's remonstrance against Emperor Ling's palace-construction and bronze-statue tax, eunuch-mediated material inspection and office-entry fee extraction, Sima Zhi's refusal to squeeze the people and death memorial at Mengjin, and the post-Yellow-Turban bandit-list background before Zhang Niujiao and Zhang Yan's fuller 汉纪 933 branch. Created pages for Sima Zhi, Julu Commandery (late Han), and Palace Construction Fee Extraction; updated Lu Kang, Liu Dai, Emperor Ling, Zhang Rang, Zhao Zhong, Zhang Jiao, Zhang Niujiao, Zhang Yan, Heishan Army, Henei Commandery, office-sale, office-capture, untimely-extravagance, feedback-collapse, and death-defying remonstrance pages. No settled contradiction found; Liu Dai's short defender role is kept on the existing late-Han route unless later sources require disambiguation.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12325,7 +12325,7 @@ Ran health, identity validation, and lint. Health passed across 14,304 wiki page
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》926丨真正的强者，都懂得“造势”
 
-Added source page for Hanji 926: Cao Cao's early reputation-making through He Yong, Qiao Xuan, Xu Shao's 月旦品, the "治世之能臣，乱世之奸雄" label, and anti-eunuch signaling from a Cao family tied to Cao Teng. Created Qiao Xuan, Cao Teng, and Elite-Endorsement Reputation Making pages; updated connected Cao Cao, He Yong, Xu Shao, Cao Song, Jian Shuo, Status-Filtered Talent Misrecognition, and Charismatic Political Performance pages. No settled contradiction found; the Cao Shen descent claim remains source-level uncertainty, while Xu Jing, Jian Shuo's uncle, Cao Cao's mother, and Cao Cao's unnamed uncle remain source-scoped.
+Added source page for 汉纪 926: Cao Cao's early reputation-making through He Yong, Qiao Xuan, Xu Shao's 月旦品, the "治世之能臣，乱世之奸雄" label, and anti-eunuch signaling from a Cao family tied to Cao Teng. Created Qiao Xuan, Cao Teng, and Elite-Endorsement Reputation Making pages; updated connected Cao Cao, He Yong, Xu Shao, Cao Song, Jian Shuo, Status-Filtered Talent Misrecognition, and Charismatic Political Performance pages. No settled contradiction found; the Cao Shen descent claim remains source-level uncertainty, while Xu Jing, Jian Shuo's uncle, Cao Cao's mother, and Cao Cao's unnamed uncle remain source-scoped.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12333,7 +12333,7 @@ Ran health, identity validation, and lint. Health passed across 14,318 wiki page
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》929丨对事不对人，你信了吗？
 
-Added source page for Hanji 929: Zhang Xiu's Ba Commandery Five-Pecks-style rising, Huangfu Song's 184 CE Yellow Turban victories over Zhang Liang and Zhang Bao, Li Xie's punished-but-vindicated warning against restoring Anping Wang Liu Xu, and Gai Xun's public-duty separation from private resentment around Su Zhenghe and Zuo Chang. Created Zhang Liang (Yellow Turban), Zhang Bao (Yellow Turban), Liu Xu, Li Xie, Li Gu, Liu Suan, Su Zhenghe, Liang Hu, Zuo Chang, Xin Zeng, Ling Zheng, Chen Yi (Jincheng), and Public Duty Over Private Grievance pages; updated connected Huangfu Song, Yellow Turban, Zhang Jiao, Zhang Xiu, Wudoumi Dao, Ba Commandery, Dong Zhuo, Gai Xun, Bian Zhang, Han Sui, Beigong Boyu, Li Wenhou, Xianling Qiang, commander-replacement, and shared-hardship morale pages. No settled contradiction found; Zhang Liang, Zhang Bao, and Chen Yi were disambiguated from same-romanization existing pages, while Bo Si, Kong Chang, Cangting, Guangzong, and Quyang remain source-scoped.
+Added source page for 汉纪 929: Zhang Xiu's Ba Commandery Five-Pecks-style rising, Huangfu Song's 184 CE Yellow Turban victories over Zhang Liang and Zhang Bao, Li Xie's punished-but-vindicated warning against restoring Anping Wang Liu Xu, and Gai Xun's public-duty separation from private resentment around Su Zhenghe and Zuo Chang. Created Zhang Liang (Yellow Turban), Zhang Bao (Yellow Turban), Liu Xu, Li Xie, Li Gu, Liu Suan, Su Zhenghe, Liang Hu, Zuo Chang, Xin Zeng, Ling Zheng, Chen Yi (Jincheng), and Public Duty Over Private Grievance pages; updated connected Huangfu Song, Yellow Turban, Zhang Jiao, Zhang Xiu, Wudoumi Dao, Ba Commandery, Dong Zhuo, Gai Xun, Bian Zhang, Han Sui, Beigong Boyu, Li Wenhou, Xianling Qiang, commander-replacement, and shared-hardship morale pages. No settled contradiction found; Zhang Liang, Zhang Bao, and Chen Yi were disambiguated from same-romanization existing pages, while Bo Si, Kong Chang, Cangting, Guangzong, and Quyang remain source-scoped.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12361,11 +12361,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》923 plus丨乱世风云起：芮淇揭秘史上最真实的三国
 
-Added source page for Hanji 923 plus: a short prologue framing the coming Three Kingdoms arc as source-grounded struggle strategy rather than only Romance memory. Created Three Kingdoms Period and Three Kingdoms Struggle Strategy Reading pages; updated Romance of the Three Kingdoms, Journey to the West, Water Margin, Dream of the Red Chamber, Classic Reading Complexity, and Fiction As Historical Evidence pages. No settled contradiction found; Zhao Zilong and Sima Yi remain source-scoped teaser names rather than new canonical pages.
+Added source page for 汉纪 923 plus: a short prologue framing the coming Three Kingdoms arc as source-grounded struggle strategy rather than only Romance memory. Created Three Kingdoms Period and Three Kingdoms Struggle Strategy Reading pages; updated Romance of the Three Kingdoms, Journey to the West, Water Margin, Dream of the Red Chamber, Classic Reading Complexity, and Fiction As Historical Evidence pages. No settled contradiction found; Zhao Zilong and Sima Yi remain source-scoped teaser names rather than new canonical pages.
 
 ## [2026-08-25] ingest | 《资治通鉴·汉纪》924丨1%的错误=100%的失败
 
-Added source page for Hanji 924: the opening 184 CE Yellow Turban emergency, Emperor Ling's capital-defense response, Huangfu Song and Lyu Qiang's party-ban amnesty and military-funding advice, and the Ten Attendants' continued control over accusation channels. Created pages: `wiki/sources/zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut.md`, `wiki/entities/FengXuLateHan.md`, `wiki/entities/LyuQiangLateHan.md`, `wiki/entities/XiaYunLateHan.md`, `wiki/entities/XiangXuLateHan.md`, `wiki/entities/XuFengLateHan.md`, `wiki/entities/ZhangJunLateHan.md`, `wiki/concepts/PartyBanCrisisAmnesty.md`, and `wiki/concepts/SystemicErrorAmplification.md`. No settled contradiction found; Xia Yun's source spelling and the episode's "1%" framing remain source-scoped.
+Added source page for 汉纪 924: the opening 184 CE Yellow Turban emergency, Emperor Ling's capital-defense response, Huangfu Song and Lyu Qiang's party-ban amnesty and military-funding advice, and the Ten Attendants' continued control over accusation channels. Created pages: `wiki/sources/zizhi-tongjian-hanji-924-1-de-cuowu-100-de-shibai-lmeo7vufm6ib5lni6p49rponazut.md`, `wiki/entities/FengXuLateHan.md`, `wiki/entities/LyuQiangLateHan.md`, `wiki/entities/XiaYunLateHan.md`, `wiki/entities/XiangXuLateHan.md`, `wiki/entities/XuFengLateHan.md`, `wiki/entities/ZhangJunLateHan.md`, `wiki/concepts/PartyBanCrisisAmnesty.md`, and `wiki/concepts/SystemicErrorAmplification.md`. No settled contradiction found; Xia Yun's source spelling and the episode's "1%" framing remain source-scoped.
 
 ## [2026-08-25] lint | Wiki health check
 
@@ -12429,11 +12429,11 @@ Added source page for Fuyou Tiandi episode 20: Li Ji on Northeast Catholic missi
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1038丨三十六计之调虎离山：孙策智取皖城
 
-Added source page for Hanji 1038: Sun Ce's Lujiang lure against Liu Xun, Liu Ye's ignored warning, the capture of Wan City with Zhou Yu, Liu Xun's defeat and flight to Cao Cao, the follow-on Huang Zu attack, and the Yuzhang persuasion setup. Created Liu Ye, Wan City (Lujiang), and War as Violent Redistribution; migrated Liu Xun, Zhou Yu, Huang Zu, Lujiang Commandery, and Lure Enemy Out of Position to synthesis-v1; updated Sun Ce, index, and overview. No settled contradiction found; 刘业 is normalized to 刘晔 / Liu Ye and 皖城 is disambiguated from 宛县 / Wan County.
+Added source page for 汉纪 1038: Sun Ce's Lujiang lure against Liu Xun, Liu Ye's ignored warning, the capture of Wan City with Zhou Yu, Liu Xun's defeat and flight to Cao Cao, the follow-on Huang Zu attack, and the Yuzhang persuasion setup. Created Liu Ye, Wan City (Lujiang), and War as Violent Redistribution; migrated Liu Xun, Zhou Yu, Huang Zu, Lujiang Commandery, and Lure Enemy Out of Position to synthesis-v1; updated Sun Ce, index, and overview. No settled contradiction found; 刘业 is normalized to 刘晔 / Liu Ye and 皖城 is disambiguated from 宛县 / Wan County.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1039丨东吴第一嘴炮？且看他如何劝降华歆
 
-Added source page for Hanji 1039: Yu Fan's force-backed persuasion of Hua Xin, Hua Xin's contested surrender of Yuzhang, Sun Ce's Luling split and Sun-family appointments, Lady Wu's rescue of Wei Teng, Xu Zhao's selective-leniency case, Yan Baihu's flight, and Xu Chu's prevention of Xu Ta's insider plot against Cao Cao. Created Sun Fu, Sun Sheng, Wei Teng, Xu Zhao, Xu Ta, Force-Backed Surrender Persuasion, and Surrender as Civilian-Protection Tradeoff; updated related Sun Ce, Hua Xin, Yu Fan, Lady Wu, Yuzhang, Luling, Sun Ben, Tong Zhi, Yan Baihu, Xu Chu, and Personal Guard Attack Surface pages. No settled contradiction found; the transcript's 于藩 form is normalized to Yu Fan / 虞翻 and Hua Xin's motive remains source-scoped.
+Added source page for 汉纪 1039: Yu Fan's force-backed persuasion of Hua Xin, Hua Xin's contested surrender of Yuzhang, Sun Ce's Luling split and Sun-family appointments, Lady Wu's rescue of Wei Teng, Xu Zhao's selective-leniency case, Yan Baihu's flight, and Xu Chu's prevention of Xu Ta's insider plot against Cao Cao. Created Sun Fu, Sun Sheng, Wei Teng, Xu Zhao, Xu Ta, Force-Backed Surrender Persuasion, and Surrender as Civilian-Protection Tradeoff; updated related Sun Ce, Hua Xin, Yu Fan, Lady Wu, Yuzhang, Luling, Sun Ben, Tong Zhi, Yan Baihu, Xu Chu, and Personal Guard Attack Surface pages. No settled contradiction found; the transcript's 于藩 form is normalized to Yu Fan / 虞翻 and Hua Xin's motive remains source-scoped.
 
 ## [2026-08-26] ingest | 腾讯、阿里、字节争夺打工人，互联网大厂为何集体加码 AI 办公？
 
@@ -12445,43 +12445,43 @@ Added Talk三联 source page for the second “人在中流” AI discussion: AI
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1031丨公孙瓒之死：从边疆战神到困兽自焚
 
-Added source page for Hanji 1031: Gongsun Zan's 199 CE Yijing endgame, Zhang Yan and Gongsun Xu's attempted relief, Yuan Shao's intercepted fire-signal trap and tunnel siege, Gongsun Zan's family killing and death, Guan Jing's loyalist death, Tian Kai's final defeat/death, and the source-scoped self-knowledge frame. Updated Gongsun Zan, Yijing Fortress, Gongsun Xu (Late Han), Guan Jing (Late Han), Tian Kai (Late Han), Rescue Reciprocity Command Trust, and Fortress Security Illusion. No settled contradiction found; self-knowledge and Dunning-Kruger framing is preserved as episode interpretation.
+Added source page for 汉纪 1031: Gongsun Zan's 199 CE Yijing endgame, Zhang Yan and Gongsun Xu's attempted relief, Yuan Shao's intercepted fire-signal trap and tunnel siege, Gongsun Zan's family killing and death, Guan Jing's loyalist death, Tian Kai's final defeat/death, and the source-scoped self-knowledge frame. Updated Gongsun Zan, Yijing Fortress, Gongsun Xu (Late Han), Guan Jing (Late Han), Tian Kai (Late Han), Rescue Reciprocity Command Trust, and Fortress Security Illusion. No settled contradiction found; self-knowledge and Dunning-Kruger framing is preserved as episode interpretation.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》896丨假如乱世降临，你该如何自保？
 
-Added source page for Hanji 896: 169 CE party-prohibition self-protection through Chen Shi's courtesy to Zhang Rang, He Yong and young Yuan Shao's rescue work, Yuan Hong's domestic reclusion, Shentu Pan's early withdrawal, and Sima Guang's caution against unsupported public confrontation. Created Yuan Hong and Crisis Withdrawal Self-Protection; migrated Chen Shi, He Yong, and Shentu Pan to synthesis-v1. No settled contradiction found; Yuan-family genealogy, Fan Pang, Guo Xi, Geng Lin, Baego, and other minor notices remain source-scoped.
+Added source page for 汉纪 896: 169 CE party-prohibition self-protection through Chen Shi's courtesy to Zhang Rang, He Yong and young Yuan Shao's rescue work, Yuan Hong's domestic reclusion, Shentu Pan's early withdrawal, and Sima Guang's caution against unsupported public confrontation. Created Yuan Hong and Crisis Withdrawal Self-Protection; migrated Chen Shi, He Yong, and Shentu Pan to synthesis-v1. No settled contradiction found; Yuan-family genealogy, Fan Pang, Guo Xi, Geng Lin, Baego, and other minor notices remain source-scoped.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》898丨认贼作父？可怜之人能有多荒唐？
 
-Added source page for Hanji 898: Emperor Ling's "father/mother" dependence on Zhang Rang and Zhao Zhong, 171 CE guanli and amnesty with party figures still excluded, disaster/epidemic and late-Han population-collapse framing, Three Excellencies office churn, Dong Meng's pro-Dou intervention and death after Cao Jie/Wang Fu retaliation, and Xianbei pressure in Bingzhou. Created Dong Meng and Late-Han Population Collapse; updated linked late-Han entity and concept pages. No settled contradiction found; population arithmetic, disease attribution, and minor office-name variants remain source-scoped.
+Added source page for 汉纪 898: Emperor Ling's "father/mother" dependence on Zhang Rang and Zhao Zhong, 171 CE guanli and amnesty with party figures still excluded, disaster/epidemic and late-Han population-collapse framing, Three Excellencies office churn, Dong Meng's pro-Dou intervention and death after Cao Jie/Wang Fu retaliation, and Xianbei pressure in Bingzhou. Created Dong Meng and Late-Han Population Collapse; updated linked late-Han entity and concept pages. No settled contradiction found; population arithmetic, disease attribution, and minor office-name variants remain source-scoped.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》901 丨急性子的人会是什么下场？
 
-Added source page for Hanji 901: acute-temper emotion control, Kafka's The Metamorphosis self-importance example, and the 172 CE debate over Empress Dowager Dou's burial with Emperor Huan. Created Li Xian (taiwei), Empress Dowager Dou Miao, Emperor Huan of Han, Feng Guiren, Kafka's The Metamorphosis, and Imperial Burial Legitimacy pages; updated linked late-Han eunuch, minister, ritual-order, posthumous-status, and emotion-regulation pages. No settled contradiction found; 李贤 is disambiguated from 李暹, Kafka's 《变形记》 is disambiguated from Ovid's 《变形记》, 陈求 is normalized to 陈球, and the 2025/2026 source date cue remains source-scoped.
+Added source page for 汉纪 901: acute-temper emotion control, Kafka's The Metamorphosis self-importance example, and the 172 CE debate over Empress Dowager Dou's burial with Emperor Huan. Created Li Xian (taiwei), Empress Dowager Dou Miao, Emperor Huan of Han, Feng Guiren, Kafka's The Metamorphosis, and Imperial Burial Legitimacy pages; updated linked late-Han eunuch, minister, ritual-order, posthumous-status, and emotion-regulation pages. No settled contradiction found; 李贤 is disambiguated from 李暹, Kafka's 《变形记》 is disambiguated from Ovid's 《变形记》, 陈求 is normalized to 陈球, and the 2025/2026 source date cue remains source-scoped.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》902丨控制情绪是人生必修课
 
-Added source page for Hanji 902: strategic emotion concealment, the 172 CE Zhuque Gate accusation against Cao Jie and Wang Fu, Liu Meng's restrained investigation and punishment, Duan Jiong's broad crackdown, Zhang Huan's humbled survival, and Su Buwei's first failed revenge attack on Li Hao. Created Liu Meng, Zhang Huan, Wang Yu (late Han), Su Qian, Strategic Emotion Concealment, and Anonymous Remonstrance Suppression pages; updated linked late-Han actor, court-feedback, survival, and revenge-cycle pages. No settled contradiction found; 段颎/段炯 and 李浩 are normalized to existing canonical routes, while 王寓 is disambiguated from Wang Yu / 汪玉.
+Added source page for 汉纪 902: strategic emotion concealment, the 172 CE Zhuque Gate accusation against Cao Jie and Wang Fu, Liu Meng's restrained investigation and punishment, Duan Jiong's broad crackdown, Zhang Huan's humbled survival, and Su Buwei's first failed revenge attack on Li Hao. Created Liu Meng, Zhang Huan, Wang Yu (late Han), Su Qian, Strategic Emotion Concealment, and Anonymous Remonstrance Suppression pages; updated linked late-Han actor, court-feedback, survival, and revenge-cycle pages. No settled contradiction found; 段颎/段炯 and 李浩 are normalized to existing canonical routes, while 王寓 is disambiguated from Wang Yu / 汪玉.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》903丨为什么劝你冤冤相报何时了？
 
-Added source page for Hanji 903: Su Buwei's revenge against Li Hao, tomb desecration and corpse display, Duan Jiong's extermination of Su's household, Liu Kui's restored Bohai kingship through Wang Fu's unpaid access brokerage, forged treason evidence through Zheng Sa, Dong Teng, and Lian Zhong, Xu Sheng's Kuaiji uprising, Xianbei pressure, Southern Xiongnu succession, and Yuan Wei's situ appointment. Created Su Buwei, Li Hao, Liu Kui, Bohai Kingdom, Zheng Sa, Dong Teng, and Lian Zhong; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants for Duan Jiong, Wang Fu, Yuan Wei, and Xu Sheng are normalized to existing routes, while Liu Kui's source spelling is preserved and Zhang Xian is left source-scoped to avoid collision with the existing Zhang Xian route.
+Added source page for 汉纪 903: Su Buwei's revenge against Li Hao, tomb desecration and corpse display, Duan Jiong's extermination of Su's household, Liu Kui's restored Bohai kingship through Wang Fu's unpaid access brokerage, forged treason evidence through Zheng Sa, Dong Teng, and Lian Zhong, Xu Sheng's Kuaiji uprising, Xianbei pressure, Southern Xiongnu succession, and Yuan Wei's situ appointment. Created Su Buwei, Li Hao, Liu Kui, Bohai Kingdom, Zheng Sa, Dong Teng, and Lian Zhong; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants for Duan Jiong, Wang Fu, Yuan Wei, and Xu Sheng are normalized to existing routes, while Liu Kui's source spelling is preserved and Zhang Xian is left source-scoped to avoid collision with the existing Zhang Xian route.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》909丨2025如何养成一身贵气？
 
-Added source page for Hanji 909: "贵气" and self-command framing, Cai Yong's rejected warning against the 177 CE deep Xianbei expedition, Wang Fu's sponsorship of Tian Yan, Xia Yu/Tian Yan/Zang Min's three-route defeat by Tanshihuai, and eclipse/earthquake-linked office accountability afterward. Created Xia Yu, Tian Yan (late Han), Zang Min, Liu Kuan, Meng Yu, and Overextended Frontier Expedition; updated Cai Yong, Emperor Ling, Wang Fu, Xianbei, Tanshihuai, war-cost and strategic-assessment concepts, omen concepts, Ruiqi show page, index, and overview. No settled contradiction found; the episode's "last large-scale external expedition" claim remains source-scoped.
+Added source page for 汉纪 909: "贵气" and self-command framing, Cai Yong's rejected warning against the 177 CE deep Xianbei expedition, Wang Fu's sponsorship of Tian Yan, Xia Yu/Tian Yan/Zang Min's three-route defeat by Tanshihuai, and eclipse/earthquake-linked office accountability afterward. Created Xia Yu, Tian Yan (late Han), Zang Min, Liu Kuan, Meng Yu, and Overextended Frontier Expedition; updated Cai Yong, Emperor Ling, Wang Fu, Xianbei, Tanshihuai, war-cost and strategic-assessment concepts, omen concepts, Ruiqi show page, index, and overview. No settled contradiction found; the episode's "last large-scale external expedition" claim remains source-scoped.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》910丨社会生存，我劝你多点城府
 
-Added source page for Hanji 910: guarded-disclosure and social-survival framing, Zhao Bao's 177 CE family-hostage dilemma against Xianbei and Tanshihuai, the 178 CE Wuhu Man outbreak and omen-office setting, and Hongdu Menxue as Emperor Ling's counterweight to Taixue and great-clan selection power. Created Zhao Bao (Late Han); updated Xianbei, Tanshihuai, Wuhu Man, Emperor Ling, Ruiqi Jiangtou Zizhi Tongjian, Hongdu Menxue, Taixue, Official Selection Channel Competition, Court Office Capture, Loyalty-Collateral Dilemma, Communication Boundary Setting, index, and overview. No settled contradiction found; 赵包/赵苞 is kept distinct from Warring States Zhao Bao, and Hanji 910's Wuhu Man outbreak is treated as a chronology extension before Hanji 920's suppression branch.
+Added source page for 汉纪 910: guarded-disclosure and social-survival framing, Zhao Bao's 177 CE family-hostage dilemma against Xianbei and Tanshihuai, the 178 CE Wuhu Man outbreak and omen-office setting, and Hongdu Menxue as Emperor Ling's counterweight to Taixue and great-clan selection power. Created Zhao Bao (Late Han); updated Xianbei, Tanshihuai, Wuhu Man, Emperor Ling, Ruiqi Jiangtou Zizhi Tongjian, Hongdu Menxue, Taixue, Official Selection Channel Competition, Court Office Capture, Loyalty-Collateral Dilemma, Communication Boundary Setting, index, and overview. No settled contradiction found; 赵包/赵苞 is kept distinct from Warring States Zhao Bao, and 汉纪 910's Wuhu Man outbreak is treated as a chronology extension before 汉纪 920's suppression branch.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》911丨古代公务员也能包分配？
 
-Added source page for Hanji 911: Hongdu Menxue curriculum and fast-track appointment conflict with Taixue, official-selection history as imperial/elite power allocation, Lingdi reinterpretation, Shi Yiguan and Liang Hu calligraphy anecdotes, Zhang Hao's eunuch-linked taiwei appointment and gold-seal omen, earthquake/hen omen, Chen Dan removal, and Lai Yan appointment before Hanji 912. Created Taixue, Official Selection Channel Competition, Shi Yiguan, Zhang Hao, and Lai Yan; updated Hongdu Menxue, Emperor Ling, Liang Hu, Chen Dan, Court Office Capture, Auspicious Omen Politics, Natural Disaster Political Omen, Celestial Omen Political Responsibility, the Ruiqi show page, index, and overview. No settled contradiction found; 张昊 is normalized to 张颢 while Hongdu count/first-specialized-university, posthumous-name, and omen-manipulation readings remain source-scoped.
+Added source page for 汉纪 911: Hongdu Menxue curriculum and fast-track appointment conflict with Taixue, official-selection history as imperial/elite power allocation, Lingdi reinterpretation, Shi Yiguan and Liang Hu calligraphy anecdotes, Zhang Hao's eunuch-linked taiwei appointment and gold-seal omen, earthquake/hen omen, Chen Dan removal, and Lai Yan appointment before 汉纪 912. Created Taixue, Official Selection Channel Competition, Shi Yiguan, Zhang Hao, and Lai Yan; updated Hongdu Menxue, Emperor Ling, Liang Hu, Chen Dan, Court Office Capture, Auspicious Omen Politics, Natural Disaster Political Omen, Celestial Omen Political Responsibility, the Ruiqi show page, index, and overview. No settled contradiction found; 张昊 is normalized to 张颢 while Hongdu count/first-specialized-university, posthumous-name, and omen-manipulation readings remain source-scoped.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》912丨秘密到底该不该说出口？
 
-Added source page for Hanji 912: Han Fei secrecy framing, advice-risk interpretation, 178 CE palace omens, Yang Ci and Cai Yong's remonstrance against harem/eunuch, Hongdu, appointment, and extravagance disorder, Cao Jie's leak of Cai Yong's confidential memorial, and the retaliation setup through Cheng Huang, Liu He, Yang Qiu, and Cai Zhi. Created Confidential Remonstrance Leakage; updated linked late-Han entity and concept pages, index, overview, and show context. No settled contradiction found; the Yang Qiu-Cheng Huang relationship wording and transcript variants 蔡庸, 杨次, 刘河, and 杨球 are kept source-scoped or normalized to existing canonical pages.
+Added source page for 汉纪 912: Han Fei secrecy framing, advice-risk interpretation, 178 CE palace omens, Yang Ci and Cai Yong's remonstrance against harem/eunuch, Hongdu, appointment, and extravagance disorder, Cao Jie's leak of Cai Yong's confidential memorial, and the retaliation setup through Cheng Huang, Liu He, Yang Qiu, and Cai Zhi. Created Confidential Remonstrance Leakage; updated linked late-Han entity and concept pages, index, overview, and show context. No settled contradiction found; the Yang Qiu-Cheng Huang relationship wording and transcript variants 蔡庸, 杨次, 刘河, and 杨球 are kept source-scoped or normalized to existing canonical pages.
 
 ## [2026-08-26] ingest | Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores
 
@@ -12489,15 +12489,15 @@ Added source page for the All-In episode on AI/chip-stock leverage risk, Leopold
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？
 
-Added source page for Hanji 918: adversity silence discipline, the 179 CE Liu He-Chen Qiu-Liu Na-Yang Qiu anti-Cao Jie plot and household leak through Cheng Huang, Bandun Man/Yizhou/Xianbei pressure, and the early He-family rise through Empress He, He Jin, Liu Bian, and He Zhen. Created disambiguated pages for Liu He the situ, Liu Tiao, Chen Qiu, Liu Na, Yang Qiu, Cheng Huang, He Zhen, Wang Fu, and Adversity Silence Discipline; updated linked late-Han entity and concept pages. No settled contradiction found; transcript Liu He/Liu Tiao ASR variants are normalized to 刘郃/刘鯈 and kept distinct from Liu Yu's son Liu He.
+Added source page for 汉纪 918: adversity silence discipline, the 179 CE Liu He-Chen Qiu-Liu Na-Yang Qiu anti-Cao Jie plot and household leak through Cheng Huang, Bandun Man/Yizhou/Xianbei pressure, and the early He-family rise through Empress He, He Jin, Liu Bian, and He Zhen. Created disambiguated pages for Liu He the situ, Liu Tiao, Chen Qiu, Liu Na, Yang Qiu, Cheng Huang, He Zhen, Wang Fu, and Adversity Silence Discipline; updated linked late-Han entity and concept pages. No settled contradiction found; transcript Liu He/Liu Tiao ASR variants are normalized to 刘郃/刘鯈 and kept distinct from Liu Yu's son Liu He.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱
 
-Added source page for Hanji 920: wealth-through-Dao framing, 181 CE horse-procurement price cornering, Zhu Jun's Jiaozhi suppression of Wuhu Man and Liang Long, disaster and office churn around Yang Ci and Chen Dan, Xianbei succession weakness after Tanshihuai, Han Lingdi's palace-market play, and the public/private treasury setup before Hanji 921. Created Liang Long, Wuhu Man (Jiaozhi), Tanshihuai, He Lian, Kuitou, Wealth Through Dao Frame, Palace Market Theater, and Procurement Signal Price Cornering; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants around Zhu Jun, Wuhu Man, Tanshihuai, He Lian, and Kuitou are normalized cautiously.
+Added source page for 汉纪 920: wealth-through-Dao framing, 181 CE horse-procurement price cornering, Zhu Jun's Jiaozhi suppression of Wuhu Man and Liang Long, disaster and office churn around Yang Ci and Chen Dan, Xianbei succession weakness after Tanshihuai, Han Lingdi's palace-market play, and the public/private treasury setup before 汉纪 921. Created Liang Long, Wuhu Man (Jiaozhi), Tanshihuai, He Lian, Kuitou, Wealth Through Dao Frame, Palace Market Theater, and Procurement Signal Price Cornering; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants around Zhu Jun, Wuhu Man, Tanshihuai, He Lian, and Kuitou are normalized cautiously.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》923丨成年人的顶级狠劲：骨子里的决绝
 
-Added source page for Hanji 923 on adult restraint/self-rescue framing and the Yellow Turban prelude: late-Han epidemic distress, Zhang Jiao's healing-based Taiping Dao expansion, Yang Ci and Liu Tao's ignored warnings, the thirty-six `fang`, Ma Yuanyi's regional and palace-contact plot, Tang Zhou's disclosure, and the accelerated 184 uprising. Created Ma Yuanyi, Tang Zhou, and Relief-Based Religious Mobilization pages; updated Zhang Jiao, Taiping Dao, Yellow Turbans, Emperor Ling of Han, Yang Ci, Liu Tao, Feng Xu, Xu Feng, Zhang Bao, Zhang Liang, Court Feedback Collapse, Pandemic As Historical Force, and Instrumentalized Religious Power. No settled contradiction found; the host's adult-toughness opening and healing-efficacy claims remain source-scoped.
+Added source page for 汉纪 923 on adult restraint/self-rescue framing and the Yellow Turban prelude: late-Han epidemic distress, Zhang Jiao's healing-based Taiping Dao expansion, Yang Ci and Liu Tao's ignored warnings, the thirty-six `fang`, Ma Yuanyi's regional and palace-contact plot, Tang Zhou's disclosure, and the accelerated 184 uprising. Created Ma Yuanyi, Tang Zhou, and Relief-Based Religious Mobilization pages; updated Zhang Jiao, Taiping Dao, Yellow Turbans, Emperor Ling of Han, Yang Ci, Liu Tao, Feng Xu, Xu Feng, Zhang Bao, Zhang Liang, Court Feedback Collapse, Pandemic As Historical Force, and Instrumentalized Religious Power. No settled contradiction found; the host's adult-toughness opening and healing-efficacy claims remain source-scoped.
 
 ## [2026-08-26] ingest | 699. The Troubles: Return of the IRA (Part 3)
 
@@ -12505,23 +12505,23 @@ Added source page for The Rest Is History episode 699 on Northern Ireland's 1970
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1025丨败于曹操，吕布错在禁酒令？
 
-Added source page for Hanji 1025: Lü Bu's failed attempt to send his daughter through Cao Cao's blockade to revive the Yuan Shu marriage-rescue channel, Zhang Yang's aborted relief and death, Xun You and Guo Jia's advice to press the Xiapi siege, Cao Cao's water attack, and Hou Cheng/Song Xian/Wei Xu's capture of Chen Gong and Gao Shun. Created Hou Cheng (Late Han), Song Xian (Late Han), Yang Chou (Late Han), and Suspicion-Triggered Command Mutiny; updated Lü Bu, Cao Cao, Zhang Yang, Chen Gong, Guo Jia, Xun You, Wei Xu, Xiapi, Sui Gu, Yuan Shu, Hydraulic Siege Warfare, War Cost Tempo Discipline, Command Discipline Authority, Court Feedback Collapse, Status Insult Defection Cascade, and Lü Bu Factional Balance. No settled contradiction found; the episode narrows the "alcohol ban caused defeat" reading into a trigger within failed diplomacy, siege pressure, and command-trust collapse.
+Added source page for 汉纪 1025: Lü Bu's failed attempt to send his daughter through Cao Cao's blockade to revive the Yuan Shu marriage-rescue channel, Zhang Yang's aborted relief and death, Xun You and Guo Jia's advice to press the Xiapi siege, Cao Cao's water attack, and Hou Cheng/Song Xian/Wei Xu's capture of Chen Gong and Gao Shun. Created Hou Cheng (Late Han), Song Xian (Late Han), Yang Chou (Late Han), and Suspicion-Triggered Command Mutiny; updated Lü Bu, Cao Cao, Zhang Yang, Chen Gong, Guo Jia, Xun You, Wei Xu, Xiapi, Sui Gu, Yuan Shu, Hydraulic Siege Warfare, War Cost Tempo Discipline, Command Discipline Authority, Court Feedback Collapse, Status Insult Defection Cascade, and Lü Bu Factional Balance. No settled contradiction found; the episode narrows the "alcohol ban caused defeat" reading into a trigger within failed diplomacy, siege pressure, and command-trust collapse.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1027丨荆州之主刘表，为何难成霸主？
 
-Added source page for Hanji 1027: Liu Biao's double alignment with the Li-Guo court and Yuan Shao, Deng Xi's ignored warning, and Zhang Xian/Huan Jie's southern Jingzhou attachment to Cao Cao. Created pages for Deng Xi, Zhang Xian, Huan Jie, southern Jingzhou commanderies, Wuxi Man/Sha Moke, Wang Fuzhi, Pang Tong, Guandu Campaign, Factional Alignment Exit Capital, and Fence-Sitting Strategic Exposure; updated Liu Biao/Jingzhou governance context. No settled contradiction found; the source qualifies earlier defensive-governance praise by exposing Liu Biao's strategic ceiling and Jingzhou's southern fissures.
+Added source page for 汉纪 1027: Liu Biao's double alignment with the Li-Guo court and Yuan Shao, Deng Xi's ignored warning, and Zhang Xian/Huan Jie's southern Jingzhou attachment to Cao Cao. Created pages for Deng Xi, Zhang Xian, Huan Jie, southern Jingzhou commanderies, Wuxi Man/Sha Moke, Wang Fuzhi, Pang Tong, Guandu Campaign, Factional Alignment Exit Capital, and Fence-Sitting Strategic Exposure; updated Liu Biao/Jingzhou governance context. No settled contradiction found; the source qualifies earlier defensive-governance praise by exposing Liu Biao's strategic ceiling and Jingzhou's southern fissures.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1028丨小霸王孙策立威，称霸江东！
 
-Added source page for Hanji 1028: Sun Ce's Cao-backed title/marriage channel, Yuan Shu's proxy disruption through Zu Lang and Shanyue, Zhou Yu and Lu Su leaving Yuan Shu, and Sun Ce capturing then appointing Zu Lang and Taishi Ci. Created Lu Su, Shanyue, Sun Yi (Late Han), and Captured Opponent Talent Incorporation pages; updated linked Sun Ce, Taishi Ci, Zu Lang, Danyang, Zhou Yu, Yuan Shu, Cao Cao, Wang Lang, Zhang Hong, Liu Yao, Hua Xin, Sun Quan, and talent/trust concept pages. No settled contradiction found; Cao Cao's Wang Lang factional-balancing reading and Sun Ce character judgments remain source-scoped.
+Added source page for 汉纪 1028: Sun Ce's Cao-backed title/marriage channel, Yuan Shu's proxy disruption through Zu Lang and Shanyue, Zhou Yu and Lu Su leaving Yuan Shu, and Sun Ce capturing then appointing Zu Lang and Taishi Ci. Created Lu Su, Shanyue, Sun Yi (Late Han), and Captured Opponent Talent Incorporation pages; updated linked Sun Ce, Taishi Ci, Zu Lang, Danyang, Zhou Yu, Yuan Shu, Cao Cao, Wang Lang, Zhang Hong, Liu Yao, Hua Xin, Sun Quan, and talent/trust concept pages. No settled contradiction found; Cao Cao's Wang Lang factional-balancing reading and Sun Ce character judgments remain source-scoped.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1029丨国士无双太史慈：一诺千金义当先
 
-Added source page for Hanji 1029: Sun Ce's trust-based delegation to Taishi Ci after Liu Yao's death, Taishi Ci's promised return, and Yuzhang intelligence about Hua Xin's limited control over Tong Zhi/Luling and Panyang/Haihun. Created Character-Reading Delegation Trust, Tong Zhi (Late Han), Luling (Late Han), Panyang Local Forces, and Haihun (Late Han); updated Sun Ce, Taishi Ci, Liu Yao, Hua Xin, Yuzhang Commandery, Talent as State Treasure, Situational Character Tests, Retainer Reciprocity Ethic, Windfall Decision Trap, and Xingshiqing Strategic Assessment. No settled contradiction found; transcript variants around Liu Yao, Hua Xin, Tong Zhi, Panyang, and Luling are normalized cautiously.
+Added source page for 汉纪 1029: Sun Ce's trust-based delegation to Taishi Ci after Liu Yao's death, Taishi Ci's promised return, and Yuzhang intelligence about Hua Xin's limited control over Tong Zhi/Luling and Panyang/Haihun. Created Character-Reading Delegation Trust, Tong Zhi (Late Han), Luling (Late Han), Panyang Local Forces, and Haihun (Late Han); updated Sun Ce, Taishi Ci, Liu Yao, Hua Xin, Yuzhang Commandery, Talent as State Treasure, Situational Character Tests, Retainer Reciprocity Ethic, Windfall Decision Trap, and Xingshiqing Strategic Assessment. No settled contradiction found; transcript variants around Liu Yao, Hua Xin, Tong Zhi, Panyang, and Luling are normalized cautiously.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1030丨手握好牌，公孙瓒为何打得稀烂？
 
-Added source page for Hanji 1030: Yuan Shao's final pressure on Gongsun Zan at Yijing, Gongsun Zan's failed no-rescue policy, Guan Jing's warning against leaving the fortress, and the episode's "passive self-preservation must fail" lesson. Created Guan Jing (Late Han), Gongsun Xu (Late Han), and Rescue Reciprocity Command Trust pages; updated Gongsun Zan, Yuan Shao, Sun Ce, Taishi Ci, Yijing Fortress, Heishan Army, Fortress Security Illusion, People-Based Political Security, Political Survival First, Xingshiqing Strategic Assessment, and Talent as State Treasure. No settled contradiction found; Gongsun Xu is disambiguated from the existing Warring States Gongsun Xu page while preserving the source spelling 公孙旭.
+Added source page for 汉纪 1030: Yuan Shao's final pressure on Gongsun Zan at Yijing, Gongsun Zan's failed no-rescue policy, Guan Jing's warning against leaving the fortress, and the episode's "passive self-preservation must fail" lesson. Created Guan Jing (Late Han), Gongsun Xu (Late Han), and Rescue Reciprocity Command Trust pages; updated Gongsun Zan, Yuan Shao, Sun Ce, Taishi Ci, Yijing Fortress, Heishan Army, Fortress Security Illusion, People-Based Political Security, Political Survival First, Xingshiqing Strategic Assessment, and Talent as State Treasure. No settled contradiction found; Gongsun Xu is disambiguated from the existing Warring States Gongsun Xu page while preserving the source spelling 公孙旭.
 
 ## [2026-08-26] ingest | Elbows up, again: a US-Canada trade flare-up
 
@@ -12549,7 +12549,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1026丨揭秘三国第一猛将吕布的落幕
 
-Added source page for Hanji 1026: Cao Cao's final siege and execution of Lü Bu at Xiapi, Liu Bei's decisive warning, Chen Gong and Gao Shun's endpoints, and Cao Cao's post-victory incorporation of Zhang Liao, Zhang Ba, local armed actors, and former defectors before the Yuan Shao/Guandu horizon. Created Chen Shou, Chen Qun, Xu Xi (Late Han), Mao Hui (Late Han), Wu Dun (Late Han), Yin Li (Late Han), Sun Guan (Late Han), and Strategic Defector Incorporation; updated Lü Bu, Cao Cao, Liu Bei, Chen Gong, Gao Shun, Zhang Liao, Zhang Ba, Chen Ji, Chen Deng, Xiapi, Yuan Tan, Qingzhou, Wang Fuzhi, Guandu Campaign, Captured Opponent Talent Incorporation, and Reputation-Constrained Talent Protection. No settled contradiction found; the transcript's "张霸" stays on the existing Zhang Ba canonical route.
+Added source page for 汉纪 1026: Cao Cao's final siege and execution of Lü Bu at Xiapi, Liu Bei's decisive warning, Chen Gong and Gao Shun's endpoints, and Cao Cao's post-victory incorporation of Zhang Liao, Zhang Ba, local armed actors, and former defectors before the Yuan Shao/Guandu horizon. Created Chen Shou, Chen Qun, Xu Xi (Late Han), Mao Hui (Late Han), Wu Dun (Late Han), Yin Li (Late Han), Sun Guan (Late Han), and Strategic Defector Incorporation; updated Lü Bu, Cao Cao, Liu Bei, Chen Gong, Gao Shun, Zhang Liao, Zhang Ba, Chen Ji, Chen Deng, Xiapi, Yuan Tan, Qingzhou, Wang Fuzhi, Guandu Campaign, Captured Opponent Talent Incorporation, and Reputation-Constrained Talent Protection. No settled contradiction found; the transcript's "张霸" stays on the existing Zhang Ba canonical route.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12577,7 +12577,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》922丨如何在凡尘中修炼情商？
 
-Added source page for Hanji 922: Emperor Ling's 182-183 CE court prelude, false anti-corruption reporting by Xu Xu and Zhang Ji, Chen Dan's defense of wrongly accused officials, Chen Bao's root-cause explanation of the Bandun Man rebellion, Huan Dian's censorial reputation, and Zhang Jiao's Taiping Dao expansion before Hanji 923. Created Xu Xu (late-Han taiwei), Zhang Ji (late-Han sikong), Chen Dan, Chen Bao, Bandun Man, Cao Qian, and Huan Dian; updated linked late-Han entity and concept pages. No settled contradiction found; the source's Zhang Ji is disambiguated from the later warlord Zhang Ji.
+Added source page for 汉纪 922: Emperor Ling's 182-183 CE court prelude, false anti-corruption reporting by Xu Xu and Zhang Ji, Chen Dan's defense of wrongly accused officials, Chen Bao's root-cause explanation of the Bandun Man rebellion, Huan Dian's censorial reputation, and Zhang Jiao's Taiping Dao expansion before 汉纪 923. Created Xu Xu (late-Han taiwei), Zhang Ji (late-Han sikong), Chen Dan, Chen Bao, Bandun Man, Cao Qian, and Huan Dian; updated linked late-Han entity and concept pages. No settled contradiction found; the source's Zhang Ji is disambiguated from the later warlord Zhang Ji.
 
 ## [2026-08-26] ingest | 693. Elizabeth I vs The Catholics: England's Greatest Hero (Part 3)
 
@@ -12589,7 +12589,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死
 
-Added source page for Hanji 921: Emperor Ling's 181 CE private-treasury extraction, Lyu Qiang's remonstrance on public/private wealth and appointment accountability, West Garden pleasure politics, Wang Meiren's poisoning and Liu Xie's transfer to Dong Taihou, and Cao Jie-to-Zhao Zhong eunuch continuity. Created Cao Jie (late-Han eunuch) and Imperial Private Treasury Extraction; updated linked late-Han entity and concept pages. No settled contradiction found; transcript wording around the extra fee term is kept source-scoped.
+Added source page for 汉纪 921: Emperor Ling's 181 CE private-treasury extraction, Lyu Qiang's remonstrance on public/private wealth and appointment accountability, West Garden pleasure politics, Wang Meiren's poisoning and Liu Xie's transfer to Dong Taihou, and Cao Jie-to-Zhao Zhong eunuch continuity. Created Cao Jie (late-Han eunuch) and Imperial Private Treasury Extraction; updated linked late-Han entity and concept pages. No settled contradiction found; transcript wording around the extra fee term is kept source-scoped.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12611,7 +12611,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》917丨如何迅速找到升职加薪的破局点？
 
-Added source page for Hanji 917: promotion position fit, Lyu Qiang's refused marquisate and broad remonstrance, Cai Yong and Duan Jiong as correction-failure cases, He Hai's party-prohibition kinship narrowing, and Zhang Xiu's unauthorized killing of Huzheng before Qiangqu's Southern Xiongnu installation. Created He Hai, Duan Jiong, Zhang Xiu (Protector of Xiongnu), Huzheng Chanyu, Zhu Yu, Promotion Position Fit, Unauthorized Frontier Command Intervention, and Party Prohibition Kinship Narrowing; updated linked late-Han entity and concept pages. No settled contradiction found; transcript names 张须, 段炯, and 朱羽 are normalized to 张脩, 段熲, and 朱瑀.
+Added source page for 汉纪 917: promotion position fit, Lyu Qiang's refused marquisate and broad remonstrance, Cai Yong and Duan Jiong as correction-failure cases, He Hai's party-prohibition kinship narrowing, and Zhang Xiu's unauthorized killing of Huzheng before Qiangqu's Southern Xiongnu installation. Created He Hai, Duan Jiong, Zhang Xiu (Protector of Xiongnu), Huzheng Chanyu, Zhu Yu, Promotion Position Fit, Unauthorized Frontier Command Intervention, and Party Prohibition Kinship Narrowing; updated linked late-Han entity and concept pages. No settled contradiction found; transcript names 张须, 段炯, and 朱羽 are normalized to 张脩, 段熲, and 朱瑀.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12623,7 +12623,7 @@ Ran health, identity validation, and lint. Health and identity checks passed. Li
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》916丨命好和运好哪个更重要？
 
-Added source page for Hanji 916: fate-versus-fortune framing, Yu Guiren's funeral, Cao Jie's regrouping after Wang Fu's roadside corpse humiliation, Yang Qiu's transfer out of the sili xiaowei post, Shangshu Ling access power, and Shen Zhong's shelved memorial against Zhu Yu and eunuch corruption. Created Shen Zhong, Yu Guiren, and Shangshu Tai Imperial Access; updated linked late-Han entity and concept pages. No settled contradiction found; the opening faith/energy and fate-change claims are kept source-scoped, and the episode's closing caution against treating all eunuchs as one category is preserved.
+Added source page for 汉纪 916: fate-versus-fortune framing, Yu Guiren's funeral, Cao Jie's regrouping after Wang Fu's roadside corpse humiliation, Yang Qiu's transfer out of the sili xiaowei post, Shangshu Ling access power, and Shen Zhong's shelved memorial against Zhu Yu and eunuch corruption. Created Shen Zhong, Yu Guiren, and Shangshu Tai Imperial Access; updated linked late-Han entity and concept pages. No settled contradiction found; the opening faith/energy and fate-change claims are kept source-scoped, and the episode's closing caution against treating all eunuchs as one category is preserved.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12631,7 +12631,7 @@ Ran health, identity validation, and lint. Health scanned 14,595 wiki pages with
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》915丨世上没有真正的口误，这话对吗？
 
-Added source page for Hanji 915: relationship-boundary readings of "口误", Qiao Xuan's refusal to ransom his kidnapped son and the resulting no-ransom deterrence rule, Guangwu/Liu Xiu precedent, and Yang Qiu's first strike against Wang Fu, Duan Jiong, Wang Ji, and Wang Meng before Cao Jie's rebound. Created Wang Ji, Wang Meng, Yin Lihua, and Hostage-Ransom Deterrence; updated Qiao Xuan, Liu Xiu, Wang Fu, Yang Qiu, Cao Jie, Duan Jiong, Emperor Ling, Ten Attendants, Yang Biao, Zhang Ji (late-Han sikong), Communication Boundary Setting, index, and overview. No settled contradiction found; transcript variants are normalized to existing canonical late-Han names.
+Added source page for 汉纪 915: relationship-boundary readings of "口误", Qiao Xuan's refusal to ransom his kidnapped son and the resulting no-ransom deterrence rule, Guangwu/Liu Xiu precedent, and Yang Qiu's first strike against Wang Fu, Duan Jiong, Wang Ji, and Wang Meng before Cao Jie's rebound. Created Wang Ji, Wang Meng, Yin Lihua, and Hostage-Ransom Deterrence; updated Qiao Xuan, Liu Xiu, Wang Fu, Yang Qiu, Cao Jie, Duan Jiong, Emperor Ling, Ten Attendants, Yang Biao, Zhang Ji (late-Han sikong), Communication Boundary Setting, index, and overview. No settled contradiction found; transcript variants are normalized to existing canonical late-Han names.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12639,11 +12639,11 @@ Ran health, identity validation, and lint. Health scanned 14,600 wiki pages with
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》914丨信任的人，为何总伤你最深？
 
-Added source page for Hanji 914: trust-and-injury opening, Emperor Ling's Hongdu Menxue patronage, Yang Qiu's ignored anti-Hongdu memorial, Xidi office-sale pricing and private-store proceeds, Yang Qi's Emperor Huan comparison and Yang Zhen family taunt, and Huzheng's Southern Xiongnu succession before Hanji 915. Created Hongdu Menxue and Yang Zhen; updated Emperor Ling, Yang Qiu, Yang Qi, Huzheng, Southern Xiongnu, Office-Sale Legitimacy Damage, Imperial Private Treasury Extraction, Court Office Capture, Court Feedback Collapse, index, and overview. No settled contradiction found; transcript variants 弘都门, 杨求, 杨齐, 岳松, and 江澜 are normalized cautiously.
+Added source page for 汉纪 914: trust-and-injury opening, Emperor Ling's Hongdu Menxue patronage, Yang Qiu's ignored anti-Hongdu memorial, Xidi office-sale pricing and private-store proceeds, Yang Qi's Emperor Huan comparison and Yang Zhen family taunt, and Huzheng's Southern Xiongnu succession before 汉纪 915. Created Hongdu Menxue and Yang Zhen; updated Emperor Ling, Yang Qiu, Yang Qi, Huzheng, Southern Xiongnu, Office-Sale Legitimacy Damage, Imperial Private Treasury Extraction, Court Office Capture, Court Feedback Collapse, index, and overview. No settled contradiction found; transcript variants 弘都门, 杨求, 杨齐, 岳松, and 江澜 are normalized cautiously.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》913丨看懂“塞翁失马”，悟透人生福祸
 
-Added source page for Hanji 913: workplace bullying and explanation-boundary framing, Cai Yong's framed exile and survival, Song Empress's wugu accusation and death, Lu Zhi's ignored memorial on party prisoners, empress-family burial, local-official tenure, and appointment standards, plus Xianbei pressure near Jiuquan. Created Empress Song (late Han), Fortune-Misfortune Reversal, and Local Official Tenure Stability; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants around Cai Yong, Cheng Huang, Wang Fu, Lu Zhi, Chen Qiu, and minor names are normalized source-scoped.
+Added source page for 汉纪 913: workplace bullying and explanation-boundary framing, Cai Yong's framed exile and survival, Song Empress's wugu accusation and death, Lu Zhi's ignored memorial on party prisoners, empress-family burial, local-official tenure, and appointment standards, plus Xianbei pressure near Jiuquan. Created Empress Song (late Han), Fortune-Misfortune Reversal, and Local Official Tenure Stability; updated linked late-Han entity and concept pages. No settled contradiction found; transcript variants around Cai Yong, Cheng Huang, Wang Fu, Lu Zhi, Chen Qiu, and minor names are normalized source-scoped.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12671,11 +12671,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》908丨逆境出强者，狭路出勇者，孤独出智者
 
-Added source page for Hanji 908: Cai Yong's 177 CE confidential memorial on imperial ritual neglect, literary/artistic skills distorting appointment standards, Xuanling filial sons being placed near the crown prince, Emperor Ling's partial correction, and the host's source-scoped inner-strength, classic-reading, and meditation lesson. Created Filial Mourning Access Credential; updated linked late-Han and self-cultivation pages. No settled contradiction found; one-off precedent names are kept source-scoped unless later ingests require canonical pages.
+Added source page for 汉纪 908: Cai Yong's 177 CE confidential memorial on imperial ritual neglect, literary/artistic skills distorting appointment standards, Xuanling filial sons being placed near the crown prince, Emperor Ling's partial correction, and the host's source-scoped inner-strength, classic-reading, and meditation lesson. Created Filial Mourning Access Credential; updated linked late-Han and self-cultivation pages. No settled contradiction found; one-off precedent names are kept source-scoped unless later ingests require canonical pages.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》907丨所有的病都是你的心病
 
-Added source page for Hanji 907: Cao Luan's 176 CE memorial for party figures, Emperor Ling's lethal response, expansion of party-prohibition liability to students, old subordinates, close kin, and five-degree relatives, early Liu Bei/Gongsun Zan study under Lu Zhi, Xianbei pressure, false Xuanling filial sons, early Hongdu literary-favor signals, and source-scoped "心病" self-cultivation advice. Created Cao Luan and Party Prohibition Kinship Expansion; updated linked late-Han entity and concept pages. No settled contradiction found; transcript "杨求" is normalized to Yang Qiu and minor office names remain source-scoped.
+Added source page for 汉纪 907: Cao Luan's 176 CE memorial for party figures, Emperor Ling's lethal response, expansion of party-prohibition liability to students, old subordinates, close kin, and five-degree relatives, early Liu Bei/Gongsun Zan study under Lu Zhi, Xianbei pressure, false Xuanling filial sons, early Hongdu literary-favor signals, and source-scoped "心病" self-cultivation advice. Created Cao Luan and Party Prohibition Kinship Expansion; updated linked late-Han entity and concept pages. No settled contradiction found; transcript "杨求" is normalized to Yang Qiu and minor office names remain source-scoped.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12691,7 +12691,7 @@ Ran health, identity validation, and lint. Health scanned 14,642 wiki pages with
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》906丨厉害的人，为什么享受冲突？
 
-Added source page for Hanji 906: conflict as source-scoped boundary practice, Cai Yong's 175 CE memorial against the 三互法 appointment bottleneck, Youzhou/Jizhou vacant inspector posts, Sima Guang's "many regulations" decline warning, and 175-176 frontier/regional office markers. Created Sanhu Law Appointment Constraint; updated Cai Yong, Emperor Ling, Official Selection Channel Competition, Court Feedback Collapse, Talent as State Treasure, Merit-Based Reward and Punishment, Local Official Tenure Stability, Communication Boundary Setting, Xianbei, Youzhou, Jizhou, Yizhou, and Chen Dan. No settled contradiction found; transcript variants around Cai Yong, Chen Dan, and small Western Regions names are kept source-scoped.
+Added source page for 汉纪 906: conflict as source-scoped boundary practice, Cai Yong's 175 CE memorial against the 三互法 appointment bottleneck, Youzhou/Jizhou vacant inspector posts, Sima Guang's "many regulations" decline warning, and 175-176 frontier/regional office markers. Created Sanhu Law Appointment Constraint; updated Cai Yong, Emperor Ling, Official Selection Channel Competition, Court Feedback Collapse, Talent as State Treasure, Merit-Based Reward and Punishment, Local Official Tenure Stability, Communication Boundary Setting, Xianbei, Youzhou, Jizhou, Yizhou, and Chen Dan. No settled contradiction found; transcript variants around Cai Yong, Chen Dan, and small Western Regions names are kept source-scoped.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12699,7 +12699,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》905丨富贵如何险中求？
 
-Added source page for Hanji 905: Sun Jian's 174 CE role in suppressing Xu Sheng, the youth-bandit story and source-scoped "富贵险中求" risk-opportunity frame, Zang Min's Yangzhou branch, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker. Created Xu Sheng, Crisis Opportunity Conversion, and Xiping Stone Classics; updated linked late-Han entity and concept pages. No settled contradiction found; "藏民" is normalized to Zang Min, Danyang-name uncertainty remains source-scoped, and Sun-family ancestral-cloud material is treated as legendary coloration.
+Added source page for 汉纪 905: Sun Jian's 174 CE role in suppressing Xu Sheng, the youth-bandit story and source-scoped "富贵险中求" risk-opportunity frame, Zang Min's Yangzhou branch, Xianbei pressure, Emperor Ling and Cai Yong's Xiping Stone Classics project at Taixue, and Zhou Yu's 175 CE birth marker. Created Xu Sheng, Crisis Opportunity Conversion, and Xiping Stone Classics; updated linked late-Han entity and concept pages. No settled contradiction found; "藏民" is normalized to Zang Min, Danyang-name uncertainty remains source-scoped, and Sun-family ancestral-cloud material is treated as legendary coloration.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12719,7 +12719,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》900丨职场权术都不动，该怎样生存
 
-Added source page for Hanji 900: Hu Guang's 172 CE death and moderation-based court survival, anger control and advance/retreat judgment, Hou Lan's uncertain eunuch-faction fall, Empress Dowager Dou Miao's death and initial funeral mistreatment, and the supervised burial-meeting setup before Hanji 901. Created Hu Guang, Hou Lan, Moderation As Political Survival, and Predetermined Meeting Process; updated linked late-Han entity and concept pages, index, and overview. No settled contradiction found; Hou Lan's trigger remains source-scoped and the title spelling "都不动" is preserved from the source file.
+Added source page for 汉纪 900: Hu Guang's 172 CE death and moderation-based court survival, anger control and advance/retreat judgment, Hou Lan's uncertain eunuch-faction fall, Empress Dowager Dou Miao's death and initial funeral mistreatment, and the supervised burial-meeting setup before 汉纪 901. Created Hu Guang, Hou Lan, Moderation As Political Survival, and Predetermined Meeting Process; updated linked late-Han entity and concept pages, index, and overview. No settled contradiction found; Hou Lan's trigger remains source-scoped and the title spelling "都不动" is preserved from the source file.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12739,7 +12739,7 @@ Added source page for Marketplace Tech's Meta smart-glasses episode: first-gener
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》897丨职场必读！什么才叫领导力？
 
-Added source page for Hanji 897: relationships without exchangeable capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's manufactured Zhang Rang access followed by failed Shule command. Created Dong Chong, Meng Tuo, Gu Yong, Shule Kingdom, and Manufactured Access Brokerage; updated linked leadership, access, office-capture, and surrender-cascade pages. No settled contradiction found; 170 CE/建宁二年 and transcript variants such as 段九 and 官带 are kept source-scoped.
+Added source page for 汉纪 897: relationships without exchangeable capability, Duan Jiong's shared-hardship leadership, Dong Chong's false Dong Taihou instruction, Gu Yong's trust-based frontier submission, and Meng Tuo's manufactured Zhang Rang access followed by failed Shule command. Created Dong Chong, Meng Tuo, Gu Yong, Shule Kingdom, and Manufactured Access Brokerage; updated linked leadership, access, office-capture, and surrender-cascade pages. No settled contradiction found; 170 CE/建宁二年 and transcript variants such as 段九 and 官带 are kept source-scoped.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12779,7 +12779,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1040丨乱世英雄，曹操为何独独看好刘备？
 
-Added source page for Hanji 1040: Cao Cao's "天下英雄" judgment of Liu Bei inside the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao's disputed release of Liu Bei to intercept Yuan Shu, Liu Bei's killing of Che Zhou and recovery of Xuzhou, and the failed first Cao-side counterattack by Liu Dai and Wang Zhong. Created disambiguated pages for Che Zhou, Zhu Ling, Liu Dai, Wang Zhong, Chang Xi, Wang Fu, Zhong Ji, Wu Zilan, Clothes Belt Edict, Latent Rival Recognition, Crisis Composure Cover Story, and Dangerous Guest Release Risk. No settled contradiction found; transcript-normalized names and the Liu Dai identity split remain source-scoped.
+Added source page for 汉纪 1040: Cao Cao's "天下英雄" judgment of Liu Bei inside the Dong Cheng/Yidai Zhao plot, Liu Bei's chopsticks-and-thunder composure, Cao Cao's disputed release of Liu Bei to intercept Yuan Shu, Liu Bei's killing of Che Zhou and recovery of Xuzhou, and the failed first Cao-side counterattack by Liu Dai and Wang Zhong. Created disambiguated pages for Che Zhou, Zhu Ling, Liu Dai, Wang Zhong, Chang Xi, Wang Fu, Zhong Ji, Wu Zilan, Clothes Belt Edict, Latent Rival Recognition, Crisis Composure Cover Story, and Dangerous Guest Release Risk. No settled contradiction found; transcript-normalized names and the Liu Dai identity split remain source-scoped.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12803,7 +12803,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1037丨忠于曹操or刘表？揭秘韩嵩的忠义抉择
 
-Added source page for Hanji 1037: Han Song's Xudu appointment and court-loyalty defense, Liu Biao's suspicion and imprisonment of Han Song, Liu Ye's killing of Zheng Bao, Liu Ye's refusal to absorb undisciplined followers, and the Zheng Bao/Yuan Yin food-pressure prelude to Liu Xun's Hanji 1038 mistake. Created Han Song (late Han), Zheng Bao, Yuan Yin, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and Armed Follower Integration Cost; updated Liu Biao, Liu Ye, Liu Xun, index, and overview. No settled contradiction found; Han Song / 韩嵩 is disambiguated from the modern AI-chip researcher Han Song / 韩松.
+Added source page for 汉纪 1037: Han Song's Xudu appointment and court-loyalty defense, Liu Biao's suspicion and imprisonment of Han Song, Liu Ye's killing of Zheng Bao, Liu Ye's refusal to absorb undisciplined followers, and the Zheng Bao/Yuan Yin food-pressure prelude to Liu Xun's 汉纪 1038 mistake. Created Han Song (late Han), Zheng Bao, Yuan Yin, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and Armed Follower Integration Cost; updated Liu Biao, Liu Ye, Liu Xun, index, and overview. No settled contradiction found; Han Song / 韩嵩 is disambiguated from the modern AI-chip researcher Han Song / 韩松.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12827,7 +12827,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-26] ingest | 《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？
 
-Added source page for Hanji 1036: Liu Biao's unresolved neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning that non-alignment can anger both sides, and Han Song's pre-mission explanation that court appointment would reorder his formal loyalty if Liu Biao remained undecided. Created Liu Xian (late Han), updated Han Song (late Han), Liu Biao, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and migrated Fence-Sitting Strategic Exposure to synthesis-v1. No settled contradiction found; Hanji 1036 qualifies Hanji 1037 by showing Han Song warned Liu Biao before the Xudu mission.
+Added source page for 汉纪 1036: Liu Biao's unresolved neutrality between Yuan Shao and Cao Cao, Han Song and Liu Xian's warning that non-alignment can anger both sides, and Han Song's pre-mission explanation that court appointment would reorder his formal loyalty if Liu Biao remained undecided. Created Liu Xian (late Han), updated Han Song (late Han), Liu Biao, Court Legitimacy Over Patron Loyalty, Suspicion-Driven Elite Alienation, and migrated Fence-Sitting Strategic Exposure to synthesis-v1. No settled contradiction found; 汉纪 1036 qualifies 汉纪 1037 by showing Han Song warned Liu Biao before the Xudu mission.
 
 ## [2026-08-26] lint | Wiki health check
 
@@ -12887,11 +12887,11 @@ Added source page for 这病说来话长 episode on Moderna/Merck's individualiz
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1043丨袁绍痛骂曹操，竟治好了他的偏头疼？
 
-Added source page for Hanji 1043: Chen Lin's anti-Cao proclamation, Ju Shou's pre-campaign defeat forecast and warning against Yan Liang's independent command, Cheng Yu's low-force Juancheng defense, Cao Cao's White Horse feint, and Guan Yu killing Yan Liang to lift the siege. Created White Horse Relief and Liu Yan (Dong Commandery); migrated Chen Lin, Cheng Yu, and Legitimacy Indictment Warfare to synthesis-v1; updated Guandu Campaign, Yan Liang, Guan Yu, Ju Shou, Lure Enemy Out of Position, and Captive Submission with Residual Loyalty. No settled contradiction found; this ingest clarifies that Yan Liang dies in Hanji 1043 while Hanji 1044 covers the angry-pursuit, Yanjin, Wen Chou, and Guan Yu departure aftermath.
+Added source page for 汉纪 1043: Chen Lin's anti-Cao proclamation, Ju Shou's pre-campaign defeat forecast and warning against Yan Liang's independent command, Cheng Yu's low-force Juancheng defense, Cao Cao's White Horse feint, and Guan Yu killing Yan Liang to lift the siege. Created White Horse Relief and Liu Yan (Dong Commandery); migrated Chen Lin, Cheng Yu, and Legitimacy Indictment Warfare to synthesis-v1; updated Guandu Campaign, Yan Liang, Guan Yu, Ju Shou, Lure Enemy Out of Position, and Captive Submission with Residual Loyalty. No settled contradiction found; this ingest clarifies that Yan Liang dies in 汉纪 1043 while 汉纪 1044 covers the angry-pursuit, Yanjin, Wen Chou, and Guan Yu departure aftermath.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1044丨关羽千里走单骑，需感谢曹操不杀恩情？
 
-Added source page for Hanji 1044: Yuan Shao's anger after Yan Liang, Ju Shou's rejected Yanjin/Guandu caution and command loss, Cao Cao and Xun You's baggage-bait victory over Wen Chou, Guan Yu's reward-sealing departure toward Liu Bei, Yan Rou and Xianyu Fu's move toward Cao, and Chen Deng's Jiangdong rear-pressure setup. Created Yanjin Battle page; updated Guan Yu, Yan Liang, Wen Chou, Ju Shou, Xun You, Yan Rou, Xianyu Fu, Guandu Campaign, Captive Submission with Residual Loyalty, index, and overview. No settled contradiction found; Romance "千里走单骑" and "过五关斩六将" details are kept as source-tradition embellishment.
+Added source page for 汉纪 1044: Yuan Shao's anger after Yan Liang, Ju Shou's rejected Yanjin/Guandu caution and command loss, Cao Cao and Xun You's baggage-bait victory over Wen Chou, Guan Yu's reward-sealing departure toward Liu Bei, Yan Rou and Xianyu Fu's move toward Cao, and Chen Deng's Jiangdong rear-pressure setup. Created Yanjin Battle page; updated Guan Yu, Yan Liang, Wen Chou, Ju Shou, Xun You, Yan Rou, Xianyu Fu, Guandu Campaign, Captive Submission with Residual Loyalty, index, and overview. No settled contradiction found; Romance "千里走单骑" and "过五关斩六将" details are kept as source-tradition embellishment.
 
 ## [2026-08-27] ingest | EP279 当方向盘慢慢松开，我们如何与车相处？
 
@@ -12899,31 +12899,31 @@ Added source page for EP279: assisted-driving trust formation, Hongmeng Zhixing 
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》872丨他娶妾不成，竟杀人全家
 
-Added source page for Hanji 872: Zhang Jian's enforcement against Hou Lan, blocked memorials, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, Emperor Huan's punishment of Zhai Chao and Huang Fu after eunuch complaint, and Chen Fan's warning that inner-court favorite power is the deeper danger. Created Zhai Chao, Xu Huang, Xu Xuan, Li Gao, Huang Fu, Liu Mao, and Eunuch Patronage Violence Shield pages; updated Chen Fan, Zhang Jian, Hou Lan, and Emperor Huan. No settled contradiction found; 皇甫 is normalized to 黄浮 and 李嵩 to 李暠 while the 166/169 chronology is kept source-scoped.
+Added source page for 汉纪 872: Zhang Jian's enforcement against Hou Lan, blocked memorials, Xu Xuan's killing of Li Gao's daughter, Huang Fu's execution of Xu Xuan, Emperor Huan's punishment of Zhai Chao and Huang Fu after eunuch complaint, and Chen Fan's warning that inner-court favorite power is the deeper danger. Created Zhai Chao, Xu Huang, Xu Xuan, Li Gao, Huang Fu, Liu Mao, and Eunuch Patronage Violence Shield pages; updated Chen Fan, Zhang Jian, Hou Lan, and Emperor Huan. No settled contradiction found; 皇甫 is normalized to 黄浮 and 李嵩 to 李暠 while the 166/169 chronology is kept source-scoped.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》874丨震惊：母子相残，天理难容！
 
-Added source page for Hanji 874: Jia Biao's no-collateral timing judgment and infanticide custom correction, Zhang Cheng's amnesty-gaming murder, Li Ying's execution of Zhang Cheng father and son, the eunuch-backed Lao Xiu accusation that triggers first Party Prohibition arrests, Chen Fan's refusal to sign vague arrest orders, and Chen Shi / Fan Pang prison conduct. Created Zhang Cheng (late Han astrologer), Lao Xiu, Infanticide Custom Correction, Amnesty Exploitation Crime, and Prison Ritual Legitimacy Refusal pages; updated Jia Biao, Li Ying, Fan Pang, Chen Shi, Chen Fan, Emperor Huan, Power-Structure Targeting, and Party Network Treason Framing. No settled contradiction found; transcript variants are normalized to Jia Biao, Li Ying, Chen Shi, Fan Pang, Gao Yao, and Chen Fan while minor names remain source-scoped.
+Added source page for 汉纪 874: Jia Biao's no-collateral timing judgment and infanticide custom correction, Zhang Cheng's amnesty-gaming murder, Li Ying's execution of Zhang Cheng father and son, the eunuch-backed Lao Xiu accusation that triggers first Party Prohibition arrests, Chen Fan's refusal to sign vague arrest orders, and Chen Shi / Fan Pang prison conduct. Created Zhang Cheng (late Han astrologer), Lao Xiu, Infanticide Custom Correction, Amnesty Exploitation Crime, and Prison Ritual Legitimacy Refusal pages; updated Jia Biao, Li Ying, Fan Pang, Chen Shi, Chen Fan, Emperor Huan, Power-Structure Targeting, and Party Network Treason Framing. No settled contradiction found; transcript variants are normalized to Jia Biao, Li Ying, Chen Shi, Fan Pang, Gao Yao, and Chen Fan while minor names remain source-scoped.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》876丨职场总碰壁？说明你没有找对关系
 
-Added source page for Hanji 876: the 167 CE pre-amnesty Party Prohibition rescue path, Jia Biao's targeted approach to Dou Wu, Dou Wu's memorial against eunuch influence and false accusation, Fan Pang's prison defense, Wang Fu's local softening, and the solar-eclipse pretext for pardon. Created Jia Biao and Power-Structure Targeting pages; updated Dou Wu, Wang Fu, Chen Fan, Fan Pang, Li Ying, Emperor Huan, index, overview, and log. No settled contradiction found; the unnamed second intercessor and frontier notices remain source-scoped.
+Added source page for 汉纪 876: the 167 CE pre-amnesty Party Prohibition rescue path, Jia Biao's targeted approach to Dou Wu, Dou Wu's memorial against eunuch influence and false accusation, Fan Pang's prison defense, Wang Fu's local softening, and the solar-eclipse pretext for pardon. Created Jia Biao and Power-Structure Targeting pages; updated Dou Wu, Wang Fu, Chen Fan, Fan Pang, Li Ying, Emperor Huan, index, overview, and log. No settled contradiction found; the unnamed second intercessor and frontier notices remain source-scoped.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》880丨为何职场老油条热衷于称病？
 
-Added source page for Hanji 880: the 168 CE interregnum after Emperor Huan's death, Chen Fan's "事亡如存" rebuke of shangshu illness avoidance, Liu Hong's accession as Emperor Ling, and Duan Jiong's budgeted hard-suppression memorial for the Eastern Qiang. Created Crisis Duty Continuity and Budgeted Frontier Suppression; updated Chen Fan, Duan Jiong, and Eastern Qiang. No settled contradiction found; the illness-avoidance and campaign-budget claims are kept source-scoped.
+Added source page for 汉纪 880: the 168 CE interregnum after Emperor Huan's death, Chen Fan's "事亡如存" rebuke of shangshu illness avoidance, Liu Hong's accession as Emperor Ling, and Duan Jiong's budgeted hard-suppression memorial for the Eastern Qiang. Created Crisis Duty Continuity and Budgeted Frontier Suppression; updated Chen Fan, Duan Jiong, and Eastern Qiang. No settled contradiction found; the illness-avoidance and campaign-budget claims are kept source-scoped.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》882丨风光太盛，注定不得好死？
 
-Added source page for Hanji 882: the 168 CE accession-reward stage before the Dou Wu / Chen Fan anti-eunuch crisis, Lu Zhi's warning against excessive reward, Chen Fan's refusal of Dou Miao's favor-based marquisate, and the Analects wealth/rank frame behind rightful acceptance. Updated Dou Wu, Chen Fan, Lu Zhi, Righteousness Over Profit, and added Unearned Reward Refusal. No settled contradiction found; transcript variants such as 曹洁 and 段炯 are normalized to canonical late-Han routes, while Dou Ji, Dou Shao, Dou Jing, and Ma Rong remain source-scoped.
+Added source page for 汉纪 882: the 168 CE accession-reward stage before the Dou Wu / Chen Fan anti-eunuch crisis, Lu Zhi's warning against excessive reward, Chen Fan's refusal of Dou Miao's favor-based marquisate, and the Analects wealth/rank frame behind rightful acceptance. Updated Dou Wu, Chen Fan, Lu Zhi, Righteousness Over Profit, and added Unearned Reward Refusal. No settled contradiction found; transcript variants such as 曹洁 and 段炯 are normalized to canonical late-Han routes, while Dou Ji, Dou Shao, Dou Jing, and Ma Rong remain source-scoped.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1042丨聪明还是顽固？田丰因顶撞袁绍入狱
 
-Added source page for Hanji 1042: Liu Bei's flight to Yuan Shao, Tian Feng's concrete pre-Guandu hold-and-harass strategy, Yuan Shao's rejection and imprisonment of Tian Feng, and the Yuan camp fragmentation diagnosis. Updated Tian Feng, Guandu Campaign, Advice Framing Under Hierarchy, Resource-Asymmetry Attrition, and Fortified Attrition Patience. No settled contradiction found; the host's claim that Tian Feng's plan would have favored Yuan Shao remains source-scoped counterfactual judgment.
+Added source page for 汉纪 1042: Liu Bei's flight to Yuan Shao, Tian Feng's concrete pre-Guandu hold-and-harass strategy, Yuan Shao's rejection and imprisonment of Tian Feng, and the Yuan camp fragmentation diagnosis. Updated Tian Feng, Guandu Campaign, Advice Framing Under Hierarchy, Resource-Asymmetry Attrition, and Fortified Attrition Patience. No settled contradiction found; the host's claim that Tian Feng's plan would have favored Yuan Shao remains source-scoped counterfactual judgment.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》886丨身处职场，做个城府很深的人
 
-Added source page for Hanji 886: the leaked prelude to the 168 CE Dou Wu anti-eunuch crisis, Zhu Yu's oath, Cao Jie and Wang Fu's control of emperor, gates, seals, tallies, edict channel, Beisi prison, and Dou Miao, plus the host's "城府" frame as strategic emotion and behavior control. Migrated Zhu Yu and Strategic Emotion Concealment to synthesis-v1; updated Dou Wu, Cao Jie, Wang Fu, Empress Dowager Dou Miao, Lethal Plan Leakage Risk, and Zero-Sum Conflict Hesitation Risk with the new source appended. No settled contradiction found; minor names remain source-scoped.
+Added source page for 汉纪 886: the leaked prelude to the 168 CE Dou Wu anti-eunuch crisis, Zhu Yu's oath, Cao Jie and Wang Fu's control of emperor, gates, seals, tallies, edict channel, Beisi prison, and Dou Miao, plus the host's "城府" frame as strategic emotion and behavior control. Migrated Zhu Yu and Strategic Emotion Concealment to synthesis-v1; updated Dou Wu, Cao Jie, Wang Fu, Empress Dowager Dou Miao, Lethal Plan Leakage Risk, and Zero-Sum Conflict Hesitation Risk with the new source appended. No settled contradiction found; minor names remain source-scoped.
 
 ## [2026-08-27] ingest | 当机器人学会认路，物理世界才真正接上了 AI
 
@@ -12931,7 +12931,7 @@ Added source page for the 科技乱炖 World Robot Conference conversation with 
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1022丨乱世三国，三位名士的生存抉择
 
-Added source page for Hanji 1022: Du Xi, Zhao Yan, and Fan Qin preserve themselves under Liu Biao in Jingzhou, Zhao Yan later chooses Cao Cao after the Xudu court position becomes legible, Zhao Yan and Li Tong turn a wife-side kinship plea into a law-over-private-ties case, Xun You's rejected Zhang Xiu advice sets up Hanji 1023, and Duan Wei's order against Li Jue closes the episode. Created Du Xi, Zhao Yan, Fan Qin, and Li Tong pages; updated Concealed Capability Timing, Rule Over Kinship Power, and Xun You to synthesis-v1. No settled contradiction found; transcript forms around 杜席/杜袭, 赵衍/赵俨, 婆卿/繁钦, 段威/段煨, 李爵/李傕, and 让场/穰城 remain source-scoped.
+Added source page for 汉纪 1022: Du Xi, Zhao Yan, and Fan Qin preserve themselves under Liu Biao in Jingzhou, Zhao Yan later chooses Cao Cao after the Xudu court position becomes legible, Zhao Yan and Li Tong turn a wife-side kinship plea into a law-over-private-ties case, Xun You's rejected Zhang Xiu advice sets up 汉纪 1023, and Duan Wei's order against Li Jue closes the episode. Created Du Xi, Zhao Yan, Fan Qin, and Li Tong pages; updated Concealed Capability Timing, Rule Over Kinship Power, and Xun You to synthesis-v1. No settled contradiction found; transcript forms around 杜席/杜袭, 赵衍/赵俨, 婆卿/繁钦, 段威/段煨, 李爵/李傕, and 让场/穰城 remain source-scoped.
 
 ## [2026-08-27] ingest | 越卖越贵的「山下有松们」，如何持续抢占轻奢包袋市场？
 
@@ -12940,15 +12940,15 @@ Added source page for the 声动早咖啡 episode on Chinese mid- to high-end ba
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1032丨对待叛徒，曹操为何仁慈？
 
-Added source page for Hanji 1032: Yuan Shao's post-Gongsun-Zan northern settlement, Tian Yu's advice that Xianyu Fu submit to Cao Cao's emperor-backed court, Wuhuan chanyu-seal politics around Tadun and Yan Rou, Cao Cao's Shequan operation against Sui Gu, and Cao's pardon and appointment of Wei Zhong after a prior Yanzhou-crisis flight. Created Wei Zhong, Shequan, Tian Yu, and Tadun pages; updated Guandu Campaign, Strategic Defector Incorporation, Xianyu Fu, and Yan Rou. No settled contradiction found; the transcript's "称帝后的袁绍" phrase is kept source-scoped because adjacent sources treat Yuan Shu, not Yuan Shao, as the usurping emperor.
+Added source page for 汉纪 1032: Yuan Shao's post-Gongsun-Zan northern settlement, Tian Yu's advice that Xianyu Fu submit to Cao Cao's emperor-backed court, Wuhuan chanyu-seal politics around Tadun and Yan Rou, Cao Cao's Shequan operation against Sui Gu, and Cao's pardon and appointment of Wei Zhong after a prior Yanzhou-crisis flight. Created Wei Zhong, Shequan, Tian Yu, and Tadun pages; updated Guandu Campaign, Strategic Defector Incorporation, Xianyu Fu, and Yan Rou. No settled contradiction found; the transcript's "称帝后的袁绍" phrase is kept source-scoped because adjacent sources treat Yuan Shu, not Yuan Shao, as the usurping emperor.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1033丨割据军阀袁术，最终吐血而亡？
 
-Added source page for Hanji 1033: Yuan Shu's final luxury-and-famine collapse, failed refuge with Chen Jian and Lei Bo, attempted title transfer toward Yuan Shao, Liu Bei and Zhu Ling's interception, Yuan Yin's remnant flight to Liu Xun, the Heirloom Imperial Seal's return to court, Yuan Shao's post-Gongsun-Zan title temptation, and the Ju Shou / Guo Tu / Shen Pei pre-Guandu debate. Created Chen Jian (Yuan Shu retainer), Lei Bo (Yuan Shu retainer), Geng Bao, Cui Yan, and Xu Qiu (Guangling late Han); updated Ju Shou, Guo Tu, Shen Pei, Yuan Yin, Liu Xun, Heirloom Imperial Seal, Post-Success Arrogance, Hierarchy-Aware Advice Framing, and Anti-Usurpation Coalition Pressure. No settled contradiction found; transcript variants around Zhu Ling, Yuan Tan, Xu Qiu, and Lei Bo remain source-scoped.
+Added source page for 汉纪 1033: Yuan Shu's final luxury-and-famine collapse, failed refuge with Chen Jian and Lei Bo, attempted title transfer toward Yuan Shao, Liu Bei and Zhu Ling's interception, Yuan Yin's remnant flight to Liu Xun, the Heirloom Imperial Seal's return to court, Yuan Shao's post-Gongsun-Zan title temptation, and the Ju Shou / Guo Tu / Shen Pei pre-Guandu debate. Created Chen Jian (Yuan Shu retainer), Lei Bo (Yuan Shu retainer), Geng Bao, Cui Yan, and Xu Qiu (Guangling late Han); updated Ju Shou, Guo Tu, Shen Pei, Yuan Yin, Liu Xun, Heirloom Imperial Seal, Post-Success Arrogance, Hierarchy-Aware Advice Framing, and Anti-Usurpation Coalition Pressure. No settled contradiction found; transcript variants around Zhu Ling, Yuan Tan, Xu Qiu, and Lei Bo remain source-scoped.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？
 
-Added source page for Hanji 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest, agriculture, and harassment strategy, Guo Tu and Shen Pei's flattering pro-war framing, Cao Cao and Xun Yu's diagnosis of Yuan's advisers and generals, and Cao's early deployments through 黎阳, 青州, the Yellow River line, and 官渡. Created Yan Liang, Wen Chou, Zang Ba, Liyang (Yellow River), and Hierarchy-Aware Advice Framing; updated Ju Shou, Guo Tu, Shen Pei, and Guandu Campaign. No settled contradiction found; the episode qualifies "Yuan lost because he ignored Ju Shou" by adding advice framing, internal factionalism, and Cao-side organizational comparison.
+Added source page for 汉纪 1034: Yuan Shao's pre-Guandu council, Ju Shou's rest, agriculture, and harassment strategy, Guo Tu and Shen Pei's flattering pro-war framing, Cao Cao and Xun Yu's diagnosis of Yuan's advisers and generals, and Cao's early deployments through 黎阳, 青州, the Yellow River line, and 官渡. Created Yan Liang, Wen Chou, Zang Ba, Liyang (Yellow River), and Hierarchy-Aware Advice Framing; updated Ju Shou, Guo Tu, Shen Pei, and Guandu Campaign. No settled contradiction found; the episode qualifies "Yuan lost because he ignored Ju Shou" by adding advice framing, internal factionalism, and Cao-side organizational comparison.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -12962,7 +12962,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？
 
-Added source page for Hanji 1024: Lü Bu's 198 CE pre-Xiapi decision field, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's rejected early-attack and abandoned inner-outer attrition plan, and Yuan Shu's still-uncertain rescue channel. Updated Lü Bu and Long-Term Achievement Discipline to synthesis-v1. No settled contradiction found; the source qualifies final-cause readings of Lü Bu's fall by moving the failure earlier to lost initiative, unstable trust, and weak self-command.
+Added source page for 汉纪 1024: Lü Bu's 198 CE pre-Xiapi decision field, Gao Shun and Zhang Liao's attack on Liu Bei, Xun You's attack-window advice to Cao Cao, Chen Gong's rejected early-attack and abandoned inner-outer attrition plan, and Yuan Shu's still-uncertain rescue channel. Updated Lü Bu and Long-Term Achievement Discipline to synthesis-v1. No settled contradiction found; the source qualifies final-cause readings of Lü Bu's fall by moving the failure earlier to lost initiative, unstable trust, and weak self-command.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -12998,7 +12998,7 @@ Ran lint after health passed. Identity validation passed. Deterministic checks f
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》894丨一场逃亡引发的大屠杀
 
-Added source page for Hanji 894: the 169 CE party-prohibition purge, Guo Tai's grief and guarded withdrawal into teaching, Zhang Jian's Hou Lan-triggered flight, Li Du and Mao Qin's non-arrest scene, Xizi Ran's route point, and the punishment of many helpers and relatives after Zhang's escape. Updated Zhang Jian, Guo Tai, Hou Lan, Fugitive Shelter Collateral Risk, Wangmen Touzhi, Party Prohibition Kinship Expansion, and Crisis Withdrawal Self-Protection; added Li Du, Mao Qin, and Xizi Ran. No settled contradiction found; the source backfills Hanji 895 and Hanji 896 rather than changing their later shelter and survival claims.
+Added source page for 汉纪 894: the 169 CE party-prohibition purge, Guo Tai's grief and guarded withdrawal into teaching, Zhang Jian's Hou Lan-triggered flight, Li Du and Mao Qin's non-arrest scene, Xizi Ran's route point, and the punishment of many helpers and relatives after Zhang's escape. Updated Zhang Jian, Guo Tai, Hou Lan, Fugitive Shelter Collateral Risk, Wangmen Touzhi, Party Prohibition Kinship Expansion, and Crisis Withdrawal Self-Protection; added Li Du, Mao Qin, and Xizi Ran. No settled contradiction found; the source backfills 汉纪 895 and 汉纪 896 rather than changing their later shelter and survival claims.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13006,7 +13006,7 @@ Ran lint after health and identity validation passed. Health scanned 14,936 wiki
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》893丨荣誉榜如何变成死亡名单？
 
-Added source page for Hanji 893: the 169 CE second party-prohibition setup, where a士人 honor list becomes a target list, Hou Lan uses Zhu Bi's accusation against Zhang Jian, Cao Jie frames party networks as rebellion to the young Emperor Ling, and Li Ying, Jing Yi, and Fan Pang choose death-facing or self-implicating responsibility. Created Li Ying, Fan Pang, Fan Pang's mother, Jing Yi, Zhu Bi, Wu Dao, Guo Yi, Reputation List as Persecution Target, and Party Network Treason Framing; updated Zhang Jian, Hou Lan, and Party Prohibition Kinship Expansion. No settled contradiction found; minor names in Cao Jie's broader accusation list remain source-scoped pending disambiguation.
+Added source page for 汉纪 893: the 169 CE second party-prohibition setup, where a士人 honor list becomes a target list, Hou Lan uses Zhu Bi's accusation against Zhang Jian, Cao Jie frames party networks as rebellion to the young Emperor Ling, and Li Ying, Jing Yi, and Fan Pang choose death-facing or self-implicating responsibility. Created Li Ying, Fan Pang, Fan Pang's mother, Jing Yi, Zhu Bi, Wu Dao, Guo Yi, Reputation List as Persecution Target, and Party Network Treason Framing; updated Zhang Jian, Hou Lan, and Party Prohibition Kinship Expansion. No settled contradiction found; minor names in Cao Jie's broader accusation list remain source-scoped pending disambiguation.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13026,11 +13026,11 @@ Ran health, identity validation, and lint. Health scanned 14,959 wiki pages with
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”
 
-Added source page for Hanji 1041: Cao Cao's pre-Guandu attack on Liu Bei, Guo Jia's timing support, Tian Feng's missed Xudu attack advice, Yuan Shao's failure to act, and the source-critical correction of Guan Yu's captured service under Cao Cao versus the Romance "关公约三事" story. Created Captive Submission with Residual Loyalty; migrated/updated Guan Yu, Romance of the Three Kingdoms, Sanguozhi, Fiction As Historical Evidence, and Tian Feng. No settled contradiction found; the Romance correction is treated as a source-tradition boundary and the host's "贵人" value-exchange lesson remains source-scoped.
+Added source page for 汉纪 1041: Cao Cao's pre-Guandu attack on Liu Bei, Guo Jia's timing support, Tian Feng's missed Xudu attack advice, Yuan Shao's failure to act, and the source-critical correction of Guan Yu's captured service under Cao Cao versus the Romance "关公约三事" story. Created Captive Submission with Residual Loyalty; migrated/updated Guan Yu, Romance of the Three Kingdoms, Sanguozhi, Fiction As Historical Evidence, and Tian Feng. No settled contradiction found; the Romance correction is treated as a source-tradition boundary and the host's "贵人" value-exchange lesson remains source-scoped.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》892丨修止语，古人有什么捷径？
 
-Added source page for Hanji 892: 修止语 as speech-restraint practice, Duan Jiong's Eastern Qiang pacification, Sima Guang's anti-extermination critique, root-cause frontier governance, and the pre-Hanji 893 party-prohibition honor-list field. Created [[DongqiangLateHan|东羌]] and updated Duan Jiong, Li Ying, Fan Pang, root-cause pacification, adversity silence discipline, and reputation-list synthesis. No settled contradiction found.
+Added source page for 汉纪 892: 修止语 as speech-restraint practice, Duan Jiong's Eastern Qiang pacification, Sima Guang's anti-extermination critique, root-cause frontier governance, and the pre-汉纪 893 party-prohibition honor-list field. Created [[DongqiangLateHan|东羌]] and updated Duan Jiong, Li Ying, Fan Pang, root-cause pacification, adversity silence discipline, and reputation-list synthesis. No settled contradiction found.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13058,7 +13058,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针
 
-Added source page for Hanji 891: parental repair after scolding or hitting, embodied parenting and the mother-as-family-anchor frame, 169 CE Three Excellencies churn, Liu Xiao's eunuch-favor appointment, and Duan Jiong's rejection of a surrender-first Qiang policy followed by silent night encirclement. Created parental repair/modeling concepts and disambiguated Feng Chan, Wenren Xi, Xu Xun, Liu Chong the minister, Liu Xiao, and Zhang Kai the Duan officer; updated Duan Jiong, Eastern Qiang, Tian Yan, Xia Yu, and Deceptive Surrender Lull. No settled contradiction found; Hanji 891 backfills the tactical predecessor to Hanji 892 while leaving the anti-extermination critique intact.
+Added source page for 汉纪 891: parental repair after scolding or hitting, embodied parenting and the mother-as-family-anchor frame, 169 CE Three Excellencies churn, Liu Xiao's eunuch-favor appointment, and Duan Jiong's rejection of a surrender-first Qiang policy followed by silent night encirclement. Created parental repair/modeling concepts and disambiguated Feng Chan, Wenren Xi, Xu Xun, Liu Chong the minister, Liu Xiao, and Zhang Kai the Duan officer; updated Duan Jiong, Eastern Qiang, Tian Yan, Xia Yu, and Deceptive Surrender Lull. No settled contradiction found; 汉纪 891 backfills the tactical predecessor to 汉纪 892 while leaving the anti-extermination critique intact.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13070,7 +13070,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》889丨为什么好人不长命，祸害遗千年？
 
-Added source page for Hanji 889: the moral-outcome mismatch after the failed anti-eunuch coup, Zhang Huan's refusal of a compromised marquisate, Emperor Ling's elevation of his birth-family Dong line, an omen-triggered memorial for Dou Wu and Chen Fan, and eunuch-blocked repair for Empress Dowager Dou. Created Moral Desert Political Outcome Gap and updated Zhang Huan's synthesis profile. No settled contradiction found; the source backfills Hanji 890's direct remonstrance setup while preserving transcript-normalization cautions.
+Added source page for 汉纪 889: the moral-outcome mismatch after the failed anti-eunuch coup, Zhang Huan's refusal of a compromised marquisate, Emperor Ling's elevation of his birth-family Dong line, an omen-triggered memorial for Dou Wu and Chen Fan, and eunuch-blocked repair for Empress Dowager Dou. Created Moral Desert Political Outcome Gap and updated Zhang Huan's synthesis profile. No settled contradiction found; the source backfills 汉纪 890's direct remonstrance setup while preserving transcript-normalization cautions.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13078,7 +13078,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》888丨乱世之中，致敬不怕死的人
 
-Added source page for Hanji 888: the 168 CE aftermath of the failed Dou Wu / Chen Fan anti-eunuch crisis, Ba Su's refusal to flee, Zhu Zhen's burial of Chen Fan and protection of Chen Yi, Hu Teng's burial of Dou Wu and protection of Dou Wu's young grandson, and eunuch-side rewards to Cao Jie, Wang Fu, Zhu Yu, and others. Created Ba Su, Zhu Zhen, Hu Teng, and Death-Facing Responsibility; updated Moral Desert Political Outcome Gap. No settled contradiction found; broad奸臣 outcome claims remain source-scoped and minor reward/helper names remain uncanonical pending stronger evidence.
+Added source page for 汉纪 888: the 168 CE aftermath of the failed Dou Wu / Chen Fan anti-eunuch crisis, Ba Su's refusal to flee, Zhu Zhen's burial of Chen Fan and protection of Chen Yi, Hu Teng's burial of Dou Wu and protection of Dou Wu's young grandson, and eunuch-side rewards to Cao Jie, Wang Fu, Zhu Yu, and others. Created Ba Su, Zhu Zhen, Hu Teng, and Death-Facing Responsibility; updated Moral Desert Political Outcome Gap. No settled contradiction found; broad奸臣 outcome claims remain source-scoped and minor reward/helper names remain uncanonical pending stronger evidence.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13086,7 +13086,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》887丨当猪队长碰上猪队友，结果太惨！
 
-Added source page for Hanji 887: the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, Chen Fan's palace intervention and death, eunuch-side forged authority and troop reversal through Zhang Huan's uninformed force, Dou Wu's suicide, Dou Miao's confinement, and the widened purge of kin, followers, students, old subordinates, and recommended officials. Updated Dou Wu, Chen Fan, Zhang Huan, Cao Jie, Wang Fu, Empress Dowager Dou Miao, Zero-Sum Conflict Hesitation Risk, Lethal Plan Leakage Risk, and Party Prohibition Kinship Expansion to synthesis-v1/current synthesis. No settled contradiction found; minor names remain source-scoped pending stronger disambiguation.
+Added source page for 汉纪 887: the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, Chen Fan's palace intervention and death, eunuch-side forged authority and troop reversal through Zhang Huan's uninformed force, Dou Wu's suicide, Dou Miao's confinement, and the widened purge of kin, followers, students, old subordinates, and recommended officials. Updated Dou Wu, Chen Fan, Zhang Huan, Cao Jie, Wang Fu, Empress Dowager Dou Miao, Zero-Sum Conflict Hesitation Risk, Lethal Plan Leakage Risk, and Party Prohibition Kinship Expansion to synthesis-v1/current synthesis. No settled contradiction found; minor names remain source-scoped pending stronger disambiguation.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13098,7 +13098,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》885丨生死关头，他请假休息？！
 
-Added source page for Hanji 885: the pre-leak decision window before the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, including Dou Miao's hesitation, Chen Fan's hard-line memorial, Liu Yu's omen warning, Shan Bing's arrest of Zheng Sa, Yin Xun and Shan Bing's requested arrests of Cao Jie and Wang Fu, and Dou Wu's September 7 leave-taking. Created disambiguated Liu Yu astrologer, Shan Bing, and Yin Xun pages; migrated Zheng Sa to synthesis-v1; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Hou Lan, Lethal Plan Leakage Risk, and Zero-Sum Conflict Hesitation Risk. No settled contradiction found; Liu Yu / 刘瑜 is kept distinct from Liu Yu / 刘虞.
+Added source page for 汉纪 885: the pre-leak decision window before the failed 168 CE Dou Wu / Chen Fan anti-eunuch coup, including Dou Miao's hesitation, Chen Fan's hard-line memorial, Liu Yu's omen warning, Shan Bing's arrest of Zheng Sa, Yin Xun and Shan Bing's requested arrests of Cao Jie and Wang Fu, and Dou Wu's September 7 leave-taking. Created disambiguated Liu Yu astrologer, Shan Bing, and Yin Xun pages; migrated Zheng Sa to synthesis-v1; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Hou Lan, Lethal Plan Leakage Risk, and Zero-Sum Conflict Hesitation Risk. No settled contradiction found; Liu Yu / 刘瑜 is kept distinct from Liu Yu / 刘虞.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13106,7 +13106,7 @@ Ran health, identity validation, and lint. Health passed across 15,002 wiki page
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》884丨职场除奸，要对谁先开刀？
 
-Added source page for Hanji 884: the 168 CE opening decision window before the Dou Wu / Chen Fan anti-eunuch crisis, including Dou Miao's reform patronage, palace proximity power around Zhao Rao, Cao Jie, and Wang Fu, Chen Fan's first removal advice, and the selective executions of Guan Ba and Su Kang. Created Guan Ba, Su Kang, Zhao Rao, Du Mi, and Palace Proximity Power pages; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Yin Xun, Liu Yu, and Li Ying. No settled contradiction found; transcript variants are normalized to canonical late-Han routes.
+Added source page for 汉纪 884: the 168 CE opening decision window before the Dou Wu / Chen Fan anti-eunuch crisis, including Dou Miao's reform patronage, palace proximity power around Zhao Rao, Cao Jie, and Wang Fu, Chen Fan's first removal advice, and the selective executions of Guan Ba and Su Kang. Created Guan Ba, Su Kang, Zhao Rao, Du Mi, and Palace Proximity Power pages; updated Dou Wu, Chen Fan, Empress Dowager Dou Miao, Cao Jie, Wang Fu, Yin Xun, Liu Yu, and Li Ying. No settled contradiction found; transcript variants are normalized to canonical late-Han routes.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13118,7 +13118,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》1045丨他是江东霸业的开创者，可惜死的太窝囊
 
-Added source page for Hanji 1045: Sun Ce's fatal hunting ambush by Xu Gong retainers, the deathbed seal handoff to Sun Quan, Zhang Zhao and Zhou Yu's stabilization of Jiangdong, and Li Tong's refusal of Yuan Shao's Runan recruitment. Created Sun Ce Assassination, Xu Gong, Wu Commandery, Runan Commandery, and Liu Pi pages; updated Sun Ce, Sun Quan, Zhang Zhao, Zhou Yu, Li Tong, Leader Personal Exposure, and Command Continuity Damage Control. No settled contradiction found; 刘璧 is normalized source-scoped to 刘辟 / Liu Pi, and the host's character-fate reading remains an interpretation rather than a complete causal biography.
+Added source page for 汉纪 1045: Sun Ce's fatal hunting ambush by Xu Gong retainers, the deathbed seal handoff to Sun Quan, Zhang Zhao and Zhou Yu's stabilization of Jiangdong, and Li Tong's refusal of Yuan Shao's Runan recruitment. Created Sun Ce Assassination, Xu Gong, Wu Commandery, Runan Commandery, and Liu Pi pages; updated Sun Ce, Sun Quan, Zhang Zhao, Zhou Yu, Li Tong, Leader Personal Exposure, and Command Continuity Damage Control. No settled contradiction found; 刘璧 is normalized source-scoped to 刘辟 / Liu Pi, and the host's character-fate reading remains an interpretation rather than a complete causal biography.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13130,7 +13130,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》883丨老板要反思：如何避免高官内讧？
 
-Added source page for Hanji 883: boundaryless kindness and measured strength, the 168 CE Eastern Qiang policy dispute between Duan Jiong and Zhang Huan, surrender versus hard suppression, Duan's anti-resettlement argument, and the host's force-plus-conciliation frontier-governance qualification. Updated Duan Jiong, Zhang Huan, Eastern Qiang, Root-Cause Pacification, and Boundaryless Kindness Trap. No settled contradiction found; 张焕 and 段炯 are normalized to canonical late-Han routes.
+Added source page for 汉纪 883: boundaryless kindness and measured strength, the 168 CE Eastern Qiang policy dispute between Duan Jiong and Zhang Huan, surrender versus hard suppression, Duan's anti-resettlement argument, and the host's force-plus-conciliation frontier-governance qualification. Updated Duan Jiong, Zhang Huan, Eastern Qiang, Root-Cause Pacification, and Boundaryless Kindness Trap. No settled contradiction found; 张焕 and 段炯 are normalized to canonical late-Han routes.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13142,7 +13142,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》881丨是谁在发战争横财？
 
-Added source page for Hanji 881: Duan Jiong's Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu military funding, Huangfu Gui / Zhang Huan conciliation contrast, and the source's war-finance access diagnosis around eunuch influence. Created Fengyishan Battle and Campaign Finance Access Incentive pages; migrated Xianling Qiang to synthesis-v1; updated Duan Jiong and Eastern Qiang. No settled contradiction found; the war-profiteering claim is kept as an incentive/access diagnosis rather than proof of named recipients or extracted sums.
+Added source page for 汉纪 881: Duan Jiong's Fengyishan victory over the Xianling Qiang, Dou Miao's interim reward and Zhongcangfu military funding, Huangfu Gui / Zhang Huan conciliation contrast, and the source's war-finance access diagnosis around eunuch influence. Created Fengyishan Battle and Campaign Finance Access Incentive pages; migrated Xianling Qiang to synthesis-v1; updated Duan Jiong and Eastern Qiang. No settled contradiction found; the war-profiteering claim is kept as an incentive/access diagnosis rather than proof of named recipients or extracted sums.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13150,7 +13150,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》879丨死在女人身上的昏庸男人
 
-Added source page for Hanji 879: Emperor Huan's final harem-status split between Tian Sheng and Dou Miao, Huan's childless death, Dou Miao's execution of Tian Sheng, and Dou Wu's role in selecting the twelve-year-old Liu Hong as successor. Created Tian Sheng, Palace Favorite Protection Fragility, and Controllable Child Accession pages; migrated Emperor Huan to synthesis-v1; updated Dou Miao and Dou Wu. No settled contradiction found; Liu Hong is normalized to Emperor Ling, and Liu Kai / Liu Chang lineage names remain source-scoped because existing routes point to unrelated modern people.
+Added source page for 汉纪 879: Emperor Huan's final harem-status split between Tian Sheng and Dou Miao, Huan's childless death, Dou Miao's execution of Tian Sheng, and Dou Wu's role in selecting the twelve-year-old Liu Hong as successor. Created Tian Sheng, Palace Favorite Protection Fragility, and Controllable Child Accession pages; migrated Emperor Huan to synthesis-v1; updated Dou Miao and Dou Wu. No settled contradiction found; Liu Hong is normalized to Emperor Ling, and Liu Kai / Liu Chang lineage names remain source-scoped because existing routes point to unrelated modern people.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13166,7 +13166,7 @@ Ran lint after health passed and identity validation found unique wiki identitie
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》878丨不受约束的权力，害人不浅
 
-Added source page for Hanji 878: Emperor Huan's forced marriage pressure on Yang Qiao and contrast with Liu Xiu / Song Hong, the Ba Commandery yellow-dragon auspicious-reporting case, Zhang Huan's 167 CE suppression of Xianling Qiang with eunuch-distorted reward, and Dong Zhuo's first langzhong appointment. Created Yang Qiao, Song Hong, Coerced Imperial Marriage, Military Reward Eunuch Gatekeeping, and Local Auspicious Omen Fabrication pages; updated Emperor Huan and Zhang Huan. No settled contradiction found; 张宦 and 先临羌 are normalized/source-scoped to established late-Han routes.
+Added source page for 汉纪 878: Emperor Huan's forced marriage pressure on Yang Qiao and contrast with Liu Xiu / Song Hong, the Ba Commandery yellow-dragon auspicious-reporting case, Zhang Huan's 167 CE suppression of Xianling Qiang with eunuch-distorted reward, and Dong Zhuo's first langzhong appointment. Created Yang Qiao, Song Hong, Coerced Imperial Marriage, Military Reward Eunuch Gatekeeping, and Local Auspicious Omen Fabrication pages; updated Emperor Huan and Zhang Huan. No settled contradiction found; 张宦 and 先临羌 are normalized/source-scoped to established late-Han routes.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13174,7 +13174,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》877丨他为何冷落救命恩人？
 
-Added source page for Hanji 877: the 167 CE Party Prohibition amnesty, permanent office-exclusion registry, Fan Pang's restrained visit to Huo Xu, his later low-visibility retreat in Runan, and Shi Bi's refusal to fabricate Pingyuan party names under Qingzhou pressure. Created Huo Xu, Shi Bi, Tacit Gratitude Restraint, Registry-Based Political Exclusion, and Accusation Quota Refusal pages; updated Fan Pang, index, overview, and log. No settled contradiction found; transcript variants are normalized to Fan Pang, Huo Xu, Shi Bi, and Runan.
+Added source page for 汉纪 877: the 167 CE Party Prohibition amnesty, permanent office-exclusion registry, Fan Pang's restrained visit to Huo Xu, his later low-visibility retreat in Runan, and Shi Bi's refusal to fabricate Pingyuan party names under Qingzhou pressure. Created Huo Xu, Shi Bi, Tacit Gratitude Restraint, Registry-Based Political Exclusion, and Accusation Quota Refusal pages; updated Fan Pang, index, overview, and log. No settled contradiction found; transcript variants are normalized to Fan Pang, Huo Xu, Shi Bi, and Runan.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13194,7 +13194,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》875丨离大谱！为何他以入狱为荣？
 
-Added source page for Hanji 875: the 166 CE first Party Prohibition reputation field, Huangfu Gui's shame at not being arrested, Du Mi's talent-recognition and public-duty critique, Dou Wu's clean-office profile, Zhang Huan's selective pacification of Southern Xiongnu and Wuhuan submitters, and Tanshihuai's rejected Han recognition. Created Huangfu Gui and Punishment as Moral Credential pages; migrated Tanshihuai and Scholar-Official Public Duty to synthesis-v1; updated Du Mi, Li Ying, Dou Wu, Zhang Huan, index, overview, and log. No settled contradiction found; transcript variants are normalized to Huangfu Gui, Li Ying, Zheng Xuan, Zhang Huan, Wuhuan, and Tanshihuai.
+Added source page for 汉纪 875: the 166 CE first Party Prohibition reputation field, Huangfu Gui's shame at not being arrested, Du Mi's talent-recognition and public-duty critique, Dou Wu's clean-office profile, Zhang Huan's selective pacification of Southern Xiongnu and Wuhuan submitters, and Tanshihuai's rejected Han recognition. Created Huangfu Gui and Punishment as Moral Credential pages; migrated Tanshihuai and Scholar-Official Public Duty to synthesis-v1; updated Du Mi, Li Ying, Dou Wu, Zhang Huan, index, overview, and log. No settled contradiction found; transcript variants are normalized to Huangfu Gui, Li Ying, Zheng Xuan, Zhang Huan, Wuhuan, and Tanshihuai.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13206,7 +13206,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-27] ingest | 《资治通鉴·汉纪》873丨他如何利用天象痛骂帝王？
 
-Added source page for Hanji 873: Xiang Kai's two memorials against Emperor Huan using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint as omen-coded criticism. Created Xiang Kai and Omen-Coded Remonstrance pages; updated Emperor Huan, index, overview, and log. No settled contradiction found; Liu Zhi, Chen Jin, Cai Yan, and Liu Yu remain source-scoped because this source gives limited disambiguating evidence and internal transcript variation.
+Added source page for 汉纪 873: Xiang Kai's two memorials against Emperor Huan using stars, disasters, Yellow River clarity, childlessness, eunuch favor, harsh punishment, and Buddhist-Daoist restraint as omen-coded criticism. Created Xiang Kai and Omen-Coded Remonstrance pages; updated Emperor Huan, index, overview, and log. No settled contradiction found; Liu Zhi, Chen Jin, Cai Yan, and Liu Yu remain source-scoped because this source gives limited disambiguating evidence and internal transcript variation.
 
 ## [2026-08-27] lint | Wiki health check
 
@@ -13342,7 +13342,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》836丨兄弟反目背后：儒者和奸臣的交锋
 
-Ingested Hanji 836 as a 151 CE backfill before Hanji 837-838. Created the source note, Liang Buyi, Ma Rong, Tian Ming, and Punitive Hair-Removal Humiliation pages; updated Liang Ji, Emperor Huan of Han, Yang Bing, Outer-Relative Court Power, Omen-Coded Remonstrance, Three-Refusals Integrity, index, and overview. No settled contradiction found; Liang Yin, Zhang Xin, Wu Xiong, Ma Da, Mao Kai, and brief frontier/personnel notices remain source-scoped.
+Ingested 汉纪 836 as a 151 CE backfill before 汉纪 837-838. Created the source note, Liang Buyi, Ma Rong, Tian Ming, and Punitive Hair-Removal Humiliation pages; updated Liang Ji, Emperor Huan of Han, Yang Bing, Outer-Relative Court Power, Omen-Coded Remonstrance, Three-Refusals Integrity, index, and overview. No settled contradiction found; Liang Yin, Zhang Xin, Wu Xiong, Ma Da, Mao Kai, and brief frontier/personnel notices remain source-scoped.
 
 ## [2026-08-28] ingest | 688. The Odyssey: Return of the King (Part 2)
 
@@ -13350,19 +13350,19 @@ Ingested The Rest Is History episode 688 as a close Odyssey homecoming retelling
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》837丨为人处世，为何不能心慈手软？
 
-Ingested Hanji 837 as the 151 CE Cui Shi Zhenglun and strict-lenient governance layer before Hanji 838. Created the source note, Cui Shi, Zhenglun (Cui Shi), and Situational Strict-Lenient Governance pages; updated Boundaryless Kindness Trap, index, and overview. No settled contradiction found; 崔石 was normalized to 崔寔, Rencheng Liu Chong remains source-scoped, and the Huang Qiong-Liang Ji notice is treated as the Hanji 838 preview.
+Ingested 汉纪 837 as the 151 CE Cui Shi Zhenglun and strict-lenient governance layer before 汉纪 838. Created the source note, Cui Shi, Zhenglun (Cui Shi), and Situational Strict-Lenient Governance pages; updated Boundaryless Kindness Trap, index, and overview. No settled contradiction found; 崔石 was normalized to 崔寔, Rencheng Liu Chong remains source-scoped, and the Huang Qiong-Liang Ji notice is treated as the 汉纪 838 preview.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》839丨你能做到问心无愧吗？
 
-Ingested Hanji 839 as the 153 CE Huan-era backfill. Created the source note plus Aluoduo, Later Cheshi Kingdom, Yan Xiang (Cheshi), Wuling Man, Conscience Through Duty, Taixue Collective Petition, and Funerary Privilege Abuse pages; updated Zhu Mu, Liu Tao, Ying Feng, Jizhou, Taixue, Recognition-Backed Frontier Diplomacy, and index. No settled contradiction found; 济州 is normalized to 冀州, 朱牧 to 朱穆, 刘桃 to 刘陶 / 刘桃, and 阎祥 is disambiguated from the existing 阎象 page.
+Ingested 汉纪 839 as the 153 CE Huan-era backfill. Created the source note plus Aluoduo, Later Cheshi Kingdom, Yan Xiang (Cheshi), Wuling Man, Conscience Through Duty, Taixue Collective Petition, and Funerary Privilege Abuse pages; updated Zhu Mu, Liu Tao, Ying Feng, Jizhou, Taixue, Recognition-Backed Frontier Diplomacy, and index. No settled contradiction found; 济州 is normalized to 冀州, 朱牧 to 朱穆, 刘桃 to 刘陶 / 刘桃, and 阎祥 is disambiguated from the existing 阎象 page.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》845丨从当代婚姻观聊古代的婚检制度
 
-Ingested Hanji 845 as the 159 CE pre-coup Liang Ying and imperial marriage-inspection layer. Created the source note, Empress Liang Ying, and Imperial Marriage Inspection pages; updated Emperor Huan, Liang Ji, Outer-Relative Court Power, Relationship Selection Agency, index, and overview. No settled contradiction found; the modern survey and "first recorded inspected empress" claim are source-scoped.
+Ingested 汉纪 845 as the 159 CE pre-coup Liang Ying and imperial marriage-inspection layer. Created the source note, Empress Liang Ying, and Imperial Marriage Inspection pages; updated Emperor Huan, Liang Ji, Outer-Relative Court Power, Relationship Selection Agency, index, and overview. No settled contradiction found; the modern survey and "first recorded inspected empress" claim are source-scoped.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》847丨女人变得好命，从懂得这俩字开始
 
-Ingested Hanji 847 as the 159 CE household, harem-placement, Xuan-trigger, and secret anti-Liang oath layer before Hanji 848. Created source note, Xuan, Bing Zun, and Relationship Selection Agency pages; updated Emperor Huan, Liang Ji, Sun Shou, Empress Deng, Tang Heng, Shan Chao, Five Marquises, Palace Proximity Power, Palace Coup Symbol Control, and Outer-Relative Court Power.
+Ingested 汉纪 847 as the 159 CE household, harem-placement, Xuan-trigger, and secret anti-Liang oath layer before 汉纪 848. Created source note, Xuan, Bing Zun, and Relationship Selection Agency pages; updated Emperor Huan, Liang Ji, Sun Shou, Empress Deng, Tang Heng, Shan Chao, Five Marquises, Palace Proximity Power, Palace Coup Symbol Control, and Outer-Relative Court Power.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》849丨苏轼自幼读的《范滂传》，究竟说的谁？
 
@@ -13378,7 +13378,7 @@ Added source page for a 160 CE Huan-era backfill on Li Gu's family disaster, Li 
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》855丨你有多无情，就有多强大
 
-Added source page for a 160-161 CE Huan-era backfill on boundary-strength framing, Liu Chong's Kuaiji governance, Guo Hong's obstruction and blame-shifting against Duan Jiong, Hu Hong's failed Qiang command, and Huangfu Gui's root-cause frontier diagnosis before Hanji 856. Created Guo Hong, Hu Hong, and Shendi Qiang; updated Liu Chong, Huangfu Gui, Duan Jiong, Xianling Qiang, Root-Cause Pacification, Humane Local Governance, Boundaryless Kindness Trap, overview, index, and generated synthesis. No settled contradiction found; 段颎 is normalized to 段熲, "梁州" is handled through the Liangzhou route, and the opening boundary lesson remains source-scoped.
+Added source page for a 160-161 CE Huan-era backfill on boundary-strength framing, Liu Chong's Kuaiji governance, Guo Hong's obstruction and blame-shifting against Duan Jiong, Hu Hong's failed Qiang command, and Huangfu Gui's root-cause frontier diagnosis before 汉纪 856. Created Guo Hong, Hu Hong, and Shendi Qiang; updated Liu Chong, Huangfu Gui, Duan Jiong, Xianling Qiang, Root-Cause Pacification, Humane Local Governance, Boundaryless Kindness Trap, overview, index, and generated synthesis. No settled contradiction found; 段颎 is normalized to 段熲, "梁州" is handled through the Liangzhou route, and the opening boundary lesson remains source-scoped.
 
 ## [2026-08-28] ingest | E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
 
@@ -13386,7 +13386,7 @@ Added source page for a 硅谷101 episode with Ying Bo on Moderna/Merck's InterP
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》1048丨许攸叛袁献计：官渡战局的惊天变数
 
-Added source page for the missing pre-Wuchao Guandu hinge: Cao Cao's supply crisis, Xun Yu's hold-fast counsel, Xun You's Han Meng convoy strike, Ju Shou's ignored protection warning, Xu You's rejected Xudu raid proposal, and Shen Pei's family-arrest trigger for Xu You's defection. Created Han Meng, Xu Huang (Cao general), Shi Huan, Jiang Qi, Crisis Persistence Counsel, and Rejected Counsel Defection Cascade; updated Guandu Campaign, Wuchao Raid, Xu You, Ju Shou, Shen Pei, Chunyu Qiong, Xun You, Supply Depot Decisive Strike, overview, and index. No settled contradiction found; 徐晃 is disambiguated from the existing 徐璜 eunuch page, and Hanji 1048 stops at the Wuchao night-march launch that Hanji 1049 resolves.
+Added source page for the missing pre-Wuchao Guandu hinge: Cao Cao's supply crisis, Xun Yu's hold-fast counsel, Xun You's Han Meng convoy strike, Ju Shou's ignored protection warning, Xu You's rejected Xudu raid proposal, and Shen Pei's family-arrest trigger for Xu You's defection. Created Han Meng, Xu Huang (Cao general), Shi Huan, Jiang Qi, Crisis Persistence Counsel, and Rejected Counsel Defection Cascade; updated Guandu Campaign, Wuchao Raid, Xu You, Ju Shou, Shen Pei, Chunyu Qiong, Xun You, Supply Depot Decisive Strike, overview, and index. No settled contradiction found; 徐晃 is disambiguated from the existing 徐璜 eunuch page, and 汉纪 1048 stops at the Wuchao night-march launch that 汉纪 1049 resolves.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》1046丨他凭什么被称作“三国隐藏最深的牛人”？
 
@@ -13394,7 +13394,7 @@ Added source page for a Jian'an 5 / 200 CE late-Han governance episode on Zhao Y
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》1050丨从曹操焚信学习宝贵的领导智慧
 
-Added source page for the Hanji 1050 episode on Cao Cao burning insider letters after Guandu, Tian Feng's execution after Yuan Shao's defeat, Liu Bang's correction after Lou Jing's warning, and Shen Pei's captured-sons suspicion. Created Post-Victory Amnesty Signal; updated Guandu Campaign, Tian Feng, Shen Pei, Feng Ji, overview, and index. No settled contradiction found; transcript forms 庞季/庞纪 are normalized to 逢纪, and 蒋义渠 is kept source-scoped rather than linked to the unrelated Jiang Yi page.
+Added source page for the 汉纪 1050 episode on Cao Cao burning insider letters after Guandu, Tian Feng's execution after Yuan Shao's defeat, Liu Bang's correction after Lou Jing's warning, and Shen Pei's captured-sons suspicion. Created Post-Victory Amnesty Signal; updated Guandu Campaign, Tian Feng, Shen Pei, Feng Ji, overview, and index. No settled contradiction found; transcript forms 庞季/庞纪 are normalized to 逢纪, and 蒋义渠 is kept source-scoped rather than linked to the unrelated Jiang Yi page.
 
 ## [2026-08-28] ingest | Selling Before Building: $1M ARR in Six Months
 
@@ -13418,7 +13418,7 @@ Added source page for a 164 CE Guo Tai mentorship episode on Meng Min's broken-v
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》863丨一把火烧出的“战斗力”
 
-Added source page for a 164 CE Huan-era backfill on Du Shang burning captured spoils to remobilize troops against Bu Yang and Pan Hong, Emperor Huan's southern-tour retinue burden, Hu Teng's Jingzhou discipline proposal, Yang Bing's warning against casual 郎 appointments, and Kou Rong's jealousy prelude before Hanji 864. Created Bu Yang, Pan Hong, Parental Expectation Shame, Spoils-Loss Mobilization, and Imperial Retinue Discipline pages; updated Du Shang, Yang Bing, Kou Rong, Hu Teng, and index. No settled contradiction found; 杜尚 is normalized to the existing 度尚 route, and the parenting opening remains source-scoped.
+Added source page for a 164 CE Huan-era backfill on Du Shang burning captured spoils to remobilize troops against Bu Yang and Pan Hong, Emperor Huan's southern-tour retinue burden, Hu Teng's Jingzhou discipline proposal, Yang Bing's warning against casual 郎 appointments, and Kou Rong's jealousy prelude before 汉纪 864. Created Bu Yang, Pan Hong, Parental Expectation Shame, Spoils-Loss Mobilization, and Imperial Retinue Discipline pages; updated Du Shang, Yang Bing, Kou Rong, Hu Teng, and index. No settled contradiction found; 杜尚 is normalized to the existing 度尚 route, and the parenting opening remains source-scoped.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》867丨无辜被泼脏水？他选择霸气回击
 
@@ -13426,7 +13426,7 @@ Added source page for the 165 CE late-Han backfill: Chen Qiu's Lingling defense 
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》870丨古代体制内，不干了没有退路
 
-Added source page for a 芮淇讲透资治通鉴 episode on Liu Kuan's humane local governance, Xun Shuang's harem-burden critique after a solar eclipse, Huangfu Gui's failed attempt to exit a frontier appointment, and Zhang Huan's recall under renewed frontier pressure. Created Hu Fang, Zhao Dian, Office Duty Exit Constraint, and Humane Local Governance pages; updated Liu Kuan, Xun Shuang, Emperor Huan, Zhang Huan, Huangfu Gui, and Untimely Extravagance. No settled contradiction found; Hanji 870 is kept as the pre-Hanji 871 setup layer, with "张宦" normalized to Zhang Huan and the opening self-reliance advice kept source-scoped.
+Added source page for a 芮淇讲透资治通鉴 episode on Liu Kuan's humane local governance, Xun Shuang's harem-burden critique after a solar eclipse, Huangfu Gui's failed attempt to exit a frontier appointment, and Zhang Huan's recall under renewed frontier pressure. Created Hu Fang, Zhao Dian, Office Duty Exit Constraint, and Humane Local Governance pages; updated Liu Kuan, Xun Shuang, Emperor Huan, Zhang Huan, Huangfu Gui, and Untimely Extravagance. No settled contradiction found; 汉纪 870 is kept as the pre-汉纪 871 setup layer, with "张宦" normalized to Zhang Huan and the opening self-reliance advice kept source-scoped.
 
 ## [2026-08-28] ingest | Essentials: Using Meditation to Focus, View Consciousness & Expand Your Mind | Dr. Sam Harris
 
@@ -13455,7 +13455,7 @@ Ran health, identity validation, and lint. Health scanned 15,306 wiki pages with
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》871丨惩恶扬善，为何反被诬陷入狱？
 
-Added source page for a 芮淇讲透资治通鉴 episode on the Ganling Zhou-Fang rivalry, Fan Pang and Cen Zhi as entrusted commandery aides, Taixue public opinion, and Cheng Jin/Liu Zhi's punishment after acting against protected offenders. Created Zhou Fu, Fang Zhi, Zong Zi, Cheng Jin, Cen Zhi, Zhang Fan of Wan, Zhang Mu, Zhao Jin, Liu Zhi of Taiyuan, and Qingyi Reputation Pressure pages; extended Fan Pang, Jia Biao, Guo Tai, Hou Lan, Eunuch Patronage Violence Shield, and Party Network Treason Framing. No settled contradiction found; Hanji 871 is kept as the immediate setup layer before Hanji 873-874's remonstrance and prison-death aftermath.
+Added source page for a 芮淇讲透资治通鉴 episode on the Ganling Zhou-Fang rivalry, Fan Pang and Cen Zhi as entrusted commandery aides, Taixue public opinion, and Cheng Jin/Liu Zhi's punishment after acting against protected offenders. Created Zhou Fu, Fang Zhi, Zong Zi, Cheng Jin, Cen Zhi, Zhang Fan of Wan, Zhang Mu, Zhao Jin, Liu Zhi of Taiyuan, and Qingyi Reputation Pressure pages; extended Fan Pang, Jia Biao, Guo Tai, Hou Lan, Eunuch Patronage Violence Shield, and Party Network Treason Framing. No settled contradiction found; 汉纪 871 is kept as the immediate setup layer before 汉纪 873-874's remonstrance and prison-death aftermath.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13483,7 +13483,7 @@ Ran health, identity validation, and lint. Health scanned 15,325 wiki pages with
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》868丨赢了也是输家？东汉后宫争艳记
 
-Added source page for Hanji 868: Wang Chang's Nanyang governance reversal after Zhang Chang's advice, the per-mu land-tax notice and chronicle-policy compression issue, Luoyang earthquake and Liu Mao appointment context, and Emperor Huan's harem sequence from Empress Deng and Guo Guiren through Tian Sheng, Dou Miao, and Dou Wu's rise. Created Wang Chang (Shumao), Zhang Chang (Nanyang), Empress Deng, Guo Guiren, Per-Mu Land Taxation, and Chronicle Policy Compression pages; updated Emperor Huan, Dou Miao, Dou Wu, Tian Sheng, Ying Feng, Chen Fan, Liu Mao, Humane Local Governance, and Palace Favorite Protection Fragility. No settled contradiction found; 王畅 is disambiguated from 王昌, 田圣 is normalized to the existing Tian Sheng route, and the tax/disaster notices remain source-scoped.
+Added source page for 汉纪 868: Wang Chang's Nanyang governance reversal after Zhang Chang's advice, the per-mu land-tax notice and chronicle-policy compression issue, Luoyang earthquake and Liu Mao appointment context, and Emperor Huan's harem sequence from Empress Deng and Guo Guiren through Tian Sheng, Dou Miao, and Dou Wu's rise. Created Wang Chang (Shumao), Zhang Chang (Nanyang), Empress Deng, Guo Guiren, Per-Mu Land Taxation, and Chronicle Policy Compression pages; updated Emperor Huan, Dou Miao, Dou Wu, Tian Sheng, Ying Feng, Chen Fan, Liu Mao, Humane Local Governance, and Palace Favorite Protection Fragility. No settled contradiction found; 王畅 is disambiguated from 王昌, 田圣 is normalized to the existing Tian Sheng route, and the tax/disaster notices remain source-scoped.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13643,7 +13643,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？
 
-Ingested Hanji 848 as the 159 CE anti-Liang coup layer. Created source note, Ju Yuan, Sun Shou, Palace Coup Symbol Control, and Outer-Relative Court Power pages; updated Liang Ji, Emperor Huan, Five Marquises, named eunuch members, Empress Deng, Huang Qiong, Palace Proximity Power, and Boundaryless Kindness Trap.
+Ingested 汉纪 848 as the 159 CE anti-Liang coup layer. Created source note, Ju Yuan, Sun Shou, Palace Coup Symbol Control, and Outer-Relative Court Power pages; updated Liang Ji, Emperor Huan, Five Marquises, named eunuch members, Empress Deng, Huang Qiong, Palace Proximity Power, and Boundaryless Kindness Trap.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13662,7 +13662,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》846丨“跋扈将军”冰山一角的犯罪记录
 
-Ingested Hanji 846 as the pre-coup Liang Ji crime-record layer. Created the source note, Wu Shu, Hao Meng (Dong Commandery), Yuan Zhu, Hu Wu (Taiyuan), Hao Jie, Geng Cheng, Cui Qi, and Retaliatory Political Terror pages; updated Liang Ji, Outer-Relative Court Power, index, and overview. No settled contradiction found; the source does not resolve the existing Hanji 847-848 Xuan trigger tension and disambiguates 郝猛 from 郝萌 and Taiyuan 胡武 from Zhang Chu 胡武.
+Ingested 汉纪 846 as the pre-coup Liang Ji crime-record layer. Created the source note, Wu Shu, Hao Meng (Dong Commandery), Yuan Zhu, Hu Wu (Taiyuan), Hao Jie, Geng Cheng, Cui Qi, and Retaliatory Political Terror pages; updated Liang Ji, Outer-Relative Court Power, index, and overview. No settled contradiction found; the source does not resolve the existing 汉纪 847-848 Xuan trigger tension and disambiguates 郝猛 from 郝萌 and Taiyuan 胡武 from Zhang Chu 胡武.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13670,7 +13670,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》844丨如何立于不败之地？
 
-Ingested Hanji 844 as the 158 CE Zhang Huan frontier and Liang Ji pressure layer. Created the source note, Chen Gui (Duliao general), Zhong Hao, and Che'er Chanyu pages; updated Zhang Huan, Emperor Huan, Liang Ji, Southern Xiongnu, Wuhuan, Strategic Emotion Concealment, Coalition Fracture Exploitation, index, and overview. No settled contradiction found; ASR names were normalized to 张奂, 陈龟, 种暠, 车儿, 左谷蠡王, and 赤坑.
+Ingested 汉纪 844 as the 158 CE Zhang Huan frontier and Liang Ji pressure layer. Created the source note, Chen Gui (Duliao general), Zhong Hao, and Che'er Chanyu pages; updated Zhang Huan, Emperor Huan, Liang Ji, Southern Xiongnu, Wuhuan, Strategic Emotion Concealment, Coalition Fracture Exploitation, index, and overview. No settled contradiction found; ASR names were normalized to 张奂, 陈龟, 种暠, 车儿, 左谷蠡王, and 赤坑.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13686,7 +13686,7 @@ Ran health, identity validation, and lint. Health scanned 15,555 wiki pages with
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》842丨什么是好官？他为百姓敢拼命！
 
-Ingested Hanji 842 as the 156 CE Huan-era layer. Created the source note, Han Shao, Zhong Hao (Yingchuan), Xun Shu, Yingchuan Four Magistrates, and Risk-Bearing Relief Governance pages; updated Tanshihuai, Li Ying, Duan Jiong, Chen Shi, Humane Local Governance, Appointment Quality as State Capacity, index, and overview. No settled contradiction found; 谭石槐 was normalized to 檀石槐, 段炯 to 段熲, and 钟皓 was kept distinct from the existing 种暠 route.
+Ingested 汉纪 842 as the 156 CE Huan-era layer. Created the source note, Han Shao, Zhong Hao (Yingchuan), Xun Shu, Yingchuan Four Magistrates, and Risk-Bearing Relief Governance pages; updated Tanshihuai, Li Ying, Duan Jiong, Chen Shi, Humane Local Governance, Appointment Quality as State Capacity, index, and overview. No settled contradiction found; 谭石槐 was normalized to 檀石槐, 段炯 to 段熲, and 钟皓 was kept distinct from the existing 种暠 route.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13694,7 +13694,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》841丨绝不手软！揭秘战争的残酷真相
 
-Ingested Hanji 841 as the 155 CE frontier-war layer before Hanji 842. Created the source note, Seasonal War Logistics, Reproductive Attrition Strategy, and Gift Refusal As Authority pages; updated Zhang Huan, Han Wudi, Xiongnu, Nomadic Cavalry Raiding Asymmetry, index, and overview. No settled contradiction found; the Han Wudi reproductive-attrition interpretation remains source-scoped, and 黄腐归, 张焕, 段九, and 梁州三民 were normalized to 皇甫规, 张奂, 段熲, and the Liangzhou "三明" label.
+Ingested 汉纪 841 as the 155 CE frontier-war layer before 汉纪 842. Created the source note, Seasonal War Logistics, Reproductive Attrition Strategy, and Gift Refusal As Authority pages; updated Zhang Huan, Han Wudi, Xiongnu, Nomadic Cavalry Raiding Asymmetry, index, and overview. No settled contradiction found; the Han Wudi reproductive-attrition interpretation remains source-scoped, and 黄腐归, 张焕, 段九, and 梁州三民 were normalized to 皇甫规, 张奂, 段熲, and the Liangzhou "三明" label.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13702,7 +13702,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》840丨眼光长远的人有多厉害？
 
-Ingested Hanji 840 as the 154-155 CE Huan-era backfill. Created the source note; updated Zhang Huan, Liu Tao, Eastern Qiang, Gift Refusal As Authority, Coalition Fracture Exploitation, index, and overview. No settled contradiction found; 张焕/张宦 is normalized to 张奂 and 刘桃 to the existing 刘陶 / 刘桃 route.
+Ingested 汉纪 840 as the 154-155 CE Huan-era backfill. Created the source note; updated Zhang Huan, Liu Tao, Eastern Qiang, Gift Refusal As Authority, Coalition Fracture Exploitation, index, and overview. No settled contradiction found; 张焕/张宦 is normalized to 张奂 and 刘桃 to the existing 刘陶 / 刘桃 route.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13738,7 +13738,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》835丨东汉第一权臣，为何要跪他？
 
-Ingested Hanji 835 as a 151 CE Huan-era court-audience backfill. Created the source note, Zhang Ling, and Emperor Zhi pages; updated Liang Ji, Outer-Relative Court Power, High-Status Law-Enforcement Signal, index, and overview. No settled contradiction found; the episode's jealousy, Kangxi counterfactual, and withdrawal lessons are kept source-scoped.
+Ingested 汉纪 835 as a 151 CE Huan-era court-audience backfill. Created the source note, Zhang Ling, and Emperor Zhi pages; updated Liang Ji, Outer-Relative Court Power, High-Status Law-Enforcement Signal, index, and overview. No settled contradiction found; the episode's jealousy, Kangxi counterfactual, and withdrawal lessons are kept source-scoped.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13746,7 +13746,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》834丨历史告诉你：小人为何长戚戚？
 
-Ingested Hanji 834 as the 150-151 CE Liang Ji warning and proxy-enforcement backfill. Created the source note, Yan Du, and Corrective Advice Nonconversion pages; updated Liang Ji, Zhu Mu, Chen Fan, Outer-Relative Court Power, High-Status Law-Enforcement Signal, index, and overview. No settled contradiction found; 梁继, 陈藩, 严赌, 张灵, and 汉治帝 were normalized to 梁冀, 陈蕃, 延笃, 张陵, and 汉质帝.
+Ingested 汉纪 834 as the 150-151 CE Liang Ji warning and proxy-enforcement backfill. Created the source note, Yan Du, and Corrective Advice Nonconversion pages; updated Liang Ji, Zhu Mu, Chen Fan, Outer-Relative Court Power, High-Status Law-Enforcement Signal, index, and overview. No settled contradiction found; 梁继, 陈藩, 严赌, 张灵, and 汉治帝 were normalized to 梁冀, 陈蕃, 延笃, 张陵, and 汉质帝.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13754,7 +13754,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-28] ingest | 《资治通鉴·汉纪》833丨贪官能有多离谱？看完大跌眼镜！
 
-Ingested Hanji 833 as the 150 CE Liang Ji privilege-and-extraction backfill. Created the source note, Qin Gong, and Sun Fen pages; updated Liang Ji, Sun Shou, Outer-Relative Court Power, Retaliatory Political Terror, index, and overview. No settled contradiction found; 梁继 is normalized to 梁冀, while 秦功 spelling, Liang dowager details, exact income and wealth figures, and rabbit-park legal wording remain source-scoped.
+Ingested 汉纪 833 as the 150 CE Liang Ji privilege-and-extraction backfill. Created the source note, Qin Gong, and Sun Fen pages; updated Liang Ji, Sun Shou, Outer-Relative Court Power, Retaliatory Political Terror, index, and overview. No settled contradiction found; 梁继 is normalized to 梁冀, while 秦功 spelling, Liang dowager details, exact income and wealth figures, and rabbit-park legal wording remain source-scoped.
 
 ## [2026-08-28] lint | Wiki health check
 
@@ -13810,7 +13810,7 @@ Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun'
 
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》815丨可悲！古代重臣的家风之殇！
 
-Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun, Zhang Heng's Xiaolian and local-official critique, Li Gu's Song E removal and anonymous retaliation, Pang Can's household scandal and dismissal, and the Xianbei leader Qizhijian's death. Created the source note plus `PangCanLateHan`, `DuanGongchengLateHan`, `SongELateHan`, `ZhuLiangLuoyangLateHan`, `ShiYanLateHan`, `QizhijianXianbei`, and `HouseholdMisconductPoliticalLiability`; updated `ZhangHengLateHan`, `LiGuLateHan`, `MaRongLateHan`, `EmperorShunOfHan`, `AppointmentQualityAsStateCapacity`, `AnonymousSlanderRetaliation`, `index`, and `overview`. No settled contradiction found; Song E is promoted from prior source-scoped caution only where Hanji 815 makes her causal, Pang Can is promoted from source-scoped status because Hanji 815 makes him central, and 朱良 is disambiguated from existing 祝良.
+Ingested the 2026-07-11 芮淇讲透资治通鉴 episode on 133 CE Emperor Shun, Zhang Heng's Xiaolian and local-official critique, Li Gu's Song E removal and anonymous retaliation, Pang Can's household scandal and dismissal, and the Xianbei leader Qizhijian's death. Created the source note plus `PangCanLateHan`, `DuanGongchengLateHan`, `SongELateHan`, `ZhuLiangLuoyangLateHan`, `ShiYanLateHan`, `QizhijianXianbei`, and `HouseholdMisconductPoliticalLiability`; updated `ZhangHengLateHan`, `LiGuLateHan`, `MaRongLateHan`, `EmperorShunOfHan`, `AppointmentQualityAsStateCapacity`, `AnonymousSlanderRetaliation`, `index`, and `overview`. No settled contradiction found; Song E is promoted from prior source-scoped caution only where 汉纪 815 makes her causal, Pang Can is promoted from source-scoped status because 汉纪 815 makes him central, and 朱良 is disambiguated from existing 祝良.
 
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》1053丨跟着孙权，学习如何整顿集团高管
 
@@ -14074,11 +14074,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》799丨东汉名臣杨震，如何拒绝走后门？
 
-Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 123 CE Emperor An, Zhang Dang and Chen Zhong's Western Regions retention argument, Ban Yong's Liuzhong appointment, Yang Zhen's refusal of Geng Bao and Yan Xian's appointment requests, Wang Sheng's mansion, and Zhou Xie/Feng Liang's refusal to serve. Created the source note plus `ZhangDangLateHan`, `ChenZhongLateHan`, `ZhouXieLateHan`, and `FengLiangLateHan`; updated `YangZhenLateHan`, `EmperorAnOfHan`, `BanYongLateHan`, `GengBaoGrandGeneralLateHan`, `LiRunLateHan`, `WangShengPalaceActorLateHan`, `FanFengEunuchLateHan`, `ZhouGuangLateHan`, `XieYunLateHan`, `YanXianLateHan`, `ZhangQiaoLateHan`, `HexiFourCommanderiesLateHan`, `PrivateFavorAppointmentErosion`, `PrincipledOfficeRefusal`, `StrategicFrontierAbandonment`, `index`, and `overview`. No settled contradiction found; the episode is treated as a Hanji 799 backfill before Hanji 800, while Western Regions micro-polities, minor officeholders, and the opening circle/self-improvement advice remain source-scoped.
+Ingested the 2026-07-08 芮淇讲透资治通鉴 episode on 123 CE Emperor An, Zhang Dang and Chen Zhong's Western Regions retention argument, Ban Yong's Liuzhong appointment, Yang Zhen's refusal of Geng Bao and Yan Xian's appointment requests, Wang Sheng's mansion, and Zhou Xie/Feng Liang's refusal to serve. Created the source note plus `ZhangDangLateHan`, `ChenZhongLateHan`, `ZhouXieLateHan`, and `FengLiangLateHan`; updated `YangZhenLateHan`, `EmperorAnOfHan`, `BanYongLateHan`, `GengBaoGrandGeneralLateHan`, `LiRunLateHan`, `WangShengPalaceActorLateHan`, `FanFengEunuchLateHan`, `ZhouGuangLateHan`, `XieYunLateHan`, `YanXianLateHan`, `ZhangQiaoLateHan`, `HexiFourCommanderiesLateHan`, `PrivateFavorAppointmentErosion`, `PrincipledOfficeRefusal`, `StrategicFrontierAbandonment`, `index`, and `overview`. No settled contradiction found; the episode is treated as a 汉纪 799 backfill before 汉纪 800, while Western Regions micro-polities, minor officeholders, and the opening circle/self-improvement advice remain source-scoped.
 
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》808丨他究竟是名家还是骗子？
 
-Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on Fan Ying's forced summons, repeated office refusal, Sima Guang's reclusion-authenticity judgment, and ruler self-examination in talent recruitment. Created the source note plus `FanYingLateHan`, `ReclusionAuthenticityAssessment`, and `TalentSummonsRulerSelfExamination`; updated `EmperorShunOfHan`, `ScholarOfficialPublicDuty`, `index`, `overview`, and the Hanji 809 source note. No settled contradiction found; the source's Shun/Yongjian chronology and occasional Emperor An wording are preserved as source-scoped label tension, while Wang Yi and Zhang Kai remain source-scoped due name-collision risk.
+Ingested the 2026-07-10 芮淇讲透资治通鉴 episode on Fan Ying's forced summons, repeated office refusal, Sima Guang's reclusion-authenticity judgment, and ruler self-examination in talent recruitment. Created the source note plus `FanYingLateHan`, `ReclusionAuthenticityAssessment`, and `TalentSummonsRulerSelfExamination`; updated `EmperorShunOfHan`, `ScholarOfficialPublicDuty`, `index`, `overview`, and the 汉纪 809 source note. No settled contradiction found; the source's Shun/Yongjian chronology and occasional Emperor An wording are preserved as source-scoped label tension, while Wang Yi and Zhang Kai remain source-scoped due name-collision risk.
 
 ## [2026-08-29] ingest | 《资治通鉴·汉纪》807丨班超之子为何会含冤入狱？
 
@@ -14215,7 +14215,7 @@ Ingested the 2026-06-29 芮淇讲透资治通鉴 episode on Zhangdi's court medi
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》757丨人生想少走弯路？先找准定位！
 
-Ingested the 2026-06-30 芮淇讲透资治通鉴 episode backfilling the 86-87 CE Zhangdi layer. Created the source note plus `GuoGongEasternHanJurist`, `FuYuEasternHan`, `ZhangYuEasternHan`, `MiWuQiangLeader`, `CareerPositioningThroughFit`, `SingleAuthorInstitutionalCodification`, `BreachOfSurrenderTrust`, and `OmenSkepticismRemonstrance`; updated `EmperorZhangOfHan`, `CaoBaoEasternHan`, `HeChangEasternHan`, `MiTangQiangLeader`, `FrontierTrustThroughProtection`, `OverextendedFrontierExpedition`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source mainly adds role-fit, ritual-commission, Qiang-frontier trust, and omen-skepticism layers before Hanji 758.
+Ingested the 2026-06-30 芮淇讲透资治通鉴 episode backfilling the 86-87 CE Zhangdi layer. Created the source note plus `GuoGongEasternHanJurist`, `FuYuEasternHan`, `ZhangYuEasternHan`, `MiWuQiangLeader`, `CareerPositioningThroughFit`, `SingleAuthorInstitutionalCodification`, `BreachOfSurrenderTrust`, and `OmenSkepticismRemonstrance`; updated `EmperorZhangOfHan`, `CaoBaoEasternHan`, `HeChangEasternHan`, `MiTangQiangLeader`, `FrontierTrustThroughProtection`, `OverextendedFrontierExpedition`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the source mainly adds role-fit, ritual-commission, Qiang-frontier trust, and omen-skepticism layers before 汉纪 758.
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》758丨所有高情商，背后都是分寸感
 
@@ -14259,7 +14259,7 @@ Ingested the 2026-07-02 芮淇讲透资治通鉴 episode on Ban Chao sending Gan
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》774丨班超接班人如何搞乱西域？
 
-Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on Ban Chao's late Western Regions recall, Ban Zhao's petition to Emperor He, Ban Chao's return to Luoyang and death, Ren Shang's hollow handoff consultation, and the light-touch frontier governance advice that Hanji 779 later shows being ignored. Created the source note plus `LightTouchFrontierGovernance`; updated `BanChaoEasternHan`, `RenShangLateHan`, `BanZhaoLateHan`, `EmperorHeOfHan`, `BanYongLateHan`, and `index`. No settled contradiction found; Ren Shang astrology commentary and the Deng Yu descendant teaser remain source-scoped.
+Ingested the 2026-07-03 芮淇讲透资治通鉴 episode on Ban Chao's late Western Regions recall, Ban Zhao's petition to Emperor He, Ban Chao's return to Luoyang and death, Ren Shang's hollow handoff consultation, and the light-touch frontier governance advice that 汉纪 779 later shows being ignored. Created the source note plus `LightTouchFrontierGovernance`; updated `BanChaoEasternHan`, `RenShangLateHan`, `BanZhaoLateHan`, `EmperorHeOfHan`, `BanYongLateHan`, and `index`. No settled contradiction found; Ren Shang astrology commentary and the Deng Yu descendant teaser remain source-scoped.
 
 ## [2026-08-30] ingest | AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie
 
@@ -14295,7 +14295,7 @@ Ran lint without saving a new lint-report.md. Health, identity, deterministic, a
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》777丨比肩武则天，碾压慈禧，这个女人了不得！
 
-Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on Emperor He's death, Liu Long/Emperor Shang's infant accession under Empress Dowager Deng, Deng's restrained verification of palace theft and Ji Cheng's wugu accusation, cautious Northern Xiongnu handling, and Wang Huan's Luoyang governance and posthumous public mourning. Created the source note plus `EmperorHeOfHan` and `PalaceAccusationVerification`; updated `EmpressDowagerDengLateHan`, `EmperorShangOfHan`, `WangHuanLateHan`, `HumaneLocalGovernance`, `RegencyUnderCompoundCrisis`, `FemalePowerCenterPoliticalCapacity`, `QiuXiangLateHan`, Hanji 862's source note, `index`, and `overview`. No settled contradiction found; Wang Huan's visible Chinese form was corrected from 王奂 to 王涣, while Liu Sheng, Ji Cheng, Wang Shi, and the Northern Xiongnu envoy/prince remain source-scoped.
+Ingested the 2026-07-04 芮淇讲透资治通鉴 episode on Emperor He's death, Liu Long/Emperor Shang's infant accession under Empress Dowager Deng, Deng's restrained verification of palace theft and Ji Cheng's wugu accusation, cautious Northern Xiongnu handling, and Wang Huan's Luoyang governance and posthumous public mourning. Created the source note plus `EmperorHeOfHan` and `PalaceAccusationVerification`; updated `EmpressDowagerDengLateHan`, `EmperorShangOfHan`, `WangHuanLateHan`, `HumaneLocalGovernance`, `RegencyUnderCompoundCrisis`, `FemalePowerCenterPoliticalCapacity`, `QiuXiangLateHan`, 汉纪 862's source note, `index`, and `overview`. No settled contradiction found; Wang Huan's visible Chinese form was corrected from 王奂 to 王涣, while Liu Sheng, Ji Cheng, Wang Shi, and the Northern Xiongnu envoy/prince remain source-scoped.
 
 ## [2026-08-30] ingest | 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
 
@@ -14335,7 +14335,7 @@ Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on Yu Xu's Wudu appoint
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》787丨传奇皇后阎姬是如何一步步上位的？
 
-Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on Yan Chang's preparation of Yan Ji for palace selection, her 114-115 CE rise to empress under Emperor An and Empress Dowager Deng, Eastern Han great-family marriage barriers, Liu Bao's birth-mother danger, and Pang Can/Sima Jun's Qiang-front campaign failure. Created the source note plus `YanChangLateHan` and `PalaceMarriageFamilyMobility`; updated `EmpressDowagerYanLateHan`, `PangCanLateHan`, `index`, and `overview`. No settled contradiction found; the Pang Can/Sima Jun/Du Jigong branch overlaps Hanji 789's 116-117 CE account and is kept as source-scoped chronology compression, while Li Shi, Ban Xiong, Yin Jiu, Chen Xing, Luo Heng, Liang Jin, Zhong Guang, and exact frontier place names remain source-scoped.
+Ingested the 2026-07-06 芮淇讲透资治通鉴 episode on Yan Chang's preparation of Yan Ji for palace selection, her 114-115 CE rise to empress under Emperor An and Empress Dowager Deng, Eastern Han great-family marriage barriers, Liu Bao's birth-mother danger, and Pang Can/Sima Jun's Qiang-front campaign failure. Created the source note plus `YanChangLateHan` and `PalaceMarriageFamilyMobility`; updated `EmpressDowagerYanLateHan`, `PangCanLateHan`, `index`, and `overview`. No settled contradiction found; the Pang Can/Sima Jun/Du Jigong branch overlaps 汉纪 789's 116-117 CE account and is kept as source-scoped chronology compression, while Li Shi, Ban Xiong, Yin Jiu, Chen Xing, Luo Heng, Liang Jin, Zhong Guang, and exact frontier place names remain source-scoped.
 
 ## [2026-08-30] lint | Wiki health check
 
@@ -14367,7 +14367,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》785丨东汉邓绥：掌控欲望才能笑到最后
 
-Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 110-111 CE Deng-regency disaster pressure, Zhang Bailu's coastal rebellion, Fa Xiong's amnesty-timed pacification, Deng's constrained maternal mourning, Ban Zhao's advice on Deng-family resignation, fengchaoqing retained court access, and Qiang-frontier forced relocation costs. Created the source note plus `BanZhaoLateHan`, `FaXiongLateHan`, `ZhangBailuLateHan`, and `AmnestyTimedPacification`; updated `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `DengZhiLateHan`, `CoerciveFrontierRelocationBackfire`, `RegencyUnderCompoundCrisis`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Zhang Bailu/Bolu spelling and the Liaodong endpoint are treated as source-scoped across Hanji 785 and Hanji 786, while minor officials, disaster notices, Buyeo, Ye-Maek, Lelang, and Xuantu remain source-scoped.
+Ingested the 2026-07-05 芮淇讲透资治通鉴 episode on 110-111 CE Deng-regency disaster pressure, Zhang Bailu's coastal rebellion, Fa Xiong's amnesty-timed pacification, Deng's constrained maternal mourning, Ban Zhao's advice on Deng-family resignation, fengchaoqing retained court access, and Qiang-frontier forced relocation costs. Created the source note plus `BanZhaoLateHan`, `FaXiongLateHan`, `ZhangBailuLateHan`, and `AmnestyTimedPacification`; updated `EmpressDowagerDengLateHan`, `DengFamilyAnEraLateHan`, `DengZhiLateHan`, `CoerciveFrontierRelocationBackfire`, `RegencyUnderCompoundCrisis`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Zhang Bailu/Bolu spelling and the Liaodong endpoint are treated as source-scoped across 汉纪 785 and 汉纪 786, while minor officials, disaster notices, Buyeo, Ye-Maek, Lelang, and Xuantu remain source-scoped.
 
 ## [2026-08-30] lint | Wiki health check
 
@@ -14467,7 +14467,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》1060丨害死袁绍后，曹操为何转头支援他的长子？
 
-Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Xin Pi persuading Cao Cao to support Yuan Tan, treat Yuan Tan and Yuan Shang's exhaustion as a Hebei intervention window, use an attack on Ye to force Yuan Shang's dilemma, and choose the Yuan-family opening over wealthy Jingzhou. Created the source note plus `DisorderCollapseExploitation`; updated `YuanTan`, `YuanShang`, `XinPiLateHan`, `PressureReleaseInfightingStrategy`, `PostVictoryThreatSequencing`, `MutualExhaustionThirdPartyGain`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Hanji 1059's Xun You emphasis and Hanji 1060's Xin Pi emphasis are treated as complementary decision-room layers, while the easy-victory forecast remains source-scoped.
+Ingested the 2026-08-29 芮淇讲透资治通鉴 episode on Xin Pi persuading Cao Cao to support Yuan Tan, treat Yuan Tan and Yuan Shang's exhaustion as a Hebei intervention window, use an attack on Ye to force Yuan Shang's dilemma, and choose the Yuan-family opening over wealthy Jingzhou. Created the source note plus `DisorderCollapseExploitation`; updated `YuanTan`, `YuanShang`, `XinPiLateHan`, `PressureReleaseInfightingStrategy`, `PostVictoryThreatSequencing`, `MutualExhaustionThirdPartyGain`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 汉纪 1059's Xun You emphasis and 汉纪 1060's Xin Pi emphasis are treated as complementary decision-room layers, while the easy-victory forecast remains source-scoped.
 
 ## [2026-08-30] lint | Wiki health check
 
@@ -14551,7 +14551,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》763丨改写历史！东汉窦宪破北匈奴之战
 
-Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's punishment-avoidance Northern Xiongnu campaign, Ban Chao's supply-line defeat of a Yuezhi attack, Southern Xiongnu's strike on the northern chanyu, Jiluoshan, Yanran commemoration, and the qualified migration-cascade prelude later developed in Hanji 764. Created the source note plus `JiluoshanBattleLateHan` and `YanranInscription`; updated `DouXianEasternHan`, `NorthernXiongnuLateHan`, `BanChaoEasternHan`, `Yuezhi`, `GengKuiLateHan`, `RenShangLateHan`, `TransEurasianMigrationCascade`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Northern-Xiongnu-to-Europe chain remains source-scoped and the European evidence is deferred to Hanji 764.
+Ingested the 2026-07-01 芮淇讲透资治通鉴 episode on Dou Xian's punishment-avoidance Northern Xiongnu campaign, Ban Chao's supply-line defeat of a Yuezhi attack, Southern Xiongnu's strike on the northern chanyu, Jiluoshan, Yanran commemoration, and the qualified migration-cascade prelude later developed in 汉纪 764. Created the source note plus `JiluoshanBattleLateHan` and `YanranInscription`; updated `DouXianEasternHan`, `NorthernXiongnuLateHan`, `BanChaoEasternHan`, `Yuezhi`, `GengKuiLateHan`, `RenShangLateHan`, `TransEurasianMigrationCascade`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; the Northern-Xiongnu-to-Europe chain remains source-scoped and the European evidence is deferred to 汉纪 764.
 
 ## [2026-08-30] ingest | 《资治通鉴·汉纪》762丨历史告诉你：男人有权，能有多荒唐？
 
@@ -14671,11 +14671,11 @@ Ingested the 2026-06-23 芮淇讲透资治通鉴 episode on Liu Xiu's 50-51 CE l
 
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》730丨中国百家姓，居然有“第五”姓？
 
-Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on late Guangwu omens, Jia Fu's quiet military merit, Fifth Lun's early Chang'an-market and court-test profile, and Liu Xiu's chenwei-triggered Taishan fengshan. Created the source note plus `JiaFuEasternHan`; updated `FifthLunEasternHan`, `LiuXiu`, `Taishan`, `FengshanRitualLegitimacy`, `ChenweiPolitics`, and `ProphecyTriggeredPolicy`. No settled contradiction found; the "Fifth" compound-surname origin remains bounded to later Hanji 744 evidence, and detailed fengshan materials remain source-scoped.
+Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on late Guangwu omens, Jia Fu's quiet military merit, Fifth Lun's early Chang'an-market and court-test profile, and Liu Xiu's chenwei-triggered Taishan fengshan. Created the source note plus `JiaFuEasternHan`; updated `FifthLunEasternHan`, `LiuXiu`, `Taishan`, `FengshanRitualLegitimacy`, `ChenweiPolitics`, and `ProphecyTriggeredPolicy`. No settled contradiction found; the "Fifth" compound-surname origin remains bounded to later 汉纪 744 evidence, and detailed fengshan materials remain source-scoped.
 
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》731丨近乎完美的刘秀，最大缺点是它？
 
-Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Liu Xiu's chenwei reliance, Huan Tan's anti-prophecy memorial and Lingtai confrontation, Zheng Xing's face-saving ambiguity, Jia Kui's chenwei accommodation, the Southern Xiongnu chanyu succession notice, and the Zhongyuan 2 Houtu altar setup before Hanji 732. Created the source note plus `HuanTanEasternHan`, `ZhengXingEasternHan`, and `ImperialPreferenceSpeechRisk`; updated `LiuXiu`, `JiaKuiEasternHan`, `ChenweiEvidentiaryCritique`, `index`, and `overview`. No settled contradiction found; the source qualifies Liu Xiu's otherwise positive profile by distinguishing auspicious-sign restraint from low tolerance for anti-chenwei criticism, and keeps Jia Kui's role source-scoped as a comparison case rather than a full biography.
+Ingested the 2026-06-24 芮淇讲透资治通鉴 episode on Liu Xiu's chenwei reliance, Huan Tan's anti-prophecy memorial and Lingtai confrontation, Zheng Xing's face-saving ambiguity, Jia Kui's chenwei accommodation, the Southern Xiongnu chanyu succession notice, and the Zhongyuan 2 Houtu altar setup before 汉纪 732. Created the source note plus `HuanTanEasternHan`, `ZhengXingEasternHan`, and `ImperialPreferenceSpeechRisk`; updated `LiuXiu`, `JiaKuiEasternHan`, `ChenweiEvidentiaryCritique`, `index`, and `overview`. No settled contradiction found; the source qualifies Liu Xiu's otherwise positive profile by distinguishing auspicious-sign restraint from low tolerance for anti-chenwei criticism, and keeps Jia Kui's role source-scoped as a comparison case rather than a full biography.
 
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》732丨东汉光武帝刘秀驾崩！病死的？
 
@@ -14707,7 +14707,7 @@ Ingested the 2026-06-25 芮淇讲透资治通鉴 episode backfilling Yongping 2 
 
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》735丨13岁入宫终生未育，她的贤明真罕见！
 
-Ingested the 2026-06-25 芮淇讲透资治通鉴 episode on Mingde Empress Ma's palace entry, adoption of Liu Da, empress selection, harem generosity, learning, plain conduct, and refusal of natal-family favors; Zhongli Yi's Tianchuan-star remonstrance stopping North Palace construction; Mingdi's harshness, Yao Song's ritual deflection, eclipse self-warning, and public reward for Guo He; Liu Ping's trust-producing Quanjiao governance; and the Shache-Khotan conflict before Hanji 736. Created the source note plus `ZhongliYiEasternHan`, `LiuPingEasternHan`, `YaoSongEasternHan`, and `GuoHeEasternHan`; updated `EmpressMaMingdeEasternHan`, `EmperorMingOfHan`, `EmperorZhangOfHan`, `MotherhoodBeyondChildbirth`, `ReceptiveRemonstranceGovernance`, `ImperialSelfCriticismEdict`, `HumaneLocalGovernance`, `KhotanKingGuangdeLateHan`, `ShacheKingdomLateHan`, `KhotanKingdomLateHan`, `index`, and `overview`. No settled contradiction found; Jia Guiren, Yin Taihou's selection role, Ma Yuan's Yuntai omission, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, North Palace, Junde, Xiumoba, Dawan, Qiuci, exact dates, and flood details remain source-scoped. 姚松 is routed to the disambiguated Eastern Han page, distinct from modern `YaoSong`.
+Ingested the 2026-06-25 芮淇讲透资治通鉴 episode on Mingde Empress Ma's palace entry, adoption of Liu Da, empress selection, harem generosity, learning, plain conduct, and refusal of natal-family favors; Zhongli Yi's Tianchuan-star remonstrance stopping North Palace construction; Mingdi's harshness, Yao Song's ritual deflection, eclipse self-warning, and public reward for Guo He; Liu Ping's trust-producing Quanjiao governance; and the Shache-Khotan conflict before 汉纪 736. Created the source note plus `ZhongliYiEasternHan`, `LiuPingEasternHan`, `YaoSongEasternHan`, and `GuoHeEasternHan`; updated `EmpressMaMingdeEasternHan`, `EmperorMingOfHan`, `EmperorZhangOfHan`, `MotherhoodBeyondChildbirth`, `ReceptiveRemonstranceGovernance`, `ImperialSelfCriticismEdict`, `HumaneLocalGovernance`, `KhotanKingGuangdeLateHan`, `ShacheKingdomLateHan`, `KhotanKingdomLateHan`, `index`, and `overview`. No settled contradiction found; Jia Guiren, Yin Taihou's selection role, Ma Yuan's Yuntai omission, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, North Palace, Junde, Xiumoba, Dawan, Qiuci, exact dates, and flood details remain source-scoped. 姚松 is routed to the disambiguated Eastern Han page, distinct from modern `YaoSong`.
 
 ## [2026-08-31] ingest | 《资治通鉴·汉纪》736丨生在皇权下，他凭什么能安度晚年
 
@@ -15044,7 +15044,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》695丨他辛苦打下千里江山，为何拱手送人？
 
-Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE immediately before Hanji 696. Added source `zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody`; updated `DouRongEasternHan`, `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `SecurityForAuthorityExchange`, `FortifiedAttritionPatience`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Fei Yi is kept source-scoped to avoid collision with the existing Warring States [[FeiYi|肥义]] page, and Qin Feng, Zhu Hu, Pang Meng, Dong Xian, Liu Yu, Su Mao, Jiao Qiang, Taocheng, Rencheng, Zhu'a, Zhongcheng, and Juli remain source-scoped.
+Ingested the 2026-06-16 芮淇讲透资治通鉴 episode backfilling Jianwu 5 / 29 CE immediately before 汉纪 696. Added source `zizhi-tongjian-hanji-695-ta-xinku-da-xia-qianli-jiangshan-weihe-gongshou-songren-lttlnoazrrg5dtdvfqmngcbfeody`; updated `DouRongEasternHan`, `GengYanEasternHan`, `ZhangBuEasternHan`, `BattlefieldFeintAndLure`, `SecurityForAuthorityExchange`, `FortifiedAttritionPatience`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; Fei Yi is kept source-scoped to avoid collision with the existing Warring States [[FeiYi|肥义]] page, and Qin Feng, Zhu Hu, Pang Meng, Dong Xian, Liu Yu, Su Mao, Jiao Qiang, Taocheng, Rencheng, Zhu'a, Zhongcheng, and Juli remain source-scoped.
 
 ## [2026-09-01] ingest | Ring Moves to Make Its Video Footage More Private
 
@@ -15056,7 +15056,7 @@ Ingested the 2026-06-16 The Rest Is History episode with Paul Rouse on Mussolini
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》700丨历史告诉你：别让认知偏差阻碍你的成功
 
-Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling the post-eastern-pacification pause before Hanji 701. Added source `zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv`; created `JingHanEasternHan` and `RulerScalePathDependence`; updated `GongsunShuEasternHan`, `WeiXiaoEasternHan`, and index. No settled contradiction found; Wu Zhu, Gongsun Guang, Tian Rong, Gongsun Shu's sons, and the incomplete enterprise analogy remain source-scoped.
+Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling the post-eastern-pacification pause before 汉纪 701. Added source `zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv`; created `JingHanEasternHan` and `RulerScalePathDependence`; updated `GongsunShuEasternHan`, `WeiXiaoEasternHan`, and index. No settled contradiction found; Wu Zhu, Gongsun Guang, Tian Rong, Gongsun Shu's sons, and the incomplete enterprise analogy remain source-scoped.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？
 
@@ -15072,15 +15072,15 @@ Ingested the 2026-06-19 芮淇讲透资治通鉴 episode on Ban Zhao's literary 
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》711丨他助刘秀打下半壁江山，为何死法憋屈？
 
-Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling the Jianwu 11-12 Shu campaign immediately before Hanji 712. Created `CenPengEasternHan`, `ZangGongEasternHan`, `GuoJiEasternHan`, and `OperationalTempoBreakthrough`; updated Liu Xiu, Gongsun Shu, Yan Cen, Wu Han, Ma Yuan, overview, and index. No settled contradiction found; 延岑 is normalized to the existing Yan Cen page, Cen Peng's humane military discipline is held beside Wu Han's later Chengdu overreach, and minor figures such as Hou Dan, Wang Yuan, Ren Gui, Chang Shao, and Zhang Long remain source-scoped.
+Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling the Jianwu 11-12 Shu campaign immediately before 汉纪 712. Created `CenPengEasternHan`, `ZangGongEasternHan`, `GuoJiEasternHan`, and `OperationalTempoBreakthrough`; updated Liu Xiu, Gongsun Shu, Yan Cen, Wu Han, Ma Yuan, overview, and index. No settled contradiction found; 延岑 is normalized to the existing Yan Cen page, Cen Peng's humane military discipline is held beside Wu Han's later Chengdu overreach, and minor figures such as Hou Dan, Wang Yuan, Ren Gui, Chang Shao, and Zhang Long remain source-scoped.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》715丨史上最智慧的一次夺权
 
-Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 13 / 37 CE before Hanji 716. Created `HonorsWithoutOfficeSettlement`; updated Liu Xiu, Deng Yu, Jia Fu, Geng Yan, Dou Rong, Wu Han, Ma Cheng, Han Xin, power completion retreat, post-restoration merit threat, overview, and index. No settled contradiction found; Zhang Chun of Fuping/Wushi and Li Tong of Gushi are kept distinct from existing same-name pages, while royal-title reductions, Kong An, Ji Chang, Zhu Hu, exact fief figures, and the Hedong Xiongnu raid remain source-scoped.
+Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 13 / 37 CE before 汉纪 716. Created `HonorsWithoutOfficeSettlement`; updated Liu Xiu, Deng Yu, Jia Fu, Geng Yan, Dou Rong, Wu Han, Ma Cheng, Han Xin, power completion retreat, post-restoration merit threat, overview, and index. No settled contradiction found; Zhang Chun of Fuping/Wushi and Li Tong of Gushi are kept distinct from existing same-name pages, while royal-title reductions, Kong An, Ji Chang, Zhu Hu, exact fief figures, and the Hedong Xiongnu raid remain source-scoped.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》716丨乱世之中，律法有多重要？
 
-Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 14-15 / 38-39 CE before Hanji 717. Created `LiangTongEasternHan`, `DuLinEasternHan`, `HanXinSituEasternHan`, and `PenalSeverityExecutionTradeoff`; updated Liu Xiu, Ouyang Xi, capacity-bound frontier commitment, degree-field accountability, direct-remonstrance criminalization, overview, and index. No settled contradiction found; 韩鑫 is normalized cautiously to the disambiguated Eastern Han Situ Han Xin / 韩歆 route, while Ren Gui, Han Ying, Western Regions minor states, exact relocation geography, and Liu Yan/Liu Zhong posthumous titles remain source-scoped.
+Ingested the 2026-06-21 芮淇讲透资治通鉴 episode backfilling Jianwu 14-15 / 38-39 CE before 汉纪 717. Created `LiangTongEasternHan`, `DuLinEasternHan`, `HanXinSituEasternHan`, and `PenalSeverityExecutionTradeoff`; updated Liu Xiu, Ouyang Xi, capacity-bound frontier commitment, degree-field accountability, direct-remonstrance criminalization, overview, and index. No settled contradiction found; 韩鑫 is normalized cautiously to the disambiguated Eastern Han Situ Han Xin / 韩歆 route, while Ren Gui, Han Ying, Western Regions minor states, exact relocation geography, and Liu Yan/Liu Zhong posthumous titles remain source-scoped.
 
 ## [2026-09-01] ingest | 681. Brazil: The Emperor's Anthem (Part 5)
 
@@ -15132,7 +15132,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》713丨刘秀怒了！名将吴汉竟血洗成都！
 
-Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 / 36 CE. Created `GongsunShuEasternHan`, `YanCenEasternHan`, `LiNieEasternHan`, `QiaoXuanShuScholar`, `WangHaoShuScholar`, `WangJiaShuScholar`, `WenQiYizhouEasternHan`, and `LiuShangEasternHan`; updated Liu Xiu, Wu Han, breach of surrender trust, coerced talent legitimacy, principled office refusal, overview, and index. No settled contradiction found; Hanji 713 instead qualifies Wu Han's later honor and the surrender-as-protection pattern by showing Liu Xiu's rebuke after surrendered Chengdu is killed, looted, and burned.
+Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 / 36 CE. Created `GongsunShuEasternHan`, `YanCenEasternHan`, `LiNieEasternHan`, `QiaoXuanShuScholar`, `WangHaoShuScholar`, `WangJiaShuScholar`, `WenQiYizhouEasternHan`, and `LiuShangEasternHan`; updated Liu Xiu, Wu Han, breach of surrender trust, coerced talent legitimacy, principled office refusal, overview, and index. No settled contradiction found; 汉纪 713 instead qualifies Wu Han's later honor and the surrender-as-protection pattern by showing Liu Xiu's rebuke after surrendered Chengdu is killed, looted, and burned.
 
 ## [2026-09-01] lint | Wiki health check
 
@@ -15140,7 +15140,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》712丨刘秀为何被誉为最会打仗的皇帝？
 
-Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 / 36 CE immediately before Hanji 713. Created `LiTongEasternHan` and `SeparatedCampMutualSupportRisk`; updated Liu Xiu, Wu Han, Gongsun Shu, Yan Cen, Liu Shang, Zhang Kan, battlefield feint and lure, power completion retreat, overview, and index. No settled contradiction found; 严岑 is normalized to the existing Yan Cen page, Guangwu-era Li Tong is kept distinct from the later Cao-era Li Tong, and the episode's ending leaves Zhang Kan's show-weakness plan outcome to the following source.
+Ingested the 2026-06-20 芮淇讲透资治通鉴 episode backfilling Jianwu 12 / 36 CE immediately before 汉纪 713. Created `LiTongEasternHan` and `SeparatedCampMutualSupportRisk`; updated Liu Xiu, Wu Han, Gongsun Shu, Yan Cen, Liu Shang, Zhang Kan, battlefield feint and lure, power completion retreat, overview, and index. No settled contradiction found; 严岑 is normalized to the existing Yan Cen page, Guangwu-era Li Tong is kept distinct from the later Cao-era Li Tong, and the episode's ending leaves Zhang Kan's show-weakness plan outcome to the following source.
 
 ## [2026-09-01] lint | Wiki health check
 
@@ -15176,7 +15176,7 @@ Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Jianwu 8 / 
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》710丨谁死了？揭秘东汉最著名的暗杀事件
 
-Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Jianwu 10-11 / 34-35 CE between Hanji 709 and Hanji 711. Created `HuanAnEasternHan` and `BaoYongEasternHan`; updated Lai Xi, Cen Peng, Gongsun Shu, operational tempo breakthrough, wartime command decapitation, command continuity damage control, overview, and index. No settled contradiction found; Wang Yuan, Gai Yan, Liu Liang, Bao Hui, Zhang Zhan, Lu Qi, Ren Man, Cheng Fan, Liu Long, Feng Jun, Hou Dan, Lü Wei, Gongsun Hui, exact force counts, and detailed place variants remain source-scoped.
+Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Jianwu 10-11 / 34-35 CE between 汉纪 709 and 汉纪 711. Created `HuanAnEasternHan` and `BaoYongEasternHan`; updated Lai Xi, Cen Peng, Gongsun Shu, operational tempo breakthrough, wartime command decapitation, command continuity damage control, overview, and index. No settled contradiction found; Wang Yuan, Gai Yan, Liu Liang, Bao Hui, Zhang Zhan, Lu Qi, Ren Man, Cheng Fan, Liu Long, Feng Jun, Hou Dan, Lü Wei, Gongsun Hui, exact force counts, and detailed place variants remain source-scoped.
 
 ## [2026-09-01] lint | Wiki health check
 
@@ -15192,7 +15192,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》705-5丨班昭：续编《汉书》，史笔千秋第一人
 
-Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Ban Zhao's family-learning and `Han Shu` continuation prelude before Hanji 705-6. Added source `zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e`; updated `BanZhaoLateHan`, `FemaleCourtEducationEasternHan`, `CourtWomenHistoriography`, overview, and index. No settled contradiction found; 邓遂 is normalized to 邓绥, and first-teacher, teenage-learning, and eight-tables claims remain source-scoped.
+Ingested the 2026-06-19 芮淇讲透资治通鉴 episode backfilling Ban Zhao's family-learning and `Han Shu` continuation prelude before 汉纪 705-6. Added source `zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e`; updated `BanZhaoLateHan`, `FemaleCourtEducationEasternHan`, `CourtWomenHistoriography`, overview, and index. No settled contradiction found; 邓遂 is normalized to 邓绥, and first-teacher, teenage-learning, and eight-tables claims remain source-scoped.
 
 ## [2026-09-01] lint | Wiki health check
 
@@ -15260,7 +15260,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-01] ingest | 《资治通鉴·汉纪》701丨刘秀的帝王权术：这种人必须杀！
 
-Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling Jianwu 6 / 30 CE between Hanji 699 and Hanji 702. Added source `zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q`; created `ZhuFuEasternHan` and `PostwarAdministrativeRetrenchment`; updated `WeiXiaoEasternHan`, `FengYiEasternHan`, `LaiXiEasternHan`, `LocalOfficialTenureStability`, overview, and index. No settled contradiction found; Shentu Gang, Wang Zun, Niu Han, Wang Yuan, Tian Rong, exact county-merger implementation, and Zhu Fu's full memorial wording remain source-scoped.
+Ingested the 2026-06-17 芮淇讲透资治通鉴 episode backfilling Jianwu 6 / 30 CE between 汉纪 699 and 汉纪 702. Added source `zizhi-tongjian-hanji-701-liuxiu-de-diwang-quanshu-zhezhong-ren-bixu-sha-lmsoxwg1k3k931ccnpeaomxfcu3q`; created `ZhuFuEasternHan` and `PostwarAdministrativeRetrenchment`; updated `WeiXiaoEasternHan`, `FengYiEasternHan`, `LaiXiEasternHan`, `LocalOfficialTenureStability`, overview, and index. No settled contradiction found; Shentu Gang, Wang Zun, Niu Han, Wang Yuan, Tian Rong, exact county-merger implementation, and Zhu Fu's full memorial wording remain source-scoped.
 
 ## [2026-09-01] lint | Wiki health check
 
@@ -15324,7 +15324,7 @@ Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling the post-Wa
 
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》674丨弱国无外交！更始皇帝刘玄有多憋屈？
 
-Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling Gengshi 2 / 24 CE before Hanji 675 around Liu Xuan's failed Xiongnu hierarchy restoration, Xie Gong's Yecheng removal, Chimei's westward cohesion decision, Liu Xiu's Deng Yu/Henei preparations, Gongsun Shu's Shu-king claim, Wei Xiao's pre-Tianshui self-protection, and eastern regional fragmentation. Added source `zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh`; created `XieGongEasternHan`, `LiuYongEasternHan`, `QinFengEasternHan`, and `CapacityBackedDiplomaticHierarchy`; updated `LiuXuanGengshiEmperor`, `ChimeiRebellion`, `DengYuEasternHan`, `KouXunEasternHan`, `GongsunShuEasternHan`, `WeiXiaoEasternHan`, `TianRongYilingEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 谢躬 is disambiguated from Western Han `XieGong`, Gongsun Shu's Shu-king stage is treated as earlier than Hanji 675's Chengjia/Longxing imperial claim, and Liu Sa, Chen Zun, Li Bao, Li Zhong, Gongsun Hui, Wei Cui, Wei Yi, Jiang Qiang, and route details remain source-scoped.
+Ingested the 2026-06-11 芮淇讲透资治通鉴 episode backfilling Gengshi 2 / 24 CE before 汉纪 675 around Liu Xuan's failed Xiongnu hierarchy restoration, Xie Gong's Yecheng removal, Chimei's westward cohesion decision, Liu Xiu's Deng Yu/Henei preparations, Gongsun Shu's Shu-king claim, Wei Xiao's pre-Tianshui self-protection, and eastern regional fragmentation. Added source `zizhi-tongjian-hanji-674-ruoguo-wuwaijiao-gengshi-huangdi-liuxuan-you-duo-biequ-lu59astedsljoefnl6yr9d4ilirh`; created `XieGongEasternHan`, `LiuYongEasternHan`, `QinFengEasternHan`, and `CapacityBackedDiplomaticHierarchy`; updated `LiuXuanGengshiEmperor`, `ChimeiRebellion`, `DengYuEasternHan`, `KouXunEasternHan`, `GongsunShuEasternHan`, `WeiXiaoEasternHan`, `TianRongYilingEasternHan`, `index`, `overview`, and downstream synthesis artifacts. No settled contradiction found; 谢躬 is disambiguated from Western Han `XieGong`, Gongsun Shu's Shu-king stage is treated as earlier than 汉纪 675's Chengjia/Longxing imperial claim, and Liu Sa, Chen Zun, Li Bao, Li Zhong, Gongsun Hui, Wei Cui, Wei Yi, Jiang Qiang, and route details remain source-scoped.
 
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》676丨汉光武帝刘秀借刀杀人事件始末
 
@@ -15348,7 +15348,7 @@ Ingested the 2026-09-01 LateTalk episode on China's embodied-intelligence financ
 
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》683丨放牛娃刘盆子：不想当皇帝，但没余地
 
-Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE before Hanji 685: Liu Penzi's failed abdication under Chimei commanders, the temporary discipline and renewed plunder that reveal hollow Chimei authority, Yao Qi's lenient Wei commandery handling of the Li Xiong/Li Lu plot, Wu Han's Tanxiang victory and three-commandery stabilization, and Liu Xiu's early merit-reward settlement through Ding Gong's objection, Yin Shi's fief refusal, Ding Ling's modest request, and Feng Qin's allocation work. Created the source note; updated `LiuPenziEasternHan`, `ChimeiRebellion`, `YaoQiEasternHan`, `YinShiEasternHan`, `OuterRelativePreventiveRestraint`, `FairAllocationPoliticalSkill`, `index`, and `overview`. No settled contradiction found; 姚琪 is normalized to 姚期, while Ding Gong, Ding Ling, Feng Qin, Li Xiong/Li Lu, Tanxiang bandits, exact fief geography, and the host's modern "知分寸" framing remain source-scoped.
+Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 26 CE before 汉纪 685: Liu Penzi's failed abdication under Chimei commanders, the temporary discipline and renewed plunder that reveal hollow Chimei authority, Yao Qi's lenient Wei commandery handling of the Li Xiong/Li Lu plot, Wu Han's Tanxiang victory and three-commandery stabilization, and Liu Xiu's early merit-reward settlement through Ding Gong's objection, Yin Shi's fief refusal, Ding Ling's modest request, and Feng Qin's allocation work. Created the source note; updated `LiuPenziEasternHan`, `ChimeiRebellion`, `YaoQiEasternHan`, `YinShiEasternHan`, `OuterRelativePreventiveRestraint`, `FairAllocationPoliticalSkill`, `index`, and `overview`. No settled contradiction found; 姚琪 is normalized to 姚期, while Ding Gong, Ding Ling, Feng Qin, Li Xiong/Li Lu, Tanxiang bandits, exact fief geography, and the host's modern "知分寸" framing remain source-scoped.
 
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》686丨刘秀发誓只爱阴丽华，为何立郭氏为后？
 
@@ -15356,7 +15356,7 @@ Ingested the 2026-06-13 芮淇讲透资治通鉴 episode backfilling Jianwu 2 / 
 
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》689-2丨古今对话：解锁《鬼吹灯》中精绝古国的史学之谜
 
-Ingested the 2026-06-15 芮淇讲透资治通鉴 episode on Jingjue's historical reality, Niya ruins, Kharosthi and Han document evidence, Stein's collecting, Supi pressure, Eastern Women's Kingdom memory, and the setup for the five-star brocade. Added source `zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu`; created `SupiRegime`, `KharosthiNiyaDocuments`, and `AurelStein`; updated `JingjueKingdom`, `NiyaSite`, `FiveStarsOutOfTheEastBrocade`, `index`, and `overview`. A source-note discrepancy was recorded between 689-2's "五星出东方利中国" and 689-3's "五星出东方，立中国"; no settled contradiction was found on Jingjue's disappearance, where the new source narrows emphasis toward Supi attack pressure while preserving the broader multi-cause model from Hanji 689-3.
+Ingested the 2026-06-15 芮淇讲透资治通鉴 episode on Jingjue's historical reality, Niya ruins, Kharosthi and Han document evidence, Stein's collecting, Supi pressure, Eastern Women's Kingdom memory, and the setup for the five-star brocade. Added source `zizhi-tongjian-hanji-689-2-gujin-duihua-jiesuo-gui-chuideng-zhong-jingjue-guguo-de-shixue-zhi-mi-loznfitfv-dwsbgelk2wmdnk-kvu`; created `SupiRegime`, `KharosthiNiyaDocuments`, and `AurelStein`; updated `JingjueKingdom`, `NiyaSite`, `FiveStarsOutOfTheEastBrocade`, `index`, and `overview`. A source-note discrepancy was recorded between 689-2's "五星出东方利中国" and 689-3's "五星出东方，立中国"; no settled contradiction was found on Jingjue's disappearance, where the new source narrows emphasis toward Supi attack pressure while preserving the broader multi-cause model from 汉纪 689-3.
 
 ## [2026-09-02] ingest | 《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读
 
@@ -16404,7 +16404,7 @@ Ingested the 2026-06-09 芮淇讲透资治通鉴 episode on Wang Mang's final pr
 
 ## [2026-09-08] ingest | 《资治通鉴·汉纪》668丨中国古代百大武将：东汉之寇恂
 
-Ingested the 2026-06-10 芮淇讲透资治通鉴 episode backfilling the Gengshi 1-2 / 23-24 CE setup before Hanji 669. Added source `zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5`; created `RestoredRegimePromiseCredibility`; updated `KouXunEasternHan`, `DengYuEasternHan`, `WangLangHebeiClaimant`, `index`, and `overview`. No settled contradiction found; Han Hong, Fan Chong, Liu Ci, Liu Lin, Li Yu, Zhang Can, exact offices, force counts, and local rumor channels remain source-scoped.
+Ingested the 2026-06-10 芮淇讲透资治通鉴 episode backfilling the Gengshi 1-2 / 23-24 CE setup before 汉纪 669. Added source `zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5`; created `RestoredRegimePromiseCredibility`; updated `KouXunEasternHan`, `DengYuEasternHan`, `WangLangHebeiClaimant`, `index`, and `overview`. No settled contradiction found; Han Hong, Fan Chong, Liu Ci, Liu Lin, Li Yu, Zhang Can, exact offices, force counts, and local rumor channels remain source-scoped.
 
 ## [2026-09-08] ingest | 史蒂夫说466期 - 姜涛 - 5万精神科医生对1亿精神疾病患者
 
@@ -16660,15 +16660,15 @@ Ingested source note and updated Wang Mang/Xin monetary-reform synthesis.
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》646丨传奇女性王政君：长寿也是罪？
 
-Added source note for Hanji 646. Key claims: Wang Mang's Changshou Palace "gift" severs Wang Zhengjun from Emperor Yuan's Han ritual memory; Wang Zhengjun resists Xin order through Han clothing and ritual dates; her longevity is treated as both legitimacy resource and political tragedy; Western Regions distrust, Yanqi rebellion, Xiongnu succession, and the Luoyang relocation setup extend the early Xin credibility crisis.
+Added source note for 汉纪 646. Key claims: Wang Mang's Changshou Palace "gift" severs Wang Zhengjun from Emperor Yuan's Han ritual memory; Wang Zhengjun resists Xin order through Han clothing and ritual dates; her longevity is treated as both legitimacy resource and political tragedy; Western Regions distrust, Yanqi rebellion, Xiongnu succession, and the Luoyang relocation setup extend the early Xin credibility crisis.
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》644丨谁敢和皇帝使者讨价还价？
 
-Added source note for Hanji 644. Key claims: 11 CE Xin mobilization and frontier supervision convert into civilian predation, taxes and recruitment produce flight and theft, northern border peace collapses after Xiongnu relations worsen, and Wang Mang's prestigious summons of Gong Sheng backfires into a fatal Han-loyalist refusal while Xue Fang, Guo Qin, and Jiang Xu show safer refusal and withdrawal tactics.
+Added source note for 汉纪 644. Key claims: 11 CE Xin mobilization and frontier supervision convert into civilian predation, taxes and recruitment produce flight and theft, northern border peace collapses after Xiongnu relations worsen, and Wang Mang's prestigious summons of Gong Sheng backfires into a fatal Han-loyalist refusal while Xue Fang, Guo Qin, and Jiang Xu show safer refusal and withdrawal tactics.
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》643丨卫霍征伐匈奴，为何会被鄙视？
 
-Added source note for Hanji 643. Key claims: Wang Mang's coercive Xiongnu titulature provokes frontier raids; Yan You ranks Zhou, Han, and Qin northern-frontier strategies by cost and objective; Han Wudi's famous anti-Xiongnu offensives are criticized as costly lower strategy; Qin's wall policy is framed as maximum cost for limited effect; Wang Mang's planned mass expedition fails logistics tests around assembly, supply, transport animals, climate, disease, tempo, and terrain.
+Added source note for 汉纪 643. Key claims: Wang Mang's coercive Xiongnu titulature provokes frontier raids; Yan You ranks Zhou, Han, and Qin northern-frontier strategies by cost and objective; Han Wudi's famous anti-Xiongnu offensives are criticized as costly lower strategy; Qin's wall policy is framed as maximum cost for limited effect; Wang Mang's planned mass expedition fails logistics tests around assembly, supply, transport animals, climate, disease, tempo, and terrain.
 
 ## [2026-09-09] ingest | The IPO Comeback: Why Tech Giants Are Finally Going Public | All-In Liquidity IPO Panel
 
@@ -16696,7 +16696,7 @@ Ingested The Rest Is History episode on The Star-Spangled Banner, Fort McHenry, 
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》660-2丨一集看懂赤眉军的诞生
 
-Ingested the 2026-06-08 芮淇讲透资治通鉴 episode backfilling 22 CE late-Xin disorder before Hanji 661: Wang Mang's Nine Temples spectacle, Guandong famine, Chimei's origin under Fan Chong, official-army civilian abuse by Wang Kuang and Lian Dan, Lulin branch movement, corrupt refugee relief, Wang Ye's false market report, Yan You's command-authority complaint, and Feng Yan's warning to Lian Dan about Han-restoration public sentiment. Added source `zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce`; created `FanChongChimei`, `LianDanXinGeneral`, `WangKuangXinGeneral`, `WangYeXinOfficial`, `OfficialArmyPredationBackfire`, `CommandAuthorityBottleneck`, and `HanRestorationPublicSentiment`; updated `WangMang`, `XinDynasty`, `ChimeiRebellion`, `LulinRebellion`, `FengYanEasternHan`, `DisasterReliefCorruption`, `overview`, and `index`. No settled contradiction found; Wang Kuang is disambiguated from the Xin-prince and later late-Han Wang Kuang pages, and Jing Shang, Chen Mao, Kong Ren, Wang Feng, Ma Wu, force counts, and the opening mystery remain source-scoped.
+Ingested the 2026-06-08 芮淇讲透资治通鉴 episode backfilling 22 CE late-Xin disorder before 汉纪 661: Wang Mang's Nine Temples spectacle, Guandong famine, Chimei's origin under Fan Chong, official-army civilian abuse by Wang Kuang and Lian Dan, Lulin branch movement, corrupt refugee relief, Wang Ye's false market report, Yan You's command-authority complaint, and Feng Yan's warning to Lian Dan about Han-restoration public sentiment. Added source `zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce`; created `FanChongChimei`, `LianDanXinGeneral`, `WangKuangXinGeneral`, `WangYeXinOfficial`, `OfficialArmyPredationBackfire`, `CommandAuthorityBottleneck`, and `HanRestorationPublicSentiment`; updated `WangMang`, `XinDynasty`, `ChimeiRebellion`, `LulinRebellion`, `FengYanEasternHan`, `DisasterReliefCorruption`, `overview`, and `index`. No settled contradiction found; Wang Kuang is disambiguated from the Xin-prince and later late-Han Wang Kuang pages, and Jing Shang, Chen Mao, Kong Ren, Wang Feng, Ma Wu, force counts, and the opening mystery remain source-scoped.
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》662丨刘秀是如何化解团队内斗的？
 
@@ -16712,7 +16712,7 @@ Ingested the 2026-07-14 声东击西 episode with 徐涛 interviewing 孙承昊 
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》661丨从书生到开国皇帝：刘秀首登历史舞台
 
-Ingested the 2026-06-08 芮淇讲透资治通鉴 episode backfilling the 22 CE pre-Gengshi layer before Hanji 662: Wang Mang's anti-rebel deployments, Chimei pressure, Liu Xiu's Liu-lineage and prophecy introduction, Li Tong and Li Yi's planned Nanyang seizure, Liu Yan's Chongling mobilization, Liu Xiu's reputation-based reassurance of frightened youths, and the lethal leak that kills Li Shou and other relatives. Added source `zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5`; created `DengChenEasternHan`; updated `LiTongEasternHan`, `LiuYanLiuXiuBrother`, `EarlyRestorationCoalitionIntegration`, and `index`. No settled contradiction found; Wang Kuang, Lian Dan, Cai Shaogong, Liu Shou, Li Shou, Zhen Fu, Liangqiu Ci, exact genealogy, place details, and casualty counts remain source-scoped.
+Ingested the 2026-06-08 芮淇讲透资治通鉴 episode backfilling the 22 CE pre-Gengshi layer before 汉纪 662: Wang Mang's anti-rebel deployments, Chimei pressure, Liu Xiu's Liu-lineage and prophecy introduction, Li Tong and Li Yi's planned Nanyang seizure, Liu Yan's Chongling mobilization, Liu Xiu's reputation-based reassurance of frightened youths, and the lethal leak that kills Li Shou and other relatives. Added source `zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5`; created `DengChenEasternHan`; updated `LiTongEasternHan`, `LiuYanLiuXiuBrother`, `EarlyRestorationCoalitionIntegration`, and `index`. No settled contradiction found; Wang Kuang, Lian Dan, Cai Shaogong, Liu Shou, Li Shou, Zhen Fu, Liangqiu Ci, exact genealogy, place details, and casualty counts remain source-scoped.
 
 ## [2026-09-09] ingest | No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？
 
@@ -16859,11 +16859,11 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》651丨河图洛书之谜，你能破解吗？
 
-Added source note for Hanji 651. Key claims: Hetu-Luoshu and "earth suppresses water" turn a river change into an anti-Xiongnu omen; Wang Mang accepts the favorable interpretation and deploys frontier forces; southwest Quting campaigns show epidemic, supply exhaustion, civilian extraction, and Feng Ying's stop-war alternative; the closing anatomy material sets up Hanji 652.
+Added source note for 汉纪 651. Key claims: Hetu-Luoshu and "earth suppresses water" turn a river change into an anti-Xiongnu omen; Wang Mang accepts the favorable interpretation and deploys frontier forces; southwest Quting campaigns show epidemic, supply exhaustion, civilian extraction, and Feng Ying's stop-war alternative; the closing anatomy material sets up 汉纪 652.
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》649丨官场里的人情世故有多现实？
 
-Added source note for Hanji 649. Key claims: the yellow-dragon rumor is read as a legitimacy threat to Wang Mang; Chen Qing is killed as a diplomatic scapegoat before the Xiongnu corpse-return mission; ritual and classical ordering consume administrative attention; local vacancies, intrusive inspection, tax pressure, bribery, and official risk avoidance expose early late-Xin office paralysis.
+Added source note for 汉纪 649. Key claims: the yellow-dragon rumor is read as a legitimacy threat to Wang Mang; Chen Qing is killed as a diplomatic scapegoat before the Xiongnu corpse-return mission; ritual and classical ordering consume administrative attention; local vacancies, intrusive inspection, tax pressure, bribery, and official risk avoidance expose early late-Xin office paralysis.
 
 ## [2026-09-09] lint | Wiki health check
 
@@ -16910,7 +16910,7 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》640丨奇葩！王莽如何彻底逼反匈奴？
 
-Added source note for Hanji 640. Key claims: Wang Mang's seal and title downgrades turn symbolic hierarchy into Xiongnu rupture; the Wuhuan-captive dispute and Shuofang troop pressure widen the crisis; Cheshi and Western Regions actors recalculate under expected Xin extraction; Chen Liang and Zhong Dai's mutiny exposes frontier command trust breakdown; Sun Jian converts defection and false Liu-claimant panic into anti-Han symbolic purge; Ding'an Taihou refuses Wang Mang's remarriage and title-recoding pressure.
+Added source note for 汉纪 640. Key claims: Wang Mang's seal and title downgrades turn symbolic hierarchy into Xiongnu rupture; the Wuhuan-captive dispute and Shuofang troop pressure widen the crisis; Cheshi and Western Regions actors recalculate under expected Xin extraction; Chen Liang and Zhong Dai's mutiny exposes frontier command trust breakdown; Sun Jian converts defection and false Liu-claimant panic into anti-Han symbolic purge; Ding'an Taihou refuses Wang Mang's remarriage and title-recoding pressure.
 
 ## [2026-09-09] ingest | 《资治通鉴·汉纪》638丨血脉亲情，可以有多无情？
 
@@ -17117,7 +17117,7 @@ Added source note for the 3 CE Wang Mang dog-blood case. Key claims: Wang Yu tri
 
 ## [2026-09-10] ingest | 《资治通鉴·汉纪》623丨马屁还是真心？职场人如何在夸奖与谄媚间找平衡！
 
-Added source note for the 2026-05-31 芮淇讲透资治通鉴 episode on Wang Mang's 4 CE praise-to-power sequence: officials turn Ming Tang prestige into status elevation and Nine Bestowments discussion, tribute stories and Qiang land-offering rhetoric complete a four-directions submission image, and Xihai Commandery becomes the administrative prelude to Hanji 624. Updated Wang Mang, Wang Zhengjun, Face-Project Governance, Nine Bestowments Ritual Promotion, Auspicious Omen Politics, Xihai Exile Administrative Burden, and Coerced Praise Conformity Risk. No settled contradiction found; named envoys, Qiang identities, exact ritual lists, and Wang Mang's private motive remain source-scoped.
+Added source note for the 2026-05-31 芮淇讲透资治通鉴 episode on Wang Mang's 4 CE praise-to-power sequence: officials turn Ming Tang prestige into status elevation and Nine Bestowments discussion, tribute stories and Qiang land-offering rhetoric complete a four-directions submission image, and Xihai Commandery becomes the administrative prelude to 汉纪 624. Updated Wang Mang, Wang Zhengjun, Face-Project Governance, Nine Bestowments Ritual Promotion, Auspicious Omen Politics, Xihai Exile Administrative Burden, and Coerced Praise Conformity Risk. No settled contradiction found; named envoys, Qiang identities, exact ritual lists, and Wang Mang's private motive remain source-scoped.
 
 ## [2026-09-10] ingest | 675. The First World War: Slaughter at Gallipoli (Part 5)
 
@@ -17730,7 +17730,7 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量
 
-Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE before Hanji 558. Created pages for Chunyu Zhang and Empress Xu; updated Wang Mang, Wang Gen, Wang Li, Han Chengdi, Zhai Fangjin, Role Attachment and Power Exit, Persona-Shielded Political Purge, and Case-Expansion Political Purge. No settled contradiction found; Chunyu Zhang's full legal dossier, Wang Mang's inner motive, Wang Li's knowing exchange, Empress Xu's full biography, and Zhai Fangjin's private motive remain source-scoped.
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 1 / 8 BCE before 汉纪 558. Created pages for Chunyu Zhang and Empress Xu; updated Wang Mang, Wang Gen, Wang Li, Han Chengdi, Zhai Fangjin, Role Attachment and Power Exit, Persona-Shielded Political Purge, and Case-Expansion Political Purge. No settled contradiction found; Chunyu Zhang's full legal dossier, Wang Mang's inner motive, Wang Li's knowing exchange, Empress Xu's full biography, and Zhai Fangjin's private motive remain source-scoped.
 
 ## [2026-09-11] lint | Wiki health check
 
@@ -17783,7 +17783,7 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Suihe 
 Ran lint. See lint-report.md for details.
 ## [2026-09-11] ingest | 《资治通鉴·汉纪》556丨历史罕见！谁要给成帝戴绿帽子？
 
-Added source. Key claims: Chunyu Zhang's pre-fall power rests on outer-relative identity, Chengdi access, bribery networks, and exploitation of Empress Xu through false restoration promises; Empress Xu's continued payments are read through sunk-cost entrapment and cold-palace isolation; Wang Mang's monitoring sets up Hanji 557's sickbed accusation. Updated Chunyu Zhang and Empress Xu; created Sunk Cost Entrapment. No settled contradiction found.
+Added source. Key claims: Chunyu Zhang's pre-fall power rests on outer-relative identity, Chengdi access, bribery networks, and exploitation of Empress Xu through false restoration promises; Empress Xu's continued payments are read through sunk-cost entrapment and cold-palace isolation; Wang Mang's monitoring sets up 汉纪 557's sickbed accusation. Updated Chunyu Zhang and Empress Xu; created Sunk Cost Entrapment. No settled contradiction found.
 
 ## [2026-09-11] lint | Wiki health check
 
@@ -17824,7 +17824,7 @@ Added source note and new synthesis-first pages for AI doomerism, Anthropic IPO 
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》511丨“太后”天花板！她如何一天封五个弟弟为侯？
 
-Added source note for Hanji 511, updated Wang Zun with the impeachment-review branch, and created Gongcheng Xing, Zhang Zhong, Yang Fu, Chengdi Five Marquises, Wang Feng / 王逢, Gou Can, Gou Bin, Wang Man, and Bureaucratic Impeachment Review.
+Added source note for 汉纪 511, updated Wang Zun with the impeachment-review branch, and created Gongcheng Xing, Zhang Zhong, Yang Fu, Chengdi Five Marquises, Wang Feng / 王逢, Gou Can, Gou Bin, Wang Man, and Bureaucratic Impeachment Review.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》497丨黄泥巴掉裤裆！西汉名将陈汤当官有多难？
 
@@ -17866,15 +17866,15 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》476丨孔子的12世孙孔霸，揭露职场隐秘
 
-Added Hanji 476 source on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations by Yu Dingguo, Shi Gao, and Xue Guangde, and Wang Jie/Wei Xuancheng personnel appointments. Created Kong Ba, Wang Jie, core standing-ground preservation, and high-office refusal as risk avoidance; extended Yu Dingguo, Shi Gao, Xue Guangde, and Wei Xuancheng.
+Added 汉纪 476 source on Kong Ba's refusal of high office, Confucian lineage standing ground, disaster-era resignations by Yu Dingguo, Shi Gao, and Xue Guangde, and Wang Jie/Wei Xuancheng personnel appointments. Created Kong Ba, Wang Jie, core standing-ground preservation, and high-office refusal as risk avoidance; extended Yu Dingguo, Shi Gao, Xue Guangde, and Wei Xuancheng.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》477丨西汉首位奸臣大宦官，是如何扰乱朝政的？
 
-Added Hanji 477 source note on Shi Xian's slander against Zhou Kan and Zhang Meng, Liu Xiang's Liu Gengsheng memorial, and the court-harmony/disaster warning to Han Yuandi. Updated Shi Xian and Liu Xiang, and added Slander-Suspicion Feedback Collapse.
+Added 汉纪 477 source note on Shi Xian's slander against Zhou Kan and Zhang Meng, Liu Xiang's Liu Gengsheng memorial, and the court-harmony/disaster warning to Han Yuandi. Updated Shi Xian and Liu Xiang, and added Slander-Suspicion Feedback Collapse.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》475丨热血御史薛广德，公然威胁汉元帝？
 
-Added source note for Hanji 475 on Xue Guangde's famine-era hunting remonstrance, the river-crossing confrontation, Zhang Meng's face-saving restatement, and responsibility-bound risk avoidance. Created Xue Guangde, Face-Saving Remonstrance, and Responsibility-Bound Risk Avoidance; updated Han Yuandi and Zhang Meng with the earlier Yongguang 1 conduct-and-communication layer.
+Added source note for 汉纪 475 on Xue Guangde's famine-era hunting remonstrance, the river-crossing confrontation, Zhang Meng's face-saving restatement, and responsibility-bound risk avoidance. Created Xue Guangde, Face-Saving Remonstrance, and Responsibility-Bound Risk Avoidance; updated Han Yuandi and Zhang Meng with the earlier Yongguang 1 conduct-and-communication layer.
 
 ## [2026-09-12] ingest | OpenAI Misses Targets, Codex vs Claude, Elon vs Sam Trial, Big Hyperscaler Beats, Peptide Craze
 
@@ -17890,7 +17890,7 @@ Added source note on Kuang Heng's disaster memorial, repeated-amnesty critique, 
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》482丨认清“布利丹效应”，治好你的选择困难症！
 
-Added source note for Hanji 482. Key claims: Feng Fengshi's assembled Han force defeats the Longxi Qiang rebellion after the Hanji 481 force-sizing debate; the host turns the case into a Buridan-effect management lesson about clarifying goals and chips, acting under incomplete information, and avoiding organizational paralysis.
+Added source note for 汉纪 482. Key claims: Feng Fengshi's assembled Han force defeats the Longxi Qiang rebellion after the 汉纪 481 force-sizing debate; the host turns the case into a Buridan-effect management lesson about clarifying goals and chips, acting under incomplete information, and avoiding organizational paralysis.
 
 ## [2026-09-12] ingest | 666. Wine and the Birth of Civilisation
 
@@ -17925,7 +17925,7 @@ Added source page for a 这病说来话长 episode with 子涵医生 on hantavir
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》483-3丨历史揭秘：混职场的“江湖规矩”
 
-- Added source note for Hanji 483-3.
+- Added source note for 汉纪 483-3.
 - Added Jianghu Virtual Kinship and Jianghu Survival Anxiety as source-scoped concept pages.
 - Linked the episode to existing Jianghu, renqing, and retainer-reciprocity concepts without rewriting their older bounded syntheses.
 
@@ -17936,7 +17936,7 @@ Added source page for a 这病说来话长 episode with 子涵医生 on hantavir
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》487丨想步步高升？必须懂点职场博弈论！
 
-- Added source note for the Jing Fang kaogong setup before Hanji 488.
+- Added source note for the Jing Fang kaogong setup before 汉纪 488.
 - Updated Jing Fang, Kaogongfa Reform Backlash, and Power Center Proximity Advantage with the transfer-away-from-capital and cancelled reporting-channel layer.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》492丨富豪喜欢什么女人？瞧瞧王昭君！
@@ -17947,7 +17947,7 @@ Added source. Key claims: Zhizhi Chanyu's head display and the "犯我强汉者�
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》494丨芮淇反思日记：我犯过最大的错，是它！
 
-Added source note for Hanji 494. Key claims: Han Yuandi preserves face while refusing to outsource frontier defense to Huhanye Chanyu; the host maps that refusal onto core control over people, money, and authority in business; Zuo Yizizhi's defection shows trust rupture after suspicion; Wang Zhaojun's Huhanye-side child and Liu Ao's capping rite extend the Xiongnu and responsibility branches.
+Added source note for 汉纪 494. Key claims: Han Yuandi preserves face while refusing to outsource frontier defense to Huhanye Chanyu; the host maps that refusal onto core control over people, money, and authority in business; Zuo Yizizhi's defection shows trust rupture after suspicion; Wang Zhaojun's Huhanye-side child and Liu Ao's capping rite extend the Xiongnu and responsibility branches.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》496丨穷怕了？揭秘贪官走向贪腐的心理诱因
 
@@ -17997,7 +17997,7 @@ Added source. Key claims: Liu Xiang's text collation and `Hongfan Wuxing` disast
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》513丨勇闯夺命岛！汉臣陈立诛杀夜郎国王！
 
-Ingested the Hanji 513 Ye Lang continuation from Podcast Atlas. Created the source note and Chen Li entity; updated Ye Lang, Ye Lang King Xing, Zhangke Commandery, Preventive Frontier Governance, and Coercive Frontier Deterrence with Chen Li's targeted killing of Xing and logistics-based suppression of Wengzhi/Yewu residual resistance. No settled contradiction was found; side figures and local names remain source-scoped.
+Ingested the 汉纪 513 Ye Lang continuation from Podcast Atlas. Created the source note and Chen Li entity; updated Ye Lang, Ye Lang King Xing, Zhangke Commandery, Preventive Frontier Governance, and Coercive Frontier Deterrence with Chen Li's targeted killing of Xing and logistics-based suppression of Wengzhi/Yewu residual resistance. No settled contradiction was found; side figures and local names remain source-scoped.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》512丨西汉出征夜郎：我不当大哥好多年！
 
@@ -18009,27 +18009,27 @@ Ingested source note, added Yingchuan iron-office uprising and Shentu Sheng page
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》529丨美艳姐妹花！西汉最大的“祸水”登场！
 
-Added source note for Hanji 529, created YangAPrincessWesternHan and PalacePerformerFavorMobility, and extended Zhao Feiyan, Zhao Hede, Han Chengdi, and gendered consort scapegoating synthesis around the Zhao sisters' origin stories, Yang'a household performance route, and source-scoped "祸水" framing.
+Added source note for 汉纪 529, created YangAPrincessWesternHan and PalacePerformerFavorMobility, and extended Zhao Feiyan, Zhao Hede, Han Chengdi, and gendered consort scapegoating synthesis around the Zhao sisters' origin stories, Yang'a household performance route, and source-scoped "祸水" framing.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》536-4丨揭秘赵飞燕姐妹污名疑云
 
-Added source note for Hanji 536-4, created XiaJiSpringAutumn, and extended Zhao Feiyan, Zhao Hede, GenderedConsortScapegoating, and WomenBlamedForDynasticCollapse with a literary-memory layer around gendered blame and "红颜祸水" reputation.
+Added source note for 汉纪 536-4, created XiaJiSpringAutumn, and extended Zhao Feiyan, Zhao Hede, GenderedConsortScapegoating, and WomenBlamedForDynasticCollapse with a literary-memory layer around gendered blame and "红颜祸水" reputation.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》533丨职场最无解的死局，真的无解吗？
 
-Added source note for Hanji 533, created WangYinWesternHan, WangTanWesternHan, and SincerePowerSharingDeescalation, and extended WangShangWesternHan and DuYeWesternHan around Chengdi's attempted Wang-family balancing and Du Ye's sincere-consultation mediation.
+Added source note for 汉纪 533, created WangYinWesternHan, WangTanWesternHan, and SincerePowerSharingDeescalation, and extended WangShangWesternHan and DuYeWesternHan around Chengdi's attempted Wang-family balancing and Du Ye's sincere-consultation mediation.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》535丨白痴还是野心家？“心机男”王莽登场！
 
-Added source note for Hanji 535 and extended Wang Mang's synthesis around fatherless weak-position origins, filial and scholarly reputation building, Wang Feng's sickbed endorsement, elite praise, generosity, and crisis-to-reputation self-management before the later Chunyu Zhang and Da Sima layers.
+Added source note for 汉纪 535 and extended Wang Mang's synthesis around fatherless weak-position origins, filial and scholarly reputation building, Wang Feng's sickbed endorsement, elite praise, generosity, and crisis-to-reputation self-management before the later Chunyu Zhang and Da Sima layers.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》536-3丨揭秘上官婉儿和她背后的男人们
 
-Added source page for Hanji 536-3, extended Shangguan Wan'er from early Wu Zetian service into later relationships, Wu Sansi and Empress Wei alliance, Li-Tang fallback planning, and death during the Tanglong Coup. Created pages for Tang Gaozong, Crown Prince Li Xian, Zhang Changzong, Wu Sansi, Tang Zhongzong, Empress Wei, Li Chongjun, Princess Taiping, Li Dan, Li Longji, Shenlong Coup, Tanglong Coup, and Court Factional Survival; updated Wu Zetian and Historical Female Role-Model Caution. No settled contradiction found; red-plum makeup, exact edict wording, relationship historicity, and Li Longji's full motive remain source-scoped.
+Added source page for 汉纪 536-3, extended Shangguan Wan'er from early Wu Zetian service into later relationships, Wu Sansi and Empress Wei alliance, Li-Tang fallback planning, and death during the Tanglong Coup. Created pages for Tang Gaozong, Crown Prince Li Xian, Zhang Changzong, Wu Sansi, Tang Zhongzong, Empress Wei, Li Chongjun, Princess Taiping, Li Dan, Li Longji, Shenlong Coup, Tanglong Coup, and Court Factional Survival; updated Wu Zetian and Historical Female Role-Model Caution. No settled contradiction found; red-plum makeup, exact edict wording, relationship historicity, and Li Longji's full motive remain source-scoped.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》536-2丨我为何不愿成为现代的“上官婉儿”？
 
-Added source note for Hanji 536-2, created Shangguan Wan'er and Historical Female Role-Model Caution, and migrated Wu Zetian to synthesis-v1 with a new court-power branch. No settled contradiction found; Shangguan Wan'er's later Zhongzong, Empress Wei, Princess Taiping, and death-related politics remain outside this source.
+Added source note for 汉纪 536-2, created Shangguan Wan'er and Historical Female Role-Model Caution, and migrated Wu Zetian to synthesis-v1 with a new court-power branch. No settled contradiction found; Shangguan Wan'er's later Zhongzong, Empress Wei, Princess Taiping, and death-related politics remain outside this source.
 
 ## [2026-09-12] ingest | No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？
 
@@ -18041,11 +18041,11 @@ Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Hongji
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》536-1丨任性皇后赵飞燕，如何明目张胆搞外遇？
 
-Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 1 / 16 BCE. Created Consort Heir Security Spiral and Mausoleum Frugality Remonstrance; updated Zhao Feiyan, Zhao Hede, Liu Xiang, and index. No settled contradiction found; Zhao-sister adultery, fertility-drug, and reproductive-interference claims remain source-scoped and qualified by later Hanji 571-573 evidence skepticism.
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling Yongshi 1 / 16 BCE. Created Consort Heir Security Spiral and Mausoleum Frugality Remonstrance; updated Zhao Feiyan, Zhao Hede, Liu Xiang, and index. No settled contradiction found; Zhao-sister adultery, fertility-drug, and reproductive-interference claims remain source-scoped and qualified by later 汉纪 571-573 evidence skepticism.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》547丨官场中，男人的嫉妒心有多可怕？
 
-Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling the jealousy trigger before Hanji 548. Updated Wang Gen and Zhang Yu with Wang Li's blocked office path, Chengdi's contested land grant to Zhang Yu, Wang Gen's slander backfiring, and Zhang Yu's imperial-teacher honor layer. No settled contradiction found; transcript names 王庚/张渝 are normalized to the established Wang Gen/Zhang Yu routes, and land geography, Wang Li's legal case, and Zhang Yu's full scholarly career remain source-scoped.
+Added source page for a Ruiqi Jiangtou Zizhi Tongjian episode backfilling the jealousy trigger before 汉纪 548. Updated Wang Gen and Zhang Yu with Wang Li's blocked office path, Chengdi's contested land grant to Zhang Yu, Wang Gen's slander backfiring, and Zhang Yu's imperial-teacher honor layer. No settled contradiction found; transcript names 王庚/张渝 are normalized to the established Wang Gen/Zhang Yu routes, and land geography, Wang Li's legal case, and Zhang Yu's full scholarly career remain source-scoped.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》546丨好友变为仇敌，能有多可怕？
 
@@ -18093,11 +18093,11 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？
 
-Added source note for Hanji 524. Key claims: Chengdi's post-Wang Feng personnel arrangement tries to balance outer relatives under constraint; Duan Huizong's Western Regions value lies in quiet preventive governance; and Gu Yong's Xue Xuan recommendation emphasizes actual administrative effect over reputation alone.
+Added source note for 汉纪 524. Key claims: Chengdi's post-Wang Feng personnel arrangement tries to balance outer relatives under constraint; Duan Huizong's Western Regions value lies in quiet preventive governance; and Gu Yong's Xue Xuan recommendation emphasizes actual administrative effect over reputation alone.
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》537丨他为何拥有两座陵墓？芮淇带你揭露真相
 
-Added source note for Hanji 537 and extended Han Chengdi, Xie Wannian, and infeasible public-works cancellation around the Yanling-to-Changling reversal, construction burden, and return to Yanling.
+Added source note for 汉纪 537 and extended Han Chengdi, Xie Wannian, and infeasible public-works cancellation around the Yanling-to-Changling reversal, construction burden, and return to Yanling.
 
 ## [2026-09-12] lint | Wiki health check
 
@@ -18164,7 +18164,7 @@ Added source note for 日谈物语 E02, created Unification Church, Han Hak-ja, 
 
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》534丨职场里为什么要推崇“渣男”？
 
-Added source note for Hanji 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
+Added source note for 汉纪 534, created LiuFuWesternHan and WorkplaceRoleClarityBoundary, and extended Zhao Feiyan, Chunyu Zhang, private-desire governance, institutional loyalty, and receptive-remonstrance synthesis around Chengdi's elevation of Zhao Feiyan and punishment of Liu Fu.
 
 ## [2026-09-12] lint | Wiki health check
 
@@ -18410,7 +18410,7 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 ## [2026-09-12] ingest | 《资治通鉴·汉纪》484丨古代皇帝的婚姻生活有多麻烦？
 
-Added source note for Hanji 484. Key claims: Han Yuandi's favor toward Fu Zhaoyi and Liu Kang makes household intimacy a succession-order risk; Kuang Heng uses ancestral continuity, ruler self-correction,嫡庶 distinction, and empress-consort hierarchy to warn against private preference becoming public disorder; the episode extends the family hexagram into a broader household-ethics frame.
+Added source note for 汉纪 484. Key claims: Han Yuandi's favor toward Fu Zhaoyi and Liu Kang makes household intimacy a succession-order risk; Kuang Heng uses ancestral continuity, ruler self-correction,嫡庶 distinction, and empress-consort hierarchy to warn against private preference becoming public disorder; the episode extends the family hexagram into a broader household-ethics frame.
 
 ## [2026-09-12] lint | Wiki health check
 
@@ -18544,7 +18544,7 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？
 
-Added source note for Hanji 424 and updated the Huo-family purge, Huo Guang, and Emperor Xuan pages. Created Huo Xian, Huo Chengjun, Shangguan Taihou, Western Han Xu Fu, and political risk prevention pages. Key claims: Huo collapse combines household misconduct, palace and succession danger, a failed coup plan, Xuan's accumulated fear of Huo power, and the prevention-versus-firefighting lesson of Xu Fu's overlooked warning.
+Added source note for 汉纪 424 and updated the Huo-family purge, Huo Guang, and Emperor Xuan pages. Created Huo Xian, Huo Chengjun, Shangguan Taihou, Western Han Xu Fu, and political risk prevention pages. Key claims: Huo collapse combines household misconduct, palace and succession danger, a failed coup plan, Xuan's accumulated fear of Huo power, and the prevention-versus-firefighting lesson of Xu Fu's overlooked warning.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？
 
@@ -18572,7 +18572,7 @@ Added source note plus Liu He / Haihun Hou, Haihun Marquisate, Zhang Chang of Sh
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》438｜据理力争！西汉老将赵充国的高情商管理
 
-Added source note for Hanji 438 and updated Zhao Chongguo plus frontier defensive patience and frontier resource integration. Key claims: Zhao answers Emperor Xuan's timeline pressure with an enemy-collapse diagnosis, twelve advantages for 河湟屯田, cavalry-cost and risk-control logic, and a management-facing model of data-backed upward disagreement.
+Added source note for 汉纪 438 and updated Zhao Chongguo plus frontier defensive patience and frontier resource integration. Key claims: Zhao answers Emperor Xuan's timeline pressure with an enemy-collapse diagnosis, twelve advantages for 河湟屯田, cavalry-cost and risk-control logic, and a management-facing model of data-backed upward disagreement.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？
 
@@ -18596,11 +18596,11 @@ Added source note plus Dirty-Work Delegation Statecraft. Key claims: rulers and 
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》447｜肆意杀囚，西汉酷吏严延年如何自取灭亡？
 
-Added source note and updated Yan Yannian, Huang Ba, and Terror Rule Backfire. Key claims: Yan Yannian's legal skill and mass executions create the "屠伯" reputation, while Huang Ba's humane Yingchuan governance gives a contrast case for fear-based rule before Hanji 448's downfall.
+Added source note and updated Yan Yannian, Huang Ba, and Terror Rule Backfire. Key claims: Yan Yannian's legal skill and mass executions create the "屠伯" reputation, while Huang Ba's humane Yingchuan governance gives a contrast case for fear-based rule before 汉纪 448's downfall.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？
 
-Added source note for Han Yanshou's ritual education, grassroots monitoring, subordinate management, and closed-door self-reproach dispute handling. Updated HanYanshouWesternHan and MoralPressureAdjudication with the constructive Hanji 445 layer before Hanji 446's procedural critique.
+Added source note for Han Yanshou's ritual education, grassroots monitoring, subordinate management, and closed-door self-reproach dispute handling. Updated HanYanshouWesternHan and MoralPressureAdjudication with the constructive 汉纪 445 layer before 汉纪 446's procedural critique.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？
 
@@ -18701,7 +18701,7 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》468｜言多必失！萧望之如何因“嘴”吃大亏？
 
-Added source. Key claims: early Han Yuandi politics splits among outer relatives, Confucian teacher-ministers, and Zhongshu eunuchs; Xiao Wangzhi's anti-eunuch memorial openly targets Hong Gong and Shi Xian's institutional base; Zheng Peng first gains encouragement by attacking Shi Gao's side, setting up the later Hanji 469 betrayal sequence.
+Added source. Key claims: early Han Yuandi politics splits among outer relatives, Confucian teacher-ministers, and Zhongshu eunuchs; Xiao Wangzhi's anti-eunuch memorial openly targets Hong Gong and Shi Xian's institutional base; Zheng Peng first gains encouragement by attacking Shi Gao's side, setting up the later 汉纪 469 betrayal sequence.
 
 ## [2026-09-13] lint | Wiki health check
 
@@ -18885,7 +18885,7 @@ Added source note plus Gai Kuanrao, Zheng Chang, Sili Xiaowei, and Classical All
 Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？
 
-- Added source note for the Hanji 440 backfill episode.
+- Added source note for the 汉纪 440 backfill episode.
 - Updated Zhao Chongguo and Qiang official-abuse synthesis pages for Zhao's post-campaign truth-telling, Xin-family retaliation, Xin Tang's misconduct, and Zhao Ang's prison death.
 
 ## [2026-09-13] lint | Wiki health check
@@ -18913,7 +18913,7 @@ Ran lint. See lint-report.md for details.
 Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！
 
-Added source note for Hanji 437 and updated Zhao Chongguo plus frontier defensive patience and frontier resource integration. Key claims: Zhao uses slow pursuit and trust-building release to avoid turning Qiang flight into desperate resistance; he rejects self-protective obedience when an attack order would harm state interests; and his屯田 memorial turns frontier security into local grain, timber, bridges, irrigation, posts, and guarded farming.
+Added source note for 汉纪 437 and updated Zhao Chongguo plus frontier defensive patience and frontier resource integration. Key claims: Zhao uses slow pursuit and trust-building release to avoid turning Qiang flight into desperate resistance; he rejects self-protective obedience when an attack order would harm state interests; and his屯田 memorial turns frontier security into local grain, timber, bridges, irrigation, posts, and guarded farming.
 
 ## [2026-09-13] lint | Wiki health check
 

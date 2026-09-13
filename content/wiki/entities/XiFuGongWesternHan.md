@@ -12,15 +12,15 @@ last_updated: 2026-09-10
 
 ## Overview
 
-息夫躬 / Xi Fu Gong is synthesized as a late [[HanAidi|汉哀帝]] adviser whose current wiki role combines reward-seeking accusation, Dongping-case reward, feared denunciation-channel behavior, and frontier escalation. [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] supplies the original Dongping case: Xi Fu Gong and [[SunChongWesternHan|孙宠]] learn that [[LiuYunDongpingKingWesternHan|东平王刘云]] worshiped an anomalous stone, discuss the chance to win reward, and report him for treason. [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|Hanji 586]] then shows that same case becoming documentary reward material for [[DongXian|董贤]] and a wider group of beneficiaries. [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] later shows Xi Fu Gong transforming a [[Xiongnu|匈奴]] chanyu's illness-delayed visit into a proposed security operation involving speculative threat assessment, covert diplomacy, deliberate information leakage, disaster-omen pressure, military inspection, and punitive spectacle.
+息夫躬 / Xi Fu Gong is synthesized as a late [[HanAidi|汉哀帝]] adviser whose current wiki role combines reward-seeking accusation, Dongping-case reward, feared denunciation-channel behavior, and frontier escalation. [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] supplies the original Dongping case: Xi Fu Gong and [[SunChongWesternHan|孙宠]] learn that [[LiuYunDongpingKingWesternHan|东平王刘云]] worshiped an anomalous stone, discuss the chance to win reward, and report him for treason. [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|汉纪 586]] then shows that same case becoming documentary reward material for [[DongXian|董贤]] and a wider group of beneficiaries. [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|汉纪 591-1]] later shows Xi Fu Gong transforming a [[Xiongnu|匈奴]] chanyu's illness-delayed visit into a proposed security operation involving speculative threat assessment, covert diplomacy, deliberate information leakage, disaster-omen pressure, military inspection, and punitive spectacle.
 
 ## Current Profile
 
-Xi Fu Gong's current profile is defined by escalation and accusation. Hanji 584 supplies the earliest current court-politics layer before the Xiongnu crisis: he and Sun Chong treat Liu Yun's Hu Mountain stone worship as a chance to gain reward, route the accusation through intermediaries, and are promoted after the case succeeds. The source makes his first role opportunistic and prosecutorial rather than simply advisory.
+Xi Fu Gong's current profile is defined by escalation and accusation. 汉纪 584 supplies the earliest current court-politics layer before the Xiongnu crisis: he and Sun Chong treat Liu Yun's Hu Mountain stone worship as a chance to gain reward, route the accusation through intermediaries, and are promoted after the case succeeds. The source makes his first role opportunistic and prosecutorial rather than simply advisory.
 
-Hanji 586 then shows the afterlife of that Dongping case. Xi Fu Gong and Sun Chong are treated as meritorious in the same reward package that Aidi wants to extend to Dong Xian through altered case attribution. After reward, Xi Fu Gong uses frequent access to Aidi to report matters and attack high officials. The source says other officials become afraid of him, making him a near-court intimidation figure rather than only a frontier adviser.
+汉纪 586 then shows the afterlife of that Dongping case. Xi Fu Gong and Sun Chong are treated as meritorious in the same reward package that Aidi wants to extend to Dong Xian through altered case attribution. After reward, Xi Fu Gong uses frequent access to Aidi to report matters and attack high officials. The source says other officials become afraid of him, making him a near-court intimidation figure rather than only a frontier adviser.
 
-Hanji 591-1 begins from uncertainty: the chanyu was expected to enter the frontier in the eleventh month but reports illness instead. Xi Fu Gong treats that delay as possibly fraudulent and connects it to [[Wusun|乌孙]] internal weakness and the risk that Xiongnu could absorb western influence.
+汉纪 591-1 begins from uncertainty: the chanyu was expected to enter the frontier in the eleventh month but reports illness instead. Xi Fu Gong treats that delay as possibly fraudulent and connects it to [[Wusun|乌孙]] internal weakness and the risk that Xiongnu could absorb western influence.
 
 His concrete diplomatic proposal is manipulative rather than verification-based. He suggests using surrendered western Hu people as false envoys connected to Wusun, having them ask the Han emperor to pressure the chanyu over hostages, and leaking the petition to Xiongnu envoys to break trust between Xiongnu and Wusun.
 
@@ -38,23 +38,23 @@ The proposal then expands inside the imperial audience. After [[GongsunLuWestern
 
 ## Evidence
 
-- Original Dongping accusation: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] says Xi Fu Gong and Sun Chong discuss reward opportunity and accuse Liu Yun after learning of the stone worship.
-- Reward and fear channel: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] records Xi Fu Gong's reward, while [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|Hanji 586]] says he later frightens officials through frequent reports and denunciations.
-- Illness-delay suspicion: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] says Xi Fu Gong suspects fraud when the chanyu reports illness instead of entering the frontier on schedule.
-- Wusun-Xiongnu risk frame: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] says he ties Wusun weakness, hostage leverage, and Xiongnu contacts into a Western Regions danger scenario.
-- False-envoy plan: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] says he proposes using surrendered western Hu people as fake envoys and leaking their petition to Xiongnu envoys.
-- Preventive-defense language: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] says Xi Fu Gong presents the plan as eliminating future rebellion before it appears.
-- Punitive escalation: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] says he later proposes frontier inspection and killing a commandery governor to establish fear.
+- Original Dongping accusation: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] says Xi Fu Gong and Sun Chong discuss reward opportunity and accuse Liu Yun after learning of the stone worship.
+- Reward and fear channel: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] records Xi Fu Gong's reward, while [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|汉纪 586]] says he later frightens officials through frequent reports and denunciations.
+- Illness-delay suspicion: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|汉纪 591-1]] says Xi Fu Gong suspects fraud when the chanyu reports illness instead of entering the frontier on schedule.
+- Wusun-Xiongnu risk frame: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|汉纪 591-1]] says he ties Wusun weakness, hostage leverage, and Xiongnu contacts into a Western Regions danger scenario.
+- False-envoy plan: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|汉纪 591-1]] says he proposes using surrendered western Hu people as fake envoys and leaking their petition to Xiongnu envoys.
+- Preventive-defense language: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|汉纪 591-1]] says Xi Fu Gong presents the plan as eliminating future rebellion before it appears.
+- Punitive escalation: [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|汉纪 591-1]] says he later proposes frontier inspection and killing a commandery governor to establish fear.
 
 ## Qualifications
 
-This page is bounded to Hanji 584, Hanji 586, and Hanji 591-1. It does not establish Xi Fu Gong's full biography, later fate, every intermediary in the Liu Yun accusation, or whether the chanyu illness had any hidden strategic content. The sources present his conduct through critical framing, so the page treats his accusation and security strategies as source-grounded proposals and behaviors rather than verified diagnoses of others' intent.
+This page is bounded to 汉纪 584, 汉纪 586, and 汉纪 591-1. It does not establish Xi Fu Gong's full biography, later fate, every intermediary in the Liu Yun accusation, or whether the chanyu illness had any hidden strategic content. The sources present his conduct through critical framing, so the page treats his accusation and security strategies as source-grounded proposals and behaviors rather than verified diagnoses of others' intent.
 
 ## What Changed
 
-- Added Hanji 584 as the original Dongping accusation layer: Xi Fu Gong and Sun Chong turn Liu Yun's stone worship into a reward-seeking treason report.
-- Reframed Hanji 586 as the later documentary and reward afterlife of that case, including Xi Fu Gong's feared denunciation channel.
-- Preserved Hanji 591-1's chanyu illness-delay and false-envoy proposal.
+- Added 汉纪 584 as the original Dongping accusation layer: Xi Fu Gong and Sun Chong turn Liu Yun's stone worship into a reward-seeking treason report.
+- Reframed 汉纪 586 as the later documentary and reward afterlife of that case, including Xi Fu Gong's feared denunciation channel.
+- Preserved 汉纪 591-1's chanyu illness-delay and false-envoy proposal.
 
 ## Relationships
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Command Synchronization Failure / 军令同步失灵
 
-Command synchronization failure is the breakdown that happens when different arms of the same coalition keep executing incompatible mandates after the situation changes. In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]], [[LiShiqi]] has used diplomacy to persuade [[TianGuangQiKing]] and [[QiState]] to submit, but [[HanXin]] still acts on his military authorization to attack Qi because no updated stop order has reached or bound him.
+Command synchronization failure is the breakdown that happens when different arms of the same coalition keep executing incompatible mandates after the situation changes. In [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|汉纪 163]], [[LiShiqi]] has used diplomacy to persuade [[TianGuangQiKing]] and [[QiState]] to submit, but [[HanXin]] still acts on his military authorization to attack Qi because no updated stop order has reached or bound him.
 
 The episode presents the failure as procedural and political at once. [[KuaiChe]] exploits the missing command update by arguing that Han Xin will lose credit if he lets one envoy win seventy cities, so status anxiety fills the gap where synchronized command should have been. From Qi's side, the result looks like deliberate deception: the envoy who promised safety is held responsible for the army that follows him.
 

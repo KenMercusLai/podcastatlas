@@ -26,9 +26,9 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 
 [[zizhi-tongjian-qinji-113-limu-ruhe-yong-yiji-zhili-zu-qinguo-tongyi-luymqpcolsvyz5miodit3wdlx0ob]] adds the final Zhao-front version. Qin first exploits Zhao's disaster conditions through [[DunRuo|顿弱]]'s rumor and panic work, then bribes [[GuoKai|郭开]] to tell [[ZhaoYoumiuWang|赵迁 / 赵幽缪王]] that [[LiMu|李牧]] and [[SimaShang|司马尚]] are plotting rebellion. The wedge succeeds because it makes Zhao remove the command pair Qin most wants off the field.
 
-[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]] adds the Chu-Han version through [[ChenPing|陈平]]. Instead of trying to remove one battlefield commander by court order, Chen Ping uses [[LiuBang|刘邦]]'s forty thousand gold to make [[XiangYu|项羽]] distrust the small core of reliable Chu figures: [[FanZeng|范增]], [[ZhongliMo|钟离眜]], [[LongJuChuGeneral|龙且]], and [[ZhouYin|周殷]]. The first named rumor claims Zhongli Mo is under-rewarded and ready to join Han, showing that the wedge can be built from reward grievance rather than only treason accusation.
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|汉纪 160 part 1]] adds the Chu-Han version through [[ChenPing|陈平]]. Instead of trying to remove one battlefield commander by court order, Chen Ping uses [[LiuBang|刘邦]]'s forty thousand gold to make [[XiangYu|项羽]] distrust the small core of reliable Chu figures: [[FanZeng|范增]], [[ZhongliMo|钟离眜]], [[LongJuChuGeneral|龙且]], and [[ZhouYin|周殷]]. The first named rumor claims Zhongli Mo is under-rewarded and ready to join Han, showing that the wedge can be built from reward grievance rather than only treason accusation.
 
-[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]] gives the Fan Zeng version. Chen Ping does not merely circulate a statement; he stages a social scene for Xiang Yu's envoy, treating him as if he came from Fan Zeng and then withdrawing the honor. The returning envoy becomes the carrier of the rumor, while [[XiangCampFactionalCleavage|项羽阵营派系裂缝]] supplies the background that makes a false separate-Fan-Zeng channel believable to Xiang Yu.
+[[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|汉纪 160 part 2]] gives the Fan Zeng version. Chen Ping does not merely circulate a statement; he stages a social scene for Xiang Yu's envoy, treating him as if he came from Fan Zeng and then withdrawing the honor. The returning envoy becomes the carrier of the rumor, while [[XiangCampFactionalCleavage|项羽阵营派系裂缝]] supplies the background that makes a false separate-Fan-Zeng channel believable to Xiang Yu.
 
 ## Key Claims
 - Rumor is strongest when it amplifies a suspicion the target already finds emotionally or politically plausible.
@@ -41,12 +41,12 @@ Its success depends on timing. The same slander fails under Yan Zhaowang because
 - Qinji 104 is adjacent rather than central: the corrupt report about Lian Po is internal court sabotage, but it shares the same command-damaging information pathway.
 - Qinji 112-1 widens the pattern from commanders to envoys: rumor can make a state export diplomatic talent to the enemy.
 - Qinji 113 returns the pattern to battlefield command under disaster conditions: rumor, omen-like panic, bribery, and treason accusation combine to remove Li Mu and Sima Shang.
-- Hanji 160 part 1 adds that a rumor wedge can target a whole trusted core by connecting under-rewarded merit to imagined defection and kingship ambition.
-- Hanji 160 part 2 adds that a rumor wedge can be theatrical and indirect: the operator creates an experience the enemy's own messenger will report as suspicious.
+- 汉纪 160 part 1 adds that a rumor wedge can target a whole trusted core by connecting under-rewarded merit to imagined defection and kingship ambition.
+- 汉纪 160 part 2 adds that a rumor wedge can be theatrical and indirect: the operator creates an experience the enemy's own messenger will report as suspicious.
 
 ## Connections
-- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[XiangBo|项伯]] - staged envoy experience and factional crack used to isolate Fan Zeng.
-- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|Hanji 160 part 1]], [[ChenPing|陈平]], [[XiangYu|项羽]], [[FanZeng|范增]], [[ZhongliMo|钟离眜]], [[LongJuChuGeneral|龙且]], and [[ZhouYin|周殷]] - funded Chu-Han rumor wedge against the trusted core.
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|汉纪 160 part 2]], [[XiangCampFactionalCleavage|项羽阵营派系裂缝]], [[FanZeng|范增]], and [[XiangBo|项伯]] - staged envoy experience and factional crack used to isolate Fan Zeng.
+- [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-1-lujcothn8aunydmznta1tkglqt-q|汉纪 160 part 1]], [[ChenPing|陈平]], [[XiangYu|项羽]], [[FanZeng|范增]], [[ZhongliMo|钟离眜]], [[LongJuChuGeneral|龙且]], and [[ZhouYin|周殷]] - funded Chu-Han rumor wedge against the trusted core.
 - [[TianDan|田单]] - user of the tactic.
 - [[YanHuiwang|燕惠王]] - target whose suspicion is exploited.
 - [[LeYi|乐毅]] - commander reframed as a would-be usurper.

@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 9-10 / 33-34 CE before [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]]. It opens with [[YinLihua|阴丽华]]'s family hostage case and the severe "不得顾质" rule, then moves through [[YinXingGuangwuMaternalKin|阴兴]]'s refusal of family reward, [[GuoJiEasternHan|郭伋]]'s trust-based bandit surrender policy in [[YingchuanCommandery|颍川]], and the campaign notices around Shache, [[WuHanEasternHan|吴汉]], and Feng Yi.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 9-10 / 33-34 CE before [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|汉纪 711]]. It opens with [[YinLihua|阴丽华]]'s family hostage case and the severe "不得顾质" rule, then moves through [[YinXingGuangwuMaternalKin|阴兴]]'s refusal of family reward, [[GuoJiEasternHan|郭伋]]'s trust-based bandit surrender policy in [[YingchuanCommandery|颍川]], and the campaign notices around Shache, [[WuHanEasternHan|吴汉]], and Feng Yi.
 
 The main strategic branch follows [[KouXunEasternHan|寇恂]] at Gaoping: he executes [[HuangfuWenEasternHan|皇甫文]], the unyielding adviser sent by [[GaoJunEasternHan|高峻]], and forces surrender the same day. The host treats the case as [[MouDestructionStrike|伐谋式斩首]]: "上兵伐谋" means destroying an opponent's planning center or will, not merely valuing clever plans.
 
@@ -38,7 +38,7 @@ The main strategic branch follows [[KouXunEasternHan|寇恂]] at Gaoping: he exe
 
 ## Connections
 
-- [[HostageRansomDeterrence]], [[LiuXiu|刘秀]], and [[YinLihua|阴丽华]] - the source gives direct evidence for the earlier Guangwu hostage precedent that Hanji 915 later compared with Qiao Xuan.
+- [[HostageRansomDeterrence]], [[LiuXiu|刘秀]], and [[YinLihua|阴丽华]] - the source gives direct evidence for the earlier Guangwu hostage precedent that 汉纪 915 later compared with Qiao Xuan.
 - [[YinXingGuangwuMaternalKin|阴兴]] and [[OuterRelativePreventiveRestraint|外戚预防性约束]] - Yin Xing refuses reward and persuades Yin Lihua not to seek office and title for relatives.
 - [[GuoJiEasternHan|郭伋]], [[YingchuanCommandery|颍川]], and [[CreditBasedBanditSurrender|信义招降盗贼]] - Guo Ji's credibility makes surrender safer than continued banditry.
 - [[KouXunEasternHan|寇恂]], [[GaoJunEasternHan|高峻]], [[HuangfuWenEasternHan|皇甫文]], [[MouDestructionStrike|伐谋式斩首]], and [[ForceBackedSurrenderPersuasion|武力背书式劝降]] - the Gaoping mission turns a killed strategist into immediate surrender pressure.
@@ -50,6 +50,6 @@ The main strategic branch follows [[KouXunEasternHan|寇恂]] at Gaoping: he exe
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology note: this source backfills a 33-34 CE Guangwu layer before the already-ingested Hanji 711-719 sequence and gives direct evidence for a hostage precedent previously preserved secondhand in Hanji 915.
+- Chronology note: this source backfills a 33-34 CE Guangwu layer before the already-ingested 汉纪 711-719 sequence and gives direct evidence for a hostage precedent previously preserved secondhand in 汉纪 915.
 - Identity normalization: the transcript forms 殷心, 郭吉, 尹川, 寇勋, and 高郡 are normalized cautiously to [[YinXingGuangwuMaternalKin|阴兴]], [[GuoJiEasternHan|郭伋]], [[YingchuanCommandery|颍川]], [[KouXunEasternHan|寇恂]], and [[GaoJunEasternHan|高峻]] based on the Guangwu-era context.
 - Scope caution: Yin Lihua's killed brother, Zhao Hong, Zhao Wu, King Kang of Shache, the Shache princely appointments, Jia Lan, Wang Ba, Feng Yi's final campaign details, Wei Chun, Zhao Kuang, Tian Ye, Luomen, and exact force counts remain source-scoped unless later source notes require canonical pages.

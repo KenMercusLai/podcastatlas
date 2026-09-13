@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》167｜见证项羽最终之战（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[GaixiaBattle|垓下之战]] battlefield sequence opened in [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167 part 1]]. The source shifts the focus from [[LiuBang|刘邦]] as political ruler to [[HanXin|韩信]] as coalition commander: Liu Bang's decisive virtue here is that he gives up direct command, while Han Xin uses a three-line deep formation to absorb and exhaust [[XiangYu|项羽]]'s shock attack. Xiang Yu breaks through the first two lines but cannot make the allied army collapse, and by the time he reaches the third line under [[ZhouBo|周勃]] and [[ChaiWu|柴武]], Han Xin's surrounding pressure has turned the battle into Chu's final disaster.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[GaixiaBattle|垓下之战]] battlefield sequence opened in [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|汉纪 167 part 1]]. The source shifts the focus from [[LiuBang|刘邦]] as political ruler to [[HanXin|韩信]] as coalition commander: Liu Bang's decisive virtue here is that he gives up direct command, while Han Xin uses a three-line deep formation to absorb and exhaust [[XiangYu|项羽]]'s shock attack. Xiang Yu breaks through the first two lines but cannot make the allied army collapse, and by the time he reaches the third line under [[ZhouBo|周勃]] and [[ChaiWu|柴武]], Han Xin's surrounding pressure has turned the battle into Chu's final disaster.
 
 ## Key Claims
 - Liu Bang's most important correct decision at Gaixia is not a battlefield maneuver but the willingness to hand the allied command to Han Xin after recognizing his own limits in direct large-army field command.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 > "十万楚军将士，战死者八九"
 
 ## Connections
-- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167 part 1]] - immediate setup through post-Honggou pursuit, land-for-mobilization, Huainan collapse, and Xiang Yu's opening charge.
+- [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|汉纪 167 part 1]] - immediate setup through post-Honggou pursuit, land-for-mobilization, Huainan collapse, and Xiang Yu's opening charge.
 - [[GaixiaBattle|垓下之战]] - final battle now completed from coalition assembly into battlefield defeat.
 - [[HanXin|韩信]] - receives coalition command and turns Xiang Yu's charge into an exhaustion-and-encirclement problem.
 - [[LiuBang|刘邦]] - succeeds by yielding direct command and taking the second-line role inside Han Xin's formation.
@@ -47,5 +47,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- The episode resolves rather than contradicts [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|Hanji 167 part 1]]: part 1 stops at Xiang Yu's first charge; part 2 explains why that charge failed to create the coalition collapse Xiang Yu needed.
+- The episode resolves rather than contradicts [[zizhi-tongjian-hanji-167-jianzheng-xiangyu-zuizhong-zhizhan-1-lm6nwhjjuguhrmwzoz0sqawgxwuv|汉纪 167 part 1]]: part 1 stops at Xiang Yu's first charge; part 2 explains why that charge failed to create the coalition collapse Xiang Yu needed.
 - The source's reading that Liu Bang correctly yielded command fits the existing [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]] page and does not overturn earlier criticism of Liu Bang at Pengcheng; it narrows the contrast to Liu Bang's later self-correction.

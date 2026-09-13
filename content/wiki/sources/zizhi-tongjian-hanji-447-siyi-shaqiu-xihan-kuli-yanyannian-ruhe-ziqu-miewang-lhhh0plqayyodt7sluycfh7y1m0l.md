@@ -16,7 +16,7 @@ last_updated: 2026-09-13
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens 《汉纪》十九 by framing [[YanYannianWesternHan|严延年]] as a warning about power, legal technique, and self-destruction. It contrasts [[HuangBaWesternHan|黄霸]]'s humane [[YingchuanCommandery|颍川郡]] governance, auspicious-omen recognition, and population attraction with Yan's Henan rule through harsh law, secret judgment writing, mass executions, and the "屠伯" reputation.
 
-The durable synthesis is that Yan's problem is not severity alone. The episode says he uses real legal skill against powerful offenders, but mixes law, deterrence, private intent, and prestige hunger until legal authority becomes fear production. This note sets up [[zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin|Hanji 448]], where that fear turns into denunciation and execution.
+The durable synthesis is that Yan's problem is not severity alone. The episode says he uses real legal skill against powerful offenders, but mixes law, deterrence, private intent, and prestige hunger until legal authority becomes fear production. This note sets up [[zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin|汉纪 448]], where that fear turns into denunciation and execution.
 
 ## Key Claims
 
@@ -26,7 +26,7 @@ The durable synthesis is that Yan's problem is not severity alone. The episode s
 - Yan Yannian has serious legal ability and targets豪强 who injure weaker people, but writes judgments secretly and makes them difficult to challenge.
 - Annual winter concentration of prisoners and large-scale executions create Yan's "屠伯" reputation and intimidate Henan officials and commoners.
 - The host argues that Yan only appears Legalist: his practice departs from fair, public, impartial law by mixing coercion with private desire.
-- The episode closes by treating Yan's resentment of Huang Ba's promotion and careless complaint as the prelude to the cruel-official downfall completed in Hanji 448.
+- The episode closes by treating Yan's resentment of Huang Ba's promotion and careless complaint as the prelude to the cruel-official downfall completed in 汉纪 448.
 
 ## Key Quotes
 
@@ -47,5 +47,5 @@ The durable synthesis is that Yan's problem is not severity alone. The episode s
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Scope caution: the episode summarizes Yan's legal practice and execution scenes but does not provide full case records, names of executed prisoners, or the later accusation details completed in Hanji 448.
+- Scope caution: the episode summarizes Yan's legal practice and execution scenes but does not provide full case records, names of executed prisoners, or the later accusation details completed in 汉纪 448.
 - Interpretation caution: Huang Ba's auspicious signs and Yan's moral retribution are preserved as the source's political-cultural framing, not independently verified causal proof.

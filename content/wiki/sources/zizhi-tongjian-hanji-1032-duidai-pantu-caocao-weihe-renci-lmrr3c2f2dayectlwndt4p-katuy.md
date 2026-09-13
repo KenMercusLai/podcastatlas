@@ -30,7 +30,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode bridges [[G
 > "曹操尊奉天子" - Tian Yu's legitimacy argument as summarized by the episode.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|Hanji 1031]] and [[zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4|Hanji 1033]] - adjacent episodes on Gongsun Zan's endpoint and the Yuan Shu / Yuan Shao pre-Guandu sequence.
+- [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|汉纪 1031]] and [[zizhi-tongjian-hanji-1033-geju-junfa-yuanshu-zuizhong-tuxue-er-wang-lt0ibs-en0oeoqkkcxl8sevjng4|汉纪 1033]] - adjacent episodes on Gongsun Zan's endpoint and the Yuan Shu / Yuan Shao pre-Guandu sequence.
 - [[YuanShao|袁绍]], [[TadunLateHan|蹋顿]], [[YanRou|阎柔]], [[QiuLijuLateHan|丘力居]], [[Wuhuan|乌桓]], [[XianyuFu|鲜于辅]], and [[TianYuLateHan|田豫]] - northern-rear settlement after Gongsun Zan's fall.
 - [[CaoCao|曹操]], [[CaoRen|曹仁]], [[SuiGuLateHan|眭固]], [[ShequanLateHan|射犬]], [[WeiZhongLateHan|魏种]], and [[Aocang|敖仓]] - Cao-side Yellow River operation and talent-based pardon.
 - [[GuanduCampaign|官渡之战]], [[StrategicDefectorIncorporation|纳叛安抚式整合]], [[LegitimacyWindowSeizure|合法性窗口抢占]], [[TalentAsStateTreasure|以贤臣为宝]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - interpretive frames for the coming confrontation, submission signals, and clemency toward a prior defector.

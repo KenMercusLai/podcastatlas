@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 阳人之战 / Yangren Battle (late Han)
 
-阳人之战 / Yangren Battle enters the wiki through [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] as [[SunJianLateHan|孙坚]]'s recovery battle after [[XuRongLateHan|徐荣]] defeats him near Liang. Sun Jian regroups at Yangren, where [[DongZhuo|董卓]] sends [[HuZhenLateHan|胡轸]] and [[LyuBu|吕布]] against him.
+阳人之战 / Yangren Battle enters the wiki through [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|汉纪 955]] as [[SunJianLateHan|孙坚]]'s recovery battle after [[XuRongLateHan|徐荣]] defeats him near Liang. Sun Jian regroups at Yangren, where [[DongZhuo|董卓]] sends [[HuZhenLateHan|胡轸]] and [[LyuBu|吕布]] against him.
 
 The source's causal emphasis is internal disorder on Dong Zhuo's side. Lü Bu's resentment and false reports disrupt Hu Zhen's force, and Sun Jian exploits the disorder to win. [[HuaXiongLateHan|华雄]] is killed in this battle, making Yangren the episode's key correction of the [[RomanceOfTheThreeKingdoms|《三国演义》]] memory that assigns the famous Hua Xiong killing to [[GuanYu|关羽]].
 

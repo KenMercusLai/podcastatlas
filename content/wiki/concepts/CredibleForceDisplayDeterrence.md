@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Credible Force-Display Deterrence / 可信武力展示威慑
 
-Credible force-display deterrence / 可信武力展示威慑 enters the wiki through [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|Hanji 1008]]'s reading of [[LyuBu|吕布]]'s辕门射戟. [[YuanShu|袁术]] sends [[JiLing|纪灵]] against [[LiuBei|刘备]], but Lü Bu decides that a Yuan Shu victory would leave himself strategically exposed. Rather than immediately fight, he turns the dispute into a public test of force.
+Credible force-display deterrence / 可信武力展示威慑 enters the wiki through [[zizhi-tongjian-hanji-1008-ruhe-pingjia-caocao-de-tuntianzhi-ls8wvh9ox-pcjmt0z8w82opbha-k|汉纪 1008]]'s reading of [[LyuBu|吕布]]'s辕门射戟. [[YuanShu|袁术]] sends [[JiLing|纪灵]] against [[LiuBei|刘备]], but Lü Bu decides that a Yuan Shu victory would leave himself strategically exposed. Rather than immediately fight, he turns the dispute into a public test of force.
 
 The mechanism has three parts. Lü Bu first makes both sides accept a visible condition: if he hits the side branch of the halberd at the camp gate, they withdraw. He then performs a difficult shot in front of the parties. Finally, the display works because the audience believes the same actor who can hit the target may also be willing and able to intervene if ignored.
 

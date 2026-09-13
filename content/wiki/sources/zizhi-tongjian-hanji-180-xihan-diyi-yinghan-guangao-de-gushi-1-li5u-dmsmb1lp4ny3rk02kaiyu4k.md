@@ -13,10 +13,10 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》180｜西汉第一硬汉贯高的故事（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the post-[[BaidengEncirclement|白登之围]] settlement after [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]]. It shows [[LiuBang|刘邦]] implementing a substitute-princess version of [[HanXiongnuHeqinPolicy|汉匈和亲政策]], then accepting [[LouJing|刘敬 / 楼敬]]'s recommendation to move six-state elites and local powers into [[GuanzhongRegion|关中]] under [[GuanzhongEliteRelocation|关中豪强迁徙]]. The core drama is the exposure of [[GuanGao|贯高]]'s plot, [[ZhangAo|张敖]]'s arrest and demotion, and Guan Gao's [[TortureResistantExoneration|刑讯守口式申冤]]: he survives torture long enough to prove that Zhang Ao did not join the assassination plan, then dies after his lord is released.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the post-[[BaidengEncirclement|白登之围]] settlement after [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|汉纪 179]]. It shows [[LiuBang|刘邦]] implementing a substitute-princess version of [[HanXiongnuHeqinPolicy|汉匈和亲政策]], then accepting [[LouJing|刘敬 / 楼敬]]'s recommendation to move six-state elites and local powers into [[GuanzhongRegion|关中]] under [[GuanzhongEliteRelocation|关中豪强迁徙]]. The core drama is the exposure of [[GuanGao|贯高]]'s plot, [[ZhangAo|张敖]]'s arrest and demotion, and Guan Gao's [[TortureResistantExoneration|刑讯守口式申冤]]: he survives torture long enough to prove that Zhang Ao did not join the assassination plan, then dies after his lord is released.
 
 ## Key Claims
-- Gaozu ninth year turns the stalled heqin plan from Hanji 179 into an implementation compromise: Liu Bang chooses another woman, names her legitimate elder princess, sends her to [[MaoDunChanyu|冒顿单于]], and has [[LouJing|刘敬 / 楼敬]] escort the mission.
+- Gaozu ninth year turns the stalled heqin plan from 汉纪 179 into an implementation compromise: Liu Bang chooses another woman, names her legitimate elder princess, sends her to [[MaoDunChanyu|冒顿单于]], and has [[LouJing|刘敬 / 楼敬]] escort the mission.
 - [[SimaGuang|司马光]] criticizes Liu Jing's heqin strategy as insufficiently rigorous because Modu's violence cannot be reliably transformed by kinship or gifts.
 - Liu Jing's second proposal links frontier defense with domestic control: move six-state royal descendants, powerful local families, and famous figures into [[GuanzhongRegion|关中]] so the capital region has people and the eastern elite bases are weakened.
 - The episode records [[GuanzhongEliteRelocation|关中豪强迁徙]] as the beginning of a long Western Han policy, not just a one-off resettlement order.
@@ -44,5 +44,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This source qualifies Hanji 179's warning about substitute brides: Hanji 179 records Liu Jing's stated preference for a real legitimate princess and Lu Zhi's blockage; Hanji 180 says Liu Bang proceeds by naming another woman as legitimate elder princess anyway. The wiki records this as a policy compromise that partly violates Liu Jing's earlier risk standard, not as a contradiction in the source sequence.
+- This source qualifies 汉纪 179's warning about substitute brides: 汉纪 179 records Liu Jing's stated preference for a real legitimate princess and Lu Zhi's blockage; 汉纪 180 says Liu Bang proceeds by naming another woman as legitimate elder princess anyway. The wiki records this as a policy compromise that partly violates Liu Jing's earlier risk standard, not as a contradiction in the source sequence.
 - The host's claim that Guanzhong elite relocation continued for more than 150 years is recorded as source-scoped unless later sources provide fuller institutional detail.

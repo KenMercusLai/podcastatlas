@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-冯屈 / Feng Qu enters the wiki through [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] as the Qinghe commandery commandant who warns before a major Yellow River breach that the lower river is exposed if the Tunshi River remains blocked. His recommendation to dredge the river is rejected after court review on cost grounds.
+冯屈 / Feng Qu enters the wiki through [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] as the Qinghe commandery commandant who warns before a major Yellow River breach that the lower river is exposed if the Tunshi River remains blocked. His recommendation to dredge the river is rejected after court review on cost grounds.
 
 ## Current Profile
 
@@ -20,24 +20,24 @@ When the Yellow River later breaches, Feng Qu becomes the source's counterfactua
 
 ## Key Characteristics
 
-- Qinghe commandery commandant in the Hanji 507 flood-prevention branch.
+- Qinghe commandery commandant in the 汉纪 507 flood-prevention branch.
 - Warns that a blocked Tunshi River increases lower Yellow River flood risk.
 - Recommends dredging before the breach.
 - Functions as a preventive-governance signal whose advice is not adopted.
 
 ## Evidence
 
-- Warning: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Feng Qu reports Qinghe's downstream exposure and fragile soil.
-- Dredging proposal: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Feng Qu proposes reopening the Tunshi River so Yellow River water can be distributed.
-- Later breach: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says the Yellow River later breaches at Guantao and Dongjun Jindi after the proposal is not adopted.
+- Warning: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says Feng Qu reports Qinghe's downstream exposure and fragile soil.
+- Dredging proposal: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says Feng Qu proposes reopening the Tunshi River so Yellow River water can be distributed.
+- Later breach: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says the Yellow River later breaches at Guantao and Dongjun Jindi after the proposal is not adopted.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 507. It does not reconstruct Feng Qu's full office record, the exact hydrology of the Tunshi River, or whether his proposal would have prevented every later flood effect.
+This page is source-scoped to 汉纪 507. It does not reconstruct Feng Qu's full office record, the exact hydrology of the Tunshi River, or whether his proposal would have prevented every later flood effect.
 
 ## What Changed
 
-- Created Feng Qu from Hanji 507's ignored flood-prevention memorial.
+- Created Feng Qu from 汉纪 507's ignored flood-prevention memorial.
 
 ## Relationships
 

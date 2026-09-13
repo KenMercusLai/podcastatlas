@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》921丨金钱如水：缺则渴死，贪则淹死
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 181 CE, immediately before the Hanji 922 pre-Yellow-Turban layer. It frames money as a human-nature test, then shows [[EmperorLingOfHan|汉灵帝]] turning public resources into private palace accumulation, [[LyuQiangLateHan|吕强]] naming the public/private damage and appointment-accountability failure, and [[ZhaoZhongLateHan|赵忠]] inheriting [[CaoJieLateHan|曹节]]'s inner-court position while Liu Xie is routed into [[EmpressDowagerDongLateHan|董太后]]'s care.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 181 CE, immediately before the 汉纪 922 pre-Yellow-Turban layer. It frames money as a human-nature test, then shows [[EmperorLingOfHan|汉灵帝]] turning public resources into private palace accumulation, [[LyuQiangLateHan|吕强]] naming the public/private damage and appointment-accountability failure, and [[ZhaoZhongLateHan|赵忠]] inheriting [[CaoJieLateHan|曹节]]'s inner-court position while Liu Xie is routed into [[EmpressDowagerDongLateHan|董太后]]'s care.
 
 ## Key Claims
 - Money is not treated as inherently moral or immoral; the episode uses it as a pressure that amplifies desire, fear, trust, and conflict.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 1
 - [[LyuQiangLateHan|吕强]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[CourtOfficeCapture|朝廷开府任官失序]] — the memorial reaches the ruler but does not repair finance or personnel channels.
 - [[WangMeirenLateHan|王美人]], [[EmpressDowagerHe|何皇后 / 何太后]], [[EmpressDowagerDongLateHan|董太后]], and [[EmperorXianOfHan|汉献帝]] — the source supplies the birth-mother, poisoning, and foster-grandmother setup behind later succession conflict.
 - [[CaoJieLateHan|曹节]], [[ZhaoZhongLateHan|赵忠]], [[TenAttendantsLateHan|十常侍]], [[ChenFanLateHan|陈蕃]], and [[DouWuLateHan|窦武]] — the episode connects old anti-eunuch grievance to continuing favorite power.
-- [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] — the later Hanji 932 palace-construction fee pattern is foreshadowed by this earlier private-store extraction.
+- [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] — the later 汉纪 932 palace-construction fee pattern is foreshadowed by this earlier private-store extraction.
 
 ## Contradictions
 - No settled contradiction found. The transcript's fee wording around `倒行费` is kept source-scoped because it appears to be an ASR rendering of a local surcharge term.

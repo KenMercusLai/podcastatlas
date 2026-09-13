@@ -8,9 +8,9 @@ last_updated: 2026-08-25
 
 # Prestige-Based Coalition Leadership / 名望型联盟领导
 
-Prestige-based coalition leadership / 名望型联盟领导 is the pattern [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|Hanji 950]] draws from [[YuanShao|袁绍]]'s selection as盟主 of the [[AntiDongZhuoCoalition|反董卓联盟]]. Yuan Shao has family prestige, broad elite recognition, prior anti-eunuch and anti-[[DongZhuo|董卓]] reputation, and some military preparation, so he can become the visible center of the common-enemy front.
+Prestige-based coalition leadership / 名望型联盟领导 is the pattern [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr|汉纪 950]] draws from [[YuanShao|袁绍]]'s selection as盟主 of the [[AntiDongZhuoCoalition|反董卓联盟]]. Yuan Shao has family prestige, broad elite recognition, prior anti-eunuch and anti-[[DongZhuo|董卓]] reputation, and some military preparation, so he can become the visible center of the common-enemy front.
 
-The concept is not a claim that prestige equals command capacity. Hanji 950 pairs Yuan Shao's selection with [[ZhengTaiLateHan|郑泰]]'s warning that the coalition lacks coherent hierarchy and shared interest, and with [[BaoXin|鲍信]]'s separate judgment that [[CaoCao|曹操]] may be the stronger future executor. Prestige can convene a coalition, but it does not automatically make members accept risk, logistics burdens, or subordination.
+The concept is not a claim that prestige equals command capacity. 汉纪 950 pairs Yuan Shao's selection with [[ZhengTaiLateHan|郑泰]]'s warning that the coalition lacks coherent hierarchy and shared interest, and with [[BaoXin|鲍信]]'s separate judgment that [[CaoCao|曹操]] may be the stronger future executor. Prestige can convene a coalition, but it does not automatically make members accept risk, logistics burdens, or subordination.
 
 ## Key Claims
 

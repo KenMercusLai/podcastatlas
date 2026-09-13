@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-董班 / Dong Ban is the Nanyang figure in [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] who joins [[GuoLiangLiGuStudent|郭亮]] in mourning [[LiGuLateHan|李固]] at the publicly displayed body despite [[LiangJiLateHan|梁冀]]'s threat of punishment.
+董班 / Dong Ban is the Nanyang figure in [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] who joins [[GuoLiangLiGuStudent|郭亮]] in mourning [[LiGuLateHan|李固]] at the publicly displayed body despite [[LiangJiLateHan|梁冀]]'s threat of punishment.
 
 ## Current Profile
 
-Hanji 830 defines Dong Ban by his shared action with Guo Liang. After Li Gu and [[DuQiaoLateHan|杜乔]] die in prison, Liang Ji displays their bodies north of Luoyang and forbids mourning. Dong Ban and Guo Liang go anyway and remain at the body despite official threats.
+汉纪 830 defines Dong Ban by his shared action with Guo Liang. After Li Gu and [[DuQiaoLateHan|杜乔]] die in prison, Liang Ji displays their bodies north of Luoyang and forbids mourning. Dong Ban and Guo Liang go anyway and remain at the body despite official threats.
 
 Their answer to the亭长 turns mourning into a public moral act: Li Gu's righteousness makes life and death secondary. [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] hears of the act and pardons them, and Dong Ban later withdraws permanently from office with Guo Liang and [[YangKuangDuQiaoRetainer|杨匡]].
 
@@ -28,14 +28,14 @@ Their answer to the亭长 turns mourning into a public moral act: Li Gu's righte
 
 ## Evidence
 
-- Defiant mourning: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Dong Ban and Guo Liang mourn Li Gu at the displayed body despite the ban.
-- Threat response: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says the two answer threats by invoking Li Gu's righteousness and disregarding life and death.
-- Pardon: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Na pardons Dong Ban and Guo Liang.
-- Withdrawal: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Dong Ban later lives hidden and never returns to office.
+- Defiant mourning: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Dong Ban and Guo Liang mourn Li Gu at the displayed body despite the ban.
+- Threat response: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says the two answer threats by invoking Li Gu's righteousness and disregarding life and death.
+- Pardon: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Liang Na pardons Dong Ban and Guo Liang.
+- Withdrawal: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Dong Ban later lives hidden and never returns to office.
 
 ## Qualifications
 
-This page is bounded to Hanji 830 and does not reconstruct Dong Ban's offices, family, or later biography beyond the mourning and withdrawal sequence.
+This page is bounded to 汉纪 830 and does not reconstruct Dong Ban's offices, family, or later biography beyond the mourning and withdrawal sequence.
 
 ## What Changed
 

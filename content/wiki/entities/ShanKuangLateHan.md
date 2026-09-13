@@ -9,11 +9,11 @@ knowledge_schema: synthesis-v1
 ---
 ## Overview
 
-单匡 / Shan Kuang is [[ShanChaoLateHan|单超]]'s nephew and Jiyin administrator in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]]. His source-bounded role is the protected-family offender whose corruption case escalates into an attempted killing of the investigator and a failed demand for formal confrontation.
+单匡 / Shan Kuang is [[ShanChaoLateHan|单超]]'s nephew and Jiyin administrator in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]]. His source-bounded role is the protected-family offender whose corruption case escalates into an attempted killing of the investigator and a failed demand for formal confrontation.
 
 ## Current Profile
 
-Hanji 851 presents Shan Kuang as locally abusive under cover of Shan Chao's power. As Jiyin administrator, he accumulates huge wealth and is accused of licentious conduct. [[FifthZhongLateHan|第五种]] sends [[WeiYuLateHan|魏宇]] to investigate, and the resulting report brings Shan Kuang and Shan Chao into the same accusation field.
+汉纪 851 presents Shan Kuang as locally abusive under cover of Shan Chao's power. As Jiyin administrator, he accumulates huge wealth and is accused of licentious conduct. [[FifthZhongLateHan|第五种]] sends [[WeiYuLateHan|魏宇]] to investigate, and the resulting report brings Shan Kuang and Shan Chao into the same accusation field.
 
 Shan Kuang then tries to control the evidence. He hires [[RenFangLateHan|任芳]] to kill Wei Yu, but Wei Yu detects the plot and has Ren Fang captured and imprisoned in Luoyang. Shan Kuang seeks to arrange Ren Fang's escape. When [[YangBingLateHan|杨秉]] asks that Shan Kuang be brought to Luoyang for confrontation, the court punishes Yang Bing rather than sending the protected offender.
 
@@ -27,11 +27,11 @@ Shan Kuang then tries to control the evidence. He hires [[RenFangLateHan|任芳]
 
 ## Evidence
 
-- Kinship and office: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] identifies Shan Kuang as Shan Chao's nephew and Jiyin administrator.
-- Corruption scale: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says his corrupt gains are measured in tens of millions.
-- Investigation: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Fifth Zhong sends Wei Yu to examine and report Shan Kuang's conduct.
-- Assassination attempt: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Shan Kuang hires Ren Fang to kill Wei Yu.
-- Enforcement reversal: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Yang Bing's request to bring Shan Kuang to Luoyang produces Yang Bing's punishment instead.
+- Kinship and office: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] identifies Shan Kuang as Shan Chao's nephew and Jiyin administrator.
+- Corruption scale: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says his corrupt gains are measured in tens of millions.
+- Investigation: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Fifth Zhong sends Wei Yu to examine and report Shan Kuang's conduct.
+- Assassination attempt: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Shan Kuang hires Ren Fang to kill Wei Yu.
+- Enforcement reversal: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Yang Bing's request to bring Shan Kuang to Luoyang produces Yang Bing's punishment instead.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This page does not yet establish Shan Kuang's full career, formal sentence, or d
 
 ## What Changed
 
-- Created the page from Hanji 851.
+- Created the page from 汉纪 851.
 - Added Shan Kuang as the named offender at the center of the 159 CE protected-family enforcement reversal.
 
 ## Relationships

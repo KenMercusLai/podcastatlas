@@ -15,9 +15,9 @@ last_updated: 2026-08-31
 
 ## Current Profile
 
-Hanji 739 supplies Yu Yan's core role. Someone privately tells him before the exposure that Liu Ying is plotting rebellion, but Yu Yan dismisses the report because Liu Ying is the emperor's close royal kin. Once the case is exposed, Mingdi sees Yu Yan's earlier disbelief as a grave failure and rebukes him harshly; Yu Yan then commits suicide in 71 CE.
+汉纪 739 supplies Yu Yan's core role. Someone privately tells him before the exposure that Liu Ying is plotting rebellion, but Yu Yan dismisses the report because Liu Ying is the emperor's close royal kin. Once the case is exposed, Mingdi sees Yu Yan's earlier disbelief as a grave failure and rebukes him harshly; Yu Yan then commits suicide in 71 CE.
 
-Hanji 740 keeps Yu Yan inside the opening sequence of the Chu-prison case, mentioning his death before Liu Ying's suicide and the multi-year search for hidden accomplices. His durable wiki function is therefore not a full ministerial biography but a warning case: kinship assumptions and fear of accusing royal relatives can make early information unusable, while ruler anger can turn a missed warning into fatal shame.
+汉纪 740 keeps Yu Yan inside the opening sequence of the Chu-prison case, mentioning his death before Liu Ying's suicide and the multi-year search for hidden accomplices. His durable wiki function is therefore not a full ministerial biography but a warning case: kinship assumptions and fear of accusing royal relatives can make early information unusable, while ruler anger can turn a missed warning into fatal shame.
 
 ## Key Characteristics
 
@@ -29,10 +29,10 @@ Hanji 740 keeps Yu Yan inside the opening sequence of the Chu-prison case, menti
 
 ## Evidence
 
-- Early warning: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says someone privately tells Yu Yan about Liu Ying's rebellion before the case is exposed.
-- Disbelief: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says Yu Yan does not believe the report because Liu Ying is the emperor's brother.
-- Rebuke and suicide: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] records Mingdi's anger and Yu Yan's suicide in 71 CE.
-- Case sequence: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] keeps Yu Yan's death in the early Chu-prison sequence before the wider implication cascade.
+- Early warning: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says someone privately tells Yu Yan about Liu Ying's rebellion before the case is exposed.
+- Disbelief: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says Yu Yan does not believe the report because Liu Ying is the emperor's brother.
+- Rebuke and suicide: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] records Mingdi's anger and Yu Yan's suicide in 71 CE.
+- Case sequence: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] keeps Yu Yan's death in the early Chu-prison sequence before the wider implication cascade.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ The source does not show whether Yu Yan's disbelief was negligence, reasonable c
 
 ## What Changed
 
-- Created this page to normalize 虞延 from Hanji 739 and the Hanji 740 case sequence rather than leaving him as an unlinked name inside Mingdi's profile.
+- Created this page to normalize 虞延 from 汉纪 739 and the 汉纪 740 case sequence rather than leaving him as an unlinked name inside Mingdi's profile.
 
 ## Relationships
 

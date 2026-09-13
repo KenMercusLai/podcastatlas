@@ -30,22 +30,22 @@ The aftermath turns a logistics loss into a command-system failure. [[ChunyuQion
 - A test of Cao Cao's willingness to act on defector intelligence through silent, disguised night movement under extreme supply pressure.
 - A battlefield decision point where Yuan Shao misallocates force between rescuing Wuchao and attacking Cao's camp.
 - A catalyst for elite defection, especially Zhang He and Gao Lan's surrender after Guo Tu's slander.
-- A campaign hinge that connects White Horse/Yanjin shocks, pre-Wuchao logistics warnings, the raid itself, and the post-victory settlement in Hanji 1050.
+- A campaign hinge that connects White Horse/Yanjin shocks, pre-Wuchao logistics warnings, the raid itself, and the post-victory settlement in 汉纪 1050.
 
 ## Evidence
-- Pre-raid supply crisis and launch: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Cao Cao holds despite depleted grain, receives Xu You's Wuchao information, and personally leads five thousand disguised troops out by night.
-- Yuan-side protection failure: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Ju Shou warns Yuan Shao to send Jiang Qi as outer protection for Chunyu Qiong's grain convoy, but Yuan Shao does not adopt the warning.
-- Defection trigger: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|Hanji 1048]] says Xu You defects after Shen Pei arrests his family and then tells Cao about vulnerable supplies at Gushi and Wuchao.
+- Pre-raid supply crisis and launch: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Cao Cao holds despite depleted grain, receives Xu You's Wuchao information, and personally leads five thousand disguised troops out by night.
+- Yuan-side protection failure: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Ju Shou warns Yuan Shao to send Jiang Qi as outer protection for Chunyu Qiong's grain convoy, but Yuan Shao does not adopt the warning.
+- Defection trigger: [[zizhi-tongjian-hanji-1048-xuyou-pan-yuan-xianji-guandu-zhanju-de-jingtian-bianshu-lt3sewxvtpytrufrex8b0s0p0hju|汉纪 1048]] says Xu You defects after Shen Pei arrests his family and then tells Cao about vulnerable supplies at Gushi and Wuchao.
 - High-risk intelligence-to-action hinge: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m]] says Cao's own supplies are depleted, Xu You's information might be a trap, and Wuchao lies behind Yuan lines, yet Cao personally leads the raid.
 - Logistics and morale collapse: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m]] treats Wuchao's burning as the point where Yuan Shao's material position and psychological line both fail.
 - Yuan-side misallocation: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m]] contrasts Zhang He's rescue-Wuchao advice with Guo Tu's attack-Cao-camp advice, then shows Yuan Shao choosing the wrong force balance.
 - Collapse cascade: [[zizhi-tongjian-hanji-1049-guandu-zhizhan-jieju-jiemu-caocao-zhongyu-yi-ruo-sheng-qiang-lvtutwyhrix4rhiypa9dknz3da1m]] links Chunyu Qiong's defeat, Guo Tu's blame shift, Zhang He and Gao Lan's surrender, Yuan Shao's flight, and Ju Shou's capture.
 
 ## Qualifications
-This page is grounded in two adjacent podcast source notes and should not be read as a full military monograph on Wuchao. Hanji 1048 stops at the launch of the disguised movement; Hanji 1049 supplies the burning, rescue-failure, and collapse sequence. Casualty figures, mutilation details, Xu You's inner motive, and the exact sequence of camp panic remain source-scoped.
+This page is grounded in two adjacent podcast source notes and should not be read as a full military monograph on Wuchao. 汉纪 1048 stops at the launch of the disguised movement; 汉纪 1049 supplies the burning, rescue-failure, and collapse sequence. Casualty figures, mutilation details, Xu You's inner motive, and the exact sequence of camp panic remain source-scoped.
 
 ## What Changed
-- Added the pre-raid setup from Hanji 1048: Cao's depleted supplies, Xun Yu's hold counsel, Ju Shou's ignored protection warning, and Xu You's defection.
+- Added the pre-raid setup from 汉纪 1048: Cao's depleted supplies, Xun Yu's hold counsel, Ju Shou's ignored protection warning, and Xu You's defection.
 - Reframed Wuchao from only a raid outcome into a sequence of supply pressure, adviser-system failure, intelligence transfer, and concentrated night attack.
 - Added Jiang Qi, Han Meng, Xu Huang, Shi Huan, Xun Yu, Xun You, and Shen Pei to the event's surrounding evidence and relationships.
 

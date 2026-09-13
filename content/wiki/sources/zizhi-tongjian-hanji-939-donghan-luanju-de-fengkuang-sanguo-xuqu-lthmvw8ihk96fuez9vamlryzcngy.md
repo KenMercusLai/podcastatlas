@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 188 CE court, provincial, and frontier layer immediately before [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]] and [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|Hanji 941]]. It follows [[EmperorLingOfHan|汉灵帝]]'s amnesty and comet response, the renewed [[BaiboArmy|白波军]] rising under [[GuoDaLateHan|郭大]], [[ZhangYiLateHan|张懿]]'s killing in [[BingzhouLateHan|并州]], and [[LiuYanLateHan|刘焉]]'s proposal to replace weaker inspectors with stronger provincial shepherds. The second half links [[DongFuLateHan|董扶]]'s [[YizhouLateHan|益州]] prophecy, [[ZhaoWeiLateHan|赵韪]]'s early attachment to Liu Yan, [[LiuYuLateHan|刘虞]]'s [[YouzhouLateHan|幽州]] appointment, [[QiangquChanyu|羌渠]]'s killing in the [[SouthernXiongnu|南匈奴]] revolt, [[YufuluoChanyu|于扶罗]]'s elevation, and [[CaoSong|曹嵩]]'s removal as taiwei.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 188 CE court, provincial, and frontier layer immediately before [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|汉纪 940]] and [[zizhi-tongjian-hanji-941-shenchu-guanchang-ta-jing-xiang-ganfan-huangdi-liu-fqiz9pi7u6cltrn-cjmjz-r|汉纪 941]]. It follows [[EmperorLingOfHan|汉灵帝]]'s amnesty and comet response, the renewed [[BaiboArmy|白波军]] rising under [[GuoDaLateHan|郭大]], [[ZhangYiLateHan|张懿]]'s killing in [[BingzhouLateHan|并州]], and [[LiuYanLateHan|刘焉]]'s proposal to replace weaker inspectors with stronger provincial shepherds. The second half links [[DongFuLateHan|董扶]]'s [[YizhouLateHan|益州]] prophecy, [[ZhaoWeiLateHan|赵韪]]'s early attachment to Liu Yan, [[LiuYuLateHan|刘虞]]'s [[YouzhouLateHan|幽州]] appointment, [[QiangquChanyu|羌渠]]'s killing in the [[SouthernXiongnu|南匈奴]] revolt, [[YufuluoChanyu|于扶罗]]'s elevation, and [[CaoSong|曹嵩]]'s removal as taiwei.
 
 ## Key Claims
 
@@ -51,6 +51,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This episode backfills an earlier institutional and frontier layer before Hanji 940's Yizhou revolt, Hanji 941's capital-military restructuring, and Hanji 949's later Yufuluo/Baibo branch.
+- No settled contradiction with existing wiki pages was found. This episode backfills an earlier institutional and frontier layer before 汉纪 940's Yizhou revolt, 汉纪 941's capital-military restructuring, and 汉纪 949's later Yufuluo/Baibo branch.
 - Source-scope caution: the input names the Baibo leader as [[GuoDaLateHan|郭大]]. This ingest preserves that source wording and does not normalize it to another historical spelling without a later source.
 - Source-scope caution: the input renders the Yizhou inspector as "郤俭"; this ingest links the actor to the existing [[XiJianLateHan|郗俭 / Xi Jian]] page while preserving the variant in the text.

@@ -16,7 +16,7 @@ Crisis duty continuity / 危局职守连续性 is the rule-of-role pattern where
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|Hanji 880]] creates this concept through [[ChenFanLateHan|陈蕃]]'s response to shangshu officials who falsely claim illness after [[EmperorHuanOfHan|汉桓帝]] dies and before [[EmperorLingOfHan|汉灵帝]] formally ascends. The episode treats their illness claims as risk avoidance inside a dangerous interregnum: no one wants to be visibly responsible while the court is unsettled, but the administrative machine still has urgent work.
+[[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|汉纪 880]] creates this concept through [[ChenFanLateHan|陈蕃]]'s response to shangshu officials who falsely claim illness after [[EmperorHuanOfHan|汉桓帝]] dies and before [[EmperorLingOfHan|汉灵帝]] formally ascends. The episode treats their illness claims as risk avoidance inside a dangerous interregnum: no one wants to be visibly responsible while the court is unsettled, but the administrative machine still has urgent work.
 
 Chen Fan's answer is not ordinary productivity advice. By invoking "事亡如存," he turns attendance and paperwork into role ethics: the deceased ruler's state still exists, and ministers cannot suspend duty because the person who embodied the old order has died. The host's workplace analogy is source-scoped, but the stable wiki contribution is broader: institutional continuity depends on people continuing role-bound work when the status environment is least comfortable.
 
@@ -30,17 +30,17 @@ Chen Fan's answer is not ordinary productivity advice. By invoking "事亡如存
 
 ## Evidence
 
-- Interregnum avoidance: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|Hanji 880]] says many shangshu officials fear the unsettled period after Emperor Huan's death and falsely claim illness rather than enter court.
-- Duty rhetoric as order repair: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|Hanji 880]] says Chen Fan writes to rebuke them, invokes "事亡如存," and argues that urgent public affairs make bed-bound avoidance unacceptable.
-- Restored attendance: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|Hanji 880]] says the shangshu officials become more frightened after receiving the letter and return to court work.
+- Interregnum avoidance: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|汉纪 880]] says many shangshu officials fear the unsettled period after Emperor Huan's death and falsely claim illness rather than enter court.
+- Duty rhetoric as order repair: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|汉纪 880]] says Chen Fan writes to rebuke them, invokes "事亡如存," and argues that urgent public affairs make bed-bound avoidance unacceptable.
+- Restored attendance: [[zizhi-tongjian-hanji-880-weihe-zhichang-laoyoutiao-rezhong-yu-chengbing-lnzfgwghrxrpltsmb8godap-nyzw|汉纪 880]] says the shangshu officials become more frightened after receiving the letter and return to court work.
 
 ## Counterevidence & Qualifications
 
-The concept does not imply that every illness claim is false or that all leave during crisis is illegitimate. Hanji 880 gives a specific political-risk case, mediated through the host's workplace analogy. It also leaves a coercive edge visible: duty continuity can restore public work, but it can also pressure individuals to expose themselves in a dangerous court when the institution itself is unstable.
+The concept does not imply that every illness claim is false or that all leave during crisis is illegitimate. 汉纪 880 gives a specific political-risk case, mediated through the host's workplace analogy. It also leaves a coercive edge visible: duty continuity can restore public work, but it can also pressure individuals to expose themselves in a dangerous court when the institution itself is unstable.
 
 ## What Changed
 
-- Established the concept from Hanji 880's shangshu illness-avoidance and Chen Fan duty-rebuke episode.
+- Established the concept from 汉纪 880's shangshu illness-avoidance and Chen Fan duty-rebuke episode.
 - Separated role-duty continuity from broader bureaucratic risk avoidance and from later lethal anti-eunuch crisis timing.
 
 ## Related Concepts

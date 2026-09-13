@@ -18,7 +18,7 @@ Desire-driven command exposure / 私欲驱动的统帅暴露 is the pattern wher
 ## Current Synthesis
 The Wancheng sources make the core pattern military. [[CaoCao|曹操]] takes [[LadyZouWancheng|邹氏]] soon after [[ZhangXiu|张绣]]'s surrender, gives attention and rewards to [[HuCheEr|胡车儿]], and then leaks a plan to kill Zhang Xiu. [[JiaXu|贾诩]] can turn that humiliation and threat into a camp-entry tactic, while alcohol and weapon theft disable [[DianWei|典韦]] at the moment Cao Cao's camp is exposed.
 
-Hanji 1067 adds a smaller but sharper trap case through [[GuiLanLateHan|妫览]]. Gui Lan helps kill [[SunYiLateHan|孙翊]], occupies the household space, and then demands [[LadyXuSunYi|徐夫人]] as wife. His desire makes him accept Lady Xu's staged compliance and enter the room where [[SunGaoLateHan|孙高]] and [[FuYingLateHan|傅婴]] are waiting. The concept therefore now spans both active self-exposure by a commander and exploitable exposure created when a local strongman treats a widow's body and household as conquered property.
+汉纪 1067 adds a smaller but sharper trap case through [[GuiLanLateHan|妫览]]. Gui Lan helps kill [[SunYiLateHan|孙翊]], occupies the household space, and then demands [[LadyXuSunYi|徐夫人]] as wife. His desire makes him accept Lady Xu's staged compliance and enter the room where [[SunGaoLateHan|孙高]] and [[FuYingLateHan|傅婴]] are waiting. The concept therefore now spans both active self-exposure by a commander and exploitable exposure created when a local strongman treats a widow's body and household as conquered property.
 
 ## Key Claims
 - Private desire becomes political or military risk when it changes how a powerholder handles a defeated, newly dependent, or bereaved household.
@@ -30,20 +30,20 @@ Hanji 1067 adds a smaller but sharper trap case through [[GuiLanLateHan|妫览]]
 
 ## Evidence
 **Fragile surrender turned into humiliation**
-- [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|Hanji 1012]] shows Cao Cao taking Lady Zou after Zhang Xiu's surrender, making private desire legible as an insult to Zhang Xiu's family and surrendered-force dignity.
+- [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|汉纪 1012]] shows Cao Cao taking Lady Zou after Zhang Xiu's surrender, making private desire legible as an insult to Zhang Xiu's family and surrendered-force dignity.
 
 **Guard failure and night attack**
-- [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] adds gifts to Hu Che'er, the leaked plan against Zhang Xiu, Jia Xu's camp tactic, Dian Wei's disarming through drink, and the deaths around Cao Cao's escape.
+- [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] adds gifts to Hu Che'er, the leaked plan against Zhang Xiu, Jia Xu's camp tactic, Dian Wei's disarming through drink, and the deaths around Cao Cao's escape.
 
 **Desire exploited by a planned victim**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] shows Gui Lan's forced-marriage demand giving Lady Xu the delay, stage, and private-room access needed for the revenge ambush.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] shows Gui Lan's forced-marriage demand giving Lady Xu the delay, stage, and private-room access needed for the revenge ambush.
 
 ## Counterevidence & Qualifications
 Desire alone is too thin as an explanation. The Wancheng case also depends on surrender fragility, Jia Xu's advice, Hu Che'er's access, camp movement, alcohol, and a leaked assassination plan. The Danyang case also depends on Lady Xu's intelligence, Sun Gao and Fu Ying's loyalty, dead-set followers, mourning timing, and Gui Lan's prior conspiracy. The concept tracks a risk mechanism, not a moral claim that every erotic or household action produces command failure.
 
 ## What Changed
 - Migrated the page to `synthesis-v1`.
-- Added Hanji 1067 as a trap-side case where a woman uses the aggressor's desire against him.
+- Added 汉纪 1067 as a trap-side case where a woman uses the aggressor's desire against him.
 - Narrowed the concept away from "woman as cause" and toward desire as a security-field distortion.
 
 ## Related Concepts

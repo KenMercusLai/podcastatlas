@@ -14,13 +14,13 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-In [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]], Gold Horse Gate access is not just a building detail. The episode uses it to explain how [[EmperorXuanOfHan|汉宣帝]]'s literary interests could turn scholars and writers into visible court talent, making the gate an institutional cousin of the wiki's broader talent-attraction and talent-use concepts.
+In [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]], Gold Horse Gate access is not just a building detail. The episode uses it to explain how [[EmperorXuanOfHan|汉宣帝]]'s literary interests could turn scholars and writers into visible court talent, making the gate an institutional cousin of the wiki's broader talent-attraction and talent-use concepts.
 
 The source keeps the pattern aspirational. For literati, waiting at the Gold Horse Gate symbolizes the possibility that learning, writing, and timing can meet a ruler's attention; for the ruler, it supplies a pool of people whose words may become prestige, counsel, or cultural governance.
 
 ## Key Claims
 
-- Hanji 433 presents Gold Horse Gate waiting as an honor and a route from scholarship or writing toward court prominence.
+- 汉纪 433 presents Gold Horse Gate waiting as an honor and a route from scholarship or writing toward court prominence.
 - The pattern fits Xuan's interest in classics, poetry, music, and fu rather than only administrative recruitment.
 - The access channel makes literati talent visible, but visibility still depends on ruler attention and use.
 - The episode's examples treat the gate as a remembered ideal for scholars who hope to be recognized by imperial power.
@@ -28,15 +28,15 @@ The source keeps the pattern aspirational. For literati, waiting at the Gold Hor
 ## Evidence
 
 Court-literary access:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] describes "待诏金马门" as both honor and treatment symbol for high-knowledge people.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] describes "待诏金马门" as both honor and treatment symbol for high-knowledge people.
 
 Recognition route:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] lists Gongsun Hong, Dongfang Shuo, Zhufu Yan, and Liu Xiang as figures associated with the channel.
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] places [[WangBaoWesternHan|王褒]] in the same Xuan-era court-literary atmosphere.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] lists Gongsun Hong, Dongfang Shuo, Zhufu Yan, and Liu Xiang as figures associated with the channel.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] places [[WangBaoWesternHan|王褒]] in the same Xuan-era court-literary atmosphere.
 
 ## Counterevidence & Qualifications
 
-This page is not a full institutional history of the Gold Horse Gate or the daizhao system. Hanji 433 uses the channel as a cultural and personnel symbol, not as a complete administrative description.
+This page is not a full institutional history of the Gold Horse Gate or the daizhao system. 汉纪 433 uses the channel as a cultural and personnel symbol, not as a complete administrative description.
 
 ## What Changed
 

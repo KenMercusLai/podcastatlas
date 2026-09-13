@@ -24,11 +24,11 @@ His defeat by [[DuShangLateHan|Du Shang]] anchors the campaign that later lets D
 - Military opponent whose defeat strengthens [[DuShangLateHan|Du Shang]]'s merit claim.
 
 ## Evidence
-- Initial Guiyang attack: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Zhu Gai joins Hu Lan to attack Guiyang, causing the local commandery official Ren Yin to flee.
-- Lingling pressure setup: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] moves the Zhu Gai-Hu Lan threat toward Lingling and Chen Qiu's defense.
-- Rebellion trigger: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] reports Zhu Gai's rebellion with other Jingzhou soldiers.
-- Alliance with Hu Lan: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] connects Zhu Gai to Hu Lan's Guiyang force.
-- Defeat: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] credits Du Shang's campaign with defeating Zhu Gai and Hu Lan.
+- Initial Guiyang attack: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Zhu Gai joins Hu Lan to attack Guiyang, causing the local commandery official Ren Yin to flee.
+- Lingling pressure setup: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] moves the Zhu Gai-Hu Lan threat toward Lingling and Chen Qiu's defense.
+- Rebellion trigger: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] reports Zhu Gai's rebellion with other Jingzhou soldiers.
+- Alliance with Hu Lan: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] connects Zhu Gai to Hu Lan's Guiyang force.
+- Defeat: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] credits Du Shang's campaign with defeating Zhu Gai and Hu Lan.
 
 ## Qualifications
 The current sources do not supply Zhu Gai's background, factional program, or later biography. His profile should therefore remain confined to the 165 CE rebellion sequence unless additional source notes add independent evidence.

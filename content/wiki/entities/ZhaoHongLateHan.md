@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 赵弘 / Zhao Hong (late Han)
 
-[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|Hanji 930]] presents Zhao Hong as the [[YellowTurbansLateHan|Yellow Turban]] leader elected after [[ZhangManchengLateHan|张曼成]] is killed. Under Zhao Hong, the remnant force grows again to more than 100,000 people and holds out against [[ZhuJunLateHan|朱儁]], [[XuQiuLateHan|许秋]], and other Han forces from June through August.
+[[zizhi-tongjian-hanji-930-ruhe-pochu-tanxin-he-buganxin-lkyysh5jbgxwjq8ayrfar4gsjdcd|汉纪 930]] presents Zhao Hong as the [[YellowTurbansLateHan|Yellow Turban]] leader elected after [[ZhangManchengLateHan|张曼成]] is killed. Under Zhao Hong, the remnant force grows again to more than 100,000 people and holds out against [[ZhuJunLateHan|朱儁]], [[XuQiuLateHan|许秋]], and other Han forces from June through August.
 
 Zhao Hong's death under Zhu Jun does not immediately end the campaign. The surviving Yellow Turban force turns to [[HanZhongLateHan|韩忠]], showing the source's larger pattern: leadership decapitation weakens the rebel side only when command succession and morale are also broken.
 

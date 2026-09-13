@@ -24,7 +24,7 @@ The second half supplies Han Yanshou's entry into office: his father is killed a
 - His dispute-handling method carries a procedural danger: moral pressure from a senior official can suppress factual inquiry and make complainants look socially deviant.
 - The episode insists that disputes should be resolved by facts and law, while moral education and legal restraint cannot replace one another.
 - Han Yanshou's official path begins after his father is killed for opposing Yan king Liu Dan's rebellion and Huo Guang promotes him as a capable son of a loyal victim.
-- Han Yanshou's later offices include Jianyi Dafu, Huayang taishou, and Yingchuan taishou before the later Hanji 450/451 death-case arc.
+- Han Yanshou's later offices include Jianyi Dafu, Huayang taishou, and Yingchuan taishou before the later 汉纪 450/451 death-case arc.
 - Woyanqudi Chanyu's seizure of power and harsh purge create internal Xiongnu resentment rather than stable authority.
 - The Aoxian nobles' refusal to accept the chanyu's installed son shows succession fragmentation starting from coercive central appointment before the later five-chanyu crisis.
 
@@ -39,11 +39,11 @@ The second half supplies Han Yanshou's entry into office: his father is killed a
 - [[HanYanshouWesternHan|韩延寿]] - the source adds his governing method, filial-entry background, early offices, and the strongest qualification on his local-governance reputation.
 - [[MoralPressureAdjudication|道德压力式审案]] - created concept for the episode's critique that official moral pressure can turn normal litigation into deviance and produce "告状无门."
 - [[ConfucianLegalistGovernanceBalance|儒法互补治理]] - related governance frame because the source argues that 德治 and 法治 cannot be偏废.
-- [[XiongnuSuccessionFragmentation|匈奴式继承碎裂]] - the source adds an upstream coercive-succession layer before the five-chanyu multiplication in Hanji 449.
+- [[XiongnuSuccessionFragmentation|匈奴式继承碎裂]] - the source adds an upstream coercive-succession layer before the five-chanyu multiplication in 汉纪 449.
 - [[Xiongnu|匈奴]] - the source records Woyanqudi Chanyu's purge, Jihoushan's flight, Wuchanmu's resentment, and Aoxian's breakaway as source-scoped Xiongnu internal-disorder details.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source complements [[zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq|Hanji 450]] and [[zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa|Hanji 451]] by adding the positive-governance and method-critique layer before the later execution case.
+- No settled contradiction with existing wiki content was found. This source complements [[zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq|汉纪 450]] and [[zizhi-tongjian-hanji-451-ruzhe-xiaowangzhi-shui-youxiu-wo-jiu-nongsi-shui-lo20q2_kdbmsw2zfhehoanceo2oa|汉纪 451]] by adding the positive-governance and method-critique layer before the later execution case.
 - Scope caution: the episode's charge of "moral coercion" is the host's normative reading of Han Yanshou's dispute style. The specific original case facts, the identities of the disputing brothers, and the full legal procedure remain source-scoped.
 - Scope caution: Woyanqudi Chanyu, Jihoushan, Wuchanmu, the Aoxian branch, and Liu Dan of Yan are kept source-scoped until additional notes justify standalone pages.

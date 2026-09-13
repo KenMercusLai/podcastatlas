@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-晋文经 / Jin Wenjing is a late-Han figure from Hanzhong whose wiki role is source-scoped to Hanji 862. The episode pairs him with [[HuangYunLateHan|黄允]] as a person whose talent reputation grows large enough to influence elite appointment opinion before his conduct has been publicly proved.
+晋文经 / Jin Wenjing is a late-Han figure from Hanzhong whose wiki role is source-scoped to 汉纪 862. The episode pairs him with [[HuangYunLateHan|黄允]] as a person whose talent reputation grows large enough to influence elite appointment opinion before his conduct has been publicly proved.
 
 ## Current Profile
 
@@ -29,18 +29,18 @@ The turning point comes when [[FuRongLateHan|符融]] warns [[LiYingLateHan|李�
 
 ## Evidence
 
-- Fame pairing: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] pairs Jin Wenjing with Huang Yun as men known for talent and intelligence.
-- Refusal and scarcity: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says the two refuse summons, claim illness in Luoyang, and avoid ordinary visitors.
-- Appointment influence: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says high officials consult them before some appointment decisions.
-- Reputation decline: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Fu Rong's warning to Li Ying precedes the decline of the two men's reputation and followers.
+- Fame pairing: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] pairs Jin Wenjing with Huang Yun as men known for talent and intelligence.
+- Refusal and scarcity: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says the two refuse summons, claim illness in Luoyang, and avoid ordinary visitors.
+- Appointment influence: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says high officials consult them before some appointment decisions.
+- Reputation decline: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says Fu Rong's warning to Li Ying precedes the decline of the two men's reputation and followers.
 
 ## Qualifications
 
-This page does not settle a full biography of Jin Wenjing. It records the role preserved by Hanji 862: a talent reputation that becomes socially and institutionally influential before conduct has been tested. The source note normalizes the transcript's "金文金" to 晋文经.
+This page does not settle a full biography of Jin Wenjing. It records the role preserved by 汉纪 862: a talent reputation that becomes socially and institutionally influential before conduct has been tested. The source note normalizes the transcript's "金文金" to 晋文经.
 
 ## What Changed
 
-- Created the page from Hanji 862's Huang Yun and Jin Wenjing reputation-pairing.
+- Created the page from 汉纪 862's Huang Yun and Jin Wenjing reputation-pairing.
 
 ## Relationships
 

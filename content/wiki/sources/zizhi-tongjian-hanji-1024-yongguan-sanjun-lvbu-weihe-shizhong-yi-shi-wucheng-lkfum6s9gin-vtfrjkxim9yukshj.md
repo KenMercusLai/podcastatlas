@@ -13,7 +13,7 @@ last_updated: 2026-08-27
 # 《资治通鉴·汉纪》1024丨勇冠三军吕布，为何始终一事无成？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the immediate pre-[[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] decision field: [[LyuBu|吕布]] cooperates again with [[YuanShu|袁术]], sends [[GaoShun|高顺]] and [[ZhangLiao|张辽]] against [[LiuBei|刘备]], faces [[CaoCao|曹操]]'s advance toward [[Xiapi|下邳]], and abandons [[ChenGongLateHan|陈宫]]'s inner-outer attrition plan after household warning. The episode uses desire and focus as the interpretive lens, arguing that force and ambition become destructive when not governed by self-command. Its durable contribution is that Lü Bu's failure is not lack of military assets, but inability to convert advisers, allies, subordinates, and timing into stable initiative.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the immediate pre-[[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|汉纪 1025]] decision field: [[LyuBu|吕布]] cooperates again with [[YuanShu|袁术]], sends [[GaoShun|高顺]] and [[ZhangLiao|张辽]] against [[LiuBei|刘备]], faces [[CaoCao|曹操]]'s advance toward [[Xiapi|下邳]], and abandons [[ChenGongLateHan|陈宫]]'s inner-outer attrition plan after household warning. The episode uses desire and focus as the interpretive lens, arguing that force and ambition become destructive when not governed by self-command. Its durable contribution is that Lü Bu's failure is not lack of military assets, but inability to convert advisers, allies, subordinates, and timing into stable initiative.
 
 ## Key Claims
 - Desire is presented as double-edged: it can motivate action, but without rational self-command it becomes greed, confusion, and scattered attention.
@@ -27,7 +27,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies th
 - Chen Gong then proposes that Lü Bu lead infantry and cavalry outside the city while Chen Gong and Gao Shun defend inside, forcing Cao Cao either to expose his rear or exhaust supplies within a month.
 - Lü Bu initially accepts the plan, but his wife warns that Chen Gong and Gao Shun do not cooperate well and that Chen Gong once left Cao Cao despite Cao's good treatment; Lü Bu abandons the plan.
 - Lü Bu secretly sends [[XuSiLateHan|许汜]] and [[WangKaiLateHan|王楷]] to ask Yuan Shu for rescue; Yuan Shu first complains about the unfinished marriage alliance, then prepares troops after they argue that Lü Bu's fall will endanger Yuan Shu.
-- The episode closes before the final Xiapi outcome, making this source a pre-collapse analysis rather than the execution-and-aftermath account supplied by Hanji 1025 and [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]].
+- The episode closes before the final Xiapi outcome, making this source a pre-collapse analysis rather than the execution-and-aftermath account supplied by 汉纪 1025 and [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|汉纪 1026]].
 
 ## Key Quotes
 > "少则得，多则惑" - Daoist line used to connect focused attention with governed desire.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies th
 > "且听明天分解" - closing marker that the episode stops before the final Xiapi resolution.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|Hanji 1025]] and [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|Hanji 1026]] - continuation of the Xiapi siege, internal defection, surrender, and execution aftermath.
+- [[zizhi-tongjian-hanji-1025-bai-yu-caocao-lvbu-cuo-zai-jinjiuling-ljjt1t2mk77si6re-wew-hpl8qz|汉纪 1025]] and [[zizhi-tongjian-hanji-1026-jiemi-sanguo-di-yi-mengjiang-lvbu-de-luomu-lhjf-agujuliglqchumtff3tftxg1|汉纪 1026]] - continuation of the Xiapi siege, internal defection, surrender, and execution aftermath.
 - [[LyuBu|吕布]], [[CaoCao|曹操]], [[LiuBei|刘备]], [[YuanShu|袁术]], [[ChenGongLateHan|陈宫]], [[GaoShun|高顺]], [[ZhangLiao|张辽]], [[XiahouDun|夏侯惇]], [[XunYou|荀攸]], [[ChenDeng|陈登]], [[Xiapi|下邳]], [[PeiCounty|小沛]], and [[SiRiver|泗水]] - central actors and places in the campaign setup.
 - [[ZhangBaLateHan|张霸]], [[SunGuanLateHan|孙观]], [[WuDunLateHan|吴敦]], [[YinLiLateHan|尹礼]], and [[ChangXiLateHan|昌豨]] - Taishan-linked force field that makes Lü Bu's camp a wider regional threat.
 - [[XuSiLateHan|许汜]] and [[WangKaiLateHan|王楷]] - envoys used to reopen Yuan Shu's rescue channel.

@@ -10,15 +10,15 @@ last_updated: 2026-08-23
 
 南海郡 / Nanhai Commandery enters the wiki through [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] as one of Qin's post-campaign southern commanderies after the attack on [[Baiyue|百越]]. The episode places it in today's Guangdong and uses it with [[GuilinCommandery|桂林郡]] and [[XiangCommandery|象郡]] to mark Qin's incorporation of Lingnan into the commandery-county order.
 
-[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] gives the commandery a later early-Han role through [[ZhaoTuo|赵佗]]. The source introduces Zhao Tuo as the former Qin Nanhai governor who builds [[Nanyue|南越]] after Qin's collapse and is later recognized by [[LiuBang|刘邦]] as Nanyue king.
+[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|汉纪 184]] gives the commandery a later early-Han role through [[ZhaoTuo|赵佗]]. The source introduces Zhao Tuo as the former Qin Nanhai governor who builds [[Nanyue|南越]] after Qin's collapse and is later recognized by [[LiuBang|刘邦]] as Nanyue king.
 
 The page is source-scoped around the episode's administrative point. Nanhai is not developed as an independent local history here; it functions as evidence that Qin's campaign did not stop at battlefield success but immediately became a territorial-management problem.
 
-[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]] adds a source-scoped ambiguity after Zhao Tuo's recognition. Liu Bang is said to enfeoff a South Sea king, but because Nanhai had just been one of the three commanderies inside [[Nanyue|南越]], the host treats the new title as likely more virtual or diplomatic than a clean administrative recovery of the commandery.
+[[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|汉纪 191]] adds a source-scoped ambiguity after Zhao Tuo's recognition. Liu Bang is said to enfeoff a South Sea king, but because Nanhai had just been one of the three commanderies inside [[Nanyue|南越]], the host treats the new title as likely more virtual or diplomatic than a clean administrative recovery of the commandery.
 
 ## Connections
-- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|Hanji 191]], [[LiuBang|刘邦]], [[ZhaoTuo|赵佗]], and [[Nanyue|南越]] - South Sea king title and the possible nominal carve-out from Zhao Tuo's base.
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[LiuBang|刘邦]], and [[LuJia|陆贾]] - Nanhai governorship as the base for Zhao Tuo's later Nanyue recognition.
+- [[zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr|汉纪 191]], [[LiuBang|刘邦]], [[ZhaoTuo|赵佗]], and [[Nanyue|南越]] - South Sea king title and the possible nominal carve-out from Zhao Tuo's base.
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|汉纪 184]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[LiuBang|刘邦]], and [[LuJia|陆贾]] - Nanhai governorship as the base for Zhao Tuo's later Nanyue recognition.
 - [[QinState|秦国]] and [[QinShiHuang|嬴政 / 秦始皇]] - conquering regime and imperial ruler.
 - [[Baiyue|百越]] - broad southern target of the campaign.
 - [[GuilinCommandery|桂林郡]] and [[XiangCommandery|象郡]] - paired commanderies created in the same source.

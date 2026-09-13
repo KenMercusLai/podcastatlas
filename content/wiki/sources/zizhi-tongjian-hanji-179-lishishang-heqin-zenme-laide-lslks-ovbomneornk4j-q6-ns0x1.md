@@ -46,5 +46,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This source resolves the open family-policy question left by [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|Hanji 178]] and [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]]: Liu Bang accepts Liu Jing's proposal in principle, but Lu Zhi's resistance blocks sending Lu Yuan Princess.
+- This source resolves the open family-policy question left by [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-1-lumszkbr-klnlodxmxdf-n8p5wym|汉纪 178]] and [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|汉纪 178 part 2]]: Liu Bang accepts Liu Jing's proposal in principle, but Lu Zhi's resistance blocks sending Lu Yuan Princess.
 - The source's broad comparative claims about Tang, Qing, Song, and Ming heqin capacity are recorded as the host's interpretation because the episode does not develop those dynastic cases in detail.

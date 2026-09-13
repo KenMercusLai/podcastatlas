@@ -16,7 +16,7 @@ Dynastic memory reporting ritual is a governance pattern in which routine local 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] supplies the current bounded case. In 58 CE, [[EmperorMingOfHan|Mingdi]] visits Yuanling and treats [[LiuXiu|Guangwu]]'s tablet as if the founding emperor were still present at court. Shangji officials then report local grain prices and popular hardship before the tablet.
+[[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] supplies the current bounded case. In 58 CE, [[EmperorMingOfHan|Mingdi]] visits Yuanling and treats [[LiuXiu|Guangwu]]'s tablet as if the founding emperor were still present at court. Shangji officials then report local grain prices and popular hardship before the tablet.
 
 The resulting synthesis is that early Mingdi rule uses memory not only for filial sentiment but for administrative supervision. The founding emperor's presence becomes an imagined audit point for local conditions, making the second reign answerable to the standards and hardships associated with the first.
 
@@ -30,9 +30,9 @@ The resulting synthesis is that early Mingdi rule uses memory not only for filia
 
 ## Evidence
 
-- Ancestral-presence claim: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] describes Mingdi's Yuanling visit as making the court appear as if Guangwu were still alive.
-- Administrative-reporting claim: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] says shangji officials report local grain prices and popular hardship before Guangwu's tablet.
-- Succession-legitimacy claim: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] places the rite in Mingdi's first full accession layer, alongside elder assistance, royal-kin management, frontier response, and rites-and-music codification.
+- Ancestral-presence claim: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] describes Mingdi's Yuanling visit as making the court appear as if Guangwu were still alive.
+- Administrative-reporting claim: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] says shangji officials report local grain prices and popular hardship before Guangwu's tablet.
+- Succession-legitimacy claim: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] places the rite in Mingdi's first full accession layer, alongside elder assistance, royal-kin management, frontier response, and rites-and-music codification.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The resulting synthesis is that early Mingdi rule uses memory not only for filia
 
 ## What Changed
 
-- Created this concept from Hanji 733-1 to preserve the Yuanling reporting rite as a distinct governance pattern.
+- Created this concept from 汉纪 733-1 to preserve the Yuanling reporting rite as a distinct governance pattern.
 
 ## Related Concepts
 

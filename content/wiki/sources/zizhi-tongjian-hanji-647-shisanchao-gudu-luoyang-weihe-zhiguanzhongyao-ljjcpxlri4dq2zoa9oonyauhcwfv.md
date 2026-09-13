@@ -38,7 +38,7 @@ The durable synthesis is that this moment makes Wang Mang's regime look ordered 
 
 ## Connections
 
-- [[WangMang|王莽]], [[XinDynasty|新朝]], and [[WangMangReforms|王莽改制]] - the source adds a 14 CE capital-planning, ritual-site, naming, and bureaucratic-control layer before the later Hanji 648-655 stress sequence.
+- [[WangMang|王莽]], [[XinDynasty|新朝]], and [[WangMangReforms|王莽改制]] - the source adds a 14 CE capital-planning, ritual-site, naming, and bureaucratic-control layer before the later 汉纪 648-655 stress sequence.
 - [[Luoyi|洛阳 / 洛邑]], [[StrategicCapitalRelocation|战略性迁都]], and [[RitualCapitalCentrality|礼制中心式都城合法性]] - Luoyang is treated as a military armory site, symbolic center, and classical capital candidate.
 - [[AdministrativeRenamingOverreach|行政改名过度]] - Wang Mang's repeated changes to offices, commanderies, counties, and fiefs create legibility costs for officials and commoners.
 - [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]], [[DisasterOmenCrisisRedirection|灾异压力转移]], and [[AuspiciousOmenPolitics|祥瑞政治]] - eclipse, frost, fog, wind, and hail are narrated as politically meaningful crisis signs.
@@ -48,5 +48,5 @@ The durable synthesis is that this moment makes Wang Mang's regime look ordered 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 14 CE immediately before [[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|Hanji 648]]'s frontier famine, Xiongnu grievance, and currency-reset layer.
+- Chronology qualification: this source backfills 14 CE immediately before [[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|汉纪 648]]'s frontier famine, Xiongnu grievance, and currency-reset layer.
 - Scope caution: Ping Yan, Zhen Han, Wang Xing the Da Sima, Kong Ren, Zhao Guo, Fei Xing, Ai Zhang, Luanti Xian, Luanti Deng, Xubu Dang, Yun, Wang Xi, Wang Sa, Chen Liang, Zhong Dai, Luanti Fu, exact office names, and detailed administrative geography remain source-scoped unless later notes warrant canonical pages.

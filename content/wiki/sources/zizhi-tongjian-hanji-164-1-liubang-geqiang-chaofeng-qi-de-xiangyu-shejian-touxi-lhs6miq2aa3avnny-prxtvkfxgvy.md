@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》164-1｜刘邦隔墙嘲讽 气得项羽射箭偷袭
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] at [[GuangwuChuHan|广武]], where [[LiuBang|刘邦]] refuses [[XiangYu|项羽]]'s duel frame and instead lists Xiang Yu's crimes as a public legitimacy indictment. Xiang Yu answers the rhetorical defeat with a hidden crossbow shot, while Liu Bang hides the chest wound and [[ZhangLiang|张良]] patrols the camp to preserve command continuity. The episode then widens to the campaign balance: the [[XingyangStandoff|荥阳相持]] is changing as [[HanXin|韩信]] breaks [[QiState|齐国]], Qi retreats from [[Linzi|临淄]], and [[LongJuChuGeneral|龙且]] is sent to rescue [[TianGuangQiKing|田广]] before being drawn into Han Xin's feigned-defeat setup.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|汉纪 163]] at [[GuangwuChuHan|广武]], where [[LiuBang|刘邦]] refuses [[XiangYu|项羽]]'s duel frame and instead lists Xiang Yu's crimes as a public legitimacy indictment. Xiang Yu answers the rhetorical defeat with a hidden crossbow shot, while Liu Bang hides the chest wound and [[ZhangLiang|张良]] patrols the camp to preserve command continuity. The episode then widens to the campaign balance: the [[XingyangStandoff|荥阳相持]] is changing as [[HanXin|韩信]] breaks [[QiState|齐国]], Qi retreats from [[Linzi|临淄]], and [[LongJuChuGeneral|龙且]] is sent to rescue [[TianGuangQiKing|田广]] before being drawn into Han Xin's feigned-defeat setup.
 
 ## Key Claims
 - [[GuangwuChuHan|广武]] is treated as both terrain and symbol: the ravine or "鸿沟" keeps Liu Bang and Xiang Yu physically separated while the larger war has become a strategic divide Xiang Yu cannot cross by personal bravery alone.
@@ -32,7 +32,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 > "韩信是个膿包" - Long Ju's contempt as the episode cuts off during Han Xin's feigned retreat.
 
 ## Connections
-- [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]] - immediate prior episode setting up Guangwu through Cao Jiu's defeat, Chenggao's loss, and Xiang Yu's failed hostage and duel pressure.
+- [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|汉纪 163]] - immediate prior episode setting up Guangwu through Cao Jiu's defeat, Chenggao's loss, and Xiang Yu's failed hostage and duel pressure.
 - [[GuangwuChuHan|广武]] - terrain and standoff setting for the legitimacy speech, crossbow shot, and concealed wound.
 - [[LiuBang|刘邦]] - uses public accusation to refuse personal combat, then hides his wound to preserve morale.
 - [[XiangYu|项羽]] - target of the ten-count indictment and shooter whose personal force cannot solve the strategic-rhetorical problem.
@@ -49,4 +49,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
 - The source's "隆居" is treated as a transcript/source variant for [[LongJuChuGeneral|龙且 / Long Ju]] rather than a separate canonical person.
-- The source mentions additional Qi retreat names and places after Linzi; because prior Hanji 163 already flags ambiguous Qi-name details, this ingest keeps those details source-scoped instead of creating new canonical pages.
+- The source mentions additional Qi retreat names and places after Linzi; because prior 汉纪 163 already flags ambiguous Qi-name details, this ingest keeps those details source-scoped instead of creating new canonical pages.

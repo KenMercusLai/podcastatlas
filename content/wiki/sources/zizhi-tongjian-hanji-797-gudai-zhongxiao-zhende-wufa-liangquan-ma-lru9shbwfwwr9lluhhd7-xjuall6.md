@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 121-122 CE [[EmperorAnOfHan|汉安帝]] sequence immediately before [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]]. It first treats three-year mourning for senior officials as a live governance dispute: [[ChenZhongLateHan|陈忠]] defends filial mourning as ritual order, but eunuch obstruction precedes Emperor An's cancellation of the policy.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 121-122 CE [[EmperorAnOfHan|汉安帝]] sequence immediately before [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]]. It first treats three-year mourning for senior officials as a live governance dispute: [[ChenZhongLateHan|陈忠]] defends filial mourning as ritual order, but eunuch obstruction precedes Emperor An's cancellation of the policy.
 
 The second half turns mourning into frontier statecraft. After [[GoguryeoLateHan|高句丽]] attacks Xuantu and its king dies, [[YaoGuangLateHan|姚光]] wants to attack during royal mourning, while Chen Zhong persuades An to send condolences, rebuke earlier aggression, and pardon instead; the later forged-edict case against Yao and [[FengHuanLateHan|冯焕]] shows how document authority can turn private revenge into lethal public action.
 
@@ -49,6 +49,6 @@ The second half turns mourning into frontier statecraft. After [[GoguryeoLateHan
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages. The episode refines chronology by adding a 121-122 CE layer before Hanji 798's domestic warnings and Hanji 799's Western Regions debate.
+- No settled contradiction with existing wiki pages. The episode refines chronology by adding a 121-122 CE layer before 汉纪 798's domestic warnings and 汉纪 799's Western Regions debate.
 - The source title suggests a simple loyalty-versus-filiality dilemma, but the episode's own reading treats the issue as a wider clash among official duty, ritual emotion, eunuch interest, frontier legitimacy, and document obedience.
 - Buyeo, Mahan, Mo, Suicheng, Xuantu, Pang Fen, Liu Shou, Liu De, Geng Kui, Geng Zhong, Manu, Hanyang, Yangling, and individual disaster notices remain source-scoped here unless later ingests make them durable wiki subjects.

@@ -35,13 +35,13 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode closes [[Ly
 > "天下之至柔，驰骋天下之至坚" - Daoist-inflected formula the host uses to contrast hard force with flexible control.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] and [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]] - earlier Cao Cao/Chen Deng judgments that Lü Bu is difficult to keep safely and prone to unstable attachment.
-- [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|Hanji 1027]] - follow-on episode shifting from Cao Cao's eastern settlement to the Jingzhou variable before Guandu.
+- [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|汉纪 1017]] and [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|汉纪 1018]] - earlier Cao Cao/Chen Deng judgments that Lü Bu is difficult to keep safely and prone to unstable attachment.
+- [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|汉纪 1027]] - follow-on episode shifting from Cao Cao's eastern settlement to the Jingzhou variable before Guandu.
 - [[CaoCao|曹操]], [[LyuBu|吕布]], [[Xiapi|下邳]], [[LiuBei|刘备]], [[ChenGongLateHan|陈宫]], [[GaoShun|高顺]], [[ZhangLiao|张辽]], [[ChenJiLateHan|陈纪]], and [[ChenQun|陈群]] - central siege, surrender, and execution figures.
 - [[ZhangBaLateHan|张霸]], [[WuDunLateHan|吴敦]], [[YinLiLateHan|尹礼]], [[SunGuanLateHan|孙观]], [[XuXiLateHan|徐翕]], and [[MaoHuiLateHan|毛晖]] - local-force and former-defector settlement branch.
 - [[YuanShao|袁绍]], [[YuanTan|袁谭]], [[QingzhouLateHan|青州]], [[Xuzhou|徐州]], and [[GuanduCampaign|官渡之战]] - wider pre-Guandu strategic field.
 - [[StrategicDefectorIncorporation|纳叛安抚式整合]], [[QingYuQuJiu|轻于去就]], [[JiFuBaoYang|饥附饱扬]], [[CourtFeedbackCollapse|君臣反馈失灵]], [[PoliticalSurrenderCascade|招降示范级联]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[TalentAsStateTreasure|以贤臣为宝]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - conceptual frames.
 
 ## Contradictions
-- No settled contradiction found. This source completes rather than reverses the Hanji 1017-1018 diagnosis of Lü Bu as brave but difficult to keep: the same instability that made him useful against Yuan Shu and Liu Bei becomes the reason Cao Cao cannot safely preserve him after Xiapi.
-- Source-scope caution: the transcript writes the Taishan local actor as "张霸"; the wiki keeps this on the existing [[ZhangBaLateHan|张霸 / Zhang Ba]] route established by Hanji 1018 rather than auto-creating a separate near-duplicate page.
+- No settled contradiction found. This source completes rather than reverses the 汉纪 1017-1018 diagnosis of Lü Bu as brave but difficult to keep: the same instability that made him useful against Yuan Shu and Liu Bei becomes the reason Cao Cao cannot safely preserve him after Xiapi.
+- Source-scope caution: the transcript writes the Taishan local actor as "张霸"; the wiki keeps this on the existing [[ZhangBaLateHan|张霸 / Zhang Ba]] route established by 汉纪 1018 rather than auto-creating a separate near-duplicate page.

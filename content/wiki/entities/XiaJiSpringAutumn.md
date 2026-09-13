@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-夏姬 / Xia Ji is the Spring-and-Autumn Zheng princess used in [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] as a comparative case for [[GenderedConsortScapegoating|红颜祸水式替罪叙事]]. She is distinct from the Qin figure [[XiaTaihou|夏姬 / 夏太后]] and therefore uses a semantic suffix in the wiki route.
+夏姬 / Xia Ji is the Spring-and-Autumn Zheng princess used in [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|汉纪 536-4]] as a comparative case for [[GenderedConsortScapegoating|红颜祸水式替罪叙事]]. She is distinct from the Qin figure [[XiaTaihou|夏姬 / 夏太后]] and therefore uses a semantic suffix in the wiki route.
 
 ## Current Profile
 
@@ -28,11 +28,11 @@ The second half of the source's Xia Ji account follows Chu intervention and Wu C
 
 ## Evidence
 
-- Marriage and family setting: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] says Xia Ji is a Zheng princess married to Xia Yushu and mother of Xia Zhengshu.
-- Chen court scandal: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] says Chen Ling Gong and two ministers became her lovers and mocked Xia Zhengshu's parentage while drinking at her house.
-- Violence and blame displacement: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] uses Xia Zhengshu's killing of Chen Ling Gong to show how later blame can settle on Xia Ji rather than on the men who created the insult.
-- Wu Chen sequence: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] says Wu Chen first blocks Chu Zhuang Wang and another Chu minister from taking Xia Ji, then arranges for Xia Ji to return to Zheng and later marries her himself.
-- Historiographical use: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|Hanji 536-4]] explicitly uses the Xia Ji case to explain how "荡妇" labels can absorb responsibility for male desire, political disorder, and rhetorical hypocrisy.
+- Marriage and family setting: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|汉纪 536-4]] says Xia Ji is a Zheng princess married to Xia Yushu and mother of Xia Zhengshu.
+- Chen court scandal: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|汉纪 536-4]] says Chen Ling Gong and two ministers became her lovers and mocked Xia Zhengshu's parentage while drinking at her house.
+- Violence and blame displacement: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|汉纪 536-4]] uses Xia Zhengshu's killing of Chen Ling Gong to show how later blame can settle on Xia Ji rather than on the men who created the insult.
+- Wu Chen sequence: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|汉纪 536-4]] says Wu Chen first blocks Chu Zhuang Wang and another Chu minister from taking Xia Ji, then arranges for Xia Ji to return to Zheng and later marries her himself.
+- Historiographical use: [[zizhi-tongjian-hanji-536-4-jiemi-zhaofeiyan-jiemei-wuming-yiyun-lo557jbq9ni-xissplybtcuraelm|汉纪 536-4]] explicitly uses the Xia Ji case to explain how "荡妇" labels can absorb responsibility for male desire, political disorder, and rhetorical hypocrisy.
 
 ## Qualifications
 

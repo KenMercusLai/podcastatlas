@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the crime-record layer immediately before the Hanji 847-848 anti-[[LiangJiLateHan|Liang Ji]] sequence. It presents Liang as a late-Han outer-relative powerholder whose family titles, court offices, palace surveillance, tribute preemption, protected retainers, and retaliatory killings make even [[EmperorHuanOfHan|Emperor Huan]] unable to act openly at first.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the crime-record layer immediately before the 汉纪 847-848 anti-[[LiangJiLateHan|Liang Ji]] sequence. It presents Liang as a late-Han outer-relative powerholder whose family titles, court offices, palace surveillance, tribute preemption, protected retainers, and retaliatory killings make even [[EmperorHuanOfHan|Emperor Huan]] unable to act openly at first.
 
 The core historical contribution is the victim chain: [[WuShuWanMagistrateLateHan|Wu Shu]], [[HaoMengDongjunLateHan|Hao Meng]], [[YuanZhuRemonstrantLateHan|Yuan Zhu]], [[HuWuTaiyuanLateHan|Hu Wu]], [[HaoJieTaiyuanLateHan|Hao Jie]], [[GengChengLinruHouLateHan|Geng Cheng]], and [[CuiQiLateHan|Cui Qi]] each show a different way refusal, remonstrance, law enforcement, or simple noncompliance becomes fatal under Liang's power.
 
@@ -26,7 +26,7 @@ The core historical contribution is the victim chain: [[WuShuWanMagistrateLateHa
 - Hao Meng, Yuan Zhu, and Cui Qi show that Liang treats omission, warning, satire, and direct advice as punishable offense.
 - Hu Wu's household extermination and Hao Jie's suicide show retaliation expanding from named critics to families and kin-risk calculations.
 - Geng Cheng's killing after refusing to surrender Geng Guiren's grave goods shows Liang's greed crossing ritual, kinship, and imperial-family boundaries.
-- Huan's silence is framed as constrained delay rather than indifference; the episode says his intent to destroy Liang is already forming before the Hanji 847-848 coup sequence.
+- Huan's silence is framed as constrained delay rather than indifference; the episode says his intent to destroy Liang is already forming before the 汉纪 847-848 coup sequence.
 
 ## Key Quotes
 
@@ -46,7 +46,7 @@ The core historical contribution is the victim chain: [[WuShuWanMagistrateLateHa
 - [[GengChengLinruHouLateHan|耿承]] - Linru marquis killed with family after refusing Liang's demand for burial goods.
 - [[CuiQiLateHan|崔琦]] - writer whose admonitory essays and blunt criticism end in pursuit and killing.
 - [[EmperorHuanOfHan|汉桓帝]] - constrained ruler whose anti-Liang intent forms before the later palace conspiracy.
-- [[SunShouLateHan|孙寿]] and [[EmpressDengHuanLateHan|邓皇后]] - household and harem figures introduced at the cliffhanger that Hanji 847 develops.
+- [[SunShouLateHan|孙寿]] and [[EmpressDengHuanLateHan|邓皇后]] - household and harem figures introduced at the cliffhanger that 汉纪 847 develops.
 - [[OuterRelativeCourtPower|外戚专权与清算]] - concept extended by Liang's office, family, retainer, tribute, and violence network.
 - [[RetaliatoryPoliticalTerror|报复性政治恐怖]] - concept created from the episode's pattern of lethal punishment for refusal, warning, and noncompliance.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - adjacent failure visible when Liang blocks honest speech and emperor-side information.
@@ -54,6 +54,6 @@ The core historical contribution is the victim chain: [[WuShuWanMagistrateLateHa
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode strengthens the pre-coup case against Liang Ji and stops before resolving the Hanji 847-848 tension over Xuan's survival or death.
+- No settled contradiction with existing wiki pages was found. The episode strengthens the pre-coup case against Liang Ji and stops before resolving the 汉纪 847-848 tension over Xuan's survival or death.
 - Name disambiguation: [[HaoMengDongjunLateHan|郝猛]] is kept distinct from [[HaoMeng|郝萌]], and [[HuWuTaiyuanLateHan|胡武]] is kept distinct from [[HuWuZhangChu|胡武]] of Zhang Chu.
 - Scope caution: the Liang-clan counts, the detailed victim list, and the opening moral advice are preserved as source-bounded claims from this podcast note rather than treated as a full independent prosopography of Liang's reign.

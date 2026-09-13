@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # Classic Reading Complexity
 
-[[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]] adds a Chinese four-classics comparison that is explicitly instrumental rather than exhaustive literary criticism. The prologue frames [[JourneyToTheWest|《西游记》]] as small-team management, [[WaterMargin|《水浒传》]] as large-team management, [[HongLouMeng|《红楼梦》]] as cultural and interpersonal continuity, and the coming [[ThreeKingdomsPeriod|三国时代]] arc as [[ThreeKingdomsStruggleStrategyReading|斗争策略读法]], reinforcing that classic reading requires knowing what interpretive question a text is being asked to answer.
+[[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|汉纪 923 plus]] adds a Chinese four-classics comparison that is explicitly instrumental rather than exhaustive literary criticism. The prologue frames [[JourneyToTheWest|《西游记》]] as small-team management, [[WaterMargin|《水浒传》]] as large-team management, [[HongLouMeng|《红楼梦》]] as cultural and interpersonal continuity, and the coming [[ThreeKingdomsPeriod|三国时代]] arc as [[ThreeKingdomsStruggleStrategyReading|斗争策略读法]], reinforcing that classic reading requires knowing what interpretive question a text is being asked to answer.
 
 [[164-guwen-de-liliang-qing-shou-xia-zhe-fen-qiannian-wei-bian-de-shenqing-dongjian-he-yongqi-940236576]] adds a classical-prose and textbook-memory case through [[GuwenDeLiliang|《古文的力量》]]. The episode argues that works memorized in school can be flattened by recitation, excerpts, internet jokes, or moral tags; reopening [[XiangJiXuanZhi|《项脊轩志》]], [[YouBaochanShanJi|《游褒禅山记》]], [[ShangShumiHanTaiweiShu|《上枢密韩太尉书》]], and [[HongmenYan|《鸿门宴》]] requires restoring family, ambition, failure, patronage, and power detail.
 
@@ -119,7 +119,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 [[108-zu-yu-zhan-ai-yu-bu-ai-bali-jiu-zai-nali-songjian-745812905]] adds a morally uncomfortable film-classic version through [[JulesAndJim|《祖与占》 / Jules and Jim]]. The episode asks the viewer to hold [[FrenchNewWave]] form, [[AuteurTheory]], autobiographical source material, [[TriangleIntimacyEthics]], [[GenderedFreedomAgainstOrder]], [[WarAndIntimacyBreakdown]], and personal moral discomfort together rather than reducing the film to either liberated romance or decadent disorder.
 
 ## Key Claims
-- Hanji 923 plus adds that an instrumental comparison among major classics can be useful if the comparison stays source-scoped and does not pretend to exhaust the works.
+- 汉纪 923 plus adds that an instrumental comparison among major classics can be useful if the comparison stays source-scoped and does not pretend to exhaust the works.
 - A disputed theory-classic can remain useful when its framework is separated from its weaker proof claims.
 - A classic can be historically important without being a modern ethical guide.
 - A reader can reject a work's values while still learning from its scenes, style, technique, or historical world.
@@ -167,7 +167,7 @@ The concept sits between [[HumanJudgmentUnderAI]] and [[NonInstrumentalLiteraryR
 - A self-destructive modern classic can be flattened by either glamour or disgust; rereading may need to keep fear, shame, biography, social pressure, and harmed relationships visible without treating them as excuses.
 
 ## Connections
-- [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]], [[ThreeKingdomsPeriod|三国时代]], [[ThreeKingdomsStruggleStrategyReading|三国斗争策略读法]], [[JourneyToTheWest|《西游记》]], [[WaterMargin|《水浒传》]], and [[HongLouMeng|《红楼梦》]] - source-scoped four-classics comparison.
+- [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|汉纪 923 plus]], [[ThreeKingdomsPeriod|三国时代]], [[ThreeKingdomsStruggleStrategyReading|三国斗争策略读法]], [[JourneyToTheWest|《西游记》]], [[WaterMargin|《水浒传》]], and [[HongLouMeng|《红楼梦》]] - source-scoped four-classics comparison.
 - [[TheHeroWithAThousandFaces|《千面英雄》]], [[JosephCampbell]], [[Monomyth]], and [[HeroJourneyNarrative]] - episode 29's theory-classic extension.
 - [[OscarWilde|Oscar Wilde / 王尔德]], [[WildeStrangeStories|《王尔德奇异故事集》]], [[LifeImitatesArt]], [[ArtAgainstMoralInstruction]], and [[BlackComicMoralInversion]] - episode 10's Wilde extension.
 - [[ReadingAsLifeExperience]] - reader state affects when classics become available or unbearable.

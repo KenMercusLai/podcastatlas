@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184 CE late-Han military layer immediately before [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|Hanji 931]]. It opens by treating greed and unwillingness-to-settle as distorted versions of wanting better conditions, then translates the lesson into [[ExchangeableCapability|可交换能力]]: background, patrons, and networks matter only when a person has value that others can recognize and use.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184 CE late-Han military layer immediately before [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6|汉纪 931]]. It opens by treating greed and unwillingness-to-settle as distorted versions of wanting better conditions, then translates the lesson into [[ExchangeableCapability|可交换能力]]: background, patrons, and networks matter only when a person has value that others can recognize and use.
 
 The historical branch follows [[GaiXunLateHan|盖勋]] in the Qiang field, [[ZhuJunLateHan|朱儁]] in the Nanyang Yellow Turban campaign, and [[SunJianLateHan|孙坚]] as a capable subordinate whose opening finally arrives under Zhu Jun. The source's core contribution is a three-part late-Han competence pattern: Gai Xun's reputation can make even a hostile Qiang leader spare him, Zhu Jun wins by changing the rebels' choice structure rather than only tightening force, and Sun Jian converts recognition into battlefield merit when the timing appears.
 
@@ -54,6 +54,6 @@ The historical branch follows [[GaiXunLateHan|盖勋]] in the Qiang field, [[Zhu
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills Gai Xun, Zhu Jun, Sun Jian, and Yellow Turban campaign material before Hanji 931 and before later late-Han branches.
+- No settled contradiction with existing wiki pages was found. The episode backfills Gai Xun, Zhu Jun, Sun Jian, and Yellow Turban campaign material before 汉纪 931 and before later late-Han branches.
 - Naming caution: the transcript uses "朱俊"; the wiki normalizes him to [[ZhuJunLateHan|朱儁 / Zhu Jun (late Han)]], following existing canonical usage.
 - Scope caution: [[ZhangNingLateHan|张宁]] and [[XuChangRebel|许昌]] are preserved as source-scoped Sun Jian background figures from this transcript until later sources provide stronger identity or variant-name evidence.

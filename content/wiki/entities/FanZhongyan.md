@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-范仲淹 / Fan Zhongyan enters this wiki through [[zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs|Hanji 467]] as a second contrast to [[GongYuWesternHan|贡禹]]'s selective truth-telling. The episode presents him as an official who preserves public-duty speech despite age, demotion, and political cost.
+范仲淹 / Fan Zhongyan enters this wiki through [[zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs|汉纪 467]] as a second contrast to [[GongYuWesternHan|贡禹]]'s selective truth-telling. The episode presents him as an official who preserves public-duty speech despite age, demotion, and political cost.
 
 ## Current Profile
 
@@ -25,17 +25,17 @@ The source uses Fan Zhongyan as a moral vocabulary for official responsibility r
 
 ## Evidence
 
-- Direct-speech stance: [[zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs|Hanji 467]] cites Fan Zhongyan's "宁鸣而死，不默而生" as a moral contrast to silence.
-- Public-duty identity: [[zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs|Hanji 467]] connects him to "先天下之忧而忧，后天下之乐而乐."
-- Cost under office: [[zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs|Hanji 467]] says he remains willing to speak after repeated demotion and late-career hardship.
+- Direct-speech stance: [[zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs|汉纪 467]] cites Fan Zhongyan's "宁鸣而死，不默而生" as a moral contrast to silence.
+- Public-duty identity: [[zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs|汉纪 467]] connects him to "先天下之忧而忧，后天下之乐而乐."
+- Cost under office: [[zizhi-tongjian-hanji-467-guanchang-li-jiang-zhenhua-shuo-shihua-you-duo-nan-ls_zlyqolvpfttspah8wery4e3fs|汉纪 467]] says he remains willing to speak after repeated demotion and late-career hardship.
 
 ## Qualifications
 
-This page is bounded to Hanji 467 and does not reconstruct Fan Zhongyan's full career, reforms, writings, demotions, or the historical context of each cited phrase.
+This page is bounded to 汉纪 467 and does not reconstruct Fan Zhongyan's full career, reforms, writings, demotions, or the historical context of each cited phrase.
 
 ## What Changed
 
-- Created the page from Hanji 467's use of Fan Zhongyan as an official-conscience contrast to true but evasive advice.
+- Created the page from 汉纪 467's use of Fan Zhongyan as an official-conscience contrast to true but evasive advice.
 
 ## Relationships
 

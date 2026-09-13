@@ -11,13 +11,13 @@ last_updated: 2026-08-31
 
 ## Definition
 
-[[CoerciveImplicationCascade|刑讯攀引扩大 / coercive implication cascade]] is the failure mode in which torture, treason fear, and loyalty signaling turn one accusation into an expanding chain of named accomplices. In the current wiki it is grounded in the Chu-prison case opened by [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] and developed by [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]].
+[[CoerciveImplicationCascade|刑讯攀引扩大 / coercive implication cascade]] is the failure mode in which torture, treason fear, and loyalty signaling turn one accusation into an expanding chain of named accomplices. In the current wiki it is grounded in the Chu-prison case opened by [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] and developed by [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]].
 
 ## Current Synthesis
 
-Hanji 739 gives the cascade's opening shape before the torture-centered material. [[LiuYingChuKingEasternHan|Liu Ying]] is accused of prophecy-backed rebellion, [[EmperorMingOfHan|Mingdi]] initially punishes him without execution, but [[YuYanEasternHan|Yu Yan]] and Liu Ying both die by suicide and the case begins spreading across royal kin, local elites, officials, deaths, exile, and imprisonment.
+汉纪 739 gives the cascade's opening shape before the torture-centered material. [[LiuYingChuKingEasternHan|Liu Ying]] is accused of prophecy-backed rebellion, [[EmperorMingOfHan|Mingdi]] initially punishes him without execution, but [[YuYanEasternHan|Yu Yan]] and Liu Ying both die by suicide and the case begins spreading across royal kin, local elites, officials, deaths, exile, and imprisonment.
 
-Hanji 740 presents the fuller cascade as an institutional incentive problem, not simply as individual malice. Once Mingdi remains angry after Liu Ying's fall, investigators and judges treat inclusion as safer than restraint. Torture makes suspects name more people, while officials can display loyalty by expanding the case instead of narrowing it.
+汉纪 740 presents the fuller cascade as an institutional incentive problem, not simply as individual malice. Once Mingdi remains angry after Liu Ying's fall, investigators and judges treat inclusion as safer than restraint. Torture makes suspects name more people, while officials can display loyalty by expanding the case instead of narrowing it.
 
 The case also shows how such a cascade is repaired only through independent checks. [[LuXuEasternHan|Lu Xu]] supplies character evidence under torture, [[JianLangEasternHan|Jian Lang]] tests whether accusers can identify the people they name, [[EmpressMaMingdeEasternHan|Empress Ma]] warns that punishment has become excessive, and [[YuanAnEasternHan|Yuan An]] later reviews case files and releases households without clear evidence.
 
@@ -32,21 +32,21 @@ The case also shows how such a cascade is repaired only through independent chec
 
 ## Evidence
 
-- Opening expansion: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] records the Liu Ying accusation, Yu Yan's suicide after rebuke, Liu Ying's suicide, and the first description of years-long implication across court and local society.
-- Initial kinship limit: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says Mingdi does not execute Liu Ying at first and protects his children and mother, showing that a case can begin with restraint and still later become a dragnet.
-- Expansion mechanism: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says the Chu case expands from Liu Ying into royal kin, local elites, officials, deaths, exile, and many imprisoned households.
-- Torture and loyalty incentives: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] frames judges as using harsh inclusion and torture to show loyalty to Mingdi's anger.
-- Character-evidence interruption: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Lu Xu's conduct and family signal lead Mingdi to pardon Yin Xing's group.
-- Accusation-test interruption: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Jian Lang tests whether Yan Zhong and Wang Ping can describe the people they accuse.
-- File-review interruption: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Yuan An releases more than four hundred households after reviewing unsupported cases.
+- Opening expansion: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] records the Liu Ying accusation, Yu Yan's suicide after rebuke, Liu Ying's suicide, and the first description of years-long implication across court and local society.
+- Initial kinship limit: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says Mingdi does not execute Liu Ying at first and protects his children and mother, showing that a case can begin with restraint and still later become a dragnet.
+- Expansion mechanism: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says the Chu case expands from Liu Ying into royal kin, local elites, officials, deaths, exile, and many imprisoned households.
+- Torture and loyalty incentives: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] frames judges as using harsh inclusion and torture to show loyalty to Mingdi's anger.
+- Character-evidence interruption: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says Lu Xu's conduct and family signal lead Mingdi to pardon Yin Xing's group.
+- Accusation-test interruption: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says Jian Lang tests whether Yan Zhong and Wang Ping can describe the people they accuse.
+- File-review interruption: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says Yuan An releases more than four hundred households after reviewing unsupported cases.
 
 ## Counterevidence & Qualifications
 
-This concept currently rests on two adjacent source notes about the same Chu-prison case, so it should remain a precise case-derived pattern. The source set does not prove that every person named in the case was innocent; it distinguishes principal offenders from later indiscriminate implication. Hanji 739 shows an initially limited family punishment before the case expands, so the concept should not imply that every cascade begins with immediate maximum severity. The page also should not absorb all false-accusation cases, because some are better captured by [[CoercedConfessionTrap]], [[TreasonAccusationTrap]], or [[WuguPoliticalPanic]].
+This concept currently rests on two adjacent source notes about the same Chu-prison case, so it should remain a precise case-derived pattern. The source set does not prove that every person named in the case was innocent; it distinguishes principal offenders from later indiscriminate implication. 汉纪 739 shows an initially limited family punishment before the case expands, so the concept should not imply that every cascade begins with immediate maximum severity. The page also should not absorb all false-accusation cases, because some are better captured by [[CoercedConfessionTrap]], [[TreasonAccusationTrap]], or [[WuguPoliticalPanic]].
 
 ## What Changed
 
-- Added Hanji 739 as the opening Liu Ying case layer before Hanji 740's fuller torture-and-review account.
+- Added 汉纪 739 as the opening Liu Ying case layer before 汉纪 740's fuller torture-and-review account.
 - Clarified that the cascade can follow an initially limited kinship punishment rather than only immediate maximum severity.
 - Preserved the repair pattern: Lu Xu, Jian Lang, Empress Ma, and Yuan An interrupt the cascade through different evidence or counsel channels.
 

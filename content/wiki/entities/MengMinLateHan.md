@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-孟敏 / Meng Min is a late-Han figure in Hanji 861 whose significance comes from a small behavioral scene: after dropping and breaking a pottery vessel, he does not look back because looking cannot repair it. [[GuoTaiLateHan|郭泰]] reads that reaction as evidence of unusual decisiveness and encourages him toward study.
+孟敏 / Meng Min is a late-Han figure in 汉纪 861 whose significance comes from a small behavioral scene: after dropping and breaking a pottery vessel, he does not look back because looking cannot repair it. [[GuoTaiLateHan|郭泰]] reads that reaction as evidence of unusual decisiveness and encourages him toward study.
 
 ## Current Profile
 
-The page is source-scoped to Hanji 861. Meng Min begins as a man making a modest living in Taiyuan, but the episode treats his response to sudden loss as the revealing event. Guo Tai's judgment does not rest on Meng Min's rank or credentials; it rests on the way he separates an irreversible loss from useful action.
+The page is source-scoped to 汉纪 861. Meng Min begins as a man making a modest living in Taiyuan, but the episode treats his response to sudden loss as the revealing event. Guo Tai's judgment does not rest on Meng Min's rank or credentials; it rests on the way he separates an irreversible loss from useful action.
 
 In the wiki, Meng Min therefore functions as a compact case for [[SituationalCharacterTests|五观识人法]] and [[MoralMentorshipTalentCultivation|人师型人才成全]]: a teacher notices a hidden quality in ordinary conduct, then turns recognition into encouragement to learn.
 
@@ -27,9 +27,9 @@ In the wiki, Meng Min therefore functions as a compact case for [[SituationalCha
 
 ## Evidence
 
-- Broken-vessel judgment: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Meng Min drops a pottery vessel and does not look back because it is already broken.
-- Guo Tai's inference: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Guo Tai interprets the response as unusual judgment and decisiveness.
-- Study encouragement: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Guo Tai encourages Meng Min to study, after which Meng Min becomes known.
+- Broken-vessel judgment: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Meng Min drops a pottery vessel and does not look back because it is already broken.
+- Guo Tai's inference: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Guo Tai interprets the response as unusual judgment and decisiveness.
+- Study encouragement: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Guo Tai encourages Meng Min to study, after which Meng Min becomes known.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page records one source scene rather than a full biography. The episode use
 
 ## What Changed
 
-- Created the page from Hanji 861's broken-vessel recognition scene.
+- Created the page from 汉纪 861's broken-vessel recognition scene.
 
 ## Relationships
 

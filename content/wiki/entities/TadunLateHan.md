@@ -11,7 +11,7 @@ last_updated: 2026-08-27
 # 蹋顿 / Tadun (Late Han)
 
 ## Overview
-蹋顿 / Tadun enters the wiki through [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] as the Wuhuan leader who occupies the leadership position after [[QiuLijuLateHan|丘力居]] dies and Louban is still young. The episode ties him to [[YuanShao|袁绍]]'s post-[[GongsunZan|公孙瓒]] northern settlement and to chanyu-seal politics on the frontier.
+蹋顿 / Tadun enters the wiki through [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|汉纪 1032]] as the Wuhuan leader who occupies the leadership position after [[QiuLijuLateHan|丘力居]] dies and Louban is still young. The episode ties him to [[YuanShao|袁绍]]'s post-[[GongsunZan|公孙瓒]] northern settlement and to chanyu-seal politics on the frontier.
 
 ## Current Profile
 Tadun currently represents Yuan Shao's need to stabilize the Wuhuan side of the northern rear. He is not only a frontier name in the episode; he is part of the settlement by which Yuan Shao turns victory over Gongsun Zan into a wider Youzhou-Wuhuan arrangement before the Cao-Yuan confrontation.
@@ -24,15 +24,15 @@ Tadun currently represents Yuan Shao's need to stabilize the Wuhuan side of the 
 - Evidence point for rear stabilization before the Guandu horizon.
 
 ## Evidence
-- Succession setting: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] says Qiu Liju dies, Louban is still young, and Tadun takes the leading position.
-- Yuan-side settlement: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] has Yuan Shao give chanyu seals to Tadun and other Wuhuan leaders under court-facing language.
-- Frontier role: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] places Tadun in the post-Gongsun-Zan rear-security problem that precedes the Guandu campaign.
+- Succession setting: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|汉纪 1032]] says Qiu Liju dies, Louban is still young, and Tadun takes the leading position.
+- Yuan-side settlement: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|汉纪 1032]] has Yuan Shao give chanyu seals to Tadun and other Wuhuan leaders under court-facing language.
+- Frontier role: [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|汉纪 1032]] places Tadun in the post-Gongsun-Zan rear-security problem that precedes the Guandu campaign.
 
 ## Qualifications
-The current page is limited to Tadun's Hanji 1032 role. It does not yet cover later Cao-Wuhuan conflict, fuller Wuhuan politics, or independent biographical detail outside this episode.
+The current page is limited to Tadun's 汉纪 1032 role. It does not yet cover later Cao-Wuhuan conflict, fuller Wuhuan politics, or independent biographical detail outside this episode.
 
 ## What Changed
-- Created the page from Hanji 1032 as a Wuhuan frontier actor in Yuan Shao's northern-rear settlement.
+- Created the page from 汉纪 1032 as a Wuhuan frontier actor in Yuan Shao's northern-rear settlement.
 
 ## Relationships
 - [[QiuLijuLateHan|丘力居]] - predecessor whose death creates the succession setting.

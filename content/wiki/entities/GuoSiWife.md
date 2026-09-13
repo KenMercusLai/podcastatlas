@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 郭汜妻 / Guo Si's Wife
 
-郭汜妻 / Guo Si's Wife enters the wiki through [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|Hanji 984]] as the unnamed wife of [[GuoSiLateHan|郭汜]]. The page keeps her source-scoped because the episode uses her primarily as a proximate trigger inside a larger [[LiJueLateHan|李傕]]-Guo Si power struggle.
+郭汜妻 / Guo Si's Wife enters the wiki through [[zizhi-tongjian-hanji-984-liangzhouxi-junfa-neidou-ta-weihe-di-yige-daoxia-lurb2qfzsa7e-owh-dl-m-sccze5|汉纪 984]] as the unnamed wife of [[GuoSiLateHan|郭汜]]. The page keeps her source-scoped because the episode uses her primarily as a proximate trigger inside a larger [[LiJueLateHan|李傕]]-Guo Si power struggle.
 
 The source says she fears Guo Si may become interested in a beautiful maid from Li Jue's side. When Li Jue sends food to Guo Si, she picks out douchi and presents it as a sign of poison. She then says one cage cannot hold two roosters, turning household jealousy and personal safety fear into a political warning against coexistence.
 

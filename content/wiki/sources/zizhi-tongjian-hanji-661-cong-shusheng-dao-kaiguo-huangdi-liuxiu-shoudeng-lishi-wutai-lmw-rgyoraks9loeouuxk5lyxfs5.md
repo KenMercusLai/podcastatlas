@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 22 CE pre-coalition layer before [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]]. It begins with late-[[XinDynasty|新朝]] military pressure against [[ChimeiRebellion|赤眉]]-aligned uprisings, then introduces [[LiuXiu|刘秀]] as a displaced Liu-lineage local figure from Nanyang whose reputation for caution helps stabilize the first Chongling uprising.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 22 CE pre-coalition layer before [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]]. It begins with late-[[XinDynasty|新朝]] military pressure against [[ChimeiRebellion|赤眉]]-aligned uprisings, then introduces [[LiuXiu|刘秀]] as a displaced Liu-lineage local figure from Nanyang whose reputation for caution helps stabilize the first Chongling uprising.
 
 The episode also gives the earliest current [[LiTongEasternHan|李通]] and [[LiYiGengshiGeneral|李轶]] layer. Their prophecy-backed approach to Liu Xiu joins [[ChenweiPolitics|谶纬政治]], Han-restoration expectation, local elite mobilization, and [[LethalPlanLeakageRisk|致命计划泄露风险]]: Li Tong's planned seizure of Zhen Fu and Liangqiu Ci leaks before execution, forcing his flight and causing the deaths of Li Shou and dozens of family members.
 
@@ -39,11 +39,11 @@ The episode also gives the earliest current [[LiTongEasternHan|李通]] and [[Li
 
 ## Connections
 
-- [[LiuXiu|刘秀]], [[LiuYanLiuXiuBrother|刘縯]], [[LiTongEasternHan|李通]], [[LiYiGengshiGeneral|李轶]], and [[DengChenEasternHan|邓晨]] - the source supplies the first anti-Xin mobilization layer before Hanji 662's wider coalition and spoils crisis.
+- [[LiuXiu|刘秀]], [[LiuYanLiuXiuBrother|刘縯]], [[LiTongEasternHan|李通]], [[LiYiGengshiGeneral|李轶]], and [[DengChenEasternHan|邓晨]] - the source supplies the first anti-Xin mobilization layer before 汉纪 662's wider coalition and spoils crisis.
 - [[WangMang|王莽]], Wang Kuang, Lian Dan, Zhen Fu, Liangqiu Ci, and [[ChimeiRebellion|赤眉]] - the source places the Liu-family uprising inside Wang Mang's broader military and administrative breakdown.
 - [[ChenweiPolitics|谶纬政治]], Cai Shaogong, Liu Shou, and [[RebelMandateManufacture|起义天命制造]] - prophecy and Han-restoration expectations make the uprising intelligible to participants without proving the prophecy true.
-- [[LethalPlanLeakageRisk|致命计划泄露风险]] and [[EarlyRestorationCoalitionIntegration|早期复汉联盟整合]] - the episode connects failed secrecy before action with the opening local mobilization that Hanji 662 later expands into coalition integration.
-- [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]], [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|Hanji 663]], and [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]] - direct continuation into wider coalition repair, Liu Xuan's elevation, and Kunyang.
+- [[LethalPlanLeakageRisk|致命计划泄露风险]] and [[EarlyRestorationCoalitionIntegration|早期复汉联盟整合]] - the episode connects failed secrecy before action with the opening local mobilization that 汉纪 662 later expands into coalition integration.
+- [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]], [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|汉纪 663]], and [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]] - direct continuation into wider coalition repair, Liu Xuan's elevation, and Kunyang.
 
 ## Contradictions
 

@@ -38,10 +38,10 @@ A practical-skill layer appears in the "以江为眼，以湖为口" formula: on
 - [[zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw]] frames "眼亮" and口才 as core Jianghu skills, including quick adaptation and, at the predatory edge, seamless lying.
 
 ## Counterevidence & Qualifications
-Informal order is not the same as justice. The same mechanisms that reduce uncertainty can gatekeep outsiders, shelter coercion, or enable fraud. The Hanji 483-2 skill formula is thematic commentary, while the [[JiangHuCongTan|《江湖丛谈》]] source provides more concrete street-practice evidence.
+Informal order is not the same as justice. The same mechanisms that reduce uncertainty can gatekeep outsiders, shelter coercion, or enable fraud. The 汉纪 483-2 skill formula is thematic commentary, while the [[JiangHuCongTan|《江湖丛谈》]] source provides more concrete street-practice evidence.
 
 ## What Changed
-- Added Hanji 483-2's observation-and-speech layer to the rule-system concept.
+- Added 汉纪 483-2's observation-and-speech layer to the rule-system concept.
 - Migrated the page to synthesis-v1 while preserving the existing source order.
 
 ## Related Concepts

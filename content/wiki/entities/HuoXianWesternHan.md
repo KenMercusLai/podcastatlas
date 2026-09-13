@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-霍显 / Huo Xian enters the wiki through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] as [[HuoGuangWesternHan|霍光]]'s wife and the household actor most directly tied to the Huo family's private excess, palace overreach, succession threat, and eventual destruction.
+霍显 / Huo Xian enters the wiki through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] as [[HuoGuangWesternHan|霍光]]'s wife and the household actor most directly tied to the Huo family's private excess, palace overreach, succession threat, and eventual destruction.
 
 ## Current Profile
 
@@ -29,23 +29,23 @@ Her role also reaches backward. The episode closes by invoking Ban Gu's criticis
 ## Evidence
 
 Private excess and status overreach:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Huo Xian has an affair with Feng Zidu after Huo Guang's death.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says she expands Huo Guang's tomb scale and treats palace access casually.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Huo Xian has an affair with Feng Zidu after Huo Guang's death.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says she expands Huo Guang's tomb scale and treats palace access casually.
 
 Succession and purge danger:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says she tries to poison crown prince Liu Shi but is blocked by attendants around him.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Huo Xian is arrested after the Huo conspiracy is exposed and later executed with other family members.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says she tries to poison crown prince Liu Shi but is blocked by attendants around him.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Huo Xian is arrested after the Huo conspiracy is exposed and later executed with other family members.
 
 Retrospective responsibility:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] cites Ban Gu's criticism that Huo Guang concealed his wife's evil plot and indulged private desire.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] cites Ban Gu's criticism that Huo Guang concealed his wife's evil plot and indulged private desire.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 424. It does not independently reconstruct the full primary-source case for Empress Xu's poisoning, Huo Xian's household network, Feng Zidu's biography, or every legal charge attached to the purge.
+This page is source-scoped to 汉纪 424. It does not independently reconstruct the full primary-source case for Empress Xu's poisoning, Huo Xian's household network, Feng Zidu's biography, or every legal charge attached to the purge.
 
 ## What Changed
 
-- Created Huo Xian as the source-scoped household and harem-politics driver in Hanji 424's Huo-collapse narrative.
+- Created Huo Xian as the source-scoped household and harem-politics driver in 汉纪 424's Huo-collapse narrative.
 
 ## Relationships
 

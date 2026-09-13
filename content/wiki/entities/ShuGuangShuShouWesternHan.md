@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-疏广与疏受 / Shu Guang and Shu Shou enter the wiki through [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] as Western Han crown-prince teachers who retire together after reaching rank, reputation, and reward sufficiency. The source transcript writes their names as 叔广 and 叔寿; this canonical page uses the standard historical names 疏广 and 疏受.
+疏广与疏受 / Shu Guang and Shu Shou enter the wiki through [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] as Western Han crown-prince teachers who retire together after reaching rank, reputation, and reward sufficiency. The source transcript writes their names as 叔广 and 叔寿; this canonical page uses the standard historical names 疏广 and 疏受.
 
 ## Current Profile
 
@@ -29,22 +29,22 @@ Second, the pair's retirement is not private hoarding. Back home, they host neig
 ## Evidence
 
 Timely exit:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Shu Guang tells Shu Shou that satisfaction avoids humiliation and knowing when to stop avoids danger.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says they see two-thousand-shi rank, merit, and wealth as the right exit moment.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Xuan and the crown prince give them gold, and officials and commoners praise the departure.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Shu Guang tells Shu Shou that satisfaction avoids humiliation and knowing when to stop avoids danger.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says they see two-thousand-shi rank, merit, and wealth as the right exit moment.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Xuan and the crown prince give them gold, and officials and commoners praise the departure.
 
 Wealth distribution:
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says they return home and daily invite neighbors, kin, old friends, and guests.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says Shu Guang rejects advice to buy more property or store money for descendants.
-- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] says too much wealth can erode worthy descendants' ambition and amplify foolish descendants' errors.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says they return home and daily invite neighbors, kin, old friends, and guests.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says Shu Guang rejects advice to buy more property or store money for descendants.
+- [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|汉纪 431]] says too much wealth can erode worthy descendants' ambition and amplify foolish descendants' errors.
 
 ## Qualifications
 
-The page is source-scoped to Hanji 431's retirement and wealth-transmission lesson. It does not reconstruct Shu Guang's or Shu Shou's complete biographies, their educational record with the crown prince, or the full original wording of their retirement exchange.
+The page is source-scoped to 汉纪 431's retirement and wealth-transmission lesson. It does not reconstruct Shu Guang's or Shu Shou's complete biographies, their educational record with the crown prince, or the full original wording of their retirement exchange.
 
 ## What Changed
 
-- Created the page from Hanji 431's paired retirement and wealth-distribution case.
+- Created the page from 汉纪 431's paired retirement and wealth-distribution case.
 
 ## Relationships
 

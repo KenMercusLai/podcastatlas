@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-张绍 / Zhang Shao enters the wiki through [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] as the Fengguo chancellor who joins [[LiuChongAnzhongMarquis|安众侯刘崇]] in the failed 6 CE attack on Wan against [[WangMang|王莽]].
+张绍 / Zhang Shao enters the wiki through [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] as the Fengguo chancellor who joins [[LiuChongAnzhongMarquis|安众侯刘崇]] in the failed 6 CE attack on Wan against [[WangMang|王莽]].
 
 ## Current Profile
 
@@ -28,17 +28,17 @@ The source gives him no independent command success. His importance is that a lo
 
 ## Evidence
 
-- Joint planning: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Zhang Shao and Liu Chong discuss Wang Mang's threat and the need for a Liu-led move.
-- Failed attack: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Zhang Shao joins the roughly one hundred-person attack on Wan that fails before entering the city.
-- Kinship aftermath: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says his cousin [[ZhangSongXinPetitioner|张竦]] later distances himself through a petition praising Wang Mang and denouncing Liu Chong.
+- Joint planning: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Zhang Shao and Liu Chong discuss Wang Mang's threat and the need for a Liu-led move.
+- Failed attack: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Zhang Shao joins the roughly one hundred-person attack on Wan that fails before entering the city.
+- Kinship aftermath: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says his cousin [[ZhangSongXinPetitioner|张竦]] later distances himself through a petition praising Wang Mang and denouncing Liu Chong.
 
 ## Qualifications
 
-This page is bounded to Hanji 629. It does not settle Zhang Shao's full office history, his exact relation to Fengguo's local institutions, or his fate after capture beyond the episode's summary. The page is disambiguated from modern [[ZhangShaofeng]] and other Zhang Shao/Zhang Zhao figures.
+This page is bounded to 汉纪 629. It does not settle Zhang Shao's full office history, his exact relation to Fengguo's local institutions, or his fate after capture beyond the episode's summary. The page is disambiguated from modern [[ZhangShaofeng]] and other Zhang Shao/Zhang Zhao figures.
 
 ## What Changed
 
-- Created from Hanji 629 as Liu Chong's co-planner in the first symbolic anti-Wang Mang rising.
+- Created from 汉纪 629 as Liu Chong's co-planner in the first symbolic anti-Wang Mang rising.
 
 ## Relationships
 

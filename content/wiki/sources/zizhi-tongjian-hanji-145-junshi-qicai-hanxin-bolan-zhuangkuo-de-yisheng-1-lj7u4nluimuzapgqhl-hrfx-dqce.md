@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》145｜军事奇才，韩信波澜壮阔的一生（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns from the settlement backlash in [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] to [[HanXin|韩信]]'s early life before his military career is developed. It frames the famous "胯下之辱" not as simple cowardice but through [[GreatCourageUnderHumiliation|忍辱大勇]]: the capacity to absorb humiliation when one's aim is larger than a street-level fight. The episode grounds the story in [[Shiji|《史记》]]'s Huaiyin Hou biography, then uses [[SuShi|苏轼]]'s 《留侯论》 language about "大勇" to explain why Han Xin's silence can be read as restrained future orientation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns from the settlement backlash in [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|汉纪 144 part 2]] to [[HanXin|韩信]]'s early life before his military career is developed. It frames the famous "胯下之辱" not as simple cowardice but through [[GreatCourageUnderHumiliation|忍辱大勇]]: the capacity to absorb humiliation when one's aim is larger than a street-level fight. The episode grounds the story in [[Shiji|《史记》]]'s Huaiyin Hou biography, then uses [[SuShi|苏轼]]'s 《留侯论》 language about "大勇" to explain why Han Xin's silence can be read as restrained future orientation.
 
 ## Key Claims
 - The episode opens by asking why a later world-famous military talent would suffer "胯下之辱" in youth.
@@ -32,8 +32,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns from 
 ## Connections
 - [[HanXin|韩信]], [[Huaiyin|淮阴]], [[Shiji|《史记》]], and [[SimaQian|司马迁]] - early biography, source base, and family-background gaps.
 - [[GreatCourageUnderHumiliation|忍辱大勇]], [[SuShi|苏轼]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - interpretive frame where restraint preserves future action rather than proving passivity.
-- [[XiangYu|项羽]], [[LiuBang|刘邦]], [[TianRong|田荣]], [[ChenYu|陈馀]], and [[CoalitionSettlementFailure|联军战后安排失败]] - political-military background inherited from Hanji 144.
-- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|Hanji 144 part 2]] - prior source that introduced Han Xin only as a disappointed follower entering Hanzhong.
+- [[XiangYu|项羽]], [[LiuBang|刘邦]], [[TianRong|田荣]], [[ChenYu|陈馀]], and [[CoalitionSettlementFailure|联军战后安排失败]] - political-military background inherited from 汉纪 144.
+- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-2-lut3jiatchla3pfxpkznsrs7wkzu|汉纪 144 part 2]] - prior source that introduced Han Xin only as a disappointed follower entering Hanzhong.
 
 ## Contradictions
 - No settled contradiction is recorded. This source deepens [[HanXin|韩信]] from a briefly named future talent into an early-biography case; the possible old Han-state royal lineage and the exact family background remain source-scoped uncertainty.

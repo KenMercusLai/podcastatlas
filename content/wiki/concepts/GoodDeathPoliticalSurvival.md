@@ -15,13 +15,13 @@ Good death political survival is the court-survival pattern where a high-status 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] creates the current case through [[FuXiWesternHan|傅喜]]. Fu Xi belongs to the Fu family, but his earlier refusal to follow [[FuTaihouWesternHan|傅太后]]'s political line lets [[WangZhengjun|王政君]] distinguish him from the Fu/Ding faction after [[WangMang|王莽]] returns to power.
+[[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] creates the current case through [[FuXiWesternHan|傅喜]]. Fu Xi belongs to the Fu family, but his earlier refusal to follow [[FuTaihouWesternHan|傅太后]]'s political line lets [[WangZhengjun|王政君]] distinguish him from the Fu/Ding faction after [[WangMang|王莽]] returns to power.
 
 The episode's key judgment is that survival is not measured only by rank. Fu Xi is recalled and made tejin, but he responds with fear because he understands that sudden favor in a purge environment can be as dangerous as disgrace. His later return to his fief and old-age death let the host connect him to "善终" in the Five Blessings frame.
 
 [[PingDangWesternHan|平当]] supplies a second shape of the same pattern. He is not escaping a purge; he is dying while occupying high office. His refusal to force himself to receive a full marquisate turns "good end" from survival after danger into disciplined refusal before death: he protects his descendants by not adding a final title claim that would look greedy or irresponsible.
 
-The concept is therefore not a general praise of longevity, wealth, or visible honor. The Honglou Meng comparison in Hanji 604 and Ping Dang's refusal in Hanji 582 make the distinction explicit: wealth, long life, public ceremony, and hereditary benefit can still fail to be a good end if the closing scene is defined by ruin, coercion, or reputation-damaging greed.
+The concept is therefore not a general praise of longevity, wealth, or visible honor. The Honglou Meng comparison in 汉纪 604 and Ping Dang's refusal in 汉纪 582 make the distinction explicit: wealth, long life, public ceremony, and hereditary benefit can still fail to be a good end if the closing scene is defined by ruin, coercion, or reputation-damaging greed.
 
 ## Key Claims
 
@@ -34,22 +34,22 @@ The concept is therefore not a general praise of longevity, wealth, or visible h
 
 ## Evidence
 
-- Nonalignment precondition: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Fu Xi refused to follow Fu Taihou's views and was driven back to his fief rather than change.
-- Distinction from family purge: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Wang Zhengjun praises Fu Xi while Fu and Ding family officeholders are removed and displaced.
-- Fear after restoration: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Fu Xi is worried and afraid after being recalled and honored.
-- Good-end marker: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Fu Xi later returns to his fief and dies old.
-- Five Blessings frame: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] explains "善终" through the Five Blessings and contrasts it with Honglou Meng figures whose wealth or longevity does not produce a good end.
-- Deathbed title refusal: [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] says Ping Dang refuses to force himself to accept a marquis seal while gravely ill.
-- Descendant-protection logic: [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] says Ping Dang treats refusal, not acceptance, as the better way to protect descendants and reputation.
+- Nonalignment precondition: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says Fu Xi refused to follow Fu Taihou's views and was driven back to his fief rather than change.
+- Distinction from family purge: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says Wang Zhengjun praises Fu Xi while Fu and Ding family officeholders are removed and displaced.
+- Fear after restoration: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says Fu Xi is worried and afraid after being recalled and honored.
+- Good-end marker: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says Fu Xi later returns to his fief and dies old.
+- Five Blessings frame: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] explains "善终" through the Five Blessings and contrasts it with Honglou Meng figures whose wealth or longevity does not produce a good end.
+- Deathbed title refusal: [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|汉纪 582]] says Ping Dang refuses to force himself to accept a marquis seal while gravely ill.
+- Descendant-protection logic: [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|汉纪 582]] says Ping Dang treats refusal, not acceptance, as the better way to protect descendants and reputation.
 
 ## Counterevidence & Qualifications
 
-The concept is grounded in two episodes and their host interpretations. It should not be treated as a complete ancient Chinese ethics theory of death. Hanji 604 supports Fu Xi as a political-survival example, but the Honglou Meng comparisons are interpretive analogies rather than independent historical evidence. Hanji 582 supports Ping Dang's refusal of the marquisate, but not a full biography or a general rule that all deathbed honors are improper.
+The concept is grounded in two episodes and their host interpretations. It should not be treated as a complete ancient Chinese ethics theory of death. 汉纪 604 supports Fu Xi as a political-survival example, but the Honglou Meng comparisons are interpretive analogies rather than independent historical evidence. 汉纪 582 supports Ping Dang's refusal of the marquisate, but not a full biography or a general rule that all deathbed honors are improper.
 
 ## What Changed
 
-- Added Hanji 582's Ping Dang case, extending "good end" from post-purge survival to refusal of one last status claim before death.
-- Preserved Hanji 604's Fu Xi "善终" discussion and Five Blessings frame.
+- Added 汉纪 582's Ping Dang case, extending "good end" from post-purge survival to refusal of one last status claim before death.
+- Preserved 汉纪 604's Fu Xi "善终" discussion and Five Blessings frame.
 
 ## Related Concepts
 

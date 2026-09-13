@@ -45,5 +45,5 @@ The durable synthesis is that a weak accusation becomes lethal when it enters a 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills Jianping 1 / 6 BCE before Hanji 578-582's later Fu Taihou title and Fu Xi conflict sequence.
+- Chronology qualification: this source backfills Jianping 1 / 6 BCE before 汉纪 578-582's later Fu Taihou title and Fu Xi conflict sequence.
 - Scope caution: Ding Xuan's full inquiry, Zhang You's illness, Shi Li's complete legal procedure, Tang Lin's and Gong Sheng's exact memorial wording, and the complete Feng-family casualty list remain source-scoped unless later notes warrant expansion.

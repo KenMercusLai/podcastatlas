@@ -15,9 +15,9 @@ Household Misconduct Political Liability is the pattern where family, guests, de
 
 ## Current Synthesis
 
-The concept now has two bounded branches. Hanji 815 grounds it in the 133 CE [[PangCanLateHan|Pang Can]] case: Pang is a highly reputed taiwei defended by [[DuanGongchengLateHan|Duan Gongcheng]] as loyal and publicly praised, yet his current wife's killing of a son from his former wife gives [[ZhuLiangLuoyangLateHan|Zhu Liang]] a concrete impeachment path. The household event does not merely embarrass Pang; it changes the evidentiary terrain on which [[EmperorShunOfHan|Emperor Shun]] can dismiss him.
+The concept now has two bounded branches. 汉纪 815 grounds it in the 133 CE [[PangCanLateHan|Pang Can]] case: Pang is a highly reputed taiwei defended by [[DuanGongchengLateHan|Duan Gongcheng]] as loyal and publicly praised, yet his current wife's killing of a son from his former wife gives [[ZhuLiangLuoyangLateHan|Zhu Liang]] a concrete impeachment path. The household event does not merely embarrass Pang; it changes the evidentiary terrain on which [[EmperorShunOfHan|Emperor Shun]] can dismiss him.
 
-Hanji 752 adds an earlier family-power branch through the [[MaFamilyZhangEraEasternHan|Zhang-era Ma family]]. After [[EmpressMaMingdeEasternHan|Empress Ma]] dies, the Ma household loses its strongest protection, but Ma Fang and Ma Guang continue visible luxury, guests, horses, and Qiang-Hu exactions. [[MaLiaoEasternHan|Ma Liao]] is personally cautious but fails to discipline younger relatives, so household conduct becomes political liability before officials impeach the brothers and [[EmperorZhangOfHan|Emperor Zhang]] sends them away from the capital.
+汉纪 752 adds an earlier family-power branch through the [[MaFamilyZhangEraEasternHan|Zhang-era Ma family]]. After [[EmpressMaMingdeEasternHan|Empress Ma]] dies, the Ma household loses its strongest protection, but Ma Fang and Ma Guang continue visible luxury, guests, horses, and Qiang-Hu exactions. [[MaLiaoEasternHan|Ma Liao]] is personally cautious but fails to discipline younger relatives, so household conduct becomes political liability before officials impeach the brothers and [[EmperorZhangOfHan|Emperor Zhang]] sends them away from the capital.
 
 The combined synthesis is that household misconduct is powerful because it converts a broad suspicion into a concrete narrative. Moral reputation can slow attack, and old patronage can delay exposure, but neither prevents private or household disorder from becoming a usable public file once the court is looking for a handle.
 
@@ -32,20 +32,20 @@ The combined synthesis is that household misconduct is powerful because it conve
 
 ## Evidence
 
-- Concrete domestic scandal: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Pang's current wife kills the son of his former wife, Zhu Liang impeaches Pang, and Pang is dismissed after previously receiving imperial concern.
-- Reputation limit: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] has Duan Gongcheng defend Pang's loyalty and popular reputation, but that defense does not survive the later household scandal.
-- Court context: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] places Pang under repeated slander and impeachment pressure before the household event supplies a sharper attack route.
-- Lost-patronage household risk: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says the Ma family loses its main protection after Empress Ma dies while Ma Fang and Ma Guang continue conspicuous household display.
-- Senior caution not enough: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Ma Liao is cautious but fails to discipline the family, while Yang Zhong warns that younger relatives and guests make the household dangerous.
-- Political consequence: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Zhangdi restricts the Ma family, guests scatter, officials impeach Ma Fang and Ma Guang, and the brothers are sent to their fiefs.
+- Concrete domestic scandal: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] says Pang's current wife kills the son of his former wife, Zhu Liang impeaches Pang, and Pang is dismissed after previously receiving imperial concern.
+- Reputation limit: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] has Duan Gongcheng defend Pang's loyalty and popular reputation, but that defense does not survive the later household scandal.
+- Court context: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] places Pang under repeated slander and impeachment pressure before the household event supplies a sharper attack route.
+- Lost-patronage household risk: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says the Ma family loses its main protection after Empress Ma dies while Ma Fang and Ma Guang continue conspicuous household display.
+- Senior caution not enough: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says Ma Liao is cautious but fails to discipline the family, while Yang Zhong warns that younger relatives and guests make the household dangerous.
+- Political consequence: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says Zhangdi restricts the Ma family, guests scatter, officials impeach Ma Fang and Ma Guang, and the brothers are sent to their fiefs.
 
 ## Counterevidence & Qualifications
 
-The concept should not make every family misfortune a political fault. It applies when household conduct is made legible as evidence against public trust, office fitness, patronage safety, or elite order. Hanji 815 includes disaster and epidemic conditions around Pang's dismissal, so household misconduct is best read as an enabling liability inside a wider accountability frame, not the sole cause. Hanji 752 also shows a patronage condition: the same Ma household behavior becomes more dangerous after Empress Ma's protective role disappears.
+The concept should not make every family misfortune a political fault. It applies when household conduct is made legible as evidence against public trust, office fitness, patronage safety, or elite order. 汉纪 815 includes disaster and epidemic conditions around Pang's dismissal, so household misconduct is best read as an enabling liability inside a wider accountability frame, not the sole cause. 汉纪 752 also shows a patronage condition: the same Ma household behavior becomes more dangerous after Empress Ma's protective role disappears.
 
 ## What Changed
 
-- Added Hanji 752 as an earlier Ma-family branch where guests, luxury, and younger relatives become household-political liability after lost patronage.
+- Added 汉纪 752 as an earlier Ma-family branch where guests, luxury, and younger relatives become household-political liability after lost patronage.
 - Expanded the concept beyond domestic spouse/child scandal to include high-status relatives, guests, and dependents.
 - Clarified that moral reputation and patronage can delay but not erase concrete household evidence.
 

@@ -31,7 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[W
 > "向西刘邦胜，向东项羽胜" - the source's pivot logic for Han Xin's position after Qi.
 
 ## Connections
-- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] - immediate prior episode, ending with Long Ju's death and Qi's military collapse.
+- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|汉纪 164-2]] - immediate prior episode, ending with Long Ju's death and Qi's military collapse.
 - [[LiuBang|刘邦]] - must turn anger into title strategy when Han Xin's Qi power can no longer be treated as ordinary delegated command.
 - [[HanXin|韩信]] - requests acting Qi kingship, receives real kingship, rejects Wu She's三分天下 pitch, and becomes the object of Kuai Che's next warning.
 - [[ZhangLiang|张良]] and [[ChenPing|陈平]] - intervene in Liu Bang's reaction and make the forced concession politically executable.

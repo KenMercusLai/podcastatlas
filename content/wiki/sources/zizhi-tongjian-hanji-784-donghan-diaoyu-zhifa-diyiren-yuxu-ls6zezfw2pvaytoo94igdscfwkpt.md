@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the early [[EmpressDowagerDengLateHan|和熹邓皇后]] regency layer before [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] and [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]]. It follows [[YuXuEasternHan|虞诩]] opposing [[DengZhiLateHan|邓骘]] and [[PangCanLateHan|庞参]] on abandoning [[LiangzhouLateHan|凉州]], then being sent to the dangerous [[ZhaogeCountyLateHan|朝歌县]] post where [[InformationAsymmetricPacification|信息不对称式平叛]] lets him suppress Ning Ji's bandit rebellion.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the early [[EmpressDowagerDengLateHan|和熹邓皇后]] regency layer before [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] and [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]]. It follows [[YuXuEasternHan|虞诩]] opposing [[DengZhiLateHan|邓骘]] and [[PangCanLateHan|庞参]] on abandoning [[LiangzhouLateHan|凉州]], then being sent to the dangerous [[ZhaogeCountyLateHan|朝歌县]] post where [[InformationAsymmetricPacification|信息不对称式平叛]] lets him suppress Ning Ji's bandit rebellion.
 
 The durable synthesis is that Yu Xu's profile begins before his later Wudu campaign: he combines strategic frontier accounting, control of Liangzhou elites through reward-like hostages, and county-level intelligence tactics. The closing notes also add an earlier [[SouthernXiongnu|南匈奴]] surrender layer and a brief [[XianlingQiang|先零羌]] attack on Baozhong, keeping the Deng-regency frontier picture compound rather than one-front.
 
@@ -52,6 +52,6 @@ The durable synthesis is that Yu Xu's profile begins before his later Wudu campa
 
 ## Contradictions
 
-- No settled contradiction is recorded. The episode backfills an earlier Yu Xu and Liangzhou layer before Hanji 785-786 and before the already-ingested Hanji 788 Wudu tactics.
-- Chronology caution: the source episode sits before Hanji 785 in the backfill sequence, while some existing pages already begin their An-era evidence at Hanji 785 or Hanji 786. This ingest treats Hanji 784 as an earlier source layer without forcing a precise year beyond the episode's own sequence.
+- No settled contradiction is recorded. The episode backfills an earlier Yu Xu and Liangzhou layer before 汉纪 785-786 and before the already-ingested 汉纪 788 Wudu tactics.
+- Chronology caution: the source episode sits before 汉纪 785 in the backfill sequence, while some existing pages already begin their An-era evidence at 汉纪 785 or 汉纪 786. This ingest treats 汉纪 784 as an earlier source layer without forcing a precise year beyond the episode's own sequence.
 - Scope caution: Zhang Yu, Ning Ji, Ma Lin, Pang Xiong, Liang Jin, Geng Zhong, He Xi, Zheng Qin, Duan Chong, Wang Zong, Yuan Zhan, Baozhong, and exact campaign dating remain source-scoped unless later notes provide recurring evidence.

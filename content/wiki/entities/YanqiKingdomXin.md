@@ -10,13 +10,13 @@ last_updated: 2026-09-09
 
 ## Overview
 
-焉耆国 / Yanqi Kingdom enters the Xin-period wiki through [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] as the Western Regions polity that pretends submission, ambushes [[WangJunXinGeneral|王骏]], and then suffers [[GuoQingXinGeneral|郭清]]'s retaliatory killing of civilians.
+焉耆国 / Yanqi Kingdom enters the Xin-period wiki through [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] as the Western Regions polity that pretends submission, ambushes [[WangJunXinGeneral|王骏]], and then suffers [[GuoQingXinGeneral|郭清]]'s retaliatory killing of civilians.
 
 ## Current Profile
 
 The episode's transcript writes the polity as 燕齐; this page normalizes it to Yanqi / 焉耆 because that is the received Western Regions polity name used elsewhere in the wiki for later Han material. The Xin-period profile is separate from [[YanqiKingdomLateHan|焉耆国 / Yanqi Kingdom (late Han)]] so that early-Xin and later Eastern Han evidence do not blur.
 
-Hanji 652 presents Yanqi as a local actor responding to Xin coercion. Western Regions states initially welcome Wang Mang's mission, but Wang Jun intends attack. Yanqi therefore feigns surrender, secretly prepares soldiers, ambushes Wang Jun inside its territory, and becomes the target of Guo Qing's retaliatory attack.
+汉纪 652 presents Yanqi as a local actor responding to Xin coercion. Western Regions states initially welcome Wang Mang's mission, but Wang Jun intends attack. Yanqi therefore feigns surrender, secretly prepares soldiers, ambushes Wang Jun inside its territory, and becomes the target of Guo Qing's retaliatory attack.
 
 ## Key Characteristics
 
@@ -28,10 +28,10 @@ Hanji 652 presents Yanqi as a local actor responding to Xin coercion. Western Re
 
 ## Evidence
 
-- False submission: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Yanqi pretends to submit while secretly preparing troops.
-- Ambush: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Wang Jun is attacked by ambush after entering Yanqi territory.
-- Retaliation suffered: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Guo Qing later kills Yanqi's old and weak civilians.
-- Frontier disconnection context: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] places the event before Western Regions contact breaks after Wang Mang's fall and Li Chong's death.
+- False submission: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Yanqi pretends to submit while secretly preparing troops.
+- Ambush: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Wang Jun is attacked by ambush after entering Yanqi territory.
+- Retaliation suffered: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Guo Qing later kills Yanqi's old and weak civilians.
+- Frontier disconnection context: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] places the event before Western Regions contact breaks after Wang Mang's fall and Li Chong's death.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The source transcript uses 燕齐, while this page uses the normalized Yanqi / �
 
 ## What Changed
 
-- Created a Xin-period Yanqi page from Hanji 652 and kept it distinct from the later-Han Yanqi synthesis.
+- Created a Xin-period Yanqi page from 汉纪 652 and kept it distinct from the later-Han Yanqi synthesis.
 
 ## Relationships
 

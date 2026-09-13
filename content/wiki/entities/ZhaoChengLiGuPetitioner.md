@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-赵成 / Zhao Cheng is the Henei petitioner in [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] who joins dozens of others carrying punishment gear to the palace gate for [[LiGuLateHan|李固]]. The page uses a semantic suffix to keep him distinct from the existing Qin and Warring States Zhao Cheng pages.
+赵成 / Zhao Cheng is the Henei petitioner in [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] who joins dozens of others carrying punishment gear to the palace gate for [[LiGuLateHan|李固]]. The page uses a semantic suffix to keep him distinct from the existing Qin and Warring States Zhao Cheng pages.
 
 ## Current Profile
 
-Hanji 830 gives Zhao Cheng a collective-action role rather than a full independent biography. He appears as a Henei man among several dozen people who make Li Gu's imprisonment public by presenting themselves at the palace gate under symbols of severe punishment.
+汉纪 830 gives Zhao Cheng a collective-action role rather than a full independent biography. He appears as a Henei man among several dozen people who make Li Gu's imprisonment public by presenting themselves at the palace gate under symbols of severe punishment.
 
 This pressure combines with [[WangTiaoLiGuStudent|王调]]'s student petition and moves [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] to release Li Gu. The success is temporary because [[LiangJiLateHan|梁冀]] renews the accusation and Li Gu later dies in prison.
 
@@ -28,9 +28,9 @@ This pressure combines with [[WangTiaoLiGuStudent|王调]]'s student petition an
 
 ## Evidence
 
-- Collective petition: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] names Henei man Zhao Cheng among dozens who carry punishment gear to the palace gate for Li Gu.
-- Release pressure: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] says Liang Na is moved by the petitioning and releases Li Gu.
-- Bounded success: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] then shows Liang Ji renewing the accusation, making the release a temporary victory.
+- Collective petition: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] names Henei man Zhao Cheng among dozens who carry punishment gear to the palace gate for Li Gu.
+- Release pressure: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] says Liang Na is moved by the petitioning and releases Li Gu.
+- Bounded success: [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] then shows Liang Ji renewing the accusation, making the release a temporary victory.
 
 ## Qualifications
 

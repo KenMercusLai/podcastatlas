@@ -14,7 +14,7 @@ Punitive anatomy as political terror names the use of anatomical investigation, 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] grounds the concept through [[WangMang|王莽]]'s dissection of [[WangSunqingXinRebel|王孙卿]]. The episode notes that Wang Mang assigned medical personnel, medical-store officials, and a butcher to inspect organs and channels and to record findings that were said to have healing value.
+[[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] grounds the concept through [[WangMang|王莽]]'s dissection of [[WangSunqingXinRebel|王孙卿]]. The episode notes that Wang Mang assigned medical personnel, medical-store officials, and a butcher to inspect organs and channels and to record findings that were said to have healing value.
 
 The source's main interpretation is a boundary claim: anatomical language should not automatically be equated with scientific spirit. Because Wang Sunqing was a captured rebel leader from the [[ZhaiYiRebellion|翟义起义]], and because ancient body-integrity norms made dissection morally extreme, the event reads as retaliatory spectacle and warning to living opponents.
 
@@ -30,19 +30,19 @@ The concept overlaps with [[PublicCorpseHumiliation|public corpse humiliation]] 
 
 ## Evidence
 
-- Anatomical procedure: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Wang Mang ordered medical personnel and a butcher to inspect Wang Sunqing's organs and channels.
-- Healing rationale: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] cites the claim that the records could be used for treating illness.
-- Rebel-victim context: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] identifies Wang Sunqing as a Zhai Yi uprising leader captured after years of flight.
-- Ethical boundary: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] argues that ancient body-integrity norms make the dissection difficult to read as simple scientific exploration.
-- Terror reading: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] uses Huan Tan's cruelty-as-display judgment to interpret Wang Mang's body-directed violence as warning to the living.
+- Anatomical procedure: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Wang Mang ordered medical personnel and a butcher to inspect Wang Sunqing's organs and channels.
+- Healing rationale: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] cites the claim that the records could be used for treating illness.
+- Rebel-victim context: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] identifies Wang Sunqing as a Zhai Yi uprising leader captured after years of flight.
+- Ethical boundary: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] argues that ancient body-integrity norms make the dissection difficult to read as simple scientific exploration.
+- Terror reading: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] uses Huan Tan's cruelty-as-display judgment to interpret Wang Mang's body-directed violence as warning to the living.
 
 ## Counterevidence & Qualifications
 
-The concept does not deny that anatomical observation could produce knowledge. Its narrower claim is that Hanji 652's Wang Sunqing case is not ethically or politically neutral because the victim is a captured enemy and the act is embedded in Wang Mang's coercive style. The episode mentions possible live dissection only as conjecture, so the concept must not require that stronger claim.
+The concept does not deny that anatomical observation could produce knowledge. Its narrower claim is that 汉纪 652's Wang Sunqing case is not ethically or politically neutral because the victim is a captured enemy and the act is embedded in Wang Mang's coercive style. The episode mentions possible live dissection only as conjecture, so the concept must not require that stronger claim.
 
 ## What Changed
 
-- Created the concept from Hanji 652 to distinguish punitive medicalized violence from ordinary scientific anatomy or generic corpse humiliation.
+- Created the concept from 汉纪 652 to distinguish punitive medicalized violence from ordinary scientific anatomy or generic corpse humiliation.
 
 ## Related Concepts
 

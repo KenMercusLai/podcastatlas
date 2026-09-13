@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the pre-[[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|Hanji 962]] late-Han field by showing [[CaoCao|曹操]] before the better-known [[YanzhouLateHan|兖州]] and imperial-court branches. It first introduces [[ChengYu|程昱]] through his advice to [[LiuDaiLateHan|刘岱]] during the [[YuanShao|袁绍]]-[[GongsunZan|公孙瓒]] split, then centers on [[NeihuangBattleLateHan|内黄之战]], where Cao Cao relieves [[DongWuyangLateHan|东武阳]] indirectly by threatening [[YuDuLateHan|于毒]]'s base. The episode's durable contribution is [[IntegratedCommandCapacity|全维度统帅能力]]: Cao Cao's early promise is read as a combination of strategic pressure, tactical adaptation, talent use, and resource integration rather than battlefield aggression alone.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the pre-[[zizhi-tongjian-hanji-962-dongzhuo-yu-lvbu-daodi-weishenme-juelie-lgp3kxfqnhokibf6kpli6p4j8iti|汉纪 962]] late-Han field by showing [[CaoCao|曹操]] before the better-known [[YanzhouLateHan|兖州]] and imperial-court branches. It first introduces [[ChengYu|程昱]] through his advice to [[LiuDaiLateHan|刘岱]] during the [[YuanShao|袁绍]]-[[GongsunZan|公孙瓒]] split, then centers on [[NeihuangBattleLateHan|内黄之战]], where Cao Cao relieves [[DongWuyangLateHan|东武阳]] indirectly by threatening [[YuDuLateHan|于毒]]'s base. The episode's durable contribution is [[IntegratedCommandCapacity|全维度统帅能力]]: Cao Cao's early promise is read as a combination of strategic pressure, tactical adaptation, talent use, and resource integration rather than battlefield aggression alone.
 
 ## Key Claims
 
@@ -47,10 +47,10 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[XunYu|荀彧]], [[GuoJia|郭嘉]], [[XunYou|荀攸]], [[AdviserStateArchitecture|谋士政权架构]], and [[IntegratedCommandCapacity|全维度统帅能力]] - adviser-system and command-capacity frame.
 - [[EncirclingWeiToRescueZhao|围魏救赵]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[BattlefieldInformationControl|战场信息控制]] - concepts extended by the indirect relief and target-shift logic.
 - [[QingzhouSoldiers|青州兵]], [[TuntianSystem|屯田制]], [[DefeatedPopulationConversion|降众资源化]], and [[RootBasePriority|根本根据地优先]] - later Cao-side resource and base-building branches that the episode previews.
-- [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] - nearby episode that later explains Liu Dai's death and Cao Cao's Yanzhou entry through the Qingzhou Yellow Turban crisis.
+- [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|汉纪 964]] - nearby episode that later explains Liu Dai's death and Cao Cao's Yanzhou entry through the Qingzhou Yellow Turban crisis.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills Cao Cao's earlier East Commandery activity and Cheng Yu's pre-Cao judgment role rather than reversing Hanji 964's later Yanzhou succession account.
+- No settled contradiction is recorded. This source backfills Cao Cao's earlier East Commandery activity and Cheng Yu's pre-Cao judgment role rather than reversing 汉纪 964's later Yanzhou succession account.
 - Source-scope caution: the broad "full-dimensional commander" praise, Romance contrast, and modern leadership analogies are treated as the host's interpretive frame, not as independent biographical proof.
 - Naming note: this ingest normalizes the Black Mountain actor as [[YuDuLateHan|于毒 / Yu Du]], while preserving earlier source-scoped transcript labels that rendered the same route as "余毒."

@@ -9,7 +9,7 @@ last_updated: 2026-08-29
 ---
 
 ## Overview
-服直 / Fu Zhi is the Ba Commandery rebel leader in Hanji 826. His movement is small in scale but politically important because its suppression failure gives [[LiangJiLateHan|梁冀]] a pretext to punish [[ZhongHaoLateHan|种暠]] and [[YingChengLateHan|应承]].
+服直 / Fu Zhi is the Ba Commandery rebel leader in 汉纪 826. His movement is small in scale but politically important because its suppression failure gives [[LiangJiLateHan|梁冀]] a pretext to punish [[ZhongHaoLateHan|种暠]] and [[YingChengLateHan|应承]].
 
 ## Current Profile
 Fu Zhi gathers several hundred followers in Ba Commandery and calls himself Heavenly King. The episode presents him as one of several 145 CE disorder nodes alongside Xianbei attacks, Lujiang and Liyang unrest, and Xu-Yang banditry.
@@ -23,9 +23,9 @@ His revolt is not currently synthesized as a durable regime project. Its main wi
 - Catalyst for Liang Ji's retaliation against Zhong Hao and Ying Cheng.
 
 ## Evidence
-- Revolt identity: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Fu Zhi gathers several hundred people in Ba Commandery.
-- Title claim: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] reports that he calls himself Heavenly King.
-- Administrative consequence: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] links the failed suppression to the arrests of Zhong Hao and Ying Cheng.
+- Revolt identity: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Fu Zhi gathers several hundred people in Ba Commandery.
+- Title claim: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] reports that he calls himself Heavenly King.
+- Administrative consequence: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] links the failed suppression to the arrests of Zhong Hao and Ying Cheng.
 
 ## Qualifications
 The current source does not preserve Fu Zhi's origins, doctrine, final fate, or connections to later Ba-Shu religious uprisings. The transcript form 扶植 is normalized to 服直 from the received Tongjian passage.

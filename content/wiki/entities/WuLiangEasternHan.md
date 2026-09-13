@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Overview
 
-Wu Liang appears in [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] as a Qi native and subordinate of [[LiuCangDongpingKing|Liu Cang]] whose recommendation to [[EmperorMingOfHan|Mingdi]] becomes an early reign talent-selection scene.
+Wu Liang appears in [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] as a Qi native and subordinate of [[LiuCangDongpingKing|Liu Cang]] whose recommendation to [[EmperorMingOfHan|Mingdi]] becomes an early reign talent-selection scene.
 
 ## Current Profile
 
@@ -29,9 +29,9 @@ Mingdi appoints Wu Liang as yilang. The source does not yet give later deeds, so
 
 ## Evidence
 
-- Recommendation channel: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] says Liu Cang recommends Wu Liang when Mingdi wants to reward Liu Cang.
-- Appointment result: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] records Mingdi appointing Wu Liang as yilang.
-- Governance meaning: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]] interprets this act as an example of using ministerial position to recommend talent for the state.
+- Recommendation channel: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] says Liu Cang recommends Wu Liang when Mingdi wants to reward Liu Cang.
+- Appointment result: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] records Mingdi appointing Wu Liang as yilang.
+- Governance meaning: [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]] interprets this act as an example of using ministerial position to recommend talent for the state.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ Mingdi appoints Wu Liang as yilang. The source does not yet give later deeds, so
 
 ## What Changed
 
-- Created this page from Hanji 733-1 as a recommendation-and-appointment profile.
+- Created this page from 汉纪 733-1 as a recommendation-and-appointment profile.
 
 ## Relationships
 

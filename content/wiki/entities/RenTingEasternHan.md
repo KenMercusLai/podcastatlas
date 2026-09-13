@@ -10,7 +10,7 @@ last_updated: 2026-09-01
 
 ## Overview
 
-任廷 / Ren Ting is synthesized as an Eastern Han official whose profile rests on one sharp appointment exchange with [[LiuXiu|光武帝刘秀]]. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Liu Xiu appoints him Wuwei governor and urges him to serve superiors carefully, while Ren Ting answers that true integrity lies in keeping public duty and law rather than maintaining surface harmony.
+任廷 / Ren Ting is synthesized as an Eastern Han official whose profile rests on one sharp appointment exchange with [[LiuXiu|光武帝刘秀]]. [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Liu Xiu appoints him Wuwei governor and urges him to serve superiors carefully, while Ren Ting answers that true integrity lies in keeping public duty and law rather than maintaining surface harmony.
 
 ## Current Profile
 
@@ -27,10 +27,10 @@ His positive formula is "奉公守法" - serving public duty and observing law. 
 
 ## Evidence
 
-- Appointment: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Liu Xiu appoints Ren Ting Wuwei governor.
-- Warning from Liu Xiu: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Liu Xiu tells him to serve superiors well and not lose popular support.
-- Reply on loyalty and harmony: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Ren Ting answers that loyal ministers need not be harmonious and overly harmonious ministers need not be loyal.
-- Public-duty formula: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Ren Ting defines official integrity as keeping the right way, serving public duty, and observing law.
+- Appointment: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Liu Xiu appoints Ren Ting Wuwei governor.
+- Warning from Liu Xiu: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Liu Xiu tells him to serve superiors well and not lose popular support.
+- Reply on loyalty and harmony: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Ren Ting answers that loyal ministers need not be harmonious and overly harmonious ministers need not be loyal.
+- Public-duty formula: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Ren Ting defines official integrity as keeping the right way, serving public duty, and observing law.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The page rests on one appointment exchange. The source does not provide Ren Ting
 
 ## What Changed
 
-- Created Ren Ting as a canonical Eastern Han entity from Hanji 714.
+- Created Ren Ting as a canonical Eastern Han entity from 汉纪 714.
 
 ## Relationships
 

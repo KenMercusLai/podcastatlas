@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianping 3-4 / 4-3 BCE [[HanAidi|汉哀帝]] court immediately before [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|Hanji 585]] and [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|Hanji 586]]. It follows Aidi's illness-driven ritual reversal, the [[WuyanCounty|无盐县]] road-and-stone anomalies, [[LiuYunDongpingKingWesternHan|东平王刘云]] and [[LiuYeDongpingQueenWesternHan|王后刘烨]]'s worship of the standing stone, and [[XiFuGongWesternHan|息夫躬]] with [[SunChongWesternHan|孙宠]] turning the event into a treason accusation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianping 3-4 / 4-3 BCE [[HanAidi|汉哀帝]] court immediately before [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|汉纪 585]] and [[zizhi-tongjian-hanji-586-weile-aiqing-gudai-huangdi-you-duo-chongdong-lizfxc8a4do88e6vyrcupyet3vs|汉纪 586]]. It follows Aidi's illness-driven ritual reversal, the [[WuyanCounty|无盐县]] road-and-stone anomalies, [[LiuYunDongpingKingWesternHan|东平王刘云]] and [[LiuYeDongpingQueenWesternHan|王后刘烨]]'s worship of the standing stone, and [[XiFuGongWesternHan|息夫躬]] with [[SunChongWesternHan|孙宠]] turning the event into a treason accusation.
 
 The durable synthesis is that omen pressure, illness, royal-kin suspicion, and reward-seeking accusation channels can turn a local wonder into a political case. The episode then broadens the same atmosphere through the [[FolkReligiousPanicTransmission|行西王母筹]] panic and [[ZhengChongWesternHan|郑崇]]'s objection to [[FuShangWesternHan|傅商]]'s enfeoffment, showing how disaster and omen language circulated between palace ritual, popular fear, and remonstrance against outer-relative privilege.
 
@@ -46,5 +46,5 @@ The durable synthesis is that omen pressure, illness, royal-kin suspicion, and r
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the original Dongping king Liu Yun case that Hanji 586 later uses as documentary material for Dong Xian's fabricated merit.
+- Chronology qualification: this source backfills the original Dongping king Liu Yun case that 汉纪 586 later uses as documentary material for Dong Xian's fabricated merit.
 - Scope caution: the source does not settle the physical cause of the road or standing-stone anomalies, the reliability of Liu Ye's confession, the complete legal record against Liu Yun, the exact role of every intermediary, or the identity of those who initiated the West Queen Mother token panic.

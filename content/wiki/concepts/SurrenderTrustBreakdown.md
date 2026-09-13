@@ -14,7 +14,7 @@ Surrender trust breakdown / 归降信任崩塌 is the failure pattern where a vi
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] grounds the pattern through [[TianRongYilingEasternHan|田戎]] and [[XinChenEasternHan|辛臣]]. Tian Rong's initial judgment is not irrational: Qin Feng's defeat makes submission to [[LiuXiu|光武帝刘秀]]'s side look safer than continued resistance. Xin Chen's later theft and defection, however, change what a surrender letter means.
+[[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] grounds the pattern through [[TianRongYilingEasternHan|田戎]] and [[XinChenEasternHan|辛臣]]. Tian Rong's initial judgment is not irrational: Qin Feng's defeat makes submission to [[LiuXiu|光武帝刘秀]]'s side look safer than continued resistance. Xin Chen's later theft and defection, however, change what a surrender letter means.
 
 The decisive point is interpretive contamination. Xin Chen writes from [[CenPengEasternHan|岑彭]]'s side and urges Tian Rong to submit, but because he has stolen valuables and crossed over first, the invitation now looks like betrayal rather than reassurance. Tian Rong's subsequent divination and rebellion belong to a decision field where personal trust has already collapsed.
 
@@ -30,9 +30,9 @@ The concept differs from [[BreachOfSurrenderTrust|受降失信]]. Breach of surr
 
 ## Evidence
 
-- Viable submission baseline: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Tian Rong intends to submit after hearing Qin Feng has been defeated.
-- Intermediary contamination: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Xin Chen steals Tian Rong's hidden jewels, defects to Cen Peng, and then sends a letter urging surrender.
-- Suspicion effect: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Tian Rong first suspects Xin Chen has betrayed him, then reverses direction after divination and joins Qin Feng.
+- Viable submission baseline: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Tian Rong intends to submit after hearing Qin Feng has been defeated.
+- Intermediary contamination: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Xin Chen steals Tian Rong's hidden jewels, defects to Cen Peng, and then sends a letter urging surrender.
+- Suspicion effect: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Tian Rong first suspects Xin Chen has betrayed him, then reverses direction after divination and joins Qin Feng.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The current concept is one-source bounded. Tian Rong may have had other military
 
 ## What Changed
 
-- Created the concept from Tian Rong and Xin Chen's failed surrender channel in Hanji 690.
+- Created the concept from Tian Rong and Xin Chen's failed surrender channel in 汉纪 690.
 
 ## Related Concepts
 

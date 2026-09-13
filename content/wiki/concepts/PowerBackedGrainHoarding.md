@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Power-Backed Grain Hoarding / 权力保护下的乱世囤粮
 
-Power-backed grain hoarding / 权力保护下的乱世囤粮 is [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]]'s interpretation of [[RenShiQinMerchant|任氏]]'s famine fortune. The source accepts the basic commercial insight that grain is more useful than gold or jewels in famine, but asks why a private store of grain was not simply seized in a violent hunger crisis.
+Power-backed grain hoarding / 权力保护下的乱世囤粮 is [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|汉纪 155-1]]'s interpretation of [[RenShiQinMerchant|任氏]]'s famine fortune. The source accepts the basic commercial insight that grain is more useful than gold or jewels in famine, but asks why a private store of grain was not simply seized in a violent hunger crisis.
 
 The host offers two possibilities: Ren氏 had a powerful backer, or society still retained enough order for stores and sales to be protected. Because the same passage describes [[GuanzhongRegion|关中]] as reaching "人吃人" conditions, the host favors the first possibility. The concept therefore treats grain profit in wartime as a power problem, not only a market-timing problem.
 

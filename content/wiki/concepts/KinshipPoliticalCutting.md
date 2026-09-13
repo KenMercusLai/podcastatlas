@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] creates the concept through [[XueXuanWesternHan|薛宣]] and [[ZhangFangWesternHan|张放]]. Zhang Fang is not Xue Xuan's biological son, but he is family-adjacent because Zhang Fang's mother [[JingwuPrincessWesternHan|靖武公主]] later marries Xue. When [[WangZhengjun|王政君]], outer relatives, and ministers move against Zhang Fang, Xue joins [[ZhaiFangjinWesternHan|翟方进]] in impeaching him.
+[[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]] creates the concept through [[XueXuanWesternHan|薛宣]] and [[ZhangFangWesternHan|张放]]. Zhang Fang is not Xue Xuan's biological son, but he is family-adjacent because Zhang Fang's mother [[JingwuPrincessWesternHan|靖武公主]] later marries Xue. When [[WangZhengjun|王政君]], outer relatives, and ministers move against Zhang Fang, Xue joins [[ZhaiFangjinWesternHan|翟方进]] in impeaching him.
 
 The source's reading is not that Xue simply discovers public virtue. It treats the impeachment as a politically rational cut: defending Zhang Fang would make Xue and Jingwu Princess look like they were shielding a court favorite whom the dowager and ministers already found intolerable. By joining the impeachment, Xue preserves distance from Zhang Fang's conduct and may also help keep the punishment at exile or commandant reassignment rather than a harsher outcome.
 
@@ -29,13 +29,13 @@ The source's reading is not that Xue simply discovers public virtue. It treats t
 ## Evidence
 
 Family-adjacent exposure:
-- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Zhang Fang's mother is Jingwu Princess and that Jingwu Princess's third husband is Xue Xuan.
+- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]] says Zhang Fang's mother is Jingwu Princess and that Jingwu Princess's third husband is Xue Xuan.
 
 Public cut:
-- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Xue Xuan and Zhai Fangjin jointly impeach Zhang Fang after dowager pressure.
+- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]] says Xue Xuan and Zhai Fangjin jointly impeach Zhang Fang after dowager pressure.
 
 Self-protection reading:
-- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says the host reads Xue's action as political cutting and family self-protection rather than only "大义灭亲."
+- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]] says the host reads Xue's action as political cutting and family self-protection rather than only "大义灭亲."
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ This concept is currently grounded in one source note and the host's interpretat
 
 ## What Changed
 
-- Created the concept from Hanji 539's reading of Xue Xuan's impeachment of Zhang Fang.
+- Created the concept from 汉纪 539's reading of Xue Xuan's impeachment of Zhang Fang.
 
 ## Related Concepts
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 汜水 / Si River (Chu-Han)
 
-Sishui is the river crossing outside [[Chenggao]] where [[CaoJiu]]'s Chu army is struck while crossing in [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|Hanji 163]]. The episode distinguishes this location from [[SuiRiver|睢水]]: the decisive action here is not a flood or massacre after Pengcheng, but a tactical attack on a provoked Chu force mid-crossing.
+Sishui is the river crossing outside [[Chenggao]] where [[CaoJiu]]'s Chu army is struck while crossing in [[zizhi-tongjian-hanji-163-liubang-shouxia-moushi-ruhe-bei-hanxin-neijuan-cansi-lubinu6hoihu59knmlixmaryhnq7|汉纪 163]]. The episode distinguishes this location from [[SuiRiver|睢水]]: the decisive action here is not a flood or massacre after Pengcheng, but a tactical attack on a provoked Chu force mid-crossing.
 
 Xiang Yu had told Cao Jiu not to fight while he was away in Liang, but Han insults draw Cao Jiu out through Chenggao's east gate. Liu Bang's side waits until the Chu troops are crossing Sishui, then attacks; Cao Jiu and [[SimaXin]] die by suicide after the defeat, and Han recovers Chenggao and [[Aocang]].
 

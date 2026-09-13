@@ -10,7 +10,7 @@ last_updated: 2026-08-29
 
 ## Overview
 
-文龙 / Wen Long enters the wiki through [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] as the [[GuiyangCommanderyLateHan|桂阳郡]] administrator whose large-pearl tribute is rejected by [[EmperorShunOfHan|汉顺帝]] after the emperor publicly orders frugality and bans treasured-object offerings.
+文龙 / Wen Long enters the wiki through [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|汉纪 809]] as the [[GuiyangCommanderyLateHan|桂阳郡]] administrator whose large-pearl tribute is rejected by [[EmperorShunOfHan|汉顺帝]] after the emperor publicly orders frugality and bans treasured-object offerings.
 
 ## Current Profile
 
@@ -26,9 +26,9 @@ The source frames the act as a misread hierarchy signal. Wen Long appears to off
 
 ## Evidence
 
-- Office and gift: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] identifies Wen Long as Guiyang administrator and says he presents a large pearl.
-- Public-line conflict: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] places the pearl after Shun's edict lowering imperial food and telling localities not to present precious objects.
-- Outcome and meaning: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] says Shun returns the pearl sealed and treats it as flattery.
+- Office and gift: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|汉纪 809]] identifies Wen Long as Guiyang administrator and says he presents a large pearl.
+- Public-line conflict: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|汉纪 809]] places the pearl after Shun's edict lowering imperial food and telling localities not to present precious objects.
+- Outcome and meaning: [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|汉纪 809]] says Shun returns the pearl sealed and treats it as flattery.
 
 ## Qualifications
 
@@ -36,7 +36,7 @@ The current wiki has only one source note for Wen Long. The page should not infe
 
 ## What Changed
 
-- Created this source-bounded page from Hanji 809's Guiyang large-pearl tribute case.
+- Created this source-bounded page from 汉纪 809's Guiyang large-pearl tribute case.
 
 ## Relationships
 

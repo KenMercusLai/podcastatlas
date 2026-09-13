@@ -47,5 +47,5 @@ The durable synthesis is that private loyalty is not the same as institutional s
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Balance qualification: this source presents Chengdi as failing to act on Mei Fu's warning, while later Hanji 549 still preserves a real but limited Chengdi clemency precedent in Zhu Yun's broken-balustrade case.
+- Balance qualification: this source presents Chengdi as failing to act on Mei Fu's warning, while later 汉纪 549 still preserves a real but limited Chengdi clemency precedent in Zhu Yun's broken-balustrade case.
 - Scope caution: Su Ling, Yan Xin, the full Shanyang revolt, the exact text of Mei Fu's memorial, and the complete Wang Feng/Wang Zhang conflict remain source-scoped pending additional notes.

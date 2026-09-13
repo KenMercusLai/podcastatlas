@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-刘瑰 / Liu Gui enters the wiki through [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] as the title-succession beneficiary attached to [[WangShengPalaceActorLateHan|王圣]]'s household under [[EmperorAnOfHan|汉安帝]]. His marriage to [[BoRongLateHan|伯荣]] and succession to the Shaoyang marquisate become the concrete case behind [[YangZhenLateHan|杨震]]'s early objection to palace-favorite disruption of public title order.
+刘瑰 / Liu Gui enters the wiki through [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]] as the title-succession beneficiary attached to [[WangShengPalaceActorLateHan|王圣]]'s household under [[EmperorAnOfHan|汉安帝]]. His marriage to [[BoRongLateHan|伯荣]] and succession to the Shaoyang marquisate become the concrete case behind [[YangZhenLateHan|杨震]]'s early objection to palace-favorite disruption of public title order.
 
 ## Current Profile
 
-Hanji 796 gives Liu Gui a source-bounded profile rather than an independent biography. He is presented as a cousin of the late Shaoyang Hou Liu Hu; after an illicit relationship with Bo Rong, he marries her, becomes shizhong, and receives the path to inherit Liu Hu's marquisate.
+汉纪 796 gives Liu Gui a source-bounded profile rather than an independent biography. He is presented as a cousin of the late Shaoyang Hou Liu Hu; after an illicit relationship with Bo Rong, he marries her, becomes shizhong, and receives the path to inherit Liu Hu's marquisate.
 
 The succession issue is the page's durable knowledge claim. Yang Zhen argues that hereditary order normally follows father-to-son or elder-brother-to-younger-brother logic, and that Liu Hu's younger brother Liu Wei is still alive. Liu Gui's elevation therefore appears as a palace-favor exception rather than a neutral kinship succession.
 
@@ -30,14 +30,14 @@ Liu Gui matters because his case shows private household access working across m
 
 ## Evidence
 
-- Marriage and office path: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] says Liu Gui marries Bo Rong, becomes shizhong, and receives the Shaoyang marquisate succession path.
-- Succession objection: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] says Yang Zhen objects that father-son and elder-younger brother succession norms should matter while Liu Wei is still alive.
-- Palace-household context: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] places Liu Gui's rise beside Wang Sheng's enfeoffment and Bo Rong's favored position near Emperor An.
-- Institutional meaning: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|Hanji 796]] frames the case as evidence that ruler-side people can disturb office and title order through intimacy.
+- Marriage and office path: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]] says Liu Gui marries Bo Rong, becomes shizhong, and receives the Shaoyang marquisate succession path.
+- Succession objection: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]] says Yang Zhen objects that father-son and elder-younger brother succession norms should matter while Liu Wei is still alive.
+- Palace-household context: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]] places Liu Gui's rise beside Wang Sheng's enfeoffment and Bo Rong's favored position near Emperor An.
+- Institutional meaning: [[zizhi-tongjian-hanji-796-donghan-mingchen-vs-diwang-shenbianren-shui-neng-ying-lkyzp2v-cjysd65syoyuldlbdb5p|汉纪 796]] frames the case as evidence that ruler-side people can disturb office and title order through intimacy.
 
 ## Qualifications
 
-This page is bounded to Hanji 796. It does not settle Liu Gui's full family tree, later career, legal procedure, or the full Shaoyang Hou succession archive. The source transcript uses 刘归 and 刘沪, while this page normalizes the names to 刘瑰 and 刘护 for the received Tongjian context; Liu Wei remains source-scoped unless later ingests make him a durable wiki subject.
+This page is bounded to 汉纪 796. It does not settle Liu Gui's full family tree, later career, legal procedure, or the full Shaoyang Hou succession archive. The source transcript uses 刘归 and 刘沪, while this page normalizes the names to 刘瑰 and 刘护 for the received Tongjian context; Liu Wei remains source-scoped unless later ingests make him a durable wiki subject.
 
 ## What Changed
 

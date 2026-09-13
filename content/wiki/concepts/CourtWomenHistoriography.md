@@ -30,11 +30,11 @@ The concept emphasizes court-mediated access rather than formal office parity. W
 
 ## Evidence
 
-- Empress Ma's record work: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] says she edited `显宗起居注` and links this to the early use of the `起居注` genre.
-- Female historian framing: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] presents Empress Ma as a candidate for China's first female historian.
-- Comparative anchor: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]] contrasts Empress Ma's record role with Ban Zhao's later continuation of `Han Shu`.
-- Dynastic-history continuation: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] says Ban Zhao is summoned to continue `Han Shu` after Ban Gu's death and works from the Dongguan archive.
-- Textual transmission: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] says Ma Rong and other scholars hear Ban Zhao explain `Han Shu`, while palace women are ordered to study with her.
+- Empress Ma's record work: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] says she edited `显宗起居注` and links this to the early use of the `起居注` genre.
+- Female historian framing: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] presents Empress Ma as a candidate for China's first female historian.
+- Comparative anchor: [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]] contrasts Empress Ma's record role with Ban Zhao's later continuation of `Han Shu`.
+- Dynastic-history continuation: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|汉纪 705-5]] says Ban Zhao is summoned to continue `Han Shu` after Ban Gu's death and works from the Dongguan archive.
+- Textual transmission: [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|汉纪 705-5]] says Ma Rong and other scholars hear Ban Zhao explain `Han Shu`, while palace women are ordered to study with her.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The current evidence is podcast interpretation, not a dedicated historiographic 
 
 ## What Changed
 
-- Added Hanji 705-5 so Ban Zhao is no longer only a comparison case; she now directly grounds continuation and transmission of dynastic history.
+- Added 汉纪 705-5 so Ban Zhao is no longer only a comparison case; she now directly grounds continuation and transmission of dynastic history.
 - Reframed the concept around record work, continuation, and teaching as three court-mediated routes into authoritative history.
 
 ## Related Concepts

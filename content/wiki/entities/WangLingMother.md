@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 王陵母亲 / Mother of Wang Ling
 
-王陵母亲 / Mother of Wang Ling enters the wiki through [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|Hanji 148-2]] as the unnamed mother of [[WangLingHanMinister|王陵]]. [[XiangYu|项羽]] captures her and places her in camp as a way to pull Wang Ling away from [[LiuBang|刘邦]].
+王陵母亲 / Mother of Wang Ling enters the wiki through [[zizhi-tongjian-hanji-148-2-peng-le-wangling-muqin-xiangyu-sharen-zhuxin-ljyv8bow4rj1l5ths3znx2evgvtm|汉纪 148-2]] as the unnamed mother of [[WangLingHanMinister|王陵]]. [[XiangYu|项羽]] captures her and places her in camp as a way to pull Wang Ling away from [[LiuBang|刘邦]].
 
 The source's key scene is deliberately staged. When Wang Ling's envoy arrives, Xiang Yu gives her an honored east-facing seat, making the captivity look like respect and signaling that Wang Ling could still join Chu without family disgrace. The formal courtesy is therefore part of the pressure mechanism, not merely kindness.
 

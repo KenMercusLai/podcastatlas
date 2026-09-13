@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jingning 1 / 33 BCE under [[HanYuandi|汉元帝]], immediately before [[zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo|Hanji 498]] and the later Chengdi cleanup sequence. It centers [[LiuXiang|刘向]]'s memorial defending [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] after their unauthorized campaign killed [[ZhizhiChanyu|郅支单于]], and Yuan's decision to pardon and reward them despite the grave procedural fault.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jingning 1 / 33 BCE under [[HanYuandi|汉元帝]], immediately before [[zizhi-tongjian-hanji-498-taizi-liu-ao-huangyin-wudu-han-yuandi-weihe-bu-fei-le-ta-lnnuw3h3c8tqlf5ystx58gi7vvjo|汉纪 498]] and the later Chengdi cleanup sequence. It centers [[LiuXiang|刘向]]'s memorial defending [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] after their unauthorized campaign killed [[ZhizhiChanyu|郅支单于]], and Yuan's decision to pardon and reward them despite the grave procedural fault.
 
 The durable synthesis is a first-layer reward version of [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]]. Chen Tang's forged-order mobilization remains dangerous and gamble-like, but the episode argues that extraordinary military result, frontier deterrence, and reward norms can justify pardon and honors when the alternative would teach capable people that risking themselves for the state brings only legal exposure.
 
@@ -46,5 +46,5 @@ The durable synthesis is a first-layer reward version of [[MeritShieldedAccounta
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this episode is earlier than Hanji 507, Hanji 526, Hanji 541, and Hanji 570. It supplies the original Yuan-era pardon and reward after the Zhizhi campaign, not the later Kangju-property case, Changling dispute, or Aidi-era vindication memorial.
+- Chronology qualification: this episode is earlier than 汉纪 507, 汉纪 526, 汉纪 541, and 汉纪 570. It supplies the original Yuan-era pardon and reward after the Zhizhi campaign, not the later Kangju-property case, Changling dispute, or Aidi-era vindication memorial.
 - Scope caution: Liu Xiang's full memorial, the legal mechanics of forged orders, the exact campaign chronology, Feng Fengshi's earlier Shache case, the household grant basis, and the modern lottery statistics remain source-scoped.

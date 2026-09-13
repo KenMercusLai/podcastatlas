@@ -14,7 +14,7 @@ last_updated: 2026-09-08
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Gengshi 1-2 / 23-24 CE setup immediately before [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|Hanji 669]]. It uses [[KouXunEasternHan|寇恂]] to open the "good ruler knows how to use people" theme, then follows [[LiuXuanGengshiEmperor|更始帝刘玄]]'s regional-pacification promises, [[LiuXiu|刘秀]]'s northern mission, [[DengYuEasternHan|邓禹]]'s early strategic advice, [[FengYiEasternHan|冯异]] and [[GengChunEasternHan|耿纯]] moving toward Liu Xiu, and [[WangLangHebeiClaimant|王郎]]'s emergence as a false Liu Ziyu claimant.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Gengshi 1-2 / 23-24 CE setup immediately before [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|汉纪 669]]. It uses [[KouXunEasternHan|寇恂]] to open the "good ruler knows how to use people" theme, then follows [[LiuXuanGengshiEmperor|更始帝刘玄]]'s regional-pacification promises, [[LiuXiu|刘秀]]'s northern mission, [[DengYuEasternHan|邓禹]]'s early strategic advice, [[FengYiEasternHan|冯异]] and [[GengChunEasternHan|耿纯]] moving toward Liu Xiu, and [[WangLangHebeiClaimant|王郎]]'s emergence as a false Liu Ziyu claimant.
 
 The durable synthesis is that early Eastern Han formation begins as a credibility contest before it is a battlefield sequence. Kou Xun protects the restored regime's promise by forcing a Gengshi envoy to return [[GengKuangEasternHan|耿况]]'s seal, Liu Xiu builds a cleaner political image in Hebei by reviewing officials, hearing lawsuits, abolishing Wang Mang-era harsh rules, and refusing gifts, while Wang Lang's lineage story and Red Eyebrows rumor show how fragile information environments can turn dynastic identity into mass belief.
 
@@ -41,12 +41,12 @@ The durable synthesis is that early Eastern Han formation begins as a credibilit
 - [[KouXunEasternHan|寇恂]], [[GengKuangEasternHan|耿况]], and [[RestoredRegimePromiseCredibility|复国政权承诺信用]] - the Shanggu seal episode makes promise-keeping a practical condition of new-regime authority.
 - [[LiuXuanGengshiEmperor|更始帝刘玄]], [[ChimeiRebellion|赤眉]], [[PengChongEasternHan|彭宠]], and [[WuHanEasternHan|吴汉]] - the episode shows Gengshi appointments and titles reaching multiple armed actors without yet creating stable control.
 - [[LiuXiu|刘秀]], [[DengYuEasternHan|邓禹]], [[FengYiEasternHan|冯异]], and [[GengChunEasternHan|耿纯]] - Liu Xiu's Hebei mission attracts advisers and followers through order-building behavior before decisive victory.
-- [[WangLangHebeiClaimant|王郎]], [[RebelMandateManufacture|起义天命制造]], and [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|Hanji 669]] - this source supplies the immediate claimant-manufacture prelude before Wang Lang's pressure on Liu Xiu becomes a survival crisis.
-- [[LeaderWorthFollowingAssessment|值得追随的领导判断]] - Deng Yu, Feng Yi, and Geng Chun all judge Liu Xiu before the outcome is secure, extending the later Hanji 670-671 pattern backward.
+- [[WangLangHebeiClaimant|王郎]], [[RebelMandateManufacture|起义天命制造]], and [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|汉纪 669]] - this source supplies the immediate claimant-manufacture prelude before Wang Lang's pressure on Liu Xiu becomes a survival crisis.
+- [[LeaderWorthFollowingAssessment|值得追随的领导判断]] - Deng Yu, Feng Yi, and Geng Chun all judge Liu Xiu before the outcome is secure, extending the later 汉纪 670-671 pattern backward.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the pre-Hanji 669 setup around Gengshi envoys, Liu Xiu's first Hebei order-building, Deng Yu's arrival at Ye, and Wang Lang's enthronement at Handan.
+- Chronology qualification: this source backfills the pre-汉纪 669 setup around Gengshi envoys, Liu Xiu's first Hebei order-building, Deng Yu's arrival at Ye, and Wang Lang's enthronement at Handan.
 - Identity normalization: 寇恂, 耿况, 彭宠, 吴汉, 刘玄, 刘秀, 邓禹, 冯异, 耿纯, 王郎, and 刘永 are routed to established Eastern Han pages where stable; minor names such as Han Hong, Fan Chong, Liu Ci, Liu Lin, Li Yu, Zhang Can, Zhao/Wei local actors, exact offices, and exact force geography remain source-scoped unless later source notes require canonical pages.
 - Scope caution: the title frames Kou Xun as a top ancient commander, but this transcript chiefly supplies his early seal-return and political-judgment layer rather than a full career biography.

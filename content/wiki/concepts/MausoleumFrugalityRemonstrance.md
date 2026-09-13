@@ -14,7 +14,7 @@ Mausoleum frugality remonstrance / 陵墓节俭式进谏 is advice that challeng
 
 ## Current Synthesis
 
-Hanji 536-1 defines the pattern through [[LiuXiang|刘向]]'s advice to [[HanChengdi|汉成帝]] about the Changling works. The episode says Changling is large, luxurious, and long unfinished, making burial construction a visible sign of Chengdi's broader imbalance between pleasure, ritual display, and responsible rule.
+汉纪 536-1 defines the pattern through [[LiuXiang|刘向]]'s advice to [[HanChengdi|汉成帝]] about the Changling works. The episode says Changling is large, luxurious, and long unfinished, making burial construction a visible sign of Chengdi's broader imbalance between pleasure, ritual display, and responsible rule.
 
 Liu Xiang's argument works by combining precedent and dilemma. He invokes the Han Wendi-era Zhang Shizhi warning against costly burial, then presses Chengdi with a two-sided test: if the dead have awareness, disturbing others' graves during construction creates danger; if the dead lack awareness, lavish construction has no benefit. The point is not only thrift. It is to make mausoleum scale reveal the ruler's virtue and relationship to the living.
 
@@ -28,19 +28,19 @@ Liu Xiang's argument works by combining precedent and dilemma. He invokes the Ha
 
 ## Evidence
 
-- Changling burden: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] describes Chengdi's Changling works as large, luxurious, nationally burdensome, and still unfinished after a long time.
-- Precedent use: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] says Liu Xiang cites the Han Wendi-era Zhang Shizhi warning about burial scale.
-- Virtue contrast: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] says Liu Xiang contrasts wise, virtuous rulers buried simply with unwise rulers who build high and lavish tombs.
-- Afterlife dilemma: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] reports Liu Xiang's argument that if the dead are aware, disturbed graves create danger, and if they are unaware, lavish burial is useless.
-- Ruler response: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] says Chengdi is moved by the memorial even though the source does not show complete policy conversion.
+- Changling burden: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] describes Chengdi's Changling works as large, luxurious, nationally burdensome, and still unfinished after a long time.
+- Precedent use: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] says Liu Xiang cites the Han Wendi-era Zhang Shizhi warning about burial scale.
+- Virtue contrast: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] says Liu Xiang contrasts wise, virtuous rulers buried simply with unwise rulers who build high and lavish tombs.
+- Afterlife dilemma: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] reports Liu Xiang's argument that if the dead are aware, disturbed graves create danger, and if they are unaware, lavish burial is useless.
+- Ruler response: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] says Chengdi is moved by the memorial even though the source does not show complete policy conversion.
 
 ## Counterevidence & Qualifications
 
-Hanji 536-1 does not reconstruct the full Changling budget, labor system, legal process, or final administrative outcome. It also does not create a full theory of burial ritual. The concept is limited to the remonstrance form: using frugality, precedent, afterlife logic, and public burden to challenge excessive royal mausoleum construction.
+汉纪 536-1 does not reconstruct the full Changling budget, labor system, legal process, or final administrative outcome. It also does not create a full theory of burial ritual. The concept is limited to the remonstrance form: using frugality, precedent, afterlife logic, and public burden to challenge excessive royal mausoleum construction.
 
 ## What Changed
 
-- Created the concept from Hanji 536-1's Liu Xiang memorial against Chengdi's Changling works.
+- Created the concept from 汉纪 536-1's Liu Xiang memorial against Chengdi's Changling works.
 
 ## Related Concepts
 

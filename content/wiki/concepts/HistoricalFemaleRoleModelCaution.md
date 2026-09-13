@@ -15,7 +15,7 @@ Historical female role-model caution is the interpretive practice of refusing to
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] opens the concept through [[ShangguanWaner|上官婉儿]], and [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] deepens it through her later relationships and death. The episodes accept that she was talented, politically capable, and unusually visible, but they treat the phrase "modern Shangguan Wan'er" as troubling because the historical position included family execution, palace servitude, ruler dependence, sexualized reputation risk, factional exposure, and eventual elimination when her balancing strategy no longer satisfied the winning side.
+[[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] opens the concept through [[ShangguanWaner|上官婉儿]], and [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] deepens it through her later relationships and death. The episodes accept that she was talented, politically capable, and unusually visible, but they treat the phrase "modern Shangguan Wan'er" as troubling because the historical position included family execution, palace servitude, ruler dependence, sexualized reputation risk, factional exposure, and eventual elimination when her balancing strategy no longer satisfied the winning side.
 
 The concept does not deny female agency or achievement. Its current synthesis is that admiration becomes misleading when it extracts talent, beauty, and influence from the structure that made those traits useful to others. A historically serious role-model reading must ask what kind of power the woman had, what she had to exchange for proximity, who controlled the terms of survival, and whether modern praise is accidentally romanticizing constraint.
 
@@ -30,12 +30,12 @@ The concept does not deny female agency or achievement. Its current synthesis is
 
 ## Evidence
 
-- Shangguan Wan'er as cautionary case: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] says the host becomes tense when women are casually compared to Shangguan Wan'er and argues that understanding her circumstances weakens the compliment.
-- Talent without autonomy: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] presents Shangguan Wan'er's education and writing as the reason Wu Zetian could use her in palace edict work after removing her slave status.
-- Structural danger: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] foregrounds family execution, palace servitude, male and ruler-backed power, and later political sacrifice as context for her reputation.
-- Reputation complexity: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|Hanji 536-2]] notes both admiration for her as a rare talented woman and negative moralized claims around opportunism, wrongdoing, and sexual scandal.
-- Intimacy and factional cost: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] presents Shangguan Wan'er's relationships with powerful men as tied to safety, information, and rank, not simply romance.
-- Fatal ambiguity: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says her attempt to preserve a fallback through Li Dan and Princess Taiping did not save her from Li Longji during the Tanglong Coup.
+- Shangguan Wan'er as cautionary case: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] says the host becomes tense when women are casually compared to Shangguan Wan'er and argues that understanding her circumstances weakens the compliment.
+- Talent without autonomy: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] presents Shangguan Wan'er's education and writing as the reason Wu Zetian could use her in palace edict work after removing her slave status.
+- Structural danger: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] foregrounds family execution, palace servitude, male and ruler-backed power, and later political sacrifice as context for her reputation.
+- Reputation complexity: [[zizhi-tongjian-hanji-536-2-wo-weihe-buyuan-chengwei-xiandai-de-shangguan-waner-lpwfoyduhwjabnvpi6zvodkbk5ll|汉纪 536-2]] notes both admiration for her as a rare talented woman and negative moralized claims around opportunism, wrongdoing, and sexual scandal.
+- Intimacy and factional cost: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] presents Shangguan Wan'er's relationships with powerful men as tied to safety, information, and rank, not simply romance.
+- Fatal ambiguity: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says her attempt to preserve a fallback through Li Dan and Princess Taiping did not save her from Li Longji during the Tanglong Coup.
 
 ## Counterevidence & Qualifications
 
@@ -43,8 +43,8 @@ The concept currently rests on two connected podcast sources and one main Tang c
 
 ## What Changed
 
-- Created the concept from Hanji 536-2 to capture the episode's warning against glamorous historical-woman shorthand.
-- Extended the concept with Hanji 536-3's later Shangguan Wan'er arc, especially intimacy as political dependency and survival hedging as final exposure.
+- Created the concept from 汉纪 536-2 to capture the episode's warning against glamorous historical-woman shorthand.
+- Extended the concept with 汉纪 536-3's later Shangguan Wan'er arc, especially intimacy as political dependency and survival hedging as final exposure.
 
 ## Related Concepts
 

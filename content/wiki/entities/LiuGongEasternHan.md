@@ -12,15 +12,15 @@ last_updated: 2026-09-02
 
 ## Overview
 
-刘公 / Liu Gong is synthesized as a Chimei-linked Liu-family actor whose strongest current profile is protective loyalty to the fallen [[LiuXuanGengshiEmperor|Liu Xuan]]. [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] shows him pursuing, accompanying, and then pleading for Liu Xuan when Chimei commanders want to kill the surrendered former emperor. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] adds his concealment of Liu Xuan's body after the later killing, while [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] preserves a late Guangwu consequence when Liu Xuan's son Liu Li kills Liu Gong under a prince-guest network.
+刘公 / Liu Gong is synthesized as a Chimei-linked Liu-family actor whose strongest current profile is protective loyalty to the fallen [[LiuXuanGengshiEmperor|Liu Xuan]]. [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] shows him pursuing, accompanying, and then pleading for Liu Xuan when Chimei commanders want to kill the surrendered former emperor. [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|汉纪 680]] adds his concealment of Liu Xuan's body after the later killing, while [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] preserves a late Guangwu consequence when Liu Xuan's son Liu Li kills Liu Gong under a prince-guest network.
 
 ## Current Profile
 
-Hanji 679 places Liu Gong in a complicated loyalty field. Because Chimei have installed his younger brother Liu Penzi, Liu Gong is connected to the regime that displaces Liu Xuan; yet the same source says he leaves confinement, pursues Liu Xuan with Dingtao King Liu Zhi, and remains close enough to become the surrender mediator.
+汉纪 679 places Liu Gong in a complicated loyalty field. Because Chimei have installed his younger brother Liu Penzi, Liu Gong is connected to the regime that displaces Liu Xuan; yet the same source says he leaves confinement, pursues Liu Xuan with Dingtao King Liu Zhi, and remains close enough to become the surrender mediator.
 
 The surrender does not end the danger. Liu Penzi offers Liu Xuan a Changsha king settlement if he submits within a deadline, but Chimei commanders still move to kill him. Liu Gong pleads, says he has done all he can, and attempts suicide first; Fan Chong and others stop him, and Chimei temporarily agrees to spare Liu Xuan.
 
-Hanji 680 records the darker sequel: Liu Xuan is eventually strangled under Chimei control, and Liu Gong hides the body before Liu Xiu orders burial through Deng Yu. Hanji 728 then shows long memory turning back on Liu Gong: Liu Li, Liu Xuan's son, resents Liu Penzi, gathers guests, and kills Liu Gong while favored by Pei King Liu Fu.
+汉纪 680 records the darker sequel: Liu Xuan is eventually strangled under Chimei control, and Liu Gong hides the body before Liu Xiu orders burial through Deng Yu. 汉纪 728 then shows long memory turning back on Liu Gong: Liu Li, Liu Xuan's son, resents Liu Penzi, gathers guests, and kills Liu Gong while favored by Pei King Liu Fu.
 
 ## Key Characteristics
 
@@ -32,19 +32,19 @@ Hanji 680 records the darker sequel: Liu Xuan is eventually strangled under Chim
 
 ## Evidence
 
-- Mixed political position: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Liu Gong is connected to Liu Penzi's Chimei enthronement yet pursues Liu Xuan after Liu Xuan flees.
-- Surrender mediation: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Liu Gong urges Liu Xuan to surrender after Liu Penzi offers a Changsha king settlement.
-- Plea and self-sacrifice: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|Hanji 679]] says Liu Gong pleads for Liu Xuan and attempts suicide when Chimei commanders move to kill him.
-- Body concealment: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] says Liu Gong hides Liu Xuan's body after the later strangling.
-- Later revenge: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] says Liu Li, Liu Xuan's son, resents Liu Penzi and kills Liu Gong through a guest-backed episode tied to Pei King Liu Fu.
+- Mixed political position: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] says Liu Gong is connected to Liu Penzi's Chimei enthronement yet pursues Liu Xuan after Liu Xuan flees.
+- Surrender mediation: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] says Liu Gong urges Liu Xuan to surrender after Liu Penzi offers a Changsha king settlement.
+- Plea and self-sacrifice: [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb|汉纪 679]] says Liu Gong pleads for Liu Xuan and attempts suicide when Chimei commanders move to kill him.
+- Body concealment: [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|汉纪 680]] says Liu Gong hides Liu Xuan's body after the later strangling.
+- Later revenge: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] says Liu Li, Liu Xuan's son, resents Liu Penzi and kills Liu Gong through a guest-backed episode tied to Pei King Liu Fu.
 
 ## Qualifications
 
-This page is not a complete biography of Liu Gong. Hanji 679 and Hanji 680 focus on Liu Xuan's surrender, reprieve, killing, and body protection; Hanji 728 uses Liu Gong mainly as the victim whose killing exposes prince-guest risk. The kinship relationship to Liu Penzi, Dingtao King Liu Zhi's exact role, Xie Lu's shelter, and the Chimei command hierarchy remain source-scoped unless later notes supply stronger evidence.
+This page is not a complete biography of Liu Gong. 汉纪 679 and 汉纪 680 focus on Liu Xuan's surrender, reprieve, killing, and body protection; 汉纪 728 uses Liu Gong mainly as the victim whose killing exposes prince-guest risk. The kinship relationship to Liu Penzi, Dingtao King Liu Zhi's exact role, Xie Lu's shelter, and the Chimei command hierarchy remain source-scoped unless later notes supply stronger evidence.
 
 ## What Changed
 
-- Created this page from Hanji 679, Hanji 680, and Hanji 728 to join Liu Gong's Liu Xuan-protection role with his later revenge-linked death.
+- Created this page from 汉纪 679, 汉纪 680, and 汉纪 728 to join Liu Gong's Liu Xuan-protection role with his later revenge-linked death.
 - Framed Liu Gong as a loyalty bridge between Chimei kinship, Gengshi memory, and Guangwu-era prince-network risk.
 
 ## Relationships

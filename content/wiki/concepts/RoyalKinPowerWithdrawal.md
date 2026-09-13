@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-Hanji 736 grounds the concept through [[LiuCangDongpingKing|东平王刘苍]]. Liu Cang is close to [[EmperorMingOfHan|汉明帝]], assists major government business, and holds the powerful title and seal of piaoji jiangjun. That position is useful, but the source treats his growing reputation as dangerous precisely because he is a royal brother near the center.
+汉纪 736 grounds the concept through [[LiuCangDongpingKing|东平王刘苍]]. Liu Cang is close to [[EmperorMingOfHan|汉明帝]], assists major government business, and holds the powerful title and seal of piaoji jiangjun. That position is useful, but the source treats his growing reputation as dangerous precisely because he is a royal brother near the center.
 
 Liu Cang's answer is not revolt, concealment, or public confrontation. He repeatedly asks to return the general's seal and go back to his fief. Mingdi accepts the territorial exit while refusing the full symbolic demotion: Liu Cang leaves the capital and returns to Dongping, but the emperor lets him keep the piaoji general seal and honors him with staff transfers, money, and cloth.
 
@@ -30,18 +30,18 @@ The concept therefore names a negotiated lowering of exposure. The royal kinsman
 
 ## Evidence
 
-- Rising exposure: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] says Liu Cang assists government because he is close to Mingdi and that his reputation rises.
-- Voluntary request: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] says Liu Cang becomes uneasy and repeatedly requests to return the piaoji general seal and leave for his fief.
-- Partial acceptance: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] says Mingdi lets Liu Cang return to Dongping but does not let him give back the seal and sash.
-- Honor-preserving distance: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] says Mingdi transfers piaoji-office staff into Dongping posts and gives Liu Cang major gifts.
+- Rising exposure: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] says Liu Cang assists government because he is close to Mingdi and that his reputation rises.
+- Voluntary request: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] says Liu Cang becomes uneasy and repeatedly requests to return the piaoji general seal and leave for his fief.
+- Partial acceptance: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] says Mingdi lets Liu Cang return to Dongping but does not let him give back the seal and sash.
+- Honor-preserving distance: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] says Mingdi transfers piaoji-office staff into Dongping posts and gives Liu Cang major gifts.
 
 ## Counterevidence & Qualifications
 
-This concept is currently grounded in one source note and one central case. It should not be treated as a universal recipe for survival under autocracy. Withdrawal may fail if the ruler reads it as contempt, if rivals continue to accuse the royal relative, or if the actor already controls troops or factions that cannot be symbolically neutralized. Hanji 736 works because Liu Cang exits early, before a treason accusation or factional crisis hardens.
+This concept is currently grounded in one source note and one central case. It should not be treated as a universal recipe for survival under autocracy. Withdrawal may fail if the ruler reads it as contempt, if rivals continue to accuse the royal relative, or if the actor already controls troops or factions that cannot be symbolically neutralized. 汉纪 736 works because Liu Cang exits early, before a treason accusation or factional crisis hardens.
 
 ## What Changed
 
-- Created the concept from Hanji 736's Liu Cang power-return and fief-return branch.
+- Created the concept from 汉纪 736's Liu Cang power-return and fief-return branch.
 
 ## Related Concepts
 

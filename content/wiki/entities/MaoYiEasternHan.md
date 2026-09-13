@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-毛毅 / Mao Yi enters the wiki through [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] as an Eastern Han integrity figure paired with [[ZhengJunEasternHan|Zheng Jun]]. The episode uses him to show how the outward appearance of office-seeking can be misread when family duty is invisible.
+毛毅 / Mao Yi enters the wiki through [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] as an Eastern Han integrity figure paired with [[ZhengJunEasternHan|Zheng Jun]]. The episode uses him to show how the outward appearance of office-seeking can be misread when family duty is invisible.
 
 ## Current Profile
 
@@ -27,13 +27,13 @@ The episode's interpretation is that Mao Yi's earlier happiness was not greed fo
 
 ## Evidence
 
-- Initial misreading: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Zhang Feng first looks down on Mao Yi after seeing his pleasure at an acting magistracy.
-- Filial reinterpretation: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Mao later refuses office after his mother dies, leading the episode to reinterpret the earlier pleasure as filial rather than greedy.
-- Imperial honor: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Emperor Zhang honors Mao Yi and Zheng Jun and asks local officials to visit them yearly with gifts.
+- Initial misreading: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] says Zhang Feng first looks down on Mao Yi after seeing his pleasure at an acting magistracy.
+- Filial reinterpretation: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] says Mao later refuses office after his mother dies, leading the episode to reinterpret the earlier pleasure as filial rather than greedy.
+- Imperial honor: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] says Emperor Zhang honors Mao Yi and Zheng Jun and asks local officials to visit them yearly with gifts.
 
 ## Qualifications
 
-This page is bounded to Hanji 754. It does not reconstruct Mao Yi's full career, the complete Zhang Feng relationship, or the local administrative context of Anyang. The current judgment is limited to the episode's reputation-and-filial-duty use of the anecdote.
+This page is bounded to 汉纪 754. It does not reconstruct Mao Yi's full career, the complete Zhang Feng relationship, or the local administrative context of Anyang. The current judgment is limited to the episode's reputation-and-filial-duty use of the anecdote.
 
 ## What Changed
 

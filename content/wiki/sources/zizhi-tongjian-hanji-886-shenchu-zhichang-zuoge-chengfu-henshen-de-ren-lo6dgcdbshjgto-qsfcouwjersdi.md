@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]]'s failed 168 CE anti-eunuch coup. It opens with "城府" as self-command, risk awareness, and [[StrategicEmotionConcealment|strategic emotion concealment]], then follows [[ZhuYuLateHan|朱瑀]], [[CaoJieLateHan|曹节]], and [[WangFuLateHan|王甫]] as the eunuch side turns leaked information into palace control.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|汉纪 887]]'s failed 168 CE anti-eunuch coup. It opens with "城府" as self-command, risk awareness, and [[StrategicEmotionConcealment|strategic emotion concealment]], then follows [[ZhuYuLateHan|朱瑀]], [[CaoJieLateHan|曹节]], and [[WangFuLateHan|王甫]] as the eunuch side turns leaked information into palace control.
 
 The episode's core synthesis is that [[DouWuLateHan|窦武]]'s problem is not only moral stance but execution capacity. Once his plan leaks, the eunuch side moves faster to control [[EmperorLingOfHan|汉灵帝]], [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], palace gates, seals, tallies, and written edicts, making [[LethalPlanLeakageRisk|leakage]], [[ZeroSumConflictHesitationRisk|hesitation]], [[PalaceAccessMonopoly|palace access]], and [[MingqiLegitimacy|symbolic legitimacy]] part of one crisis.
 
@@ -28,7 +28,7 @@ The episode's core synthesis is that [[DouWuLateHan|窦武]]'s problem is not on
 - Cao Jie quickly moves Emperor Ling to the front hall, urges defensive posture, uses Zhao Rao and attendants to protect the emperor, seizes seals, closes palace gates, and forces Shangshu officials to produce edict language.
 - Wang Fu receives Huangmenling authority, carries the tally to Beisi prison, arrests or kills Yin Xun and Shan Bing after resistance, releases Zheng Sa, returns with guards, seizes Dou Miao, and takes the jade seal and ribbons.
 - The eunuch side isolates the Southern and Northern Palaces, cutting communication and making Dou Wu unable to reach Dou Miao or preserve his original legitimacy field.
-- Dou Wu refuses the incoming order, goes to the infantry-colonel camp, joins his nephew Dou Shao, kills messengers, gathers Northern Army troops, and frames the eunuchs as rebels, but the source leaves the outcome for Hanji 887.
+- Dou Wu refuses the incoming order, goes to the infantry-colonel camp, joins his nephew Dou Shao, kills messengers, gathers Northern Army troops, and frames the eunuchs as rebels, but the source leaves the outcome for 汉纪 887.
 
 ## Key Quotes
 
@@ -44,10 +44,10 @@ The episode's core synthesis is that [[DouWuLateHan|窦武]]'s problem is not on
 - [[ZhuYuLateHan|朱瑀]], [[CaoJieLateHan|曹节]], and [[WangFuLateHan|王甫]] - eunuch-side emergency organization, palace seizure, prison action, and seal control.
 - [[LethalPlanLeakageRisk|致命计划泄露风险]], [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[MingqiLegitimacy|名器合法性]] - main institutional and timing mechanisms in the coup prelude.
 - [[StrategicEmotionConcealment|情绪不外露的战略纪律]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[WorldlyPoliticalCultivation|入世政治修行]] - self-command and political-cultivation frames from the opening.
-- [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]], [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]], [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|Hanji 889]], and [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] - downstream collapse, aftermath, moral-outcome, and remonstrance repair sequence.
+- [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|汉纪 887]], [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]], [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|汉纪 889]], and [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] - downstream collapse, aftermath, moral-outcome, and remonstrance repair sequence.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The source backfills the opening information-leak and legitimacy-control phase before Hanji 887's collapse.
+- No settled contradiction with existing wiki content was found. The source backfills the opening information-leak and legitimacy-control phase before 汉纪 887's collapse.
 - Source-scope caution: the host's "城府" and workplace guidance is preserved as interpretive framing, not a general endorsement of manipulation.
 - Minor actors such as Gong Pu, Zhang Liang, Zhao Rao, Yin Xun, Shan Bing, Zheng Sa, and Dou Shao are kept source-scoped here pending stronger disambiguating evidence.

@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 19-20 CE late-[[XinDynasty|新朝]] crisis before [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] and [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]]. It uses [[FanShengXinOfficial|范生]], [[TianKuangXinOfficial|田邝]], and [[HanBoXinOfficial|韩伯]] to compare three speech styles under [[WangMang|王莽]]: indirect warning through a superior, revenue-pleasing policy advice, and sarcastic symbolic critique.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 19-20 CE late-[[XinDynasty|新朝]] crisis before [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] and [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]]. It uses [[FanShengXinOfficial|范生]], [[TianKuangXinOfficial|田邝]], and [[HanBoXinOfficial|韩伯]] to compare three speech styles under [[WangMang|王莽]]: indirect warning through a superior, revenue-pleasing policy advice, and sarcastic symbolic critique.
 
 The durable synthesis is that a collapsing regime does not simply lack information; it rewards some messages and punishes others. Fan Sheng identifies domestic grievance and mistimed corvee as more dangerous than frontier anxiety, Tian Kuang is rewarded for enabling another property tax extraction, and Han Bo is killed after using the "巨无霸" report to mock Wang Mang's taste for prodigy and omen performance.
 
@@ -41,12 +41,12 @@ The durable synthesis is that a collapsing regime does not simply lack informati
 - [[TianKuangXinOfficial|田邝]], [[FiscalExtractionRebellionSpiral|财政压榨叛乱螺旋]], Qingzhou, and Xuzhou - the taxation branch explains how policy advice can be rewarded while worsening mass disorder.
 - [[HanBoXinOfficial|韩伯]], [[AllusiveRemonstrance|隐语进谏]], [[DirectRemonstranceCriminalization|直谏入罪]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - the giant-prodigy satire shows how indirect ridicule can still become lethal.
 - [[XinDynasty|新朝]], [[WangMangReforms|王莽改制]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[PoliticalImageMaintenance|政治形象维护]] - the episode fits the broader late-Xin pattern of symbolic control replacing usable feedback.
-- [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]], [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]], and [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] - later adjacent source notes show household collapse, forbidden hunger explanations, Tian Kuang's later local command, and Chimei growth.
+- [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]], [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]], and [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] - later adjacent source notes show household collapse, forbidden hunger explanations, Tian Kuang's later local command, and Chimei growth.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 19-20 CE before Hanji 658's 21 CE household and currency-enforcement crisis and before Hanji 659's later Tian Kuang field-command episode.
+- Chronology qualification: this source backfills 19-20 CE before 汉纪 658's 21 CE household and currency-enforcement crisis and before 汉纪 659's later Tian Kuang field-command episode.
 - Identity qualification: the transcript writes 大司空王毅; this note links him cautiously to [[WangYiXinGeneral|王邑 / Wang Yi (Xin general)]] because the late-Xin Wang Mang official context and later established route match, while preserving the source form in prose.
-- Tian Kuang qualification: Hanji 656 complicates [[TianKuangXinOfficial|田邝]] by adding an earlier tax-extraction reward before Hanji 659's later effective field-command role. The wiki treats this as profile complexity, not contradiction.
+- Tian Kuang qualification: 汉纪 656 complicates [[TianKuangXinOfficial|田邝]] by adding an earlier tax-extraction reward before 汉纪 659's later effective field-command role. The wiki treats this as profile complexity, not contradiction.
 - Scope caution: Fan Sheng's complete career, Wang Yi/Wang Yi office-form variants, Han Bo's full office, Ju Wuba/Ju Wushi historicity, Diao Zidu's later development, exact tax base, and exact local death/flight counts remain source-scoped.

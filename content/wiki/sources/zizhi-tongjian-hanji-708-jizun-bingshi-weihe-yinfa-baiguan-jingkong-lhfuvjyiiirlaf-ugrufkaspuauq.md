@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 9 / 33 CE immediately before [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]]. It centers on [[JiZunEasternHan|祭遵]] dying in camp: [[LiuXiu|光武帝刘秀]] mourns him intensely and keeps praising him in court until [[YaoQiEasternHan|姚期]] warns that the praise is making the living ministers feel judged by comparison.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 9 / 33 CE immediately before [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]]. It centers on [[JiZunEasternHan|祭遵]] dying in camp: [[LiuXiu|光武帝刘秀]] mourns him intensely and keeps praising him in court until [[YaoQiEasternHan|姚期]] warns that the praise is making the living ministers feel judged by comparison.
 
 The second half widens the same year into early Guangwu frontier pressure. [[GoguryeoLateHan|高句丽]] offers tribute and has its royal title restored, [[WeiXiaoEasternHan|隗嚣]] dies but his faction continues under Wei Chun with [[GongsunShuEasternHan|公孙述]] support, [[WuHanEasternHan|吴汉]] and [[DuMaoEasternHan|杜茂]] face unsuccessful northern fighting around [[MinKanEasternHan|闵堪]] and Jia Lan, [[LaiXiEasternHan|来歙]] plans a supply-backed Longxi/Tianshui offensive, and [[BanBiaoEasternHan|班彪]] frames Qiang unrest as a governance, language, and official-abuse problem.
 
@@ -51,6 +51,6 @@ The second half widens the same year into early Guangwu frontier pressure. [[Gog
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills a 33 CE Guangwu layer before Hanji 709's 33-34 CE hostage, bandit, and Gao Jun material and well before the already ingested Hanji 711-729 late-Guangwu sequence.
+- Chronology qualification: this source backfills a 33 CE Guangwu layer before 汉纪 709's 33-34 CE hostage, bandit, and Gao Jun material and well before the already ingested 汉纪 711-729 late-Guangwu sequence.
 - Identity normalization: Ji Zun, Yao Qi, Wen Xu, Lai Xi, Wei Xiao, Ban Biao, Min Kan, Du Mao, Gongsun Shu, and Goguryeo are routed to disambiguated Eastern Han or late-Han pages because the source context matches those canonical roles.
 - Scope caution: Gou Yu, Wei Chun, Wang Yuan, Zhou Zong, Zhao Kuang, Tian Yan, Jia Lan, Zhu Hu, Wang Chang, Hou Jin, Wang Ba, Koushi, Yuanshan, Jiangguan, Wuxian, Yidao, Yiling, exact force counts, and exact Qiang office names remain source-scoped unless later notes warrant canonical pages.

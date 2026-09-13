@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # Worldly Political Cultivation / 入世政治修行
 
-Worldly political cultivation / 入世政治修行 is the frame [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] builds from [[ChenPing|陈平]]'s career. The source argues that Chen Ping's highest achievement is not retreating from dirty politics, but remaining inside the dangerous court, preserving judgment, and acting when action can actually matter.
+Worldly political cultivation / 入世政治修行 is the frame [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|汉纪 150 part 4]] builds from [[ChenPing|陈平]]'s career. The source argues that Chen Ping's highest achievement is not retreating from dirty politics, but remaining inside the dangerous court, preserving judgment, and acting when action can actually matter.
 
 The concept is deliberately uncomfortable. The host contrasts Chen Ping with figures such as [[FanLi|范蠡]], [[TaoYuanming|陶渊明]], and [[Confucius|孔子]] to argue that withdrawal, literary purity, or scholarly authority do not automatically equal successful politics. In this reading, Chen Ping's "道场" is the court itself: he practices through danger, ambiguity, compromise, concealment, and timing.
 

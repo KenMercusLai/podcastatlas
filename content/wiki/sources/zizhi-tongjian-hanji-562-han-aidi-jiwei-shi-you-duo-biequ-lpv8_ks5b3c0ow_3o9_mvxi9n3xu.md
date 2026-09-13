@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE at [[HanAidi|汉哀帝]]'s accession, before the later Hanji 564-568 and Jianping-era Aidi notes. It follows Aidi's hopeful early austerity and personal attention to government, then shows [[FuTaihouWesternHan|傅太后]] moving into the North Palace, using the connected passageway to reach Weiyang Palace, pressing for a higher title, and demanding promotion of favored relatives.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE at [[HanAidi|汉哀帝]]'s accession, before the later 汉纪 564-568 and Jianping-era Aidi notes. It follows Aidi's hopeful early austerity and personal attention to government, then shows [[FuTaihouWesternHan|傅太后]] moving into the North Palace, using the connected passageway to reach Weiyang Palace, pressing for a higher title, and demanding promotion of favored relatives.
 
 The durable synthesis is that accession does not equal full rule. Aidi begins with public promise, but birth-family filial pressure, residence placement, dowager status competition, title precedent, and consort-kin reward immediately constrain his authority; [[KongGuangWesternHan|孔光]] sees the danger in Fu Taihou's proximity, [[HeWuWesternHan|何武]] gives the accommodation Aidi wants, [[DongHongWesternHan|董宏]] supplies a Qin precedent for the title demand, and [[WangMang|王莽]] with [[ShiDanWesternHan|施丹]] temporarily block the proposal before Aidi and [[WangZhengjun|王政君]] allow the Dingtao-line elevation to proceed.
 
@@ -47,5 +47,5 @@ The durable synthesis is that accession does not equal full rule. Aidi begins wi
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills Aidi's accession before Hanji 564's Suihe 2 reform discussion, Hanji 575's later Dingtao ritual opposition, and Hanji 577-579's title-settlement sequence.
+- Chronology qualification: this source backfills Aidi's accession before 汉纪 564's Suihe 2 reform discussion, 汉纪 575's later Dingtao ritual opposition, and 汉纪 577-579's title-settlement sequence.
 - Scope caution: Dong Hong's full career, the exact wording of the title proposal, the physical arrangement of the North Palace and Zifang passageway, Wang Zhengjun's private calculation, and the complete offices or fiefs of Ding, Fu, and Zhao relatives remain source-scoped.

@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] grounds the concept in two stages. First, [[XiaoXianWesternHan|萧贤]] treats "云止其中" in Dong-family appointment language as an abnormal Yao-Shun signal. Second, [[HanAidi|汉哀帝]] says at a banquet that he intends to imitate Yao yielding to Shun with [[DongXian|董贤]], making explicit what Xiao Xian had inferred from wording.
+[[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] grounds the concept in two stages. First, [[XiaoXianWesternHan|萧贤]] treats "云止其中" in Dong-family appointment language as an abnormal Yao-Shun signal. Second, [[HanAidi|汉哀帝]] says at a banquet that he intends to imitate Yao yielding to Shun with [[DongXian|董贤]], making explicit what Xiao Xian had inferred from wording.
 
 [[WangHongWesternHan|王洪]] defines the boundary by objecting immediately. His claim is not only that Dong Xian lacks merit; it is that the realm belongs to Gaozu's dynastic line and cannot be spoken of as the emperor's private possession. The boundary therefore links succession, title language, public office, and ruler speech: even a drunken or playful statement can become politically dangerous when it names an alternative transfer of the realm.
 
@@ -28,18 +28,18 @@ knowledge_schema: synthesis-v1
 
 ## Evidence
 
-- Allusive appointment language: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Xiao Xian reads "云止其中" as Yao-Shun language inappropriate for ordinary appointment.
-- Explicit abdication remark: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Aidi looks at Dong Xian during a Qilin Hall banquet and says he intends to imitate Yao's abdication to Shun.
-- Dynastic objection: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Wang Hong replies that the realm is Gaozu's realm and should pass through Aidi's descendants.
-- Penalty for boundary defense: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] says Aidi removes Wang Hong from palace access after the remonstrance.
+- Allusive appointment language: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Xiao Xian reads "云止其中" as Yao-Shun language inappropriate for ordinary appointment.
+- Explicit abdication remark: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Aidi looks at Dong Xian during a Qilin Hall banquet and says he intends to imitate Yao's abdication to Shun.
+- Dynastic objection: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Wang Hong replies that the realm is Gaozu's realm and should pass through Aidi's descendants.
+- Penalty for boundary defense: [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] says Aidi removes Wang Hong from palace access after the remonstrance.
 
 ## Counterevidence & Qualifications
 
-This page is bounded to Hanji 601-1. The source presents Aidi's remark as drunken and politically dangerous, but it does not prove a completed transfer plan. Dong Xian's own intended response is unknowable here because Wang Hong interrupts before he can answer.
+This page is bounded to 汉纪 601-1. The source presents Aidi's remark as drunken and politically dangerous, but it does not prove a completed transfer plan. Dong Xian's own intended response is unknowable here because Wang Hong interrupts before he can answer.
 
 ## What Changed
 
-- Created the concept from Xiao Xian's warning and Wang Hong's banquet remonstrance in Hanji 601-1.
+- Created the concept from Xiao Xian's warning and Wang Hong's banquet remonstrance in 汉纪 601-1.
 
 ## Related Concepts
 

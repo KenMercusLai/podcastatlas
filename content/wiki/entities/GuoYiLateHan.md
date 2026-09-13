@@ -16,7 +16,7 @@ Guo Yi is the local magistrate who tries to free Fan Pang after the party-prohib
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] presents Guo Yi as the county magistrate who responds to [[FanPangLateHan|范滂]]'s imprisonment by trying to bring him out. He removes his official seal and prepares to flee with Fan Pang, but Fan Pang refuses because accepting the rescue would implicate Guo Yi.
+[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] presents Guo Yi as the county magistrate who responds to [[FanPangLateHan|范滂]]'s imprisonment by trying to bring him out. He removes his official seal and prepares to flee with Fan Pang, but Fan Pang refuses because accepting the rescue would implicate Guo Yi.
 
 Guo Yi's profile is therefore defined by an attempted conversion of office into rescue. The attempt fails by Fan Pang's own restraint, but it clarifies the ethical field: helping an accused party figure can itself become punishable contact.
 
@@ -29,10 +29,10 @@ Guo Yi's profile is therefore defined by an attempted conversion of office into 
 
 ## Evidence
 
-- Magistrate role: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] identifies Guo Yi as the county magistrate who learns Fan Pang has been arrested.
-- Rescue attempt: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says Guo Yi tries to take Fan Pang out of prison.
-- Office abandonment: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says Guo Yi removes his official seal and considers fleeing with Fan Pang.
-- Fan Pang's refusal: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says Fan Pang refuses to involve Guo Yi, hoping his own death may quiet the disaster.
+- Magistrate role: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] identifies Guo Yi as the county magistrate who learns Fan Pang has been arrested.
+- Rescue attempt: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says Guo Yi tries to take Fan Pang out of prison.
+- Office abandonment: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says Guo Yi removes his official seal and considers fleeing with Fan Pang.
+- Fan Pang's refusal: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says Fan Pang refuses to involve Guo Yi, hoping his own death may quiet the disaster.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ Guo Yi's page is limited to the arrest-rescue scene. The current source does not
 
 ## What Changed
 
-- Hanji 893 creates Guo Yi's canonical page as Fan Pang's would-be rescuer and the person Fan Pang refuses to implicate.
+- 汉纪 893 creates Guo Yi's canonical page as Fan Pang's would-be rescuer and the person Fan Pang refuses to implicate.
 
 ## Relationships
 

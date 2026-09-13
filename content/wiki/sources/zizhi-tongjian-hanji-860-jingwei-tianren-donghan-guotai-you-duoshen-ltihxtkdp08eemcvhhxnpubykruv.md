@@ -14,9 +14,9 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 164 CE [[GuoTaiLateHan|郭泰]] reputation and character-reading layer immediately before [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]]. It opens with a self-cultivation frame, then uses [[HuangQiongLateHan|黄琼]]'s funeral, [[XuZhiLateHan|徐稚]]'s selective speech, [[FuRongLateHan|符融]]'s introduction, [[LiYingLateHan|李膺]]'s praise, and [[MaoRongLateHan|茅容]]'s filial household conduct to show how Guo Tai's authority emerges from both public endorsement and fine-grained people judgment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 164 CE [[GuoTaiLateHan|郭泰]] reputation and character-reading layer immediately before [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]]. It opens with a self-cultivation frame, then uses [[HuangQiongLateHan|黄琼]]'s funeral, [[XuZhiLateHan|徐稚]]'s selective speech, [[FuRongLateHan|符融]]'s introduction, [[LiYingLateHan|李膺]]'s praise, and [[MaoRongLateHan|茅容]]'s filial household conduct to show how Guo Tai's authority emerges from both public endorsement and fine-grained people judgment.
 
-The durable contribution is a prequel to the wiki's Guo Tai cluster: before Hanji 861's teacher-model stories, Hanji 860 shows Guo Tai interpreting behavior that others misread, becoming famous through an elite endorsement chain, and turning Mao Rong's ordinary etiquette and filial allocation into evidence of future moral capacity. No settled contradiction with existing pages was found; the source mainly deepens [[MoralMentorshipTalentCultivation|人师型人才成全]], [[SituationalCharacterTests|五观识人法]], and [[EliteEndorsementReputationMaking|名士背书式造势]].
+The durable contribution is a prequel to the wiki's Guo Tai cluster: before 汉纪 861's teacher-model stories, 汉纪 860 shows Guo Tai interpreting behavior that others misread, becoming famous through an elite endorsement chain, and turning Mao Rong's ordinary etiquette and filial allocation into evidence of future moral capacity. No settled contradiction with existing pages was found; the source mainly deepens [[MoralMentorshipTalentCultivation|人师型人才成全]], [[SituationalCharacterTests|五观识人法]], and [[EliteEndorsementReputationMaking|名士背书式造势]].
 
 ## Key Claims
 
@@ -44,10 +44,10 @@ The durable contribution is a prequel to the wiki's Guo Tai cluster: before Hanj
 - [[HuangQiongLateHan|黄琼]], [[XuZhiLateHan|徐稚]], and [[MaoRongLateHan|茅容]] - funeral, selective speech, and later household virtue form the episode's first character-reading sequence.
 - [[FuRongLateHan|符融]], [[LiYingLateHan|李膺]], [[LuoyangLateHan|洛阳]], and [[EliteEndorsementReputationMaking|名士背书式造势]] - Guo Tai's public fame grows through introduction, elite praise, and spectacle.
 - [[QingyiReputationPressure|清议声誉压力]] and [[MoralReputationPoliticalCapital|道德名望政治资本]] - adjacent fields where public recognition and moral judgment become socially consequential.
-- [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] and [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] - immediate downstream Guo Tai mentorship, talent forecast, and reputation-reality sequence.
+- [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] and [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] - immediate downstream Guo Tai mentorship, talent forecast, and reputation-reality sequence.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills Guo Tai's 164 CE public-recognition and character-reading layer before Hanji 861.
+- No settled contradiction with existing wiki pages was found. This source backfills Guo Tai's 164 CE public-recognition and character-reading layer before 汉纪 861.
 - Transcript normalization: "徐志" is normalized to [[XuZhiLateHan|徐稚]], "李英" to [[LiYingLateHan|李膺]], "芙蓉" to [[FuRongLateHan|符融]], and "毛戎/毛蓉" to [[MaoRongLateHan|茅容]] because the roles and surrounding late-Han sequence match the received Guo Tai / Guo Linzong tradition.
 - Scope caution: the opening "life as a stage" and closing self-cultivation claims are treated as the host's interpretive frame, not as independent historical claims.

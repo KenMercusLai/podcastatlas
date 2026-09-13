@@ -14,7 +14,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 1 / 25 CE immediately before [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|Hanji 678]] and the later [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|Hanji 680]] Liu Xuan death layer. It follows [[LiuXiu|光武帝刘秀]]'s newly proclaimed regime as [[DengYuEasternHan|邓禹]] defeats Gengshi forces in [[HedongCommandery|河东]], while [[ChimeiRebellion|赤眉]] pressure near Zheng and [[HuayinLateHan|华阴]] pushes [[LiuXuanGengshiEmperor|更始帝刘玄]]'s Chang'an commanders toward plunder, retreat, and armed rupture.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 1 / 25 CE immediately before [[zizhi-tongjian-hanji-678-liupenzi-wode-huangdi-shi-zhuajiu-lai-de-lkamwdktxz0ksazh2h4am8fjmfiq|汉纪 678]] and the later [[zizhi-tongjian-hanji-680-ming-sang-chimei-zhe-wei-qiyi-huangdi-maigu-hechu-lurtvfqerb0vf3a33msmd-txr9pv|汉纪 680]] Liu Xuan death layer. It follows [[LiuXiu|光武帝刘秀]]'s newly proclaimed regime as [[DengYuEasternHan|邓禹]] defeats Gengshi forces in [[HedongCommandery|河东]], while [[ChimeiRebellion|赤眉]] pressure near Zheng and [[HuayinLateHan|华阴]] pushes [[LiuXuanGengshiEmperor|更始帝刘玄]]'s Chang'an commanders toward plunder, retreat, and armed rupture.
 
 The durable synthesis is that Gengshi collapse begins before Chimei formally controls [[ChangAnHanCapital|长安]]. Deng Yu's Hedong recovery sends military pressure back toward the capital; Zhang Ang's group no longer treats defending the regime as the priority; and Liu Xuan's attempted counter-trap against dissenting generals turns suspicion into palace fighting, killing Shentu Jian while letting [[WeiXiaoEasternHan|隗嚣]] exit toward Tianshui.
 
@@ -51,7 +51,7 @@ The durable synthesis is that Gengshi collapse begins before Chimei formally con
 ## Contradictions
 
 - No settled contradiction is recorded.
-- Chronology qualification: this episode backfills events before the Hanji 678 Liu Penzi selection and the Hanji 679-680 Liu Xuan surrender and death layers.
+- Chronology qualification: this episode backfills events before the 汉纪 678 Liu Penzi selection and the 汉纪 679-680 Liu Xuan surrender and death layers.
 - Identity normalization: source forms `刘玄帝` and `刘璇` are routed to Liu Xuan / 更始帝刘玄, and `邓渝` is routed to Deng Yu / 邓禹.
 - Identity caution: the Wang Kuang in this Gengshi-Chang'an layer is not merged with the later [[WangKuangLateHan|王匡]] page, and Shentu Jian is not merged with [[ShentuGangEasternHan|申屠刚]].
 - Zhang Ang, Liao Zhan, Hu Yin, Shentu Jian, Fan Can, Liu Jun, Yang Bao, Chen Mu, Cheng Dan, Zhao Meng, Li Song, Wang Zun, Zhou Zong, exact force counts, and local route details remain source-scoped.

@@ -43,7 +43,7 @@ The concept is useful because it prevents Jianghu from becoming a single moral l
 The concept comes from one short interpretive episode, so it should not be treated as a full taxonomy of Chinese social history. Its value is comparative and synthetic: it shows how one cultural term stretches across social layers, but each layer still needs separate historical grounding.
 
 ## What Changed
-- Created the concept to preserve Hanji 483-2's four-layer Jianghu map and its workplace-survival reading.
+- Created the concept to preserve 汉纪 483-2's four-layer Jianghu map and its workplace-survival reading.
 
 ## Related Concepts
 - [[HistoricalJianghuSpace]] - broader social room in which unofficial movement and association become possible.

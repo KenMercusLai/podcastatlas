@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-Hanji 505 creates the concept through the Chang'an flood-rumor case under [[HanChengdi|汉成帝]]. After more than forty days of rain, the claim that floodwater will destroy Chang'an spreads through the city. [[WangFengWesternHan|王凤]] answers as if the rumor is true, proposing that palace women board imperial boats and officials and commoners climb the city walls. [[WangShangWesternHan|王商]] answers by separating weather stress from verified catastrophe: if the court orders people onto the walls, it would add official weight to fear and deepen public disorder.
+汉纪 505 creates the concept through the Chang'an flood-rumor case under [[HanChengdi|汉成帝]]. After more than forty days of rain, the claim that floodwater will destroy Chang'an spreads through the city. [[WangFengWesternHan|王凤]] answers as if the rumor is true, proposing that palace women board imperial boats and officials and commoners climb the city walls. [[WangShangWesternHan|王商]] answers by separating weather stress from verified catastrophe: if the court orders people onto the walls, it would add official weight to fear and deepen public disorder.
 
 The concept is not passive denial. Wang Shang's value in the source is that he reads the social effect of a command before issuing it. He does not need perfect hydrological knowledge to identify the second-order danger: a premature state order can validate the panic it is meant to manage. Chengdi's acceptance of Wang Shang's judgment lets the city calm after inquiry and turns crisis handling into a political comparison between Wang Shang's steadiness and Wang Feng's face-losing overreaction.
 
@@ -28,10 +28,10 @@ The concept is not passive denial. Wang Shang's value in the source is that he r
 
 ## Evidence
 
-- Panic setting: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] says long rain leads Chang'an residents to fear that floodwater will arrive and destroy the city.
-- Amplifying proposal: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] says Wang Feng proposes boats for the imperial household and city-wall evacuation for officials and commoners.
-- De-amplifying objection: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] says Wang Shang calls the flood report rumor and argues that ordering people up the walls would worsen fear.
-- Outcome: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] says Chengdi accepts Wang Shang's view, the city soon calms, and later inquiry confirms the rumor.
+- Panic setting: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|汉纪 505]] says long rain leads Chang'an residents to fear that floodwater will arrive and destroy the city.
+- Amplifying proposal: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|汉纪 505]] says Wang Feng proposes boats for the imperial household and city-wall evacuation for officials and commoners.
+- De-amplifying objection: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|汉纪 505]] says Wang Shang calls the flood report rumor and argues that ordering people up the walls would worsen fear.
+- Outcome: [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|汉纪 505]] says Chengdi accepts Wang Shang's view, the city soon calms, and later inquiry confirms the rumor.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The current concept rests on one Western Han source. It should not be generalize
 
 ## What Changed
 
-- Created the concept from Hanji 505's Chang'an flood-rumor case.
+- Created the concept from 汉纪 505's Chang'an flood-rumor case.
 
 ## Related Concepts
 

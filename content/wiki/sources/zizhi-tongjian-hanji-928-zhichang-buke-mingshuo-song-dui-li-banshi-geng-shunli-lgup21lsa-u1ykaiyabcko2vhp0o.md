@@ -14,9 +14,9 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184 CE [[YellowTurbansLateHan|Yellow Turban]] campaign immediately before [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]]. It follows [[HuangfuSongLateHan|皇甫嵩]] and [[ZhuJunLateHan|朱儁]] suppressing Yellow Turban forces in the Runan-Chen field, while [[LuZhiLateHan|卢植]] surrounds [[ZhangJiaoLateHan|张角]] at Guangzong.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184 CE [[YellowTurbansLateHan|Yellow Turban]] campaign immediately before [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]]. It follows [[HuangfuSongLateHan|皇甫嵩]] and [[ZhuJunLateHan|朱儁]] suppressing Yellow Turban forces in the Runan-Chen field, while [[LuZhiLateHan|卢植]] surrounds [[ZhangJiaoLateHan|张角]] at Guangzong.
 
-The core turn is [[ZuoFengLateHan|左丰]]'s inspection: Lu Zhi refuses to send a gift, Zuo Feng's report convinces [[EmperorLingOfHan|汉灵帝]], and [[DongZhuo|董卓]] is appointed to replace him. The episode therefore adds a concrete prelude to Dong Zhuo's failed replacement command in Hanji 929 and makes the removal of a winning front-line commander a case of [[InspectionGiftGatekeeping|巡查送礼关口]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]].
+The core turn is [[ZuoFengLateHan|左丰]]'s inspection: Lu Zhi refuses to send a gift, Zuo Feng's report convinces [[EmperorLingOfHan|汉灵帝]], and [[DongZhuo|董卓]] is appointed to replace him. The episode therefore adds a concrete prelude to Dong Zhuo's failed replacement command in 汉纪 929 and makes the removal of a winning front-line commander a case of [[InspectionGiftGatekeeping|巡查送礼关口]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]].
 
 ## Key Claims
 
@@ -43,11 +43,11 @@ The core turn is [[ZuoFengLateHan|左丰]]'s inspection: Lu Zhi refuses to send 
 
 - [[HuangfuSongLateHan|皇甫嵩]], [[ZhuJunLateHan|朱儁]], [[YellowTurbansLateHan|黄巾军]], and [[ChenStateLateHan|陈国]] - Runan-Chen victories and credit-sharing before the later Nanyang campaign.
 - [[LuZhiLateHan|卢植]], [[ZhangJiaoLateHan|张角]], [[ZuoFengLateHan|左丰]], [[EmperorLingOfHan|汉灵帝]], and [[LuoyangLateHan|洛阳]] - Guangzong siege, palace inspection, slander, and recall.
-- [[DongZhuo|董卓]], [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - replacement appointment before the next episode's command failure.
+- [[DongZhuo|董卓]], [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]], and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - replacement appointment before the next episode's command failure.
 - [[InspectionGiftGatekeeping|巡查送礼关口]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - conceptual frame for gifts, inspection reports, and self-protection under captured access.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills why Lu Zhi was removed before Hanji 929 records Dong Zhuo's failed replacement command against Zhang Jiao.
+- No settled contradiction with existing wiki pages was found. This source backfills why Lu Zhi was removed before 汉纪 929 records Dong Zhuo's failed replacement command against Zhang Jiao.
 - Scope caution: the "send the right gift" and workplace framing are preserved as the host's interpretation, not treated as an independent ancient administrative rule or ethical endorsement.
 - Scope caution: Bo Cai, Peng Tuo, Yangdi, Xihua, Guangzong, and Runan are kept source-scoped in this ingest rather than expanded into separate canonical pages.

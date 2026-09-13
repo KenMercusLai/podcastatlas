@@ -11,7 +11,7 @@ last_updated: 2026-09-06
 # 妫览 / Gui Lan (late Han)
 
 ## Overview
-妫览 / Gui Lan is one of the Danyang conspirators in Hanji 1067. The source transcript writes his name as 归岚; the wiki normalizes the event to Gui Lan / 妫览 while preserving that spelling as source-scoped evidence.
+妫览 / Gui Lan is one of the Danyang conspirators in 汉纪 1067. The source transcript writes his name as 归岚; the wiki normalizes the event to Gui Lan / 妫览 while preserving that spelling as source-scoped evidence.
 
 ## Current Profile
 Gui Lan is presented as a local Danyang powerholder who joins [[DaiYuanLateHan|戴员]] in buying off [[BianHongLateHan|边鸿]] to kill [[SunYiLateHan|孙翊]]. After the murder, Gui Lan and Dai Yuan explain the killing as Bian Hong's madness, then kill [[SunHeLateHan|孙河]] when he comes to investigate.
@@ -27,16 +27,16 @@ Gui Lan's downfall comes from the same appetite he tries to convert into power. 
 
 ## Evidence
 **Conspiracy against Sun Yi**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] names Gui Lan and Dai Yuan as the plotters who buy off Bian Hong and then blame the assassination on madness.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] names Gui Lan and Dai Yuan as the plotters who buy off Bian Hong and then blame the assassination on madness.
 
 **Escalation after the murder**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] says Sun He also dies at their hands after he comes to check the matter.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] says Sun He also dies at their hands after he comes to check the matter.
 
 **Desire-driven exposure**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] has Gui Lan demand Lady Xu and then believe her staged readiness for remarriage, making possible the room ambush.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] has Gui Lan demand Lady Xu and then believe her staged readiness for remarriage, making possible the room ambush.
 
 ## Qualifications
-This page is source-scoped to the Hanji 1067 Danyang episode. The transcript's 归岚 spelling is treated as a variant; the page does not yet develop Gui Lan beyond the assassination, occupation, forced-marriage demand, and death.
+This page is source-scoped to the 汉纪 1067 Danyang episode. The transcript's 归岚 spelling is treated as a variant; the page does not yet develop Gui Lan beyond the assassination, occupation, forced-marriage demand, and death.
 
 ## What Changed
 - Created Gui Lan as the Danyang conspirator whose desire creates the revenge opening.

@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》988丨受尽凌辱，他是汉末悲惨的皇帝
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the immediate prelude to [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] through [[HanFei|韩非]]'s interest-centered reading of human conduct and [[EmperorXianOfHan|汉献帝]]'s summer 195 CE humiliation in [[ChangAnHanCapital|长安]]. [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] move from months of fighting toward fragile settlement only after [[YangFengLateHan|杨奉]] defects, [[ZhangJiLateHan|张济]] mediates, and [[JiaXu|贾诩]] detaches Li Jue's Qiang-Hu supporters. The episode's core contribution is to show that the emperor's title can still momentarily stop soldiers at the bridge, while actual movement, food, and safety depend on warlord troops and improvised court intermediaries such as [[LiuAiLateHan|刘艾]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the immediate prelude to [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|汉纪 989]] through [[HanFei|韩非]]'s interest-centered reading of human conduct and [[EmperorXianOfHan|汉献帝]]'s summer 195 CE humiliation in [[ChangAnHanCapital|长安]]. [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] move from months of fighting toward fragile settlement only after [[YangFengLateHan|杨奉]] defects, [[ZhangJiLateHan|张济]] mediates, and [[JiaXu|贾诩]] detaches Li Jue's Qiang-Hu supporters. The episode's core contribution is to show that the emperor's title can still momentarily stop soldiers at the bridge, while actual movement, food, and safety depend on warlord troops and improvised court intermediaries such as [[LiuAiLateHan|刘艾]].
 
 ## Key Claims
 - The host uses [[HanFei|韩非]] to frame history as a field where interest and calculation often explain conduct more reliably than moral slogans, while still preserving a limited space for trust and benevolence.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the
 - [[HanFei|韩非]], [[LiSi|李斯]], [[QinShiHuang|秦始皇]], [[FixedHumanNaturePolitics]], [[LegalistRulerTechnique]], and [[HumanNaturePlasticity|人性可变性]] - opening frame on human motives, power technique, and the episode's caution against reducing all conduct to evil.
 - [[EmperorXianOfHan|汉献帝]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[YangFengLateHan|杨奉]], [[ZhangJiLateHan|张济]], [[JiaXu|贾诩]], and [[LiuAiLateHan|刘艾]] - core 195 CE Chang'an and exit sequence.
 - [[MingqiLegitimacy|名器合法性]], [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - concepts extended by the episode.
-- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] and [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|Hanji 990]] - downstream sources that continue the emperor's eastward route-control crisis.
+- [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|汉纪 989]] and [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f|汉纪 990]] - downstream sources that continue the emperor's eastward route-control crisis.
 
 ## Contradictions
 - No settled contradiction found.

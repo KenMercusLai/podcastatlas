@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》997丨臧洪之死：是义薄云天，还是情劫难渡？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han sequence immediately before [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]]. It uses [[ZangHong|臧洪]]'s death after refusing [[YuanShao|袁绍]] to ask whether heroic loyalty can become politically destructive when grief, old-master obligation, and resentment take over judgment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han sequence immediately before [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|汉纪 998]]. It uses [[ZangHong|臧洪]]'s death after refusing [[YuanShao|袁绍]] to ask whether heroic loyalty can become politically destructive when grief, old-master obligation, and resentment take over judgment.
 
 The core narrative is the collapse of any possible settlement after Zang Hong is captured in 195 CE. Zang Hong condemns Yuan Shao for failing to rescue [[ZhangChaoLateHan|张超]] against [[CaoCao|曹操]], while the host argues that Yuan Shao was also Zang Hong's current superior and Cao Cao was Yuan Shao's ally; the episode therefore turns the death into a case of [[EmotionalAttachmentPoliticalDistortion|情执政治判断失衡]] and [[DeathPartyLoyalty|死党之义与守职奉上]], not only a pure loyalist martyrdom.
 
@@ -37,7 +37,7 @@ The core narrative is the collapse of any possible settlement after Zang Hong is
 > "遵循仁义就是君子，背弃仁义就是小人" - Cheng Long's defense of dying with Zang Hong.
 
 ## Connections
-- [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] - next episode in the late-Han sequence.
+- [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|汉纪 998]] - next episode in the late-Han sequence.
 - [[ZangHong|臧洪]], [[ZhangChaoLateHan|张超]], [[ZhangMiaoLateHan|张邈]], [[ChengLongLateHan|成龙]], [[YuanShao|袁绍]], and [[CaoCao|曹操]] - death, grievance, remonstrance, and old-versus-new alignment branch.
 - [[ZhangLiao|张辽]] and [[GaoShun|高顺]] - comparison figures used by the host to mark survival wisdom and political flexibility.
 - [[EmotionalAttachmentPoliticalDistortion|情执政治判断失衡]], [[DeathPartyLoyalty|死党之义与守职奉上]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[RetainerReciprocityEthic|士为知己者死]], and [[AristocraticHonorOverLife|贵族名誉高于生命]] - interpretive frames for loyalty, emotion, and political judgment.

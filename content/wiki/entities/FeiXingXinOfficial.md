@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-费兴 / Fei Xing enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] as the Xin official whom [[WangMang|王莽]] appoints to govern Jingzhou and then removes after hearing an unwelcome livelihood diagnosis. His role is narrow but important because it adds an 18 CE example of root-cause advice being punished before later late-Xin crisis episodes.
+费兴 / Fei Xing enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] as the Xin official whom [[WangMang|王莽]] appoints to govern Jingzhou and then removes after hearing an unwelcome livelihood diagnosis. His role is narrow but important because it adds an 18 CE example of root-cause advice being punished before later late-Xin crisis episodes.
 
 ## Current Profile
 
@@ -20,18 +20,18 @@ Fei Xing's proposed remedy is practical relief rather than more coercion. He sug
 
 ## Key Characteristics
 
-- Xin official appointed as Jingzhou governor in the 18 CE setting of Hanji 654.
+- Xin official appointed as Jingzhou governor in the 18 CE setting of 汉纪 654.
 - Diagnoses banditry through livelihood damage, resource taxation, and drought.
 - Proposes agricultural resettlement, relief inputs, and lighter taxes.
 - Punished by removal after presenting an unwelcome policy diagnosis.
-- Bridges Hanji 653's reform-control layer and Hanji 656's later indirect-remonstrance layer.
+- Bridges 汉纪 653's reform-control layer and 汉纪 656's later indirect-remonstrance layer.
 
 ## Evidence
 
-- Appointment: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Wang Mang appoints Fei Xing as Jingzhou governor and asks for policy advice.
-- Livelihood diagnosis: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Fei Xing blames mountain-and-marsh taxation and drought for pushing people toward banditry.
-- Relief proposal: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says he recommends allowing return to farming with tools, cattle, seed, grain, and lighter taxes.
-- Punishment: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Wang Mang becomes angry and removes him.
+- Appointment: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Wang Mang appoints Fei Xing as Jingzhou governor and asks for policy advice.
+- Livelihood diagnosis: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Fei Xing blames mountain-and-marsh taxation and drought for pushing people toward banditry.
+- Relief proposal: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says he recommends allowing return to farming with tools, cattle, seed, grain, and lighter taxes.
+- Punishment: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Wang Mang becomes angry and removes him.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The source does not give a full biography of Fei Xing, his later career, or deta
 
 ## What Changed
 
-- Created this page from Hanji 654 to preserve the 18 CE Fei Xing remonstrance case.
+- Created this page from 汉纪 654 to preserve the 18 CE Fei Xing remonstrance case.
 
 ## Relationships
 
@@ -47,4 +47,4 @@ The source does not give a full biography of Fei Xing, his later career, or deta
 - [[WangMangReforms|王莽改制]] - policy background implicated by Fei Xing's mountain-and-marsh tax criticism.
 - [[SuppressedRootCauseReporting|根因上报压制]] - pattern illustrated by Fei Xing's punishment.
 - [[FiscalExtractionRebellionSpiral|财政压榨叛乱螺旋]] - downstream disorder pattern named by Fei Xing's livelihood diagnosis.
-- [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|Hanji 653]] - prior source defining the relevant reform-control field.
+- [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|汉纪 653]] - prior source defining the relevant reform-control field.

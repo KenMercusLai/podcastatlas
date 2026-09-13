@@ -16,7 +16,7 @@ last_updated: 2026-08-30
 
 The current evidence comes from [[FaXiongLateHan|Fa Xiong]]'s response to [[ZhangBailuLateHan|Zhang Bailu]] during [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency. The court has issued an amnesty after coastal rebellion, but local commanders still want to pursue. Fa Xiong argues that this timing would defeat the amnesty's purpose: frightened rebels will not surrender into visible danger, and mobile coastal groups can escape into harder island terrain.
 
-The pattern is not leniency in the abstract. It is a coordination rule. Once the state offers a surrender path, nearby military actors must make that path legible and credible. Hanji 785 shows partial success when rebels return captives and come back toward settled space, followed by failure when Donglai troops remain armed and threatening. Amnesty therefore requires command synchronization as much as central proclamation.
+The pattern is not leniency in the abstract. It is a coordination rule. Once the state offers a surrender path, nearby military actors must make that path legible and credible. 汉纪 785 shows partial success when rebels return captives and come back toward settled space, followed by failure when Donglai troops remain armed and threatening. Amnesty therefore requires command synchronization as much as central proclamation.
 
 ## Key Claims
 
@@ -28,9 +28,9 @@ The pattern is not leniency in the abstract. It is a coordination rule. Once the
 
 ## Evidence
 
-- Fa Xiong's timing argument: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] reports his advice to stop immediate pursuit after amnesty so rebels do not panic and flee to distant islands.
-- Partial rebel compliance: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] records rebels returning captives after the restrained approach, showing that credible surrender was possible.
-- Coordination failure: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] says Donglai troops failed to disarm and the rebels then fled to Liaodong islands.
+- Fa Xiong's timing argument: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] reports his advice to stop immediate pursuit after amnesty so rebels do not panic and flee to distant islands.
+- Partial rebel compliance: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] records rebels returning captives after the restrained approach, showing that credible surrender was possible.
+- Coordination failure: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] says Donglai troops failed to disarm and the rebels then fled to Liaodong islands.
 
 ## Counterevidence & Qualifications
 
@@ -38,7 +38,7 @@ The current source does not prove that all post-amnesty pursuit is wrong. It sho
 
 ## What Changed
 
-- Created this concept from Hanji 785 to capture Fa Xiong's pacification logic as a reusable governance pattern.
+- Created this concept from 汉纪 785 to capture Fa Xiong's pacification logic as a reusable governance pattern.
 - Distinguished amnesty timing from general mercy by tying it to command synchronization and rebel perception.
 
 ## Related Concepts

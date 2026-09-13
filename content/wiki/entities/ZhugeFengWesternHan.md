@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-诸葛丰 / Zhuge Feng enters the wiki through [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] as a Western Han official whose reversal from praising [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]] to denouncing them becomes a case of unreliable political speech under [[HanYuandi|汉元帝]].
+诸葛丰 / Zhuge Feng enters the wiki through [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] as a Western Han official whose reversal from praising [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]] to denouncing them becomes a case of unreliable political speech under [[HanYuandi|汉元帝]].
 
 ## Current Profile
 
@@ -29,21 +29,21 @@ Zhuge Feng's importance in the source is diagnostic. His speech is not evaluated
 ## Evidence
 
 Career and demotion:
-- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Zhuge Feng first serves as Sili Xiaowei, behaves willfully, repeatedly offends imperial relatives, and is later demoted to Chengmen Xiaowei.
+- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] says Zhuge Feng first serves as Sili Xiaowei, behaves willfully, repeatedly offends imperial relatives, and is later demoted to Chengmen Xiaowei.
 
 Reversal:
-- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Zhuge Feng had repeatedly praised Zhou Kan and Zhang Meng but later memorializes against them.
+- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] says Zhuge Feng had repeatedly praised Zhou Kan and Zhang Meng but later memorializes against them.
 
 Judgment:
-- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Yuan spares him corporal punishment because of age but removes him to commoner status, while Sima Guang criticizes both Zhuge Feng's reversal and Yuan's mixed handling.
+- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] says Yuan spares him corporal punishment because of age but removes him to commoner status, while Sima Guang criticizes both Zhuge Feng's reversal and Yuan's mixed handling.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 478. It does not settle Zhuge Feng's full biography, exact memorial text, legal record, private motive, or whether any part of his accusation had independent historical basis.
+This page is source-scoped to 汉纪 478. It does not settle Zhuge Feng's full biography, exact memorial text, legal record, private motive, or whether any part of his accusation had independent historical basis.
 
 ## What Changed
 
-- Created from Hanji 478 as the reversal-and-denunciation case inside opportunistic court alignment.
+- Created from 汉纪 478 as the reversal-and-denunciation case inside opportunistic court alignment.
 
 ## Relationships
 

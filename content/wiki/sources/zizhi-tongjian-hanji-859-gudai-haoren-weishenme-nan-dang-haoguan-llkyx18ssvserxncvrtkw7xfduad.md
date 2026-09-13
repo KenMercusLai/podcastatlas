@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 163-164 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] and before the later Hanji 865-876 eunuch-politics sequence. It links frontier emergency personnel choices around [[HuangfuGuiLateHan|皇甫规]], [[ZhangHuanLateHan|张奂]], and [[DuanJiongLateHan|段熲]] with [[ZhuMuLateHan|朱穆]]'s anti-eunuch remonstrance.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 163-164 CE [[EmperorHuanOfHan|汉桓帝]] field immediately before [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]] and before the later 汉纪 865-876 eunuch-politics sequence. It links frontier emergency personnel choices around [[HuangfuGuiLateHan|皇甫规]], [[ZhangHuanLateHan|张奂]], and [[DuanJiongLateHan|段熲]] with [[ZhuMuLateHan|朱穆]]'s anti-eunuch remonstrance.
 
 The durable contribution is the episode's explanation for why righteous officials can fail even when their argument is reasonable. Huangfu Gui's talent recommendation works because it answers urgent frontier need, while Zhu Mu's proposal to restore non-eunuch attendant offices attacks a [[PalaceProximityPower|palace proximity]] structure that the ruler finds useful for private desire, control, and household-style service.
 
@@ -44,11 +44,11 @@ The durable contribution is the episode's explanation for why righteous official
 - [[DuanJiongLateHan|段熲]], [[LiangzhouLateHan|凉州]], and [[DongqiangLateHan|东羌]] - frontier crisis makes Duan's restoration practical even after accusation.
 - [[ZhuMuLateHan|朱穆]], [[EmperorHuanOfHan|汉桓帝]], and [[PalaceProximityPower|宫廷近身权力]] - anti-eunuch remonstrance fails because the criticized access structure serves ruler needs.
 - [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[GoodIntentionsPoliticalLimits|Good Intentions Political Limits]] - broader conceptual field for why correct public advice may not convert into reform.
-- [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], and [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] - closing preview around the Huan-era Bohai problem later developed by Shi Bi's law-first memorial.
-- [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]], [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|Hanji 865]], and [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] - immediate and later Huan-era continuations.
+- [[LiuKuiBohaiKing|刘亏]], [[BohaiKingdomLateHan|渤海王国]], and [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] - closing preview around the Huan-era Bohai problem later developed by Shi Bi's law-first memorial.
+- [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]], [[zizhi-tongjian-hanji-865-zhichang-boss-ye-rongyi-bei-zhezhong-ren-beici-ljfhfevljqnx6zceakjfbw5gwfma|汉纪 865]], and [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] - immediate and later Huan-era continuations.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills a 163-164 CE layer before Hanji 860 and the later 165-167 Huan-era material.
+- No settled contradiction with existing wiki pages was found. This source backfills a 163-164 CE layer before 汉纪 860 and the later 165-167 Huan-era material.
 - Transcript normalization: "黄府规" is normalized to [[HuangfuGuiLateHan|皇甫规]], "张宦" to [[ZhangHuanLateHan|张奂]], "段炯" to [[DuanJiongLateHan|段熲]], and "朱牧" to [[ZhuMuLateHan|朱穆]] because the roles and sequence match the established late-Han actors.
 - Scope caution: Liang Ji case background, Aixian thieves, Liu Kui's rebellion notice, and Zhu Mu's illness are recorded as source-bounded claims rather than full biography or chronology.

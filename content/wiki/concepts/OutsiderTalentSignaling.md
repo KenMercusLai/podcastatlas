@@ -8,13 +8,13 @@ last_updated: 2026-08-23
 
 # Outsider Talent Signaling / 厚待外来人才信号
 
-Outsider talent signaling / 厚待外来人才信号 is the recruitment logic [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] assigns to [[LiuBang|刘邦]]'s treatment of [[ChenPing|陈平]]. Liu Bang appoints Chen Ping quickly and publicly, despite complaints that Chen Ping is a recent defector from the Chu side.
+Outsider talent signaling / 厚待外来人才信号 is the recruitment logic [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|汉纪 150 part 2]] assigns to [[LiuBang|刘邦]]'s treatment of [[ChenPing|陈平]]. Liu Bang appoints Chen Ping quickly and publicly, despite complaints that Chen Ping is a recent defector from the Chu side.
 
 The host argues that Liu Bang is not only judging one person. After the success of using [[HanXin|韩信]], he has reason to show the wider field that non-hometown, non-old-circle talent can receive real authority in the Han camp. Exceptional treatment becomes a political advertisement: mobile people watching from other states can infer that switching to Liu Bang may bring office rather than suspicion.
 
 This concept is the recruitment-side counterpart to [[VeteranMeritCliqueSupervision|功臣旧将监督]]. The same outsider appointment helps supervise insiders and signals to other outsiders that the ruler's talent market is open.
 
-[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] adds the stress test. The signal would collapse if old generals could remove Chen Ping with accusations as soon as he was promoted. Liu Bang's apology, reward, and confirmation of Chen Ping's supervisory role therefore make the public signal more credible: outsiders can see that appointment is not automatically revoked when insiders complain.
+[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|汉纪 154]] adds the stress test. The signal would collapse if old generals could remove Chen Ping with accusations as soon as he was promoted. Liu Bang's apology, reward, and confirmation of Chen Ping's supervisory role therefore make the public signal more credible: outsiders can see that appointment is not automatically revoked when insiders complain.
 
 ## Key Claims
 - Rewarding an outsider can broadcast recruitment credibility beyond the individual appointee.
@@ -27,5 +27,5 @@ This concept is the recruitment-side counterpart to [[VeteranMeritCliqueSupervis
 - [[LiuBang|刘邦]], [[ChenPing|陈平]], and [[HanXin|韩信]] - source recruitment chain.
 - [[WeiWuzhi|魏无知]] and [[Xiuwu|修武]] - access channel and receiving camp.
 - [[VeteranMeritCliqueSupervision|功臣旧将监督]] - paired internal-control logic.
-- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] and [[MoralSlanderReframing|道德诬陷焦点转移]] - accusation response as a follow-through test for the outsider signal.
+- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|汉纪 154]] and [[MoralSlanderReframing|道德诬陷焦点转移]] - accusation response as a follow-through test for the outsider signal.
 - [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[StrategicRecognitionAlignment|谋略知己式归附]], and [[RitualizedCommandAppointment|仪式化拜将留才]] - adjacent talent-attraction frames.

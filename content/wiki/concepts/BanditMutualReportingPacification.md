@@ -14,7 +14,7 @@ Bandit mutual-reporting pacification / 群盗互纠式平乱 is the Guangwu-era 
 
 ## Current Synthesis
 
-Hanji 718 presents the pattern after repeated failed suppression. Bandits in Qingzhou, Xuzhou, Youzhou, Yizhou, and other commanderies disperse when troops arrive and reassemble after troops leave, making ordinary campaign pursuit ineffective. [[LiuXiu|刘秀]]'s new policy changes the incentive structure around the bandit field.
+汉纪 718 presents the pattern after repeated failed suppression. Bandits in Qingzhou, Xuzhou, Youzhou, Yizhou, and other commanderies disperse when troops arrive and reassemble after troops leave, making ordinary campaign pursuit ineffective. [[LiuXiu|刘秀]]'s new policy changes the incentive structure around the bandit field.
 
 The policy has three linked parts. First, bandits are allowed to inform on each other, and groups of five who jointly kill one bandit can be pardoned and sent home. Second, local officials are not punished simply for delay, fear, or lax pursuit; their performance is judged by captured numbers, while people who shelter bandits are punished. Third, bandit leaders who surrender or are captured are moved to other commanderies and given land and grain for their families.
 
@@ -31,11 +31,11 @@ The current synthesis is that the policy works by making bandit cohesion expensi
 
 ## Evidence
 
-- Failed pursuit problem: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says bandits disperse when troops arrive and reassemble after troops leave.
-- Mutual-reporting rule: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says bandits are allowed to inform on one another and five people who jointly kill a bandit can receive pardon.
-- Official-incentive repair: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says local officials are not punished for delay, fear, or lax pursuit, and are instead judged by captured numbers.
-- Support-channel pressure: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says people sheltering bandits are punished.
-- Resettlement result: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says bandit leaders are moved to other commanderies with land and grain and that order returns afterward.
+- Failed pursuit problem: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says bandits disperse when troops arrive and reassemble after troops leave.
+- Mutual-reporting rule: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says bandits are allowed to inform on one another and five people who jointly kill a bandit can receive pardon.
+- Official-incentive repair: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says local officials are not punished for delay, fear, or lax pursuit, and are instead judged by captured numbers.
+- Support-channel pressure: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says people sheltering bandits are punished.
+- Resettlement result: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says bandit leaders are moved to other commanderies with land and grain and that order returns afterward.
 
 ## Counterevidence & Qualifications
 

@@ -35,18 +35,18 @@ The result clarifies the compromise structure of the 168 CE decision window. Gua
 
 ## Evidence
 
-- Judicial role: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Guan Ba reports the sentence in the Li Yun and Du Zhong case after interrogation and torture.
-- Mitigation attempt: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Guan Ba asks Emperor Huan to treat Li Yun and Du Zhong more leniently because of their low position, but Huan refuses.
-- Property privilege: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Guan Ba and Su Kang acquire valuable land and residences cheaply while local authorities do not dare challenge them.
-- Confiscation reversal: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Liu You orders confiscation of their holdings but is punished with Li Ying and Feng Gun.
-- First target status: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Dou Miao first acts against Guan Ba after rejecting a blanket removal of eunuchs.
-- Power and ability: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] describes Guan Ba as a zhongchangshi with great power, ability, and planning capacity.
-- Shared punishment: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Guan Ba and Su Kang are arrested and executed together.
-- Limited-purge meaning: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] places the execution after Dou Miao says only lawbreakers should be punished, not all eunuchs.
+- Judicial role: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]] says Guan Ba reports the sentence in the Li Yun and Du Zhong case after interrogation and torture.
+- Mitigation attempt: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]] says Guan Ba asks Emperor Huan to treat Li Yun and Du Zhong more leniently because of their low position, but Huan refuses.
+- Property privilege: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Guan Ba and Su Kang acquire valuable land and residences cheaply while local authorities do not dare challenge them.
+- Confiscation reversal: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Liu You orders confiscation of their holdings but is punished with Li Ying and Feng Gun.
+- First target status: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] says Dou Miao first acts against Guan Ba after rejecting a blanket removal of eunuchs.
+- Power and ability: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] describes Guan Ba as a zhongchangshi with great power, ability, and planning capacity.
+- Shared punishment: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] says Guan Ba and Su Kang are arrested and executed together.
+- Limited-purge meaning: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] places the execution after Dou Miao says only lawbreakers should be punished, not all eunuchs.
 
 ## Qualifications
 
-The current sources do not supply Guan Ba's full biography, family network, complete office sequence, or role after execution. Hanji 850 presents him as commandant of justice, while later pages present him in the eunuch-power field; this page records the sequence without filling the institutional gap between those notices. His profile should remain centered on failed judicial mitigation, property privilege, palace protection, and selective purge status. Transcript 管爸 is normalized to 管霸 based on the late-Han context.
+The current sources do not supply Guan Ba's full biography, family network, complete office sequence, or role after execution. 汉纪 850 presents him as commandant of justice, while later pages present him in the eunuch-power field; this page records the sequence without filling the institutional gap between those notices. His profile should remain centered on failed judicial mitigation, property privilege, palace protection, and selective purge status. Transcript 管爸 is normalized to 管霸 based on the late-Han context.
 
 ## What Changed
 

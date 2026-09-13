@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Overview
 
-Wu Zhang / 吴章 enters the wiki through [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] as [[WangYuXinPrince|王宇]]'s teacher, a Taixue scholar-official whose advice turns Wei-clan access lobbying into the staged [[DogBloodCase|狗血案]].
+Wu Zhang / 吴章 enters the wiki through [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] as [[WangYuXinPrince|王宇]]'s teacher, a Taixue scholar-official whose advice turns Wei-clan access lobbying into the staged [[DogBloodCase|狗血案]].
 
 ## Current Profile
 
@@ -28,14 +28,14 @@ That second plan destroys him. Lü Kuan's dog-blood act is discovered, the case 
 
 ## Evidence
 
-- Teacher role: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] identifies Wu Zhang as Wang Yu's teacher and a respected scholar.
-- Memorial advice: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] says Wu Zhang helps design the Wei Taihou memorial strategy.
-- Staged anomaly: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] says Wu Zhang proposes using an abnormal event to frighten Wang Mang because direct persuasion is unlikely to work.
-- Execution and student punishment: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] says Wu Zhang is executed, burned, and his students are禁锢.
+- Teacher role: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] identifies Wu Zhang as Wang Yu's teacher and a respected scholar.
+- Memorial advice: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] says Wu Zhang helps design the Wei Taihou memorial strategy.
+- Staged anomaly: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] says Wu Zhang proposes using an abnormal event to frighten Wang Mang because direct persuasion is unlikely to work.
+- Execution and student punishment: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] says Wu Zhang is executed, burned, and his students are禁锢.
 
 ## Qualifications
 
-This page is bounded to Hanji 616. It does not settle Wu Zhang's full academic career, exact office, complete student list, or whether the staged anomaly was meant as a curse, a warning, or a frightening sign.
+This page is bounded to 汉纪 616. It does not settle Wu Zhang's full academic career, exact office, complete student list, or whether the staged anomaly was meant as a curse, a warning, or a frightening sign.
 
 ## What Changed
 

@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》177｜被困白登山 刘邦命悬一线
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the frontier crisis from [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] by moving from [[HanWangXin|韩王信]]'s [[Mayi|马邑]] surrender into [[LiuBang|刘邦]]'s northern campaign against Han Wang Xin and [[Xiongnu|匈奴]] forces. Its central military turn is [[LouJing|刘敬]]'s warning that [[MaoDunChanyu|冒顿单于]] is deliberately showing weakness, a warning Liu Bang rejects before pressing toward 平城 and [[BaidengEncirclement|白登之围]]. The source frames Baideng as a designed Xiongnu trap: cavalry mobility, controlled information, harsh winter conditions, and Han overconfidence combine to leave Liu Bang isolated in a life-threatening encirclement.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the frontier crisis from [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|汉纪 175]] by moving from [[HanWangXin|韩王信]]'s [[Mayi|马邑]] surrender into [[LiuBang|刘邦]]'s northern campaign against Han Wang Xin and [[Xiongnu|匈奴]] forces. Its central military turn is [[LouJing|刘敬]]'s warning that [[MaoDunChanyu|冒顿单于]] is deliberately showing weakness, a warning Liu Bang rejects before pressing toward 平城 and [[BaidengEncirclement|白登之围]]. The source frames Baideng as a designed Xiongnu trap: cavalry mobility, controlled information, harsh winter conditions, and Han overconfidence combine to leave Liu Bang isolated in a life-threatening encirclement.
 
 ## Key Claims
 - Han Wang Xin's Mayi surrender does not end the frontier problem; it opens a channel through which Xiongnu forces can move deeper toward [[TaiyuanWarringStates|太原]] and [[Jinyang|晋阳]].
@@ -25,7 +25,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 - Han infantry-heavy forces are poorly suited to winter pursuit against mobile Xiongnu cavalry, especially amid snow, cold, sickness, and slow movement.
 - Modu avoids fixed defense and positional battle after earlier losses, then uses Xiongnu cavalry mobility to let Han forces enter the vulnerable Baideng field.
 - The episode treats the [[BaidengEncirclement|白登之围]] as an intentional lure-and-encirclement operation rather than as a simple accidental overextension.
-- Because the source stops before the escape, Baideng is recorded here as a crisis setup; [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] remains the wiki's existing source for the later Chen Ping-centered release.
+- Because the source stops before the escape, Baideng is recorded here as a crisis setup; [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|汉纪 150 part 4]] remains the wiki's existing source for the later Chen Ping-centered release.
 
 ## Key Quotes
 > "必定是故意示弱" — Liu Jing's reading of the Xiongnu display.
@@ -43,5 +43,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This source qualifies the earlier [[BaidengEncirclement|白登之围]] page: Hanji 150 part 4 emphasizes Chen Ping's eventual escape stratagem, while Hanji 177 supplies the military and frontier-political setup that made the crisis possible.
+- This source qualifies the earlier [[BaidengEncirclement|白登之围]] page: 汉纪 150 part 4 emphasizes Chen Ping's eventual escape stratagem, while 汉纪 177 supplies the military and frontier-political setup that made the crisis possible.
 - The episode's interpretation that Baideng was a deliberately designed Xiongnu lure is kept source-scoped; it extends existing Xiongnu mobility and deception patterns without proving every operational detail independently.

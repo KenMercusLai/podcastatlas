@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # Integrated Command Capacity / 全维度统帅能力
 
-Integrated command capacity / 全维度统帅能力 is the source-scoped frame [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] uses to explain why [[CaoCao|曹操]]'s early [[NeihuangBattleLateHan|内黄之战]] matters despite being less famous than later campaigns. The host argues that Cao Cao's strength cannot be reduced to courage or aggression: command quality appears when strategic target choice, tactical variation, adviser use, military theory, and resource organization reinforce one another.
+Integrated command capacity / 全维度统帅能力 is the source-scoped frame [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|汉纪 961]] uses to explain why [[CaoCao|曹操]]'s early [[NeihuangBattleLateHan|内黄之战]] matters despite being less famous than later campaigns. The host argues that Cao Cao's strength cannot be reduced to courage or aggression: command quality appears when strategic target choice, tactical variation, adviser use, military theory, and resource organization reinforce one another.
 
 The source's compact case is the relief of [[DongWuyangLateHan|东武阳]]. Cao Cao sees that directly rushing to the besieged city lets [[YuDuLateHan|于毒]] keep the initiative, so he threatens Yu Du's base instead. That target shift uses [[EncirclingWeiToRescueZhao|围魏救赵]] logic and then turns into an offensive at Neihuang against [[SuiGuLateHan|眭固]] and [[YufuluoChanyu|于扶罗]].
 
@@ -19,7 +19,7 @@ The episode then connects this early maneuver to later Cao-side patterns already
 - A commander can show high capacity in a small campaign if the decision changes the enemy's incentives rather than only winning a visible fight.
 - Tactical variation matters because the correct target may be the enemy's base, supply line, or must-save point rather than the current battlefield.
 - Durable command joins battlefield action with people, advisers, food, institutions, and political legitimacy.
-- Source-scoped praise should be grounded in concrete cases: Hanji 961 uses Dong Wuyang and Neihuang as the early case, then points forward to Qingzhou absorption, tuntian, adviser systems, and later campaigns.
+- Source-scoped praise should be grounded in concrete cases: 汉纪 961 uses Dong Wuyang and Neihuang as the early case, then points forward to Qingzhou absorption, tuntian, adviser systems, and later campaigns.
 
 ## Connections
 

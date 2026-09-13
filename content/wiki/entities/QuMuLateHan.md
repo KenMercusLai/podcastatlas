@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 渠穆 / Qu Mu (late Han)
 
-渠穆 / Qu Mu (late Han) enters the wiki through [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] as the [[ZhangRangLateHan|张让]]-side follower who executes the killing of [[HeJin|何进]] inside the palace. The source says he draws the sword and cuts off He Jin's head after Zhang Rang confronts him.
+渠穆 / Qu Mu (late Han) enters the wiki through [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]] as the [[ZhangRangLateHan|张让]]-side follower who executes the killing of [[HeJin|何进]] inside the palace. The source says he draws the sword and cuts off He Jin's head after Zhang Rang confronts him.
 
 His role is intentionally narrow but useful. The episode uses Qu Mu to show that palace coups are not only decisions by high officeholders: experienced executors can change events at the critical moment. The host connects him to the earlier eunuch suppression of [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]], making him part of a recurring inner-court violence pattern rather than a random killer.
 

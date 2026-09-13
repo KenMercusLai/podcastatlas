@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Current Synthesis
 
-The current source case is [[BaoXuanWesternHan|鲍宣]] in [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]]. When [[KongGuangWesternHan|孔光]]'s entourage uses the emperor's central roadway, Bao Xuan treats the act as punishable and confiscates carriage and horses. The later charge treats Bao's enforcement as humiliating the chancellor and violating ministerial etiquette.
+The current source case is [[BaoXuanWesternHan|鲍宣]] in [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|汉纪 599]]. When [[KongGuangWesternHan|孔光]]'s entourage uses the emperor's central roadway, Bao Xuan treats the act as punishable and confiscates carriage and horses. The later charge treats Bao's enforcement as humiliating the chancellor and violating ministerial etiquette.
 
 The concept matters because it shows how formal law can remain present while status changes the consequences of applying it. The legal rule is not denied; instead, the enforcer is punished for the social meaning of enforcing it against someone too powerful.
 
@@ -27,9 +27,9 @@ The concept matters because it shows how formal law can remain present while sta
 
 ## Evidence
 
-- Rule enforcement: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Bao Xuan arrests Kong Guang's attendants and confiscates carriage and horses after they use the imperial central roadway.
-- Retaliation framing: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Bao Xuan is then accused of humiliating the chancellor, rejecting messengers, and violating ministerial etiquette.
-- Punishment: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|Hanji 599]] says Bao Xuan's death penalty is reduced but he still receives penal punishment.
+- Rule enforcement: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|汉纪 599]] says Bao Xuan arrests Kong Guang's attendants and confiscates carriage and horses after they use the imperial central roadway.
+- Retaliation framing: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|汉纪 599]] says Bao Xuan is then accused of humiliating the chancellor, rejecting messengers, and violating ministerial etiquette.
+- Punishment: [[zizhi-tongjian-hanji-599-gan-dui-qianguize-shuo-bu-chengxiang-wangjia-you-duo-yong-lpptx-fzls9xbakw52b8n1n6xow0|汉纪 599]] says Bao Xuan's death penalty is reduced but he still receives penal punishment.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ The concept is currently grounded in one episode note. The wiki does not yet pro
 
 ## What Changed
 
-- Created the concept from Bao Xuan's enforcement clash with Kong Guang's entourage in Hanji 599.
+- Created the concept from Bao Xuan's enforcement clash with Kong Guang's entourage in 汉纪 599.
 
 ## Related Concepts
 

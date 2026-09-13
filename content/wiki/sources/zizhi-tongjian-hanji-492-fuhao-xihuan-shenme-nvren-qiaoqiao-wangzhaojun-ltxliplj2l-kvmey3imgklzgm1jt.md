@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the [[WangZhaojun|王昭君]] departure story previewed in [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|Hanji 491]] and followed by the frontier-policy sequence in [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|Hanji 493]]. It presents [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s 33 BCE court visit and marriage request, Wang Zhaojun's years of palace invisibility, her voluntary request to marry into Xiongnu, and [[HanYuandi|汉元帝]]'s belated regret after seeing her.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the [[WangZhaojun|王昭君]] departure story previewed in [[zizhi-tongjian-hanji-491-zhongguo-waijiao-zui-qiangying-de-shike-jing-shi-zai-xihan-lpgajp_vky9dx7jvnoahaxdfjflk|汉纪 491]] and followed by the frontier-policy sequence in [[zizhi-tongjian-hanji-493-xiongdi-shi-hehuo-weisha-douhui-chouren-shi-sanhuo-lishi-gaosu-ni-llquknhihdms-6jyjbtfdfhvwv4g|汉纪 493]]. It presents [[HuhanyeChanyuWesternHan|呼韩邪单于]]'s 33 BCE court visit and marriage request, Wang Zhaojun's years of palace invisibility, her voluntary request to marry into Xiongnu, and [[HanYuandi|汉元帝]]'s belated regret after seeing her.
 
 The durable synthesis is that the host turns the Wang Zhaojun story into a case about beauty as resource and risk. Beauty can create opportunity, but only when paired with judgment, timing, communication, and self-command; otherwise it can be hidden by institutions, consumed by others' jealousy, or become fragile capital that fades without inner capacity.
 

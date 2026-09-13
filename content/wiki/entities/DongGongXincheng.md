@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 董公 / Dong Gong (Xincheng)
 
-董公 / Dong Gong enters the wiki through [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|Hanji 151 part 1]] as the 三老 at Xincheng who advises [[LiuBang|刘邦]] after [[XiangYu|项羽]] has killed Yi Emperor [[MiXin|芈心 / 楚怀王]]. The semantic suffix keeps him separate from other Dong-named figures in the wiki.
+董公 / Dong Gong enters the wiki through [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-1-lspx-bqe5kczq6bmn6thlerfbrmu|汉纪 151 part 1]] as the 三老 at Xincheng who advises [[LiuBang|刘邦]] after [[XiangYu|项羽]] has killed Yi Emperor [[MiXin|芈心 / 楚怀王]]. The semantic suffix keeps him separate from other Dong-named figures in the wiki.
 
 Dong Gong's advice is not a battlefield plan. He tells Liu Bang that an army needs a public name and that Xiang Yu's killing of the former anti-Qin ruler should be declared as rebellion against moral-political order. Liu Bang should mourn Mi Xin, order the army to grieve, and then summon the lords to punish the criminal.
 

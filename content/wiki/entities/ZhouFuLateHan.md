@@ -27,17 +27,17 @@ The Ganling split matters because the episode treats it as an early origin point
 
 ## Evidence
 
-- Imperial-teacher link: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says Emperor Huan had studied with Zhou Fu while still Liwu marquis and later promoted him.
-- Rivalry marker: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] preserves a local rhyme contrasting Fang Zhi as "rules" with Zhou Fu as gaining office through the teacher relationship.
-- Follower-bloc formation: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|Hanji 871]] says the two families' guests mock one another and form opposing groups, producing north and south divisions in Ganling.
+- Imperial-teacher link: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] says Emperor Huan had studied with Zhou Fu while still Liwu marquis and later promoted him.
+- Rivalry marker: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] preserves a local rhyme contrasting Fang Zhi as "rules" with Zhou Fu as gaining office through the teacher relationship.
+- Follower-bloc formation: [[zizhi-tongjian-hanji-871-cheng-e-yang-shan-weihe-fanbei-wuxian-ruyu-lujkihgvh-cafkh9bfak6-vttpwt|汉纪 871]] says the two families' guests mock one another and form opposing groups, producing north and south divisions in Ganling.
 
 ## Qualifications
 
-This page is limited to Zhou Fu's Hanji 871 function and does not reconstruct his wider career. The evidence describes a local rivalry and reputation mechanism, not proof that Zhou Fu himself directed a later criminal party.
+This page is limited to Zhou Fu's 汉纪 871 function and does not reconstruct his wider career. The evidence describes a local rivalry and reputation mechanism, not proof that Zhou Fu himself directed a later criminal party.
 
 ## What Changed
 
-- Created this bounded profile from Hanji 871's Ganling faction-origin scene.
+- Created this bounded profile from 汉纪 871's Ganling faction-origin scene.
 
 ## Relationships
 

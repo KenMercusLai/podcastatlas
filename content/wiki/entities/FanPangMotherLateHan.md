@@ -12,11 +12,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Fan Pang's mother enters the wiki through Hanji 893 as the family elder whose farewell gives Fan Pang's death a household-side moral ratification.
+Fan Pang's mother enters the wiki through 汉纪 893 as the family elder whose farewell gives Fan Pang's death a household-side moral ratification.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] presents Fan Pang's mother at the moment of parting after [[FanPangLateHan|范滂]] chooses prison. Fan Pang asks her not to grieve excessively and points to his brother's filial capacity to care for her, but her answer refuses to treat survival as the only good. If Fan Pang has won a name alongside [[LiYingLateHan|李膺]] and Du Mi, she says, he cannot also demand long life.
+[[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] presents Fan Pang's mother at the moment of parting after [[FanPangLateHan|范滂]] chooses prison. Fan Pang asks her not to grieve excessively and points to his brother's filial capacity to care for her, but her answer refuses to treat survival as the only good. If Fan Pang has won a name alongside [[LiYingLateHan|李膺]] and Du Mi, she says, he cannot also demand long life.
 
 Her profile is therefore not passive bereavement. The source makes her a voice that converts family grief into a stern understanding of名节: reputation, virtue, and death can become inseparable once the court makes moral visibility punishable.
 
@@ -29,10 +29,10 @@ Her profile is therefore not passive bereavement. The source makes her a voice t
 
 ## Evidence
 
-- Farewell setting: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says Fan Pang's mother comes to part from him after learning of his impending arrest.
-- Family care: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] says Fan Pang tells her his younger brother is filial and can care for her.
-- Reputation tradeoff: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] records her judgment that sharing fame with Li Ying and Du Mi leaves no regret even if death follows.
-- Household witness: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] places the farewell inside the broader party-prohibition arrest chain.
+- Farewell setting: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says Fan Pang's mother comes to part from him after learning of his impending arrest.
+- Family care: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] says Fan Pang tells her his younger brother is filial and can care for her.
+- Reputation tradeoff: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] records her judgment that sharing fame with Li Ying and Du Mi leaves no regret even if death follows.
+- Household witness: [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] places the farewell inside the broader party-prohibition arrest chain.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ The source identifies her through her relationship to Fan Pang rather than as an
 
 ## What Changed
 
-- Hanji 893 creates the page for Fan Pang's mother as a family voice in late-Han party-prohibition martyrdom.
+- 汉纪 893 creates the page for Fan Pang's mother as a family voice in late-Han party-prohibition martyrdom.
 
 ## Relationships
 

@@ -12,9 +12,9 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] layer around [[EmpressDowagerDouHeLateHan|窦太后]], [[LiuChangDuxiangHouEasternHan|都乡侯刘畅]], and [[DouXianEasternHan|窦宪]]. It follows the dowager's relationship with Liu Chang after [[EmperorZhangOfHan|汉章帝]]'s death, Dou Xian's murder of Liu Chang and false accusation against [[LiuGangEasternHan|刘刚]], [[HanLengEasternHan|韩棱]] and [[HeChangEasternHan|何敞]] redirecting the case, and Dou's request to redeem a capital crime through a [[NorthernXiongnuLateHan|Northern Xiongnu]] campaign.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] layer around [[EmpressDowagerDouHeLateHan|窦太后]], [[LiuChangDuxiangHouEasternHan|都乡侯刘畅]], and [[DouXianEasternHan|窦宪]]. It follows the dowager's relationship with Liu Chang after [[EmperorZhangOfHan|汉章帝]]'s death, Dou Xian's murder of Liu Chang and false accusation against [[LiuGangEasternHan|刘刚]], [[HanLengEasternHan|韩棱]] and [[HeChangEasternHan|何敞]] redirecting the case, and Dou's request to redeem a capital crime through a [[NorthernXiongnuLateHan|Northern Xiongnu]] campaign.
 
-The frontier half introduces [[DengXunEasternHan|邓训]] as Protector of the Qiang before his later posthumous legitimacy in Hanji 767. Deng protects threatened Hu families instead of exploiting Hu-Qiang conflict, wins submission, uses surrendered Qiang to draw out other groups, defeats [[MiTangQiangLeader|弥唐]], and leaves a smaller farming-and-fortification garrison, creating a sharp contrast with Dou Xian's court-protected path from murder case to campaign command.
+The frontier half introduces [[DengXunEasternHan|邓训]] as Protector of the Qiang before his later posthumous legitimacy in 汉纪 767. Deng protects threatened Hu families instead of exploiting Hu-Qiang conflict, wins submission, uses surrendered Qiang to draw out other groups, defeats [[MiTangQiangLeader|弥唐]], and leaves a smaller farming-and-fortification garrison, creating a sharp contrast with Dou Xian's court-protected path from murder case to campaign command.
 
 ## Key Claims
 
@@ -22,7 +22,7 @@ The frontier half introduces [[DengXunEasternHan|邓训]] as Protector of the Qi
 - Dou Xian kills Liu Chang inside the guarded capital setting and frames Liu Gang, turning harem intimacy into a murder and succession-of-influence case.
 - Han Leng's investigative judgment redirects attention from Liu Gang back toward the capital; He Chang then argues that a royal kinsman murdered while mourning the former emperor cannot be handled by blind scapegoating.
 - Empress Dowager Dou imprisons Dou Xian after the case points to him, but ultimately protects her brother and lets his request for war service become the alternative to execution.
-- Dou Xian's appointment as chariot-and-cavalry general, with Geng Bing as deputy and a large mixed force from the northern army, camps, border commanderies, Qiang, and Hu units, sets up the campaign developed in Hanji 761 and Hanji 763.
+- Dou Xian's appointment as chariot-and-cavalry general, with Geng Bing as deputy and a large mixed force from the northern army, camps, border commanderies, Qiang, and Hu units, sets up the campaign developed in 汉纪 761 and 汉纪 763.
 - Deng Xun rejects the advice to let Hu and Qiang groups weaken one another, arguing that Zhang Yu's earlier breach of trust helped produce rebellion and that threatened Hu communities could become Han allies if protected.
 - Deng's open protection of Hu wives and children builds submission and lets him use surrendered groups to recruit further Qiang households, including Mi Tang's uncle Hao Wu.
 - Deng's 89 CE campaign across the river defeats Mi Tang, captures people and livestock, drives the remnant westward, and then shifts to a cheaper frontier posture through convict farming and fortification repair.
@@ -46,7 +46,7 @@ The frontier half introduces [[DengXunEasternHan|邓训]] as Protector of the Qi
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills the Liu Chang murder and Deng Xun policy layer that later Hanji 761, Hanji 763, and Hanji 767 reference only as prehistory or aftermath.
+- No settled contradiction with existing wiki content was found. The episode backfills the Liu Chang murder and Deng Xun policy layer that later 汉纪 761, 汉纪 763, and 汉纪 767 reference only as prehistory or aftermath.
 - Transcript normalization: the source renders several names as 窦县, 邓迅, 何畅, and 任委; the wiki normalizes these to [[DouXianEasternHan|窦宪]], [[DengXunEasternHan|邓训]], [[HeChangEasternHan|何敞]], and [[RenKuiEasternHan|任隗]] because the roles match the existing Eastern Han sequence.
 - Identity caution: [[LiuChangDuxiangHouEasternHan|都乡侯刘畅]] is kept distinct from modern [[LiuChang|刘畅]], [[LiuChangLiangKing|梁王刘畅]], and [[LiuChangHuainanKing|淮南王刘长]].
 - Scope caution: Qi Shang Wang Liu Shi, Zhang Yu, Geng Bing, Hao Wu, Huangzhong/Huangzhong Hu, the leather-boat crossing, exact casualty and livestock figures, and detailed route geography remain source-scoped unless later notes warrant standalone pages.

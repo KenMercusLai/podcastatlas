@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》186｜一场因巴结领导老婆引发的灭门惨案
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the eve of [[YingBu|英布 / 黥布]]'s rebellion after the Hanji 183-184 sequence has already made [[HanXin|韩信]] and [[PengYue|彭越]] warning cases for early [[WesternHanDynasty|西汉]] merit-holders. [[PengYue|彭越]]'s execution and corpse-paste distribution push Ying Bu into secret military preparation, but the immediate trigger comes from [[BenHe|奔鹤]], a [[HuainanKingdomEarlyHan|淮南国]] official who tries to gain favor through Ying Bu's favorite concubine, is suspected of sexual misconduct, flees to [[LiuBang|刘邦]], and accuses Ying Bu of rebellion. The episode's main contribution is [[InnerCourtAccessBrokerageRisk|内廷通道攀附风险]]: a private access gambit becomes an informant event, a Han investigation, and finally a vassal's judgment that revolt is the only survivable path.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the eve of [[YingBu|英布 / 黥布]]'s rebellion after the 汉纪 183-184 sequence has already made [[HanXin|韩信]] and [[PengYue|彭越]] warning cases for early [[WesternHanDynasty|西汉]] merit-holders. [[PengYue|彭越]]'s execution and corpse-paste distribution push Ying Bu into secret military preparation, but the immediate trigger comes from [[BenHe|奔鹤]], a [[HuainanKingdomEarlyHan|淮南国]] official who tries to gain favor through Ying Bu's favorite concubine, is suspected of sexual misconduct, flees to [[LiuBang|刘邦]], and accuses Ying Bu of rebellion. The episode's main contribution is [[InnerCourtAccessBrokerageRisk|内廷通道攀附风险]]: a private access gambit becomes an informant event, a Han investigation, and finally a vassal's judgment that revolt is the only survivable path.
 
 ## Key Claims
 - Ying Bu's fear is structural before Ben He appears: [[HanXin|韩信]] and [[PengYue|彭越]] have already shown that a surviving different-surname king may read demotion, accusation, or summons as a path toward death.
@@ -40,9 +40,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the e
 - [[BenHe|奔鹤]], [[InnerCourtAccessBrokerageRisk|内廷通道攀附风险]], [[HuainanKingdomEarlyHan|淮南国]], and [[ChanglePalace|长乐宫]] - private access gambit, flight, and accusation channel.
 - [[LiuBang|刘邦]], [[XiaoHe|萧何]], and [[InvestigationDrivenRebellionEscalation|调查推动式反叛升级]] - central detention-and-investigation response that Ying Bu reads as fatal.
 - [[PingyuanjunZhuJian|平原君诸建]], [[LiangfuHou|梁富侯]], and [[PowerExitTrap|权力退场困境]] - Huainan debate over whether non-rebellion remains a survivable option.
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[LuanBu|栾布]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - immediate prior Peng Yue aftershock and the broader rollback of autonomous non-Liu power.
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|汉纪 184]], [[LuanBu|栾布]], and [[SameSurnameKingEnfeoffment|同姓王分封]] - immediate prior Peng Yue aftershock and the broader rollback of autonomous non-Liu power.
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- The source reinforces Hanji 184's claim that Peng Yue's killing could frighten other merit-holders; Ying Bu's secret preparations are recorded as a concrete follow-on case rather than a revision.
+- The source reinforces 汉纪 184's claim that Peng Yue's killing could frighten other merit-holders; Ying Bu's secret preparations are recorded as a concrete follow-on case rather than a revision.
 - Xiao He's advice complicates any one-note purge reading: the episode presents him as recommending investigation first, while the same investigation still becomes a rebellion trigger from Ying Bu's perspective.

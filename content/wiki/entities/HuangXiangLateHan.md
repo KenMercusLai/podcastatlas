@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Profile
 
-Hanji 769 presents Huang Xiang as shangshu ling when Emperor He plans to transfer him to Dong Commandery as taishou. The episode explains the move as a nominal promotion from a lower-ranking court post to a two-thousand-shi commandery office with substantial local authority.
+汉纪 769 presents Huang Xiang as shangshu ling when Emperor He plans to transfer him to Dong Commandery as taishou. The episode explains the move as a nominal promotion from a lower-ranking court post to a two-thousand-shi commandery office with substantial local authority.
 
 Huang Xiang petitions that he is not suited to governing a commandery and asks instead to remain in court handling the smaller business of the Shangshu desk. Emperor He accepts the request, reappoints him as shangshu ling, and raises the office's rank to two thousand shi, making the case a clear signal of trust rather than failed promotion.
 
@@ -30,18 +30,18 @@ The host reads Huang Xiang's decision as both self-knowledge and rational positi
 
 ## Evidence
 
-- Proposed transfer: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says Emperor He intends to make Huang Xiang the taishou of Dong Commandery.
-- Refusal and self-fit claim: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] records Huang Xiang saying he is not fit to manage commandery affairs and wants to keep handling Shangshu business.
-- Imperial response: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] says Emperor He reappoints Huang Xiang as shangshu ling and raises that office to two thousand shi.
-- Office-value interpretation: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] argues that Shangshu proximity supplies information, access, and promotion visibility unavailable to many distant local offices.
+- Proposed transfer: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|汉纪 769]] says Emperor He intends to make Huang Xiang the taishou of Dong Commandery.
+- Refusal and self-fit claim: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|汉纪 769]] records Huang Xiang saying he is not fit to manage commandery affairs and wants to keep handling Shangshu business.
+- Imperial response: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|汉纪 769]] says Emperor He reappoints Huang Xiang as shangshu ling and raises that office to two thousand shi.
+- Office-value interpretation: [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|汉纪 769]] argues that Shangshu proximity supplies information, access, and promotion visibility unavailable to many distant local offices.
 
 ## Qualifications
 
-This page is bounded to Hanji 769 and is not a full Huang Xiang biography. The source gives a strong office-choice case, but the host's rational-positioning explanation remains an interpretation layered on top of Huang Xiang's stated self-fit claim.
+This page is bounded to 汉纪 769 and is not a full Huang Xiang biography. The source gives a strong office-choice case, but the host's rational-positioning explanation remains an interpretation layered on top of Huang Xiang's stated self-fit claim.
 
 ## What Changed
 
-- Created the Huang Xiang page from Hanji 769's shangshu ling versus Dong Commandery appointment case.
+- Created the Huang Xiang page from 汉纪 769's shangshu ling versus Dong Commandery appointment case.
 
 ## Relationships
 

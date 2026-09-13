@@ -15,9 +15,9 @@ knowledge_schema: synthesis-v1
 Court legitimacy over patron loyalty is the late-Han loyalty conflict where a recognized imperial court, even when controlled by a stronger warlord, can claim higher duty than a regional patron's personal authority.
 
 ## Current Synthesis
-Hanji 1036-1037 make the problem concrete through [[HanSongLateHan|韩嵩]]. Before the mission, Han Song warns [[LiuBiao|刘表]] that a trip to [[Xudu|许都]] is clean only if Liu Biao has already chosen submission to the court-Cao order. If Liu Biao remains undecided and [[EmperorXianOfHan|汉献帝]] grants office, Han Song says his duty will be publicly reordered.
+汉纪 1036-1037 make the problem concrete through [[HanSongLateHan|韩嵩]]. Before the mission, Han Song warns [[LiuBiao|刘表]] that a trip to [[Xudu|许都]] is clean only if Liu Biao has already chosen submission to the court-Cao order. If Liu Biao remains undecided and [[EmperorXianOfHan|汉献帝]] grants office, Han Song says his duty will be publicly reordered.
 
-Hanji 1037 supplies the payoff. Once Han Song accepts court office and returns urging Liu Biao to send a son to court, Liu Biao reads formal loyalty as personal betrayal. The concept captures that collision: a regional ruler may want the court's prestige without accepting that court service can reorder the envoy's obligations.
+汉纪 1037 supplies the payoff. Once Han Song accepts court office and returns urging Liu Biao to send a son to court, Liu Biao reads formal loyalty as personal betrayal. The concept captures that collision: a regional ruler may want the court's prestige without accepting that court service can reorder the envoy's obligations.
 
 ## Key Claims
 - A weak but recognized court can still define official duty when local rulers remain formally inside the old order.
@@ -28,16 +28,16 @@ Hanji 1037 supplies the payoff. Once Han Song accepts court office and returns u
 - Patron suspicion intensifies when formal court loyalty threatens local autonomy and elite opinion.
 
 ## Evidence
-- Pre-mission condition: [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|Hanji 1036]] has Han Song tell Liu Biao that he can go if Liu Biao has already decided to honor the emperor and submit to Cao Cao, but not if Liu Biao keeps hesitating.
-- Envoy-to-court-official conversion: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] says Han Song receives appointments after reaching Xudu and returns praising the court and Cao Cao.
-- Role-duty claim: [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|Hanji 1036]] and [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] use "圣达节，次守节" to explain why Han Song presents himself as keeping duty rather than betraying Liu Biao.
-- Submission signal: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] treats sending Liu Biao's son to court as a visible act of allegiance and constraint.
+- Pre-mission condition: [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|汉纪 1036]] has Han Song tell Liu Biao that he can go if Liu Biao has already decided to honor the emperor and submit to Cao Cao, but not if Liu Biao keeps hesitating.
+- Envoy-to-court-official conversion: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] says Han Song receives appointments after reaching Xudu and returns praising the court and Cao Cao.
+- Role-duty claim: [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|汉纪 1036]] and [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] use "圣达节，次守节" to explain why Han Song presents himself as keeping duty rather than betraying Liu Biao.
+- Submission signal: [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] treats sending Liu Biao's son to court as a visible act of allegiance and constraint.
 
 ## Counterevidence & Qualifications
 The court in this branch is not a neutral institution free of Cao Cao's power. The concept therefore does not say Han Song's position is politically innocent; it says that the continuing legitimacy of Emperor Xian gives his choice a public-duty vocabulary beyond personal defection.
 
 ## What Changed
-- Added Hanji 1036 as the pre-mission side of the concept, showing that Han Song names the court-duty problem before any appointment occurs.
+- Added 汉纪 1036 as the pre-mission side of the concept, showing that Han Song names the court-duty problem before any appointment occurs.
 - Narrowed the concept around ambiguous envoy orders rather than only the post-return betrayal dispute.
 
 ## Related Concepts

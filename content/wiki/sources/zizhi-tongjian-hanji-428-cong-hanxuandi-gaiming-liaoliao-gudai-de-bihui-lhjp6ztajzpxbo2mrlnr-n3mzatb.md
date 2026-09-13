@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an early [[EmperorXuanOfHan|汉宣帝 / 刘病已 / 刘询]] layer before the later Hanji 430-465 Xuan branch. It starts from Xuan's Yuankang 2 / 64 BCE edict on judicial fairness and official misconduct, then reads his name change from 刘病已 to 刘询 as a mercy-driven attempt to reduce ordinary people's risk of violating imperial name taboo.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an early [[EmperorXuanOfHan|汉宣帝 / 刘病已 / 刘询]] layer before the later 汉纪 430-465 Xuan branch. It starts from Xuan's Yuankang 2 / 64 BCE edict on judicial fairness and official misconduct, then reads his name change from 刘病已 to 刘询 as a mercy-driven attempt to reduce ordinary people's risk of violating imperial name taboo.
 
 The durable synthesis is that [[ImperialNameTaboo|避讳]] is not only a courtesy custom. In this episode it appears as a writing, speech, office, exam, literary, and punishment regime: Xuan's self-renaming lowers the burden of two common characters, while later dynastic examples show taboo expanding into legally enforced and socially internalized constraints.
 

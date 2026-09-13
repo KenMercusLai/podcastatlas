@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》969丨袁氏兄弟内斗，谁能捡漏？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows the court-contact setup from [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] and backfills the pre-[[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] late-Han field through [[ZhongYao|钟繇]]'s successful persuasion of [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]], [[YuanShao|袁绍]] and [[YuanShu|袁术]]'s fight over [[YangzhouLateHan|扬州]], and [[CaoCao|曹操]]'s reading that Yuan-family infighting creates an opening. It treats the competition for offices such as Yangzhou inspector, left general, Yangzhai marquis, and `假节` as a test of [[MingqiLegitimacy|名器合法性]] under a court already captured by military force.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows the court-contact setup from [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|汉纪 968]] and backfills the pre-[[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|汉纪 970]] late-Han field through [[ZhongYao|钟繇]]'s successful persuasion of [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]], [[YuanShao|袁绍]] and [[YuanShu|袁术]]'s fight over [[YangzhouLateHan|扬州]], and [[CaoCao|曹操]]'s reading that Yuan-family infighting creates an opening. It treats the competition for offices such as Yangzhou inspector, left general, Yangzhai marquis, and `假节` as a test of [[MingqiLegitimacy|名器合法性]] under a court already captured by military force.
 
 The episode's other contribution is geographic and social. [[YangzhouLateHan|扬州]], [[Jingzhou|荆州]], and [[YizhouLateHan|益州]] are compared as Yangtze-line bases through [[RiverCorridorStrategicBase|长江走廊战略根据地]], while [[QingzhouLateHan|青州]] shows the civilian cost of proxy war: [[TianKaiLateHan|田楷]] and [[YuanTan|袁谭]] fight under the wider [[GongsunZan|公孙瓒]]-Yuan Shao rivalry until food runs out and [[ZhaoQiLateHan|赵岐]] has to mediate a temporary settlement.
 
@@ -39,8 +39,8 @@ The episode's other contribution is geographic and social. [[YangzhouLateHan|扬
 > "人吃人" - the Qingzhou famine image attributed through Pei Songzhi's quotation of Jiuzhou Chunqiu.
 
 ## Connections
-- [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|Hanji 968]] - direct previous source, where Cao Cao's legitimacy-logistics strategy and first Henei-Chang'an court route are set up.
-- [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|Hanji 970]] - direct next source in the Yuan Shao northern sequence.
+- [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj|汉纪 968]] - direct previous source, where Cao Cao's legitimacy-logistics strategy and first Henei-Chang'an court route are set up.
+- [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs|汉纪 970]] - direct next source in the Yuan Shao northern sequence.
 - [[ZhongYao|钟繇]], [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[CaoCao|曹操]], [[YingchuanCommandery|颍川]], and [[MingqiLegitimacy|名器合法性]] - court appointment and elite camp-choice branch.
 - [[YuanShao|袁绍]], [[YuanShu|袁术]], [[ChenWenLateHan|陈温]], [[YuanYiLateHan|袁遗]], [[ChenYuWuCommandery|陈瑀]], [[YangzhouLateHan|扬州]], and [[Shouchun|寿春]] - Yuan-family fight over the Yangzhou title and base.
 - [[YangzhouLateHan|扬州]], [[Jingzhou|荆州]], [[YizhouLateHan|益州]], [[JianglingLateHan|江陵]], [[SunCe|孙策]], and [[RiverCorridorStrategicBase|长江走廊战略根据地]] - Yangtze strategic geography and later Three Kingdoms base formation.
@@ -48,5 +48,5 @@ The episode's other contribution is geographic and social. [[YangzhouLateHan|扬
 - [[XingshiqingStrategicAssessment|行势情战略评估]], [[CourtOfficeCapture|朝廷开府任官失序]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - interpretive frames for opportunity reading, hollow titles, and civilian consequences.
 
 ## Contradictions
-- No settled contradiction found. The episode backfills the pre-Hanji 970 Yuan Shao-Yuan Shu field and prepares later Yuan Shu/Shouchun and Sun Ce/Jiangdong branches rather than reversing them.
+- No settled contradiction found. The episode backfills the pre-汉纪 970 Yuan Shao-Yuan Shu field and prepares later Yuan Shu/Shouchun and Sun Ce/Jiangdong branches rather than reversing them.
 - Source-scope caution: the transcript uses homophone-prone forms such as "袁怡" and "陈宇"; this page normalizes the Yangzhou office sequence to [[YuanYiLateHan|袁遗]] and [[ChenYuWuCommandery|陈瑀]] while preserving the episode's own narrative scope.

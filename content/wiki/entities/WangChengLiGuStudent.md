@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-王成 / Wang Cheng is [[LiGuLateHan|李固]]'s student and [[LiXieLateHan|李燮]]'s protector in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]]. The page uses a semantic suffix because the source develops him through his Li Gu student relationship, his flight-management role, and Li Xie's later ritual repayment.
+王成 / Wang Cheng is [[LiGuLateHan|李固]]'s student and [[LiXieLateHan|李燮]]'s protector in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]]. The page uses a semantic suffix because the source develops him through his Li Gu student relationship, his flight-management role, and Li Xie's later ritual repayment.
 
 ## Current Profile
 
-Hanji 853 presents Wang Cheng as the trusted executor of [[LiWenjiLateHan|李文姬]]'s survival plan. He takes Li Xie by boat down the Yangtze into [[Xuzhou|徐州]], arranges name-changing and low-status cover work, and performs fortune-telling in the market while publicly pretending not to know Li Xie.
+汉纪 853 presents Wang Cheng as the trusted executor of [[LiWenjiLateHan|李文姬]]'s survival plan. He takes Li Xie by boat down the Yangtze into [[Xuzhou|徐州]], arranges name-changing and low-status cover work, and performs fortune-telling in the market while publicly pretending not to know Li Xie.
 
 The source's later detail makes the relationship more than tactical concealment. After Li Xie returns and Wang Cheng eventually dies, Li Xie buries him with ritual care and honors him seasonally as a guest of the highest rank. Wang Cheng therefore functions as a student-retainer loyalty case where old obligation becomes life-preserving action.
 
@@ -27,18 +27,18 @@ The source's later detail makes the relationship more than tactical concealment.
 
 ## Evidence
 
-- Entrusted mission: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Wenji entrusts Li Xie to Wang Cheng because the family's survival depends on him.
-- Flight route: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Wang Cheng takes Li Xie by boat along the Yangtze and into Xuzhou.
-- Concealment method: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Xie works under an assumed identity while Wang Cheng tells fortunes in the market and the two publicly pretend not to know each other.
-- Ritual repayment: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Li Xie later buries Wang Cheng and offers seasonal rites to him as an honored guest.
+- Entrusted mission: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Wenji entrusts Li Xie to Wang Cheng because the family's survival depends on him.
+- Flight route: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Wang Cheng takes Li Xie by boat along the Yangtze and into Xuzhou.
+- Concealment method: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Xie works under an assumed identity while Wang Cheng tells fortunes in the market and the two publicly pretend not to know each other.
+- Ritual repayment: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Li Xie later buries Wang Cheng and offers seasonal rites to him as an honored guest.
 
 ## Qualifications
 
-This page is limited to the Wang Cheng who appears as Li Gu's student in Hanji 853. The source does not provide a broader biography, office history, or independent family background, so the route is deliberately disambiguated as `WangChengLiGuStudent`.
+This page is limited to the Wang Cheng who appears as Li Gu's student in 汉纪 853. The source does not provide a broader biography, office history, or independent family background, so the route is deliberately disambiguated as `WangChengLiGuStudent`.
 
 ## What Changed
 
-- Created the page from Hanji 853's entrusted-protection and ritual-repayment evidence.
+- Created the page from 汉纪 853's entrusted-protection and ritual-repayment evidence.
 
 ## Relationships
 

@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 120-121 CE [[EmperorAnOfHan|汉安帝]] court immediately before [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]]. It centers on [[YangZhenLateHan|杨震]] and [[ZhaiGuiLateHan|翟瑰]] warning that palace-favorite households are turning intimacy with the ruler into title succession, office access, public wealth, and distorted court order.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 120-121 CE [[EmperorAnOfHan|汉安帝]] court immediately before [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]]. It centers on [[YangZhenLateHan|杨震]] and [[ZhaiGuiLateHan|翟瑰]] warning that palace-favorite households are turning intimacy with the ruler into title succession, office access, public wealth, and distorted court order.
 
 The second half pairs that domestic failure with frontier and legal contrasts. [[MaXianLateHan|马贤]] struggles to settle the Shaodang Qiang field, [[LiuKaiEasternHan|刘恺]] successfully blocks office exclusion for corrupt officials' descendants, [[Xianbei|鲜卑]] raiding continues, and [[FengShiFavoriteLateHan|冯石]] receives house-centered favor and appointments for relatives; the durable synthesis is that An can accept a bounded legal correction while ignoring broader remonstrance against private favor.
 
@@ -42,7 +42,7 @@ The second half pairs that domestic failure with frontier and legal contrasts. [
 - [[BoRongLateHan|伯荣]] - Wang Sheng's daughter whose favored position connects Wang's household to Liu Gui's title path.
 - [[LiuGuiLateHan|刘瑰]] - marries Bo Rong, gains palace access, and receives the Shaoyang marquisate path despite Liu Wei's nearer succession claim.
 - [[ZhaiGuiLateHan|翟瑰]] - Shangshu who broadens Yang Zhen's objection into a warning about private households, fiscal depletion, and ruler security.
-- [[MaXianLateHan|马贤]] - Qiang-front commander whose inadequate appeasement and mixed campaign result precede later Hanji 797 and Shun-era layers.
+- [[MaXianLateHan|马贤]] - Qiang-front commander whose inadequate appeasement and mixed campaign result precede later 汉纪 797 and Shun-era layers.
 - [[LiuKaiEasternHan|刘恺]] - former situ appointed taiwei who opposes extending corruption punishment to descendants.
 - [[FengShiFavoriteLateHan|冯石]] - Weiwei and Huojia Hou whose household receives An's residence, gifts, and office appointments.
 - [[Xianbei|鲜卑]] - northern frontier pressure actor raiding Juyong, besieging Xu Chang, and later attacking Xuantu.
@@ -51,6 +51,6 @@ The second half pairs that domestic failure with frontier and legal contrasts. [
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages. The episode refines chronology by adding a 120-121 CE layer before Hanji 797-802's later An-era crises.
+- No settled contradiction with existing wiki pages. The episode refines chronology by adding a 120-121 CE layer before 汉纪 797-802's later An-era crises.
 - Transcript forms are normalized cautiously: 薄荣 is treated as [[BoRongLateHan|伯荣]], 刘归 as [[LiuGuiLateHan|刘瑰]], 刘沪 as 刘护, 翟规 as [[ZhaiGuiLateHan|翟瑰]], and 刘凯 as [[LiuKaiEasternHan|刘恺]].
 - [[FengShiFavoriteLateHan|冯石]] is kept separate from [[FengShiLateHan|冯师]], and [[LiuKaiEasternHan|Eastern Han Liu Kai]] is kept separate from the modern [[LiuKai|Liu Kai]] page.

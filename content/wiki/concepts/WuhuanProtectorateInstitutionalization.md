@@ -14,7 +14,7 @@ Wuhuan Protectorate Institutionalization is the frontier-governance pattern wher
 
 ## Current Synthesis
 
-Hanji 726 grounds the concept in the aftermath of Hao Dan's Wuhuan submission to [[LiuXiu|Liu Xiu]]. The court enfeoffs more than eighty Wuhuan leaders, moves them inside the frontier along border commanderies, feeds and clothes them, and asks them to attract their kin. [[BanBiaoEasternHan|Ban Biao]] then argues that weak surrender officials cannot reliably control a mobile and unstable frontier group, so the state should restore the Wuhuan protector office at Ningcheng in Shanggu to manage rewards, hostages, and seasonal trade for Wuhuan and [[Xianbei|Xianbei]].
+汉纪 726 grounds the concept in the aftermath of Hao Dan's Wuhuan submission to [[LiuXiu|Liu Xiu]]. The court enfeoffs more than eighty Wuhuan leaders, moves them inside the frontier along border commanderies, feeds and clothes them, and asks them to attract their kin. [[BanBiaoEasternHan|Ban Biao]] then argues that weak surrender officials cannot reliably control a mobile and unstable frontier group, so the state should restore the Wuhuan protector office at Ningcheng in Shanggu to manage rewards, hostages, and seasonal trade for Wuhuan and [[Xianbei|Xianbei]].
 
 ## Key Claims
 
@@ -26,10 +26,10 @@ Hanji 726 grounds the concept in the aftermath of Hao Dan's Wuhuan submission to
 
 ## Evidence
 
-- Enfeoffment and settlement: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Liu Xiu grants titles to more than eighty Wuhuan leaders and moves them inside the frontier across border commanderies.
-- Material support and service: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says officials provide clothing and food while Wuhuan groups attract kin and later serve as sentries and auxiliaries against Xiongnu and Xianbei.
-- Institutional warning: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Ban Biao warns that leaving Wuhuan without strong oversight will threaten Han border populations.
-- Office design: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Liu Xiu restores the Wuhuan protector office at Ningcheng to handle rewards, hostages, and seasonal frontier trade involving Wuhuan and Xianbei.
+- Enfeoffment and settlement: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Liu Xiu grants titles to more than eighty Wuhuan leaders and moves them inside the frontier across border commanderies.
+- Material support and service: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says officials provide clothing and food while Wuhuan groups attract kin and later serve as sentries and auxiliaries against Xiongnu and Xianbei.
+- Institutional warning: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Ban Biao warns that leaving Wuhuan without strong oversight will threaten Han border populations.
+- Office design: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Liu Xiu restores the Wuhuan protector office at Ningcheng to handle rewards, hostages, and seasonal frontier trade involving Wuhuan and Xianbei.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ The source does not show the office solving all later Wuhuan instability. It als
 
 ## What Changed
 
-- Created this concept from Hanji 726 to capture Ban Biao's restoration of the Wuhuan protector office after Hao Dan's submission.
+- Created this concept from 汉纪 726 to capture Ban Biao's restoration of the Wuhuan protector office after Hao Dan's submission.
 
 ## Related Concepts
 

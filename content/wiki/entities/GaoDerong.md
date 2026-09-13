@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-高德荣 / Gao Derong enters the wiki through [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] as the positive counterexample to "穷怕了" corruption rhetoric. The episode says he also knew poverty, but converted that memory into concern that Dulongjiang residents would continue living in hardship.
+高德荣 / Gao Derong enters the wiki through [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] as the positive counterexample to "穷怕了" corruption rhetoric. The episode says he also knew poverty, but converted that memory into concern that Dulongjiang residents would continue living in hardship.
 
 ## Current Profile
 
@@ -27,19 +27,19 @@ The source uses Gao Derong as a moral and governance contrast rather than as a c
 ## Evidence
 
 Poverty memory:
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] says Gao Derong also suffered poverty in childhood.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] says Gao Derong also suffered poverty in childhood.
 
 Public-service contrast:
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] says his fear was that Dulongjiang residents would keep living bitter lives, and frames his work as leading people toward poverty alleviation.
-- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|Hanji 496]] uses Gao Derong to argue that poverty can become empathy and governance motivation rather than greed.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] says his fear was that Dulongjiang residents would keep living bitter lives, and frames his work as leading people toward poverty alleviation.
+- [[zizhi-tongjian-hanji-496-qiong-pa-le-jiemi-tanguan-zouxiang-tanfu-de-xinli-youyin-lnskbcqvjhtpfi4ikq44kpbbfnol|汉纪 496]] uses Gao Derong to argue that poverty can become empathy and governance motivation rather than greed.
 
 ## Qualifications
 
-This page is source-bounded. It does not reconstruct Gao Derong's full career, offices, policies, awards, or the broader history of Dulongjiang poverty alleviation. It records his role inside Hanji 496's contrast between corruption excuse and public responsibility.
+This page is source-bounded. It does not reconstruct Gao Derong's full career, offices, policies, awards, or the broader history of Dulongjiang poverty alleviation. It records his role inside 汉纪 496's contrast between corruption excuse and public responsibility.
 
 ## What Changed
 
-- Created the page from Hanji 496 as the positive poverty-memory counterexample.
+- Created the page from 汉纪 496 as the positive poverty-memory counterexample.
 
 ## Relationships
 

@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-周纡 / Zhou Yu enters the wiki as the Zhang-era Luoyang magistrate whose enforcement focus turns from ordinary local strongmen toward imperial relatives such as the Ma and Dou households. Hanji 752 uses him as a high-status enforcement case: real order in the capital requires disciplining the people with background, but touching those people also exposes the official.
+周纡 / Zhou Yu enters the wiki as the Zhang-era Luoyang magistrate whose enforcement focus turns from ordinary local strongmen toward imperial relatives such as the Ma and Dou households. 汉纪 752 uses him as a high-status enforcement case: real order in the capital requires disciplining the people with background, but touching those people also exposes the official.
 
 ## Current Profile
 
@@ -28,9 +28,9 @@ The risk appears in the Dou Du incident. Dou Du travels at night and is stopped 
 
 ## Evidence
 
-- Enforcement target selection: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Zhou Yu asks for the names of great powerful houses and means Ma- and Dou-level imperial relatives rather than common local bullies.
-- Local effect: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says his hard enforcement makes capital relatives uneasy and reduces unlawful behavior.
-- Backlash and release: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]] says Dou Du reports Huo Yan's obstruction, Zhou Yu is arrested, and Zhangdi releases him after several days.
+- Enforcement target selection: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says Zhou Yu asks for the names of great powerful houses and means Ma- and Dou-level imperial relatives rather than common local bullies.
+- Local effect: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says his hard enforcement makes capital relatives uneasy and reduces unlawful behavior.
+- Backlash and release: [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]] says Dou Du reports Huo Yan's obstruction, Zhou Yu is arrested, and Zhangdi releases him after several days.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source transcript writes 周瑜, but the Zhangdi-era Luoyang magistrate is n
 
 ## What Changed
 
-- Created Zhou Yu / 周纡 from Hanji 752 as the Luoyang high-status enforcement case.
+- Created Zhou Yu / 周纡 from 汉纪 752 as the Luoyang high-status enforcement case.
 
 ## Relationships
 

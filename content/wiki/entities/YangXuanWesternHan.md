@@ -10,11 +10,11 @@ last_updated: 2026-09-11
 
 ## Overview
 
-杨宣 / Yang Xuan enters the wiki through [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]] as a Western Han remonstrant who secretly warns [[HanAidi|汉哀帝]] against over-punishing [[WangZhengjun|王政君]]'s Wang-family relatives. His memorial matters because it reframes the Wang clan's treatment as a test of Aidi's succession debt to [[HanChengdi|汉成帝]] and filial duty toward the grand empress dowager.
+杨宣 / Yang Xuan enters the wiki through [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|汉纪 580]] as a Western Han remonstrant who secretly warns [[HanAidi|汉哀帝]] against over-punishing [[WangZhengjun|王政君]]'s Wang-family relatives. His memorial matters because it reframes the Wang clan's treatment as a test of Aidi's succession debt to [[HanChengdi|汉成帝]] and filial duty toward the grand empress dowager.
 
 ## Current Profile
 
-Hanji 580 says Yang Xuan writes privately after public sympathy turns toward the Wang family. His argument is not a defense of [[WangMang|王莽]] as innocent; it is a pressure argument about legitimacy. Chengdi chose Aidi as heir so that Aidi would serve Wang Zhengjun in Chengdi's place, while Wang Zhengjun is old, repeatedly bereaved, and has already seen her relatives retreat before Ding and Fu power.
+汉纪 580 says Yang Xuan writes privately after public sympathy turns toward the Wang family. His argument is not a defense of [[WangMang|王莽]] as innocent; it is a pressure argument about legitimacy. Chengdi chose Aidi as heir so that Aidi would serve Wang Zhengjun in Chengdi's place, while Wang Zhengjun is old, repeatedly bereaved, and has already seen her relatives retreat before Ding and Fu power.
 
 The memorial's most effective move is shame before the dead. Yang Xuan asks how Aidi can look toward Chengdi's tomb if he continues the excessive treatment of Chengdi's mother and maternal family. Aidi is moved and partially compensates the Wang house by enfeoffing Wang Shang's second son Wang Yi as Chengdu Hou.
 
@@ -28,18 +28,18 @@ The memorial's most effective move is shame before the dead. Yang Xuan asks how 
 
 ## Evidence
 
-- Secret memorial: [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]] says Yang Xuan privately remonstrates with Aidi after the Wang family's treatment becomes widely pitied.
-- Succession-duty argument: [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]] says Yang Xuan ties Chengdi's choice of Aidi to service toward Wang Zhengjun.
-- Dowager sympathy: [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]] says Yang Xuan emphasizes Wang Zhengjun's age, repeated mourning, and relatives' retreat before Ding and Fu houses.
-- Effect: [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]] says Aidi is moved and enfeoffs Wang Yi as Chengdu Hou.
+- Secret memorial: [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|汉纪 580]] says Yang Xuan privately remonstrates with Aidi after the Wang family's treatment becomes widely pitied.
+- Succession-duty argument: [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|汉纪 580]] says Yang Xuan ties Chengdi's choice of Aidi to service toward Wang Zhengjun.
+- Dowager sympathy: [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|汉纪 580]] says Yang Xuan emphasizes Wang Zhengjun's age, repeated mourning, and relatives' retreat before Ding and Fu houses.
+- Effect: [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|汉纪 580]] says Aidi is moved and enfeoffs Wang Yi as Chengdu Hou.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 580. The source does not reconstruct Yang Xuan's full office career, the complete memorial, Wang Yi's later biography, or Yang Xuan's private factional alignment.
+This page is source-scoped to 汉纪 580. The source does not reconstruct Yang Xuan's full office career, the complete memorial, Wang Yi's later biography, or Yang Xuan's private factional alignment.
 
 ## What Changed
 
-- Created the page from Hanji 580's secret memorial defending limits on the anti-Wang-family purge.
+- Created the page from 汉纪 580's secret memorial defending limits on the anti-Wang-family purge.
 
 ## Relationships
 

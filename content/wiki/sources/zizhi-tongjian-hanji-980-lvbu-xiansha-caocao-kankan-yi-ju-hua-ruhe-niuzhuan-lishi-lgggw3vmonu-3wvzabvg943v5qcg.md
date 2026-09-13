@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》980丨吕布险杀曹操？看看一句话如何扭转历史
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[CaoCao|曹操]]'s [[PuyangBattleLateHan|濮阳之战]] crisis immediately before [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]]. [[PuyangTianClan|濮阳田氏]] lure Cao Cao into [[PuyangLateHan|濮阳]] with a false inside-response signal, [[DianWei|典韦]] stabilizes the front, and Cao Cao survives after misleading a [[LyuBu|吕布]] cavalryman with the yellow-horse line. The host turns the episode into [[CrisisDeceptionSurvival|临危欺敌求生]] and a late-Han logistics lesson: morale repair, weapons preparation, locust damage, and grain exhaustion make [[YanzhouLateHan|兖州]] recovery depend on more than personal bravery.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[CaoCao|曹操]]'s [[PuyangBattleLateHan|濮阳之战]] crisis immediately before [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|汉纪 981]]. [[PuyangTianClan|濮阳田氏]] lure Cao Cao into [[PuyangLateHan|濮阳]] with a false inside-response signal, [[DianWei|典韦]] stabilizes the front, and Cao Cao survives after misleading a [[LyuBu|吕布]] cavalryman with the yellow-horse line. The host turns the episode into [[CrisisDeceptionSurvival|临危欺敌求生]] and a late-Han logistics lesson: morale repair, weapons preparation, locust damage, and grain exhaustion make [[YanzhouLateHan|兖州]] recovery depend on more than personal bravery.
 
 ## Key Claims
 - [[PuyangTianClan|濮阳田氏]] pretend to act as Cao Cao's inside supporters, and Cao Cao accepts the signal strongly enough to enter [[PuyangLateHan|濮阳]] and burn the east gate behind him.
@@ -39,8 +39,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [
 - [[CrisisDeceptionSurvival|临危欺敌求生]], [[BattlefieldInformationControl|战场信息控制]], and [[MilitaryMoraleThroughSharedHardship|同甘共苦式士气]] - crisis deception, perception control, and post-escape morale repair.
 - [[YanzhouLateHan|兖州]], [[WarCostTempoDiscipline|战争成本与速决纪律]], [[LiJinLateHan|李进]], and [[ChengshiCountyLateHan|乘氏县]] - campaign attrition, local defeat of Lü Bu, and Yanzhou-base pressure.
 - [[SunziBingfa|《孙子兵法》]], [[Liutao|《六韬》]], and [[Wuzi|《吴子》]] - military-text frames used in the host's interpretation.
-- [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|Hanji 981]], [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]], and [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|Hanji 987]] - adjacent Yanzhou and Cao Cao-Lü Bu recovery sources.
+- [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth|汉纪 981]], [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|汉纪 986]], and [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave|汉纪 987]] - adjacent Yanzhou and Cao Cao-Lü Bu recovery sources.
 
 ## Contradictions
-- No settled contradiction found. This source fills an earlier Puyang crisis before Hanji 981's Yuan Shao hostage-demand branch and before Hanji 986/987's later Yanzhou recovery and Dingtao sequence.
+- No settled contradiction found. This source fills an earlier Puyang crisis before 汉纪 981's Yuan Shao hostage-demand branch and before 汉纪 986/987's later Yanzhou recovery and Dingtao sequence.
 - Source-scope caution: the host's strong praise of Cao Cao, the "Lü Bu has bravery but little strategy" contrast, and the closing life-advice extension are preserved as interpretation rather than independent motive proof.

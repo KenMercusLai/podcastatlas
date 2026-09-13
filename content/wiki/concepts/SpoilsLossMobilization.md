@@ -16,7 +16,7 @@ Spoils-loss mobilization is the coercive leadership tactic of turning soldiers' 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] gives the concept through [[DuShangLateHan|度尚 / 杜尚]]'s 164 CE campaign against [[BuYangLateHan|卜阳]] and [[PanHongLateHan|潘鸿]]. After earlier victories, Du Shang sees that soldiers who have captured treasure now want to keep what they have rather than risk another hard fight.
+[[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] gives the concept through [[DuShangLateHan|度尚 / 杜尚]]'s 164 CE campaign against [[BuYangLateHan|卜阳]] and [[PanHongLateHan|潘鸿]]. After earlier victories, Du Shang sees that soldiers who have captured treasure now want to keep what they have rather than risk another hard fight.
 
 His response is manipulative and effective. He sends the troops out hunting, secretly burns the camp and captured wealth, then tells the grieving soldiers that the enemy still has much more treasure. The tactic converts satisfaction into loss, loss into anger and desire, and desire into voluntary demand for attack. Its success still depends on operational timing: the troops are fed, horses are prepared, and the enemy stronghold is struck at dawn while unready.
 
@@ -30,10 +30,10 @@ His response is manipulative and effective. He sends the troops out hunting, sec
 
 ## Evidence
 
-- Demobilizing wealth: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says Du Shang notices that soldiers become less urgent after earlier victories and treasure capture.
-- Staged absence: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says Du Shang sends the army hunting before secretly having trusted aides burn the camp stores.
-- Reframed loss: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says he tells the soldiers that the burned goods are only a small share of the enemy's accumulated wealth.
-- Operational conversion: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says soldiers demand immediate attack, Du Shang prepares horses and food, and the army destroys the unprepared stronghold at dawn.
+- Demobilizing wealth: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says Du Shang notices that soldiers become less urgent after earlier victories and treasure capture.
+- Staged absence: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says Du Shang sends the army hunting before secretly having trusted aides burn the camp stores.
+- Reframed loss: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says he tells the soldiers that the burned goods are only a small share of the enemy's accumulated wealth.
+- Operational conversion: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says soldiers demand immediate attack, Du Shang prepares horses and food, and the army destroys the unprepared stronghold at dawn.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ This concept is drawn from one source-scoped campaign anecdote. The wiki records
 
 ## What Changed
 
-- Created the concept from Hanji 863's account of Du Shang burning captured spoils to restart troop motivation.
+- Created the concept from 汉纪 863's account of Du Shang burning captured spoils to restart troop motivation.
 
 ## Related Concepts
 

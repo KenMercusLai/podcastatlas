@@ -15,9 +15,9 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 775 supplies the immediate demand prelude without naming the later material. [[EmpressDowagerDengLateHan|Deng]] is portrayed as preferring books, calligraphy, and painting over jewels, and the episode ends with an unnamed official looking for a soft, light, convenient writing and painting medium to please her. This establishes the court-material need that Hanji 776 then names and develops.
+汉纪 775 supplies the immediate demand prelude without naming the later material. [[EmpressDowagerDengLateHan|Deng]] is portrayed as preferring books, calligraphy, and painting over jewels, and the episode ends with an unnamed official looking for a soft, light, convenient writing and painting medium to please her. This establishes the court-material need that 汉纪 776 then names and develops.
 
-Hanji 776 presents [[CaiLunLateHan|Cai Lun]]'s paper-making work as a court-material response rather than an isolated flash of genius. Deng is portrayed as preferring books, calligraphy, painting, pens, ink, and frugality over rare treasures, while Cai Lun's shangfang role gives him both production responsibility and proximity to imperial needs.
+汉纪 776 presents [[CaiLunLateHan|Cai Lun]]'s paper-making work as a court-material response rather than an isolated flash of genius. Deng is portrayed as preferring books, calligraphy, painting, pens, ink, and frugality over rare treasures, while Cai Lun's shangfang role gives him both production responsibility and proximity to imperial needs.
 
 The technical contribution is described through material substitution and process. Cai Lun uses cheap fiber sources such as old hemp objects and bark, applies repeated processing, and produces a soft, light writing surface. The episode then emphasizes court validation: he presents the result to [[EmperorHeOfHan|Emperor He]], gains praise, and the method spreads.
 
@@ -33,20 +33,20 @@ The concept's current judgment is narrow. It does not settle the full invention 
 
 ## Evidence
 
-- Demand prelude: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] links Deng's love of books, calligraphy, and painting to a search for a lighter, softer, easier writing material, but leaves the official and material unnamed.
-- Demand context: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] links Deng's literary interests and frugality to the search for a better writing material.
-- Workshop capacity: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] places Cai Lun in the palace production system as zhongchangshi and shangfang ling.
-- Material process: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says cheap fiber materials and multiple processing steps produce light, soft paper.
-- Diffusion path: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] says Cai Lun presents the paper to Emperor He, receives praise, and the process is widely promoted.
+- Demand prelude: [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|汉纪 775]] links Deng's love of books, calligraphy, and painting to a search for a lighter, softer, easier writing material, but leaves the official and material unnamed.
+- Demand context: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] links Deng's literary interests and frugality to the search for a better writing material.
+- Workshop capacity: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] places Cai Lun in the palace production system as zhongchangshi and shangfang ling.
+- Material process: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] says cheap fiber materials and multiple processing steps produce light, soft paper.
+- Diffusion path: [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] says Cai Lun presents the paper to Emperor He, receives praise, and the process is widely promoted.
 
 ## Counterevidence & Qualifications
 
-The episode title's "invented papermaking" framing in Hanji 776 is stronger than the safest current synthesis. Hanji 775 is even more preliminary: it supplies only the court-demand teaser and does not name Cai Lun or paper. The source notes do not compare archaeological paper evidence, earlier writing materials, or non-court craft traditions. The concept therefore remains source-scoped to court-backed improvement, presentation, and spread of a fiber-paper process.
+The episode title's "invented papermaking" framing in 汉纪 776 is stronger than the safest current synthesis. 汉纪 775 is even more preliminary: it supplies only the court-demand teaser and does not name Cai Lun or paper. The source notes do not compare archaeological paper evidence, earlier writing materials, or non-court craft traditions. The concept therefore remains source-scoped to court-backed improvement, presentation, and spread of a fiber-paper process.
 
 ## What Changed
 
-- Added Hanji 775 as the demand-prelude layer: Deng's literary tastes and the search for a light writing and painting material.
-- Preserved Hanji 776 as the named Cai Lun, process-improvement, presentation, and diffusion evidence.
+- Added 汉纪 775 as the demand-prelude layer: Deng's literary tastes and the search for a light writing and painting material.
+- Preserved 汉纪 776 as the named Cai Lun, process-improvement, presentation, and diffusion evidence.
 - Kept the cautious attribution boundary between invention language and the narrower evidence for process improvement and diffusion.
 
 ## Related Concepts

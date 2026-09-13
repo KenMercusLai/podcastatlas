@@ -14,7 +14,7 @@ Delayed canonical recognition / 延迟经典化 names the pattern in which a wor
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] grounds the concept through [[YangXiong|扬雄]]. The episode says Yang Xiong is poor, low-key, underpromoted, and unimpressive by salary, rank, and appearance, so many contemporaries ignore his talent. Yet his writing, especially [[Fangyan|《方言》]] and the broader works praised by [[HuanTanEasternHan|桓谭]], is presented as culturally durable.
+[[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] grounds the concept through [[YangXiong|扬雄]]. The episode says Yang Xiong is poor, low-key, underpromoted, and unimpressive by salary, rank, and appearance, so many contemporaries ignore his talent. Yet his writing, especially [[Fangyan|《方言》]] and the broader works praised by [[HuanTanEasternHan|桓谭]], is presented as culturally durable.
 
 The concept is not simple "genius misunderstood by fools." The source's sharper claim is that contemporaries often use social signals as proxies for value. Huan Tan's defense of Yang Xiong argues that works can exceed their author's immediate office and reputation when their meaning is deep and compatible with a durable moral-intellectual tradition.
 
@@ -28,17 +28,17 @@ The concept is not simple "genius misunderstood by fools." The source's sharper 
 
 ## Evidence
 
-- Status-marker distortion: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says contemporaries slight Yang Xiong because his rank, salary, and appearance are unimpressive.
-- Durable work: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] presents Fangyan as a twenty-seven-year scholarly work with major cultural-historical value.
-- Later judgment: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Huan Tan predicts Yang Xiong's works will be transmitted and valued beyond his own generation.
+- Status-marker distortion: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says contemporaries slight Yang Xiong because his rank, salary, and appearance are unimpressive.
+- Durable work: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] presents Fangyan as a twenty-seven-year scholarly work with major cultural-historical value.
+- Later judgment: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Huan Tan predicts Yang Xiong's works will be transmitted and valued beyond his own generation.
 
 ## Counterevidence & Qualifications
 
-The current evidence is a single episode's reception frame around Yang Xiong, so the concept should remain modest until more cases accumulate. It does not prove that all neglected works become classics, nor that contemporary neglect is always mistaken. The bounded claim is that Hanji 654 gives one explicit mechanism: social rank can obscure textual value until later readers reassess it.
+The current evidence is a single episode's reception frame around Yang Xiong, so the concept should remain modest until more cases accumulate. It does not prove that all neglected works become classics, nor that contemporary neglect is always mistaken. The bounded claim is that 汉纪 654 gives one explicit mechanism: social rank can obscure textual value until later readers reassess it.
 
 ## What Changed
 
-- Created this concept from Hanji 654 to capture Huan Tan's delayed-recognition judgment on Yang Xiong.
+- Created this concept from 汉纪 654 to capture Huan Tan's delayed-recognition judgment on Yang Xiong.
 
 ## Related Concepts
 

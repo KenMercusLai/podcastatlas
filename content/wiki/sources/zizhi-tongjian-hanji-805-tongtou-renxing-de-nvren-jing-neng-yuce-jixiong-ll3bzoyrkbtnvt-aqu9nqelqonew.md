@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate 125-126 CE settlement after [[EmperorShunOfHan|汉顺帝]]'s eunuch-backed accession and before [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]]. It records Liu Yi / Beixiang Hou's princely burial, [[YangZhenLateHan|杨震]]'s vindication, the Yan-family purge, the debate over [[EmpressDowagerYanLateHan|阎太后]], and early personnel, frontier, and Xianbei pressures.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate 125-126 CE settlement after [[EmperorShunOfHan|汉顺帝]]'s eunuch-backed accession and before [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|汉纪 806]]. It records Liu Yi / Beixiang Hou's princely burial, [[YangZhenLateHan|杨震]]'s vindication, the Yan-family purge, the debate over [[EmpressDowagerYanLateHan|阎太后]], and early personnel, frontier, and Xianbei pressures.
 
 The second half turns to [[YuXuEasternHan|虞诩]] as Shun's cleanup instrument against Yan-side ministers and older palace eunuchs. The durable synthesis is that post-coup legitimacy depends on pairing hard liquidation of the defeated network with ritually visible treatment of the defeated dowager, while cleanup agents can quickly become targets of the bureaucracy they are used to discipline.
 
@@ -44,7 +44,7 @@ The second half turns to [[YuXuEasternHan|虞诩]] as Shun's cleanup instrument 
 - [[YangZhenLateHan|杨震]], [[MingqiLegitimacy|名器合法性]], and [[ImperialBurialLegitimacy|帝后合葬名分]] - posthumous vindication, reburial, and sacrifice turn moral reputation into public ritual repair.
 - [[YuXuEasternHan|虞诩]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[DeathDefyingRemonstrance|赴死式直谏]] - Yu Xu's hard prosecution and self-defense expose a court where public correction and bureaucratic retaliation collide.
 - [[MaXianLateHan|马贤]], [[Xianbei|鲜卑]], and [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - early frontier success coexists with raids and later command-fit questions.
-- [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] - next source layer where Yu Xu's anti-Zhang Fang prosecution and Sun Cheng's merit backlash continue the opening Shun-era power settlement.
+- [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|汉纪 806]] - next source layer where Yu Xu's anti-Zhang Fang prosecution and Sun Cheng's merit backlash continue the opening Shun-era power settlement.
 
 ## Contradictions
 

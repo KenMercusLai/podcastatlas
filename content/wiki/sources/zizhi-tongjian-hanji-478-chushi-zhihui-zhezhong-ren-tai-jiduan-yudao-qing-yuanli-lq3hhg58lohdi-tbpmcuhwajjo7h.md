@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an earlier Yongguang 1 / 43 BCE personnel-and-character-judgment case under [[HanYuandi|汉元帝]], immediately before [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|Hanji 479]]. It reads [[YangXingWesternHan|杨兴]], [[ZhugeFengWesternHan|诸葛丰]], [[ZhengPengWesternHan|郑朋]], and [[GongYuWesternHan|贡禹]] as different forms of unprincipled political behavior around [[ZhouKanWesternHan|周堪]], [[ZhangMengWesternHan|张萌]], [[ShiXianWesternHan|石显]], and the wider anti-Xiao-Wangzhi court field.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an earlier Yongguang 1 / 43 BCE personnel-and-character-judgment case under [[HanYuandi|汉元帝]], immediately before [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|汉纪 479]]. It reads [[YangXingWesternHan|杨兴]], [[ZhugeFengWesternHan|诸葛丰]], [[ZhengPengWesternHan|郑朋]], and [[GongYuWesternHan|贡禹]] as different forms of unprincipled political behavior around [[ZhouKanWesternHan|周堪]], [[ZhangMengWesternHan|张萌]], [[ShiXianWesternHan|石显]], and the wider anti-Xiao-Wangzhi court field.
 
 The durable synthesis is that opportunism is not only open factional aggression. It can appear as over-reading the ruler's mood, reversing praise into denunciation, turning private resentment into political accusation, or offering harmless advice while avoiding the decisive problem. The host places ultimate responsibility partly on Yuan's wavering rule: an unsteady superior encourages subordinates to gamble on signals rather than principles.
 

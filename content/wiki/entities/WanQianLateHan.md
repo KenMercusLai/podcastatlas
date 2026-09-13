@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 万潜 / Wan Qian (late Han)
 
-万潜 / Wan Qian enters the wiki through [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] as one of the [[YanzhouLateHan|兖州]] officials who, together with [[BaoXin|鲍信]], invites [[CaoCao|曹操]] to take over after [[LiuDaiLateHan|刘岱]] dies fighting the [[QingzhouYellowTurbans|青州黄巾军]].
+万潜 / Wan Qian enters the wiki through [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|汉纪 964]] as one of the [[YanzhouLateHan|兖州]] officials who, together with [[BaoXin|鲍信]], invites [[CaoCao|曹操]] to take over after [[LiuDaiLateHan|刘岱]] dies fighting the [[QingzhouYellowTurbans|青州黄巾军]].
 
 The page is source-scoped because the episode does not develop Wan Qian beyond this invitation role. His importance is institutional rather than biographical: Cao Cao's Yanzhou entry is presented not as a simple conquest, but as a crisis succession mediated by local officials after a failed provincial defense.
 

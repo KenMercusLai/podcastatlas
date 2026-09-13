@@ -12,7 +12,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-贤解羌 / Xianjie Qiang enters the wiki through [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]] as the Qiang branch or leader-associated group whose rebellion in [[LongxiCommandery|陇西郡]] triggers [[FengFengshiWesternHan|冯奉世]]'s force-size debate under [[HanYuandi|汉元帝]].
+贤解羌 / Xianjie Qiang enters the wiki through [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|汉纪 481]] as the Qiang branch or leader-associated group whose rebellion in [[LongxiCommandery|陇西郡]] triggers [[FengFengshiWesternHan|冯奉世]]'s force-size debate under [[HanYuandi|汉元帝]].
 
 ## Current Profile
 
@@ -30,10 +30,10 @@ The page therefore preserves a narrow entity identity. It does not merge Xianjie
 
 ## Evidence
 
-- Rebellion setting: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]] says the Xianjie-linked Qiang group rebels in Longxi in Yongguang 2 / 42 BCE.
-- Strength estimate: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]] says Feng Fengshi judges the rebel side at more than thirty thousand.
-- Deterrence risk: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]] says Feng warns that weak Han response may encourage other groups to ally or respond.
-- Campaign consequence: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]] says an early Han detachment is defeated before Yuan sends larger reinforcements.
+- Rebellion setting: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|汉纪 481]] says the Xianjie-linked Qiang group rebels in Longxi in Yongguang 2 / 42 BCE.
+- Strength estimate: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|汉纪 481]] says Feng Fengshi judges the rebel side at more than thirty thousand.
+- Deterrence risk: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|汉纪 481]] says Feng warns that weak Han response may encourage other groups to ally or respond.
+- Campaign consequence: [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|汉纪 481]] says an early Han detachment is defeated before Yuan sends larger reinforcements.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ The transcript does not establish whether Xianjie is a personal name, sub-branch
 
 ## What Changed
 
-- Created a bounded Western Han Xianjie Qiang page for the Longxi rebellion in Hanji 481.
+- Created a bounded Western Han Xianjie Qiang page for the Longxi rebellion in 汉纪 481.
 
 ## Relationships
 

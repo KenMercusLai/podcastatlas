@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》148-2｜烹了王陵母亲 项羽杀人诛心
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|Hanji 148-1]] by showing how [[HanXin|韩信]]'s Guanzhong victory changes [[LiuBang|刘邦]]'s room for action and brings [[WangLingHanMinister|王陵]] closer to the Han side. Its central scene is [[XiangYu|项羽]]'s attempt to coerce Wang Ling through [[WangLingMother|王陵母亲]], whose suicide removes the hostage leverage and turns Xiang Yu's later corpse-burning order into a political backfire. The episode then widens to Liu Bang's continued use of the [[HuaiwangAgreement|怀王之约]] claim while [[TianRong|田荣]], [[PengYue|彭越]], Yan unrest, and [[MiXin|芈心 / 楚怀王]]'s forced relocation keep Xiang Yu's settlement under pressure.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-148-1-hanxin-yupan-le-zhanghan-de-yupan-lodhpuxpossjno87gorjkfrtitbe|汉纪 148-1]] by showing how [[HanXin|韩信]]'s Guanzhong victory changes [[LiuBang|刘邦]]'s room for action and brings [[WangLingHanMinister|王陵]] closer to the Han side. Its central scene is [[XiangYu|项羽]]'s attempt to coerce Wang Ling through [[WangLingMother|王陵母亲]], whose suicide removes the hostage leverage and turns Xiang Yu's later corpse-burning order into a political backfire. The episode then widens to Liu Bang's continued use of the [[HuaiwangAgreement|怀王之约]] claim while [[TianRong|田荣]], [[PengYue|彭越]], Yan unrest, and [[MiXin|芈心 / 楚怀王]]'s forced relocation keep Xiang Yu's settlement under pressure.
 
 ## Key Claims
 - Han Xin's victory in Guanzhong gives Liu Bang's group a credible path out of Hanzhong confinement and raises Han Xin's prestige inside the army.

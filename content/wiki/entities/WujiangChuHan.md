@@ -8,14 +8,14 @@ last_updated: 2026-08-23
 
 # 乌江 / Wujiang (Chu-Han)
 
-乌江 / Wujiang (Chu-Han) enters the wiki through [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] as [[XiangYu|项羽]]'s final crossing point after [[DongchengChuHan|东城]]. The [[WujiangPavilionChief|乌江亭长]] brings the only boat and urges Xiang Yu to cross back toward Jiangdong, where he could still claim land, people, and a chance to continue.
+乌江 / Wujiang (Chu-Han) enters the wiki through [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|汉纪 168 part 2]] as [[XiangYu|项羽]]'s final crossing point after [[DongchengChuHan|东城]]. The [[WujiangPavilionChief|乌江亭长]] brings the only boat and urges Xiang Yu to cross back toward Jiangdong, where he could still claim land, people, and a chance to continue.
 
 The episode makes Wujiang a decision point rather than a mere death setting. Xiang Yu initially appears to be moving toward crossing, but then refuses by saying Heaven wants to destroy him and that he has no face to meet the Jiangdong elders after losing the eight thousand men who followed him west. In the host's reading, this is the final form of a pattern: shame and self-image displace strategic recovery.
 
 Wujiang also contains Xiang Yu's last separation from [[WuzhuiHorse|乌骓马]]. He gives the horse to the pavilion chief, releases the remaining horses, fights on foot with his surviving men, and finally dies after the Han pursuers arrive.
 
 ## Connections
-- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] - source episode for the Wujiang refusal and self-killing.
+- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|汉纪 168 part 2]] - source episode for the Wujiang refusal and self-killing.
 - [[XiangYu|项羽]] - final actor whose refusal makes Wujiang culturally decisive.
 - [[WujiangPavilionChief|乌江亭长]] - local official who presents the escape route.
 - [[WuzhuiHorse|乌骓马]] - horse given away before the last fight.

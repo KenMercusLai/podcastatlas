@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] creates the concept through [[YuanHongChenliuLateHan|袁闳]]. Yuan Hong first gives [[EmperorHuanOfHan|汉桓帝]] a blunt assessment and is promoted, so the source does not treat exit as a default refusal to serve. The exit comes later, after Yuan packages a strange-star warning into a sealed memorial about [[DengWanshiLateHan|邓万世]], companion choice, flattery, and ruler-minister boundaries. Huan gives no answer, and Yuan claims illness to return home.
+[[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|汉纪 852]] creates the concept through [[YuanHongChenliuLateHan|袁闳]]. Yuan Hong first gives [[EmperorHuanOfHan|汉桓帝]] a blunt assessment and is promoted, so the source does not treat exit as a default refusal to serve. The exit comes later, after Yuan packages a strange-star warning into a sealed memorial about [[DengWanshiLateHan|邓万世]], companion choice, flattery, and ruler-minister boundaries. Huan gives no answer, and Yuan claims illness to return home.
 
 The episode's closing generalizes this as a court-survival discipline: figures who advise powerful people must also know when the advice has failed. The practical point is not passivity, but avoiding repeated collision with a decision field one cannot move. It overlaps with [[CrisisWithdrawalSelfProtection|危局抽身自保]], but its trigger is narrower: counsel has already been offered and not accepted.
 
@@ -29,18 +29,18 @@ The episode's closing generalizes this as a court-survival discipline: figures w
 
 ## Evidence
 
-- Initial direct counsel: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Yuan Hong tells Huan he is a middle-grade ruler and is promoted afterward.
-- Later warning: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Yuan uses an anomalous star inquiry to criticize Deng Wanshi's favor and companion-choice risk.
-- Nonresponse trigger: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Huan does not respond to the sealed memorial.
-- Withdrawal action: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] says Yuan claims illness and returns to his home village.
+- Initial direct counsel: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|汉纪 852]] says Yuan Hong tells Huan he is a middle-grade ruler and is promoted afterward.
+- Later warning: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|汉纪 852]] says Yuan uses an anomalous star inquiry to criticize Deng Wanshi's favor and companion-choice risk.
+- Nonresponse trigger: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|汉纪 852]] says Huan does not respond to the sealed memorial.
+- Withdrawal action: [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|汉纪 852]] says Yuan claims illness and returns to his home village.
 
 ## Counterevidence & Qualifications
 
-The concept should not be turned into a rule that advisers should always leave after one refusal. Hanji 852 itself shows mixed receptivity: Chen Fan's memorial produces partial release of palace women, and Yuan Hong's first blunt criticism leads to promotion. The exit logic becomes stronger only after the later sealed memorial receives no answer and the criticized favorite structure remains in place.
+The concept should not be turned into a rule that advisers should always leave after one refusal. 汉纪 852 itself shows mixed receptivity: Chen Fan's memorial produces partial release of palace women, and Yuan Hong's first blunt criticism leads to promotion. The exit logic becomes stronger only after the later sealed memorial receives no answer and the criticized favorite structure remains in place.
 
 ## What Changed
 
-- Initial concept created from Hanji 852's Yuan Hong withdrawal sequence.
+- Initial concept created from 汉纪 852's Yuan Hong withdrawal sequence.
 
 ## Related Concepts
 

@@ -10,17 +10,17 @@ last_updated: 2026-08-31
 
 ## Overview
 
-虚骨都侯 / Xugu Duhou is the Southern Xiongnu actor in Hanji 737 whose attempted contact with [[NorthernXiongnuLateHan|北匈奴]] helps trigger the creation of [[DuliaoCampEasternHan|都辽营]]. The page treats the name as source-scoped: it preserves the transcript's title/name form and uses it to mark the moment when Han-Northern envoy contact unsettles a submitted frontier partner.
+虚骨都侯 / Xugu Duhou is the Southern Xiongnu actor in 汉纪 737 whose attempted contact with [[NorthernXiongnuLateHan|北匈奴]] helps trigger the creation of [[DuliaoCampEasternHan|都辽营]]. The page treats the name as source-scoped: it preserves the transcript's title/name form and uses it to mark the moment when Han-Northern envoy contact unsettles a submitted frontier partner.
 
 ## Current Profile
 
-Hanji 737 says Xugu Duhou resents the Han court's communication with Northern Xiongnu. That resentment becomes operational: he secretly seeks Northern Xiongnu help and prepares rebellion. [[ZhengZhongFrontierEasternHan|郑众]], while crossing the frontier, detects the movement and captures Xugu Duhou's messenger.
+汉纪 737 says Xugu Duhou resents the Han court's communication with Northern Xiongnu. That resentment becomes operational: he secretly seeks Northern Xiongnu help and prepares rebellion. [[ZhengZhongFrontierEasternHan|郑众]], while crossing the frontier, detects the movement and captures Xugu Duhou's messenger.
 
 The episode uses this incident to explain why an earlier proposal for a Wuyuan-based Duliao general becomes urgent. Xugu Duhou therefore matters less as a fully biographical figure than as evidence that diplomacy with one frontier branch can destabilize a relationship with another.
 
 ## Key Characteristics
 
-- Source-scoped Southern Xiongnu actor or title preserved from Hanji 737.
+- Source-scoped Southern Xiongnu actor or title preserved from 汉纪 737.
 - Reacts negatively to Han contact with Northern Xiongnu.
 - Attempts covert coordination with the northern branch before open rebellion.
 - Has his messenger captured by Zheng Zhong.
@@ -28,10 +28,10 @@ The episode uses this incident to explain why an earlier proposal for a Wuyuan-b
 
 ## Evidence
 
-- Resentment trigger: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Xugu Duhou resents Han-Northern envoy contact.
-- Covert contact: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says he secretly seeks Northern Xiongnu help and plans rebellion.
-- Messenger capture: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Zheng Zhong catches his messenger while crossing the frontier.
-- Institutional result: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says the court creates Duliaoying after Zheng reports the plot.
+- Resentment trigger: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Xugu Duhou resents Han-Northern envoy contact.
+- Covert contact: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says he secretly seeks Northern Xiongnu help and plans rebellion.
+- Messenger capture: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Zheng Zhong catches his messenger while crossing the frontier.
+- Institutional result: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says the court creates Duliaoying after Zheng reports the plot.
 
 ## Qualifications
 

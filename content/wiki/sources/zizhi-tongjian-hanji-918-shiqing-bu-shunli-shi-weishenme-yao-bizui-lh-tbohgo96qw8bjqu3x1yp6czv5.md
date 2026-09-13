@@ -13,12 +13,12 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》918丨事情不顺利时，为什么要闭嘴？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 179-180 CE late-Han sequence immediately before [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]]. It opens with [[AdversitySilenceDiscipline|adversity silence discipline]], then uses [[LiuHeSituLateHan|刘郃]], [[ChenQiuLateHan|陈球]], [[LiuNaLateHan|刘纳]], and [[YangQiuLateHan|阳球]] to show an anti-[[CaoJieLateHan|曹节]] plot destroyed by household leakage through [[ChengHuangLateHan|程璜]]. The closing branch places [[EmpressDowagerHe|何皇后 / 何太后]], [[HeJin|何进]], [[LiuBianHongnongWang|刘辩]], and [[HeZhenLateHan|何真]] at the start of the He-family rise before later succession and eunuch-politics episodes.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 179-180 CE late-Han sequence immediately before [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|汉纪 919]]. It opens with [[AdversitySilenceDiscipline|adversity silence discipline]], then uses [[LiuHeSituLateHan|刘郃]], [[ChenQiuLateHan|陈球]], [[LiuNaLateHan|刘纳]], and [[YangQiuLateHan|阳球]] to show an anti-[[CaoJieLateHan|曹节]] plot destroyed by household leakage through [[ChengHuangLateHan|程璜]]. The closing branch places [[EmpressDowagerHe|何皇后 / 何太后]], [[HeJin|何进]], [[LiuBianHongnongWang|刘辩]], and [[HeZhenLateHan|何真]] at the start of the He-family rise before later succession and eunuch-politics episodes.
 
 ## Key Claims
 - The opening "闭嘴" frame is not simple passivity: in an adverse or unclear situation, arguing, venting, or overexplaining can leak information, create blame surfaces, and consume judgment that should be used for review.
 - [[LiuHeSituLateHan|刘郃]] understands the danger when he says the eunuch side has many eyes and ears, but [[ChenQiuLateHan|陈球]] and [[LiuNaLateHan|刘纳]] push him toward action by appealing to royal-clan duty, senior-office responsibility, and the earlier death of [[LiuTiaoLateHan|刘鯈]].
-- [[YangQiuLateHan|阳球]]'s household link to [[ChengHuangLateHan|程璜]] turns a private room into an information channel for [[CaoJieLateHan|曹节]], making the failed plot an earlier version of [[LethalPlanLeakageRisk|致命计划泄露风险]] before the [[HeJin|何进]] crisis in Hanji 944-946.
+- [[YangQiuLateHan|阳球]]'s household link to [[ChengHuangLateHan|程璜]] turns a private room into an information channel for [[CaoJieLateHan|曹节]], making the failed plot an earlier version of [[LethalPlanLeakageRisk|致命计划泄露风险]] before the [[HeJin|何进]] crisis in 汉纪 944-946.
 - [[EmperorLingOfHan|汉灵帝]] answers the accusation by arresting and killing Liu He, Chen Qiu, Liu Na, and Yang Qiu; the episode reads this as a court-balance move that preserves the eunuch side rather than a clean evaluation of the plot's stated anti-corruption motive.
 - The notices on [[BandunMan|板楯蛮]], [[YizhouLateHan|益州]], [[Xianbei|鲜卑]], Jiangxia Man, earthquake, and omen show late-Han breakdown as simultaneous court conflict, frontier pressure, local rebellion, and disaster.
 - [[EmpressDowagerHe|何皇后 / 何太后]]'s elevation and [[HeJin|何进]]'s appointment make the He family a new outer-relative power base: [[HeZhenLateHan|何真]]'s household ambition and selection-channel bribery are converted into imperial succession leverage once He gives birth to [[LiuBianHongnongWang|刘辩]].
@@ -44,7 +44,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[EmperorLingOfHan]] — ruler who accepts the accusation and orders the arrests.
 - [[TenAttendantsLateHan]] — later factional page extended by this pre-Ten-Attendants eunuch-power layer.
 - [[BandunMan]], [[YizhouLateHan]], and [[Xianbei]] — annalistic signs of late-Han regional and frontier pressure.
-- [[YangCiLateHan]] — appointed situ after the failed plot and before the Hanji 919 garden-remonstrance branch.
+- [[YangCiLateHan]] — appointed situ after the failed plot and before the 汉纪 919 garden-remonstrance branch.
 - [[EmpressDowagerHe]], [[HeJin]], [[LiuBianHongnongWang]], [[HeZhenLateHan]], [[HeMiaoLateHan]], and [[WuyangJun]] — He-family rise before the 189 succession crisis.
 - [[CaoCao]] and [[LadyBianCaoCao]] — early Cao household and office markers.
 - [[CommunicationBoundarySetting]], [[PoliticalSurvivalFirst]], and [[CourtFeedbackCollapse]] — broader concepts extended by the episode's speech, survival, and captured-court themes.

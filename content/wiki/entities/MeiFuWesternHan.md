@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-梅福 / Mei Fu enters the wiki through [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] as the Nanchang county commandant from Jiujiang who memorializes [[HanChengdi|汉成帝]] after [[WangZhangWesternHan|王章]] is killed for criticizing [[WangFengWesternHan|王凤]]. His role is to convert a punished-speaker case into a broader warning about blocked remonstrance, outer-relative power, and the danger of personal favorites.
+梅福 / Mei Fu enters the wiki through [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|汉纪 544]] as the Nanchang county commandant from Jiujiang who memorializes [[HanChengdi|汉成帝]] after [[WangZhangWesternHan|王章]] is killed for criticizing [[WangFengWesternHan|王凤]]. His role is to convert a punished-speaker case into a broader warning about blocked remonstrance, outer-relative power, and the danger of personal favorites.
 
 ## Current Profile
 
@@ -30,18 +30,18 @@ The episode's management analogy makes Mei Fu a voice for institutional rather t
 
 ## Evidence
 
-- Memorial setting: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] says Mei Fu responds to Wang Zhang's death and Wang Feng's power by writing to Chengdi.
-- Speech warning: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] says Mei Fu treats "天下以言为戒" as a major state danger.
-- Remonstrance model: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] preserves advice-taking phrases such as "纳善若不及" and "从谏如转环."
-- Outer-relative warning: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|Hanji 544]] says Mei Fu invokes Lu, Huo, and Shangguan precedents to warn against unconstrained relatives.
+- Memorial setting: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|汉纪 544]] says Mei Fu responds to Wang Zhang's death and Wang Feng's power by writing to Chengdi.
+- Speech warning: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|汉纪 544]] says Mei Fu treats "天下以言为戒" as a major state danger.
+- Remonstrance model: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|汉纪 544]] preserves advice-taking phrases such as "纳善若不及" and "从谏如转环."
+- Outer-relative warning: [[zizhi-tongjian-hanji-544-yuangong-yue-zhongcheng-laoban-yue-huangkong-lk52zm46585z2noqxmtfn9kpwek2|汉纪 544]] says Mei Fu invokes Lu, Huo, and Shangguan precedents to warn against unconstrained relatives.
 
 ## Qualifications
 
-This page is bounded to Hanji 544. It does not reconstruct Mei Fu's full biography, the complete memorial text, his later career, or the precise legal basis of Wang Zhang's death.
+This page is bounded to 汉纪 544. It does not reconstruct Mei Fu's full biography, the complete memorial text, his later career, or the precise legal basis of Wang Zhang's death.
 
 ## What Changed
 
-- Created the page from Hanji 544's Mei Fu memorial and organization-governance reading.
+- Created the page from 汉纪 544's Mei Fu memorial and organization-governance reading.
 
 ## Relationships
 

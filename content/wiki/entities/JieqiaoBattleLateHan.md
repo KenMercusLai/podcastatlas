@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 界桥之战 / Jieqiao Battle (late Han)
 
-界桥之战 / Jieqiao Battle (late Han) enters the wiki through [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] as the northern battle following the episode's [[XunYu|荀彧]] camp-choice story. The source places [[YuanShao|袁绍]] against [[GongsunZan|公孙瓒]] south of Jieqiao, with Gongsun Zan fielding a much larger cavalry-heavy force.
+界桥之战 / Jieqiao Battle (late Han) enters the wiki through [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|汉纪 960]] as the northern battle following the episode's [[XunYu|荀彧]] camp-choice story. The source places [[YuanShao|袁绍]] against [[GongsunZan|公孙瓒]] south of Jieqiao, with Gongsun Zan fielding a much larger cavalry-heavy force.
 
 The tactical center is [[QuYiLateHan|麹义]]. Yuan Shao sends Qu Yi forward with a small infantry body and strong crossbows. Gongsun Zan reads the small vanguard as easy to crush, orders a cavalry charge, and runs into a held shield line plus crossbow release. The episode says [[YanGangLateHan|严纲]], Gongsun Zan's appointed Jizhou inspector, and more than a thousand soldiers are killed, after which Qu Yi pursues to the enemy camp gate and removes the banner.
 

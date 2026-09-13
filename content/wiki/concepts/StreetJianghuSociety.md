@@ -41,7 +41,7 @@ An explanatory pressure point is hunger: people outside ordinary economic life, 
 This concept is not a general history of all lower-class life. Its strongest evidence comes from an episode on [[JiangHuCongTan|《江湖丛谈》]] and a short Hanji commentary, so it should preserve the distinction between documented street techniques, interpretive survival claims, and later literary Jianghu romance.
 
 ## What Changed
-- Added Hanji 483-2's hunger-and-survival explanation for marginal Jianghu destructiveness.
+- Added 汉纪 483-2's hunger-and-survival explanation for marginal Jianghu destructiveness.
 - Migrated the page to synthesis-v1 while preserving the existing source order.
 
 ## Related Concepts

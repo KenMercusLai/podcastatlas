@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》976丨三国谋士大盘点，谁是你心中的神？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode is the thematic setup for the later [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|Hanji 977]] "poison adviser" branch. It argues that Three Kingdoms advisers are not merely clever idea providers: they design legitimacy, logistics, talent networks, faction balance, and strategic operating systems. The main contrast is between [[CaoCao|曹操]] and [[LiuBei|刘备]], whose adviser systems become political capacity, and [[YuanShao|袁绍]], whose strong Hebei adviser group is wasted by leader-side decision failure.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode is the thematic setup for the later [[zizhi-tongjian-hanji-977-yi-zheng-yi-xie-luanshi-dushi-de-guijue-fengyun-lgtpgxl5anxial8ym2nt8dmuc3ee|汉纪 977]] "poison adviser" branch. It argues that Three Kingdoms advisers are not merely clever idea providers: they design legitimacy, logistics, talent networks, faction balance, and strategic operating systems. The main contrast is between [[CaoCao|曹操]] and [[LiuBei|刘备]], whose adviser systems become political capacity, and [[YuanShao|袁绍]], whose strong Hebei adviser group is wasted by leader-side decision failure.
 
 ## Key Claims
 - The episode defines advisers as builders of political systems rather than only battlefield counselors, adding [[AdviserStateArchitecture|谋士政权架构]] as a high-level frame.
@@ -21,7 +21,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode is the them
 - The episode reads Xun Yu's "奉天子以令不臣" argument as legitimacy packaging that lets Cao Cao convert the Han emperor's name into public authority.
 - Xun Yu's personnel role is framed as a [[TalentAsStateTreasure|talent-as-state-capacity]] channel: the source names [[ZhongYao|钟繇]] and also mentions Chen Qun and Sima Yi as figures in the wider recommendation chain.
 - Cao Cao's advantage is described as a team system: Xun Yu handles grand strategy, [[GuoJia|郭嘉]] supplies surprising judgment, and the transcript's "陈玉" is treated cautiously as a likely reference to [[ChengYu|程昱]] in the Cao-side gap-filling role.
-- The episode treats [[TuntianSystem|屯田制]] as part of Cao Cao's durable war capacity, but this is a retrospective thematic summary rather than the detailed [[ZaoZhi|枣祗]] and [[RenJun|任峻]] implementation account in Hanji 1008.
+- The episode treats [[TuntianSystem|屯田制]] as part of Cao Cao's durable war capacity, but this is a retrospective thematic summary rather than the detailed [[ZaoZhi|枣祗]] and [[RenJun|任峻]] implementation account in 汉纪 1008.
 - [[ZhugeLiang|诸葛亮]] is framed as the person who upgrades Liu Bei from roving warlord politics into a state-level operating system.
 - [[FaZheng|法正]] appears as the precise tactical planner in the episode's Dingjun Mountain example, linking Liu Bei's state upgrade to concrete campaign judgment.
 - Yuan Shao's failure is not lack of advisers: the source names [[JuShou|沮授]], [[TianFengLateHan|田丰]], and [[XuYouLateHan|许攸]] as a powerful Hebei adviser group that Yuan Shao fails to convert into strategic action.

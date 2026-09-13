@@ -43,7 +43,7 @@ The film's desire-symbol reading is an adaptation-specific interpretation. It sh
 ## What Changed
 
 - Migrated the page to synthesis-v1.
-- Added Hanji 456-5's reading of 朱刚烈 as desire that can be seen through before it is subdued.
+- Added 汉纪 456-5's reading of 朱刚烈 as desire that can be seen through before it is subdued.
 
 ## Relationships
 

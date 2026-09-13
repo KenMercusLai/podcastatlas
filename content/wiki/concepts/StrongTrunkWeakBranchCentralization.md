@@ -31,12 +31,12 @@ The Western Han version works through [[GuanzhongEliteRelocation|关中豪强迁
 
 - Built-environment control: [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]] reads Qin's removal of large walls and levees as reducing local ability to resist the center.
 - Precedent logic: [[zizhi-tongjian-qinji-123-1-shen-zhi-yuyan-wangqin-zhe-hu-jing-shi-zhi-lg7m3vfdbcweb4joxe4jvhxjx6y8|Qinji 123-1]] links the logic to [[Confucius|孔子]]'s "堕三都" precedent in [[LuState|鲁国]].
-- Han relocation logic: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says moving Guandong wealthy households and senior officials' families into mausoleum counties strengthens the capital and weakens local magnates.
-- Policy revival: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Chen Tang argues for reviving Changlingyi under Chengdi to address powerful-household growth and fiscal strain.
+- Han relocation logic: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says moving Guandong wealthy households and senior officials' families into mausoleum counties strengthens the capital and weakens local magnates.
+- Policy revival: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says Chen Tang argues for reviving Changlingyi under Chengdi to address powerful-household growth and fiscal strain.
 
 ## Counterevidence & Qualifications
 
-The concept should not be flattened into one institution. Qinji 123-1 concerns walls, levees, and post-conquest local capacity; Hanji 526 concerns capital-region population concentration and household relocation. Hanji 526 also records moral and political resistance to forced migration, especially ancestral-grave separation, livelihood disruption, and elite unease.
+The concept should not be flattened into one institution. Qinji 123-1 concerns walls, levees, and post-conquest local capacity; 汉纪 526 concerns capital-region population concentration and household relocation. 汉纪 526 also records moral and political resistance to forced migration, especially ancestral-grave separation, livelihood disruption, and elite unease.
 
 ## What Changed
 

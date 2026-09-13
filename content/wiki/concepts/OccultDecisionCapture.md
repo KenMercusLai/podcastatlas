@@ -14,7 +14,7 @@ Occult decision capture / 术数俘获式决策失控 is the failure mode where 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] provides two linked cases. [[TianRongYilingEasternHan|田戎]] has a concrete reason to submit after Qin Feng's defeat, but once [[XinChenEasternHan|辛臣]] contaminates the surrender channel, Tian Rong uses burned-shell divination to decide whether to submit. The cracked shell is read as inauspicious, and he rebels instead.
+[[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] provides two linked cases. [[TianRongYilingEasternHan|田戎]] has a concrete reason to submit after Qin Feng's defeat, but once [[XinChenEasternHan|辛臣]] contaminates the surrender channel, Tian Rong uses burned-shell divination to decide whether to submit. The cracked shell is read as inauspicious, and he rebels instead.
 
 [[ZhangFengZhuoEasternHan|张丰]] gives the legitimacy-fraud version. A Daoist tells him he will become emperor and ties a stone to his arm in a multicolored bag as if it contains an imperial seal. The stone's emptiness is only exposed after capture, when the political damage has already happened.
 
@@ -30,9 +30,9 @@ The concept is not a claim about every historical divination practice. Its wiki 
 
 ## Evidence
 
-- Tian Rong's reversal: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Tian Rong wants to submit after Qin Feng's defeat, but after suspicion around Xin Chen he burns a turtle shell, reads the crack as inauspicious, and rebels.
-- Zhang Feng's fake seal: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says a Daoist claims Zhang Feng will be emperor and uses a stone in a multicolored bag as supposed imperial-seal evidence.
-- Disproof after capture: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says the stone contains no seal, and Zhang Feng realizes only then that he was deceived.
+- Tian Rong's reversal: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Tian Rong wants to submit after Qin Feng's defeat, but after suspicion around Xin Chen he burns a turtle shell, reads the crack as inauspicious, and rebels.
+- Zhang Feng's fake seal: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says a Daoist claims Zhang Feng will be emperor and uses a stone in a multicolored bag as supposed imperial-seal evidence.
+- Disproof after capture: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says the stone contains no seal, and Zhang Feng realizes only then that he was deceived.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The current evidence is one episode's interpretive frame. The concept does not s
 
 ## What Changed
 
-- Created the concept from Tian Rong's burned-shell decision and Zhang Feng's fake-seal rebellion in Hanji 690.
+- Created the concept from Tian Rong's burned-shell decision and Zhang Feng's fake-seal rebellion in 汉纪 690.
 
 ## Related Concepts
 

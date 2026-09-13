@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-朱邑 / Zhu Yi enters the wiki through [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] as a Western Han senior fiscal official whose clean conduct and local reputation form the episode's non-military counterpart to [[ZhaoChongguoWesternHan|赵充国]].
+朱邑 / Zhu Yi enters the wiki through [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]] as a Western Han senior fiscal official whose clean conduct and local reputation form the episode's non-military counterpart to [[ZhaoChongguoWesternHan|赵充国]].
 
 ## Current Profile
 
@@ -29,25 +29,25 @@ Emperor Xuan praises Zhu as clean, principled, public-minded, non-factional, and
 ## Evidence
 
 Office and fiscal role:
-- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says Zhu Yi served as 大司农 and managed national rent, grain, money, salt, iron, and fiscal income.
-- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says the emperor valued him and ministers respected him.
+- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]] says Zhu Yi served as 大司农 and managed national rent, grain, money, salt, iron, and fiscal income.
+- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]] says the emperor valued him and ministers respected him.
 
 Clean conduct and public trust:
-- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says Zhu lived frugally and used salary and rewards to support kin and local people.
-- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says he left little spare money when he died, making burial difficult.
-- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says Emperor Xuan praised his clean public service, lack of party attachment, and refusal of bribery.
+- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]] says Zhu lived frugally and used salary and rewards to support kin and local people.
+- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]] says he left little spare money when he died, making burial difficult.
+- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]] says Emperor Xuan praised his clean public service, lack of party attachment, and refusal of bribery.
 
 Local memory:
-- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says Zhu asked to be buried where he had served because the local people loved him.
-- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]] says those people built his tomb and shrine and continued annual sacrifices.
+- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]] says Zhu asked to be buried where he had served because the local people loved him.
+- [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]] says those people built his tomb and shrine and continued annual sacrifices.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 439's short closing section. It does not yet reconstruct Zhu Yi's full fiscal administration, exact earlier local office, family network, or broader Han historical reception. The source's place clarification is preserved without creating a separate geography claim.
+This page is source-scoped to 汉纪 439's short closing section. It does not yet reconstruct Zhu Yi's full fiscal administration, exact earlier local office, family network, or broader Han historical reception. The source's place clarification is preserved without creating a separate geography claim.
 
 ## What Changed
 
-- Created the entity from Hanji 439 as a Western Han clean-official and local-memory case.
+- Created the entity from 汉纪 439 as a Western Han clean-official and local-memory case.
 
 ## Relationships
 

@@ -11,7 +11,7 @@ last_updated: 2026-09-06
 # 丹阳郡变 / Danyang Coup (late Han)
 
 ## Overview
-丹阳郡变 / Danyang Coup names the Hanji 1067 sequence in which [[SunYiLateHan|孙翊]] is murdered in [[DanyangCommandery|丹阳郡]], [[SunHeLateHan|孙河]] is also killed during investigation, and [[LadyXuSunYi|徐夫人]] engineers the death of the conspirators [[GuiLanLateHan|妫览]] and [[DaiYuanLateHan|戴员]].
+丹阳郡变 / Danyang Coup names the 汉纪 1067 sequence in which [[SunYiLateHan|孙翊]] is murdered in [[DanyangCommandery|丹阳郡]], [[SunHeLateHan|孙河]] is also killed during investigation, and [[LadyXuSunYi|徐夫人]] engineers the death of the conspirators [[GuiLanLateHan|妫览]] and [[DaiYuanLateHan|戴员]].
 
 ## Current Profile
 The event begins as an inside assassination. Gui Lan and Dai Yuan buy off [[BianHongLateHan|边鸿]], who kills Sun Yi at a banquet, after which the conspirators blame the murder on Bian Hong's madness. The episode frames the political background as Jiangdong's insecure local order after [[SunCe|孙策]]'s death and [[SunQuan|孙权]]'s succession.
@@ -27,13 +27,13 @@ The event then becomes a revenge-and-stabilization case. Lady Xu delays Gui Lan 
 
 ## Evidence
 **Assassination and cover story**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] describes Bian Hong killing Sun Yi and Gui Lan/Dai Yuan attributing the act to madness.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] describes Bian Hong killing Sun Yi and Gui Lan/Dai Yuan attributing the act to madness.
 
 **Sun-family exposure**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] links the conspirators to local strongman grievance after Sun-side consolidation and has Sun He killed during the follow-up.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] links the conspirators to local strongman grievance after Sun-side consolidation and has Sun He killed during the follow-up.
 
 **Revenge and cleanup**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] follows Lady Xu's ambush plan and Sun Quan's later execution of remaining conspirator households and rewards.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] follows Lady Xu's ambush plan and Sun Quan's later execution of remaining conspirator households and rewards.
 
 ## Qualifications
 This page is a source-scoped event node. It uses "coup" as a compact English label for the assassination-and-local-power seizure described by the episode, while the source itself does not supply a formal event name. Exact offices, household punishments, and non-central participants remain source-scoped.

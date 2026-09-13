@@ -10,7 +10,7 @@ last_updated: 2026-08-31
 
 ## Overview
 
-[[WangJingBianquEasternHan|王景 / Wang Jing]] enters the wiki through [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] as the Eastern Han hydraulic official who, with Wang Wu, leads the large Bianqu works separating Yellow River and Bian River flows under [[EmperorMingOfHan|汉明帝]].
+[[WangJingBianquEasternHan|王景 / Wang Jing]] enters the wiki through [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] as the Eastern Han hydraulic official who, with Wang Wu, leads the large Bianqu works separating Yellow River and Bian River flows under [[EmperorMingOfHan|汉明帝]].
 
 ## Current Profile
 
@@ -30,10 +30,10 @@ The page is deliberately disambiguated because the wiki already has [[WangJingXi
 
 ## Evidence
 
-- Appointment to works: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says Mingdi sends Wang Jing and Wang Wu to build Bianqu embankments after receiving recommendations.
-- Deferred repair context: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says Guangwu had considered repair earlier but avoided burdening people who had just suffered war.
-- Engineering scope: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] describes more than one thousand li of work from Xingyang to the Qiancheng sea outlet with sluices placed at intervals.
-- Result and cost: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says the project separates Yellow River and Bian River flows and costs in the tens of billions of cash despite Wang Jing's saving measures.
+- Appointment to works: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says Mingdi sends Wang Jing and Wang Wu to build Bianqu embankments after receiving recommendations.
+- Deferred repair context: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says Guangwu had considered repair earlier but avoided burdening people who had just suffered war.
+- Engineering scope: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] describes more than one thousand li of work from Xingyang to the Qiancheng sea outlet with sluices placed at intervals.
+- Result and cost: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says the project separates Yellow River and Bian River flows and costs in the tens of billions of cash despite Wang Jing's saving measures.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ The source does not provide a complete engineering report, Wang Jing's full care
 
 ## What Changed
 
-- Created this disambiguated page for 王景, separate from [[WangJingXiyuLateHan|王敬]], to anchor the Bianqu hydraulic works in Hanji 739.
+- Created this disambiguated page for 王景, separate from [[WangJingXiyuLateHan|王敬]], to anchor the Bianqu hydraulic works in 汉纪 739.
 
 ## Relationships
 

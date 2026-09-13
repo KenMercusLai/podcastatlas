@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 尹夫人 / Lady Yin (Cao Cao)
 
-尹夫人 / Lady Yin enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] as the widowed daughter-in-law of [[HeJin|何进]] and the mother of [[HeYan|何晏]]. The source says [[CaoCao|曹操]] takes her into his household after her husband dies.
+尹夫人 / Lady Yin enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] as the widowed daughter-in-law of [[HeJin|何进]] and the mother of [[HeYan|何晏]]. The source says [[CaoCao|曹操]] takes her into his household after her husband dies.
 
 Lady Yin's main role in this episode is connective. Through her, the source moves from Cao Cao's household conduct to He Yan's later cultural afterlife, including beauty, incense, drug use, and qingtan as parts of [[WeiJinStyleCulturalAfterlife|魏晋风度文化后效]].
 

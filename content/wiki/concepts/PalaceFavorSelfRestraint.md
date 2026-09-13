@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-Hanji 528 creates the concept through [[BanJieyuWesternHan|班婕妤]]. The source does not present her only as a talented beauty or later accusation target. It highlights the moment when [[HanChengdi|汉成帝]] wants her to ride with him and she refuses by comparing sage-kings surrounded by ministers with late-dynasty rulers surrounded by favored consorts. The refusal works because it turns closeness into public-order counsel: she protects her own reputation and the ruler's image at the same time.
+汉纪 528 creates the concept through [[BanJieyuWesternHan|班婕妤]]. The source does not present her only as a talented beauty or later accusation target. It highlights the moment when [[HanChengdi|汉成帝]] wants her to ride with him and she refuses by comparing sage-kings surrounded by ministers with late-dynasty rulers surrounded by favored consorts. The refusal works because it turns closeness into public-order counsel: she protects her own reputation and the ruler's image at the same time.
 
 The episode's second layer is non-jealous favor management. Ban Jieyu recommends attendant Li Ping to Chengdi, and Li Ping also receives favor and jieyu rank. The host reads this not as passivity but as strategic value-building: Ban Jieyu avoids dependence on beauty alone, demonstrates magnanimity before ruler and dowager, and reduces the danger of appearing possessive under a ruler whose attention can shift.
 
@@ -25,16 +25,16 @@ The concept therefore sits between etiquette, counsel, and survival. Favor creat
 - Intimate access can become politically dangerous when it publicly marks a ruler as governed by private pleasure rather than counsel.
 - A favored figure can increase durable value by refusing forms of favor that damage public image or ritual order.
 - Recommending another favorite can function as relationship management and value differentiation, not merely self-effacement.
-- Self-restraint under favor is legible to senior observers; in Hanji 528, Wang Zhengjun's Fan Ji comparison turns Ban Jieyu's conduct into a benchmark.
+- Self-restraint under favor is legible to senior observers; in 汉纪 528, Wang Zhengjun's Fan Ji comparison turns Ban Jieyu's conduct into a benchmark.
 - The pattern is not anti-competition; it requires rivalry to remain bounded by institutional and multi-party interest.
 - The source's workplace extension should remain source-scoped, because the historical evidence is one short palace episode plus host interpretation.
 
 ## Evidence
 
-- Carriage refusal: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Ban Jieyu declines Chengdi's invitation to ride together by invoking the contrast between sage-kings with ministers and fallen kings with favored consorts.
-- Senior praise: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Wang Zhengjun compares Ban Jieyu to Fan Ji, making her restraint a court-recognized virtue.
-- Non-jealous recommendation: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] says Ban Jieyu recommends Li Ping to Chengdi, after which Li Ping is favored and granted jieyu rank.
-- Workplace extension: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|Hanji 528]] translates the story into rule awareness, proportion under favor, bounded struggle, and multi-win interest.
+- Carriage refusal: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|汉纪 528]] says Ban Jieyu declines Chengdi's invitation to ride together by invoking the contrast between sage-kings with ministers and fallen kings with favored consorts.
+- Senior praise: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|汉纪 528]] says Wang Zhengjun compares Ban Jieyu to Fan Ji, making her restraint a court-recognized virtue.
+- Non-jealous recommendation: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|汉纪 528]] says Ban Jieyu recommends Li Ping to Chengdi, after which Li Ping is favored and granted jieyu rank.
+- Workplace extension: [[zizhi-tongjian-hanji-528-cainv-banjieyu-wo-wei-zhangfu-na-xinhuan-li_zockgvxtjoopwi0izwknexuge|汉纪 528]] translates the story into rule awareness, proportion under favor, bounded struggle, and multi-win interest.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ This concept currently rests on one interpretive source. It should not be used t
 
 ## What Changed
 
-- Created from Hanji 528 to capture Ban Jieyu's pre-accusation reputation layer: carriage refusal, Fan Ji comparison, and recommendation of Li Ping as restrained favor management.
+- Created from 汉纪 528 to capture Ban Jieyu's pre-accusation reputation layer: carriage refusal, Fan Ji comparison, and recommendation of Li Ping as restrained favor management.
 
 ## Related Concepts
 

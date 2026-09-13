@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # Psychological Surrender Trap / 心理迫降陷阱
 
-Psychological surrender trap is the pattern [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] draws from [[YuanShao|袁绍]]'s acquisition of [[JizhouLateHan|冀州]]. A target with remaining resources is made to experience surrender as safer and more honorable than resistance because external pressure, insider persuasion, and self-comparison narrow the perceived options.
+Psychological surrender trap is the pattern [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|汉纪 956]] draws from [[YuanShao|袁绍]]'s acquisition of [[JizhouLateHan|冀州]]. A target with remaining resources is made to experience surrender as safer and more honorable than resistance because external pressure, insider persuasion, and self-comparison narrow the perceived options.
 
 In the episode, [[HanFuLateHan|韩馥]] has troops, grain, and dissenting advisers, yet the persuasion sequence makes yielding to Yuan Shao feel like reputation-preserving virtue. The collapse therefore begins psychologically before it becomes institutional.
 

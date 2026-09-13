@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 142 CE [[EmperorShunOfHan|汉顺帝]] layer immediately after [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] and before [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]]. It completes [[ZhangGangLateHan|张纲]]'s Guangling story: after [[LiangJiLateHan|梁冀]] sends him to [[GuanglingCommandery|广陵郡]], Zhang Gang goes alone to [[ZhangYingGuanglingLateHan|张婴]]'s camp, acknowledges official abuse as the grievance behind rebellion, and pairs promised reintegration with a clear warning about imperial force.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 142 CE [[EmperorShunOfHan|汉顺帝]] layer immediately after [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|汉纪 822]] and before [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]]. It completes [[ZhangGangLateHan|张纲]]'s Guangling story: after [[LiangJiLateHan|梁冀]] sends him to [[GuanglingCommandery|广陵郡]], Zhang Gang goes alone to [[ZhangYingGuanglingLateHan|张婴]]'s camp, acknowledges official abuse as the grievance behind rebellion, and pairs promised reintegration with a clear warning about imperial force.
 
 The durable contribution is that pacification is shown as a settlement sequence rather than a speech trick. Zhang Gang's success depends on trusted presence, naming the rebels' grievance, making surrender materially livable through housing, land, and office paths, and keeping coercion as the alternative; the same episode then contrasts [[RenJunLuoyangLateHan|任峻]], [[SuZhangLateHan|苏章]], and [[WuYouLateHan|吴祐]] as different late-Han local-administration styles.
 
@@ -44,12 +44,12 @@ The durable contribution is that pacification is shown as a settlement sequence 
 - [[RenJunLuoyangLateHan|任峻]], [[LuoyangLateHan|洛阳]], and [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - strong staffing and detection as a stricter local-governance mode.
 - [[SuZhangLateHan|苏章]], [[RuleOverKinshipPower|法度压过亲缘特权]], and [[HighStatusLawEnforcementSignal|高位执法信号]] - old-friend prosecution makes public law stronger than private obligation.
 - [[WuYouLateHan|吴祐]], [[HumaneLocalGovernance|仁厚地方治理]], and [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - Sun Xing's乡啬夫 case links mercy to基层 office ethics.
-- [[ZhaoChongLateHan|赵冲]] - closing Qiang surrender notice leads into Hanji 824's Zhao Chong frontier campaign.
-- [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|Hanji 825]] - later source showing Zhang Ying's renewed Guangling revolt after Zhang Gang's death.
+- [[ZhaoChongLateHan|赵冲]] - closing Qiang surrender notice leads into 汉纪 824's Zhao Chong frontier campaign.
+- [[zizhi-tongjian-hanji-825-lishi-gaosu-ni-dang-ni-meiyong-shi-renxing-zui-zisi-luv-8z9axuejnfhlkgsuxee3uked|汉纪 825]] - later source showing Zhang Ying's renewed Guangling revolt after Zhang Gang's death.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source fills the missing Guangling pacification episode between Hanji 822's buried-wheel impeachment and Hanji 825's posthumous renewed revolt.
+- No settled contradiction with existing wiki pages was found. This source fills the missing Guangling pacification episode between 汉纪 822's buried-wheel impeachment and 汉纪 825's posthumous renewed revolt.
 - Name normalization: 张刚, 张英, 广邻, 梁继, 任郡, 济州刺史, 吴佑, and 孙杏 are normalized to [[ZhangGangLateHan|张纲]], [[ZhangYingGuanglingLateHan|张婴]], [[GuanglingCommandery|广陵]], [[LiangJiLateHan|梁冀]], [[RenJunLuoyangLateHan|任峻]], [[SuZhangLateHan|冀州刺史苏章]], [[WuYouLateHan|吴祐]], and 孙性 because the received Tongjian passage and existing wiki sequence support those forms.
 - Identity caution: Zhang Ying of Guangling remains distinct from [[ZhangYingLateHan|张英]], the later Liu Yao-side Jiangdong officer; the existing [[RenJun|任峻]] route remains the later Cao Cao屯田 official, so this source uses a disambiguated Luoyang page.
 - Scope caution: Sun Xing, Wang Huan comparison details, Huan Yan, Liu Shou, Zhao Jun, Zhang Qiao's garrison, and the Qiang group names remain source-scoped unless later notes warrant standalone pages.

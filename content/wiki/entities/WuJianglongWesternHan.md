@@ -10,11 +10,11 @@ last_updated: 2026-09-10
 
 ## Overview
 
-武将龙 / Wu Jianglong enters the wiki through [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] as a late [[WesternHanDynasty|Western Han]] Zhijinwu who objects when [[HanAidi|汉哀帝]] repeatedly uses armory weapons as gifts for [[DongXian|董贤]] and Dong-linked households. His profile centers on public-private institutional boundaries: weapons, official slaves, public finance, and court office should not be converted into private favor.
+武将龙 / Wu Jianglong enters the wiki through [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|汉纪 587]] as a late [[WesternHanDynasty|Western Han]] Zhijinwu who objects when [[HanAidi|汉哀帝]] repeatedly uses armory weapons as gifts for [[DongXian|董贤]] and Dong-linked households. His profile centers on public-private institutional boundaries: weapons, official slaves, public finance, and court office should not be converted into private favor.
 
 ## Current Profile
 
-Hanji 587 presents Wu Jianglong first through office responsibility. As Zhijinwu, he is tied to capital security and guard authority, so Aidi's repeated dispatch of palace officials to choose armory weapons for Dong Xian is not merely a symbolic insult to him. The episode has him argue that weapons made and maintained through public funds belong to the realm's military system.
+汉纪 587 presents Wu Jianglong first through office responsibility. As Zhijinwu, he is tied to capital security and guard authority, so Aidi's repeated dispatch of palace officials to choose armory weapons for Dong Xian is not merely a symbolic insult to him. The episode has him argue that weapons made and maintained through public funds belong to the realm's military system.
 
 His first remonstrance distinguishes the Da Sinong's public treasury from the Shaofu's imperial-household purse. The point is not simply that gifts are expensive. Wu Jianglong argues that the emperor may reward favorites from household resources, but cannot turn state military stores into private presents without damaging the boundary between public authority and personal affection.
 
@@ -30,19 +30,19 @@ His second remonstrance repeats the same boundary logic through Fu Taihou's purc
 
 ## Evidence
 
-- Office and armory setting: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] says Wu Jianglong is Zhijinwu and objects after Aidi repeatedly selects armory weapons for Dong Xian and related households.
-- Public-finance argument: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] says he distinguishes Da Sinong public finance from Shaofu imperial-household finance.
-- Military-symbol boundary: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] says he invokes axes, halberds, frontier weapons, and the rule against ministers' households holding arms.
-- Fu Taihou purchase dispute: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] says he asks that Fu Taihou's purchase of official slaves use a fair market price.
-- Demotion and limited punishment: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|Hanji 587]] says Aidi demotes him to Pei commandery commandant but avoids harsher punishment because of old accession-related service.
+- Office and armory setting: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|汉纪 587]] says Wu Jianglong is Zhijinwu and objects after Aidi repeatedly selects armory weapons for Dong Xian and related households.
+- Public-finance argument: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|汉纪 587]] says he distinguishes Da Sinong public finance from Shaofu imperial-household finance.
+- Military-symbol boundary: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|汉纪 587]] says he invokes axes, halberds, frontier weapons, and the rule against ministers' households holding arms.
+- Fu Taihou purchase dispute: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|汉纪 587]] says he asks that Fu Taihou's purchase of official slaves use a fair market price.
+- Demotion and limited punishment: [[zizhi-tongjian-hanji-587-shui-hui-ba-wuqi-dang-liwu-songgei-airen-llt5femzyvgmi2yldvvbefj-0e9t|汉纪 587]] says Aidi demotes him to Pei commandery commandant but avoids harsher punishment because of old accession-related service.
 
 ## Qualifications
 
-Wu Jianglong is source-bounded here. Hanji 587 supports his office, two remonstrances, demotion, and earlier accession-service connection, but does not settle his full career, exact original memorial wording, later fate, or the complete administrative procedure around the weapons and official slaves.
+Wu Jianglong is source-bounded here. 汉纪 587 supports his office, two remonstrances, demotion, and earlier accession-service connection, but does not settle his full career, exact original memorial wording, later fate, or the complete administrative procedure around the weapons and official slaves.
 
 ## What Changed
 
-- Created the page from Hanji 587 as a public-private boundary remonstrant in the Dong Xian favor sequence.
+- Created the page from 汉纪 587 as a public-private boundary remonstrant in the Dong Xian favor sequence.
 
 ## Relationships
 

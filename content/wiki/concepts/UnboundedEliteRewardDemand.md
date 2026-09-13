@@ -14,7 +14,7 @@ Unbounded elite reward demand / 受宠权臣的无餍封赏 is the court-politic
 
 ## Current Synthesis
 
-Hanji 838 defines the concept through [[LiangJiLateHan|梁冀]] before his later crime-record and coup layers. [[EmperorHuanOfHan|汉桓帝]] asks senior officials to discuss more reward for Liang; several officials praise Liang in grand terms, while [[HuangQiongLateHan|黄琼]] limits the territorial proposal by noting Liang's existing food-estate base and his son's prior enfeoffment.
+汉纪 838 defines the concept through [[LiangJiLateHan|梁冀]] before his later crime-record and coup layers. [[EmperorHuanOfHan|汉桓帝]] asks senior officials to discuss more reward for Liang; several officials praise Liang in grand terms, while [[HuangQiongLateHan|黄琼]] limits the territorial proposal by noting Liang's existing food-estate base and his son's prior enfeoffment.
 
 The emperor's final settlement still grants Liang extraordinary court etiquette, wealth, servants, vehicles, garments, residence, privileged palace movement, non-use of his personal name in formal address, and recurring access to Shangshu affairs. The episode's point is not that Liang receives nothing; it is that he receives far more than ordinary officials and remains dissatisfied. Because his public merit is framed as thin beside the remembered killing of Emperor Zhi, reward becomes a signal of distorted power rather than earned service.
 
@@ -28,19 +28,19 @@ The emperor's final settlement still grants Liang extraordinary court etiquette,
 
 ## Evidence
 
-- Reward discussion: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Huan orders high officials to discuss Liang Ji's reward ceremony.
-- Restraint argument: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Huang Qiong objects to added territorial scale because Liang already has substantial households and his son has been enfeoffed.
-- Privilege package: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] records palace-movement privileges, name-taboo-like address, wealth, slaves, silk, vehicles, garments, mansion, special seating, and recurring Shangshu participation.
-- Dissatisfaction signal: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Liang still thinks the proposed ceremony is too light.
-- Merit gap: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says the host contrasts Liang's reward appetite with thin public merit and the remembered killing of Emperor Zhi.
+- Reward discussion: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Huan orders high officials to discuss Liang Ji's reward ceremony.
+- Restraint argument: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Huang Qiong objects to added territorial scale because Liang already has substantial households and his son has been enfeoffed.
+- Privilege package: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] records palace-movement privileges, name-taboo-like address, wealth, slaves, silk, vehicles, garments, mansion, special seating, and recurring Shangshu participation.
+- Dissatisfaction signal: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Liang still thinks the proposed ceremony is too light.
+- Merit gap: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says the host contrasts Liang's reward appetite with thin public merit and the remembered killing of Emperor Zhi.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in one Liang Ji source note and should not be used for every large reward or every dissatisfied official. Huang Qiong's intervention shows that partial restraint is possible even in a distorted court, but Hanji 838 does not prove that the court had enough leverage to make reward merit-based. The episode's greed language is interpretive and source-scoped.
+The concept is currently grounded in one Liang Ji source note and should not be used for every large reward or every dissatisfied official. Huang Qiong's intervention shows that partial restraint is possible even in a distorted court, but 汉纪 838 does not prove that the court had enough leverage to make reward merit-based. The episode's greed language is interpretive and source-scoped.
 
 ## What Changed
 
-- Created the concept from Hanji 838's Liang Ji reward scene.
+- Created the concept from 汉纪 838's Liang Ji reward scene.
 - Added a late-Han reward-legitimacy pattern focused on dissatisfaction after extreme privilege.
 
 ## Related Concepts

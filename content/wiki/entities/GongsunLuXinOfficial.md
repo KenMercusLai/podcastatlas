@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-公孙禄 / Gongsun Lu enters the wiki through [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] as a former left general who tells [[WangMang|王莽]] that the late-[[XinDynasty|新朝]] crisis comes from internal policy and personnel failure. His current role is the truth-telling diagnostic voice whose treatment shows [[SuppressedRootCauseReporting|根因上报压制]] at court.
+公孙禄 / Gongsun Lu enters the wiki through [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] as a former left general who tells [[WangMang|王莽]] that the late-[[XinDynasty|新朝]] crisis comes from internal policy and personnel failure. His current role is the truth-telling diagnostic voice whose treatment shows [[SuppressedRootCauseReporting|根因上报压制]] at court.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ Wang Mang's response makes Gongsun Lu politically important despite the page's l
 
 ## Evidence
 
-- Internal-cause diagnosis: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Gongsun Lu argues that the problem is not Xiongnu but the inside of the regime.
-- Personnel criticism: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] names officials tied to false astrology, classics disruption, harmful economic policy, and concealment of suffering.
-- Messenger punishment: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang becomes angry and has armed guards remove Gongsun Lu.
-- Scapegoat response: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang demotes Lu Kuang without accepting the wider diagnosis.
+- Internal-cause diagnosis: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Gongsun Lu argues that the problem is not Xiongnu but the inside of the regime.
+- Personnel criticism: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] names officials tied to false astrology, classics disruption, harmful economic policy, and concealment of suffering.
+- Messenger punishment: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Wang Mang becomes angry and has armed guards remove Gongsun Lu.
+- Scapegoat response: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Wang Mang demotes Lu Kuang without accepting the wider diagnosis.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This page keeps Gongsun Lu's office history, the full list of named officials, a
 
 ## What Changed
 
-- Created the page from Hanji 659 as Wang Mang's ignored and punished internal-cause critic.
+- Created the page from 汉纪 659 as Wang Mang's ignored and punished internal-cause critic.
 
 ## Relationships
 

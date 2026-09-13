@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-钟瑾 / Zhong Jin enters the wiki through [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] as [[ZhongHaoYingchuanLateHan|钟皓]]'s nephew and a reputation peer of [[LiYingLateHan|李膺]]. The source uses him to contrast Li Ying's forceful right-wrong judgment with Zhong Hao's counsel that ambiguity, humility, and self-protection may be wiser in a dangerous age.
+钟瑾 / Zhong Jin enters the wiki through [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] as [[ZhongHaoYingchuanLateHan|钟皓]]'s nephew and a reputation peer of [[LiYingLateHan|李膺]]. The source uses him to contrast Li Ying's forceful right-wrong judgment with Zhong Hao's counsel that ambiguity, humility, and self-protection may be wiser in a dangerous age.
 
 ## Current Profile
 
@@ -28,18 +28,18 @@ The interpretive center is the disagreement over judgment. Li Ying cites the Men
 
 ## Evidence
 
-- Kinship and reputation: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Zhong Jin is Zhong Hao's nephew, his mother is Li Ying's aunt, and Zhong Jin and Li Ying both gain local fame for talent and conduct.
-- Disposition: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] describes Zhong Jin as loving books, admiring antiquity, and having a naturally modest and yielding style.
-- Li Ying's criticism: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Li Ying invokes Mencian right-wrong judgment to rebuke Zhong Jin.
-- Zhong Hao's counsel: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Zhong Hao argues that sharp right-wrong distinctions can invite resentment and danger, while Zhong Jin's approach may preserve him.
+- Kinship and reputation: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Zhong Jin is Zhong Hao's nephew, his mother is Li Ying's aunt, and Zhong Jin and Li Ying both gain local fame for talent and conduct.
+- Disposition: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] describes Zhong Jin as loving books, admiring antiquity, and having a naturally modest and yielding style.
+- Li Ying's criticism: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Li Ying invokes Mencian right-wrong judgment to rebuke Zhong Jin.
+- Zhong Hao's counsel: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Zhong Hao argues that sharp right-wrong distinctions can invite resentment and danger, while Zhong Jin's approach may preserve him.
 
 ## Qualifications
 
-The page is source-bounded to Hanji 832 and does not yet establish Zhong Jin's full career, exact family genealogy beyond the episode, or later political conduct. The transcript form 钟谨 is normalized here to 钟瑾 because the late-Han Zhong Hao and Li Ying context supports that received identity.
+The page is source-bounded to 汉纪 832 and does not yet establish Zhong Jin's full career, exact family genealogy beyond the episode, or later political conduct. The transcript form 钟谨 is normalized here to 钟瑾 because the late-Han Zhong Hao and Li Ying context supports that received identity.
 
 ## What Changed
 
-- Created Zhong Jin as the prudence-side figure in the Hanji 832 right-wrong judgment dispute.
+- Created Zhong Jin as the prudence-side figure in the 汉纪 832 right-wrong judgment dispute.
 - Added a distinct node connecting Zhong Hao, Li Ying, Mencian judgment, and self-protection.
 
 ## Relationships

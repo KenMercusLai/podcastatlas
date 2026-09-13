@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Shenjue 1 / 61 BCE under [[EmperorXuanOfHan|汉宣帝]], before the later [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] and [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] Zhang Chang sequence. It opens with [[ZhangChangWesternHan|张敞]]'s eyebrow-painting story as a private loyalty and self-possession anecdote, then turns to Zhang's public role as a capable Jingzhao Yin who repeatedly remonstrates against Emperor Xuan's fangshi and luxury leanings.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Shenjue 1 / 61 BCE under [[EmperorXuanOfHan|汉宣帝]], before the later [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|汉纪 454]] and [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|汉纪 458]] Zhang Chang sequence. It opens with [[ZhangChangWesternHan|张敞]]'s eyebrow-painting story as a private loyalty and self-possession anecdote, then turns to Zhang's public role as a capable Jingzhao Yin who repeatedly remonstrates against Emperor Xuan's fangshi and luxury leanings.
 
 The second half centers on [[WangJiWesternHan|王吉]]'s memorial. Wang Ji argues that amnesty and tax relief are benevolent but insufficient if the court does not repair governing roots: ritual order, frugality, selection of worthy officials, restraint of close kin in high office, and abolition of hereditary office privilege. The durable synthesis is that Xuan's reign includes both practical capacity and a feedback limit: Zhang's anti-fangshi criticism is partly accepted, while Wang Ji's larger root-cause program is dismissed as laughable.
 
@@ -40,7 +40,7 @@ The second half centers on [[WangJiWesternHan|王吉]]'s memorial. Wang Ji argue
 - [[WangJiWesternHan|王吉]], [[RootCauseRemonstrance|根源诊断式进谏]], and [[LiAsPoliticalOrder|礼制政治秩序]] - Wang Ji's memorial redirects policy from benevolent gestures toward ritual, personnel, frugality, and institutional repair.
 - [[HereditaryOfficePrivilege|任子式官职特权]] and [[EffectMeasuredPersonnelSelection|实效考察式用人]] - Wang Ji's objection to official sons entering office through family sponsorship anticipates later personnel-selection concerns.
 - [[OuterRelativeRecurrence|外戚轮回]] - the episode's warning about Xu, Shi, and Wang relatives supplies an early Xuan-era version of kinship favor becoming later institutional risk.
-- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|Hanji 458]] and [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] - later Zhang Chang notes that complicate the affectionate and self-possessed image with anger-driven punishment and teacher-suitability doubts.
+- [[zizhi-tongjian-hanji-458-xihan-chongqi-daren-zhangchang-fan-sizui-weihe-neng-huo-lgla09-xws3c2sctxcojzmwbfvkb|汉纪 458]] and [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]] - later Zhang Chang notes that complicate the affectionate and self-possessed image with anger-driven punishment and teacher-suitability doubts.
 
 ## Contradictions
 

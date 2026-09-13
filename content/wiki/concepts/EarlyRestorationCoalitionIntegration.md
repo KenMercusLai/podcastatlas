@@ -15,9 +15,9 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]] supplies the opening local layer before wider integration. [[LiTongEasternHan|李通]] and [[LiYiGengshiGeneral|李轶]] try to connect Nanyang seizure plans with [[LiuYanLiuXiuBrother|刘縯]] and [[LiuXiu|刘秀]] at Chongling; Liu Yan frames the action as restoration of Han against [[WangMang|王莽]], while Liu Xiu's cautious reputation helps frightened local youths accept mobilization.
+[[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]] supplies the opening local layer before wider integration. [[LiTongEasternHan|李通]] and [[LiYiGengshiGeneral|李轶]] try to connect Nanyang seizure plans with [[LiuYanLiuXiuBrother|刘縯]] and [[LiuXiu|刘秀]] at Chongling; Liu Yan frames the action as restoration of Han against [[WangMang|王莽]], while Liu Xiu's cautious reputation helps frightened local youths accept mobilization.
 
-[[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] shows the pattern expanding before [[LiuXuanGengshiEmperor|更始帝刘玄]] is elevated in Hanji 663. After Xiaochang'an damages Liu-family forces and makes New Market and Pinglin troops consider flight, Liu Yan seeks Xiajiang cooperation. [[WangChangXiajiangGengshi|王常]] accepts the claim that Wang Mang has lost public support and that Liu-family restoration can unite the field, then persuades other Xiajiang leaders.
+[[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] shows the pattern expanding before [[LiuXuanGengshiEmperor|更始帝刘玄]] is elevated in 汉纪 663. After Xiaochang'an damages Liu-family forces and makes New Market and Pinglin troops consider flight, Liu Yan seeks Xiajiang cooperation. [[WangChangXiajiangGengshi|王常]] accepts the claim that Wang Mang has lost public support and that Liu-family restoration can unite the field, then persuades other Xiajiang leaders.
 
 The integration is practical rather than merely rhetorical. Liu Yan's side visits in person, hosts the joined forces with food and drink, makes an oath, rests the troops, and then converts the alliance into a six-route night attack on Lanxiang. Legitimacy matters because it makes cooperation honorable; logistics and operational coordination matter because legitimacy alone would not recover the defeated army.
 
@@ -33,21 +33,21 @@ The integration is practical rather than merely rhetorical. Liu Yan's side visit
 
 ## Evidence
 
-- Local coordination: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]] says Li Tong's planned seizure in Nanyang is paired with Liu Xiu and Liu Yan raising troops at Chongling.
-- Reputation-based stabilization: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|Hanji 661]] says frightened Chongling youths settle after seeing Liu Xiu, known as cautious and loyal, appear as a commander.
-- Defeat trigger: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] says Xiaochang'an kills many Liu-family members and leaves New Market and Pinglin troops considering escape.
-- Personal approach: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] says Liu Yan takes Liu Xiu and Li Tong to the Xiajiang camp to seek cooperation.
-- Persuasive bridge: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] says Wang Chang accepts Liu Yan's argument and persuades Cheng Dan and Zhang Ang by appealing to Wang Mang's loss of support and public memory of Han.
-- Operational proof: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] says Liu Yan hosts the forces, makes an oath, rests them for three days, then sends six routes at night to capture Lanxiang and its supplies.
+- Local coordination: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]] says Li Tong's planned seizure in Nanyang is paired with Liu Xiu and Liu Yan raising troops at Chongling.
+- Reputation-based stabilization: [[zizhi-tongjian-hanji-661-cong-shusheng-dao-kaiguo-huangdi-liuxiu-shoudeng-lishi-wutai-lmw-rgyoraks9loeouuxk5lyxfs5|汉纪 661]] says frightened Chongling youths settle after seeing Liu Xiu, known as cautious and loyal, appear as a commander.
+- Defeat trigger: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] says Xiaochang'an kills many Liu-family members and leaves New Market and Pinglin troops considering escape.
+- Personal approach: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] says Liu Yan takes Liu Xiu and Li Tong to the Xiajiang camp to seek cooperation.
+- Persuasive bridge: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] says Wang Chang accepts Liu Yan's argument and persuades Cheng Dan and Zhang Ang by appealing to Wang Mang's loss of support and public memory of Han.
+- Operational proof: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] says Liu Yan hosts the forces, makes an oath, rests them for three days, then sends six routes at night to capture Lanxiang and its supplies.
 
 ## Counterevidence & Qualifications
 
-Hanji 661 supports initial local coordination, not a fully integrated rebel army; the Li Tong branch also shows that planned coordination can collapse through leakage before execution. Hanji 662 supports short-term coalition integration, not a settled institution. The next known sequence still has factional bargaining over Liu Xuan's elevation and later lethal suspicion around Liu Yan. Cheng Dan, Zhang Ang, Li Tong, exact oath formula, food logistics, route plan, and troop counts remain source-scoped.
+汉纪 661 supports initial local coordination, not a fully integrated rebel army; the Li Tong branch also shows that planned coordination can collapse through leakage before execution. 汉纪 662 supports short-term coalition integration, not a settled institution. The next known sequence still has factional bargaining over Liu Xuan's elevation and later lethal suspicion around Liu Yan. Cheng Dan, Zhang Ang, Li Tong, exact oath formula, food logistics, route plan, and troop counts remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 661 as the local pre-coalition layer: Li Tong's Nanyang plan, Chongling mobilization, Liu Yan's restoration appeal, and Liu Xiu's reputation signal.
-- Preserved Hanji 662 as the wider post-Xiaochang'an integration pattern before Hanji 663's ruler-selection conflict.
+- Added 汉纪 661 as the local pre-coalition layer: Li Tong's Nanyang plan, Chongling mobilization, Liu Yan's restoration appeal, and Liu Xiu's reputation signal.
+- Preserved 汉纪 662 as the wider post-Xiaochang'an integration pattern before 汉纪 663's ruler-selection conflict.
 
 ## Related Concepts
 

@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》161｜财运和人际关系的“量子纠缠”（4）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode closes the Hanji 161 quantum-fate detour by identifying the earlier fate-change figure as [[YuanLiaofan|袁了凡]] and tying his story to [[LiaofanSixun|《了凡四训》]]. The host continues the source-scoped [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] from consciousness into intention, virtue practice, cognition, wealth, and human relations. Its practical center is that fate is not changed by ornaments, fortune-telling, astrology, or feng shui alone, but by cognition, heart-field conduct, accumulated good action, and actually practicing what one has understood.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode closes the 汉纪 161 quantum-fate detour by identifying the earlier fate-change figure as [[YuanLiaofan|袁了凡]] and tying his story to [[LiaofanSixun|《了凡四训》]]. The host continues the source-scoped [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] from consciousness into intention, virtue practice, cognition, wealth, and human relations. Its practical center is that fate is not changed by ornaments, fortune-telling, astrology, or feng shui alone, but by cognition, heart-field conduct, accumulated good action, and actually practicing what one has understood.
 
 ## Key Claims
 - The episode distinguishes inherited "命数" from changeable "命运," arguing that a person is born from parents but still has room to alter life direction through awareness and action.
@@ -39,7 +39,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode closes the 
 > "上士闻道，勤而行之" - the closing practice hierarchy from [[Daodejing|《道德经》]].
 
 ## Connections
-- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|Hanji 161 part 1]], [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv|part 2]], and [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|part 3]] - earlier setup of fate, relationships, consciousness, reaction choice, meditation, and high-dimensional worldview language.
+- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-1-lhkqrhbrejnhuxoouem8x8-1aujj|汉纪 161 part 1]], [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-2-lttnuxlypca4pafz1mzdr3aizfcv|part 2]], and [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|part 3]] - earlier setup of fate, relationships, consciousness, reaction choice, meditation, and high-dimensional worldview language.
 - [[YuanLiaofan|袁了凡]], [[YunguChanshi|云谷禅师]], [[LiaofanSixun|《了凡四训》]], [[ZengGuofan|曾国藩]], and [[InamoriKazuo|稻盛和夫]] - figure and text chain used to make fate change concrete.
 - [[FateChangeThroughVirtuePractice|积善修心式改命]], [[CognitionAsFortuneRoot|认知通达决定福禄]], and [[HeartFieldEthics|心田处世伦理]] - new concepts created from this episode's practical teaching.
 - [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]], [[ConsciousnessMeasurement]], and [[ZhuQingshi|朱清时]] - continued source-scoped physics/consciousness branch.

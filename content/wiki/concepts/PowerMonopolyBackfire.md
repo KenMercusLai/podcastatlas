@@ -14,7 +14,7 @@ Power monopoly backfire / 一家独大式权力反噬 is the court-politics patt
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] grounds the concept in the Yan-family settlement after [[EmperorAnOfHan|汉安帝]] dies. [[EmpressDowagerYanLateHan|阎太后]] and [[YanXianLateHan|阎显]] first win the information race by hiding An's death, returning to [[LuoyangLateHan|洛阳]], installing [[LiuYiBeixiangHouLateHan|北乡侯刘懿 / 刘裔]], and excluding [[EmperorShunOfHan|刘保]].
+[[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|汉纪 802]] grounds the concept in the Yan-family settlement after [[EmperorAnOfHan|汉安帝]] dies. [[EmpressDowagerYanLateHan|阎太后]] and [[YanXianLateHan|阎显]] first win the information race by hiding An's death, returning to [[LuoyangLateHan|洛阳]], installing [[LiuYiBeixiangHouLateHan|北乡侯刘懿 / 刘裔]], and excluding [[EmperorShunOfHan|刘保]].
 
 The backfire begins after that victory. Yan Xian does not merely secure the new accession; he turns on former or adjacent powerholders such as [[GengBaoGrandGeneralLateHan|耿宝]], [[FanFengEunuchLateHan|樊丰]], and [[WangShengPalaceActorLateHan|王圣]], while placing multiple Yan brothers in key posts. The episode's judgment is that this destroys the court's balance: actors who might have been managed become people with reason to fear death, exile, or total exclusion.
 
@@ -30,18 +30,18 @@ The concept is related to alliance fragility but narrower. It names the moment a
 
 ## Evidence
 
-- Initial victory: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] shows the Yan side hiding Emperor An's death, returning to Luoyang, elevating Yan Hou to dowager, and installing Beixiang Hou.
-- Office concentration: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says Yan Xian gains military authority and then places Yan brothers in major posts.
-- Former-ally purge: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] frames Geng Bao as a former interest ally whose Grand General status becomes unacceptable after the Yan-backed accession.
-- Fear signal: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]] says the purge of An-era eunuchs and related actors stimulates the surviving eunuch group and pushes them toward a later crisis.
+- Initial victory: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|汉纪 802]] shows the Yan side hiding Emperor An's death, returning to Luoyang, elevating Yan Hou to dowager, and installing Beixiang Hou.
+- Office concentration: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|汉纪 802]] says Yan Xian gains military authority and then places Yan brothers in major posts.
+- Former-ally purge: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|汉纪 802]] frames Geng Bao as a former interest ally whose Grand General status becomes unacceptable after the Yan-backed accession.
+- Fear signal: [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|汉纪 802]] says the purge of An-era eunuchs and related actors stimulates the surviving eunuch group and pushes them toward a later crisis.
 
 ## Counterevidence & Qualifications
 
-This concept is source-bounded to Hanji 802. The episode argues that the Yan strategy backfires because it destroys balance, but the source ends before the next coup's execution; Hanji 803 supplies that downstream layer separately. The concept should not be used to claim that all power concentration immediately produces reversal, only that monopoly after a contested transition can make threatened actors more likely to gamble on one.
+This concept is source-bounded to 汉纪 802. The episode argues that the Yan strategy backfires because it destroys balance, but the source ends before the next coup's execution; 汉纪 803 supplies that downstream layer separately. The concept should not be used to claim that all power concentration immediately produces reversal, only that monopoly after a contested transition can make threatened actors more likely to gamble on one.
 
 ## What Changed
 
-- Created the concept from Hanji 802's interpretation of Yan-family over-concentration after Emperor An's death.
+- Created the concept from 汉纪 802's interpretation of Yan-family over-concentration after Emperor An's death.
 
 ## Related Concepts
 

@@ -14,9 +14,9 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 98-102 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]]. It completes [[LiuKaiEasternHan|刘恺]]'s title-refusal story: Liu gives the hereditary marquisate to his younger brother [[LiuXianEasternHan|刘宪]], flees rather than accept investiture, and later receives both imperial tolerance and appointment after [[JiaKuiEasternHan|贾逵]] reframes the case as ritual yielding.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 98-102 CE [[EmperorHeOfHan|汉和帝]] layer immediately before [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|汉纪 773]]. It completes [[LiuKaiEasternHan|刘恺]]'s title-refusal story: Liu gives the hereditary marquisate to his younger brother [[LiuXianEasternHan|刘宪]], flees rather than accept investiture, and later receives both imperial tolerance and appointment after [[JiaKuiEasternHan|贾逵]] reframes the case as ritual yielding.
 
-The durable synthesis is that the source refuses a simple morality tale. Liu Kai's conduct violates hereditary succession order yet becomes [[RitualRenunciationPoliticalCapital|礼让辞封式政治资本]], while the frontier half shows [[MiTangQiangLeader|弥唐]]'s failed surrender, renewed [[ShaodangQiang|烧当羌]] rebellion, defeat, relocation, and the opening of [[CaoFengLateHan|曹凤]]'s resource-and-tuntian policy that Hanji 773 develops.
+The durable synthesis is that the source refuses a simple morality tale. Liu Kai's conduct violates hereditary succession order yet becomes [[RitualRenunciationPoliticalCapital|礼让辞封式政治资本]], while the frontier half shows [[MiTangQiangLeader|弥唐]]'s failed surrender, renewed [[ShaodangQiang|烧当羌]] rebellion, defeat, relocation, and the opening of [[CaoFengLateHan|曹凤]]'s resource-and-tuntian policy that 汉纪 773 develops.
 
 ## Key Claims
 
@@ -46,14 +46,14 @@ The durable synthesis is that the source refuses a simple morality tale. Liu Kai
 - [[JiaKuiEasternHan|贾逵]] - created as the shizhong whose memorial lets Emperor He reframe Liu Kai's legal violation as ritual yielding.
 - [[RitualRenunciationPoliticalCapital|礼让辞封式政治资本]] - created from the episode's tension between succession law, moral reputation, and office access.
 - [[EmperorHeOfHan|汉和帝]] - gains an earlier late-reign layer of exceptional title handling, classics debate, border recommendation adjustment, and Qiang-front response.
-- [[MiTangQiangLeader|弥唐]] and [[ShaodangQiang|烧当羌]] - the source adds the surrender-return-rebellion-collapse sequence before Hanji 773's resource diagnosis.
-- [[CaoFengLateHan|曹凤]], [[FrontierResourceIntegration|边疆资源整合治理]], [[TuntianSystem|屯田制]], and [[FrontierCommanderyRestoration|边郡恢复治理]] - the closing policy direction leads into the Hanji 773 West Sea restoration synthesis.
+- [[MiTangQiangLeader|弥唐]] and [[ShaodangQiang|烧当羌]] - the source adds the surrender-return-rebellion-collapse sequence before 汉纪 773's resource diagnosis.
+- [[CaoFengLateHan|曹凤]], [[FrontierResourceIntegration|边疆资源整合治理]], [[TuntianSystem|屯田制]], and [[FrontierCommanderyRestoration|边郡恢复治理]] - the closing policy direction leads into the 汉纪 773 West Sea restoration synthesis.
 - [[LuPiEasternHan|鲁丕]] and [[TruthSeekingDebateNorm|求明理的辩论规范]] - the classics discussion adds an Eastern Han court version of reason-giving debate.
 - [[SouthernXiongnu|南匈奴]], [[Xianbei|鲜卑]], [[YouzhouLateHan|幽州]], [[BingzhouLateHan|并州]], and [[LiangzhouLateHan|凉州]] - source-scoped frontier notices around succession, raids, and population-adjusted recommendation policy.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills the Emperor-He-era sequence before Hanji 773's fuller Cao Feng / West Sea policy and before Liu Kai's later An-era office record.
+- No settled contradiction is recorded. This source backfills the Emperor-He-era sequence before 汉纪 773's fuller Cao Feng / West Sea policy and before Liu Kai's later An-era office record.
 - Identity normalization: the episode summary's 刘凯 is normalized to the established [[LiuKaiEasternHan|刘恺]] route; 刘县 is treated as 刘宪; 贾奎 is treated as [[JiaKuiEasternHan|贾逵]].
 - Chronology/identity caution: the line labelled "曹丕上书" is not linked to [[CaoPi|曹丕 / Cao Pi]], who belongs centuries later. It is treated as the same 丕 in [[LuPiEasternHan|鲁丕]] from the classics discussion.
 - Scope caution: Liu Ban, the exact Juchao marquisate succession documents, Wanshi Shizhudi chanyu, Wu Zhi, Zhou Wei, Hou Ba, Xu Sheng, Zhang Yu, the Wushan Man revolt, disaster notices, and exact frontier recommendation implementation remain source-scoped unless later notes require standalone pages.

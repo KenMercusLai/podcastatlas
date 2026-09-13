@@ -44,5 +44,5 @@ The episode's durable synthesis is that Wang Mang's public virtue is politically
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source precedes Hanji 597's Fu Taihou-instruction reward dispute and Hanji 603-606's post-Aidi succession cleanup.
+- Chronology qualification: this source precedes 汉纪 597's Fu Taihou-instruction reward dispute and 汉纪 603-606's post-Aidi succession cleanup.
 - Scope caution: the son's name, the full legal status of the killed household slave, Zhou Hu and Song Chong's later careers, the exact eclipse memorial language, and Wang Mang's inner motive remain source-scoped.

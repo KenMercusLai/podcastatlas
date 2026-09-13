@@ -33,23 +33,23 @@ The concept therefore names a cause field rather than excusing every rebel actio
 ## Evidence
 
 Livelihood-collapse variant:
-- [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says the Guanghan revolt should be understood as "官逼民反."
-- [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] mentions excessive burdens, empty granaries, hunger, displacement, and deaths in the tens of thousands.
-- [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says Zheng Gong's followers attack government offices, free prisoners, and seize weapons.
-- [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|Hanji 532]] says the force later reaches four counties and nearly ten thousand people before a large state campaign and amnesty split it.
+- [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says the Guanghan revolt should be understood as "官逼民反."
+- [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] mentions excessive burdens, empty granaries, hunger, displacement, and deaths in the tens of thousands.
+- [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says Zheng Gong's followers attack government offices, free prisoners, and seize weapons.
+- [[zizhi-tongjian-hanji-532-xihan-zuida-de-nongmin-qiyi-lingdaozhe-shi-ta-lsjb4yu-36ef9lolcbml5ztypr_z|汉纪 532]] says the force later reaches four counties and nearly ten thousand people before a large state campaign and amnesty split it.
 
 Coercive-production variant:
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] describes iron-office convicts, corvee laborers, and craftsmen under state iron control facing harsh work, poor subsistence, punishment, and lack of freedom.
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] says [[ShentuShengWesternHan|申屠圣]] leads about 180 iron-office convicts to seize weapons, kill officials, and spread through multiple commanderies.
-- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|Hanji 523]] treats the uprising as a Western Han crisis signal while still emphasizing rebel limits in organization, discipline, legitimacy, and strategy.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] describes iron-office convicts, corvee laborers, and craftsmen under state iron control facing harsh work, poor subsistence, punishment, and lack of freedom.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] says [[ShentuShengWesternHan|申屠圣]] leads about 180 iron-office convicts to seize weapons, kill officials, and spread through multiple commanderies.
+- [[zizhi-tongjian-hanji-523-gudai-nongmin-qiyi-zong-shibai-meilixiang-or-jianshiduan-ltwfeupz2zzzvo76fhm7-6txjiup|汉纪 523]] treats the uprising as a Western Han crisis signal while still emphasizing rebel limits in organization, discipline, legitimacy, and strategy.
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on two Western Han source notes and should not be generalized to every peasant uprising or every local revolt. Hanji 523 also complicates the concept by stressing that survival pressure may explain rebellion without supplying the organization, discipline, legitimacy, strategic vision, or civilian-governance capacity needed for success. Hanji 532 gives a moral and social interpretation, not a full economic dataset or rebel-side testimony. Comparable concepts such as [[FiscalExtractionRebellionSpiral|财政压榨叛乱螺旋]] and [[FrontierOfficialAbuseRebellionSpiral|边吏侵害引发反叛螺旋]] cover different mechanisms.
+The concept currently rests on two Western Han source notes and should not be generalized to every peasant uprising or every local revolt. 汉纪 523 also complicates the concept by stressing that survival pressure may explain rebellion without supplying the organization, discipline, legitimacy, strategic vision, or civilian-governance capacity needed for success. 汉纪 532 gives a moral and social interpretation, not a full economic dataset or rebel-side testimony. Comparable concepts such as [[FiscalExtractionRebellionSpiral|财政压榨叛乱螺旋]] and [[FrontierOfficialAbuseRebellionSpiral|边吏侵害引发反叛螺旋]] cover different mechanisms.
 
 ## What Changed
 
-- Added Hanji 523's iron-office coercive-labor variant, distinguishing state-production pressure from Hanji 532's broader livelihood-collapse uprising.
+- Added 汉纪 523's iron-office coercive-labor variant, distinguishing state-production pressure from 汉纪 532's broader livelihood-collapse uprising.
 - Added a qualification that survival pressure explains rebellion formation but not successful rebel governance or durable military organization.
 
 ## Related Concepts

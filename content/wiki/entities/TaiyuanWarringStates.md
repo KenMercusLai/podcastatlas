@@ -16,7 +16,7 @@ Taiyuan's source role is to widen the campaign map. Qin's pressure after Changpi
 
 [[zizhi-tongjian-qinji-103-2-simaqiande-idol-weihe-siyu-jiuse-lvmqg1ojmka9pqagfhgvo4albpjx]] adds the immediate fragility of that new administrative layer. The source says Jinyang becomes the Taiyuan commandery seat, but after [[QinZhuangxiangwang|秦庄襄王]] dies and [[QinShiHuang|嬴政 / 秦始皇]] succeeds, Jinyang sees rebellion. Taiyuan therefore marks both Qin's expansion and the local instability that follows succession.
 
-[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]] adds a Chu-Han commandery reuse. After [[HanXin|韩信]] captures [[WeiBao|魏豹]], Han sets up Taiyuan commandery alongside [[HedongCommandery|河东郡]] and [[Shangdang|上党郡]]. The episode later has Han Xin defeat Dai forces around [[EyuBattle|阏与]], take [[Jinyang|晋阳]], and make that northern base part of the move toward Zhao.
+[[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|汉纪 155-2]] adds a Chu-Han commandery reuse. After [[HanXin|韩信]] captures [[WeiBao|魏豹]], Han sets up Taiyuan commandery alongside [[HedongCommandery|河东郡]] and [[Shangdang|上党郡]]. The episode later has Han Xin defeat Dai forces around [[EyuBattle|阏与]], take [[Jinyang|晋阳]], and make that northern base part of the move toward Zhao.
 
 ## Connections
 - [[SimaGeng|司马梗]] - Qin commander assigned to this route.
@@ -24,4 +24,4 @@ Taiyuan's source role is to widen the campaign map. Qin's pressure after Changpi
 - [[QinState|秦国]], [[ZhaoState|赵国]], [[ChangpingBattle|长平之战]], and [[Handan|邯郸]] - campaign setting.
 - [[QinZhuangxiangwang|秦庄襄王]], [[QinShiHuang|嬴政 / 秦始皇]], and [[QinEastwardPressure|秦国东进压力]] - Qinji 103-1 commandery establishment inside continuing Qin expansion.
 - [[LuBuwei|吕不韦]] and [[QinState|秦国]] - Qinji 103-2 succession unrest after the commandery seat is established at Jinyang.
-- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|Hanji 155-2]], [[HanXin|韩信]], [[WeiBao|魏豹]], [[HedongCommandery|河东郡]], and [[Jinyang|晋阳]] - Chu-Han commandery setup and northern campaign base.
+- [[zizhi-tongjian-hanji-155-2-zhuan-gei-ni-piqi-da-de-pengyou-weiwang-panhan-jing-shi-liubang-ai-maren-ls5nvunmhakvefd2oxn4zdyoob4l|汉纪 155-2]], [[HanXin|韩信]], [[WeiBao|魏豹]], [[HedongCommandery|河东郡]], and [[Jinyang|晋阳]] - Chu-Han commandery setup and northern campaign base.

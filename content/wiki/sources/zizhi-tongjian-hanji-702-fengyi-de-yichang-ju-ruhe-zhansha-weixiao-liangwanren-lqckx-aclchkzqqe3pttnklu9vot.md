@@ -14,9 +14,9 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu western-campaign layer immediately before [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] and [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]]. It follows [[LiuXiu|光武帝刘秀]] restoring the lighter land-tax rate after war pressure, redeploying commanders after a western setback, and [[FengYiEasternHan|冯异]] turning [[WeiXiaoEasternHan|隗嚣]]'s Wang Yuan-Xing Xun advance into a routed attack by seizing the disputed city first.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu western-campaign layer immediately before [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|汉纪 703]] and [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|汉纪 704]]. It follows [[LiuXiu|光武帝刘秀]] restoring the lighter land-tax rate after war pressure, redeploying commanders after a western setback, and [[FengYiEasternHan|冯异]] turning [[WeiXiaoEasternHan|隗嚣]]'s Wang Yuan-Xing Xun advance into a routed attack by seizing the disputed city first.
 
-The durable synthesis is that the episode pairs two forms of first-move discipline. Feng Yi identifies the decisive terrain, moves before frightened subordinates can freeze the army, hides inside the city, and surprises the enemy; [[DouRongEasternHan|窦融]] uses persistent letter delivery and status-aware allegiance to make his loyalty to Liu Xiu legible before later formal submission. No settled contradiction is recorded; the source mainly moves the Feng Yi, Wei Xiao, Ji Zun, and Dou Rong arc one step earlier than the already ingested Hanji 703-709 sequence.
+The durable synthesis is that the episode pairs two forms of first-move discipline. Feng Yi identifies the decisive terrain, moves before frightened subordinates can freeze the army, hides inside the city, and surprises the enemy; [[DouRongEasternHan|窦融]] uses persistent letter delivery and status-aware allegiance to make his loyalty to Liu Xiu legible before later formal submission. No settled contradiction is recorded; the source mainly moves the Feng Yi, Wei Xiao, Ji Zun, and Dou Rong arc one step earlier than the already ingested 汉纪 703-709 sequence.
 
 ## Key Claims
 
@@ -49,6 +49,6 @@ The durable synthesis is that the episode pairs two forms of first-move discipli
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills the immediate pre-Hanji 703 layer, before Dou Rong's warning to Wei Xiao, Liang Tong's public break, Ma Yuan's persuasion mission, Wei Xiao's apology test, and the later Lüeyang/Xicheng sequence.
+- Chronology qualification: this source backfills the immediate pre-汉纪 703 layer, before Dou Rong's warning to Wei Xiao, Liang Tong's public break, Ma Yuan's persuasion mission, Wei Xiao's apology test, and the later Lüeyang/Xicheng sequence.
 - Identity normalization: 冯异 receives a new Eastern Han route because this source makes him the episode's central commander, while Wang Yuan, Xing Xun, Dou You, Xi Feng, Liu Jun, and Jia Lan remain source-scoped.
 - Scope caution: the source summary does not name the target city clearly, and exact locations for Wang Yuan's defeat, the identities of Beidi local strongmen, Xiongnu-side forces, Dou-family genealogy, and letter wording remain source-scoped.

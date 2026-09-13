@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 河南郡 / Henan Commandery (Chu-Han)
 
-河南郡 / Henan Commandery (Chu-Han) enters the wiki through [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] as the administrative form [[LiuBang|刘邦]] gives to [[ShenYang|申阳]]'s surrendered territory. The page is disambiguated from modern Henan and unrelated Henan-named modern entities.
+河南郡 / Henan Commandery (Chu-Han) enters the wiki through [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|汉纪 149 part 2]] as the administrative form [[LiuBang|刘邦]] gives to [[ShenYang|申阳]]'s surrendered territory. The page is disambiguated from modern Henan and unrelated Henan-named modern entities.
 
 The episode treats this as more than a label change. [[XiangYu|项羽]] had rewarded Shen Yang as Henan king because he took Sanchuan and welcomed the Chu army; Liu Bang's takeover converts that settlement kingdom into commandery administration. It therefore links old [[SanchuanWarringStates|三川]] geography, Chu-Han title allocation, and Liu Bang's growing preference for direct control over newly acquired territory.
 

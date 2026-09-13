@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-赵广汉 / Zhao Guanghan enters the wiki through [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] as the Western Han official used to break the simple equation between "clean official" and "good official." The source preserves his real administrative force: as Yingchuan governor, he attacks corrupt officials, local strongmen, and powerful families, and gains public affection through hard anti-corruption action. It then follows his collapse after private anger and office power merge in the Su Xian, Rong Xu, and Wei Xiang cases.
+赵广汉 / Zhao Guanghan enters the wiki through [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] as the Western Han official used to break the simple equation between "clean official" and "good official." The source preserves his real administrative force: as Yingchuan governor, he attacks corrupt officials, local strongmen, and powerful families, and gains public affection through hard anti-corruption action. It then follows his collapse after private anger and office power merge in the Su Xian, Rong Xu, and Wei Xiang cases.
 
 ## Current Profile
 
@@ -32,31 +32,31 @@ Zhao's public support becomes part of the danger. Tens of thousands of Chang'an 
 ## Evidence
 
 Clean-official reputation:
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says Zhao was known in Yingchuan for striking corrupt officials and local dark forces.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says he set up an anonymous-reporting device that let people report corrupt officials and powerful criminal heads.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says the heads of the Yuan and Chu families were arrested and executed, winning public approval.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says Zhao was known in Yingchuan for striking corrupt officials and local dark forces.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says he set up an anonymous-reporting device that let people report corrupt officials and powerful criminal heads.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says the heads of the Yuan and Chu families were arrested and executed, winning public approval.
 
 Retaliatory abuse:
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says Zhao's retainer was expelled from the market for illegal private wine selling and suspected Su Xian.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says Zhao ordered Shi Yu to arrest Su Xian under a military-absence pretext.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says Shi Yu is sentenced to waist-cutting and names Zhao as the behind-the-scenes order source.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says Zhao is spared severe punishment at first because a general amnesty reduces the consequence to demotion.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says Zhao later suspects Rong Xu of involvement and kills him without adequate proof.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says Zhao's retainer was expelled from the market for illegal private wine selling and suspected Su Xian.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says Zhao ordered Shi Yu to arrest Su Xian under a military-absence pretext.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says Shi Yu is sentenced to waist-cutting and names Zhao as the behind-the-scenes order source.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says Zhao is spared severe punishment at first because a general amnesty reduces the consequence to demotion.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says Zhao later suspects Rong Xu of involvement and kills him without adequate proof.
 
 Counterattack and punishment:
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says Wei Xiang investigates the Rong Xu matter and refuses Zhao's request to drop it.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says Zhao reopens an old case involving a dead maid in Wei Xiang's household and has Wei's wife examined in court.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says the investigation finds the maid died after leaving the chancellor's residence, not because Wei Xiang's household killed her.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says [[XiaoWangzhiWesternHan|萧望之]] impeaches Zhao and that Xuan eventually has him executed at the Chang'an eastern market.
-- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|Hanji 426]] says mass petitioning by commoners and lower officials makes Zhao more dangerous in imperial eyes.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says Wei Xiang investigates the Rong Xu matter and refuses Zhao's request to drop it.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says Zhao reopens an old case involving a dead maid in Wei Xiang's household and has Wei's wife examined in court.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says the investigation finds the maid died after leaving the chancellor's residence, not because Wei Xiang's household killed her.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says [[XiaoWangzhiWesternHan|萧望之]] impeaches Zhao and that Xuan eventually has him executed at the Chang'an eastern market.
+- [[zizhi-tongjian-hanji-426-lianghan-diyi-qingguan-zhaoguanghan-weihe-bushi-haoguan-lsu5ijajbkz2nkxvpc85kf-tsd3f|汉纪 426]] says mass petitioning by commoners and lower officials makes Zhao more dangerous in imperial eyes.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 426's retelling of the Zhao Guanghan case. It does not reconstruct Zhao's full career, exact offices, the complete original legal record, or the full biographies of Su Xian, Rong Xu, Shi Yu, and Zhao's retainer. The source's judgment is not that clean government is worthless; it is that clean reputation cannot excuse abuse of law, private retaliation, or killing on suspicion. Zhao is therefore a more culpable Xuan-era execution case than pages such as [[HanYanshouWesternHan|韩延寿]] or [[GaiKuanraoWesternHan|盖宽饶]], even though all remain connected to the broader problem of admired officials dying under [[EmperorXuanOfHan|汉宣帝]].
+This page is source-scoped to 汉纪 426's retelling of the Zhao Guanghan case. It does not reconstruct Zhao's full career, exact offices, the complete original legal record, or the full biographies of Su Xian, Rong Xu, Shi Yu, and Zhao's retainer. The source's judgment is not that clean government is worthless; it is that clean reputation cannot excuse abuse of law, private retaliation, or killing on suspicion. Zhao is therefore a more culpable Xuan-era execution case than pages such as [[HanYanshouWesternHan|韩延寿]] or [[GaiKuanraoWesternHan|盖宽饶]], even though all remain connected to the broader problem of admired officials dying under [[EmperorXuanOfHan|汉宣帝]].
 
 ## What Changed
 
-- Created the page from Hanji 426's Zhao Guanghan case.
+- Created the page from 汉纪 426's Zhao Guanghan case.
 - Defined Zhao as a clean-official power-boundary case rather than a simple victim or simple villain.
 
 ## Relationships

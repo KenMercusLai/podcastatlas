@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1016丨三国乱世里，陈珪家族的命运抉择
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the immediate setup for the Chen-family branch later developed in [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|Hanji 1017]] and [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|Hanji 1018]]. The opening turns "名器" into [[MingqiLegitimacy|名器合法性]], then applies it to [[YuanShu|袁术]]'s unsupported imperial claim, [[CaoCao|曹操]]'s Han-court legitimacy, and [[ChenGui|陈珪]]'s decision to block a Yuan Shu-[[LyuBu|吕布]] marriage alliance. The core case is Chen Gui's family survival strategy: he refuses Yuan Shu despite old ties and hostage pressure on [[ChenDeng|陈登]], keeps [[Xuzhou|徐州]] out of Yuan Shu's war path, and opens the channel that lets Chen Deng go toward Cao Cao.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the immediate setup for the Chen-family branch later developed in [[zizhi-tongjian-hanji-1017-sanguo-yincang-yingxiong-chendeng-de-chuanqi-wangshi-lhcvtm8fobuzjfyo9uirdcgx2plq|汉纪 1017]] and [[zizhi-tongjian-hanji-1018-ta-weihe-rang-caocao-jidan-sunce-weiju-liubei-wanxi-lqccdhrjmero-gt7vsaq2ejuhhw8|汉纪 1018]]. The opening turns "名器" into [[MingqiLegitimacy|名器合法性]], then applies it to [[YuanShu|袁术]]'s unsupported imperial claim, [[CaoCao|曹操]]'s Han-court legitimacy, and [[ChenGui|陈珪]]'s decision to block a Yuan Shu-[[LyuBu|吕布]] marriage alliance. The core case is Chen Gui's family survival strategy: he refuses Yuan Shu despite old ties and hostage pressure on [[ChenDeng|陈登]], keeps [[Xuzhou|徐州]] out of Yuan Shu's war path, and opens the channel that lets Chen Deng go toward Cao Cao.
 
 ## Key Claims
 - "名" and "器" are treated as a linked symbolic order: titles, offices, seals, ritual objects, and insignia make authority legible rather than merely decorative.
@@ -26,7 +26,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies th
 - [[ChenGui|陈珪]] persuades Lü Bu that a Yuan Shu marriage would expose Xuzhou to war and attach Lü Bu to an unjust side.
 - Lü Bu reverses course, recalls his daughter, cancels the marriage, and sends [[HanYinLateHan|韩胤]] to Cao Cao's court, where Han Yin is executed.
 - The episode reads Chen Gui and [[ChenDeng|陈登]] as a late-Han gentry family choosing the order most likely to preserve local safety, rather than simply serving the nearest military patron.
-- The final court appointment and Cao Cao letter to Lü Bu create the opening for Chen Deng to travel toward Cao Cao, setting up the next Hanji 1017 branch.
+- The final court appointment and Cao Cao letter to Lü Bu create the opening for Chen Deng to travel toward Cao Cao, setting up the next 汉纪 1017 branch.
 
 ## Key Quotes
 > "名器不可轻受" - the episode's opening principle for titles, objects, and legitimate hierarchy.

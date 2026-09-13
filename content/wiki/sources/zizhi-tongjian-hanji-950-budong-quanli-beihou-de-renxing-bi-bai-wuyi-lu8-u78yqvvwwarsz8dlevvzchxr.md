@@ -13,7 +13,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|Hanji 951]] late-Han field through the first formation of the [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]]'s selection as盟主, [[BaoXin|鲍信]]'s early recognition of [[CaoCao|曹操]], [[DongZhuo|董卓]]'s killing of [[LiuBianHongnongWang|刘辩 / 弘农王]], and [[ZhengTaiLateHan|郑泰]]'s warning that the allied armies lack durable cohesion. It also introduces Dong Zhuo's plan to move from [[LuoyangLateHan|洛阳]] to [[ChangAnHanCapital|长安]], [[ZhuJunLateHan|朱儁]]'s refusal to cooperate, and the use of [[ChenweiPolitics|谶纬政治]] to dress a security-driven relocation as Heaven-backed policy. The distinct contribution is that the coalition looks strongest at the moment of assembly, yet the episode already reads its human incentives, prestige hierarchy, logistics split, and fear of Dong Zhuo as sources of later failure.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-951-tianjiang-hengcai-jiujing-shi-haoshi-haishi-huaishi-lovwgng2wrtfno-s9ttpybbhksvh|汉纪 951]] late-Han field through the first formation of the [[AntiDongZhuoCoalition|反董卓联盟]], [[YuanShao|袁绍]]'s selection as盟主, [[BaoXin|鲍信]]'s early recognition of [[CaoCao|曹操]], [[DongZhuo|董卓]]'s killing of [[LiuBianHongnongWang|刘辩 / 弘农王]], and [[ZhengTaiLateHan|郑泰]]'s warning that the allied armies lack durable cohesion. It also introduces Dong Zhuo's plan to move from [[LuoyangLateHan|洛阳]] to [[ChangAnHanCapital|长安]], [[ZhuJunLateHan|朱儁]]'s refusal to cooperate, and the use of [[ChenweiPolitics|谶纬政治]] to dress a security-driven relocation as Heaven-backed policy. The distinct contribution is that the coalition looks strongest at the moment of assembly, yet the episode already reads its human incentives, prestige hierarchy, logistics split, and fear of Dong Zhuo as sources of later failure.
 
 ## Key Claims
 
@@ -43,5 +43,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages is recorded. This source backfills the coalition-formation, Liu Bian death, Zheng Tai warning, and pre-relocation debate before Hanji 951's forced migration and Hanji 953/958's later coalition failures.
+- No settled contradiction with existing wiki pages is recorded. This source backfills the coalition-formation, Liu Bian death, Zheng Tai warning, and pre-relocation debate before 汉纪 951's forced migration and 汉纪 953/958's later coalition failures.
 - Source-scope caution: the source uses the transcript form "朱俊"; the wiki normalizes the figure to [[ZhuJunLateHan|朱儁]]. It also keeps the host's psychological claims about motive and future failure source-scoped rather than treating them as independent evidence.

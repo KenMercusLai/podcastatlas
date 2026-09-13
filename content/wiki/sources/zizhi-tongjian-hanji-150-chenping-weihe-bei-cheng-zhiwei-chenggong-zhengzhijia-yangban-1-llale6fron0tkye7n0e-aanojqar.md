@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens a [[ChenPing|陈平]] biographical branch after [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] teased him as an unusually durable political operator. It backfills his poor Yangwu/Huyou origins, his brother's protection, his marriage into [[ZhangFu|张负]]'s family, and his rise in local standing through friendship, ritual service, and public trust. The episode's central interpretive move is to treat Chen Ping's later political success as rooted not only in clever stratagems but in early [[LocalSocialCapitalAccumulation|乡里社会资本积累]] and [[FairAllocationPoliticalSkill|公平分配式政治能力]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens a [[ChenPing|陈平]] biographical branch after [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|汉纪 149 part 2]] teased him as an unusually durable political operator. It backfills his poor Yangwu/Huyou origins, his brother's protection, his marriage into [[ZhangFu|张负]]'s family, and his rise in local standing through friendship, ritual service, and public trust. The episode's central interpretive move is to treat Chen Ping's later political success as rooted not only in clever stratagems but in early [[LocalSocialCapitalAccumulation|乡里社会资本积累]] and [[FairAllocationPoliticalSkill|公平分配式政治能力]].
 
 ## Key Claims
 - [[ChenPing|陈平]] is introduced as a "successful politician" pattern because the host says he survives repeated patron changes, dangerous office politics, and eventual ascent without losing the practical realism associated with Huang-Lao style governance.
@@ -36,7 +36,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens a [[C
 - [[PhysiognomicInvestmentJudgment|看相式政治投资]] - Zhang Fu's early bet on Chen Ping through appearance, bearing, and visible visitor traffic.
 - [[MoralReputationPoliticalCapital|道德名望政治资本]] - adjacent frame for how visible fairness and service become public trust.
 - [[XiangYu|项羽]], [[MiXin|芈心 / 楚怀王]], and [[LiuBang|刘邦]] - surrounding Chu-Han disorder in which Chen Ping's later political value will be tested.
-- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] - continuation that resolves the Liu Bang meeting and later appointment thread.
+- [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|汉纪 150 part 2]] - continuation that resolves the Liu Bang meeting and later appointment thread.
 
 ## Contradictions
-- No settled contradiction is recorded. The final Liu Bang meeting is unresolved within this source, but [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] later completes the thread.
+- No settled contradiction is recorded. The final Liu Bang meeting is unresolved within this source, but [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|汉纪 150 part 2]] later completes the thread.

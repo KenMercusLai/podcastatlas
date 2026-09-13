@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 110-114 CE [[EmperorAnOfHan|汉安帝]] and [[EmpressDowagerDengLateHan|和熹邓皇后]] regency layer before [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]]. It moves from Zhang Bolu's defeat and a [[HanyangCommanderyLateHan|汉阳郡]] rebellion into the 112 CE seasonal-fresh-food edict, then uses repeated locusts, droughts, earthquakes, landslides, eclipses, and Qiang campaigns to frame a compound An-era crisis.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 110-114 CE [[EmperorAnOfHan|汉安帝]] and [[EmpressDowagerDengLateHan|和熹邓皇后]] regency layer before [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]]. It moves from Zhang Bolu's defeat and a [[HanyangCommanderyLateHan|汉阳郡]] rebellion into the 112 CE seasonal-fresh-food edict, then uses repeated locusts, droughts, earthquakes, landslides, eclipses, and Qiang campaigns to frame a compound An-era crisis.
 
 The durable synthesis is that the "out-of-season fruit" order is not just a food taboo. The episode makes it a case of [[SeasonalRitualConsumptionRestraint|时令礼法式饮食约束]] inside a wider disaster and tribute-burden environment, while the closing Han-Qiang discussion links [[MaXianLateHan|马贤]], [[XianlingQiang|先零羌]], [[DuJigongLateHan|杜季贡]], [[LinChangQiang|陵昌]], and climate stress to the longer economic drain of frontier war.
 
@@ -50,6 +50,6 @@ The durable synthesis is that the "out-of-season fruit" order is not just a food
 
 ## Contradictions
 
-- No settled contradiction is recorded. The episode backfills 110-114 CE before Hanji 787's 115 CE Yan Ji and Pang Can/Sima Jun layer and before Hanji 789's 116-117 CE Qiang-crisis synthesis.
-- Chronology caution: this source places Du Jigong's Shanggui and Qiang-alignment branch in 112 CE, while Hanji 787 and Hanji 789 preserve overlapping Du Jigong, Sima Jun, Pang Can, and Lin Chang/Lingchang material around 115-117 CE. The wiki treats this as source-scoped chronology compression rather than forcing one harmonized date.
+- No settled contradiction is recorded. The episode backfills 110-114 CE before 汉纪 787's 115 CE Yan Ji and Pang Can/Sima Jun layer and before 汉纪 789's 116-117 CE Qiang-crisis synthesis.
+- Chronology caution: this source places Du Jigong's Shanggui and Qiang-alignment branch in 112 CE, while 汉纪 787 and 汉纪 789 preserve overlapping Du Jigong, Sima Jun, Pang Can, and Lin Chang/Lingchang material around 115-117 CE. The wiki treats this as source-scoped chronology compression rather than forcing one harmonized date.
 - Scope caution: Zhang Bolu, Fa Xiong, Li Jiu, Du Qi, Wang Xin, Zhao Bo, Tang Xi, Dianling, Langmo, Hou Ba, Hao Duo, Chengxin, Pi Yang, Liu Sheng, Liu De, individual disaster notices, and the full climate-war thesis remain source-scoped unless later notes make them durable pages.

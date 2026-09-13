@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-哀牢王类牢 / Ailao King Lei Lao enters the wiki through [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] as the frontier ruler whose rebellion follows the death of [[ZhengChunEasternHan|Zheng Chun]] and the arrival of officials who do not understand the local equilibrium. His current role is a compact Ailao crisis marker rather than a full biography.
+哀牢王类牢 / Ailao King Lei Lao enters the wiki through [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|汉纪 747]] as the frontier ruler whose rebellion follows the death of [[ZhengChunEasternHan|Zheng Chun]] and the arrival of officials who do not understand the local equilibrium. His current role is a compact Ailao crisis marker rather than a full biography.
 
 ## Current Profile
 
-Hanji 747 presents Lei Lao after the prior Yongchang order breaks. Zheng Chun had governed cleanly and won local submission, but his successor relies on official airs and does not understand local conditions. In that context, Lei Lao kills newly arrived commandery and county heads, rebels, and attacks Bonan.
+汉纪 747 presents Lei Lao after the prior Yongchang order breaks. Zheng Chun had governed cleanly and won local submission, but his successor relies on official airs and does not understand local conditions. In that context, Lei Lao kills newly arrived commandery and county heads, rebels, and attacks Bonan.
 
 The episode later records the military resolution. Yongchang, Yuexi, and Yizhou commandery troops, together with Kunming Yi forces, attack Lei Lao at Bonan and kill him. The page therefore treats Lei Lao as both a rebellion leader and evidence for how fast frontier legitimacy can fail when the state replaces local knowledge with status-display administration.
 
@@ -28,9 +28,9 @@ The episode later records the military resolution. Yongchang, Yuexi, and Yizhou 
 
 ## Evidence
 
-- Administrative trigger: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Zheng Chun's successor did not know how to govern locally and alienated Yi and Mo groups.
-- Rebellion: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Lei Lao kills newly appointed local heads, rebels, and attacks Bonan.
-- Suppression: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]] says Yongchang, Yuexi, and Yizhou commandery forces plus Kunming Yi attack Lei Lao at Bonan and kill him.
+- Administrative trigger: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|汉纪 747]] says Zheng Chun's successor did not know how to govern locally and alienated Yi and Mo groups.
+- Rebellion: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|汉纪 747]] says Lei Lao kills newly appointed local heads, rebels, and attacks Bonan.
+- Suppression: [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|汉纪 747]] says Yongchang, Yuexi, and Yizhou commandery forces plus Kunming Yi attack Lei Lao at Bonan and kill him.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source does not provide Lei Lao's earlier background, the exact names of the
 
 ## What Changed
 
-- Created the page from Hanji 747's Ailao rebellion and Bonan suppression notice.
+- Created the page from 汉纪 747's Ailao rebellion and Bonan suppression notice.
 
 ## Relationships
 

@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》144｜项羽集团覆灭的原因（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144 part 1]] by following [[LiuBang|刘邦]] into [[Hanzhong|汉中]] and then tracking the immediate eastern backlash to [[XiangYu|项羽]]'s settlement. [[ZhangLiang|张良]] uses [[XiangBo|项伯]] as a gift-mediated channel for Liu Bang, then recommends [[BurningGalleryRoads|burning the gallery roads]] to lower Xiang Yu's suspicion while protecting against pursuit. The episode argues that [[TianRong|田荣]], [[PengYue|彭越]], and [[ChenYu|陈馀]] turn [[RewardAllocationBacklash|reward allocation backlash]] into armed revolt, pulling Xiang Yu east and opening a western window for Liu Bang's later return toward [[GuanzhongRegion|关中]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|汉纪 144 part 1]] by following [[LiuBang|刘邦]] into [[Hanzhong|汉中]] and then tracking the immediate eastern backlash to [[XiangYu|项羽]]'s settlement. [[ZhangLiang|张良]] uses [[XiangBo|项伯]] as a gift-mediated channel for Liu Bang, then recommends [[BurningGalleryRoads|burning the gallery roads]] to lower Xiang Yu's suspicion while protecting against pursuit. The episode argues that [[TianRong|田荣]], [[PengYue|彭越]], and [[ChenYu|陈馀]] turn [[RewardAllocationBacklash|reward allocation backlash]] into armed revolt, pulling Xiang Yu east and opening a western window for Liu Bang's later return toward [[GuanzhongRegion|关中]].
 
 ## Key Claims
 - Zhang Liang's gift transfer to Xiang Bo extends the Hongmen relationship channel into post-settlement territorial bargaining.
@@ -30,7 +30,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 > "唯利无耻" - the host's compact judgment on the early Qin-Han political field.
 
 ## Connections
-- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|Hanji 144 part 1]], [[RewardAllocationBacklash|分配反噬]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - direct setup from partition grievance and Xiao He's base-building answer.
+- [[zizhi-tongjian-hanji-144-xiangyu-jituan-fumie-de-yuanyin-1-lr0ft8-jupxgvutn6c89mfs8r4wb|汉纪 144 part 1]], [[RewardAllocationBacklash|分配反噬]], and [[StrategicRetreatBaseBuilding|退让式根据地经营]] - direct setup from partition grievance and Xiao He's base-building answer.
 - [[LiuBang|刘邦]], [[ZhangLiang|张良]], [[XiangBo|项伯]], [[Hanzhong|汉中]], [[BaShu|巴蜀]], and [[BurningGalleryRoads|烧栈道]] - relationship bargaining and tactical retreat signaling after Liu Bang accepts Han kingship.
 - [[HanXin|韩信]], [[FanKuai|樊哙]], [[ZhouBo|周勃]], and [[GuanYing|灌婴]] - Liu Bang-side personnel field shaped by morale, disappointment, and future talent absorption.
 - [[TianRong|田荣]], [[TianShi|田巿]], [[TianDu|田都]], [[TianAn|田安]], [[QiState|齐国]], and [[PengYue|彭越]] - Qi rebellion and the armed force that expands the backlash.
@@ -38,5 +38,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 - [[XiangYu|项羽]], [[HanCheng|韩成]], [[CoalitionSettlementFailure|联军战后安排失败]], and [[GuanzhongRegion|关中]] - coercive repair of a brittle order and Liu Bang's resulting strategic window.
 
 ## Contradictions
-- No settled contradiction is recorded. This source extends Hanji 144 part 1 by moving from grievance analysis into the first rebellion cascade and Liu Bang's waiting opportunity.
+- No settled contradiction is recorded. This source extends 汉纪 144 part 1 by moving from grievance analysis into the first rebellion cascade and Liu Bang's waiting opportunity.
 - The episode mentions minor intermediaries such as 张同、夏说 and 萧公角, but this ingest keeps them source-scoped rather than creating low-signal pages.

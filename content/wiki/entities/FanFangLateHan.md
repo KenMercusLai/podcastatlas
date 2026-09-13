@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 范方 / Fan Fang (Late Han)
 
-范方 / Fan Fang (Late Han) enters the wiki through [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] as the cavalry commander [[GongsunZan|公孙瓒]] sends to help [[LiuDaiLateHan|刘岱]] operate in [[YanzhouLateHan|兖州]]. His role changes once Gongsun Zan and [[YuanShao|袁绍]] become enemies: Gongsun Zan privately tells him to pressure Liu Dai over Yuan Shao's household.
+范方 / Fan Fang (Late Han) enters the wiki through [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|汉纪 961]] as the cavalry commander [[GongsunZan|公孙瓒]] sends to help [[LiuDaiLateHan|刘岱]] operate in [[YanzhouLateHan|兖州]]. His role changes once Gongsun Zan and [[YuanShao|袁绍]] become enemies: Gongsun Zan privately tells him to pressure Liu Dai over Yuan Shao's household.
 
 Fan Fang therefore marks the coercive edge of alliance support. What begins as auxiliary cavalry becomes a threat channel when Gongsun Zan says that if Liu Dai does not hand over Yuan Shao's family, he will settle accounts after defeating Yuan Shao. [[ChengYu|程昱]]'s advice to Liu Dai is partly a response to this pressure: Liu Dai should not treat distant Gongsun Zan's cavalry as a reliable protector when the strategic field is shifting.
 

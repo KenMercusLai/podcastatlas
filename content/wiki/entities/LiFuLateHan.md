@@ -12,16 +12,16 @@ last_updated: 2026-09-06
 # 李孚 / Li Fu (late Han)
 
 ## Overview
-李孚 / Li Fu (late Han) enters the wiki through [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] as [[YuanShang|袁尚]]'s messenger during [[CaoCao|曹操]]'s siege of [[YeLateHan|邺城]]. Hanji 1068 then reuses him after [[NanpiLateHan|南皮]] as a surrendered local-trust broker who carries Cao Cao's pacification order into the newly captured city.
+李孚 / Li Fu (late Han) enters the wiki through [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|汉纪 1062]] as [[YuanShang|袁尚]]'s messenger during [[CaoCao|曹操]]'s siege of [[YeLateHan|邺城]]. 汉纪 1068 then reuses him after [[NanpiLateHan|南皮]] as a surrendered local-trust broker who carries Cao Cao's pacification order into the newly captured city.
 
 ## Current Profile
-In Hanji 1062, Yuan Shang returns toward Ye with a relief force but cannot communicate normally with [[ShenPeiLateHan|审配]] inside the city because Cao Cao has isolated Ye with a moat and water barrier. Yuan Shang therefore asks Li Fu to carry news through the siege perimeter.
+In 汉纪 1062, Yuan Shang returns toward Ye with a relief force but cannot communicate normally with [[ShenPeiLateHan|审配]] inside the city because Cao Cao has isolated Ye with a moat and water barrier. Yuan Shang therefore asks Li Fu to carry news through the siege perimeter.
 
 Li Fu succeeds by performing Cao-side authority. He dresses and behaves like a Cao military inspector or `dudu`, brings three riders, uses evening conditions, branch props, official headgear, loud scolding, and blows against guards to move through Cao's camp before reaching the city wall. After Ye's defenders pull him up, he reports Yuan Shang's situation to Shen Pei.
 
 His exit uses a second deception. Knowing the same disguise will not work twice, Li Fu advises Shen Pei to release old, weak, sick, and disabled people under white flags, both to reduce grain pressure and to create a crowd screen. He and his companions leave hidden among that surrendering group.
 
-Hanji 1068 gives Li Fu a different post-surrender function. After Cao Cao takes Nanpi, Li Fu says the city is confused and frightened and recommends sending a recently surrendered but locally trusted person inside to relay Cao Cao's order. Cao Cao sends Li Fu; he tells officials and commoners to keep their posts and stop killing one another, and the episode says order quickly returns.
+汉纪 1068 gives Li Fu a different post-surrender function. After Cao Cao takes Nanpi, Li Fu says the city is confused and frightened and recommends sending a recently surrendered but locally trusted person inside to relay Cao Cao's order. Cao Cao sends Li Fu; he tells officials and commoners to keep their posts and stop killing one another, and the episode says order quickly returns.
 
 ## Key Characteristics
 - Yuan Shang-side messenger in the Ye siege.
@@ -32,11 +32,11 @@ Hanji 1068 gives Li Fu a different post-surrender function. After Cao Cao takes 
 - Source-scoped figure whose current wiki role is confined to the Ye messenger and Nanpi pacification episodes.
 
 ## Evidence
-- Messenger assignment: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] says Yuan Shang asks Li Fu to enter Ye and inform Shen Pei about the relief force.
-- Authority disguise: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] describes Li Fu posing as a Cao-side `dudu`, scolding guards, and moving through the camp until he reaches the city wall.
-- City communication: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] has Li Fu deliver Yuan Shang's information to Shen Pei after being pulled into Ye.
-- Exit cover: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|Hanji 1062]] says Li Fu escapes with three riders by blending into old and weak people sent out under white flags.
-- Post-capture order repair: [[zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o|Hanji 1068]] says Li Fu advises using a surrendered but trusted messenger to calm Nanpi, then personally enters the city and relays Cao Cao's order.
+- Messenger assignment: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|汉纪 1062]] says Yuan Shang asks Li Fu to enter Ye and inform Shen Pei about the relief force.
+- Authority disguise: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|汉纪 1062]] describes Li Fu posing as a Cao-side `dudu`, scolding guards, and moving through the camp until he reaches the city wall.
+- City communication: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|汉纪 1062]] has Li Fu deliver Yuan Shang's information to Shen Pei after being pulled into Ye.
+- Exit cover: [[zizhi-tongjian-hanji-1062-shanzei-de-nixi-daozei-chushen-de-ta-shi-ruhe-zhandui-de-lvkhmezd68key-p-kup55zypbjet|汉纪 1062]] says Li Fu escapes with three riders by blending into old and weak people sent out under white flags.
+- Post-capture order repair: [[zizhi-tongjian-hanji-1068-yuanshao-qushi-hou-caocao-shi-ruhe-xiaomie-yuantan-de-llebqjk-dz18ajvgcjkut7-qha1o|汉纪 1068]] says Li Fu advises using a surrendered but trusted messenger to calm Nanpi, then personally enters the city and relays Cao Cao's order.
 
 ## Qualifications
 This page is intentionally narrow. Both source notes appear to be automated podcast texts and render the name as "李福"; the wiki normalizes to Li Fu / 李孚 based on the Ye siege and Jizhou-main-clerk sequence. This page is distinct from [[LiFuWarringStates|栗腹 / Li Fu (Warring States)]]. Exact costume details, the number of companions, the crowd-exit scene, and the speed of Nanpi stabilization remain source-scoped.
@@ -45,7 +45,7 @@ This page is intentionally narrow. Both source notes appear to be automated podc
 - Created the Late-Han Li Fu route to avoid collision with the existing Warring States Li Fu page.
 - Added Li Fu as the messenger whose authority disguise briefly breaks Cao Cao's isolation of Ye.
 - Linked his entry and exit tactics to siege communication and battlefield information control.
-- Added Hanji 1068's post-surrender pacification role at Nanpi.
+- Added 汉纪 1068's post-surrender pacification role at Nanpi.
 
 ## Relationships
 - [[YuanShang|袁尚]] - leader who sends Li Fu into Ye.

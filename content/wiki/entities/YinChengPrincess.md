@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-阴城公主 / Princess Yincheng is a royal-family figure in Hanji 810 whose marriage to [[BanShiLateHan|班始]] becomes the episode's central household-power crisis. The current wiki profile treats her as important because her princess status changes the risk structure of marriage, not because this single source is enough for a complete biography.
+阴城公主 / Princess Yincheng is a royal-family figure in 汉纪 810 whose marriage to [[BanShiLateHan|班始]] becomes the episode's central household-power crisis. The current wiki profile treats her as important because her princess status changes the risk structure of marriage, not because this single source is enough for a complete biography.
 
 ## Current Profile
 
-Hanji 810 identifies Yincheng as Liu Qing's daughter and the aunt of [[EmperorShunOfHan|汉顺帝]]. She is married to Ban Shi, a Ban-family descendant. The source presents her rank and proximity to the emperor as decisive: after she becomes princess-ranked, Ban Shi has little practical ability to resist humiliation.
+汉纪 810 identifies Yincheng as Liu Qing's daughter and the aunt of [[EmperorShunOfHan|汉顺帝]]. She is married to Ban Shi, a Ban-family descendant. The source presents her rank and proximity to the emperor as decisive: after she becomes princess-ranked, Ban Shi has little practical ability to resist humiliation.
 
 The episode says Yincheng brings lovers into the household and forces Ban Shi to remain hidden while this happens. Ban Shi kills her and one lover. Shun's anger turns her death into a public imperial punishment case, ending in Ban Shi's execution and the killing and display of his full siblings.
 
@@ -28,18 +28,18 @@ The episode says Yincheng brings lovers into the household and forces Ban Shi to
 
 ## Evidence
 
-- Kinship status: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] identifies Yincheng as Liu Qing's daughter and Shun's aunt.
-- Marriage to Ban Shi: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] places Yincheng in a marriage with Ban Shi, Ban Chao's grandson.
-- Household humiliation sequence: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says she brings lovers home and humiliates Ban Shi.
-- Death and imperial aftermath: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Ban Shi kills Yincheng and that Shun orders Ban Shi and his full siblings punished.
+- Kinship status: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] identifies Yincheng as Liu Qing's daughter and Shun's aunt.
+- Marriage to Ban Shi: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] places Yincheng in a marriage with Ban Shi, Ban Chao's grandson.
+- Household humiliation sequence: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says she brings lovers home and humiliates Ban Shi.
+- Death and imperial aftermath: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Ban Shi kills Yincheng and that Shun orders Ban Shi and his full siblings punished.
 
 ## Qualifications
 
-This page follows Hanji 810's episode narrative and does not independently resolve the legal record, gendered judgment, or full court procedure around Yincheng's death. The status-asymmetry claim is about the marriage structure described by the source, not a universal claim about every Han princess marriage.
+This page follows 汉纪 810's episode narrative and does not independently resolve the legal record, gendered judgment, or full court procedure around Yincheng's death. The status-asymmetry claim is about the marriage structure described by the source, not a universal claim about every Han princess marriage.
 
 ## What Changed
 
-- Created the Yincheng Princess page to anchor the royal-marriage, killing, and collateral-punishment sequence from Hanji 810.
+- Created the Yincheng Princess page to anchor the royal-marriage, killing, and collateral-punishment sequence from 汉纪 810.
 
 ## Relationships
 

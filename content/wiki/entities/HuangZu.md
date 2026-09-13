@@ -17,9 +17,9 @@ knowledge_schema: synthesis-v1
 黄祖 / Huang Zu is the Jiangxia-side official in [[LiuBiao|刘表]]'s orbit whose profile combines delegated violence against [[MiHengLateHan|祢衡]], naval defense for Jingzhou, failed resistance to [[SunCe|孙策]] after the Lujiang campaign, and later survival of [[SunQuan|孙权]]'s attack because Jiangdong's rear is disrupted by [[Shanyue|山越]] rebellion.
 
 ## Current Profile
-The current synthesis presents Huang Zu as a regional force with local coercive capacity but limited strategic initiative. In one branch he is the endpoint of a [[BorrowedKnifeKilling|借刀杀人]] chain; in another he serves Liu Biao's naval response to southern pressure; in Hanji 1038 he becomes Liu Xun's aid channel and then Sun Ce's next target, losing family members and ships after the Shaxian fighting.
+The current synthesis presents Huang Zu as a regional force with local coercive capacity but limited strategic initiative. In one branch he is the endpoint of a [[BorrowedKnifeKilling|借刀杀人]] chain; in another he serves Liu Biao's naval response to southern pressure; in 汉纪 1038 he becomes Liu Xun's aid channel and then Sun Ce's next target, losing family members and ships after the Shaxian fighting.
 
-Hanji 1061 adds the next Sun-family pressure point. Sun Quan attacks Huang Zu westward and wins a water battle, but he fails to take the city before Shanyue rebellion behind him forces withdrawal. Huang Zu's survival in this source is therefore not a decisive reversal of Sun-family pressure; it depends on Sun Quan's unresolved Jiangdong interior.
+汉纪 1061 adds the next Sun-family pressure point. Sun Quan attacks Huang Zu westward and wins a water battle, but he fails to take the city before Shanyue rebellion behind him forces withdrawal. Huang Zu's survival in this source is therefore not a decisive reversal of Sun-family pressure; it depends on Sun Quan's unresolved Jiangdong interior.
 
 ## Key Characteristics
 - Receives Mi Heng from Liu Biao and kills him after public insult, completing a delegated-violence chain.
@@ -30,19 +30,19 @@ Hanji 1061 adds the next Sun-family pressure point. Sun Quan attacks Huang Zu we
 - Survives Sun Quan's later attack when Shanyue rebellion forces Sun Quan to abandon the city assault.
 
 ## Evidence
-- Delegated killing: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] has Liu Biao send Mi Heng onward to Huang Zu, whose direct anger supplies the final act of violence.
-- Liu Biao military instrument: [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|Hanji 1027]] uses Huang Zu's navy inside Liu Biao's attempt to block the Yangtze after southern commanderies lean toward Cao Cao.
-- Aid to Liu Xun: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|Hanji 1038]] shows Liu Xun seeking Huang Zu's help, Huang She bringing five thousand troops, and Sun Ce defeating that support.
-- Follow-on defeat: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|Hanji 1038]] follows with Sun Ce attacking Huang Zu at Shaxian, defeating support from Liu Biao, killing Han Xi, and capturing family members and ships.
-- Sun Quan attack interrupted: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] says Sun Quan wins on the water against Huang Zu but must withdraw from the city attack because Shanyue rebellion breaks out.
+- Delegated killing: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] has Liu Biao send Mi Heng onward to Huang Zu, whose direct anger supplies the final act of violence.
+- Liu Biao military instrument: [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|汉纪 1027]] uses Huang Zu's navy inside Liu Biao's attempt to block the Yangtze after southern commanderies lean toward Cao Cao.
+- Aid to Liu Xun: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|汉纪 1038]] shows Liu Xun seeking Huang Zu's help, Huang She bringing five thousand troops, and Sun Ce defeating that support.
+- Follow-on defeat: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|汉纪 1038]] follows with Sun Ce attacking Huang Zu at Shaxian, defeating support from Liu Biao, killing Han Xi, and capturing family members and ships.
+- Sun Quan attack interrupted: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|汉纪 1061]] says Sun Quan wins on the water against Huang Zu but must withdraw from the city attack because Shanyue rebellion breaks out.
 
 ## Qualifications
-Huang Zu mostly appears through hostile or opponent-centered narratives in the current wiki. The Sun-family feud memory, the scale of captures, and the later interrupted Sun Quan attack are treated as source-scoped until more direct Huang Zu material is ingested. Hanji 1061 should not be read as proving Huang Zu's independent battlefield superiority.
+Huang Zu mostly appears through hostile or opponent-centered narratives in the current wiki. The Sun-family feud memory, the scale of captures, and the later interrupted Sun Quan attack are treated as source-scoped until more direct Huang Zu material is ingested. 汉纪 1061 should not be read as proving Huang Zu's independent battlefield superiority.
 
 ## What Changed
-- Added Hanji 1038 as the Liu Xun aid and Sun Ce follow-on defeat branch.
+- Added 汉纪 1038 as the Liu Xun aid and Sun Ce follow-on defeat branch.
 - Migrated the page from chronological notes to synthesis-v1.
-- Added Hanji 1061's Sun Quan attack and Shanyue-caused withdrawal branch.
+- Added 汉纪 1061's Sun Quan attack and Shanyue-caused withdrawal branch.
 
 ## Relationships
 - [[LiuBiao|刘表]] - superior and regional power whose orbit Huang Zu serves.

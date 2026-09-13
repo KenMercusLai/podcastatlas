@@ -14,7 +14,7 @@ Office duty exit constraint / 任官责任退出受限 is the governance pattern
 
 ## Current Synthesis
 
-Hanji 870 grounds the concept through [[HuangfuGuiLateHan|皇甫规]] and [[ZhangHuanLateHan|张奂]]. Huangfu Gui tries to avoid returning to frontier command by claiming illness and then by creating an impeachable jurisdictional violation. [[HuFangLateHan|胡方]] sees the tactic and refuses to report him because the court still needs the talent. Zhang Huan supplies the other half of the pattern: after being recalled to the capital for agricultural finance during famine, frontier groups exploit his absence, and the court sends him back with expanded oversight.
+汉纪 870 grounds the concept through [[HuangfuGuiLateHan|皇甫规]] and [[ZhangHuanLateHan|张奂]]. Huangfu Gui tries to avoid returning to frontier command by claiming illness and then by creating an impeachable jurisdictional violation. [[HuFangLateHan|胡方]] sees the tactic and refuses to report him because the court still needs the talent. Zhang Huan supplies the other half of the pattern: after being recalled to the capital for agricultural finance during famine, frontier groups exploit his absence, and the court sends him back with expanded oversight.
 
 The pattern differs from ordinary career dissatisfaction. The source is not saying that all officials are trapped in the same way; it shows exit pressure rising when public disorder, frontier raids, famine, and scarce command competence make withdrawal look like abandonment or waste of capacity.
 
@@ -28,10 +28,10 @@ The pattern differs from ordinary career dissatisfaction. The source is not sayi
 
 ## Evidence
 
-- Huangfu Gui's illness claim: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says Huangfu Gui reports illness after being reappointed Duliao general, but the court does not approve withdrawal.
-- Manufactured impeachment attempt: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says he crosses his jurisdiction to greet a friend's coffin and has guests tell Hu Fang, hoping to be impeached for leaving camp.
-- Refused exit validation: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says Hu Fang recognizes the intent and refuses to report him because the court values talent.
-- State dependence on Zhang Huan: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|Hanji 870]] says frontier groups raid after Zhang Huan is called back to Luoyang, and Huan reappoints him Protector of the Xiongnu with wider supervisory authority.
+- Huangfu Gui's illness claim: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] says Huangfu Gui reports illness after being reappointed Duliao general, but the court does not approve withdrawal.
+- Manufactured impeachment attempt: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] says he crosses his jurisdiction to greet a friend's coffin and has guests tell Hu Fang, hoping to be impeached for leaving camp.
+- Refused exit validation: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] says Hu Fang recognizes the intent and refuses to report him because the court values talent.
+- State dependence on Zhang Huan: [[zizhi-tongjian-hanji-870-gudai-tizhinei-buganle-meiyou-tuilu-lpwbniu9ifpt6cp4ip9czqwsh5xd|汉纪 870]] says frontier groups raid after Zhang Huan is called back to Luoyang, and Huan reappoints him Protector of the Xiongnu with wider supervisory authority.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept should not be generalized into a claim that resignation is impossibl
 
 ## What Changed
 
-- Created the concept from Hanji 870's Huangfu Gui and Zhang Huan appointment cases.
+- Created the concept from 汉纪 870's Huangfu Gui and Zhang Huan appointment cases.
 - Distinguished office-duty exit constraint from modern career exit friction and from political survival strategy.
 
 ## Related Concepts

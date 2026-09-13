@@ -14,7 +14,7 @@ The concept is narrower than general accountability. It focuses on the moment af
 
 This links ancient court politics to modern management in the episode. The host says many leaders avoid admitting mistakes because it costs face, seems unnecessary, or weakens an image of omnipotence. The lesson is not performative self-blame; it is operational repair before the loss of trust becomes harder to reverse.
 
-[[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]] adds a negative Chu-Han case through [[XiangYu|项羽]]. After [[GaixiaBattle|垓下之战]], Xiang Yu can still prove tactical brilliance at [[DongchengChuHan|东城]], but he does not ask why his strategy, politics, alliances, and morale have failed. His repeated "Heaven will destroy me" explanation becomes the opposite of correction: it protects face and tragic dignity while leaving the error model untouched.
+[[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|汉纪 168 part 2]] adds a negative Chu-Han case through [[XiangYu|项羽]]. After [[GaixiaBattle|垓下之战]], Xiang Yu can still prove tactical brilliance at [[DongchengChuHan|东城]], but he does not ask why his strategy, politics, alliances, and morale have failed. His repeated "Heaven will destroy me" explanation becomes the opposite of correction: it protects face and tragic dignity while leaving the error model untouched.
 
 ## Key Claims
 - Even excellent leaders can make understandable mistakes.
@@ -22,7 +22,7 @@ This links ancient court politics to modern management in the episode. The host 
 - Private remorse does not substitute for policy repair.
 - Face-saving can turn a correctable mistake into a trust failure.
 - A leader who must always appear right loses access to the practical benefits of advice, review, and correction.
-- Hanji 168 part 2 adds that even real tactical excellence can become anti-correction when it is used to prove personal worth instead of diagnose strategic failure.
+- 汉纪 168 part 2 adds that even real tactical excellence can become anti-correction when it is used to prove personal worth instead of diagnose strategic failure.
 
 ## Connections
 - [[Mengzi|孟子 / Mencius]], [[ChenJiaWarringStates|陈甲]], [[ZhouGong|周公]], and [[QiXuanWang|齐宣王]] - source case and ancient exempla.
@@ -30,4 +30,4 @@ This links ancient court politics to modern management in the episode. The host 
 - [[ContentOverMotiveRemonstrance|只问对错不问动机的纳谏]] - adjacent advice discipline before the mistake hardens.
 - [[RecognitionAsHumiliation]] - modern shame pattern that can make admitting error feel like degradation.
 - [[MencianBenevolentGovernment|孟子仁政]] and [[MencianPeopleBasedLegitimacy|孟子的民本合法性]] - policy stakes in the Yan campaign.
-- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|Hanji 168 part 2]], [[XiangYu|项羽]], [[DongchengChuHan|东城]], [[WujiangChuHan|乌江]], and [[TacticalSelfVindicationTrap|战术自证陷阱]] - negative case where tactical self-proof replaces strategic correction.
+- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-2-liqgict85wh-bf4fn2bytygmk-ca|汉纪 168 part 2]], [[XiangYu|项羽]], [[DongchengChuHan|东城]], [[WujiangChuHan|乌江]], and [[TacticalSelfVindicationTrap|战术自证陷阱]] - negative case where tactical self-proof replaces strategic correction.

@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-李郃 / Li He enters the wiki as the Hanzhong household official who turns a dangerous gift mission to [[DouXianEasternHan|Dou Xian]] into a timing solution. In Hanji 767, he first warns against contact with Dou, then volunteers to carry the gift himself and delays the trip until Dou's fall makes the [[HanZhongLateHan|Hanzhong]] administrator safe from the purge.
+李郃 / Li He enters the wiki as the Hanzhong household official who turns a dangerous gift mission to [[DouXianEasternHan|Dou Xian]] into a timing solution. In 汉纪 767, he first warns against contact with Dou, then volunteers to carry the gift himself and delays the trip until Dou's fall makes the [[HanZhongLateHan|Hanzhong]] administrator safe from the purge.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ The mission then becomes controlled delay. Li He travels slowly and watches the 
 
 ## Evidence
 
-- Risk warning: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Li He advised the Hanzhong administrator not to interact with Dou Xian because Dou lacked virtue and was near disaster.
-- Mission takeover: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Li He volunteered to go when the administrator still feared not sending a gift.
-- Delayed execution: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Li He moved slowly and observed developments on the road.
-- Outcome: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] says Dou's family fell while Li He was at Fufeng, and the Hanzhong administrator avoided removal because the gift association had not been completed.
+- Risk warning: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Li He advised the Hanzhong administrator not to interact with Dou Xian because Dou lacked virtue and was near disaster.
+- Mission takeover: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Li He volunteered to go when the administrator still feared not sending a gift.
+- Delayed execution: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Li He moved slowly and observed developments on the road.
+- Outcome: [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] says Dou's family fell while Li He was at Fufeng, and the Hanzhong administrator avoided removal because the gift association had not been completed.
 
 ## Qualifications
 

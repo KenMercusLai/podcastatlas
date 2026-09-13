@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 张负 / Zhang Fu
 
-张负 / Zhang Fu appears in [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|Hanji 150]] as the Huyou local wealthy elder who first converts [[ChenPing|陈平]]'s loose local reputation into family-backed mobility. He notices Chen Ping's bearing while Chen Ping helps at funerals, then visits Chen Ping's poor home and treats the many cart tracks outside as evidence that people of standing already seek him out.
+张负 / Zhang Fu appears in [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|汉纪 150]] as the Huyou local wealthy elder who first converts [[ChenPing|陈平]]'s loose local reputation into family-backed mobility. He notices Chen Ping's bearing while Chen Ping helps at funerals, then visits Chen Ping's poor home and treats the many cart tracks outside as evidence that people of standing already seek him out.
 
 The source makes Zhang Fu's judgment a Chen Ping-side parallel to [[LuGongLiuBangFatherInLaw|吕公]]'s bet on [[LiuBang|刘邦]]. Zhang Fu does not wait for Chen Ping to have office or wealth; he supplies the missing capital by arranging marriage to [[ChenPingWife|his granddaughter]], paying the betrothal expenses, and funding the wedding feast. In the episode's reading, Zhang Fu is not only a generous elder but an early investor in a politically promising person.
 

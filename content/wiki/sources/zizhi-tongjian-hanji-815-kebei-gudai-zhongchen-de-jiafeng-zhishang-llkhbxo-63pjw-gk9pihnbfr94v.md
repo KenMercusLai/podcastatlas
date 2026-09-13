@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 133 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]]. It follows [[ZhangHengLateHan|张衡]] criticizing Xiaolian criteria and mass local-official removals, [[LiGuLateHan|李固]] winning the temporary removal of [[SongELateHan|宋娥]] from palace access before being retaliated against, and [[PangCanLateHan|庞参]] losing office after a household murder scandal.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 133 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]]. It follows [[ZhangHengLateHan|张衡]] criticizing Xiaolian criteria and mass local-official removals, [[LiGuLateHan|李固]] winning the temporary removal of [[SongELateHan|宋娥]] from palace access before being retaliated against, and [[PangCanLateHan|庞参]] losing office after a household murder scandal.
 
 The durable contribution is a 133 CE prelude to later Shun-era fragility. Advice can briefly move the ruler, but palace attendants and eunuchs can recode correction into accusation; moral reputation can draw public defense, but a high official's household disorder can become impeachment leverage; and the [[Xianbei|鲜卑]] notice links [[QizhijianXianbei|其至鞬]]'s death to reduced raids after a failed Han response at Ma Cheng.
 
@@ -40,13 +40,13 @@ The durable contribution is a 133 CE prelude to later Shun-era fragility. Advice
 
 - [[ZhangHengLateHan|张衡]], [[AppointmentQualityAsStateCapacity|任官适任性国家能力]], and Xiaolian selection - the episode treats criteria drift as a personnel-capacity problem.
 - [[LiGuLateHan|李固]], [[SongELateHan|宋娥]], [[AnonymousSlanderRetaliation|匿名诬告式报复]], and [[EmperorShunOfHan|汉顺帝]] - correction removes palace access briefly, then returns as anonymous accusation and direct-edict investigation.
-- [[MaRongLateHan|马融]] and [[ZhangHengLateHan|张衡]] - paired learned advisers whose talent profiles precede later Hanji 816 and Hanji 821 evidence.
+- [[MaRongLateHan|马融]] and [[ZhangHengLateHan|张衡]] - paired learned advisers whose talent profiles precede later 汉纪 816 and 汉纪 821 evidence.
 - [[PangCanLateHan|庞参]], [[DuanGongchengLateHan|段恭诚]], [[ZhuLiangLuoyangLateHan|朱良]], and [[HouseholdMisconductPoliticalLiability|家门失范政治连带]] - moral reputation and household failure collide in Pang Can's dismissal.
 - [[ShiYanLateHan|施延]], [[Xianbei|鲜卑]], and [[QizhijianXianbei|其至鞬]] - closing office and frontier notices after Pang Can's removal.
-- [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]] - downstream 134 CE note that this episode now chronologically prefaces.
+- [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]] - downstream 134 CE note that this episode now chronologically prefaces.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills 133 CE before Hanji 816's 134 CE Zhang Heng, Zhou Ju, and Shun-era remonstrance layer.
-- Disambiguation caution: [[ZhuLiangLuoyangLateHan|朱良]] is the Luoyang magistrate in Pang Can's impeachment and is distinct from [[ZhuLiangLateHan|祝良]], the Jiaozhi official in Hanji 819.
+- No settled contradiction with existing wiki pages was found. This source backfills 133 CE before 汉纪 816's 134 CE Zhang Heng, Zhou Ju, and Shun-era remonstrance layer.
+- Disambiguation caution: [[ZhuLiangLuoyangLateHan|朱良]] is the Luoyang magistrate in Pang Can's impeachment and is distinct from [[ZhuLiangLateHan|祝良]], the Jiaozhi official in 汉纪 819.
 - Scope caution: Ma Cheng, Daijun taishou, the exact anonymous-letter wording, Pang Can's wife and murdered son, and the host's "福报/吃亏/忍耐" self-cultivation frame remain source-scoped unless later notes warrant standalone pages.

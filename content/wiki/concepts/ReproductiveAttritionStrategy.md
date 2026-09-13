@@ -14,7 +14,7 @@ Reproductive attrition strategy / 繁衍打击战略 is a source-scoped warfare 
 
 ## Current Synthesis
 
-Hanji 841 introduces the concept through its reading of Han Wudi's spring attacks on Xiongnu. The episode cites the Tongjian phrase about heavy pregnancy and fetal loss, then argues that spring flight under military pressure would especially endanger pregnant women. In that reading, the campaign attacks not only an army but the next generation of people.
+汉纪 841 introduces the concept through its reading of Han Wudi's spring attacks on Xiongnu. The episode cites the Tongjian phrase about heavy pregnancy and fetal loss, then argues that spring flight under military pressure would especially endanger pregnant women. In that reading, the campaign attacks not only an army but the next generation of people.
 
 The same episode extends the logic to livestock. Spring is also a breeding season for animals, so forcing movement or disorder can damage herd reproduction and future economic capacity. The concept therefore belongs with [[SeasonalWarLogistics|战争季节后勤]] and [[NomadicCavalryRaidingAsymmetry|游牧骑兵劫掠不对称]], while its moral center is civilian and reproductive harm.
 
@@ -27,9 +27,9 @@ The same episode extends the logic to livestock. Spring is also a breeding seaso
 
 ## Evidence
 
-- Human reproductive harm: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] reads Han Wudi's spring pressure on Xiongnu as causing pregnant women to flee and suffer fetal loss.
-- Livestock reproductive harm: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] says spring attacks also disrupt animal breeding and therefore future herds.
-- Seasonal strategic fit: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] contrasts this spring logic with Xiongnu autumn raids, making reproductive attrition one branch of a larger campaign-calendar analysis.
+- Human reproductive harm: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|汉纪 841]] reads Han Wudi's spring pressure on Xiongnu as causing pregnant women to flee and suffer fetal loss.
+- Livestock reproductive harm: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|汉纪 841]] says spring attacks also disrupt animal breeding and therefore future herds.
+- Seasonal strategic fit: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|汉纪 841]] contrasts this spring logic with Xiongnu autumn raids, making reproductive attrition one branch of a larger campaign-calendar analysis.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ The concept is currently grounded in one source's interpretation of a specific T
 
 ## What Changed
 
-- Created the concept from Hanji 841's source-scoped interpretation of Han Wudi's spring anti-Xiongnu campaigns.
+- Created the concept from 汉纪 841's source-scoped interpretation of Han Wudi's spring anti-Xiongnu campaigns.
 
 ## Related Concepts
 

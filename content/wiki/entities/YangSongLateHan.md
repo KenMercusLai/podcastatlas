@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 Yang Song is a late-Han Yizhou officer under Zhang Qiao whose campaign against Feng Li combines military defeat, generous settlement, tribal submission, and punishment of abusive local officials.
 
 ## Current Profile
-[[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] presents Yang Song as the officer whom [[ZhangQiaoLateHan|Zhang Qiao]] sends against Feng Li in Yizhou. He defeats Feng Li's forces, kills large numbers, captures prisoners, accepts surrender, treats Feng Li generously, wins the submission of thirty-six tribal groups, and reports more than ninety oppressive local officials for punishment.
+[[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|汉纪 790]] presents Yang Song as the officer whom [[ZhangQiaoLateHan|Zhang Qiao]] sends against Feng Li in Yizhou. He defeats Feng Li's forces, kills large numbers, captures prisoners, accepts surrender, treats Feng Li generously, wins the submission of thirty-six tribal groups, and reports more than ninety oppressive local officials for punishment.
 
 ## Key Characteristics
 - Operates as Zhang Qiao's field subordinate in the southwest.
@@ -21,16 +21,16 @@ Yang Song is a late-Han Yizhou officer under Zhang Qiao whose campaign against F
 - Anchors an early example of [[YizhouPacificationByLeniency|Yizhou pacification by leniency]] before later Liu Yan material.
 
 ## Evidence
-- Command role: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Zhang Qiao sends Yang Song against Feng Li.
-- Military result: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] reports a large victory, prisoner capture, and surrender acceptance.
-- Lenient settlement: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] emphasizes generous treatment of Feng Li after defeat.
-- Administrative correction: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] records Yang Song reporting more than ninety harsh or abusive local officials, who were then sentenced.
+- Command role: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|汉纪 790]] says Zhang Qiao sends Yang Song against Feng Li.
+- Military result: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|汉纪 790]] reports a large victory, prisoner capture, and surrender acceptance.
+- Lenient settlement: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|汉纪 790]] emphasizes generous treatment of Feng Li after defeat.
+- Administrative correction: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|汉纪 790]] records Yang Song reporting more than ninety harsh or abusive local officials, who were then sentenced.
 
 ## Qualifications
-The page is source-bounded to Hanji 790. The exact Chinese character form for Yang Song should remain source-scoped until another note corroborates or corrects it.
+The page is source-bounded to 汉纪 790. The exact Chinese character form for Yang Song should remain source-scoped until another note corroborates or corrects it.
 
 ## What Changed
-- Created the page from Hanji 790.
+- Created the page from 汉纪 790.
 - Added Yang Song as the operational example behind Zhang Qiao's earlier Yizhou profile.
 
 ## Relationships

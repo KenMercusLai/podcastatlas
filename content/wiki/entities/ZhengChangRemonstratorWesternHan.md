@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-郑昌 / Zheng Chang enters the wiki through [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] as a Western Han remonstrance official who defends [[GaiKuanraoWesternHan|盖宽饶]] after Gai's memorial is interpreted as treasonous under [[EmperorXuanOfHan|汉宣帝]].
+郑昌 / Zheng Chang enters the wiki through [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] as a Western Han remonstrance official who defends [[GaiKuanraoWesternHan|盖宽饶]] after Gai's memorial is interpreted as treasonous under [[EmperorXuanOfHan|汉宣帝]].
 
 ## Current Profile
 
@@ -28,23 +28,23 @@ The intervention fails. Xuan does not accept Zheng's defense, and Gai is handed 
 ## Evidence
 
 Defense of Gai:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Zheng appreciates Gai and argues that Gai is loyal and worried for the state.
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Zheng claims a state with loyal ministers keeps corrupt actors from raising their heads.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Zheng appreciates Gai and argues that Gai is loyal and worried for the state.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Zheng claims a state with loyal ministers keeps corrupt actors from raising their heads.
 
 Institutional reading:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Zheng points to Gai's lack of imperial relatives or powerful-clan backing and his supervisory duties as reasons he has enemies and few friends.
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Zheng grounds his speech in his remonstrance-office responsibility.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Zheng points to Gai's lack of imperial relatives or powerful-clan backing and his supervisory duties as reasons he has enemies and few friends.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Zheng grounds his speech in his remonstrance-office responsibility.
 
 Failure of protection:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Xuan does not accept Zheng's defense and Gai proceeds toward yushi judgment.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Xuan does not accept Zheng's defense and Gai proceeds toward yushi judgment.
 
 ## Qualifications
 
-This page is not a complete biography of Zheng Chang. It records the Hanji 441 episode's bounded presentation of him as Gai Kuanrao's defender. It does not settle his broader career, family background, later office path, or the full original memorial text.
+This page is not a complete biography of Zheng Chang. It records the 汉纪 441 episode's bounded presentation of him as Gai Kuanrao's defender. It does not settle his broader career, family background, later office path, or the full original memorial text.
 
 ## What Changed
 
-- Created the page from Hanji 441 as the defender figure in Gai Kuanrao's death case.
+- Created the page from 汉纪 441 as the defender figure in Gai Kuanrao's death case.
 
 ## Relationships
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-Ma Shiqiu / 马士求 is a Julu man in [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] who plots to raise Yan and Zhao forces against [[WangMang|王莽]]. His failed conspiracy becomes evidence for late-[[XinDynasty|新朝]] local resistance and mass punitive response.
+Ma Shiqiu / 马士求 is a Julu man in [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] who plots to raise Yan and Zhao forces against [[WangMang|王莽]]. His failed conspiracy becomes evidence for late-[[XinDynasty|新朝]] local resistance and mass punitive response.
 
 ## Current Profile
 
@@ -24,9 +24,9 @@ The source gives Ma Shiqiu a single but revealing role. His plan shows that anti
 
 ## Evidence
 
-- Plot notice: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Ma Shiqiu joins others to mobilize Yan and Zhao forces against Wang Mang.
-- Detection: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Wang Dan discovers and reports the conspiracy.
-- Punitive outcome: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says the case implicates more than a thousand people across commanderies and kingdoms, all of whom are killed.
+- Plot notice: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Ma Shiqiu joins others to mobilize Yan and Zhao forces against Wang Mang.
+- Detection: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Wang Dan discovers and reports the conspiracy.
+- Punitive outcome: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says the case implicates more than a thousand people across commanderies and kingdoms, all of whom are killed.
 
 ## Qualifications
 
@@ -34,7 +34,7 @@ The page is source-scoped. Ma Shiqiu's wider network, social base, exact plan, a
 
 ## What Changed
 
-- Created from Hanji 657 as a local anti-Xin plotter whose case shows widening resistance and exemplary punishment.
+- Created from 汉纪 657 as a local anti-Xin plotter whose case shows widening resistance and exemplary punishment.
 
 ## Relationships
 

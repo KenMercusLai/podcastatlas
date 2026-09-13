@@ -10,7 +10,7 @@ last_updated: 2026-09-08
 
 ## Overview
 
-Wang Kuang / 王匡 is one of Wang Mang's private sons recalled in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] after Wang Mang's public sons die. This page disambiguates him from later same-name figures such as [[WangKuangLateHan|王匡]].
+Wang Kuang / 王匡 is one of Wang Mang's private sons recalled in [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] after Wang Mang's public sons die. This page disambiguates him from later same-name figures such as [[WangKuangLateHan|王匡]].
 
 ## Current Profile
 
@@ -24,17 +24,17 @@ The source pairs Wang Kuang with [[WangXingXinPrince|王兴]]. Both are said to 
 
 ## Evidence
 
-- Private-son status: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Kuang was born from Wang Mang's earlier relationship with an attendant.
-- Xindu status: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Kuang and Wang Xing had stayed in Xindu because their status was unclear.
-- Recall after public-son deaths: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] says Wang Mang later recalls and titles them because succession becomes urgent.
+- Private-son status: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Kuang was born from Wang Mang's earlier relationship with an attendant.
+- Xindu status: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Kuang and Wang Xing had stayed in Xindu because their status was unclear.
+- Recall after public-son deaths: [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] says Wang Mang later recalls and titles them because succession becomes urgent.
 
 ## Qualifications
 
-Hanji 658 gives Wang Kuang only as a succession fallback. The page therefore keeps later actions, exact titles, and biographical detail outside the current synthesis until another source adds them.
+汉纪 658 gives Wang Kuang only as a succession fallback. The page therefore keeps later actions, exact titles, and biographical detail outside the current synthesis until another source adds them.
 
 ## What Changed
 
-- Created from Hanji 658 and disambiguated from later same-name Wang Kuang figures.
+- Created from 汉纪 658 and disambiguated from later same-name Wang Kuang figures.
 
 ## Relationships
 

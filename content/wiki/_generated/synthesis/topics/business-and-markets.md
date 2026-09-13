@@ -365,7 +365,7 @@ The Templafy source qualifies the wiki's pre-product SaaS pattern: [[PreProductS
 
 ### Reputation Protects Future Talent Access
 
-Hanji 1009 extends the topic's trust logic into talent access: [[ReputationConstrainedTalentProtection]] and [[TalentAttractionThroughRespect]] frame [[CaoCao]]'s decision to spare [[LiuBei]] as protection of future recruitment credibility.
+汉纪 1009 extends the topic's trust logic into talent access: [[ReputationConstrainedTalentProtection]] and [[TalentAttractionThroughRespect]] frame [[CaoCao]]'s decision to spare [[LiuBei]] as protection of future recruitment credibility.
 
 **Evidence:** [[ReputationConstrainedTalentProtection]], [[TalentAttractionThroughRespect]], [[CaoCao]], [[LiuBei]]
 
@@ -457,7 +457,7 @@ Public-safety vendor and consumer-camera adoption depend on legitimacy controls 
 
 ### Palace Fee Extraction Is Source Scoped Fiscal Analogy
 
-Hanji 932 is a source-scoped fiscal-governance analogy inside this business topic: [[PalaceConstructionFeeExtraction]] shows [[EmperorLingOfHan]]'s court, [[ZhangRangLateHan]], and [[ZhaoZhongLateHan]] turning palace construction and appointment access into fees that officials could recover only through local extraction, while [[SimaZhiLateHan]] refuses that debt-recovery logic in [[JuluCommanderyLateHan]].
+汉纪 932 is a source-scoped fiscal-governance analogy inside this business topic: [[PalaceConstructionFeeExtraction]] shows [[EmperorLingOfHan]]'s court, [[ZhangRangLateHan]], and [[ZhaoZhongLateHan]] turning palace construction and appointment access into fees that officials could recover only through local extraction, while [[SimaZhiLateHan]] refuses that debt-recovery logic in [[JuluCommanderyLateHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29]], [[PalaceConstructionFeeExtraction]], [[EmperorLingOfHan]], [[ZhangRangLateHan]], [[ZhaoZhongLateHan]], [[SimaZhiLateHan]], [[JuluCommanderyLateHan]], [[OfficeSaleLegitimacyDamage]], [[CourtOfficeCapture]]
 

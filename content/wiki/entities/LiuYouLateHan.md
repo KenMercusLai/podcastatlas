@@ -24,9 +24,9 @@ The result is not restitution but punishment: Emperor Huan sends Liu You to left
 - Later included in Ying Feng's pardon campaign, marking his punishment as part of a broader court correction issue.
 
 ## Evidence
-- Fiscal enforcement role: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] identifies Liu You as dasinong and records his order to confiscate the properties acquired by Su Kang and Guan Ba.
-- Punishment inversion: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Liu You is punished with Li Ying and Feng Gun after the confiscation effort angers Emperor Huan.
-- Later recoverability: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] includes Liu You among officials whose pardon Ying Feng requests during the later reset.
+- Fiscal enforcement role: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] identifies Liu You as dasinong and records his order to confiscate the properties acquired by Su Kang and Guan Ba.
+- Punishment inversion: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Liu You is punished with Li Ying and Feng Gun after the confiscation effort angers Emperor Huan.
+- Later recoverability: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|汉纪 869]] includes Liu You among officials whose pardon Ying Feng requests during the later reset.
 
 ## Qualifications
 This page should not be confused with [[LiuYuLateHan|Liu Yu / Liu Yu of Youzhou]] or [[LiuYuAstrologerLateHan|Liu Yu the Guangling remonstrant]]. Its current scope is the fiscal official 刘祐 in the Emperor Huan court crisis.

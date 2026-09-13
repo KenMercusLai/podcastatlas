@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 1 / 6 BCE under [[HanAidi|汉哀帝]], between [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|Hanji 574]] and [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|Hanji 576]]. It follows [[ShiDanWesternHan|施丹]] opposing Aidi's effort to elevate the Dingtao parental line, then being removed after inconsistent advice on currency reform and a supposedly sealed memorial leaks through a subordinate copy.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 1 / 6 BCE under [[HanAidi|汉哀帝]], between [[zizhi-tongjian-hanji-574-gudai-de-manfen-zuowen-shi-shenme-yangzi-lotqprwr3rk5lke0rjn94riljuvh|汉纪 574]] and [[zizhi-tongjian-hanji-576-dangxiong-jiu-huangdi-de-ta-weihe-bei-qingdi-bisi-ll3pgr_smwlebpgo1vlufhe6qll6|汉纪 576]]. It follows [[ShiDanWesternHan|施丹]] opposing Aidi's effort to elevate the Dingtao parental line, then being removed after inconsistent advice on currency reform and a supposedly sealed memorial leaks through a subordinate copy.
 
 The durable synthesis is that secrecy, ritual rank, and factional opportunity converge. Shi Dan's ritual argument that imperial supremacy cannot have a second center is politically strong but personally costly; once his confidential memorial circulates, Ding/Fu-aligned opponents can turn procedural leakage into a charge of "great irreverence," while Tang Lin's later plea wins only a reduced restoration as guannei marquis.
 
@@ -42,10 +42,10 @@ The durable synthesis is that secrecy, ritual rank, and factional opportunity co
 - [[KongGuangWesternHan|孔光]], [[FuXiWesternHan|傅喜]], and [[AdoptiveLineageRitualPolitics|过继宗法礼制政治]] - senior officials defend the logic that Aidi's adoptive succession fixes his public ritual obligations.
 - [[ConfidentialRemonstranceLeakage|密奏泄露风险]] and [[CourtFeedbackCollapse|君臣反馈失灵]] - the source adds a Western Han leak case where failed confidentiality destroys the remonstrance channel.
 - [[ImperialConsortPosthumousTitleSystem|皇后谥号制度]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[BureaucraticAdverseSelection|官场逆淘汰]] - title order, ritual hierarchy, and personnel punishment intersect in the case.
-- [[ZhuBoWesternHan|朱博]] and [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|Hanji 579]] - Shi Dan's removal prepares the later title settlement and retrospective cleanup sequence.
+- [[ZhuBoWesternHan|朱博]] and [[zizhi-tongjian-hanji-579-zoujin-kexue-guyao-shi-yao-ma-lof7pvrnlzv2lmbzjshbx7vi2c2n|汉纪 579]] - Shi Dan's removal prepares the later title settlement and retrospective cleanup sequence.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills Jianping 1 / 6 BCE before Hanji 577-580's later Dingtao title settlement, Shi Dan stripping, and Zhu Bo/Zhao Xuan personnel sequence.
+- Chronology qualification: this source backfills Jianping 1 / 6 BCE before 汉纪 577-580's later Dingtao title settlement, Shi Dan stripping, and Zhu Bo/Zhao Xuan personnel sequence.
 - Scope caution: the source summarizes the ritual debate, currency-reform exchange, memorial leak, and mercy pleas; it does not reconstruct the full received text of Shi Dan's memorial, the exact subordinate-copy route, Tang Lin's broader career, or the complete Ding/Fu accusation network.

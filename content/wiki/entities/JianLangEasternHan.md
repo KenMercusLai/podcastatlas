@@ -10,7 +10,7 @@ last_updated: 2026-08-31
 
 ## Overview
 
-[[JianLangEasternHan|寋朗 / Jian Lang]] is the Eastern Han shiyushi who interrupts the Chu-prison implication cascade in [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]]. He tests the accusers' claims by asking whether they can describe the men they have implicated, then risks punishment by telling [[EmperorMingOfHan|汉明帝]] that ministers privately know many people in the case are wronged.
+[[JianLangEasternHan|寋朗 / Jian Lang]] is the Eastern Han shiyushi who interrupts the Chu-prison implication cascade in [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]]. He tests the accusers' claims by asking whether they can describe the men they have implicated, then risks punishment by telling [[EmperorMingOfHan|汉明帝]] that ministers privately know many people in the case are wronged.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ His remonstrance then exposes a court-feedback failure. Mingdi initially treats 
 
 ## Evidence
 
-- Appearance-test verification: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Jian Lang asks Yan Zhong and Wang Ping about the accused marquises' appearance and finds they cannot describe them.
-- Risk under imperial anger: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Mingdi accuses him of holding two ends and orders punishment before Jian requests one more speech.
-- Sole responsibility: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] presents Jian Lang as saying the memorial was his own act because he fears clan-wide punishment.
-- Feedback repair: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] links his speech to Mingdi's release of Jian Lang, review of Luoyang prison, and release of more than one thousand people.
+- Appearance-test verification: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says Jian Lang asks Yan Zhong and Wang Ping about the accused marquises' appearance and finds they cannot describe them.
+- Risk under imperial anger: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says Mingdi accuses him of holding two ends and orders punishment before Jian requests one more speech.
+- Sole responsibility: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] presents Jian Lang as saying the memorial was his own act because he fears clan-wide punishment.
+- Feedback repair: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] links his speech to Mingdi's release of Jian Lang, review of Luoyang prison, and release of more than one thousand people.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The page does not treat Jian Lang as the sole rescuer of the entire case. His in
 
 ## What Changed
 
-- Created this page from Hanji 740 as the durable route for the Chu-prison censor.
+- Created this page from 汉纪 740 as the durable route for the Chu-prison censor.
 - Added Jian Lang as an evidence-verification and death-risk remonstrance figure.
 - Captured his role in repairing a court-feedback collapse without overstating him as the only cause of correction.
 

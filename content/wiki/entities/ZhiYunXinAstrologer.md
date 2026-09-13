@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-Zhi Yun / 智韵 is a Runan specialist in astronomy and calendrics in [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]]. He tells [[WangMang|王莽]] that Han will revive and that Wang Mang should return to ministerial status, making him a direct mandate-remonstrance figure in late [[XinDynasty|新朝]].
+Zhi Yun / 智韵 is a Runan specialist in astronomy and calendrics in [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]]. He tells [[WangMang|王莽]] that Han will revive and that Wang Mang should return to ministerial status, making him a direct mandate-remonstrance figure in late [[XinDynasty|新朝]].
 
 ## Current Profile
 
@@ -25,9 +25,9 @@ The source presents Zhi Yun as using the same Heaven-readable political language
 
 ## Evidence
 
-- Technical identity: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Zhi Yun is skilled in astronomy and calendar calculation.
-- Mandate remonstrance: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says he argues that Heaven's strange signs mean Wang Mang should awaken and return to ministerial position.
-- Punishment and survival: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Wang Mang imprisons him and he is released only after winter amnesty.
+- Technical identity: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Zhi Yun is skilled in astronomy and calendar calculation.
+- Mandate remonstrance: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says he argues that Heaven's strange signs mean Wang Mang should awaken and return to ministerial position.
+- Punishment and survival: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Wang Mang imprisons him and he is released only after winter amnesty.
 
 ## Qualifications
 
@@ -35,7 +35,7 @@ This Zhi Yun is distinct from [[ZhiYunEasternHan|郅恽]], the Guangwu-era remon
 
 ## What Changed
 
-- Created from Hanji 657 as a late-Xin astrologer whose remonstrance turns omen language against Wang Mang.
+- Created from 汉纪 657 as a late-Xin astrologer whose remonstrance turns omen language against Wang Mang.
 
 ## Relationships
 

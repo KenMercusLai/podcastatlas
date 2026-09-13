@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 郑玄 / Zheng Xuan
 
-郑玄 / Zheng Xuan enters the wiki through [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] as the great Confucian scholar whom [[KongRong|孔融]] honors in [[BeihaiCommandery|北海郡]]. The source says Kong Rong treats Zheng Xuan as representing the highest level of late Eastern Han Confucian learning and renames Zheng Xuan's village "郑公乡".
+郑玄 / Zheng Xuan enters the wiki through [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|汉纪 1007]] as the great Confucian scholar whom [[KongRong|孔融]] honors in [[BeihaiCommandery|北海郡]]. The source says Kong Rong treats Zheng Xuan as representing the highest level of late Eastern Han Confucian learning and renames Zheng Xuan's village "郑公乡".
 
 The episode's use of Zheng Xuan is contrastive. Kong Rong can recognize and publicly honor scholarly prestige, but the Beihai crisis still turns on whether a ruler can convert respect for learning and talented guests into usable governance, advice, and survival strategy.
 

@@ -14,7 +14,7 @@ The Changping granary system / 长平仓制度 is the public grain-reserve polic
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] presents the system through [[GengShouchangWesternHan|耿寿昌]]'s proposal under [[EmperorXuanOfHan|汉宣帝]]. The immediate problem is double: repeated harvests depress grain prices and hurt farmers, while capital supply still depends on labor-heavy transport from Guandong. Geng first proposes buying nearer grain from several commanderies to reduce transport burdens, then proposes frontier granaries that intervene countercyclically in grain markets. The episode reads this as an ancient state attempt to combine price smoothing, famine preparation, and official supply.
+[[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] presents the system through [[GengShouchangWesternHan|耿寿昌]]'s proposal under [[EmperorXuanOfHan|汉宣帝]]. The immediate problem is double: repeated harvests depress grain prices and hurt farmers, while capital supply still depends on labor-heavy transport from Guandong. Geng first proposes buying nearer grain from several commanderies to reduce transport burdens, then proposes frontier granaries that intervene countercyclically in grain markets. The episode reads this as an ancient state attempt to combine price smoothing, famine preparation, and official supply.
 
 ## Key Claims
 
@@ -27,16 +27,16 @@ The Changping granary system / 长平仓制度 is the public grain-reserve polic
 ## Evidence
 
 Problem diagnosis:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says repeated bumper harvests lower grain prices and reduce farmer benefit.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says old capital provisioning required large annual grain shipments from east of Hangu Pass and more than sixty thousand transport laborers.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says repeated bumper harvests lower grain prices and reduce farmer benefit.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says old capital provisioning required large annual grain shipments from east of Hangu Pass and more than sixty thousand transport laborers.
 
 Policy mechanism:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Geng Shouchang proposes buying grain from Sanfu, Hongnong, Hedong, Shangdang, Taiyuan, and other nearer areas to reduce transport burdens.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says he proposes frontier granaries that buy when grain is cheap and sell when grain is expensive.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Xuan accepts the proposal and rewards Geng.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Geng Shouchang proposes buying grain from Sanfu, Hongnong, Hedong, Shangdang, Taiyuan, and other nearer areas to reduce transport burdens.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says he proposes frontier granaries that buy when grain is cheap and sell when grain is expensive.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Xuan accepts the proposal and rewards Geng.
 
 Lineage:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] links the idea to a Warring States policy associated with Li Kui, similar thinking attributed to Fan Li and Guan Zi, and Han Wudi-era development through Sang Hongyang's equalization approach.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] links the idea to a Warring States policy associated with Li Kui, similar thinking attributed to Fan Li and Guan Zi, and Han Wudi-era development through Sang Hongyang's equalization approach.
 
 ## Counterevidence & Qualifications
 
@@ -44,7 +44,7 @@ The source uses "长平仓" in the episode summary; this page preserves that sou
 
 ## What Changed
 
-- Created the Changping granary concept from Hanji 456-1 as a public grain reserve and price-stabilization mechanism.
+- Created the Changping granary concept from 汉纪 456-1 as a public grain reserve and price-stabilization mechanism.
 
 ## Related Concepts
 

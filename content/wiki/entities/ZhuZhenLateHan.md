@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-朱震 / Zhu Zhen is a late-Han figure introduced by [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] as a close friend of [[ChenFanLateHan|Chen Fan]]. After Chen Fan's death, Zhu Zhen buries him and protects [[ChenYiLateHan|Chen Yi]], making friendship-based loyalty a household-level risk.
+朱震 / Zhu Zhen is a late-Han figure introduced by [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] as a close friend of [[ChenFanLateHan|Chen Fan]]. After Chen Fan's death, Zhu Zhen buries him and protects [[ChenYiLateHan|Chen Yi]], making friendship-based loyalty a household-level risk.
 
 ## Current Profile
 
@@ -24,13 +24,13 @@ When the concealment is exposed, Zhu Zhen's whole family is jailed and tortured,
 - He treats burial of a condemned friend as an obligation despite the danger attached to the body.
 - He expands loyalty from the dead friend to the friend's surviving son, Chen Yi.
 - His household shares the risk and maintains secrecy under coercion.
-- His current wiki profile remains source-scoped around Hanji 888's persecution sequence.
+- His current wiki profile remains source-scoped around 汉纪 888's persecution sequence.
 
 ## Evidence
 
-- Friend and burial role: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] identifies Zhu Zhen as Chen Fan's close friend and says he buries Chen Fan after Chen Fan's death.
-- Protection of Chen Yi: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] says Zhu Zhen hides Chen Fan's son Chen Yi.
-- Household coercion: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] says Zhu Zhen's family is jailed and tortured after exposure, but they keep the secret and Chen Yi survives.
+- Friend and burial role: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] identifies Zhu Zhen as Chen Fan's close friend and says he buries Chen Fan after Chen Fan's death.
+- Protection of Chen Yi: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] says Zhu Zhen hides Chen Fan's son Chen Yi.
+- Household coercion: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] says Zhu Zhen's family is jailed and tortured after exposure, but they keep the secret and Chen Yi survives.
 
 ## Qualifications
 
@@ -40,11 +40,11 @@ When the concealment is exposed, Zhu Zhen's whole family is jailed and tortured,
 
 ## What Changed
 
-- Created the page from Hanji 888's account of Zhu Zhen burying Chen Fan and protecting Chen Yi.
+- Created the page from 汉纪 888's account of Zhu Zhen burying Chen Fan and protecting Chen Yi.
 
 ## Relationships
 
-- [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] - source note for Zhu Zhen's profile.
+- [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] - source note for Zhu Zhen's profile.
 - [[ChenFanLateHan|陈蕃]] - friend whose body Zhu Zhen buries after the failed anti-eunuch crisis.
 - [[ChenYiLateHan|陈逸]] - protected survivor hidden by Zhu Zhen.
 - [[DeathFacingResponsibility|赴死式责任承担]] - related concept for responsibility under lethal political risk.

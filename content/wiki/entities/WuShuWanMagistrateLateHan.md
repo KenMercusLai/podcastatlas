@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-吴树 / Wu Shu is the late-Han official whose Hanji 846 profile centers on refusing [[LiangJiLateHan|梁冀]]'s request to protect harmful retainers. His appointment to Wan county, enforcement against Liang's guests, later promotion, and poisoning make him a source case for law enforcement becoming fatal under [[OuterRelativeCourtPower|outer-relative court power]].
+吴树 / Wu Shu is the late-Han official whose 汉纪 846 profile centers on refusing [[LiangJiLateHan|梁冀]]'s request to protect harmful retainers. His appointment to Wan county, enforcement against Liang's guests, later promotion, and poisoning make him a source case for law enforcement becoming fatal under [[OuterRelativeCourtPower|outer-relative court power]].
 
 ## Current Profile
 
-Hanji 846 presents Wu Shu as a newly appointed Wan county magistrate who visits Liang Ji before taking office. Liang asks him to look after Liang's guests in Wan, but Wu Shu refuses directly, calling such people harmful worms and saying he will remove them if they harm the locality. He also advises Liang to recommend capable people to repair the court.
+汉纪 846 presents Wu Shu as a newly appointed Wan county magistrate who visits Liang Ji before taking office. Liang asks him to look after Liang's guests in Wan, but Wu Shu refuses directly, calling such people harmful worms and saying he will remove them if they harm the locality. He also advises Liang to recommend capable people to repair the court.
 
 Wu Shu then acts on the refusal. After reaching office, he kills more than ten of the abusive guests Liang had wanted protected. His promotion to Jingzhou inspector does not make him safe: when he again visits Liang before taking the new post, Liang poisons him at a banquet, and Wu Shu dies in his carriage on the way home.
 
@@ -28,17 +28,17 @@ Wu Shu then acts on the refusal. After reaching office, he kills more than ten o
 
 ## Evidence
 
-- Refusal and advice: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Wu Shu rejects Liang Ji's request to protect guests and urges Liang to recommend worthy people.
-- Enforcement against retainers: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Wu Shu kills more than ten of Liang's harmful guests after taking office.
-- Poisoning: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Liang later gives Wu Shu poisoned wine and that Wu Shu dies in his carriage.
+- Refusal and advice: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Wu Shu rejects Liang Ji's request to protect guests and urges Liang to recommend worthy people.
+- Enforcement against retainers: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Wu Shu kills more than ten of Liang's harmful guests after taking office.
+- Poisoning: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Liang later gives Wu Shu poisoned wine and that Wu Shu dies in his carriage.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 846. The episode supplies Wu Shu's moral and political role but does not reconstruct his wider career, exact legal process against the guests, or independent chronology beyond the Wan and Jingzhou appointments.
+This page is source-bounded to 汉纪 846. The episode supplies Wu Shu's moral and political role but does not reconstruct his wider career, exact legal process against the guests, or independent chronology beyond the Wan and Jingzhou appointments.
 
 ## What Changed
 
-- Hanji 846 creates the page as the clearest local-enforcement victim in Liang Ji's crime-record layer.
+- 汉纪 846 creates the page as the clearest local-enforcement victim in Liang Ji's crime-record layer.
 
 ## Relationships
 

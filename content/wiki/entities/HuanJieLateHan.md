@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 桓阶 / Huan Jie (late Han)
 
-桓阶 / Huan Jie enters the wiki through [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|Hanji 1027]] as the [[ChangshaCommanderyLateHan|Changsha]] local-elite actor who persuades [[ZhangXianLateHan|张献]] to resist [[LiuBiao|刘表]] and attach to [[CaoCao|曹操]]. The episode identifies him as a Changsha gentry representative whose family also has a deep connection with [[SunJianLateHan|孙坚]].
+桓阶 / Huan Jie enters the wiki through [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj|汉纪 1027]] as the [[ChangshaCommanderyLateHan|Changsha]] local-elite actor who persuades [[ZhangXianLateHan|张献]] to resist [[LiuBiao|刘表]] and attach to [[CaoCao|曹操]]. The episode identifies him as a Changsha gentry representative whose family also has a deep connection with [[SunJianLateHan|孙坚]].
 
 His source role is to make the breakaway legible as local-elite strategy. Huan Jie does not simply tell Zhang Xian to fight; he proposes combining Changsha, [[LinglingCommanderyLateHan|Lingling]], and [[GuiyangCommanderyLateHan|Guiyang]], then seeking external authorization from Cao Cao. That design turns [[SouthernJingzhouLateHan|southern Jingzhou]]'s local grievance into a lever against Liu Biao's broader Jingzhou policy.
 

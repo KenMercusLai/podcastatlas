@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] by narrating [[GengYanEasternHan|耿弇]]'s defeat of [[ZhangBuEasternHan|张步]] around [[Linzi|临淄]]. It follows Geng Yan's false announcement against Xi'an, surprise attack on Linzi, provocation of Zhang Bu, prepared camp defense, visible weakness, battlefield composure after a thigh wound, and pursuit ambush after Zhang Bu's night retreat.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|汉纪 697]] by narrating [[GengYanEasternHan|耿弇]]'s defeat of [[ZhangBuEasternHan|张步]] around [[Linzi|临淄]]. It follows Geng Yan's false announcement against Xi'an, surprise attack on Linzi, provocation of Zhang Bu, prepared camp defense, visible weakness, battlefield composure after a thigh wound, and pursuit ambush after Zhang Bu's night retreat.
 
 The episode's main synthesis is that Geng Yan's battlefield strength is an integrated chain of judgment rather than only courage: he reads city strength, enemy psychology, march exhaustion, supply risk, troop morale, and retreat routes before each move. The conclusion highlights [[LiuXiu|光武帝刘秀]]'s praise comparing Geng Yan to [[HanXin|韩信]] and grounding the idiom "有志者事竟成" in this campaign.
 
@@ -38,7 +38,7 @@ The episode's main synthesis is that Geng Yan's battlefield strength is an integ
 ## Connections
 
 - [[GengYanEasternHan|耿弇]] - central commander whose Linzi campaign shows false-target attack, provocation, morale control, and pursuit ambush.
-- [[ZhangBuEasternHan|张步]] - Qi-region opponent whose field army is lured, defeated, and forced into night retreat before the later Hanji 697 surrender branch.
+- [[ZhangBuEasternHan|张步]] - Qi-region opponent whose field army is lured, defeated, and forced into night retreat before the later 汉纪 697 surrender branch.
 - [[LiuXiu|光武帝刘秀]] - ruler who receives Geng Yan's forecast, comes to relieve him, and later compares his achievement with Han Xin's.
 - [[Linzi|临淄]] - strategic Qi-region city whose capture changes the Xi'an-Linzi-Ju balance in the campaign.
 - [[BattlefieldFeintAndLure|声东击西与诱敌]] - main tactical pattern: false target, psychological provocation, visible weakness, fortified bait, and prepared retreat-path ambush.
@@ -47,6 +47,6 @@ The episode's main synthesis is that Geng Yan's battlefield strength is an integ
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source is the battlefield prelude to Hanji 697's Zhang Bu surrender and Qi pacification; Zhang Bu's defeat at Linzi does not conflict with the later first surrender or the still-later Hanji 707 flight and execution.
+- Chronology qualification: this source is the battlefield prelude to 汉纪 697's Zhang Bu surrender and Qi pacification; Zhang Bu's defeat at Linzi does not conflict with the later first surrender or the still-later 汉纪 707 flight and execution.
 - Identity normalization: 张步 is the established [[ZhangBuEasternHan|Eastern Han Qi-region opponent]]; the transcript's Xi'an is left as a source-scoped locality rather than merged with unrelated Chang'an/Xi'an pages.
 - Scope caution: Zhang Lan, Zhang Hong, Zhang Shou, Chong Yi, Chen Jun, Liu Xing, Ju, Xi'an, Pingshou, exact force counts, the "比韩信更强" title claim, and the host's ranking of Eastern Han generals remain source-scoped unless later notes warrant canonical pages.

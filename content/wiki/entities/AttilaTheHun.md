@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-阿提拉 / Attila the Hun appears in the wiki through Hanji 764's qualified long-range comparison between [[NorthernXiongnuLateHan|Northern Xiongnu]] displacement, European Huns, Gothic movement, and pressure on the [[RomanEmpire|Roman Empire]]. The source presents Attila as the third and most culturally remembered Hunnic invasion figure, while explicitly leaving the Northern-Xiongnu-to-Hun identity chain as a source-scoped association.
+阿提拉 / Attila the Hun appears in the wiki through 汉纪 764's qualified long-range comparison between [[NorthernXiongnuLateHan|Northern Xiongnu]] displacement, European Huns, Gothic movement, and pressure on the [[RomanEmpire|Roman Empire]]. The source presents Attila as the third and most culturally remembered Hunnic invasion figure, while explicitly leaving the Northern-Xiongnu-to-Hun identity chain as a source-scoped association.
 
 ## Current Profile
 
@@ -28,18 +28,18 @@ The episode also uses Attila to show how historical memory migrates into literat
 
 ## Evidence
 
-- Third-invasion role: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] presents Attila as the Hunnic leader whose campaign intensifies Roman pressure and later memory.
-- Failure to occupy fully: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] says plague helps prevent full occupation in the campaign described.
-- Death and collapse: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] records Attila's death in 453 and says Hunnic power dissolves through internal conflict and Eastern Roman counterattack.
-- Memory layer: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|Hanji 764]] connects Attila and the Huns to later European literary memory.
+- Third-invasion role: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|汉纪 764]] presents Attila as the Hunnic leader whose campaign intensifies Roman pressure and later memory.
+- Failure to occupy fully: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|汉纪 764]] says plague helps prevent full occupation in the campaign described.
+- Death and collapse: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|汉纪 764]] records Attila's death in 453 and says Hunnic power dissolves through internal conflict and Eastern Roman counterattack.
+- Memory layer: [[zizhi-tongjian-hanji-764-ta-weile-huoming-jing-jianjie-mie-le-luoma-diguo-lpk0c6muneabhk1oonzyjvawwf4|汉纪 764]] connects Attila and the Huns to later European literary memory.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 764 and does not reconstruct Attila's full historical career. The connection between Attila's Huns and earlier Northern Xiongnu displacement is retained as a qualified source association, not a settled ethnogenesis or direct-causation claim.
+This page is source-bounded to 汉纪 764 and does not reconstruct Attila's full historical career. The connection between Attila's Huns and earlier Northern Xiongnu displacement is retained as a qualified source association, not a settled ethnogenesis or direct-causation claim.
 
 ## What Changed
 
-- Created the page from Hanji 764 to preserve Attila as a Roman-pressure and historical-memory node while keeping the migration chain qualified.
+- Created the page from 汉纪 764 to preserve Attila as a Roman-pressure and historical-memory node while keeping the migration chain qualified.
 
 ## Relationships
 

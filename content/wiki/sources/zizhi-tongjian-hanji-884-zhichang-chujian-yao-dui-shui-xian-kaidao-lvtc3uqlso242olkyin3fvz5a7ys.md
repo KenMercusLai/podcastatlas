@@ -16,7 +16,7 @@ last_updated: 2026-08-27
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens with a workplace frame about laziness, arrogance, over-effort, and unalert relaxation, then turns to the opening of [[EmperorLingOfHan|汉灵帝]]'s Jianning first year in 168 CE. It shows [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] entrusting government to [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]], while [[LiYingLateHan|李膺]], [[DuMiLateHan|杜密]], [[YinXunLateHan|尹勋]], and [[LiuYuAstrologerLateHan|刘瑜]] enter the political core.
 
-The historical center is the first anti-eunuch decision window before the later Hanji 885-887 disaster. [[ZhaoRaoLateHan|赵饶]], female palace staff, [[CaoJieLateHan|曹节]], and [[WangFuLateHan|王甫]] gain influence through near-daily access to Dou Miao; Chen Fan urges Dou Wu to remove Cao Jie and Wang Fu before the window closes, but Dou Miao authorizes only selective punishment, beginning with [[GuanBaLateHan|管霸]] and [[SuKangLateHan|苏康]].
+The historical center is the first anti-eunuch decision window before the later 汉纪 885-887 disaster. [[ZhaoRaoLateHan|赵饶]], female palace staff, [[CaoJieLateHan|曹节]], and [[WangFuLateHan|王甫]] gain influence through near-daily access to Dou Miao; Chen Fan urges Dou Wu to remove Cao Jie and Wang Fu before the window closes, but Dou Miao authorizes only selective punishment, beginning with [[GuanBaLateHan|管霸]] and [[SuKangLateHan|苏康]].
 
 ## Key Claims
 
@@ -43,11 +43,11 @@ The historical center is the first anti-eunuch decision window before the later 
 - [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ZhaoRaoLateHan|赵饶]], [[GuanBaLateHan|管霸]], and [[SuKangLateHan|苏康]] - near-palace or eunuch actors whose access, target status, or selective punishment shapes the opening conflict.
 - [[LiYingLateHan|李膺]], [[DuMiLateHan|杜密]], [[YinXunLateHan|尹勋]], and [[LiuYuAstrologerLateHan|刘瑜]] - renowned figures brought into or around the reforming court field before the coup sequence accelerates.
 - [[PalaceProximityPower|宫廷近身权力]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[ShangshuTaiImperialAccess|尚书台皇权接触]], and [[InnerCourtAccessBrokerageRisk|内廷通道中介风险]] - mechanisms for turning daily access, document channels, and household intimacy into political leverage.
-- [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], [[LethalPlanLeakageRisk|致命计划泄露风险]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - concepts that connect Hanji 884's eclipse opening and selective purge to later delay, leak, and collapse.
-- [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|Hanji 885]], [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]], and [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]] - downstream warning, leak, palace seizure, military reversal, and purge sequence.
+- [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], [[LethalPlanLeakageRisk|致命计划泄露风险]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - concepts that connect 汉纪 884's eclipse opening and selective purge to later delay, leak, and collapse.
+- [[zizhi-tongjian-hanji-885-shengsi-guantou-ta-qingjia-xiuxi-luydnh9oqdyyfpbeztooi2e7lvca|汉纪 885]], [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|汉纪 886]], and [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|汉纪 887]] - downstream warning, leak, palace seizure, military reversal, and purge sequence.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the decision stage before Hanji 885's continued warning and procedure window, Hanji 886's leaked palace seizure, and Hanji 887's final collapse.
+- No settled contradiction with existing wiki content was found. This source backfills the decision stage before 汉纪 885's continued warning and procedure window, 汉纪 886's leaked palace seizure, and 汉纪 887's final collapse.
 - Transcript normalization: 管爸 is linked as [[GuanBaLateHan|管霸]], 曹洁 as [[CaoJieLateHan|曹节]], 王府 as [[WangFuLateHan|王甫]], 李英 as [[LiYingLateHan|李膺]], and 刘渝 as [[LiuYuAstrologerLateHan|刘瑜]] where the role and sequence match existing late-Han routes.
 - Scope caution: the female shangshu group, the broader wet-nurse commentary, and the personal-cultivation ending remain source-scoped unless later sources require canonical pages.

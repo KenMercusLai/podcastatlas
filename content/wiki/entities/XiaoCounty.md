@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 萧县 / Xiao County
 
-萧县 / Xiao County enters the wiki through two [[LiuBang|刘邦]] campaign moments, but [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] makes it tactically central. After [[Xuzhou|彭城]] falls, [[XiangYu|项羽]] does not first attack the city directly. He moves secretly into the Pengcheng theater and takes Xiao County at night, cutting Liu Bang's westward retreat and supply route before striking the coalition's rear.
+萧县 / Xiao County enters the wiki through two [[LiuBang|刘邦]] campaign moments, but [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|汉纪 151 part 2]] makes it tactically central. After [[Xuzhou|彭城]] falls, [[XiangYu|项羽]] does not first attack the city directly. He moves secretly into the Pengcheng theater and takes Xiao County at night, cutting Liu Bang's westward retreat and supply route before striking the coalition's rear.
 
 The source therefore makes Xiao County the hinge between Liu Bang's apparent capture of the Chu capital and the collapse of the [[PengchengBattle|彭城之战]] coalition. Once Xiao County is lost, Liu Bang's army has to turn back and fight from the wrong orientation, while Xiang Yu can attack from the unexpected west.
 

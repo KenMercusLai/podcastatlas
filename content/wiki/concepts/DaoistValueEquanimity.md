@@ -11,7 +11,7 @@ last_updated: 2026-09-13
 # Daoist Value Equanimity / 道家价值齐观
 
 ## Definition
-Daoist value equanimity / 道家价值齐观 is [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]]'s Laozi teaching that life and death, right and wrong, noble and low, honor and disgrace can be viewed as changing states within the Way rather than final identities that must dominate the mind.
+Daoist value equanimity / 道家价值齐观 is [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|汉纪 456-3]]'s Laozi teaching that life and death, right and wrong, noble and low, honor and disgrace can be viewed as changing states within the Way rather than final identities that must dominate the mind.
 
 ## Current Synthesis
 The episode builds value equanimity from cosmology and qi. If life is qi gathering and death is qi dispersing, then death can be described as a return rather than sheer annihilation. If social ranks and moral labels also shift with circumstances, then the cultivated person can respond to change without being captured by the labels. The teaching does not deny that people use values; it denies that those values should become absolute attachments.
@@ -25,19 +25,19 @@ The episode builds value equanimity from cosmology and qi. If life is qi gatheri
 
 ## Evidence
 Life and death:
-- [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] says living is qi gathering and dying is qi dispersing, with death framed as a return to origin.
+- [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|汉纪 456-3]] says living is qi gathering and dying is qi dispersing, with death framed as a return to origin.
 
 Value pairs:
-- [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] says the attained person views right and wrong, noble and low, honor and disgrace without clinging to their separateness.
+- [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|汉纪 456-3]] says the attained person views right and wrong, noble and low, honor and disgrace without clinging to their separateness.
 
 Steadiness in change:
-- [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]] describes remaining calm even when sun and moon alternate, heaven and earth shake, winds roar, seas surge, and thunder strikes.
+- [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|汉纪 456-3]] describes remaining calm even when sun and moon alternate, heaven and earth shake, winds roar, seas surge, and thunder strikes.
 
 ## Counterevidence & Qualifications
 The concept is source-scoped to the episode's Laozi teaching. It should not be read as moral relativism in every context or as a denial that the wiki's political and ethical pages can distinguish better from worse conduct. The claim is about non-attachment and cultivated perspective, not about abolishing judgment.
 
 ## What Changed
-- Created the concept from Hanji 456-3's life/death, qi, rank, honor, and right/wrong teaching.
+- Created the concept from 汉纪 456-3's life/death, qi, rank, honor, and right/wrong teaching.
 
 ## Related Concepts
 - [[DaoistObservingSameness|观同入道]] - perceptual gateway that makes value equanimity possible.

@@ -14,13 +14,13 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 185 CE late-Han crisis between [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|Hanji 933]] and [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|Hanji 935]]. It moves from [[CuiZhouping|崔州平]] as a [[RomanceOfTheThreeKingdoms|《三国演义》]] entry point into [[CuiLieLateHan|崔烈]]'s proposal to abandon [[LiangzhouLateHan|凉州]], [[FuXie|傅燮]]'s "斩司徒，天下乃安" rebuttal, and the later punishment of [[HuangfuSongLateHan|皇甫嵩]] after [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]] turn refused bribery and anti-corruption memorials into slander.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 185 CE late-Han crisis between [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj|汉纪 933]] and [[zizhi-tongjian-hanji-935-ren-huo-yi-kou-qi-nan-cheng-de-shi-ziji-lmy8tyrttv-gjvke7sdi6dx-oopw|汉纪 935]]. It moves from [[CuiZhouping|崔州平]] as a [[RomanceOfTheThreeKingdoms|《三国演义》]] entry point into [[CuiLieLateHan|崔烈]]'s proposal to abandon [[LiangzhouLateHan|凉州]], [[FuXie|傅燮]]'s "斩司徒，天下乃安" rebuttal, and the later punishment of [[HuangfuSongLateHan|皇甫嵩]] after [[ZhangRangLateHan|张让]] and [[ZhaoZhongLateHan|赵忠]] turn refused bribery and anti-corruption memorials into slander.
 
 ## Key Claims
 
 - The opening uses [[CuiZhouping|崔州平]]'s literary image, including the "逍遥巾" and black robe, to bridge the familiar Three Kingdoms memory world into the real late-Han crisis.
 - In 185 CE, [[BeigongBoyuLateHan|北宫伯玉]] and related rebels again attack the Sanfu / [[GuanzhongRegion|关中]] area, prompting [[EmperorLingOfHan|汉灵帝]] to order [[HuangfuSongLateHan|皇甫嵩]] to guard [[ChangAnHanCapital|长安]] and command the response.
-- [[CuiLieLateHan|崔烈]], already damaged by the bought-office branch in Hanji 933, argues that the court should abandon [[LiangzhouLateHan|凉州]] because repeated rebellion and tax pressure make the province too costly.
+- [[CuiLieLateHan|崔烈]], already damaged by the bought-office branch in 汉纪 933, argues that the court should abandon [[LiangzhouLateHan|凉州]] because repeated rebellion and tax pressure make the province too costly.
 - [[FuXie|傅燮]] answers with "斩司徒，天下乃安," making Cui Lie's proposal a threat to the state rather than a debatable budget measure.
 - Fu Xie's argument depends on [[StrategicFrontierAbandonment|弃边失屏]]: Liangzhou is a western gate and traffic corridor; if surrendered to non-Han forces, it would strengthen mounted enemies and turn a current fiscal burden into a future security disaster.
 - Fu Xie invokes earlier Han frontier history, including [[LiuBang|刘邦]]'s post-founding western arrangements, [[LiShang|郦商]] in Longyou, [[HanWudi|汉武帝]]'s Hexi expansion, and the four commanderies of Wuwei, Zhangye, Jiuquan, and Dunhuang, to argue that the region had long-term strategic value.
@@ -48,6 +48,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This episode fills the missing Hanji 934 layer between Cui Lie's bought-office reputation loss in Hanji 933 and Liu Tao / Zhang Wen's western-crisis branch in Hanji 935.
+- No settled contradiction with existing wiki pages was found. This episode fills the missing 汉纪 934 layer between Cui Lie's bought-office reputation loss in 汉纪 933 and Liu Tao / Zhang Wen's western-crisis branch in 汉纪 935.
 - Source-scope caution: Wuwei, Zhangye, Jiuquan, and Dunhuang are preserved as a grouped Hexi-frontier claim rather than created as separate canonical pages from this short source.
 - Source-scope caution: the episode's literary opening makes [[CuiZhouping|崔州平]] useful as a reception marker, but the main historical claims belong to the late-Han court and Liangzhou debate.

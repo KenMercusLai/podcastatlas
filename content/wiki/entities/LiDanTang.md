@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Li Dan enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as the Li-Tang royal figure whom [[ShangguanWaner|上官婉儿]] tries to place in the 710 power core after [[TangZhongzong|唐中宗]]'s death. The page uses the stable suffix `Tang` because `LiDan.md` already refers to the modern comedian 李诞.
+Li Dan enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as the Li-Tang royal figure whom [[ShangguanWaner|上官婉儿]] tries to place in the 710 power core after [[TangZhongzong|唐中宗]]'s death. The page uses the stable suffix `Tang` because `LiDan.md` already refers to the modern comedian 李诞.
 
 ## Current Profile
 
@@ -26,9 +26,9 @@ The episode gives Li Dan a narrow but important role. After Zhongzong dies and [
 
 ## Evidence
 
-- Edict inclusion: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er put Li Dan into the power core while drafting the post-Zhongzong edict.
-- Dynastic fallback: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] frames this inclusion as Shangguan Wan'er's self-protective future credential.
-- Link to coup: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] identifies Li Longji as Li Dan's son when introducing the Tanglong Coup.
+- Edict inclusion: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er put Li Dan into the power core while drafting the post-Zhongzong edict.
+- Dynastic fallback: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] frames this inclusion as Shangguan Wan'er's self-protective future credential.
+- Link to coup: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] identifies Li Longji as Li Dan's son when introducing the Tanglong Coup.
 
 ## Qualifications
 
@@ -36,7 +36,7 @@ The current page does not cover Li Dan's full biography, reigns, political progr
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as the Li-Tang legitimacy figure in Shangguan Wan'er's 710 fallback.
+- Created the page from 汉纪 536-3 as the Li-Tang legitimacy figure in Shangguan Wan'er's 710 fallback.
 
 ## Relationships
 

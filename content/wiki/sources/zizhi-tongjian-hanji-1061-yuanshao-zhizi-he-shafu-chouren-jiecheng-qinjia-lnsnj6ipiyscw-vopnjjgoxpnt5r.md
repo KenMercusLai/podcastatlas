@@ -49,5 +49,5 @@ The source's interpretive frame is that small cleverness can become strategic se
 - [[SuccessionAuthorityConsolidation]] — Sun Quan's consolidation now includes county administration and pacification, not just succession recognition.
 
 ## Contradictions
-- No settled contradiction is recorded. The source qualifies [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|Hanji 1060]] by showing that Cao Cao can support Yuan Tan while already distrusting him.
+- No settled contradiction is recorded. The source qualifies [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|汉纪 1060]] by showing that Cao Cao can support Yuan Tan while already distrusting him.
 - Minor local-place readings, some county names, and the broader biography of Cao Zheng remain source-scoped because the transcript appears to be an automated podcast text.

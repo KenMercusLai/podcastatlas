@@ -10,7 +10,7 @@ last_updated: 2026-09-03
 
 ## Overview
 
-景丹 / Jing Dan is a source-scoped Eastern Han founding actor in [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]]. He appears as part of the Shanggu force that joins [[LiuXiu|刘秀]] against [[WangLangHebeiClaimant|王郎]], helps form the cavalry reinforcement that changes the Hebei field, defeats Wang Lang's relieving force near Nanluan, and receives immediate recognition when Liu Xiu lets the arriving commanders keep their original troops.
+景丹 / Jing Dan is a source-scoped Eastern Han founding actor in [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|汉纪 671]]. He appears as part of the Shanggu force that joins [[LiuXiu|刘秀]] against [[WangLangHebeiClaimant|王郎]], helps form the cavalry reinforcement that changes the Hebei field, defeats Wang Lang's relieving force near Nanluan, and receives immediate recognition when Liu Xiu lets the arriving commanders keep their original troops.
 
 ## Current Profile
 
@@ -27,18 +27,18 @@ Jing Dan's clearest military moment comes at Nanluan. When Wang Lang sends Ni Ho
 
 ## Evidence
 
-- Coalition movement: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Kou Xun returns to Shanggu and leads troops south with Jing Dan and Geng Yan, meeting Yuyang forces on the way to Liu Xiu.
-- Route combat: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says the combined troops kill Wang Lang-appointed senior officials and take twenty-two counties before reaching Guang'a.
-- Nanluan cavalry: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Jing Dan and other cavalry raiders defeat Wang Lang's relief force under Ni Hong and Liu Feng.
-- Reward and command retention: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]] says Liu Xiu appoints Jing Dan and other arriving commanders as pianjiangjun and lets them keep their original troops.
+- Coalition movement: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|汉纪 671]] says Kou Xun returns to Shanggu and leads troops south with Jing Dan and Geng Yan, meeting Yuyang forces on the way to Liu Xiu.
+- Route combat: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|汉纪 671]] says the combined troops kill Wang Lang-appointed senior officials and take twenty-two counties before reaching Guang'a.
+- Nanluan cavalry: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|汉纪 671]] says Jing Dan and other cavalry raiders defeat Wang Lang's relief force under Ni Hong and Liu Feng.
+- Reward and command retention: [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|汉纪 671]] says Liu Xiu appoints Jing Dan and other arriving commanders as pianjiangjun and lets them keep their original troops.
 
 ## Qualifications
 
-This page is bounded to Hanji 671. It does not reconstruct Jing Dan's full Yuntai or later Eastern Han career, nor does it independently verify the title, force count, county count, or exact Nanluan command sequence. The current evidence justifies a focused page because Jing Dan is named in the episode's political-military turn and receives direct reward status from Liu Xiu.
+This page is bounded to 汉纪 671. It does not reconstruct Jing Dan's full Yuntai or later Eastern Han career, nor does it independently verify the title, force count, county count, or exact Nanluan command sequence. The current evidence justifies a focused page because Jing Dan is named in the episode's political-military turn and receives direct reward status from Liu Xiu.
 
 ## What Changed
 
-- Created Jing Dan as a focused Eastern Han entity from Hanji 671.
+- Created Jing Dan as a focused Eastern Han entity from 汉纪 671.
 
 ## Relationships
 

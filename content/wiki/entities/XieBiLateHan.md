@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-谢弼 / Xie Bi is a late-Han official introduced by [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] as the Dong Commandery man serving as langzhong who submits a dangerous memorial for [[EmpressDowagerDouMiao|窦皇太后]]. The transcript renders his name as "谢毕"; this page normalizes him to 谢弼 because the role and episode context match the late-Han remonstrance case.
+谢弼 / Xie Bi is a late-Han official introduced by [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] as the Dong Commandery man serving as langzhong who submits a dangerous memorial for [[EmpressDowagerDouMiao|窦皇太后]]. The transcript renders his name as "谢毕"; this page normalizes him to 谢弼 because the role and episode context match the late-Han remonstrance case.
 
 ## Current Profile
 
@@ -27,9 +27,9 @@ The episode contrasts him with [[YangCiLateHan|杨赐]]. Xie Bi keeps the moral 
 
 ## Evidence
 
-- Direct remonstrance: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] says Xie Bi argues that Empress Dowager Dou's role in Emperor Ling's accession and ritual motherhood should not be erased by the Dou clan's punishment.
-- Escalated critique: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] has him connect the snake omen, unfair rewards, Chen Fan's imprisonment death, weak senior ministers, and recall of Wang Chang and Li Ying into one political warning.
-- Retaliation channel: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] says Xie Bi is first demoted to Guangling, then later arrested and tortured by Cao Shao in Dong Commandery.
+- Direct remonstrance: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] says Xie Bi argues that Empress Dowager Dou's role in Emperor Ling's accession and ritual motherhood should not be erased by the Dou clan's punishment.
+- Escalated critique: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] has him connect the snake omen, unfair rewards, Chen Fan's imprisonment death, weak senior ministers, and recall of Wang Chang and Li Ying into one political warning.
+- Retaliation channel: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] says Xie Bi is first demoted to Guangling, then later arrested and tortured by Cao Shao in Dong Commandery.
 
 ## Qualifications
 
@@ -39,14 +39,14 @@ The episode contrasts him with [[YangCiLateHan|杨赐]]. Xie Bi keeps the moral 
 
 ## What Changed
 
-- Created the page from Hanji 890's contrast between direct and indirect remonstrance.
+- Created the page from 汉纪 890's contrast between direct and indirect remonstrance.
 - Added Xie Bi as the source's lethal direct-remonstrance counterexample to Yang Ci's survivable omen answer.
 - Recorded the transcript normalization from "谢毕" to the canonical late-Han 谢弼 route.
 - Retargeted the 王畅 recall reference to the disambiguated Wang Chang (Shumao) route, separate from 王昌.
 
 ## Relationships
 
-- [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] - source note for the remonstrance and death sequence.
+- [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] - source note for the remonstrance and death sequence.
 - [[EmpressDowagerDouMiao|窦皇太后]] - protected figure whose treatment anchors the memorial.
 - [[ChenFanLateHan|陈蕃]] and [[DouWuLateHan|窦武]] - old anti-eunuch grievance revived by the memorial.
 - [[CaoJieLateHan|曹节]] and [[CaoShaoLateHan|曹绍]] - power network and local retaliation channel connected to Xie Bi's death.

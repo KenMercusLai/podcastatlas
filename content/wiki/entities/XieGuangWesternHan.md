@@ -11,13 +11,13 @@ last_updated: 2026-09-11
 
 ## Overview
 
-谢光 / Xie Guang enters the wiki through [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] and [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] as the Western Han Sili xiaowei / 司隶校尉 whose report to [[HanAidi|汉哀帝]] supplies the investigative frame for the [[HanChengdi|汉成帝]] missing-son accusation. His page is source-scoped to this case.
+谢光 / Xie Guang enters the wiki through [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] and [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] as the Western Han Sili xiaowei / 司隶校尉 whose report to [[HanAidi|汉哀帝]] supplies the investigative frame for the [[HanChengdi|汉成帝]] missing-son accusation. His page is source-scoped to this case.
 
 ## Current Profile
 
 In the source pair, Xie Guang reports in 6 BCE, after Chengdi's death and [[ZhaoHedeWesternHan|赵合德]]'s suicide. He says [[CaoGongWesternHan|曹宫]] and [[XuMeirenWesternHan|徐美人]] had both borne sons by the former emperor and that the children later vanished. His investigation draws on questioning palace, prison, eunuch, gate, and Zhao-consort household witnesses.
 
-Xie Guang matters less as an independently profiled statesman than as a recorder of a dangerous case file. Hanji 571 gives the Cao Gong chain of confinement, forced deaths, and infant disappearance. Hanji 572 adds the Xu Meiren chain of consort pressure, letter, heavy box, sealed burial, Ji Wu's testimony, Wu Qiuzun's Yeting warning, and Xie Guang's request to punish Zhao Hede's relatives. Later sources in the wiki warn that this type of politically useful palace case still requires evidence discipline.
+Xie Guang matters less as an independently profiled statesman than as a recorder of a dangerous case file. 汉纪 571 gives the Cao Gong chain of confinement, forced deaths, and infant disappearance. 汉纪 572 adds the Xu Meiren chain of consort pressure, letter, heavy box, sealed burial, Ji Wu's testimony, Wu Qiuzun's Yeting warning, and Xie Guang's request to punish Zhao Hede's relatives. Later sources in the wiki warn that this type of politically useful palace case still requires evidence discipline.
 
 ## Key Characteristics
 
@@ -29,20 +29,20 @@ Xie Guang matters less as an independently profiled statesman than as a recorder
 
 ## Evidence
 
-- Office and report: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Xie Guang, as Sili xiaowei / 司隶校尉, reports investigation results to Han Aidi in 6 BCE.
-- Missing sons: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Xie Guang identifies Xu Meiren and Cao Gong as women who bore sons by Chengdi whose children disappeared.
-- Witness network: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says officials questioned palace, prison, eunuch, gate, and Zhao-consort household witnesses.
-- Case chain: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] uses the report to narrate Cao Gong's confinement, forced death, attendants' suicides, and the infant's disappearance.
-- Xu Meiren case chain: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] uses the report to narrate Xu Meiren's child, Zhao Hede's pressure, the sealed box, and Ji Wu's burial.
-- Punishment request: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Xie Guang asks Aidi to punish Zhao Hede's relatives severely, but Aidi strips marquisates and relocates the family instead.
+- Office and report: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Xie Guang, as Sili xiaowei / 司隶校尉, reports investigation results to Han Aidi in 6 BCE.
+- Missing sons: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Xie Guang identifies Xu Meiren and Cao Gong as women who bore sons by Chengdi whose children disappeared.
+- Witness network: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says officials questioned palace, prison, eunuch, gate, and Zhao-consort household witnesses.
+- Case chain: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] uses the report to narrate Cao Gong's confinement, forced death, attendants' suicides, and the infant's disappearance.
+- Xu Meiren case chain: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] uses the report to narrate Xu Meiren's child, Zhao Hede's pressure, the sealed box, and Ji Wu's burial.
+- Punishment request: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Xie Guang asks Aidi to punish Zhao Hede's relatives severely, but Aidi strips marquisates and relocates the family instead.
 
 ## Qualifications
 
-This page does not reconstruct Xie Guang's broader career, his motives, or the full court politics behind the investigation. The report is an important source for the accusation, but the wiki preserves the later Hanji 573 qualification that politically useful, testimony-heavy palace cases should not be converted too quickly into settled causation. Hanji 572's odd disclosure to Ji Wu is treated as a source-internal puzzle rather than ignored.
+This page does not reconstruct Xie Guang's broader career, his motives, or the full court politics behind the investigation. The report is an important source for the accusation, but the wiki preserves the later 汉纪 573 qualification that politically useful, testimony-heavy palace cases should not be converted too quickly into settled causation. 汉纪 572's odd disclosure to Ji Wu is treated as a source-internal puzzle rather than ignored.
 
 ## What Changed
 
-- Added Hanji 572's Xu Meiren sealed-box branch and Zhao-relative punishment request to the earlier Hanji 571 Cao Gong report frame.
+- Added 汉纪 572's Xu Meiren sealed-box branch and Zhao-relative punishment request to the earlier 汉纪 571 Cao Gong report frame.
 
 ## Relationships
 

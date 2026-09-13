@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Hongjia 1-2 / 20-19 BCE under [[HanChengdi|汉成帝]], immediately before the already ingested Hanji 526-533 Chengdi sequence. It follows [[XueXuanWesternHan|薛宣]]'s promotion to Yushi Dafu, [[ZhangYuWesternHan|张瑜 / 张禹]]'s privileged retirement, [[WangYinWesternHan|王音]]'s enfeoffment, Chengdi's hunting and disguised outings under [[ZhangFangWesternHan|张放]]'s household cover, and a pheasant omen that Wang Yin converts into criticism of Chengdi's pleasure-seeking and heirlessness.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Hongjia 1-2 / 20-19 BCE under [[HanChengdi|汉成帝]], immediately before the already ingested 汉纪 526-533 Chengdi sequence. It follows [[XueXuanWesternHan|薛宣]]'s promotion to Yushi Dafu, [[ZhangYuWesternHan|张瑜 / 张禹]]'s privileged retirement, [[WangYinWesternHan|王音]]'s enfeoffment, Chengdi's hunting and disguised outings under [[ZhangFangWesternHan|张放]]'s household cover, and a pheasant omen that Wang Yin converts into criticism of Chengdi's pleasure-seeking and heirlessness.
 
 The durable synthesis is that omen language gives ministers a safer but still pointed route into questions of ruler conduct, public rumor, succession anxiety, and court silence. Wang Yin does not merely explain a strange bird event; he argues that Chengdi's private outings, weak health, no-son crisis, and flattering court environment threaten the continuity of Gaozu's realm, while the host links imperial heir pressure to modern family pressure around childbirth.
 

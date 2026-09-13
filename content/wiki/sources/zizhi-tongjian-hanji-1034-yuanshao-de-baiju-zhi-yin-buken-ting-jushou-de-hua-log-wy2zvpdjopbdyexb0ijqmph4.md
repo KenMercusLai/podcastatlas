@@ -13,7 +13,7 @@ last_updated: 2026-08-27
 # 《资治通鉴·汉纪》1034丨袁绍的败局，只因不肯听沮授的话？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode frames the pre-[[GuanduCampaign|官渡]] contest as a communication and organization problem rather than a simple story that [[YuanShao|袁绍]] failed because he ignored [[JuShou|沮授]]. Ju Shou proposes rest, agricultural recovery, and harassment after the long war with [[GongsunZan|公孙瓒]], but his blunt language collides with Yuan Shao's status psychology while [[GuoTu|郭图]] and [[ShenPeiLateHan|审配]] offer flattering pro-war counsel. The [[CaoCao|曹操]] side is shown through Cao Cao and [[XunYu|荀彧]] diagnosing Yuan's command weaknesses, after which Cao deploys through [[LiyangYellowRiverLateHan|黎阳]], [[QingzhouLateHan|青州]], the Yellow River line under [[YuJin|于禁]], and Guandu before the [[ZhangXiu|张绣]] / [[JiaXu|贾诩]] recruitment hook carried into Hanji 1035.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode frames the pre-[[GuanduCampaign|官渡]] contest as a communication and organization problem rather than a simple story that [[YuanShao|袁绍]] failed because he ignored [[JuShou|沮授]]. Ju Shou proposes rest, agricultural recovery, and harassment after the long war with [[GongsunZan|公孙瓒]], but his blunt language collides with Yuan Shao's status psychology while [[GuoTu|郭图]] and [[ShenPeiLateHan|审配]] offer flattering pro-war counsel. The [[CaoCao|曹操]] side is shown through Cao Cao and [[XunYu|荀彧]] diagnosing Yuan's command weaknesses, after which Cao deploys through [[LiyangYellowRiverLateHan|黎阳]], [[QingzhouLateHan|青州]], the Yellow River line under [[YuJin|于禁]], and Guandu before the [[ZhangXiu|张绣]] / [[JiaXu|贾诩]] recruitment hook carried into 汉纪 1035.
 
 ## Key Claims
 - Mature communication is not debate or self-display; the host presents it as adaptive expression that can flow like water, reflect like a mirror, and preserve integrity like bamboo.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode frames the 
 - [[JuShou|沮授]], [[YuanShao|袁绍]], [[GuoTu|郭图]], [[ShenPeiLateHan|审配]], [[TianFengLateHan|田丰]], [[FengJiLateHan|逢纪]], and [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - Yuan-camp advice meeting and hierarchy-sensitive speech problem.
 - [[CaoCao|曹操]], [[XunYu|荀彧]], [[KongRong|孔融]], [[YanLiangLateHan|颜良]], [[WenChouLateHan|文丑]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - Cao-side assessment of Yuan Shao's ruler, advisers, generals, and organization.
 - [[GuanduCampaign|官渡之战]], [[LiyangYellowRiverLateHan|黎阳]], [[ZangBaLateHan|臧霸]], [[QingzhouLateHan|青州]], [[YuJin|于禁]], and [[Xudu|许都]] - pre-battle deployment chain.
-- [[ZhangXiu|张绣]] and [[JiaXu|贾诩]] - Yuan Shao's attempted recruitment and the direct setup for Hanji 1035.
+- [[ZhangXiu|张绣]] and [[JiaXu|贾诩]] - Yuan Shao's attempted recruitment and the direct setup for 汉纪 1035.
 - [[AdviserStateArchitecture|谋士政权架构]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[TalentAsStateTreasure|以贤臣为宝]] - larger wiki patterns qualified by the episode's distinction between having advisers and converting advice into decisions.
 
 ## Contradictions

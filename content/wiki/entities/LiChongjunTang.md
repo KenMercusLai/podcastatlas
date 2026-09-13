@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Li Chongjun enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as the crown prince whose failed coup kills [[WuSansi|武三思]] and nearly reaches [[ShangguanWaner|上官婉儿]]. The episode uses him as the shock that pushes Shangguan Wan'er away from Wu-Wei reliance and toward Li-Tang fallback planning.
+Li Chongjun enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as the crown prince whose failed coup kills [[WuSansi|武三思]] and nearly reaches [[ShangguanWaner|上官婉儿]]. The episode uses him as the shock that pushes Shangguan Wan'er away from Wu-Wei reliance and toward Li-Tang fallback planning.
 
 ## Current Profile
 
@@ -26,10 +26,10 @@ The source says Li Chongjun was bullied by Wu Sansi's family and Princess Anle, 
 
 ## Evidence
 
-- Coup motive and target: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Li Chongjun was bullied by Wu Sansi's father-son line and Princess Anle, then launched a coup killing Wu Sansi and his son.
-- Threat to Shangguan Wan'er: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says he sent men to seize Shangguan Wan'er, prompting her to flee to Zhongzong.
-- Coup failure: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Zhongzong's intervention broke the army's momentum and Li Chongjun was killed by subordinates.
-- Strategic effect: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er became afraid after the near-death experience and began shifting toward Li-Tang royal figures.
+- Coup motive and target: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Li Chongjun was bullied by Wu Sansi's father-son line and Princess Anle, then launched a coup killing Wu Sansi and his son.
+- Threat to Shangguan Wan'er: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says he sent men to seize Shangguan Wan'er, prompting her to flee to Zhongzong.
+- Coup failure: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Zhongzong's intervention broke the army's momentum and Li Chongjun was killed by subordinates.
+- Strategic effect: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er became afraid after the near-death experience and began shifting toward Li-Tang royal figures.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page does not cover Li Chongjun's full biography, rank history, or every ca
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as the failed-coup actor who forces Shangguan Wan'er's strategic pivot.
+- Created the page from 汉纪 536-3 as the failed-coup actor who forces Shangguan Wan'er's strategic pivot.
 
 ## Relationships
 

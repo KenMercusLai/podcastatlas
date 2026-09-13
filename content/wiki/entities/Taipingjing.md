@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-《太平经》 / Taipingjing enters this wiki through [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] as the text [[GanZhongkeWesternHan|甘忠可]] uses to present renewed Heaven authorization, dynastic continuity, and social peace as a cure for imperial crisis.
+《太平经》 / Taipingjing enters this wiki through [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] as the text [[GanZhongkeWesternHan|甘忠可]] uses to present renewed Heaven authorization, dynastic continuity, and social peace as a cure for imperial crisis.
 
 ## Current Profile
 
@@ -25,17 +25,17 @@ The source treats the Taipingjing as a politically usable sacred text rather tha
 
 ## Evidence
 
-- Textual vehicle: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Gan Zhongke studies and writes around Taipingjing material, then seeks to recommend it to Chengdi.
-- Promise bundle: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says the teaching links Heaven, Earth, humanity, social peace, and imperial heirs.
-- Aidi reuse: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Xia Heliang keeps studying Gan's text and later uses the method in Aidi's court.
+- Textual vehicle: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Gan Zhongke studies and writes around Taipingjing material, then seeks to recommend it to Chengdi.
+- Promise bundle: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says the teaching links Heaven, Earth, humanity, social peace, and imperial heirs.
+- Aidi reuse: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Xia Heliang keeps studying Gan's text and later uses the method in Aidi's court.
 
 ## Qualifications
 
-This page is intentionally source-scoped. It does not identify the received Daoist Taipingjing corpus with the episode's described text in a settled philological sense, nor does it reconstruct authorship, dating, transmission, or doctrinal history beyond Hanji 581.
+This page is intentionally source-scoped. It does not identify the received Daoist Taipingjing corpus with the episode's described text in a settled philological sense, nor does it reconstruct authorship, dating, transmission, or doctrinal history beyond 汉纪 581.
 
 ## What Changed
 
-- Created from Hanji 581 as the source text behind the Gan Zhongke and Xia Heliang renewed-mandate episode.
+- Created from 汉纪 581 as the source text behind the Gan Zhongke and Xia Heliang renewed-mandate episode.
 
 ## Relationships
 

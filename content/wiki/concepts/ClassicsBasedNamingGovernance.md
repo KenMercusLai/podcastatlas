@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Current Synthesis
 
-Classics-based naming governance is visible when [[WangMang|王莽]] uses the "二名非礼" reading from the Gongyang tradition to order that Chinese subjects not have two-character given names. [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]] treats the move as more than antiquarian pedantry: classical learning becomes an enforceable rule that changes personal names and makes the court look like the guardian of proper order.
+Classics-based naming governance is visible when [[WangMang|王莽]] uses the "二名非礼" reading from the Gongyang tradition to order that Chinese subjects not have two-character given names. [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|汉纪 614]] treats the move as more than antiquarian pedantry: classical learning becomes an enforceable rule that changes personal names and makes the court look like the guardian of proper order.
 
 The mechanism also has a frontier-performance layer through [[Xiongnu|匈奴]]. Wang Mang's envoys prompt the chanyu to express admiration for Han culture and change a multi-character name to the single-character "Zhi." That makes naming governance diplomatic as well as domestic: the court stages non-Han compliance with Han ritual culture as proof that symbolic order extends outward.
 
@@ -28,10 +28,10 @@ The mechanism also has a frontier-performance layer through [[Xiongnu|匈奴]]. 
 
 ## Evidence
 
-- Classical basis: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]] says Wang Mang relies on "二名非礼" to argue that two-character given names violate ritual propriety.
-- Administrative command: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]] says the 2 CE decree requires people with two-character names to change to single-character names.
-- Diplomatic staging: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]] says Wang Mang's envoy prompts the Xiongnu chanyu to submit a request expressing admiration for Han customs and to change his name.
-- Rewarded recognition: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|Hanji 614]] says Wang Mang reports the chanyu's name change to Wang Zhengjun and sends generous rewards.
+- Classical basis: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|汉纪 614]] says Wang Mang relies on "二名非礼" to argue that two-character given names violate ritual propriety.
+- Administrative command: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|汉纪 614]] says the 2 CE decree requires people with two-character names to change to single-character names.
+- Diplomatic staging: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|汉纪 614]] says Wang Mang's envoy prompts the Xiongnu chanyu to submit a request expressing admiration for Han customs and to change his name.
+- Rewarded recognition: [[zizhi-tongjian-hanji-614-liaoliao-wangmang-gaiming-he-jianv-de-guaidan-gushi-lhz58yc4bqn2pqfa1f21hbsiteql|汉纪 614]] says Wang Mang reports the chanyu's name change to Wang Zhengjun and sends generous rewards.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept currently rests on one episode note and should not be generalized in
 
 ## What Changed
 
-- Initial concept created from Hanji 614's single-name decree and Xiongnu name-change performance.
+- Initial concept created from 汉纪 614's single-name decree and Xiongnu name-change performance.
 
 ## Related Concepts
 

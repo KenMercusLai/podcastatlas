@@ -10,11 +10,11 @@ last_updated: 2026-09-10
 
 ## Definition
 
-Folk religious panic transmission / 民间宗教恐慌传播 is the spread of fear through sacred tokens, rumor, ritual movement, and coercive participation. In [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]], the "行西王母筹" episode turns straw or hemp tokens associated with the Queen Mother of the West into a mass panic that crosses commanderies and reaches the capital.
+Folk religious panic transmission / 民间宗教恐慌传播 is the spread of fear through sacred tokens, rumor, ritual movement, and coercive participation. In [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]], the "行西王母筹" episode turns straw or hemp tokens associated with the Queen Mother of the West into a mass panic that crosses commanderies and reaches the capital.
 
 ## Current Synthesis
 
-The Hanji 584 case shows panic moving through embodied behavior as much as belief. People carry and pass tokens, say that they are circulating West Queen Mother tallies, run in fear, travel by day or night in abnormal ways, climb walls, use vehicles and horses, and even involve postal vehicles. The source compares the logic to a chain letter: participation is compelled by the fear that refusal will bring disaster.
+The 汉纪 584 case shows panic moving through embodied behavior as much as belief. People carry and pass tokens, say that they are circulating West Queen Mother tallies, run in fear, travel by day or night in abnormal ways, climb walls, use vehicles and horses, and even involve postal vehicles. The source compares the logic to a chain letter: participation is compelled by the fear that refusal will bring disaster.
 
 The panic is not isolated from politics. It follows drought and appears in the same episode as Aidi's illness, ritual reversal, omen prosecution, and outer-relative reward pressure. The wiki therefore treats it as a social counterpart to court omen politics: popular fear does not need a formal memorial or legal case to become politically meaningful.
 
@@ -28,19 +28,19 @@ The panic is not isolated from politics. It follows drought and appears in the s
 
 ## Evidence
 
-- Token circulation: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] says people pass thousands of West Queen Mother tallies made from straw or hemp.
-- Coercive fear: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] compares the practice to chain letters that threaten disaster if not passed on.
-- Abnormal movement: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] records barefoot travel, night movement, wall crossing, racing by vehicle or horse, and postal-vehicle use.
-- Geographic spread: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] says the panic passes through twenty-six commanderies and reaches the capital.
-- Ritual gatherings: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|Hanji 584]] says people gather in lanes and field paths to dance, sing, and worship the Queen Mother of the West.
+- Token circulation: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] says people pass thousands of West Queen Mother tallies made from straw or hemp.
+- Coercive fear: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] compares the practice to chain letters that threaten disaster if not passed on.
+- Abnormal movement: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] records barefoot travel, night movement, wall crossing, racing by vehicle or horse, and postal-vehicle use.
+- Geographic spread: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] says the panic passes through twenty-six commanderies and reaches the capital.
+- Ritual gatherings: [[zizhi-tongjian-hanji-584-xihan-hushan-lishi-moufan-shijian-shimo-lmpoeruya1v3qmixnvi8ewaffqfo|汉纪 584]] says people gather in lanes and field paths to dance, sing, and worship the Queen Mother of the West.
 
 ## Counterevidence & Qualifications
 
-Hanji 584 does not prove who initiated the panic. The host suggests religious fraud or possible political actors, but the source does not settle that claim. The page therefore records transmission mechanics and crisis atmosphere rather than asserting an organized rebellion.
+汉纪 584 does not prove who initiated the panic. The host suggests religious fraud or possible political actors, but the source does not settle that claim. The page therefore records transmission mechanics and crisis atmosphere rather than asserting an organized rebellion.
 
 ## What Changed
 
-- Created the concept from Hanji 584's "行西王母筹" panic.
+- Created the concept from 汉纪 584's "行西王母筹" panic.
 
 ## Related Concepts
 

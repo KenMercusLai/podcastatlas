@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian]] episode backfills the 57-58 CE accession layer for [[EmperorMingOfHan|汉明帝刘庄]], immediately before the sequence already covered from [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|Hanji 734]] onward. It follows Mingdi from youthful succession and elder assistance through [[DengYuEasternHan|邓禹]], trusted royal collaboration with [[LiuCangDongpingKing|东平王刘苍]], the [[WuLiangEasternHan|吴良]] recommendation, the first [[ShaodangQiang|烧当羌]] crisis, and the Yuanling reporting rite before [[LiuXiu|光武帝]]'s tablet.
+This [[RuiqiJiangtouZizhiTongjian]] episode backfills the 57-58 CE accession layer for [[EmperorMingOfHan|汉明帝刘庄]], immediately before the sequence already covered from [[zizhi-tongjian-hanji-734-huanrong-cheng-daru-yinwei-mingdi-shige-hao-penggen-lhwbxrqocf102or9k0nb6z93gzx9|汉纪 734]] onward. It follows Mingdi from youthful succession and elder assistance through [[DengYuEasternHan|邓禹]], trusted royal collaboration with [[LiuCangDongpingKing|东平王刘苍]], the [[WuLiangEasternHan|吴良]] recommendation, the first [[ShaodangQiang|烧当羌]] crisis, and the Yuanling reporting rite before [[LiuXiu|光武帝]]'s tablet.
 
 The episode also sets up Mingdi's differentiated management of royal kin: deep mourning and frugal burial for [[LiuQiangDonghaiKing|东海恭王刘强]], but spatial containment for [[LiuJingGuanglingKingEasternHan|刘荆]] after renewed conspiratorial hopes. On the frontier and institutional side, [[JiTongEasternHan|祭肜]] uses Xianbei force against Chishan Wuhuan, while Liu Cang proposes rites and music that help make early Mingdi rule legible as settled order.
 

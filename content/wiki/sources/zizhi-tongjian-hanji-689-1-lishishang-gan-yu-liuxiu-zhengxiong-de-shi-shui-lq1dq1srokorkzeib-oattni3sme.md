@@ -13,7 +13,7 @@ last_updated: 2026-09-01
 # 《资治通鉴·汉纪》689-1丨历史上敢与刘秀争雄的是谁？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 3 / 27 CE immediately before [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] and [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|Hanji 691]]. It links [[LiuXiu|光武帝刘秀]]'s multi-front cleanup through Guanzhong, Nanyang, Lujiang, Suiyang, and northern planning with the first western relationship problem around [[WeiXiaoEasternHan|隗嚣]]: [[LaiXiEasternHan|来歙]] proposes courting Wei Xiao to isolate [[GongsunShuEasternHan|公孙述]], but the host frames Wei Xiao's suspicion and Liu Xiu's high courtesy as an unstable foundation rather than settled submission.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 3 / 27 CE immediately before [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] and [[zizhi-tongjian-hanji-691-gan-duo-jiangshan-de-weixiao-weihe-zhuding-shu-gei-liuxiu-ljazchpqnxcgav6cmlbm7-d-gv8|汉纪 691]]. It links [[LiuXiu|光武帝刘秀]]'s multi-front cleanup through Guanzhong, Nanyang, Lujiang, Suiyang, and northern planning with the first western relationship problem around [[WeiXiaoEasternHan|隗嚣]]: [[LaiXiEasternHan|来歙]] proposes courting Wei Xiao to isolate [[GongsunShuEasternHan|公孙述]], but the host frames Wei Xiao's suspicion and Liu Xiu's high courtesy as an unstable foundation rather than settled submission.
 
 ## Key Claims
 - Jianwu 3 is still a multi-front consolidation year: Liu Xiu handles Deng Feng, Yan Cen, Qin Feng, Liu Yong, Li Xian, Peng Chong, Zhang Feng, and Zhang Bu-related pressure rather than ruling a settled empire.
@@ -42,6 +42,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills J
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame for the Jianwu 3 notices and the western-sequencing problem.
 
 ## Contradictions
-- No settled contradiction with existing wiki content was found. This source backfills an earlier courtship stage before Hanji 691's cooperative-but-unstable Wei Xiao alignment and Hanji 698-704's later loyalty test, refusal, and rebellion sequence.
-- Identity normalization: the source's 韦敖 is routed to [[WeiXiaoEasternHan|隗嚣]], 严琛 to [[YanCenEasternHan|延岑]], and 葛炎 to [[GaiYanEasternHan|盖延]] based on the Jianwu chronology, Gongsun Shu/Longyou context, and adjacent Hanji 690-704 source notes.
+- No settled contradiction with existing wiki content was found. This source backfills an earlier courtship stage before 汉纪 691's cooperative-but-unstable Wei Xiao alignment and 汉纪 698-704's later loyalty test, refusal, and rebellion sequence.
+- Identity normalization: the source's 韦敖 is routed to [[WeiXiaoEasternHan|隗嚣]], 严琛 to [[YanCenEasternHan|延岑]], and 葛炎 to [[GaiYanEasternHan|盖延]] based on the Jianwu chronology, Gongsun Shu/Longyou context, and adjacent 汉纪 690-704 source notes.
 - Scope caution: Deng Feng, Qin Feng, Liu Yong, Liu Yu, Zhu Hu, Deng Zhongkuang, Liu Gong, Su Jing, Fu Ping, Huosuo, Zhang Han, Ren Liang, exact city names, and minor office titles remain source-scoped unless later notes warrant canonical pages.

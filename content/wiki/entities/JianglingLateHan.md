@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 江陵 / Jiangling (late Han)
 
-江陵 / Jiangling (late Han) enters the wiki through [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|Hanji 969]] as the strategic seat of Nanjun inside [[Jingzhou|荆州]]. The episode uses Jiangling to explain why Jingzhou becomes so valuable in the Three Kingdoms field: from Jiangling, a power can move upstream toward [[YizhouLateHan|益州]] or downstream toward [[YangzhouLateHan|扬州]].
+江陵 / Jiangling (late Han) enters the wiki through [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r|汉纪 969]] as the strategic seat of Nanjun inside [[Jingzhou|荆州]]. The episode uses Jiangling to explain why Jingzhou becomes so valuable in the Three Kingdoms field: from Jiangling, a power can move upstream toward [[YizhouLateHan|益州]] or downstream toward [[YangzhouLateHan|扬州]].
 
 The source treats Jiangling as a corridor-control node rather than a standalone urban biography. Its value is directional: holding it changes what campaigns are possible along the Yangtze and helps explain why later [[CaoCao|曹操]], [[LiuBei|刘备]], and Sun-family actors struggle over Jingzhou.
 

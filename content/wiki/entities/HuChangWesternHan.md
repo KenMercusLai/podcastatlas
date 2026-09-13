@@ -12,7 +12,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-胡长 / Hu Chang is a Western Han classics figure who appears in this wiki through [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] as [[ZhaiFangjinWesternHan|翟方进]]'s jealous counterpart in a shared [[Chunqiu|《春秋》]] teaching setting under [[HanChengdi|汉成帝]].
+胡长 / Hu Chang is a Western Han classics figure who appears in this wiki through [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] as [[ZhaiFangjinWesternHan|翟方进]]'s jealous counterpart in a shared [[Chunqiu|《春秋》]] teaching setting under [[HanChengdi|汉成帝]].
 
 ## Current Profile
 
@@ -31,13 +31,13 @@ Hu's profile changes when Zhai refuses retaliation and instead sends disciples t
 ## Evidence
 
 Court teaching role:
-- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] says Hu Chang and Zhai Fangjin jointly lecture on the Spring and Autumn Annals under Chengdi's order.
+- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] says Hu Chang and Zhai Fangjin jointly lecture on the Spring and Autumn Annals under Chengdi's order.
 
 Jealous rivalry:
-- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] says Zhai's learning and reputation exceed Hu's, prompting Hu to disparage him in multiple settings.
+- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] says Zhai's learning and reputation exceed Hu's, prompting Hu to disparage him in multiple settings.
 
 Reversal through recognition:
-- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] says Zhai repeatedly sends disciples to listen, ask questions, and record Hu's views; Hu later feels shame, praises Zhai, and becomes his friend.
+- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] says Zhai repeatedly sends disciples to listen, ask questions, and record Hu's views; Hu later feels shame, praises Zhai, and becomes his friend.
 
 ## Qualifications
 
@@ -45,7 +45,7 @@ The current page is bounded to one short source. It does not establish Hu Chang'
 
 ## What Changed
 
-- Created the page from Hanji 560's Zhai Fangjin-Hu Chang conflict story.
+- Created the page from 汉纪 560's Zhai Fangjin-Hu Chang conflict story.
 
 ## Relationships
 

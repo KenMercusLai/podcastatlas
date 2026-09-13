@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》987丨定陶之战：曹操和吕布巅峰对决
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[CaoCao|曹操]]'s 195 CE [[YanzhouLateHan|兖州]] base-recovery problem immediately before the later Emperor Xian branch in [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]]. [[XunYu|荀彧]] persuades Cao Cao not to chase the tempting [[Xuzhou|徐州]] opening after [[TaoQianLateHan|陶谦]]'s death, because [[LyuBu|吕布]] and [[ZhangMiaoLateHan|张邈]] still threaten Cao Cao's root base. The episode then turns that strategic advice into battlefield outcome: Cao Cao uses terrain and伏兵 to defeat Lü Bu at [[DingtaoBattleLateHan|定陶之战]], after which Lü Bu flees to [[LiuBei|刘备]] and creates an etiquette breach through [[LadyYanLyuBu|严氏]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[CaoCao|曹操]]'s 195 CE [[YanzhouLateHan|兖州]] base-recovery problem immediately before the later Emperor Xian branch in [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|汉纪 988]]. [[XunYu|荀彧]] persuades Cao Cao not to chase the tempting [[Xuzhou|徐州]] opening after [[TaoQianLateHan|陶谦]]'s death, because [[LyuBu|吕布]] and [[ZhangMiaoLateHan|张邈]] still threaten Cao Cao's root base. The episode then turns that strategic advice into battlefield outcome: Cao Cao uses terrain and伏兵 to defeat Lü Bu at [[DingtaoBattleLateHan|定陶之战]], after which Lü Bu flees to [[LiuBei|刘备]] and creates an etiquette breach through [[LadyYanLyuBu|严氏]].
 
 ## Key Claims
 - Xun Yu treats [[YanzhouLateHan|兖州]] as Cao Cao's equivalent of [[GuanzhongRegion|关中]] for Liu Bang or [[HeneiCommandery|河内]] for Liu Xiu: a secure base from which attack and retreat both remain possible.
@@ -38,7 +38,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [
 - [[ZhangMiaoLateHan|张邈]], [[ZhangChaoLateHan|张超]], and [[YanzhouLateHan|兖州]] - defeated anti-Cao branch that leads toward the Yongqiu/Zang Hong sequence.
 - [[LiuBei|刘备]], [[LadyYanLyuBu|严氏]], [[PowerEtiquetteReading|权力礼仪细读]], and [[Xuzhou|徐州]] - Lü Bu's post-defeat reception and etiquette problem.
 - [[WarCostTempoDiscipline|战争成本与速决纪律]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - concepts extended by the source.
-- [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] and [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|Hanji 989]] - downstream sources that continue the 195 CE late-Han disorder branch.
+- [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|汉纪 988]] and [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6|汉纪 989]] - downstream sources that continue the 195 CE late-Han disorder branch.
 
 ## Contradictions
 - No settled contradiction found.

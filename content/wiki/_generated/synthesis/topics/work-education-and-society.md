@@ -12,13 +12,13 @@ input_digest: 24011bafa1d387defc6e48aef14cb0160adf6740945de3c079966110fa277d3a
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, and human judgment rather than labels alone. 汉纪 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. 汉纪 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct.
 
 ## Cross-source Findings
 
 ### Hidden Leader Demand Shapes Workplace Usefulness
 
-[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] enters work-and-society as a hierarchy diagnosis: [[DirtyWorkDelegationStatecraft]] and [[UpwardManagement]] show that leaders may value people who meet hidden operational, emotional, private-service, or blame-bearing needs, while [[TalentVirtueDistinction]] and [[UseStrengthsOverFaults]] keep usefulness separate from virtue.
+[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|汉纪 442]] enters work-and-society as a hierarchy diagnosis: [[DirtyWorkDelegationStatecraft]] and [[UpwardManagement]] show that leaders may value people who meet hidden operational, emotional, private-service, or blame-bearing needs, while [[TalentVirtueDistinction]] and [[UseStrengthsOverFaults]] keep usefulness separate from virtue.
 
 **Evidence:** [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd]], [[DirtyWorkDelegationStatecraft]], [[UpwardManagement]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]]
 
@@ -28,9 +28,9 @@ Work, education, and society sources show that institutions and public life depe
 - The source warns against simplistic loyalist/villain labels but does not recommend becoming a dirty-work agent.
 - The many historical examples remain source-scoped and are not complete biographies.
 
-### Hanji 445 Schools Ritual And Grassroots Network As Local Institution
+### 汉纪 445 Schools Ritual And Grassroots Network As Local Institution
 
-[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|Hanji 445]] enters work-and-society as a bounded historical institution case: [[HanYanshouWesternHan]] makes schools, ritual training, local worthies, and grassroots monitors into an education-and-network system, while [[MoralPressureAdjudication]] qualifies the harmony as potentially pressure-driven.
+[[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti|汉纪 445]] enters work-and-society as a bounded historical institution case: [[HanYanshouWesternHan]] makes schools, ritual training, local worthies, and grassroots monitors into an education-and-network system, while [[MoralPressureAdjudication]] qualifies the harmony as potentially pressure-driven.
 
 **Evidence:** [[zizhi-tongjian-hanji-445-xihan-hanyanshou-guanli-baixing-youhe-shence-lks2ycpyq-gl591d8yp-wosfz8ti]], [[HanYanshouWesternHan]], [[MoralPressureAdjudication]], [[RuiqiJiangtouZizhiTongjian]]
 
@@ -41,7 +41,7 @@ Work, education, and society sources show that institutions and public life depe
 
 ### Hierarchy Advice Needs Channel Protection And Consistent Conduct
 
-[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] enters work-and-society as a bounded historical hierarchy analogy: [[ShiDanWesternHan]] gives principled advice to [[HanAidi]], but anger from above, inconsistent currency advice, and [[ConfidentialRemonstranceLeakage]] show that correct speech still depends on channel protection, follow-through, and the political meaning assigned to process failure.
+[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|汉纪 575]] enters work-and-society as a bounded historical hierarchy analogy: [[ShiDanWesternHan]] gives principled advice to [[HanAidi]], but anger from above, inconsistent currency advice, and [[ConfidentialRemonstranceLeakage]] show that correct speech still depends on channel protection, follow-through, and the political meaning assigned to process failure.
 
 **Evidence:** [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[CourtFeedbackCollapse]], [[AdoptiveLineageRitualPolitics]]
 
@@ -53,7 +53,7 @@ Work, education, and society sources show that institutions and public life depe
 
 ### Wang Jia Hierarchy Speech Uses Praise Before Correction
 
-[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] adds a work-and-society edge to [[WangJiaWesternHan|王嘉]]'s court speech: inside hierarchy, praise of [[HanYuandi|汉元帝]], [[HanChengdi|汉成帝]], and early [[HanAidi|汉哀帝]] creates a shared standard before dangerous correction, which [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]] later develops into the Dong Xian warning.
+[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|汉纪 592]] adds a work-and-society edge to [[WangJiaWesternHan|王嘉]]'s court speech: inside hierarchy, praise of [[HanYuandi|汉元帝]], [[HanChengdi|汉成帝]], and early [[HanAidi|汉哀帝]] creates a shared standard before dangerous correction, which [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|汉纪 593]] later develops into the Dong Xian warning.
 
 **Evidence:** [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5]], [[WangJiaWesternHan]], [[HanYuandi]], [[HanChengdi]], [[HanAidi]], [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq]]
 
@@ -112,7 +112,7 @@ Work, education, and society sources show that institutions and public life depe
 
 ### Late Han 1064 Credit Speech Boundary Risk
 
-[[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|Hanji 1064]] enters work-and-society as a bounded late-Han hierarchy and speech-boundary analogy: [[QianZhaoLateHan]] shows role transfer from Yuan-side transport work into Cao-side service, [[CuiYanLateHan]] shows severe remonstrance tolerated when aimed at civilian suffering, and [[XuYouLateHan]] plus [[SuperiorCreditConflictRisk]] show real Guandu merit becoming lethal when public credit is performed as superiority over Cao Cao after the Jizhou victory.
+[[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth|汉纪 1064]] enters work-and-society as a bounded late-Han hierarchy and speech-boundary analogy: [[QianZhaoLateHan]] shows role transfer from Yuan-side transport work into Cao-side service, [[CuiYanLateHan]] shows severe remonstrance tolerated when aimed at civilian suffering, and [[XuYouLateHan]] plus [[SuperiorCreditConflictRisk]] show real Guandu merit becoming lethal when public credit is performed as superiority over Cao Cao after the Jizhou victory.
 
 **Evidence:** [[zizhi-tongjian-hanji-1064-xuyou-zhisi-gonggao-zhenzhu-yu-xingge-quexian-de-beige-lswmvj55p7ip97ts5e30xfdubwth]], [[QianZhaoLateHan]], [[CuiYanLateHan]], [[XuYouLateHan]], [[SuperiorCreditConflictRisk]], [[GuanduCampaign]], [[YeLateHan]], [[RuiqiJiangtouZizhiTongjian]]
 
@@ -124,7 +124,7 @@ Work, education, and society sources show that institutions and public life depe
 
 ### Late Han 1070 Role Credibility And Local Access Control
 
-[[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] enters work-and-society as a bounded historical role-credibility analogy: [[JiaoChuLateHan]] and [[ZhangNanLateHan]] show formal role switching through coerced public oath, [[HanHengLateHan]] shows reputational value in refusing a role transfer, [[ZhangYanLateHan]] shows outside force converted into recognized office through reward, and [[DuJiLateHan]] / [[TransitHubCommanderyControl]] show that an appointment only works if seal handoff and local access can overcome resistance around [[WangYiHedongLateHan]], [[WeiGuLateHan]], and [[FanXianLateHan]].
+[[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] enters work-and-society as a bounded historical role-credibility analogy: [[JiaoChuLateHan]] and [[ZhangNanLateHan]] show formal role switching through coerced public oath, [[HanHengLateHan]] shows reputational value in refusing a role transfer, [[ZhangYanLateHan]] shows outside force converted into recognized office through reward, and [[DuJiLateHan]] / [[TransitHubCommanderyControl]] show that an appointment only works if seal handoff and local access can overcome resistance around [[WangYiHedongLateHan]], [[WeiGuLateHan]], and [[FanXianLateHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o]], [[JiaoChuLateHan]], [[ZhangNanLateHan]], [[HanHengLateHan]], [[ZhangYanLateHan]], [[DuJiLateHan]], [[TransitHubCommanderyControl]], [[WangYiHedongLateHan]], [[WeiGuLateHan]], [[FanXianLateHan]], [[LoyalRefusalLegitimacySignal]]
 
@@ -181,9 +181,9 @@ Work, education, and society sources show that institutions and public life depe
 - The source title occupational-injury language is treated as a framing signal; actual risk depends on exposure conditions and symptoms rather than job identity alone.
 - Device comparisons, active-noise-cancellation discomfort, cleaning methods, tinnitus causes, and treatment decisions remain source-scoped.
 
-### Hanji 697 Institutional Restoration And Role Boundary
+### 汉纪 697 Institutional Restoration And Role Boundary
 
-[[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|Hanji 697]] enters work-and-society as a bounded historical institution and role-boundary case: [[GengYanEasternHan]] closes the campaign field, [[Taixue]] restoration signals a shift toward civil order under [[LiuXiu]], [[FengYiEasternHan]] tests ruler-subordinate trust under accusation, and [[WeiXiaoEasternHan]] plus [[ZhengXingEasternHan]] mark role-boundary risk when a subordinate imitates kingly or imperial office forms.
+[[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c|汉纪 697]] enters work-and-society as a bounded historical institution and role-boundary case: [[GengYanEasternHan]] closes the campaign field, [[Taixue]] restoration signals a shift toward civil order under [[LiuXiu]], [[FengYiEasternHan]] tests ruler-subordinate trust under accusation, and [[WeiXiaoEasternHan]] plus [[ZhengXingEasternHan]] mark role-boundary risk when a subordinate imitates kingly or imperial office forms.
 
 **Evidence:** [[zizhi-tongjian-hanji-697-yi-kou-qi-kan-dong-donghan-mingjiang-gengyan-de-chuanqi-rensheng-lpbhbmedezq7pjuz5l3q-s1unh7c]], [[GengYanEasternHan]], [[Taixue]], [[LiuXiu]], [[FengYiEasternHan]], [[WeiXiaoEasternHan]], [[ZhengXingEasternHan]]
 
@@ -193,16 +193,16 @@ Work, education, and society sources show that institutions and public life depe
 - The source belongs primarily to Eastern Han history and governance; this topic assignment is limited to institutional restoration, role boundaries, and trust under accusation.
 - Hou Ba, Min Zhongshu, exact office details, and the host management lesson remain source-scoped because they are not independently developed into canonical pages here.
 
-### Hanji 703 Talent Alignment And Role Clarity
+### 汉纪 703 Talent Alignment And Role Clarity
 
-[[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|Hanji 703]] adds a source-scoped work-and-society analogy inside the Eastern Han material: [[DouRongEasternHan]] is rewarded and used after warning [[WeiXiaoEasternHan]], [[MaYuanEasternHan]] becomes valuable because old-network knowledge can be converted into persuasion, and [[LiangTongEasternHan]] shows role clarity through a costly no-return signal. The episode's host-level lesson is bounded: talent matters when it is attached to credible alignment, timing, and deployable judgment, not as an abstract trait.
+[[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac|汉纪 703]] adds a source-scoped work-and-society analogy inside the Eastern Han material: [[DouRongEasternHan]] is rewarded and used after warning [[WeiXiaoEasternHan]], [[MaYuanEasternHan]] becomes valuable because old-network knowledge can be converted into persuasion, and [[LiangTongEasternHan]] shows role clarity through a costly no-return signal. The episode's host-level lesson is bounded: talent matters when it is attached to credible alignment, timing, and deployable judgment, not as an abstract trait.
 
 **Evidence:** [[zizhi-tongjian-hanji-703-donghan-kaiguo-hou-zui-xianhe-de-jiazu-pingsha-shi-ta-lgg-fra8ostp2xsuugph6o-ilzac]], [[DouRongEasternHan]], [[WeiXiaoEasternHan]], [[MaYuanEasternHan]], [[LiangTongEasternHan]]
 
 **Qualifications:**
 
 - This is a secondary work-and-society analogy from a historical source, not modern workplace, legal, military, or career advice.
-- The claim is bounded to Hanji 703's host framing and should not be generalized into a universal rule about talent or loyalty.
+- The claim is bounded to 汉纪 703's host framing and should not be generalized into a universal rule about talent or loyalty.
 - Minor actors and exact letter details remain source-scoped to the episode.
 
 ### Consumer Health Questions Need Product Use Boundaries
@@ -217,69 +217,69 @@ Work, education, and society sources show that institutions and public life depe
 - The claim is about how listener-facing questions are structured; the product examples remain source-scoped.
 - The source-scoped 余婉柔 guest is not merged with [[YueWanrou]] without additional identity evidence.
 
-### Hanji 725 Private Letter And Role Boundary Risk
+### 汉纪 725 Private Letter And Role Boundary Risk
 
-[[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] adds a source-scoped work-and-society analogy before Hanji 726: [[MaYuanEasternHan]]'s warning letter uses [[LongBogaoEasternHan]] and [[DuJiliangEasternHan]] to teach speech discipline and imitation risk, but [[PrivateLetterPoliticalWeaponization]] shows how a bounded family message becomes accusation evidence once hostile actors change its audience. The [[LiangSongLinxiangMarquis]] and [[GengShuEasternHan]] branches extend the same role-boundary problem because etiquette resentment, association exposure, and route-dispute reporting can turn private judgment into court risk.
+[[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|汉纪 725]] adds a source-scoped work-and-society analogy before 汉纪 726: [[MaYuanEasternHan]]'s warning letter uses [[LongBogaoEasternHan]] and [[DuJiliangEasternHan]] to teach speech discipline and imitation risk, but [[PrivateLetterPoliticalWeaponization]] shows how a bounded family message becomes accusation evidence once hostile actors change its audience. The [[LiangSongLinxiangMarquis]] and [[GengShuEasternHan]] branches extend the same role-boundary problem because etiquette resentment, association exposure, and route-dispute reporting can turn private judgment into court risk.
 
 **Evidence:** [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y]], [[MaYuanEasternHan]], [[LongBogaoEasternHan]], [[DuJiliangEasternHan]], [[PrivateLetterPoliticalWeaponization]], [[LiangSongLinxiangMarquis]], [[GengShuEasternHan]], [[JiTongEasternHan]], [[PianHeXianbei]], [[FrontierProxyCommitmentBinding]]
 
 **Qualifications:**
 
-- This is a secondary work-and-society analogy from Hanji 725; the source belongs primarily to Eastern Han history, frontier policy, and court politics.
+- This is a secondary work-and-society analogy from 汉纪 725; the source belongs primarily to Eastern Han history, frontier policy, and court politics.
 - The claim should not be read as modern workplace, legal, military, family, or career advice.
 - Ma Yan, Ma Dun, route geography, force counts, and the host's workplace lessons remain source-scoped.
 
-### Hanji 726 Reputation Role And Accountability Boundaries
+### 汉纪 726 Reputation Role And Accountability Boundaries
 
-[[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] adds a secondary work-and-society analogy before Hanji 728: [[ZhuBoEasternHan]] uses [[PosthumousMeritVindication]] to repair [[MaYuanEasternHan]]'s damaged reputation after [[LiangSongLinxiangMarquis]]'s accusation, [[ZongJunEasternHan]] and [[FieldDiscretionPacification]] show risky field judgment returning to accountability after the [[WulingManLateHan]] settlement, and [[BanBiaoEasternHan]] turns [[Wuhuan]] management into office routines through [[WuhuanProtectorateInstitutionalization]].
+[[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] adds a secondary work-and-society analogy before 汉纪 728: [[ZhuBoEasternHan]] uses [[PosthumousMeritVindication]] to repair [[MaYuanEasternHan]]'s damaged reputation after [[LiangSongLinxiangMarquis]]'s accusation, [[ZongJunEasternHan]] and [[FieldDiscretionPacification]] show risky field judgment returning to accountability after the [[WulingManLateHan]] settlement, and [[BanBiaoEasternHan]] turns [[Wuhuan]] management into office routines through [[WuhuanProtectorateInstitutionalization]].
 
 **Evidence:** [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu]], [[ZhuBoEasternHan]], [[PosthumousMeritVindication]], [[MaYuanEasternHan]], [[LiangSongLinxiangMarquis]], [[ZongJunEasternHan]], [[FieldDiscretionPacification]], [[WulingManLateHan]], [[BanBiaoEasternHan]], [[Wuhuan]], [[WuhuanProtectorateInstitutionalization]]
 
 **Qualifications:**
 
-- This is a secondary historical work-and-society analogy from Hanji 726; the source belongs primarily to Eastern Han history and governance.
+- This is a secondary historical work-and-society analogy from 汉纪 726; the source belongs primarily to Eastern Han history and governance.
 - The claim should not be read as modern workplace, legal, military, family, or career advice.
 - Liang Song's motive, the Dou-family marriage break, and the full Empress Ma historian claim remain source-scoped.
 
-### Hanji 728 Status Education And Guest Boundaries
+### 汉纪 728 Status Education And Guest Boundaries
 
-[[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] adds a source-scoped work-and-society analogy before Hanji 729: [[HighStatusCautionSelfProtection]] contrasts [[FanHongEasternHan]]'s low-display high status with [[WangPanEasternHan]] and [[WangSuEasternHan]]'s risky elite association, while [[PrivateRetainerNetworkRisk]] and [[KinshipProtocolBoundary]] show princely guest networks turning access into violence, accusation, purge, and fief-return boundaries. The tutor branch adds [[CrownPrinceTutorPublicInterest]] because [[ZhangYiEasternHan]] redirects heir education away from [[YinShiEasternHan]] as maternal-family convenience, and [[HuanRongEasternHan]] turns teacher appointment into a learning signal.
+[[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] adds a source-scoped work-and-society analogy before 汉纪 729: [[HighStatusCautionSelfProtection]] contrasts [[FanHongEasternHan]]'s low-display high status with [[WangPanEasternHan]] and [[WangSuEasternHan]]'s risky elite association, while [[PrivateRetainerNetworkRisk]] and [[KinshipProtocolBoundary]] show princely guest networks turning access into violence, accusation, purge, and fief-return boundaries. The tutor branch adds [[CrownPrinceTutorPublicInterest]] because [[ZhangYiEasternHan]] redirects heir education away from [[YinShiEasternHan]] as maternal-family convenience, and [[HuanRongEasternHan]] turns teacher appointment into a learning signal.
 
 **Evidence:** [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf]], [[HighStatusCautionSelfProtection]], [[FanHongEasternHan]], [[WangPanEasternHan]], [[WangSuEasternHan]], [[PrivateRetainerNetworkRisk]], [[KinshipProtocolBoundary]], [[CrownPrinceTutorPublicInterest]], [[ZhangYiEasternHan]], [[YinShiEasternHan]], [[HuanRongEasternHan]]
 
 **Qualifications:**
 
-- This is a historical work-and-society analogy from Hanji 728, not modern career, family, education, legal, or political advice.
+- This is a historical work-and-society analogy from 汉纪 728, not modern career, family, education, legal, or political advice.
 - The episode belongs primarily to Eastern Han governance and court history; it enters this topic through status conduct, social access, role selection, and education language.
 - Fan Hong, Wang Pan, Wang Su, Liu Fu, Liu Li, Yin Shi, and Zhang Yi are newly bounded to this source unless later notes expand them.
 
-### Hanji 738 Public Duty Education And Royal Boundaries
+### 汉纪 738 Public Duty Education And Royal Boundaries
 
-[[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] adds a source-scoped work-and-society analogy before Hanji 739: [[EmperorMingOfHan]] uses official evaluation and classics education to make status legible as duty, [[BaoJunEasternHan]] and [[DingHongEasternHan]] treat inherited title as [[TitleSuccessionPublicDuty]] rather than private preference, and [[FanTiaoEasternHan]] plus [[RoyalKinTreasonLawBoundary]] show that royal kinship cannot privatize public-law judgment around [[LiuJingGuanglingKingEasternHan]]. [[ZhengZhongFrontierEasternHan]] and [[DiplomaticRitualDignity]] qualify the duty frame because principled office refusal can be punished when the ruler reads it as disobedience.
+[[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] adds a source-scoped work-and-society analogy before 汉纪 739: [[EmperorMingOfHan]] uses official evaluation and classics education to make status legible as duty, [[BaoJunEasternHan]] and [[DingHongEasternHan]] treat inherited title as [[TitleSuccessionPublicDuty]] rather than private preference, and [[FanTiaoEasternHan]] plus [[RoyalKinTreasonLawBoundary]] show that royal kinship cannot privatize public-law judgment around [[LiuJingGuanglingKingEasternHan]]. [[ZhengZhongFrontierEasternHan]] and [[DiplomaticRitualDignity]] qualify the duty frame because principled office refusal can be punished when the ruler reads it as disobedience.
 
 **Evidence:** [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu]], [[EmperorMingOfHan]], [[BaoJunEasternHan]], [[DingHongEasternHan]], [[TitleSuccessionPublicDuty]], [[FanTiaoEasternHan]], [[RoyalKinTreasonLawBoundary]], [[LiuJingGuanglingKingEasternHan]], [[ZhengZhongFrontierEasternHan]], [[DiplomaticRitualDignity]]
 
 **Qualifications:**
 
-- This is a historical analogy from Hanji 738, not modern workplace, legal, education, family, or career advice.
+- This is a historical analogy from 汉纪 738, not modern workplace, legal, education, family, or career advice.
 - The source belongs primarily to Eastern Han history and governance; it enters this topic through official evaluation, classics education, title succession, and role-boundary language.
 - The transcript-name normalizations for Zheng Zhong, Liu Jing, Ding Hong, and Fan Tiao remain source-scoped.
 
-### Hanji 739 Kinship Office And Accusation Risk
+### 汉纪 739 Kinship Office And Accusation Risk
 
-[[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] adds a narrow historical work-and-society analogy before the Hanji 744 accession-role claim: [[LiuCangDongpingKing]]'s moral role within Mingdi kinship politics, [[YuYanEasternHan]]'s ignored private warning, and the Fan Tiao marriage-risk anecdote show how family status, role proximity, and accusation environments can turn private judgment into institutional exposure under [[EmperorMingOfHan]] and [[LiuYingChuKingEasternHan]].
+[[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] adds a narrow historical work-and-society analogy before the 汉纪 744 accession-role claim: [[LiuCangDongpingKing]]'s moral role within Mingdi kinship politics, [[YuYanEasternHan]]'s ignored private warning, and the Fan Tiao marriage-risk anecdote show how family status, role proximity, and accusation environments can turn private judgment into institutional exposure under [[EmperorMingOfHan]] and [[LiuYingChuKingEasternHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl]], [[LiuCangDongpingKing]], [[YuYanEasternHan]], [[EmperorMingOfHan]], [[LiuYingChuKingEasternHan]], [[CoerciveImplicationCascade]]
 
 **Qualifications:**
 
-- This is a historical analogy from Hanji 739, not modern workplace, legal, family, or career advice.
-- The Fan Wei marriage-risk anecdote remains source-scoped; Fan Tiao now has a canonical page through Hanji 738, but the Hanji 739 branch still does not independently reconstruct that figure.
+- This is a historical analogy from 汉纪 739, not modern workplace, legal, family, or career advice.
+- The Fan Wei marriage-risk anecdote remains source-scoped; Fan Tiao now has a canonical page through 汉纪 738, but the 汉纪 739 branch still does not independently reconstruct that figure.
 - The source belongs primarily to Eastern Han history and governance; it enters this topic through role, family, warning, and accusation-risk language.
 
-### Hanji 744 Accession Roles And Burial Restraint
+### 汉纪 744 Accession Roles And Burial Restraint
 
-[[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|Hanji 744]] adds a source-scoped work-and-society analogy about role boundaries at accession: [[EmperorZhangOfHan]] approves palace-gate discipline around the Ma brothers, [[LiuCangDongpingKing]] turns [[EmperorMingOfHan]]'s frugal burial intent into [[FrugalImperialBurialRestraint]] against public burden, and [[FifthLunEasternHan]] moves from clean Shu commandery administration into Sikong, making office function and hierarchy visible before later Ma-family and Dou-family risk layers.
+[[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx|汉纪 744]] adds a source-scoped work-and-society analogy about role boundaries at accession: [[EmperorZhangOfHan]] approves palace-gate discipline around the Ma brothers, [[LiuCangDongpingKing]] turns [[EmperorMingOfHan]]'s frugal burial intent into [[FrugalImperialBurialRestraint]] against public burden, and [[FifthLunEasternHan]] moves from clean Shu commandery administration into Sikong, making office function and hierarchy visible before later Ma-family and Dou-family risk layers.
 
 **Evidence:** [[zizhi-tongjian-hanji-744-dahan-genggong-qiusheng-caipu-jingrang-beiye-wangchenmoji-lvsumpsnpb1tpk7t0xrx7vatd5mx]], [[EmperorZhangOfHan]], [[LiuCangDongpingKing]], [[EmperorMingOfHan]], [[FrugalImperialBurialRestraint]], [[FifthLunEasternHan]]
 
@@ -289,9 +289,9 @@ Work, education, and society sources show that institutions and public life depe
 - Yang Ren, Zhao Xi, Mou Rong, exact dates, and Fifth-surname genealogy remain source-scoped because no canonical pages were created for them.
 - The claim belongs primarily to Eastern Han history; it enters this topic because the overview links office roles, hierarchy, public burden, and family-boundary conduct.
 
-### Hanji 757 Career Positioning And Institutional Fit
+### 汉纪 757 Career Positioning And Institutional Fit
 
-[[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] adds a source-scoped role-fit analogy: [[CareerPositioningThroughFit]] uses [[GuoGongEasternHanJurist]] to show inherited legal training becoming office fit, while [[SingleAuthorInstitutionalCodification]] and [[CaoBaoEasternHan]] show Zhangdi choosing one accountable compiler when broad deliberation might stall; [[FuYuEasternHan]], [[ZhangYuEasternHan]], and [[BreachOfSurrenderTrust]] keep the analogy qualified because poor frontier role judgment and bad-faith coercion can damage trust.
+[[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] adds a source-scoped role-fit analogy: [[CareerPositioningThroughFit]] uses [[GuoGongEasternHanJurist]] to show inherited legal training becoming office fit, while [[SingleAuthorInstitutionalCodification]] and [[CaoBaoEasternHan]] show Zhangdi choosing one accountable compiler when broad deliberation might stall; [[FuYuEasternHan]], [[ZhangYuEasternHan]], and [[BreachOfSurrenderTrust]] keep the analogy qualified because poor frontier role judgment and bad-faith coercion can damage trust.
 
 **Evidence:** [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x]], [[CareerPositioningThroughFit]], [[GuoGongEasternHanJurist]], [[SingleAuthorInstitutionalCodification]], [[CaoBaoEasternHan]], [[FuYuEasternHan]], [[ZhangYuEasternHan]], [[BreachOfSurrenderTrust]]
 
@@ -303,30 +303,30 @@ Work, education, and society sources show that institutions and public life depe
 
 ### Rank Proximity And Role Displacement Shape Social Action
 
-As a secondary work-and-society input, [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] shows role power working through institutional setting rather than title alone: [[DouJingEasternHan]] turns kinship-backed office proximity into coercive household behavior, while [[HeSongEasternHan]] turns a court-displacement posting into local governance and hierarchy-bound counsel; [[YuanAnEasternHan]]'s remonstrance and [[DouGuiEasternHan]]'s restraint keep the case source-scoped to rank, role, and conduct under [[DouXianEasternHan]]'s family power.
+As a secondary work-and-society input, [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|汉纪 762]] shows role power working through institutional setting rather than title alone: [[DouJingEasternHan]] turns kinship-backed office proximity into coercive household behavior, while [[HeSongEasternHan]] turns a court-displacement posting into local governance and hierarchy-bound counsel; [[YuanAnEasternHan]]'s remonstrance and [[DouGuiEasternHan]]'s restraint keep the case source-scoped to rank, role, and conduct under [[DouXianEasternHan]]'s family power.
 
 **Evidence:** [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj]], [[DouJingEasternHan]], [[HeSongEasternHan]], [[YuanAnEasternHan]], [[DouGuiEasternHan]], [[DouXianEasternHan]]
 
 **Qualifications:**
 
-- This is a secondary work-and-society reading of Hanji 762; the source belongs primarily to late-Han governance and history.
+- This is a secondary work-and-society reading of 汉纪 762; the source belongs primarily to late-Han governance and history.
 - The claim is historical analogy, not modern workplace, legal, military, or management advice.
 - The source does not prove He Song solved the Jinan royal-household problem or provide Dou Jing's full biography.
 
 ### Historical Office Value Depends On Power Center Proximity
 
-[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|Hanji 487]] and [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] add bounded historical work-and-career analogies through [[PowerCenterProximityAdvantage]]: a role's value can come from proximity to decision makers, information, documents, promotion visibility, and protection rather than rank alone. [[JingFang]] shows the risk side when an apparent local appointment cuts access to [[HanYuandi]], while [[HuangXiangLateHan]] shows the opportunity side by staying in a central document role grounded in [[ShangshuTaiImperialAccess]].
+[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|汉纪 487]] and [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|汉纪 769]] add bounded historical work-and-career analogies through [[PowerCenterProximityAdvantage]]: a role's value can come from proximity to decision makers, information, documents, promotion visibility, and protection rather than rank alone. [[JingFang]] shows the risk side when an apparent local appointment cuts access to [[HanYuandi]], while [[HuangXiangLateHan]] shows the opportunity side by staying in a central document role grounded in [[ShangshuTaiImperialAccess]].
 
 **Evidence:** [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet]], [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i]], [[PowerCenterProximityAdvantage]], [[JingFang]], [[HanYuandi]], [[HuangXiangLateHan]], [[ShangshuTaiImperialAccess]]
 
 **Qualifications:**
 
 - These are source-scoped historical analogies, not a universal rule that headquarters roles are always better than local roles.
-- Hanji 487's workplace framing remains an interpretive translation of a Western Han court danger case.
+- 汉纪 487's workplace framing remains an interpretive translation of a Western Han court danger case.
 
 ### Palace Selection Turns Family Preparation Into Status Mobility
 
-[[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|Hanji 787]] adds a historical work-and-society analogy through [[PalaceMarriageFamilyMobility]]: [[YanChangLateHan]] treats palace selection as household strategy, trains Yan Ji beyond beauty for harem entry, and depends on both [[EmperorAnOfHan]]'s favor and [[EmpressDowagerDengLateHan]]'s approval before [[EmpressDowagerYanLateHan]]'s empress rank turns family preparation into office-adjacent public status.
+[[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm|汉纪 787]] adds a historical work-and-society analogy through [[PalaceMarriageFamilyMobility]]: [[YanChangLateHan]] treats palace selection as household strategy, trains Yan Ji beyond beauty for harem entry, and depends on both [[EmperorAnOfHan]]'s favor and [[EmpressDowagerDengLateHan]]'s approval before [[EmpressDowagerYanLateHan]]'s empress rank turns family preparation into office-adjacent public status.
 
 **Evidence:** [[zizhi-tongjian-hanji-787-chuanqi-huanghou-yanji-shi-ruhe-yibubu-shangwei-de-lslngjnedmqgh8h5nfc-qmyahqnm]], [[PalaceMarriageFamilyMobility]], [[YanChangLateHan]], [[EmpressDowagerYanLateHan]], [[EmperorAnOfHan]], [[EmpressDowagerDengLateHan]], [[OuterRelativeCourtPower]]
 
@@ -338,7 +338,7 @@ As a secondary work-and-society input, [[zizhi-tongjian-hanji-762-lishi-gaosu-ni
 
 ### Family And Career Diversification Reduces Single Channel Risk
 
-[[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]] adds a work-and-society bridge through [[FamilyRiskDiversification]]: [[DengKangLateHan]]'s removal from the [[DengFamilyAnEraLateHan]] power core shows how family or career concentration can become exposure, while separation can read as punishment first and protection later.
+[[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|汉纪 792]] adds a work-and-society bridge through [[FamilyRiskDiversification]]: [[DengKangLateHan]]'s removal from the [[DengFamilyAnEraLateHan]] power core shows how family or career concentration can become exposure, while separation can read as punishment first and protection later.
 
 **Evidence:** [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn]], [[FamilyRiskDiversification]], [[DengKangLateHan]], [[DengFamilyAnEraLateHan]], [[EmpressDowagerDengLateHan]]
 
@@ -349,37 +349,37 @@ As a secondary work-and-society input, [[zizhi-tongjian-hanji-762-lishi-gaosu-ni
 
 ### Mourning Withdrawal Turns Family Duty Into Status Management
 
-As a secondary work-and-society input, [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] shows that [[DengFamilyAnEraLateHan]] office exit can be status management: [[BanZhaoLateHan]] advises [[EmpressDowagerDengLateHan]] to accept [[DengZhiLateHan]] and the Deng brothers' mourning withdrawal as a non-monopoly signal, while fengchaoqing keeps family consultation available under [[RegencyUnderCompoundCrisis]].
+As a secondary work-and-society input, [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] shows that [[DengFamilyAnEraLateHan]] office exit can be status management: [[BanZhaoLateHan]] advises [[EmpressDowagerDengLateHan]] to accept [[DengZhiLateHan]] and the Deng brothers' mourning withdrawal as a non-monopoly signal, while fengchaoqing keeps family consultation available under [[RegencyUnderCompoundCrisis]].
 
 **Evidence:** [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u]], [[DengFamilyAnEraLateHan]], [[BanZhaoLateHan]], [[EmpressDowagerDengLateHan]], [[DengZhiLateHan]], [[RegencyUnderCompoundCrisis]]
 
 **Qualifications:**
 
-- This is a historical analogy from Hanji 785, not modern workplace, family, or mourning advice.
+- This is a historical analogy from 汉纪 785, not modern workplace, family, or mourning advice.
 - The paragraph belongs primarily to history and governance; it appears here only because family, office, reputation, and status-management language made it a secondary work/society input.
 - The source does not prove that Deng-family withdrawal reduced real power; fengchaoqing access keeps the restraint signal qualified.
 
 ### Historical Relationship Channels Shape Workable Claims
 
-[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|Hanji 806]] adds a historical work-and-society analogy: [[YuXuEasternHan]]'s correct accusation does not work until [[SunChengLateHan]], [[GaoFanLateHan]], family, and students create an effective channel; [[ZuoXiongLateHan]]'s recommendation links relationship access to appointment quality; and [[ZhuChangLateHan]] plus [[ZhouJuLateHan]] show that merit claims still need hierarchy-aware handling under [[EmperorShunOfHan]].
+[[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs|汉纪 806]] adds a historical work-and-society analogy: [[YuXuEasternHan]]'s correct accusation does not work until [[SunChengLateHan]], [[GaoFanLateHan]], family, and students create an effective channel; [[ZuoXiongLateHan]]'s recommendation links relationship access to appointment quality; and [[ZhuChangLateHan]] plus [[ZhouJuLateHan]] show that merit claims still need hierarchy-aware handling under [[EmperorShunOfHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-806-xiangyao-chengshi-zhaodui-ren-hen-guanjian-luswh-p-oyutysxue6shweqcwqxs]], [[YuXuEasternHan]], [[SunChengLateHan]], [[GaoFanLateHan]], [[ZuoXiongLateHan]], [[ZhuChangLateHan]], [[ZhouJuLateHan]], [[EmperorShunOfHan]]
 
 **Qualifications:**
 
-- This is a historical analogy from Hanji 806, not modern workplace, education, or legal advice.
+- This is a historical analogy from 汉纪 806, not modern workplace, education, or legal advice.
 - The claim is included in this topic only because the planner marked the paragraph as secondary work/society input through action, people, and institutional-channel language.
 - Jia Lang, Yu Yi or Yu Ji, Zhu A Hou, Tao Dun, and the episode's opening jealousy frame remain source-scoped.
 
 ### Historical Office Boundaries Link Role Dignity And Capacity
 
-[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] adds a historical office-boundary example to the work and society topic: [[LangYiLateHan]]'s recommendation path, [[ZuoXiongLateHan]]'s title objection, and [[LiuJuLateHan]]'s beating show that durable institutional capacity depends on credible role boundaries around public title, office dignity, and feedback, not only individual competence; [[MinisterialDignityProtection]] and [[PrivateFavorAppointmentErosion]] are the institutional forms in this source.
+[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|汉纪 813]] adds a historical office-boundary example to the work and society topic: [[LangYiLateHan]]'s recommendation path, [[ZuoXiongLateHan]]'s title objection, and [[LiuJuLateHan]]'s beating show that durable institutional capacity depends on credible role boundaries around public title, office dignity, and feedback, not only individual competence; [[MinisterialDignityProtection]] and [[PrivateFavorAppointmentErosion]] are the institutional forms in this source.
 
 **Evidence:** [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv]], [[LangYiLateHan]], [[ZuoXiongLateHan]], [[LiuJuLateHan]], [[MinisterialDignityProtection]], [[PrivateFavorAppointmentErosion]]
 
 **Qualifications:**
 
-- This is a historical office-role analogy from Hanji 813, not modern workplace, education, or legal advice.
+- This is a historical office-role analogy from 汉纪 813, not modern workplace, education, or legal advice.
 - The claim is included in this topic only because the planner marked the paragraph as secondary work/society input through office, service, role, and dignity language.
 - It should stay source-scoped unless later sources connect office dignity or title boundaries to broader work and society patterns.
 
@@ -457,9 +457,9 @@ Historical and modern institution sources show education, reputation, and office
 
 - The late-Han cases are historical analogies, not direct prescriptions for modern education or workplace institutions.
 
-### Hanji 1056 Succession Ambiguity Turns Roles Into Factional Action
+### 汉纪 1056 Succession Ambiguity Turns Roles Into Factional Action
 
-[[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|Hanji 1056]] adds a historical work-and-society analogy: [[YuanShao]]'s unclear succession lets [[ShenPeiLateHan]] and [[FengJiLateHan]] turn adviser self-protection into [[YuanShang]]'s installation, while [[YuanTan]]'s self-styled command and killing of Feng Ji show role ambiguity becoming violent action; the same source contrasts coercive command with usable trust through [[JiaKuiLateHan]], [[ZhuGongdaoLateHan]], [[FuGan]], and [[MaTeng]].
+[[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye|汉纪 1056]] adds a historical work-and-society analogy: [[YuanShao]]'s unclear succession lets [[ShenPeiLateHan]] and [[FengJiLateHan]] turn adviser self-protection into [[YuanShang]]'s installation, while [[YuanTan]]'s self-styled command and killing of Feng Ji show role ambiguity becoming violent action; the same source contrasts coercive command with usable trust through [[JiaKuiLateHan]], [[ZhuGongdaoLateHan]], [[FuGan]], and [[MaTeng]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1056-yuanshao-sihou-tade-erzimen-zhijie-fanmu-chengchou-lqxhhayal-srq4fm4yy-hnfu15ye]], [[YuanShao]], [[ShenPeiLateHan]], [[FengJiLateHan]], [[YuanShang]], [[YuanTan]], [[JiaKuiLateHan]], [[ZhuGongdaoLateHan]], [[FuGan]], [[MaTeng]], [[SuccessionNonDesignationRisk]], [[PressureReleaseInfightingStrategy]]
 
@@ -502,9 +502,9 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 - The claim is grounded mainly in a single Talk Sanlian source about one Guangzhou Academy of Fine Arts reform, so it should not be generalized to all undergraduate art education.
 - The episode keeps the reform bounded by grading curves, specialization decisions, technical training, employment pressure, and the lack of long-term outcome data.
 
-### Hanji 1058 Authority Boundaries And Corrective Counsel
+### 汉纪 1058 Authority Boundaries And Corrective Counsel
 
-[[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|Hanji 1058]] adds a historical work-and-society analogy: [[SunQuan]] can accept court recognition only by keeping boundaries around family leverage, using [[ZhouYuLateHan]] and [[LadyWuSunJian]] as trusted adviser and household channels. In contrast, [[YuanTan]] receives corrective counsel from [[WangXiuLateHan]] and loyalty from [[GuanTongLateHan]] but still follows grievance-amplifying channels through [[GuoTu]] and [[XinPingLateHan]], showing how institutional feedback can fail under succession rivalry.
+[[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg|汉纪 1058]] adds a historical work-and-society analogy: [[SunQuan]] can accept court recognition only by keeping boundaries around family leverage, using [[ZhouYuLateHan]] and [[LadyWuSunJian]] as trusted adviser and household channels. In contrast, [[YuanTan]] receives corrective counsel from [[WangXiuLateHan]] and loyalty from [[GuanTongLateHan]] but still follows grievance-amplifying channels through [[GuoTu]] and [[XinPingLateHan]], showing how institutional feedback can fail under succession rivalry.
 
 **Evidence:** [[zizhi-tongjian-hanji-1058-shaonian-sunquan-chuzhang-jiangdong-ruhe-yingdui-caocao-fanan-lgqs4-a9qgf21woeh-ppinw4z9jg]], [[SunQuan]], [[ZhouYuLateHan]], [[LadyWuSunJian]], [[HostageBackedDependencyTrap]], [[SuccessionAuthorityConsolidation]], [[YuanTan]], [[WangXiuLateHan]], [[GuanTongLateHan]], [[GuoTu]], [[XinPingLateHan]], [[YuanShang]], [[CourtFeedbackCollapse]]
 
@@ -514,9 +514,9 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 - Sun Quan and Yuan Tan remain political actors inside late-Han succession pressure, so the claim should stay source-scoped.
 - The source shows feedback failure and status-boundary pressure in selected scenes rather than a full institutional theory.
 
-### Hanji 1059 1060 Adviser Sequencing Source Scoped
+### 汉纪 1059 1060 Adviser Sequencing Source Scoped
 
-[[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|Hanji 1059]] adds a work-and-society-adjacent analogy about mediation and decision channels: [[LiuBiao]] uses moral language to manage the [[YuanTan]]-[[YuanShang]] split, while [[XinPiLateHan]] and [[XunYou]] force a leadership sequencing choice between waiting for [[MutualExhaustionThirdPartyGain]] and acting through [[PressureReleaseInfightingStrategy]] / [[PostVictoryThreatSequencing]]. [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|Hanji 1060]] extends only the adviser-channel side of that analogy: Xin Pi routes his warning through [[GuoJia]] and reframes Yuan Tan support as [[DisorderCollapseExploitation]], showing how a decision channel can convert hesitation into a timed organizational choice.
+[[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos|汉纪 1059]] adds a work-and-society-adjacent analogy about mediation and decision channels: [[LiuBiao]] uses moral language to manage the [[YuanTan]]-[[YuanShang]] split, while [[XinPiLateHan]] and [[XunYou]] force a leadership sequencing choice between waiting for [[MutualExhaustionThirdPartyGain]] and acting through [[PressureReleaseInfightingStrategy]] / [[PostVictoryThreatSequencing]]. [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7|汉纪 1060]] extends only the adviser-channel side of that analogy: Xin Pi routes his warning through [[GuoJia]] and reframes Yuan Tan support as [[DisorderCollapseExploitation]], showing how a decision channel can convert hesitation into a timed organizational choice.
 
 **Evidence:** [[zizhi-tongjian-hanji-1059-yuanjia-xiongdi-neidou-liubiao-weihe-zhudong-dang-heshilao-lrgnhcx-fokuitrtfufdtzl1wfos]], [[LiuBiao]], [[YuanTan]], [[YuanShang]], [[XinPiLateHan]], [[XunYou]], [[MutualExhaustionThirdPartyGain]], [[PressureReleaseInfightingStrategy]], [[PostVictoryThreatSequencing]], [[zizhi-tongjian-hanji-1060-hai-si-yuanshao-hou-caocao-weihe-zhuantou-zhiyuan-tade-changzi-lldkbbzf8dmy21otbtqihc-oafx7]], [[GuoJia]], [[DisorderCollapseExploitation]]
 
@@ -524,11 +524,11 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 
 - The organizational reading is secondary to the source's late-Han political-military content.
 - The source keeps the opening relationship advice and Liu Biao character labels source-scoped.
-- The Hanji 1060 work-and-society reading is a narrow analogy about adviser channels and timing, not a modern organizational prescription.
+- The 汉纪 1060 work-and-society reading is a narrow analogy about adviser channels and timing, not a modern organizational prescription.
 
-### Hanji 1063 Route Judgment And Visible Proof Source Scoped
+### 汉纪 1063 Route Judgment And Visible Proof Source Scoped
 
-[[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|Hanji 1063]] adds a historical work-and-society analogy about judgment, evidence, and access roles: [[ReturningArmyInterdictionRisk]] is useful only when tested against conduct such as [[YuanShang]]'s route choice, [[SpoilsProofDemoralization]] shows visible proof overpowering morale talk inside [[YeLateHan]], and [[ShenRongLateHan]]'s gate role shows how a formal access position can decide an outcome once institutional trust breaks.
+[[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc|汉纪 1063]] adds a historical work-and-society analogy about judgment, evidence, and access roles: [[ReturningArmyInterdictionRisk]] is useful only when tested against conduct such as [[YuanShang]]'s route choice, [[SpoilsProofDemoralization]] shows visible proof overpowering morale talk inside [[YeLateHan]], and [[ShenRongLateHan]]'s gate role shows how a formal access position can decide an outcome once institutional trust breaks.
 
 **Evidence:** [[zizhi-tongjian-hanji-1063-caocao-zhisheng-yuanshang-beihou-de-gushi-ni-zhidao-ma-llz3vbevwmrqvgvsf4gygr2hkbvc]], [[ReturningArmyInterdictionRisk]], [[YuanShang]], [[SpoilsProofDemoralization]], [[YeLateHan]], [[ShenRongLateHan]], [[ShenPeiLateHan]], [[XinPingLateHan]]
 
@@ -538,27 +538,27 @@ As a secondary work-and-society input, [[686-jefferson-the-betrayal-of-liberty-p
 - The source belongs primarily to history and geopolitics; the work-and-society relevance is limited to decision evidence, role access, and morale under institutional breakdown.
 - Transcript-sensitive names and exact campaign details remain source-scoped.
 
-### Hanji 775 Palace Learning Family Boundaries And Female Court Education
+### 汉纪 775 Palace Learning Family Boundaries And Female Court Education
 
-[[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] adds a work-and-society case before [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] and [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|Hanji 777]]: [[EmpressDowagerDengLateHan]] turns childhood learning, controlled harem conduct under [[EmperorHeOfHan]], avoidance of [[EmpressYinHeLateHan]] rivalry, and refusal of [[DengFamilyAnEraLateHan]] palace advantage into social capacity before formal office. [[FemaleCourtEducationEasternHan]] and [[BanZhaoLateHan]] make court learning visible as a gendered institutional channel, while [[FemalePowerCenterPoliticalCapacity]] keeps the education claim tied to later political capacity rather than private cultivation alone.
+[[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|汉纪 775]] adds a work-and-society case before [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] and [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|汉纪 777]]: [[EmpressDowagerDengLateHan]] turns childhood learning, controlled harem conduct under [[EmperorHeOfHan]], avoidance of [[EmpressYinHeLateHan]] rivalry, and refusal of [[DengFamilyAnEraLateHan]] palace advantage into social capacity before formal office. [[FemaleCourtEducationEasternHan]] and [[BanZhaoLateHan]] make court learning visible as a gendered institutional channel, while [[FemalePowerCenterPoliticalCapacity]] keeps the education claim tied to later political capacity rather than private cultivation alone.
 
 **Evidence:** [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf]], [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb]], [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs]], [[EmpressDowagerDengLateHan]], [[EmperorHeOfHan]], [[EmpressYinHeLateHan]], [[DengFamilyAnEraLateHan]], [[FemaleCourtEducationEasternHan]], [[BanZhaoLateHan]], [[FemalePowerCenterPoliticalCapacity]]
 
 **Qualifications:**
 
-- This is a historical work-and-society analogy from Hanji 775, not modern career, education, family, or gender advice.
+- This is a historical work-and-society analogy from 汉纪 775, not modern career, education, family, or gender advice.
 - The women school priority claim remains source-scoped and is not treated as independent comparative education history.
 - The source gives a favorable Deng Sui formation narrative; later regency outcomes and family-purge consequences remain handled by later Hanji notes.
 
 ### Ban Zhao Court Education And Nujie Reception
 
-[[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|Hanji 705-5]] and [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] together add a source-scoped gendered education and reception case: [[BanZhaoLateHan]]'s authority starts in Ban-family learning through [[BanBiaoEasternHan]], becomes public when [[EmperorHeOfHan]] summons her to Dongguan to finish [[BanGuEasternHan]]'s unfinished `Han Shu` tables and teach the text, then extends into palace women education, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], and later [[NujieGenderNormTransmission]] afterlife. [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], [[CourtWomenHistoriography]], and [[BanJieyuWesternHan]] keep the case tied to scholarly transmission, court education, dynastic historiography, and Western Han female-literary memory rather than private talent alone.
+[[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e|汉纪 705-5]] and [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|汉纪 705-6]] together add a source-scoped gendered education and reception case: [[BanZhaoLateHan]]'s authority starts in Ban-family learning through [[BanBiaoEasternHan]], becomes public when [[EmperorHeOfHan]] summons her to Dongguan to finish [[BanGuEasternHan]]'s unfinished `Han Shu` tables and teach the text, then extends into palace women education, advice to [[EmpressDowagerDengLateHan]], memorial advocacy for [[BanChaoEasternHan]], and later [[NujieGenderNormTransmission]] afterlife. [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], [[CourtWomenHistoriography]], and [[BanJieyuWesternHan]] keep the case tied to scholarly transmission, court education, dynastic historiography, and Western Han female-literary memory rather than private talent alone.
 
 **Evidence:** [[zizhi-tongjian-hanji-705-5-banzhao-xubian-hanshu-shibi-qianqiu-diyi-ren-ljueol3mogwfh-d-w4fs7jzp0h9e]], [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm]], [[BanZhaoLateHan]], [[BanBiaoEasternHan]], [[EmperorHeOfHan]], [[BanGuEasternHan]], [[EmpressDowagerDengLateHan]], [[BanChaoEasternHan]], [[NujieGenderNormTransmission]], [[MaRongLateHan]], [[FemaleCourtEducationEasternHan]], [[CourtWomenHistoriography]], [[BanJieyuWesternHan]]
 
 **Qualifications:**
 
-- This is a historical work-and-society analogy from Hanji 705-5 and Hanji 705-6, not modern career, education, family, political, or gender advice.
+- This is a historical work-and-society analogy from 汉纪 705-5 and 汉纪 705-6, not modern career, education, family, political, or gender advice.
 - The eight-tables, first-royal-female-teacher, live-ostrich, first-female-teacher, unopposed-political-participation, 120 CE death, and strong Nujie reception claims remain source-scoped.
 - The Nujie claim records later norm-transmission reception without reducing Ban Zhao's profile to that text alone.
 
@@ -584,9 +584,9 @@ Workplace AI adoption depends on trust, participation, and observed behavior: EP
 - The episode is conceptual and interview-based; it does not supply a measured enterprise rollout comparison.
 - Behavioral metrics can become misleading if separated from frontline interviews and workflow context.
 
-### Hanji 733 Fate Timing Self Possession Conduct
+### 汉纪 733 Fate Timing Self Possession Conduct
 
-[[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] adds a secondary work-and-society conduct case: [[HanyaoFu]] and [[FateTimingExternalConditions]] frame achievement, rank, and blocked effort as condition-dependent, so the practical response is self-possession in adversity and humility in prosperity rather than reducing outcomes to talent, ambition, or labor; [[LyuMengzheng]] anchors the attribution while [[FortuneMisfortuneReversal]] supplies the neighboring reversal logic.
+[[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] adds a secondary work-and-society conduct case: [[HanyaoFu]] and [[FateTimingExternalConditions]] frame achievement, rank, and blocked effort as condition-dependent, so the practical response is self-possession in adversity and humility in prosperity rather than reducing outcomes to talent, ambition, or labor; [[LyuMengzheng]] anchors the attribution while [[FortuneMisfortuneReversal]] supplies the neighboring reversal logic.
 
 **Evidence:** [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey]], [[HanyaoFu]], [[FateTimingExternalConditions]], [[LyuMengzheng]], [[FortuneMisfortuneReversal]]
 
@@ -594,7 +594,7 @@ Workplace AI adoption depends on trust, participation, and observed behavior: EP
 
 - The claim is secondary because the source is a text-reading, not a modern workplace or education study.
 - The source-scoped conduct lesson should not be generalized into passivity or into a complete theory of social mobility.
-- The text attribution and metaphysical vocabulary remain bounded to Hanji 733-3.
+- The text attribution and metaphysical vocabulary remain bounded to 汉纪 733-3.
 
 ### Ai School Redesign Combines Mastery Motivation And Builder Work
 
@@ -772,7 +772,7 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 ### Late Xin Currency Policing Turns Households Into Forced Labor
 
-[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] enters work-and-society as a coercive-labor case: [[PunitiveCurrencyEnforcementBackfire]] links private-coinage policing under [[WangMang|Wang Mang]] to collective punishment, official slavery, forced coinage service, household separation, and mass death during [[XinDynasty|late-Xin]] collapse.
+[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] enters work-and-society as a coercive-labor case: [[PunitiveCurrencyEnforcementBackfire]] links private-coinage policing under [[WangMang|Wang Mang]] to collective punishment, official slavery, forced coinage service, household separation, and mass death during [[XinDynasty|late-Xin]] collapse.
 
 **Evidence:** [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp]], [[PunitiveCurrencyEnforcementBackfire]], [[WangMang]], [[XinDynasty]]
 

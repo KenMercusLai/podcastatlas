@@ -15,9 +15,9 @@ last_updated: 2026-09-02
 
 ## Current Synthesis
 
-Hanji 684 adds an early Guangwu version through [[LiuYangZhendingKingEasternHan|Liu Yang, Zhending King]]. Liu Yang manufactures a chen-style claim around an unusual neck growth, refuses ordinary summons, and is killed after [[GengChunEasternHan|Geng Chun]] draws him into a meeting. The aftermath qualifies the severity: Liu Xiu later considers the case short of actual rebellion and lets Liu Yang's son inherit Zhending. Kinship does not save the claimant, but it shapes the post-suppression settlement.
+汉纪 684 adds an early Guangwu version through [[LiuYangZhendingKingEasternHan|Liu Yang, Zhending King]]. Liu Yang manufactures a chen-style claim around an unusual neck growth, refuses ordinary summons, and is killed after [[GengChunEasternHan|Geng Chun]] draws him into a meeting. The aftermath qualifies the severity: Liu Xiu later considers the case short of actual rebellion and lets Liu Yang's son inherit Zhending. Kinship does not save the claimant, but it shapes the post-suppression settlement.
 
-Hanji 738 grounds a later and harder version in [[LiuJingGuanglingKingEasternHan|Liu Jing]]'s Guangling case. [[EmperorMingOfHan|Mingdi]] first responds to his brother's dangerous "great things" language with containment: Liu Jing loses authority over fief officials and people but still receives fief income. Kinship therefore matters, but it does not erase the public risk.
+汉纪 738 grounds a later and harder version in [[LiuJingGuanglingKingEasternHan|Liu Jing]]'s Guangling case. [[EmperorMingOfHan|Mingdi]] first responds to his brother's dangerous "great things" language with containment: Liu Jing loses authority over fief officials and people but still receives fief income. Kinship therefore matters, but it does not erase the public risk.
 
 The boundary hardens when Liu Jing continues through shamanic sacrifices and curse activity. [[FanTiaoEasternHan|Fan Tiao]] and other reviewers recommend death. Mingdi's angry question tries to make the issue familial: would they dare to say this if the accused were the emperor's son? Fan answers by moving the frame back to public order. The realm is Gaozu's dynastic realm, not Mingdi's private property; close kin do not receive a treason exemption.
 
@@ -34,12 +34,12 @@ The concept is not modern equality before law. It preserves a court-centered dis
 
 ## Evidence
 
-- Early preemption: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Yang manufactures a chen-text claim, refuses summons, and is killed by Geng Chun after a controlled meeting.
-- Succession mercy: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Xiu later treats the case as short of actual rebellion and lets Liu Yang's son Liu De succeed to Zhending.
-- Initial leniency: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Mingdi restricts Liu Jing's fief governance after the first report but still lets him receive fief income.
-- Renewed treason-risk behavior: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Liu Jing continues with shamanic sacrifices and curses.
-- Public-trust argument: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] has Fan Tiao answer that the realm belongs to Gaozu's dynastic order rather than to Mingdi as private property.
-- Kinship procedure boundary: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Fan distinguishes a brother requiring reported judgment from an imperial son who, in his argument, would already have been executed for the same offense.
+- Early preemption: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|汉纪 684]] says Liu Yang manufactures a chen-text claim, refuses summons, and is killed by Geng Chun after a controlled meeting.
+- Succession mercy: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|汉纪 684]] says Liu Xiu later treats the case as short of actual rebellion and lets Liu Yang's son Liu De succeed to Zhending.
+- Initial leniency: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Mingdi restricts Liu Jing's fief governance after the first report but still lets him receive fief income.
+- Renewed treason-risk behavior: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Liu Jing continues with shamanic sacrifices and curses.
+- Public-trust argument: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] has Fan Tiao answer that the realm belongs to Gaozu's dynastic order rather than to Mingdi as private property.
+- Kinship procedure boundary: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Fan distinguishes a brother requiring reported judgment from an imperial son who, in his argument, would already have been executed for the same offense.
 
 ## Counterevidence & Qualifications
 
@@ -47,9 +47,9 @@ The sources show both legal boundary and kinship discretion. Liu Xiu kills Liu Y
 
 ## What Changed
 
-- Added Hanji 684 as the early Liu Yang case where prophecy-backed royal-kin threat is killed while succession is preserved.
+- Added 汉纪 684 as the early Liu Yang case where prophecy-backed royal-kin threat is killed while succession is preserved.
 - Reframed the concept to include pre-open-rebellion mandate disturbance as well as later curse-linked treason suspicion.
-- Preserved Hanji 738 as the stricter Liu Jing/Fan Tiao legal-argument layer.
+- Preserved 汉纪 738 as the stricter Liu Jing/Fan Tiao legal-argument layer.
 
 ## Related Concepts
 

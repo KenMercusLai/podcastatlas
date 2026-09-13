@@ -39,7 +39,7 @@ The concept is therefore morally mixed. It borrows the warmth and legitimacy of 
 The episode is thematic commentary rather than close source criticism, so the concept should not be treated as a complete history of Chinese kinship, guilds, gangs, or workplace networks. It also compresses Confucian, Mohist, Buddhist, Daoist, and folk sources into a broad cultural account without separating periods or institutional settings.
 
 ## What Changed
-- Created the concept from Hanji 483-3 to preserve the episode's specific "virtual blood relation" account of Jianghu order.
+- Created the concept from 汉纪 483-3 to preserve the episode's specific "virtual blood relation" account of Jianghu order.
 
 ## Related Concepts
 - [[InformalJianghuOrder]] - gives a more street-practical rule-system counterpart.

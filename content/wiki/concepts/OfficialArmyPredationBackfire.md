@@ -15,11 +15,11 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] grounds the pattern in late [[XinDynasty|新朝]] suppression of [[ChimeiRebellion|赤眉]]. [[WangMang|王莽]] sends [[WangKuangXinGeneral|王匡]] and [[LianDanXinGeneral|廉丹]] east with a large army, but the force is not disciplined. Soldiers harm people along the route, and the source preserves a popular saying that meeting Chimei is preferable to meeting the official army.
+[[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] grounds the pattern in late [[XinDynasty|新朝]] suppression of [[ChimeiRebellion|赤眉]]. [[WangMang|王莽]] sends [[WangKuangXinGeneral|王匡]] and [[LianDanXinGeneral|廉丹]] east with a large army, but the force is not disciplined. Soldiers harm people along the route, and the source preserves a popular saying that meeting Chimei is preferable to meeting the official army.
 
 The concept names the political inversion. A state army is supposed to restore order, but if its presence means looting, killing, intimidation, or arbitrary abuse, civilians may read rebels as the lesser danger. That does not make the rebel force benign; it means the state's coercive instrument has lost its protective claim.
 
-An immediately preceding diagnosis comes through [[TianKuangXinOfficial|田邝]] in [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]]. He says that commanders and envoys sent by the center can frighten civilians more than the rebels, while bad interception of people who want to disperse or surrender pushes them back into the mountains. That broadens the concept from soldier abuse alone to suppression systems that make state contact itself dangerous.
+An immediately preceding diagnosis comes through [[TianKuangXinOfficial|田邝]] in [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]]. He says that commanders and envoys sent by the center can frighten civilians more than the rebels, while bad interception of people who want to disperse or surrender pushes them back into the mountains. That broadens the concept from soldier abuse alone to suppression systems that make state contact itself dangerous.
 
 ## Key Claims
 
@@ -31,19 +31,19 @@ An immediately preceding diagnosis comes through [[TianKuangXinOfficial|田邝]]
 
 ## Evidence
 
-- Official deployment: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says Wang Mang sends Wang Kuang and Lian Dan east to suppress rebels.
-- Discipline failure: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] says the commanders do not restrain soldiers and many civilians are harmed.
-- Popular comparison: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] preserves the saying that people would rather encounter Chimei than the Taishi or Gengshi general.
-- Envoy and commander disturbance: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Tian Kuang argues that commanders and envoys can make civilians more fearful than rebels.
-- Surrender rebound: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says failed interception makes would-be surrenderers fear deception and return to group rebellion.
+- Official deployment: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] says Wang Mang sends Wang Kuang and Lian Dan east to suppress rebels.
+- Discipline failure: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] says the commanders do not restrain soldiers and many civilians are harmed.
+- Popular comparison: [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] preserves the saying that people would rather encounter Chimei than the Taishi or Gengshi general.
+- Envoy and commander disturbance: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Tian Kuang argues that commanders and envoys can make civilians more fearful than rebels.
+- Surrender rebound: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says failed interception makes would-be surrenderers fear deception and return to group rebellion.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim Chimei was consistently protective or disciplined in later phases; later source notes describe Chimei plunder, Chang'an destruction, Guanzhong famine, and final surrender. Hanji 660-2 supports a narrower origin-stage comparison: Xin official armies damaged their own legitimacy by abusing civilians during suppression. Hanji 659 supports Tian Kuang's diagnosis of broader suppression backfire but does not prove every central envoy or commander behaved identically.
+The concept does not claim Chimei was consistently protective or disciplined in later phases; later source notes describe Chimei plunder, Chang'an destruction, Guanzhong famine, and final surrender. 汉纪 660-2 supports a narrower origin-stage comparison: Xin official armies damaged their own legitimacy by abusing civilians during suppression. 汉纪 659 supports Tian Kuang's diagnosis of broader suppression backfire but does not prove every central envoy or commander behaved identically.
 
 ## What Changed
 
-- Added Hanji 659's Tian Kuang diagnosis that commanders, envoys, and broken surrender signals can make state suppression itself a civilian threat.
+- Added 汉纪 659's Tian Kuang diagnosis that commanders, envoys, and broken surrender signals can make state suppression itself a civilian threat.
 
 ## Related Concepts
 

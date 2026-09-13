@@ -14,7 +14,7 @@ Outer-relative command appointment risk is the court-governance problem created 
 
 ## Current Synthesis
 
-Hanji 749 makes the concept through Fifth Lun's warning about Ma Fang. Fifth Lun does not say relatives can receive no honor or wealth. His narrower argument is that heavy office creates an accountability dilemma: if the relative fails, punishment damages kinship; if the ruler protects the relative, law and public standards lose credibility.
+汉纪 749 makes the concept through Fifth Lun's warning about Ma Fang. Fifth Lun does not say relatives can receive no honor or wealth. His narrower argument is that heavy office creates an accountability dilemma: if the relative fails, punishment damages kinship; if the ruler protects the relative, law and public standards lose credibility.
 
 The campaign result complicates but does not erase the warning. Ma Fang defeats Buqiao and helps end the revolt, so the source does not present the appointment as operationally incompetent. Yet Geng Gong's later removal after offending Ma Fang shows a second-order problem: once a relative commander has power, subordinates and monitors may treat guessed preference as a political fact.
 
@@ -30,10 +30,10 @@ The concept therefore separates merit from structural risk. A relative can succe
 
 ## Evidence
 
-- Fifth Lun's warning: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] has Fifth Lun tell Zhangdi that imperial relatives can be enriched but should not receive important offices because punishment and favoritism both damage governance.
-- Appointment despite warning: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Zhangdi does not accept the warning and sends Ma Fang as acting chariot-and-cavalry general against the Qiang.
-- Success with structural residue: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] records Ma Fang's victories over Buqiao, showing that the warning is not simply about battlefield incapacity.
-- Distorted subordinate accountability: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] says Geng Gong is impeached after having offended Ma Fang and after a monitor guesses Ma Fang's view.
+- Fifth Lun's warning: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] has Fifth Lun tell Zhangdi that imperial relatives can be enriched but should not receive important offices because punishment and favoritism both damage governance.
+- Appointment despite warning: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] says Zhangdi does not accept the warning and sends Ma Fang as acting chariot-and-cavalry general against the Qiang.
+- Success with structural residue: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] records Ma Fang's victories over Buqiao, showing that the warning is not simply about battlefield incapacity.
+- Distorted subordinate accountability: [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] says Geng Gong is impeached after having offended Ma Fang and after a monitor guesses Ma Fang's view.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The source does not show Ma Fang failing in battle; on the contrary, it reports 
 
 ## What Changed
 
-- Created the concept from Fifth Lun's Hanji 749 warning and the Ma Fang/Geng Gong outcome.
+- Created the concept from Fifth Lun's 汉纪 749 warning and the Ma Fang/Geng Gong outcome.
 - Distinguished outer-relative command risk from general outer-relative court power.
 - Preserved Ma Fang's victory as counterevidence against any simplistic anti-relative competence claim.
 

@@ -24,17 +24,17 @@ The event profile has three linked parts. First, Yuan Shao's side turns strategi
 - Guan Yu repayment battlefield: Yan Liang's death becomes the concrete merit later tied to Guan Yu's departure from Cao's camp.
 
 ## Evidence
-- Campaign placement: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] places the White Horse crisis in Jian'an 5 / 200 CE as Yuan Shao moves south before the Guandu confrontation.
-- Target and warning: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] says Yuan Shao sends Yan Liang to attack Dong Commandery administrator Liu Yan at White Horse and that Ju Shou warns against using Yan Liang alone.
-- Deception plan: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] describes the advice to feign a river crossing and rear attack so Yuan Shao divides forces westward.
-- Rapid strike: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] has Cao Cao advance fast enough that Yan Liang learns of the approach only when Cao is within roughly ten li and must fight hastily.
-- Siege relief: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] credits Guan Yu with charging toward Yan Liang's banner, killing him, taking the head, and thereby lifting White Horse's siege.
+- Campaign placement: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] places the White Horse crisis in Jian'an 5 / 200 CE as Yuan Shao moves south before the Guandu confrontation.
+- Target and warning: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] says Yuan Shao sends Yan Liang to attack Dong Commandery administrator Liu Yan at White Horse and that Ju Shou warns against using Yan Liang alone.
+- Deception plan: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] describes the advice to feign a river crossing and rear attack so Yuan Shao divides forces westward.
+- Rapid strike: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] has Cao Cao advance fast enough that Yan Liang learns of the approach only when Cao is within roughly ten li and must fight hastily.
+- Siege relief: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] credits Guan Yu with charging toward Yan Liang's banner, killing him, taking the head, and thereby lifting White Horse's siege.
 
 ## Qualifications
 The current evidence comes from one source note, so the page should remain a compact event bridge rather than a complete military reconstruction. The source names White Horse and Liu Yan but does not give enough geography, order-of-battle, or casualty detail to infer the entire engagement. The host's claim about Guan Yu's act being uniquely recorded in the Three Kingdoms era remains source-scoped.
 
 ## What Changed
-- Created this event page to separate the Hanji 1043 White Horse relief from Hanji 1044's later Yanjin and Guan Yu departure sequence.
+- Created this event page to separate the 汉纪 1043 White Horse relief from 汉纪 1044's later Yanjin and Guan Yu departure sequence.
 
 ## Relationships
 - [[GuanduCampaign|官渡之战]] - larger campaign horizon in which White Horse functions as an opening relief action.

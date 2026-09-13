@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》178｜冒顿为何要放过刘邦 这才是真相（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[BaidengEncirclement|白登之围]] from [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|Hanji 177]] by moving from encirclement setup to release. It explains [[ChenPing|陈平]]'s reported secret stratagem through [[YanzhiXiongnuConsort|阏氏]]'s household-status fear, while arguing that [[MaoDunChanyu|冒顿单于]] also had battlefield reasons to open the siege: allied forces failed to appear, Han reinforcements were approaching, and direct conquest of Han territory was not his original goal. The episode then shifts from Liu Bang's escape to [[LouJing|刘敬 / 楼敬]]'s proposed [[HanXiongnuHeqinPolicy|汉匈和亲政策]], making Baideng the hinge between failed frontier war and marriage-based accommodation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[BaidengEncirclement|白登之围]] from [[zizhi-tongjian-hanji-177-beikun-baidengshan-liubang-mingxuan-yixian-ljdmxf6bej8ju0gmvm9cp48gy0on|汉纪 177]] by moving from encirclement setup to release. It explains [[ChenPing|陈平]]'s reported secret stratagem through [[YanzhiXiongnuConsort|阏氏]]'s household-status fear, while arguing that [[MaoDunChanyu|冒顿单于]] also had battlefield reasons to open the siege: allied forces failed to appear, Han reinforcements were approaching, and direct conquest of Han territory was not his original goal. The episode then shifts from Liu Bang's escape to [[LouJing|刘敬 / 楼敬]]'s proposed [[HanXiongnuHeqinPolicy|汉匈和亲政策]], making Baideng the hinge between failed frontier war and marriage-based accommodation.
 
 ## Key Claims
 - Liu Bang's Baideng crisis is severe because the trapped Han ruler and soldiers endure seven days without supplies in extreme cold, with freezing injuries and the possibility of military breakdown.
@@ -45,5 +45,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- This source qualifies the older [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|Hanji 150 part 4]] treatment of Baideng: Chen Ping's Yanzhi channel remains important, but Hanji 178 adds Modu's independent risk calculus and the failed rendezvous with allied forces.
+- This source qualifies the older [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-4-lhhprrkjcuzijgndi2uuazaalern|汉纪 150 part 4]] treatment of Baideng: Chen Ping's Yanzhi channel remains important, but 汉纪 178 adds Modu's independent risk calculus and the failed rendezvous with allied forces.
 - The source's implied identification of Liu Bang and Lu Zhi's daughter with the heqin target is kept source-scoped because this episode closes before the full family-policy conflict is narrated.

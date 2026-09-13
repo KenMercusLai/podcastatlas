@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 
 ## Overview
 
-Qizhijian is the [[Xianbei|Xianbei]] leader in [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] whose death is associated with a major reduction in raids into Han interior territory.
+Qizhijian is the [[Xianbei|Xianbei]] leader in [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] whose death is associated with a major reduction in raids into Han interior territory.
 
 ## Current Profile
 
@@ -28,12 +28,12 @@ This makes Qizhijian a leadership-continuity marker: the Han military response i
 
 ## Evidence
 
-- Frontier raid and failed response: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says Xianbei again raid Ma Cheng and the Daijun taishou cannot win with commandery troops.
-- Leadership-death marker: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] connects Qizhijian's death with sharply reduced Xianbei incursions into the interior.
+- Frontier raid and failed response: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] says Xianbei again raid Ma Cheng and the Daijun taishou cannot win with commandery troops.
+- Leadership-death marker: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] connects Qizhijian's death with sharply reduced Xianbei incursions into the interior.
 
 ## Qualifications
 
-The page currently avoids broader migration of the legacy [[Xianbei|Xianbei]] page. Hanji 815 does not provide Qizhijian's succession line, internal Xianbei politics, or exact death circumstances.
+The page currently avoids broader migration of the legacy [[Xianbei|Xianbei]] page. 汉纪 815 does not provide Qizhijian's succession line, internal Xianbei politics, or exact death circumstances.
 
 ## What Changed
 

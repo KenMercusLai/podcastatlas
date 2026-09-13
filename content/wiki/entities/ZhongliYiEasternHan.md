@@ -28,10 +28,10 @@ His second memorial shows the limit of that influence. He reads abnormal sky and
 
 ## Evidence
 
-- Burden-centered remonstrance: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] says Zhongli Yi uses the Tianchuan-star moment to argue that North Palace construction keeps commoners from farming, after which Mingdi stops the works and cuts expenses.
-- Leniency advocacy: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] records a later memorial linking abnormal signs to harsh official practice and urging grace and lighter penalties.
-- Protected candor: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] notes that Mingdi does not implement the second memorial but protects Zhongli Yi because he sees the advice as sincere.
-- Administrative discernment: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] makes Zhongli Yi one of Liu Ping's recommenders before Liu Ping is appointed as a Lang.
+- Burden-centered remonstrance: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] says Zhongli Yi uses the Tianchuan-star moment to argue that North Palace construction keeps commoners from farming, after which Mingdi stops the works and cuts expenses.
+- Leniency advocacy: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] records a later memorial linking abnormal signs to harsh official practice and urging grace and lighter penalties.
+- Protected candor: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] notes that Mingdi does not implement the second memorial but protects Zhongli Yi because he sees the advice as sincere.
+- Administrative discernment: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] makes Zhongli Yi one of Liu Ping's recommenders before Liu Ping is appointed as a Lang.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The present evidence is single-source and concentrated in Yongping 3. Zhongli Yi
 
 ## What Changed
 
-- Created Zhongli Yi as the source-bounded remonstrance official from Hanji 735.
+- Created Zhongli Yi as the source-bounded remonstrance official from 汉纪 735.
 
 ## Relationships
 

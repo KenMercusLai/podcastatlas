@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 167 CE late-Han field immediately before [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]]. Its central case is [[EmperorHuanOfHan|汉桓帝]] forcing a princess marriage on [[YangQiaoLateHan|杨桥]] after admiring his talent and appearance; Yang refuses and dies by seven-day hunger strike, making the episode's title a concrete claim about [[CoercedImperialMarriage|强制赐婚]] and unbounded imperial will.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 167 CE late-Han field immediately before [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|汉纪 879]]. Its central case is [[EmperorHuanOfHan|汉桓帝]] forcing a princess marriage on [[YangQiaoLateHan|杨桥]] after admiring his talent and appearance; Yang refuses and dies by seven-day hunger strike, making the episode's title a concrete claim about [[CoercedImperialMarriage|强制赐婚]] and unbounded imperial will.
 
 The episode contrasts Huan with [[LiuXiu|刘秀 / 光武帝]], who only sounded out [[SongHongEasternHan|宋弘]] about a princess marriage and withdrew when Song signaled loyalty to his existing wife. It then widens the 167 CE picture through [[LocalAuspiciousOmenFabrication|地方祥瑞造作]] in [[BaCommanderyLateHan|巴郡]]'s yellow-dragon report, flood notices, [[ZhangHuanLateHan|张奂]]'s suppression of [[XianlingQiang|先零羌]] attacks on the Sanfu region, eunuch-distorted reward, and the first foreshadowing appointment of [[DongZhuo|董卓]] as langzhong.
 
@@ -44,11 +44,11 @@ The episode contrasts Huan with [[LiuXiu|刘秀 / 光武帝]], who only sounded 
 - [[LocalAuspiciousOmenFabrication|地方祥瑞造作]], [[AuspiciousOmenPolitics|祥瑞政治]], and [[BaCommanderyLateHan|巴郡]] - yellow-dragon report as local fabrication or exaggeration risk.
 - [[ZhangHuanLateHan|张奂]], [[XianlingQiang|先零羌]], [[MilitaryRewardEunuchGatekeeping|宦官门槛下的军功赏罚]], and [[MeritBasedRewardPunishment|因功赏罚]] - real frontier merit filtered through eunuch-side access.
 - [[DongZhuo|董卓]] - first appointment notice that foreshadows the later late-Han coercive-power branch.
-- [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|Hanji 879]] - immediate sequel on Huan's final harem politics, death, and succession.
+- [[zizhi-tongjian-hanji-879-si-zai-nvren-shenshang-de-hunyong-nanren-lqz5-mpi0waa-xmuhjhwkaecjjrc|汉纪 879]] - immediate sequel on Huan's final harem politics, death, and succession.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The source backfills the 167 CE pre-Huan-death field before Hanji 879's final harem and childless succession account.
+- No settled contradiction with existing wiki pages was found. The source backfills the 167 CE pre-Huan-death field before 汉纪 879's final harem and childless succession account.
 - Transcript normalization: "张宦" is normalized to [[ZhangHuanLateHan|张奂]] because the military role, anti-eunuch reward pattern, and late-Han context match the established canonical page.
 - Scope caution: "先临部羌民" is kept source-scoped and linked to [[XianlingQiang|先零羌]] only as the likely same frontier context, not as a separate identity decision.
 - Scope caution: Dong Zhuo's early temperament and later "first grave-digger" label are preserved as episode foreshadowing, not as a full career synthesis update.

@@ -15,11 +15,11 @@ last_updated: 2026-09-11
 
 ## Current Synthesis
 
-Hanji 567 adds a Western Han policy prehistory through [[JiaRangWesternHan|Jia Rang]]'s upper, middle, and lower Yellow River proposals. Its principle is "不与水争地": chronic flood disorder can come from occupying river space and then trying to defend every settlement with levees. The upper policy is [[FloodplainRetreatGovernance|floodplain retreat governance]], moving people away and reopening room for the [[YellowRiver|Yellow River]]; the middle policy uses canals, stone embankments, and sluices to divide water; the lower policy repairs old levees but preserves the recurring burden.
+汉纪 567 adds a Western Han policy prehistory through [[JiaRangWesternHan|Jia Rang]]'s upper, middle, and lower Yellow River proposals. Its principle is "不与水争地": chronic flood disorder can come from occupying river space and then trying to defend every settlement with levees. The upper policy is [[FloodplainRetreatGovernance|floodplain retreat governance]], moving people away and reopening room for the [[YellowRiver|Yellow River]]; the middle policy uses canals, stone embankments, and sluices to divide water; the lower policy repairs old levees but preserves the recurring burden.
 
-Hanji 739 then defines the constructive state-capacity version through [[WangJingBianquEasternHan|Wang Jing]]'s Yongping-era Bianqu project. The problem is old: Yellow River and Bian River breaches had remained unresolved since Western Han, and [[LiuXiu|Guangwu]] had deferred repair because people who had just endured war could not bear another corvee burden.
+汉纪 739 then defines the constructive state-capacity version through [[WangJingBianquEasternHan|Wang Jing]]'s Yongping-era Bianqu project. The problem is old: Yellow River and Bian River breaches had remained unresolved since Western Han, and [[LiuXiu|Guangwu]] had deferred repair because people who had just endured war could not bear another corvee burden.
 
-Under [[EmperorMingOfHan|Mingdi]], the same problem becomes actionable because timing, prosperity, recommendation, and technical appointment line up. The source stresses material capacity: tens or hundreds of thousands of laborers, more than one thousand li of embankment and sluice work, and very large expenditure. The result is real enough for Mingdi to inspect it, but the concept keeps the cost visible rather than treating infrastructure success as free proof of good rule. With Hanji 567 added, the concept now has two poles: retreat when the land-use structure is wrong, and technically directed construction when capacity and timing make repair governable.
+Under [[EmperorMingOfHan|Mingdi]], the same problem becomes actionable because timing, prosperity, recommendation, and technical appointment line up. The source stresses material capacity: tens or hundreds of thousands of laborers, more than one thousand li of embankment and sluice work, and very large expenditure. The result is real enough for Mingdi to inspect it, but the concept keeps the cost visible rather than treating infrastructure success as free proof of good rule. With 汉纪 567 added, the concept now has two poles: retreat when the land-use structure is wrong, and technically directed construction when capacity and timing make repair governable.
 
 ## Key Claims
 
@@ -33,22 +33,22 @@ Under [[EmperorMingOfHan|Mingdi]], the same problem becomes actionable because t
 
 ## Evidence
 
-- Retreat principle: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says Jia Rang's core policy is not competing with water for land.
-- Three-policy hierarchy: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] ranks floodplain relocation as upper policy, canal-and-sluice division as middle policy, and old-levee repair as lower policy.
-- Risk-transfer setup: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|Hanji 567]] says Warring States levee competition among Qi, Zhao, and Wei pushed flood pressure across political boundaries.
-- Deferred burden logic: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says Guangwu considered repair but avoided additional public burden after war.
-- Technical appointment: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says Mingdi follows recommendation and sends Wang Jing and Wang Wu to manage the Bianqu embankment project.
-- Engineering scope: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] describes more than one thousand li of works and water gates at regular intervals.
-- Fiscal and social capacity: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] pairs the huge cost with a peaceful, well-harvested Yongping economy where grain is cheap and livestock abundant.
-- Completion and inspection: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says the rivers are separated and Mingdi personally inspects the works around Xingyang.
+- Retreat principle: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] says Jia Rang's core policy is not competing with water for land.
+- Three-policy hierarchy: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] ranks floodplain relocation as upper policy, canal-and-sluice division as middle policy, and old-levee repair as lower policy.
+- Risk-transfer setup: [[zizhi-tongjian-hanji-567-ta-jiujing-shi-muqinhe-haishi-yichang-beiai-lsqtdjxamrpm2zit0t3ffgqpbittk|汉纪 567]] says Warring States levee competition among Qi, Zhao, and Wei pushed flood pressure across political boundaries.
+- Deferred burden logic: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says Guangwu considered repair but avoided additional public burden after war.
+- Technical appointment: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says Mingdi follows recommendation and sends Wang Jing and Wang Wu to manage the Bianqu embankment project.
+- Engineering scope: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] describes more than one thousand li of works and water gates at regular intervals.
+- Fiscal and social capacity: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] pairs the huge cost with a peaceful, well-harvested Yongping economy where grain is cheap and livestock abundant.
+- Completion and inspection: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says the rivers are separated and Mingdi personally inspects the works around Xingyang.
 
 ## Counterevidence & Qualifications
 
-The concept now rests on two source notes and should not be generalized into a single preference for either retreat or construction. Hanji 567 preserves the case for giving water room when levees intensify recurring risk, but it does not settle compensation, feasibility, or later implementation. Hanji 739 preserves the case for major works when prosperity, expertise, labor capacity, and political timing align, while still showing why the same project could have been abusive when society was war-exhausted.
+The concept now rests on two source notes and should not be generalized into a single preference for either retreat or construction. 汉纪 567 preserves the case for giving water room when levees intensify recurring risk, but it does not settle compensation, feasibility, or later implementation. 汉纪 739 preserves the case for major works when prosperity, expertise, labor capacity, and political timing align, while still showing why the same project could have been abusive when society was war-exhausted.
 
 ## What Changed
 
-- Added Hanji 567 as a Western Han policy prehistory where Jia Rang ranks retreat above canals and old-levee repair.
+- Added 汉纪 567 as a Western Han policy prehistory where Jia Rang ranks retreat above canals and old-levee repair.
 - Broadened the concept from large public works alone to a two-pole hydraulic-governance frame: give water room when settlement has crowded the river, and build when state capacity and timing fit.
 
 ## Related Concepts

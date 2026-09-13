@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 任氏 / Ren Family (Qin-Han merchant)
 
-任氏 / Ren Family (Qin-Han merchant) enters the wiki through [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] as a source-scoped figure from [[Shiji|《史记·货殖列传》]]. The episode identifies him as a Qin末宣曲人 who had worked around storage or granary management.
+任氏 / Ren Family (Qin-Han merchant) enters the wiki through [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|汉纪 155-1]] as a source-scoped figure from [[Shiji|《史记·货殖列传》]]. The episode identifies him as a Qin末宣曲人 who had worked around storage or granary management.
 
 The source contrasts Ren氏 with other people in the late-Qin disorder. While many chased gold, jade, and other portable valuables, Ren氏 stockpiled grain. When [[GuanzhongRegion|关中]] famine made food desperately expensive, those earlier luxury gains flowed back toward whoever could sell grain.
 

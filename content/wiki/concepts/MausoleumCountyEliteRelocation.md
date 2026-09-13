@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] presents mausoleum counties as a branch of [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]]. By moving rich and influential households from the Guandong region into the capital orbit, the state strengthens [[GuanzhongRegion|关中]] and weakens regional social bases that might otherwise keep wealth, followers, and local authority outside central supervision.
+[[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] presents mausoleum counties as a branch of [[StrongTrunkWeakBranchCentralization|强干弱枝式集权]]. By moving rich and influential households from the Guandong region into the capital orbit, the state strengthens [[GuanzhongRegion|关中]] and weakens regional social bases that might otherwise keep wealth, followers, and local authority outside central supervision.
 
 The mechanism is also a status machine. Because mausoleum counties gather wealthy families, officials, land, and capital-region access, they become attractive to smaller families, new rich households, and officials whose families lack secure [[HouseholdOccupationControl|household registration]] near Chang'an. This explains why [[ChenTangWesternHan|陈汤]]'s Changlingyi memorial can combine public anti-elite policy with private family advantage.
 
@@ -28,19 +28,19 @@ The mechanism is also a status machine. Because mausoleum counties gather wealth
 
 ## Evidence
 
-- Institutional origin: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Western Han emperors moved Guandong rich households and high officials' families around mausoleums, gradually forming prosperous mausoleum counties.
-- Status attraction: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says small families, new rich households, and minor officials could find mausoleum-county residence attractive because it conferred identity and resource advantages.
-- Yuan-era repeal: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says ministers object that relocation separates people from ancestral graves, breaks property and livelihood, violates classical norms, and unsettles powerful families.
-- Changlingyi revival: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Chen Tang proposes moving five thousand wealthy households with assets above five million into Changlingyi.
-- Mixed motive: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Chen Tang wants a permanent capital-region future for his family while also invoking land concentration, fiscal weakness, and powerful-household control.
+- Institutional origin: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says Western Han emperors moved Guandong rich households and high officials' families around mausoleums, gradually forming prosperous mausoleum counties.
+- Status attraction: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says small families, new rich households, and minor officials could find mausoleum-county residence attractive because it conferred identity and resource advantages.
+- Yuan-era repeal: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says ministers object that relocation separates people from ancestral graves, breaks property and livelihood, violates classical norms, and unsettles powerful families.
+- Changlingyi revival: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says Chen Tang proposes moving five thousand wealthy households with assets above five million into Changlingyi.
+- Mixed motive: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says Chen Tang wants a permanent capital-region future for his family while also invoking land concentration, fiscal weakness, and powerful-household control.
 
 ## Counterevidence & Qualifications
 
-This page is grounded in Hanji 526. It does not settle the full history of every Western Han mausoleum county, exact population totals around Chang'an, or the legal details of how relocation changed household registration. The source also keeps the policy morally mixed: it is neither only corrupt self-dealing nor only public-minded statecraft.
+This page is grounded in 汉纪 526. It does not settle the full history of every Western Han mausoleum county, exact population totals around Chang'an, or the legal details of how relocation changed household registration. The source also keeps the policy morally mixed: it is neither only corrupt self-dealing nor only public-minded statecraft.
 
 ## What Changed
 
-- Created the concept from Hanji 526 to separate the mausoleum-county mechanism from the broader Guanzhong relocation and strong-trunk centralization pages.
+- Created the concept from 汉纪 526 to separate the mausoleum-county mechanism from the broader Guanzhong relocation and strong-trunk centralization pages.
 
 ## Related Concepts
 

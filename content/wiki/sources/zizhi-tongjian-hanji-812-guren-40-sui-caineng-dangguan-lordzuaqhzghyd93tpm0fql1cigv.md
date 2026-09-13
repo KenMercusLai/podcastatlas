@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 132-133 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]]. It centers [[ZuoXiongLateHan|左雄]]'s Xiaolian reform: commanderies and kingdoms should recommend candidates aged at least forty, with classical specialists expected to know the classics and administrative clerks expected to draft memorials well, while rare exceptional talents remain exempt.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 132-133 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|汉纪 813]]. It centers [[ZuoXiongLateHan|左雄]]'s Xiaolian reform: commanderies and kingdoms should recommend candidates aged at least forty, with classical specialists expected to know the classics and administrative clerks expected to draft memorials well, while rare exceptional talents remain exempt.
 
 The second half follows [[LangYiLateHan|郎顗]] being summoned for yin-yang and omen expertise after an imperial tomb-building fire, then using the disaster inquiry to criticize the Three Excellencies' weak responsibility chain and propose repairs around labor, frugality, frontier preparation, delayed lawsuits, and legal simplification. The episode's durable synthesis is that Shun-era reform briefly strengthens scholar-official appointment discipline, but the same strengthened士大夫 field becomes part of the later conflict with eunuch power.
 
@@ -41,10 +41,10 @@ The second half follows [[LangYiLateHan|郎顗]] being summoned for yin-yang and
 - [[ZuoXiongLateHan|左雄]], [[HuGuangLateHan|胡广]], [[EmperorShunOfHan|汉顺帝]], and [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - the Xiaolian age and skill rule makes appointment quality an enforceable state-capacity problem.
 - [[LangYiLateHan|郎顗]], [[OmenCodedRemonstrance|天象灾异包装式进谏]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - the disaster inquiry becomes a protected route for criticizing high-office responsibility and policy failures.
 - [[ScholarOfficialPublicDuty|士大夫公共责任]], [[ChenFanLateHan|陈蕃]], [[LiYingLateHan|李膺]], and [[ChenQiuLateHan|陈球]] - the episode frames selected upright officials as early scholar-official capacity before later eunuch conflict and Party Prohibition losses.
-- [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]], [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]], and [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] - downstream Shun-era notes that continue Lang Yi, Zuo Xiong, and Xiaolian criteria debates.
+- [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|汉纪 813]], [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]], and [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] - downstream Shun-era notes that continue Lang Yi, Zuo Xiong, and Xiaolian criteria debates.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the missing 132-133 CE layer before the existing Hanji 813-815 Shun-era sequence.
-- Chronology caution: Hanji 813 was previously the earliest current Lang Yi and Zuo Xiong layer; Hanji 812 now precedes it with Zuo's Xiaolian enforcement and Lang Yi's fuller disaster-policy answer.
-- Name normalization: the source text's 郎乙 is normalized to [[LangYiLateHan|郎顗]] because the Beihai yin-yang specialist, disaster inquiry, and Hanji 813 remonstrance context match the existing route. Guo Qian, Shi Chang, Xu Shu, Yan Hui, Ziqi, Zhong Jun, Jia Yi, and exact local-office outcomes remain source-scoped pending stronger need for standalone pages.
+- No settled contradiction with existing wiki pages was found. This source backfills the missing 132-133 CE layer before the existing 汉纪 813-815 Shun-era sequence.
+- Chronology caution: 汉纪 813 was previously the earliest current Lang Yi and Zuo Xiong layer; 汉纪 812 now precedes it with Zuo's Xiaolian enforcement and Lang Yi's fuller disaster-policy answer.
+- Name normalization: the source text's 郎乙 is normalized to [[LangYiLateHan|郎顗]] because the Beihai yin-yang specialist, disaster inquiry, and 汉纪 813 remonstrance context match the existing route. Guo Qian, Shi Chang, Xu Shu, Yan Hui, Ziqi, Zhong Jun, Jia Yi, and exact local-office outcomes remain source-scoped pending stronger need for standalone pages.

@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Liu Xiao is the Changsha man in Hanji 891 who becomes sikong after being presented as skilled at flattering palace eunuchs.
+Liu Xiao is the Changsha man in 汉纪 891 who becomes sikong after being presented as skilled at flattering palace eunuchs.
 
 ## Current Profile
 
@@ -27,9 +27,9 @@ Current evidence gives Liu Xiao a compact court-politics role rather than a full
 
 ## Evidence
 
-- Appointment: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] says Liu Xiao of Changsha is elevated to sikong in June 169.
-- Patronage interpretation: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] says he is promoted because he is especially good at flattering the zhongchangshi.
-- Office-churn context: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] places the appointment beside Wenren Xi's and Xu Xun's removals and Liu Chong's move from situ to taiwei.
+- Appointment: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] says Liu Xiao of Changsha is elevated to sikong in June 169.
+- Patronage interpretation: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] says he is promoted because he is especially good at flattering the zhongchangshi.
+- Office-churn context: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] places the appointment beside Wenren Xi's and Xu Xun's removals and Liu Chong's move from situ to taiwei.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The source's characterization is a host-level interpretation of the appointment.
 
 ## What Changed
 
-- Created the page from Hanji 891's sikong appointment and eunuch-flattery explanation.
+- Created the page from 汉纪 891's sikong appointment and eunuch-flattery explanation.
 
 ## Relationships
 

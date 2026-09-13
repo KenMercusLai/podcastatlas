@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1006丨郭嘉不满袁绍，为何却能归顺曹操？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude before [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] and the later Cao Cao late-Han branch. It explains [[GuoJia|郭嘉]]'s move from [[YuanShao|袁绍]] to [[CaoCao|曹操]] as a judgment about who can actually use people, then contrasts Guo Jia's bold strategic style with [[XunYou|荀攸]]'s low-profile survival discipline. The final case turns [[ManChong|满宠]]'s execution of [[CaoHong|曹洪]]'s lawbreaking clients into [[RuleOverKinshipPower|法度压过亲缘特权]], where Cao Cao protects legal authority partly to discipline his own clan network and reassure the bureaucratic order.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude before [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|汉纪 1007]] and the later Cao Cao late-Han branch. It explains [[GuoJia|郭嘉]]'s move from [[YuanShao|袁绍]] to [[CaoCao|曹操]] as a judgment about who can actually use people, then contrasts Guo Jia's bold strategic style with [[XunYou|荀攸]]'s low-profile survival discipline. The final case turns [[ManChong|满宠]]'s execution of [[CaoHong|曹洪]]'s lawbreaking clients into [[RuleOverKinshipPower|法度压过亲缘特权]], where Cao Cao protects legal authority partly to discipline his own clan network and reassure the bureaucratic order.
 
 ## Key Claims
 - In 196 CE, Guo Jia spends only a short period with Yuan Shao before judging that good treatment and family prestige cannot compensate for Yuan Shao's poor personnel use, weak priority-setting, and indecision.
@@ -33,7 +33,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 > "法不避权贵" - the episode's shorthand for Man Chong's enforcement posture.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] - next ingested late-Han episode, shifting from Cao Cao's talent and law system to Kong Rong's prestige-capacity failure.
+- [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|汉纪 1007]] - next ingested late-Han episode, shifting from Cao Cao's talent and law system to Kong Rong's prestige-capacity failure.
 - [[GuoJia|郭嘉]], [[YuanShao|袁绍]], and [[CaoCao|曹操]] - core recruitment contrast: Yuan Shao can receive talent politely, while Cao Cao is presented as able to use it.
 - [[XunYou|荀攸]], [[XunYu|荀彧]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - low-profile adviser branch and survival-style contrast with Guo Jia.
 - [[ManChong|满宠]], [[CaoHong|曹洪]], [[RuleOverKinshipPower|法度压过亲缘特权]], [[LegalistRulerTechnique|法家君术]], and [[MeritBasedRewardPunishment|因功赏罚]] - law, punishment, clan constraint, and Cao Cao's governance signal.
@@ -41,6 +41,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[TalentAsStateTreasure|以贤臣为宝]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[TenVictoriesTenDefeats|十胜十败论]] - adjacent frames for evaluating rulers by whether they attract, trust, and operationalize capable people.
 
 ## Contradictions
-- No settled contradiction found. This source backfills an earlier Hanji 1006 step before the already ingested Hanji 1007-1020 late-Han sequence.
+- No settled contradiction found. This source backfills an earlier 汉纪 1006 step before the already ingested 汉纪 1007-1020 late-Han sequence.
 - Scope caution: the episode's evaluations of Guo Jia's forecasts, Xun You's personality, and Cao Cao's talent system are preserved as source-scoped synthesis rather than independent full biographies.
 - Source-scope caution: the Man Chong case is treated as a legal-political signal inside Cao Cao's camp, not as evidence for modern rule-of-law equivalence.

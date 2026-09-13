@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # Local Social Capital Accumulation / 乡里社会资本积累
 
-Local social capital accumulation / 乡里社会资本积累 is the pattern [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|Hanji 150]] uses to explain why [[ChenPing|陈平]]'s early life matters politically. Chen Ping begins poor, orphaned, and dependent on his elder brother's labor, but he invests time in reading, friendship, funeral help, and public interaction rather than only farm work.
+Local social capital accumulation / 乡里社会资本积累 is the pattern [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-1-llale6fron0tkye7n0e-aanojqar|汉纪 150]] uses to explain why [[ChenPing|陈平]]'s early life matters politically. Chen Ping begins poor, orphaned, and dependent on his elder brother's labor, but he invests time in reading, friendship, funeral help, and public interaction rather than only farm work.
 
 The decisive conversion comes through [[ZhangFu|张负]]. Zhang Fu reads Chen Ping's visitor traffic and bearing as signs of future value, then uses marriage to [[ChenPingWife|his granddaughter]] to supply funds, social endorsement, and a public wedding. Chen Ping's local status rises because reputation, kinship, money, and visible trust begin reinforcing one another.
 

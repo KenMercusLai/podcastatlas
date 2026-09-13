@@ -14,7 +14,7 @@ Registry-based political exclusion / 登记造册式政治禁锢 is the pattern 
 
 ## Current Synthesis
 
-Hanji 877 gives the first Party Prohibition version. [[EmperorHuanOfHan|汉桓帝]] issues an amnesty in 167 CE, but the episode stresses that more than two hundred implicated party figures are not simply restored to ordinary life. They are sent home, registered, and their names are distributed to high offices so they can never again enter official service.
+汉纪 877 gives the first Party Prohibition version. [[EmperorHuanOfHan|汉桓帝]] issues an amnesty in 167 CE, but the episode stresses that more than two hundred implicated party figures are not simply restored to ordinary life. They are sent home, registered, and their names are distributed to high offices so they can never again enter official service.
 
 The concept's reusable point is that amnesty and exclusion can coexist. Release from prison or immediate punishment may look like mercy, but the registry keeps the political judgment alive as a future-facing administrative disability. In the Party Prohibition field, this turns public reputation, association, and prior accusation into a long-lived office barrier.
 
@@ -28,18 +28,18 @@ The concept's reusable point is that amnesty and exclusion can coexist. Release 
 
 ## Evidence
 
-- Amnesty-plus-registry: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] says Emperor Huan grants amnesty while party figures are sent home and registered.
-- Scale of implication: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] says more than two hundred people are implicated before the registry layer.
-- Office barrier: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] says the names are sent to the high offices and the people are barred from reentering official careers for life.
-- Conduct effect: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] later shows Fan Pang reducing public visibility after seeing the size of his Runan reception.
+- Amnesty-plus-registry: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] says Emperor Huan grants amnesty while party figures are sent home and registered.
+- Scale of implication: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] says more than two hundred people are implicated before the registry layer.
+- Office barrier: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] says the names are sent to the high offices and the people are barred from reentering official careers for life.
+- Conduct effect: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] later shows Fan Pang reducing public visibility after seeing the size of his Runan reception.
 
 ## Counterevidence & Qualifications
 
-The concept does not claim that every amnesty is empty. Hanji 877 still treats the amnesty as meaningful for immediate punishment, especially in Shi Bi's case. The narrower claim is that administrative listing can preserve political exclusion after release.
+The concept does not claim that every amnesty is empty. 汉纪 877 still treats the amnesty as meaningful for immediate punishment, especially in Shi Bi's case. The narrower claim is that administrative listing can preserve political exclusion after release.
 
 ## What Changed
 
-- Hanji 877 creates the concept to capture the first Party Prohibition amnesty's registry and lifelong office-exclusion layer.
+- 汉纪 877 creates the concept to capture the first Party Prohibition amnesty's registry and lifelong office-exclusion layer.
 
 ## Related Concepts
 

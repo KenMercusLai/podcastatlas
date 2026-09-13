@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Current Profile
 
-Hanji 726 gives Zhu Bo a compact relationship history with Ma Yuan. As a child, Zhu is presented as exceptionally quick with the classics; Ma Yuan once feels inferior after meeting him, while Ma Yuan's elder brother Ma Kuang predicts Zhu will later still take Ma Yuan as teacher. That prediction is fulfilled socially when Ma Yuan rises to general and marquis while Zhu remains at county level.
+汉纪 726 gives Zhu Bo a compact relationship history with Ma Yuan. As a child, Zhu is presented as exceptionally quick with the classics; Ma Yuan once feels inferior after meeting him, while Ma Yuan's elder brother Ma Kuang predicts Zhu will later still take Ma Yuan as teacher. That prediction is fulfilled socially when Ma Yuan rises to general and marquis while Zhu remains at county level.
 
 The episode then makes Zhu Bo's character visible after Ma Yuan's fall. Ma Yuan had remembered old ties and looked after Zhu, but also showed some condescension. Zhu does not hold the slight against him. When Ma Yuan is dishonored after death, Zhu submits the memorial that shifts Liu Xiu away from pure anger toward a merit-and-fault review.
 
@@ -28,10 +28,10 @@ The episode then makes Zhu Bo's character visible after Ma Yuan's fall. Ma Yuan 
 
 ## Evidence
 
-- Early talent: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Zhu Bo could recite the Shi and Shu classics by age twelve and impressed Ma Yuan when young.
-- Relationship with Ma Yuan: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Ma Yuan later cared for Zhu because of old ties but sometimes treated him with condescension.
-- Defense after death: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Zhu Bo submits a memorial asking that Ma Yuan's case be given to senior ministers for judgment of merit and fault and restoration of title.
-- Effect on the ruler: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] says Liu Xiu's anger eases after reading Zhu Bo's memorial.
+- Early talent: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Zhu Bo could recite the Shi and Shu classics by age twelve and impressed Ma Yuan when young.
+- Relationship with Ma Yuan: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Ma Yuan later cared for Zhu because of old ties but sometimes treated him with condescension.
+- Defense after death: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Zhu Bo submits a memorial asking that Ma Yuan's case be given to senior ministers for judgment of merit and fault and restoration of title.
+- Effect on the ruler: [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] says Liu Xiu's anger eases after reading Zhu Bo's memorial.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This page does not yet reconstruct Zhu Bo's broader offices, family, or later ca
 
 ## What Changed
 
-- Created this page from Hanji 726 as the Zhu Bo branch of Ma Yuan's posthumous vindication.
+- Created this page from 汉纪 726 as the Zhu Bo branch of Ma Yuan's posthumous vindication.
 
 ## Relationships
 

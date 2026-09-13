@@ -13,7 +13,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]]. It uses "执念" as a source-scoped psychological frame for [[HeJin|何进]]'s refusal to abandon the plan of summoning outside forces into [[LuoyangLateHan|洛阳]] against the [[TenAttendantsLateHan|十常侍]], despite warnings from [[ChenLinLateHan|陈琳]], [[CaoCao|曹操]], [[ZhengTaiLateHan|郑泰]], and [[LuZhiLateHan|卢植]]. The distinct contribution is [[ExternalTroopInvitationRisk|外兵入京升级风险]]: a court powerholder can try to borrow military pressure for an internal purge, but the invitation gives actors such as [[DongZhuo|董卓]] their own entry point and makes later [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] harder to contain.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]]. It uses "执念" as a source-scoped psychological frame for [[HeJin|何进]]'s refusal to abandon the plan of summoning outside forces into [[LuoyangLateHan|洛阳]] against the [[TenAttendantsLateHan|十常侍]], despite warnings from [[ChenLinLateHan|陈琳]], [[CaoCao|曹操]], [[ZhengTaiLateHan|郑泰]], and [[LuZhiLateHan|卢植]]. The distinct contribution is [[ExternalTroopInvitationRisk|外兵入京升级风险]]: a court powerholder can try to borrow military pressure for an internal purge, but the invitation gives actors such as [[DongZhuo|董卓]] their own entry point and makes later [[PalaceCoupViolenceCascade|宫廷政变暴力级联]] harder to contain.
 
 ## Key Claims
 
@@ -33,7 +33,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - When the dismissed eunuchs come to He Jin in fear and ask to be dealt with, He Jin scolds them and tells them to return to their fiefs, but does not accept Yuan Shao's request to execute them all.
 - Yuan Shao then sends letters to provinces and commanderies under He Jin's name, ordering arrests of eunuchs; the delayed and leaking plan gives the eunuch side time to respond.
 - Zhang Rang uses palace-family ties: through his daughter-in-law, [[WuyangJun|武阳君]], and Empress Dowager He's softness, he obtains permission for the dismissed eunuchs to reenter the palace.
-- The episode ends before the killing of He Jin, making Hanji 945 the setup for Hanji 946's trap, retaliation, imperial flight, and Dong Zhuo opening.
+- The episode ends before the killing of He Jin, making 汉纪 945 the setup for 汉纪 946's trap, retaliation, imperial flight, and Dong Zhuo opening.
 
 ## Key Quotes
 
@@ -41,7 +41,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 > "董卓进京，必生大乱" - Lu Zhi's warning as summarized by the source.
 
-> "且听我明天分解" - the cliffhanger before Hanji 946's palace-coup payoff.
+> "且听我明天分解" - the cliffhanger before 汉纪 946's palace-coup payoff.
 
 ## Connections
 
@@ -50,7 +50,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[DongZhuo|董卓]], [[ZhongShaoLateHan|种劭]], [[WangKuangLateHan|王匡]], [[BaoXin|鲍信]], [[QiaoMaoLateHan|乔瑁]], and [[DingYuanLateHan|丁原]] - outside-force field created by He Jin's summons.
 - [[ZhangRangLateHan|张让]], [[WuyangJun|武阳君]], and [[PalaceAccessMonopoly|宫廷接触垄断]] - palace-family channel used to bring the eunuchs back inside.
 - [[ExternalTroopInvitationRisk|外兵入京升级风险]], [[EmotionalAttachmentPoliticalDistortion|情执政治判断失衡]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]] - conceptual frames for fixation, timing, and escalation.
-- [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] and [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] - next stages: eunuch counterattack and Dong Zhuo's conversion of the opening into armed court control.
+- [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]] and [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|汉纪 947]] - next stages: eunuch counterattack and Dong Zhuo's conversion of the opening into armed court control.
 
 ## Contradictions
 

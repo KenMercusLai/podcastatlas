@@ -42,11 +42,11 @@ The durable synthesis is that Wang Mang's early ascent begins as disciplined sel
 - Wang Man / 王曼 - Wang Mang's deceased father whose early death explains the gap between elite family name and weak household position.
 - [[HanChengdi|汉成帝]], [[WangShangWesternHan|王商]], and [[ChenTangWesternHan|陈汤]] - the praise-and-recommendation field that turns Wang Mang's private reputation into public office.
 - [[MoralReputationPoliticalCapital|道德名望政治资本]] and [[PublicMoralPerformance|公开道德表演]] - Wang Mang's filiality, humility, generosity, and self-denial become usable court capital.
-- [[PersonaShieldedPoliticalPurge|人设护盾式政治清除]] - the later Chunyu Zhang attack in Hanji 557 becomes more legible after this episode's portrait of reputation discipline.
-- [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] and [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|Hanji 558]] - continuation into Wang Mang's attack on Chunyu Zhang and subsequent Da Sima reputation performance.
+- [[PersonaShieldedPoliticalPurge|人设护盾式政治清除]] - the later Chunyu Zhang attack in 汉纪 557 becomes more legible after this episode's portrait of reputation discipline.
+- [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|汉纪 557]] and [[zizhi-tongjian-hanji-558-ai-zhuang-caihuiying-wangmang-you-duo-hui-yinren-llvrlct7laohoo54s3lhzgwvsfc9|汉纪 558]] - continuation into Wang Mang's attack on Chunyu Zhang and subsequent Da Sima reputation performance.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills Wang Mang's early reputation and first offices before Hanji 557's Chunyu Zhang case and Hanji 558's Da Sima layer.
+- Chronology qualification: this source backfills Wang Mang's early reputation and first offices before 汉纪 557's Chunyu Zhang case and 汉纪 558's Da Sima layer.
 - Scope caution: Dai Chong, Jin She, Zhu Ziyuan, the purchased servant, exact office mechanics, Wang Mang's inner motives, and the later "academic merit" claim remain source-scoped unless later notes require canonical pages.

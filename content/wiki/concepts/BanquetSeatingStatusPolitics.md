@@ -14,7 +14,7 @@ Banquet seating status politics is the mechanism where seating order at a formal
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] creates the current case under [[HanAidi|汉哀帝]]. At a Weiyang Palace banquet, the arrangement places [[FuTaihouWesternHan|傅太后]] beside [[WangZhengjun|王政君]]. [[WangMang|王莽]] reads the seat as ritually improper because Fu Taihou remains, in his frame, a Dingtao consort-side figure who cannot sit alongside the supreme grand empress dowager.
+[[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|汉纪 565]] creates the current case under [[HanAidi|汉哀帝]]. At a Weiyang Palace banquet, the arrangement places [[FuTaihouWesternHan|傅太后]] beside [[WangZhengjun|王政君]]. [[WangMang|王莽]] reads the seat as ritually improper because Fu Taihou remains, in his frame, a Dingtao consort-side figure who cannot sit alongside the supreme grand empress dowager.
 
 The concept's key point is that rank is made visible through spatial order. The feast is not merely hospitality; it is a court scene where status, family hierarchy, and political recognition are performed. When Wang Mang removes Fu Taihou's seat, Fu Taihou treats the correction as humiliation and refuses to attend, turning the banquet into the immediate trigger for Wang Mang's retirement from active office.
 
@@ -30,18 +30,18 @@ This case also shows why apparently minor protocol decisions can reorder personn
 
 ## Evidence
 
-- Seat arrangement: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says the banquet official places Fu Taihou beside Wang Zhengjun.
-- Ritual objection: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Wang Mang removes the seat because he regards Fu Taihou as unqualified to sit with the grand empress dowager.
-- Political rupture: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Fu Taihou becomes furious, refuses the banquet, and thereafter hates Wang Mang.
-- Office consequence: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|Hanji 565]] says Aidi lets Wang Mang retire while preserving high honors and appoints Shi Dan as Da Sima instead of Fu Xi.
+- Seat arrangement: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|汉纪 565]] says the banquet official places Fu Taihou beside Wang Zhengjun.
+- Ritual objection: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|汉纪 565]] says Wang Mang removes the seat because he regards Fu Taihou as unqualified to sit with the grand empress dowager.
+- Political rupture: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|汉纪 565]] says Fu Taihou becomes furious, refuses the banquet, and thereafter hates Wang Mang.
+- Office consequence: [[zizhi-tongjian-hanji-565-ruiqi-he-ni-liaoliao-xiaofanju-li-de-daxuewen-ljeybels0exmbtpzm-npxgxgx2lfq|汉纪 565]] says Aidi lets Wang Mang retire while preserving high honors and appoints Shi Dan as Da Sima instead of Fu Xi.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in one Western Han court episode. It should not be generalized to all banquets or all protocol mistakes. Hanji 565 does not settle the complete palace protocol, the full authority of the arranging official, or whether Aidi privately wanted Fu Taihou's seat to test the boundary.
+The concept is currently grounded in one Western Han court episode. It should not be generalized to all banquets or all protocol mistakes. 汉纪 565 does not settle the complete palace protocol, the full authority of the arranging official, or whether Aidi privately wanted Fu Taihou's seat to test the boundary.
 
 ## What Changed
 
-- Created the concept from Hanji 565's Weiyang Palace banquet-seat dispute.
+- Created the concept from 汉纪 565's Weiyang Palace banquet-seat dispute.
 
 ## Related Concepts
 

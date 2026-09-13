@@ -12,37 +12,37 @@ input_digest: 19904415c18814da8f6bc53b1c842f7b0af903832389fc51936cfe9371423c78
 
 ## Current State
 
-Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, and protected access repeatedly determine outcomes. Hanji 487 adds a Western Han prelude where Jing Fang's kaogong reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. Hanji 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. Hanji 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own, while later disposal can restore legitimacy.
+Governance and institutions pages frame formal structure as only one part of political order: succession, legitimacy, factional discipline, ritual authority, administrative information flow, and protected access repeatedly determine outcomes. 汉纪 487 adds a Western Han prelude where Jing Fang's kaogong reform becomes dangerous once Shi Xian moves him away from Emperor Yuan and the return-reporting channel is cancelled. 汉纪 557 adds a Western Han case-expansion and role-exit case in which Wang Mang's accusation against Chunyu Zhang moves through elder and imperial channels, while Chunyu's own attempt to regain office turns dismissal into deeper investigation, Empress Xu's death, and Zhai Fangjin's promotion field. 汉纪 442 adds dirty-work delegation: rulers may use compromised agents for coercion, accusation, private service, operational control, or blame that the center wants done but cannot openly own, while later disposal can restore legitimacy.
 
 ## Cross-source Findings
 
 ### Dirty Work Delegation Separates Ruler Demand From Visible Blame
 
-[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence.
+[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|汉纪 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence.
 
 **Evidence:** [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd]], [[DirtyWorkDelegationStatecraft]], [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], [[CourtTransitionBlameManagement]]
 
 **Qualifications:**
 
-- This is source-scoped to one workplace-oriented Hanji 442 synthesis and does not settle the full biographies or moral evaluations of the many historical examples.
+- This is source-scoped to one workplace-oriented 汉纪 442 synthesis and does not settle the full biographies or moral evaluations of the many historical examples.
 - The claim describes a mechanism of ruler demand, delegation, and later disposal; it does not justify cruelty, slander, or accountability evasion.
 - The source keeps the workplace analogy diagnostic rather than prescriptive.
 
 ### Confidential Remonstrance Leakage Turns Ritual Correction Into Punishment
 
-[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|Hanji 575]] adds a governance case where [[ShiDanWesternHan]]'s ritual correction of [[HanAidi]] over Dingtao-line status becomes punishable after [[ConfidentialRemonstranceLeakage]] exposes a sealed memorial; [[AdoptiveLineageRitualPolitics]] and [[ImperialConsortPosthumousTitleSystem]] show that role order, information control, and factional opportunity interact rather than operating as separate problems.
+[[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6|汉纪 575]] adds a governance case where [[ShiDanWesternHan]]'s ritual correction of [[HanAidi]] over Dingtao-line status becomes punishable after [[ConfidentialRemonstranceLeakage]] exposes a sealed memorial; [[AdoptiveLineageRitualPolitics]] and [[ImperialConsortPosthumousTitleSystem]] show that role order, information control, and factional opportunity interact rather than operating as separate problems.
 
 **Evidence:** [[zizhi-tongjian-hanji-575-gudai-dachen-xiemi-xiachang-you-duo-can-lkb_o6qht3sinbtms5gh1rixizm6]], [[ShiDanWesternHan]], [[HanAidi]], [[ConfidentialRemonstranceLeakage]], [[AdoptiveLineageRitualPolitics]], [[ImperialConsortPosthumousTitleSystem]], [[FuTaihouWesternHan]], [[KongGuangWesternHan]], [[FuXiWesternHan]]
 
 **Qualifications:**
 
-- The claim is source-scoped to one Hanji 575 summary and does not reconstruct the full legal text of the leak case or Dingtao title debate.
+- The claim is source-scoped to one 汉纪 575 summary and does not reconstruct the full legal text of the leak case or Dingtao title debate.
 - The episode supports a mechanism of secrecy failure and factional use, not a general rule that every confidential memorial leak was punished as great irreverence.
 - Tang Lin, Shen Xian, Que Qin, Dong Hong, and the complete Ding/Fu accusation network remain source-scoped.
 
 ### Fault Tolerant Appointment Preserves Local Authority
 
-[[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] adds a late-Western-Han governance claim that [[AppointmentQualityAsStateCapacity|appointment quality]] sometimes requires fault tolerance: [[WangJiaWesternHan|王嘉]] argues that useful officials with small or past faults can be restored when [[LocalOfficialTenureStability|local tenure stability]], prestige, and crisis response matter more than purity, while [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]] preserves the accountability risk.
+[[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|汉纪 583]] adds a late-Western-Han governance claim that [[AppointmentQualityAsStateCapacity|appointment quality]] sometimes requires fault tolerance: [[WangJiaWesternHan|王嘉]] argues that useful officials with small or past faults can be restored when [[LocalOfficialTenureStability|local tenure stability]], prestige, and crisis response matter more than purity, while [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]] preserves the accountability risk.
 
 **Evidence:** [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs]], [[AppointmentQualityAsStateCapacity]], [[WangJiaWesternHan]], [[LocalOfficialTenureStability]], [[MeritShieldedAccountability]]
 
@@ -54,13 +54,13 @@ Governance and institutions pages frame formal structure as only one part of pol
 
 ### Wang Jia Praise Uses Precedent To Open Remonstrance Channel
 
-[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|Hanji 592]] adds a late-Western-Han governance case where [[WangJiaWesternHan|王嘉]] uses praise as institutional precedent: [[HanYuandi|汉元帝]] models fiscal restraint, [[HanChengdi|汉成帝]] models tolerance of criticism and limited favorite protection, and early [[HanAidi|汉哀帝]] models learning and frugality before the later Dong Xian warning in [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|Hanji 593]].
+[[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5|汉纪 592]] adds a late-Western-Han governance case where [[WangJiaWesternHan|王嘉]] uses praise as institutional precedent: [[HanYuandi|汉元帝]] models fiscal restraint, [[HanChengdi|汉成帝]] models tolerance of criticism and limited favorite protection, and early [[HanAidi|汉哀帝]] models learning and frugality before the later Dong Xian warning in [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq|汉纪 593]].
 
 **Evidence:** [[zizhi-tongjian-hanji-592-handai-chengxiang-shi-ruhe-pingjia-qian-boss-de-lncdt3l6lk1hfxupuxti_dsjh9u5]], [[WangJiaWesternHan]], [[HanYuandi]], [[HanChengdi]], [[HanAidi]], [[zizhi-tongjian-hanji-593-zhenzheng-lihai-de-ren-zheyang-shuohua-luigzfyq6rtua0neci9jqi8ybxqq]]
 
 **Qualifications:**
 
-- The episode withholds Wang Jia's final purpose until Hanji 593, so the praise is treated as rhetorical setup rather than a full evaluation of Yuan, Cheng, or Aidi.
+- The episode withholds Wang Jia's final purpose until 汉纪 593, so the praise is treated as rhetorical setup rather than a full evaluation of Yuan, Cheng, or Aidi.
 - The complete original memorial wording, named officeholders in the opening notice, and balanced reign assessments remain source-scoped.
 - The claim applies to court feedback and remonstrance framing, not to all uses of praise in hierarchy.
 
@@ -138,7 +138,7 @@ Governance and institutions pages frame formal structure as only one part of pol
 
 ### Late Han 1070 Surrender Legitimacy And Commandery Handoff
 
-[[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] adds a late-Han governance case where conquest becomes an authority-transfer problem: [[JiaoChuLateHan]] uses oath coercion to create a public surrender cascade, [[HanHengLateHan]] and [[LoyalRefusalLegitimacySignal]] show that principled refusal can strengthen legitimacy by being spared, [[ZhangYanLateHan]] shows rebel capacity converted through titles, and [[DuJiLateHan]] plus [[TransitHubCommanderyControl]] make Hedong appointment and seal handoff a test of whether central authority can cross local-elite resistance from [[WangYiHedongLateHan]], [[WeiGuLateHan]], and [[FanXianLateHan]].
+[[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] adds a late-Han governance case where conquest becomes an authority-transfer problem: [[JiaoChuLateHan]] uses oath coercion to create a public surrender cascade, [[HanHengLateHan]] and [[LoyalRefusalLegitimacySignal]] show that principled refusal can strengthen legitimacy by being spared, [[ZhangYanLateHan]] shows rebel capacity converted through titles, and [[DuJiLateHan]] plus [[TransitHubCommanderyControl]] make Hedong appointment and seal handoff a test of whether central authority can cross local-elite resistance from [[WangYiHedongLateHan]], [[WeiGuLateHan]], and [[FanXianLateHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o]], [[JiaoChuLateHan]], [[ZhangNanLateHan]], [[HanHengLateHan]], [[LoyalRefusalLegitimacySignal]], [[ZhangYanLateHan]], [[GaoGanLateHan]], [[DuJiLateHan]], [[TransitHubCommanderyControl]], [[WangYiHedongLateHan]], [[WeiGuLateHan]], [[FanXianLateHan]], [[ZhaoDuLateHan]], [[HuoNuLateHan]], [[RuiqiJiangtouZizhiTongjian]]
 
@@ -186,13 +186,13 @@ Governance and institutions pages frame formal structure as only one part of pol
 
 ### Early Eastern Han 669 Legitimacy Composure And Court Capacity
 
-[[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|Hanji 669]] adds the earliest current Hebei-crisis governance layer before [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]]: [[WangLangHebeiClaimant]] turns false Liu Ziyu identity into public credibility under [[RebelMandateManufacture]], [[LiuXuanGengshiEmperor]] shows restored-Han title outpacing Chang'an court capacity, [[GengYanEasternHan]] rejects the manufactured claim and points [[LiuXiu]] toward northern cavalry, and [[CrisisComposureCoverStory]] captures Liu Xiu's Raoyang survival by role-consistent stillness.
+[[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|汉纪 669]] adds the earliest current Hebei-crisis governance layer before [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]]: [[WangLangHebeiClaimant]] turns false Liu Ziyu identity into public credibility under [[RebelMandateManufacture]], [[LiuXuanGengshiEmperor]] shows restored-Han title outpacing Chang'an court capacity, [[GengYanEasternHan]] rejects the manufactured claim and points [[LiuXiu]] toward northern cavalry, and [[CrisisComposureCoverStory]] captures Liu Xiu's Raoyang survival by role-consistent stillness.
 
 **Evidence:** [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp]], [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe]], [[WangLangHebeiClaimant]], [[RebelMandateManufacture]], [[LiuXuanGengshiEmperor]], [[GengYanEasternHan]], [[LiuXiu]], [[CrisisComposureCoverStory]], [[RuiqiJiangtouZizhiTongjian]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 669 as a Gengshi 2 / 24 CE backfill immediately before Hanji 670.
+- This claim is source-scoped to 汉纪 669 as a Gengshi 2 / 24 CE backfill immediately before 汉纪 670.
 - Liu Ziyu, Zhao Meng, Li Song, Shentu Jian, Wei Ao, Sun Chang, Wei Bao, Liu Jie, Raoyang, exact offices, and force counts remain source-scoped.
 - The governance mechanism is early legitimacy pressure and weak-center capacity, not a full reconstruction of Wang Lang's rise or Liu Xuan's whole regime.
 
@@ -210,25 +210,25 @@ Governance and institutions pages frame formal structure as only one part of pol
 
 ### Early Eastern Han 676 Letter Exposure And Accession Governance
 
-[[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] moves the early Guangwu governance branch before Hanji 677 and Hanji 679: [[FengYiEasternHan]] and [[LiYiGengshiGeneral]] create a correspondence channel, [[BorrowedKnifeKilling]] and [[PrivateLetterPoliticalWeaponization]] frame letter exposure through [[ZhuWeiEasternHan]] suspicion, [[KouXunEasternHan]], [[SuMaoEasternHan]], and [[JiaFuEasternHan]] connect battlefield pressure to commander attachment, and [[GengChunEasternHan]], [[QiangHuaEasternHan]], and [[AccessionTimingCoalitionSignal]] make accession timing a coalition and symbolic-warrant problem.
+[[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|汉纪 676]] moves the early Guangwu governance branch before 汉纪 677 and 汉纪 679: [[FengYiEasternHan]] and [[LiYiGengshiGeneral]] create a correspondence channel, [[BorrowedKnifeKilling]] and [[PrivateLetterPoliticalWeaponization]] frame letter exposure through [[ZhuWeiEasternHan]] suspicion, [[KouXunEasternHan]], [[SuMaoEasternHan]], and [[JiaFuEasternHan]] connect battlefield pressure to commander attachment, and [[GengChunEasternHan]], [[QiangHuaEasternHan]], and [[AccessionTimingCoalitionSignal]] make accession timing a coalition and symbolic-warrant problem.
 
 **Evidence:** [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii]], [[zizhi-tongjian-hanji-677-liuxuandi-dangnian-zhen-shi-yishou-haopai-da-xilan-lu8hizigjkqeps6ulqfqw9gfxnkv]], [[zizhi-tongjian-hanji-679-zhuwei-shahai-liuxiu-gege-weihe-reng-neng-shanzhong-lqns6ktym8rgv3y5tlczcyfyzxdb]], [[FengYiEasternHan]], [[LiYiGengshiGeneral]], [[BorrowedKnifeKilling]], [[PrivateLetterPoliticalWeaponization]], [[ZhuWeiEasternHan]], [[KouXunEasternHan]], [[SuMaoEasternHan]], [[JiaFuEasternHan]], [[GengChunEasternHan]], [[QiangHuaEasternHan]], [[AccessionTimingCoalitionSignal]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 676 as a Jianwu 1 backfill before Hanji 677 and Hanji 679.
+- This claim is source-scoped to 汉纪 676 as a Jianwu 1 backfill before 汉纪 677 and 汉纪 679.
 - Transcript forms for Li Yi, Feng Yi, Zhu Wei, Kou Xun, Jia Fu, river names, and pursuit geography are ASR-sensitive and remain source-scoped.
 - The borrowed-knife interpretation is the episode framing; the durable governance mechanism is document exposure, coalition timing, and morale management.
 
 ### Early Eastern Han 681 Frontier Legitimacy And Regional Self Preservation
 
-[[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] adds a Jianwu 1 governance baseline before later Guangwu consolidation: [[WeiXiaoEasternHan]] turns respectful reception into a temporary talent-attraction field, [[MaYuanEasternHan]]'s hardship and wealth-distribution ethic explains the later frontier persona, [[DouRongEasternHan]] and [[RegionalSelfPreservationAlliance]] make Hexi security a five-commandery compact, and [[LuFangEasternHan]] / [[RebelMandateManufacture]] show [[Xiongnu]] weaponizing false Liu genealogy as proxy claimant legitimacy.
+[[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] adds a Jianwu 1 governance baseline before later Guangwu consolidation: [[WeiXiaoEasternHan]] turns respectful reception into a temporary talent-attraction field, [[MaYuanEasternHan]]'s hardship and wealth-distribution ethic explains the later frontier persona, [[DouRongEasternHan]] and [[RegionalSelfPreservationAlliance]] make Hexi security a five-commandery compact, and [[LuFangEasternHan]] / [[RebelMandateManufacture]] show [[Xiongnu]] weaponizing false Liu genealogy as proxy claimant legitimacy.
 
 **Evidence:** [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi]], [[WeiXiaoEasternHan]], [[MaYuanEasternHan]], [[DouRongEasternHan]], [[RegionalSelfPreservationAlliance]], [[LuFangEasternHan]], [[RebelMandateManufacture]], [[Xiongnu]], [[SecurityForAuthorityExchange]], [[XingshiqingStrategicAssessment]], [[RuiqiJiangtouZizhiTongjian]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 681 as a Jianwu 1 backfill before Hanji 682 and the later Wei Xiao, Dou Rong, Ma Yuan, and Lu Fang branches.
+- This claim is source-scoped to 汉纪 681 as a Jianwu 1 backfill before 汉纪 682 and the later Wei Xiao, Dou Rong, Ma Yuan, and Lu Fang branches.
 - Liu Xuan, Lu Cheng, Fan Jun, Hunyewang ancestry, Julin/Gulin king, Zhangye shuguo troop numbers, and exact Qiang/Hu identities remain source-scoped.
 - Lu Fang's Liu and Xiongnu genealogy is treated as claimant manufacture reported by the source, not as accepted ancestry.
 
@@ -246,97 +246,97 @@ Governance and institutions pages frame formal structure as only one part of pol
 
 ### Early Eastern Han 685 Remonstrance Marriage Restraint And Rebellion Risk
 
-[[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|Hanji 685]] adds an early [[LiuXiu]] governance case where accepted correction and restraint coexist with reward and summons risk: [[SongHongEasternHan]] converts [[HuanTanEasternHan]]'s court music favor into [[ReceptiveRemonstranceGovernance]], Liu Xiu accepts Song Hong's refusal of [[HuyangPrincessEasternHan]] under [[CoercedImperialMarriage]] as a non-coercive boundary, while [[PengChongEasternHan]] turns unrewarded merit expectations, Yuyang iron-and-grain autonomy, conflict with [[ZhuFuEasternHan]], and [[GengKuangEasternHan]]'s refusal into a [[FoundingCommanderSuspicionManagement]] problem.
+[[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2|汉纪 685]] adds an early [[LiuXiu]] governance case where accepted correction and restraint coexist with reward and summons risk: [[SongHongEasternHan]] converts [[HuanTanEasternHan]]'s court music favor into [[ReceptiveRemonstranceGovernance]], Liu Xiu accepts Song Hong's refusal of [[HuyangPrincessEasternHan]] under [[CoercedImperialMarriage]] as a non-coercive boundary, while [[PengChongEasternHan]] turns unrewarded merit expectations, Yuyang iron-and-grain autonomy, conflict with [[ZhuFuEasternHan]], and [[GengKuangEasternHan]]'s refusal into a [[FoundingCommanderSuspicionManagement]] problem.
 
 **Evidence:** [[zizhi-tongjian-hanji-685-donghan-dachen-songhong-weihe-buken-zuo-guangwudi-jiefu-ljafg8giyhg5wmumv-g-09lywcu2]], [[LiuXiu]], [[SongHongEasternHan]], [[HuanTanEasternHan]], [[ReceptiveRemonstranceGovernance]], [[HuyangPrincessEasternHan]], [[CoercedImperialMarriage]], [[PengChongEasternHan]], [[ZhuFuEasternHan]], [[GengKuangEasternHan]], [[FoundingCommanderSuspicionManagement]]
 
 **Qualifications:**
 
-- The governance claim is source-scoped to Hanji 685's Jianwu 2 backfill and does not settle the whole Peng Chong rebellion.
+- The governance claim is source-scoped to 汉纪 685's Jianwu 2 backfill and does not settle the whole Peng Chong rebellion.
 - The Song Hong marriage episode is a non-coercive contrast within Liu Xiu's court, not evidence that imperial marriage interest was structurally harmless.
 - Yuyang commandery resources, iron-office trade, grain acquisition, and summons procedure remain source-scoped pending comparison with transmitted histories.
 
 ### Early Eastern Han 699 Plus Trust And Cultivated Governance
 
-[[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|Hanji 699 PLUS]] adds a governance claim around [[LiuXiu]]: [[CultivatedImperialCapacity]] requires learned formation through [[Taixue]], broad personnel use captured by [[AppointmentQualityAsStateCapacity]], and post-victory trust management when the [[WangLangHebeiClaimant]] letters are burned instead of converted into purge evidence.
+[[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph|汉纪 699 PLUS]] adds a governance claim around [[LiuXiu]]: [[CultivatedImperialCapacity]] requires learned formation through [[Taixue]], broad personnel use captured by [[AppointmentQualityAsStateCapacity]], and post-victory trust management when the [[WangLangHebeiClaimant]] letters are burned instead of converted into purge evidence.
 
 **Evidence:** [[zizhi-tongjian-hanji-699-plus-jipin-huangdi-liuxiu-wu-neng-da-tianxia-wen-neng-zhi-guojia-lntw7hm3afitzt7revomgqs-qvph]], [[LiuXiu]], [[CultivatedImperialCapacity]], [[Taixue]], [[AppointmentQualityAsStateCapacity]], [[WangLangHebeiClaimant]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 699 PLUS and should not be used as a general emperor-ranking proof.
+- This claim is source-scoped to 汉纪 699 PLUS and should not be used as a general emperor-ranking proof.
 - The source supports trust repair through the Wang Lang letter-burning scene but does not reconstruct every subordinate letter or later personnel appointment.
 - Taixue is used here as ruler formation, not as a full institutional history of imperial education.
 
 ### Early Eastern Han 704 Weixiao Face Saving Submission Failure
 
-[[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|Hanji 704]] backfills the early Guangwu governance branch through [[WeiXiaoEasternHan]]'s failed apology and [[FaceSavingSubmissionFailure]]: [[MaYuanEasternHan]] warns [[YangGuangWeiXiaoRetainer]] that Wei Xiao's two-commandery position is untenable, Liu Xiu's hostage-and-title terms require credible restraint, Wei Xiao turns to [[GongsunShuEasternHan]], and the [[LuFangEasternHan]] / [[HanXiongnuHeqinPolicy]] notice shows northern raiding already pushing constrained frontier diplomacy.
+[[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls|汉纪 704]] backfills the early Guangwu governance branch through [[WeiXiaoEasternHan]]'s failed apology and [[FaceSavingSubmissionFailure]]: [[MaYuanEasternHan]] warns [[YangGuangWeiXiaoRetainer]] that Wei Xiao's two-commandery position is untenable, Liu Xiu's hostage-and-title terms require credible restraint, Wei Xiao turns to [[GongsunShuEasternHan]], and the [[LuFangEasternHan]] / [[HanXiongnuHeqinPolicy]] notice shows northern raiding already pushing constrained frontier diplomacy.
 
 **Evidence:** [[zizhi-tongjian-hanji-704-weixiao-wo-da-ni-shi-bu-dui-dan-ni-ping-sha-hai-shou-lgi-cjyledgzldrie6kwpvejwsls]], [[WeiXiaoEasternHan]], [[FaceSavingSubmissionFailure]], [[MaYuanEasternHan]], [[YangGuangWeiXiaoRetainer]], [[GongsunShuEasternHan]], [[LuFangEasternHan]], [[HanXiongnuHeqinPolicy]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 704 as a pre-Hanji 705-1 Guangwu western-political backfill.
+- This claim is source-scoped to 汉纪 704 as a pre-汉纪 705-1 Guangwu western-political backfill.
 - Niu Han, Wei Xun, Liu Sa, the exact commandery count, and Wei Xiao faction psychology remain source-scoped.
 - The heqin branch records attempted restoration of old relations under Xiongnu and Lu Fang raiding pressure, not proof of a completed marriage settlement or lasting peace.
 
 ### Late Han 705 4 Ban Chao Western Regions Strategic Diplomacy
 
-[[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|Hanji 705-4]] adds a capstone [[BanChaoEasternHan]] governance case: Zhangdi-era Western Regions control is framed as key-node diagnosis and light-footprint coordination rather than central-army saturation, with [[ShuleKingdom]], [[QiuciKingdom]], [[YanqiKingdomLateHan]], [[ShacheKingdomLateHan]], [[Yuezhi]], [[XuGanEasternHan]], [[LiYiEasternHan]], and [[FrontierProxyConquestStrategy]] showing local supply, allied polity forces, hostage and replacement politics, tactical deception, supply-line denial, and post-victory restraint under [[EmperorZhangOfHan]] against a [[NorthernXiongnuLateHan]] order later weakened by [[DouXianEasternHan]]. It strengthens [[StrategicForbearanceGovernance]] and [[LightTouchFrontierGovernance]] by treating diplomatic restraint as part of effective frontier coercion.
+[[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7|汉纪 705-4]] adds a capstone [[BanChaoEasternHan]] governance case: Zhangdi-era Western Regions control is framed as key-node diagnosis and light-footprint coordination rather than central-army saturation, with [[ShuleKingdom]], [[QiuciKingdom]], [[YanqiKingdomLateHan]], [[ShacheKingdomLateHan]], [[Yuezhi]], [[XuGanEasternHan]], [[LiYiEasternHan]], and [[FrontierProxyConquestStrategy]] showing local supply, allied polity forces, hostage and replacement politics, tactical deception, supply-line denial, and post-victory restraint under [[EmperorZhangOfHan]] against a [[NorthernXiongnuLateHan]] order later weakened by [[DouXianEasternHan]]. It strengthens [[StrategicForbearanceGovernance]] and [[LightTouchFrontierGovernance]] by treating diplomatic restraint as part of effective frontier coercion.
 
 **Evidence:** [[zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7]], [[BanChaoEasternHan]], [[ShuleKingdom]], [[QiuciKingdom]], [[YanqiKingdomLateHan]], [[ShacheKingdomLateHan]], [[Yuezhi]], [[XuGanEasternHan]], [[LiYiEasternHan]], [[FrontierProxyConquestStrategy]], [[EmperorZhangOfHan]], [[NorthernXiongnuLateHan]], [[DouXianEasternHan]], [[StrategicForbearanceGovernance]], [[LightTouchFrontierGovernance]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 705-4 as a capstone backfill for Ban Chao before the already-ingested Ban Zhao and later Ban-family layers.
+- This claim is source-scoped to 汉纪 705-4 as a capstone backfill for Ban Chao before the already-ingested Ban Zhao and later Ban-family layers.
 - The source normalizes 李邑 onto the existing Li Yi route and leaves Wusun coalition details source-scoped.
 - Yuezhi/Kushan identity, force scale, hostage exchange, and settlement-count language are treated as source-bounded synthesis rather than independent reconstruction.
 
 ### Early Eastern Han 711 Shu Tempo Frontier Resource And Appointment Quality
 
-[[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]] backfills the early [[LiuXiu]] governance branch before [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]]: [[CenPengEasternHan]] and [[ZangGongEasternHan]] make [[OperationalTempoBreakthrough]] a conquest-legitimacy problem because speed toward Wuyang and Guangdu breaks Shu's defensive confidence before final victory, [[GongsunShuEasternHan]] answers collapse with refused surrender and assassination, [[MaYuanEasternHan]] and [[FrontierResourceIntegration]] make Jincheng/Poqiang retention a repair-and-repopulation policy, and [[GuoJiEasternHan]] ties [[AppointmentQualityAsStateCapacity]] to broadening official selection beyond Liu Xiu's Nanyang compatriots.
+[[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|汉纪 711]] backfills the early [[LiuXiu]] governance branch before [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|汉纪 712]]: [[CenPengEasternHan]] and [[ZangGongEasternHan]] make [[OperationalTempoBreakthrough]] a conquest-legitimacy problem because speed toward Wuyang and Guangdu breaks Shu's defensive confidence before final victory, [[GongsunShuEasternHan]] answers collapse with refused surrender and assassination, [[MaYuanEasternHan]] and [[FrontierResourceIntegration]] make Jincheng/Poqiang retention a repair-and-repopulation policy, and [[GuoJiEasternHan]] ties [[AppointmentQualityAsStateCapacity]] to broadening official selection beyond Liu Xiu's Nanyang compatriots.
 
 **Evidence:** [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w]], [[LiuXiu]], [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn]], [[CenPengEasternHan]], [[ZangGongEasternHan]], [[OperationalTempoBreakthrough]], [[GongsunShuEasternHan]], [[MaYuanEasternHan]], [[FrontierResourceIntegration]], [[GuoJiEasternHan]], [[AppointmentQualityAsStateCapacity]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 711 as a Jianwu 11-12 backfill before Hanji 712.
+- This claim is source-scoped to 汉纪 711 as a Jianwu 11-12 backfill before 汉纪 712.
 - Cen Peng and Zang Gong's operational success should be attributed to the commanders; Liu Xiu's direct governance evidence is surrender-letter pressure, later command replacement, acceptance of Ma Yuan's frontier-resource plan, and reception of Guo Ji's personnel warning.
 - Yan Cen's 延岑 spelling is normalized to the existing Yan Cen page; Guo Ji's Nanyang-staffing criticism is a transition warning, not proof that all Nanyang appointments were poor.
 
 ### Early Eastern Han 713 Shu Surrender Breach And Local Elite Repair
 
-[[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] backfills the early [[LiuXiu]] governance branch to Jianwu 12 / 36 CE: after [[YanCenEasternHan]] surrenders Chengdu, [[WuHanEasternHan]] kills [[GongsunShuEasternHan]]'s household and clan, destroys Yan Cen's clan, and permits sack, so Liu Xiu's rebuke of Wu Han and [[LiuShangEasternHan]] makes [[BreachOfSurrenderTrust]] a conquest-order problem; the later honors for [[LiNieEasternHan]], repayment to [[QiaoXuanShuScholar]], recognition of [[WenQiYizhouEasternHan]], and [[CoercedTalentLegitimacy]] / [[PrincipledOfficeRefusal]] material show local-elite repair after coerced Shu recruitment.
+[[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] backfills the early [[LiuXiu]] governance branch to Jianwu 12 / 36 CE: after [[YanCenEasternHan]] surrenders Chengdu, [[WuHanEasternHan]] kills [[GongsunShuEasternHan]]'s household and clan, destroys Yan Cen's clan, and permits sack, so Liu Xiu's rebuke of Wu Han and [[LiuShangEasternHan]] makes [[BreachOfSurrenderTrust]] a conquest-order problem; the later honors for [[LiNieEasternHan]], repayment to [[QiaoXuanShuScholar]], recognition of [[WenQiYizhouEasternHan]], and [[CoercedTalentLegitimacy]] / [[PrincipledOfficeRefusal]] material show local-elite repair after coerced Shu recruitment.
 
 **Evidence:** [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje]], [[LiuXiu]], [[YanCenEasternHan]], [[WuHanEasternHan]], [[GongsunShuEasternHan]], [[LiuShangEasternHan]], [[BreachOfSurrenderTrust]], [[LiNieEasternHan]], [[QiaoXuanShuScholar]], [[WenQiYizhouEasternHan]], [[CoercedTalentLegitimacy]], [[PrincipledOfficeRefusal]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 713 as a Jianwu 12 backfill before Hanji 714 and Hanji 715.
+- This claim is source-scoped to 汉纪 713 as a Jianwu 12 backfill before 汉纪 714 and 汉纪 715.
 - The source reports Liu Xiu's anger and rebuke but not a formal punishment for Wu Han or Liu Shang.
 - Gongsun Shu and several Shu scholar name forms are source-normalized or source-scoped, and the Ma Cheng notice remains setup.
 
 ### Early Eastern Han 718 Guangwu Stabilization Incentives And Jiaozhi
 
-[[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] backfills the [[LiuXiu]] governance branch to 40 CE before [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] and [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]]: [[ZhengCeJiaozhi]] and [[ZhengErJiaozhi]] turn [[JiaozhiCommandery]] resentment into [[FemaleRebelSovereignty]], [[BanditMutualReportingPacification]] redesigns anti-bandit incentives through peer reporting, pardon, official metrics, shelter penalties, and resettlement, [[LuFangEasternHan]] and [[MinKanEasternHan]] show rewarded but fragile [[Xiongnu]]-linked surrender incorporation, and [[MaYuanEasternHan]] ties punishment legitimacy to harm against the people while recommending [[WuzhuCoinRestoration]].
+[[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] backfills the [[LiuXiu]] governance branch to 40 CE before [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] and [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]]: [[ZhengCeJiaozhi]] and [[ZhengErJiaozhi]] turn [[JiaozhiCommandery]] resentment into [[FemaleRebelSovereignty]], [[BanditMutualReportingPacification]] redesigns anti-bandit incentives through peer reporting, pardon, official metrics, shelter penalties, and resettlement, [[LuFangEasternHan]] and [[MinKanEasternHan]] show rewarded but fragile [[Xiongnu]]-linked surrender incorporation, and [[MaYuanEasternHan]] ties punishment legitimacy to harm against the people while recommending [[WuzhuCoinRestoration]].
 
 **Evidence:** [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r]], [[LiuXiu]], [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix]], [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0]], [[ZhengCeJiaozhi]], [[ZhengErJiaozhi]], [[JiaozhiCommandery]], [[FemaleRebelSovereignty]], [[BanditMutualReportingPacification]], [[LuFangEasternHan]], [[MinKanEasternHan]], [[Xiongnu]], [[MaYuanEasternHan]], [[WuzhuCoinRestoration]], [[PeopleBasedPoliticalSecurity]], [[RootCausePacification]], [[MeritBasedRewardPunishment]], [[StrategicDefectorIncorporation]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 718 as a 40 CE backfill before Hanji 719 and Hanji 720.
+- This claim is source-scoped to 汉纪 718 as a 40 CE backfill before 汉纪 719 and 汉纪 720.
 - The Jiaozhi suppression result is compressed in this source and should not be treated as a full campaign reconstruction.
 - The bandit-pacification success, force counts, resettlement details, and law-versus-human-feeling management lesson remain source-scoped.
 
 ### Early Eastern Han 719 Guangwu Marriage Succession And Frontier Recognition
 
-[[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] backfills the [[LiuXiu]] governance branch to 41 CE before [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]]: [[PoliticalMarriageAllianceDepreciation]] frames [[GuoShengtong]]'s deposition and [[YinLihua]]'s elevation as founding-alliance repricing rather than private romance alone, [[ZhiYunEasternHan]] makes empress deposition a state-foundation issue, [[MaternalStatusSuccessionLeverage]] sets up [[LiuQiangDonghaiKing]]'s later insecurity, and [[PeiZunEasternHan]], [[ShacheKingdomLateHan]], [[CapacityBoundFrontierCommitment]], and [[FrontierRecognitionCredibilityTradeoff]] show Liu Xiu narrowing Western Regions recognition before unsupported authority hardens.
+[[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] backfills the [[LiuXiu]] governance branch to 41 CE before [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]]: [[PoliticalMarriageAllianceDepreciation]] frames [[GuoShengtong]]'s deposition and [[YinLihua]]'s elevation as founding-alliance repricing rather than private romance alone, [[ZhiYunEasternHan]] makes empress deposition a state-foundation issue, [[MaternalStatusSuccessionLeverage]] sets up [[LiuQiangDonghaiKing]]'s later insecurity, and [[PeiZunEasternHan]], [[ShacheKingdomLateHan]], [[CapacityBoundFrontierCommitment]], and [[FrontierRecognitionCredibilityTradeoff]] show Liu Xiu narrowing Western Regions recognition before unsupported authority hardens.
 
 **Evidence:** [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix]], [[LiuXiu]], [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0]], [[PoliticalMarriageAllianceDepreciation]], [[GuoShengtong]], [[YinLihua]], [[ZhiYunEasternHan]], [[MaternalStatusSuccessionLeverage]], [[LiuQiangDonghaiKing]], [[LiuFuPeiKingEasternHan]], [[LiuYangZhendingKingEasternHan]], [[PeiZunEasternHan]], [[ShacheKingdomLateHan]], [[CapacityBoundFrontierCommitment]], [[FrontierRecognitionCredibilityTradeoff]], [[MaYuanEasternHan]], [[JiTongEasternHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 719 and should be read as the 41 CE prelude before Hanji 720's crown-prince withdrawal and Hanji 722-723's later Western Regions capacity sequence.
+- This claim is source-scoped to 汉纪 719 and should be read as the 41 CE prelude before 汉纪 720's crown-prince withdrawal and 汉纪 722-723's later Western Regions capacity sequence.
 - The episode's modern "渣男" and gendered harem commentary remains source-scoped; the durable governance claim concerns alliance depreciation, empress deposition, public legitimacy language, and compensation.
 - The Shache title downgrade is a recognition and capacity prelude, not a claim that Han restored a durable Western Regions protectorate in 41 CE.
 
@@ -366,109 +366,109 @@ Federal biometric policing needs sharper process boundaries when civil detention
 
 ### Early Eastern Han 726 Guangwu Correction Discretion And Wuhuan Office
 
-[[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|Hanji 726]] adds a late [[LiuXiu]] governance case before [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]]: [[PosthumousMeritVindication]] answers [[LiangSongLinxiangMarquis]]'s accusation against [[MaYuanEasternHan]] through [[ZhuBoEasternHan]], [[FieldDiscretionPacification]] captures [[ZongJunEasternHan]]'s emergency [[WulingManLateHan]] surrender settlement, and [[WuhuanProtectorateInstitutionalization]] uses [[BanBiaoEasternHan]] and [[Wuhuan]] to make frontier submission institutionally managed.
+[[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu|汉纪 726]] adds a late [[LiuXiu]] governance case before [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|汉纪 727]]: [[PosthumousMeritVindication]] answers [[LiangSongLinxiangMarquis]]'s accusation against [[MaYuanEasternHan]] through [[ZhuBoEasternHan]], [[FieldDiscretionPacification]] captures [[ZongJunEasternHan]]'s emergency [[WulingManLateHan]] surrender settlement, and [[WuhuanProtectorateInstitutionalization]] uses [[BanBiaoEasternHan]] and [[Wuhuan]] to make frontier submission institutionally managed.
 
 **Evidence:** [[zizhi-tongjian-hanji-726-ma-ge-guo-shi-de-ma-yuan-weihe-mengyuan-buneng-shuo-de-mimi-lpxrkrx2uffdzpyctiwwcaanfzbu]], [[LiuXiu]], [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe]], [[PosthumousMeritVindication]], [[LiangSongLinxiangMarquis]], [[MaYuanEasternHan]], [[ZhuBoEasternHan]], [[FieldDiscretionPacification]], [[ZongJunEasternHan]], [[WulingManLateHan]], [[WuhuanProtectorateInstitutionalization]], [[BanBiaoEasternHan]], [[Wuhuan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 726 and should be read as a 49 CE governance prelude before Hanji 727.
+- This claim is source-scoped to 汉纪 726 and should be read as a 49 CE governance prelude before 汉纪 727.
 - The claim does not turn Liu Xiu's initial anger into final judgment; Zhu Bo's memorial softens the ruler but the full formal settlement remains outside the source.
 - Zong Jun's false-edict settlement is validated by outcome and later self-impeachment in this case, not by a general permission to bypass imperial authority.
 
 ### Early Eastern Han 729 Guangwu Frontier Reply And Ritual Refusal
 
-[[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] adds a late [[LiuXiu]] governance case before [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]]: [[BanBiaoEasternHan]] turns [[NorthernXiongnuLateHan]] tribute, heqin, music, and Western Regions requests into a [[FrontierRecognitionCredibilityTradeoff]] problem answered by matched rewards and careful wording, while Liu Xiu refusal of early [[Taishan]] fengshan under [[FengshanRitualLegitimacy]] makes public resentment and anti-flattery restraint part of ritual governance.
+[[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|汉纪 729]] adds a late [[LiuXiu]] governance case before [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]]: [[BanBiaoEasternHan]] turns [[NorthernXiongnuLateHan]] tribute, heqin, music, and Western Regions requests into a [[FrontierRecognitionCredibilityTradeoff]] problem answered by matched rewards and careful wording, while Liu Xiu refusal of early [[Taishan]] fengshan under [[FengshanRitualLegitimacy]] makes public resentment and anti-flattery restraint part of ritual governance.
 
 **Evidence:** [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce]], [[LiuXiu]], [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh]], [[BanBiaoEasternHan]], [[NorthernXiongnuLateHan]], [[FrontierRecognitionCredibilityTradeoff]], [[Taishan]], [[FengshanRitualLegitimacy]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 729 and should be read as the immediate 52-54 CE governance prelude to Hanji 730.
+- This claim is source-scoped to 汉纪 729 and should be read as the immediate 52-54 CE governance prelude to 汉纪 730.
 - The claim does not treat Northern Xiongnu contact as sincere submission; it follows the source bounded Ban Biao diagnosis of fear and weakness.
 - The Taishan refusal qualifies but does not negate the later 56 CE chenwei-backed ceremony.
 
 ### Early Eastern Han 730 Guangwu Personnel Chenwei And Fengshan
 
-[[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|Hanji 730]] backfills the [[LiuXiu]] governance branch immediately before [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]]: [[JiaFuEasternHan]] shows quiet military merit recognized after death, [[FifthLunEasternHan]] shows frankness and market administration as early signals of later integrity, and [[ChenweiPolitics]], [[ProphecyTriggeredPolicy]], [[FengshanRitualLegitimacy]], and [[Taishan]] show Liu Xiu letting Hetu prophecy and heavenly-auspice language move a frugal ruler toward fengshan as restoration-completion ritual.
+[[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh|汉纪 730]] backfills the [[LiuXiu]] governance branch immediately before [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|汉纪 731]]: [[JiaFuEasternHan]] shows quiet military merit recognized after death, [[FifthLunEasternHan]] shows frankness and market administration as early signals of later integrity, and [[ChenweiPolitics]], [[ProphecyTriggeredPolicy]], [[FengshanRitualLegitimacy]], and [[Taishan]] show Liu Xiu letting Hetu prophecy and heavenly-auspice language move a frugal ruler toward fengshan as restoration-completion ritual.
 
 **Evidence:** [[zizhi-tongjian-hanji-730-zhongguo-baijiaxing-juran-you-diwu-xing-lsm3xean8fzidhhhxi6-ppphexxh]], [[LiuXiu]], [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma]], [[JiaFuEasternHan]], [[FifthLunEasternHan]], [[ChenweiPolitics]], [[ProphecyTriggeredPolicy]], [[FengshanRitualLegitimacy]], [[Taishan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 730 and should be read as the late Guangwu backfill immediately before Hanji 731, not as a complete account of Liu Xiu's reign.
+- This claim is source-scoped to 汉纪 730 and should be read as the late Guangwu backfill immediately before 汉纪 731, not as a complete account of Liu Xiu's reign.
 - The episode raises but does not resolve the origin of the Fifth compound surname; that question remains outside this source's settled evidence.
 - The fengshan material records chenwei and auspicious-omen framing as a political decision mechanism, not as independent validation of prophetic authority.
 
 ### Early Eastern Han 731 Chenwei Preference And Speech Risk
 
-[[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|Hanji 731]] adds an early Eastern Han governance case in which [[LiuXiu]] turns [[ChenweiPolitics]] into legitimacy-sensitive state guidance: [[HuanTanEasternHan]] and [[ChenweiEvidentiaryCritique]] show that rejecting prophetic books as non-classics can be punished as offense, while [[ZhengXingEasternHan]], [[JiaKuiEasternHan]], and [[ImperialPreferenceSpeechRisk]] show ambiguity and accommodation as safer speech strategies under imperial preference.
+[[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma|汉纪 731]] adds an early Eastern Han governance case in which [[LiuXiu]] turns [[ChenweiPolitics]] into legitimacy-sensitive state guidance: [[HuanTanEasternHan]] and [[ChenweiEvidentiaryCritique]] show that rejecting prophetic books as non-classics can be punished as offense, while [[ZhengXingEasternHan]], [[JiaKuiEasternHan]], and [[ImperialPreferenceSpeechRisk]] show ambiguity and accommodation as safer speech strategies under imperial preference.
 
 **Evidence:** [[zizhi-tongjian-hanji-731-jinhu-wanmei-de-liuxiu-zui-da-quedian-shi-ta-lrhwupjmjm-hch3usx26jfxkhoma]], [[LiuXiu]], [[ChenweiPolitics]], [[HuanTanEasternHan]], [[ChenweiEvidentiaryCritique]], [[ZhengXingEasternHan]], [[JiaKuiEasternHan]], [[ImperialPreferenceSpeechRisk]]
 
 **Qualifications:**
 
-- The claim is source-scoped to Hanji 731 and qualifies rather than overturns Liu Xiu's broader positive governance profile.
-- Jia Kui is used here as a comparative accommodation case, not as a complete biography or replacement for Hanji 772.
+- The claim is source-scoped to 汉纪 731 and qualifies rather than overturns Liu Xiu's broader positive governance profile.
+- Jia Kui is used here as a comparative accommodation case, not as a complete biography or replacement for 汉纪 772.
 - The Southern Xiongnu succession and Houtu altar notices are retained as setup details rather than expanded governance claims.
 
 ### Late Han 735 Mingdi Empress Remonstrance And Local Exemplars
 
-[[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] pushes the [[EmperorMingOfHan]] governance branch back to Yongping 3 / 60 CE before [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]]: [[EmpressMaMingdeEasternHan]] and [[MotherhoodBeyondChildbirth]] connect empress selection to raising Liu Da as crown prince, [[ZhongliYiEasternHan]], [[ReceptiveRemonstranceGovernance]], and [[ImperialSelfCriticismEdict]] turn omen language into stopped construction and later eclipse self-warning, [[LiuPingEasternHan]], [[GuoHeEasternHan]], and [[HumaneLocalGovernance]] make local trust and public reward visible, [[YaoSongEasternHan]] shows ritual speech defusing Mingdi's harsh anger, and [[KhotanKingdomLateHan]], [[KhotanKingGuangdeLateHan]], and [[ShacheKingdomLateHan]] supply the pre-Hanji-736 Western Regions chronology.
+[[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] pushes the [[EmperorMingOfHan]] governance branch back to Yongping 3 / 60 CE before [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]]: [[EmpressMaMingdeEasternHan]] and [[MotherhoodBeyondChildbirth]] connect empress selection to raising Liu Da as crown prince, [[ZhongliYiEasternHan]], [[ReceptiveRemonstranceGovernance]], and [[ImperialSelfCriticismEdict]] turn omen language into stopped construction and later eclipse self-warning, [[LiuPingEasternHan]], [[GuoHeEasternHan]], and [[HumaneLocalGovernance]] make local trust and public reward visible, [[YaoSongEasternHan]] shows ritual speech defusing Mingdi's harsh anger, and [[KhotanKingdomLateHan]], [[KhotanKingGuangdeLateHan]], and [[ShacheKingdomLateHan]] supply the pre-Hanji-736 Western Regions chronology.
 
 **Evidence:** [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq]], [[EmperorMingOfHan]], [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup]], [[EmpressMaMingdeEasternHan]], [[MotherhoodBeyondChildbirth]], [[ZhongliYiEasternHan]], [[ReceptiveRemonstranceGovernance]], [[ImperialSelfCriticismEdict]], [[LiuPingEasternHan]], [[GuoHeEasternHan]], [[HumaneLocalGovernance]], [[YaoSongEasternHan]], [[KhotanKingdomLateHan]], [[KhotanKingGuangdeLateHan]], [[ShacheKingdomLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 735 as a Yongping 3 / 60 CE backfill before Hanji 736; it adds an earlier Mingdi, Empress Ma, and Western Regions layer rather than replacing the Hanji 736-740 sequence.
+- This claim is source-scoped to 汉纪 735 as a Yongping 3 / 60 CE backfill before 汉纪 736; it adds an earlier Mingdi, Empress Ma, and Western Regions layer rather than replacing the 汉纪 736-740 sequence.
 - Jia Guiren, Yin Taihou's selection role, Ma Yuan's Yuntai omission, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, the Tianchuan star, North Palace, Junde, Xiumoba, Dawan, Qiuci, exact flood details, and exact date conversions remain source-scoped.
 - The Shache-Khotan material also belongs to history and geopolitics; in this governance claim it is secondary to succession, remonstrance, local-official trust, and court-temperament patterns.
 
 ### Late Han 736 Mingdi Proximity Boundary And Feedback
 
-[[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] pushes the [[EmperorMingOfHan]] governance branch back to 61-63 CE before Hanji 737: [[LiuCangDongpingKing]] and [[RoyalKinPowerWithdrawal]] make voluntary royal-kin distance a trust-preserving office boundary, [[ZhengZhongFrontierEasternHan]], [[LiangSongLinxiangMarquis]], and [[PrivateRetainerNetworkRisk]] show why crown-prince and royal-prince client networks can become incriminating, [[DouMuEasternHan]] and [[DouRongEasternHan]] expose forged dowager authority inside elite kinship, and [[ImperialSelfCriticismEdict]] gains an auspicious-omen anti-flattery branch under Mingdi.
+[[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] pushes the [[EmperorMingOfHan]] governance branch back to 61-63 CE before 汉纪 737: [[LiuCangDongpingKing]] and [[RoyalKinPowerWithdrawal]] make voluntary royal-kin distance a trust-preserving office boundary, [[ZhengZhongFrontierEasternHan]], [[LiangSongLinxiangMarquis]], and [[PrivateRetainerNetworkRisk]] show why crown-prince and royal-prince client networks can become incriminating, [[DouMuEasternHan]] and [[DouRongEasternHan]] expose forged dowager authority inside elite kinship, and [[ImperialSelfCriticismEdict]] gains an auspicious-omen anti-flattery branch under Mingdi.
 
 **Evidence:** [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup]], [[EmperorMingOfHan]], [[LiuCangDongpingKing]], [[RoyalKinPowerWithdrawal]], [[ZhengZhongFrontierEasternHan]], [[LiangSongLinxiangMarquis]], [[PrivateRetainerNetworkRisk]], [[DouMuEasternHan]], [[DouRongEasternHan]], [[ImperialSelfCriticismEdict]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 736 as a 61-63 CE Yongping backfill before Hanji 737; it adds an earlier Mingdi governance layer rather than replacing the later Hanji 737-740 sequence.
+- This claim is source-scoped to 汉纪 736 as a 61-63 CE Yongping backfill before 汉纪 737; it adds an earlier Mingdi governance layer rather than replacing the later 汉纪 737-740 sequence.
 - Liu Jian, Guo Dan, Feng Fang, Fan Qian, Fu Gong, Liu Xu, Neihuang Princess, Dou Xun, Dou Xuan, Wangluo Mountain, and Shache succession names remain source-scoped.
 - The Khotan-Shache material also belongs to history and geopolitics; in this governance claim it is secondary to office boundary, retainer-network, forged-authority, and anti-flattery patterns.
 
 ### Late Han 737 Mingdi Ritual Frontier Feedback And Capacity
 
-[[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] moves the [[EmperorMingOfHan]] governance branch back to 64-65 CE before Hanji 738: [[YinLihua]] and [[ImperialConsortPosthumousTitleSystem]] make empress memory a formal title practice, [[ZongJunEasternHan]] and [[CleanOfficialCapacityGap]] separate clean or literary reputation from administrative capacity, [[ZhengZhongFrontierEasternHan]], [[DuliaoCampEasternHan]], [[SouthernXiongnu]], and [[NorthernXiongnuLateHan]] make frontier contact a containment problem under [[FrontierRecognitionCredibilityTradeoff]] and [[DiplomaticRitualDignity]], [[LiuYingChuKingEasternHan]], [[WhiteHorseTemple]], and [[EarlyChineseBuddhismCourtTransmission]] add tolerated Buddhist/Huang-Lao practice before later suspicion, and [[ImperialSelfCriticismEdict]] extends [[ReceptiveRemonstranceGovernance]] through Mingdi eclipse self-blame.
+[[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] moves the [[EmperorMingOfHan]] governance branch back to 64-65 CE before 汉纪 738: [[YinLihua]] and [[ImperialConsortPosthumousTitleSystem]] make empress memory a formal title practice, [[ZongJunEasternHan]] and [[CleanOfficialCapacityGap]] separate clean or literary reputation from administrative capacity, [[ZhengZhongFrontierEasternHan]], [[DuliaoCampEasternHan]], [[SouthernXiongnu]], and [[NorthernXiongnuLateHan]] make frontier contact a containment problem under [[FrontierRecognitionCredibilityTradeoff]] and [[DiplomaticRitualDignity]], [[LiuYingChuKingEasternHan]], [[WhiteHorseTemple]], and [[EarlyChineseBuddhismCourtTransmission]] add tolerated Buddhist/Huang-Lao practice before later suspicion, and [[ImperialSelfCriticismEdict]] extends [[ReceptiveRemonstranceGovernance]] through Mingdi eclipse self-blame.
 
 **Evidence:** [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2]], [[EmperorMingOfHan]], [[YinLihua]], [[ImperialConsortPosthumousTitleSystem]], [[ZongJunEasternHan]], [[CleanOfficialCapacityGap]], [[ZhengZhongFrontierEasternHan]], [[DuliaoCampEasternHan]], [[SouthernXiongnu]], [[NorthernXiongnuLateHan]], [[FrontierRecognitionCredibilityTradeoff]], [[DiplomaticRitualDignity]], [[LiuYingChuKingEasternHan]], [[WhiteHorseTemple]], [[EarlyChineseBuddhismCourtTransmission]], [[ImperialSelfCriticismEdict]], [[ReceptiveRemonstranceGovernance]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 737 as a 64-65 CE backfill before Hanji 738; it changes chronology and early-governance context rather than replacing later Mingdi or Zhangdi claims.
+- This claim is source-scoped to 汉纪 737 as a 64-65 CE backfill before 汉纪 738; it changes chronology and early-governance context rather than replacing later Mingdi or Zhangdi claims.
 - The host reading of Yin Lihua showing weakness, the Buddhism-origin narrative, minor personnel notices, and exact Duliaoying details remain source-scoped.
-- Liu Ying religious practice is initially tolerated in Hanji 737, while Hanji 739-740 later make his case politically dangerous in a different context.
+- Liu Ying religious practice is initially tolerated in 汉纪 737, while 汉纪 739-740 later make his case politically dangerous in a different context.
 
 ### Late Han 739 Mingdi Kinship Frontier Hydraulics And Chu Case
 
-[[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] moves the [[EmperorMingOfHan]] governance branch one step earlier than [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] by tying Yongping 11-14 order to four simultaneous modes: personal kinship with [[LiuCangDongpingKing]], light-touch incorporation of [[AilaoKingLiuMao]], state-capacity investment through [[WangJingBianquEasternHan]] and [[BianquHydraulicGovernance]], and the opening [[LiuYingChuKingEasternHan]] investigation that already shows [[YuYanEasternHan]]'s shame and [[CoerciveImplicationCascade]] before the larger Chu-prison expansion.
+[[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] moves the [[EmperorMingOfHan]] governance branch one step earlier than [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] by tying Yongping 11-14 order to four simultaneous modes: personal kinship with [[LiuCangDongpingKing]], light-touch incorporation of [[AilaoKingLiuMao]], state-capacity investment through [[WangJingBianquEasternHan]] and [[BianquHydraulicGovernance]], and the opening [[LiuYingChuKingEasternHan]] investigation that already shows [[YuYanEasternHan]]'s shame and [[CoerciveImplicationCascade]] before the larger Chu-prison expansion.
 
 **Evidence:** [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl]], [[EmperorMingOfHan]], [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[LiuCangDongpingKing]], [[AilaoKingLiuMao]], [[WangJingBianquEasternHan]], [[BianquHydraulicGovernance]], [[LiuYingChuKingEasternHan]], [[YuYanEasternHan]], [[CoerciveImplicationCascade]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 739 as a 68-71 CE backfill before Hanji 740 and Hanji 741; it adds the opening Mingdi layer rather than replacing the later Chu-prison continuation.
+- This claim is source-scoped to 汉纪 739 as a 68-71 CE backfill before 汉纪 740 and 汉纪 741; it adds the opening Mingdi layer rather than replacing the later Chu-prison continuation.
 - Wang Jing / 王景 is kept distinct from Wang Jing / 王敬, and Ailao king 柳貌 is kept distinct from Liu Mao / 刘茂.
 - The Bianqu repair is treated as Yongping-era state capacity under favorable conditions, not as a general claim that expensive public works are always justified.
 
 ### Late Han 740 Chu Prison Overreach And Correction
 
-[[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] continues the [[EmperorMingOfHan]] governance branch after [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]]'s opening Liu Ying layer: ruler anger, torture, and loyalty signaling create [[CoerciveImplicationCascade]], while [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], and [[YuanAnEasternHan]] show correction through character evidence, accusation testing, private counsel, and unsupported-case file review. [[PalaceAccusationVerification]] and [[ReceptiveRemonstranceGovernance]] therefore include late repair after overreach, and [[FrugalImperialBurialRestraint]] gains Mingdi's Shouling order as a predeath restraint layer.
+[[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] continues the [[EmperorMingOfHan]] governance branch after [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]]'s opening Liu Ying layer: ruler anger, torture, and loyalty signaling create [[CoerciveImplicationCascade]], while [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], and [[YuanAnEasternHan]] show correction through character evidence, accusation testing, private counsel, and unsupported-case file review. [[PalaceAccusationVerification]] and [[ReceptiveRemonstranceGovernance]] therefore include late repair after overreach, and [[FrugalImperialBurialRestraint]] gains Mingdi's Shouling order as a predeath restraint layer.
 
 **Evidence:** [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl]], [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew]], [[EmperorMingOfHan]], [[LiuYingChuKingEasternHan]], [[zizhi-tongjian-hanji-741-weishenme-gudai-xiongnu-zongyao-ruqin-zhongyuan-lllpgozgi6yd5pscw8z5ofidk5rp]], [[CoerciveImplicationCascade]], [[LuXuEasternHan]], [[JianLangEasternHan]], [[EmpressMaMingdeEasternHan]], [[YuanAnEasternHan]], [[PalaceAccusationVerification]], [[ReceptiveRemonstranceGovernance]], [[FrugalImperialBurialRestraint]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 740 as the continuation of the 70-71 CE Chu-prison case after Hanji 739; it adds a later Mingdi escalation and correction layer without replacing later Zhangdi, Dou, or Deng governance claims.
+- This claim is source-scoped to 汉纪 740 as the continuation of the 70-71 CE Chu-prison case after 汉纪 739; it adds a later Mingdi escalation and correction layer without replacing later Zhangdi, Dou, or Deng governance claims.
 - The Buddhist-secret-organization reading and transcript normalizations for Yu Yan and Jian Lang remain source-scoped.
 - The claim treats Mingdi correction as delayed and partial, not as full repair of the deaths, exile, imprisonment, and stigma already produced.
 
@@ -485,504 +485,504 @@ The GLM/Micron All-In source links AI-era legitimacy to electoral pressure: [[De
 
 ### Late Han 748 Zhangdi Ma Restraint And Exemplar Prelude
 
-[[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]] pushes the [[EmperorZhangOfHan]] governance branch back to 76 CE before [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]]: [[EmpressMaMingdeEasternHan]] blocks Ma-family maternal-uncles enfeoffment, creates [[OuterRelativePreventiveRestraint]], ties [[MaFamilyZhangEraEasternHan]] privilege to household spending, tomb scale, and legal limits through [[MaLiaoEasternHan]], and supplies an earlier foundation for [[TopDownExemplarGovernance]] and [[MotherhoodBeyondChildbirth]].
+[[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|汉纪 748]] pushes the [[EmperorZhangOfHan]] governance branch back to 76 CE before [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]]: [[EmpressMaMingdeEasternHan]] blocks Ma-family maternal-uncles enfeoffment, creates [[OuterRelativePreventiveRestraint]], ties [[MaFamilyZhangEraEasternHan]] privilege to household spending, tomb scale, and legal limits through [[MaLiaoEasternHan]], and supplies an earlier foundation for [[TopDownExemplarGovernance]] and [[MotherhoodBeyondChildbirth]].
 
 **Evidence:** [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z]], [[EmperorZhangOfHan]], [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf]], [[EmpressMaMingdeEasternHan]], [[OuterRelativePreventiveRestraint]], [[MaFamilyZhangEraEasternHan]], [[MaLiaoEasternHan]], [[TopDownExemplarGovernance]], [[MotherhoodBeyondChildbirth]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 748 as a 76 CE backfill before Hanji 749 and does not replace later Ma-family title, command, or lost-patronage layers.
+- This claim is source-scoped to 汉纪 748 as a 76 CE backfill before 汉纪 749 and does not replace later Ma-family title, command, or lost-patronage layers.
 - Ma Yuan, Jia Guiren, Yin Taihou, Guangping King, Lecheng King, exact Ma-brother allowance identities, and the drought-enfeoffment memorial authors remain source-scoped.
 - The drought argument is recorded through Empress Ma's rejection in the episode, not treated here as independent evidence for or against omen causation.
 
 ### Late Han 749 Zhangdi Exemplar Command And Burden Correction
 
-[[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]] pushes the [[EmperorZhangOfHan]] governance branch back to 76-78 CE before [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|Hanji 750]]: [[MaLiaoEasternHan]] and [[EmpressMaMingdeEasternHan]] ground [[TopDownExemplarGovernance]] in palace and capital example rather than bonuses or edicts alone, [[FifthLunEasternHan]] turns [[MaFangEasternHan]]'s Qiang command into [[OuterRelativeCommandAppointmentRisk]], [[QiangOfficialAbuseRebellionTrigger]] explains the Mi Wu and Buqiao revolt ignition, [[DengXunEasternHan]] and [[InfeasiblePublicWorksCancellation]] show burden-aware project cancellation, and [[BanChaoEasternHan]] already operates through allied Western Regions forces.
+[[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]] pushes the [[EmperorZhangOfHan]] governance branch back to 76-78 CE before [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt|汉纪 750]]: [[MaLiaoEasternHan]] and [[EmpressMaMingdeEasternHan]] ground [[TopDownExemplarGovernance]] in palace and capital example rather than bonuses or edicts alone, [[FifthLunEasternHan]] turns [[MaFangEasternHan]]'s Qiang command into [[OuterRelativeCommandAppointmentRisk]], [[QiangOfficialAbuseRebellionTrigger]] explains the Mi Wu and Buqiao revolt ignition, [[DengXunEasternHan]] and [[InfeasiblePublicWorksCancellation]] show burden-aware project cancellation, and [[BanChaoEasternHan]] already operates through allied Western Regions forces.
 
 **Evidence:** [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf]], [[EmperorZhangOfHan]], [[zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt]], [[MaLiaoEasternHan]], [[EmpressMaMingdeEasternHan]], [[TopDownExemplarGovernance]], [[FifthLunEasternHan]], [[MaFangEasternHan]], [[OuterRelativeCommandAppointmentRisk]], [[QiangOfficialAbuseRebellionTrigger]], [[DengXunEasternHan]], [[InfeasiblePublicWorksCancellation]], [[BanChaoEasternHan]], [[MiWuQiangLeader]], [[BuqiaoQiangLeader]], [[GengGongEasternHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 749 as a 76-78 CE Zhangdi backfill before Hanji 750; it adds an earlier layer rather than replacing later maternal, classics, frontier, or kinship episodes.
+- This claim is source-scoped to 汉纪 749 as a 76-78 CE Zhangdi backfill before 汉纪 750; it adds an earlier layer rather than replacing later maternal, classics, frontier, or kinship episodes.
 - Ma Fang's campaign succeeds in the source, so the outer-relative command warning is structural rather than a claim of incompetence.
 - Zong Yan, Liu Yu, Si Ye, Dou Xun, exact Qiang/canal figures, royal-brother identities, and Ma Fang's precise role in Geng Gong's impeachment remain source-scoped.
 
 ### Late Han 753 Zhangdi Evidence Burden And Remonstrance
 
-[[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] pushes the [[EmperorZhangOfHan]] governance branch back to 83-84 CE: [[LiYiEasternHan]] slanders [[BanChaoEasternHan]], Zhangdi answers through [[BehavioralEvidenceLoyaltyJudgment]], Ban Chao answers private injury through [[PublicDutyOverPrivateGrievance]], [[ZhengHongEasternHan]] reduces Jiaozhi transport and tribute burden through [[TransportRouteBurdenRelief]], [[WeiBiaoEasternHan]] defines [[OfficeFitOverRoteCleverness]] for high office, [[InterrogationTortureConstraint]] limits unauthorized cruelty, and [[ZhuHuiZhangEraEasternHan]] turns salt and junshu opposition into [[StateMonopolyBurdenRemonstrance]].
+[[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] pushes the [[EmperorZhangOfHan]] governance branch back to 83-84 CE: [[LiYiEasternHan]] slanders [[BanChaoEasternHan]], Zhangdi answers through [[BehavioralEvidenceLoyaltyJudgment]], Ban Chao answers private injury through [[PublicDutyOverPrivateGrievance]], [[ZhengHongEasternHan]] reduces Jiaozhi transport and tribute burden through [[TransportRouteBurdenRelief]], [[WeiBiaoEasternHan]] defines [[OfficeFitOverRoteCleverness]] for high office, [[InterrogationTortureConstraint]] limits unauthorized cruelty, and [[ZhuHuiZhangEraEasternHan]] turns salt and junshu opposition into [[StateMonopolyBurdenRemonstrance]].
 
 **Evidence:** [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv]], [[EmperorZhangOfHan]], [[LiYiEasternHan]], [[BanChaoEasternHan]], [[BehavioralEvidenceLoyaltyJudgment]], [[PublicDutyOverPrivateGrievance]], [[ZhengHongEasternHan]], [[TransportRouteBurdenRelief]], [[WeiBiaoEasternHan]], [[OfficeFitOverRoteCleverness]], [[InterrogationTortureConstraint]], [[ZhuHuiZhangEraEasternHan]], [[StateMonopolyBurdenRemonstrance]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 753 as an 83-84 CE Zhangdi backfill; it adds an earlier layer rather than replacing later speech, population, frontier, ritual, or kinship episodes.
+- This claim is source-scoped to 汉纪 753 as an 83-84 CE Zhangdi backfill; it adds an earlier layer rather than replacing later speech, population, frontier, ritual, or kinship episodes.
 - Zhu Hui is the Zhang-era remonstrant page and remains distinct from the later He-era Zhu Hui frontier profile.
 - Wusun, Xu Gan, Zhang Lin, minor royal deaths, exact route geography, and exact interrogation-tool specifications remain source-scoped.
 
 ### Late Han 755 Zhangdi Household Care And Frontier Credibility
 
-[[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] pushes the [[EmperorZhangOfHan]] governance branch back to 85 CE before [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]]: [[FertilityBurdenReliefPolicy]] turns pregnancy grain and household tax relief into population-as-state-capacity policy, [[LocalGovernanceAsCare]] expands to low-disturbance county administration, Zhangdi's ritual and teacher scenes add [[ZhangPuEasternHan]], [[ZhengJunEasternHan]], [[KongXiEasternHan]], and [[LiuCangDongpingKing]] to the moral-order field, and [[MengYunEasternHan]], [[HuanYuEasternHan]], [[ZhengHongEasternHan]], [[FifthLunEasternHan]], [[YuanAnEasternHan]], [[SouthernXiongnu]], and [[NorthernXiongnuLateHan]] make [[StrategicForbearanceGovernance]] a live credibility dispute before the restitution resolution.
+[[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] pushes the [[EmperorZhangOfHan]] governance branch back to 85 CE before [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]]: [[FertilityBurdenReliefPolicy]] turns pregnancy grain and household tax relief into population-as-state-capacity policy, [[LocalGovernanceAsCare]] expands to low-disturbance county administration, Zhangdi's ritual and teacher scenes add [[ZhangPuEasternHan]], [[ZhengJunEasternHan]], [[KongXiEasternHan]], and [[LiuCangDongpingKing]] to the moral-order field, and [[MengYunEasternHan]], [[HuanYuEasternHan]], [[ZhengHongEasternHan]], [[FifthLunEasternHan]], [[YuanAnEasternHan]], [[SouthernXiongnu]], and [[NorthernXiongnuLateHan]] make [[StrategicForbearanceGovernance]] a live credibility dispute before the restitution resolution.
 
 **Evidence:** [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco]], [[EmperorZhangOfHan]], [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj]], [[FertilityBurdenReliefPolicy]], [[LocalGovernanceAsCare]], [[ZhangPuEasternHan]], [[ZhengJunEasternHan]], [[KongXiEasternHan]], [[LiuCangDongpingKing]], [[MengYunEasternHan]], [[HuanYuEasternHan]], [[ZhengHongEasternHan]], [[FifthLunEasternHan]], [[YuanAnEasternHan]], [[SouthernXiongnu]], [[NorthernXiongnuLateHan]], [[StrategicForbearanceGovernance]], [[KongXi]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 755 as an 85 CE backfill before Hanji 756; it adds the setup for the restitution decision and Zhangdi household-governance layer rather than replacing Hanji 756's resolution.
+- This claim is source-scoped to 汉纪 755 as an 85 CE backfill before 汉纪 756; it adds the setup for the restitution decision and Zhangdi household-governance layer rather than replacing 汉纪 756's resolution.
 - The fertility policy is treated as burden relief and state-capacity logic, not as measured evidence that births increased.
 - Kong Xi / 孔僖 is kept distinct from existing KongXi / 孔熙; Liu Fang, Ding Mu, Zhou Xu, calendar specialists, and minor places remain source-scoped.
 
 ### Late Han 756 Forbearance Court Frontier Boundaries
 
-[[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] pushes the [[EmperorZhangOfHan]] governance branch back before [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]]: Zhangdi preserves court speech after the [[ZhengHongEasternHan]] and [[FifthLunEasternHan]] dispute, uses [[SouthernXiongnu]] compensation and [[NorthernXiongnuLateHan]] restitution as credibility policy, and makes [[StrategicForbearanceGovernance]] visible in parallel with [[ZhangYuEasternHan]] releasing [[HaoWuQiangLeader]] under [[FrontierTrustThroughProtection]]. The same source sets boundaries through Zheng Hong's anti-[[DouXianEasternHan]] warning and [[BanChaoEasternHan]] defeating [[JiaoZhongShuleKing]]'s false surrender, so forbearance depends on credible cooperation and threat assessment rather than general softness.
+[[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] pushes the [[EmperorZhangOfHan]] governance branch back before [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]]: Zhangdi preserves court speech after the [[ZhengHongEasternHan]] and [[FifthLunEasternHan]] dispute, uses [[SouthernXiongnu]] compensation and [[NorthernXiongnuLateHan]] restitution as credibility policy, and makes [[StrategicForbearanceGovernance]] visible in parallel with [[ZhangYuEasternHan]] releasing [[HaoWuQiangLeader]] under [[FrontierTrustThroughProtection]]. The same source sets boundaries through Zheng Hong's anti-[[DouXianEasternHan]] warning and [[BanChaoEasternHan]] defeating [[JiaoZhongShuleKing]]'s false surrender, so forbearance depends on credible cooperation and threat assessment rather than general softness.
 
 **Evidence:** [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj]], [[EmperorZhangOfHan]], [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x]], [[ZhengHongEasternHan]], [[FifthLunEasternHan]], [[SouthernXiongnu]], [[NorthernXiongnuLateHan]], [[StrategicForbearanceGovernance]], [[ZhangYuEasternHan]], [[HaoWuQiangLeader]], [[FrontierTrustThroughProtection]], [[DouXianEasternHan]], [[BanChaoEasternHan]], [[JiaoZhongShuleKing]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 756 as an 86 CE backfill before Hanji 757 and Hanji 758; it adds a bounded-forbearance layer rather than replacing the later Zhangdi, Dou, Qiang, or Western Regions chronology.
+- This claim is source-scoped to 汉纪 756 as an 86 CE backfill before 汉纪 757 and 汉纪 758; it adds a bounded-forbearance layer rather than replacing the later Zhangdi, Dou, Qiang, or Western Regions chronology.
 - The forbearance pattern is qualified inside the same source: Zheng Hong treats Dou Xian as a power risk, while Ban Chao treats Jiao Zhong's surrender as a trap rather than a reason for leniency.
 - Transcript forms 第五轮, 张鱼, and 迷雾/弥务 are normalized cautiously, while minor officials, Kangju details, and route geography remain source-scoped.
 
 ### Late Han 758 Zhangdi Kinship Protocol And Final Year Restraint
 
-[[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]] pushes the [[EmperorZhangOfHan]] governance branch back to late 88 CE before [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|Hanji 759]]: [[CaoBaoEasternHan]] makes [[LiAsPoliticalOrder]] a live reform problem, [[BanChaoEasternHan]] shows timing and deception working in Shache, and [[HeChangEasternHan]] plus [[SongYiEasternHan]] turn over-favored royal kin, exhausted finances, and status confusion into [[KinshipProtocolBoundary]] and [[GoodIntentionsPoliticalLimits]] before the Dou-regency accession layer.
+[[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|汉纪 758]] pushes the [[EmperorZhangOfHan]] governance branch back to late 88 CE before [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j|汉纪 759]]: [[CaoBaoEasternHan]] makes [[LiAsPoliticalOrder]] a live reform problem, [[BanChaoEasternHan]] shows timing and deception working in Shache, and [[HeChangEasternHan]] plus [[SongYiEasternHan]] turn over-favored royal kin, exhausted finances, and status confusion into [[KinshipProtocolBoundary]] and [[GoodIntentionsPoliticalLimits]] before the Dou-regency accession layer.
 
 **Evidence:** [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7]], [[EmperorZhangOfHan]], [[zizhi-tongjian-hanji-759-renxing-gezhong-yuwang-zui-kepa-deshi-quanliyu-lhujid-1asi0u96jjvstnj76bt4j]], [[CaoBaoEasternHan]], [[LiAsPoliticalOrder]], [[BanChaoEasternHan]], [[HeChangEasternHan]], [[SongYiEasternHan]], [[KinshipProtocolBoundary]], [[GoodIntentionsPoliticalLimits]], [[UntimelyExtravagance]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 758 as a late-88 CE backfill before Hanji 759; it adds the living Zhangdi final-year layer rather than replacing the accession, Dou-family, or later Emperor He chronology.
+- This claim is source-scoped to 汉纪 758 as a late-88 CE backfill before 汉纪 759; it adds the living Zhangdi final-year layer rather than replacing the accession, Dou-family, or later Emperor He chronology.
 - Royal-prince identities and Western Regions local names remain source-scoped because no canonical pages were created from this mention.
 - The source emotional-intelligence framing is treated as political-protocol interpretation, not as an independent psychology claim.
 
 ### Late Han 762 Dou Family Overreach And Remonstrance
 
-[[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] pushes the [[EmperorHeOfHan]] governance branch back before [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|Hanji 763]]: [[DouXianEasternHan]]'s restored general-in-chief rank and [[DouJingEasternHan]]'s household abuse plus unauthorized frontier-cavalry recall show Dou-family power operating as social coercion and private force access, while [[YuanAnEasternHan]] turns the case into impeachment and historical-allusive remonstrance and [[DouGuiEasternHan]] supplies a restrained internal contrast; [[HeSongEasternHan]] and [[LiuYanFulingKingEasternHan]] keep the same layer tied to tutor-office displacement and same-surname royal discipline.
+[[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|汉纪 762]] pushes the [[EmperorHeOfHan]] governance branch back before [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb|汉纪 763]]: [[DouXianEasternHan]]'s restored general-in-chief rank and [[DouJingEasternHan]]'s household abuse plus unauthorized frontier-cavalry recall show Dou-family power operating as social coercion and private force access, while [[YuanAnEasternHan]] turns the case into impeachment and historical-allusive remonstrance and [[DouGuiEasternHan]] supplies a restrained internal contrast; [[HeSongEasternHan]] and [[LiuYanFulingKingEasternHan]] keep the same layer tied to tutor-office displacement and same-surname royal discipline.
 
 **Evidence:** [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj]], [[zizhi-tongjian-hanji-763-gaixie-lishi-donghan-douxian-po-bei-xiongnu-zhi-zhan-ltlctmb-iprvggoit46-qohm0tb]], [[EmperorHeOfHan]], [[DouXianEasternHan]], [[DouJingEasternHan]], [[YuanAnEasternHan]], [[DouGuiEasternHan]], [[HeSongEasternHan]], [[LiuYanFulingKingEasternHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 762 as a backfill before Hanji 763; it adds an early court-overreach layer rather than replacing the later Northern Xiongnu campaign, Yu Chu policy dispute, or palace operation.
+- This claim is source-scoped to 汉纪 762 as a backfill before 汉纪 763; it adds an early court-overreach layer rather than replacing the later Northern Xiongnu campaign, Yu Chu policy dispute, or palace operation.
 - The source links Dou Xian rank, Dou Jing household abuse, official silence, and sealed-memorial leakage as signs of a family power center, but it does not by itself reconstruct every step of the later Dou purge.
 - Fuling King Liu Yan, He Song, the floods, amnesty, and solar eclipse remain source-scoped unless later bounded notes promote them.
 
 ### Late Han 767 He Post Dou Consolidation Eunuch And Frontier Trust
 
-[[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]] pushes the [[EmperorHeOfHan]] governance branch back to 92-93 CE before [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]]: [[DouXianEasternHan]]'s fall makes gift exchange, private grievance, and Northern Xiongnu arrangements dangerous; [[LiHeEasternHan]] converts a gift mission into [[TacticalDelayRiskTransfer]] under [[OuterRoundInnerSquareConduct]]; [[LiuQingQingheKing]] shows post-Dou favor governed by caution; [[ZhengZhongEasternHan]] and [[TrustedEunuchPowerFormation]] make humble reward refusal into a trusted eunuch consultation channel; [[DengXunEasternHan]] and [[NieShangLateHan]] contrast accumulated frontier legitimacy with [[WishfulFrontierConciliation]] toward [[MiTangQiangLeader]]; and [[NorthernXiongnuLateHan]], [[YuChuNorthernXiongnu]], [[RenShangLateHan]], and [[Xianbei]] connect post-Dou frontier credibility to remnant punishment and steppe realignment.
+[[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]] pushes the [[EmperorHeOfHan]] governance branch back to 92-93 CE before [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]]: [[DouXianEasternHan]]'s fall makes gift exchange, private grievance, and Northern Xiongnu arrangements dangerous; [[LiHeEasternHan]] converts a gift mission into [[TacticalDelayRiskTransfer]] under [[OuterRoundInnerSquareConduct]]; [[LiuQingQingheKing]] shows post-Dou favor governed by caution; [[ZhengZhongEasternHan]] and [[TrustedEunuchPowerFormation]] make humble reward refusal into a trusted eunuch consultation channel; [[DengXunEasternHan]] and [[NieShangLateHan]] contrast accumulated frontier legitimacy with [[WishfulFrontierConciliation]] toward [[MiTangQiangLeader]]; and [[NorthernXiongnuLateHan]], [[YuChuNorthernXiongnu]], [[RenShangLateHan]], and [[Xianbei]] connect post-Dou frontier credibility to remnant punishment and steppe realignment.
 
 **Evidence:** [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq]], [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna]], [[EmperorHeOfHan]], [[DouXianEasternHan]], [[LiHeEasternHan]], [[TacticalDelayRiskTransfer]], [[OuterRoundInnerSquareConduct]], [[LiuQingQingheKing]], [[ZhengZhongEasternHan]], [[TrustedEunuchPowerFormation]], [[DengXunEasternHan]], [[NieShangLateHan]], [[WishfulFrontierConciliation]], [[MiTangQiangLeader]], [[NorthernXiongnuLateHan]], [[YuChuNorthernXiongnu]], [[RenShangLateHan]], [[Xianbei]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 767 as a 92-93 CE backfill before Hanji 768; it adds an earlier Emperor He layer rather than replacing the later ritual, royal-house, and Southern Xiongnu claims.
+- This claim is source-scoped to 汉纪 767 as a 92-93 CE backfill before 汉纪 768; it adds an earlier Emperor He layer rather than replacing the later ritual, royal-house, and Southern Xiongnu claims.
 - The source's "outer round, inner square" and eunuch-power-begins-here readings are interpretive; the concrete evidence is Li He's delay, Liu Qing's caution, Zheng Zhong's trusted access, Deng Xun's mourning, Nie Shang's failed conciliation, and Yu Chu's destruction.
 - Yuan An's son Yuan Shang is kept separate from the later YuanShang page; Bi Que, Tian Si, Xu Heng, Wang Fu, Ren Tun, Liu Wansui, Liu Kang, Liu Fang, Deng Biao, and southern Man notices remain source-scoped.
 
 ### Late Han 768 He Weak Authority And Frontier Complaint Channels
 
-[[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] pushes the [[EmperorHeOfHan]] governance branch back to 93-94 CE before [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]]: [[CaoBaoEasternHan]] and [[ZhangPuEasternHan]] make [[WeakAuthorityLeadership]] visible when ritual reform is abandoned under orthodox pressure; [[LiuChangLiangKing]] and [[RoyalUsurpationSpeechTaboo]] show calibrated punishment for royal emperor-making speech; [[GuanYouLateHan]] and [[MiTangQiangLeader]] extend [[CoalitionFractureExploitation]] through Qiang frontier inducement; and [[AnGuoSouthernXiongnu]], [[ShiziChanyu]], [[HuangfuLengLateHan]], [[DuChongProtectorOfXiongnu]], and [[ZhuHuiHeEraLateHan]] show Southern Xiongnu succession danger moving through jealousy, access control, complaint interception, and Han intervention.
+[[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]] pushes the [[EmperorHeOfHan]] governance branch back to 93-94 CE before [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|汉纪 769]]: [[CaoBaoEasternHan]] and [[ZhangPuEasternHan]] make [[WeakAuthorityLeadership]] visible when ritual reform is abandoned under orthodox pressure; [[LiuChangLiangKing]] and [[RoyalUsurpationSpeechTaboo]] show calibrated punishment for royal emperor-making speech; [[GuanYouLateHan]] and [[MiTangQiangLeader]] extend [[CoalitionFractureExploitation]] through Qiang frontier inducement; and [[AnGuoSouthernXiongnu]], [[ShiziChanyu]], [[HuangfuLengLateHan]], [[DuChongProtectorOfXiongnu]], and [[ZhuHuiHeEraLateHan]] show Southern Xiongnu succession danger moving through jealousy, access control, complaint interception, and Han intervention.
 
 **Evidence:** [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna]], [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i]], [[EmperorHeOfHan]], [[CaoBaoEasternHan]], [[ZhangPuEasternHan]], [[WeakAuthorityLeadership]], [[LiuChangLiangKing]], [[RoyalUsurpationSpeechTaboo]], [[GuanYouLateHan]], [[MiTangQiangLeader]], [[CoalitionFractureExploitation]], [[AnGuoSouthernXiongnu]], [[ShiziChanyu]], [[HuangfuLengLateHan]], [[DuChongProtectorOfXiongnu]], [[ZhuHuiHeEraLateHan]], [[SouthernXiongnu]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 768 as a 93-94 CE backfill and does not replace Hanji 769's later Shizi-Fenghou rebellion or false-report aftermath.
+- This claim is source-scoped to 汉纪 768 as a 93-94 CE backfill and does not replace 汉纪 769's later Shizi-Fenghou rebellion or false-report aftermath.
 - The source's management reading of weak authority is interpretive; Cao Bao's ritual technical content and Zhang Min's broader profile remain source-scoped.
 - The identity cautions around Cao Bao, Liang King Liu Chang, and Southern Xiongnu An Guo remain active.
 
 ### Late Han 94 96 He Office Proximity And Reporting Integrity
 
-[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|Hanji 487]] and [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|Hanji 769]] show that office value depends on access to authority and information, not rank alone: [[JingFang]] loses protection when [[ShiXianWesternHan]] moves him away from [[HanYuandi]] and return reporting is cancelled, while [[HuangXiangLateHan]] refuses a nominally higher commandery appointment to remain near Shangshu documents and imperial decision makers. The same Hanji 769 source adds [[ChenChongLateHan]] as a tingwei appointment that changes judicial temperament and extends [[UnauthorizedFrontierCommandIntervention]] through the Southern Xiongnu false-report chain.
+[[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|汉纪 487]] and [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i|汉纪 769]] show that office value depends on access to authority and information, not rank alone: [[JingFang]] loses protection when [[ShiXianWesternHan]] moves him away from [[HanYuandi]] and return reporting is cancelled, while [[HuangXiangLateHan]] refuses a nominally higher commandery appointment to remain near Shangshu documents and imperial decision makers. The same 汉纪 769 source adds [[ChenChongLateHan]] as a tingwei appointment that changes judicial temperament and extends [[UnauthorizedFrontierCommandIntervention]] through the Southern Xiongnu false-report chain.
 
 **Evidence:** [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet]], [[zizhi-tongjian-hanji-769-gongwuyuan-gai-zenme-kao-guren-gaosu-ni-ltgxekmkpioy11b2-q2kkj93ja0i]], [[JingFang]], [[ShiXianWesternHan]], [[HanYuandi]], [[PowerCenterProximityAdvantage]], [[HuangXiangLateHan]], [[ShangshuTaiImperialAccess]], [[ChenChongLateHan]], [[UnauthorizedFrontierCommandIntervention]]
 
 **Qualifications:**
 
-- Hanji 487 is a Western Han access-loss case, while Hanji 769 is an Eastern Han office-choice case; the shared claim is comparative office value, not identical institutional context.
+- 汉纪 487 is a Western Han access-loss case, while 汉纪 769 is an Eastern Han office-choice case; the shared claim is comparative office value, not identical institutional context.
 - Ren Liang, Yao Ping, Wei Commandery procedure, and the full secret memorial text remain source-scoped.
 
 ### Late Han 772 773 He Exception Frontier And Harem Danger
 
-[[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|Hanji 772]] and [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|Hanji 773]] backfill the late [[EmperorHeOfHan]] governance layer before Hanji 774 and Hanji 775: Liu Kai refuses hereditary succession so Liu Xian can inherit, Jia Kui and Emperor He make the case a bounded moral exception, and [[RitualRenunciationPoliticalCapital]] captures how title refusal can become public reputation and office access without becoming a general succession rule. The same 772 layer adds Lu Pi's court classics debate under [[TruthSeekingDebateNorm]] and makes [[MiTangQiangLeader]]'s failed surrender, renewed [[ShaodangQiang]] rebellion, defeat, relocation, and collapse the prelude to Cao Feng's frontier recommendation. Hanji 773 then supplies the fuller [[CaoFengLateHan]] / [[FrontierResourceIntegration]] policy and the harem-danger branch: Cao Feng diagnoses Shaodang strength around the West Sea as a resource-control problem tied to fertile land, fishery, and salt, while [[EmpressYinHeLateHan]]'s threat against the Deng family and wugu-linked deposition make [[EmpressDowagerDengLateHan]]'s rise part of [[WuguPoliticalPanic]] and [[FemalePowerCenterPoliticalCapacity]].
+[[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae|汉纪 772]] and [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5|汉纪 773]] backfill the late [[EmperorHeOfHan]] governance layer before 汉纪 774 and 汉纪 775: Liu Kai refuses hereditary succession so Liu Xian can inherit, Jia Kui and Emperor He make the case a bounded moral exception, and [[RitualRenunciationPoliticalCapital]] captures how title refusal can become public reputation and office access without becoming a general succession rule. The same 772 layer adds Lu Pi's court classics debate under [[TruthSeekingDebateNorm]] and makes [[MiTangQiangLeader]]'s failed surrender, renewed [[ShaodangQiang]] rebellion, defeat, relocation, and collapse the prelude to Cao Feng's frontier recommendation. 汉纪 773 then supplies the fuller [[CaoFengLateHan]] / [[FrontierResourceIntegration]] policy and the harem-danger branch: Cao Feng diagnoses Shaodang strength around the West Sea as a resource-control problem tied to fertile land, fishery, and salt, while [[EmpressYinHeLateHan]]'s threat against the Deng family and wugu-linked deposition make [[EmpressDowagerDengLateHan]]'s rise part of [[WuguPoliticalPanic]] and [[FemalePowerCenterPoliticalCapacity]].
 
 **Evidence:** [[zizhi-tongjian-hanji-772-ta-weihe-ningyuan-chengwei-taofan-ye-buyuan-jicheng-jiaye-lrou5naye7opb5favwuz6bqbggae]], [[zizhi-tongjian-hanji-773-donghan-meinv-zhengzhijia-dengsui-ruhe-nixi-cheng-huanghou-lsmm5ngthj368guumm2xbwc3vea5]], [[EmperorHeOfHan]], [[LiuKaiEasternHan]], [[LiuXianEasternHan]], [[JiaKuiEasternHan]], [[RitualRenunciationPoliticalCapital]], [[LuPiEasternHan]], [[TruthSeekingDebateNorm]], [[MiTangQiangLeader]], [[ShaodangQiang]], [[CaoFengLateHan]], [[FrontierResourceIntegration]], [[EmpressYinHeLateHan]], [[EmpressDowagerDengLateHan]], [[WuguPoliticalPanic]], [[FemalePowerCenterPoliticalCapacity]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 772 and Hanji 773 as backfills before Hanji 774 and Hanji 775; it adds an Emperor-He prelude rather than replacing later Deng-regency, Western Regions, Qiang-war, or succession claims.
-- Hanji 772 normalizes transcript forms 刘凯/刘县/贾奎 to Liu Kai/Liu Xian/Jia Kui, treats the 曹丕 line as Lu Pi rather than the later Cao Pi, and preserves motive and minor frontier details as source-scoped.
-- Hanji 773 still mainly reaches Empress Yin's deposition rather than a full Deng appointment-and-regency account; Deng Zhu, the wugu accusation, minor investigators, exile figures, Wushan Man, and Changshan succession names remain source-scoped.
+- This claim is source-scoped to 汉纪 772 and 汉纪 773 as backfills before 汉纪 774 and 汉纪 775; it adds an Emperor-He prelude rather than replacing later Deng-regency, Western Regions, Qiang-war, or succession claims.
+- 汉纪 772 normalizes transcript forms 刘凯/刘县/贾奎 to Liu Kai/Liu Xian/Jia Kui, treats the 曹丕 line as Lu Pi rather than the later Cao Pi, and preserves motive and minor frontier details as source-scoped.
+- 汉纪 773 still mainly reaches Empress Yin's deposition rather than a full Deng appointment-and-regency account; Deng Zhu, the wugu accusation, minor investigators, exile figures, Wushan Man, and Changshan succession names remain source-scoped.
 
 ### Late Han 106 Deng Opening Regency Staffing And Reserve
 
-[[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|Hanji 777]] and [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]] push the Deng-regency governance branch back to the 106 CE accession and institutional threshold before [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]]: after [[EmperorHeOfHan]] dies, [[EmpressDowagerDengLateHan]] chooses [[EmperorShangOfHan|Liu Long / Emperor Shang]], checks palace theft and Ji Cheng's wugu accusation through [[PalaceAccusationVerification]], keeps Northern Xiongnu contact cautious, and honors [[WangHuanLateHan]]'s Luoyang governance; she then keeps [[EmperorAnOfHan|Liu Hu]] near the capital as succession reserve, staffs the court through Zhang Yu and Xu Fang, uses [[DengZhiLateHan]] and the [[DengFamilyAnEraLateHan]] while warning against shielding them, cuts palace costs, demands truer disaster reporting, and faces the Western Regions crisis involving [[LiangJinLateHan]] and [[DuanXiLateHan]]. [[FemalePowerCenterPoliticalCapacity]], [[RegencyUnderCompoundCrisis]], and [[HumaneLocalGovernance]] capture the institutional consequence: early regency capacity is tested by succession triage, legal verification, public trust, staffing, information quality, austerity, frontier pressure, and kin discipline at the same time.
+[[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|汉纪 777]] and [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|汉纪 778]] push the Deng-regency governance branch back to the 106 CE accession and institutional threshold before [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|汉纪 779]]: after [[EmperorHeOfHan]] dies, [[EmpressDowagerDengLateHan]] chooses [[EmperorShangOfHan|Liu Long / Emperor Shang]], checks palace theft and Ji Cheng's wugu accusation through [[PalaceAccusationVerification]], keeps Northern Xiongnu contact cautious, and honors [[WangHuanLateHan]]'s Luoyang governance; she then keeps [[EmperorAnOfHan|Liu Hu]] near the capital as succession reserve, staffs the court through Zhang Yu and Xu Fang, uses [[DengZhiLateHan]] and the [[DengFamilyAnEraLateHan]] while warning against shielding them, cuts palace costs, demands truer disaster reporting, and faces the Western Regions crisis involving [[LiangJinLateHan]] and [[DuanXiLateHan]]. [[FemalePowerCenterPoliticalCapacity]], [[RegencyUnderCompoundCrisis]], and [[HumaneLocalGovernance]] capture the institutional consequence: early regency capacity is tested by succession triage, legal verification, public trust, staffing, information quality, austerity, frontier pressure, and kin discipline at the same time.
 
 **Evidence:** [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs]], [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp]], [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6]], [[EmperorHeOfHan]], [[EmpressDowagerDengLateHan]], [[EmperorShangOfHan]], [[PalaceAccusationVerification]], [[WangHuanLateHan]], [[EmperorAnOfHan]], [[DengZhiLateHan]], [[DengFamilyAnEraLateHan]], [[LiangJinLateHan]], [[DuanXiLateHan]], [[FemalePowerCenterPoliticalCapacity]], [[RegencyUnderCompoundCrisis]], [[HumaneLocalGovernance]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 777 and Hanji 778 as backfills before Hanji 779; it adds the accession-threshold, palace-verification, staffing, succession-reserve, information-quality, and kin-discipline layers rather than replacing later appointment-fit, coup, fiscal-war, or transfer claims.
+- This claim is source-scoped to 汉纪 777 and 汉纪 778 as backfills before 汉纪 779; it adds the accession-threshold, palace-verification, staffing, succession-reserve, information-quality, and kin-discipline layers rather than replacing later appointment-fit, coup, fiscal-war, or transfer claims.
 - Liu Sheng, Ji Cheng, Wang Shi, the Northern Xiongnu envoy/prince, Zhang Yu, Xu Fang, Geng Ji, Liu Qing, exact household figures, and minor Western Regions names remain source-scoped.
 - The gendered political-capacity framing is grounded in the episode interpretation of Deng's opening regency and should not be generalized to all women rulers without separate evidence.
 
 ### Late Han 106 107 Deng Appointment Fit Western Regions
 
-[[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|Hanji 779]] adds a 106-107 CE [[EmpressDowagerDengLateHan]] governance layer before [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]]: [[FanZhunLateHan]] repairs the scholar-instructor pipeline, [[LuGongLateHan]] corrects judicial timing around farming and capital-case review, and [[RenShangLateHan]] fails the Western Regions handoff from [[BanChaoEasternHan]] because military reputation does not substitute for light-touch local governance. [[LiangJinLateHan]], [[DuanXiLateHan]], and [[QiuciKingdom]] make the rescue-and-relocation aftermath visible, while [[AppointmentQualityAsStateCapacity]], [[TalentVirtueDistinction]], [[StrategicFrontierAbandonment]], and [[RegencyUnderCompoundCrisis]] capture the institutional consequence: using the wrong person can convert inherited frontier leverage into rebellion, cost, and withdrawal.
+[[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6|汉纪 779]] adds a 106-107 CE [[EmpressDowagerDengLateHan]] governance layer before [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]]: [[FanZhunLateHan]] repairs the scholar-instructor pipeline, [[LuGongLateHan]] corrects judicial timing around farming and capital-case review, and [[RenShangLateHan]] fails the Western Regions handoff from [[BanChaoEasternHan]] because military reputation does not substitute for light-touch local governance. [[LiangJinLateHan]], [[DuanXiLateHan]], and [[QiuciKingdom]] make the rescue-and-relocation aftermath visible, while [[AppointmentQualityAsStateCapacity]], [[TalentVirtueDistinction]], [[StrategicFrontierAbandonment]], and [[RegencyUnderCompoundCrisis]] capture the institutional consequence: using the wrong person can convert inherited frontier leverage into rebellion, cost, and withdrawal.
 
 **Evidence:** [[zizhi-tongjian-hanji-779-lishi-gaosu-ni-yongcuo-ren-jing-hui-wangguo-miejia-liwe-syvny7vfmn4xpy24mgvd-z6]], [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa]], [[EmpressDowagerDengLateHan]], [[FanZhunLateHan]], [[LuGongLateHan]], [[RenShangLateHan]], [[BanChaoEasternHan]], [[LiangJinLateHan]], [[DuanXiLateHan]], [[QiuciKingdom]], [[AppointmentQualityAsStateCapacity]], [[TalentVirtueDistinction]], [[StrategicFrontierAbandonment]], [[RegencyUnderCompoundCrisis]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 779 as a 106-107 CE backfill before Hanji 780 and does not replace the later Deng-regency fiscal, Qiang-war, Western Regions recovery, or transfer claims.
+- This claim is source-scoped to 汉纪 779 as a 106-107 CE backfill before 汉纪 780 and does not replace the later Deng-regency fiscal, Qiang-war, Western Regions recovery, or transfer claims.
 - Fan Zhun is normalized from the source transcript form 反准 to 樊准; the Qinghe prince Liu Qing is kept source-scoped to avoid collision with the modern Liu Qing page.
 - Ba Ba, Pan Tuo, Gumo, Wensu, Zhao Bo, Liu Changbao, and exact minor office or date details remain source-scoped.
 
 ### Late Han 106 Deng Succession Coup Disaster Redirection
 
-[[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|Hanji 781]] pushes the Deng-regency governance layer back to 106-108 CE: [[EmpressDowagerDengLateHan]] converts [[EmperorShangOfHan]]'s fragile infant accession and death into prepared [[EmperorAnOfHan]] succession, suppresses [[ZhouZhangLateHan]]'s anti-regency deposition plot, accepts [[FanZhunLateHan]]'s relief program, and creates [[DisasterOmenCrisisRedirection]] by answering disaster-omen attacks through prison review and local-official accountability. The same paragraph extends [[RegencyUnderCompoundCrisis]], [[DengFamilyAnEraLateHan]], [[Xianbei]], and [[NaturalDisasterPoliticalOmen]] because succession security, coup risk, refugees, frontier incorporation, Qiang pressure, and omen politics are active before Hanji 782's fiscal-war crisis.
+[[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz|汉纪 781]] pushes the Deng-regency governance layer back to 106-108 CE: [[EmpressDowagerDengLateHan]] converts [[EmperorShangOfHan]]'s fragile infant accession and death into prepared [[EmperorAnOfHan]] succession, suppresses [[ZhouZhangLateHan]]'s anti-regency deposition plot, accepts [[FanZhunLateHan]]'s relief program, and creates [[DisasterOmenCrisisRedirection]] by answering disaster-omen attacks through prison review and local-official accountability. The same paragraph extends [[RegencyUnderCompoundCrisis]], [[DengFamilyAnEraLateHan]], [[Xianbei]], and [[NaturalDisasterPoliticalOmen]] because succession security, coup risk, refugees, frontier incorporation, Qiang pressure, and omen politics are active before 汉纪 782's fiscal-war crisis.
 
 **Evidence:** [[zizhi-tongjian-hanji-781-yushan-cai-shi-ren-dui-ji-zui-da-de-e-luvaw93hnnxcbgfnwgsjb7x0hlqz]], [[EmpressDowagerDengLateHan]], [[EmperorShangOfHan]], [[EmperorAnOfHan]], [[ZhouZhangLateHan]], [[FanZhunLateHan]], [[DisasterOmenCrisisRedirection]], [[RegencyUnderCompoundCrisis]], [[DengFamilyAnEraLateHan]], [[Xianbei]], [[NaturalDisasterPoliticalOmen]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 781 as a 106-108 CE backfill before Hanji 782; it adds an opening succession-security layer rather than replacing later Deng-regency fiscal, Qiang-war, transfer, or purge claims.
+- This claim is source-scoped to 汉纪 781 as a 106-108 CE backfill before 汉纪 782; it adds an opening succession-security layer rather than replacing later Deng-regency fiscal, Qiang-war, transfer, or purge claims.
 - Liu Sheng, Zheng Zhong, Cai Lun, Zhang Yu, Zhang Min, Yanliyang, Liang Jin, Lu Cang, prison details, and exact disaster notices remain source-scoped.
 - The disaster-omen redirection reading is grounded in the episode account of prison review and local-official punishment; it does not prove that the review caused rain or solved the broader disaster field.
 
 ### Late Han 121 Deng Regency Transfer And Restoration
 
-[[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|Hanji 793]] moves An-era governance back to the 121 CE Deng transition: [[EmpressDowagerDengLateHan]] is assessed through [[RegencyUnderCompoundCrisis]] rather than a named death cause, while [[EmperorAnOfHan]] opens personal rule by accepting [[ChenZhongLateHan]]'s recommendations and restoring [[DuGenLateHan]] and [[ChengYishiLateHan]], making personnel repair coexist with continuing frontier pressure around [[MaXianLateHan]].
+[[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i|汉纪 793]] moves An-era governance back to the 121 CE Deng transition: [[EmpressDowagerDengLateHan]] is assessed through [[RegencyUnderCompoundCrisis]] rather than a named death cause, while [[EmperorAnOfHan]] opens personal rule by accepting [[ChenZhongLateHan]]'s recommendations and restoring [[DuGenLateHan]] and [[ChengYishiLateHan]], making personnel repair coexist with continuing frontier pressure around [[MaXianLateHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-793-lishi-zhuming-nvhuang-dengsui-zenme-si-de-lszfgj7waiuusrddzjmv5mbrp1i]], [[EmpressDowagerDengLateHan]], [[RegencyUnderCompoundCrisis]], [[EmperorAnOfHan]], [[ChenZhongLateHan]], [[DuGenLateHan]], [[ChengYishiLateHan]], [[MaXianLateHan]]
 
 **Qualifications:**
 
 - The episode gives illness and death dates for Empress Dowager Deng but no specific medical cause.
-- This claim backfills the pre-Hanji 794 transfer layer and does not revise the later Deng purge, private-favor erosion, or Yang Zhen crisis branches.
+- This claim backfills the pre-汉纪 794 transfer layer and does not revise the later Deng purge, private-favor erosion, or Yang Zhen crisis branches.
 - Liu Qing, Zuo Shi, Song Guiren, Lu Cong, Du Chong, Ren Liang, and Yin Yi remain source-scoped.
 
 ### Late Han 121 Official Mourning And Forged Command
 
-[[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] backfills a 121-122 CE [[EmperorAnOfHan]] governance layer before [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]]: eunuch access filtering lets high-official mourning be cancelled despite [[ChenZhongLateHan]]'s [[OfficialMourningDutyConflict]] defense, the same adviser persuades An to accept [[MourningDiplomaticRestraint]] against [[YaoGuangLateHan]]'s proposed attack on [[GoguryeoLateHan]], and [[ForgedEdictLocalExecution]] shows enemies of Yao and [[FengHuanLateHan]] converting counterfeit imperial command into lethal local obedience.
+[[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] backfills a 121-122 CE [[EmperorAnOfHan]] governance layer before [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]]: eunuch access filtering lets high-official mourning be cancelled despite [[ChenZhongLateHan]]'s [[OfficialMourningDutyConflict]] defense, the same adviser persuades An to accept [[MourningDiplomaticRestraint]] against [[YaoGuangLateHan]]'s proposed attack on [[GoguryeoLateHan]], and [[ForgedEdictLocalExecution]] shows enemies of Yao and [[FengHuanLateHan]] converting counterfeit imperial command into lethal local obedience.
 
 **Evidence:** [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6]], [[EmperorAnOfHan]], [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5]], [[ChenZhongLateHan]], [[OfficialMourningDutyConflict]], [[MourningDiplomaticRestraint]], [[YaoGuangLateHan]], [[GoguryeoLateHan]], [[ForgedEdictLocalExecution]], [[FengHuanLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 797 and backfills the An-era branch before the already generated Hanji 798-802 sequence.
+- This claim is source-scoped to 汉纪 797 and backfills the An-era branch before the already generated 汉纪 798-802 sequence.
 - The episode title's loyalty-versus-filiality frame should not be flattened into a private moral dilemma; the source also turns on eunuch access, institutional precedent, frontier legitimacy, and document authenticity.
 - The forged-edict correction occurs only after Yao Guang has already been executed, so the institutional lesson is delayed verification rather than successful prevention.
 
 ### Late Han 124 An Heir Deposition And Threatened Remonstrance
 
-[[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|Hanji 801]] backfills a 124 CE [[EmperorAnOfHan]] succession-governance layer before [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]]: [[FanFengEunuchLateHan]] and [[EmpressDowagerYanLateHan]] turn palace slander into fabricated charges against [[EmperorShunOfHan]], while [[LaiLiLateHan]], [[ZhangHaoRemonstratorLateHan]], and [[HuanYanLateHan]] argue age, innocence, and precedent. Emperor An treats broad support for the ten-year-old heir as [[HeirSupportThreatPerception]], threatens Hongdu Gate remonstrants, and punishes Lai Li, making [[DirectRemonstranceCriminalization]] visible before the death-concealment succession purge.
+[[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy|汉纪 801]] backfills a 124 CE [[EmperorAnOfHan]] succession-governance layer before [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|汉纪 802]]: [[FanFengEunuchLateHan]] and [[EmpressDowagerYanLateHan]] turn palace slander into fabricated charges against [[EmperorShunOfHan]], while [[LaiLiLateHan]], [[ZhangHaoRemonstratorLateHan]], and [[HuanYanLateHan]] argue age, innocence, and precedent. Emperor An treats broad support for the ten-year-old heir as [[HeirSupportThreatPerception]], threatens Hongdu Gate remonstrants, and punishes Lai Li, making [[DirectRemonstranceCriminalization]] visible before the death-concealment succession purge.
 
 **Evidence:** [[zizhi-tongjian-hanji-801-han-andi-weishenme-henxin-fei-taizi-lgnhbsqnp6vdigsmqfkxiqmx2vdy]], [[EmperorAnOfHan]], [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj]], [[FanFengEunuchLateHan]], [[EmpressDowagerYanLateHan]], [[EmperorShunOfHan]], [[LaiLiLateHan]], [[ZhangHaoRemonstratorLateHan]], [[HuanYanLateHan]], [[HeirSupportThreatPerception]], [[DirectRemonstranceCriminalization]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 801 and backfills the Shun succession crisis before the concealed-death and Yan-family purge layer in Hanji 802.
+- This claim is source-scoped to 汉纪 801 and backfills the Shun succession crisis before the concealed-death and Yan-family purge layer in 汉纪 802.
 - The 王胜/王圣 rendering, Wang Nan, Bing Ji, Tuo Feng, Liu Wei, Xue Hao, Lvqiu Hong, Chen Guang, Zhao Dai, Chen Zhong, Wu'an Princess, and minor frontier/disaster notices remain source-scoped.
 - The threat-perception reading is an interpretation grounded in the episode account of broad official support for Liu Bao, not an explicit imperial confession.
 
 ### Late Han 133 Shun Private Favor Dignity Repair
 
-[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|Hanji 813]] backfills the opening 133 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] and [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]]: [[LangYiLateHan]] turns drought into counsel and recommendation, [[ZuoXiongLateHan]] draws a title boundary around [[SongELateHan]] and [[LiangJiLateHan]], [[LiangShangLateHan]] makes that boundary partly effective by refusing his son's title, [[LiuJuLateHan]]'s beating creates [[MinisterialDignityProtection]], and [[LiGuLateHan]] broadens the same critique into wet-nurse and outer-relative power under [[PrivateFavorAppointmentErosion]] and [[OmenCodedRemonstrance]].
+[[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv|汉纪 813]] backfills the opening 133 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]] and [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]]: [[LangYiLateHan]] turns drought into counsel and recommendation, [[ZuoXiongLateHan]] draws a title boundary around [[SongELateHan]] and [[LiangJiLateHan]], [[LiangShangLateHan]] makes that boundary partly effective by refusing his son's title, [[LiuJuLateHan]]'s beating creates [[MinisterialDignityProtection]], and [[LiGuLateHan]] broadens the same critique into wet-nurse and outer-relative power under [[PrivateFavorAppointmentErosion]] and [[OmenCodedRemonstrance]].
 
 **Evidence:** [[zizhi-tongjian-hanji-813-gudai-de-gaoguan-jing-ye-hui-bei-ouda-ln-dw3xohnmpavkpu-bdvasvietv]], [[EmperorShunOfHan]], [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p]], [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v]], [[LangYiLateHan]], [[ZuoXiongLateHan]], [[SongELateHan]], [[LiangJiLateHan]], [[LiangShangLateHan]], [[LiuJuLateHan]], [[MinisterialDignityProtection]], [[LiGuLateHan]], [[PrivateFavorAppointmentErosion]], [[OmenCodedRemonstrance]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 813 as a 133 CE backfill immediately before Hanji 814 and Hanji 815; it moves the Shun-era governance starting point earlier but does not replace the later ground-split, Song E removal, or Wang Gong/Jiaozhi layers.
+- This claim is source-scoped to 汉纪 813 as a 133 CE backfill immediately before 汉纪 814 and 汉纪 815; it moves the Shun-era governance starting point earlier but does not replace the later ground-split, Song E removal, or Wang Gong/Jiaozhi layers.
 - The episode shows partial repair: Shun drops the Liang-family title attempt and stops beating nine ministers, but he keeps Song E's title.
 - Transcript forms 郎毅, 黄穹, 梁毅/乡义侯, and 刘巨 are normalized cautiously in the source note.
 
 ### Late Han 133 Shun Disaster Inquiry Appointment And Public Welfare
 
-[[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|Hanji 814]] backfills the 133 CE [[EmperorShunOfHan]] disaster-remonstrance layer before [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] and [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]]: a ground split lets [[LiGuLateHan]] recast Shun's inquiry as [[OmenCodedRemonstrance]] against [[PrivateFavorAppointmentErosion]], Shangshu unfairness, [[CourtCoreRectification]], [[CourtFeedbackCollapse]], and [[PalaceProximityPower]], while [[MaRongLateHan]] makes [[BeneficialGovernanceDelivery]] a public-welfare standard by warning that formal law and repeated promises matter little unless households, farming seasons, funerals, and marriage costs actually improve. The claim extends [[AppointmentQualityAsStateCapacity]] by making office grants to wet nurses, relatives, attendants, and palace-adjacent children an institutional-capacity problem before Hanji 815's partial Song E correction.
+[[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p|汉纪 814]] backfills the 133 CE [[EmperorShunOfHan]] disaster-remonstrance layer before [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] and [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]]: a ground split lets [[LiGuLateHan]] recast Shun's inquiry as [[OmenCodedRemonstrance]] against [[PrivateFavorAppointmentErosion]], Shangshu unfairness, [[CourtCoreRectification]], [[CourtFeedbackCollapse]], and [[PalaceProximityPower]], while [[MaRongLateHan]] makes [[BeneficialGovernanceDelivery]] a public-welfare standard by warning that formal law and repeated promises matter little unless households, farming seasons, funerals, and marriage costs actually improve. The claim extends [[AppointmentQualityAsStateCapacity]] by making office grants to wet nurses, relatives, attendants, and palace-adjacent children an institutional-capacity problem before 汉纪 815's partial Song E correction.
 
 **Evidence:** [[zizhi-tongjian-hanji-814-dangguan-buwei-min-zuozhu-buru-huijia-mai-hongshu-lqlrfpuenzhr1tbrdd3urtolfw2p]], [[EmperorShunOfHan]], [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v]], [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc]], [[PrivateFavorAppointmentErosion]], [[CourtCoreRectification]], [[BeneficialGovernanceDelivery]], [[LiGuLateHan]], [[MaRongLateHan]], [[OmenCodedRemonstrance]], [[AppointmentQualityAsStateCapacity]], [[CourtFeedbackCollapse]], [[PalaceProximityPower]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 814 as a 133 CE backfill immediately before Hanji 815 and Hanji 816; it adds an earlier disaster-inquiry and appointment-repair layer rather than replacing the later Song E, Zhang Heng, Zhou Ju, Wang Gong, Jiaozhi, Liang, or succession claims.
+- This claim is source-scoped to 汉纪 814 as a 133 CE backfill immediately before 汉纪 815 and 汉纪 816; it adds an earlier disaster-inquiry and appointment-repair layer rather than replacing the later Song E, Zhang Heng, Zhou Ju, Wang Gong, Jiaozhi, Liang, or succession claims.
 - The meditation advertisement, opening self-cultivation frame, minor palace-office holders, and exact staffing figures remain source-scoped.
 - The source shows Li Gu using disaster language to diagnose institutional causes; it should not be treated as a free-standing omen theory separate from appointment and court-core repair.
 
 ### Late Han 133 Shun Palace Correction Household Liability
 
-[[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] backfills the 133 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|Hanji 816]]: [[LiGuLateHan]] briefly converts advice into action when Shun sends [[SongELateHan]] out of the palace, but [[AnonymousSlanderRetaliation]] and direct-edict investigation push him away; [[ZhangHengLateHan]] treats Xiaolian criteria and mass local-official removals as [[AppointmentQualityAsStateCapacity]] problems; and [[PangCanLateHan]]'s defended moral reputation collapses when a household murder lets [[ZhuLiangLuoyangLateHan]] impeach him, creating [[HouseholdMisconductPoliticalLiability]]. The same note marks [[DuanGongchengLateHan]], [[ShiYanLateHan]], and [[QizhijianXianbei]] as narrow Shun-era office and frontier links.
+[[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] backfills the 133 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc|汉纪 816]]: [[LiGuLateHan]] briefly converts advice into action when Shun sends [[SongELateHan]] out of the palace, but [[AnonymousSlanderRetaliation]] and direct-edict investigation push him away; [[ZhangHengLateHan]] treats Xiaolian criteria and mass local-official removals as [[AppointmentQualityAsStateCapacity]] problems; and [[PangCanLateHan]]'s defended moral reputation collapses when a household murder lets [[ZhuLiangLuoyangLateHan]] impeach him, creating [[HouseholdMisconductPoliticalLiability]]. The same note marks [[DuanGongchengLateHan]], [[ShiYanLateHan]], and [[QizhijianXianbei]] as narrow Shun-era office and frontier links.
 
 **Evidence:** [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v]], [[zizhi-tongjian-hanji-816-xiangyao-naxia-nide-lingdao-qishi-hen-jiandan-lva3y4hgu7kn1z4jmhy6jn4-oyvc]], [[EmperorShunOfHan]], [[LiGuLateHan]], [[SongELateHan]], [[AnonymousSlanderRetaliation]], [[ZhangHengLateHan]], [[AppointmentQualityAsStateCapacity]], [[PangCanLateHan]], [[ZhuLiangLuoyangLateHan]], [[HouseholdMisconductPoliticalLiability]], [[DuanGongchengLateHan]], [[ShiYanLateHan]], [[QizhijianXianbei]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 815 as a 133 CE backfill before Hanji 816; it adds an earlier Shun-era governance layer rather than replacing later Wang Gong, Jiaozhi, Liang, or succession claims.
+- This claim is source-scoped to 汉纪 815 as a 133 CE backfill before 汉纪 816; it adds an earlier Shun-era governance layer rather than replacing later Wang Gong, Jiaozhi, Liang, or succession claims.
 - Song E's full network, the exact anonymous-letter wording, Pang Can's unnamed household members, Ma Cheng, and Qizhijian succession details remain source-scoped.
 - Pang Can's dismissal is also framed through disaster and epidemic accountability, so household misconduct is treated as impeachment leverage inside a broader omen-and-accountability field rather than the only cause.
 
 ### Late Han 135 136 Shun Correction And Prudent Nonaction
 
-[[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|Hanji 817]] backfills a 135-136 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]]: eunuch adopted-son title inheritance, [[ZhangGangLateHan]] memorial ignored by Shun, and [[LiGuLateHan]] disaster-framed counsel to [[LiangShangLateHan]] not adopted show corrective advice reaching power without structural repair, while Liang Shang apparent softness extends [[PrudentAmbiguitySelfProtection]] as position-aware non-action under emperor, eunuch, official, and outer-relative tension.
+[[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye|汉纪 817]] backfills a 135-136 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]]: eunuch adopted-son title inheritance, [[ZhangGangLateHan]] memorial ignored by Shun, and [[LiGuLateHan]] disaster-framed counsel to [[LiangShangLateHan]] not adopted show corrective advice reaching power without structural repair, while Liang Shang apparent softness extends [[PrudentAmbiguitySelfProtection]] as position-aware non-action under emperor, eunuch, official, and outer-relative tension.
 
 **Evidence:** [[zizhi-tongjian-hanji-817-kan-si-ruanruo-de-ren-shize-huode-geng-tongtou-llmgqys237de3dzb6ij-4szyetye]], [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr]], [[EmperorShunOfHan]], [[ZhangGangLateHan]], [[LiGuLateHan]], [[LiangShangLateHan]], [[PrudentAmbiguitySelfProtection]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 817 as a backfill before Hanji 818; it adds an earlier Shun-era correction-failure layer rather than replacing the Wang Gong, Jiaozhi, or Liang Ji escalation claims.
+- This claim is source-scoped to 汉纪 817 as a backfill before 汉纪 818; it adds an earlier Shun-era correction-failure layer rather than replacing the Wang Gong, Jiaozhi, or Liang Ji escalation claims.
 - Liang Shang inner motive remains inferred from the episode power-balance reading; the source supports prudent non-action as plausible, not proven.
 - Pang Can, Huan Yan, Yang Lun, Geng Ye, Huyan Wang, exact disaster or omen dates, and the eunuch adopted-son statute remain source-scoped.
 
 ### Late Han 138 Jiaozhi Appointment Retrenchment
 
-[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] backfills a 138 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]]: [[LiGuLateHan]] rejects a 40,000-soldier [[JiaozhiCommandery]] expedition because disease, distance, local unrest, food cost, and conscription backlash would deepen the crisis, then replaces scale with [[ZhangQiaoLateHan]], [[ZhuLiangLateHan]], [[TemporaryFrontierRetrenchment]], [[BountyMobilizedPacification]], and recommendation-boundary evidence through [[ZhouJuLateHan]] and [[ZuoXiongLateHan]]. The claim extends [[AppointmentQualityAsStateCapacity]] and [[FrontierConscriptionBackfire]] as governance mechanisms.
+[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] backfills a 138 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]]: [[LiGuLateHan]] rejects a 40,000-soldier [[JiaozhiCommandery]] expedition because disease, distance, local unrest, food cost, and conscription backlash would deepen the crisis, then replaces scale with [[ZhangQiaoLateHan]], [[ZhuLiangLateHan]], [[TemporaryFrontierRetrenchment]], [[BountyMobilizedPacification]], and recommendation-boundary evidence through [[ZhouJuLateHan]] and [[ZuoXiongLateHan]]. The claim extends [[AppointmentQualityAsStateCapacity]] and [[FrontierConscriptionBackfire]] as governance mechanisms.
 
 **Evidence:** [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff]], [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap]], [[EmperorShunOfHan]], [[LiGuLateHan]], [[JiaozhiCommandery]], [[ZhangQiaoLateHan]], [[ZhuLiangLateHan]], [[TemporaryFrontierRetrenchment]], [[BountyMobilizedPacification]], [[ZhouJuLateHan]], [[ZuoXiongLateHan]], [[AppointmentQualityAsStateCapacity]], [[FrontierConscriptionBackfire]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 819 as a backfill immediately before Hanji 820; it qualifies the later Shun failure pattern by adding a successful earlier decision.
+- This claim is source-scoped to 汉纪 819 as a backfill immediately before 汉纪 820; it qualifies the later Shun failure pattern by adding a successful earlier decision.
 - The reward, retrenchment, and appointment components are one combined plan in the source, so none should be treated as sufficient by itself.
 - Liang He, Feng Zhi, Zhang Kui, Cao Teng and Meng Wen accusation details, and minor place-name variants remain source-scoped pending later evidence.
 
 ### Late Han 139 140 Shun Responsibility And Frontier Command
 
-[[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] backfills the 139-140 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]]: [[LiangShangLateHan]] narrows the Zhang Kui accusation case and restrains [[LiangBuyiLateHan]]'s premature military appointment, while [[ChenGuiDuliaoGeneralLateHan]]'s unauthorized coercion of [[XiuliChanyu]] turns [[SouthernXiongnu]] command discretion into a legitimacy failure. [[MaXuLateHan]]'s fortified surrender policy under Liang Shang's advice connects [[FortifiedAttritionPatience]], [[UnauthorizedFrontierCommandIntervention]], [[BlameAbsorbingResponsibility]], and [[FrontierCommandCollapse]] as one responsibility-boundary case before [[MaXianLateHan]]'s later delayed Qiang command.
+[[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] backfills the 139-140 CE [[EmperorShunOfHan]] governance layer before [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|汉纪 821]]: [[LiangShangLateHan]] narrows the Zhang Kui accusation case and restrains [[LiangBuyiLateHan]]'s premature military appointment, while [[ChenGuiDuliaoGeneralLateHan]]'s unauthorized coercion of [[XiuliChanyu]] turns [[SouthernXiongnu]] command discretion into a legitimacy failure. [[MaXuLateHan]]'s fortified surrender policy under Liang Shang's advice connects [[FortifiedAttritionPatience]], [[UnauthorizedFrontierCommandIntervention]], [[BlameAbsorbingResponsibility]], and [[FrontierCommandCollapse]] as one responsibility-boundary case before [[MaXianLateHan]]'s later delayed Qiang command.
 
 **Evidence:** [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap]], [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh]], [[EmperorShunOfHan]], [[LiangShangLateHan]], [[LiangBuyiLateHan]], [[ChenGuiDuliaoGeneralLateHan]], [[XiuliChanyu]], [[SouthernXiongnu]], [[MaXuLateHan]], [[FortifiedAttritionPatience]], [[UnauthorizedFrontierCommandIntervention]], [[BlameAbsorbingResponsibility]], [[FrontierCommandCollapse]], [[MaXianLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 820 as a backfill immediately before Hanji 821; it qualifies but does not replace the later Ma Xian failure claim.
+- This claim is source-scoped to 汉纪 820 as a backfill immediately before 汉纪 821; it qualifies but does not replace the later Ma Xian failure claim.
 - The source-note normalization treats 马旭, 梁炳, 武司, 陈圭, 张耽, and 修立 as 马续, 梁并, 句龙王吾斯, 陈龟, 张躭, and 休利 with caution.
 - The episode frames workplace blame absorption, but Chen Gui remains a negative boundary case because the underlying action is unauthorized and harmful rather than clean voluntary responsibility-taking.
 
 ### Late Han 142 Guangling Pacification And Local Office Modes
 
-[[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|Hanji 823]] fills the 142 CE [[EmperorShunOfHan]] local-governance layer between [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] and [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]]: [[ZhangGangLateHan]] turns [[ZhangYingGuanglingLateHan]] at [[GuanglingCommandery]] into a surrender case through grievance acknowledgement, pardon, threatened state force, and concrete housing, land, and office pathways, while [[RenJunLuoyangLateHan]], [[SuZhangLateHan]], and [[WuYouLateHan]] show adjacent official modes of staffing deterrence, public-law impartiality, and humane correction under [[RootCausePacification]] and [[HumaneLocalGovernance]].
+[[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2|汉纪 823]] fills the 142 CE [[EmperorShunOfHan]] local-governance layer between [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|汉纪 822]] and [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]]: [[ZhangGangLateHan]] turns [[ZhangYingGuanglingLateHan]] at [[GuanglingCommandery]] into a surrender case through grievance acknowledgement, pardon, threatened state force, and concrete housing, land, and office pathways, while [[RenJunLuoyangLateHan]], [[SuZhangLateHan]], and [[WuYouLateHan]] show adjacent official modes of staffing deterrence, public-law impartiality, and humane correction under [[RootCausePacification]] and [[HumaneLocalGovernance]].
 
 **Evidence:** [[zizhi-tongjian-hanji-823-bingbuxueren-shou-zeikou-ta-ruhe-zuodao-de-luai1f0nhb-ddajli99dw4bxj9m2]], [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv]], [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9]], [[EmperorShunOfHan]], [[ZhangGangLateHan]], [[ZhangYingGuanglingLateHan]], [[GuanglingCommandery]], [[RenJunLuoyangLateHan]], [[SuZhangLateHan]], [[WuYouLateHan]], [[RootCausePacification]], [[HumaneLocalGovernance]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 823 and backfills the interval between the Hanji 822 buried-wheel impeachment layer and the Hanji 824 final-Shun-year layer.
+- This claim is source-scoped to 汉纪 823 and backfills the interval between the 汉纪 822 buried-wheel impeachment layer and the 汉纪 824 final-Shun-year layer.
 - The source normalizes transcript forms such as 张刚, 张英, 广邻, 梁继, 任郡, 济州刺史, 吴佑, and 孙杏 to 张纲, 张婴, 广陵, 梁冀, 任峻, 冀州刺史, 吴祐, and 孙性; minor personnel notices remain source-scoped.
 
 ### Late Han 143 144 Shun Final Year Succession Security
 
-Hanji 824 shows [[EmperorShunOfHan|Emperor Shun]]'s final year combining appointment repair, frontier campaigning, disaster and unrest signals, and crown-prince credential enforcement before [[EmperorChongOfHan|Emperor Chong]]'s child accession.
+汉纪 824 shows [[EmperorShunOfHan|Emperor Shun]]'s final year combining appointment repair, frontier campaigning, disaster and unrest signals, and crown-prince credential enforcement before [[EmperorChongOfHan|Emperor Chong]]'s child accession.
 
 **Evidence:** [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9]], [[EmperorShunOfHan]], [[EmperorChongOfHan]], [[ZhongHaoLateHan]], [[ShouzhuoDecisiveRestraint]], [[AppointmentQualityAsStateCapacity]], [[CourtFeedbackCollapse]], [[OuterRelativeCourtPower]]
 
 **Qualifications:**
 
-- The claim is source-scoped to the 143-144 CE Hanji 824 backfill and does not by itself settle broader causes of Shun-era collapse or Gao Fan's intent.
+- The claim is source-scoped to the 143-144 CE 汉纪 824 backfill and does not by itself settle broader causes of Shun-era collapse or Gao Fan's intent.
 
 ### Late Han 141 142 Shun Layer Pacification And Blocked Liang Impeachment
 
-[[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] backfills the 141-142 CE Shun-era governance layer before [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]]: [[LiGuLateHan]] repairs Jingzhou and Taishan disorder through credible pardon, reduced troop pressure, selected force, and anti-corruption persistence, while corrupt Nanyang officials seek [[LiangJiLateHan]] protection and [[ZhangGangLateHan]] buried-wheel impeachment of Liang Ji and [[LiangBuyiLateHan]] exposes the protected center that [[EmperorShunOfHan]] recognizes but cannot immediately punish. The source links [[HumaneLocalGovernance]], [[RootCausePacification]], [[HighStatusLawEnforcementSignal]], and [[OuterRelativeCourtPower]] as one early Liang-family warning layer before the later Emperor Zhi and Emperor Huan escalation.
+[[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|汉纪 822]] backfills the 141-142 CE Shun-era governance layer before [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|汉纪 827]]: [[LiGuLateHan]] repairs Jingzhou and Taishan disorder through credible pardon, reduced troop pressure, selected force, and anti-corruption persistence, while corrupt Nanyang officials seek [[LiangJiLateHan]] protection and [[ZhangGangLateHan]] buried-wheel impeachment of Liang Ji and [[LiangBuyiLateHan]] exposes the protected center that [[EmperorShunOfHan]] recognizes but cannot immediately punish. The source links [[HumaneLocalGovernance]], [[RootCausePacification]], [[HighStatusLawEnforcementSignal]], and [[OuterRelativeCourtPower]] as one early Liang-family warning layer before the later Emperor Zhi and Emperor Huan escalation.
 
 **Evidence:** [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv]], [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2]], [[EmperorShunOfHan]], [[LiGuLateHan]], [[ZhangGangLateHan]], [[LiangJiLateHan]], [[LiangBuyiLateHan]], [[DuQiaoLateHan]], [[HumaneLocalGovernance]], [[RootCausePacification]], [[HighStatusLawEnforcementSignal]], [[OuterRelativeCourtPower]], [[RuiqiJiangtouZizhiTongjian]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 822 and backfills the 141-142 CE Emperor Shun layer before the existing Hanji 827-830 Liang/Li Gu sequence.
+- This claim is source-scoped to 汉纪 822 and backfills the 141-142 CE Emperor Shun layer before the existing 汉纪 827-830 Liang/Li Gu sequence.
 - The source shows protected impunity and direct exposure without immediate punishment; it does not yet show the later imperial murder, succession capture, or palace-coup liquidation layers.
 - Xia Mi, Gao Ci, Chong Hao, Wu Xiong, Wu Si, the other inspectors, and the exact fifteen-count impeachment remain source-scoped pending later evidence.
 
 ### Late Han 146 Emperor Zhi Murder And Accession Prehistory
 
-[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] pushes the Huan-era governance branch back to 146 CE: [[Taixue]] and Mingjing expansion show an education-to-office pipeline, while [[LiangJiLateHan]] poisons [[EmperorZhiOfHan]] after the "跋扈将军" remark, blocks water at the deathbed, and makes [[LiGuLateHan]] an exposure risk. The first succession move then recommends [[LiuSuanLateHan]] through Li Gu, [[HuGuangLateHan]], and [[DuQiaoLateHan]], while [[CaoTengLateHan]]'s private grievance begins the [[SelfProtectiveAccessionChoice]] logic that [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] later institutionalizes under [[OuterRelativeCourtPower]].
+[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|汉纪 827]] pushes the Huan-era governance branch back to 146 CE: [[Taixue]] and Mingjing expansion show an education-to-office pipeline, while [[LiangJiLateHan]] poisons [[EmperorZhiOfHan]] after the "跋扈将军" remark, blocks water at the deathbed, and makes [[LiGuLateHan]] an exposure risk. The first succession move then recommends [[LiuSuanLateHan]] through Li Gu, [[HuGuangLateHan]], and [[DuQiaoLateHan]], while [[CaoTengLateHan]]'s private grievance begins the [[SelfProtectiveAccessionChoice]] logic that [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|汉纪 828]] later institutionalizes under [[OuterRelativeCourtPower]].
 
 **Evidence:** [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2]], [[Taixue]], [[EmperorZhiOfHan]], [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e]], [[LiangJiLateHan]], [[LiGuLateHan]], [[DuQiaoLateHan]], [[HuGuangLateHan]], [[CaoTengLateHan]], [[LiuSuanLateHan]], [[OuterRelativeCourtPower]], [[SelfProtectiveAccessionChoice]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 827 as a backfill immediately before Hanji 828, not a full account of Emperor Zhi's reign or all Eastern-Han succession politics.
+- This claim is source-scoped to 汉纪 827 as a backfill immediately before 汉纪 828, not a full account of Emperor Zhi's reign or all Eastern-Han succession politics.
 - Zhao Jie, Liu Hong's Bohai reclassification, the sea-water disaster, exact Taixue enrollment count, and the moral-causality opening remain source-scoped.
 - The claim treats Cao Teng's personal grievance as a prehistory to self-protective succession logic rather than as the sole cause of Liu Suan's rejection.
 
 ### Late Han 147 Accession Reward Nonconversion Prelude
 
-[[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] adds the 147 CE accession prelude before Hanji 830: [[EmperorHuanOfHan]]'s accession rewards [[LiangJiLateHan]] and palace-side actors while [[DuQiaoLateHan]] warns that appointments and rewards are inverted; Huan ignores the warning, [[LiangJiLateHan]] turns Du Qiao's refusal of empress-level rites for [[EmpressLiangYingLateHan]] and refusal to recommend a corrupt shangshu candidate into resentment, and [[TangHengLateHan]] with [[ZuoGuanLateHan]] recode Du Qiao and [[LiGuLateHan]]'s earlier [[LiuSuanLateHan]] succession stance as personal offense to Huan. [[EmpressDowagerLiangNaLateHan]]'s placement of [[LiuKuiBohaiKing]] in [[BohaiKingdomLateHan]] and the failed [[LiuWenQingheRebelLateHan]] / [[LiuWeiNanjunRebelLateHan]] plot around [[QingheKingdomLateHan]] and [[XieHaoQingheLateHan]] show that alternative-succession memory remains politically active and lethal.
+[[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] adds the 147 CE accession prelude before 汉纪 830: [[EmperorHuanOfHan]]'s accession rewards [[LiangJiLateHan]] and palace-side actors while [[DuQiaoLateHan]] warns that appointments and rewards are inverted; Huan ignores the warning, [[LiangJiLateHan]] turns Du Qiao's refusal of empress-level rites for [[EmpressLiangYingLateHan]] and refusal to recommend a corrupt shangshu candidate into resentment, and [[TangHengLateHan]] with [[ZuoGuanLateHan]] recode Du Qiao and [[LiGuLateHan]]'s earlier [[LiuSuanLateHan]] succession stance as personal offense to Huan. [[EmpressDowagerLiangNaLateHan]]'s placement of [[LiuKuiBohaiKing]] in [[BohaiKingdomLateHan]] and the failed [[LiuWenQingheRebelLateHan]] / [[LiuWeiNanjunRebelLateHan]] plot around [[QingheKingdomLateHan]] and [[XieHaoQingheLateHan]] show that alternative-succession memory remains politically active and lethal.
 
 **Evidence:** [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq]], [[EmperorHuanOfHan]], [[LiangJiLateHan]], [[DuQiaoLateHan]], [[EmpressLiangYingLateHan]], [[TangHengLateHan]], [[ZuoGuanLateHan]], [[LiGuLateHan]], [[LiuSuanLateHan]], [[EmpressDowagerLiangNaLateHan]], [[LiuKuiBohaiKing]], [[BohaiKingdomLateHan]], [[LiuWenQingheRebelLateHan]], [[LiuWeiNanjunRebelLateHan]], [[QingheKingdomLateHan]], [[XieHaoQingheLateHan]], [[OuterRelativeCourtPower]], [[CorrectiveAdviceNonconversion]], [[MoralDesertPoliticalOutcomeGap]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 829 and backfills the 147 CE accession and succession field immediately before Hanji 830 rather than replacing the later Li Gu / Du Qiao imprisonment and public-mourning claim.
-- Du Qiao's ignored memorial and later removal show corrective-advice nonconversion and outer-relative resentment, not yet the full prison-terror mechanism visible in Hanji 830.
+- This claim is source-scoped to 汉纪 829 and backfills the 147 CE accession and succession field immediately before 汉纪 830 rather than replacing the later Li Gu / Du Qiao imprisonment and public-mourning claim.
+- Du Qiao's ignored memorial and later removal show corrective-advice nonconversion and outer-relative resentment, not yet the full prison-terror mechanism visible in 汉纪 830.
 - Hu Guang, Zhao Jie, Yuan Tang, Liu Guang, Zhao Jian, Liu Hong, and the unnamed shangshu candidate remain source-scoped; Zhao Jian is kept distinct from the existing Zhao Jian / 赵戬 route.
 
 ### Late Han 147 Ministerial Terror Tests Reputation Control
 
-[[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] pushes the Liang-family governance branch back to 147-148 CE: [[LiangJiLateHan]] uses accusation, renewed imprisonment, and [[PublicCorpseHumiliation]] against [[LiGuLateHan]] and [[DuQiaoLateHan]], but [[WangTiaoLiGuStudent]], [[ZhaoChengLiGuPetitioner]], [[WuYouLateHan]], [[GuoLiangLiGuStudent]], [[DongBanNanyangLateHan]], and [[YangKuangDuQiaoRetainer]] show that [[OuterRelativeCourtPower]] and [[RetaliatoryPoliticalTerror]] can kill officials without fully controlling public meaning or [[FuneraryDefianceUnderPoliticalTerror]].
+[[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] pushes the Liang-family governance branch back to 147-148 CE: [[LiangJiLateHan]] uses accusation, renewed imprisonment, and [[PublicCorpseHumiliation]] against [[LiGuLateHan]] and [[DuQiaoLateHan]], but [[WangTiaoLiGuStudent]], [[ZhaoChengLiGuPetitioner]], [[WuYouLateHan]], [[GuoLiangLiGuStudent]], [[DongBanNanyangLateHan]], and [[YangKuangDuQiaoRetainer]] show that [[OuterRelativeCourtPower]] and [[RetaliatoryPoliticalTerror]] can kill officials without fully controlling public meaning or [[FuneraryDefianceUnderPoliticalTerror]].
 
 **Evidence:** [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji]], [[LiangJiLateHan]], [[LiGuLateHan]], [[DuQiaoLateHan]], [[PublicCorpseHumiliation]], [[WangTiaoLiGuStudent]], [[ZhaoChengLiGuPetitioner]], [[WuYouLateHan]], [[GuoLiangLiGuStudent]], [[DongBanNanyangLateHan]], [[YangKuangDuQiaoRetainer]], [[OuterRelativeCourtPower]], [[RetaliatoryPoliticalTerror]], [[FuneraryDefianceUnderPoliticalTerror]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 830 and continues the 147-148 CE Li Gu and Du Qiao layer after Hanji 829, before Hanji 832-848's later Liang-family reward, crime-record, and coup claims.
+- This claim is source-scoped to 汉纪 830 and continues the 147-148 CE Li Gu and Du Qiao layer after 汉纪 829, before 汉纪 832-848's later Liang-family reward, crime-record, and coup claims.
 - The source shows a reputation limit on Liang Ji's terror, not institutional protection: Li Gu and Du Qiao still die in prison.
 - Liu Wen, Liu Wei, Ma Rong's drafting role, Luan Ba, the Xia Gate亭长, and exact final-letter wording remain source-scoped.
 
 ### Late Han 150 Liang Household Extraction Precedes Court Checks
 
-[[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|Hanji 833]] adds the 150 CE Liang privilege-and-extraction layer before Hanji 834 and Hanji 835: [[EmperorHuanOfHan]] rewards [[LiangJiLateHan]] while [[SunShouLateHan]] receives titled revenue, [[QinGongLateHan]] turns household access into public gatekeeping, and private parks, coerced self-sellers, and the [[SunFenFufengLateHan]] confiscation case make [[OuterRelativeCourtPower]], [[RetaliatoryPoliticalTerror]], [[CollateralPunishmentAndGuiltByAssociation]], and [[UnboundedEliteRewardDemand]] visible before later court checks.
+[[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72|汉纪 833]] adds the 150 CE Liang privilege-and-extraction layer before 汉纪 834 and 汉纪 835: [[EmperorHuanOfHan]] rewards [[LiangJiLateHan]] while [[SunShouLateHan]] receives titled revenue, [[QinGongLateHan]] turns household access into public gatekeeping, and private parks, coerced self-sellers, and the [[SunFenFufengLateHan]] confiscation case make [[OuterRelativeCourtPower]], [[RetaliatoryPoliticalTerror]], [[CollateralPunishmentAndGuiltByAssociation]], and [[UnboundedEliteRewardDemand]] visible before later court checks.
 
 **Evidence:** [[zizhi-tongjian-hanji-833-tanguan-neng-you-duo-lipu-kanwan-dadieyanjing-lqudlijjyqmcro-wsmrvwkodgt72]], [[EmperorHuanOfHan]], [[LiangJiLateHan]], [[SunShouLateHan]], [[QinGongLateHan]], [[SunFenFufengLateHan]], [[OuterRelativeCourtPower]], [[RetaliatoryPoliticalTerror]], [[CollateralPunishmentAndGuiltByAssociation]], [[UnboundedEliteRewardDemand]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 833 and backfills the 150 CE Liang layer before Hanji 834 and Hanji 835 rather than replacing later warning, court-law, or 159 coup claims.
+- This claim is source-scoped to 汉纪 833 and backfills the 150 CE Liang layer before 汉纪 834 and 汉纪 835 rather than replacing later warning, court-law, or 159 coup claims.
 - The paragraph normalizes the transcript form 梁继 to Liang Ji while keeping Qin Gong spelling, exact wealth figures, Liang dowager details, and rabbit-park legal wording source-scoped.
 - The claim treats private estate coercion and Sun Fen's confiscation as evidence of household extraction, not as a complete fiscal history of Emperor Huan's court.
 
 ### Late Han 151 Court Ritual Check Bounds Outer Relative Power
 
-[[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] adds the earliest current 151 CE Huan-era governance layer: [[ZhangLingLateHan]] turns [[LiangJiLateHan]]'s sword-bearing at the New Year palace audience into a visible [[HighStatusLawEnforcementSignal]] through guard-backed rebuke, forced apology, and impeachment procedure, while [[EmperorHuanOfHan]]'s lighter salary penalty makes the check a bounded ritual-law constraint rather than durable control over [[OuterRelativeCourtPower]]. The same source uses [[EmperorZhiOfHan]] and [[StrategicEmotionConcealment]] to keep Liang's earlier violence and the danger of exposed judgment in view before the later Hanji 836-838 layers.
+[[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]] adds the earliest current 151 CE Huan-era governance layer: [[ZhangLingLateHan]] turns [[LiangJiLateHan]]'s sword-bearing at the New Year palace audience into a visible [[HighStatusLawEnforcementSignal]] through guard-backed rebuke, forced apology, and impeachment procedure, while [[EmperorHuanOfHan]]'s lighter salary penalty makes the check a bounded ritual-law constraint rather than durable control over [[OuterRelativeCourtPower]]. The same source uses [[EmperorZhiOfHan]] and [[StrategicEmotionConcealment]] to keep Liang's earlier violence and the danger of exposed judgment in view before the later 汉纪 836-838 layers.
 
 **Evidence:** [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo]], [[ZhangLingLateHan]], [[LiangJiLateHan]], [[HighStatusLawEnforcementSignal]], [[EmperorHuanOfHan]], [[OuterRelativeCourtPower]], [[EmperorZhiOfHan]], [[StrategicEmotionConcealment]], [[LiAsPoliticalOrder]], [[PowerEtiquetteReading]], [[PowerExitTrap]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 835 and backfills the 151 CE court-audience layer before Hanji 836 and Hanji 838, not the later 159 CE anti-Liang coup.
+- This claim is source-scoped to 汉纪 835 and backfills the 151 CE court-audience layer before 汉纪 836 and 汉纪 838, not the later 159 CE anti-Liang coup.
 - Zhang Ling's action proves public procedural leverage against Liang Ji, but Emperor Huan's lighter sanction means it should not be treated as durable institutional control.
 - The jealousy framing, Kangxi counterfactual about Emperor Zhi, and Fan Li / Zhang Liang retreat examples remain source-scoped interpretations rather than the governance claim's causal core.
 
 ### Late Han 151 Strict Lenient Governance Diagnosis
 
-[[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|Hanji 837]] pushes the Huan-era governance sequence back to 151 CE by making [[CuiShiLateHan]] and [[ZhenglunCuiShi]] a diagnosis-and-remedy branch: after the [[LuoyangLateHan]] earthquake, [[EmperorHuanOfHan]] solicits independent talent, and [[SituationalStrictLenientGovernance]] treats harsh law, leniency, and moral teaching as conditional tools while [[SimaGuang]] qualifies severity as a temporary corrective against elite impunity rather than a universal policy.
+[[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b|汉纪 837]] pushes the Huan-era governance sequence back to 151 CE by making [[CuiShiLateHan]] and [[ZhenglunCuiShi]] a diagnosis-and-remedy branch: after the [[LuoyangLateHan]] earthquake, [[EmperorHuanOfHan]] solicits independent talent, and [[SituationalStrictLenientGovernance]] treats harsh law, leniency, and moral teaching as conditional tools while [[SimaGuang]] qualifies severity as a temporary corrective against elite impunity rather than a universal policy.
 
 **Evidence:** [[zizhi-tongjian-hanji-837-weiren-chushi-weihe-buneng-xinci-shouruan-luznyzqldwdrbkfm7ce-1huuxm7b]], [[CuiShiLateHan]], [[ZhenglunCuiShi]], [[LuoyangLateHan]], [[EmperorHuanOfHan]], [[SituationalStrictLenientGovernance]], [[SimaGuang]], [[BoundarylessKindnessTrap]], [[HuangQiongLateHan]], [[LiangJiLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 837 and backfills the 151 CE political-thought prelude before Hanji 838, not a later Liang-coup mechanism.
+- This claim is source-scoped to 汉纪 837 and backfills the 151 CE political-thought prelude before 汉纪 838, not a later Liang-coup mechanism.
 - The source normalizes transcript 崔石 to 崔寔 and presents Zhenglun through podcast summary rather than a full independent textual edition.
 - The personal not-soft-hearted frame is tied to BoundarylessKindnessTrap and strict-lenient balance, so it should not be treated as blanket permission for cruelty.
 
 ### Late Han 151 152 Overreward And Frontier Intervention Prelude
 
-[[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] pushes the Huan-era governance sequence back to 151-152 CE: [[LiangJiLateHan]] receives extraordinary privilege yet remains dissatisfied, while [[WangJingXiyuLateHan]] converts accusations from [[JumiKingChengguoLateHan]] and the [[JumiKingdomLateHan]] channel into a lethal [[KhotanKingdomLateHan]] intervention that installs [[AnGuoKhotanLateHan]] only after killing and counter-killing.
+[[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] pushes the Huan-era governance sequence back to 151-152 CE: [[LiangJiLateHan]] receives extraordinary privilege yet remains dissatisfied, while [[WangJingXiyuLateHan]] converts accusations from [[JumiKingChengguoLateHan]] and the [[JumiKingdomLateHan]] channel into a lethal [[KhotanKingdomLateHan]] intervention that installs [[AnGuoKhotanLateHan]] only after killing and counter-killing.
 
 **Evidence:** [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr]], [[EmperorHuanOfHan]], [[LiangJiLateHan]], [[HuangQiongLateHan]], [[UnboundedEliteRewardDemand]], [[WangJingXiyuLateHan]], [[JumiKingdomLateHan]], [[JumiKingChengguoLateHan]], [[KhotanKingdomLateHan]], [[KhotanKingJianLateHan]], [[ShuboKhotanLateHan]], [[AnGuoKhotanLateHan]], [[RumorDrivenFrontierIntervention]], [[OuterRelativeCourtPower]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 838 and backfills the 151-152 CE prelude before Hanji 839 and the later 159 CE Liang-coup sequence.
+- This claim is source-scoped to 汉纪 838 and backfills the 151-152 CE prelude before 汉纪 839 and the later 159 CE Liang-coup sequence.
 - Huang Qiong limits the territorial reward proposal, but the source still treats Liang Ji as receiving extraordinary privilege and remaining dissatisfied; the claim therefore concerns partial restraint rather than successful institutional correction.
 - The Western Regions branch is an information-failure and intervention case, not a full reconstruction of Khotan, Jumi, Ma Da, Song Liang, or all Han frontier policy.
 
 ### Late Han 159 Palace Coup Symbol Control And Replacement Risk
 
-[[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|Hanji 845]], [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]], [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] now make the 159 anti-Liang case a four-stage governance sequence: first, Liang-family control enters [[EmperorHuanOfHan]]'s marriage through [[EmpressLiangYingLateHan]], making [[ImperialMarriageInspection]] and constrained [[RelationshipSelectionAgency]] a pre-coup form of [[OuterRelativeCourtPower]] where formal harem status cannot produce affection, heirs, or durable protection once [[PalaceFavoriteProtectionFragility]] and [[ImperialPrivateDesireGovernanceRisk]] turn against it; second, [[LiangJiLateHan]] embodies outer-relative rule through clan-office saturation, palace surveillance, tribute capture, protected retainers, and [[RetaliatoryPoliticalTerror]] against officials, remonstrants, and households such as [[WuShuWanMagistrateLateHan]], [[YuanZhuRemonstrantLateHan]], [[CuiQiLateHan]], [[HuWuTaiyuanLateHan]], and [[GengChengLinruHouLateHan]]; third, household and harem pressure around [[SunShouLateHan]], [[EmpressDengHuanLateHan]], [[XuanDengMotherLateHan]], and [[BingZunLateHan]] creates a trigger and [[PalaceProximityPower]] recruitment path; finally Emperor Huan uses [[PalaceCoupSymbolControl]] to control palace entry, shangshu offices, guards, seals, tallies, and Liang's office insignia before converting victory into confiscation, tax remission, land redistribution, tomb and surname cleanup, [[HuangQiongLateHan]]'s short reform window, and a [[FiveMarquisesHuanEra]] reward structure that later feeds [[CourtFeedbackCollapse]].
+[[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|汉纪 845]], [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]], [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|汉纪 847]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] now make the 159 anti-Liang case a four-stage governance sequence: first, Liang-family control enters [[EmperorHuanOfHan]]'s marriage through [[EmpressLiangYingLateHan]], making [[ImperialMarriageInspection]] and constrained [[RelationshipSelectionAgency]] a pre-coup form of [[OuterRelativeCourtPower]] where formal harem status cannot produce affection, heirs, or durable protection once [[PalaceFavoriteProtectionFragility]] and [[ImperialPrivateDesireGovernanceRisk]] turn against it; second, [[LiangJiLateHan]] embodies outer-relative rule through clan-office saturation, palace surveillance, tribute capture, protected retainers, and [[RetaliatoryPoliticalTerror]] against officials, remonstrants, and households such as [[WuShuWanMagistrateLateHan]], [[YuanZhuRemonstrantLateHan]], [[CuiQiLateHan]], [[HuWuTaiyuanLateHan]], and [[GengChengLinruHouLateHan]]; third, household and harem pressure around [[SunShouLateHan]], [[EmpressDengHuanLateHan]], [[XuanDengMotherLateHan]], and [[BingZunLateHan]] creates a trigger and [[PalaceProximityPower]] recruitment path; finally Emperor Huan uses [[PalaceCoupSymbolControl]] to control palace entry, shangshu offices, guards, seals, tallies, and Liang's office insignia before converting victory into confiscation, tax remission, land redistribution, tomb and surname cleanup, [[HuangQiongLateHan]]'s short reform window, and a [[FiveMarquisesHuanEra]] reward structure that later feeds [[CourtFeedbackCollapse]].
 
 **Evidence:** [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn]], [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq]], [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx]], [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0]], [[OuterRelativeCourtPower]], [[RelationshipSelectionAgency]], [[ImperialMarriageInspection]], [[ImperialPrivateDesireGovernanceRisk]], [[PalaceFavoriteProtectionFragility]], [[RetaliatoryPoliticalTerror]], [[PalaceProximityPower]], [[PalaceCoupSymbolControl]], [[EmperorHuanOfHan]], [[LiangJiLateHan]], [[EmpressLiangYingLateHan]], [[WuShuWanMagistrateLateHan]], [[YuanZhuRemonstrantLateHan]], [[CuiQiLateHan]], [[HuWuTaiyuanLateHan]], [[GengChengLinruHouLateHan]], [[SunShouLateHan]], [[EmpressDengHuanLateHan]], [[XuanDengMotherLateHan]], [[BingZunLateHan]], [[HuangQiongLateHan]], [[CourtFeedbackCollapse]], [[FiveMarquisesHuanEra]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 845-848; it describes the marriage prelude, crime-record baseline, recruitment precondition, coup mechanism, and immediate settlement, not a universal theory of all coups, all palace marriages, or all outer-relative politics.
-- Hanji 845 keeps the modern marriage survey and the claim about Liang Ying as the first textually recorded inspected empress source-scoped; the governance claim uses them only to frame the Huan-Liang household case.
-- Hanji 846 supplies the Liang family counts and victim chain as an episode-bounded crime record; those numerical and biographical details need additional support before broader generalization.
-- Hanji 847 says Xuan survives Liang Ji's failed assassination attempt, while the Hanji 848 source note reports or compresses the trigger as her being killed; Hanji 846 stops before that tension, and Hanji 845 precedes it.
+- This claim is source-scoped to 汉纪 845-848; it describes the marriage prelude, crime-record baseline, recruitment precondition, coup mechanism, and immediate settlement, not a universal theory of all coups, all palace marriages, or all outer-relative politics.
+- 汉纪 845 keeps the modern marriage survey and the claim about Liang Ying as the first textually recorded inspected empress source-scoped; the governance claim uses them only to frame the Huan-Liang household case.
+- 汉纪 846 supplies the Liang family counts and victim chain as an episode-bounded crime record; those numerical and biographical details need additional support before broader generalization.
+- 汉纪 847 says Xuan survives Liang Ji's failed assassination attempt, while the 汉纪 848 source note reports or compresses the trigger as her being killed; 汉纪 846 stops before that tension, and 汉纪 845 precedes it.
 - The sources support both public benefit from confiscation/tax relief and violent network liquidation, so the claim should not collapse purge success into durable institutional repair.
-- The Five Marquises reward is treated as a replacement-risk setup for later Huan-era eunuch pages, not as evidence that every named eunuch already had the same later behavior in Hanji 848.
+- The Five Marquises reward is treated as a replacement-risk setup for later Huan-era eunuch pages, not as evidence that every named eunuch already had the same later behavior in 汉纪 848.
 
 ### Late Han 160 Qiang Governance Personnel Prelude
 
-[[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|Hanji 855]] backfills the 160-161 CE Huan-era governance prelude before Hanji 856: [[LiuChongLateHanMinister]] turns [[KuaijiCommandery]] administration into reduced exaction and non-extractive public trust, [[GuoHongLateHan]] converts merit-seeking obstruction into [[DuanJiongLateHan]]'s desertion-linked punishment, [[HuHongLateHan]] shows weak replacement command, and [[HuangfuGuiLateHan]] reframes the [[XianlingQiang]] / [[ShendiQiang]] crisis through [[RootCausePacification]] and [[HumaneLocalGovernance]] before victory, mass surrender, and renewed trapped-army crisis.
+[[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1|汉纪 855]] backfills the 160-161 CE Huan-era governance prelude before 汉纪 856: [[LiuChongLateHanMinister]] turns [[KuaijiCommandery]] administration into reduced exaction and non-extractive public trust, [[GuoHongLateHan]] converts merit-seeking obstruction into [[DuanJiongLateHan]]'s desertion-linked punishment, [[HuHongLateHan]] shows weak replacement command, and [[HuangfuGuiLateHan]] reframes the [[XianlingQiang]] / [[ShendiQiang]] crisis through [[RootCausePacification]] and [[HumaneLocalGovernance]] before victory, mass surrender, and renewed trapped-army crisis.
 
 **Evidence:** [[zizhi-tongjian-hanji-855-ni-you-duo-wuqing-jiu-you-duo-qiangda-lulbpnufi8xfijrviufo6biuy-h1]], [[LiuChongLateHanMinister]], [[KuaijiCommandery]], [[GuoHongLateHan]], [[DuanJiongLateHan]], [[HuHongLateHan]], [[HuangfuGuiLateHan]], [[XianlingQiang]], [[ShendiQiang]], [[RootCausePacification]], [[HumaneLocalGovernance]], [[BoundarylessKindnessTrap]], [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 855 and backfills the 160-161 CE prehistory before Hanji 856 rather than replacing the later Huangfu Gui crisis sequence.
+- This claim is source-scoped to 汉纪 855 and backfills the 160-161 CE prehistory before 汉纪 856 rather than replacing the later Huangfu Gui crisis sequence.
 - Liu Chong is treated as a local-governance and ministerial-office case, while Guo Hong and Hu Hong are negative personnel cases rather than full biographies.
 - The opening boundary-strength framing remains source-scoped self-governance language, not clinical or legal advice.
 
 ### Late Han 164 Moral Mentorship Precedes Party Risk
 
-[[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] adds a 164 CE governance prelude in which [[GuoTaiLateHan]] acts as a teacher-model rather than an office holder: [[MoralMentorshipTalentCultivation]], [[MengMinLateHan]], [[ShentuPanLateHan]], [[YuChengLateHan]], [[WeiZhaoLateHan]], and [[ZuoYuanLateHan]] show authority through seeing capacity, testing steadiness, correcting fault, and forming reputation before the later party-prohibition field.
+[[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] adds a 164 CE governance prelude in which [[GuoTaiLateHan]] acts as a teacher-model rather than an office holder: [[MoralMentorshipTalentCultivation]], [[MengMinLateHan]], [[ShentuPanLateHan]], [[YuChengLateHan]], [[WeiZhaoLateHan]], and [[ZuoYuanLateHan]] show authority through seeing capacity, testing steadiness, correcting fault, and forming reputation before the later party-prohibition field.
 
 **Evidence:** [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh]], [[GuoTaiLateHan]], [[MoralMentorshipTalentCultivation]], [[MengMinLateHan]], [[ShentuPanLateHan]], [[YuChengLateHan]], [[WeiZhaoLateHan]], [[ZuoYuanLateHan]], [[SituationalCharacterTests]], [[HuangYunLateHan]]
 
 **Qualifications:**
 
 - This is a moral and reputational governance prelude, not a formal state-policy mechanism.
-- The source is a backfill before Hanji 862; later Party Prohibition, Taixue, and court-feedback mechanisms remain distinct branches.
+- The source is a backfill before 汉纪 862; later Party Prohibition, Taixue, and court-feedback mechanisms remain distinct branches.
 - ASR transcript variants are normalized to received late-Han names rather than treated as separate entities.
 
 ### Late Han 166 Enforcement Retaliation Inverts Local Law
 
-[[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] adds a 166 CE governance prelude before [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] and the first Party Prohibition chain: [[ZhangJianLateHan]]'s reports against [[HouLanLateHan]] are blocked, [[HuangFuDonghaiLateHan]] is punished after executing [[XuXuanLateHan]], and [[ChenFanLateHan]] turns [[EunuchPatronageViolenceShield]], [[PalaceAccessMonopoly]], and [[CourtFeedbackCollapse]] into a diagnosis of enforcement inversion under [[EmperorHuanOfHan]].
+[[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] adds a 166 CE governance prelude before [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|汉纪 873]] and the first Party Prohibition chain: [[ZhangJianLateHan]]'s reports against [[HouLanLateHan]] are blocked, [[HuangFuDonghaiLateHan]] is punished after executing [[XuXuanLateHan]], and [[ChenFanLateHan]] turns [[EunuchPatronageViolenceShield]], [[PalaceAccessMonopoly]], and [[CourtFeedbackCollapse]] into a diagnosis of enforcement inversion under [[EmperorHuanOfHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc]], [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc]], [[ZhangJianLateHan]], [[HouLanLateHan]], [[HuangFuDonghaiLateHan]], [[XuXuanLateHan]], [[ChenFanLateHan]], [[EunuchPatronageViolenceShield]], [[PalaceAccessMonopoly]], [[CourtFeedbackCollapse]], [[EmperorHuanOfHan]], [[ZhaiChaoLateHan]], [[XuHuangLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 872's 166 CE frame; Zhang Jian's flight and the party-prohibition shelter chain remain later Hanji 893-895 layers.
+- This claim is source-scoped to 汉纪 872's 166 CE frame; Zhang Jian's flight and the party-prohibition shelter chain remain later 汉纪 893-895 layers.
 - Transcript forms such as 皇甫 and 李嵩 are normalized through the canonical Huang Fu and Li Gao pages rather than treated as new subjects.
-- This adds an enforcement-retaliation layer before Hanji 873's omen-coded remonstrance and Hanji 874's party-arrest trigger; it does not replace those later governance mechanisms.
+- This adds an enforcement-retaliation layer before 汉纪 873's omen-coded remonstrance and 汉纪 874's party-arrest trigger; it does not replace those later governance mechanisms.
 
 ### Late Han 166 Omen Coded Remonstrance Tests Imperial Responsibility
 
-[[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|Hanji 873]] adds a 166 CE feedback layer before the first Party Prohibition trigger: [[XiangKaiLateHan]] turns [[OmenCodedRemonstrance]] into a ritualized accusation against [[EmperorHuanOfHan]], using [[CelestialOmenPoliticalResponsibility]], [[NaturalDisasterPoliticalOmen]], [[ChineseAstrologicalPolitics]], succession anxiety, Yellow River clarity, and Buddhist-Daoist restraint around [[Laozi]] and [[ShakyamuniBuddha]] to criticize [[PalaceAccessMonopoly]], eunuch favor, harsh punishment, and [[CourtFeedbackCollapse]] before Hanji 874's legal-party accusation chain.
+[[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc|汉纪 873]] adds a 166 CE feedback layer before the first Party Prohibition trigger: [[XiangKaiLateHan]] turns [[OmenCodedRemonstrance]] into a ritualized accusation against [[EmperorHuanOfHan]], using [[CelestialOmenPoliticalResponsibility]], [[NaturalDisasterPoliticalOmen]], [[ChineseAstrologicalPolitics]], succession anxiety, Yellow River clarity, and Buddhist-Daoist restraint around [[Laozi]] and [[ShakyamuniBuddha]] to criticize [[PalaceAccessMonopoly]], eunuch favor, harsh punishment, and [[CourtFeedbackCollapse]] before 汉纪 874's legal-party accusation chain.
 
 **Evidence:** [[zizhi-tongjian-hanji-873-ta-ruhe-liyong-tianxiang-tongma-diwang-lqebkodcbcrsvyf80qwxnobydbhc]], [[XiangKaiLateHan]], [[OmenCodedRemonstrance]], [[EmperorHuanOfHan]], [[CelestialOmenPoliticalResponsibility]], [[NaturalDisasterPoliticalOmen]], [[ChineseAstrologicalPolitics]], [[Laozi]], [[ShakyamuniBuddha]], [[PalaceAccessMonopoly]], [[CourtFeedbackCollapse]], [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 873 and backfills the 166 CE feedback layer immediately before the first Party Prohibition trigger in Hanji 874.
-- Xiang Kai's method overlaps later Hanji 890 oblique-remonstrance evidence, but this episode is harsher and centers Emperor Huan rather than Emperor Ling's eunuch court.
+- This claim is source-scoped to 汉纪 873 and backfills the 166 CE feedback layer immediately before the first Party Prohibition trigger in 汉纪 874.
+- Xiang Kai's method overlaps later 汉纪 890 oblique-remonstrance evidence, but this episode is harsher and centers Emperor Huan rather than Emperor Ling's eunuch court.
 - The episode's claim that Emperor Huan was the first emperor to personally favor Buddhism remains episode-attributed; the governance point is how Buddhist-Daoist restraint language becomes remonstrance evidence.
 
 ### Late Han 166 Party Prohibition Trigger Links Law And Accusation
 
-[[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] adds the 166 CE first Party Prohibition trigger before the existing reputation and release layers: [[JiaBiaoLateHan]] ties [[PowerStructureTargeting]] to no-collateral timing and [[InfanticideCustomCorrection]], [[LiYingLateHan]] answers [[ZhangChengAstrologerLateHan]]'s [[AmnestyExploitationCrime]] with execution despite amnesty, [[LaoXiuLateHan]] turns eunuch-backed grievance into accusation, and [[ChenFanLateHan]], [[ChenShiLateHan]], [[FanPangLateHan]], plus [[PrisonRitualLegitimacyRefusal]] show procedural and prison responsibility under [[PartyNetworkTreasonFraming]].
+[[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] adds the 166 CE first Party Prohibition trigger before the existing reputation and release layers: [[JiaBiaoLateHan]] ties [[PowerStructureTargeting]] to no-collateral timing and [[InfanticideCustomCorrection]], [[LiYingLateHan]] answers [[ZhangChengAstrologerLateHan]]'s [[AmnestyExploitationCrime]] with execution despite amnesty, [[LaoXiuLateHan]] turns eunuch-backed grievance into accusation, and [[ChenFanLateHan]], [[ChenShiLateHan]], [[FanPangLateHan]], plus [[PrisonRitualLegitimacyRefusal]] show procedural and prison responsibility under [[PartyNetworkTreasonFraming]].
 
 **Evidence:** [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq]], [[JiaBiaoLateHan]], [[PowerStructureTargeting]], [[InfanticideCustomCorrection]], [[LiYingLateHan]], [[ZhangChengAstrologerLateHan]], [[AmnestyExploitationCrime]], [[LaoXiuLateHan]], [[ChenFanLateHan]], [[ChenShiLateHan]], [[FanPangLateHan]], [[PrisonRitualLegitimacyRefusal]], [[PartyNetworkTreasonFraming]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 874 and backfills the first Party Prohibition trigger before Hanji 875-877 rather than replacing the later amnesty, registry, and reputation-list layers.
+- This claim is source-scoped to 汉纪 874 and backfills the first Party Prohibition trigger before 汉纪 875-877 rather than replacing the later amnesty, registry, and reputation-list layers.
 - The source preserves the exact identities of several rescue and fugitive names as source-scoped pending stronger disambiguation, so the claim focuses on the legal and accusation mechanism.
-- Hanji 874 frames party association mainly as disorder and court slander; Hanji 893 remains the clearer later escalation into explicit rebellion framing.
+- 汉纪 874 frames party association mainly as disorder and court slander; 汉纪 893 remains the clearer later escalation into explicit rebellion framing.
 
 ### Late Han Amnesty Keeps Exclusion And Blocks Quota Accusation
 
-[[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] adds a 167 CE party-prohibition governance layer: [[RegistryBasedPoliticalExclusion]] shows amnesty releasing named party figures while preserving lifelong office exclusion, [[FanPangLateHan]] and [[HuoXuLateHan]] make [[TacitGratitudeRestraint]] a low-visibility response to rescue under danger, and [[ShiBiLateHan]] turns county-level office duty into [[AccusationQuotaRefusal]] by refusing to invent Pingyuan party names under pressure.
+[[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] adds a 167 CE party-prohibition governance layer: [[RegistryBasedPoliticalExclusion]] shows amnesty releasing named party figures while preserving lifelong office exclusion, [[FanPangLateHan]] and [[HuoXuLateHan]] make [[TacitGratitudeRestraint]] a low-visibility response to rescue under danger, and [[ShiBiLateHan]] turns county-level office duty into [[AccusationQuotaRefusal]] by refusing to invent Pingyuan party names under pressure.
 
 **Evidence:** [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi]], [[RegistryBasedPoliticalExclusion]], [[FanPangLateHan]], [[HuoXuLateHan]], [[TacitGratitudeRestraint]], [[ShiBiLateHan]], [[AccusationQuotaRefusal]], [[PartyProhibitionKinshipExpansion]], [[PoliticalSurvivalFirst]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 877 and backfills the first Party Prohibition aftermath before the later Hanji 892-893 reputation-list and arrest-network sequence.
+- This claim is source-scoped to 汉纪 877 and backfills the first Party Prohibition aftermath before the later 汉纪 892-893 reputation-list and arrest-network sequence.
 - Amnesty is treated as release from immediate custody, not rehabilitation; the office-exclusion registry remains the operative governance mechanism.
 - Fan Pang’s restrained visit is used as evidence of gratitude under danger, not proof of ingratitude or a general rule against thanking benefactors.
 
 ### Late Han 168 Reward Legitimacy Precedes Coup
 
-[[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] backfills the accession-reward governance layer before the [[DouWuLateHan]] / [[ChenFanLateHan]] crisis: [[LuZhiLateHan]] reads Dou Wu's honors as dangerous merit inflation, while Chen Fan's refusal of an [[EmpressDowagerDouMiao]]-grounded marquisate makes [[UnearnedRewardRefusal]], [[RighteousnessOverProfit]], [[MeritBasedRewardPunishment]], and [[MingqiLegitimacy]] part of the title-legitimacy field that precedes the later anti-eunuch collapse.
+[[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] backfills the accession-reward governance layer before the [[DouWuLateHan]] / [[ChenFanLateHan]] crisis: [[LuZhiLateHan]] reads Dou Wu's honors as dangerous merit inflation, while Chen Fan's refusal of an [[EmpressDowagerDouMiao]]-grounded marquisate makes [[UnearnedRewardRefusal]], [[RighteousnessOverProfit]], [[MeritBasedRewardPunishment]], and [[MingqiLegitimacy]] part of the title-legitimacy field that precedes the later anti-eunuch collapse.
 
 **Evidence:** [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii]], [[DouWuLateHan]], [[ChenFanLateHan]], [[LuZhiLateHan]], [[EmpressDowagerDouMiao]], [[UnearnedRewardRefusal]], [[RighteousnessOverProfit]], [[MeritBasedRewardPunishment]], [[MingqiLegitimacy]], [[Analects]], [[CaoJieLateHan]], [[DuanJiongLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 882 and backfills the reward-legitimacy layer before the Hanji 884-887 Dou Wu / Chen Fan crisis.
+- This claim is source-scoped to 汉纪 882 and backfills the reward-legitimacy layer before the 汉纪 884-887 Dou Wu / Chen Fan crisis.
 - The claim treats refusal and warning as title-legitimacy signals, not as proof that rightful conduct guarantees political safety.
 - Ma Rong and Dou-family title details remain source-scoped pending fuller evidence.
 
 ### Late Han 888 Death Facing Responsibility Under Persecution
 
-[[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] adds the 168 CE post-coup cleanup before the existing remonstrance chain: [[BaSuLateHan]] refuses flight, [[ZhuZhenLateHan]] protects [[ChenYiLateHan]] through household risk, and [[HuTengLateHan]] turns former-subordinate loyalty into public mourning and hidden-survivor protection, making [[DeathFacingResponsibility]], [[PoliticalSurvivalFirst]], [[LoyaltyCollateralDilemma]], [[RetainerReciprocityEthic]], and [[MoralDesertPoliticalOutcomeGap]] part of late-Han governance under eunuch victory.
+[[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] adds the 168 CE post-coup cleanup before the existing remonstrance chain: [[BaSuLateHan]] refuses flight, [[ZhuZhenLateHan]] protects [[ChenYiLateHan]] through household risk, and [[HuTengLateHan]] turns former-subordinate loyalty into public mourning and hidden-survivor protection, making [[DeathFacingResponsibility]], [[PoliticalSurvivalFirst]], [[LoyaltyCollateralDilemma]], [[RetainerReciprocityEthic]], and [[MoralDesertPoliticalOutcomeGap]] part of late-Han governance under eunuch victory.
 
 **Evidence:** [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq]], [[BaSuLateHan]], [[ZhuZhenLateHan]], [[ChenYiLateHan]], [[HuTengLateHan]], [[DeathFacingResponsibility]], [[PoliticalSurvivalFirst]], [[LoyaltyCollateralDilemma]], [[RetainerReciprocityEthic]], [[MoralDesertPoliticalOutcomeGap]], [[CaoJieLateHan]], [[WangFuLateHan]], [[ZhuYuLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 888 and backfills the 168 CE cleanup before Hanji 889-890 rather than replacing later party-prohibition evidence.
+- This claim is source-scoped to 汉纪 888 and backfills the 168 CE cleanup before 汉纪 889-890 rather than replacing later party-prohibition evidence.
 - Ba Su, Zhu Zhen, and Hu Teng model different action-types, so the claim should not collapse self-surrender, funeral honor, and orphan protection into one rule.
 - The episode explicitly raises survival-first reasoning, so death-facing responsibility is treated as a contested governance judgment under risk.
 
@@ -1000,49 +1000,49 @@ Hanji 824 shows [[EmperorShunOfHan|Emperor Shun]]'s final year combining appoint
 
 ### Late Han 169 Remonstrance Channel Design
 
-[[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] adds an earlier 169 CE remonstrance-channel layer before the party-prohibition sequence: [[ZhangHuanLateHan]] and [[XieBiLateHan]] name eunuch-aligned power directly around [[CaoJieLateHan]], [[CaoShaoLateHan]], [[DouWuLateHan]], [[ChenFanLateHan]], and [[EmpressDowagerDouMiao]], so punishment and Xie Bi's death show direct feedback becoming exposure under [[CourtFeedbackCollapse]]; [[YangCiLateHan]] instead uses [[ObliqueRemonstranceSelfProtection]] by redirecting a snake omen toward inner-court boundary and imperial-authority language, tying [[PoliticalSurvivalFirst]] to survivable correction before later [[ConfidentialRemonstranceLeakage]] risks.
+[[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] adds an earlier 169 CE remonstrance-channel layer before the party-prohibition sequence: [[ZhangHuanLateHan]] and [[XieBiLateHan]] name eunuch-aligned power directly around [[CaoJieLateHan]], [[CaoShaoLateHan]], [[DouWuLateHan]], [[ChenFanLateHan]], and [[EmpressDowagerDouMiao]], so punishment and Xie Bi's death show direct feedback becoming exposure under [[CourtFeedbackCollapse]]; [[YangCiLateHan]] instead uses [[ObliqueRemonstranceSelfProtection]] by redirecting a snake omen toward inner-court boundary and imperial-authority language, tying [[PoliticalSurvivalFirst]] to survivable correction before later [[ConfidentialRemonstranceLeakage]] risks.
 
 **Evidence:** [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis]], [[ZhangHuanLateHan]], [[XieBiLateHan]], [[YangCiLateHan]], [[EmperorLingOfHan]], [[CaoJieLateHan]], [[CaoShaoLateHan]], [[DouWuLateHan]], [[ChenFanLateHan]], [[EmpressDowagerDouMiao]], [[ObliqueRemonstranceSelfProtection]], [[PoliticalSurvivalFirst]], [[CourtFeedbackCollapse]], [[ConfidentialRemonstranceLeakage]], [[DeathDefyingRemonstrance]], [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 890 and backfills the 169 CE court-remonstrance layer before Hanji 891-893 rather than replacing the later party-prohibition, reputation-list, and shelter-risk branches.
+- This claim is source-scoped to 汉纪 890 and backfills the 169 CE court-remonstrance layer before 汉纪 891-893 rather than replacing the later party-prohibition, reputation-list, and shelter-risk branches.
 - The contrast is about adversary mapping and channel design under captured power; it does not turn oblique remonstrance into a universal rule or make direct remonstrance intrinsically wrong.
 - ASR variants such as 张宦, 谢毕, 杨次, 曹杰, and 李英 are normalized to canonical late-Han routes where the role evidence is clear.
 
 ### Late Han 169 Reputation List Becomes Persecution Map
 
-[[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]] supplies the pre-arrest honor-list layer: [[ReputationListPersecutionTarget]] begins as public praise around [[LiYingLateHan]] and [[FanPangLateHan]]. [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] adds the governance conversion when [[CaoJieLateHan]] translates recommendation and mutual praise into [[PartyNetworkTreasonFraming]] for [[EmperorLingOfHan]], making moral reputation and student/subordinate attachment feed [[PartyProhibitionKinshipExpansion]] before the later shelter-risk branch.
+[[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|汉纪 892]] supplies the pre-arrest honor-list layer: [[ReputationListPersecutionTarget]] begins as public praise around [[LiYingLateHan]] and [[FanPangLateHan]]. [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] adds the governance conversion when [[CaoJieLateHan]] translates recommendation and mutual praise into [[PartyNetworkTreasonFraming]] for [[EmperorLingOfHan]], making moral reputation and student/subordinate attachment feed [[PartyProhibitionKinshipExpansion]] before the later shelter-risk branch.
 
 **Evidence:** [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct]], [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq]], [[ReputationListPersecutionTarget]], [[LiYingLateHan]], [[FanPangLateHan]], [[CaoJieLateHan]], [[PartyNetworkTreasonFraming]], [[EmperorLingOfHan]], [[PartyProhibitionKinshipExpansion]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 892 and Hanji 893 and backfills the 169 CE reputation-list layer before later Hanji 894 and Hanji 896 party-prohibition survival branches.
-- Hanji 892 supplies pre-crackdown visibility evidence; Hanji 893 supplies the formal arrest-map conversion under Cao Jie.
+- This claim is source-scoped to 汉纪 892 and 汉纪 893 and backfills the 169 CE reputation-list layer before later 汉纪 894 and 汉纪 896 party-prohibition survival branches.
+- 汉纪 892 supplies pre-crackdown visibility evidence; 汉纪 893 supplies the formal arrest-map conversion under Cao Jie.
 - Li Ying, Fan Pang, and Jing Yi are treated as moral-choice and liability examples within the party-prohibition event rather than complete biographies.
 
 ### Late Han 169 Frontier Pacification Tests Root Cause Governance
 
-[[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|Hanji 883]] moves the frontier-governance prelude back to 168 CE: [[ZhangHuanLateHan]] urges surrender and settlement, while [[DuanJiongLateHan]] frames [[DongqiangLateHan]] surrender and resettlement as renewed danger, so [[BoundarylessKindnessTrap]], [[PeopleBasedPoliticalSecurity]], [[DeceptiveSurrenderLull]], and [[WarCostTempoDiscipline]] make coercive capacity and mercy a bounded-strength policy problem. [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|Hanji 892]] then shows Duan's later victory but uses [[RootCausePacification]] to qualify force-only pacification before the reputation-list exposure layer.
+[[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid|汉纪 883]] moves the frontier-governance prelude back to 168 CE: [[ZhangHuanLateHan]] urges surrender and settlement, while [[DuanJiongLateHan]] frames [[DongqiangLateHan]] surrender and resettlement as renewed danger, so [[BoundarylessKindnessTrap]], [[PeopleBasedPoliticalSecurity]], [[DeceptiveSurrenderLull]], and [[WarCostTempoDiscipline]] make coercive capacity and mercy a bounded-strength policy problem. [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct|汉纪 892]] then shows Duan's later victory but uses [[RootCausePacification]] to qualify force-only pacification before the reputation-list exposure layer.
 
 **Evidence:** [[zizhi-tongjian-hanji-883-laoban-yao-fansi-ruhe-bimian-gaoguan-neihong-lph-fycnqas6hztjq1jbsisvylid]], [[zizhi-tongjian-hanji-892-xiu-zhiyu-guren-youshenme-jiejing-lnobbkp6mj4xyb9jeuqsiuqogct]], [[ZhangHuanLateHan]], [[DuanJiongLateHan]], [[DongqiangLateHan]], [[BoundarylessKindnessTrap]], [[PeopleBasedPoliticalSecurity]], [[DeceptiveSurrenderLull]], [[WarCostTempoDiscipline]], [[RootCausePacification]], [[ReputationListPersecutionTarget]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 883 and Hanji 892 and does not settle a full independent military history of the Eastern Qiang.
+- This claim is source-scoped to 汉纪 883 and 汉纪 892 and does not settle a full independent military history of the Eastern Qiang.
 - Duan Jiong battlefield success and Zhang Huan's surrender-first advice both remain real in the sources, but neither becomes a universal rule for frontier policy.
 - The Zhao Chongguo, Ma Yuan, Deng Xun, Jia Xu, and residual-place details remain source-scoped background rather than settled canonical expansions.
 
 ### Late Han Yang Biao Prosecution As Constrained Office Punishment
 
-[[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] sharpens late-Han court control by making [[PrestigeConstrainedPoliticalProsecution]] punitive without becoming execution: [[CaoCao]] releases but removes [[YangBiao]] because [[KongRong]], [[ManChong]], weak evidence, and Yang Biao's old-Han prestige make public confidence costly around [[EmperorXianOfHan]], while [[MingqiLegitimacy]] also appears through [[MaRidiLateHan]] and [[JinShang]] as Yuan Shu pressure turns court symbols and posthumous honor into governance tests.
+[[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] sharpens late-Han court control by making [[PrestigeConstrainedPoliticalProsecution]] punitive without becoming execution: [[CaoCao]] releases but removes [[YangBiao]] because [[KongRong]], [[ManChong]], weak evidence, and Yang Biao's old-Han prestige make public confidence costly around [[EmperorXianOfHan]], while [[MingqiLegitimacy]] also appears through [[MaRidiLateHan]] and [[JinShang]] as Yuan Shu pressure turns court symbols and posthumous honor into governance tests.
 
 **Evidence:** [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun]], [[PrestigeConstrainedPoliticalProsecution]], [[CaoCao]], [[YangBiao]], [[KongRong]], [[ManChong]], [[EmperorXianOfHan]], [[MingqiLegitimacy]], [[MaRidiLateHan]], [[JinShang]]
 
 **Qualifications:**
 
-- The claim is source-scoped to Hanji 1021 and the existing Hanji 1020 Yang Biao branch; it does not prove every accusation against Yang Biao false or true.
+- The claim is source-scoped to 汉纪 1021 and the existing 汉纪 1020 Yang Biao branch; it does not prove every accusation against Yang Biao false or true.
 - Release is treated as constrained punishment when paired with office removal, not as reconciliation or full exoneration.
 - Ma Ridi and Jin Shang are included as adjacent title-symbol legitimacy cases, not as the same prosecution pattern.
 
@@ -1081,285 +1081,285 @@ The California data-broker branch shows that privacy rights depend on compliance
 
 ### Late Han 169 Party Prohibition Survival Timing
 
-[[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|Hanji 896]] adds a 169 CE party-prohibition governance prelude before [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]]: [[ChenShiLateHan]] converts moral reputation and earlier courtesy to [[ZhangRangLateHan]] into later protection, [[HeYongLateHan]] and [[YuanShao]] preserve people through quiet rescue networks, and [[YuanHongLateHan]] plus [[ShentuPanLateHan]] make [[CrisisWithdrawalSelfProtection]] the exit form of [[PoliticalSurvivalFirst]] when unsupported public denunciation under captured power would endanger wider networks.
+[[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg|汉纪 896]] adds a 169 CE party-prohibition governance prelude before [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|汉纪 897]]: [[ChenShiLateHan]] converts moral reputation and earlier courtesy to [[ZhangRangLateHan]] into later protection, [[HeYongLateHan]] and [[YuanShao]] preserve people through quiet rescue networks, and [[YuanHongLateHan]] plus [[ShentuPanLateHan]] make [[CrisisWithdrawalSelfProtection]] the exit form of [[PoliticalSurvivalFirst]] when unsupported public denunciation under captured power would endanger wider networks.
 
 **Evidence:** [[zizhi-tongjian-hanji-896-jiaru-luanshi-jianglin-ni-gai-ruhe-zibao-lsuvt-ksp-gfggc9riqqovjswkg]], [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq]], [[ChenShiLateHan]], [[ZhangRangLateHan]], [[HeYongLateHan]], [[YuanShao]], [[YuanHongLateHan]], [[ShentuPanLateHan]], [[CrisisWithdrawalSelfProtection]], [[PoliticalSurvivalFirst]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 896 and backfills the 169 CE party-prohibition layer before the Hanji 897 leadership/access branch.
+- This claim is source-scoped to 汉纪 896 and backfills the 169 CE party-prohibition layer before the 汉纪 897 leadership/access branch.
 - Yuan-family genealogy details and minor annalistic notices remain source-scoped rather than settled canonical expansions.
 - The self-protection lesson qualifies heroic speech under captured power; it does not deny moral concern or make withdrawal a universal rule.
 
 ### Late Han 170 Leadership Access And Capability Risk
 
-[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] adds a 170 CE governance prelude before [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]]: [[DuanJiongLateHan]] turns frontier service and [[MilitaryMoraleThroughSharedHardship]] into credible leadership, [[GuYongLateHan]] creates [[PoliticalSurrenderCascade]] through trusted settlement, while [[DongChongLateHan]] falsely invokes [[EmpressDowagerDongLateHan]] and [[MengTuoLateHan]] manufactures access through [[ZhangRangLateHan]]'s household, exposing [[ManufacturedAccessBrokerage]], [[PrivateAccessTalentChannel]], and [[CourtOfficeCapture]] as capability and legitimacy risks when office outruns [[ExchangeableCapability]].
+[[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|汉纪 897]] adds a 170 CE governance prelude before [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|汉纪 898]]: [[DuanJiongLateHan]] turns frontier service and [[MilitaryMoraleThroughSharedHardship]] into credible leadership, [[GuYongLateHan]] creates [[PoliticalSurrenderCascade]] through trusted settlement, while [[DongChongLateHan]] falsely invokes [[EmpressDowagerDongLateHan]] and [[MengTuoLateHan]] manufactures access through [[ZhangRangLateHan]]'s household, exposing [[ManufacturedAccessBrokerage]], [[PrivateAccessTalentChannel]], and [[CourtOfficeCapture]] as capability and legitimacy risks when office outruns [[ExchangeableCapability]].
 
 **Evidence:** [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq]], [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj]], [[DuanJiongLateHan]], [[MilitaryMoraleThroughSharedHardship]], [[DongChongLateHan]], [[EmpressDowagerDongLateHan]], [[GuYongLateHan]], [[PoliticalSurrenderCascade]], [[MengTuoLateHan]], [[ZhangRangLateHan]], [[ManufacturedAccessBrokerage]], [[PrivateAccessTalentChannel]], [[ShuleKingdom]], [[LiangzhouLateHan]], [[CourtOfficeCapture]], [[ExchangeableCapability]], [[QiaoXuanLateHan]], [[EmperorLingOfHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 897 and backfills the 170 CE layer before the Hanji 898 Emperor Ling intimacy and disaster branch.
+- This claim is source-scoped to 汉纪 897 and backfills the 170 CE layer before the 汉纪 898 Emperor Ling intimacy and disaster branch.
 - The 170 CE versus 建宁二年 tension and ASR forms such as 段九/官带 are preserved as source-scoped notes rather than settled chronology or naming contradictions.
 - The workplace leadership and 人脉 framing is treated as the host's interpretive bridge, not independent evidence for late-Han institutional causation.
 
 ### Late Han 172 Ritual Order As Felt Institution
 
-[[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|Hanji 899]] adds the immediate 172 CE ritual prelude before [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]]: [[CaiYong]] explains to [[EmperorLingOfHan]] that [[EmperorMingOfHan]]'s Yuanling visit to [[LiuXiu]] requires ceremonially burdensome steps that cannot be casually compressed, making [[LiAsPoliticalOrder]], [[ImperialRitualDistance]], and [[RitualAffectiveOrder]] a governance mechanism for turning ancestral memory, hierarchy, sacredness, and disciplined seriousness into felt order while the opening bribery frame supplies the counter-image of office networks bent by money rather than rite.
+[[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx|汉纪 899]] adds the immediate 172 CE ritual prelude before [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|汉纪 900]]: [[CaiYong]] explains to [[EmperorLingOfHan]] that [[EmperorMingOfHan]]'s Yuanling visit to [[LiuXiu]] requires ceremonially burdensome steps that cannot be casually compressed, making [[LiAsPoliticalOrder]], [[ImperialRitualDistance]], and [[RitualAffectiveOrder]] a governance mechanism for turning ancestral memory, hierarchy, sacredness, and disciplined seriousness into felt order while the opening bribery frame supplies the counter-image of office networks bent by money rather than rite.
 
 **Evidence:** [[zizhi-tongjian-hanji-899-hao-qing-dou-tanguan-ljhic1plzmv8k6lu73j5terihanx]], [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr]], [[CaiYong]], [[EmperorLingOfHan]], [[EmperorMingOfHan]], [[LiuXiu]], [[LiAsPoliticalOrder]], [[ImperialRitualDistance]], [[RitualAffectiveOrder]], [[CaiWenji]], [[HuGuangLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 899 and backfills the ritual opening immediately before the Hanji 900 Hu Guang and Dou Miao procedure layer.
+- This claim is source-scoped to 汉纪 899 and backfills the ritual opening immediately before the 汉纪 900 Hu Guang and Dou Miao procedure layer.
 - The bribery anecdote is preserved as the episode's anti-corruption opening frame rather than the main chronicle governance case.
 - The [[CaiWenji]] and [[HuGuangLateHan]] mentions are connection and preview material here, not independent evidence for the Yuanling ritual argument.
 
 ### Late Han 172 Survival And Prearranged Procedure
 
-[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|Hanji 900]] adds a pre-Hanji 901 172 CE governance setup: [[HuGuangLateHan]]'s six-reign survival turns [[ModerationAsPoliticalSurvival]], [[PoliticalSurvivalFirst]], and [[StrategicEmotionConcealment]] into a morally mixed court-service model, [[HouLanLateHan]] shows palace protection can still fail, and [[EmpressDowagerDouMiao]]'s death plus [[ZhaoZhongLateHan]] supervision of a burial meeting show [[PredeterminedMeetingProcess]] and [[ImperialBurialLegitimacy]] beginning under eunuch-shaped procedural control by [[CaoJieLateHan]] and [[WangFuLateHan]] before [[EmperorLingOfHan]] hears the Hanji 901 correction.
+[[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr|汉纪 900]] adds a pre-汉纪 901 172 CE governance setup: [[HuGuangLateHan]]'s six-reign survival turns [[ModerationAsPoliticalSurvival]], [[PoliticalSurvivalFirst]], and [[StrategicEmotionConcealment]] into a morally mixed court-service model, [[HouLanLateHan]] shows palace protection can still fail, and [[EmpressDowagerDouMiao]]'s death plus [[ZhaoZhongLateHan]] supervision of a burial meeting show [[PredeterminedMeetingProcess]] and [[ImperialBurialLegitimacy]] beginning under eunuch-shaped procedural control by [[CaoJieLateHan]] and [[WangFuLateHan]] before [[EmperorLingOfHan]] hears the 汉纪 901 correction.
 
 **Evidence:** [[zizhi-tongjian-hanji-900-zhichang-quanshu-dou-budong-gai-zenyang-shengcun-lmhjwosy4eswyhfppdghfsmfycqr]], [[HuGuangLateHan]], [[ModerationAsPoliticalSurvival]], [[PoliticalSurvivalFirst]], [[StrategicEmotionConcealment]], [[HouLanLateHan]], [[EmpressDowagerDouMiao]], [[ZhaoZhongLateHan]], [[PredeterminedMeetingProcess]], [[ImperialBurialLegitimacy]], [[CaoJieLateHan]], [[WangFuLateHan]], [[EmperorLingOfHan]], [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 900 and backfills the 172 CE setup immediately before the Hanji 901 burial-legitimacy correction.
+- This claim is source-scoped to 汉纪 900 and backfills the 172 CE setup immediately before the 汉纪 901 burial-legitimacy correction.
 - Hou Lan's trigger is kept uncertain; the internal eunuch-faction explanation is the host's source-scoped inference rather than a settled contradiction finding.
 - The workplace power, anger-control, and advance/retreat lessons are preserved as interpretive analogies, not independent institutional evidence.
 
 ### Late Han Burial Legitimacy Preserves Role Order
 
-[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|Hanji 901]] adds a 172 CE imperial-burial governance case: [[LiXianTaiweiLateHan]] and [[ChenQiuLateHan]] persuade [[EmperorLingOfHan]] that [[EmpressDowagerDouMiao]] should remain ritually joined to [[EmperorHuanOfHan]], making [[ImperialBurialLegitimacy]], [[MingqiLegitimacy]], [[LiAsPoliticalOrder]], [[PosthumousNamePolitics]], and resistance to [[CollateralPunishmentAndGuiltByAssociation]] a correction against [[ZhaoZhongLateHan]], [[CaoJieLateHan]], and [[WangFuLateHan]] family-guilt framing while [[FengGuirenLateHan]] serves as an alternative-claim contrast and [[ChenFanLateHan]] plus [[DouWuLateHan]] remain the background grievance memory.
+[[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud|汉纪 901]] adds a 172 CE imperial-burial governance case: [[LiXianTaiweiLateHan]] and [[ChenQiuLateHan]] persuade [[EmperorLingOfHan]] that [[EmpressDowagerDouMiao]] should remain ritually joined to [[EmperorHuanOfHan]], making [[ImperialBurialLegitimacy]], [[MingqiLegitimacy]], [[LiAsPoliticalOrder]], [[PosthumousNamePolitics]], and resistance to [[CollateralPunishmentAndGuiltByAssociation]] a correction against [[ZhaoZhongLateHan]], [[CaoJieLateHan]], and [[WangFuLateHan]] family-guilt framing while [[FengGuirenLateHan]] serves as an alternative-claim contrast and [[ChenFanLateHan]] plus [[DouWuLateHan]] remain the background grievance memory.
 
 **Evidence:** [[zizhi-tongjian-hanji-901-jixingzi-de-ren-hui-shi-shenme-xiachang-lh1yfyjzqptxvtnv9taiqms9yjud]], [[LiXianTaiweiLateHan]], [[ChenQiuLateHan]], [[EmperorLingOfHan]], [[EmpressDowagerDouMiao]], [[EmperorHuanOfHan]], [[ImperialBurialLegitimacy]], [[MingqiLegitimacy]], [[LiAsPoliticalOrder]], [[PosthumousNamePolitics]], [[CollateralPunishmentAndGuiltByAssociation]], [[ZhaoZhongLateHan]], [[CaoJieLateHan]], [[WangFuLateHan]], [[FengGuirenLateHan]], [[ChenFanLateHan]], [[DouWuLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 901 and backfills a burial-status layer immediately before the Hanji 902 Zhuque Gate accusation branch.
+- This claim is source-scoped to 汉纪 901 and backfills a burial-status layer immediately before the 汉纪 902 Zhuque Gate accusation branch.
 - The source normalizes 陈求 to the existing [[ChenQiuLateHan]] route and keeps [[LiXianTaiweiLateHan]] distinct from [[LiXianLateHan]].
 - The 2025 opening date cue is kept source-scoped against the source metadata date of 2026-07-28.
 
 ### Late Han 172 Zhuque Feedback And Revenge Prelude
 
-[[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|Hanji 902]] pushes the Emperor Ling governance layer back to 172 CE: the Zhuque Gate accusation against [[CaoJieLateHan]] and [[WangFuLateHan]] becomes [[AnonymousRemonstranceSuppression]] when [[EmperorLingOfHan]] orders a speaker hunt, [[LiuMengLateHan]] is demoted for restrained enforcement, [[DuanJiongLateHan]] converts frontier prestige into palace-side coercion against officials and students, [[ZhangHuanLateHan]] survives through [[PoliticalSurvivalFirst]], and [[SuQianLateHan]]'s killing by [[LiHaoLateHan]] sets up [[SuBuweiLateHan]]'s failed tunnel attack under [[AtrocityRetaliationCycle]] and wider [[CourtFeedbackCollapse]].
+[[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b|汉纪 902]] pushes the Emperor Ling governance layer back to 172 CE: the Zhuque Gate accusation against [[CaoJieLateHan]] and [[WangFuLateHan]] becomes [[AnonymousRemonstranceSuppression]] when [[EmperorLingOfHan]] orders a speaker hunt, [[LiuMengLateHan]] is demoted for restrained enforcement, [[DuanJiongLateHan]] converts frontier prestige into palace-side coercion against officials and students, [[ZhangHuanLateHan]] survives through [[PoliticalSurvivalFirst]], and [[SuQianLateHan]]'s killing by [[LiHaoLateHan]] sets up [[SuBuweiLateHan]]'s failed tunnel attack under [[AtrocityRetaliationCycle]] and wider [[CourtFeedbackCollapse]].
 
 **Evidence:** [[zizhi-tongjian-hanji-902-kongzhi-qingxu-shi-rensheng-bixiuke-ljynylvdlsdtjf4es9jmilav863b]], [[CaoJieLateHan]], [[WangFuLateHan]], [[AnonymousRemonstranceSuppression]], [[EmperorLingOfHan]], [[LiuMengLateHan]], [[DuanJiongLateHan]], [[ZhangHuanLateHan]], [[PoliticalSurvivalFirst]], [[SuQianLateHan]], [[LiHaoLateHan]], [[SuBuweiLateHan]], [[AtrocityRetaliationCycle]], [[CourtFeedbackCollapse]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 902 and backfills the 172 CE layer before Hanji 903 rather than replacing later revenge, disaster, and office-churn claims.
+- This claim is source-scoped to 汉纪 902 and backfills the 172 CE layer before 汉纪 903 rather than replacing later revenge, disaster, and office-churn claims.
 - The source's 段颎/段炯 and 李浩 spellings are normalized to existing canonical routes; 王寓 is disambiguated from the existing WangYu page.
 - The emotional-control lesson is preserved as the host's interpretation and is not treated as endorsement of suppression, revenge, or eunuch-side enforcement.
 
 ### Late Han Early Ling Private Grievance And Access Brokerage
 
-[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] adds the following early Emperor Ling governance layer in which private grievance becomes public catastrophe through two channels: [[SuBuweiLateHan]]'s revenge against [[LiHaoLateHan]] triggers retaliatory escalation before [[DuanJiongLateHan]] answers with household extermination under [[PrivatePunishmentWithoutProcedure]] and [[CollateralPunishmentAndGuiltByAssociation]]; separately, [[WangFuLateHan]] turns [[LiuKuiBohaiKing]]'s unpaid restoration bargain for [[BohaiKingdomLateHan]] into a forged throne-security case using [[ZhengSaLateHan]], [[DongTengLateHan]], [[LianZhongLateHan]], [[InnerCourtAccessBrokerageRisk]], [[TreasonAccusationTrap]], and [[PersonalRevengeThroughStatePower]], while [[EmperorLingOfHan]], [[XuShengLateHan]], [[KuaijiCommandery]], [[Xianbei]], [[SouthernXiongnu]], and [[YuanWeiLateHan]] keep frontier and office churn visible before Hanji 904.
+[[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]] adds the following early Emperor Ling governance layer in which private grievance becomes public catastrophe through two channels: [[SuBuweiLateHan]]'s revenge against [[LiHaoLateHan]] triggers retaliatory escalation before [[DuanJiongLateHan]] answers with household extermination under [[PrivatePunishmentWithoutProcedure]] and [[CollateralPunishmentAndGuiltByAssociation]]; separately, [[WangFuLateHan]] turns [[LiuKuiBohaiKing]]'s unpaid restoration bargain for [[BohaiKingdomLateHan]] into a forged throne-security case using [[ZhengSaLateHan]], [[DongTengLateHan]], [[LianZhongLateHan]], [[InnerCourtAccessBrokerageRisk]], [[TreasonAccusationTrap]], and [[PersonalRevengeThroughStatePower]], while [[EmperorLingOfHan]], [[XuShengLateHan]], [[KuaijiCommandery]], [[Xianbei]], [[SouthernXiongnu]], and [[YuanWeiLateHan]] keep frontier and office churn visible before 汉纪 904.
 
 **Evidence:** [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom]], [[SuBuweiLateHan]], [[LiHaoLateHan]], [[DuanJiongLateHan]], [[AtrocityRetaliationCycle]], [[PrivatePunishmentWithoutProcedure]], [[CollateralPunishmentAndGuiltByAssociation]], [[WangFuLateHan]], [[LiuKuiBohaiKing]], [[BohaiKingdomLateHan]], [[ZhengSaLateHan]], [[DongTengLateHan]], [[LianZhongLateHan]], [[InnerCourtAccessBrokerageRisk]], [[TreasonAccusationTrap]], [[PersonalRevengeThroughStatePower]], [[EmperorLingOfHan]], [[XuShengLateHan]], [[KuaijiCommandery]], [[Xianbei]], [[SouthernXiongnu]], [[YuanWeiLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 903 and backfills the pre-Hanji 904 late-Han layer after the 172 CE Hanji 902 prelude rather than replacing the later disaster, Hongdu, and frontier-expedition sequence.
+- This claim is source-scoped to 汉纪 903 and backfills the pre-汉纪 904 late-Han layer after the 172 CE 汉纪 902 prelude rather than replacing the later disaster, Hongdu, and frontier-expedition sequence.
 - Transcript variants for Duan Jiong, Wang Fu, Yuan Wei, and Xu Sheng are normalized to existing wiki routes; Liu Kui's spelling is preserved from the source until later evidence settles the variant.
 - Zhang Xian is left source-scoped because the existing ZhangXianLateHan route belongs to a different late-Han actor.
 
 ### Late Han 174 175 Crisis And Text Standardization Prelude
 
-[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] adds a 174-175 CE prelude before the later appointment and party-prohibition chain: [[XuShengLateHan]]'s revolt gives [[SunJianLateHan]] a crisis setting where locally organized force becomes public career capital through [[CrisisOpportunityConversion]], while [[EmperorLingOfHan]] and [[CaiYong]] answer the same disorder field through [[XipingStoneClassics]] at [[Taixue]], using [[ConfucianIdealGovernance]] and [[LiAsPoliticalOrder]] to stabilize shared classical authority as [[Xianbei]] pressure reaches [[BingzhouLateHan]].
+[[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|汉纪 905]] adds a 174-175 CE prelude before the later appointment and party-prohibition chain: [[XuShengLateHan]]'s revolt gives [[SunJianLateHan]] a crisis setting where locally organized force becomes public career capital through [[CrisisOpportunityConversion]], while [[EmperorLingOfHan]] and [[CaiYong]] answer the same disorder field through [[XipingStoneClassics]] at [[Taixue]], using [[ConfucianIdealGovernance]] and [[LiAsPoliticalOrder]] to stabilize shared classical authority as [[Xianbei]] pressure reaches [[BingzhouLateHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu]], [[XuShengLateHan]], [[SunJianLateHan]], [[CrisisOpportunityConversion]], [[EmperorLingOfHan]], [[CaiYong]], [[XipingStoneClassics]], [[Taixue]], [[ConfucianIdealGovernance]], [[LiAsPoliticalOrder]], [[Xianbei]], [[BingzhouLateHan]]
 
 **Qualifications:**
 
-- The risk-opportunity lesson, Danyang-name uncertainty, and Sun-family omen story remain source-scoped to Hanji 905.
+- The risk-opportunity lesson, Danyang-name uncertainty, and Sun-family omen story remain source-scoped to 汉纪 905.
 - The Xiping Stone Classics show a cultural-textual stabilization attempt, not evidence that text standardization repaired late-Han institutional breakdown by itself.
 
 ### Late Han 177 178 Xianbei Expedition Hostage And Hongdu Prelude
 
-[[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] through [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|Hanji 910]] add a 176-178 CE governance prelude: [[CaoLuanLateHan]] uses [[NaturalDisasterPoliticalOmen]] to remonstrate for party figures, but [[EmperorLingOfHan]] answers with death and wider [[PartyProhibitionKinshipExpansion]] under [[CollateralPunishmentAndGuiltByAssociation]], tightening [[CourtFeedbackCollapse]] before later [[PartyProhibitionKinshipNarrowing]]; the same 176-177 layer shows false [[FilialMourningAccessCredential]] access, early [[HongduMenxue]]-style literary-artistic favor, and [[LiuBei]] plus [[GongsunZan]] studying under [[LuZhiLateHan]] as context for moral and cultural credentials becoming office access. [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] then shows [[CaiYong]] warning [[EmperorLingOfHan]] that ritual neglect, minor-skill appointment drift, and Xuanling filial-sons access to the crown prince are weakening [[LiAsPoliticalOrder]], [[Taixue]], and verified responsibility, creating an early [[OfficialSelectionChannelCompetition]] problem before [[HongduMenxue]]; [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|Hanji 909]] then shows Cai Yong warning that a deep [[Xianbei]] expedition lacks state capacity while [[WangFuLateHan]] helps push [[TianYanLateHan]] into command and [[XiaYuLateHan]], Tian Yan, and [[ZangMinLateHan]] are defeated by [[TanshihuaiXianbei]], making [[OverextendedFrontierExpedition]], [[WarCostTempoDiscipline]], [[XingshiqingStrategicAssessment]], and [[CourtFeedbackCollapse]] visible before [[ZhaoBaoLateHan]] faces [[LoyaltyCollateralDilemma]] in the 177-178 frontier setting.
+[[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|汉纪 907]] through [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk|汉纪 910]] add a 176-178 CE governance prelude: [[CaoLuanLateHan]] uses [[NaturalDisasterPoliticalOmen]] to remonstrate for party figures, but [[EmperorLingOfHan]] answers with death and wider [[PartyProhibitionKinshipExpansion]] under [[CollateralPunishmentAndGuiltByAssociation]], tightening [[CourtFeedbackCollapse]] before later [[PartyProhibitionKinshipNarrowing]]; the same 176-177 layer shows false [[FilialMourningAccessCredential]] access, early [[HongduMenxue]]-style literary-artistic favor, and [[LiuBei]] plus [[GongsunZan]] studying under [[LuZhiLateHan]] as context for moral and cultural credentials becoming office access. [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|汉纪 908]] then shows [[CaiYong]] warning [[EmperorLingOfHan]] that ritual neglect, minor-skill appointment drift, and Xuanling filial-sons access to the crown prince are weakening [[LiAsPoliticalOrder]], [[Taixue]], and verified responsibility, creating an early [[OfficialSelectionChannelCompetition]] problem before [[HongduMenxue]]; [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj|汉纪 909]] then shows Cai Yong warning that a deep [[Xianbei]] expedition lacks state capacity while [[WangFuLateHan]] helps push [[TianYanLateHan]] into command and [[XiaYuLateHan]], Tian Yan, and [[ZangMinLateHan]] are defeated by [[TanshihuaiXianbei]], making [[OverextendedFrontierExpedition]], [[WarCostTempoDiscipline]], [[XingshiqingStrategicAssessment]], and [[CourtFeedbackCollapse]] visible before [[ZhaoBaoLateHan]] faces [[LoyaltyCollateralDilemma]] in the 177-178 frontier setting.
 
 **Evidence:** [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79]], [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj]], [[zizhi-tongjian-hanji-909-2025-ruhe-yangcheng-yi-shen-guiqi-lomndmphrybunjbbbbn9ebafcsj]], [[zizhi-tongjian-hanji-910-shehui-shengcun-wo-quan-ni-duodian-chengfu-lp2fvuyb8ampzoeyr7znztnr0fgk]], [[CaoLuanLateHan]], [[NaturalDisasterPoliticalOmen]], [[EmperorLingOfHan]], [[PartyProhibitionKinshipExpansion]], [[CollateralPunishmentAndGuiltByAssociation]], [[CourtFeedbackCollapse]], [[PartyProhibitionKinshipNarrowing]], [[FilialMourningAccessCredential]], [[HongduMenxue]], [[LiuBei]], [[GongsunZan]], [[LuZhiLateHan]], [[CaiYong]], [[LiAsPoliticalOrder]], [[Taixue]], [[OfficialSelectionChannelCompetition]], [[WangFuLateHan]], [[TianYanLateHan]], [[XiaYuLateHan]], [[ZangMinLateHan]], [[Xianbei]], [[TanshihuaiXianbei]], [[OverextendedFrontierExpedition]], [[WarCostTempoDiscipline]], [[XingshiqingStrategicAssessment]], [[ZhaoBaoLateHan]], [[LoyaltyCollateralDilemma]]
 
 **Qualifications:**
 
-- Hanji 907's "心病" and solitude lesson, like Hanji 908's Wang Yangming, Analects, and meditation lessons, is source-scoped personal teaching and is not converted into a settled institutional claim here.
-- Cao Luan's disaster-omen remonstrance in Hanji 907 shows lethal feedback breakdown and widened kinship liability, but it does not prove that every late-Han disaster memorial produced the same response.
-- Emperor Ling's partial ritual and personnel correction in Hanji 908 shows recoverable feedback at the margins, not systemic repair of the late-Han court.
-- The Hanji 909 expedition claim is source-scoped to the late-Han synthesis paragraph and does not settle every Eastern Han external campaign boundary.
+- 汉纪 907's "心病" and solitude lesson, like 汉纪 908's Wang Yangming, Analects, and meditation lessons, is source-scoped personal teaching and is not converted into a settled institutional claim here.
+- Cao Luan's disaster-omen remonstrance in 汉纪 907 shows lethal feedback breakdown and widened kinship liability, but it does not prove that every late-Han disaster memorial produced the same response.
+- Emperor Ling's partial ritual and personnel correction in 汉纪 908 shows recoverable feedback at the margins, not systemic repair of the late-Han court.
+- The 汉纪 909 expedition claim is source-scoped to the late-Han synthesis paragraph and does not settle every Eastern Han external campaign boundary.
 - The Hongdu motive is preserved as the episode host's source-scoped interpretation rather than a settled institutional judgment.
 - The Zhao Bao case shows public-duty victory with unresolved family cost, not a simple rule for all hostage or filial-duty cases.
 
 ### Late Han 178 179 Hongdu Office Sale And Correction Failure
 
-Hanji 914 adds a 178-179 CE prelude to the late-Han governance chain: [[EmperorLingOfHan]] backs [[HongduMenxue]] as a prestige-and-appointment channel, ignores [[YangQiuLateHan]]'s warning, prices offices through Xidi so [[OfficeSaleLegitimacyDamage]] and [[ImperialPrivateTreasuryExtraction]] feed each other under [[CourtOfficeCapture]], and then receives [[YangQiLateHan]]'s Emperor Huan comparison through a family-reputation taunt invoking [[YangZhenLateHan]]; the [[SouthernXiongnu]] succession to [[HuzhengChanyu]] supplies the frontier baseline immediately before the later requisition-backfire sequence.
+汉纪 914 adds a 178-179 CE prelude to the late-Han governance chain: [[EmperorLingOfHan]] backs [[HongduMenxue]] as a prestige-and-appointment channel, ignores [[YangQiuLateHan]]'s warning, prices offices through Xidi so [[OfficeSaleLegitimacyDamage]] and [[ImperialPrivateTreasuryExtraction]] feed each other under [[CourtOfficeCapture]], and then receives [[YangQiLateHan]]'s Emperor Huan comparison through a family-reputation taunt invoking [[YangZhenLateHan]]; the [[SouthernXiongnu]] succession to [[HuzhengChanyu]] supplies the frontier baseline immediately before the later requisition-backfire sequence.
 
 **Evidence:** [[zizhi-tongjian-hanji-914-xinren-de-ren-weihe-zong-shang-ni-zui-shen-lvwit-rzrkscn5a3h6wblntxppso]], [[EmperorLingOfHan]], [[HongduMenxue]], [[YangQiuLateHan]], [[YangQiLateHan]], [[YangZhenLateHan]], [[OfficeSaleLegitimacyDamage]], [[ImperialPrivateTreasuryExtraction]], [[CourtOfficeCapture]], [[CourtFeedbackCollapse]], [[SouthernXiongnu]], [[HuzhengChanyu]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 914 and backfills the 178-179 CE layer immediately before Hanji 915.
+- This claim is source-scoped to 汉纪 914 and backfills the 178-179 CE layer immediately before 汉纪 915.
 - The host opening about trust, injury, and self-cultivation is preserved as source-scoped interpretation rather than promoted into a general psychology claim.
 - Transcript variants 弘都门, 杨求, 杨齐, 岳松, and 江澜 are normalized cautiously; no separate canonical pages are created for source-scoped names.
 - The Xidi office-sale branch concerns explicit pricing of office and private-treasury proceeds, not every later fee, construction, or disaster-finance mechanism.
 
 ### Late Han 179 Private Attachment And Palace Network Leverage
 
-Hanji 915 adds a 179 CE governance layer in which private attachment becomes political leverage in two directions: [[QiaoXuanLateHan]] and [[LiuXiu]] are used to define [[HostageRansomDeterrence]] against ransom incentives, while [[YangQiuLateHan]] turns evidence from [[YangBiao]] and outrage over [[WangJiLateHan]] into a brutal prosecution of [[WangFuLateHan]], [[WangMengLateHan]], and [[DuanJiongLateHan]] that [[EmperorLingOfHan]] authorizes without dismantling [[CaoJieLateHan]]'s palace access or the wider [[TenAttendantsLateHan]] network.
+汉纪 915 adds a 179 CE governance layer in which private attachment becomes political leverage in two directions: [[QiaoXuanLateHan]] and [[LiuXiu]] are used to define [[HostageRansomDeterrence]] against ransom incentives, while [[YangQiuLateHan]] turns evidence from [[YangBiao]] and outrage over [[WangJiLateHan]] into a brutal prosecution of [[WangFuLateHan]], [[WangMengLateHan]], and [[DuanJiongLateHan]] that [[EmperorLingOfHan]] authorizes without dismantling [[CaoJieLateHan]]'s palace access or the wider [[TenAttendantsLateHan]] network.
 
 **Evidence:** [[zizhi-tongjian-hanji-915-shishang-meiyou-zhenzheng-de-kouwu-zhehua-dui-ma-lgxcodjxnaozvyegxqurgzji5gus]], [[QiaoXuanLateHan]], [[LiuXiu]], [[HostageRansomDeterrence]], [[YangQiuLateHan]], [[YangBiao]], [[WangJiLateHan]], [[WangFuLateHan]], [[WangMengLateHan]], [[DuanJiongLateHan]], [[EmperorLingOfHan]], [[CaoJieLateHan]], [[TenAttendantsLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 915 and backfills the 179 CE layer immediately before Hanji 916-918.
+- This claim is source-scoped to 汉纪 915 and backfills the 179 CE layer immediately before 汉纪 916-918.
 - The episode's no-ransom effect claim and relationship-boundary opening are preserved as source-scoped rather than promoted into general policy or psychology findings.
 - The anti-Wang Fu prosecution exposes eunuch-network abuse but also uses brutal methods, so it should not be treated as a clean rule-of-law success.
 
 ### Late Han 182 183 Feedback Pacification And Mobilization Prelude
 
-Hanji 922 pushes late-Han breakdown before the 184 CE Yellow Turban sequence: [[EmperorLingOfHan]]'s anti-corruption request is inverted by [[XuXuTaiweiLateHan]] and [[ZhangJiSikongLateHan]] until [[ChenDanLateHan]] partially repairs [[CourtFeedbackCollapse]]; [[ChenBaoLateHan]] reads the [[BandunMan]] rebellion in [[BaCommanderyLateHan]] as official-extraction grievance and the [[CaoQianLateHan]] appointment plus amnesty as [[RootCausePacification]] and [[PeopleBasedPoliticalSecurity]]; Ling's tower and hunting display extend [[UntimelyExtravagance]], while [[HuanDianLateHan]] and [[ZhangJiaoLateHan]]'s [[TaipingDao]] growth show individual censorial deterrence and [[ReliefBasedReligiousMobilization]] before [[YellowTurbansLateHan]] open revolt.
+汉纪 922 pushes late-Han breakdown before the 184 CE Yellow Turban sequence: [[EmperorLingOfHan]]'s anti-corruption request is inverted by [[XuXuTaiweiLateHan]] and [[ZhangJiSikongLateHan]] until [[ChenDanLateHan]] partially repairs [[CourtFeedbackCollapse]]; [[ChenBaoLateHan]] reads the [[BandunMan]] rebellion in [[BaCommanderyLateHan]] as official-extraction grievance and the [[CaoQianLateHan]] appointment plus amnesty as [[RootCausePacification]] and [[PeopleBasedPoliticalSecurity]]; Ling's tower and hunting display extend [[UntimelyExtravagance]], while [[HuanDianLateHan]] and [[ZhangJiaoLateHan]]'s [[TaipingDao]] growth show individual censorial deterrence and [[ReliefBasedReligiousMobilization]] before [[YellowTurbansLateHan]] open revolt.
 
 **Evidence:** [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x]], [[EmperorLingOfHan]], [[XuXuTaiweiLateHan]], [[ZhangJiSikongLateHan]], [[ChenDanLateHan]], [[CourtFeedbackCollapse]], [[ChenBaoLateHan]], [[BandunMan]], [[CaoQianLateHan]], [[BaCommanderyLateHan]], [[RootCausePacification]], [[PeopleBasedPoliticalSecurity]], [[WuyangJun]], [[HuanDianLateHan]], [[ZhangJiaoLateHan]], [[TaipingDao]], [[YellowTurbansLateHan]], [[ReliefBasedReligiousMobilization]], [[UntimelyExtravagance]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 922 and backfills the 182-183 CE layer before Hanji 923-925 rather than replacing the later warning, organization, and battlefield claims.
+- This claim is source-scoped to 汉纪 922 and backfills the 182-183 CE layer before 汉纪 923-925 rather than replacing the later warning, organization, and battlefield claims.
 - [[ZhangJiSikongLateHan]] is kept distinct from [[ZhangJiLateHan]], the later warlord and Zhang Xiu namesake branch.
 - The host's emotional-intelligence opening and Zhang Jiao healing reports remain source-scoped interpretations rather than independent policy or medical claims.
 
 ### Late Han Liu Biao Defensive Governance Exposes Peripheral Fracture
 
-Hanji 1027 and Hanji 1036 together add a governance limit to [[LiuBiao]]'s [[Jingzhou]] order: after Liu Biao accepts Li-Guo court recognition while staying close to [[YuanShao]], [[DengXiLateHan]] reads the double alignment as dangerous and Liu Biao dismisses the warning; later [[ZhangXianLateHan]] and [[HuanJieLateHan]] attach [[SouthernJingzhouLateHan]] commanderies to [[CaoCao]]. Hanji 1036 then shows the same problem before [[GuanduCampaign]] from inside Liu Biao's court: [[LiuXianLateHan]] and [[HanSongLateHan]] warn that helping neither Yuan Shao nor Cao Cao can alienate both, and Han Song sees the [[Xudu]] mission as a [[CourtLegitimacyOverPatronLoyalty]] trap unless submission is already chosen. Together, [[DefensiveLocalGovernance]] turns into [[FenceSittingStrategicExposure]] and [[SuspicionDrivenEliteAlienation]] when local preservation lacks decisive alignment and clear loyalty rules.
+汉纪 1027 and 汉纪 1036 together add a governance limit to [[LiuBiao]]'s [[Jingzhou]] order: after Liu Biao accepts Li-Guo court recognition while staying close to [[YuanShao]], [[DengXiLateHan]] reads the double alignment as dangerous and Liu Biao dismisses the warning; later [[ZhangXianLateHan]] and [[HuanJieLateHan]] attach [[SouthernJingzhouLateHan]] commanderies to [[CaoCao]]. 汉纪 1036 then shows the same problem before [[GuanduCampaign]] from inside Liu Biao's court: [[LiuXianLateHan]] and [[HanSongLateHan]] warn that helping neither Yuan Shao nor Cao Cao can alienate both, and Han Song sees the [[Xudu]] mission as a [[CourtLegitimacyOverPatronLoyalty]] trap unless submission is already chosen. Together, [[DefensiveLocalGovernance]] turns into [[FenceSittingStrategicExposure]] and [[SuspicionDrivenEliteAlienation]] when local preservation lacks decisive alignment and clear loyalty rules.
 
 **Evidence:** [[zizhi-tongjian-hanji-1027-jingzhou-zhizhu-liubiao-weihe-nan-cheng-bazhu-ll-ebguqllsf-5ycvpdogihzn3lj]], [[LiuBiao]], [[Jingzhou]], [[YuanShao]], [[DengXiLateHan]], [[ZhangXianLateHan]], [[HuanJieLateHan]], [[SouthernJingzhouLateHan]], [[ChangshaCommanderyLateHan]], [[LinglingCommanderyLateHan]], [[GuiyangCommanderyLateHan]], [[CaoCao]], [[HuangZu]], [[WuxiMan]], [[ShaMoke]], [[DefensiveLocalGovernance]], [[FenceSittingStrategicExposure]], [[XingshiqingStrategicAssessment]], [[GuanduCampaign]], [[FactionalAlignmentExitCapital]], [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz]], [[LiuXianLateHan]], [[HanSongLateHan]], [[Xudu]], [[EmperorXianOfHan]], [[CourtLegitimacyOverPatronLoyalty]], [[SuspicionDrivenEliteAlienation]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1027 and Hanji 1036 and qualifies earlier Liu Biao defensive-governance claims rather than overturning them.
+- This claim is source-scoped to 汉纪 1027 and 汉纪 1036 and qualifies earlier Liu Biao defensive-governance claims rather than overturning them.
 - The workplace factional-alignment frame and numerical career-capital advice remain the host's analogy, not a general governance rule.
 - The source treats Zhang Xian and Huan Jie's southern move as evidence of Jingzhou integration limits before Guandu, not as a complete account of the Guandu campaign itself.
-- Hanji 1036 supplies the pre-mission warning; Hanji 1037 supplies the later betrayal interpretation and punishment.
+- 汉纪 1036 supplies the pre-mission warning; 汉纪 1037 supplies the later betrayal interpretation and punishment.
 
 ### Late Han 184 Compromise Status And Warning Threshold
 
-Hanji 925 adds a governance threshold before the Yellow Turban command-replacement sequence: [[GongsunHong]] advises [[HanWudi]] by narrowing a policy conflict around [[Xiongnu]] pressure into [[StrategicCompromiseAsAgency]], [[CaoCao]] punishes [[JianShuoLateHan]]'s uncle through [[StatusConditionedRiskTaking]] and [[HighStatusLawEnforcementSignal]], and [[EmperorLingOfHan]] treats [[YangCiLateHan]] and [[LiuTaoLateHan]] as accurate only after the [[YellowTurbansLateHan]] crisis proves their earlier warnings.
+汉纪 925 adds a governance threshold before the Yellow Turban command-replacement sequence: [[GongsunHong]] advises [[HanWudi]] by narrowing a policy conflict around [[Xiongnu]] pressure into [[StrategicCompromiseAsAgency]], [[CaoCao]] punishes [[JianShuoLateHan]]'s uncle through [[StatusConditionedRiskTaking]] and [[HighStatusLawEnforcementSignal]], and [[EmperorLingOfHan]] treats [[YangCiLateHan]] and [[LiuTaoLateHan]] as accurate only after the [[YellowTurbansLateHan]] crisis proves their earlier warnings.
 
 **Evidence:** [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4]], [[GongsunHong]], [[HanWudi]], [[Xiongnu]], [[StrategicCompromiseAsAgency]], [[CaoCao]], [[JianShuoLateHan]], [[StatusConditionedRiskTaking]], [[HighStatusLawEnforcementSignal]], [[EmperorLingOfHan]], [[YangCiLateHan]], [[LiuTaoLateHan]], [[YellowTurbansLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 925 and backfills the 184 CE layer before Hanji 926-928.
+- This claim is source-scoped to 汉纪 925 and backfills the 184 CE layer before 汉纪 926-928.
 - Jian Tu, Deng Sheng, Zhao Qian, Guo Xun, Liu Wei, Shaoling, and Guangyang remain source-scoped and are not promoted into claim support.
 - The warning branch shows delayed recognition, not a repaired court feedback system.
 
 ### Late Han Inspection Gift Gatekeeping Turns Progress Into Removal
 
-Hanji 928 adds an inspection-report version of late-Han governance failure: while [[HuangfuSongLateHan]] and [[ZhuJunLateHan]] are still winning Yellow Turban field actions and [[LuZhiLateHan]] has pushed [[ZhangJiaoLateHan]] into Guangzong, [[EmperorLingOfHan]] relies on [[ZuoFengLateHan]]'s inspection report after Lu Zhi refuses a gift, so [[InspectionGiftGatekeeping]], [[PalaceAccessMonopoly]], and [[CourtFeedbackCollapse]] recode siege preparation as delay and trigger Lu Zhi's removal, [[DongZhuo]]'s appointment, and [[BattlefieldCommanderReplacementRisk]].
+汉纪 928 adds an inspection-report version of late-Han governance failure: while [[HuangfuSongLateHan]] and [[ZhuJunLateHan]] are still winning Yellow Turban field actions and [[LuZhiLateHan]] has pushed [[ZhangJiaoLateHan]] into Guangzong, [[EmperorLingOfHan]] relies on [[ZuoFengLateHan]]'s inspection report after Lu Zhi refuses a gift, so [[InspectionGiftGatekeeping]], [[PalaceAccessMonopoly]], and [[CourtFeedbackCollapse]] recode siege preparation as delay and trigger Lu Zhi's removal, [[DongZhuo]]'s appointment, and [[BattlefieldCommanderReplacementRisk]].
 
 **Evidence:** [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o]], [[HuangfuSongLateHan]], [[ZhuJunLateHan]], [[YellowTurbansLateHan]], [[LuZhiLateHan]], [[ZhangJiaoLateHan]], [[EmperorLingOfHan]], [[ZuoFengLateHan]], [[InspectionGiftGatekeeping]], [[PalaceAccessMonopoly]], [[CourtFeedbackCollapse]], [[DongZhuo]], [[BattlefieldCommanderReplacementRisk]], [[PoliticalSurvivalFirst]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 928 and backfills the 184 CE Yellow Turban command layer before Hanji 929's Dong Zhuo replacement-failure branch.
+- This claim is source-scoped to 汉纪 928 and backfills the 184 CE Yellow Turban command layer before 汉纪 929's Dong Zhuo replacement-failure branch.
 - The workplace gift-politics lesson is preserved as the host's interpretive frame, not as a general recommendation or as a complete account of late-Han administration.
 - Bo Cai, Peng Tuo, Yangdi, Xihua, Guangzong, and Runan remain source-scoped campaign geography or actors from this bounded input rather than new canonical governance pages.
 
 ### Late Han Protected Eunuch Networks Invert Court Feedback
 
-Hanji 931 adds a court-feedback layer before palace-fee and frontier failures: as [[WangYunLateHan]] reports correspondence between [[ZhangRangLateHan]]'s retainers and the Yellow Turban side, [[EmperorLingOfHan]] scolds but preserves Zhang Rang, so protected palace access turns accurate reporting into retaliation under [[CourtFeedbackCollapse]]. Wang Yun's imprisonment, refusal of private suicide, rescue by [[HeJin]], [[YangCiLateHan]], and [[YuanWeiLateHan]], and [[GuoTaiLateHan]]'s public praise show [[OfficeDutyMartyrdom]] and [[MingqiLegitimacy]] depending on public procedure and [[MoralReputationPoliticalCapital]], not only inner moral resolve.
+汉纪 931 adds a court-feedback layer before palace-fee and frontier failures: as [[WangYunLateHan]] reports correspondence between [[ZhangRangLateHan]]'s retainers and the Yellow Turban side, [[EmperorLingOfHan]] scolds but preserves Zhang Rang, so protected palace access turns accurate reporting into retaliation under [[CourtFeedbackCollapse]]. Wang Yun's imprisonment, refusal of private suicide, rescue by [[HeJin]], [[YangCiLateHan]], and [[YuanWeiLateHan]], and [[GuoTaiLateHan]]'s public praise show [[OfficeDutyMartyrdom]] and [[MingqiLegitimacy]] depending on public procedure and [[MoralReputationPoliticalCapital]], not only inner moral resolve.
 
 **Evidence:** [[zizhi-tongjian-hanji-931-rensheng-jiannan-chu-bianshi-xiuxin-shi-lpzmvxop8lmlwvxhoojzj5ok9qd6]], [[WangYunLateHan]], [[ZhangRangLateHan]], [[EmperorLingOfHan]], [[CourtFeedbackCollapse]], [[HeJin]], [[YangCiLateHan]], [[YuanWeiLateHan]], [[GuoTaiLateHan]], [[OfficeDutyMartyrdom]], [[MingqiLegitimacy]], [[MoralReputationPoliticalCapital]], [[LuoyangLateHan]], [[PandemicAsHistoricalForce]], [[WarDisasterCompounding]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 931 and backfills the 184-185 CE layer before Hanji 932's palace-finance branch.
+- This claim is source-scoped to 汉纪 931 and backfills the 184-185 CE layer before 汉纪 932's palace-finance branch.
 - The transcript forms "杨次" and "袁伟" are normalized to [[YangCiLateHan|杨赐]] and [[YuanWeiLateHan|袁隗]].
 - The 185 CE plague, palace-fire, famine, and refugee material is treated as breakdown context rather than as a complete medical, omen, or disaster chronology.
 
 ### Late Han Office Incorporation And Sale Precede Office Fragility
 
-Hanji 932-933 push late-Han governance breakdown into the 184-185 CE layer: [[PalaceConstructionFeeExtraction]] under [[EmperorLingOfHan]], [[ZhangRangLateHan]], and [[ZhaoZhongLateHan]] makes office entry a downward extraction channel that [[SimaZhiLateHan]] refuses in [[JuluCommanderyLateHan]] and [[LuKangLateHan]] contests through remonstrance, while [[CourtFeedbackCollapse]] lets palace favorites recode correction as disrespect; then Hanji 933 shows the same weak court unable to suppress [[ZhangYanLateHan]] and the [[HeishanArmy]], using [[OfficeBasedRebelIncorporation]] to turn a network rooted in [[ZhangNiujiaoLateHan]] into delegated mountain order, and [[CuiLieLateHan]]'s purchased situ appointment via [[ChengFurenLateHan]] plus [[CuiJunLateHan]]'s reported public stink judgment show [[OfficeSaleLegitimacyDamage]] eroding [[MoralReputationPoliticalCapital]] and [[MingqiLegitimacy]] before later [[CourtOfficeCapture]].
+汉纪 932-933 push late-Han governance breakdown into the 184-185 CE layer: [[PalaceConstructionFeeExtraction]] under [[EmperorLingOfHan]], [[ZhangRangLateHan]], and [[ZhaoZhongLateHan]] makes office entry a downward extraction channel that [[SimaZhiLateHan]] refuses in [[JuluCommanderyLateHan]] and [[LuKangLateHan]] contests through remonstrance, while [[CourtFeedbackCollapse]] lets palace favorites recode correction as disrespect; then 汉纪 933 shows the same weak court unable to suppress [[ZhangYanLateHan]] and the [[HeishanArmy]], using [[OfficeBasedRebelIncorporation]] to turn a network rooted in [[ZhangNiujiaoLateHan]] into delegated mountain order, and [[CuiLieLateHan]]'s purchased situ appointment via [[ChengFurenLateHan]] plus [[CuiJunLateHan]]'s reported public stink judgment show [[OfficeSaleLegitimacyDamage]] eroding [[MoralReputationPoliticalCapital]] and [[MingqiLegitimacy]] before later [[CourtOfficeCapture]].
 
 **Evidence:** [[zizhi-tongjian-hanji-932-weishenme-ren-yue-hao-yue-nan-dang-daguan-lvwzel782wcxs1lpt3rg2vmkdy29]], [[PalaceConstructionFeeExtraction]], [[EmperorLingOfHan]], [[ZhangRangLateHan]], [[ZhaoZhongLateHan]], [[SimaZhiLateHan]], [[JuluCommanderyLateHan]], [[LuKangLateHan]], [[CourtFeedbackCollapse]], [[zizhi-tongjian-hanji-933-weiguan-zhidao-yousuo-wei-yousuo-buwei-lopulnufsagoqyx7nngvcqi2nhrj]], [[ZhangYanLateHan]], [[HeishanArmy]], [[OfficeBasedRebelIncorporation]], [[ZhangNiujiaoLateHan]], [[LuoyangLateHan]], [[CuiLieLateHan]], [[ChengFurenLateHan]], [[CuiJunLateHan]], [[OfficeSaleLegitimacyDamage]], [[MoralReputationPoliticalCapital]], [[MingqiLegitimacy]], [[CourtOfficeCapture]], [[YuanWeiLateHan]], [[ChengFuren]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 932-933 and backfills 184-185 CE before Hanji 936's palace-corruption layer and Hanji 970's later Zhang Yan campaign branch.
-- Hanji 932 concerns coerced fee transfer and clean official refusal, not voluntary purchase of office; Hanji 933 gives the bought-office and rebel-incorporation branch.
+- This claim is source-scoped to 汉纪 932-933 and backfills 184-185 CE before 汉纪 936's palace-corruption layer and 汉纪 970's later Zhang Yan campaign branch.
+- 汉纪 932 concerns coerced fee transfer and clean official refusal, not voluntary purchase of office; 汉纪 933 gives the bought-office and rebel-incorporation branch.
 - The office grant is treated as incorporation under weak suppression capacity, not proof of full loyalty or restored command over the Black Mountain field.
 - The bought-office branch concerns public office purchase, not the narrower emergency rank sale pattern represented by rank-sale disaster finance.
 - [[ChengFurenLateHan|程夫人 / Madam Cheng (late Han)]] is kept distinct from [[ChengFuren|程夫人 / Madam Cheng]], Su Shi's mother.
 
 ### Late Han Frontier Abandonment And Palace Slander Couple Policy And Feedback Failure
 
-Hanji 934 adds a governance layer in which [[EmperorLingOfHan]]'s court can still hear strategic correction but cannot protect useful service from palace interpretation: [[CuiLieLateHan]]'s proposal to abandon [[LiangzhouLateHan]] because of rebellion and fiscal pressure is stopped by [[FuXie]] through [[StrategicFrontierAbandonment]], while [[HuangfuSongLateHan]]'s defense role around [[GuanzhongRegion]] and [[ChangAnHanCapital]], refusal of [[ZhangRangLateHan]]'s private demand, and memorial against [[ZhaoZhongLateHan]] are recoded through [[PalaceAccessMonopoly]] and [[CourtFeedbackCollapse]] into punishment rather than [[MeritBasedRewardPunishment]].
+汉纪 934 adds a governance layer in which [[EmperorLingOfHan]]'s court can still hear strategic correction but cannot protect useful service from palace interpretation: [[CuiLieLateHan]]'s proposal to abandon [[LiangzhouLateHan]] because of rebellion and fiscal pressure is stopped by [[FuXie]] through [[StrategicFrontierAbandonment]], while [[HuangfuSongLateHan]]'s defense role around [[GuanzhongRegion]] and [[ChangAnHanCapital]], refusal of [[ZhangRangLateHan]]'s private demand, and memorial against [[ZhaoZhongLateHan]] are recoded through [[PalaceAccessMonopoly]] and [[CourtFeedbackCollapse]] into punishment rather than [[MeritBasedRewardPunishment]].
 
 **Evidence:** [[zizhi-tongjian-hanji-934-sha-yiren-ze-tianxia-an-ni-sha-busha-ltar8hvdkqct8oizm3k22z38b1v8]], [[EmperorLingOfHan]], [[CuiLieLateHan]], [[LiangzhouLateHan]], [[FuXie]], [[StrategicFrontierAbandonment]], [[HuangfuSongLateHan]], [[GuanzhongRegion]], [[ChangAnHanCapital]], [[ZhangRangLateHan]], [[ZhaoZhongLateHan]], [[PalaceAccessMonopoly]], [[CourtFeedbackCollapse]], [[MeritBasedRewardPunishment]], [[TenAttendantsLateHan]], [[OfficeSaleLegitimacyDamage]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 934 and backfills the 185 CE layer between Hanji 933's office-sale branch and Hanji 935's Liu Tao / Zhang Wen crisis branch.
+- This claim is source-scoped to 汉纪 934 and backfills the 185 CE layer between 汉纪 933's office-sale branch and 汉纪 935's Liu Tao / Zhang Wen crisis branch.
 - Fu Xie's successful Liangzhou rebuttal is not treated as proof that the late-Han feedback system is healthy; Huangfu Song's punishment shows the same court accepting palace-favorite slander soon afterward.
 - The Hexi commandery list and Cui Zhouping literary opening are kept as source-scoped context rather than broadened into separate strategic-geography or literary-reception claims.
 
 ### Late Han People Support And Relief Integrity Precede Provincial Rule
 
-Hanji 940 pushes the late-Han governance collapse earlier: in [[YizhouLateHan]], [[XiJianLateHan]]'s extraction weakens [[PeopleBasedPoliticalSecurity]], [[MaXiangLateHan]] and [[ZhaoZhiLateHan]] turn Yellow Turban mobilization at [[MianzhuLateHan]] into a fast but brittle bid across [[BaCommanderyLateHan]] and [[QianweiCommanderyLateHan]], [[JiaLongLateHan]] restores local order, and [[LiuYanLateHan]] enters through [[YizhouPacificationByLeniency]], while [[DisasterReliefCorruption]] and [[DisasterResponseStateCapacity]] show flood relief becoming a parallel test of official integrity.
+汉纪 940 pushes the late-Han governance collapse earlier: in [[YizhouLateHan]], [[XiJianLateHan]]'s extraction weakens [[PeopleBasedPoliticalSecurity]], [[MaXiangLateHan]] and [[ZhaoZhiLateHan]] turn Yellow Turban mobilization at [[MianzhuLateHan]] into a fast but brittle bid across [[BaCommanderyLateHan]] and [[QianweiCommanderyLateHan]], [[JiaLongLateHan]] restores local order, and [[LiuYanLateHan]] enters through [[YizhouPacificationByLeniency]], while [[DisasterReliefCorruption]] and [[DisasterResponseStateCapacity]] show flood relief becoming a parallel test of official integrity.
 
 **Evidence:** [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j]], [[YizhouLateHan]], [[XiJianLateHan]], [[PeopleBasedPoliticalSecurity]], [[MaXiangLateHan]], [[ZhaoZhiLateHan]], [[MianzhuLateHan]], [[BaCommanderyLateHan]], [[QianweiCommanderyLateHan]], [[JiaLongLateHan]], [[LiuYanLateHan]], [[YizhouPacificationByLeniency]], [[DisasterReliefCorruption]], [[DisasterResponseStateCapacity]], [[FanLingLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 940 and backfills the 188 CE Yizhou and flood-relief layer before Hanji 941's court-office branch.
+- This claim is source-scoped to 汉纪 940 and backfills the 188 CE Yizhou and flood-relief layer before 汉纪 941's court-office branch.
 - Ma Xiang's Son-of-Heaven claim is treated as fast mobilization from resentment, not as durable state formation.
 - The source's "留言" and "樊麟" renderings are normalized to canonical [[LiuYanLateHan|刘焉]] and [[FanLingLateHan|樊陵]] while preserving source-scope caution.
 - The seven-commandery flood passage supports the relief-integrity comparison, not a complete disaster-administration survey.
 
 ### Late Han Provincial Office Fragility Precedes Warlord Rule
 
-Hanji 938-939 add the upstream institutional prelude to late-Han provincial rule: [[GengBiLateHan]]'s Liangzhou command collapse turns [[MaTeng]], [[HanSui]], and [[WangGuoLateHan]] toward coalition rebellion, [[ZhangWenLateHan]]'s removal and office churn through [[CuiLieLateHan]], [[XuXiangLateHan]], [[DingGongLateHan]], and [[CaoSong]] fail to restore crisis capacity, [[Wuhuan]] mobilization becomes [[FrontierAuxiliarySupplyFailure]] around [[GongsunZan]] and [[ZhangChunLateHan]], [[ZhangJuLateHan]] challenges [[EmperorLingOfHan]] through [[MingqiLegitimacy]] while rank sale strains status order, and Hanji 939 then adds amnesty, comet ritual, [[BaiboArmy]] resurgence, [[ProvincialShepherdAutonomy]], and [[SouthernXiongnu]] requisition turning into [[FrontierConscriptionBackfire]].
+汉纪 938-939 add the upstream institutional prelude to late-Han provincial rule: [[GengBiLateHan]]'s Liangzhou command collapse turns [[MaTeng]], [[HanSui]], and [[WangGuoLateHan]] toward coalition rebellion, [[ZhangWenLateHan]]'s removal and office churn through [[CuiLieLateHan]], [[XuXiangLateHan]], [[DingGongLateHan]], and [[CaoSong]] fail to restore crisis capacity, [[Wuhuan]] mobilization becomes [[FrontierAuxiliarySupplyFailure]] around [[GongsunZan]] and [[ZhangChunLateHan]], [[ZhangJuLateHan]] challenges [[EmperorLingOfHan]] through [[MingqiLegitimacy]] while rank sale strains status order, and 汉纪 939 then adds amnesty, comet ritual, [[BaiboArmy]] resurgence, [[ProvincialShepherdAutonomy]], and [[SouthernXiongnu]] requisition turning into [[FrontierConscriptionBackfire]].
 
 **Evidence:** [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh]], [[zizhi-tongjian-hanji-939-donghan-luanju-de-fengkuang-sanguo-xuqu-lthmvw8ihk96fuez9vamlryzcngy]], [[GengBiLateHan]], [[MaTeng]], [[HanSui]], [[WangGuoLateHan]], [[ZhangWenLateHan]], [[CuiLieLateHan]], [[XuXiangLateHan]], [[DingGongLateHan]], [[CaoSong]], [[Wuhuan]], [[FrontierAuxiliarySupplyFailure]], [[GongsunZan]], [[ZhangChunLateHan]], [[ZhangJuLateHan]], [[EmperorLingOfHan]], [[MingqiLegitimacy]], [[RankSaleDisasterFinance]], [[BaiboArmy]], [[ProvincialShepherdAutonomy]], [[SouthernXiongnu]], [[FrontierConscriptionBackfire]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 938-939 and backfills the 187-188 CE institutional and frontier layer before Hanji 940-941.
+- This claim is source-scoped to 汉纪 938-939 and backfills the 187-188 CE institutional and frontier layer before 汉纪 940-941.
 - The claim treats office churn, amnesty, omen ritual, and title sale as crisis-response signals, not as proof that the court believed titles or ritual alone could govern the provinces.
-- Guo Da, the Yizhou prophecy, and Hanji 938 transcript forms such as 耿彼, 丁公, 三府, and 肥河县 are preserved as source-scoped or normalized only where the role is clear.
-- Frontier conscription backfire remains the Southern Xiongnu succession case; Hanji 938's Wuhuan case is kept as the adjacent logistics-and-pay failure pattern.
+- Guo Da, the Yizhou prophecy, and 汉纪 938 transcript forms such as 耿彼, 丁公, 三府, and 肥河县 are preserved as source-scoped or normalized only where the role is clear.
+- Frontier conscription backfire remains the Southern Xiongnu succession case; 汉纪 938's Wuhuan case is kept as the adjacent logistics-and-pay failure pattern.
 
 ### Late Han Coerced Imperial Replacement Needs Formal Procedure
 
-Hanji 948 adds the institutional prelude to [[DongZhuo]]'s takeover: he turns military intimidation into [[CoercedImperialReplacement]] by testing [[YuanShao]], overriding [[LuZhiLateHan]], forcing [[YuanWeiLateHan]] to carry the seal-transfer procedure, demoting [[LiuBianHongnongWang]] while enthroning [[EmperorXianOfHan]], and then using [[CaiYong]], [[LiuYuLateHan]], [[YangBiao]], [[HuangWanLateHan]], [[MingqiLegitimacy]], [[CoercedTalentLegitimacy]], and [[PartyProhibitionRehabilitation]] to wrap coercive seizure in formal title, scholar, and rehabilitation channels.
+汉纪 948 adds the institutional prelude to [[DongZhuo]]'s takeover: he turns military intimidation into [[CoercedImperialReplacement]] by testing [[YuanShao]], overriding [[LuZhiLateHan]], forcing [[YuanWeiLateHan]] to carry the seal-transfer procedure, demoting [[LiuBianHongnongWang]] while enthroning [[EmperorXianOfHan]], and then using [[CaiYong]], [[LiuYuLateHan]], [[YangBiao]], [[HuangWanLateHan]], [[MingqiLegitimacy]], [[CoercedTalentLegitimacy]], and [[PartyProhibitionRehabilitation]] to wrap coercive seizure in formal title, scholar, and rehabilitation channels.
 
 **Evidence:** [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk]], [[DongZhuo]], [[CoercedImperialReplacement]], [[YuanShao]], [[LuZhiLateHan]], [[YuanWeiLateHan]], [[LiuBianHongnongWang]], [[EmperorXianOfHan]], [[CaiYong]], [[LiuYuLateHan]], [[YangBiao]], [[HuangWanLateHan]], [[MingqiLegitimacy]], [[CoercedTalentLegitimacy]], [[PartyProhibitionRehabilitation]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 948 and backfills the coerced deposition scene before Hanji 949-950's killing and coalition-formation branches.
+- This claim is source-scoped to 汉纪 948 and backfills the coerced deposition scene before 汉纪 949-950's killing and coalition-formation branches.
 - Lu Zhi / 卢植 is disambiguated from [[LuZhi|吕雉]].
 - Prestige appointments and Party Prohibition rehabilitation are treated as legitimacy packaging under coercion, not proof that ordinary court procedure was restored.
 
 ### Late Han Anti Dong Coalition Formation Exposes Command Gap
 
-Hanji 950 adds the governance prelude to the anti-[[DongZhuo]] field: [[YuanShao]] becomes盟主 through [[PrestigeBasedCoalitionLeadership]] while [[HanFuLateHan]] handles grain, [[BaoXin]] identifies [[CaoCao]]'s latent executive capacity, Dong Zhuo uses [[LiRuLateHan]] to kill [[LiuBianHongnongWang]], and [[ZhengTaiLateHan]] explains why [[CommonEnemyAlliance]], [[InterestStructuredAllianceFragility]], and [[CoalitionSelfPreservationFailure]] prevent the assembled [[AntiDongZhuoCoalition]] from becoming durable command.
+汉纪 950 adds the governance prelude to the anti-[[DongZhuo]] field: [[YuanShao]] becomes盟主 through [[PrestigeBasedCoalitionLeadership]] while [[HanFuLateHan]] handles grain, [[BaoXin]] identifies [[CaoCao]]'s latent executive capacity, Dong Zhuo uses [[LiRuLateHan]] to kill [[LiuBianHongnongWang]], and [[ZhengTaiLateHan]] explains why [[CommonEnemyAlliance]], [[InterestStructuredAllianceFragility]], and [[CoalitionSelfPreservationFailure]] prevent the assembled [[AntiDongZhuoCoalition]] from becoming durable command.
 
 **Evidence:** [[zizhi-tongjian-hanji-950-budong-quanli-beihou-de-renxing-bi-bai-wuyi-lu8-u78yqvvwwarsz8dlevvzchxr]], [[DongZhuo]], [[YuanShao]], [[PrestigeBasedCoalitionLeadership]], [[HanFuLateHan]], [[BaoXin]], [[CaoCao]], [[LiRuLateHan]], [[LiuBianHongnongWang]], [[ZhengTaiLateHan]], [[CommonEnemyAlliance]], [[InterestStructuredAllianceFragility]], [[CoalitionSelfPreservationFailure]], [[AntiDongZhuoCoalition]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 950 and backfills the formation moment before Hanji 951 relocation and later coalition-failure episodes.
+- This claim is source-scoped to 汉纪 950 and backfills the formation moment before 汉纪 951 relocation and later coalition-failure episodes.
 - Yuan Shao's prestige is treated as convening authority, not proof of operational command capacity.
 - The transcript form 朱俊 is normalized to Zhu Jun / 朱儁, and the host's motive readings remain source-scoped.
 
 ### Late Han Captured Court And Forged Authority Make Governance Exposure
 
-Hanji 952 adds a pre-Hanji-953 captured-court governance layer: after [[DongZhuo]] moves [[EmperorXianOfHan]] west and destroys [[LuoyangLateHan]], [[WangYunLateHan]] survives through hidden compliance in [[ChangAnHanCapital]], while [[CaoYinLateHan]]'s forged order against [[WangRuiLateHan]] and [[SunJianLateHan]]'s killing of [[ZhangZiLateHan]] show command channels, titles, and grain supply turning into private survival and coercive authority before [[YuanShu]] sponsors Sun Jian.
+汉纪 952 adds a pre-Hanji-953 captured-court governance layer: after [[DongZhuo]] moves [[EmperorXianOfHan]] west and destroys [[LuoyangLateHan]], [[WangYunLateHan]] survives through hidden compliance in [[ChangAnHanCapital]], while [[CaoYinLateHan]]'s forged order against [[WangRuiLateHan]] and [[SunJianLateHan]]'s killing of [[ZhangZiLateHan]] show command channels, titles, and grain supply turning into private survival and coercive authority before [[YuanShu]] sponsors Sun Jian.
 
 **Evidence:** [[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj]], [[DongZhuo]], [[EmperorXianOfHan]], [[LuoyangLateHan]], [[WangYunLateHan]], [[ChangAnHanCapital]], [[CaoYinLateHan]], [[WangRuiLateHan]], [[SunJianLateHan]], [[ZhangZiLateHan]], [[YuanShu]], [[AntiDongZhuoCoalition]], [[PoliticalSurvivalFirst]], [[SpeechAsMoralDiagnostic]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 952 and backfills the immediate pre-Hanji-953/Hanji-955 anti-Dong-Zhuo field rather than replacing those later coalition and campaign accounts.
+- This claim is source-scoped to 汉纪 952 and backfills the immediate pre-Hanji-953/Hanji-955 anti-Dong-Zhuo field rather than replacing those later coalition and campaign accounts.
 - Wang Rui's source spelling and Zhang Zi's normalized name are preserved as source-scoped cautions.
 - Sun Jian's early coercion is treated as a governance, logistics, and authority-channel problem rather than a complete reassessment of his later career.
 
@@ -1371,8 +1371,8 @@ The early-Han sequence shows victory turning into governance only through family
 
 **Qualifications:**
 
-- This claim is grounded in the Ruiqi Hanji sequence through Hanji 191 and remains source-scoped to that interpretation of early Western Han founding.
-- Hanji 191 preserves the Zhou Bo/Fan Kuai conflict over Chen Xi's death rather than resolving it.
+- This claim is grounded in the Ruiqi Hanji sequence through 汉纪 191 and remains source-scoped to that interpretation of early Western Han founding.
+- 汉纪 191 preserves the Zhou Bo/Fan Kuai conflict over Chen Xi's death rather than resolving it.
 
 ### Vassal Investigations Can Escalate Suspicion
 
@@ -1491,157 +1491,157 @@ Trust and mission are governance assets only when protected by structures: custo
 
 ### Late Han Surrender Can Begin As Feedback And Perception Collapse
 
-Hanji 956 shows late-Han power transfer beginning before formal defeat: [[YuanShao]] combines [[QuYiLateHan]]'s rebellion, [[GongsunZan]]'s approach, insider persuasion from [[GaoGanLateHan]], [[XinPingLateHan]], [[XunChenLateHan]], and [[GuoTu]], and Han Fu's own self-comparison to push [[HanFuLateHan]] into a [[PsychologicalSurrenderTrap]] over [[JizhouLateHan]], even though [[GengWuLateHan]], [[MinChunLateHan]], [[LiLiHanFuRetainer]], [[ZhaoFuLateHan]], and [[ChengHuanLateHan]] warn that troops, grain, and supply control still give him alternatives.
+汉纪 956 shows late-Han power transfer beginning before formal defeat: [[YuanShao]] combines [[QuYiLateHan]]'s rebellion, [[GongsunZan]]'s approach, insider persuasion from [[GaoGanLateHan]], [[XinPingLateHan]], [[XunChenLateHan]], and [[GuoTu]], and Han Fu's own self-comparison to push [[HanFuLateHan]] into a [[PsychologicalSurrenderTrap]] over [[JizhouLateHan]], even though [[GengWuLateHan]], [[MinChunLateHan]], [[LiLiHanFuRetainer]], [[ZhaoFuLateHan]], and [[ChengHuanLateHan]] warn that troops, grain, and supply control still give him alternatives.
 
 **Evidence:** [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf]], [[YuanShao]], [[QuYiLateHan]], [[GongsunZan]], [[GaoGanLateHan]], [[XinPingLateHan]], [[XunChenLateHan]], [[GuoTu]], [[HanFuLateHan]], [[PsychologicalSurrenderTrap]], [[JizhouLateHan]], [[GengWuLateHan]], [[MinChunLateHan]], [[LiLiHanFuRetainer]], [[ZhaoFuLateHan]], [[ChengHuanLateHan]], [[CourtFeedbackCollapse]], [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]], [[TalentAsStateTreasure]], [[YeLateHan]], [[zizhi-tongjian-hanji-957-ta-ceng-xiongba-yifang-weihe-ruonuo-dao-zai-cesuo-zijin-lnkhah144822mc4aa9bnezklgvoo]]
 
 **Qualifications:**
 
-- This is source-scoped to Hanji 956's reading of Han Fu's surrender of Jizhou before Hanji 957's post-power safety collapse.
+- This is source-scoped to 汉纪 956's reading of Han Fu's surrender of Jizhou before 汉纪 957's post-power safety collapse.
 - The source treats Han Fu's advisers' resource assessment as strategically sound inside the episode, while the host's cognition hierarchy and motive judgments remain source-scoped interpretation.
 - The claim concerns psychological surrender under layered pressure, not a general rule that ceding office is always irrational.
 
 ### Coercive Courts Force Defensive Speech
 
-Hanji 956 also shows coercive court rule degrading speech: [[DongZhuo]] forces [[HuangfuSongLateHan]] and [[CaiYong]] into [[DefensiveSpeechUnderTyranny]], where a direct question about fear or honorific status has to be redirected toward legitimacy, virtue, punishment restraint, or timing instead of answered as ordinary advice.
+汉纪 956 also shows coercive court rule degrading speech: [[DongZhuo]] forces [[HuangfuSongLateHan]] and [[CaiYong]] into [[DefensiveSpeechUnderTyranny]], where a direct question about fear or honorific status has to be redirected toward legitimacy, virtue, punishment restraint, or timing instead of answered as ordinary advice.
 
 **Evidence:** [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf]], [[DongZhuo]], [[HuangfuSongLateHan]], [[CaiYong]], [[DefensiveSpeechUnderTyranny]], [[CourtFeedbackCollapse]], [[PoliticalSurvivalFirst]]
 
 **Qualifications:**
 
-- This is source-scoped to Hanji 956's two Dong Zhuo court scenes and does not claim Huangfu Song or Cai Yong could safely restore ordinary remonstrance.
+- This is source-scoped to 汉纪 956's two Dong Zhuo court scenes and does not claim Huangfu Song or Cai Yong could safely restore ordinary remonstrance.
 - Cai Yong's praise-and-delay response is treated as tactical survival and timing advice, not as settled approval of Dong Zhuo's ambition.
 
 ### Late Han Humane Command Needs Executable Order
 
-Hanji 972 separates moral authority from command execution: [[LiuYuLateHan]] orders restraint against civilians and aims only at [[GongsunZan]], but [[BenevolentCommandExecutionGap]] shows humane limits collapsing without disciplined troops or usable siege means; [[DuanXunLateHan]] and [[EmperorXianOfHan]] show court title authority unable to protect Liu Yu once Gongsun Zan coerces the scene, while [[TianChou]] later turns loyalty into local legal order around [[XuWuMountain]].
+汉纪 972 separates moral authority from command execution: [[LiuYuLateHan]] orders restraint against civilians and aims only at [[GongsunZan]], but [[BenevolentCommandExecutionGap]] shows humane limits collapsing without disciplined troops or usable siege means; [[DuanXunLateHan]] and [[EmperorXianOfHan]] show court title authority unable to protect Liu Yu once Gongsun Zan coerces the scene, while [[TianChou]] later turns loyalty into local legal order around [[XuWuMountain]].
 
 **Evidence:** [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2]], [[LiuYuLateHan]], [[GongsunZan]], [[BenevolentCommandExecutionGap]], [[DuanXunLateHan]], [[EmperorXianOfHan]], [[TianChou]], [[XuWuMountain]], [[YouzhouLateHan]], [[GoodIntentionsPoliticalLimits]], [[ConfucianMilitaryIdealismLimits]], [[XunzianCommandRestraint]], [[PeopleBasedPoliticalSecurity]], [[PoliticalSurvivalFirst]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 972 and its backfill of the Youzhou rupture before Hanji 998.
+- This claim is source-scoped to 汉纪 972 and its backfill of the Youzhou rupture before 汉纪 998.
 - The source does not reject civilian restraint; it separates Liu Yu's humane aim from the command design needed to execute it under war conditions.
 - Tian Chou's later Xu Wu Mountain order is treated as a posthumous legitimacy channel, not as proof that Liu Yu's military choice was sound.
 
 ### Late Han Loyalty Needs Office And Alignment Context
 
-Hanji 997 adds a late-Han loyalty-governance case: [[ZangHong]]'s fidelity to [[ZhangChaoLateHan]] and the old reciprocity logic of [[DeathPartyLoyalty]] and [[RetainerReciprocityEthic]] is morally legible, but refusal to submit to current superior [[YuanShao]] becomes [[EmotionalAttachmentPoliticalDistortion]] when it ignores [[CaoCao]]'s alliance background, office duty, and survival room under [[XingshiqingStrategicAssessment]] and [[PoliticalSurvivalFirst]].
+汉纪 997 adds a late-Han loyalty-governance case: [[ZangHong]]'s fidelity to [[ZhangChaoLateHan]] and the old reciprocity logic of [[DeathPartyLoyalty]] and [[RetainerReciprocityEthic]] is morally legible, but refusal to submit to current superior [[YuanShao]] becomes [[EmotionalAttachmentPoliticalDistortion]] when it ignores [[CaoCao]]'s alliance background, office duty, and survival room under [[XingshiqingStrategicAssessment]] and [[PoliticalSurvivalFirst]].
 
 **Evidence:** [[zizhi-tongjian-hanji-997-zanghong-zhisi-shi-yibaoyuntian-haishi-qingjie-nandu-lln2liblq-kyjrsvitnbh7cspbax]], [[ZangHong]], [[ZhangChaoLateHan]], [[ChengLongLateHan]], [[YuanShao]], [[CaoCao]], [[DeathPartyLoyalty]], [[RetainerReciprocityEthic]], [[EmotionalAttachmentPoliticalDistortion]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]]
 
 **Qualifications:**
 
-- This is source-scoped to Hanji 997's reading of Zang Hong, Zhang Chao, Yuan Shao, Cao Cao, and Cheng Long.
+- This is source-scoped to 汉纪 997's reading of Zang Hong, Zhang Chao, Yuan Shao, Cao Cao, and Cheng Long.
 - Cheng Long's shared death is kept as a renyi exemplar, not as proof that Zang Hong's strategy was politically sound.
 
 ### Emperor Protection Collapses Into Captor Ambiguity
 
-Hanji 985-991 adds an earlier late-Han emperor-flight governance case: [[EmperorXianOfHan]] still carries [[MingqiLegitimacy]] and a [[LegitimacyWindowSeizure]] prize, but coercive hosts increasingly convert protection into leverage. Hanji 985 places that collapse before the road flight: [[LiJueLateHan]] holds the emperor, [[GuoSiLateHan]] holds ministers, [[FuShouEmpress]] and [[FuWanLateHan]] receive formal status inside coercive camp politics, [[ZhuJunLateHan]] marks ministerial vulnerability, [[YangBiao]] can rebuke Guo Si without command power, [[YangMiLateHan]] prevents immediate killing, and [[ZhangBaoLateHan]]'s defection leaves camp security to [[YangFengLateHan]] while [[YangQiLateHan]] teaches endurance under hunger. Hanji 986 then starts with Li Jue rejecting mediation and treating titles and edicts as constraints, while [[ZhaoWenLateHan]] and [[HuangfuLiLateHan]] can diagnose overreach without restoring feedback, [[WangChangLateHan]] prevents Huangfu Li's death, and [[CaoCao]]'s [[YanzhouLateHan]] recovery creates a [[Xuzhou]] temptation checked by [[RootBasePriority]]. Hanji 988 then shows that title power is situational as [[HanFei]]'s interest-centered lens frames leverage politics, [[JiaXu]] detaches Li Jue's Qiang-Hu supporters, [[LiuAiLateHan]] makes the emperor visible to blocking soldiers, and [[ZhangJiLateHan]] preserves the imperial party through rationing rather than restored logistics. Hanji 989 then shows title grants to Zhang Ji, Guo Si, [[YangDingLateHan]], Yang Feng, and [[DongChengLateHan]] failing to command route, food, or camp access; [[HuayinLateHan]] makes supplies from [[DuanWeiLateHan]] politically ambiguous, while the [[YongqiuLateHan]] branch around Cao Cao turns the failed exit by [[ZhangMiaoLateHan]] and the killing by [[LiuYiLateHan]] into Yanzhou consolidation. Hanji 990-991 then show the same prize strong enough for Yang Ding to attack Duan Wei, for Zhang Ji to re-sort, for Li Jue plus Guo Si to suspend their feud, and for [[BaiboArmy]] and [[SouthernXiongnu]] to enter the next flight stage; [[ProtectorCaptorAmbiguity]], [[InterestStructuredAllianceFragility]], [[PoliticalSurvivalFirst]], and [[XingshiqingStrategicAssessment]] mark institutional collapse as protection, pursuit, supply, coercion, and survival improvisation blur.
+汉纪 985-991 adds an earlier late-Han emperor-flight governance case: [[EmperorXianOfHan]] still carries [[MingqiLegitimacy]] and a [[LegitimacyWindowSeizure]] prize, but coercive hosts increasingly convert protection into leverage. 汉纪 985 places that collapse before the road flight: [[LiJueLateHan]] holds the emperor, [[GuoSiLateHan]] holds ministers, [[FuShouEmpress]] and [[FuWanLateHan]] receive formal status inside coercive camp politics, [[ZhuJunLateHan]] marks ministerial vulnerability, [[YangBiao]] can rebuke Guo Si without command power, [[YangMiLateHan]] prevents immediate killing, and [[ZhangBaoLateHan]]'s defection leaves camp security to [[YangFengLateHan]] while [[YangQiLateHan]] teaches endurance under hunger. 汉纪 986 then starts with Li Jue rejecting mediation and treating titles and edicts as constraints, while [[ZhaoWenLateHan]] and [[HuangfuLiLateHan]] can diagnose overreach without restoring feedback, [[WangChangLateHan]] prevents Huangfu Li's death, and [[CaoCao]]'s [[YanzhouLateHan]] recovery creates a [[Xuzhou]] temptation checked by [[RootBasePriority]]. 汉纪 988 then shows that title power is situational as [[HanFei]]'s interest-centered lens frames leverage politics, [[JiaXu]] detaches Li Jue's Qiang-Hu supporters, [[LiuAiLateHan]] makes the emperor visible to blocking soldiers, and [[ZhangJiLateHan]] preserves the imperial party through rationing rather than restored logistics. 汉纪 989 then shows title grants to Zhang Ji, Guo Si, [[YangDingLateHan]], Yang Feng, and [[DongChengLateHan]] failing to command route, food, or camp access; [[HuayinLateHan]] makes supplies from [[DuanWeiLateHan]] politically ambiguous, while the [[YongqiuLateHan]] branch around Cao Cao turns the failed exit by [[ZhangMiaoLateHan]] and the killing by [[LiuYiLateHan]] into Yanzhou consolidation. 汉纪 990-991 then show the same prize strong enough for Yang Ding to attack Duan Wei, for Zhang Ji to re-sort, for Li Jue plus Guo Si to suspend their feud, and for [[BaiboArmy]] and [[SouthernXiongnu]] to enter the next flight stage; [[ProtectorCaptorAmbiguity]], [[InterestStructuredAllianceFragility]], [[PoliticalSurvivalFirst]], and [[XingshiqingStrategicAssessment]] mark institutional collapse as protection, pursuit, supply, coercion, and survival improvisation blur.
 
 **Evidence:** [[zizhi-tongjian-hanji-985-fanmu-chengchou-liguo-zhiluan-de-xijie-tanjiu-lt-t2un0zcudkige9ucl1txa2hhk]], [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd]], [[zizhi-tongjian-hanji-987-dingtao-zhizhan-caocao-he-lvbu-dianfeng-duijue-lofq0pq8n9rrfvfttunahisy0ave]], [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl]], [[zizhi-tongjian-hanji-989-ningwei-taipingquan-buzuo-luanshi-ren-lkoycygmjnltuvpq-6wjv-ls61s6]], [[zizhi-tongjian-hanji-990-lijue-guosi-shengsi-yuanjia-weihe-turan-lianshou-lmop5mcrsjuq-ixuv0sfho5mvc-f]], [[zizhi-tongjian-hanji-991-zhengduo-xiandi-zhizhan-shui-neng-zuizhong-qusheng-lkbsl5uzqxouzm6mlewrnuns0x6p]], [[EmperorXianOfHan]], [[HanFei]], [[FixedHumanNaturePolitics]], [[LiuAiLateHan]], [[DuanWeiLateHan]], [[HuayinLateHan]], [[YangDingLateHan]], [[LiJueLateHan]], [[GuoSiLateHan]], [[ZhangJiLateHan]], [[DongChengLateHan]], [[YangFengLateHan]], [[BaiboArmy]], [[LiLeLateHan]], [[HuCaiLateHan]], [[QubeiSouthernXiongnu]], [[SouthernXiongnu]], [[FuShouEmpress]], [[FuWanLateHan]], [[ShiSunRuiLateHan]], [[YangBiao]], [[YangMiLateHan]], [[YangQiLateHan]], [[ZhangBaoLateHan]], [[ZhuJunLateHan]], [[JiaXu]], [[CaoCao]], [[YanzhouLateHan]], [[Xuzhou]], [[RootBasePriority]], [[ZhaoWenLateHan]], [[HuangfuLiLateHan]], [[WangChangLateHan]], [[YongqiuLateHan]], [[ZhangMiaoLateHan]], [[LiuYiLateHan]], [[MingqiLegitimacy]], [[LegitimacyWindowSeizure]], [[PoliticalSurvivalFirst]], [[InterestStructuredAllianceFragility]], [[ProtectorCaptorAmbiguity]], [[XingshiqingStrategicAssessment]]
 
 **Qualifications:**
 
-- This is source-scoped to Hanji 985-991 and the 195 CE Emperor Xian eastward movement before the later Hanji 992-1020 branch.
-- Hanji 985 keeps the transcript variants "杨凤" and "朱俊" source-scoped; Hanji 986 keeps Li Jue's psychology, the title maxim, and the unnamed closing adviser source-scoped; Hanji 988 keeps the Han Fei/human-nature opening and humility maxim source-scoped, while Hanji 989 keeps Liu Yi hidden-asset reading and the moral title frame source-scoped.
+- This is source-scoped to 汉纪 985-991 and the 195 CE Emperor Xian eastward movement before the later 汉纪 992-1020 branch.
+- 汉纪 985 keeps the transcript variants "杨凤" and "朱俊" source-scoped; 汉纪 986 keeps Li Jue's psychology, the title maxim, and the unnamed closing adviser source-scoped; 汉纪 988 keeps the Han Fei/human-nature opening and humility maxim source-scoped, while 汉纪 989 keeps Liu Yi hidden-asset reading and the moral title frame source-scoped.
 - The transcript variants are normalized to existing late-Han canonical pages; the claim does not treat every helper force as equivalent in motive or authority.
 
 ### Late Han Exposure And Title Management Precede Talent System
 
-[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|Hanji 1004]] and [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|Hanji 1005]] frame late-Han governance as exposure control before talent selection: [[DongZhaoLateHan]] moves [[CaoCao]] from ruined [[LuoyangLateHan]] to [[Xudu]] by treating supply and [[YangFengLateHan]]'s reaction as control problems around [[EmperorXianOfHan]], [[SunJingLateHan]] helps [[SunCe]] break [[WangLangLateHan]]'s [[KuaijiCommandery]] defense before the later [[LeaderPersonalExposure]] warning, and Cao Cao then uses title management around [[YuanShao]] as [[StrategicTitleConcession]] before the [[XunYu]], [[XunYou]], and [[GuoJia]] adviser channel develops.
+[[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94|汉纪 1004]] and [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4|汉纪 1005]] frame late-Han governance as exposure control before talent selection: [[DongZhaoLateHan]] moves [[CaoCao]] from ruined [[LuoyangLateHan]] to [[Xudu]] by treating supply and [[YangFengLateHan]]'s reaction as control problems around [[EmperorXianOfHan]], [[SunJingLateHan]] helps [[SunCe]] break [[WangLangLateHan]]'s [[KuaijiCommandery]] defense before the later [[LeaderPersonalExposure]] warning, and Cao Cao then uses title management around [[YuanShao]] as [[StrategicTitleConcession]] before the [[XunYu]], [[XunYou]], and [[GuoJia]] adviser channel develops.
 
 **Evidence:** [[zizhi-tongjian-hanji-1004-caocao-yingfeng-hanxiandi-shi-shui-de-zhuyi-lrrga-flmx5ajnhu1c42x7kooe94]], [[zizhi-tongjian-hanji-1005-sunce-zhuding-zaoshi-shi-xingge-jueding-mingyun-lpqnere2cwcrngggyezd-bsqahx4]], [[DongZhaoLateHan]], [[LuoyangLateHan]], [[SunCe]], [[KuaijiCommandery]], [[LeaderPersonalExposure]], [[YuFan]], [[SunJingLateHan]], [[WangLangLateHan]], [[CaoCao]], [[Xudu]], [[YangFengLateHan]], [[EmperorXianOfHan]], [[YuanShao]], [[StrategicTitleConcession]], [[StrategicCapitalRelocation]], [[XunYu]], [[XunYou]], [[GuoJia]], [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]], [[MingqiLegitimacy]]
 
 **Qualifications:**
 
-- This is source-scoped to Hanji 1004-1005's interpretation of Dong Zhao's relocation plan, Sun Ce's Kuaiji and hunting-risk branch, Yu Fan's warning, and Cao Cao's early Xu-court title management.
+- This is source-scoped to 汉纪 1004-1005's interpretation of Dong Zhao's relocation plan, Sun Ce's Kuaiji and hunting-risk branch, Yu Fan's warning, and Cao Cao's early Xu-court title management.
 - The claim treats Cao Cao's title concession as strategic exposure reduction, not as proof that his control of Emperor Xian's court was consensual or politically neutral.
 - Transcript variants for Xun Yu, Xun You, and Guo Jia are preserved as source-scoped normalization issues rather than new canonical entities.
 
 ### Late Han Talent And Law Require Usable Standards
 
-[[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] frames [[CaoCao]]'s early advantage as a paired talent-and-law system: [[GuoJia]] leaves [[YuanShao]] because prestige and courtesy do not equal usable judgment, while [[ManChong]] executing [[CaoHong]]'s clients creates [[RuleOverKinshipPower]], letting non-clan advisers and officials trust standards more than family access.
+[[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|汉纪 1006]] frames [[CaoCao]]'s early advantage as a paired talent-and-law system: [[GuoJia]] leaves [[YuanShao]] because prestige and courtesy do not equal usable judgment, while [[ManChong]] executing [[CaoHong]]'s clients creates [[RuleOverKinshipPower]], letting non-clan advisers and officials trust standards more than family access.
 
 **Evidence:** [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar]], [[CaoCao]], [[GuoJia]], [[YuanShao]], [[XunYou]], [[ManChong]], [[CaoHong]], [[RuleOverKinshipPower]], [[TalentAsStateTreasure]], [[TalentAttractionThroughRespect]], [[MeritBasedRewardPunishment]], [[PoliticalSurvivalFirst]], [[XingshiqingStrategicAssessment]]
 
 **Qualifications:**
 
-- This is source-scoped to Hanji 1006's interpretation of Guo Jia's camp choice, Xun You's cautious adviser style, and Man Chong's enforcement case.
+- This is source-scoped to 汉纪 1006's interpretation of Guo Jia's camp choice, Xun You's cautious adviser style, and Man Chong's enforcement case.
 - The claim treats Cao Cao's system as a comparative advantage within the episode, not as a general claim that Cao Cao consistently subordinated kinship to law in every later case.
 
 ### Late Han Prestige Without Capacity Collapses Advice
 
-Hanji 1007 adds a late-Han local-governance failure: [[KongRong]]'s lineage, literary fame, and respect for [[ZhengXuan]] do not become troops, grain, strategic alignment, or safe advice channels in [[BeihaiCommandery]], so killing [[ZuoChengzu]] and losing [[LiuYixun]] leaves Beihai exposed to [[YuanTan]] despite Kong's prestige.
+汉纪 1007 adds a late-Han local-governance failure: [[KongRong]]'s lineage, literary fame, and respect for [[ZhengXuan]] do not become troops, grain, strategic alignment, or safe advice channels in [[BeihaiCommandery]], so killing [[ZuoChengzu]] and losing [[LiuYixun]] leaves Beihai exposed to [[YuanTan]] despite Kong's prestige.
 
 **Evidence:** [[KongRong]], [[ZhengXuan]], [[BeihaiCommandery]], [[ZuoChengzu]], [[LiuYixun]], [[YuanTan]], [[PrestigeCapacityGap]], [[XingshiqingStrategicAssessment]], [[TalentAsStateTreasure]], [[PoliticalSurvivalFirst]], [[CourtFeedbackCollapse]], [[WhiteBearEffect]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1007's reading of Kong Rong's Beihai governorship.
+- This claim is source-scoped to 汉纪 1007's reading of Kong Rong's Beihai governorship.
 - The episode's white-bear framing is treated as an opening psychological analogy, not as independent evidence for the historical Beihai events.
 
 ### Late Han Defensive Governance Has Strategic Ceiling
 
-Hanji 1010 frames [[LiuBiao]] as a defensive local-order builder rather than a simple fool: [[MourningFramedMilitaryAbsorption]] lets him absorb [[ZhangJiLateHan]]'s troops after [[Rangcheng]], [[Jingzhou]] governance works through elite reassurance and [[DefensiveLocalGovernance]], and [[JiaXu]]'s assessment plus [[LiAsPoliticalOrder]] keep that strength bounded by slow change-reading and ritual restraint.
+汉纪 1010 frames [[LiuBiao]] as a defensive local-order builder rather than a simple fool: [[MourningFramedMilitaryAbsorption]] lets him absorb [[ZhangJiLateHan]]'s troops after [[Rangcheng]], [[Jingzhou]] governance works through elite reassurance and [[DefensiveLocalGovernance]], and [[JiaXu]]'s assessment plus [[LiAsPoliticalOrder]] keep that strength bounded by slow change-reading and ritual restraint.
 
 **Evidence:** [[LiuBiao]], [[MourningFramedMilitaryAbsorption]], [[ZhangJiLateHan]], [[Rangcheng]], [[Jingzhou]], [[DefensiveLocalGovernance]], [[JiaXu]], [[LiAsPoliticalOrder]], [[XingshiqingStrategicAssessment]], [[PoliticalSurvivalFirst]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1010's Liu Biao assessment before the Mi Heng and Wancheng branches.
+- This claim is source-scoped to 汉纪 1010's Liu Biao assessment before the Mi Heng and Wancheng branches.
 - The transcript variants are normalized to canonical late-Han pages, and the apparent Liu Jian death detail is treated as a likely arrow or stray-arrow rendering rather than a new person page.
 
 ### Late Han Reputation Management Delegates Violence
 
-Hanji 1011 frames [[BorrowedKnifeKilling]] as a late-Han governance tactic: [[CaoCao]] preserves reputation by not killing [[MiHengLateHan]] directly after public insult, [[LiuBiao]] redirects him to [[HuangZu]], and Huang Zu's anger supplies delegated violence, making talent without [[PoliticalSurvivalFirst]] dangerous.
+汉纪 1011 frames [[BorrowedKnifeKilling]] as a late-Han governance tactic: [[CaoCao]] preserves reputation by not killing [[MiHengLateHan]] directly after public insult, [[LiuBiao]] redirects him to [[HuangZu]], and Huang Zu's anger supplies delegated violence, making talent without [[PoliticalSurvivalFirst]] dangerous.
 
 **Evidence:** [[BorrowedKnifeKilling]], [[CaoCao]], [[MiHengLateHan]], [[LiuBiao]], [[HuangZu]], [[PoliticalSurvivalFirst]], [[KongRong]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1011 and the host's borrowed-knife interpretation of Mi Heng's death.
+- This claim is source-scoped to 汉纪 1011 and the host's borrowed-knife interpretation of Mi Heng's death.
 - It treats Cao Cao and Liu Biao's intent as political interpretation, not as a settled independent motive finding.
 - MiHengLateHan is used to avoid a case-insensitive identity collision with the existing MiHeng page for the Chu king Mi Heng.
 
 ### Wancheng Private Desire Becomes Command Exposure
 
-Hanji 1012-1013 frame Wancheng as a command-exposure chain in which [[CaoCao]]'s household desire and status handling turn surrendered authority into danger: Hanji 1012 supplies the fragile surrender prelude, [[LadyDuCaoCao]] and [[LadyYinCaoCao]] establish the broader desire pattern, [[LadyZouWancheng]], [[HuCheEr]], [[ZhangXiu]], and [[JiaXu]] turn resentment into pre-emptive revolt mechanics, and drink plus weapon theft disable [[DianWei]] before the deaths of [[CaoAng]] and [[CaoAnmin]] rupture [[LadyDingCaoCao]]'s household position.
+汉纪 1012-1013 frame Wancheng as a command-exposure chain in which [[CaoCao]]'s household desire and status handling turn surrendered authority into danger: 汉纪 1012 supplies the fragile surrender prelude, [[LadyDuCaoCao]] and [[LadyYinCaoCao]] establish the broader desire pattern, [[LadyZouWancheng]], [[HuCheEr]], [[ZhangXiu]], and [[JiaXu]] turn resentment into pre-emptive revolt mechanics, and drink plus weapon theft disable [[DianWei]] before the deaths of [[CaoAng]] and [[CaoAnmin]] rupture [[LadyDingCaoCao]]'s household position.
 
 **Evidence:** [[CaoCao]], [[LadyDuCaoCao]], [[LadyYinCaoCao]], [[WanCounty]], [[LadyZouWancheng]], [[HuCheEr]], [[ZhangXiu]], [[JiaXu]], [[AlcoholAsPowerCatalyst]], [[DesireDrivenCommandExposure]], [[DianWei]], [[CaoAng]], [[CaoAnmin]], [[LadyDingCaoCao]], [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh]], [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh]]
 
 **Qualifications:**
 
-- This is source-scoped to the Hanji 1012-1013 interpretation; Hanji 1012 supplies the pre-disaster setup and Hanji 1013 supplies the night-attack mechanics, so the causal slogan remains shorthand rather than the whole explanation for Dian Wei's death.
-- The Wancheng woman is normalized as Lady Zou; Hanji 1013's Zhou form is preserved as a transcript variant rather than a separate canonical person.
+- This is source-scoped to the 汉纪 1012-1013 interpretation; 汉纪 1012 supplies the pre-disaster setup and 汉纪 1013 supplies the night-attack mechanics, so the causal slogan remains shorthand rather than the whole explanation for Dian Wei's death.
+- The Wancheng woman is normalized as Lady Zou; 汉纪 1013's Zhou form is preserved as a transcript variant rather than a separate canonical person.
 
 ### Late Han Interest Talent And Prosecution Constraints
 
-Hanji 1001 and Hanji 1015-1020 frame late-Han state capacity as adviser judgment, sequencing, title legitimacy, local alignment, interest reading, coalition control, and talent retention: [[YuanShu]]'s pre-coronation claim combines [[ChenweiPolitics]], [[YinYangFivePhasesPoliticalTheory]], and the [[HeirloomImperialSeal]], but [[YanXiangLateHan]], [[ZhangFanLateHan]], and [[ZhangChengLateHan]] expose its failure under [[MingqiLegitimacy]], [[TitleRealityRestraint]], [[MandateOfHeavenLegitimacy]], and [[PeopleBasedPoliticalSecurity]] before [[AntiUsurpationCoalitionPressure]] becomes public; then [[CaoCao]], [[GuoJia]], [[XunYu]], and [[ZhongYao]] show how strategic timing and [[GuanzhongRegion]] stabilization precede the later self-coronation crisis, while [[ChenGui]], [[ChenDeng]], and [[LyuBu]] show marriage exposure, brittle alliances, and personnel trust failures, and [[HeKui]], [[XuChu]], and [[YangBiao]] show that talent absorption and prosecution near [[EmperorXianOfHan]] remain constrained by trust, evidence, and public reputation.
+汉纪 1001 and 汉纪 1015-1020 frame late-Han state capacity as adviser judgment, sequencing, title legitimacy, local alignment, interest reading, coalition control, and talent retention: [[YuanShu]]'s pre-coronation claim combines [[ChenweiPolitics]], [[YinYangFivePhasesPoliticalTheory]], and the [[HeirloomImperialSeal]], but [[YanXiangLateHan]], [[ZhangFanLateHan]], and [[ZhangChengLateHan]] expose its failure under [[MingqiLegitimacy]], [[TitleRealityRestraint]], [[MandateOfHeavenLegitimacy]], and [[PeopleBasedPoliticalSecurity]] before [[AntiUsurpationCoalitionPressure]] becomes public; then [[CaoCao]], [[GuoJia]], [[XunYu]], and [[ZhongYao]] show how strategic timing and [[GuanzhongRegion]] stabilization precede the later self-coronation crisis, while [[ChenGui]], [[ChenDeng]], and [[LyuBu]] show marriage exposure, brittle alliances, and personnel trust failures, and [[HeKui]], [[XuChu]], and [[YangBiao]] show that talent absorption and prosecution near [[EmperorXianOfHan]] remain constrained by trust, evidence, and public reputation.
 
 **Evidence:** [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke]], [[CaoCao]], [[GuoJia]], [[XunYu]], [[ZhongYao]], [[GuanzhongRegion]], [[YuanShu]], [[YanXiangLateHan]], [[ZhangFanLateHan]], [[ZhangChengLateHan]], [[HeirloomImperialSeal]], [[ChenweiPolitics]], [[YinYangFivePhasesPoliticalTheory]], [[MandateOfHeavenLegitimacy]], [[PeopleBasedPoliticalSecurity]], [[AntiUsurpationCoalitionPressure]], [[MingqiLegitimacy]], [[TitleRealityRestraint]], [[ChenGui]], [[ChenDeng]], [[LyuBu]], [[MarriageAllianceWarExposure]], [[InterestStructuredAllianceFragility]], [[HeKui]], [[XuChu]], [[YangBiao]], [[EmperorXianOfHan]], [[XingshiqingStrategicAssessment]], [[PrestigeConstrainedPoliticalProsecution]], [[TalentAsStateTreasure]]
 
 **Qualifications:**
 
 - This is source-scoped to the Ruiqi interpretation of the 197 CE cluster around Yuan Shu's pre-claim warnings, Guo Jia, Xun Yu, Zhong Yao, Chen Deng, Chen Gui, Lu Bu, Guangling, Liu Chong, Luo Jun, Yuan Shao, He Kui, Xu Chu, Yang Biao, and the Wancheng aftermath.
-- Hanji 1001 supports the internal-warning and symbolic self-authorization precondition; prophecy, five-phases reasoning, and the Heirloom Imperial Seal are treated as Yuan Shu's claim logic, not as accepted mandate evidence.
-- Hanji 1015 supports the public title-legitimacy, sequencing, and rear-stabilization precondition; it does not by itself fully explain Yuan Shu's later collapse.
-- Hanji 1017's modern extension from light switching to jobs, marriage, friends, and investing is treated as source-scoped analogy rather than direct institutional evidence.
-- Hanji 1018 supports an interest-structure claim, not a complete biography of Lu Bu, Chen Deng, or Yuan Shu.
-- Hanji 1019 treats Chen state's order as dependent on a paired ruler-minister arrangement, so it supports fragility rather than a general claim that local refuge systems always fail.
+- 汉纪 1001 supports the internal-warning and symbolic self-authorization precondition; prophecy, five-phases reasoning, and the Heirloom Imperial Seal are treated as Yuan Shu's claim logic, not as accepted mandate evidence.
+- 汉纪 1015 supports the public title-legitimacy, sequencing, and rear-stabilization precondition; it does not by itself fully explain Yuan Shu's later collapse.
+- 汉纪 1017's modern extension from light switching to jobs, marriage, friends, and investing is treated as source-scoped analogy rather than direct institutional evidence.
+- 汉纪 1018 supports an interest-structure claim, not a complete biography of Lu Bu, Chen Deng, or Yuan Shu.
+- 汉纪 1019 treats Chen state's order as dependent on a paired ruler-minister arrangement, so it supports fragility rather than a general claim that local refuge systems always fail.
 - It does not clear Cao Cao of coercive court control; the Kong Rong, Xun Yu, and Man Chong branch instead shows that harsh command still needs public legitimacy and evidentiary limits.
 
 ### Late Han Dependency And Local Elite Integration Shape Survival
 
-Hanji 974, Hanji 975, and Hanji 981 add earlier late-Han governance cases in which survival depends on local-elite security, detecting institutional drift, converting advice into action, avoiding dependency traps, and integrating local power: Hanji 974 shows [[CaoCao]]'s old trust with [[ZhangMiaoLateHan]] failing when [[YuanShao]] pressure, a [[LyuBu]] alliance opening, and [[BianRangLateHan]]'s killing turn [[YanzhouLateHan]] politics into [[LocalEliteSecurityPanic]] and [[PersonalTrustPoliticalFragility]], with [[GaoRouLateHan]] anticipating the split, [[ChenGongLateHan]], [[XuSiLateHan]], [[WangKaiLateHan]], and [[ZhangChaoLateHan]] organizing the revolt, and the early [[TuntianSystem]]/land-clearance explanation plus [[CaoRen]]-centered military tightening kept source-scoped inside [[AdviserStateArchitecture]] and [[RootBasePriority]]; Hanji 975 then has [[XunYu]] use [[DetailBasedCrisisDetection]] and [[PowerEtiquetteReading]] to read the Yanzhou break before recalling [[XiahouDun]] to [[JuanchengLateHan]], while [[TianFengLateHan]]'s warning over grain aid to Lü Bu shows the [[CourtFeedbackCollapse]] risk under Yuan Shao; later [[ChengYu]] persuades Cao Cao not to submit family hostages to Yuan Shao under [[HostageBackedDependencyTrap]], [[LiuZhang]]'s inheritance of [[YizhouLateHan]] and the loss of [[GanNing]] through [[ImportedTroopsLocalEliteCleavage]] show that imported troops and local elites must be reconciled, and [[TaoQianLateHan]]'s succession handoff to [[LiuBei]] demonstrates [[LocalEliteProxySelection]] under crisis.
+汉纪 974, 汉纪 975, and 汉纪 981 add earlier late-Han governance cases in which survival depends on local-elite security, detecting institutional drift, converting advice into action, avoiding dependency traps, and integrating local power: 汉纪 974 shows [[CaoCao]]'s old trust with [[ZhangMiaoLateHan]] failing when [[YuanShao]] pressure, a [[LyuBu]] alliance opening, and [[BianRangLateHan]]'s killing turn [[YanzhouLateHan]] politics into [[LocalEliteSecurityPanic]] and [[PersonalTrustPoliticalFragility]], with [[GaoRouLateHan]] anticipating the split, [[ChenGongLateHan]], [[XuSiLateHan]], [[WangKaiLateHan]], and [[ZhangChaoLateHan]] organizing the revolt, and the early [[TuntianSystem]]/land-clearance explanation plus [[CaoRen]]-centered military tightening kept source-scoped inside [[AdviserStateArchitecture]] and [[RootBasePriority]]; 汉纪 975 then has [[XunYu]] use [[DetailBasedCrisisDetection]] and [[PowerEtiquetteReading]] to read the Yanzhou break before recalling [[XiahouDun]] to [[JuanchengLateHan]], while [[TianFengLateHan]]'s warning over grain aid to Lü Bu shows the [[CourtFeedbackCollapse]] risk under Yuan Shao; later [[ChengYu]] persuades Cao Cao not to submit family hostages to Yuan Shao under [[HostageBackedDependencyTrap]], [[LiuZhang]]'s inheritance of [[YizhouLateHan]] and the loss of [[GanNing]] through [[ImportedTroopsLocalEliteCleavage]] show that imported troops and local elites must be reconciled, and [[TaoQianLateHan]]'s succession handoff to [[LiuBei]] demonstrates [[LocalEliteProxySelection]] under crisis.
 
 **Evidence:** [[zizhi-tongjian-hanji-974-caocao-xiang-ta-tuo-qi-xian-zi-weihe-zhuanshen-ai-daozi-lhfabab7xv2vfsgnhr9ozwqhmhd]], [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr]], [[zizhi-tongjian-hanji-981-sanguo-zui-gang-moushi-chengyu-yi-ju-hua-rang-caocao-tanfu-lhlhlrmf2gvspwyvjkxg6kz44fth]], [[CaoCao]], [[ZhangMiaoLateHan]], [[YuanShao]], [[LyuBu]], [[BianRangLateHan]], [[YanzhouLateHan]], [[LocalEliteSecurityPanic]], [[PersonalTrustPoliticalFragility]], [[GaoRouLateHan]], [[ChenGongLateHan]], [[XuSiLateHan]], [[WangKaiLateHan]], [[ZhangChaoLateHan]], [[TuntianSystem]], [[CaoRen]], [[AdviserStateArchitecture]], [[RootBasePriority]], [[XunYu]], [[DetailBasedCrisisDetection]], [[PowerEtiquetteReading]], [[XiahouDun]], [[JuanchengLateHan]], [[TianFengLateHan]], [[CourtFeedbackCollapse]], [[ChengYu]], [[HostageBackedDependencyTrap]], [[LiuZhang]], [[YizhouLateHan]], [[GanNing]], [[ImportedTroopsLocalEliteCleavage]], [[TaoQianLateHan]], [[LiuBei]], [[LocalEliteProxySelection]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 974, Hanji 975, and Hanji 981's pre-Hanji-982 late-Han governance branches.
-- Hanji 974's Bian Rang chronology and early屯田/land-clearance explanation remain source-scoped against the later formal屯田 account.
-- Hanji 975's old-woman informant, street-rhyme, carved grain-label, and Xun Shu-derived谣谶 details remain source-scoped rather than settled causal evidence.
+- This claim is source-scoped to 汉纪 974, 汉纪 975, and 汉纪 981's pre-Hanji-982 late-Han governance branches.
+- 汉纪 974's Bian Rang chronology and early屯田/land-clearance explanation remain source-scoped against the later formal屯田 account.
+- 汉纪 975's old-woman informant, street-rhyme, carved grain-label, and Xun Shu-derived谣谶 details remain source-scoped rather than settled causal evidence.
 - The sources treat Zhang Miao's trust failure, Xun Yu's detection, Tian Feng's warning, Cheng Yu's advice, Yizhou's imported-troops problem, Gan Ning's exit, and Liu Bei's Xuzhou hesitation as related survival mechanisms rather than as a complete account of Cao Cao, Yuan Shao, Liu Zhang, or Liu Bei.
 
 ### Late Reform And Policing Collapse Drive Escalation
@@ -1691,13 +1691,13 @@ Public-safety surveillance governance now appears as a local legitimacy problem:
 
 ### Late Han Office Capture Precedes Emperor Flight
 
-Hanji 979 adds an earlier late-Han governance prelude: [[ChengYu]] and [[ZaoZhi]] keep [[CaoCao]] from losing his [[YanzhouLateHan]] base through [[CangtingFordLateHan]] and [[DongALateHan]] defense, while [[CourtOfficeCapture]] shows [[LiJueLateHan]], [[GuoSiLateHan]], [[FanChouLateHan]], and [[YangDingLateHan]] turning kaifu-style offices into appointment capture; the [[ChangAnHanCapital]] famine branch shows [[EmperorXianOfHan]] able to expose [[HouWenLateHan]]'s relief fraud even though [[MingqiLegitimacy]], [[FamineEntitlementFailure]], and [[DisasterResponseStateCapacity]] remain institutionally weak.
+汉纪 979 adds an earlier late-Han governance prelude: [[ChengYu]] and [[ZaoZhi]] keep [[CaoCao]] from losing his [[YanzhouLateHan]] base through [[CangtingFordLateHan]] and [[DongALateHan]] defense, while [[CourtOfficeCapture]] shows [[LiJueLateHan]], [[GuoSiLateHan]], [[FanChouLateHan]], and [[YangDingLateHan]] turning kaifu-style offices into appointment capture; the [[ChangAnHanCapital]] famine branch shows [[EmperorXianOfHan]] able to expose [[HouWenLateHan]]'s relief fraud even though [[MingqiLegitimacy]], [[FamineEntitlementFailure]], and [[DisasterResponseStateCapacity]] remain institutionally weak.
 
 **Evidence:** [[zizhi-tongjian-hanji-979-zaoyu-tongliao-beici-ta-ruhe-wei-caocao-liwan-kuanglan-luu58a2ww11g-radh-5g4l7fcis]], [[ChengYu]], [[ZaoZhi]], [[CaoCao]], [[YanzhouLateHan]], [[CangtingFordLateHan]], [[DongALateHan]], [[CourtOfficeCapture]], [[LiJueLateHan]], [[GuoSiLateHan]], [[FanChouLateHan]], [[YangDingLateHan]], [[ChangAnHanCapital]], [[EmperorXianOfHan]], [[HouWenLateHan]], [[MingqiLegitimacy]], [[FamineEntitlementFailure]], [[DisasterResponseStateCapacity]], [[RootBasePriority]], [[XingshiqingStrategicAssessment]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 979 and treats transcript normalizations such as 陈玉/程昱, 早知/枣祗, 侯文/侯汶, and 韩丹商/邯郸商 as canonical-page mapping rather than independent contradiction findings.
+- This claim is source-scoped to 汉纪 979 and treats transcript normalizations such as 陈玉/程昱, 早知/枣祗, 侯文/侯汶, and 韩丹商/邯郸商 as canonical-page mapping rather than independent contradiction findings.
 - The Yanzhou branch is a base-preservation and strategic-assessment case; the Chang'an branch is an office-capture and famine-relief case, so the claim links them as governance mechanisms without making them one causal chain.
 
 ### Tudor Intervention Threshold Turns Cold War Into Open Conflict
@@ -1725,42 +1725,42 @@ The Mary Stuart episode adds a Tudor case where dynastic succession risk becomes
 
 ### Late Han Survival Requires Managed Visibility And Executor Judgment
 
-Hanji 966-967 adds a late-Han governance case where survival turns on crisis judgment, managed visibility, and executor quality: in Hanji 966, [[JiaXu]] advises [[LiJueLateHan]], [[GuoSiLateHan]], and allied remnant commanders to attack [[ChangAnHanCapital]], which solves their immediate exposure while enabling court coercion; [[WangYunLateHan]] fails to convert public loyalty into practical leverage, and [[SongYiLateHan]]'s [[RigidObedienceCrisisFailure]] ignores the outside deterrent [[WangHongLateHan]] still sees. Hanji 967 then shows [[ShiSunRuiLateHan]] protected when Wang Yun absorbs public credit for killing [[DongZhuo]] and the deed becomes [[MeritConcealmentSelfProtection]], while Jia Xu's advice becomes [[ExecutorCharacterAdviceRisk]] once remnant success produces Chang'an plunder preserved through [[HouHanshu]]. [[LyuBu]] supplies the contrast case: failed defense and flight in Hanji 966 precede loud credit for killing Dong Zhuo, alienation of [[YuanShu]], movement through [[ZhangYangLateHan]] toward [[YuanShao]], and later [[QingYuQuJiu]] instability.
+汉纪 966-967 adds a late-Han governance case where survival turns on crisis judgment, managed visibility, and executor quality: in 汉纪 966, [[JiaXu]] advises [[LiJueLateHan]], [[GuoSiLateHan]], and allied remnant commanders to attack [[ChangAnHanCapital]], which solves their immediate exposure while enabling court coercion; [[WangYunLateHan]] fails to convert public loyalty into practical leverage, and [[SongYiLateHan]]'s [[RigidObedienceCrisisFailure]] ignores the outside deterrent [[WangHongLateHan]] still sees. 汉纪 967 then shows [[ShiSunRuiLateHan]] protected when Wang Yun absorbs public credit for killing [[DongZhuo]] and the deed becomes [[MeritConcealmentSelfProtection]], while Jia Xu's advice becomes [[ExecutorCharacterAdviceRisk]] once remnant success produces Chang'an plunder preserved through [[HouHanshu]]. [[LyuBu]] supplies the contrast case: failed defense and flight in 汉纪 966 precede loud credit for killing Dong Zhuo, alienation of [[YuanShu]], movement through [[ZhangYangLateHan]] toward [[YuanShao]], and later [[QingYuQuJiu]] instability.
 
 **Evidence:** [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]], [[ShiSunRuiLateHan]], [[WangYunLateHan]], [[DongZhuo]], [[MeritConcealmentSelfProtection]], [[JiaXu]], [[LiJueLateHan]], [[GuoSiLateHan]], [[ExecutorCharacterAdviceRisk]], [[ChangAnHanCapital]], [[HouHanshu]], [[LyuBu]], [[YuanShu]], [[ZhangYangLateHan]], [[YuanShao]], [[QingYuQuJiu]], [[PoliticalSurvivalFirst]], [[DarkAdviserCraft]], [[GoodIntentionsPoliticalLimits]], [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u]], [[FanChouLateHan]], [[SongYiLateHan]], [[WangHongLateHan]], [[RigidObedienceCrisisFailure]], [[MingqiLegitimacy]], [[XingshiqingStrategicAssessment]], [[EmperorXianOfHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 966-967 and their immediate post-Dong-Zhuo backfill before Hanji 968-970.
-- Hanji 966's Jin Ping Mei leadership frame and Hanji 967's Jia Xu guilt, repair arc, and self-cultivation analogies remain source-scoped interpretation rather than settled evidence of interior motive.
+- This claim is source-scoped to 汉纪 966-967 and their immediate post-Dong-Zhuo backfill before 汉纪 968-970.
+- 汉纪 966's Jin Ping Mei leadership frame and 汉纪 967's Jia Xu guilt, repair arc, and self-cultivation analogies remain source-scoped interpretation rather than settled evidence of interior motive.
 - The claim separates immediate survival effectiveness from ethical justification of the Chang'an outcome and treats Song Yi's formal obedience as a crisis-judgment failure under captured-court conditions, not as a general rejection of lawful command.
 
 ### Late Han Alliance Security Can Turn Courtesy Into Elimination
 
-Hanji 970 adds a governance case in which common-enemy cooperation does not solve alliance security: [[YuanShao]] recovers around [[YeLateHan]] and [[WeiCommanderyLateHan]] through [[TaoShengLateHan]] and then uses [[LyuBu]] against [[HeishanArmy]] actors such as [[YuDuLateHan]] and [[ZhangYanLateHan]], but [[YuanShaoLyuBuAssassinationAttempt]] and [[CourtesyCoveredElimination]] show office appointment, escort, and access becoming a covert-elimination channel rather than durable command alignment.
+汉纪 970 adds a governance case in which common-enemy cooperation does not solve alliance security: [[YuanShao]] recovers around [[YeLateHan]] and [[WeiCommanderyLateHan]] through [[TaoShengLateHan]] and then uses [[LyuBu]] against [[HeishanArmy]] actors such as [[YuDuLateHan]] and [[ZhangYanLateHan]], but [[YuanShaoLyuBuAssassinationAttempt]] and [[CourtesyCoveredElimination]] show office appointment, escort, and access becoming a covert-elimination channel rather than durable command alignment.
 
 **Evidence:** [[zizhi-tongjian-hanji-970-yuanshao-ansha-lvbu-weihe-hui-shibai-ln2pnvit-qgpnhn-pne7o-p1irrs]], [[YuanShao]], [[YeLateHan]], [[WeiCommanderyLateHan]], [[TaoShengLateHan]], [[LyuBu]], [[HeishanArmy]], [[YuDuLateHan]], [[ZhangYanLateHan]], [[YuanShaoLyuBuAssassinationAttempt]], [[CourtesyCoveredElimination]], [[AssassinationAccessCredential]], [[InterestStructuredAllianceFragility]], [[PersonalTrustPoliticalFragility]], [[ZhangYangLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 970 and its backfill before Hanji 971 and the later Yanzhou-Lü Bu sequence.
+- This claim is source-scoped to 汉纪 970 and its backfill before 汉纪 971 and the later Yanzhou-Lü Bu sequence.
 - The zither, tunnel, and tent-slashing escape details remain narrative evidence from this source rather than independent proof.
 - The claim concerns alliance security under late-Han warlord conditions, not a universal rule that every common-enemy alliance must fail.
 
 ### Late Han Title And Office Diverge From Rule
 
-Hanji 966-969 add an earlier governance layer in which legitimacy, food, surrendered people, and formal office all need operating channels. Hanji 966 shows the court name and summons system operating under immediate Li-Guo coercion after [[ChangAnHanCapital]] falls: [[WangHongLateHan]] reads the summons to him and [[SongYiLateHan]] as a trap, while Song Yi obeys and removes the last outside deterrent protecting [[WangYunLateHan]]. Hanji 967 shows the captured Chang'an court still issuing consequential names: [[LiuBiao]] receives a title package, [[HuangfuSongLateHan]] is removed, and [[EmperorXianOfHan]] remains the recognized center even while [[LiJueLateHan]] and [[GuoSiLateHan]] control the capital. Hanji 968 has [[CaoCao]] convert a defeated Qingzhou population into [[QingzhouSoldiers]] and farming support through [[DefeatedPopulationConversion]], while [[MaoJie]] links [[TuntianSystem]] prehistory to [[LegitimacyWindowSeizure]] and [[AdviserStateArchitecture]]; [[DongZhaoLateHan]], [[ZhangYangLateHan]], [[HeneiCommandery]], and [[ZhongYao]] then make imperial contact possible. Hanji 969 shows the failure mode: formal titles remain useful signals, but captured channels and empty offices stop them from being self-executing; Zhong Yao's handling of Li Jue and Guo Si preserves some [[MingqiLegitimacy]] for Cao Cao under [[CourtOfficeCapture]], while [[YuanShao]] and [[YuanShu]] contest [[YangzhouLateHan]] after [[ChenWenLateHan]] through [[YuanYiLateHan]], and [[QingzhouLateHan]]'s proxy conflict between [[TianKaiLateHan]] and [[YuanTan]] requires [[ZhaoQiLateHan]] to mediate famine effects under [[WarDisasterCompounding]] and [[FamineEntitlementFailure]].
+汉纪 966-969 add an earlier governance layer in which legitimacy, food, surrendered people, and formal office all need operating channels. 汉纪 966 shows the court name and summons system operating under immediate Li-Guo coercion after [[ChangAnHanCapital]] falls: [[WangHongLateHan]] reads the summons to him and [[SongYiLateHan]] as a trap, while Song Yi obeys and removes the last outside deterrent protecting [[WangYunLateHan]]. 汉纪 967 shows the captured Chang'an court still issuing consequential names: [[LiuBiao]] receives a title package, [[HuangfuSongLateHan]] is removed, and [[EmperorXianOfHan]] remains the recognized center even while [[LiJueLateHan]] and [[GuoSiLateHan]] control the capital. 汉纪 968 has [[CaoCao]] convert a defeated Qingzhou population into [[QingzhouSoldiers]] and farming support through [[DefeatedPopulationConversion]], while [[MaoJie]] links [[TuntianSystem]] prehistory to [[LegitimacyWindowSeizure]] and [[AdviserStateArchitecture]]; [[DongZhaoLateHan]], [[ZhangYangLateHan]], [[HeneiCommandery]], and [[ZhongYao]] then make imperial contact possible. 汉纪 969 shows the failure mode: formal titles remain useful signals, but captured channels and empty offices stop them from being self-executing; Zhong Yao's handling of Li Jue and Guo Si preserves some [[MingqiLegitimacy]] for Cao Cao under [[CourtOfficeCapture]], while [[YuanShao]] and [[YuanShu]] contest [[YangzhouLateHan]] after [[ChenWenLateHan]] through [[YuanYiLateHan]], and [[QingzhouLateHan]]'s proxy conflict between [[TianKaiLateHan]] and [[YuanTan]] requires [[ZhaoQiLateHan]] to mediate famine effects under [[WarDisasterCompounding]] and [[FamineEntitlementFailure]].
 
 **Evidence:** [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3]], [[zizhi-tongjian-hanji-968-jiemi-sanguo-zui-lihai-de-yangmou-lg4qfkdgw-stixrebhjdoshil6yj]], [[zizhi-tongjian-hanji-969-yuanshi-xiongdi-neidou-shui-neng-jianlou-lsgj6sewo35jpsgfm-koivijtr6r]], [[LiuBiao]], [[HuangfuSongLateHan]], [[EmperorXianOfHan]], [[ChangAnHanCapital]], [[MaoJie]], [[QingzhouSoldiers]], [[DefeatedPopulationConversion]], [[TuntianSystem]], [[LegitimacyWindowSeizure]], [[AdviserStateArchitecture]], [[DongZhaoLateHan]], [[ZhangYangLateHan]], [[HeneiCommandery]], [[ZhongYao]], [[LiJueLateHan]], [[GuoSiLateHan]], [[MingqiLegitimacy]], [[CaoCao]], [[CourtOfficeCapture]], [[YuanShao]], [[YuanShu]], [[YangzhouLateHan]], [[ChenWenLateHan]], [[YuanYiLateHan]], [[QingzhouLateHan]], [[TianKaiLateHan]], [[YuanTan]], [[ZhaoQiLateHan]], [[WarDisasterCompounding]], [[FamineEntitlementFailure]], [[zizhi-tongjian-hanji-966-meiyou-yexin-budong-quanmou-jiu-bie-dang-lingdao-lldn3hi1gl5v3axvklwakgf6vx3u]], [[SongYiLateHan]], [[WangHongLateHan]], [[WangYunLateHan]], [[RigidObedienceCrisisFailure]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 966-969 and does not generalize every late-Han appointment into an empty title.
-- Hanji 966 first adds the captured-summons trap; the source's Jin Ping Mei opening is treated as leadership framing rather than independent institutional evidence.
-- Hanji 967's Liu Biao appointment and Huangfu Song removal details are brief, so they are used as evidence of continuing title-order function rather than a complete court-administration account.
-- Mao Jie's屯田 advice in Hanji 968 is treated as strategic prehistory rather than the formal Zao Zhi/Ren Jun implementation branch preserved elsewhere.
+- This claim is source-scoped to 汉纪 966-969 and does not generalize every late-Han appointment into an empty title.
+- 汉纪 966 first adds the captured-summons trap; the source's Jin Ping Mei opening is treated as leadership framing rather than independent institutional evidence.
+- 汉纪 967's Liu Biao appointment and Huangfu Song removal details are brief, so they are used as evidence of continuing title-order function rather than a complete court-administration account.
+- Mao Jie's屯田 advice in 汉纪 968 is treated as strategic prehistory rather than the formal Zao Zhi/Ren Jun implementation branch preserved elsewhere.
 - It complements rather than replaces existing office-capture and emperor-flight claims, which concern later Chang'an court breakdown.
-- It treats Hanji 969 famine as an institutional consequence of prolonged proxy war rather than as a standalone environmental explanation.
+- It treats 汉纪 969 famine as an institutional consequence of prolonged proxy war rather than as a standalone environmental explanation.
 
 ### Tudor Recusancy Security State Forms Before Plots
 
@@ -1775,13 +1775,13 @@ Episode 692 adds a Tudor governance origin layer before the later named plots: [
 
 ### Late Han Yijing Fortress Command Trust Collapse
 
-[[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|Hanji 1031]] completes the Gongsun Zan Yijing governance case: [[YuanShao]] intercepts a fire-signal relief plan involving [[ZhangYanLateHan]] and [[GongsunXuLateHan]], defeats the sortie, and breaks [[YijingFortress]] through tunnel-and-fire siege work, making [[RescueReciprocityCommandTrust]] and [[FortressSecurityIllusion]] a terminal command-trust failure rather than only a warning about passive defense.
+[[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|汉纪 1031]] completes the Gongsun Zan Yijing governance case: [[YuanShao]] intercepts a fire-signal relief plan involving [[ZhangYanLateHan]] and [[GongsunXuLateHan]], defeats the sortie, and breaks [[YijingFortress]] through tunnel-and-fire siege work, making [[RescueReciprocityCommandTrust]] and [[FortressSecurityIllusion]] a terminal command-trust failure rather than only a warning about passive defense.
 
 **Evidence:** [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz]], [[YuanShao]], [[ZhangYanLateHan]], [[GongsunXuLateHan]], [[GongsunZan]], [[YijingFortress]], [[GuanJingLateHan]], [[TianKaiLateHan]], [[RescueReciprocityCommandTrust]], [[FortressSecurityIllusion]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1031 and completes the Hanji 1030 Yijing warning rather than rewriting the wider Yuan Shao or Cao Cao sequence.
+- This claim is source-scoped to 汉纪 1031 and completes the 汉纪 1030 Yijing warning rather than rewriting the wider Yuan Shao or Cao Cao sequence.
 - The episode's self-knowledge and Dunning-Kruger language is preserved as interpretive framing, not independent evidence for Gongsun Zan's psychology.
 - The final defeat is treated as both tactical and organizational: intercepted communication and siege engineering matter because prior reciprocal trust has already failed.
 
@@ -1798,18 +1798,18 @@ Federal research governance now appears as a capacity-and-productivity tradeoff:
 
 ### Late Han Guandu Preparation Turns Surrender And Grain Into Governance
 
-Hanji 1035 makes pre-Guandu governance a people-and-grain conversion problem: [[JiaXu]] steers [[ZhangXiu]] toward [[CaoCao]] through legitimacy, marginal-value, and magnanimity logic, while [[YangFuLateHan]] contrasts Cao's organization with [[YuanShao]] and [[WeiJiLateHan]]'s [[SaltRevenueAgriculturalRecovery]] uses salt revenue and farming inputs in [[GuanzhongRegion]] to counter local generals' manpower absorption.
+汉纪 1035 makes pre-Guandu governance a people-and-grain conversion problem: [[JiaXu]] steers [[ZhangXiu]] toward [[CaoCao]] through legitimacy, marginal-value, and magnanimity logic, while [[YangFuLateHan]] contrasts Cao's organization with [[YuanShao]] and [[WeiJiLateHan]]'s [[SaltRevenueAgriculturalRecovery]] uses salt revenue and farming inputs in [[GuanzhongRegion]] to counter local generals' manpower absorption.
 
 **Evidence:** [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v]], [[JiaXu]], [[ZhangXiu]], [[CaoCao]], [[YuanShao]], [[YangFuLateHan]], [[WeiJiLateHan]], [[SaltRevenueAgriculturalRecovery]], [[GuanzhongRegion]], [[GuanduCampaign]], [[StrategicDefectorIncorporation]], [[WartimeAgriculturalLaborCollapse]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1035 and backfills the immediate pre-Guandu setup rather than narrating the battle itself.
+- This claim is source-scoped to 汉纪 1035 and backfills the immediate pre-Guandu setup rather than narrating the battle itself.
 - The opening upward-networking analogy is retained as interpretive framing, not as independent historical evidence.
 
 ### Late Han 1032 Legitimacy And Clemency Before Guandu
 
-[[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|Hanji 1032]] adds a pre-Guandu governance layer: [[TianYuLateHan]] reads [[CaoCao]]'s emperor-backed command through [[LegitimacyWindowSeizure]], [[XianyuFu]] submits to the court-facing order, [[YuanShao]] stabilizes the [[Wuhuan]] frontier through [[TadunLateHan]] and [[YanRou]], and Cao Cao's pardon plus appointment of [[WeiZhongLateHan]] extends [[StrategicDefectorIncorporation]] by subordinating private anger to talent use under multi-front pressure.
+[[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy|汉纪 1032]] adds a pre-Guandu governance layer: [[TianYuLateHan]] reads [[CaoCao]]'s emperor-backed command through [[LegitimacyWindowSeizure]], [[XianyuFu]] submits to the court-facing order, [[YuanShao]] stabilizes the [[Wuhuan]] frontier through [[TadunLateHan]] and [[YanRou]], and Cao Cao's pardon plus appointment of [[WeiZhongLateHan]] extends [[StrategicDefectorIncorporation]] by subordinating private anger to talent use under multi-front pressure.
 
 **Evidence:** [[zizhi-tongjian-hanji-1032-duidai-pantu-caocao-weihe-renci-lmrr3c2f2dayectlwndt4p-katuy]], [[TianYuLateHan]], [[CaoCao]], [[LegitimacyWindowSeizure]], [[XianyuFu]], [[YuanShao]], [[Wuhuan]], [[TadunLateHan]], [[YanRou]], [[WeiZhongLateHan]], [[StrategicDefectorIncorporation]], [[GuanduCampaign]]
 
@@ -1821,13 +1821,13 @@ Hanji 1035 makes pre-Guandu governance a people-and-grain conversion problem: [[
 
 ### Late Han 1022 Refuge And Law Over Kinship Governance
 
-[[zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf|Hanji 1022]] adds a pre-Hanji 1023 Cao-side governance layer: [[DuXiLateHan]], [[ZhaoYanLateHan]], and [[FanQinLateHan]] use [[Jingzhou]] as refuge while preserving [[ConcealedCapabilityTiming]], Zhao Yan's later move to [[CaoCao]] after [[Xudu]] makes patron exposure conditional, and [[LiTongLateHan]] accepting Zhao Yan's enforcement extends [[RuleOverKinshipPower]] from clan clients to wife-side kinship pressure before [[XunYou]]'s [[ZhangXiu]] warning.
+[[zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf|汉纪 1022]] adds a pre-汉纪 1023 Cao-side governance layer: [[DuXiLateHan]], [[ZhaoYanLateHan]], and [[FanQinLateHan]] use [[Jingzhou]] as refuge while preserving [[ConcealedCapabilityTiming]], Zhao Yan's later move to [[CaoCao]] after [[Xudu]] makes patron exposure conditional, and [[LiTongLateHan]] accepting Zhao Yan's enforcement extends [[RuleOverKinshipPower]] from clan clients to wife-side kinship pressure before [[XunYou]]'s [[ZhangXiu]] warning.
 
 **Evidence:** [[zizhi-tongjian-hanji-1022-luanshi-sanguo-sanwei-mingshi-de-shengcun-jueze-lgmbekomxwiu7hjnpxkxggyhvwaf]], [[DuXiLateHan]], [[ZhaoYanLateHan]], [[FanQinLateHan]], [[ConcealedCapabilityTiming]], [[Jingzhou]], [[CaoCao]], [[Xudu]], [[LiTongLateHan]], [[RuleOverKinshipPower]], [[XunYou]], [[ZhangXiu]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1022 and backfills the pre-Hanji 1023 sequence rather than replacing later Zhang Xiu or Guandu branches.
+- This claim is source-scoped to 汉纪 1022 and backfills the pre-汉纪 1023 sequence rather than replacing later Zhang Xiu or Guandu branches.
 - The legal signal remains a Cao-camp governance technique; it should not be expanded into independent equality before law.
 - The Liu Biao refuge reading is limited to the three refugees' assessment and does not deny Liu Biao's earlier defensive governance achievement.
 
@@ -1856,13 +1856,13 @@ Hanji 1035 makes pre-Guandu governance a people-and-grain conversion problem: [[
 
 ### Late Han 1043 Legitimacy And Advice Before Guandu
 
-[[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] adds a pre-[[GuanduCampaign]] governance-and-command translation case: [[YuanShao]] can deploy [[ChenLinLateHan]] and [[LegitimacyIndictmentWarfare]] against [[CaoCao]], but [[JuShou]] campaign-risk and commander-fit warnings still fail inside Yuan decision process, while [[ChengYu]] and Cao turn [[XingshiqingStrategicAssessment]] into usable Juancheng defense and [[BaimaReliefLateHan]] relief through [[LureEnemyOutOfPosition]].
+[[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] adds a pre-[[GuanduCampaign]] governance-and-command translation case: [[YuanShao]] can deploy [[ChenLinLateHan]] and [[LegitimacyIndictmentWarfare]] against [[CaoCao]], but [[JuShou]] campaign-risk and commander-fit warnings still fail inside Yuan decision process, while [[ChengYu]] and Cao turn [[XingshiqingStrategicAssessment]] into usable Juancheng defense and [[BaimaReliefLateHan]] relief through [[LureEnemyOutOfPosition]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna]], [[GuanduCampaign]], [[YuanShao]], [[ChenLinLateHan]], [[LegitimacyIndictmentWarfare]], [[CaoCao]], [[JuShou]], [[ChengYu]], [[XingshiqingStrategicAssessment]], [[BaimaReliefLateHan]], [[LureEnemyOutOfPosition]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1043 and does not replace broader Cao-Yuan institutional comparisons elsewhere in the topic.
+- This claim is source-scoped to 汉纪 1043 and does not replace broader Cao-Yuan institutional comparisons elsewhere in the topic.
 - It distinguishes public legitimacy rhetoric from executable command and adviser absorption.
 - Cheng Yu low-force defense is context-dependent and should not be generalized into a rule that smaller garrisons are always safer.
 
@@ -1901,25 +1901,25 @@ The Harris [[HubermanLab]] paragraph keeps [[NonDualMindfulness]] and [[Psychede
 
 ### Late Han 1050 Post Guandu Amnesty And Feedback Collapse
 
-[[zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse|Hanji 1050]] adds a post-[[GuanduCampaign]] governance aftermath: [[CaoCao]] burns insider letters to create [[PostVictoryAmnestySignal]], while [[YuanShao]] turns defeat into [[CourtFeedbackCollapse]] by killing [[TianFengLateHan]] after [[FengJiLateHan]] slander and letting captured-family suspicion threaten [[ShenPeiLateHan]]; the contrast links clemency, advice absorption, and trust repair to ruler quality after victory or defeat.
+[[zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse|汉纪 1050]] adds a post-[[GuanduCampaign]] governance aftermath: [[CaoCao]] burns insider letters to create [[PostVictoryAmnestySignal]], while [[YuanShao]] turns defeat into [[CourtFeedbackCollapse]] by killing [[TianFengLateHan]] after [[FengJiLateHan]] slander and letting captured-family suspicion threaten [[ShenPeiLateHan]]; the contrast links clemency, advice absorption, and trust repair to ruler quality after victory or defeat.
 
 **Evidence:** [[zizhi-tongjian-hanji-1050-cong-caocao-fenxin-xuexi-baogui-de-lingdao-zhihui-lsqg-qaxozjpaxyukrvxbtf-mcse]], [[GuanduCampaign]], [[CaoCao]], [[PostVictoryAmnestySignal]], [[YuanShao]], [[CourtFeedbackCollapse]], [[TianFengLateHan]], [[FengJiLateHan]], [[ShenPeiLateHan]], [[PardonAsStatePower]], [[CorrectableLeadershipError]], [[XingshiqingStrategicAssessment]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1050 and does not narrate the full Guandu battle mechanics.
+- This claim is source-scoped to 汉纪 1050 and does not narrate the full Guandu battle mechanics.
 - The Liu Xiu and Liu Bang comparisons are used as interpretive analogies rather than complete revisions of those ruler pages.
 - The transcript forms 庞季/庞纪 are normalized to FengJiLateHan, and Jiang Yiqu remains source-scoped because no canonical page is created from this mention.
 
 ### Late Han 1046 Taxation Stability And Leniency
 
-[[zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b|Hanji 1046]] adds a pre-[[GuanduCampaign]] governance case in which [[ZhaoYanLateHan]] stops [[LiTongLateHan]] from forcing [[YangAnLateHan]] cotton-silk remittance as [[WartimeTextileFiscalResource]] because extraction would damage [[PeopleBasedPoliticalSecurity]]; [[XunYu]] transmits the warning to [[CaoCao]], whose return order turns [[TaxationStabilityTradeoff]] into local control, while [[HeKui]] extends the same logic through [[NewlyAttachedRegionLeniency]] in [[ChangguangCommanderyLateHan]].
+[[zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b|汉纪 1046]] adds a pre-[[GuanduCampaign]] governance case in which [[ZhaoYanLateHan]] stops [[LiTongLateHan]] from forcing [[YangAnLateHan]] cotton-silk remittance as [[WartimeTextileFiscalResource]] because extraction would damage [[PeopleBasedPoliticalSecurity]]; [[XunYu]] transmits the warning to [[CaoCao]], whose return order turns [[TaxationStabilityTradeoff]] into local control, while [[HeKui]] extends the same logic through [[NewlyAttachedRegionLeniency]] in [[ChangguangCommanderyLateHan]].
 
 **Evidence:** [[zizhi-tongjian-hanji-1046-ta-ping-shenme-bei-chengzuo-sanguo-yincang-zui-shen-de-niuren-limiqxjqzbk4fttl8d6rviqwwe3b]], [[GuanduCampaign]], [[ZhaoYanLateHan]], [[LiTongLateHan]], [[YangAnLateHan]], [[WartimeTextileFiscalResource]], [[PeopleBasedPoliticalSecurity]], [[XunYu]], [[CaoCao]], [[TaxationStabilityTradeoff]], [[HeKui]], [[NewlyAttachedRegionLeniency]], [[ChangguangCommanderyLateHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 1046 and does not become a general anti-tax rule.
+- This claim is source-scoped to 汉纪 1046 and does not become a general anti-tax rule.
 - It distinguishes destabilizing extraction timing from fiscal extraction in general.
 - He Kui leniency applies to newly attached remote regions under disorder, not every governed area.
 
@@ -1949,13 +1949,13 @@ The Intel/Lovable All-In paragraph adds an AI-industrial governance branch: [[Te
 
 ### Late Han 1055 Yizhou Hanzhong Trust And Title Restraint
 
-[[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|Hanji 1055]] adds a 201-202 CE late-Han governance case: [[ChengJiLateHan]] refuses [[PangXiLateHan]] under [[LiuZhang]] and turns fear-driven local force into [[OfficialDutyOverPatronCommand]], while [[YanPuLateHan]] advises [[ZhangLuFivePecks]] that real Hanzhong substance makes kingship dangerous rather than necessary under [[TitleRealityRestraint]]. [[WudoumiDao]] and [[InstrumentalizedReligiousPower]] are extended from mobilization or cover into local religious administration.
+[[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o|汉纪 1055]] adds a 201-202 CE late-Han governance case: [[ChengJiLateHan]] refuses [[PangXiLateHan]] under [[LiuZhang]] and turns fear-driven local force into [[OfficialDutyOverPatronCommand]], while [[YanPuLateHan]] advises [[ZhangLuFivePecks]] that real Hanzhong substance makes kingship dangerous rather than necessary under [[TitleRealityRestraint]]. [[WudoumiDao]] and [[InstrumentalizedReligiousPower]] are extended from mobilization or cover into local religious administration.
 
 **Evidence:** [[zizhi-tongjian-hanji-1055-ta-wei-biaozhongxin-yuan-he-yong-ziji-erzi-ao-de-routang-lmr6owlwljlfibuktsyquqtfi7-o]], [[ChengJiLateHan]], [[PangXiLateHan]], [[LiuZhang]], [[OfficialDutyOverPatronCommand]], [[YanPuLateHan]], [[ZhangLuFivePecks]], [[TitleRealityRestraint]], [[WudoumiDao]], [[InstrumentalizedReligiousPower]]
 
 **Qualifications:**
 
-- The claim is source-scoped to Hanji 1055 and does not turn Pang Xi into a completed rebel or Zhang Lu into a formal king.
+- The claim is source-scoped to 汉纪 1055 and does not turn Pang Xi into a completed rebel or Zhang Lu into a formal king.
 - Liu Zhang son Liu Xun is disambiguated from Lujiang Liu Xun, and Qiao Xuan transcript spelling is normalized to the existing Qiao Xuan page.
 - Zhang Lu healing claims and the opening career or merit frame remain source-scoped rather than independently verified doctrine.
 
@@ -1996,13 +1996,13 @@ The Intel/Lovable All-In paragraph adds an AI-industrial governance branch: [[Te
 
 ### Late Han 775 Deng Pre Regency Legitimacy And Kin Restraint
 
-[[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]] adds the pre-regency governance baseline before [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|Hanji 776]] and [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|Hanji 777]]: [[EmpressDowagerDengLateHan]] builds legitimacy through childhood learning, deference inside [[EmperorHeOfHan]] harem, avoidance of rivalry with [[EmpressYinHeLateHan]], rejection of natal-family palace residence, and refusal of tribute or Deng-family reward escalation. [[FemalePowerCenterPoliticalCapacity]] and [[DengFamilyAnEraLateHan]] therefore begin before accession politics, while [[BanZhaoLateHan]] and [[FemaleCourtEducationEasternHan]] show court education becoming a governance resource and [[CourtDemandDrivenPapermaking]] gets its writing-material demand prelude.
+[[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|汉纪 775]] adds the pre-regency governance baseline before [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb|汉纪 776]] and [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs|汉纪 777]]: [[EmpressDowagerDengLateHan]] builds legitimacy through childhood learning, deference inside [[EmperorHeOfHan]] harem, avoidance of rivalry with [[EmpressYinHeLateHan]], rejection of natal-family palace residence, and refusal of tribute or Deng-family reward escalation. [[FemalePowerCenterPoliticalCapacity]] and [[DengFamilyAnEraLateHan]] therefore begin before accession politics, while [[BanZhaoLateHan]] and [[FemaleCourtEducationEasternHan]] show court education becoming a governance resource and [[CourtDemandDrivenPapermaking]] gets its writing-material demand prelude.
 
 **Evidence:** [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf]], [[zizhi-tongjian-hanji-776-hanshi-tanmi-cailun-shi-zenyang-faming-zaozhishu-de-ljqhhcywxr-yggzmcgzbbtg-q-hb]], [[zizhi-tongjian-hanji-777-bi-jian-wuzetian-nianya-cixi-zhege-nvren-liaobude-lk7j4qv-sqfopzbii6rc-ivbuxs]], [[EmpressDowagerDengLateHan]], [[EmperorHeOfHan]], [[EmpressYinHeLateHan]], [[FemalePowerCenterPoliticalCapacity]], [[DengFamilyAnEraLateHan]], [[BanZhaoLateHan]], [[FemaleCourtEducationEasternHan]], [[CourtDemandDrivenPapermaking]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 775 and backfills the pre-regency layer before Hanji 776 and Hanji 777 rather than replacing the accession, fiscal-war, or purge claims.
+- This claim is source-scoped to 汉纪 775 and backfills the pre-regency layer before 汉纪 776 and 汉纪 777 rather than replacing the accession, fiscal-war, or purge claims.
 - Deng Sui is normalized from the source transcript form 邓遂 to 邓绥; Ban Zhao is normalized from 班照 to 班昭.
 - Zhao Yu the palace maid, the brother-office line, the world first women school framing, and comparative technology claims remain source-scoped.
 
@@ -2030,13 +2030,13 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 ### Early Eastern Han 709 Hostage Deterrence Bandit Credit And Mou Strike
 
-[[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]] moves the early Guangwu governance branch back before [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|Hanji 711]]: [[HostageRansomDeterrence]] refuses ransom and hostage-first delay to destroy kidnapping incentives, [[YinXingGuangwuMaternalKin]] extends [[OuterRelativePreventiveRestraint]] inside the Yin household, [[GuoJiEasternHan]] makes [[CreditBasedBanditSurrender]] depend on credible leniency, and [[KouXunEasternHan]] turns [[HuangfuWenEasternHan]] into the target of [[MouDestructionStrike]] so [[GaoJunEasternHan]] surrenders without a prolonged assault.
+[[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]] moves the early Guangwu governance branch back before [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w|汉纪 711]]: [[HostageRansomDeterrence]] refuses ransom and hostage-first delay to destroy kidnapping incentives, [[YinXingGuangwuMaternalKin]] extends [[OuterRelativePreventiveRestraint]] inside the Yin household, [[GuoJiEasternHan]] makes [[CreditBasedBanditSurrender]] depend on credible leniency, and [[KouXunEasternHan]] turns [[HuangfuWenEasternHan]] into the target of [[MouDestructionStrike]] so [[GaoJunEasternHan]] surrenders without a prolonged assault.
 
 **Evidence:** [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2]], [[zizhi-tongjian-hanji-711-ta-zhu-liuxiu-da-xia-banbi-jiangshan-weihe-si-fa-biequ-liib38zub0-tgrbtycmlqvohv-w]], [[HostageRansomDeterrence]], [[YinXingGuangwuMaternalKin]], [[OuterRelativePreventiveRestraint]], [[GuoJiEasternHan]], [[CreditBasedBanditSurrender]], [[KouXunEasternHan]], [[HuangfuWenEasternHan]], [[MouDestructionStrike]], [[GaoJunEasternHan]]
 
 **Qualifications:**
 
-- This claim is source-scoped to Hanji 709 as a Jianwu 9-10 / 33-34 CE backfill before Hanji 711.
+- This claim is source-scoped to 汉纪 709 as a Jianwu 9-10 / 33-34 CE backfill before 汉纪 711.
 - The hostage branch proves the deterrence rule logic and its human cost, not a universal modern crisis-handling prescription.
 - The transcript forms 殷心, 郭吉, 尹川, 寇勋, and 高郡 are normalized cautiously, while minor campaign and Western Regions notices remain source-scoped.
 
@@ -2148,7 +2148,7 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 ### Late Xin Coercive Control Backfires Through Scandal Succession Currency
 
-[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] adds a late-Xin governance case where [[WangMang|Wang Mang]]'s control backfires across domains: [[DynasticScandalSuppression]] consumes [[WangLinXinCrownPrince|the crown prince]], [[DynasticHeirLossShock]] forces hidden fallback heirs into view, and [[PunitiveCurrencyEnforcementBackfire]] turns private-coinage policing into forced labor and household damage.
+[[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] adds a late-Xin governance case where [[WangMang|Wang Mang]]'s control backfires across domains: [[DynasticScandalSuppression]] consumes [[WangLinXinCrownPrince|the crown prince]], [[DynasticHeirLossShock]] forces hidden fallback heirs into view, and [[PunitiveCurrencyEnforcementBackfire]] turns private-coinage policing into forced labor and household damage.
 
 **Evidence:** [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp]], [[WangMang]], [[DynasticScandalSuppression]], [[WangLinXinCrownPrince]], [[DynasticHeirLossShock]], [[PunitiveCurrencyEnforcementBackfire]], [[XinDynasty]]
 
@@ -2181,22 +2181,22 @@ The 9to5 governance edge shows workplace recognition matters only when it can mo
 
 ### Han Aidi Favorite Politics Crosses Abdication Language Boundary
 
-[[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|Hanji 601-1]] adds a late-Western-Han governance case where [[ClassicalAllusionPoliticalRiskReading]] and [[ImperialAbdicationLanguageBoundary]] expose [[HanAidi]]'s [[DongXian]] favorite politics as more than reward distortion: [[XiaoXianWesternHan]] avoids a Dong-family marriage after reading appointment wording as Yao-Shun coded, while [[WangHongWesternHan]] blocks Aidi's banquet remark by insisting the realm belongs to Gaozu's dynastic line.
+[[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n|汉纪 601-1]] adds a late-Western-Han governance case where [[ClassicalAllusionPoliticalRiskReading]] and [[ImperialAbdicationLanguageBoundary]] expose [[HanAidi]]'s [[DongXian]] favorite politics as more than reward distortion: [[XiaoXianWesternHan]] avoids a Dong-family marriage after reading appointment wording as Yao-Shun coded, while [[WangHongWesternHan]] blocks Aidi's banquet remark by insisting the realm belongs to Gaozu's dynastic line.
 
 **Evidence:** [[zizhi-tongjian-hanji-601-1-chule-yuhui-tade-wenhua-shuiping-ye-neng-gaiming-lnt4p2mo2nwfm3xqhg0dmfwiip1n]], [[ClassicalAllusionPoliticalRiskReading]], [[ImperialAbdicationLanguageBoundary]], [[HanAidi]], [[DongXian]], [[XiaoXianWesternHan]], [[WangHongWesternHan]], [[ImperialPrivateDesireGovernanceRisk]], [[MingqiLegitimacy]]
 
 **Qualifications:**
 
-- The claim is bounded to Hanji 601-1; the source does not prove a completed abdication plan or the exact intention behind the appointment phrase.
+- The claim is bounded to 汉纪 601-1; the source does not prove a completed abdication plan or the exact intention behind the appointment phrase.
 
 ### Chunyu Zhang Case Expansion Turns Dismissal Into Purge
 
-[[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|Hanji 557]] adds a Western Han governance case where limited dismissal becomes lethal case expansion: [[WangMang|王莽]] routes accusation against [[ChunyuZhangWesternHan|淳于长]] through [[WangGenWesternHan|王根]] and [[HanChengdi|汉成帝]], Chunyu's restoration attempt through [[WangLiWesternHan|王立]] reopens investigation, and [[EmpressXuWesternHan|废后许氏]] scandal plus [[ZhaiFangjinWesternHan|翟方进]]'s wider impeachment turn factional exposure into broader cleanup.
+[[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx|汉纪 557]] adds a Western Han governance case where limited dismissal becomes lethal case expansion: [[WangMang|王莽]] routes accusation against [[ChunyuZhangWesternHan|淳于长]] through [[WangGenWesternHan|王根]] and [[HanChengdi|汉成帝]], Chunyu's restoration attempt through [[WangLiWesternHan|王立]] reopens investigation, and [[EmpressXuWesternHan|废后许氏]] scandal plus [[ZhaiFangjinWesternHan|翟方进]]'s wider impeachment turn factional exposure into broader cleanup.
 
 **Evidence:** [[zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx]], [[WangMang]], [[ChunyuZhangWesternHan]], [[WangGenWesternHan]], [[HanChengdi]], [[WangLiWesternHan]], [[EmpressXuWesternHan]], [[ZhaiFangjinWesternHan]], [[RoleAttachmentPowerExit]], [[PersonaShieldedPoliticalPurge]], [[CaseExpansionPoliticalPurge]]
 
 **Qualifications:**
 
-- The claim is source-scoped to one Hanji 557 summary and does not reconstruct the complete legal dossier against Chunyu Zhang.
+- The claim is source-scoped to one 汉纪 557 summary and does not reconstruct the complete legal dossier against Chunyu Zhang.
 - Wang Mang's inner motive, Wang Li's degree of knowing exchange, Empress Xu's full biography, and Zhai Fangjin's private motive remain source-scoped.
 - The source supports case expansion and role-exit failure, not a general rule that every demotion can safely become a purge.

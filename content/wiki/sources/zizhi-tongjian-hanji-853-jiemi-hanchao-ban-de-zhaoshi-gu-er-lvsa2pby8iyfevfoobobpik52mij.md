@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 160 CE [[EmperorHuanOfHan|汉桓帝]] layer between [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|Hanji 852]] and [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]]. It opens with Huan's amnesty and search for [[LiGuLateHan|李固]]'s descendants, then reconstructs how [[LiWenjiLateHan|李文姬]] and [[WangChengLiGuStudent|王成]] hid and preserved [[LiXieLateHan|李燮]] after the Li-family disaster.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 160 CE [[EmperorHuanOfHan|汉桓帝]] layer between [[zizhi-tongjian-hanji-852-dang-meinv-ruyun-shi-fu-haishi-huo-luml30ytbc-awpvk-7-23ehzbqpx|汉纪 852]] and [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]]. It opens with Huan's amnesty and search for [[LiGuLateHan|李固]]'s descendants, then reconstructs how [[LiWenjiLateHan|李文姬]] and [[WangChengLiGuStudent|王成]] hid and preserved [[LiXieLateHan|李燮]] after the Li-family disaster.
 
 The second half links that survival story to eunuch-favorite violence and official vulnerability. [[ShanChaoLateHan|单超]]'s lavish burial and the remaining Huan-era marquises' indulgence frame a court ecology in which [[HouLanLateHan|侯览]] and [[DuanGuiLateHan|段珪]] can get [[TengYanLateHan|滕延]] dismissed after he executes their violent servants, while [[ZhaoQiLateHan|赵岐]] survives [[TangXuanLateHan|唐玹]]'s family-destruction retaliation only through flight, concealment, and [[SunSongLateHan|孙嵩]]'s shelter.
 
@@ -44,10 +44,10 @@ The second half links that survival story to eunuch-favorite violence and offici
 - [[FiveMarquisesHuanEra|桓帝五侯]], [[ShanChaoLateHan|单超]], [[ZuoGuanLateHan|左悺]], [[ZuoShengLateHan|左胜]], [[TangHengLateHan|唐衡]], and [[TangXuanLateHan|唐玹]] - Huan-era eunuch-reward network and family-linked official pressure.
 - [[HouLanLateHan|侯览]], [[DuanGuiLateHan|段珪]], [[TengYanLateHan|滕延]], and [[EunuchPatronageViolenceShield|宦官庇护下的地方暴行]] - protected retainers, road robbery, local execution, and enforcement reversal.
 - [[ZhaoQiLateHan|赵岐]], [[SunSongLateHan|孙嵩]], [[FugitiveShelterCollateralRisk|收留逃亡者的牵连风险]], and [[CrisisWithdrawalSelfProtection|危局抽身自保]] - flight, concealment, and protective non-exposure before later public service.
-- [[DuanJiongLateHan|段熲]], [[XianlingQiang|先零羌]], and [[ShendiQiang|沈氐羌]] - frontier continuation into the Hanji 854-855 campaign field.
+- [[DuanJiongLateHan|段熲]], [[XianlingQiang|先零羌]], and [[ShendiQiang|沈氐羌]] - frontier continuation into the 汉纪 854-855 campaign field.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills 160 CE before the existing Hanji 854-855 frontier and appointment sequence.
+- No settled contradiction with existing wiki pages was found. This source backfills 160 CE before the existing 汉纪 854-855 frontier and appointment sequence.
 - Chronology caution: Hou Lan appears here in a 160 CE small-yellow-gate/property branch, while existing pages cover his 165 removal pressure, 166 enforcement conflict, 169 Zhang Jian retaliation, and 172 fall. The wiki treats this episode as an earlier layer rather than replacing those later events.
 - Transcript normalization: 李谢 is linked to [[LiXieLateHan|李燮]], 梁继 to [[LiangJiLateHan|梁冀]], 侯瀾 to [[HouLanLateHan|侯览]], 段归 to [[DuanGuiLateHan|段珪]], 赵齐 to [[ZhaoQiLateHan|赵岐]], 左冠 to [[ZuoGuanLateHan|左悺]], 唐玄 to [[TangXuanLateHan|唐玹]], 孙松 to [[SunSongLateHan|孙嵩]], and 段九 to [[DuanJiongLateHan|段熲]]. The elder Li sons, Zhao Boying, Shaohe/Shahe Qiang leader, and exact Zhangye places remain source-scoped.

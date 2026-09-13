@@ -29,10 +29,10 @@ His approach initially works. Zhang Bailu's group returns to prior settlements a
 
 ## Evidence
 
-- Amnesty timing: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] reports Fa Xiong arguing against immediate pursuit after the imperial amnesty.
-- Rebel response: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] says Zhang Bailu's followers returned captives, indicating that surrender credibility had some effect.
-- Execution failure: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|Hanji 785]] attributes the renewed flight to Donglai troops failing to disarm and align with the pacification posture.
-- Later endpoint: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] records the rebellion's later Liaodong defeat and Zhang Bolu/Bailu's death, showing that the failed surrender window moved the problem rather than resolving it.
+- Amnesty timing: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] reports Fa Xiong arguing against immediate pursuit after the imperial amnesty.
+- Rebel response: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] says Zhang Bailu's followers returned captives, indicating that surrender credibility had some effect.
+- Execution failure: [[zizhi-tongjian-hanji-785-donghan-dengsui-zhangkong-yuwang-caineng-xiaodao-zuihou-llfg4kjaautqlfewhplikvu3ry1u|汉纪 785]] attributes the renewed flight to Donglai troops failing to disarm and align with the pacification posture.
+- Later endpoint: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] records the rebellion's later Liaodong defeat and Zhang Bolu/Bailu's death, showing that the failed surrender window moved the problem rather than resolving it.
 
 ## Qualifications
 

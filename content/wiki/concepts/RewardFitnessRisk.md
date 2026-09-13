@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Definition
 
-德位不配风险 / Reward fitness risk is Hanji 430's warning that honor, wealth, or office can become dangerous when it exceeds the recipient's merit, virtue, or capacity to carry it.
+德位不配风险 / Reward fitness risk is 汉纪 430's warning that honor, wealth, or office can become dangerous when it exceeds the recipient's merit, virtue, or capacity to carry it.
 
 ## Current Synthesis
 
@@ -28,12 +28,12 @@ The idea complements [[YindeRewardCausality|阴德福报因果]]. Hidden virtue 
 ## Evidence
 
 Zhang Anshi reward restraint:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan plans major posthumous honor and family reward for Zhang He.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Zhang Anshi requests a reduced scale of tomb guards and reward.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] explicitly uses "德不配位" as the host's moral explanation.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Xuan plans major posthumous honor and family reward for Zhang He.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Zhang Anshi requests a reduced scale of tomb guards and reward.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] explicitly uses "德不配位" as the host's moral explanation.
 
 Modern extension:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] closes by warning listeners not to take rewards disproportionate to actual contribution.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] closes by warning listeners not to take rewards disproportionate to actual contribution.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ This concept records the episode's moral interpretation. It does not prove that 
 
 ## What Changed
 
-- Created the concept from Hanji 430's Zhang Anshi reward-restraint branch.
+- Created the concept from 汉纪 430's Zhang Anshi reward-restraint branch.
 
 ## Related Concepts
 

@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Substitutional Escape Sacrifice / 代身突围牺牲
 
-Substitutional Escape Sacrifice / 代身突围牺牲 names the pattern added by [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|Hanji 162-1]], where a retainer physically impersonates the ruler to draw enemy attention and buy an escape window. In this episode, [[JiXin|纪信]] rides out from [[YingyangWarringStates|荥阳]] in [[LiuBang|刘邦]]'s carriage and royal display, announces surrender, and accepts death once [[XiangYu|项羽]] discovers the substitution.
+Substitutional Escape Sacrifice / 代身突围牺牲 names the pattern added by [[zizhi-tongjian-hanji-162-1-ta-ti-liubang-qu-si-rujin-chengle-zhengzhou-de-shouhushen-li3su2zlmbm1ift9nibujgtcrxwm|汉纪 162-1]], where a retainer physically impersonates the ruler to draw enemy attention and buy an escape window. In this episode, [[JiXin|纪信]] rides out from [[YingyangWarringStates|荥阳]] in [[LiuBang|刘邦]]'s carriage and royal display, announces surrender, and accepts death once [[XiangYu|项羽]] discovers the substitution.
 
 The concept is not only tactical deception. The host uses the scene to interpret Liu Bang's political capacity: if a subordinate is willing to die in the ruler's clothes, the ruler's authority depends on a relational field that goes beyond transactional reward. The episode therefore connects the tactic to [[RetainerReciprocityEthic|君臣互报伦理]], [[LoyaltyBeyondContract|超契约忠诚]], and [[CharismaticPoliticalPerformance|魅力型政治表演]].
 

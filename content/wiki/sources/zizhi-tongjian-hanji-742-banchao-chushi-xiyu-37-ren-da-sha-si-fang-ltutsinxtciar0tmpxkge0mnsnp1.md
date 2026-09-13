@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 73 CE / Yongping 16 immediately before [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]]. It follows [[BanChaoEasternHan|班超]] detecting [[NorthernXiongnuLateHan|Northern Xiongnu]] envoys at [[ShanshanKingdomLateHan|Shanshan]], striking their camp with thirty-six men, forcing Shanshan into Han allegiance, then repeating the pressure pattern at [[KhotanKingdomLateHan|Khotan]] by killing a Xiongnu-linked shaman.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 73 CE / Yongping 16 immediately before [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]]. It follows [[BanChaoEasternHan|班超]] detecting [[NorthernXiongnuLateHan|Northern Xiongnu]] envoys at [[ShanshanKingdomLateHan|Shanshan]], striking their camp with thirty-six men, forcing Shanshan into Han allegiance, then repeating the pressure pattern at [[KhotanKingdomLateHan|Khotan]] by killing a Xiongnu-linked shaman.
 
 The durable synthesis is that Ban Chao's Western Regions career begins as shock diplomacy under extreme asymmetry: he reads changed reception as evidence of rival pressure, verifies the risk through bluffing, acts before the host kingdom can surrender him, and turns a tiny envoy party into an intimidation signal. The episode also adds [[LiuYanFulingKingEasternHan|Huaiyang/Fuling King Liu Yan]]'s first prophecy-linked punishment and [[LianFanEasternHan|Lian Fan]]'s paired examples of fire-display deception at Yunzhong and risk-managed night-fire governance in Chengdu.
 
@@ -50,5 +50,5 @@ The durable synthesis is that Ban Chao's Western Regions career begins as shock 
 
 ## Contradictions
 
-- No settled contradiction found. The episode backfills the 73 CE opening before Hanji 743's 74 CE Shule and Cheshi material, and it clarifies that Khotan's dependence on Ban Chao begins before the later 77 CE recall scene.
+- No settled contradiction found. The episode backfills the 73 CE opening before 汉纪 743's 74 CE Shule and Cheshi material, and it clarifies that Khotan's dependence on Ban Chao begins before the later 77 CE recall scene.
 - Scope caution: Guo Xun, the Shanshan king Guang, Khotan king Guangde, Si Laibi, the unnamed shaman, Xie Yan, Han Guang, Xing Mu, exact casualty figures, and the night-economy history aside remain source-scoped unless later notes make them durable pages.

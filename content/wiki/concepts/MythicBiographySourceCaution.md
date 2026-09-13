@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 神话化身世的史料边界 / mythic biography source caution is the practice of preserving legendary birth and omen material as reception evidence while refusing to treat it as verified biography.
 
 ## Current Synthesis
-[[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|Hanji 601-2]] provides a compact case through [[BaoSi|褒姒]]. The episode retells an elaborate supernatural chain from dragon saliva to a sealed box, black lizard, miraculous pregnancy, abandonment, and adoption, but then says the account is myth-like and "当不得真."
+[[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|汉纪 601-2]] provides a compact case through [[BaoSi|褒姒]]. The episode retells an elaborate supernatural chain from dragon saliva to a sealed box, black lizard, miraculous pregnancy, abandonment, and adoption, but then says the account is myth-like and "当不得真."
 
 The concept's value is to keep two kinds of evidence apart: the legend matters because it shaped Bao Si's later image, but it does not by itself prove her origin, agency, or responsibility for Western Zhou's fall.
 

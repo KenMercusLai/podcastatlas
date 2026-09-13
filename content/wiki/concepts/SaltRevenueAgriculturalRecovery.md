@@ -24,10 +24,10 @@ The current evidence comes from Wei Ji's Guanzhong proposal before Guandu. The p
 - The pattern differs from generic resource monopoly because the revenue is tied to a specific resettlement and production objective.
 
 ## Evidence
-- Fiscal mechanism: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] records Wei Ji's proposal to restore salt offices, sell salt, and use the proceeds to buy farming tools and oxen.
-- Refugee-security link: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] says local generals were absorbing returning refugees into their armies, creating a future threat if left unchecked.
-- Agricultural and grain effect: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] frames tools, oxen, farming recovery, accumulated grain, and stable social order as the material base for war.
-- Institutional control: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] links the plan to keeping Sili Xiaowei authority in Guanzhong and placing salt/fiscal supervision under court appointment.
+- Fiscal mechanism: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] records Wei Ji's proposal to restore salt offices, sell salt, and use the proceeds to buy farming tools and oxen.
+- Refugee-security link: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] says local generals were absorbing returning refugees into their armies, creating a future threat if left unchecked.
+- Agricultural and grain effect: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] frames tools, oxen, farming recovery, accumulated grain, and stable social order as the material base for war.
+- Institutional control: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] links the plan to keeping Sili Xiaowei authority in Guanzhong and placing salt/fiscal supervision under court appointment.
 
 ## Counterevidence & Qualifications
 The wiki currently has one source for this specific pattern, so implementation durability and measured output remain unresolved. The policy should not be conflated with all salt monopolies or all agricultural relief; its distinctive feature is the targeted conversion of salt revenue into refugee farming capacity in Guanzhong before Guandu. It also does not prove that local generals were permanently neutralized, only that Wei Ji diagnosed their manpower absorption as a risk and Cao Cao adopted a countermeasure.

@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Current Synthesis
 
-Hanji 705-6 creates the concept through [[BanZhaoLateHan|Ban Zhao]]'s late authorship of `Nujie`. The episode says Ban Zhao writes the text while at home in her final years to teach women in her own family. It links the motivation to [[BanJieyuWesternHan|Ban Jieyu]], whom Ban Zhao treats as a Ban-family pride and moral example for younger women.
+汉纪 705-6 creates the concept through [[BanZhaoLateHan|Ban Zhao]]'s late authorship of `Nujie`. The episode says Ban Zhao writes the text while at home in her final years to teach women in her own family. It links the motivation to [[BanJieyuWesternHan|Ban Jieyu]], whom Ban Zhao treats as a Ban-family pride and moral example for younger women.
 
 The source then makes the legacy sharply contested. `Nujie` is respected as part of Ban Zhao's literary and educational record, yet it is also described as carrying obvious negative historical effects because later political and social orders used it to make women dependent on men. The current wiki therefore separates three layers: original family pedagogy, later normative uptake, and the host's moral criticism of that uptake.
 
@@ -28,10 +28,10 @@ The source then makes the legacy sharply contested. `Nujie` is respected as part
 
 ## Evidence
 
-- Family-instruction origin: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says Ban Zhao writes `Nujie` in her final years to teach women in her own family.
-- Ban Jieyu model: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says the reflections are rooted in Ban Jieyu's life and Ban-family pride.
-- Mixed reception: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says the text was both revered and criticized.
-- Oppressive legacy claim: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|Hanji 705-6]] says later rulers used the text as a constraint that made women dependent on men.
+- Family-instruction origin: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|汉纪 705-6]] says Ban Zhao writes `Nujie` in her final years to teach women in her own family.
+- Ban Jieyu model: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|汉纪 705-6]] says the reflections are rooted in Ban Jieyu's life and Ban-family pride.
+- Mixed reception: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|汉纪 705-6]] says the text was both revered and criticized.
+- Oppressive legacy claim: [[zizhi-tongjian-hanji-705-6-banzhao-sanci-yimingjingren-guimi-ganzheng-no-1-lpnprzwqh6c7jqcy7cxpgganibmm|汉纪 705-6]] says later rulers used the text as a constraint that made women dependent on men.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept currently rests on one podcast source note. It does not yet analyze 
 
 ## What Changed
 
-- Created from Hanji 705-6 to preserve the distinction between `Nujie` as family instruction, literary legacy, and later gender-norm constraint.
+- Created from 汉纪 705-6 to preserve the distinction between `Nujie` as family instruction, literary legacy, and later gender-norm constraint.
 
 ## Related Concepts
 

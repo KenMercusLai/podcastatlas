@@ -13,9 +13,9 @@ last_updated: 2026-08-29
 Self-protective accession choice is a succession pattern in which court powerholders prefer the candidate most likely to preserve their offices, wealth, clients, and access, even when other ministers judge a different candidate more suitable for the state.
 
 ## Current Synthesis
-[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] now gives the pattern's prehistory. After [[EmperorZhiOfHan]] dies, senior officials urge broad consultation and recommend [[LiuSuanLateHan]]. [[CaoTengLateHan]] objects because Liu Suan once failed to show him deference, so the succession discussion is already vulnerable to private access grievance before the formal security argument appears.
+[[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|汉纪 827]] now gives the pattern's prehistory. After [[EmperorZhiOfHan]] dies, senior officials urge broad consultation and recommend [[LiuSuanLateHan]]. [[CaoTengLateHan]] objects because Liu Suan once failed to show him deference, so the succession discussion is already vulnerable to private access grievance before the formal security argument appears.
 
-[[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]] then shows the pattern in compact form. Cao Teng persuades [[LiangJiLateHan]] that Liu Suan's severity and clarity would threaten Liang Ji's guests and eunuch fortunes, while Liwu Hou Liu Zhi would allow the existing bloc to remain secure.
+[[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|汉纪 828]] then shows the pattern in compact form. Cao Teng persuades [[LiangJiLateHan]] that Liu Suan's severity and clarity would threaten Liang Ji's guests and eunuch fortunes, while Liwu Hou Liu Zhi would allow the existing bloc to remain secure.
 
 The choice is then institutionalized through coercive consensus. Liang Ji pressures senior officials to accept Liu Zhi; [[LiGuLateHan]] and [[DuQiaoLateHan]] object, but Li Gu is removed and Liu Zhi enters the South Palace as [[EmperorHuanOfHan]] under [[EmpressDowagerLiangNaLateHan]]'s continued regency.
 
@@ -35,12 +35,12 @@ The choice is then institutionalized through coercive consensus. Liang Ji pressu
 - Failed resistance: [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e]] presents Li Gu and Du Qiao as objectors whose opposition exposes the issue but does not stop the accession.
 
 ## Counterevidence & Qualifications
-The concept is currently grounded in two adjacent source notes and should not be generalized to all Han succession choices without additional evidence. Hanji 827 shows a personal-grievance entry point, while Hanji 828 shows the broader factional-security logic. Hanji 828 also gives a contingency factor: Liu Zhi was already near Luoyang because Liang Na intended a marriage alliance, so proximity and family planning interacted with the self-protective criterion.
+The concept is currently grounded in two adjacent source notes and should not be generalized to all Han succession choices without additional evidence. 汉纪 827 shows a personal-grievance entry point, while 汉纪 828 shows the broader factional-security logic. 汉纪 828 also gives a contingency factor: Liu Zhi was already near Luoyang because Liang Na intended a marriage alliance, so proximity and family planning interacted with the self-protective criterion.
 
 ## What Changed
-- Added Hanji 827 as the prehistory to the Hanji 828 accession bargain: senior recommendation for Liu Suan and Cao Teng's personal grievance.
+- Added 汉纪 827 as the prehistory to the 汉纪 828 accession bargain: senior recommendation for Liu Suan and Cao Teng's personal grievance.
 - Distinguished private-access grievance from the broader self-protective power-bloc argument.
-- Preserved Hanji 828 as the decisive institutionalization of self-protective candidate selection.
+- Preserved 汉纪 828 as the decisive institutionalization of self-protective candidate selection.
 
 ## Related Concepts
 - [[OuterRelativeCourtPower]] - self-protective succession gives outer-relative power a ruler-selection mechanism.

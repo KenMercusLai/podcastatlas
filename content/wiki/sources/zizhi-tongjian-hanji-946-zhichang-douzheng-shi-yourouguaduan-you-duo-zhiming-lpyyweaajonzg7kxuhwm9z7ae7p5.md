@@ -13,7 +13,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] collapse of the late-Han court. It follows [[HeJin|何进]]'s failed attempt to persuade [[EmpressDowagerHe|何太后]] to eliminate the [[TenAttendantsLateHan|十常侍]], [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]]'s counterattack, the killing of He Jin, and the uncontrolled retaliation by [[YuanShao|袁绍]], [[YuanShu|袁术]], [[WuKuangLateHan|吴匡]], and others. The distinct contribution is [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]]: in a lethal palace struggle, He Jin's delay and hope for a mild settlement let the eunuch side use palace access, forged orders, and faster violence before [[DongZhuo|董卓]] inherits the vacuum.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|汉纪 947]] collapse of the late-Han court. It follows [[HeJin|何进]]'s failed attempt to persuade [[EmpressDowagerHe|何太后]] to eliminate the [[TenAttendantsLateHan|十常侍]], [[ZhangRangLateHan|张让]] and [[DuanGuiLateHan|段珪]]'s counterattack, the killing of He Jin, and the uncontrolled retaliation by [[YuanShao|袁绍]], [[YuanShu|袁术]], [[WuKuangLateHan|吴匡]], and others. The distinct contribution is [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]]: in a lethal palace struggle, He Jin's delay and hope for a mild settlement let the eunuch side use palace access, forged orders, and faster violence before [[DongZhuo|董卓]] inherits the vacuum.
 
 ## Key Claims
 
@@ -31,7 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - Yuan Shao closes the North Palace gates and kills eunuchs indiscriminately; the source says more than two thousand people die and some beardless non-eunuchs are killed by mistake.
 - Zhang Rang, Duan Gui, Liu Bian, Liu Xie, and a small party flee on foot toward [[Xiaopingjin|小平津]] without the six imperial seals or a normal court escort.
 - [[MinGongLateHan|闵贡]] catches up at the Yellow River, kills several eunuchs after rebuking Zhang Rang, and Zhang Rang plus remaining eunuchs jump into the river.
-- The source ends by making the double collapse causal for Hanji 947: He Jin and the eunuchs destroy each other, leaving the opening that Dong Zhuo will exploit.
+- The source ends by making the double collapse causal for 汉纪 947: He Jin and the eunuchs destroy each other, leaving the opening that Dong Zhuo will exploit.
 
 ## Key Quotes
 
@@ -48,7 +48,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[YuanShao|袁绍]], [[YuanShu|袁术]], [[YuanWeiLateHan|袁隗]], [[WuKuangLateHan|吴匡]], [[ZhangZhangLateHan|张璋]], [[ZhaoZhongLateHan|赵忠]], and [[HeMiaoLateHan|何苗]] - revenge, gate assault, false summons, and indiscriminate killing after He Jin's death.
 - [[LiuBianHongnongWang|刘辩 / 弘农王]], [[EmperorXianOfHan|汉献帝]], [[LuZhiLateHan|卢植]], [[MinGongLateHan|闵贡]], [[Xiaopingjin|小平津]], and [[MingqiLegitimacy|名器合法性]] - imperial flight without seals, fragile escort, and recovery before Dong Zhuo arrives.
 - [[PalaceCoupViolenceCascade|宫廷政变暴力级联]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[CommunicationBoundarySetting|Communication Boundary Setting]] - broader concepts for timing, escalation, and the source's workplace-facing "direct boundary" analogy.
-- [[DongZhuo|董卓]] and [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|Hanji 947]] - downstream beneficiary and next episode, where rescue immediately becomes armed court control.
+- [[DongZhuo|董卓]] and [[zizhi-tongjian-hanji-947-dongzhuo-shoufu-lvbu-kaiqi-chengba-zhilu-lvr-24l6j8f6zvpfcmqgknmgywa1|汉纪 947]] - downstream beneficiary and next episode, where rescue immediately becomes armed court control.
 
 ## Contradictions
 

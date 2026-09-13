@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-The concept is source-bounded to [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]]. In the Western Regions debate, [[BanYongLateHan|班勇]] proposes a limited Shanshan-centered posture rather than either major expedition or abandonment. Opposing officials then ask whether he can guarantee that [[Xiongnu|Northern Xiongnu]] will never threaten the frontier.
+The concept is source-bounded to [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]]. In the Western Regions debate, [[BanYongLateHan|班勇]] proposes a limited Shanshan-centered posture rather than either major expedition or abandonment. Opposing officials then ask whether he can guarantee that [[Xiongnu|Northern Xiongnu]] will never threaten the frontier.
 
 The question is not a neutral risk test. If Ban Yong says no, the proposal can be rejected as unsafe; if he says yes, he accepts an impossible personal liability for future frontier volatility. His answer reframes the standard: if inland commandery officials can guarantee that their jurisdictions will never produce thieves or lawbreakers, he will accept the same kind of guarantee for the frontier.
 
@@ -30,10 +30,10 @@ The useful pattern is not evasion. Ban Yong does not deny risk. He rejects a dou
 
 ## Evidence
 
-- Guarantee demand: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Yan Xian, Qiwu Can, and Cui Ju ask Ban Yong whether he can ensure Xiongnu will not threaten Han frontiers.
-- Double-standard exposure: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] has Ban Yong answer by asking whether inland officials can guarantee their commanderies will never have thieves.
-- Risk-managed policy: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] keeps Ban Yong's proposal bounded: he rejects both Cao Zong's costly expedition and total abandonment, then proposes a limited forward post.
-- Blame avoidance: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] presents the answer as a way to avoid accepting unique punishment for a standard no official can meet.
+- Guarantee demand: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] says Yan Xian, Qiwu Can, and Cui Ju ask Ban Yong whether he can ensure Xiongnu will not threaten Han frontiers.
+- Double-standard exposure: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] has Ban Yong answer by asking whether inland officials can guarantee their commanderies will never have thieves.
+- Risk-managed policy: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] keeps Ban Yong's proposal bounded: he rejects both Cao Zong's costly expedition and total abandonment, then proposes a limited forward post.
+- Blame avoidance: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] presents the answer as a way to avoid accepting unique punishment for a standard no official can meet.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ This concept should not be used to dismiss legitimate questions about downside, 
 
 ## What Changed
 
-- Created the concept from Ban Yong's response to the Western Regions guarantee question in Hanji 791.
+- Created the concept from Ban Yong's response to the Western Regions guarantee question in 汉纪 791.
 - Defined the concept as a double-standard and liability-shifting tactic rather than ordinary risk review.
 
 ## Related Concepts

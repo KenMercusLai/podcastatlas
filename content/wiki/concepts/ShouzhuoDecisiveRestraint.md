@@ -30,10 +30,10 @@ In this case, Zhong Hao's ordinary restraint matters because the moment is insti
 
 ## Evidence
 
-- Concealed competence with decisive limits - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] interprets Zhong Hao through "小事糊涂，大事杀伐果断."
-- Irreversible succession risk - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] has Zhong Hao stress that the crown prince is the state's reserve ruler and that his safety concerns many lives.
-- Credential-centered action - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] makes the missing edict and信符 the reason Zhong Hao blocks Gao Fan.
-- Restraint after verification - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] resolves the scene by having Gao Fan return with authorization, after which the crown prince is allowed to leave.
+- Concealed competence with decisive limits - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] interprets Zhong Hao through "小事糊涂，大事杀伐果断."
+- Irreversible succession risk - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] has Zhong Hao stress that the crown prince is the state's reserve ruler and that his safety concerns many lives.
+- Credential-centered action - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] makes the missing edict and信符 the reason Zhong Hao blocks Gao Fan.
+- Restraint after verification - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] resolves the scene by having Gao Fan return with authorization, after which the crown prince is allowed to leave.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The evidence comes from a single source note and one exemplar. It should not be 
 
 ## What Changed
 
-- Created this concept page from Hanji 824.
+- Created this concept page from 汉纪 824.
 - Defined "守拙" as restraint that preserves judgment for decisive, credential-based intervention.
 
 ## Related Concepts

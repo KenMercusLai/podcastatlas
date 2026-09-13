@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills early 1 CE under [[HanPingdi|汉平帝]], immediately after [[zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78|Hanji 607]]'s Anhan Gong setup and before the later 2-5 CE Wang Mang reward loops. It follows [[WangMang|王莽]] repeatedly refusing reward for the Pingdi accession settlement, using illness and humility language to make [[KongGuangWesternHan|孔光]], [[WangShunXinTaishi|王顺]], [[ZhenFengXinOfficial|甄丰]], [[ZhenHanXinOfficial|甄邯]], and [[WangZhengjun|王政君]] move the court toward a higher grant.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills early 1 CE under [[HanPingdi|汉平帝]], immediately after [[zizhi-tongjian-hanji-607-jiemi-wangmang-de-quanli-boyi-lgnxg-zlf5gowjbirazpijvyks78|汉纪 607]]'s Anhan Gong setup and before the later 2-5 CE Wang Mang reward loops. It follows [[WangMang|王莽]] repeatedly refusing reward for the Pingdi accession settlement, using illness and humility language to make [[KongGuangWesternHan|孔光]], [[WangShunXinTaishi|王顺]], [[ZhenFengXinOfficial|甄丰]], [[ZhenHanXinOfficial|甄邯]], and [[WangZhengjun|王政君]] move the court toward a higher grant.
 
 The durable synthesis is that Wang Mang's "refusal" works as political performance because the surrounding court keeps translating it into public virtue. He asks that others be rewarded first, stays away from court, accepts the higher title package while refusing added households, and frames personal restraint as concern for commoner welfare; the result is the Taifu and Anhan Gong package, doubled salary and gifts, broader grants to royal relatives and officials, and a stronger image of public-minded humility.
 
@@ -40,10 +40,10 @@ The durable synthesis is that Wang Mang's "refusal" works as political performan
 - [[MoralReputationPoliticalCapital|道德名望政治资本]] - Wang Mang's refusal of households and welfare language convert apparent humility into usable political status.
 - [[PublicMoralPerformance|公开道德表演]] - personal restraint is staged as concern for public welfare and becomes part of Wang Mang's governing image.
 - [[WesternHanDynasty|西汉]] and [[HanPingdi|汉平帝]] - dynastic and reign setting for the accession-reward settlement.
-- [[zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu|Hanji 620]] and [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] - later larger petition and Nine Bestowments versions of the same refusal-to-status pattern.
+- [[zizhi-tongjian-hanji-620-shishang-zui-chuanqi-de-quanmin-daxuan-llijvsut0ldv-ugfa281sllst4gu|汉纪 620]] and [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|汉纪 624]] - later larger petition and Nine Bestowments versions of the same refusal-to-status pattern.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 1 CE after Hanji 607 and before the later Hanji 614, Hanji 620, and Hanji 624 public-refusal loops.
+- Chronology qualification: this source backfills 1 CE after 汉纪 607 and before the later 汉纪 614, 汉纪 620, and 汉纪 624 public-refusal loops.
 - Scope caution: exact Four Assistant office mechanics, full grant lists, Liu royal recipients, and Wang Mang's inner motive remain source-scoped unless later notes warrant canonical expansion.

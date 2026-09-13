@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # Late-Han Population Collapse / 东汉末年人口崩塌
 
-Late-Han population collapse / 东汉末年人口崩塌 is the source-scoped demographic frame [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] builds from late Eastern Han registration numbers. The episode compares a 157 CE official population figure above fifty-six million with a circa-220 official registry of 7.67 million, then uses a near-forty-eight-million gap to frame war, natural disaster, epidemic, and social disorder as compounding pressures.
+Late-Han population collapse / 东汉末年人口崩塌 is the source-scoped demographic frame [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|汉纪 898]] builds from late Eastern Han registration numbers. The episode compares a 157 CE official population figure above fifty-six million with a circa-220 official registry of 7.67 million, then uses a near-forty-eight-million gap to frame war, natural disaster, epidemic, and social disorder as compounding pressures.
 
 The concept should not be used as a precise mortality calculation by itself. The episode's value is interpretive: huge registry decline can reflect death, displacement, household-registration collapse, unregistered populations, and lost state capacity at the same time. It links the epidemic notices of [[PandemicAsHistoricalForce]] to the wider political and military breakdown captured by [[WarDisasterCompounding]].
 
@@ -20,7 +20,7 @@ The concept should not be used as a precise mortality calculation by itself. The
 - The frame helps explain why public-health distress, frontier pressure, and court incapacity appear together in the late-Han run.
 
 ## Connections
-- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|Hanji 898]] - source episode.
+- [[zizhi-tongjian-hanji-898-renzei-zuofu-kelian-zhiren-neng-you-duo-huangtang-lgfup6tyv85zhvnmzf6xlesmblcj|汉纪 898]] - source episode.
 - [[EmperorLingOfHan|汉灵帝]] - reign context for repeated epidemic and disaster notices.
 - [[PandemicAsHistoricalForce]], [[WarDisasterCompounding]], [[NaturalHazardSocialDisaster]], and [[DisasterResponseStateCapacity]] - disease, war, disaster, and relief-capacity frames.
 - [[Xianbei|鲜卑]] and [[BingzhouLateHan|并州]] - frontier pressure visible in the same source field.

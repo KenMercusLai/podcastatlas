@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] creates the concept through [[BaoXuanWesternHan|鲍宣]]'s Jianping 4 / 3 BCE memorial to [[HanAidi|汉哀帝]]. Bao Xuan's "seven harms" and "seven deaths" are not a loose misery list. They connect environmental shock, fiscal burden, coerced labor, local predation, official violence, hunger, illness, and robbery into a single judgment about the ruler's court and personnel system.
+[[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] creates the concept through [[BaoXuanWesternHan|鲍宣]]'s Jianping 4 / 3 BCE memorial to [[HanAidi|汉哀帝]]. Bao Xuan's "seven harms" and "seven deaths" are not a loose misery list. They connect environmental shock, fiscal burden, coerced labor, local predation, official violence, hunger, illness, and robbery into a single judgment about the ruler's court and personnel system.
 
 The diagnosis moves responsibility upward. Bao Xuan says commoners are already unable to protect parents, children, spouses, clothing, food, or household property, while high officials, outer relatives, and [[DongXian|董贤]]'s circle enjoy money, guests, servants, and luxury. The episode therefore treats livelihood collapse as a feedback signal: if the court keeps rewarding private closeness while people are dying under public burden, the ruler has lost the capacity to see the state from the people's position.
 
@@ -28,11 +28,11 @@ The diagnosis moves responsibility upward. Bao Xuan says commoners are already u
 
 ## Evidence
 
-- Seven harms: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] says Bao Xuan lists water and drought, tax and corvee burden, corrupt officials, strongmen taking land, ill-timed labor, theft, and household ruin.
-- Seven deaths: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] says Bao Xuan adds harsh officials, torture, wrongful punishment, robbery, vendetta, famine, and disease as lethal conditions.
-- Official root cause: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] says Bao Xuan identifies senior and local officials' greed and violence as the main source of hardship.
-- Ruler standard: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] says Bao Xuan defines the emperor as parent and Heaven for the people and asks him to treat commoners with pity and impartiality.
-- Contrast with favorite privilege: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|Hanji 588]] contrasts starving commoners with outer relatives, Dong Xian, servants, and servant networks receiving resources and luxury support.
+- Seven harms: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] says Bao Xuan lists water and drought, tax and corvee burden, corrupt officials, strongmen taking land, ill-timed labor, theft, and household ruin.
+- Seven deaths: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] says Bao Xuan adds harsh officials, torture, wrongful punishment, robbery, vendetta, famine, and disease as lethal conditions.
+- Official root cause: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] says Bao Xuan identifies senior and local officials' greed and violence as the main source of hardship.
+- Ruler standard: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] says Bao Xuan defines the emperor as parent and Heaven for the people and asks him to treat commoners with pity and impartiality.
+- Contrast with favorite privilege: [[zizhi-tongjian-hanji-588-laoban-bu-chenzhi-xiashu-neng-you-duo-can-lovz7epf8qs0atyr3njy2kvblqpv|汉纪 588]] contrasts starving commoners with outer relatives, Dong Xian, servants, and servant networks receiving resources and luxury support.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ This concept is currently grounded in one Western Han source note. It does not q
 
 ## What Changed
 
-- Created the concept from Hanji 588's "seven harms" and "seven deaths" remonstrance.
+- Created the concept from 汉纪 588's "seven harms" and "seven deaths" remonstrance.
 
 ## Related Concepts
 

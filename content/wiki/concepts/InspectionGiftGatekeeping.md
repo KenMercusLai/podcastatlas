@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # Inspection Gift Gatekeeping / 巡查送礼关口
 
-Inspection gift gatekeeping / 巡查送礼关口 is the risk pattern [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] draws from [[ZuoFengLateHan|左丰]]'s visit to [[LuZhiLateHan|卢植]]'s Guangzong camp. The issue is not ordinary courtesy. It is what happens when an inspector with ruler access can turn a gift, or refusal of a gift, into the interpretive frame through which distant power sees the field.
+Inspection gift gatekeeping / 巡查送礼关口 is the risk pattern [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|汉纪 928]] draws from [[ZuoFengLateHan|左丰]]'s visit to [[LuZhiLateHan|卢植]]'s Guangzong camp. The issue is not ordinary courtesy. It is what happens when an inspector with ruler access can turn a gift, or refusal of a gift, into the interpretive frame through which distant power sees the field.
 
 The source keeps the moral discomfort visible. Lu Zhi is loyal, militarily successful, and upright; those qualities do not keep [[EmperorLingOfHan|汉灵帝]] from believing Zuo Feng's claim that Lu Zhi is resting behind fortifications. The host's workplace extension is therefore source-scoped: a person can reject bribery and still need a plan for surviving captured reporting channels.
 
@@ -24,6 +24,6 @@ This concept sits between [[PalaceAccessMonopoly|宫廷接触垄断]] and [[Batt
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]], [[ZuoFengLateHan|左丰]], [[LuZhiLateHan|卢植]], and [[EmperorLingOfHan|汉灵帝]] - source case.
+- [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|汉纪 928]], [[ZuoFengLateHan|左丰]], [[LuZhiLateHan|卢植]], and [[EmperorLingOfHan|汉灵帝]] - source case.
 - [[DongZhuo|董卓]] and [[BattlefieldCommanderReplacementRisk|阵前换将风险]] - replacement outcome after the inspection report.
 - [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - adjacent information and survival concepts.

@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 56-57 CE / Zhongyuan transition immediately before [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]]. It centers [[LiuXiu|光武帝刘秀]]'s reliance on chenwei and fuming texts: he can refuse to over-record auspicious signs, yet still treats the 赤伏符 and prophetic books as usable state guidance.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 56-57 CE / Zhongyuan transition immediately before [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]]. It centers [[LiuXiu|光武帝刘秀]]'s reliance on chenwei and fuming texts: he can refuse to over-record auspicious signs, yet still treats the 赤伏符 and prophetic books as usable state guidance.
 
 The central case is [[HuanTanEasternHan|桓谭]]'s anti-chenwei memorial and his dangerous answer during the Lingtai site discussion. [[ZhengXingEasternHan|郑兴]] and [[JiaKuiEasternHan|贾逵]] provide contrast cases: one survives by face-saving ambiguity, while the other is remembered in the episode as a scholar who could make classics and chenwei appear mutually supportive.
 
@@ -26,7 +26,7 @@ The central case is [[HuanTanEasternHan|桓谭]]'s anti-chenwei memorial and his
 - The Lingtai exchange turns evidentiary disagreement into personal danger: after Huan Tan says he does not read chenwei books because they are not classics, Liu Xiu orders execution before relenting and demoting him to Liu'an commandery assistant.
 - Fan Ye's comparison, as presented by the episode, shows three scholar-official responses to ruler preference: Huan Tan's direct refusal, Zheng Xing's ambiguity, and Jia Kui's accommodating interpretation.
 - The closing Southern Xiongnu notice records chanyu Bi's death, his brother Mo's succession, Han investiture with seal and gifts, and the making of that exchange into a regular practice.
-- The 57 CE / Zhongyuan 2 Houtu altar notice and the closing question about Liu Xiu's death set up [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]].
+- The 57 CE / Zhongyuan 2 Houtu altar notice and the closing question about Liu Xiu's death set up [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]].
 
 ## Key Quotes
 

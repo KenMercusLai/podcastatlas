@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] extracts this concept from [[WangBaoWesternHan|王褒]]'s [[ShengzhuDeXianchenSong|《圣主得贤臣颂》]]. The source's key move is reciprocal: it does not only say rulers need talent, and it does not only say ministers need patrons. It says both sides become fully themselves through a fit of timing, recognition, trust, and use.
+[[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] extracts this concept from [[WangBaoWesternHan|王褒]]'s [[ShengzhuDeXianchenSong|《圣主得贤臣颂》]]. The source's key move is reciprocal: it does not only say rulers need talent, and it does not only say ministers need patrons. It says both sides become fully themselves through a fit of timing, recognition, trust, and use.
 
 The concept sharpens the wiki's talent branch by adding emotional and relational intensity. The episode begins from "知音" and compares the ideal君臣 meeting to 伯乐 and 千里马, then uses Wang Bao's imagery to show why ancient literati could treat ruler-minister recognition as a nearly sacred political encounter.
 
@@ -29,16 +29,16 @@ The concept sharpens the wiki's talent branch by adding emotional and relational
 ## Evidence
 
 Talent as usable state instrument:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] says Wang Bao compares worthy people to tools, artisans, drivers, and clothing that make difficult tasks possible.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] says Wang Bao compares worthy people to tools, artisans, drivers, and clothing that make difficult tasks possible.
 
 Ruler-side responsibility:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] uses Zhou Gong and Qi Huan Gong stories to argue that rulers must first work hard to receive worthy people before gaining the ease their help creates.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] uses Zhou Gong and Qi Huan Gong stories to argue that rulers must first work hard to receive worthy people before gaining the ease their help creates.
 
 Minister-side dependence on recognition:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] lists figures such as Yi Yin, Jiang Taigong, Bai Li Xi, and Ning Qi as capable people whose value becomes public only after meeting a ruler who can use them.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] lists figures such as Yi Yin, Jiang Taigong, Bai Li Xi, and Ning Qi as capable people whose value becomes public only after meeting a ruler who can use them.
 
 Mutual fit and political imagination:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] reads "飞龙在天," "风云际会," feather-with-wind, and whale-at-sea imagery as ways to idealize harmonious ruler-minister trust.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] reads "飞龙在天," "风云际会," feather-with-wind, and whale-at-sea imagery as ways to idealize harmonious ruler-minister trust.
 
 ## Counterevidence & Qualifications
 

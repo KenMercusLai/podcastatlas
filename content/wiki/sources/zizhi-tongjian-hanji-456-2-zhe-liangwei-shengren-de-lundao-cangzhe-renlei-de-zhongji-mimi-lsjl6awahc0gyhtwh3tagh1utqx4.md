@@ -38,7 +38,7 @@ The episode's practical synthesis is that Laozi's first correction is about Conf
 > "吾今日见老子，其犹龙乎" - Confucius's later image for Laozi's depth.
 
 ## Connections
-- [[Confucius|孔子]] and [[Laozi|老子]] - central teacher-learner pair in the first asking-the-Way episode, before the second and third meetings in [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|Hanji 456-3]].
+- [[Confucius|孔子]] and [[Laozi|老子]] - central teacher-learner pair in the first asking-the-Way episode, before the second and third meetings in [[zizhi-tongjian-hanji-456-3-rang-ni-chushi-gengshang-yige-jingjie-laozi-jiao-ni-qiangu-zhihui-llaynmqfl8wfwo7ckkacdxommu9|汉纪 456-3]].
 - [[AxialAgeCivilizationalAwakening|轴心时代文明觉醒]], [[ShakyamuniBuddha|释迦牟尼佛]], and [[HundredSchoolsSynthesis|诸子百家]] - broad comparison frame for simultaneous philosophical-religious breakthroughs.
 - [[DaoistNaturalWuwei|道家自然无为]], [[DaoistWaterVirtue|道家水德]], and [[DaoistValueEquanimity|道家价值齐观]] - Daoist teaching cluster around naturalness, non-forcing, water, humility, and loosened fame-benefit attachment.
 - [[ConfucianIdealGovernance|儒家理想治理]] and [[RenyiGroundedVirtue|仁义为本的信勇]] - Confucian moral-order concerns that this episode qualifies through Laozi's warning against anxious or self-displaying renyi.

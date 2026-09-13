@@ -10,7 +10,7 @@ last_updated: 2026-08-31
 
 ## Overview
 
-河东裴氏 / Hedong Pei Clan enters the wiki through [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] as an elite lineage used to ask why some families can convert local origin, officeholding, and family rules into unusually long durability. The episode locates the clan in Wenxi within [[HedongCommandery|河东郡]] and treats Pei Bai village's "Chancellor Village" memory as shorthand for that afterlife.
+河东裴氏 / Hedong Pei Clan enters the wiki through [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|汉纪 723]] as an elite lineage used to ask why some families can convert local origin, officeholding, and family rules into unusually long durability. The episode locates the clan in Wenxi within [[HedongCommandery|河东郡]] and treats Pei Bai village's "Chancellor Village" memory as shorthand for that afterlife.
 
 ## Current Profile
 
@@ -29,11 +29,11 @@ The source's interpretation is institutional rather than purely genealogical. Th
 
 ## Evidence
 
-- Regional identity: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says the Pei are called Hedong Pei because Wenxi lay in Shanxi and belonged to Hedong Commandery in the Han period.
-- Chronological arc: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says the lineage rose from Qin-Han roots, peaked in Sui-Tang, declined after the Five Dynasties, but still had later examination success.
-- Scale claims: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] reports more than six hundred Pei figures in official histories, more than three thousand officials above seventh rank, and genealogical claims of fifty-nine chancellors and fifty-nine great generals.
-- Place memory: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] identifies Wenxi Pei Bai village as "Chancellor Village."
-- Family-rule explanation: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] says the host attributes long-running success to twelve family instructions and ten admonitions.
+- Regional identity: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|汉纪 723]] says the Pei are called Hedong Pei because Wenxi lay in Shanxi and belonged to Hedong Commandery in the Han period.
+- Chronological arc: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|汉纪 723]] says the lineage rose from Qin-Han roots, peaked in Sui-Tang, declined after the Five Dynasties, but still had later examination success.
+- Scale claims: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|汉纪 723]] reports more than six hundred Pei figures in official histories, more than three thousand officials above seventh rank, and genealogical claims of fifty-nine chancellors and fifty-nine great generals.
+- Place memory: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|汉纪 723]] identifies Wenxi Pei Bai village as "Chancellor Village."
+- Family-rule explanation: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|汉纪 723]] says the host attributes long-running success to twelve family instructions and ten admonitions.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ This page is source-bounded to one podcast summary and should not be treated as 
 
 ## What Changed
 
-- Created the Hedong Pei Clan page from Hanji 723.
+- Created the Hedong Pei Clan page from 汉纪 723.
 - Recorded the family-rule durability claim while keeping the unlisted rule content source-scoped.
 - Connected the lineage to Hedong geography and long-run officeholding rather than to any one Pei individual.
 

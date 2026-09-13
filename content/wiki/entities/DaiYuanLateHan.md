@@ -11,7 +11,7 @@ last_updated: 2026-09-06
 # 戴员 / Dai Yuan (late Han)
 
 ## Overview
-戴员 / Dai Yuan is one of the Danyang conspirators in Hanji 1067. The supplied transcript writes the name as 代元; the wiki normalizes the clear event to Dai Yuan / 戴员 and preserves the transcript spelling as source-scoped.
+戴员 / Dai Yuan is one of the Danyang conspirators in 汉纪 1067. The supplied transcript writes the name as 代元; the wiki normalizes the clear event to Dai Yuan / 戴员 and preserves the transcript spelling as source-scoped.
 
 ## Current Profile
 Dai Yuan acts with [[GuiLanLateHan|妫览]] in the plot against [[SunYiLateHan|孙翊]]. The episode presents him as part of the local strongman backlash against Sun-family pressure in Jiangdong: Gui Lan and Dai Yuan buy off [[BianHongLateHan|边鸿]], hide the murder behind a madness explanation, and then kill [[SunHeLateHan|孙河]] when investigation threatens them.
@@ -27,13 +27,13 @@ Dai Yuan is killed during [[LadyXuSunYi|徐夫人]]'s revenge operation. While S
 
 ## Evidence
 **Conspiracy and cover story**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] names Dai Yuan with Gui Lan as the actor behind Bian Hong's assassination of Sun Yi and the attempt to explain the killing as madness.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] names Dai Yuan with Gui Lan as the actor behind Bian Hong's assassination of Sun Yi and the attempt to explain the killing as madness.
 
 **Local-political risk**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] frames Gui Lan and Dai Yuan as local strongmen whose patrons had suffered under Sun-side consolidation.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] frames Gui Lan and Dai Yuan as local strongmen whose patrons had suffered under Sun-side consolidation.
 
 **Death in revenge action**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] says the followers outside Lady Xu's room kill Dai Yuan and other conspirators while Gui Lan is killed inside.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] says the followers outside Lady Xu's room kill Dai Yuan and other conspirators while Gui Lan is killed inside.
 
 ## Qualifications
 The page is limited to one source and one event. Dai Yuan's broader office, faction, and relationship to Gui Lan are not developed beyond the source's Danyang-conspiracy frame.

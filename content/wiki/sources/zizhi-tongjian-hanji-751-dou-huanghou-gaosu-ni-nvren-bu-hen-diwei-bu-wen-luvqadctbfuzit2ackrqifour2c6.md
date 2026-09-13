@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 82-83 CE Zhangdi court layer before [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|Hanji 752]]. It centers [[EmpressDowagerDouHeLateHan|Empress Dou]]'s childless position, her adoption of [[EmperorHeOfHan|Liu Zhao]], the accusation campaign against [[SongGuirenZhangHeLateHan|Song Guiren]] and crown prince [[LiuQingQingheKing|Liu Qing]], and the replacement of Liu Qing with Liu Zhao.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 82-83 CE Zhangdi court layer before [[zizhi-tongjian-hanji-752-shiqu-kaoshan-de-ren-gai-ruhe-chushi-lt0qb7alyh0ipf6mk8hvz92cs297|汉纪 752]]. It centers [[EmpressDowagerDouHeLateHan|Empress Dou]]'s childless position, her adoption of [[EmperorHeOfHan|Liu Zhao]], the accusation campaign against [[SongGuirenZhangHeLateHan|Song Guiren]] and crown prince [[LiuQingQingheKing|Liu Qing]], and the replacement of Liu Qing with Liu Zhao.
 
 The second half shifts to [[EmperorZhangOfHan|Emperor Zhang]]'s treatment of [[LiuCangDongpingKing|Dongping King Liu Cang]], including Liu Cang's return to his fief, illness, death, and high-status funeral arrangements. The durable synthesis is that maternal or foster-maternal status could move succession, while weak natal backing made Song Guiren and Liu Qing low-risk targets; Zhangdi's ritual affection and low-disturbance travel orders coexist with a damaging failure to test the palace accusation.
 
@@ -43,10 +43,10 @@ The second half shifts to [[EmperorZhangOfHan|Emperor Zhang]]'s treatment of [[L
 - [[WeaknessAsPoliticalLiability|弱小即政治原罪]] - created from the episode's claim that weak backing can make a person easier to attack than a stronger wrongdoer.
 - [[CaiLunLateHan|蔡伦]] - gains an early palace-politics layer as examiner in the Song Guiren case, before the later papermaking and Deng-regency profile.
 - [[LiuCangDongpingKing|东平王刘苍]], [[EmperorZhangOfHan|汉章帝]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[KinshipProtocolBoundary|亲情名分边界]] - royal farewell, illness care, funeral protocol, and later mourning make kinship public and ritualized.
-- [[EmpressMaMingdeEasternHan|明德马皇后]], [[MaFamilyZhangEraEasternHan|马氏]], and [[PatronageLossSelfProtection|失去靠山后的低调自保]] - the closing Ma-family warning sets up Hanji 752's lost-patronage branch.
+- [[EmpressMaMingdeEasternHan|明德马皇后]], [[MaFamilyZhangEraEasternHan|马氏]], and [[PatronageLossSelfProtection|失去靠山后的低调自保]] - the closing Ma-family warning sets up 汉纪 752's lost-patronage branch.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills the first Song Guiren / Liu Qing / Liu Zhao layer before Hanji 752's Liang-family and Ma-family consequences, Hanji 759-766's Dou-regency crisis, and Hanji 770's later maternal redress.
+- No settled contradiction with existing wiki content was found. The episode backfills the first Song Guiren / Liu Qing / Liu Zhao layer before 汉纪 752's Liang-family and Ma-family consequences, 汉纪 759-766's Dou-regency crisis, and 汉纪 770's later maternal redress.
 - Identity normalization: Liu Zhao is linked to [[EmperorHeOfHan|Emperor He of Han]], Liu Qing to [[LiuQingQingheKing|Qinghe King Liu Qing]], and Empress Dou to the existing [[EmpressDowagerDouHeLateHan|Empress Dowager Dou]] page because the same figure later appears as Emperor He's adoptive mother and regent.
 - Scope caution: Song Yang, Yang Gongzhu, the Song sisters' exact individual names, Liang Song/Liang Song-family details, the Guangping-to-Xiping transfer, Yanshi/Juan/Henei route details, and exact funeral participant lists remain source-scoped unless later notes warrant standalone pages.

@@ -10,11 +10,11 @@ last_updated: 2026-09-03
 
 ## Overview
 
-刘植 / Liu Zhi enters the wiki as a Changcheng-area supporter in [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]]. The source writes 刘直 and 刘侄 in different places, but the role is normalized to the Guangwu-era Liu Zhi who brings soldiers to [[LiuXiu|刘秀]] and helps persuade [[LiuYangZhendingKingEasternHan|真定王刘杨]] away from [[WangLangHebeiClaimant|王郎]].
+刘植 / Liu Zhi enters the wiki as a Changcheng-area supporter in [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]]. The source writes 刘直 and 刘侄 in different places, but the role is normalized to the Guangwu-era Liu Zhi who brings soldiers to [[LiuXiu|刘秀]] and helps persuade [[LiuYangZhendingKingEasternHan|真定王刘杨]] away from [[WangLangHebeiClaimant|王郎]].
 
 ## Current Profile
 
-Hanji 670 places Liu Zhi in the expansion phase after Liu Xiu decides to stay in Hebei. Liu Xiu has begun turning Xindu support into a counteroffensive, and Liu Zhi gathers several thousand soldiers, holds Changcheng, and welcomes Liu Xiu. Liu Xiu then appoints him to a cavalry-related command as the force grows.
+汉纪 670 places Liu Zhi in the expansion phase after Liu Xiu decides to stay in Hebei. Liu Xiu has begun turning Xindu support into a counteroffensive, and Liu Zhi gathers several thousand soldiers, holds Changcheng, and welcomes Liu Xiu. Liu Xiu then appoints him to a cavalry-related command as the force grows.
 
 The same source gives Liu Zhi a political-connection role. Zhending King Liu Yang initially intends to support Wang Lang and has a much larger force than Liu Xiu's early Xindu base. Liu Xiu sends Liu Zhi to persuade him; Liu Yang submits, and Liu Xiu then marries Liu Yang's niece [[GuoShengtong|郭圣通]] to strengthen the alliance.
 
@@ -29,11 +29,11 @@ The same source gives Liu Zhi a political-connection role. Zhending King Liu Yan
 
 ## Evidence
 
-- Armed support: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Zhi gathers several thousand soldiers, occupies Changcheng, and welcomes Liu Xiu.
-- Appointment: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Xiu appoints Liu Zhi to a cavalry-related command after he joins.
-- Zhending mission: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Xiu sends Liu Zhi to persuade Liu Yang, who had been preparing to support Wang Lang.
-- Alliance result: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Yang submits and Liu Xiu marries Guo Shengtong to strengthen the connection.
-- Disambiguation need: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] uses transcript forms that require a Changcheng/Eastern Han suffix because the wiki already contains unrelated Liu Zhi routes.
+- Armed support: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Liu Zhi gathers several thousand soldiers, occupies Changcheng, and welcomes Liu Xiu.
+- Appointment: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Liu Xiu appoints Liu Zhi to a cavalry-related command after he joins.
+- Zhending mission: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Liu Xiu sends Liu Zhi to persuade Liu Yang, who had been preparing to support Wang Lang.
+- Alliance result: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Liu Yang submits and Liu Xiu marries Guo Shengtong to strengthen the connection.
+- Disambiguation need: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] uses transcript forms that require a Changcheng/Eastern Han suffix because the wiki already contains unrelated Liu Zhi routes.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ This page is bounded to one source note and keeps several details source-scoped.
 
 ## What Changed
 
-- Created the disambiguated Liu Zhi page from Hanji 670 for the Changcheng armed-support and Zhending persuasion layers.
+- Created the disambiguated Liu Zhi page from 汉纪 670 for the Changcheng armed-support and Zhending persuasion layers.
 
 ## Relationships
 

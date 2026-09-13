@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 76 CE opening of [[EmperorZhangOfHan|汉章帝]]'s reign before [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|Hanji 749]]. It uses the saying "亲戚不共财，共财两无来" to frame why kinship becomes dangerous when mixed with money, office, and court favor, then centers [[EmpressMaMingdeEasternHan|明德马皇后]] blocking Zhangdi's plan to enfeoff his Ma-family maternal uncles.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 76 CE opening of [[EmperorZhangOfHan|汉章帝]]'s reign before [[zizhi-tongjian-hanji-749-guanliren-bikan-fa-jiangjin-shi-guanli-de-zuijia-shouduan-ma-lnhhoh0oxlstuwakl3rsqvcss-cf|汉纪 749]]. It uses the saying "亲戚不共财，共财两无来" to frame why kinship becomes dangerous when mixed with money, office, and court favor, then centers [[EmpressMaMingdeEasternHan|明德马皇后]] blocking Zhangdi's plan to enfeoff his Ma-family maternal uncles.
 
 The durable synthesis is that Empress Ma treats outer-relative privilege as a prevention problem, not only a punishment problem after capture. She invokes Former Han and [[WangMang|王莽]] as warnings, rejects drought-based arguments for rewarding in-laws, cuts [[MaFamilyZhangEraEasternHan|Ma-family]] allowances, orders lawful punishment for clan interference, corrects an over-height family tomb through [[MaLiaoEasternHan|Ma Liao]], and uses frugality plus selective reward to make restraint visible.
 
@@ -24,7 +24,7 @@ The durable synthesis is that Empress Ma treats outer-relative privilege as a pr
 - The drought memorial asking for outer-relative enfeoffment is treated as opportunistic flattery rather than reliable [[NaturalDisasterPoliticalOmen|disaster-omen]] reasoning.
 - Empress Ma's personal austerity becomes [[TopDownExemplarGovernance|top-down exemplar governance]] only when paired with concrete household controls: cutting allowances, punishing clan interference, and rewarding plain royal conduct.
 - The adoption of Jia Guiren's son Liu Da gives Empress Ma [[MotherhoodBeyondChildbirth|raising-based maternal authority]], making Zhangdi's desire to honor the Ma clan politically understandable but still dangerous.
-- The episode sets up later Hanji 749-752: after Empress Ma's restraint, Ma-family honor, office risk, and lost-patronage exposure return as unresolved outer-relative problems.
+- The episode sets up later 汉纪 749-752: after Empress Ma's restraint, Ma-family honor, office risk, and lost-patronage exposure return as unresolved outer-relative problems.
 
 ## Key Quotes
 
@@ -49,5 +49,5 @@ The durable synthesis is that Empress Ma treats outer-relative privilege as a pr
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content. The episode backfills an earlier Empress Ma and Zhangdi layer before Hanji 749-752's Ma-family command, title, and lost-patronage sequence.
+- No settled contradiction with existing wiki content. The episode backfills an earlier Empress Ma and Zhangdi layer before 汉纪 749-752's Ma-family command, title, and lost-patronage sequence.
 - Scope caution: Ma Yuan, Jia Guiren, Yin Taihou, Guangping King, Lecheng King, the exact Ma brothers in the allowance-cutting episode, and the authors of the drought-enfeoffment memorial remain source-scoped unless later notes warrant standalone pages.

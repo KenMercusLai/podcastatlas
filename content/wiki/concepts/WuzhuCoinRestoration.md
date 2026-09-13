@@ -14,7 +14,7 @@ Wuzhu coin restoration / 五铢钱恢复 is the Guangwu-era monetary-policy act 
 
 ## Current Synthesis
 
-Hanji 718 gives the current wiki's first direct Eastern Han five-zhu restoration layer. Ma Yuan submits a memorial arguing that five-zhu coins are convenient for the people, and Liu Xiu adopts the recommendation. The note sits beside bandit pacification, Jiaozhi revolt, land-and-grain fraud punishment, and frontier diplomacy, so monetary restoration appears as one part of wider postwar normalization.
+汉纪 718 gives the current wiki's first direct Eastern Han five-zhu restoration layer. Ma Yuan submits a memorial arguing that five-zhu coins are convenient for the people, and Liu Xiu adopts the recommendation. The note sits beside bandit pacification, Jiaozhi revolt, land-and-grain fraud punishment, and frontier diplomacy, so monetary restoration appears as one part of wider postwar normalization.
 
 The concept's current claim is intentionally narrow. It does not yet reconstruct Han currency history, minting volume, metallurgical standard, or market effects. It records a governance judgment: after disruptive regimes and frontier disorder, restoring a familiar coinage is presented as a way to make exchange more ordinary and administratively legible.
 
@@ -27,9 +27,9 @@ The concept's current claim is intentionally narrow. It does not yet reconstruct
 
 ## Evidence
 
-- Recommendation: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan submits a memorial recommending restoration of five-zhu coins.
-- Adoption: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Liu Xiu adopts the recommendation.
-- Practical rationale: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] frames five-zhu money as convenient for ordinary people.
+- Recommendation: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Ma Yuan submits a memorial recommending restoration of five-zhu coins.
+- Adoption: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Liu Xiu adopts the recommendation.
+- Practical rationale: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] frames five-zhu money as convenient for ordinary people.
 
 ## Counterevidence & Qualifications
 
@@ -37,7 +37,7 @@ The source gives a policy notice rather than an economic assessment. It does not
 
 ## What Changed
 
-- Created the monetary-policy concept from Ma Yuan's memorial and Liu Xiu's adoption in Hanji 718.
+- Created the monetary-policy concept from Ma Yuan's memorial and Liu Xiu's adoption in 汉纪 718.
 
 ## Related Concepts
 

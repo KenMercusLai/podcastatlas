@@ -26,17 +26,17 @@ The current evidence treats Yuzhang as strategically attractive but politically 
 - Is reorganized by Sun Ce, who separates Luling and installs Sun-family administrators.
 
 ## Evidence
-- Refuge geography: [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] has Xu Shao recommend Yuzhang to Liu Yao over richer but more exposed Kuaiji.
-- Contested office chain: [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] narrates the Zhuge Xuan, Zhu Hao, Ze Rong, Liu Yao, and Hua Xin sequence.
-- Fragmented authority: [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] reports that Hua Xin cannot command Tong Zhi at Luling or Panyang forces near Haihun.
-- Surrender pressure: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] has Yu Fan compare Yuzhang's grain, weapons, and people unfavorably with Kuaiji while invoking Sun Ce's victories.
-- Administrative division: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] says Sun Ce separates Luling, assigns Sun Ben to Yuzhang, and assigns Sun Fu to Luling.
+- Refuge geography: [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|汉纪 995]] has Xu Shao recommend Yuzhang to Liu Yao over richer but more exposed Kuaiji.
+- Contested office chain: [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|汉纪 995]] narrates the Zhuge Xuan, Zhu Hao, Ze Rong, Liu Yao, and Hua Xin sequence.
+- Fragmented authority: [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] reports that Hua Xin cannot command Tong Zhi at Luling or Panyang forces near Haihun.
+- Surrender pressure: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] has Yu Fan compare Yuzhang's grain, weapons, and people unfavorably with Kuaiji while invoking Sun Ce's victories.
+- Administrative division: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] says Sun Ce separates Luling, assigns Sun Ben to Yuzhang, and assigns Sun Fu to Luling.
 
 ## Qualifications
 Yuzhang is represented through military-political episodes rather than a full administrative geography. The sources establish route value, contested rule, and Sun Ce's takeover, but not detailed local society beyond the named control points.
 
 ## What Changed
-- Added Hanji 1039 as the surrender and post-surrender administrative reorganization of Yuzhang.
+- Added 汉纪 1039 as the surrender and post-surrender administrative reorganization of Yuzhang.
 - Migrated the page to synthesis-v1.
 
 ## Relationships

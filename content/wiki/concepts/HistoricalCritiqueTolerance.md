@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-Hanji 754 supplies the concept through [[KongXiEasternHan|Kong Xi]] and [[CuiYinEasternHan|Cui Yin]]. Their Taixue discussion of Emperor Wu's early merits and later failures is reported by [[LiangYuEasternHan|Liang Yu]] as defamation. Kong Xi's memorial answers by narrowing the charge: slander is invention, while discussing recorded historical judgment is different.
+汉纪 754 supplies the concept through [[KongXiEasternHan|Kong Xi]] and [[CuiYinEasternHan|Cui Yin]]. Their Taixue discussion of Emperor Wu's early merits and later failures is reported by [[LiangYuEasternHan|Liang Yu]] as defamation. Kong Xi's memorial answers by narrowing the charge: slander is invention, while discussing recorded historical judgment is different.
 
 [[EmperorZhangOfHan|Emperor Zhang]]'s response makes the norm politically meaningful. He stops the case, appoints Kong Xi, and releases some earlier implication restrictions tied to `yaoyan` cases. The source therefore treats tolerance not as indifference to speech but as a ruler's ability to separate correction, historical memory, and malicious accusation.
 
@@ -28,10 +28,10 @@ Hanji 754 supplies the concept through [[KongXiEasternHan|Kong Xi]] and [[CuiYin
 
 ## Evidence
 
-- Taixue speech case: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Kong Xi and Cui Yin discuss Emperor Wu's record and are reported for defaming a former emperor and mocking the current one.
-- Conceptual distinction: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] presents Kong Xi arguing that defamation means invented slander, not citation of historical facts.
-- Non-punitive outcome: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Emperor Zhang stops the prosecution and appoints Kong Xi.
-- Wider speech climate: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|Hanji 754]] says Zhangdi also releases some prior `yaoyan` implication bans, suggesting the case belongs to a broader relaxation of speech-linked punishment.
+- Taixue speech case: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] says Kong Xi and Cui Yin discuss Emperor Wu's record and are reported for defaming a former emperor and mocking the current one.
+- Conceptual distinction: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] presents Kong Xi arguing that defamation means invented slander, not citation of historical facts.
+- Non-punitive outcome: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] says Emperor Zhang stops the prosecution and appoints Kong Xi.
+- Wider speech climate: [[zizhi-tongjian-hanji-754-gudai-ban-qieting-fengyun-jieju-shuangwen-ltvymh-2r-ic5diqfh-2ic9cudq2|汉纪 754]] says Zhangdi also releases some prior `yaoyan` implication bans, suggesting the case belongs to a broader relaxation of speech-linked punishment.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The source gives a positive Zhangdi resolution, but it also shows how narrow the
 
 ## What Changed
 
-- Created the concept from Hanji 754's Kong Xi, Cui Yin, Liang Yu, and Emperor Zhang speech case.
+- Created the concept from 汉纪 754's Kong Xi, Cui Yin, Liang Yu, and Emperor Zhang speech case.
 
 ## Related Concepts
 

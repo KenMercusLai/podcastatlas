@@ -12,11 +12,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-The Fengyishan Battle enters the wiki through Hanji 881 as a 168 CE late-Han frontier battle in which [[DuanJiongLateHan|段熲]] defeats [[XianlingQiang|先零羌]] forces during the wider [[DongqiangLateHan|东羌]] campaign context.
+The Fengyishan Battle enters the wiki through 汉纪 881 as a 168 CE late-Han frontier battle in which [[DuanJiongLateHan|段熲]] defeats [[XianlingQiang|先零羌]] forces during the wider [[DongqiangLateHan|东羌]] campaign context.
 
 ## Current Profile
 
-The battle's current profile is narrow but consequential. [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] describes Duan Jiong moving from Pengyang toward Gaoping with more than 10,000 troops and fifteen days of supplies, then meeting Xianling Qiang forces at Fengyishan. Duan arranges missile troops, spear infantry, strong bows or crossbows, and light cavalry on both wings, then uses a high-ground speech to convert danger, distance, and collective fate into battlefield morale.
+The battle's current profile is narrow but consequential. [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|汉纪 881]] describes Duan Jiong moving from Pengyang toward Gaoping with more than 10,000 troops and fifteen days of supplies, then meeting Xianling Qiang forces at Fengyishan. Duan arranges missile troops, spear infantry, strong bows or crossbows, and light cavalry on both wings, then uses a high-ground speech to convert danger, distance, and collective fate into battlefield morale.
 
 Its political importance comes after the victory. The source reports more than 8,000 Qiang killed, then has [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] defer final reward until full Eastern Qiang pacification while still giving Duan cash, a family appointment, palace-treasury military funding, and the title `破羌将军`. The battle therefore links tactical success to the episode's [[CampaignFinanceAccessIncentive|military-finance access]] question.
 
@@ -31,18 +31,18 @@ Its political importance comes after the victory. The source reports more than 8
 
 ## Evidence
 
-- Battle setting: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] says Duan Jiong leads more than 10,000 soldiers from Pengyang toward Gaoping and encounters Xianling Qiang forces at Fengyishan.
-- Tactical organization: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] describes long arrows, sharp sabres, three ranks of spear infantry, strong bows or crossbows, and light cavalry on both sides.
-- Morale logic: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] has Duan tell the army that it is thousands of li from home and must advance together to win.
-- Outcome and consequence: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|Hanji 881]] reports the Qiang rout, more than 8,000 killed, Dou Miao's interim reward, and Zhongcangfu military funding.
+- Battle setting: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|汉纪 881]] says Duan Jiong leads more than 10,000 soldiers from Pengyang toward Gaoping and encounters Xianling Qiang forces at Fengyishan.
+- Tactical organization: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|汉纪 881]] describes long arrows, sharp sabres, three ranks of spear infantry, strong bows or crossbows, and light cavalry on both sides.
+- Morale logic: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|汉纪 881]] has Duan tell the army that it is thousands of li from home and must advance together to win.
+- Outcome and consequence: [[zizhi-tongjian-hanji-881-shi-shui-zai-fa-zhanzheng-hengcai-lipglslijnbp0cuqfpps88q5wit6|汉纪 881]] reports the Qiang rout, more than 8,000 killed, Dou Miao's interim reward, and Zhongcangfu military funding.
 
 ## Qualifications
 
-This page records the battle as Hanji 881 presents it and does not establish an independent military reconstruction. The casualty count, formation details, and speech logic are treated as source-scoped claims. The battle should not be merged into the later 169 CE valley campaign from Hanji 891-892; those sources belong to a later tactical and ethical continuation.
+This page records the battle as 汉纪 881 presents it and does not establish an independent military reconstruction. The casualty count, formation details, and speech logic are treated as source-scoped claims. The battle should not be merged into the later 169 CE valley campaign from 汉纪 891-892; those sources belong to a later tactical and ethical continuation.
 
 ## What Changed
 
-- Created the page from Hanji 881's Fengyishan battle narrative.
+- Created the page from 汉纪 881's Fengyishan battle narrative.
 - Linked the battle to Duan Jiong's hard-line frontier profile and the source's finance-access thesis.
 
 ## Relationships

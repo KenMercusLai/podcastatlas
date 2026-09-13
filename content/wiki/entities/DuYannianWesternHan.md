@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-杜延年 / Du Yannian enters the wiki through [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] in a closing annalistic notice: [[EmperorXuanOfHan|汉宣帝]] appoints him, then Xihe taishou, as yushi dafu. The episode identifies him as a son of Du Zhou, as one of the Qilin Pavilion meritorious ministers, and as a lenient, legally knowledgeable official trusted by Xuan.
+杜延年 / Du Yannian enters the wiki through [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] in a closing annalistic notice: [[EmperorXuanOfHan|汉宣帝]] appoints him, then Xihe taishou, as yushi dafu. The episode identifies him as a son of Du Zhou, as one of the Qilin Pavilion meritorious ministers, and as a lenient, legally knowledgeable official trusted by Xuan.
 
 ## Current Profile
 
@@ -27,18 +27,18 @@ The source gives only a compact profile. Du Yannian is not part of the Huang Ba-
 ## Evidence
 
 Appointment:
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] says Xuan appoints Xihe taishou Du Yannian as yushi dafu in the closing notice.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] says Xuan appoints Xihe taishou Du Yannian as yushi dafu in the closing notice.
 
 Profile:
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] says Du Yannian is Du Zhou's son, a Qilin Pavilion meritorious minister, lenient, legally skilled, long responsible for court affairs, and deeply trusted by Xuan.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] says Du Yannian is Du Zhou's son, a Qilin Pavilion meritorious minister, lenient, legally skilled, long responsible for court affairs, and deeply trusted by Xuan.
 
 ## Qualifications
 
-This page is source-scoped to a brief closing notice in Hanji 455. It does not reconstruct Du Yannian's complete family, legal career, offices, or Qilin Pavilion role.
+This page is source-scoped to a brief closing notice in 汉纪 455. It does not reconstruct Du Yannian's complete family, legal career, offices, or Qilin Pavilion role.
 
 ## What Changed
 
-- Created the page from Hanji 455's yushi dafu appointment notice.
+- Created the page from 汉纪 455's yushi dafu appointment notice.
 
 ## Relationships
 

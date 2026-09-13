@@ -16,11 +16,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-卢植 / Lu Zhi (late Han) is a scholar-official, teacher, commander, and repeated remonstrance figure whose page now begins before his Yellow Turban and Dong Zhuo crisis branches. [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] presents him as an early moral adviser to [[DouWuLateHan|窦武]], warning that accession reward detached from personal merit can turn public prestige into future danger.
+卢植 / Lu Zhi (late Han) is a scholar-official, teacher, commander, and repeated remonstrance figure whose page now begins before his Yellow Turban and Dong Zhuo crisis branches. [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] presents him as an early moral adviser to [[DouWuLateHan|窦武]], warning that accession reward detached from personal merit can turn public prestige into future danger.
 
 ## Current Profile
 
-Lu Zhi's current profile is built around disciplined judgment under pressure. Hanji 882 gives the earliest branch: before Dou Wu's failed anti-eunuch crisis, Lu Zhi tells him that choosing [[EmperorLingOfHan|汉灵帝]] as successor was based on genealogy and public recommendation, not Dou's sole achievement, so Dou should decline excessive title reward and preserve humility. The same episode supports Lu Zhi's authority by presenting him as a strict scholar trained under Ma Rong, unmoved by distractions, later withdrawn from official summons, and eventually a teacher of young [[LiuBei|刘备]].
+Lu Zhi's current profile is built around disciplined judgment under pressure. 汉纪 882 gives the earliest branch: before Dou Wu's failed anti-eunuch crisis, Lu Zhi tells him that choosing [[EmperorLingOfHan|汉灵帝]] as successor was based on genealogy and public recommendation, not Dou's sole achievement, so Dou should decline excessive title reward and preserve humility. The same episode supports Lu Zhi's authority by presenting him as a strict scholar trained under Ma Rong, unmoved by distractions, later withdrawn from official summons, and eventually a teacher of young [[LiuBei|刘备]].
 
 That early warning anticipates Lu Zhi's later pattern. In 178 CE he submits an institutional memorial on Party Prohibition prisoners, Song-family burial, official tenure, and appointment standards, but Emperor Ling ignores it. In 184 CE he commands against the [[YellowTurbansLateHan|Yellow Turbans]] and approaches victory at Guangzong, yet refuses inspection bribery and is recalled after [[ZuoFengLateHan|左丰]] reframes siege preparation as idleness.
 
@@ -37,23 +37,23 @@ The final crisis branches show the same boundary role under more dangerous court
 
 ## Evidence
 
-- Accession reward warning: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] says Lu Zhi tells Dou Wu not to treat Emperor Ling's genealogy-based succession as his own exceptional merit and urges him to decline excessive rewards.
-- Scholar discipline and teaching authority: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] presents Lu Zhi as a disciplined student under Ma Rong, later reclusive teacher, and future instructor of young Liu Bei; [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|Hanji 907]] independently places [[GongsunZan|公孙瓒]] and Liu Bei under Lu Zhi's instruction in 176 CE.
-- Institutional remonstrance: [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|Hanji 913]] says Lu Zhi memorializes on innocent Party Prohibition prisoners, Empress Song's family burial, stable terms for governors and inspectors, and appointment standards against private lobbying.
-- Command and inspection vulnerability: [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]] says Lu Zhi defeats Zhang Jiao's force and surrounds Guangzong, but refuses to gift Zuo Feng and is recalled in a prison cart after Zuo Feng's report.
-- Warning against external troop invitation: [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|Hanji 945]] says Lu Zhi warns He Jin that Dong Zhuo's entry into the capital will certainly produce disorder.
-- Palace-flight intervention: [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|Hanji 946]] says Lu Zhi rebukes Duan Gui from below a gallery and forces the release of Empress Dowager He.
-- Deposition remonstrance: [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|Hanji 948]] says Lu Zhi rejects Dong Zhuo's deposition precedents because Liu Bian is young and lacks comparable faults, after which Dong Zhuo removes him rather than executing him because his reputation is too high.
+- Accession reward warning: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] says Lu Zhi tells Dou Wu not to treat Emperor Ling's genealogy-based succession as his own exceptional merit and urges him to decline excessive rewards.
+- Scholar discipline and teaching authority: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] presents Lu Zhi as a disciplined student under Ma Rong, later reclusive teacher, and future instructor of young Liu Bei; [[zizhi-tongjian-hanji-907-suoyou-de-bing-doushi-ni-de-xinbing-ltqzyohcauduwuanlvqph9l81d79|汉纪 907]] independently places [[GongsunZan|公孙瓒]] and Liu Bei under Lu Zhi's instruction in 176 CE.
+- Institutional remonstrance: [[zizhi-tongjian-hanji-913-kan-dong-saiweng-shima-wu-tou-rensheng-fuhuo-lkfbrwtgsjma85bzugqonzk3hy4g|汉纪 913]] says Lu Zhi memorializes on innocent Party Prohibition prisoners, Empress Song's family burial, stable terms for governors and inspectors, and appointment standards against private lobbying.
+- Command and inspection vulnerability: [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|汉纪 928]] says Lu Zhi defeats Zhang Jiao's force and surrounds Guangzong, but refuses to gift Zuo Feng and is recalled in a prison cart after Zuo Feng's report.
+- Warning against external troop invitation: [[zizhi-tongjian-hanji-945-zhinian-tai-shen-de-ren-zhihui-yuelaiyue-tongku-lm6xaiy2pcqunke04yzqwwxsxxl|汉纪 945]] says Lu Zhi warns He Jin that Dong Zhuo's entry into the capital will certainly produce disorder.
+- Palace-flight intervention: [[zizhi-tongjian-hanji-946-zhichang-douzheng-shi-yourouguaduan-you-duo-zhiming-lpyyweaajonzg7kxuhwm9z7ae7p5|汉纪 946]] says Lu Zhi rebukes Duan Gui from below a gallery and forces the release of Empress Dowager He.
+- Deposition remonstrance: [[zizhi-tongjian-hanji-948-dongzhuo-feidi-quanchen-ruhe-gaibian-huangquan-youxi-ltekg1a-5b5u37aeekjm3dm2m6kk|汉纪 948]] says Lu Zhi rejects Dong Zhuo's deposition precedents because Liu Bian is young and lacks comparable faults, after which Dong Zhuo removes him rather than executing him because his reputation is too high.
 
 ## Qualifications
 
-- Hanji 882's portrait of Lu Zhi's early discipline is a podcast-summary characterization, not a complete biography.
+- 汉纪 882's portrait of Lu Zhi's early discipline is a podcast-summary characterization, not a complete biography.
 - The page treats Lu Zhi's reward warning, institutional memorials, military command, and crisis remonstrance as one profile of disciplined boundary setting, but each branch occurs in a different court context.
 - This page is disambiguated from [[LuZhi|吕雉 / Lu Zhi]]; its role is source-scoped to the late-Han scholar-official.
 
 ## What Changed
 
-- Added Hanji 882 as Lu Zhi's earliest current branch, before his 176 teacher role, 178 memorial, 184 command, and 189 remonstrance scenes.
+- Added 汉纪 882 as Lu Zhi's earliest current branch, before his 176 teacher role, 178 memorial, 184 command, and 189 remonstrance scenes.
 - Reframed Lu Zhi's core profile around status-boundary judgment: his warning to Dou Wu treats excessive reward as both moral and political danger.
 - Converted the page from episodic notes with a Connections section into the structured entity schema.
 

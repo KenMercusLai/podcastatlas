@@ -16,7 +16,7 @@ Xia Fu is the late-Han figure who criticizes [[ZhangJianLateHan|张俭]]'s fligh
 
 ## Current Profile
 
-Hanji 895 presents Xia Fu as the episode's stern counterweight to the moving Kong-family rescue story. He does not deny the human desire to live, but he objects that Zhang Jian's survival path can implicate many innocent households. Xia Fu then embodies his own standard by erasing his appearance, hiding in remote conditions, working in a metal-smelting household, and refusing his brother Xia Jing's money because help itself might become danger.
+汉纪 895 presents Xia Fu as the episode's stern counterweight to the moving Kong-family rescue story. He does not deny the human desire to live, but he objects that Zhang Jian's survival path can implicate many innocent households. Xia Fu then embodies his own standard by erasing his appearance, hiding in remote conditions, working in a metal-smelting household, and refusing his brother Xia Jing's money because help itself might become danger.
 
 ## Key Characteristics
 
@@ -27,9 +27,9 @@ Hanji 895 presents Xia Fu as the episode's stern counterweight to the moving Kon
 
 ## Evidence
 
-- Critique of collateral harm: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] has Xia Fu say Zhang Jian's one-person escape brings disaster to many households.
-- Withdrawal practice: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] says Xia Fu changes his appearance, hides in the mountains, and works for a smelting household while digging charcoal.
-- Refusal of help: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] says he refuses Xia Jing's money and warns not to bring disaster to him.
+- Critique of collateral harm: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] has Xia Fu say Zhang Jian's one-person escape brings disaster to many households.
+- Withdrawal practice: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] says Xia Fu changes his appearance, hides in the mountains, and works for a smelting household while digging charcoal.
+- Refusal of help: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] says he refuses Xia Jing's money and warns not to bring disaster to him.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page follows the historical normalization 夏馥 while noting that the raw 
 
 ## What Changed
 
-- Initial page created from Hanji 895's fugitive-collateral critique and withdrawal example.
+- Initial page created from 汉纪 895's fugitive-collateral critique and withdrawal example.
 
 ## Relationships
 

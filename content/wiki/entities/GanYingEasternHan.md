@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Profile
 
-Hanji 771 presents Gan Ying as Ban Chao's envoy. He travels west through territories the episode treats as previously little known to Han envoys, gathers local information and unusual goods, and reaches the western boundary of [[ParthianEmpire|Parthia / Anxi]]. He intends to cross the sea toward Da Qin, but Parthian officials describe the route as long, dangerous, and provision-intensive.
+汉纪 771 presents Gan Ying as Ban Chao's envoy. He travels west through territories the episode treats as previously little known to Han envoys, gathers local information and unusual goods, and reaches the western boundary of [[ParthianEmpire|Parthia / Anxi]]. He intends to cross the sea toward Da Qin, but Parthian officials describe the route as long, dangerous, and provision-intensive.
 
 Gan Ying turns back after hearing that account and reports his experience and the local description of Rome to [[EmperorHeOfHan|Emperor He]]. The page's current judgment is therefore not that Gan Ying achieved direct Sino-Roman contact, but that his mission reveals the limits of overland reach when a middle polity controls route information and sea-risk framing.
 
@@ -28,19 +28,19 @@ Gan Ying turns back after hearing that account and reports his experience and th
 
 ## Evidence
 
-- Mission assignment: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says Ban Chao sends Gan Ying toward Da Qin and Tiaozhi.
-- Travel extent: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says Gan Ying reaches Parthia's western boundary after passing through unfamiliar regions.
-- Route constraint: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] records Parthian officials describing sea travel to Rome as slow, storm-prone, and dangerous enough to require large provisions.
-- Return and report: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says Gan Ying turns back and reports his experience and the Roman description to Emperor He.
-- Interpretive frame: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] treats the mission as a geography and route-information problem rather than a simple failure of nerve.
+- Mission assignment: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] says Ban Chao sends Gan Ying toward Da Qin and Tiaozhi.
+- Travel extent: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] says Gan Ying reaches Parthia's western boundary after passing through unfamiliar regions.
+- Route constraint: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] records Parthian officials describing sea travel to Rome as slow, storm-prone, and dangerous enough to require large provisions.
+- Return and report: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] says Gan Ying turns back and reports his experience and the Roman description to Emperor He.
+- Interpretive frame: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] treats the mission as a geography and route-information problem rather than a simple failure of nerve.
 
 ## Qualifications
 
-This page is bounded to one podcast source. It does not reconstruct Gan Ying's full career, exact itinerary, or the independent historical debate over whether the sea was the Persian Gulf, Red Sea, or Mediterranean. The current page follows Hanji 771's preferred Persian Gulf reading while keeping it qualified as source interpretation.
+This page is bounded to one podcast source. It does not reconstruct Gan Ying's full career, exact itinerary, or the independent historical debate over whether the sea was the Persian Gulf, Red Sea, or Mediterranean. The current page follows 汉纪 771's preferred Persian Gulf reading while keeping it qualified as source interpretation.
 
 ## What Changed
 
-- Created the page from Hanji 771 as the Eastern Han envoy whose attempted journey toward Da Qin stops at Parthia's western boundary.
+- Created the page from 汉纪 771 as the Eastern Han envoy whose attempted journey toward Da Qin stops at Parthia's western boundary.
 
 ## Relationships
 

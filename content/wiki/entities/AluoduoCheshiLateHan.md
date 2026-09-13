@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-阿罗多 / Aluoduo is the Cheshi Hou king in Hanji 839 whose rebellion, flight, return, and negotiated restoration make him a compact case of frontier-vassal management. He is not presented as innocent; his importance is that restoring him becomes safer for Han order than replacing him when he still has local support and can seek [[Xiongnu|北匈奴]] backing.
+阿罗多 / Aluoduo is the Cheshi Hou king in 汉纪 839 whose rebellion, flight, return, and negotiated restoration make him a compact case of frontier-vassal management. He is not presented as innocent; his importance is that restoring him becomes safer for Han order than replacing him when he still has local support and can seek [[Xiongnu|北匈奴]] backing.
 
 ## Current Profile
 
@@ -29,11 +29,11 @@ The later turn is political rather than purely punitive. Aluoduo returns from th
 
 ## Evidence
 
-- Rebel escalation: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Aluoduo quarrels with Han frontier authority and then rebels.
-- Military harm: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says he surrounds Han屯田 troops and causes casualties among Han generals and soldiers.
-- Loss of local cohesion: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Houmuhou Tanzhe leads some residents away from him and toward Han surrender.
-- Flight and return: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Aluoduo flees to the Northern Xiongnu with around one hundred cavalry and later returns.
-- Negotiated restoration: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Yan Xiang promises to restore him as king if he surrenders, and the court follows through.
+- Rebel escalation: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says Aluoduo quarrels with Han frontier authority and then rebels.
+- Military harm: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says he surrounds Han屯田 troops and causes casualties among Han generals and soldiers.
+- Loss of local cohesion: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says Houmuhou Tanzhe leads some residents away from him and toward Han surrender.
+- Flight and return: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says Aluoduo flees to the Northern Xiongnu with around one hundred cavalry and later returns.
+- Negotiated restoration: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says Yan Xiang promises to restore him as king if he surrenders, and the court follows through.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ The current profile is source-bounded and does not reconstruct Aluoduo's earlier
 
 ## What Changed
 
-- Created the page from Hanji 839's Cheshi rebellion and restoration branch.
+- Created the page from 汉纪 839's Cheshi rebellion and restoration branch.
 - Added Aluoduo as a case where local legitimacy changes Han's preferred frontier settlement.
 
 ## Relationships

@@ -15,9 +15,9 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-Hanji 737 now grounds the concept directly through [[ZhengZhongFrontierEasternHan|Zheng Zhong]]'s first mission to [[NorthernXiongnuLateHan|Northern Xiongnu]]. The chanyu demands a kneeling ritual, Zheng refuses, is imprisoned and starved, and draws a knife under pressure rather than let a Han envoy's body become evidence of Han submission.
+汉纪 737 now grounds the concept directly through [[ZhengZhongFrontierEasternHan|Zheng Zhong]]'s first mission to [[NorthernXiongnuLateHan|Northern Xiongnu]]. The chanyu demands a kneeling ritual, Zheng refuses, is imprisoned and starved, and draws a knife under pressure rather than let a Han envoy's body become evidence of Han submission.
 
-Hanji 738 then extends the concept through Zheng's refusal to be sent back. Zheng does not frame the danger as ordinary personal hardship. He argues that if he carries a Han tally and is forced to kowtow before the chanyu, the ritual act will not remain private; it will be read as damage to Han prestige.
+汉纪 738 then extends the concept through Zheng's refusal to be sent back. Zheng does not frame the danger as ordinary personal hardship. He argues that if he carries a Han tally and is forced to kowtow before the chanyu, the ritual act will not remain private; it will be read as damage to Han prestige.
 
 The same episode makes the ritual danger part of a wider diplomatic stage. Northern Xiongnu request a Han return mission while still raiding the frontier. Zheng worries that the chanyu can use the mere presence and posture of a Han envoy to show surrounding polities that Han is seeking accommodation, not imposing order.
 
@@ -33,11 +33,11 @@ The concept is therefore narrower than general etiquette. It applies when ritual
 
 ## Evidence
 
-- Direct coerced-kowtow refusal: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|Hanji 737]] says Zheng Zhong refuses the Northern Xiongnu chanyu's kneeling demand, is imprisoned and starved, and draws a knife under pressure.
-- Later recollection of the same risk: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Zheng had previously been surrounded and denied food because he refused to kowtow to the Northern Xiongnu chanyu.
-- State-dignity reasoning: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Zheng would not hold the Han tally and bow to the chanyu because yielding would damage Han prestige.
-- Hostile-audience use: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Zheng fears the chanyu will use Han contact to show Western Regions states and other neighbors that Han is returning to him.
-- Misread refusal and later recognition: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Mingdi first imprisons Zheng for continued resistance, then reappoints him after Northern Xiongnu testimony confirms his earlier conduct.
+- Direct coerced-kowtow refusal: [[zizhi-tongjian-hanji-737-huanghou-shihao-zhidu-diyiren-liuxiu-laopo-bu-jiandan-lsdhr-gdx-yep3tzprjg9wtjbul2|汉纪 737]] says Zheng Zhong refuses the Northern Xiongnu chanyu's kneeling demand, is imprisoned and starved, and draws a knife under pressure.
+- Later recollection of the same risk: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Zheng had previously been surrounded and denied food because he refused to kowtow to the Northern Xiongnu chanyu.
+- State-dignity reasoning: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Zheng would not hold the Han tally and bow to the chanyu because yielding would damage Han prestige.
+- Hostile-audience use: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Zheng fears the chanyu will use Han contact to show Western Regions states and other neighbors that Han is returning to him.
+- Misread refusal and later recognition: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Mingdi first imprisons Zheng for continued resistance, then reappoints him after Northern Xiongnu testimony confirms his earlier conduct.
 
 ## Counterevidence & Qualifications
 
@@ -45,8 +45,8 @@ The concept does not say every diplomatic compromise or ritual concession is dis
 
 ## What Changed
 
-- Added Hanji 737 as the direct first-mission evidence for Zheng Zhong's refusal to kneel.
-- Reframed Hanji 738 as the later return-mission warning that interprets the same ritual risk.
+- Added 汉纪 737 as the direct first-mission evidence for Zheng Zhong's refusal to kneel.
+- Reframed 汉纪 738 as the later return-mission warning that interprets the same ritual risk.
 
 ## Related Concepts
 

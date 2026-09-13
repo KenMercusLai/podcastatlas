@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 17 / 41 CE before [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]]. It places [[LiuXiu|光武帝刘秀]]'s removal of [[GuoShengtong|郭圣通]] and elevation of [[YinLihua|阴丽华]] inside founding-era alliance politics, solar-eclipse accountability language, and the later succession vulnerability of [[LiuQiangDonghaiKing|刘强]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 17 / 41 CE before [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]]. It places [[LiuXiu|光武帝刘秀]]'s removal of [[GuoShengtong|郭圣通]] and elevation of [[YinLihua|阴丽华]] inside founding-era alliance politics, solar-eclipse accountability language, and the later succession vulnerability of [[LiuQiangDonghaiKing|刘强]].
 
 The same source also adds a 41 CE frontier layer: [[MaYuanEasternHan|马援]] suppresses Li Guang before being prepared for Jiaozhi command, [[JiTongEasternHan|祭肜]] is sent to Liaodong against repeated raids, and [[ShacheKingdomLateHan|莎车国]] king Xian's request for Western Regions authority is downgraded after [[PeiZunEasternHan|裴遵]] warns that overrecognition would damage Han credibility.
 
@@ -26,7 +26,7 @@ The same source also adds a 41 CE frontier layer: [[MaYuanEasternHan|马援]] su
 - Guo's alliance value declines after Liu Xiu consolidates power, while Yin Lihua remains the emotionally preferred and later politically safer empress candidate.
 - [[ZhiYunEasternHan|郅恽]] warns Liu Xiu that deposing an empress concerns the state's foundation and should not be treated as a private household matter.
 - Liu Xiu deposes Guo, makes Yin Lihua empress, orders no congratulations, and gives Guo and her sons a soft landing through titles and enlarged fiefs.
-- Liu Qiang's position as Guo's son is not yet resolved in this episode, but the source sets up the maternal-status problem developed in Hanji 720.
+- Liu Qiang's position as Guo's son is not yet resolved in this episode, but the source sets up the maternal-status problem developed in 汉纪 720.
 - Liu Xiu's Zhangling visit and the "soft way" memory complicate a purely punitive reading of his governing style.
 - Shache King Xian first receives a protectorate-level package, but Liu Xiu accepts Pei Zun's objection and downgrades him to Great General.
 - Northern and southern frontier notices show Han capacity stretched across Xiongnu, Xianbei, Wuhuan, and Jiaozhi problems at the same time.
@@ -52,6 +52,6 @@ The same source also adds a 41 CE frontier layer: [[MaYuanEasternHan|马援]] su
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills 41 CE before Hanji 720's 42-43 CE crown-prince withdrawal, Hanji 722's 44-45 CE Guo-branch compensation and Western Regions hostage signal, and Hanji 723's 46 CE protectorate refusal.
+- Chronology qualification: this source backfills 41 CE before 汉纪 720's 42-43 CE crown-prince withdrawal, 汉纪 722's 44-45 CE Guo-branch compensation and Western Regions hostage signal, and 汉纪 723's 46 CE protectorate refusal.
 - Identity normalization: the transcript form 郭盛通 is routed to the established [[GuoShengtong|郭圣通]] page; 刘杨 the Zhending ally is kept distinct from Liu Yang / Liu Zhuang / Mingdi through [[LiuYangZhendingKingEasternHan]].
 - Scope caution: Liu Liang, Li Zichun, Li Guang of Wan, Duan Zhi, Liu Heng, Liu Long, Zheng Ce, and exact campaign force counts remain source-scoped unless later notes warrant canonical pages.

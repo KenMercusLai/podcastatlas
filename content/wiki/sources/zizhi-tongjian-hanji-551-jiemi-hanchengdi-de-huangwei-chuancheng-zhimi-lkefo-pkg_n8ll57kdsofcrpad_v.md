@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yuanyan 3-4 / 10-9 BCE under [[HanChengdi|汉成帝]], immediately before the succession decision later discussed in [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|Hanji 552]]. It moves from Chengdi's Changyang Palace hunting spectacle and [[YangXiong|扬雄]]'s resulting fu context to the court comparison between the Dingtao king [[HanAidi|刘欣 / 后来的汉哀帝]] and [[LiuXingZhongshanKingWesternHan|中山王刘兴]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yuanyan 3-4 / 10-9 BCE under [[HanChengdi|汉成帝]], immediately before the succession decision later discussed in [[zizhi-tongjian-hanji-552-tongtou-renxing-de-ren-zhichang-pingbuqingyun-lnnhr8e-67qdqwhzi1h0qav-valw|汉纪 552]]. It moves from Chengdi's Changyang Palace hunting spectacle and [[YangXiong|扬雄]]'s resulting fu context to the court comparison between the Dingtao king [[HanAidi|刘欣 / 后来的汉哀帝]] and [[LiuXingZhongshanKingWesternHan|中山王刘兴]].
 
 The durable synthesis is that Chengdi's heir choice emerges before the formal ministerial debate as a mixture of performance, kinship form, consort-house networking, and survival strategy. Liu Xin looks legally prepared and ritually alert, while Liu Xing looks clumsy in learning and etiquette; yet the episode keeps open a source-scoped alternative that Liu Xing's visible incompetence may have been a protective withdrawal from a succession contest he was unlikely to win.
 

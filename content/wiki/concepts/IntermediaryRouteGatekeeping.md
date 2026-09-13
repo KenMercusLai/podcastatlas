@@ -14,7 +14,7 @@ Intermediary Route Gatekeeping / 中介路线门控 is a pattern where a middle 
 
 ## Current Synthesis
 
-Hanji 771 gives the concept a compact ancient-geography case. [[GanYingEasternHan|Gan Ying]] is sent by [[BanChaoEasternHan|Ban Chao]] toward [[DaQin|Da Qin]] / the [[RomanEmpire|Roman Empire]], reaches [[ParthianEmpire|Parthia]]'s western boundary, and then hears from Parthian officials that the sea route is long, dangerous, and provision-heavy. He turns back, leaving the Han court with mediated knowledge rather than direct contact.
+汉纪 771 gives the concept a compact ancient-geography case. [[GanYingEasternHan|Gan Ying]] is sent by [[BanChaoEasternHan|Ban Chao]] toward [[DaQin|Da Qin]] / the [[RomanEmpire|Roman Empire]], reaches [[ParthianEmpire|Parthia]]'s western boundary, and then hears from Parthian officials that the sea route is long, dangerous, and provision-heavy. He turns back, leaving the Han court with mediated knowledge rather than direct contact.
 
 The concept should stay qualified. The source makes the Parthian warning decisive, but it does not prove deliberate deception or formal blockade. The stronger current claim is structural: when one actor sits between two distant powers, its account of routes can become a practical gate.
 
@@ -28,11 +28,11 @@ The concept should stay qualified. The source makes the Parthian warning decisiv
 
 ## Evidence
 
-- Mission setup: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says Ban Chao sends Gan Ying toward Da Qin / Rome and Tiaozhi.
-- Intermediary position: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] places Gan Ying at Parthia's western boundary before the onward route question.
-- Risk framing: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] records Parthian officials emphasizing months-long or years-long sea travel, storms, deaths, and large food requirements.
-- Gatekeeping outcome: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] says Gan Ying abandons the trip after hearing the warning and returns to report mediated information.
-- Geography qualification: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|Hanji 771]] weighs Mediterranean, Persian Gulf, and Red Sea possibilities, showing that route-control analysis depends on uncertain geography.
+- Mission setup: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] says Ban Chao sends Gan Ying toward Da Qin / Rome and Tiaozhi.
+- Intermediary position: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] places Gan Ying at Parthia's western boundary before the onward route question.
+- Risk framing: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] records Parthian officials emphasizing months-long or years-long sea travel, storms, deaths, and large food requirements.
+- Gatekeeping outcome: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] says Gan Ying abandons the trip after hearing the warning and returns to report mediated information.
+- Geography qualification: [[zizhi-tongjian-hanji-771-xunzhao-luoma-hanshi-ganying-de-shijie-lvxing-lnrjubkeoahavfk55rpiwnw15njf|汉纪 771]] weighs Mediterranean, Persian Gulf, and Red Sea possibilities, showing that route-control analysis depends on uncertain geography.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The current evidence is a single podcast source summarizing and interpreting rec
 
 ## What Changed
 
-- Created the concept from Hanji 771 to capture Gan Ying's mission stopping through Parthian route-risk information.
+- Created the concept from 汉纪 771 to capture Gan Ying's mission stopping through Parthian route-risk information.
 
 ## Related Concepts
 

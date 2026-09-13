@@ -14,7 +14,7 @@ Suppressed root-cause reporting / 根因上报压制 is the governance failure i
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] grounds the concept in [[WangMang|王莽]]'s late-[[XinDynasty|新朝]] response to widening rebellion. [[GongsunLuXinOfficial|公孙禄]] argues that the crisis is internal, but Wang Mang has him removed and only punishes one unpopular official. Later, when a clerk reports that captured rebels are explaining themselves through hunger and poverty, Wang Mang treats that explanation as slander.
+[[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] grounds the concept in [[WangMang|王莽]]'s late-[[XinDynasty|新朝]] response to widening rebellion. [[GongsunLuXinOfficial|公孙禄]] argues that the crisis is internal, but Wang Mang has him removed and only punishes one unpopular official. Later, when a clerk reports that captured rebels are explaining themselves through hunger and poverty, Wang Mang treats that explanation as slander.
 
 The concept is sharper than ordinary bad information. Wang Mang does not merely receive distorted reports; he creates a rule that officials should be arrested if they say rebels are driven by hunger and cold. That turns causal diagnosis into political danger, so the system loses the ability to distinguish criminal violence, famine-driven survival, local underreporting, and policy failure.
 
@@ -28,10 +28,10 @@ The concept is sharper than ordinary bad information. Wang Mang does not merely 
 
 ## Evidence
 
-- Internal diagnosis punished: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Gongsun Lu identifies internal officials, policies, and Xiongnu strategy as causes, after which Wang Mang has him removed.
-- Scapegoat response: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang only demotes Lu Kuang, who was already hated by the people.
-- Hunger explanation rejected: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says Wang Mang rejects the claim that rebels are driven by poverty and hunger because their groups are too large.
-- Reporting ban: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]] says officials are to be arrested if they say rebels are forced by hunger and cold.
+- Internal diagnosis punished: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Gongsun Lu identifies internal officials, policies, and Xiongnu strategy as causes, after which Wang Mang has him removed.
+- Scapegoat response: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Wang Mang only demotes Lu Kuang, who was already hated by the people.
+- Hunger explanation rejected: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says Wang Mang rejects the claim that rebels are driven by poverty and hunger because their groups are too large.
+- Reporting ban: [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]] says officials are to be arrested if they say rebels are forced by hunger and cold.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept does not claim all rebels in the source were harmless or only hungry
 
 ## What Changed
 
-- Created the concept from Hanji 659 as a late-Xin information-control failure around rebellion causation.
+- Created the concept from 汉纪 659 as a late-Xin information-control failure around rebellion causation.
 
 ## Related Concepts
 

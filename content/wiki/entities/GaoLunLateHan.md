@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-高伦 / Gao Lun enters the wiki through [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] as the local superior pressured by [[HouLanLateHan|侯览]] into recommending or appointing an unsuitable person. His profile matters because [[ChenShiLateHan|陈寔]] absorbs responsibility for the appointment, allowing Gao's public reputation to remain clean until Gao later explains the truth.
+高伦 / Gao Lun enters the wiki through [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] as the local superior pressured by [[HouLanLateHan|侯览]] into recommending or appointing an unsuitable person. His profile matters because [[ChenShiLateHan|陈寔]] absorbs responsibility for the appointment, allowing Gao's public reputation to remain clean until Gao later explains the truth.
 
 ## Current Profile
 
@@ -27,10 +27,10 @@ Gao's later public statement is the source's second important move. After being 
 
 ## Evidence
 
-- Pressure and compliance: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Hou Lan asks Gao Lun to recommend or appoint someone, and Gao has no choice because he fears the power behind the request.
-- Chen Shi's intervention: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Chen Shi knows the candidate is unfit and proposes taking responsibility for the paperwork.
-- Public explanation: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] says Gao later explains that Chen Shi returned the appointment document privately and bore the blame.
-- Reputation meaning: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|Hanji 832]] has Gao call Chen Shi a gentleman who gives good reputation to his superior and takes fault onto himself.
+- Pressure and compliance: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Hou Lan asks Gao Lun to recommend or appoint someone, and Gao has no choice because he fears the power behind the request.
+- Chen Shi's intervention: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Chen Shi knows the candidate is unfit and proposes taking responsibility for the paperwork.
+- Public explanation: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] says Gao later explains that Chen Shi returned the appointment document privately and bore the blame.
+- Reputation meaning: [[zizhi-tongjian-hanji-832-wei-lingdao-beiguo-ta-shi-sha-haishi-zhi-lmfpuixmi4odrf6lu31rf6-66-lq|汉纪 832]] has Gao call Chen Shi a gentleman who gives good reputation to his superior and takes fault onto himself.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source note does not supply Gao Lun's wider biography, exact full office pat
 
 ## What Changed
 
-- Created Gao Lun as the local-superior node in the Hanji 832 appointment-pressure case.
+- Created Gao Lun as the local-superior node in the 汉纪 832 appointment-pressure case.
 - Defined his importance through palace pressure, Chen Shi's responsibility, and Gao's later public explanation.
 
 ## Relationships

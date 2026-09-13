@@ -39,9 +39,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode connects an
 - [[YuanShao|袁绍]], [[GengBaoLateHan|耿包]], [[YuanTan|袁谭]], and [[PostSuccessArrogance|得势后的骄傲]] - northern victory and imperial-title temptation after Gongsun Zan's destruction.
 - [[JuShou|沮授]], [[GuoTu|郭图]], [[ShenPeiLateHan|审配]], [[CuiYanLateHan|崔琰]], [[ChunyuQiong|淳于琼]], and [[AdviceFramingUnderHierarchy|等级场景中的进言包装]] - pre-Guandu advice conflict and command split.
 - [[CaoCao|曹操]], [[LiuBei|刘备]], [[ZhuLingLateHan|朱灵]], [[Xudu|许都]], [[LiyangYellowRiverLateHan|黎阳]], and [[GuanduCampaign|官渡之战]] - Cao-side legitimacy position and the coming confrontation with Yuan Shao.
-- [[zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4|Hanji 1034]] - downstream episode that extends the same Ju Shou / Guo Tu / Shen Pei debate into advice-framing, factionalism, and Cao-side organizational diagnosis.
+- [[zizhi-tongjian-hanji-1034-yuanshao-de-baiju-zhi-yin-buken-ting-jushou-de-hua-log-wy2zvpdjopbdyexb0ijqmph4|汉纪 1034]] - downstream episode that extends the same Ju Shou / Guo Tu / Shen Pei debate into advice-framing, factionalism, and Cao-side organizational diagnosis.
 
 ## Contradictions
-- No settled contradiction found. This source supplies the terminal Yuan Shu collapse and the immediate pre-Guandu Yuan Shao council, while Hanji 1034 elaborates the same advice conflict through communication style and Cao-side assessment.
+- No settled contradiction found. This source supplies the terminal Yuan Shu collapse and the immediate pre-Guandu Yuan Shao council, while 汉纪 1034 elaborates the same advice conflict through communication style and Cao-side assessment.
 - Identity caution: the transcript renders some names unstably. The wiki normalizes "朱琳" to [[ZhuLingLateHan|朱灵]] and "袁潭" to [[YuanTan|袁谭]] because existing nearby source notes use those canonical pages for the same sequence.
 - Identity caution: [[XuQiuGuanglingLateHan|徐秋]] is kept distinct from [[XuQiuLateHan|许秋 / Xu Qiu (late Han)]], an existing page with a different Chinese surname and source role.

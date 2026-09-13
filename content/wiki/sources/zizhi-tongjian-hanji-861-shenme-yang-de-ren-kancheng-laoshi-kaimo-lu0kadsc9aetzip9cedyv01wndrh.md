@@ -14,9 +14,9 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 164 CE [[GuoTaiLateHan|郭泰]] mentorship and talent-recognition layer immediately before [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]]. It presents Guo Tai as a "人师" rather than only a learned instructor: he sees promise in [[MengMinLateHan|孟敏]], [[ShentuPanLateHan|申屠蟠]], and [[YuChengLateHan|庾乘]], tests [[WeiZhaoLateHan|魏昭]], redirects [[ZuoYuanLateHan|左原]], refuses office, and continues teaching despite reading the dynasty as difficult to save.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 164 CE [[GuoTaiLateHan|郭泰]] mentorship and talent-recognition layer immediately before [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]]. It presents Guo Tai as a "人师" rather than only a learned instructor: he sees promise in [[MengMinLateHan|孟敏]], [[ShentuPanLateHan|申屠蟠]], and [[YuChengLateHan|庾乘]], tests [[WeiZhaoLateHan|魏昭]], redirects [[ZuoYuanLateHan|左原]], refuses office, and continues teaching despite reading the dynasty as difficult to save.
 
-The source's durable contribution is [[MoralMentorshipTalentCultivation|人师型人才成全]]: a teacher-model works by discerning latent capacity, forming conduct, offering corrective trust after failure, and accepting counsel from others. The ending ties this model back to [[HuangYunLateHan|黄允]], whose talent forecast requires self-correction and is later qualified by Hanji 862's reputation-collapse case.
+The source's durable contribution is [[MoralMentorshipTalentCultivation|人师型人才成全]]: a teacher-model works by discerning latent capacity, forming conduct, offering corrective trust after failure, and accepting counsel from others. The ending ties this model back to [[HuangYunLateHan|黄允]], whose talent forecast requires self-correction and is later qualified by 汉纪 862's reputation-collapse case.
 
 ## Key Claims
 
@@ -50,6 +50,6 @@ The source's durable contribution is [[MoralMentorshipTalentCultivation|人师�
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the 164 CE Guo Tai mentorship layer immediately before Hanji 862's Huang Yun and Qiu Xiang branch.
+- No settled contradiction with existing wiki pages was found. This source backfills the 164 CE Guo Tai mentorship layer immediately before 汉纪 862's Huang Yun and Qiu Xiang branch.
 - Transcript normalization: "深图潘" is normalized to [[ShentuPanLateHan|申屠蟠]], "宇城" to [[YuChengLateHan|庾乘]], "左员" to [[ZuoYuanLateHan|左原]], "徐志" to [[XuZhiLateHan|徐稚]], "黄云" to [[HuangYunLateHan|黄允]], and "范胖" to [[FanPangLateHan|范滂]].
 - Scope caution: Guo Tai's tests and correction methods are preserved as this episode's late-Han teacher model, not as a universal prescription for modern pedagogy.

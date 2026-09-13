@@ -10,7 +10,7 @@ last_updated: 2026-08-29
 
 ## Overview
 
-姚光 / Yao Guang enters the wiki as Xuantu administrator in Hanji 797, first as the official who proposes attacking [[GoguryeoLateHan|Goguryeo]] during royal mourning and later as the victim of a forged-edict revenge plot. The page's current profile is therefore double-sided: Yao advocates opportunistic frontier punishment, yet his own death exposes how vulnerable local command obedience can be when private enemies counterfeit imperial authority.
+姚光 / Yao Guang enters the wiki as Xuantu administrator in 汉纪 797, first as the official who proposes attacking [[GoguryeoLateHan|Goguryeo]] during royal mourning and later as the victim of a forged-edict revenge plot. The page's current profile is therefore double-sided: Yao advocates opportunistic frontier punishment, yet his own death exposes how vulnerable local command obedience can be when private enemies counterfeit imperial authority.
 
 ## Current Profile
 
@@ -30,15 +30,15 @@ The later forged-edict case gives Yao a different profile. Yao Guang and [[FengH
 
 ## Evidence
 
-- Xuantu role: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] identifies Yao Guang as Xuantu administrator after Goguryeo's attack and royal succession.
-- Attack proposal: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Yao asks to attack Goguryeo during the king's mourning, with many court discussants approving.
-- Rejected plan: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Chen Zhong opposes the plan and Emperor An accepts the alternative.
-- Enemy formation: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says Yao Guang and Feng Huan repeatedly expose bad actors and make enemies.
-- Forged-edict death: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|Hanji 797]] says enemies forge an imperial command and Pang Fen executes Yao Guang.
+- Xuantu role: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] identifies Yao Guang as Xuantu administrator after Goguryeo's attack and royal succession.
+- Attack proposal: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says Yao asks to attack Goguryeo during the king's mourning, with many court discussants approving.
+- Rejected plan: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says Chen Zhong opposes the plan and Emperor An accepts the alternative.
+- Enemy formation: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says Yao Guang and Feng Huan repeatedly expose bad actors and make enemies.
+- Forged-edict death: [[zizhi-tongjian-hanji-797-gudai-zhongxiao-zhende-wufa-liangquan-ma-lru9shbwfwwr9lluhhd7-xjuall6|汉纪 797]] says enemies forge an imperial command and Pang Fen executes Yao Guang.
 
 ## Qualifications
 
-This page is bounded to Hanji 797. It does not establish Yao Guang's full career, whether his Goguryeo proposal was reckless in military terms, or how directly the same opponents in the forged-edict case connect to the earlier frontier debate. The source supports a narrower judgment: Yao is important because he sits at the junction of frontier opportunism, central ritual correction, and forged-command vulnerability.
+This page is bounded to 汉纪 797. It does not establish Yao Guang's full career, whether his Goguryeo proposal was reckless in military terms, or how directly the same opponents in the forged-edict case connect to the earlier frontier debate. The source supports a narrower judgment: Yao is important because he sits at the junction of frontier opportunism, central ritual correction, and forged-command vulnerability.
 
 ## What Changed
 

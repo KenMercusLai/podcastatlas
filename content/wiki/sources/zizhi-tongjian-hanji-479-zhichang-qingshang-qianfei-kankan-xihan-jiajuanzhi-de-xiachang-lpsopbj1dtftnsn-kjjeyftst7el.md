@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 1 / 43 BCE under [[HanYuandi|汉元帝]], immediately before the existing Hanji 480-483 Yongguang sequence. It centers [[JiaJuanzhiWesternHan|贾捐之]] and [[YangXingWesternHan|杨兴]], whose drunken mutual promotion scheme tries to praise [[ShiXianWesternHan|石显]] into a marquisate and use that favor to obtain the Shangshu Ling and Jingzhao Yin offices.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 1 / 43 BCE under [[HanYuandi|汉元帝]], immediately before the existing 汉纪 480-483 Yongguang sequence. It centers [[JiaJuanzhiWesternHan|贾捐之]] and [[YangXingWesternHan|杨兴]], whose drunken mutual promotion scheme tries to praise [[ShiXianWesternHan|石显]] into a marquisate and use that favor to obtain the Shangshu Ling and Jingzhao Yin offices.
 
 The durable synthesis is that anti-favorite speech and pro-favorite flattery are both dangerous when they reveal naked office-seeking. Jia Juanzhi's sharper punishment comes from a credibility collapse: after repeatedly attacking Shi Xian, he abruptly praises him and tries to bargain over senior appointments, touching [[HighAppointmentBargainingOverreach|高层任命越权交易]] and making both Shi Xian and Yuan treat him as a threat to ruler-controlled personnel authority.
 

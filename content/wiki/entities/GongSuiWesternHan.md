@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-龚遂 / Gong Sui enters the wiki through [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] as a Western Han official whose Bohai commandery governance becomes an exemplar of [[LivelihoodFirstPacification|民生优先安抚治理]] and [[HumaneLocalGovernance|仁厚地方治理]].
+龚遂 / Gong Sui enters the wiki through [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] as a Western Han official whose Bohai commandery governance becomes an exemplar of [[LivelihoodFirstPacification|民生优先安抚治理]] and [[HumaneLocalGovernance|仁厚地方治理]].
 
 ## Current Profile
 
@@ -30,26 +30,26 @@ His governing value appears in diagnosis and method. Gong Sui tells Xuan that Bo
 ## Evidence
 
 Early service and hardship:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui served Liu He and tearfully remonstrated with him.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Huo Guang spared Gong Sui from execution but punished him with convict labor, from which he was released after five years.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui served Liu He and tearfully remonstrated with him.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Huo Guang spared Gong Sui from execution but punished him with convict labor, from which he was released after five years.
 
 Bohai diagnosis:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Xuan first looked down on Gong Sui because he was old and slight.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui diagnosed Bohai's disorder as people lacking food while officials failed to care for them.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui asked whether he was being sent to defeat the people or pacify them.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Xuan first looked down on Gong Sui because he was old and slight.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui diagnosed Bohai's disorder as people lacking food while officials failed to care for them.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui asked whether he was being sent to defeat the people or pacify them.
 
 Relief and recovery:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui dismissed bandit-catching officials and told local authorities not to question people carrying farm tools.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says people quickly abandoned weapons, took up farming implements, and returned to cultivation.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says he opened granaries, promoted thrift, set household production expectations, inspected personally, and reduced cases after households regained food and livestock.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui dismissed bandit-catching officials and told local authorities not to question people carrying farm tools.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says people quickly abandoned weapons, took up farming implements, and returned to cultivation.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says he opened granaries, promoted thrift, set household production expectations, inspected personally, and reduced cases after households regained food and livestock.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 425. It does not reconstruct Gong Sui's full biography, exact Bohai tenure dates, the original Han Shu wording beyond the episode's retelling, or quantitative measures of crime reduction. The source treats 水衡都尉 as an honor and pension-like central role; that interpretation should remain source-scoped until supported elsewhere.
+This page is source-scoped to 汉纪 425. It does not reconstruct Gong Sui's full biography, exact Bohai tenure dates, the original Han Shu wording beyond the episode's retelling, or quantitative measures of crime reduction. The source treats 水衡都尉 as an honor and pension-like central role; that interpretation should remain source-scoped until supported elsewhere.
 
 ## What Changed
 
-- Created the entity from Hanji 425 as a Western Han livelihood-first local-governance exemplar.
+- Created the entity from 汉纪 425 as a Western Han livelihood-first local-governance exemplar.
 
 ## Relationships
 

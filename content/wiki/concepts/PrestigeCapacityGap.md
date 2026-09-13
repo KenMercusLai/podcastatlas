@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Prestige-Capacity Gap / 名望能力落差
 
-Prestige-capacity gap / 名望能力落差 is the source-scoped pattern [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|Hanji 1007]] draws from [[KongRong|孔融]]. Kong Rong has lineage prestige through [[Confucius|孔子]], childhood fame through the "让梨" story, literary standing, and the ambition to settle the late-Han disorder. The episode argues that those forms of reputation do not become administrative execution, military judgment, or crisis governance inside [[BeihaiCommandery|北海郡]].
+Prestige-capacity gap / 名望能力落差 is the source-scoped pattern [[zizhi-tongjian-hanji-1007-cong-shentong-dao-fuwang-kongrong-zhenshi-mianmu-puguang-lkiljj4yvl5fhslrc9gcxudxxklt|汉纪 1007]] draws from [[KongRong|孔融]]. Kong Rong has lineage prestige through [[Confucius|孔子]], childhood fame through the "让梨" story, literary standing, and the ambition to settle the late-Han disorder. The episode argues that those forms of reputation do not become administrative execution, military judgment, or crisis governance inside [[BeihaiCommandery|北海郡]].
 
 The concept differs from ordinary hypocrisy. The source does not say Kong Rong has no learning or fame; it says those assets are misconverted. Kong Rong can honor [[ZhengXuan|郑玄]] and receive people like [[ZuoChengzu|左承祖]] and [[LiuYixun|刘义逊]], but he does not turn respected people into usable advice. When Zuo Chengzu offers a realistic survival recommendation, Kong Rong kills him, making the gap between cultivated image and governing capacity politically visible.
 

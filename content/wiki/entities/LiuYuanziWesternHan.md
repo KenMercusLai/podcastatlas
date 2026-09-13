@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-刘原子 / Liu Yuanzi enters the wiki through [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] as the royal woman named in the accusation against [[LiuLiWesternHan|梁王刘立]]. The episode identifies her as Liu Li's aunt and as the wife of his maternal uncle Ren Bao, making the alleged relationship both a kinship taboo and a royal-house scandal.
+刘原子 / Liu Yuanzi enters the wiki through [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|汉纪 545]] as the royal woman named in the accusation against [[LiuLiWesternHan|梁王刘立]]. The episode identifies her as Liu Li's aunt and as the wife of his maternal uncle Ren Bao, making the alleged relationship both a kinship taboo and a royal-house scandal.
 
 ## Current Profile
 
@@ -27,18 +27,18 @@ Her page should therefore stay tightly bounded. The episode preserves her as an 
 
 ## Evidence
 
-- Kinship position: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] says Liu Yuanzi is the sister of Liu Li's father and thus Liu Li's aunt.
-- Marriage tie: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] says she is also the wife of Liu Li's maternal uncle Ren Bao.
-- Accusation role: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] says investigators accused Liu Li of adultery with Liu Yuanzi and requested execution under a "禽兽行" frame.
-- Gu Yong's plausibility challenge: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|Hanji 545]] says Gu Yong doubted she would willingly expose a disgrace involving her brother's son.
+- Kinship position: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|汉纪 545]] says Liu Yuanzi is the sister of Liu Li's father and thus Liu Li's aunt.
+- Marriage tie: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|汉纪 545]] says she is also the wife of Liu Li's maternal uncle Ren Bao.
+- Accusation role: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|汉纪 545]] says investigators accused Liu Li of adultery with Liu Yuanzi and requested execution under a "禽兽行" frame.
+- Gu Yong's plausibility challenge: [[zizhi-tongjian-hanji-545-xihan-huangzu-jingtian-dagua-lvdplebjdtlav7kywaxvevmbtx6x|汉纪 545]] says Gu Yong doubted she would willingly expose a disgrace involving her brother's son.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 545. It does not settle Liu Yuanzi's full genealogy, title history, marriage chronology, testimony, actual conduct, or the legal truth of the accusation. The source's key point is procedural and political: her name makes the case explosive, while Gu Yong's memorial keeps the accusation from becoming settled fact.
+This page is source-scoped to 汉纪 545. It does not settle Liu Yuanzi's full genealogy, title history, marriage chronology, testimony, actual conduct, or the legal truth of the accusation. The source's key point is procedural and political: her name makes the case explosive, while Gu Yong's memorial keeps the accusation from becoming settled fact.
 
 ## What Changed
 
-- Created the page from Hanji 545's Liang king accusation and Gu Yong's procedural skepticism.
+- Created the page from 汉纪 545's Liang king accusation and Gu Yong's procedural skepticism.
 
 ## Relationships
 

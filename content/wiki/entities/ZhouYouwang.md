@@ -42,7 +42,7 @@ Myth-and-reception qualification:
 The page does not yet synthesize a full account of Western Zhou's fall. Shen Hou, Quanrong, Zeng, Bao, and the historicity of the beacon-fire story remain source-scoped here.
 
 ## What Changed
-- Migrated the page to `synthesis-v1` using its existing Zhouji 10 source plus Hanji 601-2.
+- Migrated the page to `synthesis-v1` using its existing Zhouji 10 source plus 汉纪 601-2.
 - Added Bao Si and beacon-fire reception while qualifying the "一笑亡国" causal shortcut.
 
 ## Relationships

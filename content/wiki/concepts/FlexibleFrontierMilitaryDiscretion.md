@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Current Synthesis
 
-Hanji 714 grounds the concept in [[LiuXiu|光武帝刘秀]]'s Jianwu 12-13 frontier edict. The court tells border officials that if their troops are insufficient, they should defend; when pursuing enemies, they should decide distance according to actual enemy conditions and not be trapped by the harsh "逗留法" frame.
+汉纪 714 grounds the concept in [[LiuXiu|光武帝刘秀]]'s Jianwu 12-13 frontier edict. The court tells border officials that if their troops are insufficient, they should defend; when pursuing enemies, they should decide distance according to actual enemy conditions and not be trapped by the harsh "逗留法" frame.
 
 The point is not permissiveness for its own sake. The same episode includes [[MaYuanEasternHan|Ma Yuan]]'s calm rejection of a false Qiang-panic mobilization and [[MaWuEasternHan|Ma Wu]]'s defensive deployment at the Hutuo River. The concept therefore captures a practical frontier-management rule: discipline remains, but punishment and pursuit must not force irrational exposure.
 
@@ -28,10 +28,10 @@ The point is not permissiveness for its own sake. The same episode includes [[Ma
 
 ## Evidence
 
-- Defensive discretion: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says Liu Xiu orders frontier officials to defend when troop strength is insufficient.
-- Pursuit discretion: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] says pursuit should be adjusted to enemy circumstances rather than fixed-distance expectations.
-- Anti-mechanical punishment: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] explains that Liu Xiu does not want harsh delay law to override practical judgment.
-- Local judgment parallel: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|Hanji 714]] presents Ma Yuan rejecting a panic-driven closure and mobilization request because he judges the Qiang will not return.
+- Defensive discretion: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says Liu Xiu orders frontier officials to defend when troop strength is insufficient.
+- Pursuit discretion: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] says pursuit should be adjusted to enemy circumstances rather than fixed-distance expectations.
+- Anti-mechanical punishment: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] explains that Liu Xiu does not want harsh delay law to override practical judgment.
+- Local judgment parallel: [[zizhi-tongjian-hanji-714-shi-shui-di-yi-ge-han-chu-nan-er-dang-ma-ge-guo-shi-lpkqxrl3dsok4ui0lij4c3x8zfpi|汉纪 714]] presents Ma Yuan rejecting a panic-driven closure and mobilization request because he judges the Qiang will not return.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The source does not prove a formal law code revision or a general abolition of m
 
 ## What Changed
 
-- Created the concept from Hanji 714's frontier edict and Ma Yuan judgment parallel.
+- Created the concept from 汉纪 714's frontier edict and Ma Yuan judgment parallel.
 
 ## Related Concepts
 

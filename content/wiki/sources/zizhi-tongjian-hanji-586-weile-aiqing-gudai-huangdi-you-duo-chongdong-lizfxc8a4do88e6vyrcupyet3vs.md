@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly follows [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|Hanji 585]] by showing [[HanAidi|汉哀帝]] moving from intimate overfavor toward procedural fabrication for [[DongXian|董贤]]. In Jianping 4 / 3 BCE, Aidi wants to enfeoff Dong Xian but lacks a legitimate merit basis, so [[FuJiaWesternHan|傅嘉]] proposes rewriting the Dongping king Liu Yun accusation record to make Dong Xian appear as one of the meritorious informants alongside Xifu Gong and Sun Chong.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode directly follows [[zizhi-tongjian-hanji-585-ta-yu-ta-de-aiqing-keyi-duo-fuza-lltwzxxbjedik65yonehtfaeefsa|汉纪 585]] by showing [[HanAidi|汉哀帝]] moving from intimate overfavor toward procedural fabrication for [[DongXian|董贤]]. In Jianping 4 / 3 BCE, Aidi wants to enfeoff Dong Xian but lacks a legitimate merit basis, so [[FuJiaWesternHan|傅嘉]] proposes rewriting the Dongping king Liu Yun accusation record to make Dong Xian appear as one of the meritorious informants alongside Xifu Gong and Sun Chong.
 
 The durable synthesis is that Aidi's private affection now bends the evidentiary and reward system. Dong Xian first receives Guannei Hou status through altered merit attribution, and when Aidi later seeks formal marquis status, [[WangJiaWesternHan|王嘉]] and [[JiaYanWesternHan|贾延]] do not merely say no: they urge public examination of the record by high officials and scholars so that any reward rests on visible procedure and does not leave the emperor alone with public resentment. Aidi finally bypasses that caution by issuing an edict that scolds the court, credits Dong Xian and others with discovering rebellion, and enfeoffs Dong Xian as Gaoan Hou.
 
@@ -46,5 +46,5 @@ The durable synthesis is that Aidi's private affection now bends the evidentiary
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source fits after Hanji 585's Dong Xian origin and before Hanji 588's Bao Xuan public-suffering memorial, Hanji 591-1's Xiongnu illness-delay crisis, and Hanji 592-599's Wang Jia remonstrance sequence.
+- Chronology qualification: this source fits after 汉纪 585's Dong Xian origin and before 汉纪 588's Bao Xuan public-suffering memorial, 汉纪 591-1's Xiongnu illness-delay crisis, and 汉纪 592-599's Wang Jia remonstrance sequence.
 - Scope caution: the episode does not settle the complete Dongping king Liu Yun case record, the exact documentary alteration mechanics, Sun Chong's full identity, all rewarded persons' later careers, or Dong Xian's inner role in the fabricated merit claim.

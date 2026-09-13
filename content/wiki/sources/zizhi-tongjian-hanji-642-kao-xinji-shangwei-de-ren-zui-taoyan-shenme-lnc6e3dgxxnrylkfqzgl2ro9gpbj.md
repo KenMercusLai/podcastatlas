@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an early 10 CE [[WangMang|王莽]] layer between [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|Hanji 641]] and [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|Hanji 643]]. It shows [[XinDynasty|新朝]] mandate-sign politics reversing after accession: the fuming or omen reports that helped Wang Mang gain the throne become threats once officials and commoners keep fabricating them for reward.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an early 10 CE [[WangMang|王莽]] layer between [[zizhi-tongjian-hanji-641-bi-zhi-gaige-ruhe-daozhi-wangmang-wanjie-bufu-liktnv0uewxo8awbo-m703jx8mhn|汉纪 641]] and [[zizhi-tongjian-hanji-643-weihuo-zhengfa-xiongnu-weihe-hui-bei-bishi-lr-5-qxjm4fqlirvwhdwelo1elg5|汉纪 643]]. It shows [[XinDynasty|新朝]] mandate-sign politics reversing after accession: the fuming or omen reports that helped Wang Mang gain the throne become threats once officials and commoners keep fabricating them for reward.
 
 The central case is the [[ZhenFengXinOfficial|甄丰]] and [[ZhenXunXinOfficial|甄寻]] affair. [[ChenChongXinOfficial|陈崇]] warns that uncontrolled fuming claims let opportunists chase rank and confuse Heaven's mandate; Wang Mang then restricts reports, but Zhen Xun uses the same device to seek marriage to [[EmpressWangPingdi|汉平帝王皇后]], provoking a purge that kills or punishes hundreds. The closing turn to fangshi Su Yue, costly ritual construction, and renewed anti-[[Xiongnu|匈奴]] ambition links fuming control to Wang Mang's wider mix of [[AuspiciousOmenPolitics|祥瑞政治]], court fear, and [[FumingMonopolyBackfire|符命垄断反噬]].
 

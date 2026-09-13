@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-郭清 / Guo Qing enters the wiki through [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] as the Xin Western Regions official who retaliates against [[YanqiKingdomXin|焉耆国]] by killing old and weak civilians, then receives reward from [[WangMang|王莽]].
+郭清 / Guo Qing enters the wiki through [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] as the Xin Western Regions official who retaliates against [[YanqiKingdomXin|焉耆国]] by killing old and weak civilians, then receives reward from [[WangMang|王莽]].
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ The defining event is retaliatory rather than victorious. The episode says Guo Q
 
 ## Evidence
 
-- Co-dispatch: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Guo Qing is sent west with Wang Jun and Li Chong.
-- Delayed arrival: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Guo Qing and He Feng arrive later and realize Wang Jun's troops have not returned.
-- Retaliatory killing: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Guo Qing attacks and kills Yanqi's old and weak civilians.
-- Reward: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Wang Mang rewards him and grants the "剿胡子" title.
+- Co-dispatch: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Guo Qing is sent west with Wang Jun and Li Chong.
+- Delayed arrival: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Guo Qing and He Feng arrive later and realize Wang Jun's troops have not returned.
+- Retaliatory killing: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Guo Qing attacks and kills Yanqi's old and weak civilians.
+- Reward: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Wang Mang rewards him and grants the "剿胡子" title.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The page records the episode's atrocity and reward claim without reconstructing 
 
 ## What Changed
 
-- Created the page from Hanji 652 as a frontier-retaliation and reward case.
+- Created the page from 汉纪 652 as a frontier-retaliation and reward case.
 
 ## Relationships
 

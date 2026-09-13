@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # Promise Credibility and Talent Retention / 承诺信用与人才流失
 
-Promise credibility and talent retention / 承诺信用与人才流失 is the leadership pattern [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] extracts from [[YuanShu|袁术]]'s treatment of [[SunCe|孙策]]. Yuan Shu can command offices and use Sun Ce's military ability, but he repeatedly promises commandery rewards and gives them to others after Sun Ce has relied on the promise.
+Promise credibility and talent retention / 承诺信用与人才流失 is the leadership pattern [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|汉纪 983]] extracts from [[YuanShu|袁术]]'s treatment of [[SunCe|孙策]]. Yuan Shu can command offices and use Sun Ce's military ability, but he repeatedly promises commandery rewards and gives them to others after Sun Ce has relied on the promise.
 
 The episode's concrete chain runs through [[JiujiangCommandery|九江郡]] and [[LujiangCommandery|庐江郡]]. Yuan Shu first promises Sun Ce Jiujiang and appoints [[ChenJiLateHan|陈纪]] instead. He then promises Lujiang if Sun Ce defeats [[LuKangLateHan|陆康]], but appoints [[LiuXunLateHan|刘勋]] after the victory. The repeated reversal makes Sun Ce's later exit from Yuan Shu intelligible as a trust failure, not only as ambition.
 
@@ -28,4 +28,4 @@ The concept also differs from [[TalentAttractionThroughRespect|礼贤下士式�
 - [[JiujiangCommandery|九江郡]], [[ChenJiLateHan|陈纪]], [[LujiangCommandery|庐江郡]], [[LuKangLateHan|陆康]], and [[LiuXunLateHan|刘勋]] - concrete promise and reversal chain.
 - [[SmallTrustBuildsLargeTrust|小信诚则大信立]] - broader statecraft credibility frame.
 - [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[TalentAsStateTreasure|以贤臣为宝]], and [[RewardAllocationBacklash|分配反噬]] - adjacent talent, reward, and retention concepts.
-- [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|Hanji 992]] and [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] - later episodes where Sun Ce's departure and open break with Yuan Shu become operational and political.
+- [[zizhi-tongjian-hanji-992-luanshi-you-duo-kepa-jiemi-changan-de-xuese-mengyan-ltuxzrb-1x5y2ctwo4drggxn5stz|汉纪 992]] and [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|汉纪 1002]] - later episodes where Sun Ce's departure and open break with Yuan Shu become operational and political.

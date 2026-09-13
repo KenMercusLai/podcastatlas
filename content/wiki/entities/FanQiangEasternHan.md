@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-范羌 / Fan Qiang is the Eastern Han frontier officer whose Hanji 746 role is defined by rescue under extreme risk. Because he had previously followed [[GengGongEasternHan|Geng Gong]], he refuses to abandon him when other commanders judge the route too dangerous.
+范羌 / Fan Qiang is the Eastern Han frontier officer whose 汉纪 746 role is defined by rescue under extreme risk. Because he had previously followed [[GengGongEasternHan|Geng Gong]], he refuses to abandon him when other commanders judge the route too dangerous.
 
 ## Current Profile
 
-Hanji 746 places Fan Qiang in Wang Meng's army when the force is preparing to return east. Geng Gong is still trapped in an isolated frontier city under Northern Xiongnu pressure, and Fan insists on going to rescue him because of their prior command relationship.
+汉纪 746 places Fan Qiang in Wang Meng's army when the force is preparing to return east. Geng Gong is still trapped in an isolated frontier city under Northern Xiongnu pressure, and Fan insists on going to rescue him because of their prior command relationship.
 
 The source stresses cost and immediacy. Other commanders are afraid of the danger, but they assign Fan two thousand troops. He takes the northern mountain route through snow described as more than a zhang deep and reaches the defenders at night.
 
@@ -30,11 +30,11 @@ The rescue gives the episode its emotional proof of followership. Geng Gong's re
 
 ## Evidence
 
-- Prior relationship: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Fan Qiang had previously followed Geng Gong and therefore insists on rescuing him.
-- Risk disagreement: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says other commanders consider the rescue too dangerous and do not dare go.
-- Relief force and route: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says Fan receives two thousand troops and rides through a northern mountain route with very deep snow.
-- Arrival scene: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] describes Fan calling to the defenders that Han troops have come, after which they open the gate, embrace, cheer, and weep.
-- Costly withdrawal: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|Hanji 746]] says only thirteen of the original twenty-six defenders reach Yumen after fighting during the retreat.
+- Prior relationship: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|汉纪 746]] says Fan Qiang had previously followed Geng Gong and therefore insists on rescuing him.
+- Risk disagreement: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|汉纪 746]] says other commanders consider the rescue too dangerous and do not dare go.
+- Relief force and route: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|汉纪 746]] says Fan receives two thousand troops and rides through a northern mountain route with very deep snow.
+- Arrival scene: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|汉纪 746]] describes Fan calling to the defenders that Han troops have come, after which they open the gate, embrace, cheer, and weep.
+- Costly withdrawal: [[zizhi-tongjian-hanji-746-shenmeyang-de-lingdao-zhide-bei-sixintata-zhuisui-lvhbdgfbc69t6sdw92k4dipii-rx|汉纪 746]] says only thirteen of the original twenty-six defenders reach Yumen after fighting during the retreat.
 
 ## Qualifications
 
@@ -42,7 +42,7 @@ The source gives Fan Qiang through one rescue episode, not a full biography. Wan
 
 ## What Changed
 
-- Created Fan Qiang as the rescuer in the Hanji 746 Geng Gong episode.
+- Created Fan Qiang as the rescuer in the 汉纪 746 Geng Gong episode.
 - Framed his action as a positive rescue-reciprocity case rather than a general biography.
 
 ## Relationships

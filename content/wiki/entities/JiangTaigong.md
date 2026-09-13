@@ -22,7 +22,7 @@ The same source extends his later Zhou role beyond the conquest. After Zhou Wuwa
 
 [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy]] adds a later reception branch through [[TaigongBingfa|《太公兵法》]]. In the source's Zhang Liang story, [[HuangshiGong|黄石公]] gives the book to [[ZhangLiang|张良]], making Jiang Taigong's strategic authority part of Zhang Liang's transformation from anti-Qin avenger to future counselor.
 
-[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] adds a Han Xin reception branch. The episode presents Jiang Taigong as one of [[HanXin|韩信]]'s admired models, linking Han Xin's future military imagination to an older founder-strategist lineage rather than only to innate battlefield talent.
+[[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|汉纪 145 part 2]] adds a Han Xin reception branch. The episode presents Jiang Taigong as one of [[HanXin|韩信]]'s admired models, linking Han Xin's future military imagination to an older founder-strategist lineage rather than only to innate battlefield talent.
 
 ## Connections
 - [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] - source episode.
@@ -33,4 +33,4 @@ The same source extends his later Zhou role beyond the conquest. After Zhou Wuwa
 - [[zizhi-tongjian-qinji-102-1-lvbuwei-shi-jiangziya-houren-lveg-wsmggroaxjsnxopaevexqod|Qinji 102-1]], [[LuBuwei|吕不韦]], [[ZhouWenwang|周文王]], [[ZhouWuwang|周武王]], [[ZhouGong|周公]], and [[LateBloomingTalent|大器晚成式人才显现]] - genealogy claim, recognition story, Zhou founding role, and life-course concept.
 - [[YaoJia|姚贾]] and [[zizhi-tongjian-qinji-112-3-hanfei-yu-yaojia-lunzhan-qinwang-dang-caipan-ljxxlok4uh-ajjirmolybodlspv9|Qinji 112-3]] - precedent used to defend low-origin talent against Han Fei's attack.
 - [[TaigongBingfa|《太公兵法》]], [[HuangshiGong|黄石公]], [[ZhangLiang|张良]], and [[zizhi-tongjian-qinji-123-2-gudai-shiqi-de-daochamen-daodi-you-duo-weixian-lgcknwubwm3uzqmzgbgdlxlvcwxy|Qinji 123-2]] - strategic-text reception in the Zhang Liang bridge encounter.
-- [[HanXin|韩信]], [[SunziBingfa|《孙子兵法》]], and [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|Hanji 145 part 2]] - model-strategist branch in Han Xin's early character explanation.
+- [[HanXin|韩信]], [[SunziBingfa|《孙子兵法》]], and [[zizhi-tongjian-hanji-145-junshi-qicai-hanxin-bolan-zhuangkuo-de-yisheng-2-npgife56ltayww2wt4wo-fiwo-ep|汉纪 145 part 2]] - model-strategist branch in Han Xin's early character explanation.

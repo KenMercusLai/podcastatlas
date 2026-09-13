@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 1 / 43 BCE under [[HanYuandi|汉元帝]], between [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] and [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|Hanji 477]]. It moves from a modern "立身之本" workplace lesson to [[KongBaWesternHan|孔霸]], a twelfth-generation descendant of [[Confucius|孔子]] and former teacher of Han Yuandi, who accepts honor but repeatedly refuses the chancellorship-level path.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 1 / 43 BCE under [[HanYuandi|汉元帝]], between [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] and [[zizhi-tongjian-hanji-477-xihan-shouwei-jianchen-da-huanguan-shi-ruhe-raoluan-chaozheng-de-lq_tjdwttakvkciban4sptyyhuhb|汉纪 477]]. It moves from a modern "立身之本" workplace lesson to [[KongBaWesternHan|孔霸]], a twelfth-generation descendant of [[Confucius|孔子]] and former teacher of Han Yuandi, who accepts honor but repeatedly refuses the chancellorship-level path.
 
 The durable synthesis is that not every promotion is an opportunity. The host treats Kong Ba's refusal less as simple humility than as [[CoreStandingGroundPreservation|立身之本保全]] and [[HighOfficeRefusalAsRiskAvoidance|高位拒受式避险]]: the Kong family's durable resource is Confucian orthodox prestige, while high court office would expose Kong Ba to the unresolved Confucian-Legalist struggle, aristocratic hostility, and [[ShiXianWesternHan|石显]]-style eunuch power.
 

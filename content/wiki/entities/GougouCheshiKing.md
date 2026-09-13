@@ -10,7 +10,7 @@ last_updated: 2026-09-10
 
 ## Overview
 
-车师后王沽沟 / Gougou enters the wiki through [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] as the Later Cheshi ruler whose resistance to a Han road project, detention by Xu Pu, flight to [[Xiongnu|匈奴]], extradition, and public execution make him a central case in early Wang Mang-era frontier coercion.
+车师后王沽沟 / Gougou enters the wiki through [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] as the Later Cheshi ruler whose resistance to a Han road project, detention by Xu Pu, flight to [[Xiongnu|匈奴]], extradition, and public execution make him a central case in early Wang Mang-era frontier coercion.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ His wife Gu Zizhou interprets the detention through an earlier killing of a Ches
 
 ## Evidence
 
-- Infrastructure pressure: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] says Xu Pu's shorter Yumen Pass road would pass through Later Cheshi and create reception burdens.
-- Noncooperation and detention: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] says Gougou refuses to help verify the route and is detained.
-- Flight calculus: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] says Gu Zizhou warns that a previous Cheshi ruler had been killed by Han authorities and urges flight.
-- Extradition and execution: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|Hanji 613]] says the chanyu later hands Gougou over and the Han court beheads him before Western Regions rulers.
+- Infrastructure pressure: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] says Xu Pu's shorter Yumen Pass road would pass through Later Cheshi and create reception burdens.
+- Noncooperation and detention: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] says Gougou refuses to help verify the route and is detained.
+- Flight calculus: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] says Gu Zizhou warns that a previous Cheshi ruler had been killed by Han authorities and urges flight.
+- Extradition and execution: [[zizhi-tongjian-hanji-613-quanli-kuangchao-jiemi-wangmang-de-tiexue-shouwan-lgfzc3ypqizddsmd6mvaasb1dxsd|汉纪 613]] says the chanyu later hands Gougou over and the Han court beheads him before Western Regions rulers.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This is a one-source page. It does not provide a full biography, settle the exac
 
 ## What Changed
 
-- Created the page from Hanji 613's 2 CE Later Cheshi flight-and-execution case.
+- Created the page from 汉纪 613's 2 CE Later Cheshi flight-and-execution case.
 
 ## Relationships
 

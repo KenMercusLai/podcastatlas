@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]]'s [[HanChengdi|汉成帝]] heir-killing accusation sequence and supplies the [[XuMeirenWesternHan|徐美人]] half of [[XieGuangWesternHan|谢光]]'s 6 BCE report to [[HanAidi|汉哀帝]]. It follows Xu Meiren's pregnancy, [[ZhaoHedeWesternHan|赵合德]]'s angry pressure on Chengdi, the sealed box allegedly containing a child corpse, and [[JiWuWesternHan|纪武]]'s later memory of palace women who bore imperial children being killed or forced into abortion.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]]'s [[HanChengdi|汉成帝]] heir-killing accusation sequence and supplies the [[XuMeirenWesternHan|徐美人]] half of [[XieGuangWesternHan|谢光]]'s 6 BCE report to [[HanAidi|汉哀帝]]. It follows Xu Meiren's pregnancy, [[ZhaoHedeWesternHan|赵合德]]'s angry pressure on Chengdi, the sealed box allegedly containing a child corpse, and [[JiWuWesternHan|纪武]]'s later memory of palace women who bore imperial children being killed or forced into abortion.
 
 The durable synthesis is that this episode deepens the accusation while also adding a source-internal doubt. The report presents a terrifying chain of consort pressure, imperial messaging, corpse transfer, sealed burial, and witness fear, but the host flags an oddity: if Chengdi truly wanted to hide the killing, explicitly telling Ji Wu that the box contained a child corpse made the secrecy mechanism strangely leaky.
 
@@ -41,7 +41,7 @@ The durable synthesis is that this episode deepens the accusation while also add
 - [[HanChengdi|汉成帝]], [[XuMeirenWesternHan|徐美人]], [[ZhaoHedeWesternHan|赵合德]], and [[SecretImperialInfantSuppression|秘密皇子压制]] - the episode adds a second missing-child case to the Chengdi accusation sequence.
 - [[XieGuangWesternHan|谢光]], [[HanAidi|汉哀帝]], and [[PoliticalCaseEvidenceSkepticism|政治案件证据怀疑]] - Xie Guang's report remains serious but internally puzzling and politically consequential.
 - [[JiWuWesternHan|纪武]], [[WuQiuzunWesternHan|武秋尊]], and [[PalaceAccusationVerification|宫廷指控核验]] - witness fear, sealed evidence, and testimony chains become central to how the case can or cannot be checked.
-- [[ZhaoFeiyanWesternHan|赵飞燕]], [[ZhaoHedeWesternHan|赵合德]], and [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - the source supplies grave accusation material that later Hanji 573 will qualify rather than simply discard.
+- [[ZhaoFeiyanWesternHan|赵飞燕]], [[ZhaoHedeWesternHan|赵合德]], and [[GenderedConsortScapegoating|红颜祸水式替罪叙事]] - the source supplies grave accusation material that later 汉纪 573 will qualify rather than simply discard.
 - [[WesternHanDynasty|西汉]] and [[DynasticLegitimacyBackfire|王朝合法性回旋镖]] - Chengdi's heir failure becomes a posthumous legitimacy and factional-cleanup problem for Aidi's court.
 
 ## Contradictions

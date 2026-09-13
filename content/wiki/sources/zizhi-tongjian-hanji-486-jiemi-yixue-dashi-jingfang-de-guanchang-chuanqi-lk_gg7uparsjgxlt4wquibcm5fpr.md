@@ -9,7 +9,7 @@ duration: "645"
 ---
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the [[JingFang|京房]] sequence before [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|Hanji 487]] and [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|Hanji 488]]. It explains Jing Fang's Yi-learning lineage, [[HanYuandi|汉元帝]]'s early trust in his disaster-omen interpretations, the first court debate over the [[KaogongfaReformBacklash|kaogong]] proposal, and the private conversation in which Jing Fang pushes Yuan to ask whether the trusted inner power around him is corrupt. The episode ends with the target becoming clear as [[ShiXianWesternHan|石显]], setting up the access-stripping and death-case episodes that follow.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the [[JingFang|京房]] sequence before [[zizhi-tongjian-hanji-487-xiang-bubugao-sheng-bixu-dongdian-zhichang-boyilun-llyn3gebws-gkmy8bavltcugrbet|汉纪 487]] and [[zizhi-tongjian-hanji-488-yixue-dashi-jingfang-ruhe-shenxian-bisi-ju-llf_4yvk8urtkgidnj2qhvca3vah|汉纪 488]]. It explains Jing Fang's Yi-learning lineage, [[HanYuandi|汉元帝]]'s early trust in his disaster-omen interpretations, the first court debate over the [[KaogongfaReformBacklash|kaogong]] proposal, and the private conversation in which Jing Fang pushes Yuan to ask whether the trusted inner power around him is corrupt. The episode ends with the target becoming clear as [[ShiXianWesternHan|石显]], setting up the access-stripping and death-case episodes that follow.
 
 ## Key Claims
 - Jing Fang's danger begins inside his strength: he turns Yi-learning and disaster interpretation into political diagnosis, making him useful to Yuan but exposed once the diagnosis points at court power.
@@ -34,4 +34,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens the [
 - [[WuluChongzongWesternHan|五鹿充宗]], [[ZhengHongWesternHan|郑弘]], and Zhou Kan - surrounding official actors in the first kaogong debate and Shi Xian power background.
 
 ## Contradictions
-- No settled contradiction found. The source qualifies Hanji 487 and Hanji 488 by showing an earlier stage: before Jing Fang loses capital access or is exposed through Zhang Bo, he has already made kaogong a public bureaucratic problem and has privately pointed Yuan toward Shi Xian as the trusted insider behind disorder.
+- No settled contradiction found. The source qualifies 汉纪 487 and 汉纪 488 by showing an earlier stage: before Jing Fang loses capital access or is exposed through Zhang Bo, he has already made kaogong a public bureaucratic problem and has privately pointed Yuan toward Shi Xian as the trusted insider behind disorder.

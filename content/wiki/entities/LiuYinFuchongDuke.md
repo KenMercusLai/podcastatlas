@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-刘音 / Liu Yin enters the wiki through [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] as the former Jiaodong king later recast by [[WangMang|王莽]] as Fuchong Duke, and as the Liu royal kinsman who refuses to join [[LiuKuaiXinRebel|刘快]]'s failed uprising.
+刘音 / Liu Yin enters the wiki through [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] as the former Jiaodong king later recast by [[WangMang|王莽]] as Fuchong Duke, and as the Liu royal kinsman who refuses to join [[LiuKuaiXinRebel|刘快]]'s failed uprising.
 
 ## Current Profile
 
@@ -28,14 +28,14 @@ When Liu Kuai attacks Jimo, Liu Yin closes the city gates and imprisons himself.
 
 ## Evidence
 
-- Status transition: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] identifies Liu Yin as the former Jiaodong king later titled Fuchong Duke under Wang Mang.
-- Defensive refusal: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] says Liu Yin shuts Jimo's gates and imprisons himself when Liu Kuai attacks.
-- Pardon and reward: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] says Wang Mang pardons Liu Yin and expands his fief to ten thousand households and one hundred li square.
-- Interpretive role: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|Hanji 636]] uses Liu Yin as a contrast to Liu Kuai's failed rebellion.
+- Status transition: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] identifies Liu Yin as the former Jiaodong king later titled Fuchong Duke under Wang Mang.
+- Defensive refusal: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] says Liu Yin shuts Jimo's gates and imprisons himself when Liu Kuai attacks.
+- Pardon and reward: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] says Wang Mang pardons Liu Yin and expands his fief to ten thousand households and one hundred li square.
+- Interpretive role: [[zizhi-tongjian-hanji-636-wangmang-dang-huangdi-hou-shenjing-cuoluan-le-lq-essrurb6jdefzjrfgoujw5uby|汉纪 636]] uses Liu Yin as a contrast to Liu Kuai's failed rebellion.
 
 ## Qualifications
 
-This page is bounded to Hanji 636. It does not reconstruct Liu Yin's full Jiaodong lineage, later career, local household base, or personal motives beyond the episode's survival reading. The reward details remain source-scoped until corroborating notes add them.
+This page is bounded to 汉纪 636. It does not reconstruct Liu Yin's full Jiaodong lineage, later career, local household base, or personal motives beyond the episode's survival reading. The reward details remain source-scoped until corroborating notes add them.
 
 ## What Changed
 

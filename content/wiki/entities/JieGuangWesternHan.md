@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-解光 / Jie Guang enters the wiki through [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] as one of the court figures [[HanAidi|汉哀帝]] consults while seeking a remedy for illness, disorder, and disaster pressure.
+解光 / Jie Guang enters the wiki through [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] as one of the court figures [[HanAidi|汉哀帝]] consults while seeking a remedy for illness, disorder, and disaster pressure.
 
 ## Current Profile
 
@@ -25,9 +25,9 @@ The source's evidence for Jie Guang is concise. He appears as part of the access
 
 ## Evidence
 
-- Consultation channel: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Aidi asks Jie Guang and Li Xun for ways to resolve illness and disorder.
-- Personnel proposal: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Xia Heliang's group later proposes that Jie Guang and Li Xun assist government.
-- Punishment boundary: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]] says Jie Guang and Li Xun are exiled to Dunhuang rather than executed.
+- Consultation channel: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Aidi asks Jie Guang and Li Xun for ways to resolve illness and disorder.
+- Personnel proposal: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Xia Heliang's group later proposes that Jie Guang and Li Xun assist government.
+- Punishment boundary: [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]] says Jie Guang and Li Xun are exiled to Dunhuang rather than executed.
 
 ## Qualifications
 
@@ -35,7 +35,7 @@ Jie Guang's office, full career, personal beliefs, and exact role in recommendin
 
 ## What Changed
 
-- Created from Hanji 581 as one of the named Aidi advisers attached to the Xia Heliang episode.
+- Created from 汉纪 581 as one of the named Aidi advisers attached to the Xia Heliang episode.
 
 ## Relationships
 

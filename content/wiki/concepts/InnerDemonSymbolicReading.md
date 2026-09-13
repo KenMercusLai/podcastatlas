@@ -17,7 +17,7 @@ Inner-demon symbolic reading is an interpretive method that treats external mons
 
 ## Current Synthesis
 
-In the paired Hanji 456-4 and Hanji 456-5 rereadings of [[JourneyToTheWestConqueringDemons|《西游降魔篇》]], the method turns a monster-conquest plot into a cultivation map. [[SunWukong|孙悟空]] is not only a powerful demon; he is also [[ChenXuanzangConqueringDemons|陈玄奘]]'s ideal and heart-direction when introduced, then ideal turned heart-demon when rushed and emotionally disordering. [[ShaWujing|沙和尚]], [[ZhuBajie|猪八戒]], and Sun Wukong become compassion, desire/fixation, and ideal/heart-demon within one mind, while the ring, golden hoop, children's songs, goose-leg lesson, and scripture mark the conversion of personal attachment into disciplined restraint.
+In the paired 汉纪 456-4 and 汉纪 456-5 rereadings of [[JourneyToTheWestConqueringDemons|《西游降魔篇》]], the method turns a monster-conquest plot into a cultivation map. [[SunWukong|孙悟空]] is not only a powerful demon; he is also [[ChenXuanzangConqueringDemons|陈玄奘]]'s ideal and heart-direction when introduced, then ideal turned heart-demon when rushed and emotionally disordering. [[ShaWujing|沙和尚]], [[ZhuBajie|猪八戒]], and Sun Wukong become compassion, desire/fixation, and ideal/heart-demon within one mind, while the ring, golden hoop, children's songs, goose-leg lesson, and scripture mark the conversion of personal attachment into disciplined restraint.
 
 ## Key Claims
 
@@ -44,7 +44,7 @@ The concept is useful only when the work or source reading sustains the mapping.
 
 ## What Changed
 
-- Added Hanji 456-5's earlier-scene support for the compassion/desire/affinity/ideal map and its distinction between seeing through illusion and subduing it.
+- Added 汉纪 456-5's earlier-scene support for the compassion/desire/affinity/ideal map and its distinction between seeing through illusion and subduing it.
 
 ## Related Concepts
 

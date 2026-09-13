@@ -10,11 +10,11 @@ last_updated: 2026-08-29
 
 ## Overview
 
-[[ZhangDanProtectorOfXiongnu|张躭 / Zhang Dan]] is the Xiongnu-protector commander who defeats [[CheNiuChanyu|Che Niu]] in Hanji 820's 140 CE Southern Xiongnu revolt. The current wiki treats him as a cleanup commander whose victory resolves one claimant but does not end [[WusiSouthernXiongnu|Wusi]]'s continuing resistance.
+[[ZhangDanProtectorOfXiongnu|张躭 / Zhang Dan]] is the Xiongnu-protector commander who defeats [[CheNiuChanyu|Che Niu]] in 汉纪 820's 140 CE Southern Xiongnu revolt. The current wiki treats him as a cleanup commander whose victory resolves one claimant but does not end [[WusiSouthernXiongnu|Wusi]]'s continuing resistance.
 
 ## Current Profile
 
-Hanji 820 brings Zhang Dan in after the Southern Xiongnu revolt spreads through Che Niu's rebel chanyu claim and alliances with Wuhuan, Qiang, and other frontier groups. Zhang Dan draws on Youzhou Wuhuan and local forces, defeats Che Niu at Mayi, and receives Che Niu's surrender.
+汉纪 820 brings Zhang Dan in after the Southern Xiongnu revolt spreads through Che Niu's rebel chanyu claim and alliances with Wuhuan, Qiang, and other frontier groups. Zhang Dan draws on Youzhou Wuhuan and local forces, defeats Che Niu at Mayi, and receives Che Niu's surrender.
 
 His success is bounded. The episode immediately notes that Wusi continues to work with Wuhuan, so Zhang Dan's result is a major partial resolution rather than a final pacification.
 
@@ -27,17 +27,17 @@ His success is bounded. The episode immediately notes that Wusi continues to wor
 
 ## Evidence
 
-- Mayi victory: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] says Zhang Dan defeats Che Niu at Mayi.
-- Surrender result: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] presents Che Niu's surrender as the immediate outcome.
-- Incomplete pacification: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] keeps Wusi active after Zhang Dan's victory.
+- Mayi victory: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] says Zhang Dan defeats Che Niu at Mayi.
+- Surrender result: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] presents Che Niu's surrender as the immediate outcome.
+- Incomplete pacification: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] keeps Wusi active after Zhang Dan's victory.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 820. The transcript form 张耽 is normalized here as 张躭.
+This page is source-bounded to 汉纪 820. The transcript form 张耽 is normalized here as 张躭.
 
 ## What Changed
 
-- Created Zhang Dan as a canonical page because Hanji 820 gives him a named command result in the Southern Xiongnu revolt.
+- Created Zhang Dan as a canonical page because 汉纪 820 gives him a named command result in the Southern Xiongnu revolt.
 
 ## Relationships
 

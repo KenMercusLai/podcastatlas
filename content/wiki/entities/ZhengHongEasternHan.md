@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-Zheng Hong is the Eastern Han minister whose current profile combines southern logistics, burden relief, frontier restitution, and anti-Dou caution. [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] now adds an earlier Da Sinong layer: he opens a safer Jiaozhi tribute route and later proposes tribute exemptions during drought, border alarm, and food shortage.
+Zheng Hong is the Eastern Han minister whose current profile combines southern logistics, burden relief, frontier restitution, and anti-Dou caution. [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] now adds an earlier Da Sinong layer: he opens a safer Jiaozhi tribute route and later proposes tribute exemptions during drought, border alarm, and food shortage.
 
 ## Current Profile
 
@@ -32,21 +32,21 @@ The later sources move him into court and frontier politics. He becomes Taiwei a
 
 ## Evidence
 
-- Jiaozhi route reform: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] records Zheng Hong opening mountain-road access through Lingling and Guiyang to avoid the dangerous Dongye sea route.
-- Tribute relief under crisis: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] has Zheng Hong advise tribute exemptions during drought, frontier alarm, and food shortage to reduce labor and expense.
-- Promotion and court role: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|Hanji 755]] presents Zheng Hong becoming Taiwei after Diwu Lun.
-- Xiongnu restitution and frontier caution: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] links Zheng Hong to debates over restoring Xiongnu hostages and resisting avoidable frontier escalation.
-- Anti-Dou warning pattern: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|Hanji 756]] also places him among officials whose caution helps frame later risks around Dou Xian.
+- Jiaozhi route reform: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] records Zheng Hong opening mountain-road access through Lingling and Guiyang to avoid the dangerous Dongye sea route.
+- Tribute relief under crisis: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] has Zheng Hong advise tribute exemptions during drought, frontier alarm, and food shortage to reduce labor and expense.
+- Promotion and court role: [[zizhi-tongjian-hanji-755-zhege-chaodai-huangshang-jiu-kaishi-guli-shengwa-le-lj7bdkxkdtjhpo469yxhskjyfdco|汉纪 755]] presents Zheng Hong becoming Taiwei after Diwu Lun.
+- Xiongnu restitution and frontier caution: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] links Zheng Hong to debates over restoring Xiongnu hostages and resisting avoidable frontier escalation.
+- Anti-Dou warning pattern: [[zizhi-tongjian-hanji-756-weishenme-quan-ni-de-rao-ren-chu-qie-rao-ren-ltn4tqzy1d-sodhjidncv8dyqxpj|汉纪 756]] also places him among officials whose caution helps frame later risks around Dou Xian.
 
 ## Qualifications
 
-- The page preserves the older source order while adding Hanji 753 at the end; the current synthesis is chronological in prose but canonical evidence order remains the frontmatter list.
+- The page preserves the older source order while adding 汉纪 753 at the end; the current synthesis is chronological in prose but canonical evidence order remains the frontmatter list.
 - Lingling, Guiyang, Dongye, exact route engineering details, and the tribute categories remain source-scoped.
-- Zheng Hong's advice is presented as accepted in Hanji 753, but the current evidence does not measure long-term administrative implementation.
+- Zheng Hong's advice is presented as accepted in 汉纪 753, but the current evidence does not measure long-term administrative implementation.
 
 ## What Changed
 
-- Added Hanji 753 as an earlier logistics and burden-relief layer.
+- Added 汉纪 753 as an earlier logistics and burden-relief layer.
 - Reframed Zheng Hong's later frontier caution as continuous with his earlier southern transport and tribute policy.
 - Added ties to Jiaozhi, route redesign, and household burden relief.
 

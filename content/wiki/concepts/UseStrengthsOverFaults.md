@@ -18,9 +18,9 @@ The concept does not say misconduct never matters. Its source-scoped claim is na
 
 [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa]] adds a sharper political version through [[GuanZhong|管仲]]. Guan Zhong is not merely flawed; he is a former enemy who tried to stop [[QiHuanGong|姜小白]] from taking power. [[BaoShuya|鲍叔牙]]'s recommendation asks the ruler to judge whether the talent's state-building value outweighs the personal and factional injury.
 
-[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]] adds the Chen Ping accusation version. [[WeiWuzhi|魏无知]] and [[ChenPing|陈平]] do not ask [[LiuBang|刘邦]] to ignore every concern; Chen Ping explains the concrete "受金" charge and offers to return the money if his plans lack value. Liu Bang's decision to keep and reward him makes the concept operate through proof of usefulness rather than through a claim that faults never matter.
+[[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|汉纪 154]] adds the Chen Ping accusation version. [[WeiWuzhi|魏无知]] and [[ChenPing|陈平]] do not ask [[LiuBang|刘邦]] to ignore every concern; Chen Ping explains the concrete "受金" charge and offers to return the money if his plans lack value. Liu Bang's decision to keep and reward him makes the concept operate through proof of usefulness rather than through a claim that faults never matter.
 
-[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] adds a defeated-adviser version through [[HanXin|韩信]] and [[LiZuoChe|李左车]]. Li Zuoche's defeat could disqualify him socially, but Han Xin treats his earlier correct advice as evidence of usable strategic judgment. The source therefore turns "defeated general" status into a context marker rather than a total verdict on ability.
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|汉纪 157 part 2]] adds a defeated-adviser version through [[HanXin|韩信]] and [[LiZuoChe|李左车]]. Li Zuoche's defeat could disqualify him socially, but Han Xin treats his earlier correct advice as evidence of usable strategic judgment. The source therefore turns "defeated general" status into a context marker rather than a total verdict on ability.
 
 ## Key Claims
 - Talent evaluation should separate role-critical strengths from lesser defects.
@@ -29,17 +29,17 @@ The concept does not say misconduct never matters. Its source-scoped claim is na
 - The lesson is bounded by context: wartime urgency changes the tradeoff but does not erase judgment.
 - The Guan Zhong case adds a ruler-level version: using a former enemy can be rational when the office requires scarce statecraft talent.
 - The episode treats Zisi's argument as "资治" material because it links moral evaluation to governing consequences.
-- Hanji 154 adds that preserving useful talent may require separating a concrete, explainable fault from an ungrounded smear.
+- 汉纪 154 adds that preserving useful talent may require separating a concrete, explainable fault from an ungrounded smear.
 
-- Hanji 157 part 2 adds that defeat does not necessarily invalidate counsel; a commander can separate a person's current defeated status from the quality of his earlier judgment.
+- 汉纪 157 part 2 adds that defeat does not necessarily invalidate counsel; a commander can separate a person's current defeated status from the quality of his earlier judgment.
 
 ## Connections
-- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[HanXin|韩信]], [[LiZuoChe|李左车]], and [[BailiXi|百里奚]] - defeated-adviser example of judging useful capacity rather than status alone.
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|汉纪 157 part 2]], [[HanXin|韩信]], [[LiZuoChe|李左车]], and [[BailiXi|百里奚]] - defeated-adviser example of judging useful capacity rather than status alone.
 - [[LiKe|李克]], [[WuQi|吴起]], [[WeiWenhou|魏文侯]], and [[WeiState|魏国]] - earlier Wu Qi case.
 - [[Zisi|子思]] - speaker of the argument.
 - [[GouBian|苟变]] - case through which the lesson is expressed.
 - [[WeiState|魏国]] and [[WeiWuhou|魏武侯]] - governance setting.
 - [[TransitionFitOverMerit]] and [[LegalistRulerTechnique]] - adjacent talent-and-rule concepts in the Ruiqi branch.
 - [[BaoShuya|鲍叔牙]], [[GuanZhong|管仲]], [[QiHuanGong|齐桓公]], and [[TalentReferralQuality|荐才层级质量]] - Zhouji 75-2 former-enemy talent-use branch.
-- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|Hanji 154]], [[ChenPing|陈平]], [[WeiWuzhi|魏无知]], [[LiuBang|刘邦]], and [[MoralSlanderReframing|道德诬陷焦点转移]] - explainable fault versus ungrounded scandal in wartime talent use.
+- [[zizhi-tongjian-hanji-154-diangu-chenping-daosao-lingyou-yinqing-li-c6ezwfpejcvbrpzojg-xv2ge8|汉纪 154]], [[ChenPing|陈平]], [[WeiWuzhi|魏无知]], [[LiuBang|刘邦]], and [[MoralSlanderReframing|道德诬陷焦点转移]] - explainable fault versus ungrounded scandal in wartime talent use.
 - [[WarringStatesPeriod|战国时期]] - competitive setting that raises the stakes of talent waste.

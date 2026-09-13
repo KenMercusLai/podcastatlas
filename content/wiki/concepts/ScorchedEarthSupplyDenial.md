@@ -14,7 +14,7 @@ Scorched-earth supply denial / 坚壁清野式断粮 is a military logistics pat
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] grounds the concept through [[ChenJunEasternHan|陈俊]] after [[LiuXiu|刘秀]] recovers from the Shunshui defeat. Liu Xiu has already resumed pursuit after the enemy withdraws at night, but Chen Jun reframes the problem: because the enemy plunders along the route, a light-cavalry screen can move ahead and make every settlement deny food.
+[[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] grounds the concept through [[ChenJunEasternHan|陈俊]] after [[LiuXiu|刘秀]] recovers from the Shunshui defeat. Liu Xiu has already resumed pursuit after the enemy withdraws at night, but Chen Jun reframes the problem: because the enemy plunders along the route, a light-cavalry screen can move ahead and make every settlement deny food.
 
 The strategy works because it turns the enemy's operating method against itself. A force that expects to live off local extraction loses momentum when defended settlements hold out and supplies are cleared. The source presents this as a way to win through logistics and civilian preparation rather than direct battlefield collision alone.
 
@@ -28,19 +28,19 @@ The strategy works because it turns the enemy's operating method against itself.
 
 ## Evidence
 
-- Enemy dependence on plunder: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says the retreating enemy plunders along the route toward Yuyang.
-- Forward screen: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] has Chen Jun propose sending light cavalry ahead of the enemy.
-- Fortify and clear: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says local people should strengthen walls and clear resources so the enemy gains no food.
-- Collapse mechanism: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] says the enemy scatters after failing to obtain supplies.
-- Accepted advice: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|Hanji 675]] records Liu Xiu adopting and later praising Chen Jun's plan.
+- Enemy dependence on plunder: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] says the retreating enemy plunders along the route toward Yuyang.
+- Forward screen: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] has Chen Jun propose sending light cavalry ahead of the enemy.
+- Fortify and clear: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] says local people should strengthen walls and clear resources so the enemy gains no food.
+- Collapse mechanism: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] says the enemy scatters after failing to obtain supplies.
+- Accepted advice: [[zizhi-tongjian-hanji-675-luanshi-fenzheng-zhizhong-liuxiu-ruhe-jueqi-lrvxu1q4-ysg4kfxkf25hswygfyo|汉纪 675]] records Liu Xiu adopting and later praising Chen Jun's plan.
 
 ## Counterevidence & Qualifications
 
-This concept currently rests on one source note. Hanji 675 does not give a full implementation record for every settlement, casualty figures, or the enemy's internal decision process. The concept is related to attrition and encirclement logistics, but it is narrower: it concerns moving ahead of an enemy to remove local supply access, not every case of siege starvation, defensive patience, or resource asymmetry.
+This concept currently rests on one source note. 汉纪 675 does not give a full implementation record for every settlement, casualty figures, or the enemy's internal decision process. The concept is related to attrition and encirclement logistics, but it is narrower: it concerns moving ahead of an enemy to remove local supply access, not every case of siege starvation, defensive patience, or resource asymmetry.
 
 ## What Changed
 
-- Added Hanji 675 as the grounding case for the wiki's first focused "坚壁清野" supply-denial concept.
+- Added 汉纪 675 as the grounding case for the wiki's first focused "坚壁清野" supply-denial concept.
 - Distinguished civilian-protective resource denial from broader fortified attrition and battlefield encirclement concepts.
 
 ## Related Concepts

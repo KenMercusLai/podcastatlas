@@ -45,5 +45,5 @@ The durable synthesis is that the case is not a clean innocent-victim story. The
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source clarifies the earlier Han Yanshou reference in Hanji 470 and the Sima Guang-backed execution-overreach criticism in Hanji 457.
+- No settled contradiction with existing wiki content was found. This source clarifies the earlier Han Yanshou reference in 汉纪 470 and the Sima Guang-backed execution-overreach criticism in 汉纪 457.
 - Scope caution: the episode's psychological reading of Xiao as jealous, insecure, or pleased after Han's death is the host's interpretation. Han Yanshou's exact legal liabilities, full East Commandery record, and complete original case documents remain source-scoped.

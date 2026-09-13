@@ -11,15 +11,15 @@ last_updated: 2026-09-12
 
 ## Overview
 
-薛广德 / Xue Guangde enters the wiki through [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] as a Western Han Yushi Dafu under [[HanYuandi|汉元帝]] whose loyal safety remonstrance succeeds only after [[ZhangMengWesternHan|张猛 / 张萌]] reframes it more gently. [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] adds his resignation and honored retirement after the same Yongguang 1 disaster pressure.
+薛广德 / Xue Guangde enters the wiki through [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] as a Western Han Yushi Dafu under [[HanYuandi|汉元帝]] whose loyal safety remonstrance succeeds only after [[ZhangMengWesternHan|张猛 / 张萌]] reframes it more gently. [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] adds his resignation and honored retirement after the same Yongguang 1 disaster pressure.
 
 ## Current Profile
 
 The source presents Xue Guangde as a learned official rather than a marginal scold. He is described as a specialist in the Lu tradition of the [[Shijing|《诗经》]], a teacher in Chu, a descendant of Xue Jian, and a court entrant supported by [[XiaoWangzhiWesternHan|萧望之]]. Soon after becoming Yushi Dafu, he uses his office to oppose Yuan's private leisure when famine and disaster have made imperial conduct politically exposed.
 
-His profile is defined by a tension between substantive loyalty and rhetorical overpressure. Xue first stops Yuan from staying at Ganquan to hunt by linking the emperor's leisure to famine-era public suffering. Later, he blocks the imperial carriage and threatens to die under the wheels if Yuan insists on crossing the river by boat. Hanji 475 does not treat the safety judgment as absurd; it treats the delivery as too coercive. Xue's warning needs Zhang Meng's face-saving restatement before Yuan accepts the safer bridge route.
+His profile is defined by a tension between substantive loyalty and rhetorical overpressure. Xue first stops Yuan from staying at Ganquan to hunt by linking the emperor's leisure to famine-era public suffering. Later, he blocks the imperial carriage and threatens to die under the wheels if Yuan insists on crossing the river by boat. 汉纪 475 does not treat the safety judgment as absurd; it treats the delivery as too coercive. Xue's warning needs Zhang Meng's face-saving restatement before Yuan accepts the safer bridge route.
 
-Hanji 476 adds the exit: after severe cold ruins crops and famine displaces the people, Xue resigns together with Yu Dingguo and Shi Gao. Yuan accepts and gives honor gifts, and the episode says Xue later hangs the bestowed carriage at his gate as a family honor.
+汉纪 476 adds the exit: after severe cold ruins crops and famine displaces the people, Xue resigns together with Yu Dingguo and Shi Gao. Yuan accepts and gives honor gifts, and the episode says Xue later hangs the bestowed carriage at his gate as a family honor.
 
 ## Key Characteristics
 
@@ -33,22 +33,22 @@ Hanji 476 adds the exit: after severe cold ruins crops and famine displaces the 
 
 ## Evidence
 
-- Background: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Xue Guangde was learned in Lu poetry, taught in Chu, and entered Yuan's court through Xiao Wangzhi's recommendation.
-- Ganquan hunting: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Xue urged Yuan not to hunt while Guandong people suffered famine and displacement.
-- River crossing: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Xue blocked the carriage, removed his cap, knocked his head against the vehicle, and threatened to die under the wheels.
-- Communication contrast: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Yuan accepted the bridge route after Zhang Meng gave the same advice in more acceptable language.
+- Background: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Xue Guangde was learned in Lu poetry, taught in Chu, and entered Yuan's court through Xiao Wangzhi's recommendation.
+- Ganquan hunting: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Xue urged Yuan not to hunt while Guandong people suffered famine and displacement.
+- River crossing: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Xue blocked the carriage, removed his cap, knocked his head against the vehicle, and threatened to die under the wheels.
+- Communication contrast: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Yuan accepted the bridge route after Zhang Meng gave the same advice in more acceptable language.
 
 Retirement:
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Xue resigns with Yu Dingguo and Shi Gao after severe cold, crop failure, famine, and displacement.
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Yuan gives the resigning officials a four-horse carriage and sixty jin of gold, and that Xue displays the carriage at his gate for his descendants.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says Xue resigns with Yu Dingguo and Shi Gao after severe cold, crop failure, famine, and displacement.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says Yuan gives the resigning officials a four-horse carriage and sixty jin of gold, and that Xue displays the carriage at his gate for his descendants.
 
 ## Qualifications
 
-This profile is source-scoped to Hanji 475 and Hanji 476. It does not settle Xue Guangde's full biography, the original classical text of his memorials, Yuan's private emotional reaction, or whether the physical risk of the river crossing was objectively high. The page records the communication reading and the later retirement note: loyal advice can still become counterproductive when it corners the listener, while resignation after disaster can still be converted into honorable family memory.
+This profile is source-scoped to 汉纪 475 and 汉纪 476. It does not settle Xue Guangde's full biography, the original classical text of his memorials, Yuan's private emotional reaction, or whether the physical risk of the river crossing was objectively high. The page records the communication reading and the later retirement note: loyal advice can still become counterproductive when it corners the listener, while resignation after disaster can still be converted into honorable family memory.
 
 ## What Changed
 
-- Added Hanji 476's disaster-era resignation and honor-gift layer to the Hanji 475 remonstrance profile.
+- Added 汉纪 476's disaster-era resignation and honor-gift layer to the 汉纪 475 remonstrance profile.
 
 ## Relationships
 

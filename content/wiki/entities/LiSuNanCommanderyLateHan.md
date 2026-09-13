@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 
 ## Current Profile
 
-Li Su enters [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] after southern unrest has widened from Changsha and neighboring commanderies into a Wuling Man attack toward Jiangling. When Ma Mu and Liu Du have already fled after defeat, Li Su chooses flight rather than local defense. His chief clerk Hu Shuang blocks the departure and argues that Nan Commandery still has enough neighboring cities and signal capacity to summon help.
+Li Su enters [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] after southern unrest has widened from Changsha and neighboring commanderies into a Wuling Man attack toward Jiangling. When Ma Mu and Liu Du have already fled after defeat, Li Su chooses flight rather than local defense. His chief clerk Hu Shuang blocks the departure and argues that Nan Commandery still has enough neighboring cities and signal capacity to summon help.
 
 The decisive feature is not only flight but the violent rejection of correction. Li Su kills Hu Shuang and flees, so the episode treats fear as a sequence: military pressure produces internal disorder, internal disorder becomes dereliction, and dereliction becomes violence against the person trying to restore duty. Emperor Huan executes Li Su in the marketplace, while Ma Mu and Liu Du receive reduced penalties.
 
@@ -28,10 +28,10 @@ The decisive feature is not only flight but the violent rejection of correction.
 
 ## Evidence
 
-- Distinct setting: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] places this Li Su in Nan Commandery during Huan-era Jingzhou unrest, not in the later Dong Zhuo/Lü Bu sequence.
-- Attempted flight: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Li Su prepares to flee while Wuling Man forces are threatening the Jiangling region.
-- Hu Shuang killing: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Hu Shuang tries to stop him and Li Su kills him before fleeing.
-- Punishment: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] records Li Su's execution and separates his punishment from the reduced penalties for Ma Mu and Liu Du.
+- Distinct setting: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] places this Li Su in Nan Commandery during Huan-era Jingzhou unrest, not in the later Dong Zhuo/Lü Bu sequence.
+- Attempted flight: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] says Li Su prepares to flee while Wuling Man forces are threatening the Jiangling region.
+- Hu Shuang killing: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] says Hu Shuang tries to stop him and Li Su kills him before fleeing.
+- Punishment: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] records Li Su's execution and separates his punishment from the reduced penalties for Ma Mu and Liu Du.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This page is intentionally disambiguated because `LiSuLateHan.md` already refers
 
 ## What Changed
 
-- Created a disambiguated Nan Commandery Li Su page from Hanji 856.
+- Created a disambiguated Nan Commandery Li Su page from 汉纪 856.
 - Kept this actor separate from the later Lü Bu/Niu Fu Li Su route.
 
 ## Relationships

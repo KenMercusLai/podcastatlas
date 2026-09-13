@@ -12,7 +12,7 @@ last_updated: 2026-08-25
 # 《资治通鉴·汉纪》953丨乱世之中，要不要讲究仁义？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|Hanji 954]] late-Han field through [[LiuBiao|刘表]]'s entry into [[Jingzhou|荆州]] and [[CaoCao|曹操]]'s first direct anti-[[DongZhuo|董卓]] action. It frames "仁义" as politically useful but not sufficient by itself: [[KuaiLiang|蒯良]] supplies the people-support argument, [[KuaiYue|蒯越]] supplies the harsher local-force absorption plan, and Liu Biao stabilizes Jingzhou by combining both. The Cao Cao branch shows the opposite coalition problem: even accurate judgment and a coherent [[StrategicPassControl|pass-control]] plan cannot move an [[AntiDongZhuoCoalition|反董卓联盟]] whose members preserve themselves, leaving [[BianshuiBattleLateHan|汴水之战]] and the [[SuanzaoCamp|酸枣大营]] breakup as an early case of [[CoalitionSelfPreservationFailure|联盟自保失灵]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-954-renxingbenshan-haishi-renxingbene-lkurz9dbb25jrjyl5c-rrahda39h|汉纪 954]] late-Han field through [[LiuBiao|刘表]]'s entry into [[Jingzhou|荆州]] and [[CaoCao|曹操]]'s first direct anti-[[DongZhuo|董卓]] action. It frames "仁义" as politically useful but not sufficient by itself: [[KuaiLiang|蒯良]] supplies the people-support argument, [[KuaiYue|蒯越]] supplies the harsher local-force absorption plan, and Liu Biao stabilizes Jingzhou by combining both. The Cao Cao branch shows the opposite coalition problem: even accurate judgment and a coherent [[StrategicPassControl|pass-control]] plan cannot move an [[AntiDongZhuoCoalition|反董卓联盟]] whose members preserve themselves, leaving [[BianshuiBattleLateHan|汴水之战]] and the [[SuanzaoCamp|酸枣大营]] breakup as an early case of [[CoalitionSelfPreservationFailure|联盟自保失灵]].
 
 ## Key Claims
 - The episode opens by asking whether "善良" or "仁义" matters in a chaotic age; its answer is pragmatic rather than sentimental, because benevolence must be tied to institutions, force, and timing.
@@ -39,5 +39,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[Chenggao|成皋]], [[Aocang|敖仓]], [[HeneiCommandery|河内郡]], [[Wuguan|武关]], and [[StrategicPassControl|兵家必争通道控制]] preserve Cao Cao's proposed operational solution.
 
 ## Contradictions
-- No settled contradiction with existing wiki content. This source backfills the sequence before and around Hanji 954-955 and supports the existing themes of Liu Biao's defensive Jingzhou governance and the anti-Dong coalition's structural fragility.
+- No settled contradiction with existing wiki content. This source backfills the sequence before and around 汉纪 954-955 and supports the existing themes of Liu Biao's defensive Jingzhou governance and the anti-Dong coalition's structural fragility.
 - Source-scope caution: the transcript appears to render several names phonetically or incorrectly, including "怀良/怀悦", "变水", and "形阳"; this page normalizes them cautiously to Kuai Liang/Kuai Yue, Bianshui, and Xingyang where the historical context is clear.

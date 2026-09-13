@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Ziwudao / 子午道 enters the wiki through [[zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt|Hanji 627-1]] as the road [[WangMang|王莽]] announces in 5 CE after invoking [[EmpressWangPingdi|汉平帝王皇后]]'s "子孙瑞."
+Ziwudao / 子午道 enters the wiki through [[zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt|汉纪 627-1]] as the road [[WangMang|王莽]] announces in 5 CE after invoking [[EmpressWangPingdi|汉平帝王皇后]]'s "子孙瑞."
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ The page remains narrow until more sources cover the route's construction, milit
 
 ## Evidence
 
-- Route description: [[zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt|Hanji 627-1]] says Ziwudao passes from Duling through the Zhongnan mountains toward Hanzhong.
-- Political announcement: [[zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt|Hanji 627-1]] says Wang Mang announced the road after citing Empress Wang's "子孙瑞."
-- Omen framing: [[zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt|Hanji 627-1]] makes the road part of reproductive-body omen politics.
+- Route description: [[zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt|汉纪 627-1]] says Ziwudao passes from Duling through the Zhongnan mountains toward Hanzhong.
+- Political announcement: [[zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt|汉纪 627-1]] says Wang Mang announced the road after citing Empress Wang's "子孙瑞."
+- Omen framing: [[zizhi-tongjian-hanji-627-1-nvxing-biting-dute-shijiao-jingqi-yinyu-beihou-de-lishi-zhihui-lqomjfejmglm9hylkomktx6rtbtt|汉纪 627-1]] makes the road part of reproductive-body omen politics.
 
 ## Qualifications
 
-Hanji 627-1 does not give engineering, cost, labor, military, or later-use detail for Ziwudao. The page should therefore remain an infrastructure-and-legitimacy stub until another source grounds expansion.
+汉纪 627-1 does not give engineering, cost, labor, military, or later-use detail for Ziwudao. The page should therefore remain an infrastructure-and-legitimacy stub until another source grounds expansion.
 
 ## What Changed
 
-- Created the page from Hanji 627-1 as a narrow route and infrastructure-politics node.
+- Created the page from 汉纪 627-1 as a narrow route and infrastructure-politics node.
 
 ## Relationships
 

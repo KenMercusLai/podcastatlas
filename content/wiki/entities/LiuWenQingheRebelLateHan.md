@@ -12,11 +12,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-刘文 / Liu Wen is a Qinghe rebel actor in [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]]. The source presents him as one of the people who claim [[LiuSuanLateHan|刘蒜]] should rule the realm, abduct [[XieHaoQingheLateHan|谢浩]], and help turn an alternative-succession slogan into a failed rebellion.
+刘文 / Liu Wen is a Qinghe rebel actor in [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]]. The source presents him as one of the people who claim [[LiuSuanLateHan|刘蒜]] should rule the realm, abduct [[XieHaoQingheLateHan|谢浩]], and help turn an alternative-succession slogan into a failed rebellion.
 
 ## Current Profile
 
-The page is intentionally narrow. Hanji 829 identifies Liu Wen as a Qinghe person who joins [[LiuWeiNanjunRebelLateHan|刘伟]], called a Nanjun "yaozei" in the source, in declaring that Qinghe King Liu Suan should govern all under Heaven. Their plan is exposed before it can become a successful enthronement.
+The page is intentionally narrow. 汉纪 829 identifies Liu Wen as a Qinghe person who joins [[LiuWeiNanjunRebelLateHan|刘伟]], called a Nanjun "yaozei" in the source, in declaring that Qinghe King Liu Suan should govern all under Heaven. Their plan is exposed before it can become a successful enthronement.
 
 After the leak, Liu Wen and Liu Wei seize Qinghe state official Xie Hao and promise him one of the Three Excellencies posts if he cooperates. Xie Hao refuses and rebukes them. Liu Wen then kills him, after which the court arrests and executes Liu Wen and Liu Wei.
 
@@ -26,14 +26,14 @@ After the leak, Liu Wen and Liu Wei seize Qinghe state official Xie Hao and prom
 - Rebel actor whose plan depends on turning Liu Suan's succession legitimacy into a political claim.
 - Coercive plotter who abducts Xie Hao and offers high office as inducement.
 - Killer of Xie Hao after the official refuses and rebukes the rebels.
-- Source-bounded figure whose known profile is limited to the Hanji 829 incident.
+- Source-bounded figure whose known profile is limited to the 汉纪 829 incident.
 
 ## Evidence
 
-- Plot role: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Liu Wen and Liu Wei claim Liu Suan should rule the realm and plan to install him as emperor.
-- Qinghe connection: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] identifies Liu Wen as a Qinghe actor in the rebellion.
-- Coercion and inducement: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Liu Wen and Liu Wei abduct Xie Hao and promise him a Three Excellencies-level office.
-- Killing and execution: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Xie Hao refuses, Liu Wen kills him, and the court later executes Liu Wen and Liu Wei.
+- Plot role: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says Liu Wen and Liu Wei claim Liu Suan should rule the realm and plan to install him as emperor.
+- Qinghe connection: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] identifies Liu Wen as a Qinghe actor in the rebellion.
+- Coercion and inducement: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says Liu Wen and Liu Wei abduct Xie Hao and promise him a Three Excellencies-level office.
+- Killing and execution: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says Xie Hao refuses, Liu Wen kills him, and the court later executes Liu Wen and Liu Wei.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ This page does not infer Liu Wen's wider family, office, or faction beyond the s
 
 ## What Changed
 
-- Created Liu Wen as the Qinghe rebel actor in Hanji 829's failed Liu Suan enthronement plot.
+- Created Liu Wen as the Qinghe rebel actor in 汉纪 829's failed Liu Suan enthronement plot.
 - Separated Liu Wen from unrelated Liu Wen routes by using a stable Qinghe-rebel suffix.
 
 ## Relationships

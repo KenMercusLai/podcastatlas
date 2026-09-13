@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 刘鯈 / Liu Tiao (late Han)
 
-[[LiuTiaoLateHan|刘鯈]] was the brother of [[LiuHeSituLateHan|刘郃]] and an earlier casualty of anti-eunuch politics, cited in [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|Hanji 918]] as part of the pressure on Liu He to move against [[CaoJieLateHan|曹节]].
+[[LiuTiaoLateHan|刘鯈]] was the brother of [[LiuHeSituLateHan|刘郃]] and an earlier casualty of anti-eunuch politics, cited in [[zizhi-tongjian-hanji-918-shiqing-bu-shunli-shi-weishenme-yao-bizui-lh-tbohgo96qw8bjqu3x1yp6czv5|汉纪 918]] as part of the pressure on Liu He to move against [[CaoJieLateHan|曹节]].
 
 The episode uses Liu Tiao's death under [[DouWuLateHan|窦武]] to make the persuasion of Liu He emotionally and politically charged: Chen Qiu and Liu Na argue that Liu He already knows the cost of eunuch dominance and therefore should not stay passive in high office.
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 106-107 CE early [[EmpressDowagerDengLateHan|和熹邓皇后]] and [[EmperorAnOfHan|汉安帝]] regency layer immediately before [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]]. It opens with the [[TalentVirtueDistinction|才德之分]] framework, then tests the "用错人" problem through Fan Zhun's education memorial, [[LuGongLateHan|鲁恭]]'s judicial-calendar correction, and [[RenShangLateHan|任尚]]'s failed replacement of [[BanChaoEasternHan|班超]] in the Western Regions.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 106-107 CE early [[EmpressDowagerDengLateHan|和熹邓皇后]] and [[EmperorAnOfHan|汉安帝]] regency layer immediately before [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]]. It opens with the [[TalentVirtueDistinction|才德之分]] framework, then tests the "用错人" problem through Fan Zhun's education memorial, [[LuGongLateHan|鲁恭]]'s judicial-calendar correction, and [[RenShangLateHan|任尚]]'s failed replacement of [[BanChaoEasternHan|班超]] in the Western Regions.
 
 The durable synthesis is that appointment quality is not a generic preference for ability. [[FanZhunLateHan|樊准]] and Lu Gong show how the right adviser can repair institutions through learning and procedure, while Ren Shang shows that a famous military officer can be misfit for indirect frontier governance when he ignores local experience, applies harsh control, and turns a low-cost balance system into rebellion and withdrawal.
 
@@ -44,16 +44,16 @@ The durable synthesis is that appointment quality is not a generic preference fo
 
 - [[TalentVirtueDistinction|才德之分]] - the episode explicitly restates the Sima Guang frame and applies it to appointment consequences.
 - [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - Fan Zhun, Lu Gong, Ban Chao, and Ren Shang make role fit, learning channels, procedural repair, and frontier temperament part of state capacity.
-- [[FanZhunLateHan|樊准]] - gains an education-repair layer before the Hanji 781 disaster-relief memorial.
-- [[LuGongLateHan|鲁恭]] - gains a positive judicial-calendar and moral-governance layer before the Hanji 782 famine-dismissal and recommendation-boundary material.
+- [[FanZhunLateHan|樊准]] - gains an education-repair layer before the 汉纪 781 disaster-relief memorial.
+- [[LuGongLateHan|鲁恭]] - gains a positive judicial-calendar and moral-governance layer before the 汉纪 782 famine-dismissal and recommendation-boundary material.
 - [[BanChaoEasternHan|班超]] and [[RenShangLateHan|任尚]] - form the episode's central frontier contrast between experienced, light-touch balancing and harsh command misfit.
 - [[LiangJinLateHan|梁慬]], [[DuanXiLateHan|段禧]], and [[QiuciKingdom|龟兹]] - define the post-Ren Shang rescue and protectorate-relocation branch before withdrawal.
-- [[StrategicFrontierAbandonment|弃边失屏]] - receives the immediate 107 CE Western Regions withdrawal mechanism before Hanji 780's broader disaster-frontier prelude.
+- [[StrategicFrontierAbandonment|弃边失屏]] - receives the immediate 107 CE Western Regions withdrawal mechanism before 汉纪 780's broader disaster-frontier prelude.
 - [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - gains a layer where education, justice, appointments, disasters, family rewards, and Western Regions cost all converge under Deng's regency.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the 106-107 CE layer before Hanji 780 and Hanji 781's already-ingested Deng-regency sequence.
-- Chronology refinement: Ren Shang's Western Regions failure now precedes his later Qiang-front defeat, adaptation, merit, and fatal credit conflict in Hanji 782 and Hanji 788-790.
+- No settled contradiction with existing wiki pages was found. This source backfills the 106-107 CE layer before 汉纪 780 and 汉纪 781's already-ingested Deng-regency sequence.
+- Chronology refinement: Ren Shang's Western Regions failure now precedes his later Qiang-front defeat, adaptation, merit, and fatal credit conflict in 汉纪 782 and 汉纪 788-790.
 - Name caution: the source summary writes Fan Zhun as 反准; the wiki normalizes him to [[FanZhunLateHan|樊准 / Fan Zhun]] because the Nanyang official, education memorial, and existing Deng-regency relief profile belong to the same received figure.
 - Scope caution: Liu Qing of Qinghe, Fan Qiang, Song Guiren, Liu Changbao, Zhang Yu, Xu Fang, Yin Qin, Deng Kui, Deng Hong, Deng Chang, Ba Ba, Pan Tuo, Zhao Bo, Gumo, Wensu, and exact minor office/date details remain source-scoped unless later notes warrant standalone pages.

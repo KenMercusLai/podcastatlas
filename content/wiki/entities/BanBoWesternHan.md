@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-班伯 / Ban Bo enters the wiki through [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] as the recently recovered Guanglu Dafu and palace attendant who uses a Shang Zhou and Daji image to warn [[HanChengdi|汉成帝]] against wine, disorder, and indulgent court conduct.
+班伯 / Ban Bo enters the wiki through [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]] as the recently recovered Guanglu Dafu and palace attendant who uses a Shang Zhou and Daji image to warn [[HanChengdi|汉成帝]] against wine, disorder, and indulgent court conduct.
 
 ## Current Profile
 
@@ -29,21 +29,21 @@ The effect is double. Chengdi receives the answer as useful speech and says he h
 ## Evidence
 
 Indirect remonstrance:
-- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Ban Bo answers Chengdi's question about the Shang Zhou image by arguing that the real warning concerns wine and disorder.
+- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]] says Ban Bo answers Chengdi's question about the Shang Zhou image by arguing that the real warning concerns wine and disorder.
 
 Ruler response:
-- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Chengdi thanks Ban Bo for counsel he had missed while Ban Bo was ill.
+- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]] says Chengdi thanks Ban Bo for counsel he had missed while Ban Bo was ill.
 
 Favorite exposure:
-- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]] says Zhang Fang becomes visibly unhappy after Ban Bo's answer and leaves.
+- [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]] says Zhang Fang becomes visibly unhappy after Ban Bo's answer and leaves.
 
 ## Qualifications
 
-This page is bounded to Hanji 539. It does not reconstruct Ban Bo's complete biography, his appointment history, or the full textual tradition behind the Shang Zhou warning.
+This page is bounded to 汉纪 539. It does not reconstruct Ban Bo's complete biography, his appointment history, or the full textual tradition behind the Shang Zhou warning.
 
 ## What Changed
 
-- Created Ban Bo as the indirect remonstrant whose answer triggers Hanji 539's Zhang Fang removal sequence.
+- Created Ban Bo as the indirect remonstrant whose answer triggers 汉纪 539's Zhang Fang removal sequence.
 
 ## Relationships
 

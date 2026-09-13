@@ -10,11 +10,11 @@ last_updated: 2026-09-03
 
 ## Overview
 
-任光 / Ren Guang enters the wiki as the Xindu governor whose refusal to join [[WangLangHebeiClaimant|王郎]] gives [[LiuXiu|刘秀]] a survival base in Gengshi 2 / 24 CE. In [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]], Ren Guang receives Liu Xiu at Xindu, helps turn local support into command structure, and uses proclamations plus night torch displays to make a small force look larger than it is.
+任光 / Ren Guang enters the wiki as the Xindu governor whose refusal to join [[WangLangHebeiClaimant|王郎]] gives [[LiuXiu|刘秀]] a survival base in Gengshi 2 / 24 CE. In [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]], Ren Guang receives Liu Xiu at Xindu, helps turn local support into command structure, and uses proclamations plus night torch displays to make a small force look larger than it is.
 
 ## Current Profile
 
-Hanji 670 presents Ren Guang at the moment when Liu Xiu is still fleeing Wang Lang's pressure. Many nearby commanderies have submitted to Wang Lang, but Ren Guang remains outside that alignment. His welcome matters because it transforms Xindu from a waypoint on the road to Chang'an into the first credible base for a Hebei counterattack.
+汉纪 670 presents Ren Guang at the moment when Liu Xiu is still fleeing Wang Lang's pressure. Many nearby commanderies have submitted to Wang Lang, but Ren Guang remains outside that alignment. His welcome matters because it transforms Xindu from a waypoint on the road to Chang'an into the first credible base for a Hebei counterattack.
 
 After Liu Xiu decides to stay, Ren Guang is not only a passive host. He helps solve the weak-force problem by supporting local recruitment, becomes one of the appointed commanders, and participates in the signaling campaign that spreads anti-Wang-Lang documents through Julu. The source's strongest Ren Guang contribution is practical: he converts scarce troops into the appearance of momentum before actual momentum exists.
 
@@ -28,19 +28,19 @@ After Liu Xiu decides to stay, Ren Guang is not only a passive host. He helps so
 
 ## Evidence
 
-- Xindu holdout: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says many commanderies have submitted to Wang Lang while Ren Guang and Pi Tong have not.
-- Reception of Liu Xiu: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Ren Guang is happy when Liu Xiu arrives and that Xindu officials and people greet him enthusiastically.
-- Strategic base: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Xiu's advisers debate returning to Chang'an from Xindu before Pi Tong's advice shifts the plan toward remaining in Hebei.
-- Appointment: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Xiu appoints Ren Guang, Li Zhong, Pi Tong, Wan Xiu, and others as commanders or marquises after recruiting troops.
-- Momentum signaling: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Ren Guang writes large numbers of anti-Wang-Lang proclamations and exaggerates Liu Xiu's force, helping cause county officials to surrender.
+- Xindu holdout: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says many commanderies have submitted to Wang Lang while Ren Guang and Pi Tong have not.
+- Reception of Liu Xiu: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Ren Guang is happy when Liu Xiu arrives and that Xindu officials and people greet him enthusiastically.
+- Strategic base: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Liu Xiu's advisers debate returning to Chang'an from Xindu before Pi Tong's advice shifts the plan toward remaining in Hebei.
+- Appointment: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Liu Xiu appoints Ren Guang, Li Zhong, Pi Tong, Wan Xiu, and others as commanders or marquises after recruiting troops.
+- Momentum signaling: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Ren Guang writes large numbers of anti-Wang-Lang proclamations and exaggerates Liu Xiu's force, helping cause county officials to surrender.
 
 ## Qualifications
 
-This page is bounded to one source note. It does not reconstruct Ren Guang's full office history, later appointments, kinship, or exact title beyond the Xindu role and command appointment in Hanji 670. Li Zhong, Wan Xiu, Zong Guang, the exact proclamation text, and force counts remain source-scoped until additional notes require separate canonical treatment.
+This page is bounded to one source note. It does not reconstruct Ren Guang's full office history, later appointments, kinship, or exact title beyond the Xindu role and command appointment in 汉纪 670. Li Zhong, Wan Xiu, Zong Guang, the exact proclamation text, and force counts remain source-scoped until additional notes require separate canonical treatment.
 
 ## What Changed
 
-- Created the Ren Guang page from Hanji 670 as Liu Xiu's Xindu host, holdout official, and early momentum-signaling operator.
+- Created the Ren Guang page from 汉纪 670 as Liu Xiu's Xindu host, holdout official, and early momentum-signaling operator.
 
 ## Relationships
 

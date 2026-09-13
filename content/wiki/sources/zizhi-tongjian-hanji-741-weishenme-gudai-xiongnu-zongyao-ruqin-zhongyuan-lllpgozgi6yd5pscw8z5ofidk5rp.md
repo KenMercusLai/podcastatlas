@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 72-73 CE / Yongping 15-16 prelude immediately before [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]]. It explains [[Xiongnu|匈奴]] pressure through [[SteppePastoralResourcePressure|steppe pastoral resource pressure]] and [[NomadicCavalryRaidingAsymmetry|nomadic cavalry raiding asymmetry]], then follows [[EmperorMingOfHan|汉明帝]] convening [[GengBingEasternHan|耿秉]], [[DouGuEasternHan|窦固]], Ma Liao, Liu Zhang, and other officials before the four-route campaign against [[NorthernXiongnuLateHan|北匈奴]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 72-73 CE / Yongping 15-16 prelude immediately before [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]]. It explains [[Xiongnu|匈奴]] pressure through [[SteppePastoralResourcePressure|steppe pastoral resource pressure]] and [[NomadicCavalryRaidingAsymmetry|nomadic cavalry raiding asymmetry]], then follows [[EmperorMingOfHan|汉明帝]] convening [[GengBingEasternHan|耿秉]], [[DouGuEasternHan|窦固]], Ma Liao, Liu Zhang, and other officials before the four-route campaign against [[NorthernXiongnuLateHan|北匈奴]].
 
 The durable synthesis is that Eastern Han's return to offensive frontier policy is framed as both ecological and political. The source does not excuse raids as mere morality-free survival, but it shifts the explanation from simple greed toward rainfall, pasture, water, overgrazing, winter pressure, border credibility, and Western Regions strategy; Dou Gu's capture of [[YiwuGarrisonLateHan|伊吾]] becomes the concrete campaign result, while [[ZhaiRongEasternHan|翟戎]] shows the honor and punishment pressure around failed frontier command.
 
@@ -46,10 +46,10 @@ The durable synthesis is that Eastern Han's return to offensive frontier policy 
 - [[YiwuGarrisonLateHan]] - captured and garrisoned after Dou Gu's 73 CE success, before the later withdrawal and restoration layers.
 - [[ZhaiRongEasternHan]] - commander whose failed route, punishment, and deathbed instruction become the episode's honor-pressure branch.
 - [[SouthernXiongnu]] - allied force pool in one route and source-scoped setting for Left Worthy King Xin.
-- [[BanChaoEasternHan]] - appears as the next Western Regions actor introduced for Hanji 742's Shanshan mission.
+- [[BanChaoEasternHan]] - appears as the next Western Regions actor introduced for 汉纪 742's Shanshan mission.
 
 ## Contradictions
 
-- No settled contradiction found. The episode backfills the 72-73 CE layer before Hanji 742's Ban Chao mission and Hanji 743's 74 CE Cheshi campaign.
+- No settled contradiction found. The episode backfills the 72-73 CE layer before 汉纪 742's Ban Chao mission and 汉纪 743's 74 CE Cheshi campaign.
 - Transcript normalization: 耿炳 is normalized to [[GengBingEasternHan|耿秉]], while 秦鹏 is treated as a source-scoped Qin Peng variant and not promoted to a durable page here.
 - Scope caution: Ma Liao, Liu Zhang, Qin Peng, Geng Zhong, Wu Tang, Lai Miao, Wen Mu, Southern Xiongnu Left Worthy King Xin, Huyan king, exact route gates, force counts, and commandery-name details remain source-scoped unless later notes make them durable.

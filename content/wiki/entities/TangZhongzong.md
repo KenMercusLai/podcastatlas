@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Tang Zhongzong, personal name Li Xian, enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as the restored Tang emperor whose reign gives [[ShangguanWaner|上官婉儿]] renewed rank and exposure after [[WuZetian|武则天]]'s fall. The episode uses him mainly as a power center around which Shangguan Wan'er, [[WuSansi|武三思]], and [[EmpressWeiTang|韦后]] reorganize court influence.
+Tang Zhongzong, personal name Li Xian, enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as the restored Tang emperor whose reign gives [[ShangguanWaner|上官婉儿]] renewed rank and exposure after [[WuZetian|武则天]]'s fall. The episode uses him mainly as a power center around which Shangguan Wan'er, [[WuSansi|武三思]], and [[EmpressWeiTang|韦后]] reorganize court influence.
 
 ## Current Profile
 
@@ -26,10 +26,10 @@ The source says that after the 705 [[ShenlongCoup|神龙政变]], Wu Zetian with
 
 ## Evidence
 
-- Restoration and rank: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Li Xian became emperor after the Shenlong Coup and appointed Shangguan Wan'er Zhaorong because she had merit in drafting edicts.
-- Court alliance center: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er recommended Wu Sansi to Empress Wei and that the three formed an alliance inside Zhongzong's court.
-- Coup response: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Li Xian went upstairs to address the troops after Shangguan Wan'er warned him during Li Chongjun's coup.
-- Succession trigger: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says his death in 710 led Empress Wei to rearrange offices and spurred Shangguan Wan'er to draft a fallback edict involving Li Dan.
+- Restoration and rank: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Li Xian became emperor after the Shenlong Coup and appointed Shangguan Wan'er Zhaorong because she had merit in drafting edicts.
+- Court alliance center: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er recommended Wu Sansi to Empress Wei and that the three formed an alliance inside Zhongzong's court.
+- Coup response: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Li Xian went upstairs to address the troops after Shangguan Wan'er warned him during Li Chongjun's coup.
+- Succession trigger: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says his death in 710 led Empress Wei to rearrange offices and spurred Shangguan Wan'er to draft a fallback edict involving Li Dan.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page is not a full biography of Tang Zhongzong. It reflects only the episod
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as the restored emperor and court center in Shangguan Wan'er's later arc.
+- Created the page from 汉纪 536-3 as the restored emperor and court center in Shangguan Wan'er's later arc.
 
 ## Relationships
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 164 CE Huan-era reputation and local-governance layer immediately before [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]]. It opens with a source-scoped family-education frame in which parental anxiety, old pain, and future fear are projected onto children, then turns to [[GuoTaiLateHan|郭泰]]'s warning to [[HuangYunLateHan|黄允]] and Huang Yun's reputation collapse after he discards his wife for an imagined Yuan-family marriage.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 164 CE Huan-era reputation and local-governance layer immediately before [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]]. It opens with a source-scoped family-education frame in which parental anxiety, old pain, and future fear are projected onto children, then turns to [[GuoTaiLateHan|郭泰]]'s warning to [[HuangYunLateHan|黄允]] and Huang Yun's reputation collapse after he discards his wife for an imagined Yuan-family marriage.
 
 The second half contrasts empty fame with quiet moral authority. [[HuangYunLateHan|黄允]] and [[JinWenjingLateHan|晋文经]] influence appointment opinion while avoiding office and scrutiny, until [[FuRongLateHan|符融]] warns [[LiYingLateHan|李膺]] that their fame is out of line with proven conduct; [[QiuXiangLateHan|仇香]] then handles [[ChenYuanLateHan|陈元]]'s alleged unfilial conduct through diagnosis, persuasion, and ethical teaching rather than punishment, winning [[WangHuanLateHan|王涣]]'s support and Guo Tai's respect.
 
@@ -45,10 +45,10 @@ The second half contrasts empty fame with quiet moral authority. [[HuangYunLateH
 - [[GuoTaiLateHan|郭泰]], [[QingyiReputationPressure|清议声誉压力]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - talent judgment, public reputation, and the danger of reputation unsupported by conduct.
 - [[QiuXiangLateHan|仇香]], [[ChenYuanLateHan|陈元]], [[WangHuanLateHan|王涣]], and [[HumaneLocalGovernance|仁厚地方治理]] - non-punitive moral instruction as local order.
 - [[ParentalExpectationShame|父母期望羞耻化]], [[ParentalEmbodiedModeling|身教型家庭教育]], and [[FamilyBasedEmotionalMotivation|家庭本位的情感动力]] - source-scoped family-education opening.
-- [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]], [[DuShangLateHan|度尚 / 杜尚]], and [[DuanJiongLateHan|段熲]] - immediate downstream 164 CE military and court sequence.
+- [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]], [[DuShangLateHan|度尚 / 杜尚]], and [[DuanJiongLateHan|段熲]] - immediate downstream 164 CE military and court sequence.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the 164 CE material immediately before Hanji 863.
+- No settled contradiction with existing wiki pages was found. This source backfills the 164 CE material immediately before 汉纪 863.
 - Transcript normalization: "袁伟" is normalized to [[YuanWeiLateHan|袁隗]], "金文金" to [[JinWenjingLateHan|晋文经]], "芙蓉" to [[FuRongLateHan|符融]], "仇湘" to [[QiuXiangLateHan|仇香]], and "王焕" to [[WangHuanLateHan|王涣]] because the roles match the received Zizhi Tongjian passage.
 - Scope caution: the parenting opening is treated as the host's source-scoped family-education frame, not as a clinical child-development model.

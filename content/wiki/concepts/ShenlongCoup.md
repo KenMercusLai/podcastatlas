@@ -14,7 +14,7 @@ The Shenlong Coup is the 705 political rupture in this wiki's current source bas
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] uses the coup as a hinge rather than a fully analyzed event. Before it, Shangguan Wan'er's prospects are tied to Wu Zetian and the possible succession value of [[WuSansi|武三思]]. After it, she survives the transition by receiving Zhaorong rank under Zhongzong and by rebuilding influence through Wu Sansi and [[EmpressWeiTang|韦后]].
+[[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] uses the coup as a hinge rather than a fully analyzed event. Before it, Shangguan Wan'er's prospects are tied to Wu Zetian and the possible succession value of [[WuSansi|武三思]]. After it, she survives the transition by receiving Zhaorong rank under Zhongzong and by rebuilding influence through Wu Sansi and [[EmpressWeiTang|韦后]].
 
 ## Key Claims
 
@@ -26,9 +26,9 @@ The Shenlong Coup is the 705 political rupture in this wiki's current source bas
 
 ## Evidence
 
-- Transition point: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Wu Zetian withdrew and Li Xian became emperor after the 705 Shenlong Coup.
-- Shangguan Wan'er survival: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says she received Zhaorong rank because she had merit in drafting edicts.
-- Continuing factional risk: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says she later allied with Wu Sansi and Empress Wei, extending rather than resolving factional danger.
+- Transition point: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Wu Zetian withdrew and Li Xian became emperor after the 705 Shenlong Coup.
+- Shangguan Wan'er survival: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says she received Zhaorong rank because she had merit in drafting edicts.
+- Continuing factional risk: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says she later allied with Wu Sansi and Empress Wei, extending rather than resolving factional danger.
 
 ## Counterevidence & Qualifications
 
@@ -36,7 +36,7 @@ This page does not reconstruct the coup's full participant list, causes, or inst
 
 ## What Changed
 
-- Created the concept from Hanji 536-3 as the transition hinge between Wu Zetian and Tang Zhongzong in Shangguan Wan'er's arc.
+- Created the concept from 汉纪 536-3 as the transition hinge between Wu Zetian and Tang Zhongzong in Shangguan Wan'er's arc.
 
 ## Related Concepts
 

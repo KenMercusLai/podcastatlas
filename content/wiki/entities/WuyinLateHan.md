@@ -23,15 +23,15 @@ Wuyin's current wiki role is to mark the second position in Cao Cao's Huyang-Wuy
 - Source-bounded geography rather than a fully developed county-history page.
 
 ## Evidence
-- Campaign sequence: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] says Cao Cao attacks Wuyin after capturing Huyang and Deng Ji.
-- Strategic reading: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] uses the Huyang-Wuyin pair to frame Cao Cao's operation as isolation pressure on Zhang Xiu and Liu Biao, not only emotional revenge for Wancheng.
-- Regional context: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] keeps Wuyin inside the Wan/Nanyang and Jingzhou-front geography.
+- Campaign sequence: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] says Cao Cao attacks Wuyin after capturing Huyang and Deng Ji.
+- Strategic reading: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] uses the Huyang-Wuyin pair to frame Cao Cao's operation as isolation pressure on Zhang Xiu and Liu Biao, not only emotional revenge for Wancheng.
+- Regional context: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] keeps Wuyin inside the Wan/Nanyang and Jingzhou-front geography.
 
 ## Qualifications
-The page does not infer a wider administrative or demographic profile for Wuyin. It records only the late-Han campaign role supported by Hanji 1021.
+The page does not infer a wider administrative or demographic profile for Wuyin. It records only the late-Han campaign role supported by 汉纪 1021.
 
 ## What Changed
-- Created this page from Hanji 1021 as the second named location in Cao Cao's Huyang-Wuyin operation.
+- Created this page from 汉纪 1021 as the second named location in Cao Cao's Huyang-Wuyin operation.
 
 ## Relationships
 - [[HuyangLateHan|胡阳]] - paired prior position in the same campaign.

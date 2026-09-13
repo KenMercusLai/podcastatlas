@@ -23,9 +23,9 @@ This makes Yang a useful early marker for the later Party Prohibition sequence. 
 - Example of how local corruption and palace access reinforce one another under Emperor Huan.
 
 ## Evidence
-- Corrupt Beihai officeholding: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] identifies Yang Yuanqun as the former Beihai commandery official whose abuses prompt a court investigation.
-- Eunuch-mediated reversal: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Yang bribes eunuchs, after which Li Ying rather than Yang becomes the punished party.
-- Palace-backed impunity: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] places the Yang case beside Feng Gun and Liu You, forming a cluster in which enforcement against eunuch-connected interests is inverted.
+- Corrupt Beihai officeholding: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] identifies Yang Yuanqun as the former Beihai commandery official whose abuses prompt a court investigation.
+- Eunuch-mediated reversal: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Yang bribes eunuchs, after which Li Ying rather than Yang becomes the punished party.
+- Palace-backed impunity: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] places the Yang case beside Feng Gun and Liu You, forming a cluster in which enforcement against eunuch-connected interests is inverted.
 
 ## Qualifications
 Yang Yuanqun is currently known in the wiki only through this episode's treatment of the 165 CE case. The page should remain focused on his function as an evidence node for corruption reversal unless later sources provide an independent career profile.

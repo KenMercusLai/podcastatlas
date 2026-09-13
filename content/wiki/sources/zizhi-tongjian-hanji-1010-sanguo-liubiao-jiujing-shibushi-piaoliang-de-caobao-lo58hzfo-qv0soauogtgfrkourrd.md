@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1010丨三国刘表，究竟是不是漂亮的草包？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] by centering [[LiuBiao|刘表]] in 196 CE. [[ZhangJiLateHan|张济]] enters [[Jingzhou|荆州]], dies while attacking [[Rangcheng|穰城]], and Liu Biao turns the crisis into [[MourningFramedMilitaryAbsorption|丧礼化收编]] by refusing congratulations, mourning the death, and absorbing the remaining troops. The episode then uses [[JiaXu|贾诩]]'s move from [[DuanWeiLateHan|段煨]] to [[ZhangXiu|张绣]] and his judgment of Liu Biao to argue that Liu Biao was not a fool, but a capable [[DefensiveLocalGovernance|保境安民式守成治理]] figure whose virtues had a wartime strategic ceiling.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate prelude to [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] by centering [[LiuBiao|刘表]] in 196 CE. [[ZhangJiLateHan|张济]] enters [[Jingzhou|荆州]], dies while attacking [[Rangcheng|穰城]], and Liu Biao turns the crisis into [[MourningFramedMilitaryAbsorption|丧礼化收编]] by refusing congratulations, mourning the death, and absorbing the remaining troops. The episode then uses [[JiaXu|贾诩]]'s move from [[DuanWeiLateHan|段煨]] to [[ZhangXiu|张绣]] and his judgment of Liu Biao to argue that Liu Biao was not a fool, but a capable [[DefensiveLocalGovernance|保境安民式守成治理]] figure whose virtues had a wartime strategic ceiling.
 
 ## Key Claims
 - In winter 196 CE, [[ZhangJiLateHan|张济]] leads troops from Guanzhong into [[Jingzhou|荆州]] and attacks [[Rangcheng|穰城]] in [[NanyangCommandery|南阳郡]], trying to secure a base.
@@ -36,12 +36,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 > "看似柔弱，实藏霹雳手段" - the host's compact evaluation of Liu Biao's political style.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] - next episode, where Liu Biao's Jingzhou circle becomes part of [[MiHengLateHan|祢衡]]'s death chain.
+- [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] - next episode, where Liu Biao's Jingzhou circle becomes part of [[MiHengLateHan|祢衡]]'s death chain.
 - [[LiuBiao|刘表]], [[Jingzhou|荆州]], [[NanyangCommandery|南阳郡]], [[Rangcheng|穰城]], and [[MourningFramedMilitaryAbsorption|丧礼化收编]] - Zhang Ji death and remnant-absorption branch.
 - [[ZhangJiLateHan|张济]], [[ZhangXiu|张绣]], [[WanCounty|宛县]], [[JiaXu|贾诩]], and [[DuanWeiLateHan|段煨]] - troop succession and adviser-survival branch before the Wancheng sequence.
 - [[KuaiYue|蒯越]], [[CaiMao|蔡瑁]], and [[Jingzhou|荆州]] - Liu Biao's local elite alliance and Jingzhou consolidation branch.
 - [[DefensiveLocalGovernance|保境安民式守成治理]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[LiAsPoliticalOrder|礼制政治秩序]] - the episode's main conceptual frames.
 
 ## Contradictions
-- No settled contradiction found. This source fills the missing Hanji 1010 prelude before the already ingested Hanji 1011-1020 late-Han sequence.
+- No settled contradiction found. This source fills the missing 汉纪 1010 prelude before the already ingested 汉纪 1011-1020 late-Han sequence.
 - Transcript-variant caution: the wiki normalizes 张继 to [[ZhangJiLateHan|张济]], 张秀 to [[ZhangXiu|张绣]], 贾许 to [[JiaXu|贾诩]], 段威 to [[DuanWeiLateHan|段煨]], 壤城 to [[Rangcheng|穰城]], 渊城 to [[WanCounty|宛县]], 款越 to [[KuaiYue|蒯越]], 蔡茂 to [[CaiMao|蔡瑁]], and "刘建" to a likely arrow/stray-arrow death note rather than a person page.

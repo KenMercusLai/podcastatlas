@@ -11,7 +11,7 @@ last_updated: 2026-09-06
 # 徐夫人 / Lady Xu (Sun Yi)
 
 ## Overview
-徐夫人 / Lady Xu is the wife of [[SunYiLateHan|孙翊]] in the Hanji 1067 Danyang revenge episode. She is kept separate from [[XuFuren|徐夫人]], the Zhao dagger-maker in the Jing Ke assassination branch, because the shared Chinese label refers to different subjects.
+徐夫人 / Lady Xu is the wife of [[SunYiLateHan|孙翊]] in the 汉纪 1067 Danyang revenge episode. She is kept separate from [[XuFuren|徐夫人]], the Zhao dagger-maker in the Jing Ke assassination branch, because the shared Chinese label refers to different subjects.
 
 ## Current Profile
 The current evidence presents Lady Xu as the central planner of the revenge against [[GuiLanLateHan|妫览]] and [[DaiYuanLateHan|戴员]]. After Sun Yi is killed by [[BianHongLateHan|边鸿]] and the conspirators try to explain the murder as madness, Lady Xu sees through the cover story. Because she lacks direct force, she uses Gui Lan's demand that she marry him as the opening for a trap.
@@ -27,13 +27,13 @@ Lady Xu's method is sequential. She asks Gui Lan to wait until the end-of-month 
 
 ## Evidence
 **Conspiracy recognition**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] says Lady Xu recognizes that Gui Lan and Dai Yuan engineered Sun Yi's murder through Bian Hong.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] says Lady Xu recognizes that Gui Lan and Dai Yuan engineered Sun Yi's murder through Bian Hong.
 
 **Delay and deception**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] shows her asking to wait until the mourning rite, then changing dress and behavior so Gui Lan's observers believe she intends to remarry.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] shows her asking to wait until the mourning rite, then changing dress and behavior so Gui Lan's observers believe she intends to remarry.
 
 **Retainer coordination and revenge**
-- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|Hanji 1067]] has Lady Xu enlist Sun Gao and Fu Ying, hide them in her room, and use them with the wider follower group to kill Gui Lan and Dai Yuan.
+- [[zizhi-tongjian-hanji-1067-sanguo-zui-baqi-de-nvren-wei-bao-fu-chou-na-ziji-dang-youer-lqc9lveve1-dcayvutdhx4ah3lho|汉纪 1067]] has Lady Xu enlist Sun Gao and Fu Ying, hide them in her room, and use them with the wider follower group to kill Gui Lan and Dai Yuan.
 
 ## Qualifications
 This page currently rests on one podcast source. The source foregrounds Lady Xu's beauty, gendered strength, and psychological intelligence; those claims are retained as host interpretation, while the concrete profile is bounded to the assassination, staged delay, hidden mobilization, and revenge action. The page title uses Lady Xu to distinguish her from the unrelated [[XuFuren|徐夫人]] page.

@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 106-108 CE opening of [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency before [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]]. It covers [[EmperorShangOfHan|Emperor Shang]]'s infant accession and death, Deng's quick installation of [[EmperorAnOfHan|Emperor An]], [[ZhouZhangLateHan|Zhou Zhang]]'s failed anti-regency coup, disaster relief, early Qiang-front reverses, Xianbei hostage-and-trade management, and [[FanZhunLateHan|Fan Zhun]]'s relief memorial.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 106-108 CE opening of [[EmpressDowagerDengLateHan|Empress Dowager Deng]]'s regency before [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|汉纪 782]]. It covers [[EmperorShangOfHan|Emperor Shang]]'s infant accession and death, Deng's quick installation of [[EmperorAnOfHan|Emperor An]], [[ZhouZhangLateHan|Zhou Zhang]]'s failed anti-regency coup, disaster relief, early Qiang-front reverses, Xianbei hostage-and-trade management, and [[FanZhunLateHan|Fan Zhun]]'s relief memorial.
 
 The durable synthesis is that Deng's regency begins as succession-security governance under compound stress. The host's opening "愚善" frame is carried into the political narrative: Deng combines relief, austerity, education, and refugee reassurance with hard boundaries against coup threats, while the court converts disaster-as-omen pressure into prison review and local-official accountability through [[DisasterOmenCrisisRedirection|disaster omen crisis redirection]].
 
@@ -52,7 +52,7 @@ The durable synthesis is that Deng's regency begins as succession-security gover
 - [[ZhouZhangLateHan|周章]] - created as the official whose failed anti-regency coup exposes the succession and eunuch-assistance fault line.
 - [[FanZhunLateHan|樊准]] - created as the relief memorialist whose proposals connect disaster response, spending restraint, envoy inspection, relocation, and public-field release.
 - [[DengFamilyAnEraLateHan|邓氏]] - gains an earlier layer in which Deng relatives are both disciplined by the regent and targeted by Zhou Zhang's coup plan.
-- [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - now begins before the Hanji 782 fiscal-war crisis, with succession fragility, coup risk, disasters, refugees, Qiang fighting, and Xianbei management already interacting.
+- [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - now begins before the 汉纪 782 fiscal-war crisis, with succession fragility, coup risk, disasters, refugees, Qiang fighting, and Xianbei management already interacting.
 - [[DisasterOmenCrisisRedirection|灾异压力转移]] - created from Deng's prison-review response to drought and omen pressure.
 - [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] - extended by the ministers' use of disaster rhetoric against female regency and Deng's administrative counterframing.
 - [[BoundarylessKindnessTrap|无边界善良陷阱]] - receives an earlier direct "愚善" formulation tied to self-protection and decisive limits.
@@ -60,5 +60,5 @@ The durable synthesis is that Deng's regency begins as succession-security gover
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills the 106-108 CE layer before the already-ingested Hanji 782-783 Deng-regency sequence.
+- No settled contradiction is recorded. This source backfills the 106-108 CE layer before the already-ingested 汉纪 782-783 Deng-regency sequence.
 - Scope caution: Liu Sheng, Zheng Zhong, Cai Lun, Zhang Yu, Zhang Min, Ren Shang's exact early command status, Yanliyang, Liang Jin, Lu Cang, the prison institutions, and exact disaster notices remain source-scoped unless later notes require standalone pages.

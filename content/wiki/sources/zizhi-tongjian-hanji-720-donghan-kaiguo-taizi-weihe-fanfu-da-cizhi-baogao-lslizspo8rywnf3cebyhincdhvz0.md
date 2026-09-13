@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 18-19 / 42-43 CE before [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]]. It places [[LiuXiu|光武帝刘秀]]'s remaining military, frontier, and ritual work beside the central succession problem: after [[GuoShengtong|郭圣通]] is deposed, [[LiuQiangDonghaiKing|皇太子刘强]] repeatedly asks to leave the crown-prince position and retire to a fief.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 18-19 / 42-43 CE before [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|汉纪 721]]. It places [[LiuXiu|光武帝刘秀]]'s remaining military, frontier, and ritual work beside the central succession problem: after [[GuoShengtong|郭圣通]] is deposed, [[LiuQiangDonghaiKing|皇太子刘强]] repeatedly asks to leave the crown-prince position and retire to a fief.
 
 The durable synthesis is that Liu Qiang's withdrawal is neither simple virtue theater nor ordinary dislike of power. The source reads it as a survival and filial strategy under changed maternal status: Liu Xiu eventually accepts the resignation, names Liu Yang crown prince, renames him Liu Zhuang, and turns him into the later [[EmperorMingOfHan|汉明帝]], while Yuan Hong criticizes the heir replacement as institutionally unsound despite the family's later emotional repair.
 
@@ -52,6 +52,6 @@ The durable synthesis is that Liu Qiang's withdrawal is neither simple virtue th
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills 42-43 CE before Hanji 721's 43-44 CE crown-prince education and law-enforcement layer, and before Hanji 722's 44-45 CE illness, Guo-branch compensation, and frontier-capacity layer.
+- Chronology qualification: this source backfills 42-43 CE before 汉纪 721's 43-44 CE crown-prince education and law-enforcement layer, and before 汉纪 722's 44-45 CE illness, Guo-branch compensation, and frontier-capacity layer.
 - Identity normalization: Liu Yang is linked to [[EmperorMingOfHan|刘庄 / 汉明帝]] because the source says he is renamed Liu Zhuang at crown-prince installation.
 - Scope caution: Zhi Yun, Shi Xing, Zhang Mu, Yang Wei, Shan Chen, Fu Zhen, Duyang, Liu Xu, Liu Zhang, Liu Xing, and Yuan Hong's commentator identity remain source-scoped unless later notes warrant canonical pages. Yuan Hong here is not merged with the existing late-Han Yuan Hong pages.

@@ -8,9 +8,9 @@ last_updated: 2026-08-23
 
 # 邹氏 / Lady Zou (Wancheng)
 
-邹氏 / Lady Zou (Wancheng) enters the wiki through [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|Hanji 1012]] as [[ZhangJiLateHan|张济]]'s widow and [[ZhangXiu|张绣]]'s aunt by marriage. After Zhang Xiu surrenders to [[CaoCao|曹操]] at [[WanCounty|宛城]], Cao Cao takes Lady Zou into his household, making a new submission immediately feel like family humiliation.
+邹氏 / Lady Zou (Wancheng) enters the wiki through [[zizhi-tongjian-hanji-1012-haose-caocao-luanshi-zhong-de-dute-qingshi-llvrucihuv2buvp1-lisz4usbprh|汉纪 1012]] as [[ZhangJiLateHan|张济]]'s widow and [[ZhangXiu|张绣]]'s aunt by marriage. After Zhang Xiu surrenders to [[CaoCao|曹操]] at [[WanCounty|宛城]], Cao Cao takes Lady Zou into his household, making a new submission immediately feel like family humiliation.
 
-[[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] narrates the same Wancheng figure through the transcript form "周氏." This page treats that as a source-scoped naming variant and keeps the canonical page at the Zou form supplied by Hanji 1012. In both episodes, Lady Zou matters less as an independent biography than as the status and household trigger that makes Zhang Xiu read surrender as humiliation. When Cao Cao also rewards [[HuCheEr|胡车儿]], the insult becomes a perceived security threat.
+[[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] narrates the same Wancheng figure through the transcript form "周氏." This page treats that as a source-scoped naming variant and keeps the canonical page at the Zou form supplied by 汉纪 1012. In both episodes, Lady Zou matters less as an independent biography than as the status and household trigger that makes Zhang Xiu read surrender as humiliation. When Cao Cao also rewards [[HuCheEr|胡车儿]], the insult becomes a perceived security threat.
 
 ## Connections
 - [[CaoCao|曹操]] - takes Lady Zou after Zhang Xiu's surrender.

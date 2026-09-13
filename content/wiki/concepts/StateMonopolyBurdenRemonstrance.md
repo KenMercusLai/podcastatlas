@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Definition
 
-State monopoly burden remonstrance is the argument that direct state operation of lucrative resources can burden producers, corrupt official incentives, and damage public trust even when it promises treasury gain. In Hanji 753, [[ZhuHuiZhangEraEasternHan|Zhu Hui]] applies this critique to Zhang Lin's proposal for official salt monopoly and restoration of the Han Wudi junshu system.
+State monopoly burden remonstrance is the argument that direct state operation of lucrative resources can burden producers, corrupt official incentives, and damage public trust even when it promises treasury gain. In 汉纪 753, [[ZhuHuiZhangEraEasternHan|Zhu Hui]] applies this critique to Zhang Lin's proposal for official salt monopoly and restoration of the Han Wudi junshu system.
 
 ## Current Synthesis
 
@@ -30,10 +30,10 @@ The remonstrance also tests imperial tolerance. [[EmperorZhangOfHan|Zhangdi]] fi
 
 ## Evidence
 
-- Monopoly proposal: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] introduces Zhang Lin's proposal to restore official salt monopoly and the junshu system.
-- Incentive critique: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] has Zhu Hui argue that officials would become merchant-like under such a system.
-- Public-burden critique: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] links the policy to salt producers' resentment at being impoverished.
-- Ministerial duty and imperial tolerance: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] shows Zhu Hui refusing to sign and Zhangdi later accepting and rewarding the refusal.
+- Monopoly proposal: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] introduces Zhang Lin's proposal to restore official salt monopoly and the junshu system.
+- Incentive critique: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] has Zhu Hui argue that officials would become merchant-like under such a system.
+- Public-burden critique: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] links the policy to salt producers' resentment at being impoverished.
+- Ministerial duty and imperial tolerance: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] shows Zhu Hui refusing to sign and Zhangdi later accepting and rewarding the refusal.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ The remonstrance also tests imperial tolerance. [[EmperorZhangOfHan|Zhangdi]] fi
 
 ## What Changed
 
-- Created this concept from Hanji 753's Zhu Hui remonstrance against salt monopoly and junshu restoration.
+- Created this concept from 汉纪 753's Zhu Hui remonstrance against salt monopoly and junshu restoration.
 
 ## Related Concepts
 

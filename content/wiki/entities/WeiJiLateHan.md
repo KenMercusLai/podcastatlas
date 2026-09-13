@@ -24,10 +24,10 @@ Wei Ji appears as an administrator who reads population movement as both a food 
 - Communicates policy through [[XunYu|荀彧]], whose forwarding of the letter helps turn the proposal into adopted Cao-side policy.
 
 ## Evidence
-- Administrative setting: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] says Cao Cao sends Hedong man Wei Ji to manage Guanzhong affairs as refugees return.
-- Security diagnosis: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] has Wei Ji warn Xun Yu that local generals will become dangerous if they keep absorbing returning people into their armies.
-- Fiscal-agricultural plan: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] records the proposal to restore salt offices, sell salt, buy farming tools and oxen, and enable returnees to resume production.
-- Adoption path: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|Hanji 1035]] says Xun Yu forwards the letter, Cao Cao adopts the advice, and the court assigns fiscal and salt-supervision responsibility while moving the Sili Xiaowei office to Hongnong.
+- Administrative setting: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] says Cao Cao sends Hedong man Wei Ji to manage Guanzhong affairs as refugees return.
+- Security diagnosis: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] has Wei Ji warn Xun Yu that local generals will become dangerous if they keep absorbing returning people into their armies.
+- Fiscal-agricultural plan: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] records the proposal to restore salt offices, sell salt, buy farming tools and oxen, and enable returnees to resume production.
+- Adoption path: [[zizhi-tongjian-hanji-1035-zhansha-caocao-qinzi-he-aijiang-ta-jing-zaidu-guijiang-caocao-lh10wwkwcqw5hnap3bodw6oxpt7v|汉纪 1035]] says Xun Yu forwards the letter, Cao Cao adopts the advice, and the court assigns fiscal and salt-supervision responsibility while moving the Sili Xiaowei office to Hongnong.
 
 ## Qualifications
 The current wiki evidence covers Wei Ji only through this Guanzhong policy proposal. It does not yet verify implementation outcomes beyond the source's statement that Cao Cao accepted the plan. The title and office details are normalized from the episode summary and should remain source-scoped until a fuller biographical source is ingested.

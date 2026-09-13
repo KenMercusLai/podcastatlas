@@ -12,9 +12,9 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongping 3 / 60 CE before [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]]. It centers [[EmpressMaMingdeEasternHan|明德马皇后]]'s selection as empress, raising of [[EmperorZhangOfHan|刘炟 / 汉章帝]], broad treatment of palace women, plain dress, learning, and refusal to seek family privilege, then contrasts that restraint with [[EmperorMingOfHan|汉明帝]]'s stopped North Palace construction, harsh temper, omen self-warning, and visible rewards for capable local officials.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongping 3 / 60 CE before [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]]. It centers [[EmpressMaMingdeEasternHan|明德马皇后]]'s selection as empress, raising of [[EmperorZhangOfHan|刘炟 / 汉章帝]], broad treatment of palace women, plain dress, learning, and refusal to seek family privilege, then contrasts that restraint with [[EmperorMingOfHan|汉明帝]]'s stopped North Palace construction, harsh temper, omen self-warning, and visible rewards for capable local officials.
 
-The durable synthesis is that early Yongping order depends on checks that make virtue operational: Empress Ma stabilizes palace succession without turning motherhood or favor into private extraction, [[ZhongliYiEasternHan|钟离意]] turns celestial-warning language into a halt to people-burdening construction, [[LiuPingEasternHan|刘平]] and [[GuoHeEasternHan|郭贺]] show local trust as a public-governance asset, and [[YaoSongEasternHan|姚松]] exposes a small ritual check on Mingdi's punitive anger. The Western Regions closing gives an earlier [[ShacheKingdomLateHan|Shache]]-[[KhotanKingdomLateHan|Khotan]] layer before [[KhotanKingGuangdeLateHan|Guangde]]'s later king-making in Hanji 736.
+The durable synthesis is that early Yongping order depends on checks that make virtue operational: Empress Ma stabilizes palace succession without turning motherhood or favor into private extraction, [[ZhongliYiEasternHan|钟离意]] turns celestial-warning language into a halt to people-burdening construction, [[LiuPingEasternHan|刘平]] and [[GuoHeEasternHan|郭贺]] show local trust as a public-governance asset, and [[YaoSongEasternHan|姚松]] exposes a small ritual check on Mingdi's punitive anger. The Western Regions closing gives an earlier [[ShacheKingdomLateHan|Shache]]-[[KhotanKingdomLateHan|Khotan]] layer before [[KhotanKingGuangdeLateHan|Guangde]]'s later king-making in 汉纪 736.
 
 ## Key Claims
 
@@ -44,7 +44,7 @@ The durable synthesis is that early Yongping order depends on checks that make v
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the 60 CE / Yongping 3 layer before Hanji 736's Liu Cang, Zheng Zhong, Dou Mu, treasure-cauldron, and Khotan-Shache continuation.
-- Chronology caution: Hanji 735 places Guangde's installation and marriage settlement before Hanji 736's later Khotan attack on Shache and dependent king-making; the pages should treat these as sequential rather than competing accounts.
+- No settled contradiction with existing wiki content was found. This source backfills the 60 CE / Yongping 3 layer before 汉纪 736's Liu Cang, Zheng Zhong, Dou Mu, treasure-cauldron, and Khotan-Shache continuation.
+- Chronology caution: 汉纪 735 places Guangde's installation and marriage settlement before 汉纪 736's later Khotan attack on Shache and dependent king-making; the pages should treat these as sequential rather than competing accounts.
 - Identity caution: 姚松 is routed to [[YaoSongEasternHan|Yao Song (Eastern Han official)]], distinct from modern founder [[YaoSong|Yao Song / 姚颂]].
 - Scope caution: Ma Yuan, Jia Guiren, Yin Taihou's selection role, Zhao Xi, Guo Dan, Yu Yan, Liu Jian, Liu Xian, the Tianchuan star, North Palace, Yuntai Twenty-Eight Generals, Junde, Xiumoba, Dawan, Qiuci, exact calendar conversions, and flood details remain source-scoped unless later notes warrant standalone pages.

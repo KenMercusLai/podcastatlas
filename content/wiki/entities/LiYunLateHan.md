@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-李云 / Li Yun enters the wiki through [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] as the Baima county magistrate whose open memorial against [[EmperorHuanOfHan|汉桓帝]]'s post-[[LiangJiLateHan|梁冀]] rewards becomes a lethal remonstrance case. He criticizes excessive enfeoffment, warns about frontier morale, and directly questions whether imperial decision channels still hear truth.
+李云 / Li Yun enters the wiki through [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]] as the Baima county magistrate whose open memorial against [[EmperorHuanOfHan|汉桓帝]]'s post-[[LiangJiLateHan|梁冀]] rewards becomes a lethal remonstrance case. He criticizes excessive enfeoffment, warns about frontier morale, and directly questions whether imperial decision channels still hear truth.
 
 ## Current Profile
 
-Li Yun's profile is centered on one high-risk act. Hanji 850 says that after Huan rewards the Deng household and eunuch-favorite actors, Li Yun submits an unsealed memorial and sends copies to the Three Excellencies. He argues that killing Liang Ji has not repaired the court if those who helped remove him are rewarded with offices and food revenue far beyond public merit.
+Li Yun's profile is centered on one high-risk act. 汉纪 850 says that after Huan rewards the Deng household and eunuch-favorite actors, Li Yun submits an unsealed memorial and sends copies to the Three Excellencies. He argues that killing Liang Ji has not repaired the court if those who helped remove him are rewarded with offices and food revenue far beyond public merit.
 
 The memorial escalates from reward policy to imperial responsibility. Li Yun warns that frontier soldiers may resent seeing insiders receive huge grants while they endure hardship, then questions whether the ruler is still reviewing decisions and hearing truth. Huan responds with anger, arrest, prison interrogation, and eventual execution. [[DuZhongLateHan|杜仲]]'s shared-fate memorial and [[ChenFanLateHan|陈蕃]]'s clemency plea make Li Yun's case a larger example of loyal speech becoming punishable offense.
 
@@ -28,19 +28,19 @@ The memorial escalates from reward policy to imperial responsibility. Li Yun war
 
 ## Evidence
 
-- Open memorial form: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Li Yun writes an unsealed memorial and sends copies to the Three Excellencies.
-- Reward critique: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Li Yun criticizes the large titles and food-revenue grants given to people who helped remove Liang Ji.
-- Security warning: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says he warns that border soldiers may become resentful or rebellious when they hear of the overrewards.
-- Feedback challenge: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Li Yun questions whether the emperor wants to hear truth and review right and wrong.
-- Punishment outcome: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|Hanji 850]] says Huan arrests, interrogates, and finally executes Li Yun in prison.
+- Open memorial form: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]] says Li Yun writes an unsealed memorial and sends copies to the Three Excellencies.
+- Reward critique: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]] says Li Yun criticizes the large titles and food-revenue grants given to people who helped remove Liang Ji.
+- Security warning: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]] says he warns that border soldiers may become resentful or rebellious when they hear of the overrewards.
+- Feedback challenge: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]] says Li Yun questions whether the emperor wants to hear truth and review right and wrong.
+- Punishment outcome: [[zizhi-tongjian-hanji-850-huandi-weihe-zhiyi-sha-zhongchen-lokxtceq7vv-giec6iufwwk9fwk7|汉纪 850]] says Huan arrests, interrogates, and finally executes Li Yun in prison.
 
 ## Qualifications
 
-The page records Li Yun only as Hanji 850 presents him. It does not reconstruct his earlier career, exact office route, or later family memory. The episode frames him as a loyal minister; the wiki keeps that as the source's judgment while grounding the durable profile in the concrete memorial, punishment, and intercession sequence.
+The page records Li Yun only as 汉纪 850 presents him. It does not reconstruct his earlier career, exact office route, or later family memory. The episode frames him as a loyal minister; the wiki keeps that as the source's judgment while grounding the durable profile in the concrete memorial, punishment, and intercession sequence.
 
 ## What Changed
 
-- Created the page from Hanji 850's open-remonstrance and prison-death evidence.
+- Created the page from 汉纪 850's open-remonstrance and prison-death evidence.
 
 ## Relationships
 

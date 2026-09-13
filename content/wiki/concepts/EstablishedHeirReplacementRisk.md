@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] creates the concept through [[EmperorXuanOfHan|汉宣帝]]'s dissatisfaction with crown prince [[HanYuandi|刘奭 / 汉元帝]]. Xuan has substantive reasons to worry: Liu Shi is presented as humane and Confucian but weak in timing, practical control, and command of ministers. [[LiuQinHuaiyangKingWesternHan|淮阳王刘钦]] appears to offer an attractive alternative because he is clever, legally minded, capable, and closer to Xuan's temperament.
+[[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] creates the concept through [[EmperorXuanOfHan|汉宣帝]]'s dissatisfaction with crown prince [[HanYuandi|刘奭 / 汉元帝]]. Xuan has substantive reasons to worry: Liu Shi is presented as humane and Confucian but weak in timing, practical control, and command of ministers. [[LiuQinHuaiyangKingWesternHan|淮阳王刘钦]] appears to offer an attractive alternative because he is clever, legally minded, capable, and closer to Xuan's temperament.
 
 The episode's core succession judgment is that replacement can be politically worse than preserving an imperfect heir. Liu Shi is the established嫡长 crown prince and the son of [[XuPingjunWesternHan|许平君]], whose family aided Xuan in hardship and whose death under the Huo family leaves Xuan with a moral debt. The source also invokes prior Han succession conflicts and the witchcraft-disaster trauma as reasons that late change could reopen factional violence. The risk is therefore not only choosing the wrong son; it is converting heir evaluation into a struggle over legitimacy, memory, maternal status, and ministerial alignment.
 
@@ -29,15 +29,15 @@ The episode's core succession judgment is that replacement can be politically wo
 ## Evidence
 
 Established-heir cost:
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Liu Shi was the嫡长 crown prince and that bypassing him would invite major court struggle.
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] uses earlier Han succession conflicts and the witchcraft disaster as cautionary background for Xuan.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Liu Shi was the嫡长 crown prince and that bypassing him would invite major court struggle.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] uses earlier Han succession conflicts and the witchcraft disaster as cautionary background for Xuan.
 
 Alternative-heir temptation:
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Liu Qin is legally minded, intelligent, capable, and repeatedly praised as most like Xuan.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Liu Qin is legally minded, intelligent, capable, and repeatedly praised as most like Xuan.
 
 Emotional and moral restraint:
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Xuan's memory of Xu Pingjun, Xu-family support during his hardship, and Huo-family harm to Xu and Liu Shi restrain the replacement impulse.
-- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|Hanji 459]] says Xuan appoints Wei Xuancheng to Huaiyang, which the host reads as instruction to Liu Qin rather than heir displacement.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Xuan's memory of Xu Pingjun, Xu-family support during his hardship, and Huo-family harm to Xu and Liu Shi restrain the replacement impulse.
+- [[zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz|汉纪 459]] says Xuan appoints Wei Xuancheng to Huaiyang, which the host reads as instruction to Liu Qin rather than heir displacement.
 
 ## Counterevidence & Qualifications
 
@@ -45,7 +45,7 @@ This concept currently rests on one Xuan-era source note. It should not be read 
 
 ## What Changed
 
-- Created the concept from Hanji 459's abandoned Xuan-era plan to replace Liu Shi with Liu Qin.
+- Created the concept from 汉纪 459's abandoned Xuan-era plan to replace Liu Shi with Liu Qin.
 
 ## Related Concepts
 

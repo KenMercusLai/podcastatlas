@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Princess Taiping enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as the Li-Tang royal contact through whom [[ShangguanWaner|上官婉儿]] seeks a fallback after the [[WuSansi|武三思]] and [[EmpressWeiTang|韦后]] alignment becomes dangerous. She also appears as the figure who honors Shangguan Wan'er after death.
+Princess Taiping enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as the Li-Tang royal contact through whom [[ShangguanWaner|上官婉儿]] seeks a fallback after the [[WuSansi|武三思]] and [[EmpressWeiTang|韦后]] alignment becomes dangerous. She also appears as the figure who honors Shangguan Wan'er after death.
 
 ## Current Profile
 
@@ -26,9 +26,9 @@ The episode says that after surviving [[LiChongjunTang|李重俊]]'s failed coup
 
 ## Evidence
 
-- Strategic approach: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er deliberately drew close to Li-Tang royal members, especially Princess Taiping, after Li Chongjun's coup.
-- Edict connection: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er believed the edict associated with Princess Taiping and Li Dan could show her position to Li Longji.
-- Afterlife memory: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Princess Taiping buried Shangguan Wan'er generously and collected thirty-two of her poems.
+- Strategic approach: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er deliberately drew close to Li-Tang royal members, especially Princess Taiping, after Li Chongjun's coup.
+- Edict connection: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er believed the edict associated with Princess Taiping and Li Dan could show her position to Li Longji.
+- Afterlife memory: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Princess Taiping buried Shangguan Wan'er generously and collected thirty-two of her poems.
 
 ## Qualifications
 
@@ -36,7 +36,7 @@ This page is limited to Princess Taiping's role in the Shangguan Wan'er episode.
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as Shangguan Wan'er's Li-Tang fallback and memorial figure.
+- Created the page from 汉纪 536-3 as Shangguan Wan'er's Li-Tang fallback and memorial figure.
 
 ## Relationships
 

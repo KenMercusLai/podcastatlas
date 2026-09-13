@@ -14,7 +14,7 @@ Scripted candor trap / 直言作秀陷阱 is the governance pattern where author
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]] grounds the concept through [[WangMang|王莽]]'s request for officials to recommend direct remonstrants. In the episode's reading, the procedure is not a healthy feedback channel. Wang Mang wants the nominated figures to validate his image, while [[ShentuGangEasternHan|申屠刚]] uses the opportunity to argue that [[HanPingdi|汉平帝]] should be allowed contact with outer relatives who can protect him.
+[[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|汉纪 610-1]] grounds the concept through [[WangMang|王莽]]'s request for officials to recommend direct remonstrants. In the episode's reading, the procedure is not a healthy feedback channel. Wang Mang wants the nominated figures to validate his image, while [[ShentuGangEasternHan|申屠刚]] uses the opportunity to argue that [[HanPingdi|汉平帝]] should be allowed contact with outer relatives who can protect him.
 
 The result is a feedback trap rather than ordinary disagreement. Shentu Gang's advice threatens Wang Mang's control over the child emperor, so the court recodes it as violation of classics and betrayal of great principle. The same public mechanism that advertises openness therefore teaches officials that candor is welcome only when it follows the script.
 
@@ -28,18 +28,18 @@ The result is a feedback trap rather than ordinary disagreement. Shentu Gang's a
 
 ## Evidence
 
-- Solicited candor: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]] says Wang Mang has officials recommend honest and direct speakers.
-- Unscripted advice: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]] says Shentu Gang urges bringing Pingdi's mother-side and Feng/Wei relatives near court.
-- Offense recoding: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]] says Wang Mang has the dowager's edict describe the memorial as violating Confucian classics and great principle.
-- Punitive result: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|Hanji 610-1]] says Shentu Gang is dismissed and sent home.
+- Solicited candor: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|汉纪 610-1]] says Wang Mang has officials recommend honest and direct speakers.
+- Unscripted advice: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|汉纪 610-1]] says Shentu Gang urges bringing Pingdi's mother-side and Feng/Wei relatives near court.
+- Offense recoding: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|汉纪 610-1]] says Wang Mang has the dowager's edict describe the memorial as violating Confucian classics and great principle.
+- Punitive result: [[zizhi-tongjian-hanji-610-1-jiemi-gudai-huangdi-niangjiaren-de-quanli-douzheng-lplz8f3wg1p0m5kmlh-w32jwnlzq|汉纪 610-1]] says Shentu Gang is dismissed and sent home.
 
 ## Counterevidence & Qualifications
 
-This concept does not claim that every request for candid advice is fake. It applies when the source shows an expected script, a politically inconvenient correction, and punitive recoding afterward. Hanji 610-1 supports Wang Mang's use of the mechanism in this episode, but his inner motive and the full legal force of the edict remain source-scoped.
+This concept does not claim that every request for candid advice is fake. It applies when the source shows an expected script, a politically inconvenient correction, and punitive recoding afterward. 汉纪 610-1 supports Wang Mang's use of the mechanism in this episode, but his inner motive and the full legal force of the edict remain source-scoped.
 
 ## What Changed
 
-- Created the concept from Hanji 610-1 to distinguish staged candor from healthier remonstrance channels and from meetings whose outcome is merely predetermined.
+- Created the concept from 汉纪 610-1 to distinguish staged candor from healthier remonstrance channels and from meetings whose outcome is merely predetermined.
 
 ## Related Concepts
 

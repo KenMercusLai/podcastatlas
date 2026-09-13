@@ -14,9 +14,9 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the setup immediately before [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]]. It frames early [[HanYuandi|汉元帝]] court politics as a three-sided field among outer relatives led by [[ShiGaoWesternHan|史高]], Confucian teacher-ministers around [[XiaoWangzhiWesternHan|萧望之]] and [[ZhouKanWesternHan|周堪]], and Zhongshu eunuchs [[HongGongWesternHan|弘恭]] and [[ShiXianWesternHan|石显]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the setup immediately before [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]]. It frames early [[HanYuandi|汉元帝]] court politics as a three-sided field among outer relatives led by [[ShiGaoWesternHan|史高]], Confucian teacher-ministers around [[XiaoWangzhiWesternHan|萧望之]] and [[ZhouKanWesternHan|周堪]], and Zhongshu eunuchs [[HongGongWesternHan|弘恭]] and [[ShiXianWesternHan|石显]].
 
-The durable synthesis is that factional politics becomes dangerous before the formal accusation begins. Xiao Wangzhi's side challenges eunuch control of Zhongshu, Shi Gao and the eunuchs converge against the Confucian group, and [[ZhengPengWesternHan|郑朋]] gains encouragement from Zhou Kan and Xiao by attacking the Xu-Shi outer-relative side. The episode closes on Zheng's rising expectations, making his later resentment in Hanji 469 more intelligible.
+The durable synthesis is that factional politics becomes dangerous before the formal accusation begins. Xiao Wangzhi's side challenges eunuch control of Zhongshu, Shi Gao and the eunuchs converge against the Confucian group, and [[ZhengPengWesternHan|郑朋]] gains encouragement from Zhou Kan and Xiao by attacking the Xu-Shi outer-relative side. The episode closes on Zheng's rising expectations, making his later resentment in 汉纪 469 more intelligible.
 
 ## Key Claims
 
@@ -47,5 +47,5 @@ The durable synthesis is that factional politics becomes dangerous before the fo
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source functions as the immediate prequel to Hanji 469 and explains why Zheng Peng first believed Xiao Wangzhi's side would reward him.
+- No settled contradiction with existing wiki content was found. This source functions as the immediate prequel to 汉纪 469 and explains why Zheng Peng first believed Xiao Wangzhi's side would reward him.
 - Scope caution: the "circle," "圆融," and "言多必失" lessons are the host's interpretive frame. The exact Wuyi colonel institutional background, Zheng Peng's memorial text, Jin Chang's role, and the full Xu-family position remain source-scoped.

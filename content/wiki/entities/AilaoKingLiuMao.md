@@ -10,13 +10,13 @@ last_updated: 2026-08-31
 
 ## Overview
 
-[[AilaoKingLiuMao|哀牢王柳貌 / Ailao King Liu Mao]] enters the wiki through [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] as the southwestern frontier ruler whose 69 CE submission brings more than fifty thousand people into Eastern Han administrative space.
+[[AilaoKingLiuMao|哀牢王柳貌 / Ailao King Liu Mao]] enters the wiki through [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] as the southwestern frontier ruler whose 69 CE submission brings more than fifty thousand people into Eastern Han administrative space.
 
 ## Current Profile
 
 The source presents Liu Mao as a submission and incorporation figure, not as a rebellion leader. His action lets [[EmperorMingOfHan|Mingdi]]'s court create Ailao and Bonan counties and begin road and crossing works through Bonan Mountain and the Lancang/Mekong corridor.
 
-This makes Liu Mao the earlier Ailao layer before [[AilaoKingLeilao|Ailao King Lei Lao]]'s later rebellion in Hanji 747. The contrast is useful: Hanji 739 shows entry through county creation and road opening, while the later source shows how fragile Ailao order can become under poor frontier administration.
+This makes Liu Mao the earlier Ailao layer before [[AilaoKingLeilao|Ailao King Lei Lao]]'s later rebellion in 汉纪 747. The contrast is useful: 汉纪 739 shows entry through county creation and road opening, while the later source shows how fragile Ailao order can become under poor frontier administration.
 
 The page remains compact because the episode does not provide Liu Mao's full lineage, internal Ailao politics, or later fate. His durable wiki role is the conversion of local submission into county, route, and frontier-governance work.
 
@@ -30,10 +30,10 @@ The page remains compact because the episode does not provide Liu Mao's full lin
 
 ## Evidence
 
-- Submission: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says Ailao King Liu Mao leads more than fifty thousand people to submit to Han in 69 CE.
-- County creation: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says the court creates Ailao and Bonan counties to manage the new frontier population.
-- Route works: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] says the state begins opening Bonan Mountain roads and crossing the Lancang/Mekong waterway.
-- Ailao chronology: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|Hanji 739]] supplies the earlier submission layer before the later Ailao rebellion already covered through Hanji 747.
+- Submission: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says Ailao King Liu Mao leads more than fifty thousand people to submit to Han in 69 CE.
+- County creation: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says the court creates Ailao and Bonan counties to manage the new frontier population.
+- Route works: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] says the state begins opening Bonan Mountain roads and crossing the Lancang/Mekong waterway.
+- Ailao chronology: [[zizhi-tongjian-hanji-739-zuoyong-tianxia-meinv-de-huangdi-qishi-ye-hui-gudu-lsoogpawume-fpmitbigklhzdbjl|汉纪 739]] supplies the earlier submission layer before the later Ailao rebellion already covered through 汉纪 747.
 
 ## Qualifications
 

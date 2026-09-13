@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-呼韩邪单于比 / Huhanye Chanyu Bi enters the wiki through [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] as the 日逐王 who turns an internal Xiongnu succession threat into the founding current layer of [[SouthernXiongnu|南匈奴]]. His profile matters because the Southern/Northern split begins with a succession breach, secret Han contact, and a calculation that submission to [[LiuXiu|光武帝刘秀]] is safer than remaining under the northern chanyu's control.
+呼韩邪单于比 / Huhanye Chanyu Bi enters the wiki through [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|汉纪 724]] as the 日逐王 who turns an internal Xiongnu succession threat into the founding current layer of [[SouthernXiongnu|南匈奴]]. His profile matters because the Southern/Northern split begins with a succession breach, secret Han contact, and a calculation that submission to [[LiuXiu|光武帝刘秀]] is safer than remaining under the northern chanyu's control.
 
 ## Current Profile
 
-Hanji 724 says Bi leads the southern eight tribes and becomes exposed after the chanyu Yu kills Zhiya Shi to clear a succession path for his own son. Bi reduces attendance at the royal court, is watched by two Gudu hou, and secretly sends Guo Heng to a Han frontier official with a Xiongnu map. When the Gudu hou urge the chanyu to kill him during the Longcheng ritual, the plan leaks, and Bi's brother warns him in time.
+汉纪 724 says Bi leads the southern eight tribes and becomes exposed after the chanyu Yu kills Zhiya Shi to clear a succession path for his own son. Bi reduces attendance at the royal court, is watched by two Gudu hou, and secretly sends Guo Heng to a Han frontier official with a Xiongnu map. When the Gudu hou urge the chanyu to kill him during the Longcheng ritual, the plan leaks, and Bi's brother warns him in time.
 
 Bi then gathers the southern eight tribes, reportedly forty to fifty thousand people or troops in the episode's telling, and the northern chanyu's ten thousand cavalry withdraw after seeing the larger force. In 48 CE, the eight tribal leaders raise Bi as Huhanye Chanyu. Bi sends envoys to the Wuyuan frontier asking to become a permanent Han vassal and to resist Northern Xiongnu for Han.
 
@@ -28,14 +28,14 @@ Bi then gathers the southern eight tribes, reportedly forty to fifty thousand pe
 
 ## Evidence
 
-- Succession rupture: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says Yu kills Zhiya Shi so his own son can control the succession path, making Bi distrust the northern royal court.
-- Secret Han contact: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says Bi sends Guo Heng to a Han frontier official and offers a Xiongnu map.
-- Attempted purge and mobilization: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says the killing plan leaks, Bi's brother warns him, Bi gathers the southern eight tribes, and the northern chanyu's force withdraws.
-- Submission request: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|Hanji 724]] says the tribal leaders raise Bi as Huhanye Chanyu and he asks Han to accept him as a permanent vassal resisting Northern Xiongnu.
+- Succession rupture: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|汉纪 724]] says Yu kills Zhiya Shi so his own son can control the succession path, making Bi distrust the northern royal court.
+- Secret Han contact: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|汉纪 724]] says Bi sends Guo Heng to a Han frontier official and offers a Xiongnu map.
+- Attempted purge and mobilization: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|汉纪 724]] says the killing plan leaks, Bi's brother warns him, Bi gathers the southern eight tribes, and the northern chanyu's force withdraws.
+- Submission request: [[zizhi-tongjian-hanji-724-xiongnu-neiluan-donghan-weishenme-bu-chenji-yao-ta-ming-lpqksa0j1y0tskwv6fpflhovg9b8|汉纪 724]] says the tribal leaders raise Bi as Huhanye Chanyu and he asks Han to accept him as a permanent vassal resisting Northern Xiongnu.
 
 ## Qualifications
 
-This page is bounded to Hanji 724 and does not reconstruct the full Southern Xiongnu chanyu line. The title 呼韩邪 is used here for Bi's Eastern Han Southern Xiongnu branch and is not merged with the older Western Han Huhanye chanyu. Force counts, Guo Heng's identity, the exact succession law, and the two Gudu hou remain source-scoped until later source notes add evidence.
+This page is bounded to 汉纪 724 and does not reconstruct the full Southern Xiongnu chanyu line. The title 呼韩邪 is used here for Bi's Eastern Han Southern Xiongnu branch and is not merged with the older Western Han Huhanye chanyu. Force counts, Guo Heng's identity, the exact succession law, and the two Gudu hou remain source-scoped until later source notes add evidence.
 
 ## What Changed
 

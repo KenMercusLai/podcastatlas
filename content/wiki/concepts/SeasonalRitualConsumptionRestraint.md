@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-The current evidence is source-bounded to [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]]. In 112 CE, the Eastern Han court criticizes fresh foods sent as offerings because many violate seasonal timing. The edict objects to produce warmed by fire to force maturity and to items removed when only sprouting, before their shape and flavor have developed.
+The current evidence is source-bounded to [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]]. In 112 CE, the Eastern Han court criticizes fresh foods sent as offerings because many violate seasonal timing. The edict objects to produce warmed by fire to force maturity and to items removed when only sprouting, before their shape and flavor have developed.
 
 The concept matters because the episode does not treat seasonality as a private dietary preference. The order applies to imperial tombs, ancestral temples, and palace use, so seasonal restraint becomes a public ritual standard. It also sits beside locusts, droughts, earthquakes, and frontier war, making rare fresh offerings a possible local burden during a wider crisis.
 
@@ -30,10 +30,10 @@ This does not prove that all off-season food was rejected for ecological reasons
 
 ## Evidence
 
-- Seasonal rule: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] says the 112 CE edict criticizes fresh foods that do not accord with the proper season.
-- Artificial forcing: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] gives fire-warming and premature digging as examples of violating natural growth.
-- Ritual scope: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] applies the restraint to imperial tomb, ancestral-temple, and palace foods.
-- Burden context: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] places the edict amid locusts, drought, earthquakes, frontier war, and office adjustments.
+- Seasonal rule: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] says the 112 CE edict criticizes fresh foods that do not accord with the proper season.
+- Artificial forcing: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] gives fire-warming and premature digging as examples of violating natural growth.
+- Ritual scope: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] applies the restraint to imperial tomb, ancestral-temple, and palace foods.
+- Burden context: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] places the edict amid locusts, drought, earthquakes, frontier war, and office adjustments.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ The source does not provide a detailed economic account of how much burden off-s
 
 ## What Changed
 
-- Created the concept from Hanji 786's 112 CE edict against artificially forced or immature fresh offerings.
+- Created the concept from 汉纪 786's 112 CE edict against artificially forced or immature fresh offerings.
 
 ## Related Concepts
 

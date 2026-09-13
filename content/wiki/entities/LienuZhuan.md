@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 《列女传》 / Lienu Zhuan
 
 ## Overview
-《列女传》 / Lienu Zhuan enters the wiki through [[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|Hanji 601-2]] as the [[LiuXiang|刘向]]-associated Western Han textual source invoked for Bao Si's legendary biography.
+《列女传》 / Lienu Zhuan enters the wiki through [[zizhi-tongjian-hanji-601-2-fenghuo-xi-zhuhou-yixiao-tianxia-wang-baosi-shi-hefang-yaonie-lkirbrvonyiyaousoblcd|汉纪 601-2]] as the [[LiuXiang|刘向]]-associated Western Han textual source invoked for Bao Si's legendary biography.
 
 ## Current Profile
 In this episode, the text functions as a source layer for moralized women-and-dynasty storytelling rather than as a neutral archive. The host uses it to introduce the dragon-saliva and beacon-fire traditions around [[BaoSi|褒姒]], then cautions listeners that the supernatural content should not be treated as straightforward history.

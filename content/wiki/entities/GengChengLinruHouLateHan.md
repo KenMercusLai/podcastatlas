@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-耿承 / Geng Cheng is the Linru marquis in Hanji 846 who refuses [[LiangJiLateHan|梁冀]]'s demand for Geng Guiren's burial goods. Liang's response, killing Geng Cheng and more than ten relatives, makes the case a grave-goods, kinship, and coercive-greed branch inside Liang's crime record.
+耿承 / Geng Cheng is the Linru marquis in 汉纪 846 who refuses [[LiangJiLateHan|梁冀]]'s demand for Geng Guiren's burial goods. Liang's response, killing Geng Cheng and more than ten relatives, makes the case a grave-goods, kinship, and coercive-greed branch inside Liang's crime record.
 
 ## Current Profile
 
-Hanji 846 introduces Geng Cheng through the death of Geng Guiren, Emperor An's legitimate mother in the episode's wording. Liang Ji wants the valuable grave goods associated with her burial and sends people to demand them from Geng Cheng, her nephew and Linru marquis.
+汉纪 846 introduces Geng Cheng through the death of Geng Guiren, Emperor An's legitimate mother in the episode's wording. Liang Ji wants the valuable grave goods associated with her burial and sends people to demand them from Geng Cheng, her nephew and Linru marquis.
 
 Geng Cheng refuses. Liang becomes angry and has Geng Cheng and more than ten members of his family killed. Unlike the advice and local-enforcement cases, Geng Cheng's conflict is over property and ritual boundary: refusal to surrender funeral goods becomes enough to trigger family killing.
 
@@ -28,9 +28,9 @@ Geng Cheng refuses. Liang becomes angry and has Geng Cheng and more than ten mem
 
 ## Evidence
 
-- Burial-goods demand: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Liang Ji wants Geng Guiren's burial goods and sends people to demand them from Geng Cheng.
-- Refusal: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Geng Cheng refuses Liang's demand.
-- Family killing: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] says Liang has Geng Cheng and more than ten family members killed.
+- Burial-goods demand: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Liang Ji wants Geng Guiren's burial goods and sends people to demand them from Geng Cheng.
+- Refusal: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Geng Cheng refuses Liang's demand.
+- Family killing: [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] says Liang has Geng Cheng and more than ten family members killed.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ This page is source-bounded. It does not independently settle Geng Guiren's full
 
 ## What Changed
 
-- Hanji 846 creates Geng Cheng's page as the burial-goods refusal branch in Liang Ji's retaliation record.
+- 汉纪 846 creates Geng Cheng's page as the burial-goods refusal branch in Liang Ji's retaliation record.
 
 ## Relationships
 

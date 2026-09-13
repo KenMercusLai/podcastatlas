@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the early [[LiuXiu|光武帝刘秀]] consolidation sequence immediately before Hanji 698 by finishing the [[ZhangBuEasternHan|张步]] and Qi campaign branch. It follows [[GengYanEasternHan|耿弇]] pursuing Zhang Bu to Pingshou, accepting Zhang Bu's surrender after Liu Xiu pits Zhang Bu and Su Mao against each other, dispersing the remaining army and wagons, and then returning after Qi is pacified.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the early [[LiuXiu|光武帝刘秀]] consolidation sequence immediately before 汉纪 698 by finishing the [[ZhangBuEasternHan|张步]] and Qi campaign branch. It follows [[GengYanEasternHan|耿弇]] pursuing Zhang Bu to Pingshou, accepting Zhang Bu's surrender after Liu Xiu pits Zhang Bu and Su Mao against each other, dispersing the remaining army and wagons, and then returning after Qi is pacified.
 
 The episode also gives a compact Geng Yan profile, treating him as an idealized Eastern Han founding commander whose career combines military household background, tactical deception, battlefield composure, and later withdrawal from high command. Its political back half widens the same consolidation frame through [[Taixue|太学]] restoration, Hou Ba's appointment, [[FengYiEasternHan|冯异]] surviving slander through Liu Xiu's trust, [[LuFangEasternHan|卢芳]]'s Xiongnu-backed northern disruption, and [[WeiXiaoEasternHan|隗嚣]] being warned by [[ZhengXingEasternHan|郑兴]] against kingly and imperial-grade overreach.
 
@@ -39,7 +39,7 @@ The episode also gives a compact Geng Yan profile, treating him as an idealized 
 ## Connections
 
 - [[GengYanEasternHan|耿弇]] - central commander whose Qi campaign finish, tactical repertoire, and later biography anchor the episode.
-- [[ZhangBuEasternHan|张步]] - defeated Qi-region rival whose first surrender becomes a controlled settlement before the later Hanji 707 collapse.
+- [[ZhangBuEasternHan|张步]] - defeated Qi-region rival whose first surrender becomes a controlled settlement before the later 汉纪 707 collapse.
 - [[LiuXiu|光武帝刘秀]] - consolidating ruler who combines inducement, pardon, hostage-like family retention, institutional restoration, and trust signaling.
 - [[SecurityForAuthorityExchange|交权换安全]] - Zhang Bu's survival bargain illustrates the coercive end of authority-for-security exchange.
 - [[BattlefieldFeintAndLure|声东击西与诱敌]] - Geng Yan's tactics are summarized through psychological pressure, false targets, lures, and follow-through after surrender.
@@ -51,6 +51,6 @@ The episode also gives a compact Geng Yan profile, treating him as an idealized 
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills an earlier Zhang Bu settlement and Qi-pacification layer; Hanji 707's later Zhang Bu flight and execution are a later collapse of that controlled settlement, not a conflict.
+- Chronology qualification: this source backfills an earlier Zhang Bu settlement and Qi-pacification layer; 汉纪 707's later Zhang Bu flight and execution are a later collapse of that controlled settlement, not a conflict.
 - Identity normalization: the source transcript form 张布 is routed to [[ZhangBuEasternHan|张步]] because the Anqiu marquisate, brothers, wife/children in Luoyang, and Guangwu-era Qi setting match the established Eastern Han figure.
 - Scope caution: Su Mao, Chen Jun, Hou Ba, Min Zhongshu, Li Xing, Sui Yu, Tian Sa, Shi Wei, Min Kan, exact troop and wagon counts, and the host's "兵仙"/"战神" evaluation remain source-scoped unless later notes warrant standalone pages.

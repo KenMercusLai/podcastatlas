@@ -14,7 +14,7 @@ Coerced command trust collapse / 胁迫式军令信任崩塌 is the failure patt
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] grounds the pattern in [[WangMang|王莽]]'s final emergency before Chang'an falls. Facing Han troops, Wang Mang appoints nine "Tiger" generals and sends elite guards eastward, but he keeps their families in the palace as hostages. At the same time, despite large gold and treasure reserves, he gives each commander only a small cash reward.
+[[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] grounds the pattern in [[WangMang|王莽]]'s final emergency before Chang'an falls. Facing Han troops, Wang Mang appoints nine "Tiger" generals and sends elite guards eastward, but he keeps their families in the palace as hostages. At the same time, despite large gold and treasure reserves, he gives each commander only a small cash reward.
 
 The episode's causal judgment is that coercion and under-reward weaken the very commitment Wang Mang needs. After defeat at Huayin, two returning generals kill themselves under Wang Mang's questioning, four flee, and only three gather remnants to defend the treasury area. The pattern is not simply "bad reward" or "hostage politics"; it is the combination of distrust, stinginess, and existential demand.
 
@@ -31,11 +31,11 @@ The source then extends the same failure through emergency mobilization. Wang Ma
 
 ## Evidence
 
-- Hostage-backed command: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says Wang Mang sends the Nine Tiger generals against Han troops while keeping their families in the palace.
-- Visible under-reward: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says palace gold and treasure remain abundant, but each commander receives only four thousand cash.
-- Defeat-to-despair: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says the Nine Tiger force is defeated at Huayin and two returned generals kill themselves after Wang Mang questions them.
-- Flight and remnant defense: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says four generals flee while three gather scattered soldiers to defend the treasury area.
-- Prisoner-mobilization failure: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] says pardoned prisoners receive weapons and swear loyalty but immediately scatter after crossing the bridge.
+- Hostage-backed command: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says Wang Mang sends the Nine Tiger generals against Han troops while keeping their families in the palace.
+- Visible under-reward: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says palace gold and treasure remain abundant, but each commander receives only four thousand cash.
+- Defeat-to-despair: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says the Nine Tiger force is defeated at Huayin and two returned generals kill themselves after Wang Mang questions them.
+- Flight and remnant defense: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says four generals flee while three gather scattered soldiers to defend the treasury area.
+- Prisoner-mobilization failure: [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] says pardoned prisoners receive weapons and swear loyalty but immediately scatter after crossing the bridge.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ This concept is currently grounded in one source note and should remain a Xin-en
 
 ## What Changed
 
-- Created from Hanji 666 to capture Wang Mang's Nine Tiger generals and armed-prisoner mobilization failure.
+- Created from 汉纪 666 to capture Wang Mang's Nine Tiger generals and armed-prisoner mobilization failure.
 
 ## Related Concepts
 

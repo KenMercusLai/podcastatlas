@@ -16,7 +16,7 @@ last_updated: 2026-09-11
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] defines the pattern through [[ZhaiFangjinWesternHan|Zhai Fangjin]]'s response to [[HuChangWesternHan|Hu Chang]]. Hu's jealousy produces public disparagement; Zhai does not counterattack or complain. Instead, he repeatedly sends disciples to Hu's lectures, asks them to consult Hu on difficult points, and records Hu's answers.
+[[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] defines the pattern through [[ZhaiFangjinWesternHan|Zhai Fangjin]]'s response to [[HuChangWesternHan|Hu Chang]]. Hu's jealousy produces public disparagement; Zhai does not counterattack or complain. Instead, he repeatedly sends disciples to Hu's lectures, asks them to consult Hu on difficult points, and records Hu's answers.
 
 The tactic works because the response is not merely polite language. It creates repeated public evidence that Hu's scholarship is worth hearing. In the host's workplace reading, this is "反弹琵琶，攻心为上": the conflict is approached through the other person's need for recognition, not through direct face-to-face victory.
 
@@ -31,13 +31,13 @@ The tactic works because the response is not merely polite language. It creates 
 ## Evidence
 
 Status-driven attack:
-- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] frames Hu Chang's disparagement as jealousy over Zhai Fangjin's stronger learning and reputation.
+- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] frames Hu Chang's disparagement as jealousy over Zhai Fangjin's stronger learning and reputation.
 
 Visible respect:
-- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] says Zhai sends disciples to attend Hu's teaching, ask difficult questions, and record the resulting arguments.
+- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] says Zhai sends disciples to attend Hu's teaching, ask difficult questions, and record the resulting arguments.
 
 Repair result:
-- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|Hanji 560]] says Hu becomes ashamed, stops belittling Zhai, praises his conduct, and becomes his friend.
+- [[zizhi-tongjian-hanji-560-zhichang-bu-bei-keng-jiao-ni-zhe-zhao-bu-zhan-er-sheng-fqgut61bpihhdit1d2i7tdo2ridp|汉纪 560]] says Hu becomes ashamed, stops belittling Zhai, praises his conduct, and becomes his friend.
 
 ## Counterevidence & Qualifications
 
@@ -45,7 +45,7 @@ The source is a short historical anecdote turned into workplace advice, so it sh
 
 ## What Changed
 
-- Created the concept from Hanji 560's Zhai Fangjin-Hu Chang story.
+- Created the concept from 汉纪 560's Zhai Fangjin-Hu Chang story.
 
 ## Related Concepts
 

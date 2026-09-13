@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] builds the concept by pairing a modern workplace anecdote with [[KongBaWesternHan|孔霸]]'s court refusal. The opening anecdote treats professional skill and income as a personal standing ground: continuing to work after childbirth later protects a household when the husband loses his job. The historical case scales the same logic to lineage strategy: Kong Ba's family's durable footing is [[Confucius|孔子]]-derived Confucian orthodox prestige, not factional struggle inside [[HanYuandi|汉元帝]]'s court.
+[[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] builds the concept by pairing a modern workplace anecdote with [[KongBaWesternHan|孔霸]]'s court refusal. The opening anecdote treats professional skill and income as a personal standing ground: continuing to work after childbirth later protects a household when the husband loses his job. The historical case scales the same logic to lineage strategy: Kong Ba's family's durable footing is [[Confucius|孔子]]-derived Confucian orthodox prestige, not factional struggle inside [[HanYuandi|汉元帝]]'s court.
 
 The concept is not anti-ambition. It is a caution against mistaking visible comfort, leisure, or high status for durable security. A person can preserve a profession; a family can preserve symbolic capital; an institution can preserve the role that makes it trusted. The danger comes when an attractive move consumes the very foundation that made the move possible.
 
@@ -29,12 +29,12 @@ The concept is not anti-ambition. It is a caution against mistaking visible comf
 ## Evidence
 
 Personal resilience:
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] opens with the claim that forgetting one's standing ground is a major error.
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] uses the story of a woman continuing work after childbirth and later supporting the family after her husband's unemployment.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] opens with the claim that forgetting one's standing ground is a major error.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] uses the story of a woman continuing work after childbirth and later supporting the family after her husband's unemployment.
 
 Lineage and institutional identity:
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says the Kong family's standing ground is its Confucian orthodox position.
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] argues that taking top office would force Kong Ba into political choices that could damage that basis.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says the Kong family's standing ground is its Confucian orthodox position.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] argues that taking top office would force Kong Ba into political choices that could damage that basis.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The modern anecdote is illustrative rather than statistical evidence. The histor
 
 ## What Changed
 
-- Created the concept from Hanji 476's paired modern workplace and Kong Ba lineage-strategy examples.
+- Created the concept from 汉纪 476's paired modern workplace and Kong Ba lineage-strategy examples.
 
 ## Related Concepts
 

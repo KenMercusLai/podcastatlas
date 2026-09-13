@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], before the later [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|Hanji 582]] and [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|Hanji 583]] notes. It follows [[ZhuBoWesternHan|朱博]]'s proposal to restore the Yushi Dafu office, Aidi's linked appointment of [[DingMingWesternHan|丁明]] as Da Sima Wei General, and [[FuTaihouWesternHan|傅太后]]'s pressure campaign against [[FuXiWesternHan|傅喜]] and [[KongGuangWesternHan|孔光]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], before the later [[zizhi-tongjian-hanji-582-nvren-de-chenhenxin-zui-duo-nanren-ming-ljiuneown6ah1yx5g_uchpb5escp|汉纪 582]] and [[zizhi-tongjian-hanji-583-douzhidao-ta-you-wenti-weishenme-hai-tiba-llkef6xxkyf5kufv2j_zcqv3wogs|汉纪 583]] notes. It follows [[ZhuBoWesternHan|朱博]]'s proposal to restore the Yushi Dafu office, Aidi's linked appointment of [[DingMingWesternHan|丁明]] as Da Sima Wei General, and [[FuTaihouWesternHan|傅太后]]'s pressure campaign against [[FuXiWesternHan|傅喜]] and [[KongGuangWesternHan|孔光]].
 
 The durable synthesis is that personnel change is treated as the most sensitive surface of power conflict. A formal institutional restoration can also reorganize hierarchy, succession paths, and factional placement: Zhu Bo makes Yushi Dafu a stepping-stone toward chancellorship, Aidi uses office change to consolidate control and strengthen consort-kin placement, and Kong Guang's removal shows how prior succession advice and dowager conflict leave senior officials exposed.
 
@@ -45,5 +45,5 @@ The durable synthesis is that personnel change is treated as the most sensitive 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source predates Hanji 582's later Zhu Bo collapse, Hanji 594's Kong Guang eclipse consultation, and Hanji 599's Kong Guang restoration after Wang Jia's death.
+- Chronology qualification: this source predates 汉纪 582's later Zhu Bo collapse, 汉纪 594's Kong Guang eclipse consultation, and 汉纪 599's Kong Guang restoration after Wang Jia's death.
 - Scope caution: the source summarizes rather than fully reconstructs the San Gong institutional history, Yushi Dafu/Sikong jurisdictional differences, Ding Ming's full career, Fu Xi's earlier case, Kong Guang's exact prior memorials, and Zhu Bo's inner motive.

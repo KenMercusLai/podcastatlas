@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate 169 CE post-coup setting before [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]]. It frames the period through [[MoralDesertPoliticalOutcomeGap|moral desert not reliably matching political outcomes]]: eunuch victory leaves upright officials discouraged, while [[ZhangHuanLateHan|张奂]] is promoted despite feeling implicated in the faction that used him.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate 169 CE post-coup setting before [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]]. It frames the period through [[MoralDesertPoliticalOutcomeGap|moral desert not reliably matching political outcomes]]: eunuch victory leaves upright officials discouraged, while [[ZhangHuanLateHan|张奂]] is promoted despite feeling implicated in the faction that used him.
 
 The main historical layer follows [[EmperorLingOfHan|汉灵帝]] through early-reign personnel churn, frontier pressure, the elevation of [[EmpressDowagerDongLateHan|董贵人 / 孝仁皇后]], and an omen crisis around a green snake on the imperial throne. Zhang Huan uses the confidential memorial opening to ask for repair around [[DouWuLateHan|窦武]], [[ChenFanLateHan|陈蕃]], and [[EmpressDowagerDouMiao|窦皇太后]], but the emperor retreats after consulting the eunuch side.
 
@@ -26,7 +26,7 @@ The main historical layer follows [[EmperorLingOfHan|汉灵帝]] through early-r
 - The 169 CE court sequence combines ordinary high-office movement with wider instability: [[HuGuangLateHan|Hu Guang]], [[LiuChongLateHanMinister|Liu Chong]], [[XuXunLateHan|Xu Xun]], and [[WenrenXiLateHan|Wenren Xi]] mark the personnel churn while [[Xianbei|Xianbei]], [[Wuhuan|Wuhuan]], and [[ShuleKingdom|Shule]] mark frontier and Western Regions pressure.
 - [[EmperorLingOfHan|Emperor Ling]] brings his mother [[EmpressDowagerDongLateHan|Dong Guiren]] to [[LuoyangLateHan|Luoyang]], honors her as Xiaoren Empress, and gives offices to [[DongChongLateHan|Dong Chong]] and [[DongZhongLateHan|Dong Zhong]], opening a new imperial-relative branch before later Dong-family risks.
 - The snake, storm, hail, and wind omens become a political feedback opening: Zhang Huan argues that Heaven may be objecting to the unredressed Dou Wu and Chen Fan case.
-- Emperor Ling is initially inclined to accept Zhang Huan's memorial, but eunuch opposition blocks decisive repair, making this a source case for [[CourtFeedbackCollapse|court feedback collapse]] before Hanji 890 continues the direct-remonstrance contrast.
+- Emperor Ling is initially inclined to accept Zhang Huan's memorial, but eunuch opposition blocks decisive repair, making this a source case for [[CourtFeedbackCollapse|court feedback collapse]] before 汉纪 890 continues the direct-remonstrance contrast.
 
 ## Key Quotes
 
@@ -44,7 +44,7 @@ The main historical layer follows [[EmperorLingOfHan|汉灵帝]] through early-r
 - [[HuGuangLateHan|胡广]], [[LiuChongLateHanMinister|刘宠]], [[XuXunLateHan|许训]], and [[WenrenXiLateHan|闻人袭]] - high-office turnover around the same early-reign sequence.
 - [[Xianbei|鲜卑]], [[Wuhuan|乌桓]], [[ShuleKingdom|疏勒]], [[YouzhouLateHan|幽州]], and [[BingzhouLateHan|并州]] - frontier and Western Regions pressure in the source background.
 - [[MoralDesertPoliticalOutcomeGap]], [[GoodIntentionsPoliticalLimits]], [[NaturalDisasterPoliticalOmen]], [[CelestialOmenPoliticalResponsibility]], and [[CourtFeedbackCollapse]] - concept frame for moral-outcome mismatch, omen interpretation, and blocked feedback.
-- [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] - direct sequel that continues Zhang Huan's punishment and contrasts Xie Bi with Yang Ci's oblique remonstrance.
+- [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] - direct sequel that continues Zhang Huan's punishment and contrasts Xie Bi with Yang Ci's oblique remonstrance.
 
 ## Contradictions
 

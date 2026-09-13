@@ -14,7 +14,7 @@ Unearned reward refusal / 非道所得不居 is the practice of declining wealth
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] gives two linked late-Han cases. [[LuZhiLateHan|卢植]] urges [[DouWuLateHan|窦武]] to decline excessive accession reward because [[EmperorLingOfHan|汉灵帝]]'s selection rested on genealogy and public recommendation rather than Dou's sole merit. [[ChenFanLateHan|陈蕃]] then supplies the stronger refusal case: he repeatedly declines [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]]'s favor-based marquisate because the land and food revenue are not properly earned.
+[[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] gives two linked late-Han cases. [[LuZhiLateHan|卢植]] urges [[DouWuLateHan|窦武]] to decline excessive accession reward because [[EmperorLingOfHan|汉灵帝]]'s selection rested on genealogy and public recommendation rather than Dou's sole merit. [[ChenFanLateHan|陈蕃]] then supplies the stronger refusal case: he repeatedly declines [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]]'s favor-based marquisate because the land and food revenue are not properly earned.
 
 The source's synthesis is that status can become dangerous when it lacks rightful grounding. Refusal is therefore practical moral discipline: it keeps a person from accepting reputation-damaging honor and keeps title systems from becoming private favor markets.
 
@@ -29,20 +29,20 @@ The source's synthesis is that status can become dangerous when it lacks rightfu
 
 ## Evidence
 
-- Warning before acceptance: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] says Lu Zhi warns Dou Wu that his accession reward is excessive because Emperor Ling's succession was not Dou's unique accomplishment.
-- Refusal after offer: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] says Chen Fan refuses Gao Yangxiang marquis status ten times after Dou Miao offers it as repayment for helping make her empress.
-- Proper-path criterion: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] uses the Analects wealth-and-rank frame to argue that benefits outside the proper path should not be accepted.
-- Institutional effect: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|Hanji 882]] contrasts genealogy/favor-based reward with public merit, making refusal a title-legitimacy issue rather than only a private virtue.
+- Warning before acceptance: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] says Lu Zhi warns Dou Wu that his accession reward is excessive because Emperor Ling's succession was not Dou's unique accomplishment.
+- Refusal after offer: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] says Chen Fan refuses Gao Yangxiang marquis status ten times after Dou Miao offers it as repayment for helping make her empress.
+- Proper-path criterion: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] uses the Analects wealth-and-rank frame to argue that benefits outside the proper path should not be accepted.
+- Institutional effect: [[zizhi-tongjian-hanji-882-fengguang-taisheng-zhuding-bude-haosi-lphagu5ljuxxjwx-uvnbs229wjii|汉纪 882]] contrasts genealogy/favor-based reward with public merit, making refusal a title-legitimacy issue rather than only a private virtue.
 
 ## Counterevidence & Qualifications
 
-- Hanji 882 gives one strong refusal case and one warning case; the page should not be treated as a complete theory of every late-Han title refusal.
+- 汉纪 882 gives one strong refusal case and one warning case; the page should not be treated as a complete theory of every late-Han title refusal.
 - The source does not show that refusal guarantees safety. It shows that acceptance without rightful grounding creates reputational and legitimacy risk.
 - Dou Wu's case is advice that he does not follow, while Chen Fan's case is actual repeated refusal; they should be kept related but distinct.
 
 ## What Changed
 
-- Created this concept from Hanji 882's paired Lu Zhi and Chen Fan reward-legitimacy cases.
+- Created this concept from 汉纪 882's paired Lu Zhi and Chen Fan reward-legitimacy cases.
 - Established the concept as a bridge between personal dignity, title legitimacy, and merit-grounded reward.
 - Kept the scope narrow pending additional sources.
 

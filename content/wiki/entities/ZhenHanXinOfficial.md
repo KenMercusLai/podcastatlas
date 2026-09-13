@@ -10,11 +10,11 @@ last_updated: 2026-09-10
 
 ## Overview
 
-甄邯 / Zhen Han enters the wiki through [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|Hanji 611]] as a [[WangMang|王莽]]-aligned court actor who stops discussion after [[SunBaoWesternHan|孙宝]] publicly challenges yellow-dragon praise of Wang Mang.
+甄邯 / Zhen Han enters the wiki through [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|汉纪 611]] as a [[WangMang|王莽]]-aligned court actor who stops discussion after [[SunBaoWesternHan|孙宝]] publicly challenges yellow-dragon praise of Wang Mang.
 
 ## Current Profile
 
-Hanji 611 gives Zhen Han a narrow but revealing role. When ministers use the yellow-dragon report to praise Wang Mang and Sun Bao answers by pointing to depleted state resources and commoner hardship, the court becomes alarmed. Zhen Han then immediately stops the discussion, which makes him a control actor inside a praise-heavy court rather than a developed biographical subject.
+汉纪 611 gives Zhen Han a narrow but revealing role. When ministers use the yellow-dragon report to praise Wang Mang and Sun Bao answers by pointing to depleted state resources and commoner hardship, the court becomes alarmed. Zhen Han then immediately stops the discussion, which makes him a control actor inside a praise-heavy court rather than a developed biographical subject.
 
 The current page keeps him source-bounded. His importance here is procedural: he helps close a dangerous public exchange after Sun Bao punctures the celebratory frame around Wang Mang.
 
@@ -23,21 +23,21 @@ The current page keeps him source-bounded. His importance here is procedural: he
 - Wang Mang-aligned court actor in a 2 CE praise-politics scene.
 - Responds to Sun Bao's public disagreement by stopping discussion.
 - Operates inside an omen-praise environment around Wang Mang.
-- Currently source-bounded to Hanji 611 in this wiki branch.
+- Currently source-bounded to 汉纪 611 in this wiki branch.
 
 ## Evidence
 
-- Discussion control: [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|Hanji 611]] says Zhen Han stops the yellow-dragon discussion after Sun Bao's speech alarms the court.
-- Alignment context: [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|Hanji 611]] presents him as one of Wang Mang's close supporters.
-- Court atmosphere: [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|Hanji 611]] places his intervention immediately after ministers praise Wang Mang through an auspicious omen and Sun Bao challenges the premise.
+- Discussion control: [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|汉纪 611]] says Zhen Han stops the yellow-dragon discussion after Sun Bao's speech alarms the court.
+- Alignment context: [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|汉纪 611]] presents him as one of Wang Mang's close supporters.
+- Court atmosphere: [[zizhi-tongjian-hanji-611-lishi-wuming-de-sunbao-you-duo-yemen-lhlc5v3ndnivv9j_cb9w65v4xutw|汉纪 611]] places his intervention immediately after ministers praise Wang Mang through an auspicious omen and Sun Bao challenges the premise.
 
 ## Qualifications
 
-The source does not reconstruct Zhen Han's full offices, kinship ties, later career, or private motive. The page records only his source-backed role in stopping the Hanji 611 discussion.
+The source does not reconstruct Zhen Han's full offices, kinship ties, later career, or private motive. The page records only his source-backed role in stopping the 汉纪 611 discussion.
 
 ## What Changed
 
-- Created Zhen Han as the Hanji 611 discussion-control actor in Wang Mang's praise environment.
+- Created Zhen Han as the 汉纪 611 discussion-control actor in Wang Mang's praise environment.
 
 ## Relationships
 

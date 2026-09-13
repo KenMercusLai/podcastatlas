@@ -24,14 +24,14 @@ Guan Jing first appears as the adviser who blocks Gongsun Zan's proposal to leav
 - Interpretive bridge between rescue reciprocity, fortress security, and battlefield morale.
 
 ## Evidence
-- Abandonment-risk warning: [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|Hanji 1030]] records Guan Jing arguing that if Gongsun Zan leaves Yijing, the remaining defenders may believe they have been abandoned and disperse.
-- Loyalist death and retrospective doubt: [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|Hanji 1031]] reports Guan Jing's post-fall reflection, his refusal to flee, his charge into Yuan Shao's forces, and the sending of his head to Xudu.
+- Abandonment-risk warning: [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|汉纪 1030]] records Guan Jing arguing that if Gongsun Zan leaves Yijing, the remaining defenders may believe they have been abandoned and disperse.
+- Loyalist death and retrospective doubt: [[zizhi-tongjian-hanji-1031-gongsunzan-zhisi-cong-bianjiang-zhanshen-dao-kunshou-zifen-lmqoechccfwmfpmbdx8-tjmnm3jz|汉纪 1031]] reports Guan Jing's post-fall reflection, his refusal to flee, his charge into Yuan Shao's forces, and the sending of his head to Xudu.
 
 ## Qualifications
-The final source does not reduce Guan Jing's earlier advice to a simple error. Hanji 1030 presents the abandonment problem as real; Hanji 1031 adds retrospective tragedy by showing that staying also leaves Gongsun Zan vulnerable to deception and siege engineering.
+The final source does not reduce Guan Jing's earlier advice to a simple error. 汉纪 1030 presents the abandonment problem as real; 汉纪 1031 adds retrospective tragedy by showing that staying also leaves Gongsun Zan vulnerable to deception and siege engineering.
 
 ## What Changed
-- Hanji 1031 completes Guan Jing's arc from adviser to loyalist casualty.
+- 汉纪 1031 completes Guan Jing's arc from adviser to loyalist casualty.
 - The page now records his retrospective doubt after Gongsun Zan's defeat.
 - His role is now tied to both the blocked sortie and the failed final sortie.
 

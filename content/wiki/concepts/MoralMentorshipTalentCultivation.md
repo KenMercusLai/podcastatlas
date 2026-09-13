@@ -15,9 +15,9 @@ Moral mentorship as talent cultivation / 人师型人才成全 is the teacher mo
 
 ## Current Synthesis
 
-Hanji 860 adds the precondition for Guo Tai's teacher model: accurate people-reading before formal instruction. [[GuoTaiLateHan|郭泰]] sees that [[XuZhiLateHan|徐稚]]'s silence with [[MaoRongLateHan|茅容]] is not empty rudeness, then later reads Mao Rong's upright rain-shelter posture and filial food allocation as signs of virtue. Mentorship begins when such judgment becomes encouragement: Guo Tai bows to Mao Rong and urges him to study.
+汉纪 860 adds the precondition for Guo Tai's teacher model: accurate people-reading before formal instruction. [[GuoTaiLateHan|郭泰]] sees that [[XuZhiLateHan|徐稚]]'s silence with [[MaoRongLateHan|茅容]] is not empty rudeness, then later reads Mao Rong's upright rain-shelter posture and filial food allocation as signs of virtue. Mentorship begins when such judgment becomes encouragement: Guo Tai bows to Mao Rong and urges him to study.
 
-Hanji 861 then defines the concept more fully through Guo Tai. The episode's answer to "what kind of person can be a teacher model" is not a specialist who only explains texts. It is someone who notices promising qualities before status makes them obvious, turns recognition into learning, tests whether respect and steadiness survive pressure, and gives flawed people a path back without pretending their faults do not matter.
+汉纪 861 then defines the concept more fully through Guo Tai. The episode's answer to "what kind of person can be a teacher model" is not a specialist who only explains texts. It is someone who notices promising qualities before status makes them obvious, turns recognition into learning, tests whether respect and steadiness survive pressure, and gives flawed people a path back without pretending their faults do not matter.
 
 The concept has an important boundary. Guo Tai refuses office because he thinks the public order cannot be repaired by his individual effort, and [[XuZhiLateHan|徐稚]]'s warning reinforces that limit. Moral mentorship can still cultivate people inside decline, but it is not identical to institutional rescue.
 
@@ -33,22 +33,22 @@ The concept has an important boundary. Guo Tai refuses office because he thinks 
 
 ## Evidence
 
-- Pre-instruction people reading: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] has Guo Tai interpret Xu Zhi's selective speech and Mao Rong's conduct before any formal teaching relation appears.
-- Encouragement from hidden virtue: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Guo Tai bows to Mao Rong and urges him to study after seeing his filial food allocation.
-- Recognition beyond status: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] presents Guo Tai noticing Meng Min after a broken vessel, Shentu Pan as a poor lacquer worker, and Yu Cheng as a county gatekeeper.
-- Conduct under pressure: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] uses Meng Min's loss response and Wei Zhao's repeated porridge rebuke to make small scenes into character evidence.
-- Human teacher distinction: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] has Wei Zhao distinguish "经师" from "人师," grounding the concept's difference between instruction and formation.
-- Correction after offense: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] has Guo Tai comfort and admonish Zuo Yuan, then later prevent revenge through remembered trust.
-- Teacher self-limitation: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] shows Guo Tai refusing office, continuing instruction, and accepting Xu Zhi's warning about trying to hold up a falling order.
-- Fallibility and qualification: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] frames Huang Yun's high talent as conditional on later self-correction rather than a guaranteed destiny.
+- Pre-instruction people reading: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]] has Guo Tai interpret Xu Zhi's selective speech and Mao Rong's conduct before any formal teaching relation appears.
+- Encouragement from hidden virtue: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]] says Guo Tai bows to Mao Rong and urges him to study after seeing his filial food allocation.
+- Recognition beyond status: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] presents Guo Tai noticing Meng Min after a broken vessel, Shentu Pan as a poor lacquer worker, and Yu Cheng as a county gatekeeper.
+- Conduct under pressure: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] uses Meng Min's loss response and Wei Zhao's repeated porridge rebuke to make small scenes into character evidence.
+- Human teacher distinction: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] has Wei Zhao distinguish "经师" from "人师," grounding the concept's difference between instruction and formation.
+- Correction after offense: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] has Guo Tai comfort and admonish Zuo Yuan, then later prevent revenge through remembered trust.
+- Teacher self-limitation: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] shows Guo Tai refusing office, continuing instruction, and accepting Xu Zhi's warning about trying to hold up a falling order.
+- Fallibility and qualification: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] frames Huang Yun's high talent as conditional on later self-correction rather than a guaranteed destiny.
 
 ## Counterevidence & Qualifications
 
-The concept is source-scoped to a narrow late-Han Guo Tai cluster and should not be generalized into a modern education program. The porridge-test story in particular is preserved as a historical-moral character scene, not a recommendation that humiliation is good teaching. Hanji 860's filial and etiquette scenes should likewise be read as source character evidence, not as universal proof that small gestures always disclose a whole person. The source sequence also qualifies Guo Tai's discernment through Huang Yun: recognizing talent does not eliminate the need for later conduct or the possibility of misjudgment.
+The concept is source-scoped to a narrow late-Han Guo Tai cluster and should not be generalized into a modern education program. The porridge-test story in particular is preserved as a historical-moral character scene, not a recommendation that humiliation is good teaching. 汉纪 860's filial and etiquette scenes should likewise be read as source character evidence, not as universal proof that small gestures always disclose a whole person. The source sequence also qualifies Guo Tai's discernment through Huang Yun: recognizing talent does not eliminate the need for later conduct or the possibility of misjudgment.
 
 ## What Changed
 
-- Hanji 860 adds people-reading and encouragement before Hanji 861's fuller "经师 / 人师" distinction.
+- 汉纪 860 adds people-reading and encouragement before 汉纪 861's fuller "经师 / 人师" distinction.
 - Mao Rong strengthens the concept's ordinary-conduct branch: mentorship can begin from seeing quiet virtue before public achievement.
 
 ## Related Concepts

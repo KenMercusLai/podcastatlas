@@ -9,10 +9,10 @@ last_updated: 2026-09-02
 ---
 
 ## Overview
-周建 / Zhou Jian is currently a source-scoped Guangwu-era opponent in [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]]. He appears as [[SuMaoEasternHan|苏茂]]'s ally at Chuihui, helps defeat [[MaWuEasternHan|马武]], loses to [[WangBaEasternHan|王霸]]'s delayed rear-cavalry strike, and then dies after Zhou Song closes the Chuihui gate during retreat.
+周建 / Zhou Jian is currently a source-scoped Guangwu-era opponent in [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]]. He appears as [[SuMaoEasternHan|苏茂]]'s ally at Chuihui, helps defeat [[MaWuEasternHan|马武]], loses to [[WangBaEasternHan|王霸]]'s delayed rear-cavalry strike, and then dies after Zhou Song closes the Chuihui gate during retreat.
 
 ## Current Profile
-Hanji 692 introduces Zhou Jian as the figure Su Mao comes to rescue at Chuihui. Zhou Jian then joins Su Mao in defeating Ma Wu, prompting Ma Wu's request for Wang Ba's rescue.
+汉纪 692 introduces Zhou Jian as the figure Su Mao comes to rescue at Chuihui. Zhou Jian then joins Su Mao in defeating Ma Wu, prompting Ma Wu's request for Wang Ba's rescue.
 
 Zhou Jian's tactical role is tied to the same patience case as Su Mao's. Wang Ba refuses immediate battle, waits while Zhou Jian and Su Mao press Ma Wu for a long time, and then attacks from the rear once the enemy is tired and Ma Wu has been forced into survival fighting.
 
@@ -25,16 +25,16 @@ After the first defeat, Zhou Jian returns with Su Mao to challenge Wang Ba. Wang
 - Source-scoped figure whose broader political and military biography is not yet established.
 
 ## Evidence
-- Chuihui setting: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] says Su Mao comes to rescue Zhou Jian at Chuihui.
-- Defeat of Ma Wu: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] places Zhou Jian with Su Mao in the attack that beats Ma Wu.
-- Wang Ba's counter: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] links Zhou Jian's defeat to Wang Ba's delayed rear-cavalry strike.
-- Death on retreat: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] says Zhou Song closes the Chuihui gate and Zhou Jian dies during retreat.
+- Chuihui setting: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] says Su Mao comes to rescue Zhou Jian at Chuihui.
+- Defeat of Ma Wu: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] places Zhou Jian with Su Mao in the attack that beats Ma Wu.
+- Wang Ba's counter: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] links Zhou Jian's defeat to Wang Ba's delayed rear-cavalry strike.
+- Death on retreat: [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] says Zhou Song closes the Chuihui gate and Zhou Jian dies during retreat.
 
 ## Qualifications
-Zhou Jian's current profile is narrow and source-scoped. Zhou Song, Chuihui, exact force composition, and the post-retreat campaign details should not be expanded beyond Hanji 692 without new evidence.
+Zhou Jian's current profile is narrow and source-scoped. Zhou Song, Chuihui, exact force composition, and the post-retreat campaign details should not be expanded beyond 汉纪 692 without new evidence.
 
 ## What Changed
-- Created this source-scoped page from Hanji 692.
+- Created this source-scoped page from 汉纪 692.
 - Established Zhou Jian as Su Mao's ally and as the retreat-collapse figure in Wang Ba's battle case.
 
 ## Relationships

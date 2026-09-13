@@ -12,7 +12,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Suihe 2 / 7 BCE Yellow River policy discussion immediately before [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|Hanji 568]]. It uses [[JiaRangWesternHan|贾让]]'s three flood-control proposals to explain why the [[YellowRiver|黄河]] could be both a civilizational "mother river" and a recurring source of disaster.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Suihe 2 / 7 BCE Yellow River policy discussion immediately before [[zizhi-tongjian-hanji-568-hewu-duanjian-gudai-zheqi-panjue-zhide-dangdai-xueyixue-ljd2ojjmsla46no-9m2q802syxlp|汉纪 568]]. It uses [[JiaRangWesternHan|贾让]]'s three flood-control proposals to explain why the [[YellowRiver|黄河]] could be both a civilizational "mother river" and a recurring source of disaster.
 
 The durable synthesis is that the episode treats flood control as a governance problem about land, incentives, and time horizon, not only as hydraulic engineering. Jia Rang's upper policy relocates people from flood-prone ground and lets the river return north toward the sea; the middle policy uses canals, stone embankments, and sluices to divide water and irrigate fields; the lower policy merely repairs old levees and preserves the costly pattern of fighting the river. The closing [[QianMu|钱穆]] temple-tree story turns that hydraulic judgment into a broader lesson about accepting conspicuous short-term cost for long-range order.
 
@@ -46,5 +46,5 @@ The durable synthesis is that the episode treats flood control as a governance p
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology caution: this source backfills a 7 BCE hydraulic-policy discussion before the later Hanji 568-610 Aidi court-politics sequence already in the wiki.
+- Chronology caution: this source backfills a 7 BCE hydraulic-policy discussion before the later 汉纪 568-610 Aidi court-politics sequence already in the wiki.
 - Scope caution: the source does not settle the exact topography of Jizhou, Liyang, Zhehai Pavilion, later implementation of Jia Rang's proposals, or full technical feasibility of the canal-and-sluice design.

@@ -33,9 +33,9 @@ The source's durable contribution is [[CharacterReadingDelegationTrust|识人授
 > "最多60天" - Taishi Ci's promised return window before leaving on the Yuzhang mission.
 
 ## Connections
-- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] - earlier encounter where Taishi Ci's martial ability becomes visible at Shentingling.
-- [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|Hanji 995]] - earlier Yuzhang route and office-contest source that leads into Hua Xin's appointment.
-- [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|Hanji 1030]] - next episode that uses Sun Ce's Taishi Ci trust as the positive contrast to Gongsun Zan's command-trust failure.
+- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|汉纪 993]] - earlier encounter where Taishi Ci's martial ability becomes visible at Shentingling.
+- [[zizhi-tongjian-hanji-995-ta-zuishang-cibei-weihe-duoci-cansha-enren-llicukoezccd5iycin4uq7qun51k|汉纪 995]] - earlier Yuzhang route and office-contest source that leads into Hua Xin's appointment.
+- [[zizhi-tongjian-hanji-1030-shouwo-hao-pai-gongsunzan-weihe-da-de-xilan-lpkntyov4viqyzgxgcujn36qhv8|汉纪 1030]] - next episode that uses Sun Ce's Taishi Ci trust as the positive contrast to Gongsun Zan's command-trust failure.
 - [[SunCe|孙策]], [[TaishiCi|太史慈]], [[LiuYaoLateHan|刘繇]], [[HuaXin|华歆]], [[YuzhangCommandery|豫章郡]], [[TongZhiLateHan|僮芝]], [[LulingLateHan|庐陵]], [[PanyangLocalForces|番阳民帅]], and [[HaihunLateHan|海昏]] - main actors and local-control signals.
 - [[CharacterReadingDelegationTrust|识人授权信任]], [[TalentAsStateTreasure|以贤臣为宝]], [[SituationalCharacterTests|五观识人法]], [[RetainerReciprocityEthic|士为知己者死]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[WindfallDecisionTrap|无故之利]] - interpretive frames for trust, talent, character, local intelligence, and the opening wealth caution.
 

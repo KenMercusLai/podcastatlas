@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-薛惠 / Xue Hui enters the wiki through [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]] as the son of [[XueXuanWesternHan|薛宣]] and serving magistrate of Pengcheng when his father passes through.
+薛惠 / Xue Hui enters the wiki through [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|汉纪 521]] as the son of [[XueXuanWesternHan|薛宣]] and serving magistrate of Pengcheng when his father passes through.
 
 ## Current Profile
 
@@ -21,25 +21,25 @@ In the episode's reading, Xue Hui becomes the relationship object around whom ot
 ## Key Characteristics
 
 - Son of [[XueXuanWesternHan|薛宣]].
-- Western Han Pengcheng magistrate in the Hanji 521 scene.
+- Western Han Pengcheng magistrate in the 汉纪 521 scene.
 - Described by the source as not especially capable.
 - Functions mainly as the beneficiary-risk object in a patronage-signaling episode.
 
 ## Evidence
 
 Kinship and office:
-- [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]] says Xue Hui is Xue Xuan's son and is serving as Pengcheng magistrate.
+- [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|汉纪 521]] says Xue Hui is Xue Xuan's son and is serving as Pengcheng magistrate.
 
 Ability and public non-instruction:
-- [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|Hanji 521]] says Xue Xuan knows Xue Hui lacks ability yet does not ask him about administrative affairs in public.
+- [[zizhi-tongjian-hanji-521-guanchang-li-de-zhaogu-shi-ruhe-toutou-jinxing-de-lmxkflbc1avst9k2zh06n02noonr|汉纪 521]] says Xue Xuan knows Xue Hui lacks ability yet does not ask him about administrative affairs in public.
 
 ## Qualifications
 
-This page is bounded to Hanji 521. It does not reconstruct Xue Hui's full career, local administration, later fate, or the actual effect of Xue Xuan's public answer on Pengcheng officials.
+This page is bounded to 汉纪 521. It does not reconstruct Xue Hui's full career, local administration, later fate, or the actual effect of Xue Xuan's public answer on Pengcheng officials.
 
 ## What Changed
 
-- Created the page from Hanji 521's father-son official scene.
+- Created the page from 汉纪 521's father-son official scene.
 
 ## Relationships
 

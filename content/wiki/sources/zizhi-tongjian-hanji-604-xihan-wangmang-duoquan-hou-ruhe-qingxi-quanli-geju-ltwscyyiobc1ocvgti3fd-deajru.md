@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first Yuanshou 2 / 1 BCE transition layer after [[HanAidi|汉哀帝]] dies and [[DongXian|董贤]] is gone, immediately before [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]] and [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]]. It follows the Da Sima recommendation contest, [[WangMang|王莽]]'s return to the chief command office through [[WangZhengjun|王政君]]'s decision, [[WangShunXinTaishi|王舜 / 王顺]]'s role in bringing [[HanPingdi|汉平帝]] to Chang'an, and the first purge of Zhao, Fu, and Ding palace-consort networks.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first Yuanshou 2 / 1 BCE transition layer after [[HanAidi|汉哀帝]] dies and [[DongXian|董贤]] is gone, immediately before [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|汉纪 605]] and [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|汉纪 606]]. It follows the Da Sima recommendation contest, [[WangMang|王莽]]'s return to the chief command office through [[WangZhengjun|王政君]]'s decision, [[WangShunXinTaishi|王舜 / 王顺]]'s role in bringing [[HanPingdi|汉平帝]] to Chang'an, and the first purge of Zhao, Fu, and Ding palace-consort networks.
 
 The durable synthesis is that Wang Mang's early consolidation begins as a succession-security cleanup. [[HeWuWesternHan|何武]] and [[GongsunLuWesternHan|公孙禄]] diagnose the danger of another outer-relative monopoly, but their mutual recommendation loses to Wang-family seniority and creates later exposure. The episode then uses [[FuXiWesternHan|傅喜]] as the countercase: because he had refused to attach himself to Fu Taihou's faction earlier, he survives the Fu/Ding collapse, returns as tejin, and becomes a source case for [[HighStatusCautionSelfProtection|高位谨慎自保]] and [[GoodDeathPoliticalSurvival|乱局善终]].
 
@@ -46,5 +46,5 @@ The durable synthesis is that Wang Mang's early consolidation begins as a succes
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the first post-Aidi office and heir-selection layer before Hanji 605's Dong-family cleanup and Hanji 606's Wang Li removal.
+- Chronology qualification: this source backfills the first post-Aidi office and heir-selection layer before 汉纪 605's Dong-family cleanup and 汉纪 606's Wang Li removal.
 - Scope caution: Zhao Feiyan, Zuo Xian, Liu Jizi's full accession procedure, the exact legal basis for the Fu/Ding removals, and Wang Mang's inner motive remain source-scoped unless later notes require standalone pages.

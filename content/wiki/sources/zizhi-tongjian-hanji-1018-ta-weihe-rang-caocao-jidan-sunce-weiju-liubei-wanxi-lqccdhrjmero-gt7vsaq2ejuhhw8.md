@@ -42,5 +42,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses [[Chen
 - [[Xuzhou|徐州]], [[EmperorXianOfHan|汉献帝]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - setting, legitimacy, and situational-judgment frame.
 
 ## Contradictions
-- No settled contradiction found. This source extends Hanji 1019's compact Lü Bu/Gao Shun personnel branch backward into the fuller Hanji 1018 sequence.
+- No settled contradiction found. This source extends 汉纪 1019's compact Lü Bu/Gao Shun personnel branch backward into the fuller 汉纪 1018 sequence.
 - The episode title invokes Cao Cao, Sun Ce, and Liu Bei as Chen Deng's wider historical reputation, but the provided text mainly develops Chen Deng's dealings with Lü Bu and Cao Cao; broader Sun Ce/Liu Bei material is not treated as established by this source page.

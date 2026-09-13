@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 166 CE immediately before [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] and the first Party Prohibition trigger. It follows [[XiangKaiLateHan|襄楷]] submitting two memorials to [[EmperorHuanOfHan|汉桓帝]], using planets, mansions, frost, hail, extreme cold, the Yellow River turning clear, and the emperor's lack of an heir as a language of [[OmenCodedRemonstrance|天象灾异包装式进谏]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 166 CE immediately before [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] and the first Party Prohibition trigger. It follows [[XiangKaiLateHan|襄楷]] submitting two memorials to [[EmperorHuanOfHan|汉桓帝]], using planets, mansions, frost, hail, extreme cold, the Yellow River turning clear, and the emperor's lack of an heir as a language of [[OmenCodedRemonstrance|天象灾异包装式进谏]].
 
 The episode's core contribution is that omen discourse works as political criticism rather than neutral cosmology. Xiang Kai turns [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]], and religious teachings around [[Laozi|老子]] and [[ShakyamuniBuddha|释迦牟尼佛]] into accusations about eunuch favor, harsh punishment, wrongful killing, ruler desire, and contradiction between imperial ritual and conduct.
 
@@ -42,12 +42,12 @@ The episode's core contribution is that omen discourse works as political critic
 - [[XiangKaiLateHan|襄楷]], [[EmperorHuanOfHan|汉桓帝]], and [[OmenCodedRemonstrance|天象灾异包装式进谏]] - core memorial scene, ruler target, and rhetorical mechanism.
 - [[CelestialOmenPoliticalResponsibility|天象政治责任]], [[ChineseAstrologicalPolitics|中国星占政治]], and [[JingFang|京房]] - planets, mansions, and quoted omen tradition used as political evidence.
 - [[NaturalDisasterPoliticalOmen|自然灾害政治征兆]] and [[MandateOfHeavenLegitimacy|天命合法性]] - cold, hail, plague, and river signs interpreted as warnings about governance and succession.
-- [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[PartyNetworkTreasonFraming|朋党网络谋反化]] - eunuch favor and blocked counsel form the pre-Hanji 874 political field.
+- [[PalaceAccessMonopoly|宫廷接触垄断]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[PartyNetworkTreasonFraming|朋党网络谋反化]] - eunuch favor and blocked counsel form the pre-汉纪 874 political field.
 - [[Laozi|老子]], [[ShakyamuniBuddha|释迦牟尼佛]], and [[BuddhistMiraclePolitics|佛教神通政治]] - religious authority enters court politics as both imperial ritual and criticism of imperial conduct.
-- [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]], [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]], and [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] - immediate downstream Party Prohibition arrest, rescue, pardon, and exclusion sequence.
+- [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]], [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|汉纪 876]], and [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] - immediate downstream Party Prohibition arrest, rescue, pardon, and exclusion sequence.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills a pre-Party-Prohibition remonstrance layer under Emperor Huan before Hanji 874.
+- No settled contradiction with existing wiki pages was found. This source backfills a pre-Party-Prohibition remonstrance layer under Emperor Huan before 汉纪 874.
 - Scope caution: Liu Zhi, Chen Jin, Cai Yan, and Liu Yu / Liu Yu are kept source-scoped because the source text gives limited disambiguating evidence and contains internal transcript variation around these names.
 - Scope caution: Huan as "the first Chinese emperor to believe in Buddhism" is preserved as the episode's claim about imperial favor and palace worship, not broadened into a full independent history of Chinese Buddhism.

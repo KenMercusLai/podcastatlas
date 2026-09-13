@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-Wei Biao is a Zhang-era minister whose current wiki profile comes from [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]]. He advises [[EmperorZhangOfHan|Emperor Zhang]] that personnel selection must identify real governing capacity rather than rely on seniority, routine legal familiarity, or quick replies.
+Wei Biao is a Zhang-era minister whose current wiki profile comes from [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]]. He advises [[EmperorZhangOfHan|Emperor Zhang]] that personnel selection must identify real governing capacity rather than rely on seniority, routine legal familiarity, or quick replies.
 
 ## Current Profile
 
@@ -30,20 +30,20 @@ His second argument focuses on the Shangshu pipeline. He warns that drawing Shan
 
 ## Evidence
 
-- Appointment channel quality: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] presents Wei Biao arguing that good two-thousand-stone officials are necessary because they select and recommend capable people.
-- Seniority and talent distinction: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] has Wei Biao distinguish filial or moral reputation from full talent and warn against relying on age ranking alone.
-- Shangshu fit: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] criticizes staffing the Shangshu from langguan merely because they are familiar with statutes and respond quickly.
-- Analogy of mismatched competence: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] uses the tiger-enclosure steward and Zhou Bo comparison to mark the difference between technical knowledge and high-level political judgment.
+- Appointment channel quality: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] presents Wei Biao arguing that good two-thousand-stone officials are necessary because they select and recommend capable people.
+- Seniority and talent distinction: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] has Wei Biao distinguish filial or moral reputation from full talent and warn against relying on age ranking alone.
+- Shangshu fit: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] criticizes staffing the Shangshu from langguan merely because they are familiar with statutes and respond quickly.
+- Analogy of mismatched competence: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] uses the tiger-enclosure steward and Zhou Bo comparison to mark the difference between technical knowledge and high-level political judgment.
 
 ## Qualifications
 
-- This page is not yet a full biography; it records Wei Biao's role in the Zhangdi personnel-selection discussion preserved in Hanji 753.
+- This page is not yet a full biography; it records Wei Biao's role in the Zhangdi personnel-selection discussion preserved in 汉纪 753.
 - Wei Biao's advice is treated as accepted in this episode, but the source does not by itself measure long-term institutional effects.
 - The Shangshu critique does not deny the usefulness of legal knowledge; it denies that legal familiarity alone proves office fit.
 
 ## What Changed
 
-- Created this Wei Biao page from Hanji 753.
+- Created this Wei Biao page from 汉纪 753.
 - Connected Wei Biao's advice to the wiki's broader appointment-quality and Shangshu-capacity themes.
 
 ## Relationships

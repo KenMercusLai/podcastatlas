@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-张厂 / Zhang Chang enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] as the Shanyang governor ordered by [[EmperorXuanOfHan|汉宣帝]] to secretly monitor [[LiuHeHaihunHou|刘贺]].
+张厂 / Zhang Chang enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] as the Shanyang governor ordered by [[EmperorXuanOfHan|汉宣帝]] to secretly monitor [[LiuHeHaihunHou|刘贺]].
 
 ## Current Profile
 
@@ -26,13 +26,13 @@ The source presents Zhang Chang as a surveillance and reporting official rather 
 ## Evidence
 
 Confidential monitoring:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan orders Zhang Chang to guard against suspicious movement and keep the edict secret.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Zhang Chang regularly reports Liu He's conduct and household.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says he uses conversation about owl calls to observe Liu He's inner state.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Xuan orders Zhang Chang to guard against suspicious movement and keep the edict secret.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Zhang Chang regularly reports Liu He's conduct and household.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says he uses conversation about owl calls to observe Liu He's inner state.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 430. It does not reconstruct Zhang Chang's full career or the complete wording of the confidential edict.
+This page is source-scoped to 汉纪 430. It does not reconstruct Zhang Chang's full career or the complete wording of the confidential edict.
 
 ## What Changed
 

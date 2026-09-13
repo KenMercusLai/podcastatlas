@@ -43,10 +43,10 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode opens by co
 - [[OuterRelativeCourtPower|外戚专权与清算]] - the episode shows outer-relative power working through an empress marriage before the later office, retainer, and coup layers.
 - [[RelationshipSelectionAgency|择人与环境选择]] - the modern opening and closing lesson treat marriage and relationship choice as life-shaping environments.
 - [[PalaceFavoriteProtectionFragility|宫廷宠幸保护脆弱性]] and [[ImperialPrivateDesireGovernanceRisk|帝王私欲治理风险]] - adjacent Huan-era patterns for affection, title, harem rivalry, and public consequences of private household order.
-- [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]], [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|Hanji 847]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|Hanji 848]] - downstream Liang Ji crime-record, household-trigger, and coup sequence that this source precedes.
+- [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]], [[zizhi-tongjian-hanji-847-nvren-biande-haoming-cong-dongde-zhe-liang-zi-kaishi-lrlov43jtz0vq-o-5m8r2cqo0etx|汉纪 847]], and [[zizhi-tongjian-hanji-848-shunjian-kuatai-wo-weihe-shuo-ta-si-you-yu-gu-lgqvgmxlwga2fknmtxpj3ya9chk0|汉纪 848]] - downstream Liang Ji crime-record, household-trigger, and coup sequence that this source precedes.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills an earlier Liang Ying marriage layer before Hanji 846-848's already-ingested Liang crime, household crisis, and coup sequence.
+- No settled contradiction with existing wiki pages was found. The episode backfills an earlier Liang Ying marriage layer before 汉纪 846-848's already-ingested Liang crime, household crisis, and coup sequence.
 - Scope caution: the 2024 marriage survey lacks complete city, institution, and sampling details in the supplied source note, so the figures remain source-scoped.
 - Scope caution: the claim that Liang Ying was China's first textually recorded empress to receive a pre-marriage inspection is preserved as the episode's claim, not treated as independently established historiography.

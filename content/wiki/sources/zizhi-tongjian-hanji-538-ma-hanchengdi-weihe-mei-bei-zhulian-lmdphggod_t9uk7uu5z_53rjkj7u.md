@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 2 / 15 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|Hanji 539]]'s [[ZhangFangWesternHan|张放]] favorite-removal episode and [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]]'s funeral-accountability sequence. It centers on [[GuYongWesternHan|谷永]] as Liangzhou刺史, summoned after his capital report to explain repeated unusual natural phenomena and using the inquiry to attack Chengdi's women, drinking, spending, private outings, and self-destructive indulgence.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 2 / 15 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-539-hanchengdi-yu-zhangfang-de-qinggan-jiuge-lk_wzo4h-c-xkipffhgikronrk3m|汉纪 539]]'s [[ZhangFangWesternHan|张放]] favorite-removal episode and [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]]'s funeral-accountability sequence. It centers on [[GuYongWesternHan|谷永]] as Liangzhou刺史, summoned after his capital report to explain repeated unusual natural phenomena and using the inquiry to attack Chengdi's women, drinking, spending, private outings, and self-destructive indulgence.
 
 The durable synthesis is that harsh remonstrance survives here because speech is not judged only by its words. Gu Yong's memorial is severe enough to enrage Chengdi, but [[WangZhengjun|王政君]] and Wang-family senior relatives are presented as the hidden sponsors, [[WangShangWesternHan|王商]] warns Gu Yong to flee, and Chengdi's own tendency to cool down leaves the pursuit bounded rather than lethal.
 
@@ -46,5 +46,5 @@ The durable synthesis is that harsh remonstrance survives here because speech is
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Name normalization: the source summary writes 谷勇, while this wiki treats the Chengdi-era official as [[GuYongWesternHan|谷永]], consistent with adjacent Hanji 543 and Hanji 552 notes.
+- Name normalization: the source summary writes 谷勇, while this wiki treats the Chengdi-era official as [[GuYongWesternHan|谷永]], consistent with adjacent 汉纪 543 and 汉纪 552 notes.
 - Scope caution: the source does not reconstruct Gu Yong's full memorial text, the exact legal procedure behind the pursuit boundary, Wang Shang's full role, the complete identities of all "皇舅," or Chengdi's private calculation after his anger cooled.

@@ -31,21 +31,21 @@ The concept is a local-government complement to the broader [[AuspiciousOmenPoli
 
 ## Evidence
 
-- Muddy-water origin: [[zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk|Hanji 878]] says the Ba Commandery yellow-dragon report begins from a joke about a pond's yellow muddy water.
-- Reporting incentive: [[zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk|Hanji 878]] treats the case as a warning that local officials may report auspicious signs upward for advantage.
-- Internal objection: [[zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk|Hanji 878]] says a local clerk objects to reporting the supposed yellow dragon.
-- Ordinary-bird origin: [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] says Huang Ba mistakes Zhang Chang's household heque bird for a divine bird and considers reporting it as auspicious proof.
-- Implied-preference pressure: [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] says Zhang Chang warns that Huang Ba's questions lead local officials to package exemplary moral achievements.
-- Law-versus-display correction: [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] says Emperor Xuan accepts Zhang Chang's warning and instructs local officials through attendants.
+- Muddy-water origin: [[zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk|汉纪 878]] says the Ba Commandery yellow-dragon report begins from a joke about a pond's yellow muddy water.
+- Reporting incentive: [[zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk|汉纪 878]] treats the case as a warning that local officials may report auspicious signs upward for advantage.
+- Internal objection: [[zizhi-tongjian-hanji-878-bu-shou-yueshu-de-quanli-hairen-buqian-lvevnahcxshgbz5zyqbaf36pa7nk|汉纪 878]] says a local clerk objects to reporting the supposed yellow dragon.
+- Ordinary-bird origin: [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|汉纪 454]] says Huang Ba mistakes Zhang Chang's household heque bird for a divine bird and considers reporting it as auspicious proof.
+- Implied-preference pressure: [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|汉纪 454]] says Zhang Chang warns that Huang Ba's questions lead local officials to package exemplary moral achievements.
+- Law-versus-display correction: [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|汉纪 454]] says Emperor Xuan accepts Zhang Chang's warning and instructs local officials through attendants.
 
 ## Counterevidence & Qualifications
 
-The concept is still source-limited and should not be treated as proof that every auspicious report is fabricated. Hanji 878 does not prove that the central court accepted the Ba Commandery report, and the local objection shows that omen fabrication could be resisted within ordinary administration. Hanji 454 adds a court-level inference problem rather than a completed local forgery: the danger is that local officials infer and perform the superior's preferred signs.
+The concept is still source-limited and should not be treated as proof that every auspicious report is fabricated. 汉纪 878 does not prove that the central court accepted the Ba Commandery report, and the local objection shows that omen fabrication could be resisted within ordinary administration. 汉纪 454 adds a court-level inference problem rather than a completed local forgery: the danger is that local officials infer and perform the superior's preferred signs.
 
 ## What Changed
 
-- Added Hanji 454's Huang Ba/heque case as a superior-preference and performance-signal variant.
-- Preserved Hanji 878's Ba Commandery yellow-dragon case as the local-origin example.
+- Added 汉纪 454's Huang Ba/heque case as a superior-preference and performance-signal variant.
+- Preserved 汉纪 878's Ba Commandery yellow-dragon case as the local-origin example.
 
 ## Related Concepts
 

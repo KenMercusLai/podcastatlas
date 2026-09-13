@@ -45,5 +45,5 @@ The second half centers [[ChenLinLateHan|陈琳]]. After writing [[YuanShao|袁�
 ## Contradictions
 
 - No settled contradiction with existing wiki content is recorded. The episode extends the Yuan-family collapse sequence by adding Wang Xiu's burial request, Guan Tong's pardon after holdout, and Chen Lin's post-Yuan surrender to Cao Cao.
-- Chronology caution: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|Hanji 1043]] covers the proclamation before Guandu, while this episode revisits that text from the later 205 CE surrender-and-reuse angle.
+- Chronology caution: [[zizhi-tongjian-hanji-1043-yuanshao-tongma-caocao-jing-zhihaole-tade-piantouteng-ltibjj6xizsrynpgr9oyf-q3ydna|汉纪 1043]] covers the proclamation before Guandu, while this episode revisits that text from the later 205 CE surrender-and-reuse angle.
 - Source-scope caution: the "three degrees" leadership model, Wang Xiu's burial request as a political performance, and Cao Cao's motives in sparing opponents are recorded as the episode's interpretive frame rather than independent proof of private intention.

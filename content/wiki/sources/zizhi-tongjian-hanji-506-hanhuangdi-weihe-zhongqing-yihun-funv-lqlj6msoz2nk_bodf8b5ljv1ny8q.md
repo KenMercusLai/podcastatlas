@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 4 / 29 BCE under [[HanChengdi|汉成帝]], between the flood-rumor and harem-blame sequence in [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] and the Yellow River / Chen Tang sequence in [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]]. It starts from meteor falls, the first five-person Shangshu arrangement, [[WangShangWesternHan|王商]] becoming chancellor, and Chengdi's White Tiger Hall questioning of frank speakers while many blame natural anomalies on [[WangFengWesternHan|王凤]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 4 / 29 BCE under [[HanChengdi|汉成帝]], between the flood-rumor and harem-blame sequence in [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|汉纪 505]] and the Yellow River / Chen Tang sequence in [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]]. It starts from meteor falls, the first five-person Shangshu arrangement, [[WangShangWesternHan|王商]] becoming chancellor, and Chengdi's White Tiger Hall questioning of frank speakers while many blame natural anomalies on [[WangFengWesternHan|王凤]].
 
 The durable synthesis is that [[GuYongWesternHan|谷永]] turns omen interpretation into factional protection. Rather than attack Wang Feng's power, he argues that Heaven's warning points to harem fertility, urges Chengdi not to monopolize favor, and treats women who can bear sons as politically valuable regardless of prior marriage. The host reads this as a defense of Wang Feng after Wang Feng sends the married sister of one of his concubines into Chengdi's palace, converting a scandal over propriety into an heir-production and dynasty-survival argument.
 
@@ -40,7 +40,7 @@ The durable synthesis is that [[GuYongWesternHan|谷永]] turns omen interpretat
 
 - [[GuYongWesternHan|谷永]], [[WangFengWesternHan|王凤]], and [[ConsortOmenBlameTransfer|后宫灾异归咎转移]] - Gu Yong redirects omen pressure away from Wang Feng and toward harem fertility.
 - [[HanChengdi|汉成帝]], [[OmenCodedRemonstrance|天象灾异包装式进谏]], and [[DisasterOmenCrisisRedirection|灾异压力转移]] - Chengdi's White Tiger Hall inquiry turns natural anomalies into competing political explanations.
-- [[EmpressXuWesternHan|许皇后]] and [[HaremFiscalDiscipline|后宫财政约束]] - the fertility-centered blame field helps explain why the childless empress and Xu-family side are vulnerable in the adjacent Hanji 505 and Hanji 509 notes.
+- [[EmpressXuWesternHan|许皇后]] and [[HaremFiscalDiscipline|后宫财政约束]] - the fertility-centered blame field helps explain why the childless empress and Xu-family side are vulnerable in the adjacent 汉纪 505 and 汉纪 509 notes.
 - [[WangShangWesternHan|王商]] - becomes chancellor in the episode's setup before later Wang-family rivalry layers.
 - [[DuQinWesternHan|杜钦]] - echoes Gu Yong's argument and participates in the same Wang-side omen interpretation field.
 

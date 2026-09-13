@@ -31,7 +31,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns the [
 > "处在“可解和不可解之间”" - the host's description of the Xiang Yu-Ying Bu trust break before open defection.
 
 ## Connections
-- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|Hanji 152 part 2]], [[PengchengBattle|彭城之战]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - immediate defeat and alliance-collapse setup.
+- [[zizhi-tongjian-hanji-152-xiangyu-3wanren-ruhe-wansheng-liubang-56wan-dajun-2-lq9ecpjb4r-ij0-e-iu-ezfavowj|汉纪 152 part 2]], [[PengchengBattle|彭城之战]], and [[PowerBasedAllianceRepricing|实力重估式阵营转向]] - immediate defeat and alliance-collapse setup.
 - [[LiuBang|刘邦]], [[Xiayi|下邑]], [[LuZe|吕泽]], and [[Wuguan|武关]] - post-rout rally point and reward geography.
 - [[ZhangLiang|张良]], [[XiayiPlan|下邑画策]], [[HanXin|韩信]], [[PengYue|彭越]], and [[YingBu|英布]] - strategist, plan, and the three usable anti-Chu levers.
 - [[XiangYu|项羽]] and [[YingBu|英布]] - damaged superior-subordinate relationship that makes the defection attempt plausible.
@@ -39,6 +39,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns the [
 - [[StrategicRetreatBaseBuilding|退让式根据地经营]], [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]], and [[CommonEnemyAlliance|共同敌人联盟]] - adjacent frames for recovery, command scale, and anti-Xiang alignment.
 
 ## Contradictions
-- No settled contradiction is recorded. This source extends Hanji 152's post-Pengcheng question by giving Zhang Liang's answer rather than changing the battle account.
+- No settled contradiction is recorded. This source extends 汉纪 152's post-Pengcheng question by giving Zhang Liang's answer rather than changing the battle account.
 - Source-scope caution: the host's claim that Liu Bang had "hidden" or underused Han Xin after Pengcheng is preserved as interpretation of Liu Bang's command choice, not as an independent chronology correction.
 - Source-scope caution: the opening comparison between historical recovery and modern personal adversity is recorded as thematic framing, not as evidence for the Chu-Han sequence.

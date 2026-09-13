@@ -38,7 +38,7 @@ The durable synthesis is that frontier victory becomes political theater as well
 ## Connections
 
 - [[ChenTangWesternHan|陈汤]], [[GanYanshouWesternHan|甘延寿]], and [[ZhizhiChanyu|郅支单于]] - the military-merit triad whose victory is publicly staged before the later accusation and reward disputes.
-- [[HanYuandi|汉元帝]], [[KuangHengWesternHan|匡衡]], and [[LiuXiang|刘向]] - Yuan's court context before the later proportional-reward debate in Hanji 496-497.
+- [[HanYuandi|汉元帝]], [[KuangHengWesternHan|匡衡]], and [[LiuXiang|刘向]] - Yuan's court context before the later proportional-reward debate in 汉纪 496-497.
 - [[HuhanyeChanyuWesternHan|呼韩邪单于]], [[WangZhaojun|王昭君]], and [[HanXiongnuHeqinPolicy|汉匈和亲政策]] - the episode places Huhanye's renewed submission and Wang Zhaojun's coming marriage after Zhizhi's death.
 - [[HanChengdi|刘骜 / 汉成帝]], [[ShiDanWesternHan|史丹 / 施丹]], and [[DeathbedHeirReplacementResistance|临终废储阻断]] - the mourning incident adds an earlier example of Shi Dan protecting Liu Ao before the later heir-replacement crisis.
 - [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]] and [[HeroMemoryPoliticalCredibility|英雄记忆与政治信用]] - this source supplies the victory-publication layer that later sources debate as pardon, reward, under-reward, and memory.
@@ -46,5 +46,5 @@ The durable synthesis is that frontier victory becomes political theater as well
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this episode precedes Hanji 493-504 in the current source set. It supplies the victory display, first title notice, Liu Ao mourning incident, and Wang Zhaojun setup before later episodes develop the reward dispute, Huhanye border request, Yuan succession crisis, and Wang Zhaojun household sequence.
+- Chronology qualification: this episode precedes 汉纪 493-504 in the current source set. It supplies the victory display, first title notice, Liu Ao mourning incident, and Wang Zhaojun setup before later episodes develop the reward dispute, Huhanye border request, Yuan succession crisis, and Wang Zhaojun household sequence.
 - Scope caution: the source is a compact podcast summary. Full campaign chronology, exact memorial wording, prisoner distribution, shrine-restoration list, Yuan's medical condition, and Chen Tang's later legal record remain source-scoped.

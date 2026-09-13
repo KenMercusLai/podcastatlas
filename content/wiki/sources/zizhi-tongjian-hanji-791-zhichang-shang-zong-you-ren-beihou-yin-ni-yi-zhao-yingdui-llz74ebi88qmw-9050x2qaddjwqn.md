@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 120 CE Western Regions debate before [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|Hanji 792]]. After Northern Xiongnu pressure breaks the Han position at Yiwu and threatens Shanshan, [[EmpressDowagerDengLateHan|和熹邓皇后]] consults [[BanYongLateHan|班勇]] on whether to attack, withdraw, or hold a limited position.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 120 CE Western Regions debate before [[zizhi-tongjian-hanji-792-dengkang-renu-taihou-dagou-weishenme-yao-kan-zhuren-lh3xkjneqfd9sqijqo3rgzsa5vwn|汉纪 792]]. After Northern Xiongnu pressure breaks the Han position at Yiwu and threatens Shanshan, [[EmpressDowagerDengLateHan|和熹邓皇后]] consults [[BanYongLateHan|班勇]] on whether to attack, withdraw, or hold a limited position.
 
 The durable synthesis is twofold. Strategically, Ban Yong rejects both an unaffordable deep expedition and a total Western Regions abandonment, arguing for a low-cost forward post at Shanshan; politically, he answers an impossible guarantee demand by applying the same standard back to ordinary commandery governance. Deng accepts only the deputy-commander and Dunhuang-garrison half, so the episode becomes an early case where a partially adopted frontier strategy loses the forward-positioning mechanism that made it useful.
 
@@ -49,7 +49,7 @@ The durable synthesis is twofold. Strategically, Ban Yong rejects both an unaffo
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills Ban Yong's 120 CE strategic-advice layer before Hanji 799's 123 CE Liuzhong appointment, Hanji 800's first operational results, Hanji 803's 125 CE campaign, and Hanji 807's later restoration-and-blame sequence.
+- No settled contradiction with existing wiki pages was found. This source backfills Ban Yong's 120 CE strategic-advice layer before 汉纪 799's 123 CE Liuzhong appointment, 汉纪 800's first operational results, 汉纪 803's 125 CE campaign, and 汉纪 807's later restoration-and-blame sequence.
 - Chronology refinement: the source places a partial Deng-regency Western Regions decision before the later Emperor An-era acceptance of Chen Zhong's 123 CE anti-abandonment advice.
 - Strategy caution: Deng's decision is recorded as only half of Ban Yong's proposal, so it should not be treated as full implementation of his Shanshan-centered plan.
 - Scope caution: Cao Zong, Suo Ban, Qiwu Can, Cui Ju, Mao Zhen, Shanshan king Youhuan, Yumen Pass, Yangguan, Shanshan, Yanqi, Qiuci, and the opening calmness advice remain source-scoped unless later notes require standalone canonical pages.

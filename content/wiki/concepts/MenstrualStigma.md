@@ -54,8 +54,8 @@ Reducing shame does not solve cost, quality, toxic-shock risk, school access, tr
 
 ## What Changed
 
-- Added Hanji 627-1's courtly-language layer: "子孙瑞" makes menstruation speakable as fertility and auspiciousness while still avoiding direct naming.
-- Preserved Hanji 627-2's Chinese historical-folkloric branch showing menstrual stigma as rules over labor, worship, household space, laundry, and wedding timing.
+- Added 汉纪 627-1's courtly-language layer: "子孙瑞" makes menstruation speakable as fertility and auspiciousness while still avoiding direct naming.
+- Preserved 汉纪 627-2's Chinese historical-folkloric branch showing menstrual stigma as rules over labor, worship, household space, laundry, and wedding timing.
 - Preserved the synthesis that menstrual stigma acts through both internalized shame and external participation restrictions.
 
 ## Related Concepts

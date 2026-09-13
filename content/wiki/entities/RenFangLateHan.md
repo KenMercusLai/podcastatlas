@@ -9,7 +9,7 @@ knowledge_schema: synthesis-v1
 ---
 ## Overview
 
-任芳 / Ren Fang is the assassin hired by [[ShanKuangLateHan|单匡]] in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]]. His source-bounded role is small but structurally important: he makes the Shan Kuang case a witness-suppression case, not merely a corruption accusation.
+任芳 / Ren Fang is the assassin hired by [[ShanKuangLateHan|单匡]] in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]]. His source-bounded role is small but structurally important: he makes the Shan Kuang case a witness-suppression case, not merely a corruption accusation.
 
 ## Current Profile
 
@@ -26,10 +26,10 @@ Ren Fang then remains important because Shan Kuang tries to arrange his escape. 
 
 ## Evidence
 
-- Hiring: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Shan Kuang hires Ren Fang to kill Wei Yu.
-- Failed attempt: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Wei Yu detects the plot and captures Ren Fang.
-- Luoyang custody: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Ren Fang is imprisoned in Luoyang.
-- Jailbreak pressure: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Shan Kuang tries to arrange Ren Fang's escape.
+- Hiring: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Shan Kuang hires Ren Fang to kill Wei Yu.
+- Failed attempt: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Wei Yu detects the plot and captures Ren Fang.
+- Luoyang custody: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Ren Fang is imprisoned in Luoyang.
+- Jailbreak pressure: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Shan Kuang tries to arrange Ren Fang's escape.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The current evidence does not identify Ren Fang's background, motive beyond hire
 
 ## What Changed
 
-- Created the page from Hanji 851.
+- Created the page from 汉纪 851.
 - Defined Ren Fang as the witness-suppression actor in the Shan Kuang case.
 
 ## Relationships

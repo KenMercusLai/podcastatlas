@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Jianping 4 / 3 BCE [[HanAidi|汉哀帝]] debate from [[zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d|Hanji 589]] by unpacking [[YangXiong|扬雄]]'s memorial on why [[Xiongnu|匈奴]] was the [[WesternHanDynasty|Western Han]] court's special strategic opponent. Yang argues that a formally submissive chanyu's wish to visit Chang'an should not be rejected as a mere reception expense, because the visit is tied to decades of war, heqin, Western Regions positioning, and fragile diplomatic trust.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Jianping 4 / 3 BCE [[HanAidi|汉哀帝]] debate from [[zizhi-tongjian-hanji-589-jiemi-wunao-shengqian-de-kepa-houguo-ln7zzxy9dydebce_b3bomkcr872d|汉纪 589]] by unpacking [[YangXiong|扬雄]]'s memorial on why [[Xiongnu|匈奴]] was the [[WesternHanDynasty|Western Han]] court's special strategic opponent. Yang argues that a formally submissive chanyu's wish to visit Chang'an should not be rejected as a mere reception expense, because the visit is tied to decades of war, heqin, Western Regions positioning, and fragile diplomatic trust.
 
 The durable synthesis is that prevention is cheaper than repair when a frontier settlement rests on credibility. Yang Xiong treats reception ritual, gift cost, and response wording as part of a larger [[DiplomaticCostRiskAccounting|diplomatic cost-risk accounting]] problem: if Han damages trust before open conflict exists, neither force nor persuasion may easily restore Xiongnu submission.
 
@@ -40,9 +40,9 @@ The durable synthesis is that prevention is cheaper than repair when a frontier 
 - [[Xiongnu|匈奴]], [[HanXiongnuHeqinPolicy|汉匈和亲政策]], and [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - chanyu reception and reply wording function as recognition and trust signals.
 - [[WesternRegionsProtectorate|西域都护府]], Cheshi, and [[Wusun|乌孙]] - Western Regions arrangements are framed as strategic infrastructure for constraining Xiongnu rather than as unrelated western expansion.
 - [[CapacityBoundFrontierCommitment|能力约束型边疆承诺]], [[StrategicForbearanceGovernance|退让留余地式治理]], and [[CorrectiveAdviceNonconversion|忠告不转化]] - adjacent patterns for comparing small present costs with larger later instability.
-- [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|Hanji 591-1]] - sequel episode where the planned visit is again destabilized by illness-delay suspicion.
+- [[zizhi-tongjian-hanji-591-1-yichang-bingjia-ruhe-xianxie-yinbao-liangguo-zhizhan-lrq-xdhvrnuarzwgrykp7j-x8j-a|汉纪 591-1]] - sequel episode where the planned visit is again destabilized by illness-delay suspicion.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Scope caution: the source is focused on Yang Xiong's strategic warning and the host's prevention lesson; it does not quantify the reception expense, independently prove the chanyu's inner intention, or fully narrate the later illness-delay crisis handled in Hanji 591-1.
+- Scope caution: the source is focused on Yang Xiong's strategic warning and the host's prevention lesson; it does not quantify the reception expense, independently prove the chanyu's inner intention, or fully narrate the later illness-delay crisis handled in 汉纪 591-1.

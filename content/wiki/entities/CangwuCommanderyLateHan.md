@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 苍梧郡 / Cangwu Commandery (late Han)
 
-Cangwu Commandery appears in [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|Hanji 919]] as one origin point of the bandits who join [[GuiyangCommanderyLateHan|Guiyang]] bandits in attacking commanderies and counties. The episode does not develop Cangwu as a full administrative profile; it matters as part of the southern disorder surrounding [[LinglingCommanderyLateHan|Lingling]] and [[YangXuanLateHan|Yang Xuan]]'s response.
+Cangwu Commandery appears in [[zizhi-tongjian-hanji-919-xiang-huode-hao-xian-tikai-shanliang-de-ziji-lrqxfzir4bqxt0v3ccvfef8faade|汉纪 919]] as one origin point of the bandits who join [[GuiyangCommanderyLateHan|Guiyang]] bandits in attacking commanderies and counties. The episode does not develop Cangwu as a full administrative profile; it matters as part of the southern disorder surrounding [[LinglingCommanderyLateHan|Lingling]] and [[YangXuanLateHan|Yang Xuan]]'s response.
 
 ## Key Claims
 - Cangwu is a source marker for cross-commandery disorder rather than an isolated local incident.

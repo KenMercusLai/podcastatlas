@@ -8,11 +8,11 @@ last_updated: 2026-08-23
 
 # Moralized Anti-Deception Command / 道德化拒诈指挥
 
-Moralized anti-deception command / 道德化拒诈指挥 is the command failure mode [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]] draws from [[ChenYu|陈馀]] at [[JingxingPass|井陉口]]. [[LiZuoChe|李左车]] proposes a practical plan: use a detached force to cut [[HanXin|韩信]] and [[ZhangEr|张耳]]'s supply line while Zhao fortifies and refuses battle. Chen Yu rejects it by saying his army is righteous and should not use deception or strange stratagems.
+Moralized anti-deception command / 道德化拒诈指挥 is the command failure mode [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|汉纪 156 part 1]] draws from [[ChenYu|陈馀]] at [[JingxingPass|井陉口]]. [[LiZuoChe|李左车]] proposes a practical plan: use a detached force to cut [[HanXin|韩信]] and [[ZhangEr|张耳]]'s supply line while Zhao fortifies and refuses battle. Chen Yu rejects it by saying his army is righteous and should not use deception or strange stratagems.
 
 The concept is not a rejection of moral limits in war. It names a narrower pattern: a commander's moral identity turns into a ban on useful tactics even when those tactics are aimed at military position and supply rather than civilian abuse. In this source, Chen Yu's posture also overlaps with face pressure, because he worries that avoiding direct attack would make other lords think Zhao is weak.
 
-[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] sharpens the diagnosis. Chen Yu is said to know the [[SunziBingfa|Sunzi]] maxim that warfare is deceptive, so the failure is not ignorance of military theory. His moralized refusal is bound up with a desire for a visible, upright-looking victory and with the mistaken belief that Han Xin's force is much smaller and weaker than it is.
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|汉纪 156 part 2]] sharpens the diagnosis. Chen Yu is said to know the [[SunziBingfa|Sunzi]] maxim that warfare is deceptive, so the failure is not ignorance of military theory. His moralized refusal is bound up with a desire for a visible, upright-looking victory and with the mistaken belief that Han Xin's force is much smaller and weaker than it is.
 
 This differs from [[XunzianMilitaryLegitimacy|荀子仁义之师]]. Xunzi's renyi army is a theory of cohesion, people-support, and conduct limits; Chen Yu's source role is a self-description that blocks a concrete defensive plan. The episode therefore links him more closely to [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]] than to a successful renyi command model.
 

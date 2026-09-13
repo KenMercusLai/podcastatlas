@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # Benevolent Command Execution Gap / 仁厚指挥执行缺口
 
-Benevolent command execution gap / 仁厚指挥执行缺口 is the command failure named from [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]]. [[LiuYuLateHan|刘虞]] attacks [[GongsunZan|公孙瓒]] with a large force while ordering his soldiers not to burn the city and to harm no one except Gongsun Zan. The order preserves a humane boundary, but the source says Liu Yu's troops are loose and undisciplined, so the moral rule is not matched by an executable military design.
+Benevolent command execution gap / 仁厚指挥执行缺口 is the command failure named from [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|汉纪 972]]. [[LiuYuLateHan|刘虞]] attacks [[GongsunZan|公孙瓒]] with a large force while ordering his soldiers not to burn the city and to harm no one except Gongsun Zan. The order preserves a humane boundary, but the source says Liu Yu's troops are loose and undisciplined, so the moral rule is not matched by an executable military design.
 
 The gap is not that mercy is bad. It is that civilian protection, targeted coercion, and battlefield victory require command structure, training, route control, and tactical means. Liu Yu's restraint narrows the permitted action while leaving the army without a credible way to take the target, letting Gongsun Zan counterattack with a smaller disciplined group.
 

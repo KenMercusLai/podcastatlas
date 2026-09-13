@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] creates the concept through [[HanYuandi|汉元帝]]'s proposed river crossing by boat. [[XueGuangdeWesternHan|薛广德]] and [[ZhangMengWesternHan|张猛 / 张萌]] both oppose the trip, not because travel is inherently wrong, but because the emperor's physical safety is tied to court, ritual, and state continuity.
+[[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] creates the concept through [[HanYuandi|汉元帝]]'s proposed river crossing by boat. [[XueGuangdeWesternHan|薛广德]] and [[ZhangMengWesternHan|张猛 / 张萌]] both oppose the trip, not because travel is inherently wrong, but because the emperor's physical safety is tied to court, ritual, and state continuity.
 
 The host extends the classical maxim about "千金之子" and the wise ruler not taking dangerous chances into modern management. The core lesson is not fearfulness. It is role-sensitive risk calibration: a leader, family-business head, or important operator may need stricter travel and safety rules because their accident would impose costs on institutions, dependents, or successors beyond themselves.
 
@@ -28,10 +28,10 @@ The host extends the classical maxim about "千金之子" and the wise ruler not
 
 ## Evidence
 
-- Imperial safety warning: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Xue Guangde blocks Yuan's carriage to oppose crossing the river by boat.
-- Practical risk framing: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] says Zhang Meng cites autumn wind, broad river conditions, and dangerous waves as reasons to take the bridge.
-- Classical principle: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] uses "千金之子" and "圣主不乘危而徼幸" language to link status, responsibility, and risk.
-- Modern extension: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] maps the lesson to family businesses and leadership travel rules.
+- Imperial safety warning: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Xue Guangde blocks Yuan's carriage to oppose crossing the river by boat.
+- Practical risk framing: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] says Zhang Meng cites autumn wind, broad river conditions, and dangerous waves as reasons to take the bridge.
+- Classical principle: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] uses "千金之子" and "圣主不乘危而徼幸" language to link status, responsibility, and risk.
+- Modern extension: [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] maps the lesson to family businesses and leadership travel rules.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The source does not independently prove the objective danger level of Yuan's riv
 
 ## What Changed
 
-- Created the concept from Hanji 475's treatment of ruler safety, bridge-versus-boat choice, and modern responsibility-based travel-risk analogy.
+- Created the concept from 汉纪 475's treatment of ruler safety, bridge-versus-boat choice, and modern responsibility-based travel-risk analogy.
 
 ## Related Concepts
 

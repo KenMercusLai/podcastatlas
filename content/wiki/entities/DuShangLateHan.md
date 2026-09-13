@@ -12,15 +12,15 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-度尚 / Du Shang is now a three-layer late-Han commander in the wiki. [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] adds his 162 CE recommendation by [[ZhuMuLateHan|朱穆]] into the Jingzhou inspector role after earlier southern failures. [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] gives his 164 CE [[Jingzhou|荆州]] campaign as an incentive-aware but coercive morale case, and [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] later shows useful military service paired with false accusation against [[ZhangPanLateHan|张磐]].
+度尚 / Du Shang is now a three-layer late-Han commander in the wiki. [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] adds his 162 CE recommendation by [[ZhuMuLateHan|朱穆]] into the Jingzhou inspector role after earlier southern failures. [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] gives his 164 CE [[Jingzhou|荆州]] campaign as an incentive-aware but coercive morale case, and [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] later shows useful military service paired with false accusation against [[ZhangPanLateHan|张磐]].
 
 ## Current Profile
 
-Du Shang's current earliest layer is appointment through crisis recommendation. In [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]], Ma Mu, Liu Du, and Li Su have failed in the southern Jingzhou crisis. Zhu Mu recommends Du Shang, then a right school commandant from Shanyang, as Jingzhou inspector. The source does not yet make him the main pacifier, but it places him in the repair sequence after command panic and dereliction.
+Du Shang's current earliest layer is appointment through crisis recommendation. In [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]], Ma Mu, Liu Du, and Li Su have failed in the southern Jingzhou crisis. Zhu Mu recommends Du Shang, then a right school commandant from Shanyang, as Jingzhou inspector. The source does not yet make him the main pacifier, but it places him in the repair sequence after command panic and dereliction.
 
-The later profile is mixed rather than simply heroic or villainous. In Hanji 863, he recruits local Man and Yi troops in Jingzhou, defeats rebels, then faces a morale problem after soldiers become attached to captured treasure. His solution is [[SpoilsLossMobilization|战利品损失动员]]: send troops out hunting, burn the camp stores, frame the loss as recoverable through enemy wealth, and strike the mountain stronghold at dawn.
+The later profile is mixed rather than simply heroic or villainous. In 汉纪 863, he recruits local Man and Yi troops in Jingzhou, defeats rebels, then faces a morale problem after soldiers become attached to captured treasure. His solution is [[SpoilsLossMobilization|战利品损失动员]]: send troops out hunting, burn the camp stores, frame the loss as recoverable through enemy wealth, and strike the mountain stronghold at dawn.
 
-Hanji 867 then adds the accountability limit. [[EmperorHuanOfHan|汉桓帝]] recalls Du Shang to [[LuoyangLateHan|洛阳]], appoints him as 中郎将, and sends him south with more than 20,000 troops plus local forces. Du Shang defeats [[ZhuGaiLateHan|朱丐]] and [[HuLanLateHan|胡兰]], regains the Jingzhou inspectorate, but later falsely reports that Cangwu bandits entered Jingzhou after [[ZhangPanLateHan|张磐]] has already handled Hu Lan's remnants. Zhang Pan forces a court confrontation, the falsehood is exposed, and the court still spares Du Shang because suppression merit and future usefulness matter.
+汉纪 867 then adds the accountability limit. [[EmperorHuanOfHan|汉桓帝]] recalls Du Shang to [[LuoyangLateHan|洛阳]], appoints him as 中郎将, and sends him south with more than 20,000 troops plus local forces. Du Shang defeats [[ZhuGaiLateHan|朱丐]] and [[HuLanLateHan|胡兰]], regains the Jingzhou inspectorate, but later falsely reports that Cangwu bandits entered Jingzhou after [[ZhangPanLateHan|张磐]] has already handled Hu Lan's remnants. Zhang Pan forces a court confrontation, the falsehood is exposed, and the court still spares Du Shang because suppression merit and future usefulness matter.
 
 ## Key Characteristics
 
@@ -34,22 +34,22 @@ Hanji 867 then adds the accountability limit. [[EmperorHuanOfHan|汉桓帝]] rec
 
 ## Evidence
 
-- Crisis recommendation: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Zhu Mu recommends Du Shang for Jingzhou inspector after Ma Mu, Liu Du, and Li Su fail in the southern crisis.
-- Jingzhou campaign and local recruitment: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] reports Du Shang recruiting Man and Yi soldiers in Jingzhou and defeating a large rebel or bandit group.
-- Spoils-loss tactic: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says Du Shang sends troops out hunting, secretly burns captured treasure, and uses the loss to make soldiers demand an attack on Bu Yang and Pan Hong.
-- Operational success and reward: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says the dawn assault destroys the unprepared stronghold and that Du Shang is enfeoffed as Youxiang hou.
-- Later deployment and victory: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] reports Du Shang's appointment as 中郎将, his southern expedition, his defeat of Zhu Gai and Hu Lan, and his restoration as Jingzhou inspector.
-- False report against Zhang Pan: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] states that Du Shang feared blame for not eliminating all rebels and therefore misreported the Cangwu-Jingzhou movement.
-- Failed confrontation and merit shield: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] has Du Shang unable to defeat Zhang Pan's account before Emperor Huan, yet spared because the court still needs pacification talent.
+- Crisis recommendation: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] says Zhu Mu recommends Du Shang for Jingzhou inspector after Ma Mu, Liu Du, and Li Su fail in the southern crisis.
+- Jingzhou campaign and local recruitment: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] reports Du Shang recruiting Man and Yi soldiers in Jingzhou and defeating a large rebel or bandit group.
+- Spoils-loss tactic: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says Du Shang sends troops out hunting, secretly burns captured treasure, and uses the loss to make soldiers demand an attack on Bu Yang and Pan Hong.
+- Operational success and reward: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says the dawn assault destroys the unprepared stronghold and that Du Shang is enfeoffed as Youxiang hou.
+- Later deployment and victory: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] reports Du Shang's appointment as 中郎将, his southern expedition, his defeat of Zhu Gai and Hu Lan, and his restoration as Jingzhou inspector.
+- False report against Zhang Pan: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] states that Du Shang feared blame for not eliminating all rebels and therefore misreported the Cangwu-Jingzhou movement.
+- Failed confrontation and merit shield: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] has Du Shang unable to defeat Zhang Pan's account before Emperor Huan, yet spared because the court still needs pacification talent.
 
 ## Qualifications
 
-The source notes use or preserve the transcript form 杜尚; this page normalizes the actor to 度尚 while preserving that variant. Hanji 856 narrows the pre-164 sequence by adding Zhu Mu's recommendation, but it does not yet describe Du Shang's full first tenure as inspector. Hanji 863 does not provide a full ethics evaluation of the burned-spoils tactic, so the wiki records it as effective coercive motivation rather than an endorsed leadership model.
+The source notes use or preserve the transcript form 杜尚; this page normalizes the actor to 度尚 while preserving that variant. 汉纪 856 narrows the pre-164 sequence by adding Zhu Mu's recommendation, but it does not yet describe Du Shang's full first tenure as inspector. 汉纪 863 does not provide a full ethics evaluation of the burned-spoils tactic, so the wiki records it as effective coercive motivation rather than an endorsed leadership model.
 
 ## What Changed
 
-- Added Hanji 856 as Du Shang's crisis-recommendation layer before the 164 campaign.
-- Added Hanji 863 as an earlier Du Shang campaign layer before Hanji 867.
+- Added 汉纪 856 as Du Shang's crisis-recommendation layer before the 164 campaign.
+- Added 汉纪 863 as an earlier Du Shang campaign layer before 汉纪 867.
 - Recast Du Shang as both a morale-manipulation case and a merit-shielded-accountability case.
 - Clarified that Zhu Mu's recommendation precedes the later campaign and false-accusation evidence.
 

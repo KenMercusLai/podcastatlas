@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], between [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] and [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]]. It starts from the palace "鼓妖" sound heard as [[ZhuBoWesternHan|朱博]] and [[ZhaoXuanWesternHan|赵璇]] are about to receive appointment documents, then follows [[LiXunWesternHan|李寻]] and [[YangXiong|扬雄]] as they convert the anomaly into a warning against Zhu Bo's chancellorship.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], between [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|汉纪 578]] and [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|汉纪 580]]. It starts from the palace "鼓妖" sound heard as [[ZhuBoWesternHan|朱博]] and [[ZhaoXuanWesternHan|赵璇]] are about to receive appointment documents, then follows [[LiXunWesternHan|李寻]] and [[YangXiong|扬雄]] as they convert the anomaly into a warning against Zhu Bo's chancellorship.
 
 The durable synthesis is that the episode treats the strange sound less as a physical mystery than as [[DisasterOmenPersonnelAttack|灾异人事攻防]]: omen language gives officials a legitimate vocabulary for opposing appointments, questioning temperament-fit for high office, and warning that strong tactical actors may be poor coordinators. The second half shows the omen warning failing in the short term: Aidi completes the [[FuTaihouWesternHan|傅太后]] title settlement, Fu and Ding relatives rise quickly, and Zhu Bo and Zhao Xuan immediately use office power to strip [[ShiDanWesternHan|施丹]] after his earlier opposition to the title campaign.
 
@@ -40,10 +40,10 @@ The durable synthesis is that the episode treats the strange sound less as a phy
 - [[OmenCodedRemonstrance|天象灾异包装式进谏]] and [[CelestialOmenPoliticalResponsibility|天象政治责任]] - Li Xun and Yang Xiong use disaster language as a court-authorized warning channel rather than as neutral natural inquiry.
 - [[FuTaihouWesternHan|傅太后]], [[DingJiWesternHan|丁姬]], and [[ImperialConsortPosthumousTitleSystem|帝王后妃追尊体系]] - the episode records the title settlement Fu Taihou had been seeking.
 - [[ShiDanWesternHan|施丹]], Dong Hong, [[ZhuBoWesternHan|朱博]], and [[ZhaoXuanWesternHan|赵璇]] - the successful title side uses office power to punish a prior opponent.
-- [[WangMang|王莽]] and [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|Hanji 580]] - the episode closes by setting up the next conflict in which Zhu Bo and Zhao Xuan turn from Shi Dan toward Wang Mang.
+- [[WangMang|王莽]] and [[zizhi-tongjian-hanji-580-huigu-sizhou-shuishi-nide-kaoshan-liid3tymhojmajkyeqoq6vryprhz|汉纪 580]] - the episode closes by setting up the next conflict in which Zhu Bo and Zhao Xuan turn from Shi Dan toward Wang Mang.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source fits after Hanji 578's office restoration and before Hanji 580's Wang Mang survival and州牧-to-刺史 reform; it also precedes Hanji 582's Zhu Bo collapse.
+- Chronology qualification: this source fits after 汉纪 578's office restoration and before 汉纪 580's Wang Mang survival and州牧-to-刺史 reform; it also precedes 汉纪 582's Zhu Bo collapse.
 - Scope caution: the source does not identify the physical cause of the palace sound, reconstruct the full Hongfan omen tradition, settle the exact received name form of Zhao Xuan, or provide Dong Hong's full title proposal and Shi Dan's original impeachment text.

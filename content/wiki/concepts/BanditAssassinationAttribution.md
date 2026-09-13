@@ -14,7 +14,7 @@ The concept separates physical agent from political author. A record can identif
 
 This is a historical-method concept, not a license to replace evidence with suspicion. It extends [[HistoricalDetectiveReasoning]] by showing a recurring attribution trap: the visible killer may be true and still not be the full political explanation.
 
-[[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|Hanji 971]] adds a late-Han convoy-killing variant. The episode's [[HouHanshu|《后汉书》]] line makes [[ZhangKaiAssassin|张闿]] the physical killer of [[CaoSong|曹嵩]] for wealth, while the [[Sanguozhi|《三国志》]] line makes [[TaoQianLateHan|陶谦]] the political sender. That split extends the concept beyond a literal "bandits killed the ruler" notice: direct violence and political responsibility may be distributed across subordinate greed, superior command, and retrospective source tradition.
+[[zizhi-tongjian-hanji-971-luanshi-miyun-shui-sha-le-caocao-laodie-ljh3hdhssigmv78bueo-hprfqwku|汉纪 971]] adds a late-Han convoy-killing variant. The episode's [[HouHanshu|《后汉书》]] line makes [[ZhangKaiAssassin|张闿]] the physical killer of [[CaoSong|曹嵩]] for wealth, while the [[Sanguozhi|《三国志》]] line makes [[TaoQianLateHan|陶谦]] the political sender. That split extends the concept beyond a literal "bandits killed the ruler" notice: direct violence and political responsibility may be distributed across subordinate greed, superior command, and retrospective source tradition.
 
 ## Key Claims
 - "Bandits" may be an accurate surface description while remaining politically incomplete.

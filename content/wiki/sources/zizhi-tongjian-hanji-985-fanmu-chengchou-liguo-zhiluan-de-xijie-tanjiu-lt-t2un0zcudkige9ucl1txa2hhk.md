@@ -13,7 +13,7 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》985丨反目成仇：李郭之乱的细节探究
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] late-Han sequence by showing the first fully symmetrical stage of the [[LiJueLateHan|李傕]]-[[GuoSiLateHan|郭汜]] rupture. Li Jue holds [[EmperorXianOfHan|汉献帝]] while Guo Si holds ministers such as [[YangBiao|杨彪]], [[ShiSunRuiLateHan|士孙瑞]], and [[ZhuJunLateHan|朱儁]], so the emperor and court officials become bargaining assets in a military feud. The episode also records [[FuShouEmpress|伏皇后]]'s appointment, [[FuWanLateHan|伏完]]'s office, Yang Biao's hostage-banquet rebuke, Li Jue's Qiang-Hu recruitment, [[ZhangBaoLateHan|张苞]]'s inner-camp defection, [[YangFengLateHan|杨奉]]'s camp defense, and the emperor's food humiliation after being moved to Beiwu.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|汉纪 986]] late-Han sequence by showing the first fully symmetrical stage of the [[LiJueLateHan|李傕]]-[[GuoSiLateHan|郭汜]] rupture. Li Jue holds [[EmperorXianOfHan|汉献帝]] while Guo Si holds ministers such as [[YangBiao|杨彪]], [[ShiSunRuiLateHan|士孙瑞]], and [[ZhuJunLateHan|朱儁]], so the emperor and court officials become bargaining assets in a military feud. The episode also records [[FuShouEmpress|伏皇后]]'s appointment, [[FuWanLateHan|伏完]]'s office, Yang Biao's hostage-banquet rebuke, Li Jue's Qiang-Hu recruitment, [[ZhangBaoLateHan|张苞]]'s inner-camp defection, [[YangFengLateHan|杨奉]]'s camp defense, and the emperor's food humiliation after being moved to Beiwu.
 
 ## Key Claims
 - The host opens with a source-scoped moral frame: luxury, laziness, and arrogance make successful people and regimes vulnerable when they most need restraint.
@@ -35,7 +35,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[FuShouEmpress|伏皇后]] and [[FuWanLateHan|伏完]] - formal imperial-household appointment inside coercive conditions.
 - [[YangMiLateHan|杨密]], [[YangQiLateHan|杨琦]], [[ZhangBaoLateHan|张苞]], and [[YangFengLateHan|杨奉]] - smaller actors who show restraint, survival advice, internal defection, and camp defense inside the Li-Guo crisis.
 - [[ProtectorCaptorAmbiguity|护驾与挟持模糊性]], [[MingqiLegitimacy|名器合法性]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - concepts extended by the episode.
-- [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|Hanji 986]] and [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|Hanji 988]] - downstream episodes that continue Li Jue's rage, failed mediation, weakening, and eventual settlement.
+- [[zizhi-tongjian-hanji-986-tianyu-qiwang-bixian-lingqi-kuang-lvlvu057-tnz3hal6oodhydvzvbd|汉纪 986]] and [[zizhi-tongjian-hanji-988-shoujin-lingru-ta-shi-hanmo-beican-de-huangdi-lsdkpakvk5u-omegcri-wstup-zl|汉纪 988]] - downstream episodes that continue Li Jue's rage, failed mediation, weakening, and eventual settlement.
 
 ## Contradictions
 - No settled contradiction found.

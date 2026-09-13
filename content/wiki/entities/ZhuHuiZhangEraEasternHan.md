@@ -16,7 +16,7 @@ Zhu Hui is the Zhang-era former Linhuai administrator from Wancheng who is summo
 
 ## Current Profile
 
-Hanji 753 introduces Zhu Hui as a locally respected administrator whom Zhangdi summons during a southern movement through Wancheng. Once appointed Shangshu Pushe, he refuses to endorse Zhang Lin's fiscal proposal for state-run salt and restored junshu, arguing that officials would become merchant-like and salt producers would resent impoverishment.
+汉纪 753 introduces Zhu Hui as a locally respected administrator whom Zhangdi summons during a southern movement through Wancheng. Once appointed Shangshu Pushe, he refuses to endorse Zhang Lin's fiscal proposal for state-run salt and restored junshu, arguing that officials would become merchant-like and salt producers would resent impoverishment.
 
 Zhangdi first responds with anger, and Zhu Hui and other Shangshu officials jail themselves. After three days, the emperor releases them and declares that opposition should be welcomed; Zhu Hui later feigns illness and refuses to sign the proposal, explaining that knowingly endorsing an infeasible policy would violate ministerial duty. The emperor then sends a physician and food and rewards him.
 
@@ -30,10 +30,10 @@ Zhangdi first responds with anger, and Zhu Hui and other Shangshu officials jail
 
 ## Evidence
 
-- Local reputation and appointment: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] reports Zhangdi summoning Zhu Hui at Wancheng because people remembered his Linhuai administration and then appointing him Shangshu Pushe.
-- Salt and junshu opposition: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] has Zhu Hui oppose Zhang Lin's state salt and junshu proposal because officials would become merchants and salt producers would resent being impoverished.
-- Risk-bearing refusal: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] presents Zhu Hui and other Shangshu officials jailing themselves after Zhangdi's anger and Zhu Hui later refusing to sign by claiming illness.
-- Imperial response: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] records Zhangdi releasing the officials, saying opposition was welcome, sending medical care and food to Zhu Hui, and granting him a reward.
+- Local reputation and appointment: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] reports Zhangdi summoning Zhu Hui at Wancheng because people remembered his Linhuai administration and then appointing him Shangshu Pushe.
+- Salt and junshu opposition: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] has Zhu Hui oppose Zhang Lin's state salt and junshu proposal because officials would become merchants and salt producers would resent being impoverished.
+- Risk-bearing refusal: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] presents Zhu Hui and other Shangshu officials jailing themselves after Zhangdi's anger and Zhu Hui later refusing to sign by claiming illness.
+- Imperial response: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] records Zhangdi releasing the officials, saying opposition was welcome, sending medical care and food to Zhu Hui, and granting him a reward.
 
 ## Qualifications
 
@@ -43,7 +43,7 @@ Zhangdi first responds with anger, and Zhu Hui and other Shangshu officials jail
 
 ## What Changed
 
-- Created this Zhang-era Zhu Hui page from Hanji 753.
+- Created this Zhang-era Zhu Hui page from 汉纪 753.
 - Explicitly separated this remonstrance profile from the later He-era Zhu Hui frontier profile.
 
 ## Relationships

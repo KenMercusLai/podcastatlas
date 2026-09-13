@@ -14,7 +14,7 @@ Tacit gratitude restraint / 心照不宣式感恩克制 is the pattern where a r
 
 ## Current Synthesis
 
-Hanji 877 opens the concept through [[FanPangLateHan|范滂]] and [[HuoXuLateHan|霍谞]]. After release from the first Party Prohibition imprisonment, Fan Pang visits Huo Xu but does not perform a formal expression of thanks. When criticized, he cites an old allusion to argue that the right relation can be mutually understood without ceremony.
+汉纪 877 opens the concept through [[FanPangLateHan|范滂]] and [[HuoXuLateHan|霍谞]]. After release from the first Party Prohibition imprisonment, Fan Pang visits Huo Xu but does not perform a formal expression of thanks. When criticized, he cites an old allusion to argue that the right relation can be mutually understood without ceremony.
 
 The concept differs from simple ingratitude. In the source, Fan Pang's visit confirms that the rescue matters. What he rejects is the idea that gratitude must become visible payment. Because the episode also shows Fan Pang later withdrawing from a large Runan reception, the restraint has a political edge: after Party Prohibition, too much public display around a famous person or benefactor can become risk.
 
@@ -28,10 +28,10 @@ The concept differs from simple ingratitude. In the source, Fan Pang's visit con
 
 ## Evidence
 
-- Visit without thanks: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] says Fan Pang visits Huo Xu after release but does not explicitly thank him.
-- Allusive explanation: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] says Fan Pang answers criticism by citing an old case of mutually understood non-meeting.
-- Political exposure: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] says Fan Pang later judges a massive welcome in Runan as too conspicuous and withdraws into quieter life.
-- Party context: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] places the episode after released party figures are registered and permanently barred from office.
+- Visit without thanks: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] says Fan Pang visits Huo Xu after release but does not explicitly thank him.
+- Allusive explanation: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] says Fan Pang answers criticism by citing an old case of mutually understood non-meeting.
+- Political exposure: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] says Fan Pang later judges a massive welcome in Runan as too conspicuous and withdraws into quieter life.
+- Party context: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] places the episode after released party figures are registered and permanently barred from office.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The concept is source-scoped to relationships where both sides understand the bo
 
 ## What Changed
 
-- Hanji 877 creates the concept from Fan Pang's restrained post-release visit to Huo Xu.
+- 汉纪 877 creates the concept from Fan Pang's restrained post-release visit to Huo Xu.
 
 ## Related Concepts
 

@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 76 CE opening of [[EmperorZhangOfHan|汉章帝]]'s reign immediately before [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|Hanji 747]]. It uses Zhangdi's responses to [[BaoYuEasternHan|鲍昱]], [[YangZhongEasternHan|杨终]], and [[ChenChongLateHan|陈宠]] to frame leadership as listening that becomes policy, then closes with [[FanQiangEasternHan|范羌]] rescuing [[GengGongEasternHan|耿恭]] from a Northern Xiongnu siege.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 76 CE opening of [[EmperorZhangOfHan|汉章帝]]'s reign immediately before [[zizhi-tongjian-hanji-747-banchao-gaosu-ni-zhenzheng-de-congming-ren-dou-you-shiminggan-lj5z9tayvosa-jcufyxwuc35dzvi|汉纪 747]]. It uses Zhangdi's responses to [[BaoYuEasternHan|鲍昱]], [[YangZhongEasternHan|杨终]], and [[ChenChongLateHan|陈宠]] to frame leadership as listening that becomes policy, then closes with [[FanQiangEasternHan|范羌]] rescuing [[GengGongEasternHan|耿恭]] from a Northern Xiongnu siege.
 
 The durable synthesis is that credible leadership is built from both receptivity and reciprocity. Zhangdi accepts remonstrance on wrongful implication, people-burdened frontier policy, agricultural timing, and harsh punishment, while Fan Qiang's rescue and [[ZhengZhongFrontierEasternHan|郑众]]'s memorial show why subordinates can keep faith when the organization remembers danger and rewards survival.
 
@@ -44,6 +44,6 @@ The durable synthesis is that credible leadership is built from both receptivity
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills the earliest current Zhangdi layer before Hanji 747-758 rather than reversing later Zhangdi, Ban Chao, Ma-family, Xiongnu, and legal-restraint judgments.
+- No settled contradiction with existing wiki content was found. This source backfills the earliest current Zhangdi layer before 汉纪 747-758 rather than reversing later Zhangdi, Ban Chao, Ma-family, Xiongnu, and legal-restraint judgments.
 - Identity caution: the source's "杨忠" is normalized to [[YangZhongEasternHan|杨终 / Yang Zhong]], matching the existing Zhangdi-era classics and Ma-family warning page. The "郑众" who memorializes Geng Gong is kept as [[ZhengZhongFrontierEasternHan|Zheng Zhong (frontier commander)]], distinct from the later eunuch [[ZhengZhongEasternHan|Zheng Zhong (Eastern Han eunuch)]].
 - Scope caution: Mou Rong, Duan Peng, Wang Meng, the exact Chu-king case lists, the Shule fortress in the Geng Gong rescue, route details, force counts, and casualty figures remain source-scoped unless later notes warrant standalone pages or stronger normalization.

@@ -14,9 +14,9 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a Jianwu 2 / 26 CE layer before [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|Hanji 683]] and [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]]. It centers on [[LiuXiu|光武帝刘秀]]'s personnel reading under disorder: [[DengYuEasternHan|邓禹]] diverges from Liu Xiu's Chang'an order, Deng Yu's officers fall into mutiny, and Liu Xiu predicts that Huang Fang can capture Feng Yin by reading the closest-tie structure.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a Jianwu 2 / 26 CE layer before [[zizhi-tongjian-hanji-683-fangniuwa-liupenzi-buxiang-dang-huangdi-dan-meiyudi-lt7hmrorydsazpkuwby1ntd7t1eh|汉纪 683]] and [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|汉纪 684]]. It centers on [[LiuXiu|光武帝刘秀]]'s personnel reading under disorder: [[DengYuEasternHan|邓禹]] diverges from Liu Xiu's Chang'an order, Deng Yu's officers fall into mutiny, and Liu Xiu predicts that Huang Fang can capture Feng Yin by reading the closest-tie structure.
 
-The second half pairs two authority failures with two authority repairs. [[ChimeiRebellion|赤眉]] palace disorder exposes [[LiuPenziEasternHan|刘盆子]] as a frightened adolescent figurehead before the failed-abdication scene in Hanji 683, while [[WangHongEasternHan|王闳]] uses court mandate and personal nerve to make [[ZhangBuEasternHan|张步]] yield Langya affairs despite Wang Hong's weaker military position. The durable synthesis is that early Guangwu consolidation depends on reading people, relationships, and formal authority before force can become usable order.
+The second half pairs two authority failures with two authority repairs. [[ChimeiRebellion|赤眉]] palace disorder exposes [[LiuPenziEasternHan|刘盆子]] as a frightened adolescent figurehead before the failed-abdication scene in 汉纪 683, while [[WangHongEasternHan|王闳]] uses court mandate and personal nerve to make [[ZhangBuEasternHan|张步]] yield Langya affairs despite Wang Hong's weaker military position. The durable synthesis is that early Guangwu consolidation depends on reading people, relationships, and formal authority before force can become usable order.
 
 ## Key Claims
 
@@ -36,15 +36,15 @@ The second half pairs two authority failures with two authority repairs. [[Chime
 
 ## Connections
 
-- [[DengYuEasternHan|邓禹]], [[LiuXiu|光武帝刘秀]], [[WeiXiaoEasternHan|隗嚣]], [[ChangAnHanCapital|长安]], and [[GuanzhongRegion|关中]] - the episode adds a pre-Hanji 687 Guanzhong command-fracture layer before Deng Yu's later Chimei defeats.
+- [[DengYuEasternHan|邓禹]], [[LiuXiu|光武帝刘秀]], [[WeiXiaoEasternHan|隗嚣]], [[ChangAnHanCapital|长安]], and [[GuanzhongRegion|关中]] - the episode adds a pre-汉纪 687 Guanzhong command-fracture layer before Deng Yu's later Chimei defeats.
 - [[CharacterReadingDelegationTrust|识人授权信任]] and [[SituationalCharacterTests|五观识人法]] - Liu Xiu's Huang Fang prediction extends character reading from positive trust to mutiny control through closest-tie leverage.
-- [[ChimeiRebellion|赤眉]] and [[LiuPenziEasternHan|刘盆子]] - the palace banquet disorder supplies the immediate source-scoped crisis before Liu Penzi's failed abdication in Hanji 683.
-- [[YinLihua|阴丽华]], [[HuyangPrincessEasternHan|湖阳公主]], and [[LiTongEasternHan|李通]] - Yin Lihua's Luoyang arrival and guiren title precede the later empress-position settlement in Hanji 686.
+- [[ChimeiRebellion|赤眉]] and [[LiuPenziEasternHan|刘盆子]] - the palace banquet disorder supplies the immediate source-scoped crisis before Liu Penzi's failed abdication in 汉纪 683.
+- [[YinLihua|阴丽华]], [[HuyangPrincessEasternHan|湖阳公主]], and [[LiTongEasternHan|李通]] - Yin Lihua's Luoyang arrival and guiren title precede the later empress-position settlement in 汉纪 686.
 - [[WangHongEasternHan|王闳]], [[ZhangBuEasternHan|张步]], [[MingqiLegitimacy|名器合法性]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - Wang Hong converts appointment legitimacy and personal pressure into a temporary Langya settlement.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills Jianwu 2 / 26 CE before Hanji 683's Liu Penzi failed-abdication scene, Hanji 684's Chang'an destruction and ritual-transfer scene, Hanji 687's Chimei-Guanzhong famine layer, and Hanji 688's final Chimei defeat.
+- Chronology qualification: this source backfills Jianwu 2 / 26 CE before 汉纪 683's Liu Penzi failed-abdication scene, 汉纪 684's Chang'an destruction and ritual-transfer scene, 汉纪 687's Chimei-Guanzhong famine layer, and 汉纪 688's final Chimei defeat.
 - Identity normalization: 王闳 is routed to [[WangHongEasternHan|王闳 / Wang Hong (Eastern Han)]] and kept distinct from the later [[WangHongLateHan|王宏 / Wang Hong]] page; 李通 is routed to [[LiTongEasternHan|李通]], not the later [[LiTongLateHan|李通]].
 - Scope caution: Feng Yin, Zong Xin, Huang Fang, Zong Guang, Wang Kuang, Hu Yin, Cheng Dan, local Anyi/Gaoping details, and exact army counts remain source-scoped unless later notes warrant standalone pages. The Wang Kuang here is not merged with the later [[WangKuangLateHan|王匡]] page.

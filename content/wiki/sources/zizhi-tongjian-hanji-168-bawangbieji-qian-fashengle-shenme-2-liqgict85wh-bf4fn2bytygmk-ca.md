@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》168｜霸王别姬前发生了什么（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes [[XiangYu|项羽]]'s final route after [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]], moving from [[DongchengChuHan|东城]] and the twenty-eight-rider breakout to [[WujiangChuHan|乌江]], the refusal to cross, the gift of [[WuzhuiHorse|乌骓马]], and Xiang Yu's self-killing. Its core synthesis is that Xiang Yu still proves extraordinary tactical force, but he uses that proof to avoid asking why his political and strategic position has collapsed. The episode treats his repeated "Heaven will destroy me" language as a face-saving and self-protective explanation, not as a real diagnosis.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes [[XiangYu|项羽]]'s final route after [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|汉纪 168 part 1]], moving from [[DongchengChuHan|东城]] and the twenty-eight-rider breakout to [[WujiangChuHan|乌江]], the refusal to cross, the gift of [[WuzhuiHorse|乌骓马]], and Xiang Yu's self-killing. Its core synthesis is that Xiang Yu still proves extraordinary tactical force, but he uses that proof to avoid asking why his political and strategic position has collapsed. The episode treats his repeated "Heaven will destroy me" language as a face-saving and self-protective explanation, not as a real diagnosis.
 
 ## Key Claims
 - At [[DongchengChuHan|东城]], Xiang Yu has only twenty-eight riders against several thousand Han pursuers, yet still divides them into small teams, breaks the encirclement, kills Han officers, and loses only two men.
@@ -34,7 +34,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes [
 > "江东子弟多才俊，卷土重来未可知"
 
 ## Connections
-- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|Hanji 168 part 1]] - immediate setup: four-sided Chu songs, Yu Ji's death, breakout, Guan Ying's pursuit, and the first "Heaven as people-support" reading.
+- [[zizhi-tongjian-hanji-168-bawangbieji-qian-fashengle-shenme-1-lowxwc8oq8as1trjo-gjimmuhnr3|汉纪 168 part 1]] - immediate setup: four-sided Chu songs, Yu Ji's death, breakout, Guan Ying's pursuit, and the first "Heaven as people-support" reading.
 - [[GaixiaBattle|垓下之战]] - final sequence extended from night breakout into Eastcheng, Wujiang, self-killing, and corpse-reward politics.
 - [[XiangYu|项羽]] - central figure whose final courage, shame, self-explanation, and strategic immaturity are judged.
 - [[DongchengChuHan|东城]] - tactical self-proof setting where the twenty-eight riders still break Han pursuit.
@@ -48,4 +48,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes [
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
 - The episode's speculation that retreat south of the Yangtze may still have been possible is kept source-scoped; it does not override the earlier wiki record that Xiang Yu's coalition, supplies, allies, and people-support had already collapsed badly by Gaixia.
-- The source's "天亡我" critique complements Hanji 168 part 1's "天意就是民心" reading: part 1 stresses lost people-support; this episode stresses Xiang Yu's refusal to turn that loss into self-correction.
+- The source's "天亡我" critique complements 汉纪 168 part 1's "天意就是民心" reading: part 1 stresses lost people-support; this episode stresses Xiang Yu's refusal to turn that loss into self-correction.

@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-Wang Ling / 王陵 is [[WangMang|王莽]]'s son in [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]], where succession language around his Luoyang-based title becomes part of Wang Mang's disaster-omen response. This page is distinct from [[WangLing|王陵]] the Qin general and [[WangLingHanMinister|王陵]] the Han minister.
+Wang Ling / 王陵 is [[WangMang|王莽]]'s son in [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]], where succession language around his Luoyang-based title becomes part of Wang Mang's disaster-omen response. This page is distinct from [[WangLing|王陵]] the Qin general and [[WangLingHanMinister|王陵]] the Han minister.
 
 ## Current Profile
 
@@ -24,9 +24,9 @@ The source gives Wang Ling a narrow succession role. Earlier fu-ming language an
 
 ## Evidence
 
-- Succession interpretation: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Wang Ling's Luoyang establishment is read by many as making him the heir.
-- Illness and seniority objection: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Wang Mang cites Wang Ling's long illness and elder brother to reject that arrangement.
-- Final title: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]] says Wang Ling is made Tongyi Yang Wang after Wang An is made Xin Qian Wang.
+- Succession interpretation: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Wang Ling's Luoyang establishment is read by many as making him the heir.
+- Illness and seniority objection: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Wang Mang cites Wang Ling's long illness and elder brother to reject that arrangement.
+- Final title: [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]] says Wang Ling is made Tongyi Yang Wang after Wang An is made Xin Qian Wang.
 
 ## Qualifications
 
@@ -34,7 +34,7 @@ The page is source-scoped. The episode does not give Wang Ling's full biography,
 
 ## What Changed
 
-- Created from Hanji 657 as the Xin prince whose apparent heir status is undone through disaster-omen succession correction.
+- Created from 汉纪 657 as the Xin prince whose apparent heir status is undone through disaster-omen succession correction.
 
 ## Relationships
 
@@ -42,4 +42,4 @@ The page is source-scoped. The episode does not give Wang Ling's full biography,
 - [[WangAnXinPrince|王安]] - elder brother whose position is restored over Wang Ling.
 - [[XinDynasty|新朝]] - regime whose succession anxiety gives Wang Ling political significance.
 - [[DisasterOmenCrisisRedirection|灾异压力转移]] - omen-pressure frame Wang Mang uses to revisit the heir question.
-- [[DynasticHeirLossShock|王朝继承人骤失冲击]] - later succession-crisis concept that Hanji 658 develops after this rearrangement.
+- [[DynasticHeirLossShock|王朝继承人骤失冲击]] - later succession-crisis concept that 汉纪 658 develops after this rearrangement.

@@ -12,7 +12,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|Hanji 696]] by tracing [[DouRongEasternHan|窦融]]'s choice to submit to [[LiuXiu|光武帝刘秀]] rather than hold Hexi between [[WeiXiaoEasternHan|隗嚣]] and [[GongsunShuEasternHan|公孙述]]. It then follows Liu Xiu's eastern campaign against Qin Feng, Pang Meng, Dong Xian, and related forces before turning to [[GengYanEasternHan|耿弇]]'s attacks on [[ZhangBuEasternHan|张步]]'s outer positions at Zhu'a, Zhongcheng, and Juli.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 5 / 29 CE immediately before [[zizhi-tongjian-hanji-696-bi-hanxin-geng-qiang-zhe-wei-donghan-mingjiang-zhen-de-meng-lkomaa6qhwwqwmb48vxyabay0skt|汉纪 696]] by tracing [[DouRongEasternHan|窦融]]'s choice to submit to [[LiuXiu|光武帝刘秀]] rather than hold Hexi between [[WeiXiaoEasternHan|隗嚣]] and [[GongsunShuEasternHan|公孙述]]. It then follows Liu Xiu's eastern campaign against Qin Feng, Pang Meng, Dong Xian, and related forces before turning to [[GengYanEasternHan|耿弇]]'s attacks on [[ZhangBuEasternHan|张步]]'s outer positions at Zhu'a, Zhongcheng, and Juli.
 
 The durable synthesis is that the episode links political and military agency under one principle: successful actors shape the field before the visible decision. Dou Rong reads legitimacy and material trend before formal submission, Liu Xiu steadies Taocheng and waits for food pressure and reinforcements before attacking, and Geng Yan converts routed troops, released captives, false timing, and high ground into a trap for Fei Yi.
 
@@ -43,6 +43,6 @@ The durable synthesis is that the episode links political and military agency un
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the layer immediately before Hanji 696's Linzi battle and Hanji 697's Zhang Bu surrender, while also preceding the later Hanji 702-707 Dou Rong/Wei Xiao formal-submission sequence.
+- Chronology qualification: this source backfills the layer immediately before 汉纪 696's Linzi battle and 汉纪 697's Zhang Bu surrender, while also preceding the later 汉纪 702-707 Dou Rong/Wei Xiao formal-submission sequence.
 - Identity normalization: 窦融, 隗嚣, 公孙述, 刘秀, 耿弇, 张步, 吴汉, 王梁, and 马武 are linked to existing routes. 费邑 is not linked to the existing [[FeiYi|肥义]] route because that page is the Warring States Zhao minister, not Zhang Bu's Eastern Han subordinate.
 - Scope caution: Qin Feng, Zhu Hu, Pang Meng, Dong Xian, Liu Yu, Su Mao, Jiao Qiang, Taocheng, Rencheng, Fei Yi, Fei Gan, Zhu'a, Zhongcheng, Juli, exact force counts, prophecy references, and locality spellings remain source-scoped unless later notes warrant standalone pages.

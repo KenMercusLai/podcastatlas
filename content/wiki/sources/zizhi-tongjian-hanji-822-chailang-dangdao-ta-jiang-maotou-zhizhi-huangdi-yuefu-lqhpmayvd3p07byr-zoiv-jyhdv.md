@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 141-142 CE [[EmperorShunOfHan|汉顺帝]] court before the existing [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]] Liang-family sequence. It follows [[LiGuLateHan|李固]] pacifying thieves in [[Jingzhou|荆州]] and [[Taishan|泰山]] through pardon, credibility, reduced force, and anti-corruption action, then turns to [[ZhangGangLateHan|张纲]] refusing a routine regional inspection and directly impeaching [[LiangJiLateHan|梁冀]] and [[LiangBuyiLateHan|梁不疑]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 141-142 CE [[EmperorShunOfHan|汉顺帝]] court before the existing [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|汉纪 827]] Liang-family sequence. It follows [[LiGuLateHan|李固]] pacifying thieves in [[Jingzhou|荆州]] and [[Taishan|泰山]] through pardon, credibility, reduced force, and anti-corruption action, then turns to [[ZhangGangLateHan|张纲]] refusing a routine regional inspection and directly impeaching [[LiangJiLateHan|梁冀]] and [[LiangBuyiLateHan|梁不疑]].
 
 The durable contribution is a paired governance lesson: local disorder can sometimes be repaired by trust-backed amnesty and credible restraint, while court disorder may require naming the protected central actor rather than pursuing minor "foxes." [[EmperorShunOfHan|顺帝]] recognizes Zhang Gang's charges but cannot immediately punish the Liang household, so the episode also adds an earlier warning layer for [[OuterRelativeCourtPower|外戚专权与清算]] before Liang Ji's later domination becomes lethal.
 
@@ -45,10 +45,10 @@ The durable contribution is a paired governance lesson: local disorder can somet
 - [[ZhangGangLateHan|张纲]], [[LiangJiLateHan|梁冀]], [[LiangBuyiLateHan|梁不疑]], and [[HighStatusLawEnforcementSignal|高位执法信号]] - buried wheel and direct impeachment turn central corruption into a public court issue.
 - [[EmperorShunOfHan|汉顺帝]], [[DuQiaoLateHan|杜乔]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - the ruler hears valid reports and receives Li Gu's Taishan performance evidence, but protection networks delay legal conversion.
 - [[SouthernXiongnu|南匈奴]] - frontier pressure frames the 142 CE inspection environment without becoming the episode's main synthesis.
-- [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|Hanji 827]], [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|Hanji 828]], and [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|Hanji 830]] - downstream Liang Ji and Li Gu layers that this source now chronologically prefaces.
+- [[zizhi-tongjian-hanji-827-yi-ju-hua-yinfa-de-diwang-zhisi-lnf6rz1i2vmgsclgiejbh0qevzc2|汉纪 827]], [[zizhi-tongjian-hanji-828-da-jiangjun-liangji-shanquan-feili-de-donghan-jianchen-llqnqijagtmdlgitulddxspncu0e|汉纪 828]], and [[zizhi-tongjian-hanji-830-donghan-ligu-wo-sui-si-yourong-lt-j7n9gotiw-negqxojoacf6ji|汉纪 830]] - downstream Liang Ji and Li Gu layers that this source now chronologically prefaces.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode backfills an earlier 141-142 CE layer before the current Hanji 827-830 sequence around Emperor Zhi's death, Liang Ji's succession control, and Li Gu's final persecution.
+- No settled contradiction with existing wiki pages was found. The episode backfills an earlier 141-142 CE layer before the current 汉纪 827-830 sequence around Emperor Zhi's death, Liang Ji's succession control, and Li Gu's final persecution.
 - Name normalization: the source's 杜桥 is linked to [[DuQiaoLateHan|杜乔]] because the eight-inspector context matches the established late-Han official. Liang Ji and Liang Buyi are linked to the existing routes.
 - Scope caution: Xia Mi, Gao Ci, Chong Hao, Wu Xiong, Wu Si, Taiji, Zhou Ju, Zhou Xu, Feng Xian, Luan Ba, Guo Zun, Liu Ban, and exact fifteen-count charges remain source-scoped until later notes warrant standalone pages.

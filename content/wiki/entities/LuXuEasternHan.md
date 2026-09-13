@@ -10,7 +10,7 @@ last_updated: 2026-08-31
 
 ## Overview
 
-[[LuXuEasternHan|陆续 / Lu Xu]] is the Wu-commandery official caught in the Chu-prison case in [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]]. His refusal to produce divergent testimony under torture, and his recognition of food prepared by his mother, become character evidence that helps [[EmperorMingOfHan|汉明帝]] distinguish one trapped group from the wider implication cascade.
+[[LuXuEasternHan|陆续 / Lu Xu]] is the Wu-commandery official caught in the Chu-prison case in [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]]. His refusal to produce divergent testimony under torture, and his recognition of food prepared by his mother, become character evidence that helps [[EmperorMingOfHan|汉明帝]] distinguish one trapped group from the wider implication cascade.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ The result is partial mercy rather than full vindication. Mingdi pardons Yin Xin
 
 ## Evidence
 
-- Case entrapment: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Lu Xu is jailed with Yin Xing's Wu-commandery group after the Chu case expands.
-- Torture consistency: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says repeated torture does not make Lu Xu, Liang Hong, and Si Xun produce separate accounts against one another.
-- Family signal: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Lu Xu recognizes his mother's food by its cutting pattern and scallion preparation.
-- Partial release: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|Hanji 740]] says Mingdi uses the episode to pardon Yin Xing's group, while the broader case remains severe.
+- Case entrapment: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says Lu Xu is jailed with Yin Xing's Wu-commandery group after the Chu case expands.
+- Torture consistency: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says repeated torture does not make Lu Xu, Liang Hong, and Si Xun produce separate accounts against one another.
+- Family signal: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says Lu Xu recognizes his mother's food by its cutting pattern and scallion preparation.
+- Partial release: [[zizhi-tongjian-hanji-740-rang-ni-tihuguanding-de-zhichang-zhihui-zhichang-bibei-lih5b-ighkyoycawm5c-dbrnuiew|汉纪 740]] says Mingdi uses the episode to pardon Yin Xing's group, while the broader case remains severe.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ Lu Xu is not currently a broad official biography. His page is limited to the Ch
 
 ## What Changed
 
-- Created this page from Hanji 740 as the durable route for 陆续.
+- Created this page from 汉纪 740 as the durable route for 陆续.
 - Added Lu Xu as a torture-resistance and character-evidence figure inside the Chu-prison case.
 - Preserved the qualification that his group's relief was partial and did not repair the wider case.
 

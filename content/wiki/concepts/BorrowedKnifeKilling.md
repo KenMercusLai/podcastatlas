@@ -15,7 +15,7 @@ Borrowed-knife killing / 借刀杀人 is an indirect-elimination tactic where on
 
 ## Current Synthesis
 
-The current evidence contains two versions of the same indirect-action structure. [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] gives the late-Han literary-political version: [[CaoCao|曹操]] sends [[MiHengLateHan|祢衡]] away after public humiliation, [[LiuBiao|刘表]] later passes him to [[HuangZu|黄祖]], and Huang Zu performs the killing after a direct insult. The host reads the chain as reputation-preserving risk outsourcing.
+The current evidence contains two versions of the same indirect-action structure. [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] gives the late-Han literary-political version: [[CaoCao|曹操]] sends [[MiHengLateHan|祢衡]] away after public humiliation, [[LiuBiao|刘表]] later passes him to [[HuangZu|黄祖]], and Huang Zu performs the killing after a direct insult. The host reads the chain as reputation-preserving risk outsourcing.
 
 In the earlier Guangwu military-political version, [[LiuXiu|刘秀]] does not simply accept [[LiYiGengshiGeneral|李轶]]'s letters to [[FengYiEasternHan|冯异]] as a surrender channel; he publicizes them to commandery officials and makes [[ZhuWeiEasternHan|朱鲔]] suspect Li Yi. Zhu Wei's reaction turns an enemy-camp relationship into assassination pressure and morale collapse inside [[LuoyangLateHan|洛阳]].
 
@@ -32,20 +32,20 @@ Together the cases refine the concept. The "knife" can be an angry local authori
 
 ## Evidence
 
-- Reputation-preserving transfer: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] says Cao Cao wants Mi Heng removed without personally killing a famous scholar over humiliation.
-- Multi-step routing: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] has Cao Cao send Mi Heng to Liu Biao, Liu Biao send him to Huang Zu, and Huang Zu kill him after public insult.
-- Target behavior as fuel: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|Hanji 1011]] repeatedly shows Mi Heng's abrasive speech making each new setting more dangerous.
-- Letter exposure as indirect attack: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Liu Xiu circulates Li Yi's letters after judging him crafty.
-- Suspicion-triggered intermediary: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|Hanji 676]] says Zhu Wei sends people to kill Li Yi after hearing of the correspondence, while Luoyang's morale deteriorates.
+- Reputation-preserving transfer: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] says Cao Cao wants Mi Heng removed without personally killing a famous scholar over humiliation.
+- Multi-step routing: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] has Cao Cao send Mi Heng to Liu Biao, Liu Biao send him to Huang Zu, and Huang Zu kill him after public insult.
+- Target behavior as fuel: [[zizhi-tongjian-hanji-1011-miheng-zhisi-zuiju-beiju-secai-de-jiedao-sharen-ltrzpchwdfcyp4ntmum9giu-5mva|汉纪 1011]] repeatedly shows Mi Heng's abrasive speech making each new setting more dangerous.
+- Letter exposure as indirect attack: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|汉纪 676]] says Liu Xiu circulates Li Yi's letters after judging him crafty.
+- Suspicion-triggered intermediary: [[zizhi-tongjian-hanji-676-hanguangwudi-liuxiu-jiedao-sharen-shijian-shimo-luebqlivstmkjaqqfdlcukxtnmii|汉纪 676]] says Zhu Wei sends people to kill Li Yi after hearing of the correspondence, while Luoyang's morale deteriorates.
 
 ## Counterevidence & Qualifications
 
-The concept does not prove the full inner intent of every actor. Hanji 1011 explicitly presents motive analysis through the host's interpretation of Cao Cao, Liu Biao, and Huang Zu; Hanji 676 likewise labels Liu Xiu's move "borrowed-knife killing" as interpretive framing. The wiki keeps those motives source-scoped while preserving the observable structure: transfer or exposure changes the target's risk by activating another actor.
+The concept does not prove the full inner intent of every actor. 汉纪 1011 explicitly presents motive analysis through the host's interpretation of Cao Cao, Liu Biao, and Huang Zu; 汉纪 676 likewise labels Liu Xiu's move "borrowed-knife killing" as interpretive framing. The wiki keeps those motives source-scoped while preserving the observable structure: transfer or exposure changes the target's risk by activating another actor.
 
 ## What Changed
 
 - Migrated the page to `knowledge_schema: synthesis-v1`.
-- Added Hanji 676 as a Guangwu-era version where publicizing private letters activates Zhu Wei's suspicion against Li Yi.
+- Added 汉纪 676 as a Guangwu-era version where publicizing private letters activates Zhu Wei's suspicion against Li Yi.
 - Reframed borrowed-knife killing as a broader indirect-action mechanism that can work through person transfer or document exposure.
 
 ## Related Concepts

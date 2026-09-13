@@ -11,17 +11,17 @@ knowledge_schema: synthesis-v1
 ---
 ## Overview
 
-徐稚 / Xu Zhi is a late-Han scholar whose current wiki role now spans poverty and self-support, repeated refusal of office, selective mourning, selective speech, and counsel about scale. Hanji 849 shows him as one of [[ChenFanLateHan|陈蕃]]'s five recommended recluses and as the subject of the hanging-couch and tomb-visit stories; Hanji 860 shows him mourning [[HuangQiongLateHan|黄琼]] anonymously and refusing empty court talk with [[MaoRongLateHan|茅容]]; Hanji 861 has him caution [[GuoTaiLateHan|郭泰]] against exhausting himself trying to hold up a collapsing order. The episode transcripts say "徐志"; this page uses 徐稚 because the received passage and surrounding names identify that figure.
+徐稚 / Xu Zhi is a late-Han scholar whose current wiki role now spans poverty and self-support, repeated refusal of office, selective mourning, selective speech, and counsel about scale. 汉纪 849 shows him as one of [[ChenFanLateHan|陈蕃]]'s five recommended recluses and as the subject of the hanging-couch and tomb-visit stories; 汉纪 860 shows him mourning [[HuangQiongLateHan|黄琼]] anonymously and refusing empty court talk with [[MaoRongLateHan|茅容]]; 汉纪 861 has him caution [[GuoTaiLateHan|郭泰]] against exhausting himself trying to hold up a collapsing order. The episode transcripts say "徐志"; this page uses 徐稚 because the received passage and surrounding names identify that figure.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] gives Xu Zhi his earlier recluse profile. He is poor, farms for himself, refuses repeated invitations from the Three Excellencies and regional officials, and attracts Chen Fan's marked respect through the famous couch story. The same source adds his severe mourning etiquette: after a friend's death, he walks to the tomb, sets simple offerings, weeps, and leaves without theatrical recognition.
+[[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] gives Xu Zhi his earlier recluse profile. He is poor, farms for himself, refuses repeated invitations from the Three Excellencies and regional officials, and attracts Chen Fan's marked respect through the famous couch story. The same source adds his severe mourning etiquette: after a friend's death, he walks to the tomb, sets simple offerings, weeps, and leaves without theatrical recognition.
 
-[[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] presents Xu Zhi before the falling-tree warning. He had been close to Huang Qiong before Huang's rise, then stopped regular contact once Huang became powerful. When Huang dies, Xu Zhi comes to mourn, cries deeply, and leaves without using the funeral for self-display or public recognition.
+[[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]] presents Xu Zhi before the falling-tree warning. He had been close to Huang Qiong before Huang's rise, then stopped regular contact once Huang became powerful. When Huang dies, Xu Zhi comes to mourn, cries deeply, and leaves without using the funeral for self-display or public recognition.
 
 The conversation with Mao Rong gives Xu Zhi's silence a second meaning. He refuses to discuss court affairs, but speaks freely about farming and harvests. Guo Tai interprets this as judgment: Xu Zhi recognizes Mao Rong's worth, but he also knows which topics are useful with which listener and circumstance.
 
-[[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] then gives Xu Zhi's direct counsel to Guo Tai. After Guo Tai refuses office yet keeps moving around Luoyang to discover and encourage talent, Xu Zhi writes with the image of a great tree about to fall: a single rope cannot hold it. Guo Tai receives the letter as instruction, so the scene turns the teacher theme back on Guo Tai: even the teacher remains teachable when the situation exceeds his power.
+[[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] then gives Xu Zhi's direct counsel to Guo Tai. After Guo Tai refuses office yet keeps moving around Luoyang to discover and encourage talent, Xu Zhi writes with the image of a great tree about to fall: a single rope cannot hold it. Guo Tai receives the letter as instruction, so the scene turns the teacher theme back on Guo Tai: even the teacher remains teachable when the situation exceeds his power.
 
 ## Key Characteristics
 
@@ -34,24 +34,24 @@ The conversation with Mao Rong gives Xu Zhi's silence a second meaning. He refus
 
 ## Evidence
 
-- Poverty and office refusal: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] says Xu Zhi farms for himself despite poverty and refuses repeated invitations from the Three Excellencies and local authorities.
-- Chen Fan's respect: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] uses the hanging-couch story to show Chen Fan's exceptional respect for Xu Zhi.
-- Severe mourning conduct: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] says Xu Zhi walks to a friend's tomb, offers only simple food and wine, weeps, and departs.
-- Anonymous mourning: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Xu Zhi mourns Huang Qiong deeply but leaves without giving his name.
-- Status withdrawal: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Xu Zhi had been close to Huang Qiong before Huang's rise but stopped visiting after Huang became powerful.
-- Selective speech: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Xu Zhi refuses court-affairs talk with Mao Rong while speaking freely about farming and harvests.
-- Guo Tai's interpretation: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|Hanji 860]] says Guo Tai treats Xu Zhi's behavior as discerning restraint rather than rudeness.
-- Cautioning letter: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Xu Zhi writes to Guo Tai that a falling great tree cannot be held by one rope.
-- Guo Tai's acceptance: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] says Guo Tai accepts Xu Zhi's warning as teacherly counsel.
-- Boundary function: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|Hanji 861]] places the letter after Guo Tai refuses office but continues teaching, making the warning about overextension rather than laziness.
+- Poverty and office refusal: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] says Xu Zhi farms for himself despite poverty and refuses repeated invitations from the Three Excellencies and local authorities.
+- Chen Fan's respect: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] uses the hanging-couch story to show Chen Fan's exceptional respect for Xu Zhi.
+- Severe mourning conduct: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] says Xu Zhi walks to a friend's tomb, offers only simple food and wine, weeps, and departs.
+- Anonymous mourning: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]] says Xu Zhi mourns Huang Qiong deeply but leaves without giving his name.
+- Status withdrawal: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]] says Xu Zhi had been close to Huang Qiong before Huang's rise but stopped visiting after Huang became powerful.
+- Selective speech: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]] says Xu Zhi refuses court-affairs talk with Mao Rong while speaking freely about farming and harvests.
+- Guo Tai's interpretation: [[zizhi-tongjian-hanji-860-jingwei-tianren-donghan-guotai-you-duoshen-ltihxtkdp08eemcvhhxnpubykruv|汉纪 860]] says Guo Tai treats Xu Zhi's behavior as discerning restraint rather than rudeness.
+- Cautioning letter: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Xu Zhi writes to Guo Tai that a falling great tree cannot be held by one rope.
+- Guo Tai's acceptance: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] says Guo Tai accepts Xu Zhi's warning as teacherly counsel.
+- Boundary function: [[zizhi-tongjian-hanji-861-shenme-yang-de-ren-kancheng-laoshi-kaimo-lu0kadsc9aetzip9cedyv01wndrh|汉纪 861]] places the letter after Guo Tai refuses office but continues teaching, making the warning about overextension rather than laziness.
 
 ## Qualifications
 
-This page is not a complete Xu Zhi biography. It records Hanji 849's recluse and mourning anecdotes, Hanji 860's mourning and selective-speech function, and Hanji 861's cautioning correspondence. The transcript form 徐志 is normalized to 徐稚.
+This page is not a complete Xu Zhi biography. It records 汉纪 849's recluse and mourning anecdotes, 汉纪 860's mourning and selective-speech function, and 汉纪 861's cautioning correspondence. The transcript form 徐志 is normalized to 徐稚.
 
 ## What Changed
 
-- Hanji 849 adds Xu Zhi's poverty, farming, repeated office refusal, Chen Fan couch story, and tomb-visit mourning to the older selective-speech and falling-tree profile.
+- 汉纪 849 adds Xu Zhi's poverty, farming, repeated office refusal, Chen Fan couch story, and tomb-visit mourning to the older selective-speech and falling-tree profile.
 - The current judgment now treats Xu Zhi's silence and refusal as part of a broader discipline of timing, obligation, and court distrust.
 
 ## Relationships

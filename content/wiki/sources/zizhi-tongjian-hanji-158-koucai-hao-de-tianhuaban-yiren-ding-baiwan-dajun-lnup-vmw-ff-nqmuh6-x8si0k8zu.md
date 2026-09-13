@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》158｜口才好的天花板，一人顶百万大军
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the handoff from [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] by narrating [[SuiHe|随何]]'s mission to [[JiujiangChuHan|九江国]]. [[LiuBang|刘邦]] follows [[ZhangLiang|张良]]'s [[XiayiPlan|下邑画策]] and sends Sui He to persuade [[YingBu|英布]] to abandon [[XiangYu|项羽]], while Ying Bu tries to preserve room between fear of Chu and interest in Han. The episode's core contribution is that persuasion becomes an irreversible political act: Sui He first gets Ying Bu's private assent, then publicly exposes the defection in front of a Chu envoy and urges Ying Bu to kill the envoy, turning a wavering promise into [[IrreversibleDefectionBinding|断路式策反绑定]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the handoff from [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|汉纪 157 part 2]] by narrating [[SuiHe|随何]]'s mission to [[JiujiangChuHan|九江国]]. [[LiuBang|刘邦]] follows [[ZhangLiang|张良]]'s [[XiayiPlan|下邑画策]] and sends Sui He to persuade [[YingBu|英布]] to abandon [[XiangYu|项羽]], while Ying Bu tries to preserve room between fear of Chu and interest in Han. The episode's core contribution is that persuasion becomes an irreversible political act: Sui He first gets Ying Bu's private assent, then publicly exposes the defection in front of a Chu envoy and urges Ying Bu to kill the envoy, turning a wavering promise into [[IrreversibleDefectionBinding|断路式策反绑定]].
 
 ## Key Claims
 - After [[BackwaterBattle|背水一战]], Liu Bang's side continues the Xiayi Plan's second line by sending Sui He to turn Ying Bu rather than relying only on battlefield recovery.
@@ -45,6 +45,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 - [[XingyangStandoff|荥阳相持]] - strategic result: Ying Bu's defection helps buy Liu Bang time around Xingyang and Chenggao.
 
 ## Contradictions
-- No settled contradiction is recorded. This source fulfills the Jiujiang mission previewed in [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|Hanji 153]] and [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] rather than revising those accounts.
+- No settled contradiction is recorded. This source fulfills the Jiujiang mission previewed in [[zizhi-tongjian-hanji-153-xiayi-huace-canbai-hou-liubang-ruhe-qisi-huisheng-1-lgvjuxuskyyfmyeeqm9y8aeln-hu|汉纪 153]] and [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|汉纪 157 part 2]] rather than revising those accounts.
 - The host's "见利忘义" judgment on Ying Bu is recorded as a source-scoped character evaluation. It is compatible with the existing wiki's more structural reading that Jiujiang kingship gave Ying Bu a separate power base to protect.
 - The killing of the Chu envoy qualifies [[EnvoyKillingTaboo|不斩来使]] by showing an intentional norm breach used to force political irreversibility; it does not contradict the broader norm's existence.

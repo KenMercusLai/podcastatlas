@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-范生 / Fan Sheng enters the wiki through [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] as a late-[[XinDynasty|新朝]] official from Dai Commandery who tries to warn the court about domestic crisis without directly confronting [[WangMang|王莽]]. His role is narrow: he writes a petition to the Grand Minister over Works [[WangYiXinGeneral|王邑 / 王毅]], frames the warning in loyal language, and asks for a chance to speak in person.
+范生 / Fan Sheng enters the wiki through [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] as a late-[[XinDynasty|新朝]] official from Dai Commandery who tries to warn the court about domestic crisis without directly confronting [[WangMang|王莽]]. His role is narrow: he writes a petition to the Grand Minister over Works [[WangYiXinGeneral|王邑 / 王毅]], frames the warning in loyal language, and asks for a chance to speak in person.
 
 ## Current Profile
 
@@ -28,18 +28,18 @@ The route is cautious. Fan Sheng does not submit the warning straight to Wang Ma
 
 ## Evidence
 
-- Domestic-cause diagnosis: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says Fan Sheng treats internal popular resentment as more dangerous than Wang Mang's border anxiety.
-- Labor and hunger warning: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says he criticizes springtime labor conscription, hungry civilians, wasted fields, high grain prices, and people moving toward rebellion.
-- Indirect route: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says he sends the petition to Wang Yi rather than directly confronting Wang Mang.
-- Failed reception but reduced personal cost: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says Wang Yi ignores the petition, while the host notes that Fan Sheng at least avoids the harsher danger of direct offense.
+- Domestic-cause diagnosis: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says Fan Sheng treats internal popular resentment as more dangerous than Wang Mang's border anxiety.
+- Labor and hunger warning: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says he criticizes springtime labor conscription, hungry civilians, wasted fields, high grain prices, and people moving toward rebellion.
+- Indirect route: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says he sends the petition to Wang Yi rather than directly confronting Wang Mang.
+- Failed reception but reduced personal cost: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says Wang Yi ignores the petition, while the host notes that Fan Sheng at least avoids the harsher danger of direct offense.
 
 ## Qualifications
 
-This page is source-bounded to Hanji 656. It does not reconstruct Fan Sheng's complete office history, later career, exact wording, or relationship to Wang Yi. The page treats the host's workplace analogy as an interpretive frame, not as proof that every indirect warning is wiser than direct remonstrance.
+This page is source-bounded to 汉纪 656. It does not reconstruct Fan Sheng's complete office history, later career, exact wording, or relationship to Wang Yi. The page treats the host's workplace analogy as an interpretive frame, not as proof that every indirect warning is wiser than direct remonstrance.
 
 ## What Changed
 
-- Created the page from Hanji 656 as a late-Xin case where correct diagnosis survives personally but fails institutionally.
+- Created the page from 汉纪 656 as a late-Xin case where correct diagnosis survives personally but fails institutionally.
 
 ## Relationships
 

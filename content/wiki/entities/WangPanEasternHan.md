@@ -10,13 +10,13 @@ last_updated: 2026-08-31
 
 ## Overview
 
-王磐 / Wang Pan enters the wiki through [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] as the high-profile elite-association contrast to [[FanHongEasternHan|樊弘]]'s cautious self-limitation and [[MaYuanEasternHan|马援]]'s warning discipline.
+王磐 / Wang Pan enters the wiki through [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] as the high-profile elite-association contrast to [[FanHongEasternHan|樊弘]]'s cautious self-limitation and [[MaYuanEasternHan|马援]]'s warning discipline.
 
 ## Current Profile
 
 The source identifies Wang Pan as Ma Yuan's niece's husband and as the son of Ping'a Marquis Wang Ren. After Wang Ren is enfeoffed, Wang Pan uses large assets to become a notable local youxia figure, then moves to the capital and builds relationships with imperial relatives and powerful aristocrats.
 
-Hanji 728 does not explain Wang Pan's later crime in detail. Its profile is about visible risk. Ma Yuan warns that Wang Pan's family had fallen and should stay low-key, but Wang Pan is too ostentatious in the capital and has offended many people. More than a year later, Wang Pan is killed for a crime. The episode uses this as a contrast between status that is restrained and status that advertises itself into danger.
+汉纪 728 does not explain Wang Pan's later crime in detail. Its profile is about visible risk. Ma Yuan warns that Wang Pan's family had fallen and should stay low-key, but Wang Pan is too ostentatious in the capital and has offended many people. More than a year later, Wang Pan is killed for a crime. The episode uses this as a contrast between status that is restrained and status that advertises itself into danger.
 
 ## Key Characteristics
 
@@ -28,10 +28,10 @@ Hanji 728 does not explain Wang Pan's later crime in detail. Its profile is abou
 
 ## Evidence
 
-- Family and wealth basis: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] identifies Wang Pan as Ma Yuan's niece's husband, Wang Ren's son, and a wealth-backed local youxia after Wang Ren's enfeoffment.
-- Capital association: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] says Wang Pan moves to the capital and associates with imperial relatives and powerful elites.
-- Warning: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] says Ma Yuan warns Cao Xun that Wang Pan should keep a low profile but is too showy and has offended people.
-- Fatal result: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] says Wang Pan is killed for a crime more than a year later.
+- Family and wealth basis: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] identifies Wang Pan as Ma Yuan's niece's husband, Wang Ren's son, and a wealth-backed local youxia after Wang Ren's enfeoffment.
+- Capital association: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] says Wang Pan moves to the capital and associates with imperial relatives and powerful elites.
+- Warning: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] says Ma Yuan warns Cao Xun that Wang Pan should keep a low profile but is too showy and has offended people.
+- Fatal result: [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] says Wang Pan is killed for a crime more than a year later.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The source gives Wang Pan's political-social risk profile but not a full legal c
 
 ## What Changed
 
-- Created this page from Hanji 728 as the Wang Pan branch of high-status association risk.
+- Created this page from 汉纪 728 as the Wang Pan branch of high-status association risk.
 
 ## Relationships
 

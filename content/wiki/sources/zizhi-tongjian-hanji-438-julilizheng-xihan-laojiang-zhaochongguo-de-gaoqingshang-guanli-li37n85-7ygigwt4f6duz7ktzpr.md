@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the memorial-and-reply step between [[zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr|Hanji 437]] and [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|Hanji 439]]. [[ZhaoChongguoWesternHan|赵充国]] answers [[EmperorXuanOfHan|汉宣帝]]'s demand for a timeline by arguing that the [[XianlingQiang|先零羌]] are already losing land, pasture, cohesion, and confidence, so the right move is to withdraw cavalry, keep infantry for 河湟屯田, and let pressure, settlement, and surrender finish the war.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode fills the memorial-and-reply step between [[zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr|汉纪 437]] and [[zizhi-tongjian-hanji-439-gongbi-weiqing-huoqubing-zhichang-guanlizhe-bangyang-zhaochongguo-lirqsoujwewu6efd-shb7mypqvu3|汉纪 439]]. [[ZhaoChongguoWesternHan|赵充国]] answers [[EmperorXuanOfHan|汉宣帝]]'s demand for a timeline by arguing that the [[XianlingQiang|先零羌]] are already losing land, pasture, cohesion, and confidence, so the right move is to withdraw cavalry, keep infantry for 河湟屯田, and let pressure, settlement, and surrender finish the war.
 
 The durable synthesis is that Zhao's memorial is both frontier strategy and upward communication. He does not simply reject the ruler's urgency; he restates the ruler's goal, gives concrete enemy-condition evidence, enumerates twelve advantages of屯田, and then answers Xuan's security objections about raids, road guards, and civilian danger.
 
@@ -49,6 +49,6 @@ The durable synthesis is that Zhao's memorial is both frontier strategy and upwa
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode deepens Hanji 437's屯田 proposal and prepares Hanji 439's accepted settlement by showing the intervening memorial and Emperor Xuan's remaining objections.
+- No settled contradiction with existing wiki content was found. The episode deepens 汉纪 437's屯田 proposal and prepares 汉纪 439's accepted settlement by showing the intervening memorial and Emperor Xuan's remaining objections.
 - Scope caution: the twelve-point ordering, surrender counts, one-year timeline, cavalry-cost comparison, and "first precious屯田 document" evaluation are preserved as source claims unless checked against primary histories.
 - Interpretation caution: the modern "high-EQ management" and boss-communication lesson is the host's analogy layer, not evidence about Western Han administrative norms.

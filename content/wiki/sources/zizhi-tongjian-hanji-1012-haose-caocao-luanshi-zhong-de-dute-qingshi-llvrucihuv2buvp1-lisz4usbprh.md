@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1012丨好色曹操：乱世中的独特情事
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the [[WanCounty|宛城]] disaster immediately before [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]]. It opens with a source-scoped reflection on "信" as action under uncertainty, then moves to 197 CE: [[CaoCao|曹操]] marches south, [[ZhangXiu|张绣]] follows [[JiaXu|贾诩]]'s advice and surrenders, and Cao Cao takes [[LadyZouWancheng|邹氏]], the widow of [[ZhangJiLateHan|张济]] and Zhang Xiu's respected aunt by marriage. The episode stops before the attack itself, so its main contribution is the pre-crisis frame: a successful surrender becomes fragile when private desire violates the dignity and trust of a newly submitted commander.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the [[WanCounty|宛城]] disaster immediately before [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]]. It opens with a source-scoped reflection on "信" as action under uncertainty, then moves to 197 CE: [[CaoCao|曹操]] marches south, [[ZhangXiu|张绣]] follows [[JiaXu|贾诩]]'s advice and surrenders, and Cao Cao takes [[LadyZouWancheng|邹氏]], the widow of [[ZhangJiLateHan|张济]] and Zhang Xiu's respected aunt by marriage. The episode stops before the attack itself, so its main contribution is the pre-crisis frame: a successful surrender becomes fragile when private desire violates the dignity and trust of a newly submitted commander.
 
 ## Key Claims
 - The opening "信" section frames belief as action before results are visible, using oracle-bone divination, a child learning to walk, bamboo growth, rocket development, and Dunhuang painters as examples of persistence under uncertainty.
@@ -32,12 +32,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode sets up the
 > "明天分解" - the episode's marker that the actual Wancheng crisis follows in the next installment.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] - direct sequel narrating Zhang Xiu's resentment, Jia Xu's pre-emptive attack plan, Hu Che'er disarming Dian Wei, and the Wancheng deaths.
+- [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] - direct sequel narrating Zhang Xiu's resentment, Jia Xu's pre-emptive attack plan, Hu Che'er disarming Dian Wei, and the Wancheng deaths.
 - [[CaoCao|曹操]], [[ZhangXiu|张绣]], [[JiaXu|贾诩]], [[DuanWeiLateHan|段煨]], [[ZhangJiLateHan|张济]], [[Rangcheng|穰城]], [[LadyZouWancheng|邹氏]], [[LiuBiao|刘表]], and [[WanCounty|宛城]] - pre-crisis surrender and household-status chain.
 - [[DesireDrivenCommandExposure|私欲驱动的统帅暴露]] and [[StatusInsultDefectionCascade|名分羞辱触发叛变]] - conceptual frame for why private desire becomes command risk under unstable submission.
 - [[LadyDuCaoCao|杜夫人]] and [[LadyYinCaoCao|尹夫人]] - adjacent Cao household examples used to position the Wancheng incident inside a broader desire pattern.
 
 ## Contradictions
-- No settled contradiction found. This source supplies the pre-attack conditions for the Wancheng disaster already developed in Hanji 1013 rather than reversing that later causal chain.
-- Naming caution: this episode names Zhang Ji's widow [[LadyZouWancheng|邹氏]], while the Hanji 1013 transcript used "周氏" for the same Wancheng role. The wiki normalizes the canonical page to Lady Zou and records "周氏" as a source-scoped transcript variant.
+- No settled contradiction found. This source supplies the pre-attack conditions for the Wancheng disaster already developed in 汉纪 1013 rather than reversing that later causal chain.
+- Naming caution: this episode names Zhang Ji's widow [[LadyZouWancheng|邹氏]], while the 汉纪 1013 transcript used "周氏" for the same Wancheng role. The wiki normalizes the canonical page to Lady Zou and records "周氏" as a source-scoped transcript variant.
 - Source-scope caution: the host's comments about Cao Cao's sexual preference are preserved as interpretive framing; the wiki keeps the political mechanism as surrendered-force humiliation and trust breakdown rather than treating desire alone as the complete cause.

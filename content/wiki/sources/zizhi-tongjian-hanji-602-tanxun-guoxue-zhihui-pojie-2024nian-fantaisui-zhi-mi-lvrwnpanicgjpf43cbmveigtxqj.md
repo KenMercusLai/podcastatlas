@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Yuanshou 2 / 1 BCE scene before [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|Hanji 606]]: a [[Xiongnu|匈奴]] chanyu visits Chang'an with Wusun accompaniment while Western Regions rulers and envoys sit inside a Han-centered diplomatic order. The court points out [[DongXian|董贤]] as [[HanAidi|汉哀帝]]'s young grand marshal, then places the chanyu in Shanglinyuan's Putao Palace because "太岁在申，厌伏南方," a hidden astrological rationale that later offends the guest when disclosed.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Yuanshou 2 / 1 BCE scene before [[zizhi-tongjian-hanji-606-duan-diao-qin-shushu-wangmang-de-xinji-you-duo-shen-lswummzfg74d-_dm_k4vc7fg8eut|汉纪 606]]: a [[Xiongnu|匈奴]] chanyu visits Chang'an with Wusun accompaniment while Western Regions rulers and envoys sit inside a Han-centered diplomatic order. The court points out [[DongXian|董贤]] as [[HanAidi|汉哀帝]]'s young grand marshal, then places the chanyu in Shanglinyuan's Putao Palace because "太岁在申，厌伏南方," a hidden astrological rationale that later offends the guest when disclosed.
 
 The episode then turns the historical notice into a contemporary explanation of [[TaiSuiBelief|太岁与犯太岁信仰]]. It records source-scoped claims about 2024's southeast Tai Sui direction, zodiac animals said to offend Tai Sui, and external remedies such as red clothing or auspicious ornaments, but its durable synthesis shifts toward self-command: a clean environment, low profile, gentleness, compassion, and fewer disputes matter more than relying on objects or directional fixes.
 

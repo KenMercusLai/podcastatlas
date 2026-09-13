@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yuan延 1 / 12 BCE under [[HanChengdi|汉成帝]], after the earlier friendship-rupture account in [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|Hanji 542]]. It first presents [[GuYongWesternHan|谷永]] and [[LiuXiang|刘向]] using disaster and eclipse signs to warn Chengdi that moral failure, palace disorder, inner-court danger, rebellion risk, and popular distress have become dynastic danger signals.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yuan延 1 / 12 BCE under [[HanChengdi|汉成帝]], after the earlier friendship-rupture account in [[zizhi-tongjian-hanji-542-zhichang-xinlixue-shengzhi-hou-weihe-geng-rongyi-zao-paiji-lua_jsiusjojpwlwlroehw7jebgm|汉纪 542]]. It first presents [[GuYongWesternHan|谷永]] and [[LiuXiang|刘向]] using disaster and eclipse signs to warn Chengdi that moral failure, palace disorder, inner-court danger, rebellion risk, and popular distress have become dynastic danger signals.
 
 The second half returns to [[ChenXianWesternHan|陈贤]] and [[ZhaiFangjinWesternHan|翟方进]]. [[WangLiWesternHan|王立]] recommends Chen Xian as 方正, Chengdi reappoints him as Guanglu Dafu and Jishi Zhong, and Zhai immediately blocks the restoration by reviving Chen's prior corruption and recommendation-history problems. The durable synthesis is that old friendship can become harsher than ordinary rivalry when promotion, inquiry pressure, old injury, and renewed office access make both sides see the other as a live threat.
 

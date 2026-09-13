@@ -27,23 +27,23 @@ The current profile is source-scoped and methodological. The novel supplies scen
 - Is useful as reception-history evidence but not as direct proof of the events it dramatizes.
 
 ## Evidence
-- Reading-method contrast: [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]] explicitly sets the coming Three Kingdoms arc against Luo Guanzhong-style novelized memory.
-- Hua Xiong correction: [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|Hanji 955]] treats Guan Yu's warm-wine killing of Hua Xiong as memorable novelized history while crediting Sun Jian at Yangren.
-- Cao Cao reception filter: [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] says the novel's Liu Bei-centered lens can make Cao Cao look like a villain and motivate return to chronicle-source evaluation.
-- Guan Yu loyalty repair: [[zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx|Hanji 1041]] treats "关公约三事" as a fictional construction that dramatizes loyalty, while the source-grounded account records capture, generous treatment, and later return intention.
+- Reading-method contrast: [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|汉纪 923 plus]] explicitly sets the coming Three Kingdoms arc against Luo Guanzhong-style novelized memory.
+- Hua Xiong correction: [[zizhi-tongjian-hanji-955-guanyu-zhan-huaxiong-qishi-shi-wei-lishi-lndkrj-fnepye8iu-ifgyh-vzysf|汉纪 955]] treats Guan Yu's warm-wine killing of Hua Xiong as memorable novelized history while crediting Sun Jian at Yangren.
+- Cao Cao reception filter: [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|汉纪 961]] says the novel's Liu Bei-centered lens can make Cao Cao look like a villain and motivate return to chronicle-source evaluation.
+- Guan Yu loyalty repair: [[zizhi-tongjian-hanji-1041-jiemi-lishishang-zhenshi-de-guanyu-jiangcao-luisp0ndk1lfrc87byygn6r8myhx|汉纪 1041]] treats "关公约三事" as a fictional construction that dramatizes loyalty, while the source-grounded account records capture, generous treatment, and later return intention.
 
 ## Qualifications
 The current wiki does not analyze the novel as a complete literary work. These sources use it mainly as a contrast, reception-history layer, and caution against replacing source comparison with famous scenes. That means the page should not infer the novel's full politics, authorship, or literary structure beyond these bounded uses.
 
 ## What Changed
 - Migrated the page to synthesis-v1.
-- Added Hanji 1041's "关公约三事" correction as a second Guan Yu literary-memory boundary.
+- Added 汉纪 1041's "关公约三事" correction as a second Guan Yu literary-memory boundary.
 - Reframed the page around reception filtering rather than source-by-source accumulation.
 
 ## Relationships
 - [[FictionAsHistoricalEvidence]] - method concept defining how literary memory can be evidence without becoming event proof.
 - [[ThreeKingdomsStruggleStrategyReading|三国斗争策略读法]] - source-grounded reading frame contrasted with novelized memory.
-- [[GuanYu|关羽]] - figure whose popular image is strongly shaped by Romance scenes corrected in Hanji 955 and Hanji 1041.
+- [[GuanYu|关羽]] - figure whose popular image is strongly shaped by Romance scenes corrected in 汉纪 955 and 汉纪 1041.
 - [[CaoCao|曹操]] - figure whose literary image the Ruiqi source frame asks readers to reassess.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle tradition used as the main contrast with the novel.
 - [[Sanguozhi|《三国志》]] - historical source invoked in the Guan Yu surrender correction.

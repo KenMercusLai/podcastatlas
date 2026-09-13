@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-张贺 / Zhang He enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] as a deceased Ye Tingling remembered by [[EmperorXuanOfHan|汉宣帝]] for recognizing, praising, and helping him before accession.
+张贺 / Zhang He enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] as a deceased Ye Tingling remembered by [[EmperorXuanOfHan|汉宣帝]] for recognizing, praising, and helping him before accession.
 
 ## Current Profile
 
@@ -26,17 +26,17 @@ Zhang He matters in the source because his kindness is repaid posthumously. Xuan
 ## Evidence
 
 Posthumous reward:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan tells [[ZhangAnshiWesternHan|张安世]] that Zhang He often praised and helped him.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan wants to honor Zhang He and provide tomb guards.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Zhang Pengzu is made Yangdu Hou as Zhang He's adopted son.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Xuan tells [[ZhangAnshiWesternHan|张安世]] that Zhang He often praised and helped him.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Xuan wants to honor Zhang He and provide tomb guards.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Zhang Pengzu is made Yangdu Hou as Zhang He's adopted son.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 430 and does not reconstruct Zhang He's full office career, family history, or complete role in Xuan's youth.
+This page is source-scoped to 汉纪 430 and does not reconstruct Zhang He's full office career, family history, or complete role in Xuan's youth.
 
 ## What Changed
 
-- Created the page as Xuan's deceased benefactor in the Hanji 430 reward branch.
+- Created the page as Xuan's deceased benefactor in the 汉纪 430 reward branch.
 
 ## Relationships
 

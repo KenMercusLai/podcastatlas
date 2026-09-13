@@ -15,7 +15,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] and [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] ground the concept in [[WangMang|王莽]]'s late-[[XinDynasty|新朝]] crisis taxation. Hanji 655 shows Wang Mang imposing a one-thirtieth levy, textile transport, and official horse-maintenance burdens while mobilizing against rebellion and Xiongnu. Hanji 656 then adds [[TianKuangXinOfficial|田邝]]'s report that local property estimates contain too much concealment, after which Wang Mang again uses a one-thirtieth levy logic. The policy is legible as revenue repair from the center, but the episodes present the social result as intensified pressure, flight, and rebellion.
+[[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] and [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] ground the concept in [[WangMang|王莽]]'s late-[[XinDynasty|新朝]] crisis taxation. 汉纪 655 shows Wang Mang imposing a one-thirtieth levy, textile transport, and official horse-maintenance burdens while mobilizing against rebellion and Xiongnu. 汉纪 656 then adds [[TianKuangXinOfficial|田邝]]'s report that local property estimates contain too much concealment, after which Wang Mang again uses a one-thirtieth levy logic. The policy is legible as revenue repair from the center, but the episodes present the social result as intensified pressure, flight, and rebellion.
 
 The concept matters because it links fiscal extraction to security failure. Qingzhou and Xuzhou civilians cannot absorb the combined weight of tax, labor, military, and requisition demands; weaker people die on the road, and stronger people join armed groups. Rebellion is therefore not treated as a separate moral defect but as a predictable outcome of state pressure exceeding survival capacity.
 
@@ -30,12 +30,12 @@ The concept matters because it links fiscal extraction to security failure. Qing
 
 ## Evidence
 
-- Military-burden trigger: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says Wang Mang responds to rebellion and frontier pressure through mass recruitment, death-row and servant mobilization, a one-thirtieth levy, textile movement to Chang'an, and official horse-care obligations.
-- Burden transfer: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|Hanji 655]] says officials shift horse and campaign burdens onto commoners, making life harder.
-- Tax trigger: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says Tian Kuang reports undercounted property and Wang Mang imposes another one-thirtieth levy.
-- Reward distortion: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says Tian Kuang is promoted to a noble rank and receives a large cash reward after the report.
-- Social breakdown: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] says Qingzhou and Xuzhou civilians flee, weaker people die, and stronger people become bandits under heavy tax and labor pressure.
-- Governance linkage: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|Hanji 656]] presents later amnesty, harsh street prohibitions, and office-title proliferation as failing to solve the disorder created by burden and fear.
+- Military-burden trigger: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says Wang Mang responds to rebellion and frontier pressure through mass recruitment, death-row and servant mobilization, a one-thirtieth levy, textile movement to Chang'an, and official horse-care obligations.
+- Burden transfer: [[zizhi-tongjian-hanji-655-wanzhong-guixin-dao-minyuan-feiteng-wangmang-zuocuo-le-na-yibu-lseopbzgmas0hyjrliikzgp5oxko|汉纪 655]] says officials shift horse and campaign burdens onto commoners, making life harder.
+- Tax trigger: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says Tian Kuang reports undercounted property and Wang Mang imposes another one-thirtieth levy.
+- Reward distortion: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says Tian Kuang is promoted to a noble rank and receives a large cash reward after the report.
+- Social breakdown: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] says Qingzhou and Xuzhou civilians flee, weaker people die, and stronger people become bandits under heavy tax and labor pressure.
+- Governance linkage: [[zizhi-tongjian-hanji-656-zhichang-buhui-shuohua-de-ren-hen-nan-hunchutou-lpn15smz7r1glekugzwtm2tpw-tl|汉纪 656]] presents later amnesty, harsh street prohibitions, and office-title proliferation as failing to solve the disorder created by burden and fear.
 
 ## Counterevidence & Qualifications
 
@@ -43,8 +43,8 @@ This concept is currently grounded in two late-Xin source notes. It does not cla
 
 ## What Changed
 
-- Added Hanji 655's military, frontier, textile, horse, and one-thirtieth levy layer before Hanji 656's tax-reward sequence.
-- Preserved Hanji 656 as the Qing-Xu flight and banditry payoff layer.
+- Added 汉纪 655's military, frontier, textile, horse, and one-thirtieth levy layer before 汉纪 656's tax-reward sequence.
+- Preserved 汉纪 656 as the Qing-Xu flight and banditry payoff layer.
 
 ## Related Concepts
 

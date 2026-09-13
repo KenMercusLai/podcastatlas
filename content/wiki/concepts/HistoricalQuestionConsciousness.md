@@ -13,7 +13,7 @@ knowledge_schema: synthesis-v1
 Historical question consciousness is the practiced ability to decide what problem a source can answer, what context and form it needs, and which path through abundant material is worth following.
 
 ## Current Synthesis
-The current synthesis joins archive method with reading method. Li Ji's work with hundreds of missionary letters required metadata tables and repeated source reading, but the decisive layer was the question that selected what mattered: where was 三台子, who were the girls, why could they write, and what does this show about ordinary people inside large history? Hanji 591-2 adds a classics-reading version: when approaching huge historical corpora, a reader needs to know what kind of text is being read and what question it is supposed to answer, otherwise "efficient reading" becomes either rote memorization or unfocused browsing. In the classroom, AI makes event lookup easier, so humanistic teaching shifts toward question formation, conversation, experience, and judgment.
+The current synthesis joins archive method with reading method. Li Ji's work with hundreds of missionary letters required metadata tables and repeated source reading, but the decisive layer was the question that selected what mattered: where was 三台子, who were the girls, why could they write, and what does this show about ordinary people inside large history? 汉纪 591-2 adds a classics-reading version: when approaching huge historical corpora, a reader needs to know what kind of text is being read and what question it is supposed to answer, otherwise "efficient reading" becomes either rote memorization or unfocused browsing. In the classroom, AI makes event lookup easier, so humanistic teaching shifts toward question formation, conversation, experience, and judgment.
 
 ## Key Claims
 - Archive abundance creates confusion unless a research question selects relevant patterns and returns the historian to the original source.
@@ -32,10 +32,10 @@ The current synthesis joins archive method with reading method. Li Ji's work wit
 - Anti-dead-reading caution: [[zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq]] warns that reading history cannot be only rote conclusion gathering.
 
 ## Counterevidence & Qualifications
-Question consciousness is not a license to force sources into a predetermined argument. The archive episode's method starts from source surprises and fieldwork correction, while Hanji 591-2 starts from source-map humility; in both cases, the question must remain revisable.
+Question consciousness is not a license to force sources into a predetermined argument. The archive episode's method starts from source surprises and fieldwork correction, while 汉纪 591-2 starts from source-map humility; in both cases, the question must remain revisable.
 
 ## What Changed
-- Added Hanji 591-2's source-form and anti-dead-reading layer to the earlier archive and AI-education synthesis.
+- Added 汉纪 591-2's source-form and anti-dead-reading layer to the earlier archive and AI-education synthesis.
 
 ## Related Concepts
 - [[HumanJudgmentUnderAI]] - broader claim that AI acceleration still needs human evaluation.

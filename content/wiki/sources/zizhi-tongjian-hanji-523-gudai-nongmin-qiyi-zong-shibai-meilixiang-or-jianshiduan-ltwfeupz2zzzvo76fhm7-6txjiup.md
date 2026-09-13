@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yangshuo 3 / 22 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|Hanji 524]]. It centers on [[YingchuanIronOfficeUprising|颍川铁官徒起义]], where [[ShentuShengWesternHan|申屠圣]] and about 180 iron-office convicts seize weapons, kill officials, move through multiple commanderies, gain local support, and are then suppressed by the Han state.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yangshuo 3 / 22 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-524-weishenme-youxie-laoban-xihuan-rang-gaoguan-neidou-lsueswk4fqtcytd-m_gziubwmlsz|汉纪 524]]. It centers on [[YingchuanIronOfficeUprising|颍川铁官徒起义]], where [[ShentuShengWesternHan|申屠圣]] and about 180 iron-office convicts seize weapons, kill officials, move through multiple commanderies, gain local support, and are then suppressed by the Han state.
 
 The durable synthesis is that coercive production systems can create rebellion while rebel victory still depends on organization, discipline, legitimacy, and governance capacity. The second half turns to [[WangFengWesternHan|王凤]]'s illness and deathbed recommendation of [[WangYinWesternHan|王音]] over [[WangTanWesternHan|王谭]], presenting succession inside a dominant outer-relative bloc as both personnel judgment and self-protective family risk management.
 

@@ -11,15 +11,15 @@ last_updated: 2026-09-01
 
 ## Overview
 
-征侧 / Zheng Ce is synthesized as the Jiaozhi local leader who turns official pressure into a 40 CE female-led revolt and brief sovereign claim. [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] gives her origin layer in Miling and [[JiaozhiCommandery|交趾郡]], while [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] gives the direct 43 CE defeat branch under [[MaYuanEasternHan|马援]].
+征侧 / Zheng Ce is synthesized as the Jiaozhi local leader who turns official pressure into a 40 CE female-led revolt and brief sovereign claim. [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] gives her origin layer in Miling and [[JiaozhiCommandery|交趾郡]], while [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] gives the direct 43 CE defeat branch under [[MaYuanEasternHan|马援]].
 
 ## Current Profile
 
-Hanji 718 presents Zheng Ce as the daughter of a Miling Lac lord, known locally for fierce and brave conduct. The trigger is [[SuDingJiaozhi|苏定]]'s attempt to punish her under court law, which turns local resentment into open rebellion. Zheng Ce and her sister [[ZhengErJiaozhi|征贰]] rise together, and Jiuzhen, Rinan, Hepu, and other groups respond.
+汉纪 718 presents Zheng Ce as the daughter of a Miling Lac lord, known locally for fierce and brave conduct. The trigger is [[SuDingJiaozhi|苏定]]'s attempt to punish her under court law, which turns local resentment into open rebellion. Zheng Ce and her sister [[ZhengErJiaozhi|征贰]] rise together, and Jiuzhen, Rinan, Hepu, and other groups respond.
 
 The same source gives Zheng Ce's political high point. She captures sixty-five cities, declares herself king, and makes Miling the capital, while the Jiaozhi inspector and commandery administrators can only defend themselves. The host reads this as an unusually early female sovereignty case in the southern minority-frontier setting, now captured as [[FemaleRebelSovereignty|女性起义称王]].
 
-Hanji 718 then jumps ahead to the outcome: in 43 CE, Ma Yuan leads more than ten thousand troops into Jiaozhi, suppresses the revolt, kills Zheng Ce and Zheng Er, and sends their bodies to Luoyang. Hanji 720 independently preserves the same outcome as part of Ma Yuan's Jiaozhi campaign and frontier-commandery restoration branch.
+汉纪 718 then jumps ahead to the outcome: in 43 CE, Ma Yuan leads more than ten thousand troops into Jiaozhi, suppresses the revolt, kills Zheng Ce and Zheng Er, and sends their bodies to Luoyang. 汉纪 720 independently preserves the same outcome as part of Ma Yuan's Jiaozhi campaign and frontier-commandery restoration branch.
 
 ## Key Characteristics
 
@@ -31,20 +31,20 @@ Hanji 718 then jumps ahead to the outcome: in 43 CE, Ma Yuan leads more than ten
 
 ## Evidence
 
-- Local origin and trigger: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Zheng Ce is the daughter of a Miling Lac lord and resents Su Ding after he wants to punish her under court law.
-- Joint rebellion: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Zheng Ce and Zheng Er revolt together in spring 40 CE.
-- Sovereign claim and reach: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says supporting groups from Jiuzhen, Rinan, Hepu, and elsewhere help her seize sixty-five cities, declare herself king, and set the capital at Miling.
-- Han defensive weakness: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says the Jiaozhi inspector and commandery administrators can only defend themselves.
-- Defeat and death: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Ma Yuan kills Zheng Ce and Zheng Er in 43 CE and sends their bodies to Luoyang.
-- Campaign continuity: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|Hanji 720]] says Ma Yuan advances through Jiaozhi, defeats and kills Zheng Ce and Zheng Er, then clarifies institutions to stabilize the southern frontier.
+- Local origin and trigger: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Zheng Ce is the daughter of a Miling Lac lord and resents Su Ding after he wants to punish her under court law.
+- Joint rebellion: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Zheng Ce and Zheng Er revolt together in spring 40 CE.
+- Sovereign claim and reach: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says supporting groups from Jiuzhen, Rinan, Hepu, and elsewhere help her seize sixty-five cities, declare herself king, and set the capital at Miling.
+- Han defensive weakness: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says the Jiaozhi inspector and commandery administrators can only defend themselves.
+- Defeat and death: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Ma Yuan kills Zheng Ce and Zheng Er in 43 CE and sends their bodies to Luoyang.
+- Campaign continuity: [[zizhi-tongjian-hanji-720-donghan-kaiguo-taizi-weihe-fanfu-da-cizhi-baogao-lslizspo8rywnf3cebyhincdhvz0|汉纪 720]] says Ma Yuan advances through Jiaozhi, defeats and kills Zheng Ce and Zheng Er, then clarifies institutions to stabilize the southern frontier.
 
 ## Qualifications
 
-This page is bounded to the current wiki's Hanji 718 and Hanji 720 notes. The source calls Zheng Ce a queen-like or king-making figure, but the page keeps the formal claim narrow: she declared herself king in the Jiaozhi revolt and became a female sovereignty case in the host's framing. The exact ethnic labels, Vietnamese historiographic afterlife, city list, force counts, and Ma Yuan's full campaign route remain outside the current evidence.
+This page is bounded to the current wiki's 汉纪 718 and 汉纪 720 notes. The source calls Zheng Ce a queen-like or king-making figure, but the page keeps the formal claim narrow: she declared herself king in the Jiaozhi revolt and became a female sovereignty case in the host's framing. The exact ethnic labels, Vietnamese historiographic afterlife, city list, force counts, and Ma Yuan's full campaign route remain outside the current evidence.
 
 ## What Changed
 
-- Created Zheng Ce as a canonical Jiaozhi entity rather than leaving her source-scoped in Hanji 720.
+- Created Zheng Ce as a canonical Jiaozhi entity rather than leaving her source-scoped in 汉纪 720.
 - Added the 40 CE origin layer before the 43 CE suppression branch.
 - Framed her current significance as female rebel sovereignty plus southern-frontier state breakdown.
 

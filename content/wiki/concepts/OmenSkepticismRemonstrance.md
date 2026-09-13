@@ -15,11 +15,11 @@ last_updated: 2026-09-11
 
 ## Current Synthesis
 
-Hanji 757 creates the concept through [[HeChangEasternHan|He Chang]] at the end of Zhangdi's reign. Zhangdi changes the era name to Zhanghe because auspicious signs have appeared repeatedly around the capital and the realm. Many people treat the volume of signs as a good political event.
+汉纪 757 creates the concept through [[HeChangEasternHan|He Chang]] at the end of Zhangdi's reign. Zhangdi changes the era name to Zhanghe because auspicious signs have appeared repeatedly around the capital and the realm. Many people treat the volume of signs as a good political event.
 
 He Chang refuses the automatic reading. He argues that auspicious signs follow virtue while disasters arise from bad governance, so strange birds entering palace halls and unusual grasses growing in palace courtyards should make the court cautious. [[SongYouEasternHan|Song You]] and [[YuanAnEasternHan|Yuan An]] fear the implication and do not respond, showing that skepticism toward favorable signs can itself be politically risky.
 
-Hanji 548 adds the negative-sign sibling through [[ZhangYuWesternHan|张瑜 / 张禹]]. When earthquakes and eclipses are interpreted as proof that Wang-family outer relatives have caused Heaven's warning, Zhang Yu does not turn the disasters into a personnel weapon against [[WangGenWesternHan|王根]]. He stresses the difficulty of knowing Heaven's meaning and directs [[HanChengdi|汉成帝]] toward upright conduct rather than shallow certainty. The synthesis now has two forms: skepticism toward easy praise and skepticism toward easy blame.
+汉纪 548 adds the negative-sign sibling through [[ZhangYuWesternHan|张瑜 / 张禹]]. When earthquakes and eclipses are interpreted as proof that Wang-family outer relatives have caused Heaven's warning, Zhang Yu does not turn the disasters into a personnel weapon against [[WangGenWesternHan|王根]]. He stresses the difficulty of knowing Heaven's meaning and directs [[HanChengdi|汉成帝]] toward upright conduct rather than shallow certainty. The synthesis now has two forms: skepticism toward easy praise and skepticism toward easy blame.
 
 ## Key Claims
 
@@ -33,24 +33,24 @@ Hanji 548 adds the negative-sign sibling through [[ZhangYuWesternHan|张瑜 / �
 ## Evidence
 
 Favorable-omen caution:
-- [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Zhangdi changes the era name to Zhanghe after numerous auspicious signs, while He Chang warns that strange palace birds and grasses require caution rather than celebration.
+- [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Zhangdi changes the era name to Zhanghe after numerous auspicious signs, while He Chang warns that strange palace birds and grasses require caution rather than celebration.
 
 Speech risk:
-- [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|Hanji 757]] says Song You and Yuan An are afraid and do not respond after He Chang's remark.
+- [[zizhi-tongjian-hanji-757-rensheng-xiang-shao-zou-wanlu-xian-zhaozhun-dingwei-lri1zyiq8210ymqjakznyp3v4k6x|汉纪 757]] says Song You and Yuan An are afraid and do not respond after He Chang's remark.
 
 Disaster-blame skepticism:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says Zhang Yu refuses a simple reading that earthquakes and eclipses prove Wang-family outer-relative fault.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says Zhang Yu refuses a simple reading that earthquakes and eclipses prove Wang-family outer-relative fault.
 
 Moral response without personnel scapegoating:
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] says Zhang Yu urges Chengdi to cultivate upright conduct rather than trust shallow Confucian assertions.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] says Zhang Yu urges Chengdi to cultivate upright conduct rather than trust shallow Confucian assertions.
 
 ## Counterevidence & Qualifications
 
-This concept is bounded to Hanji 757 and Hanji 548 and should not be used as a universal anti-omen claim. The sources do not adjudicate whether the reported signs were fabricated, natural, or symbolically meaningful. They record the political move of refusing automatic praise or automatic blame and asking the court to read anomalies cautiously.
+This concept is bounded to 汉纪 757 and 汉纪 548 and should not be used as a universal anti-omen claim. The sources do not adjudicate whether the reported signs were fabricated, natural, or symbolically meaningful. They record the political move of refusing automatic praise or automatic blame and asking the court to read anomalies cautiously.
 
 ## What Changed
 
-- Added Hanji 548's negative-sign variant: Zhang Yu resists disaster-based blame against the Wang outer relatives.
+- Added 汉纪 548's negative-sign variant: Zhang Yu resists disaster-based blame against the Wang outer relatives.
 
 ## Related Concepts
 

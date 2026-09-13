@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # Tianren Ganying Projection Frame / 天人感应投射框架
 
-Tianren ganying projection frame / 天人感应投射框架 is [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]]'s claim that the outside world reflects and responds to inner state. The host links older Chinese天人感应 language with a holographic world image, projection, the attraction law, karma, and current cognition when explaining wealth, hardship, family harmony, and repeated bad events.
+Tianren ganying projection frame / 天人感应投射框架 is [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|汉纪 161 part 3]]'s claim that the outside world reflects and responds to inner state. The host links older Chinese天人感应 language with a holographic world image, projection, the attraction law, karma, and current cognition when explaining wealth, hardship, family harmony, and repeated bad events.
 
 The concept extends [[RelationalFateNetwork|关系命运网络]] from social ties into a broader cosmic-feedback claim. In this source, a person is not only affected by parents, partners, friends, and speech; the world itself is imagined as responsive to thought, love, resentment, and awareness.
 
@@ -22,7 +22,7 @@ The wiki keeps this source-scoped and limited. The practical reading is that rep
 - The frame is broader than peer influence because it makes cosmos, society, and inner state mutually responsive.
 
 ## Connections
-- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|Hanji 161 part 3]] - source episode.
+- [[zizhi-tongjian-hanji-161-caiyun-he-renji-guanxi-de-liangzi-jiuchan-3-ll74kq2hg2vp-zx-cqxkadxahamd|汉纪 161 part 3]] - source episode.
 - [[RelationalFateNetwork|关系命运网络]], [[FamilyBlessingOutcomeFrame|家人祝福与成事框架]], and [[GratitudeResentmentReturnFrame|感恩怨恨回向框架]] - relationship-level versions of feedback.
 - [[QuantumEntanglementFateMetaphor|量子纠缠命运隐喻]] - modern metaphorical vocabulary used by the source.
 - [[BuddhistConsciousnessProjectionFrame|佛教心识投射框架]] and [[HighDimensionalConsciousnessEntanglement|高维意识纠缠]] - Buddhist/Daoist extensions in the same episode.

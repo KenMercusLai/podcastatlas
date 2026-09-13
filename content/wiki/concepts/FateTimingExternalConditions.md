@@ -16,7 +16,7 @@ last_updated: 2026-08-31
 
 ## Current Synthesis
 
-Hanji 733-3 builds the concept from [[HanyaoFu|《寒窑赋》]]. The episode first asks what 命 and 运 are, then uses the text's animal, natural, historical, and social contrasts to separate capacity from result. A strong actor may lack opportunity; a weak or morally worse actor may rise temporarily; a person with learning, beauty, or ambition may still be blocked by time.
+汉纪 733-3 builds the concept from [[HanyaoFu|《寒窑赋》]]. The episode first asks what 命 and 运 are, then uses the text's animal, natural, historical, and social contrasts to separate capacity from result. A strong actor may lack opportunity; a weak or morally worse actor may rise temporarily; a person with learning, beauty, or ambition may still be blocked by time.
 
 The concept does not erase agency. Its practical conclusion is conduct under changing conditions: preserve ritual bearing and inner composure when fortune is low, and avoid self-crediting or overconsuming success when fortune is high. The wiki keeps the stronger metaphysical language source-scoped and treats the durable lesson as a humility, timing, and self-possession frame.
 
@@ -31,10 +31,10 @@ The concept does not erase agency. Its practical conclusion is conduct under cha
 
 ## Evidence
 
-- Timing over isolated capacity: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] centers the line that a person may have soaring ambition but cannot open the path without 运.
-- Merit-result divergence: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] uses classical figures, ordinary poverty and wealth, women, gentlemen, and petty people as recurring examples where visible outcome does not match moral or practical worth.
-- Adversity conduct: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] says blocked fortune should be met with ritual bearing, calm measure, and 安贫守分 rather than self-collapse.
-- Prosperity restraint: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|Hanji 733-3]] closes with the admonition that wealth should not be exhausted and poverty should not be self-deceiving.
+- Timing over isolated capacity: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] centers the line that a person may have soaring ambition but cannot open the path without 运.
+- Merit-result divergence: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] uses classical figures, ordinary poverty and wealth, women, gentlemen, and petty people as recurring examples where visible outcome does not match moral or practical worth.
+- Adversity conduct: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] says blocked fortune should be met with ritual bearing, calm measure, and 安贫守分 rather than self-collapse.
+- Prosperity restraint: [[zizhi-tongjian-hanji-733-3-juju-jieshi-qiangu-mingyan-qijie-quan-ni-yiding-yao-du-lkck6rsfd-xtzwipdy-stdhwebey|汉纪 733-3]] closes with the admonition that wealth should not be exhausted and poverty should not be self-deceiving.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The concept should not be used to excuse avoidable harm, structural injustice, o
 
 ## What Changed
 
-- Created the concept from Hanji 733-3's reading of 《寒窑赋》.
+- Created the concept from 汉纪 733-3's reading of 《寒窑赋》.
 - Distinguished the timing-and-condition frame from existing cognition-centered or virtue-practice fate concepts.
 
 ## Related Concepts

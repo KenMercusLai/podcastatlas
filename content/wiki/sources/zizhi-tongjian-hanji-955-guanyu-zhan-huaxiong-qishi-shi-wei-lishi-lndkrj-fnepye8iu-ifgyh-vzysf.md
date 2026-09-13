@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 191 CE anti-[[DongZhuo|董卓]] field immediately before [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] and [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|Hanji 958]]. It centers [[SunJianLateHan|孙坚]] as the active front-line commander: after surviving [[XuRongLateHan|徐荣]]'s attack, he defeats [[HuZhenLateHan|胡轸]] at [[YangrenBattleLateHan|阳人之战]], where [[HuaXiongLateHan|华雄]] is killed. The episode's historiographical hook is that the famous [[GuanYu|关羽]] "warm wine and Hua Xiong" scene belongs to [[RomanceOfTheThreeKingdoms|《三国演义》]] memory, while the source's historical frame credits Sun Jian; it then extends Yuan Shu's grain cutoff, Dong Zhuo's failed offer through [[LiJueLateHan|李傕]], Sun Jian's entry into [[LuoyangLateHan|洛阳]], the discovery of the [[HeirloomImperialSeal|传国玉玺]], and the setup for [[HuangfuSongLateHan|皇甫嵩]]'s later defensive reply.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 191 CE anti-[[DongZhuo|董卓]] field immediately before [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|汉纪 956]] and [[zizhi-tongjian-hanji-958-jiemi-shishang-zui-duanming-de-tongchoudikai-lve41q9gyijbop8wk-b7e6shogju|汉纪 958]]. It centers [[SunJianLateHan|孙坚]] as the active front-line commander: after surviving [[XuRongLateHan|徐荣]]'s attack, he defeats [[HuZhenLateHan|胡轸]] at [[YangrenBattleLateHan|阳人之战]], where [[HuaXiongLateHan|华雄]] is killed. The episode's historiographical hook is that the famous [[GuanYu|关羽]] "warm wine and Hua Xiong" scene belongs to [[RomanceOfTheThreeKingdoms|《三国演义》]] memory, while the source's historical frame credits Sun Jian; it then extends Yuan Shu's grain cutoff, Dong Zhuo's failed offer through [[LiJueLateHan|李傕]], Sun Jian's entry into [[LuoyangLateHan|洛阳]], the discovery of the [[HeirloomImperialSeal|传国玉玺]], and the setup for [[HuangfuSongLateHan|皇甫嵩]]'s later defensive reply.
 
 ## Key Claims
 
@@ -44,7 +44,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[YuanShu|袁术]], [[AntiDongZhuoCoalition|反董卓联盟]], [[CommonEnemyAlliance|共同敌人联盟]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and [[InterestReframingPersuasion|利益重构式说服]] - coalition sabotage and Sun Jian's successful grain-restoration argument.
 - [[GuanYu|关羽]], [[RomanceOfTheThreeKingdoms|《三国演义》]], [[ZizhiTongjian|《资治通鉴》]], [[Sanguozhi|《三国志》]], [[HistoricalMemoryContest]], and [[FictionAsHistoricalEvidence]] - literary memory versus historical-source caution around Hua Xiong's death.
 - [[HeirloomImperialSeal|传国玉玺]], [[MingqiLegitimacy|名器合法性]], and [[YuanShu|袁术]] - Sun Jian's discovery of the object before later sources make it part of Yuan Shu's unsupported imperial-symbol logic.
-- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|Hanji 956]] and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - immediate sequel to the Huangfu Song cliffhanger.
+- [[zizhi-tongjian-hanji-956-yongren-he-zhizhe-jiujing-chaju-zai-nali-lphee8cj-7gcmg-cynpiphjvauuf|汉纪 956]] and [[DefensiveSpeechUnderTyranny|暴政下的防御性言说]] - immediate sequel to the Huangfu Song cliffhanger.
 
 ## Contradictions
 

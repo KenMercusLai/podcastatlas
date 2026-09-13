@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 135-136 CE [[EmperorShunOfHan|汉顺帝]] court before [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]]. It moves from eunuch title-inheritance privilege and [[ZhangGangLateHan|张纲]]'s ignored protest to [[LiangShangLateHan|梁商]]'s reluctant acceptance of the Grand General office and [[LiGuLateHan|李固]]'s unadopted reform counsel.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 135-136 CE [[EmperorShunOfHan|汉顺帝]] court before [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]]. It moves from eunuch title-inheritance privilege and [[ZhangGangLateHan|张纲]]'s ignored protest to [[LiangShangLateHan|梁商]]'s reluctant acceptance of the Grand General office and [[LiGuLateHan|李固]]'s unadopted reform counsel.
 
 The durable contribution is a prudence reading of non-action under imperial, outer-relative, eunuch, and bureaucratic balance. The host argues that Liang Shang's refusal to push Li Gu's rectification agenda may be more than weakness: as [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]]'s father and an outer-relative pillar useful to Shun, forceful reform could have triggered the very emperor and family-power anxieties that later Hanji notes show becoming dangerous.
 
@@ -43,10 +43,10 @@ The durable contribution is a prudence reading of non-action under imperial, out
 - [[OuterRelativeCourtPower|外戚专权与清算]] - the episode shows an early, mild Liang-family dependency before Liang Ji's later coercive domination.
 - [[MaXianLateHan|马贤]], [[CheshiHouKingdomLateHan|车师后王国]], [[Wuhuan|乌桓]], and [[LuoyangLateHan|洛阳]] - frontier and disaster notices connect the court-choice story to the wider Shun-era instability field.
 - [[CourtFeedbackCollapse|君臣反馈失灵]] - Zhang Gang's memorial and Li Gu's advice both reach decision-makers without becoming structural repair.
-- [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]], [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]], and [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|Hanji 821]] - downstream source notes that this episode now chronologically prefaces.
+- [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]], [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]], and [[zizhi-tongjian-hanji-821-budong-laoban-xinsi-haixiang-jinsheng-meimen-lmjxr8fdxgw-colrlinmujba74fh|汉纪 821]] - downstream source notes that this episode now chronologically prefaces.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills 135-136 CE before Hanji 818's Wang Gong rescue, Hanji 820's Liang Shang legal/frontier restraint, and Hanji 821's Liang Shang death and Liang Ji handoff.
+- No settled contradiction with existing wiki pages was found. This source backfills 135-136 CE before 汉纪 818's Wang Gong rescue, 汉纪 820's Liang Shang legal/frontier restraint, and 汉纪 821's Liang Shang death and Liang Ji handoff.
 - Interpretation caution: Liang Shang's inner motive remains inferred from position and context; the source supports "possible political prudence" but does not prove that he consciously rejected reform only to protect the Liang clan.
 - Scope caution: Pang Can, Huan Yan, Yang Lun, Geng Ye, Huyan Wang, Yunzhong, Lanchi, the eunuch adopted-son statute, and exact disaster/omen dates remain source-scoped unless later notes warrant standalone canonical pages.

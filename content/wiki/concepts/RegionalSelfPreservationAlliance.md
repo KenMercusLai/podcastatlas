@@ -14,7 +14,7 @@ Regional Self-Preservation Alliance / 区域自保联盟 is a collapse-period pa
 
 ## Current Synthesis
 
-Hanji 681 grounds the concept in [[DouRongEasternHan|窦融]]'s Hexi choice during the Jianwu 1 fragmentation field. Dou Rong does not simply declare independence; he chooses a comparatively safe frontier base, coordinates with [[LiangTongEasternHan|梁统]] and other commandery officials, and turns five commanderies into a disciplined self-protection bloc.
+汉纪 681 grounds the concept in [[DouRongEasternHan|窦融]]'s Hexi choice during the Jianwu 1 fragmentation field. Dou Rong does not simply declare independence; he chooses a comparatively safe frontier base, coordinates with [[LiangTongEasternHan|梁统]] and other commandery officials, and turns five commanderies into a disciplined self-protection bloc.
 
 The episode presents the alliance as institutional, not merely personal. Dou Rong uses family familiarity with Hexi, the Yellow River barrier, Zhangye shuguo cavalry, ferry control, commandery-level appointments, broad governance, military training, beacon systems, and refugee absorption to make the region stable enough to survive between rival claimants.
 
@@ -28,19 +28,19 @@ The episode presents the alliance as institutional, not merely personal. Dou Ron
 
 ## Evidence
 
-- Geographic base selection: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Dou Rong chooses Hexi because the region is rich, protected by the Yellow River, and locally familiar to his family.
-- Military infrastructure: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Zhangye shuguo has more than ten thousand cavalry and ferry control, making it an important defensive node.
-- Elite compact: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Liang Tong and other Hexi officials elect Dou Rong as acting five-commandery grand general after Liu Xuan's regime collapses.
-- Administrative consolidation: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says Dou Rong reorganizes commandery leadership and officer appointments to make the alliance governable.
-- Stability effects: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|Hanji 681]] says the bloc trains troops, maintains beacons, defeats Qiang/Hu attackers, and draws refugees back into the region.
+- Geographic base selection: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] says Dou Rong chooses Hexi because the region is rich, protected by the Yellow River, and locally familiar to his family.
+- Military infrastructure: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] says Zhangye shuguo has more than ten thousand cavalry and ferry control, making it an important defensive node.
+- Elite compact: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] says Liang Tong and other Hexi officials elect Dou Rong as acting five-commandery grand general after Liu Xuan's regime collapses.
+- Administrative consolidation: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] says Dou Rong reorganizes commandery leadership and officer appointments to make the alliance governable.
+- Stability effects: [[zizhi-tongjian-hanji-681-jiemi-xiongnu-suo-li-handi-lufang-ltapkzkjgrxlzi3g4ofonhp0zzvi|汉纪 681]] says the bloc trains troops, maintains beacons, defeats Qiang/Hu attackers, and draws refugees back into the region.
 
 ## Counterevidence & Qualifications
 
-The current concept is grounded in one source's Dou Rong case and should not be generalized into a universal theory of frontier survival. Hanji 681 supplies the institutional formation but not the full internal minutes of the Hexi compact, the complete commandery roster, or a later evaluation of how the alliance entered Liu Xiu's order.
+The current concept is grounded in one source's Dou Rong case and should not be generalized into a universal theory of frontier survival. 汉纪 681 supplies the institutional formation but not the full internal minutes of the Hexi compact, the complete commandery roster, or a later evaluation of how the alliance entered Liu Xiu's order.
 
 ## What Changed
 
-- Created this page from Hanji 681 to capture Dou Rong's Hexi five-commandery self-preservation pattern before later submission and integration.
+- Created this page from 汉纪 681 to capture Dou Rong's Hexi five-commandery self-preservation pattern before later submission and integration.
 
 ## Related Concepts
 

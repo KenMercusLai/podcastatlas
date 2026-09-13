@@ -10,11 +10,11 @@ last_updated: 2026-08-28
 
 ## Definition
 
-Punitive hair-removal humiliation is the use of shaving or hair removal as punishment that attacks visible dignity, family honor, and social identity as much as the body. In Hanji 836, it is grounded in the髡刑 imposed on [[MaRongLateHan|马融]] and [[TianMingLateHan|田明]] after they visit [[LiangBuyiLateHan|梁不疑]].
+Punitive hair-removal humiliation is the use of shaving or hair removal as punishment that attacks visible dignity, family honor, and social identity as much as the body. In 汉纪 836, it is grounded in the髡刑 imposed on [[MaRongLateHan|马融]] and [[TianMingLateHan|田明]] after they visit [[LiangBuyiLateHan|梁不疑]].
 
 ## Current Synthesis
 
-The concept is not simply "hair was important." Hanji 836 explains髡刑 as a punishment whose force comes from the public loss of bodily integrity and status. Because the episode invokes the idea that hair and body are received from one's parents, cutting hair becomes a family and moral injury as well as a physical mark.
+The concept is not simply "hair was important." 汉纪 836 explains髡刑 as a punishment whose force comes from the public loss of bodily integrity and status. Because the episode invokes the idea that hair and body are received from one's parents, cutting hair becomes a family and moral injury as well as a physical mark.
 
 The political edge appears when the punishment is used against scholar-officials. Ma Rong and Tian Ming are not described as battlefield captives or ordinary criminals in the episode's main frame; they are officials punished after contact with a monitored Liang-family household. Hair removal therefore becomes a tool for turning suspicion into visible humiliation.
 
@@ -30,18 +30,18 @@ The concept sits beside broader hair politics but remains narrower. [[HairAsPoli
 
 ## Evidence
 
-- Punishment form: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] explains髡刑 as shaving the punished person's hair.
-- Honor mechanism: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] links hair removal to the body-hair-from-parents idea and to family dignity.
-- Scholar-official case: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] applies the punishment to Ma Rong and Tian Ming after their visit to Liang Buyi.
-- Political function: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]] frames the punishment as part of Liang Ji's retaliation against the scholar-official circle around his brother.
+- Punishment form: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]] explains髡刑 as shaving the punished person's hair.
+- Honor mechanism: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]] links hair removal to the body-hair-from-parents idea and to family dignity.
+- Scholar-official case: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]] applies the punishment to Ma Rong and Tian Ming after their visit to Liang Buyi.
+- Political function: [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]] frames the punishment as part of Liang Ji's retaliation against the scholar-official circle around his brother.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in one source note and should not be generalized into a complete history of Chinese penal law. Hanji 836 gives an interpretive account of髡刑's humiliation effect; it does not settle the full legal taxonomy of ancient punishments, the exact procedural handling of Ma Rong and Tian Ming, or every historical use of shaving as punishment.
+The concept is currently grounded in one source note and should not be generalized into a complete history of Chinese penal law. 汉纪 836 gives an interpretive account of髡刑's humiliation effect; it does not settle the full legal taxonomy of ancient punishments, the exact procedural handling of Ma Rong and Tian Ming, or every historical use of shaving as punishment.
 
 ## What Changed
 
-- Created the concept from Hanji 836's explanation of髡刑 as public status humiliation against Ma Rong and Tian Ming.
+- Created the concept from 汉纪 836's explanation of髡刑 as public status humiliation against Ma Rong and Tian Ming.
 
 ## Related Concepts
 

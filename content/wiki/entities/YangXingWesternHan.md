@@ -11,13 +11,13 @@ last_updated: 2026-09-12
 
 ## Overview
 
-杨兴 / Yang Xing enters the wiki through [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] and [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|Hanji 479]] as a Western Han official whose proximity to [[HanYuandi|汉元帝]] repeatedly becomes overreach. Hanji 478 presents him as a Chang'an magistrate who misreads Yuan's disaster-omen question about [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]]; Hanji 479 then presents him as [[JiaJuanzhiWesternHan|贾捐之]]'s friend and co-schemer in a failed attempt to use praise of [[ShiXianWesternHan|石显]] to gain senior office.
+杨兴 / Yang Xing enters the wiki through [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] and [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|汉纪 479]] as a Western Han official whose proximity to [[HanYuandi|汉元帝]] repeatedly becomes overreach. 汉纪 478 presents him as a Chang'an magistrate who misreads Yuan's disaster-omen question about [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]]; 汉纪 479 then presents him as [[JiaJuanzhiWesternHan|贾捐之]]'s friend and co-schemer in a failed attempt to use praise of [[ShiXianWesternHan|石显]] to gain senior office.
 
 ## Current Profile
 
-Hanji 478 gives Yang Xing an earlier pattern: a lower-ranking official gets rare access to the ruler, treats an imperial probe as a chance to display political sharpness, and attacks Zhou Kan and Zhang Meng more aggressively than the episode thinks Yuan intended. His proposed compromise, giving Zhou Kan title and income without power, shows tactical cleverness but also a willingness to turn reputation management into punishment.
+汉纪 478 gives Yang Xing an earlier pattern: a lower-ranking official gets rare access to the ruler, treats an imperial probe as a chance to display political sharpness, and attacks Zhou Kan and Zhang Meng more aggressively than the episode thinks Yuan intended. His proposed compromise, giving Zhou Kan title and income without power, shows tactical cleverness but also a willingness to turn reputation management into punishment.
 
-Hanji 479 gives Yang Xing a narrower but related profile. He has just met Yuan before the drinking conversation, and he encourages Jia's ambition by saying Jia would be stronger than [[WuluChongzongWesternHan|五鹿充宗]] as Shangshu Ling. Jia then promises to recommend Yang for Jingzhao Yin, turning friendly praise into a political exchange.
+汉纪 479 gives Yang Xing a narrower but related profile. He has just met Yuan before the drinking conversation, and he encourages Jia's ambition by saying Jia would be stronger than [[WuluChongzongWesternHan|五鹿充宗]] as Shangshu Ling. Jia then promises to recommend Yang for Jingzhao Yin, turning friendly praise into a political exchange.
 
 Yang survives where Jia dies, but the episode does not make him innocent. He participates in the joint praise of Shi Xian, in the proposal to honor Shi and place Shi's brothers in office, and in the reciprocal recommendation design. His lesser punishment reflects a weaker prior political contradiction, not a clean record.
 
@@ -34,25 +34,25 @@ Yang survives where Jia dies, but the episode does not make him innocent. He par
 ## Evidence
 
 Office-seeking exchange:
-- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Yuan asks Yang Xing whether disaster omens relate to Zhang Meng and Zhou Kan, and Yang responds by attacking them as talentless and dangerous.
-- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Yang proposes giving Zhou Kan title and income without real power, preserving Yuan's reputation while neutralizing Zhou.
-- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|Hanji 479]] says Yang Xing has just met Yuan before he drinks with Jia Juanzhi.
-- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|Hanji 479]] says Yang praises Jia's writing and speech, imagining him as superior to Wulu Chongzong as Shangshu Ling.
+- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] says Yuan asks Yang Xing whether disaster omens relate to Zhang Meng and Zhou Kan, and Yang responds by attacking them as talentless and dangerous.
+- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] says Yang proposes giving Zhou Kan title and income without real power, preserving Yuan's reputation while neutralizing Zhou.
+- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|汉纪 479]] says Yang Xing has just met Yuan before he drinks with Jia Juanzhi.
+- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|汉纪 479]] says Yang praises Jia's writing and speech, imagining him as superior to Wulu Chongzong as Shangshu Ling.
 
 Joint scheme:
-- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|Hanji 479]] says Yang and Jia jointly memorialize Yuan to praise Shi Xian and recommend a Guannei Hou title and offices for Shi's brothers.
-- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|Hanji 479]] says a separate Jia-signed memorial recommends Yang for Jingzhao Yin.
+- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|汉纪 479]] says Yang and Jia jointly memorialize Yuan to praise Shi Xian and recommend a Guannei Hou title and offices for Shi's brothers.
+- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|汉纪 479]] says a separate Jia-signed memorial recommends Yang for Jingzhao Yin.
 
 Punishment:
-- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|Hanji 479]] says Yang is shaved, collared, and made a convict after Shi Xian reports the case.
+- [[zizhi-tongjian-hanji-479-zhichang-qingshang-qianfei-kankan-xihan-jiajuanzhi-de-xiachang-lpsopbj1dtftnsn-kjjeyftst7el|汉纪 479]] says Yang is shaved, collared, and made a convict after Shi Xian reports the case.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 478 and Hanji 479. It does not settle Yang Xing's full career, prior relationship with Yuan, exact office status, later fate, Yuan's private intent in the Zhou Kan questioning, or whether his role was equal to Jia Juanzhi's outside the episode's compact narrative.
+This page is source-scoped to 汉纪 478 and 汉纪 479. It does not settle Yang Xing's full career, prior relationship with Yuan, exact office status, later fate, Yuan's private intent in the Zhou Kan questioning, or whether his role was equal to Jia Juanzhi's outside the episode's compact narrative.
 
 ## What Changed
 
-- Added Hanji 478's earlier misread-imperial-signal case, making Yang Xing's profile less a one-off drinking scheme and more a repeated proximity-overreach pattern.
+- Added 汉纪 478's earlier misread-imperial-signal case, making Yang Xing's profile less a one-off drinking scheme and more a repeated proximity-overreach pattern.
 
 ## Relationships
 

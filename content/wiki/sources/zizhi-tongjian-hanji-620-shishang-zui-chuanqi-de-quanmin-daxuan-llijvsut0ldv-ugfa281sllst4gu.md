@@ -14,7 +14,7 @@ last_updated: 2026-09-10
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 4 CE under [[HanPingdi|汉平帝]], just before the later Hanji 622-624 prestige and reward sequence. It follows [[WangShunXinTaishi|王顺]], [[ChenChongXinOfficial|陈崇]], [[KongGuangWesternHan|孔光]], and more than 8,000 officials and commoners as a petition channel pushes [[WangMang|王莽]] from Anhan Gong toward the higher "宰衡" status, expanded land grants, family ennoblement, and court protocol above the Three Excellencies.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 4 CE under [[HanPingdi|汉平帝]], just before the later 汉纪 622-624 prestige and reward sequence. It follows [[WangShunXinTaishi|王顺]], [[ChenChongXinOfficial|陈崇]], [[KongGuangWesternHan|孔光]], and more than 8,000 officials and commoners as a petition channel pushes [[WangMang|王莽]] from Anhan Gong toward the higher "宰衡" status, expanded land grants, family ennoblement, and court protocol above the Three Excellencies.
 
 The durable synthesis is that Wang Mang's ascent is presented as a managed legitimacy loop. Collective petitioning makes reward look externally demanded; [[WangZhengjun|王政君]]'s personal grant supplies senior Han authority; Wang Mang's refusal of his sons' rewards preserves humility credit; and ministerial counter-petitions convert that refusal into a reason to summon him back into government.
 
@@ -43,10 +43,10 @@ The durable synthesis is that Wang Mang's ascent is presented as a managed legit
 - [[PublicRefusalStatusInflation|公开辞让式升格]], [[RitualRenunciationPoliticalCapital|礼让辞封式政治资本]], and [[MoralReputationPoliticalCapital|道德名望政治资本]] - concepts for the mechanism by which refusal, humility, and public demand increase rather than reduce Wang Mang's status.
 - [[JiuXiRitualPromotion|九锡礼遇]] and [[MingqiLegitimacy|名器合法性]] - adjacent ritual-status frames, though this episode centers on the "宰衡" package rather than the later Nine Bestowments award.
 - [[WangAnXinPrince|王安]] and [[WangLinXinCrownPrince|王林]] - Wang Mang's sons whose early family honors are refused here and whose later succession roles become important in the Xin sequence.
-- [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|Hanji 623]] and [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|Hanji 624]] - later nearby 4-5 CE sources where praise, Xihai, mass petitioning, refusal, and Nine Bestowments continue the same rise sequence.
+- [[zizhi-tongjian-hanji-623-ma-pi-hai-shi-zhenxin-zhichangren-ruhe-zai-kuajiang-yu-chanmei-jian-zhao-pingheng-lrpnacm1jbtd9gry-psse-q-uvnb|汉纪 623]] and [[zizhi-tongjian-hanji-624-du-lishi-wu-xingfu-ni-shi-rensheng-yingjia-haishi-yongren-zirao-daibiao-lpavicltc7nducbxiqgpr6t7iczd|汉纪 624]] - later nearby 4-5 CE sources where praise, Xihai, mass petitioning, refusal, and Nine Bestowments continue the same rise sequence.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 4 CE before Hanji 623's praise-to-Nine-Bestowments discussion and Hanji 624's Xihai legal burden and later Nine Bestowments formalization.
+- Chronology qualification: this source backfills 4 CE before 汉纪 623's praise-to-Nine-Bestowments discussion and 汉纪 624's Xihai legal burden and later Nine Bestowments formalization.
 - Scope caution: the exact status mechanics of "宰衡," the full geography of the land grants, Wang Shun's office identity at this point, Chen Chong's earlier role, and Wang Mang's private intention remain source-scoped unless later notes warrant canonical expansion.

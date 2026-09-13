@@ -28,7 +28,7 @@ The current synthesis treats 《西游记》 as a culturally stable but internal
 - Its characters support [[MythicSourceLayering]] because figures such as [[SunWukong|孙悟空]], [[ZhuBajie|猪八戒]], and [[ShaWujing|沙和尚]] carry several possible source histories.
 - The book can be placed beside global hero-journey patterns without being reduced to [[Monomyth]].
 - The novel's underworld and divine bureaucracy material can satirize paperwork, relationships, imperial power, and negotiable authority.
-- Later adaptations can morally reframe the field, as the Hanji 456-4 reading turns the取经 team into an interior map of love, desire, compassion, and heart-demon.
+- Later adaptations can morally reframe the field, as the 汉纪 456-4 reading turns the取经 team into an interior map of love, desire, compassion, and heart-demon.
 
 ## Evidence
 
@@ -36,7 +36,7 @@ The current synthesis treats 《西游记》 as a culturally stable but internal
 - Mythic source layering: [[43-xiyouji-duo-ni-shi-shenme-yaojing-618154182]] compares [[SunWukong|孙悟空]], [[ZhuBajie|猪八戒]], [[ShaWujing|沙和尚]], [[Hanuman|哈努曼]], [[Wuzhiqi|无支祁]], and [[Garuda|迦楼罗 / 大鹏鸟]] as layered character cases.
 - Hero-journey comparison: [[29-qianmian-yingxiong-edipusi-zhengzai-xiaban-ji-ditie-590112891]] uses 《西游记》 as a Chinese example for thresholds, demons, temptations, ordeals, and final return with scripture.
 - Underworld satire: [[136-chunri-mingmei-liaoliao-guishen-827911486]] uses Tang Taizong's underworld descent, Cui Jue's altered register, Liu Quan's melon mission, and bodily return stories as examples of literary afterlife bureaucracy.
-- Instrumental classic comparison: [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|Hanji 923 plus]] maps 《西游记》 to small-team management in a source-scoped four-classics comparison.
+- Instrumental classic comparison: [[zizhi-tongjian-hanji-923-plus-luanshi-fengyun-qi-ruiqi-jiemi-shishang-zui-zhenshi-de-sanguo-lj0ic-bhawqut5zbutbzd0orxjoe|汉纪 923 plus]] maps 《西游记》 to small-team management in a source-scoped four-classics comparison.
 - Modern symbolic adaptation: [[zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3]] reads [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] as "一心三藏," where the team becomes a map of one mind's compassion, desire, ideal, and heart-demon.
 
 ## Qualifications

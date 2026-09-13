@@ -11,7 +11,7 @@ last_updated: 2026-09-02
 ---
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an early Guangwu layer before [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|Hanji 692]] and the later [[WeiXiaoEasternHan|隗嚣]] breakaway sequence. It uses [[MaYuanEasternHan|马援]]'s visits to [[GongsunShuEasternHan|公孙述]] and [[LiuXiu|光武帝刘秀]] to contrast ceremonial suspicion with unguarded trust, then follows [[FengYiEasternHan|冯异]] and Wei Xiao cooperating against Gongsun Shu before Wei Xiao's later fence-sitting becomes explicit. The durable synthesis is that Wei Xiao is not yet in open rebellion: he can still help Liu Xiu and reject Gongsun Shu's titles, but his reliance on watching, waiting, and preserving options keeps his position politically unstable.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an early Guangwu layer before [[zizhi-tongjian-hanji-692-donghan-kaiguo-dajiang-wangba-de-rensheng-you-duo-baqi-lmqqtsxwemetqqae-qdierska9pl|汉纪 692]] and the later [[WeiXiaoEasternHan|隗嚣]] breakaway sequence. It uses [[MaYuanEasternHan|马援]]'s visits to [[GongsunShuEasternHan|公孙述]] and [[LiuXiu|光武帝刘秀]] to contrast ceremonial suspicion with unguarded trust, then follows [[FengYiEasternHan|冯异]] and Wei Xiao cooperating against Gongsun Shu before Wei Xiao's later fence-sitting becomes explicit. The durable synthesis is that Wei Xiao is not yet in open rebellion: he can still help Liu Xiu and reject Gongsun Shu's titles, but his reliance on watching, waiting, and preserving options keeps his position politically unstable.
 
 ## Key Claims
 - Ma Yuan's Chengdu visit turns Gongsun Shu's guarded, ceremonial reception into evidence of false grandeur rather than usable imperial capacity.
@@ -45,5 +45,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- The source backfills a cooperative but unstable stage before Hanji 698's refusal test and the later open rebellion sequence.
+- The source backfills a cooperative but unstable stage before 汉纪 698's refusal test and the later open rebellion sequence.
 - Qin Feng, Zhu Hu, Fu Jun, Li Yu, Cheng Yan, Lü Wei, Chen Jun, Cheng Yan, Taishan commandery, Tianzhong, exact tower-ship logistics, and title details remain source-scoped.

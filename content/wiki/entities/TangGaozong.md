@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Tang Gaozong enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as an early court relationship in [[ShangguanWaner|上官婉儿]]'s life. The episode uses him briefly to show that her early emotional and status possibilities were quickly folded back into [[WuZetian|武则天]]'s palace order.
+Tang Gaozong enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as an early court relationship in [[ShangguanWaner|上官婉儿]]'s life. The episode uses him briefly to show that her early emotional and status possibilities were quickly folded back into [[WuZetian|武则天]]'s palace order.
 
 ## Current Profile
 
@@ -26,8 +26,8 @@ The source says Shangguan Wan'er was favored by Tang Gaozong and made a cairen, 
 
 ## Evidence
 
-- Early favor: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er was favored by Tang Gaozong and made cairen.
-- Interrupted path: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says she was soon sent to Wu Zetian's side.
+- Early favor: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er was favored by Tang Gaozong and made cairen.
+- Interrupted path: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says she was soon sent to Wu Zetian's side.
 
 ## Qualifications
 
@@ -35,7 +35,7 @@ This page is not a full Tang Gaozong biography. It is limited to his role in the
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as Shangguan Wan'er's brief early emperor-linked relationship.
+- Created the page from 汉纪 536-3 as Shangguan Wan'er's brief early emperor-linked relationship.
 
 ## Relationships
 

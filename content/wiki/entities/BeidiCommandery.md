@@ -16,9 +16,9 @@ The host says the commandery seat was Yiqu county and links the likely old Yiqu 
 
 [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] adds Beidi to Qin Shi Huang's first post-unification route in 220 BCE. Paired with [[LongxiCommandery|陇西郡]], Beidi marks the westward/northern old-Qin geography through which the episode interprets the journey as [[HighTempleRite|高庙礼]] rather than ordinary touring.
 
-[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] adds Beidi to Liu Bang's Guanzhong consolidation. After Longxi is taken, Han forces attack Beidi and defeat [[ZhangPingQinGeneral|章平]], which lets the source describe Liu Bang's northern boundary reaching the south bank of the Yellow River loop and the repair of Qin-era frontier fortifications.
+[[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|汉纪 149 part 2]] adds Beidi to Liu Bang's Guanzhong consolidation. After Longxi is taken, Han forces attack Beidi and defeat [[ZhangPingQinGeneral|章平]], which lets the source describe Liu Bang's northern boundary reaching the south bank of the Yellow River loop and the repair of Qin-era frontier fortifications.
 
-[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]] adds Beidi to the final administrative cleanup after [[Feiqiu|废丘]] falls. With [[ZhangHanQin|章邯]] dead and former Yong territory pacified, Han sets [[ZhongdiCommandery|中地郡]], Beidi Commandery, and [[LongxiCommandery|陇西郡]], making Beidi both a frontier inheritance and a Chu-Han commandery transition marker.
+[[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|汉纪 155-1]] adds Beidi to the final administrative cleanup after [[Feiqiu|废丘]] falls. With [[ZhangHanQin|章邯]] dead and former Yong territory pacified, Han sets [[ZhongdiCommandery|中地郡]], Beidi Commandery, and [[LongxiCommandery|陇西郡]], making Beidi both a frontier inheritance and a Chu-Han commandery transition marker.
 
 ## Connections
 - [[QinState|秦国]], [[YiquState|义渠]], and [[XuanTaihou|芈八子 / 宣太后]] - conqueror, conquered frontier polity, and palace actor who removes the Yiqu king.
@@ -26,5 +26,5 @@ The host says the commandery seat was Yiqu county and links the likely old Yiqu 
 - [[LongxiCommandery|陇西郡]] and [[Shangjun|上郡]] - adjacent Qin northern frontier units.
 - [[QinFrontierBufferManagement|秦国后方边患管理]] and [[QinEastwardPressure|秦国东进压力]] - strategic concepts this commandery completes.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[YongchengQin|雍城]], [[HighTempleRite|高庙礼]], and [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] - post-unification route into Qin old-land ritual geography.
-- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]], [[LiuBang|刘邦]], [[ZhangPingQinGeneral|章平]], and [[ThreeQinContainment|三秦压制]] - post-breakthrough frontier consolidation.
-- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|Hanji 155-1]], [[Feiqiu|废丘]], [[ZhongdiCommandery|中地郡]], [[LongxiCommandery|陇西郡]], and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - final former-Yong commandery setup.
+- [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|汉纪 149 part 2]], [[LiuBang|刘邦]], [[ZhangPingQinGeneral|章平]], and [[ThreeQinContainment|三秦压制]] - post-breakthrough frontier consolidation.
+- [[zizhi-tongjian-hanji-155-1-lishi-jizai-shenme-qingkuang-hui-fasheng-ren-chi-ren-canju-lrwz-prnxd8hzchagyrbywkux7lh|汉纪 155-1]], [[Feiqiu|废丘]], [[ZhongdiCommandery|中地郡]], [[LongxiCommandery|陇西郡]], and [[ConquestCommanderyTransition|灭国后的郡县化过渡]] - final former-Yong commandery setup.

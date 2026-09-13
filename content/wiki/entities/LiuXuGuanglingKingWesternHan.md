@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-广陵王刘须 / Liu Xu, Guangling King enters the wiki through [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] as [[HanWudi|汉武帝]]'s fourth son and the first Guangling king. The episode uses him as a royal-kin cautionary figure: he wants imperial power but lacks the courage for direct contention, repeatedly shifts desire into witchcraft curses, and finally destroys himself after the curse network is exposed under [[EmperorXuanOfHan|汉宣帝]].
+广陵王刘须 / Liu Xu, Guangling King enters the wiki through [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] as [[HanWudi|汉武帝]]'s fourth son and the first Guangling king. The episode uses him as a royal-kin cautionary figure: he wants imperial power but lacks the courage for direct contention, repeatedly shifts desire into witchcraft curses, and finally destroys himself after the curse network is exposed under [[EmperorXuanOfHan|汉宣帝]].
 
 ## Current Profile
 
@@ -30,21 +30,21 @@ His recurring method is [[RoyalWitchcraftSuccessionDelusion|royal-kin witchcraft
 ## Evidence
 
 Succession status and unfitness:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu is Han Wudi's fourth son and first Guangling king.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] describes him as tall and strong but unstable, pleasure-seeking, lawless, and fond of fighting wild beasts.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Han Wudi feared Liu Xu would quickly damage the state if made emperor.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu is Han Wudi's fourth son and first Guangling king.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] describes him as tall and strong but unstable, pleasure-seeking, lawless, and fond of fighting wild beasts.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Han Wudi feared Liu Xu would quickly damage the state if made emperor.
 
 Witchcraft and ambition:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu wants the throne but does not dare compete openly.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says he asks the witch Li Nuxu to curse Liu Fuling, then reads Liu Fuling's death as proof that the curse works.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu He's twenty-seven-day reign and deposition further convince Liu Xu that curses affect imperial succession.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu later curses Xuan and is implicated in a Liu Yanshou rebellion case, but Xuan spares him and rewards him.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu wants the throne but does not dare compete openly.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says he asks the witch Li Nuxu to curse Liu Fuling, then reads Liu Fuling's death as proof that the curse works.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu He's twenty-seven-day reign and deposition further convince Liu Xu that curses affect imperial succession.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu later curses Xuan and is implicated in a Liu Yanshou rebellion case, but Xuan spares him and rewards him.
 
 Final collapse:
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu's son Liu Bao loses title for killing, commits adultery with Liu Xu's consort, and is executed, while Liu Xu loses part of his fief.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu resumes cursing Xuan because of resentment.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Liu Xu poisons witches and more than twenty palace women, destroys curse objects, is exposed, and commits suicide in 54 BCE.
-- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|Hanji 456-1]] says Xuan ultimately spares several of Liu Xu's sons from death and demotes them.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu's son Liu Bao loses title for killing, commits adultery with Liu Xu's consort, and is executed, while Liu Xu loses part of his fief.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu resumes cursing Xuan because of resentment.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Liu Xu poisons witches and more than twenty palace women, destroys curse objects, is exposed, and commits suicide in 54 BCE.
+- [[zizhi-tongjian-hanji-456-1-yi-ming-ji-huangwei-jiemi-hanwudi-zui-qipa-erzi-ltdqudgpmgkulrhhxkzvjsvgjlo5|汉纪 456-1]] says Xuan ultimately spares several of Liu Xu's sons from death and demotes them.
 
 ## Qualifications
 
@@ -52,7 +52,7 @@ This page is bounded to one compact podcast source. It does not reconstruct Liu 
 
 ## What Changed
 
-- Created the Liu Xu page from Hanji 456-1 as a royal-kin treason and witchcraft case.
+- Created the Liu Xu page from 汉纪 456-1 as a royal-kin treason and witchcraft case.
 
 ## Relationships
 

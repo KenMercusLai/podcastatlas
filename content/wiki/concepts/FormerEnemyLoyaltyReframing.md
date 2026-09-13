@@ -16,11 +16,11 @@ last_updated: 2026-09-02
 
 ## Current Synthesis
 
-Hanji 170 part 1 builds the positive model around [[JiBu|Ji Bu]]. A defeated officer's attacks on [[LiuBang|Liu Bang]] can be read as personal offense, but [[ZhuJiaLu|Zhu Jia]] persuades through [[XiahouYing|Xiahou Ying]] that the same conduct can be read as loyalty to [[XiangYu|Xiang Yu]]. Publicly pardoning and rewarding Ji Bu lets the new Han order claim that it honors loyalty even when that loyalty previously opposed it.
+汉纪 170 part 1 builds the positive model around [[JiBu|Ji Bu]]. A defeated officer's attacks on [[LiuBang|Liu Bang]] can be read as personal offense, but [[ZhuJiaLu|Zhu Jia]] persuades through [[XiahouYing|Xiahou Ying]] that the same conduct can be read as loyalty to [[XiangYu|Xiang Yu]]. Publicly pardoning and rewarding Ji Bu lets the new Han order claim that it honors loyalty even when that loyalty previously opposed it.
 
-Hanji 170 part 2 adds the negative boundary through [[DingGong|Ding Gong]]. Ding Gong had helped Liu Bang by sparing him at Pengcheng, but Liu Bang later executes him as disloyal to Xiang Yu. The concept therefore does not mean all useful former enemies are forgiven. It requires the victor to distinguish loyal service to an old lord from conduct that can be framed as private betrayal of assigned duty.
+汉纪 170 part 2 adds the negative boundary through [[DingGong|Ding Gong]]. Ding Gong had helped Liu Bang by sparing him at Pengcheng, but Liu Bang later executes him as disloyal to Xiang Yu. The concept therefore does not mean all useful former enemies are forgiven. It requires the victor to distinguish loyal service to an old lord from conduct that can be framed as private betrayal of assigned duty.
 
-Hanji 684 adds an Eastern Han restoration version through [[BaoYongEasternHan|Bao Yong]] and [[FengYanEasternHan|Feng Yan]]. After Liu Xuan is killed, they mourn the old ruler, release people, seal insignia, disperse followers, and surrender to Liu Xiu without force-backed bargaining. Bao Yong explicitly says he would be ashamed to use old-lord troops for private wealth and rank, then invokes Liu Bang's treatment of Ji Bu and Ding Gong to reassure Feng Yan.
+汉纪 684 adds an Eastern Han restoration version through [[BaoYongEasternHan|Bao Yong]] and [[FengYanEasternHan|Feng Yan]]. After Liu Xuan is killed, they mourn the old ruler, release people, seal insignia, disperse followers, and surrender to Liu Xiu without force-backed bargaining. Bao Yong explicitly says he would be ashamed to use old-lord troops for private wealth and rank, then invokes Liu Bang's treatment of Ji Bu and Ding Gong to reassure Feng Yan.
 
 The Eastern Han case adds a sharper incorporation limit. Liu Xiu praises Bao Yong publicly but is privately dissatisfied, and later outcomes diverge: Bao Yong is reused through military merit while Feng Yan is gradually marginalized. Former-enemy loyalty can become a usable virtue, but the new ruler still evaluates force, service, and future utility.
 
@@ -35,12 +35,12 @@ The Eastern Han case adds a sharper incorporation limit. Liu Xiu praises Bao Yon
 
 ## Evidence
 
-- Positive reclassification: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] says Zhu Jia and Xiahou Ying persuade Liu Bang to see Ji Bu's attacks as loyal service to Xiang Yu rather than personal unforgivable hostility.
-- Strategic absorption: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|Hanji 170 part 1]] frames pardon as preventing capable former enemies from fleeing or strengthening outside powers.
-- Negative boundary: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]] says Liu Bang executes Ding Gong because sparing him at Pengcheng can be read as disloyalty to Xiang Yu.
-- Old-ruler surrender posture: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Bao Yong and Feng Yan mourn Liu Xuan, release people, seal insignia, disperse followers, and then surrender.
-- Ji Bu and Ding Gong as active precedent: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Bao Yong reassures Feng Yan by citing Liu Bang's reward of Ji Bu and execution of Ding Gong.
-- Incorporation limit: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|Hanji 684]] says Liu Xiu praises Bao Yong outwardly but is privately dissatisfied, while Bao Yong later gains use through military merit and Feng Yan is marginalized.
+- Positive reclassification: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|汉纪 170 part 1]] says Zhu Jia and Xiahou Ying persuade Liu Bang to see Ji Bu's attacks as loyal service to Xiang Yu rather than personal unforgivable hostility.
+- Strategic absorption: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-1-lpioq8izitba7uhbdybp7i03djdy|汉纪 170 part 1]] frames pardon as preventing capable former enemies from fleeing or strengthening outside powers.
+- Negative boundary: [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|汉纪 170 part 2]] says Liu Bang executes Ding Gong because sparing him at Pengcheng can be read as disloyalty to Xiang Yu.
+- Old-ruler surrender posture: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|汉纪 684]] says Bao Yong and Feng Yan mourn Liu Xuan, release people, seal insignia, disperse followers, and then surrender.
+- Ji Bu and Ding Gong as active precedent: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|汉纪 684]] says Bao Yong reassures Feng Yan by citing Liu Bang's reward of Ji Bu and execution of Ding Gong.
+- Incorporation limit: [[zizhi-tongjian-hanji-684-zhending-wang-liuyang-weishenme-beipan-guangwudi-liuxiu-lhtdqtfxihyua1nj8ofsdxl8il8d|汉纪 684]] says Liu Xiu praises Bao Yong outwardly but is privately dissatisfied, while Bao Yong later gains use through military merit and Feng Yan is marginalized.
 
 ## Counterevidence & Qualifications
 
@@ -48,7 +48,7 @@ The concept does not claim that victors consistently reward old loyalty. Ding Go
 
 ## What Changed
 
-- Added Hanji 684 as the Bao Yong/Feng Yan Eastern Han restoration case.
+- Added 汉纪 684 as the Bao Yong/Feng Yan Eastern Han restoration case.
 - Converted the page to synthesis-v1 and separated evidence from related links.
 - Reframed the concept to include incorporation limits after morally legible surrender.
 

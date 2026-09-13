@@ -16,10 +16,10 @@ Feng therefore shows how fragile Liu Bang's first territorial base still is. Unl
 
 [[zizhi-tongjian-qinji-130-2-lishi-jilu-shouci-tucheng-lm4kuzdpnqn-hicyuvvb4p2wdudm|Qinji 130-2]] gives the recovery. [[LiuBang|刘邦]] goes to [[XiangLiang|项梁]] at Xue, receives five thousand troops and ten fifth-rank commanders, and takes Feng on his fourth attempt. [[YongChi|雍齿]] flees to Wei, so Feng becomes the place where Liu Bang's dependence on a larger anti-Qin patron produces an immediate territorial result.
 
-[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]] returns to Feng as Liu Bang's birth-and-growth place after the [[YingBu|英布 / 黥布]] campaign. When [[PeiCounty|沛县]] elders ask that Feng receive the same permanent exemption from tax and corvee as Pei, Liu Bang first remembers Yong Chi's betrayal and falls silent. The request succeeds only after Pei-origin ministers including [[CaoShen|曹参]], [[FanKuai|樊哙]], and [[XiahouYing|夏侯婴]] argue that the old grievance can pass now that Yong Chi has already been made Shifang marquis.
+[[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|汉纪 188]] returns to Feng as Liu Bang's birth-and-growth place after the [[YingBu|英布 / 黥布]] campaign. When [[PeiCounty|沛县]] elders ask that Feng receive the same permanent exemption from tax and corvee as Pei, Liu Bang first remembers Yong Chi's betrayal and falls silent. The request succeeds only after Pei-origin ministers including [[CaoShen|曹参]], [[FanKuai|樊哙]], and [[XiahouYing|夏侯婴]] argue that the old grievance can pass now that Yong Chi has already been made Shifang marquis.
 
 ## Connections
-- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|Hanji 188]], [[PeiCounty|沛县]], [[TangmuYi|汤沐邑]], and [[ImperialHomeCountyTaxExemption|帝王故乡免租徭役]] - Feng's later inclusion in the hometown exemption.
+- [[zizhi-tongjian-hanji-188-gudai-zhongguo-de-tianxia-wushui-xian-lnoib0bvz8w0ihvhxmtx19tr4jdz|汉纪 188]], [[PeiCounty|沛县]], [[TangmuYi|汤沐邑]], and [[ImperialHomeCountyTaxExemption|帝王故乡免租徭役]] - Feng's later inclusion in the hometown exemption.
 - [[LiuBang|刘邦]] - early leader whose position at Feng is damaged.
 - [[YongChi|雍齿]] - defender who defects from Liu Bang.
 - [[ZhouShiRebel|周市]] and [[WeiState|魏国]] - rival anti-Qin restoration line that receives Feng.

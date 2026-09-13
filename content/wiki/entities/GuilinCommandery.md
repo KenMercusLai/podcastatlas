@@ -12,10 +12,10 @@ last_updated: 2026-08-23
 
 The commandery matters because it moves the Baiyue branch beyond Wang Jian's earlier Jiangnan notice. Qin now pushes deeper into Lingnan, drafts marginal groups for the campaign, and follows military occupation with commandery naming and convict settlement.
 
-[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] reuses Guilin as one part of the southern field attached to [[ZhaoTuo|赵佗]]'s [[Nanyue|南越]]. The source does not develop Guilin's local administration, but it treats the commandery as part of the territorial scale that makes Nanyue too large for [[LiuBang|刘邦]] to ignore.
+[[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|汉纪 184]] reuses Guilin as one part of the southern field attached to [[ZhaoTuo|赵佗]]'s [[Nanyue|南越]]. The source does not develop Guilin's local administration, but it treats the commandery as part of the territorial scale that makes Nanyue too large for [[LiuBang|刘邦]] to ignore.
 
 ## Connections
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], and [[LuJia|陆贾]] - southern polity scale behind Liu Bang's recognition mission.
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|汉纪 184]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], and [[LuJia|陆贾]] - southern polity scale behind Liu Bang's recognition mission.
 - [[QinState|秦国]] and [[QinShiHuang|嬴政 / 秦始皇]] - state and ruler behind the 214 BCE campaign.
 - [[Baiyue|百越]] - southern peoples and polities targeted by the campaign.
 - [[NanhaiCommandery|南海郡]] and [[XiangCommandery|象郡]] - paired Qin commanderies created in the same source.

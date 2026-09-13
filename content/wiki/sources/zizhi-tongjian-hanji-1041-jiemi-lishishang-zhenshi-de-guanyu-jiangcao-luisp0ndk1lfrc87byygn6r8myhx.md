@@ -13,7 +13,7 @@ last_updated: 2026-08-27
 # 《资治通鉴·汉纪》1041丨揭秘历史上真实的“关羽降曹”
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the immediate pre-[[GuanduCampaign|官渡之战]] sequence after [[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x|Hanji 1040]]. [[CaoCao|曹操]] chooses to attack [[LiuBei|刘备]] before facing [[YuanShao|袁绍]], [[GuoJia|郭嘉]] supports the timing judgment, and [[TianFengLateHan|田丰]] sees the chance for Yuan Shao to strike [[Xudu|许都]], but Yuan Shao fails to act.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the immediate pre-[[GuanduCampaign|官渡之战]] sequence after [[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x|汉纪 1040]]. [[CaoCao|曹操]] chooses to attack [[LiuBei|刘备]] before facing [[YuanShao|袁绍]], [[GuoJia|郭嘉]] supports the timing judgment, and [[TianFengLateHan|田丰]] sees the chance for Yuan Shao to strike [[Xudu|许都]], but Yuan Shao fails to act.
 
 The second half corrects the familiar [[RomanceOfTheThreeKingdoms|《三国演义》]] "关公约三事" memory. The episode says [[Sanguozhi|《三国志》]] records [[GuanYu|关羽]] being captured, treated generously by Cao Cao, appointed 偏将军, and still intending to return to Liu Bei after first repaying Cao Cao by merit; that makes the case a matter of [[CaptiveSubmissionResidualLoyalty|被俘归顺与旧主忠义]] rather than a historically attested three-condition surrender pact.
 
@@ -32,7 +32,7 @@ The second half corrects the familiar [[RomanceOfTheThreeKingdoms|《三国演�
 > "吾受刘将军厚恩，誓以共死，不可背之." - Guan Yu's reported loyalty statement as presented in the episode.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x|Hanji 1040]], [[CaoCao|曹操]], [[LiuBei|刘备]], [[GuoJia|郭嘉]], [[YuanShao|袁绍]], [[TianFengLateHan|田丰]], [[Xudu|许都]], and [[GuanduCampaign|官渡之战]] - immediate pre-Guandu sequencing and missed Yuan-side attack window.
+- [[zizhi-tongjian-hanji-1040-luanshi-yingxiong-caocao-weihe-dudu-kanhao-liubei-lrazzwo4bjspvwmnkx5hoar1iq3x|汉纪 1040]], [[CaoCao|曹操]], [[LiuBei|刘备]], [[GuoJia|郭嘉]], [[YuanShao|袁绍]], [[TianFengLateHan|田丰]], [[Xudu|许都]], and [[GuanduCampaign|官渡之战]] - immediate pre-Guandu sequencing and missed Yuan-side attack window.
 - [[GuanYu|关羽]], [[Xiapi|下邳]], [[ZhangLiao|张辽]], [[ZhangFei|张飞]], [[GaoShun|高顺]], [[ChenGongLateHan|陈宫]], [[YuJin|于禁]], and [[JuShou|沮授]] - captured-general comparison, interrogation, and surrender/non-surrender field.
 - [[RomanceOfTheThreeKingdoms|《三国演义》]], [[Sanguozhi|《三国志》]], [[ZizhiTongjian|《资治通鉴》]], [[FictionAsHistoricalEvidence]], and [[CaptiveSubmissionResidualLoyalty|被俘归顺与旧主忠义]] - boundary between novelized memory, chronicle-source framing, and loyalty under captivity.
 - [[LatentRivalRecognition|潜在强敌识别]], [[XingshiqingStrategicAssessment|行势情战略评估]], [[CourtFeedbackCollapse|君臣反馈失灵]], and [[AdviserStateArchitecture|谋士政权架构]] - concepts extended by Cao/Guo/Tian/Yuan judgment and conversion failure.

@@ -13,7 +13,7 @@ last_updated: 2026-09-01
 # 《资治通鉴·汉纪》699丨敢与刘秀争雄的他，为何惨淡收场？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an early Guangwu consolidation layer before [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]]. It connects [[WeiXiaoEasternHan|隗嚣]]'s Longyou elite origin, [[CenPengEasternHan|岑彭]]'s letter-and-proclamation route into Jiaozhi and Jiangnan, [[LiuXiu|光武帝刘秀]]'s noncoercive handling of recluses, and an early [[ShacheKingdomLateHan|莎车国]] loyalty branch under King Yan and King Kang.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills an early Guangwu consolidation layer before [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]]. It connects [[WeiXiaoEasternHan|隗嚣]]'s Longyou elite origin, [[CenPengEasternHan|岑彭]]'s letter-and-proclamation route into Jiaozhi and Jiangnan, [[LiuXiu|光武帝刘秀]]'s noncoercive handling of recluses, and an early [[ShacheKingdomLateHan|莎车国]] loyalty branch under King Yan and King Kang.
 
 The southern branch makes frontier integration depend on more than campaign force: [[XiGuangEasternHan|锡光]] in [[JiaozhiCommandery|交趾郡]] and [[RenYanEasternHan|任延]] in Jiuzhen are presented as officials who teach ritual, marriage customs, and agriculture. The court branch shows Liu Xiu tolerating [[ZhouDangEasternHan|周党]] and [[YanGuangEasternHan|严光]] after they refuse office, while [[WangLiangEasternHan|王梁]] becomes a more ambiguous case of reputation pressure after a friend challenges the merit behind his rank.
 

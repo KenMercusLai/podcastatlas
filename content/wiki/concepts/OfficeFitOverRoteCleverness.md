@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Definition
 
-Office fit over rote cleverness is the personnel principle that high office requires the capacity suited to its actual burdens, not merely seniority, legal familiarity, or quick verbal response. In Hanji 753, [[WeiBiaoEasternHan|Wei Biao]] applies this principle to appointments generally and to the [[ShangshuTaiImperialAccess|Shangshu]] pipeline specifically.
+Office fit over rote cleverness is the personnel principle that high office requires the capacity suited to its actual burdens, not merely seniority, legal familiarity, or quick verbal response. In 汉纪 753, [[WeiBiaoEasternHan|Wei Biao]] applies this principle to appointments generally and to the [[ShangshuTaiImperialAccess|Shangshu]] pipeline specifically.
 
 ## Current Synthesis
 
@@ -30,10 +30,10 @@ Second, he criticizes a staffing habit that draws Shangshu personnel from langgu
 
 ## Evidence
 
-- Upstream selection channel: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] has Wei Biao argue that strong two-thousand-stone officials are needed because they recommend capable people to the center.
-- Seniority critique: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] warns that talent and virtue are rare and that selecting by age order alone misreads capability.
-- Shangshu critique: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] criticizes appointing Shangshu from langguan merely because they know statutes and answer rapidly.
-- Capacity mismatch analogy: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] uses the tiger-enclosure steward and Zhou Bo comparison to separate narrow expertise from broad governing capacity.
+- Upstream selection channel: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] has Wei Biao argue that strong two-thousand-stone officials are needed because they recommend capable people to the center.
+- Seniority critique: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] warns that talent and virtue are rare and that selecting by age order alone misreads capability.
+- Shangshu critique: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] criticizes appointing Shangshu from langguan merely because they know statutes and answer rapidly.
+- Capacity mismatch analogy: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] uses the tiger-enclosure steward and Zhou Bo comparison to separate narrow expertise from broad governing capacity.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ Second, he criticizes a staffing habit that draws Shangshu personnel from langgu
 
 ## What Changed
 
-- Created this concept from Hanji 753's Wei Biao appointment advice.
+- Created this concept from 汉纪 753's Wei Biao appointment advice.
 
 ## Related Concepts
 

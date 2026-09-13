@@ -10,11 +10,11 @@ last_updated: 2026-09-13
 
 ## Overview
 
-华龙 / Hua Long enters the wiki through [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] as a minor but consequential Western Han court accuser in the first-stage [[XiaoWangzhiWesternHan|萧望之]] case.
+华龙 / Hua Long enters the wiki through [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]] as a minor but consequential Western Han court accuser in the first-stage [[XiaoWangzhiWesternHan|萧望之]] case.
 
 ## Current Profile
 
-Hanji 469 presents Hua Long as a failed attachment figure. He had served as a daizhao under Emperor Xuan but lost office for bad conduct, then tried unsuccessfully to attach himself to [[ZhouKanWesternHan|周堪]] and related actors. After connecting with [[ZhengPengWesternHan|郑朋]], he becomes part of the accusation channel used by [[HongGongWesternHan|弘恭]] and [[ShiXianWesternHan|石显]] against Xiao Wangzhi's side.
+汉纪 469 presents Hua Long as a failed attachment figure. He had served as a daizhao under Emperor Xuan but lost office for bad conduct, then tried unsuccessfully to attach himself to [[ZhouKanWesternHan|周堪]] and related actors. After connecting with [[ZhengPengWesternHan|郑朋]], he becomes part of the accusation channel used by [[HongGongWesternHan|弘恭]] and [[ShiXianWesternHan|石显]] against Xiao Wangzhi's side.
 
 ## Key Characteristics
 
@@ -26,18 +26,18 @@ Hanji 469 presents Hua Long as a failed attachment figure. He had served as a da
 ## Evidence
 
 Failed attachment:
-- [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] says Hua Long had been dismissed for misconduct and later failed to attach himself to Zhou Kan's side.
+- [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]] says Hua Long had been dismissed for misconduct and later failed to attach himself to Zhou Kan's side.
 
 Accusation role:
-- [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] says Hong Gong and Shi Xian direct Hua Long and Zheng Peng to accuse Xiao Wangzhi's circle while Xiao is on leave.
+- [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]] says Hong Gong and Shi Xian direct Hua Long and Zheng Peng to accuse Xiao Wangzhi's circle while Xiao is on leave.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 469. It does not reconstruct Hua Long's full offices, exact misconduct, later fate, or the original wording of his accusation.
+This page is source-scoped to 汉纪 469. It does not reconstruct Hua Long's full offices, exact misconduct, later fate, or the original wording of his accusation.
 
 ## What Changed
 
-- Created from Hanji 469 as a secondary accuser in Xiao Wangzhi's first-stage fall.
+- Created from 汉纪 469 as a secondary accuser in Xiao Wangzhi's first-stage fall.
 
 ## Relationships
 

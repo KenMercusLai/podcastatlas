@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] grounds the concept in the Emperor An-era forged-order case. During An's eastern tour, [[FanFengEunuchLateHan|Fan Feng]], [[ZhouGuangLateHan|Zhou Guang]], [[XieYunLateHan|Xie Yun]], and allied favorites forge imperial instructions and use them to draw Da sinong money and grain and Da jiang labor into private mansion and garden construction.
+[[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|汉纪 800]] grounds the concept in the Emperor An-era forged-order case. During An's eastern tour, [[FanFengEunuchLateHan|Fan Feng]], [[ZhouGuangLateHan|Zhou Guang]], [[XieYunLateHan|Xie Yun]], and allied favorites forge imperial instructions and use them to draw Da sinong money and grain and Da jiang labor into private mansion and garden construction.
 
 The damage is not only financial. A forged edict borrows the emperor's command form, so ordinary offices and labor channels comply as though the demand is public. Once [[YangZhenLateHan|Yang Zhen]] obtains evidence, the guilty group has strong incentive to neutralize the investigator before he can present the documents to the returning emperor. The source therefore ties forged-document extraction to [[CourtFeedbackCollapse|feedback collapse]] and [[DirectRemonstranceCriminalization|criminalized correction]]: the more concrete the evidence becomes, the more urgently the captured court channel turns against the evidence-holder.
 
@@ -28,18 +28,18 @@ The damage is not only financial. A forged edict borrows the emperor's command f
 
 ## Evidence
 
-- Forged authorization: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Fan Feng, Zhou Guang, Xie Yun, and others forge imperial instructions during Emperor An's tour.
-- Public-resource diversion: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says the forged orders draw Da sinong resources and Da jiang labor into private houses, gardens, pools, towers, and pavilions.
-- Evidence and exposure risk: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Yang Zhen obtains the forged documents and prepares to memorialize after An returns.
-- Slander as cover: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says the group preempts exposure by recoding Yang Zhen as resentful and factionally suspect.
+- Forged authorization: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|汉纪 800]] says Fan Feng, Zhou Guang, Xie Yun, and others forge imperial instructions during Emperor An's tour.
+- Public-resource diversion: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|汉纪 800]] says the forged orders draw Da sinong resources and Da jiang labor into private houses, gardens, pools, towers, and pavilions.
+- Evidence and exposure risk: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|汉纪 800]] says Yang Zhen obtains the forged documents and prepares to memorialize after An returns.
+- Slander as cover: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|汉纪 800]] says the group preempts exposure by recoding Yang Zhen as resentful and factionally suspect.
 
 ## Counterevidence & Qualifications
 
-This concept is currently grounded in one source note. It should not absorb every forged document, every unauthorized order, or every construction burden. [[ForgedEdictSuccessionCoup|伪诏继位政变]] concerns forged command in succession takeover, while [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] and [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]] concern different public-private extraction paths. Hanji 800 does not settle the exact bureaucratic verification process, the full participant list, or each office's knowledge state.
+This concept is currently grounded in one source note. It should not absorb every forged document, every unauthorized order, or every construction burden. [[ForgedEdictSuccessionCoup|伪诏继位政变]] concerns forged command in succession takeover, while [[PalaceConstructionFeeExtraction|修宫钱转嫁盘剥]] and [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]] concern different public-private extraction paths. 汉纪 800 does not settle the exact bureaucratic verification process, the full participant list, or each office's knowledge state.
 
 ## What Changed
 
-- Created the concept from Hanji 800's forged-order use of state resources for private construction.
+- Created the concept from 汉纪 800's forged-order use of state resources for private construction.
 
 ## Related Concepts
 

@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Wu Sansi enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as the Wu-family figure around whom [[ShangguanWaner|上官婉儿]]'s post-Wu Zetian positioning becomes especially risky. The episode treats him as both a long-running intimacy/patronage tie and a factional liability.
+Wu Sansi enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as the Wu-family figure around whom [[ShangguanWaner|上官婉儿]]'s post-Wu Zetian positioning becomes especially risky. The episode treats him as both a long-running intimacy/patronage tie and a factional liability.
 
 ## Current Profile
 
@@ -26,10 +26,10 @@ The source says [[WuZetian|武则天]] once considered Wu Sansi as a possible su
 
 ## Evidence
 
-- Succession value: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Wu Zetian once planned to support Wu Sansi as heir, prompting Shangguan Wan'er to approach him to preserve her status.
-- Alliance: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Shangguan Wan'er recommended him to Empress Wei and that the three formed an alliance.
-- Political use: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says he relied on Shangguan Wan'er and Empress Wei to eliminate Zhang Jianzhi and others.
-- Collapse: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Li Chongjun's coup killed Wu Sansi and his son, exposing Shangguan Wan'er to direct retaliation.
+- Succession value: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Wu Zetian once planned to support Wu Sansi as heir, prompting Shangguan Wan'er to approach him to preserve her status.
+- Alliance: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Shangguan Wan'er recommended him to Empress Wei and that the three formed an alliance.
+- Political use: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says he relied on Shangguan Wan'er and Empress Wei to eliminate Zhang Jianzhi and others.
+- Collapse: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Li Chongjun's coup killed Wu Sansi and his son, exposing Shangguan Wan'er to direct retaliation.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page does not offer a full Wu Sansi biography. It records only the episode'
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as the Wu-family alliance node in Shangguan Wan'er's later arc.
+- Created the page from 汉纪 536-3 as the Wu-family alliance node in Shangguan Wan'er's later arc.
 
 ## Relationships
 

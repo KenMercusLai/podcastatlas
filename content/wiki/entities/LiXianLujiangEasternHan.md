@@ -10,11 +10,11 @@ last_updated: 2026-09-02
 
 ## Overview
 
-Li Xian / 李宪 is the Lujiang-area rebel target in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]], distinct from other same-pinyin Li Xian pages. The source gives him a compact campaign role: [[LiuXiu|光武帝刘秀]] reaches Shouchun, sends [[MaChengEasternHan|马成]] and other commanders against him, mobilizes troops from four commanderies, and has Han forces surround him at Shu County in September.
+Li Xian / 李宪 is the Lujiang-area rebel target in [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]], distinct from other same-pinyin Li Xian pages. The source gives him a compact campaign role: [[LiuXiu|光武帝刘秀]] reaches Shouchun, sends [[MaChengEasternHan|马成]] and other commanders against him, mobilizes troops from four commanderies, and has Han forces surround him at Shu County in September.
 
 ## Current Profile
 
-The current evidence treats Li Xian as a regional military target rather than a fully profiled ruler. His importance in Hanji 690 is structural: the episode shows Liu Xiu managing multiple unsettled fronts at once, including Peng Chong, Dong Xian, Qin Feng, Zhang Feng, and Li Xian.
+The current evidence treats Li Xian as a regional military target rather than a fully profiled ruler. His importance in 汉纪 690 is structural: the episode shows Liu Xiu managing multiple unsettled fronts at once, including Peng Chong, Dong Xian, Qin Feng, Zhang Feng, and Li Xian.
 
 Li Xian's branch also illustrates the material scale of post-restoration campaigning. The Han side does not merely send one general; it assigns Ma Cheng with several commanders and draws on Kuaiji, Danyang, Jiujiang, and Lu'an commandery troops before the siege at Shu County.
 
@@ -28,9 +28,9 @@ Li Xian's branch also illustrates the material scale of post-restoration campaig
 
 ## Evidence
 
-- Campaign order: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Liu Xiu sends Ma Cheng and other commanders to attack Li Xian.
-- Mobilized forces: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says troops are drawn from Kuaiji, Danyang, Jiujiang, and Lu'an.
-- Siege notice: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|Hanji 690]] says Han forces surround Li Xian at Shu County in September.
+- Campaign order: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Liu Xiu sends Ma Cheng and other commanders to attack Li Xian.
+- Mobilized forces: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says troops are drawn from Kuaiji, Danyang, Jiujiang, and Lu'an.
+- Siege notice: [[zizhi-tongjian-hanji-690-jiaoyou-bushen-you-duo-kepa-kankan-tianrong-de-jingli-lpbms8pebzdo2ldiwho1cba81njk|汉纪 690]] says Han forces surround Li Xian at Shu County in September.
 
 ## Qualifications
 

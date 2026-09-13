@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-朱徐 / Zhu Xu is synthesized as a late [[WesternHanDynasty|Western Han]] figure whose one source-backed wiki role is loyal action after [[DongXian|董贤]]'s fall. [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]] contrasts him with opportunistic public grief outside the Dong household: Zhu Xu had once been treated well by Dong Xian, resigns by self-impeachment after Dong-family disaster, retrieves Dong Xian's body, and buries him.
+朱徐 / Zhu Xu is synthesized as a late [[WesternHanDynasty|Western Han]] figure whose one source-backed wiki role is loyal action after [[DongXian|董贤]]'s fall. [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|汉纪 605]] contrasts him with opportunistic public grief outside the Dong household: Zhu Xu had once been treated well by Dong Xian, resigns by self-impeachment after Dong-family disaster, retrieves Dong Xian's body, and buries him.
 
 ## Current Profile
 
@@ -28,9 +28,9 @@ The same source also makes his loyalty unsafe. [[WangMang|王莽]] later hears o
 
 ## Evidence
 
-- Prior obligation: [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]] says Zhu Xu had previously been well treated by Dong Xian.
-- Costly loyalty: [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]] says Zhu Xu resigns, buys burial goods, finds Dong Xian's body in prison, and buries him.
-- Political exposure: [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|Hanji 605]] says Wang Mang kills Zhu Xu under another charge after hearing about the burial.
+- Prior obligation: [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|汉纪 605]] says Zhu Xu had previously been well treated by Dong Xian.
+- Costly loyalty: [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|汉纪 605]] says Zhu Xu resigns, buys burial goods, finds Dong Xian's body in prison, and buries him.
+- Political exposure: [[zizhi-tongjian-hanji-605-dongxian-sihou-tamen-liuxiale-eyu-de-yanlei-lladjfbixqzhxjurjs1z8ztsa1st|汉纪 605]] says Wang Mang kills Zhu Xu under another charge after hearing about the burial.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The wiki has only one bounded source for Zhu Xu. His full career, office, lineag
 
 ## What Changed
 
-- Created the entity from Hanji 605 to preserve the episode's loyal-counterexample branch.
+- Created the entity from 汉纪 605 to preserve the episode's loyal-counterexample branch.
 
 ## Relationships
 

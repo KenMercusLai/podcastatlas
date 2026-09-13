@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 169 CE party-prohibition layer before [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]]. It opens with a source-scoped borrowing-money boundary lesson, then turns to [[ChenShiLateHan|陈寔]], [[HeYongLateHan|何颙]], [[YuanShao|袁绍]], [[YuanHongLateHan|袁闳]], and [[ShentuPanLateHan|申屠蟠]] as different responses to persecution risk under [[EmperorLingOfHan|汉灵帝]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 169 CE party-prohibition layer before [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|汉纪 897]]. It opens with a source-scoped borrowing-money boundary lesson, then turns to [[ChenShiLateHan|陈寔]], [[HeYongLateHan|何颙]], [[YuanShao|袁绍]], [[YuanHongLateHan|袁闳]], and [[ShentuPanLateHan|申屠蟠]] as different responses to persecution risk under [[EmperorLingOfHan|汉灵帝]].
 
 The episode's core synthesis is that disorder-era survival is not only moral courage. Chen Shi's earlier courtesy to [[ZhangRangLateHan|张让]] becomes later protection, He Yong and Yuan Shao quietly rescue party figures, while Yuan Hong and Shentu Pan lower exposure or withdraw before public righteousness turns into collective danger.
 
@@ -49,6 +49,6 @@ The episode's core synthesis is that disorder-era survival is not only moral cou
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The source backfills the 169 CE party-prohibition survival layer before Hanji 897's 170 CE sequence and Hanji 898's 171 CE amnesty boundary.
+- No settled contradiction with existing wiki pages was found. The source backfills the 169 CE party-prohibition survival layer before 汉纪 897's 170 CE sequence and 汉纪 898's 171 CE amnesty boundary.
 - Scope caution: Yuan-family genealogy details around Yuan Shao's birth and adoption are preserved source-scoped because later sources may emphasize different textual traditions.
 - Scope caution: minor notices such as Guo Xi, Geng Lin, Baego, Liaodong, Liang/Dang refuge geography, and Fan Pang are not promoted to canonical pages from this single short episode.

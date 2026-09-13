@@ -14,7 +14,7 @@ last_updated: 2026-09-03
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Gengshi 2 / 24 CE immediately before [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]]. It shows [[WangLangHebeiClaimant|王郎]] turning a false Liu Ziyu / Emperor Cheng lineage claim into real Hebei pressure, strong enough that market crowds treat Wang Lang as more credible than [[LiuXiu|刘秀]] and Liu Xiu's party is pushed into flight.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Gengshi 2 / 24 CE immediately before [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]]. It shows [[WangLangHebeiClaimant|王郎]] turning a false Liu Ziyu / Emperor Cheng lineage claim into real Hebei pressure, strong enough that market crowds treat Wang Lang as more credible than [[LiuXiu|刘秀]] and Liu Xiu's party is pushed into flight.
 
 The same source expands the weak-center background around [[LiuXuanGengshiEmperor|更始帝刘玄]]: his Chang'an entry and amnesty briefly stabilize the capital, but court awkwardness, indiscriminate enfeoffment, Zhao Meng's favoritism, killing of a remonstrating lang officer, and overlapping appointments alienate Guanzhong. [[GengYanEasternHan|耿弇]] emerges as an early political judge by rejecting Wang Lang's claim, seeking Liu Xiu at Lunu, and advising the northern route toward Shanggu/Yuyang resources; Liu Xiu's Jizhong escape and Raoyang inn bluff add a concrete early case of [[CrisisComposureCoverStory|crisis composure]].
 
@@ -42,11 +42,11 @@ The same source expands the weak-center background around [[LiuXuanGengshiEmpero
 - [[GengYanEasternHan|耿弇]], [[GengKuangEasternHan|耿况]], [[PengChongEasternHan|彭宠]], and [[LeaderWorthFollowingAssessment|值得追随的领导判断]] - Geng Yan rejects Wang Lang, seeks Liu Xiu, and frames the northern route through family and border-command resources.
 - [[LiuXuanGengshiEmperor|更始帝刘玄]], [[ChangAnHanCapital|长安]], and [[CourtFeedbackCollapse|宫廷反馈失灵]] - the episode pairs Liu Xuan's restored-Han title with early Chang'an court dysfunction and punishment of negative feedback.
 - [[CrisisComposureCoverStory|临场定力与借势遮掩]], [[FengYiEasternHan|冯异]], and [[WangBaEasternHan|王霸]] - Liu Xiu's roadside survival, bean porridge, market recruitment failure, and Raoyang cover identity show the micro-behavioral side of the Hebei crisis.
-- [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]], [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|Hanji 671]], and [[zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby|Hanji 672]] - direct continuation into the Hutuo/Nangong/Xindu survival turn, Shanggu-Yuyang alignment, Handan defeat, and Wang Lang archive burning.
+- [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]], [[zizhi-tongjian-hanji-671-nide-lingdao-shifou-zhide-zhuisui-jinlai-duibi-xia-lrjwus-s14y1x2y4r3f-dvri1nv|汉纪 671]], and [[zizhi-tongjian-hanji-672-shenchu-zhichang-hui-zhuang-cai-shi-gaoji-zhihui-ls35j8plj-cqnblgufc4plbzpnby|汉纪 672]] - direct continuation into the Hutuo/Nangong/Xindu survival turn, Shanggu-Yuyang alignment, Handan defeat, and Wang Lang archive burning.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the Wang Lang and Liu Xuan crisis immediately before Hanji 670's Hutuo/Nangong/Xindu sequence, Hanji 671's Shanggu-Yuyang coalition, and Hanji 672's Handan defeat.
+- Chronology qualification: this source backfills the Wang Lang and Liu Xuan crisis immediately before 汉纪 670's Hutuo/Nangong/Xindu sequence, 汉纪 671's Shanggu-Yuyang coalition, and 汉纪 672's Handan defeat.
 - Identity normalization: transcript forms 刘璇, 耿眼, 耿邝, 冯毅, and 望霸 are routed to [[LiuXuanGengshiEmperor|刘玄]], [[GengYanEasternHan|耿弇]], [[GengKuangEasternHan|耿况]], [[FengYiEasternHan|冯异]], and [[WangBaEasternHan|王霸]] where the surrounding sequence makes the identification stable.
 - Scope caution: Liu Ziyu, Zhao Meng, Li Song, Shentu Jian, Wei Ao, Sun Chang, Wei Bao, Liu Jie, Lunu, Jizhong, Wulou Pavilion, Raoyang, exact dates, office titles, and force counts remain source-scoped unless later notes require standalone pages.

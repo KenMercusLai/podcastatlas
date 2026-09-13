@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Current Profile
 
-Hanji 780 introduces Zhongchang Tong as a Shanyang Gaoping writer, style name Gongli, born in 180 CE. The episode treats his `Changyan` as a major late-Eastern-Han critical text, alongside figures such as Wang Fu and Cui Shi, and says the work ran to thirty-four chapters and more than one hundred thousand characters.
+汉纪 780 introduces Zhongchang Tong as a Shanyang Gaoping writer, style name Gongli, born in 180 CE. The episode treats his `Changyan` as a major late-Eastern-Han critical text, alongside figures such as Wang Fu and Cui Shi, and says the work ran to thirty-four chapters and more than one hundred thousand characters.
 
 The durable profile is institutional rather than literary. Zhongchang Tong's diagnosis says Emperor Guangwu corrected Western Han powerful-minister danger by hollowing out the Three Excellencies, while practical affairs moved through Shangshu channels and later through outer relatives, favorites, and eunuchs. That power shift left senior ministers with blame and rank but not real control, while protected inner-court actors could sell offices, appoint private partisans, and intensify local and frontier extraction.
 
@@ -28,18 +28,18 @@ The durable profile is institutional rather than literary. Zhongchang Tong's dia
 
 ## Evidence
 
-- Identity and text: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] identifies Zhongchang Tong as Gongli of Shanyang Gaoping and presents `Changyan` as a substantial late-Han critical work.
-- Office diagnosis: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] says Zhongchang Tong describes the Three Excellencies as nominally senior but practically hollow.
-- Power channel: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] ties real decision flow to Shangshu and protected inner-court actors.
-- Consequence chain: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|Hanji 780]] connects patronage, office sale, corrupt appointments, and frontier exploitation to rebellion and disorder.
+- Identity and text: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] identifies Zhongchang Tong as Gongli of Shanyang Gaoping and presents `Changyan` as a substantial late-Han critical work.
+- Office diagnosis: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] says Zhongchang Tong describes the Three Excellencies as nominally senior but practically hollow.
+- Power channel: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] ties real decision flow to Shangshu and protected inner-court actors.
+- Consequence chain: [[zizhi-tongjian-hanji-780-zui-duo-zai-duo-nan-de-shi-dai-donghan-lvgcumrfjblrofer532ees3tdoa|汉纪 780]] connects patronage, office sale, corrupt appointments, and frontier exploitation to rebellion and disorder.
 
 ## Qualifications
 
-This page summarizes Zhongchang Tong only through Hanji 780's podcast treatment. It does not yet inventory `Changyan` directly, resolve all biographical details, or compare Wang Fu and Cui Shi beyond the episode's late-Han critical-intellectual frame.
+This page summarizes Zhongchang Tong only through 汉纪 780's podcast treatment. It does not yet inventory `Changyan` directly, resolve all biographical details, or compare Wang Fu and Cui Shi beyond the episode's late-Han critical-intellectual frame.
 
 ## What Changed
 
-- Created the page from Hanji 780 because Zhongchang Tong supplies the episode's durable institutional diagnosis of late Eastern Han court failure.
+- Created the page from 汉纪 780 because Zhongchang Tong supplies the episode's durable institutional diagnosis of late Eastern Han court failure.
 
 ## Relationships
 

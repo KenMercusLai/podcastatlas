@@ -29,8 +29,8 @@ The episode makes the risk more precise: the problem is not simply that a younge
 [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz]] completes that early Han version by showing the ruler's affection unable to override the crown prince's support network. The episode keeps the personal preference alive until Liu Bang's last stage, but [[ShusunTong|叔孙通]] and [[ShangshanSiHao|商山四皓]] make the political cost of acting on that preference too high.
 
 ## Key Claims
-- Hanji 189 adds that affection-driven succession pressure can persist to a ruler's final days yet still fail when the established heir has visible institutional and reputational support.
-- Hanji 181 adds that even an incomplete heir-replacement attempt can destabilize both the established heir and the favored branch when affection outruns institutional protection.
+- 汉纪 189 adds that affection-driven succession pressure can persist to a ruler's final days yet still fail when the established heir has visible institutional and reputational support.
+- 汉纪 181 adds that even an incomplete heir-replacement attempt can destabilize both the established heir and the favored branch when affection outruns institutional protection.
 - Ruler affection can become a succession force when it changes which child is politically favored.
 - A younger favored-son branch can destabilize an elder legitimate-son branch even before the formal conflict is narrated.
 - The risk differs from mere non-designation: the ruler may act, but the action can still leave rival claims alive.
@@ -42,8 +42,8 @@ The episode makes the risk more precise: the problem is not simply that a younge
 - The same pattern can reappear without partial abdication when a ruler directly displaces an established heir for a favored partner's son.
 
 ## Connections
-- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|Hanji 189]], [[LiuBang|刘邦]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], [[QiJi|戚姬 / 戚夫人]], [[ShusunTong|叔孙通]], and [[ShangshanSiHao|商山四皓]] - final failure of the affection-backed heir change.
-- [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|Hanji 181]], [[LiuBang|刘邦]], [[QiJi|戚姬 / 戚夫人]], [[LiuRuyi|刘如意]], [[LiuYing|刘盈]], [[LuZhi|吕雉]], and [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] - early Han threatened-displacement variant.
+- [[zizhi-tongjian-hanji-189-liubang-siqian-zuihou-yibo-lllydj2xyk4cr7b9d2qx0hvfw-dz|汉纪 189]], [[LiuBang|刘邦]], [[LiuYing|刘盈]], [[LiuRuyi|刘如意]], [[QiJi|戚姬 / 戚夫人]], [[ShusunTong|叔孙通]], and [[ShangshanSiHao|商山四皓]] - final failure of the affection-backed heir change.
+- [[zizhi-tongjian-hanji-181-jiemi-liubang-feili-taizi-de-zhenshi-yuanyin-lgnbvnnfwxe4weupqgz-rh9cbp2s|汉纪 181]], [[LiuBang|刘邦]], [[QiJi|戚姬 / 戚夫人]], [[LiuRuyi|刘如意]], [[LiuYing|刘盈]], [[LuZhi|吕雉]], and [[AlternativeHeirProtectionFailure|备位继承人保护失灵]] - early Han threatened-displacement variant.
 - [[ZhaoWulingwang|赵武灵王]], [[WuWa|吴娃]], [[ZhaoHe|赵何]], and [[ZhaoZhang|赵章]] - source case.
 - [[FeiYi|肥义]] and [[PowerExitTrap|权力退场困境]] - Zhouji 61 chancellor appointment and divided authority after abdication.
 - [[TianBuli|田不李]], [[LiDui|李兑]], [[GaoXinWarringStates|高信]], [[PartialAbdicationPowerSplit|退位留权式权力分裂]], [[ResponsibilityAvoidantKilling|避责式杀害]], and [[ShaqiuCrisis|沙丘之变]] - Zhouji 66 compensation, warning, coup, and starvation ending.

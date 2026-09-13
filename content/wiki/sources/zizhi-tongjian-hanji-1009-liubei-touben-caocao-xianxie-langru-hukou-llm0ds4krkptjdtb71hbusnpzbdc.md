@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》1009丨刘备投奔曹操，险些狼入虎口？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han sequence immediately before [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]]. In 196 CE, [[LyuBu|吕布]] turns from helping [[LiuBei|刘备]] into attacking him once Liu Bei gathers more than ten thousand troops, creating a case of [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]]. Liu Bei flees to [[CaoCao|曹操]], [[GuoJia|郭嘉]] argues against killing him because it would damage Cao Cao's talent-attraction reputation, and [[YuanHuanLateHan|袁涣]] later refuses Lü Bu's demand to write an abusive letter against Liu Bei.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the late-Han sequence immediately before [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|汉纪 1010]]. In 196 CE, [[LyuBu|吕布]] turns from helping [[LiuBei|刘备]] into attacking him once Liu Bei gathers more than ten thousand troops, creating a case of [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]]. Liu Bei flees to [[CaoCao|曹操]], [[GuoJia|郭嘉]] argues against killing him because it would damage Cao Cao's talent-attraction reputation, and [[YuanHuanLateHan|袁涣]] later refuses Lü Bu's demand to write an abusive letter against Liu Bei.
 
 ## Key Claims
 - In 196 CE, [[LyuBu|吕布]] had recently mediated a conflict involving [[YuanShu|袁术]]'s side and [[LiuBei|刘备]], but Liu Bei's growth to a force of more than ten thousand makes him look dangerous to Lü Bu.
@@ -32,12 +32,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 > "道德能让人感到羞耻，骂人没有用" - the source's compact version of Yuan Huan's refusal.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|Hanji 1010]] - next episode, moving from the Liu Bei/Lü Bu/Cao Cao triangle to Liu Biao, Zhang Ji, Zhang Xiu, and Jia Xu.
+- [[zizhi-tongjian-hanji-1010-sanguo-liubiao-jiujing-shibushi-piaoliang-de-caobao-lo58hzfo-qv0soauogtgfrkourrd|汉纪 1010]] - next episode, moving from the Liu Bei/Lü Bu/Cao Cao triangle to Liu Biao, Zhang Ji, Zhang Xiu, and Jia Xu.
 - [[LiuBei|刘备]], [[LyuBu|吕布]], [[CaoCao|曹操]], [[GuoJia|郭嘉]], and [[YuanHuanLateHan|袁涣]] - main actors in the episode.
 - [[Xuzhou|徐州]], [[PeiCounty|小沛]], [[YuanShu|袁术]], and [[EmperorXianOfHan|汉献帝]] - late-Han political and title setting around the flight, appointment, and regrouping.
 - [[ThreatDrivenAllianceReversal|威胁感驱动的同盟反转]], [[ReputationConstrainedTalentProtection|名声约束下的人才保护]], and [[MoralDisengagementRationalization|道德推脱式自我合理化]] - concepts created from this episode.
 - [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[InterestStructuredAllianceFragility|利益结构式联盟脆弱性]], and [[DunningKrugerEffect|Dunning-Kruger effect]] - adjacent or extended frames.
 
 ## Contradictions
-- No settled contradiction found. This source fills the missing Hanji 1009 prelude before the already ingested Hanji 1010-1020 late-Han sequence.
+- No settled contradiction found. This source fills the missing 汉纪 1009 prelude before the already ingested 汉纪 1010-1020 late-Han sequence.
 - Interpretation caution: the episode's modern psychological frames around masculinity, threat response, and the Dunning-Kruger effect are treated as source-scoped commentary, not as independent historical proof about the actors' inner states.

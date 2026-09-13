@@ -13,17 +13,17 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-应奉 / Ying Feng is a Huan-era official whose bounded wiki profile now begins with his 153 CE Wuling administrator pacification and then moves through [[FengGunLateHan|冯绲]]'s 162 CE Jingzhou campaign into 165 CE memorial politics. Hanji 839 credits him with recruiting or persuading [[WulingManLateHan|武陵蛮]] rebels into surrender; Hanji 868 shows him blocking Huan's plan to make [[TianShengLateHan|田圣 / 田胜]] empress through formal-status argument; Hanji 869 shows him persuading Huan to pardon [[LiYingLateHan|李膺]] and other punished officials by translating injustice into court security, talent retention, and frontier-risk language.
+应奉 / Ying Feng is a Huan-era official whose bounded wiki profile now begins with his 153 CE Wuling administrator pacification and then moves through [[FengGunLateHan|冯绲]]'s 162 CE Jingzhou campaign into 165 CE memorial politics. 汉纪 839 credits him with recruiting or persuading [[WulingManLateHan|武陵蛮]] rebels into surrender; 汉纪 868 shows him blocking Huan's plan to make [[TianShengLateHan|田圣 / 田胜]] empress through formal-status argument; 汉纪 869 shows him persuading Huan to pardon [[LiYingLateHan|李膺]] and other punished officials by translating injustice into court security, talent retention, and frontier-risk language.
 
 ## Current Profile
 
-Ying Feng's current profile is compact rather than biographical. Hanji 839 supplies the earliest current field layer: as Wuling administrator from Runan, he handles a renewed Wuling Man rebellion led by Zhanshan and others through surrender recruitment rather than through a narrated punitive campaign.
+Ying Feng's current profile is compact rather than biographical. 汉纪 839 supplies the earliest current field layer: as Wuling administrator from Runan, he handles a renewed Wuling Man rebellion led by Zhanshan and others through surrender recruitment rather than through a narrated punitive campaign.
 
-Hanji 856 later uses that local experience in a larger southern Jingzhou crisis. Feng Gun brings Ying Feng, a former Wuling administrator, as a campaign aide. After Feng Gun receives surrender at Changsha and pacifies the Wuling branch, he refuses a large reward and credits Ying Feng's contribution, recommending him for further office.
+汉纪 856 later uses that local experience in a larger southern Jingzhou crisis. Feng Gun brings Ying Feng, a former Wuling administrator, as a campaign aide. After Feng Gun receives surrender at Changsha and pacifies the Wuling branch, he refuses a large reward and credits Ying Feng's contribution, recommending him for further office.
 
-Hanji 868 then shows Ying Feng using formal-rank and precedent language against a ruler's private favorite: Tian Sheng may be loved by Huan, but Ying argues that low origin and insufficient status make the empress title improper. [[ChenFanLateHan|陈蕃]] supports the objection, and Dou Miao receives the title instead.
+汉纪 868 then shows Ying Feng using formal-rank and precedent language against a ruler's private favorite: Tian Sheng may be loved by Huan, but Ying argues that low origin and insufficient status make the empress title improper. [[ChenFanLateHan|陈蕃]] supports the objection, and Dou Miao receives the title instead.
 
-Hanji 869 then shows Ying Feng using state-capacity language in a punishment review. He submits a memorial arguing that loyal officials and capable generals are the state's vital support. He does not rely only on sympathy for the accused; he lists prior service, invokes earlier Han precedents for reusing flawed but useful officials, and stresses that three frontier directions are unstable enough to make competent personnel a matter of imperial safety.
+汉纪 869 then shows Ying Feng using state-capacity language in a punishment review. He submits a memorial arguing that loyal officials and capable generals are the state's vital support. He does not rely only on sympathy for the accused; he lists prior service, invokes earlier Han precedents for reusing flawed but useful officials, and stresses that three frontier directions are unstable enough to make competent personnel a matter of imperial safety.
 
 The three episodes therefore make Ying Feng a communication and capacity figure. In one setting his local knowledge is useful enough for Feng Gun to credit him after victory; in another he converts harem desire into formal-status limits; in a third he converts punishment review into personnel security. His value lies in making the decision field legible to the person in command.
 
@@ -39,29 +39,29 @@ The three episodes therefore make Ying Feng a communication and capacity figure.
 
 ## Evidence
 
-- Wuling surrender notice: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|Hanji 839]] says Ying Feng, Wuling administrator from Runan, recruits or persuades Zhanshan and other Wuling Man rebels into surrender.
-- Campaign support: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Feng Gun brings Ying Feng, formerly administrator of Wuling, as a campaign aide in the Jingzhou suppression effort.
-- Credit after victory: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|Hanji 856]] says Feng Gun refuses a large reward and attributes campaign success to Ying Feng, recommending him for further office.
-- Empress-status objection: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Ying Feng memorializes against making Tian Sheng empress because her background and rank are politically improper for the title.
-- Chen Fan support and outcome: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|Hanji 868]] says Chen Fan supports the objection and Huan is forced to make Dou Miao empress.
-- Effective petition: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] says Ying Feng submits the memorial that persuades Emperor Huan to remove punishment from Li Ying and the other officials.
-- State-capacity framing: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] says Ying Feng describes loyal officials and capable generals as the court's vital support rather than treating the issue only as personal grievance.
-- Precedent argument: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] says he invokes Han Wu and Han Xuan examples to justify reusing officials after error.
-- Frontier-pressure argument: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|Hanji 869]] says he points to three-sided border instability as the practical reason to pardon and retain capable officials.
+- Wuling surrender notice: [[zizhi-tongjian-hanji-839-ni-neng-zuodao-wenxin-wukui-ma-lqvlswubf4ak5qfgzjf-owigneua|汉纪 839]] says Ying Feng, Wuling administrator from Runan, recruits or persuades Zhanshan and other Wuling Man rebels into surrender.
+- Campaign support: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] says Feng Gun brings Ying Feng, formerly administrator of Wuling, as a campaign aide in the Jingzhou suppression effort.
+- Credit after victory: [[zizhi-tongjian-hanji-856-lishi-gaosu-ni-ren-ruo-xinluan-zhenjiao-zi-luan-lo7m-9mz-pvstxtfgavrne4bszks|汉纪 856]] says Feng Gun refuses a large reward and attributes campaign success to Ying Feng, recommending him for further office.
+- Empress-status objection: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] says Ying Feng memorializes against making Tian Sheng empress because her background and rank are politically improper for the title.
+- Chen Fan support and outcome: [[zizhi-tongjian-hanji-868-ying-le-ye-shi-shu-jia-donghan-hougong-zhengyan-ji-lmmjgx23nlkeqr3mkzliij-zwe2v|汉纪 868]] says Chen Fan supports the objection and Huan is forced to make Dou Miao empress.
+- Effective petition: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|汉纪 869]] says Ying Feng submits the memorial that persuades Emperor Huan to remove punishment from Li Ying and the other officials.
+- State-capacity framing: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|汉纪 869]] says Ying Feng describes loyal officials and capable generals as the court's vital support rather than treating the issue only as personal grievance.
+- Precedent argument: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|汉纪 869]] says he invokes Han Wu and Han Xuan examples to justify reusing officials after error.
+- Frontier-pressure argument: [[zizhi-tongjian-hanji-869-liying-weihe-bei-chengwei-tianxia-diyi-kaimo-lltckcioe1n9v91yy4c9vvwmz4mo|汉纪 869]] says he points to three-sided border instability as the practical reason to pardon and retain capable officials.
 
 ## Qualifications
 
-This page is not a full biography of Ying Feng. Hanji 839's Wuling notice is brief and does not explain the causes or terms of surrender; it is used here because it aligns with Hanji 856's later description of Ying as a former Wuling administrator with useful local knowledge. The exact office-title sequence, the complete list of officials he defended, and the broader career context should remain source-scoped until additional source notes require expansion.
+This page is not a full biography of Ying Feng. 汉纪 839's Wuling notice is brief and does not explain the causes or terms of surrender; it is used here because it aligns with 汉纪 856's later description of Ying as a former Wuling administrator with useful local knowledge. The exact office-title sequence, the complete list of officials he defended, and the broader career context should remain source-scoped until additional source notes require expansion.
 
 ## What Changed
 
-- Added Hanji 839 as the earliest current Ying Feng layer: Wuling administrator and surrender recruiter.
-- Reframed Hanji 856's campaign-aide evidence as reuse of earlier Wuling field experience.
+- Added 汉纪 839 as the earliest current Ying Feng layer: Wuling administrator and surrender recruiter.
+- Reframed 汉纪 856's campaign-aide evidence as reuse of earlier Wuling field experience.
 - Preserved the 165 CE formal-status and pardon-memorial roles as later court applications of decision-framing skill.
 
 ## Relationships
 
-- [[WulingManLateHan|武陵蛮]] - local frontier group Ying Feng brings into surrender in Hanji 839.
+- [[WulingManLateHan|武陵蛮]] - local frontier group Ying Feng brings into surrender in 汉纪 839.
 - [[FengGunLateHan|冯绲]] - commander who brings Ying Feng into the Jingzhou campaign and credits him after victory.
 - [[Jingzhou|荆州]] - campaign setting where Ying Feng's local experience first appears in the current wiki evidence.
 - [[EmperorHuanOfHan|汉桓帝]] - ruler whose decision Ying Feng changes through state-security framing.

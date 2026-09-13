@@ -16,7 +16,7 @@ Parental repair after harm is the practice of responding to a parent's scolding,
 
 ## Current Synthesis
 
-Hanji 891 treats apology as an active parenting repair, not an internal feeling of guilt. The host's recommended sequence is direct: say what happened, recognize the child's pain, say the parent is also hurt by having harmed a loved child, state that problems should not be solved through scolding or hitting, and ask the child whether the parent misunderstood the situation and what should happen next time.
+汉纪 891 treats apology as an active parenting repair, not an internal feeling of guilt. The host's recommended sequence is direct: say what happened, recognize the child's pain, say the parent is also hurt by having harmed a loved child, state that problems should not be solved through scolding or hitting, and ask the child whether the parent misunderstood the situation and what should happen next time.
 
 The concept is linked to ordinary [[EmotionRegulationToolkit|emotion regulation]], but it is narrower because it focuses on the relationship after adult loss of control. The parent does not recover authority by pretending nothing happened; repair begins when the adult models responsibility in front of the child.
 
@@ -30,10 +30,10 @@ The concept is linked to ordinary [[EmotionRegulationToolkit|emotion regulation]
 
 ## Evidence
 
-- Repair sequence: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] gives model apology language after a mother hits or scolds a child and says remorse should be made explicit.
-- Responsibility boundary: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] says solving problems should not rely on hitting or scolding, making the parent's method part of what must be corrected.
-- Child-account step: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] recommends asking whether the parent misunderstood the event and what the child hopes the parent will do in a similar future case.
-- Self-management goal: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|Hanji 891]] frames both parent and child as people who make mistakes, with the key difference being how the adult manages herself afterward.
+- Repair sequence: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] gives model apology language after a mother hits or scolds a child and says remorse should be made explicit.
+- Responsibility boundary: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] says solving problems should not rely on hitting or scolding, making the parent's method part of what must be corrected.
+- Child-account step: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] recommends asking whether the parent misunderstood the event and what the child hopes the parent will do in a similar future case.
+- Self-management goal: [[zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5|汉纪 891]] frames both parent and child as people who make mistakes, with the key difference being how the adult manages herself afterward.
 
 ## Counterevidence & Qualifications
 
@@ -41,7 +41,7 @@ This concept does not claim apology alone repairs severe or repeated harm. The s
 
 ## What Changed
 
-- Created the concept from Hanji 891's parent-apology and repair sequence.
+- Created the concept from 汉纪 891's parent-apology and repair sequence.
 
 ## Related Concepts
 

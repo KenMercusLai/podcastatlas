@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》152｜项羽3万人如何完胜刘邦56万大军（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode revisits the [[PengchengBattle|彭城之战]] from the defeated side, asking why [[LiuBang|刘邦]]'s much larger allied army could be shattered by [[XiangYu|项羽]]'s much smaller force. Its main answer is command capacity: Liu Bang did not put [[HanXin|韩信]] in command, kept Han Xin in [[GuanzhongRegion|关中]] against [[ZhangHanQin|章邯]], and personally tried to direct a coalition approaching ancient large-army scale. The episode uses the later "多多益善" exchange to frame [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]] as a deeper cause behind the tactical collapse narrated in Hanji 151.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode revisits the [[PengchengBattle|彭城之战]] from the defeated side, asking why [[LiuBang|刘邦]]'s much larger allied army could be shattered by [[XiangYu|项羽]]'s much smaller force. Its main answer is command capacity: Liu Bang did not put [[HanXin|韩信]] in command, kept Han Xin in [[GuanzhongRegion|关中]] against [[ZhangHanQin|章邯]], and personally tried to direct a coalition approaching ancient large-army scale. The episode uses the later "多多益善" exchange to frame [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]] as a deeper cause behind the tactical collapse narrated in 汉纪 151.
 
 ## Key Claims
 - The episode treats Pengcheng's "three-ten-thousand defeats fifty-plus-ten-thousand" contrast as a command problem, not only a courage or surprise story.
@@ -31,11 +31,11 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode revisits th
 ## Connections
 - [[PengchengBattle|彭城之战]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - battle, defeated commander, and attacking commander.
 - [[HanXin|韩信]], [[ZhangHanQin|章邯]], [[GuanzhongRegion|关中]], and [[ThreeQinContainment|三秦压制]] - absent commander and the western military task that keeps him away from Pengcheng.
-- [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]], [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]], and [[BattlefieldInformationControl|战场信息控制]] - command-scale explanation beside the tactical explanation from Hanji 151 part 2.
+- [[AncientLargeArmyCommandLimits|古代大兵团指挥极限]], [[CavalryShockCommandStrike|骑兵奇袭指挥中枢]], and [[BattlefieldInformationControl|战场信息控制]] - command-scale explanation beside the tactical explanation from 汉纪 151 part 2.
 - [[Shiji|《史记》]] and [[SimaQian|司马迁]] - later source frame for the "多多益善" exchange.
 - [[WangJianQin|王翦]] and [[WarringStatesMilitaryTransformation|战国军事形态转变]] - comparison case for very large army command.
 - [[LiuYing|刘盈]] and [[LuYuanPrincess|鲁元公主]] - family-flight scene used to mark the defeat's urgency.
 
 ## Contradictions
-- No settled contradiction is recorded. This source complements [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|Hanji 151 part 2]] by adding a command-capacity cause behind the tactical rout.
+- No settled contradiction is recorded. This source complements [[zizhi-tongjian-hanji-151-huanyuan-pengcheng-zhizhan-xiangyu-zai-fengshen-2-lqy1uu29xbfipo9e0kq6obkl3oay|汉纪 151 part 2]] by adding a command-capacity cause behind the tactical rout.
 - Source-scope caution: the claim that Han Xin should have commanded at Pengcheng is an interpretive counterfactual, and the troop totals are preserved as the episode's framing rather than independently resolved figures.

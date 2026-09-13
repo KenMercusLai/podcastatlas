@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-南山盗匪 / Nanshan Bandits enter the wiki through [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] as the Peng Zong-led group near the capital region that harms officials and commoners before [[WangZunWesternHan|王尊]] suppresses it. The episode uses the case to show local-security failure and then rapid recovery through a better-matched official.
+南山盗匪 / Nanshan Bandits enter the wiki through [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] as the Peng Zong-led group near the capital region that harms officials and commoners before [[WangZunWesternHan|王尊]] suppresses it. The episode uses the case to show local-security failure and then rapid recovery through a better-matched official.
 
 ## Current Profile
 
@@ -25,17 +25,17 @@ The source gives the bandits no independent social history. Their wiki role is a
 
 ## Evidence
 
-- Scale and leader: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Peng Zong leads several hundred bandits in Nanshan.
-- Public harm: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says officials and commoners suffer from the bandits.
-- Suppression outcome: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|Hanji 507]] says Wang Zun clears the bandits within a month after earlier force fails.
+- Scale and leader: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says Peng Zong leads several hundred bandits in Nanshan.
+- Public harm: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says officials and commoners suffer from the bandits.
+- Suppression outcome: [[zizhi-tongjian-hanji-507-ta-zhansha-xiongnu-chanyu-weihe-fanbei-xiayu-lhfkej7pqtikx5st73sls-kwo_ze|汉纪 507]] says Wang Zun clears the bandits within a month after earlier force fails.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 507. It does not reconstruct Peng Zong's background, the group's composition, geography, motives, or precise suppression process.
+This page is source-scoped to 汉纪 507. It does not reconstruct Peng Zong's background, the group's composition, geography, motives, or precise suppression process.
 
 ## What Changed
 
-- Created the Nanshan Bandits page from Hanji 507's local-security branch.
+- Created the Nanshan Bandits page from 汉纪 507's local-security branch.
 
 ## Relationships
 

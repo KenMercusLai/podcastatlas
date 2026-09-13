@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[Nanyue|南越]] mission previewed in [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]] by tracing how [[ZhaoTuo|赵佗]] uses [[RenXiao|任嚣]]'s Lingnan handoff to build a southern polity and how [[LuJia|陆贾]] forces him into Han submission through identity pressure, military deterrence, and formal recognition. The episode then returns Lu Jia to [[LiuBang|刘邦]]'s court, using [[Xinyu|《新语》]] to mark the move from conquest on horseback to civil governance, before closing with [[FanKuai|樊哙]]'s sickbed remonstrance and the coming [[YingBu|英布]] rebellion.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[Nanyue|南越]] mission previewed in [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|汉纪 184]] by tracing how [[ZhaoTuo|赵佗]] uses [[RenXiao|任嚣]]'s Lingnan handoff to build a southern polity and how [[LuJia|陆贾]] forces him into Han submission through identity pressure, military deterrence, and formal recognition. The episode then returns Lu Jia to [[LiuBang|刘邦]]'s court, using [[Xinyu|《新语》]] to mark the move from conquest on horseback to civil governance, before closing with [[FanKuai|樊哙]]'s sickbed remonstrance and the coming [[YingBu|英布]] rebellion.
 
 ## Key Claims
 - [[RenXiao|任嚣]]'s deathbed advice supplies the hinge between Qin's commandery order and [[ZhaoTuo|赵佗]]'s later [[Nanyue|南越]] regime: seal the Five Ridges routes, use Nanhai's distance and terrain, and wait out the collapse of the center.
@@ -34,12 +34,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 > "南越没有可以交谈的人" - Zhao Tuo's explanation for why Lu Jia's visit matters to him.
 
 ## Connections
-- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|Hanji 184]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[LuJia|陆贾]], [[RenXiao|任嚣]], [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], and [[XiangCommandery|象郡]] - setup and completion of the southern incorporation branch.
+- [[zizhi-tongjian-hanji-184-lishi-kongbupian-liubang-de-pengshi-roujiang-2-liebzrdrvo1okonpdjvrjatuwx9i|汉纪 184]], [[ZhaoTuo|赵佗]], [[Nanyue|南越]], [[LuJia|陆贾]], [[RenXiao|任嚣]], [[NanhaiCommandery|南海郡]], [[GuilinCommandery|桂林郡]], and [[XiangCommandery|象郡]] - setup and completion of the southern incorporation branch.
 - [[RecognitionBackedFrontierDiplomacy|册封威慑式边疆外交]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], [[PoliticalSurrenderCascade|招降示范级联]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - conceptual frame for using victory, recognition, and envoy pressure to make submission cheaper than war.
 - [[LuJia|陆贾]], [[Xinyu|《新语》]], [[Shijing|《诗经》]], [[Shangshu|《尚书》]], [[LiuBang|刘邦]], [[LiAsPoliticalOrder|礼制政治秩序]], and [[BattlefieldVictoryToFoundingOrder|战场胜利到建国秩序]] - civil-governance lesson after military conquest.
 - [[FanKuai|樊哙]], [[ZhouBo|周勃]], [[GuanYing|灌婴]], [[LiuBang|刘邦]], [[ZhaoGao|赵高]], and [[YingBu|英布]] - sickbed access crisis and next rebellion setup.
 
 ## Contradictions
-- No settled contradiction found. The source extends Hanji 184 by completing Lu Jia's mission rather than altering its setup.
+- No settled contradiction found. The source extends 汉纪 184 by completing Lu Jia's mission rather than altering its setup.
 - The source's "万里疆土" title is kept as episode rhetoric for large southern incorporation, not as a precise territorial measurement.
 - Zhao Tuo's final submission is source-scoped to this early Han recognition moment; it should not erase later Han-Nanyue tensions or Zhao Tuo's continuing self-regard.

@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》1035丨斩杀曹操亲子和爱将，他竟再度归降曹操？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|Hanji 1036]] Guandu setup from [[ZhangXiu|张绣]]'s renewed submission to [[CaoCao|曹操]] into Guanzhong rear policy. [[JiaXu|贾诩]] blocks [[YuanShao|袁绍]]'s recruitment bid and advises Zhang Xiu to submit to Cao Cao, judging that Cao Cao's emperor-backed name, weaker position, and need to display magnanimity make pardon useful despite the Wancheng blood debt. The second half follows [[YangFuLateHan|杨阜]]'s Cao/Yuan comparison and [[WeiJiLateHan|魏觊]]'s salt-revenue agricultural recovery plan, making pre-[[GuanduCampaign|官渡]] preparation a matter of defector incorporation, political legitimacy, manpower, grain, and Guanzhong control.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|汉纪 1036]] Guandu setup from [[ZhangXiu|张绣]]'s renewed submission to [[CaoCao|曹操]] into Guanzhong rear policy. [[JiaXu|贾诩]] blocks [[YuanShao|袁绍]]'s recruitment bid and advises Zhang Xiu to submit to Cao Cao, judging that Cao Cao's emperor-backed name, weaker position, and need to display magnanimity make pardon useful despite the Wancheng blood debt. The second half follows [[YangFuLateHan|杨阜]]'s Cao/Yuan comparison and [[WeiJiLateHan|魏觊]]'s salt-revenue agricultural recovery plan, making pre-[[GuanduCampaign|官渡]] preparation a matter of defector incorporation, political legitimacy, manpower, grain, and Guanzhong control.
 
 ## Key Claims
 - Durable upward relationships depend on low-risk asymmetric value, execution, discretion, and clear usefulness; the host uses this modern frame to introduce political patronage and surrender logic.
@@ -34,8 +34,8 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 > "用卖盐收入购买农具、耕牛" - Wei Ji's fiscal-to-agricultural recovery mechanism for Guanzhong.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] - prior Wancheng source for the deaths of [[DianWei|典韦]], [[CaoAng|曹昂]], and [[CaoAnmin|曹安民]] after Zhang Xiu's earlier break with Cao Cao.
-- [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|Hanji 1036]] - adjacent pre-Guandu setup around Liu Biao, Han Song, and court-facing loyalty.
+- [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] - prior Wancheng source for the deaths of [[DianWei|典韦]], [[CaoAng|曹昂]], and [[CaoAnmin|曹安民]] after Zhang Xiu's earlier break with Cao Cao.
+- [[zizhi-tongjian-hanji-1036-liubiao-weihe-yao-bi-hansong-jian-caocao-lnifeizgoebis2gdovgmzg6dojaz|汉纪 1036]] - adjacent pre-Guandu setup around Liu Biao, Han Song, and court-facing loyalty.
 - [[ZhangXiu|张绣]], [[JiaXu|贾诩]], [[CaoCao|曹操]], and [[YuanShao|袁绍]] - patron-choice and surrender actors in the first half.
 - [[YangFuLateHan|杨阜]], [[WeiJiLateHan|魏觊]], [[GuanzhongRegion|关中]], and [[XunYu|荀彧]] - western rear assessment and policy actors in the second half.
 - [[GuanduCampaign|官渡之战]], [[StrategicDefectorIncorporation|纳叛安抚式整合]], [[SaltRevenueAgriculturalRecovery|盐利农具式复耕安置]], and [[WartimeAgriculturalLaborCollapse|战争抽空农业劳动力]] - strategic themes supported by the episode.

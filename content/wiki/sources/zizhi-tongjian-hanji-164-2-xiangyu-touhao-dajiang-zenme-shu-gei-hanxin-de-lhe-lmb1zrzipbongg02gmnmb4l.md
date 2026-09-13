@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》164-2｜项羽头号大将 怎么输给韩信的
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the Qi-front setup from [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] by narrating [[WeishuiBattle|潍水之战]]. [[LongJuChuGeneral|龙且]] rejects a defensive supply-cutting plan because he despises [[HanXin|韩信]] and wants decisive merit, so Han Xin uses a dam, feigned retreat, and flood timing to split and destroy the Chu rescue force. The episode then uses Long Ju's death and Qi's collapse to compare [[XiangYu|项羽]]'s under-delegating personal command style with [[LiuBang|刘邦]]'s willingness to rely on [[XiaoHe|萧何]], [[ZhangLiang|张良]], and Han Xin.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the Qi-front setup from [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|汉纪 164-1]] by narrating [[WeishuiBattle|潍水之战]]. [[LongJuChuGeneral|龙且]] rejects a defensive supply-cutting plan because he despises [[HanXin|韩信]] and wants decisive merit, so Han Xin uses a dam, feigned retreat, and flood timing to split and destroy the Chu rescue force. The episode then uses Long Ju's death and Qi's collapse to compare [[XiangYu|项羽]]'s under-delegating personal command style with [[LiuBang|刘邦]]'s willingness to rely on [[XiaoHe|萧何]], [[ZhangLiang|张良]], and Han Xin.
 
 ## Key Claims
 - Long Ju's defeat is framed as a layered failure, not just a smaller tactical mistake: contempt for Han Xin, desire for merit, and refusal of a safer supply strategy all make him vulnerable.
@@ -29,7 +29,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 > "军事天才" - the source's closing description of Han Xin's battlefield level in contrast with Long Ju.
 
 ## Connections
-- [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|Hanji 164-1]] - immediate prior episode, ending with Han Xin's feigned retreat before Long Ju.
+- [[zizhi-tongjian-hanji-164-1-liubang-geqiang-chaofeng-qi-de-xiangyu-shejian-touxi-lhs6miq2aa3avnny-prxtvkfxgvy|汉纪 164-1]] - immediate prior episode, ending with Han Xin's feigned retreat before Long Ju.
 - [[WeishuiBattle|潍水之战]] - battle/event page for the dam, false retreat, flood split, Long Ju's death, and Qi collapse.
 - [[HanXin|韩信]] - designs the night dam, induces pursuit, releases the water, and completes the Qi campaign.
 - [[LongJuChuGeneral|龙且]] - Chu rescue commander whose contempt for Han Xin makes the false signal usable.

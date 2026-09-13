@@ -14,11 +14,11 @@ New-leader first-move authority signal / 新领导第一把火式权力宣示 is
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|Hanji 563]] creates the concept through [[HanAidi|汉哀帝]]'s early reign. After [[WangZhengjun|王政君]] tries to reduce Wang-Fu tension and [[HanAidi|Aidi]] publicly asks [[WangMang|王莽]] to remain in office, Aidi still needs a visible action that marks the new court as his. He chooses Yuefu abolition and anti-excess music policy rather than a direct early fight with the Wang or Fu outer-relative blocs.
+[[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|汉纪 563]] creates the concept through [[HanAidi|汉哀帝]]'s early reign. After [[WangZhengjun|王政君]] tries to reduce Wang-Fu tension and [[HanAidi|Aidi]] publicly asks [[WangMang|王莽]] to remain in office, Aidi still needs a visible action that marks the new court as his. He chooses Yuefu abolition and anti-excess music policy rather than a direct early fight with the Wang or Fu outer-relative blocs.
 
 The concept is not simply "new leaders should act quickly." Its main claim is that the first action is a power signal before it is a project portfolio. A strong first move works when the target is legible, defensible, and limited enough to produce visible effect without destabilizing the whole organization. A weak first move chases attention, face, or short-term achievement and can damage the public interest.
 
-Hanji 563's music-office example sits in the middle. Aidi has a classical argument through [[Confucius|孔子]], a predecessor contrast through [[HanChengdi|汉成帝]]-era indulgence, and a fiscal result because music personnel can be cut. But the source also notes the limits: musicians lose jobs, and elite or popular taste cannot be changed instantly by decree.
+汉纪 563's music-office example sits in the middle. Aidi has a classical argument through [[Confucius|孔子]], a predecessor contrast through [[HanChengdi|汉成帝]]-era indulgence, and a fiscal result because music personnel can be cut. But the source also notes the limits: musicians lose jobs, and elite or popular taste cannot be changed instantly by decree.
 
 ## Key Claims
 
@@ -31,11 +31,11 @@ Hanji 563's music-office example sits in the middle. Aidi has a classical argume
 
 ## Evidence
 
-- Accession balancing: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|Hanji 563]] says Wang Zhengjun tries to have Wang Mang withdraw so Wang-Fu conflict cools, while Aidi publicly asks Wang Mang to keep serving.
-- Target selection: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|Hanji 563]] frames the key question as what the new leader chooses as the first cut-in point.
-- Classical justification: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|Hanji 563]] says Aidi invokes Confucius's rejection of Zheng music when abolishing Yuefu offices.
-- Immediate effect and cost: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|Hanji 563]] says more than half the court music personnel lose employment, while broader music taste continues outside the decree.
-- Negative modern contrast: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|Hanji 563]] uses Jiangyong county image-project spending as a warning against short-term prestige-seeking.
+- Accession balancing: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|汉纪 563]] says Wang Zhengjun tries to have Wang Mang withdraw so Wang-Fu conflict cools, while Aidi publicly asks Wang Mang to keep serving.
+- Target selection: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|汉纪 563]] frames the key question as what the new leader chooses as the first cut-in point.
+- Classical justification: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|汉纪 563]] says Aidi invokes Confucius's rejection of Zheng music when abolishing Yuefu offices.
+- Immediate effect and cost: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|汉纪 563]] says more than half the court music personnel lose employment, while broader music taste continues outside the decree.
+- Negative modern contrast: [[zizhi-tongjian-hanji-563-guren-gaosu-ni-xin-lingdao-qieji-yinhuoshaoshen-lgk64bf0b_jb38utth-kpaaip_4c|汉纪 563]] uses Jiangyong county image-project spending as a warning against short-term prestige-seeking.
 
 ## Counterevidence & Qualifications
 
@@ -43,7 +43,7 @@ The source is a management reading of a short historical passage rather than a f
 
 ## What Changed
 
-- Created the concept from Hanji 563's Aidi accession and Yuefu abolition case.
+- Created the concept from 汉纪 563's Aidi accession and Yuefu abolition case.
 
 ## Related Concepts
 

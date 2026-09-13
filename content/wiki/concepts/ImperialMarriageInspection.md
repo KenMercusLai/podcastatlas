@@ -10,11 +10,11 @@ last_updated: 2026-08-28
 
 ## Definition
 
-Imperial marriage inspection / 皇室婚前身体检视 is a palace-authorized pre-marriage examination of a prospective imperial spouse's body, appearance, gait, odor, and voice. In Hanji 845 it is not a modern health check; it is a status-selection and control procedure where dynastic marriage turns the woman's body into an object of court judgment.
+Imperial marriage inspection / 皇室婚前身体检视 is a palace-authorized pre-marriage examination of a prospective imperial spouse's body, appearance, gait, odor, and voice. In 汉纪 845 it is not a modern health check; it is a status-selection and control procedure where dynastic marriage turns the woman's body into an object of court judgment.
 
 ## Current Synthesis
 
-Hanji 845 creates the concept through [[EmpressLiangYingLateHan|梁盈]]. Before her marriage to [[EmperorHuanOfHan|汉桓帝]], a female official is sent to Liang's household to examine her. The procedure is intimate enough that Liang Ying resists it as shameful, yet it proceeds because the command comes from the emperor and the marriage sits inside Liang-family political power.
+汉纪 845 creates the concept through [[EmpressLiangYingLateHan|梁盈]]. Before her marriage to [[EmperorHuanOfHan|汉桓帝]], a female official is sent to Liang's household to examine her. The procedure is intimate enough that Liang Ying resists it as shameful, yet it proceeds because the command comes from the emperor and the marriage sits inside Liang-family political power.
 
 The episode's contrast with contemporary marriage matters because it clarifies what this inspection is not. Modern marriage is introduced as a legal, social, and companionate relationship shaped by consent, household obligations, economics, and life choice. The imperial inspection instead makes eligibility legible through body, voice, lineage, and obedience. It can verify a candidate against court expectations, but it cannot create affection, trust, fertility, or marital happiness.
 
@@ -28,11 +28,11 @@ The episode's contrast with contemporary marriage matters because it clarifies w
 
 ## Evidence
 
-- Examination scope: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|Hanji 845]] lists gait, odor, body proportions, facial features, hair, limbs, hands, feet, fingers, toes, and voice as inspection targets.
-- Command hierarchy: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|Hanji 845]] says Liang Ying resists the inspection, but the female official invokes Huan's order and the Liang household accepts.
-- Modern contrast: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|Hanji 845]] opens with marriage as law, social custom, companion relationship, household duty, and personal choice before turning to imperial inspection.
-- Failed marital outcome: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|Hanji 845]] says Liang Ying later lacks Huan's affection, blocks rivals, remains childless, and dies isolated.
-- Outer-relative setting: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|Hanji 845]] makes Liang Ying's empress status depend on Liang-family power, especially Liang Ji and the Liang empress dowager.
+- Examination scope: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|汉纪 845]] lists gait, odor, body proportions, facial features, hair, limbs, hands, feet, fingers, toes, and voice as inspection targets.
+- Command hierarchy: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|汉纪 845]] says Liang Ying resists the inspection, but the female official invokes Huan's order and the Liang household accepts.
+- Modern contrast: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|汉纪 845]] opens with marriage as law, social custom, companion relationship, household duty, and personal choice before turning to imperial inspection.
+- Failed marital outcome: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|汉纪 845]] says Liang Ying later lacks Huan's affection, blocks rivals, remains childless, and dies isolated.
+- Outer-relative setting: [[zizhi-tongjian-hanji-845-cong-dangdai-hunyin-guan-liao-gudai-de-hunjian-zhidu-lr0i25twkoxm2wen7pnfbwt3qdsn|汉纪 845]] makes Liang Ying's empress status depend on Liang-family power, especially Liang Ji and the Liang empress dowager.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ This concept is currently grounded in one source note and should not be generali
 
 ## What Changed
 
-- Initial concept created from Hanji 845's Liang Ying case.
+- Initial concept created from 汉纪 845's Liang Ying case.
 
 ## Related Concepts
 

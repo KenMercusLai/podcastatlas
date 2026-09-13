@@ -11,13 +11,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-[[WusiSouthernXiongnu|句龙王吾斯 / Wusi]] is a Southern Xiongnu rebel leader whose current wiki profile links the 140 CE revolt to its later 143 CE cleanup. Hanji 820 shows him rising with [[CheNiuChanyu|Che Niu]]; Hanji 824 records his later assassination under Ma Shi's operation.
+[[WusiSouthernXiongnu|句龙王吾斯 / Wusi]] is a Southern Xiongnu rebel leader whose current wiki profile links the 140 CE revolt to its later 143 CE cleanup. 汉纪 820 shows him rising with [[CheNiuChanyu|Che Niu]]; 汉纪 824 records his later assassination under Ma Shi's operation.
 
 ## Current Profile
 
-Chronologically, Wusi first appears in Hanji 820 as a leader of the Southern Xiongnu revolt. He and Che Niu besiege Meiji, kill frontier officials, regroup after an initial defeat by [[MaXuLateHan|Ma Xu]] and [[LiangBingLateHan|Liang Bing]], and later install Che Niu as a rebel-backed chanyu after [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] coerces [[XiuliChanyu|Xiuli]] and the Left Wise King into suicide. Che Niu eventually surrenders after [[ZhangDanProtectorOfXiongnu|Zhang Dan]] defeats him at Mayi, but Wusi continues resistance with Wuhuan allies.
+Chronologically, Wusi first appears in 汉纪 820 as a leader of the Southern Xiongnu revolt. He and Che Niu besiege Meiji, kill frontier officials, regroup after an initial defeat by [[MaXuLateHan|Ma Xu]] and [[LiangBingLateHan|Liang Bing]], and later install Che Niu as a rebel-backed chanyu after [[ChenGuiDuliaoGeneralLateHan|Chen Gui]] coerces [[XiuliChanyu|Xiuli]] and the Left Wise King into suicide. Che Niu eventually surrenders after [[ZhangDanProtectorOfXiongnu|Zhang Dan]] defeats him at Mayi, but Wusi continues resistance with Wuhuan allies.
 
-Hanji 824 gives the later endpoint: Ma Shi sends assassins who kill Wusi in the 143 CE frontier recovery layer. That death closes a rebellion thread opened three years earlier, not a stand-alone incident.
+汉纪 824 gives the later endpoint: Ma Shi sends assassins who kill Wusi in the 143 CE frontier recovery layer. That death closes a rebellion thread opened three years earlier, not a stand-alone incident.
 
 ## Key Characteristics
 
@@ -28,17 +28,17 @@ Hanji 824 gives the later endpoint: Ma Shi sends assassins who kill Wusi in the 
 
 ## Evidence
 
-- Revolt initiation and persistence: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] names Wusi as the rebel actor who rises with Che Niu, regroups after defeat, and continues after Che Niu submits.
-- Chanyu-making: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|Hanji 820]] links Wusi to the later installation of Che Niu as chanyu.
-- Later death: [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] says Ma Shi has Wusi assassinated during the 143 CE frontier cleanup.
+- Revolt initiation and persistence: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] names Wusi as the rebel actor who rises with Che Niu, regroups after defeat, and continues after Che Niu submits.
+- Chanyu-making: [[zizhi-tongjian-hanji-820-zhichang-jingshi-xiaoxin-lingdao-rang-ni-bei-heiguo-lqkejieiihmupfifuk8sxp3oadap|汉纪 820]] links Wusi to the later installation of Che Niu as chanyu.
+- Later death: [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] says Ma Shi has Wusi assassinated during the 143 CE frontier cleanup.
 
 ## Qualifications
 
-The source list preserves ingestion order: Hanji 824 was indexed before Hanji 820, even though Hanji 820 is chronologically earlier. The episode transcript renders the name in ASR-like forms; this page normalizes him as 句龙王吾斯.
+The source list preserves ingestion order: 汉纪 824 was indexed before 汉纪 820, even though 汉纪 820 is chronologically earlier. The episode transcript renders the name in ASR-like forms; this page normalizes him as 句龙王吾斯.
 
 ## What Changed
 
-- Created a canonical Wusi page that connects the 140 CE revolt in Hanji 820 to the assassination reference in Hanji 824.
+- Created a canonical Wusi page that connects the 140 CE revolt in 汉纪 820 to the assassination reference in 汉纪 824.
 
 ## Relationships
 

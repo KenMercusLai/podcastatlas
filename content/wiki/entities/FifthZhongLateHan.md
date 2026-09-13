@@ -9,7 +9,7 @@ knowledge_schema: synthesis-v1
 ---
 ## Overview
 
-第五种 / Fifth Zhong enters the wiki as the Yanzhou inspector in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]]. His source-bounded profile is an anti-corruption official whose report against [[ShanKuangLateHan|单匡]] and [[ShanChaoLateHan|单超]] is overtaken by palace retaliation, exile danger, and rescue by a former subordinate.
+第五种 / Fifth Zhong enters the wiki as the Yanzhou inspector in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]]. His source-bounded profile is an anti-corruption official whose report against [[ShanKuangLateHan|单匡]] and [[ShanChaoLateHan|单超]] is overtaken by palace retaliation, exile danger, and rescue by a former subordinate.
 
 ## Current Profile
 
@@ -27,19 +27,19 @@ The enforcement chain turns against Fifth Zhong. [[YangBingLateHan|杨秉]] asks
 
 ## Evidence
 
-- Anti-corruption investigation: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Fifth Zhong sends Wei Yu to investigate Shan Kuang and report the case upward.
-- Palace-family accusation: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says the report impeaches Shan Chao as well as Shan Kuang.
-- Retaliatory framing: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Shan Chao uses Shusun Wuji's raids to accuse Fifth Zhong and have him demoted or exiled.
-- Exile danger: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Dong Yuan's Shuofang position makes Fifth Zhong's exile dangerous.
-- Rescue and flight: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Sun Bin gathers retainers, catches up at Taiyuan, sends Fifth Zhong home, and Fifth Zhong hides for years until an amnesty.
+- Anti-corruption investigation: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Fifth Zhong sends Wei Yu to investigate Shan Kuang and report the case upward.
+- Palace-family accusation: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says the report impeaches Shan Chao as well as Shan Kuang.
+- Retaliatory framing: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Shan Chao uses Shusun Wuji's raids to accuse Fifth Zhong and have him demoted or exiled.
+- Exile danger: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Dong Yuan's Shuofang position makes Fifth Zhong's exile dangerous.
+- Rescue and flight: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Sun Bin gathers retainers, catches up at Taiyuan, sends Fifth Zhong home, and Fifth Zhong hides for years until an amnesty.
 
 ## Qualifications
 
-The current page is based only on Hanji 851 and does not yet establish Fifth Zhong's full career, later offices, or final legal outcome. The route uses "Fifth" as the normalized compound surname for 第五种. The source's judgment favors Fifth Zhong's anti-corruption role, but the exact formal charges used against him remain vague in the episode.
+The current page is based only on 汉纪 851 and does not yet establish Fifth Zhong's full career, later offices, or final legal outcome. The route uses "Fifth" as the normalized compound surname for 第五种. The source's judgment favors Fifth Zhong's anti-corruption role, but the exact formal charges used against him remain vague in the episode.
 
 ## What Changed
 
-- Created the page from Hanji 851.
+- Created the page from 汉纪 851.
 - Defined Fifth Zhong as the inspector-victim in the Shan Kuang witness-suppression and Shan Chao retaliation branch.
 - Added his rescue by Sun Bin as a concrete survival case.
 

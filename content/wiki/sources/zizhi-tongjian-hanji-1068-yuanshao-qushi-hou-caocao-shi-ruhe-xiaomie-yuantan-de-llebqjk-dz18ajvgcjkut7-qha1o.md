@@ -41,11 +41,11 @@ The main sequence moves to Jian'an 10 / 205 CE: [[CaoCao|曹操]] attacks Yuan T
 - [[CaoCao|曹操]], [[CaoChunLateHan|曹淳]], [[YuanTan|袁谭]], [[NanpiLateHan|南皮]], and [[WarCostTempoDiscipline|战争成本与速决纪律]] - deep-operation tempo and final assault branch.
 - [[LiFuLateHan|李孚]], [[SurrenderedLocalMessengerPacification|降人传令式安民]], [[OccupationPacificationStrategy|占领区怀柔治理]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - post-victory order repair through a trusted surrendered intermediary.
 - [[GuoTu|郭图]], [[ZhangHeLateHan|张郃]], [[GaoLanLateHan|高览]], [[YuanShang|袁尚]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - adviser failure, blame shifting, and Yuan-family factional collapse.
-- [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|Hanji 1069]] - immediate sequel after Yuan Tan's death, centered on Wang Xiu, Guan Tong, regional recruitment, and Chen Lin.
+- [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|汉纪 1069]] - immediate sequel after Yuan Tan's death, centered on Wang Xiu, Guan Tong, regional recruitment, and Chen Lin.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content is recorded. The episode fills the event gap before Hanji 1069's aftermath rather than reversing the existing Yuan-family collapse sequence.
-- Transcript caution: the supplied source says "南平", but adjacent Hanji 1069 and the Yuan Tan final-campaign context point to Nanpi. The wiki records the city through [[NanpiLateHan|南皮]] while preserving the transcript wording as source-scoped.
+- No settled contradiction with existing wiki content is recorded. The episode fills the event gap before 汉纪 1069's aftermath rather than reversing the existing Yuan-family collapse sequence.
+- Transcript caution: the supplied source says "南平", but adjacent 汉纪 1069 and the Yuan Tan final-campaign context point to Nanpi. The wiki records the city through [[NanpiLateHan|南皮]] while preserving the transcript wording as source-scoped.
 - Transcript caution: the opening says "孙璇" testing the city; the wiki normalizes this as [[SunQuan|孙权]] because the sequence follows the post-Sun-Yi Jiangdong consolidation field and no separate durable Sun Xuan page is created from this one short source.
 - Source-scope caution: Cao Chun's exact battlefield words, Cao Cao's drum-beating moment, and the host's moral verdict on Guo Tu are treated as this episode's narrative and interpretive framing.

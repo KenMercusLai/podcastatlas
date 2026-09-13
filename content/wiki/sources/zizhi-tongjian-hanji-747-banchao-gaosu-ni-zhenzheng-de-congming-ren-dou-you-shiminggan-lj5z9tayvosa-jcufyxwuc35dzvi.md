@@ -12,7 +12,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 76-77 CE [[EmperorZhangOfHan|汉章帝]] layer immediately before [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|Hanji 748]]. It follows [[BanChaoEasternHan|班超]] after the court recalls him and withdraws Western Regions offices, then turns to [[LiuCangDongpingKing|东平王刘苍]]'s tomb-frugality remonstrance, [[ZhengChunEasternHan|郑纯]]'s Yongchang rule, [[AilaoKingLeilao|哀牢王类牢]]'s rebellion, [[LiuYanFulingKingEasternHan|阜陵王刘延]]'s demotion, and early Xiongnu and Yiwu notices.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 76-77 CE [[EmperorZhangOfHan|汉章帝]] layer immediately before [[zizhi-tongjian-hanji-748-laozuzong-de-zhonggao-qinqi-bugongcai-gongcai-liangwulai-luqvnld4wbdgc3nrdumyhfhscs4z|汉纪 748]]. It follows [[BanChaoEasternHan|班超]] after the court recalls him and withdraws Western Regions offices, then turns to [[LiuCangDongpingKing|东平王刘苍]]'s tomb-frugality remonstrance, [[ZhengChunEasternHan|郑纯]]'s Yongchang rule, [[AilaoKingLeilao|哀牢王类牢]]'s rebellion, [[LiuYanFulingKingEasternHan|阜陵王刘延]]'s demotion, and early Xiongnu and Yiwu notices.
 
 The durable synthesis is that capable governance is measured by responsibility to real conditions rather than by rank display or formal motion alone. Ban Chao returns to [[ShuleKingdom|疏勒]] after local collapse begins, Liu Cang blocks wasteful imperial-tomb counties, Zheng Chun keeps a frontier commandery stable through clean and custom-aware rule, and the 77 CE withdrawal from [[YiwuGarrisonLateHan|伊吾屯田]] shows how quickly retrenchment can become [[NorthernXiongnuLateHan|Northern Xiongnu]] occupation.
 
@@ -45,6 +45,6 @@ The durable synthesis is that capable governance is measured by responsibility t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content is recorded. This episode backfills a 76-77 CE layer before Hanji 748-750 and before later Ban Chao, Zhangdi, Xiongnu, and Yiwu source notes.
-- Name caution: this source names Liu Yan's accused son as 刘煌, while [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] summarizes a later Liu Yan case with Liu Fang; the wiki preserves the difference as source-scoped until another bounded note resolves it.
+- No settled contradiction with existing wiki content is recorded. This episode backfills a 76-77 CE layer before 汉纪 748-750 and before later Ban Chao, Zhangdi, Xiongnu, and Yiwu source notes.
+- Name caution: this source names Liu Yan's accused son as 刘煌, while [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|汉纪 762]] summarizes a later Liu Yan case with Liu Fang; the wiki preserves the difference as source-scoped until another bounded note resolves it.
 - Scope caution: Shule duwei Li, Wutou, Gao Lin Wenyu Du king, Bonan, Kunming Yi, exact Yongchang successor identity, and the Ma-family enfeoffment-drought argument remain source-scoped unless later notes warrant canonical pages.

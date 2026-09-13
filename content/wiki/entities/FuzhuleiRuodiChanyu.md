@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-复株累若鞮单于 / Fuzhulei Ruodi Chanyu enters the wiki through [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|Hanji 504]] as Diaotao Mogao, the son chosen by [[HuhanyeChanyuWesternHan|呼韩邪单于]] to succeed him immediately.
+复株累若鞮单于 / Fuzhulei Ruodi Chanyu enters the wiki through [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|汉纪 504]] as Diaotao Mogao, the son chosen by [[HuhanyeChanyuWesternHan|呼韩邪单于]] to succeed him immediately.
 
 ## Current Profile
 
@@ -25,18 +25,18 @@ The episode presents Diaotao Mogao as the stability candidate in a contested Xio
 
 ## Evidence
 
-- Succession choice: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|Hanji 504]] says Huhanye chooses Diaotao Mogao after considering Zhuanqu Yanzhi's advice.
-- Planned transfer: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|Hanji 504]] says Huhanye asks the new chanyu eventually to pass power to Qiemo Che.
-- Office settlement: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|Hanji 504]] says the new chanyu appoints Qiemixu as Left Wise King, Qiemo Che as Left Guli King, and Nangzhiyasi as Right Wise King.
-- Wang Zhaojun marriage: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|Hanji 504]] says he marries Wang Zhaojun and has two daughters with her.
+- Succession choice: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|汉纪 504]] says Huhanye chooses Diaotao Mogao after considering Zhuanqu Yanzhi's advice.
+- Planned transfer: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|汉纪 504]] says Huhanye asks the new chanyu eventually to pass power to Qiemo Che.
+- Office settlement: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|汉纪 504]] says the new chanyu appoints Qiemixu as Left Wise King, Qiemo Che as Left Guli King, and Nangzhiyasi as Right Wise King.
+- Wang Zhaojun marriage: [[zizhi-tongjian-hanji-504-nanren-haose-zenmeban-kexi-guren-zhezhao-ni-xuebuhui-lsevoh__1vxdtzqhlzq6_an3xdq6|汉纪 504]] says he marries Wang Zhaojun and has two daughters with her.
 
 ## Qualifications
 
-This page is bounded to Hanji 504. It does not yet evaluate whether the planned future succession transfer was honored or how later Xiongnu politics judged the arrangement.
+This page is bounded to 汉纪 504. It does not yet evaluate whether the planned future succession transfer was honored or how later Xiongnu politics judged the arrangement.
 
 ## What Changed
 
-- Created the page as the canonical target for Diaotao Mogao / Fuzhulei Ruodi Chanyu in the Hanji 504 branch.
+- Created the page as the canonical target for Diaotao Mogao / Fuzhulei Ruodi Chanyu in the 汉纪 504 branch.
 
 ## Relationships
 

@@ -34,7 +34,7 @@ The concept sharpens a broader distinction between rewarding outcome and preserv
 - The issue is specifically public honor without adequate moral accounting, not the mere tactical use of information from an enemy camp.
 
 ## What Changed
-- Created the concept from the Zi Mi "不义侯" case in Hanji 693.
+- Created the concept from the Zi Mi "不义侯" case in 汉纪 693.
 
 ## Related Concepts
 - [[MeritBasedRewardPunishment|功过分明式赏罚]] - provides the cleaner reward-punishment baseline that unrighteous merit reward violates.

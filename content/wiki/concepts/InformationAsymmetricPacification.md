@@ -14,7 +14,7 @@ Information-asymmetric pacification / 信息不对称式平叛 is a local-govern
 
 ## Current Synthesis
 
-The current evidence comes from [[YuXuEasternHan|Yu Xu]] at [[ZhaogeCountyLateHan|Zhaoge County]] in Hanji 784. Yu Xu first diagnoses Ning Ji's rebels as tactically dangerous but strategically shallow because they do not seize the grain, weapons, or fortified positions available in their environment. That diagnosis matters: he does not need a long siege or broad massacre if he can make the rebels expose themselves.
+The current evidence comes from [[YuXuEasternHan|Yu Xu]] at [[ZhaogeCountyLateHan|Zhaoge County]] in 汉纪 784. Yu Xu first diagnoses Ning Ji's rebels as tactically dangerous but strategically shallow because they do not seize the grain, weapons, or fortified positions available in their environment. That diagnosis matters: he does not need a long siege or broad massacre if he can make the rebels expose themselves.
 
 The method has two linked parts. First, Yu Xu recruits local violent offenders, thieves, and idle men, pardons them, feeds them, and sends them to infiltrate the rebels and lure them down from the mountains for an ambush. Second, he uses local sewing work to mark rebel clothing with hidden colored threads, allowing officials to identify and arrest rebels when they return to market. The result is coercive state action powered by nonpublic information rather than visible overwhelming force.
 
@@ -31,18 +31,18 @@ The modern "钓鱼执法" label is useful only as analogy. The episode describes
 
 ## Evidence
 
-- Rebel diagnosis: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says Yu Xu judges the rebels by their failure to seize Aocang, weapons, and city defenses despite favorable terrain.
-- Infiltration and lure: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says Yu Xu pardons and recruits local offenders to enter the rebel side and draw them down from the mountains.
-- Hidden identification: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says clothing makers use colored-thread marks so officials can identify rebels in the market.
-- Psychological effect: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|Hanji 784]] says rebels panic because they cannot tell why they are being recognized, creating rumors of divine help for the authorities.
+- Rebel diagnosis: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|汉纪 784]] says Yu Xu judges the rebels by their failure to seize Aocang, weapons, and city defenses despite favorable terrain.
+- Infiltration and lure: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|汉纪 784]] says Yu Xu pardons and recruits local offenders to enter the rebel side and draw them down from the mountains.
+- Hidden identification: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|汉纪 784]] says clothing makers use colored-thread marks so officials can identify rebels in the market.
+- Psychological effect: [[zizhi-tongjian-hanji-784-donghan-diaoyu-zhifa-diyiren-yuxu-ls6zezfw2pvaytoo94igdscfwkpt|汉纪 784]] says rebels panic because they cannot tell why they are being recognized, creating rumors of divine help for the authorities.
 
 ## Counterevidence & Qualifications
 
-The concept currently rests on one source note, so it should not be generalized into a universal pacification rule. It also carries obvious implementation risk: pardoned offenders can defect, hidden identification can misidentify targets, and coercive deception can damage legitimacy if used against people whose grievances require repair. The page therefore treats Hanji 784 as a targeted local-order tactic, not as proof that deceptive policing is generally legitimate or sufficient.
+The concept currently rests on one source note, so it should not be generalized into a universal pacification rule. It also carries obvious implementation risk: pardoned offenders can defect, hidden identification can misidentify targets, and coercive deception can damage legitimacy if used against people whose grievances require repair. The page therefore treats 汉纪 784 as a targeted local-order tactic, not as proof that deceptive policing is generally legitimate or sufficient.
 
 ## What Changed
 
-- Created the concept from Yu Xu's Zhaoge pacification sequence in Hanji 784.
+- Created the concept from Yu Xu's Zhaoge pacification sequence in 汉纪 784.
 
 ## Related Concepts
 

@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 安重 / Anzhong (late Han) is a narrow late-Han battlefield-place page for the terrain where [[ZhangXiu|张绣]] and [[LiuBiao|刘表]] block [[CaoCao|曹操]]'s retreat after the Wancheng branch, before Cao Cao turns the pursuit into an ambush.
 
 ## Current Profile
-The current evidence makes Anzhong a route-pressure node rather than a broad regional center. In Hanji 1023, Cao Cao is withdrawing from the [[Rangcheng|穰城]] front after learning of [[TianFengLateHan|田丰]]'s rejected [[Xudu|许都]] attack advice. Zhang Xiu pursues, Liu Biao sends support, and the allied force uses difficult terrain at Anzhong to block the return route. Cao Cao then opens a risky narrow path at night, feigns escape, draws the blockers into pursuit, and defeats them through a front-and-rear ambush.
+The current evidence makes Anzhong a route-pressure node rather than a broad regional center. In 汉纪 1023, Cao Cao is withdrawing from the [[Rangcheng|穰城]] front after learning of [[TianFengLateHan|田丰]]'s rejected [[Xudu|许都]] attack advice. Zhang Xiu pursues, Liu Biao sends support, and the allied force uses difficult terrain at Anzhong to block the return route. Cao Cao then opens a risky narrow path at night, feigns escape, draws the blockers into pursuit, and defeats them through a front-and-rear ambush.
 
 ## Key Characteristics
 - Terrain chokepoint used to threaten Cao Cao's withdrawal from the Rangcheng front toward Xudu.
@@ -23,15 +23,15 @@ The current evidence makes Anzhong a route-pressure node rather than a broad reg
 - Single-source place node whose significance comes from tactical sequence rather than administrative detail.
 
 ## Evidence
-- Route crisis: [[zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4|Hanji 1023]] places Anzhong after Cao Cao's withdrawal from the Rangcheng front and before his return toward Xudu.
-- Zhang-Liu blockade: [[zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4|Hanji 1023]] says Zhang Xiu pursues while Liu Biao sends supporting forces, and that they use dangerous terrain at Anzhong to cut Cao Cao's retreat.
-- Counter-ambush: [[zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4|Hanji 1023]] records Cao Cao's night path-opening, false escape signal, and front-and-rear ambush against the pursuing force.
+- Route crisis: [[zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4|汉纪 1023]] places Anzhong after Cao Cao's withdrawal from the Rangcheng front and before his return toward Xudu.
+- Zhang-Liu blockade: [[zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4|汉纪 1023]] says Zhang Xiu pursues while Liu Biao sends supporting forces, and that they use dangerous terrain at Anzhong to cut Cao Cao's retreat.
+- Counter-ambush: [[zizhi-tongjian-hanji-1023-jiemi-caocao-yu-zhangxiu-de-bingfa-boyi-lphbnmfdu0x5w7zjra7k0o8cyel4|汉纪 1023]] records Cao Cao's night path-opening, false escape signal, and front-and-rear ambush against the pursuing force.
 
 ## Qualifications
 This page should stay narrow until additional sources expand the geography. The source does not supply a full administrative profile for Anzhong, and the page does not infer exact modern location, commandery status, or route details beyond the episode's tactical account.
 
 ## What Changed
-- Created Anzhong as the battlefield node for Hanji 1023's Zhang Xiu-Liu Biao blockade and Cao Cao counter-ambush.
+- Created Anzhong as the battlefield node for 汉纪 1023's Zhang Xiu-Liu Biao blockade and Cao Cao counter-ambush.
 
 ## Relationships
 - [[CaoCao|曹操]] - commander whose retreat is blocked and who turns the terrain crisis into an ambush.

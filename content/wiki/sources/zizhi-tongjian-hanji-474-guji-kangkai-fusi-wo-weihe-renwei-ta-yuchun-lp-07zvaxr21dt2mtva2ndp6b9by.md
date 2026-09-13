@@ -46,5 +46,5 @@ The durable synthesis is that courage without judgment can become wasteful expos
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source precedes Hanji 489-491's Chen Tang and Gan Yanshou campaign sequence. It supplies the Gu Ji envoy-killing cause and the Kangju-invitation setup rather than the later forged-command mobilization, siege, head display, reward dispute, or Chen Tang accountability cases.
+- Chronology qualification: this source precedes 汉纪 489-491's Chen Tang and Gan Yanshou campaign sequence. It supplies the Gu Ji envoy-killing cause and the Kangju-invitation setup rather than the later forged-command mobilization, siege, head display, reward dispute, or Chen Tang accountability cases.
 - Scope caution: the source is a compact podcast interpretation. Gu Ji's exact mandate, Yuan's private reasoning, Gong Yu and Kuang Heng's original wording, Kangju's full motives, and the accuracy of the Western Zhou analogy remain source-scoped.

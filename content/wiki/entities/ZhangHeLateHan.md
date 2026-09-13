@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 张郃 / Zhang He (late Han)
 
 ## Overview
-Zhang He is introduced in the wiki as a [[YuanShao|Yuan Shao]] general at the decisive phase of the [[GuanduCampaign|Guandu Campaign]]. Hanji 1049 presents him as the commander who correctly identifies [[WuchaoRaidLateHan|Wuchao]] as the urgent point to rescue, then defects to [[CaoCao|Cao Cao]] with [[GaoLanLateHan|Gao Lan]] after [[GuoTu|Guo Tu]]'s self-protective slander makes their position unsafe.
+Zhang He is introduced in the wiki as a [[YuanShao|Yuan Shao]] general at the decisive phase of the [[GuanduCampaign|Guandu Campaign]]. 汉纪 1049 presents him as the commander who correctly identifies [[WuchaoRaidLateHan|Wuchao]] as the urgent point to rescue, then defects to [[CaoCao|Cao Cao]] with [[GaoLanLateHan|Gao Lan]] after [[GuoTu|Guo Tu]]'s self-protective slander makes their position unsafe.
 
 ## Current Profile
 Zhang He's defining role in the current evidence is judgment under battlefield pressure. When Cao raids Wuchao, he warns Yuan Shao that the grain depot must be saved because losing it will break the army's material base and morale.

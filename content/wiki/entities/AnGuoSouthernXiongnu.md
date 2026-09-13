@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 安国 / An Guo was a Southern Xiongnu chanyu whose brief current profile centers on jealous hostility toward [[ShiziChanyu|Shizi]]. He is distinct from [[AnGuoKhotanLateHan|An Guo of Khotan]].
 
 ## Current Profile
-In Hanji 768, An Guo succeeded his deceased brother as chanyu but faced comparison with Shizi, a brave and broadly respected former heir-line figure. An Guo aligned with recently surrendered Northern Xiongnu elements who hated Shizi, complained against Protector of the Xiongnu Du Chong, and later fled when Han forces arrived. His attempt to kill Shizi failed at Manbo, and his uncle Xi killed him and installed Shizi instead.
+In 汉纪 768, An Guo succeeded his deceased brother as chanyu but faced comparison with Shizi, a brave and broadly respected former heir-line figure. An Guo aligned with recently surrendered Northern Xiongnu elements who hated Shizi, complained against Protector of the Xiongnu Du Chong, and later fled when Han forces arrived. His attempt to kill Shizi failed at Manbo, and his uncle Xi killed him and installed Shizi instead.
 
 ## Key Characteristics
 - Ruler whose insecurity was triggered by a talented and popular collateral figure.
@@ -22,9 +22,9 @@ In Hanji 768, An Guo succeeded his deceased brother as chanyu but faced comparis
 - Functions as the episode's main example of jealousy becoming political violence.
 
 ## Evidence
-- Jealous rivalry: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says An Guo envied Shizi because Shizi was brave, strategic, trusted, and popular.
-- Anti-Shizi coalition: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says An Guo drew close to surrendered Northern Xiongnu who hated Shizi and plotted against him.
-- Collapse and death: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|Hanji 768]] says An Guo fled, failed to enter Manbo to attack Shizi, and was killed by his uncle Xi.
+- Jealous rivalry: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]] says An Guo envied Shizi because Shizi was brave, strategic, trusted, and popular.
+- Anti-Shizi coalition: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]] says An Guo drew close to surrendered Northern Xiongnu who hated Shizi and plotted against him.
+- Collapse and death: [[zizhi-tongjian-hanji-768-lishi-gaosu-ni-jidu-shi-shaxin-lgk8qoxvs5ax8oikgecrxqvispna|汉纪 768]] says An Guo fled, failed to enter Manbo to attack Shizi, and was killed by his uncle Xi.
 
 ## Qualifications
 The source presents An Guo mainly through the lens of jealousy, so institutional factors behind the succession, the role of Du Chong's conduct, and the motives of uncle Xi remain underdeveloped. An Guo should not be merged with similarly named non-Xiongnu figures.

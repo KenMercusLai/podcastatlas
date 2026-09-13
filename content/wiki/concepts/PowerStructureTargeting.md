@@ -15,11 +15,11 @@ Power-structure targeting / 权力结构定向求援 is the strategy of solving 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] creates the positive source case through [[JiaBiaoLateHan|贾彪]]'s rescue strategy during the first Party Prohibition prison crisis. After [[ChenFanLateHan|陈蕃]] is removed and officials become afraid to plead for [[LiYingLateHan|李膺]], [[FanPangLateHan|范滂]], and other prisoners, Jia Biao does not escalate through public performance. He goes to [[LuoyangLateHan|洛阳]] and targets [[DouWuLateHan|窦武]], who has better access to [[EmperorHuanOfHan|汉桓帝]] because of family status and office position.
+[[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|汉纪 876]] creates the positive source case through [[JiaBiaoLateHan|贾彪]]'s rescue strategy during the first Party Prohibition prison crisis. After [[ChenFanLateHan|陈蕃]] is removed and officials become afraid to plead for [[LiYingLateHan|李膺]], [[FanPangLateHan|范滂]], and other prisoners, Jia Biao does not escalate through public performance. He goes to [[LuoyangLateHan|洛阳]] and targets [[DouWuLateHan|窦武]], who has better access to [[EmperorHuanOfHan|汉桓帝]] because of family status and office position.
 
-The boundary condition comes from [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]]. In the Chen Zhi fugitive scene, Jia Biao refuses to shelter someone whose own coercive conduct helped create the disaster, explaining action through "相时而动，无累后人." That means leverage-seeking is not simply a bias toward action or relationship use. The actor must also ask whether intervention is timely, whether it can work, and whether it merely moves danger onto later helpers.
+The boundary condition comes from [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]]. In the Chen Zhi fugitive scene, Jia Biao refuses to shelter someone whose own coercive conduct helped create the disaster, explaining action through "相时而动，无累后人." That means leverage-seeking is not simply a bias toward action or relationship use. The actor must also ask whether intervention is timely, whether it can work, and whether it merely moves danger onto later helpers.
 
-The source's workplace opening says that low-quality relationships are costly, but the durable concept is not anti-social withdrawal. It is relationship discrimination under pressure: first map who can move the outcome, then approach through a channel that fits that person's leverage and risk. Hanji 874 keeps the ethical constraint visible: power-structure targeting is strongest when it rescues without dumping unchosen liability onto others.
+The source's workplace opening says that low-quality relationships are costly, but the durable concept is not anti-social withdrawal. It is relationship discrimination under pressure: first map who can move the outcome, then approach through a channel that fits that person's leverage and risk. 汉纪 874 keeps the ethical constraint visible: power-structure targeting is strongest when it rescues without dumping unchosen liability onto others.
 
 ## Key Claims
 
@@ -32,12 +32,12 @@ The source's workplace opening says that low-quality relationships are costly, b
 
 ## Evidence
 
-- Blocked field: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Chen Fan's removal frightens officials and reduces willingness to plead for party prisoners.
-- Rejected tactics: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Jia Biao does not submit his own memorial, mobilize Taixue students, or kneel at the palace gate.
-- Target selection: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] says Jia Biao directly visits Dou Wu, who is Empress Dou's father and thus has a distinct access position.
-- Outcome conversion: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|Hanji 876]] shows Dou Wu's memorial, Wang Fu's softened interrogation, and the eunuch request for pardon forming a release path before Hanji 877.
-- Timing boundary: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] says Jia Biao refuses to shelter Chen Zhi because Chen Zhi's own prior action helped create the disaster and would implicate others.
-- Collateral principle: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|Hanji 874]] gives "相时而动，无累后人" as the rule that action must fit the moment and avoid burdening later people.
+- Blocked field: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|汉纪 876]] says Chen Fan's removal frightens officials and reduces willingness to plead for party prisoners.
+- Rejected tactics: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|汉纪 876]] says Jia Biao does not submit his own memorial, mobilize Taixue students, or kneel at the palace gate.
+- Target selection: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|汉纪 876]] says Jia Biao directly visits Dou Wu, who is Empress Dou's father and thus has a distinct access position.
+- Outcome conversion: [[zizhi-tongjian-hanji-876-zhichang-zong-pengbi-shuoming-ni-meiyou-zhaodui-guanxi-lrjob-a07t29hdr0iogrmcsjr7qp|汉纪 876]] shows Dou Wu's memorial, Wang Fu's softened interrogation, and the eunuch request for pardon forming a release path before 汉纪 877.
+- Timing boundary: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] says Jia Biao refuses to shelter Chen Zhi because Chen Zhi's own prior action helped create the disaster and would implicate others.
+- Collateral principle: [[zizhi-tongjian-hanji-874-zhenjing-muzi-xiangcan-tianli-nanrong-lpr3eglbnwbve1clrttapw6k5zdq|汉纪 874]] gives "相时而动，无累后人" as the rule that action must fit the moment and avoid burdening later people.
 
 ## Counterevidence & Qualifications
 
@@ -45,7 +45,7 @@ This concept does not claim that only elite relationships matter or that public 
 
 ## What Changed
 
-- Hanji 874 adds a timing-and-collateral boundary to the Hanji 876 targeted-rescue concept.
+- 汉纪 874 adds a timing-and-collateral boundary to the 汉纪 876 targeted-rescue concept.
 - The current judgment now treats Jia Biao's refusal to shelter Chen Zhi and his later approach to Dou Wu as two sides of constrained leverage use.
 
 ## Related Concepts

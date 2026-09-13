@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-陈良 / Chen Liang (Xin defector) enters the wiki through [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] as a Western Regions subordinate who joins [[ZhongDaiXinDefector|终带]] and others in killing Wuyi Colonel Diao Hu and defecting to [[Xiongnu|匈奴]] during the early [[XinDynasty|新朝]] frontier crisis.
+陈良 / Chen Liang (Xin defector) enters the wiki through [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] as a Western Regions subordinate who joins [[ZhongDaiXinDefector|终带]] and others in killing Wuyi Colonel Diao Hu and defecting to [[Xiongnu|匈奴]] during the early [[XinDynasty|新朝]] frontier crisis.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ The mutiny is politically amplified after the fact. The group takes more than tw
 
 ## Evidence
 
-- Conspiracy: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] says Chen Liang, Zhong Dai, Han Xuan, Ren Shang, and others secretly discuss killing the sick Wuyi Colonel Diao Hu and fleeing.
-- Killing and flight: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] says they kill Diao Hu, his son, and brothers, then take more than two thousand people to Xiongnu.
-- Xiongnu title: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] says the chanyu appoints Chen Liang and Zhong Dai as Wuben commandants.
-- Xin political use: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|Hanji 640]] says Sun Jian cites their case while proposing anti-Han measures.
+- Conspiracy: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] says Chen Liang, Zhong Dai, Han Xuan, Ren Shang, and others secretly discuss killing the sick Wuyi Colonel Diao Hu and fleeing.
+- Killing and flight: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] says they kill Diao Hu, his son, and brothers, then take more than two thousand people to Xiongnu.
+- Xiongnu title: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] says the chanyu appoints Chen Liang and Zhong Dai as Wuben commandants.
+- Xin political use: [[zizhi-tongjian-hanji-640-qipa-wangmang-ruhe-chedi-bifan-xiongnu-lhxbx6keibmfe8z6bcsmlpnr6eht|汉纪 640]] says Sun Jian cites their case while proposing anti-Han measures.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The source does not give Chen Liang's full career, personal motives, or later fa
 
 ## What Changed
 
-- Created the page from Hanji 640's Western Regions defection branch.
+- Created the page from 汉纪 640's Western Regions defection branch.
 
 ## Relationships
 

@@ -19,7 +19,7 @@ Xia Fang is a late Han southern-frontier official whose current wiki profile res
 
 In the 144 CE layer, Rinan Man revolt during the broader unrest at the end of [[EmperorShunOfHan|Emperor Shun]]'s reign. As Jiaozhi inspector, Xia Fang induces the rebels to surrender, giving the court one stabilizing southern-frontier outcome amid Yang-Xu, Jiujiang, and Rinan disorder.
 
-In the later Hanji 854 layer, the court appoints Xia Fang from Guiyang administrator to Jiaozhi inspector during renewed southern unrest, and the Rinan population again surrenders in large numbers. The repeated association with Rinan surrender makes Xia Fang a useful case for pacification through inducement.
+In the later 汉纪 854 layer, the court appoints Xia Fang from Guiyang administrator to Jiaozhi inspector during renewed southern unrest, and the Rinan population again surrenders in large numbers. The repeated association with Rinan surrender makes Xia Fang a useful case for pacification through inducement.
 
 ## Key Characteristics
 
@@ -30,9 +30,9 @@ In the later Hanji 854 layer, the court appoints Xia Fang from Guiyang administr
 
 ## Evidence
 
-- 144 Rinan surrender - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] records Rinan Man revolt and Xia Fang, as Jiaozhi inspector, inducing surrender.
-- Later southern appointment - [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] records the court appointing Xia Fang from Guiyang administrator to Jiaozhi inspector during another southern crisis.
-- Repeated non-annihilation pattern - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] and [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] both center Xia Fang's value on inducing surrender.
+- 144 Rinan surrender - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] records Rinan Man revolt and Xia Fang, as Jiaozhi inspector, inducing surrender.
+- Later southern appointment - [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] records the court appointing Xia Fang from Guiyang administrator to Jiaozhi inspector during another southern crisis.
+- Repeated non-annihilation pattern - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] and [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] both center Xia Fang's value on inducing surrender.
 
 ## Qualifications
 
@@ -40,9 +40,9 @@ The two notes are not enough to reconstruct Xia Fang's full career or exact tenu
 
 ## What Changed
 
-- Added the 144 CE Rinan Man surrender layer from Hanji 824.
+- Added the 144 CE Rinan Man surrender layer from 汉纪 824.
 - Reframed Xia Fang around repeated surrender inducement across two source notes.
-- Preserved the existing source inventory and appended Hanji 824.
+- Preserved the existing source inventory and appended 汉纪 824.
 
 ## Relationships
 

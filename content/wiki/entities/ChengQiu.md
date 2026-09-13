@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 程球 / Cheng Qiu
 
-程球 / Cheng Qiu enters through [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|Hanji 937]] as the zhi zhong trusted by [[GengBiLateHan|耿鄙]] during the Liangzhou campaign against [[HanSui|韩遂]]. The source presents him as corrupt, accepting bribes and enriching himself enough that literati and common people already resent him before the army moves.
+程球 / Cheng Qiu enters through [[zizhi-tongjian-hanji-937-zhanshen-zhisi-haoren-zongshi-duozai-duonan-lp7przsmag9ookq7eoisvsmnm5aw|汉纪 937]] as the zhi zhong trusted by [[GengBiLateHan|耿鄙]] during the Liangzhou campaign against [[HanSui|韩遂]]. The source presents him as corrupt, accepting bribes and enriching himself enough that literati and common people already resent him before the army moves.
 
 Cheng Qiu's role is diagnostic rather than heroic. Geng Bi's trust in him makes the campaign politically weak inside its own rear, and when the force reaches [[DiDaoLateHan|狄道]], mutineers kill Cheng Qiu before killing Geng Bi. His death is the immediate spark inside [[FrontierCommandCollapse|边郡军政崩盘]].
 

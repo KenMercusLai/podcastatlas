@@ -31,17 +31,17 @@ The Western Han consequence layer is personal as well as administrative. [[ChenT
 
 - Guan Zhong reform mechanism: [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa|Zhouji 75-2]] says people are divided by residence and work category and prevented from freely changing either.
 - State-capacity effect: [[zizhi-tongjian-zhouji-75-2-qiongshe-jichi-de-zushiye-guanzhong-lo8uei2u1qwj9tszftel1b4lswoa|Zhouji 75-2]] says the system makes population, labor, and neighborhoods usable for administration and mobilization.
-- Western Han household consequence: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says Chen Tang's family could live in Chang'an but still lack permanent capital registration.
-- Institutional exception: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|Hanji 526]] says reviving a mausoleum county would give relocated families residence, land, and status advantages.
+- Western Han household consequence: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says Chen Tang's family could live in Chang'an but still lack permanent capital registration.
+- Institutional exception: [[zizhi-tongjian-hanji-526-hanchao-qipa-zhidu-huangdi-si-le-jiu-neng-qianhukou-lkht_jo0z7je4gbyk10ckuxv4cub|汉纪 526]] says reviving a mausoleum county would give relocated families residence, land, and status advantages.
 
 ## Counterevidence & Qualifications
 
-The page does not claim a continuous institution from Guan Zhong to Western Han. Zhouji 75-2 supplies a source-scoped early hukou-like mechanism; Hanji 526 supplies a later household-status problem inside Western Han official life. The precise legal pathway from original registration to mausoleum-county registration remains source-scoped.
+The page does not claim a continuous institution from Guan Zhong to Western Han. Zhouji 75-2 supplies a source-scoped early hukou-like mechanism; 汉纪 526 supplies a later household-status problem inside Western Han official life. The precise legal pathway from original registration to mausoleum-county registration remains source-scoped.
 
 ## What Changed
 
 - Migrated the page to `synthesis-v1`.
-- Added Hanji 526's Chen Tang family-registration case, making residence control concrete at the elite-official household level.
+- Added 汉纪 526's Chen Tang family-registration case, making residence control concrete at the elite-official household level.
 
 ## Related Concepts
 

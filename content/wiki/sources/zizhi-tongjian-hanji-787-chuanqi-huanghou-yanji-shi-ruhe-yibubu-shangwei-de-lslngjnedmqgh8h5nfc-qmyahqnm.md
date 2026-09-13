@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 115 CE layer immediately before [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]]. It uses a modern marriage-and-security opening to frame [[YanChangLateHan|阎昌]]'s long preparation of [[EmpressDowagerYanLateHan|阎姬 / 阎皇后]] for palace selection, her entry into [[EmperorAnOfHan|汉安帝]]'s harem, and her 115 CE elevation to empress under the real power of [[EmpressDowagerDengLateHan|和熹邓皇后]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 115 CE layer immediately before [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]]. It uses a modern marriage-and-security opening to frame [[YanChangLateHan|阎昌]]'s long preparation of [[EmpressDowagerYanLateHan|阎姬 / 阎皇后]] for palace selection, her entry into [[EmperorAnOfHan|汉安帝]]'s harem, and her 115 CE elevation to empress under the real power of [[EmpressDowagerDengLateHan|和熹邓皇后]].
 
 The durable synthesis is that Yan Ji's rise is not only a romance or palace-favor story. In the episode's reading, a relatively weak official family uses daughter education, harem access, imperial affection, and regency approval to enter the outer-relative field; the same source also records [[PangCanLateHan|庞参]]'s Qiang-front surrender success, later campaign failure with [[SimaJunLateHan|司马钧]], and [[MaRongLateHan|马融]]'s argument for pardoning failed commanders.
 
@@ -43,11 +43,11 @@ The durable synthesis is that Yan Ji's rise is not only a romance or palace-favo
 - [[EmperorAnOfHan|汉安帝]], [[EmpressDowagerDengLateHan|和熹邓皇后]], and [[EmperorShunOfHan|刘保 / 汉顺帝]] - the empress appointment sits inside An-era regency politics and prefigures the later Liu Bao succession conflict.
 - [[PangCanLateHan|庞参]], [[SimaJunLateHan|司马钧]], [[DuJigongLateHan|杜季贡]], [[MaRongLateHan|马融]], and [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - the frontier branch links surrender, campaign failure, punishment fear, and court pardon inside the Deng-regency crisis field.
 - [[Xianbei|鲜卑]] and late-Han frontier pressure - the source adds early raids beside the Qiang sequence, but keeps Bao Wu County, Fuli camp, Chen Xing, Luo Heng, Yin Jiu, Liang Jin, Zhong Guang, and Ban Xiong source-scoped.
-- [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|Hanji 788]] and [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] - nearby source notes that continue the Yu Xu and Qiang-frontier sequence.
+- [[zizhi-tongjian-hanji-788-ling-diren-po-da-fang-wan-zhanshu-de-xin-zhen-zang-lvprh9s7aaagf-t2n-m3bp4icqj0|汉纪 788]] and [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|汉纪 789]] - nearby source notes that continue the Yu Xu and Qiang-frontier sequence.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills Yan Ji's 114-115 CE origin layer before Hanji 792's 120 CE Liu Bao hostility and Hanji 801-805's accusation, concealed-death, restoration, and defeated-dowager layers.
-- Chronology caution: this source places the Pang Can / Sima Jun / Du Jigong campaign branch inside the 115 CE Yuan-chu second-year sequence, while Hanji 789 summarizes an overlapping Qiang-front campaign as 116-117 CE. The wiki preserves the overlap as source-scoped chronology compression rather than forcing a settled correction.
+- No settled contradiction with existing wiki pages was found. This source backfills Yan Ji's 114-115 CE origin layer before 汉纪 792's 120 CE Liu Bao hostility and 汉纪 801-805's accusation, concealed-death, restoration, and defeated-dowager layers.
+- Chronology caution: this source places the Pang Can / Sima Jun / Du Jigong campaign branch inside the 115 CE Yuan-chu second-year sequence, while 汉纪 789 summarizes an overlapping Qiang-front campaign as 116-117 CE. The wiki preserves the overlap as source-scoped chronology compression rather than forcing a settled correction.
 - Name normalization: 阎氏, 阎姬, 阎皇后, and later 阎太后 are routed to [[EmpressDowagerYanLateHan]]; 刘宝 is routed to [[EmperorShunOfHan]]; 邓瑞 in the transcript is treated cautiously as [[EmpressDowagerDengLateHan|邓绥 / Empress Dowager Deng]].
 - Scope caution: Yan Ji's birth family beyond Yan Chang, the exact palace-selection process, Li Shi's full biography, Ban Xiong's identity, Yin Jiu, Chen Xing, Luo Heng, Liang Jin, Zhong Guang, Bao Wu County, Fuli camp, and the exact frontier place names remain source-scoped until recurring evidence warrants canonical pages.

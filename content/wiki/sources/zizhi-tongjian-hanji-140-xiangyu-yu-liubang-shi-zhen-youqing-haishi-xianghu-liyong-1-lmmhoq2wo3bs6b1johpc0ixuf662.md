@@ -36,7 +36,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows the
 - [[CaoWushang|曹无伤]], [[FanZeng|范增]], [[ZiyingQin|子婴]], and [[MiXin|芈心 / 楚怀王]] - leak, threat diagnosis, and contested Guanzhong kingship claim.
 - [[XiangBo|项伯]], [[ZhangLiang|张良]], [[AristocraticFriendshipStateConflict|贵族义气与国家秩序冲突]], and [[PowerEtiquetteReading|权力礼仪细读]] - personal channels and status management at the edge of state conflict.
 - [[MoralizedWarPretext|道德化战争借口]] and [[MoralFaceUnderPowerCompetition|权力竞争中的要脸]] - the episode's argument that correct threat recognition still needs a usable public justification.
-- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|Hanji 139]] - immediate previous source on Liu Bang's Bashang pacification and Xiang Yu's Xinan killing.
+- [[zizhi-tongjian-hanji-139-ta-zaici-yingxiang-hanchao-lp1zujuq0o3ohxc79xqi1phpb5zo|汉纪 139]] - immediate previous source on Liu Bang's Bashang pacification and Xiang Yu's Xinan killing.
 
 ## Contradictions
 - No settled contradiction is recorded. The source sharpens, rather than reverses, the existing Liu Bang/Xiang Yu contrast: Liu Bang remains morally mixed, but here his restraint and Guanzhong support become the direct reason Xiang Yu sees him as a rival.

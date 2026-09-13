@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-和嵩 / He Song appears in [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] as an upright Eastern Han official sent to Jinan as tutor after [[DouXianEasternHan|Dou Xian]] learns of [[YuanAnEasternHan|Yuan An]]'s sealed memorial before the emperor sees it. His role links court-message leakage, punitive reassignment, and local moral governance.
+和嵩 / He Song appears in [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|汉纪 762]] as an upright Eastern Han official sent to Jinan as tutor after [[DouXianEasternHan|Dou Xian]] learns of [[YuanAnEasternHan|Yuan An]]'s sealed memorial before the emperor sees it. His role links court-message leakage, punitive reassignment, and local moral governance.
 
 ## Current Profile
 
@@ -30,9 +30,9 @@ His tutorship is difficult because Jinan King Liu Kang is arrogant and indulgent
 
 ## Evidence
 
-- Court entry and reputation: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] says He Song is He Chong's son, is recommended by Song You in 86 CE, and is known for generosity and honesty.
-- Jinan assignment: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] says Dou Xian hears of Yuan An's memorial before the emperor and sends He Song to tutor Liu Kang in Jinan.
-- Local effect and remonstrance: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|Hanji 762]] says He Song improves Jinan customs and repeatedly remonstrates with Liu Kang, who respects him despite not fully changing.
+- Court entry and reputation: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|汉纪 762]] says He Song is He Chong's son, is recommended by Song You in 86 CE, and is known for generosity and honesty.
+- Jinan assignment: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|汉纪 762]] says Dou Xian hears of Yuan An's memorial before the emperor and sends He Song to tutor Liu Kang in Jinan.
+- Local effect and remonstrance: [[zizhi-tongjian-hanji-762-lishi-gaosu-ni-nanren-youquan-neng-you-duo-huangtang-limdo2hfd8epcfkwwsrmzz9no0dj|汉纪 762]] says He Song improves Jinan customs and repeatedly remonstrates with Liu Kang, who respects him despite not fully changing.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ The source gives He Song only a compact episode. The page does not infer later c
 
 ## What Changed
 
-- Hanji 762 creates He Song as a standalone Eastern Han entity.
+- 汉纪 762 creates He Song as a standalone Eastern Han entity.
 - The current profile frames him as an upright tutor-official whose local integrity persists after court displacement.
 
 ## Relationships

@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-董宣 / Dong Xuan enters the wiki through [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]] as the Luoyang magistrate who executes [[HuyangPrincessEasternHan|湖阳公主]]'s murderous slave and refuses to abase himself before the princess. His importance is not only personal severity; the episode makes him a visible test of whether [[LiuXiu|光武帝刘秀]] will let royal-household privilege override local legal authority.
+董宣 / Dong Xuan enters the wiki through [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|汉纪 721]] as the Luoyang magistrate who executes [[HuyangPrincessEasternHan|湖阳公主]]'s murderous slave and refuses to abase himself before the princess. His importance is not only personal severity; the episode makes him a visible test of whether [[LiuXiu|光武帝刘秀]] will let royal-household privilege override local legal authority.
 
 ## Current Profile
 
-Hanji 721 gives Dong Xuan one focused profile. A slave protected by Princess Huyang kills someone and hides in the princess household, where ordinary officials cannot safely enter. Dong Xuan waits until the princess travels with the slave in her carriage, stops the vehicle, rebukes the princess for sheltering a killer, orders the slave down, and has him killed.
+汉纪 721 gives Dong Xuan one focused profile. A slave protected by Princess Huyang kills someone and hides in the princess household, where ordinary officials cannot safely enter. Dong Xuan waits until the princess travels with the slave in her carriage, stops the vehicle, rebukes the princess for sheltering a killer, orders the slave down, and has him killed.
 
 The palace aftermath makes Dong Xuan politically legible. Liu Xiu first plans to beat him to death, but Dong Xuan argues that a ruler who restored Han through virtue cannot govern the realm while allowing slaves to murder under royal protection. When Liu Xiu tries to force him to apologize, Dong Xuan braces himself and will not bow. Liu Xiu releases him, calls him hard-necked, and rewards him with money that Dong Xuan distributes to subordinates.
 
@@ -31,11 +31,11 @@ The episode's synthesis treats Dong Xuan as an enforcement signal. His act is se
 
 ## Evidence
 
-- Protected-offender case: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]] says Princess Huyang's slave kills someone and hides under princess protection.
-- Enforcement timing: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]] says Dong Xuan waits at Xiamen Pavilion, stops the princess carriage, rebukes her, and executes the slave after he is made to leave the carriage.
-- Imperial-governance defense: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]] says Dong Xuan asks how Liu Xiu can govern the realm if he indulges slave murder.
-- Refusal to submit: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]] says Dong Xuan braces himself against forced kowtow and refuses to apologize to the princess.
-- Reward and citywide signal: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|Hanji 721]] says Liu Xiu releases and rewards Dong Xuan, after which Luoyang's powerful households fear his enforcement.
+- Protected-offender case: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|汉纪 721]] says Princess Huyang's slave kills someone and hides under princess protection.
+- Enforcement timing: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|汉纪 721]] says Dong Xuan waits at Xiamen Pavilion, stops the princess carriage, rebukes her, and executes the slave after he is made to leave the carriage.
+- Imperial-governance defense: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|汉纪 721]] says Dong Xuan asks how Liu Xiu can govern the realm if he indulges slave murder.
+- Refusal to submit: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|汉纪 721]] says Dong Xuan braces himself against forced kowtow and refuses to apologize to the princess.
+- Reward and citywide signal: [[zizhi-tongjian-hanji-721-ta-sha-jianu-ma-gongzhu-weihe-fanbei-shang-lryzcejdnrm4-92esnddfvyjkqli|汉纪 721]] says Liu Xiu releases and rewards Dong Xuan, after which Luoyang's powerful households fear his enforcement.
 
 ## Qualifications
 
@@ -43,7 +43,7 @@ This page is source-bounded to one episode and does not reconstruct Dong Xuan's 
 
 ## What Changed
 
-- Created this page from Hanji 721 as the Luoyang magistrate at the center of the Princess Huyang slave-killing case.
+- Created this page from 汉纪 721 as the Luoyang magistrate at the center of the Princess Huyang slave-killing case.
 - Added Dong Xuan as an early Eastern Han case for law-enforcement credibility against protected royal households.
 
 ## Relationships

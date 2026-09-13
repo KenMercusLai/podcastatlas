@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 修武 / Xiuwu
 
-修武 / Xiuwu enters the wiki through [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|Hanji 150 part 2]] as the place where [[LiuBang|刘邦]] is stationed when [[ChenPing|陈平]] crosses the Yellow River and seeks entry into the Han camp. The episode identifies the location with the modern Huojia area in Henan.
+修武 / Xiuwu enters the wiki through [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-2-lkbo2kwkn6aexyyygv-m84fnqx2h|汉纪 150 part 2]] as the place where [[LiuBang|刘邦]] is stationed when [[ChenPing|陈平]] crosses the Yellow River and seeks entry into the Han camp. The episode identifies the location with the modern Huojia area in Henan.
 
 The source treats Xiuwu as more than a map point. Liu Bang's camp there is actively receiving talent from other states and factions, which lets Chen Ping approach through [[WeiWuzhi|魏无知]] soon after leaving [[XiangYu|项羽]]. Xiuwu therefore marks the personnel-absorption side of Liu Bang's campaign, alongside the territorial absorption already recorded around [[HeneiCommandery|河内郡]].
 

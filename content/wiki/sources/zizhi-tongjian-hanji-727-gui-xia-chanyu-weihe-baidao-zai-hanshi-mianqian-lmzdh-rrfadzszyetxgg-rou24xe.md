@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 50-51 CE late [[LiuXiu|光武帝刘秀]] frontier layer before [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] and [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]]. It follows Liu Xiu adjusting official salaries, planning a low-display tomb, accepting [[SouthernXiongnu|Southern Xiongnu]] submission through edict ritual, hostages, gifts, grain, livestock, protection, seasonal guard routines, and border-commandery restoration.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 50-51 CE late [[LiuXiu|光武帝刘秀]] frontier layer before [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] and [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|汉纪 729]]. It follows Liu Xiu adjusting official salaries, planning a low-display tomb, accepting [[SouthernXiongnu|Southern Xiongnu]] submission through edict ritual, hostages, gifts, grain, livestock, protection, seasonal guard routines, and border-commandery restoration.
 
 The durable synthesis is that late Guangwu frontier order combines hierarchy with material protection and restraint. Southern Xiongnu submission is made useful by guards, provisions, patrol roles, and returned border residents, while [[NorthernXiongnuLateHan|Northern Xiongnu]] heqin contact and a proposed opportunistic attack are rejected because Southern Xiongnu confidence, defector signaling, disaster-era public welfare, and near-frontier recovery matter more than a distant strike.
 
@@ -42,11 +42,11 @@ The durable synthesis is that late Guangwu frontier order combines hierarchy wit
 - [[NorthernXiongnuLateHan|北匈奴]], [[EmperorMingOfHan|皇太子刘庄]], [[HanXiongnuHeqinPolicy|汉匈和亲政策]], and [[FrontierRecognitionCredibilityTradeoff|边疆册封信用权衡]] - the 51 CE heqin refusal is framed as a credibility signal to Southern Xiongnu and would-be defectors.
 - [[MaWuEasternHan|马武]], Zhang Gong, [[ReputationConstrainedWarRestraint|名声约束下的战争节制]], and [[OverextendedFrontierExpedition|边境远征过度]] - the Northern Xiongnu attack proposal becomes a restraint case before later offensive debates.
 - [[FrugalImperialBurialRestraint|节俭帝陵约束]] - Liu Xiu's tomb plan adds a direct Guangwu antecedent to later Fan Hong and Mingdi burial-restraint evidence.
-- [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]] and [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] - direct late-Guangwu continuations for court caution, Fan Hong's will, Ban Biao's Northern Xiongnu reply, and Taishan-fengshan refusal.
+- [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]] and [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|汉纪 729]] - direct late-Guangwu continuations for court caution, Fan Hong's will, Ban Biao's Northern Xiongnu reply, and Taishan-fengshan refusal.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame for the 50-51 CE notices.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source moves the Southern Xiongnu submission and protected-settlement baseline back to 50-51 CE before the Hanji 728 court-caution layer and Hanji 729's 52 CE Northern Xiongnu reply.
+- Chronology qualification: this source moves the Southern Xiongnu submission and protected-settlement baseline back to 50-51 CE before the 汉纪 728 court-caution layer and 汉纪 729's 52 CE Northern Xiongnu reply.
 - Scope caution: Duan Bin, Wang Yu, Zhang Gong, Yu Kuang, Liu Long, Zhao Xi/赵熹, Feng Qin, the five Gudu hou, Rizhu king, and exact commandery logistics remain source-scoped because the transcript does not yet provide enough recurring evidence for canonical pages or same-name merges.

@@ -34,6 +34,6 @@ This short [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode uses 
 - [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] and [[ZizhiTongjian|《资治通鉴》]] - podcast and chronicle-reading context.
 
 ## Contradictions
-- No settled contradiction found. The source adds a myth-and-reception layer before [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|Hanji 602]] rather than changing the later Han Aidi / Tai Sui material.
+- No settled contradiction found. The source adds a myth-and-reception layer before [[zizhi-tongjian-hanji-602-tanxun-guoxue-zhihui-pojie-2024nian-fantaisui-zhi-mi-lvrwnpanicgjpf43cbmveigtxqj|汉纪 602]] rather than changing the later Han Aidi / Tai Sui material.
 - The dragon-saliva, black-lizard, miraculous pregnancy, and abandoned-child details are recorded as source-scoped legend, not as verified biography.
 - Mei Xi, Da Ji, Li Ji, Shen Hou, Quanrong, Zeng, Bao, King Li of Zhou, and King Xuan of Zhou remain source-scoped here until a later ingest needs canonical pages for them.

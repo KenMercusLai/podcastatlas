@@ -11,13 +11,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-赵饶 / Zhao Rao is [[EmperorLingOfHan|汉灵帝]]'s wet nurse in the Hanji 884-886 anti-eunuch crisis sequence. [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] places her among the close palace attendants around [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], while [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] places her inside [[CaoJieLateHan|曹节]]'s emergency protection channel around Emperor Ling.
+赵饶 / Zhao Rao is [[EmperorLingOfHan|汉灵帝]]'s wet nurse in the 汉纪 884-886 anti-eunuch crisis sequence. [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] places her among the close palace attendants around [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]], while [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|汉纪 886]] places her inside [[CaoJieLateHan|曹节]]'s emergency protection channel around Emperor Ling.
 
 ## Current Profile
 
-Zhao Rao's profile is a proximity-power case rather than a full political biography. In Hanji 884, her importance comes from daily presence: she and female palace staff stay close to Dou Miao and maintain friendly ties with Cao Jie and [[WangFuLateHan|王甫]], creating an intimate access environment that helps explain Dou Miao's reluctance to remove all eunuchs.
+Zhao Rao's profile is a proximity-power case rather than a full political biography. In 汉纪 884, her importance comes from daily presence: she and female palace staff stay close to Dou Miao and maintain friendly ties with Cao Jie and [[WangFuLateHan|王甫]], creating an intimate access environment that helps explain Dou Miao's reluctance to remove all eunuchs.
 
-Hanji 886 then shows that this proximity is not merely social background. During the eunuch-side response to the leaked Dou Wu plan, Cao Jie uses Zhao Rao and attendants to protect Emperor Ling while the eunuch side takes control of the palace field.
+汉纪 886 then shows that this proximity is not merely social background. During the eunuch-side response to the leaked Dou Wu plan, Cao Jie uses Zhao Rao and attendants to protect Emperor Ling while the eunuch side takes control of the palace field.
 
 ## Key Characteristics
 
@@ -28,10 +28,10 @@ Hanji 886 then shows that this proximity is not merely social background. During
 
 ## Evidence
 
-- Wet-nurse identity: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] identifies Zhao Rao as Emperor Ling's wet nurse.
-- Dou Miao access environment: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Zhao Rao and female shangshu remain around Dou Miao and are close to Cao Jie and Wang Fu.
-- Favor and office channel: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says these near-palace actors please Dou Miao and receive repeated edicts, titles, or appointments.
-- Emergency custody role: [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] says Cao Jie uses Zhao Rao and attendants to protect Emperor Ling during the eunuch-side palace response.
+- Wet-nurse identity: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] identifies Zhao Rao as Emperor Ling's wet nurse.
+- Dou Miao access environment: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] says Zhao Rao and female shangshu remain around Dou Miao and are close to Cao Jie and Wang Fu.
+- Favor and office channel: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] says these near-palace actors please Dou Miao and receive repeated edicts, titles, or appointments.
+- Emergency custody role: [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|汉纪 886]] says Cao Jie uses Zhao Rao and attendants to protect Emperor Ling during the eunuch-side palace response.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ The current evidence does not show Zhao Rao independently designing the counterc
 
 ## What Changed
 
-- The page promotes Zhao Rao from source-scoped mention to a bounded entity because Hanji 884 and Hanji 886 place her in the same 168 CE access sequence.
+- The page promotes Zhao Rao from source-scoped mention to a bounded entity because 汉纪 884 and 汉纪 886 place her in the same 168 CE access sequence.
 - Her profile clarifies the wet-nurse and attendant layer behind Dou Miao's hesitation and Emperor Ling's custody.
 
 ## Relationships

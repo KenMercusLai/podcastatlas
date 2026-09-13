@@ -14,11 +14,11 @@ last_updated: 2026-09-13
 
 ## Overview
 
-史高 / Shi Gao enters the wiki through [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] as an outer-relative power actor aligned with [[ShiXianWesternHan|石显]] in blaming [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]] and in using [[ZhengPengWesternHan|郑朋]]'s accusations against [[XiaoWangzhiWesternHan|萧望之]]'s side. [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] backfills an earlier Xuan-era layer: [[HuangBaWesternHan|黄霸]] recommends Shi Gao for taiwei because Shi is close to [[EmperorXuanOfHan|汉宣帝]], but Xuan treats that recommendation as intrusion into ruler-controlled military and personnel authority. [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] adds the later deathbed-transition layer: Xuan appoints Shi Gao as Da Sima Cheqi Jiangjun and has him receive the final charge alongside Xiao Wangzhi and Zhou Kan. [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|Hanji 468]] adds the Yuan-era status and threat layer: Shi Gao is the leading auxiliary regent and outer-relative figure whose influence is squeezed when Xiao's Confucian bloc wins Yuan's attention, and Zheng Peng first attacks him from Xiao's side. [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] adds his later exit as one of three senior officials who resign after Yongguang 1 disaster pressure.
+史高 / Shi Gao enters the wiki through [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] as an outer-relative power actor aligned with [[ShiXianWesternHan|石显]] in blaming [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]] and in using [[ZhengPengWesternHan|郑朋]]'s accusations against [[XiaoWangzhiWesternHan|萧望之]]'s side. [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] backfills an earlier Xuan-era layer: [[HuangBaWesternHan|黄霸]] recommends Shi Gao for taiwei because Shi is close to [[EmperorXuanOfHan|汉宣帝]], but Xuan treats that recommendation as intrusion into ruler-controlled military and personnel authority. [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|汉纪 465]] adds the later deathbed-transition layer: Xuan appoints Shi Gao as Da Sima Cheqi Jiangjun and has him receive the final charge alongside Xiao Wangzhi and Zhou Kan. [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|汉纪 468]] adds the Yuan-era status and threat layer: Shi Gao is the leading auxiliary regent and outer-relative figure whose influence is squeezed when Xiao's Confucian bloc wins Yuan's attention, and Zheng Peng first attacks him from Xiao's side. [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] adds his later exit as one of three senior officials who resign after Yongguang 1 disaster pressure.
 
 ## Current Profile
 
-The sources do not develop Shi Gao as a full biography. Hanji 455 first makes him politically sensitive before he acts: he is a trusted imperial intimate and outer-relative-linked figure close enough to Xuan that a chancellor's unsolicited recommendation for taiwei can look like overreach, factional courting, or interference with Xuan's own timing. Hanji 465 then places him in the Xuan-to-Yuan transition as the senior entrusted official and military-regent figure. Hanji 468 places him as a high-ranking outer-relative regent whose practical authority is threatened by Xiao Wangzhi's teacher-minister bloc and whose side later converges with Hong Gong and Shi Xian. Hanji 476 places him in the responsibility-taking resignation sequence after famine and displacement; Hanji 478 then shows him still structurally important as part of the power field that converts disaster omens, factional conflict, and informant material into attacks on rival officials. Through Shi Gao, Zheng Peng's private resentment gains an institutional channel.
+The sources do not develop Shi Gao as a full biography. 汉纪 455 first makes him politically sensitive before he acts: he is a trusted imperial intimate and outer-relative-linked figure close enough to Xuan that a chancellor's unsolicited recommendation for taiwei can look like overreach, factional courting, or interference with Xuan's own timing. 汉纪 465 then places him in the Xuan-to-Yuan transition as the senior entrusted official and military-regent figure. 汉纪 468 places him as a high-ranking outer-relative regent whose practical authority is threatened by Xiao Wangzhi's teacher-minister bloc and whose side later converges with Hong Gong and Shi Xian. 汉纪 476 places him in the responsibility-taking resignation sequence after famine and displacement; 汉纪 478 then shows him still structurally important as part of the power field that converts disaster omens, factional conflict, and informant material into attacks on rival officials. Through Shi Gao, Zheng Peng's private resentment gains an institutional channel.
 
 ## Key Characteristics
 
@@ -33,34 +33,34 @@ The sources do not develop Shi Gao as a full biography. Hanji 455 first makes hi
 ## Evidence
 
 Disaster resignation:
-- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|Hanji 476]] says Shi Gao resigns with Yu Dingguo and Xue Guangde after severe cold, ruined crops, famine, and displacement.
+- [[zizhi-tongjian-hanji-476-kongzi-de-12-shisun-kongba-jielu-zhichang-yinmi-ltjlhphlrqnazeqh2cc2hgsvrvwc|汉纪 476]] says Shi Gao resigns with Yu Dingguo and Xue Guangde after severe cold, ruined crops, famine, and displacement.
 
 Disaster blame:
-- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Shi Xian and Shi Gao attribute abnormal cold and dim sun omens to Zhou Kan and Zhang Meng.
+- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] says Shi Xian and Shi Gao attribute abnormal cold and dim sun omens to Zhou Kan and Zhang Meng.
 
 Accusation channel:
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] says Shi Gao is a close and trusted figure around Xuan whom Huang Ba recommends for taiwei.
-- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] says Xuan replies that he knows Shi Gao well and that such appointments are not Huang Ba's domain.
-- [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|Hanji 465]] says Han Xuan appoints Shi Gao as Da Sima Cheqi Jiangjun and entrusts him with succession affairs.
-- [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|Hanji 468]] says Shi Gao is a senior outer-relative and leading auxiliary minister whose court presence is weakened as Xiao Wangzhi's side repeatedly influences Yuan.
-- [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|Hanji 468]] says Zheng Peng accuses Shi Gao of privately planting retainers and having treasonous ambition, and that Zhou Kan and Xiao Wangzhi treat the memorial favorably.
-- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]] says Zheng Peng turns toward Shi Gao's outer-relative group, whose side uses his accusations against Xiao Wangzhi, Zhou Kan, and Liu Gengsheng.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] says Shi Gao is a close and trusted figure around Xuan whom Huang Ba recommends for taiwei.
+- [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|汉纪 455]] says Xuan replies that he knows Shi Gao well and that such appointments are not Huang Ba's domain.
+- [[zizhi-tongjian-hanji-465-cong-qiutu-dao-mingjun-hanxuandi-liubingyi-shi-zenme-si-de-lguhdrq8lfw2wfykuteib-sucwyt|汉纪 465]] says Han Xuan appoints Shi Gao as Da Sima Cheqi Jiangjun and entrusts him with succession affairs.
+- [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|汉纪 468]] says Shi Gao is a senior outer-relative and leading auxiliary minister whose court presence is weakened as Xiao Wangzhi's side repeatedly influences Yuan.
+- [[zizhi-tongjian-hanji-468-yan-duo-bi-shi-xiao-wangzhi-ruhe-yin-zui-chi-da-kui-losjg52ruc7ov6k3uvmxvhxlzvjw|汉纪 468]] says Zheng Peng accuses Shi Gao of privately planting retainers and having treasonous ambition, and that Zhou Kan and Xiao Wangzhi treat the memorial favorably.
+- [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]] says Zheng Peng turns toward Shi Gao's outer-relative group, whose side uses his accusations against Xiao Wangzhi, Zhou Kan, and Liu Gengsheng.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 476, Hanji 478, Hanji 468, Hanji 465, and Hanji 455. It does not settle Shi Gao's full office history, family position, independent motives, or the complete relationship between Shi Gao and Shi Xian. Hanji 455 shows Shi Gao as the object of Huang Ba's recommendation, not as the agent of the overreach.
+This page is source-scoped to 汉纪 476, 汉纪 478, 汉纪 468, 汉纪 465, and 汉纪 455. It does not settle Shi Gao's full office history, family position, independent motives, or the complete relationship between Shi Gao and Shi Xian. 汉纪 455 shows Shi Gao as the object of Huang Ba's recommendation, not as the agent of the overreach.
 
 ## What Changed
 
-- Added Hanji 455's earlier Xuan-era layer: Shi Gao appears as a trusted figure whose possible taiwei appointment is sensitive enough that Huang Ba's recommendation becomes overreach.
-- Preserved Hanji 465's transition layer: Shi Gao appears as one of Xuan's entrusted deathbed officials before the Yuan-era factional conflict.
+- Added 汉纪 455's earlier Xuan-era layer: Shi Gao appears as a trusted figure whose possible taiwei appointment is sensitive enough that Huang Ba's recommendation becomes overreach.
+- Preserved 汉纪 465's transition layer: Shi Gao appears as one of Xuan's entrusted deathbed officials before the Yuan-era factional conflict.
 
 ## Relationships
 
 - [[ShiXianWesternHan|石显]] - aligned court power actor in disaster-blame politics.
 - [[HuangBaWesternHan|黄霸]] - chancellor whose recommendation of Shi Gao exposes a sensitive personnel boundary.
 - [[SensitivePersonnelRecommendationBoundary|敏感人事建议边界]] - concept illustrated by the attempt to recommend Shi Gao for taiwei.
-- [[YuDingguoWesternHan|于定国]] and [[XueGuangdeWesternHan|薛广德]] - fellow resigning officials in Hanji 476.
+- [[YuDingguoWesternHan|于定国]] and [[XueGuangdeWesternHan|薛广德]] - fellow resigning officials in 汉纪 476.
 - [[ZhengPengWesternHan|郑朋]] - informant whose grievance becomes useful through Shi Gao's side.
 - [[ZhouKanWesternHan|周堪]] and [[ZhangMengWesternHan|张萌]] - officials blamed in the omen politics.
 - [[OpportunisticCourtAlignment|投机型朝堂站队]] - related concept because Shi Gao's side supplies the factional channel for opportunistic accusations.

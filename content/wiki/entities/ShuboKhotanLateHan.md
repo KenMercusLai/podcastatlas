@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-输僰 / Shubo is the Khotan noble and general in Hanji 838 who kills [[WangJingXiyuLateHan|王敬]] after the killing of [[KhotanKingJianLateHan|于阗王建]], then briefly self-enthrones before Khotanese people kill him. The route uses the Khotan suffix because [[Shubo]] already names an unrelated modern AI-founder page.
+输僰 / Shubo is the Khotan noble and general in 汉纪 838 who kills [[WangJingXiyuLateHan|王敬]] after the killing of [[KhotanKingJianLateHan|于阗王建]], then briefly self-enthrones before Khotanese people kill him. The route uses the Khotan suffix because [[Shubo]] already names an unrelated modern AI-founder page.
 
 ## Current Profile
 
@@ -28,19 +28,19 @@ His own power claim fails immediately. Shubo makes himself king after killing Wa
 
 ## Evidence
 
-- Military response: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Shubo quickly learns of Jian's death and attacks Wang Jing with troops.
-- Killing Wang Jing: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Shubo goes upstairs, kills Wang Jing, and hangs Wang's head in the street.
-- Self-enthronement: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Shubo then establishes himself as Khotan king.
-- Popular rejection: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says the people do not want him and kill him.
-- Succession outcome: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]] says Anguo is installed after Shubo's death.
+- Military response: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Shubo quickly learns of Jian's death and attacks Wang Jing with troops.
+- Killing Wang Jing: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Shubo goes upstairs, kills Wang Jing, and hangs Wang's head in the street.
+- Self-enthronement: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Shubo then establishes himself as Khotan king.
+- Popular rejection: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says the people do not want him and kill him.
+- Succession outcome: [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]] says Anguo is installed after Shubo's death.
 
 ## Qualifications
 
-The current profile is source-bounded to Hanji 838. It does not explain Shubo's earlier office, family, support base, or exact title beyond the source note's noble/general description. The disambiguated route prevents collision with the unrelated [[Shubo]] page.
+The current profile is source-bounded to 汉纪 838. It does not explain Shubo's earlier office, family, support base, or exact title beyond the source note's noble/general description. The disambiguated route prevents collision with the unrelated [[Shubo]] page.
 
 ## What Changed
 
-- Created the disambiguated Khotan Shubo page from Hanji 838.
+- Created the disambiguated Khotan Shubo page from 汉纪 838.
 - Added Shubo as a counterattack-and-usurpation actor inside the Khotan crisis.
 
 ## Relationships

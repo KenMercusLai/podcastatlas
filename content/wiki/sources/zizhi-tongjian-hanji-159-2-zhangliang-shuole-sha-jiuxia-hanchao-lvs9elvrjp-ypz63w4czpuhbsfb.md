@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》159-2｜张良说了啥救下汉朝？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]] cliffhanger around [[ZhangLiang|张良]]'s "borrowing chopsticks" refutation of [[LiShiqi|郦食其]]'s proposal that [[LiuBang|刘邦]] restore the six old kingdoms. Zhang Liang argues that the [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] that once could multiply enemies against Qin would now split Liu Bang's own land, rewards, followers, and command authority while [[XiangYu|项羽]] remains strong. The episode then uses [[XunYue|荀悦]]'s "行、势、情" framework to generalize the lesson: strategy has to be judged by conduct, temporary situation, and people's real commitments rather than copied from historical precedent.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes the [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|汉纪 159-1]] cliffhanger around [[ZhangLiang|张良]]'s "borrowing chopsticks" refutation of [[LiShiqi|郦食其]]'s proposal that [[LiuBang|刘邦]] restore the six old kingdoms. Zhang Liang argues that the [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]] that once could multiply enemies against Qin would now split Liu Bang's own land, rewards, followers, and command authority while [[XiangYu|项羽]] remains strong. The episode then uses [[XunYue|荀悦]]'s "行、势、情" framework to generalize the lesson: strategy has to be judged by conduct, temporary situation, and people's real commitments rather than copied from historical precedent.
 
 ## Key Claims
 - Zhang Liang's objection is not that enfeoffment is always wrong. His point is that [[ShangTang|商汤]] and [[ZhouWuwang|周武王]] could honor old lineages after they already controlled the outcome, while Liu Bang is still in the middle of the [[XingyangStandoff|荥阳相持]] and cannot yet disarm, demobilize, reward everyone, or command the restored kings.
@@ -31,12 +31,12 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode completes t
 > "权不可预设，变不可先图" - the episode's summary of why strategy must move with changing circumstances.
 
 ## Connections
-- [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]], [[LiShiqi|郦食其]], [[ZhangLiang|张良]], and [[LiuBang|刘邦]] - the earlier episode sets up the dangerous restoration proposal and this one completes Zhang Liang's rejection.
+- [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|汉纪 159-1]], [[LiShiqi|郦食其]], [[ZhangLiang|张良]], and [[LiuBang|刘邦]] - the earlier episode sets up the dangerous restoration proposal and this one completes Zhang Liang's rejection.
 - [[SixStateRestorationAntiQinStrategy|六国复国式反秦策略]], [[ChenSheng|陈胜]], [[ZhangEr|张耳]], and [[ChenYu|陈馀]] - the old anti-Qin restoration logic becomes a comparative case for why the same method can change meaning.
 - [[XingshiqingStrategicAssessment|行势情战略评估]], [[XunYue|荀悦]], [[HistoricalPrecedentWeaponization|历史先例武器化]], and [[DeathGroundTacticalPreconditions|死地战术前提]] - frameworks for judging strategy by current conditions instead of inherited story form.
 - [[SongYi|宋义]], [[DelayedRescueStatecraft|晚救权谋]], [[XiangYu|项羽]], and [[JuluBattle|巨鹿之战]] - waiting for others to exhaust themselves is treated as situation-bound, not universally wise.
 - [[HanXin|韩信]], [[BackwaterBattle|背水一战]], [[PengchengBattle|彭城之战]], and [[VictoryOverreachFailure|数胜必亡式胜利反噬]] - matched terrain contrast showing why morale and command state matter more than a copied formation.
 
 ## Contradictions
-- No settled contradiction is recorded. This source resolves [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|Hanji 159-1]]'s incomplete Zhang Liang analysis by supplying the full refutation.
+- No settled contradiction is recorded. This source resolves [[zizhi-tongjian-hanji-159-1-liubang-xijiao-de-yuren-zhishu-lga3puexunjzeu3s8pvt8saaa8n3|汉纪 159-1]]'s incomplete Zhang Liang analysis by supplying the full refutation.
 - Source-scope caution: the episode uses sharp labels such as "馊主意" for Li Shiqi's proposal, but the wiki keeps the criticism context-bound. Earlier anti-Qin restoration advice remains valid in its own [[QinState|秦国]]-collapse setting.

@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 1 / 43 BCE under [[HanYuandi|汉元帝]], between [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|Hanji 475]] and [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|Hanji 478]]. It introduces [[ShiXianWesternHan|石显]] as a legally skilled eunuch favorite whose resentful slander against [[ZhouKanWesternHan|周堪]], [[ZhangMengWesternHan|张猛 / 张萌]], and others makes [[LiuXiang|刘向 / 刘更生]] warn Yuan about court disharmony, ruler suspicion, and the danger of trusting petty men.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 1 / 43 BCE under [[HanYuandi|汉元帝]], between [[zizhi-tongjian-hanji-475-rexue-yushi-xueguangde-gongran-weixie-han-yuandi-lj9b1raz_rjhijw17vxgsp6racuj|汉纪 475]] and [[zizhi-tongjian-hanji-478-chushi-zhihui-zhezhong-ren-tai-jiduan-yudao-qing-yuanli-lq3hhg58lohdi-tbpmcuhwajjo7h|汉纪 478]]. It introduces [[ShiXianWesternHan|石显]] as a legally skilled eunuch favorite whose resentful slander against [[ZhouKanWesternHan|周堪]], [[ZhangMengWesternHan|张猛 / 张萌]], and others makes [[LiuXiang|刘向 / 刘更生]] warn Yuan about court disharmony, ruler suspicion, and the danger of trusting petty men.
 
 The durable synthesis is that Liu Xiang's memorial turns disaster language into a personnel and feedback diagnosis. Court harmony, omen anxiety, factional slander, and ruler indecision are treated as one system: when a ruler hears denunciation too easily and withdraws from worthy people too quickly, upright ministers retreat, opportunists advance, and Shi Xian's inner-court access becomes more dangerous.
 
@@ -42,7 +42,7 @@ The durable synthesis is that Liu Xiang's memorial turns disaster language into 
 - [[OmenCodedRemonstrance|天象灾异包装式进谏]] - Liu Xiang packages personnel criticism through disaster and harmony language.
 - [[TrustedEunuchPowerFormation|信任型宦官权力形成]] and [[MessageRelayPoliticalPower|传话式信息权力]] - this episode adds an early hostile-feedback layer before later episodes explain Shi Xian's access mechanics.
 - [[SlanderSuspicionFeedbackCollapse|谗言疑心式反馈失灵]] - concept created from the episode's claim that ruler suspicion and slander can make good advice unreachable.
-- [[OpportunisticCourtAlignment|投机型朝堂站队]] - Hanji 478 follows from the same court field by showing how other officials position around Zhou Kan, Zhang Meng, Shi Xian, and Yuan.
+- [[OpportunisticCourtAlignment|投机型朝堂站队]] - 汉纪 478 follows from the same court field by showing how other officials position around Zhou Kan, Zhang Meng, Shi Xian, and Yuan.
 
 ## Contradictions
 

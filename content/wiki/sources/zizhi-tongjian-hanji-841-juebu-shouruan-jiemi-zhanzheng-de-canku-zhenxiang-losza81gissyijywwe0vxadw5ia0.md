@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 155 CE layer immediately before [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|Hanji 842]]. It uses [[Xiongnu|匈奴]] autumn raids and [[HanWudi|汉武帝]]'s spring attacks to frame war as a problem of season, grain, horses, population continuity, and livestock reproduction rather than battlefield courage alone.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 155 CE layer immediately before [[zizhi-tongjian-hanji-842-shenme-shi-haoguan-ta-wei-baixing-gan-pinming-lj2okcbcvcmrfqrj3d-k1ylqdi2si|汉纪 842]]. It uses [[Xiongnu|匈奴]] autumn raids and [[HanWudi|汉武帝]]'s spring attacks to frame war as a problem of season, grain, horses, population continuity, and livestock reproduction rather than battlefield courage alone.
 
 The episode then introduces [[ZhangHuanLateHan|张奂]] through a Qiang-frontier gift-refusal story. Zhang refuses gifts from Qiang leaders while fighting them, which the host reads as both integrity and long-range authority: by not taking immediate benefit, he keeps himself unentangled and preserves superior bargaining position.
 
@@ -47,6 +47,6 @@ The episode then introduces [[ZhangHuanLateHan|张奂]] through a Qiang-frontier
 
 ## Contradictions
 
-- No settled contradiction found. The episode backfills 155 CE before the existing Hanji 842-844 sequence and broadens earlier Xiongnu and Zhang Huan pages without overturning them.
+- No settled contradiction found. The episode backfills 155 CE before the existing 汉纪 842-844 sequence and broadens earlier Xiongnu and Zhang Huan pages without overturning them.
 - Scope caution: the Han Wudi reproductive-attrition explanation is preserved as this episode's interpretation of the Tongjian phrase, not as the full account of Han-Xiongnu war.
 - Name normalization: 黄腐归, 张焕, 段九, and 梁州三民 are normalized to 皇甫规, 张奂, 段熲, and the Liangzhou "三明" label while keeping the transcript uncertainty visible.

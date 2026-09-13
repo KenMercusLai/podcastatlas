@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-巴肃 / Ba Su is a late-Han figure introduced by [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] as a Bohai-associated participant in [[DouWuLateHan|Dou Wu]]'s failed anti-eunuch plan. The episode makes him a compact example of a person who chooses public responsibility over escape once punishment arrives.
+巴肃 / Ba Su is a late-Han figure introduced by [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] as a Bohai-associated participant in [[DouWuLateHan|Dou Wu]]'s failed anti-eunuch plan. The episode makes him a compact example of a person who chooses public responsibility over escape once punishment arrives.
 
 ## Current Profile
 
@@ -28,10 +28,10 @@ The county magistrate offers to abandon office and flee with him, turning surviv
 
 ## Evidence
 
-- Anti-eunuch association: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] places Ba Su among the people connected to the failed Dou Wu plan and says he was not found out at first.
-- Arrest and surrender: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] says Ba Su later receives an arrest order and rides to the county court rather than fleeing.
-- Rejected escape: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] says the county magistrate is moved and offers to flee with him, but Ba Su refuses and is executed.
-- Survival counterpoint: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] explicitly raises the "留得青山在" alternative before honoring Ba Su's refusal.
+- Anti-eunuch association: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] places Ba Su among the people connected to the failed Dou Wu plan and says he was not found out at first.
+- Arrest and surrender: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] says Ba Su later receives an arrest order and rides to the county court rather than fleeing.
+- Rejected escape: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] says the county magistrate is moved and offers to flee with him, but Ba Su refuses and is executed.
+- Survival counterpoint: [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] explicitly raises the "留得青山在" alternative before honoring Ba Su's refusal.
 
 ## Qualifications
 
@@ -41,11 +41,11 @@ The county magistrate offers to abandon office and flee with him, turning surviv
 
 ## What Changed
 
-- Created the page from Hanji 888's account of Ba Su's voluntary surrender and execution.
+- Created the page from 汉纪 888's account of Ba Su's voluntary surrender and execution.
 
 ## Relationships
 
-- [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] - source note for Ba Su's late-Han crisis profile.
+- [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] - source note for Ba Su's late-Han crisis profile.
 - [[DouWuLateHan|窦武]] - anti-eunuch plot context connected to Ba Su's prosecution.
 - [[DeathFacingResponsibility|赴死式责任承担]] - concept anchored by Ba Su's refusal to flee.
 - [[PoliticalSurvivalFirst|安全第一政治生存]] - counter-strategy explicitly raised by the episode.

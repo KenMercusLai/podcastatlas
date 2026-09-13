@@ -14,7 +14,7 @@ Consort heir security spiral / 后宫子嗣安全螺旋 is the pattern where a f
 
 ## Current Synthesis
 
-Hanji 536-1 defines the pattern through the Zhao sisters. [[ZhaoFeiyanWesternHan|赵飞燕]] becomes empress, but her lack of children makes her formal rank insecure. [[ZhaoHedeWesternHan|赵合德]] has stronger day-to-day favor, yet she is also childless. In the source's telling, their shared vulnerability turns other women's pregnancies from private palace events into succession threats.
+汉纪 536-1 defines the pattern through the Zhao sisters. [[ZhaoFeiyanWesternHan|赵飞燕]] becomes empress, but her lack of children makes her formal rank insecure. [[ZhaoHedeWesternHan|赵合德]] has stronger day-to-day favor, yet she is also childless. In the source's telling, their shared vulnerability turns other women's pregnancies from private palace events into succession threats.
 
 The episode presents a morally lurid narrative: Zhao Feiyan hides men in palace rooms in hopes of conceiving, Zhao Hede deflects reports against her sister as slander, and the sisters allegedly prevent other consorts from carrying children. The useful concept is not the scandal by itself. It is the security logic: when rank, favor, and survival depend on heir control, every pregnancy becomes political evidence and every accusation becomes difficult to verify.
 
@@ -28,19 +28,19 @@ The episode presents a morally lurid narrative: Zhao Feiyan hides men in palace 
 
 ## Evidence
 
-- Childless insecurity: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] says Zhao Feiyan is empress but has no child, and Zhao Hede is highly favored but also without a child.
-- Hidden conception attempt: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] says Zhao Feiyan hides men in palace rooms because she hopes to bear a child.
-- Accusation suppression: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] says Chengdi believes Zhao Hede's defense and executes people who later report Zhao Feiyan's adultery.
-- Pregnancy-threat logic: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] says other consorts' sons would threaten the Zhao sisters' status.
-- Reproductive-interference claim: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|Hanji 536-1]] reports that the sisters allegedly blocked pregnancies or caused miscarriages among other women.
+- Childless insecurity: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] says Zhao Feiyan is empress but has no child, and Zhao Hede is highly favored but also without a child.
+- Hidden conception attempt: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] says Zhao Feiyan hides men in palace rooms because she hopes to bear a child.
+- Accusation suppression: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] says Chengdi believes Zhao Hede's defense and executes people who later report Zhao Feiyan's adultery.
+- Pregnancy-threat logic: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] says other consorts' sons would threaten the Zhao sisters' status.
+- Reproductive-interference claim: [[zizhi-tongjian-hanji-536-1-renxing-huanghou-zhaofeiyan-ruhe-mingmu-zhangdan-gaowaiyu-llxo0my5ngp-mnbvjbl92yod1x2n|汉纪 536-1]] reports that the sisters allegedly blocked pregnancies or caused miscarriages among other women.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded only in Hanji 536-1 and should remain narrower than the later full Chengdi heir-killing case. The episode presents some claims as rumor or传闻, especially around fertility medicine and reproductive harm. Later Hanji 571-573 material in the wiki adds both more serious accusation narratives and stronger evidentiary caution, so this concept should track the political mechanism without treating every lurid detail as settled fact.
+This concept is grounded only in 汉纪 536-1 and should remain narrower than the later full Chengdi heir-killing case. The episode presents some claims as rumor or传闻, especially around fertility medicine and reproductive harm. Later 汉纪 571-573 material in the wiki adds both more serious accusation narratives and stronger evidentiary caution, so this concept should track the political mechanism without treating every lurid detail as settled fact.
 
 ## What Changed
 
-- Created the concept from Hanji 536-1's link between childlessness, favored status, hidden sexual conduct, and alleged obstruction of rival pregnancies.
+- Created the concept from 汉纪 536-1's link between childlessness, favored status, hidden sexual conduct, and alleged obstruction of rival pregnancies.
 
 ## Related Concepts
 

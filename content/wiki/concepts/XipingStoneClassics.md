@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 熹平石经 / Xiping Stone Classics
 
-熹平石经 / Xiping Stone Classics enters the wiki through [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] as [[EmperorLingOfHan|汉灵帝]]'s 175 CE classical-text project. The episode says the court orders Confucian specialists to correct the Five Classics, has [[CaiYong|蔡邕]] write the corrected text in three scripts, and carves the result on stone outside [[Taixue|太学]] so students and copyists can consult an official reference.
+熹平石经 / Xiping Stone Classics enters the wiki through [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|汉纪 905]] as [[EmperorLingOfHan|汉灵帝]]'s 175 CE classical-text project. The episode says the court orders Confucian specialists to correct the Five Classics, has [[CaiYong|蔡邕]] write the corrected text in three scripts, and carves the result on stone outside [[Taixue|太学]] so students and copyists can consult an official reference.
 
 The source treats the project as both textual and political. Because books are still handwritten and no printing system is available, stone inscription gives the classics a public standard against manuscript variation. Because late-Han rebellions and local disorder are spreading, the same project also reasserts Confucian loyalty, filial hierarchy, and court-backed cultural authority.
 
@@ -22,7 +22,7 @@ The episode also makes the stone classics a fragility marker. Seven years later,
 - The later damage under Dong Zhuo makes the project a negative measure of late-Han fragility.
 
 ## Connections
-- [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|Hanji 905]] - source episode.
+- [[zizhi-tongjian-hanji-905-fugui-ruhe-xianzhong-qiu-lklxx5nquka2mtbllxivk0a7b-fu|汉纪 905]] - source episode.
 - [[EmperorLingOfHan|汉灵帝]], [[CaiYong|蔡邕]], and [[Taixue|太学]] - ruler, writer-scholar, and institutional site.
 - [[ConfucianIdealGovernance|儒家理想治理]] and [[LiAsPoliticalOrder|礼制政治秩序]] - broader political order attached to classical authority.
 - [[DongZhuo|董卓]] and [[LuoyangLateHan|洛阳]] - later destruction that damages the project.

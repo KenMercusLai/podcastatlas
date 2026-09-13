@@ -10,7 +10,7 @@ last_updated: 2026-08-30
 
 ## Overview
 
-宋游 / Song You enters the wiki as a Taiwei caught between procedural responsibility and fear of [[DouXianEasternHan|Dou Xian]]'s power. Hanji 760 shows him first permitting [[HeChangEasternHan|He Chang]] to help investigate [[LiuChangDuxiangHouEasternHan|Liu Chang]]'s murder, then retreating from a collective anti-expedition memorial once Dou Xian's Northern Xiongnu campaign becomes politically dangerous to oppose.
+宋游 / Song You enters the wiki as a Taiwei caught between procedural responsibility and fear of [[DouXianEasternHan|Dou Xian]]'s power. 汉纪 760 shows him first permitting [[HeChangEasternHan|He Chang]] to help investigate [[LiuChangDuxiangHouEasternHan|Liu Chang]]'s murder, then retreating from a collective anti-expedition memorial once Dou Xian's Northern Xiongnu campaign becomes politically dangerous to oppose.
 
 ## Current Profile
 
@@ -20,7 +20,7 @@ His second source role is a contrast with Yuan An and Ren Kui. When Three Excell
 
 ## Key Characteristics
 
-- Taiwei in Hanji 760's Liu Chang murder investigation and Northern Xiongnu expedition dispute.
+- Taiwei in 汉纪 760's Liu Chang murder investigation and Northern Xiongnu expedition dispute.
 - Enables He Chang's entry into the case review.
 - Fearful official who withdraws from signing a collective anti-expedition memorial.
 - Contrast figure for Yuan An and Ren Kui's sustained resistance.
@@ -28,14 +28,14 @@ His second source role is a contrast with Yuan An and Ren Kui. When Three Excell
 
 ## Evidence
 
-- Case facilitation: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says He Chang presents his argument to Taiwei Song You and receives approval to participate in the review.
-- Murder-case outcome: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says He Chang then works with the offices of the Three Excellencies and the case is quickly solved.
-- Expedition opposition: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Three Excellencies and Nine Ministers object that Northern Xiongnu has not attacked the frontier and that an unprovoked expedition is poor state policy.
-- Withdrawal from signature: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|Hanji 760]] says Song You becomes afraid and does not dare sign, after which other high officials also stop pressing.
+- Case facilitation: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says He Chang presents his argument to Taiwei Song You and receives approval to participate in the review.
+- Murder-case outcome: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says He Chang then works with the offices of the Three Excellencies and the case is quickly solved.
+- Expedition opposition: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says Three Excellencies and Nine Ministers object that Northern Xiongnu has not attacked the frontier and that an unprovoked expedition is poor state policy.
+- Withdrawal from signature: [[zizhi-tongjian-hanji-760-lishi-jiemi-huanghou-chugui-bei-zhua-xiachang-can-bucan-lgz2sc9xt8ulltvwemiz2uzfghqi|汉纪 760]] says Song You becomes afraid and does not dare sign, after which other high officials also stop pressing.
 
 ## Qualifications
 
-This page does not reconstruct Song You's full career. The source itself is the only current evidence for the two Hanji 760 scenes, and the Chinese form is kept as supplied here unless later bounded notes support a different normalization.
+This page does not reconstruct Song You's full career. The source itself is the only current evidence for the two 汉纪 760 scenes, and the Chinese form is kept as supplied here unless later bounded notes support a different normalization.
 
 ## What Changed
 

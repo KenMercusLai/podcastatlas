@@ -31,12 +31,12 @@ At the same time, Su Kang's case shows the limit of that action. The source does
 
 ## Evidence
 
-- Property privilege: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Su Kang and Guan Ba acquire valuable land and residences cheaply while local offices fear challenging them.
-- Confiscation reversal: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Liu You orders confiscation of the holdings but is punished with Li Ying and Feng Gun.
-- Co-target status: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] says Su Kang is arrested and executed with Guan Ba.
-- Selective-purge context: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] places his punishment immediately after Dou Miao says only lawbreaking eunuchs should be punished.
-- Limited individual detail: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] names Su Kang without giving the same power-and-ability description attached to Guan Ba.
-- Unresolved target field: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|Hanji 884]] leaves Cao Jie and Wang Fu in the broader removal question after the first executions.
+- Property privilege: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Su Kang and Guan Ba acquire valuable land and residences cheaply while local offices fear challenging them.
+- Confiscation reversal: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Liu You orders confiscation of the holdings but is punished with Li Ying and Feng Gun.
+- Co-target status: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] says Su Kang is arrested and executed with Guan Ba.
+- Selective-purge context: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] places his punishment immediately after Dou Miao says only lawbreaking eunuchs should be punished.
+- Limited individual detail: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] names Su Kang without giving the same power-and-ability description attached to Guan Ba.
+- Unresolved target field: [[zizhi-tongjian-hanji-884-zhichang-chujian-yao-dui-shui-xian-kaidao-lvtc3uqlso242olkyin3fvz5a7ys|汉纪 884]] leaves Cao Jie and Wang Fu in the broader removal question after the first executions.
 
 ## Qualifications
 

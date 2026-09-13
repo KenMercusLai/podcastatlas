@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-郭钦 / Guo Qin enters the wiki through [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] as a former Nan commandery governor known for integrity who leaves office after [[WangMang|王莽]] holds imperial power. The episode groups him with [[JiangXuXinOfficial|蒋诩]] as an illness-based withdrawal case rather than a martyrdom case.
+郭钦 / Guo Qin enters the wiki through [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|汉纪 644]] as a former Nan commandery governor known for integrity who leaves office after [[WangMang|王莽]] holds imperial power. The episode groups him with [[JiangXuXinOfficial|蒋诩]] as an illness-based withdrawal case rather than a martyrdom case.
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ His refusal matters because it shows a quieter version of Han-loyalist nonpartic
 
 ## Evidence
 
-- Office and reputation: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says Guo Qin had served as Nan commandery governor and was known for integrity.
-- Withdrawal: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says he claims illness and leaves office after Wang Mang occupies the throne.
-- Seclusion: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says he closes his gate at home until death.
+- Office and reputation: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|汉纪 644]] says Guo Qin had served as Nan commandery governor and was known for integrity.
+- Withdrawal: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|汉纪 644]] says he claims illness and leaves office after Wang Mang occupies the throne.
+- Seclusion: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|汉纪 644]] says he closes his gate at home until death.
 
 ## Qualifications
 
-The page is source-bounded to Hanji 644 and does not reconstruct Guo Qin's full career, later reputation, or detailed motives. The episode supports a clean withdrawal profile, not evidence of organized resistance.
+The page is source-bounded to 汉纪 644 and does not reconstruct Guo Qin's full career, later reputation, or detailed motives. The episode supports a clean withdrawal profile, not evidence of organized resistance.
 
 ## What Changed
 
-- Created from Hanji 644 as a Xin-era official whose illness-based exit shows quiet refusal of Wang Mang's order.
+- Created from 汉纪 644 as a Xin-era official whose illness-based exit shows quiet refusal of Wang Mang's order.
 
 ## Relationships
 

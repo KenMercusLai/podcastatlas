@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the death of [[HanYuandi|汉元帝]] in Jingning 1 / 33 BCE and the opening of [[HanChengdi|汉成帝]]'s reign, immediately before [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|Hanji 500]]'s [[ShiXianWesternHan|石显]] fall sequence. It presents Yuan as personally frugal, humane, learned, and committed to Confucian classics, but politically inadequate because he mistook moral learning for sufficient statecraft and let Shi Xian's eunuch power grow.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the death of [[HanYuandi|汉元帝]] in Jingning 1 / 33 BCE and the opening of [[HanChengdi|汉成帝]]'s reign, immediately before [[zizhi-tongjian-hanji-500-taijian-shixian-zhisi-zhan-de-yuegao-si-de-yuecan-lvu7w8xa8mjn8_mbxew7e4afupra|汉纪 500]]'s [[ShiXianWesternHan|石显]] fall sequence. It presents Yuan as personally frugal, humane, learned, and committed to Confucian classics, but politically inadequate because he mistook moral learning for sufficient statecraft and let Shi Xian's eunuch power grow.
 
 The durable synthesis is that late Western Han decline is framed here as a mismatch between virtue language and governing machinery. Yuan's Confucian learning does not prevent court capture, while [[KuangHengWesternHan|匡衡]]'s first advice to Chengdi turns ritual mourning, marriage discipline, classical study, and ruler bearing into a program for creating visible authority after succession.
 
@@ -36,10 +36,10 @@ The durable synthesis is that late Western Han decline is framed here as a misma
 
 ## Connections
 
-- [[HanYuandi|汉元帝]], [[ShiXianWesternHan|石显]], and [[TrustedEunuchPowerFormation|信任型宦官权力形成]] - the episode supplies the pre-Hanji 500 diagnosis of Yuan's personal virtues and governing vulnerability.
+- [[HanYuandi|汉元帝]], [[ShiXianWesternHan|石显]], and [[TrustedEunuchPowerFormation|信任型宦官权力形成]] - the episode supplies the pre-汉纪 500 diagnosis of Yuan's personal virtues and governing vulnerability.
 - [[ConfucianLegalistGovernanceBalance|儒法互补治理]] - the source creates this focused concept through its contrast between Confucian learning and the harder problem of controlling state machinery.
 - [[KuangHengWesternHan|匡衡]], [[HanChengdi|汉成帝]], and [[WeakAuthorityLeadership|弱势领导威信]] - Kuang Heng's accession advice becomes a leadership-authority and ritual-bearing case.
-- [[WangZhengjun|王政君]], [[WangFengWesternHan|王凤]], and [[OuterRelativeCourtPower|外戚专权与清算]] - Chengdi's succession appointments begin the Wang-family power field that later Hanji 503 develops.
+- [[WangZhengjun|王政君]], [[WangFengWesternHan|王凤]], and [[OuterRelativeCourtPower|外戚专权与清算]] - Chengdi's succession appointments begin the Wang-family power field that later 汉纪 503 develops.
 - [[EmperorXuanOfHan|汉宣帝]] and [[LegalistRulerTechnique|法家君术]] - the source uses Xuan as the contrast case for combining moral discourse with administrative control.
 
 ## Contradictions

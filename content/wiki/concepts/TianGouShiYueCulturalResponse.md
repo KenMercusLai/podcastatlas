@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Definition
 
-Tian Gou Shi Yue cultural response / 天狗食月文化应对 is the folk interpretation and ritual handling of a lunar eclipse as if the Moon were being eaten by a destructive heavenly dog. [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|Hanji 566]] uses it to explain how fear of unfamiliar sky events could become both popular ritual action and elite political omen language.
+Tian Gou Shi Yue cultural response / 天狗食月文化应对 is the folk interpretation and ritual handling of a lunar eclipse as if the Moon were being eaten by a destructive heavenly dog. [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|汉纪 566]] uses it to explain how fear of unfamiliar sky events could become both popular ritual action and elite political omen language.
 
 ## Current Synthesis
 
@@ -31,10 +31,10 @@ The source closes by giving a modern physical account: solar and lunar eclipses 
 
 ## Evidence
 
-- Folk explanation: [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|Hanji 566]] says "天狗食月" describes the Moon as if bitten or eaten by a large dog.
-- Ritual response: [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|Hanji 566]] says ancient people beat gongs and drums and lit torches to drive away the heavenly dog.
-- Political interpretation: [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|Hanji 566]] says Li Xun reads repeated lunar changes as signs of yin disorder involving inner court, ministers, and outer relatives.
-- Astronomical correction: [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|Hanji 566]] explains eclipses through Sun-Earth-Moon alignment and light blockage.
+- Folk explanation: [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|汉纪 566]] says "天狗食月" describes the Moon as if bitten or eaten by a large dog.
+- Ritual response: [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|汉纪 566]] says ancient people beat gongs and drums and lit torches to drive away the heavenly dog.
+- Political interpretation: [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|汉纪 566]] says Li Xun reads repeated lunar changes as signs of yin disorder involving inner court, ministers, and outer relatives.
+- Astronomical correction: [[zizhi-tongjian-hanji-566-buxiang-jianglin-weihe-guren-weiju-tiangou-shiyue-lkukbe4hu71ti_lmasca-mpbffxj|汉纪 566]] explains eclipses through Sun-Earth-Moon alignment and light blockage.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ The concept is currently source-scoped to one podcast episode. The source does n
 
 ## What Changed
 
-- Created from Hanji 566 to capture the episode's folk-eclipse layer separately from broader disaster-omen politics.
+- Created from 汉纪 566 to capture the episode's folk-eclipse layer separately from broader disaster-omen politics.
 
 ## Related Concepts
 

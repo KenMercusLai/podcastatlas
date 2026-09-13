@@ -12,7 +12,7 @@ last_updated: 2026-08-29
 
 ## Overview
 
-Zhu Liang is the Luoyang magistrate in [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] who impeaches [[PangCanLateHan|Pang Can]] after Pang's household murder scandal.
+Zhu Liang is the Luoyang magistrate in [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] who impeaches [[PangCanLateHan|Pang Can]] after Pang's household murder scandal.
 
 ## Current Profile
 
@@ -29,8 +29,8 @@ The page name uses a semantic suffix because this 朱良 is distinct from [[ZhuL
 
 ## Evidence
 
-- Impeachment role: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] says the Luoyang magistrate Zhu Liang seizes the chance to impeach Pang Can after the household killing.
-- Disambiguation: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|Hanji 815]] uses 朱良 in the Pang Can case, while the existing [[ZhuLiangLateHan|祝良]] page belongs to a different Jiaozhi branch.
+- Impeachment role: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] says the Luoyang magistrate Zhu Liang seizes the chance to impeach Pang Can after the household killing.
+- Disambiguation: [[zizhi-tongjian-hanji-815-kebei-gudai-zhongchen-de-jiafeng-zhishang-llkhbxo-63pjw-gk9pihnbfr94v|汉纪 815]] uses 朱良 in the Pang Can case, while the existing [[ZhuLiangLateHan|祝良]] page belongs to a different Jiaozhi branch.
 
 ## Qualifications
 

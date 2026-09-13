@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 绝对服从式指挥训练 / Absolute Command Obedience
 
-绝对服从式指挥训练 / absolute command obedience enters the wiki through [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] as the source's reading of [[MaoDunChanyu|冒顿单于]]'s whistling-arrow drill. Modu creates a signal arrow and orders his troops to shoot wherever it points; anyone who hesitates is executed.
+绝对服从式指挥训练 / absolute command obedience enters the wiki through [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|汉纪 175]] as the source's reading of [[MaoDunChanyu|冒顿单于]]'s whistling-arrow drill. Modu creates a signal arrow and orders his troops to shoot wherever it points; anyone who hesitates is executed.
 
 The training escalates because the targets are emotionally loaded. Modu first shoots his favorite horse, then a favored wife, then an object associated with [[ToumanChanyu|头曼单于]]. Each test strips away a possible rival loyalty: attachment to valuable property, attachment to household sentiment, and fear of the reigning father. By the time Modu shoots Touman during a hunt, the signal has become more authoritative than ordinary hesitation.
 
@@ -25,4 +25,4 @@ This differs from [[BanditToArmyDiscipline|盗匪成军纪律化]], where [[Peng
 - [[Yuezhi|月氏]] - earlier hostage trap that helps motivate Modu's seizure of power.
 - [[BanditToArmyDiscipline|盗匪成军纪律化]] - adjacent but less extreme discipline-formation pattern.
 - [[LureEnemyOutOfPosition|诱敌离位]] - later strategic use of enemy overconfidence after command is consolidated.
-- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|Hanji 175]] - source page.
+- [[zizhi-tongjian-hanji-175-bikan-liubang-de-huangjia-liyi-ke-los9hsomndnhyqpxafstgyquomzf|汉纪 175]] - source page.

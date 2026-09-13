@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 2 / 15 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|Hanji 540]]'s funeral-accountability sequence. It centers on Chengdi's intimate favorite [[ZhangFangWesternHan|张放]], [[BanBoWesternHan|班伯]]'s wine-and-Shang-Zhou remonstrance, [[WangZhengjun|王政君]]'s pressure to send Zhang Fang away, and the impeachment filed by [[XueXuanWesternHan|薛宣]] and [[ZhaiFangjinWesternHan|翟方进]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongshi 2 / 15 BCE under [[HanChengdi|汉成帝]], immediately before [[zizhi-tongjian-hanji-540-taihou-de-zangli-lnd6gmr_bk7dv8cbb1zzoagtbwsd|汉纪 540]]'s funeral-accountability sequence. It centers on Chengdi's intimate favorite [[ZhangFangWesternHan|张放]], [[BanBoWesternHan|班伯]]'s wine-and-Shang-Zhou remonstrance, [[WangZhengjun|王政君]]'s pressure to send Zhang Fang away, and the impeachment filed by [[XueXuanWesternHan|薛宣]] and [[ZhaiFangjinWesternHan|翟方进]].
 
 The durable synthesis is that private attachment becomes a court-governance problem when a favorite's palace access, revelry, and household backing provoke dowager and ministerial intervention. Zhang Fang's exile does not end Chengdi's affection, but it shows that a favorite protected by ruler intimacy can still be constrained by dowager authority, outer relatives, and ministers; Xue Xuan's role is read as family self-protection and political cutting rather than simple moral courage.
 

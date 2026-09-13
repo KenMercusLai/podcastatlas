@@ -12,17 +12,17 @@ last_updated: 2026-08-31
 
 ## Overview
 
-于阗王广德 / King Guangde of Khotan is the early Yongping Khotan ruler whose profile now spans succession after Xiumoba, local Western Regions expansion, and later forced realignment. [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] shows him installed after his uncle Xiumoba dies fighting Shache and then settling with Shache through hostage-family return and marriage. Hanji 736 shows him killing the Shache king and manipulating Shache succession under Xiongnu pressure; Hanji 742 shows [[BanChaoEasternHan|Ban Chao]] shocking him away from Xiongnu supervision and into Han submission.
+于阗王广德 / King Guangde of Khotan is the early Yongping Khotan ruler whose profile now spans succession after Xiumoba, local Western Regions expansion, and later forced realignment. [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] shows him installed after his uncle Xiumoba dies fighting Shache and then settling with Shache through hostage-family return and marriage. 汉纪 736 shows him killing the Shache king and manipulating Shache succession under Xiongnu pressure; 汉纪 742 shows [[BanChaoEasternHan|Ban Chao]] shocking him away from Xiongnu supervision and into Han submission.
 
 ## Current Profile
 
-Hanji 735 gives Guangde's earliest current layer. After Shache king Xian had occupied Khotan and appointed a governor, Khotanese actors kill the governor, raise Xiumoba, and then install Guangde, the son of Xiumoba's elder brother, after Xiumoba dies from an arrow wound. Guangde sends his younger brother against Xian, and the settlement returns Guangde's detained father while Xian marries a daughter to Guangde.
+汉纪 735 gives Guangde's earliest current layer. After Shache king Xian had occupied Khotan and appointed a governor, Khotanese actors kill the governor, raise Xiumoba, and then install Guangde, the son of Xiumoba's elder brother, after Xiumoba dies from an arrow wound. Guangde sends his younger brother against Xian, and the settlement returns Guangde's detained father while Xian marries a daughter to Guangde.
 
-Hanji 736 gives the next expansion layer. Guangde leads a thirty-thousand-person attack on [[ShacheKingdomLateHan|Shache]], lures and kills King Xian, and absorbs the kingdom. When [[NorthernXiongnuLateHan|Northern Xiongnu]] reacts against this expansion by gathering Western Regions forces to besiege Khotan, Guangde submits.
+汉纪 736 gives the next expansion layer. Guangde leads a thirty-thousand-person attack on [[ShacheKingdomLateHan|Shache]], lures and kills King Xian, and absorbs the kingdom. When [[NorthernXiongnuLateHan|Northern Xiongnu]] reacts against this expansion by gathering Western Regions forces to besiege Khotan, Guangde submits.
 
 The same source then shows Guangde regaining initiative. After Xiongnu installs Xian's hostage son Bujuzheng as Shache king, Guangde attacks Shache again, kills Bujuzheng, and installs Bujuzheng's younger brother Qili. The host reads the pattern as control over the ruler rather than the title itself: who sits on the throne matters less than who can be made dependent.
 
-Hanji 742 gives the later Han-facing reversal. Guangde receives Ban Chao coldly because Khotan is under Xiongnu envoy supervision. When a shaman demands a Han horse, Ban Chao beheads the shaman, punishes the prime minister Si Laibi, and sends the head to Guangde. Frightened by Ban Chao's recent [[ShanshanKingdomLateHan|Shanshan]] action, Guangde kills the remaining Xiongnu envoys and submits to Han.
+汉纪 742 gives the later Han-facing reversal. Guangde receives Ban Chao coldly because Khotan is under Xiongnu envoy supervision. When a shaman demands a Han horse, Ban Chao beheads the shaman, punishes the prime minister Si Laibi, and sends the head to Guangde. Frightened by Ban Chao's recent [[ShanshanKingdomLateHan|Shanshan]] action, Guangde kills the remaining Xiongnu envoys and submits to Han.
 
 ## Key Characteristics
 
@@ -35,23 +35,23 @@ Hanji 742 gives the later Han-facing reversal. Guangde receives Ban Chao coldly 
 
 ## Evidence
 
-- Installation after Xiumoba: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] says Khotan installs Guangde after Xiumoba dies in the Shache conflict.
-- Marriage settlement: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|Hanji 735]] says Shache king Xian returns Guangde's detained father and marries a daughter to Guangde.
-- Shache attack: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] says Guangde leads thirty thousand troops against Shache, kills King Xian, and annexes the kingdom.
-- Xiongnu pressure and submission: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] says Xiongnu gathers Western Regions forces to surround Khotan and Guangde submits.
-- Succession manipulation: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|Hanji 736]] says Guangde later kills Bujuzheng and installs Qili as Shache king.
-- Xiongnu-supervised reception: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] says Khotan receives Ban Chao coldly under Xiongnu envoy supervision.
-- Submission to Han: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|Hanji 742]] says Guangde kills remaining Xiongnu envoys and submits after Ban Chao beheads the shaman and punishes Si Laibi.
+- Installation after Xiumoba: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] says Khotan installs Guangde after Xiumoba dies in the Shache conflict.
+- Marriage settlement: [[zizhi-tongjian-hanji-735-13-sui-rugong-zhongsheng-weiyu-tade-xianming-zhen-hanjian-lj2lyie73xk9fubebzwogd-w7hrq|汉纪 735]] says Shache king Xian returns Guangde's detained father and marries a daughter to Guangde.
+- Shache attack: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] says Guangde leads thirty thousand troops against Shache, kills King Xian, and annexes the kingdom.
+- Xiongnu pressure and submission: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] says Xiongnu gathers Western Regions forces to surround Khotan and Guangde submits.
+- Succession manipulation: [[zizhi-tongjian-hanji-736-shengzai-huangquan-xia-ta-pingshenme-neng-andu-wannian-lisegz1ia5najewghxaqirkafvup|汉纪 736]] says Guangde later kills Bujuzheng and installs Qili as Shache king.
+- Xiongnu-supervised reception: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]] says Khotan receives Ban Chao coldly under Xiongnu envoy supervision.
+- Submission to Han: [[zizhi-tongjian-hanji-742-banchao-chushi-xiyu-37-ren-da-sha-si-fang-ltutsinxtciar0tmpxkge0mnsnp1|汉纪 742]] says Guangde kills remaining Xiongnu envoys and submits after Ban Chao beheads the shaman and punishes Si Laibi.
 
 ## Qualifications
 
-This page is bounded to Hanji 735, Hanji 736, and Hanji 742. It does not reconstruct Guangde's full reign, exact relationship to later Khotan rulers, or the independent chronology of Xiumoba, Shache king Xian, Bujuzheng, and Qili. Hanji 735's Xiumoba and detained-father details remain source-scoped; Hanji 742's shaman and Si Laibi remain source-scoped participants rather than standalone pages.
+This page is bounded to 汉纪 735, 汉纪 736, and 汉纪 742. It does not reconstruct Guangde's full reign, exact relationship to later Khotan rulers, or the independent chronology of Xiumoba, Shache king Xian, Bujuzheng, and Qili. 汉纪 735's Xiumoba and detained-father details remain source-scoped; 汉纪 742's shaman and Si Laibi remain source-scoped participants rather than standalone pages.
 
 ## What Changed
 
-- Added Hanji 735 as Guangde's installation and Shache marriage-settlement layer.
-- Preserved Hanji 736 as Guangde's Shache conquest and dependent-ruler-control layer.
-- Preserved Hanji 742 as the Xiongnu-supervised reversal under Ban Chao pressure.
+- Added 汉纪 735 as Guangde's installation and Shache marriage-settlement layer.
+- Preserved 汉纪 736 as Guangde's Shache conquest and dependent-ruler-control layer.
+- Preserved 汉纪 742 as the Xiongnu-supervised reversal under Ban Chao pressure.
 
 ## Relationships
 

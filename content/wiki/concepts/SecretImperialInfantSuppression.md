@@ -15,9 +15,9 @@ last_updated: 2026-09-11
 
 ## Current Synthesis
 
-Hanji 571 defines the pattern through the reported case of [[CaoGongWesternHan|曹宫]]'s son by [[HanChengdi|汉成帝]]. Hanji 572 adds the reported case of [[XuMeirenWesternHan|徐美人]]'s child, whose body is allegedly moved through a sealed-box burial chain. The danger is not only physical harm to an infant; it is control over who may know whether a royal child exists, whether the child is male, whose child it is, and whether the imperial bloodline has an alternative continuation.
+汉纪 571 defines the pattern through the reported case of [[CaoGongWesternHan|曹宫]]'s son by [[HanChengdi|汉成帝]]. 汉纪 572 adds the reported case of [[XuMeirenWesternHan|徐美人]]'s child, whose body is allegedly moved through a sealed-box burial chain. The danger is not only physical harm to an infant; it is control over who may know whether a royal child exists, whether the child is male, whose child it is, and whether the imperial bloodline has an alternative continuation.
 
-The paired cases show secrecy working through multiple layers: handwritten orders, forbidden questions, confinement, custody transfer, forced death of the mother, removal of attendants, sealed boxes, restricted burial, and witness intimidation. Hanji 572 also shows a weakness in secrecy: [[JiWuWesternHan|纪武]] is explicitly told the box contains a child corpse, making him a witness to the very fact allegedly being hidden. Because later Hanji 573 treats the larger Zhao-sisters accusation as politically and evidentially unstable, this concept records the alleged mechanism without treating every responsibility claim as adjudicated.
+The paired cases show secrecy working through multiple layers: handwritten orders, forbidden questions, confinement, custody transfer, forced death of the mother, removal of attendants, sealed boxes, restricted burial, and witness intimidation. 汉纪 572 also shows a weakness in secrecy: [[JiWuWesternHan|纪武]] is explicitly told the box contains a child corpse, making him a witness to the very fact allegedly being hidden. Because later 汉纪 573 treats the larger Zhao-sisters accusation as politically and evidentially unstable, this concept records the alleged mechanism without treating every responsibility claim as adjudicated.
 
 ## Key Claims
 
@@ -31,23 +31,23 @@ The paired cases show secrecy working through multiple layers: handwritten order
 
 ## Evidence
 
-- Forbidden questions: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Chengdi's note forbids asking the infant's sex or parentage.
-- Confinement: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Cao Gong, the infant, and six attendants are jailed immediately after the birth.
-- Bloodline appeal: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Ji Wu memorializes that Chengdi has no son and should preserve the child regardless of the mother's rank.
-- Mother silenced: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Cao Gong is forced to take pills delivered with an imperial note and dies.
-- Witness removal: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says six attendants are told they cannot live despite being innocent and all hang themselves.
-- Final disappearance: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Li Nan takes the infant by edict on the eleventh day and the child is no longer accounted for.
-- Xu Meiren sealed-box chain: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Xu Meiren gives back a heavy box after receiving Chengdi's letter, and the box is later sealed and buried as a child corpse.
-- Witness leakage: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Ji Wu is told the box contains a child corpse, a detail the host treats as suspicious if the goal was total concealment.
-- Broader palace fear: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Wu Qiuzun claimed women who bore Chengdi children had been killed and many women drank medicine to abort pregnancies.
+- Forbidden questions: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Chengdi's note forbids asking the infant's sex or parentage.
+- Confinement: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Cao Gong, the infant, and six attendants are jailed immediately after the birth.
+- Bloodline appeal: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Ji Wu memorializes that Chengdi has no son and should preserve the child regardless of the mother's rank.
+- Mother silenced: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Cao Gong is forced to take pills delivered with an imperial note and dies.
+- Witness removal: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says six attendants are told they cannot live despite being innocent and all hang themselves.
+- Final disappearance: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Li Nan takes the infant by edict on the eleventh day and the child is no longer accounted for.
+- Xu Meiren sealed-box chain: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Xu Meiren gives back a heavy box after receiving Chengdi's letter, and the box is later sealed and buried as a child corpse.
+- Witness leakage: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Ji Wu is told the box contains a child corpse, a detail the host treats as suspicious if the goal was total concealment.
+- Broader palace fear: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Wu Qiuzun claimed women who bore Chengdi children had been killed and many women drank medicine to abort pregnancies.
 
 ## Counterevidence & Qualifications
 
-This concept is grounded in Hanji 571-572's reconstruction of Xie Guang's report, not in a completed legal finding about every actor's responsibility. Hanji 573 later warns that the larger Zhao Feiyan/Zhao Hede accusation relies heavily on testimony and may be politically useful. The concept therefore names the alleged mechanism of suppression while keeping Chengdi's exact action, Zhao Hede's role, the children's final fates, and the report's completeness source-scoped.
+This concept is grounded in 汉纪 571-572's reconstruction of Xie Guang's report, not in a completed legal finding about every actor's responsibility. 汉纪 573 later warns that the larger Zhao Feiyan/Zhao Hede accusation relies heavily on testimony and may be politically useful. The concept therefore names the alleged mechanism of suppression while keeping Chengdi's exact action, Zhao Hede's role, the children's final fates, and the report's completeness source-scoped.
 
 ## What Changed
 
-- Added Hanji 572's Xu Meiren sealed-box branch, including the child-corpse disclosure to Ji Wu and Wu Qiuzun's broader palace-fear testimony.
+- Added 汉纪 572's Xu Meiren sealed-box branch, including the child-corpse disclosure to Ji Wu and Wu Qiuzun's broader palace-fear testimony.
 
 ## Related Concepts
 

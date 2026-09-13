@@ -11,7 +11,7 @@ last_updated: 2026-08-22
 # 《资治通鉴·汉纪》150｜陈平为何被称之为成功政治家“样板”？（4）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[ChenPing|陈平]] "successful politician" sequence after [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|Hanji 150 part 3]]. It concentrates on concrete danger-management episodes: the [[BaidengEncirclement|白登之围]] stratagem, the [[FanKuai|樊哙]] execution order, and Chen Ping's deliberate low profile under [[LuZhi|吕雉]]. The source then turns Chen Ping into a philosophical contrast case, arguing that effective politics requires entering the dangerous field, preserving agency, acting when timing permits, and then holding achievement without final attachment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the [[ChenPing|陈平]] "successful politician" sequence after [[zizhi-tongjian-hanji-150-chenping-weihe-bei-cheng-zhiwei-chenggong-zhengzhijia-yangban-3-lhfbm3twyxhyvokphf8hc9ssblqj|汉纪 150 part 3]]. It concentrates on concrete danger-management episodes: the [[BaidengEncirclement|白登之围]] stratagem, the [[FanKuai|樊哙]] execution order, and Chen Ping's deliberate low profile under [[LuZhi|吕雉]]. The source then turns Chen Ping into a philosophical contrast case, arguing that effective politics requires entering the dangerous field, preserving agency, acting when timing permits, and then holding achievement without final attachment.
 
 ## Key Claims
 - At [[BaidengEncirclement|白登]], Chen Ping's answer to [[MaoDunChanyu|冒顿单于]]'s pressure is framed as [[CovertPoliticalTechnology|阴谋式政治技术]]: he does not overpower the Xiongnu army, but reaches the relationship channel where the chanyu's favored woman has a direct status interest.
@@ -40,4 +40,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 - [[ZhangLiang|张良]], [[XiaoHe|萧何]], [[HanXin|韩信]], [[FanLi|范蠡]], [[TaoYuanming|陶渊明]], and [[Confucius|孔子]] - comparison set used to distinguish practical political success from withdrawal, pure scholarship, or single-domain talent.
 
 ## Contradictions
-- No settled contradiction is recorded. This source corrects the previous local wording that Hanji 150 part 3 "completed" the Chen Ping sequence; part 3 is now treated as an earlier late-court-survival installment, while part 4 extends and reframes the same argument.
+- No settled contradiction is recorded. This source corrects the previous local wording that 汉纪 150 part 3 "completed" the Chen Ping sequence; part 3 is now treated as an earlier late-court-survival installment, while part 4 extends and reframes the same argument.

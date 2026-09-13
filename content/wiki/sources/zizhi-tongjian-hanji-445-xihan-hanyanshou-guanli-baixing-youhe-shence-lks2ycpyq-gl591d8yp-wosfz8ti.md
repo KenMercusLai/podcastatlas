@@ -16,7 +16,7 @@ last_updated: 2026-09-13
 
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode introduces [[HanYanshouWesternHan|韩延寿]] as a Western Han local official whose governing method combines ritual education, school building, local worthies, grassroots monitors, public administration, and personal moral pressure. It explains his famous "closed-door self-reproach" handling of a brothers' land dispute as both sincere self-cultivation and a calculated way to make officials, clans, and litigants internalize responsibility.
 
-The durable synthesis is that Han Yanshou's local order is not produced by punishment alone. The episode presents his method as a dense moral-administrative system: promote ritual, reward filial and fraternal households, keep local information flowing, make minor disorder visible early, and use the official's own reputation to shame conflict into resolution. That positive layer becomes important context for [[zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr|Hanji 446]], which asks whether the same method can become [[MoralPressureAdjudication|道德压力式审案]].
+The durable synthesis is that Han Yanshou's local order is not produced by punishment alone. The episode presents his method as a dense moral-administrative system: promote ritual, reward filial and fraternal households, keep local information flowing, make minor disorder visible early, and use the official's own reputation to shame conflict into resolution. That positive layer becomes important context for [[zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr|汉纪 446]], which asks whether the same method can become [[MoralPressureAdjudication|道德压力式审案]].
 
 ## Key Claims
 
@@ -37,7 +37,7 @@ The durable synthesis is that Han Yanshou's local order is not produced by punis
 ## Connections
 
 - [[HanYanshouWesternHan|韩延寿]] - the source adds the positive mechanics of his local governance before the later moral-pressure critique and death-case arc.
-- [[MoralPressureAdjudication|道德压力式审案]] - the brothers' land-dispute case supplies the concrete mechanism that Hanji 446 later critiques.
+- [[MoralPressureAdjudication|道德压力式审案]] - the brothers' land-dispute case supplies the concrete mechanism that 汉纪 446 later critiques.
 - [[HumaneLocalGovernance|仁厚地方治理]] - related because Han uses education, local trust, and early correction before ordinary coercive punishment, though his method is more shame-centered than many later humane-governance cases.
 - [[LiAsPoliticalOrder|礼制政治秩序]] - related because marriage, funeral, sacrifice, school, and archery rites are treated as instruments for making local social order legible.
 - [[GrassrootsOfficialNetwork|基层官吏网络政治资本]] - related because Han's local monitors and lower officials become an information and compliance network.
@@ -45,5 +45,5 @@ The durable synthesis is that Han Yanshou's local order is not produced by punis
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source complements [[zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr|Hanji 446]] by providing the constructive account of Han Yanshou's method before the follow-up episode criticizes its procedural risks.
+- No settled contradiction with existing wiki content was found. This source complements [[zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr|汉纪 446]] by providing the constructive account of Han Yanshou's method before the follow-up episode criticizes its procedural risks.
 - Scope caution: the episode treats Han Yanshou's self-reproach as sincere and strategically effective, but the original legal merits of the brothers' land dispute, exact local offices, and complete administrative record remain source-scoped.

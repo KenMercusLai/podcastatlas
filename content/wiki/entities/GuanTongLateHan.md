@@ -17,7 +17,7 @@ When rebellion spreads and Yuan Tan laments that Qingzhou has turned against him
 
 The episode uses Guan Tong less as an independent political designer than as evidence that Yuan Tan's situation is not a simple story of universal abandonment. The problem is that Yuan Tan's remaining loyalty cannot repair the succession split or replace a coherent alliance strategy.
 
-Hanji 1069 adds Guan Tong's later refusal to surrender after other Yuan Tan-held cities have submitted to Cao Cao. Cao Cao initially orders Wang Xiu to attack and kill him, but Wang Xiu captures and releases him from restraint, arguing that Guan Tong's behavior proves loyalty to the old lord. Cao Cao then pardons Guan Tong, turning a local holdout from a punishment target into evidence that the new order can honor old-lord duty.
+汉纪 1069 adds Guan Tong's later refusal to surrender after other Yuan Tan-held cities have submitted to Cao Cao. Cao Cao initially orders Wang Xiu to attack and kill him, but Wang Xiu captures and releases him from restraint, arguing that Guan Tong's behavior proves loyalty to the old lord. Cao Cao then pardons Guan Tong, turning a local holdout from a punishment target into evidence that the new order can honor old-lord duty.
 
 ## Key Characteristics
 - Loyal official who joins Yuan Tan during a defection crisis.
@@ -34,10 +34,10 @@ Hanji 1069 adds Guan Tong's later refusal to surrender after other Yuan Tan-held
 - Pardon through Wang Xiu: [[zizhi-tongjian-hanji-1069-chenlin-taocao-xiwen-mingzhen-tianxia-weihe-zuizhong-touxiang-caocao-lh9uzrzkgcaz45h-winquox-7jxf|汉纪1069]] has Wang Xiu present Guan Tong as loyal rather than merely rebellious, after which Cao Cao spares him.
 
 ## Qualifications
-This page is limited to the episodes' portrayal of Guan Tong as a loyalty case. It does not yet establish whether the office details or later career are corroborated elsewhere in the wiki. Hanji 1069's pardon scene is treated as a concrete post-defeat settlement case, while the host's motive reading remains source-scoped.
+This page is limited to the episodes' portrayal of Guan Tong as a loyalty case. It does not yet establish whether the office details or later career are corroborated elsewhere in the wiki. 汉纪 1069's pardon scene is treated as a concrete post-defeat settlement case, while the host's motive reading remains source-scoped.
 
 ## What Changed
-- Added Hanji 1069's final holdout and Cao-side pardon sequence.
+- Added 汉纪 1069's final holdout and Cao-side pardon sequence.
 - Reframed Guan Tong as a loyalty signal that survives beyond Yuan Tan's defeat.
 
 ## Relationships

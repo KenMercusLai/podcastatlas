@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Wang Mang's first regency year in 6 CE between the child-heir setup in [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|Hanji 628]] and the later seal/accession sequence in [[zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais|Hanji 633]] and [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]]. It follows [[WangMang|王莽]] installing [[RuziYing|孺子婴 / 刘婴]] as crown prince, creating archaizing assistant offices, and then turning [[LiuChongAnzhongMarquis|安众侯刘崇]] and [[ZhangShaoFengguoChancellor|张绍]]'s failed attack on Wan into a pretext for "假皇帝" status.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Wang Mang's first regency year in 6 CE between the child-heir setup in [[zizhi-tongjian-hanji-628-ruguo-chuanyue-jiao-ni-ruhe-dang-huangdi-lljocpgp247g7frbrkta39zrtlc|汉纪 628]] and the later seal/accession sequence in [[zizhi-tongjian-hanji-633-nuza-chuanguo-yuxi-ta-jing-ruci-ganglie-lnmnwbk28ayllz5fip1a1kzm1ais|汉纪 633]] and [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]]. It follows [[WangMang|王莽]] installing [[RuziYing|孺子婴 / 刘婴]] as crown prince, creating archaizing assistant offices, and then turning [[LiuChongAnzhongMarquis|安众侯刘崇]] and [[ZhangShaoFengguoChancellor|张绍]]'s failed attack on Wan into a pretext for "假皇帝" status.
 
 The durable synthesis is that early anti-Wang Mang resistance appears first as a weak but symbolically important royal rising, while the court around Wang Mang turns both rebellion and loyal denunciation into tools of title inflation. [[ZhangSongXinPetitioner|张竦]] and [[LiuJiaShuailiHou|刘嘉]] survive by denouncing Liu Chong and praising Wang Mang, while ministers argue that the rebellion proves Wang Mang's authority is too small. The episode therefore links [[FirstAntiWangMangRising|刘氏反莽第一枪]], [[PetitionRewardLoyaltySignal|巧奏取封式忠诚信号]], and [[RebellionJustifiedPowerExpansion|以叛乱反证加权]] before later Xin institutional consolidation.
 
@@ -49,6 +49,6 @@ The durable synthesis is that early anti-Wang Mang resistance appears first as a
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 6 CE material after Hanji 628's 5 CE Pingdi succession opening and before Hanji 633-634's 8-9 CE formal accession sequence.
+- Chronology qualification: this source backfills 6 CE material after 汉纪 628's 5 CE Pingdi succession opening and before 汉纪 633-634's 8-9 CE formal accession sequence.
 - Identity qualification: [[LiuJiaShuailiHou|刘嘉]] here is a late-Western-Han Liu royal relative and is distinct from [[LiuJia|刘贾]] the Chu-Han figure and [[LiuJiaHanzhongKingEasternHan|汉中王刘嘉]]; [[ZhangShaoFengguoChancellor|张绍]] is distinct from modern [[ZhangShaofeng]].
 - Scope caution: Zhen Han, the Four Minor officials, Pang Tian, Fu Fan, Cheng Yong, Dou Kuang, exact Wan operational details, and Wang Mang's inner motive remain source-scoped unless later notes require standalone pages.

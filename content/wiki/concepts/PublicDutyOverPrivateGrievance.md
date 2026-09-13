@@ -17,9 +17,9 @@ Public duty over private grievance is the leadership discipline of refusing to l
 
 ## Current Synthesis
 
-The concept now has two complementary cases. In [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]], [[GaiXunLateHan|盖勋]] dislikes Su Zhenghe but still stops an illegal attempt to murder him, rejects Su's gratitude as factional misunderstanding, and later risks himself to rescue Zuo Chang and Xin Zeng despite being injured by their corruption.
+The concept now has two complementary cases. In [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]], [[GaiXunLateHan|盖勋]] dislikes Su Zhenghe but still stops an illegal attempt to murder him, rejects Su's gratitude as factional misunderstanding, and later risks himself to rescue Zuo Chang and Xin Zeng despite being injured by their corruption.
 
-In [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]], [[LiYiEasternHan|李毅]] slanders [[BanChaoEasternHan|班超]] to [[EmperorZhangOfHan|汉章帝]], yet Ban Chao sends Li Yi back with the Wusun hostage prince rather than keep him for private satisfaction. His explanation makes the principle explicit: because Li Yi had slandered him, using public command to indulge revenge would not be loyal minister conduct.
+In [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]], [[LiYiEasternHan|李毅]] slanders [[BanChaoEasternHan|班超]] to [[EmperorZhangOfHan|汉章帝]], yet Ban Chao sends Li Yi back with the Wusun hostage prince rather than keep him for private satisfaction. His explanation makes the principle explicit: because Li Yi had slandered him, using public command to indulge revenge would not be loyal minister conduct.
 
 ## Key Claims
 
@@ -32,11 +32,11 @@ In [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonh
 
 ## Evidence
 
-- Protecting a disliked person from unlawful killing: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] shows Gai Xun stopping planned revenge against Su Zhenghe even though he personally detests Su.
-- Refusing gratitude as factional capture: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] has Gai Xun reject Su's thanks and explain that he acted for policy and justice, not friendship.
-- Rescuing corrupt colleagues despite injury: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] records Gai Xun risking himself to rescue Zuo Chang and Xin Zeng while still condemning their misrule.
-- Refusing revenge against a slanderer: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] records Ban Chao sending Li Yi back because Li Yi had slandered him, not despite that fact.
-- Ministerial-duty boundary: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|Hanji 753]] makes Ban Chao's standard explicit: keeping Li Yi to satisfy himself would not be loyal minister conduct.
+- Protecting a disliked person from unlawful killing: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]] shows Gai Xun stopping planned revenge against Su Zhenghe even though he personally detests Su.
+- Refusing gratitude as factional capture: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]] has Gai Xun reject Su's thanks and explain that he acted for policy and justice, not friendship.
+- Rescuing corrupt colleagues despite injury: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]] records Gai Xun risking himself to rescue Zuo Chang and Xin Zeng while still condemning their misrule.
+- Refusing revenge against a slanderer: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] records Ban Chao sending Li Yi back because Li Yi had slandered him, not despite that fact.
+- Ministerial-duty boundary: [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonhzv|汉纪 753]] makes Ban Chao's standard explicit: keeping Li Yi to satisfy himself would not be loyal minister conduct.
 
 ## Counterevidence & Qualifications
 
@@ -48,7 +48,7 @@ In [[zizhi-tongjian-hanji-753-banchao-beigao-heizhuang-lt-sksxrz30sawit81eqbeonh
 ## What Changed
 
 - Migrated the page to the synthesis-v1 concept schema.
-- Added Ban Chao's Hanji 753 handling of Li Yi as a second case.
+- Added Ban Chao's 汉纪 753 handling of Li Yi as a second case.
 - Refined the concept from general "对事不对人" into the narrower question of using public power without serving private resentment.
 - Distinguished non-retaliation from reconciliation or innocence-finding.
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] supplies the current case. [[LiuChongAnzhongMarquis|安众侯刘崇]] and [[ZhangShaoFengguoChancellor|张绍]] judge that [[WangMang|王莽]] will harm the Liu house and that broader resentment exists but lacks a leader. They therefore attack Wan with only about one hundred people.
+[[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] supplies the current case. [[LiuChongAnzhongMarquis|安众侯刘崇]] and [[ZhangShaoFengguoChancellor|张绍]] judge that [[WangMang|王莽]] will harm the Liu house and that broader resentment exists but lacks a leader. They therefore attack Wan with only about one hundred people.
 
 The action fails immediately, so the concept is not about successful insurgency. Its analytic value is the gap between practical weakness and symbolic force: a Liu royal first mover proves that opposition can be named, but the absence of soldiers, weapons, and organization lets Wang Mang's side contain the action and then use it for its own purposes.
 
@@ -28,10 +28,10 @@ The action fails immediately, so the concept is not about successful insurgency.
 
 ## Evidence
 
-- Dynastic threat judgment: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says Liu Chong and Zhang Shao believe Wang Mang will harm the Liu family.
-- First-mover theory: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says they think many people oppose Wang Mang but no one dares lead.
-- Operational weakness: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] says the group has about one hundred followers and fails before entering Wan.
-- Symbolic naming: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|Hanji 629]] still treats Liu Chong as the first person to stand against Wang Mang.
+- Dynastic threat judgment: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says Liu Chong and Zhang Shao believe Wang Mang will harm the Liu family.
+- First-mover theory: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says they think many people oppose Wang Mang but no one dares lead.
+- Operational weakness: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] says the group has about one hundred followers and fails before entering Wan.
+- Symbolic naming: [[zizhi-tongjian-hanji-629-liujiaren-shui-kangqi-fankang-wangmang-de-daqi-lmhws7-jptdh9tf45bqtlfvzdw55|汉纪 629]] still treats Liu Chong as the first person to stand against Wang Mang.
 
 ## Counterevidence & Qualifications
 
@@ -39,7 +39,7 @@ The source does not prove that Liu Chong's action directly caused later uprising
 
 ## What Changed
 
-- Created from Hanji 629 as a narrow concept for Liu Chong's failed but symbolically important anti-Wang Mang action.
+- Created from 汉纪 629 as a narrow concept for Liu Chong's failed but symbolically important anti-Wang Mang action.
 
 ## Related Concepts
 

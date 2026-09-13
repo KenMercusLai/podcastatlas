@@ -9,10 +9,10 @@ last_updated: 2026-09-01
 ---
 
 ## Overview
-周党 / Zhou Dang is an early Eastern Han recluse whose current wiki profile comes from [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]]. He appears at Liu Xiu's Luoyang court as a nonconforming summoned man: he performs limited respect, refuses full court compliance, asks to return to the mountains, draws Fan Sheng's criticism, and is released with gifts rather than punished.
+周党 / Zhou Dang is an early Eastern Han recluse whose current wiki profile comes from [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]]. He appears at Liu Xiu's Luoyang court as a nonconforming summoned man: he performs limited respect, refuses full court compliance, asks to return to the mountains, draws Fan Sheng's criticism, and is released with gifts rather than punished.
 
 ## Current Profile
-Hanji 699 places Zhou Dang in Liu Xiu's wider effort to summon recluses and morally reputed men. Zhou Dang comes to Luoyang but does not make himself fully legible as a normal court subject; the episode emphasizes his unwillingness to perform the expected full submission protocol and his request to return to seclusion.
+汉纪 699 places Zhou Dang in Liu Xiu's wider effort to summon recluses and morally reputed men. Zhou Dang comes to Luoyang but does not make himself fully legible as a normal court subject; the episode emphasizes his unwillingness to perform the expected full submission protocol and his request to return to seclusion.
 
 Fan Sheng attacks Zhou Dang, Wang Liang, Wang Cheng, and similar figures as people using name and eccentric refusal to avoid public duty. Liu Xiu does not accept that critique as a reason for coercion. He invokes the idea that sage kings have had non-submitting men, leaves Zhou Dang unpunished, gives him silk and carriage support, and lets him return.
 
@@ -26,15 +26,15 @@ Zhou Dang therefore functions less as a policy adviser than as a ruler-side legi
 - Evidence point for distinguishing withdrawal from punishable disloyalty.
 
 ## Evidence
-- Summons and nonconformity: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Zhou Dang comes to Luoyang after Liu Xiu seeks recluses, but refuses full court compliance and asks to return to the mountains.
-- Public criticism: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Fan Sheng criticizes Zhou Dang and similar figures for empty fame and insufficient public service.
-- Ruler tolerance: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] says Liu Xiu does not punish Zhou Dang, gives him gifts, and lets him return.
+- Summons and nonconformity: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] says Zhou Dang comes to Luoyang after Liu Xiu seeks recluses, but refuses full court compliance and asks to return to the mountains.
+- Public criticism: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] says Fan Sheng criticizes Zhou Dang and similar figures for empty fame and insufficient public service.
+- Ruler tolerance: [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] says Liu Xiu does not punish Zhou Dang, gives him gifts, and lets him return.
 
 ## Qualifications
 This page is a one-source bounded profile. It does not reconstruct Zhou Dang's family, scholarship, later life, or the full wording of his court exchange. Fan Sheng's criticism is evidence of a live court dispute over reclusive reputation, not proof that Zhou Dang was a false recluse.
 
 ## What Changed
-- Created Zhou Dang as the Hanji 699 nonconforming recluse case under Liu Xiu.
+- Created Zhou Dang as the 汉纪 699 nonconforming recluse case under Liu Xiu.
 - Framed the episode as a ruler-side tolerance test rather than a full Zhou Dang biography.
 
 ## Relationships

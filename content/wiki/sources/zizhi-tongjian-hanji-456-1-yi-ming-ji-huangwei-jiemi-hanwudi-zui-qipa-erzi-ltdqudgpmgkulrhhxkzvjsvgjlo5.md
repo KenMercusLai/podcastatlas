@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a late-[[EmperorXuanOfHan|汉宣帝]] layer immediately before the Hanji 457-466 sequence. It centers on [[LiuXuGuanglingKingWesternHan|广陵王刘须]], a son of [[HanWudi|汉武帝]] whose imperial ambition turns into repeated witchcraft curses against Liu Fuling, Liu He, and Xuan, and whose final exposure leads to witness killing and suicide.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills a late-[[EmperorXuanOfHan|汉宣帝]] layer immediately before the 汉纪 457-466 sequence. It centers on [[LiuXuGuanglingKingWesternHan|广陵王刘须]], a son of [[HanWudi|汉武帝]] whose imperial ambition turns into repeated witchcraft curses against Liu Fuling, Liu He, and Xuan, and whose final exposure leads to witness killing and suicide.
 
 The second half connects the same period to state order beyond royal scandal: [[HuhanyeChanyuWesternHan|呼韩邪单于]] submits and sends a hostage, frontier garrisons can be reduced, and [[GengShouchangWesternHan|耿寿昌]] proposes both cheaper regional grain procurement and [[ChangpingGranarySystem|长平仓制度]] to stabilize grain prices and prepare for scarcity.
 
@@ -38,7 +38,7 @@ The second half connects the same period to state order beyond royal scandal: [[
 
 - [[LiuXuGuanglingKingWesternHan|广陵王刘须]] and [[RoyalWitchcraftSuccessionDelusion|宗室巫术夺位幻想]] - the source's main royal-kin case, where ambition, fear, superstition, and later resentment produce a self-destroying treason path.
 - [[EmperorXuanOfHan|汉宣帝]] and [[WesternHanDynasty|西汉]] - Xuan appears as both a tolerant ruler toward Liu Xu's earlier exposure and the ruler under whom the final investigation and pardon of Liu Xu's sons occur.
-- [[HuhanyeChanyuWesternHan|呼韩邪单于]], [[Xiongnu|匈奴]], and [[WesternHanDynasty|西汉]] - the episode supplies an early submission-and-hostage note that leads into later Hanji 460, 462, and 463 frontier-diplomacy pages.
+- [[HuhanyeChanyuWesternHan|呼韩邪单于]], [[Xiongnu|匈奴]], and [[WesternHanDynasty|西汉]] - the episode supplies an early submission-and-hostage note that leads into later 汉纪 460, 462, and 463 frontier-diplomacy pages.
 - [[GengShouchangWesternHan|耿寿昌]], [[ChangpingGranarySystem|长平仓制度]], [[PriceSignalResourceSteering|价格信号与资源调度]], and [[StateGrainPriceStabilization|国家粮价平准]] - the economic-policy branch links procurement logistics, public grain reserves, and countercyclical price intervention.
 - [[LiKe|李悝 / 李克]], [[FanLi|范蠡]], [[GuanZhong|管仲]], [[GuanziText|《管子》]], and Han Wudi-era equalization ideas - the episode places Changping granaries within a longer policy lineage while leaving detailed intellectual genealogy source-scoped.
 - [[CelestialOmenPoliticalResponsibility|天象政治责任]] - the closing solar-eclipse notice remains a compact chronicle marker rather than a developed omen case in this source.

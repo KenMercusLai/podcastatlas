@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[WangMang|王莽]]'s Tianfeng 3-4 / 16-17 CE crisis between [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|Hanji 650]] and [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|Hanji 653]]. It centers on [[WangSunqingXinRebel|王孙卿]]'s punitive dissection after the [[ZhaiYiRebellion|翟义起义]], then moves through [[WesternRegionsProtectorate|西域都护府]] failure, [[YanqiKingdomXin|焉耆国]]'s ambush of [[WangJunXinGeneral|王骏]], [[GuoQingXinGeneral|郭清]]'s retaliatory slaughter, symbolic封土授茅, and Wang Mang's "威斗" ritual intimidation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills [[WangMang|王莽]]'s Tianfeng 3-4 / 16-17 CE crisis between [[zizhi-tongjian-hanji-650-gudai-laozuzong-ye-hui-bei-kou-jixiao-gongzi-lr77fw1gojgqrhah1ij6u25vtxaz|汉纪 650]] and [[zizhi-tongjian-hanji-653-ba-shehuizhuyi-daihui-gudai-wangmang-youduo-shen-lo7fqi-zlujpd3cymg7uxsujy4yk|汉纪 653]]. It centers on [[WangSunqingXinRebel|王孙卿]]'s punitive dissection after the [[ZhaiYiRebellion|翟义起义]], then moves through [[WesternRegionsProtectorate|西域都护府]] failure, [[YanqiKingdomXin|焉耆国]]'s ambush of [[WangJunXinGeneral|王骏]], [[GuoQingXinGeneral|郭清]]'s retaliatory slaughter, symbolic封土授茅, and Wang Mang's "威斗" ritual intimidation.
 
 The durable synthesis is that Wang Mang's late-Xin political style was already combining medicalized spectacle, retaliatory terror, unsupported frontier command, empty ritual reward, and celestial-symbolic intimidation before the later 五均六管, succession, famine, and rebel-collapse notes. The source explicitly cautions that possible live dissection is only a conjecture; the stronger claim is that the anatomical language does not make the event scientific in a modern ethical sense, because it also functions as revenge and a warning to living opponents.
 
@@ -48,6 +48,6 @@ The durable synthesis is that Wang Mang's late-Xin political style was already c
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 16-17 CE, after Hanji 650's 15-16 CE administrative-fiscal layer and before Hanji 653's focused 17 CE 五均六管 layer.
+- Chronology qualification: this source backfills 16-17 CE, after 汉纪 650's 15-16 CE administrative-fiscal layer and before 汉纪 653's focused 17 CE 五均六管 layer.
 - Evidence qualification: the episode says some readers infer Wang Sunqing may have been dissected alive, but it explicitly treats that as unconfirmed conjecture.
 - Scope caution: exact medical procedure, Wang Sunqing's capture details, Wang Jun's full route, Western Regions polity names, Guo Qing's title mechanics, and Wang Mang's inner belief in威斗 remain source-scoped unless later notes require expansion.

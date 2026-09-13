@@ -50,6 +50,6 @@ The durable synthesis is that Ban Zhao's current wiki profile should not collaps
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The source largely backfills and consolidates Ban Zhao material already split across Hanji 767, Hanji 774, Hanji 775, and Hanji 785.
+- No settled contradiction with existing wiki pages was found. The source largely backfills and consolidates Ban Zhao material already split across 汉纪 767, 汉纪 774, 汉纪 775, and 汉纪 785.
 - Scope caution: the claims that the Anxi bird was the first live ostrich to enter China, that Ban Zhao was China's first female teacher, that no officials or commoners objected to her political participation, and that `Nujie` directly functioned as a male-oppression manifesto are preserved as source-scoped claims rather than independently settled comparative history.
 - Chronology caution: the episode ranges from 101 CE to Ban Zhao's reported death in 120 CE, so the wiki treats it as a topical Ban Zhao synthesis source rather than one annal year.

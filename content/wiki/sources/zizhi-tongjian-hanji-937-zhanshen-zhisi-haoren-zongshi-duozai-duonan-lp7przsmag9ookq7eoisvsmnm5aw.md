@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 187 CE Liangzhou collapse immediately before [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]]. It follows [[HanSui|韩遂]]'s absorption of [[BianZhangLateHan|边章]], [[BeigongBoyuLateHan|北宫伯玉]], and [[LiWenhouLateHan|李文侯]], [[GengBiLateHan|耿鄙]]'s failed expedition after trusting [[ChengQiu|程球]] and ignoring [[FuXie|傅燮]], and Fu Xie's final refusal to abandon [[HanyangCommanderyLateHan|汉阳郡]] before [[HuangYanLateHan|黄衍]]'s surrender mission and Fu Xie's death.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 187 CE Liangzhou collapse immediately before [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|汉纪 938]]. It follows [[HanSui|韩遂]]'s absorption of [[BianZhangLateHan|边章]], [[BeigongBoyuLateHan|北宫伯玉]], and [[LiWenhouLateHan|李文侯]], [[GengBiLateHan|耿鄙]]'s failed expedition after trusting [[ChengQiu|程球]] and ignoring [[FuXie|傅燮]], and Fu Xie's final refusal to abandon [[HanyangCommanderyLateHan|汉阳郡]] before [[HuangYanLateHan|黄衍]]'s surrender mission and Fu Xie's death.
 
 ## Key Claims
 
@@ -48,6 +48,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This episode narrows the 187 CE pre-Hanji 938 layer by explaining how Geng Bi's expedition collapses before Ma Teng, Han Sui, and Wang Guo appear as the later rebel coalition.
+- No settled contradiction with existing wiki pages was found. This episode narrows the 187 CE pre-汉纪 938 layer by explaining how Geng Bi's expedition collapses before Ma Teng, Han Sui, and Wang Guo appear as the later rebel coalition.
 - Source-scope caution: the episode follows Zizhi Tongjian in saying [[HanSui|韩遂]] killed [[BianZhangLateHan|边章]], while noting that another tradition has Bian Zhang die of illness.
 - Source-scope caution: the episode's statement that [[FuGan|傅干]] later became a major historian is preserved as a source claim rather than generalized beyond this page.

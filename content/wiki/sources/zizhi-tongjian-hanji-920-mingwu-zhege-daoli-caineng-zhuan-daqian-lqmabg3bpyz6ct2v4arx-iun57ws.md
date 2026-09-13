@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》920丨明悟这个道理，才能赚大钱
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 181 CE immediately before [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|Hanji 921]]. It opens with [[WealthThroughDaoFrame|求财先明道]], then follows [[EmperorLingOfHan|汉灵帝]]'s court through horse-procurement price cornering, the [[JiaozhiCommandery|交趾郡]] rebellion suppressed by [[ZhuJunLateHan|朱儁]], disaster and office churn, [[Xianbei|鲜卑]] succession weakness, palace-market play, and the public/private treasury problem that the next episode develops.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 181 CE immediately before [[zizhi-tongjian-hanji-921-jinqian-ru-shui-que-ze-ke-si-tan-ze-yan-si-lj1dk4qdgcago9elr7ctuvre3zic|汉纪 921]]. It opens with [[WealthThroughDaoFrame|求财先明道]], then follows [[EmperorLingOfHan|汉灵帝]]'s court through horse-procurement price cornering, the [[JiaozhiCommandery|交趾郡]] rebellion suppressed by [[ZhuJunLateHan|朱儁]], disaster and office churn, [[Xianbei|鲜卑]] succession weakness, palace-market play, and the public/private treasury problem that the next episode develops.
 
 ## Key Claims
 - The wealth opening is source-scoped: the host says lack of money is really lack of "Dao", meaning failure to see rules, trends, value, human feeling, humility, learning, and moral limits.
@@ -35,13 +35,13 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 1
 ## Connections
 - [[EmperorLingOfHan|汉灵帝]], [[PalaceMarketTheater|宫市游乐式权力错位]], [[ImperialPrivateTreasuryExtraction|帝王私库进奉盘剥]], and [[UntimelyExtravagance|时绌举赢]] — palace commerce, private treasury logic, and visible pleasure become one late-Han responsibility failure.
 - [[ProcurementSignalPriceCornering|征发信号价格垄断]], [[MarketSpeculation|Market Speculation]], and [[MarketCoordination|Market Coordination]] — the horse-price branch shows market information being captured by local power rather than producing clean coordination.
-- [[JiaozhiCommandery|交趾郡]], [[WuhuManJiaozhi|乌浒蛮]], [[LiangLongLateHan|梁龙]], and [[ZhuJunLateHan|朱儁]] — 181 CE southern rebellion and suppression before Hanji 927's later root-cause pacification case.
+- [[JiaozhiCommandery|交趾郡]], [[WuhuManJiaozhi|乌浒蛮]], [[LiangLongLateHan|梁龙]], and [[ZhuJunLateHan|朱儁]] — 181 CE southern rebellion and suppression before 汉纪 927's later root-cause pacification case.
 - [[Xianbei|鲜卑]], [[TanshihuaiXianbei|檀石槐]], [[HeLianXianbei|和连]], [[KuitouXianbei|魁头]], [[YouzhouLateHan|幽州]], and [[BingzhouLateHan|并州]] — frontier incursion and succession fragmentation.
 - [[FanLi|范蠡]], [[Laozi|老子]], [[WealthThroughDaoFrame|求财先明道]], and [[CognitionAsFortuneRoot|认知通达决定福禄]] — the episode's wealth-and-cognition opening.
 - [[YangCiLateHan|杨赐]], [[ChenDanLateHan|陈耽]], and [[LuoyangLateHan|洛阳]] — office turnover and capital-disaster setting.
 - [[QianlongEmperor|乾隆]] — later palace buy/sell street comparison used to show that royal market play recurs beyond Han Lingdi.
 
 ## Contradictions
-- No settled contradiction found. The episode backfills 181 CE before Hanji 921 rather than replacing the later private-treasury sequence.
+- No settled contradiction found. The episode backfills 181 CE before 汉纪 921 rather than replacing the later private-treasury sequence.
 - Transcript cautions: "朱骏" is normalized to [[ZhuJunLateHan|朱儁]], "乌虎蛮" to [[WuhuManJiaozhi|乌浒蛮]], "谭世桓" to [[TanshihuaiXianbei|檀石槐]], "何莲" to [[HeLianXianbei|和连]], and "葵头" to [[KuitouXianbei|魁头]] because the surrounding sequence matches the known late-Han Xianbei and Jiaozhi branches.
 - The source's references to Sima Yu, Liu Yifu, Tang Zhongzong, Ming imperial shops, and Xu Yu are kept source-scoped rather than expanded into canonical pages in this ingest.

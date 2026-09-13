@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate Chang'an crisis before [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]]. It moves from a [[JinPingMei|《金瓶梅》]] opening about beauty, capital, and self-protection into the 192 CE collapse after [[DongZhuo|董卓]]'s death: [[JiaXu|贾诩]]'s advice sends [[LiJueLateHan|李傕]] and allied remnant commanders toward [[ChangAnHanCapital|长安]], while [[WangYunLateHan|王允]] and [[SongYiLateHan|宋翼]] fail to convert loyalty into crisis judgment. The episode's core contribution is the negative counterpart to Hanji 967's survival craft: public virtue, formal obedience, and righteous language can become fatal when actors misread coercive power, title capture, and the real options still available.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate Chang'an crisis before [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|汉纪 967]]. It moves from a [[JinPingMei|《金瓶梅》]] opening about beauty, capital, and self-protection into the 192 CE collapse after [[DongZhuo|董卓]]'s death: [[JiaXu|贾诩]]'s advice sends [[LiJueLateHan|李傕]] and allied remnant commanders toward [[ChangAnHanCapital|长安]], while [[WangYunLateHan|王允]] and [[SongYiLateHan|宋翼]] fail to convert loyalty into crisis judgment. The episode's core contribution is the negative counterpart to 汉纪 967's survival craft: public virtue, formal obedience, and righteous language can become fatal when actors misread coercive power, title capture, and the real options still available.
 
 ## Key Claims
 
@@ -38,7 +38,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|Hanji 967]] - continues the aftermath through [[ShiSunRuiLateHan|士孙瑞]]'s hidden merit, Jia Xu's reward refusal, and Lü Bu's host-switching.
+- [[zizhi-tongjian-hanji-967-ta-canyu-mousha-dongzhuo-jingneng-taoguo-sishen-weilie-lv24biyswj9ljdld5htynhauhph3|汉纪 967]] - continues the aftermath through [[ShiSunRuiLateHan|士孙瑞]]'s hidden merit, Jia Xu's reward refusal, and Lü Bu's host-switching.
 - [[JiaXu|贾诩]] and [[ExecutorCharacterAdviceRisk]] - survival advice whose success depends on violent executors.
 - [[WangYunLateHan|王允]], [[HuangWanLateHan|黄琬]], [[SongYiLateHan|宋翼]], and [[WangHongLateHan|王宏]] - anti-Dong-Zhuo and post-crisis officials exposed by the Li-Guo return.
 - [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[FanChouLateHan|樊稠]], and [[LiangzhouWarlordClique|凉州系军阀]] - remnant commanders converting danger into control of Chang'an.
@@ -47,6 +47,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction found. The episode backfills the crisis immediately before Hanji 967 and supports that page's later framing of Jia Xu, Shi Sunrui, Wang Yun, and Lü Bu.
+- No settled contradiction found. The episode backfills the crisis immediately before 汉纪 967 and supports that page's later framing of Jia Xu, Shi Sunrui, Wang Yun, and Lü Bu.
 - Source-scope caution: the host's psychological judgments about Wang Yun's arrogance and Song Yi's rigidity are preserved as episode interpretation; the grounded claim is that their decisions removed available leverage and preceded executions.
 - Source-scope caution: the opening [[JinPingMei|《金瓶梅》]] comparison is thematic framing rather than a historical claim about the late-Han sequence.

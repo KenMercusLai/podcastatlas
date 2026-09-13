@@ -13,11 +13,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-段小姐 is the romantic and sacrificial counterpart to [[ChenXuanzangConqueringDemons|陈玄奘]] in the [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] rereadings recorded by Hanji 456-4 and [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq|Hanji 456-5]].
+段小姐 is the romantic and sacrificial counterpart to [[ChenXuanzangConqueringDemons|陈玄奘]] in the [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] rereadings recorded by 汉纪 456-4 and [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq|汉纪 456-5]].
 
 ## Current Profile
 
-The episodes treat Duan Miss as more than a love interest. Her force, humor, ring, desire for marriage, moonlit self-offering, demand that Chen admit love, and death all push the protagonist from abstract compassion into embodied pain. Hanji 456-5 also makes her the visible form of 情缘: a worldly affinity that Chen must acknowledge, rely on, and ultimately release rather than merely reject.
+The episodes treat Duan Miss as more than a love interest. Her force, humor, ring, desire for marriage, moonlit self-offering, demand that Chen admit love, and death all push the protagonist from abstract compassion into embodied pain. 汉纪 456-5 also makes her the visible form of 情缘: a worldly affinity that Chen must acknowledge, rely on, and ultimately release rather than merely reject.
 
 ## Key Characteristics
 
@@ -41,7 +41,7 @@ This is a symbolic profile from one episode's film interpretation, not a full pr
 
 ## What Changed
 
-- Added Hanji 456-5's emphasis on Duan Miss as 情缘, not only romantic counterpart.
+- Added 汉纪 456-5's emphasis on Duan Miss as 情缘, not only romantic counterpart.
 
 ## Relationships
 

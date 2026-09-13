@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 郝萌 / Hao Meng
 
-郝萌 / Hao Meng enters the wiki through [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] as the [[LyuBu|吕布]] subordinate who launches a night revolt at [[Xiapi|下邳]] in 196 CE. The attack reaches Lü Bu's headquarters and forces Lü Bu to flee with his wife to [[GaoShun|高顺]], but it does not break the inner defenses.
+郝萌 / Hao Meng enters the wiki through [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|汉纪 1000]] as the [[LyuBu|吕布]] subordinate who launches a night revolt at [[Xiapi|下邳]] in 196 CE. The attack reaches Lü Bu's headquarters and forces Lü Bu to flee with his wife to [[GaoShun|高顺]], but it does not break the inner defenses.
 
 The source makes Hao Meng's revolt important less as an independent biography than as a stress test of Lü Bu's organization. Gao Shun identifies him from the rebels' Henei accent, breaks the force, and then kills Hao Meng after [[CaoXingLateHan|曹性]] turns against him in combat.
 

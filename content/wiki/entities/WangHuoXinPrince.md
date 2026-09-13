@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-Wang Huo / 王获 enters the wiki through [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] as one of [[WangMang|王莽]] and [[EmpressXiaomuXin|孝睦皇后]]'s sons whose coerced death helps define the household cost of Xin legitimacy politics.
+Wang Huo / 王获 enters the wiki through [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] as one of [[WangMang|王莽]] and [[EmpressXiaomuXin|孝睦皇后]]'s sons whose coerced death helps define the household cost of Xin legitimacy politics.
 
 ## Current Profile
 
@@ -20,25 +20,25 @@ Wang Huo matters less as an independent political actor than as evidence of a ru
 
 ## Key Characteristics
 
-- Second son of Wang Mang in Hanji 634's household accounting.
+- Second son of Wang Mang in 汉纪 634's household accounting.
 - Son whose death is attributed to Wang Mang's coercion.
 - Part of the grief chain that leaves Empress Xiaomu mentally and physically broken.
 - Early succession-loss signal before later Wang Lin, Wang An, and private-son episodes.
 
 ## Evidence
 
-- Family position: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] identifies Wang Huo as Wang Mang's second son.
-- Coerced death: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Mang forced Wang Huo to kill himself.
-- Maternal consequence: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Empress Xiaomu's mental collapse begins after Wang Huo's death.
-- Succession context: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] places Wang Huo's death before Wang Mang skips Wang An and favors Wang Lin.
+- Family position: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] identifies Wang Huo as Wang Mang's second son.
+- Coerced death: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] says Wang Mang forced Wang Huo to kill himself.
+- Maternal consequence: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] says Empress Xiaomu's mental collapse begins after Wang Huo's death.
+- Succession context: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] places Wang Huo's death before Wang Mang skips Wang An and favors Wang Lin.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 634. The episode does not provide Wang Huo's full biography, offense, office, exact death date, or independent political agency.
+This page is source-scoped to 汉纪 634. The episode does not provide Wang Huo's full biography, offense, office, exact death date, or independent political agency.
 
 ## What Changed
 
-- Created Wang Huo as a disambiguated Xin household page for Hanji 634's early family-tragedy layer.
+- Created Wang Huo as a disambiguated Xin household page for 汉纪 634's early family-tragedy layer.
 
 ## Relationships
 

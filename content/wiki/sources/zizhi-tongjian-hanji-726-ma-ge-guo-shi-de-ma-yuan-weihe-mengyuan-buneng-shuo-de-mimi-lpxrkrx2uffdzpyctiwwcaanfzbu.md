@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 49 CE late [[LiuXiu|光武帝刘秀]] layer before [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|Hanji 727]] and [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|Hanji 728]]. It centers [[MaYuanEasternHan|马援]]'s death during the [[WulingManLateHan|武陵蛮]] campaign, [[LiangSongLinxiangMarquis|梁松]]'s accusation over coix-seed baggage, the confiscation of Ma Yuan's Xinxihou seal, and [[ZhuBoEasternHan|朱勃]]'s memorial asking the court to weigh Ma Yuan's lifetime merit, campaign conditions, and death by epidemic.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 49 CE late [[LiuXiu|光武帝刘秀]] layer before [[zizhi-tongjian-hanji-727-gui-xia-chanyu-weihe-baidao-zai-hanshi-mianqian-lmzdh-rrfadzszyetxgg-rou24xe|汉纪 727]] and [[zizhi-tongjian-hanji-728-weihe-mingchen-nan-shanzhong-beihou-de-yuanyin-ni-gai-dong-ltjl2bgpyyz1bmwe-4mfcyd9e6cf|汉纪 728]]. It centers [[MaYuanEasternHan|马援]]'s death during the [[WulingManLateHan|武陵蛮]] campaign, [[LiangSongLinxiangMarquis|梁松]]'s accusation over coix-seed baggage, the confiscation of Ma Yuan's Xinxihou seal, and [[ZhuBoEasternHan|朱勃]]'s memorial asking the court to weigh Ma Yuan's lifetime merit, campaign conditions, and death by epidemic.
 
 The durable synthesis is that late Guangwu rule contains both susceptibility to slander and mechanisms of repair. Zhu Bo's memorial softens Liu Xiu's anger after Ma Yuan is dishonored; [[ZongJunEasternHan|宗均]] settles the remaining Wuling campaign through unauthorized field discretion and then self-impeaches; [[Wuhuan|乌桓]] submission is converted into inside-frontier settlement; and [[BanBiaoEasternHan|班彪]] turns that settlement into an institutional argument for restoring the Wuhuan protector office.
 
@@ -48,5 +48,5 @@ The durable synthesis is that late Guangwu rule contains both susceptibility to 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source moves the late Guangwu synthesis back to 49 CE, before the Southern Xiongnu settlement in Hanji 727 and Ma Yuan's later remembered warning role in Hanji 728.
+- Chronology qualification: this source moves the late Guangwu synthesis back to 49 CE, before the Southern Xiongnu settlement in 汉纪 727 and Ma Yuan's later remembered warning role in 汉纪 728.
 - Scope caution: Ma Yan, Lin Furen, Hao Dan, Lü Zhong, the Dou-family marriage break, exact Wuhuan leader hierarchy, and the full "first female historian" claim for Empress Ma remain source-scoped until supported by additional notes.

@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the threshold before [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|Hanji 778]] and the later Deng-regency sequence. It moves from [[EmperorHeOfHan|汉和帝]]'s death and the hidden upbringing of later-born princes to [[EmpressDowagerDengLateHan|和熹邓皇后]]'s choice of the infant Liu Long as [[EmperorShangOfHan|汉殇帝]], then tests Deng's authority through a palace jewel theft, Ji Cheng's falsely grounded wugu accusation, cautious Northern Xiongnu handling, and [[WangHuanLateHan|王涣]]'s posthumous Luoyang reputation.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the threshold before [[zizhi-tongjian-hanji-778-lishi-jiemi-quanli-zhongxin-de-nvren-you-shenme-tedian-lhpn8auulbgpqehsk71hzssrgagp|汉纪 778]] and the later Deng-regency sequence. It moves from [[EmperorHeOfHan|汉和帝]]'s death and the hidden upbringing of later-born princes to [[EmpressDowagerDengLateHan|和熹邓皇后]]'s choice of the infant Liu Long as [[EmperorShangOfHan|汉殇帝]], then tests Deng's authority through a palace jewel theft, Ji Cheng's falsely grounded wugu accusation, cautious Northern Xiongnu handling, and [[WangHuanLateHan|王涣]]'s posthumous Luoyang reputation.
 
 The durable synthesis is that Deng's regency begins with succession triage and verification discipline rather than only later staffing, fiscal, and frontier crisis. The episode also gives Wang Huan an early good-official endpoint: strict but compassionate local governance becomes visible when transporters and capital residents mourn him, build a shrine, and prompt Deng to reward his son.
 
@@ -27,7 +27,7 @@ The durable synthesis is that Deng's regency begins with succession triage and v
 - Northern Xiongnu envoys seek renewed communication and offer a prince as hostage, but Deng gives rewards without sending an envoy, keeping contact cautious.
 - Wang Huan's Luoyang administration is remembered as strict, perceptive, and compassionate, with judgments that people accept.
 - Public mourning for Wang Huan, roadside sacrifices, shrine-building, and Deng's reward to his son Wang Shi make good local administration a visible source of court legitimacy.
-- The episode closes Hanji 40 by marking the start of Deng Sui's regency era rather than developing the full outer-relative and frontier crisis that later episodes handle.
+- The episode closes 汉纪 40 by marking the start of Deng Sui's regency era rather than developing the full outer-relative and frontier crisis that later episodes handle.
 
 ## Key Quotes
 
@@ -39,7 +39,7 @@ The durable synthesis is that Deng's regency begins with succession triage and v
 
 ## Connections
 
-- [[EmpressDowagerDengLateHan|和熹邓皇后]] - gains the accession-threshold and palace-verification layer before the Hanji 778 staffing, austerity, and frontier-opening layer.
+- [[EmpressDowagerDengLateHan|和熹邓皇后]] - gains the accession-threshold and palace-verification layer before the 汉纪 778 staffing, austerity, and frontier-opening layer.
 - [[EmperorHeOfHan|汉和帝]] and [[EmperorShangOfHan|汉殇帝]] - Emperor He's death and Liu Long's infant accession create the immediate regency setting.
 - [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - the source moves the compound crisis earlier, to succession opacity, legal verification, and cautious diplomacy before later fiscal and Qiang pressure.
 - [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]] - Deng's early cases support the frame that female regency is judged by operational crisis handling, not only status.
@@ -49,7 +49,7 @@ The durable synthesis is that Deng's regency begins with succession triage and v
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills the moment before Hanji 778 and Hanji 781's fuller Deng-regency opening rather than changing their succession claims.
-- Chronology refinement: Hanji 777 supplies the immediate death/accession and palace-case layer before Hanji 778's staffing, Liu Hu reserve, austerity, disaster-reporting, and Western Regions material.
+- No settled contradiction is recorded. This source backfills the moment before 汉纪 778 and 汉纪 781's fuller Deng-regency opening rather than changing their succession claims.
+- Chronology refinement: 汉纪 777 supplies the immediate death/accession and palace-case layer before 汉纪 778's staffing, Liu Hu reserve, austerity, disaster-reporting, and Western Regions material.
 - Name correction: the source's 王煥/王焕 is treated as [[WangHuanLateHan|王涣]], correcting the older visible 王奂 rendering while preserving the stable route.
 - Scope caution: Liu Sheng, Ji Cheng, Wang Shi, the Northern Xiongnu envoy/prince, and exact palace-case procedures remain source-scoped unless later notes warrant standalone pages.

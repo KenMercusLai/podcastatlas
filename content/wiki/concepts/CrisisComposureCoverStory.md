@@ -15,9 +15,9 @@ knowledge_schema: synthesis-v1
 Crisis composure cover story is the ability to convert a visible involuntary reaction, exposed identity, or tested role into a plausible harmless interpretation before danger can harden into accusation.
 
 ## Current Synthesis
-Hanji 1040 builds the concept from [[LiuBei|刘备]] during the "煮酒论英雄" scene. [[CaoCao|曹操]] names Liu Bei and himself as the only heroes while Liu Bei is already tied to the [[YidaiZhao|衣带诏]] plot; Liu Bei's dropped chopsticks could expose fear, but thunder lets him reframe the reaction as ordinary startlement. The episode treats this as a political form of emotional steadiness: not absence of fear, but fast control over how fear is read.
+汉纪 1040 builds the concept from [[LiuBei|刘备]] during the "煮酒论英雄" scene. [[CaoCao|曹操]] names Liu Bei and himself as the only heroes while Liu Bei is already tied to the [[YidaiZhao|衣带诏]] plot; Liu Bei's dropped chopsticks could expose fear, but thunder lets him reframe the reaction as ordinary startlement. The episode treats this as a political form of emotional steadiness: not absence of fear, but fast control over how fear is read.
 
-Hanji 669 adds an earlier [[LiuXiu|刘秀]] variant during flight from [[WangLangHebeiClaimant|王郎]]. At Raoyang, Liu Xiu's party claims to be Handan envoys while seeking food, and inn officials test them by shouting that a Handan general has arrived. Liu Xiu first fears exposure and wants to flee, then realizes flight is impossible, sits back down, and asks the supposed general to enter. Here the cover story is less a verbal excuse than role-consistent stillness under a tested identity.
+汉纪 669 adds an earlier [[LiuXiu|刘秀]] variant during flight from [[WangLangHebeiClaimant|王郎]]. At Raoyang, Liu Xiu's party claims to be Handan envoys while seeking food, and inn officials test them by shouting that a Handan general has arrived. Liu Xiu first fears exposure and wants to flee, then realizes flight is impossible, sits back down, and asks the supposed general to enter. Here the cover story is less a verbal excuse than role-consistent stillness under a tested identity.
 
 ## Key Claims
 - Composure does not require having no fear; it requires preventing fear from becoming legible evidence.
@@ -36,11 +36,11 @@ Hanji 669 adds an earlier [[LiuXiu|刘秀]] variant during flight from [[WangLan
 - Stillness under inspection: [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp]] says inn officials test the party by announcing a Handan general, and Liu Xiu survives by sitting calmly and inviting the supposed general in.
 
 ## Counterevidence & Qualifications
-Hanji 1040 reads Liu Bei's interior fear and Cao Cao's perception as interpretive reconstruction. Hanji 669 gives a bodily-risk pursuit scene rather than a court conversation, so it extends the concept through role maintenance rather than the exact chopsticks-and-thunder structure. The concept should be applied only where the source shows a visible risk of exposure, an immediate interpretive move, and a concrete danger from being read correctly.
+汉纪 1040 reads Liu Bei's interior fear and Cao Cao's perception as interpretive reconstruction. 汉纪 669 gives a bodily-risk pursuit scene rather than a court conversation, so it extends the concept through role maintenance rather than the exact chopsticks-and-thunder structure. The concept should be applied only where the source shows a visible risk of exposure, an immediate interpretive move, and a concrete danger from being read correctly.
 
 ## What Changed
-- Created the concept from Hanji 1040's chopsticks-and-thunder scene.
-- Added Hanji 669 as a Liu Xiu/Raoyang variant where composure preserves a false envoy identity under inspection.
+- Created the concept from 汉纪 1040's chopsticks-and-thunder scene.
+- Added 汉纪 669 as a Liu Xiu/Raoyang variant where composure preserves a false envoy identity under inspection.
 
 ## Related Concepts
 - [[StrategicEmotionConcealment|情绪不外露的战略纪律]] - broader discipline of keeping emotion from exposing intention or weakness.

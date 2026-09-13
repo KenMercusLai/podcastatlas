@@ -10,11 +10,11 @@ last_updated: 2026-09-01
 
 ## Overview
 
-苏定 / Su Ding is synthesized as the Jiaozhi governor whose punitive handling of [[ZhengCeJiaozhi|征侧]] becomes the immediate trigger in the current wiki's 40 CE Jiaozhi revolt branch. His page is intentionally narrow because Hanji 718 supplies only his role in the revolt's opening, not a full official biography.
+苏定 / Su Ding is synthesized as the Jiaozhi governor whose punitive handling of [[ZhengCeJiaozhi|征侧]] becomes the immediate trigger in the current wiki's 40 CE Jiaozhi revolt branch. His page is intentionally narrow because 汉纪 718 supplies only his role in the revolt's opening, not a full official biography.
 
 ## Current Profile
 
-Hanji 718 places Su Ding at the fault line between imperial law and local Jiaozhi power. Zheng Ce is introduced as a fierce and brave daughter of a Miling Lac lord, and Su Ding wants to punish her according to court law. The source says this produces Zheng Ce's resentment, after which Zheng Ce and [[ZhengErJiaozhi|征贰]] revolt.
+汉纪 718 places Su Ding at the fault line between imperial law and local Jiaozhi power. Zheng Ce is introduced as a fierce and brave daughter of a Miling Lac lord, and Su Ding wants to punish her according to court law. The source says this produces Zheng Ce's resentment, after which Zheng Ce and [[ZhengErJiaozhi|征贰]] revolt.
 
 Su Ding therefore matters less as a developed personality than as the official-pressure node in the revolt. The episode's later management frame about law and human feeling should not be retrofitted into a full explanation of Su Ding's motives; the durable claim is only that the punitive action is narrated as the immediate trigger for rebellion.
 
@@ -27,9 +27,9 @@ Su Ding therefore matters less as a developed personality than as the official-p
 
 ## Evidence
 
-- Office and action: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] identifies Su Ding as the Jiaozhi governor who wants to punish Zheng Ce according to court law.
-- Revolt trigger: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Zheng Ce resents Su Ding and then revolts with Zheng Er in spring 40 CE.
-- Administrative weakness: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|Hanji 718]] says Han officials in Jiaozhi can only defend themselves after the revolt spreads.
+- Office and action: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] identifies Su Ding as the Jiaozhi governor who wants to punish Zheng Ce according to court law.
+- Revolt trigger: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Zheng Ce resents Su Ding and then revolts with Zheng Er in spring 40 CE.
+- Administrative weakness: [[zizhi-tongjian-hanji-718-zhengce-ruhe-chengwei-shishang-no-1-de-nvwang-likq4pahq21k6bxbaohwdhcnwg5r|汉纪 718]] says Han officials in Jiaozhi can only defend themselves after the revolt spreads.
 
 ## Qualifications
 

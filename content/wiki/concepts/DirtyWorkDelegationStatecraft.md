@@ -15,9 +15,9 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] supplies the preface to the concept through [[GaiKuanraoWesternHan|盖宽饶]]'s death and the host's question of why rulers knowingly use "lesser people." The episode's answer is that rulers are not necessarily blind to moral character; they may need agents who can attack, recode, flatter, or perform power-maintenance functions that upright officials will resist.
+[[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] supplies the preface to the concept through [[GaiKuanraoWesternHan|盖宽饶]]'s death and the host's question of why rulers knowingly use "lesser people." The episode's answer is that rulers are not necessarily blind to moral character; they may need agents who can attack, recode, flatter, or perform power-maintenance functions that upright officials will resist.
 
-[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] then develops the concept through a sequence of compact examples. Chen Ying is useful to Zhu Di during post-accession cleanup; Yan Song is useful to Jiajing because he can keep court business running while the emperor withdraws; [[WuZetian|武则天]] uses cruel officials such as Lai Junchen against Tang royal kin and opponents; Qin Hui is framed as the executor who absorbs the visible stain of Yue Fei's death.
+[[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|汉纪 442]] then develops the concept through a sequence of compact examples. Chen Ying is useful to Zhu Di during post-accession cleanup; Yan Song is useful to Jiajing because he can keep court business running while the emperor withdraws; [[WuZetian|武则天]] uses cruel officials such as Lai Junchen against Tang royal kin and opponents; Qin Hui is framed as the executor who absorbs the visible stain of Yue Fei's death.
 
 The pattern is functional and disposable. These agents serve ruler needs by performing intimidation, accusation, routine control, praise, private-channel service, or blame absorption. Once the ruler's position is secure or public anger becomes costly, the same agent can be removed so the center regains moral credit.
 
@@ -36,21 +36,21 @@ The episode's workplace translation is not that employees should become villains
 ## Evidence
 
 Preconcept setup:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] moves from Gai Kuanrao's death into the question of why rulers often use "lesser people."
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] uses Tang Xuanzong and Li Linfu as the bridge example: a ruler can know an agent is jealous or ruthless and still use him against political opponents.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] moves from Gai Kuanrao's death into the question of why rulers often use "lesser people."
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] uses Tang Xuanzong and Li Linfu as the bridge example: a ruler can know an agent is jealous or ruthless and still use him against political opponents.
 
 Post-accession cleanup:
-- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] says Chen Ying handles the punishment of old Jianwen loyalists for Zhu Di and later becomes expendable after resentment accumulates and the throne stabilizes.
+- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|汉纪 442]] says Chen Ying handles the punishment of old Jianwen loyalists for Zhu Di and later becomes expendable after resentment accumulates and the throne stabilizes.
 
 Operational and private need:
-- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] says Yan Song remains useful to Jiajing because he can control officials and maintain operations while the emperor avoids ordinary court work.
-- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] generalizes that top leaders have private consumption, praise, and emotional-service needs that formal institutions cannot always acknowledge.
+- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|汉纪 442]] says Yan Song remains useful to Jiajing because he can control officials and maintain operations while the emperor avoids ordinary court work.
+- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|汉纪 442]] generalizes that top leaders have private consumption, praise, and emotional-service needs that formal institutions cannot always acknowledge.
 
 Accusation and terror tools:
-- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] says [[WuZetian|武则天]] encourages informant politics and uses cruel officials such as Lai Junchen before killing or discarding them after her position is secure.
+- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|汉纪 442]] says [[WuZetian|武则天]] encourages informant politics and uses cruel officials such as Lai Junchen before killing or discarding them after her position is secure.
 
 Loyalty and moral memory:
-- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] contrasts dirty-work agents with loyal figures such as Yue Fei and Yang Lian, arguing that tragic death can strongly shape later loyal-minister recognition.
+- [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|汉纪 442]] contrasts dirty-work agents with loyal figures such as Yue Fei and Yang Lian, arguing that tragic death can strongly shape later loyal-minister recognition.
 
 ## Counterevidence & Qualifications
 
@@ -58,8 +58,8 @@ The concept is source-scoped to two interpretive podcast episodes and uses many 
 
 ## What Changed
 
-- Added Hanji 441 as the concept preface, tying Gai Kuanrao's death to the question of why rulers knowingly use "lesser people."
-- Preserved Hanji 442's disposable-agent cycle: dirty work, temporary usefulness, accumulated resentment, and later punishment or abandonment.
+- Added 汉纪 441 as the concept preface, tying Gai Kuanrao's death to the question of why rulers knowingly use "lesser people."
+- Preserved 汉纪 442's disposable-agent cycle: dirty work, temporary usefulness, accumulated resentment, and later punishment or abandonment.
 
 ## Related Concepts
 

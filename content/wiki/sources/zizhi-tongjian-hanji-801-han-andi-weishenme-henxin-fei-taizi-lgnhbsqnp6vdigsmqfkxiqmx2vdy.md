@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 124 CE immediately before [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|Hanji 802]]. It moves from [[SouthernXiongnu|南匈奴]] succession, [[Xianbei|鲜卑]] pressure, frontier mobilization fatigue, and disaster notices into [[EmperorAnOfHan|汉安帝]]'s decision to depose the ten-year-old crown prince [[EmperorShunOfHan|刘保]] as Jiyin Wang.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills 124 CE immediately before [[zizhi-tongjian-hanji-802-andi-zhisi-donghan-wangchao-quanli-da-xipai-lgvne92e0jjzjnznzfkz7nvztnbj|汉纪 802]]. It moves from [[SouthernXiongnu|南匈奴]] succession, [[Xianbei|鲜卑]] pressure, frontier mobilization fatigue, and disaster notices into [[EmperorAnOfHan|汉安帝]]'s decision to depose the ten-year-old crown prince [[EmperorShunOfHan|刘保]] as Jiyin Wang.
 
 The durable synthesis is that the Shun succession crisis begins before Emperor An's death. Palace slander and empress/eunuch interests injure the heir, but the decisive escalation comes when broad ministerial support for Liu Bao is recoded as a ruler-security threat; [[LaiLiLateHan|来历]]'s persistence at Hongdu Gate then shows corrective remonstrance becoming punishable once the emperor treats it as hidden disloyalty.
 
@@ -46,12 +46,12 @@ The durable synthesis is that the Shun succession crisis begins before Emperor A
 - [[EmperorAnOfHan|汉安帝]], [[EmperorShunOfHan|刘保 / 汉顺帝]], and [[HeirSupportThreatPerception|储君拥戴威胁感]] - the episode explains Liu Bao's demotion as a succession-security crisis before the later Yan-backed accession.
 - [[FanFengEunuchLateHan|樊丰]], [[EmpressDowagerYanLateHan|阎皇后 / 阎太后]], and [[GengBaoGrandGeneralLateHan|耿宝]] - palace accusation, empress/eunuch coordination, and senior-office compliance shape the first blow against Liu Bao.
 - [[LaiLiLateHan|来历]], [[ZhangHaoRemonstratorLateHan|张皓]], [[HuanYanLateHan|桓焉]], [[ShiYanLateHan|施延]], [[ZhuChangLateHan|朱伥]], and [[DirectRemonstranceCriminalization|直谏入罪]] - the Hongdu Gate protest shows principled objection becoming a punishable loyalty issue.
-- [[SuccessionLegitimacyPurge|继位合法性清洗]], [[ControllableChildAccession|可控幼主继位]], [[OuterRelativeCourtPower|外戚专权与清算]], and [[PowerMonopolyBackfire|一家独大式权力反噬]] - Hanji 801 supplies the pre-death displacement that later makes Hanji 802-805's succession struggle possible.
+- [[SuccessionLegitimacyPurge|继位合法性清洗]], [[ControllableChildAccession|可控幼主继位]], [[OuterRelativeCourtPower|外戚专权与清算]], and [[PowerMonopolyBackfire|一家独大式权力反噬]] - 汉纪 801 supplies the pre-death displacement that later makes 汉纪 802-805's succession struggle possible.
 - [[SouthernXiongnu|南匈奴]], [[Xianbei|鲜卑]], and [[LongxiCommandery|陇西郡]] - frontier and disaster notices keep the court conflict embedded in broader state stress.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the reason Liu Bao is already Jiyin Wang before Emperor An's 125 CE death in Hanji 802.
-- Chronology refinement: Hanji 802 made Liu Bao's exclusion visible after An's death; Hanji 801 shows that his vulnerability begins with the 124 CE fabricated-accusation and deposition sequence.
-- Identity caution: the source renders Wang Sheng as 王胜, while the existing Hanji 802 route [[WangShengPalaceActorLateHan|王圣]] remains tied to the later palace actor; the identity relationship should stay cautious until more evidence resolves the character.
+- No settled contradiction with existing wiki pages was found. This source backfills the reason Liu Bao is already Jiyin Wang before Emperor An's 125 CE death in 汉纪 802.
+- Chronology refinement: 汉纪 802 made Liu Bao's exclusion visible after An's death; 汉纪 801 shows that his vulnerability begins with the 124 CE fabricated-accusation and deposition sequence.
+- Identity caution: the source renders Wang Sheng as 王胜, while the existing 汉纪 802 route [[WangShengPalaceActorLateHan|王圣]] remains tied to the later palace actor; the identity relationship should stay cautious until more evidence resolves the character.
 - Scope caution: Wang Nan, Bing Ji, Tuo Feng, Liu Wei, Xue Hao, Lvqiu Hong, Chen Guang, Zhao Dai, Chen Zhong, Wu'an Princess, Geng Kui, Ma Yi, Huyouhui, Azu, Manu, Xiku, and the exact disaster/frontier notices remain source-scoped unless later notes warrant canonical pages.

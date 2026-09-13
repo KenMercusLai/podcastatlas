@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 呼厨泉 / Huchuquan Chanyu
 
-呼厨泉 / Huchuquan Chanyu enters the wiki through [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] as the younger brother and successor of [[YufuluoChanyu|于扶罗]]. The source says he leads the [[SouthernXiongnu|南匈奴]] and stations the group at Pingyang.
+呼厨泉 / Huchuquan Chanyu enters the wiki through [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|汉纪 998]] as the younger brother and successor of [[YufuluoChanyu|于扶罗]]. The source says he leads the [[SouthernXiongnu|南匈奴]] and stations the group at Pingyang.
 
 The page is intentionally narrow because this episode records the succession without narrating Huchuquan's later political role.
 

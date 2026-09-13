@@ -12,7 +12,7 @@ last_updated: 2026-09-02
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 1 / 25 CE before the later [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] Guangwu sequence. It uses [[WeiXiaoEasternHan|隗嚣]]'s Tianshui talent recruitment, [[MaYuanEasternHan|马援]]'s early border-life wealth ethics, and [[DouRongEasternHan|窦融]]'s Hexi self-preservation bloc to frame early Eastern Han as a fragmented regional field. The core claimant case is [[LuFangEasternHan|卢芳]], who invents Liu-family and Xiongnu ancestry, wins support around Anding/Sanshui, and is installed by [[Xiongnu|匈奴]] as a "Han emperor" after Liu Xuan falls.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 1 / 25 CE before the later [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|汉纪 682]] Guangwu sequence. It uses [[WeiXiaoEasternHan|隗嚣]]'s Tianshui talent recruitment, [[MaYuanEasternHan|马援]]'s early border-life wealth ethics, and [[DouRongEasternHan|窦融]]'s Hexi self-preservation bloc to frame early Eastern Han as a fragmented regional field. The core claimant case is [[LuFangEasternHan|卢芳]], who invents Liu-family and Xiongnu ancestry, wins support around Anding/Sanshui, and is installed by [[Xiongnu|匈奴]] as a "Han emperor" after Liu Xuan falls.
 
 The durable synthesis is that Jianwu 1 frontier politics turns legitimacy into usable infrastructure. Wei Xiao attracts scholars through courtesy, Dou Rong converts Hexi geography, troops, and local trust into a defensive alliance, and Xiongnu uses Lu Fang's claimed Han and Xiongnu genealogy as a proxy title against Liu Xiu's restoration order.
 
@@ -43,5 +43,5 @@ The durable synthesis is that Jianwu 1 frontier politics turns legitimacy into u
 
 ## Contradictions
 
-- No settled contradiction is recorded. The episode backfills 25 CE before the existing Hanji 682-704 Guangwu sequence and supplies earlier origins for Wei Xiao, Dou Rong, Ma Yuan, and Lu Fang rather than reversing their later arcs.
+- No settled contradiction is recorded. The episode backfills 25 CE before the existing 汉纪 682-704 Guangwu sequence and supplies earlier origins for Wei Xiao, Dou Rong, Ma Yuan, and Lu Fang rather than reversing their later arcs.
 - Identity normalization: 卢芳 is treated as Lu Fang, while 隗嚣, 窦融, 马援, 郑兴, 申屠刚, 杜林, and 班彪 follow their existing wiki routes. Liu Xuan, Lu Cheng, Fan Jun, Hunyewang, Julin/Gulin king, Zhangye shuguo troop numbers, and exact Qiang/Hu group identities remain source-scoped.

@@ -11,10 +11,10 @@ last_updated: 2026-09-06
 # 杜畿 / Du Ji (late Han)
 
 ## Overview
-杜畿 / Du Ji (late Han) enters the wiki through Hanji 1070 as the official [[XunYu|荀彧]] recommends to govern [[HedongCommandery|河东郡]] during Cao Cao's post-Hebei instability. The source frames him as a strategically fitted appointment for a transport-hub commandery with local elite defection risk.
+杜畿 / Du Ji (late Han) enters the wiki through 汉纪 1070 as the official [[XunYu|荀彧]] recommends to govern [[HedongCommandery|河东郡]] during Cao Cao's post-Hebei instability. The source frames him as a strategically fitted appointment for a transport-hub commandery with local elite defection risk.
 
 ## Current Profile
-In Hanji 1070, [[CaoCao|曹操]] worries that western and northwestern actors are only superficially compliant. [[ZhangShengLateHan|张盛]] is active around Xiaoshan and Mianchi, [[GaoGanLateHan|高干]] has rebelled again from Bingzhou, and [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]] are suspected of using [[WangYiHedongLateHan|王邑]]'s retention request to protect their own hidden connection with Gao Gan. Because Hedong is a key traffic hub, Cao Cao asks Xun Yu for a person who can hold it.
+In 汉纪 1070, [[CaoCao|曹操]] worries that western and northwestern actors are only superficially compliant. [[ZhangShengLateHan|张盛]] is active around Xiaoshan and Mianchi, [[GaoGanLateHan|高干]] has rebelled again from Bingzhou, and [[WeiGuLateHan|卫固]] and [[FanXianLateHan|范先]] are suspected of using [[WangYiHedongLateHan|王邑]]'s retention request to protect their own hidden connection with Gao Gan. Because Hedong is a key traffic hub, Cao Cao asks Xun Yu for a person who can hold it.
 
 Xun Yu recommends Du Ji, then serving as Xiping commandery administrator and identified as a Jingzhao man. Cao Cao appoints him Hedong commandery administrator, while [[ZhongYao|钟繇]] presses Wang Yi to complete the handoff. Wang Yi resists and runs to Xudu with the seal, so Du Ji's current profile begins as an appointment into an already contested local office environment.
 
@@ -26,16 +26,16 @@ Xun Yu recommends Du Ji, then serving as Xiping commandery administrator and ide
 - Part of Cao Cao's post-victory stabilization rather than the Ye battlefield itself.
 
 ## Evidence
-- Recommendation: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Xun Yu recommends Du Ji as a strategically capable person for Hedong.
-- Appointment rationale: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Cao Cao considers Hedong a key traffic hub and needs a reliable governor there.
-- Local resistance: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] says Wang Yi refuses to hand over smoothly and goes to Xudu with the seal.
-- Elite-risk setting: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|Hanji 1070]] links Wei Gu and Fan Xian's retention request to hidden coordination with Gao Gan.
+- Recommendation: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] says Xun Yu recommends Du Ji as a strategically capable person for Hedong.
+- Appointment rationale: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] says Cao Cao considers Hedong a key traffic hub and needs a reliable governor there.
+- Local resistance: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] says Wang Yi refuses to hand over smoothly and goes to Xudu with the seal.
+- Elite-risk setting: [[zizhi-tongjian-hanji-1070-jiaochu-shaxue-weimeng-quan-buxia-panjiang-caocao-lqvyfglj3qefhyxyebfvvda8om5o|汉纪 1070]] links Wei Gu and Fan Xian's retention request to hidden coordination with Gao Gan.
 
 ## Qualifications
 This page currently covers Du Ji's appointment setup, not his later Hedong governance record. The source explicitly presents the appointment as a prelude to more complex developments, so later episodes may need to revise the profile once Du Ji's conduct in Hedong is described.
 
 ## What Changed
-- Created this page from Hanji 1070's Xun Yu recommendation and Hedong appointment branch.
+- Created this page from 汉纪 1070's Xun Yu recommendation and Hedong appointment branch.
 
 ## Relationships
 - [[XunYu|荀彧]] - recommender who identifies Du Ji for the Hedong problem.

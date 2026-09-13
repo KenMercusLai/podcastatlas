@@ -39,10 +39,10 @@ The less romantic street world grounds that space in mobile trade, performance, 
 - [[zizhi-tongjian-hanji-483-2-lishi-jiemi-hun-zhichang-de-jianghu-guiju-ltukp3q2cg7p5egxqte7nuseenaw]] distinguishes the Jianghu of the court, literati, merchants, and marginal people, making Jianghu a general social condition rather than only a genre setting.
 
 ## Counterevidence & Qualifications
-The concept should not make all unofficial association equivalent. Wuxia narrative space, Republican-era street livelihood, court politics, Daoist withdrawal, and merchant exit have different evidence bases and moral stakes. The Ming-compression claim comes from literary-historical commentary, while the layered Hanji 483-2 account is a short thematic reflection rather than detailed institutional history.
+The concept should not make all unofficial association equivalent. Wuxia narrative space, Republican-era street livelihood, court politics, Daoist withdrawal, and merchant exit have different evidence bases and moral stakes. The Ming-compression claim comes from literary-historical commentary, while the layered 汉纪 483-2 account is a short thematic reflection rather than detailed institutional history.
 
 ## What Changed
-- Added Hanji 483-2's layered map of court, literati, merchant, and street Jianghu.
+- Added 汉纪 483-2's layered map of court, literati, merchant, and street Jianghu.
 - Migrated the page from a source-led legacy structure to synthesis-v1 while preserving the existing source order.
 
 ## Related Concepts

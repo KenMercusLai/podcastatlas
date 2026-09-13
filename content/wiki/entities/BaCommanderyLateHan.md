@@ -29,11 +29,11 @@ The Five-Pecks and Yizhou revolt layers then widen the commandery's role. [[Zhan
 - Regional node tied to [[YizhouLateHan|益州]] and [[BaShu|巴蜀]] rather than a generic geography label.
 
 ## Evidence
-- Fu Zhi revolt and failed suppression: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Fu Zhi gathers several hundred people in Ba Commandery, claims Heavenly King status, and is not suppressed by Zhong Hao and Ying Cheng.
-- Court consequence: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Liang Ji has Zhong Hao and Ying Cheng imprisoned before Li Gu's memorial and Liang Na's order reduce the penalty.
-- Bandun Man diagnosis and repair: [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|Hanji 922]] says Chen Bao attributes the Bandun Man revolt to illegal taxes, coercion, ignored complaints, and blocked capital access, then records repair through Cao Qian and amnesty.
-- Five-Pecks setting: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|Hanji 929]] uses Ba Commandery for Zhang Xiu's healing, rice contribution, and later attack on commandery and county offices.
-- Later Yizhou revolt spread: [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|Hanji 940]] names Ba alongside Qianwei after Ma Xiang and Zhao Zhi rise at Mianzhu.
+- Fu Zhi revolt and failed suppression: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Fu Zhi gathers several hundred people in Ba Commandery, claims Heavenly King status, and is not suppressed by Zhong Hao and Ying Cheng.
+- Court consequence: [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Liang Ji has Zhong Hao and Ying Cheng imprisoned before Li Gu's memorial and Liang Na's order reduce the penalty.
+- Bandun Man diagnosis and repair: [[zizhi-tongjian-hanji-922-ruhe-zai-fanchen-zhong-xiulian-qingshang-lsxiqneyyeod6aeeqxuhs517pn1x|汉纪 922]] says Chen Bao attributes the Bandun Man revolt to illegal taxes, coercion, ignored complaints, and blocked capital access, then records repair through Cao Qian and amnesty.
+- Five-Pecks setting: [[zizhi-tongjian-hanji-929-duishi-buduiren-ni-xin-le-ma-lgaxj0jzopddmt3c5hibnexqlhb3|汉纪 929]] uses Ba Commandery for Zhang Xiu's healing, rice contribution, and later attack on commandery and county offices.
+- Later Yizhou revolt spread: [[zizhi-tongjian-hanji-940-de-minxin-zhe-de-tianxia-ni-xin-bu-xin-loipf7b0p5a-yh0rj2njnsml8a1j|汉纪 940]] names Ba alongside Qianwei after Ma Xiang and Zhao Zhi rise at Mianzhu.
 
 ## Qualifications
 This page is a source-bounded synthesis of Ba Commandery as it appears in the listed podcast notes. It does not reconstruct the commandery's complete administrative geography or every local lineage. Fu Zhi, Bandun Man, Zhang Xiu, and Ma Xiang-Zhao Zhi are kept as distinct episodes unless a source explicitly connects them.

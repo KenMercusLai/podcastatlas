@@ -11,11 +11,11 @@ last_updated: 2026-09-10
 
 ## Overview
 
-Wei Xuan / 卫玄 is synthesized as a [[HanPingdi|汉平帝]] maternal relative first honored but kept outside Chang'an in [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]], then named in the punishment wave after the [[DogBloodCase|狗血案]] in [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]].
+Wei Xuan / 卫玄 is synthesized as a [[HanPingdi|汉平帝]] maternal relative first honored but kept outside Chang'an in [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|汉纪 609]], then named in the punishment wave after the [[DogBloodCase|狗血案]] in [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]].
 
 ## Current Profile
 
-The sources do not make Wei Xuan an independent actor. His importance is evidentiary: Hanji 609 shows Wang Mang containing Pingdi's maternal relatives through title plus distance, and Hanji 616 shows that the later dog-blood case damages the Wei clan far beyond the immediate participants.
+The sources do not make Wei Xuan an independent actor. His importance is evidentiary: 汉纪 609 shows Wang Mang containing Pingdi's maternal relatives through title plus distance, and 汉纪 616 shows that the later dog-blood case damages the Wei clan far beyond the immediate participants.
 
 ## Key Characteristics
 
@@ -26,17 +26,17 @@ The sources do not make Wei Xuan an independent actor. His importance is evident
 
 ## Evidence
 
-- Early title without access: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|Hanji 609]] says Wei Xuan receives a Guannei Hou title but remains outside the capital with Pingdi's maternal relatives.
-- Punishment wave: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] names Wei Xuan among the Wei relatives punished after the dog-blood case.
-- Clan damage: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|Hanji 616]] says the Wei clan is nearly destroyed and declines after the case.
+- Early title without access: [[zizhi-tongjian-hanji-609-xihan-wang-yu-wangzhengjun-ni-tongyi-ma-lu0kkjoqgj_n4hn4pxmo5wetpets|汉纪 609]] says Wei Xuan receives a Guannei Hou title but remains outside the capital with Pingdi's maternal relatives.
+- Punishment wave: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] names Wei Xuan among the Wei relatives punished after the dog-blood case.
+- Clan damage: [[zizhi-tongjian-hanji-616-you-xinji-de-ren-you-duo-kepa-lnhkk70905eqg4lqwh3mp2sxzamc|汉纪 616]] says the Wei clan is nearly destroyed and declines after the case.
 
 ## Qualifications
 
-This page is bounded to Hanji 609 and Hanji 616. It does not settle Wei Xuan's exact genealogy, office, or individual conduct.
+This page is bounded to 汉纪 609 and 汉纪 616. It does not settle Wei Xuan's exact genealogy, office, or individual conduct.
 
 ## What Changed
 
-- Added Hanji 609 as the title-without-access stage before Wei Xuan is named in the Hanji 616 punishment wave.
+- Added 汉纪 609 as the title-without-access stage before Wei Xuan is named in the 汉纪 616 punishment wave.
 
 ## Relationships
 

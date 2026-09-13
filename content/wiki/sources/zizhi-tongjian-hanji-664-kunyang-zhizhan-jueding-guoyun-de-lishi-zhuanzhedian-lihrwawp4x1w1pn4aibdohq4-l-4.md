@@ -12,7 +12,7 @@ last_updated: 2026-09-08
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the [[KunyangBattle|昆阳之战]] before the Wang Mang endgame in [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] and [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]]. It follows [[WangYiXinGeneral|王邑]] rejecting [[YanYouXinGeneral|严尤]]'s advice, overclosing the siege around Kunyang, and then losing command coherence when [[LiuXiu|刘秀]] returns with reinforcements, attacks the main camp, and triggers an inside-outside collapse.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the [[KunyangBattle|昆阳之战]] before the Wang Mang endgame in [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] and [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]]. It follows [[WangYiXinGeneral|王邑]] rejecting [[YanYouXinGeneral|严尤]]'s advice, overclosing the siege around Kunyang, and then losing command coherence when [[LiuXiu|刘秀]] returns with reinforcements, attacks the main camp, and triggers an inside-outside collapse.
 
 The episode also links the battle to the early Gengshi field. [[LiuXuanGengshiEmperor|更始帝刘玄]] enters Wan after accepting surrender there, [[CenPengEasternHan|岑彭]] is spared through [[LiuYanLiuXiuBrother|刘縯]]'s recommendation, [[FengYiEasternHan|冯异]] submits after judging Liu Xiu's discipline and public support, and Wang Mang answers poisoning accusations over [[HanPingdi|汉平帝]] through a public display of earlier prayer documents.
 
@@ -42,10 +42,10 @@ The episode also links the battle to the early Gengshi field. [[LiuXuanGengshiEm
 - [[LiuXuanGengshiEmperor|更始帝刘玄]], [[LiuYanLiuXiuBrother|刘縯]], and [[CenPengEasternHan|岑彭]] - Wan surrender and talent-clemency branch around the Gengshi court.
 - [[FengYiEasternHan|冯异]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], and [[PoliticalSurrenderCascade|招降示范级联]] - post-Kunyang allegiance shift through discipline and public response.
 - [[HanPingdi|汉平帝]], [[WangMang|王莽]], and [[TerminalMandateSelfDeception|末路天命自我催眠]] - Wang Mang's public document display foreshadows later legitimacy performance under collapse.
-- [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|Hanji 666]] and [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|Hanji 667]] - direct continuation into Xin's final Chang'an and Jian Terrace collapse.
+- [[zizhi-tongjian-hanji-666-xihan-zuihou-yiwei-huanghou-weihe-touhuo-zifen-lrjurgjzvwezkppvgeupu6ormmzw|汉纪 666]] and [[zizhi-tongjian-hanji-667-ta-weihe-duo-le-wangmang-de-shetou-hai-chidiao-ludwjghch4wdv3gour9gmg2pvx3t|汉纪 667]] - direct continuation into Xin's final Chang'an and Jian Terrace collapse.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the Kunyang turning point before Hanji 666's Chang'an breach and Hanji 667's Jian Terrace death scene.
+- Chronology qualification: this source backfills the Kunyang turning point before 汉纪 666's Chang'an breach and 汉纪 667's Jian Terrace death scene.
 - Scope caution: exact troop totals, corpse-count imagery, tiger/leopard/rhinoceros/elephant details, river naming, Miao Meng, Yan Shuo, Wang Feng, Wang Xun, Chen Mao, Feng Yi's five-county mission details, and Wang Mang's Pingdi poisoning evidence remain source-scoped unless later notes require standalone pages.

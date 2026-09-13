@@ -10,7 +10,7 @@ last_updated: 2026-09-01
 
 ## Overview
 
-Jing Han is a Gongsun Shu-side strategist in [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]]. The episode identifies him as a Pingling commandant under [[GongsunShuEasternHan|Gongsun Shu]] who argues that Shu must attack before [[LiuXiu|Liu Xiu]] can finish consolidating the realm.
+Jing Han is a Gongsun Shu-side strategist in [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|汉纪 700]]. The episode identifies him as a Pingling commandant under [[GongsunShuEasternHan|Gongsun Shu]] who argues that Shu must attack before [[LiuXiu|Liu Xiu]] can finish consolidating the realm.
 
 ## Current Profile
 
@@ -30,11 +30,11 @@ The episode also makes Jing Han an argumentative adviser. When Wu Zhu warns agai
 
 ## Evidence
 
-- Position and setting: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] identifies Jing Han as a Pingling qiduwei serving Gongsun Shu after Liu Xiu's eastern consolidation.
-- Opportunity-window diagnosis: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] says Jing Han warns that Liu Xiu should be disrupted before he unifies the whole realm and can focus on Shu.
-- Two-line offensive design: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] gives Jing Han's Jiangling/Wu-Chu line for Tian Rong and Hanzhong/Sanfu-Tianshui-Longxi line for Yan Cen.
-- Rebuttal against caution: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] says Jing Han answers Wu Zhu by comparing Liu Xiu's rise from weak beginnings and criticizing Wei Xiao's wait-and-see posture.
-- Failed adoption: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|Hanji 700]] says Gongsun Shu first agrees, then retreats after Shu generals and Gongsun Guang oppose the plan.
+- Position and setting: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|汉纪 700]] identifies Jing Han as a Pingling qiduwei serving Gongsun Shu after Liu Xiu's eastern consolidation.
+- Opportunity-window diagnosis: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|汉纪 700]] says Jing Han warns that Liu Xiu should be disrupted before he unifies the whole realm and can focus on Shu.
+- Two-line offensive design: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|汉纪 700]] gives Jing Han's Jiangling/Wu-Chu line for Tian Rong and Hanzhong/Sanfu-Tianshui-Longxi line for Yan Cen.
+- Rebuttal against caution: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|汉纪 700]] says Jing Han answers Wu Zhu by comparing Liu Xiu's rise from weak beginnings and criticizing Wei Xiao's wait-and-see posture.
+- Failed adoption: [[zizhi-tongjian-hanji-700-lishi-gaosu-ni-bie-rang-renzhi-piancha-zuai-nide-chenggong-lhgt6dyzgc4s-ost2nbzdhfyzofv|汉纪 700]] says Gongsun Shu first agrees, then retreats after Shu generals and Gongsun Guang oppose the plan.
 
 ## Qualifications
 
@@ -42,7 +42,7 @@ This page is bounded to one source note. Jing Han's rank, place association, and
 
 ## What Changed
 
-- Created this page to preserve Jing Han's Hanji 700 role as a distinct Shu-side strategic adviser.
+- Created this page to preserve Jing Han's 汉纪 700 role as a distinct Shu-side strategic adviser.
 - Established his current profile around opportunity-window diagnosis, two-line offensive planning, and failed adoption under Gongsun Shu.
 
 ## Relationships

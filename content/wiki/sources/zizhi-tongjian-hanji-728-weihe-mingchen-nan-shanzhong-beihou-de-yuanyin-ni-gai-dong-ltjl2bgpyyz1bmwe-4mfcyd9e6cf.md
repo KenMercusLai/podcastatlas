@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 51-52 CE late [[LiuXiu|光武帝刘秀]] layer immediately before [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]]. It connects [[ZhaoXiEasternHan|赵熙]]'s advice to send princes to their fiefs, [[FanHongEasternHan|樊弘]]'s cautious conduct and thin-burial will, [[MaYuanEasternHan|马援]]'s warnings about high-profile retainer networks, and the prince-guest purge that follows [[LiuLiShouguangMarquisEasternHan|寿光侯刘李]]'s killing of Liu Gong under [[LiuFuPeiKingEasternHan|沛王刘辅]]'s favor.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 51-52 CE late [[LiuXiu|光武帝刘秀]] layer immediately before [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|汉纪 729]]. It connects [[ZhaoXiEasternHan|赵熙]]'s advice to send princes to their fiefs, [[FanHongEasternHan|樊弘]]'s cautious conduct and thin-burial will, [[MaYuanEasternHan|马援]]'s warnings about high-profile retainer networks, and the prince-guest purge that follows [[LiuLiShouguangMarquisEasternHan|寿光侯刘李]]'s killing of Liu Gong under [[LiuFuPeiKingEasternHan|沛王刘辅]]'s favor.
 
 The final branch turns crown-prince education into a public-interest personnel question. [[ZhangYiEasternHan|张义]] blocks [[YinShiEasternHan|阴识]] as the easy kinship choice for tutor, [[HuanRongEasternHan|桓荣]] becomes crown-prince shaofu, and the episode links learning, office, and imperial recognition without making the host's life-advice commentary a settled historical claim.
 
@@ -40,11 +40,11 @@ The final branch turns crown-prince education into a public-interest personnel q
 - [[MaYuanEasternHan|马援]], [[WangPanEasternHan|王磐]], [[WangSuEasternHan|王肃]], and [[PrivateRetainerNetworkRisk|私人宾客网络风险]] - the warning and purge branch shows elite social access becoming incriminating association.
 - [[LiuLiShouguangMarquisEasternHan|寿光侯刘李]], [[LiuFuPeiKingEasternHan|沛王刘辅]], and [[PrivateRetainerNetworkRisk|私人宾客网络风险]] - Liu Li's guest-backed violence turns princely favor into direct state-security exposure.
 - [[ZhangYiEasternHan|张义]], [[YinShiEasternHan|阴识]], [[HuanRongEasternHan|桓荣]], and [[CrownPrinceTutorPublicInterest|太子师傅公器化]] - the tutor branch separates public heir education from maternal-family convenience.
-- [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|Hanji 729]] - direct continuation into the 52-54 CE Ban Biao and Northern Xiongnu reply layer.
+- [[zizhi-tongjian-hanji-729-bangu-tadie-jing-yeshi-ge-da-wenhao-loadjkevhjie2yur8u23ox2-gmce|汉纪 729]] - direct continuation into the 52-54 CE Ban Biao and Northern Xiongnu reply layer.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame for the 51-52 CE events.
 
 ## Contradictions
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source precedes Hanji 729 and backfills 51-52 CE late Guangwu material, so Zhao Xi's fief-return advice here complements his later Hanji 732 funeral-order role rather than replacing it.
+- Chronology qualification: this source precedes 汉纪 729 and backfills 51-52 CE late Guangwu material, so Zhao Xi's fief-return advice here complements his later 汉纪 732 funeral-order role rather than replacing it.
 - Identity qualification: 沛王刘辅 is kept distinct from [[LiuFuLateHan|刘馥 / Liu Fu, late Han]]; 张义 is kept distinct from [[ZhangYiStrategist|张仪]], [[ZhangYiLateHan|张懿]], and the modern [[ZhangYi]] page; 刘李, 王磐, and 王肃 remain bounded to this Eastern Han prince-guest episode.
 - Scope caution: Lu King Liu Xing, Qi King Liu Shi, Pei dowager Guo, Cao Xun, Sima Lyu Zhong, Liu Penzi, Liu Gong, Liu Ying, Liu Kang, Huainan King Liu Yan, the host's burial preference, and the "change circles" life-advice frame remain source-scoped unless later evidence warrants standalone pages.

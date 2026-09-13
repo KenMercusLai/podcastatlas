@@ -27,9 +27,9 @@ The current source uses her to complete the family's "competing to die" structur
 
 ## Evidence
 
-- Household responsibility claim: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] records her saying that a household matter should be borne by the household head.
-- Family sacrifice structure: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] places her claim after Kong Rong and Kong Bao each try to take guilt, creating the source's family-affection focus.
-- Legal outcome boundary: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|Hanji 895]] says the court is moved by the scene but still assigns punishment to Kong Bao.
+- Household responsibility claim: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] records her saying that a household matter should be borne by the household head.
+- Family sacrifice structure: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] places her claim after Kong Rong and Kong Bao each try to take guilt, creating the source's family-affection focus.
+- Legal outcome boundary: [[zizhi-tongjian-hanji-895-xuexing-tudao-xia-de-gurou-qingshen-llsplyyrjxhqkpi2aiuqzulgm6w3|汉纪 895]] says the court is moved by the scene but still assigns punishment to Kong Bao.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The source does not supply her personal name, independent lineage, or later hist
 
 ## What Changed
 
-- Initial page created to preserve the third actor in Hanji 895's Kong-family responsibility contest.
+- Initial page created to preserve the third actor in 汉纪 895's Kong-family responsibility contest.
 
 ## Relationships
 

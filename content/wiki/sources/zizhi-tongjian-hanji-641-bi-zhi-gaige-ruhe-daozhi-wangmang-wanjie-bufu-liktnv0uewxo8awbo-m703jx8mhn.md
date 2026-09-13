@@ -43,10 +43,10 @@ The durable synthesis is that [[WangMang|王莽]]'s currency reform failed as an
 - [[PunitiveCurrencyEnforcementBackfire|惩罚性货币执法反噬]], [[CounterfeitCurrencyPolicing|counterfeit currency policing]], [[CurrencyCredit|货币信用]], and [[CurrencyControlTrap|currency control trap]] - the episode supplies an earlier monetary-complexity and forced-acceptance layer before later private-coinage punishment.
 - [[AuspiciousOmenPolitics|祥瑞政治]], [[ChenweiPolitics|谶纬政治]], and [[MandateOfHeavenLegitimacy|天命合法性]] - fuming and omen legitimacy become vulnerable to imitation once political reward is attached to fabricated signs.
 - [[WarDisasterCompounding|war-disaster compounding]] and [[OverextendedFrontierExpedition|边境远征过度]] - frontier war planning and domestic monetary disorder reinforce fiscal and administrative strain.
-- [[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|Hanji 648]], [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|Hanji 657]], and [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]] - continuation into later currency resets, private-coinage punishment, forced labor, and household separation.
+- [[zizhi-tongjian-hanji-648-weishenme-wo-quan-ni-bixu-jide-liqyvdhejwwjsrq3vc6ftmco9m2k|汉纪 648]], [[zizhi-tongjian-hanji-657-wangmang-fei-taizi-you-duo-erxi-lklx1rd39kgz-by4tbcpaagx4z-l|汉纪 657]], and [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]] - continuation into later currency resets, private-coinage punishment, forced labor, and household separation.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills 10 CE, before Hanji 643-648 and before the later 20-21 CE currency-enforcement pages already in the wiki.
+- Chronology qualification: this source backfills 10 CE, before 汉纪 643-648 and before the later 20-21 CE currency-enforcement pages already in the wiki.
 - Scope caution: Sun Jian, the twelve generals, the 180-plus subordinate generals, exact transport geography, twenty-eight currency ranks, coin-metal composition, travel-check mechanics, and specific forged fuming actors remain source-scoped unless later notes warrant canonical pages.

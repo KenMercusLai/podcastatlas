@@ -14,7 +14,7 @@ Bureaucratic impeachment review is the procedural pattern in which a damaging of
 
 ## Current Synthesis
 
-Hanji 511 creates the current compact case through [[WangZunWesternHan|王尊]]. [[ZhangZhongWesternHan|张忠]] impeaches Wang Zun as cruel and arrogant, and Wang Zun loses office. [[GongchengXingWesternHan|公乘兴]] then reframes the case: Wang Zun had difficult capital-region achievements, while [[YangFuWesternHan|杨辅]] allegedly had private resentment and used office procedure to build accusations.
+汉纪 511 creates the current compact case through [[WangZunWesternHan|王尊]]. [[ZhangZhongWesternHan|张忠]] impeaches Wang Zun as cruel and arrogant, and Wang Zun loses office. [[GongchengXingWesternHan|公乘兴]] then reframes the case: Wang Zun had difficult capital-region achievements, while [[YangFuWesternHan|杨辅]] allegedly had private resentment and used office procedure to build accusations.
 
 The concept's key move is the demand for public and symmetrical review. Gongcheng Xing does not ask that Wang Zun be believed automatically because he has merit. He asks that ministers and scholars examine Wang Zun's ordinary conduct, punish Wang Zun if the charges are true, and punish the accusers if the charges are false. Chengdi's appointment of Wang Zun as Xuzhou inspector suggests at least partial restoration, but the source does not show a full transparent verdict.
 
@@ -28,11 +28,11 @@ The concept's key move is the demand for public and symmetrical review. Gongchen
 
 ## Evidence
 
-- Impeachment and dismissal: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Zhang Zhong impeaches Wang Zun and Wang Zun loses office.
-- Prior achievement: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Gongcheng Xing defends Wang Zun's capital-region governance and public-order record.
-- Private resentment: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Gongcheng Xing identifies Yang Fu's grudge as the source of manufactured charges.
-- Symmetrical review request: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Gongcheng Xing asks officials and scholars to decide whether Wang Zun or the accusers should be punished.
-- Partial restoration: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|Hanji 511]] says Chengdi appoints Wang Zun as Xuzhou inspector after the memorial.
+- Impeachment and dismissal: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Zhang Zhong impeaches Wang Zun and Wang Zun loses office.
+- Prior achievement: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Gongcheng Xing defends Wang Zun's capital-region governance and public-order record.
+- Private resentment: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Gongcheng Xing identifies Yang Fu's grudge as the source of manufactured charges.
+- Symmetrical review request: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Gongcheng Xing asks officials and scholars to decide whether Wang Zun or the accusers should be punished.
+- Partial restoration: [[zizhi-tongjian-hanji-511-taihou-tianhuaban-ta-ruhe-yitian-feng-wuge-didi-wei-hou-lhoz_ubecvc8-mgfoad2pya72uht|汉纪 511]] says Chengdi appoints Wang Zun as Xuzhou inspector after the memorial.
 
 ## Counterevidence & Qualifications
 
@@ -40,7 +40,7 @@ The source does not give the full adjudication file, Zhang Zhong's reply, Yang F
 
 ## What Changed
 
-- Created this concept from Hanji 511's Wang Zun impeachment and Gongcheng Xing review request.
+- Created this concept from 汉纪 511's Wang Zun impeachment and Gongcheng Xing review request.
 
 ## Related Concepts
 

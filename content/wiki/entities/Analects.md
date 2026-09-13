@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # 《论语》 / Analects
 
-[[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]] adds the Zi Xia passage on "small ways" to the wiki's Analects uses. The episode uses it to interpret [[CaiYong|蔡邕]]'s criticism of arts-driven appointment: minor skills can have value, but making them the main track for office or life attention can obstruct more central work.
+[[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|汉纪 908]] adds the Zi Xia passage on "small ways" to the wiki's Analects uses. The episode uses it to interpret [[CaiYong|蔡邕]]'s criticism of arts-driven appointment: minor skills can have value, but making them the main track for office or life attention can obstruct more central work.
 
 《论语》 / Analects appears in [[zizhi-tongjian-zhouji-26-mengzi-laile-ln4twwp2frmr-xpumu0rqg-2gpyn]] as the comparison text for [[MenciusText|《孟子》]]. The episode says Mencius can feel easier to read than the Analects because its longer arguments are more continuous, while Analects passages are often shorter and more fragmentary.
 
@@ -20,10 +20,10 @@ This page is source-scoped. It records the comparison used by the episode rather
 
 [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei]] adds the phrase "不为酒困" to the wiki's Analects uses. The episode groups it with public service, family duty, and mourning diligence, reading the line as a practical self-command standard inside [[TemperateDrinkingSelfControl|节制饮酒与自我控制]].
 
-[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|Hanji 994]] adds Yan Hui's "无伐善，无施劳" as an anti-boasting and anti-jealousy citation. The host uses [[YanHui|颜回]] to explain that one should neither advertise one's virtue nor press one's labor on others, extending [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] from leadership toward interpersonal self-cultivation.
+[[zizhi-tongjian-hanji-994-genzhe-dongwu-zhongchen-lvfan-xuexi-zhichang-zhihui-lgqp2vqmh1mss96gcwmflp-ccpfu|汉纪 994]] adds Yan Hui's "无伐善，无施劳" as an anti-boasting and anti-jealousy citation. The host uses [[YanHui|颜回]] to explain that one should neither advertise one's virtue nor press one's labor on others, extending [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] from leadership toward interpersonal self-cultivation.
 
 ## Connections
-- [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|Hanji 908]], [[ZiXia|子夏]], [[CaiYong|蔡邕]], and [[OfficialSelectionChannelCompetition|选官通道竞争]] - "small ways" citation used to bound artistic and literary appointment value.
+- [[zizhi-tongjian-hanji-908-nijing-chu-qiangzhe-xialu-chu-yongzhe-gudu-chu-zhizhe-lqih1dradhzi0mipxsaiedd52dlj|汉纪 908]], [[ZiXia|子夏]], [[CaiYong|蔡邕]], and [[OfficialSelectionChannelCompetition|选官通道竞争]] - "small ways" citation used to bound artistic and literary appointment value.
 - [[Confucius|孔子]] - central figure associated with the text.
 - [[MenciusText|《孟子》]] - comparison text in the episode.
 - [[Mengzi|孟子 / Mencius]] - later Confucian figure whose text is contrasted with it.
@@ -31,4 +31,4 @@ This page is source-scoped. It records the comparison used by the episode rather
 - [[YeGong|叶公]], [[BaiGongSheng|白公胜]], and [[RenyiGroundedVirtue|仁义为本的信勇]] - Qinji 119-2 use of the text for evaluating 信 and 勇.
 - [[QinShiHuang|嬴政 / 秦始皇]], [[Xianyang|咸阳]], [[HighTempleRite|高庙礼]], and [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p|Qinji 121]] - North Star analogy used to frame imperial travel.
 - [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]] and [[TemperateDrinkingSelfControl|节制饮酒与自我控制]] - not-being-trapped-by-drink citation.
-- [[YanHui|颜回]], [[ZengGuofan|曾国藩]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - Hanji 994 anti-boasting and anti-jealousy citation.
+- [[YanHui|颜回]], [[ZengGuofan|曾国藩]], and [[SubordinateSuccessNonJealousy|下属成就不嫉妒]] - 汉纪 994 anti-boasting and anti-jealousy citation.

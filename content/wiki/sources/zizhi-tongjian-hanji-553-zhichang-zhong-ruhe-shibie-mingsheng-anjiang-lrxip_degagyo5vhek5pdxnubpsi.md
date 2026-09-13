@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 1 / 8 BCE under [[HanChengdi|汉成帝]], between the Chengdi succession decision in Hanji 552 and the Xiongnu land-demand episode in Hanji 554. It begins with Chengdi's honoring of [[KongJiWesternHan|孔吉]] and the Zhou descendant line, then centers on [[HeWuWesternHan|何武]]'s proposal to restore the Three Excellencies so that Da Sima, Da Sikong, and chancellor stand at comparable rank.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 1 / 8 BCE under [[HanChengdi|汉成帝]], between the Chengdi succession decision in 汉纪 552 and the Xiongnu land-demand episode in 汉纪 554. It begins with Chengdi's honoring of [[KongJiWesternHan|孔吉]] and the Zhou descendant line, then centers on [[HeWuWesternHan|何武]]'s proposal to restore the Three Excellencies so that Da Sima, Da Sikong, and chancellor stand at comparable rank.
 
 The durable synthesis is that office reform can be a power trade, not just a promotion. [[WangGenWesternHan|王根]] receives formal Da Sima recognition and higher-status balance with the other top offices, but loses the Piaoji Jiangjun military command; the episode reads this as "明升暗降," where title, rank, and face rise while the core resource of usable command is removed.
 

@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the [[ZhangChangWesternHan|张敞]] story behind [[FiveDayJingzhao|五日京兆]] before the later [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|Hanji 469]] teacher-suitability discussion. It follows [[XuShunWesternHan|徐顺]] dismissing Zhang as a near-dismissed Jingzhao Yin, Zhang using legal custody and execution to punish the slight, [[EmperorXuanOfHan|汉宣帝]] removing him, and then recalling him because capital and Jizhou banditry still need his administrative capacity.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the [[ZhangChangWesternHan|张敞]] story behind [[FiveDayJingzhao|五日京兆]] before the later [[zizhi-tongjian-hanji-469-weishenme-junzi-dou-buguo-xiaoren-kankan-xiaowangzhi-de-xiachang-lj8iji-c3scj6vznntavm6awolho|汉纪 469]] teacher-suitability discussion. It follows [[XuShunWesternHan|徐顺]] dismissing Zhang as a near-dismissed Jingzhao Yin, Zhang using legal custody and execution to punish the slight, [[EmperorXuanOfHan|汉宣帝]] removing him, and then recalling him because capital and Jizhou banditry still need his administrative capacity.
 
 The durable synthesis is that Zhang Chang's career cannot be reduced to either favorite-wife anecdote or capable-official praise. He is a strong public-order official who can break powerful criminal networks, but the Xu Shun case makes his authority ethically unstable because he routes personal anger through state punishment; this is why [[XiaoWangzhiWesternHan|萧望之]] later treats his ability as insufficient for crown-prince instruction.
 
@@ -45,5 +45,5 @@ The durable synthesis is that Zhang Chang's career cannot be reduced to either f
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. This source backfills Zhang Chang's earlier career and explains why Hanji 469's "capable but unsuitable" teacher judgment has a harsher ethical background.
+- No settled contradiction with existing wiki content was found. This source backfills Zhang Chang's earlier career and explains why 汉纪 469's "capable but unsuitable" teacher judgment has a harsher ethical background.
 - Scope caution: Xu Shun, Guangchuan Wang, Liu Diao, the exact legal status of the spring execution timing, and Zhang Chang's complete office chronology remain source-scoped unless later notes warrant fuller pages.

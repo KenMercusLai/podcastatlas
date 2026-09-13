@@ -11,13 +11,13 @@ last_updated: 2026-08-29
 
 ## Overview
 
-冯师 / Feng Shi appears in the Shun restoration block as a military official whose refusal to commit helps decide the failed Yan counterattack. Hanji 803 presents him as the Yueqi xiaowei whom [[YanXianLateHan|阎显]] and [[EmpressDowagerYanLateHan|阎太后]] try to mobilize against [[EmperorShunOfHan|Liu Bao / 汉顺帝]], but Feng Shi exits the palace, kills the messenger, and remains in camp.
+冯师 / Feng Shi appears in the Shun restoration block as a military official whose refusal to commit helps decide the failed Yan counterattack. 汉纪 803 presents him as the Yueqi xiaowei whom [[YanXianLateHan|阎显]] and [[EmpressDowagerYanLateHan|阎太后]] try to mobilize against [[EmperorShunOfHan|Liu Bao / 汉顺帝]], but Feng Shi exits the palace, kills the messenger, and remains in camp.
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] supplies Feng Shi's decisive action. After Sun Cheng's group enthrones Liu Bao and cuts off Yan Taihou's communication, Yan Xian panics. The Yan side orders Fan Deng to summon Feng Shi and Yan Chong to defend Ping Shuo Gate and offers large marquisate rewards for capturing Liu Bao or [[LiRunLateHan|李润]]. Feng Shi pretends to comply, leaves the palace on the pretext of fetching troops, kills Fan Deng after exiting, and closes his camp instead of joining Yan Xian.
+[[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|汉纪 803]] supplies Feng Shi's decisive action. After Sun Cheng's group enthrones Liu Bao and cuts off Yan Taihou's communication, Yan Xian panics. The Yan side orders Fan Deng to summon Feng Shi and Yan Chong to defend Ping Shuo Gate and offers large marquisate rewards for capturing Liu Bao or [[LiRunLateHan|李润]]. Feng Shi pretends to comply, leaves the palace on the pretext of fetching troops, kills Fan Deng after exiting, and closes his camp instead of joining Yan Xian.
 
-[[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] later keeps Feng Shi in the cleanup field. Yu Xu's post-restoration impeachment list includes Feng Shi, so the same noncommitment that deprives Yan Xian of troops does not make Feng Shi a clean restoration actor.
+[[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] later keeps Feng Shi in the cleanup field. Yu Xu's post-restoration impeachment list includes Feng Shi, so the same noncommitment that deprives Yan Xian of troops does not make Feng Shi a clean restoration actor.
 
 ## Key Characteristics
 
@@ -29,13 +29,13 @@ last_updated: 2026-08-29
 
 ## Evidence
 
-- Yan mobilization attempt: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] says Yan Xian uses Yan Taihou's authority to summon Feng Shi and Yan Chong for defense of Ping Shuo Gate.
-- Exit and refusal: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] says Feng Shi leaves to fetch troops, kills Fan Deng, returns to camp, and closes the doors.
-- Later suspicion: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|Hanji 805]] says Yu Xu later impeaches Feng Shi during the Shun restoration cleanup.
+- Yan mobilization attempt: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|汉纪 803]] says Yan Xian uses Yan Taihou's authority to summon Feng Shi and Yan Chong for defense of Ping Shuo Gate.
+- Exit and refusal: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|汉纪 803]] says Feng Shi leaves to fetch troops, kills Fan Deng, returns to camp, and closes the doors.
+- Later suspicion: [[zizhi-tongjian-hanji-805-tongtou-renxing-de-nvren-jing-neng-yuce-jixiong-ll3bzoyrkbtnvt-aqu9nqelqonew|汉纪 805]] says Yu Xu later impeaches Feng Shi during the Shun restoration cleanup.
 
 ## Qualifications
 
-This page is bounded to Hanji 803 and Hanji 805. It does not settle Feng Shi's full office history, motive for killing Fan Deng, later punishment, or whether his action should be read as prudence, opportunism, or hidden sympathy for the restoration side.
+This page is bounded to 汉纪 803 and 汉纪 805. It does not settle Feng Shi's full office history, motive for killing Fan Deng, later punishment, or whether his action should be read as prudence, opportunism, or hidden sympathy for the restoration side.
 
 ## What Changed
 

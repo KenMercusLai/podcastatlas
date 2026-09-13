@@ -8,7 +8,7 @@ last_updated: 2026-08-25
 
 # 盾弩反骑兵战术 / Shield-Crossbow Anti-Cavalry
 
-盾弩反骑兵战术 / shield-crossbow anti-cavalry enters the wiki through [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|Hanji 960]] as the tactical mechanism behind [[QuYiLateHan|麹义]]'s victory at [[JieqiaoBattleLateHan|界桥之战]]. The source says [[YuanShao|袁绍]] uses Qu Yi's small infantry body and strong crossbows against [[GongsunZan|公孙瓒]]'s larger cavalry-heavy force.
+盾弩反骑兵战术 / shield-crossbow anti-cavalry enters the wiki through [[zizhi-tongjian-hanji-960-caowei-dingji-zhinang-xunyu-weihe-qi-yuan-tou-cao-lmor1txqpm88itt4incalusconjr|汉纪 960]] as the tactical mechanism behind [[QuYiLateHan|麹义]]'s victory at [[JieqiaoBattleLateHan|界桥之战]]. The source says [[YuanShao|袁绍]] uses Qu Yi's small infantry body and strong crossbows against [[GongsunZan|公孙瓒]]'s larger cavalry-heavy force.
 
 The pattern works through disciplined timing. The infantry does not answer the charge too early; it holds behind shields, lets the cavalry close, then combines shield-line stability with crossbow release from prepared positions. Gongsun Zan reads the small vanguard as a weak target, but that interpretation fixes his mounted force into the range and momentum the formation needs.
 

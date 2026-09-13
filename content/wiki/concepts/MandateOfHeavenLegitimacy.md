@@ -11,7 +11,7 @@ Mandate of Heaven legitimacy / 天命合法性 is the source's frame for how the
 
 The concept is important because it separates sacred legitimacy from simple propaganda. The episode presents the mandate as a working political language believed, managed, exploited, and feared by rulers, officials, and later challengers such as [[WangMang|王莽]].
 
-[[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]] adds a failed-claimant mandate use. [[YuanShu|袁术]] tries to combine prophecy, [[YinYangFivePhasesPoliticalTheory|five-phases]] transfer logic, and the [[HeirloomImperialSeal|传国玉玺]], but [[YanXiangLateHan|阎象]] and [[ZhangChengLateHan|张承]] test the claim against virtue, title-rightness, and people-support rather than treating heavenly language as self-validating.
+[[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|汉纪 1001]] adds a failed-claimant mandate use. [[YuanShu|袁术]] tries to combine prophecy, [[YinYangFivePhasesPoliticalTheory|five-phases]] transfer logic, and the [[HeirloomImperialSeal|传国玉玺]], but [[YanXiangLateHan|阎象]] and [[ZhangChengLateHan|张承]] test the claim against virtue, title-rightness, and people-support rather than treating heavenly language as self-validating.
 
 [[30-mengzi-zhanguo-fenqing-de-chizi-zhixin-592494138]] adds a Mencian version through [[MencianPeopleBasedLegitimacy]]. In that source, Heaven is not primarily read through omens or dynastic signs but through the people's seeing and hearing, making popular response a test of whether rule is legitimate.
 
@@ -33,12 +33,12 @@ The concept is important because it separates sacred legitimacy from simple prop
 
 [[zizhi-tongjian-qinji-122-1-jiemi-qinshihuang-fengchan-weishenme-xuan-taishan-lkcyayuqrtsgy-k4bhdvy-l-lapo]] adds the Qin fengshan branch. The episode reads [[QinShiHuang|嬴政 / 秦始皇]]'s ceremony at [[Taishan|泰山]] and [[LiangfuMountain|梁父山]] as an attempt to make recent conquest look recognized by Heaven. This is a stronger claim than ordinary ritual recognition: [[FengshanRitualLegitimacy|封禅礼制合法性]] presents the emperor's rule as authorized, while the source still keeps the ritual procedure uncertain and partly reconstructed.
 
-[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]] adds a negative mandate-use case through [[XiangYu|项羽]]. The episode cites [[YangXiong|扬雄]] to reject Xiang Yu's claim that his fall was simply Heaven's will: [[LiuBang|刘邦]] wins by gathering and using people, while Xiang Yu weakens himself by rejecting counsel and relying on personal force. The concept therefore now covers both constructive mandate claims and the critique of fatalistic mandate language when it hides political failure.
+[[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|汉纪 169]] adds a negative mandate-use case through [[XiangYu|项羽]]. The episode cites [[YangXiong|扬雄]] to reject Xiang Yu's claim that his fall was simply Heaven's will: [[LiuBang|刘邦]] wins by gathering and using people, while Xiang Yu weakens himself by rejecting counsel and relying on personal force. The concept therefore now covers both constructive mandate claims and the critique of fatalistic mandate language when it hides political failure.
 
 ## Key Claims
 - A mandate narrative strengthens a dynasty by making rule more than military success.
 - The same narrative can imply that Heaven may withdraw approval.
-- Hanji 1001 adds that a claimant's heavenly-sign argument can fail when advisers reject the claim's virtue, title, and people-support foundations.
+- 汉纪 1001 adds that a claimant's heavenly-sign argument can fail when advisers reject the claim's virtue, title, and people-support foundations.
 - Omen interpretation gives political actors a way to argue that legitimacy has shifted.
 - In the source, mandate politics is inseparable from [[ChenweiPolitics]], [[AuspiciousOmenPolitics]], and [[DynasticLegitimacyBackfire]].
 - The Mencius source emphasizes a people-facing version of Heaven's will rather than an omen-centered imperial version.
@@ -51,11 +51,11 @@ The concept is important because it separates sacred legitimacy from simple prop
 - A ruler's claim that military success proves Heaven's will still has to be tested against popular welfare and post-conquest conduct.
 - Succession legitimacy can also be bound by formalized kinship credentials, not only by omens, ritual recognition, or popular response.
 - Qinji 122-1 adds fengshan as a direct mandate-claiming ritual: conquest is made to appear Heaven-recognized through Taishan ceremony rather than through military success alone.
-- Hanji 169 adds a critical use: invoking Heaven can become a failed ruler's excuse unless it is tested against people's support, counsel, and political integration.
+- 汉纪 169 adds a critical use: invoking Heaven can become a failed ruler's excuse unless it is tested against people's support, counsel, and political integration.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|Hanji 1001]], [[YuanShu|袁术]], [[YanXiangLateHan|阎象]], [[ZhangChengLateHan|张承]], and [[HeirloomImperialSeal|传国玉玺]] - failed late-Han claimant use of prophecy, five-phases transfer, and imperial symbol.
-- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|Hanji 169]], [[XiangYu|项羽]], [[YangXiong|扬雄]], [[LiuBang|刘邦]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - critique of fatalistic Heaven language after Xiang Yu's defeat.
+- [[zizhi-tongjian-hanji-1001-weishenme-quan-ni-buyao-fanzhongnu-lolurkcjpie14nnczk0tu7iqerke|汉纪 1001]], [[YuanShu|袁术]], [[YanXiangLateHan|阎象]], [[ZhangChengLateHan|张承]], and [[HeirloomImperialSeal|传国玉玺]] - failed late-Han claimant use of prophecy, five-phases transfer, and imperial symbol.
+- [[zizhi-tongjian-hanji-169-pandian-liubang-dengjiqian-buweirenzhi-de-gushi-1-liwkaygjtyafxxpdwzq9pdhuzroi|汉纪 169]], [[XiangYu|项羽]], [[YangXiong|扬雄]], [[LiuBang|刘邦]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - critique of fatalistic Heaven language after Xiang Yu's defeat.
 - [[WesternHanDynasty]], [[LiuBang]], [[WangMang]], and [[XinDynasty]] - source case.
 - [[DongZhongshu]] - intellectual background in the episode.
 - [[Mengzi|孟子 / Mencius]] and [[MencianPeopleBasedLegitimacy]] - Mencian people-based extension.

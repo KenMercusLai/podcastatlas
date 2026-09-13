@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-Crown Prince Li Xian enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] as an early emotional relationship in [[ShangguanWaner|上官婉儿]]'s life. The stable suffix `Tang` keeps him distinct from other Li Xian pages in the corpus.
+Crown Prince Li Xian enters the wiki through [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] as an early emotional relationship in [[ShangguanWaner|上官婉儿]]'s life. The stable suffix `Tang` keeps him distinct from other Li Xian pages in the corpus.
 
 ## Current Profile
 
@@ -26,8 +26,8 @@ The episode says Li Xian was deeply attached to Shangguan Wan'er, but their rela
 
 ## Evidence
 
-- Attachment: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Li Xian was deeply infatuated with Shangguan Wan'er.
-- Interruption: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|Hanji 536-3]] says Wu Zetian interrupted the relationship and that the two could only remain friends.
+- Attachment: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Li Xian was deeply infatuated with Shangguan Wan'er.
+- Interruption: [[zizhi-tongjian-hanji-536-3-jiemi-shangguan-waner-he-ta-beihou-de-nanrenmen-lqj7rpwwfllogrxrbav-xqwwnnnm|汉纪 536-3]] says Wu Zetian interrupted the relationship and that the two could only remain friends.
 
 ## Qualifications
 
@@ -35,7 +35,7 @@ This page is limited to Li Xian's role in the episode's Shangguan Wan'er relatio
 
 ## What Changed
 
-- Created the page from Hanji 536-3 as an early constrained relationship in Shangguan Wan'er's biography.
+- Created the page from 汉纪 536-3 as an early constrained relationship in Shangguan Wan'er's biography.
 
 ## Relationships
 

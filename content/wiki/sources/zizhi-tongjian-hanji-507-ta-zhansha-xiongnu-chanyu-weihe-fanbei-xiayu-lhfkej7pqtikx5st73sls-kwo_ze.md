@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 4 / 29 BCE under [[HanChengdi|汉成帝]], between the flood-rumor politics of [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|Hanji 505]] and the later Changling and Chen Tang memory sequence. It moves from ignored Yellow River prevention advice and disaster rescue to [[WangZunWesternHan|王尊]]'s rapid suppression of Nanshan bandits, then centers [[ChenTangWesternHan|陈汤]] being impeached by [[KuangHengWesternHan|匡衡]], imprisoned after a false Kangju prince-hostage report, and spared through [[GuYongWesternHan|谷永]]'s proportional-merit defense.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianshi 4 / 29 BCE under [[HanChengdi|汉成帝]], between the flood-rumor politics of [[zizhi-tongjian-hanji-505-xihan-de-huicheng-yaoyan-da-le-shui-de-lian-ljuwccxx_aexasafkpbl-y2rvos5|汉纪 505]] and the later Changling and Chen Tang memory sequence. It moves from ignored Yellow River prevention advice and disaster rescue to [[WangZunWesternHan|王尊]]'s rapid suppression of Nanshan bandits, then centers [[ChenTangWesternHan|陈汤]] being impeached by [[KuangHengWesternHan|匡衡]], imprisoned after a false Kangju prince-hostage report, and spared through [[GuYongWesternHan|谷永]]'s proportional-merit defense.
 
 The durable synthesis is that Chengdi-era governance repeatedly tests whether capacity, warning, and merit can survive court incentives. Flood prevention is deferred for cost and followed by emergency rescue and official blame; Wang Zun shows local capacity when command fit is right; Chen Tang shows the harder rule that great frontier service can justify leniency, but not cleanly erase greed, false reporting, or political vulnerability.
 
@@ -46,5 +46,5 @@ The durable synthesis is that Chengdi-era governance repeatedly tests whether ca
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: the episode is an earlier backfill for Chen Tang than Hanji 526, Hanji 541, and Hanji 570; it supplies a distinct Kangju-property and hostage-report case rather than replacing the later Changling punishment sequence.
+- Chronology qualification: the episode is an earlier backfill for Chen Tang than 汉纪 526, 汉纪 541, and 汉纪 570; it supplies a distinct Kangju-property and hostage-report case rather than replacing the later Changling punishment sequence.
 - Scope caution: Feng Qu's full memorial, Xu Shang's survey, engineering feasibility, exact flood statistics, Yin Zhong's rescue plan, Wang Zun's suppression methods, Chen Tang's legal file, and the identity of the Kangju hostage remain source-scoped.

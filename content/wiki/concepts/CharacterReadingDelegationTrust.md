@@ -16,9 +16,9 @@ Character-reading delegation trust / 识人授权信任 is the leadership patter
 
 ## Current Synthesis
 
-The concept now has two variants. In the Sun Ce-Taishi Ci variant, trust turns captured or potentially mobile talent into service because the subordinate's promise-keeping and desire for a worthy lord make defection less likely than advisers fear. Sun Ce first captures, releases, and appoints Taishi Ci in [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]], then trusts him in [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] to pacify Liu Yao's remaining followers and inspect Yuzhang despite visible escape risk.
+The concept now has two variants. In the Sun Ce-Taishi Ci variant, trust turns captured or potentially mobile talent into service because the subordinate's promise-keeping and desire for a worthy lord make defection less likely than advisers fear. Sun Ce first captures, releases, and appoints Taishi Ci in [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|汉纪 1028]], then trusts him in [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] to pacify Liu Yao's remaining followers and inspect Yuzhang despite visible escape risk.
 
-[[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] extends the pattern from positive delegation to crisis control. After Feng Yin kills Zong Xin and threatens [[DengYuEasternHan|邓禹]], Liu Xiu does not treat formal rank alone as sufficient. He asks who is closest to Feng Yin, hears that it is Huang Fang, and predicts that Huang Fang can seize him; a month later Huang Fang captures Feng Yin and brings the army back to apologize. The common mechanism is not blind confidence, but a judgment that personal ties and prior conduct can make a high-risk action more predictable than force hierarchy alone.
+[[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|汉纪 682]] extends the pattern from positive delegation to crisis control. After Feng Yin kills Zong Xin and threatens [[DengYuEasternHan|邓禹]], Liu Xiu does not treat formal rank alone as sufficient. He asks who is closest to Feng Yin, hears that it is Huang Fang, and predicts that Huang Fang can seize him; a month later Huang Fang captures Feng Yin and brings the army back to apologize. The common mechanism is not blind confidence, but a judgment that personal ties and prior conduct can make a high-risk action more predictable than force hierarchy alone.
 
 ## Key Claims
 
@@ -30,20 +30,20 @@ The concept now has two variants. In the Sun Ce-Taishi Ci variant, trust turns c
 
 ## Evidence
 
-- Incorporation before trust: [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|Hanji 1028]] says Sun Ce captures Taishi Ci, reads his courage and loyalty, releases him, and appoints him as `门下督`.
-- Risky mission authorization: [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] says Sun Ce sends Taishi Ci to calm Liu Yao's remaining followers and inspect Yuzhang while advisers warn he may not return.
-- Promise and intelligence result: [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] says Taishi Ci returns within the promised sixty days and reports on Hua Xin, Tong Zhi, and Panyang local forces.
-- Relationship leverage in crisis: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] says Liu Xiu asks who is closest to Feng Yin, identifies Huang Fang as the person able to seize him, and is later proven correct when Huang Fang captures Feng Yin and returns the army.
-- Negative risk context: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|Hanji 682]] also says Feng Yin had already killed Zong Xin and threatened Deng Yu, showing that character reading operates under real command danger rather than calm personnel theory.
+- Incorporation before trust: [[zizhi-tongjian-hanji-1028-xiaobawang-sunce-liwei-chengba-jiangdong-lgur-3fmpr55wy3aji-0rm38y7x|汉纪 1028]] says Sun Ce captures Taishi Ci, reads his courage and loyalty, releases him, and appoints him as `门下督`.
+- Risky mission authorization: [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] says Sun Ce sends Taishi Ci to calm Liu Yao's remaining followers and inspect Yuzhang while advisers warn he may not return.
+- Promise and intelligence result: [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] says Taishi Ci returns within the promised sixty days and reports on Hua Xin, Tong Zhi, and Panyang local forces.
+- Relationship leverage in crisis: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|汉纪 682]] says Liu Xiu asks who is closest to Feng Yin, identifies Huang Fang as the person able to seize him, and is later proven correct when Huang Fang captures Feng Yin and returns the army.
+- Negative risk context: [[zizhi-tongjian-hanji-682-jiemi-gudai-dihuang-de-yongrenzhidao-lk1eq46vftaul1hazk2ggptrtvdv|汉纪 682]] also says Feng Yin had already killed Zong Xin and threatened Deng Yu, showing that character reading operates under real command danger rather than calm personnel theory.
 
 ## Counterevidence & Qualifications
 
-This concept should not be generalized into unconditional trust. Hanji 1028 and Hanji 1029 work because Sun Ce has already shown military superiority, public recognition, and a plausible place for Taishi Ci in his order. Hanji 682 works because Liu Xiu identifies a specific closest-tie channel in a mutiny; the source does not provide a full biography of Huang Fang or Feng Yin. The two case clusters also differ by context: Jiangdong talent incorporation and Guangwu-era Guanzhong command breakdown are comparable as personnel-reading problems, not as identical institutions.
+This concept should not be generalized into unconditional trust. 汉纪 1028 and 汉纪 1029 work because Sun Ce has already shown military superiority, public recognition, and a plausible place for Taishi Ci in his order. 汉纪 682 works because Liu Xiu identifies a specific closest-tie channel in a mutiny; the source does not provide a full biography of Huang Fang or Feng Yin. The two case clusters also differ by context: Jiangdong talent incorporation and Guangwu-era Guanzhong command breakdown are comparable as personnel-reading problems, not as identical institutions.
 
 ## What Changed
 
 - Migrated the page to the synthesis-v1 concept schema.
-- Added Hanji 682 as a threat-prediction and mutiny-control variant of character-reading trust.
+- Added 汉纪 682 as a threat-prediction and mutiny-control variant of character-reading trust.
 - Reframed the concept beyond promise-keeping delegation to include relationship leverage inside command breakdown.
 
 ## Related Concepts

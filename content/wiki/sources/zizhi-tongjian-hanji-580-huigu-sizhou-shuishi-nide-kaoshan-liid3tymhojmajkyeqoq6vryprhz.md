@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], after [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|Hanji 578]] and before [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|Hanji 581]]. It follows [[ZhuBoWesternHan|朱博]] and [[ZhaoXuanWesternHan|赵璇]] as they continue the post-[[ShiDanWesternHan|施丹]] attack against [[WangMang|王莽]], only for Aidi to preserve Wang Mang's title and fief because [[WangZhengjun|王政君]] remains his decisive patron.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianping 2 / 5 BCE under [[HanAidi|汉哀帝]], after [[zizhi-tongjian-hanji-578-quanli-jiaofeng-shi-renshi-biangdong-zui-mingan-lnnrrbggajjfulskbig4kmgnif5s|汉纪 578]] and before [[zizhi-tongjian-hanji-581-han-aidi-zai-guishen-zhidao-you-duo-yuchun-ltok7kbzmuf-os84spseww0qjbrm|汉纪 581]]. It follows [[ZhuBoWesternHan|朱博]] and [[ZhaoXuanWesternHan|赵璇]] as they continue the post-[[ShiDanWesternHan|施丹]] attack against [[WangMang|王莽]], only for Aidi to preserve Wang Mang's title and fief because [[WangZhengjun|王政君]] remains his decisive patron.
 
 The durable synthesis is that late Western Han court safety depends on visible backing, not only formal guilt. [[YangXuanWesternHan|杨宣]]'s secret memorial reframes leniency toward the Wang clan as part of Aidi's obligation to [[HanChengdi|汉成帝]] and Wang Zhengjun, while Zhu Bo's separate州牧-to-刺史 proposal shows office rank itself changing officials' incentives to monitor local power.
 
@@ -46,5 +46,5 @@ The durable synthesis is that late Western Han court safety depends on visible b
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source predates Hanji 581's renewed-mandate episode, Hanji 582's Zhu Bo collapse, and Hanji 595's later Wang Mang recall.
+- Chronology qualification: this source predates 汉纪 581's renewed-mandate episode, 汉纪 582's Zhu Bo collapse, and 汉纪 595's later Wang Mang recall.
 - Scope caution: Zhao Xuan's name form, Wang Ren, Wang Yi, Wang Shang's family details, the exact州牧/刺史 institutional history, Dingtao burial labor figures, and Aidi's private motive remain source-scoped.

@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-海昏侯国 / Haihun Marquisate enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] as the reduced settlement granted to [[LiuHeHaihunHou|刘贺]] after his deposition from imperial and royal standing.
+海昏侯国 / Haihun Marquisate enters the wiki through [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] as the reduced settlement granted to [[LiuHeHaihunHou|刘贺]] after his deposition from imperial and royal standing.
 
 ## Current Profile
 
@@ -25,12 +25,12 @@ In this source, Haihun is not primarily a local-history object. It is a politica
 ## Evidence
 
 Containment arrangement:
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Xuan makes Liu He Marquis of Haihun in 63 BCE.
-- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|Hanji 430]] says Liu He loses ancestral-temple sacrifice and court-audience rights.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Xuan makes Liu He Marquis of Haihun in 63 BCE.
+- [[zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq|汉纪 430]] says Liu He loses ancestral-temple sacrifice and court-audience rights.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 430. It does not reconstruct Haihun's archaeology, administrative geography, tomb finds, or later reception history.
+This page is source-scoped to 汉纪 430. It does not reconstruct Haihun's archaeology, administrative geography, tomb finds, or later reception history.
 
 ## What Changed
 

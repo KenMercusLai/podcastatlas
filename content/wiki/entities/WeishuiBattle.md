@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 潍水之战 / Battle of Weishui
 
-潍水之战 / Battle of Weishui enters the wiki through [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] as the battle that completes [[HanXin|韩信]]'s attack on [[QiState|齐国]]. After Qi asks [[XiangYu|项羽]] for help, [[LongJuChuGeneral|龙且]] brings a claimed 200,000-man Chu rescue force and joins [[TianGuangQiKing|田广]] around Gaomi.
+潍水之战 / Battle of Weishui enters the wiki through [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|汉纪 164-2]] as the battle that completes [[HanXin|韩信]]'s attack on [[QiState|齐国]]. After Qi asks [[XiangYu|项羽]] for help, [[LongJuChuGeneral|龙且]] brings a claimed 200,000-man Chu rescue force and joins [[TianGuangQiKing|田广]] around Gaomi.
 
 The episode makes the battle begin with rejected restraint. A retainer advises Long Ju to hold the camp, let Tian Guang call back cities already taken by Han, and use Han's distance from its base to turn the campaign into a supply problem. Long Ju rejects this because he despises Han Xin's early humiliations, expects an easy victory, and wants the merit and possible territorial reward of defeating Han Xin directly.
 
@@ -17,7 +17,7 @@ Han Xin answers that psychology with a river trap. At night he has troops fill t
 The aftermath turns a battlefield defeat into a political collapse. The remaining Chu troops scatter, Tian Guang is captured at Chengyang, [[GuanYing|灌婴]] captures the Qi chancellor Tian Guang and enters Boyang, and [[TianHeng|田横]] briefly makes himself Qi king before losing to Guan Ying at Ying County and fleeing to [[PengYue|彭越]]. [[CaoShen|曹参]] and Guan Ying then continue the pursuit until Qi is pacified.
 
 ## Connections
-- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|Hanji 164-2]] - source episode.
+- [[zizhi-tongjian-hanji-164-2-xiangyu-touhao-dajiang-zenme-shu-gei-hanxin-de-lhe-lmb1zrzipbongg02gmnmb4l|汉纪 164-2]] - source episode.
 - [[HanXin|韩信]] - commander who stages the dam, crossing, feigned retreat, and counterattack.
 - [[LongJuChuGeneral|龙且]] - Chu commander killed after pursuing into the trap.
 - [[QiState|齐国]], [[TianGuangQiKing|田广]], and [[TianHeng|田横]] - political field that collapses after the battle.

@@ -18,7 +18,7 @@ The page is source-scoped until later materials develop Li Bai independently. He
 
 [[zizhi-tongjian-qinji-131-3-liqingzhao-zhongnian-fuqi-libie-hejiu-jie-xiangsi-lnzxhrj2iulahccy2-pkm-wphdei|Qinji 131-3]] adds the more familiar wine-poet image. The episode uses Li Bai as the emblem of [[PoeticWineCulture|诗酒文化]]: drink can feed poetic momentum, public persona, and the later memory of inspired spontaneity. This source also places him inside [[DuFu|杜甫]]'s 《饮中八仙歌》, where Du Fu's admiration helps turn Li Bai's drinking into a literary portrait rather than a flat anecdote.
 
-[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]] uses Li Bai's frontier-poetry mood differently. The episode opens from 《关山月》 to frame [[Xiongnu|匈奴]] pressure and the coming [[BaidengEncirclement|白登之围]], then pivots from the frontier threat back to [[ShusunTong|叔孙通]]'s court ritual work. Li Bai is therefore a scene-setting literary lens rather than a main historical actor in this source.
+[[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|汉纪 176]] uses Li Bai's frontier-poetry mood differently. The episode opens from 《关山月》 to frame [[Xiongnu|匈奴]] pressure and the coming [[BaidengEncirclement|白登之围]], then pivots from the frontier threat back to [[ShusunTong|叔孙通]]'s court ritual work. Li Bai is therefore a scene-setting literary lens rather than a main historical actor in this source.
 
 ## Connections
 - [[YuQing|虞卿]] and [[WeiQiWarringStates|魏齐]] - friendship pair admired in the episode's Li Bai reception layer.
@@ -27,4 +27,4 @@ The page is source-scoped until later materials develop Li Bai independently. He
 - [[TangPoetryCulturalGeography|唐诗文化地理]] - adjacent existing poetry-reception branch, though this source does not develop Li Bai's geography.
 - [[LuZhonglian|鲁仲连]], [[MoralizedShiIdentity|士的道德化身份]], and [[VirtuePracticeInternalization|修养内化]] - Qinji 101-2 admiration for independent high士 conduct.
 - [[DuFu|杜甫]], [[PoeticWineCulture|诗酒文化]], and [[CapitalPoetrySociality]] - Qinji 131-3 wine-poetry and Chang'an portrait branch.
-- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|Hanji 176]], [[Xiongnu|匈奴]], [[BaidengEncirclement|白登之围]], and [[ShusunTong|叔孙通]] - frontier-poetry opening used to frame the early-Han ritual turn.
+- [[zizhi-tongjian-hanji-176-shusuntong-ruhe-wei-dahan-zhiding-liyi-zhidu-loeoqccrfwbmtr634ukyau9xykqy|汉纪 176]], [[Xiongnu|匈奴]], [[BaidengEncirclement|白登之围]], and [[ShusunTong|叔孙通]] - frontier-poetry opening used to frame the early-Han ritual turn.

@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Deng-regency Wudu and Qiang-front layer immediately before [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]]. Its historical core follows [[YuXuEasternHan|虞诩]] from a cavalry-mobility recommendation adopted through [[RenShangLateHan|任尚]] into his dangerous appointment as [[WuduCommanderyLateHan|武都郡]] taishou and the [[ChitingDefenseLateHan|赤亭守战]]. The durable synthesis is that Yu Xu survives an asymmetric frontier crisis by matching enemy mobility where possible and then manipulating enemy perception through false delay, [[IncreasingStovesDeception|增灶示强]], concealed crossbows, false reinforcements, night raids, and a half-river ambush.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Deng-regency Wudu and Qiang-front layer immediately before [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|汉纪 789]]. Its historical core follows [[YuXuEasternHan|虞诩]] from a cavalry-mobility recommendation adopted through [[RenShangLateHan|任尚]] into his dangerous appointment as [[WuduCommanderyLateHan|武都郡]] taishou and the [[ChitingDefenseLateHan|赤亭守战]]. The durable synthesis is that Yu Xu survives an asymmetric frontier crisis by matching enemy mobility where possible and then manipulating enemy perception through false delay, [[IncreasingStovesDeception|增灶示强]], concealed crossbows, false reinforcements, night raids, and a half-river ambush.
 
 ## Key Claims
 
@@ -41,7 +41,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[WuduCommanderyLateHan|武都郡]] and [[ChitingDefenseLateHan|赤亭守战]] - central frontier setting and battle sequence for Yu Xu's small-force success.
 - [[IncreasingStovesDeception|增灶示强]] - new concept abstracted from Yu Xu's opposite-of-Sun-Bin stove tactic.
 - [[HanCavalryFormation|汉军骑兵建设]] - extended from Chu-Han cavalry learning to Eastern Han frontier mobility matching.
-- [[RenShangLateHan|任尚]] - appears before Hanji 789-790 as the commander who implements Yu Xu's light-cavalry advice.
+- [[RenShangLateHan|任尚]] - appears before 汉纪 789-790 as the commander who implements Yu Xu's light-cavalry advice.
 - [[BattlefieldInformationControl|战场信息控制]] and [[LureEnemyOutOfPosition|诱敌离位]] - broader strategy frames for the false-delay, visible-stove, fake-reinforcement, and withdrawal-ambush sequence.
 - [[DecreasingStovesDeception|减灶诱敌]] - contrast case because Yu Xu chooses false strength rather than Sun Bin's false weakness.
 - [[EmpressDowagerDengLateHan|和熹邓皇后]] and [[RegencyUnderCompoundCrisis|复合危机下的摄政]] - the episode adds an earlier regency layer of military appointment, Wuling unrest, earthquake response, office turnover, and family-honor restraint.
@@ -50,7 +50,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction is recorded. The source expands Yu Xu's chronology before the already-ingested Shun-era Hanji 805, Hanji 806, Hanji 810, and Hanji 818 layers.
+- No settled contradiction is recorded. The source expands Yu Xu's chronology before the already-ingested Shun-era 汉纪 805, 汉纪 806, 汉纪 810, and 汉纪 818 layers.
 - Name caution: the episode source writes 于许; this ingest normalizes him to [[YuXuEasternHan|虞诩]] because that is the existing durable route used for the same official.
 - Route caution: [[WuduCommanderyLateHan|武都郡]] is created to avoid collision with existing [[Wudu|《五蠹》 / Wu Du]].
 - Scope caution: the unnamed Qiang forces, Chen Cang small valley, Chiting, Xia Qin or Xia Qin-like office rendering, Wuling Man rebels, Deng Guangde, and exact casualty figures remain source-scoped unless later source notes corroborate or require standalone pages.

@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 6 / 30 CE layer between [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|Hanji 699]] and [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]]. It connects [[FengYiEasternHan|冯异]]'s return to court and remembered hardship with [[WeiXiaoEasternHan|隗嚣]]'s refusal to attack [[GongsunShuEasternHan|公孙述]], [[LaiXiEasternHan|来歙]]'s dangerous envoy mission, Wei Xiao's open rebellion, and [[MaWuEasternHan|马武]]'s rearguard after a Han defeat.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 6 / 30 CE layer between [[zizhi-tongjian-hanji-699-gan-yu-liuxiu-zhengxiong-de-ta-weihe-candan-shouchang-lth-8mndudj3khf9cnsouj86c1-z|汉纪 699]] and [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]]. It connects [[FengYiEasternHan|冯异]]'s return to court and remembered hardship with [[WeiXiaoEasternHan|隗嚣]]'s refusal to attack [[GongsunShuEasternHan|公孙述]], [[LaiXiEasternHan|来歙]]'s dangerous envoy mission, Wei Xiao's open rebellion, and [[MaWuEasternHan|马武]]'s rearguard after a Han defeat.
 
 The administrative half adds [[PostwarAdministrativeRetrenchment|战后行政裁并]] and an early [[LocalOfficialTenureStability|地方官任期稳定]] case. [[LiuXiu|光武帝刘秀]] cuts counties and officials after war has reduced the population, then accepts [[ZhuFuEasternHan|朱浮]]'s eclipse memorial that short local-official terms create false performance, bureaucratic churn, and short-term governance.
 
@@ -49,5 +49,5 @@ The administrative half adds [[PostwarAdministrativeRetrenchment|战后行政裁
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source fills the missing Hanji 701 step before Hanji 702's Feng Yi battlefield counterblow and before Hanji 705-1's later Jianwu 7-8 demobilization, remonstrance, and Lüeyang attrition layer.
+- Chronology qualification: this source fills the missing 汉纪 701 step before 汉纪 702's Feng Yi battlefield counterblow and before 汉纪 705-1's later Jianwu 7-8 demobilization, remonstrance, and Lüeyang attrition layer.
 - Scope caution: Shentu Gang, Wang Zun, Niu Han, Wang Yuan, Tian Rong, Guo Xian's related cliffhanger, exact county-merger implementation, and the full wording of Zhu Fu's memorial remain source-scoped unless later source notes require canonical pages.

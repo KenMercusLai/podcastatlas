@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-曹宫 / Cao Gong enters the wiki through [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] as the palace woman whose newborn son by [[HanChengdi|汉成帝]] becomes the core case behind the later Chengdi heir-killing accusation. The source presents her through [[XieGuangWesternHan|谢光]]'s investigative report rather than through an independent biography.
+曹宫 / Cao Gong enters the wiki through [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] as the palace woman whose newborn son by [[HanChengdi|汉成帝]] becomes the core case behind the later Chengdi heir-killing accusation. The source presents her through [[XieGuangWesternHan|谢光]]'s investigative report rather than through an independent biography.
 
 ## Current Profile
 
@@ -29,11 +29,11 @@ Her significance lies in how quickly childbirth becomes secrecy and coercion. Ch
 
 ## Evidence
 
-- Palace identity: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Cao Gong was Cao Xiao's daughter, belonged to the central palace, and taught the `Shijing` to Zhao Feiyan.
-- Pregnancy and birth: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says she became pregnant after Chengdi had relations with her and gave birth to a boy in October 12 BCE.
-- Secret confinement: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Chengdi's handwritten note had Cao Gong, the infant, and six attendants jailed while suppressing questions about the infant.
-- Forced poisoning: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Cao Gong took pills delivered with an imperial note and died.
-- Dying accusation: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says she accused the Zhao sisters of wanting to dominate the realm and emphasized the child's male sex and resemblance to Emperor Yuan.
+- Palace identity: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Cao Gong was Cao Xiao's daughter, belonged to the central palace, and taught the `Shijing` to Zhao Feiyan.
+- Pregnancy and birth: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says she became pregnant after Chengdi had relations with her and gave birth to a boy in October 12 BCE.
+- Secret confinement: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Chengdi's handwritten note had Cao Gong, the infant, and six attendants jailed while suppressing questions about the infant.
+- Forced poisoning: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Cao Gong took pills delivered with an imperial note and died.
+- Dying accusation: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says she accused the Zhao sisters of wanting to dominate the realm and emphasized the child's male sex and resemblance to Emperor Yuan.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ The source does not reconstruct Cao Gong's whole life, her own political network
 
 ## What Changed
 
-- Created from Hanji 571 as the mother at the center of the reported missing imperial-son case.
+- Created from 汉纪 571 as the mother at the center of the reported missing imperial-son case.
 
 ## Relationships
 

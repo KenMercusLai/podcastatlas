@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-Hanji 428 frames taboo through a contrast. [[EmperorXuanOfHan|汉宣帝]] changes his name from 刘病已 to 刘询 because "病" and "已" are common characters and could expose ordinary people to punishment when they write memorials or daily documents. That act presents taboo as a public burden that a ruler can reduce.
+汉纪 428 frames taboo through a contrast. [[EmperorXuanOfHan|汉宣帝]] changes his name from 刘病已 to 刘询 because "病" and "已" are common characters and could expose ordinary people to punishment when they write memorials or daily documents. That act presents taboo as a public burden that a ruler can reduce.
 
 The same episode then shows the system's later expansion. A practice that begins as respect for names can become a legal and social pressure field: officials fear written mistakes, sons avoid ancestor names, candidates can lose exam routes, writers and compilers face political danger, and everyday reading habits absorb household hierarchy. The concept therefore sits between [[LiAsPoliticalOrder|礼制政治秩序]] and punishment politics: it makes hierarchy visible in language, but it can also convert ordinary speech and writing into risk.
 
@@ -29,14 +29,14 @@ The same episode then shows the system's later expansion. A practice that begins
 ## Evidence
 
 Ruler-side mitigation:
-- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|Hanji 428]] says Xuan changed 刘病已 to 刘询 because "病" and "已" were common characters that could expose people to punishment.
-- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|Hanji 428]] places the name change inside an edict concerned with judicial fairness, corrupt officials, abusive labor, and tax relief after epidemics.
+- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|汉纪 428]] says Xuan changed 刘病已 to 刘询 because "病" and "已" were common characters that could expose people to punishment.
+- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|汉纪 428]] places the name change inside an edict concerned with judicial fairness, corrupt officials, abusive labor, and tax relief after epidemics.
 
 Expansion of taboo risk:
-- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|Hanji 428]] uses a Western Han writing-error anecdote to show official fear around written mistakes.
-- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|Hanji 428]] says Tang practice included legal punishment for accidental violation of official taboo, while Tang Taizong limited taboo around "世民" to the paired name.
-- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|Hanji 428]] says Song practice widened taboo toward imperial symbolic words, and Qing practice could connect taboo breach with literary-inquisition danger.
-- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|Hanji 428]] uses the Lin Daiyu / Jia Min reading habit in [[HongLouMeng|《红楼梦》]] to show taboo entering family ethics and daily literacy.
+- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|汉纪 428]] uses a Western Han writing-error anecdote to show official fear around written mistakes.
+- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|汉纪 428]] says Tang practice included legal punishment for accidental violation of official taboo, while Tang Taizong limited taboo around "世民" to the paired name.
+- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|汉纪 428]] says Song practice widened taboo toward imperial symbolic words, and Qing practice could connect taboo breach with literary-inquisition danger.
+- [[zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb|汉纪 428]] uses the Lin Daiyu / Jia Min reading habit in [[HongLouMeng|《红楼梦》]] to show taboo entering family ethics and daily literacy.
 
 ## Counterevidence & Qualifications
 
@@ -44,7 +44,7 @@ This page is bounded to one podcast source. It does not reconstruct the full leg
 
 ## What Changed
 
-- Created the concept from Hanji 428's use of Xuan's name change as the entrance to ancient Chinese taboo practice.
+- Created the concept from 汉纪 428's use of Xuan's name change as the entrance to ancient Chinese taboo practice.
 
 ## Related Concepts
 

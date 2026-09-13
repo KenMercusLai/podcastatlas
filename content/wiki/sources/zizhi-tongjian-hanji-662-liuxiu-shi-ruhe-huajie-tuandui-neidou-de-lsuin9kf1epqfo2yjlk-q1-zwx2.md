@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 22 CE anti-[[WangMang|王莽]] coalition layer before [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|Hanji 663]]. It follows [[LiuYanLiuXiuBrother|刘縯]] gathering clan and youth forces, joining New Market and Pinglin troops, and facing an immediate post-victory spoils crisis that [[LiuXiu|刘秀]] settles by distributing clan property to angry allies.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 22 CE anti-[[WangMang|王莽]] coalition layer before [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|汉纪 663]]. It follows [[LiuYanLiuXiuBrother|刘縯]] gathering clan and youth forces, joining New Market and Pinglin troops, and facing an immediate post-victory spoils crisis that [[LiuXiu|刘秀]] settles by distributing clan property to angry allies.
 
 The episode then moves from internal conflict to battlefield defeat and alliance repair. After the disaster at Xiaochang'an and heavy Liu-family losses, Liu Yan personally seeks cooperation with Xiajiang troops; [[WangChangXiajiangGengshi|王常]] accepts the Han-restoration argument and persuades Cheng Dan and [[ZhangAngGengshi|张卬 / Zhang Ang]] to join, creating a larger coalition that later captures Lanxiang by night attack.
 
@@ -38,15 +38,15 @@ The episode then moves from internal conflict to battlefield defeat and alliance
 
 ## Connections
 
-- [[LiuXiu|刘秀]], [[LiuYanLiuXiuBrother|刘縯]], New Market troops, Pinglin troops, Xiajiang troops, and [[LulinRebellion|绿林]] - the source supplies the pre-Gengshi coalition layer before Liu Xuan's elevation in Hanji 663.
+- [[LiuXiu|刘秀]], [[LiuYanLiuXiuBrother|刘縯]], New Market troops, Pinglin troops, Xiajiang troops, and [[LulinRebellion|绿林]] - the source supplies the pre-Gengshi coalition layer before Liu Xuan's elevation in 汉纪 663.
 - [[RebelCoalitionSpoilsCrisis|起义联军战利品危机]] and [[EarlyRestorationCoalitionIntegration|早期复汉联盟整合]] - core concepts grounded by the spoils dispute, Liu Xiu's clan-property distribution, Xiaochang'an defeat, Xiajiang alliance, and Lanxiang attack.
 - [[WangChangXiajiangGengshi|王常]], Cheng Dan, and [[ZhangAngGengshi|张卬 / Zhang Ang]] - Xiajiang-side actors whose acceptance lets Liu Yan turn defeat into a wider operating coalition.
 - [[WangMang|王莽]], Yan You, Chen Mao, Zhen Fu, and Liangqiu Ci - Xin-side pressure that first defeats Xiajiang troops and then defeats Liu Yan's side at Xiaochang'an.
-- [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|Hanji 663]], [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|Hanji 664]], and [[zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t|Hanji 665]] - direct continuation into Liu Xuan's elevation, Kunyang, and Liu Yan's later execution.
+- [[zizhi-tongjian-hanji-663-gengshidi-liuxuan-shi-tan-fu-bushangqiang-de-lanni-lott3pdjjunwlv3wgksn4r5tiqyz|汉纪 663]], [[zizhi-tongjian-hanji-664-kunyang-zhizhan-jueding-guoyun-de-lishi-zhuanzhedian-lihrwawp4x1w1pn4aibdohq4-l-4|汉纪 664]], and [[zizhi-tongjian-hanji-665-ta-busi-liuxiu-ye-nandang-huangdi-liauc3k3omnzqu09dqicxifjxy1t|汉纪 665]] - direct continuation into Liu Xuan's elevation, Kunyang, and Liu Yan's later execution.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the 22 CE pre-Gengshi layer before Hanji 663's Liu Xuan elevation, Hanji 664's Kunyang/Wan sequence, and Hanji 665's Liu Yan killing.
-- Identity qualification: 王常 is routed to [[WangChangXiajiangGengshi|王常 / Wang Chang (Xiajiang, Gengshi era)]] and kept distinct from later same-romanization pages [[WangChangLateHan|王昌 / Wang Chang]] and [[WangChangShumaoLateHan|王畅 / Wang Chang (Shumao)]]. Zhang 卬 is routed to [[ZhangAngGengshi|张卬 / Zhang Ang]] because existing Hanji 663 and Liu Xuan pages already use that normalization for the Xiajiang/Gengshi actor.
+- Chronology qualification: this source backfills the 22 CE pre-Gengshi layer before 汉纪 663's Liu Xuan elevation, 汉纪 664's Kunyang/Wan sequence, and 汉纪 665's Liu Yan killing.
+- Identity qualification: 王常 is routed to [[WangChangXiajiangGengshi|王常 / Wang Chang (Xiajiang, Gengshi era)]] and kept distinct from later same-romanization pages [[WangChangLateHan|王昌 / Wang Chang]] and [[WangChangShumaoLateHan|王畅 / Wang Chang (Shumao)]]. Zhang 卬 is routed to [[ZhangAngGengshi|张卬 / Zhang Ang]] because existing 汉纪 663 and Liu Xuan pages already use that normalization for the Xiajiang/Gengshi actor.
 - Scope caution: Liu Zhong, Liu Yuan, Liu Boji, Li Yi, Deng Chen, Wang Feng, Chen Mu, Cheng Dan, Zhen Fu, Liangqiu Ci, Xiaochang'an, Lanxiang, exact troop counts, and the Zhang-star astronomy discussion remain source-scoped unless later evidence warrants standalone pages.

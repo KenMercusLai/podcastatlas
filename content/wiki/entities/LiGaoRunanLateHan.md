@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-李暠 / Li Gao is the former Runan administrator whose daughter becomes the victim in [[XuXuanLateHan|徐宣]]'s Xiapi violence case in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]].
+李暠 / Li Gao is the former Runan administrator whose daughter becomes the victim in [[XuXuanLateHan|徐宣]]'s Xiapi violence case in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]].
 
 ## Current Profile
 
@@ -27,10 +27,10 @@ Li Gao's role is important because it keeps the case from being reduced to a fac
 
 ## Evidence
 
-- Prior office: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] identifies the victim's father as a former Runan administrator.
-- Refusal: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says the family refuses Xu Xuan's demand to take the daughter as a concubine.
-- Violence consequence: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Xu Xuan responds with a household attack and killing.
-- Enforcement trigger: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Huang Fu acts after learning of the case.
+- Prior office: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] identifies the victim's father as a former Runan administrator.
+- Refusal: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says the family refuses Xu Xuan's demand to take the daughter as a concubine.
+- Violence consequence: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Xu Xuan responds with a household attack and killing.
+- Enforcement trigger: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Huang Fu acts after learning of the case.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source page normalizes the supplied transcript's "李嵩" to 李暠 because 
 
 ## What Changed
 
-- Hanji 872 creates Li Gao's canonical page as the former Runan administrator whose daughter's killing anchors the Xu Xuan case.
+- 汉纪 872 creates Li Gao's canonical page as the former Runan administrator whose daughter's killing anchors the Xu Xuan case.
 
 ## Relationships
 

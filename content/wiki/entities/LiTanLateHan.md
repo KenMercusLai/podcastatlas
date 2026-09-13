@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-李昙 / Li Tan is a Yingchuan filial recluse in [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]]. This page is distinct from [[LiTan|李谈 / Li Tan]], the Warring States Zhao figure; the late-Han page uses the stable semantic suffix because the pinyin route would otherwise collide.
+李昙 / Li Tan is a Yingchuan filial recluse in [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]]. This page is distinct from [[LiTan|李谈 / Li Tan]], the Warring States Zhao figure; the late-Han page uses the stable semantic suffix because the pinyin route would otherwise collide.
 
 ## Current Profile
 
-Li Tan's current profile is source-bounded to one filial conduct case. Hanji 849 says he has a harsh stepmother but serves her with special respect. When he receives seasonal delicacies or valuable objects, he first bows and offers them to her, making filial conduct his public reputation. The same source places him among the five recluses whose refusal to serve Huan shows loss of confidence in the court.
+Li Tan's current profile is source-bounded to one filial conduct case. 汉纪 849 says he has a harsh stepmother but serves her with special respect. When he receives seasonal delicacies or valuable objects, he first bows and offers them to her, making filial conduct his public reputation. The same source places him among the five recluses whose refusal to serve Huan shows loss of confidence in the court.
 
 ## Key Characteristics
 
@@ -26,18 +26,18 @@ Li Tan's current profile is source-bounded to one filial conduct case. Hanji 849
 
 ## Evidence
 
-- Filial stepmother service: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] says Li Tan respectfully serves a severe stepmother.
-- Ritualized offering: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] says Li Tan bows before presenting seasonal foods or precious objects to his stepmother.
-- Reputation and refusal: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] makes Li Tan a local model and includes him among recluses who will not accept office.
-- Identity boundary: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|Hanji 849]] uses 李昙, so this page remains separate from [[LiTan|李谈 / 李同]].
+- Filial stepmother service: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] says Li Tan respectfully serves a severe stepmother.
+- Ritualized offering: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] says Li Tan bows before presenting seasonal foods or precious objects to his stepmother.
+- Reputation and refusal: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] makes Li Tan a local model and includes him among recluses who will not accept office.
+- Identity boundary: [[zizhi-tongjian-hanji-849-sushi-ziyou-du-de-fanpangzhuan-jiujing-shuo-de-shui-ltquglqzvezeyp0mqxwgwnlp12lf|汉纪 849]] uses 李昙, so this page remains separate from [[LiTan|李谈 / 李同]].
 
 ## Qualifications
 
-This page is bounded to Hanji 849 and does not claim a full late-Han biography. The main identity risk is pinyin collision with the existing Warring States Li Tan page, so the canonical route is disambiguated as `LiTanLateHan`.
+This page is bounded to 汉纪 849 and does not claim a full late-Han biography. The main identity risk is pinyin collision with the existing Warring States Li Tan page, so the canonical route is disambiguated as `LiTanLateHan`.
 
 ## What Changed
 
-- Created this page from Hanji 849 to capture the late-Han 李昙 filial-recluse branch separately from Warring States 李谈.
+- Created this page from 汉纪 849 to capture the late-Han 李昙 filial-recluse branch separately from Warring States 李谈.
 
 ## Relationships
 

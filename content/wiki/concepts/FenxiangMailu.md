@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 分香卖履 / Fenxiang Mailu
 
-分香卖履 / Fenxiang mailu enters the wiki through [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|Hanji 1014]] as the source's reading of [[CaoCao|曹操]]'s deathbed household arrangement. Instead of turning household women and goods into burial display, Cao Cao divides incense among the women, says it should not be buried or used as sacrifice, and tells them to support themselves through handiwork if needed.
+分香卖履 / Fenxiang mailu enters the wiki through [[zizhi-tongjian-hanji-1014-caocao-de-15-ge-laopo-dou-you-shui-lv-hyvprg73k8w8jspxjosqwmc69|汉纪 1014]] as the source's reading of [[CaoCao|曹操]]'s deathbed household arrangement. Instead of turning household women and goods into burial display, Cao Cao divides incense among the women, says it should not be buried or used as sacrifice, and tells them to support themselves through handiwork if needed.
 
 The concept is recorded here as a household-settlement frame. The episode treats Cao Cao's instructions as unusually practical and permissive: the women can learn crafts, earn a living, and remarry if they wish. That does not make the source a complete social history of late-Han women, but it gives the wiki a concrete case where a powerful man's final arrangement is read through survival, livelihood, and non-sacrificial family duty.
 

@@ -11,7 +11,7 @@ knowledge_schema: synthesis-v1
 # 朱灵 / Zhu Ling (late Han)
 
 ## Overview
-朱灵 / Zhu Ling enters the wiki through Hanji 1040 as the Cao-side officer sent with [[LiuBei|刘备]] to intercept [[YuanShu|袁术]].
+朱灵 / Zhu Ling enters the wiki through 汉纪 1040 as the Cao-side officer sent with [[LiuBei|刘备]] to intercept [[YuanShu|袁术]].
 
 ## Current Profile
 The page currently records Zhu Ling only as part of Cao Cao's risky dispatch decision. His importance in this source is not independent command characterization; it is that Liu Bei's assignment was not a solitary flight but a Cao-authorized military mission that still gave him room to break away.
@@ -31,7 +31,7 @@ The page currently records Zhu Ling only as part of Cao Cao's risky dispatch dec
 The source does not narrate Zhu Ling's later career or personal judgment. It only establishes his role in this dispatch sequence.
 
 ## What Changed
-- Created the page for Hanji 1040's Cao-side dispatch actor.
+- Created the page for 汉纪 1040's Cao-side dispatch actor.
 
 ## Relationships
 - [[CaoCao|曹操]] - commander who sends Zhu Ling in the Yuan Shu interception mission.

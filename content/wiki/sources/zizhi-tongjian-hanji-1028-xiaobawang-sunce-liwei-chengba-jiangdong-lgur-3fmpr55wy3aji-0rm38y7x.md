@@ -15,7 +15,7 @@ last_updated: 2026-08-26
 ## Summary
 This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode turns [[SunCe|孙策]]'s Jiangdong rise from campaign momentum into political consolidation. [[CaoCao|曹操]] recognizes Sun Ce through titles, marriage ties, and hostage-like summons, while [[YuanShu|袁术]] tries to disrupt him through [[ZuLangLateHan|祖郎]] and [[Shanyue|山越]] forces after Sun Ce's break with Yuan Shu.
 
-The core contribution is [[CapturedOpponentTalentIncorporation|降敌任用式立威]]: Sun Ce captures both Zu Lang and [[TaishiCi|太史慈]], but releases and appoints them instead of killing them. The episode frames this as power that combines force, restraint, and talent absorption; it also sets up [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] by leaving [[LiuYaoLateHan|刘繇]]'s leaderless Yuzhang-adjacent followers unresolved.
+The core contribution is [[CapturedOpponentTalentIncorporation|降敌任用式立威]]: Sun Ce captures both Zu Lang and [[TaishiCi|太史慈]], but releases and appoints them instead of killing them. The episode frames this as power that combines force, restraint, and talent absorption; it also sets up [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] by leaving [[LiuYaoLateHan|刘繇]]'s leaderless Yuzhang-adjacent followers unresolved.
 
 ## Key Claims
 - Zhang Xian's attachment to Cao Cao and Huan Jie's advice are presented as earlier Jingzhou pressure signals, but the episode's main branch is Sun Ce's Jiangdong consolidation.
@@ -35,10 +35,10 @@ The core contribution is [[CapturedOpponentTalentIncorporation|降敌任用式�
 > "过去的事情都不用再计较" - Sun Ce's message to Zu Lang after capturing him.
 
 ## Connections
-- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|Hanji 993]] - earlier Shentingling duel and Liu Yao's underuse of Taishi Ci.
-- [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|Hanji 1002]] - prior Sun Ce warning and break with Yuan Shu over the imperial claim.
-- [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|Hanji 1019]] - earlier Cao-backed title package for Sun Ce.
-- [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|Hanji 1029]] - follow-on episode where Sun Ce sends Taishi Ci to pacify Liu Yao's remaining followers and inspect Yuzhang.
+- [[zizhi-tongjian-hanji-993-shentingling-zhizhan-sunce-dazhan-taishici-lrivpk7col2l7k-s4dqzxxp2kqp1|汉纪 993]] - earlier Shentingling duel and Liu Yao's underuse of Taishi Ci.
+- [[zizhi-tongjian-hanji-1002-yuanshu-chengdi-hou-sunce-chengwei-zui-da-ying-llya3c2-pefujwxdxefvqxwxjizjo|汉纪 1002]] - prior Sun Ce warning and break with Yuan Shu over the imperial claim.
+- [[zizhi-tongjian-hanji-1019-jiemi-chenminwang-liuchong-de-chuanqi-yisheng-ll2fma7wupp5gczudysfett5lhio|汉纪 1019]] - earlier Cao-backed title package for Sun Ce.
+- [[zizhi-tongjian-hanji-1029-guoshi-wushuang-taishici-yinuo-qianjin-yi-dangxian-lvckwlhz5g-oappy89thye9oyrto|汉纪 1029]] - follow-on episode where Sun Ce sends Taishi Ci to pacify Liu Yao's remaining followers and inspect Yuzhang.
 - [[SunCe|孙策]], [[CaoCao|曹操]], [[YuanShu|袁术]], [[ZhangHongLateHan|张纮]], [[WangLangLateHan|王朗]], [[SunQuan|孙权]], [[SunYiLateHan|孙翊]], [[ZhouYuLateHan|周瑜]], [[LuSu|鲁肃]], [[ZuLangLateHan|祖郎]], [[TaishiCi|太史慈]], [[LiuYaoLateHan|刘繇]], [[HuaXin|华歆]], [[DanyangCommandery|丹阳郡]], [[JingCountyLateHan|泾县]], [[Shanyue|山越]], and [[YuzhangCommandery|豫章郡]] - main actors, places, and political-military setting.
 - [[CapturedOpponentTalentIncorporation|降敌任用式立威]], [[TalentAsStateTreasure|以贤臣为宝]], [[OccupationPacificationStrategy|占领区怀柔治理]], [[FormerEnemyLoyaltyReframing|旧敌忠义重释]], [[CharacterReadingDelegationTrust|识人授权信任]], and [[MingqiLegitimacy|名器合法性]] - interpretive frames.
 

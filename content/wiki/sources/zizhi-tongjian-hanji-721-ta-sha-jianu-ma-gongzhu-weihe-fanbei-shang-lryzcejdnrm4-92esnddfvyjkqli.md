@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 19-20 / 43-44 CE before [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]]. It links crown-prince education, public-minded recommendation, and severe legal enforcement through [[LiuXiu|光武帝刘秀]], [[YinShiEasternHan|阴识]], [[YinXingGuangwuMaternalKin|阴兴]], [[HuanRongEasternHan|桓荣]], and [[DongXuanEasternHan|董宣]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 19-20 / 43-44 CE before [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|汉纪 722]]. It links crown-prince education, public-minded recommendation, and severe legal enforcement through [[LiuXiu|光武帝刘秀]], [[YinShiEasternHan|阴识]], [[YinXingGuangwuMaternalKin|阴兴]], [[HuanRongEasternHan|桓荣]], and [[DongXuanEasternHan|董宣]].
 
 The central synthesis is that late Guangwu personnel judgment is tested by protected households as much as by official appointments. Liu Xiu honors cautious maternal kin and scholars, but the sharper public signal comes when Dong Xuan kills [[HuyangPrincessEasternHan|湖阳公主]]'s murderous slave, refuses forced apology, and is rewarded after making the case about imperial government rather than private princess anger.
 
@@ -42,14 +42,14 @@ The central synthesis is that late Guangwu personnel judgment is tested by prote
 ## Connections
 
 - [[LiuXiu|光武帝刘秀]], [[DongXuanEasternHan|董宣]], [[HuyangPrincessEasternHan|湖阳公主]], [[HighStatusLawEnforcementSignal|高位执法信号]], and [[RuleOverKinshipPower|法度压过亲缘特权]] - the Luoyang slave-killing case makes law credible against an imperial sister's household.
-- [[YinShiEasternHan|阴识]], [[YinXingGuangwuMaternalKin|阴兴]], [[HuanRongEasternHan|桓荣]], and [[EmperorMingOfHan|皇太子刘庄 / 汉明帝]] - crown-prince education and maternal-kin guidance before the later Hanji 728 tutor-selection debate and Hanji 734 teacher-honor rituals.
+- [[YinShiEasternHan|阴识]], [[YinXingGuangwuMaternalKin|阴兴]], [[HuanRongEasternHan|桓荣]], and [[EmperorMingOfHan|皇太子刘庄 / 汉明帝]] - crown-prince education and maternal-kin guidance before the later 汉纪 728 tutor-selection debate and 汉纪 734 teacher-honor rituals.
 - [[WuHanEasternHan|吴汉]], [[MeritBasedRewardPunishment|因功赏罚]], and [[NoSmallMattersInGovernance|治无小乱无大]] - Wu Han's deathbed caution about amnesty and his family-asset discipline reinforce the episode's no-small-exceptions governance line.
-- [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|Hanji 722]] - direct continuation into Liu Xiu's 44-45 CE illness crisis, Yin Xing's great-marshal refusal, Wu Han's succession vacancy, and frontier-capacity pressures.
+- [[zizhi-tongjian-hanji-722-rang-liuxiu-xiansi-de-toutongbing-zenme-huishi-logwccdsca7vm2zzssu8ubm8rwra|汉纪 722]] - direct continuation into Liu Xiu's 44-45 CE illness crisis, Yin Xing's great-marshal refusal, Wu Han's succession vacancy, and frontier-capacity pressures.
 - [[ZizhiTongjian|《资治通鉴》]] - chronicle frame for the Jianwu 19-20 notices.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki pages was found.
-- Chronology qualification: this source backfills 43-44 CE, immediately before Hanji 722's 44-45 CE illness and frontier layer and before Hanji 728's later crown-prince tutor public-interest decision.
+- Chronology qualification: this source backfills 43-44 CE, immediately before 汉纪 722's 44-45 CE illness and frontier layer and before 汉纪 728's later crown-prince tutor public-interest decision.
 - Name normalization: the transcript form 董轩 is normalized to [[DongXuanEasternHan|董宣]], the famous strong-necked Luoyang magistrate; 胡阳公主 is routed to [[HuyangPrincessEasternHan|湖阳公主]] and kept distinct from the existing [[HuyangLateHan|胡阳]] place page.
 - Identity qualification: the transcript's 殷实 is treated as [[YinShiEasternHan|阴识]] because the maternal-uncle, zhijinwu, and crown-prince context matches the established Guangwu Yin-family route; Ding Gong / 丁恭, Zhong Xing, Liu Shang, Ren Gui, Dong Chan, Nandun, and exact local dates remain source-scoped unless later notes warrant canonical pages.

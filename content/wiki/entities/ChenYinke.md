@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 陈寅恪
 
-[[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] adds Chen Yinke as a reading-list and pronunciation digression inside a Three Kingdoms adviser episode. The host notes the family-dialect pronunciation issue, then lists Chen's broad work across Wei-Jin, Sui-Tang, religious history, Dunhuang studies, classical literature, and historical method.
+[[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|汉纪 976]] adds Chen Yinke as a reading-list and pronunciation digression inside a Three Kingdoms adviser episode. The host notes the family-dialect pronunciation issue, then lists Chen's broad work across Wei-Jin, Sui-Tang, religious history, Dunhuang studies, classical literature, and historical method.
 
 This source does not change Chen's existing academic-freedom branch. It adds a second, lighter use: Chen is invoked as a model for reading historically complex figures through institutions, language, and long-range scholarly context rather than only through simplified moral labels.
 
@@ -22,7 +22,7 @@ The source uses Chen's memorial language for Wang to connect scholarship with "�
 - The episode makes Chen a bridge between classical learning, institution defense, and [[AcademicFreedom]].
 
 ## Connections
-- [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|Hanji 976]] - reading-list and historiographical context branch.
+- [[zizhi-tongjian-hanji-976-sanguo-moushi-dapandian-shui-shi-ni-xinzhong-de-shen-ljgpbosq-9xiowpgaeyossmgst6x|汉纪 976]] - reading-list and historiographical context branch.
 - [[WangGuowei|王国维]] - memorialized figure.
 - [[LiangQichao|梁启超]] - institutional colleague whose reputation and teaching become part of the conflict.
 - [[TsinghuaGuoxueInstitute|清华国学研究院]] - institution Chen tries to protect.

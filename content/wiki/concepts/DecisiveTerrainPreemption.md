@@ -10,11 +10,11 @@ last_updated: 2026-09-01
 
 ## Definition
 
-Decisive terrain preemption / 争地抢先式决胜 is a battlefield pattern where a commander identifies the one site whose first occupation will change the whole local contest, moves there before the enemy, and turns a defensive position into a surprise attack. In the current wiki evidence, the pattern is grounded by [[FengYiEasternHan|冯异]] in [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]].
+Decisive terrain preemption / 争地抢先式决胜 is a battlefield pattern where a commander identifies the one site whose first occupation will change the whole local contest, moves there before the enemy, and turns a defensive position into a surprise attack. In the current wiki evidence, the pattern is grounded by [[FengYiEasternHan|冯异]] in [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]].
 
 ## Current Synthesis
 
-Hanji 702 shows the pattern under pressure rather than from a secure plan. After the Han side retreats from Longshan, [[WeiXiaoEasternHan|隗嚣]] sends Wang Yuan and Xing Xun with more than 20,000 troops down the mountain to take a target city. Feng Yi's officers are afraid because of the previous defeat and advise stopping in favorable ground, but Feng Yi judges that if the enemy takes the city first, Sanfu will be shaken.
+汉纪 702 shows the pattern under pressure rather than from a secure plan. After the Han side retreats from Longshan, [[WeiXiaoEasternHan|隗嚣]] sends Wang Yuan and Xing Xun with more than 20,000 troops down the mountain to take a target city. Feng Yi's officers are afraid because of the previous defeat and advise stopping in favorable ground, but Feng Yi judges that if the enemy takes the city first, Sanfu will be shaken.
 
 The central move is to redefine the decision. Feng Yi does not argue for heroic attack; he says the Han side may be weaker on offense but still strong enough on defense, which means the real danger is arriving second. He hurries forward, secretly occupies the city, closes the gates, and hides his force before Xing Xun arrives.
 
@@ -33,11 +33,11 @@ The concept is therefore narrower than speed in general. It requires a place whe
 
 ## Evidence
 
-- Disputed site diagnosis: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] says Feng Yi warns that if Wei Xiao's force takes the city first, the Sanfu region will be shaken.
-- Speed as the real problem: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] says Feng Yi treats the issue as slow movement rather than whether to contend in open battle.
-- Hidden occupation: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] says Feng Yi enters the city secretly, closes the gates, and hides his military presence.
-- Surprise conversion: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] says Feng Yi reveals drums and flags only after Xing Xun arrives, then sorties and routs the enemy.
-- Regional effect: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|Hanji 702]] links Feng Yi and Ji Zun's victories to local strongmen and commanderies turning toward Liu Xiu.
+- Disputed site diagnosis: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]] says Feng Yi warns that if Wei Xiao's force takes the city first, the Sanfu region will be shaken.
+- Speed as the real problem: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]] says Feng Yi treats the issue as slow movement rather than whether to contend in open battle.
+- Hidden occupation: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]] says Feng Yi enters the city secretly, closes the gates, and hides his military presence.
+- Surprise conversion: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]] says Feng Yi reveals drums and flags only after Xing Xun arrives, then sorties and routs the enemy.
+- Regional effect: [[zizhi-tongjian-hanji-702-fengyi-de-yichang-ju-ruhe-zhansha-weixiao-liangwanren-lqckx-aclchkzqqe3pttnklu9vot|汉纪 702]] links Feng Yi and Ji Zun's victories to local strongmen and commanderies turning toward Liu Xiu.
 
 ## Counterevidence & Qualifications
 
@@ -45,13 +45,13 @@ This concept is currently grounded in one source note, so it should remain a nar
 
 ## What Changed
 
-- Created this concept from Hanji 702 to capture Feng Yi's city-first ambush logic.
+- Created this concept from 汉纪 702 to capture Feng Yi's city-first ambush logic.
 - Framed the pattern as terrain plus information control rather than generic speed or courage.
 - Kept the concept source-bounded until additional cases support broader generalization.
 
 ## Related Concepts
 
-- [[FengYiEasternHan|冯异]] - grounding actor because his Hanji 702 action defines the current concept.
+- [[FengYiEasternHan|冯异]] - grounding actor because his 汉纪 702 action defines the current concept.
 - [[WeiXiaoEasternHan|隗嚣]] - adversary relationship because his force tries to take the same decisive site first.
 - [[OperationalTempoBreakthrough|兵贵神速式长线突破]] - adjacent tempo relationship because both patterns use speed to unsettle a geography-dependent opponent.
 - [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - neighboring contrast because Feng Yi first seizes the position quickly, while attrition patience draws value from holding over time.

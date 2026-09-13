@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 许耽 / Xu Dan (late Han)
 
-许耽 / Xu Dan (late Han) enters the wiki through [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|Hanji 999]] as the subordinate who opens [[Xiapi|下邳]] to [[LyuBu|吕布]]. The city is already destabilized after [[ZhangFei|张飞]] kills [[CaoBaoLateHan|曹豹]], and Xu Dan's gate-opening turns internal disorder into territorial loss for [[LiuBei|刘备]].
+许耽 / Xu Dan (late Han) enters the wiki through [[zizhi-tongjian-hanji-999-sanguo-luanshi-renxing-you-duome-cuiruo-li8tz30elca7bnipei6dfqdxmmeu|汉纪 999]] as the subordinate who opens [[Xiapi|下邳]] to [[LyuBu|吕布]]. The city is already destabilized after [[ZhangFei|张飞]] kills [[CaoBaoLateHan|曹豹]], and Xu Dan's gate-opening turns internal disorder into territorial loss for [[LiuBei|刘备]].
 
 The page is source-scoped to this event. Xu Dan's importance is structural: without an inside opening, [[YuanShu|袁术]]'s promised grain may have drawn Lü Bu eastward, but the city seizure would have been harder. In the episode, a single internal defection links personal conflict, supply incentive, and command collapse.
 

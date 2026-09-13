@@ -13,13 +13,13 @@ last_updated: 2026-08-24
 # 《资治通鉴·汉纪》999丨三国乱世，人性有多么脆弱？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the missing prelude to [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]]. In 196 CE, [[EmperorXianOfHan|汉献帝]] is still being fought over by armed protectors such as [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and [[ZhangYangLateHan|张杨]] after the [[LiJueLateHan|李傕]]-[[GuoSiLateHan|郭汜]] struggle, while [[LiuBiao|刘表]] and [[CaoCao|曹操]] begin supplying the broken court.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode supplies the missing prelude to [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|汉纪 1000]]. In 196 CE, [[EmperorXianOfHan|汉献帝]] is still being fought over by armed protectors such as [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and [[ZhangYangLateHan|张杨]] after the [[LiJueLateHan|李傕]]-[[GuoSiLateHan|郭汜]] struggle, while [[LiuBiao|刘表]] and [[CaoCao|曹操]] begin supplying the broken court.
 
 The second half turns to [[Xuzhou|徐州]]. [[YuanShu|袁术]] attacks [[LiuBei|刘备]], [[ZhangFei|张飞]] kills [[CaoBaoLateHan|曹豹]] while guarding [[Xiapi|下邳]], [[XuDanLateHan|许耽]] opens the city to [[LyuBu|吕布]], and Liu Bei's family is captured. The episode's main synthesis is [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]]: Yuan Shu's promised grain lets Lü Bu turn from Liu Bei's guest into the holder of Xuzhou, forcing Liu Bei into surrender and a new posting at [[PeiCounty|小沛]].
 
 ## Key Claims
 - The episode opens by framing late-Han politics as a test of how quickly kinship, friendship, and alliance can collapse under self-interest.
-- In 196 CE, the source enters *Zizhi Tongjian* Hanji 54 / juan 62 and keeps the main frame on fragile trust in wartime.
+- In 196 CE, the source enters *Zizhi Tongjian* 汉纪 54 / juan 62 and keeps the main frame on fragile trust in wartime.
 - [[LiJueLateHan|李傕]] and [[GuoSiLateHan|郭汜]] fight over [[EmperorXianOfHan|汉献帝]], leaving Chang'an disorderly enough that officials starve and the emperor is reduced to emergency subsistence.
 - [[ZhangJiLateHan|张济]] appears as a mediator who also wants to control the emperor through Hongnong, so "mediation" is not cleanly separated from power capture.
 - [[DongChengLateHan|董承]] joins with [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], and other White Wave / Baibo-linked forces to escort the emperor, but the source treats the group as interest-divided rather than uniformly loyal.
@@ -41,7 +41,7 @@ The second half turns to [[Xuzhou|徐州]]. [[YuanShu|袁术]] attacks [[LiuBei|
 > "粮食比黄金还要重要." - the source's explanation for why Yuan Shu's grain promise can move Lü Bu.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|Hanji 1000]] - next episode, continuing from Lü Bu's new Xiapi position into Hao Meng's revolt and the emperor's damaged Luoyang return.
+- [[zizhi-tongjian-hanji-1000-hao-meng-panluan-jingbi-lvbu-fanqiang-taopao-lluthd9hv-0nqbot4fuctjcuka68|汉纪 1000]] - next episode, continuing from Lü Bu's new Xiapi position into Hao Meng's revolt and the emperor's damaged Luoyang return.
 - [[EmperorXianOfHan|汉献帝]], [[DongChengLateHan|董承]], [[YangFengLateHan|杨奉]], [[HanXianLateHan|韩暹]], [[ZhangYangLateHan|张杨]], [[LiJueLateHan|李傕]], and [[GuoSiLateHan|郭汜]] - emperor-escort and court-capture branch.
 - [[LiuBei|刘备]], [[ZhangFei|张飞]], [[CaoBaoLateHan|曹豹]], [[XuDanLateHan|许耽]], [[MiZhu|糜竺]], [[Xiapi|下邳]], [[Xuzhou|徐州]], and [[PeiCounty|小沛]] - loss of Xiapi, army collapse, and survival branch.
 - [[YuanShu|袁术]], [[LyuBu|吕布]], and [[GrainLeverageAllianceBetrayal|粮食诱导式同盟背叛]] - promised grain and alliance betrayal.

@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 159 CE fall of [[LiangJiLateHan|梁冀]], immediately before the already-ingested Hanji 849-853 post-Liang sequence. It follows [[EmperorHuanOfHan|汉桓帝]] reacting after Liang has Deng Meng's mother Xuan assassinated, secretly plotting with five eunuchs, controlling palace access, seizing symbols of command, surrounding Liang's mansion, and forcing Liang plus [[SunShouLateHan|孙寿]] into suicide. The episode's lasting contribution is that Huan's successful purge removes an outer-relative power bloc but also creates the [[FiveMarquisesHuanEra|桓帝五侯]] reward structure that later sources show becoming a new eunuch-favorite problem.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 159 CE fall of [[LiangJiLateHan|梁冀]], immediately before the already-ingested 汉纪 849-853 post-Liang sequence. It follows [[EmperorHuanOfHan|汉桓帝]] reacting after Liang has Deng Meng's mother Xuan assassinated, secretly plotting with five eunuchs, controlling palace access, seizing symbols of command, surrounding Liang's mansion, and forcing Liang plus [[SunShouLateHan|孙寿]] into suicide. The episode's lasting contribution is that Huan's successful purge removes an outer-relative power bloc but also creates the [[FiveMarquisesHuanEra|桓帝五侯]] reward structure that later sources show becoming a new eunuch-favorite problem.
 
 ## Key Claims
 
@@ -48,6 +48,6 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki claims was found. The episode backfills the coup that precedes Hanji 849-853's already-ingested post-Liang aftermath.
+- No settled contradiction with existing wiki claims was found. The episode backfills the coup that precedes 汉纪 849-853's already-ingested post-Liang aftermath.
 - Transcript normalization: the source writes 梁继, 巨爱, 徐皇, 左贯, 唐恒, and 黄穹; this page normalizes durable wiki links to [[LiangJiLateHan|梁冀]], [[JuYuanLateHan|具瑗]], [[XuHuangLateHan|徐璜]], [[ZuoGuanLateHan|左悺]], [[TangHengLateHan|唐衡]], and [[HuangQiongLateHan|黄琼]] because the surrounding offices and Five Marquises sequence match the received late-Han route.
 - Scope caution: Zhang Yun, Zhang Biao, Chi Jie, Yuan Xu, Zhu Tian, Sheng Yun, Yin Xun's title grant, exact palace offices, and exact noble-title geography remain source-scoped pending stronger independent evidence.

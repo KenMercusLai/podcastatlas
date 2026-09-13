@@ -16,11 +16,11 @@ This page is source-scoped. The episode does not retell Zhou conquest history; i
 
 [[zizhi-tongjian-qinji-121-yingzheng-zao-shijie-zuizao-gaosu-gonglu-2200nian-huangcao-busheng-ls1u8dmuvs5bbrzadf2dtd00js-p]] uses Zhou Wuwang as a precedent for [[HighTempleRite|高庙礼]]. The episode invokes him to explain how a ruler could report a major victory or achieved mission to ancestral temples, then applies that ritual logic to Qin Shi Huang's westward route through Qin old lands after unification.
 
-[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]] adds Wu Wang to [[ZhangLiang|张良]]'s critique of copying precedent. Zhang Liang invokes Wu Wang's post-conquest honors, releases, graves, granaries, and disarmament symbols to show what [[LiuBang|刘邦]] cannot yet do during the [[XingyangStandoff|荥阳相持]].
+[[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|汉纪 159-2]] adds Wu Wang to [[ZhangLiang|张良]]'s critique of copying precedent. Zhang Liang invokes Wu Wang's post-conquest honors, releases, graves, granaries, and disarmament symbols to show what [[LiuBang|刘邦]] cannot yet do during the [[XingyangStandoff|荥阳相持]].
 
 ## Connections
 - [[ShangTang|商汤]] - paired kingly-rule exemplar in the episode.
-- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|Hanji 159-2]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - negative precedent comparison around what a not-yet-victorious ruler cannot imitate.
+- [[zizhi-tongjian-hanji-159-2-zhangliang-shuole-sha-jiuxia-hanchao-lvs9elvrjp-ypz63w4czpuhbsfb|汉纪 159-2]], [[ZhangLiang|张良]], [[LiuBang|刘邦]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - negative precedent comparison around what a not-yet-victorious ruler cannot imitate.
 - [[Xunzi|荀子]] and [[XunziText|《荀子》]] - source of the Wangba framework.
 - [[XunzianWangbaThreePaths|荀子王霸三分法]], [[WangdaoVsBadao|王道 versus 霸道]], and [[ConfucianIdealGovernance|儒家理想治理]] - concept frames.
 - [[ZhouRoyalHouse|周王室]] - broader dynastic frame.

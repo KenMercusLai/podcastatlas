@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the pre-operation setup before [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|Hanji 490]]'s campaign sequence. It places [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] in 36 BCE Western Regions politics: [[ZhizhiChanyu|郅支单于]] has killed Han envoy Gu Ji, abused Kangju ties, coerced local labor, and threatened nearby states, while Chen Tang judges that distance, court caution, and slow permission will make a rare military opportunity disappear.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the pre-operation setup before [[zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina|汉纪 490]]'s campaign sequence. It places [[ChenTangWesternHan|陈汤]] and [[GanYanshouWesternHan|甘延寿]] in 36 BCE Western Regions politics: [[ZhizhiChanyu|郅支单于]] has killed Han envoy Gu Ji, abused Kangju ties, coerced local labor, and threatened nearby states, while Chen Tang judges that distance, court caution, and slow permission will make a rare military opportunity disappear.
 
 The durable synthesis is that the forged-order campaign begins as a conflict between strategic timing and administrative legality. Chen Tang's military reading of Zhizhi Chanyu's weakness is paired with an extreme willingness to bypass procedure, coerce his superior, and stake his life on success; Gan Yanshou becomes the cautionary counterweight whose eventual compliance reflects how far the mobilization had already moved.
 
@@ -36,7 +36,7 @@ The durable synthesis is that the forged-order campaign begins as a conflict bet
 
 ## Connections
 
-- [[ChenTangWesternHan|陈汤]], [[GanYanshouWesternHan|甘延寿]], and [[ZhizhiChanyu|郅支单于]] - the episode supplies the pre-operation decision conflict before Hanji 490's march and siege.
+- [[ChenTangWesternHan|陈汤]], [[GanYanshouWesternHan|甘延寿]], and [[ZhizhiChanyu|郅支单于]] - the episode supplies the pre-operation decision conflict before 汉纪 490's march and siege.
 - [[WesternRegionsProtectorate|西域都护府]], [[Wusun|乌孙]], [[Kangju|康居]], and Dayuan - the regional field in which Zhizhi Chanyu's pressure and Chen Tang's mobilization are interpreted.
 - [[Xiongnu|匈奴]] and [[WesternHanDynasty|西汉]] - the larger frontier conflict behind the envoy-killing, retaliation, and deterrence frame.
 - [[MeritShieldedAccountability|Merit-Shielded Accountability / 因功免责]] - this source adds the legal-risk origin of the later reward and accountability dispute.
@@ -45,5 +45,5 @@ The durable synthesis is that the forged-order campaign begins as a conflict bet
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this episode precedes Hanji 490 and supplies the campaign-launch rationale, forged-order mobilization, and Chen Tang/Gan Yanshou decision conflict rather than the route, siege, head display, reward dispute, Kangju-property case, Changling case, or Aidi-era vindication.
+- Chronology qualification: this episode precedes 汉纪 490 and supplies the campaign-launch rationale, forged-order mobilization, and Chen Tang/Gan Yanshou decision conflict rather than the route, siege, head display, reward dispute, Kangju-property case, Changling case, or Aidi-era vindication.
 - Scope caution: the source is a compact podcast summary. Gu Ji's envoy mission, Zhizhi Chanyu's Kangju violence, the exact legal mechanics of false command, troop counts, and Chen Tang's psychology remain source-scoped pending comparison with primary records.

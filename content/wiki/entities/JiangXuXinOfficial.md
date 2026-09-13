@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-蒋诩 / Jiang Xu enters the wiki through [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] as a former Yanzhou inspector who leaves office after [[WangMang|王莽]] takes imperial authority. The episode pairs him with [[GuoQinXinOfficial|郭钦]] as a clean official whose refusal takes the form of illness-based retirement and lifelong seclusion.
+蒋诩 / Jiang Xu enters the wiki through [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|汉纪 644]] as a former Yanzhou inspector who leaves office after [[WangMang|王莽]] takes imperial authority. The episode pairs him with [[GuoQinXinOfficial|郭钦]] as a clean official whose refusal takes the form of illness-based retirement and lifelong seclusion.
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ This makes him a quieter counterpart to [[GongShengXinScholar|龚胜]]. The epis
 
 ## Evidence
 
-- Office and reputation: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says Jiang Xu had served as Yanzhou inspector and was known for integrity.
-- Withdrawal: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says he claims illness and leaves office after Wang Mang occupies the throne.
-- Seclusion: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|Hanji 644]] says he closes his gate at home until death.
+- Office and reputation: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|汉纪 644]] says Jiang Xu had served as Yanzhou inspector and was known for integrity.
+- Withdrawal: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|汉纪 644]] says he claims illness and leaves office after Wang Mang occupies the throne.
+- Seclusion: [[zizhi-tongjian-hanji-644-shui-gan-he-huangdi-shizhe-taojiahuanjia-lkgn0idimbu6twz-symr5012f8sn|汉纪 644]] says he closes his gate at home until death.
 
 ## Qualifications
 
-The page is source-bounded to Hanji 644. It records Jiang Xu as an office-withdrawal example and does not assert a fuller career, factional role, or hidden resistance.
+The page is source-bounded to 汉纪 644. It records Jiang Xu as an office-withdrawal example and does not assert a fuller career, factional role, or hidden resistance.
 
 ## What Changed
 
-- Created from Hanji 644 as a Xin-era official whose illness-based withdrawal belongs to the broader scholar-official refusal spectrum.
+- Created from 汉纪 644 as a Xin-era official whose illness-based withdrawal belongs to the broader scholar-official refusal spectrum.
 
 ## Relationships
 

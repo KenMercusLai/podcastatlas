@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] grounds the concept in [[ChenXianXinOfficial|陈贤]]'s withdrawal under [[WangMang|王莽]]. Chen Xian does not only retire from office; he preserves the old Han calendar of household sacrifices and hides Han legal texts in a wall.
+[[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] grounds the concept in [[ChenXianXinOfficial|陈贤]]'s withdrawal under [[WangMang|王莽]]. Chen Xian does not only retire from office; he preserves the old Han calendar of household sacrifices and hides Han legal texts in a wall.
 
 The episode therefore separates concealment from apathy. Public contestation may be too dangerous, but the actor can still keep a rival institutional memory alive in forms that do not immediately invite repression. The preserved material matters because later reconstruction depends on more than sentiment: calendars, legal texts, and procedures are part of what makes an old order recoverable.
 
@@ -28,17 +28,17 @@ The episode therefore separates concealment from apathy. Public contestation may
 
 ## Evidence
 
-- Household ritual timing: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Chen Xian's family continues sacrifices according to former Han dates rather than Wang Mang's changed schedule.
-- Verbal explanation: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] preserves Chen Xian's answer that ancestors would not know Wang-family ritual dates.
-- Legal-text concealment: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|Hanji 645]] says Chen Xian organizes Han legal materials and secretly hides them in a wall.
+- Household ritual timing: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says Chen Xian's family continues sacrifices according to former Han dates rather than Wang Mang's changed schedule.
+- Verbal explanation: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] preserves Chen Xian's answer that ancestors would not know Wang-family ritual dates.
+- Legal-text concealment: [[zizhi-tongjian-hanji-645-bidu-zhichang-quanmou-mingzhebaoshen-or-niliu-ershang-lvdqcakza0zqextrhympnpswxyjy|汉纪 645]] says Chen Xian organizes Han legal materials and secretly hides them in a wall.
 
 ## Counterevidence & Qualifications
 
-The concept should not be stretched into organized resistance. Hanji 645 shows private preservation under lowered exposure, not a public restoration program. The evidence also comes from one source note, so Chen Xian's precise motives and the later use of the hidden legal texts remain source-scoped.
+The concept should not be stretched into organized resistance. 汉纪 645 shows private preservation under lowered exposure, not a public restoration program. The evidence also comes from one source note, so Chen Xian's precise motives and the later use of the hidden legal texts remain source-scoped.
 
 ## What Changed
 
-- Created the concept from Hanji 645's Chen Xian branch.
+- Created the concept from 汉纪 645's Chen Xian branch.
 
 ## Related Concepts
 

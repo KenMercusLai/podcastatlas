@@ -24,11 +24,11 @@ After [[DuShangLateHan|Du Shang]] defeats the main rebel force, Hu Lan's remnant
 - Residual-security actor whose remnants create the opening for Du Shang's false report against Zhang Pan.
 
 ## Evidence
-- Initial Guiyang attack: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] says Hu Lan joins Zhu Gai in attacking Guiyang and forcing Ren Yin to flee.
-- Lingling pressure setup: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|Hanji 866]] moves Hu Lan's force toward Lingling and Chen Qiu's defense.
-- Rebel alliance: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] reports Hu Lan joining Zhu Gai in attacks on Guiyang and Lingling.
-- Siege tactic and reversal: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] describes the rebels blocking the river and flooding Lingling, only for Chen Qiu to redirect the water.
-- Remnant movement: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|Hanji 867]] has Hu Lan's remnants flee to Cangwu and then become central to the Zhang Pan-Du Shang case.
+- Initial Guiyang attack: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] says Hu Lan joins Zhu Gai in attacking Guiyang and forcing Ren Yin to flee.
+- Lingling pressure setup: [[zizhi-tongjian-hanji-866-zhenzheng-huomingbai-de-ren-dongde-sanbuzhan-lhhmmyjfo6mkf-qs6bhhzu8hhln6|汉纪 866]] moves Hu Lan's force toward Lingling and Chen Qiu's defense.
+- Rebel alliance: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] reports Hu Lan joining Zhu Gai in attacks on Guiyang and Lingling.
+- Siege tactic and reversal: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] describes the rebels blocking the river and flooding Lingling, only for Chen Qiu to redirect the water.
+- Remnant movement: [[zizhi-tongjian-hanji-867-wugu-bei-po-zangshui-ta-xuanze-baqi-huiji-lqenvoy7x8ic-qn3-bf93qj8tjvk|汉纪 867]] has Hu Lan's remnants flee to Cangwu and then become central to the Zhang Pan-Du Shang case.
 
 ## Qualifications
 The current sources give Hu Lan's role in the rebellion but not his background or political aims. His page should remain source-scoped unless later ingests add independent information about Guiyang bandit networks or his command structure.

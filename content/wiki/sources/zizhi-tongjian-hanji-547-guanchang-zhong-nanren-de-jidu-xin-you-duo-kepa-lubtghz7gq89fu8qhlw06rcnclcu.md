@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate setup to [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] under [[HanChengdi|汉成帝]]. After [[WangShangWesternHan|王商]] dies soon after becoming Da Jiangjun, [[WangLiWesternHan|王立]] is passed over because [[SunBaoWesternHan|孙宝]] exposes a land-profiteering case; Chengdi instead relies on [[WangGenWesternHan|王根]]. The episode then centers Wang Gen's opposition to Chengdi granting Pingling Feiniu Pavilion land near imperial-ancestral route space to [[ZhangYuWesternHan|张瑜 / 张禹]].
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate setup to [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] under [[HanChengdi|汉成帝]]. After [[WangShangWesternHan|王商]] dies soon after becoming Da Jiangjun, [[WangLiWesternHan|王立]] is passed over because [[SunBaoWesternHan|孙宝]] exposes a land-profiteering case; Chengdi instead relies on [[WangGenWesternHan|王根]]. The episode then centers Wang Gen's opposition to Chengdi granting Pingling Feiniu Pavilion land near imperial-ancestral route space to [[ZhangYuWesternHan|张瑜 / 张禹]].
 
 The durable synthesis is that court jealousy is not only a private emotion. Chengdi's visible favor toward Zhang Yu touches Wang Gen's kinship authority, status, and outer-relative position, so Wang Gen's slander becomes a political act that backfires: the more he attacks Zhang Yu, the more Chengdi honors his teacher. The episode also adds the teacher-honor layer behind the jealousy: Zhang Yu is not merely a favorite but Chengdi's classics teacher, sickbed adviser, and continuing court consultant.
 
@@ -37,7 +37,7 @@ The durable synthesis is that court jealousy is not only a private emotion. Chen
 ## Connections
 
 - [[WangGenWesternHan|王根]], [[ZhangYuWesternHan|张瑜 / 张禹]], and [[HanChengdi|汉成帝]] - the source's central triangle of outer-relative status, teacher favor, and imperial decision-making.
-- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|Hanji 548]] and [[JealousyDeescalationByRivalProtection|以护对手化解嫉妒]] - this episode supplies the jealousy trigger that the next episode resolves through Zhang Yu's protection of the Wang side.
+- [[zizhi-tongjian-hanji-548-zhichang-jidu-xin-zhong-ruiqi-jiao-ni-huajie-liok6-a2hef5p8-kydup8wk8phvf|汉纪 548]] and [[JealousyDeescalationByRivalProtection|以护对手化解嫉妒]] - this episode supplies the jealousy trigger that the next episode resolves through Zhang Yu's protection of the Wang side.
 - [[ImperialTeacherHonorRitual|帝王尊师礼制]] - Zhang Yu's sickbed visits and continuing advice show a Western Han version of ruler deference toward a teacher.
 - [[WangLiWesternHan|王立]], [[SunBaoWesternHan|孙宝]], and [[OuterRelativeCourtPower|外戚专权与清算]] - the Wang-family office sequence is constrained by corruption exposure before Wang Gen's rise.
 - [[DisasterOmenInterpretiveSkepticism|灾异解释怀疑]] - the next episode develops Zhang Yu's response when disasters become a weapon against the Wang side.

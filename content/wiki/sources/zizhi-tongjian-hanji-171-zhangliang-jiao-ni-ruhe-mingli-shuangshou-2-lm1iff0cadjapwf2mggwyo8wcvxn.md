@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》171｜张良教你如何名利双收？（2）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|Hanji 171 part 1]] by shifting from [[ZhangLiang|张良]]'s successful exit to the wider danger field facing early [[WesternHanDynasty|西汉]] contributors and vassal kings. It narrates [[ZangTu|臧荼]]'s rebellion, [[LiuBang|刘邦]]'s suppression of Yan, [[LuWan|卢绾]]'s appointment as Yan king, [[LiJiChuHan|利几]]'s fear-driven rebellion, the building of [[ChanglePalace|长乐宫]] and [[WeiyangPalace|未央宫]], and [[HanXin|韩信]]'s crisis after sheltering [[ZhongliMo|钟离眜]]. The host's through-line is [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]]: unification turns former allies and regional kings from assets into possible threats.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|汉纪 171 part 1]] by shifting from [[ZhangLiang|张良]]'s successful exit to the wider danger field facing early [[WesternHanDynasty|西汉]] contributors and vassal kings. It narrates [[ZangTu|臧荼]]'s rebellion, [[LiuBang|刘邦]]'s suppression of Yan, [[LuWan|卢绾]]'s appointment as Yan king, [[LiJiChuHan|利几]]'s fear-driven rebellion, the building of [[ChanglePalace|长乐宫]] and [[WeiyangPalace|未央宫]], and [[HanXin|韩信]]'s crisis after sheltering [[ZhongliMo|钟离眜]]. The host's through-line is [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]]: unification turns former allies and regional kings from assets into possible threats.
 
 ## Key Claims
 - At Liu Bang's accession, most kings were already in place before the imperial title; [[ZangTu|臧荼]] was especially tied to [[XiangYu|项羽]]'s partition because he had become Yan king by displacing [[HanGuang|韩广]].
@@ -21,9 +21,9 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 - Liu Bang's two-month suppression of Zang Tu and the appointment of [[LuWan|卢绾]] as Yan king show the founding order moving from merit and wartime title recognition toward personal trust and quasi-kinship control.
 - Yan's distance from the center and exposure to [[Xiongnu|匈奴]] made Liu Bang prefer a deeply trusted old companion, but that choice also signaled to other different-surname kings that loyalty might not protect their position.
 - [[LiJiChuHan|利几]]'s hopeless rebellion illustrates fear politics: a minor former Xiang-side figure could rebel not because success was plausible, but because summons from Liu Bang made survival feel impossible.
-- The renovation of [[ChanglePalace|长乐宫]] and construction of [[WeiyangPalace|未央宫]] mark the material consolidation of the Chang'an court after the capital decision in [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|Hanji 170 part 2]].
+- The renovation of [[ChanglePalace|长乐宫]] and construction of [[WeiyangPalace|未央宫]] mark the material consolidation of the Chang'an court after the capital decision in [[zizhi-tongjian-hanji-170-liubang-weisha-cong-luoyang-banjia-dao-changan-2-lpqtexvxjrbrpjgbw5hrgmhl9apk|汉纪 170 part 2]].
 - Han Xin's sheltering of Zhongli Mo is read as both old friendship and practical Chu governance, because Zhongli Mo's Chu networks could help Han Xin stabilize a region where he was politically exposed.
-- In Liu Bang's eyes, a young and admired Han Xin ruling Chu with a famous former Chu general nearby intensified the succession danger already named in Hanji 171 part 1.
+- In Liu Bang's eyes, a young and admired Han Xin ruling Chu with a famous former Chu general nearby intensified the succession danger already named in 汉纪 171 part 1.
 
 ## Key Quotes
 > "臧荼反叛"
@@ -33,7 +33,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [
 > "与其坐以待毙，不如奋力一搏"
 
 ## Connections
-- [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|Hanji 171 part 1]] - immediate prelude: Zhang Liang's safe withdrawal is contrasted with the danger now facing Han Xin and other high-merit figures.
+- [[zizhi-tongjian-hanji-171-zhangliang-jiao-ni-ruhe-mingli-shuangshou-1-lptgy7wxwsve8ljt79asetubin41|汉纪 171 part 1]] - immediate prelude: Zhang Liang's safe withdrawal is contrasted with the danger now facing Han Xin and other high-merit figures.
 - [[LiuBang|刘邦]], [[ZangTu|臧荼]], [[LuWan|卢绾]], [[LiJiChuHan|利几]], and [[DifferentSurnameKingSuspicion|异姓诸侯王猜忌]] - the episode's central sequence of suspicion, replacement, and fear-triggered rebellion.
 - [[HanXin|韩信]], [[ZhongliMo|钟离眜]], [[HostileTerritoryRoyalContainment|敌意封国安置]], and [[PowerExitTrap|权力退场困境]] - the Chu kingship branch after final victory, now sharpened by the Zhongli Mo sheltering crisis.
 - [[YanState|燕国]], [[HanGuang|韩广]], [[Xiongnu|匈奴]], and [[DaiState|代国]] - the northern and Yan-field context behind Zang Tu's rebellion and Lu Wan's appointment.

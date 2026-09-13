@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-仇香 / Qiu Xiang is the Hanji 862 local-governance figure who transforms an alleged unfiliality case through moral diagnosis and teaching rather than punishment. His current wiki role centers on [[ChenYuanLateHan|陈元]], [[WangHuanLateHan|王涣]], [[GuoTaiLateHan|郭泰]], and [[HumaneLocalGovernance|仁厚地方治理]].
+仇香 / Qiu Xiang is the 汉纪 862 local-governance figure who transforms an alleged unfiliality case through moral diagnosis and teaching rather than punishment. His current wiki role centers on [[ChenYuanLateHan|陈元]], [[WangHuanLateHan|王涣]], [[GuoTaiLateHan|郭泰]], and [[HumaneLocalGovernance|仁厚地方治理]].
 
 ## Current Profile
 
@@ -30,19 +30,19 @@ His next step is direct moral instruction. He visits the home, speaks about huma
 
 ## Evidence
 
-- Quiet obscurity: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Qiu Xiang has deep conduct but is quiet enough that the village barely knows him.
-- Diagnostic response: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Qiu Xiang infers from Chen Yuan's orderly house and timely farming that he is not fundamentally evil.
-- Mother-son repair: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says he persuades Chen Yuan's mother to withdraw the complaint and later teaches Chen Yuan until Chen Yuan becomes known as filial.
-- Wang Huan recognition: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Wang Huan appreciates Qiu Xiang's transformation without punishment and funds him for Taixue study.
-- Guo Tai reverence and household discipline: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|Hanji 862]] says Guo Tai bows to Qiu Xiang as teacher, and that Qiu Xiang governs his household by self-rebuke and ritualized correction.
+- Quiet obscurity: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says Qiu Xiang has deep conduct but is quiet enough that the village barely knows him.
+- Diagnostic response: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says Qiu Xiang infers from Chen Yuan's orderly house and timely farming that he is not fundamentally evil.
+- Mother-son repair: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says he persuades Chen Yuan's mother to withdraw the complaint and later teaches Chen Yuan until Chen Yuan becomes known as filial.
+- Wang Huan recognition: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says Wang Huan appreciates Qiu Xiang's transformation without punishment and funds him for Taixue study.
+- Guo Tai reverence and household discipline: [[zizhi-tongjian-hanji-862-ta-yin-yiju-hua-xiuqi-zuizhong-shenbai-minglie-lrvklai847fvlp1l28coofzgbsyq|汉纪 862]] says Guo Tai bows to Qiu Xiang as teacher, and that Qiu Xiang governs his household by self-rebuke and ritualized correction.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 862. It records the episode's moral-governance function of Qiu Xiang and does not expand into a full biography. The source note normalizes the transcript's "仇湘" to 仇香.
+This page is source-scoped to 汉纪 862. It records the episode's moral-governance function of Qiu Xiang and does not expand into a full biography. The source note normalizes the transcript's "仇湘" to 仇香.
 
 ## What Changed
 
-- Created the page from Hanji 862's non-punitive filiality and local-governance case.
+- Created the page from 汉纪 862's non-punitive filiality and local-governance case.
 - Corrected the visible Wang Huan form from 王奂 to 王涣 while preserving the same route.
 
 ## Relationships

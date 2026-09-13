@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 102 CE [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] and [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|Hanji 775]]. It first follows [[CaoFengLateHan|曹凤]]'s diagnosis of [[ShaodangQiang|烧当羌]] strength around the West Sea, then turns to [[EmpressYinHeLateHan|殷皇后]]'s jealousy toward [[EmpressDowagerDengLateHan|邓绥]], the reported threat against the Deng family, and the wugu case that ends with Yin's deposition.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 102 CE [[EmperorHeOfHan|汉和帝]] layer before [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|汉纪 774]] and [[zizhi-tongjian-hanji-775-gan-xiang-mingyun-shuo-no-bukuishi-you-tounao-de-nvzhumu-lh0erdh890ooow6dn0wvf1fbzedf|汉纪 775]]. It first follows [[CaoFengLateHan|曹凤]]'s diagnosis of [[ShaodangQiang|烧当羌]] strength around the West Sea, then turns to [[EmpressYinHeLateHan|殷皇后]]'s jealousy toward [[EmpressDowagerDengLateHan|邓绥]], the reported threat against the Deng family, and the wugu case that ends with Yin's deposition.
 
 The durable synthesis is that Emperor He's 102 CE court shows two forms of political control under stress. On the frontier, Cao Feng proposes [[FrontierResourceIntegration|边疆资源整合治理]] through garrison farming, migration, and state management of agriculture and salt; in the palace, favor competition and wugu accusation turn harem rivalry into lethal household politics before Deng's later empress and regency arc.
 
@@ -44,13 +44,13 @@ The durable synthesis is that Emperor He's 102 CE court shows two forms of polit
 - [[ShaodangQiang|烧当羌]] - created as the Qiang group whose fertile and salt/fish resource base makes the rebellion diagnosis concrete.
 - [[FrontierResourceIntegration|边疆资源整合治理]] - created from the episode's combination of tuntian, migration, resource control, and commandery restoration.
 - [[FrontierCommanderyRestoration|边郡恢复治理]] and [[TuntianSystem|屯田制]] - adjacent tools visible in the West Sea restoration and garrison-farming proposal.
-- [[EmpressYinHeLateHan|殷皇后]] - gains the wugu-deposition and family-punishment layer after Hanji 775's harem-threat layer.
-- [[EmpressDowagerDengLateHan|和熹邓皇后]] - gains an earlier pre-regency danger layer before Hanji 775's more complete formation profile.
+- [[EmpressYinHeLateHan|殷皇后]] - gains the wugu-deposition and family-punishment layer after 汉纪 775's harem-threat layer.
+- [[EmpressDowagerDengLateHan|和熹邓皇后]] - gains an earlier pre-regency danger layer before 汉纪 775's more complete formation profile.
 - [[WuguPoliticalPanic|巫蛊政治恐慌]] - receives an earlier Eastern Han harem case where curse accusation, interrogation, deposition, death, and exile follow palace rivalry.
 - [[FemalePowerCenterPoliticalCapacity|权力中心女性政治能力]] - Deng's fear, restraint, and later opening are sharpened by the source's description of lethal harem politics.
 
 ## Contradictions
 
-- No settled contradiction is recorded. This source backfills the 102 CE layer before Hanji 774's Ban Chao handoff and Hanji 775's fuller Deng Sui formation narrative.
-- Scope caution: the title promises Deng's rise to empress, but the source summary mainly reaches Empress Yin's deposition; the later appointment is developed more fully by Hanji 775.
+- No settled contradiction is recorded. This source backfills the 102 CE layer before 汉纪 774's Ban Chao handoff and 汉纪 775's fuller Deng Sui formation narrative.
+- Scope caution: the title promises Deng's rise to empress, but the source summary mainly reaches Empress Yin's deposition; the later appointment is developed more fully by 汉纪 775.
 - Identity caution: Empress Yin's maternal grandmother Deng Zhu shares the Deng surname but is not merged with Deng Sui's natal family; Zhang Shen, Chen Bao, Yin Gang, Yin Fu, Yin Yi, Yin Chang, Liu Ce, Liu Zhang, Xu Sheng, and exact exile details remain source-scoped.

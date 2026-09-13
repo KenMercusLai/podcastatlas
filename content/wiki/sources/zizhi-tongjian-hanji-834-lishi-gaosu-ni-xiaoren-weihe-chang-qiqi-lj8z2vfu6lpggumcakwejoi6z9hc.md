@@ -14,7 +14,7 @@ last_updated: 2026-08-28
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 150-151 CE warning layer immediately before [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]] and [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|Hanji 836]]. It centers on [[ZhuMuLateHan|朱穆]] twice warning [[LiangJiLateHan|梁冀]] that local extraction, official corruption, luxury spending, and resentment attached to the general-in-chief's name are becoming political danger.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 150-151 CE warning layer immediately before [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]] and [[zizhi-tongjian-hanji-836-xiongdi-fanmu-beihou-ruzhe-he-jianchen-de-jiaofeng-lq9wjn5c8mwt-onrtslum4fw53eq|汉纪 836]]. It centers on [[ZhuMuLateHan|朱穆]] twice warning [[LiangJiLateHan|梁冀]] that local extraction, official corruption, luxury spending, and resentment attached to the general-in-chief's name are becoming political danger.
 
 The episode then shows that Liang Ji is already being checked by upright officials before his final fall: [[ChenFanLateHan|陈蕃]] refuses Liang's request and punishes a deceitful envoy, [[YanDuLateHan|延笃]] kills Liang's retainer for trying to profit from cow bezoar during a prince's illness, and [[ZhangLingLateHan|张陵]] later removes Liang's sword at court. Its durable contribution is [[CorrectiveAdviceNonconversion|忠告不转化]]: Liang is warned and given a path to preserve power, but he cannot or will not convert advice into self-limitation.
 
@@ -27,7 +27,7 @@ The episode then shows that Liang Ji is already being checked by upright officia
 - Liang Ji continues to expand influence by cultivating eunuchs near [[EmperorHuanOfHan|汉桓帝]] and placing relatives, clients, and close associates into important provincial and commandery posts.
 - Chen Fan rejects Liang Ji's request, refuses to receive the envoy, and has the envoy beaten to death after the envoy lies about his status; Chen Fan is later demoted.
 - When a prince is ill and the court seeks rare medicines, Liang Ji sends a retainer to Jingzhao with a letter while also trying to buy cow bezoar for himself; Yan Du opens the letter, arrests and kills the retainer, and is later removed after hostile officials claim he is unfit.
-- The closing Zhang Ling sword-removal scene overlaps with Hanji 835 and is treated here as a preview that court ritual and public law can still make Liang Ji kneel, even before the later anti-Liang coup.
+- The closing Zhang Ling sword-removal scene overlaps with 汉纪 835 and is treated here as a preview that court ritual and public law can still make Liang Ji kneel, even before the later anti-Liang coup.
 
 ## Key Quotes
 
@@ -42,12 +42,12 @@ The episode then shows that Liang Ji is already being checked by upright officia
 - [[ZhuMuLateHan|朱穆]], [[LiangJiLateHan|梁冀]], and [[CorrectiveAdviceNonconversion|忠告不转化]] - repeated warning, concrete self-limitation proposal, and Liang's refusal to treat advice as rescue.
 - [[LiangJiLateHan|梁冀]], [[OuterRelativeCourtPower|外戚专权与清算]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - local extraction, private appointments, eunuch cultivation, and resentment attach public harm to the outer-relative powerholder.
 - [[ChenFanLateHan|陈蕃]], [[YanDuLateHan|延笃]], and [[HighStatusLawEnforcementSignal|高位执法信号]] - officials refuse Liang's requests or punish his retainer despite the power behind the request.
-- [[ZhangLingLateHan|张陵]], [[LiangJiLateHan|梁冀]], [[EmperorHuanOfHan|汉桓帝]], and [[LiAsPoliticalOrder|礼制政治秩序]] - the final court-audience scene previews the fuller sword-removal case in Hanji 835.
-- [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|Hanji 835]], [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|Hanji 838]], and [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|Hanji 846]] - downstream Liang Ji reward, crime-record, and public court-law evidence.
+- [[ZhangLingLateHan|张陵]], [[LiangJiLateHan|梁冀]], [[EmperorHuanOfHan|汉桓帝]], and [[LiAsPoliticalOrder|礼制政治秩序]] - the final court-audience scene previews the fuller sword-removal case in 汉纪 835.
+- [[zizhi-tongjian-hanji-835-donghan-diyi-quanchen-weihe-yao-gui-ta-lpwezt-z-2qloitwd3t4gyxznqbo|汉纪 835]], [[zizhi-tongjian-hanji-838-tanlan-de-youhuo-rang-ta-kuangbiao-zai-zuosi-de-lushang-lrydilyni6o6yzhk1-e74m6aigwr|汉纪 838]], and [[zizhi-tongjian-hanji-846-bahu-jiangjun-bingshan-yijiao-de-fanzui-jilu-lv7fbvoqr1nureqgvwiwixjyk4pq|汉纪 846]] - downstream Liang Ji reward, crime-record, and public court-law evidence.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. Hanji 834 overlaps with Hanji 835 on Zhang Ling's sword-removal scene, but Hanji 834 functions as the warning-and-preview layer while Hanji 835 supplies the fuller court procedure and salary penalty.
+- No settled contradiction with existing wiki pages was found. 汉纪 834 overlaps with 汉纪 835 on Zhang Ling's sword-removal scene, but 汉纪 834 functions as the warning-and-preview layer while 汉纪 835 supplies the fuller court procedure and salary penalty.
 - Chronology caution: this source moves the current wiki's Liang Ji and Zhu Mu profiles earlier than the already-ingested 151-159 CE Liang sequence, but it does not overturn those later pages.
 - Transcript normalization: 梁继 is normalized to [[LiangJiLateHan|梁冀]], 陈藩 to [[ChenFanLateHan|陈蕃]], 严赌 to [[YanDuLateHan|延笃]], 张灵 to [[ZhangLingLateHan|张陵]], and 汉治帝 to [[EmperorZhiOfHan|汉质帝]] because the offices, sequence, and cow-bezoar/sword-removal incidents match the established late-Han context.
 - Scope caution: the Hai Rui and Hu Zongxian analogy, Xiaochong Empress/mother-title notices, the Guanghan-Zitong landslide notice, and minor hostile-official motives are preserved as source-scoped rather than expanded into dedicated pages here.

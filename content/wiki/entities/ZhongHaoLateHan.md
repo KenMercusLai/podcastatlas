@@ -35,11 +35,11 @@ The later Duliao layer shifts him to frontier governance. He investigates an off
 
 ## Evidence
 
-- Crown-prince credential boundary - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] records Zhong Hao refusing to release Crown Prince Liu Bing to Gao Fan until an edict and credential are produced.
-- "守拙" as decisive restraint - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] presents Zhong Hao as quiet in ordinary circumstances but willing to risk his life when crown-prince safety is at stake.
-- Yizhou anti-corruption role - [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|Hanji 844]] records Zhong Hao, as Yizhou inspector, reporting Liu Xuan's bribery and cruelty, prompting execution and succession by the humane administrator Di Jiong.
-- Frontier factual investigation - [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] records Zhong Hao, as Duliao general, discovering that Li Ku had killed himself rather than being murdered by Xianbei.
-- Trust through accountability - [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|Hanji 826]] says Zhong Hao punishes the officials who abused Hu people and that outside groups submit because they trust his fairness.
+- Crown-prince credential boundary - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] records Zhong Hao refusing to release Crown Prince Liu Bing to Gao Fan until an edict and credential are produced.
+- "守拙" as decisive restraint - [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] presents Zhong Hao as quiet in ordinary circumstances but willing to risk his life when crown-prince safety is at stake.
+- Yizhou anti-corruption role - [[zizhi-tongjian-hanji-844-ruhe-liyu-bubaizhidi-lsp49uw8atyiufrf-ryo-9ctos5z|汉纪 844]] records Zhong Hao, as Yizhou inspector, reporting Liu Xuan's bribery and cruelty, prompting execution and succession by the humane administrator Di Jiong.
+- Frontier factual investigation - [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] records Zhong Hao, as Duliao general, discovering that Li Ku had killed himself rather than being murdered by Xianbei.
+- Trust through accountability - [[zizhi-tongjian-hanji-826-luanshi-de-zui-yu-e-beihou-shi-tanlan-de-renxing-ljk0q4zq4zy6l9rvoo-pipdcsijv|汉纪 826]] says Zhong Hao punishes the officials who abused Hu people and that outside groups submit because they trust his fairness.
 
 ## Qualifications
 
@@ -47,10 +47,10 @@ The profile is still episodic rather than biographical. It combines three source
 
 ## What Changed
 
-- Added the 144 CE crown-prince household scene from Hanji 824.
+- Added the 144 CE crown-prince household scene from 汉纪 824.
 - Reframed Zhong Hao's existing anti-corruption and frontier layers as later examples of role-based boundary enforcement.
 - Added [[ShouzhuoDecisiveRestraint|守拙式临事决断]] as the concept attached to his earliest scene.
-- Preserved the existing source inventory and appended Hanji 824.
+- Preserved the existing source inventory and appended 汉纪 824.
 
 ## Relationships
 

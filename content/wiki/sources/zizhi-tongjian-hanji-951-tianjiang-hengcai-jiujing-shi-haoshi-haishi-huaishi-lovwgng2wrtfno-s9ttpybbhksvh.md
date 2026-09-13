@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|Hanji 952]] sequence through [[DongZhuo|董卓]]'s forced relocation of [[EmperorXianOfHan|汉献帝]] from [[LuoyangLateHan|洛阳]] to [[ChangAnHanCapital|长安]], the court objections by [[YangBiao|杨彪]], [[HuangWanLateHan|黄琬]], and [[XunShuangLateHan|荀爽]], and the missed anti-Dong-Zhuo opening around [[HuangfuSongLateHan|皇甫嵩]]. It uses the title's windfall question to argue that wealth and power become dangerous when the recipient lacks enough virtue, restraint, or institutional constraint. Its distinct contribution is that Dong Zhuo's move has a plausible military geography but becomes [[CoerciveCapitalRelocation|强制迁都]] through punishments, confiscations, civilian killing, abduction, and mass forced migration.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the immediate pre-[[zizhi-tongjian-hanji-952-danxing-haoshi-weishenme-mowen-qiancheng-li9vvaeaues9-fxy4e4yp-f4pugj|汉纪 952]] sequence through [[DongZhuo|董卓]]'s forced relocation of [[EmperorXianOfHan|汉献帝]] from [[LuoyangLateHan|洛阳]] to [[ChangAnHanCapital|长安]], the court objections by [[YangBiao|杨彪]], [[HuangWanLateHan|黄琬]], and [[XunShuangLateHan|荀爽]], and the missed anti-Dong-Zhuo opening around [[HuangfuSongLateHan|皇甫嵩]]. It uses the title's windfall question to argue that wealth and power become dangerous when the recipient lacks enough virtue, restraint, or institutional constraint. Its distinct contribution is that Dong Zhuo's move has a plausible military geography but becomes [[CoerciveCapitalRelocation|强制迁都]] through punishments, confiscations, civilian killing, abduction, and mass forced migration.
 
 ## Key Claims
 
@@ -49,5 +49,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages is recorded. The episode mainly backfills the coercive relocation and forced-migration stage before Hanji 952's Luoyang burning and tomb-looting branch.
+- No settled contradiction with existing wiki pages is recorded. The episode mainly backfills the coercive relocation and forced-migration stage before 汉纪 952's Luoyang burning and tomb-looting branch.
 - Source-scope caution: the transcript renders several names unstably. The wiki normalizes "黄甫松" to [[HuangfuSongLateHan|皇甫嵩]], "朱俊" to [[ZhuJunLateHan|朱儁]], "吴琼" to [[WuQiongLateHan|伍琼]], and "周壁" to [[ZhouBiLateHan|周毖]] while preserving the source's wording as a transcription issue.

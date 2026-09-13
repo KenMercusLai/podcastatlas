@@ -14,7 +14,7 @@ last_updated: 2026-09-05
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Jian'an 9 [[YuanShao|袁绍]] succession-collapse branch after [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]]. It first turns [[ZhangYanLateHan|张燕]] and the [[HeishanArmy|黑山军]] into a case of mountain-based survival and timed alignment, then shifts back to [[CaoCao|曹操]]'s siege of [[YeLateHan|邺城]], where moat digging, water diversion, isolation, and [[LiFuLateHan|李孚]]'s disguised messenger run define the next campaign stage.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the Jian'an 9 [[YuanShao|袁绍]] succession-collapse branch after [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|汉纪 1061]]. It first turns [[ZhangYanLateHan|张燕]] and the [[HeishanArmy|黑山军]] into a case of mountain-based survival and timed alignment, then shifts back to [[CaoCao|曹操]]'s siege of [[YeLateHan|邺城]], where moat digging, water diversion, isolation, and [[LiFuLateHan|李孚]]'s disguised messenger run define the next campaign stage.
 
 The core synthesis is that value preservation works on both sides of the episode. Zhang Yan remains worth recruiting because his Taihang base is hard to erase and still useful after the Yuan family weakens, while Cao Cao tightens Ye through engineering and information isolation; Li Fu's infiltration briefly breaks that isolation by performing Cao-side authority inside the camp and escaping under the cover of mass surrender.
 
@@ -42,7 +42,7 @@ The core synthesis is that value preservation works on both sides of the episode
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] - direct predecessor on Yuan Shang leaving Ye exposed and Cao Cao beginning the siege.
+- [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|汉纪 1061]] - direct predecessor on Yuan Shang leaving Ye exposed and Cao Cao beginning the siege.
 - [[ZhangYanLateHan|张燕]], [[ZhangNiujiaoLateHan|张牛角]], [[HeishanArmy|黑山军]], [[YuanShao|袁绍]], and [[CaoCao|曹操]] - Black Mountain origin, survival, and final Cao-side alignment.
 - [[MountainBaseStrategicOptionality|山地根据地战略余地]] - concept created from Zhang Yan's hard-to-clear mountain base, farming-fighting durability, and preserved bargaining value.
 - [[OfficeBasedRebelIncorporation|授官式招安]] - earlier Han-court title grant is extended by Cao Cao's later appointment and marquis settlement.

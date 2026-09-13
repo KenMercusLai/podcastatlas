@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 8 / 32 CE before [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|Hanji 708]] and [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|Hanji 709]]. It centers on [[DouRongEasternHan|窦融]] leading western forces into [[LiuXiu|刘秀]]'s camp, using court ritual to mark submission, and trying to exchange regional authority for family security while Liu Xiu keeps him in place for western stabilization.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Jianwu 8 / 32 CE before [[zizhi-tongjian-hanji-708-jizun-bingshi-weihe-yinfa-baiguan-jingkong-lhfuvjyiiirlaf-ugrufkaspuauq|汉纪 708]] and [[zizhi-tongjian-hanji-709-mian-dui-bangjia-an-guren-weihe-buguan-renzhi-sihuo-luknor8yw839qwxogeyzwluo6qe2|汉纪 709]]. It centers on [[DouRongEasternHan|窦融]] leading western forces into [[LiuXiu|刘秀]]'s camp, using court ritual to mark submission, and trying to exchange regional authority for family security while Liu Xiu keeps him in place for western stabilization.
 
 The second half contrasts that controlled submission with [[WeiXiaoEasternHan|隗嚣]] and [[ZhangBuEasternHan|张步]]. Wei Xiao loses large subordinate groups, rejects Liu Xiu's final surrender offer, is rescued from Xicheng by [[GongsunShuEasternHan|公孙述]]-backed forces, and briefly retakes commanderies; Zhang Bu reads the wider surrender field too late, flees with family, and is executed. The episode also uses [[WuHanEasternHan|吴汉]]'s failure to disperse surplus troops and [[CenPengEasternHan|岑彭]]'s rearguard retreat to make logistics part of political consolidation rather than a separate battlefield problem.
 
@@ -48,6 +48,6 @@ The second half contrasts that controlled submission with [[WeiXiaoEasternHan|�
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the 32 CE western campaign layer before Hanji 708's 33 CE Wei Xiao death, Ji Zun mourning, Wen Xu death-memory, and Lai Xi planning material.
+- Chronology qualification: this source backfills the 32 CE western campaign layer before 汉纪 708's 33 CE Wei Xiao death, Ji Zun mourning, Wen Xu death-memory, and Lai Xi planning material.
 - Identity normalization: transcript forms 斗荣, 魏瑶, 张布, 寇勋, 温叙, 尹川, 龙西, and 济音 are normalized to [[DouRongEasternHan|窦融]], [[WeiXiaoEasternHan|隗嚣]], [[ZhangBuEasternHan|张步]], [[KouXunEasternHan|寇恂]], [[WenXuEasternHan|温序]], [[YingchuanCommandery|颍川]], 陇西, and 济阴 based on the Guangwu-era sequence.
 - Scope caution: Niu Han, Wang Zun, Wei Xun, Dou You, Wang Yuan, Xing Xun, Zhou Zong, Tian Yan, Li Yu, Gai Yan, Zhang Hong, Zhang Lan, Chen Jun, Wang Chang, Geng Chun's force count, exact Qiang subgroup names, exact commandery dates, and Xicheng/Shanggui place details remain source-scoped unless later notes warrant standalone pages.

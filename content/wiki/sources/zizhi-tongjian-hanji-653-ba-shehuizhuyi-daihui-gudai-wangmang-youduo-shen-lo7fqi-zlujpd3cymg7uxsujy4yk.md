@@ -42,7 +42,7 @@ The durable synthesis is that [[WangMangReforms|王莽改制]] failed not only b
 - [[WujunLiuguan|五均六管]], [[StateResourceMonopoly|state resource monopoly]], [[HeavyAgricultureLightCommercePolicy|重农轻商政策]], and [[IdeologicalOvercontrol|意识形态过度控制]] - the program combines anti-merchant rhetoric, state price control, official credit, and monopolized resources.
 - [[DisasterReliefCorruption|救灾物资贪腐]], [[OfficialArmyPredationBackfire|官军扰民反噬]], and [[SuppressedRootCauseReporting|根因上报压制]] - later late-Xin source notes echo the same failure pattern: crisis programs become predation, and truthful reports become dangerous.
 - [[ChimeiRebellion|赤眉]] and [[LulinRebellion|绿林]] - later revolt pages sit downstream of the social breakdown that this source traces to taxation, legal overreach, disaster, and official abuse.
-- [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|Hanji 658]], [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|Hanji 659]], and [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|Hanji 660-2]] - continuation into succession shock, private-coinage punishment, forbidden hunger explanations, Chimei organization, and corrupt relief.
+- [[zizhi-tongjian-hanji-658-erzi-queshi-buyinggai-wangmang-nusha-taizi-ln4tu6ly8eie6jspvrurzn2rjjp|汉纪 658]], [[zizhi-tongjian-hanji-659-youxie-hexin-rencai-buyao-qingyi-dong-lg1nzal53ihdw-krici2thek-ij|汉纪 659]], and [[zizhi-tongjian-hanji-660-2-yi-ji-kan-dong-chimei-jun-de-dansheng-lgqk1gkvh-0cwder6g5-wryi6mce|汉纪 660-2]] - continuation into succession shock, private-coinage punishment, forbidden hunger explanations, Chimei organization, and corrupt relief.
 
 ## Contradictions
 

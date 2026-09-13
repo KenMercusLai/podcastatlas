@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the early [[HanYuandi|汉元帝]] and [[GongYuWesternHan|贡禹]] sequence from [[zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t|Hanji 466]]. It centers [[SimaGuang|司马光]]'s criticism that Gong Yu's thrift memorial was true but evasive: palace women, horses, and luxury costs were real problems, yet Yuan's deeper danger was weak judgment under slanderers and corrupt favorites.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues the early [[HanYuandi|汉元帝]] and [[GongYuWesternHan|贡禹]] sequence from [[zizhi-tongjian-hanji-466-gongyu-tanguan-beihou-wangji-he-gongyu-de-gushi-lo54ac1v8plqft5zxmorlk4-vx0t|汉纪 466]]. It centers [[SimaGuang|司马光]]'s criticism that Gong Yu's thrift memorial was true but evasive: palace women, horses, and luxury costs were real problems, yet Yuan's deeper danger was weak judgment under slanderers and corrupt favorites.
 
 The durable synthesis is [[TrueButEvasiveRemonstrance|真实但避重就轻的进谏]]: truthful advice can still fail public duty when it avoids the urgent institutional danger. The host contrasts Gong Yu's selective truth-telling with [[WeiZhengTang|魏征]] and [[FanZhongyan|范仲淹]], treating direct warning as part of an official's responsibility to state, people, and office rather than merely a personal display of courage.
 
@@ -41,12 +41,12 @@ The durable synthesis is [[TrueButEvasiveRemonstrance|真实但避重就轻的�
 - [[SimaGuang|司马光]] - critic who supplies the priority standard for loyal remonstrance.
 - [[XiaoWangzhiWesternHan|萧望之]] - teacher-minister background figure whose anti-eunuch stance helps define the court problem Gong Yu avoids.
 - [[TrueButEvasiveRemonstrance|真实但避重就轻的进谏]] - concept created from the episode's distinction between truthful content and truthful prioritization.
-- [[OpportunisticCourtAlignment|投机型朝堂站队]] - later Hanji 478 uses the same Gong Yu criticism inside a broader pattern of safe advice and unstable principle.
+- [[OpportunisticCourtAlignment|投机型朝堂站队]] - later 汉纪 478 uses the same Gong Yu criticism inside a broader pattern of safe advice and unstable principle.
 - [[ScholarOfficialPublicDuty|士大夫公共责任]] - public-duty frame for why knowing danger but not reporting it is treated as an official failure.
 - [[ReceptiveRemonstranceGovernance|纳谏转政策式治理]] and [[CourtFeedbackCollapse|君臣反馈失灵]] - adjacent contrast between accepted cost-cutting advice and unaddressed feedback failure.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this episode sits between Hanji 466's positive thrift-remonstrance layer and Hanji 468-470's Xiao Wangzhi conflict setup. It sharpens the existing ambivalence around Gong Yu rather than overturning his earlier positive reputation.
+- Chronology qualification: this episode sits between 汉纪 466's positive thrift-remonstrance layer and 汉纪 468-470's Xiao Wangzhi conflict setup. It sharpens the existing ambivalence around Gong Yu rather than overturning his earlier positive reputation.
 - Scope caution: the episode is a moralized podcast reading of Sima Guang's criticism. Gong Yu's private motive, full original memorial, Yuan's exact implementation, and the institutional conditions that made direct anti-favorite speech risky remain source-scoped.

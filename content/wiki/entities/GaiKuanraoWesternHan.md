@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-盖宽饶 / Gai Kuanrao enters the wiki through [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] as a Western Han sili xiaowei under [[EmperorXuanOfHan|汉宣帝]]. The episode presents him as clean, upright, and public-minded, but also as harsh, stubborn, and politically exposed because his office and speaking style created enemies.
+盖宽饶 / Gai Kuanrao enters the wiki through [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] as a Western Han sili xiaowei under [[EmperorXuanOfHan|汉宣帝]]. The episode presents him as clean, upright, and public-minded, but also as harsh, stubborn, and politically exposed because his office and speaking style created enemies.
 
 ## Current Profile
 
@@ -29,24 +29,24 @@ The source says that reading is not Gai's intended meaning, but the wording give
 ## Evidence
 
 Office and character:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Gai is sili xiaowei, clean and upright, but also harsh, stubborn, and prone to making enemies.
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says his office supervises the capital and surrounding areas, making it powerful and naturally conflict-generating.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Gai is sili xiaowei, clean and upright, but also harsh, stubborn, and prone to making enemies.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says his office supervises the capital and surrounding areas, making it powerful and naturally conflict-generating.
 
 Remonstrance and recoding:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Gai criticizes the decline of sage learning, the court's treatment of trusted insiders as Zhougong and Shaogong, and the use of law in place of Shijing and Shangshu.
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says officials interpret the "天下为公 / 天下为私" passage as asking Xuan to abdicate to him, even though the host says this was not Gai's meaning.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Gai criticizes the decline of sage learning, the court's treatment of trusted insiders as Zhougong and Shaogong, and the use of law in place of Shijing and Shangshu.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says officials interpret the "天下为公 / 天下为私" passage as asking Xuan to abdicate to him, even though the host says this was not Gai's meaning.
 
 Defense and death:
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Zheng Chang argues that Gai has no powerful family backing and has many enemies because loyal censorial duty restrains corrupt people.
-- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|Hanji 441]] says Xuan does not accept Zheng's defense, sends Gai to yushi judgment, and Gai kills himself at Weiyang Palace's north gate.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Zheng Chang argues that Gai has no powerful family backing and has many enemies because loyal censorial duty restrains corrupt people.
+- [[zizhi-tongjian-hanji-441-gaikuanrao-bei-hanxuandi-bisi-beihou-de-zhichang-zhenxiang-tai-fengci-lm7iqjl6m638ulcpvir1jv7gxho0|汉纪 441]] says Xuan does not accept Zheng's defense, sends Gai to yushi judgment, and Gai kills himself at Weiyang Palace's north gate.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 441. It does not reconstruct Gai's full biography, the original Chinese text of the memorial, the complete yushi procedure, or the broader legal history of sili xiaowei authority. The episode's claim that Gai was harsh or alienating is preserved as part of the source's interpretation, not expanded into an independent psychological verdict.
+This page is source-scoped to 汉纪 441. It does not reconstruct Gai's full biography, the original Chinese text of the memorial, the complete yushi procedure, or the broader legal history of sili xiaowei authority. The episode's claim that Gai was harsh or alienating is preserved as part of the source's interpretation, not expanded into an independent psychological verdict.
 
 ## What Changed
 
-- Created the page from Hanji 441 as the direct Gai Kuanrao case behind earlier references to Emperor Xuan's execution overreach.
+- Created the page from 汉纪 441 as the direct Gai Kuanrao case behind earlier references to Emperor Xuan's execution overreach.
 
 ## Relationships
 

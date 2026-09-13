@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] creates the concept through [[GongSuiWesternHan|龚遂]]'s Bohai commandery case. Gong Sui's first move is diagnostic: he tells [[EmperorXuanOfHan|汉宣帝]] that Bohai people became robbers because they lacked food and officials failed to care for them. His question to Xuan, whether the mission is to defeat or pacify the people, forces the policy choice into the open.
+[[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] creates the concept through [[GongSuiWesternHan|龚遂]]'s Bohai commandery case. Gong Sui's first move is diagnostic: he tells [[EmperorXuanOfHan|汉宣帝]] that Bohai people became robbers because they lacked food and officials failed to care for them. His question to Xuan, whether the mission is to defeat or pacify the people, forces the policy choice into the open.
 
 The method then turns diagnosis into classification, relief, and production. Gong Sui removes the officials organized around catching robbers, protects people carrying farming tools, treats weapon-carriers as the remaining robbers, opens granaries, requires official thrift, encourages farming, sets household targets for trees and livestock, and inspects personally. The result, as the source tells it, is that many people abandon weapons, resume cultivation, rebuild stores, and reduce litigation or criminal cases.
 
@@ -29,18 +29,18 @@ The method then turns diagnosis into classification, relief, and production. Gon
 ## Evidence
 
 Diagnostic framing:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui tells Xuan that Bohai people lack food and officials do not care for them, so good people become robbers.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui asks whether Xuan wants him to defeat the people or pacify them.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui tells Xuan that Bohai people lack food and officials do not care for them, so good people become robbers.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui asks whether Xuan wants him to defeat the people or pacify them.
 
 Operational autonomy and de-escalation:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui requests that the court not interfere after he takes office, and Xuan agrees.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui dismisses bandit-catching officials and distinguishes farm tools from weapons.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says robbers quickly discard weapons and pick up farm tools.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui requests that the court not interfere after he takes office, and Xuan agrees.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui dismisses bandit-catching officials and distinguishes farm tools from weapons.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says robbers quickly discard weapons and pick up farm tools.
 
 Livelihood repair:
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says Gong Sui opens official granaries for relief.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says he promotes official example, thrift, agriculture, household tree and livestock quotas, personal inspection, and persuasion.
-- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|Hanji 425]] says households gradually regain grain and livestock and cases decline quickly.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says Gong Sui opens official granaries for relief.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says he promotes official example, thrift, agriculture, household tree and livestock quotas, personal inspection, and persuasion.
+- [[zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu|汉纪 425]] says households gradually regain grain and livestock and cases decline quickly.
 
 ## Counterevidence & Qualifications
 
@@ -48,7 +48,7 @@ This concept is currently grounded in one exemplary Western Han source note. It 
 
 ## What Changed
 
-- Created the concept from Gong Sui's Bohai commandery pacification in Hanji 425.
+- Created the concept from Gong Sui's Bohai commandery pacification in 汉纪 425.
 
 ## Related Concepts
 

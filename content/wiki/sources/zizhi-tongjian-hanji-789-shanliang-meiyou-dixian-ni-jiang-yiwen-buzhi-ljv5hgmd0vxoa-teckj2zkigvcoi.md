@@ -11,7 +11,7 @@ last_updated: 2026-08-30
 ---
 
 ## Summary
-This episode backfills the 116-117 CE layer immediately before Hanji 790, pairing a modern warning about boundaryless kindness with Deng-regency frontier crisis. The historical core follows the Qiang war from northwest neglect and forced civilian relocation through Du Jigong's defection, Lin Chang's succession, Sima Jun and Pang Can's failed operation, Ren Shang and Deng Zun's cavalry and assassination strategy, Yuan Chang's court-secret case, Liu Kai's mourning-policy intervention, Xianbei raids, and Zhang Qiao's Yizhou pacification. Its durable synthesis is that protection implemented coercively can create enemy manpower, while kindness or appeasement without boundaries becomes exploitable rather than respected.
+This episode backfills the 116-117 CE layer immediately before 汉纪 790, pairing a modern warning about boundaryless kindness with Deng-regency frontier crisis. The historical core follows the Qiang war from northwest neglect and forced civilian relocation through Du Jigong's defection, Lin Chang's succession, Sima Jun and Pang Can's failed operation, Ren Shang and Deng Zun's cavalry and assassination strategy, Yuan Chang's court-secret case, Liu Kai's mourning-policy intervention, Xianbei raids, and Zhang Qiao's Yizhou pacification. Its durable synthesis is that protection implemented coercively can create enemy manpower, while kindness or appeasement without boundaries becomes exploitable rather than respected.
 
 ## Key Claims
 - The opening self-governance frame says respect is not won by pleasing others; kindness without limits becomes exploitable "愚善" unless it is backed by capability, judgment, and decisive boundaries.
@@ -20,7 +20,7 @@ This episode backfills the 116-117 CE layer immediately before Hanji 790, pairin
 - Forced inland relocation of frontier civilians, including destruction of crops and houses, turns a protection policy into famine and drives Han civilians such as [[DuJigongLateHan|Du Jigong]] into Qiang ranks.
 - After Dianling dies, [[LinChangQiang|Lin Chang]] succeeds as a young Qiang leader with Langmo assisting; Han forces split their attacks, but [[SimaJunLateHan|Sima Jun]] and [[PangCanLateHan|Pang Can]] lose the advantage after Dingxi is briefly taken.
 - [[DengZunLateHan|Deng Zun]] uses Southern Xiongnu cavalry against Lin Chang, while [[RenShangLateHan|Ren Shang]] defeats Xianling Qiang forces, attacks Lin Chang's household, and later uses the surrendered Qiang Yu Gui to assassinate Du Jigong.
-- [[LiuKaiEasternHan|Liu Kai]] persuades the court to allow high officials to complete three-year mourning, adding a pre-Hanji 796 institutional layer to his profile.
+- [[LiuKaiEasternHan|Liu Kai]] persuades the court to allow high officials to complete three-year mourning, adding a pre-汉纪 796 institutional layer to his profile.
 - [[YuanChangLateHan|Yuan Chang]]'s removal and suicide after his son's correspondence with [[ZhangJunAnEraLateHan|Zhang Jun]] leaked court secrets show how rigid moral posture and household communication could become political liability under Empress Dowager Deng.
 - Xianbei raids, Wuhuan-assisted counterattack, and Zhang Qiao's Yizhou inducement strategy widen the episode from a single Qiang campaign into a multi-front regency-stress picture.
 
@@ -37,7 +37,7 @@ This episode backfills the 116-117 CE layer immediately before Hanji 790, pairin
 - [[StrategicFrontierAbandonment]] — gains an earlier northwest case before the Western Regions and Liangzhou abandonment debates.
 - [[RegencyUnderCompoundCrisis]] — gains a 116-117 CE layer of frontier war, disasters, Yuan Chang's death, mourning policy, and multi-front stress.
 - [[EmpressDowagerDengLateHan]] and [[EmperorAnOfHan]] — the episode adds pre-118 regency context to their An-era profiles.
-- [[RenShangLateHan]] and [[DengZunLateHan]] — appear before the Hanji 790 Langmo-credit dispute as paired commanders using cavalry, household attacks, and proxy assassination.
+- [[RenShangLateHan]] and [[DengZunLateHan]] — appear before the 汉纪 790 Langmo-credit dispute as paired commanders using cavalry, household attacks, and proxy assassination.
 - [[DuJigongLateHan]], [[LinChangQiang]], and [[SimaJunLateHan]] — central field actors in the forced-relocation and Dingxi campaign sequence.
 - [[PangCanLateHan]] — gains an earlier Qiang-front defeat before his later taiwei household-scandal profile.
 - [[XianlingQiang]] — gains a 116 CE Dingxi defeat layer before later Huan/Ling-era appearances.

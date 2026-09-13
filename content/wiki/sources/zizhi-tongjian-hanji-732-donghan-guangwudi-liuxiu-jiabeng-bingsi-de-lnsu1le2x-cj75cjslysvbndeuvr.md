@@ -14,7 +14,7 @@ last_updated: 2026-08-31
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian]] episode backfills the 57 CE death of [[LiuXiu|光武帝刘秀]] and the immediate succession of [[EmperorMingOfHan|汉明帝刘庄]], just before the accession layer already covered in [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|Hanji 733-1]]. It contrasts the terse [[ZizhiTongjian|《资治通鉴》]] death notice with health clues attributed to [[DongguanHanji|《东观汉记》]], treating Liu Xiu's death as a bounded inference problem rather than a confirmed medical diagnosis.
+This [[RuiqiJiangtouZizhiTongjian]] episode backfills the 57 CE death of [[LiuXiu|光武帝刘秀]] and the immediate succession of [[EmperorMingOfHan|汉明帝刘庄]], just before the accession layer already covered in [[zizhi-tongjian-hanji-733-1-lishi-suo-yiwang-de-diwang-zhishi-mingjun-liuzhuang-lor7vhzzpwz1rv9tijksogukjqvr|汉纪 733-1]]. It contrasts the terse [[ZizhiTongjian|《资治通鉴》]] death notice with health clues attributed to [[DongguanHanji|《东观汉记》]], treating Liu Xiu's death as a bounded inference problem rather than a confirmed medical diagnosis.
 
 The episode also follows the first accession shock: [[ZhaoXiEasternHan|赵熙]] restores funeral order when the crown prince and princes are unsure of ritual procedure, Liu Zhuang succeeds and honors [[YinLihua|阴丽华]] as empress dowager, and [[LiuJingGuanglingKingEasternHan|刘京 / 刘荆]] sends an anonymous letter trying to pull [[LiuQiangDonghaiKing|刘强]] into rebellion. Liu Qiang reports the letter to Mingdi, while Mingdi keeps the matter private and uses reassurance plus sequencing to contain royal-family risk.
 

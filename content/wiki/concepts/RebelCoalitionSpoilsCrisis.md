@@ -14,7 +14,7 @@ last_updated: 2026-09-09
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] grounds the concept in [[LiuYanLiuXiuBrother|刘縯]] and [[LiuXiu|刘秀]]'s early anti-[[WangMang|王莽]] coalition. After victories around Tangzi township and captured wealth, New Market, Pinglin, Liu-family, and other anti-Xin actors nearly turn on each other because distribution feels unfair. Liu Xiu resolves the immediate danger by distributing clan property, turning private sacrifice into coalition preservation.
+[[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] grounds the concept in [[LiuYanLiuXiuBrother|刘縯]] and [[LiuXiu|刘秀]]'s early anti-[[WangMang|王莽]] coalition. After victories around Tangzi township and captured wealth, New Market, Pinglin, Liu-family, and other anti-Xin actors nearly turn on each other because distribution feels unfair. Liu Xiu resolves the immediate danger by distributing clan property, turning private sacrifice into coalition preservation.
 
 The concept is narrower than generic greed. In this source, spoils conflict becomes dangerous because the coalition is militarily useful but not institutionally settled: allies who just fought the same enemy can quickly reprice loyalty when material rewards imply status, fairness, and command recognition.
 
@@ -28,10 +28,10 @@ The concept is narrower than generic greed. In this source, spoils conflict beco
 
 ## Evidence
 
-- Victory-to-spoils transition: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] says Liu Yan's side wins around Tangzi township and collects gold and silver before distribution becomes a crisis.
-- Coalition volatility: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] describes the force as loose and says Lulin-side actors nearly draw swords against the Liu-family troops over unfair distribution.
-- Costly settlement: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] says Liu Xiu takes clan property and distributes it to calm the anger.
-- Temporary repair: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|Hanji 662]] shows the coalition continuing to expand afterward, but later Xiaochang'an defeat creates a separate morale and alliance crisis.
+- Victory-to-spoils transition: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] says Liu Yan's side wins around Tangzi township and collects gold and silver before distribution becomes a crisis.
+- Coalition volatility: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] describes the force as loose and says Lulin-side actors nearly draw swords against the Liu-family troops over unfair distribution.
+- Costly settlement: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] says Liu Xiu takes clan property and distributes it to calm the anger.
+- Temporary repair: [[zizhi-tongjian-hanji-662-liuxiu-shi-ruhe-huajie-tuandui-neidou-de-lsuin9kf1epqfo2yjlk-q1-zwx2|汉纪 662]] shows the coalition continuing to expand afterward, but later Xiaochang'an defeat creates a separate morale and alliance crisis.
 
 ## Counterevidence & Qualifications
 

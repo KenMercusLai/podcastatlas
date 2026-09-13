@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the failed 168 CE anti-eunuch coup immediately before [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]] and [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|Hanji 889]]. It follows [[ChenFanLateHan|陈蕃]]'s attempted palace rescue of [[DouWuLateHan|窦武]], [[WangFuLateHan|王甫]]'s public accusation, the eunuch side's use of forged authority and military pressure, and Dou Wu's final collapse.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the failed 168 CE anti-eunuch coup immediately before [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]] and [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|汉纪 889]]. It follows [[ChenFanLateHan|陈蕃]]'s attempted palace rescue of [[DouWuLateHan|窦武]], [[WangFuLateHan|王甫]]'s public accusation, the eunuch side's use of forged authority and military pressure, and Dou Wu's final collapse.
 
 The episode's interpretive center is a timing and execution failure under lethal palace politics. The host argues source-scopedly that Chen Fan saw the emergency more clearly than Dou Wu, while Dou's hesitation, poor secrecy, and incomplete action gave [[CaoJieLateHan|曹节]], Wang Fu, and the eunuch side time to reverse the field, mobilize troops, and expand punishment from the coup leaders to families, followers, students, old subordinates, and recommended officials.
 
@@ -43,10 +43,10 @@ The episode's interpretive center is a timing and execution failure under lethal
 - [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], [[ZhangHuanLateHan|张奂]], and [[ZhuYuLateHan|朱瑀]] - eunuch-side counteraction, military use, and later reward field.
 - [[LethalPlanLeakageRisk|致命计划泄露风险]], [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], [[PalaceAccessMonopoly|宫廷接触垄断]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - information and timing mechanisms visible in the failed coup.
 - [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]], [[CollateralPunishmentAndGuiltByAssociation]], and [[PartyNetworkTreasonFraming|朋党网络谋反化]] - purge logic that later expands more explicitly in the party-prohibition branch.
-- [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|Hanji 888]], [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|Hanji 889]], [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]], and [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|Hanji 893]] - downstream cleanup, moral-outcome, remonstrance, and party-prohibition sequences.
+- [[zizhi-tongjian-hanji-888-luanshi-zhizhong-zhijing-bupasi-de-ren-ll7s9e5bh8reuy4xzzjwq0psowvq|汉纪 888]], [[zizhi-tongjian-hanji-889-weishenme-haoren-bu-changming-huohai-yi-qiannian-lt-g7qgkcf-fhy3xccecjagwqhku|汉纪 889]], [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]], and [[zizhi-tongjian-hanji-893-rongyu-bang-ruhe-biancheng-siwang-mingdan-lmxzqoauf79-swwnk-0cevav0gq|汉纪 893]] - downstream cleanup, moral-outcome, remonstrance, and party-prohibition sequences.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source supplies the coup-failure layer that Hanji 888, 889, and 890 already treated through aftermath, moral injury, and remonstrance repair.
+- No settled contradiction with existing wiki pages was found. This source supplies the coup-failure layer that 汉纪 888, 889, and 890 already treated through aftermath, moral injury, and remonstrance repair.
 - Transcript normalization: "斗武" is normalized to [[DouWuLateHan|窦武]], "陈藩" to [[ChenFanLateHan|陈蕃]], "王府" to [[WangFuLateHan|王甫]], and "曹杰" to [[CaoJieLateHan|曹节]] because the roles and surrounding sequence match existing canonical pages.
 - Scope caution: minor names such as Zhou Jing, Dou Shao, Liu Yu, Feng Shu, Liu Shu, and Wei Lang are kept source-scoped here pending stronger disambiguating evidence.

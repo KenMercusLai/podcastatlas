@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 2 / 42 BCE under [[HanYuandi|汉元帝]], immediately before [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|Hanji 481]]'s Longxi Qiang force-sizing debate. It starts from the famous "cutting the wall for light" story about [[KuangHengWesternHan|匡衡]], then restores the darker full career: Kuang Heng becomes a learned senior minister whose disaster memorial criticizes amnesty, court conduct, and capital customs, but later falls after excess fief land and family scandal.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 2 / 42 BCE under [[HanYuandi|汉元帝]], immediately before [[zizhi-tongjian-hanji-481-wei-feng-xihan-fengfengshi-yiju-mie-diguo-libgqzvquegllma9soju57k_jxue|汉纪 481]]'s Longxi Qiang force-sizing debate. It starts from the famous "cutting the wall for light" story about [[KuangHengWesternHan|匡衡]], then restores the darker full career: Kuang Heng becomes a learned senior minister whose disaster memorial criticizes amnesty, court conduct, and capital customs, but later falls after excess fief land and family scandal.
 
 The durable synthesis is that learning and office success do not settle character. Kuang Heng's memorial treats social disorder as rooted in elite example, court norms, and failed instruction rather than in punishable acts alone; his later demotion then turns the poor-scholar success story into a restraint warning about power, land, and self-interest.
 

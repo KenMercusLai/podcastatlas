@@ -7,7 +7,7 @@ last_updated: 2026-08-25
 ---
 # 酸枣大营 / Suanzao Camp
 
-[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|Hanji 953]] uses Suanzao as the anti-[[DongZhuo|董卓]] coalition camp where nominally large allied forces gather but fail to act. [[CaoCao|曹操]] returns there after the [[BianshuiBattleLateHan|Bianshui defeat]], sees the armies drinking and waiting, and argues that the coalition has wasted the opening created by Dong Zhuo's westward relocation.
+[[zizhi-tongjian-hanji-953-luanshi-zhizhong-yaobuyao-jiangjiu-renyi-lrzfimgqatjxyw9zx9ry2kiwxkon|汉纪 953]] uses Suanzao as the anti-[[DongZhuo|董卓]] coalition camp where nominally large allied forces gather but fail to act. [[CaoCao|曹操]] returns there after the [[BianshuiBattleLateHan|Bianshui defeat]], sees the armies drinking and waiting, and argues that the coalition has wasted the opening created by Dong Zhuo's westward relocation.
 
 Cao Cao proposes a structured containment plan: [[YuanShao|袁绍]] should hold [[HeneiCommandery|河内]] and Mengjin, the Suanzao armies should control [[Chenggao|成皋]] and [[Aocang|敖仓]], and other units should block Huanyuan, Taigu, Danshui, Xi, and [[Wuguan|武关]] routes. The camp does not implement the plan; food shortages eventually scatter the armies, making Suanzao a clear example of common-enemy mobilization without common command.
 

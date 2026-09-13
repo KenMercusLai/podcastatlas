@@ -30,19 +30,19 @@ Dou's counterattack turns the remonstrance into criminal liability. He accuses Z
 
 ## Evidence
 
-- Private request refusal: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Dou Xian sends a letter through a disciple or retainer, and Zhi Shou refuses the request.
-- Public evidence move: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Zhi publishes the private letter at court and imprisons the messenger.
-- Direct opposition: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Zhi repeatedly attacks Dou Xian, invokes Wang Mang, and criticizes the Xiongnu expedition and mansion-building.
-- Retaliatory accusation: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says Dou accuses Zhi of buying public land and slandering the court, after which Zhi is handed to judicial investigation.
-- Failed rescue outcome: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|Hanji 761]] says He Chang's memorial changes death to exile, but Zhi kills himself before leaving.
+- Private request refusal: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says Dou Xian sends a letter through a disciple or retainer, and Zhi Shou refuses the request.
+- Public evidence move: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says Zhi publishes the private letter at court and imprisons the messenger.
+- Direct opposition: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says Zhi repeatedly attacks Dou Xian, invokes Wang Mang, and criticizes the Xiongnu expedition and mansion-building.
+- Retaliatory accusation: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says Dou accuses Zhi of buying public land and slandering the court, after which Zhi is handed to judicial investigation.
+- Failed rescue outcome: [[zizhi-tongjian-hanji-761-cong-sixingfan-dao-shachang-yingxiong-ta-shi-ruhe-zuodao-de-lmcllzgpj19dstnzfztstrkawuex|汉纪 761]] says He Chang's memorial changes death to exile, but Zhi kills himself before leaving.
 
 ## Qualifications
 
-This page is bounded to Hanji 761 and does not reconstruct Zhi Shou's full career beyond the source's Jizhou, Shangshu, and Jingzhao notices. The transcript's 致授 form is treated as a transcription artifact, and the specific land-purchase charge is recorded as Dou Xian's accusation rather than accepted as proven misconduct.
+This page is bounded to 汉纪 761 and does not reconstruct Zhi Shou's full career beyond the source's Jizhou, Shangshu, and Jingzhao notices. The transcript's 致授 form is treated as a transcription artifact, and the specific land-purchase charge is recorded as Dou Xian's accusation rather than accepted as proven misconduct.
 
 ## What Changed
 
-- Created the page from Hanji 761 as the early Dou-family private-request refusal and criminalized-remonstrance case.
+- Created the page from 汉纪 761 as the early Dou-family private-request refusal and criminalized-remonstrance case.
 
 ## Relationships
 

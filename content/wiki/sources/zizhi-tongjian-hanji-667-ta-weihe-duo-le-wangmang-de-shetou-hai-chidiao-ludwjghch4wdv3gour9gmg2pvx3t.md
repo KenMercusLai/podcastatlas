@@ -12,7 +12,7 @@ last_updated: 2026-09-08
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the final [[WangMang|王莽]] death scene immediately before [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]]. It follows Wang Mang's retreat to Jian Terrace, his killing by [[DuWuWangMangKiller|杜吾]], the cutting and display of his head, the dismemberment of his body, and the episode's source-scoped explanation that popular cutting and eating of his tongue worked as symbolic revenge against a ruler remembered for deceptive speech.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the final [[WangMang|王莽]] death scene immediately before [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|汉纪 668]]. It follows Wang Mang's retreat to Jian Terrace, his killing by [[DuWuWangMangKiller|杜吾]], the cutting and display of his head, the dismemberment of his body, and the episode's source-scoped explanation that popular cutting and eating of his tongue worked as symbolic revenge against a ruler remembered for deceptive speech.
 
 The second half shifts from the collapse of the [[XinDynasty|新朝]] to the fragile restored-Han field. Wang Xian briefly occupies Chang'an and is executed by incoming Gengshi commanders, Ban Gu's judgment is used to summarize Wang Mang's trajectory from consort-kin virtue politics to violent failure, and [[LiuXiu|刘秀]] is sent to [[LuoyangLateHan|洛阳]] as acting Sili Xiaowei, where restoring Western Han procedures and official form begins attracting elite confidence before the later Hebei sequence.
 
@@ -40,11 +40,11 @@ The second half shifts from the collapse of the [[XinDynasty|新朝]] to the fra
 - [[DuWuWangMangKiller|杜吾]] and [[PublicCorpseHumiliation|公开尸体羞辱]] - Wang Mang's killing and postmortem treatment make political hatred legible through the body.
 - [[LiuXuanGengshiEmperor|更始帝刘玄]] and [[ChangAnHanCapital|长安]] - Wang Mang's head is sent to the Gengshi center at Wan, while Chang'an is briefly contested by Wang Xian and incoming Gengshi commanders.
 - [[LiuXiu|刘秀]], [[LuoyangLateHan|洛阳]], and [[InstitutionalReconstructionFromPrecedent|旧制文献恢复式制度重建]] - Liu Xiu's Luoyang appointment shows restoration as visible procedure before later military consolidation.
-- [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|Hanji 668]] and [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|Hanji 669]] - direct continuation into Liu Xiu's Hebei order-building, Deng Yu's critique of Liu Xuan, and Wang Lang's claimant pressure.
+- [[zizhi-tongjian-hanji-668-zhongguo-gudai-baida-wujiang-donghan-zhi-kouxun-lhtaucvm7gqnfxfepo2ouawsg3-5|汉纪 668]] and [[zizhi-tongjian-hanji-669-suanming-xiansheng-kao-huyou-yeneng-dangshang-huangdi-liygphsrxj01-wn3vvwoyu77-bkp|汉纪 669]] - direct continuation into Liu Xiu's Hebei order-building, Deng Yu's critique of Liu Xuan, and Wang Lang's claimant pressure.
 
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills the final Wang Mang / early Gengshi transition immediately before Hanji 668 and Hanji 669.
+- Chronology qualification: this source backfills the final Wang Mang / early Gengshi transition immediately before 汉纪 668 and 汉纪 669.
 - Identity normalization: the source's 杜吾 is represented as [[DuWuWangMangKiller|杜吾]]; the transcript's 龚斌舅 likely belongs to the Gongbinjiu / Gong Binjiu notice but remains source-scoped here.
 - Scope caution: Wang Xian, Gongbinjiu, Wang Yi father and son, Dai Yun, Wang Xun, Wang Sheng, Miao Xing, Tang Zun, Li Song, Deng Ye, Zhao Meng, Shentu Jian, Wang Kuang, Ai Zhang, exact hour markers, and Wang Mang's final dialogue are preserved as source-scoped unless later source notes require canonical pages.

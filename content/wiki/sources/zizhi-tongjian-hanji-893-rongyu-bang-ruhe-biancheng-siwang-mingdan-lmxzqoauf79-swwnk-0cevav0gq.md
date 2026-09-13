@@ -43,11 +43,11 @@ The episode centers on [[LiYingLateHan|李膺]], [[FanPangLateHan|范滂]], [[Zh
 - [[ReputationListPersecutionTarget|名望榜单迫害目标化]] and [[PartyNetworkTreasonFraming|朋党网络谋反化]] - main mechanisms added by this source.
 - [[LiYingLateHan|李膺]], [[FanPangLateHan|范滂]], [[FanPangMotherLateHan|范滂母]], [[JingYiLateHan|景毅]], [[WuDaoLateHan|吴导]], and [[GuoYiLateHan|郭揖]] - death-facing士人 and local officials caught in the arrest chain.
 - [[HouLanLateHan|侯览]], [[ZhuBiLateHan|朱璧]], [[ZhangJianLateHan|张俭]], [[CaoJieLateHan|曹节]], and [[EmperorLingOfHan|汉灵帝]] - accusation path from local grievance to imperial security panic.
-- [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]], [[CollateralPunishmentAndGuiltByAssociation]], and [[FugitiveShelterCollateralRisk|收留逃亡者的牵连风险]] - broader liability field into which the episode leads before Hanji 894-907.
+- [[PartyProhibitionKinshipExpansion|党锢亲属牵连扩大]], [[CollateralPunishmentAndGuiltByAssociation]], and [[FugitiveShelterCollateralRisk|收留逃亡者的牵连风险]] - broader liability field into which the episode leads before 汉纪 894-907.
 - [[MoralReputationPoliticalCapital|道德名望政治资本]], [[PoliticalSurvivalFirst|安全第一政治生存]], and [[CrisisWithdrawalSelfProtection|危局抽身自保]] - adjacent frames for when reputation protects, exposes, or must be withdrawn from.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the reputation-list and arrest-authorization layer immediately before Hanji 894's Zhang Jian flight chain and Hanji 895's Kong-family shelter case.
+- No settled contradiction with existing wiki pages was found. This source backfills the reputation-list and arrest-authorization layer immediately before 汉纪 894's Zhang Jian flight chain and 汉纪 895's Kong-family shelter case.
 - Scope caution: the "贤达榜" and "杀猪榜" language is preserved as the episode's interpretive frame, not as a fully reconstructed documentary list.
 - Scope caution: minor names in Cao Jie's accusation list, including Yu Fang, Du Mi, Zhu Yu, Xun Yi, and Zhai Chao, are kept source-scoped here because the transcript alone is not enough to disambiguate every canonical route.

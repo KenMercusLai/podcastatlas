@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 郑昌 / Zheng Chang (Han King)
 
-郑昌 / Zheng Chang enters the wiki through [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|Hanji 149 part 2]] as the man [[XiangYu|项羽]] appoints after killing [[HanCheng|韩成]]. The episode identifies him as a former county official around Wu County, the early base area of [[XiangLiang|项梁]] and Xiang Yu, and reads him as an old Xiang-line loyalist.
+郑昌 / Zheng Chang enters the wiki through [[zizhi-tongjian-hanji-149-xichu-bawang-xiangyu-weihe-shijun-2-lpohbb3prsgvokpjipfd7i1ntiwn|汉纪 149 part 2]] as the man [[XiangYu|项羽]] appoints after killing [[HanCheng|韩成]]. The episode identifies him as a former county official around Wu County, the early base area of [[XiangLiang|项梁]] and Xiang Yu, and reads him as an old Xiang-line loyalist.
 
 Zheng Chang's kingship is politically weak in the source. It replaces a restored Han royal figure with a trusted Xiang associate, but it does not hold the old Han territory after [[LiuBang|刘邦]] begins advancing. Once Zheng Chang surrenders, Liu Bang installs [[HanWangXin|韩王信]] as Han king instead.
 

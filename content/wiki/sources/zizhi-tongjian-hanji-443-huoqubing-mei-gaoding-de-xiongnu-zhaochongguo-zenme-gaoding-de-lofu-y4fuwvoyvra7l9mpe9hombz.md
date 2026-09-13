@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Shenjue-era turning point before [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|Hanji 444]]. It centers on [[ZhaoChongguoWesternHan|赵充国]] holding the border with forty thousand cavalry against a much larger [[Xiongnu|匈奴]] force, after which the chanyu's illness, Xiongnu succession disorder, [[ZhengJiWesternHan|郑吉]]'s reception of Rizhu Wang Xianxianshan, and the creation of the [[WesternRegionsProtectorate|西域都护府]] convert deterrence into a new frontier order.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Shenjue-era turning point before [[zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r|汉纪 444]]. It centers on [[ZhaoChongguoWesternHan|赵充国]] holding the border with forty thousand cavalry against a much larger [[Xiongnu|匈奴]] force, after which the chanyu's illness, Xiongnu succession disorder, [[ZhengJiWesternHan|郑吉]]'s reception of Rizhu Wang Xianxianshan, and the creation of the [[WesternRegionsProtectorate|西域都护府]] convert deterrence into a new frontier order.
 
 The durable synthesis is that Western Han success against Xiongnu is presented here as strategic combination rather than battlefield annihilation. Zhao supplies disciplined deterrence; Xiongnu's own succession fracture supplies the opening; Zheng Ji turns a defector's approach into escorted submission; and the court then institutionalizes Western Regions control through the protectorate.
 

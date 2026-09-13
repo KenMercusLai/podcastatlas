@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-潘鸿 / Pan Hong enters the wiki through [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] as a [[GuiyangCommanderyLateHan|桂阳郡]] bandit leader paired with [[BuYangLateHan|卜阳]] in [[DuShangLateHan|度尚 / 杜尚]]'s 164 CE mountain campaign.
+潘鸿 / Pan Hong enters the wiki through [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] as a [[GuiyangCommanderyLateHan|桂阳郡]] bandit leader paired with [[BuYangLateHan|卜阳]] in [[DuShangLateHan|度尚 / 杜尚]]'s 164 CE mountain campaign.
 
 ## Current Profile
 
@@ -29,18 +29,18 @@ Pan Hong matters because the source uses the campaign against him to show a comm
 
 ## Evidence
 
-- Identity and pairing: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] names Pan Hong together with Bu Yang as Guiyang bandit leaders.
-- Mountain refuge: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says they plunder and hide in deep mountain terrain.
-- Wealth incentive: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] says Du Shang uses their accumulated wealth to redirect soldiers after the spoils fire.
-- Defeat: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|Hanji 863]] reports that Du Shang's dawn attack destroys the group when it is not on guard.
+- Identity and pairing: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] names Pan Hong together with Bu Yang as Guiyang bandit leaders.
+- Mountain refuge: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says they plunder and hide in deep mountain terrain.
+- Wealth incentive: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] says Du Shang uses their accumulated wealth to redirect soldiers after the spoils fire.
+- Defeat: [[zizhi-tongjian-hanji-863-yi-ba-huo-shaochu-de-zhandouli-ljpfmj8pphunruioce64ywjk7yhb|汉纪 863]] reports that Du Shang's dawn attack destroys the group when it is not on guard.
 
 ## Qualifications
 
-This page does not separate Pan Hong's organization, rank, or biography from the paired Bu Yang branch because Hanji 863 supplies no such detail. The source's main interest is Du Shang's campaign psychology rather than Pan Hong's independent political role.
+This page does not separate Pan Hong's organization, rank, or biography from the paired Bu Yang branch because 汉纪 863 supplies no such detail. The source's main interest is Du Shang's campaign psychology rather than Pan Hong's independent political role.
 
 ## What Changed
 
-- Created Pan Hong as the paired Guiyang bandit leader in Hanji 863.
+- Created Pan Hong as the paired Guiyang bandit leader in 汉纪 863.
 
 ## Relationships
 

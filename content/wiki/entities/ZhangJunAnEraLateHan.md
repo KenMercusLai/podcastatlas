@@ -10,11 +10,11 @@ last_updated: 2026-08-30
 
 ## Overview
 
-张俊 / Zhang Jun is the An-era shangshulang in Hanji 789 whose private correspondence with Yuan Chang's son leaks court secrets. The page is explicitly disambiguated from [[ZhangJunLateHan|张钧 / Zhang Jun (late Han)]] because the Chinese character, role, and source context differ.
+张俊 / Zhang Jun is the An-era shangshulang in 汉纪 789 whose private correspondence with Yuan Chang's son leaks court secrets. The page is explicitly disambiguated from [[ZhangJunLateHan|张钧 / Zhang Jun (late Han)]] because the Chinese character, role, and source context differ.
 
 ## Current Profile
 
-Hanji 789 places Zhang Jun in [[YuanChangLateHan|Yuan Chang]]'s fall. Yuan Chang's son exchanges letters with Zhang Jun, and those letters reveal senior court secrets. The episode treats the leak as serious enough that Yuan Chang is dismissed and kills himself from fear of humiliation.
+汉纪 789 places Zhang Jun in [[YuanChangLateHan|Yuan Chang]]'s fall. Yuan Chang's son exchanges letters with Zhang Jun, and those letters reveal senior court secrets. The episode treats the leak as serious enough that Yuan Chang is dismissed and kills himself from fear of humiliation.
 
 Zhang Jun is jailed and nearly executed, but the case changes after he submits a moving plea that implicitly highlights Yuan Chang's fate and his own gratitude for court leniency. The court spares him. In the episode's political reading, Zhang Jun becomes the surviving actor whose punishment and pardon intensify sympathy for Yuan Chang and help produce later mitigation.
 
@@ -28,10 +28,10 @@ Zhang Jun is jailed and nearly executed, but the case changes after he submits a
 
 ## Evidence
 
-- Correspondence link: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] says Yuan Chang's son privately exchanges letters with Zhang Jun.
-- Secret leakage: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] says those letters reveal important court information.
-- Punishment risk: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] reports Zhang Jun's imprisonment and near execution.
-- Pardon: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|Hanji 789]] says he is spared after his plea and the court's reconsideration.
+- Correspondence link: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|汉纪 789]] says Yuan Chang's son privately exchanges letters with Zhang Jun.
+- Secret leakage: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|汉纪 789]] says those letters reveal important court information.
+- Punishment risk: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|汉纪 789]] reports Zhang Jun's imprisonment and near execution.
+- Pardon: [[zizhi-tongjian-hanji-789-shanliang-meiyou-dixian-ni-jiang-yiwen-buzhi-ljv5hgmd0vxoa-teckj2zkigvcoi|汉纪 789]] says he is spared after his plea and the court's reconsideration.
 
 ## Qualifications
 
@@ -39,7 +39,7 @@ This page is source-bounded and primarily serves identity hygiene. It should not
 
 ## What Changed
 
-- Created the disambiguated page from Hanji 789's Yuan Chang correspondence case.
+- Created the disambiguated page from 汉纪 789's Yuan Chang correspondence case.
 
 ## Relationships
 

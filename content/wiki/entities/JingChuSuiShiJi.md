@@ -8,7 +8,7 @@ last_updated: 2026-08-22
 
 # 《荆楚岁时记》 / Jingchu Suishi Ji
 
-《荆楚岁时记》 / Jingchu Suishi Ji enters this wiki through [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS New Year special]] as the record the episode cites for Jingchu-region New Year practices. The source says the text records customs after New Year greetings, including serving pepper-cypress wine, drinking peach decoction, and eating eggs.
+《荆楚岁时记》 / Jingchu Suishi Ji enters this wiki through [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|汉纪 150 PLUS New Year special]] as the record the episode cites for Jingchu-region New Year practices. The source says the text records customs after New Year greetings, including serving pepper-cypress wine, drinking peach decoction, and eating eggs.
 
 The book's source role is to turn 元旦 from an abstract calendar term into [[FestivalFoodMaterialHistory]]. Food, plant material, greeting order, and protection beliefs appear together, making it a key evidence anchor for [[YuanDanFestivalLayering|元旦节日层累]].
 

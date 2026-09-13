@@ -11,13 +11,13 @@ last_updated: 2026-08-30
 
 ## Overview
 
-安定郡 / Anding Commandery now appears in the wiki as both an early An-era Qiang-front campaign location and a later Shun-era frontier commandery restored after abandonment. Hanji 786 places [[MaXianLateHan|Ma Xian]] and Hou Ba attacking [[XianlingQiang|Xianling Qiang]] in Anding in 113 CE; Hanji 810 later makes Anding part of [[YuXuEasternHan|Yu Xu]]'s three-commandery restoration package with [[BeidiCommandery|Beidi]] and [[Shangjun|Shangjun]].
+安定郡 / Anding Commandery now appears in the wiki as both an early An-era Qiang-front campaign location and a later Shun-era frontier commandery restored after abandonment. 汉纪 786 places [[MaXianLateHan|Ma Xian]] and Hou Ba attacking [[XianlingQiang|Xianling Qiang]] in Anding in 113 CE; 汉纪 810 later makes Anding part of [[YuXuEasternHan|Yu Xu]]'s three-commandery restoration package with [[BeidiCommandery|Beidi]] and [[Shangjun|Shangjun]].
 
 ## Current Profile
 
-Hanji 786 supplies the earlier military layer. In the Deng-regency crisis field, Ma Xian and Hou Ba attack a Xianling Qiang branch in Anding. The notice is brief, but it establishes Anding as an already active Qiang-front space before the later 129 CE restoration debate.
+汉纪 786 supplies the earlier military layer. In the Deng-regency crisis field, Ma Xian and Hou Ba attack a Xianling Qiang branch in Anding. The notice is brief, but it establishes Anding as an already active Qiang-front space before the later 129 CE restoration debate.
 
-Hanji 810 gives the fuller policy layer. Yu Xu asks the court to restore Anding, Beidi, and Shangjun and move people back. His argument joins geography, food supply, frontier defense, and imperial security: the region has fertile land, irrigation and transport value, and defensive importance for Chang'an and the imperial tombs.
+汉纪 810 gives the fuller policy layer. Yu Xu asks the court to restore Anding, Beidi, and Shangjun and move people back. His argument joins geography, food supply, frontier defense, and imperial security: the region has fertile land, irrigation and transport value, and defensive importance for Chang'an and the imperial tombs.
 
 [[EmperorShunOfHan|Shun]] accepts the proposal in the ninth month of 129 CE and orders the commanderies restored. Anding's current wiki significance is therefore not simply as a map unit, but as a place where Qiang-front conflict and later abandoned-frontier recovery become two phases of state-capacity strain.
 
@@ -32,18 +32,18 @@ Hanji 810 gives the fuller policy layer. Yu Xu asks the court to restore Anding,
 
 ## Evidence
 
-- Early Qiang-front campaign: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|Hanji 786]] says Ma Xian and Hou Ba attack Xianling Qiang forces in Anding in the 113 CE layer.
-- Restoration proposal: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Yu Xu proposes restoring Anding, Beidi, and Shangjun.
-- Strategic rationale: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] frames the region as fertile, logistically useful, and defensive for Chang'an and imperial tombs.
-- Imperial acceptance: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|Hanji 810]] says Shun issues the order in the ninth month to restore the commanderies and return people.
+- Early Qiang-front campaign: [[zizhi-tongjian-hanji-786-guren-weishenme-paichi-fanji-shuiguo-lmcwqwdxwe0ehuusfeoaqk82msm7|汉纪 786]] says Ma Xian and Hou Ba attack Xianling Qiang forces in Anding in the 113 CE layer.
+- Restoration proposal: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Yu Xu proposes restoring Anding, Beidi, and Shangjun.
+- Strategic rationale: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] frames the region as fertile, logistically useful, and defensive for Chang'an and imperial tombs.
+- Imperial acceptance: [[zizhi-tongjian-hanji-810-ta-pinge-manmen-beizhan-weihe-ye-yao-shaqi-lo8vw0jj0d6ir7yqbuh-5p9orzsc|汉纪 810]] says Shun issues the order in the ninth month to restore the commanderies and return people.
 
 ## Qualifications
 
-This page follows Hanji 786's brief campaign location and Hanji 810's restoration argument. It does not settle Anding's exact historical boundaries, earlier abandonment chronology, or later administrative changes. Hou Ba remains source-scoped until additional bounded evidence makes him a durable page candidate.
+This page follows 汉纪 786's brief campaign location and 汉纪 810's restoration argument. It does not settle Anding's exact historical boundaries, earlier abandonment chronology, or later administrative changes. Hou Ba remains source-scoped until additional bounded evidence makes him a durable page candidate.
 
 ## What Changed
 
-- Added Hanji 786's 113 CE Anding campaign layer before the 129 CE restoration case.
+- Added 汉纪 786's 113 CE Anding campaign layer before the 129 CE restoration case.
 - Reframed Anding as a commandery whose wiki significance now spans both Qiang-front conflict and later frontier recovery policy.
 
 ## Relationships

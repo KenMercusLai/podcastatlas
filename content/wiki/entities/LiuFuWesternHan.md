@@ -10,7 +10,7 @@ last_updated: 2026-09-12
 
 ## Overview
 
-刘辅 / Liu Fu enters the wiki through [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] as a Western Han remonstrant under [[HanChengdi|汉成帝]]. After Chengdi elevates [[ZhaoFeiyanWesternHan|赵飞燕]] and favors the Zhao sisters, Liu Fu submits a fierce memorial against imperial indulgence and is secretly imprisoned before senior officials force a more public handling.
+刘辅 / Liu Fu enters the wiki through [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|汉纪 534]] as a Western Han remonstrant under [[HanChengdi|汉成帝]]. After Chengdi elevates [[ZhaoFeiyanWesternHan|赵飞燕]] and favors the Zhao sisters, Liu Fu submits a fierce memorial against imperial indulgence and is secretly imprisoned before senior officials force a more public handling.
 
 ## Current Profile
 
@@ -29,21 +29,21 @@ The punishment sequence matters more than the wording alone. Chengdi reacts with
 ## Evidence
 
 Speech and office role:
-- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Liu Fu had been trusted and raised by Chengdi and served as Jian Dafu.
-- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says he criticized Chengdi's indulgence, female favor, and the empress elevation.
+- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|汉纪 534]] says Liu Fu had been trusted and raised by Chengdi and served as Jian Dafu.
+- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|汉纪 534]] says he criticized Chengdi's indulgence, female favor, and the empress elevation.
 
 Punishment and rescue:
-- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Chengdi angrily has Liu Fu arrested and placed in a secret palace prison.
-- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Xin Qingji, Lian Bao, Shi Dan, Gu Yong, and others ask Chengdi either to forgive taboo-touching speech or publish the crime and send the case to officials.
-- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|Hanji 534]] says Chengdi releases him from secret custody but still sentences him to three years of labor.
+- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|汉纪 534]] says Chengdi angrily has Liu Fu arrested and placed in a secret palace prison.
+- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|汉纪 534]] says Xin Qingji, Lian Bao, Shi Dan, Gu Yong, and others ask Chengdi either to forgive taboo-touching speech or publish the crime and send the case to officials.
+- [[zizhi-tongjian-hanji-534-zhichang-li-weishenme-yao-tuichong-zhanan-lpaup86hls0kp7hc3vd2msjfuyw3|汉纪 534]] says Chengdi releases him from secret custody but still sentences him to three years of labor.
 
 ## Qualifications
 
-This page is bounded to Hanji 534. It does not reconstruct Liu Fu's family, career, full memorial text, legal status after the labor sentence, or later life. This Western Han Liu Fu is distinct from [[LiuFuPeiKingEasternHan|刘辅 / Liu Fu, Pei King]] and [[LiuFuLateHan|刘馥 / Liu Fu (late Han)]].
+This page is bounded to 汉纪 534. It does not reconstruct Liu Fu's family, career, full memorial text, legal status after the labor sentence, or later life. This Western Han Liu Fu is distinct from [[LiuFuPeiKingEasternHan|刘辅 / Liu Fu, Pei King]] and [[LiuFuLateHan|刘馥 / Liu Fu (late Han)]].
 
 ## What Changed
 
-- Created the disambiguated Western Han Liu Fu page from Hanji 534's remonstrance and secret-imprisonment case.
+- Created the disambiguated Western Han Liu Fu page from 汉纪 534's remonstrance and secret-imprisonment case.
 
 ## Relationships
 

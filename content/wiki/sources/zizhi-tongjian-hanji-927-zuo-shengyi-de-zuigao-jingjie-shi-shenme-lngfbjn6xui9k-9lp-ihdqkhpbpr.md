@@ -14,7 +14,7 @@ last_updated: 2026-08-25
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184 CE late-Han crisis immediately before [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|Hanji 928]]. It opens with [[MerchantComposureDiscipline|商人定气功夫]], the host's source-scoped claim that business requires both gentlemanly trust and hard-headed decisiveness, then turns to [[FuXie|傅燮]]'s warning that [[YellowTurbansLateHan|黄巾军]] disorder has roots inside [[EmperorLingOfHan|汉灵帝]]'s eunuch-dominated court.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 184 CE late-Han crisis immediately before [[zizhi-tongjian-hanji-928-zhichang-buke-mingshuo-song-dui-li-banshi-geng-shunli-lgup21lsa-u1ykaiyabcko2vhp0o|汉纪 928]]. It opens with [[MerchantComposureDiscipline|商人定气功夫]], the host's source-scoped claim that business requires both gentlemanly trust and hard-headed decisiveness, then turns to [[FuXie|傅燮]]'s warning that [[YellowTurbansLateHan|黄巾军]] disorder has roots inside [[EmperorLingOfHan|汉灵帝]]'s eunuch-dominated court.
 
 The later branch moves from [[ZhangManchengLateHan|张曼成]]'s [[NanyangCommandery|南阳郡]] campaign and [[QinJieLateHan|秦颉]]'s killing of him to [[JiaCongLateHan|贾从]] in [[JiaozhiCommandery|交趾郡]]. Jia Cong's success creates [[RootCausePacification|查因安抚式治理]]: he investigates why people rebelled, relieves burdens, reassures refugees, removes violent leaders, and appoints clean local officials.
 
@@ -45,12 +45,12 @@ The later branch moves from [[ZhangManchengLateHan|张曼成]]'s [[NanyangComman
 ## Connections
 
 - [[FuXie|傅燮]], [[ZhaoZhongLateHan|赵忠]], [[EmperorLingOfHan|汉灵帝]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - loyal warning reaches court but exposes the reporter through eunuch retaliation.
-- [[YellowTurbansLateHan|黄巾军]], [[ZhangManchengLateHan|张曼成]], [[QinJieLateHan|秦颉]], [[ZhuJunLateHan|朱儁]], and [[NanyangCommandery|南阳郡]] - 184 CE Nanyang branch before Hanji 930's Zhao Hong, Han Zhong, and Sun Xia sequence.
+- [[YellowTurbansLateHan|黄巾军]], [[ZhangManchengLateHan|张曼成]], [[QinJieLateHan|秦颉]], [[ZhuJunLateHan|朱儁]], and [[NanyangCommandery|南阳郡]] - 184 CE Nanyang branch before 汉纪 930's Zhao Hong, Han Zhong, and Sun Xia sequence.
 - [[JiaCongLateHan|贾从]], [[JiaozhiCommandery|交趾郡]], [[RootCausePacification|查因安抚式治理]], and [[PeopleBasedPoliticalSecurity|民心型政治安全]] - southern local-governance branch.
 - [[MerchantComposureDiscipline|商人定气功夫]] and [[TrustAsBusinessAsset|trust as business asset]] - source-scoped business opening around credibility, detachment, and decisive action.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the period before Hanji 928 and Hanji 930 rather than replacing their sequence.
+- No settled contradiction with existing wiki pages was found. This source backfills the period before 汉纪 928 and 汉纪 930 rather than replacing their sequence.
 - Transcript caution: "傅解" is normalized to [[FuXie|傅燮]] because the memorial, Zhao Zhong resentment, and later unrewarded Yellow Turban merit match the existing Fu Xie route.
 - Scope caution: Chu Gong, Lai Da, Zhu Tian General, and the source's uncertain "渊城" / Wancheng rendering are kept source-scoped instead of being expanded into canonical pages.

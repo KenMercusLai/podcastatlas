@@ -9,7 +9,7 @@ last_updated: 2026-08-29
 ---
 
 ## Overview
-法真 / Fa Zhen enters the wiki through [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] as a reclusive scholar repeatedly summoned by [[EmperorShunOfHan|汉顺帝]] but unwilling to enter office. In the episode's structure, he is a contrast figure: while [[WangGongTaiweiLateHan|王龚]] needs court allies to survive office, Fa Zhen survives by refusing the office path.
+法真 / Fa Zhen enters the wiki through [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] as a reclusive scholar repeatedly summoned by [[EmperorShunOfHan|汉顺帝]] but unwilling to enter office. In the episode's structure, he is a contrast figure: while [[WangGongTaiweiLateHan|王龚]] needs court allies to survive office, Fa Zhen survives by refusing the office path.
 
 ## Current Profile
 Fa Zhen's current profile is source-bounded. The episode identifies him as the son of Fa Xiong and says Tian Ruo recommends him when Shun tours Chang'an. Shun summons him multiple times, but Fa Zhen repeatedly declines.
@@ -23,16 +23,16 @@ The point of the branch is not administrative achievement. Fa Zhen's friend Guo 
 - Source-scoped contrast to high-risk court service in the Wang Gong branch.
 
 ## Evidence
-- Recommendation and summons: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Tian Ruo recommends Fa Zhen during Shun's Chang'an tour and Shun summons him more than once.
-- Refusal to serve: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Fa Zhen rejects repeated calls to office.
-- Reputation logic: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] cites Guo Zheng's praise that Fa Zhen does not seek reputation but becomes a teacher for later ages.
-- Structural contrast: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] places Fa Zhen beside Wang Gong's anti-eunuch danger, making nonservice part of the episode's survival field.
+- Recommendation and summons: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] says Tian Ruo recommends Fa Zhen during Shun's Chang'an tour and Shun summons him more than once.
+- Refusal to serve: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] says Fa Zhen rejects repeated calls to office.
+- Reputation logic: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] cites Guo Zheng's praise that Fa Zhen does not seek reputation but becomes a teacher for later ages.
+- Structural contrast: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] places Fa Zhen beside Wang Gong's anti-eunuch danger, making nonservice part of the episode's survival field.
 
 ## Qualifications
-This page is bounded to Hanji 818 and does not reconstruct Fa Zhen's broader intellectual lineage. The episode transcript writes 法贞; this page normalizes the durable route to 法真 while leaving Tian Ruo, Guo Zheng, and the exact summons count source-scoped.
+This page is bounded to 汉纪 818 and does not reconstruct Fa Zhen's broader intellectual lineage. The episode transcript writes 法贞; this page normalizes the durable route to 法真 while leaving Tian Ruo, Guo Zheng, and the exact summons count source-scoped.
 
 ## What Changed
-- Created the Fa Zhen page for Hanji 818's refusal-to-serve branch.
+- Created the Fa Zhen page for 汉纪 818's refusal-to-serve branch.
 
 ## Relationships
 - [[EmperorShunOfHan|汉顺帝]] - ruler who repeatedly summons Fa Zhen.

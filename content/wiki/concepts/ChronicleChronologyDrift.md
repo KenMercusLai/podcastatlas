@@ -40,7 +40,7 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 
 [[zizhi-tongjian-zhouji-67-zhanguo-mieba-baiqi-de-junshi-caineng-jiujing-ruhe-ljw0lltowxd4qz75v-wcnlkwqskv]] adds a territorial and fief-timing case. The episode says [[YuanjunWarringStates|垣郡]] should be read as split between Chu and Han holdings before Qin takes different pieces in 292 and 291 BCE, and that [[WeiRan|魏冉]]'s enfeoffment at [[Dingtao|陶 / 定陶]] cannot yet fit the stated year because Tao was still tied to Song/Qi before Qin took it later.
 
-[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]] adds an early-Han office-title case through [[XiaoHe|萧何]]. The host says the chronicle places Xiao He's promotion to 相国 in the current year, probably from a功臣侯年表 notice, but prefers the [[Shiji|《史记》]] Xiao Xiangguo biography's later Han eleventh-year context after [[HanXin|韩信]]'s death. This broadens the concept beyond Warring States ruler dates into official-title timing.
+[[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|汉纪 180 part 2]] adds an early-Han office-title case through [[XiaoHe|萧何]]. The host says the chronicle places Xiao He's promotion to 相国 in the current year, probably from a功臣侯年表 notice, but prefers the [[Shiji|《史记》]] Xiao Xiangguo biography's later Han eleventh-year context after [[HanXin|韩信]]'s death. This broadens the concept beyond Warring States ruler dates into official-title timing.
 
 ## Key Claims
 - A chronicle can preserve a real story while placing it in a doubtful year.
@@ -58,10 +58,10 @@ The concept also protects the wiki from overcorrecting. When a source itself fla
 - A later annalistic continuation can turn an earlier "too early" warning into a more usable placement while still keeping the earlier page as evidence of source drift.
 - Office-succession notices can drift just like ruler chronologies, especially when parallel sources such as Shiji preserve a different ministerial sequence.
 - Territorial notices and fief notices can drift too; the annalistic year may preserve a real later grant while placing it before the relevant place is Qin-held.
-- Hanji 180 part 2 adds that office-title notices can drift: a promotion may be real while the annalistic placement or stated cause remains source-contested.
+- 汉纪 180 part 2 adds that office-title notices can drift: a promotion may be real while the annalistic placement or stated cause remains source-contested.
 
 ## Connections
-- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|Hanji 180 part 2]], [[XiaoHe|萧何]], [[HanXin|韩信]], [[Shiji|《史记》]], and [[ZizhiTongjian|《资治通鉴》]] - xiangguo promotion timing as an official-title drift case.
+- [[zizhi-tongjian-hanji-180-xihan-diyi-yinghan-guangao-de-gushi-2-lutkapdijrgpwfrz3saaowxtk-i2|汉纪 180 part 2]], [[XiaoHe|萧何]], [[HanXin|韩信]], [[Shiji|《史记》]], and [[ZizhiTongjian|《资治通鉴》]] - xiangguo promotion timing as an official-title drift case.
 - [[ZizhiTongjian|《资治通鉴》]], [[SimaGuang|司马光]], and [[Shiji|《史记》]] - chronicle, compiler, and inherited-source frame.
 - [[QiWeiwang|齐威王]] and [[ZhouLiewang|周烈王]] - source case.
 - [[QiChronologyDispute]], [[ZhouXianwang|周显王]], [[QiXuanWang|齐宣王]], [[SuQin|苏秦]], [[HezongAlliance|合纵]], [[HanguPass|函谷关]], [[WeiWenhou|魏文侯]], [[WeiWuhou|魏武侯]], [[WuQi|吴起]], [[TianYan|田衍]], [[TianQiHuanGong|田武 / 田氏齐桓公]], [[GongziXiQi|公子喜]], [[ChronicleSourceGaps]], and [[HistoricalDetectiveReasoning]] - adjacent source-reading guardrails and later correction branch.

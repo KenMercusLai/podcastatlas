@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first [[YangYunWesternHan|杨恽]] and [[DaiChangleWesternHan|戴长乐]] conflict before the later [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|Hanji 457]] execution story. It presents Yang Yun as a talented, clean, and outspoken Western Han official, but also as someone whose boasting, sharpness, and habit of exposing others' hidden faults created a wide field of resentment.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the first [[YangYunWesternHan|杨恽]] and [[DaiChangleWesternHan|戴长乐]] conflict before the later [[zizhi-tongjian-hanji-457-hanxuandi-xinxiong-xiaai-shiji-gongchen-yangyun-yinhe-er-si-lpcfrhewqmmexb3ofg18iqbdsslm|汉纪 457]] execution story. It presents Yang Yun as a talented, clean, and outspoken Western Han official, but also as someone whose boasting, sharpness, and habit of exposing others' hidden faults created a wide field of resentment.
 
 The durable synthesis is about reputation under pressure. When someone reports Dai Changle, Dai quickly suspects Yang Yun because Yang's past conduct has made him the obvious imagined attacker. Dai's counter-report then turns Yang's defense of [[HanYanshouWesternHan|韩延寿]], gloomy weather talk, and disorder-omen language into political accusation, while [[YuDingguoWesternHan|于定国]]'s harsh memorial and [[EmperorXuanOfHan|汉宣帝]]'s final demotion show how accumulated interpersonal risk can become court risk without yet reaching the later death sentence.
 
@@ -25,7 +25,7 @@ The durable synthesis is about reputation under pressure. When someone reports D
 - A hidden accuser can benefit when the accused person misidentifies the attacker and starts fighting a third party.
 - Dai's counter-report reframes Yang's comments about Han Yanshou, self-preservation, long cloudy weather, and disorder omens as politically dangerous speech.
 - Yu Dingguo's memorial is described by the host as possibly using the case to punish Yang heavily, but that motive remains interpretive rather than proven.
-- Xuan removes Yang Yun and Dai Changle from office and reduces them to commoner status, making Hanji 453 a disgrace-and-warning episode before Hanji 457's execution branch.
+- Xuan removes Yang Yun and Dai Changle from office and reduces them to commoner status, making 汉纪 453 a disgrace-and-warning episode before 汉纪 457's execution branch.
 - The workplace lesson is not anti-conflict; it is that frequent small attacks, exposure of private faults, and needless enemy-making make others less willing to protect you when trouble arrives.
 
 ## Key Quotes
@@ -48,4 +48,4 @@ The durable synthesis is about reputation under pressure. When someone reports D
 
 - No settled contradiction with existing wiki content was found.
 - Scope caution: Yu Dingguo's private motive, the identity of the original accuser against Dai Changle, Dai's exact underlying offense, and the legal force of the omen language remain source-scoped.
-- Sequence caution: Hanji 453 covers Yang Yun's office loss and commoner demotion; Hanji 457 covers the later resentful-letter investigation and execution.
+- Sequence caution: 汉纪 453 covers Yang Yun's office loss and commoner demotion; 汉纪 457 covers the later resentful-letter investigation and execution.

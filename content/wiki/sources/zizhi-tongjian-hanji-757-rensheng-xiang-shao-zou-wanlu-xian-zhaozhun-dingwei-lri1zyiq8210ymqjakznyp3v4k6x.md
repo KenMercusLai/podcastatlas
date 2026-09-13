@@ -12,7 +12,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 86-87 CE [[EmperorZhangOfHan|汉章帝]] layer before [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|Hanji 758]]. It uses [[GuoGongEasternHanJurist|郭公]] and his legal family training to build a [[CareerPositioningThroughFit|career-positioning-through-fit]] lesson, then turns to [[CaoBaoEasternHan|曹褒]]'s commission to revise Han rites from [[ShusunTong|叔孙通]]'s older `Han Yi`.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 86-87 CE [[EmperorZhangOfHan|汉章帝]] layer before [[zizhi-tongjian-hanji-758-suoyou-gaoqingshang-beihou-doushi-fencungan-lr-6tzffmwdtzidkf3y8ule35qf7|汉纪 758]]. It uses [[GuoGongEasternHanJurist|郭公]] and his legal family training to build a [[CareerPositioningThroughFit|career-positioning-through-fit]] lesson, then turns to [[CaoBaoEasternHan|曹褒]]'s commission to revise Han rites from [[ShusunTong|叔孙通]]'s older `Han Yi`.
 
 The frontier branch follows [[FuYuEasternHan|富裕]] failing to split Qiang and Hu groups, overextending before reinforcements arrive, and dying at Sandou Valley. [[ZhangYuEasternHan|张于]] then kills [[MiWuQiangLeader|迷雾]] and many Qiang leaders after surrender contact, which helps push [[MiTangQiangLeader|弥唐]] into a broader alliance through marriages and hostages. The closing court notices record Yuan An and Ren Kui's promotions, a Qi royal-family accusation case, Zhangdi's era change for auspicious signs, and [[HeChangEasternHan|何畅 / 何敞]] warning that strange signs should not be read only as good omens.
 
@@ -46,6 +46,6 @@ The frontier branch follows [[FuYuEasternHan|富裕]] failing to split Qiang and
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content was found. The episode backfills an earlier Zhangdi layer before Hanji 758-761 and supplies the Qiang-frontier breach that Hanji 760 later treats as prior bad faith.
+- No settled contradiction with existing wiki content was found. The episode backfills an earlier Zhangdi layer before 汉纪 758-761 and supplies the Qiang-frontier breach that 汉纪 760 later treats as prior bad faith.
 - Identity caution: the source's 郭公 is normalized here as [[GuoGongEasternHanJurist|郭公 / Guo Gong]] and kept distinct from [[GuoGongLateHan|郭贡 / Guo Gong]]. The source's 富裕 is kept distinct from modern podcaster [[FuYu|傅宇]].
 - Transcript normalization: 曹包 is treated as [[CaoBaoEasternHan|曹褒]], and 何畅 is aligned cautiously with the existing [[HeChangEasternHan|何敞]] route because the office setting and next-source continuity match. 张于, 迷雾, 郭红, 巢堪, 齐王刘晃, 淮阳顷王刘昞, and the source's 司马防 remain source-scoped unless later notes warrant stronger normalization.

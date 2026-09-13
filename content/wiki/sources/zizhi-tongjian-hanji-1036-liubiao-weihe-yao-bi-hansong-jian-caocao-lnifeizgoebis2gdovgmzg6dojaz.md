@@ -13,7 +13,7 @@ last_updated: 2026-08-26
 # 《资治通鉴·汉纪》1036丨刘表为何要逼韩嵩见曹操？
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the setup immediately before [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]]. In 199 CE, [[YuanShao|袁绍]] asks [[LiuBiao|刘表]] for support against [[CaoCao|曹操]], but Liu Biao neither aids Yuan Shao nor openly joins Cao Cao, creating the [[FenceSittingStrategicExposure|骑墙式战略暴露]] that [[HanSongLateHan|韩嵩]] and [[LiuXianLateHan|刘先]] warn against.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the setup immediately before [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]]. In 199 CE, [[YuanShao|袁绍]] asks [[LiuBiao|刘表]] for support against [[CaoCao|曹操]], but Liu Biao neither aids Yuan Shao nor openly joins Cao Cao, creating the [[FenceSittingStrategicExposure|骑墙式战略暴露]] that [[HanSongLateHan|韩嵩]] and [[LiuXianLateHan|刘先]] warn against.
 
 The core mission problem is not simple cowardice. Han Song says he can go to [[Xudu|许都]] if Liu Biao has already decided to submit to the court-Cao side; if Liu Biao is still undecided, then any appointment from [[EmperorXianOfHan|汉献帝]] will alter Han Song's formal duty and make him unable to remain only Liu Biao's private subordinate. Liu Biao misreads this as fear or evasion and forces him to go, setting up the later imprisonment branch.
 
@@ -29,14 +29,14 @@ The core mission problem is not simple cowardice. Han Song says he can go to [[X
 ## Key Quotes
 > "圣达节，次守节" - Han Song's formula for why he can only preserve fixed duty rather than flex above ordinary norms.
 
-> "明天再讲" - the episode's marker that the outcome follows in Hanji 1037.
+> "明天再讲" - the episode's marker that the outcome follows in 汉纪 1037.
 
 ## Connections
-- [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|Hanji 1037]] - direct sequel showing Han Song's Xudu appointment, praise of Cao Cao, Liu Biao's execution threat, and imprisonment.
+- [[zizhi-tongjian-hanji-1037-zhongyu-caocao-or-liubiao-jiemi-hansong-de-zhongyi-jueze-lomrbxffcu6euantozh2fjvrykva|汉纪 1037]] - direct sequel showing Han Song's Xudu appointment, praise of Cao Cao, Liu Biao's execution threat, and imprisonment.
 - [[LiuBiao|刘表]], [[HanSongLateHan|韩嵩]], [[LiuXianLateHan|刘先]], [[YuanShao|袁绍]], [[CaoCao|曹操]], [[Xudu|许都]], and [[EmperorXianOfHan|汉献帝]] - main alignment, envoy, and court-duty actors.
 - [[FenceSittingStrategicExposure|骑墙式战略暴露]], [[CourtLegitimacyOverPatronLoyalty|朝廷名义高于主君私属]], and [[SuspicionDrivenEliteAlienation|猜疑驱动的士族离心]] - concepts extended by Liu Biao's indecision and forced mission.
 - [[Jingzhou|荆州]], [[KuaiYue|蒯越]], and [[GuanduCampaign|官渡之战]] - regional base, local adviser opinion, and coming Yuan-Cao decision horizon.
 
 ## Contradictions
-- No settled contradiction found. The source qualifies Hanji 1037 by showing that Han Song warned Liu Biao before the mission that court appointment would change his obligations, weakening Liu Biao's later betrayal reading.
+- No settled contradiction found. The source qualifies 汉纪 1037 by showing that Han Song warned Liu Biao before the mission that court appointment would change his obligations, weakening Liu Biao's later betrayal reading.
 - Source-scope caution: the "高级的苦" opening is preserved as host analogy and self-cultivation framing, not as an independent historical claim.

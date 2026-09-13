@@ -14,13 +14,13 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-刘亏 / Liu Kui is a late-Han imperial kinsman whose wiki profile now has a 147 CE Bohai succession-placement layer, an earlier Huan-era warning layer, and a later Emperor Ling-era destruction layer. [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] appoints him as [[BohaiKingdomLateHan|渤海王国]] king after Liu Hong dies sonless; [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] presents him as [[EmperorHuanOfHan|汉桓帝]]'s younger brother whose unlawful behavior prompts [[ShiBiLateHan|史弼]]'s law-first memorial; [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] later shows him restored through [[WangFuLateHan|王甫]]'s access brokerage and destroyed through forged treason accusation.
+刘亏 / Liu Kui is a late-Han imperial kinsman whose wiki profile now has a 147 CE Bohai succession-placement layer, an earlier Huan-era warning layer, and a later Emperor Ling-era destruction layer. [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says [[EmpressDowagerLiangNaLateHan|梁妠 / 梁太后]] appoints him as [[BohaiKingdomLateHan|渤海王国]] king after Liu Hong dies sonless; [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] presents him as [[EmperorHuanOfHan|汉桓帝]]'s younger brother whose unlawful behavior prompts [[ShiBiLateHan|史弼]]'s law-first memorial; [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]] later shows him restored through [[WangFuLateHan|王甫]]'s access brokerage and destroyed through forged treason accusation.
 
 ## Current Profile
 
-Hanji 829 supplies the placement layer. In the autumn of 147 CE, after Bohai Xiao King Liu Hong dies without a son, Liang Na appoints Liu Kui, Huan's younger brother, as Bohai king and successor to Liu Hong.
+汉纪 829 supplies the placement layer. In the autumn of 147 CE, after Bohai Xiao King Liu Hong dies without a son, Liang Na appoints Liu Kui, Huan's younger brother, as Bohai king and successor to Liu Hong.
 
-The Hanji 864 layer makes Liu Kui a problem of kinship-protected rule. He is moved from a lower title into Bohai after the previous Bohai line lacks an heir, then behaves arrogantly because he is the emperor's brother. Shi Bi's memorial treats him as dangerous because ordinary local or kingdom officials cannot safely correct him.
+The 汉纪 864 layer makes Liu Kui a problem of kinship-protected rule. He is moved from a lower title into Bohai after the previous Bohai line lacks an heir, then behaves arrogantly because he is the emperor's brother. Shi Bi's memorial treats him as dangerous because ordinary local or kingdom officials cannot safely correct him.
 
 The later layer shows the same protected status turning into exposure. Liu Kui seeks restoration to Bohai through Wang Fu, promises a large payment, and then refuses to pay after the petition succeeds. Wang Fu converts the unpaid access bargain, Liu's resentment, and Liu's ties to [[ZhengSaLateHan|郑萨]] and [[DongTengLateHan|董腾]] into a treason case supported by [[LianZhongLateHan|廉中]]'s forged evidence. [[EmperorLingOfHan|汉灵帝]] accepts the accusation, Liu dies by suicide, and Bohai's household and officials suffer collateral punishment.
 
@@ -35,23 +35,23 @@ The later layer shows the same protected status turning into exposure. Liu Kui s
 
 ## Evidence
 
-- Initial Bohai placement: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|Hanji 829]] says Liang Na appoints Liu Kui as Bohai king and Liu Hong's successor after Liu Hong dies without a son.
-- Imperial-kin status: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Liu Kui is Huan's younger brother, first enfeoffed at Liwu and later moved to Bohai after Liu Hong has no son.
-- Early misconduct: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Liu Kui relies on being the emperor's brother and behaves arrogantly and unlawfully.
-- Missed correction: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|Hanji 864]] says Shi Bi proposes legal handling followed by imperial pardon, but Huan does not act on the memorial.
-- Access restoration: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] says Liu Kui regains the Bohai kingship through Wang Fu's palace access after promising fifty million cash.
-- Debt conflict: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] says Liu refuses payment by claiming the restoration came from imperial kinship rather than Wang Fu's work.
-- Forged treason case: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] says Wang Fu uses Liu's resentment, monitored ties, and Lian Zhong's forged evidence to frame a plot to install Liu as emperor.
-- Collateral purge: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|Hanji 903]] says Liu is forced into suicide and his household, entertainers, and fief officials are destroyed or implicated.
+- Initial Bohai placement: [[zizhi-tongjian-hanji-829-junzi-weishenme-doubuguo-xiaoren-lthvnstkfu8n9thx1sz6yezl4yqq|汉纪 829]] says Liang Na appoints Liu Kui as Bohai king and Liu Hong's successor after Liu Hong dies without a son.
+- Imperial-kin status: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] says Liu Kui is Huan's younger brother, first enfeoffed at Liwu and later moved to Bohai after Liu Hong has no son.
+- Early misconduct: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] says Liu Kui relies on being the emperor's brother and behaves arrogantly and unlawfully.
+- Missed correction: [[zizhi-tongjian-hanji-864-mingchen-zhihou-weihe-cansi-yu-diwang-zhishou-lqwexx6nchx10roxsrvh8c0ktkfq|汉纪 864]] says Shi Bi proposes legal handling followed by imperial pardon, but Huan does not act on the memorial.
+- Access restoration: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]] says Liu Kui regains the Bohai kingship through Wang Fu's palace access after promising fifty million cash.
+- Debt conflict: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]] says Liu refuses payment by claiming the restoration came from imperial kinship rather than Wang Fu's work.
+- Forged treason case: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]] says Wang Fu uses Liu's resentment, monitored ties, and Lian Zhong's forged evidence to frame a plot to install Liu as emperor.
+- Collateral purge: [[zizhi-tongjian-hanji-903-weishenme-quan-ni-yuanyuan-xiangbao-heshi-le-lokpt93muc8kasvn44vgsjki8bom|汉纪 903]] says Liu is forced into suicide and his household, entertainers, and fief officials are destroyed or implicated.
 
 ## Qualifications
 
-The source spelling 刘亏 is preserved because the existing wiki route uses it; later evidence may require normalization to another historical form. Hanji 829 and Hanji 864 overlap on Liu Kui's move into Bohai, with Hanji 829 giving the 147 succession-placement wording and Hanji 864 using that placement as background to later misconduct. The interval between the Huan-era Bohai kingship and the later restoration in Hanji 903 remains underdescribed, so the page does not infer the exact demotion or reinstatement mechanics. Hanji 903's treason charge is treated as a forged accusation in that source's framing, while Hanji 864's misconduct warning remains a separate earlier problem.
+The source spelling 刘亏 is preserved because the existing wiki route uses it; later evidence may require normalization to another historical form. 汉纪 829 and 汉纪 864 overlap on Liu Kui's move into Bohai, with 汉纪 829 giving the 147 succession-placement wording and 汉纪 864 using that placement as background to later misconduct. The interval between the Huan-era Bohai kingship and the later restoration in 汉纪 903 remains underdescribed, so the page does not infer the exact demotion or reinstatement mechanics. 汉纪 903's treason charge is treated as a forged accusation in that source's framing, while 汉纪 864's misconduct warning remains a separate earlier problem.
 
 ## What Changed
 
-- Added Hanji 829 as the 147 CE Bohai succession-placement layer.
-- Added Hanji 864 as the earlier Huan-era layer behind Liu Kui's Bohai problem.
+- Added 汉纪 829 as the 147 CE Bohai succession-placement layer.
+- Added 汉纪 864 as the earlier Huan-era layer behind Liu Kui's Bohai problem.
 - Reframed Liu Kui from a one-source access-brokerage victim into a royal-kin case whose danger was warned about before the later forged treason purge.
 - Preserved the unresolved interval between early Bohai kingship and later restoration rather than forcing a complete chronology.
 

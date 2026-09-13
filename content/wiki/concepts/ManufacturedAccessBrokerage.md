@@ -8,7 +8,7 @@ last_updated: 2026-08-26
 
 # Manufactured Access Brokerage / 假势通道套利
 
-Manufactured access brokerage / 假势通道套利 enters through [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]] as [[MengTuoLateHan|孟陀]]'s route to [[ZhangRangLateHan|张让]]. Meng Tuo does not begin with true influence. He first buys a servant's cooperation, stages a public kneeling scene, and lets other gift-seekers mistake that scene for proof of privileged access.
+Manufactured access brokerage / 假势通道套利 enters through [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|汉纪 897]] as [[MengTuoLateHan|孟陀]]'s route to [[ZhangRangLateHan|张让]]. Meng Tuo does not begin with true influence. He first buys a servant's cooperation, stages a public kneeling scene, and lets other gift-seekers mistake that scene for proof of privileged access.
 
 The mechanism differs from [[PrivateAccessTalentChannel|私人进身通道]]. A private access channel can surface real talent through an informal intermediary; manufactured access brokerage begins with a counterfeit signal. The broker then converts other people's belief into resources, passes those resources up to the real powerholder, and makes the initially fake relationship partly real.
 
@@ -24,7 +24,7 @@ The episode's warning is practical rather than merely moral. Fake access may wor
 
 ## Connections
 
-- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|Hanji 897]], [[MengTuoLateHan|孟陀]], [[ZhangRangLateHan|张让]], and [[ShuleKingdom|疏勒]] - source case and test.
+- [[zizhi-tongjian-hanji-897-zhichang-bidu-shenme-cai-jiao-lingdaoli-lvrrmksykazlsb7w8abbdmnqfzqq|汉纪 897]], [[MengTuoLateHan|孟陀]], [[ZhangRangLateHan|张让]], and [[ShuleKingdom|疏勒]] - source case and test.
 - [[PrivateAccessTalentChannel|私人进身通道]] - adjacent access pattern, distinguished by whether the channel surfaces real talent or only simulated proximity.
 - [[CourtOfficeCapture|朝廷开府任官失序]] - appointment-order damage when access performance outruns capacity.
 - [[ExchangeableCapability|可交换能力]] - contrast with capability-backed relationships.

@@ -52,10 +52,10 @@ The aftermath damages Chunshenjun inside Chu. The source says Mi Wan begins to d
 
 [[zizhi-tongjian-qinji-109-2-chunshenjun-bei-huangdi-dajiuge-quanzu-miemen-locma2plu7v-vsssm5dr5frc3szw]] completes the fall. [[ZhuYingWarringStates|朱英]] warns that Chunshenjun will have the chance to assist a young ruler after [[MiWan|楚考烈王]] dies, but that [[LiYuanWarringStates|李源 / 李元]] will enter the palace first and kill him unless stopped. Chunshenjun refuses because he believes Li Yuan is weak, grateful, and dependent on him. When Mi Wan dies seventeen days later, Li Yuan ambushes him at the palace gate, kills him and his household, and leaves [[ChuYouwang|楚幽王]] under Li-family control. The episode then makes this death the final exit of the [[WarringStatesFourLords|战国四公子]] and the source of the lesson "当断不断，反受其乱."
 
-[[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]] reuses Chunshenjun's end as an analogy for [[HanXin|韩信]]. The host compares [[KuaiChe|蒯彻 / 蒯通]]'s warning to [[ZhuYingWarringStates|朱英]]'s: a dangerous structure is visible before it closes, but the person at risk may delay because old intimacy and confidence make decisive action feel unnecessary.
+[[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|汉纪 165-2]] reuses Chunshenjun's end as an analogy for [[HanXin|韩信]]. The host compares [[KuaiChe|蒯彻 / 蒯通]]'s warning to [[ZhuYingWarringStates|朱英]]'s: a dangerous structure is visible before it closes, but the person at risk may delay because old intimacy and confidence make decisive action feel unnecessary.
 
 ## Connections
-- [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|Hanji 165-2]], [[HanXin|韩信]], [[KuaiChe|蒯彻 / 蒯通]], and [[ZhuYingWarringStates|朱英]] - later analogy for visible danger, delayed action, and missed protective timing.
+- [[zizhi-tongjian-hanji-165-2-hanxin-weihe-zhisi-ye-bu-beipan-liubang-lrgtvbdyc9cwbfhaix1aabsmqhhb|汉纪 165-2]], [[HanXin|韩信]], [[KuaiChe|蒯彻 / 蒯通]], and [[ZhuYingWarringStates|朱英]] - later analogy for visible danger, delayed action, and missed protective timing.
 - [[ChuState|楚国]] and [[MiHeng|楚顷襄王]] - state and ruler whose survival his letter protects.
 - [[QinState|秦国]], [[QinZhaoxiangwang|秦昭襄王]], and [[BaiQi|白起]] - target court, ruler, and halted commander.
 - [[HanState|韩国]], [[WeiState|魏国]], [[QiState|齐国]], and [[ZhaoState|赵国]] - states repositioned in his argument.

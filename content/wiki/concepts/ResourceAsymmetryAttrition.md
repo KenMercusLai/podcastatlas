@@ -16,11 +16,11 @@ last_updated: 2026-09-07
 Resource-asymmetry attrition / 资源不对称消耗战 is a strategy pattern in which one side avoids the opponent's strongest immediate mode of combat and instead uses time, supply, terrain, harassment, and morale pressure to make the opponent's limiting resource decide the contest.
 
 ## Current Synthesis
-The concept currently has two late-Han versions. In Hanji 964, [[BaoXin|鲍信]] warns [[LiuDaiLateHan|刘岱]] that hungry [[QingzhouYellowTurbans|青州黄巾军]] are dangerous in direct contact because desperation supplies immediate energy. His alternative is to close gates, strengthen defenses, wait for food pressure to mature, and then strike weaker pieces.
+The concept currently has two late-Han versions. In 汉纪 964, [[BaoXin|鲍信]] warns [[LiuDaiLateHan|刘岱]] that hungry [[QingzhouYellowTurbans|青州黄巾军]] are dangerous in direct contact because desperation supplies immediate energy. His alternative is to close gates, strengthen defenses, wait for food pressure to mature, and then strike weaker pieces.
 
-Hanji 1042 supplies the stronger-power version before [[GuanduCampaign|官渡之战]]. [[TianFengLateHan|田丰]] does not advise [[YuanShao|袁绍]] to hide from [[CaoCao|曹操]]; he advises turning Yuan's larger base into a pressure system by holding defensible ground, farming, preparing militarily, and sending elite cavalry to harass Cao's southern Yellow River zone. The shared pattern is not passivity but making the material balance work over time.
+汉纪 1042 supplies the stronger-power version before [[GuanduCampaign|官渡之战]]. [[TianFengLateHan|田丰]] does not advise [[YuanShao|袁绍]] to hide from [[CaoCao|曹操]]; he advises turning Yuan's larger base into a pressure system by holding defensible ground, farming, preparing militarily, and sending elite cavalry to harass Cao's southern Yellow River zone. The shared pattern is not passivity but making the material balance work over time.
 
-Hanji 1047 adds [[JuShou|沮授]]'s Yangwu version of the same logic. Yuan Shao has roughly ten times Cao Cao's men and more grain, but Ju Shou treats Cao's better battle quality and supply weakness as reasons to avoid the quick fight Cao wants. The advice is to make a long war out of Yuan's material advantage; Yuan rejects it and advances into a fixed-camp confrontation.
+汉纪 1047 adds [[JuShou|沮授]]'s Yangwu version of the same logic. Yuan Shao has roughly ten times Cao Cao's men and more grain, but Ju Shou treats Cao's better battle quality and supply weakness as reasons to avoid the quick fight Cao wants. The advice is to make a long war out of Yuan's material advantage; Yuan rejects it and advances into a fixed-camp confrontation.
 
 ## Key Claims
 - Attrition is strongest when it targets the resource the opponent cannot cheaply replenish: food, rest, morale, movement capacity, or local support.
@@ -31,15 +31,15 @@ Hanji 1047 adds [[JuShou|沮授]]'s Yangwu version of the same logic. Yuan Shao 
 - Attrition remains conditional: if one's own supply, cohesion, or command patience is weak, waiting can decay into passivity rather than pressure.
 
 ## Evidence
-- Hungry-raider case: [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|Hanji 964]] has Bao Xin advise Liu Dai to avoid meeting the Qingzhou Yellow Turbans directly and instead let their food shortage become decisive.
-- Stronger-base harassment case: [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|Hanji 1042]] has Tian Feng advise Yuan Shao to use defensive terrain, agriculture, preparation, and cavalry raids so Cao Cao is forced to move back and forth under cumulative pressure.
-- Tenfold-force long-war case: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|Hanji 1047]] has Ju Shou argue at Yangwu that Yuan's larger manpower and grain base should be used for prolonged pressure against Cao's supply weakness rather than immediate battle.
+- Hungry-raider case: [[zizhi-tongjian-hanji-964-bie-jiaoao-bie-jiaoao-bie-jiaoao-lo2-edzffu0v9ixoabc06rx-oqoq|汉纪 964]] has Bao Xin advise Liu Dai to avoid meeting the Qingzhou Yellow Turbans directly and instead let their food shortage become decisive.
+- Stronger-base harassment case: [[zizhi-tongjian-hanji-1042-congming-haishi-wangu-tianfeng-yin-dingzhuang-yuanshao-ruyu-lk5x6if2rouarmgichtynzhl3cgs|汉纪 1042]] has Tian Feng advise Yuan Shao to use defensive terrain, agriculture, preparation, and cavalry raids so Cao Cao is forced to move back and forth under cumulative pressure.
+- Tenfold-force long-war case: [[zizhi-tongjian-hanji-1047-guandu-dazhan-zaiji-liubei-weihe-jinji-taoli-yuanshao-lh5itbqqqd54apj7uogyxv4bf3wm|汉纪 1047]] has Ju Shou argue at Yangwu that Yuan's larger manpower and grain base should be used for prolonged pressure against Cao's supply weakness rather than immediate battle.
 
 ## Counterevidence & Qualifications
-Resource asymmetry does not guarantee victory. Hanji 1042 keeps Tian Feng's plan as a source-scoped counterfactual because the battle outcome is not proved by the plan alone. Hanji 1047 reinforces the same limitation: a materially sensible plan still fails if the ruler refuses the time horizon needed to execute it. Hanji 964 also shows that leaders may face their own food or status constraints; attrition needs discipline, time, and political acceptance.
+Resource asymmetry does not guarantee victory. 汉纪 1042 keeps Tian Feng's plan as a source-scoped counterfactual because the battle outcome is not proved by the plan alone. 汉纪 1047 reinforces the same limitation: a materially sensible plan still fails if the ruler refuses the time horizon needed to execute it. 汉纪 964 also shows that leaders may face their own food or status constraints; attrition needs discipline, time, and political acceptance.
 
 ## What Changed
-- Added Ju Shou's Hanji 1047 Yangwu advice as a second pre-Guandu version where Yuan Shao could convert scale into time pressure but refuses.
+- Added Ju Shou's 汉纪 1047 Yangwu advice as a second pre-Guandu version where Yuan Shao could convert scale into time pressure but refuses.
 
 ## Related Concepts
 - [[FortifiedAttritionPatience|坚壁耗敌式耐心]] - neighboring patience pattern that uses fortification and time as strategic resources.

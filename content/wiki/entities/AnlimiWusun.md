@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-安犁靡 / Anlimi enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] as the [[Wusun|乌孙]] small kunmi installed after [[MozhenjiangWusun|末振将]]'s death and as the ruler whose riders surround [[DuanHuizongWesternHan|段会宗]] after [[FanqiuWusun|番丘]] is killed.
+安犁靡 / Anlimi enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] as the [[Wusun|乌孙]] small kunmi installed after [[MozhenjiangWusun|末振将]]'s death and as the ruler whose riders surround [[DuanHuizongWesternHan|段会宗]] after [[FanqiuWusun|番丘]] is killed.
 
 ## Current Profile
 
@@ -27,17 +27,17 @@ When Duan kills Fanqiu, Anlimi reacts with force and surrounds Duan with thousan
 
 ## Evidence
 
-- Succession role: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Anlimi replaces Mozhenjiang as small kunmi.
-- Encirclement: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Anlimi brings thousands of riders to surround Duan after Fanqiu is killed.
-- Withdrawal: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Anlimi withdraws after Duan combines Han threat with a face-saving explanation.
+- Succession role: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Anlimi replaces Mozhenjiang as small kunmi.
+- Encirclement: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Anlimi brings thousands of riders to surround Duan after Fanqiu is killed.
+- Withdrawal: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Anlimi withdraws after Duan combines Han threat with a face-saving explanation.
 
 ## Qualifications
 
-This page is bounded to Hanji 550 and does not reconstruct Anlimi's full reign or genealogy beyond the episode's statements. The source's exact kinship language and Wusun office mechanics remain source-scoped.
+This page is bounded to 汉纪 550 and does not reconstruct Anlimi's full reign or genealogy beyond the episode's statements. The source's exact kinship language and Wusun office mechanics remain source-scoped.
 
 ## What Changed
 
-- Created the page from Hanji 550's succession and encirclement scene.
+- Created the page from 汉纪 550's succession and encirclement scene.
 
 ## Relationships
 

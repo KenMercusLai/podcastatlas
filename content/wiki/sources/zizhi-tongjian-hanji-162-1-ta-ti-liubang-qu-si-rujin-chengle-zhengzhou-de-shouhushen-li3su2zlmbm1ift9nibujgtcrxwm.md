@@ -40,7 +40,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues t
 
 ## Connections
 - [[JiXin|纪信]], [[SubstitutionalEscapeSacrifice|代身突围牺牲]], [[LiuBang|刘邦]], and [[XiangYu|项羽]] - the impersonation, deception, escape, and execution at Xingyang.
-- [[ChenPing|陈平]], [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|Hanji 160 part 2]], and [[XingyangStandoff|荥阳相持]] - the episode follows Chen Ping's counterintelligence success with a physical extraction operation.
+- [[ChenPing|陈平]], [[zizhi-tongjian-hanji-160-chenping-gongxinji-bi-zhenhuanchuan-jingcai-2-lmjiydb2weahtauisouw5mdiwtoo|汉纪 160 part 2]], and [[XingyangStandoff|荥阳相持]] - the episode follows Chen Ping's counterintelligence success with a physical extraction operation.
 - [[ZhouKe|周苛]], [[CongGong|枞公]], [[WeiBao|魏豹]], and [[HanWangXin|韩王信]] - garrison command after Liu Bang leaves.
 - [[Chenghuang|城隍]], [[Zhengzhou|郑州]], and [[YingyangWarringStates|荥阳]] - later protective-cult memory around Ji Xin.
 - [[YuanShengChuHan|袁先生 / 袁生]], [[Wuguan|武关]], [[WanCounty|宛县]], [[Chenggao|成皋]], [[HanXin|韩信]], and [[XiayiPlan|下邑画策]] - strategic diversion to preserve the central front and buy time for wider operations.

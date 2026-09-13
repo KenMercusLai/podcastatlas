@@ -9,7 +9,7 @@ knowledge_schema: synthesis-v1
 ---
 ## Overview
 
-魏宇 / Wei Yu is [[FifthZhongLateHan|第五种]]'s subordinate investigator in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]]. His importance is procedural: he converts [[ShanKuangLateHan|单匡]]'s corruption into reportable evidence and then becomes the witness whom Shan Kuang tries to remove.
+魏宇 / Wei Yu is [[FifthZhongLateHan|第五种]]'s subordinate investigator in [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]]. His importance is procedural: he converts [[ShanKuangLateHan|单匡]]'s corruption into reportable evidence and then becomes the witness whom Shan Kuang tries to remove.
 
 ## Current Profile
 
@@ -26,19 +26,19 @@ The episode then moves Wei Yu's case from local investigation to central confron
 
 ## Evidence
 
-- Investigation role: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Fifth Zhong sends Wei Yu to examine Shan Kuang.
-- Evidence risk: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says the resulting report impeaches Shan Kuang and Shan Chao.
-- Assassination target: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Shan Kuang hires Ren Fang to kill Wei Yu.
-- Counter-capture: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Wei Yu detects the plot and captures Ren Fang.
-- Confrontation failure: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|Hanji 851]] says Yang Bing's request to confront Shan Kuang with the case leads to Yang Bing's punishment.
+- Investigation role: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Fifth Zhong sends Wei Yu to examine Shan Kuang.
+- Evidence risk: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says the resulting report impeaches Shan Kuang and Shan Chao.
+- Assassination target: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Shan Kuang hires Ren Fang to kill Wei Yu.
+- Counter-capture: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Wei Yu detects the plot and captures Ren Fang.
+- Confrontation failure: [[zizhi-tongjian-hanji-851-hanhuandi-weihe-zhuding-yichou-wannian-ltgm1ix6cgqb-kqo9bztfrzjgeun|汉纪 851]] says Yang Bing's request to confront Shan Kuang with the case leads to Yang Bing's punishment.
 
 ## Qualifications
 
-Wei Yu's page is source-bounded to Hanji 851. The episode does not provide his broader biography, office title beyond subordinate role, or later fate. He is treated mainly as an evidence and witness node in the protected-corruption case.
+Wei Yu's page is source-bounded to 汉纪 851. The episode does not provide his broader biography, office title beyond subordinate role, or later fate. He is treated mainly as an evidence and witness node in the protected-corruption case.
 
 ## What Changed
 
-- Created the page from Hanji 851.
+- Created the page from 汉纪 851.
 - Added Wei Yu as the investigator-witness targeted by Shan Kuang.
 
 ## Relationships

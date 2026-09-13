@@ -12,11 +12,11 @@ last_updated: 2026-09-11
 
 ## Overview
 
-徐美人 / Xu Meiren enters this wiki through the [[HanChengdi|汉成帝]] heir-loss cluster. [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] names her as one of the women whom [[XieGuangWesternHan|谢光]] says bore a son by Chengdi. [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] uses Xu-family child deaths as part of the broader evidence problem, while [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] supplies the concrete Xu Meiren sealed-box case.
+徐美人 / Xu Meiren enters this wiki through the [[HanChengdi|汉成帝]] heir-loss cluster. [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] names her as one of the women whom [[XieGuangWesternHan|谢光]] says bore a son by Chengdi. [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|汉纪 573]] uses Xu-family child deaths as part of the broader evidence problem, while [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] supplies the concrete Xu Meiren sealed-box case.
 
 ## Current Profile
 
-Xu Meiren is source-scoped as a palace woman favored by Chengdi at Shanglinyuan's Zhaomu Hall. Hanji 572 says Chengdi summoned her repeatedly, sometimes for months at a time, and that she became pregnant and gave birth in 11 BCE. Her pregnancy matters because [[ZhaoHedeWesternHan|赵合德]] treats it as both intimate betrayal and a threat that the Xu family might regain position.
+Xu Meiren is source-scoped as a palace woman favored by Chengdi at Shanglinyuan's Zhaomu Hall. 汉纪 572 says Chengdi summoned her repeatedly, sometimes for months at a time, and that she became pregnant and gave birth in 11 BCE. Her pregnancy matters because [[ZhaoHedeWesternHan|赵合德]] treats it as both intimate betrayal and a threat that the Xu family might regain position.
 
 The reported chain then turns Xu Meiren's child into evidence inside the later accusation. Chengdi sends a letter through a palace attendant; Xu Meiren returns a heavy box and reply; Chengdi and Zhao Hede handle the box privately; and the sealed box is sent to [[JiWuWesternHan|纪武]] for secret burial after Ji Wu is told it contains a child corpse. The host highlights that disclosure as strange if the goal was a perfectly hidden killing, so Xu Meiren's page preserves both the accusation and the evidentiary puzzle.
 
@@ -30,19 +30,19 @@ The reported chain then turns Xu Meiren's child into evidence inside the later a
 
 ## Evidence
 
-- Missing-son report: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|Hanji 571]] says Xie Guang identified Xu Meiren and Cao Gong as women who bore sons by Chengdi whose children disappeared.
-- Child-survival pattern: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|Hanji 573]] says Chengdi had children by Xu-family women and Ban Jieyu who died young, complicating a single-cause Zhao-sisters explanation.
-- Favor and birth: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Xu Meiren was summoned repeatedly by Chengdi, became pregnant, and gave birth in 11 BCE.
-- Zhao Hede's reaction: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Zhao Hede challenged Chengdi over the child and asked whether he wanted the Xu family to rise again.
-- Sealed-box chain: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|Hanji 572]] says Xu Meiren returned a heavy box that was later sealed and secretly buried as a child corpse.
+- Missing-son report: [[zizhi-tongjian-hanji-571-hanchengdi-qinshou-shazi-shi-zhen-shi-jia-lhjrwpg-t6izp__tshwzem1t0dyzh|汉纪 571]] says Xie Guang identified Xu Meiren and Cao Gong as women who bore sons by Chengdi whose children disappeared.
+- Child-survival pattern: [[zizhi-tongjian-hanji-573-zhaofeiyan-jiemei-shi-hongyanhuoshui-haishi-tizuigaoyang-lkacfndvi8t1opep67xmquyzr_ww|汉纪 573]] says Chengdi had children by Xu-family women and Ban Jieyu who died young, complicating a single-cause Zhao-sisters explanation.
+- Favor and birth: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Xu Meiren was summoned repeatedly by Chengdi, became pregnant, and gave birth in 11 BCE.
+- Zhao Hede's reaction: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Zhao Hede challenged Chengdi over the child and asked whether he wanted the Xu family to rise again.
+- Sealed-box chain: [[zizhi-tongjian-hanji-572-lishishang-zhe-nanren-zhen-gou-hen-lkd0wugllcr6ewmmz6lyximyzl6c|汉纪 572]] says Xu Meiren returned a heavy box that was later sealed and secretly buried as a child corpse.
 
 ## Qualifications
 
-The page does not reconstruct Xu Meiren's complete biography, family politics, the child's exact sex and death mechanism, or independent physical confirmation of the box contents. Hanji 572 strengthens the accusation but also flags a suspicious detail in the secrecy chain; Hanji 573 adds broader caution about treating the Zhao-sisters case as settled causation.
+The page does not reconstruct Xu Meiren's complete biography, family politics, the child's exact sex and death mechanism, or independent physical confirmation of the box contents. 汉纪 572 strengthens the accusation but also flags a suspicious detail in the secrecy chain; 汉纪 573 adds broader caution about treating the Zhao-sisters case as settled causation.
 
 ## What Changed
 
-- Created from Hanji 571, Hanji 573, and Hanji 572 as the Xu-family palace woman whose reported child becomes the sealed-box branch of Chengdi's missing-heir case.
+- Created from 汉纪 571, 汉纪 573, and 汉纪 572 as the Xu-family palace woman whose reported child becomes the sealed-box branch of Chengdi's missing-heir case.
 
 ## Relationships
 

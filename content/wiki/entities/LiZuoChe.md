@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 李左车 / Li Zuoche
 
-李左车 / Li Zuoche enters the wiki through [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|Hanji 156 part 1]] as Zhao's Guangwu Jun and the grandson of [[LiMu|李牧]]. The source presents him as the clear-eyed adviser in [[ChenYu|陈馀]] and [[ZhaoXie|赵歇]]'s camp before [[HanXin|韩信]] and [[ZhangEr|张耳]] emerge from [[JingxingPass|井陉口]].
+李左车 / Li Zuoche enters the wiki through [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-1-ltkz7bwqgkcqessdfbn9unf5e05l|汉纪 156 part 1]] as Zhao's Guangwu Jun and the grandson of [[LiMu|李牧]]. The source presents him as the clear-eyed adviser in [[ChenYu|陈馀]] and [[ZhaoXie|赵歇]]'s camp before [[HanXin|韩信]] and [[ZhangEr|张耳]] emerge from [[JingxingPass|井陉口]].
 
 His proposal targets the campaign's logistical weak point rather than the visible front line. Li Zuoche argues that Han Xin and Zhang Er have won recently but are far from their base, that their food must be supplied across a long route, and that the narrow Jingxing road will stretch the army with baggage trailing behind the main force.
 
@@ -16,18 +16,18 @@ Li Zuoche asks Chen Yu for 30,000 men so he can move through side paths and cut 
 
 The source treats the plan as genuinely feasible. Li Zuoche's role is therefore not only "ignored adviser"; he marks the strategic problem Han Xin is spared when Chen Yu rejects the plan under [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]].
 
-[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] strengthens that counterfactual. Han Xin is happy only after spies confirm that Chen Yu has not adopted Li Zuoche's advice, and the later [[BackwaterBattle|背水一战]] depends on Zhao accepting open battle instead of turning Jingxing into a supply trap.
+[[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|汉纪 156 part 2]] strengthens that counterfactual. Han Xin is happy only after spies confirm that Chen Yu has not adopted Li Zuoche's advice, and the later [[BackwaterBattle|背水一战]] depends on Zhao accepting open battle instead of turning Jingxing into a supply trap.
 
-[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]] keeps Li Zuoche important after defeat. The episode closes by saying Han Xin accepts Li Zuoche's counsel and sends people toward [[YanState|燕国]], which then submits as predicted. Li Zuoche's role therefore shifts from the ignored Zhao adviser whose plan would have stopped Han Xin to the post-battle strategist who helps Han Xin convert the Zhao victory into wider pressure without another immediate battle.
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|汉纪 157 part 1]] keeps Li Zuoche important after defeat. The episode closes by saying Han Xin accepts Li Zuoche's counsel and sends people toward [[YanState|燕国]], which then submits as predicted. Li Zuoche's role therefore shifts from the ignored Zhao adviser whose plan would have stopped Han Xin to the post-battle strategist who helps Han Xin convert the Zhao victory into wider pressure without another immediate battle.
 
-[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]] develops Li Zuoche's post-defeat counsel in detail. He first declines as a defeated general, but Han Xin answers with the [[BailiXi|百里奚]] precedent and admits that Zhao could have captured him if [[ChenYu|陈馀]] had listened earlier. Li Zuoche then reads the field asymmetrically: Han Xin's name now frightens the region, but his troops are tired. His answer is [[VictoryDeterrenceDiplomacy|胜势威慑外交]]: rest and pacify [[ZhaoState|赵国]], make a visible move toward [[YanState|燕国]], send an envoy, then use Yan's submission to pressure [[QiState|齐国]].
+[[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|汉纪 157 part 2]] develops Li Zuoche's post-defeat counsel in detail. He first declines as a defeated general, but Han Xin answers with the [[BailiXi|百里奚]] precedent and admits that Zhao could have captured him if [[ChenYu|陈馀]] had listened earlier. Li Zuoche then reads the field asymmetrically: Han Xin's name now frightens the region, but his troops are tired. His answer is [[VictoryDeterrenceDiplomacy|胜势威慑外交]]: rest and pacify [[ZhaoState|赵国]], make a visible move toward [[YanState|燕国]], send an envoy, then use Yan's submission to pressure [[QiState|齐国]].
 
 ## Connections
-- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|Hanji 157 part 2]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], [[PoliticalSurrenderCascade|招降示范级联]], [[YanState|燕国]], and [[QiState|齐国]] - full post-defeat advice sequence after Han Xin honors him.
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-2-lowgtomc-sfmdnshzlscm26d-d3|汉纪 157 part 2]], [[VictoryDeterrenceDiplomacy|胜势威慑外交]], [[PoliticalSurrenderCascade|招降示范级联]], [[YanState|燕国]], and [[QiState|齐国]] - full post-defeat advice sequence after Han Xin honors him.
 - [[HanXin|韩信]] and [[ZhangEr|张耳]] - commanders whose supply line Li Zuoche wants to attack.
 - [[ChenYu|陈馀]] and [[ZhaoXie|赵歇]] - Zhao-side decision-maker and king whom Li Zuoche advises.
 - [[LiMu|李牧]] - named grandfather whose military reputation frames Li Zuoche's credibility.
 - [[JingxingPass|井陉口]], [[TaihangRoad|太行道]], [[TransportCorridorSeverance|交通线切割]], and [[BattlefieldEncirclementLogistics|战场围困与断粮]] - terrain and logistics concepts behind his plan.
 - [[MoralizedAntiDeceptionCommand|道德化拒诈指挥]] and [[ConfucianMilitaryIdealismLimits|儒家军事理想的限度]] - Chen Yu's reason for rejecting the plan.
 - [[BackwaterBattle|背水一战]] - completed battle whose possibility depends on Li Zuoche's plan remaining unused.
-- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|Hanji 157 part 1]], [[HanXin|韩信]], and [[YanState|燕国]] - post-battle advice that turns victory over Zhao into pressure on Yan.
+- [[zizhi-tongjian-hanji-157-hanxin-beishuiyizhan-bingfa-jiedu-1-loiz8ge-a39tmigajool2spzri5i|汉纪 157 part 1]], [[HanXin|韩信]], and [[YanState|燕国]] - post-battle advice that turns victory over Zhao into pressure on Yan.

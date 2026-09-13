@@ -14,7 +14,7 @@ Bibliographic classification as statecraft / 目录分类作为治国术 is the 
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] grounds the concept through [[LiuXinWesternHan|刘歆]] and [[Qilue|《七略》]]. After [[HanAidi|汉哀帝]] orders the collation of texts gathered in the capital, Liu Xin completes [[LiuXiang|刘向]]'s unfinished work and arranges the library into a structured map of classics, philosophers, literature, military writings, numerical arts, and practical techniques.
+[[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] grounds the concept through [[LiuXinWesternHan|刘歆]] and [[Qilue|《七略》]]. After [[HanAidi|汉哀帝]] orders the collation of texts gathered in the capital, Liu Xin completes [[LiuXiang|刘向]]'s unfinished work and arranges the library into a structured map of classics, philosophers, literature, military writings, numerical arts, and practical techniques.
 
 The episode's political reading comes from scale and classification together. A massive library is not simply admired as accumulation; it becomes meaningful because categories let the court understand what kinds of knowledge exist, where they came from, and how they might be used or corrected.
 
@@ -27,10 +27,10 @@ The episode's political reading comes from scale and classification together. A 
 
 ## Evidence
 
-- State-backed cataloging: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says Han Aidi orders Liu Xin to audit and collate texts gathered in the capital.
-- Inherited project: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] says Liu Xin completes Liu Xiang's unfinished work.
-- Category system: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] lists Qilue's seven divisions.
-- Scale as governance problem: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|Hanji 564]] contrasts Qilue's reported 13,269 juan with the much smaller scale of Zizhi Tongjian to make the organization problem vivid.
+- State-backed cataloging: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says Han Aidi orders Liu Xin to audit and collate texts gathered in the capital.
+- Inherited project: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] says Liu Xin completes Liu Xiang's unfinished work.
+- Category system: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] lists Qilue's seven divisions.
+- Scale as governance problem: [[zizhi-tongjian-hanji-564-gudai-xueshu-dalao-bi-xiangxiang-de-gengniu-ljf28ze9-p218vuzjicjcwutvrhl|汉纪 564]] contrasts Qilue's reported 13,269 juan with the much smaller scale of Zizhi Tongjian to make the organization problem vivid.
 
 ## Counterevidence & Qualifications
 
@@ -38,7 +38,7 @@ The source does not prove that the court effectively used Qilue for policy decis
 
 ## What Changed
 
-- Created the concept from Hanji 564's account of Liu Xin's imperial collation and cataloging work.
+- Created the concept from 汉纪 564's account of Liu Xin's imperial collation and cataloging work.
 
 ## Related Concepts
 

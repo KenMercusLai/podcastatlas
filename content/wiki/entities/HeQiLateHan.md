@@ -9,10 +9,10 @@ last_updated: 2026-09-05
 ---
 
 ## Overview
-[[HeQiLateHan]] is a Jiangdong officer under [[SunQuan]] whose Hanji 1061 profile centers on suppressing large local rebellions and turning pacification into administrative consolidation.
+[[HeQiLateHan]] is a Jiangdong officer under [[SunQuan]] whose 汉纪 1061 profile centers on suppressing large local rebellions and turning pacification into administrative consolidation.
 
 ## Current Profile
-In [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]], Sun Quan sends He Qi against Jian'an, Hanxing, and Nanping county rebellions, each described as involving more than ten thousand people. He Qi suppresses them, rebuilds county seats, selects more than ten thousand elite troops, and is promoted to Pingdong colonel.
+In [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|汉纪 1061]], Sun Quan sends He Qi against Jian'an, Hanxing, and Nanping county rebellions, each described as involving more than ten thousand people. He Qi suppresses them, rebuilds county seats, selects more than ten thousand elite troops, and is promoted to Pingdong colonel.
 
 ## Key Characteristics
 - Serves as a pacification officer in the interior Jiangdong problem created by [[Shanyue]] resistance.
@@ -21,13 +21,13 @@ In [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-l
 - Strengthens Sun Quan's succession-era authority through practical local control.
 
 ## Evidence
-- Rebellion suppression and reconstruction: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|Hanji 1061]] names He Qi as Sun Quan's officer for the Jian'an, Hanxing, and Nanping rebellions and credits him with pacification, reconstruction, troop selection, and promotion.
+- Rebellion suppression and reconstruction: [[zizhi-tongjian-hanji-1061-yuanshao-zhizi-he-shafu-chouren-jiecheng-qinjia-lnsnj6ipiyscw-vopnjjgoxpnt5r|汉纪 1061]] names He Qi as Sun Quan's officer for the Jian'an, Hanxing, and Nanping rebellions and credits him with pacification, reconstruction, troop selection, and promotion.
 
 ## Qualifications
 The source does not give He Qi's earlier career or later record. The current profile is limited to his role in Sun Quan's early Jiangdong consolidation.
 
 ## What Changed
-- New page from Hanji 1061, created because He Qi becomes a key example of Sun Quan's local pacification strategy.
+- New page from 汉纪 1061, created because He Qi becomes a key example of Sun Quan's local pacification strategy.
 
 ## Relationships
 - [[SunQuan]] - ruler who commissions He Qi's pacification campaign.

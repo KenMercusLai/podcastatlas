@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-鲍峻 / Bao Jun is an Eastern Han friend and recommender of [[DingHongEasternHan|Ding Hong]] in Hanji 738. His wiki role is to turn Ding's attempted title-yielding away from private moral display and back toward state-assigned public responsibility.
+鲍峻 / Bao Jun is an Eastern Han friend and recommender of [[DingHongEasternHan|Ding Hong]] in 汉纪 738. His wiki role is to turn Ding's attempted title-yielding away from private moral display and back toward state-assigned public responsibility.
 
 ## Current Profile
 
-Hanji 738 introduces Bao Jun after Ding Hong tries to avoid inheriting his father's marquisate by claiming illness and yielding the title to his younger brother. After burial, Ding leaves quietly. Bao meets him in Donghai and challenges the moral premise of that withdrawal.
+汉纪 738 introduces Bao Jun after Ding Hong tries to avoid inheriting his father's marquisate by claiming illness and yielding the title to his younger brother. After burial, Ding leaves quietly. Bao meets him in Donghai and challenges the moral premise of that withdrawal.
 
 Bao's argument uses old examples against Ding rather than simply praising them. He treats Bo Yi and Ji Zha as exceptional responses to disorder, not as a universal model for refusing assigned duty. In the current, ordered setting, he argues, personal affairs cannot override a responsibility conferred by the state. Ding is ashamed, returns, and inherits.
 
@@ -30,10 +30,10 @@ Bao then recommends Ding to the court as learned in the classics and morally sou
 
 ## Evidence
 
-- Persuasion setting: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Bao Jun meets Ding Hong in Donghai after Ding leaves instead of inheriting his father's title.
-- Historical-counterexample argument: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Bao uses Bo Yi and Ji Zha as context-bound examples from disorder rather than as license for ordinary withdrawal.
-- Public-duty correction: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Bao argues that personal affairs cannot abandon state-given responsibility.
-- Recommendation outcome: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|Hanji 738]] says Bao recommends Ding for classics learning and conduct, after which Mingdi appoints Ding as shizhong.
+- Persuasion setting: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Bao Jun meets Ding Hong in Donghai after Ding leaves instead of inheriting his father's title.
+- Historical-counterexample argument: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Bao uses Bo Yi and Ji Zha as context-bound examples from disorder rather than as license for ordinary withdrawal.
+- Public-duty correction: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Bao argues that personal affairs cannot abandon state-given responsibility.
+- Recommendation outcome: [[zizhi-tongjian-hanji-738-ta-pinsi-baoquan-dahan-qijie-weihe-canzao-mengyuan-lrvc1f6fv2h66q0plecihmfmdvxu|汉纪 738]] says Bao recommends Ding for classics learning and conduct, after which Mingdi appoints Ding as shizhong.
 
 ## Qualifications
 
@@ -41,7 +41,7 @@ This page does not reconstruct Bao Jun's wider career. It preserves the one sour
 
 ## What Changed
 
-- Created Bao Jun as the persuader and recommender in Ding Hong's Hanji 738 branch.
+- Created Bao Jun as the persuader and recommender in Ding Hong's 汉纪 738 branch.
 - Bounded the page to his public-duty argument and recommendation outcome.
 
 ## Relationships

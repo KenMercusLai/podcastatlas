@@ -14,7 +14,7 @@ last_updated: 2026-08-27
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the decision window immediately before [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|Hanji 886]] and [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|Hanji 887]]. It follows [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]] pressing [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] to remove [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], and related eunuch power, while Dou Miao hesitates and the warning signs accumulate.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the decision window immediately before [[zizhi-tongjian-hanji-886-shenchu-zhichang-zuoge-chengfu-henshen-de-ren-lo6dgcdbshjgto-qsfcouwjersdi|汉纪 886]] and [[zizhi-tongjian-hanji-887-dang-zhuduizhang-pengshang-zhuduiyou-jieguo-taican-lvyh9a-kvsdqaokmylgg139bvhfk|汉纪 887]]. It follows [[DouWuLateHan|窦武]] and [[ChenFanLateHan|陈蕃]] pressing [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] to remove [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], and related eunuch power, while Dou Miao hesitates and the warning signs accumulate.
 
 The source's core synthesis is that the Dou/Chen crisis begins before the plan leaks: Chen Fan sees a lethal political window, [[LiuYuAstrologerLateHan|刘瑜]] reads the omen as a palace-security warning, and [[ShanBingLateHan|山冰]] plus [[YinXunLateHan|尹勋]] start the arrest-paperwork path through [[ZhengSaLateHan|郑飒 / 郑萨]]. But Dou Wu still relies on process, interrogation, and ordinary leave-taking, turning delay into the setup for [[LethalPlanLeakageRisk|leakage]] and [[ZeroSumConflictHesitationRisk|hesitation risk]] in the next episode.
 
@@ -28,7 +28,7 @@ The source's core synthesis is that the Dou/Chen crisis begins before the plan l
 - Chen Fan argues that captured eunuch-linked actors should be killed rather than slowly interrogated, while Dou Wu insists on procedure.
 - Zheng Sa's interrogation names Cao Jie and Wang Fu and says they plan rebellion; Yin Xun and Shan Bing then submit a memorial asking Dou Miao to arrest them.
 - Dou Wu leaves the palace on September 7 for leave, which the host treats as a serious failure of crisis awareness in a live palace struggle.
-- The episode stops before the outcome, making the captured warning, delayed decision, arrest channel, and Dou Wu's absence the immediate prelude to Hanji 886's leaked memorial and countercoup.
+- The episode stops before the outcome, making the captured warning, delayed decision, arrest channel, and Dou Wu's absence the immediate prelude to 汉纪 886's leaked memorial and countercoup.
 
 ## Key Quotes
 
@@ -43,11 +43,11 @@ The source's core synthesis is that the Dou/Chen crisis begins before the plan l
 - [[DouWuLateHan|窦武]], [[ChenFanLateHan|陈蕃]], and [[EmpressDowagerDouMiao|窦妙 / 窦皇太后]] - anti-eunuch decision triangle before the plan leaks.
 - [[CaoJieLateHan|曹节]], [[WangFuLateHan|王甫]], and [[HouLanLateHan|侯览]] - eunuch-side or eunuch-linked target field named before the countercoup develops.
 - [[LiuYuAstrologerLateHan|刘瑜]], [[CelestialOmenPoliticalResponsibility|天象政治责任]], and [[CourtFeedbackCollapse|君臣反馈失灵]] - omen warning converted into political-security advice.
-- [[ShanBingLateHan|山冰]], [[YinXunLateHan|尹勋]], and [[ZhengSaLateHan|郑飒 / 郑萨]] - operational arrest and memorial path before Wang Fu reverses the field in Hanji 886.
+- [[ShanBingLateHan|山冰]], [[YinXunLateHan|尹勋]], and [[ZhengSaLateHan|郑飒 / 郑萨]] - operational arrest and memorial path before Wang Fu reverses the field in 汉纪 886.
 - [[LethalPlanLeakageRisk|致命计划泄露风险]], [[ZeroSumConflictHesitationRisk|死斗局优柔寡断风险]], [[PalaceAccessMonopoly|宫廷接触垄断]], [[MingqiLegitimacy|名器合法性]], and [[PoliticalSurvivalFirst|安全第一政治生存]] - concepts sharpened by the mismatch between ordinary procedure and palace death struggle.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills the pre-leak decision and warning phase before Hanji 886's palace seizure and Hanji 887's open collapse.
+- No settled contradiction with existing wiki pages was found. This source backfills the pre-leak decision and warning phase before 汉纪 886's palace seizure and 汉纪 887's open collapse.
 - Identity caution: this source's 刘瑜 is kept distinct from [[LiuYuLateHan|刘虞 / Liu Yu (Late Han)]], the later Youzhou governor and alternative-emperor refusal figure.
 - Scope caution: minor appointment names such as Wei Biao, Zhu Yu/Zhu Yu variant, and Liu You are left source-scoped pending stronger disambiguating evidence.

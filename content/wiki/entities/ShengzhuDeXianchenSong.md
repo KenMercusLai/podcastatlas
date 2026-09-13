@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-《圣主得贤臣颂》 enters the wiki through [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] as [[WangBaoWesternHan|王褒]]'s ode written for [[EmperorXuanOfHan|汉宣帝]]. The episode reads it less as generic praise and more as a compact theory of [[ShengzhuXianchenMutualRecognition|圣主贤臣互相成就]]: a ruler's achievement depends on worthy ministers, while worthy ministers need a ruler whose trust lets their counsel become action.
+《圣主得贤臣颂》 enters the wiki through [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] as [[WangBaoWesternHan|王褒]]'s ode written for [[EmperorXuanOfHan|汉宣帝]]. The episode reads it less as generic praise and more as a compact theory of [[ShengzhuXianchenMutualRecognition|圣主贤臣互相成就]]: a ruler's achievement depends on worthy ministers, while worthy ministers need a ruler whose trust lets their counsel become action.
 
 ## Current Profile
 
@@ -29,13 +29,13 @@ The ode also elevates the relationship emotionally and cosmologically. By invoki
 ## Evidence
 
 Authorship and court setting:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] says Xuan asks Wang Bao to write the ode after hearing of his talent.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] says Xuan asks Wang Bao to write the ode after hearing of his talent.
 
 Personnel analogies:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] summarizes the ode's tools, artisans, drivers, horses, and clothing analogies as arguments for role fit and usable talent.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] summarizes the ode's tools, artisans, drivers, horses, and clothing analogies as arguments for role fit and usable talent.
 
 Mutual-recognition claim:
-- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|Hanji 433]] says the ode treats the sage ruler and worthy minister as mutually necessary, with each side needing the other to display accomplishment.
+- [[zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx|汉纪 433]] says the ode treats the sage ruler and worthy minister as mutually necessary, with each side needing the other to display accomplishment.
 
 ## Qualifications
 

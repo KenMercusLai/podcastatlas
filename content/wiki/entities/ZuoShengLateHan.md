@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-左胜 / Zuo Sheng is [[ZuoGuanLateHan|左悺]]'s brother in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]]. His significance is source-bounded: as Hedong commandery administrator, he becomes the superior under whom [[ZhaoQiLateHan|赵岐]] refuses to serve.
+左胜 / Zuo Sheng is [[ZuoGuanLateHan|左悺]]'s brother in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]]. His significance is source-bounded: as Hedong commandery administrator, he becomes the superior under whom [[ZhaoQiLateHan|赵岐]] refuses to serve.
 
 ## Current Profile
 
-Hanji 853 presents Zuo Sheng through Zhao Qi's office choice. Zuo Guan is described as arrogant and greedy, and Zuo Sheng holds the Hedong commandery post. Zhao Qi is serving as Pishi county head, judges service under such a superior shameful, and resigns that day.
+汉纪 853 presents Zuo Sheng through Zhao Qi's office choice. Zuo Guan is described as arrogant and greedy, and Zuo Sheng holds the Hedong commandery post. Zhao Qi is serving as Pishi county head, judges service under such a superior shameful, and resigns that day.
 
 The source does not give Zuo Sheng a later action against Zhao Qi. His page therefore stays narrow: he is the family-linked official whose office position demonstrates how eunuch-family status can reach local administration and force moral-exposure choices onto subordinates.
 
@@ -27,10 +27,10 @@ The source does not give Zuo Sheng a later action against Zhao Qi. His page ther
 
 ## Evidence
 
-- Kinship and office: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Zuo Sheng is Zuo Guan's brother and holds the Hedong commandery post.
-- Zhao Qi's position: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Zhao Qi is Pishi county head under that office environment.
-- Resignation trigger: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Zhao Qi considers service under such a superior shameful and resigns that day.
-- Network meaning: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] places the Zuo Sheng branch inside the wider remaining-marquis and local-predation sequence.
+- Kinship and office: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Zuo Sheng is Zuo Guan's brother and holds the Hedong commandery post.
+- Zhao Qi's position: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Zhao Qi is Pishi county head under that office environment.
+- Resignation trigger: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Zhao Qi considers service under such a superior shameful and resigns that day.
+- Network meaning: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] places the Zuo Sheng branch inside the wider remaining-marquis and local-predation sequence.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The source gives Zuo Sheng as an office and kinship marker, not as a developed b
 
 ## What Changed
 
-- Created the page from Hanji 853's Zuo Guan family and Zhao Qi resignation branch.
+- Created the page from 汉纪 853's Zuo Guan family and Zhao Qi resignation branch.
 
 ## Relationships
 

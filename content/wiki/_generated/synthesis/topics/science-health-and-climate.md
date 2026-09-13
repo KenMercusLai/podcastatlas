@@ -408,13 +408,13 @@ Science-and-health policy now adds a trust-and-productivity branch: [[NewGoldenA
 
 ### Historical Health Inference Needs Source Boundaries
 
-[[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|Hanji 732]] adds a historical-health inference branch through [[ImperialDeathCauseInference]]: [[ZizhiTongjian]] gives [[LiuXiu]]'s death as a terse court notice, while [[DongguanHanji]] supplies earlier illness clues, making long-term vulnerability plausible but keeping diagnosis and causality bounded by source gaps.
+[[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr|汉纪 732]] adds a historical-health inference branch through [[ImperialDeathCauseInference]]: [[ZizhiTongjian]] gives [[LiuXiu]]'s death as a terse court notice, while [[DongguanHanji]] supplies earlier illness clues, making long-term vulnerability plausible but keeping diagnosis and causality bounded by source gaps.
 
 **Evidence:** [[zizhi-tongjian-hanji-732-donghan-guangwudi-liuxiu-jiabeng-bingsi-de-lnsu1le2x-cj75cjslysvbndeuvr]], [[ImperialDeathCauseInference]], [[ZizhiTongjian]], [[LiuXiu]], [[DongguanHanji]]
 
 **Qualifications:**
 
-- The Hanji 732 material is historical source analysis, not modern clinical diagnosis or medical advice.
+- The 汉纪 732 material is historical source analysis, not modern clinical diagnosis or medical advice.
 - Dongguan Hanji symptom notices, Liu Xiu's workload, and Zizhi Tongjian's death notice suggest health vulnerability but do not prove a specific disease or immediate cause of death.
 - The succession material belongs more to court politics than health, so the science-health claim keeps it as context rather than a medical conclusion.
 

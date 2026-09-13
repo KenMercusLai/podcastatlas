@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|Hanji 452]] grounds the concept through [[XiaoWangzhiWesternHan|萧望之]]'s demotion after he shows contempt toward [[BingJiWesternHan|丙吉]]. On the surface, the error is interpersonal arrogance toward an elderly chancellor. In the episode's reading, the real risk is that Bing Ji embodies [[EmperorXuanOfHan|汉宣帝]]'s survival memory: he protected the infant Liu Xun during the witchcraft-disaster aftermath and therefore stands inside the emperor's private gratitude and political dignity.
+[[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|汉纪 452]] grounds the concept through [[XiaoWangzhiWesternHan|萧望之]]'s demotion after he shows contempt toward [[BingJiWesternHan|丙吉]]. On the surface, the error is interpersonal arrogance toward an elderly chancellor. In the episode's reading, the real risk is that Bing Ji embodies [[EmperorXuanOfHan|汉宣帝]]'s survival memory: he protected the infant Liu Xun during the witchcraft-disaster aftermath and therefore stands inside the emperor's private gratitude and political dignity.
 
 The concept is not simply "be polite." It says that status fields contain invisible attachments. A person may look weak, old, or unimportant in the current office chart while still carrying symbolic weight through past service, rescue, mentorship, kinship, or a ruler's emotional debt. Public contempt then gives rivals a usable opening: in this case, the chancellor's secretary can translate Xuan's displeasure into formal impeachment, and Xiao is moved from yushi dafu to crown-prince tutor.
 
@@ -29,12 +29,12 @@ The concept is not simply "be polite." It says that status fields contain invisi
 ## Evidence
 
 Hidden relationship weight:
-- [[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|Hanji 452]] says Bing Ji had saved and cared for the infant Liu Xun, making him Xuan's benefactor rather than merely another senior official.
-- [[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|Hanji 452]] says Xiao's contempt toward Bing Ji makes Xuan unhappy because it can be read as disrespect toward the emperor's own gratitude order.
+- [[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|汉纪 452]] says Bing Ji had saved and cared for the infant Liu Xun, making him Xuan's benefactor rather than merely another senior official.
+- [[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|汉纪 452]] says Xiao's contempt toward Bing Ji makes Xuan unhappy because it can be read as disrespect toward the emperor's own gratitude order.
 
 Formal pretext and calibrated punishment:
-- [[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|Hanji 452]] says the chancellor's secretary impeaches Xiao for arrogance toward Bing Ji and improper household-market conduct.
-- [[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|Hanji 452]] says Xuan removes Xiao from yushi dafu and makes him taizi taifu, while appointing Huang Ba as yushi dafu.
+- [[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|汉纪 452]] says the chancellor's secretary impeaches Xiao for arrogance toward Bing Ji and improper household-market conduct.
+- [[zizhi-tongjian-hanji-452-xiaowangzhi-bei-jiangzhi-ni-zaizhichang-fanguo-zhezhong-cuo-ma-likmpw-97b-o3p5qaxgyyourkldn|汉纪 452]] says Xuan removes Xiao from yushi dafu and makes him taizi taifu, while appointing Huang Ba as yushi dafu.
 
 ## Counterevidence & Qualifications
 
@@ -42,7 +42,7 @@ This concept is currently grounded in one podcast source. It should not be gener
 
 ## What Changed
 
-- Created the concept from Hanji 452's reading of Xiao Wangzhi's contempt toward Bing Ji and Emperor Xuan's calibrated demotion.
+- Created the concept from 汉纪 452's reading of Xiao Wangzhi's contempt toward Bing Ji and Emperor Xuan's calibrated demotion.
 
 ## Related Concepts
 

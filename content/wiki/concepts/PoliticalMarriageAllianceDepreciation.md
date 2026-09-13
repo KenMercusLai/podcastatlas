@@ -16,15 +16,15 @@ Political marriage alliance depreciation / 政治婚姻联盟折价 is the patte
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] now supplies the direct origin layer for the [[GuoShengtong|郭圣通]] case. [[LiuXiu|刘秀]] is still weak in Hebei after escaping [[WangLangHebeiClaimant|王郎]]'s pursuit. [[LiuYangZhendingKingEasternHan|真定王刘杨]] initially leans toward Wang Lang, but [[LiuZhiChangchengEasternHan|刘植]] persuades him to submit, and Liu Xiu marries Liu Yang's niece Guo Shengtong to strengthen the Zhending alliance.
+[[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] now supplies the direct origin layer for the [[GuoShengtong|郭圣通]] case. [[LiuXiu|刘秀]] is still weak in Hebei after escaping [[WangLangHebeiClaimant|王郎]]'s pursuit. [[LiuYangZhendingKingEasternHan|真定王刘杨]] initially leans toward Wang Lang, but [[LiuZhiChangchengEasternHan|刘植]] persuades him to submit, and Liu Xiu marries Liu Yang's niece Guo Shengtong to strengthen the Zhending alliance.
 
-[[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] supplies an early payoff layer for [[GuoShengtong|郭圣通]]'s branch. The source says [[YinLihua|阴丽华]] refuses the empress position because Guo has already borne a son, so [[LiuXiu|刘秀]] makes Guo empress and makes [[LiuQiangDonghaiKing|刘强]] crown prince. It also identifies Guo as [[LiuYangZhendingKingEasternHan|真定王刘杨]]'s niece, keeping the appointment connected to the earlier Hebei kinship-alliance field.
+[[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|汉纪 686]] supplies an early payoff layer for [[GuoShengtong|郭圣通]]'s branch. The source says [[YinLihua|阴丽华]] refuses the empress position because Guo has already borne a son, so [[LiuXiu|刘秀]] makes Guo empress and makes [[LiuQiangDonghaiKing|刘强]] crown prince. It also identifies Guo as [[LiuYangZhendingKingEasternHan|真定王刘杨]]'s niece, keeping the appointment connected to the earlier Hebei kinship-alliance field.
 
-[[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] grounds the depreciation side through Guo, Liu Xiu, and Liu Yang. The episode says Liu Xiu's marriage to Guo should be read as a founding-era Hebei alliance because Liu Yang's military support mattered during Liu Xiu's weak Wang Lang-crisis phase.
+[[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] grounds the depreciation side through Guo, Liu Xiu, and Liu Yang. The episode says Liu Xiu's marriage to Guo should be read as a founding-era Hebei alliance because Liu Yang's military support mattered during Liu Xiu's weak Wang Lang-crisis phase.
 
 Once Liu Xiu consolidates, that alliance no longer supplies the same bargaining value. Guo remains an empress and mother of sons, but her political protection erodes when Liu Xiu's preference for Yin Lihua can be converted into a formal palace change. The result is not a simple romance story or a simple moral verdict on Liu Xiu: the source reads the deposition as a shift in coalition value, palace affection, omen language, and succession consequences.
 
-The concept connects marriage politics to later succession risk. Guo's demotion helps explain why Liu Qiang becomes vulnerable in Hanji 720, while Liu Fu and other sons receive titles as a lower-conflict compensation branch. Depreciation therefore means the marriage tie loses central leverage, not that the affected branch disappears.
+The concept connects marriage politics to later succession risk. Guo's demotion helps explain why Liu Qiang becomes vulnerable in 汉纪 720, while Liu Fu and other sons receive titles as a lower-conflict compensation branch. Depreciation therefore means the marriage tie loses central leverage, not that the affected branch disappears.
 
 ## Key Claims
 
@@ -38,26 +38,26 @@ The concept connects marriage politics to later succession risk. Guo's demotion 
 
 ## Evidence
 
-- Direct alliance formation: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|Hanji 670]] says Liu Yang submits after Liu Zhi's persuasion and Liu Xiu marries Guo Shengtong to strengthen the Zhending connection.
-- Early status payoff: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] says Guo becomes empress and Liu Qiang crown prince after Yin Lihua declines because Guo has borne a son.
-- Kinship field: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|Hanji 686]] identifies Guo as Liu Yang's niece when explaining the empress decision.
-- Founding alliance: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] says Liu Yang's support made the Guo marriage politically valuable during Liu Xiu's Hebei weakness.
-- Declining leverage: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] interprets Guo's later vulnerability through the reduced need for Liu Yang's alliance after consolidation.
-- Emotional preference: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] emphasizes Liu Xiu's long-standing attachment to Yin Lihua and the phrase about wishing to marry her.
-- Public-political handling: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] records Zhi Yun's warning that empress deposition is a state-foundation matter and Liu Xiu's order that officials not congratulate the change.
-- Soft landing: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] says Guo is given Zhongshan Taihou status and her sons receive kingships or enlarged fiefs rather than being eliminated.
-- Succession setup: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|Hanji 719]] makes Guo's demotion the precursor to the Liu Qiang maternal-status vulnerability developed in Hanji 720.
+- Direct alliance formation: [[zizhi-tongjian-hanji-670-juejing-qiusheng-liuxiu-xianru-shengsi-da-weiji-ltz1nciofev4cqjkod-p8mmwovhe|汉纪 670]] says Liu Yang submits after Liu Zhi's persuasion and Liu Xiu marries Guo Shengtong to strengthen the Zhending connection.
+- Early status payoff: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|汉纪 686]] says Guo becomes empress and Liu Qiang crown prince after Yin Lihua declines because Guo has borne a son.
+- Kinship field: [[zizhi-tongjian-hanji-686-liuxiu-fashi-zhi-ai-yinlihua-weihe-li-guoshi-wei-hou-lnqlqgq54srb1zzzgemfwuwujhvc|汉纪 686]] identifies Guo as Liu Yang's niece when explaining the empress decision.
+- Founding alliance: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] says Liu Yang's support made the Guo marriage politically valuable during Liu Xiu's Hebei weakness.
+- Declining leverage: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] interprets Guo's later vulnerability through the reduced need for Liu Yang's alliance after consolidation.
+- Emotional preference: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] emphasizes Liu Xiu's long-standing attachment to Yin Lihua and the phrase about wishing to marry her.
+- Public-political handling: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] records Zhi Yun's warning that empress deposition is a state-foundation matter and Liu Xiu's order that officials not congratulate the change.
+- Soft landing: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] says Guo is given Zhongshan Taihou status and her sons receive kingships or enlarged fiefs rather than being eliminated.
+- Succession setup: [[zizhi-tongjian-hanji-719-guangwudi-liuxiu-suanbusuan-zhanan-lk8eme3wwyk5qkjjfxkp0zsc77ix|汉纪 719]] makes Guo's demotion the precursor to the Liu Qiang maternal-status vulnerability developed in 汉纪 720.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in three source notes and should not be treated as a universal rule for imperial marriages. Hanji 670 proves the direct alliance-making moment but does not reconstruct Guo's agency or Liu Yang's full local power base. Hanji 686 proves the early empress/crown-prince payoff but does not independently reconstruct the full Hebei alliance logic; Hanji 719 supplies that analysis more directly. Hanji 719 includes gendered and moralizing host commentary about Guo's resentment; the wiki preserves that as source-scoped interpretation, not independent evidence about Guo's inner life. Depreciation also does not mean immediate destruction: Liu Xiu gives Guo and her sons titles and status, so the branch loses central leverage while remaining honored.
+The concept is currently grounded in three source notes and should not be treated as a universal rule for imperial marriages. 汉纪 670 proves the direct alliance-making moment but does not reconstruct Guo's agency or Liu Yang's full local power base. 汉纪 686 proves the early empress/crown-prince payoff but does not independently reconstruct the full Hebei alliance logic; 汉纪 719 supplies that analysis more directly. 汉纪 719 includes gendered and moralizing host commentary about Guo's resentment; the wiki preserves that as source-scoped interpretation, not independent evidence about Guo's inner life. Depreciation also does not mean immediate destruction: Liu Xiu gives Guo and her sons titles and status, so the branch loses central leverage while remaining honored.
 
 ## What Changed
 
-- Added Hanji 670 as the direct alliance-formation layer where Liu Xiu marries Guo after Liu Yang's Zhending submission.
-- Preserved Hanji 686 as the early payoff layer where Guo's branch receives empress and crown-prince status.
+- Added 汉纪 670 as the direct alliance-formation layer where Liu Xiu marries Guo after Liu Yang's Zhending submission.
+- Preserved 汉纪 686 as the early payoff layer where Guo's branch receives empress and crown-prince status.
 - Reframed the concept as alliance formation, formal status conversion, and later depreciation rather than only the later 41 CE demotion.
-- Preserved Hanji 719 as the main source for the Hebei alliance and deposition interpretation.
+- Preserved 汉纪 719 as the main source for the Hebei alliance and deposition interpretation.
 
 ## Related Concepts
 

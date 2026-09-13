@@ -19,7 +19,7 @@ last_updated: 2026-08-30
 
 ## Current Profile
 
-Hanji 774 supplies a family and exposure prelude rather than a mature policy role. As Ban Chao grows old in the Western Regions, he sends Ban Yong inward with an Anxi tribute mission so the son can see the central lands while the father keeps asking to return. The episode does not yet present Ban Yong as a decision-maker, but it makes the later court habit of treating him as a Ban-family Western Regions expert more legible.
+汉纪 774 supplies a family and exposure prelude rather than a mature policy role. As Ban Chao grows old in the Western Regions, he sends Ban Yong inward with an Anxi tribute mission so the son can see the central lands while the father keeps asking to return. The episode does not yet present Ban Yong as a decision-maker, but it makes the later court habit of treating him as a Ban-family Western Regions expert more legible.
 
 Ban Yong's earliest substantive policy layer is strategic advice under Deng's regency. After [[Xiongnu|Northern Xiongnu]] attacks Yiwu, kills the Han long clerk Suo Ban, and threatens Han-aligned Shanshan through Cheshi pressure, Empress Dowager Deng asks Ban Yong to evaluate two court options: Cao Zong's request for a five-thousand-soldier punitive expedition and the ministers' proposal to close the western passes and abandon the Western Regions.
 
@@ -33,7 +33,7 @@ Ban Yong's first operational layer follows in 124 CE. He reaches Loulan, Shansha
 
 The 125 CE campaign layer shows Ban Yong combining Han commandery cavalry and allied Western Regions forces. As Western Regions chief clerk, he mobilizes cavalry and allied forces from Dunhuang, Zhangye, Jiuquan, Shule, Shanshan, and Cheshi Qian against [[CheshiHouKingdomLateHan|车师后王国]]. The campaign kills thousands, captures King Junjiu and a [[Xiongnu|Xiongnu]] envoy, and executes them at Suo Ban's death site before sending the heads to [[LuoyangLateHan|Luoyang]].
 
-In [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]], Ban Yong rebuilds Han leverage through local kingship decisions. He installs Jiatenu as king of Cheshi Hou, replaces another local ruler with a same-clan alternative, and helps bring Cheshi and five other Western Regions polities back under Han alignment.
+In [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]], Ban Yong rebuilds Han leverage through local kingship decisions. He installs Jiatenu as king of Cheshi Hou, replaces another local ruler with a same-clan alternative, and helps bring Cheshi and five other Western Regions polities back under Han alignment.
 
 His anti-[[Xiongnu|Northern Xiongnu]] operation is both military and political. Ban Yong organizes Western Regions troops, receives a large surrender after the Huyan king flees, captures a Xiongnu royal kinsman, and has Jiatenu execute him personally. The source reads that move as a way to make Cheshi's reconciliation with Northern Xiongnu harder and therefore bind the dependent kingdom more tightly to Han.
 
@@ -51,29 +51,29 @@ The Yanqi case turns that competence into vulnerability. Ban Yong asks to attack
 
 ## Evidence
 
-- Ban-family prelude: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|Hanji 774]] says Ban Chao sends Ban Yong inward with an Anxi mission while seeking recall from the Western Regions.
-- 120 CE policy assessment: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Ban Yong rejects both Cao Zong's deep punitive expedition and court ministers' abandonment proposal.
-- Constrained forward posture: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Ban Yong proposes a Western Regions deputy commandant and a five-hundred-soldier Shanshan post backed by Dunhuang.
-- Administrative trust function: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says the offices should both manage Western Regions Hu communities and monitor Han officials so they do not harass locals.
-- Guarantee counterframe: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] has Ban Yong answer the Xiongnu guarantee question by comparing it to impossible guarantees against inland theft and crime.
-- Partial adoption: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|Hanji 791]] says Deng creates the deputy commandant with three hundred troops at Dunhuang but omits Ban Yong's Shanshan forward post.
-- 123 CE appointment: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Emperor An accepts Chen Zhong's anti-abandonment advice and appoints Ban Yong Western Regions chief clerk with five hundred troops at Liuzhong.
-- 124 CE submission chain: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Ban Yong reaches Loulan, wins Shanshan's renewed submission, pressures Qiuci king Bai Ying, and brings Gumo and Wensu into Han alignment.
-- 124 CE allied operation: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|Hanji 800]] says Ban Yong mobilizes Qiuci and other troops, drives away a Xiongnu Yili king near Cheshi Qian, receives Cheshi Qian forces, and returns to Liuzhong for tuntian.
-- 125 CE Cheshi Hou campaign: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|Hanji 803]] says Ban Yong mobilizes commandery cavalry and allied Western Regions forces, defeats Cheshi Hou, captures King Junjiu and a Xiongnu envoy, and executes them at Suo Ban's death site.
-- Western Regions restoration: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Ban Yong installs Jiatenu, replaces another local ruler, and causes Cheshi and five other Western Regions polities to return to Han alignment.
-- Commitment binding: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Ban Yong has Jiatenu personally execute a captured Northern Xiongnu royal kinsman after the Western Regions coalition campaign.
-- Punished through distorted timing: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|Hanji 807]] says Zhang Lang attacks early and accepts surrender, after which Ban Yong is recalled, jailed, and removed for supposed lateness.
+- Ban-family prelude: [[zizhi-tongjian-hanji-774-banchao-jiebanren-ruhe-gaoluan-xiyu-lnbnoc-uys8kee7pz9yecxecrpyd|汉纪 774]] says Ban Chao sends Ban Yong inward with an Anxi mission while seeking recall from the Western Regions.
+- 120 CE policy assessment: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] says Ban Yong rejects both Cao Zong's deep punitive expedition and court ministers' abandonment proposal.
+- Constrained forward posture: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] says Ban Yong proposes a Western Regions deputy commandant and a five-hundred-soldier Shanshan post backed by Dunhuang.
+- Administrative trust function: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] says the offices should both manage Western Regions Hu communities and monitor Han officials so they do not harass locals.
+- Guarantee counterframe: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] has Ban Yong answer the Xiongnu guarantee question by comparing it to impossible guarantees against inland theft and crime.
+- Partial adoption: [[zizhi-tongjian-hanji-791-zhichang-shang-zong-you-ren-beihou-yin-ni-yi-zhao-yingdui-llz74ebi88qmw-9050x2qaddjwqn|汉纪 791]] says Deng creates the deputy commandant with three hundred troops at Dunhuang but omits Ban Yong's Shanshan forward post.
+- 123 CE appointment: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|汉纪 799]] says Emperor An accepts Chen Zhong's anti-abandonment advice and appoints Ban Yong Western Regions chief clerk with five hundred troops at Liuzhong.
+- 124 CE submission chain: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|汉纪 800]] says Ban Yong reaches Loulan, wins Shanshan's renewed submission, pressures Qiuci king Bai Ying, and brings Gumo and Wensu into Han alignment.
+- 124 CE allied operation: [[zizhi-tongjian-hanji-800-yangzhen-zhisi-yi-chang-jianchen-dui-qingguan-de-jiaosha-lk9qcfs4xl-rjd-zpwdtsblybxa8|汉纪 800]] says Ban Yong mobilizes Qiuci and other troops, drives away a Xiongnu Yili king near Cheshi Qian, receives Cheshi Qian forces, and returns to Liuzhong for tuntian.
+- 125 CE Cheshi Hou campaign: [[zizhi-tongjian-hanji-803-han-shundi-ruhe-zai-xuefengxueyu-zhong-dengshang-huangwei-lqvno7t-gcgxtbs3phuflr4ybe2s|汉纪 803]] says Ban Yong mobilizes commandery cavalry and allied Western Regions forces, defeats Cheshi Hou, captures King Junjiu and a Xiongnu envoy, and executes them at Suo Ban's death site.
+- Western Regions restoration: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Ban Yong installs Jiatenu, replaces another local ruler, and causes Cheshi and five other Western Regions polities to return to Han alignment.
+- Commitment binding: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Ban Yong has Jiatenu personally execute a captured Northern Xiongnu royal kinsman after the Western Regions coalition campaign.
+- Punished through distorted timing: [[zizhi-tongjian-hanji-807-banchao-zhizi-weihe-hui-hanyuan-ruyu-liiwgi77g2on1z2vnwaf1-wvph2d|汉纪 807]] says Zhang Lang attacks early and accepts surrender, after which Ban Yong is recalled, jailed, and removed for supposed lateness.
 
 ## Qualifications
 
-This page is bounded to six episode source notes covering Ban Yong's family prelude, 120 CE policy advice and guarantee counterframing, the 123 CE Liuzhong appointment, 124 CE operations, the 125 CE Cheshi Hou campaign, and the later restoration-and-Yanqi punishment sequence. Hanji 774 does not yet show Ban Yong acting independently; it only adds the family and frontier-exposure context for his later role.
+This page is bounded to six episode source notes covering Ban Yong's family prelude, 120 CE policy advice and guarantee counterframing, the 123 CE Liuzhong appointment, 124 CE operations, the 125 CE Cheshi Hou campaign, and the later restoration-and-Yanqi punishment sequence. 汉纪 774 does not yet show Ban Yong acting independently; it only adds the family and frontier-exposure context for his later role.
 
 ## What Changed
 
-- Added Hanji 774 as Ban Yong's earliest current evidence layer through Ban Chao's Anxi-mission arrangement.
-- Reframed Hanji 791 as the first substantive policy layer rather than the first appearance of Ban Yong in the wiki.
-- Preserved Hanji 799, Hanji 800, Hanji 803, and Hanji 807 as the later operational and wrongful-blame sequence.
+- Added 汉纪 774 as Ban Yong's earliest current evidence layer through Ban Chao's Anxi-mission arrangement.
+- Reframed 汉纪 791 as the first substantive policy layer rather than the first appearance of Ban Yong in the wiki.
+- Preserved 汉纪 799, 汉纪 800, 汉纪 803, and 汉纪 807 as the later operational and wrongful-blame sequence.
 
 ## Relationships
 

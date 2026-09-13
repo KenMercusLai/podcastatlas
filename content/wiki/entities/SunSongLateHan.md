@@ -10,11 +10,11 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-孙嵩 / Sun Song is the Anqiu man in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] who recognizes that [[ZhaoQiLateHan|赵岐]] is not an ordinary market seller and shelters him after [[TangXuanLateHan|唐玹]]'s retaliation. His page is a source-bounded shelter case parallel to [[WangChengLiGuStudent|王成]]'s protection of [[LiXieLateHan|李燮]].
+孙嵩 / Sun Song is the Anqiu man in [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] who recognizes that [[ZhaoQiLateHan|赵岐]] is not an ordinary market seller and shelters him after [[TangXuanLateHan|唐玹]]'s retaliation. His page is a source-bounded shelter case parallel to [[WangChengLiGuStudent|王成]]'s protection of [[LiXieLateHan|李燮]].
 
 ## Current Profile
 
-Hanji 853 says Zhao Qi has changed his name and is selling cakes in the Beihai market after Tang Xuan destroys his household. Sun Song notices that he is not an ordinary person, invites him home, learns the truth, and then alters his house to include a broad hidden wall space where Zhao Qi can hide in danger.
+汉纪 853 says Zhao Qi has changed his name and is selling cakes in the Beihai market after Tang Xuan destroys his household. Sun Song notices that he is not an ordinary person, invites him home, learns the truth, and then alters his house to include a broad hidden wall space where Zhao Qi can hide in danger.
 
 The source uses Sun Song's action to show that survival under elite retaliation depends on both perception and risk-bearing hospitality. Zhao Qi does not reemerge until Tang Heng's brothers are dead and an amnesty makes public life safer.
 
@@ -27,10 +27,10 @@ The source uses Sun Song's action to show that survival under elite retaliation 
 
 ## Evidence
 
-- Recognition: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Sun Song sees that the disguised Zhao Qi is not an ordinary person.
-- Invitation and disclosure: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Sun Song invites Zhao Qi home and learns the truth.
-- Hidden chamber: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Sun Song prepares a wide hidden wall space to conceal Zhao Qi during danger.
-- Reemergence condition: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|Hanji 853]] says Zhao Qi comes out only after Tang Heng's brothers die and an amnesty occurs.
+- Recognition: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Sun Song sees that the disguised Zhao Qi is not an ordinary person.
+- Invitation and disclosure: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Sun Song invites Zhao Qi home and learns the truth.
+- Hidden chamber: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Sun Song prepares a wide hidden wall space to conceal Zhao Qi during danger.
+- Reemergence condition: [[zizhi-tongjian-hanji-853-jiemi-hanchao-ban-de-zhaoshi-gu-er-lvsa2pby8iyfevfoobobpik52mij|汉纪 853]] says Zhao Qi comes out only after Tang Heng's brothers die and an amnesty occurs.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ The raw source writes 孙松; this page normalizes the route to 孙嵩 while pre
 
 ## What Changed
 
-- Created the page from Hanji 853's Sun Song shelter and hidden-wall evidence.
+- Created the page from 汉纪 853's Sun Song shelter and hidden-wall evidence.
 
 ## Relationships
 

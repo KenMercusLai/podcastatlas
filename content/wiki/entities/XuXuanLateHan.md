@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-徐宣 / Xu Xuan is the Xiapi magistrate in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] whose failed attempt to take [[LiGaoRunanLateHan|李暠]]'s daughter as a concubine turns into abduction, murder, and a palace-protected retaliation case.
+徐宣 / Xu Xuan is the Xiapi magistrate in [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] whose failed attempt to take [[LiGaoRunanLateHan|李暠]]'s daughter as a concubine turns into abduction, murder, and a palace-protected retaliation case.
 
 ## Current Profile
 
@@ -28,11 +28,11 @@ The source uses Xu Xuan as the extreme local-violence case inside a broader Huan
 
 ## Evidence
 
-- Office and kinship: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] identifies Xu Xuan as Xu Huang's nephew and Xiapi magistrate.
-- Coercive demand: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Xu Xuan wants Li Gao's daughter as a concubine and is refused.
-- Murder: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Xu Xuan takes people to the Li household, binds women, and kills.
-- Execution: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says Huang Fu executes Xu Xuan publicly.
-- Political consequence: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|Hanji 872]] says the eunuch side complains and the enforcing officials are punished.
+- Office and kinship: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] identifies Xu Xuan as Xu Huang's nephew and Xiapi magistrate.
+- Coercive demand: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Xu Xuan wants Li Gao's daughter as a concubine and is refused.
+- Murder: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Xu Xuan takes people to the Li household, binds women, and kills.
+- Execution: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says Huang Fu executes Xu Xuan publicly.
+- Political consequence: [[zizhi-tongjian-hanji-872-ta-quqie-bucheng-jing-sharen-quanjia-ltbegc7gbet2-hlhwhtevvltgnlc|汉纪 872]] says the eunuch side complains and the enforcing officials are punished.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ The page does not generalize from Xu Xuan to every eunuch relative. It records o
 
 ## What Changed
 
-- Hanji 872 creates Xu Xuan's canonical page as the late-Han Xiapi magistrate whose violence triggers Huang Fu's execution and court retaliation.
+- 汉纪 872 creates Xu Xuan's canonical page as the late-Han Xiapi magistrate whose violence triggers Huang Fu's execution and court retaliation.
 
 ## Relationships
 

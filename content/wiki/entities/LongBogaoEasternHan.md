@@ -10,11 +10,11 @@ last_updated: 2026-08-31
 
 ## Overview
 
-龙伯高 / Long Bogao enters the wiki through Ma Yuan's warning letter in Hanji 725 as the positive model of disciplined learning, speech, ritual conduct, and office service. His function in the source is exemplary: [[MaYuanEasternHan|Ma Yuan]] tells his nephews that even imperfect imitation of Long Bogao would still make them cautious and modest.
+龙伯高 / Long Bogao enters the wiki through Ma Yuan's warning letter in 汉纪 725 as the positive model of disciplined learning, speech, ritual conduct, and office service. His function in the source is exemplary: [[MaYuanEasternHan|Ma Yuan]] tells his nephews that even imperfect imitation of Long Bogao would still make them cautious and modest.
 
 ## Current Profile
 
-Hanji 725 presents Long Bogao as an Eastern Han scholar-official who values learning, careful speech, ritual propriety, and moral conduct. The episode says he later serves as Shandu chief, remains clean and diligent, and wins popular support.
+汉纪 725 presents Long Bogao as an Eastern Han scholar-official who values learning, careful speech, ritual propriety, and moral conduct. The episode says he later serves as Shandu chief, remains clean and diligent, and wins popular support.
 
 Long Bogao matters because he gives Ma Yuan's letter a safe model of aspiration. The point is not that every young relative can become Long Bogao; it is that aspiring toward a disciplined and reputable person produces a tolerable failure mode. If the nephews cannot reach the model, they may still become careful, humble people.
 
@@ -27,9 +27,9 @@ Long Bogao matters because he gives Ma Yuan's letter a safe model of aspiration.
 
 ## Evidence
 
-- Positive model: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] says Ma Yuan names Long Bogao as the person his nephews should learn from.
-- Conduct profile: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] describes Long Bogao as serious about learning, speech, ritual, and morality.
-- Official reputation: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|Hanji 725]] says he serves as Shandu chief, works cleanly and diligently, and is supported by the people.
+- Positive model: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|汉纪 725]] says Ma Yuan names Long Bogao as the person his nephews should learn from.
+- Conduct profile: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|汉纪 725]] describes Long Bogao as serious about learning, speech, ritual, and morality.
+- Official reputation: [[zizhi-tongjian-hanji-725-donghan-mingjiang-jitong-yao-baojiaweiguo-jiu-ba-diren-da-paxia-lq06wntw8k5230zmlncquykara9y|汉纪 725]] says he serves as Shandu chief, works cleanly and diligently, and is supported by the people.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ The page currently rests on one podcast source and does not reconstruct Long Bog
 
 ## What Changed
 
-- Created this page from Hanji 725 as the positive exemplar in Ma Yuan's letter.
+- Created this page from 汉纪 725 as the positive exemplar in Ma Yuan's letter.
 
 ## Relationships
 

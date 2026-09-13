@@ -12,15 +12,15 @@ last_updated: 2026-08-30
 
 ## Overview
 
-张乔 / Zhang Qiao is a late-Han frontier official whose current profile now begins with an earlier Yizhou dispatch before his 123 CE Maoniu Yi victory and later Jiaozhi precedent use. [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] shows him sending [[YangSongLateHan|Yang Song]] to defeat Feng Li and clean up abusive officials; [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says he defeats the Maoniu Yi rebellion as Yizhou inspector in 123 CE; [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] later has [[LiGuLateHan|李固]] cite that Yizhou success as precedent before recommending Zhang Qiao for the 138 CE Jiaozhi crisis.
+张乔 / Zhang Qiao is a late-Han frontier official whose current profile now begins with an earlier Yizhou dispatch before his 123 CE Maoniu Yi victory and later Jiaozhi precedent use. [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|汉纪 790]] shows him sending [[YangSongLateHan|Yang Song]] to defeat Feng Li and clean up abusive officials; [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|汉纪 799]] says he defeats the Maoniu Yi rebellion as Yizhou inspector in 123 CE; [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] later has [[LiGuLateHan|李固]] cite that Yizhou success as precedent before recommending Zhang Qiao for the 138 CE Jiaozhi crisis.
 
 ## Current Profile
 
-Hanji 790 supplies the earliest current action. As Yizhou inspector, Zhang Qiao sends Yang Song against Feng Li. Yang Song defeats the rebels, accepts surrender, treats Feng Li generously, receives the submission of thirty-six tribal groups, and reports more than ninety abusive local officials for punishment. This makes Zhang Qiao's Yizhou reputation more concrete than a single later victory: it begins with delegated coercion, leniency, and administrative correction.
+汉纪 790 supplies the earliest current action. As Yizhou inspector, Zhang Qiao sends Yang Song against Feng Li. Yang Song defeats the rebels, accepts surrender, treats Feng Li generously, receives the submission of thirty-six tribal groups, and reports more than ninety abusive local officials for punishment. This makes Zhang Qiao's Yizhou reputation more concrete than a single later victory: it begins with delegated coercion, leniency, and administrative correction.
 
-Hanji 799 supplies the next direct action. In spring 123 CE, Maoniu Yi rebels rise and are defeated by Zhang Qiao, then serving as Yizhou inspector. The source does not describe his method in detail, but it confirms that his Yizhou success is not only a later rhetorical memory.
+汉纪 799 supplies the next direct action. In spring 123 CE, Maoniu Yi rebels rise and are defeated by Zhang Qiao, then serving as Yizhou inspector. The source does not describe his method in detail, but it confirms that his Yizhou success is not only a later rhetorical memory.
 
-[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] then presents Zhang Qiao as a Nanyang man with prior success as Yizhou inspector. After Yin Jiu's campaign alienates local people, Zhang Qiao uses existing commanders and forces to settle the Yizhou rebellion quickly, making him Li Gu's proof that familiarity and trust can matter more than force size.
+[[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] then presents Zhang Qiao as a Nanyang man with prior success as Yizhou inspector. After Yin Jiu's campaign alienates local people, Zhang Qiao uses existing commanders and forces to settle the Yizhou rebellion quickly, making him Li Gu's proof that familiarity and trust can matter more than force size.
 
 In the 138 CE branch, Li Gu recommends Zhang Qiao alongside [[ZhuLiangLateHan|祝良]]. [[EmperorShunOfHan|汉顺帝]] accepts the plan and appoints Zhang Qiao as Jiaozhi inspector. Zhang Qiao then uses open reassurance and surrender policy to induce the rebels to submit and disperse.
 
@@ -35,21 +35,21 @@ In the 138 CE branch, Li Gu recommends Zhang Qiao alongside [[ZhuLiangLateHan|�
 
 ## Evidence
 
-- Delegated Yizhou pacification: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|Hanji 790]] says Yizhou inspector Zhang Qiao sends Yang Song against Feng Li, after which military victory, lenient settlement, tribal submission, and punishment of abusive officials follow.
-- Direct Yizhou success: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|Hanji 799]] says Yizhou inspector Zhang Qiao defeats the Maoniu Yi rebellion in 123 CE.
-- Yizhou precedent: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu cites Zhang Qiao's earlier Yizhou success after Yin Jiu's harsh campaign fails.
-- Appointment: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Li Gu recommends Zhang Qiao and Shun appoints him as Jiaozhi inspector.
-- Pacification outcome: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|Hanji 819]] says Zhang Qiao reassures and persuades the rebels until they surrender and disperse.
+- Delegated Yizhou pacification: [[zizhi-tongjian-hanji-790-lishi-gaosu-ni-ruhe-he-lingdao-da-jiaodao-lulf0r1sdkod3luzwru0-kkrijxk|汉纪 790]] says Yizhou inspector Zhang Qiao sends Yang Song against Feng Li, after which military victory, lenient settlement, tribal submission, and punishment of abusive officials follow.
+- Direct Yizhou success: [[zizhi-tongjian-hanji-799-donghan-mingchen-yangzhen-ruhe-jujue-zou-houmen-lmufb7lvb-kzsvjtn6iu-zrpiptf|汉纪 799]] says Yizhou inspector Zhang Qiao defeats the Maoniu Yi rebellion in 123 CE.
+- Yizhou precedent: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] says Li Gu cites Zhang Qiao's earlier Yizhou success after Yin Jiu's harsh campaign fails.
+- Appointment: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] says Li Gu recommends Zhang Qiao and Shun appoints him as Jiaozhi inspector.
+- Pacification outcome: [[zizhi-tongjian-hanji-819-2-ren-gong-bi-4-wanren-tade-quanmou-lingren-paianjuejue-lsslj3y-krnd8h-c8x5pgsqeinff|汉纪 819]] says Zhang Qiao reassures and persuades the rebels until they surrender and disperse.
 
 ## Qualifications
 
-This page is bounded to Hanji 819, Hanji 799, and Hanji 790 and does not reconstruct Zhang Qiao's full career. Hanji 790 supplies an earlier Yizhou layer through Yang Song's delegated campaign, Hanji 799 confirms Zhang Qiao's later Maoniu Yi victory, and Hanji 819 supplies the later argumentative use and Jiaozhi pacification layer. Yang Song's exact character form remains source-scoped.
+This page is bounded to 汉纪 819, 汉纪 799, and 汉纪 790 and does not reconstruct Zhang Qiao's full career. 汉纪 790 supplies an earlier Yizhou layer through Yang Song's delegated campaign, 汉纪 799 confirms Zhang Qiao's later Maoniu Yi victory, and 汉纪 819 supplies the later argumentative use and Jiaozhi pacification layer. Yang Song's exact character form remains source-scoped.
 
 ## What Changed
 
-- Added Hanji 790 as the earliest current Zhang Qiao layer, linking him to Yang Song's Feng Li campaign and administrative cleanup.
-- Preserved Hanji 799 as direct 123 CE evidence for Zhang Qiao's Yizhou success.
-- Reframed Hanji 819's Yizhou reference as later reuse of an already source-attested precedent.
+- Added 汉纪 790 as the earliest current Zhang Qiao layer, linking him to Yang Song's Feng Li campaign and administrative cleanup.
+- Preserved 汉纪 799 as direct 123 CE evidence for Zhang Qiao's Yizhou success.
+- Reframed 汉纪 819's Yizhou reference as later reuse of an already source-attested precedent.
 - Preserved Zhang Qiao's Jiaozhi inspector role and Li Gu's appointment-quality argument.
 
 ## Relationships

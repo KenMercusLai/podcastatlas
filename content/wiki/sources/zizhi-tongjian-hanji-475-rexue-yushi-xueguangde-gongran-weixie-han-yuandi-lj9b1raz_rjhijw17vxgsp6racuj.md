@@ -14,7 +14,7 @@ last_updated: 2026-09-12
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 1 / 43 BCE under [[HanYuandi|汉元帝]], before the existing Hanji 478-481 sequence. It centers [[XueGuangdeWesternHan|薛广德]] as a newly appointed Yushi Dafu who first stops Yuan from hunting during famine conditions, then dramatically blocks Yuan's carriage to oppose a river-crossing by boat.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Yongguang 1 / 43 BCE under [[HanYuandi|汉元帝]], before the existing 汉纪 478-481 sequence. It centers [[XueGuangdeWesternHan|薛广德]] as a newly appointed Yushi Dafu who first stops Yuan from hunting during famine conditions, then dramatically blocks Yuan's carriage to oppose a river-crossing by boat.
 
 The durable synthesis is that correct advice can fail if its delivery humiliates or coerces the ruler. Xue's public death threat turns safety counsel into pressure, while [[ZhangMengWesternHan|张猛 / 张萌]] preserves the same substance by praising Yuan's receptiveness and then naming autumn wind, wide water, and dangerous waves as practical reasons to use the bridge. The host extends the case into [[FaceSavingRemonstrance|留面子式进谏包装]] and [[ResponsibilityBoundRiskAvoidance|责任绑定风险回避]]: people carrying public responsibility should not gamble with avoidable danger, and advice lands better when it lets the listener accept it without losing dignity.
 

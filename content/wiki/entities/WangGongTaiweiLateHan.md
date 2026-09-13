@@ -11,19 +11,19 @@ last_updated: 2026-08-29
 
 ## Overview
 
-王龚 / Wang Gong (Taiwei, late Han) now appears through two bounded roles. [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] shows him earlier as a Runan administrator who honors talent, appoints [[YuanLangLateHan|袁朗]] as gongcao, and recommends [[HuangXianLateHan|黄宪]] and [[ChenFanLateHan|陈蕃]]. [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] later shows him as a Shun-era taiwei whose anti-eunuch accusation is canceled only after [[LiGuLateHan|李固]] and [[LiangShangLateHan|梁商]] intervene.
+王龚 / Wang Gong (Taiwei, late Han) now appears through two bounded roles. [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] shows him earlier as a Runan administrator who honors talent, appoints [[YuanLangLateHan|袁朗]] as gongcao, and recommends [[HuangXianLateHan|黄宪]] and [[ChenFanLateHan|陈蕃]]. [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] later shows him as a Shun-era taiwei whose anti-eunuch accusation is canceled only after [[LiGuLateHan|李固]] and [[LiangShangLateHan|梁商]] intervene.
 
 ## Current Profile
 
-Hanji 798 gives Wang Gong's local-governance and reputation role. As Runan governor, he does not use office only as command authority; the episode emphasizes his respect for worthy people. He appoints Yuan Lang as gongcao and recommends Huang Xian and Chen Fan, placing him in a Runan talent field where official attention can make hidden or low-born worth visible.
+汉纪 798 gives Wang Gong's local-governance and reputation role. As Runan governor, he does not use office only as command authority; the episode emphasizes his respect for worthy people. He appoints Yuan Lang as gongcao and recommends Huang Xian and Chen Fan, placing him in a Runan talent field where official attention can make hidden or low-born worth visible.
 
 That local role matters because Huang Xian refuses to become a normal career figure. Wang Gong's recommendation therefore does not simply supply personnel; it helps preserve a record of moral recognition. In this source, Wang functions as an official who can recognize people whose significance is not measured by title.
 
-Hanji 818 then gives the high-office conflict layer. After becoming taiwei in 136 CE, Wang Gong submits a forceful memorial against eunuch domination and lists their offenses, but the eunuch side answers by using clients to accuse him in court. [[EmperorShunOfHan|汉顺帝]] orders Wang Gong to appear and explain himself, making the accusation immediately dangerous.
+汉纪 818 then gives the high-office conflict layer. After becoming taiwei in 136 CE, Wang Gong submits a forceful memorial against eunuch domination and lists their offenses, but the eunuch side answers by using clients to accuse him in court. [[EmperorShunOfHan|汉顺帝]] orders Wang Gong to appear and explain himself, making the accusation immediately dangerous.
 
 The rescue chain matters more than Wang Gong's own speech after the accusation. Li Gu writes urgently to Liang Shang, arguing that a Three Excellency should not be hauled before judicial offices unless the charge is grave enough to justify that humiliation. Liang Shang then presents the point to Shun, and Shun cancels the investigation.
 
-Later in Hanji 818, Wang Gong again wants to impeach the eunuch [[ZhangFangEunuchLateHan|张防]] and demand execution. His relatives invoke [[YangZhenLateHan|杨震]]'s fate, and Wang Gong stops, showing that even a protected escape does not erase the survival risk of direct anti-eunuch confrontation.
+Later in 汉纪 818, Wang Gong again wants to impeach the eunuch [[ZhangFangEunuchLateHan|张防]] and demand execution. His relatives invoke [[YangZhenLateHan|杨震]]'s fate, and Wang Gong stops, showing that even a protected escape does not erase the survival risk of direct anti-eunuch confrontation.
 
 ## Key Characteristics
 
@@ -37,21 +37,21 @@ Later in Hanji 818, Wang Gong again wants to impeach the eunuch [[ZhangFangEunuc
 
 ## Evidence
 
-- Runan talent field: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Wang Gong honors worthy people while serving in Runan, appoints Yuan Lang as gongcao, and recommends Huang Xian and Chen Fan.
-- Huang Xian recognition: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] uses Wang Gong's recommendation as one of the official channels by which Huang's reputation becomes visible without officeholding.
-- Taiwei and anti-eunuch speech: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Wang Gong is appointed taiwei after serving as Sikong and submits a fierce memorial against eunuch power.
-- Retaliatory accusation: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says eunuch-linked clients accuse Wang Gong and Shun orders him to present himself.
-- Rescue chain: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Li Gu writes to Liang Shang, Liang Shang speaks to Shun, and Shun cancels the inquiry.
-- Later restraint: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] says Wang Gong later abandons an impeachment plan against Zhang Fang after relatives cite Yang Zhen.
-- Disambiguation: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|Hanji 818]] supplies a Shun-era Three Excellency case, so this page is separate from [[WangGongLateHan|王肱]] of the later Dong Commandery branch.
+- Runan talent field: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Wang Gong honors worthy people while serving in Runan, appoints Yuan Lang as gongcao, and recommends Huang Xian and Chen Fan.
+- Huang Xian recognition: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] uses Wang Gong's recommendation as one of the official channels by which Huang's reputation becomes visible without officeholding.
+- Taiwei and anti-eunuch speech: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] says Wang Gong is appointed taiwei after serving as Sikong and submits a fierce memorial against eunuch power.
+- Retaliatory accusation: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] says eunuch-linked clients accuse Wang Gong and Shun orders him to present himself.
+- Rescue chain: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] says Li Gu writes to Liang Shang, Liang Shang speaks to Shun, and Shun cancels the inquiry.
+- Later restraint: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] says Wang Gong later abandons an impeachment plan against Zhang Fang after relatives cite Yang Zhen.
+- Disambiguation: [[zizhi-tongjian-hanji-818-guanchang-weishenme-yao-duo-jiaoyou-neng-jiuming-liyziudpezaoa4l6pbsq0wk2qdjdr|汉纪 818]] supplies a Shun-era Three Excellency case, so this page is separate from [[WangGongLateHan|王肱]] of the later Dong Commandery branch.
 
 ## Qualifications
 
-This page is bounded to Hanji 798 and Hanji 818 and does not reconstruct Wang Gong's full biography. Hanji 798 supplies the Runan talent-honoring layer, while Hanji 818 supplies the later high-office anti-eunuch risk layer; the page treats them as one normalized Wang Gong route because the source identification and existing route both point to the same Shanyang/Runan official profile. The Hanji 818 transcript writes 王公; the page uses 王龚 as the normalized durable route while preserving transcript uncertainty in the source note. Zhang Fang's exact title and the contents of Wang Gong's memorial remain source-scoped.
+This page is bounded to 汉纪 798 and 汉纪 818 and does not reconstruct Wang Gong's full biography. 汉纪 798 supplies the Runan talent-honoring layer, while 汉纪 818 supplies the later high-office anti-eunuch risk layer; the page treats them as one normalized Wang Gong route because the source identification and existing route both point to the same Shanyang/Runan official profile. The 汉纪 818 transcript writes 王公; the page uses 王龚 as the normalized durable route while preserving transcript uncertainty in the source note. Zhang Fang's exact title and the contents of Wang Gong's memorial remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 798 as Wang Gong's earlier Runan talent-honoring and recommendation layer.
+- Added 汉纪 798 as Wang Gong's earlier Runan talent-honoring and recommendation layer.
 - Reframed the page from only a Shun-era anti-eunuch survival case into a two-stage profile: local recognition first, court risk later.
 - Preserved the disambiguation from [[WangGongLateHan|王肱]].
 
@@ -60,7 +60,7 @@ This page is bounded to Hanji 798 and Hanji 818 and does not reconstruct Wang Go
 - [[YuanLangLateHan|袁朗]] - Runan reputation figure whom Wang Gong appoints as gongcao.
 - [[HuangXianLateHan|黄宪]] - low-born moral figure whom Wang Gong recommends.
 - [[ChenFanLateHan|陈蕃]] - later high official whom Wang Gong also recommends in the Runan branch.
-- [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - local-governance pattern Wang Gong illustrates in Hanji 798.
+- [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - local-governance pattern Wang Gong illustrates in 汉纪 798.
 - [[EmperorShunOfHan|汉顺帝]] - ruler who appoints Wang Gong taiwei and later cancels the investigation.
 - [[LiGuLateHan|李固]] - ally whose memorial starts the rescue chain.
 - [[LiangShangLateHan|梁商]] - court intermediary who carries Li Gu's defense to Shun.

@@ -10,7 +10,7 @@ last_updated: 2026-08-29
 
 ## Overview
 
-黄宪 / Huang Xian enters the wiki through [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] as a low-born Runan figure whose moral force is known almost entirely through others' reactions. [[XunShuLateHan|荀淑]], [[DaiLiangLateHan|戴良]], [[ChenFanLateHan|陈蕃]], and [[GuoTaiLateHan|郭泰]] all treat him as unusually deep, while Huang himself leaves little recorded doctrine and does not convert reputation into office.
+黄宪 / Huang Xian enters the wiki through [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] as a low-born Runan figure whose moral force is known almost entirely through others' reactions. [[XunShuLateHan|荀淑]], [[DaiLiangLateHan|戴良]], [[ChenFanLateHan|陈蕃]], and [[GuoTaiLateHan|郭泰]] all treat him as unusually deep, while Huang himself leaves little recorded doctrine and does not convert reputation into office.
 
 ## Current Profile
 
@@ -31,11 +31,11 @@ The source closes Huang Xian as a person outside office. He is recommended as xi
 
 ## Evidence
 
-- Low birth and early recognition: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Huang Xian's father was a veterinarian and that Xun Shu revered him after meeting him at fourteen.
-- Yuan Lang message: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Xun Shu tells Yuan Lang that Runan has a Yan Hui-like person, which Yuan identifies as Huang Xian.
-- Peer humility: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Dai Liang and Chen Fan use Huang as a standard that exposes their own limitations.
-- Depth comparison: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Guo Tai contrasts Yuan Lang's measurable clarity with Huang's unmeasurable depth.
-- Refusal and afterlife: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|Hanji 798]] says Huang is recommended, summoned, returns without serving, dies at forty-eight, and is later commemorated.
+- Low birth and early recognition: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Huang Xian's father was a veterinarian and that Xun Shu revered him after meeting him at fourteen.
+- Yuan Lang message: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Xun Shu tells Yuan Lang that Runan has a Yan Hui-like person, which Yuan identifies as Huang Xian.
+- Peer humility: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Dai Liang and Chen Fan use Huang as a standard that exposes their own limitations.
+- Depth comparison: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Guo Tai contrasts Yuan Lang's measurable clarity with Huang's unmeasurable depth.
+- Refusal and afterlife: [[zizhi-tongjian-hanji-798-donghan-shiqi-de-baixing-you-duo-ku-loolveumdtv4eo-omubfi5z2p2r5|汉纪 798]] says Huang is recommended, summoned, returns without serving, dies at forty-eight, and is later commemorated.
 
 ## Qualifications
 
@@ -43,7 +43,7 @@ The source gives Huang Xian through reputation anecdotes rather than direct writ
 
 ## What Changed
 
-- Created Huang Xian as the moral center of Hanji 798's Runan branch.
+- Created Huang Xian as the moral center of 汉纪 798's Runan branch.
 - Framed his importance as office-refusing moral presence rather than administrative action.
 
 ## Relationships

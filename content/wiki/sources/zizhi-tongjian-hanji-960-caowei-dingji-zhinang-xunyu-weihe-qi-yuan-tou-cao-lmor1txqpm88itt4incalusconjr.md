@@ -23,7 +23,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - Xun Yu's warning that Yingchuan is unsafe becomes [[CrisisMigrationJudgment|危局迁徙判断]] rather than only private caution. He tries to move kin and locals before [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], and other forces ravage [[Chenliu|陈留]] and Yingchuan.
 - The episode says Xun Yu originally heads toward Han Fu in Jizhou, but discovers that Yuan Shao has already taken Han Fu's position and territory.
 - Yuan Shao receives Xun Yu politely, and many Yingchuan-linked people remain with Yuan Shao, including Xun Yu's brother Xun Chen, Xin Ping, and [[GuoTu|郭图]].
-- Xun Yu nevertheless judges Yuan Shao as someone who can gather people but not use them. This makes Hanji 960 an earlier camp-choice case that anticipates [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|Hanji 1006]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]].
+- Xun Yu nevertheless judges Yuan Shao as someone who can gather people but not use them. This makes 汉纪 960 an earlier camp-choice case that anticipates [[zizhi-tongjian-hanji-1006-guojia-buman-yuanshao-weihe-que-neng-guishun-caocao-lup-p-inz1sdlhpnaggqjp0eavar|汉纪 1006]] and [[TalentAttractionThroughRespect|礼贤下士式人才吸附]].
 - Xun Yu's turn toward Cao Cao is presented as both political judgment and family risk. The episode links it to He Yong's earlier praise of Cao Cao and to Cao Cao's ability to treat advice as immediately usable.
 - Cao Cao's reception of Xun Yu is theatrical but conceptually important: the source says Cao Cao calls him his Zhang Liang and entrusts him with military documents, grain-supply responsibility, and dispatch authority.
 - The source treats the later fate of those who remain in Yingchuan as confirmation of Xun Yu's risk reading, while keeping some literary details source-scoped.
@@ -44,11 +44,11 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills t
 - [[HeYongLateHan|何颙]], [[TalentAsStateTreasure|以贤臣为宝]], [[TalentAttractionThroughRespect|礼贤下士式人才吸附]], and [[XingshiqingStrategicAssessment|行势情战略评估]] - personnel judgment and condition-sensitive choice frame.
 - [[LiJueLateHan|李傕]], [[GuoSiLateHan|郭汜]], [[ZhangJiLateHan|张济]], [[ZhuJunLateHan|朱儁]], [[Chenliu|陈留]], [[YingchuanCommandery|颍川]], and [[CrisisMigrationJudgment|危局迁徙判断]] - disorder background and survival-migration branch.
 - [[JieqiaoBattleLateHan|界桥之战]], [[QuYiLateHan|麹义]], [[GongsunZan|公孙瓒]], [[YanGangLateHan|严纲]], [[YuanShao|袁绍]], and [[ShieldCrossbowAntiCavalry|盾弩反骑兵战术]] - northern battlefield branch.
-- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|Hanji 961]] - nearby episode that follows Cao Cao's early command capacity and later has Xun Yu recommend [[ChengYu|程昱]].
-- [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|Hanji 975]] - later visible Yanzhou crisis role for Xun Yu.
+- [[zizhi-tongjian-hanji-961-neihuang-zhizhan-caocao-chulu-fengmang-ljdlt6kiu8tg0qws-jlyej-yhgxr|汉纪 961]] - nearby episode that follows Cao Cao's early command capacity and later has Xun Yu recommend [[ChengYu|程昱]].
+- [[zizhi-tongjian-hanji-975-yanzhou-zhiluan-xunyu-ruhe-bang-caocao-shou-dabenying-ln0hh4jrokkwtqsmxmqhdjzcosdr|汉纪 975]] - later visible Yanzhou crisis role for Xun Yu.
 
 ## Contradictions
 
 - No settled contradiction is recorded. The episode backfills Xun Yu's earlier choice of Cao Cao and the Jieqiao battle rather than reversing the later Yanzhou, legitimacy, or Yuan Shao adviser-use branches.
 - Source-scope caution: the ox-cart migration imagery, late-night sand-table conversation, and detailed grain-seal delegation are treated as dramatic presentation in the podcast summary, not as independently verified administrative sequence.
-- Source-scope caution: the episode compresses Cao Cao's Qingzhou-soldier position while the wiki's detailed [[QingzhouSoldiers|青州兵]] branch is grounded in Hanji 964 and Hanji 968.
+- Source-scope caution: the episode compresses Cao Cao's Qingzhou-soldier position while the wiki's detailed [[QingzhouSoldiers|青州兵]] branch is grounded in 汉纪 964 and 汉纪 968.

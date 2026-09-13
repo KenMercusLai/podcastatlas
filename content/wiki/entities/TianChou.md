@@ -8,7 +8,7 @@ last_updated: 2026-08-24
 
 # 田筹 / Tian Chou
 
-田筹 / Tian Chou enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|Hanji 972]] as a young [[YoubeipingCommandery|右北平]] figure whom [[LiuYuLateHan|刘虞]] trusts with a covert mission to [[EmperorXianOfHan|汉献帝]]. Tian Chou refuses visible envoy display, selects twenty riders, travels from [[JuyongPass|居庸关]] through frontier routes, and reaches Chang'an with Liu Yu's memorial.
+田筹 / Tian Chou enters through [[zizhi-tongjian-hanji-972-sanguo-liuyu-zhisi-taisha-taitianzhen-lvawrcandbh628rckukosgarh7v2|汉纪 972]] as a young [[YoubeipingCommandery|右北平]] figure whom [[LiuYuLateHan|刘虞]] trusts with a covert mission to [[EmperorXianOfHan|汉献帝]]. Tian Chou refuses visible envoy display, selects twenty riders, travels from [[JuyongPass|居庸关]] through frontier routes, and reaches Chang'an with Liu Yu's memorial.
 
 When the emperor appoints him qiduwei, Tian Chou refuses because the Han court is displaced and humiliated. After returning and learning Liu Yu is dead, he reads the court reply at Liu Yu's tomb and rebukes [[GongsunZan|公孙瓒]] directly, saying Liu Yu was loyal and innocent and that Gongsun Zan hates people who keep integrity.
 

@@ -15,7 +15,7 @@ knowledge_schema: synthesis-v1
 庐江郡 / Lujiang Commandery is the late-Han commandery that first tests [[YuanShu|袁术]]'s credibility with [[SunCe|孙策]] and later becomes the strong base Sun Ce captures indirectly from [[LiuXunLateHan|刘勋]].
 
 ## Current Profile
-The current synthesis presents Lujiang as a commandery whose political meaning changes over time. In Hanji 983 it is the reward Sun Ce is promised and denied, deepening the trust break with Yuan Shu. In Hanji 1038 it is Liu Xun's defensible base; Sun Ce does not batter it head-on but empties it through the Shangliao lure and then takes [[WanChengLujiang|皖城]].
+The current synthesis presents Lujiang as a commandery whose political meaning changes over time. In 汉纪 983 it is the reward Sun Ce is promised and denied, deepening the trust break with Yuan Shu. In 汉纪 1038 it is Liu Xun's defensible base; Sun Ce does not batter it head-on but empties it through the Shangliao lure and then takes [[WanChengLujiang|皖城]].
 
 ## Key Characteristics
 - Begins as [[LuKangLateHan|陆康]]'s commandery when Yuan Shu demands grain.
@@ -25,16 +25,16 @@ The current synthesis presents Lujiang as a commandery whose political meaning c
 - Falls to Sun Ce's indirect campaign after Liu Xun leaves the rear exposed.
 
 ## Evidence
-- Grain demand and reward promise: [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] has Yuan Shu demand grain from Lu Kang and promise Lujiang to Sun Ce if he wins.
-- Broken appointment: [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|Hanji 983]] says Yuan Shu appoints Liu Xun instead, making Lujiang part of the broken-promise chain after Jiujiang.
-- Defensible base: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|Hanji 1038]] frames Liu Xun's Lujiang as too strong for Sun Ce's preferred direct attack.
-- Indirect capture: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|Hanji 1038]] has Sun Ce lure Liu Xun toward Shangliao, take Wan City, capture people and ships, and appoint Li Shu to hold Lujiang.
+- Grain demand and reward promise: [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|汉纪 983]] has Yuan Shu demand grain from Lu Kang and promise Lujiang to Sun Ce if he wins.
+- Broken appointment: [[zizhi-tongjian-hanji-983-zhi-hui-pianren-de-laoban-yongyuan-bushi-hao-laoban-lknr2zydwjytjo7od-rt3zi-4k-s|汉纪 983]] says Yuan Shu appoints Liu Xun instead, making Lujiang part of the broken-promise chain after Jiujiang.
+- Defensible base: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|汉纪 1038]] frames Liu Xun's Lujiang as too strong for Sun Ce's preferred direct attack.
+- Indirect capture: [[zizhi-tongjian-hanji-1038-sanshiliu-ji-zhi-diaohu-lishan-sunce-zhiqu-wancheng-lhomk8hfdidl61degwbqtj2xkj9z|汉纪 1038]] has Sun Ce lure Liu Xun toward Shangliao, take Wan City, capture people and ships, and appoint Li Shu to hold Lujiang.
 
 ## Qualifications
 The page is about Lujiang as it appears in the Yuan Shu-Sun Ce-Liu Xun sequence. It should not be treated as a complete administrative history of the commandery.
 
 ## What Changed
-- Added Hanji 1038 as the base-security and indirect-capture branch.
+- Added 汉纪 1038 as the base-security and indirect-capture branch.
 - Migrated the page from a short chronological note to synthesis-v1.
 
 ## Relationships

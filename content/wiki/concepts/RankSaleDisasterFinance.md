@@ -17,9 +17,9 @@ last_updated: 2026-08-30
 
 ## Current Synthesis
 
-The concept now spans Qin precedent and multiple late-Han stress layers. Qinji 106 records grain-for-rank during locust and epidemic pressure. Hanji 782 adds the earliest current Eastern Han case: after Qiang war, military defeat, famine, and treasury depletion, the Three Excellencies request permission for officials and commoners to buy ranks or court-adjacent identities with money or grain.
+The concept now spans Qin precedent and multiple late-Han stress layers. Qinji 106 records grain-for-rank during locust and epidemic pressure. 汉纪 782 adds the earliest current Eastern Han case: after Qiang war, military defeat, famine, and treasury depletion, the Three Excellencies request permission for officials and commoners to buy ranks or court-adjacent identities with money or grain.
 
-Hanji 854 shows the pattern recurring in 161 CE amid palace fires, epidemic, landslides, hail, earthquakes, Qiang fighting, southern unrest, Taishan banditry, salary cuts, and loans from kings' and marquises' rents. Hanji 938 later moves the pattern toward open office-sale legitimacy damage. The durable judgment is double-edged: emergency rank sale can raise resources quickly, but it spends symbolic capital and weakens the boundary between honor, reward, office access, and purchase.
+汉纪 854 shows the pattern recurring in 161 CE amid palace fires, epidemic, landslides, hail, earthquakes, Qiang fighting, southern unrest, Taishan banditry, salary cuts, and loans from kings' and marquises' rents. 汉纪 938 later moves the pattern toward open office-sale legitimacy damage. The durable judgment is double-edged: emergency rank sale can raise resources quickly, but it spends symbolic capital and weakens the boundary between honor, reward, office access, and purchase.
 
 ## Key Claims
 
@@ -32,10 +32,10 @@ Hanji 854 shows the pattern recurring in 161 CE amid palace fires, epidemic, lan
 ## Evidence
 
 - Qin grain-for-rank precedent: [[zizhi-tongjian-qinji-106-jingren-faxian-xinlingjun-de-feizhengchang-siwang-lsj3kd2tb4tqtuvhwvsdwkh-h5el|Qinji 106]] records exchange of grain for rank during locust and epidemic pressure.
-- Earliest current Eastern Han layer: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] places purchasable ranks and court-adjacent identities after Qiang war, Luoyang famine, grain transport stress, and budget depletion.
-- Later late-Han crisis package: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] puts status sale beside fires, epidemic, landslides, hail, earthquakes, frontier fighting, southern unrest, salary reductions, and noble rent loans.
-- Monetized title menu: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|Hanji 782]] and [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|Hanji 854]] both name purchasable categories such as Guannei Hou, Huben, Yulin, and Wuguan Dafu-like identities.
-- Legitimacy damage after repetition: [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|Hanji 938]] supplies the later office-sale frame where monetized appointment becomes a sign of systemic weakness.
+- Earliest current Eastern Han layer: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|汉纪 782]] places purchasable ranks and court-adjacent identities after Qiang war, Luoyang famine, grain transport stress, and budget depletion.
+- Later late-Han crisis package: [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] puts status sale beside fires, epidemic, landslides, hail, earthquakes, frontier fighting, southern unrest, salary reductions, and noble rent loans.
+- Monetized title menu: [[zizhi-tongjian-hanji-782-jiemi-donghan-qi-nvzi-jiannan-de-taihou-shengya-lgfljux9aaocptbhxvvifitrgxcy|汉纪 782]] and [[zizhi-tongjian-hanji-854-lishi-gaosu-ni-xuanguan-yongguan-hen-zhongyao-lhin-iwk6y1xr8vvzdmnjch3s2um|汉纪 854]] both name purchasable categories such as Guannei Hou, Huben, Yulin, and Wuguan Dafu-like identities.
+- Legitimacy damage after repetition: [[zizhi-tongjian-hanji-938-lishi-de-jingxing-ruanruo-zhihui-dailai-quru-lnlnrketgfbadhfjbzdjjtrmqfsh|汉纪 938]] supplies the later office-sale frame where monetized appointment becomes a sign of systemic weakness.
 
 ## Counterevidence & Qualifications
 
@@ -43,8 +43,8 @@ The source set does not prove that every purchaser received governing authority.
 
 ## What Changed
 
-- Added Hanji 782 as the earliest current Eastern Han rank-sale layer under Deng's regency.
-- Reframed Hanji 854 as a later recurrence rather than the first late-Han case in the current wiki.
+- Added 汉纪 782 as the earliest current Eastern Han rank-sale layer under Deng's regency.
+- Reframed 汉纪 854 as a later recurrence rather than the first late-Han case in the current wiki.
 - Tightened the distinction between rank/status sale and full office sale while preserving the legitimacy-risk trajectory.
 
 ## Related Concepts

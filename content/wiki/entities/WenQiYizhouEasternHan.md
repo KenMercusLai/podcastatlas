@@ -9,7 +9,7 @@ last_updated: 2026-09-01
 ---
 
 ## Overview
-Wen Qi is the Yizhou commandery administrator in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] who resists Gongsun Shu's pressure, secretly submits to Liu Xiu, and is later rewarded after Shu is pacified.
+Wen Qi is the Yizhou commandery administrator in [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] who resists Gongsun Shu's pressure, secretly submits to Liu Xiu, and is later rewarded after Shu is pacified.
 
 ## Current Profile
 The episode says Wang Mang had appointed Wen Qi as Yizhou commandery taishou. Rather than ruling extractively, he farms, trains troops, settles local groups, and holds strategic ground, giving him a durable local base during the transition.
@@ -25,15 +25,15 @@ Gongsun Shu tries to win or coerce Wen Qi by taking his family hostage and offer
 - Evidence point for Liu Xiu converting local integrity into imperial incorporation.
 
 ## Evidence
-- Local governance base: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Wen Qi farms, trains troops, settles local groups, and holds strategic terrain in Yizhou.
-- Resistance to coercion: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Gongsun Shu holds Wen Qi's family and offers a marquis title, while Wen Qi refuses and secretly submits to Liu Xiu.
-- Imperial reward: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|Hanji 713]] says Liu Xiu summons Wen Qi as Zhenyuan Jiangjun and enfeoffs him as Chengyi Hou.
+- Local governance base: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Wen Qi farms, trains troops, settles local groups, and holds strategic terrain in Yizhou.
+- Resistance to coercion: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Gongsun Shu holds Wen Qi's family and offers a marquis title, while Wen Qi refuses and secretly submits to Liu Xiu.
+- Imperial reward: [[zizhi-tongjian-hanji-713-liuxiu-nu-le-mingjiang-wuhan-jing-xuexi-chengdu-lv6555l99it33gw34uydsz4tkbje|汉纪 713]] says Liu Xiu summons Wen Qi as Zhenyuan Jiangjun and enfeoffs him as Chengyi Hou.
 
 ## Qualifications
 This page is distinct from [[WenQi]], the modern actor page already in the wiki. The semantic suffix preserves the lowercased public route and identity boundary.
 
 ## What Changed
-- Created this page to capture Wen Qi as the Yizhou local-governance and anti-Gongsun Shu loyalty case in Hanji 713.
+- Created this page to capture Wen Qi as the Yizhou local-governance and anti-Gongsun Shu loyalty case in 汉纪 713.
 
 ## Relationships
 - [[LiuXiu]] - emperor to whom Wen Qi secretly submits and from whom he later receives reward.

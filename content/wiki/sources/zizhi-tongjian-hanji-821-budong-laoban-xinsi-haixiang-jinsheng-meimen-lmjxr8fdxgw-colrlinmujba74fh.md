@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 141 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]]. It pairs a workplace [[PromotionPositionFit|promotion-position-fit]] frame with Shun's Qiang-frontier decisions: [[MaXianLateHan|马贤]] delays after being chosen over objections, [[MaRongLateHan|马融]] and [[HuangfuGuiLateHan|皇甫规]] warn that the campaign is being mismanaged, and Ma Xian dies at Shegu Mountain with his sons.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 141 CE [[EmperorShunOfHan|汉顺帝]] layer immediately before [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|汉纪 822]]. It pairs a workplace [[PromotionPositionFit|promotion-position-fit]] frame with Shun's Qiang-frontier decisions: [[MaXianLateHan|马贤]] delays after being chosen over objections, [[MaRongLateHan|马融]] and [[HuangfuGuiLateHan|皇甫规]] warn that the campaign is being mismanaged, and Ma Xian dies at Shegu Mountain with his sons.
 
 The second half follows [[ZhaoChongLateHan|赵冲]]'s partial pursuit-and-surrender success, Huangfu Gui's root-cause diagnosis of frontier corruption and exhausted soldiers, and the Liang-family transition after [[LiangShangLateHan|梁商]] dies. [[LiangJiLateHan|梁冀]] becomes Grand General despite known violence, which the source treats as an early causal layer for later [[OuterRelativeCourtPower|outer-relative court power]].
 
@@ -46,11 +46,11 @@ The second half follows [[ZhaoChongLateHan|赵冲]]'s partial pursuit-and-surren
 - [[ZhaoChongLateHan|赵冲]], [[LiangzhouLateHan|凉州]], [[LongxiCommandery|陇西郡]], and [[GuanzhongRegion|关中地区]] - the episode locates Qiang pressure across the western frontier and central-region security field.
 - [[LiangShangLateHan|梁商]], [[LiangJiLateHan|梁冀]], [[LiangBuyiLateHan|梁不疑]], and [[OuterRelativeCourtPower|外戚专权与清算]] - Liang Shang's death turns family succession into the first explicit office handoff to Liang Ji.
 - [[ZhouJuLateHan|周举]] - Liang Shang's recommended official whose omen reading and later appointment make remonstrance part of the episode's close.
-- [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|Hanji 822]] and [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|Hanji 824]] - downstream Shun-era notes that this episode helps preface.
+- [[zizhi-tongjian-hanji-822-chailang-dangdao-ta-jiang-maotou-zhizhi-huangdi-yuefu-lqhpmayvd3p07byr-zoiv-jyhdv|汉纪 822]] and [[zizhi-tongjian-hanji-824-weishenme-women-yao-xue-shouzhuo-lpssy8ltykugdpvmgrzwcpf6-9v9|汉纪 824]] - downstream Shun-era notes that this episode helps preface.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. This source backfills 141 CE before Hanji 822's Li Gu, Zhang Gang, and Liang protection layer and before Hanji 824's 143-144 Qiang-frontier and succession layer.
+- No settled contradiction with existing wiki pages was found. This source backfills 141 CE before 汉纪 822's Li Gu, Zhang Gang, and Liang protection layer and before 汉纪 824's 143-144 Qiang-frontier and succession layer.
 - Chronology caution: this source makes Liang Ji's profile begin with formal Grand General succession after Liang Shang's death before the already-ingested protected-corruption, succession-control, and Huan-era terror layers.
 - Transcript normalization: 马戎 is normalized to [[MaRongLateHan|马融]], 皇甫归 to [[HuangfuGuiLateHan|皇甫规]], 梁继 to [[LiangJiLateHan|梁冀]], and 周举/周举-style forms to [[ZhouJuLateHan|周举]] where the office path and Tongjian sequence support the received forms.
 - Scope caution: Zhang Dan, Ma Xu, Zhang Qiao, Jia Fu, the exact Qiang subgroup names, and the full geography of the tomb-burning notice remain source-scoped until later notes require dedicated pages.

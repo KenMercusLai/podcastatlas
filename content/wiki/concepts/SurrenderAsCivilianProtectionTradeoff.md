@@ -14,7 +14,7 @@ knowledge_schema: synthesis-v1
 Surrender as civilian-protection tradeoff is the ethical-political frame in which yielding a city or office is judged against the likely harm to civilians from unwinnable resistance, rather than only against loyalist ideals of holding out.
 
 ## Current Synthesis
-Hanji 1039 defines the frame through Hua Xin's surrender of Yuzhang to Sun Ce. The episode keeps Sun Sheng's orthodox criticism in view but argues that a weak administrator facing a stronger army may protect the population by surrendering before the city is broken. The concept therefore does not excuse every capitulation; it asks whether resistance has a realistic protective function.
+汉纪 1039 defines the frame through Hua Xin's surrender of Yuzhang to Sun Ce. The episode keeps Sun Sheng's orthodox criticism in view but argues that a weak administrator facing a stronger army may protect the population by surrendering before the city is broken. The concept therefore does not excuse every capitulation; it asks whether resistance has a realistic protective function.
 
 ## Key Claims
 - Loyalty language can obscure the civilian cost of a symbolic last stand.
@@ -24,16 +24,16 @@ Hanji 1039 defines the frame through Hua Xin's surrender of Yuzhang to Sun Ce. T
 - Competing historical judgments should remain visible when motives are uncertain.
 
 ## Evidence
-- Unwinnable resistance context: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] has Yu Fan show Hua Xin that Yuzhang cannot match Kuaiji and that Sun Ce's army is already dominant.
-- Civilian-protection argument: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] explicitly frames Hua Xin's surrender as possibly preventing slaughter after a city assault.
-- Orthodox counterjudgment: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] preserves Sun Sheng's condemnation of Hua Xin, Yu Fan, and Sun Ce.
-- Post-surrender credibility: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|Hanji 1039]] says Sun Ce treats Hua Xin as an elder guest and later wins local praise for caring for Yuan Shu's and Liu Yao's families.
+- Unwinnable resistance context: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] has Yu Fan show Hua Xin that Yuzhang cannot match Kuaiji and that Sun Ce's army is already dominant.
+- Civilian-protection argument: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] explicitly frames Hua Xin's surrender as possibly preventing slaughter after a city assault.
+- Orthodox counterjudgment: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] preserves Sun Sheng's condemnation of Hua Xin, Yu Fan, and Sun Ce.
+- Post-surrender credibility: [[zizhi-tongjian-hanji-1039-dongwu-diyi-zuipao-qie-kan-ta-ruhe-quanjiang-huaxin-lhre-ih73ynzfwujo0lnxyjdguyd|汉纪 1039]] says Sun Ce treats Hua Xin as an elder guest and later wins local praise for caring for Yuan Shu's and Liu Yao's families.
 
 ## Counterevidence & Qualifications
-The concept is most dangerous when it becomes a blanket excuse for submitting to coercive power. Hanji 1039 does not prove Hua Xin's private motive, and Sun Sheng's loyalty critique remains part of the evidence. The safer synthesis is conditional: surrender can be protective only when continued resistance is realistically more destructive and post-surrender treatment avoids further abuse.
+The concept is most dangerous when it becomes a blanket excuse for submitting to coercive power. 汉纪 1039 does not prove Hua Xin's private motive, and Sun Sheng's loyalty critique remains part of the evidence. The safer synthesis is conditional: surrender can be protective only when continued resistance is realistically more destructive and post-surrender treatment avoids further abuse.
 
 ## What Changed
-- Created the concept from Hanji 1039's contested evaluation of Hua Xin's surrender.
+- Created the concept from 汉纪 1039's contested evaluation of Hua Xin's surrender.
 
 ## Related Concepts
 - [[ForceBackedSurrenderPersuasion|武力背书式劝降]] - mechanism that pushes the surrender decision into the open.

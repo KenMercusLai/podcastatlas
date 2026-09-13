@@ -16,7 +16,7 @@ Li Du is the late-Han figure who shelters [[ZhangJianLateHan|张俭]] in Donglai
 
 ## Current Profile
 
-[[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] presents Li Du as a host operating inside a lethal political-persecution field. He does not openly confess to sheltering Zhang Jian, but he speaks to Mao Qin in a coded, morally loaded way: if such a famous man were present, insistence on arrest would not be necessary. His role is therefore neither simple defiance nor ordinary concealment; it is discretionary protection under a law that can destroy hosts.
+[[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] presents Li Du as a host operating inside a lethal political-persecution field. He does not openly confess to sheltering Zhang Jian, but he speaks to Mao Qin in a coded, morally loaded way: if such a famous man were present, insistence on arrest would not be necessary. His role is therefore neither simple defiance nor ordinary concealment; it is discretionary protection under a law that can destroy hosts.
 
 ## Key Characteristics
 
@@ -27,9 +27,9 @@ Li Du is the late-Han figure who shelters [[ZhangJianLateHan|张俭]] in Donglai
 
 ## Evidence
 
-- Shelter role: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] says Zhang Jian reaches Donglai and hides in Li Du's home.
-- Coded negotiation: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] has Li Du first deny that he would knowingly hide a wanted criminal, then add that if Zhang Jian were present, Mao Qin need not insist on arrest.
-- Shared moral framing: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|Hanji 894]] presents Li Du as offering Mao Qin a share of仁义 if he chooses not to take Zhang Jian.
+- Shelter role: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] says Zhang Jian reaches Donglai and hides in Li Du's home.
+- Coded negotiation: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] has Li Du first deny that he would knowingly hide a wanted criminal, then add that if Zhang Jian were present, Mao Qin need not insist on arrest.
+- Shared moral framing: [[zizhi-tongjian-hanji-894-yi-chang-taowang-yinfa-de-da-tusha-lhulp9hqu07uayyfl3eg-xwrtkeu|汉纪 894]] presents Li Du as offering Mao Qin a share of仁义 if he chooses not to take Zhang Jian.
 
 ## Qualifications
 
@@ -37,7 +37,7 @@ This page rests on one short source note. It does not establish Li Du's broader 
 
 ## What Changed
 
-- Initial page created from Hanji 894's Donglai shelter and Mao Qin negotiation scene.
+- Initial page created from 汉纪 894's Donglai shelter and Mao Qin negotiation scene.
 
 ## Relationships
 

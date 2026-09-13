@@ -14,7 +14,7 @@ Sincere power-sharing de-escalation is a conflict pattern where rivals with over
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] defines the pattern through [[DuYeWesternHan|杜邺]]'s advice to [[WangYinWesternHan|王音]]. [[HanChengdi|汉成帝]] gives [[WangShangWesternHan|王商]] staff and recommendation authority in a court already dominated by Wang-family outer relatives. Because Wang Shang and Wang Yin now have overlapping personnel leverage, competition over appointments and followers could become a usable imperial balancing tool.
+[[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|汉纪 533]] defines the pattern through [[DuYeWesternHan|杜邺]]'s advice to [[WangYinWesternHan|王音]]. [[HanChengdi|汉成帝]] gives [[WangShangWesternHan|王商]] staff and recommendation authority in a court already dominated by Wang-family outer relatives. Because Wang Shang and Wang Yin now have overlapping personnel leverage, competition over appointments and followers could become a usable imperial balancing tool.
 
 Du Ye's intervention changes the relationship logic. He does not ask Wang Yin to outmaneuver Wang Shang or merely suppress resentment. He argues from kinship, historical reputation, and shared political responsibility that Wang Yin should consult Wang Shang sincerely on affairs. Once Wang Yin does so, the rivals become close enough that Chengdi's divide-and-balance plan no longer produces the intended internal consumption.
 
@@ -31,24 +31,24 @@ The modern workplace translation is narrow but useful: some apparent "deadlocks"
 ## Evidence
 
 Overlapping authority:
-- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] says Wang Shang receives staff and official-recommendation power, creating a personnel-authority overlap with Wang Yin.
+- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|汉纪 533]] says Wang Shang receives staff and official-recommendation power, creating a personnel-authority overlap with Wang Yin.
 
 Third-party reframing:
-- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] says Du Ye uses family and historical examples to persuade Wang Yin that resentment and separation would be harmful.
+- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|汉纪 533]] says Du Ye uses family and historical examples to persuade Wang Yin that resentment and separation would be harmful.
 
 Actual consultation:
-- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] says Wang Yin thereafter brings political documents and affairs to Wang Shang for sincere discussion.
+- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|汉纪 533]] says Wang Yin thereafter brings political documents and affairs to Wang Shang for sincere discussion.
 
 Balancing design defeated:
-- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|Hanji 533]] says Wang Shang and Wang Yin grow closer, making Chengdi's attempt to create internal Wang-family struggle fail.
+- [[zizhi-tongjian-hanji-533-zhichang-zui-wujie-de-siju-zhende-wujie-ma-lv64fxua_avw1toxw_e88ty1xru7|汉纪 533]] says Wang Shang and Wang Yin grow closer, making Chengdi's attempt to create internal Wang-family struggle fail.
 
 ## Counterevidence & Qualifications
 
-The pattern should not be generalized into a rule that sincerity solves all structural conflict. Hanji 533 works because Wang Shang and Wang Yin share kinship, status, and an interest in Wang-family unity, and because Du Ye can speak into Wang Yin's reputation concerns. If the conflict involves abuse, corruption, incompatible incentives, resource scarcity that cannot be shared, or a party that exploits openness, sincere process may expose rather than protect the weaker side.
+The pattern should not be generalized into a rule that sincerity solves all structural conflict. 汉纪 533 works because Wang Shang and Wang Yin share kinship, status, and an interest in Wang-family unity, and because Du Ye can speak into Wang Yin's reputation concerns. If the conflict involves abuse, corruption, incompatible incentives, resource scarcity that cannot be shared, or a party that exploits openness, sincere process may expose rather than protect the weaker side.
 
 ## What Changed
 
-- Created the concept from Hanji 533's Du Ye, Wang Yin, and Wang Shang episode.
+- Created the concept from 汉纪 533's Du Ye, Wang Yin, and Wang Shang episode.
 
 ## Related Concepts
 

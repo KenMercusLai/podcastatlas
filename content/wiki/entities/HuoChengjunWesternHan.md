@@ -10,7 +10,7 @@ last_updated: 2026-09-13
 
 ## Overview
 
-霍成君 / Huo Chengjun enters the wiki through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] as [[HuoGuangWesternHan|霍光]]'s daughter, [[EmperorXuanOfHan|汉宣帝]]'s empress, and a palace figure whose fall follows the Huo family's failed power retention and attempted threat to crown prince [[HanYuandi|刘奭]].
+霍成君 / Huo Chengjun enters the wiki through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] as [[HuoGuangWesternHan|霍光]]'s daughter, [[EmperorXuanOfHan|汉宣帝]]'s empress, and a palace figure whose fall follows the Huo family's failed power retention and attempted threat to crown prince [[HanYuandi|刘奭]].
 
 ## Current Profile
 
@@ -29,23 +29,23 @@ After the Huo conspiracy is exposed, Xuan deposes Huo Chengjun in the eighth mon
 ## Evidence
 
 Palace position and household risk:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Huo Xian and Huo Chengjun move through the palace casually after Huo Guang's death.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xuan blames Huo Chengjun for attempting to poison crown prince Liu Shi.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Huo Xian and Huo Chengjun move through the palace casually after Huo Guang's death.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Xuan blames Huo Chengjun for attempting to poison crown prince Liu Shi.
 
 Deposition and death:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says Xuan deposes Huo Chengjun and moves her to Zhaotai Palace in Shanglin苑.
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] says she is later moved to Yunlin Lodge and commits suicide.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says Xuan deposes Huo Chengjun and moves her to Zhaotai Palace in Shanglin苑.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] says she is later moved to Yunlin Lodge and commits suicide.
 
 Household causality:
-- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] frames Huo Chengjun's tragedy as being driven by Huo Xian's greed and manipulation.
+- [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|汉纪 424]] frames Huo Chengjun's tragedy as being driven by Huo Xian's greed and manipulation.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 424. It does not yet reconstruct Huo Chengjun's full palace biography, marriage chronology, relationship with Empress Xu's death, or the legal details behind the poisoning accusation.
+This page is source-scoped to 汉纪 424. It does not yet reconstruct Huo Chengjun's full palace biography, marriage chronology, relationship with Empress Xu's death, or the legal details behind the poisoning accusation.
 
 ## What Changed
 
-- Created Huo Chengjun as the Huo-family empress and succession-risk figure in Hanji 424.
+- Created Huo Chengjun as the Huo-family empress and succession-risk figure in 汉纪 424.
 
 ## Relationships
 

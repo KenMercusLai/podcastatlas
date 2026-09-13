@@ -14,7 +14,7 @@ last_updated: 2026-08-30
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 92 CE anti-[[DouXianEasternHan|窦宪]] operation immediately before [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|Hanji 767]]. It follows [[YuanAnEasternHan|袁安]] and [[RenKuiEasternHan|任隗]] resisting Dou Xian's Northern Xiongnu settlement, [[ZhouRongEasternHan|周荣]] answering a Dou-retainer death threat with public boundary-setting, [[DingHongEasternHan|丁鸿]] using a solar eclipse to warn against outer-relative monopoly, and [[EmperorHeOfHan|汉和帝]] secretly coordinating with [[ZhengZhongEasternHan|郑众]] and [[LiuQingQingheKing|清河王刘庆]] before removing the Dou bloc.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 92 CE anti-[[DouXianEasternHan|窦宪]] operation immediately before [[zizhi-tongjian-hanji-767-congming-ren-dou-shanchang-yanxi-lq3ol7y-jdh7dnnfkmtfdg4ibryq|汉纪 767]]. It follows [[YuanAnEasternHan|袁安]] and [[RenKuiEasternHan|任隗]] resisting Dou Xian's Northern Xiongnu settlement, [[ZhouRongEasternHan|周荣]] answering a Dou-retainer death threat with public boundary-setting, [[DingHongEasternHan|丁鸿]] using a solar eclipse to warn against outer-relative monopoly, and [[EmperorHeOfHan|汉和帝]] secretly coordinating with [[ZhengZhongEasternHan|郑众]] and [[LiuQingQingheKing|清河王刘庆]] before removing the Dou bloc.
 
 The durable synthesis is that the Dou purge is not just one decisive palace move. It is prepared by visible ministerial dissent, strategic anger that makes retaliation costly, omen-coded warning, historical-precedent search, and palace-gate command control; the same success also creates the later hazard that trusted eunuch access becomes politically indispensable.
 
@@ -52,7 +52,7 @@ The durable synthesis is that the Dou purge is not just one decisive palace move
 
 ## Contradictions
 
-- No settled contradiction with existing wiki content is recorded. This source backfills the anti-Dou operation that Hanji 767 had previously treated mostly through aftermath.
+- No settled contradiction with existing wiki content is recorded. This source backfills the anti-Dou operation that 汉纪 767 had previously treated mostly through aftermath.
 - Transcript normalization: 丁弘 is treated as [[DingHongEasternHan|丁鸿 / Ding Hong]] because the office, solar-eclipse memorial, and anti-Dou setting match the received He-era figure.
 - Narrative tension: the transcript first compresses the Dou brothers as secretly forced to die after reaching their fiefs, then says [[DouGuiEasternHan|窦瑰]] alone survived after Zhang Pu's memorial. The wiki records Dou Gui's survival as the source's resolved case and keeps the compressed death wording source-scoped.
 - Scope caution: Xu Yi, Song You, Guo Ju, Guo Huang, Deng Die, Deng Lei, Dou Du, Dou Jing, Liu Kang of Qiancheng, exact annal dates, and the Ban Gu cliffhanger remain source-scoped unless later notes warrant standalone pages.

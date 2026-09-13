@@ -10,7 +10,7 @@ last_updated: 2026-09-11
 
 ## Overview
 
-郭舜 / Guo Shun enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] as the Western Han protector-general voice arguing that [[Kangju|康居]] should be treated as an unreliable and disrespectful counterpart rather than rewarded for a hostage mission.
+郭舜 / Guo Shun enters the wiki through [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] as the Western Han protector-general voice arguing that [[Kangju|康居]] should be treated as an unreliable and disrespectful counterpart rather than rewarded for a hostage mission.
 
 ## Current Profile
 
@@ -28,18 +28,18 @@ Guo's policy recommendation is rupture with public explanation: send the Kangju 
 
 ## Evidence
 
-- Ritual evidence: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Guo cites Kangju's refusal to bow, seating protocol, and banquet order as disrespect toward Han.
-- Motive diagnosis: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Guo interprets Kangju's prince-hostage mission as a way to obtain Han wealth.
-- Hard-line recommendation: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says Guo proposes returning the prince and ending envoy exchange with Kangju.
-- Court rejection: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|Hanji 550]] says the court continues engagement because Kangju is sending a prince for the first time.
+- Ritual evidence: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Guo cites Kangju's refusal to bow, seating protocol, and banquet order as disrespect toward Han.
+- Motive diagnosis: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Guo interprets Kangju's prince-hostage mission as a way to obtain Han wealth.
+- Hard-line recommendation: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says Guo proposes returning the prince and ending envoy exchange with Kangju.
+- Court rejection: [[zizhi-tongjian-hanji-550-sha-diguo-taizi-xiatui-jiqian-zhuibing-ta-zenme-zuodao-de-lvzhcjutqnu4or4elds_qg4s1gto|汉纪 550]] says the court continues engagement because Kangju is sending a prince for the first time.
 
 ## Qualifications
 
-This page records Guo Shun's argument as presented in Hanji 550, not an independent verdict on Kangju's actual intentions. The transcript uses 郭顺; this ingest normalizes to 郭舜 with the name-form issue kept source-scoped.
+This page records Guo Shun's argument as presented in 汉纪 550, not an independent verdict on Kangju's actual intentions. The transcript uses 郭顺; this ingest normalizes to 郭舜 with the name-form issue kept source-scoped.
 
 ## What Changed
 
-- Created the page from Hanji 550's Kangju memorial and court-response debate.
+- Created the page from 汉纪 550's Kangju memorial and court-response debate.
 
 ## Relationships
 

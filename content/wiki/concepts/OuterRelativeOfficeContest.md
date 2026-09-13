@@ -14,7 +14,7 @@ Outer-relative office contest is the succession-crisis mechanism where ministers
 
 ## Current Synthesis
 
-[[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] creates the current case after [[HanAidi|汉哀帝]] dies and the Da Sima office must be filled. Most ministers recommend [[WangMang|王莽]] because he had held the office before, has a reputation for ability, and is [[WangZhengjun|王政君]]'s nephew. [[HeWuWesternHan|何武]] and [[GongsunLuWesternHan|公孙禄]] instead argue from precedent: Lu, Huo, and Shangguan outer relatives had shown how dangerous concentrated consort-kin power could become.
+[[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] creates the current case after [[HanAidi|汉哀帝]] dies and the Da Sima office must be filled. Most ministers recommend [[WangMang|王莽]] because he had held the office before, has a reputation for ability, and is [[WangZhengjun|王政君]]'s nephew. [[HeWuWesternHan|何武]] and [[GongsunLuWesternHan|公孙禄]] instead argue from precedent: Lu, Huo, and Shangguan outer relatives had shown how dangerous concentrated consort-kin power could become.
 
 Their proposed solution is mutual recommendation, not rebellion. He Wu recommends Gongsun Lu, and Gongsun Lu recommends He Wu, hoping that a non-Wang Da Sima can create institutional balance while a Liu-line heir is selected. The mechanism fails because Wang Zhengjun holds the decisive authority and chooses Wang Mang.
 
@@ -30,19 +30,19 @@ The concept therefore captures both insight and exposure. Correctly diagnosing o
 
 ## Evidence
 
-- Vacancy trigger: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Dong Xian's death leads Wang Zhengjun to have ministers recommend a new Da Sima.
-- Majority Wang support: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Kong Guang and most ministers recommend Wang Mang.
-- Precedent-based warning: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says He Wu and Gongsun Lu cite Lu, Huo, and Shangguan precedents against another outer-relative monopoly.
-- Mutual recommendation: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says each recommends the other for the office.
-- Failure and exposure: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|Hanji 604]] says Wang Mang receives the office and the earlier recommendation leaves a future handle.
+- Vacancy trigger: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says Dong Xian's death leads Wang Zhengjun to have ministers recommend a new Da Sima.
+- Majority Wang support: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says Kong Guang and most ministers recommend Wang Mang.
+- Precedent-based warning: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says He Wu and Gongsun Lu cite Lu, Huo, and Shangguan precedents against another outer-relative monopoly.
+- Mutual recommendation: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says each recommends the other for the office.
+- Failure and exposure: [[zizhi-tongjian-hanji-604-xihan-wangmang-duoquan-hou-ruhe-qingxi-quanli-geju-ltwscyyiobc1ocvgti3fd-deajru|汉纪 604]] says Wang Mang receives the office and the earlier recommendation leaves a future handle.
 
 ## Counterevidence & Qualifications
 
-The concept is currently grounded in one Western Han episode. It should not be generalized to every appointment contest or every anti-outer-relative argument. Hanji 604 does not prove whether He Wu and Gongsun Lu could actually have controlled the wider succession settlement had either received the office.
+The concept is currently grounded in one Western Han episode. It should not be generalized to every appointment contest or every anti-outer-relative argument. 汉纪 604 does not prove whether He Wu and Gongsun Lu could actually have controlled the wider succession settlement had either received the office.
 
 ## What Changed
 
-- Created the concept from Hanji 604's Da Sima recommendation contest after Aidi's death.
+- Created the concept from 汉纪 604's Da Sima recommendation contest after Aidi's death.
 
 ## Related Concepts
 

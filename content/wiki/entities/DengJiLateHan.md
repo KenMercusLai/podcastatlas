@@ -23,15 +23,15 @@ The current evidence is narrow and source-scoped. Deng Ji functions less as an i
 - Evidence marker for interpreting the campaign as pressure on Liu Biao's northern screen, not only revenge.
 
 ## Evidence
-- Liu Biao-side office and capture: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] says Cao Cao captures Huyang, takes Deng Ji, and then attacks Wuyin.
-- Strategic meaning of the capture: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] explains Huyang and Wuyin as positions that help connect Liu Biao's support to Zhang Xiu's Wan/Nanyang base.
-- Campaign context: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|Hanji 1021]] places the event after the Wancheng disaster and before later Zhang Xiu campaign material, making Deng Ji part of Cao Cao's effort to isolate Zhang Xiu.
+- Liu Biao-side office and capture: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] says Cao Cao captures Huyang, takes Deng Ji, and then attacks Wuyin.
+- Strategic meaning of the capture: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] explains Huyang and Wuyin as positions that help connect Liu Biao's support to Zhang Xiu's Wan/Nanyang base.
+- Campaign context: [[zizhi-tongjian-hanji-1021-caocao-shouwo-zhongquan-weishenme-rongbuxia-yangbiao-lr-y4xqanwjyslvf4fbwxjuymtun|汉纪 1021]] places the event after the Wancheng disaster and before later Zhang Xiu campaign material, making Deng Ji part of Cao Cao's effort to isolate Zhang Xiu.
 
 ## Qualifications
 No separate biography is established here. The page preserves Deng Ji as a source-bounded Liu Biao-side military figure and does not infer later service, origin, or independent factional role from the episode alone.
 
 ## What Changed
-- Created this page from Hanji 1021 as the named Liu Biao-side officer captured in Cao Cao's Huyang operation.
+- Created this page from 汉纪 1021 as the named Liu Biao-side officer captured in Cao Cao's Huyang operation.
 
 ## Relationships
 - [[LiuBiao|刘表]] - commander/patron side with which Deng Ji is associated in the source.

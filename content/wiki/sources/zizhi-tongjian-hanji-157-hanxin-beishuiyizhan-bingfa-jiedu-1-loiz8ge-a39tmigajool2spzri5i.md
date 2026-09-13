@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》157｜韩信“背水一战”兵法解读（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] by explaining why [[HanXin|韩信]]'s [[BackwaterBattle|背水一战]] at [[JingxingPass|井陉口]] is hard to imitate. The source accepts Han Xin's own [[SunziBingfa|《孙子兵法》]] explanation that untrained troops can fight harder when placed on death ground, but insists that the real victory depended on prior intelligence and surprise. Its main wiki contribution is [[DeathGroundTacticalPreconditions|死地战术前提]]: forced commitment works only after the commander understands his own army, verifies enemy choices, and creates a second shock that prevents the enemy from exploiting the risk.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|汉纪 156 part 2]] by explaining why [[HanXin|韩信]]'s [[BackwaterBattle|背水一战]] at [[JingxingPass|井陉口]] is hard to imitate. The source accepts Han Xin's own [[SunziBingfa|《孙子兵法》]] explanation that untrained troops can fight harder when placed on death ground, but insists that the real victory depended on prior intelligence and surprise. Its main wiki contribution is [[DeathGroundTacticalPreconditions|死地战术前提]]: forced commitment works only after the commander understands his own army, verifies enemy choices, and creates a second shock that prevents the enemy from exploiting the risk.
 
 ## Key Claims
 - After the battle, Han officers ask why Han Xin violated ordinary formation rules by putting troops with their backs to water instead of arranging terrain in the expected mountain-water pattern.
@@ -43,4 +43,4 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 - [[YanState|燕国]] - the next strategic target, persuaded after Han Xin accepts Li Zuoche's advice.
 
 ## Contradictions
-- No settled contradiction is recorded. This source sharpens [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|Hanji 156 part 2]] by making the theory explicit: the backwater formation matters, but only inside a broader intelligence-and-surprise chain.
+- No settled contradiction is recorded. This source sharpens [[zizhi-tongjian-hanji-156-bingxian-hanxin-de-fengshen-zhizhan-2-li2c9d04jpepy4t0mquwjt-bli4|汉纪 156 part 2]] by making the theory explicit: the backwater formation matters, but only inside a broader intelligence-and-surprise chain.

@@ -46,5 +46,5 @@ The durable synthesis is that adoption-line succession required more than formal
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source sits after Hanji 552's designation of the Dingtao king and before Hanji 556's Empress Xu/Chunyu Zhang branch, while later Hanji 562 and Hanji 575 show the same birth-line problem after Aidi's accession.
+- Chronology qualification: this source sits after 汉纪 552's designation of the Dingtao king and before 汉纪 556's Empress Xu/Chunyu Zhang branch, while later 汉纪 562 and 汉纪 575 show the same birth-line problem after Aidi's accession.
 - Scope caution: Liu Jing, Yan Cong, Zhao Xuan's exact office history, the full text of Liu Xin's memorial, Wang Zhengjun's private motive, and the legal form of Fu Taihou's visits remain source-scoped.

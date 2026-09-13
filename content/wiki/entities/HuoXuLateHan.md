@@ -12,7 +12,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-Huo Xu enters the wiki through Hanji 877 as the rescuer whom [[FanPangLateHan|范滂]] visits after release from the first Party Prohibition imprisonment.
+Huo Xu enters the wiki through 汉纪 877 as the rescuer whom [[FanPangLateHan|范滂]] visits after release from the first Party Prohibition imprisonment.
 
 ## Current Profile
 
@@ -29,10 +29,10 @@ Huo Xu is therefore important as the silent counterpart in a Party Prohibition r
 
 ## Evidence
 
-- Benefactor role: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] says Fan Pang visits Huo Xu after release and identifies him as a life-saving benefactor.
-- Non-display setting: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] says Fan Pang does not perform verbal gratitude during the visit.
-- Tacit understanding: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] frames the lack of thanks through an old allusion, making the relation a case of mutual understanding rather than ingratitude.
-- Political-risk context: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|Hanji 877]] places the episode immediately after party figures are released but registered and barred from office.
+- Benefactor role: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] says Fan Pang visits Huo Xu after release and identifies him as a life-saving benefactor.
+- Non-display setting: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] says Fan Pang does not perform verbal gratitude during the visit.
+- Tacit understanding: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] frames the lack of thanks through an old allusion, making the relation a case of mutual understanding rather than ingratitude.
+- Political-risk context: [[zizhi-tongjian-hanji-877-ta-weihe-lengluo-jiuming-enren-loofs4rugl-q8kunfb-jpj5mgvhi|汉纪 877]] places the episode immediately after party figures are released but registered and barred from office.
 
 ## Qualifications
 
@@ -40,7 +40,7 @@ Huo Xu's page is intentionally narrow. The current wiki evidence does not suppor
 
 ## What Changed
 
-- Hanji 877 creates the page for Huo Xu as Fan Pang's life-saving benefactor and tacit-gratitude counterpart.
+- 汉纪 877 creates the page for Huo Xu as Fan Pang's life-saving benefactor and tacit-gratitude counterpart.
 
 ## Relationships
 

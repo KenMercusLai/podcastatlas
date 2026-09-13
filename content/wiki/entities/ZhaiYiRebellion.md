@@ -12,15 +12,15 @@ last_updated: 2026-09-10
 
 ## Overview
 
-翟义起义 / Zhai Yi Rebellion is now synthesized as a major anti-[[WangMang|王莽]] uprising that joined Liu-family restoration symbolism, public legitimacy indictment, rapid military scale-up, and later retaliatory terror before Wang Mang's formal accession. [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|Hanji 630]] supplies the formation and proclamation phase; [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] supplies the direct 7-8 CE suppression sequence; [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] later preserves the rebellion as background for [[WangSunqingXinRebel|王孙卿]]'s capture and punitive dissection.
+翟义起义 / Zhai Yi Rebellion is now synthesized as a major anti-[[WangMang|王莽]] uprising that joined Liu-family restoration symbolism, public legitimacy indictment, rapid military scale-up, and later retaliatory terror before Wang Mang's formal accession. [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|汉纪 630]] supplies the formation and proclamation phase; [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|汉纪 631]] supplies the direct 7-8 CE suppression sequence; [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] later preserves the rebellion as background for [[WangSunqingXinRebel|王孙卿]]'s capture and punitive dissection.
 
 ## Current Profile
 
-Hanji 630 makes the rebellion's opening a legitimacy crisis rather than a local disturbance. Zhai Yi reads Wang Mang's acting-emperor status and the placement of [[RuziYing|孺子婴 / 刘婴]] as a Zhougong-style trial balloon for usurpation. He and allies inside Dong Commandery use a military review to seize forces, elevate Liu Xin as emperor, and circulate accusations that Wang Mang poisoned [[HanPingdi|汉平帝]] and is dismantling Han rule step by step.
+汉纪 630 makes the rebellion's opening a legitimacy crisis rather than a local disturbance. Zhai Yi reads Wang Mang's acting-emperor status and the placement of [[RuziYing|孺子婴 / 刘婴]] as a Zhougong-style trial balloon for usurpation. He and allies inside Dong Commandery use a military review to seize forces, elevate Liu Xin as emperor, and circulate accusations that Wang Mang poisoned [[HanPingdi|汉平帝]] and is dismantling Han rule step by step.
 
-Hanji 631 then makes the same rebellion a direct pre-accession suppression crisis. Wang Mang publishes a Zhou-style proclamation claiming that he defends Han succession and will return power to Ruzi Ying, sends armies east, defeats Zhai Yi's force, rewards commanders, and then escalates punishment into grave destruction, clan killing, and corpse-pile intimidation at major route points.
+汉纪 631 then makes the same rebellion a direct pre-accession suppression crisis. Wang Mang publishes a Zhou-style proclamation claiming that he defends Han succession and will return power to Ruzi Ying, sends armies east, defeats Zhai Yi's force, rewards commanders, and then escalates punishment into grave destruction, clan killing, and corpse-pile intimidation at major route points.
 
-Hanji 652 gives the later memory of the same rebellion. It says the uprising was one of the largest challenges produced by Wang Mang's reform overreach and political damage to different social strata, with participation reaching more than 100,000 people in the host's account. Its current wiki role is therefore both chronological and explanatory: it predates Chimei and Lulin, but already shows large organized resistance and the political style that turns defeated rebels into terror objects.
+汉纪 652 gives the later memory of the same rebellion. It says the uprising was one of the largest challenges produced by Wang Mang's reform overreach and political damage to different social strata, with participation reaching more than 100,000 people in the host's account. Its current wiki role is therefore both chronological and explanatory: it predates Chimei and Lulin, but already shows large organized resistance and the political style that turns defeated rebels into terror objects.
 
 ## Key Characteristics
 
@@ -34,25 +34,25 @@ Hanji 652 gives the later memory of the same rebellion. It says the uprising was
 
 ## Evidence
 
-- Anti-usurpation diagnosis: [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|Hanji 630]] says Zhai Yi interprets Wang Mang's acting-emperor title and child-heir arrangement as preparation to replace the Liu house.
-- Rebel launch and claimant: [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|Hanji 630]] says Zhai Yi's group seizes the Dong Commandery military review and installs Liu Xin as emperor.
-- Legitimacy indictment: [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|Hanji 630]] says the uprising circulates accusations that Wang Mang poisoned Han Pingdi and is removing Han rule.
-- Rapid scale-up: [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|Hanji 630]] says the force reaches more than 100,000 people by Shanyang, while Chang'an-area bandit uprisings exploit the crisis.
-- Proclamation and campaign: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says Wang Mang answers Zhai Yi with a Zhou-style proclamation and sends forces east to defeat the rebellion.
-- Victory rewards: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says Wang Mang rewards many commanders and reorganizes noble rank into public title distribution after victory.
-- Retaliatory punishment: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|Hanji 631]] says Wang Mang destroys Zhai family graves, kills Zhai Yi's kin, and displays rebel bodies at traffic routes.
-- Scale claim: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] describes the Zhai Yi uprising as involving more than 100,000 people and nearly threatening Wang Mang's regime.
-- Reform-overreach context: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] frames the uprising against Wang Mang's radical and socially damaging reform style.
-- Wang Sunqing connection: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|Hanji 652]] says Wang Sunqing was a rebellion leader who escaped for nine years after failure.
+- Anti-usurpation diagnosis: [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|汉纪 630]] says Zhai Yi interprets Wang Mang's acting-emperor title and child-heir arrangement as preparation to replace the Liu house.
+- Rebel launch and claimant: [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|汉纪 630]] says Zhai Yi's group seizes the Dong Commandery military review and installs Liu Xin as emperor.
+- Legitimacy indictment: [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|汉纪 630]] says the uprising circulates accusations that Wang Mang poisoned Han Pingdi and is removing Han rule.
+- Rapid scale-up: [[zizhi-tongjian-hanji-630-jiahaoren-sidiao-mianju-nengyou-duo-choue-li9bkjm4dphuq9l-sjyk-qnwfeyl|汉纪 630]] says the force reaches more than 100,000 people by Shanyang, while Chang'an-area bandit uprisings exploit the crisis.
+- Proclamation and campaign: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|汉纪 631]] says Wang Mang answers Zhai Yi with a Zhou-style proclamation and sends forces east to defeat the rebellion.
+- Victory rewards: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|汉纪 631]] says Wang Mang rewards many commanders and reorganizes noble rank into public title distribution after victory.
+- Retaliatory punishment: [[zizhi-tongjian-hanji-631-gudai-sharen-zhenhui-ba-baigu-duichengshan-lgwrpwwu51hp6-lgqmna2ab7yvab|汉纪 631]] says Wang Mang destroys Zhai family graves, kills Zhai Yi's kin, and displays rebel bodies at traffic routes.
+- Scale claim: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] describes the Zhai Yi uprising as involving more than 100,000 people and nearly threatening Wang Mang's regime.
+- Reform-overreach context: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] frames the uprising against Wang Mang's radical and socially damaging reform style.
+- Wang Sunqing connection: [[zizhi-tongjian-hanji-652-wangmang-de-waike-shoushu-ltdiqldskazy-cb6igdmrv5huxm9|汉纪 652]] says Wang Sunqing was a rebellion leader who escaped for nine years after failure.
 
 ## Qualifications
 
-This page is not yet a complete account of Zhai Yi's organization, campaign geography, casualty numbers, or every associated force. Hanji 630 supplies the formation, Liu Xin claimant, anti-Wang proclamation, and emergency-response phase; Hanji 631 supplies the suppression and terror sequence; Hanji 652 supplies later scale and Wang Sunqing context. The poisoning accusation against Han Pingdi remains an accusation used by the rebels rather than a settled wiki finding. Chen Feng, Liu Yu, Liu Xin, Liu Huang, Liu Kuang, Zhao Peng, Huo Hong, Sun Xian, Wang Ji, Yan Qian, Wang Yun, Zhao Hui, exact routes, troop counts, office titles, and the corpse-pile term's transcript spelling remain source-scoped.
+This page is not yet a complete account of Zhai Yi's organization, campaign geography, casualty numbers, or every associated force. 汉纪 630 supplies the formation, Liu Xin claimant, anti-Wang proclamation, and emergency-response phase; 汉纪 631 supplies the suppression and terror sequence; 汉纪 652 supplies later scale and Wang Sunqing context. The poisoning accusation against Han Pingdi remains an accusation used by the rebels rather than a settled wiki finding. Chen Feng, Liu Yu, Liu Xin, Liu Huang, Liu Kuang, Zhao Peng, Huo Hong, Sun Xian, Wang Ji, Yan Qian, Wang Yun, Zhao Hui, exact routes, troop counts, office titles, and the corpse-pile term's transcript spelling remain source-scoped.
 
 ## What Changed
 
-- Added Hanji 630 as the formation and legitimacy-indictment layer: Zhai Yi's anti-usurpation judgment, Liu Xin's figurehead enthronement, public accusation against Wang Mang, rapid force growth, and Wang Mang's emergency defense.
-- Reframed Hanji 631 as the suppression sequel rather than the whole rebellion profile.
+- Added 汉纪 630 as the formation and legitimacy-indictment layer: Zhai Yi's anti-usurpation judgment, Liu Xin's figurehead enthronement, public accusation against Wang Mang, rapid force growth, and Wang Mang's emergency defense.
+- Reframed 汉纪 631 as the suppression sequel rather than the whole rebellion profile.
 
 ## Relationships
 

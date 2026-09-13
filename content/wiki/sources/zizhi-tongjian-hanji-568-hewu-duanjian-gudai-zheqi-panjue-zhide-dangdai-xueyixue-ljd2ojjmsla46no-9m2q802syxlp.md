@@ -14,7 +14,7 @@ last_updated: 2026-09-11
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], immediately before the Chengdi death and Aidi early-reign sequence developed in later Hanji 570s notes. It moves from the court debate over whether [[HanWudi|汉武帝]]'s temple should be removed, to [[HeWuWesternHan|何武]]'s famous "断剑" inheritance judgment, then to He Wu's removal and [[ShiDanWesternHan|施丹]]'s repeated remonstrance against Aidi's rushed early personnel and kinship changes.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills Suihe 2 / 7 BCE under [[HanAidi|汉哀帝]], immediately before the Chengdi death and Aidi early-reign sequence developed in later 汉纪 570s notes. It moves from the court debate over whether [[HanWudi|汉武帝]]'s temple should be removed, to [[HeWuWesternHan|何武]]'s famous "断剑" inheritance judgment, then to He Wu's removal and [[ShiDanWesternHan|施丹]]'s repeated remonstrance against Aidi's rushed early personnel and kinship changes.
 
 The durable synthesis is that the episode treats legal, ritual, and political interpretation as related forms of judgment. He Wu's inheritance ruling reads a father's sword bequest as a symbolic instruction to restore the son as household successor, illustrating [[SpringAutumnIntentAdjudication|春秋决狱式意图裁判]] while also creating modern fairness concerns. The later court sequence shows Aidi preserving Han Wudi's temple through merit-based exception, removing He Wu on a filial-duty pretext, and receiving Shi Dan's warnings that a new ruler should not reorder kin, office, and policy too quickly before mourning and succession legitimacy have stabilized.
 
@@ -45,5 +45,5 @@ The durable synthesis is that the episode treats legal, ritual, and political in
 ## Contradictions
 
 - No settled contradiction with existing wiki content was found.
-- Chronology qualification: this source backfills Suihe 2 / 7 BCE before Hanji 570's Chen Tang/Gan Yanshou merit memorial and before Hanji 571's Chengdi death investigation sequence.
+- Chronology qualification: this source backfills Suihe 2 / 7 BCE before 汉纪 570's Chen Tang/Gan Yanshou merit memorial and before 汉纪 571's Chengdi death investigation sequence.
 - Scope caution: the source does not settle the modern legal validity of He Wu's judgment, the full original wording of the will, the daughters' legal claims, Wang Shun's identity beyond this pre-Xin court context, or the complete text of Shi Dan's later memorials.

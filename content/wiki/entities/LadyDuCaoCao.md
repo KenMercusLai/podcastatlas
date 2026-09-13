@@ -8,7 +8,7 @@ last_updated: 2026-08-23
 
 # 杜夫人 / Lady Du (Cao Cao)
 
-杜夫人 / Lady Du enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|Hanji 1013]] as [[QinYilu|秦宜禄]]'s wife and [[QinLang|秦朗]]'s mother. The source places her in [[Xiapi|下邳]] while Qin Yilu is held by [[YuanShu|袁术]] and given another marriage connection there.
+杜夫人 / Lady Du enters the wiki through [[zizhi-tongjian-hanji-1013-dianwei-zhisi-jingshi-caocao-haose-haileta-lhe6jrpjp3cfbdhvjtdiezijfnoh|汉纪 1013]] as [[QinYilu|秦宜禄]]'s wife and [[QinLang|秦朗]]'s mother. The source places her in [[Xiapi|下邳]] while Qin Yilu is held by [[YuanShu|袁术]] and given another marriage connection there.
 
 Her role is to open the episode's pattern of Cao Cao noticing and taking women in a military-political setting. [[GuanYu|关羽]] repeatedly asks [[CaoCao|曹操]] to award Lady Du to him after Xiapi is captured, but Cao Cao's curiosity leads him to see her himself and bring her into his own household.
 

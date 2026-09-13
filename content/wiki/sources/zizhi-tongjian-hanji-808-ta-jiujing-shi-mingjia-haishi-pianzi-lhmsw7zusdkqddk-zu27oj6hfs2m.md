@@ -14,7 +14,7 @@ last_updated: 2026-08-29
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the early [[EmperorShunOfHan|汉顺帝]] talent-summons layer immediately before [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]]. It centers [[FanYingLateHan|樊英]], a [[NanyangCommandery|南阳郡]] recluse whose repeated refusal of summons, forced arrival at [[LuoyangLateHan|洛阳]], and disappointing policy performance raise the title question of whether fame, virtue, and usefulness match.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the early [[EmperorShunOfHan|汉顺帝]] talent-summons layer immediately before [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|汉纪 809]]. It centers [[FanYingLateHan|樊英]], a [[NanyangCommandery|南阳郡]] recluse whose repeated refusal of summons, forced arrival at [[LuoyangLateHan|洛阳]], and disappointing policy performance raise the title question of whether fame, virtue, and usefulness match.
 
 The durable contribution is [[SimaGuang|司马光]]'s reclusion standard. The episode distinguishes principled withdrawal under a court where the Way cannot be practiced, honorable private virtue without high governing capacity, and false reclusion that uses odd conduct and office refusal to arbitrage reputation. It also argues that rulers seeking worthy people should improve virtue and court order before relying on high office, gifts, or punishments.
 
@@ -42,7 +42,7 @@ The durable contribution is [[SimaGuang|司马光]]'s reclusion standard. The ep
 ## Connections
 
 - [[FanYingLateHan|樊英]], [[NanyangCommandery|南阳郡]], and [[LuoyangLateHan|洛阳]] - recluse, origin place, and forced court setting of the episode.
-- [[EmperorShunOfHan|汉顺帝]] - ruler-side talent-summons field that the episode backfills before Hanji 809.
+- [[EmperorShunOfHan|汉顺帝]] - ruler-side talent-summons field that the episode backfills before 汉纪 809.
 - [[SimaGuang|司马光]] and [[ZizhiTongjian|《资治通鉴》]] - source of the reclusion-authenticity and ruler-recruitment judgment.
 - [[Xunzi|荀子]] - philosophical analogy for attracting people through visible virtue rather than empty movement.
 - [[ReclusionAuthenticityAssessment|真隐士与伪隐士辨别]] - concept created for distinguishing principled withdrawal, virtue without office ability, and false reclusion.
@@ -51,10 +51,10 @@ The durable contribution is [[SimaGuang|司马光]]'s reclusion standard. The ep
 - [[TalentAttractionThroughRespect|礼贤下士式人才吸附]] - broader non-coercive talent attraction frame extended by the source.
 - [[TalentVirtueDistinction|才德之分]] and [[MotiveBasedTalentEvaluation|动机导向的才干评价]] - adjacent judgment frames for separating virtue, ability, motive, and public contribution.
 - [[CoercedTalentLegitimacy|胁迫征士合法性]] - later late-Han contrast where appointment under threat cannot prove genuine consent or legitimacy.
-- [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|Hanji 809]] - next episode that uses Fan Ying as the negative example in Li Gu's advice to Huang Qiong.
+- [[zizhi-tongjian-hanji-809-weishenme-quan-ni-buyao-luan-pai-mapi-lnv2l-ehkzmf2ifz3semscaqftku|汉纪 809]] - next episode that uses Fan Ying as the negative example in Li Gu's advice to Huang Qiong.
 
 ## Contradictions
 
-- No settled contradiction with existing wiki pages was found. The episode mainly backfills the talent-summons and reclusion-authenticity layer before Hanji 809.
-- Chronology caution: the source summary dates the passage to Shun's Yongjian opening, but some body wording names Emperor An. This note treats the episode as Shun-era because the Yongjian chronology and neighboring Hanji 809 point there, while preserving the emperor-label tension as source-scoped.
+- No settled contradiction with existing wiki pages was found. The episode mainly backfills the talent-summons and reclusion-authenticity layer before 汉纪 809.
+- Chronology caution: the source summary dates the passage to Shun's Yongjian opening, but some body wording names Emperor An. This note treats the episode as Shun-era because the Yongjian chronology and neighboring 汉纪 809 point there, while preserving the emperor-label tension as source-scoped.
 - Scope caution: Wang Yi, Zhang Kai, exact court-office wording, and whether Fan Ying should finally be judged as wise recluse, limited virtuous man, or reputation performer remain source-scoped unless later notes warrant standalone pages or firmer judgment.

@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-Wang Xing / 王兴 enters the wiki through [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] as one of the commoners [[WangMang|王莽]] finds to match a name in Ai Zhang's fuming-backed Xin appointment list. This page distinguishes him from [[WangXingXinPrince|王兴]] the later private son of Wang Mang and from modern [[WangXing|王兴]].
+Wang Xing / 王兴 enters the wiki through [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] as one of the commoners [[WangMang|王莽]] finds to match a name in Ai Zhang's fuming-backed Xin appointment list. This page distinguishes him from [[WangXingXinPrince|王兴]] the later private son of Wang Mang and from modern [[WangXing|王兴]].
 
 ## Current Profile
 
@@ -27,18 +27,18 @@ Wang Xing's importance is therefore symbolic. His appointment lets a contingent 
 
 ## Evidence
 
-- Fabricated-name context: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Xing and Wang Sheng were originally names Ai Zhang invented.
-- Search and identification: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says Wang Mang sent people to search and found a same-named man.
-- Social origin: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] identifies Wang Xing as a Chengwen clerk.
-- Appointment logic: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|Hanji 634]] says his appearance and commoner origin made the story work better as a destined appointment.
+- Fabricated-name context: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] says Wang Xing and Wang Sheng were originally names Ai Zhang invented.
+- Search and identification: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] says Wang Mang sent people to search and found a same-named man.
+- Social origin: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] identifies Wang Xing as a Chengwen clerk.
+- Appointment logic: [[zizhi-tongjian-hanji-634-huozai-nanren-yingzi-beihou-de-ta-can-can-can-lm3wub0l70yxwwyvwi15j93i9lwk|汉纪 634]] says his appearance and commoner origin made the story work better as a destined appointment.
 
 ## Qualifications
 
-This page is source-scoped to Hanji 634. It does not prove Wang Xing's competence, exact office title beyond the Four General frame, subsequent career, or inner attitude toward the appointment.
+This page is source-scoped to 汉纪 634. It does not prove Wang Xing's competence, exact office title beyond the Four General frame, subsequent career, or inner attitude toward the appointment.
 
 ## What Changed
 
-- Created a disambiguated page for the Hanji 634 Four General appointee named Wang Xing.
+- Created a disambiguated page for the 汉纪 634 Four General appointee named Wang Xing.
 
 ## Relationships
 

@@ -13,7 +13,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-陈玄奘 is the [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] protagonist discussed in the paired Hanji 456-4 and [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq|Hanji 456-5]] readings. He is related to but distinct from the historical [[Xuanzang|玄奘]] page.
+陈玄奘 is the [[JourneyToTheWestConqueringDemons|《西游降魔篇》]] protagonist discussed in the paired 汉纪 456-4 and [[zizhi-tongjian-hanji-456-5-xiuxingren-shi-ruhe-kandai-xiyou-de-lurr8m74eut6qcemzruhn3ia62oq|汉纪 456-5]] readings. He is related to but distinct from the historical [[Xuanzang|玄奘]] page.
 
 ## Current Profile
 
@@ -43,7 +43,7 @@ This page describes the film character as interpreted by the source. It should n
 
 ## What Changed
 
-- Added Hanji 456-5's emphasis on insight before mastery and formal practice that has not yet become inner release.
+- Added 汉纪 456-5's emphasis on insight before mastery and formal practice that has not yet become inner release.
 
 ## Relationships
 

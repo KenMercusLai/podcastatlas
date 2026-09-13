@@ -14,7 +14,7 @@ last_updated: 2026-09-13
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|Hanji 460]]'s Wusun crisis under [[EmperorXuanOfHan|汉宣帝]]. After [[NimiWusun|狂王泥靡]] survives the failed assassination, Chigu City is relieved, Han envoys are punished or executed, and Wusun's internal struggle produces a new crisis when Wujiutu kills Nimi and claims the kunmi title.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode continues [[zizhi-tongjian-hanji-460-60sui-cisha-qinfu-ta-shi-shishang-zui-biaohan-de-heqin-gongzhu-lntrasdevraz8u4k8tlckm3on1jv|汉纪 460]]'s Wusun crisis under [[EmperorXuanOfHan|汉宣帝]]. After [[NimiWusun|狂王泥靡]] survives the failed assassination, Chigu City is relieved, Han envoys are punished or executed, and Wusun's internal struggle produces a new crisis when Wujiutu kills Nimi and claims the kunmi title.
 
 The durable synthesis is that the Han response combines coercive capacity with trusted personal mediation. [[ZhengJiWesternHan|郑吉]] and Han frontier forces make war credible, but [[FengLiaoWesternHan|冯嫽]]'s literacy, Wusun marriage tie, local reputation, and Western Regions experience let her persuade Wujiutu to accept Han authority. [[EmperorXuanOfHan|Xuan]] then formalizes a split Wusun order by appointing Yuanguimi as large kunmi and Wujiutu as small kunmi, temporarily defusing war while leaving a structural rivalry for later episodes.
 
@@ -38,7 +38,7 @@ The durable synthesis is that the Han response combines coercive capacity with t
 ## Connections
 
 - [[FengLiaoWesternHan|冯嫽]], [[ZhengJiWesternHan|郑吉]], [[Wusun|乌孙]], and [[WesternRegionsProtectorate|西域都护府]] - the source's core mediation chain: Han force readiness becomes usable through a trusted Wusun-network envoy.
-- [[XieyouPrincessWesternHan|解忧公主]] and [[NimiWusun|狂王泥靡]] - the episode resolves Hanji 460's assassination aftermath and carries Nimi's crisis through his death.
+- [[XieyouPrincessWesternHan|解忧公主]] and [[NimiWusun|狂王泥靡]] - the episode resolves 汉纪 460's assassination aftermath and carries Nimi's crisis through his death.
 - [[EmperorXuanOfHan|汉宣帝]], [[WesternHanDynasty|西汉]], and [[Xiongnu|匈奴]] - Xuan treats Wusun alignment as part of the larger Han-Xiongnu contest.
 - [[HeqinPrincessSuccessionEntrapment|和亲公主继承困局]] - the source adds the aftermath of the Xieyou-Nimi trap: personal humiliation, court punishment, and settlement through a different woman from Xieyou's Wusun network.
 - [[CapacityBackedDiplomaticHierarchy|实力支撑的外交名分]] and [[DiplomaticPersonaAsStrategicAsset]] - adjacent concepts because Feng Liao's persuasion succeeds in the shadow of Han force and through her own standing.

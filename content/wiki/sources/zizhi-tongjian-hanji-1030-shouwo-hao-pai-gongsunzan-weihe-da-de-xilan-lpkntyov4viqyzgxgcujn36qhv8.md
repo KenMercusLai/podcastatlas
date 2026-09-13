@@ -33,11 +33,11 @@ Yuan Shao first seeks reconciliation or cooperation by letter, but Gongsun Zan i
 > "消极自保必亡" - the episode's compact judgment on Gongsun Zan's fortress strategy.
 
 ## Connections
-- [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|Hanji 998]] - prior Gongsun Zan/Yijing source that explains how the fortress turn begins.
+- [[zizhi-tongjian-hanji-998-baima-jiangjun-gongsunzan-cong-sanqian-baima-dao-kunshou-gucheng-lp-1l2gvbsbfnyznutdghxwwvqna|汉纪 998]] - prior Gongsun Zan/Yijing source that explains how the fortress turn begins.
 - [[GongsunZan|公孙瓒]], [[YuanShao|袁绍]], [[YijingFortress|易京]], [[GongsunXuLateHan|公孙旭]], [[GuanJingLateHan|关静]], and [[HeishanArmy|黑山军]] - main endgame actors and setting.
 - [[SunCe|孙策]], [[TaishiCi|太史慈]], [[KongRong|孔融]], [[LiuBei|刘备]], and [[LiuYaoLateHan|刘繇]] - opening talent-choice contrast.
 - [[RescueReciprocityCommandTrust|救援互惠式统帅信任]], [[FortressSecurityIllusion|筑城避世安全幻觉]], [[PeopleBasedPoliticalSecurity|民心型政治安全]], [[PoliticalSurvivalFirst|安全第一政治生存]], [[XingshiqingStrategicAssessment|行势情战略评估]], and [[TalentAsStateTreasure|以贤臣为宝]] - interpretive frames for the episode's trust, fortress, and trend-reading lessons.
-- [[ZizhiTongjian|《资治通鉴》]] - text whose Hanji 54 arc is said to finish in this episode.
+- [[ZizhiTongjian|《资治通鉴》]] - text whose 汉纪 54 arc is said to finish in this episode.
 
 ## Contradictions
 - No settled contradiction found.

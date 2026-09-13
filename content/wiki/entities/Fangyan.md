@@ -10,7 +10,7 @@ last_updated: 2026-09-09
 
 ## Overview
 
-《方言》 / Fangyan enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] as [[YangXiong|扬雄]]'s long-horizon language work. The episode presents it as China's first work devoted to dialect study, explaining regional word differences, older and newer forms, and language change.
+《方言》 / Fangyan enters the wiki through [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] as [[YangXiong|扬雄]]'s long-horizon language work. The episode presents it as China's first work devoted to dialect study, explaining regional word differences, older and newer forms, and language change.
 
 ## Current Profile
 
@@ -28,9 +28,9 @@ Within the episode, Fangyan supports the larger Yang Xiong profile. Yang Xiong i
 
 ## Evidence
 
-- Authorship and scope: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Yang Xiong wrote Fangyan and that it studies dialect words, older-newer differences, and change.
-- First-work claim: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] calls Fangyan China's first dialect-research work.
-- Labor and reception: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|Hanji 654]] says Yang Xiong spent twenty-seven years on the book and completed it by himself.
+- Authorship and scope: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Yang Xiong wrote Fangyan and that it studies dialect words, older-newer differences, and change.
+- First-work claim: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] calls Fangyan China's first dialect-research work.
+- Labor and reception: [[zizhi-tongjian-hanji-654-jiemi-xihan-yangxiong-de-chuanqi-rensheng-lq3o-13h2in89qwh0dvchczlvrqk|汉纪 654]] says Yang Xiong spent twenty-seven years on the book and completed it by himself.
 
 ## Qualifications
 
@@ -38,7 +38,7 @@ This page records the episode's presentation, not a full philological account of
 
 ## What Changed
 
-- Created this page from Hanji 654 as the book node for Yang Xiong's dialect scholarship.
+- Created this page from 汉纪 654 as the book node for Yang Xiong's dialect scholarship.
 
 ## Relationships
 

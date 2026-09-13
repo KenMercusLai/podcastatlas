@@ -14,7 +14,7 @@ last_updated: 2026-08-26
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 174-175 CE late-Han layer immediately before [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|Hanji 906]]. It uses [[SunJianLateHan|孙坚]]'s role in suppressing [[XuShengLateHan|许生]] and his youth bluff against river bandits as a source-scoped [[CrisisOpportunityConversion|危机机会转化]] case, then turns to [[EmperorLingOfHan|汉灵帝]]'s [[XipingStoneClassics|熹平石经]] project at [[Taixue|太学]]. The episode's core synthesis is that late-Han disorder produces two opposed responses: local military initiative can become personal political capital, while the court tries to stabilize classical authority and loyal-familial order through official text standardization.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the 174-175 CE late-Han layer immediately before [[zizhi-tongjian-hanji-906-lihai-de-ren-weishenme-xiangshou-chongtu-lvc3wedrifdzdu-yv1qhocl8uss2|汉纪 906]]. It uses [[SunJianLateHan|孙坚]]'s role in suppressing [[XuShengLateHan|许生]] and his youth bluff against river bandits as a source-scoped [[CrisisOpportunityConversion|危机机会转化]] case, then turns to [[EmperorLingOfHan|汉灵帝]]'s [[XipingStoneClassics|熹平石经]] project at [[Taixue|太学]]. The episode's core synthesis is that late-Han disorder produces two opposed responses: local military initiative can become personal political capital, while the court tries to stabilize classical authority and loyal-familial order through official text standardization.
 
 ## Key Claims
 

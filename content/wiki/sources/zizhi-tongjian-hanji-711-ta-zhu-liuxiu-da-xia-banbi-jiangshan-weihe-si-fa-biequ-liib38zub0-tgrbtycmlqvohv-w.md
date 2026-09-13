@@ -14,7 +14,7 @@ last_updated: 2026-09-01
 
 ## Summary
 
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 11-12 Shu campaign immediately before [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|Hanji 712]]. It centers on [[CenPengEasternHan|岑彭]] breaking the Shu defensive line through speed from Jiangzhou to Wuyang and Guangdu, [[ZangGongEasternHan|臧宫]] defeating [[YanCenEasternHan|延岑 / Yan Cen]] on the Fu River, and [[GongsunShuEasternHan|公孙述]] answering collapse with refused surrender and assassination.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfills the Jianwu 11-12 Shu campaign immediately before [[zizhi-tongjian-hanji-712-liuxiu-weihe-bei-yuwei-zui-hui-da-zhang-de-huangdi-lt7rx7tblodjfngqfdq33ikrcmyn|汉纪 712]]. It centers on [[CenPengEasternHan|岑彭]] breaking the Shu defensive line through speed from Jiangzhou to Wuyang and Guangdu, [[ZangGongEasternHan|臧宫]] defeating [[YanCenEasternHan|延岑 / Yan Cen]] on the Fu River, and [[GongsunShuEasternHan|公孙述]] answering collapse with refused surrender and assassination.
 
 The durable synthesis is that Guangwu's western campaign turns on operational tempo and post-breakthrough legitimacy. Cen Peng's disciplined no-plunder command creates local memory even after his assassination, while [[MaYuanEasternHan|马援]] and [[GuoJiEasternHan|郭伋]] extend the same episode into frontier-resource governance and the transition from Nanyang-heavy founding networks toward nationally selected officials.
 

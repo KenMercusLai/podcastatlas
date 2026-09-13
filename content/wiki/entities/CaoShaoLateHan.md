@@ -10,7 +10,7 @@ knowledge_schema: synthesis-v1
 
 ## Overview
 
-曹绍 / Cao Shao is introduced by [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] as a [[CaoJieLateHan|曹节]] clan relative serving as Dong Commandery administrator. His role in the source is narrow but consequential: he becomes the local official who arrests and tortures [[XieBiLateHan|谢弼]] after Xie Bi's dangerous memorial.
+曹绍 / Cao Shao is introduced by [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] as a [[CaoJieLateHan|曹节]] clan relative serving as Dong Commandery administrator. His role in the source is narrow but consequential: he becomes the local official who arrests and tortures [[XieBiLateHan|谢弼]] after Xie Bi's dangerous memorial.
 
 ## Current Profile
 
@@ -24,9 +24,9 @@ Cao Shao is not developed as an independent political thinker in the episode. He
 
 ## Evidence
 
-- Cao Jie-linked office: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] identifies Cao Shao as a Cao Jie relative serving in Dong Commandery.
-- Local retaliation: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] says Cao Shao fabricates charges, arrests Xie Bi, tortures him, and Xie Bi dies in prison.
-- Institutional meaning: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] uses the episode as evidence that court speech risk can outlast the initial demotion or resignation.
+- Cao Jie-linked office: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] identifies Cao Shao as a Cao Jie relative serving in Dong Commandery.
+- Local retaliation: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] says Cao Shao fabricates charges, arrests Xie Bi, tortures him, and Xie Bi dies in prison.
+- Institutional meaning: [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] uses the episode as evidence that court speech risk can outlast the initial demotion or resignation.
 
 ## Qualifications
 
@@ -35,12 +35,12 @@ Cao Shao is not developed as an independent political thinker in the episode. He
 
 ## What Changed
 
-- Created the page from Hanji 890 to capture the local retaliation actor in Xie Bi's death.
+- Created the page from 汉纪 890 to capture the local retaliation actor in Xie Bi's death.
 - Added Cao Shao as a narrow bridge between Cao Jie's court power and Dong Commandery enforcement.
 
 ## Relationships
 
-- [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|Hanji 890]] - source note for the Cao Shao sequence.
+- [[zizhi-tongjian-hanji-890-xiang-dangguan-xian-xue-duifu-xiaoren-ltnvh6qu-mr8flsdlxf-e6rknpis|汉纪 890]] - source note for the Cao Shao sequence.
 - [[CaoJieLateHan|曹节]] - clan and power connection that makes Cao Shao politically meaningful in the episode.
 - [[XieBiLateHan|谢弼]] - official whom Cao Shao arrests and tortures.
 - [[DongCommandery|东郡]] - local jurisdiction where the retaliation is carried out.

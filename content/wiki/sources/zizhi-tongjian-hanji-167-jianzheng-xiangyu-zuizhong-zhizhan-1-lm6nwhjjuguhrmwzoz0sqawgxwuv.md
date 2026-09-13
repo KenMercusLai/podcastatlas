@@ -13,7 +13,7 @@ last_updated: 2026-08-23
 # 《资治通鉴·汉纪》167｜见证项羽最终之战（1）
 
 ## Summary
-This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] by moving from [[HonggouSettlement|鸿沟议和]] and [[InstrumentalTruceBreach|工具化议和毁约]] into the opening of [[GaixiaBattle|垓下之战]]. [[LiuBang|刘邦]]'s pursuit stalls when [[HanXin|韩信]] and [[PengYue|彭越]] do not arrive, so [[ZhangLiang|张良]] explains that the anti-Chu coalition needs explicit territorial payoff before it will risk final commitment. Once Liu Bang promises land, Han Xin, Peng Yue, [[LiuJia|刘贾]], [[ZhouYin|周殷]], and [[YingBu|英布]] help complete the pressure field around [[XiangYu|项羽]], who reaches Gaixia expecting an open-field battle but finds the allied army does not collapse under his first charge.
+This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|汉纪 166]] by moving from [[HonggouSettlement|鸿沟议和]] and [[InstrumentalTruceBreach|工具化议和毁约]] into the opening of [[GaixiaBattle|垓下之战]]. [[LiuBang|刘邦]]'s pursuit stalls when [[HanXin|韩信]] and [[PengYue|彭越]] do not arrive, so [[ZhangLiang|张良]] explains that the anti-Chu coalition needs explicit territorial payoff before it will risk final commitment. Once Liu Bang promises land, Han Xin, Peng Yue, [[LiuJia|刘贾]], [[ZhouYin|周殷]], and [[YingBu|英布]] help complete the pressure field around [[XiangYu|项羽]], who reaches Gaixia expecting an open-field battle but finds the allied army does not collapse under his first charge.
 
 ## Key Claims
 - Liu Bang breaks the Honggou settlement and attacks the withdrawing Chu army, but his own force is checked near Yangxia and cannot force the final result alone.
@@ -33,7 +33,7 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 > "共分天下"
 
 ## Connections
-- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|Hanji 166]] - immediate setup through Honggou, hostage release, and the truce breach.
+- [[zizhi-tongjian-hanji-166-jiran-xiangyu-bujiang-wude-kan-liubang-ruhe-fuchou-ltwwbn9rzeqzzimmxxfihb9-drj1|汉纪 166]] - immediate setup through Honggou, hostage release, and the truce breach.
 - [[GaixiaBattle|垓下之战]] - final-battle event opened by the episode but not yet completed.
 - [[LiuBang|刘邦]] - breaches the settlement, pursues Xiang Yu, then has to buy final allied commitment with land promises.
 - [[XiangYu|项羽]] - reaches Gaixia after encirclement pressure and tries to recover advantage through open-field shock action.
@@ -46,5 +46,5 @@ This [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode follows [[z
 
 ## Contradictions
 - No settled contradiction with existing wiki content was found.
-- The source creates a chronology tension with [[ZhouYin|周殷]]: Hanji 160 records him as part of Xiang Yu's trusted old-Chu core, while Hanji 167 shows him surrendering under terminal pressure. This is recorded as a later development rather than a direct contradiction.
-- The source continues Hanji 166's claim that Liu Bang used Honggou instrumentally; motive remains an interpretation, while the sequence of hostage release, pursuit, stalled allied response, and renewed bargaining is treated as the source's factual chain.
+- The source creates a chronology tension with [[ZhouYin|周殷]]: 汉纪 160 records him as part of Xiang Yu's trusted old-Chu core, while 汉纪 167 shows him surrendering under terminal pressure. This is recorded as a later development rather than a direct contradiction.
+- The source continues 汉纪 166's claim that Liu Bang used Honggou instrumentally; motive remains an interpretation, while the sequence of hostage release, pursuit, stalled allied response, and renewed bargaining is treated as the source's factual chain.

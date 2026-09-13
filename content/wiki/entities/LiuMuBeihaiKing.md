@@ -10,7 +10,7 @@ last_updated: 2026-08-31
 
 ## Overview
 
-刘睦 was an Eastern Han royal kinsman, Beihai king, and son of Liu Xing. In [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]], he is remembered less for active policy than for a precise survival posture: when his envoy goes to court, Liu Mu tells him not to praise his loyalty, filiality, talent, or learning, but to present him as declining, pleasure-seeking, lazy, and politically harmless.
+刘睦 was an Eastern Han royal kinsman, Beihai king, and son of Liu Xing. In [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]], he is remembered less for active policy than for a precise survival posture: when his envoy goes to court, Liu Mu tells him not to praise his loyalty, filiality, talent, or learning, but to present him as declining, pleasure-seeking, lazy, and politically harmless.
 
 ## Current Profile
 
@@ -25,9 +25,9 @@ Liu Mu's profile centers on controlled self-deprecation by a high-status royal r
 
 ## Evidence
 
-- Royal status and reputation: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] identifies Liu Mu as Liu Xing's son and Beihai king, and says Guangwu and Mingdi valued his learning.
-- Self-deprecating instruction: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] has Liu Mu warn his court envoy not to report him as loyal, filial, benevolent, or learned, because such praise would endanger him.
-- Harmlessness as posture: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] reports the substitute image Liu Mu wants sent upward: a king who has deteriorated after inheritance, enjoys pleasures, hunts, and neglects diligence.
+- Royal status and reputation: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]] identifies Liu Mu as Liu Xing's son and Beihai king, and says Guangwu and Mingdi valued his learning.
+- Self-deprecating instruction: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]] has Liu Mu warn his court envoy not to report him as loyal, filial, benevolent, or learned, because such praise would endanger him.
+- Harmlessness as posture: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|汉纪 743]] reports the substitute image Liu Mu wants sent upward: a king who has deteriorated after inheritance, enjoys pleasures, hunts, and neglects diligence.
 
 ## Qualifications
 
