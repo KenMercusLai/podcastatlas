@@ -28899,9 +28899,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 12,
+      "episode_count": 13,
       "show_count": 1,
-      "source_note_count": 12,
+      "source_note_count": 13,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -28986,6 +28986,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》428｜从汉宣帝改名，聊聊古代的“避讳” [lhJp6ZtaJzpXbO2mrLnR_N3mzatB].md",
+          "key": "zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》428｜从汉宣帝改名，聊聊古代的“避讳”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb/"
         }
       ],
       "updated": "2026-09-13",
@@ -48777,6 +48784,22 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/concepts/imperialmarriageinspection/"
+    },
+    "ImperialNameTaboo": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》428｜从汉宣帝改名，聊聊古代的“避讳” [lhJp6ZtaJzpXbO2mrLnR_N3mzatB].md",
+          "key": "zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》428｜从汉宣帝改名，聊聊古代的“避讳”",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/imperialnametaboo/"
     },
     "ImperialPetitionOffenseRisk": {
       "episode_count": 1,

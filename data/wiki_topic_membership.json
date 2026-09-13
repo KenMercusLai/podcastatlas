@@ -34556,6 +34556,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "ImperialNameTaboo": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    }
+  ],
   "ImperialPetitionOffenseRisk": [
     {
       "key": "politics",

@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1845
+topic_total_pages: 1846
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -1582,6 +1582,9 @@ topic_concepts:
   - key: "LianhengStrategy"
     title: "连横 / Lianheng Strategy"
     url: "/wiki/concepts/lianhengstrategy/"
+  - key: "ImperialNameTaboo"
+    title: "避讳 / Imperial Name Taboo"
+    url: "/wiki/concepts/imperialnametaboo/"
   - key: "YinmouYangmouConversion"
     title: "阴谋阳谋转换 / Yinmou-Yangmou Conversion"
     url: "/wiki/concepts/yinmouyangmouconversion/"
