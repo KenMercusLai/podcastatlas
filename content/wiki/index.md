@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》409｜汉宣帝刘病已：从狱中走出来的传奇皇帝！](sources/zizhi-tongjian-hanji-409-hanxuandi-liubingyi-cong-yuzhong-zouchulai-de-chuanqi-huangdi-ljyxm9nd5rvheusna29wkxuraqux.md) — 芮淇讲透资治通鉴 episode bridging Huo Guang's deposition of Liu He with Liu Bingyi's prison survival under Bing Ji before his future accession as Han Xuan.
 - [661. Dawn of the Samurai: The Shogun Triumphant (Part 4)](sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375.md) — The Rest Is History episode on Tomoe, Yoshitsune's destruction of the Taira, Dan-no-ura, Yoritomo's political consolidation, and the birth of Kamakura samurai rule.
 - [《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落](sources/zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv.md) — 芮淇讲透资治通鉴 episode on Tian Yannian's Huo Guang-backed rise, mausoleum logistics corruption case, false denial, and suicide after losing patron protection.
 - [《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？](sources/zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi.md) — 芮淇讲透资治通鉴 episode on Xiahou Sheng's public cost-based criticism of Han Wudi's ritual honor, Huang Ba's refusal to join impeachment, and their prison Shangshu study.
@@ -2395,6 +2396,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [王式 / Wang Shi (Changyi Teacher)](entities/WangShiChangyiTeacher.md) — Liu He's teacher whose Shi jing instruction becomes evidence of fulfilled admonition duty after the Changyi deposition.
 - [Tian Yannian (Western Han)](entities/TianYannianWesternHan.md) — Huo Guang confidant and da sinong whose corruption case becomes fatal after he lies to his patron.
 - [常惠 / Chang Hui (Western Han)](entities/ChangHuiWesternHan.md) — Western Han envoy-commander linking Xieyou's Wusun appeal, Wusun's anti-Xiongnu strike, Cheshi extraction, and Liu Xiangfu's recall.
 - [Ming Dynasty / 明朝](entities/MingDynasty.md) — Dynasty used by Hanji 422-2 as the institutionalized tribute-economy case around贡物 pricing,回赐, hosted reception, and tribute access conflict.

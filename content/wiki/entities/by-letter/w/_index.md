@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 9997
+wiki_total_pages: 9998
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -1193,6 +1193,9 @@ wiki_pages:
   - key: "WangJianFormerShu"
     title: "王建 / Wang Jian (Former Shu)"
     url: "/wiki/entities/wangjianformershu/"
+  - key: "WangShiChangyiTeacher"
+    title: "王式 / Wang Shi (Changyi Teacher)"
+    url: "/wiki/entities/wangshichangyiteacher/"
   - key: "WangFuSuShi"
     title: "王弗 / Wang Fu"
     url: "/wiki/entities/wangfusushi/"
