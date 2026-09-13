@@ -18547,6 +18547,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？
+
+Added source note and updated Huo-family synthesis. Key claims: Huo Guang knowingly suppresses the Xu Pingjun investigation after Huo Xian confesses; Xuan's anger is constrained because he has not yet taken real power from Huo Guang; and Wusun plus Chang Hui's western strike, followed by snow and coalition pressure, marks a major step in Xiongnu weakening.
+
 ## [2026-09-13] ingest | 携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”
 
 Added source note plus Demographic Innovation Capacity, and updated Liang Jianzhang, Ctrip, AI Travel Planning, and Fertility Subsidy Limits. Key claims: Liang's profile links Ctrip operating discipline with population-policy advocacy; reliable travel AI depends on live inventory, prices, geography, preferences, and transaction data; and fertility support needs a broader package than small cash payments if it is meant to protect future innovation capacity.
@@ -19086,6 +19090,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？
 
 Added source note plus Chunyu Yan, and updated Xu Pingjun, Huo Xian, Huo Chengjun, and Huo Family Purge After Huo Guang. Key claims: Huo Xian's desire to install Huo Chengjun makes Xu Pingjun the obstacle; Chunyu Yan's palace medical access and job-seeking vulnerability make her the poisoning channel; and the later Huo-family fear arc now has a direct hidden-crime origin before Huo Guang's death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

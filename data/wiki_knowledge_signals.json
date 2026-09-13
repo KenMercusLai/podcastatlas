@@ -48249,6 +48249,57 @@
       "url": "/wiki/entities/huochengjunwesternhan/"
     },
     "HuoFamilyPurgeAfterHuoGuang": {
+      "episode_count": 6,
+      "show_count": 1,
+      "source_note_count": 6,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
+          "key": "zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？ [lh_Zo2ni9ntQa9IWb6MQWuux2Zx1].md",
+          "key": "zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》418｜霍光死后，为何霍家注定被灭族？ [lq-ZLAuM6yOXjA6NPjLDFhScnSxu].md",
+          "key": "zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》418｜霍光死后，为何霍家注定被灭族？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？ [lguO142uUoUZMHQjvEWjPJKGqXA-].md",
+          "key": "zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？ [lnAEv5R0uxO0XNwHqUOYl7f_tf8Q].md",
+          "key": "zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
+    },
+    "HuoGuangWesternHan": {
       "episode_count": 5,
       "show_count": 1,
       "source_note_count": 5,
@@ -48282,48 +48333,11 @@
           "url": "/wiki/sources/zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu/"
         },
         {
-          "episode_file": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？ [lguO142uUoUZMHQjvEWjPJKGqXA-].md",
-          "key": "zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa",
+          "episode_file": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？ [lnAEv5R0uxO0XNwHqUOYl7f_tf8Q].md",
+          "key": "zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q",
           "show": "芮淇讲透资治通鉴",
-          "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
-          "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
-        }
-      ],
-      "updated": "2026-09-13",
-      "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
-    },
-    "HuoGuangWesternHan": {
-      "episode_count": 4,
-      "show_count": 1,
-      "source_note_count": 4,
-      "sources": [
-        {
-          "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
-          "key": "zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu",
-          "show": "芮淇讲透资治通鉴",
-          "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
-          "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
-        },
-        {
-          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
-          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
-          "show": "芮淇讲透资治通鉴",
-          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
-          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
-        },
-        {
-          "episode_file": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？ [lh_Zo2ni9ntQa9IWb6MQWuux2Zx1].md",
-          "key": "zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1",
-          "show": "芮淇讲透资治通鉴",
-          "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
-          "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
-        },
-        {
-          "episode_file": "《资治通鉴·汉纪》418｜霍光死后，为何霍家注定被灭族？ [lq-ZLAuM6yOXjA6NPjLDFhScnSxu].md",
-          "key": "zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu",
-          "show": "芮淇讲透资治通鉴",
-          "title": "《资治通鉴·汉纪》418｜霍光死后，为何霍家注定被灭族？",
-          "url": "/wiki/sources/zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu/"
+          "title": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q/"
         }
       ],
       "updated": "2026-09-13",
@@ -48346,9 +48360,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoXianWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
@@ -48377,6 +48391,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？ [lnAEv5R0uxO0XNwHqUOYl7f_tf8Q].md",
+          "key": "zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q/"
         }
       ],
       "updated": "2026-09-13",
@@ -105655,9 +105676,9 @@
       "url": "/wiki/entities/wusisouthernxiongnu/"
     },
     "Wusun": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》591-1丨一场病假如何险些引爆两国之战？ [lrq-xDHVrNUARzwgrYKP7J_x8J_A].md",
@@ -105700,6 +105721,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》444｜“西汉撤回了和亲公主”，匈奴？？？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-444-xihan-chehui-le-heqin-gongzhu-xiongnu-lqvcsgep3fsjtru13s694vqkr08r/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？ [lnAEv5R0uxO0XNwHqUOYl7f_tf8Q].md",
+          "key": "zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q/"
         }
       ],
       "updated": "2026-09-13",
@@ -107618,9 +107646,9 @@
       "url": "/wiki/entities/xumeirenwesternhan/"
     },
     "XuPingjunWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
@@ -107649,6 +107677,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？ [lnAEv5R0uxO0XNwHqUOYl7f_tf8Q].md",
+          "key": "zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-414-xihan-diyi-quanchen-huoguang-weihe-zongrong-qizi-haisi-huanghou-lnaev5r0uxo0xnwhquoyl7f_tf8q/"
         }
       ],
       "updated": "2026-09-13",
