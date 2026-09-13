@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？](sources/zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's late-life Qiang campaign origin, Yi Qu Anguo's frontier mismanagement, cautious reconnaissance, troop care, and coalition-splitting amnesty policy.
 - [《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争](sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo rejecting Xin Wuxian's July Qiang attack plan through logistics, target selection, defensive patience, and coalition-fracture reasoning.
 - [《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞](sources/zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4.md) — 芮淇讲透资治通鉴 episode on Zhang Chang's eyebrow-painting anecdote, anti-fangshi remonstrance, and Wang Ji's root-cause memorial on ritual order, frugality, personnel selection, and 任子令.
 - [EP 38: The Local AI Stack Nobody Talks About (But Should)](sources/ep-38-the-local-ai-stack-nobody-talks-about-but-should.md) — Data Science With Sam episode with Trent Rossiter on local AI privacy/governance drivers, VRAM and unified-memory hardware choice, Ollama/LM Studio/vLLM tradeoffs, and safe local-agent setup.

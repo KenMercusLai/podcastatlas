@@ -78648,9 +78648,9 @@
       "url": "/wiki/entities/qianghuaeasternhan/"
     },
     "QiangOfficialAbuseRebellionTrigger": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》749丨管理人必看：发奖金是管理的最佳手段吗？ [lnhHOH0oxlStuWaKl3rsqvcsS_Cf].md",
@@ -78665,6 +78665,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》440｜得罪小人！平羌名将赵充国如何晚年丧子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-440-dezui-xiaoren-pingqiang-mingjiang-zhaochongguo-ruhe-wannian-sangzi-lmu7jhfcslsdftyzxmx5glvioee3/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？ [lgbZNLirIr1X0rgTzcj4Oz0B1APR].md",
+          "key": "zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr/"
         }
       ],
       "updated": "2026-09-13",
@@ -111380,9 +111387,9 @@
       "url": "/wiki/entities/zhaochonglatehan/"
     },
     "ZhaoChongguoWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -111418,6 +111425,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争",
           "url": "/wiki/sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？ [lgbZNLirIr1X0rgTzcj4Oz0B1APR].md",
+          "key": "zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr/"
         }
       ],
       "updated": "2026-09-13",

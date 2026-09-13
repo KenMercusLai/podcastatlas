@@ -18530,6 +18530,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？
+
+Added source note plus Zhao Chongguo and Qiang official-abuse synthesis updates. Key claims: Yi Qu Anguo's unauthorized handling and killing of Qiang leaders escalated the crisis, while Zhao's mature command began with terrain-first planning, disciplined caution, troop care, and selective-punishment messaging to split the Qiang coalition.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争
 
 Added source note plus Zhao Chongguo, Frontier Defensive Patience, and Coalition Fracture Exploitation updates. Key claims: Zhao rejects Xin Wuxian's July Qiang attack plan because logistics, terrain, and target choice would help Xianling harden its coalition, while patient defense and principal-culprit targeting better preserve Han's strategic aim.
@@ -18839,6 +18843,10 @@ Ran lint. See lint-report.md for details.
 
 - Added source note for the Hanji 440 backfill episode.
 - Updated Zhao Chongguo and Qiang official-abuse synthesis pages for Zhao's post-campaign truth-telling, Xin-family retaliation, Xin Tang's misconduct, and Zhao Ang's prison death.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
