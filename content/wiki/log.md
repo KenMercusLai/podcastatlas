@@ -18570,6 +18570,10 @@ Added source note plus Chang Hui. Key claims: Xieyou Princess's early Wusun marr
 
 Added source `zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog`; updated Liu He, Huo Guang, Tian Yannian, Zhang Anshi, and Xiahou Sheng with the pre-deposition planning layer: ignored remonstrance, omen warning, Yi Yin precedent, Yang Chang household alignment, and the Weiyang Palace pressure meeting. No settled contradiction found; dream, weather, and Hongfan interpretation remain source-scoped.
 
+## [2026-09-14] ingest | “无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年
+
+Added source `wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs`; created `Wuliaozhai` and `SocialEmbarrassmentFear`; updated `LuoYonghao`, `LuoyonghaosCrossroads`, `HandsOnAIAnxietyReduction`, `AIJobSecurityAnxiety`, and `AICompanionAuthenticityBoundary` with the Wuliaozhai fear-game crossover, social embarrassment and medical-vulnerability stories, AI hallucination and legal-liability concerns, cross-model verification advice, career-entry AI anxiety, existential AI risk framing, and AI-as-friend/teacher/confidant ambivalence. No settled contradiction found; AI-extinction timing, copyright outcomes, comedy replacement order, legal case details, and personal fear interpretations remain source-scoped.
+
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -19237,6 +19241,10 @@ Added source `zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguan
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？
 
 Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs`; updated `LiuHeHaihunHou`, `WangJiWesternHan`, `GongSuiWesternHan`, and `AccessionMourningLegibility` with the pre-summons Changyi layer: Huo Guang's controllability calculation, Liu He's indulgent habits, Wang Ji's educational remonstrance, and Gong Sui's failed companion-reform warning. No settled contradiction found; the strange dog omen remains source-scoped as episode remonstrance framing.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

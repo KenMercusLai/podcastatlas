@@ -13,7 +13,8 @@ sources:
   - luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a
   - zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0
   - caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1
-last_updated: 2026-09-13
+  - wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs
+last_updated: 2026-09-14
 knowledge_schema: synthesis-v1
 ---
 
@@ -43,13 +44,15 @@ The Zheng Zhi interview adds a film-author version of Luo's interviewer role. [[
 
 The Cai Kangyong interview adds Luo's most explicit mortality-and-AI contrast so far. [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] has Luo place his aggressive public persona, marriage, AI self-reflection, aging anxiety, concern about AI displacing humans, and memory of nearly crying at a Smartisan launch against [[CaiKangyong|蔡康永]]'s calmer practice around aging, grief, and death.
 
+The Wuliaozhai crossover adds Luo's clearest AI-fear-and-use profile. [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] has him distinguish job replacement from existential AI risk, recommend cross-checking serious AI outputs across multiple models, tell anxious students to learn AI rather than only flee it, and describe AI as friend, teacher, confidant, and memory-bearing assistant in a way that is useful and frightening at once.
+
 ## Key Characteristics
 - Founder and public presenter whose smartphone-era role was tied to [[Smartisan]] design, launch rhetoric, and fan attention.
 - Case for the limits of founder taste when hardware, supply chain, manufacturing, and delivery execution do not match public expectation.
 - Long-form interviewer who uses product, craft, film-production, and cultural categories to clarify a guest's work rather than only reciting biography.
 - Taste-driven explainer who can make interface design, handwork pricing, material choice, and art interpretation legible to broad audiences.
 - Panel moderator who can turn comedic conflict into theories of class, status display, debt, friendship, moral triage, workplace power, and consumption symbols.
-- Public figure who can use his own ADHD, baldness, delivery pressure, review-response habits, relationship thought-experiment answers, emotional stability, blocking, public expression, AI use, marriage, aging anxiety, and crying restraint as material for discussing responsibility, agency, authenticity, mortality, and public rebuttal.
+- Public figure who can use his own ADHD, baldness, delivery pressure, review-response habits, relationship thought-experiment answers, emotional stability, blocking, public expression, AI use, marriage, aging anxiety, AI fear, and crying restraint as material for discussing responsibility, agency, authenticity, mortality, and public rebuttal.
 - Source-scoped public figure whose English-teaching, livestreaming operations, full business history, and broader media career are not fully covered by the current evidence inventory.
 
 ## Evidence
@@ -66,17 +69,18 @@ The Cai Kangyong interview adds Luo's most explicit mortality-and-AI contrast so
 - Smartisan failure distinction: [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]] has Luo say Smartisan was commercially failed while leaving the moral and product-principle judgment more complicated.
 - Film-author interviewing: [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]] shows Luo asking Zheng Zhi about adaptation, casting, editing, AI production cost, literary timing, dialect, debt, and family memory.
 - Mortality and AI contrast: [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] shows Luo using his own midlife anxiety, deep AI conversations, marriage, public controversy, and Smartisan launch memory to test Cai Kangyong's views on AI, aging, grief, and death.
-- Source scope: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]], [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]], [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]], and [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]] focus on specific roles and do not provide a complete biography of Luo's English-teaching, livestreaming operations, or broader media career.
+- AI fear and use: [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] shows Luo treating job replacement as real but secondary to existential AI risk, while recommending cross-model checking, long-term tool use, and practical AI literacy.
+- Source scope: [[no-210-zhongguo-shouji-jianghu-xia-cong-meizu-xiaomi-chuizi-dao-ov-huawei-de-xin-shinian-zhongguo-hulianwang-gushi-24-1000932027]], [[shougonggeng-luoyonghao-cunkou-de-wujindian-li-chuxianle-yige-dada-zhuyi-yishujia-lgbdj-juqslyga0ulvvrqwnedga1]], [[luoyonghao-de-x-zilukou-yinian-yidu-zhuangx-dahui-lnbvs1yzzuaowvr0qacmjly2ftx]], [[luoyonghao-de-x-zilukou-bu-jieqian-gei-pengyou-jiu-hui-shiqu-pengyou-shiqu-qian-ls3bbpqjtmtij4qdd5b0al07gm-f]], [[luoyonghao-de-x-zilukou-women-neng-huodao-jintian-duokui-le-zuchuan-de-shiliyan-lhkqsz8pkcblnmaebsz1m50tysos]], [[lir8w53xewcmvbqrb1x1osairafg-lir8w53xewcmvbqrb1x1osairafg]], [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]], [[luoyonghao-de-x-zilukou-dang-yiqun-qingxu-buwending-de-gangjing-taolun-qi-qingxu-wending-lt9hwq-lvze6whfnoffges-mnb3a]], [[zhengzhi-luoyonghao-shenzhongyoulin-dongbei-wenxue-dianying-chuangzuo-ljc91vsg9fcvnlissvonvy7j0ug0]], [[caikangyong-luoyonghao-zai-canku-de-shijie-xunzhao-zizai-yu-hejie-baochi-cibei-yu-zhenshi-lqbw_yofwhs8rpt3w0xse_g9ajj1]], and [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] focus on specific roles and do not provide a complete biography of Luo's English-teaching, livestreaming operations, or broader media career.
 
 ## Qualifications
 The current page should not generalize Luo's whole career from eight sources. One source is a smartphone-history episode, one is a creator interview, and six are comedy-panel discussions; all are interpretive rather than comprehensive biography. Debt amounts, repayment timing, friend-loan recovery rates, consumption-market claims, ADHD medication comments, hair-loss treatment details, relationship hypotheticals, emotional-stability claims, road-conflict accounts, and public-rebuttal judgments remain source-scoped personal accounts.
 
 ## What Changed
-- Added the money-and-debt panel as evidence for Luo's debt-repayment narrative and friend-lending ethics.
-- Reframed Luo's current profile from taste-driven explanation alone toward public explanation under business, social, and reputational pressure.
+- Reframed Luo's current profile from taste-driven explanation alone toward public explanation under business, social, reputational, debt-repayment, and friend-lending pressure.
 - Added the "势利" panel as evidence for Luo's role in converting comedy dilemmas into moral, workplace, and consumption analysis.
 - Added the flaw-themed and emotional-stability panels as evidence for Luo's self-disclosure around ADHD, baldness, delivery responsibility, review response, composure, argument energy, blocking, Smartisan failure judgment, and expression against trolls.
 - Added the Cai Kangyong interview as evidence for Luo's mortality, AI self-reflection, marriage, public-controversy, and male-vulnerability disclosures.
+- Added the Wuliaozhai crossover as evidence for Luo's AI fear, cross-model verification advice, career-anxiety response, and AI companionship ambivalence.
 
 ## Relationships
 - [[Smartisan]] - company founded by Luo in the smartphone-history source.
@@ -101,3 +105,5 @@ The current page should not generalize Luo's whole career from eight sources. On
 - [[AuthorCommercialFilmBalance]], [[NortheastLiteraryFilmAuthorship]], and [[CreatorLateCycleAnxiety]] - concepts Luo helps surface through the Zheng Zhi interview.
 - [[CaiKangyong|蔡康永]] - guest whose calm around aging, grief, AI, and death becomes a contrast case for Luo's anxiety and self-disclosure.
 - [[ConversationAsSelfRevelation]], [[HumanMeaningUnderAI]], and [[DeathNormalizationPractice]] - concepts Luo helps surface through the Cai Kangyong interview.
+- [[Wuliaozhai|无聊斋]] - crossover partner for the fear-themed live episode.
+- [[HandsOnAIAnxietyReduction]], [[AIJobSecurityAnxiety]], [[AICompanionAuthenticityBoundary]], and [[SocialEmbarrassmentFear]] - concepts Luo helps surface through the fear-themed crossover.

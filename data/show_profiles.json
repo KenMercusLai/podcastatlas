@@ -2898,14 +2898,14 @@
       "earliest_episode_date": "2025-08-19",
       "latest_episode_date": "2026-09-01",
       "latest_episode_file": "lgBDj_JuqsLYGA0uLvvRqWNEDgA1 [lgBDj_JuqsLYGA0uLvvRqWNEDgA1].md",
-      "source_note_count": 13,
-      "topic_matched_source_note_count": 8,
+      "source_note_count": 14,
+      "topic_matched_source_note_count": 9,
       "topics": [
         {
           "key": "technology",
           "label": "Technology",
           "url": "/topics/technology/",
-          "source_note_count": 4
+          "source_note_count": 5
         },
         {
           "key": "culture",
@@ -2926,7 +2926,7 @@
           "title": "Luo Yonghao",
           "url": "/wiki/entities/luoyonghao/",
           "kind": "person",
-          "episode_count": 9
+          "episode_count": 10
         },
         {
           "key": "ShiLifen",

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2984
+topic_total_pages: 2985
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -8724,6 +8724,9 @@ topic_sources:
   - key: "agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq"
     title: "“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人"
     url: "/wiki/sources/agi-lai-le-wo-yong-le-yizhou-toupi-fama-duitan-zhang-haoran-moxt-lianhe-chuangshiren-lkiysdddezlyzh8rt2grbbm4r-gq/"
+  - key: "wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs"
+    title: "“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年"
+    url: "/wiki/sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs/"
   - key: "anyway-195-anyway-195"
     title: "№195: 设计师的黄金时代过去了吗？和 UX Coffee 聊 AI、书店与「离开屏幕」"
     url: "/wiki/sources/anyway-195-anyway-195/"

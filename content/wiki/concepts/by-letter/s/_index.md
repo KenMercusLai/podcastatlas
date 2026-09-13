@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7342
+wiki_total_pages: 7343
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -926,6 +926,9 @@ wiki_pages:
   - key: "SocialDarwinism"
     title: "Social Darwinism / 社会达尔文主义"
     url: "/wiki/concepts/socialdarwinism/"
+  - key: "SocialEmbarrassmentFear"
+    title: "Social Embarrassment Fear"
+    url: "/wiki/concepts/socialembarrassmentfear/"
   - key: "SocialEmotionInferenceLimits"
     title: "Social Emotion Inference Limits"
     url: "/wiki/concepts/socialemotioninferencelimits/"

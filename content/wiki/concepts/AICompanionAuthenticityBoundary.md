@@ -5,7 +5,8 @@ tags: [ai, companions, grief, authenticity, relationships]
 sources:
   - suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i
   - ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur
-last_updated: 2026-09-09
+  - wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs
+last_updated: 2026-09-14
 knowledge_schema: synthesis-v1
 ---
 
@@ -13,7 +14,7 @@ knowledge_schema: synthesis-v1
 AI companion authenticity boundary is the question of how to evaluate an emotionally powerful AI companion when the represented person, relationship, voice, or romantic partner is synthetic while the user's response may be real.
 
 ## Current Synthesis
-The current evidence has moved from grief simulation into romantic companionship. The AI-factory satire asks whether a fake grandfather voice can still produce real tears. The Luo Yonghao relationship panel asks whether a perfect AI partner can count as an acceptable companion if it gives complete subjective fit but the user knows it is not a human being.
+The current evidence has moved from grief simulation into romantic companionship and everyday AI attachment. The AI-factory satire asks whether a fake grandfather voice can still produce real tears. The Luo Yonghao relationship panel asks whether a perfect AI partner can count as an acceptable companion if it gives complete subjective fit but the user knows it is not a human being. The later fear-themed crossover adds a more mundane but important version: AI can feel like friend, teacher, confidant, and memory-bearing assistant even before it is packaged as a romantic or grief product.
 
 The synthesis is not that AI companionship is simply false. It is that authenticity splits into at least two layers: the representation can be fabricated while the experience is real. That split is ethically useful only if it preserves consent, provenance, and agency; it becomes risky when emotional realism, memory, sycophancy, or perfect responsiveness makes a synthetic relationship feel superior to human relationships while hiding the loss of reciprocity, species identity, or social reality.
 
@@ -23,7 +24,7 @@ The synthesis is not that AI companionship is simply false. It is that authentic
 - The risk is deeper when companion systems have [[AICompanionActiveMemory]], patient response, and the ability to simulate unavailable or deceased people.
 - [[HumanConnectionUnderAI]] becomes harder to define when AI offers more stable attention than many real relationships.
 - Romantic AI partners add a species and reciprocity boundary: a perfect experience may still fail for users who cannot bypass knowing the partner is not human.
-- The concept does not prove AI companionship is always harmful; it marks where comfort, grief, dependence, romance, and manipulation become difficult to separate.
+- The concept does not prove AI companionship is always harmful; it marks where comfort, grief, dependence, romance, memory, convenience, and manipulation become difficult to separate.
 
 ## Evidence
 - Grief simulation: [[suanli-kuangxiangqu-wo-zai-ai-gongchang-de-qiyu-lorijulltfhttspka22jnn4qjf-i]] has a generated "Digital Companion" speak like the narrator's deceased grandfather after learning from photos, recordings, and chat records.
@@ -31,14 +32,13 @@ The synthesis is not that AI companionship is simply false. It is that authentic
 - Romantic substitution: [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] stipulates a perfect AI partner with ideal looks, values, personality, interest fit, tolerance, and soul resonance, then asks whether it can replace a real person.
 - Species and knowledge boundary: [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] has Sun Shuheng and Wang Jiye reject the AI partner because knowing it is a robot or different species blocks acceptance even if the experience is otherwise perfect.
 - Experience-first acceptance: [[ln6gnhmsx1xo3p2n8z2powciqnur-ln6gnhmsx1xo3p2n8z2powciqnur]] has Xuanzong and Luo Yonghao distinguish existing human obligations from hypothetical future choice, making AI companionship more acceptable when no current partner is being abandoned.
+- Everyday companion attachment: [[wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs]] has Luo describe AI as sometimes feeling stronger than most friends, while also noting the fear that comes with memory, understanding, and dependence.
 
 ## Counterevidence & Qualifications
-One source is explicit satire and the other is a live comedy thought experiment. Neither proves real AI companions can provide perfect romance, safe grief support, or stable long-term attachment. The concept should remain an authenticity and consent boundary, not a verdict on all AI companionship.
+One source is explicit satire and two sources are live comedy discussions or thought experiments. They do not prove real AI companions can provide perfect romance, safe grief support, or stable long-term attachment. The concept should remain an authenticity and consent boundary, not a verdict on all AI companionship.
 
 ## What Changed
-- Migrated the page to `synthesis-v1`.
-- Added the perfect AI romantic partner scenario as a second branch.
-- Narrowed the concept around representation authenticity, emotional reality, species identity, and existing human obligations.
+- Added the fear-themed crossover's everyday friend/teacher/confidant framing, expanding the concept beyond grief bots and perfect romantic partners into ordinary memory-bearing AI use.
 
 ## Related Concepts
 - [[AIGriefBots]] - post-mortem simulation case where fake representation and real grief collide.

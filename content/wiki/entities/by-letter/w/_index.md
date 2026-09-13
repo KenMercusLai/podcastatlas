@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "w"
-wiki_total_pages: 10019
+wiki_total_pages: 10020
 wiki_pages:
   - key: "WarOfTheWorlds"
     title: "The War of the Worlds / 《世界大战》"
@@ -983,6 +983,9 @@ wiki_pages:
   - key: "WuzhongCountyLateHan"
     title: "无终县 / Wuzhong County (Late Han)"
     url: "/wiki/entities/wuzhongcountylatehan/"
+  - key: "Wuliaozhai"
+    title: "无聊斋 / Wuliaozhai"
+    url: "/wiki/entities/wuliaozhai/"
   - key: "WuzhuMinyueKing"
     title: "无诸 / Wuzhu (Minyue king)"
     url: "/wiki/entities/wuzhuminyueking/"

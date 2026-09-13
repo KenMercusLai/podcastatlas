@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1087
+topic_total_pages: 1088
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1630,6 +1630,9 @@ topic_concepts:
   - key: "SocialComparisonPressure"
     title: "Social Comparison Pressure / 社会比较压力"
     url: "/wiki/concepts/socialcomparisonpressure/"
+  - key: "SocialEmbarrassmentFear"
+    title: "Social Embarrassment Fear"
+    url: "/wiki/concepts/socialembarrassmentfear/"
   - key: "SocialEmotionInferenceLimits"
     title: "Social Emotion Inference Limits"
     url: "/wiki/concepts/socialemotioninferencelimits/"

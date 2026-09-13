@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年](sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs.md) — 罗永浩的十字路口 and 无聊斋 live crossover on everyday fear, social embarrassment, medical vulnerability, AI hallucination, AI career anxiety, cross-model verification, and AI companionship.
 - [《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！](sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8.md) — 芮淇讲透资治通鉴 episode on Huo Guang's Han Zhao regency power, Sui Hong's omen-based abdication memorial, and the lethal boundary around Yao-Shun throne-transfer language.
 - [《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族](sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv.md) — 芮淇讲透资治通鉴 episode on Sang Hongyang's destruction after the Liu Dan rebellion, the Hou Shiwu harboring and amnesty dispute, and Huo Guang's strict legal-political review.
 - [《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？](sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4.md) — 芮淇讲透资治通鉴 episode on Du Zhou's ruler-will legal logic, Du Yannian's court tact, and Huo Guang's Fan Mingyou-led Wuhuan punishment after Xiongnu withdraws.
@@ -3193,6 +3194,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [施南生 / Nansun Shi](entities/NansunShi.md) — Hong Kong film figure represented through memorial-site form, affectionate testimony, and public creator remembrance.
 - [手工耿 / Shougong Geng](entities/ShougongGeng.md) — Chinese maker and short-video creator whose welded inventions sit between usefulness, comedy, craft, and art interpretation.
 - [罗永浩的十字路口 / Luo Yonghao's Crossroads](entities/LuoyonghaosCrossroads.md) — long-form interview show context for Luo Yonghao's creator, engineering-founder, status-signaling, and money-and-debt conversations.
+- [无聊斋 / Wuliaozhai](entities/Wuliaozhai.md) — comedy-podcast context represented by a fear-themed live crossover with 罗永浩的十字路口.
 - [郑执 / Zheng Zhi](entities/ZhengZhiWriter.md) — writer, screenwriter, and director whose interview links Northeast literature, screenwriting survival, family memory, and a first feature film.
 - [《身中有林》 / Shen Zhong You Lin](entities/ShenzhongYoulinFilm.md) — Zheng Zhi's director debut discussed through adaptation, family-crime premise, casting, editing, and theatrical release constraints.
 - [吴瀚坤](entities/WuHankun.md) — actor, AI entrepreneur, and AI short-film creator interviewed by 三五环.
@@ -12436,6 +12438,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Social Embarrassment Fear](concepts/SocialEmbarrassmentFear.md) — anticipatory fear of being misread, exposed, judged, or trapped in awkward social obligation.
 - [Assisted Reproduction Decision Literacy](concepts/AssistedReproductionDecisionLiteracy.md) — IVF, egg-freezing, embryo-testing, pregnancy-loss, and emerging-intervention decisions interpreted through attrition, autonomy, and medical context.
 - [Female Fertility as Health Marker](concepts/FemaleFertilityAsHealthMarker.md) — Fertility framed as a reproductive, hormonal, metabolic, inflammatory, lifestyle, and exposure signal rather than only pregnancy success.
 - [Ovarian Reserve and AMH Interpretation](concepts/OvarianReserveAMHInterpretation.md) — AMH and ovarian-reserve literacy that separates likely egg quantity response from egg quality and personalized fertility prognosis.
