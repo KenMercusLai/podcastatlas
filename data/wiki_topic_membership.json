@@ -53046,6 +53046,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "PostLearningArousalTagging": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "PostMarketDrugSurveillance": [
     {
       "key": "politics",
@@ -80460,6 +80467,13 @@
     }
   ],
   "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
+  "essentials-understand-improve-memory-using-science-based-tools-scim6024056343": [
     {
       "key": "science",
       "label": "Science",

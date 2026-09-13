@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7315
+wiki_total_pages: 7316
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -965,6 +965,9 @@ wiki_pages:
   - key: "PostImperialIdentityGap"
     title: "Post-Imperial Identity Gap / 后帝国身份落差"
     url: "/wiki/concepts/postimperialidentitygap/"
+  - key: "PostLearningArousalTagging"
+    title: "Post-Learning Arousal Tagging"
+    url: "/wiki/concepts/postlearningarousaltagging/"
   - key: "PostMarketDrugSurveillance"
     title: "Post-Market Drug Surveillance"
     url: "/wiki/concepts/postmarketdrugsurveillance/"

@@ -30810,9 +30810,9 @@
       "url": "/wiki/concepts/epigeneticreprogrammingboundary/"
     },
     "EpinephrineAlertnessToolkit": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM6495209379 [SCIM6495209379].md",
@@ -30820,9 +30820,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Control Your Brain Chemistry for Focus, Motivation & Well-Being",
           "url": "/wiki/sources/essentials-control-your-brain-chemistry-for-focus-motivation-well-being-scim6495209379/"
+        },
+        {
+          "episode_file": "SCIM6024056343 [SCIM6024056343].md",
+          "key": "essentials-understand-improve-memory-using-science-based-tools-scim6024056343",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/epinephrinealertnesstoolkit/"
     },
     "EpistemicInjusticeExperienceSilencing": {
@@ -66015,9 +66022,9 @@
       "url": "/wiki/entities/memex/"
     },
     "MemoryConsolidationWindows": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 3,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "用 AI 让我们变笨了吗？｜ S10E25 [a6b360da-07f7-4d9e-ab1b-64a7130e9254].md",
@@ -66046,9 +66053,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Use Sleep to Enhance Learning, Memory & Emotional State | Dr. Gina Poe",
           "url": "/wiki/sources/essentials-use-sleep-to-enhance-learning-memory-emotional-state-dr-gina-poe-scim7156610982/"
+        },
+        {
+          "episode_file": "SCIM6024056343 [SCIM6024056343].md",
+          "key": "essentials-understand-improve-memory-using-science-based-tools-scim6024056343",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
         }
       ],
-      "updated": "2026-09-05",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/memoryconsolidationwindows/"
     },
     "MemoryContaminationRisk": {
@@ -77132,6 +77146,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/concepts/postimperialidentitygap/"
+    },
+    "PostLearningArousalTagging": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6024056343 [SCIM6024056343].md",
+          "key": "essentials-understand-improve-memory-using-science-based-tools-scim6024056343",
+          "show": "Huberman Lab",
+          "title": "Essentials: Understand & Improve Memory Using Science-Based Tools",
+          "url": "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/postlearningarousaltagging/"
     },
     "PostRestorationMeritThreat": {
       "episode_count": 5,

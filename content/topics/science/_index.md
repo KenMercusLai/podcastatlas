@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1073
+topic_total_pages: 1075
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1276,6 +1276,9 @@ topic_concepts:
   - key: "PostBattleTerrorSignaling"
     title: "Post-Battle Terror Signaling / 战后恐怖震慑"
     url: "/wiki/concepts/postbattleterrorsignaling/"
+  - key: "PostLearningArousalTagging"
+    title: "Post-Learning Arousal Tagging"
+    url: "/wiki/concepts/postlearningarousaltagging/"
   - key: "PrefrontalCortexOverattribution"
     title: "Prefrontal Cortex Overattribution / 前额叶过度归因"
     url: "/wiki/concepts/prefrontalcortexoverattribution/"
@@ -3057,6 +3060,9 @@ topic_sources:
   - key: "essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415"
     title: "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett"
     url: "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+  - key: "essentials-understand-improve-memory-using-science-based-tools-scim6024056343"
+    title: "Essentials: Understand & Improve Memory Using Science-Based Tools"
+    url: "/wiki/sources/essentials-understand-improve-memory-using-science-based-tools-scim6024056343/"
   - key: "essentials-understanding-controlling-aggression-scim4757138073"
     title: "Essentials: Understanding & Controlling Aggression"
     url: "/wiki/sources/essentials-understanding-controlling-aggression-scim4757138073/"

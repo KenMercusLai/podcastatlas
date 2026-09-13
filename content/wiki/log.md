@@ -19121,3 +19121,11 @@ Added source `zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pe
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | Essentials: Understand & Improve Memory Using Science-Based Tools
+
+Added source note plus Post-Learning Arousal Tagging, and updated Memory Consolidation Windows and Epinephrine Alertness Toolkit. Key claims: memory is selective perception shaped by repetition, attention, and state; acute adrenaline or norepinephrine late in learning or roughly 5-15 minutes afterward may tag selected material for stronger retention; and sleep, naps, non-sleep deep rest, exercise, visual framing, and meditation remain bounded support tools rather than universal medical or learning prescriptions.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
