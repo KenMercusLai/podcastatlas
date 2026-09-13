@@ -6,23 +6,24 @@ tags: [western-han, emperor, succession, court-politics]
 sources:
   - zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8
   - zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs
+  - zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc
 last_updated: 2026-09-14
 ---
 
 ## Overview
 
-汉昭帝刘弗陵 / Emperor Zhao of Han enters the wiki through [[zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8|Hanji 401]] and [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] as the young Western Han ruler whose court operates under [[HuoGuangWesternHan|霍光]]'s regency dominance and whose sudden death at twenty-one creates the succession vacuum that Huo must manage before the later [[LiuHeHaihunHou|刘贺]] and [[EmperorXuanOfHan|汉宣帝]] sequence.
+汉昭帝刘弗陵 / Emperor Zhao of Han enters the wiki through [[zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8|Hanji 401]] and [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] as the young Western Han ruler whose court operates under [[HuoGuangWesternHan|霍光]]'s regency dominance and whose sudden death at twenty-one creates the succession vacuum that Huo must manage before the later [[LiuHeHaihunHou|刘贺]] and [[EmperorXuanOfHan|汉宣帝]] sequence. [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] adds an earlier crisis-response layer: Han Zhao receives the leaked anti-Huo and pro-[[LiuDanYanKingWesternHan|刘旦]] conspiracy, acts quickly against the principals, rebukes Liu Dan, but spares Liu Dan's son and the young [[ShangguanTaihouWesternHan|上官皇后]].
 
 ## Current Profile
 
-The sources present Han Zhao as a capable but constrained young ruler. Hanji 401 shows his court as formally imperial but practically Huo-centered: Huo Guang controls appointments, [[TianQianqiuWesternHan|田千秋]] stays cautious, and [[SuiHongWesternHan|眭弘]]'s omen-based abdication memorial is treated as an intolerable challenge to the reigning line. Politically, Hanji 404 credits Han Zhao with continuing [[HanWudi|汉武帝]]'s late turn toward rest-and-recovery governance: tax relief, social stabilization, frontier defense, and institutional adjustment. The episode therefore resists treating him as an empty child-emperor placeholder.
+The sources present Han Zhao as a capable but constrained young ruler. Hanji 400-1 shows him acting decisively when a plot against Huo Guang and his throne is reported: the principal conspirators are arrested, Liu Dan is formally rebuked into political dead end, and punishment is still differentiated for uninvolved or less culpable kin. Hanji 401 shows his court as formally imperial but practically Huo-centered: Huo Guang controls appointments, [[TianQianqiuWesternHan|田千秋]] stays cautious, and [[SuiHongWesternHan|眭弘]]'s omen-based abdication memorial is treated as an intolerable challenge to the reigning line. Politically, Hanji 404 credits Han Zhao with continuing [[HanWudi|汉武帝]]'s late turn toward rest-and-recovery governance: tax relief, social stabilization, frontier defense, and institutional adjustment. The episode therefore resists treating him as an empty child-emperor placeholder.
 
 His death is the central interpretive problem. The episode says the record is too sparse to prove direct murder by Huo Guang and uses Pingling's scale as a sign that Huo did not simply discard him. At the same time, it describes a ruler living under intense regent control, physically weak, emotionally pressured, and unable to control his own harem or succession prospects. His childlessness gives Huo the decisive next move in imperial selection.
 
 ## Key Characteristics
 
 - Young Western Han emperor whose death at twenty-one opens the succession crisis leading toward Liu He and then Han Xuan.
-- Ruler under a Huo Guang regency where practical court decision-making and appointment power are concentrated around the great general.
+- Ruler under a Huo Guang regency where practical court decision-making and appointment power are concentrated around the great general, yet able to respond quickly to the Shangguan-Gai-Sang-Liu Dan conspiracy while distinguishing principal guilt from kinship exposure.
 - Ruler credited by the source with continuing late-Wudi rest-and-recovery policy rather than accelerating imperial exhaustion.
 - Politically intelligent figure whose trust in Huo Guang is presented as part of a complex ruler-regent relationship.
 - Physically vulnerable emperor whose poor health may have been visible before death.
@@ -32,6 +33,8 @@ His death is the central interpretive problem. The episode says the record is to
 ## Evidence
 
 Political profile:
+- [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] says Han Zhao receives Du Yannian's report of the anti-Huo conspiracy and quickly orders arrests of the principal conspirators.
+- [[zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc|Hanji 400-1]] says Han Zhao formally rebukes Liu Dan, after which Liu Dan kills himself, but Han Zhao spares Liu Dan's son Liu Jian and does not depose the young Shangguan empress.
 - [[zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8|Hanji 401]] says state affairs under Han Zhao were effectively decided by Huo Guang, while Tian Qianqiu did not challenge Huo's personnel choices.
 - [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] says Han Zhao continued late-Wudi rest-and-recovery policy by reducing burdens, stabilizing the northern frontier, and controlling accumulated contradictions.
 - [[zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs|Hanji 404]] says the host gives Han Zhao a high overall evaluation despite his short reign.
@@ -48,16 +51,17 @@ Succession exposure:
 
 ## Qualifications
 
-This page is bounded to Hanji 401 and Hanji 404. It does not reconstruct Han Zhao's full reign, the primary-source medical record, the complete Pingling archaeological record, Shangguan Huanghou's biography, Sui Hong's full memorial, or every legal detail behind either the merchants' funeral-goods case or the Sui Hong execution. Hanji 404 treats Huo Guang's direct murder of Han Zhao as unlikely, but it does not absolve Huo of coercive control over the emperor's personal, court, and succession environment.
+This page is bounded to Hanji 400-1, Hanji 401, and Hanji 404. It does not reconstruct Han Zhao's full reign, the complete Shangguan-Gai-Sang-Liu Dan conspiracy procedure, the primary-source medical record, the complete Pingling archaeological record, Shangguan Huanghou's biography, Sui Hong's full memorial, or every legal detail behind either the merchants' funeral-goods case or the Sui Hong execution. Hanji 404 treats Huo Guang's direct murder of Han Zhao as unlikely, but it does not absolve Huo of coercive control over the emperor's personal, court, and succession environment.
 
 ## What Changed
 
-- Added Hanji 401's regency and abdication-threat layer before Hanji 404's death-and-succession judgment.
+- Added Hanji 400-1's conspiracy-response layer and Hanji 401's regency and abdication-threat layer before Hanji 404's death-and-succession judgment.
 - Preserved Hanji 404's split judgment: Han Zhao's death is read as more likely illness than direct murder, while Huo Guang's regent domination remains politically consequential.
 
 ## Relationships
 
 - [[HuoGuangWesternHan]] - regent whose control frames Han Zhao's last years and the successor choice after his death.
+- [[LiuDanYanKingWesternHan]] - royal brother whose rebellion is ended by Han Zhao's formal rebuke and Liu Dan's suicide.
 - [[SuiHongWesternHan]] - scholar-official who urges Han Zhao to abdicate on omen and Yao-Shun grounds.
 - [[ShangguanTaihouWesternHan]] - empress whose childlessness and kinship with Huo Guang define the harem-control problem.
 - [[LiuXuGuanglingKingWesternHan]] - adult royal kinsman considered after Han Zhao dies without a son.

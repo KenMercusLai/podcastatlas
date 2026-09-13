@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "g"
-wiki_total_pages: 10020
+wiki_total_pages: 10023
 wiki_pages:
   - key: "GWFHegel"
     title: "G. W. F. Hegel / 黑格尔"
@@ -1073,6 +1073,9 @@ wiki_pages:
   - key: "GascoigneApartments"
     title: "盖斯康公寓 / Gascoigne Apartments"
     url: "/wiki/entities/gascoigneapartments/"
+  - key: "GaiChanggongzhuWesternHan"
+    title: "盖长公主 / Gai Chang Gongzhu (Western Han)"
+    url: "/wiki/entities/gaichanggongzhuwesternhan/"
   - key: "GuanZhong"
     title: "管仲 / Guan Zhong"
     url: "/wiki/entities/guanzhong/"

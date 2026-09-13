@@ -26594,9 +26594,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuYannianWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -26632,6 +26632,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
         }
       ],
       "updated": "2026-09-14",
@@ -29690,9 +29697,9 @@
       "url": "/wiki/entities/emperorzhangofhan/"
     },
     "EmperorZhaoOfHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -29707,6 +29714,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》404｜汉昭帝刘弗陵，真的是被霍光害死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
         }
       ],
       "updated": "2026-09-14",
@@ -38369,6 +38383,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/entities/gabrieledannunzio/"
+    },
+    "GaiChanggongzhuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/gaichanggongzhuwesternhan/"
     },
     "GaiKuanraoWesternHan": {
       "episode_count": 1,
@@ -48854,9 +48884,9 @@
       "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
     },
     "HuoGuangWesternHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -48955,6 +48985,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
         }
       ],
       "updated": "2026-09-14",
@@ -59731,9 +59768,9 @@
       "url": "/wiki/entities/liudaisikongzhangshi/"
     },
     "LiuDanYanKingWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
@@ -59741,6 +59778,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
         }
       ],
       "updated": "2026-09-14",
@@ -74613,9 +74657,9 @@
       "url": "/wiki/concepts/palaceaccusationverification/"
     },
     "PalaceCoupSymbolControl": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》848丨瞬间垮台！我为何说他死有余辜？ [lgqVgMxlwga2fKnmtxPj3Ya9chk0].md",
@@ -74651,9 +74695,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》766丨历史教给你：为什么要故意发脾气？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-766-lishi-jiaogei-ni-weishenme-yao-guyi-fa-piqi-lrs-mguyfmnxe970hdwjvmevl8oc/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/palacecoupsymbolcontrol/"
     },
     "PalaceEnvoyLocalExtraction": {
@@ -86432,9 +86483,9 @@
       "url": "/wiki/entities/sanwuhuan/"
     },
     "SangHongyangWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
@@ -86442,6 +86493,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
         }
       ],
       "updated": "2026-09-14",
@@ -88255,10 +88313,42 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/shangdehuanxingpenalreform/"
     },
-    "ShangguanTaihouWesternHan": {
-      "episode_count": 2,
+    "ShangguanAnWesternHan": {
+      "episode_count": 1,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/shangguananwesternhan/"
+    },
+    "ShangguanJieWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/shangguanjiewesternhan/"
+    },
+    "ShangguanTaihouWesternHan": {
+      "episode_count": 3,
+      "show_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
@@ -88273,6 +88363,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》404｜汉昭帝刘弗陵，真的是被霍光害死的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！ [ln0-b64iP2KwpcPeN_65e4Du3Vqc].md",
+          "key": "zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc/"
         }
       ],
       "updated": "2026-09-14",

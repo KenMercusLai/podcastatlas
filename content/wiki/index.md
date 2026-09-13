@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年](sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs.md) — 罗永浩的十字路口 and 无聊斋 live crossover on everyday fear, social embarrassment, medical vulnerability, AI hallucination, AI career anxiety, cross-model verification, and AI companionship.
+- [《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！](sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc.md) — 芮淇讲透资治通鉴 episode on the Shangguan-Gai-Sang-Liu Dan conspiracy to kill Huo Guang, depose Han Zhao, and the leaked plot that ends in executions and Liu Dan's suicide.
 - [《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！](sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8.md) — 芮淇讲透资治通鉴 episode on Huo Guang's Han Zhao regency power, Sui Hong's omen-based abdication memorial, and the lethal boundary around Yao-Shun throne-transfer language.
 - [《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族](sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv.md) — 芮淇讲透资治通鉴 episode on Sang Hongyang's destruction after the Liu Dan rebellion, the Hou Shiwu harboring and amnesty dispute, and Huo Guang's strict legal-political review.
 - [《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？](sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4.md) — 芮淇讲透资治通鉴 episode on Du Zhou's ruler-will legal logic, Du Yannian's court tact, and Huo Guang's Fan Mingyou-led Wuhuan punishment after Xiongnu withdraws.
@@ -2422,7 +2423,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [侯史吴 / Hou Shiwu (Western Han)](entities/HouShiWuWesternHan.md) — shelterer of Sang Qian whose self-surrender becomes the test case for Huo Guang's stricter rebellion-adjacent legal classification.
 - [王平 / Wang Ping (Western Han)](entities/WangPingWesternHan.md) — Tingwei punished after his narrow amnesty reading of the Hou Shiwu case is recast as indulgence of rebellion.
 - [徐仁 / Xu Ren (Western Han)](entities/XuRenWesternHan.md) — Shaofu and Tian Qianqiu's son-in-law whose Hou Shiwu judgment leads to imprisonment and suicide.
-- [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal rebel whose anti-Huo action frames Sang Hongyang's final case.
+- [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal claimant in the anti-Huo conspiracy whose coalition misreading, imperial rebuke, and suicide frame Sang Hongyang's final case.
 - [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
 - [《爱情怎么翻译》 / Love Translation K-Drama](entities/LoveTranslationKDrama.md) — Korean-drama hook used by VOL.202 to discuss translation as a metaphor for unspoken need, push-pull intimacy, and self-knowledge.
@@ -2439,6 +2440,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Martin Kutter](entities/MartinKutter.md) — FinalSpark co-founder named in EP37's origin story for biological AI processors.
 - [Gong Sui (Western Han)](entities/GongSuiWesternHan.md) — Western Han official whose Bohai governance reframed banditry as hunger and official-neglect repair.
 - [Huo Guang (Western Han)](entities/HuoGuangWesternHan.md) — Western Han regent whose loyal service and posthumous family purge illustrate failed power exit.
+- [上官桀 / Shangguan Jie (Western Han)](entities/ShangguanJieWesternHan.md) — Senior Shangguan conspirator targeted in Han Zhao's anti-Huo rebellion cleanup and intended beneficiary of Shangguan An's internal betrayal plan.
+- [上官安 / Shangguan An (Western Han)](entities/ShangguanAnWesternHan.md) — Shangguan-family conspirator who plans to use and then kill Liu Dan before installing Shangguan Jie.
+- [盖长公主 / Gai Chang Gongzhu (Western Han)](entities/GaiChanggongzhuWesternHan.md) — Princess whose banquet access is imagined as the assassination setting in the failed anti-Huo conspiracy.
 - [霍去病 / Huo Qubing](entities/HuoQubing.md) — Western Han general whose anti-Xiongnu campaign anchors the Wuhuan relocation context in Hanji 402-2.
 - [杜周 / Du Zhou (Western Han)](entities/DuZhouWesternHan.md) — Western Han cruel official whose ruler-will legal logic and late-career moderation explain his safe retirement in Hanji 402-2.
 - [范明友 / Fan Mingyou (Western Han)](entities/FanMingyouWesternHan.md) — Western Han Duliao general who attacks exhausted Wuhuan after Xiongnu withdraws in Hanji 402-2.

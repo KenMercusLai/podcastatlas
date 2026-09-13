@@ -19214,6 +19214,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！
+
+Added source `zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc`; created `ShangguanJieWesternHan`, `ShangguanAnWesternHan`, and `GaiChanggongzhuWesternHan`; updated `LiuDanYanKingWesternHan`, `HuoGuangWesternHan`, `EmperorZhaoOfHan`, `SangHongyangWesternHan`, `DuYannianWesternHan`, `ShangguanTaihouWesternHan`, and `PalaceCoupSymbolControl` with the failed banquet-assassination plot against Huo Guang, Liu Dan's claimant ambition and suicide, Shangguan An's intra-coalition betrayal plan, Du Yannian's reporting role, and the distinction between palace access and successful symbol control. No settled contradiction found; Yan Cang, Yang Chang, Ren Gong, Wang Shanshou, Liu Jian, Han Yi, Han Yanshou, and exact reward-title details remain source-scoped.
+
 ## [2026-09-14] ingest | How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford
 
 Added source `how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360`; created `NatalieCrawford`, `FemaleFertilityAsHealthMarker`, `OvarianReserveAMHInterpretation`, and `AssistedReproductionDecisionLiteracy`; updated `FemaleHormoneHealthPhenotyping`, `FertilityEnergyAvailability`, and `MenopauseClinicalSharedDecision` with fertility-as-health-marker, AMH and ovulation tracking, semen analysis, pregnancy-loss evaluation, IVF and egg-freezing attrition, trimester-zero preconception planning, endocrine-disruptor exposure, cannabis and nicotine cautions, and perimenopause shared-decision timing. No settled contradiction found; GLP-1s, human growth hormone, PRP, red light, NAD-related interventions, fertility supplement claims, and individual treatment decisions remain source-scoped.
@@ -19245,6 +19249,10 @@ Added source `zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguan
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？
 
 Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs`; updated `LiuHeHaihunHou`, `WangJiWesternHan`, `GongSuiWesternHan`, and `AccessionMourningLegibility` with the pre-summons Changyi layer: Huo Guang's controllability calculation, Liu He's indulgent habits, Wang Ji's educational remonstrance, and Gong Sui's failed companion-reform warning. No settled contradiction found; the strange dog omen remains source-scoped as episode remonstrance framing.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 
