@@ -10165,9 +10165,9 @@
       "url": "/wiki/entities/benjaminlay/"
     },
     "Benkei": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -10175,9 +10175,16 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/benkei/"
     },
     "BernieSanders": {
@@ -39707,9 +39714,9 @@
       "url": "/wiki/concepts/genomelanguagemodels/"
     },
     "GenpeiWar": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -39717,9 +39724,16 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/genpeiwar/"
     },
     "GentleAnxietySupport": {
@@ -40330,9 +40344,9 @@
       "url": "/wiki/entities/gopro/"
     },
     "GoShirakawa": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -40340,9 +40354,16 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/goshirakawa/"
     },
     "GoalDisengagementAndReengagement": {
@@ -55125,9 +55146,9 @@
       "url": "/wiki/entities/kirklandellis/"
     },
     "KisoYoshinaka": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -55135,9 +55156,16 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/kisoyoshinaka/"
     },
     "KitcheeSC": {
@@ -55849,6 +55877,22 @@
       ],
       "updated": "2026-09-08",
       "url": "/wiki/entities/kunyangbattle/"
+    },
+    "KurikaraBattle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/kurikarabattle/"
     },
     "Kush": {
       "episode_count": 1,
@@ -68162,9 +68206,9 @@
       "url": "/wiki/entities/minkaneasternhan/"
     },
     "MinamotoClan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -68172,15 +68216,22 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/minamotoclan/"
     },
     "MinamotoNoYoritomo": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -68188,15 +68239,22 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/minamotonoyoritomo/"
     },
     "MinamotoNoYoshitsune": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -68204,9 +68262,16 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/minamotonoyoshitsune/"
     },
     "MindBodyUnion": {
@@ -86235,9 +86300,9 @@
       "url": "/wiki/entities/samueljohnson/"
     },
     "SamuraiLegendAndPoliticalMemory": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -86245,9 +86310,16 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/samurailegendandpoliticalmemory/"
     },
     "SamuraiRule": {
@@ -95518,9 +95590,9 @@
       "url": "/wiki/entities/taipingjing/"
     },
     "TairaClan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -95528,9 +95600,16 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/tairaclan/"
     },
     "Taishan": {
@@ -97318,9 +97397,9 @@
       "url": "/wiki/entities/thesaaspodcast/"
     },
     "TheTaleOfTheHeike": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT7837412375 [GLT7837412375].md",
@@ -97328,9 +97407,16 @@
           "show": "The Rest Is History",
           "title": "661. Dawn of the Samurai: The Shogun Triumphant (Part 4)",
           "url": "/wiki/sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375/"
+        },
+        {
+          "episode_file": "GLT3581345898 [GLT3581345898].md",
+          "key": "660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898",
+          "show": "The Rest Is History",
+          "title": "660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)",
+          "url": "/wiki/sources/660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/thetaleoftheheike/"
     },
     "TheTroubles": {

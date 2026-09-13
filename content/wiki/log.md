@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | 660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)
+
+Added source `660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898`; created `KurikaraBattle`; updated Benkei, Minamoto no Yoshitsune, Kiso Yoshinaka, Go-Shirakawa, Minamoto no Yoritomo, Taira Clan, Minamoto Clan, The Tale of the Heike, Genpei War, and Samurai Legend and Political Memory with Yoshitsune's origin legend, Kiso's Kurikara-to-Kyoto arc, Go-Shirakawa's protector-switching, and Yoritomo's legitimacy opening. No settled contradiction found; Benkei's bridge duel, Tengu training, battle numbers, and other vivid medieval-war details remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！
 
 Added source `zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8`; created `SuiHongWesternHan` and `TianQianqiuWesternHan`; updated Huo Guang, Han Zhao, Zhang Anshi, Du Yannian, and Imperial Abdication Language Boundary with the Han Zhao regency, omen interpretation, and abdication-language layer. No settled contradiction found; the anomalies, "公孙病已立" reading, and legal procedure remain source-scoped.
@@ -19241,6 +19245,10 @@ Added source `zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguan
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？
 
 Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs`; updated `LiuHeHaihunHou`, `WangJiWesternHan`, `GongSuiWesternHan`, and `AccessionMourningLegibility` with the pre-summons Changyi layer: Huo Guang's controllability calculation, Liu He's indulgent habits, Wang Ji's educational remonstrance, and Gong Sui's failed companion-reform warning. No settled contradiction found; the strange dog omen remains source-scoped as episode remonstrance framing.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

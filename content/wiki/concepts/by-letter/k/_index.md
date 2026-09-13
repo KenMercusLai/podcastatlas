@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "k"
-wiki_total_pages: 7343
+wiki_total_pages: 7344
 wiki_pages:
   - key: "K12ComputerScienceAccess"
     title: "K-12 Computer Science Access"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "KumagaiAndAtsumori"
     title: "Kumagai and Atsumori"
     url: "/wiki/concepts/kumagaiandatsumori/"
+  - key: "KurikaraBattle"
+    title: "Kurikara Battle"
+    url: "/wiki/concepts/kurikarabattle/"
   - key: "KinshipProtocolBoundary"
     title: "亲情名分边界 / Kinship Protocol Boundary"
     url: "/wiki/concepts/kinshipprotocolboundary/"
