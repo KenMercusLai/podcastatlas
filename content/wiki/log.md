@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》439｜功比卫青霍去病！职场管理者榜样：赵充国！
+
+Added source page for Hanji 439: Zhao Chongguo's cautious Qiang-frontier policy, court persuasion, refusal of low-yield attack, 河湟屯田, infrastructure building, and surrender results, with Zhu Yi's clean-official memory as the closing civil-service contrast. Created Zhu Yi; updated Zhao Chongguo and frontier resource integration. No settled contradiction found; exact campaign counts, construction details, and the Tongxiang place note remain source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》450｜清官必须死？揭秘汉臣韩延寿必死之谜
 
 Added source `zizhi-tongjian-hanji-450-qingguan-bixu-si-jiemi-hanchen-hanyanshou-bisi-zhi-mi-lmdsplur02fn29qllfhnz3fhinkq`; updated Han Yanshou, Xiao Wangzhi, Emperor Xuan of Han, and Political Execution Overreach with the episode's post-Huo-Guang political-security reading of Han's death. No settled contradiction found; the claim that Huo-era association and popular affection drove Xuan's decision remains source-scoped.
@@ -18787,6 +18791,10 @@ Added source note plus Erich Jarvis, Vocal Learning Evolution, Speech Motor Circ
 ## [2026-09-13] ingest | 663. Britain in the 70s: The Brexit That Never Was (Part 2)
 
 Added source note plus British EC Referendum 1975 and Fawlty Towers. Key claims: Wilson used the 1975 referendum to manage Labour's Europe split, Yes won as a status-quo choice during economic crisis rather than mass Euro-enthusiasm, and the referendum deferred rather than solved the inflation, sterling, and public-finance crisis that led toward the IMF drama.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

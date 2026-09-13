@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "z"
-wiki_total_pages: 9925
+wiki_total_pages: 9926
 wiki_pages:
   - key: "ZachBarber"
     title: "Zach Barber"
@@ -1097,6 +1097,9 @@ wiki_pages:
   - key: "ZhuDaLateHan"
     title: "朱达 / Zhu Da (late Han)"
     url: "/wiki/entities/zhudalatehan/"
+  - key: "ZhuYiWesternHan"
+    title: "朱邑 / Zhu Yi (Western Han)"
+    url: "/wiki/entities/zhuyiwesternhan/"
   - key: "ZhuZhenLateHan"
     title: "朱震 / Zhu Zhen (late Han)"
     url: "/wiki/entities/zhuzhenlatehan/"
