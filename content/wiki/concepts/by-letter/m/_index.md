@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7282
+wiki_total_pages: 7284
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -1241,6 +1241,9 @@ wiki_pages:
   - key: "ManichaeismInChina"
     title: "明教 / 摩尼教在中国"
     url: "/wiki/concepts/manichaeisminchina/"
+  - key: "MilitaryJustificationTypology"
+    title: "用兵名义分型 / Military Justification Typology"
+    url: "/wiki/concepts/militaryjustificationtypology/"
   - key: "MythicBiographySourceCaution"
     title: "神话化身世的史料边界 / Mythic Biography Source Caution"
     url: "/wiki/concepts/mythicbiographysourcecaution/"

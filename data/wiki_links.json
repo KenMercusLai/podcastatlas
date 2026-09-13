@@ -11603,6 +11603,10 @@
     "title": "车师后王国 / Later Cheshi Kingdom (Xin)",
     "url": "/wiki/entities/cheshihoukingdomxin/"
   },
+  "CheshiKingdomWesternHan": {
+    "title": "车师国 / Cheshi Kingdom (Western Han)",
+    "url": "/wiki/entities/cheshikingdomwesternhan/"
+  },
   "CheshireCat": {
     "title": "Cheshire Cat / 柴郡猫",
     "url": "/wiki/entities/cheshirecat/"
@@ -30439,6 +30443,10 @@
     "title": "Internal Canteen Food-Court Operation / 内部食堂美食广场化",
     "url": "/wiki/concepts/internalcanteenfoodcourtoperation/"
   },
+  "InternalCapacityBeforeWar": {
+    "title": "内政承受力先于用兵 / Internal Capacity Before War",
+    "url": "/wiki/concepts/internalcapacitybeforewar/"
+  },
   "InternalMarketizationLimit": {
     "title": "Internal Marketization Limit / 企业内部市场化边界",
     "url": "/wiki/concepts/internalmarketizationlimit/"
@@ -40651,6 +40659,10 @@
     "title": "军费贪腐与战力空转 / Military Finance Corruption",
     "url": "/wiki/concepts/militaryfinancecorruption/"
   },
+  "MilitaryJustificationTypology": {
+    "title": "用兵名义分型 / Military Justification Typology",
+    "url": "/wiki/concepts/militaryjustificationtypology/"
+  },
   "MilitaryMeritRankSystem": {
     "title": "Military Merit Rank System / 军功爵制",
     "url": "/wiki/concepts/militarymeritranksystem/"
@@ -49630,6 +49642,10 @@
   "QuizParty": {
     "title": "QuizParty",
     "url": "/wiki/entities/quizparty/"
+  },
+  "QuliWesternRegions": {
+    "title": "渠犁 / Quli (Western Regions)",
+    "url": "/wiki/entities/quliwesternregions/"
   },
   "Qunar": {
     "title": "Qunar",
@@ -63979,6 +63995,10 @@
     "title": "魏熙",
     "url": "/wiki/entities/weixi/"
   },
+  "WeiXiangWesternHan": {
+    "title": "魏相 / Wei Xiang (Western Han)",
+    "url": "/wiki/entities/weixiangwesternhan/"
+  },
   "WeiXiangwang": {
     "title": "魏襄王 / King Xiang of Wei",
     "url": "/wiki/entities/weixiangwang/"
@@ -75166,6 +75186,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav": {
+    "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
   },
   "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq": {
     "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",

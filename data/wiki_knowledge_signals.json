@@ -10251,9 +10251,9 @@
       "url": "/wiki/concepts/binarybiotechplatformoptionality/"
     },
     "BingJiWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》454｜一只鸟干翻一个丞相！黄霸有多惨？ [lrJgft-S8Oi3YT3LRNsh0_M20Sxj].md",
@@ -10275,6 +10275,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
           "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
         }
       ],
       "updated": "2026-09-13",
@@ -15363,6 +15370,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/cheshihoukingdomxin/"
+    },
+    "CheshiKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/cheshikingdomwesternhan/"
     },
     "ChestPainEmergencyEscalation": {
       "episode_count": 1,
@@ -49620,6 +49643,22 @@
       "updated": "2026-08-30",
       "url": "/wiki/concepts/intermediaryroutegatekeeping/"
     },
+    "InternalCapacityBeforeWar": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/internalcapacitybeforewar/"
+    },
     "InternalSafetyResearchExposure": {
       "episode_count": 2,
       "show_count": 2,
@@ -66207,6 +66246,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/concepts/militaryfinancecorruption/"
     },
+    "MilitaryJustificationTypology": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/militaryjustificationtypology/"
+    },
     "MilitaryPersonalization": {
       "episode_count": 8,
       "show_count": 3,
@@ -79514,6 +79569,22 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/quintuslutatiuscatulus/"
+    },
+    "QuliWesternRegions": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/quliwesternregions/"
     },
     "QunfangNoodleHouse": {
       "episode_count": 1,
@@ -101910,6 +101981,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/weitenglatehan/"
     },
+    "WeiXiangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/weixiangwesternhan/"
+    },
     "WeiXiaoEasternHan": {
       "episode_count": 16,
       "show_count": 1,
@@ -108692,9 +108779,9 @@
       "url": "/wiki/entities/yinzhongwesternhan/"
     },
     "YindeRewardCausality": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
@@ -108702,6 +108789,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
           "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
         }
       ],
       "updated": "2026-09-13",
@@ -112695,9 +112789,9 @@
       "url": "/wiki/entities/zhenghongwesternhan/"
     },
     "ZhengJiWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？ [lpxkawZOl3526YZtJyXXmZ26PHcQ].md",
@@ -112712,6 +112806,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》443｜霍去病没搞定的匈奴，赵充国怎么搞定的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-443-huoqubing-mei-gaoding-de-xiongnu-zhaochongguo-zenme-gaoding-de-lofu-y4fuwvoyvra7l9mpe9hombz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
+          "key": "zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
         }
       ],
       "updated": "2026-09-13",

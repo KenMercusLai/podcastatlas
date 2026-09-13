@@ -18530,6 +18530,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？
+
+Added source note plus Wei Xiang, Cheshi, Quli, military justification typology, and internal capacity before war. Updated Bing Ji, Zheng Ji, and hidden virtue synthesis for the Cheshi rescue crisis, Wei Xiang's restraint of a broader Xiongnu strike, and Bing Ji's non-display virtue discovery scene.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏
 
 Added source note plus Liu He / Haihun Hou, Haihun Marquisate, Zhang Chang of Shanyang, Zhang He, Zhang Anshi, Zhang Pengzu, Zhang Ba, Xiahou Sheng, hidden virtue reward causality, and reward fitness risk. Updated Emperor Xuan and Bing Ji for the episode's gratitude, surveillance, hidden-virtue, and reward-restraint layers.
@@ -18890,6 +18894,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书
 
 Added source note plus Ding Kefeng, bowel symptom triage, IBS diagnostic boundary, coffee laxative myth, colorectal cancer screening, colon polyp risk stratification, liquid biopsy screening boundary, and function-preserving colorectal surgery. Key claims: ordinary bowel symptoms should be routed by persistence and warning signs rather than panic, tumor markers and immature liquid-biopsy tools cannot replace validated screening and colonoscopy, and colorectal surgery increasingly balances cure with function and quality of life.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

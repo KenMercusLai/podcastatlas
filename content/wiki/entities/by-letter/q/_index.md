@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "q"
-wiki_total_pages: 9951
+wiki_total_pages: 9954
 wiki_pages:
   - key: "Qatar"
     title: "Qatar"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "QingheKingdomLateHan"
     title: "清河王国 / Qinghe Kingdom (late Han)"
     url: "/wiki/entities/qinghekingdomlatehan/"
+  - key: "QuliWesternRegions"
+    title: "渠犁 / Quli (Western Regions)"
+    url: "/wiki/entities/quliwesternregions/"
   - key: "QuMuLateHan"
     title: "渠穆 / Qu Mu (late Han)"
     url: "/wiki/entities/qumulatehan/"

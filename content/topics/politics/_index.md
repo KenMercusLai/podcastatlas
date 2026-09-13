@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2468
+topic_total_pages: 2469
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3658,6 +3658,9 @@ topic_concepts:
   - key: "KeyOperatorRemovalRisk"
     title: "关键执行者移除风险 / Key Operator Removal Risk"
     url: "/wiki/concepts/keyoperatorremovalrisk/"
+  - key: "InternalCapacityBeforeWar"
+    title: "内政承受力先于用兵 / Internal Capacity Before War"
+    url: "/wiki/concepts/internalcapacitybeforewar/"
   - key: "PenalSeverityExecutionTradeoff"
     title: "刑法轻重与执行困境 / Penal Severity and Execution Tradeoff"
     url: "/wiki/concepts/penalseverityexecutiontradeoff/"
