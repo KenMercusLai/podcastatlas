@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2495
+topic_total_pages: 2498
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6254,6 +6254,9 @@ topic_entities:
   - key: "HouGongChuHan"
     title: "侯公 / Hou Gong (Chu-Han)"
     url: "/wiki/entities/hougongchuhan/"
+  - key: "FuJieziWesternHan"
+    title: "傅介子 / Fu Jiezi (Western Han)"
+    url: "/wiki/entities/fujieziwesternhan/"
   - key: "GongsunQing"
     title: "公孙庆 / Gongsun Qing"
     url: "/wiki/entities/gongsunqing/"
@@ -6389,6 +6392,9 @@ topic_entities:
   - key: "LiangTongEasternHan"
     title: "梁统 / Liang Tong (Eastern Han)"
     url: "/wiki/entities/liangtongeasternhan/"
+  - key: "LoulanKingdomWesternHan"
+    title: "楼兰 / Loulan Kingdom (Western Han)"
+    url: "/wiki/entities/loulankingdomwesternhan/"
   - key: "FanTiaoEasternHan"
     title: "樊鯈 / Fan Tiao (Eastern Han)"
     url: "/wiki/entities/fantiaoeasternhan/"
@@ -7290,6 +7296,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx"
+    title: "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx/"
   - key: "zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww"
     title: "《资治通鉴·汉纪》421｜西汉刑罚有多狠？官吏对囚犯想杀就能杀！"
     url: "/wiki/sources/zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww/"

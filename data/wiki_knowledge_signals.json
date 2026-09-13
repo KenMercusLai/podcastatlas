@@ -17913,9 +17913,9 @@
       "url": "/wiki/concepts/coercedtalentlegitimacy/"
     },
     "CoerciveFrontierDeterrence": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》613丨权力狂潮：揭秘王莽的铁血手腕 [lgFzC3yPqizdDsmD6MvAaSb1Dxsd].md",
@@ -17944,9 +17944,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》490丨大汉战狼陈汤，伪造圣旨立奇功！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-490-dahan-zhanlang-chentang-weizao-shengzhi-li-qigong-lnmkvvmwppn6w3-prhfi6nyoqina/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！ [lum-xOLRqlwJgmv5XSCSsenogYx-].md",
+          "key": "zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx/"
         }
       ],
-      "updated": "2026-09-12",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/coercivefrontierdeterrence/"
     },
     "CoerciveFrontierRelocationBackfire": {
@@ -37212,6 +37219,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/entities/fujiawesternhan/"
+    },
+    "FuJieziWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！ [lum-xOLRqlwJgmv5XSCSsenogYx-].md",
+          "key": "zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/fujieziwesternhan/"
     },
     "FuLongEasternHan": {
       "episode_count": 1,
@@ -62424,6 +62447,22 @@
       "updated": "2026-08-29",
       "url": "/wiki/entities/louisianapurchase/"
     },
+    "LoulanKingdomWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！ [lum-xOLRqlwJgmv5XSCSsenogYx-].md",
+          "key": "zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/loulankingdomwesternhan/"
+    },
     "Louvre": {
       "episode_count": 1,
       "show_count": 1,
@@ -80932,9 +80971,9 @@
       "url": "/wiki/entities/qiuzilong/"
     },
     "QiuciKingdom": {
-      "episode_count": 6,
+      "episode_count": 7,
       "show_count": 1,
-      "source_note_count": 6,
+      "source_note_count": 7,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》790丨历史告诉你：如何和领导打交道？ [luLf0R1SdKOD3luZWRU0_KKrIjXK].md",
@@ -80977,9 +81016,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》705-4丨班超：东汉最伟大的战略级外交家",
           "url": "/wiki/sources/zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！ [lum-xOLRqlwJgmv5XSCSsenogYx-].md",
+          "key": "zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx/"
         }
       ],
-      "updated": "2026-09-01",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/qiucikingdom/"
     },
     "Qiuzhen": {
@@ -97507,9 +97553,9 @@
       "url": "/wiki/entities/tianminglatehan/"
     },
     "TianQianqiuWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -97517,6 +97563,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！ [lum-xOLRqlwJgmv5XSCSsenogYx-].md",
+          "key": "zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx/"
         }
       ],
       "updated": "2026-09-14",

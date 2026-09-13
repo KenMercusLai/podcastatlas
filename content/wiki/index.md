@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！](sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8.md) — 芮淇讲透资治通鉴 episode on Huo Guang's Han Zhao regency power, Sui Hong's omen-based abdication memorial, and the lethal boundary around Yao-Shun throne-transfer language.
+- [《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！](sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx.md) — 芮淇讲透资治通鉴 episode on Fu Jiezi's first Western Regions mission, Loulan/Qiuci rebukes, the killing of Xiongnu envoys, and the low-cost second-mission setup under Huo Guang.
 - [《资治通鉴·汉纪》404｜汉昭帝刘弗陵，真的是被霍光害死的？](sources/zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguang-haiside-lu3adnqvomeco0tsoviuqwedjpfs.md) — 芮淇讲透资治通鉴 episode on Han Zhao's death, Huo Guang's harem and succession control, and the illness-versus-murder interpretation before Liu He's accession.
 - [《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？](sources/zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs.md) — 芮淇讲透资治通鉴 episode on Huo Guang's succession calculation, Liu He's pre-accession indulgence, and Wang Ji and Gong Sui's failed efforts to correct him before Hanji 406.
 - [《资治通鉴·汉纪》405-2｜为什么说“一日为师，终身为父”？](sources/zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko.md) — 芮淇讲透资治通鉴 short episode on teacher-as-father ethics, traditional Chinese apprenticeship, master-servant dependence, and medieval guild apprentice-rights contrast.
@@ -2787,6 +2788,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [鲍宣 / Bao Xuan (Western Han)](entities/BaoXuanWesternHan.md) — Western Han remonstrant and Sili official whose seven-harms memorial diagnoses popular suffering before his later road-rule enforcement collides with Kong Guang's privilege.
 - [丁明 / Ding Ming (Western Han)](entities/DingMingWesternHan.md) — Western Han Da Sima removed by Han Aidi after grieving Wang Jia's death.
 - [傅嘉 / Fu Jia (Western Han)](entities/FuJiaWesternHan.md) — Western Han attendant who proposes altering the Dongping case record for Dong Xian's merit and is later dismissed after Wang Jia's death for slandering worthies.
+- [傅介子 / Fu Jiezi (Western Han)](entities/FuJieziWesternHan.md) — Western Han envoy-official whose first Western Regions mission uses rebuke, intelligence, and small-party violence to shock Loulan and Xiongnu envoys.
+- [楼兰 / Loulan Kingdom (Western Han)](entities/LoulanKingdomWesternHan.md) — Western Regions polity caught between Han and Xiongnu, rebuked by Fu Jiezi and temporarily shocked into submission.
 - [贾延 / Jia Yan (Western Han)](entities/JiaYanWesternHan.md) — Western Han Yushi Dafu who joins Wang Jia's procedural objection to Dong Xian's enfeoffment and is later removed before Kong Guang's restoration.
 - [曾涵 / Zeng Han, Xin-aligned official](entities/ZengHanXinOfficial.md) — Right general who reports Wang Mang's refusal language to Wang Zhengjun before the Nine Bestowments order.
 - [Han Shu / 《汉书》](entities/HanShu.md) — Source-criticism node for Hanji 627-1's comparison of illness-centered Pingdi death records with the Zizhi Tongjian poisoning narrative.

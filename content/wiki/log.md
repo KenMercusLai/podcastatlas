@@ -19206,6 +19206,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！
+
+Added source `zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx`; created `FuJieziWesternHan` and `LoulanKingdomWesternHan`; updated `TianQianqiuWesternHan`, `QiuciKingdom`, and `CoerciveFrontierDeterrence` with Fu Jiezi's first Western Regions mission, Loulan and Qiuci rebukes, killing of Xiongnu envoys, and the low-cost second-mission setup under Huo Guang. No settled contradiction found; Qiuci spelling, Huo Guang motive inference, exact soldier counts, and the sequel Loulan-king assassination remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》405-2｜为什么说“一日为师，终身为父”？
 
 Added source `zizhi-tongjian-hanji-405-2-weihe-shuo-yiriweishi-zhongshenweifu-lsrigo7tzkp-ugt1mtbrud4etmko`; created `TeacherAsFatherEthic`, `TraditionalChineseApprenticeship`, and `MedievalGuildApprenticeshipRights` to capture the episode's teacher-as-father ethic, traditional Chinese apprenticeship dependence, and medieval guild apprentice-rights contrast. No settled contradiction found; the compressed China-West comparison remains source-scoped.
@@ -19217,6 +19221,10 @@ Added source `zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguan
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？
 
 Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs`; updated `LiuHeHaihunHou`, `WangJiWesternHan`, `GongSuiWesternHan`, and `AccessionMourningLegibility` with the pre-summons Changyi layer: Huo Guang's controllability calculation, Liu He's indulgent habits, Wang Ji's educational remonstrance, and Gong Sui's failed companion-reform warning. No settled contradiction found; the strange dog omen remains source-scoped as episode remonstrance framing.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

@@ -10,16 +10,19 @@ sources:
   - zizhi-tongjian-hanji-750-jiemi-donghan-wanmei-nvxing-beihou-manshi-xisheng-lu-96lbdh7r0tsmiopbqqrj0q1gt
   - zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy
   - zizhi-tongjian-hanji-705-4-banchao-donghan-zui-weida-de-zhanlueji-waijiaojia-luohuafhlmnbws52bya4vjoevrg7
-last_updated: 2026-09-01
+  - zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx
+last_updated: 2026-09-14
 ---
 
 ## Overview
 
-龟兹 / Qiuci Kingdom is a Western Regions polity whose current wiki role is to show how Xiongnu-backed appointment, refusal, key-node resistance, hostage-prince strategy, submission, imposed pro-Han kingship, protectorate placement, and regional rivalries shaped Eastern Han frontier control around [[BanChaoEasternHan|Ban Chao]].
+龟兹 / Qiuci Kingdom is a Western Regions polity whose current wiki role now begins with a Western Han notice in [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] and then expands through Eastern Han frontier control around [[BanChaoEasternHan|Ban Chao]]. Across the bounded sources, Qiuci appears as a place where Xiongnu influence, Han rebuke, key-node resistance, hostage-prince strategy, submission, imposed pro-Han kingship, protectorate placement, and regional rivalries all become visible.
 
 ## Current Profile
 
-Hanji 743 supplies the earliest current Qiuci layer. Qiuci king Jian, installed or backed by Xiongnu power, controls the northern route, attacks Shule, kills the Shule king, and installs his non-Shule subject Duti. Ban Chao reverses the move by arresting Duti, denouncing Qiuci's interference before Shule officials, installing Zhong from the prior Shule royal line, and then releasing Duti to display Han grace and authority. In this layer, Qiuci matters as the outside power whose proxy appointment lacks local legitimacy.
+Hanji 403-1 supplies the earliest current Qiuci layer, under Western Han rather than Eastern Han. [[FuJieziWesternHan|傅介子]] reaches Qiuci after rebuking [[LoulanKingdomWesternHan|Loulan]], delivers Han Zhao's reprimand, and later receives the report that Xiongnu envoys have returned from Wusun and are staying at a relay station. Fu's killing of those envoys makes Qiuci part of an early small-party deterrence episode, though the source does not yet reconstruct Qiuci's internal politics.
+
+Hanji 743 supplies the earliest Eastern Han Qiuci layer. Qiuci king Jian, installed or backed by Xiongnu power, controls the northern route, attacks Shule, kills the Shule king, and installs his non-Shule subject Duti. Ban Chao reverses the move by arresting Duti, denouncing Qiuci's interference before Shule officials, installing Zhong from the prior Shule royal line, and then releasing Duti to display Han grace and authority. In this layer, Qiuci matters as the outside power whose proxy appointment lacks local legitimacy.
 
 Hanji 750 then turns Qiuci into the principal target of Ban Chao's explicit proxy strategy. Qiuci and Yanqi still refuse Han, so Ban Chao proposes restoring the Qiuci hostage prince Ba Ba as king and using Western Regions states against Qiuci. Hanji 705-4 restates the same judgment as a whole-program diagnosis: Ban Chao argues that the major Western Regions contradiction lies in Qiuci and that resolving Qiuci together with Yanqi can bring the wider oasis system back into Han alignment. In that plan, Qiuci is not merely a battlefield target; it is the regime to be replaced through hostage legitimacy, local-state cooperation, and the weak support enjoyed by Qiuci-appointed rulers in Gumo and Wensu.
 
@@ -31,7 +34,7 @@ Hanji 779 gives Qiuci the more concrete late layer. The episode says Qiuci initi
 
 ## Key Characteristics
 
-- Major Western Regions polity whose Xiongnu-backed Shule appointment creates a local-legitimacy problem.
+- Western Regions polity visible first as a Western Han stop where Fu Jiezi rebukes the king and receives actionable Xiongnu envoy intelligence, then as an Eastern Han polity whose Xiongnu-backed Shule appointment creates a local-legitimacy problem.
 - Key resistance node whose defeat is treated as necessary for broad Western Regions realignment.
 - Early target of Ban Chao's hostage-prince replacement proposal.
 - Early submitter whose surrender helps justify reestablishing Han Western Regions offices.
@@ -41,6 +44,8 @@ Hanji 779 gives Qiuci the more concrete late layer. The episode says Qiuci initi
 
 ## Evidence
 
+- Western Han envoy mission: [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Fu Jiezi goes to Qiuci after Loulan reports that Xiongnu envoys may pass that way.
+- Reprimand and intelligence: [[zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx|Hanji 403-1]] says Fu rebukes the Qiuci king with Han Zhao's edict and later receives the report that returning Xiongnu envoys are at the relay station.
 - Xiongnu-backed Shule interference: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] says Qiuci king Jian, supported by Xiongnu power, controls the northern route, kills the Shule king, and installs Duti.
 - Local-legitimacy vulnerability: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] says Duti is not from Shule, which becomes the premise for Ban Chao's arrest, denunciation, and installation of Zhong.
 - Mercy as message to Qiuci: [[zizhi-tongjian-hanji-743-chuo-ren-xinwo-de-lishi-shunjian-mingdi-liuzhuang-de-wenqing-meng-lgwtuqtug5bh90qohwiskccx77hy|Hanji 743]] says Ban Chao releases Duti to display Han grace and authority to Qiuci.
@@ -58,11 +63,11 @@ Hanji 779 gives Qiuci the more concrete late layer. The episode says Qiuci initi
 
 ## Qualifications
 
-The page does not reconstruct Qiuci's full history or the internal politics of Jian, Duti, Ba Ba, Youliduo, Gumo, and Wensu. The current evidence is focused on Eastern Han frontier control as represented by six podcast source notes. Hanji 743 gives Qiuci's earlier external interference in Shule; Hanji 750 and Hanji 705-4 give a proposal and strategic premise; Hanji 764 gives the later installation and office-restoration layer. Qiuci's pro-Han king does not mean all Qiuci elites accepted a Han protectorate seat inside the city. Hanji 705-4's claim that nearly all anti-Han Western Regions actions had Qiuci behind them is treated as the source's strategic framing, not a complete independent audit of every local conflict.
+The page does not reconstruct Qiuci's full history or the internal politics of Jian, Duti, Ba Ba, Youliduo, Gumo, and Wensu. Hanji 403-1 adds a Western Han stop and intelligence layer, but it does not make Qiuci's internal alignment or long-run submission clear. The Eastern Han evidence remains focused on frontier control as represented by six podcast source notes. Hanji 743 gives Qiuci's earlier external interference in Shule; Hanji 750 and Hanji 705-4 give a proposal and strategic premise; Hanji 764 gives the later installation and office-restoration layer. Qiuci's pro-Han king does not mean all Qiuci elites accepted a Han protectorate seat inside the city. Hanji 705-4's claim that nearly all anti-Han Western Regions actions had Qiuci behind them is treated as the source's strategic framing, not a complete independent audit of every local conflict.
 
 ## What Changed
 
-- Added Hanji 743 as the earliest current layer: Xiongnu-backed Jian, Duti's Shule installation, and Ban Chao's reversal.
+- Added Hanji 403-1 as the earliest current layer, while preserving Hanji 743 as the earliest Eastern Han layer: Fu Jiezi's Western Han reprimand and Xiongnu envoy intelligence now precede Xiongnu-backed Jian, Duti's Shule installation, and Ban Chao's reversal.
 - Reframed Qiuci as both outside interferer in Shule and later target of Ban Chao's hostage-prince strategy.
 - Preserved Hanji 750 as the refusal, hostage-prince proposal, and proxy-vulnerability layer.
 - Preserved Hanji 764 as the early submission, Ba Ba installation, and protectorate-placement layer.
@@ -83,3 +88,5 @@ The page does not reconstruct Qiuci's full history or the internal politics of J
 - [[LiangJinLateHan]] - commander who defeats the anti-protectorate attack at Qiuci.
 - [[KhotanKingdomLateHan]] - neighboring Western Regions power in the same balance field.
 - [[StrategicFrontierAbandonment]] - concept connecting Qiuci's local crisis to the wider withdrawal decision.
+- [[FuJieziWesternHan]] - Western Han envoy whose first mission uses Qiuci as the actionable intelligence point.
+- [[LoulanKingdomWesternHan]] - earlier mission stop whose information sends Fu toward Qiuci.

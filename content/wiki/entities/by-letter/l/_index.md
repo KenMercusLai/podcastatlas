@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10004
+wiki_total_pages: 10006
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1802,6 +1802,9 @@ wiki_pages:
   - key: "LiuYanshouChuKingWesternHan"
     title: "楚王刘延寿 / Liu Yanshou, Chu King (Western Han)"
     url: "/wiki/entities/liuyanshouchukingwesternhan/"
+  - key: "LoulanKingdomWesternHan"
+    title: "楼兰 / Loulan Kingdom (Western Han)"
+    url: "/wiki/entities/loulankingdomwesternhan/"
   - key: "LouJing"
     title: "楼敬 / Lou Jing"
     url: "/wiki/entities/loujing/"
