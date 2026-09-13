@@ -4,10 +4,10 @@ schema_version: 1
 generated: true
 synthesis_source: compact
 last_updated: 2026-09-14
-as_of_overview_commit: efd3a7de9c4c23f26d780ce5e299913a2f7d9c09
-summary: "Durable outcomes depend on evidence, operating infrastructure, institutional fit, human judgment, and legitimacy boundaries more than labels alone."
-episode_count: 2427
-source_count: 2427
+as_of_overview_commit: dbebff57c6531eaa8b59396bb9fe5d767284e9f2
+summary: "Durable outcomes depend on evidence, infrastructure, institutional fit, human judgment, and legitimacy boundaries more than labels alone."
+episode_count: 2432
+source_count: 2432
 paragraph_count: 619
 topic_count: 8
 ---
@@ -20,10 +20,10 @@ topic_count: 8
 - [[bogg-bag-kim-vaccarella-the-100-million-business-she-almost-abandoned-e1aadd32-1dc4-43fb-b654-32148b3f6cee|The Bogg Bag episode]] adds that physical consumer-brand recovery can depend on actual use overriding founder despair: [[DefectiveInventoryDemandSignal]] turned black-streaked inventory into customer-pull evidence, while [[WholesaleRetailerAmplification]], [[TradeShowBoothSharing]], [[ControlPreservingGrowthCapital]], and [[FounderRestartAfterFailure]] show that restart still needed channels, capital, and governance fit before [[BoggBag]] could scale.
 - Cultural form is an interpretive infrastructure: [[MuseumInterpretationLegibility]], [[PlaceBasedExhibitionCuration]], [[AncientChineseBookMateriality]], [[BookPublishingEconomics]], and [[PhysicalBookDesignTradeoff]] show that objects, books, and exhibitions need labels, material form, production choices, and local context before audiences can understand them.
 - [[zizhi-tongjian-hanji-442-gao-duanwei-zhichangren-bidu-jiemi-gudai-diwangshu-lvgp8yb9vxciuukkmzzu05licmzd|Hanji 442]] adds [[DirtyWorkDelegationStatecraft|dirty-work delegation]] as a governance mechanism: rulers may assign coercion, accusation, flattery, private service, operations, or blame to morally compromised agents, connecting [[LegalistRulerTechnique]], [[NonMoralPoliticalAnalysis]], [[TalentVirtueDistinction]], [[UseStrengthsOverFaults]], [[BlameAbsorbingResponsibility]], and [[CourtTransitionBlameManagement]] without treating usefulness as moral innocence.
-- Formal legitimacy only matters when it is paired with material capacity, timing, and enforceable alliances rather than title or moral claim alone.
+- [[494-zhang-shi-ping-tan-zhan-zheng-shi-shi-jiao-xia-de-qin-mo-han-chu-hun-zhan-lrc9hn-yrw9lkwujl65ummq-qykj|494 张诗坪谈战争史视角下的秦末汉初混战]] adds a Qin-Han branch where [[QinCollapseOverextension]] and [[ChuHanWarDemythologizing]] read empire failure and war outcomes through state capacity, court conflict, coalition structure, logistics, troop quality, cavalry, and source criticism rather than through heroic shorthand.
 - Across [[ShiDiFuShuo]] and related pages, psychological knowledge is most useful when it restores contact with body, context, and responsibility boundaries; otherwise concepts such as [[PsychologyConceptSelfPunishment]] and [[OmnipotentSelfBlame]] can become new self-monitoring tools.
 - [[how-mitochondria-control-your-metabolism-dr-jared-rutter-scim5888935664|The Rutter Huberman Lab episode]] adds a cell-level metabolism branch: [[CellularMetabolismMosaic]] treats whole-body metabolism as many specialized cellular programs, while [[MitochondrialEnergyAllocation]], [[MitochondrialPyruvateCarrier]], [[LactateMetabolicShuttle]], [[CancerMetabolicReprogramming]], and [[ReactiveOxygenSpeciesMetabolicStress]] connect pyruvate routing, lactate fuel use, MPC1/MPC2, cancer growth allocation, and excess-energy ROS damage to [[MedicalRiskManagement]] rather than simple calorie slogans or patient-facing protocols.
-- [[liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp]] adds a work-education-and-society claim through [[DemographicInnovationCapacity]]: low fertility is framed not only as pensions or labor supply but as a future talent, market, and innovation problem, while [[EastAsianEducationCostPressure]], [[FertilitySubsidyLimits]], and [[AITravelPlanning]] show education burden, family policy, and AI pressure shaping young people work, study, entrepreneurship, and family-formation window.
+- Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough.
 
 ## Synthesis by Domain
 
@@ -78,7 +78,7 @@ Science, health, and climate sources favor mechanism and escalation literacy: ce
 
 ### Work, Education, and Society
 
-Work and education sources link durable capability to routines, access, family and school incentives, trust, protected judgment, feedback, and role boundaries, with Hanji 394-1 adding family-modeled public work standards.
+Work, education, and society sources frame capability as something built through effort, feedback, tools, relationships, trust, institutional design, and material support rather than credentials or intention alone.
 
 - Learning sources treat durable skill as active work: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], and [[LearningExperienceDesign]] preserve recall, reasoning, curiosity, and correction rather than treating fluent answers as enough. Evidence: [[SelfTestingMemoryPractice]], [[DesirableDifficulty]], [[SelfDirectedLearning]], [[LearningExperienceDesign]].
 - AI and product/work sources repeatedly show that capability becomes useful only when embedded in [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]], workflows, distribution, and customer or classroom context. Evidence: [[HumanJudgmentUnderAI]], [[AIEngineeringThinking]], [[AICodingVerification]].

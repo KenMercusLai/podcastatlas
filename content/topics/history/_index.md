@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1861
+topic_total_pages: 1862
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -760,6 +760,9 @@ topic_concepts:
   - key: "OstarbeiterForcedLabor"
     title: "Ostarbeiter Forced Labor / 东方劳工强制劳动"
     url: "/wiki/concepts/ostarbeiterforcedlabor/"
+  - key: "OuterConfucianInnerLegalistGovernance"
+    title: "Outer Confucian Inner Legalist Governance / 外儒内法式帝国治理"
+    url: "/wiki/concepts/outerconfucianinnerlegalistgovernance/"
   - key: "OutsiderTalentSignaling"
     title: "Outsider Talent Signaling / 厚待外来人才信号"
     url: "/wiki/concepts/outsidertalentsignaling/"

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2515
+topic_total_pages: 2516
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2254,6 +2254,9 @@ topic_concepts:
   - key: "OutcomeAccelerators"
     title: "Outcome Accelerators"
     url: "/wiki/concepts/outcomeaccelerators/"
+  - key: "OuterConfucianInnerLegalistGovernance"
+    title: "Outer Confucian Inner Legalist Governance / 外儒内法式帝国治理"
+    url: "/wiki/concepts/outerconfucianinnerlegalistgovernance/"
   - key: "OverPersonalizedCrisisDiplomacy"
     title: "Over-Personalized Crisis Diplomacy"
     url: "/wiki/concepts/overpersonalizedcrisisdiplomacy/"

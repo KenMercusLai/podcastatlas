@@ -50332,6 +50332,18 @@
       "url": "/topics/technology/"
     }
   ],
+  "OuterConfucianInnerLegalistGovernance": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "OuterRelativeCommandAppointmentRisk": [
     {
       "key": "politics",

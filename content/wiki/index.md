@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘](sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9.md) — 芮淇讲透资治通鉴 episode on Han Wudi's "独尊儒术," Dong Zhongshu's remade official Confucianism, Heaven-response ideology, and outer-Confucian inner-Legalist imperial rule.
 - [Essentials: The Biology of Aggression, Mating & Arousal | Dr. David Anderson](sources/essentials-the-biology-of-aggression-mating-arousal-dr-david-anderson-scim8499505944.md) — Huberman Lab Essentials episode with David Anderson on emotions as internal states, VMH aggression and fear hierarchy, mating-circuit crosstalk, PAG routing, tachykinins, social isolation, and vagal brain-body signaling.
 - [《资治通鉴·汉纪》394-3｜深挖历史，核危机为何都发生在日本？](sources/zizhi-tongjian-hanji-394-3-shenwa-lishi-heweiji-weihe-dou-fasheng-zai-riben-lspztkfaaq0hcq1no3yum1xdox8a.md) — 芮淇讲透资治通鉴 episode linking Fukushima discharge, Hiroshima, Nagasaki, and Chernobyl into a nuclear-risk memory and externalization argument.
 - [《资治通鉴·汉纪》394-2｜揭秘霍光成为西汉第一权臣的“心机”！](sources/zizhi-tongjian-hanji-394-2-jiemi-huoguang-chengwei-xihan-diyi-quanchen-de-xinji-fmmyov0ecqykq37zkphi40o52bc6.md) — 芮淇讲透资治通鉴 episode on Huo Guang's early Han Zhao regency, Lu-family caution, royal-kin appointments, and benefit sharing with decision control.
@@ -12489,6 +12490,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Outer Confucian Inner Legalist Governance / 外儒内法式帝国治理](concepts/OuterConfucianInnerLegalistGovernance.md) — Concept for imperial rule that uses Confucian moral language and Heaven-response ideology as the surface over Legalist hierarchy and centralized control.
 - [Periaqueductal Gray](concepts/PeriaqueductalGray.md) — Disambiguated brain-region page for PAG as a downstream routing hub for innate behavior, posture, and pain modulation.
 - [Social Isolation Tachykinin](concepts/SocialIsolationTachykinin.md) — Animal-model concept linking social isolation, tachykinin-family neuropeptides, aggression, fear, and anxiety-like behavior.
 - [Nuclear Disaster Memory](concepts/NuclearDisasterMemory.md) — Frame connecting Hiroshima, Nagasaki, Fukushima, and Chernobyl as remembered nuclear harms with different temporal profiles.

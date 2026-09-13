@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "o"
-wiki_total_pages: 7380
+wiki_total_pages: 7381
 wiki_pages:
   - key: "OneToOneToOneAllocation"
     title: "1:1:1 Allocation Anchor"
@@ -527,6 +527,9 @@ wiki_pages:
   - key: "OutdoorVehicleLifestyleDesign"
     title: "Outdoor Vehicle Lifestyle Design / 户外车辆生活方式设计"
     url: "/wiki/concepts/outdoorvehiclelifestyledesign/"
+  - key: "OuterConfucianInnerLegalistGovernance"
+    title: "Outer Confucian Inner Legalist Governance / 外儒内法式帝国治理"
+    url: "/wiki/concepts/outerconfucianinnerlegalistgovernance/"
   - key: "OutlierDrivenAngelInvesting"
     title: "Outlier-Driven Angel Investing"
     url: "/wiki/concepts/outlierdrivenangelinvesting/"

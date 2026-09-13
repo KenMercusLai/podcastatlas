@@ -19269,9 +19269,9 @@
       "url": "/wiki/concepts/confidentialremonstranceleakage/"
     },
     "ConfucianLegalistGovernanceBalance": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》499丨刘邦：扶我起来，打死刘奭这个曾.曾孙子！ [lnDFgJeHpE7QC36HejxBA3ZnlZ0P].md",
@@ -19286,9 +19286,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》459｜汉宣帝为什么说太子刘奭是败家子？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-459-hanxuandi-weishenme-shuo-taizi-liushi-shi-baijiazi-lsnb6mesdpegwhihmxx06fy8fawz/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘 [lltiV3cnk5X03HOh184K_lZl9YQ9].md",
+          "key": "zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/confucianlegalistgovernancebalance/"
     },
     "Confucius": {
@@ -25736,6 +25743,36 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/dongyuanlatehan/"
+    },
+    "DongZhongshu": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖 [786255780].md",
+          "key": "126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780",
+          "show": "蜜獾吃书",
+          "title": "126.王莽之死：神圣帝国的回旋镖，和回旋镖的回旋镖",
+          "url": "/wiki/sources/126-wangmang-zhisi-shensheng-diguo-de-huixuanbiao-he-huixuanbiao-de-huixuanbiao-786255780/"
+        },
+        {
+          "episode_file": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集） [704051550].md",
+          "key": "87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550",
+          "show": "蜜獾吃书",
+          "title": "87.过年最适合聊玄学！探讨神仙方术发展史（接上集）",
+          "url": "/wiki/sources/87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-jie-shangji-704051550/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘 [lltiV3cnk5X03HOh184K_lZl9YQ9].md",
+          "key": "zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/dongzhongshu/"
     },
     "DongguanHanji": {
       "episode_count": 1,
@@ -44061,9 +44098,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 10,
+      "episode_count": 11,
       "show_count": 2,
-      "source_note_count": 10,
+      "source_note_count": 11,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -44134,6 +44171,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘 [lltiV3cnk5X03HOh184K_lZl9YQ9].md",
+          "key": "zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9/"
         }
       ],
       "updated": "2026-09-14",
@@ -75192,6 +75236,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/concepts/outdoorvehiclelifestyledesign/"
+    },
+    "OuterConfucianInnerLegalistGovernance": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘 [lltiV3cnk5X03HOh184K_lZl9YQ9].md",
+          "key": "zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》392-4｜2千年儒家治国，其实背后另有隐秘",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-392-4-2qiannian-rujia-zhiguo-qishi-beihou-lingyou-yinmi-lltiv3cnk5x03hoh184k_lzl9yq9/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/outerconfucianinnerlegalistgovernance/"
     },
     "OuterRelativeCommandAppointmentRisk": {
       "episode_count": 1,
