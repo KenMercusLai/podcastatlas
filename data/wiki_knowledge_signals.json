@@ -13877,9 +13877,9 @@
       "url": "/wiki/concepts/carrierbagnarrative/"
     },
     "CaseExpansionPoliticalPurge": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》617丨王莽毒杀公主历史始末 [lqVZEJFM1Sd8k0AmPorgI_mQHSrd].md",
@@ -13894,9 +13894,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》557丨王莽PK淳于长：男人间的惊心较量",
           "url": "/wiki/sources/zizhi-tongjian-hanji-557-wangmang-pk-chunyuchang-nanrenjian-de-jingxin-jiaoliang-lnvmnizx0mhrln-g1p1a8u_9kgnx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
         }
       ],
-      "updated": "2026-09-11",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/caseexpansionpoliticalpurge/"
     },
     "CaseReadyIntakeAI": {
@@ -26550,9 +26557,9 @@
       "url": "/wiki/entities/duxilatehan/"
     },
     "DuYannianWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -26581,6 +26588,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
         }
       ],
       "updated": "2026-09-14",
@@ -46796,6 +46810,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/houlanlatehan/"
     },
+    "HouShiWuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/houshiwuwesternhan/"
+    },
     "HouYinWesternHan": {
       "episode_count": 1,
       "show_count": 1,
@@ -48736,9 +48766,9 @@
       "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
     },
     "HuoGuangWesternHan": {
-      "episode_count": 13,
+      "episode_count": 14,
       "show_count": 1,
-      "source_note_count": 13,
+      "source_note_count": 14,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -48830,6 +48860,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
         }
       ],
       "updated": "2026-09-14",
@@ -59581,6 +59618,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/liudaisikongzhangshi/"
+    },
+    "LiuDanYanKingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/liudanyankingwesternhan/"
     },
     "LiuDuLateHan": {
       "episode_count": 1,
@@ -86186,6 +86239,38 @@
       "updated": "2026-09-12",
       "url": "/wiki/entities/sanwuhuan/"
     },
+    "SangHongyangWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/sanghongyangwesternhan/"
+    },
+    "SangQianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/sangqianwesternhan/"
+    },
     "Sanguozhi": {
       "episode_count": 3,
       "show_count": 1,
@@ -97740,9 +97825,9 @@
       "url": "/wiki/entities/tianminglatehan/"
     },
     "TianQianqiuWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！ [ll6PYzPjl0MlcfN0G1zjOt2wF8S8].md",
@@ -97757,6 +97842,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！",
           "url": "/wiki/sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
         }
       ],
       "updated": "2026-09-14",
@@ -103157,6 +103249,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/wangpaneasternhan/"
+    },
+    "WangPingWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/wangpingwesternhan/"
     },
     "WangQingBuHeShiYi": {
       "episode_count": 1,
@@ -108963,6 +109071,22 @@
       ],
       "updated": "2026-08-27",
       "url": "/wiki/entities/xuqiuguanglinglatehan/"
+    },
+    "XuRenWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族 [ltPcoS20d5maFcoYwmfCB6iiFWSv].md",
+          "key": "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/xurenwesternhan/"
     },
     "XuShangWesternHan": {
       "episode_count": 1,

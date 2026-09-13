@@ -28535,6 +28535,10 @@
     "title": "侯生 / Hou Sheng (Fangshi)",
     "url": "/wiki/entities/houshengfangshi/"
   },
+  "HouShiWuWesternHan": {
+    "title": "侯史吴 / Hou Shiwu (Western Han)",
+    "url": "/wiki/entities/houshiwuwesternhan/"
+  },
   "HouWenLateHan": {
     "title": "侯汶 / Hou Wen (late Han)",
     "url": "/wiki/entities/houwenlatehan/"
@@ -36574,6 +36578,10 @@
   "LiuDanLateHan": {
     "title": "刘诞 / Liu Dan (late Han)",
     "url": "/wiki/entities/liudanlatehan/"
+  },
+  "LiuDanYanKingWesternHan": {
+    "title": "燕王刘旦 / Liu Dan, Yan King (Western Han)",
+    "url": "/wiki/entities/liudanyankingwesternhan/"
   },
   "LiuDong": {
     "title": "刘东",
@@ -53019,6 +53027,14 @@
     "title": "Sandy Dininger",
     "url": "/wiki/entities/sandydininger/"
   },
+  "SangHongyangWesternHan": {
+    "title": "桑弘羊 / Sang Hongyang (Western Han)",
+    "url": "/wiki/entities/sanghongyangwesternhan/"
+  },
+  "SangQianWesternHan": {
+    "title": "桑迁 / Sang Qian (Western Han)",
+    "url": "/wiki/entities/sangqianwesternhan/"
+  },
   "SangengBanyeJuranYaoChiXiangjiao": {
     "title": "《三更半夜居然要吃香蕉》",
     "url": "/wiki/entities/sangengbanyejuranyaochixiangjiao/"
@@ -63647,6 +63663,10 @@
     "title": "王磐 / Wang Pan (Eastern Han)",
     "url": "/wiki/entities/wangpaneasternhan/"
   },
+  "WangPingWesternHan": {
+    "title": "王平 / Wang Ping (Western Han)",
+    "url": "/wiki/entities/wangpingwesternhan/"
+  },
   "WangPo": {
     "title": "王婆 / Wang Po",
     "url": "/wiki/entities/wangpo/"
@@ -66710,6 +66730,10 @@
   "XuQiuLateHan": {
     "title": "许秋 / Xu Qiu (late Han)",
     "url": "/wiki/entities/xuqiulatehan/"
+  },
+  "XuRenWesternHan": {
+    "title": "徐仁 / Xu Ren (Western Han)",
+    "url": "/wiki/entities/xurenwesternhan/"
   },
   "XuRongLateHan": {
     "title": "徐荣 / Xu Rong (late Han)",
@@ -75670,6 +75694,10 @@
   "zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8": {
     "title": "《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！",
     "url": "/wiki/sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8/"
+  },
+  "zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv": {
+    "title": "《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv/"
   },
   "zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4": {
     "title": "《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？",

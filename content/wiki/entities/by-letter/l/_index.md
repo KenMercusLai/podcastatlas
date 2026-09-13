@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 10012
+wiki_total_pages: 10018
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1838,6 +1838,9 @@ wiki_pages:
   - key: "LiuQingQingheKing"
     title: "清河王刘庆 / Liu Qing (Qinghe king)"
     url: "/wiki/entities/liuqingqingheking/"
+  - key: "LiuDanYanKingWesternHan"
+    title: "燕王刘旦 / Liu Dan, Yan King (Western Han)"
+    url: "/wiki/entities/liudanyankingwesternhan/"
   - key: "LinglingMyFirstHalfLife"
     title: "玲玲 / Lingling (《我的前半生》)"
     url: "/wiki/entities/linglingmyfirsthalflife/"

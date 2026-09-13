@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 10012
+wiki_total_pages: 10018
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2084,6 +2084,12 @@ wiki_pages:
   - key: "ShumeiWanwu"
     title: "树美万物 / Shumei Wanwu"
     url: "/wiki/entities/shumeiwanwu/"
+  - key: "SangHongyangWesternHan"
+    title: "桑弘羊 / Sang Hongyang (Western Han)"
+    url: "/wiki/entities/sanghongyangwesternhan/"
+  - key: "SangQianWesternHan"
+    title: "桑迁 / Sang Qian (Western Han)"
+    url: "/wiki/entities/sangqianwesternhan/"
   - key: "Shuixian"
     title: "水仙"
     url: "/wiki/entities/shuixian/"

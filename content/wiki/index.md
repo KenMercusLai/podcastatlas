@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！](sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8.md) — 芮淇讲透资治通鉴 episode on Huo Guang's Han Zhao regency power, Sui Hong's omen-based abdication memorial, and the lethal boundary around Yao-Shun throne-transfer language.
+- [《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族](sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv.md) — 芮淇讲透资治通鉴 episode on Sang Hongyang's destruction after the Liu Dan rebellion, the Hou Shiwu harboring and amnesty dispute, and Huo Guang's strict legal-political review.
 - [《资治通鉴·汉纪》402-2｜树敌无数的酷吏杜周，为何最终得以善终？](sources/zizhi-tongjian-hanji-402-2-shudiwushu-de-kuli-duzhou-weihe-zuizhong-deyi-shanzhong-lqrunv51se0w7_2fi2ifs_f7zub4.md) — 芮淇讲透资治通鉴 episode on Du Zhou's ruler-will legal logic, Du Yannian's court tact, and Huo Guang's Fan Mingyou-led Wuhuan punishment after Xiongnu withdraws.
 - [《资治通鉴·汉纪》403-1｜袭杀匈奴使者，西汉最铁血外交官竟是他！](sources/zizhi-tongjian-hanji-403-1-xisha-xiongnu-shizhe-xihan-zui-tiexue-waijiaoguan-jingshi-ta-lum-xolrqlwjgmv5xscssenogyx.md) — 芮淇讲透资治通鉴 episode on Fu Jiezi's first Western Regions mission, Loulan/Qiuci rebukes, the killing of Xiongnu envoys, and the low-cost second-mission setup under Huo Guang.
 - [《资治通鉴·汉纪》403-2｜独剑斩楼兰，不该被遗忘的超级外交官：傅介子](sources/zizhi-tongjian-hanji-403-2-dujian-zhan-loulan-bugai-bei-yiwang-de-chaoji-waijiaoguan-fujiezi-lssxm3z-fkdblz8nfoy1pojnetja.md) — 芮淇讲透资治通鉴 episode on Fu Jiezi's second Western Regions mission, Angui's assassination, Wei Tuqi's hostage succession, Loulan's renaming as Shanshan, and Sima Guang's trust-cost criticism.
@@ -2411,7 +2412,13 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 - [眭弘 / Sui Hong (Western Han)](entities/SuiHongWesternHan.md) — scholar-official whose omen reading becomes an abdication memorial under Han Zhao.
-- [田千秋 / Tian Qianqiu (Western Han)](entities/TianQianqiuWesternHan.md) — cautious chancellor whose silence highlights Huo Guang's regency dominance under Han Zhao.
+- [田千秋 / Tian Qianqiu (Western Han)](entities/TianQianqiuWesternHan.md) — cautious chancellor whose silence and failed Xu Ren protection effort highlight Huo Guang's regency dominance under Han Zhao.
+- [桑弘羊 / Sang Hongyang (Western Han)](entities/SangHongyangWesternHan.md) — Han Wudi-era fiscal minister whose anti-Huo rebellion involvement leads to execution and household destruction under Huo Guang.
+- [桑迁 / Sang Qian (Western Han)](entities/SangQianWesternHan.md) — Sang Hongyang's fugitive son whose sheltering by Hou Shiwu drives the amnesty and harboring case.
+- [侯史吴 / Hou Shiwu (Western Han)](entities/HouShiWuWesternHan.md) — shelterer of Sang Qian whose self-surrender becomes the test case for Huo Guang's stricter rebellion-adjacent legal classification.
+- [王平 / Wang Ping (Western Han)](entities/WangPingWesternHan.md) — Tingwei punished after his narrow amnesty reading of the Hou Shiwu case is recast as indulgence of rebellion.
+- [徐仁 / Xu Ren (Western Han)](entities/XuRenWesternHan.md) — Shaofu and Tian Qianqiu's son-in-law whose Hou Shiwu judgment leads to imprisonment and suicide.
+- [燕王刘旦 / Liu Dan, Yan King (Western Han)](entities/LiuDanYanKingWesternHan.md) — royal rebel whose anti-Huo action frames Sang Hongyang's final case.
 - [汉昭帝刘弗陵 / Emperor Zhao of Han](entities/EmperorZhaoOfHan.md) — Young Western Han emperor whose childless death creates the succession vacuum managed by Huo Guang.
 - [崔嘉宾 / Cui Jiabin](entities/CuiJiabin.md) — Psychiatrist guest in VOL.202 explaining attachment, shame, indirect communication, dissociation-like split expression, and self-translation in intimacy.
 - [《爱情怎么翻译》 / Love Translation K-Drama](entities/LoveTranslationKDrama.md) — Korean-drama hook used by VOL.202 to discuss translation as a metaphor for unspoken need, push-pull intimacy, and self-knowledge.
@@ -2486,7 +2493,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [丙吉 / Bing Ji (Western Han)](entities/BingJiWesternHan.md) — Western Han chancellor used by Hanji 454 as a quiet-merit contrast to Huang Ba's reputation-driven omen mistake.
 - [渠犁 / Quli (Western Regions)](entities/QuliWesternRegions.md) — Western Regions屯田 base used by Zheng Ji in the Cheshi rescue and later as the relocation destination for Cheshi's people.
 - [魏相 / Wei Xiang (Western Han)](entities/WeiXiangWesternHan.md) — Western Han chancellor whose Cheshi-crisis remonstrance turns "骄兵必败" into a war-purpose and state-capacity warning.
-- [Du Yannian (Western Han)](entities/DuYannianWesternHan.md) — Western Han official appointed yushi dafu by Emperor Xuan in the Hanji 455 closing notice.
+- [Du Yannian (Western Han)](entities/DuYannianWesternHan.md) — Western Han official whose tact links Huo-era petition review, Hou Shiwu case boundary-setting, Liu Bingyi's accession, and later yushi dafu appointment.
 - [广川王刘去 / Liu Qu, Guangchuan King (Western Han)](entities/LiuQuGuangchuanKingWesternHan.md) — Western Han royal prince whose tomb-robbing, household violence, removal, exile, and suicide make him a royal-kin desecration and cruelty case.
 - [楚王刘延寿 / Liu Yanshou, Chu King (Western Han)](entities/LiuYanshouChuKingWesternHan.md) — Western Han royal kinsman who tries to use Liu Xu as a closer succession claimant and kills himself after the plot is exposed.
 - [广陵王刘须 / Liu Xu, Guangling King (Western Han)](entities/LiuXuGuanglingKingWesternHan.md) — Han Wudi's son and Guangling king whose throne ambition becomes repeated curse-based succession fantasy and ends in exposure, witness killing, and suicide.
@@ -12460,6 +12467,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Biological Processor Energy Efficiency](concepts/BiologicalProcessorEnergyEfficiency.md) — Thesis that living neural processors may reduce AI energy and cost for suitable workloads.
 - [Biocomputing Ethics](concepts/BiocomputingEthics.md) — Ethical and regulatory boundary around using living human neurons inside machines and remote research platforms.
 - [Huo Family Purge After Huo Guang](concepts/HuoFamilyPurgeAfterHuoGuang.md) — court-politics pattern where overextended regency-family power turns merit into suspicion, conspiracy risk, and excessive collective punishment.
+- [案件扩大化政治清洗 / Case-Expansion Political Purge](concepts/CaseExpansionPoliticalPurge.md) — Pattern where a bounded political or criminal case expands through kinship, office, harboring, legal classification, private scandal, and association networks into broader cleanup.
 - [政治风险预防 / Political Risk Prevention](concepts/PoliticalRiskPrevention.md) — Court-governance pattern where early warnings and restraint are valued before elite risk becomes rebellion or emergency cleanup.
 - [Livelihood-First Pacification](concepts/LivelihoodFirstPacification.md) — governance pattern where officials repair hunger and production before treating disorder as enemy suppression.
 - [Conservative Leadership Election 1975](concepts/ConservativeLeadershipElection1975.md) — February 1975 contest in which Margaret Thatcher defeated Ted Heath and Willie Whitelaw to become Conservative leader.
@@ -12768,7 +12776,6 @@ This file is maintained by the LLM. Updated on every ingest.
 - [经典据依式改名治理 / Classics-Based Naming Governance](concepts/ClassicsBasedNamingGovernance.md) — Hanji 614 concept for turning classical claims about proper names into compulsory naming policy and diplomatic submission theater.
 - [AI Washing Layoff Attribution](concepts/AIWashingLayoffAttribution.md) — Concept separating real AI displacement from overhiring cleanup or restructuring narratives branded as AI-driven.
 - [Dog-Blood Case / 狗血案](concepts/DogBloodCase.md) — Wang Mang-era staged-anomaly case where dog blood at the regent's gate becomes a wugu-adjacent purge trigger.
-- [案件扩大化政治清洗 / Case-Expansion Political Purge](concepts/CaseExpansionPoliticalPurge.md) — Pattern where a bounded case is widened through elite relationship networks, moral authorization, private scandal, and information control into broader political cleanup.
 - [父母官式地方官伦理 / Paternal Local Office Ethic](concepts/PaternalLocalOfficeEthic.md) — Local-office ideal from Hanji 619 where a governor's care, restraint, and people-first obligation are imagined through household ethics.
 - [Face-Project Governance / 面子工程式治理](concepts/FaceProjectGovernance.md) — Political prestige built through visible ritual, educational, expert, or public-works activity before implementation is proven.
 - [New-Leader First-Move Authority Signal / 新领导第一把火式权力宣示](concepts/NewLeaderFirstMoveAuthoritySignal.md) — Leadership pattern where a first visible action announces control through target choice, justification, cost, and resistance management.

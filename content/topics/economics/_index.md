@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2028
+topic_total_pages: 2029
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -5171,6 +5171,9 @@ topic_entities:
   - key: "YangTianzhen"
     title: "杨天真 / 天真"
     url: "/wiki/entities/yangtianzhen/"
+  - key: "SangHongyangWesternHan"
+    title: "桑弘羊 / Sang Hongyang (Western Han)"
+    url: "/wiki/entities/sanghongyangwesternhan/"
   - key: "LiangJie"
     title: "梁杰"
     url: "/wiki/entities/liangjie/"

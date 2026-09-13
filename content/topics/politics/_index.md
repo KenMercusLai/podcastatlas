@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2500
+topic_total_pages: 2504
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6257,6 +6257,9 @@ topic_entities:
   - key: "HouGongChuHan"
     title: "侯公 / Hou Gong (Chu-Han)"
     url: "/wiki/entities/hougongchuhan/"
+  - key: "HouShiWuWesternHan"
+    title: "侯史吴 / Hou Shiwu (Western Han)"
+    url: "/wiki/entities/houshiwuwesternhan/"
   - key: "FuJieziWesternHan"
     title: "傅介子 / Fu Jiezi (Western Han)"
     url: "/wiki/entities/fujieziwesternhan/"
@@ -6341,6 +6344,9 @@ topic_entities:
   - key: "ZhangChengAstrologerLateHan"
     title: "张成 / Zhang Cheng (late Han astrologer)"
     url: "/wiki/entities/zhangchengastrologerlatehan/"
+  - key: "XuRenWesternHan"
+    title: "徐仁 / Xu Ren (Western Han)"
+    url: "/wiki/entities/xurenwesternhan/"
   - key: "Xuzhou"
     title: "徐州 / Xuzhou"
     url: "/wiki/entities/xuzhou/"
@@ -6386,6 +6392,9 @@ topic_entities:
   - key: "Gethen"
     title: "格森星 / Gethen"
     url: "/wiki/entities/gethen/"
+  - key: "SangQianWesternHan"
+    title: "桑迁 / Sang Qian (Western Han)"
+    url: "/wiki/entities/sangqianwesternhan/"
   - key: "QiaoXuanLateHan"
     title: "桥玄 / Qiao Xuan (late Han)"
     url: "/wiki/entities/qiaoxuanlatehan/"
@@ -6437,6 +6446,9 @@ topic_entities:
   - key: "NiuLiPartyStruggle"
     title: "牛李党争 / Niu-Li Party Struggle"
     url: "/wiki/entities/niulipartystruggle/"
+  - key: "WangPingWesternHan"
+    title: "王平 / Wang Ping (Western Han)"
+    url: "/wiki/entities/wangpingwesternhan/"
   - key: "WangGenWesternHan"
     title: "王根 / Wang Gen (Western Han)"
     url: "/wiki/entities/wanggenwesternhan/"
