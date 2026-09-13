@@ -6,6 +6,10 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 Parse recent entries: `grep "^## \[" wiki/log.md | tail -10`
 
+## [2026-09-14] ingest | Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence
+
+Added source `all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300`; updated Claude-Methos Preview, Project Glasswing, and AI-Enabled Vulnerability Discovery with Anthropic's restricted Mythos rollout, the 100-day defensive-hardening debate, and the naming caution around Mythos / Claude-Methos / Glasswing / Glassfin. No settled contradiction found; Anthropic revenue, margin, coding-share, IPO-odds, and remediation-timeline claims remain source-scoped.
+
 ## [2026-09-14] ingest | 660. Dawn of the Samurai: Japan's Greatest Warrior (Part 3)
 
 Added source `660-dawn-of-the-samurai-japans-greatest-warrior-part-3-glt3581345898`; created `KurikaraBattle`; updated Benkei, Minamoto no Yoshitsune, Kiso Yoshinaka, Go-Shirakawa, Minamoto no Yoritomo, Taira Clan, Minamoto Clan, The Tale of the Heike, Genpei War, and Samurai Legend and Political Memory with Yoshitsune's origin legend, Kiso's Kurikara-to-Kyoto arc, Go-Shirakawa's protector-switching, and Yoritomo's legitimacy opening. No settled contradiction found; Benkei's bridge duel, Tengu training, battle numbers, and other vivid medieval-war details remain source-scoped.
@@ -19377,6 +19381,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？
 
 Added source `zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui`; created `RewardedDenunciationFiscalEnforcement`; updated `HanWudi`, `StateCommercialMonopolyExtraction`, and `HeavyAgricultureLightCommercePolicy` with Han Wudi's profitable-goods monopoly, 算缗 assessment, 告缗 informant rewards, merchant insecurity, and the Wang Anshi-era anti-merchant comparison. No settled contradiction found; exact law, enforcement scope, commodity list, regional variation, and quantitative commercial decline remain source-scoped.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

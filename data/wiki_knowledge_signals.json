@@ -1826,6 +1826,36 @@
       "updated": "2026-09-07",
       "url": "/wiki/concepts/aienabledselfemployment/"
     },
+    "AIEnabledVulnerabilityDiscovery": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "tech_20260819_MP_TECH_pod_128 [tech_20260819_MP_TECH_pod_128].md",
+          "key": "tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Cyberattacks on U.S. water systems raise concerns about security",
+          "url": "/wiki/sources/tech-20260819-mp-tech-pod-128-tech-20260819-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Nikesh Arora： Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company [41577435].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Nikesh Arora: Mythos is Real, Analytical SaaS is Dead, and Google can be a $10T company",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-nikesh-arora-mythos-is-real-analytical-saas-is-dead-and-google-can-be-a-10t-company-41577435/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic’s $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence [40808300].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/aienabledvulnerabilitydiscovery/"
+    },
     "AIEraMajorChoice": {
       "episode_count": 2,
       "show_count": 1,
@@ -17602,6 +17632,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/classicsbasednaminggovernance/"
+    },
+    "ClaudeMethosPreview": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260410_0410_MP_TECH_pod_128 [tech_20260410_0410_MP_TECH_pod_128].md",
+          "key": "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+          "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic’s $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence [40808300].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/claudemethospreview/"
     },
     "CleanOfficialCapacityGap": {
       "episode_count": 1,
@@ -80284,6 +80337,29 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/programmedloveauthenticity/"
+    },
+    "ProjectGlasswing": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "tech_20260410_0410_MP_TECH_pod_128 [tech_20260410_0410_MP_TECH_pod_128].md",
+          "key": "tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128",
+          "show": "Marketplace Tech",
+          "title": "Bytes: Week in Review - Anthropic's new AI model, a referendum on data centers, and NASA livestreams journey to space",
+          "url": "/wiki/sources/tech-20260410-0410-mp-tech-pod-128-tech-20260410-0410-mp-tech-pod-128/"
+        },
+        {
+          "episode_file": "All-In with Chamath, Jason, Sacks & Friedberg - Anthropic’s $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence [40808300].md",
+          "key": "all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300",
+          "show": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "title": "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence",
+          "url": "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/projectglasswing/"
     },
     "PromotionPositionFit": {
       "episode_count": 2,

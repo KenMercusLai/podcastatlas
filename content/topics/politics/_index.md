@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2507
+topic_total_pages: 2508
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -6756,6 +6756,9 @@ topic_sources:
   - key: "an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c"
     title: "An interview with Yuval Noah Harari"
     url: "/wiki/sources/an-interview-with-yuval-noah-harari-6a872b94c71d02aaba56ca7c/"
+  - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300"
+    title: "Anthropic's $30B Ramp, Mythos Doomsday, OpenClaw Ankled, Iran War Ceasefire, Israel's Influence"
+    url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-30b-ramp-mythos-doomsday-openclaw-ankled-iran-war-ceasefire-israels-influence-40808300/"
   - key: "all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230"
     title: "Anthropic's Digital God, Pope vs AI, Job Loss Narrative Flips, Open Source Crackdown Coming?"
     url: "/wiki/sources/all-in-with-chamath-jason-sacks-friedberg-anthropics-digital-god-pope-vs-ai-job-loss-narrative-flips-open-source-crackdown-coming-41471230/"
