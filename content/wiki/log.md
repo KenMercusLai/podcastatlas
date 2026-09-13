@@ -18542,6 +18542,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？
+
+Added source note plus Huo family purge, Huo Guang, Huo Xian, Emperor Xuan, and Zhang Chang updates. Key claims: Huo Xian's admission of Empress Xu's poisoning shifts Huo-family fear from political demotion to extinction; Xuan's early leniency reflects gratitude toward Huo Guang but does not reassure the family; and Zhang Chang's secret memorial proposes honor-preserving withdrawal from command as a safer alternative to panic-driven revolt.
+
 ## [2026-09-13] ingest | EP 37: Neurons: Future of AI Processing
 
 Added source note for Data Science With Sam EP37 with Lena Curtis of FinalSpark. Created pages for Lena Curtis, FinalSpark, Fred Jordan, Martin Kutter, Biocomputing AI Hardware, Living Neuron Computing, Neuro Platform Remote Access, Biological Processor Energy Efficiency, and Biocomputing Ethics. Key claims: living neurons are framed as processors rather than power sources; FinalSpark's remote neuro platform makes neural cultures shared research infrastructure; biological processors may reduce AI energy and cost for suitable workloads, but encoding, learning, maintenance, regulation, and public acceptance remain unresolved. No direct contradiction found.
@@ -19017,6 +19021,10 @@ Added source note plus Lu Wenshu and Shangde Huanxing Penal Reform, and extended
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么
 
 Added source note and updated Xuan-era synthesis. Key claims: Han Xuan's early consolidation used disaster inquiry, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair to loosen Huo-family control before the later open purge.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

@@ -28986,9 +28986,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 16,
+      "episode_count": 17,
       "show_count": 1,
-      "source_note_count": 16,
+      "source_note_count": 17,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -29101,6 +29101,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么",
           "url": "/wiki/sources/zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？ [lh_Zo2ni9ntQa9IWb6MQWuux2Zx1].md",
+          "key": "zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
         }
       ],
       "updated": "2026-09-13",
@@ -48062,9 +48069,9 @@
       "url": "/wiki/entities/huochengjunwesternhan/"
     },
     "HuoFamilyPurgeAfterHuoGuang": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
@@ -48079,15 +48086,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？ [lh_Zo2ni9ntQa9IWb6MQWuux2Zx1].md",
+          "key": "zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
         }
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
     },
     "HuoGuangWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
@@ -48102,6 +48116,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？ [lh_Zo2ni9ntQa9IWb6MQWuux2Zx1].md",
+          "key": "zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
         }
       ],
       "updated": "2026-09-13",
@@ -48124,9 +48145,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoXianWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
@@ -48141,6 +48162,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么",
           "url": "/wiki/sources/zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？ [lh_Zo2ni9ntQa9IWb6MQWuux2Zx1].md",
+          "key": "zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
         }
       ],
       "updated": "2026-09-13",
@@ -111447,9 +111475,9 @@
       "url": "/wiki/entities/zhangchangshanyangwesternhan/"
     },
     "ZhangChangWesternHan": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》469｜为什么君子斗不过小人？看看萧望之的下场 [lj8iJI-C3ScJ6vzNnTAvM6Awolho].md",
@@ -111478,6 +111506,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞",
           "url": "/wiki/sources/zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？ [lh_Zo2ni9ntQa9IWb6MQWuux2Zx1].md",
+          "key": "zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
         }
       ],
       "updated": "2026-09-13",
