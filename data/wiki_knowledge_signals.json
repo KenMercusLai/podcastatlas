@@ -15436,9 +15436,9 @@
       "url": "/wiki/entities/cheshihoukingdomxin/"
     },
     "CheshiKingdomWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？ [lokhA4DMRiK4EZ4vtPunB9RWHZAV].md",
@@ -15446,6 +15446,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？ [lnj1ETIBZsz_PoQkoAzcyPrJc1K-].md",
+          "key": "zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k/"
         }
       ],
       "updated": "2026-09-13",
@@ -53179,6 +53186,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/judgmentofpariswine/"
+    },
+    "JudicialAbuseRebellionTrigger": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？ [lnj1ETIBZsz_PoQkoAzcyPrJc1K-].md",
+          "key": "zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/judicialabuserebelliontrigger/"
     },
     "Jugurtha": {
       "episode_count": 1,
@@ -113766,9 +113789,9 @@
       "url": "/wiki/entities/zhenghongwesternhan/"
     },
     "ZhengJiWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》461｜历史首位女外交家！冯嫽如何斡旋西域危机？ [lpxkawZOl3526YZtJyXXmZ26PHcQ].md",
@@ -113790,6 +113813,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？ [lnj1ETIBZsz_PoQkoAzcyPrJc1K-].md",
+          "key": "zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k/"
         }
       ],
       "updated": "2026-09-13",

@@ -19002,3 +19002,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+## [2026-09-13] ingest | 《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？
+
+Added source note plus Judicial Abuse Rebellion Trigger, and updated Zheng Ji and Cheshi Kingdom. Key claims: Han Xuan's Tingwei Ping and personal case review show a reform impulse but not a durable substitute for clear law; official manipulation and torture can make law itself a rebellion trigger; and the early Cheshi branch shows Zheng Ji using Quli屯田, allied Western Regions troops, hostage handling, and a small garrison before the later Cheshi crisis.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.

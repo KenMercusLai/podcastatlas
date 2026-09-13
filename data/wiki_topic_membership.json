@@ -38118,6 +38118,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "JudicialAbuseRebellionTrigger": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "JudicialDuel": [
     {
       "key": "history",
@@ -84831,6 +84838,13 @@
     }
   ],
   "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k": [
     {
       "key": "politics",
       "label": "Politics",

@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2486
+topic_total_pages: 2488
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3721,6 +3721,9 @@ topic_concepts:
   - key: "MinisterAsExchangeableAsset"
     title: "可交换功臣 / Minister as Exchangeable Asset"
     url: "/wiki/concepts/ministerasexchangeableasset/"
+  - key: "JudicialAbuseRebellionTrigger"
+    title: "司法滥用式官逼民反 / Judicial Abuse Rebellion Trigger"
+    url: "/wiki/concepts/judicialabuserebelliontrigger/"
   - key: "HezongAlliance"
     title: "合纵 / Hezong Alliance"
     url: "/wiki/concepts/hezongalliance/"
@@ -7269,6 +7272,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k"
+    title: "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k/"
   - key: "zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1"
     title: "《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸"
     url: "/wiki/sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1/"

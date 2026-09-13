@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？](sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k.md) — 芮淇讲透资治通鉴 episode on Han Xuan's Tingwei Ping judicial repair, Zheng Chang's statute-reform critique, law turning into official abuse, and an early Cheshi-Zheng Ji frontier-control layer.
 - [《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸](sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1.md) — 芮淇讲透资治通鉴 short episode reframing tribute as prestige plus economic incentive, with Han/Ming subsidies, fake or rival tribute missions, Mongol tribute-trade pressure, and Xianfeng's treaty-era status rigidity.
 - [EP 37: Neurons: Future of AI Processing](sources/ep-37-neurons-future-of-ai-processing.md) — Data Science With Sam episode with Lena Curtis of FinalSpark on living human neurons as AI processors, remote neuro-platform access, biological processor energy efficiency, and biocomputing ethics.
 - [《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？](sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p.md) — 芮淇讲透资治通鉴 episode on the Huo family's post-Huo-Guang collapse, Huo Xian's household overreach, the failed coup plan, Huo Chengjun's deposition, Xu Fu's prevention warning, and Xuan's "芒刺在背" fear.
@@ -2398,7 +2399,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [王褒 / Wang Bao (Western Han)](entities/WangBaoWesternHan.md) — Western Han writer whose 《圣主得贤臣颂》 becomes a ruler-minister recognition theory and whose 《僮约》 preserves Han Sichuan and early tea evidence.
 - [《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers](entities/ShengzhuDeXianchenSong.md) — Wang Bao ode read as a political-literary theory of worthy ministers, ruler search, trust, and mutual achievement.
 - [《僮约》 / Tong Yue (Wang Bao)](entities/TongyueWangBao.md) — Wang Bao work valued by Hanji 433 as social-history evidence for Han-era Sichuan and early tea culture.
-- [车师国 / Cheshi Kingdom (Western Han)](entities/CheshiKingdomWesternHan.md) — Western Regions polity whose fertile land and屯田 potential make it a Han-Xiongnu pressure point in the 64 BCE crisis.
+- [车师国 / Cheshi Kingdom (Western Han)](entities/CheshiKingdomWesternHan.md) — Western Regions polity whose route position, hostage politics, fertile land, and屯田 potential make it a repeated Han-Xiongnu pressure point.
 - [刘贺 / Liu He / Marquis of Haihun](entities/LiuHeHaihunHou.md) — Former Western Han emperor monitored by Han Xuan and reduced to Haihun Hou in Hanji 430.
 - [海昏侯国 / Haihun Marquisate](entities/HaihunMarquisate.md) — Reduced marquisate used to contain Liu He's residual legitimacy in Hanji 430.
 - [张厂 / Zhang Chang (Shanyang governor)](entities/ZhangChangShanyangWesternHan.md) — Shanyang governor tasked with confidential surveillance of Liu He in Hanji 430.
@@ -2450,7 +2451,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [段小姐（《西游降魔篇》）](entities/DuanMissConqueringDemons.md) — Film character whose love, ring, present-tense demand, and death force Chen Xuanzang's compassion test.
 - [Scott Galloway](entities/ScottGalloway.md) — Huberman Lab guest framing masculinity through provision, protection, service, rejection tolerance, platform critique, mentorship, and youth policy.
 - [冯嫽 / Feng Liao (Western Han)](entities/FengLiaoWesternHan.md) — Western Han Wusun-network diplomat whose mediation helps settle Wujiutu's crisis and whose old-age return supports Xingmi.
-- [郑吉 / Zheng Ji (Western Han)](entities/ZhengJiWesternHan.md) — Western Han Western Regions protector who receives Rizhu Wang's defection, escorts submissions into Han authority, relieves Chigu City, and deploys Feng Liao as mediator.
+- [郑吉 / Zheng Ji (Western Han)](entities/ZhengJiWesternHan.md) — Western Han Western Regions official whose Cheshi屯田 operations, defector escort, protectorate founding, Chigu relief, and Feng Liao mediation turn local force into frontier authority.
 - [王贺 / Wang He (Western Han)](entities/WangHeWesternHan.md) — Wang Zhengjun's grandfather and former embroidered-uniform censor whose lenient official service becomes Wang-family prehistory.
 - [陈斌 / Chen Bin (Vascular Surgery)](entities/ChenBinVascularSurgery.md) — Zhejiang University Second Affiliated Hospital vascular-surgery guest explaining economy-class syndrome, thrombosis risk, pulmonary embolism, emergency routing, and anticoagulation boundaries.
 - [冯燕飞 / Feng Yanfei (Vascular Surgery)](entities/FengYanfeiVascularSurgery.md) — Vascular-surgery guest explaining thrombosis risk factors, ordinary travel prevention, hydration, ankle-pump movement, and swelling-pattern distinctions.
@@ -12362,6 +12363,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [司法滥用式官逼民反 / Judicial Abuse Rebellion Trigger](concepts/JudicialAbuseRebellionTrigger.md) — Mechanism where law becomes torture, false accusation, and official manipulation, collapsing ordinary people's lawful options into endurance or resistance.
 - [Tribute System Economic Incentive / 朝贡体系经济激励](concepts/TributeSystemEconomicIncentive.md) — Pattern where tribute participation is encouraged by rewards,回赐, high official prices, hosted reception, and controlled trade access.
 - [Tributary Status Diplomatic Rigidity / 朝贡身份秩序外交僵化](concepts/TributaryStatusDiplomaticRigidity.md) — Failure mode where a court protects tribute-hierarchy symbols even when equal diplomacy, fiscal limits, and military risk demand adaptation.
 - [Biocomputing AI Hardware](concepts/BiocomputingAIHardware.md) — AI-hardware frame for using living neural systems as specialized processors rather than biological power sources.
