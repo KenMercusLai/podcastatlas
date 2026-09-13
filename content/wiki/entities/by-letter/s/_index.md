@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9957
+wiki_total_pages: 9960
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -2153,6 +2153,9 @@ wiki_pages:
   - key: "ShuleKingdom"
     title: "疏勒 / Shule Kingdom"
     url: "/wiki/entities/shulekingdom/"
+  - key: "ShuGuangShuShouWesternHan"
+    title: "疏广与疏受 / Shu Guang and Shu Shou (Western Han)"
+    url: "/wiki/entities/shuguangshushouwesternhan/"
   - key: "ShengshiInvestmentAcademy"
     title: "盛世投资研习院"
     url: "/wiki/entities/shengshiinvestmentacademy/"

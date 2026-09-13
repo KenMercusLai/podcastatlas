@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7286
+wiki_total_pages: 7290
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1817,6 +1817,9 @@ wiki_pages:
   - key: "Pyramiding"
     title: "Pyramiding"
     url: "/wiki/concepts/pyramiding/"
+  - key: "PublicRecommendationPrivateFavorBoundary"
+    title: "举贤不立私恩 / Public Recommendation Private Favor Boundary"
+    url: "/wiki/concepts/publicrecommendationprivatefavorboundary/"
   - key: "PseudoHistoryConspiracy"
     title: "伪史论 / Pseudo-History Conspiracy"
     url: "/wiki/concepts/pseudohistoryconspiracy/"

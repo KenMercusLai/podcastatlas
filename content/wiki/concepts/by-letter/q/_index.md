@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "q"
-wiki_total_pages: 7286
+wiki_total_pages: 7290
 wiki_pages:
   - key: "QDIIAllocation"
     title: "QDII Allocation"
@@ -110,6 +110,9 @@ wiki_pages:
   - key: "QuietAIAdoptionDeparture"
     title: "Quiet AI Adoption Departure"
     url: "/wiki/concepts/quietaiadoptiondeparture/"
+  - key: "QuietCreditSelfProtection"
+    title: "不显功式自保 / Quiet Credit Self-Protection"
+    url: "/wiki/concepts/quietcreditselfprotection/"
   - key: "QianjuHougongReversal"
     title: "前倨后恭 / Qianju Hougong Reversal"
     url: "/wiki/concepts/qianjuhougongreversal/"

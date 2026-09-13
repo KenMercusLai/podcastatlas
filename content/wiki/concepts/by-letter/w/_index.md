@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "w"
-wiki_total_pages: 7286
+wiki_total_pages: 7290
 wiki_pages:
   - key: "WagyuPremiumBranding"
     title: "Wagyu Premium Branding / 和牛贵价光环"
@@ -467,6 +467,9 @@ wiki_pages:
   - key: "WuzhuCoinRestoration"
     title: "五铢钱恢复 / Wuzhu Coin Restoration"
     url: "/wiki/concepts/wuzhucoinrestoration/"
+  - key: "WealthTransmissionRestraint"
+    title: "传财有度 / Wealth Transmission Restraint"
+    url: "/wiki/concepts/wealthtransmissionrestraint/"
   - key: "WatsonPower"
     title: "华生力 / Watson Power"
     url: "/wiki/concepts/watsonpower/"

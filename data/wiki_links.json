@@ -48691,6 +48691,10 @@
     "title": "Public Reason / Private Motive Mismatch / 公开理由与私下动机错位",
     "url": "/wiki/concepts/publicreasonprivatemotive/"
   },
+  "PublicRecommendationPrivateFavorBoundary": {
+    "title": "举贤不立私恩 / Public Recommendation Private Favor Boundary",
+    "url": "/wiki/concepts/publicrecommendationprivatefavorboundary/"
+  },
   "PublicRefusalStatusInflation": {
     "title": "公开辞让式升格 / Public Refusal Status Inflation",
     "url": "/wiki/concepts/publicrefusalstatusinflation/"
@@ -49634,6 +49638,10 @@
   "QuietAIAdoptionDeparture": {
     "title": "Quiet AI Adoption Departure",
     "url": "/wiki/concepts/quietaiadoptiondeparture/"
+  },
+  "QuietCreditSelfProtection": {
+    "title": "不显功式自保 / Quiet Credit Self-Protection",
+    "url": "/wiki/concepts/quietcreditselfprotection/"
   },
   "QuintusCaeciliusMetellusNumidicus": {
     "title": "Quintus Caecilius Metellus Numidicus / 梅特鲁斯",
@@ -54650,6 +54658,10 @@
   "ShuCai": {
     "title": "树才",
     "url": "/wiki/entities/shucai/"
+  },
+  "ShuGuangShuShouWesternHan": {
+    "title": "疏广与疏受 / Shu Guang and Shu Shou (Western Han)",
+    "url": "/wiki/entities/shuguangshushouwesternhan/"
   },
   "ShuHouNingTong": {
     "title": "蜀侯宁通 / Shu Hou Ning Tong",
@@ -60263,6 +60275,10 @@
     "title": "Time-Stasis System",
     "url": "/wiki/concepts/timestasissystem/"
   },
+  "TimelyRetirementRiskAvoidance": {
+    "title": "知足知止式退场 / Timely Retirement Risk Avoidance",
+    "url": "/wiki/concepts/timelyretirementriskavoidance/"
+  },
   "TimestampedCommentCommunity": {
     "title": "Timestamped Comment Community / 时间戳评论共同体",
     "url": "/wiki/concepts/timestampedcommentcommunity/"
@@ -63846,6 +63862,10 @@
   "WealthThroughDaoFrame": {
     "title": "求财先明道 / Wealth Through Dao Frame",
     "url": "/wiki/concepts/wealththroughdaoframe/"
+  },
+  "WealthTransmissionRestraint": {
+    "title": "传财有度 / Wealth Transmission Restraint",
+    "url": "/wiki/concepts/wealthtransmissionrestraint/"
   },
   "Wealthfront": {
     "title": "Wealthfront",
@@ -68767,6 +68787,10 @@
     "title": "张谭 / Zhang Tan (Western Han)",
     "url": "/wiki/entities/zhangtanwesternhan/"
   },
+  "ZhangTangWesternHan": {
+    "title": "张汤 / Zhang Tang (Western Han)",
+    "url": "/wiki/entities/zhangtangwesternhan/"
+  },
   "ZhangWenLateHan": {
     "title": "张温 / Zhang Wen (late Han)",
     "url": "/wiki/entities/zhangwenlatehan/"
@@ -68846,6 +68870,10 @@
   "ZhangYangLateHan": {
     "title": "张杨 / Zhang Yang (late Han)",
     "url": "/wiki/entities/zhangyanglatehan/"
+  },
+  "ZhangYanshouWesternHan": {
+    "title": "张延寿 / Zhang Yanshou (Western Han)",
+    "url": "/wiki/entities/zhangyanshouwesternhan/"
   },
   "ZhangYi": {
     "title": "Zhang Yi",
@@ -75214,6 +75242,10 @@
   "zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq": {
     "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
     "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+  },
+  "zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl": {
+    "title": "《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl/"
   },
   "zizhi-tongjian-hanji-432-kai-jinian-gongchen-zhi-xianhe-jiemi-qilinge-shiyi-gongchen-lj65dvmawrppq2iomuzarg1ah9ak": {
     "title": "《资治通鉴·汉纪》432｜开纪念功臣之先河！揭秘麒麟阁十一功臣",

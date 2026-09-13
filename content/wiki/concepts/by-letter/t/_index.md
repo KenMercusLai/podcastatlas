@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7286
+wiki_total_pages: 7290
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -887,6 +887,9 @@ wiki_pages:
   - key: "TrueButEvasiveRemonstrance"
     title: "真实但避重就轻的进谏 / True But Evasive Remonstrance"
     url: "/wiki/concepts/truebutevasiveremonstrance/"
+  - key: "TimelyRetirementRiskAvoidance"
+    title: "知足知止式退场 / Timely Retirement Risk Avoidance"
+    url: "/wiki/concepts/timelyretirementriskavoidance/"
   - key: "TaxationStabilityTradeoff"
     title: "税赋与地方稳定权衡 / Taxation-Stability Tradeoff"
     url: "/wiki/concepts/taxationstabilitytradeoff/"
