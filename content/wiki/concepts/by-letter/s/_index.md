@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7344
+wiki_total_pages: 7346
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -2078,6 +2078,9 @@ wiki_pages:
   - key: "SaltRevenueAgriculturalRecovery"
     title: "盐利农具式复耕安置 / Salt-Revenue Agricultural Recovery"
     url: "/wiki/concepts/saltrevenueagriculturalrecovery/"
+  - key: "SaltAndIronConference"
+    title: "盐铁会议 / Salt and Iron Conference"
+    url: "/wiki/concepts/saltandironconference/"
   - key: "ScriptedCandorTrap"
     title: "直言作秀陷阱 / Scripted Candor Trap"
     url: "/wiki/concepts/scriptedcandortrap/"

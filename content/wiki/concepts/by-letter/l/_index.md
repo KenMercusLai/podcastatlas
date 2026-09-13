@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "l"
-wiki_total_pages: 7344
+wiki_total_pages: 7346
 wiki_pages:
   - key: "LaborMarketCounterforces"
     title: "Labor Market Counterforces"
@@ -821,6 +821,9 @@ wiki_pages:
   - key: "LivelihoodFirstPacification"
     title: "民生优先安抚治理 / Livelihood-First Pacification"
     url: "/wiki/concepts/livelihoodfirstpacification/"
+  - key: "LateHanWudiDisplacementCrisis"
+    title: "汉武帝晚年流民危机 / Late Han Wudi Displacement Crisis"
+    url: "/wiki/concepts/latehanwudidisplacementcrisis/"
   - key: "LegalComplexityDiscretionPower"
     title: "法律繁密与裁量权力 / Legal Complexity Discretion Power"
     url: "/wiki/concepts/legalcomplexitydiscretionpower/"

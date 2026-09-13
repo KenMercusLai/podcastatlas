@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [“无聊斋” × 罗永浩的X字路口！喜剧工作者在AI时代可以多“活”几年](sources/wuliaozhai-luoyonghao-de-x-zilukou-xijugongzuozhe-zai-ai-shidai-keyi-duo-huo-ji-nian-luag5vkvmerd4sl805m1gdehyngs.md) — 罗永浩的十字路口 and 无聊斋 live crossover on everyday fear, social embarrassment, medical vulnerability, AI hallucination, AI career anxiety, cross-model verification, and AI companionship.
+- [《资治通鉴·汉纪》397-2｜让皇帝都为之变色的流民，从何处来的？](sources/zizhi-tongjian-hanji-397-2-rang-huangdi-dou-wei-zhi-bianse-de-liumin-cong-hechu-laide-ltmoqipqk61_cg8n7w1gwaprtitj.md) — 芮淇讲透资治通鉴 episode on late Han Wudi displacement, the Luntai turn, Du Yannian's advice to Huo Guang, and the limited Salt and Iron Conference settlement.
 - [《资治通鉴·汉纪》400-1｜太毒辣？汉昭帝竟逼迫哥哥燕王刘旦自杀！](sources/zizhi-tongjian-hanji-400-1-taidula-hanzhaodi-jing-bipo-gege-yanwang-liudan-zisha-ln0-b64ip2kwpcpen_65e4du3vqc.md) — 芮淇讲透资治通鉴 episode on the Shangguan-Gai-Sang-Liu Dan conspiracy to kill Huo Guang, depose Han Zhao, and the leaked plot that ends in executions and Liu Dan's suicide.
 - [《资治通鉴·汉纪》401｜眭弘指名汉昭帝退位让贤？霍光：宰了！](sources/zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8.md) — 芮淇讲透资治通鉴 episode on Huo Guang's Han Zhao regency power, Sui Hong's omen-based abdication memorial, and the lethal boundary around Yao-Shun throne-transfer language.
 - [《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族](sources/zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv.md) — 芮淇讲透资治通鉴 episode on Sang Hongyang's destruction after the Liu Dan rebellion, the Hou Shiwu harboring and amnesty dispute, and Huo Guang's strict legal-political review.
@@ -12443,6 +12444,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [汉武帝晚年流民危机 / Late Han Wudi Displacement Crisis](concepts/LateHanWudiDisplacementCrisis.md) — Western Han crisis pattern linking late Wudi war, luxury, and extraction to mass displacement, rebellion pressure, Luntai self-criticism, and Han Zhao recovery policy.
+- [盐铁会议 / Salt and Iron Conference](concepts/SaltAndIronConference.md) — Han Zhao-era fiscal and court-political debate over salt, iron, junshu, and liquor monopoly after the late Han Wudi crisis.
 - [Social Embarrassment Fear](concepts/SocialEmbarrassmentFear.md) — anticipatory fear of being misread, exposed, judged, or trapped in awkward social obligation.
 - [Assisted Reproduction Decision Literacy](concepts/AssistedReproductionDecisionLiteracy.md) — IVF, egg-freezing, embryo-testing, pregnancy-loss, and emerging-intervention decisions interpreted through attrition, autonomy, and medical context.
 - [Female Fertility as Health Marker](concepts/FemaleFertilityAsHealthMarker.md) — Fertility framed as a reproductive, hormonal, metabolic, inflammatory, lifestyle, and exposure signal rather than only pregnancy success.
