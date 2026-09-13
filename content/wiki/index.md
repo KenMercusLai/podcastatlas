@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事](sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z.md) — 芮淇讲透资治通鉴 episode on Jun Buyi's mother shaping his judicial ethic, Jin Midi's cautious sickbed enfeoffment, and family education as public character formation.
 - [《资治通鉴·汉纪》395-3｜东南亚霸主，缅甸是如何衰落的？](sources/zizhi-tongjian-hanji-395-3-dongnanya-bazhu-miandian-shi-ruhe-shuailuo-de-lizilinr6epqdeglne27rrb7eipf.md) — 芮淇讲透资治通鉴 episode using northern-Myanmar fear as a hook for Burma's First Anglo-Burmese War miscalculation, Treaty of Yandabo shock, and decline from regional military power.
 - [《资治通鉴·汉纪》395-1｜匈奴告诉你：为啥弱者更容易狗咬狗？](sources/zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-rongyi-gou-yao-gou-lgbgad_aqgcibj_sini7vjetzvep.md) — 芮淇讲透资治通鉴 episode on 85 BCE Han relief, post-Han-Wudi Xiongnu poverty, broken succession promises, forged commands, scapegoating, and early Xiongnu internal fracture.
 - [《资治通鉴·汉纪》395-4｜水牢？毒打？你必须知道的缅甸黑料！](sources/zizhi-tongjian-hanji-395-4-shuilao-duda-ni-bixu-zhidao-de-miandian-heiliao-lgirzzox-8_prlrwbihckzl_e1bb.md) — 芮淇讲透资治通鉴 episode linking Anglo-Burmese collapse, northern Myanmar scam compounds, high-salary exit traps, trafficking violence warnings, and geopolitical deterrence claims.
@@ -2434,6 +2435,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [金日磾 / Jin Midi (Western Han)](entities/JinMidiWesternHan.md) — Xiongnu-born Western Han minister whose cautious marquisate handling, funeral honors, and family discipline are backfilled by Hanji 394-1.
 - [程方遂 / Cheng Fangsui (Western Han)](entities/ChengFangsuiWesternHan.md) — diviner who impersonates Liu Ju at Weiyang Palace and is executed after confession.
 - [隽不疑 / Jun Buyi (Western Han)](entities/JunBuyiWesternHan.md) — Jingzhao Yin who resolves the false-Liu-Ju crisis by arresting the claimant before identity uncertainty becomes disorder.
 - [卫太子刘据 / Liu Ju, Crown Prince of Western Han](entities/LiuJuCrownPrinceWesternHan.md) — former Han Wudi crown prince whose presumed death after the Wugu affair makes later impersonation politically explosive.
@@ -13956,7 +13958,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Moral Desert Political Outcome Gap / 善恶报应与政治结果错位](concepts/MoralDesertPoliticalOutcomeGap.md) — Frame where virtue and harm do not reliably map to survival, reward, or punishment, requiring political mechanism analysis without erasing moral judgment.
 - [Oblique Remonstrance Self-Protection / 迂回进谏自保](concepts/ObliqueRemonstranceSelfProtection.md) — Hanji 890 pattern where an adviser preserves corrective speech by changing the angle, target, and risk surface of criticism.
 - [Parental Repair After Harm / 父母伤害后的修复](concepts/ParentalRepairAfterHarm.md) — Hanji 891 parenting practice of naming harm, apologizing, rejecting hitting/scolding as problem-solving, and asking the child what happened.
-- [Parental Embodied Modeling / 身教型家庭教育](concepts/ParentalEmbodiedModeling.md) — Family-education frame where adult routines, emotional steadiness, sleep, order, and repair teach children more than instruction alone.
+- [Parental Embodied Modeling / 身教型家庭教育](concepts/ParentalEmbodiedModeling.md) — Family-education frame where adult routines, emotional steadiness, repair, and repeated work-value signals teach children more than instruction alone.
 - [Data Foundation-First AI Strategy](concepts/DataFoundationFirstAIStrategy.md) — Enterprise AI strategy frame where ownership, governance, data modeling, and business alignment must precede dashboards, connectors, and agents.
 - [Mid-Market Data Talent Gap](concepts/MidMarketDataTalentGap.md) — Mismatch between smaller companies' need for data/AI capability and their ability to afford or retain senior data teams and tooling.
 - [Data Team as Business Partner](concepts/DataTeamAsBusinessPartner.md) — Operating model where data teams combine guardrails with business-user exploration so analytics can shape decisions.

@@ -618,12 +618,13 @@
       "d9bf4ab06ad3987d6fa76a87be74dce0826d56d3cbacee90b65bd1aba882ed8b",
       "6a4340b9254e79bcf78a389061c552bbc89442ed9365a5f9d578c0c47ae620b4",
       "2cfcc3c5041d6fa2bf851553bbc602da9a7a35b4c452743b9f5d88f85c86b108",
-      "12d0aab3b25d3efba0c5023097f7f5cbef45faee321b1e950c81054ab19b0bfa"
+      "12d0aab3b25d3efba0c5023097f7f5cbef45faee321b1e950c81054ab19b0bfa",
+      "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92"
     ],
-    "paragraph_count": 618
+    "paragraph_count": 619
   },
-  "overview_commit": "fcfe39ee260464cafcd09709828c7e3a9b0e2d02",
-  "overview_digest": "e5ad93569940b691f220504b0ca0b2a630d5869600c1ba5df7cc89edee7a4ed1",
+  "overview_commit": "efd3a7de9c4c23f26d780ce5e299913a2f7d9c09",
+  "overview_digest": "5aad91ca3d3798c88887ed8c664ca56882c2228252a950105e73ac7e027e466c",
   "paragraphs": [
     {
       "id": "c8dcfd0ba16b7c475222dfe0f4d254eab4e60ce04e6bf5e9c98db741bf735a1f",
@@ -18869,6 +18870,26 @@
         "TianQianqiuWesternHan",
         "ZhangAnshiWesternHan",
         "zizhi-tongjian-hanji-401-suihong-zhiming-hanzhaodi-tuiwei-rangxian-huoguang-zaile-ll6pyzpjl0mlcfn0g1zjot2wf8s8"
+      ]
+    },
+    {
+      "id": "153ebf80571eb8127c29bf081a140ec626349f6a0d28274dbffbafc0c5ca4d92",
+      "primary_topic": "work-education-and-society",
+      "secondary_topics": [],
+      "text": "The latest addition is [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事]], a [[RuiqiJiangtouZizhiTongjian|芮淇讲透资治通鉴]] episode backfilling [[JunBuyiWesternHan|隽不疑]]'s judicial formation before the false-[[LiuJuCrownPrinceWesternHan|刘据]] claimant crisis and adding [[JinMidiWesternHan|金日磾]] as a cautious Xiongnu-born Han minister. It adds Jin Midi while extending [[ParentalEmbodiedModeling|身教型家庭教育]] and Jun Buyi: the core synthesis is that family education becomes public ethics when a caregiver repeatedly rewards justice, evidence, caution, and life-saving responsibility, while Jin Midi's sickbed marquisate and [[HuoGuangWesternHan|霍光]]'s inheritance boundary show family continuity held inside political restraint. No settled contradiction is recorded; Jun Buyi's full career, Jin Midi's full lineage, funeral protocol, and motive claims remain source-scoped.",
+      "topic_scores": {
+        "governance-and-institutions": 1,
+        "history-and-geopolitics": 1,
+        "work-education-and-society": 3
+      },
+      "wikilinks": [
+        "HuoGuangWesternHan",
+        "JinMidiWesternHan",
+        "JunBuyiWesternHan",
+        "LiuJuCrownPrinceWesternHan",
+        "ParentalEmbodiedModeling",
+        "RuiqiJiangtouZizhiTongjian",
+        "zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z"
       ]
     }
   ],

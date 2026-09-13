@@ -3,16 +3,16 @@
 generated: true
 topic_id: work-education-and-society
 title: "Work, Education, and Society"
-last_updated: 2026-09-13
-as_of_overview_commit: 2f360149a69c00ace2b4cc5552418ff640133b5a
-input_digest: e58515b294b452b4f8ea983b61f3659c5f5fdfde9d8af285370537de3291c0bb
+last_updated: 2026-09-14
+as_of_overview_commit: efd3a7de9c4c23f26d780ce5e299913a2f7d9c09
+input_digest: f1ca58a16c1544580f4e9de05620cbbf1454151d236eb0de993d61559b7478b3
 ---
 
 # Work, Education, and Society
 
 ## Current State
 
-Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation.
+Work, education, and society sources show that institutions and public life depend on practical routines, role boundaries, trust, incentives, protected access, human judgment, and intergenerational capacity rather than labels alone. Hanji 445 adds a bounded historical institution case: schools, ritual training, local worthies, grassroots monitors, and subordinate discipline make local governance an education-and-network system, while the resulting harmony remains procedurally qualified by moral-pressure adjudication. Hanji 442 adds a workplace hierarchy caution: leaders may reward people who satisfy hidden operational, emotional, private, or blame-bearing needs, so upward judgment requires reading function without laundering misconduct. Hanji 394-1 adds a family-education bridge: repeated caregiver value signals can become public work standards when justice, evidence, and life-saving responsibility are treated as the measure of office. Liang Jianzhang adds a demographic work-and-education layer: low fertility becomes an innovation-capacity issue when education pressure, childcare, gender support, and young people early-career window shape future talent and family formation.
 
 ## Cross-source Findings
 
@@ -824,3 +824,15 @@ VOL.34 and VOL.35 add a work-and-society edge around rehabilitation as scaffolde
 
 - This is source-scoped to Liang Jianzhang interview and should not be treated as settled empirical proof of the fertility-innovation causal effect.
 - AI job displacement, fertility costs, and policy efficacy claims remain source-reported and need broader evidence before becoming general rules.
+
+### Family Modeling Turns Values Into Public Work Standards
+
+[[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z|Hanji 394-1]] adds a work-education-and-society edge through [[ParentalEmbodiedModeling]]: [[JunBuyiWesternHan]]'s mother turns redressing wrongful cases and saving lives into the repeated standard for official work, while [[JinMidiWesternHan]] and [[HuoGuangWesternHan]] show family continuity being bounded by political caution and inherited-merit rules.
+
+**Evidence:** [[zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z]], [[ParentalEmbodiedModeling]], [[JunBuyiWesternHan]], [[JinMidiWesternHan]], [[HuoGuangWesternHan]], [[LiuJuCrownPrinceWesternHan]], [[RuiqiJiangtouZizhiTongjian]]
+
+**Qualifications:**
+
+- This is a source-scoped historical and family-education interpretation, not a general parenting, judicial-training, workplace, or career rule.
+- The source's maternal framing should not be generalized into mothers alone bearing value-formation responsibility.
+- Jun Buyi's full career, Jin Midi's complete lineage, funeral protocol, and motive claims remain outside this bounded source.

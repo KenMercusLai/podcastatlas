@@ -53759,6 +53759,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/entities/jimcallaghan/"
     },
+    "JinMidiWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事 [lrLOtzt34Bbp3JaHJwMzygXuZB_z].md",
+          "key": "zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/jinmidiwesternhan/"
+    },
     "JinShang": {
       "episode_count": 3,
       "show_count": 1,
@@ -54837,9 +54853,9 @@
       "url": "/wiki/entities/jumikingdomlatehan/"
     },
     "JunBuyiWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？ [lhJ6DzJSiKKMbbcJlfGnz1bBOK-1].md",
@@ -54847,6 +54863,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事 [lrLOtzt34Bbp3JaHJwMzygXuZB_z].md",
+          "key": "zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z/"
         }
       ],
       "updated": "2026-09-14",
@@ -76031,9 +76054,9 @@
       "url": "/wiki/concepts/pardonwithoutexoneration/"
     },
     "ParentalEmbodiedModeling": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针 [lmqKzsNhTIWc9wZcee869Kuu57M5].md",
@@ -76041,9 +76064,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》891丨高段位的母亲，是家的定海神针",
           "url": "/wiki/sources/zizhi-tongjian-hanji-891-gao-duanwei-de-muqin-shi-jia-de-dinghai-shenzhen-lmqkzsnhtiwc9wzcee869kuu57m5/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事 [lrLOtzt34Bbp3JaHJwMzygXuZB_z].md",
+          "key": "zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》394-1｜古人如何教孩子？看看隽不疑的成长故事",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-394-1-guren-ruhe-jiao-haizi-kankan-junbuyi-de-chengzhang-gushi-lrlotzt34bbp3jahjwmzygxuzb_z/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/parentalembodiedmodeling/"
     },
     "ParentalExpectationShame": {
