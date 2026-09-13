@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7334
+wiki_total_pages: 7335
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -71,6 +71,9 @@ wiki_pages:
   - key: "AccessibleProgrammingPlatform"
     title: "Accessible Programming Platform"
     url: "/wiki/concepts/accessibleprogrammingplatform/"
+  - key: "AccessionMourningLegibility"
+    title: "Accession Mourning Legibility / 继位守丧可读性"
+    url: "/wiki/concepts/accessionmourninglegibility/"
   - key: "AccidentalVirality"
     title: "Accidental Virality"
     url: "/wiki/concepts/accidentalvirality/"

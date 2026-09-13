@@ -3561,6 +3561,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/concepts/accessionkinshipcontainment/"
     },
+    "AccessionMourningLegibility": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？ [lgs9uY4ohCD50v9qeirVSdo2x3Ad].md",
+          "key": "zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/accessionmourninglegibility/"
+    },
     "AccessionTimingCoalitionSignal": {
       "episode_count": 1,
       "show_count": 1,
@@ -59573,9 +59589,9 @@
       "url": "/wiki/entities/liuguilatehan/"
     },
     "LiuHeHaihunHou": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
@@ -59604,9 +59620,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？ [lgs9uY4ohCD50v9qeirVSdo2x3Ad].md",
+          "key": "zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/liuhehaihunhou/"
     },
     "LiuHongweiStandup": {
@@ -101923,9 +101946,9 @@
       "url": "/wiki/entities/wanghuoxinprince/"
     },
     "WangJiWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》524丨为什么有些老板喜欢让高管内斗？ [lsUesWK4fqtCYtD-m_GziUbWmlSz].md",
@@ -101947,9 +101970,16 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞",
           "url": "/wiki/sources/zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？ [lgs9uY4ohCD50v9qeirVSdo2x3Ad].md",
+          "key": "zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad/"
         }
       ],
-      "updated": "2026-09-13",
+      "updated": "2026-09-14",
       "url": "/wiki/entities/wangjiwesternhan/"
     },
     "WangJiaShuScholar": {

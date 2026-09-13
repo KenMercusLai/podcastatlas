@@ -18570,6 +18570,10 @@ Added source `zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-b
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | 《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？
+
+Added source `zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad`; created `AccessionMourningLegibility`; updated `LiuHeHaihunHou` with the pre-accession mourning-failure layer and `WangJiWesternHan` with his direct accession advice. No settled contradiction found; the omen material remains source-scoped.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》410-1｜狱中长大的汉宣帝刘病己，如何成就霸业？
 
 Added source note for the Liu Bingyi accession bridge and updated Zhang He, Xu Guanghan, Zhang Anshi, Du Yannian, Bing Ji, Huo Guang, and Yan Yannian. Key claims: Zhang He's education and marriage brokerage make Liu Bingyi's pre-accession support network concrete; Bing Ji and Du Yannian move him into Huo Guang's successor-selection field; and Yan Yannian's impeachment preserves the controversy around regent-led废立 authority.
@@ -19191,5 +19195,9 @@ Added source `vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-ya
 Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.

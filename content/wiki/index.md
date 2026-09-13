@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》406｜天上砸下个皇位！荒唐的刘贺咋就成了皇帝？](sources/zizhi-tongjian-hanji-406-tianshang-zaxia-ge-huangwei-huangtang-de-liuhe-za-jiuchengle-huangdi-lgs9uy4ohcd50v9qeirvsdo2x3ad.md) — 芮淇讲透资治通鉴 episode on Liu He's pre-accession disorder, Wang Ji's mourning-and-Huo-Guang advice, the Chang'an grief-performance failure, and early Changyi-follower promotion before deposition.
 - [《资治通鉴·汉纪》407｜在位仅27天，汉废帝刘贺如何被霍光废黜？](sources/zizhi-tongjian-hanji-407-zaiwei-jin-27-tian-han-feidi-liuhe-ruhe-bei-huoguang-feichu-lpob_9jkyomzrbeqnbjekqbpjeog.md) — 芮淇讲透资治通鉴 episode on the pre-deposition planning around Liu He: ignored remonstrance, omen warning, Tian Yannian's Yi Yin precedent, Yang Chang's coerced alignment, and Huo Guang's Weiyang Palace pressure meeting.
 - [VOL.202 用“推开你”来呼救：中韩医生教你“翻译”言不由衷背后的潜台词](sources/vol-202-yong-tuikai-ni-lai-hujiu-zhonghan-yisheng-jiao-ni-fanyi-yanbuyouzhong-beihoude-qiantai-ci-lvfipuwpqwuwingqphfcorngy21c.md) — 这病说来话长 episode with Cui Jiabin and Nan Jihe on push-pull intimacy, shame, high-context miscommunication, Korean give-up-generation pressure, and translating one's own fear and needs.
 - [《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！](sources/zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug.md) — 芮淇讲透资治通鉴 episode on Huo Guang's procedurally staged deposition of Liu He through ministerial consensus, Shangguan Taihou authorization, Changyi-follower isolation, and ritual-legitimacy indictment.
@@ -2433,7 +2434,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers](entities/ShengzhuDeXianchenSong.md) — Wang Bao ode read as a political-literary theory of worthy ministers, ruler search, trust, and mutual achievement.
 - [《僮约》 / Tong Yue (Wang Bao)](entities/TongyueWangBao.md) — Wang Bao work valued by Hanji 433 as social-history evidence for Han-era Sichuan and early tea culture.
 - [车师国 / Cheshi Kingdom (Western Han)](entities/CheshiKingdomWesternHan.md) — Western Regions polity whose route position, hostage politics, fertile land, and屯田 potential make it a repeated Han-Xiongnu pressure point.
-- [刘贺 / Liu He / Marquis of Haihun](entities/LiuHeHaihunHou.md) — Former Western Han emperor monitored by Han Xuan and reduced to Haihun Hou in Hanji 430.
+- [刘贺 / Liu He / Marquis of Haihun](entities/LiuHeHaihunHou.md) — Former Western Han emperor whose accession failure, ignored remonstrance, deposition, later surveillance, and Haihun settlement make him a continuing legitimacy residue.
 - [海昏侯国 / Haihun Marquisate](entities/HaihunMarquisate.md) — Reduced marquisate used to contain Liu He's residual legitimacy in Hanji 430.
 - [张厂 / Zhang Chang (Shanyang governor)](entities/ZhangChangShanyangWesternHan.md) — Shanyang governor tasked with confidential surveillance of Liu He in Hanji 430.
 - [张贺 / Zhang He (Western Han)](entities/ZhangHeWesternHan.md) — Deceased benefactor whom Han Xuan rewards posthumously in Hanji 430.
@@ -2597,7 +2598,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Yokkaichi Pollution Incident / 四日市公害事件](entities/YokkaichiPollutionIncident.md) — Announced environmental public-health case in 日谈物语 E02, currently source-limited to the title and "no killer" setup.
 - [于定国 / Yu Dingguo](entities/YuDingguoWesternHan.md) — Western Han senior official who supports Jia Juanzhi's Zhuya-abandonment proposal and later exits through disaster-accountability resignation.
 - [于永 / Yu Yong (Western Han)](entities/YuYongWesternHan.md) — Chengdi-era official whose family prestige, later self-cultivation, Yushi Dafu appointment, and death before chancellorship frame personnel selection in Hanji 524.
-- [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose Liu He advice record, Shenjue 1 root-cause memorial, and Han Yuandi-era summons anchor both Wang Jun's family reputation and "贡禹弹冠".
+- [王吉 / Wang Ji (Western Han)](entities/WangJiWesternHan.md) — Western Han remonstrance figure whose direct Liu He accession warning, Shenjue 1 root-cause memorial, and Han Yuandi-era summons anchor both Wang Jun's family reputation and "贡禹弹冠".
 - [王骏 / Wang Jun (Western Han)](entities/WangJunWesternHan.md) — Jingzhao Yin appointed by Han Chengdi and framed through practical office reputation and Wang Ji's remonstrance tradition.
 - [《二年律令》 / Er Nian Lu Ling](entities/ErNianLuLing.md) — Excavated Han legal text used in Hanji 527-2 to discuss punishment for abducting, selling, and buying trafficked people.
 - [《盲山》 / Blind Mountain](entities/BlindMountainFilm.md) — Film example used in Hanji 527-2 to connect modern forced marriage, captivity, and public imagination around trafficking.
@@ -12408,6 +12409,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Accession Mourning Legibility / 继位守丧可读性](concepts/AccessionMourningLegibility.md) — Succession ritual pattern where a candidate must make grief publicly credible because mourning conduct proves role restraint before imperial authority.
 - [Push-Pull Intimacy Communication / 推开式亲密求助](concepts/PushPullIntimacyCommunication.md) — Relationship pattern where apparent rejection or withdrawal may conceal need, hurt, shame, or a plea for support.
 - [Self-Translation In Intimacy / 亲密关系中的自我翻译](concepts/SelfTranslationInIntimacy.md) — Practice of noticing and expressing one's own fear, shame, control, hurt, desire, and need rather than only decoding the partner.
 - [High-Context Intimacy Miscommunication / 高语境亲密误沟通](concepts/HighContextIntimacyMiscommunication.md) — Intimacy failure mode where indirect speech makes the partner responsible for guessing the speaker's actual need.
