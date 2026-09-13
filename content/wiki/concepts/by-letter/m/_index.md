@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "m"
-wiki_total_pages: 7290
+wiki_total_pages: 7292
 wiki_pages:
   - key: "MaaSInfrastructure"
     title: "MaaS Infrastructure"
@@ -572,6 +572,9 @@ wiki_pages:
   - key: "MetaModelTrainingCurvePrediction"
     title: "Meta-Model Training Curve Prediction"
     url: "/wiki/concepts/metamodeltrainingcurveprediction/"
+  - key: "MetaMoment"
+    title: "Meta-Moment"
+    url: "/wiki/concepts/metamoment/"
   - key: "MetabolicPsychiatry"
     title: "Metabolic Psychiatry"
     url: "/wiki/concepts/metabolicpsychiatry/"

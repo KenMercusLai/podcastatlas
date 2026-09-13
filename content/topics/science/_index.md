@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1061
+topic_total_pages: 1066
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -1027,6 +1027,9 @@ topic_concepts:
   - key: "MeritocraticArrogance"
     title: "Meritocratic Arrogance / 绩优主义傲慢"
     url: "/wiki/concepts/meritocraticarrogance/"
+  - key: "MetaMoment"
+    title: "Meta-Moment"
+    url: "/wiki/concepts/metamoment/"
   - key: "MidlifeBodyAlarmAdjustment"
     title: "Midlife Body Alarm Adjustment / 中年身体报警调整"
     url: "/wiki/concepts/midlifebodyalarmadjustment/"
@@ -1426,6 +1429,9 @@ topic_concepts:
   - key: "RomanticDeathEscape"
     title: "Romantic Death Escape / 浪漫化死亡逃避"
     url: "/wiki/concepts/romanticdeathescape/"
+  - key: "RULERFramework"
+    title: "RULER Framework"
+    url: "/wiki/concepts/rulerframework/"
   - key: "RuminationVsReflection"
     title: "Rumination Vs Reflection"
     url: "/wiki/concepts/ruminationvsreflection/"
@@ -2285,6 +2291,9 @@ topic_entities:
   - key: "MalibuHighSchool"
     title: "Malibu High School"
     url: "/wiki/entities/malibuhighschool/"
+  - key: "MarcBrackett"
+    title: "Marc Brackett"
+    url: "/wiki/entities/marcbrackett/"
   - key: "MarieLouiseVonFranz"
     title: "Marie-Louise von Franz / 玛丽-路易丝·冯·弗兰兹"
     url: "/wiki/entities/marielouisevonfranz/"
@@ -2630,6 +2639,9 @@ topic_entities:
   - key: "WoodsHoleOceanographicInstitution"
     title: "Woods Hole Oceanographic Institution"
     url: "/wiki/entities/woodsholeoceanographicinstitution/"
+  - key: "YaleCenterForEmotionalIntelligence"
+    title: "Yale Center for Emotional Intelligence"
+    url: "/wiki/entities/yalecenterforemotionalintelligence/"
   - key: "Yaxian"
     title: "Yaxian / 雅贤"
     url: "/wiki/entities/yaxian/"
@@ -3045,6 +3057,9 @@ topic_sources:
   - key: "tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128"
     title: "How convergence will define the tech sector in 2026"
     url: "/wiki/sources/tech-20260106-0106-mp-tech-pod-128-tech-20260106-0106-mp-tech-pod-128/"
+  - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
+    title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
+    url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
   - key: "how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656"
     title: "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain"
     url: "/wiki/sources/how-to-improve-motivation-overcome-procrastination-dr-masud-husain-scim3386045656/"

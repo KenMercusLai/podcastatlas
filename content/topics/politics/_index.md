@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2469
+topic_total_pages: 2471
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -2017,6 +2017,9 @@ topic_concepts:
   - key: "MeritShieldedAccountability"
     title: "Merit-Shielded Accountability / 因功免责"
     url: "/wiki/concepts/meritshieldedaccountability/"
+  - key: "MetaMoment"
+    title: "Meta-Moment"
+    url: "/wiki/concepts/metamoment/"
   - key: "MidtermBacklashForecasting"
     title: "Midterm Backlash Forecasting"
     url: "/wiki/concepts/midtermbacklashforecasting/"
@@ -2899,6 +2902,9 @@ topic_concepts:
   - key: "RuleBreakingAbdication"
     title: "Rule-Breaking Abdication / 破坏规则式禅让"
     url: "/wiki/concepts/rulebreakingabdication/"
+  - key: "RULERFramework"
+    title: "RULER Framework"
+    url: "/wiki/concepts/rulerframework/"
   - key: "RumorErosionOfTrust"
     title: "Rumor Erosion of Trust / 谣言侵蚀信任"
     url: "/wiki/concepts/rumorerosionoftrust/"

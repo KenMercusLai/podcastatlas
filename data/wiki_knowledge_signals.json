@@ -27941,9 +27941,9 @@
       "url": "/wiki/concepts/emotionattentionalcapture/"
     },
     "EmotionRegulationToolkit": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 3,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》901 丨急性子的人会是什么下场？ [lh1yfyJZqPTXVtnV9tAiQms9YjUd].md",
@@ -27979,9 +27979,16 @@
           "show": "Huberman Lab",
           "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr. Ralph Adolphs",
           "url": "/wiki/sources/neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716/"
+        },
+        {
+          "episode_file": "SCIM6338474733 [SCIM6338474733].md",
+          "key": "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733",
+          "show": "Huberman Lab",
+          "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/emotionregulationtoolkit/"
     },
     "EmotionalFlashbackGrounding": {
@@ -28001,9 +28008,9 @@
       "url": "/wiki/concepts/emotionalflashbackgrounding/"
     },
     "EmotionalGranularity": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM1222961716 [SCIM1222961716].md",
@@ -28018,9 +28025,16 @@
           "show": "Huberman Lab",
           "title": "Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal",
           "url": "/wiki/sources/movement-practice-to-strengthen-your-mind-body-connection-ido-portal-scim2496765743/"
+        },
+        {
+          "episode_file": "SCIM6338474733 [SCIM6338474733].md",
+          "key": "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733",
+          "show": "Huberman Lab",
+          "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-13",
       "url": "/wiki/concepts/emotionalgranularity/"
     },
     "EmotionalHealthLongevity": {
@@ -64044,6 +64058,22 @@
       "updated": "2026-09-06",
       "url": "/wiki/entities/maozhongqun/"
     },
+    "MarcBrackett": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6338474733 [SCIM6338474733].md",
+          "key": "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733",
+          "show": "Huberman Lab",
+          "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/marcbrackett/"
+    },
     "MarcelloLippi": {
       "episode_count": 1,
       "show_count": 1,
@@ -65609,6 +65639,22 @@
       ],
       "updated": "2026-09-12",
       "url": "/wiki/concepts/messagerelaypoliticalpower/"
+    },
+    "MetaMoment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6338474733 [SCIM6338474733].md",
+          "key": "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733",
+          "show": "Huberman Lab",
+          "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/metamoment/"
     },
     "MetabolicPsychiatry": {
       "episode_count": 1,
@@ -79812,6 +79858,22 @@
       ],
       "updated": "2026-08-31",
       "url": "/wiki/entities/rsffinance/"
+    },
+    "RULERFramework": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6338474733 [SCIM6338474733].md",
+          "key": "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733",
+          "show": "Huberman Lab",
+          "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/rulerframework/"
     },
     "RadicalAcceptanceChronicStress": {
       "episode_count": 1,
@@ -107218,6 +107280,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/yalebrownobsessivecompulsivescale/"
+    },
+    "YaleCenterForEmotionalIntelligence": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM6338474733 [SCIM6338474733].md",
+          "key": "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733",
+          "show": "Huberman Lab",
+          "title": "How to Better Regulate Your Emotions | Dr. Marc Brackett",
+          "url": "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/yalecenterforemotionalintelligence/"
     },
     "YanBaihu": {
       "episode_count": 3,

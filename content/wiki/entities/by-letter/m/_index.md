@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "m"
-wiki_total_pages: 9960
+wiki_total_pages: 9962
 wiki_pages:
   - key: "MStand"
     title: "M Stand"
@@ -203,6 +203,9 @@ wiki_pages:
   - key: "MarauderSaronic"
     title: "Marauder (Saronic)"
     url: "/wiki/entities/maraudersaronic/"
+  - key: "MarcBrackett"
+    title: "Marc Brackett"
+    url: "/wiki/entities/marcbrackett/"
   - key: "MarcNewson"
     title: "Marc Newson"
     url: "/wiki/entities/marcnewson/"

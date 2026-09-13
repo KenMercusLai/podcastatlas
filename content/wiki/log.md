@@ -18538,6 +18538,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | How to Better Regulate Your Emotions | Dr. Marc Brackett
+
+Added source note plus Marc Brackett, Yale Center for Emotional Intelligence, RULER Framework, and Meta-Moment. Updated emotion regulation and emotional granularity with Brackett's goal-and-strategy definition of regulation, precise emotion vocabulary, strategic vulnerability, co-regulation, school and leadership skill framing, and source-scoped adolescent AI companionship warning.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》432｜开纪念功臣之先河！揭秘麒麟阁十一功臣
 
 Added source note and updated Zhang Anshi, Qilin Pavilion merit honors, and Wei Xuancheng. Key claims: Zhang Anshi's Qilin Pavilion inclusion is read through cautious competence and timely political alignment, Wei Xuancheng's title refusal becomes a reusable moral signal, and the Yuankang 4 frontier notices show Qiang-Xiongnu risk forming before Zhao Chongguo's later campaign.
@@ -18906,6 +18910,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书
 
 Added source note plus Ding Kefeng, bowel symptom triage, IBS diagnostic boundary, coffee laxative myth, colorectal cancer screening, colon polyp risk stratification, liquid biopsy screening boundary, and function-preserving colorectal surgery. Key claims: ordinary bowel symptoms should be routed by persistence and warning signs rather than panic, tumor markers and immature liquid-biopsy tools cannot replace validated screening and colonoscopy, and colorectal surgery increasingly balances cure with function and quality of life.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

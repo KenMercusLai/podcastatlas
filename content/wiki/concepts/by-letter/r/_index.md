@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7290
+wiki_total_pages: 7292
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -938,6 +938,9 @@ wiki_pages:
   - key: "RuleShiftingMathematics"
     title: "Rule-Shifting Mathematics"
     url: "/wiki/concepts/ruleshiftingmathematics/"
+  - key: "RULERFramework"
+    title: "RULER Framework"
+    url: "/wiki/concepts/rulerframework/"
   - key: "RulerNonNaturalDeathTypology"
     title: "Ruler Non-Natural Death Typology / 帝王非命死法类型"
     url: "/wiki/concepts/rulernonnaturaldeathtypology/"

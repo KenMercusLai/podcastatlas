@@ -8,8 +8,9 @@ sources:
   - ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf
   - ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx
   - neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716
+  - how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733
 knowledge_schema: synthesis-v1
-last_updated: 2026-08-27
+last_updated: 2026-09-13
 ---
 
 # Emotion Regulation Toolkit / 情绪调节工具箱
@@ -24,8 +25,10 @@ The practical toolkit remains deliberately ordinary. It includes trusted people,
 
 The Adolphs episode adds the neuroscience frame: emotions are functional states that support decision and motivation, so regulation means monitoring, differentiating, reframing, designing environments, and training transitions rather than removing emotion. It also adds sharper cautions: reappraisal can become rumination, cold exposure and endurance examples remain source-scoped, and meditation or solitude benefits vary by person.
 
+The Brackett episode makes the toolkit more operational and social. Regulation is defined as using emotions wisely to achieve goals, which means matching strategy to emotion, person, and context rather than pursuing permanent calm. [[RULERFramework]], PRIME, [[MetaMoment]], precise labels, strategic vulnerability, and co-regulation all push the page toward a goal-and-language model: feel the emotion, name it accurately, decide whether and how to express it, then choose an action that helps rather than harms relationships, performance, and values.
+
 ## Key Claims
-- Regulation begins by making the emotional state visible enough that it does not automatically decide behavior.
+- Regulation begins by making the emotional state visible enough that it does not automatically decide behavior, then matching strategy to goals and context.
 - Short delays preserve choice in impatience, anger, betrayal, and anxiety-driven urgency.
 - Naming, conceptual differentiation, and body-based practices help because emotion is both cognitive and embodied.
 - Environment design and early intervention can prevent predictable emotional traps before they become harder to regulate.
@@ -38,15 +41,17 @@ The Adolphs episode adds the neuroscience frame: emotions are functional states 
 - Ordinary and diversified supports - [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] names trusted people, sleep, bathing, cooking, handwork, exercise, pets, outdoor activity, and appropriate help as alternatives to suppressing emotion or outsourcing every feeling to paid companionship.
 - Agency under relational control - [[ep273-npc-haishi-npd-dou-bie-xiang-nazou-women-rensheng-de-yaokongqi-lqqnd-e29xvhx2mtf6uuzx13wwvf]] treats slowing the scene, feeling discomfort, leaving, refusing a request, or maintaining one's own evaluation as regulation through restored action rights.
 - Neuroscience regulation frame - [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] says emotional difficulties often involve regulation problems and links regulation to monitoring, [[EmotionalGranularity]], reappraisal, environment design, body-state training, solitude, meditation, and task switching.
+- Goal-and-strategy frame - [[how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733]] has [[MarcBrackett]] define regulation as using emotions wisely to achieve goals, then connect strategy choice to emotion, person, context, and PRIME.
+- Deliberate response practice - [[how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733]] explains [[MetaMoment]] as a pause, breath, best-self prompt, and response-choice practice.
 - Boundary conditions - [[ep236-lao-wu-kuai-qian-xinlihua-fufei-de-peiban-shi-zhende-ma-ltvuoeluoeu4-a3j3lamhc3buudx]] distinguishes ordinary support from crisis and therapy boundaries, while [[neuroscience-of-emotions-tools-for-improving-emotion-regulation-dr-ralph-adolphs-scim1222961716]] warns that reappraisal can become rumination and that several practice claims are anecdotal or under-tested.
 
 ## Counterevidence & Qualifications
-The toolkit is not a substitute for professional care in severe distress or acute safety risk. Response choice should not be turned into victim-blaming after betrayal, coercion, or abuse. The Adolphs source also keeps cold exposure, ultrarunning, solitude, and meditation effects source-scoped rather than universal.
+The toolkit is not a substitute for professional care in severe distress or acute safety risk. Response choice should not be turned into victim-blaming after betrayal, coercion, or abuse. The Adolphs source also keeps cold exposure, ultrarunning, solitude, and meditation effects source-scoped rather than universal. The Brackett source presents school, leadership, RULER, and adolescent AI-use claims in a broad public conversation, so those claims remain source-scoped unless later evidence deepens them.
 
 ## What Changed
-- Migrated the page to synthesis-v1 while preserving the existing source inventory.
-- Integrated Adolphs' functional emotion and regulation frame into the older pause, support, and agency toolkit.
-- Added explicit cautions about rumination, crisis escalation, and source-scoped stress-training practices.
+- Added Brackett's goal-and-strategy definition of regulation.
+- Integrated RULER, PRIME, meta-moment, precise vocabulary, strategic vulnerability, and co-regulation into the toolkit.
+- Added explicit source-scope boundaries around school, leadership, and adolescent AI-use claims.
 
 ## Related Concepts
 - [[EmotionalGranularity]] - self-monitoring skill that makes regulation more precise.
@@ -56,3 +61,5 @@ The toolkit is not a substitute for professional care in severe distress or acut
 - [[RelationshipNeedDiversification]] - support-network counterpart to one-person or one-service dependence.
 - [[MentalHealthCrisisInterventionBoundary]] - escalation boundary when self-care is insufficient.
 - [[TaskSwitchingResidue]] - transition-practice branch for shifting out of previous emotional and cognitive states.
+- [[RULERFramework]] - emotional-intelligence framework that organizes recognition, understanding, labeling, expression, and regulation.
+- [[MetaMoment]] - values-oriented pause-and-response practice inside the toolkit.

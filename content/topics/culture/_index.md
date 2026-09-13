@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2690
+topic_total_pages: 2694
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -2131,6 +2131,9 @@ topic_concepts:
   - key: "RuleShiftingMathematics"
     title: "Rule-Shifting Mathematics"
     url: "/wiki/concepts/ruleshiftingmathematics/"
+  - key: "RULERFramework"
+    title: "RULER Framework"
+    url: "/wiki/concepts/rulerframework/"
   - key: "RunningShoeTechnology"
     title: "Running Shoe Technology"
     url: "/wiki/concepts/runningshoetechnology/"
@@ -4178,6 +4181,9 @@ topic_entities:
   - key: "ManchesterUnited"
     title: "Manchester United"
     url: "/wiki/entities/manchesterunited/"
+  - key: "MarcBrackett"
+    title: "Marc Brackett"
+    url: "/wiki/entities/marcbrackett/"
   - key: "MarchHare"
     title: "March Hare / 三月兔"
     url: "/wiki/entities/marchhare/"
@@ -5234,6 +5240,9 @@ topic_entities:
   - key: "XuHouguang"
     title: "Xu Houguang / 徐厚广"
     url: "/wiki/entities/xuhouguang/"
+  - key: "YaleCenterForEmotionalIntelligence"
+    title: "Yale Center for Emotional Intelligence"
+    url: "/wiki/entities/yalecenterforemotionalintelligence/"
   - key: "YangLingfeng"
     title: "Yang Lingfeng / 杨凌峰"
     url: "/wiki/entities/yanglingfeng/"
@@ -7755,6 +7764,9 @@ topic_sources:
   - key: "how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815"
     title: "How to Accelerate Learning & Improve Education | Joe Liemandt"
     url: "/wiki/sources/how-to-accelerate-learning-improve-education-joe-liemandt-scim7393383815/"
+  - key: "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733"
+    title: "How to Better Regulate Your Emotions | Dr. Marc Brackett"
+    url: "/wiki/sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733/"
   - key: "how-to-make-a-book-into-a-bestseller"
     title: "How to make a BOOK into a bestseller"
     url: "/wiki/sources/how-to-make-a-book-into-a-bestseller/"

@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [How to Better Regulate Your Emotions | Dr. Marc Brackett](sources/how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733.md) — Huberman Lab episode with Marc Brackett on emotion regulation as goal- and context-sensitive strategy, RULER, precise emotion vocabulary, vulnerability, co-regulation, school culture, leadership, masculinity, and adolescent AI companionship boundaries.
 - [VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书](sources/vol-203-kao-bingmeishi-tongbian-yi-jinzhang-jiu-fuxie-nide-cuipi-changdao-xuyao-zhefen-shiyongshu-lvtxc2z3hn5ukh3va9rzijremcih.md) — 这病说来话长 episode with Ding Kefeng on bowel-symptom triage, colorectal-cancer screening, colonoscopy, polyp risk stratification, liquid-biopsy boundaries, and function-preserving colorectal surgery.
 - [《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？](sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav.md) — 芮淇讲透资治通鉴 episode on Wei Xiang's "骄兵必败" war-purpose typology, the Cheshi-Zheng Ji-Xiongnu frontier crisis, and Bing Ji's hidden prison-era service to Han Xuan.
 - [《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏](sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq.md) — 芮淇讲透资治通鉴 episode on Han Xuan rewarding old benefactors, secretly monitoring Liu He, reducing him to Haihun Hou, and turning Bing Ji's hidden service into a lesson about hidden virtue and reward fitness.
@@ -2369,6 +2370,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [Marc Brackett](entities/MarcBrackett.md) — Yale emotional-intelligence researcher and Huberman Lab guest who frames regulation through goals, strategy, vocabulary, vulnerability, RULER, and the meta-moment.
+- [Yale Center for Emotional Intelligence](entities/YaleCenterForEmotionalIntelligence.md) — Institutional context for Marc Brackett's school-facing emotional-intelligence and shared-language work.
 - [王褒 / Wang Bao (Western Han)](entities/WangBaoWesternHan.md) — Western Han writer whose 《圣主得贤臣颂》 becomes a ruler-minister recognition theory and whose 《僮约》 preserves Han Sichuan and early tea evidence.
 - [《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers](entities/ShengzhuDeXianchenSong.md) — Wang Bao ode read as a political-literary theory of worthy ministers, ruler search, trust, and mutual achievement.
 - [《僮约》 / Tong Yue (Wang Bao)](entities/TongyueWangBao.md) — Wang Bao work valued by Hanji 433 as social-history evidence for Han-era Sichuan and early tea culture.
@@ -12333,6 +12336,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [RULER Framework](concepts/RULERFramework.md) — Marc Brackett's emotional-intelligence model for recognizing, understanding, labeling, expressing, and regulating emotions.
+- [Meta-Moment](concepts/MetaMoment.md) — Values-oriented pause between emotional trigger and response, using breath, role awareness, and best-self framing.
 - [圣主贤臣互相成就 / Sage Ruler-Worthy Minister Mutual Recognition](concepts/ShengzhuXianchenMutualRecognition.md) — Hanji 433 concept where ruler search, talent recognition, ministerial usefulness, and mutual trust turn ability into political achievement.
 - [金马门待诏 / Gold Horse Gate Court Literary Access](concepts/JinmaMenCourtLiteraryAccess.md) — Xuan-era court-literary access pattern in which high-literacy talent becomes visible to imperial patronage.
 - [阴德福报因果 / Hidden Virtue Reward Causality](concepts/YindeRewardCausality.md) — Hanji 430's source-scoped frame for hidden good action later returning as blessing or descendant benefit.

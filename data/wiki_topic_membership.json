@@ -43337,6 +43337,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "MarcBrackett": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "MarcRaibert": [
     {
       "key": "technology",
@@ -44740,6 +44752,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "MetaMoment": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "MetaMuseModels": [
@@ -55677,6 +55701,23 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "RULERFramework": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    },
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "RWKV": [
@@ -74739,6 +74780,18 @@
       "url": "/topics/politics/"
     }
   ],
+  "YaleCenterForEmotionalIntelligence": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "YanCongWesternHan": [
     {
       "key": "history",
@@ -80340,6 +80393,18 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "how-to-better-regulate-your-emotions-dr-marc-brackett-scim6338474733": [
+    {
+      "key": "culture",
+      "label": "Culture",
+      "url": "/topics/culture/"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "how-to-get-through-the-strait-of-hormuz": [
