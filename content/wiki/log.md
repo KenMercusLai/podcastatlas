@@ -2157,6 +2157,7 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+
 ## [2026-09-13] ingest | 662. Britain in the 70s: The Rise of Thatcher (Part 1)
 
 Added source note plus Keith Joseph, Airey Neave, Conservative Leadership Election 1975, Conservative Party Class Realignment, and Thatcherite Moral-Market Politics. Key claims: Thatcher's 1975 victory was contingent on Joseph's collapse, Heath's weakness, and Neave's tactics, but it also revealed a deeper Conservative shift toward middle-class, free-market, morally charged politics.
@@ -19077,6 +19078,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？
+
+Added source note plus Chunyu Yan, and updated Xu Pingjun, Huo Xian, Huo Chengjun, and Huo Family Purge After Huo Guang. Key claims: Huo Xian's desire to install Huo Chengjun makes Xu Pingjun the obstacle; Chunyu Yan's palace medical access and job-seeking vulnerability make her the poisoning channel; and the later Huo-family fear arc now has a direct hidden-crime origin before Huo Guang's death.
 
 ## [2026-09-13] lint | Wiki health check
 

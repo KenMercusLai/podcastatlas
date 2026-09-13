@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "c"
-wiki_total_pages: 9985
+wiki_total_pages: 9986
 wiki_pages:
   - key: "CaesarAssassination"
     title: "Assassination of Julius Caesar / 恺撒遇刺"
@@ -1676,6 +1676,9 @@ wiki_pages:
   - key: "ChunyuQiong"
     title: "淳于琼 / Chunyu Qiong"
     url: "/wiki/entities/chunyuqiong/"
+  - key: "ChunyuYanWesternHan"
+    title: "淳于衍 / Chunyu Yan (Western Han)"
+    url: "/wiki/entities/chunyuyanwesternhan/"
   - key: "ChunyuYue"
     title: "淳于越 / Chunyu Yue"
     url: "/wiki/entities/chunyuyue/"

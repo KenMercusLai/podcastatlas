@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？](sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa.md) — 芮淇讲透资治通鉴 short episode on Huo Xian recruiting palace physician Chunyu Yan to poison Xu Pingjun during childbirth so Huo Chengjun can become empress.
 - [携程梁建章×罗永浩！在企业家与学者之间，他选择了最艰难的“往返票”](sources/liangjianzhang-luoyonghao-xiecheng-renkou-ai-ljpurcsyivjkwjyak-3kt3zly-fp.md) — 罗永浩的十字路口 interview with Liang Jianzhang on Ctrip's founding, mobile recovery, hybrid work, internationalization, population policy, demographic innovation capacity, and AI travel planning.
 - [《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？](sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee.md) — 芮淇讲透资治通鉴 episode on Xiahou Sheng and Huang Ba's prison study, Han Xuan's earthquake amnesty and talent reassessment, and praise as a way to place the ruler's words into historical memory.
 - [《资治通鉴·汉纪》417｜广川王“惊悚盗墓人生”，比曹操还早几百年!](sources/zizhi-tongjian-hanji-417-guangchuanwang-jingsong-daomu-rensheng-bi-caocao-hai-zao-ji-bai-nian-lqw0btlwi4ogmx94vnq7foyeplnv.md) — 芮淇讲透资治通鉴 episode on Liu Qu's tomb-robbing and cruelty, Liu Yanshou's failed attempt to recruit Liu Xu, Xuan's containment response, and Yu Dingguo's cautious tingwei justice.
@@ -2399,6 +2400,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Huo Guang (Western Han)](entities/HuoGuangWesternHan.md) — Western Han regent whose loyal service and posthumous family purge illustrate failed power exit.
 - [霍显 / Huo Xian (Western Han)](entities/HuoXianWesternHan.md) — Huo Guang's wife whose misconduct, palace access, and succession threat help drive the Huo-family collapse.
 - [霍成君 / Huo Chengjun (Western Han)](entities/HuoChengjunWesternHan.md) — Huo-family empress installed in 70 BCE, luxury-coded against Xu Pingjun, then deposed after the purge as a crown-prince succession threat.
+- [淳于衍 / Chunyu Yan (Western Han)](entities/ChunyuYanWesternHan.md) — Western Han palace physician who poisons Xu Pingjun during childbirth under Huo Xian's pressure in Hanji 413-2.
 - [上官太后 / Empress Dowager Shangguan (Western Han)](entities/ShangguanTaihouWesternHan.md) — Empress dowager whose banquet authority is used as the planned cover in the Huo conspiracy.
 - [徐福 / Xu Fu (Western Han adviser)](entities/XuFuWesternHan.md) — Disambiguated Western Han adviser whose early warnings about Huo-family risk become the "曲突徙薪" prevention lesson.
 - [王成 / Wang Cheng (Western Han Jiaodong Xiang)](entities/WangChengWesternHan.md) — Western Han Jiaodong official whose fabricated performance report becomes a false-merit and feedback-failure case.

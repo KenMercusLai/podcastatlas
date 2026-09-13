@@ -6,16 +6,17 @@ tags: [western-han, empress, harem-politics, succession, purge]
 sources:
   - zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p
   - zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur
+  - zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-霍成君 / Huo Chengjun enters the wiki through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] as [[HuoGuangWesternHan|霍光]]'s daughter, [[EmperorXuanOfHan|汉宣帝]]'s empress, and a palace figure whose fall follows the Huo family's failed power retention and attempted threat to crown prince [[HanYuandi|刘奭]]. [[zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur|Hanji 415]] backfills the installation moment: in Benshi 4 / 70 BCE, Xuan makes Huo Chengjun empress and grants a general amnesty.
+霍成君 / Huo Chengjun enters the wiki through [[zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p|Hanji 424]] as [[HuoGuangWesternHan|霍光]]'s daughter, [[EmperorXuanOfHan|汉宣帝]]'s empress, and a palace figure whose fall follows the Huo family's failed power retention and attempted threat to crown prince [[HanYuandi|刘奭]]. [[zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur|Hanji 415]] backfills the installation moment: in Benshi 4 / 70 BCE, Xuan makes Huo Chengjun empress and grants a general amnesty. [[zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa|Hanji 413-2]] supplies the pre-installation motive layer: [[HuoXianWesternHan|霍显]] wants Huo Chengjun to replace [[XuPingjunWesternHan|许平君]] as empress.
 
 ## Current Profile
 
-The episode set presents Huo Chengjun as both a beneficiary and casualty of Huo household politics. Hanji 415 shows the family's immediate success: [[HuoXianWesternHan|霍显]] and Huo Guang get Huo Chengjun into the palace and then into the empress position. Yet the same source makes the marriage politically uneasy by noting her lack of children and contrasting her splendid carriage, attendants, and elite upbringing with [[XuPingjunWesternHan|许平君]]'s remembered frugality.
+The episode set presents Huo Chengjun as both a beneficiary and casualty of Huo household politics. Hanji 413-2 shows the murderous ambition before the formal success: Huo Xian treats Xu Pingjun as the obstacle to Huo Chengjun's elevation and recruits Chunyu Yan to poison Xu during childbirth. Hanji 415 then shows the family's immediate success: Huo Xian and Huo Guang get Huo Chengjun into the palace and then into the empress position. Yet the same source makes the marriage politically uneasy by noting her lack of children and contrasting her splendid carriage, attendants, and elite upbringing with [[XuPingjunWesternHan|许平君]]'s remembered frugality.
 
 Her empress position extends the family's access to the palace after Huo Guang's death, but Hanji 424 places the main driving agency on Huo Xian, who is said to manipulate and push the family toward dangerous conduct.
 
@@ -23,7 +24,7 @@ After the Huo conspiracy is exposed, Xuan deposes Huo Chengjun in the eighth mon
 
 ## Key Characteristics
 
-- Huo-family empress whose palace position makes the household's political risk immediate.
+- Huo-family empress whose palace position makes the household's political risk immediate and whose elevation is the intended benefit of Huo Xian's earlier poisoning plot against Xu Pingjun.
 - Installed as empress in Benshi 4 / 70 BCE after the Huo family's long effort to place her in the palace.
 - Luxury-coded contrast figure against Xu Pingjun's earlier frugal palace image.
 - Succession-risk figure because the episode attaches her fall to attempted harm against Liu Shi.
@@ -34,6 +35,7 @@ After the Huo conspiracy is exposed, Xuan deposes Huo Chengjun in the eighth mon
 ## Evidence
 
 Palace position and household risk:
+- [[zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa|Hanji 413-2]] says Huo Xian wants Huo Chengjun to become empress and therefore treats Xu Pingjun as the obstacle to remove.
 - [[zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur|Hanji 415]] says Huo Chengjun is made empress in Benshi 4 / 70 BCE and that Xuan grants a general amnesty.
 - [[zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur|Hanji 415]] says Huo Xian is uneasy because Huo Chengjun has no child despite favored palace status.
 - [[zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur|Hanji 415]] contrasts Huo Chengjun's grand carriages and attendants with Xu Pingjun's frugality.
@@ -49,11 +51,12 @@ Household causality:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 415 and Hanji 424. It does not yet reconstruct Huo Chengjun's full palace biography, complete marriage chronology, relationship with Empress Xu's death, or the legal details behind the poisoning accusation. Hanji 415's childlessness and luxury contrast are preserved as the episode's moral-political framing, not as a complete explanation of Xuan's private attitude toward her.
+This page is source-scoped to Hanji 415, Hanji 424, and Hanji 413-2. It does not yet reconstruct Huo Chengjun's full palace biography, complete marriage chronology, personal knowledge of Empress Xu's death, or the legal details behind the later poisoning accusation. Hanji 415's childlessness and luxury contrast are preserved as the episode's moral-political framing, not as a complete explanation of Xuan's private attitude toward her.
 
 ## What Changed
 
-- Added Hanji 415's empress-installation, childlessness, and luxury-versus-frugality contrast with Xu Pingjun.
+- Added Hanji 413-2's pre-installation motive layer: Huo Chengjun is the intended beneficiary of Huo Xian's plot against Xu Pingjun.
+- Preserved Hanji 415's empress-installation, childlessness, and luxury-versus-frugality contrast with Xu Pingjun.
 
 ## Relationships
 

@@ -16940,6 +16940,22 @@
       "updated": "2026-08-28",
       "url": "/wiki/entities/chunyuqiong/"
     },
+    "ChunyuYanWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？ [lguO142uUoUZMHQjvEWjPJKGqXA-].md",
+          "key": "zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/chunyuyanwesternhan/"
+    },
     "ChunyuZhangWesternHan": {
       "episode_count": 4,
       "show_count": 1,
@@ -48203,9 +48219,9 @@
       "url": "/wiki/entities/hundredyearswar/"
     },
     "HuoChengjunWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
@@ -48220,15 +48236,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》415｜西汉赵广汉如何打击“乡霸村霸”黑恶势力",
           "url": "/wiki/sources/zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？ [lguO142uUoUZMHQjvEWjPJKGqXA-].md",
+          "key": "zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
         }
       ],
       "updated": "2026-09-13",
       "url": "/wiki/entities/huochengjunwesternhan/"
     },
     "HuoFamilyPurgeAfterHuoGuang": {
-      "episode_count": 4,
+      "episode_count": 5,
       "show_count": 1,
-      "source_note_count": 4,
+      "source_note_count": 5,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
@@ -48257,6 +48280,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》418｜霍光死后，为何霍家注定被灭族？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-418-huoguang-sihou-weihe-huojia-zhuding-bei-miezu-lq-zlaum6yoxja6npjldfhscnsxu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？ [lguO142uUoUZMHQjvEWjPJKGqXA-].md",
+          "key": "zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
         }
       ],
       "updated": "2026-09-13",
@@ -48316,9 +48346,9 @@
       "url": "/wiki/entities/huonulatehan/"
     },
     "HuoXianWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
@@ -48340,6 +48370,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》423｜霍光死后，霍家为何决心谋反？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-423-huoguang-sihou-huojia-weihe-juexin-moufan-lh_zo2ni9ntqa9iwb6mqwuux2zx1/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？ [lguO142uUoUZMHQjvEWjPJKGqXA-].md",
+          "key": "zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
         }
       ],
       "updated": "2026-09-13",
@@ -107581,9 +107618,9 @@
       "url": "/wiki/entities/xumeirenwesternhan/"
     },
     "XuPingjunWesternHan": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》540丨太后的葬礼 [lnD6GMR_bK7dV8cBB1zZoAgbtwSd].md",
@@ -107605,6 +107642,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》415｜西汉赵广汉如何打击“乡霸村霸”黑恶势力",
           "url": "/wiki/sources/zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？ [lguO142uUoUZMHQjvEWjPJKGqXA-].md",
+          "key": "zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》413-2｜是谁毒杀了汉宣帝刘病已的老婆？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-413-2-shi-shui-dusha-le-hanxuandi-liubingyi-de-laopo-lguo142uuouzmhqjvewjpjkgqxa/"
         }
       ],
       "updated": "2026-09-13",
