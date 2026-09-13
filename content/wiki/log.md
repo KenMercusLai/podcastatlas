@@ -18993,6 +18993,10 @@ Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》426｜两汉第一清官赵广汉，为何不是好官？
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》415｜西汉赵广汉如何打击“乡霸村霸”黑恶势力
+
+Added source note and updated Zhao Guanghan, Clean Official Power Boundary, Huo Chengjun, and Xu Pingjun. Key claims: Zhao's early anonymous-reporting and information-network success explains why he was admired before Hanji 426's abuse case; effective anti-strongman enforcement still needs public-rule boundaries; and Huo Chengjun's 70 BCE installation is framed against Xu Pingjun's remembered frugality.
+
 Added source note plus Zhao Guanghan, Yin Wenggui, and Clean Official Power Boundary. Key claims: clean reputation and anti-corruption force do not excuse private retaliation through public authority; Zhao's escalation from Su Xian to Rong Xu to Wei Xiang shows information power becoming revenge; and Yin Wenggui supplies a stricter but more orderly contrast.
 
 ## [2026-09-13] lint | Wiki health check
@@ -19021,6 +19025,10 @@ Added source note plus Lu Wenshu and Shangde Huanxing Penal Reform, and extended
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么
 
 Added source note and updated Xuan-era synthesis. Key claims: Han Xuan's early consolidation used disaster inquiry, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair to loosen Huo-family control before the later open purge.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

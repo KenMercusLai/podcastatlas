@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》415｜西汉赵广汉如何打击“乡霸村霸”黑恶势力](sources/zizhi-tongjian-hanji-415-xihan-zhaoguanghan-ruhe-daji-xiangba-cunba-heie-shili-ltnvaopr2hv0jx-v0oii3l9rjaur.md) — 芮淇讲透资治通鉴 episode on Zhao Guanghan's early Yingchuan anti-haoqiang campaign, anonymous reporting, Jingzhao information network, and the Huo Chengjun/Xu Pingjun palace contrast.
 - [《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么](sources/zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp.md) — 芮淇讲透资治通鉴 episode on Han Xuan's early post-Huo-Guang consolidation through disaster remonstrance, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair against Huo control.
 - [《资治通鉴·汉纪》421｜西汉刑罚有多狠？官吏对囚犯想杀就能杀！](sources/zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww.md) — 芮淇讲透资治通鉴 episode on Han Xuan stripping Huo-linked commanders of real military power, Zhang Anshi's replacement command package, and Lu Wenshu's torture-and-leniency memorial.
 - [《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？](sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k.md) — 芮淇讲透资治通鉴 episode on Han Xuan's Tingwei Ping judicial repair, Zheng Chang's statute-reform critique, law turning into official abuse, and an early Cheshi-Zheng Ji frontier-control layer.
@@ -2392,7 +2393,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Gong Sui (Western Han)](entities/GongSuiWesternHan.md) — Western Han official whose Bohai governance reframed banditry as hunger and official-neglect repair.
 - [Huo Guang (Western Han)](entities/HuoGuangWesternHan.md) — Western Han regent whose loyal service and posthumous family purge illustrate failed power exit.
 - [霍显 / Huo Xian (Western Han)](entities/HuoXianWesternHan.md) — Huo Guang's wife whose misconduct, palace access, and succession threat help drive the Huo-family collapse.
-- [霍成君 / Huo Chengjun (Western Han)](entities/HuoChengjunWesternHan.md) — Huo-family empress deposed after the purge and treated as a crown-prince succession threat.
+- [霍成君 / Huo Chengjun (Western Han)](entities/HuoChengjunWesternHan.md) — Huo-family empress installed in 70 BCE, luxury-coded against Xu Pingjun, then deposed after the purge as a crown-prince succession threat.
 - [上官太后 / Empress Dowager Shangguan (Western Han)](entities/ShangguanTaihouWesternHan.md) — Empress dowager whose banquet authority is used as the planned cover in the Huo conspiracy.
 - [徐福 / Xu Fu (Western Han adviser)](entities/XuFuWesternHan.md) — Disambiguated Western Han adviser whose early warnings about Huo-family risk become the "曲突徙薪" prevention lesson.
 - [路温舒 / Lu Wenshu (Western Han)](entities/LuWenshuWesternHan.md) — Western Han legal remonstrator whose 《尚德缓刑书》 criticizes harsh judicial officials, torture, and confession manufacturing.
@@ -2410,7 +2411,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张贺 / Zhang He (Western Han)](entities/ZhangHeWesternHan.md) — Deceased benefactor whom Han Xuan rewards posthumously in Hanji 430.
 - [张安世 / Zhang Anshi (Western Han)](entities/ZhangAnshiWesternHan.md) — Western Han official whose refusal of excessive reward illustrates reward-fitness caution in Hanji 430.
 - [张汤 / Zhang Tang (Western Han)](entities/ZhangTangWesternHan.md) — Western Han cruel official whose fate becomes a family precedent for Zhang Anshi's low-profile court survival.
-- [赵广汉 / Zhao Guanghan (Western Han)](entities/ZhaoGuanghanWesternHan.md) — Western Han clean official whose retaliatory arrests, killing on suspicion, and counterattack on Wei Xiang make him a power-boundary case.
+- [赵广汉 / Zhao Guanghan (Western Han)](entities/ZhaoGuanghanWesternHan.md) — Western Han clean official whose early anti-haoqiang success and later retaliatory abuse make him a power-boundary case.
 - [尹翁归 / 尹翁规 / Yin Wenggui (Western Han)](entities/YinWengguiWesternHan.md) — Western Han clean and strict official used as Zhao Guanghan's more orderly local-governance contrast.
 - [张延寿 / Zhang Yanshou (Western Han)](entities/ZhangYanshouWesternHan.md) — Zhang Anshi's son, sent outward to Beidi as part of Zhang-family visibility management in Hanji 431.
 - [疏广与疏受 / Shu Guang and Shu Shou (Western Han)](entities/ShuGuangShuShouWesternHan.md) — Western Han crown-prince teachers whose timely retirement and reward distribution illustrate knowing when to stop.
@@ -2583,7 +2584,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [张放 / Zhang Fang (Western Han)](entities/ZhangFangWesternHan.md) — Chengdi favorite whose palace access, kinship backing, and exile show the fragility of favorite protection under dowager and ministerial pressure.
 - [班伯 / Ban Bo (Western Han)](entities/BanBoWesternHan.md) — Chengdi court remonstrant who uses the Shang Zhou image to warn against wine and disorder.
 - [邛成太后 / Qiongcheng Taihou (Western Han)](entities/QiongchengTaihouWesternHan.md) — Western Han dowager whose rushed funeral in 15 BCE triggers high-office accountability under Han Chengdi.
-- [许平君 / Xu Pingjun (Western Han)](entities/XuPingjunWesternHan.md) — Western Han empress whose poisoning created the foster-empress context for Qiongcheng Taihou raising Liu Shi.
+- [许平君 / Xu Pingjun (Western Han)](entities/XuPingjunWesternHan.md) — Western Han empress remembered for frugality and whose poisoning created the foster-empress context for Qiongcheng Taihou raising Liu Shi.
 - [淮阳王刘钦 / Liu Qin (Huaiyang King, Western Han)](entities/LiuQinHuaiyangKingWesternHan.md) — Xuan-era alternative heir whose appeal is contained by Liu Shi's established crown-prince status and Xu Pingjun's memory.
 - [薛宣 / Xue Xuan (Western Han)](entities/XueXuanWesternHan.md) — Western Han high official whose public lawfulness, family-adjacent distancing, promotion, and dismissal show the ambiguity of role discipline.
 - [薛惠 / Xue Hui (Western Han)](entities/XueHuiWesternHan.md) — Xue Xuan's son and Pengcheng magistrate in the Hanji 521 patronage-signaling scene.
@@ -12419,7 +12420,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [国家粮价平准 / State Grain Price Stabilization](concepts/StateGrainPriceStabilization.md) — Governance logic of using public procurement, storage, and release of staple grain to smooth harmful price swings.
 - [读史处世智慧 / Historical Reading as Survival Wisdom](concepts/HistoricalReadingAsSurvivalWisdom.md) — Reading-history concept where historical knowledge becomes practical judgment about power, risk, speech, and consequence.
 - [政治诛杀过度 / Political Execution Overreach](concepts/PoliticalExecutionOverreach.md) — Court-politics concept where severe execution damages legitimacy by exceeding public or moral proportionality.
-- [清官权力边界 / Clean Official Power Boundary](concepts/CleanOfficialPowerBoundary.md) — Governance principle that clean reputation and administrative force do not legitimate private retaliation or killing on suspicion.
+- [清官权力边界 / Clean Official Power Boundary](concepts/CleanOfficialPowerBoundary.md) — Governance principle that clean reputation, administrative force, and real enforcement success do not legitimate private retaliation or killing on suspicion.
 - [Moral Pressure Adjudication / 道德压力式审案](concepts/MoralPressureAdjudication.md) — Governance concept where official moral pressure resolves disputes by shame or hierarchy while risking suppressed complaints, weak fact-finding, and loss of legal remedy.
 - [心魔象征式解读 / Inner-Demon Symbolic Reading](concepts/InnerDemonSymbolicReading.md) — Interpretive method reading monsters, companions, battles, and props as projections or functions of a protagonist's inner conflict.
 - [小爱与大爱整合 / Love-Compassion Integration](concepts/LoveCompassionIntegration.md) — Film-reading concept where intimate love becomes part of broader compassion rather than merely an obstacle to it.
