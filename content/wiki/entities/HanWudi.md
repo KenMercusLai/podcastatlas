@@ -12,13 +12,14 @@ sources:
   - zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0
   - zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj
   - zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym
+  - zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui
 last_updated: 2026-09-14
 knowledge_schema: synthesis-v1
 ---
 
 ## Overview
 
-Emperor Wu of Han / 汉武帝 is a Western Han ruler whose current wiki profile spans frontier war, Western Regions expansion, court advice risk, calendar standardization, imperial grandeur, fangshu consumption, and the Wugu panic. Hanji 723 now adds [[BanGuEasternHan|Ban Gu]]'s comparison of Han Wudi's Western Regions and Hexi strategy: strategically intelligible against [[Xiongnu|匈奴]], but costly enough to clarify why [[LiuXiu|Liu Xiu]] later defers unsupported protectorate commitments.
+Emperor Wu of Han / 汉武帝 is a Western Han ruler whose current wiki profile spans frontier war, Western Regions expansion, commercial and fiscal extraction, court advice risk, calendar standardization, imperial grandeur, fangshu consumption, and the Wugu panic. Hanji 396-3 now makes the commercial policy layer more concrete: profitable-goods monopoly, merchant/property assessment, and rewarded denunciation become the mechanisms through which war finance damages merchant security.
 
 ## Current Profile
 
@@ -34,10 +35,12 @@ Other layers make Han Wudi a calendar and moral-expenditure marker. [[zizhi-tong
 
 Hanji 400-2 adds a talent-channel contrast. Against the episode's wider theme of class fixation, Han Wudi appears as a ruler who needed talent beyond outer-relative and hereditary channels. The source says he used ability-oriented selection and local recommendation to elevate people outside entrenched official lineages, making him a partial counterexample to complete status closure even though the page's broader evidence still emphasizes the costs and dangers of his rule.
 
+Hanji 396-3 adds the commercial damage branch. The episode treats Han Wudi as an "economic killer" of Western Han commerce: after Wen-Jing prosperity, state monopoly over profitable goods, 算缗-style merchant and property assessment, and 告缗-style rewarded denunciation make commercial wealth insecure. This extends the cost profile from war and frontier expansion into everyday markets and property relations.
+
 ## Key Characteristics
 
-- Wealth-backed offensive ruler whose anti-Xiongnu campaigns and Western Regions-Hexi program are treated as possible only after Western Han accumulation, but costly enough to require later reassessment.
-- Break point where early Han heqin with Xiongnu gives way to sustained military confrontation.
+- Wealth-backed offensive ruler whose anti-Xiongnu campaigns and Western Regions-Hexi program end the heqin-dominant phase but are costly enough to require later reassessment.
+- Fiscal-extraction ruler whose war-finance needs are linked by Hanji 396-3 to monopoly, merchant assessment, and rewarded denunciation.
 - Source-scoped case of spring war timing used to attack future population and livestock capacity.
 - Ruler whose preferences create advice risk for ministers trying to preserve agency inside impossible priority demands.
 - Imperial religious consumer whose fangshu patronage becomes fiscal, political, and succession danger.
@@ -50,6 +53,7 @@ Hanji 400-2 adds a talent-channel contrast. Against the episode's wider theme of
 - Policy break with heqin: [[zizhi-tongjian-hanji-179-lishishang-heqin-zenme-laide-lslks-ovbomneornk4j-q6-ns0x1|Hanji 179]] says early Han heqin continues until Han Wudi abandons accommodation and turns toward war.
 - Seasonal reproductive attrition: [[zizhi-tongjian-hanji-841-juebu-shouruan-jiemi-zhanzheng-de-canku-zhenxiang-losza81gissyijywwe0vxadw5ia0|Hanji 841]] reads Han Wudi's spring attacks as targeting Xiongnu pregnancy and livestock reproduction.
 - Western Regions strategy and cost: [[zizhi-tongjian-hanji-723-bi-kongjia-gengniu-de-jiazu-pingsha-shi-peishi-lqti3stvdcw7utgm6uzwv5giazhj|Hanji 723]] uses Ban Gu's comparison to link Hexi commanderies, Yumen route, distant diplomacy, monopoly finance, currency measures, transport and livestock taxes, and Luntai remorse.
+- Commercial extraction: [[zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui|Hanji 396-3]] says Han Wudi's court used profitable-goods monopoly, 算缗 assessment, and 告缗 denunciation rewards to finance war and undermine merchant security.
 - Advice-risk environment: [[zizhi-tongjian-hanji-925-tuoxie-bushi-rensong-xuehui-tuoxie-lu-geng-changliang-limafqskgblrwetestyh39w-hzm4|Hanji 925]] uses Gongsun Hong's framing of Xiongnu and southwest priorities to show how a minister survives strong imperial preference without flat opposition.
 - Fangshu and Wugu danger: [[87-guonian-zui-shihe-liao-xuanxue-tantao-shenxian-fangshu-fazhanshi-wei-wan-daixu-704051997]] treats Han Wudi's immortality search and late-life curse panic as connected cases of hidden-cause authority becoming fiscal and political violence.
 - Calendar and palace critique: [[zizhi-tongjian-hanji-150-plus-zaiye-bujian-2022-qing-duo-guanzhao-2023-fjhgtqac9r-1rpjh6oubmspqywue|Hanji 150 PLUS]] makes Han Wudi a calendar-standardization anchor, while [[zizhi-tongjian-hanji-178-maodun-weihe-yao-fangguo-liubang-zhe-cai-shi-zhenxiang-2-loluh53iyrzo4ucf3ttzmn3-otkv|Hanji 178 part 2]] preserves Sima Guang's critique of later palace expansion under him.
@@ -57,13 +61,13 @@ Hanji 400-2 adds a talent-channel contrast. Against the episode's wider theme of
 
 ## Qualifications
 
-This page remains a bounded wiki profile rather than a complete biography of Han Wudi. Hanji 841's reproductive-attrition interpretation is morally severe and source-scoped; it should not be treated as the whole explanation for Han-Xiongnu war. Hanji 723's Ban Gu layer likewise does not deny the strategic rationale of Western Regions expansion; it adds the cost and timing qualification that later makes Liu Xiu's restraint legible. Episode 87's fangshu and Wugu material comes from a different podcast source and should be read as a thematic branch, not as evidence for every military decision. Hanji 400-2's claim about talent selection and 察举 is recorded as the episode's comparative account, not as a full institutional history of Western Han appointment systems.
+This page remains a bounded wiki profile rather than a complete biography of Han Wudi. Hanji 841's reproductive-attrition interpretation is morally severe and source-scoped; it should not be treated as the whole explanation for Han-Xiongnu war. Hanji 723's Ban Gu layer likewise does not deny the strategic rationale of Western Regions expansion; it adds the cost and timing qualification that later makes Liu Xiu's restraint legible. Hanji 396-3 gives a compact anti-merchant and anti-monopoly reading, not a complete institutional history of 算缗, 告缗, salt, iron, liquor, tea, currency, or regional enforcement. Episode 87's fangshu and Wugu material comes from a different podcast source and should be read as a thematic branch, not as evidence for every military decision. Hanji 400-2's claim about talent selection and 察举 is recorded as the episode's comparative account, not as a full institutional history of Western Han appointment systems.
 
 ## What Changed
 
-- Migrated the legacy page into the synthesis-v1 entity schema.
 - Added Hanji 841's spring anti-Xiongnu reproductive and livestock attrition reading.
 - Added Hanji 723's Ban Gu comparison of Western Regions strategy, fiscal extraction, and Luntai self-criticism.
+- Added Hanji 396-3's commercial-extraction layer around monopoly, 算缗, and 告缗.
 - Integrated the military, advice-risk, calendar, palace, fangshu, Wugu, and talent-selection branches into one current profile.
 - Preserved the older source order exactly before appending the new source slug.
 
@@ -79,6 +83,9 @@ This page remains a bounded wiki profile rather than a complete biography of Han
 - [[BanGuEasternHan|班固]] - historian-commentator whose comparison supplies the current Western Regions cost layer.
 - [[CapacityBoundFrontierCommitment|能力约束下的边疆承诺]] - later statecraft contrast because Liu Xiu refuses to promise what Han cannot sustain.
 - [[ImperialSelfCriticismEdict|帝王自责诏]] - related through the Luntai remorse branch in Hanji 723.
+- [[StateCommercialMonopolyExtraction|官营商业垄断式汲取]] - commercial fiscal mechanism added through Hanji 396-3.
+- [[RewardedDenunciationFiscalEnforcement|告缗式奖励告发财政执法]] - property-enforcement mechanism the source ties to merchant insecurity.
+- [[HeavyAgricultureLightCommercePolicy|重农轻商政策]] - anti-merchant policy background made coercive under Hanji 396-3's reading.
 - [[GongsunHong|公孙弘]] - minister whose compromise example depends on Han Wudi's policy-priority pressure.
 - [[ImmortalityQuestPolitics|求仙政治]] - religious-political branch built around Han Wudi's pursuit of immortality.
 - [[WuguPoliticalPanic|巫蛊之乱]] - late-life panic branch tied to hidden-cause accusations and succession violence.

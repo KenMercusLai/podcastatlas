@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7361
+wiki_total_pages: 7368
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -239,6 +239,9 @@ wiki_pages:
   - key: "TechnologyInstallationCycle"
     title: "Technology Installation Cycle"
     url: "/wiki/concepts/technologyinstallationcycle/"
+  - key: "TechnologyProfitLag"
+    title: "Technology Profit Lag"
+    url: "/wiki/concepts/technologyprofitlag/"
   - key: "TechnologyResetRebuild"
     title: "Technology Reset Rebuild"
     url: "/wiki/concepts/technologyresetrebuild/"

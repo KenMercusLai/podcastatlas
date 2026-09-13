@@ -5,7 +5,7 @@ description: "Historical people, events, institutions, evidence, and interpretat
 outputs: ["html"]
 topic_page: true
 topic_key: "history"
-topic_total_pages: 1857
+topic_total_pages: 1858
 topic_concepts:
   - key: "AShareBullMarketHistory"
     title: "A-Share Bull Market History"
@@ -5262,6 +5262,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l"
     title: "《资治通鉴·汉纪》183｜韩信之死，治愈了刘邦的精神内耗"
     url: "/wiki/sources/zizhi-tongjian-hanji-183-hanxin-zhisi-zhiyu-le-liubang-de-jingshen-neihao-lrbucdibto5zezrhl7ue0y9vhb-l/"
+  - key: "zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui"
+    title: "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui/"
   - key: "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr"
     title: "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的"
     url: "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"

@@ -18990,6 +18990,13 @@
       "url": "/topics/technology/"
     }
   ],
+  "CycleStockValuationTrap": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "CycleWorldview": [
     {
       "key": "economics",
@@ -35938,6 +35945,13 @@
       "url": "/topics/science/"
     }
   ],
+  "InventoryCycle": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "InventoryWriteDownRisk": [
     {
       "key": "economics",
@@ -38240,6 +38254,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "JuglarCycle": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "JulesAndJim": [
@@ -65368,6 +65389,13 @@
       "url": "/topics/politics/"
     }
   ],
+  "SupplyContractionRebound": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "SuppressedRootCauseReporting": [
     {
       "key": "politics",
@@ -66834,6 +66862,18 @@
       "key": "technology",
       "label": "Technology",
       "url": "/topics/technology/"
+    }
+  ],
+  "TechnologyProfitLag": [
+    {
+      "key": "technology",
+      "label": "Technology",
+      "url": "/topics/technology/"
+    },
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
     }
   ],
   "TechnologyResetRebuild": [
@@ -80635,6 +80675,13 @@
       "url": "/topics/economics/"
     }
   ],
+  "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    }
+  ],
   "episode-224-bushi-bushi-bushi-bushi-8213451338-252768": [
     {
       "key": "technology",
@@ -85240,6 +85287,13 @@
       "key": "politics",
       "label": "Politics",
       "url": "/topics/politics/"
+    }
+  ],
+  "zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
     }
   ],
   "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr": [

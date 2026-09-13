@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7361
+wiki_total_pages: 7368
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1862,6 +1862,9 @@ wiki_pages:
   - key: "SupplyChainSovereignty"
     title: "Supply Chain Sovereignty"
     url: "/wiki/concepts/supplychainsovereignty/"
+  - key: "SupplyContractionRebound"
+    title: "Supply Contraction Rebound / 供给出清反弹"
+    url: "/wiki/concepts/supplycontractionrebound/"
   - key: "SupplyDepotDecisiveStrike"
     title: "Supply Depot Decisive Strike / 粮草命门打击"
     url: "/wiki/concepts/supplydepotdecisivestrike/"

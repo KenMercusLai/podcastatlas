@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "r"
-wiki_total_pages: 7361
+wiki_total_pages: 7368
 wiki_pages:
   - key: "RacePromotionFees"
     title: "Race Promotion Fees"
@@ -683,6 +683,9 @@ wiki_pages:
   - key: "RewardPredictionErrorLearning"
     title: "Reward Prediction Error Learning"
     url: "/wiki/concepts/rewardpredictionerrorlearning/"
+  - key: "RewardedDenunciationFiscalEnforcement"
+    title: "Rewarded Denunciation Fiscal Enforcement / 告缗式奖励告发财政执法"
+    url: "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
   - key: "RFIDCheckout"
     title: "RFID Checkout"
     url: "/wiki/concepts/rfidcheckout/"

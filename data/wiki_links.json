@@ -15319,6 +15319,10 @@
     "title": "Cybersecurity Simulation Modeling",
     "url": "/wiki/concepts/cybersecuritysimulationmodeling/"
   },
+  "CycleStockValuationTrap": {
+    "title": "Cycle Stock Valuation Trap / 周期股估值陷阱",
+    "url": "/wiki/concepts/cyclestockvaluationtrap/"
+  },
   "CycleWorldview": {
     "title": "Cycle Worldview / 周期世界观",
     "url": "/wiki/concepts/cycleworldview/"
@@ -28659,6 +28663,10 @@
     "title": "Housing Experience Investment Split",
     "url": "/wiki/concepts/housingexperienceinvestmentsplit/"
   },
+  "HousingLeverageRisk": {
+    "title": "Housing Leverage Risk / 住房杠杆风险",
+    "url": "/wiki/concepts/housingleveragerisk/"
+  },
   "HousingPresaleFinancingRisk": {
     "title": "Housing Presale Financing Risk / 住宅预售融资风险",
     "url": "/wiki/concepts/housingpresalefinancingrisk/"
@@ -30818,6 +30826,10 @@
   "InvasiveSpeciesMoralization": {
     "title": "Invasive Species Moralization / 外來種道德化",
     "url": "/wiki/concepts/invasivespeciesmoralization/"
+  },
+  "InventoryCycle": {
+    "title": "Inventory Cycle / 库存周期",
+    "url": "/wiki/concepts/inventorycycle/"
   },
   "InventoryHeavyConsumerBrandFinancing": {
     "title": "Inventory-Heavy Consumer Brand Financing",
@@ -33126,6 +33138,10 @@
   "JudyHuang": {
     "title": "Judy Huang",
     "url": "/wiki/entities/judyhuang/"
+  },
+  "JuglarCycle": {
+    "title": "Juglar Cycle / 朱格拉周期",
+    "url": "/wiki/concepts/juglarcycle/"
   },
   "Jugurtha": {
     "title": "Jugurtha / 朱古达",
@@ -51535,6 +51551,10 @@
     "title": "Reward Prediction Error Learning",
     "url": "/wiki/concepts/rewardpredictionerrorlearning/"
   },
+  "RewardedDenunciationFiscalEnforcement": {
+    "title": "Rewarded Denunciation Fiscal Enforcement / 告缗式奖励告发财政执法",
+    "url": "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
+  },
   "RewindAI": {
     "title": "Rewind AI",
     "url": "/wiki/entities/rewindai/"
@@ -58359,6 +58379,10 @@
     "title": "Supply Chain Sovereignty",
     "url": "/wiki/concepts/supplychainsovereignty/"
   },
+  "SupplyContractionRebound": {
+    "title": "Supply Contraction Rebound / 供给出清反弹",
+    "url": "/wiki/concepts/supplycontractionrebound/"
+  },
   "SupplyDepotDecisiveStrike": {
     "title": "Supply Depot Decisive Strike / 粮草命门打击",
     "url": "/wiki/concepts/supplydepotdecisivestrike/"
@@ -59482,6 +59506,10 @@
   "TechnologyInstallationCycle": {
     "title": "Technology Installation Cycle",
     "url": "/wiki/concepts/technologyinstallationcycle/"
+  },
+  "TechnologyProfitLag": {
+    "title": "Technology Profit Lag",
+    "url": "/wiki/concepts/technologyprofitlag/"
   },
   "TechnologyResetRebuild": {
     "title": "Technology Reset Rebuild",
@@ -72491,6 +72519,10 @@
     "title": "EP93 眼见恒大起高楼，转眼首富入高墙",
     "url": "/wiki/sources/ep93-yanjian-hengda-qi-gaolou-zhuanyan-shoufu-ru-gaoqiang-lhsjpbzdfjta0phfxrtnybq57o4c/"
   },
+  "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8": {
+    "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+    "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+  },
   "episode-224-bushi-bushi-bushi-bushi-8213451338-252768": {
     "title": "Episode 224: 不是不识不时不适",
     "url": "/wiki/sources/episode-224-bushi-bushi-bushi-bushi-8213451338-252768/"
@@ -75859,6 +75891,10 @@
     "title": "《资治通鉴·汉纪》396-2｜汉武帝之子，刘据“巫蛊之案”后复活了？",
     "url": "/wiki/sources/zizhi-tongjian-hanji-396-2-hanwudi-zhizi-liuju-wugu-zhi-an-hou-fuhuo-le-lhj6dzjsikkmbbcjlfgnz1bbok-1/"
   },
+  "zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui": {
+    "title": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui/"
+  },
   "zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr": {
     "title": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的",
     "url": "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"
@@ -75866,6 +75902,10 @@
   "zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq": {
     "title": "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快",
     "url": "/wiki/sources/zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq/"
+  },
+  "zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv": {
+    "title": "《资治通鉴·汉纪》397-1｜辩论四个月的盐铁会议，究竟说了啥？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv/"
   },
   "zizhi-tongjian-hanji-397-2-rang-huangdi-dou-wei-zhi-bianse-de-liumin-cong-hechu-laide-ltmoqipqk61_cg8n7w1gwaprtitj": {
     "title": "《资治通鉴·汉纪》397-2｜让皇帝都为之变色的流民，从何处来的？",

@@ -5,7 +5,7 @@ description: "AI, software, infrastructure, computing, robotics, security, chips
 outputs: ["html"]
 topic_page: true
 topic_key: "technology"
-topic_total_pages: 2991
+topic_total_pages: 2992
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -3859,6 +3859,9 @@ topic_concepts:
   - key: "TechnologyInstallationCycle"
     title: "Technology Installation Cycle"
     url: "/wiki/concepts/technologyinstallationcycle/"
+  - key: "TechnologyProfitLag"
+    title: "Technology Profit Lag"
+    url: "/wiki/concepts/technologyprofitlag/"
   - key: "TechnologyResetRebuild"
     title: "Technology Reset Rebuild"
     url: "/wiki/concepts/technologyresetrebuild/"

@@ -21575,6 +21575,45 @@
       "updated": "2026-09-11",
       "url": "/wiki/entities/cyberport/"
     },
+    "CycleStockValuationTrap": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/cyclestockvaluationtrap/"
+    },
+    "CycleWorldview": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "176.纽约一年：一个悲观主义者的活法｜725沙龙实录 [lte_k8Lw8e1tXXW3NfxvO3WaL8aH].md",
+          "key": "176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah",
+          "show": "起朱楼宴宾客",
+          "title": "176.纽约一年：一个悲观主义者的活法｜725沙龙实录",
+          "url": "/wiki/sources/176-niuyue-yinian-yige-beiguanzhuyizhe-de-huofa-725-shalong-shilu-lte-k8lw8e1txxw3nfxvo3wal8ah/"
+        },
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/cycleworldview/"
+    },
     "CyrusTheGreat": {
       "episode_count": 1,
       "show_count": 1,
@@ -43764,9 +43803,9 @@
       "url": "/wiki/concepts/hantraffickinglawdeterrence/"
     },
     "HanWudi": {
-      "episode_count": 9,
+      "episode_count": 10,
       "show_count": 2,
-      "source_note_count": 9,
+      "source_note_count": 10,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》925丨妥协不是认怂：学会妥协，路更敞亮 [liMAFqSkGbLRweTeSTyH39w_hZM4].md",
@@ -43830,6 +43869,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》400-2｜一代穷世代穷，难道穷人就该代代穷？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-400-2-yidai-qiong-shidai-qiong-nandao-qiongren-jiu-gai-daidai-qiong-lluvrlqzbzx4bb_aatfmtyqibdym/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？ [ljRcAWwbJ5LvbJ1QTPLTdgNXklUI].md",
+          "key": "zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui/"
         }
       ],
       "updated": "2026-09-14",
@@ -44891,9 +44937,9 @@
       "url": "/wiki/concepts/healthspanthreedomains/"
     },
     "HeavyAgricultureLightCommercePolicy": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 1,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》179｜历史上“和亲”怎么来的 [lsLks-OVBoMneORnk4J-q6-ns0X1].md",
@@ -44915,6 +44961,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》396-5｜谁在贬低商人？有些话不吐不快",
           "url": "/wiki/sources/zizhi-tongjian-hanji-396-5-shui-zai-biandi-shangren-youxiehua-butubukuai-liwmisetjnlvfzarfmzpqq4-wdsq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？ [ljRcAWwbJ5LvbJ1QTPLTdgNXklUI].md",
+          "key": "zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui/"
         }
       ],
       "updated": "2026-09-14",
@@ -47242,6 +47295,22 @@
       ],
       "updated": "2026-09-14",
       "url": "/wiki/concepts/householdoccupationcontrol/"
+    },
+    "HousingLeverageRisk": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/housingleveragerisk/"
     },
     "HousingPresaleFinancingRisk": {
       "episode_count": 2,
@@ -51416,6 +51485,22 @@
       "updated": "2026-09-09",
       "url": "/wiki/concepts/invasivespeciesmoralization/"
     },
+    "InventoryCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/inventorycycle/"
+    },
     "InvestmentAvoidanceTrauma": {
       "episode_count": 1,
       "show_count": 1,
@@ -54418,6 +54503,22 @@
       "updated": "2026-09-13",
       "url": "/wiki/concepts/judicialabuserebelliontrigger/"
     },
+    "JuglarCycle": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/juglarcycle/"
+    },
     "Jugurtha": {
       "episode_count": 1,
       "show_count": 1,
@@ -55519,6 +55620,29 @@
       ],
       "updated": "2026-08-30",
       "url": "/wiki/concepts/knownmisconductnonpunishment/"
+    },
+    "KondratievCycle": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people [limyZCH9lA0bBwE8y9GEOfgQARGL].md",
+          "key": "e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl",
+          "show": "面基",
+          "title": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people",
+          "url": "/wiki/sources/e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl/"
+        },
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/kondratievcycle/"
     },
     "KongBaWesternHan": {
       "episode_count": 1,
@@ -74147,6 +74271,36 @@
       "updated": "2026-09-10",
       "url": "/wiki/concepts/orbitaldatacentereconomics/"
     },
+    "OrdinaryInvestorMacroBoundary": {
+      "episode_count": 3,
+      "show_count": 2,
+      "source_note_count": 3,
+      "sources": [
+        {
+          "episode_file": "160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录 [lm8dEgDbgMGi6NnWSpjY_gDzwQfZ].md",
+          "key": "160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz",
+          "show": "起朱楼宴宾客",
+          "title": "160.如何应对中国资产牛市的“调整期”｜新书分享会成都场实录",
+          "url": "/wiki/sources/160-ruhe-yingdui-zhongguo-zichan-niushi-de-tiaozhengqi-xinshu-fenxianghui-chengdu-chang-shilu-lm8degdbgmgi6nnwspjy-gdzwqfz/"
+        },
+        {
+          "episode_file": "135.宏观大事频发期如何保持定力？｜ 投资账2025半年度复盘 [lism1-w05rT4jdWnUn3l8wscYMlQ].md",
+          "key": "135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq",
+          "show": "起朱楼宴宾客",
+          "title": "135.宏观大事频发期如何保持定力？| 投资账2025半年度复盘",
+          "url": "/wiki/sources/135-hongguan-dashi-pinfa-qi-ruhe-baochi-dingli-touzi-zhang-2025-banniandu-fupan-lism1-w05rt4jdwnun3l8wscymlq/"
+        },
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/ordinaryinvestormacroboundary/"
+    },
     "OrdinaryPeopleHistoricalVisibility": {
       "episode_count": 1,
       "show_count": 1,
@@ -84827,6 +84981,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/rewardpredictionerrorlearning/"
     },
+    "RewardedDenunciationFiscalEnforcement": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？ [ljRcAWwbJ5LvbJ1QTPLTdgNXklUI].md",
+          "key": "zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/rewardeddenunciationfiscalenforcement/"
+    },
     "RhodeBeauty": {
       "episode_count": 1,
       "show_count": 1,
@@ -86650,9 +86820,9 @@
       "url": "/wiki/entities/sallyhemings/"
     },
     "SaltAndIronConference": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》397-2｜让皇帝都为之变色的流民，从何处来的？ [ltMOQIPqK61_CG8N7w1GwApRtiTJ].md",
@@ -86667,6 +86837,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》398｜如果你是李陵，会替匈奴劝降苏武吗",
           "url": "/wiki/sources/zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanjiang-suwu-ma-lrvkyakuzpnv77uoq4wkrt7vcuzy/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》397-1｜辩论四个月的盐铁会议，究竟说了啥？ [lrHr5V36PYLcysGEG-u3k9f1zuXV].md",
+          "key": "zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》397-1｜辩论四个月的盐铁会议，究竟说了啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv/"
         }
       ],
       "updated": "2026-09-14",
@@ -93074,9 +93251,9 @@
       "url": "/wiki/entities/startupembassy/"
     },
     "StateCommercialMonopolyExtraction": {
-      "episode_count": 1,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的 [lslupw7c76POANJ-zzmh59z1iOfR].md",
@@ -93084,6 +93261,20 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》396-4｜王安石变法怎么导致北宋灭亡的",
           "url": "/wiki/sources/zizhi-tongjian-hanji-396-4-wanganshi-bianfa-zenme-daozhi-beisong-miewang-de-lslupw7c76poanj-zzmh59z1iofr/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？ [ljRcAWwbJ5LvbJ1QTPLTdgNXklUI].md",
+          "key": "zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》396-3｜“经济杀手”汉武帝，如何摧毁了西汉商业？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-396-3-jingji-shashou-hanwudi-ruhe-cuihui-le-xihan-shangye-ljrcawwbj5lvbj1qtpltdgnxklui/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》397-1｜辩论四个月的盐铁会议，究竟说了啥？ [lrHr5V36PYLcysGEG-u3k9f1zuXV].md",
+          "key": "zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》397-1｜辩论四个月的盐铁会议，究竟说了啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-397-1-bianlun-si-ge-yue-de-yantie-huiyi-jiujing-shuo-le-sha-lrhr5v36pylcysgeg-u3k9f1zuxv/"
         }
       ],
       "updated": "2026-09-14",
@@ -95637,6 +95828,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/supplierfinancing/"
     },
+    "SupplyContractionRebound": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/supplycontractionrebound/"
+    },
     "SupplyDepotDecisiveStrike": {
       "episode_count": 2,
       "show_count": 1,
@@ -97223,6 +97430,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/concepts/technologyassistedinteriorenforcement/"
+    },
+    "TechnologyProfitLag": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/technologyprofitlag/"
     },
     "TedSarandos": {
       "episode_count": 1,
@@ -117729,6 +117952,29 @@
       ],
       "updated": "2026-08-28",
       "url": "/wiki/entities/zhoujinglatehan/"
+    },
+    "ZhouJintao": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people [limyZCH9lA0bBwE8y9GEOfgQARGL].md",
+          "key": "e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl",
+          "show": "面基",
+          "title": "E162.康波周期中的AI：新技术总在萧条期爆发，bad times make good people",
+          "url": "/wiki/sources/e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl/"
+        },
+        {
+          "episode_file": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错 [lnDimnd_SB98TFmzv-KUKbbnBtG8].md",
+          "key": "ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8",
+          "show": "一劳永逸",
+          "title": "EP94 穿越周金涛：人生发财靠康波，守住家底靠少错",
+          "url": "/wiki/sources/ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/zhoujintao/"
     },
     "ZhouJuLateHan": {
       "episode_count": 5,

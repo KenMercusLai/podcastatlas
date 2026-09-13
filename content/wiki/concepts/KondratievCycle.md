@@ -2,26 +2,60 @@
 title: "Kondratiev Cycle"
 type: concept
 tags: [macro, cycles, innovation, investing]
-sources: [e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]
-last_updated: 2026-07-08
+sources:
+  - e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl
+  - ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8
+knowledge_schema: synthesis-v1
+last_updated: 2026-09-14
 ---
 
 # Kondratiev Cycle
 
-Kondratiev cycle is the long-wave macro framework at the center of [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]]. The episode treats it as a way to connect technology innovation, profit cycles, investment behavior, social change, and asset allocation over decades. Its core discipline is mechanism: ask why a wave exists, why it reverses, and how shorter cycles nest inside it, rather than treating cycle years as a fixed timetable.
+## Definition
 
-The source's distinctive claim is that AI can be both the core technology of a sixth long wave and a continuation of the information revolution. In that reading, AI does not replace the information era; it intensifies the ability to process, recombine, and absorb information across society.
+Kondratiev cycle is a long-wave macro framework that links technology, production systems, capital investment, social structure, and asset prices across multi-decade periods.
+
+## Current Synthesis
+
+The wiki's current synthesis treats Kondratiev analysis as useful only when it is mechanism-first. [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] emphasizes drivers, reversals, nested cycles, and the difference between economic-cycle analysis and [[TechnologyInstallationCycle]]. The public-investor correction in [[ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8]] is that the long wave can help explain the environment, but it cannot provide exact buy and sell coordinates.
+
+Technology is central but not sufficient. Both sources argue that a new long wave needs more than an invention: production technology, inputs, infrastructure, factories, institutions, user adoption, and a new techno-economic mode have to align. EP94's steam-engine example shows this as system reorganization, while E162 applies the question to AI as possible sixth-wave infrastructure.
+
+For investing, Kondratiev thinking is a context layer, not a substitute for [[PortfolioSuitability]]. It may shape views about AI, commodities, gold, real estate, and macro regimes, but household investors still need capital duration, liquidity, position sizing, and risk controls.
 
 ## Key Claims
-- Long-wave analysis should study drivers and reversals, not only count years.
-- New long waves need more than a single invention: production technology, key inputs, infrastructure, and a new techno-economic mode have to come together.
-- Depression or late-decline phases can push firms and capital to search for new profit sources, linking the cycle to [[DepressionDrivenInnovation]].
-- AI may mark a new long wave while still sitting inside the larger information-technology revolution.
-- Long-wave judgment should influence [[MacroAssetExpression]] and [[InvestmentRiskManagement]], but it is too coarse to be a precise trading clock.
 
-## Connections
-- [[JosephSchumpeter]] and [[ZhouJintao]] — economic-cycle and strategy-research lineage invoked in the source.
-- [[TechnologyInstallationCycle]] — innovation-stage frame used alongside the economic-cycle frame.
-- [[DepressionDrivenInnovation]] — weak-period innovation pressure.
-- [[AIInvestmentMetrics]] and [[AIEquityValuationRisk]] — shorter-term AI business and valuation frames placed inside the long wave.
-- [[MarketRegimeShift]] and [[GeopoliticalCycleMacro]] — adjacent ideas for changing macro regimes and constraints.
+- Long-wave analysis should study mechanisms and reversals rather than count fixed sixty-year intervals.
+- New long waves require technology, infrastructure, production reorganization, and social adoption to reinforce one another.
+- Weak or depression-like phases can push capital and firms toward new profit sources, connecting the concept to [[DepressionDrivenInnovation]].
+- AI may be read as a possible sixth-wave core technology while still extending the larger information-technology revolution.
+- Price cycles can lead productivity cycles; real technological change can coexist with bubbles and poor early investor returns.
+- Long-wave judgment may inform [[MacroAssetExpression]], but it is too coarse for precise trading or household timing decisions.
+- Ordinary investors should pair cycle stories with [[InvestmentRiskManagement]] and [[OrdinaryInvestorMacroBoundary]].
+
+## Evidence
+
+- **Mechanism-first macro:** [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] separates long-wave analysis from fixed-year prophecy and connects it to [[JosephSchumpeter]], [[CarlotaPerez]], [[ZhouJintao]], and [[ChinaSecuritiesCo]].
+- **AI and innovation:** [[e162-kangbo-zhouqi-zhong-de-ai-xin-jishu-zong-zai-xiaotiao-qi-baofa-bad-times-make-good-people-limyzch9la0bbwe8y9geofgqargl]] argues that AI may be core to a sixth wave while remaining part of the information revolution.
+- **Nested-cycle education:** [[ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8]] places the long wave beside [[InventoryCycle]] and [[JuglarCycle]] and warns that different cycle layers may pull against each other.
+- **Technology diffusion:** [[ep94-chuanyue-zhoujintao-rensheng-facai-kao-kangbo-shouzhu-jiadi-kao-shao-cuo-lndimnd_sb98tfmzv-kukbbnbtg8]] uses steam power, railways, internet, and AI to separate technological importance from immediate profit realization.
+
+## Counterevidence & Qualifications
+
+- The framework is historically interpretive and should not be treated as a deterministic calendar.
+- Correctly identifying a long wave does not identify the winning company, asset, or entry price.
+- EP94's Zhou Jintao dialogue is dramatized reconstruction, so its formulation of the framework is source interpretation rather than verbatim authority.
+
+## What Changed
+
+- Added EP94's ordinary-investor caution and nested-cycle examples.
+- Made the page schema-compliant and more explicit about technology profit lag and timing misuse.
+
+## Related Concepts
+
+- [[ZhouJintao]] - Chinese strategy researcher associated with the framework in podcast sources.
+- [[TechnologyInstallationCycle]] - innovation-stage frame that complements long-wave macro.
+- [[TechnologyProfitLag]] - reason technological truth and investor return can diverge.
+- [[DepressionDrivenInnovation]] - weak-period innovation pressure inside long-cycle thinking.
+- [[MacroAssetExpression]] - investment translation layer for macro views.
+- [[OrdinaryInvestorMacroBoundary]] - boundary preventing cycle analysis from becoming headline trading.

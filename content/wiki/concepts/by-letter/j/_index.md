@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 7361
+wiki_total_pages: 7368
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -212,6 +212,9 @@ wiki_pages:
   - key: "JudicializedOppositionSuppression"
     title: "Judicialized Opposition Suppression"
     url: "/wiki/concepts/judicializedoppositionsuppression/"
+  - key: "JuglarCycle"
+    title: "Juglar Cycle / 朱格拉周期"
+    url: "/wiki/concepts/juglarcycle/"
   - key: "JungianArchetypalReading"
     title: "Jungian Archetypal Reading / 荣格式原型阅读"
     url: "/wiki/concepts/jungianarchetypalreading/"
