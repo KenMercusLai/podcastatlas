@@ -19206,6 +19206,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-14] ingest | How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford
+
+Added source `how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360`; created `NatalieCrawford`, `FemaleFertilityAsHealthMarker`, `OvarianReserveAMHInterpretation`, and `AssistedReproductionDecisionLiteracy`; updated `FemaleHormoneHealthPhenotyping`, `FertilityEnergyAvailability`, and `MenopauseClinicalSharedDecision` with fertility-as-health-marker, AMH and ovulation tracking, semen analysis, pregnancy-loss evaluation, IVF and egg-freezing attrition, trimester-zero preconception planning, endocrine-disruptor exposure, cannabis and nicotine cautions, and perimenopause shared-decision timing. No settled contradiction found; GLP-1s, human growth hormone, PRP, red light, NAD-related interventions, fertility supplement claims, and individual treatment decisions remain source-scoped.
+
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》402-1｜桑弘羊曾帮汉武帝致富，为何最后惨遭灭族
 
 Added source `zizhi-tongjian-hanji-402-1-sanghongyang-ceng-bang-hanwudi-zhifu-weihe-zuihou-canzao-miezu-ltpcos20d5mafcoywmfcb6iifwsv`; created `SangHongyangWesternHan`, `SangQianWesternHan`, `HouShiWuWesternHan`, `WangPingWesternHan`, `XuRenWesternHan`, and `LiuDanYanKingWesternHan`; updated `HuoGuangWesternHan`, `TianQianqiuWesternHan`, `DuYannianWesternHan`, and `CaseExpansionPoliticalPurge` with Sang Hongyang's destruction, Sang Qian's flight, the Hou Shiwu amnesty dispute, Wang Ping and Xu Ren's punishment, Tian Qianqiu's failed kinship protection, and Du Yannian's boundary-setting memorial. No settled contradiction found; Liwu Wang, Yiqu-service details, the exact amnesty scope, and the incomplete transcript ending remain source-scoped.
@@ -19233,6 +19237,10 @@ Added source `zizhi-tongjian-hanji-404-hanzhaodi-liufuling-zhendeshi-bei-huoguan
 ## [2026-09-14] ingest | 《资治通鉴·汉纪》405-1｜酒囊饭袋？无道昏君？海昏侯刘贺到底多荒唐？
 
 Added source `zizhi-tongjian-hanji-405-1-jiunangfandai-wudao-hunjun-haihunhou-liuhe-daodi-duo-huangtang-ljoll1pll7ovr4lnyuzcyykxgbgs`; updated `LiuHeHaihunHou`, `WangJiWesternHan`, `GongSuiWesternHan`, and `AccessionMourningLegibility` with the pre-summons Changyi layer: Huo Guang's controllability calculation, Liu He's indulgent habits, Wang Ji's educational remonstrance, and Gong Sui's failed companion-reform warning. No settled contradiction found; the strange dog omen remains source-scoped as episode remonstrance framing.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-14] lint | Wiki health check
 

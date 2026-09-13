@@ -2409,8 +2409,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Ep 59. 2026 Agent 编程新趋势](sources/ep-59-2026-agent-biancheng-xin-qushi-8218230840-466252.md) — 捕蛇者说 episode on agent-native coding tools, command-center interfaces, proactive coding agents, team memory, and verification-first workflows.
 - [《资治通鉴·汉纪》591-2丨如何更高效地读懂历史？古代编年鉴赞，撷取千年风流云烟](sources/zizhi-tongjian-hanji-591-2-ruhe-geng-gaoxiao-di-dudong-lishi-gudai-biannian-jianzan-juequ-qiannian-fengliu-yunyan-lruv48fgfpo7u0tjsqb264k0y7yq.md) — 芮淇讲透资治通鉴 background episode on the Twenty-Four Histories, front four histories, Zuo Zhuan, Zizhi Tongjian, source forms, official-history continuity, and participatory history reading.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
+- [How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford](sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360.md) — Huberman Lab episode with Natalie Crawford on fertility as a health marker, AMH, ovulation tracking, pregnancy loss, IVF, egg freezing, endocrine disruptors, cannabis, nicotine, and trimester-zero planning.
 
 ## Entities
+- [Natalie Crawford](entities/NatalieCrawford.md) — Fertility and reproductive-health physician featured on Huberman Lab, emphasizing fertility as a whole-body health marker and earlier reproductive data access.
 - [眭弘 / Sui Hong (Western Han)](entities/SuiHongWesternHan.md) — scholar-official whose omen reading becomes an abdication memorial under Han Zhao.
 - [田千秋 / Tian Qianqiu (Western Han)](entities/TianQianqiuWesternHan.md) — cautious chancellor whose silence and failed Xu Ren protection effort highlight Huo Guang's regency dominance under Han Zhao.
 - [桑弘羊 / Sang Hongyang (Western Han)](entities/SangHongyangWesternHan.md) — Han Wudi-era fiscal minister whose anti-Huo rebellion involvement leads to execution and household destruction under Huo Guang.
@@ -12434,6 +12436,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Tomoe Gozen](entities/TomoeGozen.md) — female warrior whose brief Heike appearance anchors the episode's onna-musha and legend-history discussion.
 
 ## Concepts
+- [Assisted Reproduction Decision Literacy](concepts/AssistedReproductionDecisionLiteracy.md) — IVF, egg-freezing, embryo-testing, pregnancy-loss, and emerging-intervention decisions interpreted through attrition, autonomy, and medical context.
+- [Female Fertility as Health Marker](concepts/FemaleFertilityAsHealthMarker.md) — Fertility framed as a reproductive, hormonal, metabolic, inflammatory, lifestyle, and exposure signal rather than only pregnancy success.
+- [Ovarian Reserve and AMH Interpretation](concepts/OvarianReserveAMHInterpretation.md) — AMH and ovarian-reserve literacy that separates likely egg quantity response from egg quality and personalized fertility prognosis.
 - [Accession Mourning Legibility / 继位守丧可读性](concepts/AccessionMourningLegibility.md) — Succession ritual pattern where a candidate must make grief publicly credible because mourning conduct proves role restraint before imperial authority.
 - [Push-Pull Intimacy Communication / 推开式亲密求助](concepts/PushPullIntimacyCommunication.md) — Relationship pattern where apparent rejection or withdrawal may conceal need, hurt, shame, or a plea for support.
 - [Self-Translation In Intimacy / 亲密关系中的自我翻译](concepts/SelfTranslationInIntimacy.md) — Practice of noticing and expressing one's own fear, shame, control, hurt, desire, and need rather than only decoding the partner.

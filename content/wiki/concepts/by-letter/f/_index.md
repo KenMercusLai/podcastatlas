@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "f"
-wiki_total_pages: 7339
+wiki_total_pages: 7342
 wiki_pages:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -251,6 +251,9 @@ wiki_pages:
   - key: "FemaleDuelAgency"
     title: "Female Duel Agency / 女性决斗主体性"
     url: "/wiki/concepts/femaleduelagency/"
+  - key: "FemaleFertilityAsHealthMarker"
+    title: "Female Fertility as Health Marker"
+    url: "/wiki/concepts/femalefertilityashealthmarker/"
   - key: "FemaleFriendshipRecognition"
     title: "Female Friendship Recognition / 女性友谊的看见"
     url: "/wiki/concepts/femalefriendshiprecognition/"

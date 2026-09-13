@@ -9294,6 +9294,13 @@
       "url": "/topics/science/"
     }
   ],
+  "AssistedReproductionDecisionLiteracy": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
+    }
+  ],
   "AssistiveAI": [
     {
       "key": "technology",
@@ -25636,6 +25643,13 @@
       "key": "history",
       "label": "History",
       "url": "/topics/history/"
+    }
+  ],
+  "FemaleFertilityAsHealthMarker": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "FemalePowerCenterPoliticalCapacity": [
@@ -47288,6 +47302,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "NatalieCrawford": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "NatalieStokel": [
@@ -80928,6 +80949,13 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360": [
+    {
+      "key": "science",
+      "label": "Science",
+      "url": "/topics/science/"
     }
   ],
   "how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546": [

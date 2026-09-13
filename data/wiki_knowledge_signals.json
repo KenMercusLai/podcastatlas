@@ -7546,6 +7546,22 @@
       "updated": "2026-08-27",
       "url": "/wiki/concepts/assisteddrivingtrustformation/"
     },
+    "AssistedReproductionDecisionLiteracy": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7009544360 [SCIM7009544360].md",
+          "key": "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360",
+          "show": "Huberman Lab",
+          "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
+          "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/assistedreproductiondecisionliteracy/"
+    },
     "AssociativeKnowledgeSystems": {
       "episode_count": 1,
       "show_count": 1,
@@ -33310,10 +33326,26 @@
       "updated": "2026-09-01",
       "url": "/wiki/concepts/femalecourteducationeasternhan/"
     },
-    "FemaleHormoneHealthPhenotyping": {
+    "FemaleFertilityAsHealthMarker": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7009544360 [SCIM7009544360].md",
+          "key": "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360",
+          "show": "Huberman Lab",
+          "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
+          "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/femalefertilityashealthmarker/"
+    },
+    "FemaleHormoneHealthPhenotyping": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "SCIM5131677929 [SCIM5131677929].md",
@@ -33321,9 +33353,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: How to Optimize Female Hormone Health for Vitality & Longevity | Dr. Sara Gottfried",
           "url": "/wiki/sources/essentials-how-to-optimize-female-hormone-health-for-vitality-longevity-dr-sara-gottfried-scim5131677929/"
+        },
+        {
+          "episode_file": "SCIM7009544360 [SCIM7009544360].md",
+          "key": "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360",
+          "show": "Huberman Lab",
+          "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
+          "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
         }
       ],
-      "updated": "2026-08-27",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/femalehormonehealthphenotyping/"
     },
     "FemalePowerCenterPoliticalCapacity": {
@@ -34184,9 +34223,9 @@
       "url": "/wiki/concepts/fertilityburdenreliefpolicy/"
     },
     "FertilityEnergyAvailability": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "SCIM2882548864 [SCIM2882548864].md",
@@ -34201,9 +34240,16 @@
           "show": "Huberman Lab",
           "title": "Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett",
           "url": "/wiki/sources/essentials-tools-for-hormone-optimization-in-males-dr-kyle-gillett-scim5974928415/"
+        },
+        {
+          "episode_file": "SCIM7009544360 [SCIM7009544360].md",
+          "key": "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360",
+          "show": "Huberman Lab",
+          "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
+          "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
         }
       ],
-      "updated": "2026-08-30",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/fertilityenergyavailability/"
     },
     "FertilitySubsidyLimits": {
@@ -66930,9 +66976,9 @@
       "url": "/wiki/entities/mengyuneasternhan/"
     },
     "MenopauseClinicalSharedDecision": {
-      "episode_count": 3,
+      "episode_count": 4,
       "show_count": 2,
-      "source_note_count": 3,
+      "source_note_count": 4,
       "sources": [
         {
           "episode_file": "EP274 如何找到适合自己的“更年期答案”？ [li2BP1rTITdNVc04rMIZyfg1tXfH].md",
@@ -66954,9 +67000,16 @@
           "show": "Huberman Lab",
           "title": "Your Top Health Questions Answered",
           "url": "/wiki/sources/your-top-health-questions-answered-scim2882548864/"
+        },
+        {
+          "episode_file": "SCIM7009544360 [SCIM7009544360].md",
+          "key": "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360",
+          "show": "Huberman Lab",
+          "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
+          "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
         }
       ],
-      "updated": "2026-08-28",
+      "updated": "2026-09-14",
       "url": "/wiki/concepts/menopauseclinicalshareddecision/"
     },
     "MenopauseInformationTriage": {
@@ -70077,6 +70130,22 @@
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/narrativereframingaspoliticalattack/"
+    },
+    "NatalieCrawford": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7009544360 [SCIM7009544360].md",
+          "key": "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360",
+          "show": "Huberman Lab",
+          "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
+          "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/entities/nataliecrawford/"
     },
     "NatalieStokel": {
       "episode_count": 1,
@@ -74146,6 +74215,22 @@
       ],
       "updated": "2026-09-01",
       "url": "/wiki/entities/ouyangxieasternhan/"
+    },
+    "OvarianReserveAMHInterpretation": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "SCIM7009544360 [SCIM7009544360].md",
+          "key": "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360",
+          "show": "Huberman Lab",
+          "title": "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford",
+          "url": "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
+        }
+      ],
+      "updated": "2026-09-14",
+      "url": "/wiki/concepts/ovarianreserveamhinterpretation/"
     },
     "OverextendedFrontierExpedition": {
       "episode_count": 3,

@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "a"
-wiki_total_pages: 7339
+wiki_total_pages: 7342
 wiki_pages:
   - key: "AShareAuctionPricing"
     title: "A-Share Auction Pricing / A股拍卖机制"
@@ -2042,6 +2042,9 @@ wiki_pages:
   - key: "AssistedDyingSafeguards"
     title: "Assisted Dying Safeguards"
     url: "/wiki/concepts/assisteddyingsafeguards/"
+  - key: "AssistedReproductionDecisionLiteracy"
+    title: "Assisted Reproduction Decision Literacy"
+    url: "/wiki/concepts/assistedreproductiondecisionliteracy/"
   - key: "AssistiveAI"
     title: "Assistive AI"
     url: "/wiki/concepts/assistiveai/"

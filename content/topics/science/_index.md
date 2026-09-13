@@ -5,7 +5,7 @@ description: "Medicine, health, biology, space, climate, environment, psychology
 outputs: ["html"]
 topic_page: true
 topic_key: "science"
-topic_total_pages: 1083
+topic_total_pages: 1087
 topic_concepts:
   - key: "FourFTraumaResponse"
     title: "4F Trauma Response"
@@ -133,6 +133,9 @@ topic_concepts:
   - key: "AssistedDyingSafeguards"
     title: "Assisted Dying Safeguards"
     url: "/wiki/concepts/assisteddyingsafeguards/"
+  - key: "AssistedReproductionDecisionLiteracy"
+    title: "Assisted Reproduction Decision Literacy"
+    url: "/wiki/concepts/assistedreproductiondecisionliteracy/"
   - key: "AvailabilityHeuristic"
     title: "Availability Heuristic"
     url: "/wiki/concepts/availabilityheuristic/"
@@ -631,6 +634,9 @@ topic_concepts:
   - key: "FearDrivenGroupViolence"
     title: "Fear-Driven Group Violence / 恐惧驱动的群体暴力"
     url: "/wiki/concepts/feardrivengroupviolence/"
+  - key: "FemaleFertilityAsHealthMarker"
+    title: "Female Fertility as Health Marker"
+    url: "/wiki/concepts/femalefertilityashealthmarker/"
   - key: "FermatsPrincipleOfLeastTime"
     title: "Fermat's Principle of Least Time"
     url: "/wiki/concepts/fermatsprincipleofleasttime/"
@@ -2378,6 +2384,9 @@ topic_entities:
   - key: "NASA"
     title: "NASA"
     url: "/wiki/entities/nasa/"
+  - key: "NatalieCrawford"
+    title: "Natalie Crawford"
+    url: "/wiki/entities/nataliecrawford/"
   - key: "NatalieStokel"
     title: "Natalie Stokel"
     url: "/wiki/entities/nataliestokel/"
@@ -3117,6 +3126,9 @@ topic_sources:
   - key: "how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132"
     title: "How to Overcome Social Anxiety | Dr. Nick Epley"
     url: "/wiki/sources/how-to-overcome-social-anxiety-dr-nick-epley-scim7834121132/"
+  - key: "how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360"
+    title: "How Women Can Improve Their Fertility & Hormone Health | Dr. Natalie Crawford"
+    url: "/wiki/sources/how-women-can-improve-their-fertility-hormone-health-dr-natalie-crawford-scim7009544360/"
   - key: "how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546"
     title: "How Your Immune System Works & How to Improve It | Dr. Max Krummel"
     url: "/wiki/sources/how-your-immune-system-works-how-to-improve-it-dr-max-krummel-scim7009523546/"
