@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "p"
-wiki_total_pages: 7299
+wiki_total_pages: 7300
 wiki_pages:
   - key: "PHacking"
     title: "P-Hacking"
@@ -1919,6 +1919,9 @@ wiki_pages:
   - key: "PoliticalExecutionOverreach"
     title: "政治诛杀过度 / Political Execution Overreach"
     url: "/wiki/concepts/politicalexecutionoverreach/"
+  - key: "PoliticalRiskPrevention"
+    title: "政治风险预防 / Political Risk Prevention"
+    url: "/wiki/concepts/politicalriskprevention/"
   - key: "PowerCenterProximityAdvantage"
     title: "权力中心接近优势 / Power Center Proximity Advantage"
     url: "/wiki/concepts/powercenterproximityadvantage/"

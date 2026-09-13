@@ -28915,9 +28915,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 14,
+      "episode_count": 15,
       "show_count": 1,
-      "source_note_count": 14,
+      "source_note_count": 15,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -29016,6 +29016,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
         }
       ],
       "updated": "2026-09-13",
@@ -47928,10 +47935,26 @@
       "updated": "2026-09-04",
       "url": "/wiki/entities/hundredyearswar/"
     },
-    "HuoFamilyPurgeAfterHuoGuang": {
+    "HuoChengjunWesternHan": {
       "episode_count": 1,
       "show_count": 1,
       "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/huochengjunwesternhan/"
+    },
+    "HuoFamilyPurgeAfterHuoGuang": {
+      "episode_count": 2,
+      "show_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
@@ -47939,15 +47962,22 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
         }
       ],
       "updated": "2026-09-13",
       "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
     },
     "HuoGuangWesternHan": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？ [lmZ7BDFy8aNhKuq24L-F2uLKolBu].md",
@@ -47955,6 +47985,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
         }
       ],
       "updated": "2026-09-13",
@@ -47975,6 +48012,22 @@
       ],
       "updated": "2026-09-06",
       "url": "/wiki/entities/huonulatehan/"
+    },
+    "HuoXianWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/huoxianwesternhan/"
     },
     "HuoXuLateHan": {
       "episode_count": 1,
@@ -75807,6 +75860,22 @@
       "updated": "2026-09-05",
       "url": "/wiki/concepts/politicalresourcecurse/"
     },
+    "PoliticalRiskPrevention": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/politicalriskprevention/"
+    },
     "PolySimulator": {
       "episode_count": 1,
       "show_count": 1,
@@ -86306,6 +86375,22 @@
       ],
       "updated": "2026-08-26",
       "url": "/wiki/entities/shangxiabanchang/"
+    },
+    "ShangguanTaihouWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/shangguantaihouwesternhan/"
     },
     "ShangguanWaner": {
       "episode_count": 2,
@@ -106622,6 +106707,22 @@
       ],
       "updated": "2026-08-29",
       "url": "/wiki/entities/xufengbanditlatehan/"
+    },
+    "XuFuWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？ [ltiSydaWUQdhqPFfdJV_XKWTS90p].md",
+          "key": "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/xufuwesternhan/"
     },
     "XuGanEasternHan": {
       "episode_count": 3,

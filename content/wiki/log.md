@@ -18542,6 +18542,10 @@ Added source note plus Trent Rossiter, Logic Data Solutions, Ollama, LM Studio, 
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？
+
+Added source note for Hanji 424 and updated the Huo-family purge, Huo Guang, and Emperor Xuan pages. Created Huo Xian, Huo Chengjun, Shangguan Taihou, Western Han Xu Fu, and political risk prevention pages. Key claims: Huo collapse combines household misconduct, palace and succession danger, a failed coup plan, Xuan's accumulated fear of Huo power, and the prevention-versus-firefighting lesson of Xu Fu's overlooked warning.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？
 
 Added source note plus Western Han Shache Kingdom and Emergency Frontier Discretion, and updated Feng Fengshi, Emperor Xuan of Han, Qiongcheng Taihou, harem succession risk control, and unauthorized frontier command intervention. Key claims: Feng's Shache victory uses borrowed Han authority, allied Western Regions cavalry, and Shache elite self-preservation rather than lone combat; Emperor Xuan rewards the result while capping the precedent of unauthorized envoy mobilization; and Wang shi's childlessness and low favor become a form of crown-prince protection.
@@ -18926,6 +18930,10 @@ Added source note plus Imperial Name Taboo, and updated Emperor Xuan of Han. Key
 ## [2026-09-13] ingest | VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书
 
 Added source note plus Ding Kefeng, bowel symptom triage, IBS diagnostic boundary, coffee laxative myth, colorectal cancer screening, colon polyp risk stratification, liquid biopsy screening boundary, and function-preserving colorectal surgery. Key claims: ordinary bowel symptoms should be routed by persistence and warning signs rather than panic, tumor markers and immature liquid-biopsy tools cannot replace validated screening and colonoscopy, and colorectal surgery increasingly balances cure with function and quality of life.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

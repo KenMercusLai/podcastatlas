@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？](sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p.md) — 芮淇讲透资治通鉴 episode on the Huo family's post-Huo-Guang collapse, Huo Xian's household overreach, the failed coup plan, Huo Chengjun's deposition, Xu Fu's prevention warning, and Xuan's "芒刺在背" fear.
 - [《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？](sources/zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu.md) — 芮淇讲透资治通鉴 episode on Sima Guang's split judgment of the Huo family purge, Emperor Xuan's delayed and excessive response, and Gong Sui's livelihood-first pacification of Bohai.
 - [《资治通鉴·汉纪》427｜一人征服莎车国，西汉冯奉世怎么做到的？](sources/zizhi-tongjian-hanji-427-yiren-zhengfu-shacheguo-xihan-fengfengshi-zenme-zuodao-de-loxxi2qynbrbmfqgokos30sypsxp.md) — 芮淇讲透资治通鉴 episode on Feng Fengshi's unauthorized Western Regions cavalry mobilization against Shache, Emperor Xuan's reward cap, and Wang shi's childless-empress selection as crown-prince protection.
 - [《资治通鉴·汉纪》428｜从汉宣帝改名，聊聊古代的“避讳”](sources/zizhi-tongjian-hanji-428-cong-hanxuandi-gaiming-liaoliao-gudai-de-bihui-lhjp6ztajzpxbo2mrlnr-n3mzatb.md) — 芮淇讲透资治通鉴 episode on Han Xuan's judicial edict, tax relief, name change from 刘病已 to 刘询, and ancient Chinese taboo practice as a burden on speech, writing, exams, literature, and punishment.
@@ -2376,6 +2377,10 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Entities
 - [Gong Sui (Western Han)](entities/GongSuiWesternHan.md) — Western Han official whose Bohai governance reframed banditry as hunger and official-neglect repair.
 - [Huo Guang (Western Han)](entities/HuoGuangWesternHan.md) — Western Han regent whose loyal service and posthumous family purge illustrate failed power exit.
+- [霍显 / Huo Xian (Western Han)](entities/HuoXianWesternHan.md) — Huo Guang's wife whose misconduct, palace access, and succession threat help drive the Huo-family collapse.
+- [霍成君 / Huo Chengjun (Western Han)](entities/HuoChengjunWesternHan.md) — Huo-family empress deposed after the purge and treated as a crown-prince succession threat.
+- [上官太后 / Empress Dowager Shangguan (Western Han)](entities/ShangguanTaihouWesternHan.md) — Empress dowager whose banquet authority is used as the planned cover in the Huo conspiracy.
+- [徐福 / Xu Fu (Western Han adviser)](entities/XuFuWesternHan.md) — Disambiguated Western Han adviser whose early warnings about Huo-family risk become the "曲突徙薪" prevention lesson.
 - [Keith Joseph](entities/KeithJoseph.md) — Conservative free-market voice whose damaged leadership prospects opened space for Thatcher's 1975 challenge.
 - [Airey Neave](entities/AireyNeave.md) — Conservative campaign organizer who helped turn Thatcher's underdog leadership bid into a first-ballot shock.
 - [Marc Brackett](entities/MarcBrackett.md) — Yale emotional-intelligence researcher and Huberman Lab guest who frames regulation through goals, strategy, vocabulary, vulnerability, RULER, and the meta-moment.
@@ -12346,6 +12351,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [Huo Family Purge After Huo Guang](concepts/HuoFamilyPurgeAfterHuoGuang.md) — court-politics pattern where overextended regency-family power turns merit into suspicion, conspiracy risk, and excessive collective punishment.
+- [政治风险预防 / Political Risk Prevention](concepts/PoliticalRiskPrevention.md) — Court-governance pattern where early warnings and restraint are valued before elite risk becomes rebellion or emergency cleanup.
 - [Livelihood-First Pacification](concepts/LivelihoodFirstPacification.md) — governance pattern where officials repair hunger and production before treating disorder as enemy suppression.
 - [Conservative Leadership Election 1975](concepts/ConservativeLeadershipElection1975.md) — February 1975 contest in which Margaret Thatcher defeated Ted Heath and Willie Whitelaw to become Conservative leader.
 - [Conservative Party Class Realignment](concepts/ConservativePartyClassRealignment.md) — shift from patrician Heathite paternalism toward middle-class, grammar-school, free-market Conservative identity.

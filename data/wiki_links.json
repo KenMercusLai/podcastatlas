@@ -29235,6 +29235,10 @@
     "title": "Hundred Years' War",
     "url": "/wiki/entities/hundredyearswar/"
   },
+  "HuoChengjunWesternHan": {
+    "title": "霍成君 / Huo Chengjun (Western Han)",
+    "url": "/wiki/entities/huochengjunwesternhan/"
+  },
   "HuoFamilyPurgeAfterHuoGuang": {
     "title": "霍氏灭族与权力退场失败 / Huo Family Purge After Huo Guang",
     "url": "/wiki/concepts/huofamilypurgeafterhuoguang/"
@@ -29246,6 +29250,10 @@
   "HuoNuLateHan": {
     "title": "霍奴 / Huo Nu (late Han)",
     "url": "/wiki/entities/huonulatehan/"
+  },
+  "HuoXianWesternHan": {
+    "title": "霍显 / Huo Xian (Western Han)",
+    "url": "/wiki/entities/huoxianwesternhan/"
   },
   "HuoXuLateHan": {
     "title": "霍谞 / Huo Xu (late Han)",
@@ -47111,6 +47119,10 @@
     "title": "Political Resource Curse",
     "url": "/wiki/concepts/politicalresourcecurse/"
   },
+  "PoliticalRiskPrevention": {
+    "title": "政治风险预防 / Political Risk Prevention",
+    "url": "/wiki/concepts/politicalriskprevention/"
+  },
   "PoliticalShowTrial": {
     "title": "Political Show Trial",
     "url": "/wiki/concepts/politicalshowtrial/"
@@ -53982,6 +53994,10 @@
   "Shangdang": {
     "title": "上党 / Shangdang",
     "url": "/wiki/entities/shangdang/"
+  },
+  "ShangguanTaihouWesternHan": {
+    "title": "上官太后 / Empress Dowager Shangguan (Western Han)",
+    "url": "/wiki/entities/shangguantaihouwesternhan/"
   },
   "ShangguanWaner": {
     "title": "上官婉儿 / Shangguan Wan'er",
@@ -66307,6 +66323,10 @@
     "title": "许负 / Xu Fu (physiognomist)",
     "url": "/wiki/entities/xufuphysiognomist/"
   },
+  "XuFuWesternHan": {
+    "title": "徐福 / Xu Fu (Western Han adviser)",
+    "url": "/wiki/entities/xufuwesternhan/"
+  },
   "XuFuren": {
     "title": "徐夫人 / Xu Furen",
     "url": "/wiki/entities/xufuren/"
@@ -75306,6 +75326,10 @@
   "zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr": {
     "title": "《资治通鉴·汉纪》191｜汉朝开国武将之首 为何叛逃匈奴",
     "url": "/wiki/sources/zizhi-tongjian-hanji-191-hanchao-kaiguo-wujiang-zhishou-weihe-pantao-xiongnu-ljaqjcu5w9jmfb-4hco5ps1irvwr/"
+  },
+  "zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p": {
+    "title": "《资治通鉴·汉纪》424｜霍光去世后，霍家是如何覆灭的？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-424-huoguang-qushi-hou-huojia-shi-ruhe-fumie-de-ltisydawuqdhqpffdjv_xkwts90p/"
   },
   "zizhi-tongjian-hanji-425-huoguang-sihou-canzao-miemen-simaguang-weisha-fenfenbuping-lmz7bdfy8anhkuq24l-f2ulkolbu": {
     "title": "《资治通鉴·汉纪》425｜霍光死后惨遭灭门，司马光为啥忿忿不平？",

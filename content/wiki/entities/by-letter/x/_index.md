@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "x"
-wiki_total_pages: 9967
+wiki_total_pages: 9971
 wiki_pages:
   - key: "XFold6"
     title: "vivo X Fold6"
@@ -392,6 +392,9 @@ wiki_pages:
   - key: "XuHuangLateHan"
     title: "徐璜 / Xu Huang (late Han eunuch)"
     url: "/wiki/entities/xuhuanglatehan/"
+  - key: "XuFuWesternHan"
+    title: "徐福 / Xu Fu (Western Han adviser)"
+    url: "/wiki/entities/xufuwesternhan/"
   - key: "XuQiuGuanglingLateHan"
     title: "徐秋 / Xu Qiu (Guangling late Han)"
     url: "/wiki/entities/xuqiuguanglinglatehan/"
