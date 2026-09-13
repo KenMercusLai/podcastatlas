@@ -19010,9 +19010,17 @@ Added source note plus Judicial Abuse Rebellion Trigger, and updated Zheng Ji an
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》421｜西汉刑罚有多狠？官吏对囚犯想杀就能杀！
+
+Added source note plus Lu Wenshu and Shangde Huanxing Penal Reform, and extended Judicial Abuse Rebellion Trigger. Key claims: Han Xuan strips Huo-linked relatives and in-laws of real military command while preserving formal titles; Zhang Anshi becomes the replacement command center for palace, gate, and northern-army forces; and Lu Wenshu's memorial treats harsh judicial incentives and torture-made confessions as threats to restoration.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么
 
 Added source note and updated Xuan-era synthesis. Key claims: Han Xuan's early consolidation used disaster inquiry, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair to loosen Huo-family control before the later open purge.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

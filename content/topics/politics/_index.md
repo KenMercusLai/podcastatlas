@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2488
+topic_total_pages: 2491
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -3811,6 +3811,9 @@ topic_concepts:
   - key: "TitleSuccessionPublicDuty"
     title: "封爵继承公共责任 / Title Succession Public Duty"
     url: "/wiki/concepts/titlesuccessionpublicduty/"
+  - key: "ShangdeHuanxingPenalReform"
+    title: "尚德缓刑式刑政修复 / Shangde Huanxing Penal Reform"
+    url: "/wiki/concepts/shangdehuanxingpenalreform/"
   - key: "ConscienceThroughDuty"
     title: "尽责问心无愧 / Conscience Through Duty"
     url: "/wiki/concepts/consciencethroughduty/"
@@ -6497,6 +6500,9 @@ topic_entities:
   - key: "QizhulouYanBinke"
     title: "起朱楼宴宾客 / Qizhulou Yan Binke"
     url: "/wiki/entities/qizhulouyanbinke/"
+  - key: "LuWenshuWesternHan"
+    title: "路温舒 / Lu Wenshu (Western Han)"
+    url: "/wiki/entities/luwenshuwesternhan/"
   - key: "Fengze"
     title: "逢泽 / Fengze"
     url: "/wiki/entities/fengze/"
@@ -7272,6 +7278,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh"
     title: "《资治通鉴·汉纪》185｜一张利嘴，收复中国万里疆土"
     url: "/wiki/sources/zizhi-tongjian-hanji-185-yi-zhang-li-zui-shoufu-zhongguo-wanli-jiangtu-lps0moshdfvosnyhtdhrkdvswibh/"
+  - key: "zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww"
+    title: "《资治通鉴·汉纪》421｜西汉刑罚有多狠？官吏对囚犯想杀就能杀！"
+    url: "/wiki/sources/zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww/"
   - key: "zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k"
     title: "《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？"
     url: "/wiki/sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k/"

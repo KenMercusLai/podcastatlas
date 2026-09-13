@@ -7,6 +7,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [《资治通鉴·汉纪》420｜从阶下囚到中兴之主，汉宣帝逆袭之路经历了什么](sources/zizhi-tongjian-hanji-420-cong-jiexiaqiu-dao-zhongxingzhizhu-hanxuandi-nixi-zhilu-jingli-le-shenme-lpxbuonbdepadujbrcgkla5bmqgp.md) — 芮淇讲透资治通鉴 episode on Han Xuan's early post-Huo-Guang consolidation through disaster remonstrance, talent screening, relief policy, troop-command removal, Wei Xiang's inner access, and memorial-channel repair against Huo control.
+- [《资治通鉴·汉纪》421｜西汉刑罚有多狠？官吏对囚犯想杀就能杀！](sources/zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww.md) — 芮淇讲透资治通鉴 episode on Han Xuan stripping Huo-linked commanders of real military power, Zhang Anshi's replacement command package, and Lu Wenshu's torture-and-leniency memorial.
 - [《资治通鉴·汉纪》422-1｜为何西汉会有那么多的“官逼民反”？](sources/zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k.md) — 芮淇讲透资治通鉴 episode on Han Xuan's Tingwei Ping judicial repair, Zheng Chang's statute-reform critique, law turning into official abuse, and an early Cheshi-Zheng Ji frontier-control layer.
 - [《资治通鉴·汉纪》422-2｜古代外国人为啥爱到中国朝贡？原因啪啪打脸](sources/zizhi-tongjian-hanji-422-2-gudai-waiguoren-weisha-ai-dao-zhongguo-chaogong-yuanyin-papadalian-lr3erfvroy4b_ryu2sfsdgd-e4m1.md) — 芮淇讲透资治通鉴 short episode reframing tribute as prestige plus economic incentive, with Han/Ming subsidies, fake or rival tribute missions, Mongol tribute-trade pressure, and Xianfeng's treaty-era status rigidity.
 - [EP 37: Neurons: Future of AI Processing](sources/ep-37-neurons-future-of-ai-processing.md) — Data Science With Sam episode with Lena Curtis of FinalSpark on living human neurons as AI processors, remote neuro-platform access, biological processor energy efficiency, and biocomputing ethics.
@@ -2393,6 +2394,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [霍成君 / Huo Chengjun (Western Han)](entities/HuoChengjunWesternHan.md) — Huo-family empress deposed after the purge and treated as a crown-prince succession threat.
 - [上官太后 / Empress Dowager Shangguan (Western Han)](entities/ShangguanTaihouWesternHan.md) — Empress dowager whose banquet authority is used as the planned cover in the Huo conspiracy.
 - [徐福 / Xu Fu (Western Han adviser)](entities/XuFuWesternHan.md) — Disambiguated Western Han adviser whose early warnings about Huo-family risk become the "曲突徙薪" prevention lesson.
+- [路温舒 / Lu Wenshu (Western Han)](entities/LuWenshuWesternHan.md) — Western Han legal remonstrator whose 《尚德缓刑书》 criticizes harsh judicial officials, torture, and confession manufacturing.
 - [Keith Joseph](entities/KeithJoseph.md) — Conservative free-market voice whose damaged leadership prospects opened space for Thatcher's 1975 challenge.
 - [Airey Neave](entities/AireyNeave.md) — Conservative campaign organizer who helped turn Thatcher's underdog leadership bid into a first-ballot shock.
 - [Marc Brackett](entities/MarcBrackett.md) — Yale emotional-intelligence researcher and Huberman Lab guest who frames regulation through goals, strategy, vocabulary, vulnerability, RULER, and the meta-moment.
@@ -12365,6 +12367,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 - [司法滥用式官逼民反 / Judicial Abuse Rebellion Trigger](concepts/JudicialAbuseRebellionTrigger.md) — Mechanism where law becomes torture, false accusation, and official manipulation, collapsing ordinary people's lawful options into endurance or resistance.
+- [尚德缓刑式刑政修复 / Shangde Huanxing Penal Reform](concepts/ShangdeHuanxingPenalReform.md) — Penal-governance repair frame where political restoration requires cautious, humane punishment against torture and official self-protection incentives.
 - [Tribute System Economic Incentive / 朝贡体系经济激励](concepts/TributeSystemEconomicIncentive.md) — Pattern where tribute participation is encouraged by rewards,回赐, high official prices, hosted reception, and controlled trade access.
 - [Tributary Status Diplomatic Rigidity / 朝贡身份秩序外交僵化](concepts/TributaryStatusDiplomaticRigidity.md) — Failure mode where a court protects tribute-hierarchy symbols even when equal diplomacy, fiscal limits, and military risk demand adaptation.
 - [Biocomputing AI Hardware](concepts/BiocomputingAIHardware.md) — AI-hardware frame for using living neural systems as specialized processors rather than biological power sources.

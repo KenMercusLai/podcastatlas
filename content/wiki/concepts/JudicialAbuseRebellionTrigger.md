@@ -5,6 +5,7 @@ knowledge_schema: synthesis-v1
 tags: [law, governance, rebellion, punishment, western-han]
 sources:
   - zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k
+  - zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww
 last_updated: 2026-09-13
 ---
 
@@ -20,6 +21,8 @@ The core mechanism is the collapse of protective law. The host argues that if cr
 
 Zheng Chang's remonstrance gives the repair side of the concept. He argues that Xuan should revise and clarify statutes for later generations because clear law lets people know how to avoid offense and leaves cunning officials less room to manipulate cases. This does not reject review offices entirely; it makes them secondary to durable legal reform.
 
+The upstream torture-and-incentive layer comes through [[LuWenshuWesternHan|路温舒]]'s 《尚德缓刑书》 in [[zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww|Hanji 421]]. Before law becomes open rebellion pressure, it can first become a factory for false certainty: officials protect themselves by pushing severe sentences, torture makes prisoners prefer death or coached confession, and polished case files hide the coercion that produced them. This makes [[ShangdeHuanxingPenalReform|尚德缓刑式刑政修复]] the preventive answer inside the same legal-failure family.
+
 ## Key Claims
 
 - Judicial abuse becomes a rebellion trigger when law is experienced as harm rather than protection.
@@ -28,6 +31,7 @@ Zheng Chang's remonstrance gives the repair side of the concept. He argues that 
 - Clearer statutes and procedure matter because ambiguity gives manipulative officials room to turn law into private power.
 - The mechanism is adjacent to but broader than a single harsh penalty; it includes wrongful conviction, coerced confession, official malice, and loss of redress.
 - Rebellion pressure rises when people believe endurance, petitioning, and compliance all lead toward punishment or death.
+- Penal leniency becomes preventive governance when harsh incentives and torture make official case files look more certain than the facts are.
 
 ## Evidence
 
@@ -44,13 +48,18 @@ Rebellion mechanism:
 - [[zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k|Hanji 422-1]] says people trapped by law used against them face death or resistance.
 - [[zizhi-tongjian-hanji-422-1-weihe-xihan-huiyou-name-duo-de-guanbi-minfan-lnj1etibzsz_poqkoazcyprjc1k|Hanji 422-1]] connects Chen Sheng, Wu Guang, and later popular uprisings to severe trampling of human rights in the host's interpretation.
 
+Torture and false certainty:
+- [[zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww|Hanji 421]] says Lu Wenshu identifies cruel judicial officials as the remaining Qin-style failure.
+- [[zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww|Hanji 421]] says officials seek harsh sentences because severity protects their reputation and reduces risk to themselves.
+- [[zizhi-tongjian-hanji-421-xihan-xingfa-you-duo-hen-guanli-dui-qiufan-xiangsha-jiunengsha-lie9ru4_faverwxkazxxmsegh7ww|Hanji 421]] says torture lets interrogators obtain desired confessions and then polish case files until wrongful death looks legally complete.
+
 ## Counterevidence & Qualifications
 
-The concept does not claim all rebellions are caused by judicial abuse, that every Xuan-era reform was ineffective, or that criminal law has no legitimate public-order role. Hanji 422-1 is a short popular-history source that moves from Xuan's legal notices into a broad interpretation of ancient rebellion. Its claims about torture, autocracy, and human rights remain source-scoped until other notes add independent legal or social evidence. The concept also differs from [[FatalDeadlineRebellionTrigger|误期死局式起义触发]], which names a narrower harsh-deadline trap, and from [[CriminalLawAfterLivelihoodCollapse|民困之后的刑法失灵]], which names punitive failure after broad livelihood collapse.
+The concept does not claim all rebellions are caused by judicial abuse, that every Xuan-era reform was ineffective, or that criminal law has no legitimate public-order role. Hanji 422-1 is a short popular-history source that moves from Xuan's legal notices into a broad interpretation of ancient rebellion. Hanji 421 adds Lu Wenshu's torture and leniency argument, but still does not provide a full legal history of Western Han procedure. Claims about torture, autocracy, human rights, and official incentives remain source-scoped until other notes add independent legal or social evidence. The concept also differs from [[FatalDeadlineRebellionTrigger|误期死局式起义触发]], which names a narrower harsh-deadline trap, and from [[CriminalLawAfterLivelihoodCollapse|民困之后的刑法失灵]], which names punitive failure after broad livelihood collapse.
 
 ## What Changed
 
-- Created the concept from Hanji 422-1's explanation of "官逼民反" through Xuan-era judicial abuse, Tingwei Ping, Zheng Chang's reform critique, and the death-or-resistance choice set.
+- Added Hanji 421's Lu Wenshu layer: cruel officials, torture, confession manufacturing, official self-protection, and "尚德缓刑" as preventive repair before abuse hardens into rebellion pressure.
 
 ## Related Concepts
 
@@ -60,3 +69,5 @@ The concept does not claim all rebellions are caused by judicial abuse, that eve
 - [[QiangOfficialAbuseRebellionTrigger|羌地官吏侵扰叛乱触发]] - frontier analogue where official abuse and punitive fear turn local injury into armed resistance.
 - [[EmperorXuanOfHan|汉宣帝]] - ruler whose judicial reform attempt grounds the concept.
 - [[ZhengChangRemonstratorWesternHan|郑昌]] - official whose remonstrance supplies the durable-law repair critique.
+- [[LuWenshuWesternHan|路温舒]] - official whose memorial supplies the torture-and-leniency layer.
+- [[ShangdeHuanxingPenalReform|尚德缓刑式刑政修复]] - preventive legal-reform answer to harsh official incentives.

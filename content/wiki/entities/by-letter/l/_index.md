@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "l"
-wiki_total_pages: 9980
+wiki_total_pages: 9981
 wiki_pages:
   - key: "LCatterton"
     title: "L Catterton"
@@ -1904,6 +1904,9 @@ wiki_pages:
   - key: "LaiJingping"
     title: "赖靖平 / Lai Jingping"
     url: "/wiki/entities/laijingping/"
+  - key: "LuWenshuWesternHan"
+    title: "路温舒 / Lu Wenshu (Western Han)"
+    url: "/wiki/entities/luwenshuwesternhan/"
   - key: "LiaochengWarringStates"
     title: "辽城 / Liao City (Warring States)"
     url: "/wiki/entities/liaochengwarringstates/"
