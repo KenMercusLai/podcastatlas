@@ -18518,6 +18518,10 @@ Ran lint. See lint-report.md for details.
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》447｜肆意杀囚，西汉酷吏严延年如何自取灭亡？
+
+Added source note and updated Yan Yannian, Huang Ba, and Terror Rule Backfire. Key claims: Yan Yannian's legal skill and mass executions create the "屠伯" reputation, while Huang Ba's humane Yingchuan governance gives a contrast case for fear-based rule before Hanji 448's downfall.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》445｜西汉韩延寿管理百姓有何“神策”？
 
 Added source note for Han Yanshou's ritual education, grassroots monitoring, subordinate management, and closed-door self-reproach dispute handling. Updated HanYanshouWesternHan and MoralPressureAdjudication with the constructive Hanji 445 layer before Hanji 446's procedural critique.
@@ -18751,6 +18755,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你
 
 Added source note plus Yan Yannian and Terror Rule Backfire. Key claims: Yan Yannian's cruel-official style made subordinates fear him enough to expose him, while Woyanqudi Chanyu's killing-based rule left troops and kin unwilling to defend him against Huhanye's challenge.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

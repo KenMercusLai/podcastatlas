@@ -5,7 +5,7 @@ description: "Government, governance, law, diplomacy, elections, regulation, civ
 outputs: ["html"]
 topic_page: true
 topic_key: "politics"
-topic_total_pages: 2462
+topic_total_pages: 2463
 topic_concepts:
   - key: "AcademicFreedom"
     title: "Academic Freedom"
@@ -7215,6 +7215,9 @@ topic_sources:
   - key: "zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr"
     title: "《资治通鉴·汉纪》446｜以道德绑架审案，韩延寿是不是好官？"
     url: "/wiki/sources/zizhi-tongjian-hanji-446-yi-daode-bangjia-shenan-hanyanshou-shi-bushi-haoguan-liajvwsimqt0nbvcn-3rkgbmtjkr/"
+  - key: "zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l"
+    title: "《资治通鉴·汉纪》447｜肆意杀囚，西汉酷吏严延年如何自取灭亡？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l/"
   - key: "zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin"
     title: "《资治通鉴·汉纪》448｜什么叫自作孽不可活？酷吏严延年之死告诉你"
     url: "/wiki/sources/zizhi-tongjian-hanji-448-shenme-jiao-zuozinie-bukehuo-kuli-yanyannian-zhisi-gaosu-ni-lknsltb-jkkxuw1v8gfa-f3vwoin/"
