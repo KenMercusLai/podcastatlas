@@ -9,16 +9,17 @@ sources:
   - zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l
   - zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl
   - zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee
+  - zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi
 last_updated: 2026-09-13
 ---
 
 ## Overview
 
-黄霸 / Huang Ba enters the wiki through [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] as a Western Han chancellor whose recommendation that [[ShiGaoWesternHan|史高]] become taiwei angers [[EmperorXuanOfHan|汉宣帝]]. [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] backfills the later bird-omen embarrassment, while [[zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l|Hanji 447]] adds the earlier positive layer. [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] supplies the detailed Yingchuan method behind that reputation, and [[zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee|Hanji 416]] now adds the earlier prison-learning and release layer with [[XiahouShengWesternHan|夏侯胜]].
+黄霸 / Huang Ba enters the wiki through [[zizhi-tongjian-hanji-455-zhichang-renshi-wenti-bie-ti-yijian-kankan-huangba-de-xiachang-lhaztu17ulzaartaa6y0ehaqvnzx|Hanji 455]] as a Western Han chancellor whose recommendation that [[ShiGaoWesternHan|史高]] become taiwei angers [[EmperorXuanOfHan|汉宣帝]]. [[zizhi-tongjian-hanji-454-yi-zhi-niao-ganfan-yige-chengxiang-huangba-you-duo-can-lrjgft-s8oi3yt3lrnsh0_m20sxj|Hanji 454]] backfills the later bird-omen embarrassment, while [[zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l|Hanji 447]] adds the earlier positive layer. [[zizhi-tongjian-hanji-431-zhichang-bidu-kuli-zhizi-zhanganshi-de-zhichang-zhihui-lmxey8uoliwynimxcnh1khjefenl|Hanji 431]] supplies the detailed Yingchuan method behind that reputation; [[zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi|Hanji 412-2]] and [[zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee|Hanji 416]] add the prison-learning, release, and reassessment layer with [[XiahouShengWesternHan|夏侯胜]].
 
 ## Current Profile
 
-The source set now presents Huang Ba as a capable official whose strength does not automatically survive role change. Hanji 416 gives the earliest current sign of that capacity: even while imprisoned with Xiahou Sheng, Huang studies, learns, and is later praised by Xuan as broad-minded and fit to model officials. Hanji 447 gives the strongest compressed positive account: under Xuan's praise, Yingchuan is said to show moral instruction, fewer prisoners, care for the weak, and enough livability that people under Yan's harsh Henan rule prefer to migrate there. Hanji 431 explains the administrative texture: Huang uses relay-station resources to keep chickens and pigs for relief, establishes local elders, instructors, and five-household leaders, encourages farming, sericulture, thrift, tree planting, and livestock, and talks extensively with officials and commoners to discover hidden problems.
+The source set now presents Huang Ba as a capable official whose strength does not automatically survive role change. Hanji 412-2 gives the earliest current sign of his character under pressure: when officials impeach Xiahou Sheng for opposing Han Wudi's sacrificial music, Huang does not sign on and is imprisoned with him. In prison, Huang asks Xiahou to teach him the Shangshu and treats learning as worthwhile even under possible death. Hanji 416 then turns that episode into Xuan's later reassessment: Huang studies, learns, and is praised by Xuan as broad-minded and fit to model officials. Hanji 447 gives the strongest compressed positive account: under Xuan's praise, Yingchuan is said to show moral instruction, fewer prisoners, care for the weak, and enough livability that people under Yan's harsh Henan rule prefer to migrate there. Hanji 431 explains the administrative texture: Huang uses relay-station resources to keep chickens and pigs for relief, establishes local elders, instructors, and five-household leaders, encourages farming, sericulture, thrift, tree planting, and livestock, and talks extensively with officials and commoners to discover hidden problems.
 
 This positive layer is practical rather than merely kind. Hanji 431 says Huang educates before punishing, distinguishes an old deaf official's usable honesty from disqualifying incompetence, and opposes frequent replacement because turnover creates reception costs, file manipulation, theft, and burdens that fall on commoners. Hanji 454 then says that after becoming chancellor he feels unable to contribute substantively at the center and turns toward auspicious proof and visible performance. His questions to visiting local officials about moralized indicators such as yielding fields, gender-separated roads, untouched lost property, filial sons, and chaste women show how a superior's taste can become a reporting incentive even without explicit orders.
 
@@ -26,7 +27,7 @@ Zhang Chang's heque memorial makes the warning public. Huang Ba misidentifies an
 
 ## Key Characteristics
 
-- Western Han official whose prison study, release, and early promotion precede a strong local-governance reputation but do not prevent later central-office mismatch.
+- Western Han official who refuses to join Xiahou Sheng's impeachment, treats prison as a place for Shangshu learning, and later gains release and early promotion.
 - Humane Yingchuan administrator whose local order contrasts with Yan Yannian's terror-based Henan rule.
 - Detailed local administrator who joins relief stores, production encouragement, thrift, information collection, local hierarchy, and education before punishment.
 - Treats frequent personnel replacement as a governance cost that can burden commoners and hide misconduct.
@@ -37,6 +38,8 @@ Zhang Chang's heque memorial makes the warning public. Huang Ba misidentifies an
 ## Evidence
 
 Positive local-governance baseline:
+- [[zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi|Hanji 412-2]] says Huang Ba does not sign the impeachment of Xiahou Sheng after Xiahou criticizes Han Wudi's proposed ritual honor.
+- [[zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi|Hanji 412-2]] says Huang asks Xiahou to teach him the Shangshu in prison and invokes "hear the Way in the morning, die in the evening."
 - [[zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee|Hanji 416]] says Huang Ba studies in prison with Xiahou Sheng and is released under Xuan's amnesty.
 - [[zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee|Hanji 416]] says Xuan sees Huang as broad-minded, eager to learn, and able to model officials, then appoints him Yangzhou cishi.
 - [[zizhi-tongjian-hanji-447-siyi-shaqiu-xihan-kuli-yanyannian-ruhe-ziqu-miewang-lhhh0plqayyodt7sluycfh7y1m0l|Hanji 447]] says Xuan praises Huang Ba's Yingchuan governance for moral instruction, filial and fraternal conduct, care for the vulnerable, reduced imprisonment, and local order.
@@ -67,11 +70,12 @@ Omen embarrassment and performance distortion:
 
 ## Qualifications
 
-This page is source-scoped to Hanji 416, Hanji 431, Hanji 447, Hanji 454, and Hanji 455. It does not reconstruct Huang Ba's full official biography, local-governance record, relationship with Zhang Chang, the full original memorial, or the complete Western Han evaluation system beyond the episodes' summaries. The five-source picture is deliberately mixed: Hanji 416, Hanji 431, and Hanji 447 preserve Huang's learning and local-governance reputation, while Hanji 454 and Hanji 455 show later judgment failures after promotion.
+This page is source-scoped to Hanji 412-2, Hanji 416, Hanji 431, Hanji 447, Hanji 454, and Hanji 455. It does not reconstruct Huang Ba's full official biography, local-governance record, relationship with Zhang Chang, the full original memorial, or the complete Western Han evaluation system beyond the episodes' summaries. The six-source picture is deliberately mixed: Hanji 412-2 and Hanji 416 preserve Huang's loyalty to learning and later reassessment, Hanji 431 and Hanji 447 preserve his local-governance reputation, while Hanji 454 and Hanji 455 show later judgment failures after promotion.
 
 ## What Changed
 
-- Added Hanji 416's prison-learning and release layer before Huang Ba's later local-governance reputation.
+- Added Hanji 412-2's imprisonment cause: Huang Ba refuses to join Xiahou Sheng's impeachment and asks to study the Shangshu in prison.
+- Preserved Hanji 416's release-and-reassessment layer before Huang Ba's later local-governance reputation.
 - Preserved Hanji 431's detailed Yingchuan governance methods and Hanji 447's positive baseline.
 - Preserved Hanji 454-455's later central-office qualifications.
 
@@ -88,3 +92,4 @@ This page is source-scoped to Hanji 416, Hanji 431, Hanji 447, Hanji 454, and Ha
 - [[AppointmentQualityAsStateCapacity|任官适任性国家能力]] - broader personnel-governance field that this case qualifies by stressing decision authority.
 - [[HumaneLocalGovernance|仁厚地方治理]] - concept extended by Huang's information-rich, relief-oriented Yingchuan administration.
 - [[XiahouShengWesternHan]] - prison study companion whose paired release helps establish Xuan's reassessment of both men.
+- [[Shangshu]] - classic Huang asks Xiahou Sheng to study in prison.

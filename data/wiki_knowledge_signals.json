@@ -46977,9 +46977,9 @@
       "url": "/wiki/entities/huanyueasternhan/"
     },
     "HuangBaWesternHan": {
-      "episode_count": 5,
+      "episode_count": 6,
       "show_count": 1,
-      "source_note_count": 5,
+      "source_note_count": 6,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》455｜职场人事问题别提意见！看看黄霸的下场 [lhaztu17UlZaartaA6y0eHAqvnzx].md",
@@ -47015,6 +47015,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？ [lpcRyNjDx85iv75PYPqvOOqrY3vi].md",
+          "key": "zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi/"
         }
       ],
       "updated": "2026-09-13",
@@ -49129,6 +49136,22 @@
       ],
       "updated": "2026-09-10",
       "url": "/wiki/concepts/imperialabdicationlanguageboundary/"
+    },
+    "ImperialAchievementCostAccounting": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？ [lpcRyNjDx85iv75PYPqvOOqrY3vi].md",
+          "key": "zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/imperialachievementcostaccounting/"
     },
     "ImperialBirthMotherRecognition": {
       "episode_count": 1,
@@ -106095,9 +106118,9 @@
       "url": "/wiki/entities/xiahoufanwesternhan/"
     },
     "XiahouShengWesternHan": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏 [lkFcJewfhmHFGW39vQFqkPA9umZQ].md",
@@ -106112,6 +106135,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》416｜西汉夏侯胜如何拍汉宣帝的马屁？",
           "url": "/wiki/sources/zizhi-tongjian-hanji-416-xihan-xiahousheng-ruhe-pai-hanxuandi-de-mapi-lvqbs--20kvjimwdwgfciq-n6wee/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？ [lpcRyNjDx85iv75PYPqvOOqrY3vi].md",
+          "key": "zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi/"
         }
       ],
       "updated": "2026-09-13",

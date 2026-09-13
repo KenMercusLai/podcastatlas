@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "i"
-wiki_total_pages: 7314
+wiki_total_pages: 7315
 wiki_pages:
   - key: "IberianReconquista"
     title: "Iberian Reconquista / 伊比利亚收复失地运动"
@@ -848,6 +848,9 @@ wiki_pages:
   - key: "ImperialFuneraryPreservation"
     title: "帝王停灵防腐 / Imperial Funerary Preservation"
     url: "/wiki/concepts/imperialfunerarypreservation/"
+  - key: "ImperialAchievementCostAccounting"
+    title: "帝王功业代价核算 / Imperial Achievement Cost Accounting"
+    url: "/wiki/concepts/imperialachievementcostaccounting/"
   - key: "ImperialTeacherHonorRitual"
     title: "帝王尊师礼制 / Imperial Teacher-Honor Ritual"
     url: "/wiki/concepts/imperialteacherhonorritual/"

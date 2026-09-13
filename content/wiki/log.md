@@ -2161,7 +2161,6 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-09-13] ingest | 662. Britain in the 70s: The Rise of Thatcher (Part 1)
 
 Added source note plus Keith Joseph, Airey Neave, Conservative Leadership Election 1975, Conservative Party Class Realignment, and Thatcherite Moral-Market Politics. Key claims: Thatcher's 1975 victory was contingent on Joseph's collapse, Heath's weakness, and Neave's tactics, but it also revealed a deeper Conservative shift toward middle-class, free-market, morally charged politics.
@@ -19110,6 +19109,14 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-13] ingest | 《资治通鉴·汉纪》412-2｜当着群臣和汉宣帝的面抨击汉武帝，夏侯胜有多敢？
+
+Added source `zizhi-tongjian-hanji-412-2-dangzhe-qunchen-he-hanxuandi-de-mian-pengji-hanwudi-xiahousheng-you-duogan-lpcrynjdx85iv75pypqvooqry3vi`; created `ImperialAchievementCostAccounting`; updated `XiahouShengWesternHan` and `HuangBaWesternHan` with the anti-Han-Wudi ritual-remonstrance, impeachment, prison-study, and later-reassessment setup. No settled contradiction found; Xuan's motive, the court atmosphere, and the reading that he did not intend immediate execution remain source-scoped.
 
 ## [2026-09-13] lint | Wiki health check
 
