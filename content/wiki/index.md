@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！](sources/zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug.md) — 芮淇讲透资治通鉴 episode on Huo Guang's procedurally staged deposition of Liu He through ministerial consensus, Shangguan Taihou authorization, Changyi-follower isolation, and ritual-legitimacy indictment.
 - [《资治通鉴·汉纪》409｜汉宣帝刘病已：从狱中走出来的传奇皇帝！](sources/zizhi-tongjian-hanji-409-hanxuandi-liubingyi-cong-yuzhong-zouchulai-de-chuanqi-huangdi-ljyxm9nd5rvheusna29wkxuraqux.md) — 芮淇讲透资治通鉴 episode bridging Huo Guang's deposition of Liu He with Liu Bingyi's prison survival under Bing Ji before his future accession as Han Xuan.
 - [661. Dawn of the Samurai: The Shogun Triumphant (Part 4)](sources/661-dawn-of-the-samurai-the-shogun-triumphant-part-4-glt7837412375.md) — The Rest Is History episode on Tomoe, Yoshitsune's destruction of the Taira, Dan-no-ura, Yoritomo's political consolidation, and the birth of Kamakura samurai rule.
 - [《资治通鉴·汉纪》412-1｜西汉政治明星田延年，为何在巅峰时陨落](sources/zizhi-tongjian-hanji-412-1-xihan-zhengzhi-mingxing-tianyannian-weihe-zai-dianfeng-shi-yunluo-lsvrke2gbdpo-6hvjrlh36i5a0cv.md) — 芮淇讲透资治通鉴 episode on Tian Yannian's Huo Guang-backed rise, mausoleum logistics corruption case, false denial, and suicide after losing patron protection.

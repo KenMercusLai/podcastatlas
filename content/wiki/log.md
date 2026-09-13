@@ -18558,6 +18558,10 @@ Added source note plus Chang Hui. Key claims: Xieyou Princess's early Wusun marr
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》408｜废帝界天花板，汉废帝刘贺下岗啦！
+
+Added source `zizhi-tongjian-hanji-408-feidi-jie-tianhuaban-han-feidi-liuhe-xiagang-la-lgqd0gddiz5plifsvwteaub2emug`; updated `LiuHeHaihunHou` and `HuoGuangWesternHan` with the inner deposition procedure: ministerial consensus, Shangguan Taihou authorization, Changyi-follower isolation, guarded control of Liu He, and the indictment's ritual-legitimacy logic. No settled contradiction found; the listed offenses remain source-scoped accusation logic rather than independent proof.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》414｜西汉第一权臣霍光，为何纵容妻子害死皇后？
 
 Added source note and updated Huo-family synthesis. Key claims: Huo Guang knowingly suppresses the Xu Pingjun investigation after Huo Xian confesses; Xuan's anger is constrained because he has not yet taken real power from Huo Guang; and Wusun plus Chang Hui's western strike, followed by snow and coalition pressure, marks a major step in Xiongnu weakening.
@@ -19133,6 +19137,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | Essentials: Understand & Improve Memory Using Science-Based Tools
 
 Added source note plus Post-Learning Arousal Tagging, and updated Memory Consolidation Windows and Epinephrine Alertness Toolkit. Key claims: memory is selective perception shaped by repetition, attention, and state; acute adrenaline or norepinephrine late in learning or roughly 5-15 minutes afterward may tag selected material for stronger retention; and sleep, naps, non-sleep deep rest, exercise, visual framing, and meditation remain bounded support tools rather than universal medical or learning prescriptions.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 
