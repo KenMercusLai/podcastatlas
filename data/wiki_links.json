@@ -32311,6 +32311,10 @@
     "title": "Jinjiang Model / 晋江模式",
     "url": "/wiki/concepts/jinjiangmodel/"
   },
+  "JinmaMenCourtLiteraryAccess": {
+    "title": "金马门待诏 / Gold Horse Gate Court Literary Access",
+    "url": "/wiki/concepts/jinmamencourtliteraryaccess/"
+  },
   "JinriToutiao": {
     "title": "Jinri Toutiao",
     "url": "/wiki/entities/jinritoutiao/"
@@ -54255,6 +54259,14 @@
     "title": "生数科技 / Shengshu Technology",
     "url": "/wiki/entities/shengshutechnology/"
   },
+  "ShengzhuDeXianchenSong": {
+    "title": "《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers",
+    "url": "/wiki/entities/shengzhudexianchensong/"
+  },
+  "ShengzhuXianchenMutualRecognition": {
+    "title": "圣主贤臣互相成就 / Sage Ruler-Worthy Minister Mutual Recognition",
+    "url": "/wiki/concepts/shengzhuxianchenmutualrecognition/"
+  },
   "ShenlongCoup": {
     "title": "神龙政变 / Shenlong Coup",
     "url": "/wiki/concepts/shenlongcoup/"
@@ -60511,6 +60523,10 @@
     "title": "Tongxin UOS",
     "url": "/wiki/entities/tongxinuos/"
   },
+  "TongyueWangBao": {
+    "title": "《僮约》 / Tong Yue (Wang Bao)",
+    "url": "/wiki/entities/tongyuewangbao/"
+  },
   "TonleSapLake": {
     "title": "Tonle Sap Lake / 洞里萨湖",
     "url": "/wiki/entities/tonlesaplake/"
@@ -62922,6 +62938,10 @@
   "WangBaEasternHan": {
     "title": "王霸 / Wang Ba (Eastern Han)",
     "url": "/wiki/entities/wangbaeasternhan/"
+  },
+  "WangBaoWesternHan": {
+    "title": "王褒 / Wang Bao (Western Han)",
+    "url": "/wiki/entities/wangbaowesternhan/"
   },
   "WangBenQin": {
     "title": "王贲 / Wang Ben (Qin)",
@@ -75198,6 +75218,10 @@
   "zizhi-tongjian-hanji-432-kai-jinian-gongchen-zhi-xianhe-jiemi-qilinge-shiyi-gongchen-lj65dvmawrppq2iomuzarg1ah9ak": {
     "title": "《资治通鉴·汉纪》432｜开纪念功臣之先河！揭秘麒麟阁十一功臣",
     "url": "/wiki/sources/zizhi-tongjian-hanji-432-kai-jinian-gongchen-zhi-xianhe-jiemi-qilinge-shiyi-gongchen-lj65dvmawrppq2iomuzarg1ah9ak/"
+  },
+  "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx": {
+    "title": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？",
+    "url": "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
   },
   "zizhi-tongjian-hanji-434-yidai-nengli-dangan-zhize-huangdi-jiemi-hanchao-qiren-zhangchang-ligbhsgfymvjlhpvieqhpbkpvqk4": {
     "title": "《资治通鉴·汉纪》434｜一代能吏胆敢指责皇帝！揭秘汉朝奇人张敞",

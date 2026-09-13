@@ -10,6 +10,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [《资治通鉴·汉纪》429｜“骄兵必败”的故事怎么来的？](sources/zizhi-tongjian-hanji-429-jiaobingbibai-de-gushi-zenme-laide-lokha4dmrik4ez4vtpunb9rwhzav.md) — 芮淇讲透资治通鉴 episode on Wei Xiang's "骄兵必败" war-purpose typology, the Cheshi-Zheng Ji-Xiongnu frontier crisis, and Bing Ji's hidden prison-era service to Han Xuan.
 - [《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏](sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq.md) — 芮淇讲透资治通鉴 episode on Han Xuan rewarding old benefactors, secretly monitoring Liu He, reducing him to Haihun Hou, and turning Bing Ji's hidden service into a lesson about hidden virtue and reward fitness.
 - [《资治通鉴·汉纪》432｜开纪念功臣之先河！揭秘麒麟阁十一功臣](sources/zizhi-tongjian-hanji-432-kai-jinian-gongchen-zhi-xianhe-jiemi-qilinge-shiyi-gongchen-lj65dvmawrppq2iomuzarg1ah9ak.md) — 芮淇讲透资治通鉴 episode on Zhang Anshi as a Qilin Pavilion cautious-survivor case, Wei Xuancheng's title refusal, Yuankang 4 rewards, Cheshi/Wusun handling, and early Qiang-Xiongnu warning signs.
+- [《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？](sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx.md) — 芮淇讲透资治通鉴 episode on Wang Bao, Xuan-era literary patronage, Gold Horse Gate court access, 《圣主得贤臣颂》 as mutual ruler-minister recognition theory, and 《僮约》 as Han Sichuan and early tea evidence.
 - [《资治通鉴·汉纪》435｜西汉三朝名将赵充国，如何大器晚成？](sources/zizhi-tongjian-hanji-435-xihan-sanchao-mingjiang-zhaochongguo-ruhe-daqi-wancheng-lgbznlirir1x0rgtzcj4oz0b1apr.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's late-life Qiang campaign origin, Yi Qu Anguo's frontier mismanagement, cautious reconnaissance, troop care, and coalition-splitting amnesty policy.
 - [《资治通鉴·汉纪》436｜战场递小纸条？揭秘赵充国与汉宣帝的战术之争](sources/zizhi-tongjian-hanji-436-zhanchang-di-xiaozhitiao-jiemi-zhaochongguo-yu-hanxuandi-de-zhanshu-zhizheng-llab-tn_9wkvigzvisndnmhifppt.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo rejecting Xin Wuxian's July Qiang attack plan through logistics, target selection, defensive patience, and coalition-fracture reasoning.
 - [《资治通鉴·汉纪》437｜跟着西汉老将赵充国，学习企业管理智慧！](sources/zizhi-tongjian-hanji-437-genzhe-xihan-laojiang-zhaochongguo-xuexi-qiye-guanli-zhihui-lkll2dzmkhizux3tgkz5ozakt5dr.md) — 芮淇讲透资治通鉴 episode on Zhao Chongguo's slow pursuit, trust-building release of Qiang submitters, refusal of a premature attack order, and屯田 infrastructure memorial as a management lesson.
@@ -2367,6 +2368,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Out-numbered: AI's contentious maths milestone](sources/out-numbered-ais-contentious-maths-milestone-6aa3ce622e8bb8424c920cfb.md) — The Intelligence episode on OpenAI's disputed Navier-Stokes claim, post-9/11 counterterrorism powers, and Guo Lanying's revolutionary-opera legacy.
 
 ## Entities
+- [王褒 / Wang Bao (Western Han)](entities/WangBaoWesternHan.md) — Western Han writer whose 《圣主得贤臣颂》 becomes a ruler-minister recognition theory and whose 《僮约》 preserves Han Sichuan and early tea evidence.
+- [《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers](entities/ShengzhuDeXianchenSong.md) — Wang Bao ode read as a political-literary theory of worthy ministers, ruler search, trust, and mutual achievement.
+- [《僮约》 / Tong Yue (Wang Bao)](entities/TongyueWangBao.md) — Wang Bao work valued by Hanji 433 as social-history evidence for Han-era Sichuan and early tea culture.
 - [车师国 / Cheshi Kingdom (Western Han)](entities/CheshiKingdomWesternHan.md) — Western Regions polity whose fertile land and屯田 potential make it a Han-Xiongnu pressure point in the 64 BCE crisis.
 - [刘贺 / Liu He / Marquis of Haihun](entities/LiuHeHaihunHou.md) — Former Western Han emperor monitored by Han Xuan and reduced to Haihun Hou in Hanji 430.
 - [海昏侯国 / Haihun Marquisate](entities/HaihunMarquisate.md) — Reduced marquisate used to contain Liu He's residual legitimacy in Hanji 430.
@@ -12325,6 +12329,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [My Motherland](entities/MyMotherlandSong.md) — Patriotic song identified as Guo Lanying's signature performance.
 
 ## Concepts
+- [圣主贤臣互相成就 / Sage Ruler-Worthy Minister Mutual Recognition](concepts/ShengzhuXianchenMutualRecognition.md) — Hanji 433 concept where ruler search, talent recognition, ministerial usefulness, and mutual trust turn ability into political achievement.
+- [金马门待诏 / Gold Horse Gate Court Literary Access](concepts/JinmaMenCourtLiteraryAccess.md) — Xuan-era court-literary access pattern in which high-literacy talent becomes visible to imperial patronage.
 - [阴德福报因果 / Hidden Virtue Reward Causality](concepts/YindeRewardCausality.md) — Hanji 430's source-scoped frame for hidden good action later returning as blessing or descendant benefit.
 - [内政承受力先于用兵 / Internal Capacity Before War](concepts/InternalCapacityBeforeWar.md) — Hanji 429's principle that military opportunity should be checked against border poverty, disasters, official failure, and domestic burden.
 - [用兵名义分型 / Military Justification Typology](concepts/MilitaryJustificationTypology.md) — Wei Xiang's Hanji 429 framework distinguishing righteous, responsive, angry, greedy, and proud armies behind the "骄兵必败" warning.

@@ -2153,6 +2153,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？
+
+Added source note plus Wang Bao, 《圣主得贤臣颂》, 《僮约》, Gold Horse Gate court-literary access, and sage-ruler/worthy-minister mutual recognition. Key claims: Xuan-era literary patronage made writers politically visible; Wang Bao's ode treats worthy ministers as state capacity that requires ruler-side seeking, trust, and use; and 《僮约》 is preserved as source-scoped evidence for Han Sichuan society and early tea culture.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》449｜一出荒诞闹剧！匈奴五大单于夺权火拼
 
 Added source note for Hanji 449 and updated the Xuan-era Xiongnu diplomacy branch. Key claims: Xiongnu's five-chanyu crisis shows succession fragmentation through arbitrary killing and title imitation; Xiao Wangzhi recommends mourning and aid rather than opportunistic attack; Han Xuan accepts restraint as a path toward prestige and future submission.
@@ -18898,6 +18902,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书
 
 Added source note plus Ding Kefeng, bowel symptom triage, IBS diagnostic boundary, coffee laxative myth, colorectal cancer screening, colon polyp risk stratification, liquid biopsy screening boundary, and function-preserving colorectal surgery. Key claims: ordinary bowel symptoms should be routed by persistence and warning signs rather than panic, tumor markers and immature liquid-biopsy tools cannot replace validated screening and colonoscopy, and colorectal surgery increasingly balances cure with function and quality of life.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

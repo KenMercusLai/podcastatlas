@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "s"
-wiki_total_pages: 9954
+wiki_total_pages: 9957
 wiki_pages:
   - key: "SixtySixRPG"
     title: "66RPG"
@@ -1562,6 +1562,9 @@ wiki_pages:
   - key: "SiminYueling"
     title: "《四民月令》 / Simin Yueling"
     url: "/wiki/entities/siminyueling/"
+  - key: "ShengzhuDeXianchenSong"
+    title: "《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers"
+    url: "/wiki/entities/shengzhudexianchensong/"
   - key: "ShixinPublicHealth"
     title: "《失信：公共卫生体系的崩溃》"
     url: "/wiki/entities/shixinpublichealth/"

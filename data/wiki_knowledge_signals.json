@@ -28830,9 +28830,9 @@
       "url": "/wiki/entities/emperortaizongoftang/"
     },
     "EmperorXuanOfHan": {
-      "episode_count": 11,
+      "episode_count": 12,
       "show_count": 1,
-      "source_note_count": 11,
+      "source_note_count": 12,
       "sources": [
         {
           "episode_file": "《资治通鉴·汉纪》689-3丨五星出东方，立中国：一个古老预言的现代解读 [lqccXZbvg_JzIurFxM5Tr5K4JlVq].md",
@@ -28910,6 +28910,13 @@
           "show": "芮淇讲透资治通鉴",
           "title": "《资治通鉴·汉纪》430｜吃瓜群众：前任与现任的“宫斗”大戏",
           "url": "/wiki/sources/zizhi-tongjian-hanji-430-chigua-qunzhong-qianren-yu-xianren-de-gongdou-daxi-lkfcjewfhmhfgw39vqfqkpa9umzq/"
+        },
+        {
+          "episode_file": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？ [lmAAh4TJg_GsEWZb6IzhOjTomMLx].md",
+          "key": "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
         }
       ],
       "updated": "2026-09-13",
@@ -52113,6 +52120,22 @@
       ],
       "updated": "2026-09-11",
       "url": "/wiki/concepts/jinjiangmodel/"
+    },
+    "JinmaMenCourtLiteraryAccess": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？ [lmAAh4TJg_GsEWZb6IzhOjTomMLx].md",
+          "key": "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/jinmamencourtliteraryaccess/"
     },
     "JiuXiRitualPromotion": {
       "episode_count": 2,
@@ -86639,6 +86662,38 @@
       "updated": "2026-09-08",
       "url": "/wiki/entities/shengdongjixi/"
     },
+    "ShengzhuDeXianchenSong": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？ [lmAAh4TJg_GsEWZb6IzhOjTomMLx].md",
+          "key": "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/shengzhudexianchensong/"
+    },
+    "ShengzhuXianchenMutualRecognition": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？ [lmAAh4TJg_GsEWZb6IzhOjTomMLx].md",
+          "key": "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/shengzhuxianchenmutualrecognition/"
+    },
     "ShenlongCoup": {
       "episode_count": 1,
       "show_count": 1,
@@ -96222,6 +96277,22 @@
       "updated": "2026-09-02",
       "url": "/wiki/entities/tongmarebelarmyeasternhan/"
     },
+    "TongyueWangBao": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？ [lmAAh4TJg_GsEWZb6IzhOjTomMLx].md",
+          "key": "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/tongyuewangbao/"
+    },
     "TonyACRCloud": {
       "episode_count": 1,
       "show_count": 1,
@@ -99442,6 +99513,22 @@
       ],
       "updated": "2026-09-02",
       "url": "/wiki/entities/wangbaeasternhan/"
+    },
+    "WangBaoWesternHan": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？ [lmAAh4TJg_GsEWZb6IzhOjTomMLx].md",
+          "key": "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx",
+          "show": "芮淇讲透资治通鉴",
+          "title": "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？",
+          "url": "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/wangbaowesternhan/"
     },
     "WangChangShumaoLateHan": {
       "episode_count": 4,

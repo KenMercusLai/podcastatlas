@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "t"
-wiki_total_pages: 9954
+wiki_total_pages: 9957
 wiki_pages:
   - key: "TwelveGigs"
     title: "12gigs"
@@ -986,6 +986,9 @@ wiki_pages:
   - key: "TheBoyAndTheHeron"
     title: "《你想活出怎样的人生》 / The Boy and the Heron"
     url: "/wiki/entities/theboyandtheheron/"
+  - key: "TongyueWangBao"
+    title: "《僮约》 / Tong Yue (Wang Bao)"
+    url: "/wiki/entities/tongyuewangbao/"
   - key: "TheJourneyToSfanomoe"
     title: "《前往斯法诺莫埃的旅途》 / The Journey to Sfanomoë"
     url: "/wiki/entities/thejourneytosfanomoe/"

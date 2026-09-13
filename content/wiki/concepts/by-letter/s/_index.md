@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "s"
-wiki_total_pages: 7284
+wiki_total_pages: 7286
 wiki_pages:
   - key: "SixtyFortyPortfolio"
     title: "60/40 Portfolio"
@@ -1991,6 +1991,9 @@ wiki_pages:
   - key: "StateGrainPriceStabilization"
     title: "国家粮价平准 / State Grain Price Stabilization"
     url: "/wiki/concepts/stategrainpricestabilization/"
+  - key: "ShengzhuXianchenMutualRecognition"
+    title: "圣主贤臣互相成就 / Sage Ruler-Worthy Minister Mutual Recognition"
+    url: "/wiki/concepts/shengzhuxianchenmutualrecognition/"
   - key: "ShouzhuoDecisiveRestraint"
     title: "守拙式临事决断 / Shouzhuo Decisive Restraint"
     url: "/wiki/concepts/shouzhuodecisiverestraint/"

@@ -5,7 +5,7 @@ description: "Literature, media, art, film, music, books, education, sport, and 
 outputs: ["html"]
 topic_page: true
 topic_key: "culture"
-topic_total_pages: 2688
+topic_total_pages: 2690
 topic_concepts:
   - key: "SeventyMillimeterFilmProjection"
     title: "70mm Film Projection"
@@ -5498,6 +5498,9 @@ topic_entities:
   - key: "TuLiBuTuQi"
     title: "《土里不吐气》"
     url: "/wiki/entities/tulibutuqi/"
+  - key: "ShengzhuDeXianchenSong"
+    title: "《圣主得贤臣颂》 / Ode on the Sage Ruler Obtaining Worthy Ministers"
+    url: "/wiki/entities/shengzhudexianchensong/"
   - key: "HellScreen"
     title: "《地狱变》 / Hell Screen"
     url: "/wiki/entities/hellscreen/"
@@ -7938,6 +7941,9 @@ topic_sources:
   - key: "zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx"
     title: "《资治通鉴·周纪》92丨历史上第一位著名舔狗是谁？（2）"
     url: "/wiki/sources/zizhi-tongjian-zhouji-92-lishishang-di-yi-wei-zhuming-tiangou-shi-shui-2-lt1nwraiuuvpy2tzo-zwaoqsajzx/"
+  - key: "zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx"
+    title: "《资治通鉴·汉纪》433｜西汉王褒的 《圣主得贤臣颂》说了啥？"
+    url: "/wiki/sources/zizhi-tongjian-hanji-433-xihan-wangbao-de-shengzhu-de-xianchen-song-shuo-le-sha-lmaah4tjg_gsewzb6izhojtommlx/"
   - key: "zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3"
     title: "《资治通鉴·汉纪》456-4｜周末芮淇陪你另一视角再看一遍西游降魔"
     url: "/wiki/sources/zizhi-tongjian-hanji-456-4-zhoumo-ruiqi-pei-ni-lingyi-shijiao-zai-kan-yibian-xiyou-xiangmo-lolxgqbkq2owmzzay91dy4fanwn3/"

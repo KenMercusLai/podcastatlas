@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "j"
-wiki_total_pages: 7284
+wiki_total_pages: 7286
 wiki_pages:
   - key: "JankyMVP"
     title: "Janky MVP"
@@ -224,6 +224,9 @@ wiki_pages:
   - key: "JianghuVirtualKinship"
     title: "江湖虚拟血缘 / Jianghu Virtual Kinship"
     url: "/wiki/concepts/jianghuvirtualkinship/"
+  - key: "JinmaMenCourtLiteraryAccess"
+    title: "金马门待诏 / Gold Horse Gate Court Literary Access"
+    url: "/wiki/concepts/jinmamencourtliteraryaccess/"
   - key: "JiFuBaoYang"
     title: "饥附饱扬 / Ji Fu Bao Yang"
     url: "/wiki/concepts/jifubaoyang/"
