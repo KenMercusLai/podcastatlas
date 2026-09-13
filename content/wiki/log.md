@@ -19309,7 +19309,6 @@ Added source `zizhi-tongjian-hanji-398-ruguo-ni-shi-liling-hui-ti-xiongnu-quanji
 
 Ran lint. See lint-report.md for details.
 
-
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
@@ -19435,6 +19434,14 @@ Added source `zizhi-tongjian-hanji-395-1-xiongnu-gaosu-ni-weisha-ruozhe-geng-ron
 ## [2026-09-14] lint | Wiki health check
 
 Ran lint. See lint-report.md for details.
+
+## [2026-09-14] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
+
+## [2026-09-14] ingest | 《资治通鉴·汉纪》393-1｜汉武帝驾崩后，俩儿子是怎么争皇权的？
+
+Added source `zizhi-tongjian-hanji-393-1-hanwudi-jiabeng-hou-liang-erzi-shi-zenme-zheng-huangquan-de-loevhdil8uigaqd6izp82tykwx-p`; updated `LiuDanYanKingWesternHan` with the pre-rebellion origin layer around Liu Dan's succession hope, Han Wudi's punishment of his Chang'an-entry request, and his suspicion of Han Zhao's child accession under Huo Guang. No settled contradiction found; Liu Hong, seal-package details, Chang'an envoys, and Han Zhao birth rumors remain source-scoped.
 
 ## [2026-09-14] lint | Wiki health check
 
