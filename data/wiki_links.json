@@ -1187,6 +1187,10 @@
     "title": "66.鱼翅与花椒：聊吃的我可就不困了",
     "url": "/wiki/sources/66-yuchi-yu-huajiao-liao-chi-de-wo-ke-jiu-bu-kun-le-659957536/"
   },
+  "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730": {
+    "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+    "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+  },
   "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377": {
     "title": "663. Britain in the 70s: The Brexit That Never Was (Part 2)",
     "url": "/wiki/sources/663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377/"
@@ -4114,6 +4118,10 @@
   "Airbus": {
     "title": "Airbus",
     "url": "/wiki/entities/airbus/"
+  },
+  "AireyNeave": {
+    "title": "Airey Neave",
+    "url": "/wiki/entities/aireyneave/"
   },
   "AirframeEngineLockIn": {
     "title": "Airframe Engine Lock-In",
@@ -13879,9 +13887,17 @@
     "title": "Conservation Under War",
     "url": "/wiki/concepts/conservationunderwar/"
   },
+  "ConservativeLeadershipElection1975": {
+    "title": "Conservative Leadership Election 1975",
+    "url": "/wiki/concepts/conservativeleadershipelection1975/"
+  },
   "ConservativePartnershipInstitute": {
     "title": "Conservative Partnership Institute",
     "url": "/wiki/entities/conservativepartnershipinstitute/"
+  },
+  "ConservativePartyClassRealignment": {
+    "title": "Conservative Party Class Realignment",
+    "url": "/wiki/concepts/conservativepartyclassrealignment/"
   },
   "ConservativePartyUK": {
     "title": "Conservative Party (UK)",
@@ -33446,6 +33462,10 @@
   "KeithGill": {
     "title": "Keith Gill",
     "url": "/wiki/entities/keithgill/"
+  },
+  "KeithJoseph": {
+    "title": "Keith Joseph",
+    "url": "/wiki/entities/keithjoseph/"
   },
   "KeithRabois": {
     "title": "Keith Rabois",
@@ -59310,6 +59330,10 @@
   "Thailand": {
     "title": "Thailand",
     "url": "/wiki/entities/thailand/"
+  },
+  "ThatcheriteMoralMarketPolitics": {
+    "title": "Thatcherite Moral-Market Politics",
+    "url": "/wiki/concepts/thatcheritemoralmarketpolitics/"
   },
   "TheAITurningPoint": {
     "title": "The AI Turning Point",

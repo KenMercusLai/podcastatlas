@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "t"
-wiki_total_pages: 7292
+wiki_total_pages: 7295
 wiki_pages:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -305,6 +305,9 @@ wiki_pages:
   - key: "TextualVariantPoliticalStakes"
     title: "Textual Variant Political Stakes / 史书异文政治重量"
     url: "/wiki/concepts/textualvariantpoliticalstakes/"
+  - key: "ThatcheriteMoralMarketPolitics"
+    title: "Thatcherite Moral-Market Politics"
+    url: "/wiki/concepts/thatcheritemoralmarketpolitics/"
   - key: "TheUntimely"
     title: "The Untimely"
     url: "/wiki/concepts/theuntimely/"

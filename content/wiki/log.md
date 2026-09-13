@@ -2153,6 +2153,10 @@ Added source note for the Duanwen episode on Taiwan nightjar livestream outrage,
 
 Ran lint. See lint-report.md for details.
 
+## [2026-09-13] ingest | 662. Britain in the 70s: The Rise of Thatcher (Part 1)
+
+Added source note plus Keith Joseph, Airey Neave, Conservative Leadership Election 1975, Conservative Party Class Realignment, and Thatcherite Moral-Market Politics. Key claims: Thatcher's 1975 victory was contingent on Joseph's collapse, Heath's weakness, and Neave's tactics, but it also revealed a deeper Conservative shift toward middle-class, free-market, morally charged politics.
+
 ## [2026-09-13] ingest | 《资治通鉴·汉纪》431｜职场必读！酷吏之子张安世的职场智慧
 
 Added source note plus Zhang Tang, Zhang Yanshou, Shu Guang and Shu Shou, quiet credit self-protection, public recommendation private favor boundary, timely retirement risk avoidance, and wealth transmission restraint. Updated Zhang Anshi, Huang Ba, and humane local governance. Key claims: Zhang Anshi keeps service, credit, recommendation, and family prominence inside safe boundaries; Shu Guang and Shu Shou turn sufficiency into a praised exit; Huang Ba's Yingchuan governance works through relief, production, information, education, and continuity-aware staffing.
@@ -18910,6 +18914,10 @@ Ran lint. See lint-report.md for details.
 ## [2026-09-13] ingest | VOL.203 靠冰美式通便？一紧张就腹泻？你的“脆皮肠道”需要这份使用说明书
 
 Added source note plus Ding Kefeng, bowel symptom triage, IBS diagnostic boundary, coffee laxative myth, colorectal cancer screening, colon polyp risk stratification, liquid biopsy screening boundary, and function-preserving colorectal surgery. Key claims: ordinary bowel symptoms should be routed by persistence and warning signs rather than panic, tumor markers and immature liquid-biopsy tools cannot replace validated screening and colonoscopy, and colorectal surgery increasingly balances cure with function and quality of life.
+
+## [2026-09-13] lint | Wiki health check
+
+Ran lint. See lint-report.md for details.
 
 ## [2026-09-13] lint | Wiki health check
 

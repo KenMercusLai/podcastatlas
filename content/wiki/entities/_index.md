@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "entities"
 wiki_letter: "a"
-wiki_total_pages: 9962
+wiki_total_pages: 9964
 wiki_pages:
   - key: "Arabica"
     title: "% Arabica"
@@ -371,6 +371,9 @@ wiki_pages:
   - key: "Airbus"
     title: "Airbus"
     url: "/wiki/entities/airbus/"
+  - key: "AireyNeave"
+    title: "Airey Neave"
+    url: "/wiki/entities/aireyneave/"
   - key: "AirJelly"
     title: "AirJelly"
     url: "/wiki/entities/airjelly/"

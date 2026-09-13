@@ -6,7 +6,7 @@ outputs: ["html"]
 wiki_alphabetical: true
 wiki_section: "concepts"
 wiki_letter: "c"
-wiki_total_pages: 7292
+wiki_total_pages: 7295
 wiki_pages:
   - key: "CElegansModelOrganism"
     title: "C. elegans Model Organism"
@@ -1427,6 +1427,12 @@ wiki_pages:
   - key: "ConservationUnderWar"
     title: "Conservation Under War"
     url: "/wiki/concepts/conservationunderwar/"
+  - key: "ConservativeLeadershipElection1975"
+    title: "Conservative Leadership Election 1975"
+    url: "/wiki/concepts/conservativeleadershipelection1975/"
+  - key: "ConservativePartyClassRealignment"
+    title: "Conservative Party Class Realignment"
+    url: "/wiki/concepts/conservativepartyclassrealignment/"
   - key: "ConsiderTheOppositeBiasCorrection"
     title: "Consider-The-Opposite Bias Correction / 反向设想偏见校正"
     url: "/wiki/concepts/considertheoppositebiascorrection/"

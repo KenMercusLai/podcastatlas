@@ -1811,6 +1811,18 @@
       "url": "/topics/culture/"
     }
   ],
+  "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730": [
+    {
+      "key": "history",
+      "label": "History",
+      "url": "/topics/history/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "663-britain-in-the-70s-the-brexit-that-never-was-part-2-glt2237203377": [
     {
       "key": "economics",
@@ -6623,6 +6635,13 @@
       "key": "science",
       "label": "Science",
       "url": "/topics/science/"
+    }
+  ],
+  "AireyNeave": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "AirportApprovalAirspaceConstraint": [
@@ -17277,7 +17296,21 @@
       "url": "/topics/culture/"
     }
   ],
+  "ConservativeLeadershipElection1975": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
   "ConservativePartnershipInstitute": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
+    }
+  ],
+  "ConservativePartyClassRealignment": [
     {
       "key": "politics",
       "label": "Politics",
@@ -38512,6 +38545,13 @@
       "key": "economics",
       "label": "Economics",
       "url": "/topics/economics/"
+    }
+  ],
+  "KeithJoseph": [
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "KeithRabois": [
@@ -66693,6 +66733,18 @@
       "key": "culture",
       "label": "Culture",
       "url": "/topics/culture/"
+    }
+  ],
+  "ThatcheriteMoralMarketPolitics": [
+    {
+      "key": "economics",
+      "label": "Economics",
+      "url": "/topics/economics/"
+    },
+    {
+      "key": "politics",
+      "label": "Politics",
+      "url": "/topics/politics/"
     }
   ],
   "TheAITurningPoint": [

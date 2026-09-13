@@ -4823,6 +4823,22 @@
       "updated": "2026-08-31",
       "url": "/wiki/entities/airchina/"
     },
+    "AireyNeave": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1785737730 [GLT1785737730].md",
+          "key": "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730",
+          "show": "The Rest Is History",
+          "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+          "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/aireyneave/"
+    },
     "AirlineMealIndustrialization": {
       "episode_count": 2,
       "show_count": 2,
@@ -18882,6 +18898,38 @@
       "updated": "2026-09-06",
       "url": "/wiki/concepts/consentlessfacialsearch/"
     },
+    "ConservativeLeadershipElection1975": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1785737730 [GLT1785737730].md",
+          "key": "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730",
+          "show": "The Rest Is History",
+          "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+          "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/conservativeleadershipelection1975/"
+    },
+    "ConservativePartyClassRealignment": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1785737730 [GLT1785737730].md",
+          "key": "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730",
+          "show": "The Rest Is History",
+          "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+          "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/conservativepartyclassrealignment/"
+    },
     "ConsortHeirSecuritySpiral": {
       "episode_count": 1,
       "show_count": 1,
@@ -27091,9 +27139,9 @@
       "url": "/wiki/concepts/educationmotivationarchitecture/"
     },
     "EdwardHeath": {
-      "episode_count": 2,
+      "episode_count": 3,
       "show_count": 1,
-      "source_note_count": 2,
+      "source_note_count": 3,
       "sources": [
         {
           "episode_file": "GLT9519811642 [GLT9519811642].md",
@@ -27108,6 +27156,13 @@
           "show": "The Rest Is History",
           "title": "700. The Troubles: Bloody Sunday (Part 4)",
           "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        },
+        {
+          "episode_file": "GLT1785737730 [GLT1785737730].md",
+          "key": "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730",
+          "show": "The Rest Is History",
+          "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+          "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
         }
       ],
       "updated": "2026-08-27",
@@ -53343,6 +53398,22 @@
       "updated": "2026-09-10",
       "url": "/wiki/entities/kearney/"
     },
+    "KeithJoseph": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1785737730 [GLT1785737730].md",
+          "key": "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730",
+          "show": "The Rest Is History",
+          "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+          "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/keithjoseph/"
+    },
     "KenCato": {
       "episode_count": 1,
       "show_count": 1,
@@ -64128,6 +64199,29 @@
       ],
       "updated": "2026-09-05",
       "url": "/wiki/entities/marcusliviusdrusus/"
+    },
+    "MargaretThatcher": {
+      "episode_count": 2,
+      "show_count": 2,
+      "source_note_count": 2,
+      "sources": [
+        {
+          "episode_file": "81.间谍与叛徒：恕我直言，007的故事弱爆了 (下) [693711209].md",
+          "key": "81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209",
+          "show": "蜜獾吃书",
+          "title": "81.间谍与叛徒：恕我直言，007的故事弱爆了（下）",
+          "url": "/wiki/sources/81-jiandie-yu-pantu-shuwozhiyan-007-de-gushi-ruobaole-xia-693711209/"
+        },
+        {
+          "episode_file": "GLT1785737730 [GLT1785737730].md",
+          "key": "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730",
+          "show": "The Rest Is History",
+          "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+          "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/entities/margaretthatcher/"
     },
     "MariaCurie": {
       "episode_count": 7,
@@ -94576,6 +94670,22 @@
       "updated": "2026-08-26",
       "url": "/wiki/entities/teyanataylor/"
     },
+    "ThatcheriteMoralMarketPolitics": {
+      "episode_count": 1,
+      "show_count": 1,
+      "source_note_count": 1,
+      "sources": [
+        {
+          "episode_file": "GLT1785737730 [GLT1785737730].md",
+          "key": "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730",
+          "show": "The Rest Is History",
+          "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+          "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
+        }
+      ],
+      "updated": "2026-09-13",
+      "url": "/wiki/concepts/thatcheritemoralmarketpolitics/"
+    },
     "TheAnxiousGeneration": {
       "episode_count": 1,
       "show_count": 1,
@@ -103258,9 +103368,9 @@
       "url": "/wiki/entities/williamtheconqueror/"
     },
     "WillieWhitelaw": {
-      "episode_count": 1,
+      "episode_count": 2,
       "show_count": 1,
-      "source_note_count": 1,
+      "source_note_count": 2,
       "sources": [
         {
           "episode_file": "GLT3909829334 [GLT3909829334].md",
@@ -103268,6 +103378,13 @@
           "show": "The Rest Is History",
           "title": "700. The Troubles: Bloody Sunday (Part 4)",
           "url": "/wiki/sources/700-the-troubles-bloody-sunday-part-4-glt3909829334/"
+        },
+        {
+          "episode_file": "GLT1785737730 [GLT1785737730].md",
+          "key": "662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730",
+          "show": "The Rest Is History",
+          "title": "662. Britain in the 70s: The Rise of Thatcher (Part 1)",
+          "url": "/wiki/sources/662-britain-in-the-70s-the-rise-of-thatcher-part-1-glt1785737730/"
         }
       ],
       "updated": "2026-08-27",

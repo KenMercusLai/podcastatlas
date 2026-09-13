@@ -5,7 +5,7 @@ description: "Markets, finance, investing, trade, companies, entrepreneurship, a
 outputs: ["html"]
 topic_page: true
 topic_key: "economics"
-topic_total_pages: 2024
+topic_total_pages: 2025
 topic_concepts:
   - key: "TenXParadox"
     title: "10X Paradox"
@@ -2755,6 +2755,9 @@ topic_concepts:
   - key: "TerminalValueNarrative"
     title: "Terminal Value Narrative / 终局空间叙事"
     url: "/wiki/concepts/terminalvaluenarrative/"
+  - key: "ThatcheriteMoralMarketPolitics"
+    title: "Thatcherite Moral-Market Politics"
+    url: "/wiki/concepts/thatcheritemoralmarketpolitics/"
   - key: "MarketForLemons"
     title: "The Market For Lemons"
     url: "/wiki/concepts/marketforlemons/"
